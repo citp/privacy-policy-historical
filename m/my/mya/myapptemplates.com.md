@@ -1,155 +1,75 @@
-> *The following text is extracted and transformed from the myapptemplates.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614061340id_/http%3A//www.myapptemplates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myapptemplates.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120073358id_/http%3A//myapptemplates.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - iPhone App Templates - Use An App Template And Save In Design Costs
+# MyAppTemplates | Privacy Policy - MyAppTemplates
 
-**by SEQ Legal**
+### What information do we collect?
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+We collect information from you when you register on our site, place an order or subscribe to our newsletter.
 
-[Our website uses cookies. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.]
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously
 
-### (1) Credit
+### What do we use your information for?
 
-This document was created using an SEQ Legal template.
+Any of the information we collect from you may be used in one of the following ways:
 
-### (2) What information do we collect?
+  * To personalize your experience – (your information helps us to better respond to your individual needs)
+  * To improve our website – (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service – (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails
+  * The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-We may collect, store and use the following kinds of personal information:
 
-[(a) information about your computer and about your visits to and use of this website (including [your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, website navigation and [ _details_ ]]);]
 
-[(b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services (including [ _details_ ]);]
+**Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.**
 
-[(c) information that you provide to us for the purpose of registering with us (including [ _details_ ]);]
+### How do we protect your information?
 
-[(d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including [ _details_ ]);]
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-[(e) any other information that you choose to send to us; and]
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-[(f)  _other information._ ]
+After a transaction, your private information will not be stored on our servers.
 
-### [(3) Cookies
+### Do we use cookies?
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-We [may] use [both] ["session" cookies] [and "persistent" cookies] on the website. [We will use the session cookies to: keep track of you whilst you navigate the website; and [ _other uses_ ].] [We will use the persistent cookies to: enable our website to recognise you when you visit; and [ _other uses_ ].]
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-[Session cookies will be deleted from your computer when you close your browser.] [Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.]
+### Do we disclose any information to outside parties?
 
-[We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.]
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-[Our [advertisers/payment services providers] may also send you cookies.]
+### Third party links
 
-[We publish Google Adsense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour across the web using cookies. You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/. You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy_ads.html. However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.]
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites[, including this one].]
+### California Online Privacy Protection Act Compliance
 
-### (4) Using your personal information
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into the ‘My Account’ panel and editing details on the page.
 
-We may use your personal information to:
+### Childrens Online Privacy Protection Act Compliance
 
-[(a) administer the website;]
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-[(b) improve your browsing experience by personalising the website;]
+### Online Privacy Policy Only
 
-[(c) enable your use of the services available on the website;]
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-[(d) send to you goods purchased via the website, and supply to you services purchased via the website;]
+### Your Consent
 
-[(e) send statements and invoices to you, and collect payments from you;]
+By using our site, you consent to our privacy policy.
 
-[(f) send you general (non-marketing) commercial communications;]
+### Changes to our Privacy Policy
 
-[(g) send you email notifications which you have specifically requested;]
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-[(h) send to you [our newsletter and other] marketing communications relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);]
+### Contacting Us
 
-[(i) provide third parties with statistical information about our users - but this information will not be used to identify any individual user;]
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[(j) deal with enquiries and complaints made by or about you relating to the website; and]
-
-[(k)  _other uses_.]
-
-[Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.]
-
-[We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.]
-
-[All our website financial transactions are handled through our payment services provider, PayPal. You can review the PayPal privacy policy at www.paypal.com. We will share information with PayPal only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.]
-
-### (5) Disclosures
-
-We may disclose information about you to [any of our employees, officers, agents, suppliers or subcontractors] insofar as reasonably necessary for the purposes as set out in this privacy policy.
-
-In addition, we may disclose your personal information:
-
-(a) to the extent that we are required to do so by law;
-
-(b) in connection with any legal proceedings or prospective legal proceedings;
-
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
-
-[(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling; and]
-
-[(e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.]
-
-Except as provided in this privacy policy, we will not provide your information to third parties.
-
-### [(6) International data transfers
-
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
-
-Information which you provide may be transferred to countries [(including [the United States], [Japan], [ _other countries_ ])] which do not have data protection laws equivalent to those in force in the European Economic Area.
-
-[In addition, [personal information that you submit for publication on the website] will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.]
-
-You expressly agree to such transfers of personal information.]
-
-### (7) Security of your personal information
-
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
-
-[We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted [using SSL technology].]
-
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
-
-[You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).]
-
-### (8) Policy amendments
-
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
-
-[We may also notify you of changes to our privacy policy by email.]
-
-### (9) Your rights
-
-You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to:
-
-(a) the payment of a fee (currently fixed at £10.00); and
-
-(b) the supply of appropriate evidence of your identity [(for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address)].
-
-We may withhold such personal information to the extent permitted by law.
-
-You may instruct us not to process your personal information for marketing purposes by email at any time. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.
-
-### (10) Third party websites
-
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
-
-### (11) Updating information
-
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
-
-### (12) Contact
-
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [ _tapha@taphamedia.com_ ] or by post to [145-157 St John Street London EC1V 4PW United Kingdom].
-
-### (13) Data controller
-
-The data controller responsible in respect of the information collected on this website is [ _Tapha Media Ltd_ ].
-
-Our data protection registration number is [ _number_ ].
-
-**If you use this template, you must: (1) retain the credit for SEQ Legal; (2) add a hyperlink to www.seqlegal.com (any page) to another page of your website (e.g. your resources page or credits page); and (3) comply with the other provisions of our terms and conditions relating to our free legal documents.**
+[support@myapptemplates.com](mailto:support@myapptemplates.com)
