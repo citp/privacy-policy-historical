@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiphoprx.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521193836id_/http%3A//www.hiphoprx.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphoprx.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120022500id_/http%3A//www.hiphoprx.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HipHopRX.com - Your Daily Dose of Hip-Hop
 
