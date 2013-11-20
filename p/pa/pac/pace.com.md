@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pace.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527222358id_/http%3A//www.pace.com/universal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pace.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120152855id_/http%3A//www.pace.com/universal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pace
+# Privacy Policy | Pace
 
 ## **About this Policy**
 
@@ -234,3 +234,9 @@ Please note that in accordance with our security procedures we may also request 
 ## **How will you know if we make any changes to this Privacy Policy?**
 
 We may amend this Privacy Policy from time to time. If we make any substantial changes to the way in which we use your personal information, we will notify you by posting a notice on the Website's homepage. You can view the current version of our Privacy Policy at any time by clicking on the Privacy Policy link on the Pace Corporate homepage or via the link at the bottom of each page.
+
+## EU Safe Harbor Privacy Policy
+
+The European Commission’s Directive on Data Protection went into effect in October of 1998 regarding the transfer of personal data to non-European Union countries. However, a streamlined means for U.S. organizations to comply with the Directive, was adopted in cooperation with the U.S. Department of Commerce and the European Commission. Together they developed a "Safe Harbor" framework where both can share the goal of enhancing privacy protection for their citizens. The following link states the EU Safe Harbor Privacy Policy for Pace.  [http://www.pace.com/universal/privacy-policy/eusafe-harbor/](https://web.archive.org/universal/privacy-policy/eusafe-harbor/)
+
+To learn more about the Safe Harbor program, and view the 2Wire, Inc. d/b/a Pace Americas’ certification, please visit <http://www.export.gov/safeharbor/>
