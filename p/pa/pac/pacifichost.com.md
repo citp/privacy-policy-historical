@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacifichost.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601223721id_/http%3A//www.pacifichost.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacifichost.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120022121id_/http%3A//www.pacifichost.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Information by PacificHost
 
@@ -28,6 +28,7 @@ If you have questions or concerns regarding this policy, you should first contac
 
 As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
+  
 **We use this information to:**
 
   * Fulfill your order
@@ -41,7 +42,9 @@ As is true of most Web sites, we automatically gather information about your com
   * Improve our Web site and marketing efforts
   * Conduct research and analysis
 
-**Choice/Opt-Out**
+
+
+Choice/Opt-Out
 
 You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [billing@pacifichost.com](mailto:billing@pacifichost.com).
 
@@ -66,7 +69,9 @@ We may also disclose your personal information
   * if PacificHost is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * to any other third party with your prior consent to do so.
 
-_GoogleCheckout_
+
+
+GoogleCheckout
 
 If you choose to use GoogleCheckout to finalize and pay for your order, you will provide your credit card number directly to GoogleCheckout. Google's privacy policy will apply to the information you provide on the GoogleCheckout Web site.
 
@@ -90,11 +95,11 @@ We provide two means for you to make a purchase on our site. You can either use 
 
 ## Additional Policy Information
 
-**Correcting and Updating Your Personal Information**
+Correcting and Updating Your Personal Information
 
 To review and update your personal information to ensure it is accurate, contact us at [billing@pacifichost.com](mailto:billing@pacifichost.com).
 
-**Notification of Privacy Statement Changes**
+Notification of Privacy Statement Changes
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
@@ -106,40 +111,10 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 PacificHost
 
-9245 Laguna Springs Dr. Suite 200
+1360 North Hancock Street
 
-Elk Grove, CA  95758 
+Anaheim, CA 92807
 
 United States
 
-|  |  | [](https://web.archive.org/web/20130601223721id_/http%3A//www.pacifichost.com/uptime-guarantee.shtml)  
----  
-[](https://web.archive.org/web/20130601223721id_/http%3A//www.pacifichost.com/moneyback-guarantee.shtml)  
-[](https://web.archive.org/web/20130601223721id_/http%3A//www.pacifichost.com/support-guarantee.shtml)  
-|   
----  
-Guaranteed Hosting  
-\- Certified by Review Sites  
-\- Uptime Reports  
-\- Quality Checked  
-\- [Learn More](https://web.archive.org/web/20130601223721id_/http%3A//www.pacifichost.com/hosting-awards.shtml)
-
-We carry the seal of approval from multiple review and hosting related websites to assure the quality of our hosting.  
-  
-|   
----  
-Get AIM Support  
-\- Support over AIM  
-\- Instant Answers  
-\- Help to common Issues  
-\- IM: _**pacifichsupport**_
-
-Complimentary to all of our hosting plans is basic question/answer support over AIM.  
-  
-Give us your Feedback  
-\- View Customer Reviews  
-\- Submit your own Review  
-\- Customer Approved  
-\- Learn more 
-
-We strive to achieve excellence in customer service and offer a link to view what other customers think of PacificHost.
+|  | 
