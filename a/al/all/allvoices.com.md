@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allvoices.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624023508id_/http%3A//www.allvoices.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allvoices.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120022501id_/http%3A//www.allvoices.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: allvoices - events, people, places that matter - tell us your news
 
@@ -8,7 +8,7 @@ Allvoices (“Allvoices” or “we”) respects and values your privacy. As suc
 
 Allvoices reserves the right to modify this Privacy Policy from time to time. Changes to the Privacy Policy will be posted on this website and the effective date of the Privacy Policy will be modified to reflect the effective date of the most recent version. If a material change to our information practices occurs in the future, we will only use PII collected from the time of the policy change forward for these new purposes unless we have your consent. 
 
-he terms and conditions governing your use of the Allvoices website are contained in a separate Terms of Use agreement available at [www.allvoices.com/terms](https://web.archive.org/terms).
+he terms and conditions governing your use of the Allvoices website are contained in a separate Terms of Use agreement available at <http://www.allvoices.com/terms>.
 
 ## Types of Information We Collect or Maintain About Individuals through This Website 
 
@@ -94,7 +94,7 @@ Allvoices places the highest value on the privacy of children. Allvoices does no
 
 **Access**
 
-Individuals wishing to review PII collected by Allvoices on this website should write to Allvoice’s Privacy Department, c/o PulsePoint, 345 Hudson Street, 5th Floor, New York, New York 10014. Allvoices may take reasonable steps to confirm the identity of the consumer in an effort to prevent identity theft.
+Individuals wishing to review PII collected by Allvoices on this website should write to Allvoices’ Privacy Department, c/o PulsePoint, 20 Broad Street, 6th Floor, New York, NY 10014. Allvoices may take reasonable steps to confirm the identity of the consumer in an effort to prevent identity theft.
 
 ## European Union and Other Non-US Residents
 
@@ -103,7 +103,7 @@ Your information may be stored and processed in any country in which Allvoices o
 In addition, Allvoices’ parent company, PulsePoint, has self-certified to the Department of Commerce's Safe-Harbor framework, and we adhere to the Safe-Harbor Principles. For more information on the Safe-Harbor program, visit <http://export.gov/safeharbor>. If you are a European resident and have a data-privacy inquiry, you may contact us at [info@pulsepoint.com](mailto:info@pulsepoint.com) or in writing at:
 
 PulsePoint  
-345 Hudson Street, 5th Floor  
+20 Broad Street, 6th Floor  
 New York, NY 10014  
 Tel: (212) 706-9781
 
@@ -124,6 +124,6 @@ If you have any questions about your California privacy rights or this Privacy P
 
 Allvoices Privacy Department  
 c/o PulsePoint  
-345 Hudson Street, 5th Floor  
+20 Broad Street, 6th Floor  
 New York, NY 10014  
 Tel: (212) 706-9781
