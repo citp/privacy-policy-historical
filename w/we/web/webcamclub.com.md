@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcamclub.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521234841id_/http%3A//www.webcamclub.com%3Fc2hvdz1wcml2YWN5JndpZHRoPTkwMA%3D%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamclub.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120013539id_/http%3A//www.webcamclub.com%3Fc2hvdz1wcml2YWN5JndpZHRoPTkwMA%3D%3D) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ Visitors to our site and services will have multiple manners of interactivity wi
 
 * How we collect information from you
 
-  1. Passive Collection - We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address, in order to determine the User’s geographic location as a means of fraud prevention.
+  1. Passive Collection - We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address, in order to determine the Userï¿½s geographic location as a means of fraud prevention.
 
   2. Active Collection - we collect information from you when you complete registration forms to sign up for your membership on our Website. Locations for such collection are registration pages, such as <http://www.webcamclub.com/register.php> but we reserve the right to add additional information collection portals.
 
@@ -42,7 +42,7 @@ Visitors to our site and services will have multiple manners of interactivity wi
 
 The primary use for your information is to provide you with services you have requested and/or paid for. We also use your information to deliver customized services to you. Non-personal and aggregate information, such as that collected passively is used in order to customize our marketing efforts or to customize the use of our site for an aggregate group of customers. We additionally will use the personal information of users whose membership has expired or have been cancelled in order to market our services to these individuals in the future.
 
-We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services. We also use your information for market research purposes - in order to increase your (and other users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes.
+We generally will use your information for the purposes for which you specifically provide it, for example, to ensure payment for subscription services. We also use your information for market research purposes - in order to increase your (and other usersï¿½) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes.
 
 * Special Cases.
 
@@ -62,7 +62,7 @@ It is our policy not to use or share the personal information about Visitors or 
 
 * Transmittals from Us
 
-We may send You periodic email and/or SMS messaging communications that include, but are not limited to, announcements and exclusive offers related to Our existing and new programs. You may opt out of these announcements by contacting [support@webcamclub.com](mailto:support@webcamclub.com), or by clicking the opt-out link at the bottom of these communications. If You opt out of such communications, You may still receive account updates, support services and other information that is specifically related to the administrative operations of Your account via email. For example, We may send You communications confirming account activity, like password resets or tech support inquiries. Any such email notification will be issued to You from [support@webcamclub.com](mailto:support@webcamclub.com). If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.
+We may send You periodic email and/or SMS messaging communications that include, but are not limited to, announcements and exclusive offers related to Our existing and new programs. You may opt out of these announcements by contacting [ support@webcamclub.com ](mailto:%20support@webcamclub.com), or by clicking the opt-out link at the bottom of these communications. If You opt out of such communications, You may still receive account updates, support services and other information that is specifically related to the administrative operations of Your account via email. For example, We may send You communications confirming account activity, like password resets or tech support inquiries. Any such email notification will be issued to You from [ support@webcamclub.com ](mailto:%20support@webcamclub.com). If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.
 
 * Public Forums, Member Directories, and Internal Messaging:
 
@@ -76,15 +76,15 @@ We may send You periodic email and/or SMS messaging communications that include,
 
 * Our Commitment to Data Security.
 
-We take measures, including data encryption, firewall, and the use of other in-house technologies to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures.
+We take measures, including data encryption, firewall, and the use of other in-house technologies to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party ï¿½hackersï¿½ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures.
 
 * How to Access or Modify Your Information.
 
-We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at [support@webcamclub.com](mailto:support@webcamclub.com).
+We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at [ support@webcamclub.com ](mailto:%20support@webcamclub.com).
 
 * Where to Direct Questions About Our Privacy Policy.
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [support@webcamclub.com](mailto:support@webcamclub.com).
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us at [ support@webcamclub.com ](mailto:%20support@webcamclub.com).
 
 * E-Mail Removal
 
