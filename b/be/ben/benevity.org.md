@@ -1,26 +1,24 @@
-> *The following text is extracted and transformed from the benevity.org privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124041521id_/http%3A//www.benevity.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benevity.org privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120161025id_/http%3A//www.benevity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Benevity
 
-### PRIVACY POLICY
-
-Last Updated: September 8, 2008
+**Last Updated: September 8, 2008**
 
 Protecting the privacy and confidentiality of your personal information is a fundamental principle in our relationship with our users, Integration Partners and corporate sponsors. This Privacy Policy tells you how we will ensure the confidentiality and privacy of the information with which you entrust us. All terms used in this policy as defined terms and not specifically defined herein, have the respective meanings provided in our Terms of Use.
 
-This policy governs the use of personal information respecting the public portions of the Benevity website at [www.benevity.org](http://www.benevity.org/). To learn about terms and conditions applicable to your use of the Benevity Donation Platform from the secure portions of the Benevity site or from the site of one of our Integration Partners, please read the User Agreement found on the applicable site.
+This policy governs the use of personal information respecting the public portions of the Benevity website at [www.benevity.com](http://www.benevity.com/). To learn about terms and conditions applicable to your use of the Benevity Donation Platform from the secure portions of the Benevity site or from the site of one of our Integration Partners, please read the User Agreement found on the applicable site.
 
 Access and use of this Website is provided by Benevity to you on condition that you accept the terms of the Privacy Policy, and by accessing or using this Website, you agree to these terms. If you do not agree with and accept this Privacy Policy, you should not access or use this Website.
 
 Benevity may revise and update this Privacy Policy at any time and without notice. You are cautioned to review the Privacy Policy posted on the Website periodically. Your continued access or use of this Website after any such changes are posted will constitute your acceptance of these changes.
 
-By using the Benevity site, you consent to the collection, use and disclosure of your personal information in accordance with this policy. The terms of this policy apply to all personal information collected by Benevity on the website benevity.org and other Benevity websites which are linked to Benevity.org. We have created this policy pursuant to the Personal Property Protection Act (Alberta) 2003, c.P-6.5. Your home jurisdiction may have privacy laws that are more or less protective than the province of Alberta, Canada.
+By using the Benevity site, you consent to the collection, use and disclosure of your personal information in accordance with this policy. The terms of this policy apply to all personal information collected by Benevity on the website Benevity.com and other Benevity websites which are linked to Benevity.com. We have created this policy pursuant to the Personal Property Protection Act (Alberta) 2003, c.P-6.5. Your home jurisdiction may have privacy laws that are more or less protective than the province of Alberta, Canada.
 
 This site is operated by Benevity Social Ventures, Inc. ("Benevity") and may be accessed in Canada and abroad. For personal information protection purposes, Benevity is the controller and, unless otherwise noted, is also the processor of the personal information. Information collected may be retained as long as it is reasonably required for the purposes it was collected.
 
 ### Privacy Officer
 
-We have designated an officer of Benevity to be accountable for our policies and practices with respect to the management of personal information. You may forward any questions, comments or complaints that you might have about this privacy policy to Bryan de Lottinville, President and CEO to our company address, or by email to: [privacy@benevity.org](mailto:privacy@benevity.org).
+We have designated an officer of Benevity to be accountable for our policies and practices with respect to the management of personal information. You may forward any questions, comments or complaints that you might have about this privacy policy to Bryan de Lottinville, President and CEO to our company address, or by email to: [privacy@benevity.com](mailto:privacy@benevity.com).
 
 ### Consent to Collection of Your Personal Information
 
@@ -54,7 +52,7 @@ We may disclose your personal information to the Benevity Group, provided that t
 
 ### Accessing Your Personal Information
 
-If you would like to review or revise information that you previously provided to us, you may access and change your personal information in the "Account Details" section of the secure portions of the site. You may also contact User Services at (403) 237-7875 or by email at [help@benevity.org](mailto:help@benevity.org) for assistance.
+If you would like to review or revise information that you previously provided to us, you may access and change your personal information in the "Account Details" section of the secure portions of the site. You may also contact User Services at (403) 237-7875 or by email at [help@benevity.com](mailto:help@benevity.com) for assistance.
 
 ### Personal Information Preferences
 
@@ -92,11 +90,11 @@ If a password is used to protect your account and personal information, it is yo
 
 ### Blogs & Other Interactive Services
 
-Our site may include interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, discussion forums, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at [help@benevity.org](mailto:help@benevity.org). Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems.
+Our site may include interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, discussion forums, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites ("Interactive Areas"). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at [help@benevity.com](mailto:help@benevity.com). Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems.
 
 ### Children
 
-We do not intend to solicit donations from or collect personal information from anyone under the age of 18 without parental consent. If you are under 18, you shall not use or enter information on this site, including without limitation, any Interactive Areas of the site without parental consent. Please contact User Services at (403) 237-7875 or by email at [help@benevity.org](mailto:help@benevity.org), to obtain the necessary parental consent forms.
+We do not intend to solicit donations from or collect personal information from anyone under the age of 18 without parental consent. If you are under 18, you shall not use or enter information on this site, including without limitation, any Interactive Areas of the site without parental consent. Please contact User Services at (403) 237-7875 or by email at [help@benevity.com](mailto:help@benevity.com), to obtain the necessary parental consent forms.
 
 ### Links
 
@@ -105,5 +103,3 @@ We may link to websites, including those of our subsidiaries, Integration Partne
 ### Changes to This Privacy Policy
 
 We reserve the right to change the terms of this privacy policy at any time. When we make changes, we will revise the "last updated" date at the top of the policy. If there are material changes to this statement or in how Benevity will use your personal information, we will notify you by prominently posting a notice of such changes here or on our home page, or by sending you an email. We encourage you to review this policy whenever you visit one of our sites.
-
-© 2008 Benevity Social Ventures, Inc. All rights reserved.
