@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluck.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520224624id_/http%3A//www.pluck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluck.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120212305id_/http%3A//www.pluck.com/privacy-policy) for the most accurate reproduction.*
 
 # Demand Media Privacy Policy | Pluck.com | Integrated Customer Interactions
 
