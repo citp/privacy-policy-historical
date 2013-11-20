@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denvergov.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601172431id_/http%3A//www.denvergov.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denvergov.org privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121001711id_/http%3A//www.denvergov.org/privacy) for the most accurate reproduction.*
 
 # City and County of Denver Website Privacy and Security Policy
 
