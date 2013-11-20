@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the starbucks.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607171024id_/http%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120024127id_/http%3A//www.starbucks.com/about-us/company-information/online-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy| Starbucks Coffee Company | Starbucks Coffee Company
 
-Last updated July 29, 2011.
+Last updated August 13, 2013.
 
 The Starbucks name and reputation were built on a foundation of trust. This Starbucks Privacy Policy ("Policy") describes how Starbucks and its subsidiaries and affiliated companies ("Starbucks") collects, uses and discloses personal information of customers through our websites and online services, including [Starbucks.com](http://www.starbucks.com/), and other Starbucks owned or operated websites and online services that link to this policy (collectively, the “Sites”), through our programs and in our physical stores ("Services"). This Policy does not apply to websites and services that display or link to different privacy statements. Websites and services co-branded with other partners may display or link to a joint privacy statement or separate privacy statements of our partners in addition to our Policy.
 
@@ -24,7 +24,16 @@ We may also collect information about you such as:
 
 
 
-We may automatically collect website use information when you visit our Sites. This information may include information about your Internet service provider, your operating system, browser type, domain name, Internet protocol (IP) address, your access times, the website that referred you to us, the Web pages you request, and the date and time of those requests. Our collection of website use information may involve the use of cookies and Web beacons. Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve our Sites and your experience. We use cookies to see which areas and features are popular and to count visits to our Sites. Web beacons are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.  We may also use Local Shared Objects (Flash cookies).  To identify Local Shared Objects on your computer and adjust your settings, visit: [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
+We may automatically collect website use information when you visit our Sites. This information may include information about your Internet service provider, your operating system, browser type, domain name, Internet protocol (IP) address, your access times, the website that referred you to us, the Web pages you request, and the date and time of those requests. Our collection of website use information may involve the use of cookies and Web beacons. Cookies are small data files stored on your hard drive by a website to, among other things, help us improve our Sites and your experience. In addition, this Site uses Targeting or Advertising cookies to see which areas and features are popular and to count visits to our Sites. These cookies are used by third parties such as social networks and advertisers to provide services in return for recognizing that you have visited our Site. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited our Sites and this information is shared with third party organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the third party organization.
+
+Examples include:
+
+  * To allow "Like" buttons and "Share" buttons to work
+  * To collect information about your browsing habits and share it with other websites so they can display advertising that is more relevant to you
+
+
+
+Web beacons are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.  We may also use Local Shared Objects (Flash cookies).  To identify Local Shared Objects on your computer and adjust your settings, visit: [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
 
 Starbucks may also collect aggregated data or anonymized data that does not directly identify you.
 
