@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leftronic.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502231700id_/https%3A//www.leftronic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leftronic.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121210459id_/https%3A//www.leftronic.com/privacy) for the most accurate reproduction.*
 
-# Leftronic » Privacy
+# Leftronic Privacy » Leftronic
 
 Last updated on October 9th, 2012.
 
@@ -22,7 +22,7 @@ Personal information may be shared with companies and organizations that perform
 
 ### Opt-Out of Promotional Materials
 
-You may opt-out of receiving promotional communications by using the “Unsubscribe” link at the bottom of emails or by contacting us at [support@leftronic.com](https://www.leftronic.com/privacy/support@leftronic.com).
+You may opt-out of receiving promotional communications by using the “Unsubscribe” link at the bottom of emails or by contacting us at [support@leftronic.com](mailto:support@leftronic.com).
 
 ### Security
 
