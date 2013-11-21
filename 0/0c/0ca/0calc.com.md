@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 0calc.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502231910id_/http%3A//web2.0calc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 0calc.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121090602id_/http%3A//web2.0calc.com/privacy) for the most accurate reproduction.*
 
 # Web 2.0 scientific calculator
 
