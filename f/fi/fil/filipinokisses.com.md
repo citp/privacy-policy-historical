@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filipinokisses.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522205441id_/http%3A//www.filipinokisses.com/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filipinokisses.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121234341id_/http%3A//www.filipinokisses.com/datasavety.php%3Fl%3Den%26randm%3D2%26randw%3D3) for the most accurate reproduction.*
 
 # Filipino Kisses
 
@@ -27,8 +27,8 @@ Options are:
 
   * You find an OPT-OUT link in every email you receive from us at the bottom of the email.
   * When you are logged in at the site you go to menu "My membership". There you find a button to delete your profile.
-  * Send us an e-mail to **_[info@filipinokisses.com](mailto:info@filipinokisses.com?subject=Questions%20for%20Filipino%20Kisses)_** to let us know that you would like to opt out of future correspondence and we will remove you from our lists.
-  * Send us a fax to +49 911 308 44 77 844 with your email address you used to register at Filipino Kisses and your member ID ****
+  * Send us an e-mail to **_[info@filipinokisses.com](mailto:info@filipinokisses.com?subject=Questions%20for%20Filipino%20Kisses%20not-logged-in)_** to let us know that you would like to opt out of future correspondence and we will remove you from our lists.
+  * Send us a fax to +49 911 308 44 77 844 with your email address you used to register at Filipino Kisses and your member ID **not-logged-in**
 
 
 
@@ -75,7 +75,7 @@ Please remember what you should do whenever you voluntarily provide personal inf
 
 ## 9\. Self-control
 
-IK Softwareportal GmbH allows compliance with the Privacy Policy regularly checked by an independent data protection officer. Please contact with any questions about privacy on our first customer. If your privacy questions could not be satisfactorily resolved by the customer, you can also contact our data security consultant Mr. Ingo Legner. You can reach him at: **[info@derschild.de](mailto:info@derschild.de?subject=Privacy%20request%20for%20Filipino%20Kisses)** . 
+IK Softwareportal GmbH allows compliance with the Privacy Policy regularly checked by an independent data protection officer. Please contact with any questions about privacy on our first customer. If your privacy questions could not be satisfactorily resolved by the customer, you can also contact our data security consultant Mr. Ingo Legner. You can reach him at: **[info@derschild.de](mailto:info@derschild.de?subject=Privacy%20request%20for%20Filipino%20Kisses%20not-logged-in)** . 
 
 ## 1\. Content
 
@@ -88,7 +88,7 @@ The author is not responsible for any contents linked or referred to from his pa
 
 ## 3\. Copyright
 
-The author intended not to use any copyrighted material for the publication or, if not possible, to indicate the copyright of the respective object. The copyright for any material created by the author is reserved. Any duplication or use of objects such as images, diagrams, sounds or texts in other electronic or printed publications is not permitted without the author's agreement. 
+The author intended not to use any copyrighted material for the publication or, if not possible, to indicate the copyright of the respective object. The copyright for any material created by the author is reserved. Any duplication or use of objects such as images, diagrams, sounds or texts in other electronic or printed publications is not permitted without the author"s agreement. 
 
 ## 4\. Legal validity of this disclaimer
 
