@@ -1,47 +1,129 @@
-> *The following text is extracted and transformed from the innovid.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627034841id_/http%3A//www.innovid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovid.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121153744id_/http%3A//www.innovid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Innovid
 
-Innovid Inc. and all of its affiliates (“Innovid”) have a strong commitment to protect the privacy of the users and to protect personal information of our visitors and users. This Privacy Policy statement aims to ensure the protection of privacy of our visitors and users.  
-When using Innovid's services and website, you may post and share information. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information, this information may become publicly available.
+## Innovid Privacy and Cookie Policy
 
-**Acceptance of Policy**  
-By accessing and using the Website or other Innovid’s services as may be offered from time to time (collectively referred as the “Website”), whether you are a visitor, using the Website without registration (“Visitor”), or a user that registered to have an account in the website (“User”) (“Visitor” and “User” collectively referred as “You”), You agree to be bound by this Policy. If You do not agree to any of the provisions as set hereunder in this Policy, You have no right to use any of the Website.  
-This Policy should read together with the Terms of Use and together they constitute the entire agreement between You and Innovid.
+Innovid, Inc., having its principal office and place of business at 30 Irving Place, 11th Floor, New York, NY 10003
 
-**Scope of This Privacy Policy Statement**  
-This Policy describes the information collected by Innovid and the uses of that information while using the Website and affiliated services.  
-For purposes of this Policy, “Personally Identifying Information” shall hereby mean information which is identifiable to You, including inter alia, e-mail, name address, pictures and friends, whether public or non-public, whether provided by You during a visit and/or registration or imported by Innovid from other sources, per a User's request and upon its explicit consent; “Anonymous Information” shall hereby mean information which does not enable identification of an individual user.  
-This Privacy Policy does not cover collection or use of information by third parties or linked sites, which Innovid does not control, own or manage.
+(“Innovid”) has a strong commitment to protect the privacy of visitors and users. Our Privacy and Cookie Policy describes how information is collected and utilised by Innovid. This Privacy and Cookie Policy (the “ **Policy** ”) applies to visitors to the website located at [www.innovid.com](http://www.innovid.com/) (the “ **Innovid Website** ”), and to Innovid’s online interactive video advertising services provided to various advertisers, agencies, publishers and other business across various third party websites and online media (the “ **Services** ”). Please contact us with any questions or concerns at [privacy@innovid.com](mailto:privacy@innovid.com).
 
-**Changes of the Policy**  
-Innovid reserves the right to change or modify this Policy from time to time, without prior notice, by posting the modified policy on the Website. Your continued use of the Website indicates Your acceptance of any revised policy.
+We are committed to protecting and respecting your privacy. Protecting your privacy is paramount to us.  Please read the following carefully to understand our views and practices regarding your information and how we will treat it.  By accessing and using the Innovid Website and using our Services you consent to us processing your information in accordance with this Policy.
 
-**Information Gathered Using Innovid Website**  
-Innovid collects Personally Identifying Information in the course of the use of the Website by Visitors and registered Users to improve the performance of the Website, ensure the quality of the Website and enrich the offerings of services available to Innovid's customers on the Website. In the process of registration, You are required to provide Personally Identifying Information, including, but not limited to, first and last name, email address, password, country of origin and other identifying information. You can choose not to provide Innovid with certain information, but be aware that it may limit the functionality or offering of the services available to You on the Website.  
-Innovid may further collect information about the time, type and manner of use of the Website. This information may include information regarding the IP Address and Geo-IP parameters, time of usages, viewed files, and other information regarding the use of the Website. Innovid may store this information as Personally Identifying Information associated with a User's profile and use it to improve the Website and enhance the experience.  
-Please note that no information about Your search history will be collected, used or presented by Innovid unless you specifically opt-in to enable it.
+The Innovid Website may link to, and the Services may appear on, third party websites and online media. Innovid does not control and is not responsible for the privacy practices of third parties, and this Policy does not cover collection or use of information by third parties on such properties. Visitors to or users of such third party websites or other media should consult the privacy policies of such properties to learn about such third parties’ privacy practices.
 
-**Cookies Policy**  
-Innovid collects additional information, such as information concerning users’ use of the Website, using various types of cookies, which are small text files, stored on Your computer, in order to improve the performance of the Website and collect data which enhance the functionality and performance of the Website. It is Your choice whether to accept or reject cookies and You can set your browser to reject cookies altogether or to reject Innovid's cookies in particular or to delete these cookies. However, if You choose to reject cookies or delete them, it may limit some of the functionalities available or effect your experience with the Website.  
-Innovid uses session ID cookies to make it easier for You to navigate Innovid's system. This cookie is not saved for longer than the navigation session and expires when the browser is closed. Innovid also uses persistent cookies, which remain stored on the hard drive for longer periods, for storing information, such as your browser type, your login name or Your last preferences, to enable improved viewing and usage of the Website, for example to make it easer for You to login when You come back to the Website. You can delete or block this cookie by actively removing or blocking this cookie from the setting in Your browser.  
-Innovid may further use cookies to monitor potential fraud and abuse of the accounts or use which is not in accordance with the Terms of Use.  
-Innovid also allows third parties servers and/or advertisers, to include advertisements or any such material within the website. This enables third parties to also send their own cookies to Your computer. If You want to prevent a third-party from sending and reading cookies on your computer, currently You must visit each third party's website individually and opt out (if they offer this capability).
+For purposes of this Policy, “ **Personally Identifiable Information** ” or “ **PII** ” means name, e-mail, address, telephone number, and any other information that can be used to identify, contact or precisely locate a person.
 
-**Personally Identifying Information from Other Sources**  
-Innovid automatically collects information from multiple sources to present an aggregated search result regarding people and their content and web presence. Innovid does not monitor, control, edit or manipulate any of the collected information and presents it “as-is” in the form of aggregated profile. Innovid is not responsible for the information which is presented at these sources and does not control the disclosure of any information, Personally Identifying or Anonymous, which is made available by these sources. In a case that Personally Identifying Information is published in any of these sources, You may contact the source to request to remove, edit, update, change or delete this information, all according to the law and the set policies of the information source. Note, Innovid has no technological capability, legal right or ability to remove, edit, update, change or delete any information at the source.  
-Innovid may also receive Personally Identifying Information about You from other sources, such as public information archives, all according to the law and the terms of these archives, and may also import from other sources, per your request and upon your consent, Personally Identifying Information about You which is non-public.
+“ **Non-PII** ” means information not included in the definition of “PII”, including information such as, pages or ads visited, time spent on each ad, referring domain, visit duration, items that visitors click or select, browser type, IP address and operating system.
 
-**Data and Information Security**  
-Innovid is committed to protect the security of its Users’ data and information and takes reasonable measures available to assure data and information security. Access to Personally Identifying Information will be protected and controlled by password and restricted permissions. However, no method of Internet transmission or electronic storage is 100% secure and Innovid cannot guarantee its absolute security. By using the Website, You expressly agree that Innovid will not be liable for any third party action, misuse, abuse or infringement of data and information security.  
-For additional information regarding security, please contact: [support@innovid.com.](mailto:support@innovid.com?subject=Additional%20Info%20request%20from%20Innovid%27s%20Privacy%20Policy%20page)
+###  Quick Guide to Content
 
-**Use of Metadata**  
-Innovid may use the metadata, including, but not limited to, tags, search history, links, comments, posts and clickstrems, which is created in the process of using the Website to enrich User's experiences and provide Users and affiliates with useful information, in accordance with this Policy. Innovid may use this collected information for targeted advertisement services and contextualized placement of advertisement or sponsored content. However, search history information may be shared with third parties only in its anonymous form (i.e. the Anonymous Information) and without disclosing any Personally Identifying Information which is associated with or related to this information.
+  1. Innovid Website
+  2. Cookies Services
+  3. Data Retention
+  4. Legal and Regulatory Compliance
+  5. Third Party Service Providers
+  6. Business Transfers
+  7. Newsletter Subscriptions
+  8. Aggregate Information
+  9. Communication
+  10. Data and Information Security
+  11. Children's Privacy
 
-**Children's Privacy**  
-Innovid is committed to protect children’s privacy and to follow the laws, regulations and guidelines in regard to children's privacy. Innovid’s Website is not available to children under the age of 13 and children under the age of 13 are illegible to register for the Website. Innovid will never knowingly accept or solicit Personally Identifying Information from a User known to be under the age of thirteen (13). If you have concerns regarding children under the age of 13 using the Website or deprived of their privacy, please contact Innovid at [support@innovid.com](mailto:support@innovid.com?subject=Question%20about%20Children%27s%20Privacy%20from%20the%20Innovid%20Privacy%20Policy%20page) and Innovid is committed to act immediately to answer your concern.  
-Innovid also recommends that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-**Disclaimer Regarding Linked Sites**  
-While using the Website, You may be linked from or to third parties sites. Innovid is not responsible for information, content, terms of use of privacy policy at these sites. Innovid takes a careful notice in choosing its business partners and affiliates and aims to associate only with reliable partners which our committed to users privacy. However, remember that when You use a link to go from the website to another website, Innovid's Privacy Policy is no longer in effect. By Your browsing and interacting on any other website, including websites which have a link on the website, You are subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
+
+##  Innovid Website
+
+###  Non-PII
+
+Innovid may collect Non-PII from visitors to the Innovid Website. This information may be used to monitor usage of the Innovid Website, conduct administration and troubleshooting, and assist in improvements to Innovid Website. Innovid may customize the content the visitor receives in future visits to the Innovid Website based on such visitor’s preferences and activities as determined based upon such Non-PII.
+
+###  Registration Data and Account Data
+
+If you register to use the Innovid Website as a customer of the Services (e.g., as an agency, advertiser or publisher customer), Innovid may request and store Personally Identifying Information you provide, such as your name, email address, company name, username, telephone number and address (collectively, “Registration Data”). Following your registration, you may use the Innovid Website to set up your account, view reports and/or manage or view advertising campaigns. Innovid may collect information about the manner of your use of the Innovid Website, including session length, IP Address, time of usage, viewed pages and files, and other information regarding your use of the Innovid Website (collectively with Registration Data, the “Account Data”). Innovid may use and retain Account Data in order to provide the Services to you, manage and maintain the account, conduct internal analysis, perform billing, invoicing and payment functions in connection with your account, send Services-related information, alerts and promotional messages to you, and maintain and improve the performance of the Innovid Website and Services.
+
+###  Combination of Non-PII and Account Data
+
+Non-PII may be combined with a visitor’s Account Data once the visitor has registered for or subsequently logged into the Innovid Website. The combined data is used to provide, monitor and assist in improvements to the Services and the Innovid Website, and to customize content displayed to you on the Innovid Website.
+
+Anonymous Data, Account Data, Registration Data, and combined data collected from the Innovid Website is not sold or rented to third parties. In addition, such information is not shared with third parties except in the case of third party service providers, legal processes and aggregate information, as noted below.
+
+##  Cookies
+
+Innovid may collect the Non-PII noted in this privacy policy using cookies, which are small text files stored on the visitor’s computer. Visitors can set their browser to reject cookies altogether, to reject Innovid's cookies in particular, or to delete cookies. An End User of the Services may opt-out of interest-based advertising from Innovid; please refer to the Section entitled “Opt-Out of Interest-Based Advertising” below.
+
+##  Innovid’s Services
+
+Innovid partners with numerous companies to provide online advertisements to visitors of third party websites and other online media (such visitors are referred to as “ **End Users** ”).
+
+As an End User browses the Internet, he or she may visit Web pages or other online media that make use of the Services. When this happens, an End User’s browser or device may request advertisements from Innovid's system, and Innovid may collect Non-PII about this interaction, as well as about any further interaction by such End User with the advertisements provided by the Services and the pages or media on which such Services are utilized, such as impressions, clicks, mouse movements, viewing duration, IP address, date and time of interaction, information about the general geographical location from which an End User is viewing an advertisement, device type, and other Non-PII made available by the browser or device. On occasion, Innovid may also receive from third parties Non-PII that enables advertisement optimization, independent of or in combination with the Non-PII collected by Innovid, such as audience interest segments and product categories.
+
+The Non-PII collected by Innovid and/or received from third parties may be used to provide aggregate reports to advertisers, agencies and publishers who participate in the Services, to schedule, deliver and optimize advertisements, to limit the number of times a specific advertisement is presented to the same browser or device (frequency capping), to detect and eliminate fraudulent activity, to administer and enhance the Services and perform internal analysis, and to help Innovid display, optimize, target and/or customize advertisements to the interests or preferences of End Users. However, Innovid does not target advertisements based on audience interest in medical conditions, health, beauty or fitness.
+
+From time to time, advertisements served by Innovid may contain functionality that enables an End User to enter Personally Identifiable Information into such advertisements or into the landing page to which such advertisements are linked, in order to allow the End User to sign-up for or receive information regarding a product or service offered by an advertiser. In the event that an End User elects to provide Personally Identifiable Information under such circumstances, Innovid may collect the Personally Identifiable Information on behalf of such advertiser. Innovid may share such information with the advertiser or with such advertiser’s agency, and will not use such information for any other purpose.  The End User should review the advertiser’s privacy policy to understand how the advertiser will process the PII entered by the End User.
+
+###  Industry Self-Regulation
+
+Innovid is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/) (NAI).
+
+###  Opt-Out of Interest-Based Advertising
+
+End Users can opt out of interest-based advertising served by Innovid. Click here to opt-out, or opt-out through the NAI page located [here](http://www.networkadvertising.org/choices/). In order to comply with an opt-out request, Innovid may set a non-unique cookie for the sole purpose ensuring that such End User is no longer tracked individually. If an End User deletes its cookies or changes computers or devices after opting out, he or she will need to opt out again by clicking the link in this paragraph. End Users also have the option, at any time, to set their browser to not accept cookies from Innovid. Following an opt-out, Innovid's system will still provide advertisements to the End User. Please note, however, that these advertisements may be less relevant to such End User's interests.
+
+##  Data Retention
+
+PII and Non-PII are retained for up to 12 months. Aggregated Non-PII is used for reporting and analysis, and may be stored for up to 2 years.
+
+##  Legal and Regulatory Compliance
+
+Innovid reserves the right to disclose information if it believes, in good faith, that such disclosure is required to comply with legal or regulatory requirements, or to protect others’ rights or prevent harm.
+
+##  Third Party Service Providers
+
+Innovid may retain certain third party service providers to perform functions and services on its behalf. Innovid may share information with these third party service providers, but only to the extent necessary to perform such functions and services, and only pursuant to obligations on such third party service providers that are consistent with this Policy.
+
+##  Business Transfers
+
+We may disclose information to third parties if we sell or buy any business or assets, in which case we may disclose your information to the prospective seller or buyer of such business or assets or if Innovid or substantially all of its assets are acquired by a third party, in which case information held by Innovid will be one of the transferred assets.
+
+##  Newsletter Subscriptions
+
+You can change your subscription status with regards to Innovid’s email newsletters at any time. To unsubscribe, you can follow the instructions on the bottom of each newsletter, or by emailing [support@innovid.com](mailto:support@innovid.com) and writing "Cancel Newsletter Subscription" in the subject line. You may also write to Innovid at:
+
+Innovid, Inc.  
+Attn.: Newsletter Services  
+584 Broadway, Suite #1206  
+New York, NY 10012
+
+##  Aggregate Information
+
+Innovid may share aggregate and anonymous usage statistics regarding the Services with the public or businesses with whom Innovid works.  Such aggregated information is not PII.  Innovid may also use such aggregated information to help Innovid improve the design and delivery of its Services and increase its effectiveness for all users.
+
+##  Communication
+
+Innovid may send to registered users, advertisers, agencies and publishers Services and/or account activity-related announcements from time to time.
+
+##  Data and Information Security
+
+Innovid is committed to protect the security of the information it collects, and takes such measures as are in line with industry practice to safeguard the data in its possession from unauthorized alteration, destruction, access or misuse. We maintain tight controls over all the data we collect, retaining it in firewalled and secured databases with strictly limited and controlled access rights, to ensure it is secure. Access to PII is protected and controlled by password and restricted permissions.  Please note that where we have given you (or where you have chosen) a password that enables you to access the Innovid Website or Services, you are responsible for keeping this password confidential. Please be aware however that no method of Internet transmission or electronic storage is 100% secure. Innovid cannot ensure or warrant the absolute security of information you transmit to us, and you transmit such information at your own risk. For additional information regarding security, please contact: support@innovid.com.
+
+##  Children's Privacy
+
+The Innovid Website and the Services are not intended for children under the age of 13, and children under the age of 13 are ineligible to register for an account on the Innovid Website. Innovid will never knowingly accept or solicit Personally Identifiable Information from a visitor or End User under the age of thirteen, and will delete accounts that it believes to be in violation of this restriction. If you become aware that a child under the age of 13 has registered to use the Innovid Website or has provided Personally Identifiable Information to Innovid, please contact Innovid at [privacy@innovid.com](mailto:privacy@innovid.com), so that Innovid can confirm and take appropriate steps to remove such account and delete the information.
+
+###  Consent to the Transfer of Information
+
+The Innovid Website and the Services are operated in the USA. Innovid is an international business and so use of information provided by visitors, users and End Users necessarily involves the transmission of data on an international basis. If you, as a visitor, user or End User are located in the European Union, Canada or elsewhere outside of the USA, please be aware that information we collect may be transferred to and processed in the USA in accordance always with this Policy. By using the Innovid Website and the Services, or providing Innovid with any information, you consent to the collection, processing, maintenance and transfer of such information in and to the USA and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen.
+
+###  Changes to the Privacy Policy
+
+Innovid reserves the right to change or modify this Privacy Policy from time to time by posting the modified Privacy Policy on the Innovid Website. Your continued use of the Innovid Website or Services indicates your acceptance of the modified Privacy Policy.
+
+####  Our mailing address is:
+
+Innovid, Inc.  
+Attn.: Privacy  
+30 Irving Place, 11th Floor  
+New York, NY 10003
+
+Last updated: August 20, 2013
