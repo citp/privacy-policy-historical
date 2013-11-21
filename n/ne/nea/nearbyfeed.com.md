@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nearbyfeed.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531010659id_/http%3A//nearbyfeed.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearbyfeed.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121065505id_/http%3A//www.nearbyfeed.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - nearbyfeed.com
 
