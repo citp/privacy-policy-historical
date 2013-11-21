@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the oyepages.com privacy policy that was archived on 2013-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610151632id_/http%3A//oyepages.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oyepages.com privacy policy that was archived on 2013-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131121111403id_/http%3A//www.oyepages.com/policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" type="text/css" href="/oyemin/serve/g/02b7dd39bbb175e5656b758723e4bcbd/lm/1369657974">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/oyemin/serve/g/7bbdb267bc443ec7e30b48bc48c8d597/lm/1369657975"></script>
+    <link rel="stylesheet" type="text/css" href="/oyemin/serve/g/02b7dd39bbb175e5656b758723e4bcbd/lm/1384686929">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/oyemin/serve/g/7bbdb267bc443ec7e30b48bc48c8d597/lm/1381990687"></script>
 <title>Privacy Policy - OyePages!</title>
     <meta name="title" content="OyePages - Find Friends, Dating, Indian Friends">
     <meta name="Description" content="Find Indian friends, classmates, neighbors, date, partner, lover, fiance.">
@@ -21,26 +22,16 @@
     <meta property="og:description" content="Find Indian friends, classmates, neighbors, date, partner, lover, fiance.">
     <meta property="og:site_name" content="http://www.oyepages.com">
         <meta property="og:image" content="http://oyepages.com/images/oyelogo.jpg">
-        <base href="http://www.oyepages.com/">
+        <base href="http://oyepages.com/">
 
 
 <script type="text/javascript" src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 
 
 
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({
-    publisher: "ffb41136-75ee-4742-9485-427637045701",
-    doNotHash: false,
-    doNotCopy: false,
-    hashAddressBar: false,
-    popup: true,
-    shorten:false});
-//stButtons.getCount("http://example.com","facebook",document.getElementById('fbcount'));
-</script>
 
 <script type="text/javascript">
-    hs.graphicsDir = 'http://www.oyepages.com/album/highslide/graphics/';
+    hs.graphicsDir = 'http://oyepages.com/album/highslide/graphics/';
     hs.outlineType = 'outer-glow';
 </script>
 
@@ -59,406 +50,187 @@
     })();
 </script>
 
-<script id="actors-tmpl" type="text/html">
-
-<div class="modal-body">
-<table class="table" width="100%" data-bind="foreach:$data">
-	<tr>
-		<td width="13%"><a href="#" data-bind="attr:{href:url}">
-        <img data-bind="attr:{src:avatar_photo}" style="height:24px;"></a></td>
-		<td width="55%"><a href="#" data-bind="attr:{href:url}"><b data-bind="text:name"></b></a>
-		<br><p class="muted" data-bind="text:summary"></p></td>
-		<td width="32%" align="right">
-		
-        	 <div data-bind="if:connection.s() == -1" class="pull-right">
-				<button data-bind="event:{click:$root.addConnection.bind($root,_id(), 'friends')}" 
-                 href="#" class="btn btn-primary btn-info" style="margin-top: 10px;">
-                      <i class="icon-user icon-white"></i>&nbsp;Add Friend
-				</button>
-			</div>	
-
-          <div data-bind="if:connection.s() == 1" class="pull-right">
-				<button data-bind="event:{click:$root.removeConnection.bind($root,_id())}" href="#" class="btn btn-primary btn-info" style="margin-top: 10px;">
-                 <i class="icon-user icon-white"></i>&nbsp;Remove Friend
-				</button>
-			</div>	
-        
-        
-		</td>
-	</tr>
-</table>
-</div>		
-<div class="modal-footer" style="padding-top: 0px; padding-bottom: 8px;">
-<a class="btn btn-info btn-mini" data-dismiss="modal" href="#" style="margin-top: 10px;">Close</a>
-</div>
-
-</script>
-
-<script id="comments-tmpl" type="text/html">
-<div class="modal-header"  style="background-color:#009999">
-<b style="color:#FFFFFF" data-bind2="text:title">People who commented</b>
-    <a class="close"  data-dismiss="modal"><span>x</span></a>
-</div>
-<div data-bind="template:{name:'actors-tmpl', data:ob_data.comments.actors}"></div>	
-</script>
-
-
-<script id="shares-tmpl" type="text/html">
-<div class="modal-header"  style="background-color:#009999">
-<b style="color:#FFFFFF" data-bind2="text:title">People who shared</b>
-    <a class="close"  data-dismiss="modal"><span>x</span></a>
-</div>
-<div data-bind="template:{name:'actors-tmpl', data:ob_data.shares.actors}"></div>	
-</script>
-
-
-<script id="likes-tmpl" type="text/html">
-<div class="modal-header"  style="background-color:#009999">
-<b style="color:#FFFFFF" data-bind2="text:title">People who liked</b>
-    <a class="close"  data-dismiss="modal"><span>x</span></a>
-</div>
-<div data-bind="template:{name:'actors-tmpl', data:ob_data.likes.actors}"></div>	
-</script>
-
-
-
-
-<!-- Templates -->
-<script type="text/template" id="item-template">
-    <div class="view">
-      <input class="toggle" type="checkbox" <%= done ? 'checked="checked"' : '' %> />
-      <label><%= name %></label>
-      <a class="destroy"></a>
-    </div>
-    <input class="edit" type="text" value="<%= title %>" />
-  </script>
-
-
-<script type="text/template" id="stats-template">
-    <% if (done) { %>
-      <a id="clear-completed">Clear <%= done %> completed <%= done == 1 ? 'item' : 'items' %></a>
-    <% } %>
-    <div class="graphObject-count"><b><%= remaining %></b> <%= remaining == 1 ? 'item' : 'items' %> left</div>
-</script>
-
-<script type="text/template" id="selected-item-template">
-  <div class="min_button"><a href="<%= profileUrl %>" title="<%= name %>"><%= name %>  </a><a class="destroy"><span>x</span></a></div>
-
- </script>
-
-<script type="text/template" id="available-item-template">
-<div class="enter_name_list toggle">
-<div class="enter_name_radio hide">
-<input id="<%= _id %>" name="" class="toggle" type="checkbox" <%= done ? 'checked="checked"' : '' %> />
-</div>
-<div class="post_pic"><img class="share_pic" src="<%= avatarUrl %>" alt="<%= name %> " title="<%= name %>" /></div>
-<p><%= name %></p>
-</div>
-
-</script>
-
-
-
-<!--  Status Updated - Inner Comments -->
-
-<script type="text/template" id="comments-view-tmpl">
-
- <div class="" data-bind="attr:{id:gid, class:'osucomment '+gid}" >
-	 
-	<div class="osucleft">
-		<div class="osucpic">
-		<a href="#" data-bind="attr:{href:actorProfile.url}">
-			<img class="osucpic" alt="" title=""
-               data-bind="attr:{src:actorProfile.signature_photo,alt:actorProfile.name,title:actorProfile.name}"/>
-		</a>
-		</div>
-	</div>
-	
-	<div class="osucright">
-		<div class="cross" data-bind="if:isAdmin() == true">
-			<a  title="Remove"  class22="asyncDelete" href="javascript:void(0);" 
-                data-bind="event:{click:$root.removeComment.bind($root,$root.ob_data.comments,$data)},clickBubble:false"
-          ></a>
-		</div>
-	</div>
-	
-	<div class="osucmid">
-		<pre><a href="#" title="" data-bind="attr:{href:actorProfile.url, title:actorProfile.name}"><span
-                data-bind="text:actorProfile.name"></span></a> <span
-                data-bind="text:comment" class="comment more"></span></pre>
-				
-		<h6>
-			<span data-bind="text:dateCreated"></span> - 
-			<a href="#" rel="tooltip2"  
-				title="" class="spin_and_disable_inline widget-tab-link2 async" 
-				method="get" dataType="json" 
-				data-bind="title:likesSummary, event:{click:$root.likeToggle.bind($root,$data)}">	
-				
-				<span class="go_likes_status" data-bind="text:likesSummary.status"></span> 
-			</a>
-		</h6>
-	</div>
-</div>
-
-
-  </script>
- 
- <script id="profile-popover-tmpl" type="text/html">
-<div class="content2 hide2" id="" data-bind="attr:{id:_id()+'_popover'}">
-<p style="display:none;" data-bind="text:_id()+'_popover'"></p>
-<table width='300'>
-	<tr>
-		<td><a data-bind="attr:{href:url, title:name}"  href="#"
-			title="" class="group_title"><img data-bind="attr:{src:signature_photo}"
-			height='90' width='105'></a></td>
-		<td></td>
-		<td align='top'><a data-bind="attr:{href:url, title:name}" href=""
-			title="" class="group_title"><font
-			size='+1' data-bind="text:name"></font></a><br />
-			<span data-bind="text:summary"></span></td>
-	</tr>
-</table>
-
-<table width='250' data-bind="if:connection.s() == -1">
-	<tr>
-		<td align='left'>
-		<button
-			data-bind="event:{click:$root.addConnection.bind($root,_id(), 'friends')}"
-			class='btn btn-mini' style='width: 105px;'><i
-			class='icon-user icon-white'></i>Add Friend</button>
-		</td>
-		<td align='right'>
-		<button
-			data-bind="event:{click:$root.showSendMessageWidget.bind($root,$data)}"
-			class='btn btn-mini '><i class='icon-envelope icon-white'></i>Send Message</button>
-		</td>
-	</tr>
-</table>
-
-<table width='250' data-bind="if:connection.s() == 1">
-	<tr>
-		<td align='left'>
-		<button class='btn btn-mini' style='width: 105px;'><i
-			class='icon-user icon-white'></i>Friend</button>
-		</td>
-		<td align='right'>
-		<button
-			data-bind="event:{click:$root.showSendMessageWidget.bind($root,$data)}"
-			class='btn btn-mini '><i class='icon-envelope icon-white'></i>Send Message</button>
-		</td>
-	</tr>
-</table>
-</div>
-</script>
-</head><body class="" style="cursor: auto;"><div id="profilesPopover" style22="position:absolute;top:230px;z-index:9999;" style="display:none;">
-  <h1>Profile Length</h1><h1 data-bind2="text:profiles().length"></h1>
-  <div id="" data-bind="if:profiles!=undefined">
-  <div id="" data-bind2="template:{name:'profile-popover-tmpl',foreach:profiles}"></div>
-  </div>
-</div>
-
-<script type="text/javascript">
- $(document).ready(function(){
-     var context = {};
-     
-     ko.setTemplateEngine(new ko.nativeTemplateEngine)
-     //ko.applyBindings(world, document.getElementById('profilesPopover' ));
-	 
-});
-</script>
-
-
-
-
-
-
-<div id="profile-popover-tmpl-html" style="display:none;">
-<div class="content2 hide2" id="" data-bind="attr:{id:_id()+'_popover'}">
-<p style="display:none;" data-bind="text:_id()+'_popover'"></p>
-<table width="330">
-	<tbody><tr>
-		<td width="90px"><div class="popicbox"><a data-bind="attr:{href:url, title:name}" href="#" title="" class="group_title"><img data-bind="attr:{src:signature_photo}" class="popic"></a></div></td>
-		<td width="6px"></td>
-		<td align="top"><div style="height:40px; margin-top:4px"><a data-bind="attr:{href:url, title:name}" href="" title="" class="group_title"><font style="font-weight:bold" data-bind="text:name"></font></a></div>
-            <div style="height:40px; margin-top:4px"><span data-bind="text:summary"></span></div></td>
-	</tr>
-    <tr height="16px"></tr>
-</tbody></table>
-
-<table width="330" data-bind="if:connection.s() == -1">
-	<tbody><tr>
-		<td width="220px" align="right">
-		<button data-bind="event:{click:$root.addConnection.bind($root,_id(), 'friends')}" class="btn btn-mini" style="width: 90px;"><i class="icon-user"></i> Add Friend</button>
-		</td>
-		<td align="right">
-		<button data-bind="event:{click:$root.showSendMessageWidget.bind($root,$data)}" class="btn btn-mini" style="width: 105px;"><i class="icon-envelope"></i> Send Message</button>
-		</td>
-	</tr>
-</tbody></table>
-
-<table width="330" data-bind="if:connection.s() == 1">
-	<tbody><tr>
-<!--		<td width="220px" align="right">-->
-<!--		<button class='btn btn-mini'  style='width: 100px;'><i-->
-<!--			class='icon-user icon-white'></i>Friend</button>-->
-<!--		</td>-->
-		<td width="330px" align="right">
-		<button data-bind="event:{click:$root.showSendMessageWidget.bind($root,$data)}" class="btn btn-mini" style="width: 105px;"><i class="icon-envelope"></i> Send Message</button>
-		</td>
-	</tr>
-</tbody></table>
-</div>
-</div>
-
     <script>
         var siteConfig = Array;
         store['siteConfig'] = siteConfig;
     </script>
+</head>
 
 
 
-
-
+<body class="" style="cursor: auto;">
 
 <script type="text/javascript">
-    var base = 'http://www.oyepages.com/'
+    var base = 'http://oyepages.com/'
     // this file is for non-mobile only; so we can safely set it
     var oyeMobile = false;
 </script>
 
-<base href="http://www.oyepages.com/">
+<style>
+    .headerGuest{ text-align:left; height:auto; top:0px; right:0px; left:0px; margin:0; padding:9px 0;
+        -webkit-box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3); -moz-box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3); box-shadow:0px 2px 3px rgba(0, 0, 0, 0.3);
+        position:fixed; z-index:999; min-width:982px;
+        /*background-color:#31859b;*/
+        background-color:#46A0BD;
+        background-image:-moz-linear-gradient(top, #3C93AC, #31859B);
+        background-image:-ms-linear-gradient(top, #3C93AC, #31859B);
+        background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#3C93AC), to(#31859B));
+        background-image:-webkit-linear-gradient(top, #3C93AC, #31859B);
+        background-image:-o-linear-gradient(top, #3C93AC, #31859B);
+        background-image:linear-gradient(top, #3C93AC, #31859B);
+    }
+
+    .hgleft{ width:160px; float:left; }
+    .hgleft h1{ font-size:24px; font-weight:bold; color:#f8f8f8; float:left; text-shadow:2px 2px 0px rgba(0, 0, 0, 0.5); }
+    .hgleft span{ margin-top:6px; color:#ffffff; float:left; font-size:10px; font-weight:bold; padding-left:4px; }
+    .hgleft h6{ width:100%; font-size:11px; color:#ffffff; font-weight:normal;
+        padding:0 0 0 2px; font-weight:normal; float:left; }
+
+    .hgnav{ height:auto; float:left; padding-top:2px; }
+    .hgnav ul{ list-style:none; }
+    .hgnav ul li{ line-height:22px; float:left; }
+    .hgnav ul li a{ font-size:12px; color:#000000; font-weight:bold; display:block; padding:0 8px; }
+    .hgnav ul li a:hover{ line-height:22px; height:24px; padding:1px 8px 0 8px; color:#e0e0e0; text-decoration:none; }
+    .btn-hg{ font-weight:bold; width:75px; float:right; margin-left:18px; padding:9px 16px; font-size:13px; border:1px solid #666; }
+    .hgnav .btn{ margin-right: 2px;}
+    .hgmbox{ float:right; width:474px; padding:6px 12px 8px; border-radius:5px; background:#fff; border:1px solid #666; float:right; }
+</style>
+
+<base href="http://oyepages.com/">
 
 
-<div class="pageHeader">
-    <div class="phtop">&nbsp;</div>
-
-    <!--Header Start Here -->
+<div class="headerGuest">
     <div id="header">
-        <div class="logo">
-            <h1><a href="" title="Oye Welcome!"></a></h1>
-
-            <p>β</p>
+        <div class="hgleft">
+            <h1>OyePages</h1>
+            <span>(β)</span>
+            <h6>Beyond Social Networking</h6>
         </div>
 
-        <div class="navigation">
-            <ul>
-                <li><a href="/user/auth" class="active" id="homeTab">Home</a></li>
-            </ul>
+        <a href="/poll/index/Poll%5Blocations%5D%5Bcurrent%5D%5Bcountry%5D/India" class="btn btn-large btn-hg" title="See polls">
+            Opinion Polls
+        </a>
+        <a href="/blog/index/Blog%5Blocations%5D%5Bcurrent%5D%5Bcountry%5D/India" class="btn btn-large btn-hg" title="Read blogs">
+            Bloggers' Paradise
+        </a>
 
-            <div class="notification_box">
-                <div class="portlet" id="yw0">
-<div class="portlet-content">
-<!--  messages popup widget -->
-<div id="notification-widget" data-bind2="visible:initialized() == true">
-  <!--<span data-bind="text:activeWidget"></span>
-    -->        <div class="notifi_msg notification-widget-tab">
-            <a href="javascript:void(0)" class="" title="Messages"></a>
-        </div>
-        <div class="notifi_msg notification-widget-tab">
-            <a href="javascript:void(0)" class="fndrequest" title="Friend requests"></a>
-        </div>
-        <div id="op-notify-widget" class="notifi_msg notification-widget-tab">
-            <a href="javascript:void(0)" class="cal" title="Alerts"></a>
-        </div>
-    
-	<!--  friends requests -->
-	<div data-bind="visible:activeWidget() == 'connects', event: { click: function(data, event) { actionWidgetClick('connects', data, event) }, clickBubble: true}" class="onpbox op-popup-content hide" id="tabview-nw-connects" style="margin-left: -194px;">
-		<div class="notifi_aro" style="margin-left: 226px;"></div>
-		<h4><a href="/connectRequest/index">See All Requests</a></h4>
-		<div class="onptable">
-			<div data-bind="foreach:dataSources.connects.data">
-			<div data-bind="html:message.html"></div>
-			</div>
-		</div>
+        <div class="hgmbox">
+            <div class="abox">
+                <p style="font-weight:bold; font-size:11px; color:#828282">Members Area.
+                    <a href="/user/auth"> Sign-in or Sign-up</a> to get access, it's free!</p>
+            </div>
 
-		<div class="find_frnd">
-            <a href="/member" title="Add Friend">Find Friends</a>
-		</div>
-	</div>
-	<!-- friends request - ends -->
-
-<!-- dataSources begings -->
-	<div data-bind="visible:activeWidget() == 'notifications', event: { click: function(data, event) { actionWidgetClick('notifications', data, event) }, clickBubble: false}" class="onpbox op-popup-content hide" id="tabview-nw-notifications" id2="cal-popup" style="margin-left: -194px;">
-		<div class="notifi_aro" style="margin-left: 254px;"></div>
-		<h4><a href="/notificationStream/index">See All Notifications</a></h4>
-		<div class="onptable" data-bind="foreach:dataSources.notifications.data">
-		<div data-bind="html:message.html"></div>
-		</div>
-	</div>
-<!-- dataSources ends -->
-
-
-<!--  message popup - begings -->
-<div data-bind="visible:activeWidget() == 'messages', event: { click: function(data, event) { actionWidgetClick('messages', data, event) }, clickBubble: false}" class="onpbox op-popup-content hide" id="tabview-nw-messages" id2="msg-popup" style="margin-left: -194px;">
-	<div class="notifi_aro" style="margin-left: 202px;"></div>
-	<h4><a href="/messageStream/index">See All Messages</a></h4>
-	<div class="onptable" data-bind="foreach:dataSources.messages.data">
-	   <div data-bind="html:message.html"></div>
-	</div>
-	<div class="new_mes">
-
-        <h4> <a href="javascript:void(0);" href2="#messageWidgetCom" data-toggle2="modal" target2="message_create" class="send_message" id="sd01">New Message</a> </h4>
-
-	</div>
-</div>
-<!--  message popup ends -->
-</div>
-
-<script type="text/javascript">
-/*<![CDATA[*/
- 
- $(function(){
-
-	 var getUrl = base + "/im/notifications";
-	 var notificationWidget = new NotificationWidget(getUrl);
-
-	 ko.applyBindings(notificationWidget, document.getElementById('notification-widget'));
- })
-/*]]>*/
-</script>
-
-</div>
-</div>            </div>
-
-            <ul>
-                <li><a href="/user/auth">Members</a></li>
-                <li><a href="/user/auth">Groups</a></li>
-                <li><a href="/user/auth">Mobilizers</a></li>
-                <li><a href="/user/auth">Pages</a></li>
-                <li><a href="/blog/index">Blogs</a></li>
-                <li><a href="/user/auth">Polls</a></li>
-            </ul>
-        </div>
-
-        <div class="header_right">
-            <div class="portlet" id="yw1">
-<div class="portlet-content">
-    <input type="text" class="search_inp searchbg" placeholder="You are not signed-in">
-</div>
-</div>            <div class="profile_dropdown">
-                <div class="avatarheader">
-                                    </div>
-                <div class="dropdown" style="margin-top: 9px; float: left; margin-left: 4px;">
-                    <a class="btn btn-info dropdown-toggle" data-toggle="dropdown" href="#">
-                        <img src="images/drop_aro.png" alt="drop_aro" style="padding:1px 0"> </a>
-                    <ul class="dropdown-menu" style="margin-left: -135px; margin-top: 9px; ">
-                                                <li><a href="javascript:void(0)">You are not signed-in</a></li>
-                                            </ul>
-                </div>
+            <div class="hgnav">
+                <a href="#oyeLoginModal" role="button" data-toggle="modal" class="btn btn-small" title="Member home">Home</a>
+                <a href="#oyeLoginModal" role="button" data-toggle="modal" class="btn btn-small" title="Messages">
+                    <i class="icon-envelope"></i>
+                </a>
+                <a href="#oyeLoginModal" role="button" data-toggle="modal" class="btn btn-small" title="Friend requests">
+                    <i class="icon-user"></i>
+                </a>
+                <a href="#oyeLoginModal" role="button" data-toggle="modal" class="btn btn-small" title="Notifications">
+                    <i class="icon-info-sign"></i>
+                </a>
+                <a href="#oyeLoginModal" role="button" data-toggle="modal" class="btn btn-small" title="Registered members of OyePages...">Members</a>
+                <a href="#oyeLoginModal" role="button" data-toggle="modal" class="btn btn-small" title="Groups of like minded people...">Groups</a>
+                <a href="#oyeLoginModal" role="button" data-toggle="modal" class="btn btn-small" title="Social Welfare &amp; Awareness programs, Social Campaigns...">Mobilizers</a>
+                <a href="#oyeLoginModal" role="button" data-toggle="modal" class="btn btn-small" style="margin-right:0" title="Pages to promote your Business &amp; Services, and more...">Pages</a>
             </div>
         </div>
     </div>
     <!--Header End Here -->
 </div>
+<!-- Modal -->
+
+<!-- Modal View -->
+<style>
+    .hgmodal{ max-width:500px; }
+    .hgmodal-header{ padding:18px 15px 9px; background:#f5f5f5; border-radius:6px 6px 0 0;
+        color:#646464; border-bottom:1px solid #ddd; box-shadow:inset 0 -1px 0 #ffffff }
+
+    .control-label-login{ font-weight:bold; color:#646464; font-size:12px; }
+    .form-horizontal .control-label-login{ width:75px; }
+
+    .fbconnect{ width:165px; height:22px; background:#4f6aa3;
+        border:1px solid #29447e; margin-top:10px; display:inline-block; }
+    .fbconnect img{ height:22px; margin-right:4px; margin-top:-4px;; }
+    .fbconnect:hover{ opacity:0.8; }
+    .fbconnect a{ font-size:12px; float:left; line-height:22px; color:#fff; font-weight:bold; }
+    .fbconnect a:hover{ text-decoration:none; cursor:pointer; }
+</style>
+
+
+<style>
+    .modal-body-left{ float:left; padding:18px 9px 12px 0; width:175px; text-align:center; }
+    .modal-body-right{ float:right; padding:12px 0; width:285px; border-left:1px solid #d0d0d0; }
+    .form-input-style{ padding:2px 6px 4px; width:180px; }
+</style>
+
+<div id="oyeLoginModal" class="modal hgmodal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <form action="http://oyepages.com/user/auth" method="post">    <div class="modal-header hgmodal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 id="myModalLabel">To get access, you need to log in.</h3>
+    </div>
+
+    <div class="modal-body" style="display:inline-block; width:470px;">
+
+        <div class="modal-body-left">
+            <div class="abox">
+                <a href="http://oyepages.com/user/auth" style="font-weight:bold; text-align:center;">Sign up with your email!</a><br>
+            </div>
+            <div class="abox">
+                -- or --
+            </div>
+            <div class="fbconnect">
+                <a href="https://www.facebook.com/dialog/oauth?client_id=348914925127976&amp;redirect_uri=http%3A%2F%2Foyepages.com%2Fuser%2Fauth%2FloginFacebook&amp;state=4bd63d96ae60f8e1a9f260173d950203&amp;display=popup&amp;req_perms=email%2Cuser_birthday%2Cread_stream%2Cpublish_stream&amp;scope=email%2Cuser_birthday%2Cread_stream%2Cpublish_stream"><img src="images/fbicon.JPG">Login with facebook</a>
+            </div>
+        </div>
+
+        <div class="modal-body-right">
+                        
+            <div class="form-horizontal">
+                <div class="control-group" style="margin-bottom:12px;">
+                    <label class="control-label control-label-login">Email</label>
+
+                    <div class="controls" style="margin-left:85px;">
+                        <input class="olpinput form-input-style" placeholder="Email" name="YumUserLogin[username]" id="YumUserLogin_username" type="text">                    </div>
+                </div>
+                <div class="control-group" style="margin-bottom:6px;">
+                    <label class="control-label control-label-login">Password</label>
+
+                    <div class="controls" style="margin-left:85px;">
+                        <input class="olpinput form-input-style" placeholder="Password" name="YumUserLogin[password]" id="YumUserLogin_password" type="password">                    </div>
+                </div>
+                <div class="control-group" style="margin-bottom:0;">
+                    <div class="controls" style="margin-left:85px;">
+                        <label class="checkbox" style="font-size:11px;">
+                            <input id="ytYumUserLogin_rememberMe" type="hidden" value="0" name="YumUserLogin[rememberMe]"><input style="display: inline;" name="YumUserLogin[rememberMe]" id="YumUserLogin_rememberMe" value="1" type="checkbox">                            Stay signed in
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="modal-footer">
+        <input class="btn btn-small btn-info" type="submit" name="yt0" value="Login">        <button class="btn btn-small" data-dismiss="modal" aria-hidden="true">Close</button>
+
+        <a href="http://oyepages.com/registration/registration/recovery" style="text-decoration:underline; margin-right:6px; float:left;">Forgot Password</a>
+        <!--        <a href="--><!--"-->
+        <!--           style="text-decoration:underline; float:left;">Sign-up</a>-->
+    </div>
+    </form></div>
 
 
 <!--Main Counter Start Here -->
 <div id="maincounter" style="height:100%">
-            <div style="height:50px">&nbsp;</div>
+            <div style="height:78px">&nbsp;</div>
         
-<div class="" style="" id="yw2">
+
+    <div class="" style="" id="yw0">
 <div class="portlet-content">
-<script type="text/javascript" src="http://www.oyepages.com/sites/bootstrap/js/InviteWidget.js"></script>
+<script type="text/javascript" src="http://oyepages.com/sites/bootstrap/js/InviteWidget.js"></script>
 <style>
 .omodal {
 	width: 100%;
@@ -535,7 +307,7 @@
     <div class="mwsearcheditem toggle"  data-bind="event:{click:$root.selectItem.bind($root,$data)}">
         
         <div class="oyepic">
-            <img class="oyepic40" data-bind="attr:{alt:name,title:name,src:avatarUrl}" src="" alt="" title=""/>
+            <img class="oyepic40" data-bind="attr:{alt:name,title:name,src:avatarUrl}" alt="" title=""/>
         </div>
         <div class="mwsearchedname">
             <p data-bind="text:name"></p>
@@ -548,12 +320,12 @@
 
 <div class="omodal">
 <div class="mwiheader">
-<h3>Invite/Add your friends</h3>
+<h3>Find friends / Add members</h3>
 <a class="close" data-dismiss="modal">×</a></div>
 
 <div id="inviteWidget"><!-- custom share  -->
 <div class="mwsbody">
-<div id="shareMain2"><!--- not required --->
+<div id="shareMain2"><!-- not required -->
 
 <div id="selected-list-section"><!-- List of selected items -->
 <div class="mwsitems" id="selected-list2" data-bind="template:{name:'ko-selected-item-template',foreach:selectedItems}">
@@ -571,7 +343,7 @@ Select All</div>
 <div id="available-list22" data-bind="foreach:availableItems">
 <div class="mwsearcheditem toggle22" data-bind="event:{click:$root.selectItem.bind($root,$data)}">
 
-<div class="oyepic"><img class="oyepic40" data-bind="attr:{alt:name,title:name,src:avatarUrl}" src="" alt="" title=""></div>
+<div class="oyepic"><img class="oyepic40" data-bind="attr:{alt:name,title:name,src:avatarUrl}" alt="" title=""></div>
 <div class="mwsearchedname">
 <p data-bind="text:name"></p>
 </div>
@@ -588,7 +360,9 @@ Select All</div>
 <!-- custom share ends -->
 
 <div class="modal_window_itemarea" style="margin-bottom: 6px;">
-<div class="abox6"><textarea data-bind="value:message" rows="" cols="" class="o3input" style="resize: vertical; width: 390px;" placeholder="Your message..."></textarea></div>
+<!--<div class="abox6"><textarea data-bind="value:message" rows="" cols=""-->
+<!--	class="o3input" style="resize: vertical; width: 390px;"-->
+<!--	placeholder="Your message..."></textarea></div>-->
 
 
 </div>
@@ -616,7 +390,7 @@ function InviteWidget_create() {
 	 var widgetId = 'InviteWidgetV1';
 	 var context = {
 			    widgetId:widgetId,
-                success:'Invited friends!!',
+                success:'Add Member(s) - Done!',
 		    	debug:true,
 	    	    list_params:{context:''},
 	    	    url_addMember:base+'/graphObject/connect',
@@ -644,9 +418,9 @@ function InviteWidget_show(graphObject) {
 
 </div>
 </div>
-<div class="" style="" id="yw3">
+    <div class="" style="" id="yw1">
 <div class="portlet-content">
-<script type="text/javascript" src="http://www.oyepages.com/sites/bootstrap/js/SharePostWidget.js"></script>
+<script type="text/javascript" src="http://oyepages.com/sites/bootstrap/js/SharePostWidget.js"></script>
 <style>
 /* Share Conetent */
 .omodal {
@@ -714,9 +488,9 @@ function InviteWidget_show(graphObject) {
 
 <script type="text/template" id="ko-available-item-template">
     <div class="mwsearcheditem toggle"  data-bind="event:{click:$root.selectItem.bind($root,$data)}">
-        
+
         <div class="oyepic">
-            <img class="oyepic40" data-bind="attr:{alt:name,title:name,src:avatarUrl}" src="" alt="" title=""/>
+            <img class="oyepic40" data-bind="attr:{alt:name,title:name,src:avatarUrl}" alt="" title=""/>
         </div>
         <div class="mwsearchedname">
             <p data-bind="text:name"></p>
@@ -761,7 +535,7 @@ Select All</div>
 <div id="available-list22" data-bind="foreach:availableItems">
 <div class="mwsearcheditem toggle22" data-bind="event:{click:$root.selectItem.bind($root,$data)}">
 
-<div class="oyepic"><img class="oyepic40" data-bind="attr:{alt:name,title:name,src:avatarUrl}" src="" alt="" title=""></div>
+<div class="oyepic"><img class="oyepic40" data-bind="attr:{alt:name,title:name,src:avatarUrl}" alt="" title=""></div>
 <div class="mwsearchedname">
 <p data-bind="text:name"></p>
 </div>
@@ -803,16 +577,16 @@ function SharePostWidget_create() {
 	    	    url_addMember:base+'/graphObject/connect',
 	    	    url_search_by_context:base+'/graphObject/termSearch',
 	    	    url_friends_search:base+'/graphObject/connections'
-	    	  
+
 	}
-	    
+
 	var widget = new SharePostWidget(context, null)
 	ko.applyBindings(widget, document.getElementById(widgetId));
 
 
 	 sharePostWidget = widget;
     return widget;
-   
+
 }
 
 $(document).ready(SharePostWidget_create);
@@ -832,7 +606,273 @@ function SharePostWidget_showByGid(graphObjectGid) {
 
 
 </div>
-</div>    <!--Body Mid Start Here -->
+</div>
+    <script id="actors-tmpl" type="text/html">
+    <div class="modal-body">
+        <table class="table" style="margin-bottom:0;" data-bind="foreach:$data">
+            <tr>
+                <td width="13%"><a href="#" data-bind="attr:{href:url}">
+                    <img data-bind="attr:{src:avatar_photo}" style="height:40px;"></a></td>
+                <td width="55%"><a href="#" data-bind="attr:{href:url}"><b data-bind="text:name"></b></a>
+                    <br>
+
+                    <p class="muted" data-bind="text:summary"></p></td>
+                <td width="32%" align="right">
+
+                    <div data-bind="if:connection.s() == -1" class="pull-right">
+                        <button data-bind="event:{click:$root.addConnection.bind($root,_id(), 'friends')}"
+                                href="#" class="btn btn-primary btn-info" style="margin-top: 10px;">
+                            <i class="icon-user icon-white"></i>&nbsp;Add Friend
+                        </button>
+                    </div>
+
+                    <!--          <div data-bind="if:connection.s() == 1" class="pull-right">
+                                  <button data-bind="event:{click:$root.removeConnection.bind($root,_id())}" href="#" class="btn btn-primary btn-info" style="margin-top: 10px;">
+                                   <i class="icon-user icon-white"></i>&nbsp;Remove Friend
+                                  </button>
+                              </div>
+                    -->
+
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="modal-footer" style="padding-top: 0px; padding-bottom: 8px;">
+        <a class="btn btn-info btn-mini" data-dismiss="modal" href="#" style="margin-top: 10px;">Close</a>
+    </div>
+</script>
+
+
+<script id="comments-tmpl" type="text/html">
+    <div class="modal-header" style="background-color:#009999">
+        <b style="color:#FFFFFF" data-bind2="text:title">People who commented</b>
+        <a class="close" data-dismiss="modal"><span>x</span></a>
+    </div>
+    <div data-bind="template:{name:'actors-tmpl', data:ob_data.comments.actors}"></div>
+</script>
+
+
+<script id="shares-tmpl" type="text/html">
+    <div class="modal-header" style="background-color:#009999">
+        <b style="color:#FFFFFF" data-bind2="text:title">People who shared</b>
+        <a class="close" data-dismiss="modal"><span>x</span></a>
+    </div>
+    <div data-bind="template:{name:'actors-tmpl', data:ob_data.shares.actors}"></div>
+</script>
+
+
+<script id="likes-tmpl" type="text/html">
+    <div class="modal-header" style="background-color:#009999">
+        <b style="color:#FFFFFF" data-bind2="text:title">People who liked</b>
+        <a class="close" data-dismiss="modal"><span>x</span></a>
+    </div>
+    <div data-bind="template:{name:'actors-tmpl', data:ob_data.likes.actors}"></div>
+</script>
+
+
+<!-- Templates -->
+<script type="text/template" id="item-template">
+    <div class="view">
+        <input class="toggle" type="checkbox" <%= done ? 'checked="checked"' : '' %> />
+        <label><%= name %></label>
+        <a class="destroy"></a>
+    </div>
+    <input class="edit" type="text" value="<%= title %>"/>
+</script>
+
+
+<script type="text/template" id="stats-template">
+    <% if (done) { %>
+    <a id="clear-completed">Clear <%= done %> completed <%= done == 1 ? 'item' : 'items' %></a>
+    <% } %>
+    <div class="graphObject-count"><b><%= remaining %></b> <%= remaining == 1 ? 'item' : 'items' %> left</div>
+</script>
+
+
+<script type="text/template" id="selected-item-template">
+    <div class="min_button"><a href="<%= profileUrl %>" title="<%= name %>"><%= name %>  </a><a
+            class="destroy"><span>x</span></a></div>
+
+</script>
+
+
+<script type="text/template" id="available-item-template">
+    <div class="enter_name_list toggle">
+        <div class="enter_name_radio hide">
+            <input id="<%= _id %>" name="" class="toggle" type="checkbox" <%= done ? 'checked="checked"' : '' %> />
+        </div>
+        <div class="post_pic"><img class="share_pic" src="<%= avatarUrl %>" alt="<%= name %> " title="<%= name %>"/>
+        </div>
+        <p><%= name %></p>
+    </div>
+
+</script>
+
+
+<!--  Status Updated - Inner Comments -->
+<script type="text/template" id="comments-view-tmpl">
+
+    <div class="" data-bind="attr:{id:gid, class:'osucomment '+gid}">
+
+        <div class="osucleft">
+            <div class="osucpic">
+                <a href="#" data-bind="attr:{href:actorProfile.url}">
+                    <img class="osucpic" alt="" title=""
+                         data-bind="attr:{src:actorProfile.signature_photo,alt:actorProfile.name,title:actorProfile.name}"/>
+                </a>
+            </div>
+        </div>
+
+        <div class="osucright">
+            <div class="cross" data-bind="if:isAdmin() == true">
+                <a title="Remove" class22="asyncDelete" href="javascript:void(0);"
+                   data-bind="event:{click:$root.removeComment.bind($root,$root.ob_data.comments,$data)},clickBubble:false"
+                        ></a>
+            </div>
+        </div>
+
+        <div class="osucmid">
+		<pre><a href="#" title="" data-bind="attr:{href:actorProfile.url, title:actorProfile.name}"><span
+                data-bind="text:actorProfile.name"></span></a> <span
+                data-bind="text:comment" class="comment more"></span></pre>
+
+            <h6>
+                <span data-bind="text:dateCreated"></span> -
+                <a href="#" rel="tooltip2"
+                   title="" class="spin_and_disable_inline widget-tab-link2 async"
+                   method="get" dataType="json"
+                   data-bind="title:likesSummary, event:{click:$root.likeToggle.bind($root,$data)}">
+
+                    <span class="go_likes_status" data-bind="text:likesSummary.status"></span>
+                </a>
+            </h6>
+        </div>
+    </div>
+</script>
+
+
+<script id="profile-popover-tmpl" type="text/html">
+    <div class="content2 hide2" id="" data-bind="attr:{id:_id()+'_popover'}">
+        <p style="display:none;" data-bind="text:_id()+'_popover'"></p>
+        <table width='300'>
+            <tr>
+                <td><a data-bind="attr:{href:url, title:name}" href="#"
+                       title="" class="group_title"><img data-bind="attr:{src:signature_photo}"
+                                                         height='90' width='105'></a></td>
+                <td></td>
+                <td align='top'><a data-bind="attr:{href:url, title:name}" href=""
+                                   title="" class="group_title"><font
+                        size='+1' data-bind="text:name"></font></a><br/>
+                    <span data-bind="text:summary"></span></td>
+            </tr>
+        </table>
+
+        <table width='250' data-bind="if:connection.s() == -1">
+            <tr>
+                <td align='left'>
+                    <button
+                            data-bind="event:{click:$root.addConnection.bind($root,_id(), 'friends')}"
+                            class='btn btn-mini' style='width: 105px;'><i
+                            class='icon-user icon-white'></i>Add Friend
+                    </button>
+                </td>
+                <td align='right'>
+                    <button
+                            data-bind="event:{click:$root.showSendMessageWidget.bind($root,$data)}"
+                            class='btn btn-mini '><i class='icon-envelope icon-white'></i>Send Message
+                    </button>
+                </td>
+            </tr>
+        </table>
+
+        <table width='250' data-bind="if:connection.s() == 1">
+            <tr>
+                <td align='left'>
+                    <button class='btn btn-mini' style='width: 105px;'><i
+                            class='icon-user icon-white'></i>Friend
+                    </button>
+                </td>
+                <td align='right'>
+                    <button
+                            data-bind="event:{click:$root.showSendMessageWidget.bind($root,$data)}"
+                            class='btn btn-mini '><i class='icon-envelope icon-white'></i>Send Message
+                    </button>
+                </td>
+            </tr>
+        </table>
+    </div>
+</script>
+
+
+<div id="profilesPopover" style22="position:absolute;top:230px;z-index:9999;" style="display:none;">
+    <h1>Profile Length</h1>
+
+    <h1 data-bind2="text:profiles().length"></h1>
+
+    <div id="" data-bind="if:profiles!=undefined">
+        <div id="" data-bind2="template:{name:'profile-popover-tmpl',foreach:profiles}"></div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var context = {};
+
+        ko.setTemplateEngine(new ko.nativeTemplateEngine)
+        //ko.applyBindings(world, document.getElementById('profilesPopover' ));
+
+    });
+</script>
+
+
+<div id="profile-popover-tmpl-html" style="display:none;">
+    <div class="content2 hide2" id="" data-bind="attr:{id:_id()+'_popover'}">
+        <p style="display:none;" data-bind="text:_id()+'_popover'"></p>
+        <table width="330">
+            <tbody><tr>
+                <td width="90px">
+                    <div class="popicbox"><a data-bind="attr:{href:url, title:name}" href="#" title="" class="group_title"><img data-bind="attr:{src:signature_photo}" class="popic"></a></div>
+                </td>
+                <td width="6px"></td>
+                <td align="top">
+                    <div style="height:40px; margin-top:4px"><a data-bind="attr:{href:url, title:name}" href="" title="" class="group_title"><font style="font-weight:bold" data-bind="text:name"></font></a></div>
+                    <div style="height:40px; margin-top:4px"><span data-bind="text:summary"></span></div>
+                </td>
+            </tr>
+            <tr height="16px"></tr>
+        </tbody></table>
+
+        <table width="330" data-bind="if:connection.s() == -1">
+            <tbody><tr>
+                <td width="220px" align="right">
+                    <button data-bind="event:{click:$root.addConnection.bind($root,_id(), 'friends')}" class="btn btn-mini" style="width: 90px;"><i class="icon-user"></i> Add Friend
+                    </button>
+                </td>
+                <td align="right">
+                    <button data-bind="event:{click:$root.showSendMessageWidget.bind($root,$data)}" class="btn btn-mini" style="width: 105px;"><i class="icon-envelope"></i> Send Message
+                    </button>
+                </td>
+            </tr>
+        </tbody></table>
+
+        <table width="330" data-bind="if:connection.s() == 1">
+            <tbody><tr>
+                <!--		<td width="220px" align="right">-->
+                <!--		<button class='btn btn-mini'  style='width: 100px;'><i-->
+                <!--			class='icon-user icon-white'></i>Friend</button>-->
+                <!--		</td>-->
+                <td width="330px" align="right">
+                    <button data-bind="event:{click:$root.showSendMessageWidget.bind($root,$data)}" class="btn btn-mini" style="width: 105px;"><i class="icon-envelope"></i> Send Message
+                    </button>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+</div>
+
+
+    <!--Body Mid Start Here -->
     <div id="body_mid" style="background-image: none;">
         
 
@@ -1031,11 +1071,13 @@ member information.</p>
 </div>
 </div>
 
+<script type="text/javascript" src="/oyemin/serve/g/5037111c5dacf9762ebedd1173e5e212/lm/1381990591"></script>
 
 
     </div>
+    </div>
     <!--Body Mid End Here -->
-</div>
+
 <!--Main Counter End Here -->
 
 
@@ -1063,16 +1105,28 @@ member information.</p>
 <div id="album-modal-container" class="modal" style="display: none;"></div>
 <div class="modal" id="modal_container" style="display:none;" data-backdrop="static" data-keyboard="false"></div>
 
-<script src="http://www.oyepages.com/sites/site4/js/esb.js?v=001.50.5"></script>     
+<script src="http://oyepages.com/sites/site4/js/esb.js?v=001.50.5"></script>     
 
 <script>
     world.add( {"graphObjects":[],"profiles":[]});
 </script>
 
 
-<script type="text/javascript">
-    window.onload=function(){document.body.style.cursor='auto';}
+
+<script>
+$(function(){
+	//facebookAutoLogin(isGuest)
+		 isGuest = 1;
+		autoLogin = true;
+})
+
 </script>
+<script type="text/javascript">
+    window.onload = function () {
+        document.body.style.cursor = 'auto';
+    }
+</script>
+
 
 
 
