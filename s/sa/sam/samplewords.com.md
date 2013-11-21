@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samplewords.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529173811id_/http%3A//www.samplewords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplewords.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121151339id_/http%3A//www.samplewords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Printable Sample Document Templates, Forms and Calendars
 
