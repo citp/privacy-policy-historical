@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henribendel.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518155817id_/http%3A//www.henribendel.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henribendel.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121113159id_/http%3A//www.henribendel.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -149,7 +149,7 @@ Our Associate Vice President (AVP) of Legal and Compliance Services administers 
 
 AVP, Privacy  
 Legal & Compliance Services  
-Limited Brands, Inc.  
+L Brands, Inc.  
 3 Limited Parkway  
 Columbus, OH 43230  
 U.S. 
