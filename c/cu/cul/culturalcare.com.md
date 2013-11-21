@@ -1,55 +1,47 @@
-> *The following text is extracted and transformed from the culturalcare.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204204157id_/http%3A//www.culturalcare.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturalcare.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121123354id_/http%3A//culturalcareaupair.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy § Cultural Care Au Pair
+# Privacy policy | Cultural Care Au Pair
 
-####  Our Commitment to Your Privacy
+## ** **
 
-Cultural Care Au Pair is committed to protecting the privacy of our online users. We would like to share our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, it is available in the navigation bar at the bottom of every page and at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on the culturalcare.com website.
+Cultural Care Au Pair is committed to protecting the privacy of our online users. To make this notice easy to find, it is available in the navigation bar at the bottom of culturalcareaupair.com. This notice applies to all information collected or submitted on the culturalcareaupair.com website. 
 
-  
+  **Collection of Personal Information**
 
+On our site, you can request information, refer host families, access and submit the host family application, and access your online account. We collect personal information from you to complete these transactions and to provide efficient, customized and meaningful experiences online.   We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to any third parties, except when necessary to service your account. 
 
-####  Collection of Personal Information
+**Information Security**
 
-On our site, you can request information, refer host families, download the host family application, and access your online account. Culturalcare.com maintains the confidentiality, security, and integrity of personal information that we obtain from our users. We limit the personally identifiable information we collect to only that which is required to participate with Cultural Care.
+Cultural Care Au Pair maintains physical, electronic and procedural safeguards to protect the confidentiality and security of personally identifiable information we collect. To guard your credit card information submitted to us online, our website uses Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address during transmission for your protection.
 
-  
+**Use of cookies**
 
+Cultural Care Au Pair uses a technology nicknamed “cookies”. Cookies are pieces of information that a web site transfers to your computer’s hard disk for record keeping purposes. They tell us how and when pages on our site are visited and by how many people.
 
-####  Collection of Non Personal Information
+Cookies do not collect personally identifiable information, although they do identify a user’s computer. We do not combine information collected through cookies with other personally identifiable information in order to detect who you are or what your screen name or e-mail address is. 
 
-We collect site traffic data from cookie usage on our site. We also use information about IP addresses, types of Web browsers, Internet Service Providers (ISPs), referring and exit pages, operating systems, date/time stamps, and number of clicks to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses and the like are not linked to personally identifiable information. We also keep track of search terms, so we know what visitors to our site are looking for. We do this so that we may better develop the site to meet the needs of our users. 
+Most web browsers automatically accept cookies, but you can usually change your browser to prevent this. If you do so however, you may not be able to take full advantage of our web site. The complete online reservation process can for example only be accessed if you accept cookies.
 
-  
+As you browse our site, advertising cookies will be placed on your computer so that we can understand what you are interested in.  This enables us or our partners to present you with retargeting advertising on other sites based on your previous interaction with our site. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.  You can visit this [page](http://www.networkadvertising.org/choices/) to opt out of targeted advertising.
 
+**The Way We Use Information**
 
-####  The Way We Use Information
+Personal information collected by Culturalcare.com is stored in secure operating environments that are not available to the public. We use the information you provide about someone else for the ‘refer a family’ program to contact that potential family about the program.  We do not share this information with outside parties. Culturalcare.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. Finally, we never use or share the personally identifying information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.
 
-We use the information you provide about yourself when requesting information, only to complete that request. We do not share this information with outside parties. Personal information collected by Culturalcare.com is stored in secure operating environments that are not available to the public. However, should you provide personally identifiable information through email exchanges. We will protect your privacy to the best of our ability by monitoring the sessions, but always keep in mind that when you are in a public forum, you control the information you disclose. You should always be careful when distributing your personal information in this manner. We use the information you provide about someone else only to confirm message delivery for the 'refer a family' function. We do not share this information with outside parties. Information you provide to us to create a message is only used for that purpose, and it is only disclosed to the recipient. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. Culturalcare.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. Finally, we never use or share the personally identifying information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. 
+**Reviewing or Changing Your Information**
 
-  
-
-
-####  Reviewing or Changing Your Information
-
-You can access personal information online by providing your host family number and password when prompted at the login. We use this procedure to better safeguard your information. You can request changes of factual errors in your personal account via email to your Program Director, by calling our toll-free number at (800) 333-6056, or by sending mail to: 
+You can access personal information online by providing your host family number or email address and password when prompted at the login. We use this procedure to better safeguard your information. You can request changes of factual errors in your personal account from your online account, via email to your Program Director, by calling our toll-free number at 1-800-333-6056, or by sending mail to:
 
 Cultural Care Au Pair  
-One Education Street  
+One Education Street   
 Cambridge, MA 02141
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-  
+**Your Consent**
 
+By using our website, you consent to the collection and use of this information by Culturalcare.com. If we decide to change our privacy policy, we will post any changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-####  Your Consent
+**Tell Us What You Think**
 
-By using our website, you consent to the collection and use of this information by Culturalcare.com. If we decide to change our privacy policy, we will post any changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of email. If, however, you have opted out of communication with the site then you will not be contacted, nor will your personal information be used in this new manner. In addition, if we make any material changes to our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases where we post the notice we will also email users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
-
-  
-
-
-####  Tell Us What You Think
-
-Culturalcare.com welcomes your questions and comments about privacy. Should you have any questions or concerns about our privacy policies, please call us at 1-800-333-6056 or send us an email at [aupair@culturalcare.com](mailto:aupair@culturalcare.com).
+Culturalcare.com welcomes your questions and comments about privacy. Should you have any questions or concerns about our privacy policies, please call us at **1-800-333-6056** or send us an email at [**aupair@culturalcare.com**](mailto:aupair@culturalcare.com).
