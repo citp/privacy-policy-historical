@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unrulymedia.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622031149id_/http%3A//www.unrulymedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrulymedia.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121151204id_/http%3A//www.unrulymedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Unruly Media
+# Privacy | Unruly
 
 When you visit a Participant Site in our advertising network and view Distributed Content placed by us, we collect information about your activities as follows:
 
