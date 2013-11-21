@@ -1,57 +1,28 @@
-> *The following text is extracted and transformed from the grabonestore.co.nz privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519063800id_/http%3A//www.grabonestore.co.nz/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabonestore.co.nz privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121075804id_/http%3A//www.grabonestore.co.nz/legal) for the most accurate reproduction.*
 
-# Privacy Policy – GrabOne
+# Legal – GrabOne Store
 
-## GrabOne Store Privacy Policy
+> Please read our full [Terms and Conditions](https://web.archive.org/legal/terms-and-conditions) (Which includes the [General Terms and Conditions of Use](https://web.archive.org/legal/terms-and-conditions), [Membership Terms](https://web.archive.org/legal/membership-terms) and [Subscriber Terms](https://web.archive.org/legal/subscriber-terms)) and [Privacy Policy](https://web.archive.org/legal/privacy-policy). The most commonly requested information is summarised below.
 
-Your privacy on the Internet is important to us. As the Internet offers the ability to collect certain types of information about users, we want you to understand the terms and conditions surrounding the capture and use of any information we gather. To that end, this privacy policy discloses what information we gather, how we use it, and how to correct or change it.
+### Your information
 
-  1. Collection of Information back to top
-    1. We gather various information about customers and users of the GrabOne Store website (the Website).
-    2. **This information includes:**
-      1. personal information, provided through voluntary registration or use of the Website (such as your first and last names and email);
-      2. personal information, provided to us by you for any purchase through the Website (such as credit card number, expiration date and authentication codes or related information);
-      3. personal information, provided to us by you through any other method (including without limitation correspondence and discussions);
-      4. information collected by us through click tracking in relation to your use of the Website, including the content you upload and the content you access; and
-      5. aggregated data, which tracks traffic to the Website; and cookies, which are pieces of information transferred to your computer hard drive for record keeping (such as your preferences on our Website).
-Failure to provide necessary personal information when requested may result in certain functions of the Website not being available to you. 
-  2. Use of Information back to top
-    1. If you participate in an online activity on the Website, your personal information will only be used for the purposes of that online activity, unless you otherwise provide us with your consent.
-    2. **Any personal information you provide may be used for the following purposes:**
-      1. to send you periodic emails that you have subscribed to through your nominated email address;
-      2. to obtain feedback on a Deal you have participated in;
-      3. to contact you as part of the transaction process when entering into a Deal
-      4. verification of your identity as a Member of the Website;
-      5. to monitor, develop and improve the Website and ensure that content of the Website is presented in the most effective manner for the user;
-      6. to keep the Website relevant and of interest to users;
-      7. to investigate any complaints relating to the misuse of the Website or misconduct in relation to the Discussion Board;
-      8. responding to any queries and/or comments you have sent to us; and
-      9. such other use that you authorise.
-    3. You will have the option to choose to not receive certain types of email communications from us, except for those that are absolutely necessary to provide you with details of any purchases you have made. Emails will always contain a link at the bottom to be removed from our mailing list or you can unsubscribe via your account page.
-    4. When making an order we also request, on behalf of the Merchant, credit card or other payment account information which are maintained in encrypted form on secure servers. We do not share this information with any third party except for those companies responsible for processing credit card transactions for us.
-  3. Disclosure of Information back to top
-    1. We will only share personal information with other companies or individuals in the following limited circumstances: 
-      1. to provide the merchant and third party logistics provider with contact and delivery address details for the purpose of delivering your consignment to your chosen address and processing payment.
-      2. where we have your consent, such as by opting-in to receive communications from third party Merchants in the process of entering into Deals.
-  4. Cookies and Tracking back to top
-    1. We may use a cookie file containing information that can identify the computer you are working from. The cookie file is anonymous as it only gives us details of your IP address, PC platform (e.g. Windows or Mac), Browser (e.g. Internet Explorer, Safari, Firefox or other, plus the version of Browser) and domain (whether you are accessing the Website from within the country or elsewhere). We may use the information generated by "cookies" to: 
-      1. track traffic patterns to and from the Website including information like the pages you visit, the time you spend on each page, the date and time of your visit, and referring pages (pages you came from or go to);
-      2. ensure advertising is being shown to the most appropriate person and limit the frequency of display for certain ad formats; and
-      3. enable you to enter our Website and use certain services as a Member without having to log on each time and to visit Member-restricted areas of the Website.
-    2. You can choose to refuse cookies by turning them off in your browser and/or deleting them from your hard drive. You do not need to have cookies turned on to use the Website, but you may need them for customisable areas of the Website that we may develop in the future. If your cookies are turned off we will not have any control over the frequency of display of certain ad formats. This could affect your experience of the Website.
-  5. Content Providers, Advertisers and Partners back to top
-    1. We do not control the practices of content providers, partners and advertisers connected with the Website and to whom you provide personal information whilst using the Website. Our Website contains links to other sites, which may not follow the same privacy policies as us. We recommend that you check any relevant privacy policies before providing your personal information to any third party.
-  6. Nielsen//NetRatings back to top
-    1. We use Nielsen//NetRatings website measurement software and systems to assist in tracking traffic patterns to and from our Website, aggregating anonymous information about visits to our Website, and randomly and anonymously surveying users of our Website. Nielsen//NetRatings is a leader in the Internet industry in interactive measurement technologies and market research and its system is an accepted standard amongst major New Zealand Internet sites. The system is used to collect information on our network such as the number of page views, the number of unique visitors, how long these visitors spend on the Website when they do visit, and common entry and exit points into and from the Website. Random anonymous surveys are also used to collect further information about our users.
-    2. This non-personal information is aggregated by Nielsen//NetRatings and provided to us to assist in our analysis of the Website. The Nielsen//NetRatings data is also accessible by media organisations and research companies for the purpose of conducting industry comparisons with other websites. All our pages are coded with a small piece of Nielsen//NetRatings code that is transparent to you when you read that page. The software stores a cookie in your browser (if you have enabled cookies) which contains a unique identifier to allow us to track the number of unique visitors to the Website. This information is collected and aggregated by Nielsen//NetRatings and in no way can you be identified personally and no personal information is stored about you. Nielsen//NetRatings systems fully comply with our Privacy Policy. For further information about Nielsen//NetRatings, [click here](http://en-us.nielsen.com/content/nielsen/en_us/product_families/nielsen_netratings.html), and for details of Nielsen//NetRatings' privacy policy, [click here](http://www.nielsen-online.com/corp.jsp?section=leg_prs).
-  7. Security back to top
-    1. As no data transmission over the Internet can be guaranteed to be completely secure, we cannot ensure or warrant the security of any information you transmit or receive through the Website. These activities are conducted at your own risk.
-  8. Changes to Policy back to top
-    1. We reserve the right to change this policy at any time by notifying users of the existence of a revised policy by updating the "last updated" notice beside the link to this policy. By continuing to use the Website, you agree to be bound by the amended policy. You should check from time to time to see if the policy has changed or not.
-  9. Holding, Correcting and Updating back to top
-    1. Any personal information that you provide to us will be collected and held by us at **GrabOne Ltd, Level 2, 109 Carlton Gore Road, Newmarket, Auckland 1023, New Zealand**. Under the Privacy Act 1993 you have rights of access to and correction of personal information that we hold.
-    2. Although we take reasonable steps to ensure that all data we use is accurate, we depend on our users to update or correct their personal information whenever necessary. We offer the ability for users to correct or change their personal information online at any time and as often as necessary.
-    3. If you have any questions about how our services work or regarding this statement, [Contact Us](https://web.archive.org/contact-us).
-    4. For information about New Zealand's Privacy Act 1993 and how it protects the personal information of individuals in New Zealand, [click here.](http://www.privacy.org.nz/the-privacy-act-and-codes/)
+**What will you do with my email address?**  
+We take your personal information very seriously - our focus is to use your email to inform you of our great deals every day.
 
+You'll receive information about our GrabOne Store deals in your inbox daily, and occasional alerts relating to any purchases you make through the GrabOne Store website. Your email address will not be disclosed to any third party. Our Privacy Policy and Subscriber Terms provide full disclosure, please read over these.
 
+**What will you do with my credit card and billing information?**  
+Credit card and billing information is obtained from you via a Secure Socket Layer connection (SSL), which is fully encrypted. This information and your other personal information will be kept safe and secure. We will store your credit card and billing information and use it to pay for any deals that you purchase (at the time you give us that information and in the future). However, if you do not want us to store this information, please let us know at the time you enter these details (you will have the ability to do this on our payment page at the time you enter this information).
+
+### Orders & Returns Policy
+
+**Can I return my GrabOne Store product?**  
+Once you have purchased a deal you are committed to the transaction and your credit card will be charged immediately following confirmation of the deal. 
+
+If you have a problem with your purchase, then you'll need to contact our customer services team [helpdesk@GrabOneStore.co.nz](mailto:helpdesk@grabonestore.co.nz) or give us a call 0800 GRABONE (0800 472 2663)
+
+You will need to send it back to us or directly to the supplier. Think of us as being like a normal shop - when you buy something and you have a problem, you take it back to the store. We run on the same principle, so shipping is at your cost.
+
+You need to bear in mind that we will repair and/or replace faulty goods, but won't necessarily refund them unless we are unable to repair or replace. This is as per our obligations under the Consumer Guarantees Act. We won't take goods back for "buyer’s remorse" - if you change your mind, there's no guarantee sorry.
+
+Nothing in these terms and conditions limits your rights under the Consumer Guarantee Act 1993.
