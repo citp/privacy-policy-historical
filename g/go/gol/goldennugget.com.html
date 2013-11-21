@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goldennugget.com privacy policy that was archived on 2013-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130623195607id_/http%3A//www.goldennugget.com/lasvegas/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldennugget.com privacy policy that was archived on 2013-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131121102553id_/http%3A//www.goldennugget.com/lasvegas/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Golden Nugget Las Vegas | Privacy Policy</title>
@@ -15,7 +15,7 @@
 <link rel="stylesheet" href="fonts/FunctionProBold/stylesheet.css" media="screen">
 <link rel="stylesheet" href="fonts/FunctionProBoldCondensed/stylesheet.css" media="screen">
 <link rel="stylesheet" href="fonts/FunctionProMediumCondensed/stylesheet.css" media="screen">
-<script type="text/javascript" src="js/jquery-1.6.min.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TJL7PG"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery-1.6.min.js"></script>
 <script type="text/javascript" src="js/easy.js"></script>
 
 <script type="text/javascript" src="js/interior_page.js"></script>
@@ -88,9 +88,7 @@
             <li>
               <a href="play_upcomingtournaments.asp">Upcoming Tournaments</a>
             </li>
-            <li>
-              <a href="play_worldseriesofslots.asp">World Series of Slots</a>
-            </li>
+            
             <li>
               <a href="play_grandpokerseries.asp">Grand Poker Series</a>
             </li>
@@ -103,16 +101,17 @@
 			<li>
               <a href="play_casinocredit.asp">Casino Credit</a>
             </li>            
-          </div>
-          <div class="menu_play menu_play2">
-            <li class="level1_first">
+			<li>
               <a href="play_hosts.asp">Hosts</a>
             </li>
-            <li>
-              <a href="play_24karatclub.asp">24 Karat Club</a>
+           </div>
+         
+          <div class="menu_play menu_play2">
+            <li class="level1_first">
+                          <a href="play_24karatclub.asp">24 Karat Club</a>
             </li>
 <li>
-              <a href="http://www.goldennuggetpoker.com/?ref=GNVegas" target="_blank">Play Online Poker Free</a>
+              <a href="http://www.goldennuggetpoker.net/?ref=GNVegas" target="_blank">Play Online Poker Free</a>
             </li>            
 <li>
               <a href="play_jackpotwinners.asp">Jackpot Winners</a>
@@ -169,9 +168,6 @@
           </li>
           <li class="eat_redsushi">
             <a href="eat_redsushi.asp">Red Sushi</a>
-          </li>
-          <li class="eat_carsonstreetcafe">
-            <a href="eat_carsonstreetcafe.asp">Carson Street Café</a>
           </li>
           <li class="eat_buffet">
             <a href="eat_buffet.asp">Buffet</a>
@@ -288,10 +284,17 @@
           <li class="show_countrysuperstars">
             <a href="show_countrysuperstars.asp">Country Superstars</a>
           </li>   
-                      </li> -->
+                      </li>
 
 
-       
+
+          
+          
+                      <li class="show_spank">
+            <a href="show_spank.asp">Spank! The Musical</a>
+          </li> -->
+          
+              
            
           <li class="show_sharktanktours">
             <a href="show_sharktanktours.asp">Shark Tank Tours</a>
@@ -304,6 +307,14 @@
           <li class="show_fremontstreet">
             <a href="show_fremontstreet.asp">Fremont Street Experience<br>Light Show</a>
           </li>
+
+
+             <li class="show_willienelson">
+            <a href="show_willienelson.asp">Willie Nelson</a>
+          </li> 
+          
+          
+          
 <li class="show_gretchenwilson">
             <a href="show_gretchenwilson.asp">Gretchen Wilson</a>
           </li>  
@@ -315,12 +326,7 @@
 <li class="show_merlehaggard">
             <a href="show_merlehaggard.asp">Merle Haggard</a>
           </li>
- 
- 
-          <li class="last show_rockvegas">
-            <a href="show_rockvegas.asp">Free Concerts On Fremont Street</a>
-          </li> 
-          
+           
           
           </ul>
 
@@ -475,6 +481,12 @@
 		document.resform.DateIn.value = todayStr;
 	}
 
+function getLinkerUrl(url) {
+	var tracker = _gat._getTrackerByName();
+	var linkerUrl = tracker._getLinkerUrl(url);
+	return linkerUrl;
+}
+
 	function changeAction() {
 		var newAction = "https://bookgnlv.goldennugget.com/cgi-bin/lansaweb?PROCFUN+RN+RESNET+RES+funcparms+UP(A2560):;CTBAR;";
 		var dteCheckIn = new Date(document.resform.DateIn.value);
@@ -495,7 +507,9 @@
 		newAction = newAction + strDate + ";";
 		newAction = newAction + document.resform.length_select.value + ";";
 		newAction = newAction + document.resform.adults_select.value + ";;010;?/";
-		document.resform.action = newAction;
+		//document.resform.action = newAction;
+_gaq.push(['_trackEvent', 'Reservations', 'Book_Now', 'Las_Vegas']);
+	document.resform.action = getLinkerUrl(newAction);
 
 		return true;
 	}
@@ -505,7 +519,7 @@
 </div><div class="col_right_con">
 	<div class="right_con_con">
 		<div class="catlog_block">
-			<a href="takeatour.asp"></a>
+			<a href="specials.asp"></a>
 		</div>
 		<div class="occasions_block">
 			<a href="specialoccasions.asp"></a>
@@ -514,7 +528,7 @@
 			<a href="upcomingevents.asp"></a>
 		</div>
 		<div class="specials_block">
-			<a href="specials.asp"></a>
+			<a href="http://www.goldennuggetlc.com/default.asp"></a>
 		</div>
 		<div class="karat_block">
 			<a href="karatclub.asp"></a>
@@ -573,7 +587,7 @@
       <div class="block fun_icon">
         <div class="word">
           <div>ONLINE POKER</div>
-          <a href="http://www.goldennuggetpoker.com/?ref=GNVegas" target="_blank">
+          <a href="http://www.goldennuggetpoker.net/?ref=GNVegas" target="_blank">
             PLAY FREE <span>»</span>
           </a>
         </div>
@@ -613,17 +627,47 @@
 <!--wapper end-->
  <script src="http://gldngt.netmng.com/?aid=185" type="text/javascript" defer="defer"></script>
 
+
+<!-- Turned off Google tag and put in Cendyn version on Sept 11 2013
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+</script>
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-12187959-1");
 pageTracker._setDomainName("none");
 pageTracker._setAllowLinker(true);
 pageTracker._trackPageview();
-} catch(err) {}</script>
+} catch(err) {}</script> -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12187959-1']);
+  _gaq.push(['_setDomainName', 'goldennugget.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<!-- Cendyn Master Tag -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TJL7PG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TJL7PG');</script>
+<!-- End Cendyn Master Tag -->
+
 
 <!-- Google Code for Remarketing Las Vegas Remarketing List -->
 <script type="text/javascript">
@@ -648,6 +692,28 @@ var google_conversion_value = 0;
 <img src="http://media.fastclick.net/w/tre?ad_id=26915;evt=19585;cat1=25535;cat2=25536;rand=[CACHEBUSTER]" width="1" height="1" border="0">
 
 <!-- Adara retargeting pixel -->
-<script type="text/javascript" src="http://tag.yieldoptimizer.com/ps/ps?t=s&amp;p=1242&amp;pg=gn"></script> 
+<script type="text/javascript" src="http://tag.yieldoptimizer.com/ps/ps?t=s&amp;p=1242&amp;pg=gn"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $( "div.book_now a" ).click(function() {
+        var BookingName = 'BookNow_Click';
+                                var originalUrl = jQuery(this).attr('href');
+        _gaq.push(['_trackEvent', 'Reservations', 'Check_Availability', BookingName]);
+                                
+                                //Wait for google analytics to load tracking if necessary
+                                setTimeout(function () {
+                                document.location.href = getLinkerUrl(originalUrl);
+                                }, 100);
+                                return false;
+    });
+});
+
+function getLinkerUrl(url) {
+                var tracker = _gat._getTrackerByName();
+                var linkerUrl = tracker._getLinkerUrl(url);
+                return linkerUrl;
+}
+</script> 
 
 </body></html>
