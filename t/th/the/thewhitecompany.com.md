@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewhitecompany.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523171104id_/http%3A//www.thewhitecompany.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhitecompany.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121014050id_/http%3A//www.thewhitecompany.com/help/privacy-policy) for the most accurate reproduction.*
 
 # The White Company - Privacy & Data Protection
 
@@ -12,7 +12,6 @@
   * How do you protect the information you hold about me on your internal systems?
   * Payment Security
   * How safe are my credit or debit card details on your site?
-  * Do you have ISIS (Internet Shopping is Safe) accreditation?
   * What happens if I think my card has been used fraudulently?
   * Our Mailing List
   * Can I be removed from your mailing list?
@@ -56,14 +55,6 @@ We know that security is a major concern to many of our customers. We have put a
 
 We feel confident that credit card information entered on our site will not be accessed by any unauthorised person or company. Our secure sockets layer (SSL) uses 128-bit encryption, which is the highest level possible. Once your order has been transferred to our order processing system all credit card details are removed from the website as an added precaution and our sales order processing system and internal network are protected by the latest proxy technology. This does mean you have to give your card details every time you place an order with us but this minor inconvenience does ensure that it is totally safe to shop with The White Company.
 
-Do you have ISIS (Internet Shopping is Safe) accreditation? You can shop online with us in confidence as the ISIS logo certifies that we have 
-
-  * Registered with the ISIS programme and undertaken to trade in a manner that is legal, decent, honest, truthful and fair. 
-  * Had our website and service reviewed and monitored by IMRG (Interactive Media Retail Group). 
-  * Had our business, VAT and Data Protection registrations checked by IMRG. 
-
-
-
 What happens if I think my card has been used fraudulently?
 
 We are accredited members of the IMRG which is the leading industry body for global online retailing. You will notice the ISIS logo in our checkout process which indicates we have been accepted as a safe website by the IMRG. The risk of fraud from using your card on our website is extremely low.
@@ -76,7 +67,8 @@ Can I be removed from your mailing list?
 
 The White Company will send you special offers and promotions by post and email. If you do not want to receive offers and promotions by email, you can [unsubscribe](mailto:services@thewhitecompany.com?subject=Email%20unsubscribe) here. Please remember it can take up to 21 days to fully remove you from our email mailing list so you may receive one or two more. If you do not want to receive offers and promotions by post, let us know at [services@thewhitecompany.com](mailto:services@thewhitecompany.com?subject=Unsubscribe%20for%20post%20only) or by calling us on 0844 736 4222 (Monday - Friday 8.00am to 10.00pm, Saturday 9am to 5pm, Sunday 10am to 4pm). Our brochures are printed in advance so it can take up to eight weeks for the process to be complete and you may receive one further brochure.
 
-Why did I receive your brochure when I didn't request it?  
+Why did I receive your brochure when I didn't request it?
+
 We may have received your details from a third party company. If you do not wish to receive information from us, please email us at [services@thewhitecompany.com](mailto:services@thewhitecompany.com?subject=Unsubscribe). Please note that although we will take you off our mailing list as soon as you ask us, our brochures are printed in advance so it can take up to eight weeks for the process to be complete and you may receive one further brochure. 
 
 Can I go back on your Mailing List?
