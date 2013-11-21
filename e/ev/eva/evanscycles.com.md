@@ -1,40 +1,44 @@
-> *The following text is extracted and transformed from the evanscycles.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527151942id_/http%3A//www.evanscycles.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evanscycles.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121191258id_/http%3A//www.evanscycles.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Help | Evans Cycles
 
 ### PRIVACY POLICY
 
-**PLEASE NOTE:**
+PLEASE NOTE:
 
-Evans Cycles values your privacy, and therefore do not disclose information to third parties. Cookies are used on this shopping site only to keep track of the contents of your shopping cart once you have selected an item, and to store delivery addresses when you register. There is an option to store a cookie on the PC when you first register. 
+Evans Cycles values your privacy, and therefore does not disclose information to third parties without your express permission. We will only use the information that we collect about you lawfully in accordance with the Data Protection Act 1998. For the purpose of the Data Protection Act 1998, the data controller is Evans Cycles, Camino Park, James Watt Way, Crawley, West Sussex RH10 9TZ. 
 
-When you pay for goods your details are passed through our payment service provider system purely for payment processing and anti-fraud purposes, for your protection. 
+We will collect any information given at the time of the ordering process only to enable us to input and process your order, unless you have given us your consent to use that information more broadly (see below). When you pay for goods your details are passed through our payment service provider system purely for payment processing and anti-fraud purposes, for your protection.
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully in accordance with the Data Protection Act 1998 . We will collect any information given at the time of the ordering process only to enable us to input and process your order. 
+Where you have given your consent to be contacted we may use your data to provide you, via email, post, telephone or SMS with information, products or services that you request from us or which we feel may be of interest to you, or share your details with selected third parties which we believe may be of interest to you. We may use the data in accordance with the preferences expressed in your acceptance of the Evans Cycles cookie policy and terms and conditions of use of the Evans Cycles website. If you wish to be deleted from our mailing list at any time please follow the unsubscribe link at the bottom of the email. 
 
-We will not e-mail you in the future unless you have given us your consent. If you wish to be deleted from our mailing list at any time please follow the unsubscribe link at the bottom of the email. 
+You have the right to access any information that we hold about you. Your right of access can be exercised in accordance with the UK Data Protection Act 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-If you wish to contact us regarding our privacy policy please use this [_form_](http://www.evanscycles.com/contact-us) to email us or call us on 01293 574 900.
+If you wish to contact us regarding our privacy policy please use this form to email us or call us on 01293 574 900.
 
-### Use of cookies
+### COOKIE POLICY
 
-**What is a cookie?**
+Cookies are used on this shopping site only to keep track of the contents of your shopping cart once you have selected an item, and to store delivery addresses when you register. There is an option to store a cookie on the PC when you first register. 
 
-A cookie is a small text file which we transfer to your hard drive through your web browser when you visit our website or open certain emails. It enables our own system to recognise you when you visit our website again and improve our service to you. This information can be used to enhance the content of our website and make your use of it easier.
+What is a cookie?
 
-Read how the IAB provides information about Internet Advertising and your privacy [here](http://www.youronlinechoices.eu/).
+A cookie is a small text file which we transfer to your hard drive through your web browser when you visit our website or open certain emails. It enables our own system to recognise you when you visit our website again and improve our service to you. This information can be used to enhance the content of our website and make your use of it easier. For more information about cookies please visit [www.allaboutcookies.org](https://web.archive.org/web/20131121191258id_/http%3A//www.evanscycles.com/help/www.allaboutcookies.org).
 
-**Three types of cookie may be used during your visit to www.evanscycles.com  **
+Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
-Evanscycles.com session cookies that are deleted after each visit   
-Evanscycles.com persistent cookies are not deleted after each visit   
-Third party cookies that are used by our partners, for example, to help us measure site visitors
+Three types of cookie may be used during your visit to www.evanscycles.com 
 
-**How to manage cookies?**
+  1. Evanscycles.com session cookies – Which allow the site to ‘remember’ content from page to page (for example the shopping basket function) and are deleted after each visit.
+  2. Evanscycles.com persistent cookies – Which are saved on your computer for a fixed period (usually a year or longer) and are not deleted when the browser is closed. Persistent cookies are used where we need to know who you are for more than one browsing session. An example of when we might use these cookies would be to store your preferences, so that they are remembered for the next visit. Persistent cookies are not deleted after each visit.
+  3. Third party cookies – Which are used by our partners, for example, to help us measure site visitors.
 
-Most web browsers allow you to manage which cookies you accept via their settings - you can use the following links to find out more. If your browser is not listed below you can normally use the 'Help' functionality on your browser to find out about how it handles cookies, or visit the site you downloaded it from for more information.
 
-See a list of our main cookies here:
+
+How to control or delete cookies?
+
+See a list of our main cookies here. For instructions on how to control or delete cookies from your computer please visit [http://www.aboutcookies.org](http://www.aboutcookies.org/)
+
+Cookies used
 
 ### **www.evanscycles.com** :
 
@@ -163,4 +167,4 @@ youtube / vimeo cookies
 
 video uploads  
   
-This story was last updated on 21/05/2013
+This story was last updated on 03/07/2013
