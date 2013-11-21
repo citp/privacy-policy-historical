@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localedge.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615082607id_/http%3A//www.localedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localedge.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121023228id_/http%3A//www.localedge.com/privacy) for the most accurate reproduction.*
 
 # Privacy | LocalEdge
 
