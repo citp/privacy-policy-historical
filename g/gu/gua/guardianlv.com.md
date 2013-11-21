@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guardianlv.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430214809id_/http%3A//guardianlv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardianlv.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121234448id_/http%3A//guardianlv.com/privacy-policy) for the most accurate reproduction.*
 
-# The Guardian Express | Privacy Policy
+# Privacy Policy
 
 We collect information from you when you register on our site, place an order, respond to a survey or fill out a form.
 
