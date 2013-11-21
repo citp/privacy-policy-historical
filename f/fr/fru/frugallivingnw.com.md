@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugallivingnw.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523011822id_/http%3A//www.frugallivingnw.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugallivingnw.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121123134id_/http%3A//www.frugallivingnw.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,3 +35,5 @@ Links to other websites are included on this site for your use and reference. We
 Concerns or questions about this privacy policy can be directed to frugallivingonline [at] gmail [dot] com for further clarification.
 
 _The contents of this policy may be altered at any time at our discretion._
+
+_This post may contain affiliate links. See the[disclosure policy](http://www.frugallivingnw.com/disclosure-policy/) for more information._
