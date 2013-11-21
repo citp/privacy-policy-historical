@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the benetton.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522040027id_/http%3A//www.benetton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benetton.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121055351id_/http%3A//www.benetton.com/privacy) for the most accurate reproduction.*
 
-# Privacy | United Colors of Benetton
+# Privacy | United Colors of Benetton - International
 
 This information describes how the personal data of users consulting the Bencom S.r.l. websites is managed and processed.  
 This information, provided in compliance with art. 13 of Italian Legislative Decree no. 196 of 2003 (Personal data Protection Law), is only for this website owned by Bencom S.r.l. and not for any other websites consulted by the user through links over which the aforementioned company has no control whatsoever.
