@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the gamelink.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127144639id_/http%3A//www.gamelink.com/privacy_policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamelink.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121153401id_/http%3A//www.gamelink.com/privacy_policy.jhtml) for the most accurate reproduction.*
 
 # GameLink - Privacy Policy
+
+[](https://web.archive.org/content.jhtml?id=watch-on-tv)
+
+ADVERTISEMENT 
 
 | 
 
