@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dailywealth.com privacy policy that was archived on 2013-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130209211912id_/http%3A//www.dailywealth.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailywealth.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121104938id_/http%3A//www.dailywealth.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # DailyWealth | Privacy Policy
 
 We take your privacy very seriously.
 
-If you have any questions on our privacy policy that are not addressed below, contact Stansberry & Associates customer service at 1-888-261-2693, Monday through Friday, 9 a.m. to 5 p.m. ET.
+If you have any questions on our privacy policy that are not addressed below, contact Stansberry & Associates customer service at 1-888-261-2693, Monday through Friday, 9 a.m. to 8 p.m. ET.
 
 **E-mail Address**
 
@@ -36,6 +36,3 @@ Protected by U.S. Copyright Law {Title 17 U.S.C. Section 101 et seq., Title 18 U
 DISCLAIMER: This work is based on SEC filings, current events, interviews, corporate press releases, and what we've learned as financial journalists. It may contain errors, and you shouldn't make any investment decision based solely on what you read here. It's your money and your responsibility.
 
 Stansberry & Associates Investment Research expressly forbids its writers from having a financial interest in any security they recommend to our subscribers. And all Stansberry & Associates Investment Research (and affiliated companies) employees and agents must wait 24 hours after an initial trade recommendation is published on the Internet, or 72 hours after a direct mail publication is sent, before acting on that recommendation.
-
-  
-
