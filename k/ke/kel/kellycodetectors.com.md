@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellycodetectors.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516211915id_/http%3A//www.kellycodetectors.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellycodetectors.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121043654id_/http%3A//www.kellycodetectors.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Kellyco Metal Detector Superstore
 
