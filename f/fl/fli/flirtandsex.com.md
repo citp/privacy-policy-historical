@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirtandsex.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501001633id_/http%3A//flirtandsex.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirtandsex.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121220433id_/http%3A//flirtandsex.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Live Cams | Webcam Video Chat | Flirt and Sex with these Single Girls
 
@@ -144,7 +144,7 @@ _**V.    **_**C U S T O M E R    S E R V I C E   and   R E C O U R S E :*
 
            information in the United States as necessary to provide the services in which you are participating. If you have any questions,
 
-           comments or complaints about Site privacy policy and/or the way it affects you, please feel free to email us at support@FLIRTANDSEX.com.
+           comments or complaints about Site privacy policy and/or the way it affects you, please feel free to [Contact Us](http://flirtandsex.com/page/frequently-asked-questions)
 
 _**VI.    **_**F E E S ,    C R E D I T   C O M P E N S A T I O N ,   R E F U N D  and  U N L A W F U L   C O N D U C T :**__
 
