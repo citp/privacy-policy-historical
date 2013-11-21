@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the ixwebhosting.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510073123id_/http%3A//www.ixwebhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixwebhosting.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121212604id_/http%3A//www.ixwebhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Web Hosting Privacy Policy | IX Web Hosting
 
 A TRUSTe Privacy Program Member
 
-Ecommerce Corporation (dba IX Web Hosting) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site  www.ixwebhosting.com. 
+Ecommerce Corporation has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site  www.ixwebhosting.com.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@ecommerce.com](mailto:info@ecommerce.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
+
+[](http://www.ixwebhosting.com/privacy-policy#top)
 
 I. Privacy
 
@@ -66,9 +68,9 @@ VII. Special Offers and Updates
 
 Our customers and users will occasionally receive newsletters or e-mails with information on products, services, or special offers. Out of respect for the privacy of our users, Ecommerce gives them the opportunity to opt-out from receiving these types of communications. 
 
-If do not wish to receive our newsletter, promotional communications or any other non-service related communication, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or you may contact us at 1-800-861-9394 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
+If do not wish to receive our newsletter, promotional communications or any other non-service related communication, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or you may contact us at +1 (614) 534-1961 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
 
-On some occasions, it may be necessary to send out service-related announcements. In most cases, users may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account. You may deactivate your account by creating a cancellation request ticket in your hosting control panel, or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us at 1-800-861-9394 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
+On some occasions, it may be necessary to send out service-related announcements. In most cases, users may not opt-out of these communications. If you do not wish to receive them, you have the option to deactivate your account. You may deactivate your account by creating a cancellation request ticket in your hosting control panel, or by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us at +1 (614) 534-1961 or via written mail by sending a letter to 1774 Dividend Drive, Columbus, OH 43228, to opt-out. 
 
 [](http://www.ixwebhosting.com/privacy-policy#top)
 
@@ -99,7 +101,7 @@ If you have any questions about security on our Web site, you can send email us 
 
 X. Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the changes within your user control panel. Alternatively, you may inform us of any changes by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us by telephone at 1-800-861-9394 or via postal mail at 1774 Dividend Drive, Columbus, OH 43228. 
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the changes within your user control panel. Alternatively, you may inform us of any changes by emailing us at [info@ecommerce.com](mailto:info@ecommerce.com) or by contacting us by telephone at +1 (614) 534-1961 or via postal mail at 1774 Dividend Drive, Columbus, OH 43228. 
 
 [](http://www.ixwebhosting.com/privacy-policy#top)
 
