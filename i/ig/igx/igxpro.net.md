@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igxpro.net privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519204231id_/http%3A//www.igxpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igxpro.net privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121041817id_/http%3A//www.igxpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IGXPRO - IGXPro
 
