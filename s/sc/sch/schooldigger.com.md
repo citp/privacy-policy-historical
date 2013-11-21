@@ -1,19 +1,22 @@
-> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523035234id_/http%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldigger.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121015514id_/http%3A//www.schooldigger.com/privacy.aspx) for the most accurate reproduction.*
 
 # schooldigger.com Privacy Policy
 
-Effective **Jan 1, 2007** , updated **Mar 11, 2009**
+Effective **Jan 1, 2007** , updated **Nov 11, 2013**
 
 **Privacy Notice Table Of Contents:**   
 
 
   * Our Commitment To Privacy
   * The Information We Collect
+  * Advertising
   * How We Use Information
   * Our Commitment To Data Security
   * Our Commitment To Children's Privacy
   * How To Access Or Correct Your Information
   * Business Transfers
+  * Changes to this privacy policy
+  * Your acceptance of these terms
   * How To Contact Us
 
 
@@ -24,19 +27,19 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the SchoolDigger.com website. On some pages you can send us feedback or submit opinions or requests to change or add to our database records. The types of personal information collected at these pages are: 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
 
-  * Email address (optional with customer feedback, required for submitting a review or change request)
-  * Phone number (optional)
-  * Facebook ID (if logging into our site with Facebook Connect)
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
 
-
-We automatically receive and record information from your computer and browser, including your IP address, SchoolDigger.com cookie information, software and hardware attributes, and the page you request.
+**Advertising:**
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+The Google Analytics features we've implemented is based on Displayed Advertising. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Preferences Manager](https://www.google.com/settings/ads/). Additionally, users can use the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/). 
 
 **The Way We Use Information:**
 
@@ -58,6 +61,14 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 In the event of a transfer of ownership of SchoolDigger.com, such as acquisition by or merger with another company, a user's personal information will, in most instances, be part of the assets transferred. 
 
+**Changes to this privacy policy:**
+
+Claarware LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the top of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+
+**Your Acceptance of These Terms:**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20130523035234id_/http%3A//www.schooldigger.com/contact.aspx). 
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20131121015514id_/http%3A//www.schooldigger.com/contact.aspx). 
