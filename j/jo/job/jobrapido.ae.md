@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobrapido.ae privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523145354id_/http%3A//ae.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.ae privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122004938id_/http%3A//ae.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
 
 # 
 
@@ -9,6 +9,10 @@ This Website collects Personal Data from its Users. The Personal Data is either 
 Jobrapido Srl (hereinafter "Jobrapido") is the Data Controller. Contact info:  
 Jobrapido Srl  
 Via Paleocapa, 7 - 20121 Milan (MI) - Italy  
+Tax code and VAT number: IT11876271005  
+Company registered at the Chamber of Commerce of Milan  
+Fully paid up share capital: € 5.000.000
+
 ae@jobrapido.com
 
 2\. Data collected during navigation  
