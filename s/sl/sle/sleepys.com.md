@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepys.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523174737id_/http%3A//www.sleepys.com/en/info/PrivacyPolicy/%3Fbn67) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepys.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121031430id_/http%3A//www.sleepys.com/en/info/PrivacyPolicy/%3Fbn67) for the most accurate reproduction.*
 
 # Privacy Policy - Sleepys
 
