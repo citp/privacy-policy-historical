@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hoopla.net privacy policy that was archived on 2013-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611094341id_/http%3A//hoopla.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hoopla.net privacy policy that was archived on 2013-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131121071353id_/http%3A//www.hoopla.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <meta name="google-site-verification" content="D3MCCesYUJ3WPcMH4xrE60zLt9cQr0V9b9Ajj9zis_k">
@@ -11,22 +11,58 @@
     <meta name="revisit-after" content="7 days">
     <meta name="Distribution" content="Global">
     <meta name="reply-to" content="info@hoopla.net">
-    <meta name="viewport" content="width=1300"> 
+    <meta name="viewport" content="width=1300">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="p:domain_verify" content="b9962bf885eb3eed3199080feb0c0014">
+    
+<link rel="stylesheet" type="text/css" href="http://fun.hoopla.net/acton/form.css">
+<link rel="stylesheet" type="text/css" href="http://fun.hoopla.net/acton/formNegCap.css">
+<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://fun.hoopla.net/acton/form.js">
+</script>
+<script type="text/javascript">
+function formElementSerializers() { function input(element) { switch (element.type.toLowerCase()) { case 'checkbox': case 'radio': return inputSelector(element); default: return valueSelector(element); } };
+function inputSelector(element) { return element.checked ? element.value : null; };
+function valueSelector(element) { return element.value; };
+function select(element) { return (element.type === 'select-one' ? selectOne : selectMany)(element); };
+function selectOne(element) { var index = element.selectedIndex; return index < 0 ? null : optionValue(element.options[index]); };
+function selectMany(element) { var length = element.length; if (!length) return null; var values = []; for (var i = 0; i < length; i++) { var opt = element.options[i]; if (opt.selected) values.push(optionValue(opt)); } return values; };
+function optionValue(opt) { if (document.documentElement.hasAttribute) return opt.hasAttribute('value') ? opt.value : opt.text; var element = document.getElementById(opt); if (element && element.getAttributeNode('value')) return opt.value; else return opt.text; };
+return { input: input, inputSelector: inputSelector, textarea: valueSelector, select: select, selectOne: selectOne, selectMany: selectMany, optionValue: optionValue, button: valueSelector };
+};
+var requiredFields = new Array(); var requiredFieldGroups = new Array(); addRequiredField = function (id) { requiredFields.push (id); };
+addRequiredFieldGroup = function (id, count) { requiredFieldGroups.push ([id, count]); };
+missing = function (fieldName) { var f = document.getElementById(fieldName); var v = formElementSerializers()[f.tagName.toLowerCase()](f); if (v) { v = v.replace (/^\s*(.*)/, "$1"); v = v.replace (/(.*?)\s*$/, "$1"); } if (!v) { f.style.backgroundColor = '#FFFFCC'; return 1; } else { f.style.backgroundColor = ''; return 0; } };
+missingGroup = function (fieldName, count) { var result = 1; var color = '#FFFFCC'; for (var i = 0; i < count; i++) { if (document.getElementById(fieldName+'-'+i).checked) { color = ''; result = 0; break; } } for (var i = 0; i < count; i++) document.getElementById(fieldName+'-'+i).parentNode.style.backgroundColor = color; return result; };
+var validatedFields = new Array(); addFieldToValidate = function (id, validationType, arg1, arg2) { validatedFields.push ([ id, validationType, arg1, arg2 ]); };
+validateField = function (id, fieldValidationValue, arg1, arg2) { var field = document.getElementById(id); var name = field.name; var value = formElementSerializers()[field.tagName.toLowerCase()](field); for (var i = 0; i < validators.length; i++) { var validationDisplay = validators[i][0]; var validationValue = validators[i][1]; var validationFunction = validators[i][2]; if (validationValue === fieldValidationValue) { if (!validationFunction (value,arg1,arg2,id)) { field.style.backgroundColor = '#FFFFCC'; alert (validationDisplay); return false; } else { field.style.backgroundColor = ''; } break; } } for (var i = 0; i < implicitValidators.length; i++) { var validationDisplay = implicitValidators[i][0]; var validationValue = implicitValidators[i][1]; var validationFunction = implicitValidators[i][2]; if (validationValue === fieldValidationValue) { if (!validationFunction (value,arg1,arg2,id)) { field.style.backgroundColor = '#FFFFCC'; alert (validationDisplay); return false; } else { field.style.backgroundColor = ''; } break; } } return true; };
+var r = ''; formElementById = function(form, id) { for (var i = 0; i < form.length; ++i) if (form[i].id === id) return form[i]; return null; };
+doSubmit = function(form) { try { if (typeof(customSubmitProcessing) === "function") customSubmitProcessing(); } catch (err) { } var ao_jstzo = formElementById(form, "ao_jstzo"); if (ao_jstzo) ao_jstzo.value = new Date().getTimezoneOffset(); var submitButton = document.getElementById(form.id+'_ao_submit_button'); submitButton.style.visibility = 'hidden'; var missingCount = 0; for (var i = 0; i < requiredFields.length; i++) if (requiredFields[i].indexOf(form.id+'_') === 0) missingCount += missing (requiredFields[i]); for (var i = 0; i < requiredFieldGroups.length; i++) if (requiredFieldGroups[i][0].indexOf(form.id+'_') === 0) missingCount += missingGroup (requiredFieldGroups[i][0], requiredFieldGroups[i][1]); if (missingCount >
+0) { alert ('Please fill all required fields. '); submitButton.style.visibility = 'visible'; return; } for (var i = 0; i < validatedFields.length; i++) { var ff = validatedFields[i]; if (ff[0].indexOf(form.id+'_') === 0 && !validateField (ff[0], ff[1], ff[2], ff[3])) { document.getElementById(ff[0]).focus(); submitButton.style.visibility = 'visible'; return; } } if (formElementById(form, 'ao_p').value === '1') { submitButton.style.visibility = 'visible'; return; } formElementById(form, 'ao_bot').value = 'nope'; form.submit(); };
+</script> 
 
-    <link href="stylesheets/application.css" media="all" rel="stylesheet" type="text/css">
-    <link href="css/twitterfeed-php.css" media="all" rel="stylesheet" type="text/css">
+    <link href="/css/hoopla/application.css" media="all" rel="stylesheet" type="text/css">
+    <link href="/css/hoopla/twitterfeed-php.css" media="all" rel="stylesheet" type="text/css">
+    <link href="/css/hoopla/colorbox.css" media="all" rel="stylesheet" type="text/css">
+    <link href="/css/hoopla/css/app.css" media="all" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/css/hoopla/font-awesome/css/font-awesome.css">
     <meta content="text/html" http-eqiv="Content-Type">
     <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
     <meta content="Real-time leaderboard application for sales organizations to improve performance." name="description">
-    <link href="images/favicon-a.ico" rel="shortcut icon">
-    <script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script id="hs-analytics" src="//js.hubspot.com/analytics/1582146600000/45634.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="javascripts/jquery-1.7.1.min.js" type="text/javascript"></script>
-    <script language="javascript" src="javascripts/jquery.cycle.all.js" type="text/javascript"></script>
-    <script language="javascript" src="javascripts/jquery.scrollTo-1.4.2.js" type="text/javascript"></script>
-    <script language="javascript" src="javascripts/application.js" type="text/javascript"></script>
-    <script language="javascript" src="javascripts/form_behavior.js" type="text/javascript"></script>
-    <script type="text/javascript" src="javascripts/ZeroClipboard.js"></script>
-
-<!--GOOGLE ANALYTICS--Hoopla and Forge accounts-->  
+    <link href="/images/hoopla/favicon-a.ico" rel="shortcut icon">
+    <script language="javascript" src="/js/hoopla/jquery.js" type="text/javascript"></script>
+    <script language="javascript" src="/js/hoopla/jquery.cycle.all.js" type="text/javascript"></script>
+    <script language="javascript" src="/js/hoopla/jquery.scrollTo-1.4.2.js" type="text/javascript"></script>
+    <script language="javascript" src="/js/hoopla/application.js" type="text/javascript"></script>
+    <script language="javascript" src="/js/hoopla/form_behavior.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/js/hoopla/ZeroClipboard.js"></script>
+    <script type="text/javascript" src="/js/hoopla/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/js/hoopla/jquery.stickem.js"></script>
+    <script>
+    	$(document).ready(function() {
+	    	$(".vimeo").colorbox({iframe:true, innerWidth:500, innerHeight:409});
+    	});
+	</script>
+<!--GOOGLE ANALYTICS--Hoopla and TIF accounts-->  
 <script type="text/javascript">
 var _gaq = _gaq || [];
   _gaq.push(
@@ -42,28 +78,6 @@ var _gaq = _gaq || [];
 })();
 </script>
 
-<!-- Start of Async HubSpot Analytics Code -->
-    <script type="text/javascript">
-        (function(d,s,i,r) {
-            if (d.getElementById(i)){return;}
-            var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
-            n.id=i;n.src='//js.hubspot.com/analytics/'+(Math.ceil(new Date()/r)*r)+'/45634.js';
-            e.parentNode.insertBefore(n, e);
-        })(document,"script","hs-analytics",300000);
-    </script>
-<!-- End of Async HubSpot Analytics Code -->
-
-
-
-<!-- Start of Leadlander Code -->
-<script type="text/javascript" language="javascript">llactid=23531</script> 
-<script type="text/javascript" language="javascript" src="http://t6.trackalyzer.com/trackalyze.js"></script> 
-
-<script type="text/javascript">llfrmid=23531</script> 
-<script type="text/javascript" src="http://formalyzer.com/formalyze_init.js"></script> 
-<script type="text/javascript" src="http://formalyzer.com/formalyze_call.js"></script> 
-
-<!-- End of Leadlander code -->
 
 <script type="text/javascript">
   var __lc = {};
@@ -75,7 +89,6 @@ var _gaq = _gaq || [];
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
   })();
 </script>
-
 
 </head> 
 <body><div class="content c6">
@@ -184,7 +197,7 @@ You can use the Site without providing any personal information. If you choose n
 Access To Personal Information</p>
 <br>
 <p>
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or by emailing our Customer Support at <a href="mailto:support@hoopla">support@hoopla.net</a> or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request to access within 30 days.</p>
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or by emailing our Customer Support at <a href="mailto:support@hoopla.net">support@hoopla.net</a> or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request to access within 30 days.</p>
 <br>
 <p>
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
@@ -210,14 +223,14 @@ Your access to and use of this Site and the Service is subject to the Hoopla Ter
 
 <h5>Questions</h5><h5>
 <br>
-<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Site, please contact us at <a href="#" name="id.aa272b9e4abc"></a><a href="mailto:privacy@hoopla.net.">privacy@hoopla.net</a> or via postal mail at 84 W. Santa Clara Street,
+<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Site, please contact us at <a href="#" name="id.aa272b9e4abc"></a><a href="mailto:privacy@hoopla.net">privacy@hoopla.net</a> or via postal mail at 84 W. Santa Clara Street,
 Suite 750, San Jose, CA 95113</p>
 
-<p class="c3 c5"><span class="c2"><a href="mailto:privacy@hoopla.net."></a></span></p>
+<p class="c3 c5"><span class="c2"><a href="mailto:privacy@hoopla.net"></a></span></p>
 
-<p class="c3 c5"><span class="c1"> <a href="index.php">&lt; Back To The Fun!!</a></span></p>
+<p class="c3 c5"><span class="c1"> <a href="/">&lt; Back To The Fun!!</a></span></p>
 
 <div><p class="c3 c7"><span class="c4"></span></p></div>
         </h5></div>
 
-</body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
