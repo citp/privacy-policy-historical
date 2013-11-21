@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylelife.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531011032id_/http%3A//www.stylelife.com/phase2xl/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylelife.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121160705id_/http%3A//www.stylelife.com/phase2xl/about/privacy) for the most accurate reproduction.*
 
 # Stylelife - The Online Academy for Attraction - Arts and Sciences
 
