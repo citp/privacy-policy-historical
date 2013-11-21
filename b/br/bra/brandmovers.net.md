@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the brandmovers.net privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607071057id_/http%3A//www.brandmovers.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandmovers.net privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121200159id_/http%3A//www.brandmovers.com/legal/privacy) for the most accurate reproduction.*
 
 # Digital Engagement | Brandmovers | The Engagement Marketers.
 
-Last updated November 26, 2012.
+**Last updated November 26, 2012.**
 
 Brandmovers, Inc. ("Brandmovers") and its affiliates (Brandmovers India, Brandmovers UK, Brandsurance, Inc.) are committed to protecting users' privacy, and we want to keep you informed of our privacy practices through Brandmovers' Website (the "Website"). This privacy policy (the "Policy") applies to those Brandmovers and affiliate websites that link to this Policy. We encourage you to read this Policy to ensure you understand our privacy practices. Brandmovers reserves the right to update this Policy at any time without notice to you.
 
-Some of our clients provide Brandmovers and its affiliates with personally identifiable information about their customers so we can perform various services such as digital promotions, marketing campaigns, promotion and/or marketing campaign analysis, and other services. Additionally, as part of our services, we may collect information about user interaction with client web sites and we may provide that information, along with any of our other services, to the client, whether in raw form, or in the form of a case study or data analysis. All of this information belongs to the client and, as their customer, you should review the privacy policies of the sites you visit. Brandmovers and its affiliates make no other use of this personally identifiable information, and only collect and use it on behalf of a client. 
+Some of our clients provide Brandmovers and its affiliates with personally identifiable information about their customers so we can perform various services such as digital promotions, marketing campaigns, promotion and/or marketing campaign analysis, and other services. Additionally, as part of our services, we may collect information about user interaction with client web sites and we may provide that information, along with any of our other services, to the client, whether in raw form, or in the form of a case study or data analysis. All of this information belongs to the client and, as their customer, you should review the privacy policies of the sites you visit. Brandmovers and its affiliates make no other use of this personally identifiable information, and only collect and use it on behalf of a client.
 
 Please note that whenever it is appropriate to do so, Brandmovers encourages any such clients collecting personally identifiable information to, 1. make you aware that you are providing personally identifiable information to that client; 2. disclose that the provision of such information is subject to the terms of that particular client's privacy policy; and, 3. make that privacy policy available by providing an easily visible link directly to it.
 
@@ -32,10 +32,10 @@ Brandmovers and its affiliates may update or change this Policy at any time and 
 
 We hope you find this information helpful. Our goal is to present all the information in a format that is as readable as possible. Whatever you decide to do, we want you to be completely informed about how we use any collected information.
 
-Should you have any additional questions, please send an e-mail to [amitchell@brandmovers.com](mailto:amitchell@brandmovers.com) or write us at:
+Should you have any additional questions, please send an e-mail to amitchell@brandmovers.com or write us at:
 
 Privacy Coordinator  
 Brandmovers  
 1575 Northside Dr. NW  
 Bldg. 200, Ste. 200  
-Atlanta, GA 303018 
+Atlanta, GA 303018
