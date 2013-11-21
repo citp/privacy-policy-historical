@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fightlinker.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504100937id_/http%3A//fightlinker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightlinker.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121111012id_/http%3A//fightlinker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fightlinker.comFightlinker.com
+# Privacy Policy - Fightlinker.com | RM Sports
 
 ## Information that is gathered from visitors
 
