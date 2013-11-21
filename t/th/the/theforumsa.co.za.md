@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the theforumsa.co.za privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521215836id_/http%3A//www.theforumsa.co.za/wiki/index.php%3Ftitle%3DThe_Forum_SA_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theforumsa.co.za privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121060640id_/http%3A//www.theforumsa.co.za/wiki/index.php%3Ftitle%3DThe_Forum_SA_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # The Forum SA Wiki:Privacy policy - The Forum SA
 
-### From The Forum SA
-
 Profile information is managed by the vBulletin forum software installed on this site. Details of The Forum SA's privacy policy is set out below. 
-
-#### Contents
 
 ##  Summary 
 
