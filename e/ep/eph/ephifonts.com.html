@@ -1,0 +1,741 @@
+<!--The following is the downloaded HTML source of the ephifonts.com privacy policy that was archived on 2013-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131121022502id_/http%3A//www.ephifonts.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	
+	<title>Privacy Policy | Free Helvetica, Gotham and Futura Font Downloads Online</title>
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.ephifonts.com/xmlrpc.php">
+	
+	<!-- IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+		<script src="http://www.ephifonts.com/wp-content/themes/ifeature/inc/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+		<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script>
+	jQuery(document).ready( function($) {
+
+    $(".wpv_voting").click( function(){
+									
+        var currentobj = $(this);
+        var wpv_votewidget = currentobj.parents(".wpv_votebtn").parents(".wpv_votebtncon").parents(".wpv_votewidget");
+        var wpv_votebtn = currentobj.parents(".wpv_votebtn");
+        var pID = currentobj.children(".postID").val();
+        var uID = currentobj.children(".userID").val();
+        var aID = currentobj.children(".authorID").val();
+
+        /*Display loading image*/
+          wpv_votewidget.children(".wpv_votecount").children(".loadingimage").css("visibility", "visible");
+          wpv_votewidget.children(".wpv_votecount").children(".loadingimage").css("display", "inline-block");
+        
+        /*Do voting*/
+        $.post(
+            wpvAjax.ajaxurl,
+            {
+              action: 'wpv-submit',
+              postID: pID,
+              userID: uID,
+              authorID: aID,
+              wpv_nonce: wpvAjax.wpv_nonce
+            },
+            function(response){
+                currentobj.css("display", "none");
+                wpv_votebtn.children(".wpv_voted_icon").css("display", "inline-block");
+                wpv_votebtn.children(".wpv_votebtn_txt").css("display", "inline-block");
+                wpv_votewidget.children(".wpv_votecount").children(".loadingimage").css("visibility", "hidden");
+                wpv_votewidget.children(".wpv_votecount").children(".loadingimage").remove();
+                wpv_votewidget.children(".wpv_votecount").children(".wpv_vcount").html(response+' ');
+                currentobj.remove();
+                
+                /*Do updating widget*/
+                $.post(
+                    wpvAjax.ajaxurl,
+                    {
+                      action: 'wpv-top-widget',
+                      postID: pID,
+                      userID: uID,
+                      authorID: aID,
+                      wpv_nonce: wpvAjax.wpv_nonce
+                    },
+                    function(response){
+                        if($(".widget_wpv_top_voted_widget"))
+                            $(".widget_wpv_top_voted_widget").children(".wpvtopvoted").html(response);
+                    }
+                );
+            }
+        );
+        return false;
+    });
+});
+	</script>
+		<link rel="alternate" type="application/rss+xml" title="Free Helvetica, Gotham and Futura Font Downloads Online » Feed" href="http://www.ephifonts.com/feed">
+<link rel="alternate" type="application/rss+xml" title="Free Helvetica, Gotham and Futura Font Downloads Online » Comments Feed" href="http://www.ephifonts.com/comments/feed">
+		
+		<link rel="shortcut icon" href="http://www.ephifonts.com/wp-content/uploads/2013/09/favicon.png" type="image/x-icon">
+  <link rel="alternate" type="application/rss+xml" title="Free Helvetica, Gotham and Futura Font Downloads Online » Privacy Policy Comments Feed" href="http://www.ephifonts.com/privacy/feed">
+<link rel="stylesheet" id="authorbox_css-css" href="http://www.ephifonts.com/wp-content/plugins/author-box-with-different-description/Author_Box_disp.css?ver=3.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="cptchStylesheet-css" href="http://www.ephifonts.com/wp-content/plugins/captcha/css/style.css?ver=3.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-style-css" href="http://www.ephifonts.com/wp-content/themes/ifeature/cyberchimps/lib/bootstrap/css/bootstrap.min.css?ver=2.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-responsive-style-css" href="http://www.ephifonts.com/wp-content/themes/ifeature/cyberchimps/lib/bootstrap/css/bootstrap-responsive.min.css?ver=2.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="cyberchimps_responsive-css" href="http://www.ephifonts.com/wp-content/themes/ifeature/cyberchimps/lib/bootstrap/css/cyberchimps-responsive.min.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="core-style-css" href="http://www.ephifonts.com/wp-content/themes/ifeature/cyberchimps/lib/css/core.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="http://www.ephifonts.com/wp-content/themes/ifeature/style.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="elements_style-css" href="http://www.ephifonts.com/wp-content/themes/ifeature/elements/lib/css/elements.css?ver=3.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="http://www.ephifonts.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<script type="text/javascript" src="http://www.ephifonts.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
+<script type="text/javascript" src="http://www.ephifonts.com/wp-content/themes/ifeature/cyberchimps/lib/js/gallery-lightbox.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.ephifonts.com/wp-content/themes/ifeature/cyberchimps/lib/js/jquery.slimbox.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.ephifonts.com/wp-content/themes/ifeature/cyberchimps/lib/js/jquery.jcarousel.min.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.ephifonts.com/wp-content/themes/ifeature/cyberchimps/lib/js/jquery.mobile.custom.min.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.ephifonts.com/wp-content/themes/ifeature/cyberchimps/lib/js/swipe-call.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.ephifonts.com/wp-includes/js/comment-reply.min.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.ephifonts.com/wp-content/themes/ifeature/elements/lib/js/elements.js?ver=3.5.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ephifonts.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ephifonts.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 3.5.1">
+
+<!-- Simple Social Buttons style sheet -->
+<style type="text/css">
+   div.simplesocialbuttons { height: 20px; margin: 10px auto 10px 0; text-align: center; clear: left; }
+   div.simplesocialbutton { float: left; text-align: center;}
+</style>
+<!-- End of Simple Social Buttons -->
+
+<style type="text/css">.ie8 .container {max-width: 1020px;width:auto;}</style>
+<!-- All in One SEO Pack 2.0.3 by Michael Torbert of Semper Fi Web Design[535,558] -->
+<link rel="canonical" href="http://www.ephifonts.com/privacy">
+<!-- /all in one seo pack -->
+  
+  <style type="text/css" media="all">
+	  body {
+    	      	font-size: 14px;     
+    	      	font-family: Arial, Helvetica, sans-serif;     
+    	      	font-weight: normal;     
+    	  }
+        .container {
+        max-width: 1020px;
+      }
+    </style>
+<script type="text/javascript">  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43806278-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></head>
+
+<body class="page page-id-18 page-template-default">
+
+<!-- ---------------- Top Header ------------------- -->
+		<div class="container-full-width" id="top_header">
+    	<div class="container">
+    		<div class="container-fluid">
+	      	<div class="row-fluid">
+		      	<div class="span6">
+		        	<div class="top-head-description">
+		        		Free Helvetica, Gotham and Futura Font Downloads Online		          </div>
+		        </div>
+		        <div class="top-head-social span6">
+		        		
+	<div id="social">
+		<div class="icons">
+			<a href="http://www.twitter.com/ephifonts" target="_blank"><img src="http://www.ephifonts.com/wp-content/themes/ifeature/cyberchimps/lib/images/social/legacy/twitter.png" alt="Twitter"></a><a href="https://www.facebook.com/pages/Ephifontscom/657293587614803" target="_blank"><img src="http://www.ephifonts.com/wp-content/themes/ifeature/cyberchimps/lib/images/social/legacy/facebook.png" alt="Facebook"></a><a href="https://plus.google.com/b/113943379718973980093/113943379718973980093/about" target="_blank"><img src="http://www.ephifonts.com/wp-content/themes/ifeature/cyberchimps/lib/images/social/legacy/gplus.png" alt="Google"></a>		</div>
+	</div>
+	
+		        </div>
+	        </div>
+      	</div>
+      </div>
+    </div>
+
+<!-- ---------------- Header --------------------- -->
+
+<div class="container-full-width">
+	
+	<div class="container">
+		
+				
+			<div class="container-fluid">	
+				
+					<header id="cc-header" class="row-fluid">
+		<div class="span7">
+					<div id="logo">
+			<a href="http://www.ephifonts.com" title="Free Helvetica, Gotham and Futura Font Downloads Online"><img src="http://www.ephifonts.com/wp-content/uploads/2013/09/ephifontslogo.png" alt="logo"></a>
+		</div>
+			</div>	
+	</header>
+			
+			</div><!-- container fluid -->
+	
+	</div><!-- container -->
+
+</div><!-- container full width -->
+	
+
+<!-- ---------------- Menu ----------------------- -->
+
+<div class="container-full-width" id="main_navigation">
+	<div class="container">
+		<div class="container-fluid">
+			<nav id="navigation" role="navigation">
+		      <div class="main-navigation navbar navbar-inverse">
+		        <div class="navbar-inner">
+		        	<div class="container">
+		          			  					<div class="nav-collapse collapse">
+		            		          		<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav"><li id="menu-item-30" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown menu-item-30" data-dropdown="dropdown"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts" class="dropdown-toggle">Download Free Helvetica Fonts <b class="caret"></b> </a>
+<ul class="dropdown-menu">
+	<li id="menu-item-504" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-504"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica">Helvetica</a></li>
+	<li id="menu-item-584" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-584"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-abbreviations">Helvetica Abbreviations</a>
+	<ul>
+		<li id="menu-item-376" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-376"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-bq-black">Helvetica BQ Black</a></li>
+		<li id="menu-item-382" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-382"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-bq-bold">Helvetica BQ Bold</a></li>
+		<li id="menu-item-390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-390"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-bq-light">Helvetica BQ Light</a></li>
+		<li id="menu-item-403" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-403"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-bq-roman">Helvetica BQ Roman</a></li>
+		<li id="menu-item-512" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-512"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-ce">Helvetica CE</a></li>
+		<li id="menu-item-478" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-478"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-con-bq-bold">Helvetica Con BQ Bold</a></li>
+		<li id="menu-item-479" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-479"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-con-bq-light">Helvetica Con BQ Light</a></li>
+		<li id="menu-item-431" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-431"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-conth">Helvetica Conth</a></li>
+		<li id="menu-item-424" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-424"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-cyr-bold">Helvetica Cyr Bold</a></li>
+		<li id="menu-item-621" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-621"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-fb">Helvetica FB</a></li>
+		<li id="menu-item-632" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-632"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-fe">Helvetica FE</a></li>
+	</ul>
+</li>
+	<li id="menu-item-31" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-31"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-black">Helvetica Black</a>
+	<ul>
+		<li id="menu-item-32" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-black-oblique">Helvetica Black Oblique</a></li>
+	</ul>
+</li>
+	<li id="menu-item-33" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-33"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-bold">Helvetica Bold</a>
+	<ul>
+		<li id="menu-item-34" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-bold-oblique">Helvetica Bold Oblique</a></li>
+	</ul>
+</li>
+	<li id="menu-item-35" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-compressed">Helvetica Compressed</a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-36"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-condensed">Helvetica Condensed</a>
+	<ul>
+		<li id="menu-item-37" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-condensed-black">Helvetica Condensed Black</a></li>
+		<li id="menu-item-38" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-condensed-black-oblique">Helvetica Condensed Black Oblique</a></li>
+		<li id="menu-item-39" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-39"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-condensed-bold">Helvetica Condensed Bold</a></li>
+		<li id="menu-item-40" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-condensed-bold-oblique">Helvetica Condensed Bold Oblique</a></li>
+		<li id="menu-item-43" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-43"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-condensed-light">Helvetica Condensed Light</a></li>
+		<li id="menu-item-41" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-condensed-light-oblique">Helvetica Condensed Light Oblique</a></li>
+		<li id="menu-item-42" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-42"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-condensed-oblique">Helvetica Condensed Oblique</a></li>
+	</ul>
+</li>
+	<li id="menu-item-521" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-521"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-diagonal">Helvetica Diagonal</a></li>
+	<li id="menu-item-447" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-447"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-extended">Helvetica Extended</a></li>
+	<li id="menu-item-44" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-extra-compressed">Helvetica Extra Compressed</a></li>
+	<li id="menu-item-528" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-528"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-fraction">Helvetica Fraction</a>
+	<ul>
+		<li id="menu-item-605" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-605"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-fraction-lt-std">Helvetica Fraction LT Std</a></li>
+	</ul>
+</li>
+	<li id="menu-item-365" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-365"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-inserat-roman">Helvetica Inserat Roman</a></li>
+	<li id="menu-item-47" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-47"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-light">Helvetica Light</a>
+	<ul>
+		<li id="menu-item-48" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-light-oblique">Helvetica Light Oblique</a></li>
+	</ul>
+</li>
+	<li id="menu-item-612" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-612"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-lt-std">Helvetica LT Std</a></li>
+	<li id="menu-item-539" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-539"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-narrow">Helvetica Narrow</a></li>
+	<li id="menu-item-52" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-52"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue">Helvetica Neue</a>
+	<ul>
+		<li id="menu-item-53" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-bold">Helvetica Neue Bold</a></li>
+		<li id="menu-item-547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-547"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-condensed">Helvetica Neue Condensed</a></li>
+		<li id="menu-item-353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-353"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-condensed-black">Helvetica Neue Condensed Black</a></li>
+		<li id="menu-item-346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-346"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-condensed-bold">Helvetica Neue Condensed Bold</a></li>
+		<li id="menu-item-563" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-563"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-condensed-oblique">Helvetica Neue Condensed Oblique</a></li>
+		<li id="menu-item-689" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-689"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-extended">Helvetica Neue Extended</a></li>
+		<li id="menu-item-704" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-704"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-heavy">Helvetica Neue Heavy</a></li>
+		<li id="menu-item-720" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-720"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-italic">Helvetica Neue Italic</a></li>
+		<li id="menu-item-337" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-337"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-light">Helvetica Neue Light</a></li>
+		<li id="menu-item-645" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-645"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-light-condensed">Helvetica Neue Light Condensed</a></li>
+		<li id="menu-item-732" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-732"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-light-condensed-oblique">Helvetica Neue Light Condensed Oblique</a></li>
+		<li id="menu-item-657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-657"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-lt">Helvetica Neue LT</a></li>
+		<li id="menu-item-413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-413"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-lt-std">Helvetica Neue LT Std</a></li>
+		<li id="menu-item-741" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-741"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-thin">Helvetica Neue Thin</a></li>
+		<li id="menu-item-573" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-573"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-neue-ultra-light">Helvetica Neue Ultra Light</a></li>
+	</ul>
+</li>
+	<li id="menu-item-90" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-90"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-normal">Helvetica Normal</a></li>
+	<li id="menu-item-49" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-oblique">Helvetica Oblique</a></li>
+	<li id="menu-item-585" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-585"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-rounded">Helvetica Rounded</a>
+	<ul>
+		<li id="menu-item-666" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-666"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-rounded-lt">Helvetica Rounded LT</a></li>
+		<li id="menu-item-678" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-678"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-rounded-lt-std">Helvetica Rounded LT Std</a></li>
+	</ul>
+</li>
+	<li id="menu-item-469" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-469"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-two">Helvetica Two</a></li>
+	<li id="menu-item-51" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-51"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-ultra-compressed">Helvetica Ultra Compressed</a></li>
+	<li id="menu-item-596" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-596"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/helvetica-world">Helvetica World</a></li>
+	<li id="menu-item-697" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-697"><a href="http://www.ephifonts.com/free-fonts/download-free-helvetica-fonts/pali-helvetica">Pali Helvetica</a></li>
+</ul>
+</li>
+<li id="menu-item-1232" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown menu-item-1232" data-dropdown="dropdown"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts" class="dropdown-toggle">Download Free Futura Fonts <b class="caret"></b> </a>
+<ul class="dropdown-menu">
+	<li id="menu-item-1233" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-1233"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt">Futura LT</a>
+	<ul>
+		<li id="menu-item-1271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1271"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-bold">Futura LT Bold</a></li>
+		<li id="menu-item-1414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1414"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-bold-oblique">Futura LT Bold Oblique</a></li>
+		<li id="menu-item-1409" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1409"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-book">Futura LT Book</a></li>
+		<li id="menu-item-1492" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1492"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-book-oblique">Futura LT Book Oblique</a></li>
+		<li id="menu-item-1305" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1305"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-condensed">Futura LT Condensed</a></li>
+		<li id="menu-item-1437" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1437"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-condensed-bold">Futura LT&nbsp;Condensed Bold</a></li>
+		<li id="menu-item-1540" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1540"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-condensed-bold-oblique">Futura LT&nbsp;Condensed Bold Oblique</a></li>
+		<li id="menu-item-1468" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1468"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-condensed-extra-bold">Futura LT Condensed Extra Bold</a></li>
+		<li id="menu-item-1562" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1562"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-condensed-extra-bold-oblique">Futura LT Condensed Extra Bold Oblique</a></li>
+		<li id="menu-item-1429" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1429"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-condensed-light">Futura LT Condensed Light</a></li>
+		<li id="menu-item-1516" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1516"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-condensed-light-oblique">Futura LT Condensed Light Oblique</a></li>
+		<li id="menu-item-1531" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1531"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-condensed-oblique">Futura LT Condensed Oblique</a></li>
+		<li id="menu-item-1373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1373"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-extra-bold">Futura LT Extra Bold</a></li>
+		<li id="menu-item-1509" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1509"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-extra-bold-oblique">Futura LT Extra Bold Oblique</a></li>
+		<li id="menu-item-1396" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1396"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-heavy">Futura LT Heavy</a></li>
+		<li id="menu-item-1485" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1485"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-heavy-oblique">Futura LT Heavy Oblique</a></li>
+		<li id="menu-item-1277" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1277"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-light">Futura LT Light</a></li>
+		<li id="menu-item-1453" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1453"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-light-oblique">Futura LT Light Oblique</a></li>
+		<li id="menu-item-1272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1272"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-lt-oblique">Futura LT Oblique</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1631" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1631"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-poster-light">Futura Poster Light</a></li>
+	<li id="menu-item-1590" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-1590"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-sallow">Futura Sallow</a>
+	<ul>
+		<li id="menu-item-1607" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1607"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futura-sallow-wide">Futura Sallow Wide</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1615"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futurex-apocalypse">Futurex Apocalypse</a></li>
+	<li id="menu-item-1658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1658"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futurex-bob">Futurex Bob</a></li>
+	<li id="menu-item-1639" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1639"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futurex-voyager">Futurex Voyager</a></li>
+	<li id="menu-item-1581" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1581"><a href="http://www.ephifonts.com/free-fonts/download-free-futura-fonts/futurist-stencil">Futurist Stencil</a></li>
+</ul>
+</li>
+<li id="menu-item-752" class="menu-item menu-item-type-taxonomy menu-item-object-category dropdown menu-item-752" data-dropdown="dropdown"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts" class="dropdown-toggle">Download Free Gotham Fonts <b class="caret"></b> </a>
+<ul class="dropdown-menu">
+	<li id="menu-item-753" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-753"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-black">Gotham Black</a>
+	<ul>
+		<li id="menu-item-763" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-763"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-black-italic">Gotham Black Italic</a></li>
+	</ul>
+</li>
+	<li id="menu-item-771" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-771"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-bold">Gotham Bold</a>
+	<ul>
+		<li id="menu-item-780" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-780"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-bold-italic">Gotham Bold Italic</a></li>
+	</ul>
+</li>
+	<li id="menu-item-789" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-789"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-book">Gotham Book</a>
+	<ul>
+		<li id="menu-item-818" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-818"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-book-italic">Gotham Book Italic</a></li>
+	</ul>
+</li>
+	<li id="menu-item-897" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-897"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-extra-light">Gotham Extra Light</a>
+	<ul>
+		<li id="menu-item-905" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-905"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-extra-light-italic">Gotham Extra Light Italic</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1173" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-1173"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-extra-narrow">Gotham Extra Narrow</a>
+	<ul>
+		<li id="menu-item-1174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1174"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-extra-narrow-bold">Gotham Extra Narrow Bold</a></li>
+		<li id="menu-item-1182" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1182"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-extra-narrow-bold-italic">Gotham Extra Narrow Bold Italic</a></li>
+		<li id="menu-item-1212" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1212"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-extra-narrow-book">Gotham Extra Narrow Book</a></li>
+		<li id="menu-item-1240" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1240"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-extra-narrow-book-italic">Gotham Extra Narrow Book Italic</a></li>
+		<li id="menu-item-1188" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1188"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-extra-narrow-light">Gotham Extra Narrow Light</a></li>
+		<li id="menu-item-1195" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1195"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-extra-narrow-light-italic">Gotham Extra Narrow Light Italic</a></li>
+		<li id="menu-item-1241" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1241"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-extra-narrow-medium">Gotham Extra Narrow Medium</a></li>
+		<li id="menu-item-1242" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1242"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-extra-narrow-medium-italic">Gotham Extra Narrow Medium Italic</a></li>
+	</ul>
+</li>
+	<li id="menu-item-828" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-828"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-light">Gotham Light</a>
+	<ul>
+		<li id="menu-item-844" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-844"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-light-italic">Gotham Light Italic</a></li>
+	</ul>
+</li>
+	<li id="menu-item-854" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-854"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-medium">Gotham Medium</a>
+	<ul>
+		<li id="menu-item-861" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-861"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-medium-italic">Gotham Medium Italic</a></li>
+	</ul>
+</li>
+	<li id="menu-item-912" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-912"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow">Gotham Narrow</a>
+	<ul>
+		<li id="menu-item-913" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-913"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-black">Gotham Narrow Black</a></li>
+		<li id="menu-item-920" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-920"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-black-italic">Gotham Narrow Black Italic</a></li>
+		<li id="menu-item-926" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-926"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-bold">Gotham Narrow Bold</a></li>
+		<li id="menu-item-940" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-940"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-bold-italic">Gotham Narrow Bold Italic</a></li>
+		<li id="menu-item-945" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-945"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-book">Gotham&nbsp;Narrow&nbsp;Book</a></li>
+		<li id="menu-item-956" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-956"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-book-italic">Gotham&nbsp;Narrow&nbsp;Book Italic</a></li>
+		<li id="menu-item-1059" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1059"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-extra-light">Gotham&nbsp;Narrow&nbsp;Extra Light</a></li>
+		<li id="menu-item-1068" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1068"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-extra-light-italic">Gotham&nbsp;Narrow&nbsp;Extra Light Italic</a></li>
+		<li id="menu-item-963" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-963"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-light">Gotham&nbsp;Narrow&nbsp;Light</a></li>
+		<li id="menu-item-964" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-964"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-light-italic">Gotham&nbsp;Narrow&nbsp;Light Italic</a></li>
+		<li id="menu-item-970" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-970"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-medium">Gotham&nbsp;Narrow&nbsp;Medium</a></li>
+		<li id="menu-item-976" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-976"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-medium-italic">Gotham&nbsp;Narrow&nbsp;Medium Italic</a></li>
+		<li id="menu-item-990" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-990"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-thin">Gotham&nbsp;Narrow&nbsp;Thin</a></li>
+		<li id="menu-item-1028" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1028"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-thin-italic">Gotham&nbsp;Narrow&nbsp;Thin Italic</a></li>
+		<li id="menu-item-1035" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1035"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-ultra">Gotham&nbsp;Narrow&nbsp;Ultra</a></li>
+		<li id="menu-item-1045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-narrow-ultra-italic">Gotham&nbsp;Narrow&nbsp;Ultra Italic</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1095" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-1095"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-rounded">Gotham Rounded</a>
+	<ul>
+		<li id="menu-item-1096" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1096"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-rounded-bold">Gotham Rounded Bold</a></li>
+		<li id="menu-item-1103" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1103"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-rounded-bold-italic">Gotham Rounded Bold Italic</a></li>
+		<li id="menu-item-1111" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1111"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-rounded-book">Gotham Rounded Book</a></li>
+		<li id="menu-item-1116" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1116"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-rounded-book-italic">Gotham Rounded Book Italic</a></li>
+		<li id="menu-item-1126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1126"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-rounded-light">Gotham Rounded Light</a></li>
+		<li id="menu-item-1135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1135"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-rounded-light-italic">Gotham Rounded Light Italic</a></li>
+		<li id="menu-item-1142" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1142"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-rounded-medium">Gotham Rounded Medium</a></li>
+		<li id="menu-item-1156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1156"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-rounded-medium-italic">Gotham Rounded Medium Italic</a></li>
+	</ul>
+</li>
+	<li id="menu-item-870" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-870"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-thin">Gotham Thin</a>
+	<ul>
+		<li id="menu-item-881" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-881"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-thin-italic">Gotham Thin Italic</a></li>
+	</ul>
+</li>
+	<li id="menu-item-882" class="menu-item menu-item-type-taxonomy menu-item-object-category grandchild menu-item-882"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-ultra">Gotham Ultra</a>
+	<ul>
+		<li id="menu-item-984" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-984"><a href="http://www.ephifonts.com/free-fonts/download-free-gotham-fonts/gotham-ultra-italic">Gotham Ultra Italic</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1229" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1229"><a href="http://www.ephifonts.com/free-fonts/blog">Blog</a></li>
+</ul></div>					
+							      
+		      					</div><!-- collapse -->
+					
+		            <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+		            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+		              <span class="icon-bar"></span>
+		              <span class="icon-bar"></span>
+		              <span class="icon-bar"></span>
+		            </a>
+		      		          </div><!-- container -->
+		        </div><!-- .navbar-inner .row-fluid -->
+		      </div><!-- main-navigation navbar -->
+			</nav><!-- #navigation -->
+		</div><!-- container-fluid -->
+	</div><!-- container -->
+</div><!-- container full width -->
+	
+	
+
+<div style="margin:-20px auto 6px; width: 978px;">
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-7297392655963165";
+/* EphiFonts Top Header */
+google_ad_slot = "1890856139";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
+
+					<div class="container-full-width" id="page_section_section">
+						<div class="container">	
+							<div class="container-fluid">
+								<div id="container" class="row-fluid">
+	
+		
+	<div id="content" class=" span9 content-sidebar-right">
+		
+				
+		
+			
+<article id="post-18" class="post-18 page type-page status-publish hentry">
+	
+	<header class="entry-header">
+		
+		<h2 class="entry-title">Privacy Policy</h2>	</header><!-- .entry-header -->
+  
+			<div class="entry-summary">
+						<div id="google-privacy-policy"><p>Privacy Policy for <b>http://www.ephifonts.com</b></p>
+
+<p>The privacy of our visitors to <b>http://www.ephifonts.com</b> is important to us.</p>
+
+<p>At <b>http://www.ephifonts.com</b>, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit <b>http://www.ephifonts.com</b>, and how we safeguard your information.  We never sell your personal information to third parties.</p>
+
+<p><strong>Log Files</strong>
+As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.</p>
+
+<p><strong>Cookies and Web Beacons</strong>
+We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.</p>
+
+<p>We also use third party advertisements on <b>http://www.ephifonts.com</b> to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).</p>
+
+<p><strong>DoubleClick DART cookies</strong>
+We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests ("interest based targeting").  The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey).  DART uses "non personally identifiable information".  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.  You can opt-out of this ad serving on all sites using this advertising by visiting <a href="http://www.doubleclick.com/privacy/dart_adserving.aspx">http://www.doubleclick.com/privacy/dart_adserving.aspx </a></p>
+
+<p>You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.</p>
+
+<p>Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.</p>
+
+		
+
+		</div>
+
+					</div><!-- .entry-summary -->
+	
+		
+			
+</article><!-- #post-18 -->
+			
+
+	<div id="comments" class="comments-area">
+
+	
+	
+	
+									<div id="respond">
+				<h3 id="reply-title">Leave a comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/privacy#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://www.ephifonts.com/wp-comments-post.php" method="post" id="commentform">
+																			<p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required="true"></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-required="true"></p>
+<p class="comment-form-url"><label for="url">Website</label><input id="url" name="url" type="text" value="" size="30"></p>
+<p class="cptch_block"><label for="cptch_input">To prove you're human, please answer this question:<span class="required"> *</span></label><br>		<input type="hidden" name="cptch_result" value="K5g="><input type="hidden" value="Version: 2.4">
+		<input id="cptch_input" type="text" autocomplete="off" name="cptch_number" value="" maxlength="2" size="2" aria-required="true" style="width:20px;margin-bottom:0;display:inline;font-size: 12px;width: 30px;"> + eight =  twelve	</p>												<p class="comment-form-comment"><label for="comment">Comment</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:  <code>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Post Comment">
+							<input type="hidden" name="comment_post_ID" value="18" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+						</p>
+											</form>
+							</div><!-- #respond -->
+						
+</div><!-- #comments .comments-area -->
+			
+				
+	</div><!-- #content -->
+	
+	
+<div id="secondary" class="widget-area span3">
+	
+		
+	<div id="sidebar">
+	
+<!-- Quick Adsense Wordpress Plugin: http://quicksense.net/ -->
+<aside id="adswidget1-quick-adsense" class="widget-container �lambda_23">
+<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.ephifonts.com&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;font=arial&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.ephifonts.com" data-via="ephifonts" data-hashtags="FreeHelveticaFonts">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<div class="g-plusone" data-size="tall" data-annotation="inline" data-width="300" data-href="http://www.ephifonts.com"></div>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<br>
+<img src="http://www.ephifonts.com/wp-content/uploads/2013/09/donate-banner.jpg">
+<div style="margin:5px auto -50px; width: 150px;">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="UH5X5D4NE4CXY">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+</aside><aside id="popularitypostswidget-3" class="widget-container popularitypostswidget"><h3 class="widget-title">Popular Fonts</h3><ul> 
+ 	<li>
+			<span class="ppw-post-title"><a href="http://www.ephifonts.com/free-helvetica-font-helvetica-normal.html" title="Free Helvetica Font: Helvetica Normal" rel="">Free Helvetica Font: Helvetica Normal</a></span>
+			<span class="post-stats">
+			
+			<br>
+			
+			<span class="ppw-views">Views (36103) </span> | 			<span class="ppw-comments">Comments (0)</span> 
+			<span class="ppw-date"></span>
+			</span>
+				</li> 
+ 	<li>
+			<span class="ppw-post-title"><a href="http://www.ephifonts.com/free-helvetica-font-helvetica-neue-light.html" title="Free Helvetica Font: Helvetica Neue Light" rel="">Free Helvetica Font: Helvetica Neue Light</a></span>
+			<span class="post-stats">
+			
+			<br>
+			
+			<span class="ppw-views">Views (27637) </span> | 			<span class="ppw-comments">Comments (0)</span> 
+			<span class="ppw-date"></span>
+			</span>
+				</li> 
+ 	<li>
+			<span class="ppw-post-title"><a href="http://www.ephifonts.com/free-helvetica-font-helvetica-neue-condensed-bold.html" title="Free Helvetica Font: Helvetica Neue Condensed Bold" rel="">Free Helvetica Font: Helvetica Neue Condensed Bold</a></span>
+			<span class="post-stats">
+			
+			<br>
+			
+			<span class="ppw-views">Views (17618) </span> | 			<span class="ppw-comments">Comments (0)</span> 
+			<span class="ppw-date"></span>
+			</span>
+				</li> 
+ 	<li>
+			<span class="ppw-post-title"><a href="http://www.ephifonts.com/free-helvetica-font-helvetica.html" title="Free Helvetica Font: Helvetica" rel="">Free Helvetica Font: Helvetica</a></span>
+			<span class="post-stats">
+			
+			<br>
+			
+			<span class="ppw-views">Views (16902) </span> | 			<span class="ppw-comments">Comments (0)</span> 
+			<span class="ppw-date"></span>
+			</span>
+				</li> 
+ 	<li>
+			<span class="ppw-post-title"><a href="http://www.ephifonts.com/free-helvetica-font-helvetica-neue.html" title="Free Helvetica Font: Helvetica Neue" rel="">Free Helvetica Font: Helvetica Neue</a></span>
+			<span class="post-stats">
+			
+			<br>
+			
+			<span class="ppw-views">Views (14786) </span> | 			<span class="ppw-comments">Comments (0)</span> 
+			<span class="ppw-date"></span>
+			</span>
+				</li> 
+ 	<li>
+			<span class="ppw-post-title"><a href="http://www.ephifonts.com/free-helvetica-font-helvetica-neue-ultra-light-complete.html" title="Free Helvetica Font: Helvetica Neue Ultra Light (Complete)" rel="">Free Helvetica Font: Helvetica Neue Ultra Light (Complete)</a></span>
+			<span class="post-stats">
+			
+			<br>
+			
+			<span class="ppw-views">Views (13156) </span> | 			<span class="ppw-comments">Comments (2)</span> 
+			<span class="ppw-date"></span>
+			</span>
+				</li> 
+ 	<li>
+			<span class="ppw-post-title"><a href="http://www.ephifonts.com/free-gotham-font-gotham-black.html" title="Free Gotham Font: Gotham Black" rel="">Free Gotham Font: Gotham Black</a></span>
+			<span class="post-stats">
+			
+			<br>
+			
+			<span class="ppw-views">Views (11833) </span> | 			<span class="ppw-comments">Comments (0)</span> 
+			<span class="ppw-date"></span>
+			</span>
+				</li> 
+ 	<li>
+			<span class="ppw-post-title"><a href="http://www.ephifonts.com/free-helvetica-font-helvetica-lt-std-complete.html" title="Free Helvetica Font: Helvetica LT Std (Complete)" rel="">Free Helvetica Font: Helvetica LT Std (Complete)</a></span>
+			<span class="post-stats">
+			
+			<br>
+			
+			<span class="ppw-views">Views (10969) </span> | 			<span class="ppw-comments">Comments (2)</span> 
+			<span class="ppw-date"></span>
+			</span>
+				</li> 
+ 	<li>
+			<span class="ppw-post-title"><a href="http://www.ephifonts.com/free-helvetica-font-helvetica-neue-bold.html" title="Free Helvetica Font: Helvetica Neue Bold" rel="">Free Helvetica Font: Helvetica Neue Bold</a></span>
+			<span class="post-stats">
+			
+			<br>
+			
+			<span class="ppw-views">Views (10016) </span> | 			<span class="ppw-comments">Comments (0)</span> 
+			<span class="ppw-date"></span>
+			</span>
+				</li> 
+ 	<li>
+			<span class="ppw-post-title"><a href="http://www.ephifonts.com/free-gotham-font-gotham-bold.html" title="Free Gotham Font: Gotham Bold" rel="">Free Gotham Font: Gotham Bold</a></span>
+			<span class="post-stats">
+			
+			<br>
+			
+			<span class="ppw-views">Views (8729) </span> | 			<span class="ppw-comments">Comments (0)</span> 
+			<span class="ppw-date"></span>
+			</span>
+				</li></ul></aside><iframe scrolling="no" frameborder="0" width="234" height="250" src="http://www.facebook.com/connect/connect.php?id=657293587614803&amp;connections=8&amp;stream=false&amp;header=false&amp;locale="></iframe>		<aside id="recent-posts-2" class="widget-container widget_recent_entries">		<h3 class="widget-title">Latest Posts</h3>		<ul>
+					<li>
+				<a href="http://www.ephifonts.com/futurex-bob.html" title="Futurex Bob">Futurex Bob</a>
+						</li>
+					<li>
+				<a href="http://www.ephifonts.com/how-to-add-illustrations-to-an-infograph-without-reducing-important-data.html" title="How to Add Illustrations to an Infograph Without Reducing Important Data">How to Add Illustrations to an Infograph Without Reducing Important Data</a>
+						</li>
+					<li>
+				<a href="http://www.ephifonts.com/futurex-voyager.html" title="Futurex Voyager">Futurex Voyager</a>
+						</li>
+					<li>
+				<a href="http://www.ephifonts.com/futura-poster-light.html" title="Futura Poster Light">Futura Poster Light</a>
+						</li>
+					<li>
+				<a href="http://www.ephifonts.com/how-to-design-a-great-banner-that-works.html" title="How to Design a Great Banner That Works">How to Design a Great Banner That Works</a>
+						</li>
+					<li>
+				<a href="http://www.ephifonts.com/futurex-apocalypse.html" title="Futurex Apocalypse">Futurex Apocalypse</a>
+						</li>
+					<li>
+				<a href="http://www.ephifonts.com/futura-sallow-wide.html" title="Futura Sallow Wide">Futura Sallow Wide</a>
+						</li>
+					<li>
+				<a href="http://www.ephifonts.com/web-typography-the-basic-outline.html" title="Web Typography: The Basic Outline">Web Typography: The Basic Outline</a>
+						</li>
+					<li>
+				<a href="http://www.ephifonts.com/futura-sallow.html" title="Futura Sallow">Futura Sallow</a>
+						</li>
+					<li>
+				<a href="http://www.ephifonts.com/futurist-stencil.html" title="Futurist Stencil">Futurist Stencil</a>
+						</li>
+				</ul>
+		</aside>	</div><!-- #sidebar -->
+	
+		
+</div><!-- #secondary .widget-area .span3 -->		
+</div><!-- #container .row-fluid-->
+							</div> 	<!-- .container-fluid-->
+						</div> 	<!-- .container -->
+					</div> 	<!-- .container-full-width -->
+				
+
+ 
+
+<div id="footer_widgets_wrapper" class="container-full-width">
+  <div id="footer_wrapper" class="container">
+    <div id="wrapper" class="container-fluid">
+	
+						
+			<div id="footer-widgets" class="row-fluid">
+			  <div id="footer-widget-container" class="span12">
+				  <div class="row-fluid">
+				  	
+				    <aside id="nav_menu-2" class="widget-container span3 widget_nav_menu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://www.ephifonts.com/about-us">About Us</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://www.ephifonts.com/contact-us">Contact Us</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-18 current_page_item menu-item-26"><a href="http://www.ephifonts.com/privacy">Privacy</a></li>
+<li id="menu-item-561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561"><a href="http://www.ephifonts.com/disclaimer">Disclaimer</a></li>
+</ul></div></aside>				  </div><!-- .row-fluid -->
+			  </div><!-- #footer-widget-container -->
+			</div><!-- #footer-widgets .row-fluid  -->
+			
+			
+		</div><!-- container fluid -->
+	</div><!-- container -->
+</div><!-- container full width -->
+
+	
+
+		
+			<div class="container-full-width" id="after_footer">
+		<div class="container">
+			<div class="container-fluid">
+				<footer class="site-footer row-fluid">
+					<div class="span6">
+						<div id="credit">
+															<a href="http://cyberchimps.com/" target="_blank"><img src="http://www.ephifonts.com/wp-content/themes/ifeature/cyberchimps/lib/images/achimps.png" alt="CyberChimps"></a>
+													</div>
+					</div>
+					
+					<!-- Adds the afterfooter copyright area -->
+					<div class="span6">
+											<div id="copyright">
+							2013 © EphiFonts.com. All Rights Reserved.						</div>
+					</div>
+				</footer><!-- row-fluid -->
+			</div> 	<!-- .container-fluid-->
+		</div> 	<!-- .container -->
+	</div> 	<!-- #after_footer -->
+		
+	
+
+<link rel="stylesheet" id="popularity-posts-widget-css" href="http://www.ephifonts.com/wp-content/plugins/popularity-posts-widget/style/ppw.css?ver=3.5.1" type="text/css" media="all">
+<script type="text/javascript" src="http://www.ephifonts.com/wp-content/themes/ifeature/cyberchimps/lib/bootstrap/js/bootstrap.min.js?ver=2.0.4"></script>
+
+
+</body></html>
