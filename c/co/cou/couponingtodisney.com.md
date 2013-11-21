@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the couponingtodisney.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120211942id_/http%3A//www.couponingtodisney.com/2010/02/17/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponingtodisney.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122002923id_/http%3A//www.couponingtodisney.com/2010/02/17/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Couponing to Disney
+
+[](http://www.facebook.com/share.php?u=http://www.couponingtodisney.com/privacy-policy/&t=Privacy%20Policy)
+
+By on February 17, 2010 at 4:55 pm
 
 The privacy of our visitors to Couponing to Disney is important to us.
 
