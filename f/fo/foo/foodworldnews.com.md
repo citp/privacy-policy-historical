@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodworldnews.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521221427id_/http%3A//www.foodworldnews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodworldnews.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121010230id_/http%3A//www.foodworldnews.com/privacypolicy) for the most accurate reproduction.*
 
 # Food World News
 
@@ -175,7 +175,7 @@ Further, if you use any of the Communities features and functions made available
 
 Food Biz
 
-[](https://web.archive.org/articles/3842/20130510/wrigley-pulls-caffeinated-gum-market-fda-express-concerns-relating-chilldren.htm)
+[](https://web.archive.org/articles/4658/20131119/walmart-workers-hold-organized-food-drive-for-worker-experiencing-unforeseen-hardships.htm)
 
 Food Tech
 
