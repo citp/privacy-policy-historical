@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the fender.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619141726id_/http%3A//www.fender.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fender.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121095440id_/http%3A//www.fender.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fender
+# Privacy Policy | Fender®
 
 Fender understands your concerns about privacy. So, we want you to understand what types of information we collect on this site and what may happen to that information.
 
 If you have questions or concerns regarding this Privacy Policy, you should contact us at:
+
+August 07, 2013: added disclosure regarding Fender’s use of Google AdWords Remarketing.
 
 Fender Musical Instruments Corporation and all of its U.S. and foreign subsidiaries and affiliates (“Fender” or “us” or “we”) take seriously the confidentiality of your personal information. The following Privacy Policy sets forth our information gathering and dissemination practices for Fender.
 
@@ -41,6 +43,10 @@ Web beacons are Internet tools, such as transparent images on a website or in e-
     3. Cookies
 
 Fender may use cookies to track the use of its website and to facilitate and enhance your experience. “Cookies” are small pieces of electronic data that are stored by your browser on your computer’s hard drive. The cookies enable Fender to facilitate access to different aspects of the website. For example, by showing when and how you and others visit its website, cookies help Fender to see which pages of the website are popular and which are not. Cookies can also help Fender to improve your enjoyment of this website, for example, by remembering your address or other personal information when you request information or services on the website. Most web browsers automatically accept cookies, but you can disable this function so that your browser will not accept cookies. Please be aware that disabling this function may impact your use and enjoyment of this website. 
+
+    4. Google AdWords Remarketing
+
+Fender use Google AdWords Remarketing to advertise Fender products across the Internet. AdWords Remarketing will display relevant ads tailored to you based on what parts of the Fender website you have viewed by placing a cookie on your machine. THIS COOKIE DOES NOT IDENTIFY YOU OR GIVE ACCESS TO YOUR COMPUTER. The cookie is used to say "This person visited this page, so show them ads relating to that page." AdWords Remarketing allows Fender to tailor our marketing to better suit your needs and only display ads that are relevant to you. How to Opt Out of Remarketing and Advertising: If you do not wish to participate in our AdWords Remarketing, you can opt out by visiting [Google's Ads Preferences Manager](http://google.com/ads/preferences/)
 
 
 
