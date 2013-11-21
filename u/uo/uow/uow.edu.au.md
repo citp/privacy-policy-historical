@@ -1,55 +1,95 @@
-> *The following text is extracted and transformed from the uow.edu.au privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625060923id_/http%3A//www.uow.edu.au/about/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uow.edu.au privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121045806id_/http%3A//www.uow.edu.au/about/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy Statement @ UOW
+# Privacy Statement - About the University @ UOW
 
-#### **What is Privacy?**
+###### What is Privacy? 
 
-According to [Privacy NSW,](http://www.lawlink.nsw.gov.au/Lawlink/privacynsw/ll_pnsw.nsf/pages/privacy_index) Privacy can mean the right to a sense of personal freedom, the right to be left alone and the right to have information about oneself handled in a fair and proper manner.
+###### privacy legislation 
 
-NSW Privacy legislation places specific obligations on the University when it collects, stores, uses and discloses an individual's personal or health information. The Privacy laws that apply to the University are the _Privacy and Personal Information Protection Act 1998_ and the _Health Records and Information Privacy Act 2002_.
+###### UOW's privacy obligations 
 
-####  **What are the University’s Obligations Regarding Privacy**
+###### uow website privacy statement
 
-The University must ensure that the overall management of an individual's personal and health information complies with NSW Privacy Legislation.
+###### privacy complaints
 
-The University's [Privacy Information Sheet](https://web.archive.org/web/20130625060923id_/http%3A//www.uow.edu.au/about/privacy/ssLINK/6752/UOW061010) provides a summary of the information protection principles that the University must comply with.
+###### who to contact about privacy 
 
-The University's [Privacy Policy](https://web.archive.org/web/20130625060923id_/http%3A//www.uow.edu.au/about/privacy/ssLINK/6752/UOW038289) and [Privacy Management Plan](https://web.archive.org/web/20130625060923id_/http%3A//www.uow.edu.au/about/privacy/ssLINK/6752/UOW139886) outlines the responsibilities of all staff when handling an individual's personal and health information and also provides details on how the University complies with its obligations with the NSW privacy laws.
+TIPS AND RESOURCES
 
-When collecting an individual's personal or health information, the University should describe how it will use that information, and should only use that information for that purpose, or a directly related purpose. The current [Student Privacy and Disclosure Statement](https://web.archive.org/web/20130625060923id_/http%3A//www.uow.edu.au/about/privacy/ssLINK/6752/UOW089606) lists the primary and secondary uses of personal information collected from students.
+####  **What is Privacy?**
 
-Information should be stored securely, and access must be given to the information provider to update or correct his/her information.
+According to the [Information and Privacy Commission](http://www.ipc.nsw.gov.au/), Privacy can mean the right to a sense of personal freedom, the right to be left alone and most importantly, the right to have information about oneself handled in a fair and proper manner.
 
-The University should NOT disclose a person’s personal or health information unless:
+####  **PRIVACY LEGISLATION**
 
-  * that person has provided clear and written consent to do so;
+UOW must handle your personal and health information in accordance with NSW's  _Privacy and Personal Information Protection Act 1998_ and _Health Records and Information Privacy Act 2002_.  These Acts set out the privacy principles that UOW must abide by when it collects, stores, uses and discloses personal and health information.
+
+####  **UOW's PRIVACY OBLIGATIONS**
+
+UOW is committed to protecting and maintaining the privacy of your personal and health information. UOW's [Privacy Policy](https://web.archive.org/web/20131121045806id_/http%3A//www.uow.edu.au/about/privacy/ssLINK/6752/UOW038289) and [Privacy Management Plan](https://web.archive.org/web/20131121045806id_/http%3A//www.uow.edu.au/about/privacy/ssLINK/6752/UOW139886) demonstrate our commitment to protecting your privacy and provide details of:
+
+  * the ways in which UOW complies with its privacy obligations;
+  * policies and practices that address UOW's privacy responsibilities; and
+  * procedures relating to handling grievances or complaints regarding UOW's privacy practices.
+
+
+
+UOW's [Privacy Information Sheet](https://web.archive.org/web/20131121045806id_/http%3A//www.uow.edu.au/about/privacy/ssLINK/6752/UOW061010) provides a summary of the information protection principles that UOW must comply with when handling your personal and health information.
+
+ **Collection  
+** UOW collects your personal and/or health information for lawful purposes that are directly related to UOW's functions or activities.  When UOW collects your personal and/or health information, you will be informed as to why it is being collected, what will be done with it, whether it's required by law and your rights of access to and correction of that information.
+
+The [Student Privacy and Disclosure Statement](https://web.archive.org/web/20131121045806id_/http%3A//www.uow.edu.au/about/privacy/ssLINK/6752/UOW089606) lists the intended use/disclosure of personal and/or health information collected from students.
+
+The [Privacy Collection Statement for Recruitment and Employee Records](https://web.archive.org/web/20131121045806id_/http%3A//www.uow.edu.au/about/privacy/ssLINK/126/UOW156836) provides details of the types of information collected from employees and/or prospective employees, how that information is held and used by UOW,  circumstances where it may be disclosed and details of how the employee can access his/her record. 
+
+ **Security  
+** UOW takes all reasonable steps to protect your personal and/or health information against loss, misuse, unauthorised access, modification or disclosure. 
+
+ **Disclosure  
+** UOW will NOT disclose your personal or health information unless:
+
+  * you have provided clear and written consent to do so;
   * a court or similar body has ordered the information’s release;
   * a law enforcement agency is requiring information and certain tests are met; or
-  * the disclosure is necessary to prevent a serious and imminent threat to the life or health of that person or another person.
+  * the disclosure is necessary to prevent a serious and imminent threat to your life or health or that of another person.  
+ 
 
 
 
-Breach of the Privacy Laws by unlawful means is a serious matter, and could expose the University to an internal privacy investigation, Privacy Commissioner Investigation and/or adverse media reports. 
+####  **UOW WEBSITE PRIVACY STATEMENT**
 
-A University Privacy Officer (listed below) should be consulted before any action is taken.  Please direct any questions or concerns to a University Privacy Officer listed below.
+ **Information collected online by UOW  
+** When you visit UOW’s website, our servers may collect the following information for statistical purposes: your IP address, browser type, operating system, pages viewed while browsing UOW’s website, dates and times of the visit.
 
-####  **TIPS AND RESOURCES**
+Where your personal information is collected while visiting our site, we will provide you with details about the purpose for collecting it including how it will be used, whether it’s required by or under law and if it’s to be disclosed to any other party. We will only use your personal information for the purpose for which you provided it or a directly related purpose.
 
-The NSW Information and Privacy Commission (IPC) has developed a range of tips and resources to assist parents, teens, children and teachers to help them make informed decisions about their privacy, including how to best protect their privacy. These resources include tips when communicating and sharing information on the internet, smartphones and social network sites.  
+ **Use of Cookies  
+** UOW uses Google Analytics cookies to identify user traffic patterns on its website. Information collected from cookies is used for statistical analysis purposes so that UOW can provide you with a website that best meets your needs. A cookie in no way provides access to your computer or any information about you, other than the data you choose to share with UOW.
 
-Visit the IPC's tips and resources page at <http://www.ipc.nsw.gov.au/privacy/ipc_resources/privacy_for_parents_and_kids.html>.
+Some UOW sites may use cookies for authentication purposes or to personalise your web experience. For example, a cookie within the UOW Course Finder will remember the courses you previously viewed.
+
+UOW also uses Google cookies for remarketing to advertise online. When you visit our website, our web server will drop a cookie on your browser. If you leave our website and visit another website which is part of the Google network, you may be served our advertisement.
+
+You may disable cookies by adjusting your web browser, but if you do some of our sites might not be accessible to you.
+
+ **Security  
+** UOW has a number of security measures in place to protect against IT security risks. These include firewalls, network intrusion detection and virus scanning. Refer to UOW’s [IT Security Policy](http://www.uow.edu.au/about/policy/UOW002323.html) for further information.
+
+Some UOW sites can only be accessed with a login name and password to ensure that only authorised users are able to access personal information. You should ensure that your password is kept securely and not accessible by others.
+
+ **Links to other Websites  
+** External sites that are linked to or from the UOW site are generally not under our control or responsibility. If you decide to access linked third-party websites, you are encouraged to review their privacy policy, terms of use and content.
 
 ####  **Privacy Complaints**
 
-Any student, staff member or member of the public who is concerned about how their personal or health information is being handled by the University should contact a privacy officer in the Legal Services Unit of the University.  The privacy officers will discuss your concerns or complaints and endeavour to reach a suitable resolution, referring to any existing University policies or complaint handling guidelines.
+Any student, staff member or member of the public who is concerned about how their personal or health information is being handled by UOW should contact a privacy officer in UOW's Legal Services Unit.  The privacy officer will discuss your concerns or complaints and endeavour to reach a suitable resolution, referring to any existing UOW policies or complaint handling guidelines.
 
-Where an individual wishes to make a formal request for a review of the University's conduct in the handling of his/her personal or health information, the [Privacy Complaint Internal Review Application Form](https://web.archive.org/web/20130625060923id_/http%3A//www.uow.edu.au/about/privacy/ssLINK/6752/UOW022144) is to be completed and lodged with the Legal Services Unit
+Where an individual wishes to make a formal request for a review of UOW's conduct in the handling of his/her personal or health information, the [Privacy Complaint Internal Review Application Form](https://web.archive.org/web/20131121045806id_/http%3A//www.uow.edu.au/about/privacy/ssLINK/6752/UOW022144) is to be completed and lodged with the Legal Services Unit.
 
 ####  **Who to Contact About Privacy**
 
-Legal Services has several privacy officers registered with [Privacy NSW](http://www.lawlink.nsw.gov.au/Lawlink/privacynsw/ll_pnsw.nsf/pages/privacy_index).
-
-Your first contact should be Carmel Perre, who is the University's Information Compliance Officer.  Carmel's contact details are as follows:
+Your first contact for any privacy-related matters should be Carmel Perre, who is UOW's Information Compliance Officer.  Carmel's contact details are as follows:
 
  **Carmel Perre  
 ** Information Compliance Officer  
@@ -86,4 +126,10 @@ Email: [kristine@uow.edu.au
   
 ---|---  
   
-Last reviewed: 2 May, 2013
+#### TIPS AND RESOURCES
+
+The NSW Information and Privacy Commission (IPC) has developed a comprehensive range of resources to help members of the public understand their privacy rights. These resources include a fact sheet ['A guide to protecting your privacy in NSW](http://www.ipc.nsw.gov.au/agdbasev7wr/privacy/documents/pdf/a_guide_to_protecting_privacy%20new.pdf)' and tips when communicating and sharing information on the internet, smartphones and social network sites.  
+
+Visit the IPC's website at  [http://www.ipc.nsw.gov.au](http://www.ipc.nsw.gov.au/privacy/ipc_resources/privacy_for_parents_and_kids.html). 
+
+Last reviewed: 26 August, 2013
