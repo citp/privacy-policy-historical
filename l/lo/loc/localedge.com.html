@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the localedge.com privacy policy that was archived on 2013-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615082607id_/http%3A//www.localedge.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the localedge.com privacy policy that was archived on 2013-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131121023228id_/http%3A//www.localedge.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -42,6 +42,16 @@ if(navigator.userAgent.indexOf('iPhone') !== -1 || navigator.userAgent.indexOf('
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
  
+</script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+    $( ".business-search form").submit(function( event ) {
+        if (this.area.value.trim() == "") {
+            this.area.value = "Buffalo, NY";
+        }
+    });
+});
 </script>
 
 <link rel="alternate" type="application/rss+xml" title="LocalEdge » Feed" href="http://www.localedge.com/feed/">
