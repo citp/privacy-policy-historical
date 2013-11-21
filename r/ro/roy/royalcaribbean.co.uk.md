@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the royalcaribbean.co.uk privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523165905id_/http%3A//www.royalcaribbean.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalcaribbean.co.uk privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121122917id_/http%3A//www.royalcaribbean.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 At Royal Caribbean Cruises Ltd.® (RCCL) and Royal Caribbean Cruise Line a/s, we are committed to protecting the personal information that you share with us through the Internet. 
 
-This statement sets forth our privacy policy regarding information you provide to us through the use of our website. This statement also provides you with information on how to prevent your personal information from being collected or shared when you visit our website, respond to our web-based promotions or send us an e-mail.  To view detailed information about our cookies please [visit our Cookie Information page](https://web.archive.org/privacy/cookie-information/ "Cookie information"). 
+This statement sets forth our privacy policy regarding information you provide to us through the use of our website. This statement also provides you with information on how to prevent your personal information from being collected or shared when you visit our website, respond to our web-based promotions or send us an e-mail.  To view detailed information about our cookies please [visit our Cookie Information page](https://web.archive.org/privacy/cookie-information/default.aspx "Cookie information"). 
 
 Most of our websites reside in the United States and your information may therefore be stored outside the European Union, either where you have consented to our use of your data, or, in order to provide the products and services you have requested. 
 
