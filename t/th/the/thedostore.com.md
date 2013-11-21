@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedostore.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627085323id_/http%3A//www.thedostore.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedostore.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121061428id_/http%3A//www.thedostore.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Lenovo Lenovo : Privacy policy
+# Lenovo : Privacy policy | Lenovo India | The DO Store
 
 Net Distribution Services Private Limited (hereafter “NDSPL”) is committed to protecting the privacy of its visitors (hereafter the "Visitors," "you" or “your”) to our Internet world wide web site thedostore.com (hereafter referred to as the “Website”) that links directly to this privacy policy about the protection of personal information online. We aim for the Website to be a safe and enjoyable environment for you.
 
