@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the missrebel.co.uk privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522153719id_/http%3A//www.missrebel.co.uk/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missrebel.co.uk privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121010650id_/http%3A//www.missrebel.co.uk/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Womens Clothing Sale, Womens Fashion, Cheap Clothes Online | Miss Rebel
+# Customer Care - Womens Clothing Sale, Womens Fashion, Cheap Clothes Online | Miss Rebel
 
-## **Our commitment to privacy of information**  
-
-
-MISSREBEL has created this statement in order to demonstrate our firm commitment to privacy. 
+Missrebel has created this statement in order to demonstrate our firm commitment to privacy. 
 
 We are committed to protecting your privacy at all times, in all situations. The information we collect about you when you become a member is used to process your orders and to provide a more personalized experience on our site. This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site. We do update this Policy from time to time so please do review this Policy regularly.
 
