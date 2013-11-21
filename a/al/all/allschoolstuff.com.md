@@ -1,26 +1,18 @@
-> *The following text is extracted and transformed from the allschoolstuff.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605214009id_/http%3A//www.allschoolstuff.com/pages/Privacy-Policy/pgid-56341.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allschoolstuff.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121201819id_/http%3A//www.allschoolstuff.com/pages/Privacy-Policy/pgid-56341.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | AllSchoolStuff
 
-Fame Eduserve Private Limited (Fame) and its subsidiaries and divisions, respect your privacy. This Privacy Policy outlines the manner your data is collected and used by FAME. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Allschoolstuff.com you agree to the collection and use of your data by Allschoolstuff.com in the manner provided in this Privacy Policy.
+Feel at ease while using our websites.
 
-If you have questions or concerns regarding this statement, you can contact us at +91-124-4495547, 4495548 or email us at [customer.service@allschoolstuff.com](mailto:customer.service@allschoolstuff.com)
+Feel confident while sharing information with us.
 
-The Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by Allschoolstuff.com or to the people that are not engaged, employed or managed by Allschoolstuff.com
+Aware that you may contact us with your questions or concerns about privacy on this website.
 
-Through this document, we wish to make you:
-
-**.** Feel at ease while using our websites.
-
-**.** Feel confident while sharing information with us.
-
-**.** Aware that you may contact us with your questions or concerns about privacy on this website.
-
-**.** Aware that by using our website you are agreeing to the collection of certain data.
+Aware that by using our website you are agreeing to the collection of certain data. 
 
 **Information that may be collected from you?**
 
-Allschoolstuff.com collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to our website and other websites accessible from them.
+Allschoolstuff.com collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to our website and other websites accessible from them. 
 
 Kindly, note that Allschoolstuff.com does not access or store your Payment Card details (i.e. credit/debit card number, expiration date, CVV etc.). When you make a purchase using your card, all required transaction details are captured on the secured payment page, and encrypted using Industrial Strength Cipher, and are securely transmitted to your card issuer for obtaining an authorization decision. At no time during the purchase process or thereafter does Allschoolstuff.com have access to, or store, your complete card account information.
 
@@ -28,43 +20,37 @@ We may collect additional information in connection with your participation in a
 
 While you use our website, we may have automatic access to (receive and collect) certain anonymous information in standard usage logs through our web server, obtained from “cookies” sent to your browser from web server cookies stored on your hard drive, including but not limited to:
 
-**.** Computer-identification information.
+Computer-identification information.
 
-**.** IP address, assigned to the computer which you use.
+IP address, assigned to the computer which you use.
 
-**.** The domain server through which you access our service.
+The domain server through which you access our service.
 
-**.** The type of computer you’re using.
+The type of computer you’re using.
 
-**.** The type of web browser you’re using.
+The type of web browser you’re using.
 
 While you are transacting on our website personally identifiable information collected about you may include:
 
-**.** First and last name.
+First and last name.
 
-**.** Email addresses.
+Email addresses.
 
-**.** Contact details including phone numbers.
+Contact details including phone numbers.
 
-**.** PIN/ZIP code.
+PIN/ZIP code.
 
-**.** Demographic profile (like your age, gender, occupation, education, address and durables owned).
+Demographic profile (like your age, gender, occupation, education, address and durables owned).
 
-**.** Personal preferences and interests (such as books, movies, music and so on); and
+The pages you visit/access.
 
-**.** Your opinion on services, products, features on our websites.
+The links you click on our website.
 
-We may also collect the following information about:
+The number of times you access the page.
 
-**.** The pages you visit/access.
+Things you view, add to bag, add to wish list.
 
-**.** The links you click on our website.
-
-**.** The number of times you access the page.
-
-**.** Things you view, add to bag, add to wish list.
-
-**.** Other websites you open simultaneously while browsing on ours
+Other websites you open simultaneously while browsing on ours 
 
 **When / How do we collect the information?**
 
@@ -100,35 +86,25 @@ If you use a bulletin board or chat room on this website, you should be aware th
 
 We use your contact information to send you:
 
-**.** Password reminder and registration confirmation.
+Password reminder and registration confirmation.
 
-**.** Special offers.
+Special offers.
 
-**.** Changes in the service policies or terms of use.
+Changes in the service policies or terms of use.
 
-**.** Event based communications such as order information, renewal notices, invites, reminders etc.
+Improve personalized features on our websites to enhance your shopping experience.
 
-Note: We send users updates upon registration, and updates regarding your order status. We also send promotional emails to inform you about new arrivals, special offers, etc.
+To contact you for your account / profile related matters or any other reason as may be necessary.
 
-We use your personal information to:
+To provide the services requested by you example deliver merchandise ordered by you.
 
-**.** Improve personalized features on our websites to enhance your shopping experience.
+Remember you in order to deliver better and more personalized service e.g. track your entries in our promotion schemes;
 
-**.** To contact you for your account / profile related matters or any other reason as may be necessary.
+Recognize your usage privileges to our website.
 
-**.** To provide the services requested by you example deliver merchandise ordered by you.
+Administer and manage smooth functioning of our website by diagnosing problems.
 
-**.** To preserve social history as governed by existing law or policy.
-
-We use anonymous traffic information to:
-
-**.** Remember you in order to deliver better and more personalized service e.g. track your entries in our promotion schemes;
-
-**.** Recognize your usage privileges to our website.
-
-**.** Administer and manage smooth functioning of our website by diagnosing problems.
-
-**.** Track your session and activities so that we can understand better how people use our website.
+Track your session and activities so that we can understand better how people use our website. 
 
 **Who do we share your information with?**
 
@@ -236,9 +212,10 @@ If we decide to make changes in our email practices, we will post those changes 
 Contact Details:
 
 Fame Eduserve Private Limited  
-Unit II, 2nd Floor, SCO 18, Housing Board Complex  
-Saraswati Vihar Market, MG Road  
-Gurgaon – 122001.
+1st Floor, Plot No. 657,  
+Udyog Vihar, Phase V,  
+Gurgaon - 122016  
+Haryana, India
 
-Phone : +91-124-4495547, 4495548  
+Phone : **1800 103 4488(Toll Free),** 0124 - 4495547 / 48 (Paid)  
 Email : [customer.service@Allschoolstuff.com](mailto:customer.service@Allschoolstuff.com)
