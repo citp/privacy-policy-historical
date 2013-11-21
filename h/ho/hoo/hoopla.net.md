@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoopla.net privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611094341id_/http%3A//hoopla.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoopla.net privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121071353id_/http%3A//www.hoopla.net/privacy) for the most accurate reproduction.*
 
 # Hoopla | Motivate Employees and Drive Sales Performance Through Gamification
 
@@ -82,7 +82,7 @@ Your Choices
 
 You can use the Site without providing any personal information. If you choose not to provide any personal information, you may not be able to use certain parts of the Service. Access To Personal Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or by emailing our Customer Support at [support@hoopla.net](mailto:support@hoopla) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page or by emailing our Customer Support at [support@hoopla.net](mailto:support@hoopla.net) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -108,6 +108,6 @@ Your access to and use of this Site and the Service is subject to the Hoopla Ter
 
 ##### 
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Site, please contact us at [privacy@hoopla.net](mailto:privacy@hoopla.net.) or via postal mail at 84 W. Santa Clara Street, Suite 750, San Jose, CA 95113
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Site, please contact us at [privacy@hoopla.net](mailto:privacy@hoopla.net) or via postal mail at 84 W. Santa Clara Street, Suite 750, San Jose, CA 95113
 
-[< Back To The Fun!!](https://web.archive.org/web/20130611094341id_/http%3A//hoopla.net/index.php)
+[< Back To The Fun!!](https://web.archive.org/)
