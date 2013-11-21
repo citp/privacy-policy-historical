@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackboxsocialmedia.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320123531id_/http%3A//blackboxsocialmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackboxsocialmedia.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121222759id_/http%3A//blackboxsocialmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Black Box Social Media | Social Media Marketing
+# Privacy Policy | Black Box Social Media
 
 BlackBoxSocialMedia.com takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
