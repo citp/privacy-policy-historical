@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3cx.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430014416id_/http%3A//www.3cx.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3cx.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121164111id_/http%3A//www.3cx.com/company/privacy) for the most accurate reproduction.*
 
 # 3CX Privacy Policy
 
@@ -38,4 +38,4 @@ You will not receive any promotional messages from us unless you opted to allow 
 
 This privacy policy has last been updated on 26 January 2011.
 
-**[Terms and Conditions](http://www.3cx.com/company/terms_and_conditions.html)**
+**[Terms and Conditions](http://www.3cx.com/company/terms-and-conditions/ "3CX Terms and Conditions")**
