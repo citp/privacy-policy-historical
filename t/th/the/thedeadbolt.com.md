@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedeadbolt.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405064604id_/http%3A//www.thedeadbolt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedeadbolt.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121121020id_/http%3A//www.thedeadbolt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -95,11 +95,10 @@ TheDeadbolt.com reserves the right to change its Privacy Policy at any time. In 
 
 Contacting the Web Site:
 
-If you have any questions or any concerns regarding this privacy policy, the practices of TheDeadbolt.com, or your interaction with this website, please feel free to contact us by e-mail at info@thedeadbolt.com.
+If you have any questions or any concerns regarding this privacy policy, the practices of TheDeadbolt.com, or your interaction with this website, please feel free to contact us.
 
 You can also contact us by mail at the following address:
 
 The Deadbolt  
-901-1865 Barclay Street  
-Vancouver, BC.  
-V6G 1K7 
+3165 S, Alma School Rd. #29-314  
+Chandler AZ 85248
