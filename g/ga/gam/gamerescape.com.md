@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerescape.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522163558id_/http%3A//gamerescape.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerescape.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121023012id_/http%3A//gamerescape.com/privacy-policy) for the most accurate reproduction.*
 
 # Gamer Escape » Privacy Policy
 
