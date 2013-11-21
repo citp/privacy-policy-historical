@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merchanttransact.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116084742id_/http%3A//www.merchanttransact.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchanttransact.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121173417id_/http%3A//merchanttransact.com/Privacy.asp) for the most accurate reproduction.*
 
 # Merchant Transact : Privacy Policy
 
