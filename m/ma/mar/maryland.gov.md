@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the maryland.gov privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310082326id_/http%3A//www.maryland.gov/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maryland.gov privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122003924id_/http%3A//www.maryland.gov/pages/privacy_security.aspx) for the most accurate reproduction.*
 
-# Maryland.gov Privacy Policy
+# 
+
+​​
 
 Thank you for visiting a website published and managed by the State of Maryland Department of Information Technology. This statement applies specifically to Maryland.gov and State agency websites that have been authorized to link to this central privacy statement.
 
@@ -29,3 +31,7 @@ It is our policy to preserve the privacy of personal records and to protect conf
 ## Privacy Policy Changes
 
 Changes to our websites may necessitate changes to our privacy statement. Notification will be posted on the [WWW.MARYLAND.GOV](https://web.archive.org/) website homepage in the Privacy Notice link. The information contained in this privacy statement applies only to [WWW.MARYLAND.GOV](https://web.archive.org/) and other State agency websites that have been authorized to link to this policy, and not to any linked sites or all websites maintained by Maryland State agencies. You should review the individual privacy statements at any linked site that you visit.
+
+## Site Security
+
+To ensure that Maryland.gov is secure and remains available to all users, the Maryland Department of Information Technology employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under State and Federal laws that protect fraud and abuse of computer systems. ​
