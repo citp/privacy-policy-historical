@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the thezoereport.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621114841id_/http%3A//www.thezoereport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thezoereport.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121031418id_/http%3A//www.thezoereport.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Zoe Report
 
 **Introduction**
 
-Zoe Media Group strongly respects each individual’s right to personal privacy and we will only collect and use information through TheZoeReport.com (the Web Site” or “TheZoeReport.com”) or our on-line newsletters (“The ZOE Report, ZOE Beautiful and AccessZOEries”) for the purposes set forth in this policy.
+Zoe Media Group strongly respects each individual’s right to personal privacy and we will only collect and use information through TheZoeReport.com (the Web Site” or “TheZoeReport.com”) or our on-line newsletters (“The Zoe Report, Zoe Beautiful and AccessZoeries”) for the purposes set forth in this policy.
 
 Note: This statement applies solely to information collected at or through the Web Site. However, we will frequently link to other glamorous online destinations, so we advise you carefully review their respective privacy policies. Please be aware that Zoe Media Group is not responsible for the contents and the privacy practices of such other sites.
 
 **Information Collection and Usage**
 
-In compliance with our mission statement to glamorize your internet and e-mail experience, Zoe Media Group collects personal information through the Web Site at several points. For instance, to subscribe to The ZOE Report, ZOE Beautiful and AccessZOEries, we require your e-mail address and zip code (this trade-off is truly bananas). Rest-assured, Zoe Media Group does not collect any personal information that you do not expressly provide and will not sell, rent, or share your personal information to any third party for marketing purposes without your consent (that would be tacky).
+In compliance with our mission statement to glamorize your internet and e-mail experience, Zoe Media Group collects personal information through the Web Site at several points. For instance, to subscribe to The Zoe Report, Zoe Beautiful and AccessZoeries, we require your e-mail address and zip code (this trade-off is truly bananas). Rest-assured, Zoe Media Group does not collect any personal information that you do not expressly provide and will not sell, rent, or share your personal information to any third party for marketing purposes without your consent (that would be tacky).
 
 When you visit our site, we also collect anonymous information such as your IP address or domain name to analyze site traffic, but this information is not personally identifiable. We will use this information to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
@@ -47,3 +47,11 @@ Zoe Media Group may make changes to this policy in the future. We will reflect t
 **Contact Us**
 
 If you have questions about this policy, or about the site, please contact us at info@rachelzoe.com. xoxo
+
+##### GET RACHEL ZOE'S DAILY DOSE OF GLAMOUR TO YOUR INBOX
+
+##### GET GLAM EVERY DAY
+
+##### MAJ! KEEP AN EYE ON YOUR INBOX!
+
+##### OOPS! NOT MAJ.
