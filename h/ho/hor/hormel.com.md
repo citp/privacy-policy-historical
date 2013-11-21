@@ -1,136 +1,157 @@
-> *The following text is extracted and transformed from the hormel.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425084451id_/http%3A//www.hormel.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hormel.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121020342id_/http%3A//www.hormel.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Hormel.com - PRIVACY POLICY
+# Hormel | Privacy Policy
 
-**Privacy Policy**
+Privacy Policy  
+Effective: July 15, 2013
 
-_Updated January 17, 2011_
+  Introduction
 
-Welcome.  At Hormel Foods, your privacy is important to us. This Privacy Policy explains how Hormel Foods (“we, “ “us,” and “our”) protect your privacy when you visit our websites (our "Site(s)"). This Privacy Policy describes what types of information we gather and track when you use our Sites, how this information is used and with whom it is shared. 
+  Hormel Foods ("Company" or "We") respect your privacy and are committed to protecting it through our compliance with this policy.
 
-**Scope of This Privacy Policy**
+  This policy describes the types of information we may collect from you or that you may provide when you visit our websites (our "Website") and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
-This Privacy Policy covers the "Personal Information" we collect through our Sites. "Personal Information" is information that identifies you personally, either alone or in combination with other information available to us. Examples of Personal Information include your name, address, email address, credit card information, image and the information you provide when you use one of our Sites to create an account or a personal profile. 
+       This policy applies to information we collect:
 
-**Your Consent**
+       • On this Website  
+     • In e-mail, text and other electronic messages between you and this Website  
+     • When you interact with our advertising and applications on third-party websites and services.
 
-Please take a few minutes to review this Privacy Policy. By accessing or using one of our Sites you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Privacy Policy. 
+  Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes,so please check the policy periodically for updates.
 
-IF YOU DO NOT CONSENT TO THE COLLECTION, USE AND DISCLOSURE OF YOUR PERSONAL INFORMATION AS SET FORTH IN THIS PRIVACY POLICY, PLEASE EXIT AND DO NOT USE THIS SITE. 
+  Children Under the Age of 13
 
-**What Personal Information Do We Collect Through Our Sites**
+  Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use.
 
-_Information You Provide_. We collect the Personal Information you knowingly provide (using your mouse and keyboard, cellular or mobile phones) when you use our Sites. The information we collect depends on how you use our Sites. For example, if you sign up to receive email communications from us, we collect your email address and any related information you provide. If you communicate with us using the "Contact Us" feature, we collect the information you provide when you complete the "Contact Us" form. 
+  Information We Collect About You and How We Collect It
 
-_Credit Card Information_. If you make a purchase on our Sites, Hormel Foods will collect and verify your credit card information. When you provide credit card information through our other Sites, the information you provide goes directly from your computer to a server operated by one of our service providers. The service provider uses your credit card information only to process your transaction and is bound by contract to treat all of your Personal Information as confidential. Although our service providers send us most of the information you provide when you complete a transaction (so that we know, for example, who has purchased a product and where to ship it), for your security, our service providers do not share your credit card information with us.
+  We collect several types of information from and about users of our Website,including information:
 
-_Supplemental Information_. From time to time, we may supplement the information you give us with information from other sources, such as information validating your address or information based on your zip code. We may also supplement the information you give us with information we collect from you through other Hormel  Foods Sites or other channels. 
+  * by which you may be personally identified, such as name, postal address, e-mail address or telephone number ("personal information");
+  * about your internet connection, the equipment you use to access our Website and usage details.
 
-_Information Sent to Us by Your Web Browser_. We collect information that is sent to us automatically by your Web browser. This information typically includes the IP address of your internet service provider, the name and version of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit. Please check your browser if you want to learn what information your browser sends or how to change your settings. This information does not identify you personally. Generally, we use this information to improve our Sites and make them more compatible with the technology used by our visitors. In most cases, we do not link the information sent by your browser to information that identifies you personally. We do, however, review our server logs – which contain visitors' IP addresses -- for security purposes, such as detecting intrusions into our network. If we suspect criminal activity, we may share our server logs with the appropriate investigative authorities who could use that information to trace and identify individuals. 
+ 
 
-**How We Use Personal Information**
+We collect this information:
 
-_Generally_. We use the Personal Information we collect through our Sites:
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons and other tracking technologies.
+  * From third parties, for example, our business partners.
 
-  * to provide the products, information and services you request; 
-  * for security, credit or fraud prevention purposes; 
-  * to provide you with effective customer service; 
-  * to provide you with a personalized experience when you use our Sites; 
-  * to contact you with special offers and other information we believe will be of interest to you (but only with your permission); 
-  * to contact you with information and notices related to your use of our Sites; 
-  * to invite you to participate in surveys and provide feedback to us; 
-  * to better understand your needs and interests; 
-  * to improve the content, functionality and usability of our Sites; and 
-  * to improve our products and services.
+ 
 
+Information You Provide to Us. The information we collect on or through our Website may include:
 
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, posting material or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
+  * Records and copies of your correspondence (including e-mail addresses),if you contact us.
+  * Your search queries on the Website.
+  * Behavioral preferences which you provide to us.
 
-**Agreements Governing Your Use of Special Features**
+ 
 
-Some of our Sites include special features and password-protected areas. For example, you may be able to use our Sites to apply for a job, to share recipes, or to design and email a "gram" to a friend, and send and receive text messages. 
+You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to others at your own risk. We cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-When you sign up to use a special feature or password-protected area, you may be asked to agree to special terms governing your use of the special feature or password-protected area. In such cases, you will be asked to expressly consent to the special terms, for example, by checking a box or clicking on a button marked "I agree." This type of agreement is known as a "click-through" agreement. If any of the terms of the click-through agreement are different than the terms of this Privacy Policy, the terms of the click-through agreement will supplement or amend this Privacy Policy, but only with respect to the matters governed by the "click-through agreement." 
+  Usage Details, IP Addresses And Cookies, Cookies and Other Technologies.  
+As you navigate through and interact with our Website, we or our business partners, may automatically collect certain information about your equipment, browsing actions and  
+patterns, including:
 
-_"Email a Friend" Features_. Some of our Sites include "Email a Friend" features that allow you to forward information or customized communications to your friends. When you use one of these features, we will ask you to provide your friend's name and email address. We use this information only to customize and deliver your message. We do not add your friend's name or email address to our mailing lists. Some of our Email a Friend features permit you to upload photographs to customize your communication. We use the photographs you upload only to customize your communication. We do not use your photographs for any other purpose. 
+  * Details of your visits to our Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Website.
+  * Information about your computer and internet connection, including your IP address, operating system and browser type.
 
-**Password Protected Areas of This Site**
+ 
 
-For your protection, certain areas of our Sites are password protected. You are responsible for maintaining the confidentiality of your passwords. We have the right to assume that anyone accessing our Sites using a password assigned to you has the right to do so. You will be solely responsible for the activities of anyone accessing our Sites using a password assigned to you, even if the individual is not, in fact authorized by you. If you have reason to believe that your password has been compromised or used without authorization, you must promptly change it using the functionality provided on the Site.
+The information we collect automatically is statistical data and does not identify any individual. It helps us to improve our Website and to deliver a better and more personalized service by enabling us to: 
 
-**How Does Hormel Foods Share My Personal Information**
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Website according to your individual interests.
+  * Speed up your searches.
+  * Recognize you when you return to our Website.
 
-_Service Providers_. We share Personal Information with companies and organizations that perform services on our behalf, for example, companies that provide support services to us (such as credit card processing services, data storage services, and web hosting services) or that help us market our products and services.
+ 
 
-**Within Hormel Foods. We may share your Personal Information within Hormel Foods.**
+The technologies we, or our third party business partners, use for this automatic data collection may include:
 
-_Business Transfers_. Your Personal Information may be transferred to a company that has acquired the stock or assets of Hormel Foods or one of our businesses, for example, as the result of a sale, merger, reorganization or liquidation. If such a transfer occurs, the acquiring company's use of your Personal Information will still be subject to this Privacy Policy and the privacy preferences you have expressed to us. 
+  * Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser or through your third party account. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+  * Web Beacons. Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company or third parties, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
-_Compliance With Laws and Protection of Our Rights and the Rights of Others_. We may disclose Personal Information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose Personal Information to prevent or investigate a possible crime, such as fraud or identity theft; to enforce or apply our online Terms of Use or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others.
+ 
 
-**Your Choices**
+Third-party Advertiser Use of Cookies.
 
-_In General_
+  Some advertisements on the Website are served by third-party advertisers, ad networks and ad servers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about our users. This may include information about users' behavior on this and other websites to serve them interested-based (behavioral) advertising. We do not control these third parties' tracking technologies or how they may be used.
 
-We respect your right to make choices about the ways we collect, use and disclose your Personal Information. In most cases, we will ask you to indicate your choices at the time we collect your Personal Information. We will also include an "opt-out" link in newsletter or promotional email we send you so that you can inform us that you do not wish to receive such communications from us in the future. If you have created an account or a personal profile on one of our Sites, you may be able to update some or all of your privacy choices by changing the settings on your account settings or profile page.
+  How We Use Your Information
 
-**Direct Marketing**
+  We use information that we collect about you or that you provide to us, including any personal information:
 
-Before we use your Personal Information for direct marketing purposes (or permit our affiliates to do so), we will offer you the opportunity to choose whether to have your information used in this way. If at any time you wish to be taken off our direct marketing mailing lists, please send us an email at [cresponse@hormel.com](mailto:cresponse@hormel.com) or write to us at Hormel Foods Corporation, Consumer Response, 1 Hormel Place, Austin, MN 55912 Please provide your full name, address and email address so that we can find you on our mailing lists. Once we have the information we need, we will remove you from our mailing lists. Please give us a reasonable amount of time to honor your request. 
+  * To present our Website and its contents to you.
+  * To provide you with information, products or services that you request from us
+  * To fulfill any other purpose for which you provide personal information.
+  * To notify you about changes to our Website or any products or services we offer or provide though it.
+  * To allow you to participate in interactive features on our Website.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
 
-**How Can You Access, Update or Correct Your Personal Information**
+ 
 
-If you have created an account or a personal profile on one of our Sites, you may be able to access and update some or all of your Personal Information on your account settings or profile page. In most cases, however, you will need our help. If you wish to access, update or correct your Personal Information, please send us an email at [cresponse@hormel.com](mailto:cresponse@hormel.com) or write to us at Hormel Foods Corporation, 1 Hormel Place, Austin, MN 55912.  We will respond to you within a reasonable time and within the time limits established by applicable law. We may ask you for additional information to verify your identity. In most cases, we will provide access and correct or delete any inaccurate information you discover. In some cases, however, we may limit or deny your request if the law permits or requires us to do so or if we are unable to verify your identify. 
+We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please adjust your user preferences in your account profile. We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
-**How Does Hormel Foods Protect Personal Information**
+  Disclosure of Your Information
 
-We take reasonable precautions to provide a level of security appropriate to the sensitivity of the Personal Information we collect. Although we use reasonable measures to help protect your Personal Information against unauthorized use or disclosure, we cannot guarantee the security of information provided over the internet or stored in our databases. 
+  We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
-**Links to Other Hormel Foods websites**
+  We may disclose personal information that we collect or you provide as described in this privacy policy:
 
-Hormel Foods operates many different websites, each with its own content, features, and functionality. Each Hormel Foods website serves a different purpose. For this reason, not all of our websites are governed by this Privacy Policy. When you use a link on one of our Sites to access another Hormel Foods website, please take a minute to review the privacy policy posted on that website. For a list of the Sites that are governed by this Privacy Policy, click here <http://www.hormelfoods.com/familyofsites.aspx>
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers and other third parties we use to support our business. To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Hormel Foods’ assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Hormel Foods about our Website users is among the assets transferred.
+  * To third parties to market their products or services to you if you have not opted out of these features.
+  * To fulfill the purpose for which you provide it. For example, if you give us an e-mail address to use the "e-mail a friend" feature of our Website, we will transmit the contents of that e-mail and your e-mail address to the recipients.
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
 
-**Links to Third-Party websites**
+ 
 
-This Site may also contain links to websites operated by other companies, including websites operated by our third-party service providers, our affiliates, and other third parties. This Privacy Policy does not apply to Personal Information collected on any of these third-party websites. When you access third-party websites through a link on this Site, please take a few minutes to review the privacy policy posted on that site. 
+We may also disclose your personal information:
 
-**Use of Cookies, Web Beacons and Similar Technologies by Third Parties**
+  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Hormel Foods, our customers or others.
 
-_Marketing Consultants_. Our marketing consultants may use Web beacons, cookies and other Web technologies to collect information about visitors to our Sites. For example, our consultants may count how many visitors access our Sites, what links they use, and what pages they view. They may also track which websites and advertisements refer traffic to our Sites and the URLs of the sites to which our Sites refer traffic (that is, the websites on which our visitors land when they leave our Sites). Our consultants use this information to compile statistics and prepare reports that provide the feedback and analysis we need to understand the needs and interests of our visitors, improve the content, functionality and usability of our Sites, and improve the effectiveness of our advertising and marketing efforts. The information our consultants collect does not identify you personally.
+ 
 
-If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also delete our cookies as soon as you leave a Site. Although you are not required to accept our cookies when you visit our Sites, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of our Sites. 
+Choices About How We Use and Disclose Your Information
 
-_Advertising Companies_. We use third-party advertising companies to manage our online advertising campaigns. Our advertising companies use cookies and other Web technologies to target and measure the effectiveness of our advertisements. For example, our advertising companies place Web beacons on their clients' websites, including our Sites. When you visit these websites, the Web beacon "tags" your computer with a "cookie." The information stored on the cookie does not identify you personally and is not combined with any information that identifies you personally, but it does permit our advertising companies to recognize your computer when you access one of their clients' sites. Our advertising companies use the information they collect about your use of their clients' websites to customize the advertisements you see when you visit their clients' sites. Our advertising companies' use of cookies and other web technologies is covered by their privacy policies, not by this Online Privacy Statement. If you do not wish to receive our advertising companies' cookies, you may "opt-out" by following the directions in our advertising companies' privacy policies. For more information, click here - Web Trends Privacy Policy: [http://www.webtrends.com/AboutWebTrends/ PrivacyPolicy.aspx?promo=TI_silopriv_FT&WT.svl=ftr_privacy ](http://www.webtrends.com/AboutWebTrends/%20PrivacyPolicy.aspx?promo=TI_silopriv_FT&WT.svl=ftr_privacy)
+  We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-**Children**
+  * Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  *  Disclosure of Your Information for Third-Party Advertising. If you do not want us to share your personal information with unaffiliated or nonagent third parties for promotional purposes, you can also always opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes.
+  * Promotional Offers from the Company. If you do not wish to have your e-mail address/contact information used by the Company to promote our own or third parties' products or services, you can opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes.
+  * Targeted Advertising. If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by adjusting your user advertising preferences in your account profile by checking or unchecking the relevant boxes.
 
-This Site is not directed to children and we will not request any information from children under 13.  Hormel Foods does have other websites that are geared in whole or in party to a child audience.  The privacy of children is described more fully in the privacy policies of those websites.  We also recommend that parents monitor their children’s internet activities and employ software or other tools which can help their children access the internet without compromising their safety. 
+ 
 
-**Changes to This Privacy Policy**
+We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.
 
-As we add new features and functionality to our Sites, we may need to update or revise this Privacy Policy. We reserve the right to do so, at any time and without prior notice, by posting the revised version on our Sites. Your use of one of our Sites following any such change constitutes your consent to the terms of the revised Privacy Policy. For this reason, it is important to review this Privacy Policy regularly. If we modify this Privacy Policy, we will provide a notice at the top of this Privacy Policy for at least 30 days after the new effective date. 
+  Accessing and Correcting Your Information
 
-**Special Notice for Visitors Who Reside Outside the United States**
+  You can review and change your personal information by logging into the Website and visiting your account profile page.
 
-Hormel Foods is a U.S. corporation. Hormel Foods and its affiliates do business in more than 40 countries. Our headquarters are in Austin, Minnesota in the United States of America. Our Web servers and databases are located in the United States or in other countries. We may transfer your Personal Information to our service providers and others located in the United States or other countries for the purposes described in this Privacy Policy. Different countries have different privacy laws and requirements, and some, including the United States, provide less legal protection for your Personal Information than others. Please know, however, that no matter where your Personal Information is collected, used, transferred or stored, if it was collected through our Sites, it will be protected by the terms of this Privacy Policy and any privacy notices or click-through agreements that apply to you.
+  If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use [INSERT AS LINK TO WEBSITE'S TERMS OF USE].]
 
-BY USING THIS SITE, YOU ARE CONSENTING TO THE COLLECTION, USE, AND TRANSFER OF YOUR PERSONAL INFORMATION IN OR TO THE UNITED STATES OR ANY OTHER COUNTRY IN THE WORLD. 
+  Data Security
 
-**Governing Law**
+  The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website.
 
-This Privacy Policy is governed under the laws of the State of Minnesota, United States of America without regard to its conflicts of law provisions. 
+  Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
 
-**Questions Concerning Our Privacy Practices**
+  Changes to Our Privacy Policy
 
-If you have questions about this Privacy Policy or our privacy practices: 
+  It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
-Send an e-mail to [cresponse@hormel.com](mailto:cresponse@hormel.com) and write "Privacy" in the subject line 
+  Contact Information
 
-Write to us at 
+  To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
-Hormel Foods Corporation
-
-1 Hormel Place
-
-Austin, MN 55912-3680
-
-Attn: Legal Dept.
+  Hormel Foods Corporation  
+1 Hormel Place  
+Austin, MN 55912  
+Attn: Legal Department 
