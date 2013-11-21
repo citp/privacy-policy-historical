@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crf-usa.org privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530062235id_/http%3A//www.crf-usa.org/web-site-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crf-usa.org privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121064850id_/http%3A//www.crf-usa.org/web-site-privacy-policy.html) for the most accurate reproduction.*
 
 # Web Site Privacy Policy - Constitutional Rights Foundation
 
