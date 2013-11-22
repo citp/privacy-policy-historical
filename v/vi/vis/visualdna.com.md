@@ -1,60 +1,75 @@
-> *The following text is extracted and transformed from the visualdna.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120124322id_/http%3A//www.visualdna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualdna.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122183123id_/http%3A//visualdna.com/privacy-policy) for the most accurate reproduction.*
 
-# VisualDNA - Know Yourself - Privacy Policy
+# VisualDNA - Understanding People - Privacy Policy
 
 Updated 12 July 2012
 
-"We" are Imagini Europe Limited (Company Registration Number 05565112) with registered office at 67-71 Shoreditch High Street, London, E1 6JJ.  We are committed to protecting your privacy and are registered under the Data Protection Act 1998 (number Z9712306).  We provide various data analytics and targeted content and advertising services (“Services”) and devise image-based quizzes (“Quizzes”) for our clients and business partners, which include website owners and advertisers (“Clients”) under the VisualDNA, Youniverse and Imagini brands.  We also operate a number of websites, including http://www.visualdna.com, http://www.youniverse.com, my.visualdna.com (the “Sites”).
+"We" are Imagini Europe Limited (Company Registration Number 05565112) with registered office at 67-71 Shoreditch High Street, London, E1 6JJ.  We are committed to protecting your privacy and are registered under the Data Protection Act 1998 (number Z9712306).  We provide various data analytics and targeted content and advertising services (“Services”) and devise image-based quizzes (“Quizzes”) for our clients and business partners, which include website owners and advertisers (“Clients”) under the VisualDNA, Youniverse and Imagini brands.  We also operate a number of websites, including http://www.visualdna.com, http://www.youniverse.com, my.visualdna.com, http://valuable.me (the “Sites”).
 
 This Privacy Policy sets out the data processing practices, including how and for what purposes we use the information collected about you or that you provide to us or our Clients through the use of/or in connection with the provision of our Sites, Quizzes and Services, or your use of the Internet and any other electronic communications networks.  Where our Quizzes appear on third party websites or we are providing our Services on behalf of our Clients (unless otherwise expressly indicated) any personal information collected may be provided to the owner of the website and its use governed by the website's Terms and Conditions and Privacy Policy.  Please review all third party websites’ Privacy Policies carefully as we are not responsible for the practices of such parties.
 
-If you have any queries or comments about our use of your information, please get in touch with us by emailing us at [contac@imagini.net](mailto:contact@imagini.net) or writing to Customer Support, Imagini Holdings Limited, 67-71 Shoreditch High Street, London E1 6JJ.
+If you have any queries or comments about our use of your information, please get in touch with us by emailing us at [contact@imagini.net](mailto:contact@imagini.net) or writing to Customer Support, Imagini Holdings Limited, 67-71 Shoreditch High Street, London E1 6JJ.
 
 ## 1\. Information Collected
 
-We collect personal information from visitors to Sites or our Clients' websites, participants in our Quizzes and users who interact with online adverts or who otherwise visit websites within our network, including:
+We collect personal information from visitors to Sites or our Clients' websites, individuals who open advertising emails sent by us or our Clients, participants in our Quizzes and users who interact with online adverts or who otherwise visit websites within our network, including:
 
   * Information provided by you: 
   * Name, address and email address.
   * Demographic information such as age, gender and country of residence.
   * Data on your image preferences and information about products and/or pages viewed when you participate in our Quizzes.  Although we cannot identify you individually from your image preferences, your responses help us to build up a picture of you, your characteristics, lifestyle or preferences in order to serve you personalised adverts and content.
   * If you contact us, we may also keep a record of that correspondence and/or collect information from such correspondence.
-  * Information collected automatically from your computer: 
-  * Information from cookies.  A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about our use of cookies and how to exercise your cookie choices in our [Cookie Policy](https://web.archive.org/cookie-policy/). 
+  * Information collected automatically from your computer: 
+  * Information from cookies.  A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about our use of cookies and how to exercise your cookie choices in our [Cookie Policy](https://web.archive.org/cookie-policy/).
   * Your IP address, which is the unique address of your computer which is automatically provided to other computers when your web browser or email application requests a web page or email from those computers on the Internet.
   * Information about the type of browser you are using (for example Firefox, Internet Explorer or Safari).
   * “Clickstream” data collected from “Web beacons” (also known as “clear gifs”, “action tags” or “Web bugs”), including information about your journey across the Internet and your browsing behaviour around various websites, including interactions with adverts, within our network.
 
 
 
+We may combine your information with information about you that we get from other sources, including information held by our Clients and our business partners.  
+
 ## 2\. Use of personal information
 
-* On behalf of our Clients 
+On behalf of our Clients 
 
-  * We process personal information for the purposes of providing our Services for the benefit of and on behalf of our Clients.  Our Services involve analysing the above information to create a picture of your lifestyle, interests and browsing and shopping intent as well as tastes and preferences.  Although most of the information we collect cannot identify you (unless you choose to provide information such as your name, address or email address) it enables us to create groups of users with similar browsing, interest or behaviour patterns, depending on our Clients’ specifications.  We call these groups Audience Groups.  The Audience Groups can then be used to provide you with content and adverts that are more relevant to your lifestyle and interests.  We also use cookie and Clickstream data collected from various websites that are part of our network to provide targeted advertising services and to profile users across our network.  You can find out more about our use of cookies [here](http://visualdna.com/cookie-policy).
+  * We process personal information for the purposes of providing our Services for the benefit of and on behalf of our Clients.  Our Services involve analysing the above information to create a picture of your lifestyle, interests and browsing and shopping intent as well as tastes and preferences.  Although most of the information we collect cannot identify you (unless you choose to provide information such as your name, address or email address) it enables us to create groups of users with similar browsing, interest or behaviour patterns, depending on our Clients’ specifications.  We call these groups Audience Groups.  The Audience Groups can then be used to provide you and others within your Audience Group with content and adverts that are more relevant to your lifestyle and interests.  We also use cookie and Clickstream data collected from various websites that are part of our network to provide targeted advertising services and to profile users across our network.  You can find out more about our use of cookies [here](http://visualdna.com/cookie-policy).
+
+
   * The information may also be used for analytical and strategic development purposes, to measure the effectiveness of content and adverts and to provide you with a more personalised service on both our Site and our Clients’ websites.
+
+
   * Where our Clients are using your information for the above purposes, we encourage them to make you aware of this in their privacy policies and to explain how you can opt-out of such practices.
 
 
-* For our own purpose 
+
+For our own purpose
 
   * Our Sites are generally intended for use by our Clients and other businesses looking to use our Services.  We will therefore use your personal information to provide and improve our Services, respond to your enquiries and requests, administer orders and accounts and to provide you with information about our Services.  You may opt-out of receiving mailings by emailing contact@imagini.net.
-  * We may also use the information collected automatically, such as your IP address and information stored via cookies, to gather statistics about the number of people who visit the Sites and to customise the Sites content, layout and services. You can find out more about our use of cookies [here](http://visualdna.com/cookie-policy).
 
 
+
+We may also use the information collected automatically, such as your IP address and information stored via cookies, to gather statistics about the number of people who visit the Sites and to customise the Sites content, layout and services. You can find out more about our use of cookies [here](http://visualdna.com/cookie-policy).
 
 ## 3\. Sharing information
 
   * We will only share your name, contact details and other information which can directly identify you, with our Clients if you have provided your express consent.  We may share other information, such as your responses to Quizzes as part of our Services to enable our Clients to design or improve their services and products and for other marketing purposes.
-  * We may also transfer information, such as your IP address and data about your journey around the Internet, your interactions with adverts within our network and other information collected via cookies, Web beacons and other technologies to our Clients, advertising partners and other third parties within our network. This information may be used to provide advertising, promotions and other products and services that may be of particular interest to you. It may also be used to provide you with a tailored choice of content and media products.  Our advertising and promotions partners have no access to your name or personal contact information stored by us unless you choose to share it with them. We do not provide your name or personal contact information to an advertising partner when you interact with or view a targeted advertisement. You can find out more about our use of cookies [here](http://visualdna.com/cookie-policy).
+
+
+  * We may also transfer information, such as your IP address and data about your journey around the Internet, your interactions with adverts within our network or with email advertising conducted by us or our Clients and other information collected via cookies, Web beacons and other technologies (which may be combined with information held by our Clients or business partners) to our Clients, advertising partners and other third parties within our network. This information may be used to provide advertising, promotions and other products and services that may be of particular interest to you. It may also be used to provide you with a tailored choice of content and media products.  Our advertising and promotions partners have no access to your name or personal contact information stored by us unless you choose to share it with them. We do not provide your name or personal contact information to an advertising partner when you interact with or view a targeted advertisement. You can find out more about our use of cookies [here](http://visualdna.com/cookie-policy).
+
+
   * We may also use third parties to provide services on our behalf, which may involve them processing your information, e.g. to complete partial addresses or to augment the information we hold about you.  Such companies may only act on our instructions and will not be able to use your information for their own purposes without your consent.
+
+
   * We may transfer, sell or assign any of the information described in this Policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or re-organisation of Imagini Holdings Limited or any of its subsidiaries or affiliates.  However, except as described above or unless we are required to do so by law or to enforce our terms and conditions of use, or to protect the rights, property or safety of our customers or others we will not disclose, sell or distribute your information to any third party without your permission.
+
 
 
 
 ## 4\. Can I remove my information? 
 
-  * Absolutely, we believe that you should be in control of your data and should be able to delete it at any time. To do this simply visit http://my.visualdna.com where you'll be able to delete (opt out of) your entire profile.  You can also find out how to block cookies [here](http://www.visualdna.com/cookie-policy).
+  * Absolutely, we believe that you should be in control of your data and should be able to delete it at any time. To do this simply visit http://my.visualdna.com where you'll be able to delete (opt out of) your entire profile.  You can also find out how to block cookies [here](http://www.visualdna.com/cookie-policy).
 
 
   * You also may at any time request access to all personal information we hold on you, by writing to Customer Support, Imagini Holdings Limited at 67-71 Shoreditch High Street, London E1 6JJ. We will provide this information within 40 days of a written request for a small administrative charge.
@@ -73,6 +88,7 @@ We collect personal information from visitors to Sites or our Clients' websites,
 
 
   * Where applicable, we comply with the Internet Advertising Bureau's (IAB) Good Practice Principles for Online Behavioral Advertising
+
 
 
 
