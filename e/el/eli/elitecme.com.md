@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitecme.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514202520id_/http%3A//www.elitecme.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitecme.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122163622id_/http%3A//www.elitecme.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Setting the Standard in Low Cost, High Quality Continuing Education | Elite CME
 
