@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dollarshower.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523022906id_/http%3A//www.dollarshower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarshower.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122041846id_/http%3A//www.dollarshower.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - DollarShower.com
 
 **www.dollarshower.com** (henceforth referred to as ‘the site’, ‘the website’, ‘us’ or ‘we’) has created this privacy policy to demonstrate our commitment to the privacy of the users of our website. Please read the following to understand how we treat any personally identifiable information collected from our visitors and users.
 
