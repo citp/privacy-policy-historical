@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitfix.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626173241id_/http%3A//www.hitfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitfix.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122150544id_/http%3A//www.hitfix.com/privacy-policy) for the most accurate reproduction.*
 
 # HitFix Privacy Policy
 
