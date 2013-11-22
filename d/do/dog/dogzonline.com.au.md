@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523012752id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122012344id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
 
 # Dogz Online - The Pure Breed Dog Community of Australia
 
