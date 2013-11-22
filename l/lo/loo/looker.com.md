@@ -1,100 +1,66 @@
-> *The following text is extracted and transformed from the looker.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looker.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122050723id_/http%3A//www.looker.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Looker
 
-**Go Daddy Respects Your Privacy**
+Effective September 12, 2013
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Respect for the privacy of your personal information is extremely important to Looker Data Sciences, Inc. (“Looker”). We are committed to securing any personal information that we collect, maintain, or use on this website or mobile application (“Site”) as described in this Privacy Policy and in compliance with applicable laws. This Privacy Policy is intended to help you understand what information is gathered by this Site, how Looker uses that information, and what safeguards are in place to protect that information.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## PII Collected by This Site
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+On this Site, you may be asked to provide personally identifiable information (“PII”) to Looker. PII means information that can identify or locate you, like your name, address, telephone number, e-mail address, and other similar information. If you provide PII to Looker, we may enhance or merge it with information that we obtain from third parties about you. When you use this Site and provide your PII to Looker, you consent to Looker’s use of such information as described in this Privacy Policy.
 
-**Information Collection and Use**
+#### Looker may use your PII in the following ways:
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+  * To respond to your requests for information, products, or services;
+  * To administer your account if you have registered on the Site;
+  * To inform you about our products and services;
+  * For legal compliance, such as to enforce our legal rights, to comply in good faith with applicable laws, and to protect Site users;
+  * To consider you for employment if you apply for a job via this Site; and
+  * For other general business purposes, such as website management, marketing, advertising, and research and development.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+## Non-PII Collected by This Site
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+This Site may also collect information that does not identify you personally (“Non-PII”). Such Non-PII includes non-personally identifiable information that you choose to provide or post on this Site. Non-PII collected by this Site may also include information gathered through cookies and pixel tags as described below.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Cookies are small bits of information that this Site places on your computer. Pixel tags, also called web beacons or single-pixel gifs, allow this Site to collect web log information. A pixel tag is a graphic on a web page or in an email message that tracks pages viewed or messages opened. Looker and our service providers may use cookies and pixel tags to identify your IP address, browser type, domain name, and specific web pages through which you click. Looker uses such Non-PII to administer and update our Site and for other everyday business purposes. We reserve the right to maintain, update, disclose, or otherwise use Non-PII without limitation.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Most web browsers allow you to erase cookies on your computer, block cookies from your computer, or notify you when a cookie is stored on your computer. Please refer to your browser’s instructions on these functions. If you choose to disable cookies, please note that you may not be able to take advantage of all of the Site’s features.
 
-**Security**
+## Information Sharing
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Except as provided below, Looker will not share PII with third parties unless you have consented to the disclosure.
 
-**Updating Your Information**
+In certain circumstances, Looker may share your PII with service providers that need your information to provide operational or other support services to Looker, such as email marketing, data management, database hosting, credit card processing, or shipping services. To ensure the confidentiality and security of your PII, such service providers must agree to safeguard your information. These service providers are also restricted by contract from using your PII in any way other than to provide services for Looker.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Looker also may provide information to government entities and others when we believe in good faith that such disclosure is required by law. We may also access or disclose your information in order to protect the legal rights of Looker, its employees, and/or its agents; to protect the safety and security of users and members; and to help prevent fraud.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Looker may also provide PII and Non-PII to a third party in connection with the sale, assignment, or other transfer of this Site. In such event, Looker will require any such buyer to agree to treat PII in accordance with this Privacy Policy.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+## Our Advertisements
 
-      iii.      You may call us at: (480) 505-8800
+Looker’s third-party service providers serve ads on our behalf across the Internet. Some of these ads may be personalized for you based on what we know about you. We do not share any information that identifies you personally with the third-party service providers that serve ads on behalf of Looker. Please visit the Network Advertising Initiative Opt-Out page <http://www.networkadvertising.org/managing/opt_out.asp> if you do not wish to receive personalized ads from Looker on third-party websites.
 
-       iv.      You may fax us at: (480) 505-8844
+The Network Advertising Initiative offers useful information about Internet advertising companies, including information about how to opt out of interest-based advertising by their members. See <http://www.networkadvertising.org/participating-networks> for the list of NAI members. See <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt out from online behavioral ads served by some or all participating companies.
 
-**Sending Emails**
+## Email Marketing Preferences
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Looker respects your email marketing preferences. If you prefer not to receive promotional email messages from Looker, you can unsubscribe from this Site’s email marketing list by following the unsubscribe link located at the bottom of each promotional email.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+## Data Security
 
-**Compliance with Laws and Law Enforcement**
+Looker protects PII with reasonable and appropriate physical, electronic, and procedural safeguards. For example, any sections of this Site that collect sensitive PII use industry-standard secure socket layer (SSL) encryption. To take advantage of SSL, your browser must support encryption protection (found in Internet Explorer release 3.0 and above, All versions of Mozilla Firefox, and All versions of Google Chrome).
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## Links to Third-Party Sites
 
-**Third Party Service Providers**
+This Site may contain links to a number of sites owned and operated by third parties that we believe may offer useful information. The policies and procedures described in this Privacy Policy do not apply to those third-party sites. Please contact those third-party sites for information on their data collection, security, and distribution policies.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## Updates to This Privacy Policy
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Looker may update this Privacy Policy from time to time. When we do update it, for your convenience, we will make the updated Privacy Policy available on this page. Please check this Privacy Policy periodically for changes. If we make any material changes, we will notify you by email (sent to the email address specified in your account) or by means of a notice on this Site prior to effective date of the change.
 
-**Supplementation of Information**
+## For More Information
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions or concerns about this Privacy Policy, please contact us at [discover@looker.com](mailto:discover@looker.com) or 877 Cedar St., STE 100, Santa Cruz, CA, 95060.
