@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404080340id_/http%3A//www.leaprate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122161649id_/http%3A//www.leaprate.com/privacy-policy.html) for the most accurate reproduction.*
 
-# LeapRate - Your Forex Industry Source - Privacy Policy
+# Forex | News | Regulated | FX Brokers | Binary Options | LeapRate - Privacy Policy
 
 LeapRate is committed to protecting your privacy. This Privacy Policy describes how we collect, store and use information on individuals that use this website.
 
