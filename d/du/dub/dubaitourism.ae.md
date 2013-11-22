@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaitourism.ae privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618172337id_/http%3A//www.dubaitourism.ae/node/111) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaitourism.ae privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122122607id_/http%3A//www.dubaitourism.ae/node/111) for the most accurate reproduction.*
 
 # Privacy Policy | Dubai Department of Tourism and Commerce Marketing
 
