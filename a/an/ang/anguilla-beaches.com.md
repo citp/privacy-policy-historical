@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anguilla-beaches.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508053912id_/http%3A//www.anguilla-beaches.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anguilla-beaches.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122140557id_/http%3A//www.anguilla-beaches.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,9 +53,3 @@ Anguilla-Beaches.Com reserves the right to make changes in this policy. If there
 If you do not agree to Anguilla-Beaches.Com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. 
 
 Your use of this site indicates acceptance of this privacy policy. 
-
-**Share this page:  **| | | |   
----|---|---|---|---  
-| | |   
-  
- **One more way to share Anguilla-Beaches.com...**
