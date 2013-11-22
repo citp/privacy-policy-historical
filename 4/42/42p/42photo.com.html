@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 42photo.com privacy policy that was archived on 2013-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523012509id_/https%3A//www.42photo.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 42photo.com privacy policy that was archived on 2013-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131122012116id_/http%3A//www.42photo.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>42photo.com - New York Camera Store, Digital Cameras, Audio and Video Electronics</title>
@@ -53,8 +53,7 @@ else if(document.all)// ie
 <meta name="google-translate-customization" content="be9ed75dcf97cbbf-ebf1114b90f212b0-g47607c5dd58d8734-f">
 
 
-
-
+<script type="text/javascript" src="/ga.35001271530195.js?PID=14CDB9B4-DE01-3FAA-AFF5-65BC2F771745" defer=""></script><style type="text/css">#d__fFH{position:absolute;top:-5000px;left:-5000px}#d__fF{font-family:serif;font-size:200px;visibility:hidden}#accurately912c4346,#flexiblefcaa6ae7,#cleared9164ceca,#flexiblefcaa6ae7{display:none!important}</style>
 
 
 
@@ -146,10 +145,33 @@ H1
 
 		document.form1.submit();
 	}
+
+	function IsNumericSearch() {
+		var str= document.forms["searchform"]["search_box_id"].value;
+		var key= str.replace(/^\s\s*/, '').replace(/\s\s*$/, '');
+
+                //alert(key);
+		if(!isNaN(key)) //is a number
+		{                
+			//alert("is a number");
+			document.forms["searchform"].action = "http://www.42photo.com/search.asp";
+			document.forms["searchform"]["search_box_id"].value = key;
+			//document.forms["searchform"].method = "post";
+			document.forms["searchform"].submit();
+		}
+		else
+		{			
+			//alert("is not a number");
+   			document.forms["searchform"].submit();
+		}
+
+	
+	}
+
 //-->
 </script>
 
-<form method="get" action="http://42photo.ecomm-search.com/search" id="form1" name="searchform" style="margin:0;">
+<form method="get" id="form1" name="searchform" onkeypress="return event.keyCode != 13;" action="http://42photo.ecomm-search.com/search" style="margin:0;">
 
  <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr> 
@@ -181,11 +203,9 @@ H1
                         <td>
 
 
+<input class="inputBox" maxlength="50" name="searchKey" id="search_box_id" autocomplete="off" onkeydown="Javascript: if (event.keyCode==13) IsNumericSearch();" onfocus="if (this.value == 'product or item #') { this.value = ''; } return true;" onblur="if (this.value == '') { this.value = 'product or item #';} return true;" value="product or item #" style="WIDTH: 120px">
 
-<input class="inputBox" maxlength="50" name="searchKey" id="search_box_id" autocomplete="off" onfocus="if (this.value == 'product or item #') { this.value = ''; } return true;" onblur="if (this.value == '') { this.value = 'product or item #';} return true;" value="product or item #" style="WIDTH: 120px">
-
-
-                        <input type="submit" value="Go" id="submit1" name="submit1" class="btnSmall"></td>
+                        <input type="button" value="Go" id="submit1" name="submit1" class="btnSmall" onclick="IsNumericSearch()"></td>
                       </tr>
                     </tbody></table></td>
                 </tr>
@@ -307,11 +327,12 @@ H1
 						  <td height="19" class="blue" onmouseover="this.className='overGreen'" onmouseout="this.className='blue'" onclick="window.location='lc-catid-1282-k-spy_cameras.htm';">Spy Cameras</td>
 						</tr>
 
-						
+						<!--	
 						<tr> 
-						  <td height="19" class="blue" onmouseover="this.className='overGreen'" onmouseout="this.className='blue'" onclick="window.location='lc-catid-194-k-photo_printers_-amp;_stools.htm';">Photo Printers &amp; Stools</td>
+						  <td height="19" class="blue" onMouseOver="this.className='overGreen'" onMouseOut="this.className='blue'" onclick="window.location='lc-catid-194-k-photo_printers_-amp;_stools.htm';" >Photo Printers &amp; Stools</td>
 						</tr>
-						
+						-->
+
 						<tr> 
 						  <td height="19" class="blue" onmouseover="this.className='overGreen'" onmouseout="this.className='blue'" onclick="window.location='lc-catid-1252-k-rechargeable_digital_camera_ba.htm';">Rechargeable Digital Camera</td>
 						</tr>
@@ -364,40 +385,40 @@ H1
 						</tr>
 						
 
-					<tr><td bgcolor="#e5f1fd"><img alt="" src="images/spacer.gif" height="5"></td></tr>	      			     
+				<!--	<tr><td bgColor="#e5f1fd"><img alt="" src="images/spacer.gif" height="5"></td></tr>	      			     
 								
 				<tr> 
-				  <td height="19" class="HeadBlue" onmouseover="this.className='overHeadGreen'" onmouseout="this.className='HeadBlue'" onclick="window.location='lc-catid-1299-k-surefire_lights.htm';">Surefire Lights</td>
+				  <td height="19" class="HeadBlue" onMouseOver="this.className='overHeadGreen'" onMouseOut="this.className='HeadBlue'" onclick="window.location='lc-catid-1299-k-surefire_lights.htm';" >Surefire Lights</td>
 				</tr>              				
 
 				
 					
 						<tr> 
-						  <td height="19" class="blue" onmouseover="this.className='overGreen'" onmouseout="this.className='blue'" onclick="window.location='lc-catid-1303-k-battery_powered_incandescent_s.htm';">Battery-Powered Incandescent S</td>
+						  <td height="19" class="blue" onMouseOver="this.className='overGreen'" onMouseOut="this.className='blue'" onclick="window.location='lc-catid-1303-k-battery_powered_incandescent_s.htm';" >Battery-Powered Incandescent S</td>
 						</tr>
 						
 						<tr> 
-						  <td height="19" class="blue" onmouseover="this.className='overGreen'" onmouseout="this.className='blue'" onclick="window.location='lc-catid-1306-k-surefire_accessories.htm';">Surefire Accessories</td>
+						  <td height="19" class="blue" onMouseOver="this.className='overGreen'" onMouseOut="this.className='blue'" onclick="window.location='lc-catid-1306-k-surefire_accessories.htm';" >Surefire Accessories</td>
 
 						</tr>
 						
 						<tr> 
-						  <td height="19" class="blue" onmouseover="this.className='overGreen'" onmouseout="this.className='blue'" onclick="window.location='lc-catid-1302-k-battery_powered_led_surefire_l.htm';">Battery-Powered LED Surefire L</td>
+						  <td height="19" class="blue" onMouseOver="this.className='overGreen'" onMouseOut="this.className='blue'" onclick="window.location='lc-catid-1302-k-battery_powered_led_surefire_l.htm';" >Battery-Powered LED Surefire L</td>
 						</tr>
 						
 
-					<tr><td bgcolor="#e5f1fd"><img alt="" src="images/spacer.gif" height="5"></td></tr>	      			     
+					<tr><td bgColor="#e5f1fd"><img alt="" src="images/spacer.gif" height="5"></td></tr>	      			     
 								
 				<tr> 
-				  <td height="19" class="HeadBlue" onmouseover="this.className='overHeadGreen'" onmouseout="this.className='HeadBlue'" onclick="window.location='lc-catid-1421-k-leatherman_tools.htm';">Leatherman Tools</td>
+				  <td height="19" class="HeadBlue" onMouseOver="this.className='overHeadGreen'" onMouseOut="this.className='HeadBlue'" onclick="window.location='lc-catid-1421-k-leatherman_tools.htm';" >Leatherman Tools</td>
 				</tr>              				
 
 				
 					
 						<tr> 
-						  <td height="19" class="blue" onmouseover="this.className='overGreen'" onmouseout="this.className='blue'" onclick="window.location='lc-catid-1425-k-leatherman_tools_new_york.htm';">Leatherman Tools New York</td>
+						  <td height="19" class="blue" onMouseOver="this.className='overGreen'" onMouseOut="this.className='blue'" onclick="window.location='lc-catid-1425-k-leatherman_tools_new_york.htm';" >Leatherman Tools New York</td>
 
-						</tr>
+						</tr>-->
 						
 
 					<tr><td bgcolor="#e5f1fd"><img alt="" src="images/spacer.gif" height="5"></td></tr>	      			     
@@ -523,7 +544,10 @@ var ANS_customer_id="1195cf33-0fbb-425a-9ef1-d94404b88bf9";</script>
  
  
 </div> 
- 
+
+<br>
+<img src="https://www.42photo.com/images/seals/RapidSSL_SEAL-90x50.gif"> 
+<br>
  
 <a onclick="window.open('https://www.42photo.com/vbv_learn_more.html');" href="#"><img border="0" src="https://www.42photo.com/images/verifybyVisa.gif">
  
@@ -636,7 +660,7 @@ function dropdown(mySel)
 	<table width="100%" border="0" cellspacing="0" cellpadding="0">
 			
 		<tbody><tr>
-			<td align="center" class="textSmall"><b>Retail Store Hours: Monday - Friday 9:00am - 8:00pm | Saturday - Sunday 10:00am-7:00pm Eastern 1-212-594-6565<br><font color="blue">NYC Retail Store Location: 378 5th Avenue Between 35th &amp; 36th Street on 5th Avenue.</font><br>Mail Order Hours: Sunday - Thursday 10:00am -7:00pm I Friday 10:00am- 5:00pm Eastern I Saturday Closed.
+			<td align="center" class="textSmall"><b>Mail Order Hours: Sunday - Thursday 10:00am -7:00pm I Friday 10:00am- 3:00pm EST. Saturday Closed.<br><font color="blue">NYC Retail Store Location: 378 5th Avenue Between 35th &amp; 36th Street on 5th Avenue.</font><br> Retail Store Hours: Monday - Friday 9:00am - 8:00pm | Saturday - Sunday 10:00am 7:00pm EST.. 1-212-594-6565
 			</b></td>
 		</tr>
 	</tbody></table>
@@ -644,7 +668,7 @@ function dropdown(mySel)
 
 
 
-<!--<p align=center><img src="../images/fathersday.gif"></p>-->
+<!--<p align=center><img src="../images/fathersday.gif"><a href="889demonstratedroles.html" style="display: none;" rel="file" id="flexiblefcaa6ae7">sand</a></p>-->
 
 
 
@@ -811,7 +835,7 @@ window.onload = function(){
 						
 		<td width="160" valign="top" align="center">
 				<!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
-<div id="ciKsZG" style="z-index:100;position:absolute"></div><div id="scKsZG" style="display:inline"></div><div id="sdKsZG" style="display:none"><script type="text/javascript" defer="" src="https://secure.providesupport.com/image/js/42photo/safe-standard.js?ps_h=KsZG&amp;ps_t=1582134413956"></script></div><script type="text/javascript">var seKsZG=document.createElement("script");seKsZG.type="text/javascript";seKsZG.defer=true;seKsZG.src=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/42photo/safe-standard.js?ps_h=KsZG\u0026ps_t="+new Date().getTime();document.getElementById("sdKsZG").appendChild(seKsZG)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=42photo">Live Support</a></div></noscript>
+<div id="ciKsZG" style="z-index:100;position:absolute"></div><div id="scKsZG" style="display:inline"></div><div id="sdKsZG" style="display:none"><script type="text/javascript" defer="" src="https://secure.providesupport.com/image/js/42photo/safe-standard.js?ps_h=KsZG&amp;ps_t=1582134415826"></script></div><script type="text/javascript">var seKsZG=document.createElement("script");seKsZG.type="text/javascript";seKsZG.defer=true;seKsZG.src=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/42photo/safe-standard.js?ps_h=KsZG\u0026ps_t="+new Date().getTime();document.getElementById("sdKsZG").appendChild(seKsZG)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=42photo">Live Support</a></div></noscript>
 <!-- END ProvideSupport.com Graphics Chat Button Code -->
 
 
@@ -917,6 +941,7 @@ s.parentNode.insertBefore(n, s);
 		            :: <a href="shopaddtocart.asp" class="footerLink">Shopping Cart</a> 
 		            :: <a href="aboutus.asp" class="footerLink">About Us</a>
 		            :: <a href="PhotoStore.asp" class="footerLink">Photo Store</a>
+			    :: <a href="camera_stores.asp" class="footerLink">Camera Stores</a>
 		            :: <a href="order_status.asp" class="footerLink">Order Status</a>
 		            :: <a href="sitemap.htm" class="footerLink">Site Map</a>
 		            </td>
@@ -1026,6 +1051,6 @@ urchinTracker();
 
 
 
-
+<div id="d__fFH"><object id="d_dlg" classid="clsid:3050f819-98b5-11cf-bb82-00aa00bdce0b" width="0px" height="0px"></object><span id="d__fF"></span></div>
 
 </body></html>
