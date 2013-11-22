@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614095546id_/http%3A//www.prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsformusic.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122174508id_/http%3A//www.prsformusic.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -52,7 +52,7 @@ Our web site may contain links to other websites which are outside our control a
 ##   
 Access right
 
-You have a right to access the personal data held about you.  To obtain a copy of the personal information we hold about you, please email [privacy@prsformusic.com](mailto:privacy@prsformusic.com), call 020 7306 4227 or write to us at: Website Privacy, PRS for Music, Copyright House, 29-33 Berners Street, London W1T 3AB.
+You have a right to access the personal data held about you.  To obtain a copy of the personal information we hold about you, please call 020 7306 4227 or write to us at: Website Privacy, PRS for Music, Copyright House, 29-33 Berners Street, London W1T 3AB.
 
 ##   
 Internet-based transfers
