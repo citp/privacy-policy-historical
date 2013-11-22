@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the activebeat.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529191232id_/http%3A//www.activebeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activebeat.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122193748id_/http%3A//www.activebeat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ActiveBeat
 
-At Activebeat ([www.Activebeat.com](http://www.tentblogger.com/)), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+At Activebeat ([www.Activebeat.com](http://www.activebeat.com/)), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
 This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.
 
