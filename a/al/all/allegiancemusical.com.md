@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allegiancemusical.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523193730id_/http%3A//www.allegiancemusical.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegiancemusical.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122153655id_/http%3A//www.allegiancemusical.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Allegiance
 
@@ -44,8 +44,8 @@ Users can send email to: [privacy@allegiancemusical.com](mailto:privacy@allegian
 
 Users can send mail to the following postal address:
 
-Gaman PB, LLC  
-1560 Broadway, Suite 409  
+Allegiance Broadway, Limited Liability Company  
+1560 Broadway, Suite 700  
 New York, NY 10036
 
 Users can call the following telephone number: 212-944-6586
@@ -62,11 +62,11 @@ Users can send email to: [privacy@allegiancemusical.com](mailto:privacy@allegian
 
 Users can send mail to the following postal address:
 
-Gaman PB LLC  
-1560 Broadway, Suite 409  
+Allegiance Broadway, Limited Liability Company  
+1560 Broadway, Suite 700  
 New York, NY 10036
 
-Users can call the following telephone number: 212-944-6586
+Users can call the following telephone number: 917-720-3289
 
 ### Copyright Notice
 
