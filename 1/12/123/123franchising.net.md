@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123franchising.net privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114084718id_/http%3A//123franchising.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123franchising.net privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122075250id_/http%3A//123franchising.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
