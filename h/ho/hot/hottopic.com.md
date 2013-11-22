@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the hottopic.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430182156id_/http%3A//community.hottopic.com/content/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hottopic.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122132749id_/http%3A//www.hottopic.com/hottopic/cs/CustomerService/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
-# Privacy & Security | Hot Topic
+# Privacy Policy | Hot Topic
+
+Untitled Document
 
 **_PRIVACY POLICY_**
 
 **Introduction**
 
-Thank you for visiting our website.  This privacy policy (“ **Privacy Policy** ”) applies to the websites that post this Privacy Policy, including, without limitation, [**www.hottopic.com**](http://www.hottopic.com/hottopic/index.jsp) and/or [www.torrid.com](http://www.torrid.com/) (each a “ **Site** ” and collectively, the “ **Sites** ”) (however accessed and/or used, whether via personal computers, mobile devices or otherwise), which are owned and operated by Hot Topic, Inc. (“ **Hot Topic** ” or “ **we** ,” “ **our** ,” or “ **us** ”).  This Privacy Policy also applies to widgets, applications, interactive features and/or downloads that are owned or operated by Hot Topic and available through the Sites, or that post a link to this Privacy Policy.  This Privacy Policy covers information collected at the Sites and does not cover any information collected at any other website or offline by Hot Topic (unless specifically stated).
+Thank you for visiting our website.  This privacy policy (“ **Privacy Policy** ”) applies to the websites that post this Privacy Policy, including, without limitation, [**www.hottopic.com**](http://www.hottopic.com/) and/or [www.torrid.com](http://www.torrid.com/) (each a “ **Site** ” and collectively, the “ **Sites** ”) (however accessed and/or used, whether via personal computers, mobile devices or otherwise), which are owned and operated by Hot Topic, Inc. (“ **Hot Topic** ” or “ **we** ,” “ **our** ,” or “ **us** ”).  This Privacy Policy also applies to widgets, applications, interactive features and/or downloads that are owned or operated by Hot Topic and available through the Sites, or that post a link to this Privacy Policy.  This Privacy Policy covers information collected at the Sites and does not cover any information collected at any other website or offline by Hot Topic (unless specifically stated).
 
-We want you to enjoy your experience on the Sites, so it’s important for you to understand our practices for information we collect about you from the Sites, including the types of information we collect regarding visitors to the Sites and how we may use that information.  This Privacy Policy explains these practices.  Please review this Privacy Policy carefully.  In addition, please review the Sites’ **[Terms of Use](http://community.hottopic.com/content/terms-use)** **,** which governs your use of the Sites.
+We want you to enjoy your experience on the Sites, so it’s important for you to understand our practices for information we collect about you from the Sites, including the types of information we collect regarding visitors to the Sites and how we may use that information.  This Privacy Policy explains these practices.  Please review this Privacy Policy carefully.  In addition, please review the Sites’ **[Terms of Use](https://web.archive.org/hottopic/cs/CustomerService/WebsiteTermsofUse.jsp)** **,** which governs your use of the Sites.
 
 **Consent**
 
@@ -16,7 +18,7 @@ We want you to enjoy your experience on the Sites, so it’s important for you t
 
 **Persons Under 13**
 
-For information regarding our policy for the collection of Personal Information (defined below) from children under 13 on [www.hottopic.com](http://www.hottopic.com/), please see our children's online privacy policy available at: **<http://community.hottopic.com/content/childrens-privacy-policy>****.**
+For information regarding our policy for the collection of Personal Information (defined below) from children under 13 on [www.hottopic.com](http://www.hottopic.com/), please see our children's online privacy policy available at: **[http://www.hottopic.com/hottopic/cs/CustomerService/PrivacyPolicy/ChildrensPrivacyPolicy.jsp](https://web.archive.org/hottopic/cs/CustomerService/PrivacyPolicy/ChildrensPrivacyPolicy.jsp)** **.**
 
 **Information You Provide To Us**
 
@@ -67,22 +69,23 @@ Hot Topic may share Usage Information and Demographic Information with third par
 
 **(d) Sweepstakes, Contests and Promotions**.  We may offer sweepstakes, contests, and other promotions (any, a “ **Promotion** ”) through the Sites that may require registration.  By participating in a Promotion, you are agreeing to the terms, conditions and official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion.  If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules, such as on a winners list.
 
-**(e) Administrative and Legal Reasons**.  We may transfer and disclose your information, including Personal Information, to third parties: (i) in the event we are required to respond to subpoenas or other legal process or if in our good faith opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation; (iii) to protect and/or defend the Sites’ **[Terms of Use](http://community.hottopic.com/content/terms-use)** or other policies applicable to the Sites; or (iv) to protect the personal safety, rights, property or security of any individual.  We may also use IP address or other Device Identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies in our discretion.  Such disclosures may be carried out without notice to you.
+**(e) Administrative and Legal Reasons**.  We may transfer and disclose your information, including Personal Information, to third parties: (i) in the event we are required to respond to subpoenas or other legal process or if in our good faith opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation; (iii) to protect and/or defend the Sites’ **[Terms of Use](https://web.archive.org/hottopic/cs/CustomerService/WebsiteTermsofUse.jsp)** or other policies applicable to the Sites; or (iv) to protect the personal safety, rights, property or security of any individual.  We may also use IP address or other Device Identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies in our discretion.  Such disclosures may be carried out without notice to you.
 
 **(f)** **Business Transfer**.  Hot Topic may share Personal Information with its parent and its and their subsidiaries and affiliates.  Hot Topic also reserves the right to disclose and transfer all information related to the Sites, including, without limitation, your Personal Information, Demographic Information and Usage Information: (i) to a subsequent owner, co-owner or operator of the Sites or applicable database; or (ii) in connection with a corporate merger, change of control, consolidation, restructuring, the sale of substantially all of Hot Topic’s assets or other corporate change, including, without limitation, during the course of any due diligence process.
 
       
 **Your Choices Regarding Your Personal Information**
 
-When you receive promotional emails from us, you may indicate a preference to stop receiving such communications from us and you will have the opportunity to "opt-out" by following the instructions in the applicable email.  When you receive promotional text messages from us, you have the opportunity to "opt-out" by texting "STOP" to the number set forth in the Hot Topic **[Terms of Use](http://community.hottopic.com/content/terms-use)** or in your sign-up materials, or by following any unsubscribe instructions in the applicable text message. If we contact you by telephone for promotional purposes, you may notify us at that time if you do not wish to receive further promotional telephone communications. Note that if you've provided multiple forms of contact information at different times, you may have to opt out for each set of contact information that you have added to your account. If you don't want to reply to an e-mail or text message you receive, or want a simpler way to opt out of receiving e-mails or text messages from us, you can just tell us what you want by contacting:
+When you receive promotional emails from us, you may indicate a preference to stop receiving such communications from us and you will have the opportunity to "opt-out" by following the instructions in the applicable email.  When you receive promotional text messages from us, you have the opportunity to "opt-out" by texting "STOP" to the number set forth in the Hot Topic **[Terms of Use](https://web.archive.org/hottopic/cs/CustomerService/WebsiteTermsofUse.jsp)** or in your sign-up materials, or by following any unsubscribe instructions in the applicable text message. If we contact you by telephone for promotional purposes, you may notify us at that time if you do not wish to receive further promotional telephone communications. Note that if you've provided multiple forms of contact information at different times, you may have to opt out for each set of contact information that you have added to your account. If you don't want to reply to an e-mail or text message you receive, or want a simpler way to opt out of receiving e-mails or text messages from us, you can just tell us what you want by contacting:
 
 **Internet Administrator  
 Internet Department  
 Opt-Outs  
 18305 East San Jose Avenue  
 City of Industry, CA 91748  
-(626) 709-1194 Fax**  
-[internetadministrator@hottopic.com](mailto:internetadministrator@hottopic.com)
+(626) 709-1194 Fax  
+Click [here](https://web.archive.org/hottopic/member/unsubscribe.jsp) to opt-out of emails.  
+** [internetadministrator@hottopic.com](mailto:internetadministrator@hottopic.com)
 
 We may contact you for service-related purposes (such as, but not limited to, notice that we have changed the Sites or the Privacy Policy) when we believe it necessary or advisable to do so. You may not opt out of these communications, which are not promotional in nature, but if you do not wish to receive these announcements, you have the option to terminate your account. You understand that any such termination of your account may involve deletion of your Personal Information from our live databases.  Hot Topic will not have any liability to you for any termination of your account or related deletion of your information.
 
@@ -94,7 +97,7 @@ You may request that we delete or destroy your Personal Information.  We will m
 
 **(a) User Generated Content, Social Networking and Public Information**.  The Sites may permit you to submit ideas, photographs, user profiles, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions, communications,  or other content, including Personal Information (collectively, “ **User Generated Content** ”).  User Generated Content may be published online or offline in any media or format (currently existing or hereafter developed).  Others may have access to this User Generated Content and may have the ability to share it with third parties across the Internet.  Additionally, you may have the opportunity to engage in social networking or other online activities through the Sites, such as creating a public profile, sharing User Generated Content, and inviting others to connect with you.  Please think carefully before deciding what information you share, including Personal Information, in connection with your User Generated Content or social networking and other online activities.  Please note that Hot Topic does not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure.  Notwithstanding anything to the contrary herein, this Privacy Policy does not apply to any information that you disclose publicly, share with others or otherwise upload onto the Sites.  We are not responsible for the accuracy, use or misuse of any content or information that you disclose or receive through the Sites. 
 
-**(b) Name and Likeness**.  We may also publish your name, voice, likeness and other Personal Information that is part of your User Generated Content, and Hot Topic may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Generated Content you submit to the Sites, please review our **[Terms of Use](http://community.hottopic.com/content/terms-use)**.
+**(b) Name and Likeness**.  We may also publish your name, voice, likeness and other Personal Information that is part of your User Generated Content, and Hot Topic may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Generated Content you submit to the Sites, please review our **[Terms of Use](https://web.archive.org/hottopic/cs/CustomerService/WebsiteTermsofUse.jsp)**.
 
 **Security**
 
@@ -116,4 +119,8 @@ Hot Topic reserves the right to change this Privacy Policy at any time without n
 
 Hot Topic’s mailing address is 18305 East San Jose Avenue, City of Industry, CA, 91748, our customer service telephone number is 800.892.8674, and our customer service email address for questions about this Privacy Policy is **[privacy@hottopic.com](mailto:privacy@hottopic.com)**.
 
-This Privacy Policy was last updated November 09, 2010.
+**Advertising OPT-OUT**
+
+You may choose to [opt out](http://mediamgt.hottopic.com/optout.html) of receiving marketing messages from 3rd party advertisers that use cookies to track repeat users and maintain campaign information. Click [here](http://mediamgt.hottopic.com/optout.html) for details.
+
+This Privacy Policy was last updated May 15, 2010.
