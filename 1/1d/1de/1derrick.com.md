@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1derrick.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413024144id_/http%3A//www.1derrick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1derrick.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122030609id_/http%3A//www.1derrick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
