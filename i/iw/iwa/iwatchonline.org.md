@@ -1,75 +1,90 @@
-> *The following text is extracted and transformed from the iwatchonline.org privacy policy that was archived on 2013-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130322030107id_/http%3A//www.iwatchonline.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwatchonline.org privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122132201id_/http%3A//www.iwatchonline.to/page/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy - iwatchonline.to
 
-senddown! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+At IWatchonline.to we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by IWatchonline.to or its subsidiaries or affiliated companies (collectively, IWatchonline.to's "services"). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information.
 
-The federal government and technology industry have developed practical tips to help you guard against Internet fraud, secure your computer and protect your personal information.  
-How senddown! Uses Your Personal Information
+IWatchonline.to adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
 
-This policy covers how senddown! treats personal information that senddown! collects and receives, including information related to your past use of senddown! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.  
-This privacy policy only applies to senddown!
+If you have any questions about this Policy, please feel free to contact us through our website.
 
-This policy does not apply to the practices of companies that senddown! does not own or control, or to people that senddown! does not employ or manage. In addition, some companies that senddown! has acquired have their own, preexisting privacy policies which may be viewed on our acquired companies page.  
-senddown!'s participation in the Safe Harbor program
+ **Information we collect and how we use it:**  
 
-senddown! participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site. For more information about senddown!'s participation in the Safe Harbor program, please visit our Safe Harbor details page.
 
- **INFORMATION COLLECTION AND USE  
-General**
+- We offer a number of services that do not require you to register for an account or provide any personal information to us, such as IWatchonline.to Search. In order to provide our full range of services, we may collect the following types of information:
 
-senddown! collects personal information when you register with senddown!, when you use senddown! products or services, when you visit senddown! pages or the pages of certain senddown! partners, and when you enter promotions or sweepstakes. senddown! may combine information about you that we have with information we obtain from business partners or other companies.
+ **Information you provide:  **When you sign up for a IWatchonline.to Account or other IWatchonline.to service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other IWatchonline.to services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
 
-When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with senddown! and sign in to our services, you are not anonymous to us.
+ **IWatchonline.to cookies:  **When you visit IWatchonline.to, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some IWatchonline.to features and services may not function properly if your cookies are disabled.
 
-senddown! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
+ **Log information:  **When you use IWatchonline.to services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.  
 
-senddown! automatically receives and records information from your computer and browser, including your IP address, senddown! cookie information, software and hardware attributes, and the page you request.
 
-senddown! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+ **User communications:  **When you send email or other communication to IWatchonline.to, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
- **INFORMATION SHARING AND DISCLOSURE**
+ **Affiliated sites:  **We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to IWatchonline.to in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
 
-senddown! does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+ **Links:  **IWatchonline.to may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our technology, customized content and advertising.
 
-* We provide the information to trusted partners who work on behalf of or with senddown! under confidentiality agreements. These companies may use your personal information to help senddown! communicate with you about offers from senddown! and our marketing partners. However, these companies do not have any independent right to share this information.  
-* We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing senddown! to collect and use their child's information without consenting to senddown! sharing of this information with people and companies who may use this information for their own purposes.  
-* We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.  
-* We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of senddown!'s terms of use, or as otherwise required by law.  
-* We transfer information about you if senddown! is acquired by or merged with another company. In this event, senddown! will notify you before information about you is transferred and becomes subject to a different privacy policy.
+ **Other sites:**  This Privacy Policy applies to websites and services that are owned and operated by IWatchonline.to. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
 
-senddown! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area.
+IWatchonline.to only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
 
-* senddown! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.  
-* senddown! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
+  * Providing our products and services to users, including the display of customized content and advertising;  
 
- **COOKIES**
+  * Auditing, research and analysis in order to maintain, protect and improve our services;  
 
-senddown! may set and access senddown! cookies on your computer.
+  * Ensuring the technical functioning of our network; and Developing new services.  
 
-senddown! lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to senddown!'s cookies.
 
-senddown! uses web beacons to access senddown! cookies inside and outside our network of web sites and in connection with senddown! products and services.  
-Your Ability to Edit and Delete Your Account Information and Preferences
 
- **General**
 
-You can edit your senddown! Account Information, including your marketing preferences, at any time.
+You can find more information about how we process personal information by referring to the privacy notices for particular services.
 
-New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
+IWatchonline.to processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
 
-We reserve the right to send you certain communications relating to the senddown! service, such as service announcements, administrative messages and the senddown! Newsletter, that are considered part of your senddown! account, without offering you the opportunity to opt out of receiving them.
+ **Choices for personal information**
 
- **CONFIDENTIALITY AND SECURITY**
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
 
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent.
 
-We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+You can decline to submit personal information to any of our services, in which case IWatchonline.to may not be able to provide those services to you.
 
- **CHANGES TO THIS PRIVACY POLICY**
+ **Information sharing**
 
-senddown! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your senddown! account or by placing a prominent notice on our site.
+IWatchonline.to only shares personal information with other companies or individuals outside of IWatchonline.to in the following limited circumstances:
 
- **QUESTIONS AND SUGGESTIONS**
+We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
 
-If you have questions or suggestions, please complete a feedback form or you can contact us at: senddownsupport (at) gmail.com
+We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
+
+We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) detect, prevent, or otherwise address fraud, security or technical issues, or (c) protect against imminent harm to the rights, property or safety of IWatchonline.to, its users or the public as required or permitted by law.
+
+If IWatchonline.to becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
+
+We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
+
+Please contact us at [here](http://www.iwatchonline.to/page/contactus) for any additional questions about the management or use of personal data.
+
+ **Information security**
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+
+We restrict access to personal information to IWatchonline.to employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+ **Data integrity**
+
+IWatchonline.to processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+
+ **Accessing and updating personal information**
+
+When you use IWatchonline.to services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
+
+ **Enforcement**
+
+IWatchonline.to regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or IWatchonline.to's treatment of personal information by contacting us through this web site We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between IWatchonline.to and an individual.
+
+ **Changes to this policy**
+
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes).
