@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nibss-plc.com.ng privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521193924id_/http%3A//www.nibss-plc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nibss-plc.com.ng privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122060734id_/http%3A//www.nibss-plc.com/privacy-policy) for the most accurate reproduction.*
 
 # NIBSS | Privacy Policy
 
