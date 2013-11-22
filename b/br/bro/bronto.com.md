@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606111648id_/http%3A//bronto.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122223728id_/http%3A//bronto.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bronto Software
 
@@ -63,7 +63,8 @@ You may request that we correct, update or otherwise amend personal information 
 We may share information we collect with other parties under certain circumstances. For example, we may share information about you with third parties who provide services for us such as a hosting service provider, and a payment processor. In those cases, the service provider is only authorized to use information to perform services on our behalf or for limited administrative purposes, such as complying with legal requirements. We also may share your information:
 
   * With business partners, such as designers;
-  * When reasonably requested or required by law enforcement authorities or other government officials; • When otherwise required by law or in response to legal process;
+  * When reasonably requested or required by law enforcement authorities or other government officials;
+  * When otherwise required by law or in response to legal process;
   * When we believe disclosure is appropriate to prevent physical harm or financial loss;
   * When reasonably necessary to an investigation of suspected or actual illegal activity;
   * As needed to protect the vital interests of an individual; and
