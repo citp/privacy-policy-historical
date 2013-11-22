@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clothingshoponline.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517024639id_/http%3A//www.clothingshoponline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothingshoponline.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123000243id_/http%3A//www.clothingshoponline.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
