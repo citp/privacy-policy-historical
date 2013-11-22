@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogame.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601180626id_/http%3A//agbserver.gameforge.com/enGB-Privacy-OGame.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogame.org privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123001642id_/http%3A//agbserver.gameforge.com/enGB-Privacy-OGame.html) for the most accurate reproduction.*
 
 # 
 
