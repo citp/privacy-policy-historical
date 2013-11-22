@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the conviva.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519060906id_/http%3A//www.conviva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conviva.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122214455id_/http%3A//www.conviva.com/privacy-policy) for the most accurate reproduction.*
 
 # Conviva | Privacy Policy
+
+### Privacy Policy
+
+* * *
 
 _Conviva Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site  [www.conviva.com](http://www.conviva.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
 
