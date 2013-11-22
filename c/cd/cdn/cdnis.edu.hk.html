@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the cdnis.edu.hk privacy policy that was archived on 2013-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130308113904id_/http%3A//www.cdnis.edu.hk/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cdnis.edu.hk privacy policy that was archived on 2013-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131122165643id_/http%3A//www.cdnis.edu.hk/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 	  <base href="http://www.cdnis.edu.hk/privacy-policy.html">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
@@ -12,7 +12,7 @@
   <title>PRIVACY POLICY</title>
   <link href="/templates/rt_panacea_j15/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
-  <link rel="stylesheet" href="http://www.cdnis.edu.hk/components/com_k2/css/k2.css" type="text/css">
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css">
   <link rel="stylesheet" href="/components/com_gantry/css/gantry.css" type="text/css">
   <link rel="stylesheet" href="/components/com_gantry/css/grid-12.css" type="text/css">
   <link rel="stylesheet" href="/components/com_gantry/css/joomla.css" type="text/css">
@@ -97,7 +97,9 @@ body #rt-logo {width:973px;height:93px;}
   </style>
   <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/modal.js"></script>
-  <script type="text/javascript" src="http://www.cdnis.edu.hk/components/com_k2/js/k2.js"></script>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+  <script type="text/javascript" src="/media/k2/assets/js/k2.noconflict.js"></script>
+  <script type="text/javascript" src="/components/com_k2/js/k2.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/silverlight.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/wmvplayer.js"></script>
@@ -106,7 +108,6 @@ body #rt-logo {width:973px;height:93px;}
   <script type="text/javascript" src="/templates/rt_panacea_j15/js/gantry-articledetails-mt1.2.js"></script>
   <script type="text/javascript" src="/components/com_gantry/js/gantry-smartload-mt1.2.js"></script>
   <script type="text/javascript" src="/components/com_gantry/js/gantry-buildspans-mt1.2.js"></script>
-  <script type="text/javascript" src="/components/com_gantry/js/gantry-inputs-mt1.2.js"></script>
   <script type="text/javascript" src="/modules/mod_roknavmenu/themes/fusion/js/fusion-mt1.2.js"></script>
   <script type="text/javascript" src="/modules/mod_rokajaxsearch/js/rokajaxsearch-mt1.2.js"></script>
   <script type="text/javascript">
@@ -119,8 +120,8 @@ window.addEvent("domready", function() {
 		});
 	});
 });
-var K2RatingURL = 'http://www.cdnis.edu.hk/';
-  var _gaq = _gaq || [];
+var K2SitePath = '/';
+var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-18674730-1']);
   _gaq.push(['_trackPageview']);
 
@@ -130,14 +131,13 @@ var K2RatingURL = 'http://www.cdnis.edu.hk/';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 		
-window.addEvent('domready', function() {new GantrySmartLoad({'offset': {'x': 200, 'y': 200}, 'placeholder': '/templates/rt_panacea_j15/images/blank.gif', 'exclusion': ['ul.menutop,div.roktabs-wrapper,span.image,div.fusion-submenu-wrapper']}); });
+window.addEvent('domready', function() {new GantrySmartLoad({'offset': {'x': 200, 'y': 200}, 'placeholder': '/templates/rt_panacea_j15/images/blank.gif', 'exclusion': ['ul.menutop,div.roktabs-wrapper,span.image,div.fusion-submenu-wrapper,div.bepiv']}); });
 			window.addEvent('domready', function() {
 				var modules = ['rt-block'];
 				var header = ['h3','h2','h1'];
 				GantryBuildSpans(modules, header);
 			});
 		
-InputsExclusion.push('.content_vote','#rt-popup','#vmMainPage','#community-wrap')
 
 				window.addEvent('domready', function() {
 					var content = $$('#rt-rotator .rotator-desc'), overlay = $$('.rotator-overlay');
@@ -174,8 +174,8 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 					'advsearch': ' Advanced search',
 					'page': ' Page',
 					'page_of': ' of',
-					'searchlink': 'http://www.cdnis.edu.hk/search.html?tmpl=component',
-					'advsearchlink': 'http://www.cdnis.edu.hk/search.html',
+					'searchlink': 'http://www.cdnis.edu.hk/index.php?option=com_search&amp;view=search&amp;tmpl=component',
+					'advsearchlink': 'http://www.cdnis.edu.hk/index.php?option=com_search&amp;view=search',
 					'uribase': 'http://www.cdnis.edu.hk/',
 					'limit': '10',
 					'perpage': '3',
@@ -227,16 +227,15 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 								<div class="rt-module-surround">
 					<div class="rt-module-inner">
 						<div class="module-content">
-		                	<table style="margin-bottom: -2px;" align="right" border="0" cellpadding="0" cellspacing="0">
+		                	<table style="margin-bottom: -2px;" border="0" cellspacing="0" cellpadding="0" align="right">
 <tbody>
 <tr>
-<td style="text-align: right;"><span style="font-size: 8pt;"><a style="color: #ed301e;" href="http://sites.cdnis.edu.hk/school/lseca/">Activities</a></span>|&nbsp;</td>
-<td>&nbsp;<a href="http://www.cispa.hk/" target="_blank"><img alt="cispa" src="/images/stories/home/cispaOn_resize.gif" height="21" width="24"></a><a style="color: #ed301e;" href="http://www.cispa.hk/" target="_blank"><span style="font-size: 8pt;">CISPA</span></a><a href="http://www.cispa.hk/" target="_blank">|</a></td>
-<td rowspan="2"><a href="http://www.ibo.org/school/002872/"><img src="/images/stories/newsletterFlash/IB_New_LogoTransparent_Resized.png" alt="IB_New_LogoTransparent_Resized" style="float: right;" height="45" width="45"></a>&nbsp;</td>
+<td class="cdnis_subtitle cdnis_title cdnis_issue" style="text-align: right;" colspan="2"><span style="font-size: 8pt;"><span style="color: #ff0000;"><a href="http://www.cdnis.edu.hk/index.php?option=com_content&amp;view=article&amp;id=303:recruitment&amp;catid=6:about-us&amp;Itemid=203"><span style="color: #ff0000;">Teacher Recruitment</span></a></span></span></td>
+<td rowspan="2"><a href="http://www.ibo.org/school/002872/"><img style="float: right;" src="http://www.cdnis.edu.hk/images/stories/newsletterFlash/Trilingual_IB_logo_Transparent_Small4.png" alt="Trilingual IB logo Transparent Small4" width="50" height="50"></a>&nbsp;</td>
 </tr>
 <tr>
-<td style="text-align: right;"><a href="http://sites.cdnis.edu.hk/school/sports/" target="_blank"><img alt="timberwolves-m" src="/images/stories/home/timberwolves-m.gif" height="14" width="24"></a><a style="color: #ed301e;" href="http://sites.cdnis.edu.hk/school/sports/" target="_blank"><span style="font-size: 8pt;">Timberwolves</span></a>|&nbsp;</td>
-<td>&nbsp;<a href="http://alumni.cdnis.edu.hk/" target="_blank"><img alt="Alumni-logo_resize" src="/images/stories/home/Alumni-logo_resize.gif" height="16" width="16"></a><a style="color: #ed301e;" href="http://alumni.cdnis.edu.hk/" target="_blank"><span style="font-size: 8pt;"> </span></a><a style="color: #ed301e;" href="http://alumni.cdnis.edu.hk/" target="_blank"><span style="font-size: 8pt;">Alumni</span><span style="color: #ffffff;">|</span></a></td>
+<td style="text-align: right;"><a style="font-size: 10.399999618530273px; text-align: right; color: #ed301e;" href="http://sites.cdnis.edu.hk/school/lseca/">Activities</a>|&nbsp;</td>
+<td>&nbsp;<a href="http://www.cispa.hk/" target="_blank"><img style="float: left;" src="http://www.cdnis.edu.hk/images/stories/home/cispaOn_resize.gif" alt="cispa" width="24" height="21"></a><a style="color: #ed301e;" href="http://www.cispa.hk/" target="_blank"><span style="font-size: 8pt;">CISPA</span></a><a style="color: #ed301e;" href="http://alumni.cdnis.edu.hk/" target="_blank"><span style="font-size: 8pt;"><br></span></a></td>
 </tr>
 </tbody>
 </table>							<div class="clear"></div>
@@ -249,7 +248,7 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 					<div class="rt-module-inner">
 						<div class="module-content">
 		                	<form name="rokajaxsearch" id="rokajaxsearch" class="light" action="http://www.cdnis.edu.hk/" method="get">
-<div class="rokajaxsearch">
+<div class="rokajaxsearch ">
 	<div class="roksearch-wrapper">
 		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" value=" Search...">
 	</div>
@@ -352,6 +351,154 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 			
 	</li>	
 									
+							<li class="item30 parent">
+					<span class="daddy item bullet nolink">
+			    <span>
+			        			    Facilities			    			    </span>
+			</span>
+			
+					<div class="fusion-submenu-wrapper level3">
+				<div class="drop-top"></div>
+				<ul class="level3">
+								
+							<li class="item201">
+					<a class="orphan item bullet" href="http://llac.cdnis.edu.hk/" target="_blank">
+				<span>
+			    				Leo Lee Arts Centre				   
+				</span>
+			</a>
+			
+			
+	</li>	
+									
+							<li class="item59">
+					<a class="orphan item bullet" href="/aboutus/facilities/art-music-and-dance-studios.html">
+				<span>
+			    				Art, Music And Dance Studios				   
+				</span>
+			</a>
+			
+			
+	</li>	
+									
+							<li class="item64">
+					<a class="orphan item bullet" href="/aboutus/facilities/sporting-facilities.html">
+				<span>
+			    				Sporting Facilities				   
+				</span>
+			</a>
+			
+			
+	</li>	
+									
+							<li class="item61">
+					<a class="orphan item bullet" href="/aboutus/facilities/media-technology-centre.html">
+				<span>
+			    				Media Technology Centre				   
+				</span>
+			</a>
+			
+			
+	</li>	
+									
+							<li class="item129">
+					<a class="orphan item bullet" href="/aboutus/facilities/it-support.html">
+				<span>
+			    				IT Support/MacBook Programme				   
+				</span>
+			</a>
+			
+			
+	</li>	
+									
+							<li class="item63">
+					<a class="orphan item bullet" href="/aboutus/facilities/science-labs.html">
+				<span>
+			    				Science Labs				   
+				</span>
+			</a>
+			
+			
+	</li>	
+									
+							<li class="item62">
+					<a class="orphan item bullet" href="/aboutus/facilities/library.html">
+				<span>
+			    				Library				   
+				</span>
+			</a>
+			
+			
+	</li>	
+									
+							<li class="item65">
+					<a class="orphan item bullet" href="/aboutus/facilities/administrative-office.html">
+				<span>
+			    				Administrative Office				   
+				</span>
+			</a>
+			
+			
+	</li>	
+									
+							<li class="item66">
+					<a class="orphan item bullet" href="/aboutus/facilities/cafeteria.html">
+				<span>
+			    				Cafeteria				   
+				</span>
+			</a>
+			
+			
+	</li>	
+									
+							<li class="item67 parent">
+					<span class="daddy item bullet nolink">
+			    <span>
+			        			    Additional Services			    			    </span>
+			</span>
+			
+					<div class="fusion-submenu-wrapper level4">
+				<div class="drop-top"></div>
+				<ul class="level4">
+								
+							<li class="item127">
+					<a class="orphan item bullet" href="/aboutus/facilities/additional-services/transportation.html">
+				<span>
+			    				Transportation				   
+				</span>
+			</a>
+			
+			
+	</li>	
+									
+							<li class="item128">
+					<a class="orphan item bullet" href="/aboutus/facilities/additional-services/security.html">
+				<span>
+			    				Security				   
+				</span>
+			</a>
+			
+			
+	</li>	
+									
+							<li class="item130">
+					<a class="orphan item bullet" href="/aboutus/facilities/additional-services/catering.html">
+				<span>
+			    				Catering				   
+				</span>
+			</a>
+			
+			
+	</li>	
+										</ul>
+			</div>
+			
+	</li>	
+										</ul>
+			</div>
+			
+	</li>	
+									
 							<li class="item17 parent">
 					<span class="daddy item bullet nolink">
 			    <span>
@@ -416,16 +563,6 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 			
 	</li>	
 									
-							<li class="item26">
-					<a class="orphan item bullet" href="/aboutus/family-archives.html">
-				<span>
-			    				Family Archives				   
-				</span>
-			</a>
-			
-			
-	</li>	
-									
 							<li class="item202 parent">
 					<span class="daddy item bullet nolink">
 			    <span>
@@ -484,6 +621,16 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 					<a class="orphan item bullet" href="/aboutus/contact-us.html">
 				<span>
 			    				Contact Us				   
+				</span>
+			</a>
+			
+			
+	</li>	
+									
+							<li class="item529">
+					<a class="orphan item bullet" href="http://alumni.cdnis.edu.hk/">
+				<span>
+			    				Alumni				   
 				</span>
 			</a>
 			
@@ -814,10 +961,33 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 			</div>
 			
 	</li>	
+							<li class="item499 parent root">
+					<span class="daddy item bullet nolink">
+			    <span>
+			        			    Giving			    			    </span>
+			</span>
+			
+					<div class="fusion-submenu-wrapper level2">
+				<div class="drop-top"></div>
+				<ul class="level2">
+								
+							<li class="item530">
+					<a class="orphan item bullet" href="/giving/overview.html">
+				<span>
+			    				Overview				   
+				</span>
+			</a>
+			
+			
+	</li>	
+										</ul>
+			</div>
+			
+	</li>	
 							<li class="item29 parent root">
 					<span class="daddy item bullet nolink">
 			    <span>
-			        			    News &amp; Events			    			    </span>
+			        			    News			    			    </span>
 			</span>
 			
 					<div class="fusion-submenu-wrapper level2">
@@ -825,7 +995,7 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 				<ul class="level2">
 								
 							<li class="item52">
-					<a class="orphan item bullet" href="/news-events/overview.html">
+					<a class="orphan item bullet" href="/news/overview.html">
 				<span>
 			    				Overview				   
 				</span>
@@ -835,7 +1005,7 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 	</li>	
 									
 							<li class="item53">
-					<a class="orphan item bullet" href="/news-events/highlight.html">
+					<a class="orphan item bullet" href="/news/highlight.html">
 				<span>
 			    				Highlight				   
 				</span>
@@ -855,7 +1025,7 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 				<ul class="level3">
 								
 							<li class="item183">
-					<a class="orphan item bullet" href="/news-events/newsletters/flash.html">
+					<a class="orphan item bullet" href="/news/newsletters/flash.html">
 				<span>
 			    				Flash				   
 				</span>
@@ -865,7 +1035,7 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 	</li>	
 									
 							<li class="item184">
-					<a class="orphan item bullet" href="/news-events/newsletters/spotlight.html">
+					<a class="orphan item bullet" href="/news/newsletters/spotlight.html">
 				<span>
 			    				Spotlight				   
 				</span>
@@ -875,7 +1045,7 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 	</li>	
 									
 							<li class="item484">
-					<a class="orphan item bullet" href="/news-events/newsletters/board-communication.html">
+					<a class="orphan item bullet" href="/news/newsletters/board-communication.html">
 				<span>
 			    				Board Communication				   
 				</span>
@@ -899,7 +1069,7 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 	</li>	
 									
 							<li class="item55">
-					<a class="orphan item bullet" href="/news-events/press-releases.html">
+					<a class="orphan item bullet" href="/news/press-releases.html">
 				<span>
 			    				Press Releases				   
 				</span>
@@ -909,7 +1079,7 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 	</li>	
 									
 							<li class="item56">
-					<a class="orphan item bullet" href="/news-events/press-clippings.html">
+					<a class="orphan item bullet" href="/news/press-clippings.html">
 				<span>
 			    				Press Clippings				   
 				</span>
@@ -918,8 +1088,8 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 			
 	</li>	
 									
-							<li class="item57">
-					<a class="orphan item bullet" href="/news-events/calendar.html">
+							<li class="item516">
+					<a class="orphan item bullet" href="/news/calendar.html">
 				<span>
 			    				Calendar				   
 				</span>
@@ -929,159 +1099,12 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 	</li>	
 									
 							<li class="item471">
-					<a class="orphan item bullet" href="/news-events/artist-in-residence.html">
+					<a class="orphan item bullet" href="/news/artist-in-residence.html">
 				<span>
 			    				Artist in Residence				   
 				</span>
 			</a>
 			
-			
-	</li>	
-										</ul>
-			</div>
-			
-	</li>	
-							<li class="item30 parent root">
-					<span class="daddy item bullet nolink">
-			    <span>
-			        			    Facilities			    			    </span>
-			</span>
-			
-					<div class="fusion-submenu-wrapper level2">
-				<div class="drop-top"></div>
-				<ul class="level2">
-								
-							<li class="item59">
-					<a class="orphan item bullet" href="/facilities/art-music-and-dance-studios.html">
-				<span>
-			    				Art, Music And Dance Studios				   
-				</span>
-			</a>
-			
-			
-	</li>	
-									
-							<li class="item201">
-					<a class="orphan item bullet" href="http://llac.cdnis.edu.hk/" target="_blank">
-				<span>
-			    				Leo Lee Arts Centre				   
-				</span>
-			</a>
-			
-			
-	</li>	
-									
-							<li class="item61">
-					<a class="orphan item bullet" href="/facilities/media-technology-centre.html">
-				<span>
-			    				Media Technology Centre				   
-				</span>
-			</a>
-			
-			
-	</li>	
-									
-							<li class="item129">
-					<a class="orphan item bullet" href="/facilities/it-support.html">
-				<span>
-			    				IT Support/MacBook Programme				   
-				</span>
-			</a>
-			
-			
-	</li>	
-									
-							<li class="item62">
-					<a class="orphan item bullet" href="/facilities/library.html">
-				<span>
-			    				Library				   
-				</span>
-			</a>
-			
-			
-	</li>	
-									
-							<li class="item63">
-					<a class="orphan item bullet" href="/facilities/science-labs.html">
-				<span>
-			    				Science Labs				   
-				</span>
-			</a>
-			
-			
-	</li>	
-									
-							<li class="item64">
-					<a class="orphan item bullet" href="/facilities/sporting-facilities.html">
-				<span>
-			    				Sporting Facilities				   
-				</span>
-			</a>
-			
-			
-	</li>	
-									
-							<li class="item65">
-					<a class="orphan item bullet" href="/facilities/administrative-office.html">
-				<span>
-			    				Administrative Office				   
-				</span>
-			</a>
-			
-			
-	</li>	
-									
-							<li class="item66">
-					<a class="orphan item bullet" href="/facilities/cafeteria.html">
-				<span>
-			    				Cafeteria				   
-				</span>
-			</a>
-			
-			
-	</li>	
-									
-							<li class="item67 parent">
-					<span class="daddy item bullet nolink">
-			    <span>
-			        			    Additional Services			    			    </span>
-			</span>
-			
-					<div class="fusion-submenu-wrapper level3">
-				<div class="drop-top"></div>
-				<ul class="level3">
-								
-							<li class="item127">
-					<a class="orphan item bullet" href="/facilities/additional-services/transportation.html">
-				<span>
-			    				Transportation				   
-				</span>
-			</a>
-			
-			
-	</li>	
-									
-							<li class="item128">
-					<a class="orphan item bullet" href="/facilities/additional-services/security.html">
-				<span>
-			    				Security				   
-				</span>
-			</a>
-			
-			
-	</li>	
-									
-							<li class="item130">
-					<a class="orphan item bullet" href="/facilities/additional-services/catering.html">
-				<span>
-			    				Catering				   
-				</span>
-			</a>
-			
-			
-	</li>	
-										</ul>
-			</div>
 			
 	</li>	
 										</ul>
@@ -1109,7 +1132,7 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 	</li>	
 									
 							<li class="item396">
-					<a class="orphan item bullet" href="http://www.cdnis.edu.hk/images/stories/pdf/admissions/2013-2014_Application_Deadlines3.pdf?Name=Value">
+					<a class="orphan item bullet" href="http://www.cdnis.edu.hk/images/stories/pdf/admissions/2014-2015_Application_Deadlines.pdf?Name=Value">
 				<span>
 			    				Admission Application Deadlines				   
 				</span>
@@ -1129,9 +1152,9 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 	</li>	
 									
 							<li class="item221">
-					<a class="orphan item bullet" href="/admissions/20122013-tuition-fee-structure.html">
+					<a class="orphan item bullet" href="/admissions/20132014-tuition-fee-structure.html">
 				<span>
-			    				2012-2013 Tuition Fee Structure and Payment Policy				   
+			    				2013-2014 Tuition Fee Structure and Payment Policy				   
 				</span>
 			</a>
 			
@@ -1201,6 +1224,16 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 				<div class="drop-top"></div>
 				<ul class="level3">
 								
+							<li class="item505">
+					<a class="orphan item bullet" href="/facts/scholarships/2014-15-g11-scholarship.html">
+				<span>
+			    				2014/15 Grade 11 Scholarship				   
+				</span>
+			</a>
+			
+			
+	</li>	
+									
 							<li class="item211">
 					<a class="orphan item bullet" href="/facts/scholarships/alan-dick-memorial-fund.html">
 				<span>
@@ -1319,6 +1352,29 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 					<a class="orphan item bullet" href="/facts/parent-handbook.html">
 				<span>
 			    				Parent Handbook				   
+				</span>
+			</a>
+			
+			
+	</li>	
+										</ul>
+			</div>
+			
+	</li>	
+							<li class="item525 parent root">
+					<span class="daddy item bullet nolink">
+			    <span>
+			        			    Parent Portal			    			    </span>
+			</span>
+			
+					<div class="fusion-submenu-wrapper level2">
+				<div class="drop-top"></div>
+				<ul class="level2">
+								
+							<li class="item526">
+					<a class="orphan item bullet" href="https://portal.cdnis.edu.hk/">
+				<span>
+			    				Parent Portal Login				   
 				</span>
 			</a>
 			
@@ -1487,8 +1543,6 @@ ul.sigProClassic li.sigProThumb a.sigProLink:hover img.sigProImg_2 { display:non
 									</div>
 											</div></div>
 												
-
-<a href="http://www.pornodi.com" rel="dofollow">www.pornodi.com</a>
 
 
 
