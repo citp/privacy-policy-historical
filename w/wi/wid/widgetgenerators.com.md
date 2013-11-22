@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the widgetgenerators.com privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417094941id_/http%3A//widgetgenerators.blogspot.com/p/privacy-policy-of-widget-generators.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widgetgenerators.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123003947id_/http%3A//www.widgetgenerators.com/p/privacy-policy-of-widget-generators.html) for the most accurate reproduction.*
 
 # Privacy Policy of Widget Generators | Widget Generators
 
