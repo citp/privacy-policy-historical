@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dksh.com privacy policy that was archived on 2013-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520232005id_/http%3A//www.dksh.com/htm/634/en/Privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dksh.com privacy policy that was archived on 2013-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131122053242id_/http%3A//www.dksh.com/htm/634/en/Privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -7,10 +7,11 @@
 <base href="http://www.dksh.com/data/">
 <meta name="pc3LogPath" content="/en/Privacy.html">
 <!-- this page was produced using the content management system (CMS) PC3 by The Toolpark Corporation AG (www.toolpark.com). License issued to DKSH -->
-<link rel="stylesheet" href="http://www.dksh.com/data/style/htm/en/Hauptstil/common.css" type="text/css">
+<link rel="stylesheet" href="http://www.dksh.com/data/style/htm/en/Hauptstil/reset_common.css" type="text/css">
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.dksh.com/data/js/5/common_prototype_form_swfobject_scriptaculous_effects_popup_tweener_widget_ajax_scroller.js" type="text/javascript"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.dksh.com/data/js/htm/8/common_prototype_form_swfobject_scriptaculous_effects_pc3lib.almond_popup_tweener_widget_ajax_scroller.js" type="text/javascript"></script>
 	<script src="http://www.dksh.com/data/docs/download/1162/en/dksh-classes12.js" type="text/javascript"></script>
+	<script src="http://www.dksh.com/data/docs/download/93017/en/mobile-agent-handling.js" type="text/javascript"></script>
 
 <script type="text/javascript">function startAjaxFileupload( formId, fieldId, frameId, target ){
 	placeiFrame( frameId, target, fieldId, "ajaxFileUploadComplete" );
@@ -126,40 +127,7 @@ var xEncryptionKey = 'jd883hcjs433sdfse3d';
 		position: relative !important;
 	}
 }
-</style><a href="http://mobile.dksh.com/htm/960/en/Homepage.htm" id="linkToMobileSite"></a>
-<script type="text/javascript">// returns true, if "mobile" cookie is set by pc3
-function isSetMobileCookie(){
-	var dc = document.cookie;
-	var prefix = "UserAgentGroup=";
-	var begin = dc.indexOf("; " + prefix);
-	if (begin == -1){
-	    begin = dc.indexOf(prefix);
-	    if (begin != 0) return false;
-	}
-	else{
-	    begin += 2;
-	}
-	var end = dc.indexOf(";", begin);
-	if (end == -1){
-	    end = dc.length;
-	}
-	var cookievalue = unescape(dc.substring(begin + prefix.length, end));
-	if(cookievalue.toLowerCase() == 'mobile') return true;
-	else return false;
-}
-
-// displays the mobileNotification-Box
-if(isSetMobileCookie()){
-	var mobileBoxLinkURL = document.getElementById('linkToMobileSite').href;
-	var mobileBoxTextBeforeURL = "Change to the";
-	var mobileBoxTextURL = "mobile website view";
-	
-	var mobileBox = document.createElement('div');
-	mobileBox.setAttribute('id', 'mobileNotification');
-	mobileBox.innerHTML = '<p>' + mobileBoxTextBeforeURL + ' <a href="' + mobileBoxLinkURL + '">' + mobileBoxTextURL + '</a></p>';
-	
-	document.getElementsByTagName('body')[0].insertBefore(mobileBox, document.getElementsByTagName('body')[0].firstChild);
-}
+</style><a href="http://mobile.dksh.com/htm/960/en/Homepage.htm" id="linkToMobileSite"></a><script type="text/javascript">PC3.require('DKSH/mobileAgentHandling').init("Change to the","mobile website view");
 </script>
 
  <script type="text/javascript">pc3PopupDesignData["lightbox1"] = {"ajaxContentId":"brick","placeholders":null,"positionChilds":"relative","behaviour":"attachedToEndposition","open":{"trigger":"click"},"close":{"trigger":["clickOutsidePopup"]},"background":{"enabled":"1","color":"#000000","opacity":"60"},"shadow":{"enabled":"1","color":"#000000","blurRadius":"5","opacity":"50","marginTop":"-2","marginRight":"4","marginBottom":"9","marginLeft":"4","cornerSize":"21","imageTop":"docs\/download\/1020\/en\/Schatten-Oben.png","imageRight":"docs\/download\/1021\/en\/Schatten-Rechts.png","imageBottom":"docs\/download\/1022\/en\/Schatten-Unten.png","imageLeft":"docs\/download\/1019\/en\/Schatten-Links.png"}};
@@ -179,7 +147,8 @@ if(isSetMobileCookie()){
 	window.pc3AjaxContentObjects["brick"] = new pc3AjaxContent("brick",null,null,null,null,null);
 </script></div></div></div><div id="page-section"><a name="top"></a><div id="page-header"><div class="wrap"><div id="logo"><a href="http://www.dksh.com/htm/357/en/Homepage.htm"><img src="docs/download/1145/en/DKSH-Logo.gif" width="181" height="120" alt="DKSH Logo"><br>
 </a></div>
-<div id="meta-nav"><script type="text/javascript">pc3PopupDesignData["MetanavFlyout"] = {"ajaxContentId":false,"placeholders":["Content"],"positionChilds":"relative","behaviour":"attachedToEndposition","open":{"trigger":"click","delay":"0","duration":"0","animation":"easeIn","animationPath":"straight","animationType":"visible"},"close":{"trigger":["clickOutsidePopup"],"delay":"0","duration":"0.3","animation":"easeOut","animationPath":"straight","animationType":"visible"},"background":{"color":"#FFFFFF","opacity":"100"},"shadow":{"color":"#FFFFFF"}};
+<script type="text/javascript">pc3PopupDesignData["lightboxleavewebsite"] = {"ajaxContentId":false,"placeholders":["OK"],"positionChilds":"relative","behaviour":"attachedToEndposition","open":{"trigger":"click"},"close":{"trigger":["clickOutsidePopup"]},"background":{"enabled":"1","color":"#000000","opacity":"60"},"shadow":{"enabled":"1","color":"#000000","blurRadius":"5","opacity":"50","marginTop":"-2","marginRight":"4","marginBottom":"9","marginLeft":"4","cornerSize":"21","imageTop":"docs\/download\/1020\/en\/Schatten-Oben.png","imageRight":"docs\/download\/1021\/en\/Schatten-Rechts.png","imageBottom":"docs\/download\/1022\/en\/Schatten-Unten.png","imageLeft":"docs\/download\/1019\/en\/Schatten-Links.png"}};
+</script><div class="pc3popupdesign lightbox1" id="lightboxleavewebsite"><div class="zoom-section content"><div class="zoom-body"><a href="javascript: void(0);" onclick="pc3Widget.closePopup(this);" class="close">Close<img src="docs/download/1028/en/Icon-Close.gif" width="8" height="7" alt="Icon Close"></a><div class="OK"></div></div></div></div><div id="meta-nav"><script type="text/javascript">pc3PopupDesignData["MetanavFlyout"] = {"ajaxContentId":false,"placeholders":["Content"],"positionChilds":"relative","behaviour":"attachedToEndposition","open":{"trigger":"click","delay":"0","duration":"0","animation":"easeIn","animationPath":"straight","animationType":"visible"},"close":{"trigger":["clickOutsidePopup"],"delay":"0","duration":"0.3","animation":"easeOut","animationPath":"straight","animationType":"visible"},"background":{"color":"#FFFFFF","opacity":"100"},"shadow":{"color":"#FFFFFF"}};
 </script><div class="pc3popupdesign flyouts" id="MetanavFlyout" style="border-width:1px; border-color:#D6D6D7; border-style:solid;"><div class="metanav-flyout"><div class="Content"></div></div></div>
 <ul>
 <li><a href="http://www.dksh.com/htm/302/en/Home.htm" class="country" style="width:58px; background-position:0px -20px;">DKSH.com</a></li>
@@ -228,7 +197,7 @@ if(isSetMobileCookie()){
 <li><a href="http://www.dksh.com/htm/316/en/Sitemap.htm" class="sitemap" style="width:46px;">Sitemap</a></li>
 <li><a href="http://www.dksh.com/htm/383/en/Search.htm" id="Search" class="searchfield" style="width:38px;">Search</a>
 <script type="text/javascript">pc3PopupData.push({"triggerId":"Search","designId":"MetanavFlyout","groupName":"MenuFlyout","initialState":"closed","fullscreen":false,"application":"default","fixedContentWidth":0,"fixedContentHeight":0,"origin":{"element":"atEndPosition"},"opened":{"element":"triggerElement","position":"topLeftInside","marginTop":"-10px","marginLeft":"-11px"},"closed":{"element":"atEndPosition","position":"leftTopOutside"}});
-</script><div id="Search_MetanavFlyoutData" class="pc3popupdata"><div class="Content"><div class="metanav-search content" style="width:219px;"><form method="get" onsubmit="return true;" action="http://www.dksh.com/htm/383/en/Search.htm" enctype="multipart/form-data" id="pc3518d0532a3d08"><p class="searchfield-selected" style="width:38px;">Search</p><input type="text" size="40" value="" name="Search" class="medium"><input type="submit" value="" onclick="return pc3SubmitLink(&quot;pc3518d0532a3d08&quot;,null,1);" class="button search" style="width:59px; background-position:-601px 0px;"></form></div></div></div></li>
+</script><div id="Search_MetanavFlyoutData" class="pc3popupdata"><div class="Content"><div class="metanav-search content" style="width:219px;"><form method="get" onsubmit="return true;" action="http://www.dksh.com/htm/383/en/Search.htm" enctype="multipart/form-data" id="pc3528cd5df02038"><p class="searchfield-selected" style="width:38px;">Search</p><input type="text" size="40" value="" name="Search" class="medium"><input type="submit" value="" onclick="return pc3SubmitLink(&quot;pc3528cd5df02038&quot;,null,1);" class="button search" style="width:59px; background-position:-601px 0px;"></form></div></div></div></li>
 <li id="LanguageDropdown"><a href="javascript: void(0);" id="meta_682" class="languages" style="width:62px;">Language</a>
 <script type="text/javascript">pc3PopupData.push({"triggerId":"meta_682","designId":"MetanavFlyout","groupName":"MenuFlyout","initialState":"closed","fullscreen":false,"application":"default","fixedContentWidth":0,"fixedContentHeight":0,"origin":{"element":"atEndPosition"},"opened":{"element":"triggerElement","position":"topLeftInside","marginTop":"-10px","marginLeft":"-11px"},"closed":{"element":"atEndPosition","position":"leftTopOutside"}});
 </script><div id="meta_682_MetanavFlyoutData" class="pc3popupdata"><div class="Content"><p class="languages-selected" style="width:62px;">Language</p><p></p>
@@ -383,22 +352,22 @@ if(isSetMobileCookie()){
  </div></div></div></div></div></div>
 
  </div><div id="page-footer" class="clearfix">
-<div id="signatur"><div id="conditions"><span>© DKSH Management Ltd./DKSH Holding Ltd.</span><a href="http://www.dksh.com/htm/633/en/Terms-and-Conditions.htm" rel="nofollow">Terms and Conditions</a><a href="http://www.dksh.com/htm/634/en/Privacy.htm" class="selected" rel="nofollow">Privacy</a><a href="http://www.dksh.com/htm/537/en/Imprint.htm" rel="nofollow">Imprint</a></div><a href="javascript: void(0);" id="sharethistrigger" style="float:left;">Share this page</a><script type="text/javascript">pc3PopupDesignData["sharethisdesign"] = {"ajaxContentId":"shareAjaxContent","placeholders":null,"positionChilds":"relative","open":{"trigger":"mouseover","duration":"0.1"},"close":{"trigger":["mouseout"]}};
+<div id="signatur"><div id="conditions"><span>© DKSH Management Ltd./DKSH Holding Ltd.</span><a href="http://www.dksh.com/htm/633/en/Terms-and-conditions.htm" rel="nofollow">Terms and conditions</a><a href="http://www.dksh.com/htm/634/en/Privacy.htm" class="selected" rel="nofollow">Privacy</a><a href="http://www.dksh.com/htm/537/en/Imprint.htm" rel="nofollow">Imprint</a></div><a href="javascript: void(0);" id="sharethistrigger" style="float:left;">Share this page</a><script type="text/javascript">pc3PopupDesignData["sharethisdesign"] = {"ajaxContentId":"shareAjaxContent","placeholders":null,"positionChilds":"relative","open":{"trigger":"mouseover","duration":"0.1"},"close":{"trigger":["mouseout","clickOutsidePopup"]}};
 </script><div class="pc3popupdesign" id="sharethisdesign"><div style="display:none" id="shareAjaxContent_onRequestContent"><div id="favthiswindow" class="popup-share" style="background-color:#FFFFFF; height:100px;"><img src="docs/download/1027/en/Ajax-Loader.gif" width="16" height="16" alt="Ajax Loader"><br>
 </div></div><div id="shareAjaxContent"><!-- AjaxContent shareAjaxContent start --><!-- AjaxContent shareAjaxContent end --></div>
 <script type="text/javascript">
 	if ( !window.pc3AjaxContentObjects ) window.pc3AjaxContentObjects = {}
 	window.pc3AjaxContentObjects["shareAjaxContent"] = new pc3AjaxContent("shareAjaxContent",null,null,null,null,null);
 </script></div>
-<script type="text/javascript">pc3PopupData.push({"triggerId":"sharethistrigger","designId":"sharethisdesign","groupName":false,"initialState":"closed","fullscreen":false,"application":"default","fixedContentWidth":0,"fixedContentHeight":0,"ajaxLink":"http:\/\/www.dksh.com\/htm\/inline\/326\/c23280\/niDSVC\/html\/634\/en\/Privacy.htm","ajaxContentId":"shareAjaxContent","ajaxContentCustomWidth":0,"ajaxContentCustomHeight":0,"origin":{"element":"triggerElement","position":"atElement","marginTop":"-33px","marginLeft":"-90px"},"opened":{"element":"triggerElement","position":"atElement","marginTop":"-33px","marginLeft":"-90px"},"closed":{"element":"triggerElement","position":"atElement","marginTop":"-33px","marginLeft":"-90px"}});
-</script><div id="sharethistrigger_sharethisdesignData" class="pc3popupdata"></div><a href="http://www.dksh.com/htm/634/en/Privacy.htm" onclick="pc3AjaxContent.requestLink(event,this,&quot;favthiscontent&quot;);" id="favThis" style="float:left;">Favorite page</a><script type="text/javascript">pc3PopupDesignData["favthisdesign"] = {"ajaxContentId":"favAjaxContent","placeholders":null,"positionChilds":"relative","open":{"trigger":"mouseover","duration":"0.1"},"close":{"trigger":["mouseout"]}};
+<script type="text/javascript">pc3PopupData.push({"triggerId":"sharethistrigger","designId":"sharethisdesign","groupName":"sharefav","initialState":"closed","fullscreen":false,"application":"default","fixedContentWidth":0,"fixedContentHeight":0,"ajaxLink":"http:\/\/www.dksh.com\/htm\/inline\/326\/c7867\/SomdlI\/html\/634\/en\/Privacy.htm","ajaxContentId":"shareAjaxContent","ajaxContentCustomWidth":0,"ajaxContentCustomHeight":0,"origin":{"element":"triggerElement","position":"atElement","marginTop":"-33px","marginLeft":"-90px"},"opened":{"element":"triggerElement","position":"atElement","marginTop":"-33px","marginLeft":"-90px"},"closed":{"element":"triggerElement","position":"atElement","marginTop":"-33px","marginLeft":"-90px"}});
+</script><div id="sharethistrigger_sharethisdesignData" class="pc3popupdata"></div><a href="http://www.dksh.com/htm/634/en/Privacy.htm" onclick="pc3AjaxContent.requestLink(event,this,&quot;favthiscontent&quot;);" id="favThis" style="float:left;">Favorite page</a><script type="text/javascript">pc3PopupDesignData["favthisdesign"] = {"ajaxContentId":"favAjaxContent","placeholders":null,"positionChilds":"relative","open":{"trigger":"mouseover","duration":"0.1"},"close":{"trigger":["mouseout","clickOutsidePopup"]}};
 </script><div class="pc3popupdesign" id="favthisdesign"><div style="display:none" id="favAjaxContent_onRequestContent"><div id="favthiswindow" class="popup-share" style="background-color:#FFFFFF; height:100px;"><img src="docs/download/1027/en/Ajax-Loader.gif" width="16" height="16" alt="Ajax Loader"><br>
 </div></div><div id="favAjaxContent"><!-- AjaxContent favAjaxContent start --><!-- AjaxContent favAjaxContent end --></div>
 <script type="text/javascript">
 	if ( !window.pc3AjaxContentObjects ) window.pc3AjaxContentObjects = {}
 	window.pc3AjaxContentObjects["favAjaxContent"] = new pc3AjaxContent("favAjaxContent",null,null,null,null,null);
 </script></div>
-<script type="text/javascript">pc3PopupData.push({"triggerId":"favThis","designId":"favthisdesign","groupName":false,"initialState":"closed","fullscreen":false,"application":"default","fixedContentWidth":0,"fixedContentHeight":0,"ajaxLink":"http:\/\/www.dksh.com\/htm\/inline\/326\/c23280\/lGgLhE\/html\/634\/en\/Privacy.htm","ajaxContentId":"favAjaxContent","ajaxContentCustomWidth":0,"ajaxContentCustomHeight":0,"origin":{"element":"triggerElement","position":"atElement","marginTop":"-33px","marginLeft":"-90px"},"opened":{"element":"triggerElement","position":"atElement","marginTop":"-33px","marginLeft":"-90px"},"closed":{"element":"triggerElement","position":"atElement","marginTop":"-33px","marginLeft":"-90px"}});
+<script type="text/javascript">pc3PopupData.push({"triggerId":"favThis","designId":"favthisdesign","groupName":"sharefav","initialState":"closed","fullscreen":false,"application":"default","fixedContentWidth":0,"fixedContentHeight":0,"ajaxLink":"http:\/\/www.dksh.com\/htm\/inline\/326\/c7867\/DNpcQW\/html\/634\/en\/Privacy.htm","ajaxContentId":"favAjaxContent","ajaxContentCustomWidth":0,"ajaxContentCustomHeight":0,"origin":{"element":"triggerElement","position":"atElement","marginTop":"-33px","marginLeft":"-90px"},"opened":{"element":"triggerElement","position":"atElement","marginTop":"-33px","marginLeft":"-90px"},"closed":{"element":"triggerElement","position":"atElement","marginTop":"-33px","marginLeft":"-90px"}});
 </script><div id="favThis_favthisdesignData" class="pc3popupdata"></div></div>
 <a href="javascript: void(0);" id="trigger_634" class="recommend">Recommend page</a><script type="text/javascript">pc3PopupData.push({"triggerId":"trigger_634","designId":"lightbox1","groupName":"lightbox1","initialState":"closed","fullscreen":false,"application":"default","fixedContentWidth":0,"fixedContentHeight":0,"ajaxLink":"http:\/\/www.dksh.com\/htm\/389\/en\/Contact.htm?Form=Recommend&AjaxId=ajaxtrigger_634&LinkID=634&PageTitle=","ajaxContentId":"ajaxtrigger_634","ajaxContentCustomWidth":0,"ajaxContentCustomHeight":0,"origin":{"element":"atEndPosition","marginTop":"10px","marginLeft":"10px"},"opened":{"element":"parentElement","position":"centerCenter"},"closed":{"element":"atEndPosition"}});
 </script><div id="trigger_634_lightbox1Data" class="pc3popupdata"></div><a href="javascript:void  window.open(%22http%3A%5C%2F%5C%2Fwww.dksh.com%5C%2Fhtm%5C%2F634%5C%2Fen%5C%2FPrivacy.htm%3FcmsOutput%3Dprint%22,%22print%22,%22height%3D768%2Cwidth%3D765%2Cresizable%3Dno%2Cscrollbars%3Dyes%2Clocation%3Dno%2Cmenubar%3Dyes%2Ctoolbar%3Dno%2Cstatus%3Dno%22);" class="print">Print page</a>
@@ -409,5 +378,4 @@ if(isSetMobileCookie()){
 var pc3PageOnLoad = function(){
 pc3WidgetInit();
 };
-</script>
-</body></html>
+</script></body></html>
