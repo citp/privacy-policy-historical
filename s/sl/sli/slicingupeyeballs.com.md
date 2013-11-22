@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slicingupeyeballs.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524183010id_/http%3A//www.slicingupeyeballs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slicingupeyeballs.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122112758id_/http%3A//www.slicingupeyeballs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | slicing up eyeballs // 80s alternative music, college rock, indie
+# Privacy Policy — slicing up eyeballs // 80s alternative music, college rock, indie
 
 At **Slicing Up Eyeballs,** the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that are received and collected by **slicingupeyeballs.com** and how that information is used.
 
