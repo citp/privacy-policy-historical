@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeisgood.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615152752id_/http%3A//www.lifeisgood.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeisgood.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122142601id_/http%3A//www.lifeisgood.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Life is good Privacy Policy
 
