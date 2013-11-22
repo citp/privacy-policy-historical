@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the riyasewana.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602104216id_/http%3A//riyasewana.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riyasewana.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123001658id_/http%3A//riyasewana.com/privacy.php) for the most accurate reproduction.*
 
 # Riyasewana.com Privacy Policy
 
-## Privacy Policy for www.riyasewana.com
+## Privacy Policy for riyasewana.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@riyasewana.com. 
 
