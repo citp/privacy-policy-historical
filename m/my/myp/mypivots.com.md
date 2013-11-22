@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the mypivots.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517144950id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypivots.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123005417id_/http%3A//www.mypivots.com/page/details/privacy) for the most accurate reproduction.*
 
-# Privacy
+# 
+
+No registration required! ([Why?](https://web.archive.org/help/features)) 
+
+  * [MyPivots Site Map](https://web.archive.org/page)
+  * Privacy
+
+
 
 ### General Principles
 
@@ -19,7 +26,7 @@ MyPivots maintains a database of email addresses of users who have:
 
 The contents of this database (including e-mail and postal addresses) are treated as confidential and are never published or shared with any other party (in part or as whole). 
 
-You can remove yourself from the database at any time by [ e-mailing us](https://web.archive.org/deltat/contact.aspx) or clicking the unsubscribe link at the bottom of any email. 
+You can remove yourself from the database at any time by  e-mailing us or clicking the unsubscribe link at the bottom of any email. 
 
 ### Sending of Email Messages
 
@@ -38,17 +45,17 @@ In all cases:
 
 The MyPivots web site uses cookies on some pages to enhance your experience by remembering previous values that you used so that you don't have to enter them again. 
 
-The [Day Trading Forum](https://web.archive.org/board) uses cookies if you elect to have your username and password remembered. 
+The Day Trading Forum uses cookies if you elect to have your username and password remembered. 
 
 Google, as a third party vendor, uses cookies to serve ads on our site. 
 
 Google's use of the DART cookie enables it to serve ads to you based on your visit to our sites and other sites on the Internet. 
 
-You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 ### Contact us
 
-Please [e-mail us](https://web.archive.org/deltat/contact.aspx) if you have any concerns, or if you wish to have any information that you have provided removed from our files. 
+Please e-mail us if you have any concerns, or if you wish to have any information that you have provided removed from our files. 
 
 * * *
 
@@ -56,11 +63,11 @@ Please [e-mail us](https://web.archive.org/deltat/contact.aspx) if you have any 
 
 ### Privacy Policy
 
-This is a privacy policy for **http://www.mypivots.com**
+This is a privacy policy for **http://www.placeholder.com**
 
 ### Contact Information
 
-Our homepage on the Internet is located at [http://www.mypivots.com](https://web.archive.org/)
+Our homepage on the Internet is located at http://www.placeholder.com
 
 * * *
 
@@ -79,7 +86,7 @@ We do not collect any identifiable data about our visitors.
 
 * * *
 
-### [Cookies](https://web.archive.org/web/20130517144950id_/http%3A//www.mypivots.com/page.aspx%3Fpage%3Dprivacy?page=cookies)
+###  Cookies
 
 Cookies are used to enhance your browsing experience by remember previously used settings. 
 
