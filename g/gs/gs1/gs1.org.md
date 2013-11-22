@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gs1.org privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508074925id_/http%3A//www.gs1.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gs1.org privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122031309id_/http%3A//www.gs1.org/privacy) for the most accurate reproduction.*
 
 # | GS1 - The global language of business
 
