@@ -1,15 +1,25 @@
-> *The following text is extracted and transformed from the buzzya.com privacy policy that was archived on 2007-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071110071843id_/http%3A//www.buzzya.com/templates/elements/almondnet.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzya.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122153636id_/http%3A//buzzya.com/privacy-policy) for the most accurate reproduction.*
 
-# Our Use of Your Information
+# Privacy Policy | BUZZYA
 
-In general, you can browse a large portion of this site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. You will be notified when your personal information is collected by any third party that is not our agent/service provider so that you can make an informed choice as to whether or not to share your information with that party.
+**General  
+**Buzzya.com respects the privacy of every individual who visits our website. This Privacy Statement outlines the information buzzya.com will collect and how we will use that information. This Statement will also instruct you on what to do if you do not want your personal information collected when you visit our website.
 
-We may automatically collect certain information based upon your behavior on the site. We use this information to do internal research on our users' demographics, interests, and behavior in order to serve our users better. This information may include the URL that you come from or go to (whether this URL is on the site or not), your computer browser information, and your IP address.
+**Personal Information  
+**Buzzya.com will not collect your name, address, telephone number, or e-mail address unless you provide it to us voluntarily. However, we may attempt to collect such information if we believe your use of this website violates any laws. If you do not want this information collected, please do not submit it to us.
 
-We allow advertisers and other business partners to place "cookies" onto your computer when you visit this website. These "cookies" are placed to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit. That information is used to show you advertisements tailored to your interests on this and other websites, and/or to keep track of your response to each ad. If you would like more information about this practice and would like to know your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+If you have already submitted this information and would like for us to remove it from our records, please contact us at the e-mail address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
 
-Please be advised that we have no access to or control over our business partner's "cookies". This privacy statement covers the use of "cookies" by this site only and does not cover the use of "cookies" by any advertisers.
+When you do provide us with personal information, we may use that information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our services. We may also use that information to contact you. However, we will not provide that information to third parties.
 
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities on the site, we may collect such information into a file specific to you.
+**Children  
+**Buzzya.com has no intention of collecting any personal information (that is, name, address, telephone number, or e-mail address) from individuals under eighteen years of age. Where appropriate, we will specifically instruct children not to submit such information on our website. If a child has provided us with personally-identifiable information, a parent or guardian of that child should contact us at the e-mail address listed at the bottom of this Statement to request that this information be deleted from our records. We will use reasonable efforts to delete the child’s information from our existing files.
 
-You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your perceived interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the site. Through your access and use of this site, you hereby expressly agree to receive this information.
+**Other Information Collected Automatically  
+**In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our website.
+
+**Information We May Place Automatically On Your Computer’s Hard Drive  
+**When you view our website, we may store some information on your computer. This information will be in the form of a “Cookie” or similar file and will help us in many ways. For example, Cookies allow us to tailor our website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
+
+**Who to Contact  
+**If you have submitted personal information through this website and would like that information deleted from our records, please contact us at the following e-mail address: [privacy@buzzya.com](mailto:privacy@buzzya.com) we will use reasonable efforts to delete your information from our existing files.
