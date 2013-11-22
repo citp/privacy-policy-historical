@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlox.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525160040id_/http%3A//www.wlox.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlox.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122180936id_/http%3A//www.wlox.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WLOX.com - The News for South Mississippi
 
