@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petrasplanet.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504175949id_/http%3A//www.petrasplanet.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petrasplanet.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122153458id_/http%3A//www.petrasplanet.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Petra’s Planet Virtual World For Kids » Privacy Policy
 
@@ -6,11 +6,18 @@
 
 This privacy statement describes how Dramaforum Oy (“Dramaforum”) collects and uses the personal information you provide on our Web site: www.petrasplanet.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Dramaforum Oy has been awarded TRUSTe’s Web Privacy Seal and Children’s Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.petrasplanet.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [admin@dramaforum.fi](mailto:admin@dramaforum.fi).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [admin@dramaforum.fi](mailto:admin@dramaforum.fi).
 
-**1\. Name of Controller**  
-Dramaforum Oy (“Dramaforum”)  
-Metsänneidonkuja 6, 02130 Espoo
+**1\. Name of Controller  
+**Dramaforum Transmedia  
+2300-1066 West Hastings  
+Vancouver, Canada  
+V6E 3X2
+
+Dramaforum Oy  
+Metsänneidonkuja 6  
+FI-02130 Espoo  
+Finland
 
 **2\. Name of the Data File**  
 Petra’s Planet (the “Service”) End User Database
