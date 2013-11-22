@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2lolz.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531052450id_/http%3A//2lolz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2lolz.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122081833id_/http%3A//2lolz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 2lolz.com
 
