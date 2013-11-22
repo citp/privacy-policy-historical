@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desmogblog.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603124053id_/http%3A//desmogblog.com/privacy-policy-desmog) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desmogblog.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122015648id_/http%3A//www.desmogblog.com/privacy-policy-desmog) for the most accurate reproduction.*
 
 # Privacy Policy | DeSmogBlog
 
