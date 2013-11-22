@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2013-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130522000755id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abfs.com privacy policy that was archived on 2013-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131122080619id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>ABF Freight System, Inc. - Privacy Policy</title>
@@ -15,7 +15,7 @@
 
 </script>
 
-   <script type="text/javascript" src="/Include/PrintEmail-STC.js?V=1.42"></script>
+   <script type="text/javascript" src="/Include/PrintEmail-STC.js?V=1.43"></script>
    <script type="text/javascript" src="/tools/js/accountinfo/login.js?V=1.5"></script><script language="Javascript" src="/ABFGlobal/Include/ajax-STC.js?V=1.4"></script>
 <script language="javascript">
 <!--
@@ -226,9 +226,9 @@ function createElement(index,ver)
 // -->
 </script>
 <script type="text/javascript" src="/include/Menu.js?V=1.28"></script>
-<script type="text/javascript" src="/include/pop_msgs.js?V=1.75"></script>
+<script type="text/javascript" src="/include/pop_msgs.js?V=1.76"></script>
 
-<link href="/style/main_style_new.css?V=1.20" rel="stylesheet" type="text/css">
+<link href="/style/main_style_new.css?V=1.22" rel="stylesheet" type="text/css">
 <link href="/style/ajax.css" rel="stylesheet" type="text/css">
 
 <script type="text/javascript">
@@ -246,6 +246,12 @@ function createElement(index,ver)
    })();
 
    $(function () {
+      var logisticsPage = (document.URL.indexOf("services/multimodal") > 0 || document.URL.indexOf("services/supplychain") > 0);
+      if (logisticsPage) {
+         var pageTitle = $('title').html().replace(/&nbsp;/g, " ").split(" - ")[1];
+         document.title = "ABF - " + pageTitle;
+      }
+
       $('body').keydown(function (e) {
          if (ie4 && e.ctrlKey && e.shiftKey && hotkeys[e.keyCode]) {
             _et.Track(hotkeys[e.keyCode].name, _et.HOTKEY);
@@ -335,7 +341,7 @@ txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu1\"><a class=\"Na
 txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/ltlquotes/?NCHK=ATP\">LTL Rate Quote</a></td></tr>"
 txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/timekeeper/?NCHK=ATP\">TimeKeeper (time sensitive)</a></td></tr>"
 txt = txt + "<tr><td width=5></td><td width=10></td><td><span class=\"small\"><a class=\"NavMenu2\" href=\"javascript:void(window.open('http://www.upack.com?refnum=ABFSHIP'));\">U-Pack Residential Moving</a>&nbsp;<img src=\"/images/popup1.gif\" width=\"9\" height=\"9\"></span><span class=\"small2\"></span></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td><span class=\"small\"><a class=\"NavMenu2\" href=\"javascript:void(window.open('http://www.freightvalue.com/tools/quote/default.asp?refnum=ABFTOOL'));\">FreightValue</a>&nbsp;<img src=\"/images/popup1.gif\" width=\"9\" height=\"9\"></span><span class=\"small2\"></span></td></tr>"
+txt = txt + "<tr><td width=5></td><td width=10></td><td><span class=\"small\"><a class=\"NavMenu2\" href=\"javascript:void(window.open('http://www.abfmultimodal.com/tools/quote/default.asp?refnum=ABFTOOL'));\">Multimodal</a>&nbsp;<img src=\"/images/popup1.gif\" width=\"9\" height=\"9\"></span><span class=\"small2\"></span></td></tr>"
 txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/services/tradeshow.asp?NCHK=ATP\">Trade Show Shipping</a></td></tr>"
 txt = txt + "<tr><td height=5></td></tr>"
 txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu3\">Document Preparation</td></tr>"
@@ -391,7 +397,7 @@ txt = txt + "<TABLE BORDER=\"0\" CELLPADDING=\"1\" CELLSPACING=\"0\">"
 txt = txt + "<tr><td height=3></td></tr>"
 txt = txt + "<tr><td width=5></td><td colspan=2 class=\"NavMenu3\">Logistics Planning</td></tr>"
 txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/multiship/?NCHK=ATP\">MultiShipment Tender</a> <img SRC='/images/lock2.gif'></td></tr>"
-txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/supplychain/?NCHK=ATP\">Global Supply Chain Services</a></td></tr>"
+txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/services/global?NCHK=ATP\">Global</a></td></tr>"
 txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/timekeeper/resourcecenter/?NCHK=ATP\">TimeKeeper Resource Center</a></td></tr>"
 txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/returns/?NCHK=ATP\">Returns Center</a> <img SRC='/images/lock2.gif'></td></tr>"
 txt = txt + "<tr><td width=5></td><td width=10></td><td class=\"NavMenu2\"><a class=\"NavMenu2\" href=\"/tools/director/?NCHK=ATP\">Shipment Director</a> <img SRC='/images/lock2.gif'></td></tr>"
@@ -417,12 +423,14 @@ txt = txt + "</TABLE></TD></TR></TABLE>"
 }
 // -->
 </script>
-<script language="JavaScript" src="/Include/OverLib-STC.js?V=1.58"></script><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<script language="JavaScript" src="/Include/OverLib-STC.js?V=1.63"></script><table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
 <td valign="top">
 <div id="header">
-<div id="header-logo"><a data-track="ABF Logo" href="/" alt="Home"><img src="/images/new/logo.png" border="0"></a></div>
-<div id="header-control">Take Control<sup>®</sup></div>
+<div id="header-logo"><a data-track="ABF Logo" href="/" alt="Home"><img id="abflogo-hi-res" style="position:absolute;top:3px;left:7px;" src="/images/new/logo.png" border="0"></a></div>
+<div id="service-banner">
+<img src="/images/header_90years.png" border="0" style="position:absolute;left:136px;">
+</div>
 <div id="header-top-bar">
 <div id="header-top-bar-main"><div>To use advanced features → <a href="javascript:void(null);" id="lnkLogin" title="Logon and use the advanced features of abf.com...">Logon</a> | <a href="/tools/accountinfo/password.asp" title="Register to get a User ID and Password...">Register</a> | <a href="/tools/" title="Learn about the benefits of registering... ">Benefits</a></div>
 </div>
@@ -455,7 +463,7 @@ txt = txt + "</TABLE></TD></TR></TABLE>"
 </ul>
 <ul id="header-tabs">
 <li id="header-tab-online-tools"><a data-track="Top Menu-Header Tab" href="/tools/" onmouseover="menuUp(0, false);">Online Tools <img src="/images/new/tab_arrow.png" border="0"></a></li>
-<li><a href="/services/" onmouseover="menuUp(7, false);">Services <img src="/images/new/tab_arrow.png" border="0"></a></li>
+<li class="HandCursor"><a onmouseover="menuUp(7, false);">Services <img src="/images/new/tab_arrow.png" border="0"></a></li>
 <li><a href="/rteguide/">Coverage</a></li>
 <li><a href="/ecommerce/">eCommerce</a></li>
 <li><a href="/resource/">Resource Center</a></li>
