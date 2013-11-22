@@ -1,16 +1,12 @@
-<!--The following is the downloaded HTML source of the zenodo.org privacy policy that was archived on 2013-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130613143842id_/http%3A//zenodo.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zenodo.org privacy policy that was archived on 2013-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131122110848id_/http%3A//zenodo.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="utf-8">
   <title>ZENODO</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Language" content="en">
-  <meta name="description" content="">
-  <meta name="keywords" content="">
-  <meta name="author" content="">
-  <link rev="made" href="mailto:info@zenodo.org">
+  <meta http-equiv="Content-Language" content="en"><meta name="google-site-verification" content="5fPGCLllnWrvFxH9QWI0l1TadV7byeEvfPcyK2VkS_s"><meta name="google-site-verification" content="Rp5zp04IKW-s1IbpTOGB7Z6XY60oloZD5C3kTM-AiY4"><link rev="made" href="mailto:info@zenodo.org">
   <link rel="alternate" type="application/rss+xml" title="ZENODO RSS" href="/rss">
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearchdescription" title="ZENODO">
   <link rel="unapi-server" type="application/xml" title="unAPI" href="/unapi">
@@ -23,6 +19,7 @@
     <link rel="stylesheet" type="text/css" href="/css/token-input-facebook.css">
     <link rel="stylesheet" type="text/css" href="/css/datepicker.css">
     <link rel="stylesheet" type="text/css" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/typeahead.js-bootstrap.css">
     <link rel="stylesheet" type="text/css" href="/css/custom.css">
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100" rel="stylesheet" type="text/css">
   <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -35,7 +32,7 @@
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72-precomposed.png">
   <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57-precomposed.png">
   <style id="holderjs-style" type="text/css">.holderjs-fluid {font-size:16px;font-weight:bold;text-align:center;font-family:sans-serif;margin:0}</style></head>
-<body lang="en"><div id="wrap">
+<body lang="en" itemscope="" itemtype="http://schema.org/WebPage"><div id="wrap">
     <form action="https://zenodo.org/youraccount/login" method="POST" class="form-inline">
   <header class="gradient">
     <div class="container headerbg">
@@ -52,7 +49,7 @@
       <div class="container" style="height:37px;">
         <ul class="nav nav-tabs"><li><a href="/">Search</a></li><li><a href="/communities/">Communities</a></li><li class="dropdown">
             <a class="dropdown-toggle" data-toggle="dropdown" href="/">Browse <b class="caret"></b></a>
-            <ul class="dropdown-menu"><li><a href="/collection/datasets">Datasets</a></li><li><a href="/collection/images">Images</a></li><li><a href="/collection/posters">Posters</a></li><li><a href="/collection/presentations">Presentations</a></li><li><a href="/collection/publications">Publications</a></li><li><a href="/collection/videos">Video/Audio</a></li></ul>
+            <ul class="dropdown-menu"><li><a href="/collection/datasets">Datasets</a></li><li><a href="/collection/images">Images</a></li><li><a href="/collection/posters">Posters</a></li><li><a href="/collection/presentations">Presentations</a></li><li><a href="/collection/publications">Publications</a></li><li><a href="/collection/videos">Video/Audio</a></li><li><a href="/collection/software">Software</a></li></ul>
           </li><li><a href="/deposit/">Upload</a></li><li class="dropdown">
             <a class="dropdown-toggle" data-toggle="dropdown" href="/">Get started <b class="caret"></b></a>
             <ul class="dropdown-menu"><li><a href="/features">Features</a></li><li><a href="/faq">FAQ</a></li></ul>
@@ -75,7 +72,7 @@
       
       <div class="row">
         <div class="span12">
-          <ul class="breadcrumb">
+          <ul class="breadcrumb" itemprop="breadcrumb">
             
             <li><a href="/" class="navtrail">Home</a> <span class="divider">/</span></li>
             
@@ -121,7 +118,7 @@
   <div class="container phone-margin">
     <div class="row">
       <div class="span2"><ul><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/policies">Policies</a></li></ul></div>
-      <div class="span2"><ul><li><a href="/features">Features</a></li><li><a href="/faq">FAQ</a></li></ul></div>
+      <div class="span2"><ul><li><a href="/features">Features</a></li><li><a href="/faq">FAQ</a></li><li><a href="/dev">API</a></li></ul></div>
       <div class="span2 offset1 hidden-phone">
         <p><small>Powered by:</small></p>
         <a href="http://invenio-software.org"><img src="/img/logo_white.png" width="100px"></a>
@@ -140,11 +137,21 @@
   </small></div><small>
 </small></footer><small>
 
-  <script type="text/javascript" defer="" async="" src="https://piwik.web.cern.ch/piwik.js"></script><script type="text/javascript" src="/js/hogan.js"></script><script type="text/javascript" src="/js/jquery.min.js"></script><script type="text/javascript" src="/js/jquery-ui.custom.min.js"></script><script type="text/javascript" src="/js/bootstrap.min.js"></script><script type="text/javascript" src="/js/bootstrap-select.js"></script><script type="text/javascript" src="/js/bootstrap-datepicker.js"></script><script type="text/javascript" src="/js/jquery.tokeninput.js"></script><script type="text/javascript" src="/js/websearch_typeahead.js"></script><script type="text/javascript" src="/js/holder.js"></script><script type="text/javascript" src="/js/custom.js"></script>
+  
+  <script type="text/javascript" defer="" async="" src="https://piwik.web.cern.ch/piwik.js"></script><script type="text/javascript" src="/js/hogan.js"></script>
+  <script type="text/javascript" src="/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/js/jquery-migrate.min.js"></script>
+  <script type="text/javascript" src="/js/jquery-ui.custom.min.js"></script>
+  <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="/js/bootstrap-select.js"></script>
+  <script type="text/javascript" src="/js/bootstrap-datepicker.js"></script>
+  <script type="text/javascript" src="/js/jquery.tokeninput.js"></script>
+  <script type="text/javascript" src="/js/websearch_typeahead.js"></script>
+  <script type="text/javascript" src="/js/holder.js"></script>
+  <script type="text/javascript" src="/js/custom.js"></script>
   <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
   
   
-  <!-- Piwik -->
   <script type="text/javascript">
   var _paq = _paq || [];
   _paq.push(["setDomains", ["*.zenodo.org","*.zenodo.cern.ch","*.zenodo.eu","*.zenodo.net"]]);
@@ -159,7 +166,6 @@
     g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
   })();
   </script>
-<!-- End Piwik Code -->
   
 
 </small></body></html>
