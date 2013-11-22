@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 101centavos.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511174153id_/http%3A//www.101centavos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101centavos.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122075305id_/http%3A//www.101centavos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
