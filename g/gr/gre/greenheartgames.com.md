@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenheartgames.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523180048id_/http%3A//www.greenheartgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenheartgames.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122153555id_/http%3A//www.greenheartgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greenheart GamesGreenheart Games
 
