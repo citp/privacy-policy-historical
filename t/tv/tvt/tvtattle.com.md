@@ -1,32 +1,31 @@
-> *The following text is extracted and transformed from the tvtattle.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215081322id_/http%3A//tvtattle.com/2009/06/02/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtattle.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122150544id_/http%3A//www.hitfix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — TV Tattle
+# HitFix Privacy Policy
 
-Privacy Policy for www.tvtattle.com 
+This Privacy Policy applies to you (“You” and “Your”) and all other users of the HitFix website and Network and the HitFix Programs and HitFix Service. Capitalized terms used herein, which are otherwise undefined, shall have the meanings attributed thereto in the HitFix Terms and Conditions of Use. This privacy policy (the “Privacy Policy”) was last updated December 17, 2008.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at tattle@tvtattle.com. 
+### Personal Information
 
-At www.tvtattle.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.tvtattle.com and how it is used. 
+  * Account-Related Activity. Certain activities on HitFix—like uploading Content or posting comments—require You to have a HitFix account. HitFix asks for some personal information when You create a HitFix account, including Your email address and a password, which is used to protect Your account from unauthorized acces.
+  * Usage Information. We may record information about Your usage, as well as information You display or click on in HitFix. If You are logged in, we may associate that information with Your account.
+  * Content Uploaded to the Site. Any personal information or Content that You voluntarily disclose online becomes publicly available and can be collected and used by others.
 
-**Log Files**  
-Like many other Web sites, www.tvtattle.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-**Cookies and Web Beacons**  
-www.tvtattle.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-**DoubleClick DART Cookie**
+### Uses
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.tvtattle.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.tvtattle.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
+  * If You submit personally identifiable information to HitFix through the Site, HitFix uses Your personal information to operate, maintain, and provide to You the features and functionality of the Site, as well as provide special personalized features to You.
+  * Your account name is displayed to other Users when You upload Video Content or send messages through HitFix and other Site users can contact You through messages and comments. Any Content that You submit to HitFix may be redistributed through the Internet and other media channels, and may be viewed by the general public.
+  * HitFix does not use Your email address or other personally identifiable information to send commercial or marketing messages without Your consent, except as part of a specific program or feature for which You will have the ability to opt-in or opt-out. HitFix may, however, use Your email address without further consent for non-marketing or administrative purposes (such as notifying You of major Site changes or for customer service purposes). 
+  * HitFix uses both Your personally identifiable information and certain non-personally-identifiable information to improve the quality and design of the Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing Your user preferences and trends. 
+  * HitFix uses third-party advertising companies to serve ads when You visit the Site. These companies may use information (not including Your name, address email address or telephone number) about Your visits to HitFix and other Web sites in order to provide advertisements about goods and services of interest to You. If You would like more information about this practice and to know Your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+  * HitFix uses cookies, other tools and information to: (a) store information so that You will not have to re-enter it during Your visit or the next time You visit HitFix; (b) provide custom, personalized content and information; (c) monitor the effectiveness of its marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track Your entries, submissions, and status in promotions, sweepstakes, and contests. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….   
-Google Adsense
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.tvtattle.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-www.tvtattle.com has no access to or control over these cookies that are used by third-party advertisers. 
+### Your Control
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.tvtattle.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+  * You may decline to submit personally identifiable information through the Site, in which case You can still view videos and explore the Site, but HitFix may not be able to provide certain services to You.
+  * You may update or correct Your personal profile information and email preferences at any time by visiting Your account profile page.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+
