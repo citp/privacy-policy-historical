@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smaato.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514053011id_/http%3A//www.smaato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smaato.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122102133id_/http%3A//www.smaato.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ We do not share your personally identifiable information with other third-party 
 
 You have access to your personal information and you may update, correct, or delete your member information and email preferences at any time by logging-in to your account and changing the information on file or by e-mailing Smaato at support(at)smaato(dot)com with your request. To protect your privacy and security, we take reasonable steps to verify your identity before granting Users profile access. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
 
-Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly collect personally identifiable information from anyone under the age of thirteen (13) without requiring parental consent. Any person who provides their personal information to Smaato through the Smaato Site represents that they are 13 years of age or older.
+Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly collect personally identifiable information from anyone under the age of thirteen (13) without requiring parental consent (hereafter “Children Information”). If we will become aware that Smaato has collected or received such Children Information without requesting or receiving prior parent consent, we will use reasonable efforts to remove such information from Smaato’s records.
 
 Smaato may allow other companies, called third-party ad servers or ad networks, to serve advertisements within the Smaato Site. These third-party ad servers or ad networks may use technology to send, directly to your browser, the advertisements and links that appear within the Smaato Site. They may automatically receive your IP Address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content.
 
