@@ -1,191 +1,49 @@
-> *The following text is extracted and transformed from the dress-market.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508155544id_/http%3A//www.dress-market.com/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dress-market.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122124413id_/http%3A//www.dress-market.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy Policy
 
-Dress-Market.com respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used. 
+At Dress-Market.com, our target is to make your shopping experience safe, convenient and care-free. Our privacy and security programs make sure that every transaction made at our site is 100% safe and guaranteed.
 
-### **Dress-Market.com’s Privacy Policy**
+**What Information Do We Collect?**
 
-Thank you for accessing the website ("Site") of Dress-Market.com Limited (all references to “us” and “our" refer to Dress-Market.com). We respect your privacy and want you to know about the policies we have in place to protect your personal information.
+The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us. For example, when you wish to purchase a product from this website we may collect details such as your name, address, delivery address and billing address，and other information relevant to your purchase.
 
-This Privacy Policy explains:  
-1\. how we collect, use, and (under certain conditions) disclose your personal information;  
-2\. the steps we’ve taken to secure your personal information;  
-3\. your options regarding the collection, use, and disclosure of your personal information.
+As we are required by law to obtain your consent to the collection of "sensitive information", we will assume that you have given consent to the collection of all information you have provided to us for use in accordance with this Statement, unless you tell us otherwise.
 
-This Privacy Notice applies only to this website and does not necessarily apply to personal information we collect from you offline. Please see the section on Offline Collection, Use & Disclosure of Information details. We are not responsible for the content or privacy practices on any website other than Dress-Market.com to which this Site links or other links to this Site.
+**How We Collect Information**
 
-### **By visiting our Site, you accept the practices described in this Notice.  
-**
+We may collect personal information about you when you visit our website, when you deal with us over the Email, we will not collect any personal information without your consent. We consider that your consent is granted when you complete the fields necessary to facilitate a transaction through this website.
 
-How does Dress-Market.com collect information about me?  
-How does Dress-Market.com use my personal information?  
-How are cookies and other technologies used to collect information?  
-Does Dress-Market.com ever give out my personal information?  
-Is information Dress-Market.com collects about me secure?  
-Are children allowed to use Dress-Market.com?  
-How does Dress-Market.com use and disclose information collected from me offline?
+How We Use Your Personal Information
 
-Where can I find updates to this policy?  
+We generally collect your personal information for the following purposes:
 
-**How does Dress-Market.com collect information about me?**
+To facilitate your access to our website, products and services
 
-We collect information from Site users in several different ways, with the goal of providing an efficient, meaningful, and customized shopping experience. For example, we can use your personal information to:  
-   * Record and quickly bring up information you’ve given previously  
-   * Help you quickly find information, products, and services  
-   * Create content that is relevant to you  
-   * Alert you of our new information, products, and services
+To deliver products you have ordered from us
 
-**Registration and Ordering:**  In order to use certain parts of this Site or order products, all customers must fill out an online registration form with personal information, including but not limited to, your name, gender, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may ask for your country of residence and/or your organization's country of operation, so that we can comply with applicable laws and regulations. This information is used for billing, order processing and internal marketing as well as to communicate with you about your order and our site.
+To seek your opinion on our products, services, marketing and website.
 
-**Email Addresses:** Several locations on the Site allow you to enter your email address for purposes including but not limited to: registering for free promotional notices, requesting notification when new brands or product styles arrive, or signing up for our email newsletter. In addition, any participation in promotional contests organized by Dress-Market.com is completely voluntary and requires disclosure of contact information needed to notify winners and award prizes. We may post the names and cities of contest winners on our Site.
+Some of the personal information we collect is essential for us to be able to accurately identify who is using the service. Other types of personal information we collect help us to develop a profile of who is using our service, this assists us in offering products to suit the needs of the users of this website.
 
-**Log Files:**  Like most websites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol (IP) address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)   
-**       
-Product Reviews:** We ask for an email address and location along with the submission of all product reviews. Your email address will be kept private, but your location will be visible to other users. All other personal information that you choose to submit as part of the review will be available to other visitors to the Site.
+**Disclosure of Personal Information to Third Parties**
 
-**How does Dress-Market.com use cookies and other technology to collect information?**
+We may disclose your personal information to third parties for the purpose for which the information was collected or for related purposes, for example to complete a transaction on your behalf or provide you with a product that you purchased. We engage third party contractors to perform services for us which involves the contractor handling personal information we hold. For example, we currently engage third party contractors to:
 
-Cookies are small pieces of information that your Internet browser stores as text files on your computer's hard drive. Most browsers accept cookies by default, but setting your browser to refuse cookies or remove them from your hard drive will prevent you from using parts of this Site. Dress-Market.com uses cookies to  
-   * speed up navigation  
-   * track site usage  
-   * recognize users and user access privileges  
-   * enable selection and purchase products on this Site record your browsing activity and purchases
+**Deliver products purchased from this website**
 
-**This Site's cookies do not and cannot infiltrate a user’s hard drive to gather any confidential information.  
-**This Site also uses web beacons (also known as clear GIF technology or "action tags") to:  
-   * help deliver cookies  
-   * track views of a web page
+Provide electronic funds transfer services, credit card account processing and related services
 
-Any electronic image on the Site, such as an ad banner, can function as a web beacon. We may use content or ads from third-party advertising companies that may use cookies and web beacons to measure web page visits or amount of products purchased.   
-**Any information these third parties collect via cookies and web beacons is not linked to any personal information we collect.
+In these situations, the third party contractor is strictly from using any prohibited personal information about you except for the specific purpose for which we have supplied. We may also disclose your personal information to various law enforcement agencies and governments around the world for security, customs and immigration purposes. Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorized or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity.
 
-How does Dress-Market.com use my personal information?
+**Security of Your Personal Information**
 
-Internal Use:
+We will securely hold your personal information and we will not trade, rent or sell it. We will take all reasonable steps to keep secure any information which we hold about you. Personal information may be stored both electronically on our computer system, Firewalls, passwords, anti-virus software and email filters can protect all our electronic information.
 
-** We use your personal information to process your order and provide you with customer service. We may use your personal information internally to collect general information about visitors to this Site, improve Site content and layout, improve our outreach, and market our services and products.
+**Resolving Your Concerns**
 
-**Communication with You:**  We will use your personal information to communicate with you about our Site and your orders. All customers must provide an email address to allow communication with Dress-Market.com regarding orders placed. We may send you a confirmation email after you register with us as well as service-related announcements as necessary (for example, temporary suspension of service for maintenance.) You may also submit your email address to request notification when we receive a new brand, product style or product, or to sign up for our email newsletter and special offers. You can unsubscribe or opt out of future emails at any time (see the Opt Out/Corrections section below for more details).
+If you wish to gain access to your personal information, have a complaint about a breach of your privacy or you have any query on how your personal information is collected or used please forward your request, complaint or query to the address below. We will respond to your query or complaint via Email as soon as possible.
 
-  
-**Does Dress-Market.com ever give out my personal information?**
+**Changes to This Privacy Statement**
 
-We sell merchandise, not information **— We do not sell, rent, trade, license, or otherwise disclose your personal or financial information to anyone, except in the following specific situations:
-
-     Third-party service providers:
-
-** Like most catalog and Internet wholesalers, we sometimes use third-party service providers to perform specific functions on our behalf. Any information disclosed to them is solely to help in their provision of service. For example, we provide your name, shipping address, email and phone number to partners such as DHL and UPS in order to guarantee delivery of your orders, and we may use relevant customer information in order to monitor the quality of the third party’s service.  
-Similarly, we must provide your credit card number to financial services organizations such as credit card processors and issuers in order to process payments. We protect all submissions of your credit card number for authorization with state-of-the-art data encryption. (More on this below in the Data Security section.)
-
-**Legal requirement to disclose information:**  We may be required to disclose information if subpoenaed, served with a court order or requested by law-enforcement officials conducting investigations, or if we are otherwise required by law to disclose such information. We will also release personal information when necessary to protect our legal rights or enforce our Terms of Use and other agreements. For example, we may share information to reduce the risk of fraud, or to prevent fraud by users who attempt fraud or other illegal activity on our Site.  
-**  
-Merger and/or sale of assets:**  We do not normally sell, trade or rent personal information  
-to other companies in the course of our business. However, it is possible that we might acquire, merge with or be acquired by another company, or that we might dispose of some or all of our assets, in which case your personal information could be disclosed to another company, subject to the Privacy Notice in effect.  
-**  
-Non-personally identifiable information:**  We may share information that does not identify you or any user, such as the number of daily visitors to a particular page, or the size of an order placed on a certain date, with third parties such as advertising partners.
-
-**How does Dress-Market.com secure information collected about me?**
-
-This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, such as:  
-     * Safeguarding all financial transactions done through this Site with Secure Sockets Layer ("SSL") encryption  
-     * Granting only employees who are providing a specific service access to your personal information  
-     * Working only with third-party service providers who we believe adequately secure all computer hardware.  
-**While our business is designed with safeguarding your personal information in mind, please remember that 100% security does not presently exist anywhere, online or offline.**
-
-**What choices do I have regarding Dress-Market.com’s collection of my information?**
-
-You can choose to:  
-     * Correct or update your personal information  
-     * Stop receiving mail to your email address  
-     * Disable your account to prevent any future purchases through that account  
-**To correct or update your personal information** , log in to My Accounts and submit a request through the online Customer Service.  
-**To unsubscribe from emails**  you receive from Dress-Market.com, follow the unsubscribe link at the bottom of the email and select the option appropriate for you.
-
-**Are children allowed to use Dress-Market.com?**
-
-We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or are using the Site with the supervision of a parent or guardian.  
-If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you when using the Site.
-
-**How does Dress-Market.com use and disclose information collected from me offline?**
-
-As Dress-Market.com collects most information through our Site, this Privacy Policy applies only to online collection of personal information.  
-We also protect all personal information that is collected from you offline, such as through phone calls. If we contact you by telephone regarding an order or payment, we will ask only for the personal information needed to place your order or resolve your issue. When we need to store information related to an order, we enter it into our database through SSL encryption (See the Data Security section above for more information).
-
-This Policy does not attempt to cover all possible offline methods of collecting or using personal information, however, we will treat any offline collection, use, or disclosure of personal information in a manner consistent with our online practices.
-
-**Where can I find updates to this policy?**
-
-To keep you informed of what information we collect, use, and disclose, we will post any changes or updates to this Privacy Notice on this Site and encourage you to review this Privacy Notice from time to time. Please contact us with any questions about the Privacy Notice.
-
-### **INFORMATION COLLECTION AND USE**
-
-1\. Information Collection: We collect information from Site users in several different ways, with the goal of providing an efficient, meaningful, and customized shopping experience. For example, we can use your personal information to:  
-   * Record and quickly bring up information you’ve given previously  
-   * Help you quickly find information, products, and services  
-   * Create content that is relevant to you  
-   * Alert you of our new information, products, and services
-
-(a) Registration and Ordering: In order to use certain parts of this Site or order products, all customers must fill out an online registration form with personal information, including but not limited to, your name, gender, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may ask for your country of residence and/or your organization's country of operation, so that we can comply with applicable laws and regulations. This information is used for billing, order processing and internal marketing as well as to communicate with you about your order and our site.
-
-(b) Email Addresses: Several locations on the Site allow you to enter your email address for purposes including but not limited to: registering for free promotional notices, requesting notification when new brands or product styles arrive, or signing up for our email newsletter. In addition, any participation in promotional contests organized by Dress-Market.com is completely voluntary and requires disclosure of contact information needed to notify winners and award prizes. We may post the names and cities of contest winners on our Site.
-
-(c) Cookies and Other Technology: Like many sites, this Site uses cookies and web beacons (also known as clear GIF technology or "action tags") to speed up navigation, track site usage and recognize users and user access privileges.
-
-(i) Cookies are small pieces of information that your Internet browser stores as text files on your computer's hard drive. Cookies enable you to select, add to cart and purchase products on this Site, and enable us to record your browsing activity and purchases. Most browsers accept cookies by default, but setting your browser to refuse cookies or remove them from your hard drive will prevent you from using parts of this Site. THIS SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER ANY CONFIDENTIAL INFORMATION.
-
-(ii) Web beacons help deliver cookies and track views of a web page. Any electronic image on the Site, such as an ad banner, can function as a web beacon.
-
-(iii) We may use content or ads from third-party advertising companies that may use cookies and web beacons to measure web page visits or amount of products purchased. Any information these third parties collect via cookies and web beacons is not linked to any personal information we collect.
-
-  
-(d) Log Files: Like most websites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol (IP) address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
-
-(e) Age: We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or are using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you when using the Site.
-
-  
-(f) Product Reviews: We ask for an email address and location along with the submission of all product reviews. Your email address will be kept private, but your location will be visible to other users. All other personal information that you choose to submit as part of the review will be available to other visitors to the Site.
-
-2\. Information Use and Disclosure
-
-(a) Internal Use: We use your personal information to process your order and provide you with customer service. We may use your personal information internally to collect general information about visitors to this Site, improve Site content and layout, improve our outreach, and market our services and products.
-
-(b) Communication with You: We will use your personal information to communicate with you about our Site and your orders. All customers must provide an email address to allow communication with Dress-Market.com regarding orders placed. We may send you a confirmation email after you register with us as well as service-related announcements as necessary (for example, temporary suspension of service for maintenance.) You may also submit your email address to request notification when we receive a new brand, product style or product, or to sign up for our email newsletter and special offers. You can unsubscribe or opt out of future emails at any time (see the Opt Out/Corrections section below for more details).
-
-(c) External Use. We sell merchandise, not information — We do not sell, rent, trade, license, or otherwise disclose your personal or financial information to anyone, except in the following specific situations:
-
-(i) Like most catalog and Internet wholesalers, we sometimes use third-party service providers to perform specific functions on our behalf. Any information disclosed to them is solely to help in their provision of service. For example, we provide your name, shipping address, email and phone number to partners such as DHL and UPS in order to guarantee delivery of your orders, and we may use relevant customer information in order to monitor the quality of the third party’s service.
-
-(ii) Similarly, we must provide your credit card number to financial services organizations such as credit card processors and issuers in order to process payments. We protect all submissions of your credit card number for authorization with state-of-the-art data encryption. (More on this below in the Data Security section.)
-
-(iii) We may be required to disclose information if subpoenaed, served with a court order or requested by law-enforcement officials conducting investigations, or if we are otherwise required by law to disclose such information. We will also release personal information when necessary to protect our legal rights or enforce our Terms of Use and other agreements. For example, we may share information to reduce the risk of fraud, or to prevent fraud by users who attempt fraud or other illegal activity on our Site.
-
-(iv) We do not normally sell, trade or rent personal information to other companies in the course of our business. However, it is possible that we might acquire, merge with or be acquired by another company, or that we might dispose of some or all of our assets, in which case your personal information could be disclosed to another company, subject to the Privacy Notice in effect.
-
-(v) We may share information that does not identify you or any user, such as the number of daily visitors to a particular page, or the size of an order placed on a certain date, with third parties such as advertising partners.
-
-  
-DATA SECURITY
-
-This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information. We use Secure Sockets Layer ("SSL") encryption to safeguard all financial transactions done through this Site. We also protect your personal information internally by granting only employees who are providing a specific service access to your personal information. Finally, we only work with third-party service providers who we believe adequately secure all computer hardware. For example, visitors to our Site access servers kept in a secure physical environment and behind an electronic firewall.
-
-  
-While our business is designed with safeguarding your personal information in mind, please remember that 100% security does not presently exist anywhere, online or offline.
-
-  
-OPT OUT/CORRECTIONS
-
-  
-Upon your request, we will (a) correct or update your personal information; (b) stop sending mail to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can correct or update your personal information through the online Customer Service system by logging in to My Accounts and submitting a request. To unsubscribe from wedding@dress-market.com you receive from Dress-Market.com, follow the unsubscribe link at the bottom of the email and select the option appropriate for you.
-
-  
-OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
-
-  
-As Dress-Market.com collects most information through our Site, this Privacy Policy applies only to online collection of personal information. We also protect all personal information that is collected from you offline, such as through phone calls. If we contact you by telephone regarding an order or payment, we will ask only for the personal information needed to place your order or resolve your issue. When we need to store information related to an order, we enter it into our database through SSL encryption (See the Data Security section above for more information). This Policy does not attempt to cover all possible offline methods of collecting or using personal information, however, we will treat any offline collection, use, or disclosure of personal information in a manner consistent with our online practices.
-
-  
-UPDATES TO THIS POLICY
-
-  
-To keep you informed of what information we collect, use, and disclose, we will post any changes or updates to this Privacy Notice on this Site and encourage you to review this Privacy Notice from time to time. Please contact us with any questions about the Privacy Notice.
+We may amend this Privacy Statement as our business requirements or the law changes. Any changes to this Privacy Statement will be updated on our site, so please visit this page periodically to ensure that you have our most current privacy statement.
