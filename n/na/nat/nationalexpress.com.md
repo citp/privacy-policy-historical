@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the nationalexpress.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628042412id_/http%3A//www.nationalexpress.com/coach/ourservice/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalexpress.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122063913id_/http%3A//www.nationalexpress.com/Footer-pages/privacy-and-cookies.aspx) for the most accurate reproduction.*
 
-# Privacy // National Express Coach
+# Privacy and cookies
 
-## National Express Privacy Policy
-
- **1 st December 2011 Version**
+**1 st December 2011 Version**
 
 ## 1\. About our policy
 
@@ -129,6 +127,8 @@ We also collect your browser information, including your browser make (e.g. Inte
 
 Our own and third party cookies and other technologies will also be used to collect information to track visits to our website and advertising.  Please see further Paragraph 2.1 ' _What data collection methods (including cookies) do we use on our website?_ ' above.
 
+By providing your email address you give consent for National Express (including Eurolines) to contact you via email for marketing purposes.
+
  **2.3 How will this information be used?**
 
 We respect your privacy and may use your information:-
@@ -170,9 +170,13 @@ Personal information will be retained for as long as the purpose for which it wa
 
 Under the Data Protection Act 1998, you are entitled to a copy of any personal information we hold on you, but we may charge a fee of no more than £10 for providing this information.
 
+To obtain a copy of any personal information we hold on you write to: Customer Relations Team, National Express Limited, Floor 14, 1 Hagley Road, Birmingham B16 8TG.
+
  **3.3 Opt-Out Procedure**
 
 For some types of marketing communications, our site may provide an opt-in and opt-out facility so that you only receive those communications if you choose to. Whenever we send you a communication we will also give you the opportunity to request your details to be removed from our marketing list. At any time you can access your account and change your status indicating whether you want to opt-in or opt-out of receiving those communications.   Or you can write to us at National Express Limited, National Express House, Mill Lane, Digbeth, Birmingham B5 6DD.
+
+If you do not want to receive emails from National Express please write to us at 1 Hagley Road, Birmingham, West Midlands, B16 8TG, or call us on 08717 818181 and state your wish to be removed from the email list. Alternatively customers can unsubscribe by clicking an unsubscribe link that will feature in all emails sent by National Express.
 
  **3.4 Changes / Modification to personal information**
 
@@ -184,7 +188,7 @@ You may make a request to us to change or modify any inaccuracies in your person
 
 If we change this policy, we will post the new policy on our home page. If the change means that we will use your information differently, we will notify you. You may accept the change of use, or if you do not, we will continue to use your information in accordance with the policy under which it was collected.
 
- **4.2 Keeping you data secure**
+ **4.2 Keeping your data secure**
 
 We will use technical and organisational measures to safeguard your personal information, for example:
 
@@ -214,7 +218,7 @@ All copyright, database rights, design rights, and all intellectual property rig
 
 No part of our web site can be reproduced in any form whatsoever whether electronically or otherwise without our prior written consent other than temporarily in the course of using our web site or to keep a record of a transaction entered into using this web site.
 
-Copyright © National Express Limited 2007 to 2012.
+Copyright © National Express Limited 2007 to 2013.
 
  **4.7 Liability Disclaimer**
 
@@ -226,4 +230,4 @@ We do not exclude our liability for fraudulent misrepresentation.
 
 We shall have no liability for any loss or damage you suffer as a result of relying on any fact or statement that prove to be incorrect.
 
-This web site contains hyper links to web sites operated by third parties. If you activate this hyper link you will leave the National Express Limited web site and National Express Limited have no control over and will not accept any liability whatsoever in respect of the material in any web site which is not on the National Express Limited web site.
+This web site contains hyper links to web sites operated by third parties. If you activate this hyper link you will leave the National Express Limited web site and National Express Limited have no control over and will not accept any liability whatsoever in respect of the material in any web site which is not on the National Express Limited web site
