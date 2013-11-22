@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digminigames.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517031208id_/http%3A//www.digminigames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digminigames.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122184136id_/http%3A//www.digminigames.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DigMiniGames
+# Privacy Policy « DigMiniGames - Play Free Online Mini GamesDigMiniGames – Play Free Online Mini Games
 
 This Privacy Policy governs the manner in which DigMiniGames.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.digminigames.com](http://www.digminigames.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by DigMiniGames.com.
 
@@ -70,3 +70,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 <http://www.digminigames.com/contact-us/>
 
 This document was last updated on July 15, 2012.
+
+**GD Star Rating**  
+ _a WordPress rating system_
