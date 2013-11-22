@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestylextreme.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609124954id_/http%3A//www.freestylextreme.com/uk/Home/Info/Cookies-and-Privacy-Policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestylextreme.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122043302id_/http%3A//www.freestylextreme.com/uk/Home/Info/Cookies-and-Privacy-Policy/default.aspx) for the most accurate reproduction.*
 
 # Cookies and Privacy Policy | Freestylextreme
 
