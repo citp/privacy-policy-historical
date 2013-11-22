@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the aztecrichescasino.eu privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407081543id_/http%3A//www.aztecrichescasino.eu/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aztecrichescasino.eu privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122142242id_/http%3A//www.aztecrichescasino.eu/privacy) for the most accurate reproduction.*
 
 # Security : Aztec Riches Casino Privacy Policy
+
+[HOME](https://web.archive.org/) »  **Privacy Policy**
 
   1. **Recording of Communications**  
 To improve our services and protect the interests of our Players, all telephone calls are recorded for security purposes.
@@ -23,10 +25,9 @@ Aztec Riches Casino website works by using cookies and Active X components for (
     1. To identify the Account Holder's preferred language so it is automatically selected when the Account Holder returns to Aztec Riches Casino;
     2. For analysis of the Aztec Riches Casino website traffic so as to allow us to make suitable improvements.
     3. The operation of the games (such as the flash casino)
-  7. Aztec Riches Casino guarantees: 
+  7. **Aztec Riches Casino guarantees:**
     1. Not to sell, give away, or otherwise communicate your personal or corporate information to any other persons or companies.
     2. To use your personal data to provide you with information or materials only if you requested it.
-    3. We provide all our customers with the opportunity to remove your information from our database, at your request.
 
 
 
@@ -34,4 +35,4 @@ The Casino Rewards Group does not endorse spam. Only registered real or guest pl
 
 If you would like to unsubscribe from our mailing list please click here: <http://cr.crnewsletter.com/main/unsub.asp>
 
-Affiliate ID: TYPEIN_AZR:http://www.rewardsaffiliates.com/default.aspx 
+Affiliate ID: TYPEIN_AZR: 
