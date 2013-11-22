@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mindtickle.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522051946id_/http%3A//mindtickle.com/privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtickle.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122221904id_/http%3A//www.mindtickle.com/privacy-policy) for the most accurate reproduction.*
 
-# MindTickle Privacy Policy
+# Privacy Policy | MindTickle
 
-This privacy policy sets out how "MindTickle" uses and protects any information that you give "MindTickle" when you use this website.
+Privacy Policy
 
-"MindTickle" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can rest assured that it will only be used in accordance with this privacy statement."MindTickle" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This updated policy is effective from 1st January 2013.
+This privacy policy sets out how "MindTickle" uses and protects any information that you give "MindTickle" when you use this website. "MindTickle" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can rest assured that it will only be used in accordance with this privacy statement."MindTickle" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This updated policy is effective from 1st January 2013.
 
 What we collect
 
@@ -59,7 +59,7 @@ Certain Disclosures
 
 We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or affiliated parties; (b) protect and defend our rights and property, our site, the users of our site, and/or our affiliated parties; (c) act under circumstances to protect the safety of users of our site, us, or third parties.
 
-If it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
+If it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. The Google Analytics features implemented on this site is based on Display Advertising. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings.
 
 Your Consent
 
