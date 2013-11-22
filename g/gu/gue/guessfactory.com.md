@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guessfactory.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528160107id_/http%3A//guess.ca/en/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guessfactory.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122033241id_/http%3A//guessfactory.com/en/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**At GUESS, we are committed to protecting your privacy.** We firmly believe that electronic security and privacy are necessary for the continued success of the Internet. In support of this, we only use the personal information that you provide to create a more personalized and entertaining experience for you, in accordance with the terms outlined below.
+**At GUESS , we are committed to protecting your privacy.** We firmly believe that electronic security and privacy are necessary for the continued success of the Internet. In support of this, we only use the personal information that you provide to create a more personalized and entertaining experience for you, in accordance with the terms outlined below.
 
 **Kid's policy (individuals under 13 years of age).** GUESS is committed to protecting the safety of children online. In compliance with the Children's Privacy Protection Act of 1998, GUESS will never knowingly request or use personal information from children under 13 years of age without prior parental consent. If GUESS receives actual knowledge that a subscriber is under 13 years of age, GUESS will eliminate all personal information relating to this subscriber from our files.
 
@@ -30,4 +30,4 @@ Customer Service
 GUESSfactory.com  
 1444 Alameda St.  
 Los Angeles, CA 90021  
-[Customer Service Contact Form](https://www.guess.ca/CustomerCare/ContactUs/)
+[Customer Service Contact Form](https://web.archive.org/web/20131122033241id_/http%3A//guessfactory.com/CustomerCare/ContactUs/)
