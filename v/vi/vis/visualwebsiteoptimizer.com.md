@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualwebsiteoptimizer.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517172530id_/http%3A//visualwebsiteoptimizer.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualwebsiteoptimizer.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122172410id_/http%3A//visualwebsiteoptimizer.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Visual Website Optimizer - Visual Website Optimizer
 
@@ -12,8 +12,7 @@ Information we gather from you:
 
 
 
-
-If you install Visual Website Optimizer code snippet on your website, **we DO NOT store IP address or any other personally identifable information of your website visitors or users**. In case you (or your website visitors or users) want to opt out of tracking by Visual Website Optimizer, please see [our Opt-out page](https://web.archive.org/opt-out.php).
+If you install /opt-out.php code snippet on your website, **we DO NOT store IP address or any other personally identifable information of your website visitors or users**. In case you (or your website visitors or users) want to opt out of tracking by /opt-out.php, please see [our Opt-out page](https://web.archive.org/opt-out.php).
 
 Visual Website Optimizer will not share your personal information without your consent or unless required by law.
 
@@ -32,5 +31,3 @@ This Privacy Policy applies to websites and services that are owned and operated
 Visual Website Optimizer may change its Privacy Policy from time to time and at Visual Website Optimizer’s sole discretion. However, your rights will not be reduced without your explicit consent.
 
 Last updated: May 22, 2012
-
-### Contact us for more information!
