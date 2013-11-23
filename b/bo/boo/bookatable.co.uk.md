@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookatable.co.uk privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616080219id_/http%3A//www.bookatable.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookatable.co.uk privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123104141id_/http%3A//www.bookatable.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Bookatable.com
 
@@ -49,7 +49,7 @@ We use your Information for the purposes of:
   * facilitating restaurant bookings that you wish to make using the Websites, by passing your personal details on to the relevant restaurants;
   * conducting promotions or prize draws that you have entered using the Website;
   * monitoring visitor traffic on our Website and conducting analysis on the performance of our Website so that we can improve user experience; and
-  * contacting you with information about our services which we think might be of interest to you, and sharing your information with select business partners so that they may also get in touch with you, and those of our business partners. Please note that this will only be done if you have ‘opted in’ to receive email communication at the point of registration or when making a booking. You may notify us at any time if you do not wish to receive these offers by clicking on the ‘UNSUBSCRIBE’ link in those emails, or by emailing us at [unsubscribe@bookatable.com](mailto:unsubscribe@bookatable.com) stating ‘UNSUBSCRIBE’ in the subject field.
+  * contacting you with information about our services which we think might be of interest to you, and sharing your information with select business partners so that they may also get in touch with you, and those of our business partners. Please note that this will only be done if you have ‘opted in’ to receive email communication at the point of registration or when making a booking. You may notify us at any time if you do not wish to receive these offers by clicking on the ‘UNSUBSCRIBE’ link in those emails, or by emailing us at [hello@bookatable.com](mailto:hello@bookatable.com) stating ‘UNSUBSCRIBE’ in the subject field. Please note that it can take up to 72 hours for our systems to update your change in subscription status.
 
 
 
