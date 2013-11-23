@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainswithbrittanie.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602072528id_/http%3A//www.bargainswithbrittanie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainswithbrittanie.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124001329id_/http%3A//www.bargainswithbrittanie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bargains with Brittanie
 
@@ -34,4 +34,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-This post may contain affiliate links or sponsored content. By using these links you are supporting this blog. I am disclosing this in accordance with the Federal Trade Commission's 16 CFR, Part 255: "Guides Concerning the Use of Endorsements and Testimonials in Advertising." You can read more in our Disclosure Policy. 
+This post may contain affiliate links or sponsored content. I am disclosing this in accordance with the Federal Trade Commission's 16 CFR, Part 255: "Guides Concerning the Use of Endorsements and Testimonials in Advertising."
