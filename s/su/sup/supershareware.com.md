@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supershareware.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525235657id_/http%3A//www.supershareware.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supershareware.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123193445id_/http%3A//www.supershareware.com/privacystatement.html) for the most accurate reproduction.*
 
 # Super Shareware: Privacy Statement
 
