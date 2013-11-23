@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5lovelanguages.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523230517id_/http%3A//www.5lovelanguages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5lovelanguages.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124000039id_/http%3A//www.5lovelanguages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The 5 Love Languages®
 
