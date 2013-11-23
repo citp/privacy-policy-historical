@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gloveo.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523230833id_/http%3A//gloveo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gloveo.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123054456id_/http%3A//gloveo.com/privacy) for the most accurate reproduction.*
 
-# Gloveo » Global Vision | A World of Entertainment » Privacy Policy
+# Gloveo » Live, Laugh & Share » Privacy Policy
 
 Gloveo does not share personal information with third parties nor do we store any information about your visit to this site other than to analyze and optimize your content and reading experience through the use of cookies. By visiting gloveo.com, you agreed to this Privacy Policy and to the [Terms of Service](http://gloveo.com/terms).
 
