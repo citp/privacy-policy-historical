@@ -1,100 +1,101 @@
-> *The following text is extracted and transformed from the mediander.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediander.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123185557id_/http%3A//www.mediander.com/info/privacy_policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Mediander
 
-**Go Daddy Respects Your Privacy**
+## Your Privacy Rights
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+##### PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+LAST UPDATED: May 6, 2013
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+THIS DOCUMENT PROVIDES GENERAL INFORMATION ABOUT THE POLICY OF THIS WEBSITE AND ITS PROTECTION, COLLECTION, USE AND DISCLOSURE OF THE PERSONAL INFORMATION GATHERED ON THIS SITE. IF YOU ARE UNDER 18 YEARS OF AGE, PLEASE BE SURE TO READ THIS PRIVACY STATEMENT WITH YOUR PARENTS OR GUARDIAN AND ASK THEM QUESTIONS ABOUT WHAT YOU DON’T UNDERSTAND.
 
-**Information Collection and Use**
+This website, www.mediander.com, is owned and operated by Mediander LLC (“Mediander”). Mediander recognizes the importance of explaining our privacy policies to users of our Site and protecting the privacy of Personally Identifiable Information we obtain through the site. Please note that this Privacy Statement may be revised by Mediander from time to time, particularly to address changes in our business, the law or technology. If that happens, we will post the revised policy here. Revisions are effective upon posting and your continued use of this Site after the posting will be subject to the changed terms of the policy.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+As used herein, "Site" or “Sites” refers to http://www.mediander.com (including websites designed to be accessed by browsers using Wireless Application Protocol) and other websites on the World Wide Web or mobile applications developed for tablet devices, smartphones or other mobile electronic devices, originating in the United States, which are owned and/or operated by Mediander or its affiliates, including but not limited to Fine Creative Media, Inc. By using these Sites, you indicate your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, you are not permitted to access these Sites, and you should not do so.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+##### INFORMATION COLLECTION
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We (both directly and through third parties) collect personally identifying information when you register with the Site, register for email communications, offers, and/or newsletters, download content or mobile applications (as permitted herein), or participate in other interactive online activities (e.g., surveys, providing comments, participating in social media or games) throughout the Site, or when you purchase any goods through the Site. This personally identifiable information may include your name, street address, city, state, zip code, email address, landline phone number, cell phone number, credit card number, and other identifiers that permit the physical or online contacting of a specific individual. As described below, we may use such information to provide services, fulfill orders, or for promotional and marketing purposes. We also collect non-personally-identifiable information (such as your IP address or domain, or information about your use of the Sites) both directly and through third parties, including through the use of cookies or web beacons, for purposes of administration, targeting advertising and to compile aggregate information about usage of the Sites.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+You will be asked for your credit card information when you make purchases from the Site. Your credit card information, along with the personal identifying information you submit, is transferred to and used by third party financial institutions to verify the credit card numbers and to authorize the processing of the transaction. Be sure to review all privacy policies published by our third party service providers and contact them directly if you have questions as they may have privacy terms that differ from Mediander’s Privacy Policy.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+The Site has implemented appropriate safeguards to help prevent unauthorized access, maintain data security, and to make proper use of the information that we collect. However, no transmission of data over the Internet is guaranteed to be completely secure. Thus, while we strive to protect your personal information, Mediander cannot absolutely guarantee the security of any information you provide to us.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+##### HOW WE USE INFORMATION
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We may use the information you provide about yourself to provide the Site to you, to respond to inquiries about offerings and to offer other products, programs or services that may be of interest to you.
 
-**Security**
+We may combine information we receive with outside records and share such information with third parties to enhance our ability to market products or services that may be of interest to you.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We may disclose personally identifiable information to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases and non-profit organizations) that want to market products or services to you. Such information will be disclosed, and offers will be made only with your permission, granted at the time that you provide such information. You may revoke your permission in the manner set forth below.
 
-**Updating Your Information**
+In addition to the foregoing, Mediander may share or disclose personally identifiable information about you to other companies or individuals when:
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+\- We utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards), and ask these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+-  We need to protect our legal rights (e.g., if we are trying to collect money you owe us, or to comply with legal processes such as subpoenas and court orders and when we believe in good faith that the law requires the sharing of your personal information).
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+\- We must comply with applicable laws, regulations, or legal or regulatory process; or in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by the websites to which this policy applies.
 
-      iii.      You may call us at: (480) 505-8800
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our Site, and to enable us to customize your Internet experience. We also may use this information to analyze Site usage, as well as to offer you products, programs or services.
 
-       iv.      You may fax us at: (480) 505-8844
+##### HOW WE USE EMAIL ADDRESSES
 
-**Sending Emails**
+We may use your email address for the following types of email messages:
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+\- Account Service Communications. We may send you communications related to products and services in which you are enrolled (e.g., subscription and membership communications).
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+\- Surveys.
 
-**Compliance with Laws and Law Enforcement**
+\- Updates and valuable offers. We may send you email account updates, offers for our products and services, requests for subscriptions, as well as valuable offers from our business partners that we send you on their behalf.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+\- Email newsletters that you elected to receive.
 
-**Third Party Service Providers**
+##### HOW TO OPT-OUT
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+To unsubscribe from the Mediander newsletter and/or other electronic communications from Mediander or any of the Sites’ partners or affiliates, follow the unsubscribe instructions included in the email you receive. To exercise a cost-free option to prevent information from being shared for marketing and promotional purposes with third parties at any time, with respect to the Sites, send an email to the address below:
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+[support@mediander.zendesk.com](mailto:support@mediander.zendesk.com)
 
-**Supplementation of Information**
+##### POLICY FOR MINORS
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+The Site is not intended for persons under the age of 13. Children should always ask parents for permission before providing any personal information online.  Moreover, no information should be submitted to or posted on these Sites by any Minor (a visitor under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed during collection, we do not knowingly collect any personally identifiable information about minors on these Sites, provide any personally identifying information about Minors, regardless of its source, to third parties, and do not knowingly use such information for any marketing or promotional purposes.
 
-**Contests/Surveys**
+##### YOUR CALIFORNIA PRIVACY RIGHTS
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+A California privacy law that went into effect on January 1, 2005, the "Shine the Light" law, allows California residents to obtain a list of third parties to whom a business has disclosed personal information if it shares such information with third parties for their direct marketing purposes. However, if a business adopts and discloses in its privacy policy a policy of not disclosing customers' personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and by providing a cost-free means to exercise that right.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+As stated earlier in this Privacy Policy, personal information submitted at the time of registration with or submission to the Site may be used for marketing and promotional purposes only with the user’s permission. Whenever a user agrees to allow us to collect personal information when using the Site, we provide the user with an option to prevent such information from being shared for direct marketing and promotional purposes with third parties. You may exercise a cost-free option to prevent information from being shared for direct marketing and promotional purposes with third parties at any time by deselecting the “Email me news, promotions, and updates from Mediander” option in the contact preferences section of your account settings page, or by sending an email to the address below:
 
-**Tell-A-Friend**
+[support@mediander.zendesk.com](mailto:support@mediander.zendesk.com)
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Because this Site has a comprehensive privacy policy and provides you with details on how you may opt-in or opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with the third party list.
 
-**What Happens to my Personal Information if I Opt Out?**
+##### PUBLIC FORUMS
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Whenever you voluntarily disclose personal information online in social media, chat rooms, message boards, comments or similar posting areas, the information can be reviewed and collected by anyone. Therefore, do not post any information that you do not want to be made available to the general public. Mediander is not responsible for unsolicited communications that arise from your postings on these Sites.
 
-**Transfer of Data Abroad**
+##### THIRD PARTY ADVERTISING
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+We may use third party advertising companies and advertising networks to serve ads to you on our behalf when you visit these Sites. These companies may use information (not including your name, address, email address or telephone number) about your visits to these Sites and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following web addresses:
 
-**Changes in Our Practices**
+<http://www.networkadvertising.org/optout_nonppii.asp>   
+<http://www.doubleclick.com/us/about_doubleclick/privacy>  
+<http://www.operative.com/privacy-policy/>
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+##### USE OF IP ADDRESS
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+An IP address is a number that is automatically assigned to your computer by your Internet service provider whenever you log on to the web. Web servers automatically identify your computer by its IP address, so when a user requests pages from these Sites, our servers log the user’s IP address. The IP addresses of our users are collected only for the purposes of system administration, security and to report aggregate information to our advertisers, our corporate affiliates or consultants, or with third parties that perform a particular service on our behalf. We do not combine IP addresses with any personally identifying information, nor do we compile any session activity reports by IP address.
 
-**Contacting Our Site**
+##### USE OF COOKIES
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Cookies are pieces of information that a website transfers to an individual's computer for record-keeping purposes. Cookies make web-surfing easier for you by saving your passwords, purchases, and preferences while you're online. The use of cookies is an industry standard. You'll find them at most major websites.
 
-* * *
+We use cookies to help us see which areas and content are popular and which are not. This helps us to target ads based on user interests, and also to improve and update these Sites based on such data as total number of users and pages viewed. This information is most easily tracked with cookies.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+A cookie allows us to store the personal preferences that you set during each visit to these Sites, which in turn allows us to speed up your future activities at these Sites. Similarly, any shopping carts hosted by these Sites usually use cookies to track which products you've chosen to purchase while shopping.  Letting cookies do the record keeping saves you the trouble of entering information over and over again. If you have an account on any of the Sites offered by Mediander, an identifying cookie will be placed on your computer. During future visits to these Sites, we will only read and retrieve information that we set in a cookie during an earlier visit to these Sites.
+
+In connection with cookies we may use web beacons to track response rates to certain email communications that a user has opted to receive from us. If a user has registered with our Site, we may collect certain personal information in connection with the web beacon including the referring email address. This information is not shared with third parties. You may occasionally get cookies from our advertisers when using these Sites as well. Advertisers' Sites do not control these cookies, and they are not subject to Mediander's Privacy Policy. Advertisers do not have access to these Sites' cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry, and most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of these Sites, such as the shopping, subscriptions, and game areas, will not function properly if you do so.
+
+If you have any questions or concerns about Mediander's Privacy Policy or its implementation, you may contact us at [support@mediander.zendesk.com](mailto:support@mediander.zendesk.com).
