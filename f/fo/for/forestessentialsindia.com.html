@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the forestessentialsindia.com privacy policy that was archived on 2013-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130525003426id_/http%3A//www.forestessentialsindia.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forestessentialsindia.com privacy policy that was archived on 2013-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131123231400id_/http%3A//www.forestessentialsindia.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -25,7 +25,7 @@ Building on the cultural foundations of the past and utilizing the evolving rese
 //]]>
 </script>
 <![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" charset="utf-8" src="//cdn.zopim.com/?1DBEemaFiqtptvpuvbhu26CvN2ibn42V" type="text/javascript"></script><script type="text/javascript" src="http://www.forestessentialsindia.com/skin/frontend/default/forest/js/jquery-1.8.2.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=544704335589869"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.forestessentialsindia.com/skin/frontend/default/forest/js/jquery-1.8.2.js"></script>
 <script type="text/javascript" src="http://www.forestessentialsindia.com/skin/frontend/default/forest/js/accordian.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
@@ -60,6 +60,8 @@ jQuery(function() {
 <script type="text/javascript" src="http://www.forestessentialsindia.com/skin/frontend/default/forest/js/jquery.iosslider.js"></script>
 <link rel="stylesheet" type="text/css" href="http://www.forestessentialsindia.com/skin/frontend/default/forest/css/stickytooltip.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.forestessentialsindia.com/skin/frontend/default/forest/css/jquery.mCustomScrollbar.css" media="all">
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-dcd3bfca-98fb-a8f9-d1d9-c81c22f6b103", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 <link rel="stylesheet" type="text/css" href="http://www.forestessentialsindia.com/js/belvg/media/cloudzoom/cloud-zoom.css">
 <link rel="stylesheet" type="text/css" href="http://www.forestessentialsindia.com/skin/frontend/default/forest/css/styles.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.forestessentialsindia.com/skin/frontend/default/forest/css/magiczoomplus.css" media="all">
@@ -133,18 +135,9 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
         //]]></script><meta name="google-site-verification" content="jpic03MUUOuTWId2JEIcv_4r_KC3pz6MlfmIj-d6jgA">
-<!--Start of Zopim Live Chat Script-->
-<script type="text/javascript">
-window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
-$.src='//cdn.zopim.com/?1DBEemaFiqtptvpuvbhu26CvN2ibn42V';z.t=+new Date;$.
-type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
-</script>
-<!--End of Zopim Live Chat Script--> </head>
+ </head>
 <body class=" cms-page-view cms-privacy-policy">
-
-
+  
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
 //<![CDATA[
@@ -162,10 +155,65 @@ _gaq.push(['_trackPageview']);
 //]]>
 </script>
 <!-- END GOOGLE ANALYTICS CODE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="wrapper">
+			<div class="fb_social" style="background: #fff; position: absolute; right: -182px; top: 400px;">
+<div id="fb-root" style="height:0px;">&nbsp;</div>
+<script type="text/javascript">// <![CDATA[
+(function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) return;
+				  js = d.createElement(s); js.id = id;
+				  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=544704335589869";
+				  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));
+// ]]></script>
+<div class="fb-like-box" data-href="https://www.facebook.com/forestessentials" data-width="150" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true">&nbsp;</div>
+</div>		
         <div class="page">
          
+<script type="text/javascript">
+	
+	function Check_Pincode(){
 
+		var pincode =document.getElementById('pincode');
+		
+		var parameters = {pincode:pincode.value};
+		var url = 'http://www.forestessentialsindia.com/fastcheckout/ajax/pincode/';
+		var request = new Ajax.Request(url+'/pincode',{
+			method: 'post',		
+			parameters: parameters,
+			onSuccess: function(transport)	{
+				var json = transport.responseText.evalJSON();
+				if(json.result == 'yes'){
+					console.log('true');
+					document.getElementById('pincode_success_msg').style.display = 'block';
+					document.getElementById('pincode_unsuccess_msg').style.display = 'none';
+				}else{
+					console.log('false');
+					document.getElementById('pincode_success_msg').style.display = 'none';
+					document.getElementById('pincode_unsuccess_msg').style.display = 'block';
+				}
+				
+			}
+		});	
+	}
+	
+</script>
 <script src="http://www.forestessentialsindia.com/skin/frontend/default/forest/js/cufon-yui.js" type="text/javascript"></script>
 <script src="http://www.forestessentialsindia.com/skin/frontend/default/forest/js/Gotham_275-Gotham_400-Gotham_italic_275-Gotham_italic_400.font.js" type="text/javascript"></script>
 <script src="http://www.forestessentialsindia.com/skin/frontend/default/forest/js/Bauer_400.font.js" type="text/javascript"></script> 
@@ -188,8 +236,8 @@ _gaq.push(['_trackPageview']);
         		<div class="header_bottom">
 					
 				</div>-->
-                <div style="margin-bottom: -16px; margin-left: 598px; margin-top: 16px; padding: 0;">
-                <b>Limited Period FREE SHIPPING </b> within INDIA for orders above Rs 2,999/-				</div>
+                <div style="margin-bottom: -16px; margin-left: 715px; margin-top: 0px; padding: 0;">
+				                <a class="fancybox" href="http://www.forestessentialsindia.com/media/wysiwyg/Intl-shipping-discount.jpg" style="margin-right: 10px;float: right;"><b>Complimentary International Shipping Available</b></a><br>FREE SHIPPING within INDIA  for orders above Rs. 2,999/- </div>
                 <div class="logo_header">
 						 
                 
@@ -229,19 +277,21 @@ jQuery(document).ready(function() {
 <ul class="links">
 
             	    	
-            <li class="first"><a href="http://loyalty.forestessentialsindia.com/ " target="_blank" title="LOYALTY MEMBER LOGIN">
+            <li class="first"><a href="http://loyalty.forestessentialsindia.com/" target="_blank" title="LOYALTY MEMBER LOGIN">
 LOYALTY MEMBER LOGIN</a></li>
 	                        	    	
-            <li><a href="http://www.forestessentialsindia.com/customer/account/login/" title="LOG IN">LOG IN</a></li>
-	                        	    	
-            <li><a href="http://www.forestessentialsindia.com/customer/account/create/" title="SIGN UP">SIGN UP</a></li>
+            <li><a href="http://www.forestessentialsindia.com/customer/account/login/ " title="LOG IN / SIGN UP ">
+LOG IN / SIGN UP </a></li>
 	                        	    		<li class=" last">
 			<a href="http://www.forestessentialsindia.com/checkout/cart/" title="SHOPPING BAG" class="top-link-cart">
 				<span style="float:left;">SHOPPING BAG</span>
 				<div class="cart_item">0</div>
 			</a>
 		</li>
-	                </ul>
+	                        	    	
+            <li class=" last"><a href="http://www.forestessentialsindia.com/customer/account/login/" title="LOG IN">LOG IN</a></li>
+	                	<li class=" last"> | <a href="#nsubmit" id="nlettersubscrible"><img style="padding-top:3px;" src="http://www.forestessentialsindia.com/skin/frontend/default/forest/images/newsletter_icon.jpg" alt="Newsletter"></a></li>
+</ul>
 					<form id="search_mini_form" action="http://www.forestessentialsindia.com/catalogsearch/result/" method="get">
     <div class="form-search">
 	        <button type="submit" title="Search" class="button"></button>
@@ -257,7 +307,7 @@ LOYALTY MEMBER LOGIN</a></li>
 </form>
  <br>
 					<div style="margin-left: 512px; margin-top: 13px; padding: 0;">
-<span style="font-color:#60472C;font-weight:bold;">Order related query please call on 022-40174633</span>	
+<span style="font-color:#60472C;font-weight:bold;">Order related query please call on +91-22-40174633</span>	
 					</div>
 				</div>
 					
@@ -782,25 +832,33 @@ LOYALTY MEMBER LOGIN</a></li>
 </ul>
 </li>
 </ul>
-</li><li class="level1 nav-3-6 last">
+</li><li class="level1 nav-3-6">
 <a href="http://www.forestessentialsindia.com/products/miniatures.html">
 <span>Miniatures</span>
+</a>
+</li><li class="level1 nav-3-7 last">
+<a href="http://www.forestessentialsindia.com/products/bestsellers.html">
+<span>Bestsellers</span>
 </a>
 </li>
 </ul>
 </li><li class="level0 nav-4 level-top">
+<a href="http://www.forestessentialsindia.com/indulge.html" class="level-top">
+<span>Made to Order</span>
+</a>
+</li><li class="level0 nav-5 level-top">
 <a href="http://www.forestessentialsindia.com/gifts.html" class="level-top">
 <span>Gifting</span>
 </a>
-</li><li class="level0 nav-5 level-top">
+</li><li class="level0 nav-6 level-top">
 <a href="http://www.forestessentialsindia.com/ingredients.html" class="level-top">
 <span>Ingredients</span>
 </a>
-</li><li class="level0 nav-6 level-top">
+</li><li class="level0 nav-7 level-top">
 <a href="http://www.forestessentialsindia.com/press.html" class="level-top">
 <span>Press</span>
 </a>
-</li><li class="level0 nav-7 level-top last">
+</li><li class="level0 nav-8 level-top last">
 <a href="http://www.forestessentialsindia.com/retail-store-locator.html" class="level-top">
 <span>Store Locator</span>
 </a>
@@ -809,7 +867,53 @@ LOYALTY MEMBER LOGIN</a></li>
 				
 					</div>
 	</div>
-	hello world	
+	
+	<div style="display:none">
+		<form id="nsubmit1" method="post" action="">
+			<span id="ajax_loader-newsletter" style="display:none"><img src="http://www.forestessentialsindia.com/skin/frontend/default/forest/images/opc-ajax-loader.gif"></span>
+			<div id="myDivID">
+				 <h3>Cash on Delivery is available only for Orders in India</h3>
+	  <p class="lightbox_new_text1">Enter your PIN CODE to check if we deliver
+		"Cash on Delivery" to your PIN Code.</p>
+	  
+		<p class="lightbox_new_text2"></p>
+		Your PINCODE     <input type="text" id="pincode">
+		 <input class="submit" type="button" onclick="Check_Pincode();" value="Go">
+		<div id="pincode_success_msg" style="display:none;"> Cash on Delivery" is<span style="color:red;font-weight:bold;"> available</span> to your picode
+ </div>
+					<p id="pincode_unsuccess_msg" style="display:none;">Sorry ! Cash on Delivery" is<span style="color:red;font-weight:bold;"> Not available</span> to your picode</p>
+	  
+				 </div></form>
+			
+		
+	
+	</div>
+	<div style="display:none">
+		<form id="nsubmit" method="post" action="">
+			<span id="ajax_loader-newsletter" style="display:none"><img src="http://www.forestessentialsindia.com/skin/frontend/default/forest/images/opc-ajax-loader.gif"></span>
+			<div class="error-news-msgs" id="error-news-msg" style="display:none;colour:red;">Please insert a valid email address.</div>
+			<div id="myDivID">
+				 <div class="newsdesc" style="width:450px;text-align: justify;">
+					<p>Welcome to Forest Essentials newsletter signup. Enter your email address to get updates on exciting offers, new product launches, exclusive invites and much more!</p>
+				</div>
+				 <div class="newsinput" style="width:450px;">
+					<!--<p style="float:left;">
+						<input type="text" id="fname" name="sfirst_name" size="30" placeholder="First name" class="input-text required-entry"/>
+					</p>
+					<p style="float:left; padding-left:10px;">
+						<input type="text" id="lname" name="slast_name" size="30" placeholder="Last Name" class="input-text required-entry" />
+					 </p>-->
+					 <p style="float:left;">
+						<input type="text" id="semail" name="snemal" size="30" placeholder="Email" value="" class="input-text required-entry validate-email">
+						<input type="submit" value="subscribe" id="nsubmitbutton">
+					 </p>
+                     
+				 </div>
+                 <div class="newsdesc" style="clear: both;width:450px;text-align: justify;color:red;">We respect your privacy. Your information will not be shared with any third party and you can unsubscribe at any time.</div>
+			</div>
+		</form>
+	
+	</div>
 		<a name="top" id="top"></a>
 <script type="text/javascript">	
 	jQuery(function() {
@@ -823,8 +927,128 @@ LOYALTY MEMBER LOGIN</a></li>
 	 
 		jQuery('#top-link').click(function() {
 			jQuery('body,html').animate({scrollTop:0},800,"swing");
+		});
+		jQuery(".fancybox").fancybox();	
+		
+		//Newsletter code
+		jQuery("#nlettersubscrible1").fancybox({
+			'scrolling'		: 'no',
+			'titleShow'		: false,
+			'onStart'		: function(){
+				jQuery("#nletter_error").hide();
+			},
+			'onClosed'		: function() {
+				jQuery("#nletter_error").hide();
+			}
+		});
+		jQuery("#nlettersubscrible").fancybox({
+			'scrolling'		: 'no',
+			'titleShow'		: false,
+			'onStart'		: function(){
+				jQuery("#nletter_error").hide();
+			},
+			'onClosed'		: function() {
+				jQuery("#nletter_error").hide();
+			}
+		});
+		jQuery("#nsubmit1").bind("submit", function() {
+			jQuery('#error-news-msg').hide();
+			var email = jQuery("#semail").val();
+			if(email==''){
+				jQuery('#error-news-msg').show();
+			}
+			if (email!=''){
+				var a = email;
+                var filter = /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{1,4}$/;
+				jQuery('#error-news-msg').show();
+                if(filter.test(a)){
+					jQuery('#error-news-msg').hide();
+					jQuery("#myDivID").fadeOut(100);
+					jQuery("#ajax_loader-newsletter").show();
+					jQuery("#nsubmitbutton").attr('disabled','disabled');
+					jQuery.ajax({
+						type		: "POST",
+						cache		: false,
+						url			: "http://www.forestessentialsindia.com/snewsletter",
+						data		: jQuery(this).serializeArray(),
+						success		: function(data) {
+							jQuery("#ajax_loader-newsletter").hide();
+							jQuery('#error-news-msg').hide();
+							jQuery("#nsubmitbutton").removeAttr('disabled');
+							jQuery("#myDivID").fadeIn(200);
+							jQuery.fancybox(data);
+						}
+					});
+                }
+			}
+			return false;
+		});	
+		jQuery("#nsubmit").bind("submit", function() {
+			jQuery('#error-news-msg').hide();
+			var email = jQuery("#semail").val();
+			if(email==''){
+				jQuery('#error-news-msg').show();
+			}
+			if (email!=''){
+				var a = email;
+                var filter = /^[a-zA-Z0-9_.-]+@[a-zA-Z0-9]+[a-zA-Z0-9.-]+[a-zA-Z0-9]+.[a-z]{1,4}$/;
+				jQuery('#error-news-msg').show();
+                if(filter.test(a)){
+					jQuery('#error-news-msg').hide();
+					jQuery("#myDivID").fadeOut(100);
+					jQuery("#ajax_loader-newsletter").show();
+					jQuery("#nsubmitbutton").attr('disabled','disabled');
+					jQuery.ajax({
+						type		: "POST",
+						cache		: false,
+						url			: "http://www.forestessentialsindia.com/snewsletter",
+						data		: jQuery(this).serializeArray(),
+						success		: function(data) {
+							jQuery("#ajax_loader-newsletter").hide();
+							jQuery('#error-news-msg').hide();
+							jQuery("#nsubmitbutton").removeAttr('disabled');
+							jQuery("#myDivID").fadeIn(200);
+							jQuery.fancybox(data);
+						}
+					});
+                }
+			}
+			return false;
 		});	
 	});
+	
+	(function($){
+        	$(window).load(function(){
+            	$("#product_detail_scrollbar").mCustomScrollbar({
+					scrollButtons:{
+						enable:true
+					}
+				});
+				$('.product_detail_scrollbar_detail').mCustomScrollbar({
+					scrollButtons:{
+						enable:true
+					}
+				});
+				$(".short-description").mCustomScrollbar({
+					scrollButtons:{
+						enable:true
+					}
+				});
+				$("#left-category-side").mCustomScrollbar({
+					scrollButtons:{
+						enable:true
+					}
+				});
+				$('.product_detail_scrollbar_popup').mCustomScrollbar({
+					scrollButtons:{
+						enable:true
+					}
+				});
+				$("#product_detail_scrollbar").bind('click dblclick mouseover mouseout',function(e){
+   					 $("#product_detail_scrollbar").mCustomScrollbar("update");
+				});
+        	});
+    	})($njq);
 </script>		<section id="main-content">
 			<div class="main-container col1-layout">
 				<div class="main">
@@ -913,6 +1137,7 @@ LOYALTY MEMBER LOGIN</a></li>
 						<span class="google-link"><a class="google" target="_blank" href="http://www.youtube.com/watch?v=Vm91qF225IQ">&nbsp;</a></span>
 						<span class="fb-link"><a class="fb" target="_blank" href="http://www.facebook.com/forestessentials">&nbsp;</a></span>
 						<span class="twitter-link"><a class="twitter" target="_blank" href="https://twitter.com/ForestEssential">&nbsp;</a></span>
+						<span class="insta-link"><a class="instagram" target="_blank" href="http://www.instagram.com/forestessentials">&nbsp;</a></span>
 					</div>
                     <div class="clear"></div>
 				</div>
@@ -959,12 +1184,14 @@ jQuery(document).ready(function() {
 	                                    <li><a href="http://www.forestessentialsindia.com/sales/guest/form/" title="Orders and Returns">Orders and Returns</a></li>
                     	    	
             <li class=" last"><a href="http://www.forestessentialsindia.com/contacts/" title="Contact Us">Contact Us</a></li>
-	                </ul>
+	                	<li class=" last"> | <a href="#nsubmit" id="nlettersubscrible"><img style="padding-top:3px;" src="http://www.forestessentialsindia.com/skin/frontend/default/forest/images/newsletter_icon.jpg" alt="Newsletter"></a></li>
+</ul>
 					</nav>
 					<nav class="nenu_about">
 						<ul>
 <li><a href="http://www.forestessentialsindia.com/contacts/" target="_self">Contact Us</a></li>
 <li><a href="/personalized-consultation.html">Personalized Consultation</a></li>
+<!--li><a href="/cm.html">cm</a></li-->
 <li><a href="http://www.forestessentialsindia.com/careers/">Career</a></li>
 <li class="last privacy"><a href="http://www.forestessentialsindia.com/privacy_policy/">Privacy Policy</a></li>
 <li class="last privacy"><a href="http://www.forestessentialsindia.com/payment_policy/">Payment Policy</a></li>
@@ -981,7 +1208,7 @@ jQuery(document).ready(function() {
 </footer>
 <a href="#top" id="top-link" style="display: none;">Top of Page</a>	
 <script type="text/javascript">	
-	(function($){
+/*	(function($){
         	$(window).load(function(){
             	$("#product_detail_scrollbar").mCustomScrollbar({
 					scrollButtons:{
@@ -1010,10 +1237,10 @@ jQuery(document).ready(function() {
 				});
         	});
     	})($njq);
-	
+*/	
 </script>                <script type="text/javascript">
         var loader     = new prototypeLoader('http://www.forestessentialsindia.com/skin/frontend/default/forest/images/belvg/prototype_loader/ajax-loader.gif');
-        var quickview  = new Quickview({"media":"quickviewpro_media_cloudzoom","add_to_cart":1,"navigation":1,"navigation_preview":0,"review":1,"share":1,"product_page_link":1,"overlay_show":1,"overlay_color":"#888888","quickview_scroll":0,"max_height":100,"overlay_opacity":0.7}, 'aHR0cDovL3d3dy5mb3Jlc3Rlc3NlbnRpYWxzaW5kaWEuY29tL3ByaXZhY3lfcG9saWN5Lw,,');
+        var quickview  = new Quickview({"media":"quickviewpro_media_cloudzoom","add_to_cart":0,"navigation":1,"navigation_preview":0,"review":1,"share":0,"product_page_link":1,"overlay_show":1,"overlay_color":"#888888","quickview_scroll":0,"max_height":100,"overlay_opacity":0.7}, 'aHR0cDovL3d3dy5mb3Jlc3Rlc3NlbnRpYWxzaW5kaWEuY29tL3ByaXZhY3lfcG9saWN5Lw,,');
         quickview.init();
 		
 		
@@ -1022,9 +1249,44 @@ jQuery(document).ready(function() {
 
     <div id="quickviewpro-hider" onclick="quickview.close()" class="quickviewpro-hider" style="display:none;background-color: #888888;opacity: 0.7;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70);-moz-opacity: 0.7;-khtml-opacity: 0.7;"></div>
     <div id="popup" class="quickviewpro-popup" style="display:none;"></div>
- 
+
+      <!-- Start of Zopim Live Chat Script -->
+      <script type="text/javascript">
+      document.write(unescape("%3Cscript src='" + document.location.protocol + "//zopim.com/?1DBEemaFiqtptvpuvbhu26CvN2ibn42V' charset='utf-8' type='text/javascript'%3E%3C/script%3E"));
+   </script><script src="https://zopim.com/?1DBEemaFiqtptvpuvbhu26CvN2ibn42V" charset="utf-8" type="text/javascript"></script>
+      <!-- End of Zopim Live Chat Script -->
+      
+      <script type="text/javascript">$zopim.livechat.set({ language: 'en'      });
+$zopim.livechat.button.setPosition('bl');
+$zopim.livechat.window.setTheme('solid');
+$zopim.livechat.window.setColor('#332400');
+$zopim.livechat.bubble.setTitle('Questions?');
+$zopim.livechat.bubble.setText('Click here to chat with us!');
+$zopim.livechat.setGreetings({
+            'online': ['Hi , Please click here to chat', 'Welcome to Forest Essentials , How can we help you?.'],
+            'offline': ['Sorry, we are offlline , do leave a message', 'Sorry We are offline, do leave your message and contact details, we will get back to you as soon as possible'],
+            'away': ['Hi, Please click here to chat', 'Welcome to Forest Essentials , How can we help you?']})
+      </script>
+       
     </div>
 </div>
-
+<div style="display:none"><!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 984659192;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/984659192/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript></div>
 
 </body></html>
