@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quotescover.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609120943id_/http%3A//quotescover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotescover.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123054326id_/http%3A//quotescover.com/privacy-policy) for the most accurate reproduction.*
 
-# Create quotes picture: Privacy Policy QuotesCover.com
+# Privacy Policy | QuotesCover.com
 
 This website collects some Personal Data of its Users. 
 
