@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bomgar.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513091217id_/http%3A//www.bomgar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bomgar.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123093252id_/http%3A//www.bomgar.com/privacy) for the most accurate reproduction.*
 
 # Privacy | BOMGAR
 
-Because Bomgar respects and is committed to protecting your privacy, we have adopted this Privacy Policy. This Privacy Policy lets you know how we process and use your personal information. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Bomgar Corporation (the "Bomgar Network"). If you have questions or concerns regarding this statement, you should first contact Bomgar using the contact information included at the end of this statement.
+Because Bomgar Corporation (“Bomgar”) respects and is committed to protecting your privacy, we have adopted this Privacy Policy. This Privacy Policy lets you know how we process and use your personal information. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Bomgar Corporation (the "Bomgar Network"). If you have questions or concerns regarding this statement, you should first contact Bomgar using the contact information included at the end of this statement.
 
-Bomgar has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)[KL1] including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@bomgar.com or you can reach us by telephone at 1-601-519-0123. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)[KL2] . The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+Bomgar has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@bomgar.com or you can reach us by telephone at 1-601-519-0123. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site: www.bomgar.com, and does not cover information that may be collected through software downloaded from the site.
 
-Bomgar complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union member countries and Switzerland. Bomgar has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Bomgar's certification, please visit http://www.export.gov/safeharbor.
+Bomgar complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union member countries and Switzerland. Bomgar has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Bomgar's certification, please visit <http://www.export.gov/safeharbor>.
 
-If you have questions or concerns regarding this Policy, you should first contact Bomgar at info@bomgar.com or you can reach us by telephone at 1-601-519-0123. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://watchdog.truste.com/pvr.php?page=complaint>, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, Suite 2, San Francisco, CA, USA 94104, by phone at 415-520-3400, or by fax at 415-520-3420.  If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+Bomgar participates in the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor as set forth by the United States Department of Commerce.  As part of our [participation ](https://www.export.gov/safehrbr/list.aspx)in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&url=),  fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
 What information are we collecting and how are we collecting it?
 
@@ -19,6 +19,12 @@ We use Google Analytics, a third-party tracking service, which uses cookies to t
 How do we use your information?
 
 Bomgar collects information to better understand your needs and interests to help deliver a consistent and personalized experience on the Bomgar Network. As a condition to being allowed to download a trial or evaluation software from the Bomgar Network, you consent to being contacted by Bomgar or its representatives to provide you with information about our other products and/or services that we think will be of interest to you. We will give you the opportunity to choose your privacy preferences regarding the communications we send (see below - How do I Select Privacy Preferences). Credit card information is used only for payment processing and fraud prevention. Credit card information and other sensitive personal information required to process a credit decision is not used for any other purpose by our financial services providers or Bomgar and will not be kept longer than necessary for providing the services, unless you ask us to retain your credit card information for future purchases.
+
+User Access and Choice
+
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, ask to have it removed from a public forum, directory or testimonial on our site or deactivate it by making the change on our member information page or by emailing our Customer Support at [info@bomgar.com](mailto:info@bomgar.com) or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request to access within 30 days.
+
+We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 What are cookies and how do we use them?
 
@@ -32,19 +38,24 @@ What are embedded web links and how do we use them?
 
 Some emails from Bomgar may use links designed to lead you to a relevant area on the Web. The redirection system allows Bomgar to change the destination URL of these links, if necessary, and to determine the effectiveness of our marketing initiatives. In emails, such web links may also allow Bomgar to determine whether you have clicked a link in an email, and this information about the interaction may be connected to your personal identity. If you do not want Bomgar to collect information about the links that you click, you can: (1) change your choice about how you receive communications from Bomgar (i.e. choose a text-based version of the message where available); or (2) choose not to click links in an email that Bomgar sends.
 
+Behavioral Targeting/ Re-Targeting
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+
+(Google AdSense/Adwords) We use Google AdSense to publish ads on this site.  When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites.   You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>.
+
 Will we disclose the information we collect to outside third parties?
 
 Bomgar will not sell, rent or lease your personal information to others except as described in this Privacy Policy. Bomgar shares personal information in the following ways:
 
-(1) Bomgar retains service providers and suppliers to deliver complete products, services and customer solutions and to assist Bomgar with marketing and communication initiatives. These providers and suppliers include, for example, credit card processors, providers of customer support and live-help, email service providers, automated data processors, and shipping agents. Suppliers and service providers are required to keep confidential the information received on behalf of Bomgar and may not use it for any purpose other than to carry out the services they are performing for Bomgar.
-
+(1) Bomgar retains service providers and suppliers to deliver complete products, services and customer solutions and to assist Bomgar with marketing and communication initiatives. These providers and suppliers include, for example, credit card processors, providers of customer support and live-help, email service providers, automated data processors, and shipping agents. Suppliers and service providers are required to keep confidential the information received on behalf of Bomgar and may not use it for any purpose other than to carry out the services they are performing for Bomgar.  
 (2) Except as described in this Privacy Policy, Bomgar will not share the personal information you provide to Bomgar with non-Bomgar third parties without your permission, unless to: (i) comply with any applicable law, regulation, subpoena, or court order, (ii) respond to authorized information requests of police and governmental authorities; (iii) protect the personal safety of Bomgar employees and third parties on Bomgar property; (iv) help prevent fraud or to enforce or protect the rights and properties of Bomgar; or as a part of a sale, merger or other reorganization of the Company; (v) or to any other third party without your prior consent to do so.
 
 How do I select privacy preferences?
 
 You may opt out of receiving communications from Bomgar by using one of the following methods:
 
-(1) Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication.  
+(1) Select the email "opt out" or "unsubscribe" link, or follow the opt-out instructions included in each email communication  
 (2) Return to the Bomgar Web page(s) where you originally registered your preferences and follow the opt-out instructions.  
 (3) Write to Bomgar. Be sure to provide your name, email and postal address, and specific relevant information about the Bomgar communications that you no longer wish to receive.
 
@@ -64,7 +75,7 @@ We would also encourage you to review your Privacy Settings.
 
 Tell-A-Friend
 
-If you choose to use our referral service to tell a friend [email a friend, refer a friend, send to a friend, email a page, invite a friend] about our site, we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Bomgar stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+If you choose to use our referral service to tell a friend [email a friend, refer a friend, send to a friend, email a page, invite a friend] about our site, we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Bomgar stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [info@bomgar.com](mailto:info@bomgar.com) to request that we remove this information from our database.
 
 Surveys or Contests
 
@@ -75,6 +86,10 @@ We use may use a third party service provider to conduct these surveys or contes
 Links to Other Web Sites
 
 Our Site includes links to other Web sites (including our Community site) whose privacy practices may differ from those of this site. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+
+Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 Notification of Privacy Statement Changes
 
@@ -89,5 +104,5 @@ Our postal address is
 Paragon Center, Suite 300  
 Ridgeland, Mississippi 39157
 
-We can be reached via e-mail at info@bomgar.com  
+We can be reached via e-mail at [info@bomgar.com](mailto:info@bomgar.com)  
 or you can reach us by telephone at 1-601-519-0123.
