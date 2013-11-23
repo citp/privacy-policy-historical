@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hidemyipaddress.org privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606065353id_/http%3A//hidemyipaddress.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidemyipaddress.org privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123172412id_/http%3A//hidemyipaddress.org/privacy-policy) for the most accurate reproduction.*
 
 # HideMyIPAddress.org Privacy Policy
 
