@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdrmaps.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506215823id_/http%3A//hdrmaps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdrmaps.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123100307id_/http%3A//hdrmaps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,9 +22,7 @@ For the exhaustive list of cookies we collect see the List of cookies we collect
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
   * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * we use customer data only to setup order invoice if it's needed
 
 
 
@@ -46,16 +44,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 ## Controlling your personal information
 
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at contact@hdrmaps.com
-
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Agencja Interaktywna FotoPano Grzegorz Wronkowski ul. Dmowskiego 15/14 80-243 Gdańsk Poland.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. 
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
