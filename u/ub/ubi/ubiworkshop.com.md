@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubiworkshop.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530120832id_/http%3A//archives.ubiworkshop.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubiworkshop.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124004546id_/http%3A//store.ubiworkshop.com/faq/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Ubi Workshop
 
