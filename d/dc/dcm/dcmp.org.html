@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dcmp.org privacy policy that was archived on 2013-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605065651id_/http%3A//dcmp.org/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dcmp.org privacy policy that was archived on 2013-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131123020101id_/http%3A//www.dcmp.org/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "✰"><html class="no-js" lang="en"><!--<![endif]--><head>
 		<meta charset="utf-8">
@@ -23,9 +23,9 @@
 
 		<!--[if IE]><![endif]-->
 
-	  <link href="/assets/application-d9d109212eaeb9efe5238f2cf80d077f.css" media="all" rel="stylesheet" type="text/css">
+	  <link href="/assets/application-1e518c2c1e8f522a68b088b4268d0abf.css" media="all" rel="stylesheet" type="text/css">
 
-	  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/application-562cb714c507b164def019ff2fbd6470.js" type="text/javascript"></script>
+	  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/application-1ca590c7b122cf35ec3cb95ed75fc97f.js" type="text/javascript"></script>
 
 	  <!-- various styles and scripts and stuff -->
 
@@ -79,7 +79,7 @@
 
 
 	  <meta content="authenticity_token" name="csrf-param">
-<meta content="qNV7X7xj2PJpXNFjsScOYOT+5OOiNunl/ZNBUlnvq7k=" name="csrf-token">
+<meta content="u7wX3aElfxJ+KffbWkzGyto3z9nYSQziYByj030UyzE=" name="csrf-token">
 	</head>
 <body class="info-page no-sidebar">
 
@@ -104,8 +104,9 @@
     </nav><!-- end top navigation -->
 	
 	<!-- site accessibility controls, including main text size & color and language options -->
-    <!-- DISABLED FOR NOW 
+    
     <div id="access-controls">
+<!--
         <div class="access">
             <span class="access-label">Main text size &amp; color:</span>
             <a class="color-select" href="#">Pick a color</a>
@@ -115,23 +116,25 @@
                 <li><a class="lg-text" href="#">A</a></li>
             </ul>
         </div>
-
-        <div class="access">
-            <span class="access-label">Select Language:</span>
-            <select>
-                <option val="English">English</option>
-                <option val="Spanish">Spanish</option>
-            </select>
+-->
+        <div id="access-controls">
+            <div class="access">
+                <select id="language-selector-off">
+                    <option value="en" selected="">English</option>
+                    <option value="es">Español</option>
+                </select>
+            </div>
         </div>
 
     </div>
-    -->
+   
 	<!-- end accessibility controls -->
     <!-- begin main site navigation - hidden for viewports under 480px wide -->
 	<nav class="main">
         <ul class="nav">
             
-            <li class="dropMenu"><a href="/topics">media library</a>|
+            <li class="dropMenu">
+                <a href="/topics">media library</a>|
             	<ul>
                 	<li><a href="/topics">browse media</a></li>
                     <li><a href="/favorites">favorites</a></li>
@@ -141,10 +144,10 @@
             </li>
 
             <li class="dropMenu">
-                <a href="/articles">learning center</a>|
+                <a href="/learning-center">learning center</a>|
             	<ul>
                 	<li>
-                        <a href="/articles">articles</a>
+                        <a href="/learning-center">articles</a>
                     </li>
 
                     <li>
@@ -182,21 +185,17 @@
             <li class="dropMenu">
                 <a href="/public-relations">public relations</a>
             	<ul>
-                    <!-- <li><a href="/public-relations" anchor="dcmp-friends">DCMP Friends</a></li> -->
                     <li><a href="/dcmp-supporters">supporters</a></li>
                     <li><a href="/dicapta">dicapta</a></li>                        
                     <li><a href="/special-events">special events</a></li>
-
-                    <!-- <li><a href="/flyers">flyers</a></li> -->
-                    <!--
-                    <li><a href="press-releases">press releases</a></li>
-                    <li><a href="special-events">special events</a></li>
-                    -->
                     <li>
                         <a href="/newsletters">newsletters</a>
                     </li>                  
                     <li>
                         <a href="/promotional-material">promotional material</a>
+                    </li>
+                    <li>
+                        <a href="/press_releases">press releases</a>
                     </li>
 
                 </ul>
@@ -217,20 +216,16 @@
 	<!-- main site search with options to search site or just media library -->
     <div class="main-search">
         <form accept-charset="UTF-8" action="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-					<!--
-            <a class="search-help" href="search-help">Search Help</a>
-					-->
-
             <label for="dcmp-header-search" style="position: absolute; left: -9999px;">Search</label>
         	<input type="text" name="query" placeholder="Search DCMP" id="dcmp-header-search">
 
             <div class="search-type">
                 <input id="search-lib" type="radio" name="search-type" value="Media" checked="">
-                <label for="search-lib">Media Library</label>
+                <label for="search-lib">Media Only</label>
             </div>
             <div class="search-type">
-                <input id="search-site" type="radio" name="search-type" value="DCMP Site">
-                <label for="search-site">DCMP site</label>
+                <input id="search-site" type="radio" name="search-type" value="Meta Site">
+                <label for="search-site">Entire Site</label>
             </div>
             <input type="submit" value="search">
 </form>    </div><!-- end main site search -->
@@ -353,17 +348,17 @@ e-mail: <a href="mailto:privacy-officer@dcmp.org">privacy-officer@dcmp.org</a>
                 <li><a href="/">home</a></li>
                 <li><a href="/topics">media library</a></li>                
             	<li><a href="/favorites">favorites</a></li>
-                <li><a href="/articles">articles</a></li>                                
+                <li><a href="/learning-center">learning center</a></li>                                
                 <li><a href="/collaborators">gateway</a></li>                                
                 <li><a href="/media_for_purchase">media for purchase</a></li>
                 <li><a href="/recommend-media">recommend media</a></li>
             </ul>
             <ul>
-            	<li><a href="/about-dcmp">about dcmp</a></li>
+            	<li><a href="/about-dcmp">about DCMP</a></li>
                 <li><a href="/vendor-info">vendor info</a></li>                
                 <li><a href="/public-relations">public relations</a></li>                
                 <li><a href="/promotional-material">promotional material</a></li>                
-            	<!-- <li><a href="press-releases">press releases</a></li> -->
+            	<li><a href="/press_releases">press releases</a></li>
             	<li><a href="/special-events">special events</a></li>
                 <li><a href="/newsletters">newsletters</a></li>
                 <li><a href="/promotional-material">promotional material</a></li>
@@ -396,7 +391,7 @@ e-mail: <a href="mailto:privacy-officer@dcmp.org">privacy-officer@dcmp.org</a>
             Administered by the National Association of the Deaf<br>
 			
 			<!-- copyright statement -->
-            <span class="copyright">Copyright © 2012 Described and Captioned Media Program. All rights reserved.</span></p>
+            <span class="copyright">Copyright © 2013 Described and Captioned Media Program. All rights reserved.</span></p>
 			
 			<!-- auxillary footer links -->
             <ul class="aux-footer-links">
