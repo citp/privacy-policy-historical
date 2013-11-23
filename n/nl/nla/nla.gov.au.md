@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624164852id_/http%3A//www.nla.gov.au/about-this-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123034840id_/http%3A//www.nla.gov.au/about-this-site/privacy) for the most accurate reproduction.*
 
 # Privacy | National Library of Australia
 
