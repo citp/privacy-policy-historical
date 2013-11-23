@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the bcit.ca privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525131549id_/http%3A//www.bcit.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcit.ca privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123181033id_/http%3A//www.bcit.ca/privacy) for the most accurate reproduction.*
 
 # BCIT : : Privacy : : Important Privacy Information
 
 ## **BCIT and Protection of Personal Information**
 
-As a public body, BCIT complies with privacy provisions of BC's [_Freedom of Information and Protection of Privacy Act_  ](http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/96165_01)(RSBC 1996 ch. 165): 
+As a public body, BCIT complies with privacy provisions of BC's [_Freedom of Information and Protection of Privacy Act_](http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/96165_01) (RSBC 1996 ch. 165): 
 
   * Personal information is collected directly from the individual about whom it relates 
   * Personal information is collected, used, and disclosed for purposes consistent with BCIT's program and service offerings 
-  * Individuals have the right of access to and a right to request correction of their own personal information 
+  * Individuals have the right of access to and a right to request correction of their own personal information 
   * Personal information is retained for the time period to fulfill the purposes for which it was collected 
   * Personal information is secured from unauthorized access
   * Individuals will be notified about the purposes for which information is collected, and when information is collected for an optional use, individuals will consent to the information collection 
 
 
 
-You may refer to BCIT's policy [6700 Freedom of Information and Protection of Privacy](https://web.archive.org/files/pdf/policies/6700.pdf) [PDF, 168 KB], for more information.
+You may refer to BCIT's policy [6700 Freedom of Information and Protection of Privacy](https://web.archive.org/files/pdf/policies/6700.pdf) [PDF, 168 KB], for more information.
 
 For more information about BCIT's privacy procedures you may contact:
 
