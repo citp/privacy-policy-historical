@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splatshop.co.uk privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603044913id_/http%3A//www.splatshop.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splatshop.co.uk privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123111357id_/http%3A//www.splatshop.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Splat Shop - Privacy Policy
 
