@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebies4mom.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502060557id_/http%3A//freebies4mom.com/2007/10/07/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebies4mom.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123220512id_/http%3A//freebies4mom.com/2007/10/07/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,12 +20,4 @@ Cookies are collected by third party vendors, including Google, to serve ads bas
 **
 
 Please **[contact Heather Hernandez](http://freebies4mom.com/contact/) **if you have any questions about this Privacy Policy. You may also be interested in reading my [**Disclosure Policy**](http://wp.me/p1vcSC-7Z9 "Disclosure Policy") and my [**Disclaimer Policy**](http://wp.me/p1vcSC-7Z8 "Disclaimer Policy").
-
-  
-
-
-[](http://www.printfriendly.com/print?url=http://freebies4mom.com/2007/10/07/privacy-policy/)
-
-  
-
   *[October 7, 2007 2:52 pm]: 2007-10-07
