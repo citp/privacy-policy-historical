@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inis.gov.ie privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523170109id_/http%3A//www.inis.gov.ie/en/INIS/Pages/WP07000012) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inis.gov.ie privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123061424id_/http%3A//www.inis.gov.ie/en/INIS/Pages/WP07000012) for the most accurate reproduction.*
 
-# Irish Naturalisation and Immigration Service Privacy policy
+# Irish Naturalisation and Immigration Service Privacy policy & Cookies
 
 ## General Statement  
 This privacy statement establishes how the Irish Naturalisation and Immigration Service will collect and use information about you from your visit to this website. The Irish Naturalisation and Immigration Service fully respects your right to privacy, and will not collect any personal information about you without your clear permission.
