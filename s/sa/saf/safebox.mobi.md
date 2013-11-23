@@ -1,95 +1,32 @@
-> *The following text is extracted and transformed from the safebox.mobi privacy policy that was archived on 2012-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120417221547id_/http%3A//www.safebox.mobi/web/new/safebox-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safebox.mobi privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123085355id_/http%3A//www.safebox.mobi/privacy) for the most accurate reproduction.*
 
-# SafeBox.mobi | Mobile Privacy Application � Private SMS, phonebook and notes
+# Privacy Policy | Home Gym Equipment Buying Guide
 
-### SafeBox Privacy Policy
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@safebox.mobi.
 
-We at SafeBox Solutions Ltd., and our wholly-owned subsidiaries worldwide (collectively, " SafeBox ") respect your privacy. We are posting SafeBox's Privacy Policy (the " Policy ") to clearly disclose SafeBox's practices and approach to respectful and fair data protection. 
+At www.safebox.mobi, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.safebox.mobi and how it is used.
 
-This Policy governs how we collect, protect, store, process, transfer and use the personally identifiable information we collect from and about you. This Policy applies to SafeBox's online and off-line activities, except where we have published other privacy policies or terms and conditions. 
+**Log Files**  
+Like many other Web sites, www.safebox.mobi makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-If you have any questions about this Policy, please feel free to contact us by email, info@safebox.mobi 
+**Cookies and Web Beacons**  
+www.safebox.mobi does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**1\. Information We Collect**
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.safebox.mobi.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.safebox.mobi and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Personally Identifiable Information (PII) is information that can be directly associated with an individual (such as name, email address, or telephone number), or information about activities directly linked to an individual (such as products and services you have licensed or purchased). We collect PII from you in the following ways: 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense  
+Commission Junction  
+Clickbank  
+Amazon
 
-**Information provided to us directly**
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.safebox.mobi send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-You, or someone acting on your behalf, may provide PII to us when you interact with us online and off line. For example: 
+www.safebox.mobi has no access to or control over these cookies that are used by third-party advertisers.
 
-  * We may gather such things as name, physical address, email address and phone number when you contact or communicate with us;
-  * We may gather information such as the products and services you purchase, license, download or register, as well as financial information such as credit card numbers when you engage in transactions with us; 
-  * We may gather user preferences, product interests, industry focus, community choices and other customer profile information when you register for an online account, subscribe to a newsletter, participate in communities or an event, program, class or promotion, or click on a URL; or
-  * We may accept your CV when you apply for a job. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.safebox.mobi’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-
-
-**Information we collect through technology: Products and services**
-
-Certain products and services you license, purchase or download from SafeBox may connect and transmit telemetry and system/product data to SafeBox (or its authorized agents). This data may include, but is not limited to, system model, operating system, host ID and IP address.   
-We use this information to tell you when updates and new product versions are available, provide agreed upon diagnostic, monitoring and management services, as well as enhance our products and services, and better communicate with you. 
-
-**Information we collect through technology: Online web technologies**
-
-When you are on SafeBox's online network, we collect information about the pages you visit. Some web pages use cookies, web beacons and similar technologies to automatically collect information from you. When you visit a SafeBox web site, we may send one or more cookies (small text files containing a string of characters) to your computer to uniquely identify your browser. We may use " web beacons " (electronic images also known as pixel tags or clear gifs) to recognize a SafeBox cookie on your computer when you view or act upon a SafeBox web page, an advertisement that we've placed on a third-party web page or an email we've sent. 
-
-These cookies, web beacons and similar technologies enable us to collect certain types of information about your visit to SafeBox's web sites such as: 
-
-  * Internet Protocol Address;
-  * Browser type; 
-  * Operating system; 
-  * Referring site (site you visited before coming to our site); 
-  * Date and time of visit; 
-  * URL of pages visited; and
-  * Other browsing behavior, such as products and white papers downloaded. 
-
-
-
-We may link this information to PII to provide better service to you and to improve SafeBox's product and services offerings. 
-
-Most browsers allow you to remove and block cookies and web beacons. Please note that if you choose to erase or block cookies, you will need to re-enter your user ID and password to access certain parts of SafeBox's web sites. You may also notice that you will be served only generic information not tailored to your specific interests. 
-
-In addition, if you block cookies, you may not be able to use certain SafeBox web site features or take full advantage of our offerings. 
-
-**Information from other sources**
-
-We sometimes obtain information from other sources, such as mergers and acquisitions or commercial lists, and merge it with information we have previously collected. 
-
-If you give us PII on behalf of someone else (or someone else gives us PII on your behalf), the person providing the PII must have consent to do so from the person whose information is being provided to SafeBox. 
-
-Some SafeBox events, web sites or services may be co-branded and offered in conjunction with another company. If you provide PII in these cases, both SafeBox and the other company(ies) may receive the information collected and use the information according to each company's privacy policy and agreement with you. 
-
-**2\. How We Use Information We Collect**
-
-We use PII to conduct business, provide information and support for products and services, better understand your needs and interests, refine and develop our business, improve services, personalize communications and ensure a quality experience with SafeBox. For example, we may use your information to: 
-
-  * Communicate, interact and build our relationship with you;
-  * Contact you with relevant promotions and information about SafeBox and affiliated third-parties;
-  * Process, fulfill and follow up on transactions and requests for products, services, support, training and information;
-  * Create and maintain an account and register products and systems;
-  * Engage in market research;
-  * Measure, analyze and improve our products and services, the effectiveness of our web sites, and our advertising and marketing;
-  * Personalize content and advertising;
-  * Help identify and communicate offers of products, programs and services that may be of interest to you;
-  * Consider your employment application;
-  * Comply with legal requirements; or
-  * Enforce conditions of sales and web site terms of use, and prevent fraud and other prohibited or illegal actives.
-
-
-
-**3\. Our Commitment**
-
-We are committed to privacy and are actively involved in current industry initiatives to preserve individual privacy rights. Our privacy practices are constantly evolving to meet new requirements, standards, technologies and customer desires. 
-
-**4\. Enforcement**
-
-SafeBox regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or SafeBox's treatment of PII by contacting us at info@safebox.mobi or by writing to us at: 
-
-SafeBox Solutions Ltd.   
-1109-10 C C Wu Building  
-302-8 Hennessy Road  
-Wanchai  
-Hong Kong
-
-© 2011 Copyright SafeBox Solutions Limited - All rights reserved. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
