@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adidas.ie privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525053255id_/http%3A//www.adidas.ie/Privacy-Policy/help-topics-privacy_policy%2Cen_IE%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas.ie privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123205041id_/http%3A//www.adidas.ie/Privacy-Policy/help-topics-privacy_policy%2Cen_IE%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -187,7 +187,7 @@ If you have any questions about the processing of your personal details or about
 
 [service@mail.shop.adidas.ie](mailto:service@mail.shop.adidas.ie)
 
-Or you can call Customer Service at **00800 3STRIPES (00800 37 87 47 37)**
+Or you can call Customer Service at **1800-930151**
 
 (0 Euro cents/min. international toll free).
 
