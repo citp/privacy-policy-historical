@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the timedriver.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123233912id_/http%3A//www.timetrade.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timedriver.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123221713id_/http%3A//www.timetrade.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | TimeTrade
 
-TimeTrade Systems, Inc. ("TimeTrade") respects your privacy and values your trust. The following Privacy Statement outlines how TimeTrade will treat information as you use our products and services. Please direct any questions that you may have regarding our Privacy Statement at any time to our privacy coordinator at [privacy@timetrade.com](mailto:privacy@timetrade.com).
+TimeTrade Systems, Inc. ("TimeTrade") respects your privacy and values your trust. The following Privacy Statement outlines how TimeTrade will treat information as you use our products and services. Please direct any questions that you may have regarding our Privacy Statement at any time to our privacy coordinator at privacytimetrade [dot] com.
 
 ### Personally-identifiable Information
 
 When you register to use our products and services, we gather some information about you such as your name, business type or occupation, email address, credit card, and billing address information. We request this information so that we may register and bill you for our service, and customize our application to meet the specific needs of your business or profession. In addition, we give you the option to receive information from TimeTrade and third parties.
 
 If you sign up for our mailing list, we will share your name and email address (with your permission) with selected partners so that they may contact you regarding special offers that may be of interest to you. By collecting some information about you, we are able to deliver more relevant information and offers to you. You can opt-out of receiving information at any time by logging into your TimeTrade account and changing the appropriate settings in the account administration wizard. TimeTrade may disclose or access account information in the event the law requires such disclosure and for administrative or related purposes to maintain and improve our services to you. TimeTrade will never share personally-identifiable information about you or your business with any third party without receiving your permission, unless required to do so by law.
+
+As a result of MA Privacy regulations, please limit the amount of personally identifiable information [as defined under 201 CMR 17.00 Standards for the Protection of Personal Information of Residents of the Commonwealth (i.e. social security, financial or credit account number, etc.)] that you collect from people who schedule appointments with you using TimeTrade. We understand that, in certain instances, this information is necessary for us to perform the agreed upon services, therefore, in those instances, please consider only collecting the last four digits of account information.
 
 ### Non-Personally-Identifiable Information Automatically Collected
 
