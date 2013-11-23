@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomommacoupons.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524084618id_/http%3A//www.gomommacoupons.com/disclousure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomommacoupons.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123201047id_/http%3A//www.gomommacoupons.com/disclousure-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - Go Momma Coupons
 
@@ -16,4 +16,6 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 _If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:<http://www.networkadvertising.org/managing/opt_out.asp>_
 
-[ ](http://www.printfriendly.com/print?url=http://www.gomommacoupons.com/disclousure-policy/)
+[ ](http://www.printfriendly.com/print?url=http://gomommacoupons.com/disclousure-policy/)
+
+**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 LinkedIn 0 Reddit 0 Email \-- Buffer 0 Filament.io **0** Flares ×
