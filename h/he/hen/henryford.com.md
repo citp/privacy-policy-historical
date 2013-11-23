@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the henryford.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521213100id_/http%3A//www.henryford.com/body.cfm%3Fid%3D56405) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henryford.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123070846id_/http%3A//www.henryford.com/body.cfm%3Fid%3D56405) for the most accurate reproduction.*
 
-# Privacy and Security, Henry Ford Hospital, Detroit, MI
+# Privacy and Security Detroit, Michigan (MI) - Henry Ford Hospital
 
 ## Our Pledge to Protect Your Privacy
 
@@ -10,11 +10,10 @@ Henry Ford Health System knows that medical information about you is personal an
 
 Protecting your patient information is our priority and if you have any questions related to our privacy & security practices, please contact the Information Privacy & Security Office. 
 
-  * Chief Privacy & Information Security Officer: [cpiso@hfhs.org](mailto:cpiso@hfhs.org)
-  * Information Privacy Office: [privacy@hfhs.org](mailto:privacy@hfhs.org)
-  * Information Security Office: [security@hfhs.org](mailto:security@hfhs.org)
+  * Chief Privacy & Information Security Officer: [cipso@hfhs.org](mailto:cipso@hfhs.org)
+  * Information Privacy & Security Office: [PrivacySecurity@hfhs.org](mailto:PrivacySecurity@hfhs.org)
   * Information Privacy & Security Office Helpline: 313-874-9561
-  * Compliance Hotline: 1-888-434-3044 or [www.mycompliancereport.com](http://www.mycompliancereport.com/) __
+  * Integrity Hotline: 1-888-434-3044 or [www.mycompliancereport.com](http://www.mycompliancereport.com/) (Access: HFH) 
 
 
 
