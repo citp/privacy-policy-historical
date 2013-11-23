@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triathlete.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609204451id_/http%3A//triathlon.competitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triathlete.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123060847id_/http%3A//triathlon.competitor.com/privacy) for the most accurate reproduction.*
 
 # Competitor Group, Inc. Privacy Policy
 
