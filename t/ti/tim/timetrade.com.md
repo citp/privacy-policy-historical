@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531160804id_/http%3A//www.timetrade.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123221713id_/http%3A//www.timetrade.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | TimeTrade
 
-TimeTrade Systems, Inc. ("TimeTrade") respects your privacy and values your trust. The following Privacy Statement outlines how TimeTrade will treat information as you use our products and services. Please direct any questions that you may have regarding our Privacy Statement at any time to our privacy coordinator at [privacy@timetrade.com](mailto:privacy@timetrade.com).
+TimeTrade Systems, Inc. ("TimeTrade") respects your privacy and values your trust. The following Privacy Statement outlines how TimeTrade will treat information as you use our products and services. Please direct any questions that you may have regarding our Privacy Statement at any time to our privacy coordinator at privacytimetrade [dot] com.
 
 ### Personally-identifiable Information
 
