@@ -1,13 +1,23 @@
-> *The following text is extracted and transformed from the stuartslondon.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520043944id_/http%3A//www.stuartslondon.com/privacy-policy-i11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuartslondon.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123033050id_/http%3A//www.stuartslondon.com/privacy-cookies-i11) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Cookies
 
 **Disclaimer:**  
 Stuarts london.com have the right to change prices and specifiactions without prior notice. Colours of products are as accurate as the website allows.
 
 We thank all our suppliers for letting us use their images and Logo's on our website. All other images have been produced by Stuartslondon.com in house image studio.
 
- **Protx / Sagepay Security Statement**  
+**What are Cookies?**
+
+A cookie is a small information file that is sent to your computer and is stored on your hard drive. If you have registered with us then your computer will store an identifying cookie which will save you time each time you re-visit Stuarts London, by remembering your email address for you. You can change the settings on your browser to prevent cookies being stored on your computer without your explicit consent.
+
+Cookies also allow the function of our website to work better, in order to give you a better experience whilst browsing through pages and products. 
+
+These cookies enable core functionality for our site. They allow the site to remember your choices such as items added to the shopping basket, last pages you have viewed, provide us with info to improve our business with site traffic statistics for Google Analytics's . They do not contain any personal information.
+
+If you would like to know about the type of cookies we are using and why please  [CLICK HERE](http://www.stuartslondon.com/cookies-i84 "Cookies How & Why we use them") . Also we are in the process of building a function of how you can change your cookie settings on your computer and also if you want to disable any of our cookies from your computer, please be aware this will effect the way in which you are able to browse our website make it less user friendly.
+
+**Protx / Sagepay Security Statement**  
 The protx payment system uses a combination of established and innovative techniques to ensure the security and integrity of all sensitive data. Our internet facing web servers are certified by Verisign, this ensures that no third parties can impersonate Protx to obtain secure information.
 
  **Transaction Security**  
