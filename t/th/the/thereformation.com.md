@@ -1,0 +1,45 @@
+> *The following text is extracted and transformed from the thereformation.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124004657id_/http%3A//thereformation.com/Privacy-Policy.html) for the most accurate reproduction.*
+
+# The Reformation :: Privacy Policy
+
+### PRIVACY
+
+* * *
+
+Our privacy policy describes the information that we collect through our website and how we use it. If you have any questions, please contact us at [info@thereformation.us](mailto:info@thereformation.us.). 
+
+When you visit our site, we collect information from you in order to contact you, fulfill your orders and conduct research to improve our site and services. We may also use the information you provide to follow up with you or contact you about offers or products you may find interesting. 
+
+We collect two types of information from visitors of our website: personally identifiable information and non-personally identifiable information. 
+
+Personally identifiable information includes contact information (name, email address, shipping address, etc.) and financial information (credit card number, expiration date, etc.). We use this information to fulfill your orders, for billing purposes and to contact you in the event we are having trouble completing your order. In any event, we reserve the right to use your email address and any other personally identifiable information that you provide to us to respond to you and send you marketing materials for our own products and services. We will not share your information with outside parties who wish to market other products and services to you. 
+
+Non-personally identifiable information includes tracking technology like cookies or pixel tags, which let us track the actions of visitors on our website. They tell us things like the name of your internet service provider, the IP address of the computer you are using, the type of browser software and operating system that you use, the date and time you access our website, the website address, if any, from which you linked directly to our website, the website address, if any, to which you travel from our website, your home page customization preferences and other similar traffic-related information. This information helps us improve our website and the products, services, applications, content and features that we provide through our website. We do not use non-personally identifiable information in any way to create or maintain a personal profile of you or collect personally identifiable information from you. 
+
+Our employees who have access to information collected on our Site are aware of our privacy policy. Your information is only accessible to those employees who need it in order to perform their job. Our physical, electronic and procedural safeguards meet or exceed current federal standards regarding the protection of customer information. We have taken appropriate measures to prevent the loss, misuse and alteration of your information. We also require contractors and outside companies who work with us to adhere to strict privacy standards through their contracts with us. Unfortunately, no security system, or system of transmitting data over the internet, can be guaranteed to be 100% secure. Consequently, while we use commercially reasonable efforts to protect your personally identifiable information, we cannot guarantee the security of our servers, the means by which information is transmitted between your computer and our servers, or any information provided to us or to any third party through or in connection with the website. Any information that you provide to us is done so entirely at your own risk. 
+
+### EMAIL COMMUNICATIONS
+
+* * *
+
+You may elect not to receive emails from us. If you did not opt out of our email program, we will use your email address to send you emails which may interest you. Emails will likely contain information regarding our products or offerings. To unsubscribe from these emails, please email customerlove@thereformation.com and we’ll take care of it for you. 
+
+If we sell all or any part of our business or sell or transfer all or a material part of our assets or are otherwise involved in a merger or other transfer or disposition of any part our business, we reserve the right to access, transfer or disclose any and all information that we collect from our website’s visitors, or that we otherwise collect in connection with the website, to the party or parties involved in the transaction as part of that transaction. 
+
+You may request to access and update your personally identifiable information by sending us an e-mail at customerlove@thereformation.us. We will attempt to provide you with reasonable access to any personally identifiable information you have provided to us within 30 days at no cost. If access cannot be provided within that timeframe, we will provide you with a date by which the information will be provided. If for some reason access is denied, we will provide an explanation as to why access has been denied. 
+
+We check our Privacy Policy from time to time to make sure it complies with applicable law. If we make any material changes in our privacy practices, we’ll do our best to let you know by posting a notice on our Site notifying users that there has been a change, and we will use reasonable efforts to detail changes in the privacy policy area of our site. We recommend you check our Site periodically for modifications to this policy. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection through our Site, we will notify you via email. 
+
+We use email links located on the Contact Us page and other areas of our Site to allow you to contact us directly with any questions or comments you may have. You may also use this link to request updates and access to your personally identifiable information. We read every message do our best to reply promptly if you request information or otherwise require a response. We may file your comments to improve our Site or our products, or we may review and discard the information. Your personal information will only be shared with third parties as permitted by our privacy policy. 
+
+Please be aware that we are not and cannot be responsible for the privacy practices of any websites that you access through our website and that this Privacy Policy applies solely to the information which we collect through our website. We encourage you to read the privacy statements of all the destination websites which you visit. 
+
+### ADVERTISING
+
+* * *
+
+Advertisements displayed to you on our Site and elsewhere on the internet may be customized to your interests and preferences, based on information learned about you as you use our websites and the Web in general. If you do not want to participate in this, please visit <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out. 
+
+Our Site might include third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites. These third-party websites and advertisers, or internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs) and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by our Advertising policy. Please contact them directly for more information about their privacy practices. In addition, the Network Advertising Initiative offers useful information about internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection. 
+
+Reformation might also display targeted advertising based on personal information about users. Although Reformation does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a targeted advertisement meet the targeting criteria used to display the ad (for example, users in the Northwestern United States who like designer jeans). Saved card details will never be shared with third parties and will only be used to process your order, using our payment partner's systems. 
