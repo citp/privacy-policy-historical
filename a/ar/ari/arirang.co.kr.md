@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arirang.co.kr privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520181219id_/http%3A//www.arirang.co.kr/Help/Privacy_Policy.asp%3Fsys_lang%3DEng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arirang.co.kr privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123085510id_/http%3A//www.arirang.co.kr/Help/Privacy_Policy.asp%3Fsys_lang%3DEng) for the most accurate reproduction.*
 
 # Arirang Customer Center | Privacy
 
