@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinitydownline.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522104340id_/http%3A//www.infinitydownline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitydownline.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123012502id_/http%3A//www.infinitydownline.com/privacy.html) for the most accurate reproduction.*
 
 # Terms and Conditions
 
