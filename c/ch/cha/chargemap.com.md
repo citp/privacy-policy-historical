@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chargemap.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430181159id_/http%3A//chargemap.com/infos/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargemap.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123151549id_/http%3A//chargemap.com/infos/legal) for the most accurate reproduction.*
 
 # ChargeMap Privacy policies
 
@@ -6,7 +6,7 @@
 
 ## Legal information
 
-Site publisher: The website ChargeMap.com is the property of: [SAABRE SARL](http://www.saabre.com/ "edition de sites web"), 74 rue René Laennec 67200 STRASBOURG. 
+Site publisher: The website ChargeMap.com is the property of: [SAABRE SARL](http://www.saabre.com/ "edition de sites web"), 104 rue de Hochfelden 67200 STRASBOURG FRANCE. 
 
 SAABRE SARL, Publication director: Yoann NUSSMBAUMER  
 Site designed by: SAABRE SARL  
@@ -63,7 +63,8 @@ click on the "Confidentiality" tab
 ### For Opéra:
 
 Choose the "File" Menu > "Preferences"  
-Privacy policy  
-Newsletters
+Privacy policy
+
+## Newsletters
 
 The site's publisher commits to asking for your consent before sending any newsletters. If you do not wish to receive any further newsletters, please go the appropriate page on the website ChargeMap.com.
