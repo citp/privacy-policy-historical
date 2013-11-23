@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the woodburyoutfitters.com privacy policy that was archived on 2013-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130524194736id_/http%3A//www.woodburyoutfitters.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the woodburyoutfitters.com privacy policy that was archived on 2013-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131123192742id_/http%3A//www.woodburyoutfitters.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -25,6 +25,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -40,7 +41,30 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -118,18 +142,19 @@ Date: October 2010
 <div class="clear"></div>
 
 <!-- ======================== CONTENT ======================== -->
-<div id="advertisement"><a href="http://www.woodburyoutfitters.com/category_s/2679.htm"><img src="/v/vspfiles/templates/outfitters/images/template/clear1x1.gif" width="990" height="57"></a></div>
+
+<div id="advertisement"><a href="http://www.woodburyoutfitters.com/MailingList_subscribe.asp"><img src="/v/vspfiles/templates/outfitters/images/template/clear1x1.gif" width="990" height="57"></a></div>
+
 <div id="content">
     
       <table border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
       <td valign="top" id="left_nav">
 
-<a href="http://www.woodburyoutfitters.com/SearchResults.asp?Cat=2684">
-<img src="/v/vspfiles/assets/images/Jeff_EmployOp.gif" width="230"><br>
+
+<img src="/v/vspfiles/assets/images/Flyers/092013/fallhours.jpg" width="230"><br>
 <!--<img src="/v/vspfiles/assets/images/Flyers/122012XMAS/2012Xmas.jpg" width="230">-->
 <!--<img src="/v/vspfiles/assets/images/logos/shippingdec13.gif" width="230" height="80">-->
-</a>
 
 <br>
 
@@ -166,9 +191,6 @@ function mClk3(src, popup)
 	<a href="http://www.woodburyoutfitters.com/category_s/1973.htm" title="">Rebates</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-	<a href="http://www.woodburyoutfitters.com/category_s/2612.htm" title="">Rods-in-the-Dirt</a>
-</li>
-<li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
 	<a href="http://www.woodburyoutfitters.com/category_s/1970.htm" title="">Shadow Hunter Blinds</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
@@ -189,16 +211,15 @@ function mClk3(src, popup)
         
         <!-- ======================== Mailing List Section ======================== -->
 
-<br>
-<a href="http://www.ohiotrophybuck.com">
-<img src="/v/vspfiles/assets/images/OTBbutton.gif" width="226"><br>
-</a>
-
 <div id="eList">
     <form name="MailingList" method="post" action="http://www.woodburyoutfitters.com/MailingList_subscribe.asp">
     <input id="elist_field" name="emailaddress" type="text" value="Email Address" onfocus="if (this.value == 'Email Address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Email Address';}">
     <input name="Submit" type="image" id="elist_btn" value="" src="/v/vspfiles/templates/outfitters/images/template/mail_btn.gif" alt="Submit"></form>
     </div>
+<br>
+<a href="http://www.ohiotrophybuck.com">
+<img src="/v/vspfiles/assets/images/OTBbutton.gif" width="226"><br>
+</a>
     
     <div id="display_promotions_999"></div>
         
@@ -270,6 +291,7 @@ function mClk3(src, popup)
         <li class="title">Questions?</li>
 		<li>Phone: 740-623-2227 Coshocton</li>
 		<li>Phone: 740-526-0550 St.Clairsville</li>
+		<li>Phone: 740-426-6559 Jeffersonville</li>
 		<li>M-F 10-8pm, Sat. 9-6, Sun. 10-5</li>
 		</ul>
 	</div>
