@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcmp.org privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605065651id_/http%3A//dcmp.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcmp.org privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123020101id_/http%3A//www.dcmp.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
