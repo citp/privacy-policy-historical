@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thehealthcast.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128040815id_/http%3A//thehealthcast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthcast.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123092043id_/http%3A//thehealthcast.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Your Privacy Rights – TheHealthCast.com
+# Privacy Policy - The Health Cast
+
+### Your Privacy Rights
 
 _Effective Date: May 10, 2012_
 
@@ -27,9 +29,13 @@ TheHealthCast.com may share the information you provide to us with third parties
 
 TheHealthCast.com may share your information with our affiliates or with service providers and vendors who work on our behalf, and these third parties may further disclose the information they receive from us. TheHealthCast.com may use, sell or transfer any anonymous or aggregated statistical user data in any manner at any time. We may also disclose your personal information to protect the Company or our legal rights or when required to do so by law, including in response to a search warrant, subpoena, court order, or request from a law enforcement agency. We may transfer information to a successor entity in connection with a corporate merger, consolidation, partial or total sale of assets, bankruptcy, or other corporate change.
 
+TheHealthCast.com uses one or more companies to place advertisements for our products and services and those of third parties on our Site and third-party sites. Cookies and other technologies such as Web beacons or tags are used to measure the effectiveness of our ads and to determine the display of content and advertising to you based on your interests both on our site, as well as on third-party sites where you may visit. To support this interest based advertising solution, we, and companies who we have contracted with, may use anonymous information about your visits to our and other Web sites. The information collected and used by this process is always anonymous, and does not enable any third-party to identify you individually.
+
+Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by [clicking here](http://www.networkadvertising.org/choices/).
+
 **What are my choices?**
 
-If you would like TheHealthCast.com to stop providing your information to these third parties, please send a “do not share” request to TheHealthCast.com by emailing us at [privacy@optimalfusion.com](mailto:privacy@optimalfusion.com?subject=TheHealthCast.com), or by contacting us as directed below under “Additional Information.”
+If you would like TheHealthCast.com to stop providing your information to these third parties, please send a “do not share” request to TheHealthCast.com by emailing us at[privacy@optimalfusion.com](mailto:privacy@optimalfusion.com?subject=TheHealthCast.com), or by contacting us as directed below under “Additional Information.”
 
 **TheHealthCast.com’s special note to parents**
 
@@ -40,7 +46,7 @@ In order to provide increased value to our visitors, TheHealthCast.com may choos
 
 These third party web sites may independently solicit and collect information from you. TheHealthCast.com does not control these linked sites. Since their treatment of personal information may differ from ours, we encourage you to carefully review the privacy statements and terms of use of all third party web sites you access. On occasion, those third party web sites may provide us with information about your use of those sites.
 
-We serve some third-party ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+We serve some third-party ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://7.hidemyass.com/ip-1/encoded/Oi8vd3d3Lm5ldHdvcmthZHZlcnRpc2luZy5vcmc%3D).
 
 **Your consent and changes to this policy**
 
