@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609205539id_/http%3A//www.pe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pe.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123220820id_/http%3A//www.pe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PE.com - Press-Enterprise
+# Privacy Policy | PE.com
 
 **Privacy Policy**
 
