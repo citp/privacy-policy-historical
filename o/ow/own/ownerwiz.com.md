@@ -1,56 +1,58 @@
-> *The following text is extracted and transformed from the ownerwiz.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626073940id_/http%3A//ownerwiz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownerwiz.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123041448id_/http%3A//ownerwiz.com/privacy.php) for the most accurate reproduction.*
 
-# OwnerWiz Privacy Policy Statement
+# OwnerWiz Privacy Policy
 
-Our postal address is  
-P.O. Box 909  
-Braselton, GA 30517
+### Effective: September 1, 2010
 
-We can be reached via e-mail at [info@ownerwiz.com](mailto:info@ownerwiz.com)  
-or you can reach us by telephone at 678-280-9141
+This Privacy Policy explains our policy regarding the collection, use, and disclosure of your personal information. This policy may change, so please refer back to it periodically. By accessing our Web site or using our services, you consent to our information practices. 
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+OW Marketing, Inc owns and operates this website. OwnerWiz.com, SearchRentToOwn.com, SearchRentToOwnHomes.com, SearchRentalListings.com, OWHomes.com, and ListingsWiz.com are all properties of OW Marketing, Inc.  Any mention of OW Marketing, Inc. assumes all of the above websites unless otherwise stated.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page.
+###  Collection and Use of Information   
 
-The information we collect is shared with agents or contractors who assist in providing support for our internal operations.
 
-With respect to cookies: We do not set any cookies.  
-If you do not want to receive e-mail from us in the future, please let us know by or Unsubscribing to any and all Email Messages sent to respective address.  Unsubscribe link provided at the bottom over every email..
+Personal information means information that can be used to identify and contact you, specifically your name, e-mail address, payment method, telephone number, postal delivery address, profession, company name, company website address, business telephone number, personal photo, as well as other information when such information is combined with your personal information. We may sell or distribute certain individual personal information to other companies, including related interests or vendors so as to provide you with important offers. 
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by or Unsubscribing to any and all Email Messages sent to respective address.  Unsubscribe link provided at the bottom over every email..
+When you register for any of our services, we ask you to provide us with personal information so that we can provide and personalize our services and marketing efforts. We use this personal information to process your registration and payments, create your profile and to communicate with you regarding our service. Because email is an integral part of our services, your signup ensures that you’ll receive information relative to your interests at the time of your enrollment, from both OW Marketing, Inc. and its partners. If you later wish to cease participation in this portion of our services, you may do so at any time by clicking the unsubscribe link or button found on every automated email. We are 100% ICANN Compliant. 
 
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by or Unsubscribing to any and all Email Messages sent to respective address.  Unsubscribe link provided at the bottom over every email..
+Should you complete your OwernWiz Portfolio online through the ListingsWiz.com member portal your profile information, including your name, professional information, photo, and any other information that you share will be visible to OW Marketing personnel only. Any personal sharing of account access information including usernames and passwords is done at your own risk. OW Marketing, Inc. and any of it’s divisions share no responsibility for access given to other individuals without direct permission from OW Marketing, Inc or its divisions. 
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events.   If you do not wish to receive such mailings, please let us know by or Unsubscribing to any and all Email Messages sent to respective address.  Unsubscribe link provided at the bottom over every email..
+Please be aware that we may amend this policy at our sole discretion. You can check back to view changes at anytime by visiting the site www.ListingsWiz.com and clicking on the privacy link at the bottom of the page.
 
-you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by or Unsubscribing to any and all Email Messages sent to respective address.  Unsubscribe link provided at the bottom over every email..
+Please note that opting not to receive email will remove you completely from our system and you will no longer receive communication unless you choose to opt-in once again
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations
+### Security
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by or Unsubscribing to any and all Email Messages sent to respective address.  Unsubscribe link provided at the bottom over every email..
+OW Marketing, Inc. has established company-wide security practices for your protection. These practices include, but are not limited to, firewall security, the use of appropriate encryption technology, and the use of multiple levels of password security. All employees are required to familiarize themselves with, and abide by, these safeguards. Our security practices are continually reviewed and upgraded to provide adequate protection of our membership information.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
+We do not share credit card information or personal information with anyone but law enforcement or merchant services used to process payments.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.  For further information, consult the privacy policies of:
+### Cookies and Automatically Collected Information
 
-http://freecreditreport.com  
-http://creditreport.com  
-http://scoreassist.com  
-http://ultraforeclosures.com
+As you browse OW Marketing, Inc. web sites, cookies are placed on your computer’s hard drive. Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive for record keeping purposes. In general, cookies can make the Web more useful by storing information about your preferences on a particular site. Cookies in and of themselves do not personally identify users, although they do identify a user’s computer. If your browser is set to not accept cookies, you may not be able to use OW Marketing, Inc. web sites or services.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+We use other technologies, including pixel tags, to gather information on how our users interact with our site and to otherwise help us efficiently operate and monitor our site and service. These technologies, show us, for example, conversion rates, click-throughs and other information that can be used to improve, operate and monitor our site and our service. Third parties, including consultants we engage and online advertisers, may also use this technology to perform similar services for us as well as to assess their own advertising or services.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by or .
+### Links to Other Sites
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
+**By clicking 'Submit Now' I consent by electronic signature to be contacted about this request and related services by a live agent, artificial or prerecorded voice, and SMS text at the telephone number provided above (dialed manually or by autodialer) and by email. This consent is not required as a condition to purchase services.**
 
-Consumers can access this information by e-mail us at the above address.
+OW Marketing, Inc. web sites contain links to sites operated by third parties whose policies regarding the handling of personal information may differ from ours. While we strive to associate with reputable sites, OW Marketing, Inc. cannot be responsible for the information handling practices of these other sites.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
+### Disclosure of Personal Information
 
-Consumers can have this information corrected by sending us e-mail at the above address.
+We use other companies, agents or contractors to perform services on our behalf. For example, we have partnered with other companies to process credit card transactions, collect debts, and analyze and enhance data. In the course of providing such services, these other companies may have access to your personal information. These companies are not permitted to use your personal information except for the purpose of providing the services we request of them.
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+Except as otherwise provided herein, the information we collect from you is shared with our marketing partners or other third parties. OW Marketing, Inc. may sell or rent aggregated statistical information and user specific information to our marketing partners or other third-parties.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
+OW Marketing, Inc. also reserves the right to disclose personal information when we reasonably believe disclosure is required by law or if we reasonably believe disclosure is necessary to establish or exercise legal rights. In the event that OW Marketing, Inc. is acquired by or merged with a third party, we reserve the right, to sell or otherwise transfer the personal information we have collected as part of that transaction provided that such third party continues to honor our privacy policy.
+
+### Updating Your Information
+
+You are responsible for updating and maintaining the accuracy of the personal information you provide to us relating to your account. If you want to update your contact information or change your payment method, you should do so by visiting the My Account section of our Web site. You must be logged in to access your OwnerWiz Portfolio and Home Resume section.
+
+You must be 18 years of age or older to subscribe to ListingsWiz.com.
+
+### Contact/Opt Out
+
+If you have questions concerning your account, please contact Customer Service at (678) 280-9148, Monday through Friday 10am-6PM (EST). If you have questions concerning this privacy policy, please contact us. Our address is: PO Box 1449, Duluth, GA 30096.
