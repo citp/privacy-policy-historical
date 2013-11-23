@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-west.net privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523051230id_/http%3A//legal.innogames.de/%3Ftype%3Dprivacy%26game%3Dwest%26lang%3Den_US%26market_id%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-west.net privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123061435id_/http%3A//legal.innogames.de/%3Ftype%3Dprivacy%26game%3Dwest%26lang%3Den_US%26market_id%3Den) for the most accurate reproduction.*
 
 # Data Protection Provisions
 
@@ -107,4 +107,4 @@ Fax: 0049 (0) 40 7889335 21
 [privacy@innogames.de](mailto:privacy@innogames.de)
 
 Status: February 2013  
-Copyright InnoGames 2009 – 2013 All rights reserved. 
+Copyright InnoGames 2009 – 2013. All rights reserved. 
