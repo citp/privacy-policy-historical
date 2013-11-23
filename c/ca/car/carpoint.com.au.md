@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carpoint.com.au privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517145116id_/http%3A//www.carpoint.com.au/carpoint-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpoint.com.au privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123044722id_/http%3A//www.carpoint.com.au/carpoint-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - carpoint.com.au
 
