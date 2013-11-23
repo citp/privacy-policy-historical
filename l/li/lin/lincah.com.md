@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lincah.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517182536id_/http%3A//www.lincah.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincah.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123051941id_/http%3A//www.lincah.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lincah.Com
 
