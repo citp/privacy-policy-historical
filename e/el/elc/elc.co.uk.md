@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elc.co.uk privacy policy that was archived on 2013-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130303021843id_/http%3A//www.elc.co.uk/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elc.co.uk privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124005407id_/http%3A//www.elc.co.uk/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy policy : Early Learning Centre UK Toy Shop
 
