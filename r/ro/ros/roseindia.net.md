@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the roseindia.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603171903id_/http%3A//roseindia.net/sitemap/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roseindia.net privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123024118id_/http%3A//roseindia.net/sitemap/privacypolicy.shtml) for the most accurate reproduction.*
 
 # RoseIndia.net Privacy Policy
 
-RoseIndia.net Privacy Policy  
-Posted on: May 3, 2011 
+  
+
 
 **RoseIndia.net Privacy Policy**
 
@@ -19,6 +19,10 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
   
 
+
+Follow us on [Twitter](https://twitter.com/RoseIndiaNet), or add us on [Facebook](https://www.facebook.com/roseindiaofficial) or [Google Plus](https://plus.google.com/+roseindia/posts) to keep you updated with the recent trends of Java and other open source platforms. 
+
+Posted on: May 3, 2011 
 
 Comments 
 
@@ -53,3 +57,19 @@ networking
 * * *
 
 there are difference between presentation and session layer 
+
+**baseer**  
+August 22, 2013  
+java question 
+
+* * *
+
+java coding for print preview... 
+
+**Ramachandran**  
+August 22, 2013  
+java question 
+
+* * *
+
+source code for print preview in java 
