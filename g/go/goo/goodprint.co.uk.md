@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the goodprint.co.uk privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524185349id_/http%3A//www.goodprint.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodprint.co.uk privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124001518id_/http%3A//www.goodprint.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy
+
+By using the Goodprint site you consent to our [cookie policy](https://web.archive.org/privacy/#cookie)
 
 ### 1\. ACCEPTABLE USE POLICY
 
@@ -25,7 +27,7 @@
     any software used in the provision of our Site; or
     any equipment or network or software owned or used by any third party.
 1.2 Content standards
-    These content standards apply to any and all material which you upload onto our Site (“Uploads”).
+    These content standards apply to any and all material which you upload onto our Site ("Uploads").
     You must comply with the spirit of the following standards. The standards apply to each part of any contribution as well as to its whole.
     **Contributions must** :
     
@@ -44,7 +46,7 @@
     g) Be likely to deceive any person.
     h) Be made in breach of any legal duty owed to a third party, such as a contractual duty or a duty of confidence.
     i) Promote any illegal activity.
-    j) Be threatening, abuse or invade another’s privacy, or cause annoyance, inconvenience or needless anxiety.
+    j) Be threatening, abuse or invade another's privacy, or cause annoyance, inconvenience or needless anxiety.
     k) Be likely to harass, upset, embarrass alarm or annoy any other person.
     l) Be used to impersonate any person, or to misrepresent your identity or affiliation with any person.
     m) Give the impression that they emanate from us, if this is not the case.
@@ -122,4 +124,4 @@
 
 ### Contact
 
-    Questions, comments and requests regarding any of the policies above are welcomed, and should be addressed to Kevin Goodwin at 84-86 Great Portland, Street London, W1W 7NR.
+    Questions, comments and requests regarding any of the policies above are welcomed, and should be addressed to Graham Orr at 84-86 Great Portland, Street London, W1W 7NR.
