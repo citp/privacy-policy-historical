@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the roseindia.net privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603171903id_/http%3A//roseindia.net/sitemap/privacypolicy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roseindia.net privacy policy that was archived on 2013-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131123024118id_/http%3A//roseindia.net/sitemap/privacypolicy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -9,7 +9,7 @@
 
 <style type="text/css">
 <!--
-@import url("/d2/css/default.css");
+@import url("/d2/css/default.css?v=1");
 -->
 </style>
 
@@ -19,14 +19,22 @@ label.error { width: 250px; color: red; display: block; float: left; padding-lef
 </style>
 
 
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/d2/function/ddmenu.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/d2/function/ddmenu.js" type="text/javascript"></script>
 
 <link href="/d1/prettify/prettify.css" type="text/css" rel="stylesheet">
 <script type="text/javascript" src="/d1/prettify/prettify.js"></script>
 
-<script src="/d2/jquery/jquery-1.4.2.min.js"></script>
+
+
+<script src="/d2/jquery/jquery-1.10.2-min.js"></script>
 <script src="/d2/jquery/jquery.validate.1.7.js"></script>
 <script src="/d2/jquery/jquery.form.v2.43.js"></script>
+
+
+<link href="/d2/jquery-ui-1.10.3/css/ui-lightness/jquery-ui-1.10.3.custom.css" rel="stylesheet">
+
+<script src="/d2/jquery-ui-1.10.3/js/jquery-ui-1.10.3.custom.js"></script>
+
 
 
 <script type="text/javascript"> 
@@ -83,78 +91,6 @@ label.error { width: 250px; color: red; display: block; float: left; padding-lef
     </script> 
 
 
-
-    <script type="text/javascript">
-    //<![CDATA[
-
-    var tabLinks = new Array();
-    var contentDivs = new Array();
-
-    function init() {
-
-      // Grab the tab links and content divs from the page
-      var tabListItems = document.getElementById('tabs').childNodes;
-      for ( var i = 0; i < tabListItems.length; i++ ) {
-        if ( tabListItems[i].nodeName == "LI" ) {
-          var tabLink = getFirstChildWithTagName( tabListItems[i], 'A' );
-          var id = getHash( tabLink.getAttribute('href') );
-          tabLinks[id] = tabLink;
-          contentDivs[id] = document.getElementById( id );
-        }
-      }
-
-      // Assign onclick events to the tab links, and
-      // highlight the first tab
-      var i = 0;
-
-      for ( var id in tabLinks ) {
-        tabLinks[id].onclick = showTab;
-        tabLinks[id].onfocus = function() { this.blur() };
-        if ( i == 0 ) tabLinks[id].className = 'selected';
-        i++;
-      }
-
-      // Hide all content divs except the first
-      var i = 0;
-
-      for ( var id in contentDivs ) {
-        if ( i != 0 ) contentDivs[id].className = 'tabContent hide';
-        i++;
-      }
-    }
-
-    function showTab() {
-      var selectedId = getHash( this.getAttribute('href') );
-
-      // Highlight the selected tab, and dim all others.
-      // Also show the selected content div, and hide all others.
-      for ( var id in contentDivs ) {
-        if ( id == selectedId ) {
-          tabLinks[id].className = 'selected';
-          contentDivs[id].className = 'tabContent';
-        } else {
-          tabLinks[id].className = '';
-          contentDivs[id].className = 'tabContent hide';
-        }
-      }
-
-      // Stop the browser following the link
-      return false;
-    }
-
-    function getFirstChildWithTagName( element, tagName ) {
-      for ( var i = 0; i < element.childNodes.length; i++ ) {
-        if ( element.childNodes[i].nodeName == tagName ) return element.childNodes[i];
-      }
-    }
-
-    function getHash( url ) {
-      var hashPos = url.lastIndexOf ( '#' );
-      return url.substring( hashPos + 1 );
-    }
-
-    //]]>
-    </script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -168,6 +104,151 @@ label.error { width: 250px; color: red; display: block; float: left; padding-lef
   })();
 
 </script>
+
+
+
+
+	<style type="text/css">
+		/*
+		body{
+			font-family:Arial, Helvetica, sans-serif;
+			margin:10px;
+		}
+		.wrapper{
+			position:relative;
+			font-family:Arial, Helvetica, sans-serif;
+			padding-top:90px;
+			padding-left:50px;
+			width:80%;
+			margin:auto
+		}
+		.wrapper .text{
+			font-family:Arial, Helvetica, sans-serif;
+			padding-top:50px;
+		}
+		.wrapper h1{
+			font-family:Arial, Helvetica, sans-serif;
+			font-size:26px;
+		}
+		
+		
+		.longText{
+			margin-top:20px;
+			width:600px;
+			font:18px/24px Arial, Helvetica, sans-serif;
+			color:gray;
+		}
+		*/
+
+		/*
+		span.btn{
+			padding:10px;
+			display:inline-block;
+			cursor:pointer;
+			font:12px/14px Arial, Helvetica, sans-serif;
+			color:#aaa;
+			background-color:#eee;
+			-moz-border-radius:10px;
+			-webkit-border-radius:10px;
+			-moz-box-shadow:#999 2px 0px 3px;
+			-webkit-box-shadow:#999 2px 0px 3px;
+		}
+		span.btn:hover{
+			background-color:#000;
+		}
+		*/
+
+		/*
+
+		input{
+			padding:10px;
+			border:none;
+			-moz-box-shadow:#999 2px 0px 3px;
+			-webkit-box-shadow:#999 2px 0px 3px;
+		}
+		*/
+			/*
+									custom style for extruder
+									*/
+
+		.extruder.left.a .flap{
+			font-size:18px;
+			color:white;
+			top:0;
+			padding:10px 0 10px 10px;
+			background:#772B14;
+			width:30px;
+			position:absolute;
+			right:0;
+			-moz-border-radius:0 10px 10px 0;
+			-webkit-border-top-right-radius:10px;
+			-webkit-border-bottom-right-radius:10px;
+			-moz-box-shadow:#666 2px 0px 3px;
+			-webkit-box-shadow:#666 2px 0px 3px;
+		}
+
+		.extruder.left.a .content{
+			border-right:3px solid #772B14;
+			background:rgba(255,255,255,.95);
+		}
+
+		.extruder.top .optionsPanel .panelVoice a:hover{
+			color:#fff;
+			background: url("/d2/leftmenu/elements/black_op_30.png");
+			border-bottom:1px solid #000;
+		}
+		.extruder.top .optionsPanel .panelVoice a{
+			border-bottom:1px solid #000;
+		}
+
+		.extruder.left.a .flap .flapLabel{
+			background:#772B14;
+		}
+
+		/*
+		.extruder.top{
+			margin-left:-200px;
+		}
+		*/
+
+	</style>
+
+	<link href="/d2/leftmenu/css/mbExtruder.css" media="all" rel="stylesheet" type="text/css">
+	
+	<script type="text/javascript" src="/d2/leftmenu/inc/jquery.hoverIntent.min.js"></script>
+	<script type="text/javascript" src="/d2/leftmenu/inc/jquery.mb.flipText.js"></script>
+	<script type="text/javascript" src="/d2/leftmenu/inc/mbExtruder.js"></script>
+	<script type="text/javascript">
+
+		$(function(){
+
+
+
+
+			$("#extruderLeft").buildMbExtruder({
+				position:"left",
+				width:250,
+				extruderOpacity:.8,
+				
+				hidePanelsOnClose:false,
+				accordionPanels:false,
+				onExtOpen:function(){},
+				onExtContentLoad:function(){$("#extruderLeft").openPanel();},
+				onExtClose:function(){}
+			});
+
+
+
+			$.fn.changeLabel=function(text){
+				$(this).find(".flapLabel").html(text);
+				$(this).find(".flapLabel").mbFlipText();
+			};
+
+		});
+
+	</script>
+
+
 </head>
 <body onload="prettyPrint()">
 <div class="wrapper">
@@ -236,70 +317,68 @@ label.error { width: 250px; color: red; display: block; float: left; padding-lef
 		
 		<div class="middleSecPage">
 
-	<ul id="tabs">
-      <li><a href="#about" class="selected">Google Advance Search</a></li>
-      <li><a href="#advantages">&nbsp; RoseIndia.Net Search</a></li>
-    </ul>
 
-    <div class="tabContent" id="about">
-		
 			<div class="innerpageSearch">
-				<div class="innerpageSearchMiddle2">
+				<div class="innerpageSearchLeft">&nbsp;</div>
+				<div class="innerpageSearchMiddle">
 
 					<form action="http://www.roseindia.net/customsearch/search.shtml" id="cse-search-box">
 						<input type="hidden" name="cx" value="partner-pub-0714075272818912:351fen-pwln">
 						<input type="hidden" name="cof" value="FORID:10">
-						<input type="text" class="innerpageSearchinputtxt2" name="q">
-						<input type="submit" name="sa" value="Search" class="innerpageSearchinputbtn2">
+						<input type="text" class="innerpageSearchinputtxt" name="q">
+						<input type="submit" name="sa" value="Search" class="innerpageSearchinputbtn">
 					</form>
 					<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
 				</div>
-			</div><br clear="all">		
-			
-    </div>
+				<div class="innerpageSearchRight">&nbsp;</div>
+			</div><br clear="all">
 
-    <div class="tabContent hide" id="advantages">
-		
-			<div class="innerpageSearch">
-				<div class="innerpageSearchMiddle2">
 
-					<form action="/findtutorials/findtutorials.shtml" method="POST">
-						<input type="text" class="innerpageSearchinputtxt2" name="q" value="">
-						<input type="submit" value="Search" class="innerpageSearchinputbtn2">
-					</form>
-					
-			</div>
-		</div><br clear="all">
-	 </div>
- 
-<script language="Javascript">
-init();
-</script>
 		
 
 		
 			
-
-
-			
-				
 
 				<div class="pageTopicSec">
 				
-					<div style="float:left;width:100px;height:100px;">
+			
 							
-
+							<div style="float:left;">
 							<img src="/images/software-tutorials.jpg">
+							</div>
+							
+					
 
+					<div style="float:left;width:478px;">
+						
+						<div style="float:right;width:120px; height:64px;background-color:#FFFFFF; margin:0px;padding:0px; border-radius:3px;">						
+							<a href="https://plus.google.com/share?url=http://www.roseindia.net/sitemap/privacypolicy.shtml" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" style="font-size:9px;color:blue"><img src="https://www.gstatic.com/images/icons/gplus-64.png" width="12" height="12" alt="Share on Google+">Share on Google+</a>
 							
 
-					</div>
+							<!-- Place this tag where you want the +1 button to render. -->
+							<div class="g-plusone" data-size="medium"></div>
 
-					<div style="width:580px;">
-						RoseIndia.net Privacy Policy<br clear="all">
+							<!-- Place this tag after the last +1 button tag. -->
+							<script type="text/javascript">
+							  (function() {
+								var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+								po.src = 'https://apis.google.com/js/plusone.js';
+								var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+							  })();
+							</script>
 
-						<span class="pageTopicpostsinfo">Posted on: May 3, 2011 </span>
+
+						</div>
+						
+
+						<h1>RoseIndia.net Privacy Policy</h1>
+
+
+
+
+
+
 					</div>
 
 				</div>
@@ -308,10 +387,27 @@ init();
 
 			<div class="topoicdetails">
 			
+				<div class="topoicTitle">
+				<script type="text/javascript"><!--
+google_ad_client = "pub-0714075272818912";
+/* 468x15, created 10/26/10 */
+google_ad_slot = "0714811900";
+google_ad_width = 468;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>			
+				</div>
+			
 				<div class="topicDetailsShow">
 					<div class="topicDetailsAdRight">
 					
-					<script type="text/javascript"><!--
+					<div style="width:355px;height:310px;">
+<fieldset style="border:1px solid white;">
+<legend style="color:#D1D0CE;font-size:11px;">Advertisement</legend>
+
+<script type="text/javascript"><!--
 google_ad_client = "pub-0714075272818912";
 /* 336x280, created 10/26/10 */
 google_ad_slot = "9725061927";
@@ -321,6 +417,9 @@ google_ad_height = 280;
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
+
+</fieldset>
+</div>
 					
 					</div>
 <!-- google_ad_section_start -->
@@ -348,26 +447,18 @@ networkadvertising.org</a>.<br>
 </p>
 
 
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-0714075272818912";
-/* 336x2804thUnit */
-google_ad_slot = "9703952925";
-google_ad_width = 336;
-google_ad_height = 280;
-google_ad_region="test";
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
 
-					
 
 
 				
 					
 
 					<div class="AdsBottom336X280">
-					<script type="text/javascript"><!--
+					<div style="width:350px;height:310px;">
+<fieldset style="border:1px solid white;">
+<legend style="color:#D1D0CE;font-size:11px;">Advertisement</legend>
+
+<script type="text/javascript"><!--
 google_ad_client = "ca-pub-0714075272818912";
 /* bottom-300x250-1 */
 google_ad_slot = "4132951724";
@@ -378,6 +469,8 @@ google_ad_height = 250;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 
+</fieldset>
+</div>
 					</div>
 
 
@@ -388,12 +481,53 @@ google_ad_height = 250;
 
 
 
-					<div class="topicNavigations">
+					<div class="topicNavigationsBlack">
 						<a href="/sitemap/privacypolicy.shtml">«Previous</a>
 						<a href="/sitemap/privacypolicy.shtml">Index</a>
 						<a href="/sitemap/privacypolicy.shtml">Next»</a>
 					</div><br clear="all">
 
+<div style="width:520px;">
+Follow us on  <a href="https://twitter.com/RoseIndiaNet">Twitter</a>, or add us on <a href="https://www.facebook.com/roseindiaofficial">Facebook</a> or <a href="https://plus.google.com/+roseindia/posts">Google Plus</a> to keep you updated with the recent trends of Java and other open source platforms.
+						<a rel="author" href="https://plus.google.com/114616202653097923965?rel=author" target="_blank">Connect Me on Google+</a>
+						
+						</div><br clear="all">
+
+						<span class="pageTopicpostsinfo">Posted on: May 3, 2011  </span>
+					
+
+						<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+							<div id="fb-root"></div>
+							<script>(function(d, s, id) {
+							  var js, fjs = d.getElementsByTagName(s)[0];
+							  if (d.getElementById(id)) return;
+							  js = d.createElement(s); js.id = id;
+							  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+							  fjs.parentNode.insertBefore(js, fjs);
+							}(document, 'script', 'facebook-jssdk'));</script>
+
+							<table widht="700" border="0">
+							<tbody><tr>
+							<td>
+							<div class="fb-like" data-href="http://www.roseindia.net/sitemap/privacypolicy.shtml" data-send="true" data-layout="button_count" data-width="90" data-show-faces="false" font=""></div>
+							</td>
+							<td>													
+							<div class="twitter"><a href="http://twitter.com/share" class="twitter-share-button" data-text="What’s Happening to Facebook “Share”?" data-url="http://www.roseindia.net/sitemap/privacypolicy.shtml" data-count="horizontal" data-via="involver">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
+							</td>
+
+
+							<td>
+						    <div class="linkedIn"><script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-url="http://www.roseindia.net/sitemap/privacypolicy.shtml" data-counter="right"></script></div>
+							</td>
+							<td>
+							<g:plusone size="medium" href="http://www.roseindia.net/sitemap/privacypolicy.shtml"></g:plusone>
+							</td>
+							
+
+							</tr>
+							</tbody></table>
+						
+					
 
 <table width="600" border="0">
 
@@ -401,6 +535,8 @@ google_ad_height = 250;
 <tbody><tr>
 
 <td>
+
+
 <!-- Place this tag where you want the badge to render. -->
 <div class="g-plus" data-href="//plus.google.com/101872424683743167179" data-rel="publisher"></div>
 
@@ -429,6 +565,9 @@ google_ad_height = 250;
 
 </tr>
 </tbody></table>
+
+<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Froseindiaofficial&amp;width=600&amp;height=300&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=550147861717233" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:600px; height:300px;" allowtransparency="true"></iframe>
+
 
 
  
@@ -544,6 +683,30 @@ error in the ajax: 500 error"
 							</div>
 						</div>
 		
+						<div class="topicpostcommentShow">
+							<div class="topicpostcommentLeft"><img src="/d2/images/commentuser.gif"></div>
+							<div class="topicpostcommentRight">
+								<b>baseer</b><br>
+								August 22, 2013<br>
+								java question
+								<br>
+								<hr>
+								java coding for print preview... 
+							</div>
+						</div>
+		
+						<div class="topicpostcommentShow">
+							<div class="topicpostcommentLeft"><img src="/d2/images/commentuser.gif"></div>
+							<div class="topicpostcommentRight">
+								<b>Ramachandran</b><br>
+								August 22, 2013<br>
+								java question
+								<br>
+								<hr>
+								source code for print preview in java
+							</div>
+						</div>
+		
 						
 						
 
@@ -557,163 +720,133 @@ error in the ajax: 500 error"
 
 		
 
-<style>
 
-/* Generic Utility */
-.hide { position: absolute; top: -9999px; left: -9999px; }
-
-/* Specific to example one */
-
-#example-one { background: #ffff; padding: 10px; margin: 0 0 20px 0; -moz-box-shadow: 0 0 5px #666; -webkit-box-shadow: 0 0 5px #666; }
+<div class="rightbigcolumn_ads_nobackground">
 
 
-#example-one .nav { overflow: hidden; margin: 0 0 10px 0; }
-#example-one .nav li { width: 71px; float: left; margin: 0 4px 0 0; }
-#example-one .nav li.last { margin-right: 0; }
-#example-one .nav li a { display: block; padding: 5px; background: #959290; color: white; font-size: 10px; text-align: center; border: 0; }
-#example-one .nav li a:hover { background-color: #111; }
+	<style>
 
-#example-one ul { list-style: none; }
-#example-one ul li a { display: block; border-bottom: 1px solid #666; padding: 4px; color: black; font-size: 10px;text-decoration:none; }
-#example-one ul li a:hover { background: #fe4902; color: white; }
-#example-one ul li:last-child a { border: none; }
+		.ui-tabs .ui-tabs-panel {
+			background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+			border-width: 0;
+			display: block;
+			padding: 10px 1px 2px 1px;
+		}
 
-#example-one ul li.nav-one a.current, #example-one ul.featured li a:hover { background-color: #0575f4; color: white; }
-#example-one ul li.nav-two a.current, #example-one ul.core li a:hover { background-color: #d30000; color: white; }
-#example-one ul li.nav-three a.current, #example-one ul.jquerytuts li a:hover { background-color: #8d01b0; color: white; }
-#example-one ul li.nav-four a.current, #example-one ul.classics li a:hover { background-color: #FE4902; color: white; }
+	#tabs-2,#tabs-3,#tabs-4{
+		text-align:left;
+		background:white;
+	}
+	#tabs-3{
+		text-align:left;
+	}
+
+	.categorylinks {
+		PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 5px auto 10px 18px; PADDING-TOP: 0px
+	}
+	.categorylinks LI {
+		PADDING-BOTTOM: 1px
+	}
+	.categorylinks LI A {
+		PADDING-RIGHT: 1px; DISPLAY: block; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN-LEFT: -1px; 
+		/*COLOR: #003366; */
+		COLOR: #D10026;
+		PADDING-TOP: 0px; BORDER-BOTTOM: #ececec 1px solid; TEXT-DECORATION: none
+	}
+	.categorylinks A:visited {
+		/*COLOR: #003366;*/
+		COLOR: grey;
+	}
+	.categorylinks A:hover {
+		BACKGROUND: #FFEBDD; COLOR: #003366; TEXT-DECORATION: none
+	}
 
 
-</style>
-
-
- <script src="/d2/tab/organictabs.jquery.js"></script>
-    <script>
-        $(function() {
-    
-            $("#example-one").organicTabs();
-            
-            $("#example-two").organicTabs({
-                "speed": 200
-            });
-    
-        });
-    </script>
+	</style>
 
 
 
+		<!-- Tabs -->
+		<div id="tabstutorials">
+			<ul>
+				<li><a href="#tabs-1">Popular</a></li>
+				<li><a href="#tabs-2">Latest</a></li>
+				<li><a href="#tabs-3">Frameworks</a></li>
+				<li><a href="#tabs-4">Categories</a></li>
+			</ul>
+			<div id="tabs-1">
+			
+				<a href="/hibernate/index.shtml"><img src="/d2/tutorialsimages/mostpopular/Hibernate.gif" border="0" title="Hibernate"></a>
+				<a href="/struts/index.shtml"><img src="/d2/tutorialsimages/mostpopular/Struts-2.gif" border="0" title="Struts 2"></a>
+				<a href="/spring/index.shtml"><img src="/d2/tutorialsimages/mostpopular/Spring.gif" border="0" title="Spring"></a>
+				<a href="/java/index.shtml"><img src="/d2/tutorialsimages/mostpopular/Java.gif" border="0" title="Java"></a>
+				<a href="/ajax/jquery/index.shtml"><img src="/d2/tutorialsimages/mostpopular/jQuery.gif" border="0" title="jQuery"></a>
+				<a href="/html/index.shtml"><img src="/d2/tutorialsimages/mostpopular/html.gif" border="0" title="HTML"></a>
+				<a href="/ajax/index.shtml"><img src="/d2/tutorialsimages/mostpopular/ajax.gif" border="0" title="Ajax"></a>
+				<a href="/jpa/index.shtml"><img src="/d2/tutorialsimages/mostpopular/jpa.gif" border="0" title="JPA"></a>
+				<a href="/jsp/index.shtml"><img src="/d2/tutorialsimages/mostpopular/jsp.gif" border="0" title="JSP"></a>
 
-<div class="rightbigcolumn">
+				<a href="/php/index.shtml"><img src="/d2/tutorialsimages/mostpopular/php.gif" border="0" title="PHP"></a>
+				<a href="/technology/index.shtml"><img src="/d2/tutorialsimages/mostpopular/Technology.gif" border="0" title="Technology"></a>
+				<a href="/jsf/index.shtml"><img src="/d2/tutorialsimages/mostpopular/jsf.gif" border="0" title="JSF"></a>
 
-        <div id="example-one">
-        			
-        	<ul class="nav">
-                <li class="nav-one"><a href="#featured" class="current">Latest</a></li>
-								
-				<li class="nav-two"><a href="#related">Related</a></li>
+
 				
-                <li class="nav-three"><a href="#jquerytuts">Frameworks</a></li>
-                <li class="nav-four last"><a href="#classics">Category</a></li>
-            </ul>
-        	
-        	<div class="list-wrap">
-        	
-        		<ul id="featured">
+
+				
+				
+			</div>
+
+			<div id="tabs-2">
+
+
+
+        		<ul class="categorylinks">
 
 
 		
 
 
-				<li><a href="/answers/viewqa/Java-Beginners/30586-Person-have-name-field-of-Name-type-.html">Person have name field of Name type..??</a></li>
+				<li><a href="/answers/viewqa/Java-Beginners/31107-menu-driven.html">menu driven</a></li>
 
 				
-				<li><a href="/help/java/s/static-keyword-in-java.shtml">static keyword in java</a></li>
+				<li><a href="/answers/viewqa/PHP/31106-Error-reporting-in-PHP.html">Error reporting in PHP</a></li>
 
 				
-				<li><a href="/technology/what-is-RTLS-or-real-time-location-system.shtml">What is RTLS or Real Time Location System?</a></li>
+				<li><a href="/php/How-to-show-all-errors-in-PHP.shtml">How to show all errors in PHP?</a></li>
 
 				
-				<li><a href="/java/beginners/for-loop-in-java-example.shtml">for loop in java example</a></li>
+				<li><a href="/jee/jee7/JEE7-JSON-How-to-use-JEE7-JSON-API.shtml">JEE7 JSON: How to use JEE 7 JSON API?</a></li>
 
 				
-				<li><a href="/mobile/what-is-femtocell.shtml">What is Femtocell</a></li>
+				<li><a href="/answers/viewqa/Ajax/31105-Displaying-data-from-combobox-on-the-web-page.html">Displaying data from combobox on the web page</a></li>
 
 				
-				<li><a href="/answers/viewqa/JSP-Servlet/30585-Image-upload-in-mysql-database-using-jsp-servlet.html">Image upload in mysql database using jsp servlet</a></li>
+				<li><a href="/answers/viewqa/Ajax/31104-Displaying-data-from-combobox-on-the-web-page.html">Displaying data from combobox on the web page</a></li>
 
 				
-				<li><a href="/answers/viewqa/Java-Beginners/30584-assigning-arraylist-to-combo-box.html">assigning arraylist to combo box</a></li>
+				<li><a href="/answers/viewqa/Ajax/31103-Displaying-data-from-combobox-on-the-web-page.html">Displaying data from combobox on the web page</a></li>
 
 				
-				<li><a href="/answers/viewqa/Java-Interview-Questions/30583-Zoho-interview-Quest.html">Zoho interview Quest</a></li>
+				<li><a href="/answers/viewqa/Ajax/31102-Displaying-data-from-combobox-on-the-web-page.html">Displaying data from combobox on the web page</a></li>
 
 				
-				<li><a href="/answers/viewqa/Java-Interview-Questions/30582-Zoho-interview-Quest.html">Zoho interview Quest</a></li>
+				<li><a href="/answers/viewqa/Ajax/31101-Displaying-data-from-combobox-on-the-web-page.html">Displaying data from combobox on the web page</a></li>
 
 				
-				<li><a href="/answers/viewqa/Java-Interview-Questions/30581-Zoho-interview-Quest.html">Zoho interview Quest</a></li>
+				<li><a href="/answers/viewqa/Java-Beginners/31100-Jee-7-JSON-error-java-lang-ClassNotFoundException-org-glassfish-json-JsonProviderImpl.html">Jee 7 JSON error java.lang.ClassNotFoundException: org.glassfish.json.JsonProviderImpl</a></li>
 
 				
 
 
 
         		</ul>
-
-								
-
-
-
-			    <ul id="related" class="hide">
-			
+				<span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/latest.shtml">More...</a></span>
 				
+			</div>
 
-					
-
-                    <li><a href="/sitemap/all-java-tutorials.shtml">Site Map - All java tutorials</a></li>
-
-					
-
-                    <li><a href="/sitemap/contactus.shtml">Contact Us</a></li>
-
-					
-
-                    <li><a href="/sitemap/index.shtml">Site map Index</a></li>
-
-					
-
-                    <li><a href="/sitemap/privacypolicy.shtml">RoseIndia.net Privacy Policy</a></li>
-
-					
-
-                    <li><a href="/sitemap/Site-map-C-Tutorials.shtml">Site map  - C Tutorials</a></li>
-
-					
-
-                    <li><a href="/sitemap/sitemap-adobe-flex-tutorial.shtml">Sitemap Adobe Flex Tutorial</a></li>
-
-					
-
-                    <li><a href="/sitemap/sitemap-ajax-tutorial.shtml">Sitemap Ajax Tutorial</a></li>
-
-					
-
-                    <li><a href="/sitemap/sitemap-core-java-tutorials.shtml">Sitemap Core Java Tutorial Section </a></li>
-
-					
-
-                    <li><a href="/sitemap/sitemap-hibernate-tutorial.shtml">Sitemap Hibernate Tutorial</a></li>
-
-					
-
-                    <li><a href="/sitemap/sitemap-iphone-tutorial.shtml">Sitemap iPhone Tutorial</a></li>
-
-					
-
-        		 </ul>
- 				       		 
-
-
-        		 <ul id="jquerytuts" class="hide">
+			<div id="tabs-3">
+        		 <ul class="categorylinks">
 
 						<li><a href="/hibernate/">Hibernate</a></li>
 						<li><a href="/struts/">Struts 1.x</a></li>
@@ -730,8 +863,11 @@ error in the ajax: 500 error"
 						<li><a href="/tutorial/flex/flex4/index.html">Flex 4</a></li>
 
         		 </ul>
-        		 
-        		 <ul id="classics" class="hide">
+			</div>
+
+			<div id="tabs-4">
+
+        		 <ul class="categorylinks">
 						<li><a href="http://www.roseindia.net/programming-tutorial/Hibernate-Tutorials">Hibernate Framework<span class="counttopic">(&nbsp;1057&nbsp;)</span></a></li>
 						<li><a href="http://www.roseindia.net/programming-tutorial/Struts-Tutorials">Struts Framework<span class="counttopic">(&nbsp;836&nbsp;)</span></a></li>
 						<li><a href="http://www.roseindia.net/programming-tutorial/springframework">Spring Framework<span class="counttopic">(&nbsp;567&nbsp;)</span></a></li>
@@ -745,22 +881,30 @@ error in the ajax: 500 error"
 						<li><a href="http://www.roseindia.net/programming-tutorial/Web-Development">Web Development<span class="counttopic">(&nbsp;503&nbsp;)</span></a></li>
 						<li><a href="http://www.roseindia.net/programming-tutorial/PHP">PHP<span class="counttopic">(&nbsp;406&nbsp;)</span></a></li>
         		 </ul>
-        		 
-        	 </div> <!-- END List Wrap -->
-         
-         </div> <!-- END Organic Tabs (Example One) -->
+
+			</div>
+
+		</div>
+
+<script type="text/javascript">
+		// Tabs
+		$('#tabstutorials').tabs();
+
+</script>
+
+</div>
 
 
-
-		 
-		
 
 
 
 		<div class="rightbigcolumn_ads">
 	
 
-		<script type="text/javascript"><!--
+		
+<span style="color:#D1D0CE;font-size:11px;">Advertisements</span>
+
+<script type="text/javascript"><!--
 google_ad_client = "ca-pub-0714075272818912";
 /* 300x250-Created-06-12-2012 */
 google_ad_slot = "3724703324";
@@ -911,6 +1055,15 @@ google_ad_height = 90;
 
 		</div>
 
+		<div class="rightbigcolumn_ads_nobackground">
+			
+<script charset="utf-8" type="text/javascript" src="http://ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;MarketPlace=IN&amp;ID=V20070822%2FIN%2Frosind-21%2F8001%2Fe260592d-4fab-4203-b213-5831f967174a"> </script> <noscript><A HREF="http://ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&MarketPlace=IN&ID=V20070822%2FIN%2Frosind-21%2F8001%2Fe260592d-4fab-4203-b213-5831f967174a&Operation=NoScript">Amazon.in Widgets</A></noscript>
+
+
+		</div>
+
+	<div class="rightbigcolumn_ads_nobackground">
+			<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Froseindiaofficial&amp;width=340&amp;height=600&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=515251588564393" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:340px; height:600px;" allowtransparency="true"></iframe>	</div>
 
 
 
@@ -919,6 +1072,10 @@ google_ad_height = 90;
 
 
 </div>
+
+
+
+
 
 </div>
 <div class="footer">
@@ -978,4 +1135,141 @@ google_ad_height = 90;
 </div>
 
 
-</div></div></body></html>
+<div id="extruderLeft" class="a {title:'Related Tutorials', url:'/d2/leftmenu/parts/extruderLeft.html'}" style="">
+
+
+								
+
+			<div id="example-two">
+			
+			<div class="list-wrap">
+			    <ul>
+			<li><h2><span style="color:#D10026">Sitemap Tutorials</span></h2></li>
+			
+				
+
+					
+                    <li><a href="/sitemap/sitemap-web-services-tutorial.shtml">Sitemap Web Services Tutorial</a></li>
+
+					
+                    <li><a href="/sitemap/sitemap-iphone-tutorial.shtml">Sitemap iPhone Tutorial</a></li>
+
+					
+                    <li><a href="/sitemap/sitemap-adobe-flex-tutorial.shtml">Sitemap Adobe Flex Tutorial</a></li>
+
+					
+                    <li><a href="/sitemap/sitemap-ajax-tutorial.shtml">Sitemap Ajax Tutorial</a></li>
+
+					
+                    <li><a href="/sitemap/sitemap-hibernate-tutorial.shtml">Sitemap Hibernate Tutorial</a></li>
+
+					
+                    <li><a href="/sitemap/sitemap-spring-framework-tutorial.shtml">Sitemap Spring Framework Tutorial </a></li>
+
+					
+                    <li><a href="/sitemap/sitemap-struts-tutorial.shtml">Sitemap Struts Tutorial</a></li>
+
+					
+                    <li><a href="/sitemap/sitemap-linux-tutorial.shtml">Sitemap Linux Tutorial</a></li>
+
+					
+                    <li><a href="/sitemap/sitemap-javascript-tutorial.shtml">Sitemap Java Script  Tutorial</a></li>
+
+					
+                    <li><a href="/sitemap/sitemap-php-tutorial.shtml">Sitemap PHP Tutorial</a></li>
+
+					
+                    <li><a href="/sitemap/sitemap-java-servlet-tutorial.shtml">Sitemap Java Servlet Tutorial Section</a></li>
+
+					
+                    <li><a href="/sitemap/sitemap-java-swing-tutorial.shtml">Sitemap Java Swing Tutorial </a></li>
+
+					
+                    <li><a href="/sitemap/sitemap-jee5-tutorial.shtml">Sitemap JEE 5 Tutorial Section</a></li>
+
+					
+                    <li><a href="/sitemap/sitemap-jdbc-tutorial.shtml">Sitemap JDBC Tutorial Section</a></li>
+
+					
+                    <li><a href="/sitemap/sitemap-j2me-tutorials.shtml">Sitemap J2ME Tutorial</a></li>
+
+					
+					
+					
+
+					<li>
+					<a href="/alltutorials/sitemap/" style="color:#D10026">  &gt;&gt;&gt;<b>More Tutorials in this section...</b></a></li>
+
+					<li>
+
+				</li></ul>
+				</div>
+				</div>
+ 				   
+
+</div>
+
+
+<script type="text/javascript">
+
+$(window).scroll(function(){
+	if($(document).scrollTop()>=$(document).height()/4)$("#IGsocialslide").show("slow");
+	else $("#IGsocialslide").hide("slow");});
+	
+	function closeIGsocialslide(){
+	
+	$('#IGsocialslide').remove();$.ajax({type:"POST",url:"/facebookpage.php"});}
+</script>   
+
+<style type="text/css">
+
+	#IGsocialslide{  
+	    background:black url(/d2/images/bottomsharebox.gif) left top repeat-x;  border-radius:9px;  -moz-border-radius:8px;  -webkit-border-radius:8px;  -moz-box-shadow:inset 0 0 4px #333;  -webkit-box-shadow:inset 0 0 4px #333;  box-shadow:inner 0 0 3px #333;  padding:12px 14px 12px 14px;  width:300px;  position:fixed;  bottom:13px;  left:2px;  display:none;  z-index:3;  height:80px;background-color:#EDEFF4;
+	}  
+</style>
+
+<div style="display: none;" id="IGsocialslide"> 
+
+<a style="position:absolute;top:14px;right:10px;color:#D8C9C9;font-size:20px;NBTfont-weight:bold;" href="javascript:void(0);" onclick="return closeIGsocialslide();">X</a> <span style="font-family: Tekton Pro; font-size: 20px; margin: 10px 0; text-shadow: 1px 1px 0 #868686;color:#F8F0F0;">Connect us for udpates!</span><br>   
+
+<div style="float:left; margin:5px;">
+	<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Froseindiaofficial&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:20px;" allowtransparency="true"></iframe>
+</div>  
+
+<div style="float:left; margin:5px;">
+	<a href="https://twitter.com/RoseIndiaNet" class="twitter-follow-button" data-show-count="true" data-size="small" data-show-screen-name="false">Follow</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+
+<div style="float:left; margin:5px;">
+		<a href="https://plus.google.com/share?url=http://www.roseindia.net/sitemap/privacypolicy.shtml" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" style="font-size:12px;color:blue"><img src="https://www.gstatic.com/images/icons/gplus-64.png" width="15" height="15" alt="Share on Google+">Share on Google+</a>
+</div>
+
+<div style="float:left; margin:5px;">
+
+		<!-- Place this tag where you want the +1 button to render. -->
+		<div class="g-plusone" data-size="medium" style="float:left; margin:15px;"></div>
+
+		<!-- Place this tag after the last +1 button tag. -->
+		<script type="text/javascript">
+		  (function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		  })();
+		</script>
+</div>
+
+
+
+
+</div>   
+
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+
+
+
+
+</body></html>
