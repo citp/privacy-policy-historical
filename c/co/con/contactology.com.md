@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactology.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122063412id_/https%3A//www.contactology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactology.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123195701id_/https%3A//www.contactology.com/privacy.php) for the most accurate reproduction.*
 
 # Contactology - Privacy Policy
 
