@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the brill.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603024258id_/http%3A//www.brill.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brill.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123054904id_/http%3A//www.brill.com/about/policies/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | BRILL
+# Privacy Statement | Brill
+
+
+
 
 ### **Privacy Policy**
 
@@ -21,8 +24,8 @@ Brill summarize its position as folllows:
 **Email**  
 As part of the registration or account setup or when you request an inspection copy of a text or make a purchase, BRILL may require your email address. The email address you provide as part of the process will be used to contact you regarding your transaction.  We track "click-throughs" to help determine your interest in particular topics and measure the effectiveness of our customer communications.
 
- **Contact Information**  
-As part of purchasing products from Brill, you may be required to supply us with personal information. If you do not wish to be contacted, for customers in the Americas, please take advantage of the opt-out feature in our communications or let us know by contacting marketing [at] brill [dot] com.  An “opt-in”  option is available for compliance where applicable.
+**Contact Information**  
+As part of purchasing products from Brill, you may be required to supply us with personal information. If you do not wish to be contacted, for customers in the Americas, please take advantage of the opt-out feature in our communications or let us know by contacting [marketing@brill.com](mailto:marketing@brill.com).  An “opt-in”  option is available for compliance where applicable.
 
 Disclosure of Personal Data  
 BRILL currently does not sell or rent any personally identifiable information to Third Parties.  Additionally, we may disclose information in special cases when we have reason to believe that disclosing this information is reasonably necessary to: comply with the law, enforce or apply our terms of business, protect our rights and those of our users, or with your consent.
