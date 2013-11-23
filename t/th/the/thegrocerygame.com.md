@@ -1,127 +1,107 @@
-> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524085934id_/http%3A//www.thegrocerygame.com/security-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123130930id_/http%3A//www.thegrocerygame.com/security-information/privacy) for the most accurate reproduction.*
 
 # Security Information - Privacy Statement - The Grocery Game
 
-Thank you for visiting TheGroceryGame.com, a Grocery Game, Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site. 
+Thank you for visiting TheGroceryGame.com, a Grocery Game, Inc. site.
 
-**Collected Information**
+Your privacy is important to us, and we are committed to protecting the personal information you choose to share with us. This Privacy Policy applies to our Website. This Privacy Policy explains how we collect, use, protect, and share information on our Website. This Privacy Policy also explains your choices for managing your information preferences.
 
-At this site, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. 
+WHEN YOU USE OUR WEBSITE, YOU ARE ACCEPTING THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AND THE GROCERY GAME WILL HAVE THE RIGHT TO USE YOUR INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO HAVE YOUR INFORMATION USED IN ANY OF THE WAYS DESCRIBED IN THIS PRIVACY POLICY, DO NOT USE OUR WEBSITE.
 
-Also, among other things, pursuant to our referral programs you may submit information about other people. For example, you might submit a person's name address, e-mail address, and telephone number. 
+WHEN YOU USE OUR WEBSITE, YOU ARE ACCEPTING THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AND INTERMARKETS WILL HAVE THE RIGHT TO USE YOUR INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO HAVE YOUR INFORMATION USED IN ANY OF THE WAYS DESCRIBED IN THIS PRIVACY POLICY, DO NOT USE OUR WEBSITE.
 
-At certain parts of our site, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings. 
+##  Information We Collect through the Site
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
+**Personally Identifiable Information:** We collect information that personally identifies you, such as your name, username, email address, credit card details, and other information as we may from time to time request from you (“Personally Identifiable Information”) if you share such information with us. For example, you may be asked to provide us with certain Personally Identifiable Information when you register with or use our services, when you register with or use the Site, or at any time we provide an online form. The decision to provide this information is optional; however, if you elect not to register with or provide such information, you may not be able to access certain content, features, or services available on or through the Site.
 
-**Use of Information**
+**Non-Personally Identifiable Information:** We automatically collect Non-Personally Identifiable Information when you use the Site. Non-Personally Identifiable Information includes demographic information (such as age, gender, city or state) and a user’s click stream information (i.e., web pages viewed, the date and time at which those pages were viewed and interaction with content and advertisements on those Web pages).
 
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
+**Cookies and Web Beacons:** We may use cookies (a small text file placed on your computer to identify your computer and browser), Web beacons (an electronic file placed on a website that monitors usage), and other similar technologies to improve the quality of the Site. Our cookies and web beacons are used for web server statistics only and does not include your name or anything identifiable to you.
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one a contest or when we make changes to our membership agreements, or to contact you about your account with us. 
+##  How We Use and Share Information Collected through the Site
 
-We use the information that you provide about others to enable us to send them information to offer our products, programs, or services to them. 
+**General:** We use Personally Identifiable Information and Non-Personally Identifiable Information for internal purposes only, such as to notify you of new products or services, to send service notifications, to fulfill your requests for products and services, to improve the Site, to conduct research, to solicit your feedback and input about the Site, and to offer e-mail promotions from our trusted network of partners (which you may opt-out of at any time, as described more fully below). Personally Identifiable Information and Non-Personally Identifiable Information may be combined with data collected from other sources, consistent with applicable law, so that we may further improve the relevance and effectiveness of products, services, and advertisements offered on or through the Site.
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. 
+**Service Providers:** The Grocery Game may share Personally Identifiable Information with its service providers that help us provide the services that you request (“Service Providers”). For example, we may contract with Service Providers to provide certain services, such as credit card processing, advertising, analytics tools, data management services, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services, however, each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your information from unauthorized access, destruction, use, modification or disclosure.
 
-If you choose to submit content for publication, we may publish your screen name and other information you have provided to us. 
+**Non-Personally Identifiable Information Only:** We use this information to help us understand how people use our Site. For example, each time you use the Site we automatically collect the type of Web browser you use, your operating system, your ISP, which pages you view, and the time and duration of your visits to the Site.
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
+**Other Transfers:** We may share Personally Identifiable Information and Non-Personally Identifiable Information with businesses controlling, controlled by, or under common control with The Grocery Game.  If The Grocery Game is merged, acquired, or sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer Personally Identifiable Information and Non-Personally Identifiable Information in connection with such transaction. You will have the opportunity to opt out of any such transfer if, in our discretion, the new entity plans to handle your information in a way that differs materially from this Privacy Policy.
 
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we are acquired by or merged with another company. 
+**Third Party Sharing:** The Grocery Game may use, and disclose to third parties, certain Non-Personally Identifiable Information regarding the Site (e.g., number of visits, page views, and the like) without your permission. However, such information does not identify you individually. As for Personally Identifiable Information, we may share your first name, email address, zip code, and party affiliation with our trusted network of partners. However, we will provide you with an opportunity to opt out of sharing such information.
 
-Agents and contractors of The Grocery Game, Inc. who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for The Grocery Game, Inc. 
+**Compliance with Laws and Law Enforcement:** The Grocery Game cooperates with government and law enforcement officials and private parties to enforce and comply with the law. The Grocery Game reserves the right to disclose Personally Identifiable Information and Non-Personally Identifiable Information to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property or rights of The Grocery Game or of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. 
+##  Opt-Out Procedure
 
-Finally, The Grocery Game, Inc. will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
+**Opt-Out of Third Party Sharing of Personal Information:** If you do not want to receive email promotions from our trusted network of partners, email us at [unsubscribe@thegrocerygame.com](mailto:unsubscribe@thegrocerygame.com) and you will be removed from our Third Party disclosure list.
 
-**Cookies & Web Beacons**
+Once a request to opt out has been received, The Grocery Game will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of The Grocery Game database. If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed.
 
-To enhance your experience with our site, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
+##  Third Party Websites
 
-We use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, etc. We also may use cookies to offer you products, programs, or services. 
+The Site may contain links to websites or content operated and maintained by third parties. The Grocery Game  does not control those sites or their privacy practices, which may differ from our practices. If you click on a link or an advertisement, the privacy policy of the website to which you link will govern the collection and use of your information by that website’s operator(s). You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before disclosing any information to the website. For more information, please click here.
 
-"Web beacons" or clear .gifs are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on this site from time to time for this and other purposes. 
+##  Security
 
-**Collection of Information by Third-Party Sites, Ad Servers, and Sponsors**
+We recognize the importance of safeguarding the confidentiality of your information. Accordingly, we employ standard security measures designed to protect your information from unauthorized access. However, no data transmission over the Internet or other network can be guaranteed to be 100% secure. Therefore, while we strive to protect any information you transmit on or through the Site, please be advised that The Grocery Game assumes no responsibility or liability for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond The Grocery Game's reasonable control.
 
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
+##  Processing in the United States
 
-Our site sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. The Grocery Game, Inc. has no control over these third parties' use of this information. 
+We process and store all information in the United States. By using our Site, you agree that the collection, use, transfer, and disclosure of your Personally Identifiable Information will be governed by the applicable laws in the United States.
 
-Our site may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy policy. 
+##  Children's Privacy Statement
 
-**Third Party Ad Servers**
+The Grocery Game  Site is directed to, and intended for use by, adults only. We do not knowingly collect information from children under the age of 13. If we become aware that we have inadvertently received information from a child under the age of 13, we will delete such information from our records. Because we do not knowingly collect any information from children under the age of 13, we also do not knowingly distribute such information to third parties.
 
-We and our advertisers may use third parties to serve or present the ads that appear on our site and to conduct research about the advertisements. Below is a non-exhaustive, representative list of such third parties and a link to their privacy notices. For more information, click on the links below. 
+##  Privacy Policy Changes
 
-Atlas DMT: [**http://www.networkadvertising.org**](http://www.networkadvertising.org/) or [**http://www.atlasdmt.com/privacy/**](http://www.atlasdmt.com/privacy/)   
-Bluestreak: [**http://wwwbluestreak.com/web/aboutus_privacypolicy.htm**](http://wwwbluestreak.com/web/aboutus_privacypolicy.htm)   
-DoubleClick: [**http://www.networkadvertising.org**](http://www.networkadvertising.org/) or [**http://www.doubleclick.com/us/corporate/privacy**](http://www.doubleclick.com/us/corporate/privacy)   
-Eyeblaster: [**http://www.eyeblaster.com/privacy.asp**](http://www.eyeblaster.com/privacy.asp)   
-EyeWonder: [**http://www.eyewonder.com/ewNPrivacy/privacy.cfm**](http://www.eyewonder.com/ewNPrivacy/privacy.cfm)   
-Dynamic Logic: [**http://www.dynamiclogic.com/privacy_policy.php**](http://www.dynamiclogic.com/privacy_policy.php)   
-Klipmart: [**http://www.klipmart.com/privacy.html**](http://www.klipmart.com/privacy.html)   
-Millward Brown IntelliQuest: [**http://www.intelliquest.com/privacy/intro.asp**](http://www.intelliquest.com/privacy/intro.asp)   
-Unicast: [**http://www.unicast.com/company/privacy.asp**](http://www.unicast.com/company/privacy.asp)
+The Grocery Game  may update this Privacy Policy from time to time, and so you should review this Policy periodically. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will go into effect on the Revision Date shown at the top of the revised Privacy Policy. Your continued use of the Site constitutes your consent to the revised Privacy Policy.
 
-**Our Commitment to Security**
+##  Questions and Concerns
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
+If you have questions or concerns about this Privacy Policy, please email us at [marketing@thegrocerygame.com](mailto:marketing@thegrocerygame.com) or send us a letter at The Grocery Game, Inc., Attention: 124 Lasky Dr., 2nd Floor, Beverly Hills, CA  90212
 
-**How You can Access or Correct Information**
+##  California Privacy Notice
 
-Access to personally identifiable information that is collected from our sites may be accessible for a limited period of time from the point of collection. For example, if you created a password-protected account within our site go back to that portion of the site to review the information you provided. 
+California's Shine the Light law provides California residents with the right to receive disclosures about any sharing of their personal information with other companies.
 
-You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for said service. 
+If you are a California resident and you provided your personal information to The Grocery Game, then, once each calendar year, you may submit a written request for information about the information we shared, if any, with other companies for their use in direct marketing. To submit your written request, please email us at [marketing@thegrocerygame.com](mailto:marketing@thegrocerygame.com) or send us a letter at The Grocery Game, Attention: Privacy, 124 Lasky Dr., 2nd Floor, Beverly Hills, CA 90212 with "Request for California Privacy" in the letter subject line.
 
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+Within 30 days of receiving your request, we will send you a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.
 
-**Special Note for Parents**
+We reserve our right not to respond to requests sent more than once in a calendar year, or requests submitted to an address other than the one posted in this notice.
 
-The site you are visiting is a general audience site. 
+Please note that the California Shine the Light law does not cover all information sharing. Our disclosure only includes information covered by the law.
 
-**How to Contact Us**
-
-If you have any questions or concerns about our online policy for this site or its implementation you may contact us at:
-
-The Grocery Game, Inc.  
-P.O. Box 2446,   
-Santa Clarita, CA 91386-2446
-
-**Updates & Effective Date**
-
-From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
-
-The Privacy Notice posted on this site was updated on or about December 29, 2004. 
+The Privacy Notice posted on this site was updated on or about June 18, 2013
 
 ## Save 67% or more on groceries by joining The Grocery Game
 
 Enter your zip to find out which stores are available.  
 ZIP CODE[NEXT ](https://web.archive.org/sign-up/try-teris-list-free-for-4-weeks/index.cfm)
 
-  * 20,291
+  * 17,740
 
 ###### Deals Valid Today in the US
 
-  * 12,175
+  * 10,644
 
 ###### Unadvertised Sales this week
 
-  * 117,695
+  * 145,218
 
 ###### Deals Members Shopped For This Week
 
-  * $381,919
+  * $443,264
 
 ###### Amount Members Saved this week
 
-  * 131
+  * 109
 
 ###### Local lists in the US
 
-  * $1,527,611
+  * $1,526,559
 
 ###### Amount Members Saved this month
 
