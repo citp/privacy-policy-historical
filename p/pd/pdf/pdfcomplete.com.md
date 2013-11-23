@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfcomplete.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511033854id_/http%3A//www.pdfcomplete.com/cms/Company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfcomplete.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123202749id_/http%3A//www.pdfcomplete.com/cms/Company/privacy.aspx) for the most accurate reproduction.*
 
 # PDF Complete Privacy Policy
 
@@ -73,6 +73,6 @@ Please remember that information you submit in a for purposes of customer or pro
 
 If you have any questions, comments, or would like to change your communication preferences, please contact us using one of the options below:
 
-[Email your Privacy comments or questions to privacy@pdfcomplete.com](mailto:privacy@pdfcomplete.com)
+Email your Privacy comments or questions to [privacy@pdfcomplete.com](mailto:privacy@pdfcomplete.com)
 
 | 
