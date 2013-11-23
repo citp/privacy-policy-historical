@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polycom.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621022004id_/http%3A//www.polycom.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polycom.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123192131id_/http%3A//www.polycom.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Polycom, Inc.
 
