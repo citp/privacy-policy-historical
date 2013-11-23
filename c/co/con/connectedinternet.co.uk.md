@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the connectedinternet.co.uk privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520024432id_/http%3A//www.connectedinternet.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectedinternet.co.uk privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123101230id_/http%3A//www.connectedinternet.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy PolicyConnected Internet - tech, mobile and gaming news.
 
 Connected Internet may from time to time collect names and/or details of website visitors. This may include the mailing list, blog comments sections and in various sections of the Connected Internet site.These details will not be passed onto any other third party or other organisation unless we are required to by government or other law enforcement authority.
 
