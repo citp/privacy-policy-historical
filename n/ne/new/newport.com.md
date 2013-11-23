@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newport.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610144633id_/http%3A//www.newport.com/cms/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newport.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123194053id_/https%3A//www.newport.com/cms/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,10 +56,6 @@ We do not engage in list selling or "cookie swapping" with other companies.
 **Links**
 
 This Site contains hyperlinks to other sites. Newport is not responsible for the privacy practices or the content of such sites, including any sites that may indicate a special relationship or partnership with Newport. The linked sites may collect personal information from you when you link to the site. This collecting of information is not subject to Newport's control. To ensure protection of your privacy, always review the privacy policy of the sites you visit by linking from our Site.
-
-**ClickTale Analytics Disclosure**
-
-Newport.com and its associated sub-domains use the ClickTale web analytics service. Newport uses information collected by ClickTale services to better understand how users interact with our website in an effort to continually improve our customer service and user experience. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type while visiting the website. Newport does not use ClickTale to collect any personally identifiable information entered while visiting the website. ClickTale does not track your browsing habits across web sites which do not use the ClickTale service. For more information, see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). You can choose to disable the ClickTale service by following [ClickTale's service disabling instructions](http://www.clicktale.net/disable.html).
 
 **Security**
 
