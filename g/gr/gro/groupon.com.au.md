@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupon.com.au privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517165412id_/http%3A//www.groupon.com.au/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.com.au privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123012619id_/http%3A//www.groupon.com.au/data_privacy) for the most accurate reproduction.*
 
 # Up to 70% discount on restaurants, spas, wellness, fitness - groupon.com.au
 
