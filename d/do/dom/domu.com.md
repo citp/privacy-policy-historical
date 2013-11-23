@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the domu.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404085146id_/http%3A//www.domu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domu.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123190419id_/http%3A//www.domu.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | Domu Chicago
+# Privacy Statement
 
 **What information is collected**
 
