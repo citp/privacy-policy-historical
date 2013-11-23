@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coderbyte.com privacy policy that was archived on 2013-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615231359id_/http%3A//www.coderbyte.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coderbyte.com privacy policy that was archived on 2013-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131123085222id_/http%3A//www.coderbyte.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head> 
 <title> Coderbyte </title>  
@@ -164,13 +164,13 @@ If there are any questions regarding this privacy policy you may contact us usin
             <a href="#" class="copyright" onclick="return false"> Coderbyte 2013 </a>
             <a href="../CodingArea/"> Coding Area </a>
             <a href="../About/"> About </a> 
-            <a href="http://coderb.it"> Hack </a> 
+            <a href="http://coderb.it" style="display: none;"> Hack </a> 
             <a href="../sl/"> Sign Up/Login </a>   
             <a href="http://blog.coderbyte.com/"> Blog </a>  
             
             <a href="../News/"> News </a> 
             <a href="#"> Privacy </a> 
-            <a href="../Contact/"> Contact </a> 
+            <a href="../Contact/"> Contact </a><a href="http://coderbyte.com/Contact/">Advertise</a> 
         </div>
     </div>
     
@@ -195,6 +195,8 @@ $(document).ready(function(){
     $('a[href$="Privacy/"]').text("Privacy");
     
     $("#nav .forums").next().css({"display":"none"});
+    
+    $("a[href*='Contact']").after("<a href='http://coderbyte.com/Contact/'>Advertise</a>"); 
     
 });
 
