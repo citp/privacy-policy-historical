@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cxotoday.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523180524id_/http%3A//www.cxotoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cxotoday.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123194851id_/http%3A//www.cxotoday.com/privacy) for the most accurate reproduction.*
 
 # Technology News, Business Technology News, Information Technology News, Tech News India | CXOToday.com
 
@@ -45,6 +45,8 @@ If you do not consent, please do not provide your personal information or, where
 **Notification Of Changes -** If we decide to change our privacy policy, we will seek to advise all users of these changes.
 
 **Legal Disclaimer -** Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law, or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our website.
+
+**Terms of Content Use -** THE CONTENT HEREIN AND THE RESEARCH MATERIAL ARE PROVIDED ON AN "AS IS" BASIS WITHOUT WARRANTY AND REPRESENTATION OF ANY KIND, WHETHER EXPRESS OR IMPLIED, AND NEITHER TRIVONE ITS DIRECTORS, EMPLOYERS, STAFF NOR THE TITLE AND/OR INTELLECTUAL PROPERTY RIGHT HOLDERS MAKE ANY REPRESENTATIONS OR WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE WARRANTIES OF USABILITY FOR A PARTICULAR PURPOSE OR THAT THE CONTENT OR THE RESEARCH MATERIAL WILL NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR ANY OTHER RIGHTS. THE READER ASSUMES ALL RESPONSIBILITY AND RISK FOR THE SELECTION OF THE CONTENT AND RESEARCH MATERIAL TO ACHIEVE READERS INTENDED RESULTS. IN THE EVENT THE WARRANTY EXCLUSION IS NOT VALID IN SOME JURISDICTION, THE READERS HEREBY ACKNOWLEDGE AND AGREE THAT THE WARRANTY EXCLUSION SET FORTH IN THIS SECTION SHALL BE APPLIED TO THE MAXIMUM EXTENT PERMITTED BY THE APPLICABLE LAW.
 
 **Contacting Trivone Digital Services Pvt Ltd -** If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us by using the online [Feedback Form](http://www.techtree.com/content/feedback), visiting the [Contact Us page](http://www.techtree.com/content/contact-us.html), or at the following address:  
 
