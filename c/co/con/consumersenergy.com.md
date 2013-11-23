@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the consumersenergy.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522000004id_/http%3A//www.consumersenergy.com/Content.aspx%3Fid%3D1121) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersenergy.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123094428id_/http%3A//www.consumersenergy.com/Content.aspx%3Fid%3D1121) for the most accurate reproduction.*
 
 # Privacy | Consumers Energy
 
-### REVISED OCTOBER 01, 2010
-
-  
-
-
-Privacy is a high priority at Consumers Energy. This statement has been designed to help you understand what information we gather from our online guests and what we do with it. Our [Security Statement](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=1122 "Security") explains the steps we take to protect sensitive information.
+Privacy is a high priority at Consumers Energy. This statement has been designed to help you understand what information we gather from our online guests and what we do with it. Our [Security Statement](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=1122 "Security") explains the steps we take to protect sensitive information. Read more about Customer Data Privacy for [electric](https://web.archive.org/uploadedFiles/CEWEB/SHARED/Rates_and_Rules/electric-rate-book.pdf#page=112 "electric") and [natural gas](https://web.archive.org/uploadedFiles/CEWEB/SHARED/Rates_and_Rules/gas-rate-book.pdf#page=94 "natural gas") customers as approved by the Michigan Public Service Commission in 2013.
 
 ### Contents of Privacy Statement:
 
@@ -17,11 +12,9 @@ Consumers Energy, a subsidiary of CMS Energy, gathers general information from a
 
 When you come to our site, we gather statistical information such as your Internet Provider and pages visited within our site. This is used to help us continually improve our website and compile broad demographic information.  (See our statement regarding “cookies.”)
 
-In a few areas of our website we request specific information from our guests. Basically, we only ask for information we need, when we need it. In most cases you can decline to provide the information. In these cases, if you decide not to provide the information, or provide incorrect information, you will not be able to take full advantage of the services offered. Sensitive information is handled in a secure manner (See [Security Statement](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=1122 "Security Statement") for more details).  
+In a few areas of our website we request specific information from our guests. Basically, we only ask for information we need, when we need it. In most cases you can decline to provide the information. In these cases, if you decide not to provide the information, or provide incorrect information, you will not be able to take full advantage of the services offered. Sensitive information is handled in a secure manner (See [Security Statement](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=1122 "Security Statement") for more details).
 
-
-##### How do I change, delete or opt-out of a service?   
-
+##### How do I change, delete or opt-out of a service? 
 
 To change or delete information previously provided, or opt-out of a service you previously enrolled in, do one of the following:
 
@@ -88,3 +81,5 @@ Jackson, MI 49201
 [Back to top](https://web.archive.org/content.aspx?id=1121#Top "Back to top")
 
 Check back to the Consumers Energy homepage often to see what other services we have to offer. For help using this system, please contact us by [e-mail](https://customer.consumersenergy.com/cgi-bin/cmsenergy.cfg/php/enduser/ask.php? "e-mail") or call Customer Service toll-free at (800) 477-5050.
+
+### REVISED NOVEMBER 15, 2013
