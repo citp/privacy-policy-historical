@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the instantcustomer.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122015605id_/http%3A//www1.instantcustomer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcustomer.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124083914id_/http%3A//www1.instantcustomer.com/privacy-policy) for the most accurate reproduction.*
 
 # InstantCustomer.com » Privacy Policy
 
-**www.monsterfollowup.com**
+**www.instantcustomer.com**
 
 **Privacy Policy**
 
-Welcome to www.monsterfollowup.com (the "Site"). 
+Welcome to www.instantcustomer.com (the “Site”). 
 
 We understand that privacy online is important to users of our Site, especially when conducting business. 
 
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services (collectively, "Services") offered by www.monsterfollowup.com ("Authorized Customers"). 
+This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services (collectively, “Services”) offered by www.instantcustomer.com (“Authorized Customers”). 
 
 **What is Personally Identifiable Information?**
 
@@ -30,27 +30,27 @@ We use Personally Identifiable Information to customize the Site, to make approp
 
 **With whom may the information may be shared?**
 
-Personally Identifiable Information about Authorized Customers may be shared only with other Authorized third party service vendors for purposes of completing transactions. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
+Personally Identifiable Information about Authorized Customers may be shared only with other Authorized third party service vendors for purposes of completing transactions. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf. 
 
 **How is Personally Identifiable Information stored?**
 
-Personally Identifiable Information collected by www.monsterfollowup.com is securely stored and is not accessible to third parties or employees of www.monsterfollowup.com except for use as indicated above. 
+Personally Identifiable Information collected by www.instantcustomer.com is securely stored and is not accessible to third parties or employees of www.instantcustomer.com except for use as indicated above. 
 
 **What Choices are Available to Visitors Regarding Collection, Use and Distribution of the Information?**
 
-Visitors and Authorized Customers may opt out of receiving information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by [contacting us](http://www.monsterfollowup.com/s/admin/index.php?&req_tag=doc&id=10014). 
+Visitors and Authorized Customers may opt out of receiving information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by [contacting us](http://www.monsterfollowup.com/s/admin/index.php?&req_tag=doc&id=10014). 
 
 **Are Cookies Used on the Site?**
 
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off. 
 
-**How do www.monsterfollowup.com  Use Login Information? **
+**How do www.instantcustomer.com  Use Login Information? **
 
-www.monsterfollowup.com use login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
+www.instantcustomer.com use login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information. 
 
 **What Partners or Service Providers Have Access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**
 
-www.monsterfollowup.com have entered into and may continue to enter into relationships with authorized third party vendors for transaction processing, tax accounting and other financial services. Such vendors may have access to certain Personally Identifiable Information on a need to know basis in the course of performing their services. Our privacy policy does not cover their exposure to this information. 
+www.instantcustomer.com have entered into and may continue to enter into relationships with authorized third party vendors for transaction processing, tax accounting and other financial services. Such vendors may have access to certain Personally Identifiable Information on a need to know basis in the course of performing their services. Our privacy policy does not cover their exposure to this information. 
 
 **Disclosure of Personally Identifiable Information to Comply with Law**
 
@@ -66,7 +66,7 @@ Visitors and Authorized Customers may contact us to update Personally Identifiab
 
 **Can a Visitor Delete or Deactivate Personally Identifiable Information Collected by the Site?**
 
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by [contacting us](http://www.monsterfollowup.com/s/admin/index.php?&req_tag=doc&id=10014). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by [contacting us](http://www.monsterfollowup.com/s/admin/index.php?&req_tag=doc&id=10014). However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
 
 **What Happens if the Privacy Policy Changes?**
 
