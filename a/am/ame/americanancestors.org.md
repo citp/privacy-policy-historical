@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanancestors.org privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520164806id_/http%3A//www.americanancestors.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanancestors.org privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124201200id_/http%3A//www.americanancestors.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ This site contains links to other sites. AmericanAncestors.org is not responsibl
 
 Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (e.g., email address), unique identifiers, financial information (e.g., credit card numbers), and demographic information (e.g., zip code, age, or income level). Contact information from the order form is used to send orders and information about our company to our customers and to get in touch with the visitor when necessary. Users may opt out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the user's qualifications and to bill the user for products and services. Unique identifiers are collected from website visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is used to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-This site uses a tool which collects your requests for pages and passes elements of them to search engines to assist them in indexing this site. We control the configuration of the tool and are responsible for any information sent to the search engines.
+This site uses a tool which collects your requests for pages and passes elements of them to search engines to assist them in indexing this site, and track marketing behavior for promotional effectiveness. We control the configuration of the tool and are responsible for any information sent to the search engines. 
 
  **Public Forums  
 ** This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. NEHGS reserves the right to modify and/or delete postings for clarity, appropriateness or any other reason. 
