@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancockfabrics.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430233848id_/http%3A//www.hancockfabrics.com/Security---Privacy_stcVVcatId537817VVviewcat.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockfabrics.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124145015id_/http%3A//www.hancockfabrics.com/Security---Privacy_stcVVcatId537817VVviewcat.htm) for the most accurate reproduction.*
 
 # Security & Privacy
 
