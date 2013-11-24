@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sanramon.org privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612012200id_/http%3A//www.sanramon.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanramon.org privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125004901id_/http%3A//sanramon.org/privacy-statement) for the most accurate reproduction.*
 
-# San Ramon Chamber of Commerce » Privacy Statement
+# Privacy Statement - San Ramon Chamber of Commerce
 
 We collect personal information about you and all our clients from the information you submit on our applications or other forms, and through information, we obtain over the course of your business relationship with our affiliates, others, and us. In addition, we may from time to time receive information about you from a consumer-reporting agency.
 
