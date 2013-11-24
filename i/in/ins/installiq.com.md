@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the installiq.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604033956id_/http%3A//policy.installiq.com/PrivacyPolicy_Full.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the installiq.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124072549id_/http%3A//policy.installiq.com/PrivacyPolicy_Full.html) for the most accurate reproduction.*
 
 # InstallX, LLC’s Privacy Policy Statement
 
