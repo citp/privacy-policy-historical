@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shureasia.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521210200id_/http%3A//www.shureasia.com/en/meta_en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shureasia.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124060226id_/http%3A//www.shureasia.com/en/meta_en/privacy) for the most accurate reproduction.*
 
 # Shure Asia | Shure Privacy Statement
 
@@ -22,36 +22,36 @@ As used in this Privacy Policy, "Shure Entities" refers to Shure Asia Limited an
 
   
 **IP Address  
-** We use your IP address to help diagnose problems with our server, to administer our Web site and to gather broad demographic information.
+**We use your IP address to help diagnose problems with our server, to administer our Web site and to gather broad demographic information.
 
 **Cookies  
-** Our site uses cookies to keep track of your region and language preference. If you prefer to leave your cookies turned off, you will not be remembered by our site and you will need to begin a new session every time you visit the site. We reserve the right to use cookies for other purposes as well.
+**Our site uses cookies to keep track of your region and language preference. If you prefer to leave your cookies turned off, you will not be remembered by our site and you will need to begin a new session every time you visit the site. We reserve the right to use cookies for other purposes as well.
 
 **User Contact Information  
-** We use registration forms, order forms, and online surveys that require users to provide us their contact information such as name, address, email, etc. We may use this information to provide additional information about Shure that we feel will interest our users. We do not share or sell this data outside of the Shure Entities.
+**We use registration forms, order forms, and online surveys that require users to provide us their contact information such as name, address, email, etc. We may use this information to provide additional information about Shure that we feel will interest our users. We do not share or sell this data outside of the Shure Entities.
 
 Users are also offered the option to opt-out of receiving these messages if they so desire at the points where we request contact information. We also provide visitors with the option of removing their information from our database should they no longer wish to receive future communications from Shure Asia Limited. To do this, simply send an email to [emarketing@shure.com.hk](mailto:emarketing@shure.com.hk).
 
   
 **Public Forums  
-** This site does not engage in public forums such as chat rooms, message boards or newsgroups at this time. We do operate a FAQ/Knowledge Base function that accepts questions from users. These inquiries and answers from Shure Asia Limited become part of the Shure Web site Knowledge Base and will be publicly accessible. No user personal data is published as part of this process.
+**This site does not engage in public forums such as chat rooms, message boards or newsgroups at this time. We do operate a FAQ/Knowledge Base function that accepts questions from users. These inquiries and answers from Shure Asia Limited become part of the Shure Web site Knowledge Base and will be publicly accessible. No user personal data is published as part of this process.
 
 Shure Asia Limited may, from time to time, solicit and accept user input of anecdotal stories or personal experiences with Shure products for the express purpose of public posting on this Web site. We reserve the right to edit such user input as we see fit. Users participating are advised to remember that any information that you submit becomes public information. We advise that you exercise caution when deciding to publicly disclose your personal information.
 
 **Security  
-** Shure Asia Limited has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+**Shure Asia Limited has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
 **Correct/Update  
-** To change or modify information previously provided, please email [emarketing@shure.com.hk](mailto:emarketing@shure.com.hk).
+**To change or modify information previously provided, please email [emarketing@shure.com.hk](mailto:emarketing@shure.com.hk).
 
 **Links  
-** This site contains links to other sites. Shure Asia Limited is not responsible for the privacy practices or content available on these other sites.
+**This site contains links to other sites. Shure Asia Limited is not responsible for the privacy practices or content available on these other sites.
 
 **Future Changes  
-** Shure Asia Limited reserves the right to amend or change all or part of this Privacy Policy at any time and without notice.
+**Shure Asia Limited reserves the right to amend or change all or part of this Privacy Policy at any time and without notice.
 
 **Webmaster  
-** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
 
 Shure Asia Limited  
 Attn: Webmaster  
