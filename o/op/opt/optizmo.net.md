@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optizmo.net privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505200157id_/http%3A//www.optizmo.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optizmo.net privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124022332id_/http%3A//www.optizmo.net/privacy.html) for the most accurate reproduction.*
 
 # Optizmo Technologies
 
