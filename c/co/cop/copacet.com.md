@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copacet.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430082339id_/http%3A//copacet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copacet.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124021920id_/http%3A//copacet.com/privacy) for the most accurate reproduction.*
 
 # Privacy | | CopacetCopacet
 
