@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the easyprofitlist.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000658id_/http%3A//easyprofitlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyprofitlist.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124075407id_/http%3A//easyprofitlist.com/privacy.php) for the most accurate reproduction.*
 
 # Easy Profit List - Get Hits | More Traffic | To Build A List
 
-[](http://easyprofitlist.com/bannerclick.php?id=6890)  
+[](http://easyprofitlist.com/bannerclick.php?id=8482)  
 
 
 Easy Profit List Privacy Policy
@@ -35,7 +35,5 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
-Copyright (c) Easy Profit List All Rights Reserved 
-
-[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [Recommended Site Of The Day](https://web.archive.org/recommends.php)   
-
+Copyright (c) Easy Profit List All Rights Reserved  
+[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [Recommended Site Of The Day](https://web.archive.org/recommends.php)
