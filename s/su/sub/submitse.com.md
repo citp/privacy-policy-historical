@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitse.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323011156id_/http%3A//www.submitse.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitse.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125002459id_/http%3A//www.submitse.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,10 +49,12 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-SubmitSE / SeMediaNetwork  
-http://www.SubmitSE.com  
-SubmitSE / SeMediaNetwork 795 96 Rättvik, Sweden Tel: +46-723-080932 A Product / Service by SeoflexMedia®   
-+46-723-080932  
-info@SubmitSE.com
+ExciteMediaNetwork, LLC®
 
-This document was last updated on Dec 4, 2012
+A Product / Service by  
+ExciteMediaNetwork, LLC®
+
+Email: info @ excitemedianetwork.com  
+Web: www.excitemedianetwork.com
+
+This document was last updated on Nov 22, 2013
