@@ -1,41 +1,67 @@
-> *The following text is extracted and transformed from the themotherlist.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427064922id_/http%3A//themotherlist.com/index.php%3Fa%3D28%26b%3D141) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themotherlist.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124025110id_/http%3A//themotherlist.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - The Mother List
 
-The Mother List (the "Site") respects your privacy. Here's our privacy policy for this Site:
+The Mother List believes in your privacy. Just as importantly, The Mother List will never rent, share, or sell our subscriber list. We appreciate you joining our site, and we promise not to abuse that trust. We make this promise because we understand just how much you value your privacy. We are moms too. The policy below describes how we treat the information we collect when you visit our site and/or register for The Mother List. Please read on carefully.
 
-  
-**Personally Identifiable Information**
+For more information about the terms and conditions of using this site please see [Terms and Conditions](http://themotherlist.com/terms-conditions/).
 
-The Site will not provide our advertisers or anyone else outside the Site with any information specific to you collected from the Site unless we have your consent. The only Site employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution.
+By using the website, you signify your assent to our privacy policy. If you do not agree with this privacy policy, please do not use our website. Your continued use of this website following posting of changes to these terms will mean you accept those changes.
 
-  
-**Information that is Collected and Used:**
+#### Your Information
 
-We will not release your name, e-mail address or any other personal information to anyone else outside the Site unless we have your consent. However, we may disclose your personal information if (i) required to do so by law, court order or subpoena, or as requested by other government, law enforcement, or investigative authority, (ii) we in good faith believe that such disclosure is necessary or advisable, including without limitation to protect the rights or properties of the Site, (iii) we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, or has breached an agreement, or if anyone else could be harmed by such activities or interference, (iv) if we determine an ad posted violates our terms of use or the rights of a third party, or (v) there is an emergency involving personal danger.  
-Please note that if you post any of your personal information on the Site, such information may be collected and used by others over whom the Site has no control. The Site is not responsible for the use by third parties of information you post or otherwise make public.
+The Mother List doesn’t collect any information except that expressly provided by you. We will not disclose your personal information to any third party without your consent, except as required to provide you with the awesome information and insights on The Mother List.
 
-  
-**Cookies**
+Please be aware that any messages, information or materials you post on The Mother List are not private, are public, and are subject to the terms of this policy. Please do not submit any information to our site that you would like to be kept private or secure. We do not control or regularly review the messages, information or materials posted in the message boards. It is a condition of your use of the message boards and the website that you do not upload to, post, distribute or transmit to or through the website any messages, information or materials which violate or infringe in any way the rights of others, or which are libelous, defamatory, obscene, pornographic, threatening, abusive, unlawful or would otherwise violate any law, or encourage such conduct, or which, without our express written consent, contains advertising or any commercial solicitation; post or transmit any material that contains a virus or other harmful component; restrict or inhibit anyone from using and enjoying the message boards.
 
-"Cookies" are small text files that allow Web sites to store and retrieve information about you from your computer system. The Site does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a Site cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their website.
+#### Other Information
 
-  
-**Communication from the Site**
+In order to make our site better, we may also request other information from you. Just generic stuff — like income level or age, that will help us tailor the site to your needs. We may also share this information with third parties, but only in aggregate, anonymous form. No third party will receive information from us that personally identifies you or anyone else in any way.
 
-From time to time, we may send you information with announcements and updates about the Site and your account. You may elect to opt-out of ongoing e-mail communication from us, such as newsletters, subscriptions, account information, promotional materials, contest results, survey inquiries, etc. by using a simple "opt out" procedure. You need only reply to the communication with the word "unsubscribe" (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list. 
+#### Usage Information
 
-  
-**Children**
+It is important for us to gather information on how our site is used. All of this information is collected in aggregate form. None of it is personally identifiable. This information will not make it possible for us to corner the market on, say, frozen concentrated orange juice. It’s collected only to help us to, among other things, handle traffic on The Mother List, and to make sure that our service reaches you in the most efficient manner possible.
 
-The Site is not intended for children under the age of 13 nor does the Site knowingly collect personal information from children under 13. The Site does not orient this Site toward children or target them as an audience, nor does it screen them from using the Site. Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use. The Site does not collect or distribute information indicating whether a user is a child.
+In the event that we, or any of our affiliates or subsidiaries, are involved in a business transaction such as a merger, an acquisition, a consolidation, a reorganization, a liquidation, or any form of sale of all or a portion of our stock or assets, we may transfer your personally identifiable information to the buyer.
 
-  
-**Links to Other sites:**
+#### How to Unsubscribe
 
-This Site provides links and pointers to Web sites maintained by other organizations. The Site provides these links as a convenience to users, but it does not operate, control or endorse such sites. The Site also disclaims any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. The Site does not make any warranties or representations that any linked sites (or even this Site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer.  The Site disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions.
+You can unsubscribe from receiving The Mother List emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any email and following the instructions.
 
-  
-**Policy Changes and Acceptance:**
+#### Third Party Advertising
 
-By using our Site and its services, you signify your acceptance of this Privacy Policy. If you do not agree or are not comfortable with any policy described in this Privacy Policy, you may discontinue use of our Site. We reserve the right to modify this Privacy Policy at any time. Your continued use of any portion of our Site following notification or posting of such changes will constitute your acceptance of these changes.
+The ads appearing on this Web site are delivered to you by Google, our Web advertising partner. View Google’s privacy policy [here](http://www.google.com/privacy.html).
+
+Occasionally, you’ll get an email marked “Allied Info” in the subject line and in the email header. These emails are not necessarily reflective of the opinions of our editorial staff. They are content paid for by our sponsors (allies), and only reflect the fact that our editorial staff has to put food on the table just like everybody else. Some of this money might also go towards alcohol, but we’re not saying how much.
+
+You can unsubscribe from receiving Allied Info emails. However, if you do so, you will no longer receive The Mother List emails either. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any email and following the instructions.
+
+#### Cookies
+
+Back in the day, a “cookie” was either something you ate, or a monumentally grating term of endearment. In Internet terminology, cookies are small text files placed on your computer, in order to help websites like ours retrieve information vital to providing the best possible service. Our cookies allow us to recognize you and simplify your user experience. The Mother List will never use cookies to obtain any information from your computer not related to our site.
+
+#### Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+#### Links to Other Sites
+
+The Mother List uses a lot of links. Partly because they allow us to guide you towards valuable products and services. However, we are not responsible for any content that appears on these sites, nor do we endorse them. For questions about these sites, please consult their individual privacy policies.
+
+#### Transactions
+
+All transactions placed on The Mother List are processed through a third party vendor that uses Secure Socket Layer (“SSL”) technology to protect your personally identifiable information. SSL encrypts your order information, including your name, address, and payment card number before it is transmitted online.] 
+
+Of course, the security of any data transmission over the internet cannot be guaranteed, and any information that you transmit to us is at your own risk.
+
+#### Security
+
+All of the information described above is recorded on embossed sheets of gold leaf locked in steel vaults thousands of feet beneath the earth’s crust, or on our secure server.
+
+#### Modifications
+
+The Mother List may make changes to this policy in the future.
+
+#### Contact Us
+
+If you have questions about this policy, or about the site, please contact us.
