@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitneybowes.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620154628id_/http%3A//www.pb.com/legal/Privacy-Statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitneybowes.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124032203id_/http%3A//www.pb.com/legal/Privacy-Statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement - Creative Business Solutions | Pitney Bowes
 
@@ -126,6 +126,5 @@ Stamford, CT USA 06926-0700 
 
 or
 
-[ethicsoffice@pb.com](mailto:ethicsoffice@pb.com)
-
+[Email us](http://web.pb.com/gol-ethicsoffice)  
 [](http://www.aicpa.org/InterestAreas/FRC/AssuranceAdvisoryServices/Pages/SORHome.aspx)
