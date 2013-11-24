@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616090758id_/http%3A//www.vindy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124074546id_/http%3A//www.vindy.com/privacy) for the most accurate reproduction.*
 
 # Youngstown News, The Vindicator Web Site Privacy Policy
 
