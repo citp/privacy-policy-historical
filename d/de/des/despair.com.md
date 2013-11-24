@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the despair.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629225823id_/http%3A//despair.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the despair.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124061017id_/http%3A//www.despair.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Despair, Inc. - Privacy Policy
 
