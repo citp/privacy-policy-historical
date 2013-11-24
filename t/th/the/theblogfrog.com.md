@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the theblogfrog.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625133510id_/http%3A//theblogfrog.com/learn/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogfrog.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124235713id_/http%3A//www.tapinfluence.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BlogFrog
+# Privacy | TapInfluence
 
-Your privacy is important to us. This Privacy Policy applies to all of the products, widgets, services and websites offered by TheBlogFrog LLC or its subsidiaries or affiliated companies ; collectively, TheBlogFrog’s “services”. 
+Your privacy is important to us. This Privacy Policy applies to all of the products, widgets, services and websites offered by TapInfluence LLC or its subsidiaries or affiliated companies ; collectively, TapInfluence’s “services”.
 
 In order to provide our full range of services, we may collect the following types of information:
 
-  * **Information you provide** – When you sign up for TheBlogFrog or other TheBlogFrog service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other TheBlogFrog services or third parties in order to provide you with a better experience and to improve the quality of our services.
-  * **Cookies** – When you visit TheBlogFrog, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends. We may set a cookie in your browser when you visit a website and view or click on an ad supported by TheBlogFrog’s advertising services.
-  * **Log information** – When you access TheBlogFrog services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-  * **User communications** – When you send messages, chats, or other communications to TheBlogFrog, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-  * **Affiliated sites** – We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to TheBlogFrog in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
-  * **Other sites** – This Privacy Policy applies to TheBlogFrog services only. We do not exercise control over the sites which display widgets or services from TheBlogFrog. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+  * **Information you provide**  – When you sign up for TapInfluence or other TapInfluence service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other TapInfluence services or third parties in order to provide you with a better experience and to improve the quality of our services.
+  * **Cookies**  – When you visit TapInfluence, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends. We may set a cookie in your browser when you visit a website and view or click on an ad supported by TheBlogFrog’s advertising services.
+  * **Log information**  – When you access TapInfluence services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+  * **User communications**  – When you send messages, chats, or other communications to TapInfluence, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+  * **Affiliated sites**  – We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to TapInfluence in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
+  * **Other sites**  – This Privacy Policy applies to TapInfluence services only. We do not exercise control over the sites which display widgets or services from TapInfluence. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
 
 
 
-TheBlogFrog only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include:
+TapInfluence only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include:
 
   * Providing our services to users, including the display of customized content and advertising;
   * Auditing, research and analysis in order to maintain, protect and improve our services;
@@ -24,52 +24,52 @@ TheBlogFrog only processes personal information for the purposes described in th
 
 
 
-TheBlogFrog processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
+TapInfluence processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
 
 ### Choices for personal information
 
-When you register at TheBlogFrog, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+When you register at TapInfluence, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
 
 If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
 
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some TheBlogFrog features and services may not function properly if your cookies are disabled.
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some TapInfluence features and services may not function properly if your cookies are disabled.
 
-You can decline to submit personal information to any of our services, in which case TheBlogFrog may not be able to provide those services to you.
+You can decline to submit personal information to any of our services, in which case TapInfluence may not be able to provide those services to you.
 
 ### Information sharing
 
-TheBlogFrog only shares personal information with other companies or individuals outside of TheBlogFrog in the following limited circumstances:
+TapInfluence only shares personal information with other companies or individuals outside of TapInfluence in the following limited circumstances:
 
   * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
   * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of TheBlogFrog, its users or the public as required or permitted by law.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of TapInfluence, its users or the public as required or permitted by law.
 
 
 
-If TheBlogFrog becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
+If TapInfluence becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
 We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who clicked on a particular term. Such information does not identify you individually.
 
 ### Information security
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. 
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
 
-We restrict access to personal information to TheBlogFrog employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+We restrict access to personal information to TapInfluence employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
 ### Data integrity
 
-TheBlogFrog processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+TapInfluence processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
 ### Accessing and updating personal information
 
-When you use TheBlogFrog services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
+When you use TapInfluence services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
 
 ### Enforcement
 
-TheBlogFrog regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or TheBlogFrog’s treatment of personal information by [contacting us](http://theblogfrog.com/feedback.aspx) through this web site.
+TapInfluence regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or TapInfluence’s treatment of personal information by [contacting us](http://theblogfrog.com/feedback.aspx) through this web site.
 
-When we receive formal written complaints, it is TheBlogFrog’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between TheBlogFrog and an individual.
+When we receive formal written complaints, it is TapInfluence’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between TheBlogFrog and an individual.
 
 ### Changes to this Privacy Policy
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date.
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date
