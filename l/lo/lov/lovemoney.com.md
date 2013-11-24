@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521023558id_/http%3A//lovemoney.com/inside/customer-services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124132840id_/http%3A//www.lovemoney.com/inside/customer-services/privacy.aspx) for the most accurate reproduction.*
 
 # lovemoney.com – Inside – Customer services – Privacy policy
 
