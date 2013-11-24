@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netmagicsolutions.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601055227id_/http%3A//www.netmagicsolutions.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmagicsolutions.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125001942id_/http%3A//www.netmagicsolutions.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Netmagic Privacy Policy | Netmagic Solutions
+# Netmagic Privacy Policy
 
 As India's leading Managed IT Hosting Services provider, Netmagic Solutions Private Limited ("Netmagic") understands the importance of protecting the confidentiality of personal information furnished while using or availing of existing services or facility provided by the Netmagic official website [www.netmagicsolutions.com](http://www.netmagicsolutions.com/). This Privacy Policy outlines how Netmagic collects, uses, and discloses your personal information. You will also find information on how you can update your account and preferences, as well as details on how we protect your personal information.
 
