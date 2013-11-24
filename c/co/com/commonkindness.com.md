@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonkindness.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002555id_/http%3A//commonkindness.com/more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonkindness.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124085353id_/http%3A//www.commonkindness.com/more/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CommonKindness.com
 
