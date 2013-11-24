@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltravels.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526095735id_/http%3A//www.alltravels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltravels.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124232936id_/http%3A//www.alltravels.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy :: AllTravels :: Anywhere You Want To Go & Anything You Want To Do ::.
 
