@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standup2cancer.org privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517005759id_/https%3A//www.standup2cancer.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standup2cancer.org privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124142001id_/http%3A//www.standup2cancer.org/privacypolicy) for the most accurate reproduction.*
 
 # Stand Up To Cancer — Privacy Policy
 
