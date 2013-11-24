@@ -1,22 +1,43 @@
-<!--The following is the downloaded HTML source of the 1humor.com privacy policy that was archived on 2012-10-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121001161034id_/http%3A//1humor.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1humor.com privacy policy that was archived on 2013-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131124232059id_/http%3A//1humor.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <title>Funny images &amp; vids - Privacy Policy</title>
 	<meta name="description" content="Best funny news, videos, photos and funny facebook. Add your funny Stuff and share with others. Best funny facebook statuses and facebook fails.">
 	<meta name="keywords" content="news,facebook,funny,funny news,funny facebook,amazing,humor,jokes,pictures,videos,stupid,very funny,weird,crazy, funny video, funny movie, funny link">
 
 
 
+
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title></title>
+	
+	<meta name="keywords" content="">
+	<meta name="description" content="Best funny news, videos, photos and funny facebook. Add your funny Stuff and share with others. Best funny facebook statuses and facebook fails.">	
+
+						
+	<link rel="shortcut icon" href="http://1humor.com/favicon.ico">
+	<link href="http://1humor.com/css/bootstrap.css" rel="stylesheet">
+    <link href="http://1humor.com/css/font-awesome.css" rel="stylesheet">
+	<link href="http://1humor.com/css/style.css" rel="stylesheet">
+
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
-	<meta name="google-site-verification" content="ydgY8T5kwpsOcD46OInHLQSGJ8Gw3ssxH-zkl_bMnHQ">
-<meta property="fb:admins" content="100000783770844">
-	<link rel="stylesheet" href="http://1humor.com/css/viewstyle.css" type="text/css"> 
 
-	<link rel="alternate" type="application/rss+xml" title="Funny Pics - 1humor" href="http://1humor.com/rss.xml">
 
+	<!--[if lt IE 9]>
+		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<!--[if IE 7]>
+	  <link href="http://1humor.com/css/font-awesome-ie7.css" rel="stylesheet">
+	<![endif]-->
+	
 	<link href="https://plus.google.com/107117405304100209182" rel="publisher">
-		<script type="text/javascript" async="" src="http://contentwidgets.net/widget/upYZfM"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+		<script type="text/javascript" async="" src="http://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
 			window.___gcfg = {lang: 'en'};
 			(function() 
 			{var po = document.createElement("script");
@@ -38,80 +59,196 @@
 		  })();
 
 		</script>
+		<meta name="google-site-verification" content="ydgY8T5kwpsOcD46OInHLQSGJ8Gw3ssxH-zkl_bMnHQ">
 
 
+<link rel="alternate" type="application/rss+xml" title="Funny Pics - 1humor" href="http://1humor.com/rss.xml">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+      <script type="text/javascript" src="https://raw.github.com/bigspotteddog/ScrollToFixed/master/jquery-scrolltofixed.js"></script>
+      
+     
+<link rel="canonical" href="http://1humor.com">
 
 
+</head>
 
-	</head>
-
-
-
+<body onload="postToFacebook()">
 
 
-
-
-
-
-
-<body>
-
-	<div id="fb-root"></div>
-	<script src="http://connect.facebook.net/en_US/all.js"></script>
 	<script>
-	  FB.init({appId: '334127523694', status: true,
-	           cookie: true, xfbml: true});
-	</script>
-	<script src="http://1humor.com/js/fbshare.js" type="text/javascript"></script>
+		function postToFacebook() {
+        var body = 'Reading Connect JS documentation';
 
+        FB.api('/me/feed', 'post', { body: body, message: '' , link: '', name: ' - 1humor', caption: 'Your daily humor. ', picture: '' }, function(response) {
+          if (!response || response.error) {
+           // alert('Error occured');
+          } else {
+          //  alert('Post ID: ' + response);
+          }
+        });
+    }
+    
+
+
+    
+    </script>
+
+	<noscript>
+	<div class="alert alert-error text-align-center">
+		<h3>You need to enable Javascript.</h3>
+	</div>
+	</noscript>
+	<div id="fb-root"></div>
+        <script>
+            window.fbAsyncInit = function() {
+                FB.init({
+                    appId      : '334127523694', // App ID
+                    status     : true, // check login status
+                    cookie     : true, // enable cookies to allow the server to access the session
+                    xfbml      : true  // parse XFBML
+                });
+
+                FB.Event.subscribe('edge.create',
+                function(response) {
+                    $('#like-button').text('ff');
+                    publishWallPost('{{ page.slug }}');
+                    
+                    
+                }
+            );
+            };
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/all.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+	
 	
 
-	
+
+
+
+
+
+
+
+
+  </script>
+<script type="text/javascript">//<![CDATA[ 
+$(window).load(function(){
+$(document).ready(function() {
+    for (i = 1; i <= $('.sticky').length; i++) {
+
+        $('#element_' + i + ' .sticky').scrollToFixed({
+            marginTop: 45, 
+					  zIndex:1,
+					  limit: $('#element_' + (i + 1)).offset().top - $('#element_' + i + ' .sticky').height() - 45
+        });
+    }		
+ });
+});//]]>  
+
+$(function() {
+    var header = $(".stickysidebar");
+    $(window).scroll(function() {    
+        var scroll = $(window).scrollTop();
+    
+        if (scroll >= 178) {
+            header.removeClass('clearHeader').addClass("position-fixed");
+        } else {
+            header.removeClass("position-fixed").addClass('clearHeader');
+        }
+    });
+});
+
+
+</script>
+
+	<div id="topmenu" class="navbar navbar-inner navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+					<i class="icon-bar"></i>
+					<i class="icon-bar"></i>
+					<i class="icon-bar"></i>
+				</a>
+				<a class="brand sprite logo" href="http://1humor.com/"></a>
+				<nav id="nav-main" class="nav-collapse" role="navigation">
+					<ul class="nav pull-right">
+
+							<li class="dropdown menu-categories"><a class="dropdown-toggle span1" data-toggle="dropdown" data-target="#" href="#">About<i class="icon-caret-down"></i></a>
+
+								<ul class="dropdown-menu">
+									<li><a href="http://1humor.com/about">What is 1humor</a></li>
+									<li><a href="http://1humor.com/terms">Terms &amp; Conditions</a></li>
+									<li><a href="http://1humor.com/privacy">Privacy Policy</a></li>
+								</ul>
+							</li>
+
+
+</ul>	
+					<ul id="menu-top-right" class="nav pull-right">
+
+
+							
+
+							
+							
+					  
+					
+						<li><a href="http://1humor.com/register/">Register</a></li>
+						<li><a href="http://1humor.com/login">
+						Login</a></li>
+					
+					</ul>
+
+					<ul id="menu-top-menu" class="nav">
+						<li class="popular"><a href="http://1humor.com/">
+						Popular</a></li>
+						<li class="recent"><a href="http://1humor.com/upcoming">
+						Upcoming</a></li>
+						<li class="upload"><a href="http://1humor.com/submit">
+						+Upload</a></li>
+					</ul>
+					
 			
-<div id="headbar-wrapper">
+					<a href="http://facebook.com/1humorcom" target="_blank" title="Find us on Facebook" class="topmenu-social"><i class="icon-follow">
+				Follow us on:</i></a>
+				
 
-           
-       <div id="searchbar_container">
-		<div id="searchbar_wrapper">
-			<div id="header_searchbar" style="display:none;">
+						<a href="http://facebook.com/1humorcom" target="_blank" title="Find us on Facebook" class="topmenu-social"><b class="icon-facebook"></b></a>
+							<a href="http://twitter.com/1humorcom" target="_blank" title="Follow us on Twitter" class="topmenu-social"><b class="icon-twitter"></b></a>
+							<a href="http://pinterest.com/1humor/" target="_blank" title="Follow us on Pinterest" class="topmenu-social"><b class="icon-pinterest"></b></a>
+							<a href="http://1humor.com/rss.xml" title="Subscribe to our RSS Feed" class="topmenu-social"><b class="icon-rss"></b></a>
+					
+					<form class="navbar-search" method="get" id="searchform" action="http://1humor.com/search">
+						<input type="text" class="search-query" placeholder="Search" name="s" id="s" value="">
+					</form>
+				</nav>
 			</div>
 		</div>
+	</div>
+	
+		<div id="header-ad" class="container-fluid">
+		<div class="row-fluid">
+			<div class="span12" style="">
+
+
+
+
+
+</div>
 		</div>
-
-    <div id="head-bar">
-                        
-                                
-				<h1>
-                <a href="http://1humor.com/">1humor</a>
-                <div class="header-fb-like"><fb:like href="http://facebook.com/1humorCom" send="false" layout="button_count" width="95" show_faces="false"></fb:like></div>
-                </h1>
-				<ul class="main-menu" style="overflow:visible">
-
-					<li><a class="" href="http://1humor.com/">Fun</a></li>
-					<!--										
-						<li><a href="http://1humor.com/fast">Fast</a></li>
-					-->
-					<li><a class="add-post " href="http://1humor.com/submit">Submit</a></li>
-				</ul>
-				
-				<ul class="main-2-menu">
-				
-					<li><a href="http://1humor.com/login" class="button">Login</a></li>					<li><a class="shuffle-button" href="http://1humor.com/random"><strong>Shuffle</strong></a></li>
-					<li><a class="search-button search-toggler" href="javascript:void(0);"><strong>Search</strong></a></li>
-
-				</ul>
-
-
-            </div></div>
-
-<div id="content960">
-
-
+	</div>
+	
 <div id="content">
-<div id="leftcol">
-<div id="menu-blue">
-		<h2>Privacy Policy for 1humor.com</h2></div>
-	<div id="content-view" style="text-align:left;"> 
+	<div id="centercol">
+		<div class="postTop">
+			<h1>Privacy Policy for 1humor.com</h1>
+		</div>
+	<div class="content-view-list">
 
 <p> If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at 1humor[at]wp.pl Privacy.</p>
 <p>At 1humor.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by 1humor.com and how we use it. </p><p> <b>Log Files</b><br> Like many other Web sites, 1humor.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. </p>
@@ -146,43 +283,109 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
 
 		
-	</div>
-	<div id="leftcolend"></div>
-</div>
-		
-<script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div><div class="postBottom"></div>
 
-<div id="wide-2leep">	
+<script type="text/javascript" src="http://1humor.com/js/masonry/jquery.masonry.min.js"></script>
+<script src="http://1humor.com/js/masonry/jquery.infinitescroll.min.js"></script>
+<script type="text/javascript" src="http://1humor.com/js/masonry/bootstrap.min.js"></script>
 
-
-		<!-- Footer -->
-		<div id="wahohaupYZfM"></div>
-			<script type="text/javascript">(function(){function a(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="http://contentwidgets.net/widget/upYZfM";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(s,x);}a();})();</script>
-		<!-- end -->
-
-		
-		
-	</div>	
-
-</div>
-<a class="top" href="#" title="Back to top">Top</a>
-
-</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var obj_ipin = {"__allitemsloaded":"All items loaded",
+"__addanotherpin":"Add Another Pin","__addnewboard":"Add new board...","__boardalreadyexists":"Board already exists. Please try another title.",
+"__errorpleasetryagain":"Error. Please try again.","__cancel":"Cancel","__close":"Close","__comment":"comment",
+"__comments":"comments","__enternewboardtitle":"Enter new board title",
+"__invalidimagefile":"Invalid image file. Please choose a JPG\/GIF\/PNG file.","__like":"like","__likes":"likes",
+"__Likes":"Likes","__loading":"Loading...","__pinit":"Pin It","__pinnedto":"Pinned to","__pleaseenteratitle":
+"Please enter a title","__pleaseenterbothusernameandpassword":"Please enter both username and password.","__pleaseenterurl":"Please enter url",
+"__repin":"repin","__repins":"repins","__Repins":"Repins","__repinnedto":"Repinned to","__seethispin":"See This Pin",
+"__sorryunbaletofindanypinnableitems":"Sorry, unable to find any pinnable items.","__Video":"Video","__yourpinispendingreview":"Your pin is pending review",
 
 
-<div id="footer">
-		<div class="rss" style="width:120px;height:20px;float:left;"><a href="http://1humor.com/rss.xml" rel="alternate" type="application/rss+xml" style="margin:0;padding:0;"><img src="http://www.1humor.com/img/rssico.png" alt="" style="vertical-align:middle;border:0">RSS Feed</a></div>
-			1humor  <a href="http://1humor.com/privacy">Privacy Policy</a> <a href="http://1humor.com/contact"> Contact</a> <a href="http://1humor.com/rules">Rules</a>
-		<a href="http://www.ontoplist.com/" target="_blank" rel="nofollow" title="Online Marketing"><img height="15px;" src="http://www.ontoplist.com/images/ontoplist31.png?id=4f30135ead680" alt="Online Marketing" border="0"></a>
-		<a href="https://plus.google.com/107117405304100209182" rel="publisher">Google+</a>
-		<a href="http://1humor.pl">Kwejk</a>
-</div>
+"avatar30":"<img alt='' src='' class='avatar avatar-30 photo avatar-default' height='30' width='30' \/>",
+"avatar48":"<img alt='' src='' class='avatar avatar-48 photo avatar-default' height='48' width='48' \/>",
 
-	
+
+"current_date":"25-11-2013 00:20","home_url":"http:\/\/1humor.com",
+
+"infinitescroll":"enable",
+"login_url":"http:\/\/1humor.com\/login\/?redirect_to=%2F","nextselector":"#navigation #navigation-next a","nonce":"8570918289",
+"userid":"",
+"nazwa":"","userurl":""};
+/* ]]> */
+</script>
 
 
 
 
+<script type="text/javascript" src="http://1humor.com/js/masonry/pin.js"></script>
+
+<script type="text/javascript">// <![CDATA[
+(function() {
+        var twitterScriptTag = document.createElement('script');
+        twitterScriptTag.type = 'text/javascript';
+        twitterScriptTag.async = true;
+        twitterScriptTag.src = 'http://platform.twitter.com/widgets.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(twitterScriptTag, s);
+})();
+// ]]></script>
 
 
-</body></html>
+<!-- etracker sedo CODE 2.0.0 -->
+<map name="mse">
+<area shape="RECT" alt="Sedo - Buy and Sell Domain Names and Websites" target="_blank" href="http://www.sedo.com" coords="1,1,100,25">
+<area shape="RECT" alt="project info: 1humor.com" target="_blank" href="http://www.sedo.com/search/details.php4?domain=1humor.com" coords="1,27,100,36">
+<area shape="RECT" alt="Statistics for project 1humor.com" target="_blank" href="http://www.sedotracker.com/soverview.php?domain=1humor.com" coords="1,38,100,47">
+<area shape="RECT" alt="etracker� web controlling instead of log file analysis" target="_blank" href="http://www.etracker.com" coords="1,50,100,120">
+</map>
+<script type="text/javascript" src="http://www.sedotracker.com/et_mmedetect.js"></script>
+<script language="JavaScript">
+var et_server="www.sedotracker.com/cnt.php";
+var et_la = '', et_js = 1, et_pl, et_co, et_iw,  et_sh, et_sw;
+var et_sc = 'na',cex = '', et_gp = '', lt = '<', et_ih , et_up ;
+if( typeof( tt ) == "undefined" || typeof( tt ) == "unknown" )
+{var tt='';} var tv, to,  ts,  et_tmp; function et_eC( param )
+{var et_a = '', et_t = '', et_p = '', et_b='', et_s='',et; var
+et_ref=escape(document.referrer);if(et_js>=1.3){if(typeof(top.
+document)=='object')eval('try{et_ref=escape(top.document.ref'+
+'errer);}catch(e){et_ref="";}');} if(et_ref!='') et_gp+='&am'+
+'p;ref='+et_ref; et_gp +='&swidth='+et_sw+'&sheight='+
+et_sh+'&siwidth='+et_iw+'&siheight='+et_ih+'&sco'+
+'okie='+et_co+'&scolor='+et_sc;if( et_pl!='' ) et_gp+='&p='+escape(et_pl);
+et_gp += '&slang=' +et_la; tc=new Date();
+document.write("<img border='0' alt='' width='100' height='60' usemap='#mse' "+
+"src='http://"+et_server+"?java=y&tc="+
+tc.getTime()+ "&et="+param +"&bp=0&"+
+"easy=1&" + et_gp +"'>");}</script>
+<script type="text/javascript">document.write(lt+'script lan'+
+'guage="JavaScript1.3"> var et_js = 1.3;' + lt + '/script>' );
+</script><script language="JavaScript1.3"> var et_js = 1.3;</script><script type="text/javascript"><!-- /////////////////
+et_sw = screen.width;et_sh = screen.height;et_co =( navigator.
+cookieEnabled == true ? 1:(navigator.cookieEnabled==false?2: 0
+ ));if ( navigator.language ) et_la = navigator.language; else
+ if ( navigator.userLanguage ) et_la = navigator.userLanguage;
+et_sc  =  (   (   screen.pixelDepth  )   ?   screen.pixelDepth
+: screen.colorDepth ); if ( et_js >= 1.3 ){ eval('try{et_iw='+
+'top.innerWidth;et_ih=top.innerHeight;}catch(e){et_iw=window'+
+'.innerWidth;et_ih=window.innerHeight;}');}if(typeof(et_iw) ==
+'undefined'){eval('if(document.documentElement&&document.doc'+
+'umentElement.clientHeight){et_iw=document.documentElement.c'+
+'lientWidth;et_ih=document.documentElement.clientHeight;}els'+
+'e if(document.body){et_iw = document.body.clientWidth; et_i'+
+'h = document.body.clientHeight; }' ) ; } //--></script>
+<script type="text/javascript">et_eC('K9xlKb');</script><img border="0" alt="" width="100" height="60" usemap="#mse" src="http://www.sedotracker.com/cnt.php?java=y&amp;tc=1580499429699&amp;et=K9xlKb&amp;bp=0&amp;easy=1&amp;&amp;swidth=800&amp;sheight=600&amp;siwidth=1366&amp;siheight=768&amp;scookie=1&amp;scolor=24&amp;p=undefined&amp;slang=en-US">
+
+<!-- etracker sedo CODE NOSCRIPT -->
+<noscript>
+<img border="0" width="100" height="60" alt="" usemap="#mse"
+src="http://www.sedotracker.com/cnt.php?et=K9xlKb&java=n&et_easy=1&bp=0">
+</noscript>
+<!-- etracker sedo CODE END -->
+
+
+
+
+
+
+</div></div></body></html>
