@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shareist.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527153819id_/http%3A//www.shareist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareist.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124212751id_/http%3A//www.shareist.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# 
 
-### Please look here for any updates, which will be posted for your review.
+Please look here for any updates, which will be posted for your review.
 
 Shareist, Inc., a Delaware limited liability company (“Shareist," “our,” “us,” or "we") respects your privacy. In that regard, we have created this Privacy Policy to let you know what information we collect when you visit the website [www.shareist.com](http://www.shareist.com/) (the “Website”) and/or use our proprietary service known as Shareist (the “Service”), why we collect it, and how it is used.
 
