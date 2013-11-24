@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utahcoupondeals.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526140718id_/http%3A//www.utahcoupondeals.com/getting-started/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utahcoupondeals.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124084023id_/http%3A//www.utahcoupondeals.com/getting-started/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Utah Coupon Deals
 
@@ -41,4 +41,16 @@ Email: [utahcoupondeals@gmail.com](mailto:utahcoupondeals@gmail.com)
 
 _This policy was lasted updated on August 24, 2011_
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.utahcoupondeals.com%2Fgetting-started%2Fprivacy-policy%2F&media=http%3A%2F%2Fwww.utahcoupondeals.com%2Fwp-content%2Fuploads%2F2011%2F08%2FprivacyInfo-150x150.jpg&description=Privacy+Policy)[](mailto:?subject=Privacy%20Policy&body=http://www.utahcoupondeals.com/getting-started/privacy-policy/)
+  * Bio
+  * Twitter
+  * Facebook
+  * Google+
+  * Pinterest
+
+
+
+#### Coralie
+
+Coralie is a mom of four kids and a SAHM. She does [web design](http://www.serightdesigns.com/) on the side and is always looking for something fun to do with her family (activities, being outdoors, games, movies, etc). Be sure to sign up for our FREE daily email:[](http://feedburner.google.com/fb/a/mailverify?uri=UtahCouponDeals&loc=en_US)
+
+Please follow us on Pinterest to stay up to date: [ ](http://pinterest.com/utahcoupondeals/)
