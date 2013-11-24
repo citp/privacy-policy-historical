@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essayshark.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616025137id_/http%3A//essayshark.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essayshark.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124123404id_/http%3A//essayshark.com/privacy-policy.html) for the most accurate reproduction.*
 
 # EssayShark Privacy Policy | Read the Details of our Policy on Customers' Personal Information
 
