@@ -1,9 +1,8 @@
-<!--The following is the downloaded HTML source of the fcgov.com privacy policy that was archived on 2013-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130524052600id_/http%3A//www.fcgov.com/legal.php%3Fcmd%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fcgov.com privacy policy that was archived on 2013-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131124074751id_/http%3A//www.fcgov.com/legal.php%3Fcmd%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="google-translate-customization" content="2d4c8468405ebb1-d58c26d2ce77b3e5-g1332382cea43d9cb-d">
+    <meta name="google-translate-customization" content="27fb4606a1b0ecd1-52db019190e48b6f-gfdbaf315e9b5a4ff-d">
     <meta http-equiv="content-language" content="en">
     <meta name="msvalidate.01" content="8A66B458768398F75BECA2F6D56DFCA7">
     <title>
@@ -14,7 +13,7 @@
     function popUp(winUrl, winHeight, winWidth, scroll){
     window.open(winUrl,"_blank","toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars="+scroll+", resizable=yes, copyhistory=no, width=" + winWidth+ ", height=" + winHeight );
     }
-    var seed = '6l0zmpdch4iezmp';
+    var seed = 'wrkabqtinau9vaj4';
     function write_email(username, domain){ 
     var email = username.replace(seed, '');
     document.write (email + '@' + domain); 
@@ -22,25 +21,47 @@
 
     //]]>
     </script>
-    <script src="http://www.google.com/jsapi?key=ABQIAAAA0BPvJPBoiNeR8wt0-FPsLhQt3LNDzhSgVBbB5pFa7kcDmifgkhS9Q_9INMm4MIKD8OqMrCXtw-lRdA" type="text/javascript">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript">
 </script>
     <script type="text/javascript">
 //<![CDATA[
-        google.load("prototype", "1.6");
-    //]]>
-    </script>
-    <script type="text/javascript">
-//<![CDATA[
-        document.observe("dom:loaded", function() {
+                        $(document).ready(function() {
+                        
+                            
+    $('#google_translate_element').hide();//hide google translate widget
+
+
+    $('.language-selector').click(function(e){
+        var $this = $(this);
+        if ($this.hasClass('selected'))return;
+        $('.language-selector').removeClass('selected');
+        $('.arrow_box').removeClass('arrow_box');
+        var $parent = $this.parent();
+        $parent.addClass('arrow_box');
+        $this.addClass('selected');
         
-            
+        var newlang = $this.attr('href').substring(1);
         
-        });
+        $('.langwrap').hide();
+        
+        $('#' + newlang).fadeIn();
+        
+        
+    });
+
+    if (window.location.hash == "#spanish"){
+        $('.language-selector[href=#spanish]').trigger('click');
+    }
+
+                
+                        
+                        
+                        }); 
     //]]>
     </script>
     <meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline EN v2.0&quot; l gen true for &quot;http://fcgov.com&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://fcgov.com&quot; r (n 0 s 0 v 0 l 0))">
     <meta name="author" content="City of Fort Collins">
-    <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="content-language" content="en">
     <meta name="robots" content="index,follow">
     <link href="/css/landing-page.css?1267288267" rel="stylesheet" type="text/css">
@@ -87,9 +108,77 @@
     font-weight:bold;
 
     }
+    #language-wrap .fancy-header{
+    border-bottom:3px solid #c60;
+    margin:20px 20px 4px 0;
+    padding:0 0 6px 0;
+    color:#000;
+    }
+    #language-wrap .fancy-header span{
+    }
+    #language-wrap{
+
+    margin:10px 0 0 0;
+
+    }
+    #language-wrap .language-menu{
+    border-bottom:3px solid #E5ECF9;
+    }
+    #language-wrap .language-menu ul{
+
+    margin:0 0 0 10px;
+    }
+    #language-wrap .language-menu li{
+
+    list-style: none;
+    float:left;
+    background-color:#eee;
+    margin:0 5px;
+    padding:10px;
+
+
+    }
+    #language-wrap .language-menu .language-selector{
+    color:#999;
+    }
+    #language-wrap .language-menu .language-selector.selected{
+    color:#000;
+    text-decoration:none;
+    cursor:default;
+    }
+    #language-wrap .language-menu .arrow_box {
+    position: relative;
+    background-color:#E5ECF9;
+    border: 0;
+    font-weight:bold;
+    }
+    #language-wrap .language-menu .arrow_box:after, .language-menu .arrow_box:before {
+    top: 100%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    }
+
+    #language-wrap .language-menu .arrow_box:after {
+    border-color: rgba(229, 236, 249, 0);
+    border-top-color: #E5ECF9;
+    border-width: 10px;
+    left: 50%;
+    margin-left: -10px;
+    }
+    #language-wrap .language-menu .arrow_box:before {
+    border-color: rgba(229, 236, 249, 0);
+    border-top-color: #E5ECF9;
+    border-width: 16px;
+    left: 50%;
+    margin-left: -16px;
+    }
     /*]]>*/
     </style>
-    <link href="/css/global.css?1354023939" rel="stylesheet" type="text/css">
+    <link href="/css/global.css?1379417786" rel="stylesheet" type="text/css">
     <style type="text/css">
 /*<![CDATA[*/
         #footer-wrapper{
