@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the startech.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527015459id_/http%3A//www.startech.com/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startech.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125002902id_/http%3A//www.startech.com/PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Statement | StarTech.com
 
 Effective: 01/04/2011
 
-[](http://secure.trust-guard.com/certificates/www.startech.com)
+[ ](http://secure.trust-guard.com/certificates/www.startech.com)
 
 StarTech.com is committed to protecting your privacy. We recognize the importance of protecting the privacy of all information provided by users of our web sites and promotions. You can help us to ensure your privacy, by not sharing your account user name or password with anyone. StarTech.com has established this privacy policy so that you can understand the care with which we intend to treat your information.
 
