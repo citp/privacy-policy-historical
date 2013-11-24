@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazysales.com.au privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525070626id_/http%3A//www.crazysales.com.au/index.php%3Fshow_aux_page%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazysales.com.au privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125002623id_/http%3A//www.crazysales.com.au/index.php%3Fshow_aux_page%3D6) for the most accurate reproduction.*
 
 # CrazySales Privacy Statement - Bargain Shopping Online Australia
 
@@ -44,7 +44,7 @@ We may disclose your personal information to third parties for the purpose for w
 
 
 
-In these situations, the third party contractor is strictly from using any prohibited personal information about you except for the specific purpose for which we have supplied. We may also disclose your personal information to various law enforcement agencies and governments around the world for security, to comply with a subpoena, customs and immigration purposes. Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity. 
+In these situations, the third party contractor is strictly prohibited from using any personal information about you, except for the specific purpose for which we have supplied. We may also disclose your personal information to various law enforcement agencies and governments around the world for security, to comply with a subpoena, customs and immigration purposes. Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity. 
 
 Access & Correction of Information About You 
 
@@ -56,11 +56,11 @@ We take reasonable steps to ensure that your personal information is accurate, c
 
 Updating/Accessing/Amending/Correcting Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may update it by making the change on our member information page or by emailing our Customer Support at [info@crazysales.com.au](mailto:info@crazysales.com.au) . . 
+If your personally identifiable information changes, or if you no longer desire our service, you may update it by making the change on our member information page or by emailing our Customer Support at [info@crazysales.com.au](mailto:info@crazysales.com.au).
 
 Choice/Opt-Out 
 
-You may choose to stop receiving our newsletter or marketing emails by fill in Unsubscribe Form (http://www.crazysales.com.au/index.php?newsletter=yes&todo=1) or you can contact us at [info@crazysales.com.au](mailto:info@crazysales.com.au)
+You may choose to stop receiving our newsletter or marketing emails by filling in the [Unsubscribe Form](http://www.crazysales.com.au/index.php?newsletter=yes&todo=1), or you can contact us at [info@crazysales.com.au](mailto:info@crazysales.com.au).
 
 Cookies and Other Tracking Technologies
 
@@ -80,7 +80,7 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 Links to Other Web Sites 
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Crazy Sales. If you submit personal information to any of those sites, your information is governed by their privacy policys. We encourage you to carefully read the privacy policy of any Web site you visit. 
+Our Site includes links to other Web sites whose privacy practices may differ from those of Crazy Sales. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
 
 Blogs 
 
@@ -98,7 +98,7 @@ Security of Your Personal Information
 
 We will securely hold your personal information and we will not trade, rent or sell it. 
 
-We will take all reasonable steps to keep secure any information which we hold about you. Personal information may be stored both electronically on our computer system, and in hard-copy form. Firewalls, SSL encryption, passwords, anti-virus software and email filters acto to protect all our electronic information. 
+We will take all reasonable steps to keep secure any information which we hold about you. Personal information may be stored both electronically on our computer system, and in hard-copy form. Firewalls, SSL encryption, passwords, anti-virus software and email filters act to protect all our electronic information. 
 
 We take all necessary measures to ensure the security of hard-copy information. 
 
@@ -113,6 +113,7 @@ Resolving Your Concerns
 If you wish to gain access to your personal information, have a complaint about a breach of your privacy or you have any query on how your personal information is collected or used please forward your request, complaint or query to the address below. We will respond to your query or complaint as soon as possible. 
 
 Email: [info@crazysales.com.au](mailto:info@crazysales.com.au)  
+tel: (03) 86836923  
 Fax: (03) 9548 0779  
 Post: The Privacy Officer, PO BOX 1016, Springvale, VIC 3171.   
 
