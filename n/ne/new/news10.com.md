@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news10.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601130924id_/http%3A//www.news10.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news10.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124221009id_/http%3A//www.news10.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - NEWS10 ABC: Albany, New York News, Weather, Sports
 
