@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the shopittome.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501092501id_/http%3A//www.shopittome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopittome.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124021024id_/http%3A//www.shopittome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Shop It To Me
 
 ### Shop It To Me Privacy Policy
-
-(last modified on November 6, 2012. [Click here](https://web.archive.org/privacy2010) to see previous version) 
 
 Shop It To Me takes your privacy seriously. This Privacy Policy governs our websites, mobile applications, and related services, including ShopItToMe.com, ShopItToMe.co.uk, and any other websites and services we own or operate whether accessed directly, via mobile software, or through a third party application or service ("Service(s)"). We are providing this Policy to inform you of our policies and procedures regarding the collection, use and disclosure of information on our Services. Other than as set forth herein, we will not provide your personally identifiable information to third parties without your specific permission. 
 
