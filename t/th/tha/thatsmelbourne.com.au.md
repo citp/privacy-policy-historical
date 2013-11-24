@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603102545id_/http%3A//www.thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124231138id_/http%3A//thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - City of Melbourne
 
@@ -30,7 +30,7 @@ Unless otherwise stated, the personal information which you provide for publicat
 
 **Cookies**
 
-A Cookie is a block of data that is shared between a web server and a user’s browser. Cookies give the server information about a user’s identify (or, at least, the computer’s ID, or the client’s ID), even if he or she is not the person actually using the computer at the time.
+A Cookie is a block of data that is shared between a web server and a user's browser. Cookies give the server information about a user’s identify (or, at least, the computer’s ID, or the client’s ID), even if he or she is not the person actually using the computer at the time.
 
   
 Cookies are used on this site, but they do not collect any personal information. For the most part they are sessional and just contain system-generated values to identify the user's session. 
@@ -54,11 +54,11 @@ The City of Melbourne does not use web beacons.
 **  
 Clickstream data refers to visitor logs and statistics that provide useful information about users’ online experience without identifying individuals. We collect the following clickstream data for statistical and system administration purposes: 
 
-  * the time/date the page was accessed;
-  * the user's external IP address;
-  * the user name (but as the web site is configured for anonymous access, this is always blank);
-  * the user's browser and version;
-  * the user's operating system, the address of each page on our site the user visits; and
+  * the time/date the page was accessed
+  * the user's external IP address
+  * the user name (but as the web site is configured for anonymous access, this is always blank)
+  * the user's browser and version
+  * the user's operating system, the address of each page on our site the user visits
   * the address of the last page the user visited.
 
 
@@ -96,7 +96,7 @@ Please contact the Council’s Information Privacy Officer on 9658 9173 if you h
 
 To view Council’s Privacy Policy statement, please click on either of the links below:
 
-[**City of Melbourne’s Privacy Policy Statement** (PDF 124KB)](http://www.melbourne.vic.gov.au/AboutMelbourne/Documents/City_of_Melbourne_Privacy_Policy_Statement.pdf) ** **  
+[City of Melbourne’s Privacy Policy Statement (PDF 124KB)](http://www.melbourne.vic.gov.au/AboutMelbourne/Documents/City_of_Melbourne_Privacy_Policy_Statement.pdf)  
 
-[**City of Melbourne's Privacy Policy Statement** (Word 84KB)](http://www.melbourne.vic.gov.au/AboutMelbourne/Documents/City_of_Melbourne_Privacy_Policy_Statement.DOC)  
+[City of Melbourne's Privacy Policy Statement (Word 84KB)](http://www.melbourne.vic.gov.au/AboutMelbourne/Documents/City_of_Melbourne_Privacy_Policy_Statement.DOC)  
 
