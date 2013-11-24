@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affairsclub.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118213321id_/http%3A//www.affairsclub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affairsclub.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124034300id_/http%3A//www.affairsclub.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
