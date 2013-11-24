@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeseoresources.net privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524234859id_/http%3A//www.freeseoresources.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeseoresources.net privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124031628id_/http%3A//www.freeseoresources.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEO
 
@@ -20,7 +20,9 @@ FSR’s privacy policy does not apply to, and we cannot control the activities o
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-[Specifics on Google’s ](http://www.freeseoresources.net/instabuilder)[DoubleClick DART Cookie](http://www.doubleclick.com/privacy/faq.aspx):  
+Specifics on Google’s [DoubleClick DART Cookie](http://www.doubleclick.com/privacy/faq.aspx):  
 * Google, as a third party vendor, uses cookies to serve ads on your site.  
 * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/).
+
+You can find additional information in Appendix A of the [NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time.
