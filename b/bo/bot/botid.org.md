@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the botid.org privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607212847id_/http%3A//botid.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botid.org privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124084657id_/http%3A//www.botid.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy of Best Of The Internet Directory (botid.org)
 
