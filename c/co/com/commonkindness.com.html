@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the commonkindness.com privacy policy that was archived on 2013-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526002555id_/http%3A//commonkindness.com/more/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the commonkindness.com privacy policy that was archived on 2013-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131124085353id_/http%3A//www.commonkindness.com/more/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -150,54 +150,30 @@ qacct:"p-dQzf0vJ9GKyEx"
 <!-- End Quantcast tag -->
 
 
-
+                        
 <script>
-$(document).ready(function() {
-  messages = [ '' ,
-    'Sign-up Today for Big Coupon Savings<br/>AND<Br/>Help Your Favorite Non-Profit!',
-    'Sign-up Today to Save Money for Your Family<br/><Br/> PLUS Your Favorite Non-Profit will Benefit.',
-    'Save Money & Help Others<br/> with these great coupons!<Br/><Br/> Sign-up today!',
-    'Sign-up today!<Br/> Your favorite local or national Non-Profit will benefit!',
-    'Help Your Favorite Non-Profit!<Br/> AND save money at the same time.<br/> <br/> Sign-up today!',
-    'Sign-up and never miss another opportunity to<Br/>Save Money & Help Others.'
-  ];
-
-  var timer;
-  $('#loginModalBody').html( messages[1]);
-  $("#loginModal").dialog({
-    autoOpen: false,
-    bgiframe: true,
-    modal: true,
-    buttons: {
-      'Sign up now': function() {
-        window.location = '/user/signup/type/direct';
-      }
-    }
-  });
-
-  if ($.cookie('user') === null) 
-  {
-    if (window.location.pathname != '/user/signup/type/direct')
-    {
-      timer = setTimeout( function() {
-        clearTimeout(timer);
-
-        $("#loginModal").dialog('open');
-      }, 15000);
-    }
-  }
-      $('.requireLogin').click(function(event) {
-        event.preventDefault();
-        $("#loginModal").dialog('open');
+      $("#requireLoginModal").dialog({
+        autoOpen: false,
+        bgiframe: true,
+        modal: true,
+        buttons: {
+          'Sign in now': function() {
+            window.location = '/user/login';
+          }
+        }
       });
+
+  $(document).ready(function() {
+    $('.requireLogin').click(function(event) {
+      event.preventDefault();
+      $("#requireLoginModal").dialog('open');
+    });
+  });
+</script><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-requireLoginModal" style="display: none; position: absolute; overflow: hidden; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-requireLoginModal" unselectable="on">Support a Cause or Charity</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="requireLoginModal" style="" class="ui-dialog-content ui-widget-content">
+   <p style="text-align:center;">Please <a href="/user/login/type/direct">sign in</a> to support your favorite charity or cause -  <b>at no cost to you!</b></p>
+</div><div class="ui-resizable-handle ui-resizable-n" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-e" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-s" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-w" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" unselectable="on" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" unselectable="on" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" unselectable="on" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" unselectable="on" style="z-index: 1004;"></div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><button type="button" class="ui-state-default ui-corner-all">Sign in now</button></div></div>
  
-});
-
-</script>
-                   
 
 
 
-<div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-loginModal" style="display: none; position: absolute; overflow: hidden; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-loginModal" unselectable="on">Support a Cause or Charity</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="loginModal" class="ui-dialog-content ui-widget-content">
-   <p id="loginModalBody" style="text-align:center;">Sign-up Today for Big Coupon Savings<br>AND<br>Help Your Favorite Non-Profit!</p>
-</div><div class="ui-resizable-handle ui-resizable-n" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-e" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-s" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-w" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" unselectable="on" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" unselectable="on" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" unselectable="on" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" unselectable="on" style="z-index: 1004;"></div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><button type="button" class="ui-state-default ui-corner-all">Sign up now</button></div></div></body></html>
+</body></html>
