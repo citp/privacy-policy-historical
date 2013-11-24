@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findly.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606063500id_/http%3A//www.findly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findly.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124065532id_/http%3A//www.findly.com/privacy) for the most accurate reproduction.*
 
-# Findly - Our Privacy Policy – Verified by TRUSTe
+# Findly - Our Privacy Policy - Verified by TRUSTe
 
 ### Privacy Policy
 
@@ -45,7 +45,7 @@ We use this information to:
 
 
 
-With your consent, we obtain professional profile information about you from third party sources, such as Faceboook, Linkedin, Google+, Xing or Myspace. You can log in to our site using these sign-in services which will authenticate your identity and provide you the option to share certain personal information with us to pre-populate your find.ly profile. Services like Facebook Connect also give you the option to post information about your activities on this Web site, to your profile page and to share with others within your network. 
+With your consent, we obtain professional profile information about you from third party sources, such as Faceboook, Linkedin, Google+ or Xing. You can log in to our site using these sign-in services which will authenticate your identity and provide you the option to share certain personal information with us to pre-populate your find.ly profile. Services like Facebook Connect also give you the option to post information about your activities on this Web site, to your profile page and to share with others within your network. 
 
   * _Analytics / Log Files_
 
