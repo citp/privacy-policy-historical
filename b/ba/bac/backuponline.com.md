@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backuponline.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506074552id_/http%3A//www.backuponline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backuponline.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124194939id_/http%3A//www.backuponline.com/privacy.php) for the most accurate reproduction.*
 
-# Backup Online
+# BackupOnline makes online backup simple and secure
 
 **Privacy Policy** **  
 ** This online privacy policy of BackupOnline.com. ("Backup Online," "us," "our," or "we"), demonstrates our commitment to respecting the privacy of our customers and visitors to the BackupOnline.com website ("Site"). Since we gather certain types of information about our users, we want you to understand what kind of information we gather and how it may be used.
