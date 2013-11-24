@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525164851id_/https%3A//www.iceland.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124083645id_/https%3A//www.iceland.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Welcome to Iceland Foods
 
@@ -6,102 +6,133 @@ Iceland Foods Limited is committed to ensuring the privacy of your information.�
 
 We have set out below details of the information we will collect about you through our website (www.iceland.co.uk), how we ensure the security of your information and how we will use your information.
 
-**What personal information do we collect?**  
+ **What personal information do we collect?**  
 We only collect personal information that is knowingly and voluntarily given including, for example, your name, address, telephone number and email address.  Generally, this occurs when you email us, enter a competition, provide us with feedback or register for a Bonus Card.  If you contact us, we may keep a record of that correspondence.
 
 **IP Address  
 ** We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
 **Cookies**    
-Our website uses “cookies” to provide certain functionality on the website.  A cookie is a small data file of letters and numbers that we store on your browser or the hard drive of your computer, mobile or tablet if you agree. 
+Our website uses “cookies” to provide certain functionality on the website.
 
-We use the following cookies to provide you with a good experience when you browse our website and to help us improve the way our website works, for example by ensuring that visitors are finding what they are looking for easily: 
+**What are cookies and how are they used?**
 
-**Cookie**
+A “Cookie” is a very small text file placed on your computer, tablet or mobile phone by lots of the websites that you visit. Cookies allow us to help you get the best out of your visit to Iceland.co.uk. Without Cookies it would be difficult to fill up your shopping trolley or remember your shopping list. Whilst it is possible to set your browser to reject cookies, they don’t harm your computer and not allowing cookies onto your computer will affect your ability to use and shop at Iceland.co.uk.
 
-| 
+**What types of cookies are there and how does Iceland use them?**
 
-**Name**
+**Essential Cookies**
 
-| 
+Some cookies are essential for the operation of our website.  Essential cookies are needed to allow you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies, services you have asked for, like shopping baskets or shopping lists cannot be provided.
 
-**Purpose**  
+**Performance Cookies**
+
+These cookies collect information about how visitors use our website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that could identify you. All information is aggregated and therefore anonymous. It is only used to improve how our website works.
+
+**Functionality Cookies**
+
+These cookies allow our website to remember choices you have made (such as your user name) and provide enhanced, more personal features. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+
+**Targeted Advertising Cookies**
+
+These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement and measure the effectiveness of an advertising campaign. They are usually placed by advertising networks, but only with Icelands permission.  These cookies remember that you have visited a website and this information is shared with other organisations such as advertisers.
+
+**Iceland Cookies**
+
+Below is a list of all the cookies that may be sent to you by [www.iceland.co.uk](http://www.iceland.co.uk/) and what each cookie is used for.  You can set your browser to reject cookies (please see the ‘Managing Cookies’ section below for more information) but if you do this, Iceland will be unable to provide you with certain features of this website.
+
+**Performance Cookies** ****  
   
----|---|---  
+---  
   
-Remember Me
+**Function**
 
 | 
 
-BonusCard_URN2
+**Purpose**
 
 | 
 
-When you first log in to the website, [www.mybonuscard.co.uk](http://www.mybonuscard.co.uk/), you will be asked whether you want the website to “Remember Me”. If you click this option a permanent cookie will be stored on your device which enables the website to remember you from visit to visit. This means you do not have to enter your Bonus Card Number each time you visit. We will, however, always ask you for your password.  
+**Name of Cookie(s)**  
   
-Session Cookie
+**Analytics**
 
 | 
 
-ASPNET_SessionID
+Collects information about how visitors use our website.  The information is collected is an anonymous and includes information about the number of visitors to the site, where visitors have come to the site from and the pages they visited.
 
 | 
 
-This cookie is essential to enable functionality of the website by continuing to identify your session (so that the correct information is presented to you whilst you are logged in) but does not contain any personal information. This cookie is automatically deleted when you close your browser.  
+__utma, __utmb , __ytmc , __utmz, _ga  
   
-Google Analytics
-
-| 
-
-_utma  
-_utmb  
-_utmc  
-_utmz
-
-| 
-
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
+**Functionality Cookies** ****  
   
-Most web browsers will allow you to block some or all cookies from being set. However, if you adjust your browser settings to block all cookies (including essential cookies) you may experience some loss of functionality on ours and other third party websites you visit.
+---  
+  
+**Function**
 
-To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit www.allaboutcookies.org.
+| 
 
-**Web Analytics – What information is collected from your device and how is it used?**
+**Purpose**
 
-**We use two analytics services:**
+| 
 
-**eVisit Analyst** compiles data your device automatically offers when you access any website in order to enable that site to function correctly, such as IP (internet protocol) address and browser user agent data (including browser type, operating system and device type). All information is processed anonymously and is not used in any way, or in combination with any other data, to personally identify individuals. The data is stored in the EU by our analytics service provider and is only shared with authorised third parties.
+**Name of Cookie(s)**  
+  
+Cookie notification
 
-**Google Anallytics** uses cookies the cookies detailed above to collect information about how visitors use our site.  This information is used to create web statistics data to help us build a picture of how our website is used including how many visitors we have, number of return visits, how frequently pages are viewed, what is popular with visitors and where in the world our visitors are located. We use this data to improve the way our website works so we can make sure our visitors can easily find what they are looking for and have a better overall browsing experience when they visit our website. 
+| 
 
-**How we store your personal information**  
-It is Iceland’s policy not to disclose any personal information to any third party companies or for market research purposes.  We will only use the information you provide to us to deal with your queries, for record keeping and administration, to tell you about things which we think may be of interest to you and to help us improve our service to you.
+Used to identify new visitors & notify of use of cookies
 
-**Who is your personal information shared with?**  
-We are required to share our information with the police and other law enforcement authorities if required to do so by law or court order for fraud detection and prevention.  We may also disclose personal information as required to enforce and protect our rights under contract and at law. 
+| 
 
-**Competition forms**  
-Personal information provided to enter any website competition is subject to the terms and conditions of each individual competition.
+AllowCookies_PECR, PopupDismissed_PECR  
+  
+**Targeted Advertising Cookies** ****  
+  
+---  
+  
+**Function**
 
-**Bonus Card Registration**  
-Personal information provided when you register for a Bonus Card is subject to the Bonus Card Terms and Conditions.
+| 
 
-**Job Applications**  
-Personal information sent via our career website will be kept secure and will only be used for the purpose intended.
+**Purpose**
 
-**Information Access Requests**  
-You have a right to access the personal data we hold about you. We may charge you a small fee for this. Your right of access must be exercised in writing to us at the address set out below and in accordance with the Data Protection Act 1998. 
+| 
 
-**Updating your information**  
-You must make sure that any information you provide to use is correct and complete. You can ask us to correct or update your personal information at any time by writing to us at the address set out below, by contacting the Customer Care team on 01244 842842. 
+**Name of Cookie(s)**  
+  
+Advertising Tracking & Remarketing
 
-**Security**  
-If you register to use secured parts of the Website, you may be asked to create a password. You must keep this password confidential, must not disclose it or share it with anyone and will be responsible for all activities that occur under your password. 
+| 
 
-If you know or suspect that someone else knows your password you should notify us immediately at the address below. If we think that there has been or is likely to be a breach of security or misuse of the Website, we may ask you to change your password or suspend your account until we have verified your identity and/or until your account has been secured. 
+Used to track activity resultant of online advertising campaigns to measure advertising effectiveness.
 
-**Policy changes**  
-Any changes to this policy will be published here.  
+To deliver adverts more relevant to you based on your online Iceland experience.
 
-**Contacting Us**  
-If you have any queries or concerns about the privacy of your information, or how we use your information, please write to our Legal Department at Iceland Foods Ltd, Second Avenue, Deeside Industrial Park, Deeside, Flintshire, CH5 2NW or telephone  _Customer Care_ _ _ on 01244 842842.
+| 
+
+Id, _drt_, _sonar, ebNewBandWidth_.googleads.g.doubleclick.net, uuid2, anj, icu, sess  
+  
+By default, cookies should be enabled on your computer or device. If not, your experience on [www.iceland.co.uk](http://www.iceland.co.uk/) will be limited to browsing, viewing and searching for products. You will not be able to purchase products or use other helpful tools.
+
+However if you would like to restrict, block or delete cookies from [www.iceland.co.uk](http://www.iceland.co.uk/) or any other website, you can use your internet browser to do this. The links below take you to the ‘help’ sections for each of the major browers so that you can find out more about how to change your cookies.
+
+_**[Internet Explorer](http://support.microsoft.com/kb/196955)**  - _<http://support.microsoft.com/kb/196955>
+
+_**[Firefox](http://support.mozilla.org/en-US/kb/Cookies)**  - _<http://support.mozilla.org/en-US/kb/Cookies>
+
+_**[Google Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647) **- _[http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+
+_**[Opera](http://www.opera.com/browser/tutorials/security/privacy/)**  - _<http://www.opera.com/browser/tutorials/security/privacy/>
+
+_**[Safari](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html) **- _<http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html>
+
+_**[Safari iOS](http://support.apple.com/kb/HT1677)**  - _<http://support.apple.com/kb/HT1677>
+
+_**[Android](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022) **- _[http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)
+
+**_[Blackberry](http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp)_**  - <http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp>
+
+_**[Windows Phone](http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx)**  - _<http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx>
