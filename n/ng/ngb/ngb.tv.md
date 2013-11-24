@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ngb.tv privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407142640id_/http%3A//ngb.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngb.tv privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124094044id_/http%3A//origin.ngb.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — NGB.tv
+# Privacy Policy | NGB.tv
 
 ### NGB.tv Privacy Notice
 
