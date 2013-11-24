@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmswatch.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527015620id_/http%3A//www.realstorygroup.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmswatch.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124225437id_/http%3A//www.realstorygroup.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Real Story Group
 
@@ -12,3 +12,15 @@ We do not share your information with third parties, unless required by the law 
 Our web site contains links to websites operated and maintained by third parties. We have no control whatsoever over such third parties or their websites or products or services. Privacy policies of such linked sites or products or services may be different from our privacy policy. You access such linked sites or products or services at your own risk. You should always read the privacy policy of a linked site or product or service before disclosing any personally identifiable information on such site.
 
 Last updated: March 17, 2010
+
+close x
+
+All analyst firms claim to be independent or vendor-neutral. We're different. 
+
+Get the real story on commercial and open source tools from a firm that works only for **you** , the technology customer.
+
+close x
+
+### Newsletter Signup
+
+Thank you for signing up for The Real Story Group Newsletter. You will receive our monthly newsletter, plus updates with new information on the technology streams you have expressed interest in below.
