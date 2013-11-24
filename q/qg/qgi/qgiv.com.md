@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qgiv.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601141716id_/http%3A//www.qgiv.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qgiv.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124145956id_/http%3A//www.qgiv.com/about/privacy-policy.php) for the most accurate reproduction.*
 
-# Accept Online Web Donations, Secure Online Giving Software
+# Online Charity Donations Privacy Policy | Qgiv, Inc.
 
 ## Scope of this Privacy Policy
 
