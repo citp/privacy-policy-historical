@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dariagames.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528083819id_/http%3A//www.dariagames.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dariagames.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124053936id_/http%3A//www.dariagames.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
