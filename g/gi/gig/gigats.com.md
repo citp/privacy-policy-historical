@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigats.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621004844id_/http%3A//www.gigats.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigats.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124014525id_/http%3A//www.gigats.com/privacy.cfm) for the most accurate reproduction.*
 
 # Gigats Privacy Policy
 
