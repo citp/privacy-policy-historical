@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theelevationgroup.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603075402id_/http%3A//theelevationgroup.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theelevationgroup.net privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124081932id_/http%3A//theelevationgroup.com/legal/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 **Privacy Policy**
 
@@ -60,7 +60,7 @@ For the purposes of this policy and California compliance the following definiti
 
 Depending on the visitor's activity, in our commercial web site or online service, the following "personally identifiable information" may be collected, in addition to information set forth in other sections of this document. 
 
-The term "personally identifiable information" mans individually identifiable information about an individual consumer collected online by our company from an individual and maintained by our company in an accessible form, and may include any of the following:
+The term "personally identifiable information" means individually identifiable information about an individual consumer collected online by our company from an individual and maintained by our company in an accessible form, and may include any of the following:
 
   1. A first and last name.
   2. A home or other physical address, including street name and name of a city or town.
@@ -72,7 +72,7 @@ The term "personally identifiable information" mans individually identifiable in
 
 
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [_________] and please include the phrase "California Privacy Request" in the subject line, the domain name of the web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
+Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to support@theelevationgroup.com and please include the phrase "California Privacy Request" in the subject line, the domain name of the web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
 
 **_"Cookies" and How Our Company Uses Them_** A "cookie" is a small data file that can be placed on your hard drive when you visit certain web sites. Our company may use cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. 
 
@@ -80,13 +80,23 @@ Most website browsers automatically accept cookies, but you can usually change y
 
 Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
 
+Our company may use Remarketing with Google Analytics, Adroll, and Facebook to advertise online.
+
+Third-party vendors, including Google, may show our ads on sites across the Internet.
+
+We, along with and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
+
+We may also use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics, to create educational and marketing content geared toward the demographics and interests of our visitors.
+
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google's Ads Settings at https://www.google.com/settings/ads. You can also use Google's Google Analytics opt-out browser add-on at https://tools.google.com/dlpage/gaoptout/
+
 **_Our Company Commitment to Children's Privacy_** Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our web site to persons eighteen years or older. 
 
-YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SIT. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE FALLS WITHIN THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT AND IS NOT MONITORED AS DOING SO. 
+YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE FALLS WITHIN THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT AND IS NOT MONITORED AS DOING SO. 
 
 **_Public Forums_** Please remember that any information you may disclose in any Subscriber Directory, or other public areas of our web sites or the internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. 
 
-**_Our Company's Commitment to Data Security_** Services and web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" form illegally obtaining this information.
+**_Our Company's Commitment to Data Security_** Services and websites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" form illegally obtaining this information.
 
 **_In the Event of Sale or Bankruptcy_** The ownership of The Elevation Group, Inc. may change at some point in the future. Should that occur, we want this site to be able to maintain a relationship with you. In the event of a sale, merger, public offering, bankruptcy, or other change in control of The Elevation Group, Inc. your information may be shared with the person or business that owns or controls this site. Opting out of receiving information from third parties will not affect our right to transfer your information to a new owner, but your choices will continue to be respected regarding the use of your information.
 
@@ -94,4 +104,4 @@ YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SIT. IF YOU ARE UNDE
 
 **_Revisions to This Policy_** Our company reserves the right to revise, amend, or modify this policy, our Terms of Use and Service, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of there changes. Please consult this privacy statement prior to every use for any changes.
 
-Last updated: September 20, 2010
+Last updated: October 08, 2013
