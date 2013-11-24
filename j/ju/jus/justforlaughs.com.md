@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justforlaughs.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609192857id_/http%3A//www.hahaha.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justforlaughs.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124015236id_/http%3A//www.hahaha.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Just For Laughs
 
@@ -81,7 +81,7 @@ For any questions, comments or complaints regarding this Privacy Policy, you may
 Just For Laughs  
 2101 St. Laurent Blvd.  
 Montreal, Quebec H2X 2T5  
- **Phone Number:** (514) 845-3440 ext. 2420
+ **Phone Number:** (514) 845-3440 
 
 *  **References by hyperlinks**
 
