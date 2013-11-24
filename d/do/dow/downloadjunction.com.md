@@ -1,22 +1,51 @@
-> *The following text is extracted and transformed from the downloadjunction.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121045436id_/http%3A//www.downloadjunction.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadjunction.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124165743id_/http%3A//www.fileflash.com/privacy) for the most accurate reproduction.*
 
-# Download Junction - Download Software, Freeware, Shareware, Games
+# File Flash - Your Downloads Start Here
 
-Privacy Policy of Download Junction
+File Flash is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time, so please check back periodically. 
 
- _ **Our Commitment To Privacy:**_ Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+**Information Collection and Use**
 
-_**Visitor Tracking:**_ Computer Tracking of Identifiable Information our computer is set up to track information about the visitors to Download Junction, our records will not distribute personal information about it's visitors. It does recognize the home server of visitors, ip address, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our sites. This information is used only for internal purposes by Download Junction technical support staff. Our computer also recognizes the site where a visitor "clicked-to-check" on the Download Junction, but we cannot identify the visitor or the visitor's address. In addition, our web sites track information about the visits to our web sites. For example, we compile statistics that show the daily number of visitors to our sites, the daily requests we receive for particular files on our web sites, and what countries those requests come from. These aggregated statistics are used internally to better provide services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information.
+File Flash is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
 
-_**Use of Cookies and Web Beacons:**_   We use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes.
+**Ad Serving Policies**
 
-_**Basic Confidentiality Policy:**_ It is Download Junction policy that personal information, such as your name, postal and e-mail address or telephone number, is private and confidential. Accordingly, the personal information you provide is stored in a secure location, is accessible only by designated staff, and is used only for the purposes for which you provide the information (such as to reply to your request or to handle your complaint). For example, when you file a complaint about a software, online business, the personal information you provide will be used to process your complaint. If you also indicate on our site that you would like to receive information about other products and services, such as forum membership, developer account, your personal information will be added to appropriate Download Junction mailing lists. You can indicate your desire when you send us e-mail. If at any time you change your mind and would like to add or remove your name from any of mailing list, or correct your personal information, please contact us.
+We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
-_**No Release of Information to Third Parties:**_ Personal information will not be released to third parties except to further the purpose for which you provide the information, such as sending your complaint to the company for action, or if release is required by law or is pertinent to judicial or governmental investigations or proceedings. There are no other circumstances under which we will provide or sell personal information to third parties. 
+**What personally identifiable information does File Flash collect from me?**
 
-_**Modifications to Privacy Policy:**_   We reserve the right to change this policy statement at any time without prior notice.
+File Flash collects very little personally identifiable information from its users. The only personally identifiable information File Flash collects is your email address. Once you register, you are no longer anonymous to File Flash. You choose a File Flash ID (user name) and are able to take full advantage of File Flash's many offerings. 
 
-**_How To Contact Us:_** Should you have other questions or concerns about these privacy policies, please feel free to 
+**What are cookies and how does File Flash use them?**
 
-[ contact us](http://www.downloadjunction.com/contact_us)  
- 
+As part of offering and providing customizable and personalized services, File Flash uses cookies to store and sometimes track information about you. The cookie stores your selected user name and password to save the user time, for the user will not have to log on every time they wish to access a members only function. The cookie also tracks your downloads. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All sites on File Flash where you are prompted to log-in or that are customizable require that you accept cookies. 
+
+**Sharing**
+
+We [File Flash] will share aggregated demographic information with our advertisers. This is not linked to any personal information that can identify any individual person. 
+
+Our advertising companies, Fast Click, collect non-personally identifiable information about you, such as the server your computer is logged onto, your browser type (for example, Netscape or Internet Explorer), and whether you responded to the ad delivered. The non-personally identifiable information collected by Fast Click is used for the purpose of targeting ads and measuring ad effectiveness on behalf of Fast Click's advertisers and Web publishers who specifically request it. ****
+
+**Links**
+
+File Flash contains links to other sites. Please be aware that we [File Flash] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+
+**Correction/Updating Personal Information**
+
+If a user's personally identifiable information changes (your email address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done at the User Preferences page or by emailing our Webmaster. 
+
+**Comments**
+
+File Flash makes use of message boards (known as Comments), available free to users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+
+**Communication**
+
+Registered users should not expect any unsolicited or promotional email from File Flash. 
+
+**Log Files**
+
+We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+
+**Notification of Changes**
+
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
