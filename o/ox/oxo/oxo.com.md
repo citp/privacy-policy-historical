@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oxo.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526140829id_/https%3A//www.oxo.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxo.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125000335id_/http%3A//www.oxo.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# OXO - Tools you hold on to.
+# OXO – Thoughtfully yours.
 
 We value the trust you place in OXO International, Ltd., a member of the Helen of Troy family of companies (referred to as "OXO" or "we" or "our"). We want to ensure that you understand what information we gather about you, how we use it, and the safeguards we have in place in order to protect it. If you have additional questions or would like further information on this topic, please feel free to contact us. OXO may update this policy from time to time. Please visit this page periodically to review the privacy policy. 
 
