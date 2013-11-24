@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theimproper.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629072659id_/http%3A//www.theimproper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theimproper.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124110428id_/http%3A//www.theimproper.com/privacy) for the most accurate reproduction.*
 
-# Privacy — TheImproper.com: Breaking News on Pop Culture, Arts, Music, Theater, Film, TV & Fashion
+# Privacy
 
 Please read this statement carefully before accessing and using TheImproper.com. Your use of TheImproper.com indicates your agreement to abide by the Terms in effect.
 
