@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerdirect.ca privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603080734id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdirect.ca privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124055853id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at TigerDirect.ca
 
@@ -21,7 +21,7 @@ TigerDirect.ca uses information that we collect from our visitors and customers 
 
 **Orders:** If you place an order through the Site, you will be required to provide contact, billing, and payment information. 
 
-**Catalog Requests and Email Newsletter Subscriptions:** Upon placing an order through the Site, you will automatically begin receiving both the TigerDirect.ca catalog and the TigerDirect.ca email newsletter, based on the Personal Information you have provided, unless you opt-out of receiving such communications. If you request an email newsletter subscription, we will send you an email confirming your request. This confirmation process allows you to unsubscribe if you change your mind and decide not to join the list. Furthermore, the confirmation email will alert you if someone else has entered your email address into our email newsletter subscription list. In order to make our email newsletters more relevant and useful to you, our servers may receive a confirmation when you open an email message from TigerDirect.ca.
+**Catalog Email Newsletter Subscriptions:** Upon placing an order through the Site, you will automatically begin receiving both the TigerDirect.ca catalog and the TigerDirect.ca email newsletter, based on the Personal Information you have provided, unless you opt-out of receiving such communications. If you request an email newsletter subscription, we will send you an email confirming your request. This confirmation process allows you to unsubscribe if you change your mind and decide not to join the list. Furthermore, the confirmation email will alert you if someone else has entered your email address into our email newsletter subscription list. In order to make our email newsletters more relevant and useful to you, our servers may receive a confirmation when you open an email message from TigerDirect.ca.
 
 **Sweepstakes Entrants:** From time to time, we may run sweepstakes. If you enter a sweepstakes sponsored by us, you will opt-in to receive email or other communications from us and our affiliated partners. You may subsequently opt-out of the receipt of such email or communications by following the directions in the email or contacting that site. Your opt-out status will not affect your participation or chances to win in the sweepstakes. During the applicable sweepstakes period, however, you may nevertheless receive emails which we deem are related to the sweepstakes and related programs.
 
@@ -49,8 +49,6 @@ We will not rent, sell or otherwise disclose your Personal Information to unrela
 
 **Links to Third Party Site:** The Site contains certain links to third party websites, such as our vendors’ websites and links to other websites intended to facilitate our customers’ shopping experience, such as Google Translate. We are not responsible or liable for the privacy practices or content found on these websites. We recommend that you check the privacy notice of each website you visit. Links to third party websites are provided solely for your convenience and any submission of data to such websites shall be at your sole risk. 
 
-**Catalog Requests:** When you request a catalog from us, we share your name and postal address with a third party fulfillment company for the sole purpose of sending you the requested catalog. This third party is not permitted to store the information is only authorized to use this information for to transmit catalogs to you.
-
 **Law Enforcement and Protection of Users:** To the extent permitted by law, we will disclose Personal Information to government authorities or third parties pursuant to a legal request, subpoena or other legal process. We may also use or disclose your information as permitted by law to perform charge verifications, report or collect debts owed, fight fraud or protect our rights or property as well as those of our affiliates, customers, or its users. You should be aware that, following disclosure to any third party, your Personal Information may be accessible by others to the extent permitted or required by applicable law. 
 
 **4\. Affiliate Programs**
@@ -63,7 +61,7 @@ The Site is a general audience website and is not directed to children under the
 
 **6\. Security**
 
-We employ 128-bit encryption technology in all areas of the Site which require you to provide your personal or account information, including those areas related to online ordering, order status, catalog request and contest forms. The Site utilizes industry-standard firewalls and Secure Sockets Layer (SSL) technology to allow for the encryption of potentially sensitive Personal Information, such as your name, address and credit card number.
+We employ 128-bit encryption technology in all areas of the Site which require you to provide your personal or account information, including those areas related to online ordering, order status, and contest forms. The Site utilizes industry-standard firewalls and Secure Sockets Layer (SSL) technology to allow for the encryption of potentially sensitive Personal Information, such as your name, address and credit card number.
 
 You should recognize, however, that no computer system is fully secure and that there are inherent risks associated with Internet transactions. To make sure you have the latest security features on your browser, you may want to download the most recent version of your favorite browser, which should have full SSL support. 
 
