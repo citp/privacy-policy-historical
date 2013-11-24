@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the eplindex.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505200151id_/http%3A//www.eplindex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eplindex.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124073521id_/http%3A//eplindex.com/privacy-policy) for the most accurate reproduction.*
 
 # EPL Opta Stats & Blog | Privacy Policy
+
+Latest article November 24th, 2013 8:35 AM
+
+####  [ ](http://eplindex.com/)
+
+### Privacy Policy
 
 **PRIVACY POLICY for www.EPLIndex.com**
 
@@ -66,4 +72,4 @@ In accordance with the Data Protection Act 1998 you have the right to access any
 
 **Contacting Us**
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [eplindex@gmail.com](mailto:eplindex@gmail.com). 
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [eplindex@gmail.com](mailto:eplindex@gmail.com).
