@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentalcars.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526095702id_/http%3A//www.rentalcars.com/PrivacyPolicy.do%3Fcor%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalcars.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124080456id_/http%3A//www.rentalcars.com/PrivacyPolicy.do%3Fcor%3Dus) for the most accurate reproduction.*
 
-# Rental Cars and Car Rentals from Rental Cars.com
+# Information on Privacy. Your Privacy is Important to Us! - rentalcars.com
 
 rentalcars.com takes the privacy of the information you give us very seriously. Any information you give us will be used in accordance with the UK data protection act of 1998 and The Privacy and Electronic Communications (EC Directive) Regulations 2003. This policy explains how your information is used, and how we protect your privacy.
 
@@ -38,4 +38,4 @@ You always have the right to review the personal data you have stored with us. Y
 
 If your personal data is incorrect, we will change it upon your request. You can also ask us to remove your personal data from our database by sending us an email to the aforementioned email address.
 
-Should you have any questions, concerns or comments about our practices or this Privacy Policy, please e-mail us at **marketing@rentalcars.com**. Please state "Privacy" in the subject line of your e-mail. rentalcars.com has its offices at St. George’s House, 56 Peter Street, Manchester M2 3NQ United Kingdom.
+Should you have any questions, concerns or comments about our practices or this Privacy Policy, please e-mail us at **marketing@rentalcars.com**. Please state "Privacy" in the subject line of your e-mail. rentalcars.com has its offices at Floors 9-12, Sunlight House, Quay Street, Manchester, M3 3JZ United Kingdom.
