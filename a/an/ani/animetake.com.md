@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animetake.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523152230id_/http%3A//www.animetake.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animetake.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124071300id_/http%3A//www.animetake.com/privacy-policy) for the most accurate reproduction.*
 
 # AnimeTake.com – Privacy Policy
 
