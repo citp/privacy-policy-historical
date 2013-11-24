@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eddiebauer.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523151020id_/http%3A//www.eddiebauer.com/custserv/custserv.jsp%3FsectionId%3D310) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eddiebauer.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124070759id_/http%3A//www.eddiebauer.com/custserv/custserv.jsp%3FsectionId%3D310) for the most accurate reproduction.*
 
 # Eddie Bauer | Eddie Bauer Privacy & Security Policies
 
@@ -6,7 +6,7 @@
 
   * What information does Eddie Bauer collect about me?
   * How do you use my information?
-  * Companies "Presented by Eddie Bauer"
+  * Companies other than Eddie Bauer
   * What are "cookies" and how does Eddie Bauer use them?
   * How can I update my information?
   * How do I know my information is secure?
@@ -31,7 +31,7 @@ The information we receive allows us to tailor our product offer and improve you
 
 The information you supply to us is added to our customer database. You may receive periodic mailings or telephone calls from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such mailings or telephone calls from us, please Click here for contact information. 
 
-We occasionally provide your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you are online. Our advertising partner will make the data we provide it anonymous. To learn more about the use of this information or choose not to have this information used by our third-party advertising partner by opting out please visit the Digital Advertising Alliance by [clicking here](http://www.aboutads.info/). To opt out of the online advertisements provided directly by Eddie Bauer, click here. If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice. 
+We occasionally provide your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you are online. Our advertising partners will make the data we provide it anonymous before using it to deliver ads online. We may partner with other service providers that collect non-identifiable information about your visits to our website, your interaction with our products and services, and your visits to other websites to serve ads targeted to your interests on other websites. The information is collected through the use of cookies, web beacons, and similar technologies, and does not include your name, address, e-mail address or other personal information. To learn more about these practices or to opt out of having this information used by our third-party advertising partners to serve ads targeted to your interests, please visit the Digital Advertising Alliance by [clicking here](http://www.aboutads.info/). To opt out of the online advertisements provided directly by Eddie Bauer, click here. If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice. 
 
 In some cases we may provide your name and address to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please Click here for contact information. 
 
@@ -41,17 +41,17 @@ In some instances, we use third party companies to help us provide our products 
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these agencies or companies for marketing purposes. 
 
-####  Companies "Presented by Eddie Bauer"
+####  Companies Other Than Eddie Bauer
 
-If you make a purchase from another company's catalog or website that is "presented by Eddie Bauer" the information you provide to that company, such as your credit card number and contact information, is provided to that company and not to Eddie Bauer. Providing this information to the company enables the transaction to take place. However, you should know that the company may, if you do not advise them to the contrary, share your name and postal and email addresses with third parties, including Eddie Bauer. You should also know that these companies have their own privacy and data collection practices and are not covered by the Eddie Bauer privacy statement. 
+Our privacy policy does not apply to companies other than Eddie Bauer. Companies other than Eddie Bauer are sometimes identified on our website, catalog or marketing materials. If you make a purchase from another company's catalog or website, the information you provide to that company, such as your credit card number and contact information, is provided to that company and not to Eddie Bauer. Providing this information to the company enables your transaction with the other company to take place. However, you should know that the company may, if you do not advise them to the contrary, share your name and postal and email addresses with third parties, including Eddie Bauer. You should also know that these companies have their own privacy and data collection practices and are not covered by the Eddie Bauer privacy statement. 
 
-For more information, including privacy policies, regarding companies who send catalogs or host websites "presented by Eddie Bauer" please see that company's home page and click on their Information link; or review the customer service section of any catalog you may receive from that company. 
+For more information, including privacy policies, regarding such companies please see that company's home page and click on their Information link; or review the customer service section of any catalog you may receive from that company. 
 
 ###  For Our Customers Using the Internet
 
 ####  What are "cookies" and how does Eddie Bauer use them?
 
-A "cookie" is a small data file stored on your computer. At Eddie Bauer, we place a unique identifier in the cookie and use the cookie to connect your computer with the information we store for you in our database. Some examples of the data we store in our database includes your account preferences, items added to your shopping bag, user-specific information on pages accessed, and previous visits to our site. Through cookies we may: alert you to new areas that we think might be of interest to you when you return to our site; record past activity at our site; provide online banner advertisements that are tailored to your interests; or, customize Web page content. Your information is stored in a safe and secure database. 
+A "cookie" is a small data file stored on your computer. At Eddie Bauer, we place a unique identifier in the cookie and use the cookie to connect your computer with the information we store for you in our database. Some examples of the data we store in our database includes your account preferences, items added to your shopping bag, user-specific information on pages accessed, and previous visits to our site. Through cookies we may: alert you to new areas that we think might be of interest to you when you return to our site; record past activity at our site; provide advertisements that are tailored to your interests; or, customize Web page content. Your information is stored in a safe and secure database. 
 
 We do not use cookies to store any of your personal or financial information on your computer. 
 
@@ -64,7 +64,7 @@ If you are shopping Eddie Bauer and are having difficulty adding product to your
 We provide you access to the following information if you send us an email, call us or write to us: 
 
   * Financial information (such as credit card account information)
-  * Unique identifier information (customer number or password)
+  * Eddie Bauer customer identifier information (customer number or password)
   * Transaction information (dates on which you made purchases, amounts and types of purchases)
   * Contact information (name, address, phone number)
 
@@ -74,7 +74,7 @@ We evaluate each request and will reply in an appropriate manner and in a form o
 
 ####  How do I know my information is secure?
 
-We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you so you can feel comfortable and secure when shopping. We use industry-standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. If you do not see one of these icons, please contact us to complete your transaction over the phone by calling 1-800-426-8020. When you apply on-line for an Eddie Bauer Charge Card, we will direct you to the World Financial Network Bank (WFNNB) website. See the WFNNB website for information on its privacy statement. 
+We have appropriate security measures in place to protect against the loss, misuse or alteration of information that we have collected from you so you can feel comfortable and secure when shopping. We use industry-standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. If you do not see one of these icons, please contact us to complete your transaction over the phone by calling 1-800-426-8020. When you apply on-line for an Eddie Bauer Charge Card, we will direct you to the Comenity Bank website. See the [Comenity.net](https://www.comenity.net/) website for information on its privacy statement. 
 
 ###  How to Report Fraud
 
