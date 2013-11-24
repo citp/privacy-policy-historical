@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magazine-agent.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627030753id_/http%3A//www.magazine-agent.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine-agent.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124233558id_/http%3A//www.magazine-agent.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | Magazine-Agent.com
+# Magazine-Agent.com | Privacy Policy
 
 ### Publishers
 
@@ -18,7 +18,7 @@ The Site may collect certain profile information from its users (including but n
 
 ### Additional Information Collected from Registered Users and Customers
 
-In order to fulfill customer orders and enhance user experience, the Site collects certain specific personally identifiable information that its customers and registered users provide when visiting the Site, such as their first and last name, their home or other physical address including their street name and the name of their city or town, their email address, their telephone number, and their credit card information (none of the above-listed types of personally identifiable information will be collected unless provided directly by the user). Such information is shared with contracted third-parties in order to fill orders accurately and promptly, provide customer service assistance, improve your shopping service, and improve the content of the Site generally so that we may better meet our users' needs. We may also provide the personally identifiable information (except email and credit card information) we collect from our users to other businesses and companies that sell a wide variety of products and services that we believe will be of interest to our customers. Because we respect the privacy of our customers and visitors, you can request that we not share your personally identifiable information with these other businesses and companies by[changing your privacy preferences by logging in to your account](https://web.archive.org/web/20130627030753id_/http%3A//www.magazine-agent.com/manage.magazine-agent.com). **Except as specifically set forth in this privacy policy, we will never share your email address or credit card information with third-parties**. Furthermore (as noted above), except as specifically stated herein, we have not granted any third party the right to share your information with others.
+In order to fulfill customer orders and enhance user experience, the Site collects certain specific personally identifiable information that its customers and registered users provide when visiting the Site, such as their first and last name, their home or other physical address including their street name and the name of their city or town, their email address, their telephone number, and their credit card information (none of the above-listed types of personally identifiable information will be collected unless provided directly by the user). Such information is shared with contracted third-parties in order to fill orders accurately and promptly, provide customer service assistance, improve your shopping service, and improve the content of the Site generally so that we may better meet our users' needs. We may also provide the personally identifiable information (except email and credit card information) we collect from our users to other businesses and companies that sell a wide variety of products and services that we believe will be of interest to our customers. Because we respect the privacy of our customers and visitors, you can request that we not share your personally identifiable information with these other businesses and companies by[changing your privacy preferences by logging in to your account](https://manage.magazine-agent.com/). **Except as specifically set forth in this privacy policy, we will never share your email address or credit card information with third-parties**. Furthermore (as noted above), except as specifically stated herein, we have not granted any third party the right to share your information with others.
 
 ### Mandatory Communications
 
@@ -46,7 +46,7 @@ The information regarding your order is always sent in encrypted format in order
 
 ### Correcting/Updating Personal Information
 
-If you want to change your personal information (such as your address or credit card number) you can do so by accessing our[online account manager](https://web.archive.org/web/20130627030753id_/http%3A//www.magazine-agent.com/manage.magazine-agent.com) or by calling customer service at (888) 590-0030.top
+If you want to change your personal information (such as your address or credit card number) you can do so by accessing our[online account manager](http://https//manage.magazine-agent.com/) or by calling customer service at (888) 590-0030.top
 
 ### Notification of Changes
 
