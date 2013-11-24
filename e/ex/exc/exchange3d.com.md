@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exchange3d.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602172609id_/http%3A//exchange3d.com/index.php%3Fact%3DviewDoc%26docId%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchange3d.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124204325id_/http%3A//exchange3d.com/index.php%3Fact%3DviewDoc%26docId%3D4) for the most accurate reproduction.*
 
 # Privacy Policy - 3D Models and 3D Graphics in Exchange3D Media Store
 
