@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prezi.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526231717id_/http%3A//prezi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prezi.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125001746id_/http%3A//prezi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Prezi
 
@@ -141,9 +141,9 @@ Please note that although you may opt out of receiving certain emails, Prezi res
 If you have any questions, comments, or concerns relating to the Prezi Service or this privacy policy, please send an email to privacy@prezi.com or write to us at:
 
 Prezi Inc  
-Drew Banks  
-735 Montgomery Street  
-Lower Courtyard  
-San Francisco, CA 94111 
+Karen Tang  
+642 Harrison St  
+Suite 200  
+San Francisco, CA 94107 
 
 We will make every effort to resolve your concerns.
