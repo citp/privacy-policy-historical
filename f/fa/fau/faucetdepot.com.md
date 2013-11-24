@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faucetdepot.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122170438id_/http%3A//www.faucetdepot.com/faucetdepot/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdepot.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124073518id_/http%3A//www.faucetdepot.com/faucetdepot/privacypolicy.asp) for the most accurate reproduction.*
 
 # FaucetDepot.com
 
@@ -45,4 +45,4 @@ Commerce, CA
 (323)215-4095  [tarcher@faucetdepot.com](mailto:tarcher@faucetdepot.com)
 
 **[Chat with an online Faucet Expert](http://server.iad.liveperson.net/hc/LPfaucetdepot/?cmd=file&file=visitorWantsToChat&site=LPfaucetdepot&byhref=1)  
-Mon - Fri 7:00am - 5:00pm PT**
+Mon - Fri 6:00am - 4:00pm PT**
