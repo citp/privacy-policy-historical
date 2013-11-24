@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the defsounds.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603051748id_/http%3A//defsounds.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defsounds.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124234844id_/http%3A//defsounds.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | DEF SOUNDS
 
 Defsounds.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:
 
