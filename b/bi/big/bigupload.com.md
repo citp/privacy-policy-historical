@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigupload.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501202121id_/http%3A//www.bigupload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigupload.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124122823id_/http%3A//www.bigupload.com/privacy.php) for the most accurate reproduction.*
 
 # BigUpload
 
