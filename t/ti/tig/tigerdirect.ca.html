@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tigerdirect.ca privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603080734id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tigerdirect.ca privacy policy that was archived on 2013-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131124055853id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy at TigerDirect.ca</title>
@@ -8,6 +8,7 @@
 <meta name="keywords" content="TigerDirect.caTigerDirect.ca tiger direct tiger software tiger computers tiger pc low price cheap cheapest value discount savings best buy Accessories Barebone Kits Cables CD CD-RW DVD Components Computer Cases Cooling Products Desktop PCs Digital Cameras Electronics Flash Memory Hard Disk Drives Input Devices Laptops Notebooks Media Memory Modems Monitors Motherboards Motherboard CPU MP3 Audio Networking Office Equipment PDAs Plasma Displays Power Protection Printers Printer Supplies Processors Projectors Removable Storage Scanners Servers Software Sound Cards Speakers Training Video Cards Wireless Networking">
 <meta name="robots" content="index,follow">
 <meta name="copyright" content="© 1989-2003 TigerDirect.ca, Inc. All rights reserved.">
+<link rel="shortcut icon" type="image/x-icon" href="http://images.highspeedbackbone.net/99/favicon.ico">
 <link href="/css/global.css" rel="stylesheet" type="text/css">
 <link href="/css/global-frame.css" rel="stylesheet" type="text/css">
 <link href="/css/global-99-styles.css" rel="stylesheet" type="text/css">
@@ -31,9 +32,9 @@ if (window.attachEvent) window.attachEvent("onload", navHover);
 </script>
 <![endif]-->
 
+<link href="/css/jquery-ui.custom-1.8.11.css" rel="stylesheet" type="text/css">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js" type="text/javascript"></script>
-<link href="/css/jquery-ui.custom-1.8.11.css" rel="stylesheet" type="text/css">
 
   <script src="/foresee/foresee-alive.js" type="text/javascript"></script>
  
@@ -41,7 +42,7 @@ if (window.attachEvent) window.attachEvent("onload", navHover);
 <style type="text/css">
 .freeshipbadge { display:none }
    
-body{background:url(http://images.highspeedbackbone.net/glblbg-intelHaswell-CA.jpg) 50% 134px fixed no-repeat;}
+
 </style>
  
 <script type="text/javascript">
@@ -57,6 +58,7 @@ function showFreeShipTooltip(img) {
    }
 }
 </script>
+
 <style type="text/css">
 <!--
 table.helpHeader {
@@ -91,7 +93,7 @@ table.helpHeader td {
 </script>
 
 <script type="text/javascript" src="/foresee/foresee-surveydef.js"></script><link rel="stylesheet" type="text/css" href="/foresee/foresee-dhtml.css"></head>
-<body>
+<body><div class="fsrC" style="width: 1366px; height: 768px;"><div class="fsrFloatingContainer fsrBulge fsrCasueReflow" style="position: relative; left: 432px; top: 213px; visibility: visible; width: 502px;"><div class="fsrFloatingMid"><div class="fsrInvite"><div class="fsrLogos"><img src="//web.archive.org/web/20130909205044/http://images.highspeedbackbone.net/foresee/sitelogo_ca.jpg" class="fsrSiteLogo"><img src="//web.archive.org/web/20130909205044/http://images.highspeedbackbone.net/foresee/fsrlogo.gif" class="fsrCorpLogo"></div><div class="fsrDialogs"><div class="fsrDialog " style="margin-left: 0px;"><h1>We'd welcome your feedback!</h1><p class="fsrBlurb">Thank you for visiting our website. You have been selected to participate in a brief customer satisfaction survey to let us know how we can improve your experience.</p><p class="fsrSubBlurb">The survey is designed to measure your entire experience, please look for it at the <u>conclusion</u> of your visit.</p><p class="fsrAttribution">This survey is conducted by an independent company ForeSee, on behalf of the site you are visiting.</p><div class="fsrB"><div class="declineButtonContainer"><a href="javascript:void(0)" class="declineButton" tabindex="1">No, thanks</a></div><div class="acceptButtonContainer"><a href="javascript:void(0)" class="acceptButton" tabindex="2">Yes, I'll give feedback</a></div></div></div></div><div class="fsrCTermination"></div><div class="fsrFooter"><a href="https://web.archive.org/web/20130909205044/http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.foreseeresults.com/seal_m" title="Validate TRUSTe privacy certification" target="_blank"><img src="//web.archive.org/web/20130909205044/http://images.highspeedbackbone.net/foresee/truste.png" class="fsrTruste"></a></div><div class="fsrCTermination"></div><a href="#" class="fsrCloseBtn" title="Click to close."><div></div></a></div></div></div></div>
 
 
 <script language="Javascript">
@@ -132,15 +134,20 @@ function setParentCartTotal(total){
 }
 
 function chkSrch(fld){
-  if (fld.value == 'Search by Keyword or Item #' || fld.value == '')
-  {
-      alert('Please enter search keyword(s) and try again.'); 
+  var val = fld.value;
+  if (val == 'Search by Keyword or Item #' || val == '')  {
+      alert('Please enter keyword(s) or item number and try again.'); 
       fld.focus();
       return false;
   } else {
-  return true;
+	if (val.indexOf("#") != -1) {
+	  fld.value = val.replace("#",""); 
+	}    
+    return true;
   }
 }
+
+
 function chkEml(fld){
   var filter=/^([\w-\+]+(?:\.[\w-\+]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([\w-]+(?:\.[\w-]+)*)$/i
   if (fld.value == 'Deal Alerts: Enter Your Email' || fld.value == '' )
@@ -170,7 +177,7 @@ function chkEml(fld){
 
 
 <style>
-.liveChat,.searchBox,.searchGo,.dropdownLink,.cartSprite{background-image:url(http://images.highspeedbackbone.net/td/masthead_v2/masthead-sprite.png);background-repeat: no-repeat;}
+.liveChat,.searchBox,.searchGo,.dropdownLink .arrow,.cartSprite{background-image:url(http://images.highspeedbackbone.net/td/masthead_v2/masthead-sprite.png);background-repeat: no-repeat;}
 /*==masthead==*/
 #header{background:#005cb9!important;height:127px!important;}
 #header ul, #header  li {list-style: none;}
@@ -178,11 +185,11 @@ function chkEml(fld){
 .mastheadOuter a,.mastheadOuter a:link,.mastheadOuter a:visited,.mastheadOuter a:hover{color:#ade8fe;}
 
 .mastheadTopL{float:left;}
-.mastheadTopR{float:right;text-align:right;}
+.mastheadTopR{float:right;position:relative;text-align:right;width:390px;}
 
 .headerLogoWrap{float:left;width:165px;text-align:left;margin-top:14px;}
 .headerLogo{background-image:url(http://images.highspeedbackbone.net/99/masthead/masthead-logo.png);background-repeat: no-repeat;width: 164px;height: 45px;display: block;text-indent: -9999px;}
-.headerLiveHelp{font-size:11px;margin-top: 5px;}
+.headerLiveHelp{font-size:11px;margin-top: 3px;}
 .liveChat{background-position:-379px -123px;display:inline-block;line-height:19px;height:20px;padding-left:25px;vertical-align:middle;}
 
 .shopWrap{float:left;margin-left:20px;margin-top:8px;}
@@ -207,14 +214,16 @@ function chkEml(fld){
 .searchGo span{text-indent:-9999px;}
 .searchGo:hover{background-position:0 -79px;}
 
-.userLinks{margin:12px 0 0 0;padding:0;height:15px;float:right;}
-.userLinks li.nav-user{border-right:#ade8fe 1px solid;display:inline-block;float:left;line-height:12px;padding:0 8px;position:relative;}
-.userLinks li.dropdown{border-right:none;line-height:20px;height:20px;top:-4px;left: -1px;padding-right:8px;z-index:2;}
-.dropdownLink{background-position: 32px -156px;padding-right:17px;}
-.dropdownHover{display:none;background-color:#ededed;padding:5px;position:absolute;top:20px;right:0;width:120px;z-index:550;}
+.userLinks{padding:0;margin:0;height:15px;position:absolute;top:10px;right:0;white-space:nowrap;width:600px;z-index:10;}
+.userLinks li.nav-user{border-right:#ade8fe 1px solid;display:inline-block;float:right;line-height:12px;padding:0 8px;position:relative;}
+.userLinks li.dropdown{border-right:none;line-height:20px;height:20px;top:-4px;left: -1px;padding-right:8px;}
+.dropdownLink{padding-right:0;white-space:nowrap;}
+.dropdownLink .arrow{background-position: 2px -156px;width:15px;height:15px;position:relative;bottom:-2px;}
+.dropdownHover{display:none;background-color:#ededed;padding:5px;position:absolute;top:20px;right:0;z-index:550;width:auto!important;width:120px;min-width:120px;}
 .dropdownHover .dropdownSection{background-color:#fff;padding:10px;text-align:left;}
 li.dropdown:hover{background-color: #EDEDED;border-radius:3px 3px 0 0;}
-li.dropdown:hover .dropdownLink{color:#267AB7;background-position: 32px -182px;}
+li.dropdown:hover .dropdownLink{color:#267AB7;}
+li.dropdown:hover .dropdownLink .arrow{background-position: 2px -182px;}
 li.dropdown:hover .dropdownHover{display:block;}
 .navHelp{margin:-5px 0 -7px;padding:0;}
 .navHelp li{margin:2px 0;padding:0px;line-height:13px;}
@@ -226,16 +235,16 @@ li.dropdown:hover .dropdownHover{display:block;}
 .nav-divider-after{border-bottom:#EDEDED 1px solid;}
 .navHelp .nav-divider-after{padding-bottom:6px;margin-bottom:4px;}
 
-.userGreetingWrap{border-right:#1a6dc0 1px solid;float:right;text-align:left;margin:12px 12px 0 0;padding-right:12px;}
+.userGreetingWrap{border-right:#1a6dc0 1px solid;float:right;text-align:left;margin:38px 12px 0 0;padding-right:12px;max-width:210px;}
 .userGreeting{display:block;font:bold 18px arial;color:#fed443;text-decoration:none;max-width: 220px;white-space: nowrap;overflow: hidden;}
 .userSignin img{vertical-align:middle;}
 
-.cartWrap{float:right;width:140px;margin-top: 5px;overflow:hidden;}
+.cartWrap{float:right;width:146px;margin-top:30px;overflow:visible;}
 .cartSprite{display:block;background-position:-351px -216px;width:50px;height:52px;position:relative;float:left;z-index:1;}
 #cart_item_count{position:absolute;top:5px;left:10px;font:bold 14px arial;color:#00338c;text-align:center;width:20px;overflow:hidden;}
 
 .cartWrap .itemTotal:link,.cartWrap .itemTotal:hover,.cartWrap .itemTotal:visited{color:#FFFFFF;text-decoration:none;}
-.cartWrap .itemTotal{color:#FFFFFF;text-decoration:none;text-align: left;float: left;margin-top:15px;margin-left:2px;}
+.cartWrap .itemTotal{color:#FFFFFF;text-decoration:none;text-align: left;float: left;margin-top:15px;margin-left:2px;max-width:94px;}
 .itemTotal .cartLabel{display:block;white-space:nowrap;font-weight:bold;}
 
 /*header-nav*/
@@ -305,7 +314,6 @@ li.dropdown:hover .dropdownHover{display:block;}
 </style>
 
 
-
 <div id="header" class="clearfix" style="position:relative;z-index:500;">
 	<div class="mastheadOuter">
     	<div class="mastheadTopL">
@@ -334,7 +342,7 @@ li.dropdown:hover .dropdownHover{display:block;}
         </div>
         <div class="mastheadTopR">
         	<ul id="userNav" class="userLinks">
-<li class="nav-user"><a href="/secure/orderlogin.asp?PG=1&amp;cm_sp=Masthead-_-MyAccount-_-userlinks" title="My Account" rel="nofollow">My Account</a></li><li class="nav-user"><a href="/cgisec/orderTrack.asp?cm_sp=Masthead-_-OrderTrack-_-userlinks" title="Track Your Order" rel="nofollow">Track Order</a></li><li class="nav-user"><a href="/applications/campaigns/campaigntemplate.asp?CampaignID=1471" title="Free Shipping" rel="nofollow">Free Shipping</a></li><li class="nav-user dropdown"><a class="dropdownLink" href="/sectors/help/index.asp?cm_sp=Masthead-_-Help-_-userlinks" title="Help" rel="nofollow">Help</a>
+                <li class="nav-user dropdown"><a class="dropdownLink" href="/sectors/help/index.asp?cm_sp=Masthead-_-Help-_-userlinks" title="Help" rel="nofollow">Help  <img class="arrow" src="http://images.highspeedbackbone.net/pixel-clear.gif"></a>
                 	<div class="dropdownHover">
                     	<div class="dropdownSection">
                         	<ul class="navHelp">
@@ -347,8 +355,10 @@ li.dropdown:hover .dropdownHover{display:block;}
                         </div>
                     </div>
                 </li>
+                <li class="nav-user"><a href="/applications/campaigns/campaigntemplate.asp?CampaignID=1471" title="Free Shipping" rel="nofollow">Free Shipping</a></li>
+                <li class="nav-user"><a href="/cgisec/orderTrack.asp?cm_sp=Masthead-_-OrderTrack-_-userlinks" title="Track Your Order" rel="nofollow">Track Order</a></li>
+                <li class="nav-user"><a href="/secure/orderlogin.asp?PG=1&amp;cm_sp=Masthead-_-MyAccount-_-userlinks" title="My Account" rel="nofollow">My Account</a></li>
             </ul>
-            <br clear="both">
             <div class="cartWrap">
             	<a href="/cgi-bin/ShoppingCart.asp?cm_sp=Masthead-_-ShoppingCart-_-NA" title="Shopping Cart" rel="nofollow" class="cartSprite"><span id="cart_item_count">0</span></a>
                 <a href="/cgi-bin/ShoppingCart.asp?cm_sp=Masthead-_-ShoppingCart-_-NA" title="Shopping Cart" rel="nofollow" class="itemTotal">
@@ -840,10 +850,10 @@ li.dropdown:hover .dropdownHover{display:block;}
          <div class="bannerAdWrap headerAdWrap">
          	<div class="bannerAd728">
 			 
-                       <iframe src="http://ad.doubleclick.net/adi/td.TigerCanada/ROS_728x90;sz=728x90;ord=9065188765525?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-                       <script language="JavaScript" src="http://ad.doubleclick.net/adj/td.TigerCanada/ROS_728x90;sz=728x90;abr=!ie;ord=9065188765525?" type="text/javascript"></script>
+                       <iframe src="http://ad.doubleclick.net/adi/td.TigerCanada/ROS_728x90;sz=728x90;ord=6188209056854?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
+                       <script language="JavaScript" src="http://ad.doubleclick.net/adj/td.TigerCanada/ROS_728x90;sz=728x90;abr=!ie;ord=6188209056854?" type="text/javascript"></script>
                        </iframe>
-                       <noscript><a href="http://ad.doubleclick.net/jump/td.TigerCanada/ROS_728x90;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;ord=9065188765525?" target="_blank"><img src="http://ad.doubleclick.net/ad/td.TigerCanada/ROS_728x90;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;ord=9065188765525?" width="728" height="90" border="0" alt=""></a></noscript>
+                       <noscript><a href="http://ad.doubleclick.net/jump/td.TigerCanada/ROS_728x90;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;ord=6188209056854?" target="_blank"><img src="http://ad.doubleclick.net/ad/td.TigerCanada/ROS_728x90;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;ord=6188209056854?" width="728" height="90" border="0" alt=""></a></noscript>
                    
                
              </div>
@@ -1117,7 +1127,7 @@ date of birth and IP address.
                         <p><strong>Web Beacons: </strong>We (or service providers on our behalf) may collect  information from visits to the Site through the use of "Web Beacons." Web  Beacons are web page elements which may employ cookie technology that enable us  to record data about visits to or transactions made on the Site. This  information is sometimes known as "clickstream data." We may use this data to  analyze trends and statistics to improve your online experience or our customer  service. No Personal Information is collected through the use of Web Beacons on  the Site. </p>
                         <p><strong>Cookies: </strong>Through  the use of cookies, we may also collect and analyze the IP address used to  connect your computer to the Internet; computer and connection information such  as your browser type and version; operating system and platform; purchase  history; confirmation when you open e-mail that we send you; and the URLs which  lead you to and around the Site including the date and time. You can generally  set your browser to reject cookies or to notify you when you are sent a cookie.  Software is also available from third parties which will allow you to visit the  Site without providing this information. You are welcome to use the Site if you  use such software but we will not be able to offer you our personalized  services and we will be unable to accept any online orders from you.</p>
                         <p><strong>Orders:</strong> If  you place an order through the Site, you will be required to provide contact,  billing, and payment information. </p>
-                        <p><strong>Catalog Requests and Email Newsletter Subscriptions:</strong> 
+                        <p><strong>Catalog Email Newsletter Subscriptions:</strong> 
                           Upon placing an order through the Site, you will automatically 
                           begin receiving both the TigerDirect.ca catalog and 
                           the TigerDirect.ca email newsletter, based on the Personal Information you have provided,  unless you opt-out of receiving such communications. If you request an email  newsletter subscription, we will send you an email confirming your request.  This confirmation process allows you to unsubscribe if you change your mind and  decide not to join the list. Furthermore, the confirmation email will alert you  if someone else has entered your email address into our email newsletter  subscription list. In order to make our email newsletters more relevant and  useful to you, our servers may receive a confirmation when you open an email  message from  TigerDirect.ca.</p>
@@ -1135,14 +1145,14 @@ date of birth and IP address.
                         <p><strong>Shippers: </strong>If  you make a purchase through the Site, your name, telephone number and shipping  information must be provided to third party shippers such as UPS, FEDEX and the  United States Postal Service to deliver your purchase. There also may be  instances in which we drop-ship orders directly to you from one of our  manufacturers or suppliers. These drop-shippers are only given your name, postal  address, and telephone number for the sole purpose of fulfilling your order.</p>
                         <p><strong>Third Party Transaction-Level Data:</strong> If  you visit the Site from a third-party website the third-party website may be  able to access select information from your individual transaction information.  In order to track and credit your transaction the third-party website may give  you a unique code, cookie or graphic which will uniquely identify you. This  will only happen if you link directly from a third party website to the Site. Any  transactions made at the Site while such a code is active will be reported back  to the third party website. We will only report non-Personal Information to  these websites such as the date of the transaction, the product(s) purchased  and the amount spent. We will not report any information to these third party  websites that will allow them to personally identify you. The presence of a  third party navigation bar at the top of any page on the Site is an indication  that the third party website may be able to see your activity on the Site. </p>
                         <p><strong>Links to Third Party Site:</strong> The Site contains certain links to third party websites, such as our vendors’ websites and links to other websites intended to facilitate our customers’ shopping experience, such as Google Translate. We are not responsible or liable for the privacy practices or content found on these websites. We recommend that you check the privacy notice of each website you visit. Links to third party websites are provided solely for your convenience and any submission of data to such websites shall be at your sole risk. </p>
-                        <p><strong>Catalog Requests: </strong>When  you request a catalog from us, we share your name and postal address with a  third party fulfillment company for the sole purpose of sending you the  requested catalog. This third party is not permitted to store the information  is only authorized to use this information for to transmit catalogs to you.</p>
+                       
                         <p><strong>Law Enforcement and Protection of Users: </strong>To the extent permitted by law, we will disclose  Personal Information to government authorities or third parties pursuant to a  legal request, subpoena or other legal process. We may also use or disclose your  information as permitted by law to perform charge verifications, report or  collect debts owed, fight fraud or protect our rights or property as well as  those of our affiliates, customers, or its users. You should be aware that,  following disclosure to any third party, your Personal Information may be  accessible by others to the extent permitted or required by applicable law. </p>
                         <p><strong>4. Affiliate Programs</strong></p>
                         <p>We maintain relationships with third party affiliate  websites. Although we do not and cannot control the activities of the third  parties that operate such websites, we will cease doing business with any  affiliate that engages in abusive practices, including, for example, spam,  trademark infringement, predatory means of attracting visitors, or unlawful  activities. To report abuse by an affiliate, please contact our Affiliate  Manager via email at affiliates@TigerDirect.ca.</p>
                         <p><strong>5. Children and Privacy</strong></p>
                         <p>The Site is a general audience website and is not  directed to children under the age of 13. We will never knowingly collect  personally identifiable information from children under the age of 13 without  verifiable parental consent. If you are under the age of 13, please do not  provide us with personally identifiable information of any kind whatsoever. If  we become aware that a user is under the age of 13 and has submitted Personal  Information without verifiable parental consent, we will remove his or her  personally identifiable information from our files. We understand that children  may not fully understand all of the provisions of this Privacy Notice or make  informed decisions about the choices that are made available to adult users of  the Site. We encourage parents and guardians to spend time with their children  online and to be familiar with the websites they visit. TigerDirect.ca does not sell products to persons under the age of 18. If you are under the age of 18, you are required seek the consent of your parent or guardian to purchase products from the Site.</p>
                         <p><strong><a name="SSL" id="SSL"></a>6. Security</strong></p>
-                        <p>We  employ 128-bit encryption technology in all areas of the Site which require you  to provide your personal or account information, including those areas related  to online ordering, order status, catalog request and contest forms. The Site  utilizes industry-standard firewalls and Secure Sockets Layer (SSL) technology  to allow for the encryption of potentially sensitive Personal Information, such  as your name, address and credit card number.</p>
+                        <p>We  employ 128-bit encryption technology in all areas of the Site which require you  to provide your personal or account information, including those areas related  to online ordering, order status,  and contest forms. The Site  utilizes industry-standard firewalls and Secure Sockets Layer (SSL) technology  to allow for the encryption of potentially sensitive Personal Information, such  as your name, address and credit card number.</p>
                         <p>You should recognize, however, that no computer system  is fully secure and that there are inherent risks associated with Internet  transactions. To make sure you have the latest security features on your  browser, you may want to download the most recent version of your favorite  browser, which should have full SSL support. </p>
                         <p><strong>7. Corrections/Information Removal/Opt-Out</strong></p>
                         <p>If your name, e-mail or postal address, telephone  number or other Personal Information changes, you may update, correct or omit  the relevant information by contacting us at privacy@TigerDirect.ca. In addition, if you no longer wish to receive  communications from us you may opt-out by emailing us at privacy@TigerDirect.ca, sending 
@@ -1784,14 +1794,14 @@ My first online order with Tiger Direct was a positive experience. Fast processi
             margin-top: 20px;"><br>
     </center>
     <!-- begin ad tag-->
-    <iframe src="http://ad.doubleclick.net/adi/td.TigerCanada/ROS_160x600;sz=160x600;ord=5498819947242?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-    <script language="JavaScript" src="http://ad.doubleclick.net/adj/td.TigerCanada/ROS_160x600;sz=160x600;abr=!ie;ord=5498819947242?"
+    <iframe src="http://ad.doubleclick.net/adi/td.TigerCanada/ROS_160x600;sz=160x600;ord=9148238897323?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
+    <script language="JavaScript" src="http://ad.doubleclick.net/adj/td.TigerCanada/ROS_160x600;sz=160x600;abr=!ie;ord=9148238897323?"
             type="text/javascript"></script>
     </iframe>
     <noscript>
-        <a href="http://ad.doubleclick.net/jump/td.TigerCanada/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=5498819947242?"
+        <a href="http://ad.doubleclick.net/jump/td.TigerCanada/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=9148238897323?"
             target="_blank">
-            <img src="http://ad.doubleclick.net/ad/td.TigerCanada/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=5498819947242?"
+            <img src="http://ad.doubleclick.net/ad/td.TigerCanada/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=9148238897323?"
                 width="160" height="600" border="0" alt=""></a></noscript>
     <!-- End ad tag -->
 
@@ -2050,8 +2060,38 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
         <div class="connect clearfix">
             <div class="footerCode">
                 <strong>Priority code is:</strong> <span class="refCode">CANW</span>
+				
+				 
+				<style>
+					div.goog-te-gadget{background-color:#fff; width:160px; color:#000; text-decoration:none;margin-top:5px;padding:8px;}
+				a.goog-logo-link:link,a.goog-logo-link:visited{color:#000;text-decoration:none;font-weight:normal;}
+				</style>
+			
+			
+				<div id="google_translate_element"></div>
+			
 
-            </div>
+				<script type="text/javascript">
+                                             function googleTranslateElementInit() {
+                                                 new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+                                             }
+				</script>
+				
+				<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+			
+               
+            <script type="text/javascript">
+			<!--
+                if (document.images) {
+                    pic1 = new Image(162, 49);
+                    pic1.src = "//i22.geccdn.net/site/img/hdr_nav_prod_ov.gif";
+
+                    pic2 = new Image(162, 49);
+                    pic2.src = "//i22.geccdn.net/site/img/hdr_nav_prod_sel.gif";
+                }
+			//-->
+			</script>
+			</div>
             <div class="footerShare">
                 <h6><span>Share &amp; Connect</span></h6>
                 <a class="shareFB" href="http://www.facebook.com/tigerdirectca" target="_blank">Like us on Facebook</a> 
@@ -2086,6 +2126,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
     <div class="footerCopy">
       <p>TigerDirect is not responsible for typographical or photographic errors. Prices and specifications are subject to change without notice.</p>
         <p>*Price after manufacturer mail-in rebate. Restrictions apply.</p>
+        
         <p>All prices in Canadian dollars. No additional duties or fees.</p>
         <p>†This product is factory recertified.</p>
         <p>†† Coupons cannot be combined with any other coupon, offer, sale or discount. Coupons are not applicable to prior orders. Coupons are subject to change without notice. One coupon redeemable per item per customer. Not redeemable for cash. Limited to stock on hand. (ANY OTHER USE CONSTITUTES FRAUD)</p>
@@ -2125,23 +2166,24 @@ google.setOnLoadCallback(onLoad);
 </script>
 
 
-<!--SERVER:WEBX13-01A-->
+<!--SERVER:WEBX14-03A-->
 
 
 
-  <script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
- <!--SRCCODE             :CANW-->
-<!--SessionId           :4985519020130603040543204236226210-->
-<!--SRVR                :WEBX13-01A-->
-<!--DB(msImageSC)       :/microsoft/MSelasticity-bnr_620x150C.jpg-->
+  <script type="text/javascript" src="/foresee/foresee-trigger.js" defer="true"></script>
+ <!--DB(msImageSC)       :/microsoft/MSelasticity-bnr_620x150A.jpg-->
 <!--DB(Surveyflag)      :1-->
-<!--DB(msImageID)       :/microsoft/MSelasticity-bnr_430x150C.jpg-->
-<!--DB(msProduct)       :1782427-->
-<!--DB(msRandX)         :83-->
-<!--Cart(rNavSearch)    :^D>>Top Product: >>^D>>Top Product: >>^D>>Top Product: >>-->
+<!--DB(msImageID)       :/microsoft/MSelasticity-bnr_430x150A.jpg-->
+<!--DB(msProduct)       :335878-->
+<!--DB(PageSize)        :10-->
+<!--DB(msRandX)         :7-->
+<!--SRVR                :WEBX14-03A-->
+<!--SessionId           :2541305520131124005817204236226210-->
+<!--SRCCODE             :CANW-->
+<!--Cart(rNavEdpDesc)   :^D>>Ultra USB 2.0 to IDE/SATA Cable Adapter>>EdpNo=3276554^D>>Microsoft Windows 7 Professional 64bit OSS>>EdpNo=5213934^D>>Cables To Go -->
 <!--Cart(rNavLastVisit) :-->
 <!--Cart(rNavCatId)     :^D>>Desktop Computers>>category_tlc.asp?CatId=6^D>>Monitors>>category_tlc.asp?CatId=12^D>>Laptops &amp; Notebooks>>category_tlc.asp?CatId=17-->
-<!--Cart(rNavEdpDesc)   :^D>>Kingwin 120mm Long Life Bearing Case Fan>>EdpNo=5525807^D>>D-Link Wireless-N Home Router >>EdpNo=5650958^D>>Ultra ULT31803 All-in-One Flash Reader>>EdpNo=1187796-->
+<!--Cart(rNavSearch)    :^D>>Top Product: >>^D>>Top Product: >>^D>>Top Product: >>-->
 
 
 
