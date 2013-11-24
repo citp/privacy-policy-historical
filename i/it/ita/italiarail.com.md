@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the italiarail.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430163834id_/http%3A//www.italiarail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italiarail.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124075922id_/http%3A//www.italiarail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ItaliaRail - Italy Train Ticket and Rail Pass Experts
 
 At ItaliaRail.com, we are committed to protecting the online privacy of visitors to our website. This policy applies only to the website and online services provided by . The purpose of this policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
 
-ItaliaRail.com adheres to and is in compliance with the Safe Harbor Privacy Principles developed in coordination with the European Union’s Directive on Data Protection and the U.S. Department of Commerce.
-
-  
-
-
 ### I. Information We Collect
-
-  
-
 
 #### Personal Information
 
@@ -138,34 +130,6 @@ All of the customers’ data will not be disclosed to third parties and they wil
 The list of all the persons in charge of customers’ data can be examined in Rome, at Trenitalia Divisione Passeggeri N/I building, at p.zza della Croce Rossa 1.
 
 Any right against the responsible of data collection may be exercised under the italian law 196/03 article 7. 
-
-  
-
-
-### VII. U.S.-EU and U.S.-Swiss Safe Harbor Frameworks
-
-ItaliaRail.com (Railkey Technology, LLC / International Rail, LLC) complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. ItaliaRail.com (Railkey Technology, LLC / International Rail, LLC) has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ItaliaRail.com (Railkey Technology, LLC / International Rail, LLC) certification, please visit <http://www.export.gov/safeharbor/>
-
-  
-
-
-**Privacy Complaints by European Union Citizens:**  
-In compliance with the Safe Harbor Principles, ItaliaRail.com (Railkey Technology, LLC / International Rail, LLC) commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact us at:
-
-Privacy Complaints  
-P.O. Box 590297  
-Newton Centre, MA 02459  
-[service@ItaliaRail.com](mailto:service@ItaliaRail.com)
-
-ItaliaRail.com (Railkey Technology, LLC / International Rail, LLC) has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by ItaliaRail.com (Railkey Technology, LLC / International Rail, LLC), you may contact:
-
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor   
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.bbb.org/us](http://www.bbb.org/us "www.bbb.org/us")  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
 
   
 
