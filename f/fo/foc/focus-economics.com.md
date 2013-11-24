@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focus-economics.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525070821id_/http%3A//www.focus-economics.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focus-economics.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125005953id_/http%3A//www.focus-economics.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FocusEconomics Consensus Forecast
 
