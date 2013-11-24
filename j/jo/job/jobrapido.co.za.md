@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the jobrapido.co.za privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524021652id_/http%3A//za.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.co.za privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124071901id_/http%3A//za.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
 
 # 
 
 Privacy Policy  
 This Website collects Personal Data from its Users. The Personal Data is either collected automatically or provided voluntarily. Failure to provide the Personal Data may affect the use of the Site or the services offered. The purpose and methods of processing are set out below.  
 1\. Information regarding Data Processing Ownership  
-Jobrapido Srl (hereinafter "Jobrapido") is the Data Controller. Contact info:  
-Jobrapido Srl  
-Via Paleocapa, 7 - 20121 Milan (MI) – Italy
+Jobrapido Srl (hereinafter "Jobrapido") is the Data Controller. Contact info:
 
+Jobrapido Srl  
+Via Paleocapa, 7 - 20121 Milan (MI) - Italy  
+Tax code and VAT number: IT11876271005  
+Company registered at the Chamber of Commerce of Milan  
+Fully paid up share capital: € 5.000.000  
 za@jobrapido.com
 
 2\. Data collected during navigation  
