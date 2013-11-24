@@ -1,100 +1,80 @@
-> *The following text is extracted and transformed from the qr-code-generator.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qr-code-generator.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124224642id_/http%3A//www.qr-code-generator.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# QR Code Generator – Create QR Codes for free – Privacy
 
-**Go Daddy Respects Your Privacy**
+We respect your private and personal sphere, because privacy is a matter of trust and trust is important to us. The protection and the collection, processing and use of your personal information in accordance with the legal requirements is an important concern to us. In order for you to feel secure when you visit our websites, we therefore strictly follow the legal regulations when processing your personal data and would like to inform you about our data collection and use of data here. You may download or save this document by using the usual functionality of your browser for printing websites. You may also download and archieve this document as a PDF by [clicking here](http://www.qrcode-generator.de/download/Datenschutzerklaerung.pdf). To open this file use the free program Adobe Reader (at www.adobe.com) or comparable programs that run the PDF format. With the acceptance of the following Privacy Policy, you consent to the Egoditor UG (haftungsbeschränkt), Weststraße 93, 33615 Bielefeld (hereinafter referred to: Egoditor), operator of the website www.qrcode-generator.com, collecting, processing and using your personal data under observance of the data protection laws and the following provisions.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+## 1\. Responsible office and contact
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Responsible office in accordance with the German Data Protection Act, for the collection, processing and use of your personal data, is:
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Egoditor UG (haftungsbeschränkt)  
+Weststraße 93  
+33615 Bielefeld  
+Deutschland
 
-**Information Collection and Use**
+In case you want to disagree with the collection, processing or use of your personal data according this Privacy Policy, you can do so via email, fax or letter using the following contact data:
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Egoditor UG (haftungsbeschränkt)  
+Weststraße 93  
+33615 Bielefeld  
+Deutschland
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Fax: +49 (0) 521 – 44 81 44 – 99  
+Email: [info@qrcode-generator.de](mailto:info@qrcode-generator.de)
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+## 2\. Collection, processing and use of personal data
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Personal data is only collected if you provide it to us by concluding a contract, creating a user account, signing up for our email newsletter or requesting offers. Personal data is data which contains information about personal and factual circumstances of a certain user. This data will be used without your express approval and only for the performance of contracts or the processing of your requests.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+## 3\. Processing of personal data
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Your personal data will not be passed on to third parties unless such passing on is not neccessary for the provision or billing of contractual services or if there is a legal disclosure obligation. An exeption exists only if the user has expressly given his consent for this, which may be revoked at any time.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+## 4\. Newsletter
 
-**Security**
+We use the so-called double opt in procedure for the subscription to our newsletter, i.e. after signing up to our newsletter we will send you a notification email and ask you to confirm that you would like to receive our newsletter by clicking a link. In case you do not want to receive our newsletter anymore, you may refuse to receive it at any time without incurring any costs other than the transmission costs in accordance with the basic tariffs. A written notification to the contact data mentioned in clause 1 is sufficient. In addition, you will find an unsubscribe link in every newsletter.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+## 5\. Essential information
 
-**Updating Your Information**
+Egoditor is entitled to contact you in case of relevant changes in the area of conditions or services that are essential for the duration of the contractual relationship via phone, email, fax or letter.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+## 6\. Cookies
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+The website uses so-called “cookies” which serve to make the Internet presence more user-friendly, effective and safe. Furthermore, cookies allow us to measure the frequency of page views and the general navigation. Please note that some of these cookies, in most cases so-caled “session cookies”, will be transferred from our server onto your system. Session cookies delete themselves again automatically from your hard drive. Of course you may decline to accept cookies as long as your browser allows this.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+## 7\. Log files
 
-      iii.      You may call us at: (480) 505-8800
+During each access to the websites of Egoditor usage data will be transmitted by the respective Internet browser and saved in protocol files, so-called server log files. The stored data records contain the following data: date and time of access, name of the accessed site, IP address, referrer URL, the volume of data transmited as well as product and version information of the used browser. IP addresses of users will be deleted or made anonymous following termination of use. Anonymizing IP addresses means to change them so that single details about personal and factual circumstances cannot be related to a specific or identifiable natural person. These log file data records will be evaluated in an anonymized form in order to improve our services and offers and make them more user-friendly, find and correct errors and to control the utilization of servers.
 
-       iv.      You may fax us at: (480) 505-8844
+## 8\. Web analysis with Google Analytics
 
-**Sending Emails**
+This website uses Google Analytics, a web analysis service of Google Inc. (“Google”). Google Analytics uses so-called “cookies”, text files, that will be saved on your computer and allow an analysis of your use of the website. The information generated by the cookie concerning your use of this website will be generally passed on to a Google server in the USA and saved there. In case of an activation of the IP anonymization for this website, your IP address will be shortened by Google within member states of the European Union or in other Contracting States to the Agreement on the European Economic Area. The complete IP address will only be transmitted to a server of Google in the USA and shortened there in exceptional cases. On behalf of the website operator, Google will use these information in order to evaluate your website usage, create reports about website activities for the website operator and provide other services related to the use of the website and the Internet. The IP address transmitted by your browser will not be combined with other data held by Google. You may decline to accept cookies in your browser settings; however, please note that if you do so, you might not be able to make full use of all the functions on this website. You may also prevent the collection of data (including your IP address) that is related to your use of the website and generated by cookies as well as the processing of this data by Google simply by downloading and installing the browser plugin available at the following website: [http://tools.google.com/dlpage/gaoptout?hl=en](http://tools.google.com/dlpage/gaoptout?hl=de).
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+## 9\. Google AdSense
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+This website uses Google AdSense, a service for integrating advertisements of Google Inc. (“Google”). Google AdSense uses so-called “Cookies”, text data that is saved on your computer and allows the analysis of the use of the website. Google AdSense also uses so-called Web beacons (invisible graphics). These Web beacons enable the analysis of information such as the traffic on these sites. Information about the use of this website (including your IP adress) and the delivery of advertising formats generated by cookies and Web beacons will be processed to a server of Google in the USA and will be saved there. This information my be processed to contractual partners of Google by Google. Google will not associate your IP adress with any other Google data. You may decline to accept cookies in your browser settings; however, please note that if you do so, you might not be able to make full use of all the functions on this website. Through the use of this website, you express your consent to the processing of data collected by Google about you in the manner described above and for the purposes previously mentioned.
 
-**Compliance with Laws and Law Enforcement**
+## 10\. Use of Social Media Services
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## 10.1 Facebook Plugins (e.g. Like-Buttons)
 
-**Third Party Service Providers**
+Plugins of the social network facebook, 1601 South California Avenue, Palo Alto, CA 94304, USA are integrated in our websites. Facebook plugins are indicated by the facebook logo or the “Like-button” on our website. You will find an overview of facebook plugins at the following website: http://developers.facebook.com/docs/plugins/. When you visit our websites a direct connection between your browser and facebook’s servers will be established. Facebook then is notified of the fact that you have called up the corresponding page on our website. If you interact with the plugins, for example by clicking “Like” while you are logged in to facebook, you may link content of our website on your facebook profile. Thereby, facebook can relate your website visit to your user account. Please note that we, as the website provider, know nothing about the content of data processed and used by facebook. Further information can be found in facebook’s privacy policy at the following website: https://www.facebook.com/about/privacy. If you do not wish to have data collected about you by facebook via our website, you need to log out of facebook before visiting the site.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## 10.2 Twitter
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Our websites use functions of the service twitter. These functions are provided by Twitter Inc., Twitter, Inc. 1355. Market St, Suite 900, San Francisco, CA 94103, USA. If you interact with twitter and the function “Re-Tweet”, websites visited by you will be related to your twitter account and will be visible for other users. Data will also be transferred to twitter through this. Please note that we, as the website provider, know nothing about the content of data processed and used by twitter. Further information can be found in twitter’s privacy policy at the following website: http://twitter.com/privacy. You may change your twitter privacy settings in your account settings at http://twitter.com/privacy.
 
-**Supplementation of Information**
+## 10.3 Google +1
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+## Collection and processing of information:
 
-**Contests/Surveys**
+With the Google +1 button you may publish information worldwide. In addition, you and other users receive personalized content from Google and our partners. Google saves the information that you have given +1 for a content as well as information about the site that you have visited when you have clicked on +1. Your +1 may be shown on the Internet in combination with your profile name and your picture in Google services (e.g. in search results or in your Google profile) or elsewhere on websites or advertisements. Google stores information about your +1 activities in order to improve Google services for you and others. In order to use the Google +1 button, you need a worldwide-visible, public Google profile that must at least contain the name chosen for the profile. This name is used in all Google services. In some cases this name may also replace an other name that you have used while sharing content under your Google account. The identity of your Google profile may be displayed to users who know your email address or have other personally-identifying information about you.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+## Use of collected information:
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+In addition to the above-mentioned purposes, information provided by you will be used according to the valid data protection regulations. Google may publish aggregated statistics about the +1 activities of users or passes these on to users and partners such as publishers, advertisers or connected websites.
 
-**Tell-A-Friend**
+## 11\. Right of access
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+You have the right to become informed gratuitously about your saved data and the right of rectification, disabling and deletion of personal data. If you have any questions concerning the collection, processing or use of your personal data, please contact us. The same is valid for information, deletion and change requests regarding your personal data as well as for revocation of given consent. The contact address can be found in our Legal Notice.
