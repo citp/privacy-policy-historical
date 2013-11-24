@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cminds.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524204227id_/http%3A//www.cminds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cminds.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124074352id_/http%3A//www.cminds.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Creative Minds
 
@@ -14,9 +14,9 @@ The website have implemented procedures to safeguard the personal information co
 
 Why Us
 
-_“Very professional and interesting to work with CreativeMinds. Turns working on a project into a learning experience for understanding users, their needs and expectations. CreativeMinds' experience is felt every step of the way from laying the foundation for the project, planning the tasks at hand, reviewing concepts with the team and providing results according to planned milestones."_
+_“CreativeMinds provided a detailed wire frame design for a complex web site that required intensive detailed planning and multiple interaction flows. CreativeMinds' work was remarkable given the fact that this type of interaction was new,and the interaction required integration of a Web Application and Installed application and integration with other sites. The work CreativeMinds submitted provided the infrastructure for the graphics design. CreativeMinds' people have vast knowledge about user interaction and usability issues. I often recommend CreativeMinds to others who look for an uncompromising top UI design."_
 
-Shahar Ohad, Product Manager at Amadesa Ltd.
+Alon Cohen, EVP at Phone.com
 
 [](https://web.archive.org/testimonials/ "More")
 
