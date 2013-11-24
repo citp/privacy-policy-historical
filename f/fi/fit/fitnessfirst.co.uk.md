@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnessfirst.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622011751id_/http%3A//www.fitnessfirst.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessfirst.co.uk privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124083512id_/http%3A//www.fitnessfirst.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -44,4 +44,4 @@ A cookie is a piece of information that is stored on your computer's hard drive.
 
 #### 7.0 - How to contact us
 
-If you have any questions or concerns about this policy, call us on 01202 845 000, email [customerservices@fitnessfirst.com](mailto:customerservices@fitnessfirst.com "Email us") or contact our Support Centre: 58 Fleets Lane, Poole, Dorset BH15 3BT
+If you have any questions or concerns about this policy, call us on 01202 845 000, email [membershipservices@fitnessfirst.com ](mailto:membershipservices@fitnessfirst.com "Email us") or contact our Support Centre: 58 Fleets Lane, Poole, Dorset BH15 3BT
