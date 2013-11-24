@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523072447id_/http%3A//www.hardcoreware.net/about/%23Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcoreware.net privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124083200id_/http%3A//www.hardcoreware.net/about/%23Privacy_Statement) for the most accurate reproduction.*
 
 # About hardCOREware - Established in 1999
 
