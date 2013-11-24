@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paxum.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524194308id_/http%3A//www.paxum.com/payment/phrame.php%3Faction%3DdisplayPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paxum.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124074950id_/https%3A//www.paxum.com/payment/phrame.php%3Faction%3DdisplayPrivacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -26,7 +26,7 @@ We may disclose all of the information we collect, as described above, to compan
 
 OTHER DISCLOSURES.
 
-We may enter into arrangements with non-affiliated parties, such as financial service providers, lenders, insurance providers and agencies, card issuers, retailers and direct marketers, in order to provide you with special offers that we believe may be of value to you. We may disclose contact information to those parties who may want to offer their products and services to you, unless you opt-out as described below.
+We may enter into arrangements with non-affiliated parties, such as financial service providers, lenders, insurance providers and agencies, card issuers, retailers and direct marketers, in order to provide you with special offers that we believe may be of value to you. We may disclose contact information to those parties who may want to offer their products and services to you.
 
 USE OF AGENTS. 
 
