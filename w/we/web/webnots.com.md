@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the webnots.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616003123id_/http%3A//www.webnots.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webnots.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124130856id_/http%3A//www.webnots.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Webmaster Tutorials
 
-**Privacy Policy**  
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.  
   
 **Note:** the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.  
@@ -26,5 +25,5 @@ We may share information with governmental agencies or other companies assisting
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.   
   
 **Privacy Contact Information**  
-If you have any questions, concerns, or comments about our privacy policy you may **[Contact us](https://web.archive.org/)** with your query or suggestion. Alternatively you can drop a mail to [contact@webnots.com](mailto:contact@webnots.com).  
+If you have any questions, concerns, or comments about our privacy policy you may **[Contact us](https://web.archive.org/)** with your query or suggestion. Alternatively you can [drop a mail ](mailto:contact@webnots.com)[to us](mailto:contact@webnots.com).  
 
