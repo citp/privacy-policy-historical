@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextiva.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502190330id_/http%3A//www.nextiva.com/downloads/NextivaPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextiva.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125002217id_/http%3A//www.nextiva.com/downloads/NextivaPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # (800) 983-­‐4289
 
