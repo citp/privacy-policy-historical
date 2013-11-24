@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the xcloner.com privacy policy that was archived on 2013-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526095559id_/http%3A//www.xcloner.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xcloner.com privacy policy that was archived on 2013-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131124074957id_/http%3A//www.xcloner.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -35,7 +35,7 @@
 	<![endif]-->
 	
 
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.xcloner.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://www.xcloner.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
 
 	<link rel="stylesheet" id="contact-form-7-css" href="http://www.xcloner.com/wp-content/plugins/contact-form-7/styles.css?ver=2.4.1" type="text/css" media="all">
 <link rel="stylesheet" id="wp_dlmp_styles-css" href="http://www.xcloner.com/wp-content/plugins/download-monitor/page-addon/styles.css?ver=3.0.5" type="text/css" media="all">
@@ -63,7 +63,26 @@ var _wpcf7 = { cached: 1 };
 </script>
 <link rel="stylesheet" href="http://www.xcloner.com/wp-content/plugins/support-tickets/styles.css" type="text/css"><script type="text/javascript">
 //<![CDATA[
-	var screen_res = "1600 x 900"; 
+	var screen_res = ""; 
+	function writeCookie(name,value,hours) {
+		var the_cookie = name+"="+escape(value)+"; expires=";
+		var expires = "";
+		hours=hours+0; //convert to number
+		if (hours > 0) { //0==expires on browser close
+			var cdate = new Date();
+			cdate.setTime(cdate.getTime()+(hours*60*60*1000));
+			expires = expires+cdate.toGMTString();
+		} 
+		document.cookie = the_cookie+expires+"; path=/; domain=";
+	}
+	screen_res = screen.width+" x "+screen.height;
+	if (screen_res==" x ") screen_res = window.screen.width+" x "+window.screen.height;
+	if (screen_res==" x ") screen_res = screen.availWidth+" x "+screen.availHeight;
+	if (screen_res!=" x ") { 
+		writeCookie("wassup_screen_res",screen_res,"48"); //keep 2 days
+	} else {
+		screen_res = "";
+	}
 //]]>
 </script>
 	<script type="text/javascript" src="http://www.xcloner.com/wp-content/themes/purecorpwp/js/jquery.easing.1.3.js"></script>
@@ -139,7 +158,6 @@ var _wpcf7 = { cached: 1 };
 </li>
 <li class="page_item page-item-18"><a href="http://www.xcloner.com/blog/" title="Blog">Blog</a></li>
 <li class="page_item page-item-146"><a href="http://www.xcloner.com/services/" title="Services">Services</a></li>
-<li class="page_item page-item-226"><a href="http://www.xcloner.com/affiliates/" title="Affiliates">Affiliates</a></li>
 <!-- list pages or categories for menu  -->
 				
 			</ul>	
@@ -232,9 +250,13 @@ We are based in Romania and offer 24/7 support through forums and our private ti
 			</div>
 			
 			<div id="tweet" class="column left">
-				<h2>Tweet tweet</h2>
+				<!--<h2>Tweet tweet</h2>
 				<div class="tweet rounded"></div>
-				<a href="http://twitter.com/"><img src="http://www.xcloner.com/wp-content/themes/purecorpwp/img/twitterdark.jpg" align="right" alt="twitter"></a><br>
+				<a href="http://twitter.com/"><img src="http://www.xcloner.com/wp-content/themes/purecorpwp/img/twitterdark.jpg" align="right" alt="twitter" /></a><br />
+				-->
+<a class="twitter-timeline" href="https://twitter.com/thinkovi" data-widget-id="344846290607296512">Tweets by @thinkovi</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 			</div>			
 		</div><!-- end bottom -->
                 		<div id="bottomline" class="clearfix">
@@ -244,12 +266,28 @@ We are based in Romania and offer 24/7 support through forums and our private ti
 <li class="page_item page-item-4"><a href="http://www.xcloner.com/support/" title="Support">Support</a></li>
 <li class="page_item page-item-18"><a href="http://www.xcloner.com/blog/" title="Blog">Blog</a></li>
 <li class="page_item page-item-146"><a href="http://www.xcloner.com/services/" title="Services">Services</a></li>
-<li class="page_item page-item-226"><a href="http://www.xcloner.com/affiliates/" title="Affiliates">Affiliates</a></li>
 </ul></div>
 		<script type="text/javascript" src="http://www.xcloner.com/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.47"></script>
 <script type="text/javascript" src="http://www.xcloner.com/wp-content/plugins/contact-form-7/scripts.js?ver=2.4.1"></script>
-<!--
-<p class="small"> WassUp 1.8.3.1 timestamp: 2013-05-26 09:50:41AM UTC (09:50AM)<br />
+
+<!--[if IE]>
+<script language=javascript>
+//<![CDATA[
+	if (screen_res=="") {
+		screen_res = screen.width + " x " + screen.height;
+	}
+	if (screen_res!=" x ") {
+		var cdate = new Date();
+		cdate.setTime(cdate.getTime()+(48*60*60*1000));
+		var cexpires = cdate.toGMTString();
+		//var the_cookie = "wassup_screen_res="+escape(screen_res)+"; expires="+cexpires;
+		document.cookie = "wassup_screen_res=" + escape(screen_res)+ "; path=/; domain=" + document.domain;
+
+	}
+//]]>
+</script>
+<![endif]--><!--
+<p class="small"> WassUp 1.8.3.1 timestamp: 2013-11-24 07:49:57AM UTC (07:49AM)<br />
 If above timestamp is not current time, this page is cached.</p> -->
 	
 		</div><!-- end bottomline -->
@@ -275,7 +313,4 @@ If above timestamp is not current time, this page is cached.</p> -->
 
 
 	
-
-<!-- Dynamic Page Served (once) in 0.365 seconds -->
-<!-- Cached page served by WP-Cache -->
 </body></html>
