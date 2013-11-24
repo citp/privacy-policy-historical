@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jerkyourtube.eu privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001605id_/http%3A//www.jerkyourtube.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerkyourtube.eu privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124075316id_/http%3A//www.jerkyourtube.eu/privacy) for the most accurate reproduction.*
 
 # JerkYourTube
 
-### www.jerkyourtube.com Privacy Policy
+### www.jerkyourtube.eu Privacy Policy
 
 Your right to privacy is important to us
 
