@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presthemes.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602094111id_/http%3A//presthemes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presthemes.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124021201id_/http%3A//presthemes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Presthemes
 
