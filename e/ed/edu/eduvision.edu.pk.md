@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduvision.edu.pk privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000853id_/http%3A//www.eduvision.edu.pk/content.php%3Fcat%3D11%26page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduvision.edu.pk privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125005533id_/http%3A//www.eduvision.edu.pk/content.php%3Fcat%3D11%26page%3Dprivacy_policy) for the most accurate reproduction.*
 
 # EduVision - About Us :: Privacy Policy
 
