@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitlondon.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527074303id_/http%3A//www.visitlondon.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitlondon.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124044834id_/http%3A//www.visitlondon.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy - visitlondon.com
 
@@ -29,7 +29,7 @@ You can manage your details at [www.visitlondon.com/my-london](http://www.visitl
 
 We collect information about our users for a variety of purposes. These include:
 
-  * where you supply information to us in order that we deliver a required service e.g. newsletters relevant to you and your interests, information will be processed by us to supply the information and material which we promise. Your information is held at London & Partners in the UK, and maintained by London & Partners and yourself via [www.londonandpartners.com](http://www.londonandpartners.com/).
+  * where you supply information to us in order that we deliver a required service e.g. newsletters relevant to you and your interests, information will be processed by us to supply the information and material which we promise. Your information is held at London & Partners in the UK, and maintained by London & Partners and yourself via [www.visitlondon.com](http://www.visitlondon.com/).
   * so we can communicate with you in response to a specific action performed by you on this site or one of our affiliate sites, e.g. when you book a hotel, buy a ticket, reserve a table, leave a review, enter a competition, redeem a special offer.
   * so we can inform you of new competitions, special offers, relevant products and services which may be of interest
   * so we can send you news items which are relevant to your interests
@@ -43,11 +43,11 @@ We will not pass on any information provided by you to any third parties unless 
 
 ## Security
 
-Keeping information about you secure is very important to us. However, no data transmission over the internet can be guaranteed to be totally secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information which you send to us, and you do so at your own risk.
+Keeping information about you secure is very important to us. However, no data transmission over the Internet can be guaranteed to be totally secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information which you send to us, and you do so at your own risk.
 
 London & Partners will take precautions to protect against the loss, misuse and alteration of your user data under our control. Only authorised employees and subcontractors will be given access to the information you provide us. Our systems are designed to ensure that your data can only be viewed online if your email and password are correctly input. While we cannot guarantee that loss, misuse or alteration to data will not occur, we take many precautions aimed at preventing such occurrences.
 
-You are ultimately responsible for the security of your email and password. Please take care when using and storing them. We recommend that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information, especially if you share a computer with someone else or are using a computer in a public place like a library or internet cafe.
+You are ultimately responsible for the security of your email and password. Please take care when using and storing them. We recommend that you do not divulge your password to anyone. You should log out of your browser at the end of each computer session to ensure that others cannot access your personal information, especially if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
 
 ##  **Cookies in Use on This Site**
 
@@ -92,6 +92,8 @@ We use cookies to make our website work including:
 
   * Determining if you are logged in or not
   * Remembering you on subsequent visits
+  * Adding items to a favourites list
+  * Adding products to a shopping basket
 
 
 
