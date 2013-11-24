@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejewelhut.co.uk privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507071122id_/http%3A//www.thejewelhut.co.uk/info/privacy-statement-jh.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejewelhut.co.uk privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124045531id_/http%3A//www.thejewelhut.co.uk/privacy-statement-jh.htm) for the most accurate reproduction.*
 
 # Privacy Statement The Jewel Hut
 
@@ -28,7 +28,7 @@ T. H. Baker / The Jewel Hut
 95 High Street  
 Brierley Hill  
 West Midlands  
-DY5 3AU 
+DY5 3AU
 
 Please be assured that information about our customers is an important part in the running of our business and we will not sell on this information to other parties. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
