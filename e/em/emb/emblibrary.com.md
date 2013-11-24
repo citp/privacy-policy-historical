@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524023851id_/http%3A//www.emblibrary.com/EL/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124082535id_/http%3A//www.emblibrary.com/EL/Privacy.aspx) for the most accurate reproduction.*
 
 # Machine Embroidery Designs at Embroidery Library! - Privacy Policy
 
 ## Privacy Statement for Embroidery Library Inc.  
 This page was last edited on 04/24/2012
 
-[](http://www.truste.org/ivalidate.php?url=www.emblibrary.com&sealid=101)
+[ ](https://privacy.truste.com/privacy-seal/Embroidery-Library,-Inc-/validation?rid=cdcab7e9-fd0c-404b-956e-a21ac1f31096 "TRUSTe online privacy certification")
 
 > This privacy statement describes how Embroidery Library Inc. collects and uses the personal information you provide on our Web site: www.emblibrary.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
 >   
