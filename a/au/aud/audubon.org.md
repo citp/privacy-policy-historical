@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the audubon.org privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518052646id_/http%3A//audubon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audubon.org privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124235742id_/http%3A//audubon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Audubon Society
 
 January 2004
 
-This policy covers Web sites owned or operated by Audubon. We encourage you to take the time to read this privacy policy and those of any Web site you visit.The National Audubon Society is one of the largest, most effective environmental organizations dedicated to the protection and preservation of birds, other wildlife and their habitats. Since our founding in 1905, we have approached environmental issues in a manner reflected by nature itself –- with balance. Our web site is designed as a tool for those interested in the environment to become more involved in our mission. Audubon is concerned about our visitor’s Internet privacy and is committed to honoring our constituents’ privacy preferences. We recognize that visitors to our site may be concerned about the information they provide to us and how Audubon treats that information.
+This policy covers Web sites owned or operated by Audubon. We encourage you to take the time to read this privacy policy and those of any Web site you visit.The National Audubon Society is one of the largest, most effective environmental organizations dedicated to the protection and preservation of birds, other wildlife and their habitats. Since our founding in 1905, we have approached environmental issues in a manner reflected by nature itself -- with balance. Our web site is designed as a tool for those interested in the environment to become more involved in our mission. Audubon is concerned about our visitor's Internet privacy and is committed to honoring our constituents' privacy preferences. We recognize that visitors to our site may be concerned about the information they provide to us and how Audubon treats that information.
 
 Consumer Choice
 
 Audubon believes a visitor to our site is the one to best determine:
 
-    * Whether -- and under what conditions –- a visitor should provide "personally identifiable information" (e.g. data that may be used to identify, contact, or locate a person).  
+    * Whether -- and under what conditions -- a visitor should provide "personally identifiable information" (e.g. data that may be used to identify, contact, or locate a person).  
     * Whether Audubon should share such information with anyone.  
     * Whether Audubon may contact you by email.
 
@@ -40,7 +40,7 @@ Finally, you may decide to send Audubon personally identifying information, for 
 
 Cookies
 
-What are "Cookies". A cookie is a small text file sent to your computer’s hard drive by a website’s server. Each time you return to the site that "set" the cookie, the server retrieves its cookie from your computer and thereby knows you are a previous visitor who has returned. Cookies may contain information about your ISP, operating system, browser type, screen resolution and number of colors, your computer’s processor type, your ISP’s server, your Internet protocol address, and what server you were last on. Other information can be added to a cookie, but only information that you give to us.
+What are "Cookies". A cookie is a small text file sent to your computer's hard drive by a website's server. Each time you return to the site that "set" the cookie, the server retrieves its cookie from your computer and thereby knows you are a previous visitor who has returned. Cookies may contain information about your ISP, operating system, browser type, screen resolution and number of colors, your computer's processor type, your ISP's server, your Internet protocol address, and what server you were last on. Other information can be added to a cookie, but only information that you give to us.
 
 IP Location services provided by [MaxMind](http://www.maxmind.com/app/javascript_city). 
 
@@ -48,7 +48,7 @@ Use of Cookies
 
 Audubon uses cookies written by our site, but not to obtain information on other Web sites that you may visit. Cookies help us by providing some history about the parts of our sites that you have visited. This enables us to help you navigate our site more easily, to determine what pages are most attractive to our visitors, and to alert you to related pages on our site that may interest you.
 
-Audubon’s Use of Information
+Audubon's Use of Information
 
 Personally identifiable information may sometimes be made available to other non-profit organizations and occasionally to for-profit organizations -- unless you request otherwise. Whether or not you choose to share your information will have no impact on your interaction with us. If you would not like to have your name traded with other companies, just tell us. You can opt-out by contacting us via email at [webmaster@audubon.org](mailto:webmaster@audubon.org). We will not provide any of your personal information to other organizations if you elect to keep your record private.
 
@@ -70,4 +70,4 @@ In any section of the site that requests personal information, visitors 13 years
 
 Questions
 
-Audubon welcomes comments and questions on this policy. We are dedicated to protecting your personal information, and will make every reasonable effort to keep that information secure. If you have any questions, please contact us at [webmaster@audubon.org](mailto:webmaster@audubon.org) Due to the rapidly evolving technologies on the Internet, we may occasionally update this policy. All revisions will be posted to this site. The revised Privacy Policy will apply to all data collected by Audubon, both prior to and subsequent to the Revised Policy’s effective date.
+Audubon welcomes comments and questions on this policy. We are dedicated to protecting your personal information, and will make every reasonable effort to keep that information secure. If you have any questions, please contact us at [webmaster@audubon.org](mailto:webmaster@audubon.org) Due to the rapidly evolving technologies on the Internet, we may occasionally update this policy. All revisions will be posted to this site. The revised Privacy Policy will apply to all data collected by Audubon, both prior to and subsequent to the Revised Policy's effective date.
