@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the loopdesk.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002757id_/http%3A//www.loopdesk.com/page/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopdesk.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124095752id_/http%3A//www.loopdesk.com/page/view/privacy-policy) for the most accurate reproduction.*
 
 # LoopDesk - FREE Online Business Networking Group
 
 * * *
 
-This policy describes LoopDesk, LLC’s commitment to protecting your privacy and the personal information you provide on the LoopDesk Site.  The following discloses our information gathering and dissemination practices for this website. As this policy may change from time to time, please check back periodically. 
+This policy describes LoopDesk's commitment to protecting your privacy and the personal information you provide on the LoopDesk Site.  The following discloses our information gathering and dissemination practices for this website. As this policy may change from time to time, please check back periodically. 
 
 **Registration**  
 When you visit the LoopDesk Site, you may provide us with two types of information: (1) personal information you knowingly choose to disclose that is collected by us and, (2) Site use information collected by us on an aggregate basis as you and others browse the Site. 
@@ -39,6 +39,6 @@ Please [**click here**](http://www.loopdesk.com/help_contact.php) if you have qu
 
 | 
 
-[](http://www.cormaq.com/)
+[](http://www.ideaageconsulting.com/)
 
-[](http://loopdesk.com/user_campaigns.php)
+[](http://www.rocktheworldbook.com/)
