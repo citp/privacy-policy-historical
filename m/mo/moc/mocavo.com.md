@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mocavo.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001800id_/http%3A//www.mocavo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mocavo.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125001114id_/https%3A//www.mocavo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Mocavo
+# Privacy Policy
 
-Last Updated: October 6, 2011
+Last Updated: July 10, 2013
 
 Mocavo, Inc. is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy ("Privacy Policy") describes the information we collect and how we use it. By using this website, you consent to our Privacy Policy.
 
@@ -57,7 +57,7 @@ From time to time we might establish a business relationship with carefully sele
 
 We may provide your information to our wholly-owned companies and affiliates, which may be outside the United States. We may also sell or transfer your personal information to third parties in connection with any merger, acquisition, reorganization, change in capital structure or sale of all or substantially all of the assets of Mocavo, Inc..
 
-We may provide information to other companies for purposes such as reporting and marketing. We may sell or transfer non-individualized information to third parties, including summary or aggregated anonymous information about all or sub-groups of users of our site.
+We may provide information to other companies for purposes such as reporting and marketing. We may sell or transfer non-individualized information to third parties, including summary or aggregated anonymous information about all or sub-groups of users of our site. For example, we have implemented Google Analytics to help us manage our business. Among other features, we use Remarketing with Google Analytics to help us advertise online.
 
 On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others' rights, property, or safety. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
@@ -84,7 +84,9 @@ For example, we use cookies to:
 
 
 
-You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. 
+You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings.
+
+We, along with third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to our website.
 
 Pixel tags, also known as web beacons or web bugs, are tiny graphic images (referred to here as "GI") that are unobtrusively placed on a website or in an e-mail. When the HTML code for the GI points to a site to retrieve the image, it simultaneously passes information to the our servers, such as the IP address of the computer that retrieved the image, the time and duration the GI was viewed, the type of browser that retrieved the image, and previously set cookie values. 
 
@@ -101,6 +103,8 @@ To modify the information you have provided during registration, please login an
 To unsubscribe from an email, please follow the instructions in any email you receive. 
 
 If you request your registration information be deleted or if you unsubscribe from communications, we may maintain information about sales transactions or service inquiries for future service and record keeping purposes.
+
+Visitors may opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using [Ads Settings](https://www.google.com/settings/ads) provided by Google.
 
 QUESTIONS AND FEEDBACK 
 
