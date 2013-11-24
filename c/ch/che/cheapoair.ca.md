@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapoair.ca privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526005717id_/http%3A//www.cheapoair.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.ca privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124233620id_/http%3A//www.cheapoair.ca/privacy) for the most accurate reproduction.*
 
 # CheapOair.ca - Privacy Policy
 
@@ -91,7 +91,7 @@ New York, NY 10001
 
 Get discounted, email-only deals and coupons right to your inbox. 
 
-PLUS, get C$15 instantly**  
+PLUS, get C$20 instantly±  
   
 ---  
   
