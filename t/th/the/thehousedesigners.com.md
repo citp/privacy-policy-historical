@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehousedesigners.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511002851id_/http%3A//www.thehousedesigners.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehousedesigners.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124234434id_/http%3A//www.thehousedesigners.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The House Designers
 
 The House Designers, LLC is strongly committed to preserving the privacy of its customers. This privacy statement lets you know about our policies for the collection and use of information about you and your transactions with us. 
 
