@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecobee.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401080557id_/http%3A//www.ecobee.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecobee.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125070028id_/http%3A//www.ecobee.com/legal/privacy) for the most accurate reproduction.*
 
-# privacy « ecobee
+# privacy « ecobee Smart WiFi thermostat
 
 ecobee inc. is committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy is intended to describe how your personal information is processed and used, and we will make every effort to ensure that our activities keep within the spirit of this Privacy Policy. Please note that by visiting and using ecobee.com, or any other website owned and operated by ecobee inc., you are accepting the practices described in this Privacy Policy.
 
