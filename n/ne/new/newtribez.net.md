@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtribez.net privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629233607id_/http%3A//www.newtribez.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtribez.net privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125013427id_/http%3A//www.newtribez.net/policy) for the most accurate reproduction.*
 
 # privacy_policy » NewTribeZ.net - Empowering you!
 
