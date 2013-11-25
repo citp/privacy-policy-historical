@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morethan.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620155540id_/http%3A//www.morethan.com/Pages/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morethan.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125223718id_/http%3A//www.morethan.com/pages/legal/privacypolicy.aspx) for the most accurate reproduction.*
 
 # MORE TH>N Car, Home, Pet, Breakdown, Life and Travel Insurance quotes online from Royal & SunAlliance – Legal Stuff
 
