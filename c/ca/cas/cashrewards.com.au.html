@@ -1,0 +1,462 @@
+<!--The following is the downloaded HTML source of the cashrewards.com.au privacy policy that was archived on 2013-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131125032509id_/https%3A//www.cashrewards.com.au/privacy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>Cash Rewards - Privacy Policy</title>
+	<meta name="viewport" content="maximum-scale=1.0, user-scalable=yes, width=device-width">
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta name="robots" content="all">
+	<meta name="keywords" content="">
+	<meta name="description" content="Read the Cash Rewards Privacy Policy">
+	<link href="https://plus.google.com/118064656558034661787" rel="publisher">
+
+	<!--CSS-->
+	<link rel="stylesheet" type="text/css" href="./template/template1/Cashrewards/css/site.css">
+	<link rel="stylesheet" type="text/css" href="./common/javascript-library/jquery-custom/easybox/easybox/easybox.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="./common/javascript-library/jquery-ui-1.9.1.custom/development-bundle/themes/ui-lightness/jquery.ui.all.css">
+	<link rel="stylesheet" type="text/css" href="./common/javascript-library/jquery-custom/countdown/jquery.countdown.css">
+
+	<!--JQUERY-->
+	<script type="text/javascript" src="./common/javascript-library/jquery-ui-1.9.1.custom/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="./common/javascript-library/jquery-ui-1.9.1.custom/js/jquery-ui-1.9.1.custom.min.js"></script>
+
+	<!--3RD PARTY JQUERY TOOLS-->
+	<script type="text/javascript" src="./common/javascript-library/jquery-custom/easySlider1.7/js/easySlider1.7.js"></script>
+	
+	<script type="text/javascript" src="./common/javascript-library/jquery-custom/easybox/easybox/easybox.js"></script>
+	
+
+	<script type="text/javascript" src="./common/javascript-library/custom/autoload.js"></script>
+	<script type="text/javascript" src="./common/javascript-library/jquery-custom/jquery.tools.min.js"></script>
+	<script type="text/javascript" src="./common/javascript-library/jquery-custom/countdown/jquery.countdown.js"></script>
+	<script type="text/javascript" src="./common/javascript-library/jquery-custom/jquery.cycle.all.latest.js"></script>
+
+	<!--3RD PARTY JAVASCRIPT TOOLS-->
+	<script type="text/javascript">var switchTo5x=true;</script>
+	<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+
+	<!--CUSTOM JAVASCRIPT-->
+	<script type="text/javascript" src="./common/javascript-library/100000/config.js"></script>
+	<script type="text/javascript" src="./common/javascript-library/custom/ajax.js"></script>
+	<script type="text/javascript" src="./common/javascript-library/custom/animate.js"></script>
+	<script type="text/javascript" src="./common/javascript-library/custom/menu.js"></script>
+
+
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+<body>
+
+<script type="text/javascript">
+    if(navigator.userAgent.match(/iPad/i)) {
+        viewport = document.querySelector("meta[name=viewport]");
+        viewport.setAttribute('content', 'width=1040');
+    }
+</script>
+
+	
+		<div id="fb-root"></div>
+		<script type="text/javascript">
+		
+		function dome(){
+
+		var myURL = getURL();
+		var myURLhttps = getURLhttps();
+
+		FB.login(function(response) {
+		FB.getLoginStatus(function(response) {
+
+		  if (response.status === 'connected') {
+
+			var uid = response.authResponse.userID;
+			var accessToken = response.authResponse.accessToken;
+
+			FB.api('/me', function(response) {
+			var accessName = response.name;
+			var accessEmail = response.email;
+			var accessID = response.id;
+			var accessFirstName = response.first_name;
+			var accessLastName = response.last_name;
+			var accessGender = response.gender;
+			var accessUsername = '';
+			var accessBirthday = '';
+			var accessLocation = '';
+
+			  
+
+			  var accessKey = 225031
+			  var xmlHttp;
+			  try
+				{
+				// Firefox, Opera 8.0+, Safari
+				xmlHttp=new XMLHttpRequest();
+				}
+			  catch (e)
+				{
+				// Internet Explorer
+				try
+				  {
+				  xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+				  }
+				catch (e)
+				  {
+				  try
+					{
+					xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+					}
+				  catch (e)
+					{
+					alert("Your browser does not support AJAX!");
+					return false;
+					}
+				  }
+				}
+
+			   xmlHttp.onreadystatechange=function()
+			  {
+				if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete") {
+				window.location = myURLhttps+"/facebook-connect.asp"
+				}
+			  }
+			  	xmlHttp.open("GET",myURL+"/common/ajax-scripts/ajax-facebook-login.asp?ul=2&an="+accessName+"&ae="+accessEmail+"&aid="+accessID+"&afn="+accessFirstName+"&aln="+accessLastName+"&ag="+accessGender+"&au="+accessUsername+"&ab="+accessBirthday+"&al="+accessLocation+"&ky="+accessKey,true);
+				xmlHttp.send(null);
+				});
+
+			  } else if (response.status === 'not_authorized') {
+				//Facebook member is not authorizing the cash rewards app, log out the user if they are logged in to cash rewards via facebook (as they have just deauthorized the app)
+			 } else {
+				//Facebook member is not logged in to facebook, log out user if they are logged in to cash rewards via facebook (as we can no longer interact with facebook for their acount?)
+			  }
+			 });
+			}, {scope: 'email,user_birthday'});
+		}
+		
+
+		window.fbAsyncInit = function() {
+		  FB.init({
+			appId      : '252406641496699',
+			status     : true,
+			cookie     : true,
+			xfbml      : true,
+			oauth      : true,
+		  });
+
+		
+		};
+		(function(d){
+		   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+		   js = d.createElement('script'); js.id = id; js.async = true;
+		   js.src = "//connect.facebook.net/en_US/all.js";
+		   d.getElementsByTagName('head')[0].appendChild(js);
+		 }(document));
+		</script>
+		<script type="text/javascript" src="//connect.facebook.net/en_US/all.js"></script>
+	
+	<div class="container" style="padding-left:10px;padding-right:10px;">
+		<a name="top"></a>
+
+		<div class="header" style="margin:20px 0px 5px 0px;">
+			<div class="float50pL">
+				
+				<div class="bottomleft"><a href="http://www.cashrewards.com.au/"><img src="./template/template1/Cashrewards/images/layout/logo.jpg" class="button" alt="Logo"></a></div>
+				
+			</div>
+			<div class="float50pR">
+				
+					<div class="bottomright"><a onclick="dome()" class="facebookconnect" href="#" style="margin-bottom:6px"></a></div>
+				
+			</div>
+		</div>
+		
+	<div class="menubar" onmousemove="show2()" onmouseout="cle2()" style="width:1016px;">
+		<div class="item2" style="width:113px;padding:10px"><span><b>Shop By:</b></span></div>
+		<div class="item2" style="width:207px;padding:10px;"><span>Stores &amp; Categories&nbsp;<div style="position:relative;"><div style="position:absolute;top:-17px;left:135px;"><img src="./template/template1/Cashrewards/images/layout/menu-arrow.jpg"></div></div></span></div>
+		<div class="item2" style="width:142px;padding:10px;"><span>Offers&nbsp;<div style="position:relative;"><div style="position:absolute;top:-17px;left:45px;"><img src="./template/template1/Cashrewards/images/layout/menu-arrow.jpg"></div></div></span></div>
+		
+		<div class="item2" style="width:150px;padding:10px;border-right:1px solid #E0E0E0;"><span>Coupons&nbsp;<div style="position:relative;"><div style="position:absolute;top:-17px;left:62px;"><img src="./template/template1/Cashrewards/images/layout/menu-arrow.jpg"></div></div></span></div>
+		
+		<div class="item2" style="width:140px;padding:10px;border-right:1px solid #E0E0E0;"><span>Support a Cause&nbsp;<div style="position:relative;"><div style="position:absolute;top:-17px;left:115px;"><img src="./template/template1/Cashrewards/images/layout/menu-arrow.jpg"></div></div></span></div>
+		
+		<div class="item2" style="width:140px;padding:10px;"><span>About Us&nbsp;<div style="position:relative;"><div style="position:absolute;top:-17px;left:65px;"><img src="./template/template1/Cashrewards/images/layout/menu-arrow.jpg"></div></div></span></div>
+		
+	</div>
+
+	
+	<div class="child" style="z-index:2000">
+	<div id="menux" class="menux" onmousemove="show2()" onmouseout="cle2()" style="width:1016px;z-index:2000;background:#FFF;top:-21px;">
+		<div class="menucolumn2" style="z-index:2001">
+			<div class="menucolumn" style="z-index:2002">
+			
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/babies-and-kids/';">Babies and Kids</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/beauty/';">Beauty</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/books/';">Books</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/daily-deals/';">Daily Deals</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/department-stores/';">Department Stores</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/electronics/';">Electronics</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/entertainment/';">Entertainment</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/fashion/';">Fashion</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/finance-and-utilities/';">Finance and Utilities</div>
+					</div><div class="menucolumn">
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/flowers-and-gifts/';">Flowers and Gifts</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/food-and-wine/';">Food and Wine</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/health/';">Health</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/home-and-garden/';">Home and Garden</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/movies-and-music/';">Movies and Music</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/pets/';">Pets</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/sports-and-outdoors/';">Sports and Outdoors</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/travel/';">Travel</div>
+					
+			<div class="menuitem2" onclick="window.location='http://www.cashrewards.com.au/cashback/';">View all Stores</div>
+			</div>
+		</div>
+		<div class="menucolumn3" style="z-index:2001">
+			<h4 class="blackbold" style="margin-top:0px">Sales</h4>
+			<div class="menuitem" style="margin-top:5px" onclick="window.location='http://www.cashrewards.com.au/deals/special-offers.asp';">Special Offers</div>
+			<h4 class="blackbold" style="margin-top:10px">Great Deals</h4>
+			<div class="menuitem" style="margin-top:5px" onclick="window.location='http://www.cashrewards.com.au/deals/local/';">Local Deals</div>
+			<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/deals/shopping/';">Product Deals</div>
+			<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/deals/travel/';">Travel Deals</div>
+			<h4 class="blackbold" style="margin-top:10px">Extra Rewards</h4>
+			<div class="menuitem" style="margin-top:5px" onclick="window.location='http://www.cashrewards.com.au/deals/bonus-offers.asp';">Bonus Rewards</div>
+			<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/deals/double-rewards.asp';">Double Rewards</div>
+		</div>
+		<div class="menucolumn3" style="z-index:2001">
+			
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/coupons/babies-and-kids/';">Babies and Kids</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/coupons/beauty/';">Beauty</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/coupons/books/';">Books</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/coupons/department-stores/';">Department Stores</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/coupons/electronics/';">Electronics</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/coupons/fashion/';">Fashion</div>
+					
+					<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/coupons/finance-and-utilities/';">Finance and Utilities</div>
+					
+			<div class="menuitem2" onclick="window.location='http://www.cashrewards.com.au/coupons/';">View all Categories</div>
+			<div class="menuitem2" onclick="window.location='http://www.cashrewards.com.au/coupons/all/';">View all Coupons</div>
+		</div>
+		
+		<div class="menucolumn3" style="z-index:2001">
+			<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/cause/aged-care-seniors/'">Aged Care &amp; Seniors</div><div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/cause/animal-welfare/'">Animal Welfare</div><div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/cause/arts-culture/'">Arts &amp; Culture</div><div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/cause/community-service/'">Community Service</div><div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/cause/education/'">Education</div><div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/cause/environment/'">Environment</div><div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/cause/foundations/'">Foundations</div>
+			<div class="menuitem2" onclick="window.location='http://www.cashrewards.com.au/cause/';">View all Categories</div>
+			<div class="menuitem2" onclick="window.location='http://www.cashrewards.com.au/submit-cause.asp';">Submit a Cause</div>
+		</div>
+		
+		<div class="menucolumn3" style="z-index:2001">
+			<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/help/how-it-works.asp';">How It Works</div>
+			<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/help/';">Help &amp; FAQ</div>
+			<div class="menuitem" onclick="window.location='http://www.cashrewards.com.au/help/contact.asp';">Contact Us</div>
+		</div>
+		
+	</div>
+	</div>
+	
+<div class="child">
+	<div class="float3-1pL"><h3 class="grey"><b>Cashback from over 500 leading retailers</b><br><br>Click on your favourite store and the retailers normal website will open in a new window. <br><br>Browse and purchase, exactly as normal, on the retailers website and you'll earn Cash Rewards on everything you buy!</h3></div>
+	<div class="float3-2pL">
+	<div>
+	<img src="http://cdn.shoppingrewards.com.au/adverts/apple-advert-2013-07-11.jpg">
+				<div style="position:relative">
+				<div style="position:absolute;margin-top:-44px;padding:12px;background:#2170b3;width:276px;text-align:center;opacity:0.97">
+					<font style="color:#FFFFFF;font-size:14px;font-family:arial,helvetica,verdana;font-weight:normal;"><b>Bonus Cashback:</b> was 1.50% now 3.50%</font>
+				</div>
+				</div>
+				
+	</div>
+	</div>
+	<div class="float3-2pL">
+			<div class="topmiddle">
+				<a href="./members/join.asp" style="text-decoration:none;"><img src="./template/template1/Cashrewards/images/banners/free-to-join.jpg"></a>
+			</div>
+		</div>
+</div>
+
+
+
+<div class="child" style="margin-top:10px">
+	
+	<div class="float65RpL">
+	
+				<div class="breadcrumb2">
+					<div class="content">
+					<h4 class="orangebold"><a class="blackboldh4" href="./">Cash Rewards Home</a> | Privacy Policy</h4>
+					</div>
+				</div>
+				<h6 class="grey">
+<br>At Cash Rewards the privacy of all our customers is of utmost importance. Cash Rewards is committed to the safeguarding of your personal information which you have provided to us online via our website or offline via our contact centre. 
+<br><br><b>Cash Rewards and cashrewards.com.au (collectively referred to hereafter as “Cash Rewards” or “the Service” or “the web site”) is owned and operated by Shopping Rewards Pty Limited ACN 150 888 136 (referred to hereafter as 'Cash Rewards', ‘we’, ‘us’ or ‘our’).</b>
+<br><br><b>This Privacy Policy should be read in conjunction with the Cash Rewards <a href="terms.asp">Terms Of Use</a></b>
+<br><br>Our Privacy Policy Principles are as follows:
+<br><br><a class="blackboldh5" href="#1">How does Cash Rewards use the information I provide in the Account Settings and Rewards Profile?</a><br><a class="blackboldh5" href="#1">What do you do with the answers I give in my online profile surveys ?</a><br><a class="blackboldh5" href="#1">Why does Cash Rewards record IP Addresses?</a><br><a class="blackboldh5" href="#1">What are cookies and why does Cash Rewards use them?</a><br><a class="blackboldh5" href="#1">What about other Web sites?</a><br><a class="blackboldh5" href="#1">What is "spam" and does Cash Rewards send it?</a><br><a class="blackboldh5" href="#1">How many emails will I receive?</a><br><a class="blackboldh5" href="#1">How can I stop Cash Rewards from sending me email?</a>
+<br><br><b><a name="1">How does Cash Rewards use the information I provide in the Account Settings and Rewards Profile?</a></b>
+<br><br>Cash Rewards uses the information you provide in your Account Settings and Rewards Profile to target and personalise the emails, surveys and letters we send to you and the offers we make available to you. We do this to ensure that you only receive relevant and appropriate information.
+<br><br>Demographic and profile data is only shared with Cash Rewards clients and advertisers on an aggregate or collective basis. For example, we might tell our clients that 2895 of our members live in a particular town or suburb, or that 37% of our members have indicated an interest in sport.
+<br><br>Your personally identifiable information such as your name, address or email address will never be sold to any third party. Your personally identifiable information may be shared with a third party if it is required by law. Your personally identifiable information may also be shared with a third party (for example a supplier or partner of ours) if it is necessary for us to process a transaction that you request, or if you opt-in to a service or feature where we outsource some aspects of the provision of that service or feature. For example, if you opt in to the mobile rewards service, we may share your mobile number with a telecommunications company that sends messages to you on our behalf. We have strict legal agreements in place that prevent any third party from using that information more than once, or for any purpose beyond what is allowed for in the agreement.
+<br><br><b><a name="2">What do you do with the answers I give in my online profile surveys ?</a></b>
+<br><br>You can be assured that any information you provide in our online profile survey is kept absolutely confidential. The results of this and other online surveys (where you are invited to participate in a survey by email) is used so we can make you rewards offers according to your specified interests and if it were shared with any third party, for example, Cash Rewards clients and advertisers, it would be shared on an aggregate or collective basis only.
+<br><br><b><a name="3">Why does Cash Rewards record IP Addresses?</a></b>
+<br><br>When a user joins Cash Rewards, our computers may record their IP address. In the event that we detect fraud or abuse of our program or our Web site and computers, we may use the IP address of the offender to take action against them. Ultimately this ensures greater protection for you and your personal information.
+<br><br><b><a name="4">What are cookies and why does Cash Rewards use them?</a></b>
+<br><br>A cookie is a piece of data stored on a user's computer hard drive, containing information about that user. A cookie can only be accessed across the Internet by the Web site that placed it there. Cookies are used by the Cash Rewards Web site to add functionality and security.
+<br><br>You may choose to reject a cookie that the Cash Rewards Web site attempts to place on your computer, however you may then be limited in your use of some areas of the Web site. The use of cookies in this way is wide-spread and commonly accepted by the Internet community.
+<br><br><b><a name="5">What about other Web sites?</a></b>
+<br><br>The Cash Rewards Web site contains links to other Web sites. We are not responsible for the privacy practices of these other Web sites. We encourage you to be aware when you leave our Web site to read the privacy statements of other Web sites that you use. This privacy statement applies only to Web sites owned and operated by Shopping Rewards Pty Ltd.
+<br><br><b><a name="6">What is "spam" and does Cash Rewards send it?</a></b>
+<br><br>The widely accepted definition of "spam" is unsolicited commercial email, or in other words, email of a commercial nature that the recipient does not want. Cash Rewards does not send "spam". This is because when you join Cash Rewards, you must expressly agree to allow us to send to you commercial advertising email.
+<br><br><b><a name="7">How many emails will I receive?</a></b>
+<br><br>We respect your time and attention. We will never send to you more than ten advertising emails per week. You may also adjust your communications preferences by logging into your account settings at <a href="members/">MyRewards</a>
+<br><br><b><a name="8">How can I stop Cash Rewards from sending me email?</a></b>
+<br><br>Each email we send to you contains a link at the very bottom allowing you to unsubscribe.
+<br><br><a name="9">To unsubscribe now </a><a href="unsubscribe.asp">click here</a>
+<br><br>If you have received unwanted email sent from Cash Rewards, or purporting to be sent from Cash Rewards, please <a href="help/contact.asp">contact us</a>
+<br><br>If you have any questions about the privacy and permission practices of the Cash Rewards Web site or your dealings with Shopping Rewards Pty Ltd, please <a href="help/contact.asp">contact us</a>. We are committed to being of service to you and resolving any issues that may arise.
+<br><br>Cash Rewards reserves the right to change its privacy policy at any time.
+<br></h6>
+	</div>
+	
+	<div class="float35RpL">
+		
+	<form name="frm_search" method="post" action="./shop/search.asp" style="margin-top:8px;">
+	<div class="ui-widget">
+		
+		<input id="birds" type="text" name="search_text" class="searchbox" onclick="if(this.form.search_text.value=='What are you shopping for?'){this.form.search_text.value=''}" value="What are you shopping for?" style="float:left;width:240px">
+		
+		<input type="submit" class="go" value="" style="float:left;margin-left:3px;">
+
+	</div>
+	</form>
+
+		<div class="linespace10"></div>
+		
+<div class="child">
+	<div class="float1-1pL"><div class="childbutton" onclick="window.location='./budget-car-rental/';">
+		<span class="bonushead"><h4 class="orangebold">Bonus Offer</h4></span>
+		<div class="bonustext"><h5 class="grey">Budget is renowned for meticulously maintained vehicles and excellent service.</h5></div>
+
+
+		<div style="float:left;margin:0px;padding:0px;border:0px solid #000;width:124px">
+			<div class="bonuslogo"><div style="display:inline-block;margin:0px 0px 0px 0px"><div class="merchantlogo" style="border:1px solid #efefef;padding:1px;"><img src="http://images.cashrewards.com.au/banners/thumbs/budget-car-rental.jpg" alt="Budget Car Rental"></div></div></div>
+		</div>
+		<div style="float:left;margin:0px;padding:0px;border:0px solid #000;width:176px;">
+			<div class="bonusrates"><h4 class="redbold">was 5.50% now 6.75%</h4></div>
+			<div class="bonusvalid"><h6 class="greybold">Valid Untill: 31/12/2013</h6></div>
+		</div>
+	</div></div>
+	
+</div>
+
+		<div class="linespace10"></div>
+		
+<div class="comonly" style="float:right">
+	<div style="position:absolute;margin-left:-35px;margin-top:28px;z-index:9000;">
+		<a class="justaddedstamp" href="./latest/" style="cursor:pointer;"></a>
+	</div>
+</div>
+<div class="mostpopular">
+	
+		<div class="childbutton" onclick="window.location='./grays-online/';">
+			<div class="popularhead"><h4 class="orangebold">What's New</h4></div>
+			<div class="populartext"><h5 class="grey">Grays Online sell almost everything. Products including Wine, cars, jewellery, computers, homewares and much more</h5></div>
+
+			<div style="float:left;margin:0px;padding:0px;border:0px solid #000;width:124px">
+				<div class="bonuslogo"><div style="display:inline-block;margin:0px 0px 0px 0px"><div class="merchantlogo" style="border:1px solid #efefef;padding:1px;"><img src="http://images.cashrewards.com.au/banners/thumbs/grays-online.jpg" alt="Grays Online"></div></div></div>
+			</div>
+			<div style="float:left;margin:0px;padding:0px;border:0px solid #000;width:176px;">
+				<div class="popularrates" style="margin-top:20px;"><h4 class="redbold">now paying <br>was 4.50% now 5.00%</h4></div>
+			</div>
+		</div>
+		
+</div>
+
+
+		<div class="linespace10"></div>
+		
+
+	<div class="specialoffer">
+	<div class="childbutton" onclick="clickElement('homespecial')">
+		<div class="specialofferhead"><h4 class="orangebold">Coupon with Cashback</h4></div>
+		<div class="specialoffertext"><h5 class="grey">SAVE 25% on All Personalized Items for the holidays!</h5></div>
+		<div style="float:left;margin:0px;padding:0px;border:0px solid #000;width:124px">
+			<div class="bonuslogo"><div style="display:inline-block;margin:0px 0px 0px 0px"><div class="merchantlogo" style="border:1px solid #efefef;padding:1px;">
+				
+				<a id="homespecial" href="./members/join.asp?a=M100000303">
+				
+			</a></div></div></div><a id="homespecial" href="./members/join.asp?a=M100000303">
+		</a></div><a id="homespecial" href="./members/join.asp?a=M100000303">
+		<div style="float:left;margin:0px;padding:0px;border:0px solid #000;width:176px;">
+			<div class="specialofferrates"><h4 class="redbold">up to 8.00% Cashback</h4></div>
+			<div class="specialoffervalid"><h5 class="orangebold">Coupon Code:<br> MYCB-HOLIDAY25</h5><h6 class="greybold"> Valid until: 31/12/2013</h6></div>
+		</div>
+	</a></div><a id="homespecial" href="./members/join.asp?a=M100000303">
+	</a></div><a id="homespecial" href="./members/join.asp?a=M100000303">
+	
+		<div class="linespace10"></div>
+		
+</a><div class="sociallinks"><a id="homespecial" href="./members/join.asp?a=M100000303">
+	</a><div style="position:relative"><a id="homespecial" href="./members/join.asp?a=M100000303"></a><div style="position:absolute;top:0px;left:160px;z-index:2000"><a id="homespecial" href="./members/join.asp?a=M100000303"></a><a href="http://www.facebook.com/cashrewards.com.au/app_106171216118819" class="facebooklikestamp" target="_blank"></a></div></div>
+	<div class="child">
+	<div class="floatleft"><a href="http://www.twitter.com/cashrewardsau" class="twittericon" target="_blank"></a></div>
+	<div class="floatleft2"><a href="http://www.twitter.com/cashrewardsau" class="blackboldh6" target="_blank">Follow us on Twitter</a></div>
+	</div>
+	<div class="linespace10"></div>
+	<div class="child">
+	<div class="floatleft"><a href="http://www.facebook.com/cashrewards.com.au/app_106171216118819" class="facebookicon" target="_blank"></a></div>
+	<div class="floatleft2"><a href="http://www.facebook.com/cashrewards.com.au/app_106171216118819" class="blackboldh6" target="_blank">Become a fan</a></div>
+	</div>
+</div>
+
+	</div>
+	
+</div>
+
+
+
+
+		<div class="line2space10"></div>
+
+		<div class="child">
+			
+				<h5 class="grey" style="line-height:150%;">
+				<center>
+				<a class="greyboldh5" href="./privacy.asp">Privacy Policy</a> . <a class="greyboldh5" href="./terms.asp">Terms and Conditions</a> . <a class="greyboldh5" href="./cookies.asp">Cookie Tester</a> . <a class="greyboldh5" href="./help/how-it-works.asp">How It Works</a> 
+				<br><br>
+				
+					<font style="width:700px"><b>Cash Rewards</b> is Australia's best <b>Cashback Site</b> with the highest Cashback, no membership fees and no minimum payments. Members are rewarded with up to 25% Cashback from leading Australian and International retailers on everything they buy online and save even more with Coupons and Special Offers in addition to the highest Cashback rates.</font><br><br>
+					
+				<b>Copyright © 2013,&nbsp;Cash Rewards</b>
+				
+				</center>
+				</h5>
+		</div>
+		<noscript>
+		<div class="noscript-warning">Cash Rewards works best with JavaScript enabled</div>
+		</noscript>
+		<div id="wrapper"><div id="container1" style="height:auto;width:auto;"></div></div>
+	</div>
+	<script type="text/javascript" src="./common/javascript-library/custom/click-event.js"></script>
+	
+		<script type="text/javascript">
+		function lightWindow_DoneLoading(){
+		}
+		</script>
+	
+
+
+</body></html>
