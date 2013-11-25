@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the homeschoolbuyersco-op.org privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529154810id_/http%3A//www.homeschoolbuyersco-op.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolbuyersco-op.org privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126003345id_/http%3A//www.homeschoolbuyersco-op.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of the Homeschool Buyers Co-op - Homeschool Buyers Co-op
 
-Last Updated: Dec. 17, 2012
+Last Updated: June 26, 2013
 
-The Homeschool Buyers Co-op (the "Co-op") will not sell, rent, or otherwise make your personal information available to other people or organizations without your permission, except as may be required by law.
+The Homeschool Buyers Co-op (the "Co-op") will not sell, rent, or otherwise make your personal information available to other people or organizations without your permission, except as may be required by law, and except in conjunction with the sale or transfer of the Co-op and its assets to another business. In the event that the Co-op or substantially all of its assets are acquired, member information will be transferred.
 
 **What Information Is Collected?**  
 The term "personally identifiable information" means any information that may be used to identify you, including, but not limited to, your name, address, email address, Internet Protocol address, phone number, billing information, or other contact information. We collect information from you when you join and if you participate in a group purchase that is managed by the Co-op. Below are the specific details on what, where, when, and why this information is collected and how it is used. 
