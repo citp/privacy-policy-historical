@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpressbillpay.com privacy policy that was archived on 2013-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130314144819id_/https%3A//www.xpressbillpay.com/common/documents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpressbillpay.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125154444id_/https%3A//www.xpressbillpay.com/common/documents/privacy.php) for the most accurate reproduction.*
 
 # Xpress Bill Pay
 
@@ -48,7 +48,7 @@ To protect your privacy and security, we will take reasonable steps to verify yo
 
 How to Contact Us
 
-Should you have other questions or concerns about this privacy policy, please contact us online or via postal mail: 1656 S East Bay Blvd., Suite 150 Provo, UT 84606.
+Should you have other questions or concerns about this privacy policy, please contact us online or via postal mail: 387 S. 520 W. Suite 110 Lindon, UT 84042.
 
 Email, Search, and Community Specific Terms and Conditions
 
