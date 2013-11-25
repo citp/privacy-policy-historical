@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-athletics.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527014901id_/http%3A//www.all-athletics.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-athletics.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125094532id_/http%3A//www.all-athletics.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | All-Athletics.com
 
