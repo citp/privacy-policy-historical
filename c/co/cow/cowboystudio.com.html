@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cowboystudio.com privacy policy that was archived on 2013-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523232119id_/http%3A//www.cowboystudio.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cowboystudio.com privacy policy that was archived on 2013-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131125011257id_/http%3A//www.cowboystudio.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -13,10 +13,54 @@
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 
 
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script src="//paypal.adtag.where.com/merchant.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
+<link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
-<script type="text/javascript" src="/a/j/javascripts.js?6_0_69"></script>
+
+<script type="text/javascript">
+	var Config_VCompare_MaxProducts = '3';
+	var PageText_783 = "Compare";
+	var PageText_784 = "Change Selections";
+	var PageText_785 = "You've attempted to select more than {0} items. Click {1} to continue with your initial {0} items or {2} to change your selections.";
+	var PageText_819 = "Product Comparison";
+    var PageText_822 = "Compare";
+    var PageText_840 = "Create Password";
+    var PageText_841 = "Retype Password";
+    var PageText_842 = "Added to cart";
+    var PageText_843 = "Subtotal";
+    var PageText_844 = "items in cart";
+</script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
+
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
+
+<script type="text/javascript">
+	var Config_Search_Auto_Complete = false;
+</script>
 
 
 
@@ -116,7 +160,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/526.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/526.htm" title="">TOP SELLERS</a>
 		</td>
 	</tr>
@@ -124,7 +168,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/462.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/462.htm" title="">New Arrival <font size="1" color="#B60000">New!</font></a>
 		</td>
 	</tr>
@@ -132,7 +176,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/299.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/299.htm" title="">Continuous Lighting</a>
 		</td>
 	</tr>
@@ -140,7 +184,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/363.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/363.htm" title="">Camera Accessories</a>
 		</td>
 	</tr>
@@ -148,7 +192,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/21.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/21.htm" title="">Backdrops</a>
 		</td>
 	</tr>
@@ -156,7 +200,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/310.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/310.htm" title="">Complete Studio Package</a>
 		</td>
 	</tr>
@@ -164,7 +208,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/232.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/232.htm" title="">Strobe and Flash Lighting</a>
 		</td>
 	</tr>
@@ -172,7 +216,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/238.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/238.htm" title="">Reflectors/Light Modifiers</a>
 		</td>
 	</tr>
@@ -180,7 +224,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/245.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/245.htm" title="">Shooting Table/Tent</a>
 		</td>
 	</tr>
@@ -188,23 +232,15 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/254.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/254.htm" title="">Softbox</a>
-		</td>
-	</tr>
-	<tr class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);"> 
-		<td onclick="mClk1(this);" width="1%" valign="top">
-			<a href="http://www.cowboystudio.com/category_s/464.htm" title="">
-			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
-			<a href="http://www.cowboystudio.com/category_s/464.htm" title="">Studio Props</a>
 		</td>
 	</tr>
 	<tr class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);"> 
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/261.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/261.htm" title="">Studio Accessories</a>
 		</td>
 	</tr>
@@ -212,7 +248,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/29.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/29.htm" title="">Support Systems</a>
 		</td>
 	</tr>
@@ -220,7 +256,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/98.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/98.htm" title="">Tripods &amp; DSLR Rig</a>
 		</td>
 	</tr>
@@ -228,7 +264,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/100.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/100.htm" title="">Wholesale</a>
 		</td>
 	</tr>
@@ -236,7 +272,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/527.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/527.htm" title="">LED Bulbs <font size="1" color="#B60000">New!</font></a>
 		</td>
 	</tr>
@@ -244,7 +280,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/542.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/542.htm" title="">Projector Screen <font size="1" color="#B60000">New!</font></a>
 		</td>
 	</tr>
@@ -252,7 +288,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/562.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/562.htm" title="">Phone Accessories <font size="1" color="#B60000">New!</font></a>
 		</td>
 	</tr>
@@ -260,7 +296,7 @@ function mClk1(src, popup)
 		<td onclick="mClk1(this);" width="1%" valign="top">
 			<a href="http://www.cowboystudio.com/category_s/482.htm" title="">
 			<img src="/v/vspfiles/templates/cscustom/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle"></a></td>
-		<td onclick="mClk1(this);" width="99%" valign="middle">
+		<td onclick="mClk1(this);" width="100%" valign="middle">
 			<a href="http://www.cowboystudio.com/category_s/482.htm" title="">*Sale* <font size="1" color="#B60000">Hot!</font></a>
 		</td>
 	</tr>
@@ -295,11 +331,17 @@ function mClk1(src, popup)
 		
 		<div class="section" align="center">
 			<a href="#"><img src="/v/vspfiles/templates/cscustom/images/Template/creditcards.png" alt=""></a>					
-			<a href="#"><img src="/v/vspfiles/templates/cscustom/images/Template/google_checkout.png" alt=""></a><br><br>
-<!-- Begin Volusion Live Chat -->
-<div align="center" id="VolusionLiveChat"><a href="http://www.volusion.com">Ecommerce</a></div>
-<script defer="" type="text/javascript" src="https://livechat.volusion.com/script.aspx?id=1384129"></script>
-<!-- End Volusion Live Chat -->
+			<a href="#"><img src="/v/vspfiles/templates/cscustom/images/Template/google_checkout.png" alt=""></a>
+
+<script type="text/javascript" data-pp-pubid="05dc1bd15a" data-pp-placementtype="170x100"> (function (d, t) {
+"use strict";
+var s = d.getElementsByTagName(t)[0], n = d.createElement(t);
+n.src = "//paypal.adtag.where.com/merchant.js";
+s.parentNode.insertBefore(n, s);
+}(document, "script"));
+</script>
+
+<br><br>
 
 		</div> 
  
@@ -312,7 +354,7 @@ function mClk1(src, popup)
 			<a href="http://www.cowboystudio.com/Articles.asp?ID=260"><img src="/v/vspfiles/templates/cscustom/images/Template/facebook-ad.jpg" alt=""></a>	
 		</div>		
 		
-<br><br>		<a href="#"><img src="/v/vspfiles/templates/cscustom/images/Template/BBB.png" alt=""></a> <br><br>
+<br><br>		<!--<a href="#"><img src="/v/vspfiles/templates/cscustom/images/Template/BBB.png" alt="" /></a> <br /><br />-->
  
 		<a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.cowboystudio.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=450,height=470')"><img src="/v/vspfiles/templates/cscustom/images/Template/seal_volusion.png" border="0"></a><br><br>
  
@@ -489,7 +531,7 @@ function mClk1(src, popup)
 		to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion.
 		Removing this link breaches the Volusion agreement.
 		-->
-		Shopping Cart Powered by <a href="http://www.volusion.com" title="Shopping Cart Software" target="_blank">Volusion</a>.</p>
+		Powered with <a href="http://www.volusion.com" target="_blank">Volusion Ecommerce</a></p>
 		<!--
 		===========================================================================================
 		VOLUSION LINK - END
