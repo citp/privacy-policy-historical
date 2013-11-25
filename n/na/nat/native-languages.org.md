@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the native-languages.org privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529174958id_/http%3A//www.native-languages.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the native-languages.org privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125073540id_/http%3A//www.native-languages.org/privacy.htm) for the most accurate reproduction.*
 
 # Native Languages of the Americas Privacy Policy
 
