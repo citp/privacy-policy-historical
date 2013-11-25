@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515184837id_/http%3A//environment-agency.gov.uk/help/35770.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125014436id_/http%3A//www.environment-agency.gov.uk/help/35770.aspx) for the most accurate reproduction.*
 
 # Environment Agency - Privacy and cookies
 
@@ -9,7 +9,7 @@ This privacy policy explains how we use personal information that we may collect
 We may collect and process the following personal information about you:
 
   * Information that you provide if you submit a query using our [**online enquiries form**](http://www.environment-agency.gov.uk/contactus/feedback.aspx? "Online enquiry form") or if you [**contact**](https://web.archive.org/contactus/default.aspx "Contact us") our National Customer Contact Centre.
-  * Information that you provide if you report an environmental incident via our [**incident hotline**](https://web.archive.org/contactus/36345.aspx "Report an incident").
+  * Information that you provide if you report an environmental incident via our **incident hotline**.
   * Information that you provide if you request publications via this website.
   * Information that you provide if you apply for a permit, licence or exemption via this website.
   * Information that you provide if you subscribe to a newsletter via this website.
