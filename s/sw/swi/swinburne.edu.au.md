@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swinburne.edu.au privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610181839id_/http%3A//www.swinburne.edu.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swinburne.edu.au privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125083649id_/http%3A//www.swinburne.edu.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,7 @@ Swinburne University of Technology acknowledges and respects the privacy of indi
 
 **Why do we collect your information**
 
-This information is normally collected for the purposes of processing your application, registration or inquiry for a Swinburne University of Technology course, activity or interest group. Information that we collect will be used for keeping you informed of upcoming events, improving the student experience and assisting us in improving and marketing our services to you. For more information refer to the [Privacy Collection Notice](https://web.archive.org/web/20130610181839id_/http%3A//www.swinburne.edu.au/privacy_collection.htm).
+This information is normally collected for the purposes of processing your application, registration or inquiry for a Swinburne University of Technology course, activity or interest group. Information that we collect will be used for keeping you informed of upcoming events, improving the student experience and assisting us in improving and marketing our services to you. For more information refer to the [Privacy Collection Notice](https://web.archive.org/web/20131125083649id_/http%3A//www.swinburne.edu.au/privacy_collection.htm).
 
 **Security**
 
