@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the skinnyscoop.com privacy policy that was archived on 2013-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529211204id_/http%3A//skinnyscoop.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skinnyscoop.com privacy policy that was archived on 2013-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131125011941id_/https%3A//www.skinnyscoop.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<title>SkinnyScoop | Privacy</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="keywords" content="Questions">
+	<meta name="p:domain_verify" content="7716fd9be2defc76b8d3ced8c41f7040">
 	
 		<meta name="google-site-verification" content="KdzTksNDoU-Yt8jERyt9nuIy5vzAmeK2tOIOOhx8iFg">
 	
@@ -19,9 +21,10 @@
 	 
 
 
-					<link rel="canonical" href="http://www.skinnyscoop.com/privacy">
-					
-		
+	
+	<link rel="canonical" href="http://www.skinnyscoop.comprivacy">
+
+	
 
 <!--[if lte IE 7]><link rel="stylesheet" media="screen" type="text/css" href="/assets/css/theskinny/ie.css"  /><![endif]-->
 
@@ -30,7 +33,7 @@
 	
 	
 <!-- GA code to be in the head, not the footer -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script src="https://web.archive.org/web/20140916055543/http://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/7765.js?438990" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-9656508-1']);
   _gaq.push(['_setSiteSpeedSampleRate', 50]);
@@ -43,7 +46,7 @@
 </script>
 					  <style type="text/css">@import url("/assets/css/combined/4316af8edeea8cdf2344cc9153a34013");</style>
 
-</head>
+<style type="text/css"></style></head>
   
   <body>
 
@@ -62,7 +65,7 @@
 <div id="fb-root"></div>
 
 	<a href="#" onclick="qc.pA('StaticPageForm', 'pxyNewLoginFacebookLogin', 'QClickEvent', '', '');" class="js_login_action" style="display: none"></a>
-	<div id="c1_ctl" style="position:absolute;display:none;"><div id="c1" class="dialogbox" style="width:510px;padding:15px;">
+	<div id="c1_ctl" style="position: absolute; display: none; z-index: 1350;"><div id="c1" class="dialogbox" style="width:510px;padding:15px;">
 
 <style>
 	/* the new blue #0192B5 */
@@ -176,30 +179,69 @@
       status : true, // check login status
       cookie : true, // enable cookies to allow the server to access the session
       xfbml  : true, // parse XFBML
-      channelUrl : 'http://skinnyscoop.com/channel.html', // channel.html file
+      channelUrl : 'http://www.skinnyscoop.com/channel.html', // channel.html file
       oauth  : false /*,
       frictionlessRequests: true */
     });
 
+		// $("span#facebook_button_clicker a").click(function(e) {
+		// 	toggle_fb_button('wait');
+
+		// 	window.location ='https://www.facebook.com/dialog/oauth?client_id=510764308939969&redirect_uri=http://www.skinnyscoop.com/facebook/login&scope=email,user_birthday,user_location,user_relationships';
+
+		// 	return false;
+		// }); // end click() handler
+
+
+		
 		$("span#facebook_button_clicker a").click(function(e) {
-			toggle_fb_button('wait');
-
-			window.location ='https://www.facebook.com/dialog/oauth?client_id=510764308939969&redirect_uri=http://skinnyscoop.com/facebook/login&scope=email';
-
-			return false;
-		}); // end click() handler
-
-				
+			login();
+		});
+		
+		
 	}); // end Document.ready bit.
+
+function login() {
+	toggle_fb_button('wait');
+	FB.getLoginStatus(function(response) {
+		if (response.authResponse) {  // oauth2.0 version
+			qc.pA('StaticPageForm', 'pxyNewLoginFacebookLogin', 'QClickEvent', 'Sign in with Facebook', 'waitIcon');
+		} else if (response.status === 'unknown') {
+			window.location ='https://www.facebook.com/dialog/oauth?client_id=510764308939969&redirect_uri=http://www.skinnyscoop.com/facebook/login&scope=email,user_birthday,user_location,user_relationships';
+		} else {
+		  	FB.login( 
+				function(response) {
+					//Callback here
+					if (response.authResponse) {
+						// FB Login successful. pass it onto the controller to read member info or signup.
+						qc.pA('StaticPageForm', 'pxyNewLoginFacebookLogin', 'QClickEvent', 'Sign in with Facebook', 'waitIcon',
+							function() { //callback: restore fb button
+								toggle_fb_button('show');
+							}
+						);
+					} else {
+						toggle_fb_button('show');
+						return false;
+					}
+				}, 
+				{ 
+					//Params here. seems it must follow the callback for this routine for some reason.
+					//perms: 'email' // comma-separate if adding additional to this string
+					scope: 'email, user_birthday, user_location, user_relationships, publish_actions' // comma-separate if adding additional to this string oauth2.0 version
+				} 
+			);
+		}
+	});
+}
 </script>
 
 
 <script>
 	$(document).ready(function () {
     // $('#btnNewLoginGo').removeClass('button').addClass('button-new').css('margin-left', '150px').css('height', '24px').css('border', '0').css('color', '#fff').css('font-size', '13px');
-		$('#btnNewLoginGo').live('click', function() { $(this).attr('value','Signing in...'); });
+		$('#btnNewLoginGo').on('click', function() { $(this).attr('value','Signing in...'); });
     // $('#btnNewLoginSignup').removeClass('button').addClass('button-new').css('margin-left', '150px').css('height', '24px').css('border', '0').css('color', '#fff').css('font-size', '13px');
-		$('#btnNewLoginSignup').live('click', function() { $(this).attr('value','Saving...'); });
+		$('#btnNewLoginSignup').on('click', function() { $(this).attr('value','Saving...'); });
 	});
 	
 	function toggle_fb_button(what) {
@@ -241,7 +283,7 @@
 		}
 	});
 	
-	$("a#link_login").live('click', function() {
+	$("a#link_login").on('click', function() {
 		$("a#tab_login").click();
 	});
 	
@@ -275,7 +317,7 @@
 		}
 	});
 
-	$('#email, #password, #txtNewLoginDisplayName').live( 'keydown', function(e) {	
+	$('#email, #password, #txtNewLoginDisplayName').on( 'keydown', function(e) {	
 			if (e.keyCode == 13) {	// on "enter" key.  Should maybe be on tab, too?
 				$('.errors').html('');
 				if ($('#txtNewLoginDisplayName').is(':visible')) {
@@ -288,7 +330,7 @@
 			}
 		});
 
-	$('#btnNewLoginSignup, #btnNewLoginGo, #btnNewLoginForgot').live('click', function() {
+	$('#btnNewLoginSignup, #btnNewLoginGo, #btnNewLoginForgot').on('click', function() {
 		$('.errors').html('');
 	});
 </script>
@@ -299,22 +341,71 @@
 <!-- END LOGIN CHECK -->
 
 <div id="page-content">
-	<div id="newLogoutAdminLinks_ctl" style="display:inline;"><div id="newLogoutAdminLinks"></div></div><div class="navbar navbar-fixed-top">
+	
+<div class="navbar navbar-fixed-top">
   <div class="navbar-inner">
-    <div class="container container-950">
+    <div class="container" style="position:relative">
+      <div class="row-fluid">
     
-      <a href="/" class="logo"><img src="/assets/images/logo-v3.png"></a>
-      
-      <ul class="nav">
-        <li class="divider-vertical"></li>
-        <li><a href="/category">Explore</a></li>
-        <li class="divider-vertical"></li>
-        <li><a href="#" rel="modal-trigger" data-modal-target="interstitial-2" onclick="_gaq.push(['_trackPageview', '/social-list/create?start=1']);"><i class="icon-plus icon-white"></i> Create A List</a></li>
-        <li class="divider-vertical"></li>
-        <li><a href="/content_publishers">For Businesses</a></li>
-      </ul>
-      
-      <div id="searchPanel_ctl" style="display:inline;"><div id="searchPanel"><span id="txtSearch_ctl"><input type="text" name="txtSearch" id="txtSearch" value="" class="noFocus" hint="search" onkeydown="if (event.keyCode == 13) {qc.pB('StaticPageForm', 'txtSearch', 'QEnterKeyEvent', '');}" maxlength="75"></span><span id="btnSearch_ctl"><input type="button" name="btnSearch" id="btnSearch" value="SEARCH" class="button" onclick="qc.pB('StaticPageForm', 'btnSearch', 'QClickEvent', ''); return false;"></span><style>
+        <a href="/" class="logo span3"><img src="/assets/images/logo-v3.png"></a>
+        
+        <div class="centered">
+          <ul class="nav">
+            <li><a href="/category" id="category-dropdown-trigger">Categories <span class="caret"></span></a></li>
+            <li class="divider-vertical"></li>
+            <!-- <li><a href="#" rel="modal-trigger" data-modal-target="interstitial-2" onclick="_gaq.push(['_trackPageview', '/social-list/create?start=1']);"><i class="icon-plus icon-white"></i> Create A List</a></li> -->
+            <li><a href="/list/create" onclick="_gaq.push(['_trackPageview', '/social-list/create?start=1']);"><i class="icon-plus icon-white"></i> Create A List</a></li>
+            <li class="divider-vertical hidden-tablet"></li>
+            <li class="hidden-tablet"><a href="/content_publishers">For Businesses</a></li>
+          </ul>
+
+
+          <div class="menu-container">
+            <table>
+                <tbody><tr> <td colspan="2"><a href="/category">All</a></td></tr>
+                                    <tr>
+                        <td><a href="/category/beauty">Beauty</a></td>
+                                                  <td><a href="/category/just-for-fun">Just for Fun</a></td>
+                                            </tr>
+                                    <tr>
+                        <td><a href="/category/books">Books</a></td>
+                                                  <td><a href="/category/parenting">Parenting</a></td>
+                                            </tr>
+                                    <tr>
+                        <td><a href="/category/career-and-money">Career &amp; Money</a></td>
+                                                  <td><a href="/category/pregnancy-and-baby">Pregnancy &amp; Baby</a></td>
+                                            </tr>
+                                    <tr>
+                        <td><a href="/category/food-and-drink">Food &amp; Drink</a></td>
+                                                  <td><a href="/category/relationships">Relationships</a></td>
+                                            </tr>
+                                    <tr>
+                        <td><a href="/category/gifts">Gifts</a></td>
+                                                  <td><a href="/category/style">Style</a></td>
+                                            </tr>
+                                    <tr>
+                        <td><a href="/category/health-and-fitness">Health &amp; Fitness</a></td>
+                                                  <td><a href="/category/tech-and-blogging">Tech &amp; Blogging</a></td>
+                                            </tr>
+                                    <tr>
+                        <td><a href="/category/hobbies-and-crafts">Hobbies &amp; Crafts</a></td>
+                                                  <td><a href="/category/travel-and-places">Travel &amp; Places</a></td>
+                                            </tr>
+                                    <tr>
+                        <td><a href="/category/holidays">Holidays</a></td>
+                                                  <td><a href="/category/tv-movies-and-music">TV, Movies &amp; Music</a></td>
+                                            </tr>
+                                    <tr>
+                        <td><a href="/category/home">Home</a></td>
+                                                  <td><a href="/category/weddings-and-events">Weddings &amp; Events</a></td>
+                                            </tr>
+                            </tbody></table>
+          </div>
+
+          <div class="search-wrapper">
+            <div class="search-placeholder">
+              <span class="header-icon-search"></span>
+              <div id="searchPanel_ctl" style="display:inline;"><div id="searchPanel"><span id="txtSearch_ctl"><input type="text" name="txtSearch" id="txtSearch" value="" class="noFocus" hint="Search" onkeydown="if (event.keyCode == 13) {qc.pB('StaticPageForm', 'txtSearch', 'QEnterKeyEvent', '');}" maxlength="75"></span><span id="btnSearch_ctl"><input type="button" name="btnSearch" id="btnSearch" value="SEARCH" class="button" onclick="qc.pB('StaticPageForm', 'btnSearch', 'QClickEvent', ''); return false;"></span><style>
 #btnSearch { display:none; }
 #searchSuggest{
 	position:absolute;
@@ -374,22 +465,25 @@
 
 
 
-</div></div>      
-              <ul class="nav pull-right">
-          <li class="dropdown">
-            <span id="facebook_button_clicker"><a href="#" class="facebook-icon"></a></span>
-            <span id="new_login_wait" class="hide"><img src="/assets/images/ajax-loader4.gif"></span>
-            <a href="javascript://" onclick="show_new_login();" class="login">Login</a>
-            <a href="#" class="dropdown-toggle login" data-toggle="dropdown"><b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-              <li class=""><a href="javascript://" onclick="show_new_login('signup');">Join Skinnyscoop</a></li>
-            </ul>
-          </li>
-        </ul>
-          	
+</div></div>            </div>
+          </div>
+        </div>
+        
+                  <ul class="nav pull-right">
+            <li class="dropdown">
+              <a href="javascript://" onclick="show_new_login();" class="login">Login</a>
+              <a href="#" class="dropdown-toggle login" data-toggle="dropdown"><b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                <li class=""><a href="javascript://" onclick="show_new_login('signup');">Join Skinnyscoop</a></li>
+              </ul>
+            </li>
+          </ul>
+              </div>
+      
     </div>
   </div>
 </div>
+
 	<div class="container container-950 search-page" id="contents">
 		<div id="main">
 		
@@ -530,14 +624,14 @@ This Privacy Policy describes the personal information we collect about you, why
 		<div class="clear"></div>
 	</div> <!-- close container div -->
 	<div class="footer">
-  <div class="container container-950">
+  <div class="container">
 	  <div class="col1">
 	    <a href="/"><div class="footer-logo"><!--ie--></div></a>
-	    <p>SkinnyScoop makes it fun and rewarding to recommend and discover the best apps, books, beauty products, toys and baby gear, local favorites, and more.</p>
+	    <p>SkinnyScoop makes it fun &amp; easy for people to discover the best books, apps, recipes, gift ideas, parenting tips, and more!</p>
 	    <p class="copy">© All rights reserved <a href="/tos">Terms of Service</a> | <a href="/privacy">Privacy Policy</a></p>
 	  </div>
   
-	  <div class="col2">
+	  <div class="col2 first-item">
 	    <h3>Get Started</h3>
     
 	    <a href="/social-list/create?list=apps-on-my-iphone">Apps on My iPhone</a>
@@ -572,7 +666,7 @@ This Privacy Policy describes the personal information we collect about you, why
 </div></div>
 
 
-<div id="c8_ctl" style="position:absolute;display:none;"><div id="c8" class="dialogbox" style="width:800px;padding:15px;"><div class="modal js-add-item-modal">
+<div id="c8_ctl" style="position: absolute; display: none; z-index: 1350;"><div id="c8" class="dialogbox" style="width:800px;padding:15px;"><div class="modal js-add-item-modal">
   <div class="modal-header">
     <a class="close" data-dismiss="modal">×</a>
     <h3 class="js-show-on-normal-add">Add a New Item</h3>
@@ -642,11 +736,11 @@ This Privacy Policy describes the personal information we collect about you, why
     
   </div>
   <div class="modal-body js-show-on-crop">
-	  <div class="floatleft" style="width: 390px;">
+	  <div class="pull-left" style="width: 390px;">
       <div class="marge_below">1. Select crop area:</div>
       <img id="jcrop_target" src="" class="crop">
 		</div>
-    <div class="floatleft" style="width: 140px;">
+    <div class="pull-left" style="width: 140px;">
       <div class="marge_below">2. Preview your cropped image</div>
       <div class="preview-wrapper" style="width: 140px;height: 150px;overflow: hidden;">
         <img id="preview" src="" class="crop">
@@ -725,16 +819,16 @@ This Privacy Policy describes the personal information we collect about you, why
   var listType = 'normal';
   var userHasHandle = "false";
   var _timer  = 2000; 
-  var httpHost = 'skinnyscoop.com';
+  var httpHost = 'www.skinnyscoop.com';
   var protocol = 'http';
 </script></div></div>
 
 <div style="display: none;">
-	<input type="hidden" name="Qform__FormState" id="Qform__FormState" value="eNrtfetyGzmS7vzdfooaTpwz3Sd04f0mt2dlWba1a0uyJY-3948CrALJsosFTqFKFGeiI-Y1TsSel5snOZkJoApVJCXbkrptCT2XFgv3RCLzy0QCOBk22sPaWcrS0D9lE_5CJLPasNke_kMOG91h7Q__5w9i9PFAxGkioogntb2TYaM-rFlfho0e5m62hjU5FYuLaRjwiylnAU8uxkKkWEgOoRVMwD-x3mpOnQU_45-ttp3FTzhL-UUUyvQijKFCmYZpyKJKoWbfLsSDML2YJ2IcRvxiJoKV7I3BsOZPhZD8veRJzGb8jcp1QkkHa5KGgxYRpjOspVepyvGKxUHEsRQ0__acX6XPxFVt2FM520RCmSYHUh5ETEpsuQfFId8I8mE_WpQHBnYgomwWQ5ZwWMeEuimMtdb2jnGMTfPtNRvxCKbrHf9bFiY8oKqguf8lvVB6ifW1OdhU5n2MY6NM0Hm7ptV2zoU4m4okpenpUDuzTKbelF1yj6VexBn8gq_-lCXMx1la37ipyGq8Ba29-ZzKGmsqey3iieGZaqdmYm01_Q3V2F1qVLq0vqpGTidcOYyo08R-UGLHzOwbdvWax5N0inPb6JTTwrhIq-_lTDOK4newNk7iaFnbG9kcAYXeiYWs5Nd8ApyqVhnkPQvjScRfhzF9aeb8dJAIKc_8JJynoSIeVPGcx0uLyND8X1kUBrDyzpNwRmQp9QIyfEjYHL82igFB7c-Y_wlYWSSKZUE8mASRwFK_JuksXUbUVZAQxyI940TPaq4PYYDEOi7WDnTleSjnEVvmvcmnWCdsqDon9QsQaM9EVAyya6ccpUAKP0_rFJMep8fAMlJ3p28XOrnkSUS0H1XmCVPPwr9zXWpglzpLk_ATF1maFyslv4-DSq1WZxJuEzeXKydz5ofpUn_O8-_7PpfyP_myJFpm4dUByySXevZDEedN5cx-kCVSJKvkzKfjMGajSLFMo8LSRsiUiAK9PGejIxjcVc7WrZythYjOw7nuZi4Dig4eJkll1Mi9oQxHEc-7kHf-FQ8nUy1PG3ltmqtg5Q9rzVa9VvAAFkln0TM-BgJXiYgp-2NScsclvjuK4f8yH7snS13DtlgS08I7LrEFMsw4UtppHZtCllMhQzUllSyDgliaUIX6eM3HaaktoM4bccmZJk-ZjbRqPwqMzKioujdGl-oGAB8QarB5Gb6dsoSjSqPKanvJsLenQIKGFNMwCnTqfpLgymXD-vAfv9odx6VV7fg7jivAYqBOOYXoWuJXSDqJEdxUeI6oEITjsODTQvahaJvzxM5QL82vau0NT6ci0JzZLZaHTMVsP4WlPMpSrsdX1t8qD4klK13LOiDQPrFOhTQF86tkIDKQqOC-XFL-B7tkSsDLahI1eTbl3CQVegHnMe-1LI0KSKKalKgVz3kyC2NQDYYuzVwnHMlnkfA_HUZ8BvOv0n9VhBul8Rlo0xIbnSAaevssS1Ng6mFnsBk1QT9GKtsabEQaDCuvlcQwrs7DGNEiDkcLglyenoJeY8lSN25GcuN4nbZz2u6BaLtjp-VIy7Vz4eQ03e-t6RqoAiBRxD5IoU_6E66SE-rU2_2P7MrQk4rWhra_AlpUfVU0VXTzgRISpvdiqs31nALQgQ8sTI98EedTSO0HfMyySNm79U3CApk5Ib-Gtb6gysNLUn4n9OntAQ5EfRqSX6BY1oWi1kXKY6-wbKCXhdUYyJLnnHQBkuhX-Of3gQk3AQCYOSAdCIyxqMqdIyQ7meJGrO4n3FuKzJNZwv9S9ke8CBOZqmHlRaDTp4nwecl3MS4yHrAoGjFNz01un3zNSg68EFRLmrUZjSJoazZPdesnKKHeqh_DXocYsZDlbGK4ED1PcxZfj082uX1W3QzHFcN_Bmo_1WzYzFf9fpYKtXxJCoGcylvJ-3jKgqAQ0zkQeJ6I-TlLJjxXzQVXvRJJ-HdYLCzaj8LJqphu5HL6rzxJQ39TPt1RWC8oqKVef7IKevNc2KeNuTqlXC8Tkc1hWNVshdg-kpjxv0WMTs8iQyuX9e9RLL7jEqDLhjaLvK_F4oa8zV4hTzGbUjHPAR34xZpu5l4hO9ObMA5n2ezaLOyqyPL7gNM1oN2BVgdaHWi9J9DaQlTTc_DUOWK-zBGjMIwFo-4YwzQchnEY5hFgmLrDMA7DOAxzewzTf4wYpuEwzC0wDFQzT8TVsoJicAm81Xxwium1YadrInacRey0idMmD16bdL5Ymxw7e_hb2q7BnuB2DfnvLxgVuci3Q9yuzbeoj3taH59ZWydOITuF7BSyU8hdp5C_c4Xc0vETJNydRv4eNPKAnPzPRAqc8_n-fcjl81if2HFRCs7D76IUHAR0ENBBwFtCwIGLUnAe_i-OUkCNj1Ww6DlLWZXXbUYGKrORFFGW8trmcSl-uvBhEe76ipUugpBFYrLzUZbPe71haWpEIAHJP9XpHwsX0alOyJXLxHDYqe9tOrwCfK6a0od-CwKophClllZTrgD24yVI1oNISAt8rQNvLWzislYoX9RZCntXVRekj5DqtRumonHPMBBICxy6OxUzvpuNsjjNdheLRSJEupvqTHIXj33L3fJx7OdEy1d0dHwnnUc78-m89vWYkiJbGp35Vc2BSwcu7_Z8lgsTcSDyFqeRgT7der0kmX5_OHmfWLF9H-5CcnmYgNkE2u9awScJlG5aUDUZttv1a88-J8P-jafGIE9zzwWg3Ak8vQcMqqNIAAG8BnxxBHCjuP0Fvu9Xv8PaJI_j6jGmBnEJ5lQT_AUXwQBHh1BuOzYn1dxVMI_tKpi6uwvGnY536OvbvQum03R3wSh4pq89M3oxP179ZX69br159569xpdDp8b9ePZoKtSn2megKKb2MZH1QDL5fApiR5VEHXaIe3EeQgQvDdOIeyLx5qAOuff-3WtvyhNuXA3A-2xbJOEEIE60TZlJlMPAfxGZ57PYY5EUujTzFnzkgeT4hDWauv6oOT7JD1WnsNhSXGy_PmZXJPBVOMO7EcOIv59HggWEEoEeb_GT4W3g7DLSw0SLcQsIt5yXv4UlDVC3y980zmK7n8d-ShUrhphlOHMsSXdBUs22A_Kg_up23ZzKdrtuj0NVr8isb0NV36mXo_5oN-HuRrc1C-fF-yR6zqWyA1Xw7me7MXDBkR8jsCtw7gznzriNO6O90Z0xwAEAvHHODIeMHDL6EmdGq-GcGfrKv7Izo6r9nFvjlm6Nxia3Rqvk1rAQg_ejmKtwn58eucOhboOyL0NiHY3EpMgSn29nSeSA2CMEYm5XyQExB8QcEPseXFXtKhBz6OveNpWa-aYSBkADDT0FFHAP6IatpE7fFE2nfGX_aIEbSN6ci3nEabdpHMYB5AScgHhkx20trUV6QJJIpoqdcQUYsId_E9jrNq99EMGfCsnjXKeacs-Y5LYOb_yGsK6RByHjctZK8YQaeGsWufqKWb-5qwAesrr-3C2UX-3w9TMeqfBsA_u6BvVde9QCyaWOWmD8_khclc9YaPaQtr2ojigPLD6pqcDNqsiWsPBrtVLfQVNnfBXeqs7zoKpTsXIKjy8llHkW6PCrA50OdLp90Qfk9RtUFO5q_K_Dnnfi-etqIFkBoMg0KljeY15EiOfX7zqO_DOfvtL-vK_dYXUvhj5qd17rLvdVm25f1SErh6zu1J3Xbjt33lGuBix3nttU_S02VdGt92G6RDVOLjcEVtsL0JjT5V8euYetQWc0yayn10Hv6L3RY_fMqNORTkc678OXRmWDMMq94Oa5YqcUv14pfmNPjeLd1X310ijue7n7MX_zd0ZxagCAGs__0YzY1flanK_FhU45HOlwpMOR37-PpZ77WCpq7gGCyfr3AiYfwpWbuE2FnHSWsiT9LwebHGxysMnBJgebHGx6CO63frE1ZSs5B5ocaLoz0PSLA00ONDnQ5ECTA00OND1U0PSLA00ONN3u2JsBTXq1OczkMJPDTA4zOczkMNP3j5l6ZcyUR4o7yOQg0-39TGYJOszkMJPDTA4zOczkMNOD8zMZmjnQ5EDTbQ5_6YP3Z1E2cYjJISaHmBxicojJIaaH9xyb0nAOLjm49LVwaVDwU-CwksNKDis5rOSwksNKDwsrnYw-cj89ChxWcljp1q4lZCj1nKuDSw4uObjk4JKDSw4uPaQAJgWXzs3L4g4wOcD01Y_a8SAkV6VzLzm85PCSw0sOLzm89GDesEPlZvbinHfJgaU7OCBns5PDSw4vObzk8JLDSw4vff94aVW_Objk4NJXwyV15feRfMNhMeuL2h1icojJISaHmBxicojpASCmtSrOgSYHmm7zKm0ojwWdtgQWGIcJ6RQHmxxscrDJwSYHmxxsehC3CqxTcg44OeD01cAJBg4IiLyX5t0_KGNEvJ8lyDvR8rWYTHhwVBI71ru9EmnRNg_66msKTH2IAQ5joIaHrwh6aZhG3BOJN4d2uff-3WtvyhNu1Jwu_D6JKs8tt1qlaoIi1ftR0L9Z9JNZDUUt5klhVdQHLocBeVJkiU-NW_d1rHnj-cbHiAu5dITrh7CLEbv7CfeWIvNklvC_lAHcizCRqZq5vAjQ-zQRPi-BvXGR8YBF0YjpBw6hWRYExukMS4OpkWq5xmGgQbWYWbzRKIKGZvNUN32CC-at-jHsdWgaC0HPJmYioaics7h27XPBm0DyKig7ruCkGTBUqmVMMxcL-1kq1GImMQXsmLeS9_EUSFHI8HxlPE_E_JwlE55WZArqCpGEfwdmYNF-FE5WZXgjF-J_5Uka-pvy6Y6CZEApLrUUlVUBkefCPm3M1SnlepmIbA7DqmYrJPuRxIz_LWL-AnWtydDK1cF7lJvvuARcs6HNIu9rsbghb7NXCFzM9orFQcSfA3Twixc2mzmItjMBoA5n2ezaLOyqyPL7INc1hqFDtA7ROkR7T4gWuuw3Gt8Kgq1_OYKt38-z0ccOtt58gyigGAtF3TGKaTgU41DMI0AxdYdiHIpxKOb2KKb5OFFMw6GY24V6zRNxtazgGFwEbzUfnGJ6bdjpEp5xVrHTJ06fPHB9AsTyB1-sTo6dQXwLVdJA8QqJIvZB2HzSn3AxnFCn3u5_ZFeGnkpQ6_2OvFeqr8bKxKH6_SG57y8YlbjQVed0gG58YGF65Is4n0bqRcDHLItUVEd9k2RAzk3CgJcWE1R5eEk65oQ-vT3ANtWnIUW_FGu40Ie6SJkCFf4MwsI60o2B4HjOSfAjoX6Ff75rbdzT2vjM2jxx6tipY6eOnXlXd_r4O9fHTdLHamPcKeTv5ArnaBQ9Eykwzue79yGXz-NUxf64MAXn4HdhCg4BOgToEOAtEWDLhSk4B_9XhCmgzlfBqc9ZyqrcbrMyUJmNpIiylNc2j0vx04UPy3DXV6x0EYQsEpOdj7JWWrBvWJoaIUhQ8k91-sdCRnQMBnLlUjEcdup7m85IAaerpvQpqYIAqinEqaX1lKuA_XgJsvUgEtKCX-vgWwubuKwV6he1lkLfVeUF6SOkeu2GqWjcMxAEIQQcujsVM76bjbI4zXYXi0UiRLqb6kxyFwOH5e5-JWR3J51HO_PpvPb1WJICWhqd-VXNgUoHKu_21JaLDnHg8avBIwnofr1ekky_P4y8x027_n04CYGZ_lFEyiag6ZotK-gEPwwGFkiFD616b_VJNaVgEZO2dWKI58hehBF_P48ECyix39AyyipZPYqTDHvt1l7-jLuVDdP6jb4-YRzJVA0Xc6weVoGsg45eLVY1laYGfUP0URrnz8OxSxpLo97paOWvazjjEQhkHtAZOcrSaLbXvMh7lrIk_S-VYdDflOEXytDsNcvXiFMGzeWQ3mp3r3nzFzK0m_VNT9xh6qC96VEXSO10-5vvMIf0bru54c5OSOw1uusvqMK0QX3jVQyQ3O-2rzlyCBkGrf7e73dA8FaBSd_wAcF7sFO0HTIHfgbsDqpKZHFqA8qYL16LSRjrdak2PI9LH2Gau-Z03_xqaRLd7qiDN8439uiDlXpf4Rprtvs95xu7rx1S-P628BqZDdJmeYO0yGAAupyKxQWog4sIpfuP6jS128e8g-fVgmhSKM3jAniZj4czFkbuviJ3X5G7r8jdV-Sg4ffu-YIKWoN6zUFE7QbkSr19Iyjxt_VEXH9VEfZDffsQplPNhDdDR43_0OfERqFieahsWGvQrTSPd8d1UIJVpwCWFiDwHbJyyOqbQlYwxII3HaxysMrBKgervgxW9dGnX4gQh6zuGVm1boesqNYBusE-8WUgFnHZY9cldKLhjnHYNcyeS9UBB_R6SxcagoiwfXBrHWuKDzhm24G2D0AFeT__7KmIxmu9duXuPlT3XIv2lg1kfCmQwuhAfZalKc5CZ7AZKzbVxrQH_9uegy5myZL-jjD0qrYGJRK8PAsnsXf0OVcQ5QrmVFWu-2TGdiMFnPp36t9tuD2058Yq4sop_9sFeGxU-e07UPl3eYgRqes3hvkO3cVEuNOLdw4rbgIMOmDNrECtxtQcOTeTczN9npup6XbwHNZ0WNO5mr6HIK9rNJ4Dn_fueWo-8j29XsniQedJNr9nJw0BoUkob7xHwnlpnOZ0mtN5aapemvUyyynL3_Eozt27YwYVd4zMp9m5ZH5Tl0xluUEdE5HeM0TANt9xyVPvzdKzgzkcWHBgwYEFBxa-FiwY6eXAwoMGC-N8mh1Y-G33b9qlQ8wvmM9HQnxyJ5qdNnba2Gnj68WDO-j83V8FTQ9bN4ZjPbFKHTs9_I16_9EyX7McjUftWDnr9YIc2R_GoywMCjk0Li9k3by6G-dM-CGLiguElARzwRwumMOdxnb3EDpY62Dt9w9rr9N0j9LV9J1eEfftIbR2hbPU-PGuQQeiHIhyIMqBKAeiHIh6KL7BzarOoSiHor4-yrVTYa0jd2uNA08OPDnw5MCTA08PIsxpnYZzmMlhpq_HTN1ihcD0q8dh9erYT7i3FJkns4T_pYw-XoSJ1Jdi50VgJKeJ8HkJqYyLjAcsikZMb8CuPpqQM6S0Ho8vyhjGi0YYUTSbp7rdz33UForKOYvdk7bu9TH3pK0LcnNYzGGx2z_b0XbRbO5J26950hZQjAWh7hjFNByKcSjmEaAY51FyKMahmNujmM4jRTENh2Ju5zia49GuCo5xR7-cPnH65FHrk-Z9POLtDOLf7ngXDhWPd6Fkv2BU4iI_O-WOeH2jF7yRNj6zNk-cOnbq2KnjR6-OW04df-fquEnqWO2LO338PejjAbn4n4kUGOfzvfuQy-fxjRemuigF5993UQoOADoA6ADg5wDArotScP79r4lSQJ2PVbDoOUtZldttVgYqs5EUUZby2uZxKX668GEZ7vqKlS6CkEVisvNRlh-KeMPS1AhBgpJ_qtM_FjKi8xuQK5eK4bBT39t0uAdYXTWlj_cUBFBNIU4tradcBezHS5CtB5GQFvxaB99a2MRlrVC_qLUU-q4qL7wrF6leu2EqGvcMBEEIAYfuTsWM72ajLE6z3cVikQiR7qY6k9xlvi8gSe4e2xG7O-k82plP57Wvx5IUz9LozK9qDlQ6UOmOGznw-M08XgT06TTqJcn0-8PIe8SIjftwEjbIraUDZZNhq9nvFyEn8LvVbRcQFX53ek1Fej5joYKhnU6r-lA3fO02-ze8qQSZer3B-sc-Ma0-2PzEBKT3O-3Nt0pD-qDZ0j3vabTcv_HeSyw2aN50jxCQod5t3nhQHrI1Wt1NR8KQ1g0F49z5rbuE6feAxZW3UB2GIoF_gr-P89_DXt84h3Pegu-vw_iT2-BzKtr5dx73ieC1YuGL3T2tXrvl3D33tOmHOuLtGU8ueVLZ9mtdt-2HJl6uFoaBUH_sx8FLcS7yu7Tdnt5v5RED1gICg9wYi6q8-O6dQK3PdwLRXd-7ucC5AzeQ21J03h8HOR3kdJDzu4CcZWv1HrxGm81dAqrtPQdCv8M9Rz1pBB9OWcyjgiUj6xoYs_LUQ6D2R2iDA8g8TcQ4BMVTyc5Z4k91vQranlmfhv06ctVA-coo4UuvBozFC-Fn0l0N-AivBux13N2A7glUB8scLPumYZml277cA9gfNL7WA0j6UbU8rD28V1A1JIV-vAqVG6xrAEeNXm-4ldNwgC61T3wZiEV8F25DLGahoWEgCp64jbMQhv_2EIPTQfzY_sK1TkDFahyz7cDYDkDDeT__7DVaZUywxsNYJsfDPR4wSuMCh37uG-vQ-ki_db7uPXVIPjvcf3fwyr2h7gCEAxAOQHwpgLCE0m8KINzT6fe-m3hfsMA9iW6dwL9a7geXLPZ5UOh2F6DjtKrTqo83QGe9XPhG1KuL0LmVTu1XderqNDvd-lsZ1dA8bgy9FhMiHmR_oX5OoPOadrh6iq9_AP6UoUyhlouSkrCyRGIShMmF2UNZGyWzs7Mb8FE2uYDMcjfXwOVa5IVZoL8-qNCh-o2hQ3_LuKR53bW25FzckIsbcnFDDgk7JPxokHA1TOPuQ4daq0EehJybK-4t-DxQu_rr8XkybNfbrT3nq_r-g45ws24qFvtBgGfndNxQsQuSx7LtB1AS48zoyfWGfQjLShr2eshkDzgYvPf1weAFnRy8c_DOwTsH7xy8ezTwbpMu_f0vH3XA7FsEZgP01yWQEs40yX_NZz4aRWcpLFQf5wOnX7tE7_mtT5zzZgcIfj4NpTdPwkvmLz0JPSH85f34r3_-z6n-eipAvi__9c__95PnwwpJpHf2KYzj5ZkvxBzKigCWtPR-TKfco2LqAxVYTEN_6gHfe2I8Ri71RkvvHDLaVbx-fUANWt-g8M5PnveOYyEwV6SXCqx8wSFlC__KsAEPdDD-EFmCv6aQOYy9BEthAavCnSej5Cn-z_vhh_3UTtnyFpx66IvZLExT6CMUnTEQu_A_WD34NGyS0whbpA8gyWS6431QhRcAI2NKnImZ9CCD5BFAK08KrD_DhQDkhfR0ylJ6bdbHcmwEQsQD1K5bgVx4DZkXAt5G_ApchTHzoHQCql1OoVSwRX9DvSn7xMv9A6weikxGyx2P5rY8ix6_Ao0fxpKaXOCgI7ySYwvnMaU_oKmipVI_VF-x64spDBb_wMzYupn09Y3ClzD2RTIXCUP6AmmFaiMbfYRGkeBphSlwGQEdxx7uVoQ-3_EOGbBSCmuoIGG1-S31jC9A3nC8LLKxScI5NjLiHowhJi7EBquNeGqCVkaw4x2NqaZAeLFIiwqxktRUsqag6hDF_QehxKvgwjgDdpDIV1jY9Fy1bESHmtIZn42AH6ZhiXvXETgQwGnUsfk8WpqOzfEwQIiLBzoH3A2SIsSVhGSBqddjEYvYE4mnr6nbwsJzLuYR8DTYRlZGNIrEEvPOWAzSagv_pKbCJPDmLEmXkHsEypgDHxQ99n54Mnp6dPzi5N2b_fOjk2Pvw6F3cPL69eHB-ZPd0VNraB9yfsSZTcqLAFeXx8fwhfglnAHHXmpKAVcD26OgUHQUtJizGCwgIOYiTKeKD4iBS_xqtQ69fI-tQtplGACbHhXN75ie2n1cu1jHCRCttEYSPsGtl0T1IwMmzeZBPslzdcpnCxcFxwlT2QRMYM4BxKHW2kBh-UYloZRV0sCshUtGAsAbc5ZmCU7FEU5woERitTMeg_96qjKLWeeKBt6PwCrMmyk76CfVYzyHQi3S5UUeWLHQCjTzwQwYVjUIUrUcLNKQoF2EUQQySglRqBrYDnSjph1VuOOd4DxSMggg02EUekRWrADW8SS8hOaQzcWcCqNICQKvuMpx_fxANpvuO94v-KsibmkpxSJezpCSUCSD8b0CU_MSqQTCo1jAhdxN8cAKzFVcmVgl62OzwrRORAaX-gQPGRvEtWC1g3TG-S6rA12ZB3zDdrwDnW3EZOiX0rAh7DwQaBoGgVZJRDMWLdhSYkqgzD6ljDPssaa3oTUyox9lQa78sLM47flyASUaFQQGkQPMArJtHCJ-LtNbSxuzaGZsCX2A5clJZORDpQVP4yAlSrmU2lOdZNIwJeqP9bIW8qCUxQssAzwXRdIZFQYOzrA0fixxJUgxKEgLbhGi8kPhTs1CMVLw2BsWSZEPYr1WJCVP9Y8hn1gg-fww8bMZan6Y42FBvu1_0_WuqxLmgSUF9Y1kwCRLOCgOyvEIrf9xSansUVvb__YCZZLSnEL9e6EHJT9Rz0kwyLlQslNmySUHVgHCqJbwxB6XoKSgi6vCTvGzWdsTRkWwG8SQFulNd64Z-ar0RCYJ_XCOAhPmXS44n0uEPWroUPVMEPbOEWY6TUQ2mdoSs9LyZ8ylqcTIYbRqpL0ugF7kQbepZVcF9BAjWqU0pkJJggq26wGJAsvGV4WkgiGQgWhX_AQGXXBcxLAKshFwO-DKLPFtRUvqE5mgwuBmoFzrRYIgtGaJYHq0XB0ivGQRwBPSCbQggaHK8K5oDZW61cohAEuYpxTqfZmwOFUrSN3W5h3zdCGST95pxFIsghUZhaqRlRaCdmveZcigI6DspKom1tXMdTWI-X8sSAmWGUnuKAT1o4Zrbqb7qVA-uiGCn6lIVunFi5EwXMY8h4sbuqHkEQ-TFTy5VcjWaq2eUiyAraTIuY3FarGPoduFuLu-9R1vX1oojTSKUTVorlFZDafWVb2hWrllVUpmBouXWkrIcBRGIcA9lAf42Z-yeMJpDUDVoAKACiSpFG1NswKRmsqLRLKJbvcIa1SSTG4cNXAQseAHPvJei4ksANrr8JNmZrK3QJCCCCdUSusJZOaWrY9WpA_MDjAe5BeJXGOY7IDq8qg2Y_CewQ9lr55XEA8JG8Wfis1GiVhIveYQ3BCM2CqoBKM0eMqWrZg9CuNPiqdxiWCbWxr9gG5A5OHJJejuWa5QEfBnpMyJAeIQZLh3dJrXr3WFyWbsKWrCWoyqJQUwAfTTXzQMbHLKRiFKhVzyVMYPVU15NAetzCax0IYlcCaIMC6nAjhLTQkQKhpnsXKikAkCFka0_DtUCeY_Ct4UFOAnxcYz4GpyUqhlB_p6ggrTdFMrIOgjC7yAz8QkYXMgo92xslbHrodxEAIDZhW0aDGKWaNg4ngY5USa0gBZEqVKqCiNUdgfpJsIBWlQQ5yPiFamGo3ulKTqq5MPaCK9Pzv0fjl5_86zTCfbXqK8B6VmaBGQiP7BNhew3bynWqdsJzwiWxzxIlCeKCoLWK_5zwYNq0RbVqGzTRK-HfOFjAAW05JTNo9qoUIcpXXtNYagXGEEJSwMQ9ul5knhHAKhMRGEyMlLdKaxOOqHFIGEVPeOQgZIPRZprnHlDuQpUfSsAjBOc4BhUfcEILrvA_rWVo3SpFVsojjBQighGQEfNaMrCQlaHiWqSHa8Z0sL7WBn0eYtym-VjCuheCpP_bPUjghFYB0FibKORIiat0LvKO9Oyci4DsXrrqruZRFL8l6XiHdOKOeUXAEntCQsRV8lmnJ_RcRfBRSRc04CP_crgtIwOKjQkx6xLw5wGs5N7yxHBBm9gNmASaFFRFAkK6kVY0GOqC6zBgmtWIsGyTjOIrBIokIFl1sogMs8Leovmalk54BVRg5thaeM0EUtR1MIMlM3ZGxK1U_t4qOaNmr2sAT8P9sgKxlEpONmBeSujmjzHO8HngomtudZSwmtEHLXEAsucU9aGc7cn8YCpOhSiYwEreBAFl0gBZzrnx3vBaFrZUZtGesFW3gpxAQGuB-c8ViiBpgJqJ9WnlIkZpR280AFU7WC7fSzJLDM9Ca5zoZpAhsf5JhRkEAi4JRPhOfL3bBWf9lzA4vU9MOoCyROjD9wRIBufG5qxa6hshlx5pN9E5cV-yZqqSGVnEk4OnLWzECtgxaH4Z3iPSYcGUv7U0l5T3GTJ6aJUN1PiPXIhYHB1tgJAKn5IEgPU6_NGpG8cDXurKPLZ5IjkwUh1EooKIFRGco-VrwLiwC9mLaLXnI_SxCiztE3gH0pS_lX---Ojl9uVLDIxBr7SrS7BBrBcXqNk77iCC3crTQbBlygIowjxFbAw7Sg9ZQCdeKUoHzApZ-Eo2vcHIr9t9CFrxxSa4R5qW_KMWGcSyWXBDGINnrzflj2qe2y8M6Fx7FaX3kaq9aOtrIxGw4fhBBxXwTgLDK3_iiYca3N5kPdqfZYovDPRnPBY6a9zaD28QyAIuslxlsj9INcqDiwhnHCsmAL1oTQGsIYsWuMMxCyoIovkU9oDSD3s0R7_PSGASoAHAD5vWkDBbWKSlYpEQhZZQ-ZmVlPVMvyNG6qFQi1peypMtSResAJ93l4mfumFN4la4kW6zq3G3ZZORlz14ZIVKs6tsnMGihMkCKZDVih_IhHIRAcaS0i-Pdc4A4lKmjQxZyluYk0ny4lBhx5ko15SgYc9kzxozYM4UcK1AnHds1GH61x9wNB2VKpei5zyKMatrqNzSumoHRbi-PilchCyO7YbWV-EwZHuCtBpNMSZWhgkR4doVEG80TsEaKwUVEZxAA8mfBA4404R_qoy7c-S_lqVtTO-9wiiHMNrnskRWQ3qIBjzC3cqEiRsFgqz-COVxq4QQ24D6YchRVXDv6WGW7OGpCNanARqw0nWmxY-VjpMN2tEcpTSdiUUe0oCdQEkObJzYdCNuf2JrIecWJu6mdyzytEhlHUVaGK26zI8npatJeBaK0ckso3AoSeZwmtTegvVIZrDbuxOi1Lha3HYg87rHvgfSCq6tYq7roZSz5xGnaunwz6pj7nAFUjixGfgkFLChxrNRtpGsFFESxGtROaQ98ytjZbnmhxoaMxuVT-gyTUgBWIugUpaArT5p32qeCm4WpXVy25sg15cvKfR4dn3v7xc7A7n3nPDvcPTo7PclV4ro34GTqBZJaYvQKSRatCh254i_gliw203iqgCQZPKd9mTSv3nRrGA9jKHhqQM1yklA-3BKTy1AXrIBAaN2ZeFXqVZDTxS9oF056c3JFjuJRGpIS4YZDw76u7iQUmTkAJw4y8QccSYREFC3V_ebqKCpUV65NPT8U9lQElOdZWC-XbTKHecg6lspKmZCgo29EyMvR2j7GkMvKZzXKBYrYBDWuu7Hz-8MMJfEY_2hyRocKuBIcJMVqYWHvtKS7Cq1mADObwgw3PLDuTVIyWQMQetAZoVtD5QKTEdmmzAaAneSQ0WKX8uj2p86o2tJGrHDNKDKfLudrozt1BZYfPe71jt2ZP0jZEZ4CKM-0U5rAyER7wWPvLSGtadgQxEgw1dxeaPVhltJA7kIghc7zAEpDfJDoUsRPtq2RpSls8l9y4-EylxoLH5Zz3QvGx7idVYFxKpl_UCCiEgIoo95SteiJ0k5LxBT09sxjGBtq22wrmXJkntvWknJi0MkG-lk3oLcsMsivV9ZFUooHyOBAa_tvmAEjNwqtIsgBXi8RzjEhOQgjoJCRHJMyCPTqzD6Im4ijOt4W3yqAIt_oUJCVBbfbO2RjETog8pP3O0va2lANVhHH-F4WKKAgl2ooUe3zGhLVpk-8klCwshX1yD6gijbLHjEdEbzLx1V7Yoq9Y9B5FZZwdHrx_d3T-C8l-EPovjp4fHp8f7b_Gb7kCsEc7ZXiNZZSGGCCCm8gKWeTmFkI3xC_ki1aeYaJ0CPYAjQV4RYpxuqBFh-uHJcFCyVBVhb05NgbgtWAI4Qg0Iw-AWE6Wc40RUwwwDLSZj-FLn-_RIoJlMcsAqScg-gMNz3NndrltaAugARTcDniqcVjAjVcKTQcYAphu4SRWHQr4GD2hbILCC8We_8nYuDksQxGPKBffZZzNUy0OmPLJoI6DPoZapGhG3KkCXo5BWnLdSIpQh5vJsaUdP59isYh4MOGrUFqHRUSqrNn5gemboewO2IyZUjMC7RK4JN_7XNvBrbWb1yRXdFiItGK4pMxmWhgkofxUwTCvjl4_f3d4vJZn8-go4B1oDPtp-VmVdULSVv0aodtZHdrYUbGKOjhMUyBnuzEhL5VT29iNVh6ap90HSFG86vSa_e5KHWpPg-jRaO145gAJfgvgC2nKCDNKsDGjQDkplFe4sLiq-xjaINVOQuAqqc0RJW7mFJpM0HqSYewBQH9ySBeBLrnVXETmzBGbxqnKYeYpsW7Jhd4uyaCGDu_gRFlT9vLw-PDd_uvVLQ21l7jqUJxh6PFS2cGXoVEMlUg4pohAaNeyVoytot2versSMj9hHpiT459r0zSdD3fxCNCOJN6RZrdvV_uVak-vSXyyy54qvE67I7b5pTx0TK1aO2RqrUm0hfvBeRwWjzUaYanlxdOMCIKeAqM8nFnlEki8o7NT2meljEbSQs9-KeIgc4O7uup-XA37WTEbaU8-dzkYTbdFkYfGYbFl7yLn0h6lBBiYkWABiRBQYMhzP4HKSouIEcIXCvGo-VXzqqYsyJ33hKoDEzdh9jwVlkbHlhmXDrUrBd6uDQclW5hYLHe7GE6jzR8vR_M6kAqT-KIAYKC9yEWI3vBiba3y5_COea60eOgkAiFImh4Ti7lOKuYzaqP6aE35Qr_pcFHlC9E7EZGJ0Mpdyjg7C5ZsViF5EIHWI3YYXSlmleakNBJ7B9IY30WfsyQ3ev_1z_9rMWe-d5tvp9NEKjW5GgCkZKIx6ne8feB3BUANC8nMCrSVvLC1czRYNB5i0N1SaLMq4RjGnEfljbRhX46rgLFTNs1Dau9_O0X3q4rrNzhibYg7RQIVuk4HeOXTktu0MF2X3MLyKvoLOhiUIxvNqQCZ94v8PMDoywJkKluNNJz8HMRh9XZdRDOJE7JaFZnXBzTRlgMUVjBfh-J_AYslejeOjl3oEO7cha-Y34q7SLx8y5lcEetpD6uQQkrPUCVLme8c28FOczL54mXedPmwgt7pVeq9vJxsDX8dvLW2ipHVR5zmdaugHbk3TXxlNaDQNy2bgJB8Vz-LJW2oIPWLzaSbKP-ZHfanAv135Ghil6DAKNdmxwWQet87RoNsn9btEcXQMB3-i8HcKLfXSj_ieNzwEjI1Wy3cex_TwPBEDpfFDm9iR-xTSW28ptJElJZKUoiwEk9WEGfJrbky2-oESpzjKX22wPLBrqtmpWmiueX9VMG0xVmWMNa7Z6QktSd5zfLT0mr1FMYvBuOpGMpqhy0YgMUOWBRCj2IADRFbUOsg9GZM-ZN8jI6jY3-VUxwMPV0JMWVpO2xtl0r88B71PVZIa_DUYGE7lH819BCHo10HlQ3bInq7FLO_DmJbyHMH_dkBbQjCYD4ikMt3T-3YcA1LQBz_65__cxjAWtVvfmA4maJ01SLT7qoszv19ql8IrnjEU26i5z7bENZeOZn7TNGRwzFoho4arQmuoChUNCLSdOMuZXlW3pqLkSzirz3HoidblsTGpoisfEsLXWTLUlBfumUOOFFwV6pdYpzK65NNac7-has_X_PKPQSkzO90Kp0eWT3jgzxCUhLdR7kHUxRgDz-kYojIQSTpvyNuKMO62tPNaQT1al90v8Gxu5DAXUjgLiRwFxK4Cwke-IUEeEh9_TlydyOBu5Hga24Y1fP7_dwyqigds0v7wT09w4B8RyyhccrSZbhYCkXDWRwCI6U1HKS68UoJObW6YIyddqtWEn_FCi_LE10TYBxG94EA0crKUmc4X87N_Q1T6ECtJMcOMLyJP9eXVCEBm_VGYxv-22x40Fa9N2w1aiVZZUaA3W21oTtPgvDSk8g7P9cWKCyHXrPfnV_teSNS10OvPr_CqJkw8JLJ6Mdmu7PlNZp9-L_GT3tgRMbpNmIKaAMLoQ7bnpIoHnoNqmeuwCJVtDcDeBjGw7pX9xpYcX2PahizWRgth_tJyKIt7xVeiIAYcMuTYNVu400F4z-GM4S8LE73AChjVPMw5VfpdsB9DJEBGg9jAGZ7tac_PJk2n-J2zMGUo18R18STXfj2A5gY1nB1N_vYLzXY7ZFIYfUOG2bIe2goiGT4p8Mu_mfPU_03-TpQsoZbpOqfJ3jFhqkdRD9LhxEIaz3obYrJ0WU-x7MbwQrZtUzMC5Db4_Guj6PaljiqbbD6sdsfBSzrp0_C2cSTiZ9XKls7qwbCrpRRSP930eo1mq0LMKTYnAcXkHUb92vBVuB2xdsyBki4jb3ZHi23_YhlQci2QdYHjVa73ez3Oo06lM5mo52P80nNU3T9udbt1DxiKfWnpovhq5zG3p8ODg72at7uU7RdnuwiERVNiZ73QSrTlw0MRB6Bl5kOeT-ngt5_CP5nST1Em_QJsq1ijp9rPdYb9Ua1p2dIKLXDAez7dwosDzASLUnlzs5OHqJA3fKoW9jAOFTGPRjTYP9PBKgpteVkt7zzZBebNPSBTgDBfljlumI9NnHxafat1-swLq8g7pNdWAhPv931sHaCGV6htAsyrrk9xd6w5fYkHKfbE5yqNfzvB_HGBYAVXvS7g173Ar1eF3_LWHAR4tb0b8LEXzG-G5gWi3nv9fr1Xqny3ksor1j5etZ9k18PY0rKqZjP6bQgRWT80Tvj3JuHwODkOZxAXoAoGHSE4bCRUOcl8QjtQm3nhadTDFdF6Y-e_v_tzQBwPzI2_gJZtTrj2ynD2BiYmWSbCL-GxYNW_DFILq_moyRr9Hb8SGTBOAHq7cQ8tUR9r9lvFKK-1JYR7KBkP7HtmYgTwXHHKWQz2Wh1moNBrz34RgX85xDthnVznudXi-UUC90g5-3bh_LiUrsL1Q4SxTtIE4fOl3828Xv8yjfnFyYUxDel80JM0t0xj17Gr84x2FM-fJxsyzSj6MRtkD_bLF7C_MG_gm3aX4Qft1keg7aFhNa3iEfRtpWcg2XRbja6vXrnYsaDMJv9fjrjNvS6YWVY8Hnonela4Q9Vq3fDGsH8eAZOYKxAmmIQYHaVJaHeeSJdM2aXIsFdMoyzwN0BEDFbdOYP96-nmQwxNkhgRrQP9C1HuDVwD-vELJcffjBPZ__Bsvle8vgPF-QImfAzZSgqm67VvTFj1dpXXpWLC_R2hUmasWj1fVXtPunqrOQSUbHt-mLAwpgt37rcyn0JR5MY8hcuAzSLq97oSubCibAmc3lH4Sh_rL1wJynPUd5tsH_xC6Zn9NB3s7CB0W1U8Rh1-uQqGNb8Bt423mz3e-ohcr9Jt5O323X9u0W_O_Wu_t2m381-X__u0O9Wt61_d1X-XlPdKk1bLtREp9NSz8bPmZSAWwL62m32tU8nvUrVTc6hcUUrNxZk6vUG2rIepbHJ9FKotPpAG_NW2lk4ibM5pfc77dV0INVEpJQ-aLZ0z3uaEn299TG_Wub59Y0l9EMVo1vd0deCt73TdRivQUacqTPt5LkEMtS7TV1ZKZdyXOF94Cpbo9XVHrlStqNA0bpRV27K_H5T-txrt_T05x2FJIw10snt665FTYbthhoCjLyPv7t183NAI2zQBfUtZJE6fWi2G-aDYpo6kY4-NNWHwcB8ILZptuq9YmA0JBizmdZuva0TyRbAVfB-joFolNhv6N0Uq-T7JHpOm5Fz5edJhpoI7Wo2TOs3aCaBApFMlVMVcwBINhn1beyQddApuNCkVpoa9I23FxjJ5DljlzSWRr3T0T48XYPiBB4czciDClkazbZek6YRTIIVm6T_pTIM-psy_EIZmrSqkJftDNrvDumtdndNBcZbn-D1ovXV-TiLsolKHbTLqSd0EaRiw0an2y83rlKV1wzSu-2mngpQ03nlunCv0dUr2GrYpA3MdhGkHck3_FwI_QAWJve7hmyhPBY0ogMViMxV-UGrb7iOhFPP_FKiqZ6ndvXCML97elzmd1_xbNP8pnWgJaGa2AOKhdF7ejnz6CWO7zsAO6zP01z3BEX-rtpdPhpx3dYDZGn21E23uWo4zf3DG7YV8o0Js2m73qNu7TE8E8HynOX7Ca1ONQPAHf8TbqKUm6xsVLIosnyyxwijir0G3ElWbxl8YGF65Od7tO21rviVh9h47Ke6chyhOj4BK20Xoxq2MbCQXldvtYptKboyKNig5Hvm3ewLwHZ892--CMTOR2lvt6iUiLzldlJeSL1YbqW0TArGptkJXZOgAz6ttGarknYRgD4Rk7XFEdeOxFWetnbE1yKV4mmJUx2q8k5dTAe8z0t74nrPT9eKVZ2ylF6p6_ZWNx3AWCDrATjGevpBEk_vlmGQ_drDxn3ugYFJx4DArZ06QEr1vV__P7iGGYg=">
+	<input type="hidden" name="Qform__FormState" id="Qform__FormState" value="eNrtfetyGzmS7vzdfooaTpwz3Sd04f0mt2dlWba1a0uyJY-3948CrALJsosFTqFKFGeiI-Y1TsSel5snOZkJoApVJCXbkrptCT2XFgv3RCLzy0QCOBk22sPaWcrS0D9lE_5CJLPasNke_kMOG91h7Q__5w9i9PFAxGkioogntb2TYaM-rFlfho0e5m62hjU5FYuLaRjwiylnAU8uxkKkWEgOoRVMwD-x3mpOnQU_45-ttp3FTzhL-UUUyvQijKFCmYZpyKJKoWbfLsSDML2YJ2IcRvxiJoKV7I3BsOZPhZD8veRJzGb8jcp1QkkHa5KGgxYRpjOspVepyvGKxUHEsRQ0__acX6XPxFVt2FM520RCmSYHUh5ETEpsuQfFId8I8mE_WpQHBnYgomwWQ5ZwWMeEuimMtdb2jnGMTfPtNRvxCKbrHf9bFiY8oKqguf8lvVB6ifW1OdhU5n2MY6NM0Hm7ptV2zoU4m4okpenpUDuzTKbelF1yj6VexBn8gq_-lCXMx1la37ipyGq8Ba29-ZzKGmsqey3iieGZaqdmYm01_Q3V2F1qVLq0vqpGTidcOYyo08R-UGLHzOwbdvWax5N0inPb6JTTwrhIq-_lTDOK4newNk7iaFnbG9kcAYXeiYWs5Nd8ApyqVhnkPQvjScRfhzF9aeb8dJAIKc_8JJynoSIeVPGcx0uLyND8X1kUBrDyzpNwRmQp9QIyfEjYHL82igFB7c-Y_wlYWSSKZUE8mASRwFK_JuksXUbUVZAQxyI940TPaq4PYYDEOi7WDnTleSjnEVvmvcmnWCdsqDon9QsQaM9EVAyya6ccpUAKP0_rFJMep8fAMlJ3p28XOrnkSUS0H1XmCVPPwr9zXWpglzpLk_ATF1maFyslv4-DSq1WZxJuEzeXKydz5ofpUn_O8-_7PpfyP_myJFpm4dUByySXevZDEedN5cx-kCVSJKvkzKfjMGajSLFMo8LSRsiUiAK9PGejIxjcVc7WrZythYjOw7nuZi4Dig4eJkll1Mi9oQxHEc-7kHf-FQ8nUy1PG3ltmqtg5Q9rzVa9VvAAFkln0TM-BgJXiYgp-2NScsclvjuK4f8yH7snS13DtlgS08I7LrEFMsw4UtppHZtCllMhQzUllSyDgliaUIX6eM3HaaktoM4bccmZJk-ZjbRqPwqMzKioujdGl-oGAB8QarB5Gb6dsoSjSqPKanvJsLenQIKGFNMwCnTqfpLgymXD-vAfv9odx6VV7fg7jivAYqBOOYXoWuJXSDqJEdxUeI6oEITjsODTQvahaJvzxM5QL82vau0NT6ci0JzZLZaHTMVsP4WlPMpSrsdX1t8qD4klK13LOiDQPrFOhTQF86tkIDKQqOC-XFL-B7tkSsDLahI1eTbl3CQVegHnMe-1LI0KSKKalKgVz3kyC2NQDYYuzVwnHMlnkfA_HUZ8BvOv0n9VhBul8Rlo0xIbnSAaevssS1Ng6mFnsBk1QT9GKtsabEQaDCuvlcQwrs7DGNEiDkcLglyenoJeY8lSN25GcuN4nbZz2u6BaLtjp-VIy7Vz4eQ03e-t6RqoAiBRxD5IoU_6E66SE-rU2_2P7MrQk4rWhra_AlpUfVU0VXTzgRISpvdiqs31nALQgQ8sTI98EedTSO0HfMyySNm79U3CApk5Ib-Gtb6gysNLUn4n9OntAQ5EfRqSX6BY1oWi1kXKY6-wbKCXhdUYyJLnnHQBkuhX-Of3gQk3AQCYOSAdCIyxqMqdIyQ7meJGrO4n3FuKzJNZwv9S9ke8CBOZqmHlRaDTp4nwecl3MS4yHrAoGjFNz01un3zNSg68EFRLmrUZjSJoazZPdesnKKHeqh_DXocYsZDlbGK4ED1PcxZfj082uX1W3QzHFcN_Bmo_1WzYzFf9fpYKtXxJCoGcylvJ-3jKgqAQ0zkQeJ6I-TlLJjxXzQVXvRJJ-HdYLCzaj8LJqphu5HL6rzxJQ39TPt1RWC8oqKVef7IKevNc2KeNuTqlXC8Tkc1hWNVshdg-kpjxv0WMTs8iQyuX9e9RLL7jEqDLhjaLvK_F4oa8zV4hTzGbUjHPAR34xZpu5l4hO9ObMA5n2ezaLOyqyPL7gNM1oN2BVgdaHWi9J9DaQlTTc_DUOWK-zBGjMIwFo-4YwzQchnEY5hFgmLrDMA7DOAxzewzTf4wYpuEwzC0wDFQzT8TVsoJicAm81Xxwium1YadrInacRey0idMmD16bdL5Ymxw7e_hb2q7BnuB2DfnvLxgVuci3Q9yuzbeoj3taH59ZWydOITuF7BSyU8hdp5C_c4Xc0vETJNydRv4eNPKAnPzPRAqc8_n-fcjl81if2HFRCs7D76IUHAR0ENBBwFtCwIGLUnAe_i-OUkCNj1Ww6DlLWZXXbUYGKrORFFGW8trmcSl-uvBhEe76ipUugpBFYrLzUZbPe71haWpEIAHJP9XpHwsX0alOyJXLxHDYqe9tOrwCfK6a0od-CwKophClllZTrgD24yVI1oNISAt8rQNvLWzislYoX9RZCntXVRekj5DqtRumonHPMBBICxy6OxUzvpuNsjjNdheLRSJEupvqTHIXj33L3fJx7OdEy1d0dHwnnUc78-m89vWYkiJbGp35Vc2BSwcu7_Z8lgsTcSDyFqeRgT7der0kmX5_OHmfWLF9H-5CcnmYgNkE2u9awScJlG5aUDUZttv1a88-J8P-jafGIE9zzwWg3Ak8vQcMqqNIAAG8BnxxBHCjuP0Fvu9Xv8PaJI_j6jGmBnEJ5lQT_AUXwQBHh1BuOzYn1dxVMI_tKpi6uwvGnY536OvbvQum03R3wSh4pq89M3oxP179ZX69br159569xpdDp8b9ePZoKtSn2megKKb2MZH1QDL5fApiR5VEHXaIe3EeQgQvDdOIeyLx5qAOuff-3WtvyhNuXA3A-2xbJOEEIE60TZlJlMPAfxGZ57PYY5EUujTzFnzkgeT4hDWauv6oOT7JD1WnsNhSXGy_PmZXJPBVOMO7EcOIv59HggWEEoEeb_GT4W3g7DLSw0SLcQsIt5yXv4UlDVC3y980zmK7n8d-ShUrhphlOHMsSXdBUs22A_Kg_up23ZzKdrtuj0NVr8isb0NV36mXo_5oN-HuRrc1C-fF-yR6zqWyA1Xw7me7MXDBkR8jsCtw7gznzriNO6O90Z0xwAEAvHHODIeMHDL6EmdGq-GcGfrKv7Izo6r9nFvjlm6Nxia3Rqvk1rAQg_ejmKtwn58eucOhboOyL0NiHY3EpMgSn29nSeSA2CMEYm5XyQExB8QcEPseXFXtKhBz6OveNpWa-aYSBkADDT0FFHAP6IatpE7fFE2nfGX_aIEbSN6ci3nEabdpHMYB5AScgHhkx20trUV6QJJIpoqdcQUYsId_E9jrNq99EMGfCsnjXKeacs-Y5LYOb_yGsK6RByHjctZK8YQaeGsWufqKWb-5qwAesrr-3C2UX-3w9TMeqfBsA_u6BvVde9QCyaWOWmD8_khclc9YaPaQtr2ojigPLD6pqcDNqsiWsPBrtVLfQVNnfBXeqs7zoKpTsXIKjy8llHkW6PCrA50OdLp90Qfk9RtUFO5q_K_Dnnfi-etqIFkBoMg0KljeY15EiOfX7zqO_DOfvtL-vK_dYXUvhj5qd17rLvdVm25f1SErh6zu1J3Xbjt33lGuBix3nttU_S02VdGt92G6RDVOLjcEVtsL0JjT5V8euYetQWc0yayn10Hv6L3RY_fMqNORTkc678OXRmWDMMq94Oa5YqcUv14pfmNPjeLd1X310ijue7n7MX_zd0ZxagCAGs__0YzY1flanK_FhU45HOlwpMOR37-PpZ77WCpq7gGCyfr3AiYfwpWbuE2FnHSWsiT9LwebHGxysMnBJgebHGx6CO63frE1ZSs5B5ocaLoz0PSLA00ONDnQ5ECTA00OND1U0PSLA00ONN3u2JsBTXq1OczkMJPDTA4zOczkMNP3j5l6ZcyUR4o7yOQg0-39TGYJOszkMJPDTA4zOczkMNOD8zMZmjnQ5EDTbQ5_6YP3Z1E2cYjJISaHmBxicojJIaaH9xyb0nAOLjm49LVwaVDwU-CwksNKDis5rOSwksNKDwsrnYw-cj89ChxWcljp1q4lZCj1nKuDSw4uObjk4JKDSw4uPaQAJgWXzs3L4g4wOcD01Y_a8SAkV6VzLzm85PCSw0sOLzm89GDesEPlZvbinHfJgaU7OCBns5PDSw4vObzk8JLDSw4vff94aVW_Objk4NJXwyV15feRfMNhMeuL2h1icojJISaHmBxicojpASCmtSrOgSYHmm7zKm0ojwWdtgQWGIcJ6RQHmxxscrDJwSYHmxxsehC3CqxTcg44OeD01cAJBg4IiLyX5t0_KGNEvJ8lyDvR8rWYTHhwVBI71ru9EmnRNg_66msKTH2IAQ5joIaHrwh6aZhG3BOJN4d2uff-3WtvyhNu1Jwu_D6JKs8tt1qlaoIi1ftR0L9Z9JNZDUUt5klhVdQHLocBeVJkiU-NW_d1rHnj-cbHiAu5dITrh7CLEbv7CfeWIvNklvC_lAHcizCRqZq5vAjQ-zQRPi-BvXGR8YBF0YjpBw6hWRYExukMS4OpkWq5xmGgQbWYWbzRKIKGZvNUN32CC-at-jHsdWgaC0HPJmYioaics7h27XPBm0DyKig7ruCkGTBUqmVMMxcL-1kq1GImMQXsmLeS9_EUSFHI8HxlPE_E_JwlE55WZArqCpGEfwdmYNF-FE5WZXgjF-J_5Uka-pvy6Y6CZEApLrUUlVUBkefCPm3M1SnlepmIbA7DqmYrJPuRxIz_LWL-AnWtydDK1cF7lJvvuARcs6HNIu9rsbghb7NXCFzM9orFQcSfA3Twixc2mzmItjMBoA5n2ezaLOyqyPL7INc1hqFDtA7ROkR7T4gWuuw3Gt8Kgq1_OYKt38-z0ccOtt58gyigGAtF3TGKaTgU41DMI0AxdYdiHIpxKOb2KKb5OFFMw6GY24V6zRNxtazgGFwEbzUfnGJ6bdjpEp5xVrHTJ06fPHB9AsTyB1-sTo6dQXwLVdJA8QqJIvZB2HzSn3AxnFCn3u5_ZFeGnkpQ6_2OvFeqr8bKxKH6_SG57y8YlbjQVed0gG58YGF65Is4n0bqRcDHLItUVEd9k2RAzk3CgJcWE1R5eEk65oQ-vT3ANtWnIUW_FGu40Ie6SJkCFf4MwsI60o2B4HjOSfAjoX6Ff75rbdzT2vjM2jxx6tipY6eOnXlXd_r4O9fHTdLHamPcKeTv5ArnaBQ9Eykwzue79yGXz-NUxf64MAXn4HdhCg4BOgToEOAtEWDLhSk4B_9XhCmgzlfBqc9ZyqrcbrMyUJmNpIiylNc2j0vx04UPy3DXV6x0EYQsEpOdj7JWWrBvWJoaIUhQ8k91-sdCRnQMBnLlUjEcdup7m85IAaerpvQpqYIAqinEqaX1lKuA_XgJsvUgEtKCX-vgWwubuKwV6he1lkLfVeUF6SOkeu2GqWjcMxAEIQQcujsVM76bjbI4zXYXi0UiRLqb6kxyFwOH5e5-JWR3J51HO_PpvPb1WJICWhqd-VXNgUoHKu_21JaLDnHg8avBIwnofr1ekky_P4y8x027_n04CYGZ_lFEyiag6ZotK-gEPwwGFkiFD616b_VJNaVgEZO2dWKI58hehBF_P48ECyix39AyyipZPYqTDHvt1l7-jLuVDdP6jb4-YRzJVA0Xc6weVoGsg45eLVY1laYGfUP0URrnz8OxSxpLo97paOWvazjjEQhkHtAZOcrSaLbXvMh7lrIk_S-VYdDflOEXytDsNcvXiFMGzeWQ3mp3r3nzFzK0m_VNT9xh6qC96VEXSO10-5vvMIf0bru54c5OSOw1uusvqMK0QX3jVQyQ3O-2rzlyCBkGrf7e73dA8FaBSd_wAcF7sFO0HTIHfgbsDqpKZHFqA8qYL16LSRjrdak2PI9LH2Gau-Z03_xqaRLd7qiDN8439uiDlXpf4Rprtvs95xu7rx1S-P628BqZDdJmeYO0yGAAupyKxQWog4sIpfuP6jS128e8g-fVgmhSKM3jAniZj4czFkbuviJ3X5G7r8jdV-Sg4ffu-YIKWoN6zUFE7QbkSr19Iyjxt_VEXH9VEfZDffsQplPNhDdDR43_0OfERqFieahsWGvQrTSPd8d1UIJVpwCWFiDwHbJyyOqbQlYwxII3HaxysMrBKgervgxW9dGnX4gQh6zuGVm1boesqNYBusE-8WUgFnHZY9cldKLhjnHYNcyeS9UBB_R6SxcagoiwfXBrHWuKDzhm24G2D0AFeT__7KmIxmu9duXuPlT3XIv2lg1kfCmQwuhAfZalKc5CZ7AZKzbVxrQH_9uegy5myZL-jjD0qrYGJRK8PAsnsXf0OVcQ5QrmVFWu-2TGdiMFnPp36t9tuD2058Yq4sop_9sFeGxU-e07UPl3eYgRqes3hvkO3cVEuNOLdw4rbgIMOmDNrECtxtQcOTeTczN9npup6XbwHNZ0WNO5mr6HIK9rNJ4Dn_fueWo-8j29XsniQedJNr9nJw0BoUkob7xHwnlpnOZ0mtN5aapemvUyyynL3_Eozt27YwYVd4zMp9m5ZH5Tl0xluUEdE5HeM0TANt9xyVPvzdKzgzkcWHBgwYEFBxa-FiwY6eXAwoMGC-N8mh1Y-G33b9qlQ8wvmM9HQnxyJ5qdNnba2Gnj68WDO-j83V8FTQ9bN4ZjPbFKHTs9_I16_9EyX7McjUftWDnr9YIc2R_GoywMCjk0Li9k3by6G-dM-CGLiguElARzwRwumMOdxnb3EDpY62Dt9w9rr9N0j9LV9J1eEfftIbR2hbPU-PGuQQeiHIhyIMqBKAeiHIh6KL7BzarOoSiHor4-yrVTYa0jd2uNA08OPDnw5MCTA08PIsxpnYZzmMlhpq_HTN1ihcD0q8dh9erYT7i3FJkns4T_pYw-XoSJ1Jdi50VgJKeJ8HkJqYyLjAcsikZMb8CuPpqQM6S0Ho8vyhjGi0YYUTSbp7rdz33UForKOYvdk7bu9TH3pK0LcnNYzGGx2z_b0XbRbO5J26950hZQjAWh7hjFNByKcSjmEaAY51FyKMahmNujmM4jRTENh2Ju5zia49GuCo5xR7-cPnH65FHrk-Z9POLtDOLf7ngXDhWPd6Fkv2BU4iI_O-WOeH2jF7yRNj6zNk-cOnbq2KnjR6-OW04df-fquEnqWO2LO338PejjAbn4n4kUGOfzvfuQy-fxjRemuigF5993UQoOADoA6ADg5wDArotScP79r4lSQJ2PVbDoOUtZldttVgYqs5EUUZby2uZxKX668GEZ7vqKlS6CkEVisvNRlh-KeMPS1AhBgpJ_qtM_FjKi8xuQK5eK4bBT39t0uAdYXTWlj_cUBFBNIU4tradcBezHS5CtB5GQFvxaB99a2MRlrVC_qLUU-q4qL7wrF6leu2EqGvcMBEEIAYfuTsWM72ajLE6z3cVikQiR7qY6k9xlvi8gSe4e2xG7O-k82plP57Wvx5IUz9LozK9qDlQ6UOmOGznw-M08XgT06TTqJcn0-8PIe8SIjftwEjbIraUDZZNhq9nvFyEn8LvVbRcQFX53ek1Fej5joYKhnU6r-lA3fO02-ze8qQSZer3B-sc-Ma0-2PzEBKT3O-3Nt0pD-qDZ0j3vabTcv_HeSyw2aN50jxCQod5t3nhQHrI1Wt1NR8KQ1g0F49z5rbuE6feAxZW3UB2GIoF_gr-P89_DXt84h3Pegu-vw_iT2-BzKtr5dx73ieC1YuGL3T2tXrvl3D33tOmHOuLtGU8ueVLZ9mtdt-2HJl6uFoaBUH_sx8FLcS7yu7Tdnt5v5RED1gICg9wYi6q8-O6dQK3PdwLRXd-7ucC5AzeQ21J03h8HOR3kdJDzu4CcZWv1HrxGm81dAqrtPQdCv8M9Rz1pBB9OWcyjgiUj6xoYs_LUQ6D2R2iDA8g8TcQ4BMVTyc5Z4k91vQranlmfhv06ctVA-coo4UuvBozFC-Fn0l0N-AivBux13N2A7glUB8scLPumYZml277cA9gfNL7WA0j6UbU8rD28V1A1JIV-vAqVG6xrhluj1xtu5TQcoEvtE18GYhHfhdsQi1loaBiIgidu4yyE4b89xOB0ED-2v3CtE1CxGsdsOzC2A9Bw3s8_e41WGROs8TCWyfFwjweM0rjAoZ_7xjq0PtJvna97Tx3Z8nD_3cEr94a6AxAOQDgA8aUAwhJKvymAcE-n3_tu4n3BAvckunUC_2q5H1yy2OdBodtdgI7Tqk6rPt4AnfVy4RtRry5C51Y6tV_VqavT7HTrb2VUQ_O4MfRaTIh4kP2F-jmBzmva4eopvv4B-FOGMoVaLkpKwsoSiUkQJhdmD2VtlMzOzm7AR9nkAjLL3VwDl2uRF2aB_vqgQofqN4YO_S3jkuZ119qSc3FDLm7IxQ05JOyQ8KNBwtUwjbsPHWqtBnkQcm6uuLfg80Dt6q_H58mwXW-39pyv6vsPOoJscioW-0GAZ-d03FCxC5LHsu0HUBLjzOjJ9YZ9CMtKGvZ6yGQPOBi89_XB4AWdHLxz8M7BOwfvHLx7NPBuky51l4-6EHA78oWuFT8PZ3qd_ZpPdzSKzlJYnT5OAs659oPe8wOfONHNDhD8fBpKb56El8xfehJ6QqDL-_Ff__yfU_31VIBQX_7rn__vJ8-HZZFI7-xTGMfLM1-IOZQVAaxj6f2YTrlHxdQHKrCYhv7UA2b3xHiMrOmNlt45ZLSreP36gBq0vkHhnZ887x3HQmCjSC8VWPmCQ8oW_pVhAx4oXvwhsgR_TSFzGHsJlsICVoU7T0bJU_yf98MP-6mdsuUtOPXQF7NZmKbQRyg6YyBr4X-wZPA92CSnEbZIH0B8yXTH-6AKLwA7xpQ4EzPpQQbJI8BTnhRYf4YLAsgL6emUpfTErI_l2AgkhwdQXbcCufDuMS8EkI2gFbgKA-VB0wRUu5xCqWCL_oZ6U_aJl_sHAD0UmYyWOx7NbXkWPX4Faj6MJTW5wEFHeA_HFs5jSn9AU0VLpX6ovmLXF1MYLP6BmbF1M-nrG4UvYeyLZC4ShvQF0grVRjb6CI0iwdMKU-AyAjqOPdyiCH2-4x0yYKUU1lBBwmrzW-rtXsC54XhZZGOThHNsZMQ9GENMXIgNVhvx1AStjGDHOxpTTYHwYpEWFWIlqalkTUHVIQr2D0KJ97-FcQbsIJGvsLDpuWrZiA41pTM-GwE_TMMS964jcCCA06hj83m0NB2b4wmAEBcPdA64GyRFiCsJyQJTr8ciFrEnEk_fTbeFhedczCPgaTCIrIxoCYkl5p2xGKTVFv5JTYVJ4M1Zki4h9wg0MAc-KHrs_fBk9PTo-MXJuzf750cnx96HQ-_g5PXrw4PzJ7ujp9bQPuT8iDOblBcBri6Pj-EL8Us4A4691JQCrga2R0Gh6ChoMWcxmD1AzEWYThUfEAOX-NVqHXr5HluFtMswADY9KprfMT21-7h2sY4TIFppjSR8gvstiepHBkyazYN8kufqaM8WLgqOE6ayCZjAnAOIQ621gcLyjUpCKaukgVkLl4wEgDfmLM0SnIojnOBAicRqZzwG__VUZRazzhUNvB-BVZg3U8bPT6rHePiEWqQbizwwXaEVaOaDGTCsahCkajlYpCFBuwijCGSUEqJQNbAd6EZNO6pwxzvBeaRkEECmwyj0iKxYAazjSXgJzSGbizkVRpESBF5xf-P6-YFsNt13vF_wV0Xc0lKKRbycISWhSAbjewX25SVSCYRHsYALuZviKRWYq7gysUrWx2aFaZ2IDC71sR2yMIhrwVQH6YzzXVYHujIP-IbteAc624jJ0C-lYUPYeSDQNAwCrZKIZixasKXElEDZekoZZ9hjTW9Da2RGP8qCXPlhZ3Ha8-UCSjQqCAwiB5gFZNs4RNBcpreWNmbRzNgS-gDLk5PIyIdKC57GQUqUcim1pzrJpGFK1B_rZS3kQSmLt1YGeBiKpDMqDBycYWn8WOJKkGJQkBbcIkTlh8KdmoVipOCxNyySIh_Eeq1ISp7qH0M-sUDy-WHiZzPU_DDHw4J82_-m611XJcwDSwrqG8mASZZwUByU4xFa_-OSUtmjtrb_7QXKJKU5hfr3Qg9KfqKek2CQc6Fkp8ySSw6sAoRRLeExPS5BSUEXV4Wd4meztieMimA3iCEt0pvuXDPyVemJTBL64RwFJsy7XHA-lwh71NCh6pkg7J0jzHSaiGwytSVmpeXPmEtTiZHDaMpIe10AvchtblPLrgroIUa0SmlMhZIEFWzXAxIFlo2vCkkFQyAD0a74CQy64LiIYRVkI-B2wJVZ4tuKltQnMkGFwc1AudaLBEFozRLB9Gi5Ojl4ySKAJ6QTaEECQ5XhXdEaKnWrlUMAljBPKdT7MmFxqlaQuqLNO-bpQiSfvNOIpVgEKzIKVSMrLQTt1rzLkEFHQNlJVU2sq5nrahDz_1iQEiwzktxRCOpHDddcR_dToXx0QwQ_U5Gs0osXI2G4jHkOFzd0Q8kjHiYreHKrkK3VWj2lWABbSZFzG4vVYh9Dtwtxd33rO96-tFAaaRSjatBco7IaTq2rekO1csuqlMwMFi-1lJDhKIxCgHsoD_CzP2XxhNMagKpBBQAVSFIp2ppmBSI1lReJZBPd7hHWqCSZ3Dhq4CBiwQ985L0WE1kAtNfhJ83MZG-BIAURTqiU1hPIzC1bH61IH5gdYDzILxK5xjDZAdXlUW3G4D2DH8pePa8gHhI2ij8Vm40SsZB6zSG4IRixVVAJRmnwlC1bMXsUxp8UT-MSwTa3NPoB3YDIw5NL0N2zXKEi4M9ImRMDxCHIcO_oNK9f6wqTzdhT1IS1GFVLCmAC6Ke_aBjY5JSNQpQKueSpjB-qmvJoDlqZTWKhDUvgTBBhXE4FcJaaEiBUNM5i5UQhEwQsjGj5d6gSzH8UvCkowE-KjWfA1eSkUMsO9PUEFabpplZA0EcWeAGfiUnC5kBGu2NlrY5dD-MgBAbMKmjRYhSzRsHE8TC0iTSlAbIkSpVQURqjsD9INxEK0qCGOB8RrUw1Gt0pSdVXJx_QRHp_duj9cvL-nWeZTra9RHkPSs3QIiAR_YNtLmC7eU-1TtlOeES2OOJFoDxRVBawXvOfDRpWibasQmebJHw75gsZASymJadsHtVChThK69prDEG5wghKWBiGtkvNk8I5BEJjIgiRk5foTGNx1A8pAgmpLhuFDJB6LNJc48odyFOi6FkFYJzmAMOi7glAdN8H9K2tGqVJq9hEcYKFUEIyAj5qRlcSErQ8SlSR7HjPlhbawc6izVuU3yoZV0LxVJ76Z6kdEYrAOvQRZR2JEDVvhd5R3p2SkXEditddVd3LIpbkvS4R75xQzim5Ak5oSViKvko05f6KiL8KKCLnnAR-7lcEpWFwUKEnPWJfHOA0nJveWY4IMnoBswGTQouIoEhWUivGghxRXWYNElqxFg2ScZxFYJFEhQout1AAl3la1F8yU8nOAauMHNoKTxmhi1qOphBkpm7I2JSqn9rFRzVt1OxhCfh_tkFWMohIx80KyF0d0eY53g88FUFsz7OWEloh5K4hFlziRrQynLk_jQVI0aUSGQlawYEsukAKONc_O94LQtfKjNoy1gu28FKICQxwPzjjsUQNMBNQP608pUjMKO3mgQqmagXb6WdJYJnpTXKdDdMENj7IMaMggUTAKZ8Iz5e7Ya3-sucGFqnph1EXSJwYf-CIAN343NSKXUNlM-LMJ_smLiv2TdRSQyo5k3B05KyZgVoHLQ7DO8XLSzgylvankvKe4s5OTBOhup8Q65ELAyOssRMAUvNBkB6mXps1InnhatxZR5fPJEcmC0KolVBQAkMxlH2seBcWAXoxbRe95H6WIESdo28A-1KW8q_23x0dv9yoYJGJNfaVaHcJNILj9BonfcURWrhbaTYMuEBFGEeIrYCHaUHrKQXqxClB-YBLPwlH17g5FPtvoQtfOaTWCPNS35RjwjiXSi4JYhBt9Ob9sOxT22XhnQuPY7W-8jRWrR1tZWM2HD4IIeK-CMBZZK76UTDjWpvNh7pT7bFE4Z-N5oLHTHubQe1j4L8i6yUGWSP0g1yoOLCGccKyYAvWhNAawhixa4wzELKgii-RT2gNIPezRHv89IYBKgAcAPm9aQMFtYpKVikRCFllD5mZWU9Uy_I0bqoVCLWl7Kky1JF6wAn3eXiZ-6YU3iVriRbrOrcbdlk5GXPXhkhUqzqgycwaKEyQIpkNWKH8iEchEBxpLSL491zgDiUqaNDFnKW5iTSfLiVGGXmSjXlKBhz2TPGjNgzhRwrUCcd2zUYfrXH3A0HZUql6LnPIoxq2uo3NK6agdFuL4-KVyELI7thtZX4TBke4K0Gk0xJlaGCRHh2hUQbzROwRorBRoRjEADyZ8EDjjThH-qjLtz5L-WpW1M773CKIcw2ueyRFZDeogGPMLdyoSJGwWCrP4I5XGrhBDbgPphyFFVcO_pYZbs4akI1qcBGrDSdabFj5WOkw3a0RylNJ2JRR7SgJ1ASQ5snNh0I25_Ymsh5xYm7qZ3LPK0SGUdRVoYrbrMjyelq0l4ForRySyjcChJ5nCa1N6C9UhmsNu7E6LUuFrcdiDzuse-B9IKrq1iruuhlLPnEadq6fDPqmPucAVSOLEZ-CQUsKHGs1G2kawUURLEa1E5pD3zK2NlueaHGhozG5VP6DJNSAFYi6BSloCtPmnfap4KbhaldXLbmyDXly8p9Hh2fe_vFzsDufec8O9w9Ojs9yVXiujfgZOoFklpi9ApJFq0KHrnWL-CWLDbTeKqAJRkwp32ZNK_edGsYD2MoeGpAzXKSUD7cEpPLUBesgEBo3Zl4VepVkNPFL2gXTnpzckWO4lEakhLhhkPDvq7uJBSZOQAnDjLxBxxJhEQULdX95uooKlRXrk09PBTuVASU51lYL5dtMod5yDqWykqZkKCjb0TIy9HaPsaQy8pnNcoFitgENa67sfP7wwwl8Rj_aHJGhwq4EhwkxWphYe-0pLsKrWYAM5vCDDc8sO5NUjJZAxB60BmhW0PlApMR2abMBoCd5JDRYpfy6Panzqja0kascM0oMp8u52ujO3UFlh897vWO3Zk_SNkRngIoz7RTmsDIRHvBY-8tIa1p2BDESDDV3F5o9WGW0kDuQiCFzvMASkN8kOhSxE-2rZGlKWzyX3Lj4TKXGgsflnPdC8bHuJ1VgXEqmX9QIKISAiij3lK16InSTkvEFPT2zGMYG2rbbCuZcmSe29aScmLQyQb6WTegtywyyK9X1kVSigfI4EBr-2-YASM3Cq0iyAFeLxMOLSE5CCOgkJEckzII9OrMPoibiKM63hbfKoAi3-hQkJUFt9s7ZGMROiDyk_c7S9raUA1WEcf4XhYooCCXaihR7fMaEtWmT7ySULCyFfXIPqCKNsseMR0RvMvHVXtiir1j0HkVlnB0evH93dP4LyX4Q-i-Onh8enx_tv8ZvuQKwRztleHdllIYYIIKbyApZ5OYWQjfEL-SLVp5honQI9gCNBXhFinG6oEWH64clwULJUFWFvTk2BuC1YAjhCDQjD4BYTpZzjRFTDDQMtJmP4Uuf79EigmUxywCpJyD6Aw3Pc2d2uW1oC6ABFNwOeKpxWMCNVwpNBxgCmG7hJFYdCvgYPaFsgsILxZ7_ydi4OSxDEY8oFx9jnM1TLQ6Y8smgjoM-hlqkaEbcqQJejkFact1IilCHm8mxpR0_n2KxiHgw4atQWodFRKqs2fmB6Zuh7A7YjJlSMwLtErgk3_tc28GttZvXJFd0WIi0YrikzGZaGCSh_FTBMK-OXj9_d3i8lmfz6CjgHWgM-2n5WZV1QtJW_Rqh21md1NhRsYo6OExTIGe7MSEvlVPb2I1WHpqn3QdIUbzf9Jr97kodak-D6NFo7Xjm1Ah-C-ALacoIM0qwMaNAOSmUV7iwuKr7GNog1U5C4CqpzRElbuYUj0zQepJh7AFAf3JIF4EuudVcRObMEZvGqcph5imxrsaF3i7JoIYO7-BEWVP28vD48N3-69UtDbWXuOpQnGG88VLZwZehUQyVSDimiEBo17JWjK2i3a96uxIyP2EemJPjn2vTNJ0Pd_Hcz44k3pFmt29X-5VqT69JfLLLniq8TrsjtvmlPHRMrVo7ZGqtSbSF-8F5HBaPNRphqeXF04wIgp4CozycWeUSSLyjs1PaZ6WMRtJCz34p4iBzg7u66n5cDftZMRtpTz53ORhNt0WRh8ZhsWXvIufSHqUEGJiRYAGJEFBgyHM_gcpKi4gRwhcK8aj5VfOqpizInfeEqgMTN2H2PBWWRseWGZcOtSsF3q4NByVbmFgsd7sYTqPNHy9H8zqQCpP4ogBgoL3IRYje8GJtrfLn8I55rrR46PgBIUiaHhOLuU4q5jNqo_poTflCv-lwUeUL0TsRkYnQyl3KODsLlmxWIXkQgdYjdhhdKWaV5qQ0EnsH0hjfRZ-zJDd6__XP_2sxZ753m2-n00QqNbkaAKRkojHqd7x94HcFQA0LycwKtJW8sLVzNFg0HmLQ3VJosyrhGMacR-WNtGFfjquAsVM2zUNq7387Rferius3OGJtiDtFAhW6Tgd45dOS27QwXZfcwvIq-gs6GJQjG82pAJn3i_w8wOjLAmQqW400nPwcxGH1dl1EM4kTsloVmdcHNNGWAxRWMF-H4n8BiyV6N46OXegQ7tyFr5jfirtIvHzLmVwR62kPq5BCSs9QJUuZ7xzbwU5zMvniZd50-bCC3ulV6r28nGwNfx28tbaKkdVHnOZ1q6AduTdNfGU1oNA3LZuAkHxXP4slbagg9YvNpJso_5kd9qcC_XfkaGKXoMAo12bHBZB63ztGg2yf1u0RxdAwHf6Lwdwot9dKP-J43PASMjVbLdx7H9PA8EQOl8UOb2JH7FNJbbym0kSUlkpSiLAST1YQZ8mtuTLb6gRKnOMpfbbA8sGuq2alaaK55f1UwbTFWZYw1rtnpCS1J3nN8tPSavUUxi8G46kYymqHLRiAxQ5YFEKPYgANEVtQ6yD0Zkz5k3yMjqOzfpVTHAw9XQkxZWk7bG2XSvzwHvU9Vkhr8NRgYTuUfzX0EIejXQeVDdsiersUs78OYlvIcwf92QFtCMJgPiKQy3dP7dhwDUtAHP_rn_9zGMBa1Q99YDiZonTVItPuqizO_X2qXwiueMRTbqLnPtsQ1l45mftM0ZHDMWiGjhqtCa6gKFQ0ItJ04y5leVbemtuQLOKvPceiJ1uWxMamiKx8SwtdZMtSUF-6ZQ44UXBXql1inMrrk01pzv6Fqz9f88o9BKTML3IqnR5ZPeODPEJSEt1HuQdTFGAPP6RiiMhBJOm_I24ow7ra081pBPVqX3SpwbG7hcDdQuBuIXC3ELhbCB74LQR4SH39OfLf_xoCdz_U93itqJ7f7-dqUUXpmF3ar-zpGQbkO2IJjVOWbsDFUigazuIQGCmt4SDVNVdKyKnVBWPstFu1kvgrVnhZnuiaAOMwugQEiFZWljrD-XJu7m-YQgdqJTl2gOFN_Lm-mQoJ2Kw3Gtvw32bDg7bqvWGrUSvJKjMC7G6rDd15EoSXnkTe-bm2QGE59Jr97vxqzxuRuh569fkVRs2EgZdMRj82250tr9Hsw_81ftoDIzJOtxFTQBtYCHXY9pRE8dBrUD1zBRapor0ZwMMwHta9utfAiut7VMOYzcJoOdxPQhZtea_wQgTEgFueBKt2G28qGP8xnCHkZXG6B0AZo5qHKb9KtwPuY4gM0HgYAzDbqz394cm0-RS3Yw6mHP2KuCae7MK3H8DEsIaru9nHfqnBbo9ECqt32DBD3kNDQSTDPx128T97nuq_ydeBkjXcIlX_PMErNkztIPpZOoxAWOtBb1NMji7zOZ7dCFbIrmViXoDcHo93fRzVtsRRbYPVj93-KGBZP30SziaeTPy8UtnaWTUQdqWMQvq_i1av0WxdgCHF5jy4gKzbuF8LtgK3K96WMUDCbezN9mi57UcsC0K2DbI-aLTa7Wa_12nUoXQ2G-18nE9qnqLrz7Vup-YRS6k_NV0MX-U09v50cHCwV_N2n6Lt8mQXiahoSvS8D1KZvmxgIPIIvMx0yPs5FfT-Q_A_S-oh2qRPkG0Vc_xc67HeqDeqPT1DQqkdDmDfv1NgeYCRaEkqd3Z28hAF6pZH3cIGxqEy7sGYBvt_IkBNqS0nu-WdJ7vYpKEPdAII9sMq1xXrsYmLT7NvvV6HcXkFcZ_swkJ4-u2uh7UTzPDepF2Qcc3tKfaGLbcn4TjdnuBUreF_P4g3LgCs8KLfHfS6F-j1uvhbxoKLELemfxMm_orx3cC0WMx7r9ev90qV915CecXK17Pum_x6GFNSTsV8TqcFKSLjj94Z5948BAYnz-EE8gJEwaAjDIeNhDoviUdoF2o7LzydYrgqSn_09P9vbwaA-5Gx8RfIqtUZ304ZxsbAzCTbRPg1LB604o9Bcnk1HyVZo7fjRyILxglQbyfmqSXqe81-oxD1pbaMYAcl-4ltz0ScCI47TiGbyUar0xwMeu3BNyrgP4doN6yb8zy_WiynWOgGOW_fPpQXl9pdqHaQKN5Bmjh0vvyzid_jV745vzChIL4pnRdiku6OefQyfnWOwZ7y4eNkW6YZRSdug_zZZvES5g_-FWzT_iL8uM3yGLQtJLS-RTyKtq3kHCyLdrPR7dU7FzMehNns99MZt6HXDSvDgs9D70zXCn-oWr0b1gjmxzNwAmMF0hSDALOrLAn1zhPpmjG7FAnukmGcBe4OgIjZojN_uH89zWSIsUECM6J9oG85wq2Be1gnZrn88IN5L_sPls33ksd_uCBHyISfKUNR2XSt7o0Zq9a-8qpcXKC3K0zSjEWrj6pq90lXZyWXiIpt1xcDFsZs-arlVu5LOJrEkL9wGaBZXPVGVzIXToQ1mcs7Ckf5C-2FO0l5jvJug_2LXzA9o9e9m4UNjG6jiseo0ydXwbDmN_CK8Wa731Ovj_tNupK83a7r3y363al39e82_W72-_p3h363um39u6vy95rqKmnacqEmOp2Weit-zqQE3BLQ126zr3066VWqrm8OjStaubEgU6830Jb1KI1NppdCpdUH2pi30s7CSZzNKb3faa-mA6kmIqX0QbOle97TlOjrrY_51TLPr28soR-qGF3ljr4WvOKdrsN4DTLiTJ1pJ88lkKHeberKSrmU4wovAVfZGq2u9siVsh0FitaNunJT5pea0udeu6WnP-8oJGGskU5uX3cXajJsN9QQYOR9_N2tm58DGmGDbqVvIYvU6UOz3TAfFNPUiXT0oak-DAbmA7FNs1XvFQOjIcGYzbR2622dSLYAroL3cwxEo8R-Q--mWCXfJ9Fz2oycKz9PMtREaFezYVq_QTMJFIhkqpyqmANAssmor2CHrINOwYUmtdLUoG-8vcBIJs8Zu6SxNOqdjvbh6RoUJ_DgaEYeVMjSaLb1mjSNYBKs2CT9L5Vh0N-U4RfK0KRVhbxsZ9B-d0hvtbtrKjDe-gSvF62vzsdZlE1U6qBdTj2hiyAVGzY63X65cZWqvGaQ3m039VSAms4r14V7ja5ewVbDJm1gtosg7Ui-4edC6FevMLnfNWQL5bGgER2oQGSuyg9afcN1JJx65pcSTfU8tasXhvnd0-Myv_uKZ5vmN60DLQnVxB5QLIze08uZRy9xfNQB2GF9nua6dyfyx9Tu8qWI67YeIEuzp266zVXDae4f3rCtkG9MmE3b9R51a4_hmQiW5yzfT2h1qhkA7vifcBOl3GRlo5JFkeWTPUYYVew14E6yesDgAwvTIz_fo22vdcWvvL7GYz_VleMI1fEJWGm7GNWwjYGF9KR6q1VsS9GVQcEGJd8zj2VfALbju3_zRSB2Pkp7u0WlROQtt5PyQuqZciulZVIwNs1O6JoEHfBppTVblbSLAPSJmKwtjrh2JK7ytLUjvhapFO9JnOpQlXfqYjrgfV7aE9d7frpWrOqUpfQ0Xbe3uukAxgJZD8Ax1nsPknh6twyD7CceNu5zDwxMOgYEbu3UAVKq7_36_wE5OhXz">
 	<input type="hidden" name="Qform__FormId" id="Qform__FormId" value="StaticPageForm">
 </div>
 
-</form>
+<div id="c1_ctldbbg" style="position: absolute; z-index: 998; top: 0px; left: 0px; overflow: hidden; cursor: url(&quot;https://web.archive.org/web/20140916055543/http://d3njdrvxpbru17.cloudfront.net/assets/images/_core/move_nodrop.cur&quot;), auto; background-color: rgb(0, 0, 0); opacity: 0.5; font-size: 1px; display: none;">&nbsp;</div><div id="c8_ctldbbg" style="position: absolute; z-index: 998; top: 0px; left: 0px; overflow: hidden; cursor: url(&quot;https://web.archive.org/web/20140916055543/http://d3njdrvxpbru17.cloudfront.net/assets/images/_core/move_nodrop.cur&quot;), auto; background-color: rgb(0, 0, 0); opacity: 0.5; font-size: 1px; display: none;">&nbsp;</div><input type="hidden" id="Qform__FormControl" name="Qform__FormControl"><input type="hidden" id="Qform__FormEvent" name="Qform__FormEvent"><input type="hidden" id="Qform__FormParameter" name="Qform__FormParameter"><input type="hidden" id="Qform__FormCallType" name="Qform__FormCallType"><input type="hidden" id="Qform__FormUpdates" name="Qform__FormUpdates"><input type="hidden" id="Qform__FormCheckableControls" name="Qform__FormCheckableControls"></form>
 
 
 
@@ -765,10 +859,146 @@ This Privacy Policy describes the personal information we collect about you, why
             <p>Custom List</p>
                         
           <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-thanksgiving-side-dishes"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_148205_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-thanksgiving-side-dishes"></a>
+          </div>
+          <p>Favorite Thanksgiving Side Dishes</p>
+              
+                      </div>
+                    
+                                                
+                      <div class="col-2">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-fall-arts-crafts-projects"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_144889_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-fall-arts-crafts-projects"></a>
+          </div>
+          <p>Favorite Fall Arts and Crafts Projects</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
             <a href="/social-list/create?list=books-i-couldnt-put-down"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_73398_main_quad_image.jpg" class="quad post-load"></a>
             <a href="/social-list/create?list=books-i-couldnt-put-down"></a>
           </div>
           <p>Books I Couldn't Put Down</p>
+              
+                      </div>
+                    
+                                                
+                      <div class="col-3">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-holiday-movies"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_91536_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-holiday-movies"></a>
+          </div>
+          <p>Favorite Holiday Movies</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-cookie-exchange-recipes"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_150207_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-cookie-exchange-recipes"></a>
+          </div>
+          <p>Favorite Cookie Exchange Recipes</p>
+              
+                      </div>
+                    
+                      </div>
+                                        <div class="col-wrapper hide">
+                              
+                      <div class="col-1">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-festive-holiday-cocktails"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_146671_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-festive-holiday-cocktails"></a>
+          </div>
+          <p>Favorite Festive Holiday Cocktails</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-stocking-stuffers-for-kids"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_90141_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-stocking-stuffers-for-kids"></a>
+          </div>
+          <p>Favorite Stocking Stuffers for Kids</p>
+              
+                      </div>
+                    
+                                                
+                      <div class="col-2">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=funniest-white-elephant-gifts"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_138660_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=funniest-white-elephant-gifts"></a>
+          </div>
+          <p>Funniest White Elephant Gifts</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-stocking-stuffers-for-adults"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_121193_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-stocking-stuffers-for-adults"></a>
+          </div>
+          <p>Favorite Stocking Stuffers for Men</p>
+              
+                      </div>
+                    
+                                                
+                      <div class="col-3">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-stocking-stuffers-for-women"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_121378_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-stocking-stuffers-for-women"></a>
+          </div>
+          <p>Favorite Stocking Stuffers for Women</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-secret-santa-gifts-under-25"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_153580_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-secret-santa-gifts-under-25"></a>
+          </div>
+          <p>Favorite Secret Santa Gifts (under $25)</p>
+              
+                      </div>
+                    
+                      </div>
+                                        <div class="col-wrapper hide">
+                              
+                      <div class="col-1">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-holiday-foods-from-trader-joes"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_150980_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-holiday-foods-from-trader-joes"></a>
+          </div>
+          <p>Favorite Holiday Foods from Trader Joe's</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=holiday-traditions"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_92150_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=holiday-traditions"></a>
+          </div>
+          <p>Things I Love About the Holidays</p>
               
                       </div>
                     
@@ -780,17 +1010,17 @@ This Privacy Policy describes the personal information we collect about you, why
             <a href="/social-list/create?list=my-favorite-chick-flicks"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_78622_main_quad_image.jpg" class="quad post-load"></a>
             <a href="/social-list/create?list=my-favorite-chick-flicks"></a>
           </div>
-          <p>My Favorite Chick Flicks</p>
+          <p>Favorite Chick Flicks</p>
               
                     
                                                 
                     
                         
           <div class="col-grid bottom">
-            <a href="/social-list/create?list=infant-car-seat-i-used"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_87767_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=infant-car-seat-i-used"></a>
+            <a href="/social-list/create?list=favorite-healthy-snacks"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_108489_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-healthy-snacks"></a>
           </div>
-          <p>Favorite Baby Gear</p>
+          <p>Favorite Healthy Snacks</p>
               
                       </div>
                     
@@ -799,20 +1029,20 @@ This Privacy Policy describes the personal information we collect about you, why
                     
                         
           <div class="col-grid top">
-            <a href="/social-list/create?list=favorite-baby-shower-gifts-to-give-and-get"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_113351_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=favorite-baby-shower-gifts-to-give-and-get"></a>
+            <a href="/social-list/create?list=my-kitchen-gadgets"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_85487_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=my-kitchen-gadgets"></a>
           </div>
-          <p>Favorite Baby Shower Gifts to Give and Get</p>
+          <p>Favorite Kitchen Gadgets</p>
               
                     
                                                 
                     
                         
           <div class="col-grid bottom">
-            <a href="/social-list/create?list=my-kitchen-gadgets"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_85487_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=my-kitchen-gadgets"></a>
+            <a href="/social-list/create?list=favorite-duck-tape-craft-projects"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_144019_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-duck-tape-craft-projects"></a>
           </div>
-          <p>My Kitchen Gadgets</p>
+          <p>Favorite Duck Tape Craft Projects</p>
               
                       </div>
                     
@@ -823,20 +1053,20 @@ This Privacy Policy describes the personal information we collect about you, why
                     
                         
           <div class="col-grid top">
-            <a href="/social-list/create?list=favorite-healthy-snacks"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_108489_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=favorite-healthy-snacks"></a>
+            <a href="/social-list/create?list=favorite-retro-toys"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_118918_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-retro-toys"></a>
           </div>
-          <p>Favorite Healthy Snacks</p>
+          <p>Favorite Retro Toys</p>
               
                     
                                                 
                     
                         
           <div class="col-grid bottom">
-            <a href="/social-list/create?list=mixed-drinks-ive-tried"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_100579_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=mixed-drinks-ive-tried"></a>
+            <a href="/social-list/create?list=apps-on-my-iphone"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_70771_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=apps-on-my-iphone"></a>
           </div>
-          <p>Mixed Drinks I've Tried</p>
+          <p>Favorite Apps On My iPhone</p>
               
                       </div>
                     
@@ -845,10 +1075,56 @@ This Privacy Policy describes the personal information we collect about you, why
                     
                         
           <div class="col-grid top">
-            <a href="/social-list/create?list=apps-on-my-iphone"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_70771_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=apps-on-my-iphone"></a>
+            <a href="/social-list/create?list=favorite-beauty-and-style-icons"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_143484_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-beauty-and-style-icons"></a>
           </div>
-          <p>Apps On My iPhone</p>
+          <p>Favorite Beauty and Style Icons</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-childrens-clothing-brands"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_120704_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-childrens-clothing-brands"></a>
+          </div>
+          <p>Favorite Children's Clothing Brands</p>
+              
+                      </div>
+                    
+                                                
+                      <div class="col-3">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-gluten-free-products"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_120833_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-gluten-free-products"></a>
+          </div>
+          <p>Favorite Gluten Free Products</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=scariest-movies-ive-seen"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_146525_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=scariest-movies-ive-seen"></a>
+          </div>
+          <p>Scariest Movies I've Ever Seen</p>
+              
+                      </div>
+                    
+                      </div>
+                                        <div class="col-wrapper hide">
+                              
+                      <div class="col-1">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-coming-of-age-movies"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_124944_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-coming-of-age-movies"></a>
+          </div>
+          <p>Favorite Coming of Age Movies</p>
               
                     
                                                 
@@ -859,6 +1135,28 @@ This Privacy Policy describes the personal information we collect about you, why
             <a href="/social-list/create?list=favorite-family-board-card-games"></a>
           </div>
           <p>Favorite Family Games</p>
+              
+                      </div>
+                    
+                                                
+                      <div class="col-2">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-childrens-chapter-books"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_133050_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-childrens-chapter-books"></a>
+          </div>
+          <p>Favorite Children's Chapter Books</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-nail-polish-colors"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_124230_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-nail-polish-colors"></a>
+          </div>
+          <p>Favorite Nail Polish Colors</p>
               
                       </div>
                     
@@ -877,10 +1175,10 @@ This Privacy Policy describes the personal information we collect about you, why
                     
                         
           <div class="col-grid bottom">
-            <a href="/social-list/create?list=favorite-gifts-for-sisters"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_114103_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=favorite-gifts-for-sisters"></a>
+            <a href="/social-list/create?list=my-pregnancy-cravings"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_127506_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=my-pregnancy-cravings"></a>
           </div>
-          <p>Favorite Gifts for Sisters</p>
+          <p>My Pregnancy Cravings</p>
               
                       </div>
                     
@@ -891,20 +1189,20 @@ This Privacy Policy describes the personal information we collect about you, why
                     
                         
           <div class="col-grid top">
-            <a href="/social-list/create?list=favorite-business-books"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_116674_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=favorite-business-books"></a>
+            <a href="/social-list/create?list=mixed-drinks-ive-tried"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_100579_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=mixed-drinks-ive-tried"></a>
           </div>
-          <p>Favorite Business Books</p>
+          <p>Mixed Drinks I've Tried</p>
               
                     
                                                 
                     
                         
           <div class="col-grid bottom">
-            <a href="/social-list/create?list=favorite-champagne-labels"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_91279_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=favorite-champagne-labels"></a>
+            <a href="/social-list/create?list=favorite-baby-shower-gifts-to-give-and-get"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_113351_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-baby-shower-gifts-to-give-and-get"></a>
           </div>
-          <p>Favorite Wines from Wine.com</p>
+          <p>Favorite Baby Shower Gifts</p>
               
                       </div>
                     
@@ -913,10 +1211,146 @@ This Privacy Policy describes the personal information we collect about you, why
                     
                         
           <div class="col-grid top">
+            <a href="/social-list/create?list=diaper-bag-checklist"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_124424_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=diaper-bag-checklist"></a>
+          </div>
+          <p>My Diaper Bag Must-Haves</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-benefit-cosmetics-products"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_106738_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-benefit-cosmetics-products"></a>
+          </div>
+          <p>Favorite Benefit Cosmetics Products</p>
+              
+                      </div>
+                    
+                                                
+                      <div class="col-3">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-gifts-for-sisters"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_114103_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-gifts-for-sisters"></a>
+          </div>
+          <p>Favorite Gifts for Sisters</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-gifts-for-bosses-or-co-workers"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_145385_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-gifts-for-bosses-or-co-workers"></a>
+          </div>
+          <p>Favorite Gifts for Female Bosses or Co-Workers</p>
+              
+                      </div>
+                    
+                      </div>
+                                        <div class="col-wrapper hide">
+                              
+                      <div class="col-1">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-gift-ideas-for-wine-lovers"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_147992_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-gift-ideas-for-wine-lovers"></a>
+          </div>
+          <p>Favorite Gift Ideas for Wine Lovers</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-gifts-for-guys-guys"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_153490_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-gifts-for-guys-guys"></a>
+          </div>
+          <p>Favorite Gifts for Guys' Guys</p>
+              
+                      </div>
+                    
+                                                
+                      <div class="col-2">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-gifts-for-toddlers-and-preschoolers"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_121125_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-gifts-for-toddlers-and-preschoolers"></a>
+          </div>
+          <p>Favorite Gifts for Toddlers and Preschoolers</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-gifts-for-girls-ages-4-to-6"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_122256_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-gifts-for-girls-ages-4-to-6"></a>
+          </div>
+          <p>Favorite Gifts for Girls Ages 4 to 6</p>
+              
+                      </div>
+                    
+                                                
+                      <div class="col-3">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-gifts-for-boys-ages-4-to-6"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_152979_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-gifts-for-boys-ages-4-to-6"></a>
+          </div>
+          <p>Favorite Gifts For Boys Ages 4 To 6</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-gifts-for-tween-girls"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_153003_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-gifts-for-tween-girls"></a>
+          </div>
+          <p>Favorite Gifts for Tween Girls</p>
+              
+                      </div>
+                    
+                      </div>
+                                        <div class="col-wrapper hide">
+                              
+                      <div class="col-1">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-gifts-for-tween-teen-boys"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_149341_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-gifts-for-tween-teen-boys"></a>
+          </div>
+          <p>Favorite Gifts for Tween Boys</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
             <a href="/social-list/create?list=brands-in-my-closet"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_77586_main_quad_image.jpg" class="quad post-load"></a>
             <a href="/social-list/create?list=brands-in-my-closet"></a>
           </div>
-          <p>Brands in My Closet</p>
+          <p>Favorite Brands in My Closet</p>
+              
+                      </div>
+                    
+                                                
+                      <div class="col-2">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-eco-friendly-baby-products"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_114753_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-eco-friendly-baby-products"></a>
+          </div>
+          <p>Favorite Eco-Friendly Baby Products</p>
               
                     
                                                 
@@ -945,10 +1379,10 @@ This Privacy Policy describes the personal information we collect about you, why
                     
                         
           <div class="col-grid bottom">
-            <a href="/social-list/create?list=favorite-tv-movie-wedding-scenes"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_104413_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=favorite-tv-movie-wedding-scenes"></a>
+            <a href="/social-list/create?list=favorite-business-books"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_116674_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-business-books"></a>
           </div>
-          <p>Favorite TV &amp; Movie Wedding Scenes</p>
+          <p>Favorite Business Books</p>
               
                       </div>
                     
@@ -959,10 +1393,32 @@ This Privacy Policy describes the personal information we collect about you, why
                     
                         
           <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-tv-movie-wedding-scenes"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_104413_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-tv-movie-wedding-scenes"></a>
+          </div>
+          <p>Favorite TV &amp; Movie Wedding Scenes</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-vegan-shoe-brands"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_133319_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-vegan-shoe-brands"></a>
+          </div>
+          <p>Favorite Vegan Shoe Brands</p>
+              
+                      </div>
+                    
+                                                
+                      <div class="col-2">
+                    
+                        
+          <div class="col-grid top">
             <a href="/social-list/create?list=productive-apps-on-my-ipad"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_101029_main_quad_image.jpg" class="quad post-load"></a>
             <a href="/social-list/create?list=productive-apps-on-my-ipad"></a>
           </div>
-          <p>Productivity Apps on my iPad</p>
+          <p>Favorite iPad Productivity Apps</p>
               
                     
                                                 
@@ -977,29 +1433,53 @@ This Privacy Policy describes the personal information we collect about you, why
                       </div>
                     
                                                 
-                      <div class="col-2">
+                      <div class="col-3">
                     
                         
           <div class="col-grid top">
-            <a href="/social-list/create?list=my-favorite-organizing-products"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_76610_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=my-favorite-organizing-products"></a>
+            <a href="/social-list/create?list=best-yoga-classes-and-yoga-poses"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_124436_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=best-yoga-classes-and-yoga-poses"></a>
           </div>
-          <p>Favorite Organizing Products </p>
+          <p>Favorite Yoga Poses</p>
               
                     
                                                 
                     
                         
           <div class="col-grid bottom">
+            <a href="/social-list/create?list=my-favorite-organizing-products"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_76610_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=my-favorite-organizing-products"></a>
+          </div>
+          <p>Favorite Organizing Products </p>
+              
+                      </div>
+                    
+                      </div>
+                                        <div class="col-wrapper hide">
+                              
+                      <div class="col-1">
+                    
+                        
+          <div class="col-grid top">
             <a href="/social-list/create?list=favorite-educational-toys"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_101550_main_quad_image.jpg" class="quad post-load"></a>
             <a href="/social-list/create?list=favorite-educational-toys"></a>
           </div>
           <p>Favorite Educational Toys</p>
               
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-housewarming-gifts"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_120318_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-housewarming-gifts"></a>
+          </div>
+          <p>Favorite Housewarming Gifts</p>
+              
                       </div>
                     
                                                 
-                      <div class="col-3">
+                      <div class="col-2">
                     
                         
           <div class="col-grid top">
@@ -1013,46 +1493,22 @@ This Privacy Policy describes the personal information we collect about you, why
                     
                         
           <div class="col-grid bottom">
-            <a href="/social-list/create?list=my-favorite-summer-camps"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_114070_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=my-favorite-summer-camps"></a>
-          </div>
-          <p>My favorite summer camps</p>
-              
-                      </div>
-                    
-                      </div>
-                                        <div class="col-wrapper hide">
-                              
-                      <div class="col-1">
-                    
-                        
-          <div class="col-grid top">
             <a href="/social-list/create?list=oscar-best-picture-winners-ive-seen"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_98882_main_quad_image.jpg" class="quad post-load"></a>
             <a href="/social-list/create?list=oscar-best-picture-winners-ive-seen"></a>
           </div>
           <p>Oscar Best Picture Winners I've Seen</p>
               
-                    
-                                                
-                    
-                        
-          <div class="col-grid bottom">
-            <a href="/social-list/create?list=my-book-club-reads"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_98873_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=my-book-club-reads"></a>
-          </div>
-          <p>My Book Club Reads</p>
-              
                       </div>
                     
                                                 
-                      <div class="col-2">
+                      <div class="col-3">
                     
                         
           <div class="col-grid top">
-            <a href="/social-list/create?list=favorite-indoor-activities-for-kids"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_100255_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=favorite-indoor-activities-for-kids"></a>
+            <a href="/social-list/create?list=my-book-club-reads"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_98873_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=my-book-club-reads"></a>
           </div>
-          <p>Favorite Indoor Activities for Kids</p>
+          <p>Favorite Book Club Reads</p>
               
                     
                                                 
@@ -1066,8 +1522,10 @@ This Privacy Policy describes the personal information we collect about you, why
               
                       </div>
                     
-                                                
-                      <div class="col-3">
+                      </div>
+                                        <div class="col-wrapper hide">
+                              
+                      <div class="col-1">
                     
                         
           <div class="col-grid top">
@@ -1088,39 +1546,37 @@ This Privacy Policy describes the personal information we collect about you, why
               
                       </div>
                     
-                      </div>
-                                        <div class="col-wrapper hide">
-                              
-                      <div class="col-1">
+                                                
+                      <div class="col-2">
                     
                         
           <div class="col-grid top">
-            <a href="/social-list/create?list=movies-i-enjoyed-in-2012"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_88891_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=movies-i-enjoyed-in-2012"></a>
+            <a href="/social-list/create?list=parenting-books-ive-read"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_94015_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=parenting-books-ive-read"></a>
           </div>
-          <p>My Favorite Things of 2012</p>
+          <p>Favorite Parenting Books</p>
               
                     
                                                 
                     
                         
           <div class="col-grid bottom">
-            <a href="/social-list/create?list=parenting-books-ive-read"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_94015_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=parenting-books-ive-read"></a>
+            <a href="/social-list/create?list=my-trader-joes-favorites"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_69452_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=my-trader-joes-favorites"></a>
           </div>
-          <p>Parenting Books I've Read</p>
+          <p>Trader Joe's Favorites </p>
               
                       </div>
                     
                                                 
-                      <div class="col-2">
+                      <div class="col-3">
                     
                         
           <div class="col-grid top">
-            <a href="/social-list/create?list=my-trader-joes-favorites"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_69452_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=my-trader-joes-favorites"></a>
+            <a href="/social-list/create?list=favorite-whole-foods-365-products"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_104868_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-whole-foods-365-products"></a>
           </div>
-          <p>My Trader Joe's Favorites </p>
+          <p>Favorite Whole Foods 365 Products</p>
               
                     
                                                 
@@ -1134,28 +1590,6 @@ This Privacy Policy describes the personal information we collect about you, why
               
                       </div>
                     
-                                                
-                      <div class="col-3">
-                    
-                        
-          <div class="col-grid top">
-            <a href="/social-list/create?list=everyday-moisturizer-i-use"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_88498_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=everyday-moisturizer-i-use"></a>
-          </div>
-          <p>Favorite Beauty Products</p>
-              
-                    
-                                                
-                    
-                        
-          <div class="col-grid bottom">
-            <a href="/social-list/create?list=favorite-kids-books"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_85231_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=favorite-kids-books"></a>
-          </div>
-          <p>Favorite Kids Books</p>
-              
-                      </div>
-                    
                       </div>
                                         <div class="col-wrapper hide">
                               
@@ -1163,20 +1597,20 @@ This Privacy Policy describes the personal information we collect about you, why
                     
                         
           <div class="col-grid top">
-            <a href="/social-list/create?list=places-ive-been"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_86173_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=places-ive-been"></a>
+            <a href="/social-list/create?list=favorite-kids-books"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_85231_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-kids-books"></a>
           </div>
-          <p>Places I've Been</p>
+          <p>Favorite Kids Books</p>
               
                     
                                                 
                     
                         
           <div class="col-grid bottom">
-            <a href="/social-list/create?list=bay-area-bucket-list"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_108564_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=bay-area-bucket-list"></a>
+            <a href="/social-list/create?list=places-ive-been"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_86173_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=places-ive-been"></a>
           </div>
-          <p>Bay Area Bucket List</p>
+          <p>Places I've Been</p>
               
                       </div>
                     
@@ -1185,10 +1619,32 @@ This Privacy Policy describes the personal information we collect about you, why
                     
                         
           <div class="col-grid top">
+            <a href="/social-list/create?list=bay-area-bucket-list"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_108564_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=bay-area-bucket-list"></a>
+          </div>
+          <p>Bay Area Bucket List</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
             <a href="/social-list/create?list=my-cookbook-collection"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_70740_main_quad_image.jpg" class="quad post-load"></a>
             <a href="/social-list/create?list=my-cookbook-collection"></a>
           </div>
-          <p>My Cookbook Collection</p>
+          <p>Favorite Cookbooks</p>
+              
+                      </div>
+                    
+                                                
+                      <div class="col-3">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-outdoor-toys-and-games"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_118840_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-outdoor-toys-and-games"></a>
+          </div>
+          <p>Favorite Outdoor Toys and Games</p>
               
                     
                                                 
@@ -1202,15 +1658,39 @@ This Privacy Policy describes the personal information we collect about you, why
               
                       </div>
                     
-                                                
-                      <div class="col-3">
+                      </div>
+                                        <div class="col-wrapper hide">
+                              
+                      <div class="col-1">
                     
                         
           <div class="col-grid top">
+            <a href="/social-list/create?list=things-to-do-with-kids-in-the-san-francisco-bay-area"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_121674_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=things-to-do-with-kids-in-the-san-francisco-bay-area"></a>
+          </div>
+          <p>Favorite Things To Do With Kids In San Francisco</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
             <a href="/social-list/create?list=sf-chronicle-top-100-restaurants-ive-tried"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_71420_main_quad_image.jpg" class="quad post-load"></a>
             <a href="/social-list/create?list=sf-chronicle-top-100-restaurants-ive-tried"></a>
           </div>
           <p>SF Chronicle Top 100: Restaurants I've Tried</p>
+              
+                      </div>
+                    
+                                                
+                      <div class="col-2">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=favorite-frugal-living-tips"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_117254_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-frugal-living-tips"></a>
+          </div>
+          <p>Favorite Money Saving Tips</p>
               
                     
                                                 
@@ -1224,10 +1704,8 @@ This Privacy Policy describes the personal information we collect about you, why
               
                       </div>
                     
-                      </div>
-                                        <div class="col-wrapper hide">
-                              
-                      <div class="col-1">
+                                                
+                      <div class="col-3">
                     
                         
           <div class="col-grid top">
@@ -1244,19 +1722,21 @@ This Privacy Policy describes the personal information we collect about you, why
             <a href="/social-list/create?list=oprahs-book-club-what-ive-read"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_70470_main_quad_image.jpg" class="quad post-load"></a>
             <a href="/social-list/create?list=oprahs-book-club-what-ive-read"></a>
           </div>
-          <p>Oprah's Book Club: What I've Read</p>
+          <p>Favorite Reads from Oprah's Book Club</p>
               
                       </div>
                     
-                                                
-                      <div class="col-2">
+                      </div>
+                                        <div class="col-wrapper hide">
+                              
+                      <div class="col-1">
                     
                         
           <div class="col-grid top">
-            <a href="/social-list/create?list=my-pick-for-best-drama-from-2012"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_98221_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=my-pick-for-best-drama-from-2012"></a>
+            <a href="/social-list/create?list=favorite-fall-shoes-from-elliott-lucca"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_140965_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-fall-shoes-from-elliott-lucca"></a>
           </div>
-          <p>My Oscar Picks for 2012</p>
+          <p>Favorite Fall Shoes from Elliott Lucca</p>
               
                     
                                                 
@@ -1271,14 +1751,14 @@ This Privacy Policy describes the personal information we collect about you, why
                       </div>
                     
                                                 
-                      <div class="col-3">
+                      <div class="col-2">
                     
                         
           <div class="col-grid top">
-            <a href="/social-list/create?list=people-who-fascinated-me-in-2012"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_93007_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=people-who-fascinated-me-in-2012"></a>
+            <a href="/social-list/create?list=favorite-indoor-activities-for-kids"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_100255_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-indoor-activities-for-kids"></a>
           </div>
-          <p>People Who Fascinated Me in 2012</p>
+          <p>Favorite Indoor Activities for Kids</p>
               
                     
                                                 
@@ -1288,7 +1768,29 @@ This Privacy Policy describes the personal information we collect about you, why
             <a href="/social-list/create?list=Favorite-Romantic-Gifts-for-Women"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_98950_main_quad_image.jpg" class="quad post-load"></a>
             <a href="/social-list/create?list=Favorite-Romantic-Gifts-for-Women"></a>
           </div>
-          <p>Romantic Gifts I Love</p>
+          <p>Favorite Romantic Gifts</p>
+              
+                      </div>
+                    
+                                                
+                      <div class="col-3">
+                    
+                        
+          <div class="col-grid top">
+            <a href="/social-list/create?list=vendor-curation-1"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_120678_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=vendor-curation-1"></a>
+          </div>
+          <p>Favorite Ways to Say I Love You</p>
+              
+                    
+                                                
+                    
+                        
+          <div class="col-grid bottom">
+            <a href="/social-list/create?list=favorite-mothers-day-gifts-to-give-or-get"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_108133_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-mothers-day-gifts-to-give-or-get"></a>
+          </div>
+          <p>Favorite Mother's Day Gifts</p>
               
                       </div>
                     
@@ -1299,20 +1801,20 @@ This Privacy Policy describes the personal information we collect about you, why
                     
                         
           <div class="col-grid top">
-            <a href="/social-list/create?list=favorite-stocking-stuffers-for-kids"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_90141_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=favorite-stocking-stuffers-for-kids"></a>
+            <a href="/social-list/create?list=favorite-halloween-recipes"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_138160_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-halloween-recipes"></a>
           </div>
-          <p>Favorite Stocking Stuffers for Kids</p>
+          <p>Favorite Halloween Recipes</p>
               
                     
                                                 
                     
                         
           <div class="col-grid bottom">
-            <a href="/social-list/create?list=holiday-traditions"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_92150_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=holiday-traditions"></a>
+            <a href="/social-list/create?list=favorite-pumpkin-decorating-ideas"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_141822_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-pumpkin-decorating-ideas"></a>
           </div>
-          <p>Things I Love About the Holidays</p>
+          <p>Favorite Pumpkin Decorating Ideas</p>
               
                       </div>
                     
@@ -1321,32 +1823,10 @@ This Privacy Policy describes the personal information we collect about you, why
                     
                         
           <div class="col-grid top">
-            <a href="/social-list/create?list=favorite-mothers-day-gifts-to-give-or-get"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_108133_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=favorite-mothers-day-gifts-to-give-or-get"></a>
+            <a href="/social-list/create?list=favorite-dolls-and-stuffies"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_147539_main_quad_image.jpg" class="quad post-load"></a>
+            <a href="/social-list/create?list=favorite-dolls-and-stuffies"></a>
           </div>
-          <p>Favorite Mother's Day Gifts To Give or Get</p>
-              
-                    
-                                                
-                    
-                        
-          <div class="col-grid bottom">
-            <a href="/social-list/create?list=favorite-gifts-for-mothers-day"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_113552_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=favorite-gifts-for-mothers-day"></a>
-          </div>
-          <p>Favorite Gifts for Mother's Day</p>
-              
-                      </div>
-                    
-                                                
-                      <div class="col-3">
-                    
-                        
-          <div class="col-grid top">
-            <a href="/social-list/create?list=favorite-designs-from-nashelle-jewelry"><img data-original="http://d3njdrvxpbru17.cloudfront.net/ssli/list_107376_main_quad_image.jpg" class="quad post-load"></a>
-            <a href="/social-list/create?list=favorite-designs-from-nashelle-jewelry"></a>
-          </div>
-          <p>Favorite Designs from Nashelle Jewelry</p>
+          <p>Favorite Dolls and Stuffies</p>
               
                     
                           
@@ -1356,6 +1836,12 @@ This Privacy Policy describes the personal information we collect about you, why
         
         <p class="dots">
             <span class="selected">•</span>
+                          <span>•</span>
+                          <span>•</span>
+                          <span>•</span>
+                          <span>•</span>
+                          <span>•</span>
+                          <span>•</span>
                           <span>•</span>
                           <span>•</span>
                           <span>•</span>
@@ -1399,7 +1885,8 @@ This Privacy Policy describes the personal information we collect about you, why
 
 
 	
-<script type="text/javascript" src="/assets/js/combined/6a86acbe064d1d61bb26db164dc3d07f"></script>
+
+<script type="text/javascript" src="/assets/js/combined/6600a00c3e1c4bfcd0a1abaf89f0c57e"></script>
 
 
 
