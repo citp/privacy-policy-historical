@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psdeluxe.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305072208id_/http%3A//www.psdeluxe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdeluxe.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125061313id_/http%3A//www.psdeluxe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Psdeluxe
 
@@ -10,13 +10,13 @@ Please note that by visiting and using **Psdeluxe** **.com** , you are accepting
 
 ### Requested Information
 
- **Psdeluxe** **.com** may request your name, e-mail address, website address or any other necessary information for the purposes of conducting a survey, adding you to the mailing list, or by your request to have someone contact you for additional information. Whenever **Psdeluxe** **.com** requests the identity of a visitor, **Psdeluxe** **.com** will clearly indicate the purpose of the inquiry before the information is requested. **Psdeluxe** **.com** maintains a strict “ **No Spam** ” policy that means **Psdeluxe** **.com** does not intend to sell, rent, or otherwise give your e-mail address to a third-party, without your consent.
+**Psdeluxe** **.com** may request your name, e-mail address, website address or any other necessary information for the purposes of conducting a survey, adding you to the mailing list, or by your request to have someone contact you for additional information. Whenever **Psdeluxe** **.com** requests the identity of a visitor, **Psdeluxe** **.com** will clearly indicate the purpose of the inquiry before the information is requested. **Psdeluxe** **.com** maintains a strict “ **No Spam** ” policy that means **Psdeluxe** **.com** does not intend to sell, rent, or otherwise give your e-mail address to a third-party, without your consent.
 
 In addition, **Psdeluxe** **.com** will not send you e-mail that you have not agreed to receive
 
 ### Disclosure
 
- **Psdeluxe** **.com** will disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to:
+**Psdeluxe** **.com** will disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to:
 
 \- Conform to the edicts of the law or comply with a legal process served on **Psdeluxe** **.com**.
 
@@ -26,6 +26,6 @@ In addition, **Psdeluxe** **.com** will not send you e-mail that you have not ag
 
 \- Cooperate with the investigations of purported unlawful activities.
 
- **Psdeluxe** **.com** uses reasonable precautions to keep the information disclosed to it secure. Furthermore, **Psdeluxe** **.com** is not responsible for any breach of security or for any actions of any third parties that receive the information.
+**Psdeluxe** **.com** uses reasonable precautions to keep the information disclosed to it secure. Furthermore, **Psdeluxe** **.com** is not responsible for any breach of security or for any actions of any third parties that receive the information.
 
 Any changes to this Privacy Policy will be posted on this page so that you are always aware of the information that **Psdeluxe** **.com** collects, how it is used, and under what circumstances it is disclosed.
