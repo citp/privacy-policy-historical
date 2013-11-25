@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yourdentistryguide.com privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531112150id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yourdentistryguide.com privacy policy that was archived on 2013-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131125222928id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
@@ -16,6 +16,9 @@
 <script src="http://i1.yourdentistryguide.com/min/g=js&amp;1.1" type="text/javascript"></script>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="/_assets/scripts/detectmobilebrowser.js"></script>
+<script type="text/javascript" src="/_assets/scripts/parseurl.js"></script>
+<script type="text/javascript" src="/_assets/scripts/geoPosition.js"></script>
 </head><body id="sub"><div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 <script>
   window.fbAsyncInit = function() {
@@ -51,6 +54,71 @@ $(document).ready(function(){
 		$.cookie('geo_toolbar', 'on',{ path: '/privacy/' });    $("#geo-zipsearch-float").slideUp("slow"); 
 		return false;
   }); 
+  
+  
+  // geolocation code
+  var geolocation_timeout = setTimeout(geolocationTimeout, 20000);
+  var mobile_browser = jQuery.browser.mobile ? 'Mobile-Yes' : 'Mobile-No';
+  var current_url = parseURL(window.location.href);	
+	
+  console.log("mobile browser: "+mobile_browser);
+					
+  // try navigator method
+  if(geoPosition.init()) {
+    console.log("Geoposition is supported");
+			
+    geoPosition.getCurrentPosition(currentPositionSuccess,currentPositionError,{ timeout:5000 });
+  } else {
+    console.log("Geoposition not supported");
+    _gaq.push(['_trackEvent', 'GEO-HTML5', 'Not Supported', mobile_browser ]);
+  }
+	
+  // success callback
+  function currentPositionSuccess(position) {
+    console.log("Latitude: " + position.coords.latitude + " Longitude: " + position.coords.longitude + " Accuracy: " + position.coords.accuracy);
+	 _gaq.push(['_trackEvent', 'GEO-HTML5', 'UserShared-LocationObtained', mobile_browser+':'+position.coords.accuracy ]);	
+	  	
+	 // if #right load geo-profiles, if #geo-gallery load geo-galleries
+	 if($("#right").length > 0) {
+		console.log("Update Geo Profiles");
+      jQuery("#right").load("/_assets/lib/geolocation-profiles.php", { lng: position.coords.longitude, lat: position.coords.latitude });
+	 } else {
+		console.log("Update Geo Galleries");
+		jQuery("#geo-gallery").load("/_assets/lib/geolocation-gallery.php", { lng: position.coords.longitude, lat: position.coords.latitude, page: current_url.params.page }); 
+	 }
+    clearTimeout(geolocation_timeout);
+  }
+	
+  // error callback
+  function currentPositionError(error) {
+    console.log("Could not get current position");
+		
+    switch(error.code) {
+      case error.PERMISSION_DENIED:
+        console.log("User denied the request for Geolocation.");
+		  _gaq.push(['_trackEvent', 'GEO-HTML5', 'UserDenied', mobile_browser ]);
+		  break;
+      case error.POSITION_UNAVAILABLE:
+		  console.log("Location information is unavailable.");
+		  _gaq.push(['_trackEvent', 'GEO-HTML5', 'UserShared-NoLocationFound', mobile_browser ]);
+		  break;
+		case error.TIMEOUT:
+		  console.log("The request to get user location timed out.");
+		  _gaq.push(['_trackEvent', 'GEO-HTML5', 'UserTimeOut', mobile_browser ]);
+		  break;
+		case error.UNKNOWN_ERROR:
+		  console.log("An unknown error occurred.");
+		  _gaq.push(['_trackEvent', 'GEO-HTML5', 'Error?Shared?', mobile_browser ]);
+		  break;
+    } 
+    clearTimeout(geolocation_timeout);
+  }
+	
+  // user ignores geolocation dialog
+  function geolocationTimeout() {
+    console.log("Geolocation dialog timed out.");	
+    _gaq.push(['_trackEvent', 'GEO-HTML5', 'UserTimeOut', mobile_browser ]);
+  }
 })
 </script>
 
@@ -76,7 +144,7 @@ $(document).ready(function(){
 	<div id="container">
 		<div id="header">
 <a href="http://www.yourdentistryguide.com"><img src="http://i2.yourdentistryguide.com/images/ydg-logo1.gif" width="267" height="85" border="0" alt="Dentistry" id="logo"></a>
-<a href="http://www.yourdentistguide.com"><img src="http://i2.yourdentistryguide.com/images/find-a-dentist.jpg" width="210" height="85" border="0" alt="Find a Dentist" id="fad"></a>
+<a href="http://www.yourdentistguide.com" rel="nofollow"><img src="http://i2.yourdentistryguide.com/images/find-a-dentist.jpg" width="210" height="85" border="0" alt="Find a Dentist" id="fad"></a>
 
 <ul id="topNav">
 <li id="bna"><a href="/gallery/"><span>Before &amp; After Photos</span></a></li>
