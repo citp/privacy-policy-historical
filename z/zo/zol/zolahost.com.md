@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zolahost.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626220747id_/http%3A//zolahost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zolahost.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126004604id_/http%3A//zolahost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Z Hosting Technologies collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://zolahost.com Website (“Site”). This privacy policy applies to the Site and all products and services offered by Z Hosting Technologies.
+This Privacy Policy governs the manner in which ZolaHost collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://zolahost.com Website (“Site”). This privacy policy applies to the Site and all products and services offered by ZolaHost.com.
 
 **Personal identification information**
 
@@ -22,12 +22,10 @@ Our Site may use ”cookies” to enhance User experience. User web browser plac
 
 **How we use collected information**
 
-Z Hosting Technologies may collect and use Users personal information for the following purposes:
+We may collect and use Users personal information for the following purposes:
 
-\- To improve customer service
-
-\- To personalize user experience
-
+\- To improve customer service  
+\- To personalize user experience  
 \- To process order
 
 **How we protect your information**
@@ -42,7 +40,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Changes to this privacy policy**
 
-Z Hosting Technologies has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users frequently tocheck this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+ZolaHost has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users frequently tocheck this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -54,16 +52,11 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 <http://zolahost.com/contact>
 
-Z Hosting Technologies
-
-264/135D, Kovai Road,
-
-Dharapuram,Tirupur,
-
-Tamil Nadu-638702,
-
-india.
-
-info@zolahost.com
+Z Hosting Technologies  
+264/135D, Kovai Road,  
+Dharapuram,Tirupur,  
+Tamil Nadu-638702,  
+india.  
+support@zolahost.com
 
 This document was last updated on Jun 02, 2011
