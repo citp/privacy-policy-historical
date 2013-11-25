@@ -1,11 +1,26 @@
-> *The following text is extracted and transformed from the siticable.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204185031id_/http%3A//www.siticable.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siticable.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125232148id_/http%3A//siticable.com/subindex_Privacy_Policy-74.aspx) for the most accurate reproduction.*
 
-# zeenext : broadband internet services
+# Privacy Policy
 
-Our Commitments to You  
-http://www.zeenext.com wants to make your experience online satisfying and safe. Our data collection policies allow you to choose how much information to provide to us and to control how we use whatever information you tell us. Our goal is to provide you with a robust experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have.
+##  Privacy Policy
 
-Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address or information about what you like and do not like. On other occasions when we provide items for purchase online, we may request your credit card number to conclude the transaction or your mailing address to ensure proper delivery. We request this information to provide our strongest value to you - a personalized online experience. Customer's who personalize our service come back more often - and it's the customers that visit us often who make us successful - so we do everything we can to make http://www.zeenext.com your service with your name all over it and give you just the content you need.
+We at **SITI Cable** value you as one of our trusted customers and we are deeply committed towards protecting your **privacy/personal information** to the best of our ability and with the help of latest world-class technology. We believe, our customers’ personal information with us is the result of their faith in us and hence, it is our biggest responsibility to protect your confidentiality. It is for this reason that we have formulated and mentioned below our **Privacy Policy.** In addition, we constantly monitor in best possible ways to protect your confidential information from unwarranted access. 
 
-Anonymous Information  
-Refers to information that cannot be tied back to a specific individual. For instance, we may know that ten thousand people visit this Privacy Policy today, but we do not necessarily know their names, where they live or their date of birth - they are "anonymous" to us, much like how your hometown's bus service knows how many people take a given route - but don't necessarily know who those people are. Many of the individuals who access our services use none of the personalization features which are available to them and are therefore anonymous to us.
+_**Below mentioned are our Privacy Policies, read carefully…**_
+
+  * We ensure that only the most genuinely required information is collected from you and we make sure that this information is best protected from unauthorized access. 
+  * The information collected from you for a specific purpose may include- name, email id, contact number, address etc. 
+  * Access to your information is given to only those experts professional who need to know your details, in order to provide you with desired services. 
+  * Your information is never shared with any third-party organization without your written consent.
+
+
+
+_**Information collected from you may be used for:-**_
+
+  * Preparing customer survey, market research and user behavior report. 
+  * To make us be in a place to adhere to any requirements imposed on us by the law. 
+  * To ensure you are being informed about the latest developments at SITI Cable, new additions, latest products & services and events, timely and periodically. 
+
+
+
+_**Note:** If at some point of time you do not wish to receive updates from us then you may do so by replying to the __**"unsubscribe"**_ _link in e-mails sent by SITI Cable._
