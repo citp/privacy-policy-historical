@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automobilesreview.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525070730id_/http%3A//www.automobilesreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automobilesreview.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125130419id_/http%3A//www.automobilesreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ Automobilesreview.com contains sections where you may enter information about ot
 
 **5\. Message boards and other visitor-generated content**
 
-Automobilesreview.com gives its visitors the opportunity to publish content in certain sections, such as message boards. This content is publicly available and subject to the site’s policy listed in the ‘User Content’ part of the ‘Terms and Conditions’ section, which is available [here](https://web.archive.org/web/20130525070730id_/http://www.automobilesreview.com/terms-conditions/).
+Automobilesreview.com gives its visitors the opportunity to publish content in certain sections, such as message boards. This content is publicly available and subject to the site’s policy listed in the ‘User Content’ part of the ‘Terms and Conditions’ section, which is available [here](https://web.archive.org/web/20131125130419id_/http://www.automobilesreview.com/terms-conditions/).
 
 **6\. Information Storage**
 
