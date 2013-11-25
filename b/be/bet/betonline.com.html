@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the betonline.com privacy policy that was archived on 2013-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130328162851id_/http%3A//www.betonline.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the betonline.com privacy policy that was archived on 2013-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131125225313id_/http%3A//www.betonline.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head id="ctl00_ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=8"><title>
 	Privacy Policy
@@ -24,7 +24,7 @@
 
     <script type="text/javascript" src="http://ui.betonline.com/Scripts/jquery/debug/jquery-ui-1.7.3.custom.min.js"></script>
         
-    
+	
 <!-- pp_v_58 --><!-- sp__4 --><meta name="description" content="BetOnline.com's privacy policy takes clients' confidentiality very seriously; personal information you supply is strictly confidential. Any unauthorized use of your information, be it distribution or copying it partially or entirely, is strictly prohibited."><meta name="keywords" content="privacy policy, betonline.com privacy policy, betonline.com protection, betonline.com policy, betonline.com information policy, online betting privacy policy, betting privacy policy"></head>
 <body>
 <div class="balance_top_wrap"> 
@@ -225,7 +225,20 @@ a.m-button-details  {
 
 
 </style>
-
+<script>
+$(function() {
+	$('.site-nav > li:first-child').mouseenter(function(){
+		$('#header-nav-tooltip').css('visibility','hidden');
+		$('<div class="customtooltip" style="visibility:visible;position: absolute; top: 105px; left: 8px; opacity: 0; display: block;background-color: #FFFFAA;border: 1px solid #CCCC99;font-size: 10px;padding: 3px;z-index: 40000;">Industry Leading Bonuses</div>').insertBefore('#header-nav-tooltip');
+		
+		$('.customtooltip').delay(500).animate({opacity:1,top:"95px"},200);
+	}).mouseleave(function(){
+		$('#header-nav-tooltip').css({visibility:'visible',display:'none'});
+		$('.customtooltip').clearQueue();
+		$('.customtooltip').animate({opacity:0,top:"85px"},150, function(){ $('.customtooltip').remove(); } );		
+	});
+});
+</script>
 
 </div>
 </div><center>
@@ -306,8 +319,8 @@ a.m-button-details  {
     <ul style="color: #5b5b5b; font-size:12px; text-decoration: none; list-style:none; line-height:80%;">
     	<li style="color: #5b5b5b;"><h3 style="text-align: left; color: #5b5b5b;">Helpful Links</h3></li>
         <li style="color: #5b5b5b;"><a href="/about-us" title="About Us">About Us</a></li>
-        <li style="color: #5b5b5b;"><a href="/contact-us" title="Contact Us">Contact Us</a></li>
-        <!--<li style="color: #5b5b5b;"><a href="/help" title="FAQs">FAQs</a></li>-->
+        <!--li style="color: #5b5b5b;"><a href="/contact-us" title="Contact Us">Contact Us</a></li>
+        <li style="color: #5b5b5b;"><a href="/help" title="FAQs">FAQs</a></li>-->
         <li style="color: #5b5b5b;"><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
         <li style="color: #5b5b5b;"><a href="/terms-conditions" title="Terms and Conditions">Terms and Conditions</a></li>
          <li style="color: #5b5b5b;"><a href="/sitemap" title="Sitemap">Sitemap</a></li>
@@ -351,7 +364,7 @@ a.m-button-details  {
     <script type="text/javascript" src="http://ui.betonline.com/Scripts/bol/debug/ui.default.js?v=1">
     </script>
 	
-	<script type="text/javascript" src="http://ui.betonline.com/Scripts/track/join.tracking.js?v=1.1.0"></script>
+	<script type="text/javascript" src="http://ui.betonline.com/Scripts/track/join.tracking.js?v=20130912"></script>
 
 	<script language="javascript" type="text/javascript">
 		var Handler = new jHandler();
