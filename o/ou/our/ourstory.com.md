@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourstory.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525202608id_/http%3A//www.ourstory.com/doc/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourstory.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125040504id_/http%3A//www.ourstory.com/doc/policies.html) for the most accurate reproduction.*
 
 # OurStory.com - Capture your stories, save them permanently.
 
