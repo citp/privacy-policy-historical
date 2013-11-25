@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indian-magic.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425183955id_/http%3A//www.indian-magic.com/privacy1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indian-magic.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125042538id_/http%3A//www.indian-magic.com/misc/privacy.php) for the most accurate reproduction.*
 
 # IndianMagic - Privacy Statement
 
-We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to IndianMagic will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to [let us know](mailto:webmaster@indian-magic.com).
+We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to IndianMagic will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to [let us know](mailto:webmaster@indian-magic.com). 
 
 ### **Resale or disclosure of information to third parties:**
 
