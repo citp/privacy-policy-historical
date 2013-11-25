@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whats-theword.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627190750id_/http%3A//whats-theword.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whats-theword.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125094946id_/http%3A//whats-theword.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - What's The Word Answers
+# Privacy Policy - 4 Pics 1 Word What's The Word Answers
 
 **Whats-TheWord.com, LLC. Privacy Policy**
 
