@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entenmanns.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525074806id_/http%3A//www.entenmanns.com/au-privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entenmanns.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125183956id_/http%3A//www.entenmanns.com/au-privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
