@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uk-babes.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622214351id_/http%3A//app2.uk-babes.co.uk/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uk-babes.co.uk privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125181055id_/http%3A//app2.uk-babes.co.uk/help/privacy.cfm) for the most accurate reproduction.*
 
 # UK-Babes.co.uk :: UK-Babes.co.uk Member Privacy Policy
 
