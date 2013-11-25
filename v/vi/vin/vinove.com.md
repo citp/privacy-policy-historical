@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vinove.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527104857id_/http%3A//www.vinove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinove.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125211930id_/http%3A//www.vinove.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vinove
 
