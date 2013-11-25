@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatevia.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530051739id_/http%3A//affiliatevia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatevia.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125121657id_/http%3A//affiliatevia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
