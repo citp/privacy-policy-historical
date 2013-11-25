@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bzfilm.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523145301id_/http%3A//bzfilm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzfilm.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125051601id_/http%3A//bzfilm.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Horror Movie Reviews|Independent Cinema|B-Movies
+# BZFilm.com – Privacy Policy
 
 First of all, thanks again for stopping by – we appreciate every reader. Our privacy policy tells you how we use personal information collected at “BZFilm.com”.
 
@@ -26,3 +26,5 @@ We may share information with governmental agencies or other companies assisting
 
 _**Privacy Contact Information**_  
 If you have any questions, concerns, or comments, [you can always reach us here](http://bzfilm.com/contact/).[](http://bzfilm.com/contact/)
+
+Never miss an article again!
