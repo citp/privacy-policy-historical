@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011054120id_/http%3A//norada.com/norada/crm/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125014248id_/http%3A//norada.com/crm-software/privacy_policy) for the most accurate reproduction.*
 
-# CRM Meets Project Management for Serious Business
-
-Privacy Policy
+# Learn about Solve360
 
 Norada Corporation (“Norada”) is the provider of the Solve360 service. At Norada, we respect a Clients’ right and expectation to privacy, and accordingly maintain and adhere to a rigorous privacy policy (the “Privacy Policy”).
 
@@ -60,9 +58,3 @@ Contacting Norada We value your opinions and feedback. If you have any questions
 > 
 
 ###
-
-Permanent link to this page <http://goo.gl/uibLe>
-
-You're viewing this page out of context.
-
-It looks much better viewed from [www.norada.com](http://norada.com/?uri=norada/entry/privacy_policy)
