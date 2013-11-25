@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatbritishchefs.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626144810id_/http%3A//greatbritishchefs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatbritishchefs.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125130514id_/http%3A//www.greatbritishchefs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Great British Chefs
+# Privacy Policy - Great British Chefs - Great British Chefs
 
 This Privacy Policy explains how we use information we collect from you when you use our site. We keep our Privacy Policy under regular review. Any updates will be posted on this web page and, where appropriate, notified to you by e-mail. This Privacy Policy was last updated on 1st June 2011.  
 If you have privacy questions which are not answered by this Privacy Policy or any other queries about how we use your information, please contact us at [info@greatbritishchefs.com](mailto:info@greatbritishchefs.com).
@@ -61,4 +61,4 @@ Great British Chefs Limited , 72 Queen’s Head Street, London.
 Registered in England  
 Company number: 07470770
 
-Please address any questions, comments and requests regarding our Privacy Policy to [info@greatbritishchefs.com](mailto:info@greatbritishchefs.com) z
+Please address any questions, comments and requests regarding our Privacy Policy to [info@greatbritishchefs.com](mailto:info@greatbritishchefs.com).
