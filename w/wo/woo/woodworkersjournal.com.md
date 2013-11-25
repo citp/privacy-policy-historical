@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodworkersjournal.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524215733id_/http%3A//www.woodworkersjournal.com/Main/Public/PrivacyPolicy1.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodworkersjournal.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125050609id_/http%3A//www.woodworkersjournal.com/Main/Public/PrivacyPolicy1.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Woodworkers Journal
 
@@ -91,16 +91,13 @@
   
 |  | 
 
-  
-
-
-Sign up to receive the premier online woodworking newsletter. Get FREE plans, interviews, Q&As, techniques, and MORE! Best of all: IT'S FREE!!!
-
-[Click Here](https://web.archive.org/Main/Public/ezineReadMore.aspx) to learn more,  
-or view our [Privacy Policy](https://web.archive.org/Main/Public/PrivacyPolicy1.aspx)  
+[](https://web.archive.org/Click.aspx?url=http%3a%2f%2fwoodworkersjournal.com%2fMain%2fStore%2fThe_Way_to_Woodwork_Three_Volume_Set_544.aspx&did=937120fa-055b-4700-b3da-a26d4f21693b&mid=525c4135-b40a-4dfa-8980-9e0180e0b31a&iid=64c6cdd8-f8d1-4b31-815b-5a98dd4bb1ed)  
   
 ---  
   
+Sign up to receive the premier online woodworking newsletter. Get FREE plans, interviews, Q&As, techniques, and MORE! Best of all: IT'S FREE!!!
+
+[Click Here](https://web.archive.org/Main/Public/ezineReadMore.aspx) to learn more  |  View our [Privacy Policy](https://web.archive.org/Main/Public/PrivacyPolicy1.aspx)  
   
 | Follow Us On  
 ---  
@@ -116,13 +113,11 @@ or view our [Privacy Policy](https://web.archive.org/Main/Public/PrivacyPolicy1.
 [](https://pinterest.com/woodworkersjrnl/)  
   
   
-  
-  
 ADVERTISEMENT
 
-[](https://web.archive.org/Click.aspx?url=http%3a%2f%2fwoodworkersjournal.com%2fworkshop_projects&did=1729d17e-3c9b-4750-9609-a93b51a648e8&mid=525c4135-b40a-4dfa-8980-9e0180e0b31a&iid=74b9f547-a068-433b-bcb1-a23f68154cd4)  
+[](https://web.archive.org/Click.aspx?url=http%3a%2f%2fwww.rockler.com%2fproduct.cfm%3fpage%3d32801%26sid%3dWC367%26utm_source%3dwwj%26utm_medium%3ddigad%26utm_campaign%3dWC367&did=e757cb78-9fa8-439d-9a36-c88489ac5ea7&mid=525c4135-b40a-4dfa-8980-9e0180e0b31a&iid=2ab2db54-02ca-425b-9a94-fbb211522649)  
   
-[](https://web.archive.org/Click.aspx?url=http%3a%2f%2fwww.granberg.com&did=a6d0a217-8045-4a38-ad20-7edf8c35eca0&mid=525c4135-b40a-4dfa-8980-9e0180e0b31a&iid=4f34f58b-6071-4748-8452-6d9c2105b120)  
+[](https://web.archive.org/Click.aspx?url=http%3a%2f%2fwww.harborfreight.com%2fwoodworker.html%3futm_medium%3dlander%26utm_campaign%3d%2520woodworker%26utm_source%3dapril2013&did=3c8f2185-5fa7-425c-998c-dbb5bd5e2630&mid=525c4135-b40a-4dfa-8980-9e0180e0b31a&iid=4f34f58b-6071-4748-8452-6d9c2105b120)  
 ---  
 | 
 
