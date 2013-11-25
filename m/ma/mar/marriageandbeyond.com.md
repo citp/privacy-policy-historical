@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marriageandbeyond.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527003759id_/http%3A//www.marriageandbeyond.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriageandbeyond.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125035906id_/http%3A//www.marriageandbeyond.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marriage and Beyond
 
 Privacy Policy for www.marriageandbeyond.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at jenaspacio@gmail.com and jaspacio@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **marriageandbeyond@gmail.com**
 
 At www.marriageandbeyond.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.marriageandbeyond.com and how it is used.
 
@@ -30,7 +30,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 This policy is valid from the time we have launched this site in 21 December 2007
 
-This blog is a collaborative blog written by both me and my husband. For questions about this blog, please contact **jaspacio[at] gmail [dot] com** or **jenaspacio [at] gmail [dot] com**.
+This blog is a collaborative blog written by both me and my husband. For questions about this blog, please contact  **marriageandbeyond@gmail.com**
 
 This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post may not always be identified as paid or sponsored content.
 
