@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the magneticone.com privacy policy that was archived on 2013-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529045747id_/http%3A//www.magneticone.com/store/page_info.php%3Fpages_id%3D18) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the magneticone.com privacy policy that was archived on 2013-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131125065106id_/http%3A//www.magneticone.com/store/page_info.php%3Fpages_id%3D18) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -192,7 +192,7 @@ var gmtHours = -d.getTimezoneOffset()/60;
             <li><a href="http://www.magneticone.com/store/index.php" title="Home Page">Home Page</a></li>
             <li><a href="special_packages/" title="Specials">Specials</a></li>
             <li><a href="account.php" title="My Account">My Account</a></li>
-            <li><a href="customer_testimonials.php" title="Testimonials">Testimonials</a></li>
+            <li><a href="customer_testimonials.php" title="Reviews">Reviews</a></li>
             <li><a href="http://support.magneticone.com/" title="Support">Support</a>
                 <ul class="subnav">
                     <li><a href="http://support.magneticone.com/index.php?/Tickets/Submit" title="Ticket Submit">Ticket Submit</a></li>
@@ -620,7 +620,7 @@ var gmtHours = -d.getTimezoneOffset()/60;
                             if (document.context) document.write("&context=" + escape(document.context));
                             if (document.mmm_fo) document.write("&amp;mmm_fo=1");
                             document.write("'><\/scr" + "ipt>");
-                            //]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=97369&amp;cb=60778635110&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130529045747id_/http%253A//www.magneticone.com/store/page_info.php%253Fpages_id%253D18"></script>
+                            //]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=97369&amp;cb=43385272950&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20131125065106id_/http%253A//www.magneticone.com/store/page_info.php%253Fpages_id%253D18"></script>
                             <noscript><a
                                     href='http://d1.openx.org/ck.php?n=a0e15028&amp;cb=INSERT_RANDOM_NUMBER_HERE'
                                     target='_blank'><img
@@ -736,6 +736,7 @@ _left:expression(document.body.scrollLeft + document.body.clientWidth - offsetWi
             <a href="http://blog.magneticone.com" class="sm_link sm_blog" title="Read MagneticOne Blog" target="_blank">&nbsp;</a>
             <a href="http://support.magneticone.com/rss/index.php?/News/Feed" class="sm_link sm_rss" title="Subscribe to RSS" target="_blank">&nbsp;</a>
             <a href="http://www.youtube.com/user/MagneticOne2" class="sm_link sm_youtube" title="YouTube Channel" target="_blank">&nbsp;</a>
+			<a href="javascript: void(0);" id="toDownServices" class="m1-services-button" title="MagneticOne Services"><strong>MagneticOne Services</strong></a>
         </div>
         <div class="co"><img src="views/css/i/badge_2co.jpg" title="2CO is an authorized retailer for services provided by MagneticOne company" alt="2CO is an authorized retailer for services provided by MagneticOne company">
 
@@ -759,10 +760,30 @@ _left:expression(document.body.scrollLeft + document.body.clientWidth - offsetWi
         "X-Cart" is a registered trademark of <a href="http://www.qualiteam.biz" target="_blank" rel="nofollow">Qualiteam Software</a>.
         "Pinnacle Cart" is registered trademark of <a href="http://pinnaclecart.com" target="_blank" rel="nofollow">Desert Dog Software, LLC</a>.
     </div>
+	
+	<div id="footer-our-services">
+	<div id="footer-services">
+		<a href="http://www.file2cart.com/" target="_blank" class="f2c-services our-service">www.file2cart.com</a>
+		<a href="http://www.shopping-cart-migration.com/" target="_blank" class="c2c-services our-service">www.shopping-cart-migration.com</a>
+		<a href="http://www.api2cart.com/" target="_blank" class="a2c-services our-service">www.api2cart.com</a>
+		<a href="http://www.shopping-cart-diagnostics.com/" target="_blank" class="scd-services our-service">www.shopping-cart-diagnostics.com</a>
+		<a href="http://www.cms2cms.com/" target="_blank" class="cms2cms-services our-service">www.cms2cms.com</a>
+	</div>
+	</div>
+	
 </div>
 
 </div>
 <!-- JavaScripts -->
+<script type="text/javascript"> 
+// <![CDATA[
+$("#toDownServices").click(function() {
+		$("#footer-our-services").slideToggle("slow");
+	$("html, body").animate({ scrollTop: $(document).height() },"slow");
+});
+// ]]>
+</script> 
+
 <script type="text/javascript" src="views/js/compat.js"></script>
 <!-- Place this render call where appropriate -->
 <script type="text/javascript">
