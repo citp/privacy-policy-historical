@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ownerdirect.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426040251id_/http%3A//www.ownerdirect.com/Documents/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownerdirect.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125013130id_/http%3A//www.ownerdirect.com/Documents/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Owner Direct Vacation Rentals Inc.
 
@@ -47,6 +47,4 @@ To opt out of Google Analytics for Display Advertisers and customized Google Dis
 We do not provide personal information about our customers or other individuals to third parties for any reasons other than those described above, nor do we sell lists of this information. Unless we hear from you, we will assume you wish us to continue to collect, use and disclose your personal information in accordance with our Privacy Policy described above.
 
 **Who to Contact**   
-For privacy related requests, concerns and questions, please call 1-888 869 6377 and talk to our Privacy Officer, Tony Lopes.
-
-© Copyright 2010 - Owner Direct Vacation Rentals Inc. All rights reserved. 
+For privacy related requests, concerns and questions, please call 1-888 869 6377 and talk to our Privacy Officer, Tony Lopes. 
