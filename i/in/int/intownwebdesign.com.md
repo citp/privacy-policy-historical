@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the intownwebdesign.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528211812id_/http%3A//www.intownwebdesign.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intownwebdesign.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125200526id_/http%3A//www.intownwebdesign.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-##  [ Privacy Policy](http://www.intownwebdesign.com/privacy-policy.html)
 
 When accessing our Website, Intown Web Design, Inc will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
