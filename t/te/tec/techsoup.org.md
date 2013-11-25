@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524183336id_/http%3A//www.techsoup.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsoup.org privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125181002id_/http%3A//www.techsoup.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+View the privacy policy in [Spanish](https://web.archive.org/privacy-policy-spanish "Política y Aviso de Privacidad de TechSoup").
 
 TechSoup Global Privacy Policy and Your California Privacy Rights
 
