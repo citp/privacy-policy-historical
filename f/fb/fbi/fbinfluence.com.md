@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the fbinfluence.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205151243id_/http%3A//fbinfluence.com/fb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbinfluence.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125092507id_/http%3A//fbinfluence.com/fb/privacy-policy) for the most accurate reproduction.*
 
 # FBinfluence « Your all inclusive guide to Facebook Marketing
 
 Our mailing address is:
 
-868 n park st  
-Columbus Ohio 43215  
-Suite #204
+430 Carrillo st  
+Santa Barbara , CA 93105
 
 We can be reached via e-mail at [support@fbinfluence.com](mailto:support@fbinfluence.com)
 
