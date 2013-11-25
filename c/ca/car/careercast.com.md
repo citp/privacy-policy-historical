@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careercast.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629104821id_/http%3A//www.careercast.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careercast.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125010659id_/http%3A//www.careercast.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | CareerCast.com
 
@@ -76,7 +76,7 @@ Please remember that if you post any of your personal information in public area
 
 **Widgets**
 
-Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 Widgets support functions that require that you disclose certain personal information given the user's choice of participation. This information is collected in many different ways such as: forms, surveys, contests, forums, subscribing or unsubscribing to mailings and correcting or updating personal information and are only used for the purpose in which they were collected. Forms which require sensitive information such as financial information (credit card) to process purchases for products or services are SSL encrypted to protect your sensitive information.
 
@@ -98,7 +98,7 @@ We use "cookies" to help personalize and maximize your online experience and tim
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize CareerCast.com pages, or register for services, a cookie helps us to recall your specific information (such as user name, password and preferences). Because of our use of cookies, we can deliver faster and more accurate results and a more personalized site experience. When you return to CareerCast.com, the information you previously provided can be retrieved, so you can easily use the features that you customized. We also use cookies to track click streams and for load balancing.
 
-We do/do not link the information we store in cookies to any personal information you submit while on our site. You may have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on CareerCast.com.
+We do not link the information we store in cookies to any personal information you submit while on our site. You may have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on CareerCast.com.
 
 **Use of Web Beacons**
 
