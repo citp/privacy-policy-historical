@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fyiliving.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424051341id_/http%3A//www.fyiliving.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fyiliving.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125061246id_/http%3A//fyiliving.com/privacy) for the most accurate reproduction.*
 
 # Privacy | FYI LivingFYI Living
 
@@ -16,7 +16,7 @@ While you may use some of the functionality of FYI Living without registration, 
 
 **Non-Personal Information We Collect About You**
 
-Even if you do not register with FYI Living, we collect Non-Personal Information about your use of our Web site, special promotions and [newsletters](http://www.fyiliving.com/newsletters/ "newsletters").
+Even if you do not register with FYI Living, we collect Non-Personal Information about your use of our Web site, special promotions and newsletters.
 
 **A. Cookies**
 
