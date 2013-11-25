@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21usdeal.com privacy policy that was archived on 2013-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130303060453id_/http%3A//www.21usdeal.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21usdeal.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125163329id_/http%3A//www.21usdeal.com/about/privacy.php) for the most accurate reproduction.*
 
 # 21usDeal.com
 
