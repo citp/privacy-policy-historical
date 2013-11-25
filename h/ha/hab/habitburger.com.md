@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habitburger.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524204352id_/http%3A//www.habitburger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habitburger.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125075607id_/http%3A//www.habitburger.com/privacy-policy) for the most accurate reproduction.*
 
 # Habit Burger » Privacy Policy
 
