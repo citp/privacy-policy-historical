@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascentive.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621080906id_/http%3A//www.ascentive.com/trust/ascentive) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascentive.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125011307id_/http%3A//www.ascentive.com/trust/ascentive) for the most accurate reproduction.*
 
 # Ascentive's Privacy Policy | By Ascentive
 
@@ -8,7 +8,7 @@ The following discloses our information gathering and usage practices.
 
 We may share your unique identifying information with outside parties when they are helping us fulfill your order. We have safeguards in place (strong encryption, passwords, and limited access policies) to protect your information on our systems and when being communicated to our order fulfillment partners, such as the shipping warehouse.
 
-We use a cookie so you don't see our pop-up offer more than once per day. The cookie contains the date you saw our popup. If you have disabled cookies in your web browser, you'll see our popup offer every time you exit our web site.
+We use a cookie so you don't see our pop-up offer more than once per day. The cookie contains the date you saw our popup. If you have disabled cookies in your web browser, you'll see our popup offer every time you exit our web site. Ascentive applications may send anonymous usage data to Ascentive LLC. We use this information to track visitors' movement in the aggregate, and to gather general information about which screens are being accessed to improve the overall customer experience.
 
 Ascentive's Revenue Partners program provide site traffic to www.ascentive.com in exchange for a percentage of sales revenue. When you order an Ascentive product and you have been referred by a Revenue Partner, the following anonymous information is provided to the Revenue Partner to calculate revenue and verify our compliance: order number, product name, product cost, and date/time. **No customer identifying information is provided to Revenue Partners unless that Revenue Partner is responsible for helping us fulfill your order, in which case your personal information will only be used by Revenue Partner to fulfill your order.** Ascentive is not responsible for information you choose to provide directly to an Ascentive Revenue Partner via their web site.
 
