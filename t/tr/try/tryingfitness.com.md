@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tryingfitness.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526162912id_/http%3A//www.tryingfitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tryingfitness.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125224524id_/http%3A//www.tryingfitness.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Trying Fitness
 
 **Our Commitment to Privacy**  
 We use industry standard safeguards to protect the confidentiality of personal information we collect from visitors to this Web site. Personal information collected is accessible only by designated staff or agents of our organization who are also bound to this statement. It is important to recognize that perfect security does not exist on the Internet. This statement is provided to clarify our commitment to protecting the security of the personal information you provide.
