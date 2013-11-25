@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectwww.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529170108id_/http%3A//connectwww.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectwww.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125041607id_/http%3A//connectwww.com/privacy) for the most accurate reproduction.*
 
 # Privacy | CONNECTwww.com
 
