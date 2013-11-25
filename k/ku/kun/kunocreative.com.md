@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kunocreative.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503002802id_/http%3A//www.kunocreative.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kunocreative.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125230505id_/http%3A//www.kunocreative.com/privacy) for the most accurate reproduction.*
 
 # Inbound Marketing Agency Privacy Policy
 
