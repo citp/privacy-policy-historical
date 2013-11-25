@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beingfrugal.net privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527234252id_/http%3A//www.beingfrugal.net/about/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beingfrugal.net privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125032701id_/http%3A//www.beingfrugal.net/about/disclosure-policy) for the most accurate reproduction.*
 
 # Legal Disclaimers and Privacy Policy
 
