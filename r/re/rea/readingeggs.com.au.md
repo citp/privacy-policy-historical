@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the readingeggs.com.au privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613090434id_/http%3A//readingeggs.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingeggs.com.au privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125013950id_/http%3A//readingeggs.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy - Reading Eggs | Where Children Learn to Read Online
-
-## Privacy Policy
+# Privacy – Reading Eggs
 
 ### What information do we collect?
 
@@ -17,7 +15,7 @@
 
 We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To personalise your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
   * To allow us to better service you in responding to your customer service requests.
   * To quickly process your transactions.
   * To administer a contest, promotion, survey or other site feature.
@@ -28,11 +26,11 @@ We may use the information we collect from you when you register, purchase produ
 
 ### How do we protect visitor information?
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of people who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
 ### Do we use "cookies"?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognise your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
 We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
