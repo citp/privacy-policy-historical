@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fabfitfun.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523145547id_/http%3A//fabfitfun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabfitfun.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125014025id_/http%3A//fabfitfun.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | FabFitFun by Giuliana Rancic
+# Privacy - FabFitFun
 
 **Introduction**  
 Opera New Media, LLC d/b/a Charlie, owner and operator of the FabFitFun™ web site (“we” or “FabFitFun”), takes the nature of private information very seriously. We know you care about how your information is used and shared, and we appreciate your trust that we will do so with the utmost care. The purpose of this privacy policy is for you (the “User”) to understand how we collect and use the personal information you provide to us through fabfitfun.com and its related websites (the “Website”).
