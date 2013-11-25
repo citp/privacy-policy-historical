@@ -1,85 +1,106 @@
-> *The following text is extracted and transformed from the colescareers.com.au privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029220537id_/http%3A//www.colesgroup.com.au/Home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colescareers.com.au privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125092438id_/http%3A//www.colescareers.com.au/privacy) for the most accurate reproduction.*
 
-# Coles Privacy Policy
+# 
 
-### Introduction
+## Your privacy is very important to us and Coles will always act to protect your information.
 
-At Coles Group Limited, we are committed to protecting the privacy of everyone who shops or interacts with us.
+Coles takes this responsibility seriously and is very careful about how and when your personal information is collected, used and shared.
 
-This privacy policy applies to Coles Group Limited and its related companies, and covers all personal information we collect about customers and other individuals outside Coles Group Limited. When we talk about “personal information”, we use the definition provided by the Federal Privacy Act - 
+This statement tells you in general terms what our commitment is for recruitment-related information, why we need to collect personal information, who we may share that information with (outside of Coles) and how you may access personal information that we keep.
 
-> “Personal information” means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can be reasonably ascertained, from the information or opinion.
+Coles is committed to complying with the federal Privacy Act 1988.
 
-We require all of our employees, contractors, suppliers, business partners and service providers to comply with privacy laws and continually look for ways to meet and exceed our customers’ expectations. 
+This page covers the following key areas:
 
-### Collecting Information
-
-We only collect information that is necessary for one or more of our functions or activities, and we only keep it for as long as we may require it for a legitimate business purpose.
-
-When we collect personal information from an individual, we ensure that we do so in a fair manner. We also let the individual know: 
-
-  * which Coles Group Limited company is collecting the information, and how to contact that company
-  * the purposes for which the information is being collected
-  * the organisations, or types of organisations, to whom we may disclose the information
-  * the main consequences (if any) for the individual if all or part of the information is not provided, except to the extent that this is obvious
-  * the fact that the individual can access the information that we hold
-  * any law that requires us to collect the information. 
-
-
-
-Privacy notices enable our businesses to communicate these matters clearly and consistently wherever we collect personal information.
-
-We will collect personal information directly from the individual concerned whenever practical. However, if we do collect an individual’s personal information from a third party, we take reasonable steps to ensure that the individual has been advised of the matters listed above as they apply to both the third party and our own handling of the information.
-
-We treat certain kinds of sensitive information, such as health information, with higher standards of security and confidentiality. We will only use this sensitive information with the individual’s consent unless the law specifies otherwise.
-
-### Disclosing Information
-
-We will only disclose personal information:
-
-  * for the purposes for which we have advised that we are collecting it, and for related purposes that could reasonably be expected in the circumstances, 
-  * with the individual’s consent,
-  * as part of the asset sale of a business or division,
-  * as specified by law.
+  * Coles Privacy commitment 
+  * What personal information do we collect? 
+  * Cookies & how they work 
+  * Why we collect information 
+  * How we collect this information? 
+  * Who we may share your information with 
+  * Security 
+  * Other Sites 
+  * Access 
+  * Direct marketing 
+  * Coles Limited Privacy Policies & Practices
 
 
 
-In the course of our business activities, we may need to disclose personal information to our agents, service providers, business partners, government authorities and others, but will always do so in accordance with the above principles. Except where data is transferred as part of the sale of a business or a business division, we will not sell personal information under any circumstances or share it with anyone for marketing purposes unless we have advised of this on collection or otherwise obtained the individual’s consent.
+### Coles Privacy commitment
 
-### Unauthorised Disclosure or Use
+  * We will always make sure that we handle your personal information securely and carefully and will only use your personal information when it is necessary for us to deliver you a service or perform other necessary business functions and activities. 
+  * Coles will not use your information for purposes unrelated to the services we provide, unless we first obtain your consent. 
+  * Wherever possible Coles will give you the option of interacting anonymously with us provided it is practicable and lawful to do so. 
+  * We will always use fair and lawful means of collecting personal information. 
+  * In most circumstances we will collect personal information directly from you. 
 
-Unauthorised disclosure or use of personal information by our employees, contractors or agents is a serious breach of this policy. Merely accessing information without proper authority is a form of unauthorised use and will not be tolerated. In the event of a breach, we will take appropriate action, which may include disciplinary or legal action.
 
-### Opt-Out
 
-We will ensure that each direct marketing offer is checked against our opt-out register and provides a clear opt-out opportunity. We will always provide a nil-cost way of contacting us to opt out of receiving further marketing offers.
+### What personal information do we collect?
 
-### Access to Personal Information
+Different personal information is collected for different reasons. The personal information we collect is in most cases supplied directly by you when you give us your details, apply for a job, contact us or provide feedback to us.
 
-Individuals will be able to access their personal information upon request. However, we may occasionally need to deny access to information where the law expressly allows it (for example, when someone is under investigation for fraud).
+Personal information can include your name, address, contact details and employement-related information.
 
-We will not provide access to spouses, family members or other third parties unless we are required or permitted by law to do so or have the clear, written authority of the individual concerned.
+The type of service or interaction you wish to receive will determine the specific type of information we need to collect.
 
-### Security
+Depending on the circumstance, sometimes we collect other information such as where you heard about jobs at Coles, so that we can improve our service offering to you.
 
-Our priority is to protect the personal information that we collect. Personal information will be managed confidentially and securely, and will be destroyed when no longer required. 
+### Cookies & how they work
 
-We secure personal information in the same way as we safeguard our own sensitive information. We also strive to constantly improve our business processes and the technology we use to protect data.
+When you visit the Coles Careers web site, our site will automatically send you a "cookie".
 
-### Data Quality
+A cookie is a piece of text sent from a web server to your computer, and is used to identify you only by a random number. This information does not personally identify you, but it does tell us that your computer has visited our site and what areas of the site have been browsed.
 
-We will take all reasonable steps to ensure that personal data we hold is accurate, complete and up to date, and has been obtained directly from the individual or a reputable third party.
+You can decline cookies by adjusting the “accept cookies” setting in your browser, however this may affect the functionality of the web site.
 
-### Privacy Inquiries
+### Why we collect information
 
-Privacy-related inquiries or concerns can be directed to the customer service department of each Coles Group Limited business.
+We may collect information for a number of reasons including to: 
 
-### Availability and Review of Policy & Privacy Statements
+  * deliver products or services to you 
+  * complete other transactions with you or on your behalf 
+  * better understand your requirements and preferences. 
+  * improve our service 
+  * protect against fraud or theft 
+  * provide offers that are of greater interest or benefit to you. 
 
-We will make our privacy policy available on request and will provide a link to this policy from all Coles Group Limited websites.
 
-Privacy statements are issued by our businesses, loyalty programs and some specific business functions. These refer to our privacy policy but give more specific information regarding our data handling practices. They are available through our websites, stores, customer service departments and other points of contact with the public.
 
-This policy will be reviewed from time to time and any amendments will be incorporated in the updated policy and in privacy statements across the group where applicable. We will take steps to let individuals know of the changes that affect them.
+### How we collect this information?
 
-**Issued March 2006**
+The personal information we collect is in most cases directly supplied by you when you give us your details, place an order or provide feedback to us.
+
+We collect information in a number of ways including:
+
+  * When you register your details with us or give us the information 
+  * When you apply for a job
+  * When you contact us. 
+
+
+
+### Who we may share your information with
+
+Coles has no intention of selling your recruitment-related personal information to other parties. We do however often need to pass personal details such as your name and address to companies who perform parts of our service delivery. This includes organisations such as Coles Group Limited and third party fulfillment contractors.
+
+In all circumstances where your personal information is disclosed, Coles will ensure that these third parties undertake to protect your privacy. We will take all reasonable steps to store your personal information securely. In particular, we want you to feel confident in dealing with us on the internet.
+
+Coles application forms use a process called Secure Sockets Layer (SSL) technology. SSL locks all information passed from you to us in an encrypted envelope making it extremely difficult for this information to be intercepted.
+
+### Other Sites
+
+Coles is not responsible for the privacy practices of sites that are linked to this site via hyperlinks, banner advertising or otherwise. Please take care at all times to check whose site you are visiting.
+
+### Access
+
+If you would like to access your personal information, write to Coles Recruitment L5 M7 800 Toorak Rd Po Box 480 Glen Iris VIC 3146, e-mail at [colesrecruitment@coles.com.au](mailto:colesrecruitment@coles.com.au), or call us toll free on 1800 170 947.
+
+### Direct marketing
+
+If you do not wish to be contacted by Coles (about job opportunities), write to Coles Recruitment L5 M4 800 Toorak Rd Po Box 480 Glen Iris VIC 3146, e-mail at [colesrecruitment@coles.com.au](mailto:colesrecruitment@coles.com.au), or call us toll free on 1800 170 947.
+
+### Updates and changes
+
+From time to time and in line with customer expectations and legislative changes, our privacy policies and procedures will be reviewed and, if appropriate, updated.
+
+Back to top
