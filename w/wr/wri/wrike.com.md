@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wrike.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617105120id_/http%3A//www.wrike.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrike.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125183815id_/http%3A//www.wrike.com/privacy.jsp) for the most accurate reproduction.*
 
-# Wrike Datenschutz
+# Wrike Privacy Policy
 
-Letztes Update: February, 2012
+Last update: September, 2012
 
-Wrike nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Bitte lesen Sie die folgenden, um mehr über unsere Datenschutzrichtlinien zu erfahren.
+Wrike takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
 | 
 
@@ -12,11 +12,11 @@ This privacy policy discloses the privacy practices for any websites or services
 
 We can be reached via email at [support@team.wrike.com](mailto:support@team.wrike.com).
 
-## Erhebung und Nutzung von
+## Information Ownership, Collection and Use
 
-Wrike sammelt persönliche Daten, wenn Sie mit Wrike, wenn Sie Wrike Produkte oder Dienstleistungen, bei Ihrem Besuch Wrike Seiten oder die Seiten bestimmter Wrike Partner, und wenn Sie an Werbeaktionen oder Gewinnspielen teilnehmen. Wrike können Informationen über Sie zu kombinieren, dass wir mit Informationen, die wir von Geschäftspartnern oder anderen Unternehmen erhalten haben.
+You retain ownership of information you personally author and collected through the sites (the "user content"); provided, however, that you grant us (and our successors and assigns) a worldwide, irrevocable, perpetual, fully-paid license to use such user content in any manner reasonably necessary for us to operate and provide services in connection with the sites. We will not sell, share, or rent this information to others in ways different from those disclosed in this policy. We may collect information from users at several different points on a site.
 
-Wenn Sie sich registrieren wir für Daten, wie Name, E-Mail-Adresse, Firmennamen und Geburtsdatum fragen. Sobald Sie mit und melden Sie Wrike registrieren zu unseren Dienstleistungen, Sie sind nicht für uns anonym.
+This privacy policy addresses some types of information, means of collecting information, and uses of information that may not presently apply to one or more of the sites. We tell you about these types of information, means of collecting information, and uses of information anyway because we want to maintain flexibility in offering additional features without having to revisit our terms and conditions or privacy policy every time we revise a site or offer new functions. No description of any type of information, means of collecting information, or use of information will require us to collect any particular information, make any particular use of any information, or offer any particular functionality through any site.
 
 ## Child Online Privacy Protection Act (COPPA) Compliance and Related Information
 
@@ -28,9 +28,9 @@ When and if you (i) order products or services using a site, (ii) use services f
 
 ## Cookies
 
-Wrike und darauf zugreifen können Cookies auf Ihrem Computer.
+The cookies we use, if any, are not linked to any personally identifiable information while using a site unless you have given us permission to link personally identifiable information to one or more cookies. You give us that permission any time you register on a site, use a site, place an order through a site, or identify yourself or the computer you are using through a site.
 
-Wrike können andere Unternehmen, die zeigen, Werbung auf unseren Seiten setzen und auf ihre Cookies auf Ihrem Computer. Verwendung anderer Unternehmen von Cookies unterliegen ihren eigenen Datenschutzrichtlinien, not this one. Werbetreibende oder andere Unternehmen haben keinen Zugriff auf Cookies Wrike's.
+Most or all browsers permit you to disable or reject cookies. You can do this by setting the preferences in the browser. Use the "help" feature of your browser to obtain more information about refusing cookies.
 
 If you set the browser you use to reject cookies, you may not be able to use any or all of of one or more of the sites or it may take additional time to utilize such functionality.
 
@@ -99,7 +99,7 @@ To change your preference with regard to the way your information is treated, co
 
 We will use commercially reasonable efforts to timely make any changes you request. Many such changes are accomplished using batch processing (i.e. collecting a number of similar change requests and making all such changes at once), so the changes may not be immediately effective. If you require an immediate change to your personally identifiable information and are unable to make such a change using the available site resources, please contact us.
 
-## Änderungen an dieser Datenschutzerklärung
+## Changes to This Privacy Policy
 
 If we decide to change this privacy policy, we will post the changes on one or more sites and/or other places we deem appropriate.
 
