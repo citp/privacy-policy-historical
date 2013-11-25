@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kpbs.org privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524183008id_/http%3A//www.kpbs.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpbs.org privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125011314id_/http%3A//www.kpbs.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | KPBS.org
+# Privacy Policy | KPBS San Diego Public Radio & TV: News, Arts & Culture
+
+## Privacy Policy
 
 Effective Date November 29, 2010
 
