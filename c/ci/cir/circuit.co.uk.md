@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circuit.co.uk privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524021559id_/http%3A//www.circuit.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circuit.co.uk privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125185024id_/http%3A//www.circuit.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies - Circuit
 
@@ -23,6 +23,8 @@ AdInsight uses cookies to anonymously track a visitors behaviour on a website so
 We collect personal data when you provide it to us, through registration, completion of forms or e-mails, as part of an order for products or services, inquiries or requests or other situations in which you have chosen to provide information to us. Your data shall be processed for the purposes of realisation of any agreement, between you and CIRCUIT, fulfilling a request from you for information or advice, meeting statutory or other legal requirements and providing an optimal service.
 
 We may provide your data to our CIRCUIT group companies for the same purposes as referred to above. Our group companies will also process your data in accordance with this Privacy & Cookie statement. In no event will your personal data be transferred to other parties, which do not have an adequate level of protection, without your prior consent. Further, your personal data will only be provided to (or used on behalf of) third parties for direct marketing purposes after you have been offered the opportunity to previously object thereto.
+
+We do not store personal and financial information on our data base while processing your payment nor do we share such information with 3rd parties
 
 ## Linked sites
 
