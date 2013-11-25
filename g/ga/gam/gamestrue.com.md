@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamestrue.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204214001id_/http%3A//www.gamestrue.com/%3Fpage_id%3D1703) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestrue.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125185657id_/http%3A//www.gamestrue.com/%3Fpage_id%3D1703) for the most accurate reproduction.*
 
 # Games » Privacy Policy
 
