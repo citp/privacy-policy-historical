@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the norada.com privacy policy that was archived on 2012-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121011054120id_/http%3A//norada.com/norada/crm/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the norada.com privacy policy that was archived on 2013-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131125014248id_/http%3A//norada.com/crm-software/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
@@ -22,33 +22,362 @@ located on this website is strictly prohibited. Any infringing use of will be pu
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=7">
-<meta name="blogcatalog" content="9BC8983976">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="google-site-verification" content="OZO6blJlkNaq0-IMhuApsux1j13wofQyZm0V_o0hAXI">
+<meta name="msvalidate.01" content="153EFEBD3C752C7F211CDFFA88A19B7F">
 
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/norada">
-<link rel="shortcut icon" href="http://norada.com/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
-<title>CRM Meets Project Management for Serious Business</title>
+<title>Learn about Solve360</title>
+<meta name="description" content="Small business CRM with features to manage client projects">
+<meta name="keywords" content="crm software, contact database, crm solutions, customer relationship management">
 
-<meta name="description" content="In Web 2.0 style provides a integrated CRM and Project Management solution that uses private project blogs to organize your team and get work done.">
-<meta name="keywords" content="crm, crm software, collaborative crm, crm solutions, customer relationship management, customer relationship management crm, best crm, project management, work management, hosted crm, online crm, social">
+<link rel="stylesheet" type="text/css" media="all" href="/?css=site/default.v.1377041068">
 
-<link rel="stylesheet" type="text/css" media="all" href="http://norada.com/?css=site/default.v.1230760227">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:600,700" rel="stylesheet" type="text/css">
 
-<style type="text/css">
-  body { background: none; }
-</style>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/site/js/03/jquery-1.2.3.min.js"> </script>
+<script type="text/javascript" src="/site/js/03/jquery.scrollTo-1.3.3-min.js"> </script>  
+<script type="text/javascript" src="/site/js/03/jquery.tooltip.js"> </script>                 
 
-</head>
 
-<body>
+<script type="text/javascript" src="/site/js/03/jquery.cycle.all.pack.js"> </script>          
+<script type="text/javascript" src="/site/js/03/jquery.lightbox-0.5.min.js"> </script>        
+<script type="text/javascript" src="/site/js/03/swfobject.js"> </script>                      
+<script type="text/javascript" src="/site/js/03/jquery.pagination.js"> </script>            
+<script type="text/javascript" src="/site/js/03/jquery.quicksearch.js"> </script>             
 
-  <div id="learn_about" class="framecontainer" style="display: block; top: 0px; width: 100%;">
-    <div class="framecontent" style="margin: 0; min-height: 0px;">
+<script type="text/javascript">
+
+$(function() {
+
+  try {
+    
+    
+
+    window.fon = '';
+$('#welcomeback').show();
+
+  }
+
+  catch(e){
+    // console.log(e);
+  }
+
+});
+
+function initPagination() {
+  try {
+    // count entries inside the hidden content   
+    var num_entries = $('#hiddenresult div.result').length;
+    // Create content inside pagination element
+    $("#Pagination").pagination(num_entries, {
+        num_edge_entries: 0,
+        num_display_entries: 0,
+        callback: pageselectCallback,
+        items_per_page: 0
+    });
+  } catch(err) {}}
+
+function pageselectCallback(page_index, jq){
+  try {
+    var new_content = $('#hiddenresult div.result:eq('+page_index+')').clone();
+    $('#helppanel').fadeOut('0',
+      function() {
+        $('#helppanel').empty().append(new_content);
+        $('#pagetotal').empty().append($('#hiddenresult div.result').length); 
+        $('#pagecurrent').empty().append(page_index+1);
+        $('#helppanel').fadeIn('200');                      
+      });    
+    return false;
+  } catch(err) {}}
+
+function gototop() {
+  try {
+    jQuery.scrollTo('50px', { axis:'y', speed:0 } );
+  }
+  catch(e) {}}
+
+function returnfalse(event) {
+  if (event.preventDefault) {event.preventDefault();}
+  else {
+    event.returnValue = false;
+  }
+}
+
+function buildflash(element,videoid,videofile,querystring,width,height) {
+
+  var flashcode;
+
+  if ($.browser.msie) {
+    flashcode = '<object id="' + videoid.toLowerCase() + '" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="' + width + '" height="' + height + '" align="middle">' +
+      '<param name="allowScriptAccess" value="sameDomain" />' +
+      '<param name="allowFullScreen" value="false" />' +
+      '<param name="wmode" value="transparent" />' +
+      '<param name="movie" value="http://d14px97mqkhehm.cloudfront.net/' + videofile + '.swf' + querystring + '" />' +
+      '<param name="quality" value="high" />' +
+      '<param name="bgcolor" value="#fff" />' +
+      '</object>';
+  }
+  else {
+    flashcode= '<embed id="' + videoid.toLowerCase() + '" name="' + videofile + '" src="http://d14px97mqkhehm.cloudfront.net/' + videofile + '.swf' + querystring + '" wmode="transparent" quality="high" bgcolor="#fff" width="' + width + '" height="' + height + '" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />';
+  }
+
+  $('#'+element).html(flashcode);
+
+}
+
+function changecurrency(currency) {
+  $('.price > span').hide();
+  $('.priceuser > span').hide();  
+  $('.currency span').removeClass("selected") ;
+  $('.price > .' + currency).show();
+  $('.priceuser > .' + currency).show();  
+  $('.currency .' + currency).addClass("selected");
+}
+
+    //$('.columnoption').hoverIntent(
+    $('.columnoption').hover(
+      function () {
+        //$(this).animate({ marginTop: '-10px', width:'+=25px' }, 200 );
+        //$('#' + this.id + ' .stretchrow').animate({height:'+=10px'}, 200 );
+        $('#' + this.id + ' .buttonblack').addClass("buttonblackselected");
+        $('#' + this.id).addClass("columnoptionselected");
+        $('.columnoption').addClass("columnoptionmuted"); 
+      },
+      function () {
+        //$(this).animate({ marginTop: '0px', width:'-=25px' }, 200 );
+        //$('#' + this.id + ' .stretchrow').animate({height:'-=10px'}, 200 );
+        $('#' + this.id + ' .buttonblack').removeClass("buttonblackselected");
+        $('.columnoption').removeClass("columnoptionmuted"); 
+        $('#' + this.id).removeClass("columnoptionselected");
+      }
+    );
+
+function post(element) {
+
+  var error, message;
+  var inputs = [];
+
+  var form= $(element).parent("form");
+
+  $(':input', form).each(function() {
+    inputs.push(this.name + '=' + escape(this.value));
+  });
+
+  $.ajax({
+    type:'POST',
+    url:$(form).attr('action'),
+    data:inputs.join('&'),
+    complete:function(xhr) {
+
+      if ($(form).attr('id') == 'contact_form') {
+        if (xhr.responseText.indexOf('Your email message has been sent') > -1) {
+          error = false;
+          message= 'Message received; thanks for taking the time to send us your question.';
+        }
+        else if (xhr.responseText.indexOf('Email Message is Required') > -1) {
+          error = true;
+          message= 'Message was not sent; message text is required.';
+        }
+        else if (xhr.responseText.indexOf('You did not submit the word exactly as it appears in the image') > -1 || xhr.responseText.indexOf('You must submit the word that appears in the image') > -1) {
+          error = true;
+          message= 'Message was not sent; you must submit the word that appears in the image.';
+        }
+        else if (xhr.responseText.indexOf('You are only allowed to submit email forms every 20 seconds') > -1) {
+          error = true;
+          message= 'Message was not sent; you are only allowed to submit feedback once every 20 seconds.';
+        }
+        else if (xhr.responseText.indexOf('A valid sender email is required') > -1) {
+          error = true;
+          message= 'Message was not sent; you must enter a valid email address.';
+        }
+        else {
+          error = true;
+          message= 'Your message could not be received at this time.';
+        }
+        if (error === false) {$('#contact_form').css('display','none');}
+        if (message !== '') {
+          $('#postresponse').html('<span style="padding: 12px; border: 1px solid #EEEE00; background: #FFFFEE;">' + message + '</span>');
+        }
+      }
+      else if ($(form).attr('id') == 'comment_form') {
+        if (xhr.responseText.indexOf('You did not submit the word exactly as it appears in the image') > -1 || xhr.responseText.indexOf('You must submit the word that appears in the image') > -1) {
+          error = true;
+          message= 'You must submit the word that appears in the image.';
+        }
+        else if (xhr.responseText.indexOf('The name field is required') > -1) {
+          error = true;
+          message= 'The name field is required.';
+        }
+        else {
+          error = false;
+        }
+        if (error === false) {$('#blogpage').html(xhr.responseText);}
+        else {
+          $('#postresponse').html('<span style="padding: 12px; background: #585858; font-weight: 700; color: #fff;">' + message + '</span>');
+        }
+      }
+    }
+  });
+
+}
+
+
+
+</script>
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39766387-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
+<body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+
+
+
+<!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('8355-596-10-2618');/*]]>*/</script><noscript><a href="https://www.olark.com/site/8355-596-10-2618/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<!-- end olark code -->
+
+
+
+
+  <div id="topnavcontainer">
+
+          <div id="caption_website_home" class="caption"><img src="http://d1p8vlqvx8b65l.cloudfront.net/siteCaptionModernCRMBenefit.png" height="22" width="267" alt="Modern CRM with benefits"></div>
+        <script>
+      $('.caption').fadeIn(1000);
+    </script>
+
+    <a href="http://norada.com/"><img id="sitelogo" src="http://d1p8vlqvx8b65l.cloudfront.net/siteLogoBanner.jpg" width="320" height="170" alt="Solve360 CRM and Project Management"></a>
+    <div style="position: absolute; top: 10px; right: 235px;"><img src="http://d1p8vlqvx8b65l.cloudfront.net/siteFreeTrial.png" height="30" width="162" alt="Free trial"></div>
+    <div style="position: absolute; top: 15px; right: 30px;"><a style="border-color: #fff; color: #fff;" href="http://status.norada.com" target="_blank" alt="System status">System Status</a></div>
+    <a id="topnav_learn_about" class="topnav" href="http://norada.com/crm-software/overview" alt="Overview"><div class="topnavselected"></div></a>
+    <a id="topnav_free_account" class="topnav" href="http://norada.com/plans/" alt="Plans"><div></div></a>
+    <a id="topnav_client_login" class="topnav" href="https://secure.solve360.com" alt="Login"><div></div></a>
+
+  </div>
+
+  <div id="learn_about" class="framecontainer">
+
+    <div class="framecontent">
+
+      <div id="blogcalloutcontainer">
+      
+        <div class="share" style="left: 35px; margin: 0;"><a href="https://plus.google.com/u/0/103331143038120463809" target="_blank"><div class="icon googleplus"></div> <span class="">Solve360 on Google+</span></a></div>
+
+<div id="blogcallouttop">&nbsp;</div>
+<div id="blogcalloutmiddle">
+
+  <div style="margin: 5px 0 8px 15px; padding-left: 20px; font-weight: 700">Recommended</div>
+  <!--
+  <ul>
+    <li class="document"><a style="font-weight: 700;" href="/">Website Home</a></li>
+    <li class="document"><a style="font-weight: 700;"  href="http://norada.com/crm-software/overview" alt="Overview">Overview</a></li>
+    <li class="document"><a style="font-weight: 700;"  href="http://norada.com/crm-software/demo" alt="Demo">Intro Video & Screen Shots</a></li>
+  </ul>
+  -->
+  <ul>      
+    <li class="document"><a style="font-size: 13px;" href="http://norada.com/answers/" alt="Tutorials &amp; help">Tutorials &amp; help</a><span class="new"></span></li>
+    <li class="document"><a style="font-size: 13px;" href="http://norada.com/crm-software/why_choose_us/" alt="Why choose us">Why choose us</a></li>
+    <li class="document"><a style="font-size: 13px;" href="http://norada.com/google-apps-crm/" alt="Google Apps CRM">For Google Apps</a></li>
+    <li class="document"><a style="font-size: 13px;" href="http://norada.com/crm-software/faqs/" alt="Evaluation FAQs">Evaluation FAQs</a><br><br></li>
+    <li class="document"><a style="font-size: 13px;" href="http://norada.com/crm-software/choose_your_friends_wisely/" alt="Add-ons &amp; integrations">Add-ons &amp; integrations</a></li>
+    <li class="document"><a style="font-size: 13px;" href="http://norada.com/new/" alt="New features">New features</a></li>    
+    <li class="document"><a style="font-size: 13px;" href="http://norada.com/contact/partners/" alt="Hire an expert to help">Hire an expert to help</a></li>
+    <li class="document"><a style="font-size: 13px;" href="http://norada.com/contact/" alt="Contact us">Contact us</a></li>
+  </ul>
+  
+  <div style="margin: 5px 0 13px 15px; padding-left: 20px; font-weight: 700; ">Recent&nbsp;Blog&nbsp;Posts</div>
+  <ul class="recentarticles">
+    
+      <li class="document"><a href="http://norada.com/crm-software/new_improvements_for_the_iphone_ipad_and_android_app/" alt="New improvements: For the iOS and Android App">New improvements: For the iOS and Android App</a></li>
+    
+      <li class="document"><a href="http://norada.com/crm-software/new_improvements_mobile_tablet_phone_application/" alt="New improvements: mobile tablet/phone application">New improvements: mobile tablet/phone application</a></li>
+    
+      <li class="document"><a href="http://norada.com/crm-software/using_gmail_labels_as_a_project_blog_dropbox/" alt="Using Gmail labels as a Project Blog dropbox">Using Gmail labels as a Project Blog dropbox</a></li>
+    
+      <li class="document"><a href="http://norada.com/crm-software/new_feature_webhooks/" alt="New feature: Webhooks">New feature: Webhooks</a></li>
+    
+      <li class="document"><a href="http://norada.com/crm-software/automatically_link_gmail_messages/" alt="Automatically link Gmail messages to the CRM">Automatically link Gmail messages to the CRM</a></li>
+    
+      <li class="document"><a href="http://norada.com/crm-software/connect_private_gmail_messages_to_your_shared_crm_records/" alt="Connect private Gmail messages to your shared CRM records">Connect private Gmail messages to your shared CRM records</a></li>
+    
+      <li class="document"><a href="http://norada.com/crm-software/creating_documents_and_labels/" alt="Creating Documents and Labels from your Solve360 CRM Data">Creating Documents and Labels from your Solve360 CRM Data</a></li>
+    
+      <li class="document"><a href="http://norada.com/crm-software/linking_wufoo_web_forms_to_solve360/" alt="Linking Wufoo Web Forms to your Solve360 CRM">Linking Wufoo Web Forms to your Solve360 CRM</a></li>
+    
+      <li class="document"><a href="http://norada.com/crm-software/custom_reports_using_google_docs/" alt="Custom reports using Google Docs">Custom reports using Google Docs</a></li>
+    
+      <li class="document"><a href="http://norada.com/crm-software/solve360_is_googles_staff_pick/" alt="Solve360 is a Google Staff Pick!">Solve360 is a Google Staff Pick!</a></li>
+    
+      <li class="document"><a href="http://norada.com/crm-software/they_grow_up_so_fast/" alt="They grow up so fast">They grow up so fast</a></li>
+    
+      <li class="document"><a href="http://norada.com/crm-software/solve360_zendesk/" alt="Solve360 Zendesk Mashup">Solve360 Zendesk Mashup</a></li>
+    
+      <li class="document"><a href="http://norada.com/crm-software/contextual_fields_is_big_news/" alt="Extend your forms with contextual fields">Extend your forms with contextual fields</a></li>
+    
+      <li class="document"><a href="http://norada.com/crm-software/breaking_up_with_my_girlfriend/" alt="Breaking Up With My Girlfriend">Breaking Up With My Girlfriend</a></li>
+    
+  </ul>
+  <ul style="padding-bottom: 8px;">
+    <li class="document" style="padding-left: 30px;"><a href="http://norada.com/crm-software/entries/">Check out all the articles ... </a></li>
+  </ul>
+
+  <ul>
+    <li class="document"><a style="font-weight: 700;" href="http://norada.com/crm-software/the_many_ways_we_safeguard_your_data">Data Protection</a></li>
+    <li class="document"><a style="font-weight: 700;" class="selected" href="http://norada.com/crm-software/privacy_policy" alt="Privacy Policy">Privacy Policy</a></li>
+    <li class="document"><a style="font-weight: 700;" href="http://norada.com/crm-software/terms_of_use" alt="Terms of Use">Terms of Use</a></li>
+    <li class="document"><a style="font-weight: 700;" href="http://norada.com/crm-software/security_response" alt="Security Response">Security Response</a></li>
+    <li class="document"><a style="font-weight: 700;" href="http://norada.com/crm-software/about_us" alt="About Us">About Us</a></li>
+  </ul>
+  
+</div>
+<div id="blogcalloutbottom">
+  <a style="background: transparent url(/site/assets/siteFeed.gif) no-repeat scroll left center; margin-left: 15px; padding-left: 16px;" href="http://feeds.feedburner.com/norada" target="_blank">Subscribe</a><br>
+  <div style="margin: 15px 0 0 15px;"><a style="border: none;" href="http://privacy.truste.com/privacy-policy/Norada-Corporation/validation?validationId=6edae543-8498-439a-bc6d-24c9edde2968" target="_blank"><img width="136" height="39" src="https://static.solve360.com/media/images/siteTrusteCertified.gif"></a></div>
+</div>
+
+        
+      </div>
+      
       <span id="blogpage">
 
 
 
-  <p class="articletitle">Privacy Policy</p>
+
+
+
+  <h1>Privacy Policy</h1>
+  <p class="articleauthor">By <a href="https://plus.google.com/u/0/103331143038120463809/" target="_blank" rel="author">Norada Staff</a></p>
     
     
       
@@ -89,23 +418,54 @@ Monday to Friday from 9am and 5pm PST<br>
 </blockquote>
 
 <div style="text-align: center;">###</div>
-    <p class="permalink">Permanent link to this page <a href="http://goo.gl/uibLe" target="blank">http://goo.gl/uibLe</a></p>
+    
     
     
   
-        <div class="context">
-          <p>You're viewing this page out of context.</p>
-          <p>It looks much better viewed from <a href="http://norada.com?uri=norada/entry/privacy_policy" target="_self">www.norada.com</a></p>
-        </div>
+
+
 
 
 
       </span>
+
     </div>
+
+            <div style="margin: 0 10px;"><table class="tableshadow"><tbody><tr><td class="tableshadow"></td><td class="tableshadow">&nbsp;</td><td class="tableshadow"></td></tr></tbody></table></div>
+        <div style="float: right; position: relative; left:-50%; text-align: left;">
+          <div class="share"><a href="http://www.linkedin.com/company/solve360-by-norada/solve360-652064/product?goback=%2Efcs_GLHD_solve360_false_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&amp;trk=biz_product" target="_blank"><div class="icon linkedin"></div> <span class="">Solve360 on LinkedIn</span></a></div>
+          <div class="share"><a href="https://plus.google.com/u/0/103331143038120463809" target="_blank"><div class="icon googleplus"></div> <span class="">Solve360 on Google+</span></a></div>
+        </div>
+        <p class="footer">© 2013 Norada Corporation • <a href="http://norada.com//crm-software/privacy_policy"> Privacy Policy</a></p>
+
+
+
   </div>
+  
+
+<script type="text/javascript">
+adroll_adv_id = "NJ67HADRIJFVTIRV425GBS";
+adroll_pix_id = "MSGMRD5UL5EQVGJPTQ52KD";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
 
 
 
+
+
+ 
 
 
 
