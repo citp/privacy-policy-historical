@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimix.asia privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115010437id_/http%3A//optimix.asia/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimix.asia privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125080519id_/http%3A//optimix.asia/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | iClick Interactive
 
