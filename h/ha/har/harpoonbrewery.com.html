@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the harpoonbrewery.com privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530001937id_/http%3A//www.harpoonbrewery.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the harpoonbrewery.com privacy policy that was archived on 2013-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131125093205id_/http%3A//www.harpoonbrewery.com/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta charset="utf-8">
@@ -24,7 +24,7 @@
 
 	<link rel="shortcut icon" href="/assets/images/favicon.ico">
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/js/jquery/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="/assets/js/jquery/jquery-1.7.2.min.js"></script>
 	<script src="/assets/js/jquery/plugins/jquery.effects.core.min.js"></script>
 	<script src="/assets/js/jquery/plugins/jquery.effects.slide.min.js"></script>
 	<script src="/assets/js/jquery/plugins/jquery.placeholder.min.js"></script>
@@ -32,6 +32,95 @@
 	<script src="/assets/js/jquery/plugins/jquery.cycle.all.min.js"></script>
 	<script src="/assets/js/jquery/plugins/jquery.valign.js"></script>
 	<script src="/assets/js/harpoon.js"></script>
+
+	<script src="/assets/js/jquery/plugins/gfBase.js"></script>
+	<script src="/assets/js/jquery/plugins/jquery.gfRadiobuttons.js"></script>
+	<script src="/assets/js/jquery/plugins/jquery.gfCheckboxes.js"></script>
+	<script src="/assets/js/jquery/plugins/jquery.selectbox.min.js"></script>
+	<script>
+		var facebookLogin = false, facebookCreate = false;
+	    jQuery(document).ready(function( $ ) {
+	    	var $selectBoxes = $(".SelectBox"),
+				$radioGroup = $(".Radio-Group"),
+				$checkboxGroup = $(".Checkbox-Group");
+			//Select Box Styling
+			if ( $selectBoxes.length ) {
+				$selectBoxes.selectBox();
+			}
+
+			//Radio Button Styling Click event
+			if ( $radioGroup.length ) {
+				$radioGroup.gfRadiobuttons();
+				$(".Radio-Group input").each( function() {
+					if($(this).is(':checked') == true) {
+						$(this).parent().addClass('Active');
+					}
+				});
+			}
+
+			//Radio Button Styling Click event
+			if ( $checkboxGroup.length ) {
+				$checkboxGroup.gfCheckboxes();
+				$(".Checkbox-Group input").each( function() {
+					if($(this).is(':checked') == true) {
+						$(this).parent().addClass('Active');
+					}
+				});
+			}
+
+			jQuery('#Site-Search-Submit').on('click', function(event) {
+				if(jQuery('#Site-Search-Value').val() == '')
+					event.preventDefault();
+			});
+
+
+			jQuery('#FacebookLoginButton').on('click', function(event) {
+				facebookLogin = true;
+				FB.getLoginStatus(function(response) {
+				  if (response.status === 'connected') {
+
+					loginFacebookAccount();
+				    // the user is logged in and has authenticated your
+				    // app, and response.authResponse supplies
+				    // the user's ID, a valid access token, a signed
+				    // request, and the time the access token
+				    // and signed request each expire
+
+				  } else if (response.status === 'not_authorized') {
+				    // the user is logged in to Facebook,
+				    // but has not authenticated your app
+				    FB.login();
+				  } else {
+				    // the user isn't logged in to Facebook.
+				    FB.login();
+				  }
+				 });
+			})
+
+			jQuery('#FacebookCreateButton').on('click', function(event) {
+				facebookCreate = true;
+				FB.getLoginStatus(function(response) {
+				  if (response.status === 'connected') {
+					createFacebookAccount();
+				    // the user is logged in and has authenticated your
+				    // app, and response.authResponse supplies
+				    // the user's ID, a valid access token, a signed
+				    // request, and the time the access token
+				    // and signed request each expire
+
+				  } else if (response.status === 'not_authorized') {
+				    // the user is logged in to Facebook,
+				    // but has not authenticated your app
+				    FB.login();
+				  } else {
+				    // the user isn't logged in to Facebook.
+				    FB.login();
+				  }
+				 });
+			})
+
+	    });
+	</script>
 
 	
 
@@ -45,12 +134,130 @@
 <body>
 
 
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+  FB.init({
+    appId      : '573308272739600', // App ID
+    status     : true, // check login status
+    cookie     : true, // enable cookies to allow the server to access the session
+    xfbml      : true  // parse XFBML
+  });
+
+  // Here we subscribe to the auth.authResponseChange JavaScript event. This event is fired
+  // for any authentication related change, such as login, logout or session refresh. This means that
+  // whenever someone who was previously logged out tries to log in again, the correct case below
+  // will be handled.
+  FB.Event.subscribe('auth.authResponseChange', function(response) {
+    // Here we specify what we do with the response anytime this event occurs.
+    if (response.status === 'connected') {
+    	if(facebookCreate) {
+    		facebookCreate = false;
+    		window.location.href = 'http://www.harpoonbrewery.com/friendofharpoon/createAccount/';
+    	}
+    	if(facebookLogin) {
+    		facebookLogin = false;
+    		loginFacebookAccount();
+    	}
+      // The response object is returned with a status field that lets the app know the current
+      // login status of the person. In this case, we're handling the situation where they
+      // have logged in to the app.
+      createFacebookAccount();
+    } else if (response.status === 'not_authorized') {
+      // In this case, the person is logged into Facebook, but not into the app, so we call
+      // FB.login() to prompt them to do so.
+      // In real-life usage, you wouldn't want to immediately prompt someone to login
+      // like this, for two reasons:
+      // (1) JavaScript created popup windows are blocked by most browsers unless they
+      // result from direct interaction from people using the app (such as a mouse click)
+      // (2) it is a bad experience to be continually prompted to login upon page load.
+      FB.login();
+    } else {
+      // In this case, the person is not logged into Facebook, so we call the login()
+      // function to prompt them to do so. Note that at this stage there is no indication
+      // of whether they are logged into the app. If they aren't then they'll see the Login
+      // dialog right after they log in to Facebook.
+      // The same caveats as above apply to the FB.login() call here.
+      FB.login();
+    }
+  });
+  };
+
+  // Load the SDK asynchronously
+  (function(d){
+   var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+   if (d.getElementById(id)) {return;}
+   js = d.createElement('script'); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/en_US/all.js";
+   ref.parentNode.insertBefore(js, ref);
+  }(document));
+
+  // Here we run a very simple test of the Graph API after login is successful.
+  // This testAPI() function is only called in those cases.
+  function createFacebookAccount() {
+    FB.api('/me', 'get', function(response) {
+
+		jQuery('#facebookId').val(response.id);
+
+    	if(response.first_name) {
+    		jQuery('#createAccountForm #firstName').val(response.first_name);
+    	}
+
+    	if(response.last_name) {
+    		jQuery('#createAccountForm #lastName').val(response.last_name);
+    	}
+
+    	if(response.email) {
+    		jQuery('#createAccountForm #email').val(response.email);
+    		jQuery('#createAccountForm #email_confirm').val(response.email);
+    	}
+
+    	if(response.gender) {
+			if(response.gender == 'male') {
+				jQuery('#createAccountForm #gender').val('m').selectBox('value', 'm');
+			}
+			else if(response.gender == 'female') {
+				jQuery('#createAccountForm #gender').val('f').selectBox('value', 'f');
+			}
+		}
+
+    	if(response.location != 'undefined') {
+	    	if(response.location.name != 'undefined') {
+	    		var locationArray = response.location.name.split(', '); //intentinal space after comma
+	    		var stateValue = jQuery('#createAccountForm #state option[data-statename="' + locationArray[1] + '"]').val();
+	    		jQuery('#createAccountForm #city').val(locationArray[0]);
+	    		jQuery('#createAccountForm #state').val(stateValue).selectBox('value', stateValue);
+	    	}
+	    }
+    });
+  }
+
+function loginFacebookAccount() {
+    FB.api('/me', function(response) {
+    	jQuery.ajax({url:'http://www.harpoonbrewery.com/account/ajaxfacebooklogin?facebookId=' + response.id + '&ts=' + new Date().getTime(),
+			dataType: 'json',
+			success: function(data) {
+				if(data.RECORDCOUNT == 1) {
+					location.reload();
+				}
+				else {
+					window.location.href = 'http://www.harpoonbrewery.com/friendofharpoon/createAccount/';
+				}
+	       	}
+		});
+    });
+  }
+</script>
+
+
+
 	<header id="header">
 		<div class="Viewport">
 			<form class="Search-Form" action="/search" method="get">
-				<input type="text" name="searchString" class="Search-Input" value="" title="Enter search phrase to search the site.">
+				<input type="text" name="searchString" class="Search-Input" id="Site-Search-Value" value="" title="Enter search phrase to search the site.">
 
-				<button type="submit" class="Search-Button">Search</button>
+				<button type="submit" class="Search-Button" id="Site-Search-Submit">Search</button>
 			</form>
 
 			<nav id="navigation">
@@ -66,10 +273,11 @@
 		<li class="Nav-Item "><a href="/blog" class="Nav-Link Nav-Link-Blog"><span>Read Our</span>Blog</a></li>
 		<li class="Nav-Item "><a href="/news-videos-photos" class="Nav-Link Nav-Link-Media"><span>News, Videos &amp;</span>Photos</a></li>
 		<li class="Nav-Item "><a href="/beerFinder" class="Nav-Link Nav-Link-Beer"><span>Where To</span>Find Beer</a></li>
-		<li class="Nav-Item"><a href="http://shop.harpoonbrewery.com/" class="Nav-Link Nav-Link-Shop" target="_blank"><span>Shop Our</span>Store</a></li>
+		<li class="Nav-Item">
+			<a href="http://shop.harpoonbrewery.com/" class="Nav-Link Nav-Link-Shop"><span>Shop Our</span>Store</a>
+		</li>
 	</ul>
 </nav>
-
 
 
 
@@ -84,15 +292,36 @@
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 	</script>
+
 <ul class="Utility-Nav Clear">
 	<li class="Nav-Item"><a href="http://www.harpoonhelps.com" class="Nav-Link Nav-Link-Harpoon" target="_blank">Harpoon Helps</a></li>
-	<li class="Nav-Item"><a href="http://www.friendofharpoon.com" class="Nav-Link Nav-Link-Friend" target="_blank">Friend of Helps</a></li>
+	<li class="Nav-Item Nav-Item-Account">
+		<a href="/friendofharpoon" class="Nav-Link Nav-Link-Friend">Friend of Helps</a>
+		<div class="account-box">
+			
+				<a href="/friendofharpoon/createAccount">Create Account</a>
+				<br>
+				<a href="/friendofharpoon/">Login</a>
+			
+		</div>
+	</li>
 	<li class="Nav-Item"><a href="http://www.facebook.com/TheHarpoonBrewery" class="Nav-Link Nav-Link-Facebook" target="_blank">Facebook</a></li>
 	<li class="Nav-Item"><a href="http://www.youtube.com/friendofharpoon" class="Nav-Link Nav-Link-YouTube" target="_blank">YouTube</a></li>
 	<li class="Nav-Item"><a href="http://www.twitter.com/harpoon_brewery" class="Nav-Link Nav-Link-Twitter" target="_blank">Twitter</a></li>
-	<li class="Nav-Item"><a href="http://instagram.com/harpoonbrewery" class="Nav-Link Nav-Link-Instagram" target="_blank">Instagram</a></li>
 	<li class="Nav-Item"><a href="/news/rss" class="Nav-Link Nav-Link-RSS">RSS</a></li>
+	<li class="Nav-Item"><a href="http://instagram.com/harpoonbrewery" class="Nav-Link Nav-Link-Instagram" target="_blank">Instagram</a></li>
+	
 </ul>
+<script>
+jQuery(document).ready(function ($) {
+	$(".Nav-Item-Account").on("mouseover", function (event) {
+		$('.account-box').show();
+	});
+	$(".Nav-Item-Account").on("mouseout", function (event) {
+		$('.account-box').hide();
+	});
+});
+</script>
 		</div>
 	</header>
 
@@ -110,6 +339,13 @@
 	
 	<div id="content">
 		
+
+
+<div class="Viewport" id="Message">
+	<div class="MessageBox"> </div>
+</div>
+
+
 <div class="Viewport">
 	<p>
 	&nbsp;</p>
@@ -195,7 +431,7 @@
 	
 	
 	<form name="hiddenBdayForm" id="hiddenBdayForm" action="/agegate" method="POST">
-		<input type="hidden" name="ageGateForm" value="7C0A58A1-FA4A-E236-16507A531E1F9D59">
+		<input type="hidden" name="ageGateForm" value="9200C1FF-003D-891F-14CB559B6BDB3592">
 		<input type="hidden" name="originURL" value="http%3A%2F%2Fwww%2Eharpoonbrewery%2Ecom">
 	</form>
 
