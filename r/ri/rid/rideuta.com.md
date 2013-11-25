@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rideuta.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507095453id_/http%3A//www.rideuta.com/mc/%3Fpage%3DSecurityAndPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rideuta.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125154528id_/http%3A//www.rideuta.com/mc/%3Fpage%3DSecurityAndPrivacyPolicy) for the most accurate reproduction.*
 
 # Utah Transit Authority
 
@@ -8,44 +8,150 @@
 
 ## Security & Privacy Policy
 
-The Utah Transit Authority (“UTA”) respects your right to privacy and does not sell the information we gather to other organizations or governmental agencies. UTA is committed to protecting your privacy.  Our privacy policy statement is an important part of our continuing commitment to provide you with the best service.  This privacy policy statement explains our online data collection and use practices with respect to our online site (the “Site”).  By accessing the Site, you are consenting to the information collection and use practices described in this privacy policy statement.
+ **Rideuta.com Privacy Policy – Your Privacy Rights  
+** Effective Date May 2013
 
-**Collection of Information**
+* * *
 
-UTA collects two different categories of information on the Site for two different purposes.  First, the Site may collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the type of browser and operating system used to visit the Site; the date and time you access the Site and which portions of the Site you visit; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our Site.  UTA does not use the information automatically collected to ascertain your personally identifiable information.  This information is used to help improve the Site, analyze trends and administer the Site.  Except where specified on the Site, you do not have to provide personally identifiable information to visit or download information from the Site. Unless you choose to make your personally identifiable information available to us, UTA does not collect such information from you.
+**This Privacy Policy applies to our site, rideuta.com, and apps**.
 
-Second, we may gather certain personally identifiable information you disclose to us when you use services available on the Site.  For example, when you contact us by e-mail or join UTA’s mailing list, we may collect your first and last name, your e-mail address, your telephone number and any other personally identifiable information you disclose so we can provide you with the very best in customer service.   In addition, when you subscribe to one of UTA’s other electronic services, such as UTA My Way, you must create a password for managing your account.  You may also provide your address, telephone number and organizational affiliation.  If you apply for employment through the Site, we will collect personally identifiable information, such as your first and last name, your address and other employment related information.  Additional personally identifiable information which you may choose to make available to us may include, without limitation, social security number, credit card information, account numbers, bank account information, or any combination of personal information that could be used to determine identity will be collected. 
+* * *
 
-**No Spamming or “Phishing”**
+Thank you for visiting the UTA website rideuta.com (the “Site”).  The Site is owned by the Utah Transit Authority (“UTA”). First Data and Authorize.net  process financial transactions originating on this Site on behalf of UTA.
 
-Under no circumstances will UTA contact you via spam or mass e-mail or telephone to obtain personally identifiable information.  UTA may contact you via e-mail regarding a specific inquiry you make or to conduct other general surveys. 
+We respect your right to privacy and do not sell the information we gather to other organizations or governmental agencies.  Our Privacy Policy explains our online data collection and use practices with respect to our online Site. It also applies to our mobile sites and apps. By accessing the Site, you are consenting to the information collection and use practices described in this Privacy Policy.
 
-**Use of personally identifiable information**
+* * *
 
-The personally identifiable information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized.  In support of these uses, UTA may use personally identifiable information to provide you with more effective customer service, to improve the Site and any related UTA products or services, and to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preference or interest.  In order to offer you a more consistent experience in your interactions with UTA, information collected online may be combined with information collected by other UTA services.
+**We collect information, which may include your name, physical address, email address, telephone number, credit card information, and bank account information, from and about you.**
 
-UTA hires other companies to provide limited services on our behalf, such as web site construction and maintenance and information distribution. This privacy policy statement does not cover any third-party sites, including any third-party sites that may, from time to time, be linked to the Site or used to host specific pages on the Site.  We will only provide these companies the personally identifiable information they need to deliver the service.  They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.
+* * *
 
-UTA may disclose personally identifiable information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the law or comply with legal process served on UTA or the Site; (b) protect and defend the rights or property of UTA; or (c) act in urgent circumstances to protect the personal safety of UTA employees or agents, users of UTA products or services, or members of the public.
+**Information about your visit to this Site.**   We may gather information about your visit to this Site, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the type of browser and operating system used to visit the Site; the date and time you access the Site and which portions of the Site you visit; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our Site.  We might also gather information about what site you came from or what site you visit when you leave us.  UTA does not use the information automatically collected to ascertain your personally identifiable information.  This information is used to help improve the Site, analyze trends, and administer the Site.
 
-Personally identifiable information collected on the Site may be stored and processed in the United States or any other country in which UTA or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. 
+**Contact information.**   We may collect your name, street address, telephone number, organizational affiliation, or email address if you provide it to us by contacting UTA by email, registering for the Web Developer API Data, etc.  UTA or its agents may contact you for marketing purposes if you agree to such contact. 
 
-Please be aware that this privacy policy statement and any choices you make on the Site will not necessarily apply to personally identifiable information you may have provided to UTA in the context of other, separately operated, UTA products or services.
+**Employment application information.**   If you fill out an application for employment, the information collected will be used by our human resources personnel to determine whether you qualify for the job.  The information may also be shared with the manager of the hiring department.   
 
-UTA will not deliberately disclose any personally identifiable information provided by or collected from you to any third party except as set forth above.  It is UTA’s policy not to accept information from other parties that is confidential or proprietary unless subject to a written agreement.  If you wish to retain the confidentiality of your material, do not submit it to us in any form unless subject to a written agreement.  UTA may reproduce, disclose, transmit, broadcast or otherwise use any unsolicited ideas, without any obligation to compensate you.
+**Payment information.** On behalf of UTA, First Data and Authorize.net process financial transactions originating on this Site and store data associated with those transactions. If you complete a financial transaction through this Site, Authorize.net and/or First Data collect and store your name, credit card number, credit card expiration date, and any other information necessary to process and track the transaction.   
 
-**Data security and quality**
+**Demographic information.**   We may collect information like your gender and date of birth if you fill out a survey or apply for an aged-based discount. We may collect other information necessary to substantiate an application for a reduced fare product.   
 
-UTA is committed to data security and the data integrity of personally identifiable information available from or collected on the Site.  UTA has taken precautions to protect personally identifiable information from loss, misuse, or alteration.  Any authorized third parties responsible for this information are committed to the same principles, and are required by contract to follow the same policies and guidelines as UTA in protecting this information.  You should be aware, however, that even though protections are in place, UTA cannot guarantee against the occurrence of hardware failure, unauthorized intrusion, or other technical problems.
+**Trip and location data.**   We collect information about where you tap on and off in order to improve transit service.
 
-The ordering pages at the Site that ask you for sensitive personally identifiable information are highly secure. Our secure servers protect your information using encryption throughout the ordering process.  UTA uses a standardized universal Internet technology called Secure Socket Layer (SSL) encryption in connection with certain personally identifiable information collected on the Site.  When you send information from your computer to our servers at the Site it is encrypted (locked) so that the information is protected during its transmission.  Most browsers will show a lock icon in the bottom status bar on secure pages.  Look for this icon on the web pages that ask for credit card or other sensitive information.   
+* * *
 
-**Procedures for Access to view or correct personally identifiable information**
+**We collect information in different ways.**
 
-Unless otherwise prohibited by applicable law or regulation, an individual may access and correct personally identifiable information whether or not the inaccuracy was created by accident, unauthorized access, or a change in circumstances.  UTA also reserves the right to use any legally appropriate measures to prevent, monitor, and investigate any attempt to deface, delete, or otherwise tamper with or abuse the Site, servers, databases, information systems, or other UTA technology assets.  For additional information with respect to your personally identifiable information or to access or correct your personally identifiable information, please contact us.
+* * *
 
-**Changes to privacy policy statement**
+**We collect information directly from you.** For example, we collect information from you if you sign up for a service.  We also collect information if you fill out an online survey. 
 
-UTA reserves the right to change this privacy policy statement at any time to reflect changes in its business practices.  If UTA elects to change its business practices in a way that implicates this privacy policy statement, such changes will be promptly reflected on the Site. 
+**We collect information from you passively.** We use tracking tools like browser cookies and Google Analytics to track non-specific user information such as operating systems, browsers, estimated connection types, etc.  We also collect information from our mobile apps. 
 
-_Revised 6/11/07_
+**We get information about you from third parties, like social media platforms.  
+**
+
+* * *
+
+**We use information as disclosed and described here.**
+
+* * *
+
+**We use information to respond to your requests or questions.** For example, we might use your information to respond to your comments.
+
+**We use information to improve our products and services.** We may use your information to make our Site and products better. We might use your information to customize your experience with us. We may combine information we get from you with information about you we get from third parties. 
+
+**We use information for security purposes.** We may use information to protect our company, our customers, and our Site.
+
+**We use information for marketing purposes.** For example, we might send you information about new products and special offers. We might tell you about new features or updates. We may also use push notifications on our mobile apps.
+
+**We use information to communicate with you about your account or our relationship.** We may contact you about products that you purchase. We might also contact you about this Policy or our Site’s Terms.
+
+**We use information as otherwise permitted by law.  
+**
+
+* * *
+
+**We may share information with third parties.**
+
+* * *
+
+**We will share information with third parties who perform services on our behalf.** For example, we share information with companies that operate our Site(s), provide data storage, and process financial transactions.  Information in anonymous, aggregated form may be shared freely. 
+
+**We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud.  Certain personal information is protected under Utah’s Government Records Access and Management Act (“GRAMA”).  However, users should be aware that UTA is a governmental entity and certain information provided to UTA may be subject to disclosure in accordance with GRAMA. 
+
+**We may share information for other reasons we may describe to you.**
+
+* * *
+
+**You have certain choices about sharing and marketing practices.**
+
+* * *
+
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. Even if you opt out of getting marketing messages, we will still send you transactional messages.  These include responses to your questions or information about your account.
+
+**You can control cookies and tracking tools.** Your browser may give you the ability to control cookies or other tracking tools.  How you do so depends on the type of tool.  Certain browsers can be set to reject browser cookies.  You can also control flash cookies, which we may use on our Site from time to time.  If you block cookies on your browser, certain features on our Sites may not work.
+
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone.
+
+* * *
+
+**These Sites and children.**
+
+* * *
+
+Our Sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can contact customer service at [rideuta@rideuta.com](mailto:rideuta@rideuta.com), Please mark your inquiries “COPPA Information Request.”
+
+* * *
+
+**We use standard security measures.**
+
+* * *
+
+The ordering pages at the Site that ask you for sensitive personally identifiable information are highly secure.  UTA uses a standardized universal Internet encryption in connection with certain personally identifiable information collected on the Site.  When you send information from your computer to our servers at the Site, it is encrypted so that the information is protected during its transmission. However, the Internet is not 100% secure. We cannot ensure that your use of our Site(s) will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. 
+
+We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+
+* * *
+
+**We store information in the United States.**
+
+* * *
+
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This Site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
+
+* * *
+
+**We may link to other sites or have third party services on our Site we don’t control.**
+
+* * *
+
+If you click on a link to a third party site, you will be taken to websites we do not control.  This includes social media sites. This policy does not apply to the privacy practices of these websites. Read the privacy policy and the terms and conditions of other websites carefully. We are not responsible for these third party practices.
+
+* * *
+
+**Feel free to contact us if you have more questions.**
+
+* * *
+
+If you have any questions about this Policy, want to access the personal information we collect, or want to correct your personal information, please email us at [rideuta@rideuta.com](mailto:rideuta@rideuta.com).
+
+You can also write to us or call at:
+
+ **Utah Transit Authority  
+Attn:  Customer Service  
+669 West 200 South   
+Salt Lake City, Utah 84101  
+Phone: 1-888-RIDE-UTA (743-3882) (In State Toll Free)  
+1-801-RIDE-UTA (743-3882) (Outside Utah)**If you are deaf or hearing impaired and use either a teletypewriter (TTY) or computer equipment with TTY capability to place your telephone calls, dial 711 (Relay Utah) then give the Relay operator the Customer Service # 743-3882. Calls are also accepted using the video relay services, if you have equipment available.
+
+* * *
+
+**We may update this Policy.**
+
+* * *
+
+From time to time we may change our privacy policies to reflect changes in business practices.  If this Privacy Policy changes materially so that we are going to use your personally identifiable information in a manner different from that stated at the time of collection, or if we make any material changes in our privacy practices that affect customer information already stored in our database, we will prominently post a notice on the main page and other pages to alert you about the change.  Please check our Site periodically for updates.
+
+© 2013 Utah Transit Authority. All rights reserved.
