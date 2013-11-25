@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktime.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625094109id_/http%3A//desktime.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktime.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125040130id_/http%3A//desktime.com/about/privacy) for the most accurate reproduction.*
 
 # DeskTime - Privacy
 
@@ -15,21 +15,22 @@ By using our Web site, you agree to our collection and use of your personal info
 
 
     1. array (
-    2. 'now' => '1314172183',  
+    2. 'now' => '1314172183',
     3. 'version' => '1.0.4289',
-    4.   'log' => array (    
-    5.     0 => array (      
-    6.       'app' => 'firefox',      
-    7.       'path' => '\\\Mozilla Firefox\\\firefox.exe',    
-    8.       'win' => 'jQuery UI - Datepicker Demos & Documentation',      
-    9.       'url' => 'jqueryui.com',      
-    10.       'start' => '1314172181'    
-    11.     )
-    12.   )
-    13. ); 
+    4. 'log' => array (
+    5. 0 => array (
+    6. 'app' => 'firefox',
+    7. 'path' => '\\\Mozilla Firefox\\\firefox.exe',
+    8. 'win' => 'jQuery UI - Datepicker Demos & Documentation',
+    9. 'url' => 'jqueryui.com',
+    10. 'start' => '1314172181'
+    11. )
+    12. )
+    13. );
 
   5. You can **enable Private Time to pause DeskTime at any time.** If you enable "Private Mode" via the tracker in the system taskbar, DeskTime will stop tracking anything you do on your computer. To enable DeskTime again, just press the "Private Mode" button again.
 
   6. **You can also delete your account at any time**. Deleting your account deletes all your data from our database.
 
+  
 
