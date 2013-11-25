@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendsreunited.co.uk privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114052543id_/http%3A//www.friendsreunited.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsreunited.co.uk privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125234100id_/http%3A//www.friendsreunited.co.uk/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Stuff | Friends Reunited
 
@@ -10,7 +10,7 @@ This Privacy Policy is part of the [Terms and Conditions](https://web.archive.or
 
 ### The laws you’re protected by. 
 
-As we are a UK company, you are protected by UK and European data protection laws. You can find out more about data protection in general on the [UK Information Commissioner’s Office website ](http://www.ico.gov.uk/). 
+As we are a UK company, you are protected by UK and European data protection laws. You can find out more about data protection in general on the [UK Information Commissioner's Office website ](http://www.ico.gov.uk/). 
 
 ### Information we receive about you. 
 
@@ -30,7 +30,7 @@ Other information we receive about you.
   * We also receive some information about the computer or other device you use to access our service, such as your IP address, the browser you use, your location, how big your screen is, or the pages you visit. 
   * When you upload a photo or video, we may also receive additional information through metadata about where that photo or video was taken, such as the time, date and location. 
   * We may also receive statistical, anonymised information from our advertising partners who work with us to deliver more relevant, higher quality advertising to you on the website and to understand online activity. 
-  * We may also receive information from other websites, such as Facebook, when you log into the website using Facebook Platform. You can find out more about this under Sharing with other websites and applications below. 
+  * We may also receive information from other websites, such as Facebook, when you log into the website using Facebook Platform. You can find out more about this under Sharing with other websites and applications [below](http://www.friendsreunited.co.uk/Privacy#sharing). 
 
 
 
@@ -52,7 +52,7 @@ You give us permission to use your information for the above purposes in relatio
 
 We won’t sell your information to third parties.
 
-We won’t ever sell your information to third parties, full stop. If we run a promotion or competition where your information will be shared with a third party for marketing purposes, we will make that very clear and will ask your permission first.
+If we run a promotion or competition where your information will be shared with a third party for marketing purposes, we will make that very clear and will ask your permission first.
 
 ### Emails and communications.
 
@@ -102,7 +102,7 @@ Disabling cookies. Most internet browsers are automatically set up to accept coo
 
 ### Privacy settings. 
 
-understand that privacy is important to you, so we provide a number of ways for you to change your privacy settings in relation to your memories and memory boxes. 
+We understand that privacy is important to you, so we provide a number of ways for you to change your privacy settings in relation to your memories and memory boxes. 
 
 Information that always remains public:
 
@@ -158,7 +158,7 @@ The only circumstances in which we will share any of the information we receive 
   * have informed you first, for example by setting it out in this Privacy Policy;
   * have received your permission first; 
   * have removed any personally identifiable information before sharing it; or
-  * are required or otherwise permitted to do so by law.
+  * are required or otherwise permitted to do so by law or where we are using a third party supplier to provide part of our  service to you – such as delivering a product to your home.  If that happens we will ensure our supplier does not use the information for anything else.
 
 
 
@@ -168,7 +168,8 @@ The only circumstances in which we will provide any of your personal data to a t
 
 ### Removing your profile from Friends Reunited.
 
-You may remove your profile from the website at any time by clicking the “Account” link located towards the top right of the website, and clicking “Remove my account from Friends Reunited”. Any public content you have added to the website will remain; however, your profile page will not be accessible, and other members will not be able to contact you. Any content that you chose to share publicly, understandably, may be copied or stored by other members even after your profile has been removed. When your profile has been removed, we will archive and store your information for a reasonable time period for legal and administrative reasons and for the purposes of re-activating your account with us, if you wish to do so. 
+You may remove your profile from the website at any time by clicking the “Account” link located towards the top right of the website, and clicking “Remove my account from Friends Reunited”. Any public content you have added to the website will remain; however, your profile page will not be accessible, and other members will not be able to contact you. Any content that you chose to share publicly, understandably, may be copied or stored by other members even after your profile has been removed. When your profile has been removed, we will archive and store your information for a reasonable time period for legal and administrative reasons and for the purposes of re-activating your account with us, if you wish to do so.   
+
 
 ### Updating your personal information.
 
@@ -184,7 +185,7 @@ If our business transfers to anyone else, you agree that we can pass your inform
 
 ### Contact us.
 
-We hope that’s clear. If it isn’t or you have another question that isn’t covered, please [contact us](https://web.archive.org/Home/ContactUs). 
+We hope that’s clear. If it isn’t or you have another question that isn’t covered, please [contact us](https://web.archive.org/Home/ContactUs).
 
 ### Changes to this Privacy Policy.
 
