@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckstudies.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000442id_/http%3A//fuckstudies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckstudies.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126005226id_/http%3A//fuckstudies.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
