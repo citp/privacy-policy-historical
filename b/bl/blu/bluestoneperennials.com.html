@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the bluestoneperennials.com privacy policy that was archived on 2013-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130525070104id_/http%3A//www.bluestoneperennials.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluestoneperennials.com privacy policy that was archived on 2013-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131125160024id_/http%3A//www.bluestoneperennials.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-<meta http-equiv="X-UA-Compatible" content="IE=9">
+<link rel="icon" type="image/gif" href="/Bluestone_Favicon.gif">
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
 <title>Bluestone Perennials, Inc -- Privacy Policy</title>
 
-<link rel="stylesheet" type="text/css" href="/images/theme_css2012.css">
+<link rel="stylesheet" href="/images/theme_css2012.css">
 <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/0790.js?438991" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
 
@@ -72,7 +73,69 @@ $(document).ready(function() {
 	});
 });
 
+
+function lookup(inputString,limitStart,limitCurrent) {
+  if(inputString.length == 0) {
+   // Hide the suggestion box.
+   $('#suggestions').hide();
+  } else {
+   $.post("/b/sug", {q: ""+inputString+"", limitStart: ""+limitStart+""}, function(data){
+    if(data.length > 0) {
+     $('#suggestions').show();
+     $('#autoSuggestionsList').html(data);
+    }
+	else {
+     $('#suggestions').hide();
+	}
+   });
+  }
+ } // lookup
+
+ 
+
+ function fill(thisValue) {
+  $('#top_searchtext').val(thisValue);
+  $('#sml_srch').submit();
+  setTimeout("$('#suggestions').hide();", 200);
+ }
+
 </script>
+
+
+
+<style type="text/css">
+ .suggestionsBox {
+  position: relative;
+  left: 0px;
+  margin: 40px 0px 0px 0px;
+  padding-left:5px;
+  width: 333px;
+  background-color: #FFF;
+  -moz-border-radius: 7px;
+  -webkit-border-radius: 7px;
+  border: 1px solid #CCC;
+  border-top: 1px solid #D9D9D9;
+  color: #000;
+  box-shadow:0 2px 4px rgba(0,0,0,0.2);
+ }
+ .suggestionList {
+  margin: 0px;
+  padding: 0px;
+  margin-top:-10px;
+ }
+ .suggestionList li {
+  margin: 0px 0px 3px 0px;
+  padding: 3px;
+  cursor: pointer;
+  list-style-type:none;
+ }
+ .suggestionList li:hover {
+  background-color: #659CD8;
+ }
+ .fp_sf_text {
+ 	padding-left:5px!important;
+ }
+</style>
 
 	
 
@@ -103,7 +166,7 @@ $(document).ready(function() {
 		<input type="hidden" name="su" value="0">
 		<input type="hidden" name="op" value="ne">
 
-		<input type="hidden" name="sf" value=":code:name:common_name:short_desc:description3:listid:genus:variety:species:msearch">
+		<input type="hidden" name="sf" value=":code:name:auto_keywords:common_name:genus:variety:species:msearch">
 		<input type="hidden" name="su" value="1">
 		<input type="hidden" name="op" value="aq">
 
@@ -111,7 +174,7 @@ $(document).ready(function() {
 		<input type="hidden" name="searchcoup" value="1">
 		<input type="hidden" name="searchdisc" value="0">
 
-		<input type="text" name="top_searchtext" id="top_searchtext" size="60" value="New Search" class="fp_sf_text">
+		<input type="text" name="top_searchtext" id="top_searchtext" size="60" value="New Search" class="fp_sf_text" onkeyup="lookup(this.value,0,20);" autocomplete="off">
     </div>
     <div id="fp_sf_r">
     
@@ -121,6 +184,14 @@ $(document).ready(function() {
     
     </div>
 </div>
+<div class="suggestionsBox" id="suggestions" style="display: none; z-index: 500;">
+    <img src="/images/upArrow.png" style="position: relative; top: -12px; left: 30px;" alt="upArrow">
+    <div class="suggestionList" id="autoSuggestionsList">
+     &nbsp;
+    </div>
+</div>
+
+
 </form>
 
 
@@ -215,7 +286,7 @@ $(document).ready(function(){
 					
 						<li><a href="http://www.bluestoneperennials.com/perennials/Brunnera.html" class="dcl_link">Brunnera</a></li>
 					
-						<li><a href="http://www.bluestoneperennials.com/MUMS.html" class="dcl_link">Chrysanthemum</a></li>
+						<li><a href="http://www.bluestoneperennials.com/perennials/chrysanthemum.html" class="dcl_link">Chrysanthemum</a></li>
 						<li><a href="http://www.bluestoneperennials.com/perennials/Campanula.html" class="dcl_link">Campanula</a></li>
 						<li>&nbsp;</li>
 					</ul>
@@ -291,8 +362,7 @@ $(document).ready(function(){
 					
 						<li><a href="http://www.bluestoneperennials.com/perennials/Monarda.html" class="dcl_link">Monarda</a></li>
 					
-						
-						<li><a href="http://www.bluestoneperennials.com/MUMS.html" class="dcl_link">Mums</a></li>
+						<li><a href="http://www.bluestoneperennials.com/galleries.html?gallery=mum" class="dcl_link">Mums</a></li>
 						<li>&nbsp;</li>
 					</ul>
 				</div>
@@ -312,9 +382,7 @@ $(document).ready(function(){
 					<ul>
 						<li><a href="http://www.bluestoneperennials.com/perennials/Nepeta.html" class="dcl_link">Nepeta</a></li>
 						<li><a href="http://www.bluestoneperennials.com/perennials/Penstemon.html" class="dcl_link">Penstemon</a></li>
-						
-					
-						<li><a href="http://www.bluestoneperennials.com/perennials/Phlox.html" class="dcl_link">Phlox</a></li>
+						<li><a href="http://www.bluestoneperennials.com/galleries.html?gallery=Phlox" class="dcl_link">Phlox</a></li>
 					
 						<li><a href="http://www.bluestoneperennials.com/perennials/Pulmonaria.html" class="dcl_link">Pulmonaria</a></li>
 					
@@ -324,7 +392,7 @@ $(document).ready(function(){
 					
 						<li><a href="http://www.bluestoneperennials.com/perennials/Sedum.html" class="dcl_link">Sedum</a></li>
 					
-						<li><a href="http://www.bluestoneperennials.com/perennials/Chrysanthemum.html" class="dcl_link">Shasta Daisy</a></li>
+						<li><a href="http://www.bluestoneperennials.com/gallery/perennial/shasta-daisy.html" class="dcl_link">Shasta Daisy</a></li>
 					
 						<li><a href="http://www.bluestoneperennials.com/perennials/tricyrtis.html" class="dcl_link">Tricyrtis</a></li>
 					
@@ -386,8 +454,7 @@ $(document).ready(function(){
 					
 						<li><a href="http://www.bluestoneperennials.com/shrubs/Daphne.html" class="dcl_link">Daphne</a></li>
 					
-					
-						<li><a href="http://www.bluestoneperennials.com/shrubs/hydrangea.html" class="dcl_link">Hydrangea</a></li>
+						<li><a href="http://www.bluestoneperennials.com/galleries.html?gallery=hydrangea" class="dcl_link">Hydrangea</a></li>
 					</ul>
 				</div>
 				<div class="menu_2012_drop_col_img">
@@ -409,10 +476,9 @@ $(document).ready(function(){
 					
 						<li><a href="http://www.bluestoneperennials.com/shrubs/Itea.html" class="dcl_link">Itea</a></li>
 					
-						<li><a href="http://www.bluestoneperennials.com/shrubs/Kolkwitzia.html" class="dcl_link">Kolkwitzia</a></li>
-					
 						<li><a href="http://www.bluestoneperennials.com/shrubs/Physocarpus.html" class="dcl_link">Physocarpus</a></li>
 					
+						<li><a href="http://www.bluestoneperennials.com/shrubs/Chaenomeles.html" class="dcl_link">Quince</a></li>
 					</ul>
 				</div>
 				<div class="menu_2012_drop_col_img">
@@ -430,12 +496,11 @@ $(document).ready(function(){
 				<div class="menu_2012_drop_col_list">
 					<ul>
 					
-						<li><a href="http://www.bluestoneperennials.com/shrubs/Chaenomeles.html" class="dcl_link">Quince</a></li>
-					
 						<li><a href="http://www.bluestoneperennials.com/shrubs/Sambucus.html" class="dcl_link">Sambucus</a></li>
 					
 						<li><a href="http://www.bluestoneperennials.com/shrubs/Viburnum.html" class="dcl_link">Viburnum</a></li>
 					
+						<li>&nbsp;</li>
 						<li>&nbsp;</li>
 					</ul>
 				</div>
@@ -690,20 +755,132 @@ $(document).ready(function(){
 		</a>
 	</div>
 	<div class="menu_comp_2012">    <a href="http://www.bluestoneperennials.com/specials.html" class="menu_comp_2012_lnk"> 
-		Current Specials
+		Specials
 		</a>
 	</div>
-	
+	<div class="menu_comp_2012">    <a href="http://www.bluestoneperennials.com/galleries.html?gallery=bulb" class="menu_comp_2012_lnk">
+		Bulbs
+		</a>
+		<div id="bulbdrop" class="menu_2012_drop_contain">
+			<div class="menu_2012_drop_col">
+				<div class="menu_2012_drop_col_list">
+					<ul>
+						<li><a href="http://www.bluestoneperennials.com/bulbs/allium.html" class="dcl_link">Allium</a></li>
+						<li><a href="http://www.bluestoneperennials.com/gallery/bulbs/amaryllis.html" class="dcl_link">Amaryllis</a></li>
+						<li><a href="http://www.bluestoneperennials.com/gallery/bulbs/accent.html" class="dcl_link">Accent Bulbs</a></li>
+						<li><a href="http://www.bluestoneperennials.com/bulbs/beautiful.html" class="dcl_link">Blends</a></li>
+					</ul>
+				</div>
+				<div class="menu_2012_drop_col_img">
+					<a href="http://www.bluestoneperennials.com/new/bulbs.html" class="dcl_link" style="font-weight:bold;">
+						<img src="/images/2012/dropdown/DROPDOWN_Bulbs_New.jpg" class="menu_2012_img" alt="New Bulbs">
+					</a>
+				</div>
+				<div class="menu_2012_drop_col_title">
+					<a href="http://www.bluestoneperennials.com/new/bulbs.html" class="dcl_link" style="font-weight:bold;">
+						New Items
+					</a>
+				</div>
+			</div>
+			<div class="menu_2012_drop_col">
+				<div class="menu_2012_drop_col_list">
+					<ul>
+						<li><a href="http://www.bluestoneperennials.com/bulbs/crocus.html" class="dcl_link">Crocus</a></li>
+						<li><a href="http://www.bluestoneperennials.com/galleries.html?gallery=daffodil" class="dcl_link">Daffodil</a></li>
+						<li><a href="http://www.bluestoneperennials.com/bulbs/Hyacinth.html" class="dcl_link">Hyacinth</a></li>
+						<li>&nbsp;</li>
+					</ul>
+				</div>
+				<div class="menu_2012_drop_col_img">
+					<a href="http://www.bluestoneperennials.com/specials/bulbs.html" class="dcl_link" style="font-weight:bold;">
+						<img src="/images/2012/dropdown/DROPDOWN_Bulbs_Sale.jpg" class="menu_2012_img" alt="Bulbs on Sale">
+					</a>
+				</div>
+				<div class="menu_2012_drop_col_title">
+					<a href="http://www.bluestoneperennials.com/specials/bulbs.html" class="dcl_link" style="font-weight:bold;">
+						On Sale
+					</a>
+				</div>
+			</div>
+			<div class="menu_2012_drop_col">
+				<div class="menu_2012_drop_col_list">
+					<ul>
+						<li><a href="http://www.bluestoneperennials.com/bulbs/Iris.html" class="dcl_link">Iris</a></li>
+						<li><a href="http://www.bluestoneperennials.com/bulbs/Lily.html" class="dcl_link">Lilies</a></li>
+						<li><a href="http://www.bluestoneperennials.com/bulbs/muscari.html" class="dcl_link">Muscari</a></li>
+						<li>&nbsp;</li>
+					</ul>
+				</div>
+				<div class="menu_2012_drop_col_img">
+					<a href="http://www.bluestoneperennials.com/online/bulbs.html" class="dcl_link" style="font-weight:bold;">
+						<img src="/images/2012/dropdown/DROPDOWN_Bulbs_WebExclusive.jpg" class="menu_2012_img" alt="Online Bulbs">
+					</a>
+				</div>
+				<div class="menu_2012_drop_col_title">
+					<a href="http://www.bluestoneperennials.com/online/bulbs.html" class="dcl_link" style="font-weight:bold;">
+						Web Exclusives
+					</a>
+				</div>
+			</div>
+			<div class="menu_2012_drop_col">
+				<div class="menu_2012_drop_col_list">
+					<ul>
+						<li><a href="http://www.bluestoneperennials.com/gallery/bulbs/paperwhites.html" class="dcl_link">Paperwhites</a></li>
+						<li><a href="http://www.bluestoneperennials.com/bulbs/Peony.html" class="dcl_link">Peony</a></li>
+						<li><a href="http://www.bluestoneperennials.com/galleries.html?gallery=tulip" class="dcl_link">Tulip</a></li>
+						<li><a href="http://www.bluestoneperennials.com/gallery/bulbs/valuepak.html" class="dcl_link">Value Paks</a></li>
+					</ul>
+				</div>
+				<div class="menu_2012_drop_col_img">
+					<a href="http://www.bluestoneperennials.com/galleries.html?gallery=bulb" class="dcl_link" style="font-weight:bold;">
+						<img src="/images/2012/dropdown/DROPDOWN_Bulbs_All.jpg" class="menu_2012_img" alt="All Bulbs">
+					</a>
+				</div>
+				<div class="menu_2012_drop_col_title">
+					<a href="http://www.bluestoneperennials.com/galleries.html?gallery=bulb" class="dcl_link" style="font-weight:bold;">
+						View All
+					</a>
+				</div>
+			</div>
+		</div>
+	</div> 
 
 	<div class="menu_comp_2012">    <a href="http://www.bluestoneperennials.com/listid/webonly.html" class="menu_comp_2012_lnk"> 
 		Web Exclusives
 		</a>
 	</div>
-	
+	<div class="menu_comp_2012">    <a href="http://www.bluestoneperennials.com/galleries.html?gallery=garden" class="menu_comp_2012_lnk"> 
+		Gardens
+		</a>
+		<div id="gardendrop" class="menu_2012_drop_contain col1">
+			<div class="menu_2012_drop_col col1">
+				<div class="menu_2012_drop_col_list col1">
+					<ul class="col1">
+						<li><a href="http://www.bluestoneperennials.com/preplan_flypage.html?mv_arg=butter" class="dcl_link">Butterfly Garden</a></li>
+						<li><a href="http://www.bluestoneperennials.com/preplan_flypage.html?mv_arg=cutg" class="dcl_link">Cutting Garden</a></li>
+						<li><a href="http://www.bluestoneperennials.com/preplan_flypage.html?mv_arg=poyb" class="dcl_link">Plant of The Year Garden</a></li>
+						<li><a href="http://www.bluestoneperennials.com/preplan_flypage.html?mv_arg=shga" class="dcl_link">Shade Garden</a></li>
+						<li><a href="http://www.bluestoneperennials.com/preplan_flypage.html?mv_arg=sosg" class="dcl_link">Starter Garden</a></li>
+						
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
 	<div class="menu_comp_2012">    
 		<a href="http://www.bluestoneperennials.com/gift_certificate.html" class="menu_comp_2012_lnk"> 
-			Gift Certificates
+			Gifts
 		</a>
+		<div id="holidaydrop" class="menu_2012_drop_contain col1_5">
+			<div class="menu_2012_drop_col col1_5">
+				<div class="menu_2012_drop_col_list col1_5">
+					<ul>
+						<li><a href="http://www.bluestoneperennials.com/gift_certificate.html" class="dcl_link">Gift Certificates</a></li>
+						<li><a href="http://www.bluestoneperennials.com/gallery/bulbs/amaryllis.html" class="dcl_link">Holiday Bulbs</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
 	</div>
 	<div class="menu_comp_last_2012">    
 		<a href="http://www.bluestoneperennials.com/n_search.html" class="menu_comp_last_2012_lnk"> 
@@ -883,13 +1060,17 @@ $(document).ready(function(){
 
 
 		</div>							
+		<div id="bannerBar">
+			
+
+		</div>							
 		<div id="spacer">
 		</div>							
 		<div id="container">
 			<div id="left">
 				
 			</div>
-			<div id="center">
+			<div id="center_wr">
 					
 						<!-- BEGIN CONTENT -->
 <div class="cs_title">
@@ -955,32 +1136,36 @@ From time to time we may establish a business partnership with other companies w
 			
 				
 			</div>
-			<div id="right">
-				<!-- BEGIN COMPONENT email_signup -->
+			<div id="right_wr">
+				<!-- BEGIN COMPONENT newsletter -->
 
 
 
 
 
-<form action="http://www.bluestoneperennials.com/privacypolicy.html" method="POST" id="emailsignup">
-<div id="es_title" style="top:7px">
-	<input type="hidden" name="mv_action" value="return">
-	<input type="hidden" name="mv_form_profile" value="check_email">
-	<input type="hidden" name="mv_click" value="email_sub">
-	<input type="hidden" name="back_to" value="privacypolicy">
-	E-News from Bluestone
-</div>
-<div id="es_text" style="top:52px">
-	<p style="margin:0 0 5px;padding:0">
+<div id="newsletter">
+	<div id="newsletter_hdr">
+		Our Newsletter
+	</div>
+	<div id="newsletter_txt" class="SansSmall">
+	
 		
-			Special offers, gardening tips, new introductions, etc:
+			Special offers, gardening tips, and new introductions via email. View our
+			<a class="cs_small" href="http://www.bluestoneperennials.com/privacypolicy.html">privacy policy</a>
 		
-	</p>
-	<input type="text" name="email" value="your email" size="15" onfocus="this.value=''">
-	<input type="submit" value="Subscribe" style="text-transform:uppercase;width:auto" class="f_sub_button">
-	<a class="cs_small" href="http://www.bluestoneperennials.com/privacypolicy.html">privacy</a>
+	
+	</div>
+	<form action="http://www.bluestoneperennials.com/privacypolicy.html" method="POST" name="emailsignup" id="emailsignup">
+	<div id="newsletter_frm">
+			<input type="hidden" name="mv_action" value="return">
+			<input type="hidden" name="mv_form_profile" value="check_email">
+			<input type="hidden" name="mv_click" value="email_sub">
+			<input type="hidden" name="back_to" value="privacypolicy">
+			<input type="text" name="email" value="Email Address" size="15" onfocus="this.value=''" class="nl_frm_input">
+			<input type="submit" value="SIGN UP" class="nl_button_small">
+	</div>
+	</form>
 </div>
-</form>
 
 			</div>
 		</div>
@@ -991,8 +1176,7 @@ From time to time we may establish a business partnership with other companies w
 	<div id="faddress">  
 		<div class="hdr2">Call Us Toll Free</div>
 			800-852-5243<br>
-			Mon-Fri 9-5 (ET)<br>
-			Sat 9-4 (ET)<br>
+			Mon-Fri 9-5 (ET)<br>			
 		<br>
 		<div class="hdr2">Mailing Address</div>
 		<div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
@@ -1049,7 +1233,7 @@ From time to time we may establish a business partnership with other companies w
 	<div id="ftr_links_col_3">
 		<div class="hdr2">Gardening Help</div>
 		<a href="http://www.bluestoneperennials.com/cocopot.html">
-			About Coco Pots<br>
+			About Our Pots<br>
 		</a>
 		<a href="http://www.bluestoneperennials.com/n_search.html">
 			Plant Finder<br>
@@ -1080,7 +1264,7 @@ From time to time we may establish a business partnership with other companies w
 
 	</div>
 	<div id="copyright_2012">
-		Copyright © 1997 - 2012 &nbsp;
+		Copyright © 1997 - 2013 &nbsp;
 		Bluestone Perennials, Inc.
 		&nbsp;&nbsp; View our <a href="http://www.bluestoneperennials.com/privacypolicy.html" class="copyright_2012_lnk">Privacy Policy.</a> 
 	</div>	
@@ -1143,6 +1327,24 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 </script>
 <!-- End CrazyEgg -->
+
+
+<!-- Google Code for Remarketing tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+	var google_conversion_id = 1008004617;
+	var google_conversion_label = "cHKaCK_X7AQQidzT4AM";
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1008004617/?value=0&amp;label=cHKaCK_X7AQQidzT4AM&amp;guid=ON&amp;script=0"/>
+	</div>
+</noscript>
 
 
 
