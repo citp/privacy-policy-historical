@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherboards.org privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526232023id_/http%3A//www.motherboards.org/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherboards.org privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125015402id_/http%3A//www.motherboards.org/content/privacy) for the most accurate reproduction.*
 
 # Privacy | motherboards.org | ChannelProReviews
 
