@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ponoko.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531124841id_/https%3A//www.ponoko.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ponoko.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125013718id_/https%3A//www.ponoko.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Copyright and intellectual property - Legal Stuff - Ponoko
 
@@ -42,4 +42,4 @@ Whenever Ponoko changes its privacy policy, we will post those changes here, and
 
 ### Contact information
 
-If you have any questions or suggestions about our privacy policy, please contact us .
+If you have any questions or suggestions about our privacy policy, please [contact us](https://web.archive.org/about/contact).
