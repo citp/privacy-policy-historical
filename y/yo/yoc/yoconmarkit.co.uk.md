@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoconmarkit.co.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602202808id_/http%3A//yoconmarkit.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoconmarkit.co.uk privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125181804id_/http%3A//yoconmarkit.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,4 +34,4 @@ We reserve the right to make changes to this policy. Any changes to this policy 
 
 advertisement
 
-[](http://www.awin1.com/cread.php?s=36282&v=978&q=25308&r=134326)
+[](http://www.awin1.com/cread.php?s=292190&v=4119&q=137921&r=134326)
