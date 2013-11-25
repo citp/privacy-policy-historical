@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aissystem.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530234408id_/http%3A//www.aissystem.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aissystem.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125164534id_/http%3A//www.aissystem.com/Privacy.html) for the most accurate reproduction.*
 
 # Automated Income Streams - AIS System by Chris Cobb
 
@@ -14,5 +14,5 @@ As a member of "AIS System" you will receive updates, news and special offers fr
 **Data Security**  
 To prevent data theft or unauthorized use, and ensure proper data storage procedures, we have put into place cutting edge encryption and server equipment and management to safeguard and secure all data and PII. Automated Income Streams Ltd is a Data Protection registered company.
 
-**Automated Income Stream Ltd** : Suite 127, Communications House, 9 St Johns Street, Colchester, Essex CO2 7NN United Kingdom  
+**1K System Ltd** : Suite 127, Communications House, 9 St Johns Street, Colchester, Essex CO2 7NN United Kingdom  
 Registered Number: 6307027. Data Protection Registration: Z1030471
