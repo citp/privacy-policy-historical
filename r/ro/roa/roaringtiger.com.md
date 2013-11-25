@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roaringtiger.com privacy policy that was archived on 2012-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120312160010id_/http%3A//www.roaringtiger.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roaringtiger.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125143514id_/http%3A//www.roaringtiger.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # Roaring Tiger | Privacy Policy
 
