@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the luggageonline.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526151525id_/http%3A//www.luggageonline.com/customer-service/privacy-security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luggageonline.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125032642id_/http%3A//www.luggageonline.com/customer-service/privacy-security/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Get quick answers to your questions by looking through the categories below and clicking on the subject pertaining to your question. If you can't find the information you're looking for, use our contact us form, or call **1-888-958-4424** to speak with a customer service representative.
 
 Luggage Online is committed to maintaining your confidence and trust. We respect your privacy and are committed to protecting the personal information you provide online. We've provided this notice to explain how we collect and use and your personal information. If you have any questions regarding this policy, you may direct them to [tjacobsen@luggageonline.com](mailto:tjacobsen@luggageonline.com).
 
