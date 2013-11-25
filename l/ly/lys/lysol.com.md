@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lysol.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613182043id_/https%3A//www.lysol.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lysol.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125020827id_/http%3A//www.lysol.com/info/privacy-policy) for the most accurate reproduction.*
 
-# LYSOL® Privacy Policy | Reckitt Benckiser LLC
+# Lysol® Privacy Policy | Reckitt Benckiser LLC
 
 ## Reckitt Benckiser LLC (USA) ("Reckitt Benckiser")   
 Privacy Statement for Public Web Sites
