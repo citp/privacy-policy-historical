@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the smartyhost.com.au privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531140916id_/http%3A//smartyhost.com.au/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartyhost.com.au privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125201730id_/http%3A//smartyhost.com.au/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Information Collection** **and Use**   
-SmartyHost, a business unit of MYOB Australia E1 Pty Ltd, is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. SmartyHost collects information from our users at several different points on our website.
+SmartyHost, a business unit of Uber Australia E1 Pty Ltd, is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. SmartyHost collects information from our users at several different points on our website.
 
 **Order**  
 We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
