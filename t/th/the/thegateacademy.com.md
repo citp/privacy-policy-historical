@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thegateacademy.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529192830id_/http%3A//thegateacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegateacademy.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125054223id_/http%3A//thegateacademy.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy - GATE 2014, The Gate Academy offers GATE Classroom Coaching, GATE Correspondence course .. : GATE 2014, The Gate Academy offers GATE Classroom Coaching, GATE Correspondence course ..
+# Privacy Statement | THE GATE ACADEMY
 
-You are here: [Home](http://thegateacademy.com/) / Privacy Policy
-
-**THE GATE ACADEMY Privacy Policy**
+You are here: [Home](http://thegateacademy.com/) / Privacy Statement
 
 This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information.  
 Please read this privacy policy to learn more about the ways in which we use and protect your personal information. By accepting the Privacy Policy and Service Agreement in registration or by visiting and using the Site, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the THE GATE ACADEMY Service Agreement
@@ -28,14 +26,14 @@ Tracking technologies may record information such as Internet domain and host na
 
 **What do we use this information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
-  * To personalize you experience
-  * To maintain your feedback to improve our website(your feedback help us to better respond to your individual needs).
-  * To help you in your Exam preparation. We maintain your information to record your test history, your discussion history etc.
-  * To help you track your college applications and reduce efforts
-  * To send periodic emails
-
+>   * To personalize you experience
+>   * To maintain your feedback to improve our website(your feedback help us to better respond to your individual needs).
+>   * To help you in your Exam preparation. We maintain your information to record your test history, your discussion history etc.
+>   * To help you track your college applications and reduce efforts
+>   * To send periodic emails
+> 
 
 
 **Do we disclose any information to outside parties?  **
