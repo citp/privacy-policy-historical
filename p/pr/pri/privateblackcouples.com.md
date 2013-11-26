@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privateblackcouples.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531122547id_/http%3A//privateblackcouples.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privateblackcouples.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127002618id_/http%3A//privateblackcouples.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Private Black Couples
 
