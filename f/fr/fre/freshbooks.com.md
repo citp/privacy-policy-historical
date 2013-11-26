@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629153025id_/http%3A//www.freshbooks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126091141id_/http%3A//www.freshbooks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy For FreshBooks Apps, Services and Web Site
 
 ## Privacy Policy
 
-#### Last Updated: February 8, 2011
+#### Last Updated: October 9, 2013
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.freshbooks.com/seal_m "Validate TRUSTe privacy certification")
 
@@ -34,7 +34,7 @@ You always have the option to not provide information by choosing not to become 
 
 If you are a Subscriber, we collect your credit card information for billing purposes. And if you are a Customer who wishes to pay amounts to a Subscriber on a recurring basis, we collect and store your credit card information for payment purposes.
 
-We also automatically track certain information about you based upon your behaviour on our Site. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on our Site or not), which URL you next go to (whether this URL is on our Site or not), your computer browser information, and your IP address.
+We also automatically track certain information about you based upon your behaviour on our Site. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on our Site or not), which URL you next go to (whether this URL is on our Site or not), your computer browser information, and your IP address. We may provide Customers' IP addresses to payment intermediaries in the course of the payment process.
 
 “Cookies” are small files placed on your hard drive that assist us in providing our services. We use cookies to allow you to enter your password less frequently during a session, and we use data collection devices (such as Google Analytics), including cookies, on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety, to offer certain features that are only available through the use of a cookie and to allow us to provide information that is targeted to your interests. We link the information we store in our cookies to personally identifiable information you submit when you create a FreshBooks account. We may use third-party service provides to assist us in monitoring your use of the Site. Information collected by these cookies is also governed by this privacy policy.
 
@@ -48,7 +48,7 @@ We will share your personal information with third parties only in the ways that
 
 Subscribers and Customers, Etc. In the normal operation of the Site Subscriber timesheets (including information entered by “staff” members) and invoices are disclosed to the applicable Customers, and Customer information is disclosed to the applicable Subscriber. In general, information you enter on the Site is available to the other persons – whether they are Customers, Subscribers, staff members or others – to whom you give access to your account or to whom you give access to the information through the normal operation of the Site.
 
-Payment Information. We use credit card and other payment information (such as PayPal email addresses) you submit to us on the Site to process payments you make through the Site. We do not store credit card or other payment method information unless the Subscriber or their Customers choose to enter credit card information for use in the FreshBooks recurring profiles module; in all other cases financial institutions (like PayPal, Authorize.net and PSiGate) have the sole and complete responsibility for the storage of credit card and payment information.
+Payment Information. We use credit card and other payment information (such as PayPal email addresses) you submit to us on the Site, and other information that we collect, as required, to process payments you make through the Site. We do not store credit card or other payment method information unless the Subscriber or their Customers choose to enter credit card information for use in the FreshBooks recurring profiles module; in all other cases financial institutions (like PayPal, Authorize.net and PSiGate) have the sole and complete responsibility for the storage of credit card and payment information.
 
 Anonymized Aggregated Data. We aggregate and anonymize sales information including (but not limited to) industry type, number of invoices sent, average invoice size, method of sending invoices, percentage paid online, sales amounts and average sale per customer, and disclose such information in a non-personally identifiable manner to Subscribers. However, in these situations, we do not disclose any information that could be used to identify you personally.
 
@@ -100,7 +100,7 @@ As we continue to refine FreshBooks we will establish a method for the complete 
 
 ### Notification of Privacy Statement Changes
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ### Questions?
 
