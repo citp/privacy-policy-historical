@@ -1,22 +1,23 @@
-> *The following text is extracted and transformed from the oteupload.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109042620id_/http%3A//oteupload.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oteupload.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126131214id_/https%3A//www.oteupload.com/privacy.php) for the most accurate reproduction.*
 
-# OTEUpload.com - Easy way to share your files
+# OTEUpload.com - Simplify your online backup
 
-### Privacy Policy
+  |   
 
-**OTE Upload Privacy Policy**
 
-OTE Upload is a provider of online file storage service. Your use of the [Oteupload](http://www.oteupload.com/) site is governed by OTE Upload Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.
+**OTEUpload Privacy Policy**
 
-OTE Upload ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate.
+OTEUpload is a provider of online file storage service. Your use of the [OTEUpload](https://www.oteupload.com/) site is governed by OTEUpload Terms and Conditions and this Privacy Policy. The purpose of this Privacy Policy is to inform you about the service we provide, about the ways how the personal information you submit to us may be used, and how this information is protected on our website.
+
+OTEUpload ("us" or "we") respects the privacy of the visitors on its website. We may update this policy from time to time, so we ask you to check the policy regularly. We will notify you about significant changes by placing a prominent notice on this page and other places we find appropriate.
 
   
 **Your information during the registration**  
-OTE Upload stores an e-mail address you specify when you register with us, and your name if it is indicated in the user profile. OTE Upload does not rent, sell, or share personal information about you with non-affiliated companies. Also, IP addresses are logged and used to identify our visitors as well as manage download limitations and user sessions. 
+OTEUpload stores an e-mail address you specify when you register with us, and your name if it is indicated in the user profile. OTEUpload does not rent, sell, or share personal information about you with non-affiliated companies. Also, IP addresses are logged and used to identify our visitors as well as manage download limitations and user sessions. 
 
   
 **Your account password**  
-Please note that it is your responsibility to keep the password confidential, so do not share it with anyone. If you use a public PC, make sure you log out prior to leaving OTE Upload site. You are solely responsible for keeping your password inviolable.
+Please note that it is your responsibility to keep the password confidential, so do not share it with anyone. If you use a public PC, make sure you log out prior to leaving OTEUpload site. You are solely responsible for keeping your password inviolable.
 
   
 **Certain exceptional disclosures**  
@@ -33,7 +34,7 @@ We do not own your account content, and will access your files for troubleshooti
 
   
 **Using cookies**  
-OTE Upload uses cookies in order to track and analyze preferences of our users and, as a result, improve our site. A cookie is an encrypted number, generated when you visit any site that supports sessions. This cookie is saved permanently on your computer. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie.We also collect such information as your operating system, browser version and the size of your screen. We use these details for marketing purposes also. This information is collected in the form of the usual web server logs and cookies. 
+OTEUpload uses cookies in order to track and analyze preferences of our users and, as a result, improve our site. A cookie is an encrypted number, generated when you visit any site that supports sessions. This cookie is saved permanently on your computer. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie.We also collect such information as your operating system, browser version and the size of your screen. We use these details for marketing purposes also. This information is collected in the form of the usual web server logs and cookies. 
 
   
 **Third party cookies**  
@@ -47,16 +48,18 @@ If you want to change any personal information provided to us, feel free to cont
   
 **How we protect your information**
 
-Any information collected and processed within OTE Upload is treated with the utmost confidentiality. OTE Upload will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through us will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We encrypt the information you submit to OTE Upload with VeriSign 256-bit SSL certificate.Automated and scheduled backups of your files make the service secure and safe for you. 
+Any information collected and processed within OTEUpload is treated with the utmost confidentiality. OTEUpload will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through us will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We encrypt the information you submit to OTEUpload with VeriSign 256-bit SSL certificate.Automated and scheduled backups of your files make the service secure and safe for you. 
 
   
 **Credit card security**  
-All purchases on OTE Upload are handled by third party payment systems: PayPal.com, SegPay.com, etc. OTE Upload does not arrange and/or save numbers or any information from your credit cards.
+All purchases on OTEUpload are handled by third party payment systems: PayPal.com, SegPay.com, etc. OTEUpload does not arrange and/or save numbers or any information from your credit cards.
 
   
 **External links**  
-If any part of the OTE Upload website links you to other websites, those websites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using and disclosing personal information.
+If any part of the OTEUpload website links you to other websites, those websites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using and disclosing personal information.
 
   
 **Contact information**  
-Should you have any questions or concerns regarding this Privacy Policy, please _[contact us](http://oteupload.com/contact.html)_. ****
+Should you have any questions or concerns regarding this Privacy Policy, please _[contact us](https://www.oteupload.com/contact.html)_. ****
+
+|  
