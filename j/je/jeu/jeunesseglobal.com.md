@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeunesseglobal.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502221334id_/http%3A//jeunesseglobal.com/docs/JeunesseGlobalPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeunesseglobal.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126040400id_/http%3A//www.jeunesseglobal.com/docs/JeunesseGlobalPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Jeunesse
 
