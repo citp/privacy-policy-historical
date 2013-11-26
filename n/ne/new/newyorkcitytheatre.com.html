@@ -1,109 +1,25 @@
-<!--The following is the downloaded HTML source of the newyorkcitytheatre.com privacy policy that was archived on 2013-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510215545id_/http%3A//www.newyorkcitytheatre.com/common/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newyorkcitytheatre.com privacy policy that was archived on 2013-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126121633id_/http%3A//www.newyorkcitytheatre.com/common/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-   <title>New York City Theater - Privacy</title>
-	 <meta property="fb:admins" content="889925073">	 
-      <base href="http://www.newyorkcitytheatre.com/">
-	
-	<link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/theatreland.curran.css">
-	<link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/newyorkcitytheatre.com.css">
-	<link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/calendar.curran.css">
-	<link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/widget.curran.css">
-	<link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/custom-theme/jquery-ui-1.8.9.custom.css">	
-	<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/theatreland_ie6.css" /><![endif]-->
-	<style type="text/css">
-		@media only screen and (max-device-width: 1024px) {
-			.top { margin-left: 10px; width: 170px;}
-			.dontmiss { margin-left: 10px; width: 469px;}
-			.facebookLike {left:-115px;}
-			.google {margin-right:20px;}			
-		}
-	</style>
-	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.min.js"></script>
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>	
-	<script type="text/javascript" src="http://static.newyorkcitytheatre.com/js/CalendarPopup.js"></script>
-	
-	<script type="text/javascript">
-	$(document).ready(function() {$('.hoverBar').toggle(openNav, closeNav);});
-	$(document).ready(function() {
-			
-			$('.hoverBar').hover(function() {
-	      $('.linkHide').addClass('linkHideOn');
-	    }, function() {
-	      $('.linkHide').removeClass('linkHideOn');
-	    });		
-			
-			$('.hoverBar').hover(function() {
-	      $('.linkBtn').addClass('linkBtnOn');
-	    }, function() {
-	      $('.linkBtn').removeClass('linkBtnOn');
-	    });
-		
-	});
-	var handler = function() {return false;};
-	function openNav(){
-		_gaq.push(['a._trackEvent', 'Primary Navigation', 'Open']);
-		$('.navHover').animate({"top": 0}, 360);
-		$('#hoverBarId').toggleClass("hoverBar hoverBarOpen");
-		//Close on click anywhere other than the details section
-		$(document).click(function() { closeNav();});
-		$(".details").click(handler);
-		$(".details a").click( function(event) {
-		    event.stopPropagation();
-		} );
-	}
-	function closeNav(){
-		_gaq.push(['a._trackEvent', 'Primary Navigation', 'Close']);
-		$(document).unbind('click');
-		$(".details").unbind('click', handler);
-		$('#hoverBarId').toggleClass("hoverBarOpen hoverBar");
-		$('.navHover').animate({"top": -320}, 360);
-	}
-	function recordTicketRequest(link, eventName, venueName, value) {
-		_gaq.push(['a._trackEvent', 'Other Ticket request', eventName, venueName, value]);
-		_gaq.push(['b._trackEvent', 'Other Ticket request', eventName, 'site: nyct venue: ' + venueName, value]); 		
-		if (link.target.toLowerCase() == '_blank') {
-			setTimeout('window.open("' + link.href + '","_blank")', 100);
-		} else setTimeout('document.location = "' + link.href + '"', 100);	
-	}		
-	function recordOutboundLink(link, cat, act, jsNewWindow) {
-		if (!cat) var cat = 'Outgoing';
-		if (!act) var act = 'Link';
-		if (!jsNewWindow) var jsNewWindow = true;
-		_gaq.push(['a._trackEvent', cat, act, link.href]); 
-		_gaq.push(['b._trackEvent', cat, act, 'site: nyct link: ' + link.href]); 		
-		if (link.target.toLowerCase() == '_blank' && jsNewWindow.toLowerCase() == true) {
-			setTimeout('window.open("' + link.href + '","_blank")', 100);
-		} else setTimeout('document.location = "' + link.href + '"', 100);
-	}
-	$.widget( "custom.catcomplete", $.ui.autocomplete, {
-		_renderMenu: function( ul, items ) {
-			var self = this,
-				currentCategory = "";
-			$.each( items, function( index, item ) {
-				if ( item.category != currentCategory ) {
-					ul.append( "<li class='ui-autocomplete-category'>" + item.category + "</li>" );
-					currentCategory = item.category;
-				}
-				self._renderItem( ul, item );
-			});
-		}
-	});
-	$(function() {
-		$( "#searchBox" ).catcomplete({
-			delay: 0,
-			source: '/rootincludes/search_data_process.php',
-			minLength: 2,
-			select: function( event, ui ) {
-				document.location.href = 'http://' + document.location.hostname + '/' + ui.item.url + '?q=' + ui.item.label + '&cat=' + ui.item.category;
-			}
-		});
-	});
-</script>	
-	<script src="http://static.newyorkcitytheatre.com/js/swfobject_modified.js" type="text/javascript"></script> 
+<!DOCTYPE html><html><head>
+    <base href="http://www.newyorkcitytheatre.com/">       
+	<meta charset="utf-8">
+    <title>New York City Theater - Privacy Policy</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+	<!--<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">-->
+    <!-- styles -->      
+    <link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/custom-theme/jquery-ui-1.8.9.custom.css">
+    <link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/dickens.main.css">
+    <link rel="stylesheet" type="text/css" href="http://static.newyorkcitytheatre.com/styles/dickens.newyorkcitytheatre.com.css">
+    <!-- jQuery -->
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.newyorkcitytheatre.com/js/dickens.modernizr.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="http://static.newyorkcitytheatre.com/js/jquery-migrate.js"></script>
+    <script type="text/javascript" src="http://static.newyorkcitytheatre.com/js/dickens.jquery-plugins.js"></script>
+    <script type="text/javascript" src="http://static.newyorkcitytheatre.com/js/dickens.jquery-funcs.js"></script>
 	<script type="text/javascript">
 	var _gaq = _gaq || [];
 	_gaq.push(['a._setAccount', 'UA-30538326-1']);
@@ -138,300 +54,410 @@
 <script type="text/javascript">
 googletag.cmd.push(function() {
 	googletag.defineSlot('/1305719/nyct_all_bottom_right_160x600', [160, 600], 'nyct_ad_bottom_right').addService(googletag.pubads());
+	googletag.defineSlot('/1305719/nyct_all_bottom_120x600', [120, 600], 'nyct_ad_bottom_right_small').addService(googletag.pubads());
+	googletag.defineSlot('/1305719/nyct_all_bottom_300x600', [300, 600], 'nyct_ad_bottom_right_large').addService(googletag.pubads());
+	googletag.defineSlot('/1305719/nyct_all_bottom_300x250', [300, 250], 'nyct_ad_bottom_right_mobile').addService(googletag.pubads());
+	googletag.defineSlot('/1305719/nyct_163x200_right', [163, 200], 'nyct_ad_right').addService(googletag.pubads());
 	googletag.pubads().enableSingleRequest();
 	googletag.enableServices();
 });
-</script></head>
-<body>
-
+</script>
+    <!--add page/section-specific css & js files below here-->
+	    
+</head>
+<body class="loading">
 	<!-- top banner -->
-	<!-- new nav start -->
-<div class="bannerInf bannernyct">
-	<div class="navHover"> <img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_icon_close.gif" class="searchIconClose">
-		<div class="details">
-			<div class="innerBlock top">
-				<h2 class="heading1"><img src="http://static.newyorkcitytheatre.com/images/misc/tl_listing_star.png" class="listingStar hovNav">CATEGORIES</h2>
-				<p><a href="/index.php">Top Shows</a></p>
-				<p><a href="/index_musical.php">Musicals</a></p>
-				<p><a href="/index_play.php">Plays</a></p>
-				<p><a href="/index_comedy_theatre.php">Comedy Theatre</a></p>
-				<p><a href="/index_off_broadway.php">Off Broadway</a></p>
-				<p><a href="/index_concert.php">Concerts</a></p>
-				<p><a href="/index_family.php">Family Shows</a></p>
-			</div>
-			<div class="innerBlock season">
-				<h2 class="heading1"><img src="http://static.newyorkcitytheatre.com/images/misc/tl_listing_star.png" class="listingStar hovNav">CURRENT HIGHLIGHTS ON BROADWAY</h2>
-				<div class="smallPoster"><a href="/theaters/eugeneoneilltheater/book-of-mormon.php"><img class="smallPosterImg" height="120" src="http://static.newyorkcitytheatre.com/images/show/03411_show_portrait_small.jpg">MAY '13</a></div><div class="smallPoster"><a href="/theaters/shuberttheater/matilda.php"><img class="smallPosterImg" height="120" src="http://static.newyorkcitytheatre.com/images/show/07879_show_portrait_small.jpg">MAY '13</a></div><div class="smallPoster"><a href="/theaters/booththeater/ill-eat-you-last-a-chat-with-sue-mengers.php"><img class="smallPosterImg" height="120" src="http://static.newyorkcitytheatre.com/images/show/08624_show_portrait_small.jpg">MAY '13</a></div><div class="smallPoster"><a href="/theaters/luntfontannetheater/motown-the-musical.php"><img class="smallPosterImg" height="120" src="http://static.newyorkcitytheatre.com/images/show/08001_show_portrait_small.jpg">MAY '13</a></div><div class="smallPoster"><a href="/theaters/broadhursttheater/lucky-guy.php"><img class="smallPosterImg" height="120" src="http://static.newyorkcitytheatre.com/images/show/08241_show_portrait_small.jpg">MAY '13</a></div><div class="smallPoster"><a href="/theaters/lyceumtheater/the-nance.php"><img class="smallPosterImg" height="120" src="http://static.newyorkcitytheatre.com/images/show/08277_show_portrait_small.jpg">MAY '13</a></div>			</div>
-			<div class="innerBlock dontmiss">
-				<h2 class="heading1"><img src="http://static.newyorkcitytheatre.com/images/misc/tl_listing_star.png" class="listingStar hovNav">DON'T MISS!</h2>
-				<p><a href="/index_critics_pick.php">Critics Picks</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/index_celeb_on_stage.php">Stars on Stage</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/index_tony_winner.php">Tony Award Winners</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/index_comedy.php">Stand-Up</a></p>
-			</div>
-			<div class="innerBlock search">
-				<h2 class="heading1"><img src="http://static.newyorkcitytheatre.com/images/misc/tl_listing_star.png" class="listingStar hovNav">SEARCH</h2>
-				<img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_icon_btn2.gif" class="searchIcon2" alt="search">
-				<input id="searchBox" type="text" class="formField">
-			</div>
-		</div>
-		<div class="hoverBar">
-			<div class="linkBtnContainer">
-				<div class="linkHide2"></div>
-				<div class="linkHide"></div>
-				<div class="linkBtn">
-					<img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_arrow_hover2.gif" class="searchIconHover">
-					<h2 class="heading1 hov">FIND A SHOW OR VENUE</h2>
-					<img src="http://static.newyorkcitytheatre.com/images/misc/tl_search_icon2.gif" class="searchIconGlass">
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="helpline">
-		<p>Order by Phone</p>
-		<h2><a href="tel:(800) 901-4092">(800) 901-4092</a></h2>
-		<img src="http://static.newyorkcitytheatre.com/images/ico-phone.png">
-	</div>	
+	<script>
+var _prum = [['id', '52860ac1abe53d256d000000'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+<div class="topNav">
+	<div class="topNavContent">
+    	<div class="innerBlock categories">
+            <img class="titleStar" src="http://static.newyorkcitytheatre.com/images/icons/icon_star.png" alt="">
+            <h3>Categories</h3>
+            <div class="clear"></div>
+            		<p><a href="/index_big_site_top_show.php">Top Shows</a></p>
+		<p><a href="/index_musical.php">Musicals</a></p>
+		<p><a href="/index_play.php">Plays</a></p>
+		<p><a href="/index_family.php">Family Shows</a></p>
+		<p><a href="/index_comedy_theatre.php">Comedy Theatre</a></p>
+		<p><a href="/index_off_broadway.php">Off Broadway Shows</a></p>
+		<p><a href="/index_holiday.php">Holiday Shows</a></p>
+            <div class="clear"></div>
+        </div>        
+        <div class="innerBlock current">
+            <img class="titleStar" src="http://static.newyorkcitytheatre.com/images/icons/icon_star.png" alt="">
+            <h3>Current Highlights on Broadway</h3>
+<div class="clear"></div>
+<div class="smallPoster">
+	<a href="/theaters/eugeneoneilltheater/book-of-mormon.php"><img src="http://static.newyorkcitytheatre.com/images/show/03411_show_portrait_small.jpg" alt="" title=""><p>Nov '2013</p>	</a>
 </div>
-<!-- new nav finish -->
+<div class="smallPoster">
+	<a href="/theaters/gershwintheater/wicked.php"><img src="http://static.newyorkcitytheatre.com/images/show/00378_show_portrait_small.jpg" alt="" title=""><p>Nov '2013</p>	</a>
+</div>
+<div class="smallPoster">
+	<a href="/theaters/alhirschfeldtheater/kinky-boots.php"><img src="http://static.newyorkcitytheatre.com/images/show/07964_show_portrait_small.jpg" alt="" title=""><p>Nov '2013</p>	</a>
+</div>
+<div class="smallPoster">
+	<a href="/theaters/shuberttheater/matilda.php"><img src="http://static.newyorkcitytheatre.com/images/show/07879_show_portrait_small.jpg" alt="" title=""><p>Nov '2013</p>	</a>
+</div>
+<div class="smallPoster">
+	<a href="/theaters/minskofftheater/the-lion-king.php"><img src="http://static.newyorkcitytheatre.com/images/show/00380_show_portrait_small.jpg" alt="" title=""><p>Nov '2013</p>	</a>
+</div>
+<div class="smallPoster">
+	<a href="/theaters/walterkerrtheater/a-gentlemans-guide-to-love-and-murder.php"><img src="http://static.newyorkcitytheatre.com/images/show/08869_show_portrait_small.jpg" alt="" title=""><p>Nov '2013</p>	</a>
+</div>
+<div class="smallPoster display1280">
+	<a href="/theaters/imperialtheater/billy-crystal-700-sundays.php"><img src="http://static.newyorkcitytheatre.com/images/show/01644_show_portrait_small.jpg" alt="" title=""><p>Nov '2013</p>	</a>
+</div>
+<div class="smallPoster display1366">
+	<a href="/theaters/belascotheater/twelfth-night.php"><img src="http://static.newyorkcitytheatre.com/images/show/08921_show_portrait_small.jpg" alt="" title=""><p>Nov '2013</p>	</a>
+</div>
+<div class="clear"></div>
+        </div>        
+        <div class="clearTopNav"></div>        
+        <div class="innerBlock lastChance">
+            <img class="titleStar" src="http://static.newyorkcitytheatre.com/images/icons/icon_star.png" alt="">
+            <h3>TOP VENUES</h3>
+            <div class="clear"></div>
+			<p><a href="/theaters/eugeneoneilltheater/theater.php">Eugene O'Neill Theatre</a></p><p><a href="/theaters/minskofftheater/theater.php">Minskoff Theater</a></p><p><a href="/theaters/gershwintheater/theater.php">Gershwin Theater</a></p><p><a href="/theaters/alhirschfeldtheater/theater.php">Al Hirschfeld Theater</a></p><p><a href="/theaters/shuberttheater/theater.php">Shubert Theatre</a></p><p><a href="/theaters/lyceumtheater/theater.php">Lyceum Theater</a></p><p><a href="/theaters/walterkerrtheater/theater.php">Walter Kerr Theater</a></p><p><a href="/theaters/majestictheater/theater.php">Majestic Theater</a></p>            <div class="clear"></div>
+        </div>    	
+        <div class="innerBlock search">
+            <img class="titleStar" src="http://static.newyorkcitytheatre.com/images/icons/icon_star.png" alt="">
+            <h3>Search</h3>
+            <div class="clear"></div>
+            <input type="text" class="formField ui-autocomplete-input" placeholder="Start typing a show / venue name" id="searchBox" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+        </div>
+      <div class="clear"></div>    
+    </div>        
+    <div class="topNavBtnContainer">
+        <div class="topNavBtn">
+            <div class="hide"></div>
+            <div class="arrowUp"></div>
+            <div class="arrowDown"></div>
+            <h3>Find a show or venue</h3>
+            <img src="http://static.newyorkcitytheatre.com/images/icons/icon_search.png" alt="Search">
+            <div class="clear"></div>
+        </div>
+    </div>
+	<div class="clear"></div>    
+</div>
+<div class="topBannerContainer">
+    <div class="topBanner">
+        <div class="helpline">
+            <p>Order by phone</p>
+            <div class="clear"></div>
+            <h4><a href="tel:(800) 901-4092">(800) 901-4092</a></h4>
+            <a href="tel:(800) 901-4092"><img src="http://static.newyorkcitytheatre.com/images/icons/icon_telephone.png"></a>
+        </div>
+        <div class="logo">
+            <a href="/">New York City Theater</a>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<div class="topLine"></div>
 	<!-- /top banner -->
 
-	<div id="all">
-		<!--Banner + Nav Start -->
-		<div id="banner"> 
-			<a href="http://www.newyorkcitytheatre.com"><div class="homeButton"></div></a>
+<!-- content start -->
+<div class="content venue">
+
+    <div class="leftCol">
+
+	    <div class="contentHeader">
+            <h1>PRIVACY POLICY</h1>
+            <p><a href="http://www.newyorkcitytheatre.com/">New York City Theater</a> is firmly committed to protecting your privacy while you are visiting our Web site. The following Privacy Policy discloses the information gathering and dissemination practices for&nbsp;<a href="http://www.newyorkcitytheatre.com/">www.newyorkcitytheatre.com</a>.&nbsp;</p>
 		</div>
-		<!--Banner + Nav Finish -->
-		<div class="gradient"></div>	
 
+		<!-- main content area starts -->
 
-		<div id="contentLeft">
+		<div class="basicCol">
 
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">INFORMATION THIS SITE GATHERS/TRACKS</h3>
+                <div class="clear"></div>
+                
+                <div class="faqAnswer">
+                    <p>We use your IP address and browser type to help diagnose problems with our server and to administer our Web site. This means that a user's session will be tracked, but the user will remain anonymous. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. This means that although your IP address may be associated during your session it is not permanently associated with any of your personal information.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
+          
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">REGISTRATION</h3>
+                <div class="clear"></div>
+                
+                <div class="faqAnswer">
+	                <p>You can browse our site without entering any personal information and, therefore, remain anonymous during your visit. However, we hope that all of our visitors will <a href="/users/register.php">register with us</a> so that we can learn more about our valuable customers. Our site's optional <a href="/users/register.php">registration form</a> requires users to give us contact information (such as their name and email address) for us to send the user relevant newsletters and special offers. Users may opt-out of receiving any communications from our company at any time. Please review our <a href="/common/privacy.php#optout">Opt-Out Policy</a> below.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
+          
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">COOKIES</h3>
+                <div class="clear"></div>
+                
+                <div class="faqAnswer">
+	                <p>Our site uses cookies to keep track of your shopping cart. Upon your request we can use cookies to deliver content specific to your interests and to save your password so that you do not have to re-enter it each time you visit our site. <a href="/common/privacy_cookies.php">Details on Cookies and how they benefit you</a>.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">GOOGLE ANALYTICS</h3>
+                <div class="clear"></div>
+                
+                <div class="faqAnswer">
+	                <p>We use Google Analytics to monitor and improve the performance of our site. Google Analytics is a web analysis service provided by Google. Google utilises the data collected to track and examine the use of our site, to prepare reports on its activities and share them with other Google services.<br>
+Google may use the data collected to contextualise and personalise the ads of its own advertising network.</p>
+<p>Personal data collected: Cookie, Demographic and Usage Data.&nbsp;Place of processing: USA. Find Google's <a href="http://www.google.com/intl/en/policies/privacy/" target="_blank">privacy policy here</a>.</p>
+<p>Users may opt out of the use of the cookie for interest-based advertising by visiting <a target="_blank" href="http://www.google.com/ads/preferences/">Ads Settings</a>. </p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">GOOGLE ADVERTISING</h3>
+                <div class="clear"></div>
+                
+                <div class="faqAnswer">
+	                <p>Our site also uses Google to display certain adverts on the site.  Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.</p>
+<p>Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting <a target="_blank" href="http://www.google.com/ads/preferences/">Ads Settings</a>. </p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
 
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">LINKS</h3>
+                <div class="clear"></div>
+                
+                <div class="faqAnswer">
+	                <p>This site contains links to other sites. <a href="http://www.newyorkcitytheatre.com/">New York City Theater</a> is not responsible for the privacy practices or the content of such Web sites. We encourage you to read posted privacy statements whenever interacting with any Web site. We will not share any specific information that you provide to us without your explicit permission to share it.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
+
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">ORDER FORM</h3>
+                <div class="clear"></div>
+                
+                <div class="faqAnswer">
+	                <p>This Web site uses the internet's leading ticket reseller <a href="http://www.ticketnetwork.com">TicketNetwork.com</a> for the purchase of tickets. Please refer to <a href="http://www.ticketnetwork.com">TicketNetwork.com</a> for their privacy policy</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
+  
+
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">SECURITY</h3>
+                <div class="clear"></div>
+                
+                <div class="faqAnswer">
+	                <p>This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All transactions are placed on our secure server and are encrypted with full 128-bit encryption. All transactions must be placed with a secure browser for customers to take advantage of this secure service.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
+
+			<!--posting start --->
+            <a name="optout"></a>
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">OPT-OUT POLICY</h3>
+                <div class="clear"></div>
+                
+                <div class="faqAnswer">
+	                <p>You may choose to opt-out of receiving future communications from New York City Theater. If you do not want to receive our event newsletters or special offers, simply fill out the <a href="http://www.newyorkcitytheatre.com/users/newsletters/unsubscribe.php?email=">unsubscribe form</a>.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
+
+			<!--posting start --->
+            <div class="postingLeftPad">    
+				<img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
+                <h3 class="iconTitle">CONTACT US</h3>
+                <div class="clear"></div>
+                
+                <div class="faqAnswer">
+	                <p>If you have any questions about this privacy statement or the security practices of this site, please <a href="http://www.newyorkcitytheatre.com/customer-support/leaving_feedback.php">contact us</a>.</p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <!--posting finish --->
+        
+        <div class="clear"></div>
+      </div>
+        <div class="clear"></div>
+			
+    </div>
+	<!-- LeftCol finish -->
+	
+	<!-- right banner -->
+	<!--rightcol start-->
+<div class="rightCol home">
+    <div class="calendarRhs">
+        <h3>What's on When</h3>
+        <div class="datepick" id="datepicker"></div>
+        <div class="clear"></div>
+	</div>
+	<!-- help start -->
+	<div class="container">
+		<h3>Need Help?</h3>
+		<a class="btn" href="/customer-support/detail.php?queryType=booking-tickets">Buying tickets</a>
+		<a class="btn" href="/customer-support/detail.php?queryType=ticket-confirmation">After sales support</a>
+		<a class="btn" href="/customer-support/detail.php?queryType=seating-areas">Venue information</a>
+	</div>
+	<!-- // help end -->
+	<div id="google-ad-right" class="container googleAd grey">
+		<!-- nyct_163x200_right -->
+		<div id="nyct_ad_right" style="width:163px; height:200px; margin:0 auto;">
+		<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display('nyct_ad_right'); });
+		</script>
+		</div>	
+	</div>  	        
+    <div class="container grey">
+		<div class="guaranteeLight">
+           	<a href="/common/worry_free_guarantee.php"><img src="http://static.newyorkcitytheatre.com/images/misc/secure_logo_dark.png" alt="125% Guarantee" title="125% Guarantee"></a>
+			<a href="/common/worry_free_guarantee.php">
+				<ul>
+	            	<li>Certified secure checkout</li>
+	                <li>Phone customer support</li>
+	                <li>125% money back guarantee</li>
+	            </ul>
+			</a>
+		</div>
+    </div>
+	<div id="google-ad-bottom-right" class="container googleAd grey">
+		<script type="text/javascript">
+			windowWidth  = $( window ).width();
+			adDivId  =  'nyct_ad_bottom_right';
+			adWidth = 0;
+			adHeight = 600;
+			if (windowWidth >= 1700){
+				adDivId += '_large';
+				adWidth = 300;
+			} else if (windowWidth >= 1280){
+				adWidth = 160;
+			} else if (windowWidth >= 768){
+				adWidth = 120;
+				adDivId += '_small';
+			} else {
+				adDivId += '_mobile';
+				adWidth = 300;
+				adHeight = 250;
+			}
+			document.write("<div id='"+adDivId+"' style='width:"+adWidth+"px; height:"+adHeight+"px; margin:0 auto;'></div>");
+			googletag.cmd.push(function() { googletag.display(adDivId)});
+		</script>
+	</div>
+
+</div>
+<!-- rightCol finish -->
+	<!-- /right banner -->
+	<div class="clear"></div>
+</div>
+<!--footer -->
+<div class="footer">
+	<div class="footerContent">	
+		<div class="block quickLinks">
+	    	<img src="http://static.newyorkcitytheatre.com/images/icons/icon_star.png" alt="">
+	        <h3>Quick Links</h3>
+	        <div class="quickLink">
+	        	<div class="arrowRight"></div>
+	        	<p><a href="/common/about_us.php">About Us</a></p>
+	        </div>
+	        <div class="quickLink">
+	        	<div class="arrowRight"></div>
+	        	<p><a href="/common/faqs.php">FAQs</a></p>
+	        </div>
+	        <div class="quickLink">
+	        	<div class="arrowRight"></div>
+	        	<p><a href="/common/privacy.php">Privacy Policy</a></p>
+	        </div>
+	        <div class="quickLink">
+	        	<div class="arrowRight"></div>
+	        	<p><a href="/common/terms.php">Terms &amp; Conditions</a></p>
+	        </div>
+	        <div class="quickLink">
+	        	<div class="arrowRight"></div>
+	        	<p><a href="/promotions/">List Your Show</a></p>
+	        </div>
+	        <div class="quickLink">
+	        	<div class="arrowRight"></div>
+	        	<p><a href="/common/advertise.php">Advertise</a></p>
+	        </div>
+	        <div class="quickLink">
+	        	<div class="arrowRight"></div>
+	        	<p><a href="/users/newsletters/subscribe.php">Subscribe For Updates</a></p>
+	        </div>
+	        <div class="quickLink">
+	        	<div class="arrowRight"></div>
+	        	<p><a href="/customer-support/index.php">Contact Us</a></p>
+	        </div>
+	        <div class="quickLink">
+	        	<div class="arrowRight"></div>
+				<p><a href="/users/login.php">Login to My Theatreland</a></p>
+			</div>	
+	        
+	    </div> 
 
    
-    <div class="contentHeader">
-				<h1>PRIVACY POLICY</h1>
-                <p><a href="http://www.newyorkcitytheatre.com/">New York City Theater</a> is firmly committed to protecting your privacy while you are visiting our Web site. The following Privacy Policy discloses the information gathering and dissemination practices for&nbsp;<a href="http://www.newyorkcitytheatre.com/">www.newyorkcitytheatre.com</a>.&nbsp;</p>
-                <br>
-				</div>
-	
-
-                                <!-- main content area starts -->
-                                        
-              
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">INFORMATION THIS SITE GATHERS/TRACKS</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>We use your IP address and browser type to help diagnose problems with our server and to administer our Web site. This means that a user's session will be tracked, but the user will remain anonymous. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. This means that although your IP address may be associated during your session it is not permanently associated with any of your personal information.</p>
-</div>
-<div id="clear"></div>
-</div>
-<!--posting finish --->
-          
-          
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">REGISTRATION</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>You can browse our site without entering any personal information and, therefore, remain anonymous during your visit. However, we hope that all of our visitors will register with us so that we can learn more about our valuable customers. Our site's optional registration form requires users to give us contact information (such as their name and email address) for us to send the user relevant newsletters and special offers. Users may opt-out of receiving any communications from our company at any time. Please review our Opt-Out Policy below.</p>
-</div>
-<div id="clear"></div>
-</div>
-<!--posting finish --->
-          
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">COOKIES</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>Our site uses cookies to keep track of your shopping cart. Upon your request we can use cookies to deliver content specific to your interests and to save your password so that you do not have to re-enter it each time you visit our site. For details on Cookies and how they benefit you <a href="/common/privacy_cookies.php">click here</a>.</p>
-</div>
-<div id="clear"></div>
-</div>
-<!--posting finish --->
-
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">LINKS</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>This site contains links to other sites. <a href="http://www.newyorkcitytheatre.com/">New York City Theater</a> is not responsible for the privacy practices or the content of such Web sites. We encourage you to read posted privacy statements whenever interacting with any Web site. We will not share any specific information that you provide to us without your explicit permission to share it.</p>
-</div>
-<div id="clear"></div>
-</div>
-<!--posting finish --->
-
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">ORDER FORM</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>This Web site uses the internet's leading ticket reseller <a href="http://www.ticketnetwork.com">TicketNetwork.com</a> for the purchase of tickets. Please refer to <a href="http://www.ticketnetwork.com">TicketNetwork.com</a> for their privacy policy</p>
-</div>
-<div id="clear"></div>
-</div>
-<!--posting finish --->
-  
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">SECURITY</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All transactions are placed on our secure server and are encrypted with full 128-bit encryption. All transactions must be placed with a secure browser for customers to take advantage of this secure service.</p>
-</div>
-<div id="clear"></div>
-</div>
-<!--posting finish --->
-
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">OPT-OUT POLICY</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>You may choose to opt-out of receiving future communications from New York City Theater. If you do not want to receive our event newsletters or special offers, simply fill out the <a href="http://www.newyorkcitytheatre.com/users/unsubscribe.php?email=">unsubscribe form</a>.</p>
-</div>
-
-<div id="clear"></div>
-</div>
-<!--posting finish --->
-
-<!--posting start --->
-<div class="posting faq"><img src="images/misc/tl_icon_red_posting.gif" class="icon" alt="" title="">
-<h3 class="iconTitle">CONTACT US</h3>
-<div id="clear"></div>
-<img src="images/misc/tl_spacer.gif" class="icon" width="45" height="45" alt="" title="">
-<div class="faqAnswer">
-<p>If you have any questions about this privacy statement or the security practices of this site, please <a href="http://www.newyorkcitytheatre.com/customer-support/leaving_feedback.php">contact us</a>.</p>
-     </div>
-          
-          <!--posting finish --->
-          <p></p>
-          
-          <div id="clear"></div>
-        </div>
-        
-        <div id="clear"></div>
-      </div>
-    
-
-	<!---/main theatre block -->
-	<!-- right banner -->
-	<div id="contentRight" class="contentRight">
-		  <div id="whatsOn"> <h2 class="heading1">WHAT'S ON</h2>
-    <p class="white">View all events on:</p>
-	<div style="margin-top: 5px; margin-bottom: 14px; height:120px; width: 144px; background-color:#FFFFFF;" id="eventsCalendar" name="eventsCalendar"></div>
-	<a id="eventsCalendarA" name="eventsCalendarA"></a><a>
-    </a><p class="findShow"><a>
-    	<img src="http://static.newyorkcitytheatre.com/images/misc/tl_help_icon_red.gif" class="helpIcon" alt="" title="">
-    	</a><a href="/customer-support/booking_tickets.php" class="white">Need help with<br>your purchase? »</a>
-    </p>
-  </div>
-			<a href="/theaters/johngoldentheater/vanya-and-sonia-and-masha-and-spike.php">		<div id="adRightLarge">			<img src="http://static.newyorkcitytheatre.com/images/show/08626_show_square_poster.jpg" class="adRightLarge" alt="Buy tickets for Vanya and Sonia and Masha and Spike at John Golden Theater" title="Buy tickets for Vanya and Sonia and Masha and Spike at John Golden Theater">			<div class="adContent"><p class="nowshowing">NOW SHOWING</p><p class="book">BOOK TICKETS</p>			</div>		</div>	</a>	<div id="eNews"> <h2 class="heading1">NEWSLETTER</h2>
-		<form method="POST" action="/users/newsletters/subscribe.php" name="fENews">
-		<input onclick="this.select();" name="address" id="address" class="inputBox" type="text" value="Email Address" size="19">
-		<p><a href="javascript:submitENews();" class="white">Sign Up »</a></p>
-	</form>
-	<script>
-		function submitENews() {
-			if (document.fENews.address.value=="") {
-				alert("Please enter your email address");
-				return;
-	 		}
-	 		document.fENews.submit();
-	 	}
-	 </script>
-	</div>
-	<div id="clear"></div>
-	<a onclick="recordOutboundLink(this,'Dining','21 Right Navigation',false);return true;" target="_blank" href="http://www.21club.com/web/onyc/prixfixe_pretheatre.jsp?c=websites&amp;p=nyctheatres&amp;cr=21_dining_rha">		
-		<div id="adRightLarge">			
-				<img src="http://static.newyorkcitytheatre.com/images/misc/ad_onyc_163x200_2.jpg" alt="Pre-Theatre Pre-Fixe Dining with reduced parking at '21'">
-		</div>
-       
-	</a>
-    
-       
-    <div id="adRightGoogle">
-		<div id="nyct_ad_bottom_right" style="width:160px; height:600px;">
-		<script type="text/javascript">
-		googletag.cmd.push(function() { googletag.display('nyct_ad_bottom_right'); });
-		</script>
-		</div>
-	</div>
-
-
-	</div>
-	<!-- //right banner -->
-    <div id="clear"></div>
-  </div>
-
-<!-- base navigation -->
-	<!--footer -->
-<div class="footer">
-<div class="baseLinks">
-    <a href="/common/worry_free_guarantee.php">
-             <div class="worryFree">		
-				<h4 class="worry-free"><span>Worry-free guarantee</span></h4>
-				<ul>
-					<li>Certified secure checkout</li>
-					<li class="even">Phone customer support</li>
-					<li>125% money back guarantee</li>
-				</ul>
-             </div>
-     </a> 
-     <div class="footerBlock quickLinks">
-      <h2 class="heading1"><img src="http://static.newyorkcitytheatre.com/images/misc/tl_listing_star.png" class="listingStar hovNav">Quick Links</h2>
-      <p><a href="/common/about_us.php">About Us</a></p>
-      <p><a href="/common/faqs.php">FAQs</a></p>
-      <p><a href="/common/privacy.php">Privacy Policy</a></p>
-      <p><a href="/common/terms.php">Terms &amp; Conditions</a></p>
-      <!--<p><a href="#">Terms & Conditions</a></p>-->
-      <p></p>
-      <p><a href="/promotions/">List Your Show</a></p>
-      <p><a href="/common/advertise.php">Advertise</a></p>
-      <p></p>
-      <p><a href="/users/newsletters/subscribe.php">Subscribe For Updates</a></p>
-      <p><a href="/customer-support/index.php">Contact Us</a></p>
-
-    </div>
-
-    <div class="footerBlock tl"><a href="/common/theatreland-collection.php"> <img src="http://static.newyorkcitytheatre.com/images/misc/tl_theatreland_logo.gif" alt="theatreland logo"></a>
-
+    <div class="block theatreland">
+    	<a href="/common/theatreland-collection.php"><img src="http://static.newyorkcitytheatre.com/images/misc/theatreland_logo.png" alt="Theatreland Ltd"></a>
       <p><a href="/common/theatreland-collection.php">New York City Theater is part of the Theatreland Ltd Collection. Established in 2003, Theatreland offers the largest individual collection of websites providing complete, impartial guides to all the theatrical, musical and performance arts events and venues in the world's greatest theatre cities, from New York's Broadway to London's West End and from the showrooms of Las Vegas to Shakespeare's Globe Theatre.</a></p>
-
+    </div>
+    
+    <div class="block secure">
+    		<div class="guarantee">
+            <a href="/common/worry_free_guarantee.php"><img src="http://static.newyorkcitytheatre.com/images/misc/secure_logo_dark.png" alt="125% Guarantee" title="125% Guarantee"></a>
+            <a href="/common/worry_free_guarantee.php">
+				<ul>
+	            	<li>Certified secure checkout</li>
+	                <li>Phone customer support</li>
+	                <li>125% money back guarantee</li>
+	            </ul>
+            </a>
+    		</div>
     </div>
 
-    <div id="clear"></div>
+    <div class="clear"></div>
 
-    <p>Please note: This site is independently owned and operated and in no way affiliated to any venue or production company</p>
-
-    <div id="clear"></div>
+    <p class="sub">Please note: This site is independently owned and operated and in no way affiliated to any venue or production company</p>
 
   </div>
 
 </div>
-
-
-<script>
-	var now = new Date();
-	now.setDate(now.getDate()-1);
-	var myCal = new CalendarPopup("eventsCalendar");
-	myCal.setTodayText("");
-	myCal.addDisabledDates(null,formatDate(now,"yyyy-MM-dd"));
-	myCal.setCssPrefix("nyct_");
-	myCal.setReturnFunction('searchDates');
-	myCal.showCalendar('eventsCalendarA');
-	function searchDates(year, month, day){
-		document.location ='/common/events_calendar.php?year='+year+'&month='+month+'&day='+day;
-	}
-</script>
 <!-- Quantcast Tag -->
 <script type="text/javascript">
 var _qevents = _qevents || [];
@@ -456,7 +482,5 @@ qacct:"p-WQ0LtHe5Ux_dq"
 </div>
 </noscript>
 <!-- End Quantcast tag -->
-<!-- /base navigation -->
-
 
 </body></html>
