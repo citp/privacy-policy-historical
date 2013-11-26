@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparebackup.com privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114003222id_/http%3A//sparebackup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparebackup.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126173101id_/http%3A//www.sparebackup.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,12 +28,8 @@ _Contact information for primary complaints intake_.
 Spare Backup, Inc. has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Spare Backup, Inc., you may contact: 
 
 Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.us.bbb.org](http://www.us.bbb.org/)  
-Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
+[BBB EU Safe Harbor](http://www.bbb.org/us/safe-harbor-complaints)  
+
 
 ### Does Spare Backup, Inc. use "cookies"?
 
@@ -66,6 +62,8 @@ You can access selected Personal Information that we collect online by by sendin
 ### Severability
 
 This Privacy Policy shall apply to the fullest extent permitted by applicable law. If for any reason any provision of this Privacy Policy is held to be invalid or unenforceable to any extent under applicable law, then (i) such provision will be interpreted, construed, or reformed to the extent reasonably required to render it valid, enforceable, and consistent with the original intent underlying such provision and (ii) such invalidity or unenforceability will not affect the validity or enforceability of any other provision of this Privacy Policy and all such provisions shall remain in full force and effect.
+
+To learn more about the Safe Harbor program, and to view Spare Backup’s certification, please visit http://www.export.gov/safeharbor/.
 
 ### Consent
 
