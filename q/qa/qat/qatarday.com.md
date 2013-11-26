@@ -1,27 +1,7 @@
-> *The following text is extracted and transformed from the qatarday.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430214748id_/http%3A//qatarday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qatarday.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126175029id_/http%3A//www.qatarday.com/privacy.php) for the most accurate reproduction.*
 
-# QatarDay
+# Privacy | Qatar Day
 
-|  |  |  |  |  |   
----|---|---|---  
-  
-  
-  
-  
-|  |   
----  
-  
-## Daily Prayer Time  
-  
-|   
----  
-  
-|  | 
-
-## Privacy  
-  
----  
-  
   * Qatarday.com understands and respects the need for the privacy of its users. To keep you informed of our privacy policies, we have provided this document disclosing Qatarday.com's intent, purpose and use of possibly private information, and detailing the methods of gathering of such information.
   * Visitors to Qatarday.com and its sites are not subject to involuntary information disclosure of any kind, other than those intrinsic to the operation of the site and the World Wide Web in general.
   * Certain operations and features on Qatarday.com may require the use of cookies and/or the propagation of session information. These cookies and sessions facilitate the visitor's experience at Qatarday.com, but do not represent any other security or privacy concern outside of isolated, per visit session identification and/or recurring sessions for the purpose of storing and maintaining user submitted site preferences.
@@ -34,28 +14,15 @@
 
 
 
-### THIRD PARTY ADVERTISING
+## THIRD PARTY ADVERTISING
 
   * Qatarday.com may use other third-party advertising companies to serve ads when you visit our Website. These companies may use information (including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
   * While Qatarday.com will make our best efforts to eliminate or minimize the usage of your information to these companies, please use discretion when giving your information to any advertisements.
 
 
 
-###  THIRD PARTY COOKIES 
+##  THIRD PARTY COOKIES 
 
   * In the course of serving advertisements to Qatarday.com, our third-party advertisers may place or recognize a unique "cookies" on your browser.
 
-  
-  
-|  | 
 
-## Events  
-  
----  
-  
-|   
----  
-  
-THIS SITE HACKED BY CHOKOU  
-  
-## Facebook
