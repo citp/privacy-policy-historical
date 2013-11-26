@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cmsreport.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527105639id_/http%3A//cmsreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmsreport.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126142743id_/http%3A//cmsreport.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for CMS Report
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
