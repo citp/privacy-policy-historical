@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the pornshareproject.org privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512141234id_/http%3A//pornshareproject.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornshareproject.org privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126222620id_/http%3A//pornshareproject.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Porn Share Project
 
-[](http://safelinktracker.com/go/loQ2_bzEnU/DEFAULT&nopop&noexit)
+  
+
+
+Welcome! Please take a second to register. 
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
