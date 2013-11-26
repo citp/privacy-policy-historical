@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the mommymaywe.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527224508id_/http%3A//mommymaywe.com/giveaways-9/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommymaywe.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126130301id_/http%3A//mommymaywe.com/giveaways-9/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mommy May We?
+# Privacy Policy | Mommy May We?Mommy May We?
 
-**What information do we collect?  ** We collect information from you when you register on our site, subscribe to our newsletter or comment on this blog.
+**What information do we collect?  **
+
+We collect information from you when you register on our site, subscribe to our newsletter or comment on this blog.
 
 When registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **What do we use your information for?** ** **
 
@@ -52,17 +56,17 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions  **
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [here](https://amanda-moore-ggg3.squarespace.com/blog/2012/10/31/disclosure-policy "here").
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website here.
 
 **Your Consent  **
 
-By using our site, you consent to our [privacy policy](http://static.squarespace.com/static/51349cbde4b060819b13b887/51355a09e4b0b95e02856179/5135605be4b0b95e02863eea/1362452571135/?format=original).
+By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy  **
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 10/31/2012
+This policy was last modified on 09/04/2013
 
 **Contacting Us  **
 
