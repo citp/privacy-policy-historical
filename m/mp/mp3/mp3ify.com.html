@@ -1,7 +1,963 @@
-<!--The following is the downloaded HTML source of the mp3ify.com privacy policy that was archived on 2013-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130403064736id_/http%3A//mp3ify.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mp3ify.com privacy policy that was archived on 2013-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126092907id_/http%3A//mp3ify.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head></head><body><font size="2" face="verdana">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>mp3ify.com Search Results Page - Online Video Mp3 Converter!</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+<meta name="description" content="mp3ify.com lets you search for and instantly convert your favorite online videos as high quality mp3s mp4s free, fast, and easy!">
+<meta name="keywords" content="mp3, youtube, download, search, downloader, transcode, video, audio, convert, wav, avi, wmv, rip">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="windowfiles/dhtmlwindow.js"></script></head><body><div id="dhtmlwindowholder"><span style="display:none">.</span></div>
+<script type="text/javascript" src="modalfiles/modal.js"></script><div id="interVeil"></div>
+
+<link rel="stylesheet" href="modalfiles/modal.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="./css/index.css">
+<link rel="stylesheet" href="windowfiles/dhtmlwindow.css" type="text/css">
+<script type="text/javascript" src="js/jquery.qtip.js"></script> 
+<link rel="stylesheet" href="js/jquery.qtip.css" type="text/css">
+
+<style type="text/css">
+ .topbar {
+    background-color: #006699;
+    color: white;
+    height: 25px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-top: 0px;
+    width: 100%;
+	position:relative;
+ }
+ .topbar A {
+ 	text-decoration:none;
+ }
+ .topbar A:active {
+ 	color: white;
+ 	
+ }
+ BODY {
+ 	margin:0px;
+ }
+ #searchcolumn {
+ 	float:left;
+ 	
+ }
+ .filter_container {
+ 	margin-top:-7px;
+ }
+@media all and (max-width: 1040px) {
+
+	 #searchcolumn {
+	 	clear:both;
+	 	
+	 }
+}
+#myaccount{
+background-color: #ACD1E1;
+    border: 1px solid #ACD1E1;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;
+    height: 30px;
+   
+    text-align: center;
+    width: 100%;
+	}
+#dhtmltooltip{
+position: absolute;
+width: 150px;
+border: 2px solid black;
+padding: 2px;
+background-color: lightyellow;
+visibility: hidden;
+z-index: 100;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+
+#body-content-div-pre {
+	position: absolute;
+	top: 215px;
+	left: 27px;
+
+}
+
+.botnav,   .botnav a{
+	font-family: calibri;
+	font-size: 13px;
+	color: #1E1E1E;
+	text-decoration: none;
+	text-align: center;
+}
+.botnav  a:hover {
+	text-decoration: underline;
+}
+#footer   {
+	position: absolute;
+	bottom: 0px;
+	height: 20px;
+
+}
+
+
+#body-content-div {
+	position: absolute;
+	top: 238px;
+	bottom: 0px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	left: 27px;
+	width:989px;
+}
+
+
+.rating_bar {
+  width: 55px;
+  background: url(./img/star_x_grey.gif) 0 0 repeat-x;
+}
+
+.rating_bar div {
+  height: 12px;
+  background: url(./img/star_x_orange.gif) 0 0 repeat-x;
+}
+
+
+
+
+#search {
+
+	/*background-image: url(img/search.gif);
+	background-repeat: no-repeat;
+	*/
+	height: 83px;
+	width: 640px;
+	overflow: hidden;
+	padding-left: 20px;
+	padding-top: 15px;
+}
+#search  #form  .sfld {
+  z-index:10;
+	background-image: url(img/s_fld.gif);
+	background-repeat: repeat-x;
+	height: 25px;
+	width: 398px;
+	border: 1px solid #999999;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	padding-right: 2px;
+	padding-left: 2px;
+	padding-top: 2px;
+	margin-top: 0px;
+	vertical-align: middle;
+}
+
+@-moz-document url-prefix() {
+    #search  #form  .sfld  {
+       margin-top:-13px;
+    }
+}
+
+
+#search #form p {
+  z-index:10;
+	font-family: calibri;
+	font-size: 13px;
+	color: #171717;
+	text-decoration: none;
+	text-align: left;
+	margin: 0px;
+}
+
+
+#header {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	width:238px;
+	height: 69px;
+	background-image: url(img/logo_2.gif);
+	background-repeat: no-repeat;
+
+
+}
+.but   a     {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.but    a:hover       {
+	color: #333333;
+	text-decoration: none;
+}
+.srbuts {
+	width: 47px;
+}
+.srtitle {
+	font-family: "Trebuchet MS";
+	font-size: 20px;
+	font-weight: bold;
+	color: #383838;
+	text-decoration: none;
+}
+.brd {
+	padding: 4px;
+	border: 1px solid #CCCCCC;
+}
+.but     {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	height: 21px;
+	width: 59px;
+	text-align: center;
+	padding-top: 4px;
+	background-repeat: no-repeat;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#botcont {
+	background-color:white;
+	height: 150px;
+	width: 577px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 60px;
+	padding-left: 40px;
+	margin-bottom: 0px;
+	border:1px solid grey;
+	height:270px;
+}
+#botcont h1 {
+	font-family: "Trebuchet MS";
+	font-size: 22px;
+	font-weight: bold;
+	color: #165492;
+	text-decoration: none;
+	margin: 0px;
+}
+.subtxt {
+	font-size: 14px;
+	color: #303030;
+}
+.submithover               {
+	font-family: calibri;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FF9900;
+	text-decoration: none;
+	background-image: url(./img/search_but.gif);
+	background-repeat: no-repeat;
+	height: 33px;
+	width: 99px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	margin: 0px;
+	padding-bottom: 1px;
+}
+.submit               {
+	font-family: calibri;
+	font-size: 16px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+	background-image: url(./img/search_but.gif);
+	background-repeat: no-repeat;
+	height: 33px;
+	width: 99px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	margin: 0px;
+	padding-bottom: 1px;
+}
+.clear {
+	clear: both;
+}
+.ytvid {
+	position: absolute;
+	top: 20px;
+	left: 635px;
+	height: 157px;
+	width: 175px;
+}
+
+.ytprevid {
+	position: absolute;
+	top: 20px;
+	left: 608px;
+	height: 157px;
+	width: 175px;
+	/*right: 0px;*/
+}
+
+.rightof-ytprevid {
+	position: absolute;
+	top: 20px;
+	left: 755px;
+	font-family: calibri;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 19px;
+	/*right: 0px;*/
+}
+
+.flrt {
+	float: left;
+	width: 645px;
+	position: absolute;
+}
+
+
+.titlec {
+  font-size: small;
+}
+ul.videos li {
+  font-size: small;
+}
+ul.videos {}
+/* This imageless css button was generated by CSSButtonGenerator.com */
+.menubutt {
+	-moz-box-shadow:inset 0px 0px 0px -50px #bee2f9;
+	-webkit-box-shadow:inset 0px 0px 0px -50px #bee2f9;
+	box-shadow:inset 0px 0px 0px -50px #bee2f9;
+	background-color:#2d9de3;
+	border:1px solid #3866a3;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:12px;
+	font-weight:bold;
+	padding:3px 7px;
+	text-decoration:none;
+}.menubutt:hover {
+	background-color:#0666bf;
+}.menubutt:active {
+	position:relative;
+	top:1px;
+}
+/* This imageless css button was generated by CSSButtonGenerator.com */
+
+/* This imageless css button was generated by CSSButtonGenerator.com */
+.menubutt1 {
+	background-color:#006699;
+	display:inline-block;
+	color:#e6e6e6;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:3px 7px;
+	text-decoration:none;
+}.menubutt1:hover {
+	background-color:#39C;
+}.menubutt1:active {
+	position:relative;
+	top:1px;
+}
+#main_search_container {
+   background-color: #D8E4E8;
+    border-bottom-color: #BCC8CC;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-top-color: #E5E5E5;
+    border-top-style: solid;
+    border-top-width: 1px;
+    height: 70px;
+}
+BODY {
+min-width: 800px;
+}
+/* This imageless css button was generated by CSSButtonGenerator.com */
+
+.leftmenu {
+	color:#006699;
+	background-color:white;
+	display:inline-block;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:1px 5px;
+	text-decoration:none;
+	border: 1px solid grey;
+	vertical-align:middle;
+}
+/* This imageless css button was generated by CSSButtonGenerator.com */
+
+.sitebutton {
+	background-color:#0080ff;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:3px 9px;
+	text-decoration:none;
+}.sitebutton:hover {
+	background-color:#0080ff;
+}.sitebutton:active {
+	position:relative;
+	top:1px;
+}
+
+/* This imageless css button was generated by CSSButtonGenerator.com */
+
+.filter_header {
+	background-color:silver;
+	margin-bottom:10px;
+	padding-left: 5px;
+	font-weight:bold;
+	font-size:small;
+}
+
+.tooltip {
+			border-bottom: 1px dotted #000000; color: #000000; outline: none;
+			cursor: help; text-decoration: none;
+			position: relative;
+		}
+		.tooltip span {
+			margin-left: -999em;
+			position: absolute;
+		}
+		.tooltip:hover span {
+			border-radius: 5px 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; 
+			box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1); -webkit-box-shadow: 5px 5px rgba(0, 0, 0, 0.1); -moz-box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+			font-family: Calibri, Tahoma, Geneva, sans-serif;
+			position: absolute; left: 1em; top: 2em; z-index: 99;
+			margin-left: 0; width: 250px;
+		}
+		.tooltip:hover img {
+			border: 0; margin: -10px 0 0 -55px;
+			float: left; position: absolute;
+		}
+		.tooltip:hover em {
+			font-family: Candara, Tahoma, Geneva, sans-serif; font-size: 1.2em; font-weight: bold;
+			display: block; padding: 0.2em 0 0.6em 0;
+		}
+		.classic { padding: 0.8em 1em; }
+		.custom { padding: 0.5em 0.8em 0.8em 2em; }
+		* html a:hover { background: transparent; }
+		.classic {background: #FFFFAA; border: 1px solid #FFAD33; }
+		.critical { background: #FFCCAA; border: 1px solid #FF3334;	}
+		.help { background: #9FDAEE; border: 1px solid #2BB0D7;	}
+		.info { background: #9FDAEE; border: 1px solid #2BB0D7;	}
+		.warning { background: #FFFFAA; border: 1px solid #FFAD33; }
+
+		.gbutton {
+			border: 1px solid rgba(0,0,0,0.1);
+			background-color: #f5f5f5;
+			background-image:-webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+			color: #666666;
+			padding-top: 6px;
+			padding-bottom: 6px;
+			padding-left: 15px;
+			padding-right:15px;
+			text-decoration:none;
+			margin-left:10px;
+		}
+		.gbutton img {
+			vertical-align: top;
+		}
+.topbar, #main_search_container,#resultstable,#resultstableContainer {
+min-width: 1150px;
+
+}		
+</style>
+<!--[if IE]>
+	<style>
+	    #search  #form  .sfld  {
+	    margin-top:-10px;
+	   	}
+	</style>
+<![endif]-->
+<script>
+	function urlencode(str)
+	{
+		return escape(str).replace(/\+/g,'%2B').replace(/%20/g, '+').replace(/\*/g, '%2A').replace(/\//g, '%2F').replace(/@/g, '%40');
+	}
+	
+</script>
+ <script type="text/javascript" src="/js/global_state.js"></script>
+ <script type="text/javascript" src="/js/json_request.js"></script>
+ <script type="text/javascript" src="/js/search_menu.js"></script>
+ <script type="text/javascript" src="/js/util_url.js"></script>
+ <script type="text/javascript" src="/js/util_video.js"></script>
+ <script type="text/javascript">
+		
+                                   // set the initial filetypes strings to use for each search type ( music, video, etc )
+                                   initial_filetypes_str = new Object() ;
+     initial_filetypes_str[ "m" ] = "mp3|ogg|wav|wma|" ;
+     initial_filetypes_str[ "v" ] = "avi|mp4|mov|mpeg|wmv|" ;
+     initial_filetypes_str[ "a" ] = "zip|gz|rar|bz2|" ;
+     setgvar( "initial_filetypes_str", initial_filetypes_str ) ;
+    
+                                   // create the search object used to control setting the search options
+                                   setgvar( "search_menu", new search_menu() ) ;
+
+                                   // hook up the keyboard and mouse events to the search menu
+                                   document.onkeydown = search_menu_keypress_callback ; 
+                                   document.onclick = search_menu_mouseclick_callback ;
+                                   
+	 </script>
+
+<!--
+<script charset="utf-8" id="injection_graph_func" src="jscripts/injection_graph_func.js"></script><script id="_nameHighlight_injection"></script>
+-->
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="css/colorbox.css">
+
+<script src="/js/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript">
+
+$(document).ready(function(){
+				$(".header_inline").colorbox({inline:true, width:"70%"});
+				
+			});		
+function getPremium()
+{
+	//alert("hello");
+	$(".header_inline").click();
+}
+function upgradePremium(premuimid)
+{
+	$.post('upgradepremium.php',{'premiumid':premuimid},function(res){
+		//alert(res);
+		if(res=='success')
+		{
+			window.location.href="my-account.php?succ=yes";
+			//$('#header_inline_content').html(""<div align='center' style='color:#0C0; font-weight:bold'>Congratulation! Your Account Has Been Upgraded To PREMIUM</div>");
+		}
+		else
+		if(res=='premium')
+		{
+		$('#header_inline_content').html("<div align='center' style='color:#F00; font-weight:bold'>You're Already a Premium User!</div>");
+		}
+		else
+		if(res=='insufficient')
+		{
+		alert("Insufficient Credit");
+		}
+		else
+		{
+			$('#header_inline_content').html("<div align='center' style='color:#F00; font-weight:bold'>Your Request Fail, Please Try Again!</div>");
+		}
+		
+	});
+	
+}
+</script>
+
+<script type="text/javascript">
+
+// tooltip filter
+$(document).ready(function()
+{
+	$('#filter_button').qtip(
+	{
+		id: 'modal', // Since we're only creating one modal, give it an ID so we can style it
+		content: {
+			text: $('#filter_hidden')
+
+		},
+		position: {
+			my: 'top center', // ...at the center of the viewport
+			at: 'bottom center',
+			viewport: $(window)
+		},
+		show: {
+			event: 'click', // Show it on click...
+			solo: true, // ...and hide all other tooltips...
+			modal: false // ...and make it modal
+		},
+		hide: 'unfocus',
+		style: 'qtip-light qtip-rounded',
+		
+	});
+
+	$('#FavoritesButtonTop,#FavoritesButtonTop IMG').qtip(
+	{
+		
+		content: {
+			text: "My Favorites"
+
+		},
+		position: {
+			my: 'top center', // ...at the center of the viewport
+			at: 'bottom center',
+			viewport: $(window)
+		},
+		show: {
+			event: 'mouseover', // Show it on click...
+			solo: true, // ...and hide all other tooltips...
+			modal: false // ...and make it modal
+		},
+		hide: 'mouseout',
+		style: 'qtip-dark qtip-rounded',
+		
+	});
+	$('#ConvertedButtonTop,#ConvertedButtonTop IMG').qtip(
+	{
+		
+		content: {
+			text: "My Converted Videos"
+
+		},
+		position: {
+			my: 'top center', // ...at the center of the viewport
+			at: 'bottom center',
+			viewport: $(window)
+		},
+		show: {
+			event: 'mouseover', // Show it on click...
+			solo: true, // ...and hide all other tooltips...
+			modal: false // ...and make it modal
+		},
+		hide: 'mouseout',
+		style: 'qtip-dark qtip-rounded',
+		
+	});
+	$('#MyAccountButtonTop,#MyAccountButtonTop IMG').qtip(
+	{
+		
+		content: {
+			text: "Setting"
+
+		},
+		position: {
+			my: 'top center', // ...at the center of the viewport
+			at: 'bottom center',
+			viewport: $(window)
+		},
+		show: {
+			event: 'mouseover', // Show it on click...
+			solo: true, // ...and hide all other tooltips...
+			modal: false // ...and make it modal
+		},
+		hide: 'mouseout',
+		style: 'qtip-dark qtip-rounded',
+		
+	});
+	$('#SearchButtonTop,#SearchButtonTop IMG').qtip(
+	{
+		
+		content: {
+			text: "Dashboard"
+
+		},
+		position: {
+			my: 'top center', // ...at the center of the viewport
+			at: 'bottom center',
+			viewport: $(window)
+		},
+		show: {
+			event: 'mouseover', // Show it on click...
+			solo: true, // ...and hide all other tooltips...
+			modal: false // ...and make it modal
+		},
+		hide: 'mouseout',
+		style: 'qtip-dark qtip-rounded',
+		
+	});
+
+});
+
+
+
+$(document).ready(function() {
+	$("input:radio[name=time]").change(function() {
+		$("input:hidden[name=time]").val( $(this).val());
+
+	});
+	$("input:radio[name=duration]").change(function() {
+		$("input:hidden[name=duration]").val( $(this).val());
+
+	});
+	$("#apply_filters_btn").click(function() {
+		$("form#form").submit();
+
+	});
+	$("#reset_filters_btn").click(function() {
+		$("input:hidden[name=duration]").val("");
+		$("input:hidden[name=time]").val("");
+		$("form#form").submit();
+
+	});
+});
+
+
+
+</script>
+<link href="/bootstrap/transcoder.css" rel="stylesheet">
+<script src="/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+<div class="topbar">
+
+      <div style="float: left;font-family: arial;font-size: 13px; position:absolute; top:50%; margin-top:-9px;">
+    <div style="vertical-align:middle;">Hello Guest! Please <a href="login.php" style="color:white"><u>login</u></a> OR register free <a href="http://www.mp3ify.com/membership" style="color:white"><u>here</u></a> 
+</div>
+  </div>
+     </div>
+  <!-- search box start -->
+  <div id="main_search_container">
+
+<table border="0"><tbody><tr><td style="vertical-align: TOP;">
+<div style="float:left" id="headerimage"><a href="http://mp3ify.com"><img src="./img/logo_.png" onclick="popunder();popflag=100;window.location='index.php'" style="height:50px;padding-left:10px; padding-top:10px;" border="0"></a></div>
+</td><td>
+<!--  search box -->
+<div id="searchcolumn">
+     <!--Search form-->
+<div id="search">
+      
+<form name="form" id="form" method="get" action="results-transcoder.php">
+
+
+
+
+<input type="text" name="search" class="sfld" maxlength="1600" autocomplete="off" id="search-query-box" onkeyup="getgvar('search_menu').get_search_suggestions(this.value);" onchange="getgvar('search_menu').get_search_suggestions(this.value);" value="">
+&nbsp;&nbsp;<button class="action bluebtn" id="search_button_submit" value="Search"><span class="label">Search</span></button>
+            		 <button type="button" id="filter_button" class="action redbtn" value="Filter"><span class="label">Filter</span></button>
+            		 <div id="filter_hidden"><div class="filter_container"><div class="filter_header">+ Add Filters To Search Results</div><div class="radio-filter_line"><span class="radio-filter-label">Time</span><input type="radio" name="time" value="today" class="radio-filter-value  radio-filter-value-enabled" id="time_today"><label class="radio-filter-label-value" for="time_today">Today</label><input type="radio" name="time" value="this_week" class="radio-filter-value  radio-filter-value-enabled" id="time_this_week"><label class="radio-filter-label-value" for="time_this_week">This week</label><input type="radio" name="time" value="this_month" class="radio-filter-value  radio-filter-value-enabled" id="time_this_month"><label class="radio-filter-label-value" for="time_this_month">This month</label><input type="radio" name="time" value="" class="radio-filter-value radio-filter-value-disabled" checked="" id="time_"><label class="radio-filter-label-value" for="time_">All time</label></div><div class="radio-filter_line"><span class="radio-filter-label">Duration</span><input type="radio" name="duration" value="short" class="radio-filter-value  radio-filter-value-enabled" id="duration_short"><label class="radio-filter-label-value" for="duration_short">Short (below 4 minutes)</label><input type="radio" name="duration" value="medium" class="radio-filter-value  radio-filter-value-enabled" id="duration_medium"><label class="radio-filter-label-value" for="duration_medium">Medium (4 to 20 minutes)</label><input type="radio" name="duration" value="long" class="radio-filter-value  radio-filter-value-enabled" id="duration_long"><label class="radio-filter-label-value" for="duration_long">above 20mins</label><input type="radio" name="duration" value="" class="radio-filter-value radio-filter-value-disabled" checked="" id="duration_"><label class="radio-filter-label-value" for="duration_">All</label></div></div><div style="float:left;padding-top:20px"><button type="button" class="action greenbtn" value="Apply filters" id="apply_filters_btn"><span class="label">Apply filters</span></button></div><div style="float:right;padding-top:20px"><button type="button" class="action redbtn" value="Reset filters" id="reset_filters_btn"><span class="label">Reset filters</span></button></div></div>            		 <input name="time" type="hidden" value="">
+            		 <input name="duration" type="hidden" value="">
+            		 
+
+	 <br>
+
+  <script>
+searchTxt2 = ""; 
+searchTxt2 = searchTxt2.replace(/%2520/gi," ");
+searchTxt2 = searchTxt2.replace(/%2522/gi," ");
+searchTxt2 = searchTxt2.replace(/\+/gi," ");
+searchTxt2 = searchTxt2.replace(/%20/gi," ");
+document.forms['form'].elements['search-query-box'].value = searchTxt2 ;
+</script>
+
+</form>
+</div>
+</div>
+</td>
+</tr></tbody></table>
+
+
+</div><!-- search box end -->
+
+
+
+
+
+
+
+
+
+
+
+ 
+  <!--<div id="header" onClick="popunder();popflag=100;window.location='index-original.html'">
+
+  
+  </div>-->
+<!--Searchbox-->
+        
+     
+   
+
+
+
+<div id="googlediv"></div>
+<!--
+<div style="position: absolute; left: 330px; top: 20px;">
+google add here
+</div>
+-->
+<p><a class="header_inline" style="display:none;" href="#header_inline_content">Inline HTML</a></p>
+        <div style="display:none">
+			<div id="header_inline_content" style="padding:10px; background:#fff;">
+            	                	<span style="font-size:24px;color:#093">Upgrade Your Account!</span><p>Upgrade your account to a premium plan below.</p><table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color:#CCCCCC;">
+                    <tbody><tr></tr>
+                      
+                      <tr>
+                      <td style="background-color:#FFF">
+                      <!--Upgrade to premium table-->
+
+                      <table align="center">
+<tbody><tr><td>
+
+<table width="350" cellpadding="0" cellspacing="0" style="border:1px #999 solid">
+  <tbody><tr align="center">
+    <td style="background-color:#A3CCDC;color:#FFFFFF;font-weight:bold;"><font color="#000000" size="+3">Premium</font><br>
+      <font color="#666666">Six Months Subscription</font></td>
+  </tr>
+  <tr align="center">
+    <td>&nbsp;</td>
+  </tr>
+  <tr align="center">
+    <td align="left" height="25" bgcolor="#EAF7F7"><span style="padding-left:20px;"><font color="#333333" face="Georgia, Times New Roman, Times, serif" size="-1"><img src="./img/star_x_orange.gif"> Priority Support</font></span></td>
+  </tr>
+  <tr align="center">
+    <td align="left" height="25"><span style="padding-left:20px;"><font color="#333333" face="Georgia, Times New Roman, Times, serif" size="-1"><img src="./img/star_x_orange.gif"> Support High Quality &amp; Big Size Files</font></span></td>
+  </tr>
+    <tr align="center">
+    <td align="left" height="25" bgcolor="#EAF7F7"><span style="padding-left:20px;"><font color="#333333" face="Georgia, Times New Roman, Times, serif" size="-1"><img src="./img/star_x_orange.gif"> Convert Up To 100 Videos Within 24 hours</font></span></td>
+  </tr>
+    <tr align="center">
+    <td align="left" height="25"><span style="padding-left:20px;"><font color="#333333" face="Georgia, Times New Roman, Times, serif" size="-1"><img src="./img/star_x_orange.gif"> No Ads</font></span></td>
+  </tr>
+    <tr align="center">
+    <td align="left" height="25" bgcolor="#EAF7F7"><span style="padding-left:20px;"><font color="#333333" face="Georgia, Times New Roman, Times, serif" size="-1"><img src="./img/star_x_orange.gif"> Access To Other Unrestricted Resources</font></span></td>
+  </tr>
+    <tr align="center">
+      <td align="left" height="25"><span style="padding-left:20px;"><font color="#333333" face="Georgia, Times New Roman, Times, serif" size="-1"><img src="./img/star_x_orange.gif"> Premium Access For 6 Months</font></span></td>
+    </tr>
+    <tr align="center">
+      <td align="left">&nbsp;</td>
+    </tr>
+    <tr align="center">
+      <td><a href="https://secure.avangate.com/order/checkout.php?PRODS=4573599&amp;QTY=1&amp;CART=1&amp;CARD=2&amp;INFO4573599=-0-5&amp;BACK_REF=http%3A//mp3ify.com/thankyou.php"><font color="#333333" face="Georgia, Times New Roman, Times, serif" size="+1"><strong>$19.99</strong></font> only<br><strong>Upgrade Now!</strong></a></td>
+    </tr>
+    <tr align="center">
+      <td>&nbsp;</td>
+    </tr>
+</tbody></table>
+</td>
+<td>
+<table width="350" cellpadding="0" cellspacing="0" style="border:1px #999 solid">
+  <tbody><tr align="center">
+    <td style="background-color:#FC0;color:#FFFFFF;font-weight:bold;"><font color="#000000" size="+3">Premium</font><br><font color="#666666">One Year Subscription</font></td>
+  </tr>
+  <tr align="center">
+    <td>&nbsp;</td>
+  </tr>
+  <tr align="center">
+    <td align="left" height="25" bgcolor="#EAF7F7"><span style="padding-left:20px;"><font color="#333333" face="Georgia, Times New Roman, Times, serif" size="-1"><img src="./img/star_x_orange.gif"> Priority Support</font></span></td>
+  </tr>
+  <tr align="center">
+    <td align="left" height="25"><span style="padding-left:20px;"><font color="#333333" face="Georgia, Times New Roman, Times, serif" size="-1"><img src="./img/star_x_orange.gif"> Support High Quality &amp; Big Size Files</font></span></td>
+  </tr>
+    <tr align="center">
+    <td align="left" height="25" bgcolor="#EAF7F7"><span style="padding-left:20px;"><font color="#333333" face="Georgia, Times New Roman, Times, serif" size="-1"><img src="./img/star_x_orange.gif"> Convert Up To 100 Videos Within 24 hours</font></span></td>
+  </tr>
+    <tr align="center">
+    <td align="left" height="25"><span style="padding-left:20px;"><font color="#333333" face="Georgia, Times New Roman, Times, serif" size="-1"><img src="./img/star_x_orange.gif"> No Ads</font></span></td>
+  </tr>
+    <tr align="center">
+    <td align="left" height="25" bgcolor="#EAF7F7"><span style="padding-left:20px;"><font color="#333333" face="Georgia, Times New Roman, Times, serif" size="-1"><img src="./img/star_x_orange.gif"> Access To Other Unrestricted Resources</font></span></td>
+  </tr>
+    <tr align="center">
+      <td align="left" height="25"><span style="padding-left:20px;"><font color="#333333" face="Georgia, Times New Roman, Times, serif" size="-1"><img src="./img/star_x_orange.gif"> Premium Access For 12 Months</font></span></td>
+    </tr>
+    <tr align="center">
+      <td align="left">&nbsp;</td>
+    </tr>
+    <tr align="center">
+      <td><a href="https://secure.avangate.com/order/checkout.php?PRODS=4573600&amp;QTY=1&amp;CART=1&amp;CARD=2&amp;INFO4573600=-0-6&amp;BACK_REF=http%3A//mp3ify.com/thankyou.php"><font color="#333333" face="Georgia, Times New Roman, Times, serif" size="+2"><strong>$39.99</strong></font> only<br><strong><font size="+1">Upgrade Now!</font></strong></a></td>
+    </tr>
+    <tr align="center">
+      <td>&nbsp;</td>
+    </tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+                 
+                 <!--End of upgrade to premium table-->
+                      </td>
+                      </tr>
+                      
+                      
+                                           <tr align="center"><td><br><br><font color="#FF0000" size="+1"><strong>MP3IFY SUPPORTS PEOPLE WHO SUPPORT US!</strong></font></td></tr>
+                    </tbody></table>
+
+				
+        	</div>
+		</div>
+
+<style>
+#contentPageContainer {
+	width:100%;
+}
+#contentPageContainer .contentPageContainerLeft {
+
+	margin-right:320px;
+	
+	
+}
+#contentPageContainer .contentPageContainerRight {
+	float: right;
+	width: 300px;
+
+}
+.contentPageContainerLeft,.contentPageContainerRight,.contentPageContainerHeader {
+	padding: 5px; 
+}
+
+.contentPageContainerLeft,.contentPageContainerRight {
+	border: 1px solid #BCC8CC;
+	margin-top: 10px;
+	min-height: 400px;
+	background-color: #F7F7F7;
+	
+}
+.contentPageContainerHeader {
+	border: 1px solid #BCC8CC;
+	margin-bottom: 10px;
+	background-color: #F7F7F7;
+	font-family:Arial;
+	font-weight:bold;
+	color:silver;
+	padding-left:20px;
+	font-size:14px;
+	font-stretch:semi-condensed;
+	line-height:19px;
+}
+
+.contentPageContainerRight {
+	margin-top: 0px !important;
+	margin-right: 0px  !important;
+	height:500px;
+}
+
+.contentPageContainerLeft{
+	height:500px;
+	overflow-y:auto;
+}
+.contentPageContainerFooter {
+	text-align:center;
+	padding-top:20px;
+}
+BODY {
+	margin: 0px;
+	
+}
+</style>
+
+<div id="contentPageContainer">
+	<div class="contentPageContainerHeader">
+		<img src="img/home.png" width="16px" height="16px" border="0" style="vertical-align:middle; top">Home &gt;&gt; Privacy		<div style="float:right" class="session-message-flash">  </div>
+	</div>
+	<div class="contentPageContainerRight">
+		</div>
+	<div class="contentPageContainerLeft">
+	<font size="2" face="verdana">
 MP3ify Privacy Policy<br><br>
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit MP3ify.com, and how we safeguard your information.<br><br>
@@ -29,4 +985,7 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 Privacy Contact Information<br><br>
 
 If you have any questions or comments about our privacy policy please click on the Contact button on the main page.
-</font></body></html>
+</font>	</div>
+	<div class="contentPageContainerFooter"><hr><a href="mailto:mp3ify@gmail.com">Contact Us</a> | <a href="faq.php">FAQ</a> | <a href="privacy.php">Privacy Policy</a> | <a href="tos.php">Terms Of Use</a> | <a href="legal.php">Legal</a><br>
+© mp3ify.com 2013 </div>
+</div></body></html>
