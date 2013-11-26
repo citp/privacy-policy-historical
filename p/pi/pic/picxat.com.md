@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picxat.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530092843id_/http%3A//picxat.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picxat.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126183853id_/http%3A//picxat.com/pages/privacy) for the most accurate reproduction.*
 
 # - Picxat - Online Photo Hosting and sharing Community
 
