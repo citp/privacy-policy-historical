@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerseoranker.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115001027id_/http%3A//powerseoranker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerseoranker.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126071902id_/http%3A//powerseoranker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Power SEO Ranker
 
