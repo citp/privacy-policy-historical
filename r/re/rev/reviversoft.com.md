@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reviversoft.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630231711id_/http%3A//www.reviversoft.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviversoft.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126130850id_/http%3A//www.reviversoft.com/company/privacy) for the most accurate reproduction.*
 
 # ReviverSoft Privacy Policy
 
-Effective Date: 2/6/2013
+Last Updated: 9/9/2013
 
 ReviverSoft, LLC's ("ReviverSoft") privacy policy ("Privacy Policy") covers the collection and use of personal information ("Personal Information") that we may gather any time you interact with us, such as when you visit our Web site, purchase ReviverSoft products, or when you contact our customer support or sales departments. This policy describes our data privacy practices, including what type of information is gathered, how ReviverSoft uses the information, and how we safeguard your Personal Information when you submit it to us at www.reviversoft.com. At ReviverSoft, protecting your privacy is important to us. After all, online privacy and security is what we're all about. **You expressly consent to the processing of your Personal Information according to this Privacy Policy. Personal Information may be processed by ReviverSoft in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**
 
@@ -33,6 +33,12 @@ If you do not want ReviverSoft to send cookies to your browser, you can set your
 Additionally, ReviverSoft gathers general information about visits to our Web site and stores this information in log files. This information is stored in anonymous profiles and is not associated with a user's account. This information includes the number of total visits to our Web site, and which browser is used to view our Web site (including the version number). No Personal Information is contained in this data. Our current partners help us to track our website usage. No personally identifiable information is collected. ReviverSoft uses this information to understand traffic and downloads on our Web site, enabling us to improve the site, provide the best online experience possible and improve our ability to serve our customers.
 
 We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
+
+ReviverSoft uses Google Analytics to collect non-personal information in the form of various usage and user metrics when you visit and use our websites. These tools and technologies collect and analyze certain types of information, including page views, how you arrived at our site and how long you have spent on our site. This information is depersonalized and is displayed as numbers, meaning it cannot be tracked back to individuals. This information is used to see what content is popular on our website, and so we can continue to give you more of the things you enjoy reading and watching.
+
+ReviverSoft uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example visiting a product information page. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You may opt out of the Google Adwords cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
 
 ## Sharing Your Personal Information
 
@@ -109,3 +115,5 @@ USA
 [www.reviversoft.com](http://www.reviversoft.com/) | [Contact Us](mailto:suggestions@reviversoft.com?subject=Suggestions)  
 Copyright 2012 ReviverSoft LLC  
 All Rights Reserved 
+
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. 
