@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialingot.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625233216id_/http%3A//socialingot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialingot.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126165128id_/http%3A//www.socialingot.com/privacy) for the most accurate reproduction.*
 
 # Social Ingot
 
@@ -113,6 +113,6 @@ We may change this Policy at any time and from time to time. Any changes to this
 
 If you have any questions about this Policy or would like to learn more about how we protect privacy, please write to us at privacy@socialgrowthtechnologies.com, or at:
 
-Social Growth Technologies, Inc (d/b/a Social Ingot), 9250 Bendix Road, Columbia, MD 21045 or by fax at 410-313-7515.
+Social Growth Technologies, Inc (d/b/a Social Ingot), 8820 Columbia 100 Parkway, Suite 300, MD 21045 or by fax at 410-313-7515.
 
 Privacy Policy: last updated June 14, 2012.
