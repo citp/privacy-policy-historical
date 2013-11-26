@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gg2.net privacy policy that was archived on 2013-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130527021450id_/http%3A//www.gg2.net/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gg2.net privacy policy that was archived on 2013-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126145452id_/http%3A//www.gg2.net/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,7 +10,7 @@
 <!-- for menu only -->
 <link href="http://www.gg2.net/css/menu1.css" rel="stylesheet" type="text/css">
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-RJFBP"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -23,6 +23,32 @@
 </head>
 <body>
 <script type="text/javascript">
+/*window.setInterval(function()
+{
+	get_timestamp();
+
+}, 38000);*/
+function get_timestamp($time)
+{
+	xmlHttp=GetXmlHttpObject();
+	if (xmlHttp==null)
+    {
+        alert ("Browser does not support HTTP Request");
+        return;
+    }
+	var keyword=document.getElementById('time').innerHTML;
+	var url="http://www.gg2.net/Ajax/get_timestamp.php?keyword="+keyword;
+	xmlHttp.open("GET",url,true);		
+	xmlHttp.onreadystatechange=function()
+	{
+		if (xmlHttp.readyState == 4)
+		{	str = xmlHttp.responseText;
+			document.getElementById('time').innerHTML=str;
+		}
+	}
+    xmlHttp.send(null);
+	return;
+}
 function getsearch(keyword)
 {
 	xmlHttp=GetXmlHttpObject();
@@ -73,6 +99,26 @@ function GetXmlHttpObject()
 	frm.EMAIL.value="";
 }*/
 </script>
+<!--Scrolling banner js & css start-->
+<!--<script type="text/javascript" src="http://www.gg2.net/js/bannerscroll/jquery.js"></script>-->
+<script type="text/javascript" src="http://www.gg2.net/js/bannerscroll/cycle-plugin.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+$('#fade').cycle();
+});
+
+</script>
+<style type="text/css">
+
+	#fade{
+width: 728px;
+  height: 90px;
+ /*a width should be defined for transition to work*/
+/*border: 0px solid orange;
+padding: 5px;*/
+}   
+    </style>
+<!--Scrolling banner js & css end-->    
 <style type="text/css">
 #toplinks ul li ul{list-style: none outside none; margin:0; padding:0; float:left;  left:275px; background:none!important; border:none !important; top:47px;}
 #toplinks ul li ul li { border:1px solid #E60E41!important; border-radius:20px!important; -moz-border-radius:20px!important; -webkit-border-radius:20px!important; float: left; margin: 0 2px 0 0!important; color:#505050!important; padding:15px 5px 10px 5px!important; background-color:#fff!important; box-shadow:0 0 10px #bcbcbc!important; -moz-box-shadow:0 0 10px #bcbcbc!important; -webkit-box-shadow:0 0 10px #bcbcb!important; position:relative;!important; width:705px!important; text-align:left;
@@ -124,8 +170,13 @@ function GetXmlHttpObject()
       </ul>
     </div>
     <div id="banner">
-            <a href="http://www.gg2.net/banner_click.php?bannerId=34" target="_blank"><img src="http://www.gg2.net/ad_banner/imgBanner/1363850042_stan_leader.gif" width="728px" height="90px"></a>
-          </div>
+              	<div id="fade" style="float-left;">
+                  <a href="http://www.gg2.net/banner_click.php?bannerId=57" target="_blank"><img src="http://www.gg2.net/ad_banner/imgBanner/1377245183_Artwork.gif" width="728px" height="90px"></a>
+            <a href="http://www.gg2.net/banner_click.php?bannerId=65" target="_blank"><img src="http://www.gg2.net/ad_banner/imgBanner/1382775096_ASK.gif" width="728px" height="90px"></a>
+            <a href="http://www.gg2.net/banner_click.php?bannerId=67" target="_blank"><img src="http://www.gg2.net/ad_banner/imgBanner/1383917104_pespico-banner.jpg" width="728px" height="90px"></a>
+            <a href="http://www.gg2.net/banner_click.php?bannerId=69" target="_blank"><img src="http://www.gg2.net/ad_banner/imgBanner/1385383374_Kerala-Ayurveda-2(1).gif" width="728px" height="90px"></a>
+                 </div> 
+		    </div>
   </div>
 </div>
 <!--<nav>
@@ -316,9 +367,9 @@ function GetXmlHttpObject()
           <li><a href="http://www.jobsbuster.com/" target="_blank">Jobs Buster</a></li>
           <li><a href="http://www.indiaweekly.co.uk/" target="_blank">India Weekly</a>|</li>
           <li><a href="http://www.pakistanweekly.co.uk/" target="_blank">Pakistan Weekly</a>|</li>
-          <li><a href="http://www.srilankweekly.co.uk/" target="_blank">Srilanka Weekly</a>|</li>
+          <li><a href="http://www.srilankaweekly.co.uk/" target="_blank">Srilanka Weekly</a>|</li>
           <li><a href="http://www.bangladeshweekly.com/" target="_blank">Bangladesh Weekly</a>|</li>
-          <li><a href="http://www.asiantimes.co.uk/" target="_blank">Asian Times</a>|</li>
+          <li><a href="http://www.asiantimesonline.co.uk/" target="_blank">Asian Times</a>|</li>
           <li><a href="http://www.gg2.net/subs" target="_blank">Subscriptions</a></li>
         </ul>
       </div>
@@ -343,5 +394,14 @@ function GetXmlHttpObject()
     </div>
   </div>
 </div>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-RJFBP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-RJFBP');</script>
+<!-- End Google Tag Manager -->
+
 
 </body></html>
