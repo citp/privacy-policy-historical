@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebelbetting.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530070326id_/http%3A//rebelbetting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebelbetting.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126213734id_/http%3A//rebelbetting.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sports Arbitrage - RebelBetting
 
