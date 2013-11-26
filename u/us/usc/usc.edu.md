@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621071215id_/http%3A//policies.usc.edu/p2admOpBus/privacy_personal_information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126023529id_/http%3A//policies.usc.edu/p2admOpBus/privacy_personal_information.html) for the most accurate reproduction.*
 
 # USC Policy: Privacy of Personal Information
 
 ## Administrative and Business Practices
 
-### Privacy of Personal Information
+Date issued: December 1, 2004
 
-Date issued: December 1, 2004 
+### Privacy of Personal Information
 
 The University of Southern California is committed to the responsible use of personal information collected from and about students, faculty, staff, business partners and others who provide such information to us and to compliance with both state and federal regulations concerning the use of personal information. Such personal information includes any number that may be used, alone or in conjunction with any other information, to identify a specific individual; or other personal information that could be used to cause financial or reputational harm to an individual. This policy applies to information that is collected by any means whether electronically, by telephone, or on paper.
 
@@ -81,14 +81,14 @@ University of Southern California
 
 ### Quick links
 
-  * [Index to university policy](https://web.archive.org/web/20130621071215id_/http%3A//policies.usc.edu/i-alphaindex.html)—an alphabetical list of every policy
-  * [What's new](https://web.archive.org/web/20130621071215id_/http%3A//policies.usc.edu/i-newpoli.html)—the most recent changes to university policy
-  * [Policy procedures](https://web.archive.org/web/20130621071215id_/http%3A//policies.usc.edu/i-policy_procedures.html)—help for those wishing to issue or revise a university policy
+  * [Index to university policy](https://web.archive.org/web/20131126023529id_/http%3A//policies.usc.edu/i-alphaindex.html)—an alphabetical list of every policy
+  * [What's new](https://web.archive.org/web/20131126023529id_/http%3A//policies.usc.edu/i-newpoli.html)—the most recent changes to university policy
+  * [Policy procedures](https://web.archive.org/web/20131126023529id_/http%3A//policies.usc.edu/i-policy_procedures.html)—help for those wishing to issue or revise a university policy
   * [Academic calendar](http://academics.usc.edu/calendar/)
-  * [Holiday schedule](https://web.archive.org/web/20130621071215id_/http%3A//policies.usc.edu/i-holidays_schedule.html)
+  * [Holiday schedule](https://web.archive.org/web/20131126023529id_/http%3A//policies.usc.edu/i-holidays_schedule.html)
 
 
-  * [Policy archive](https://web.archive.org/web/20130621071215id_/http%3A//policies.usc.edu/i-archive.html)—historical reference to policy updates
+  * [Policy archive](https://web.archive.org/web/20131126023529id_/http%3A//policies.usc.edu/i-archive.html)—historical reference to policy updates
 
 
 
