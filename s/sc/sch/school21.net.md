@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the school21.net privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625195645id_/http%3A//school21.net/corporate/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the school21.net privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126103823id_/http%3A//www.school21.net/corporate/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy
 
