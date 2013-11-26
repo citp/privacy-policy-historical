@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bouclair.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621001920id_/http%3A//www.bouclair.com/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bouclair.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126160431id_/http%3A//www.bouclair.com/content/privacypolicy) for the most accurate reproduction.*
 
 # Bouclair Home
 
