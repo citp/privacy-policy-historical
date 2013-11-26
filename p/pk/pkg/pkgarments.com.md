@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pkgarments.com privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318090617id_/http%3A//www.pkgarments.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkgarments.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126234630id_/http%3A//www.pkgarments.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pakistani Fashion Clothing. Ladies Salwar Kameez, Designer Collection, Party Wears & Bridal Dresses
 
