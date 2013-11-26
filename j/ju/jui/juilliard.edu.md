@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juilliard.edu privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527021456id_/http%3A//www.juilliard.edu/juilliard-school-web-site-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juilliard.edu privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127002902id_/http%3A//www.juilliard.edu/juilliard-school-web-site-privacy-statement) for the most accurate reproduction.*
 
 # Juilliard School Web Site Privacy Statement | The Juilliard School
 
@@ -14,7 +14,7 @@ There are four types of information that this site may collect during your visit
 
 ### Web Visit Logs
 
-Logs are kept of the I.P. (Internet Protocol) address and country of the computer visiting the site; the page visited; the type of browser used; and the operating system of the computer. Personally identifiable information such as individuals' names, addresses, or phone numbers do not appear in the Web Visit Logs.
+Logs are kept of the IP (Internet Protocol) address and country of the computer visiting the site; the page visited; the type of browser used; and the operating system of the computer. Personally identifiable information such as individuals' names, addresses, or phone numbers do not appear in the Web Visit Logs.
 
 ### Network Traffic Logs
 
@@ -60,6 +60,6 @@ If you complete the profile update form in the Online Alumni Community and share
 
 ### Questions About Our Policies
 
-When you sign up for a mailing list or make a contribution from this Web site, Juilliard will use information provided in order to contact you about activities of The Juilliard School. From time to time, we may share this information with carefully selected partners. Should you decide that you prefer that your information not be used for these purposes, you may notify us of your preference by writing to us at [development@juilliard.edu](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=development@juilliard.edu), and we will honor your request.
+When you sign up for a mailing list or make a contribution from this Web site, Juilliard will use information provided in order to contact you about activities of The Juilliard School. From time to time, we may share this information with carefully selected partners. Should you decide that you prefer that your information not be used for these purposes, you may notify us of your preference by writing to us at [development@juilliard.edu](mailto:development@juilliard.edu), and we will honor your request.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please e-mail the Juilliard Publications Office at [publications@juilliard.edu](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=publications@juilliard.edu), or, for questions about the Juilliard Alumni Online Community, e-mail [alumni@juilliard.edu.](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=alumni@juilliard.edu)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please e-mail the Juilliard Publications Office at [publications@juilliard.edu](mailto:publications@juilliard.edu), or, for questions about the Juilliard Alumni Online Community, e-mail [alumni@juilliard.edu.](mailto:alumni@juilliard.edu)
