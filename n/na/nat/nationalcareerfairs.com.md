@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalcareerfairs.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602041013id_/http%3A//www.nationalcareerfairs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcareerfairs.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126010424id_/http%3A//www.nationalcareerfairs.com/privacy_policy) for the most accurate reproduction.*
 
 # National Career Fairs Privacy Policy
 
