@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mykoreankitchen.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622100602id_/http%3A//mykoreankitchen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mykoreankitchen.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126204351id_/http%3A//mykoreankitchen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - My Korean Kitchen
 
@@ -52,7 +52,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**children’s Online Privacy Protection Act Compliance**
+**Children’s Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
