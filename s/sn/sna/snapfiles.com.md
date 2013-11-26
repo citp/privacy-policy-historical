@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfiles.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501004744id_/http%3A//www.snapfiles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfiles.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126101427id_/http%3A//www.snapfiles.com/privacy.html) for the most accurate reproduction.*
 
 # SnapFiles Privacy Policy
 
@@ -6,13 +6,9 @@
 
 WebAttack, Inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. WebAttack, Inc. collects information from our users at several different points on our website. 
 
-### Software Store
-
-The Snapfiles Software Store is operated by Cleverbridge, who handle the order processing on behalf of Snapfiles. You can [review the CleverBridge Privacy Policy here](http://www.cleverbridge.com/?scope=contact&id=AKjxhsiZwH&progress=privacy) . 
-
 ### Registration
 
-In order to use some parts of this website (e.g. forums or member areas), a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as income level and gender or personal interests), and unique identifiers, but encouraged so we can provide a more personalized experience on our site. Orders/Membership subscriptions We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+In order to use some parts of this website (e.g. forums or member areas), a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as income level and gender or personal interests), and unique identifiers, but encouraged so we can provide a more personalized experience on our site. 
 
 ### Cookies
 
