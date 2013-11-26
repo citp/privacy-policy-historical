@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ffxivinfo.com privacy policy that was archived on 2013-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130527035952id_/http%3A//www.ffxivinfo.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ffxivinfo.com privacy policy that was archived on 2013-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126135741id_/http%3A//www.ffxivinfo.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
   <title>Privacy Policy | FFXIV Info (FF14, Final Fantasy XIV)</title>
@@ -7,60 +7,536 @@
   <meta name="description" content="An excellent resource for Final Fantasy XIV. Latest news, information, screenshots, trailers, and community."> 
   <meta name="keywords" content="final fantasy, final, fantasy, final fantasy online, information, ff, ff14, ff11, ffxiv, ffxi, final fantasy xiv info, final fantasy xiv information, final fantasy 14 info, final fantasy 14 information, ff14 info, ffxiv info, ffxiv information, ff14 information, 14, xiv, forums, guildleves, eorzea, world, release date, armoury system, disciplines, aetheryte, combat, hydaelyn, city states, races, beta, trailers, wallpapers, screenshots, news"> 
 
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery-1.8.0.min.js"></script>
+  <script type="text/javascript" src="js/megadrop.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/menu.css" media="screen">
   <link rel="stylesheet" type="text/css" href="css/styles.css">
-  <link rel="stylesheet" type="text/css" href="css/navstyle.css">
   <link rel="shortcut icon" href="ffxiv.ico">
 
  </head>
  <body>
 
-<div id="container">
-	<div id="header">
-		<div id="logo"><a href="/"><img src="images/transparent.png" height="140" width="310"></a></div>
-			<div id="searchdb">
-				<form name="finditem" action="items/search.php" method="post">
-					<table class="maintable">
-						<tbody><tr>
-							<td class="recipebg" width="200">Search Item Database:</td>
-							<td class="searchbg">
-								<input type="text" name="itemname" maxlength="128" size="74" class="search" value="">
-							</td>
-							<td class="recipebg">
-								<input type="submit" name="finditem" class="log" value="Go!">
-							</td>
-						</tr>
-					</tbody></table>
-				</form>
-				<br>
-			</div>
-		<div id="leaderboard"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-					<!--
-					google_ad_client = "ca-pub-9818908419421064";
-					/* FFXIV Leaderboard */
-					google_ad_slot = "3404354052";
-					google_ad_width = 728;
-					google_ad_height = 90;
-					//-->
-				</script>
-				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-				</script></div>
-	</div><div id="navigation"><div class="navstyle" id="navmenu">
-		<ul class="pureCssMenu">
-			<li class="top">
-				<a href="/"><img src="images/nav/ffxiv-home.png" alt="Home"></a>
+<div id="container"><div id="navcontainer">
+		<ul id="menu">
+			<li>
+				<a href="/"><img src="images/nav/s/ffxiv-home.png" alt="Home"></a>
 			</li>
-			<li class="top">
+			<li>
 				<a href="news.php">News</a>
 			</li>
-			<li class="top">
-				<a href="class/disciplines.php"><span>Disciplines <img src="images/la/down.gif"></span></a>
-				<ul class="disciplines">
-					<li>
-						<div class="sprite nav-ffxiv-disciples-of-war"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="class/archer.php">War</a></div>
-						<div id="clear"></div>
-						<ul class="war">
+			<li><a href="items/archer.php" class="drop">Equip DB</a>
+				<div class="dropdown_13columns">
+					<div class="col_1_5">
+						<center><span class="orangenav">Weapons</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-ffxiv-archer"></div>
+								<div class="navlink"><a href="items/archer.php">ARC</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-gladiator"></div>
+								<div class="navlink"><a href="items/gladiator.php">GLA</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-lancer"></div>
+								<div class="navlink"><a href="items/lancer.php">LNC</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-marauder"></div>
+								<div class="navlink"><a href="items/marauder.php">MRD</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-pugilist"></div>
+								<div class="navlink"><a href="items/pugilist.php">PGL</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_1_5">
+						<center><span class="orangenav">Weapons</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-ffxiv-conjurer"></div>
+								<div class="navlink"><a href="items/conjurer.php">CNJ</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-thaumaturge"></div>
+								<div class="navlink"><a href="items/thaumaturge.php">THM</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-arcanist"></div>
+								<div class="navlink"><a href="items/arcanist.php">ACN</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-shields"></div>
+								<div class="navlink"><a href="items/shields.php">SHD</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_1_5">
+						<center><span class="orangenav">Tools</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-alc-alembic"></div>
+								<div class="navlink"><a href="items/alchemist.php">ALC</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-arm-mallet"></div>
+								<div class="navlink"><a href="items/armorer.php">ARM</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-bsm-hammer"></div>
+								<div class="navlink"><a href="items/blacksmith.php">BSM</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-crp-saw"></div>
+								<div class="navlink"><a href="items/carpenter.php">CRP</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-cul-pan"></div>
+								<div class="navlink"><a href="items/culinarian.php">CUL</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-gsm-gavel"></div>
+								<div class="navlink"><a href="items/goldsmith.php">GSM</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>   
+					</div>
+					<div class="col_1_5">
+						<center><span class="orangenav">Tools</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-ltw-knife"></div>
+								<div class="navlink"><a href="items/leatherworker.php">LTW</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-wvr-needle"></div>
+								<div class="navlink"><a href="items/weaver.php">WVR</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-btn-axe"></div>
+								<div class="navlink"><a href="items/botanist.php">BTN</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-fsh-rod"></div>
+								<div class="navlink"><a href="items/fisher.php">FSH</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-min-pickaxe"></div>
+								<div class="navlink"><a href="items/miner.php">MIN</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-fsh-rod"></div>
+								<div class="navlink"><a href="items/fishing-tackle.php">Tackle</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_1_6">
+						<center><span class="orangenav">Jewelry</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-necklaces"></div>
+								<div class="navlink"><a href="items/necklaces.php">Neck</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-earrings"></div>
+								<div class="navlink"><a href="items/earrings.php">Ear</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-bracelets"></div>
+								<div class="navlink"><a href="items/bracelets.php">Wrist</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-rings"></div>
+								<div class="navlink"><a href="items/rings.php">Ring</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>   
+					</div>
+					<div class="col_1_7">
+						<center><span class="orangenav">Armor</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-head-41-50"></div>
+								<div class="navlink"><a href="items/head-1-20.php">Head &nbsp;&nbsp;1-20</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-body-41-50"></div>
+								<div class="navlink"><a href="items/body-1-20.php">Body &nbsp;&nbsp;1-20</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-hands-41-50"></div>
+								<div class="navlink"><a href="items/hands-1-20.php">Hands 1-20</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-legs-41-50"></div>
+								<div class="navlink"><a href="items/legs-1-20.php">Legs &nbsp;&nbsp;1-20</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-feet-41-50"></div>
+								<div class="navlink"><a href="items/feet-1-20.php">Feet &nbsp;&nbsp;&nbsp;1-20</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-waist-41-50"></div>
+								<div class="navlink"><a href="items/waist-1-20.php">Waist &nbsp;1-20</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_0">
+						<center><span class="orangenav">&nbsp;</span></center>
+						<ul>
+							<li>
+								<div class="navlink"><a href="items/head-21-40.php">21-40</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="navlink"><a href="items/body-21-40.php">21-40</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="navlink"><a href="items/hands-21-40.php">21-40</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="navlink"><a href="items/legs-21-40.php">21-40</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="navlink"><a href="items/feet-21-40.php">21-40</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="navlink"><a href="items/waist-21-40.php">21-40</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_0_5">
+						<center><span class="orangenav">&nbsp;</span></center>
+						<ul>
+							<li>
+								<div class="navlink"><a href="items/head-41-50.php">41-50</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="navlink"><a href="items/body-41-50.php">41-50</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="navlink"><a href="items/hands-41-50.php">41-50</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="navlink"><a href="items/legs-41-50.php">41-50</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="navlink"><a href="items/feet-41-50.php">41-50</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="navlink"><a href="items/waist-41-50.php">41-50</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_1_7">
+						<center><span class="orangenav">Special</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-relics"></div>
+								<div class="navlink"><a href="items/search.php?i=relics">Relics</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-primal"></div>
+								<div class="navlink"><a href="items/search.php?i=primal">Primal</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-luminary"></div>
+								<div class="navlink"><a href="items/search.php?i=luminary">Luminary</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-darklight"></div>
+								<div class="navlink"><a href="items/search.php?i=darklight">Darklight</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-artifact"></div>
+								<div class="navlink"><a href="items/search.php?i=artifact">Artifact</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-darklight"></div>
+								<div class="navlink"><a href="items/search.php?i=allagan">Allagan</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_1">
+						<center><span class="orangenav">Company</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-ffxiv-gridania"></div>
+								<div class="navlink"><a href="items/search.php?i=gridania">Gridania</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-uldah"></div>
+								<div class="navlink"><a href="items/search.php?i=uldah">Ul'dah</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-limsa-lominsa"></div>
+								<div class="navlink"><a href="items/search.php?i=limsa-lominsa">Limsa</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</li>
+			<li><a href="items/archer.php" class="drop">Item DB</a>
+				<div class="dropdown_12columns align_itemdb">
+					<div class="col_1_7">
+						<center><span class="orangenav">Consumable</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-potions"></div>
+								<div class="navlink"><a href="items/medicine.php">Medicine</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-food"></div>
+								<div class="navlink"><a href="items/food.php">Food</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-fish"></div>
+								<div class="navlink"><a href="items/fish.php">Fish</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ingredients"></div>
+								<div class="navlink"><a href="items/ingredients.php">Ingredient</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-beastmen-strongholds"></div>
+								<div class="navlink"><a href="items/minions.php">Minions</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_1_7">
+						<center><span class="orangenav">Materia</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-ffxiv-attribute-materia"></div>
+								<div class="navlink"><a href="materia/attribute.php">Attribute</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-physical-materia"></div>
+								<div class="navlink"><a href="materia/physical.php">Physical</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-defensive-materia"></div>
+								<div class="navlink"><a href="materia/defensive.php">Defensive</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-crafting-materia"></div>
+								<div class="navlink"><a href="materia/craft-gathering.php">Crafting &amp;</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-gathering-materia"></div>
+								<div class="navlink"><a href="materia/craft-gathering.php">Gathering</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_1_7">
+						<center><span class="orangenav">Ironmonger</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-metal"></div>
+								<div class="navlink"><a href="items/metal.php">Metal</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ore"></div>
+								<div class="navlink"><a href="items/ore.php">Ore</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-stone"></div>
+								<div class="navlink"><a href="items/stone.php">Stone</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-gemstone"></div>
+								<div class="navlink"><a href="items/gemstone.php">Gemstone</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-weaponparts"></div>
+								<div class="navlink"><a href="items/weaponparts.php">Parts</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+
+					<div class="col_1_7">
+						<center><span class="orangenav">Tanners</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-hidesfur"></div>
+								<div class="navlink"><a href="items/hidesfur.php">Hides &amp; Fur</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-leather"></div>
+								<div class="navlink"><a href="items/leather.php">Leather</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-bones"></div>
+								<div class="navlink"><a href="items/bones.php">Bones</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+						<center><span class="orangenav">Wood</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-rawwood"></div>
+								<div class="navlink"><a href="items/rawwood.php">Raw Wood</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-lumber"></div>
+								<div class="navlink"><a href="items/lumber.php">Lumber</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_1_8">
+						<center><span class="orangenav">Clothiers</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-fiber"></div>
+								<div class="navlink"><a href="items/fiber.php">Fiber</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-cloth"></div>
+								<div class="navlink"><a href="items/cloth.php">Cloth</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-featherfletching"></div>
+								<div class="navlink"><a href="items/feathers.php">Feathers</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+						<center><span class="orangenav">Special</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-questitems"></div>
+								<div class="navlink"><a href="items/questitems.php">Quest Items</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-amulets"></div>
+								<div class="navlink"><a href="items/amulets.php">Amulets</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_1_8">
+						<center><span class="orangenav">Other</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-reagents"></div>
+								<div class="navlink"><a href="items/reagents.php">Reagents</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-dyepaints"></div>
+								<div class="navlink"><a href="items/dyes.php">Dyes</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-furnishings"></div>
+								<div class="navlink">Furnishings</div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-crystals"></div>
+								<div class="navlink"><a href="items/crystals.php">Crystals</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-catalysts"></div>
+								<div class="navlink"><a href="items/catalysts.php">Catalysts</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-miscellany"></div>
+								<div class="navlink"><a href="items/miscellany.php">Miscellany</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_0">
+						<center><span class="orangenav">Patches</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-patches"></div>
+								<div class="navlink"><a href="items/patch1.23.php">1.23</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</li>
+			<li><a href="class/disciplines.php" class="drop">Disciplines</a>
+				<div class="dropdown_13columns align_disciplines">
+					<div class="col_1_7">
+						<center><span class="orangenav">War</span></center>
+						<ul>
 							<li>
 								<div class="sprite nav-ffxiv-archer"></div>
 								<div class="navlink"><a href="class/archer.php">Archer</a></div>
@@ -87,13 +563,10 @@
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-disciples-of-magic"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="class/conjurer.php">Magic</a></div>
-						<div id="clear"></div>
-						<ul class="magic">
+					</div>
+					<div class="col_2">
+						<center><span class="orangenav">Magic</span></center>
+						<ul>
 							<li>
 								<div class="sprite nav-ffxiv-arcanist"></div>
 								<div class="navlink"><a href="class/arcanist.php">Arcanist</a></div>
@@ -110,13 +583,10 @@
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-jobs"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="job/bard.php">Jobs</a></div>
-						<div id="clear"></div>
-						<ul class="jobs">
+					</div>
+					<div class="col_1_8">
+						<center><span class="orangenav">Job</span></center>
+						<ul>
 							<li>
 								<div class="sprite nav-ffxiv-bard"></div>
 								<div class="navlink"><a href="job/bard.php">Bard</a></div>
@@ -142,8 +612,18 @@
 								<div class="navlink"><a href="job/paladin.php">Paladin</a></div>
 								<div id="clear"></div>
 							</li>
+						</ul>
+					</div>
+					<div class="col_1_8">
+						<center><span class="orangenav">Job</span></center>
+						<ul>
 							<li>
-								<div class="sprite nav-ffxiv-jobs"></div>
+								<div class="sprite nav-scholar"></div>
+								<div class="navlink"><a href="job/scholar.php">Scholar</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-summoner"></div>
 								<div class="navlink"><a href="job/summoner.php">Summoner</a></div>
 								<div id="clear"></div>
 							</li>
@@ -158,13 +638,10 @@
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-disciples-of-hand"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="class/alchemist.php">Hand</a></div>
-						<div id="clear"></div>
-						<ul class="hand">
+					</div>
+					<div class="col_1_8">
+						<center><span class="orangenav">Hand</span></center>
+						<ul>
 							<li>
 								<div class="sprite nav-ffxiv-alchemist"></div>
 								<div class="navlink"><a href="class/alchemist.php">Alchemist</a></div>
@@ -185,6 +662,11 @@
 								<div class="navlink"><a href="class/carpenter.php">Carpenter</a></div>
 								<div id="clear"></div>
 							</li>
+						</ul>
+					</div>
+					<div class="col_2_1">
+						<center><span class="orangenav">Hand</span></center>
+						<ul>
 							<li>
 								<div class="sprite nav-ffxiv-culinarian"></div>
 								<div class="navlink"><a href="class/culinarian.php">Culinarian</a></div>
@@ -202,17 +684,14 @@
 							</li>
 							<li>
 								<div class="sprite nav-ffxiv-weaver"></div>
-								<div class="navlink"><a href="class/weaver.php">WWeaver</a></div>
+								<div class="navlink"><a href="class/weaver.php">Weaver</a></div>
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-disciples-of-land"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="class/botanist.php">Land</a></div>
-						<div id="clear"></div>
-						<ul class="land">
+					</div>
+					<div class="col_0">
+						<center><span class="orangenav">Land</span></center>
+						<ul>
 							<li>
 								<div class="sprite nav-ffxiv-botanist"></div>
 								<div class="navlink"><a href="class/botanist.php">Botanist</a></div>
@@ -229,1043 +708,205 @@
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-				</ul>
+					</div>
+				</div>
 			</li>
-			<li class="top"><a href="items/archer.php"><span>Item DB <img src="images/la/down.gif"></span></a>
-				<ul class="itemdb">
-					<li>
-						<div class="sprite nav-weapons"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/archer.php">Weapons</a></div>
-						<div id="clear"></div>
-						<ul class="weapons">
-							<li>
-								<div class="sprite nav-arc-bow"></div>
-								<div class="navlink"><a href="items/archer.php">Archer &amp; Bard</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-gla-sword"></div>
-								<div class="navlink"><a href="items/gladiator.php">Gladiator &amp; Paladin</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-lnc-spear"></div>
-								<div class="navlink"><a href="items/lancer.php">Lancer &amp; Dragoon</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-mrd-axe"></div>
-								<div class="navlink"><a href="items/marauder.php">Marauder &amp; Warrior</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-pgl-hora"></div>
-								<div class="navlink"><a href="items/pugilist.php">Pugilist &amp; Monk</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-cnj-wand"></div>
-								<div class="navlink"><a href="items/conjurer.php">Conjurer &amp; White Mage</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-thm-rod"></div>
-								<div class="navlink"><a href="items/thaumaturge.php">Thaumaturge &amp; Black Mage</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-shields"></div>
-								<div class="navlink"><a href="items/shields.php">Shields</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-throwing"></div>
-								<div class="navlink"><a href="items/throwing.php">Throwing</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ammunition"></div>
-								<div class="navlink"><a href="items/ammunition.php">Ammunition</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-tools"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/alchemist.php">Tools</a></div>
-						<div id="clear"></div>
-						<ul class="tools">
-							<li>
-								<span class="linkhead"><center>Crafting:</center></span>
-								</li>
-							<li>
-							</li><li>
-								<div class="sprite nav-alc-alembic"></div>
-								<div class="navlink"><a href="items/alchemist.php">Alchemist</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-arm-mallet"></div>
-								<div class="navlink"><a href="items/armorer.php">Armorer</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-bsm-hammer"></div>
-								<div class="navlink"><a href="items/blacksmith.php">Blacksmith</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-crp-saw"></div>
-								<div class="navlink"><a href="items/carpenter.php">Carpenter</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-cul-pan"></div>
-								<div class="navlink"><a href="items/culinarian.php">Culinarian</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-gsm-gavel"></div>
-								<div class="navlink"><a href="items/goldsmith.php">Goldsmith</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ltw-knife"></div>
-								<div class="navlink"><a href="items/leatherworker.php">Leatherworker</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-wvr-needle"></div>
-								<div class="navlink"><a href="items/weaver.php">Weaver</a></div>
-								<div id="clear"></div>
-							</li>
-							<br>
-							<li>
-								<span class="linkhead"><center>Gathering:</center></span>
-							</li>
-							<li>
-								<div class="sprite nav-btn-axe"></div>
-								<div class="navlink"><a href="items/botanist.php">Botanist</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-fsh-rod"></div>
-								<div class="navlink"><a href="items/fisher.php">Fisher</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-min-pickaxe"></div>
-								<div class="navlink"><a href="items/miner.php">Miner</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-baitlure"></div>
-								<div class="navlink"><a href="items/baitlure.php">Bait &amp; Lure</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-armor-1-20"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/head-1-20.php">Armor 1-20</a></div>
-						<div id="clear"></div>
-						<ul class="armor">
-							<li>
-								<div class="sprite nav-head-1-20"></div>
-								<div class="navlink"><a href="items/head-1-20.php">Head</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-body-1-20"></div>
-								<div class="navlink"><a href="items/body-1-20.php">Body</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-hands-1-20"></div>
-								<div class="navlink"><a href="items/hands-1-20.php">Hands</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-legs-1-20"></div>
-								<div class="navlink"><a href="items/legs-1-20.php">Legs</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-feet-1-20"></div>
-								<div class="navlink"><a href="items/feet-1-20.php">Feet</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-waist-1-20"></div>
-								<div class="navlink"><a href="items/waist-1-20.php">Waist</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-undergarment-1-20"></div>
-								<div class="navlink"><a href="items/undergarment-1-20.php">Undergarment</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-armor-21-40"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/head-21-40.php">Armor 21-40</a></div>
-						<div id="clear"></div>
-						<ul class="armor">
-							<li>
-								<div class="sprite nav-head-21-40"></div>
-								<div class="navlink"><a href="items/head-21-40.php">Head</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-body-21-40"></div>
-								<div class="navlink"><a href="items/body-21-40.php">Body</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-hands-21-40"></div>
-								<div class="navlink"><a href="items/hands-21-40.php">Hands</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-legs-21-40"></div>
-								<div class="navlink"><a href="items/legs-21-40.php">Legs</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-feet-21-40"></div>
-								<div class="navlink"><a href="items/feet-21-40.php">Feet</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-waist-21-40"></div>
-								<div class="navlink"><a href="items/waist-21-40.php">Waist</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-undergarment-21-40"></div>
-								<div class="navlink"><a href="items/undergarment-21-40.php">Undergarment</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-armor-41-50"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/head-41-50.php">Armor 41-50</a></div>
-						<div id="clear"></div>
-						<ul class="armor">
-							<li>
-								<div class="sprite nav-head-41-50"></div>
-								<div class="navlink"><a href="items/head-41-50.php">Head</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-body-41-50"></div>
-								<div class="navlink"><a href="items/body-41-50.php">Body</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-hands-41-50"></div>
-								<div class="navlink"><a href="items/hands-41-50.php">Hands</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-legs-41-50"></div>
-								<div class="navlink"><a href="items/legs-41-50.php">Legs</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-feet-41-50"></div>
-								<div class="navlink"><a href="items/feet-41-50.php">Feet</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-waist-41-50"></div>
-								<div class="navlink"><a href="items/waist-41-50.php">Waist</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-undergarment-41-50"></div>
-								<div class="navlink"><a href="items/undergarment-41-50.php">Undergarment</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-jewelry"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/necklaces.php">Jewelry</a></div>
-						<div id="clear"></div>
-						<ul class="jewelry">
-							<li>
-								<div class="sprite nav-necklaces"></div>
-								<div class="navlink"><a href="items/necklaces.php">Necklaces</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-earrings"></div>
-								<div class="navlink"><a href="items/earrings.php">Earrings</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-bracelets"></div>
-								<div class="navlink"><a href="items/bracelets.php">Bracelets</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-rings"></div>
-								<div class="navlink"><a href="items/rings.php">Rings</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-crowns"></div>
-								<div class="navlink"><a href="items/crowns.php">Crowns</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-eyewear"></div>
-								<div class="navlink"><a href="items/eyewear.php">Eyewear</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-grocers"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/food.php">Grocers Ward</a></div>
-						<div id="clear"></div>
-						<ul class="grocers">
-							<li>
-								<div class="sprite nav-food"></div>
-								<div class="navlink"><a href="items/food.php">Food</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-drinks"></div>
-								<div class="navlink"><a href="items/drinks.php">Drinks</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ingredients"></div>
-								<div class="navlink"><a href="items/ingredients.php">Ingredients</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-fish"></div>
-								<div class="navlink"><a href="items/fish.php">Fish</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-chirurgeons"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/potions.php">Chirurgeons Ward</a></div>
-						<div id="clear"></div>
-						<ul class="chirurgeons">
-							<li>
-								<div class="sprite nav-potions"></div>
-								<div class="navlink"><a href="items/potions.php">Potions</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-remedies"></div>
-								<div class="navlink"><a href="items/remedies.php">Remedies</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ethers"></div>
-								<div class="navlink"><a href="items/ethers.php">Ethers</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-toxins"></div>
-								<div class="navlink"><a href="items/toxins.php">Toxins</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-panaceas"></div>
-								<div class="navlink"><a href="items/panaceas.php">Panaceas</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-reagents"></div>
-								<div class="navlink"><a href="items/reagents.php">Reagents</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-dyepaints"></div>
-								<div class="navlink"><a href="items/dyepaints.php">Dye &amp; Paints</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-oils"></div>
-								<div class="navlink"><a href="items/oils.php">Oils</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-ironmongers"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/metal.php">Ironmongers Ward</a></div>
-						<div id="clear"></div>
-						<ul class="ironmongers">
-							<li>
-								<div class="sprite nav-metal"></div>
-								<div class="navlink"><a href="items/metal.php">Metal</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-weaponparts"></div>
-								<div class="navlink"><a href="items/weaponparts.php">Weapon Parts</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-misc"></div>
-								<div class="navlink"><a href="items/misc.php">Misc Metal</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-woodcutters"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/rawwood.php">Woodcutters Ward</a></div>
-						<div id="clear"></div>
-						<ul class="woodcutters">
-							<li>
-								<div class="sprite nav-rawwood"></div>
-								<div class="navlink"><a href="items/rawwood.php">Raw Wood</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-lumber"></div>
-								<div class="navlink"><a href="items/lumber.php">Lumber</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-planks"></div>
-								<div class="navlink"><a href="items/planks.php">Planks</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-tanners"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/hidesfur.php">Tanners Ward</a></div>
-						<div id="clear"></div>
-						<ul class="tanners">
-							<li>
-								<div class="sprite nav-hidesfur"></div>
-								<div class="navlink"><a href="items/hidesfur.php">Hides &amp; Fur</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-leather"></div>
-								<div class="navlink"><a href="items/leather.php">Leather</a></div>
+			<li><a href="content/player-housing.php" class="drop">Content</a>
+				<div class="dropdown_8columns align_content">
+					<div class="col_2_1">
+						<center><span class="orangenav">Party</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-ffxiv-servers"></div>
+								<div class="navlink"><a href="content/pvp.php">PvP</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
 								<div class="sprite nav-bones"></div>
-								<div class="navlink"><a href="items/bones.php">Bones</a></div>
+								<div class="navlink"><a href="content/primals.php">Primals</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-toothclaws"></div>
-								<div class="navlink"><a href="items/toothclaws.php">Tooth &amp; Claws</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-wings"></div>
-								<div class="navlink"><a href="items/wings.php">Wings</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-scutescale"></div>
-								<div class="navlink"><a href="items/scutescale.php">Scute &amp; Scale</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-footwearparts"></div>
-								<div class="navlink"><a href="items/footwearparts.php">Footwear Parts</a></div>
+								<div class="sprite nav-ffxiv-disciples-of-land"></div>
+								<div class="navlink"><a href="content/limit-breaks.php">Limit Breaks</a></div>
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-masons"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/ore.php">Masons Ward</a></div>
-						<div id="clear"></div>
-						<ul class="masons">
+					</div>
+					<div class="col_3">
+						<center><span class="orangenav">Party</span></center>
+						<ul>
 							<li>
-								<div class="sprite nav-ore"></div>
-								<div class="navlink"><a href="items/ore.php">Ore</a></div>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="content/dungeons-leveling.php">Dungeons - Leveling</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-stone"></div>
-								<div class="navlink"><a href="items/stone.php">Stone</a></div>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="content/dungeons-raid.php">Dungeons - Raid</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-gemstone"></div>
-								<div class="navlink"><a href="items/gemstone.php">Gemstone</a></div>
+								<div class="sprite nav-beastmen-strongholds"></div>
+								<div class="navlink"><a href="content/beastmen-strongholds.php">Beastmen Strongholds</a></div>
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-clothiers"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/fiber.php">Clothiers Ward</a></div>
-						<div id="clear"></div>
-						<ul class="clothiers">
+					</div>
+					<div class="col_2_1">
+						<center><span class="orangenav">Solo</span></center>
+						<ul>
 							<li>
-								<div class="sprite nav-fiber"></div>
-								<div class="navlink"><a href="items/fiber.php">Fiber</a></div>
+								<div class="sprite nav-ffxiv-home-big"></div>
+								<div class="navlink"><a href="content/player-housing.php">Player Housing</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-cloth"></div>
-								<div class="navlink"><a href="items/cloth.php">Cloth</a></div>
+								<div class="sprite nav-ffxiv-trailers"></div>
+								<div class="navlink"><a href="content/fate.php">F.A.T.E.</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-clothparts"></div>
-								<div class="navlink"><a href="items/clothparts.php">Cloth Parts</a></div>
+								<div class="sprite nav-quest"></div>
+								<div class="navlink"><a href="content/questing.php">Questing</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-armorparts"></div>
-								<div class="navlink"><a href="items/armorparts.php">Armor Parts</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-featherfletching"></div>
-								<div class="navlink"><a href="items/featherfletching.php">Feather &amp; Fletching</a></div>
+								<div class="sprite nav-ffxiv-guildleves"></div>
+								<div class="navlink"><a href="guildleves.php">Guildleves</a></div>
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-crystaliers"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/crystals.php">Crystaliers Ward</a></div>
-						<div id="clear"></div>
-						<ul class="crystaliers">
-							<li>
-								<div class="sprite nav-crystals"></div>
-								<div class="navlink"><a href="items/crystals.php">Crystals</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-catalysts"></div>
-								<div class="navlink"><a href="items/catalysts.php">Catalysts</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-materia"></div>
-								<div class="navlink"><a href="items/materia.php">Materia</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-tinkerers"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/sundry.php">Tinkerers Ward</a></div>
-						<div id="clear"></div>
-						<ul class="tinkerers">
-							<li>
-								<div class="sprite nav-sundry"></div>
-								<div class="navlink"><a href="items/sundry.php">Sundry</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-beastcoin"></div>
-								<div class="navlink"><a href="items/beastcoins.php">Beastcoin</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-miscellany"></div>
-								<div class="navlink"><a href="items/miscellany.php">Miscellany</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-other"></div>
-								<div class="navlink"><a href="items/other.php">Other</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-specialitems"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/keyitems.php">Special Items</a></div>
-						<div id="clear"></div>
-						<ul class="specialitems">
-							<li>
-								<div class="sprite nav-keyitems"></div>
-								<div class="navlink"><a href="items/keyitems.php">Key Items</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-questitems"></div>
-								<div class="navlink"><a href="items/questitems.php">Quest Items</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-amulets"></div>
-								<div class="navlink"><a href="items/amulets.php">Amulets</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-patches"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="items/patch1.23.php">Patches</a></div>
-						<div id="clear"></div>
-						<ul class="patches">
-							<li>
-								<div class="sprite nav-patch123"></div>
-								<div class="navlink"><a href="items/patch1.23.php">1.23</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-				</ul>
+					</div>
+				</div>
 			</li>
-			<li class="top"><a href="crafting/guide.php"><span>Crafting <img src="images/la/down.gif"></span></a>
-				<ul class="crafting">
-					<li>
-						<div class="sprite nav-ffxiv-guide"></div>
-						<div class="navlink"><a href="crafting/guide.php">Guide</a></div>
-						<div id="clear"></div>
-						<br>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-alchemist"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="crafting/alchemist-level-1-10.php">Alchemist</a></div>
-						<div id="clear"></div>
-						<ul class="craftlevels">
+			<li><a href="class/stats.php" class="drop">Guides</a>
+				<div class="dropdown_10columns align_guides">
+					<div class="col_2">
+						<center><span class="orangenav">General</span></center>
+						<ul>
 							<li>
-								<span class="linkhead"><center>Recipes:</center></span>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting1-10"></div>
-								<div class="navlink"><a href="crafting/alchemist-level-1-10.php">01-10</a></div>
+								<div class="sprite nav-ffxiv-guide"></div>
+								<div class="navlink"><a href="class/stats.php">Stats</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-ulcrafting11-20"></div>
-								<div class="navlink"><a href="crafting/alchemist-level-11-20.php">11-20</a></div>
+								<div class="sprite nav-ffxiv-guide"></div>
+								<div class="navlink"><a href="crafting/guide.php">Crafting</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-ulcrafting21-30"></div>
-								<div class="navlink"><a href="crafting/alchemist-level-21-30.php">21-30</a></div>
+								<div class="sprite nav-ffxiv-guide"></div>
+								<div class="navlink"><a href="materia/guide.php">Materia</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-ulcrafting31-40"></div>
-								<div class="navlink"><a href="crafting/alchemist-level-31-40.php">31-40</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting41-50"></div>
-								<div class="navlink"><a href="crafting/alchemist-level-41-50.php">41-50</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting51-60"></div>
-								<div class="navlink"><a href="crafting/alchemist-level-51-60.php">51-60</a></div>
+								<div class="sprite nav-ffxiv-guide"></div>
+								<div class="navlink"><a href="guides/end-game.php">End Game</a></div>
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-armorer"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="crafting/armorer-level-1-10.php">Armorer</a></div>
-						<div id="clear"></div>
-						<ul class="craftlevels">
+					</div>
+					<div class="col_2">
+						<center><span class="orangenav">Melee Jobs</span></center>
+						<ul>
 							<li>
-								<span class="linkhead"><center>Recipes:</center></span>
-							</li>
-							<li>
-								<div class="sprite nav-llcrafting1-10"></div>
-								<div class="navlink"><a href="crafting/armorer-level-1-10.php">01-10</a></div>
+								<div class="sprite nav-ffxiv-bard"></div>
+								<div class="navlink"><a href="guides/bard.php">Bard</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-llcrafting11-20"></div>
-								<div class="navlink"><a href="crafting/armorer-level-11-20.php">11-20</a></div>
+								<div class="sprite nav-ffxiv-dragoon"></div>
+								<div class="navlink"><a href="guides/dragoon.php">Dragoon</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-llcrafting21-30"></div>
-								<div class="navlink"><a href="crafting/armorer-level-21-30.php">21-30</a></div>
+								<div class="sprite nav-ffxiv-monk"></div>
+								<div class="navlink"><a href="guides/monk.php">Monk</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-llcrafting31-40"></div>
-								<div class="navlink"><a href="crafting/armorer-level-31-40.php">31-40</a></div>
+								<div class="sprite nav-ffxiv-paladin"></div>
+								<div class="navlink"><a href="guides/paladin.php">Paladin</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-llcrafting41-50"></div>
-								<div class="navlink"><a href="crafting/armorer-level-41-50.php">41-50</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-llcrafting51-60"></div>
-								<div class="navlink"><a href="crafting/armorer-level-51-60.php">51-60</a></div>
+								<div class="sprite nav-ffxiv-warrior"></div>
+								<div class="navlink"><a href="guides/warrior.php">Warrior</a></div>
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-blacksmith"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="crafting/blacksmith-level-1-10.php">Blacksmith</a></div>
-						<div id="clear"></div>
-						<ul class="craftlevels">
+					</div>
+					<div class="col_2">
+						<center><span class="orangenav">Magic Jobs</span></center>
+						<ul>
 							<li>
-								<span class="linkhead"><center>Recipes:</center></span>
-							</li>
-							<li>
-								<div class="sprite nav-llcrafting1-10"></div>
-								<div class="navlink"><a href="crafting/blacksmith-level-1-10.php">01-10</a></div>
+								<div class="sprite nav-ffxiv-black-mage"></div>
+								<div class="navlink"><a href="guides/black-mage.php">Black Mage</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-llcrafting11-20"></div>
-								<div class="navlink"><a href="crafting/blacksmith-level-11-20.php">11-20</a></div>
+								<div class="sprite nav-scholar"></div>
+								<div class="navlink"><a href="guides/scholar.php">Scholar</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-llcrafting21-30"></div>
-								<div class="navlink"><a href="crafting/blacksmith-level-21-30.php">21-30</a></div>
+								<div class="sprite nav-summoner"></div>
+								<div class="navlink"><a href="guides/summoner.php">Summoner</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-llcrafting31-40"></div>
-								<div class="navlink"><a href="crafting/blacksmith-level-31-40.php">31-40</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-llcrafting41-50"></div>
-								<div class="navlink"><a href="crafting/blacksmith-level-41-50.php">41-50</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-llcrafting51-60"></div>
-								<div class="navlink"><a href="crafting/blacksmith-level-51-60.php">51-60</a></div>
+								<div class="sprite nav-ffxiv-white-mage"></div>
+								<div class="navlink"><a href="guides/white-mage.php">White Mage</a></div>
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-carpenter"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="crafting/carpenter-level-1-10.php">Carpenter</a></div>
-						<div id="clear"></div>
-						<ul class="craftlevels">
+					</div>
+					<div class="col_1_7">
+						<center><span class="orangenav">Primals</span></center>
+						<ul>
 							<li>
-								<span class="linkhead"><center>Recipes:</center></span>
-							</li>
-							<li>
-								<div class="sprite nav-grcrafting1-10"></div>
-								<div class="navlink"><a href="crafting/carpenter-level-1-10.php">01-10</a></div>
+								<div class="sprite nav-ffxiv-guide"></div>
+								<div class="navlink"><a href="guides/ifrit.php">Ifrit</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-grcrafting11-20"></div>
-								<div class="navlink"><a href="crafting/carpenter-level-11-20.php">11-20</a></div>
+								<div class="sprite nav-ffxiv-guide"></div>
+								<div class="navlink"><a href="guides/garuda.php">Garuda</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-grcrafting21-30"></div>
-								<div class="navlink"><a href="crafting/carpenter-level-21-30.php">21-30</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-grcrafting31-40"></div>
-								<div class="navlink"><a href="crafting/carpenter-level-31-40.php">31-40</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-grcrafting41-50"></div>
-								<div class="navlink"><a href="crafting/carpenter-level-41-50.php">41-50</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-grcrafting51-60"></div>
-								<div class="navlink"><a href="crafting/carpenter-level-51-60.php">51-60</a></div>
+								<div class="sprite nav-ffxiv-guide"></div>
+								<div class="navlink"><a href="guides/titan.php">Titan</a></div>
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-culinarian"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="crafting/culinarian-level-1-10.php">Culinarian</a></div>
-						<div id="clear"></div>
-						<ul class="craftlevels">
+					</div>
+					<div class="col_2">
+						<center><span class="orangenav">Quests</span></center>
+						<ul>
 							<li>
-								<span class="linkhead"><center>Recipes:</center></span>
-							</li>
-							<li>
-								<div class="sprite nav-llcrafting1-10"></div>
-								<div class="navlink"><a href="crafting/culinarian-level-1-10.php">01-10</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-llcrafting11-20"></div>
-								<div class="navlink"><a href="crafting/culinarian-level-11-20.php">11-20</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-llcrafting21-30"></div>
-								<div class="navlink"><a href="crafting/culinarian-level-21-30.php">21-30</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-llcrafting31-40"></div>
-								<div class="navlink"><a href="crafting/culinarian-level-31-40.php">31-40</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-llcrafting41-50"></div>
-								<div class="navlink"><a href="crafting/culinarian-level-41-50.php">41-50</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-llcrafting51-60"></div>
-								<div class="navlink"><a href="crafting/culinarian-level-51-60.php">51-60</a></div>
+								<div class="sprite nav-ffxiv-guide"></div>
+								<div class="navlink"><a href="guides/a-relic-reborn.php">A Relic Reborn</a></div>
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-goldsmith"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="crafting/goldsmith-level-1-10.php">Goldsmith</a></div>
-						<div id="clear"></div>
-						<ul class="craftlevels">
-							<li>
-								<span class="linkhead"><center>Recipes:</center></span>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting1-10"></div>
-								<div class="navlink"><a href="crafting/goldsmith-level-1-10.php">01-10</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting11-20"></div>
-								<div class="navlink"><a href="crafting/goldsmith-level-11-20.php">11-20</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting21-30"></div>
-								<div class="navlink"><a href="crafting/goldsmith-level-21-30.php">21-30</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting31-40"></div>
-								<div class="navlink"><a href="crafting/goldsmith-level-31-40.php">31-40</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting41-50"></div>
-								<div class="navlink"><a href="crafting/goldsmith-level-41-50.php">41-50</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting51-60"></div>
-								<div class="navlink"><a href="crafting/goldsmith-level-51-60.php">51-60</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-leatherworker"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="crafting/leatherworker-level-1-10.php">Leatherworker</a></div>
-						<div id="clear"></div>
-						<ul class="craftlevels">
-							<li>
-								<span class="linkhead"><center>Recipes:</center></span>
-							</li>
-							<li>
-								<div class="sprite nav-grcrafting1-10"></div>
-								<div class="navlink"><a href="crafting/leatherworker-level-1-10.php">01-10</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-grcrafting11-20"></div>
-								<div class="navlink"><a href="crafting/leatherworker-level-11-20.php">11-20</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-grcrafting21-30"></div>
-								<div class="navlink"><a href="crafting/leatherworker-level-21-30.php">21-30</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-grcrafting31-40"></div>
-								<div class="navlink"><a href="crafting/leatherworker-level-31-40.php">31-40</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-grcrafting41-50"></div>
-								<div class="navlink"><a href="crafting/leatherworker-level-41-50.php">41-50</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-grcrafting51-60"></div>
-								<div class="navlink"><a href="crafting/leatherworker-level-51-60.php">51-60</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-weaver"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="crafting/weaver-level-1-10.php">Weaver</a></div>
-						<div id="clear"></div>
-						<ul class="craftlevels">
-							<li>
-								<span class="linkhead"><center>Recipes:</center></span>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting1-10"></div>
-								<div class="navlink"><a href="crafting/weaver-level-1-10.php">01-10</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting11-20"></div>
-								<div class="navlink"><a href="crafting/weaver-level-11-20.php">11-20</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting21-30"></div>
-								<div class="navlink"><a href="crafting/weaver-level-21-30.php">21-30</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting31-40"></div>
-								<div class="navlink"><a href="crafting/weaver-level-31-40.php">31-40</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting41-50"></div>
-								<div class="navlink"><a href="crafting/weaver-level-41-50.php">41-50</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ulcrafting51-60"></div>
-								<div class="navlink"><a href="crafting/weaver-level-51-60.php">51-60</a></div>
-								<div id="clear"></div>
-							</li>
-						</ul>
-					</li>
-					<li>
-						<br>
-						<div class="sprite nav-ffxiv-add"></div>
-						<div class="navlink"><a href="crafting/add-recipe.php">Add Recipe</a></div>
-						<div id="clear"></div>
-					</li>
-				</ul>
+					</div>
+				</div>
 			</li>
-			<li class="top"><a href="materia/guide.php"><span>Materia <img src="images/la/down.gif"></span></a>
-				<ul class="materia">
-					<li>
-						<div class="sprite nav-ffxiv-guide"></div>
-						<div class="navlink"><a href="materia/guide.php">Guide</a></div>
-						<div id="clear"></div>
-						<br>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-attribute-materia"></div>
-						<div class="navlink"><a href="materia/attribute.php">Attribute</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-physical-materia"></div>
-						<div class="navlink"><a href="materia/physical.php">Physical</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-magic-materia"></div>
-						<div class="navlink"><a href="materia/magic.php">Magic</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-defensive-materia"></div>
-						<div class="navlink"><a href="materia/defensive.php">Defensive</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-resistance-materia"></div>
-						<div class="navlink"><a href="materia/resistance.php">Resistance</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-craft-gather-materia"></div>
-						<div class="navlink"><a href="materia/craft-gathering.php">Crafting &amp;<br>Gathering</a></div>
-						<div id="clear"></div>
-					</li>
-				</ul>
-			</li>
-			<li class="top"><a href="guildleves.php"><span>Content <img src="images/la/down.gif"></span></a>
-				<ul class="navcontent">
-					<li>
-						<div class="sprite nav-ffxiv-guildleves"></div>
-						<div class="navlink"><a href="guildleves.php">Guildleves</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-home-big"></div>
-						<div class="navlink"><a href="content/player-housing.php">Player Housing</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-bones"></div>
-						<div class="navlink"><a href="content/primals.php">Primals</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-trailers"></div>
-						<div class="navlink"><a href="content/fate.php">F.A.T.E.</a></div>
-						<div id="clear"></div>
-					</li>
-				</ul>
-			</li>
-			<li class="top"><a href="maps/eorzea.php"><span>World <img src="images/la/down.gif"></span></a>
-				<ul class="world">
-					<li>
-						<div class="sprite nav-ffxiv-eorzea"></div>
-						<div class="navlink"><a href="maps/eorzea.php">Eorzea</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-cities"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="maps/gridania.php">Cities</a></div>
-						<div id="clear"></div>
-						<ul class="cities">
+			<li><a href="maps/eorzea.php" class="drop">World</a>
+				<div class="dropdown_12columns align_world">
+					<div class="col_2_5">
+						<center><span class="orangenav">World</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-ffxiv-eorzea"></div>
+								<div class="navlink"><a href="maps/eorzea.php">Eorzea</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+						<center><span class="orangenav">Cities</span></center>
+						<ul>
 							<li>
 								<div class="sprite nav-ffxiv-gridania"></div>
 								<div class="navlink"><a href="maps/gridania.php">Gridania</a></div>
@@ -1282,26 +923,13 @@
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-regions"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="maps/coerthas.php">Regions</a></div>
-						<div id="clear"></div>
-						<ul class="regions">
+					</div>
+					<div class="col_2">
+						<center><span class="orangenav">Regions</span></center>
+						<ul>
 							<li>
-								<div class="sprite nav-ffxiv-coerthas"></div>
-								<div class="navlink"><a href="maps/coerthas.php">Coerthas</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ffxiv-la-noscea"></div>
-								<div class="navlink"><a href="maps/la-noscea.php">La Noscea</a></div>
-								<div id="clear"></div>
-							</li>
-							<li>
-								<div class="sprite nav-ffxiv-mor-dhona"></div>
-								<div class="navlink"><a href="maps/mor-dhona.php">Mor Dhona</a></div>
+								<div class="sprite nav-ffxiv-the-black-shroud"></div>
+								<div class="navlink"><a href="maps/the-black-shroud.php">Black Shroud</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
@@ -1310,57 +938,272 @@
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-ffxiv-the-black-shroud"></div>
-								<div class="navlink"><a href="maps/the-black-shroud.php">The Black Shroud</a></div>
+								<div class="sprite nav-ffxiv-la-noscea"></div>
+								<div class="navlink"><a href="maps/la-noscea.php">La Noscea</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-coerthas"></div>
+								<div class="navlink"><a href="maps/coerthas.php">Coerthas</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-mor-dhona"></div>
+								<div class="navlink"><a href="maps/mor-dhona.php">Mor Dhona</a></div>
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-dungeons"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="maps/cassiopeia-hollow.php">Dungeons</a></div>
-						<div id="clear"></div>
-						<ul class="dungeons">
+					</div>
+					<div class="col_2">
+						<center><span class="orangenav">Black Shroud</span></center>
+						<ul>
 							<li>
-								<div class="sprite nav-ffxiv-cassiopeia-hollow"></div>
-								<div class="navlink"><a href="maps/cassiopeia-hollow.php">Cassiopeia Hollow</a></div>
+								<div class="sprite nav-ffxiv-the-black-shroud"></div>
+								<div class="navlink"><a href="maps/central-shroud.php">Central</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-ffxiv-copperbell-mines"></div>
+								<div class="sprite nav-ffxiv-the-black-shroud"></div>
+								<div class="navlink"><a href="maps/east-shroud.php">East</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-the-black-shroud"></div>
+								<div class="navlink"><a href="maps/north-shroud.php">North</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-the-black-shroud"></div>
+								<div class="navlink"><a href="maps/south-shroud.php">South</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_2">
+						<center><span class="orangenav">Thanalan</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-ffxiv-thanalan"></div>
+								<div class="navlink"><a href="maps/central-thanalan.php">Central</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-thanalan"></div>
+								<div class="navlink"><a href="maps/western-thanalan.php">Western</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-thanalan"></div>
+								<div class="navlink"><a href="maps/eastern-thanalan.php">Eastern</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-thanalan"></div>
+								<div class="navlink"><a href="maps/southern-thanalan.php">Southern</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-thanalan"></div>
+								<div class="navlink"><a href="maps/northern-thanalan.php">Northern</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_2">
+						<center><span class="orangenav">La Noscea</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-ffxiv-la-noscea"></div>
+								<div class="navlink"><a href="maps/middle-la-noscea.php">Middle</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-la-noscea"></div>
+								<div class="navlink"><a href="maps/eastern-la-noscea.php">Eastern</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-la-noscea"></div>
+								<div class="navlink"><a href="maps/western-la-noscea.php">Western</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-la-noscea"></div>
+								<div class="navlink"><a href="maps/lower-la-noscea.php">Lower</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-la-noscea"></div>
+								<div class="navlink"><a href="maps/upper-la-noscea.php">Upper</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-la-noscea"></div>
+								<div class="navlink"><a href="maps/outer-la-noscea.php">Outer</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_1">
+						<center><span class="orangenav">Housing</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-ffxiv-home"></div>
+								<div class="navlink"><a href="maps/mist.php">Mist</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</li>
+			<li><a href="maps/sastasha-seagrot.php" class="drop">Dungeons</a>
+				<div class="dropdown_12columns align_right align_dungeons">
+					<div class="col_2_7">
+						<center><span class="orangenav">Black Shroud</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/the-tam-tara-deepcroft.php">Tam-Tara Deepcroft</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/thousand-maws-of-toto-rak.php">Toto-Rak</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/haukke-manor.php">Haukke Manor</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/amdapor-keep.php">Amdapor Keep</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_3">
+						<center><span class="orangenav">Thanalan</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-dungeon"></div>
 								<div class="navlink"><a href="maps/copperbell-mines.php">Copperbell Mines</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-ffxiv-mistbeard-cove"></div>
-								<div class="navlink"><a href="maps/mistbeard-cove.php">Mistbeard Cove</a></div>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/halatali.php">Halatali</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-ffxiv-nanawa-mines"></div>
-								<div class="navlink"><a href="maps/nanawa-mines.php">Nanawa Mines</a></div>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/the-sunken-temple-of-qarn.php">Sunken Temple of Qarn</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-ffxiv-the-mun-tuy-cellars"></div>
-								<div class="navlink"><a href="maps/the-mun-tuy-cellars.php">The Mun-Tuy Cellars</a></div>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/cutters-cry.php">Cutter's Cry</a></div>
 								<div id="clear"></div>
 							</li>
 							<li>
-								<div class="sprite nav-ffxiv-the-tam-tara-deepcroft"></div>
-								<div class="navlink"><a href="maps/the-tam-tara-deepcroft.php">The Tam-Tara Deepcroft</a></div>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/castrum-meridianum.php">Castrum Meridianum</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/the-praetorium.php">The Praetorium</a></div>
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<br>
-						<div class="sprite nav-ffxiv-races"></div>
-						<div class="navright"><img src="images/la/right.gif"></div>
-						<div class="navlink"><a href="races/">Races</a></div>
-						<div id="clear"></div>
-						<ul class="races">
+					</div>
+					<div class="col_3">
+						<center><span class="orangenav">La Noscea</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/sastasha-seagrot.php">Sastasha Seagrot</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/brayfloxs-longstop.php">Brayflox's Longstop</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/the-wanderers-palace.php">Wanderer's Palace</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+					<div class="col_1_5">
+						<center><span class="orangenav">Coerthas</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/stone-vigil.php">Stone Vigil</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/dzemael-darkhold.php">Dzemael Darkhold</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/aurum-vale.php">Aurum Vale</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</li>
+			<li><a href="maps/" class="drop">Raids</a>
+				<div class="dropdown_3columns align_raids">
+					<div class="col_3">
+						<center><span class="orangenav">Coil of Bahamut</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/binding-coil-of-bahamut-turn1.php">Turn 1</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/binding-coil-of-bahamut-turn2.php">Turn 2</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/binding-coil-of-bahamut-turn3.php">Turn 3</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="maps/binding-coil-of-bahamut-turn4.php">Turn 4</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-dungeon"></div>
+								<div class="navlink"><a href="races/binding-coil-of-bahamut-turn5.php">Turn 5</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</li>
+			<li><a href="races/" class="drop">Lore</a>
+				<div class="dropdown_5columns align_lore">
+					<div class="col_2">
+						<center><span class="orangenav">Races</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-ffxiv-races"></div>
+								<div class="navlink"><a href="races/">Overview</a></div>
+								<div id="clear"></div>
+							</li>
 							<li>
 								<div class="sprite nav-ffxiv-hyur"></div>
 								<div class="navlink"><a href="races/hyur.php">Hyur</a></div>
@@ -1387,83 +1230,225 @@
 								<div id="clear"></div>
 							</li>
 						</ul>
-					</li>
-				</ul>
+					</div>
+					<div class="col_2">
+						<center><span class="orangenav">Story</span></center>
+						<ul>
+							<li>
+								<div class="sprite nav-dalamud"></div>
+								<div class="navlink"><a href="lore/battle-of-carteneau.php">Battle of Carteneau</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</li><li><a href="service.php" class="drop">Service</a>
+				<div class="dropdown_3columns align_service">
+					<div class="col_3">
+						<br>
+						<ul>
+							<li>
+								<div class="sprite nav-ffxiv-gil"></div>
+								<div class="navlink"><a href="service.php">Subscription Fees</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-legacy"></div>
+								<div class="navlink"><a href="service.php#legacy">Legacy Status</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-system-requirements"></div>
+								<div class="navlink"><a href="systemreqs.php">System Requirements</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-servers"></div>
+								<div class="navlink"><a href="servers.php">Servers</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-beta"></div>
+								<div class="navlink"><a href="beta.php">Beta Test</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-release-date"></div>
+								<div class="navlink"><a href="release.php">Release Date</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+				</div>
 			</li>
-			<li class="top"><a href="service.php"><span>Service <img src="images/la/down.gif"></span></a>
-				<ul class="service">
-					<li>
-						<div class="sprite nav-ffxiv-gil"></div>
-						<div class="navlink"><a href="service.php">Subscription Fees<br> &amp; Legacy Status</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-system-requirements"></div>
-						<div class="navlink"><a href="systemreqs.php">System Requirements</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-servers"></div>
-						<div class="navlink"><a href="servers.php">Servers</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-beta"></div>
-						<div class="navlink"><a href="beta.php">Beta Test</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-release-date"></div>
-						<div class="navlink"><a href="release.php">Release Date</a></div>
-						<div id="clear"></div>
-					</li>
-				</ul>
-			</li>
-			<li class="top"><a href="screenshots.php"><span>Media <img src="images/la/down.gif"></span></a>
-				<ul class="media">
-					<li>
-						<div class="sprite nav-ffxiv-screenshots"></div>
-						<div class="navlink"><a href="screenshots.php">Screenshots</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-trailers"></div>
-						<div class="navlink"><a href="trailers.php">Trailers</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-videos"></div>
-						<div class="navlink"><a href="videos.php">Videos</a></div>
-						<div id="clear"></div>
-					</li>
-					<li>
-						<div class="sprite nav-ffxiv-wallpapers"></div>
-						<div class="navlink"><a href="wallpapers.php">Wallpapers</a></div>
-						<div id="clear"></div>
-					</li>
-				</ul>
-			</li>
-			<li class="top">
+			<li><a href="screenshots.php" class="drop">Media</a>
+				<div class="dropdown_2columns align_media">
+					<div class="col_2">
+						<br>
+						<ul>
+							<li>
+								<div class="sprite nav-ffxiv-screenshots"></div>
+								<div class="navlink"><a href="screenshots.php">Screenshots</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-trailers"></div>
+								<div class="navlink"><a href="trailers.php">Trailers</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-videos"></div>
+								<div class="navlink"><a href="videos.php">Videos</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-ffxiv-wallpapers"></div>
+								<div class="navlink"><a href="wallpapers.php">Wallpapers</a></div>
+								<div id="clear"></div>
+							</li>
+							<li>
+								<div class="sprite nav-lyrics"></div>
+								<div class="navlink"><a href="answers-lyrics.php">Answers Lyrics</a></div>
+								<div id="clear"></div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</li>	<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+	<script>
+	  window.fbAsyncInit = function() {
+	    FB.init({appId: '107279785992121', status: true, cookie: true,
+	             xfbml: true});
+	  };
+	  (function() {
+	    var e = document.createElement('script'); e.async = true;
+	    e.src = document.location.protocol +
+	      '//connect.facebook.net/en_US/all.js';
+	    document.getElementById('fb-root').appendChild(e);
+	  }());
+	</script>
+	
+				<li class="menu_right"><a href="signup.php"><img src="images/nav/s/ffxiv-members.png" alt="Members" title="Members"></a>
+					<div class="dropdown_12columns align_right textspan">
+						<div class="col_12 textspan">
+							<span class="textspan">
+							<center><img src="images/profile.jpg" alt="Member Profile" class="img_left"></center>
+							<center><span class="orangenav">Why not join and post in our forums?</span></center>
+							• Community of FFXIV fans. Make new friends, talk about the game.<br>
+							• Update personal &amp; character profiles. Post photos, comments, and updates.<br>
+							• Membership is totally free and only takes a few minutes.<br>
+							• Lodestone integration coming soon.
+							<br>
+							<center><a href="signup.php" class="textspanlink">Create Account</a>
+							<br><br>
+							Follow us on Twitter: <a href="http://www.twitter.com/FF_XIV_INFO" class="textspanlink">@FF_XIV_INFO</a>
+							<iframe src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fffxivinfo&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;font&amp;colorscheme=dark&amp;action=like&amp;height=35&amp;appId=107279785992121" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowtransparency="true"></iframe>
+							</center>
+							</span>
+						</div>
+					</div>
+				</li>
+			<li class="menu_right">
 				<a href="forums/">Forums</a>
-			</li></ul>
-	</div></div>
-		<div id="inner">
-		  <div id="fullleft">
+			</li>
+		</ul>
+	</div>
+	<div id="header">
+		<div id="logo">
+			<a href="/"><img src="images/transparent.png" height="168" width="310"></a>
+		</div>
+		<div id="searchdb"><div>
+			<a href="http://www.amazon.com/gp/product/B008SBZD9G/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;tag=fi0686-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B008SBZD9G" rel="nofollow" class="largelink" target="_blank"><img src="images/amazonpreorder.gif" style="margin-left: 5px; margin-right: 12px; vertical-align:middle">FFXIV: A Realm Reborn, PC Only $29.95!</a><img src="http://www.assoc-amazon.com/e/ir?t=fi0686-20&amp;l=as2&amp;o=1&amp;a=B008SBZD9G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
+			 | 
+			<a href="http://www.amazon.com/gp/product/B002BRZ79E/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;tag=fi0686-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B002BRZ79E" rel="nofollow" class="largelink" target="_blank">PS3: $36.52!</a><img src="http://www.assoc-amazon.com/e/ir?t=fi0686-20&amp;l=as2&amp;o=1&amp;a=B002BRZ79E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
+			<br>&nbsp;&nbsp;
+			<a href="http://rcm-na.amazon-adsystem.com/e/cm?t=fi0686-20&amp;o=1&amp;p=8&amp;l=as1&amp;asins=B00CX9L30W&amp;IS1=1&amp;nou=1&amp;ref=tf_til&amp;fc1=000000&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=FFFFFF&amp;bg1=FFFFFF&amp;f=ifrk" class="largelink">PC Collector's Download: $49.99</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=fi0686-20&amp;l=as2&amp;o=1&amp;a=B00CYNTLDS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
+
+	</div>
+	<br>
+
+
+
+<br>
+				<form name="finditem" action="items/search.php" method="post">
+					<table class="maintable">
+						<tbody><tr>
+							<td class="recipebg" width="150">Search Database:</td>
+							<td class="searchbg">
+								<input type="text" name="itemname" maxlength="128" size="50" class="search" value="">
+							</td>
+							<td class="recipebg">
+								<input type="submit" name="finditem" class="log" value="Go!">
+							</td>
+						</tr>
+					</tbody></table>
+				</form>
+				<br></div></div><div id="inner"><div id="leaderboard">
+			<div id="leaderboardleft"><script type="text/javascript"><!--
+					google_ad_client = "ca-pub-9818908419421064";
+					/* FFXIV Leaderboard */
+					google_ad_slot = "3404354052";
+					google_ad_width = 728;
+					google_ad_height = 90;
+					//-->
+				</script>
+				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script></div>
+			<div id="leaderboardright">
+				<style type="text/css">
+					@import url(http://www.google.com/cse/api/branding.css);
+				</style>
+				<div class="cse-branding-bottom" style="background-color:#333333;color:#FFFFFF">
+				  <div class="cse-branding-form">
+					<form action="http://www.ffxivinfo.com/search.php" id="cse-search-box">
+					  <div>
+						<input type="hidden" name="cx" value="partner-pub-9818908419421064:9919843207">
+						<input type="hidden" name="cof" value="FORID:10">
+						<input type="hidden" name="ie" value="UTF-8">
+						<input type="text" name="q" size="34">
+						<input type="submit" name="sa" value="Search">
+					  </div>
+					</form>
+				  </div>
+				  <div class="cse-branding-logo">
+					<img src="http://www.google.com/images/poweredby_transparent/poweredby_000000.gif" alt="Google">
+				  </div>
+				  <div class="cse-branding-text">
+					Search our Entire Website
+				  </div>
+				  <br>
+				  <center>
+					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+					<input type="hidden" name="cmd" value="_s-xclick">
+					<input type="hidden" name="hosted_button_id" value="EUP4N59V92GDQ">
+					<br>
+					<span class="align_right">
+					<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+					<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+					
+					<i>Donators do not see ads.</i> <a href="donate.php">More</a>
+					</span></form>
+				  </center>
+
+				</div>
+			</div>
+		</div><div id="fullleft">
 			<img src="images/headers/privacy.gif" alt="Privacy">
 			<div id="fullpleft">
 			  <b class="rtop"><b class="r1"></b> <b class="r2"></b> <b class="r3"></b> <b class="r4"></b></b>
-			  <div id="fullcleft"><div>
-							<center>
-								<a href="http://www.amazon.com/gp/product/B008SBZD9G/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;tag=fi0686-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B008SBZD9G" rel="nofollow" class="largelink" target="_blank"><img src="images/amazonpreorder.gif" style="margin-left: 5px; margin-right: 12px; vertical-align:middle">FFXIV: A Realm Reborn, PC Only $29.96!</a><img src="http://www.assoc-amazon.com/e/ir?t=fi0686-20&amp;l=as2&amp;o=1&amp;a=B008SBZD9G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
-								 | 
-								<a href="http://www.amazon.com/gp/product/B002BRZ79E/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;tag=fi0686-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B002BRZ79E" rel="nofollow" class="largelink" target="_blank">PS3: $39.99!</a><img src="http://www.assoc-amazon.com/e/ir?t=fi0686-20&amp;l=as2&amp;o=1&amp;a=B002BRZ79E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
-						   </center>
-						</div>
-						<br>
-
-
-
-<br>FFXIV Info takes privacy very seriously to ensure the safety of your data. We will only store the data that you provide to us.
+			  <div id="fullcleft">
+			<table>
+		  <tbody><tr>
+			<td bgcolor="#343434">
+			  <p>If you are looking for <b>THE FASTEST WAY</b> to reach the level cap with any class or job, this <a href="http://roia.biz/ts/n/Y8pDvq1BAANLKGM1ODYAQgAAaydmMQA-A/"><u><b>FFXIV Leveling Guide</b></u></a> by <b>Killer Guides</b> is a definite must have! There is nothing that comes even close in regards to level of detail and overall quality.</p>
+			  <p style="text-align:right"><font color="grey">[Advertisement]</font></p>
+			</td>
+		  </tr>
+		</tbody></table>
+		<br><br>FFXIV Info takes privacy very seriously to ensure the safety of your data. We will only store the data that you provide to us.
+				<br><br>
+				<h2>Log Files</h2><br>
+				Like many other Web sites, http://www.ffxivinfo.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 				<br><br>
 				<h2>Data</h2><br>
 				When you join the website you are asked for a username, a password, your e-mail address, your date of birth and your country of residence.
@@ -1476,30 +1461,44 @@
 				<br><br>
 				We will not sell or trade your information to a third party. However, anonymous traffic and usage details may be used to benefit the website by gaining more visitors.
 				<br><br>
-				<h2>Cookies</h2><br>
-				If you choose to remember your password then a cookie will be used to do this. Cookies are tiny pieces of information that your browser creates to help remember details of websites that you frequent.
+				<h2>Cookies and Web Beacons</h2><br>
+				http://www.ffxivinfo.com uses cookies as a way to remember preferences about our visitors such as keeping you logged in. Cookies are tiny pieces of information that your browser creates to help remember details of websites that you frequent.
 				<br><br>
-				<h2>Advertising</h2><br>
-				To help keep the website free we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, email address, or other personal identifiable information) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.google.com/privacy_ads.html">click here.</a>
+				<h2>DoubleClick DART Cookie</h2><br>
+				.:: Google, as a third party vendor, uses cookies to serve ads on http://www.ffxivinfo.com.
+				<br>
+				.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to http://www.ffxivinfo.com and other sites on the Internet.
+				<br>
+				.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
 				<br><br>
-				Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it and its partners to serve ads to our users based on their visit to our sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy.</a>
+				Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......
+				<br>
+				Google Adsense<br>
+				Amazon
+				<br><br>
+				These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.ffxivinfo.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+				<br><br>
+				http://www.ffxivinfo.com has no access to or control over these cookies that are used by third-party advertisers.
+				<br><br>
+				You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.ffxivinfo.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+				<br><br>
+				If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 			  </div>
 			  <b class="rbottom"><b class="r4"></b> <b class="r3"></b> <b class="r2"></b> <b class="r1"></b></b>
 			</div>
 		  </div>
 		</div><div id="footer">
 		<br>
+		©2009-2013 FFXIVInfo.com. All Rights Reserved.
 		<a href="terms.php">Terms</a> | 
 		<a href="privacy.php">Privacy Policy</a> | 
 		<a href="affiliates.php">Affiliates</a> | 
-		<a href="contact.php">Contact Us</a>
+		<a href="contact.php">Contact Us</a> 
 		<br>
-		©2009-2013 FFXIVInfo.com. All Rights Reserved.
-	</div>
-	<script type="text/javascript" src="http://wms.assoc-amazon.com/20070822/US/js/link-enhancer-common.js?tag=fi0686-20"></script>
-	<noscript>
-		<img src="http://wms.assoc-amazon.com/20070822/US/img/noscript.gif?tag=fi0686-20" alt="" />
-	</noscript></div><script src="js/twitter.js" type="text/javascript"></script>
+		All company, product, system names and/or company logos and marks are the registered trademarks or trademarks of their respective owners.
+		<br>
+		FFXIV images: Copyright (C) 2010 - 2013 SQUARE ENIX CO., LTD. All Rights Reserved. 
+	</div></div><script src="js/twitter.js" type="text/javascript"></script>
 	<script type="text/javascript" src="http://api.twitter.com/1/statuses/user_timeline.json?screen_name=FF_XIV_EN&amp;include_rts=true&amp;count=5&amp;callback=twitterCallback2"></script>
 	<script type="text/javascript" src="http://api.twitter.com/1/statuses/user_timeline.json?screen_name=FF_XIV_INFO&amp;include_rts=true&amp;count=5&amp;callback=twitterCallback3"></script>
 	<script type="text/javascript">
