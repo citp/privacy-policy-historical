@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plexious.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602225501id_/http%3A//plexious.com/privacyplex.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plexious.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126183353id_/http%3A//www.plexious.com/privacyplex.html) for the most accurate reproduction.*
 
 # Plexious Privacy
 
