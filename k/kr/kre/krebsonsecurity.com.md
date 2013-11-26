@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krebsonsecurity.com privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307223216id_/http%3A//krebsonsecurity.com/wp-content/uploads/2010/04/kospp.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krebsonsecurity.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126051547id_/http%3A//krebsonsecurity.com/wp-content/uploads/2010/04/kospp.pdf) for the most accurate reproduction.*
 
 # This policy outlines the personal information handling practices on krebsonsecurity.com. If you give us personal information, we treat it according to this policy, and we use your personal information only in the ways specified when it was collected. We do not otherwise share it.
 
