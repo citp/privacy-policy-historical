@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegatheringireland.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423201032id_/http%3A//www.thegatheringireland.com/Information/Cookies-and-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegatheringireland.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126020817id_/http%3A//www.thegatheringireland.com/Information/Cookies-and-privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Gathering - The Gathering Ireland 2013
 
