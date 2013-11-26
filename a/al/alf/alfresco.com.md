@@ -1,35 +1,49 @@
-> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526184850id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126132851id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Alfresco
 
   * [
 
-## Tour
+## Products
 
-Learn about Alfresco
+Deploy on-premise, in the cloud, or both
 
-](https://web.archive.org/tour "Learn about Alfresco")
+](https://web.archive.org/products "Deploy on-premise, in the cloud, or both")
   * [
 
-## Evaluate
+## Solutions
 
-Is Alfresco right for your company?
+Solve your content management challenges
 
-](https://web.archive.org/evaluate "Is Alfresco right for your company?")
+](https://web.archive.org/products/solutions "Solve your content management challenges")
   * [
 
-## Support
+## Partners
 
-Training, docs and help from us and our partners
+Find a partner to help with your project
 
-](https://web.archive.org/support "Training, docs and help from us and our partners")
+](https://web.archive.org/partners "Find a partner to help with your project")
   * [
 
-## Develop
+## Developers
 
 Build on our open source platform
 
 ](https://web.archive.org/develop "Build on our open source platform")
+  * [
+
+## Company
+
+Learn why customer success is at our core
+
+](https://web.archive.org/company "Learn why customer success is at our core")
+  * [
+
+## Support
+
+Get training, consulting and our official docs
+
+](https://web.archive.org/support "Get training, consulting and our official docs")
 
 
 
