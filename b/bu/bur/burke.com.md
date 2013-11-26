@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527023814id_/http%3A//burke.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126184937id_/http%3A//www.burke.com/privacy.cfm) for the most accurate reproduction.*
 
 # None
 
@@ -22,12 +22,27 @@ We use software-tracking packages to collect information about how you use our s
 
 Like many companies, we use "cookie" technology on our site. These cookies may tell us whether you have visited our site before or are a new visitor and what material on our site you have viewed. The cookies we use do not collect any personal identification information or extract any information from your computer. The help option on most browser toolbars will tell you how to prevent your browser from accepting new cookies, or to have the browser notify you when you receive a new cookie or how to disable cookies all together.   
   
+## Health Insurance Portability and Accountability Act (HIPAA)  
+  
+  | 
+
+Burke is familiar with HIPAA and has worked with clients who are covered entities on strategies for conducting marketing research studies in a way that meets the requirements of the law. 
+
+We can assure our clients and respondents that we have implemented administrative, physical and technical safeguards to strictly control access to patient information and to enable us to preserve respondent confidentiality.   
+  
 ## Children's privacy protection  
   
   | 
 
-Burke understands the importance of protecting children's privacy, especially in an online environment. The Site is not intentionally designed for or directed at children 13 years of age or younger, and Burke will not intentionally collect or maintain information about anyone under the age of 13. 
+Burke understands the importance of protecting children's privacy, especially in an online environment. The Site is not intentionally designed for or directed at children 13 years of age or younger, and Burke will not intentionally collect or maintain information about anyone under the age of 13.   
+  
+## Safe Harbor  
+  
+  | 
 
+The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EU to the United States. The EEA also has recognized the U.S. Safe Harbor as providing adequate data protection. Consistent with its commitment to protect personal privacy, Burke adheres to the Safe Harbor Principles. To learn more about the Safe Harbor program, and to view Burke's certification, please visit [http://www.export.gov/safeharbor/ .](http://www.export.gov/safeharbor/)  
+  
+  
 Please contact us if you have any questions or comments about our privacy policy. 
 
 **Mail:**  
