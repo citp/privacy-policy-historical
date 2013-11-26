@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twinklingtrees.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527161647id_/http%3A//www.twinklingtrees.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinklingtrees.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126124425id_/http%3A//www.twinklingtrees.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Twinkling Trees: Privacy Policy
+# Privacy Policy | Twinkling Trees
 
 I enjoy my privacy just as I am sure my readers do and that is very important to me. I want my readers to feel safe when they visit my site.   
   
