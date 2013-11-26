@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extstore.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614033404id_/http%3A//extstore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extstore.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126192907id_/http%3A//extstore.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ExtStore | Joomla! Extensions Store
+# Privacy Policy - ExtStore | Joomla Extensions
 
 This privacy policy sets out how Skyline Software uses and protects any information that you give Skyline Software when you use this website. Skyline Software is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Skyline Software may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
