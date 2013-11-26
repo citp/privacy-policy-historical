@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pigsback.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601143054id_/http%3A//pigsback.com/pages/3/49/279.aspx%3Fpbq%3D463%2C463%2CVOVFL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pigsback.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126145331id_/http%3A//pigsback.com/pages/3/49/279.aspx%3Fpbq%3D463%2C463%2CVOVFL) for the most accurate reproduction.*
 
 # Pigsback.com - Get on it! - Pigsback.com - Get on it!
 
