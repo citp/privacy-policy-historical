@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclaim.ca privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001224id_/http%3A//exclaim.ca/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclaim.ca privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126032813id_/http%3A//exclaim.ca/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
