@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moregonzo.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604172054id_/http%3A//legal.moregonzo.com/%3Faxs_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moregonzo.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126105312id_/http%3A//legal.moregonzo.com/%3Faxs_privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,6 +35,7 @@ This policy explains the privacy practices of AXS Charge Ltd. ("the company" or 
 > **Disclosure to Third Parties**  
 >  We will not give third parties individually identifiable information about users except for the limited purposes described below.  
 >  \- Whenever it is necessary to comply with the law or legal process, or to ensure the integrity and operation of our business and systems.  
+>  \- When it is necessary to collect debt and pursue chargeback retrivals.  
 >  \- We are compelled to do so by order of a duly-empowered governmental authority.  
 >  \- We are required to disclose it in order to process transactions.   
 >  \- To fullfill customer service requirements.
