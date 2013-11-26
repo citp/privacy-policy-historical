@@ -1,59 +1,65 @@
-> *The following text is extracted and transformed from the conservation.org privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021161444id_/http%3A//www.conservation.org/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservation.org privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126131028id_/http%3A//www.conservation.org/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Conservation International
 
-Thank you for visiting Conservation International online at [www.conservation.org](https://web.archive.org/). We respect your privacy, and we will never share your personal information with other organizations. The following privacy policy describes what information is gathered on this website and how it is used. 
+Thank you for visiting Conservation International ("CI") online at [www.conservation.org](https://web.archive.org/). We respect your privacy and are committed to protecting your personal information. The following Privacy Policy applies to information collected at [www.conservation.org](https://web.archive.org/) and CI affiliated web sites featuring this Privacy Policy. Amendments to this policy will be posted at this URL and will be effective when posted.
 
-Our mailing address is: 
+## 1\. Information Collected
 
-2011 Crystal Drive, Suite 500   
-Arlington, VA 22202 
+For each visitor to this Web Site, our web servers may automatically recognize and collect non-personally identifiable information, such as inbound domain names, your computer's IP address, the type of browser in use, and pages viewed. This data tells us which pages our users visit and what information they volunteer, such as survey information and/or site registrations.
 
-We can be reached via e-mail at [inquiry@conservation.org](mailto:inquiry@conservation.org) or by telephone at 703-341-2400. 
+We only collect personally identifiable information about you when you voluntarily submit such information to us, for example by signing up for the CI newsletter or to donate. Depending on the service you choose, the personal identifiable information collected may include your name, e-mail address, address, phone number, payment details, organizational affiliation and similar information ("Personal Information").
 
-For each visitor to [www.conservation.org](https://web.archive.org/), our web server automatically recognizes and collects inbound domain names, but not e-mail addresses. This tells us which pages our users visit and what information they volunteer, such as survey information and/or site registrations. The information we collect is used only for internal review, to improve our web content, to optimize your web experience and, in some cases, to customize the content and/or layout of select pages. We will disclose information we have collected only when legally required to do so; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing our website and applicable laws or to protect against misuse or unauthorized use of our website. 
+## 2\. Use of Information
 
-**Cookies**
+Any Personal Information we collect is used only for internal review, to improve our web content, to optimize your web experience and, in some cases, to customize the content and/or layout of select pages.
 
-We use cookies to record past activity on our website in an effort to provide better and faster service upon your return visits to [www.conservation.org](https://web.archive.org/). We also customize certain web content based on your browser type, bandwidth or other settings to optimize your site experience. 
+In general, we will only use Personal Information you provide to us for the purpose for which it was provided, for example:
 
-**Your Contact Details & Mail**
-
-If you do not want to receive e-mail from us in the future, please just let us know by e-mailing us at the above address, calling us at the above telephone number or writing to us at the above mailing address. 
-
-If you provide us your mailing address, you may receive materials from us periodically about conservation news and initiatives or upcoming events. If you do not wish to receive this information, please just tell us so by e-mail, phone or written letter. Please include your exact name and address so that we can correctly remove you from our mailing lists. 
-
-If you provide us your telephone number, we will only contact you with information regarding the orders or donations you have placed online. 
-
-We do not share your information with any other organizations or companies. Upon your request and direction, we will correct any inaccuracies in your contact information. To do so, please email, call or write us. 
-
-**Ad Servers**
-
-We do not partner with or have special relationships with any ad server companies. From time to time, we may use user data for new, unanticipated uses not previously disclosed in our privacy policy. If this is the case, or if our information practices change, we will notify you of those changes before we use your data, provide you the opportunity to opt out, and post the new policy to this web page. If you are concerned about how your information is being used, please check this page periodically. At any time, you may prevent your information from being used for unanticipated future purposes by e-mailing, calling or writing us. 
-
-**Security**
-
-When providing your sensitive information online, such as financial information to make a donation, we will redirect you to a secure server and notify you of this redirect through a pop-up screen. Your credit card information is never stored. 
-
-**Affiliate Websites**
-
-Websites directly affiliated with [www.conservation.org](https://web.archive.org/) and governed by this privacy policy include: 
-
-  * Investigate Biodiversity, [http://investigate.conservation.org](http://investigate.conservation.org/)
-  * Biodiversity Hotspots, [www.biodiversityhotspots.org](http://www.biodiversityhotspots.org/)
-  * Center for Applied Biodiversity Science, [www.biodiversityscience.org](http://www.biodiversityscience.org/)
-  * Center for Environmental Leadership and Business, [www.celb.org](http://www.celb.org/)
-  * Critical Ecosystem Partnership Fund, [www.cepf.net](http://www.cepf.net/)
-  * Defying Nature’s End, [www.defyingnaturesend.org](http://www.defyingnaturesend.org/)
-  * Global Conservation Fund, [www.conservation.org/gcf](https://web.archive.org/gcf)
-  * The Ecotravel Center, [www.ecotour.org](http://www.ecotour.org/)
-  * Team Earth, [www.teamearth.com ](http://www.teamearth.com/)
-  * Verde Ventures, [www.conservation.org/verdeventures](https://web.archive.org/verdeventures)
+  * To periodically alert you to CI news and events
+  * To respond to inquiries
+  * To process donations
 
 
 
-**Children’s Guidelines**
+We do not share your Personal Information with any third parties other than an agent of CI without your consent, except under the following circumstances: (i) as set forth above, (ii) in response to a subpoena or when we are required to do so by law, for example, in response to a court order or other legal obligation; (iii) in response to a law enforcement agency’s request; (iv) to protect the security or confidentiality of our records; (v) in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with our rights, or (vi) in the event CI goes through a reorganization (e.g., a merger into another organization), in which case you will be notified via a prominent notice on the website of any such transfer of your Personal Information.
 
-None of the websites covered by this policy knowingly collect identifiable personal information from children under age 13. If we discover that a person under the age of 13 has provided us with any personally identifiable information, we will delete that information from our systems. We are unable to reply to information requests from children under the age of 13, if so identified. A parent or guardian must initiate any requests for information from children under the age of 13 on their behalf. We encourage parents to supervise children when they browse the internet. 
+## 3\. Use of Cookies
 
-If you feel that this site is not following its stated privacy policy, please contact us by email or phone or contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org). 
+We may use cookies to record past activity on our Web Site in an effort to provide better and faster service upon your return visits to this Web Site. We may also customize certain web content based on your browser type, bandwidth or other settings to optimize your site experience.
+
+## 4\. Use of IP Addresses
+
+We may use your IP Address to help diagnose problems with our server, and to administer our Web Site.
+
+## 5\. Security
+
+This site incorporates reasonable and appropriate safeguards using industry standard technology to heighten the security, accuracy and privacy of any personal information we have collected, and we have put in place reasonable precautions to protect information from loss and misuse. Our security and privacy policies are periodically reviewed and enhanced as required.
+
+## 6\. Linked Web Sites
+
+Our Web Site contains links to other Web Sites. We are not responsible for the privacy practices or the content of such Web Sites.
+
+## 7\. Update Personal Information and Communications Preferences
+
+If you wish to update your personal information with us, change your communications preferences or no longer wish to receive communications from us, please tell us so by email, phone or written letter. Please include your exact name and contact details so that we can correctly remove you from our mailing list. Our mailing address is:
+
+> Conservation International Foundation  
+> 2011 Crystal Drive, Suite 500  
+> Arlington, VA 22202
+
+We can be reached via e-mail at [inquiry@conservation.org](mailto:inquiry@conservation.org) or by telephone at (703) 341-2400.
+
+## 8\. Children's Privacy
+
+We recognize the importance of protecting the privacy of children on the web and will never collect or maintain information at our websites from those we actually know are under 13 years old. No part of our websites is directed at children under the age of 13, and we do not knowingly collect Personal Information from children under age 13. If we discover that a person under the age of 13 has provided us with any Personal Information, we will delete that information from our systems. We do not reply to information requests from children under the age of 13, if so identified. A parent or guardian must initiate any requests for information from children under the age of 13 on their behalf. We encourage parents to supervise children when they browse the Internet.
+
+## 9\. Changes to this Privacy Policy
+
+We reserve the right to modify or supplement this policy at any time. If a material change to this policy is made, we will post a notice on its home page, and any changes to the policy will be posted on this page.
+
+## 10\. Questions
+
+If you have any questions about our privacy statement or the practices of this site, please contact us at [inquiry@conservation.org](mailto:inquiry@conservation.org).
+
+This statement is effective April 2013.
