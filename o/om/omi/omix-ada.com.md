@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omix-ada.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526185506id_/http%3A//www.omix-ada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omix-ada.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126031230id_/http%3A//www.omix-ada.com/privacy-policy) for the most accurate reproduction.*
 
 # Omix-ADA Website Privacy Policy
 
