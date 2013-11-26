@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ujena.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502120348id_/http%3A//www.ujena.com/Xstatic.php%3Fp%3D504) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ujena.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126084451id_/http%3A//www.ujena.com/Xstatic.php%3Fp%3D504) for the most accurate reproduction.*
 
-# UjENA Swimwear
+# Privacy :: UjENA Swimwear
 
 Ujena recognizes the importance of protecting the privacy of all information provided by users of our websites. We created the following policy guidelines with a fundamental respect for our users right to privacy to guide our relationships with our users. 
 
