@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncsasports.org privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530182515id_/http%3A//ncsasports.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsasports.org privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126182345id_/http%3A//www.ncsasports.org/privacy-policy) for the most accurate reproduction.*
 
 # NCSA Privacy Policy | NCSA Athletic Recruiting | NCSA
 
@@ -121,5 +121,3 @@ Chicago, Illinois 60622
 [adiorio@ncsasports.org](mailto:adiorio@ncsasports.org)
 
 Last modified: May 4, 2012  
-
-(Archived versions of this Privacy Policy are available at: [http://www.ncsasports.org/privacy-policy-archived](https://web.archive.org/privacy-policy-archived)) 
