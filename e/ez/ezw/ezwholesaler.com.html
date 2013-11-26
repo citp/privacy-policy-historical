@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ezwholesaler.com privacy policy that was archived on 2013-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609103228id_/http%3A//www.ezwholesaler.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ezwholesaler.com privacy policy that was archived on 2013-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126124253id_/http%3A//www.ezwholesaler.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -26,6 +26,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -41,8 +42,31 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.34.4.92"></script>
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -101,8 +125,7 @@ Date: 03 2010
 <img src="/v/vspfiles/images/youtube.png" style="position:absolute;top:0px;left:100px;"></a>
 <a href="http://www.linkedin.com/in/ezdropshipper" target="_BLANK">
 <img src="/v/vspfiles/images/linkedin.png" style="position:absolute;top:0px;left:125px;"></a>
-<a href="http://www.bbb.org/west-florida/business-reviews/wholesalers-distributers/salco-distributors-in-clearwater-fl-6025634" target="_BLANK">
-<img src="/v/vspfiles/images/bbb_icon.jpg" style="position:absolute;top:0px;left:150px;"></a>
+
 
 &nbsp;
 &nbsp;
@@ -238,12 +261,14 @@ function googleTranslateElementInit() {
 <script type="text/javascript">display_menu_2();</script><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(0)" onselectstart="return 0" id="menu0" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 161px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="200" id="tbl0"><tbody><tr id="pTR0"><td width="200" id="el0" onmouseover="h$(0)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl0"><tbody><tr id="td0"><td id="_imgO0"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img0" src="/v/vspfiles/templates/140/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(0)" name="mM1" onfocus="_iF0C(0)" href="http://www.ezwholesaler.com/Current-Email-Ad-s/1155.htm" class="nav" id="lnk0" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Current Email Ad</a></td></tr></tbody></table></td></tr><tr id="pTR1"><td width="200" id="el1" onmouseover="h$(1)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl1"><tbody><tr id="td1"><td id="_imgO1"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img1" src="/v/vspfiles/templates/140/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(1)" name="mM1" onfocus="_iF0C(1)" href="http://www.ezwholesaler.com/Closeout-Specials-Wholesale-s/1129.htm" class="nav" id="lnk1" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Closeouts</a></td></tr></tbody></table></td></tr><tr id="pTR2"><td width="200" id="el2" onmouseover="h$(2)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl2"><tbody><tr id="td2"><td id="_imgO2"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img2" src="/v/vspfiles/templates/140/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(2)" name="mM1" onfocus="_iF0C(2)" href="http://www.ezwholesaler.com/Closeout-Specials-Wholesale-s/1129.htm" class="nav" id="lnk2" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Special Deals!</a></td></tr></tbody></table></td></tr><tr id="pTR3"><td width="200" id="el3" onmouseover="h$(3)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl3"><tbody><tr id="td3"><td id="_imgO3"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img3" src="/v/vspfiles/templates/140/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(3)" name="mM1" onfocus="_iF0C(3)" href="http://www.ezwholesaler.com/Wholesale-New-Products-s/881.htm" class="nav" id="lnk3" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">New Products</a></td></tr></tbody></table></td></tr><tr id="pTR4"><td width="200" id="el4" onmouseover="h$(4)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl4"><tbody><tr id="td4"><td id="_imgO4"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img4" src="/v/vspfiles/templates/140/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(4)" name="mM1" onfocus="_iF0C(4)" href="http://www.ezwholesaler.com/Wholesale-Hot-Sellers-s/1140.htm" class="nav" id="lnk4" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Hot Sellers!</a></td></tr></tbody></table></td></tr><tr id="pTR5"><td width="200" id="el5" onmouseover="h$(5)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl5"><tbody><tr id="td5"><td id="_imgO5"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img5" src="/v/vspfiles/templates/140/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(5)" name="mM1" onfocus="_iF0C(5)" href="http://www.ezwholesaler.com/Wholesale-Free-Shipping-Offers-s/1116.htm" class="nav" id="lnk5" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px"><b>Free Shipping Offers</b></a></td><td width="1" valign="bottom" style="font-size:1px;padding:0px;;"><img id="simg5" onload="_p2(0,this)" src="/v/vspfiles/templates/140/images/Template/Menu2_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td></tr><tr id="pTR6"><td width="200" id="el6" onmouseover="h$(6)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl6"><tbody><tr id="td6"><td id="_imgO6"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img6" src="/v/vspfiles/templates/140/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(6)" name="mM1" onfocus="_iF0C(6)" href="http://www.ezwholesaler.com/SHOP-BY-SEASON-s/894.htm" class="nav" id="lnk6" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Shop By Season</a></td><td width="1" valign="bottom" style="font-size:1px;padding:0px;;"><img id="simg6" onload="_p2(0,this)" src="/v/vspfiles/templates/140/images/Template/Menu2_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td></tr><tr id="pTR7"><td width="200" id="el7" onmouseover="h$(7)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl7"><tbody><tr id="td7"><td id="_imgO7"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img7" src="/v/vspfiles/templates/140/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(7)" name="mM1" onfocus="_iF0C(7)" href="http://www.ezwholesaler.com/Discontinued-Wholesale-Products-s/1131.htm" class="nav" id="lnk7" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Discontinued</a></td></tr></tbody></table></td></tr><tr id="pTR8"><td width="200" id="el8" onmouseover="h$(8)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl8"><tbody><tr id="td8"><td id="_imgO8"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img8" src="/v/vspfiles/templates/140/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(8)" name="mM1" onfocus="_iF0C(8)" href="http://www.ezwholesaler.com/Wholesale-Out-Of-Stock-Products-s/1143.htm" class="nav" id="lnk8" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Out Of Stock</a></td></tr></tbody></table></td></tr><tr id="pTR9"><td width="200" id="el9" onmouseover="h$(9)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl9"><tbody><tr id="td9"><td id="_imgO9"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img9" src="/v/vspfiles/templates/140/images/Template/Menu2_Bullet.gif"></td><td width="100%" style=";"><a onclick="return $K(9)" name="mM1" onfocus="_iF0C(9)" href="http://www.ezwholesaler.com/Print-An-Order-Form-s/1016.htm" class="nav" id="lnk9" style="border:none;background:transparent;display:block;;font-Family:Arial;font-Weight:bold;font-Style:normal;font-Size:11px">Print An Order Form</a></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink0" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(1)" onselectstart="return 0" id="menu1" style="padding:0px;;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(2)" onselectstart="return 0" id="menu2" style="padding:0px;;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div>
 </div>
 
+
+<!-- 
      <h3 id="Menu5_Title">Upcoming Holidays</h3>
       <div id="display_menu_5">
 <script type="text/javascript">var breadCrumb="||";</script>
 <script type="text/javascript">display_menu_5();</script>
 </div>
-
+ -->
       <h3 id="Menu3_Title">Departments</h3>
       <div id="display_menu_3">
 <script type="text/javascript">var breadCrumb="||";</script>
@@ -277,7 +302,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="ACER">ACER</option>
 <option value="ACROPRINT">ACROPRINT</option>
 <option value="ADAPTEC">ADAPTEC</option>
-<option value="ADEX+ELECTRONICS">ADEX ELECTRONICS</option>
 <option value="ADOBE">ADOBE</option>
 <option value="ADS">ADS</option>
 <option value="AIC">AIC</option>
@@ -289,28 +313,18 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="AMD">AMD</option>
 <option value="AMERICAN+MICROSEMICO">AMERICAN MICROSEMICO</option>
 <option value="AMI">AMI</option>
-<option value="AMPHENOL">AMPHENOL</option>
 <option value="ANTEC">ANTEC</option>
 <option value="AOC">AOC</option>
 <option value="AOPEN">AOPEN</option>
 <option value="APC">APC</option>
 <option value="APPLE">APPLE</option>
 <option value="ARIMA">ARIMA</option>
-<option value="ARTEC">ARTEC</option>
 <option value="ASIS">ASIS</option>
 <option value="ASUS">ASUS</option>
-<option value="ATC">ATC</option>
 <option value="ATI+TECHNOLOGIES">ATI TECHNOLOGIES</option>
-<option value="ATV">ATV</option>
 <option value="AUSTIN+HUGHES">AUSTIN HUGHES</option>
 <option value="AUTO+ACCESSORIES">AUTO ACCESSORIES</option>
-<option value="AVAN+QUEST">AVAN QUEST</option>
-<option value="AVC">AVC</option>
-<option value="AVC+ASIA">AVC ASIA</option>
-<option value="AVCA">AVCA</option>
 <option value="AVERATEC">AVERATEC</option>
-<option value="AVERY">AVERY</option>
-<option value="AXXESS">AXXESS</option>
 <option value="BABY%5FBLANKET">BABY_BLANKET</option>
 <option value="BATH+%2F+BED">BATH / BED</option>
 <option value="BEAR%5FSPRAY">BEAR_SPRAY</option>
@@ -320,7 +334,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="BISSELL">BISSELL</option>
 <option value="BLACK+%26+DECKER">BLACK & DECKER</option>
 <option value="BLING">BLING</option>
-<option value="BLK">BLK</option>
 <option value="BLUTEKPOWER">BLUTEKPOWER</option>
 <option value="Bluw">Bluw</option>
 <option value="Body+Champ">Body Champ</option>
@@ -330,35 +343,26 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="BROTHER">BROTHER</option>
 <option value="BTC">BTC</option>
 <option value="BUFFALO">BUFFALO</option>
-<option value="BYTECC">BYTECC</option>
 <option value="CABLES+UNLIMITED">CABLES UNLIMITED</option>
 <option value="Camaro+Classic+Script">Camaro Classic Script</option>
 <option value="Camaro+Emblem">Camaro Emblem</option>
 <option value="Canada+Green">Canada Green</option>
 <option value="Canon">Canon</option>
-<option value="CAPOWER">CAPOWER</option>
-<option value="CASE+LOGIC">CASE LOGIC</option>
 <option value="CASIO">CASIO</option>
-<option value="CELESTICA">CELESTICA</option>
 <option value="CHENBRO">CHENBRO</option>
 <option value="CHERRY">CHERRY</option>
 <option value="Chevrolet+Bowtie">Chevrolet Bowtie</option>
-<option value="CHICONY">CHICONY</option>
 <option value="CHIEF">CHIEF</option>
 <option value="CHUMBO+PUBLISHING">CHUMBO PUBLISHING</option>
-<option value="CIDESIGN">CIDESIGN</option>
 <option value="CISCO">CISCO</option>
+<option value="Coca+Cola">Coca Cola</option>
 <option value="COMPAQ">COMPAQ</option>
-<option value="COMPUTER+ASSOCIATES">COMPUTER ASSOCIATES</option>
 <option value="CONSUMABLES">CONSUMABLES</option>
 <option value="COOKWARE">COOKWARE</option>
-<option value="COOLER+MASTER">COOLER MASTER</option>
 <option value="COR">COR</option>
 <option value="CORSAIR">CORSAIR</option>
 <option value="CRAFTS">CRAFTS</option>
 <option value="CREATIVE+LABS">CREATIVE LABS</option>
-<option value="CTR">CTR</option>
-<option value="CY">CY</option>
 <option value="DEFENSE%5FSPRAY">DEFENSE_SPRAY</option>
 <option value="DEFENSE%5FSPRAY%5FATHLETIC">DEFENSE_SPRAY_ATHLETIC</option>
 <option value="DEFENSE%5FSPRAY%5FHOME">DEFENSE_SPRAY_HOME</option>
@@ -378,15 +382,11 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="DISPLAY+BOX">DISPLAY BOX</option>
 <option value="DISPLAY%5FDEFENSE%5FSPRAY">DISPLAY_DEFENSE_SPRAY</option>
 <option value="DISPLAY%5FRED%5FSPRAY">DISPLAY_RED_SPRAY</option>
-<option value="DLO">DLO</option>
 <option value="DPS">DPS</option>
 <option value="Drive+Medical">Drive Medical</option>
 <option value="Duralube">Duralube</option>
 <option value="DXG">DXG</option>
-<option value="DYMO">DYMO</option>
-<option value="DYNAEON">DYNAEON</option>
 <option value="DYNATRON">DYNATRON</option>
-<option value="DYNEX">DYNEX</option>
 <option value="Eagle+Eyes+Avian+Orange">Eagle Eyes Avian Orange</option>
 <option value="Eagle+Eyes+Avian%2DOrange">Eagle Eyes Avian-Orange</option>
 <option value="Eagle+Eyes+Flash%2DMirror">Eagle Eyes Flash-Mirror</option>
@@ -400,8 +400,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Eagle+Eyes+TriLenium+Silver%2DFlash">Eagle Eyes TriLenium Silver-Flash</option>
 <option value="Eagle+Eyes+Trilenium%2DGold+Flash">Eagle Eyes Trilenium-Gold Flash</option>
 <option value="EATON">EATON</option>
-<option value="EBC">EBC</option>
-<option value="ELA">ELA</option>
 <option value="ELE">ELE</option>
 <option value="ELECTRONIC">ELECTRONIC</option>
 <option value="ELECTRONIC+ARTS">ELECTRONIC ARTS</option>
@@ -413,13 +411,11 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Emson">Emson</option>
 <option value="ENCORE">ENCORE</option>
 <option value="ENERGIZER">ENERGIZER</option>
-<option value="ENGENIUS">ENGENIUS</option>
 <option value="ENLIGHT+CORPORATION">ENLIGHT CORPORATION</option>
 <option value="ENSEO">ENSEO</option>
 <option value="EPSON">EPSON</option>
 <option value="ERGONOMIC">ERGONOMIC</option>
 <option value="ERGOTRON">ERGOTRON</option>
-<option value="ESSELTE">ESSELTE</option>
 <option value="EVGA">EVGA</option>
 <option value="Evriholder+barware">Evriholder barware</option>
 <option value="Evriholder+cleaning">Evriholder cleaning</option>
@@ -428,33 +424,26 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="FASHION%2FAPPAREL">FASHION/APPAREL</option>
 <option value="FELLOWES">FELLOWES</option>
 <option value="FIC">FIC</option>
-<option value="FIRST+CABLE+LINE">FIRST CABLE LINE</option>
 <option value="FLEECE%5FSCARF">FLEECE_SCARF</option>
-<option value="FNG">FNG</option>
 <option value="Ford">Ford</option>
 <option value="Ford+Mustang">Ford Mustang</option>
 <option value="FORTRON">FORTRON</option>
-<option value="FOXCONN">FOXCONN</option>
 <option value="FSP">FSP</option>
 <option value="FUJITSU">FUJITSU</option>
 <option value="GARDEN">GARDEN</option>
-<option value="GARMIN">GARMIN</option>
 <option value="GATEWAY">GATEWAY</option>
 <option value="GE">GE</option>
 <option value="GENERAL+DEVICES">GENERAL DEVICES</option>
 <option value="General+Electric">General Electric</option>
 <option value="GENERIC+BRAND">GENERIC BRAND</option>
 <option value="GENERIC+MANUFACTURER">GENERIC MANUFACTURER</option>
-<option value="GFF">GFF</option>
 <option value="GIFTS">GIFTS</option>
 <option value="GIGABYTE">GIGABYTE</option>
 <option value="GRIFFIN">GRIFFIN</option>
-<option value="GUARDID">GUARDID</option>
 <option value="HAIR+CARE+ITEMS">HAIR CARE ITEMS</option>
 <option value="Handy+Gourmet">Handy Gourmet</option>
 <option value="Health">Health</option>
 <option value="HEALTH%2FBEAUTY">HEALTH/BEAUTY</option>
-<option value="HI%2DPRO">HI-PRO</option>
 <option value="HIGHPOINT">HIGHPOINT</option>
 <option value="HIPRO">HIPRO</option>
 <option value="HITACHI">HITACHI</option>
@@ -465,17 +454,12 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="HP">HP</option>
 <option value="HRE">HRE</option>
 <option value="Humminbird">Humminbird</option>
-<option value="HUNG+FU">HUNG FU</option>
 <option value="HYNIX">HYNIX</option>
 <option value="HYPER+MICROSYSTEMS">HYPER MICROSYSTEMS</option>
 <option value="IBM">IBM</option>
 <option value="Ideaworks">Ideaworks</option>
 <option value="IEC">IEC</option>
-<option value="IMATION">IMATION</option>
-<option value="INCLOSE+DESIGN">INCLOSE DESIGN</option>
-<option value="INDIVIDUAL">INDIVIDUAL</option>
 <option value="INFINEON">INFINEON</option>
-<option value="INKSTOP">INKSTOP</option>
 <option value="INTEC">INTEC</option>
 <option value="INTEL">INTEL</option>
 <option value="INTER+VIDEO">INTER VIDEO</option>
@@ -483,24 +467,17 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="IOMEGA">IOMEGA</option>
 <option value="IVO+SOUND">IVO SOUND</option>
 <option value="Jokari">Jokari</option>
-<option value="JVC">JVC</option>
 <option value="KAGAN">KAGAN</option>
-<option value="KAPLAN">KAPLAN</option>
 <option value="KENSINGTON">KENSINGTON</option>
 <option value="KEYCHAINS">KEYCHAINS</option>
 <option value="KEYTRONICEMS">KEYTRONICEMS</option>
-<option value="KGT">KGT</option>
 <option value="KICKER">KICKER</option>
 <option value="KINGSTON">KINGSTON</option>
 <option value="KINGWIN">KINGWIN</option>
 <option value="kitchen">kitchen</option>
-<option value="KNOWLEDGE+ADVENTURE">KNOWLEDGE ADVENTURE</option>
-<option value="KODAK">KODAK</option>
-<option value="KOUTECH">KOUTECH</option>
 <option value="KYOCERA">KYOCERA</option>
 <option value="Lady+Elegance">Lady Elegance</option>
 <option value="Lawn">Lawn</option>
-<option value="LEAD+DATA">LEAD DATA</option>
 <option value="Leak+Ender">Leak Ender</option>
 <option value="LEGEND">LEGEND</option>
 <option value="Lenovo">Lenovo</option>
@@ -511,34 +488,24 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Lifetime+Essentials">Lifetime Essentials</option>
 <option value="LIFEVIEW">LIFEVIEW</option>
 <option value="LIGHTING">LIGHTING</option>
-<option value="LIONSGATE">LIONSGATE</option>
 <option value="LITE%2DON+IT%2C+CORP%2E">LITE-ON IT, CORP.</option>
-<option value="LOCKERMATE+CORPORATI">LOCKERMATE CORPORATI</option>
-<option value="LOW">LOW</option>
 <option value="LPF">LPF</option>
 <option value="LSI+LOGIC">LSI LOGIC</option>
-<option value="LYONS">LYONS</option>
 <option value="MA">MA</option>
-<option value="MADE">MADE</option>
 <option value="Magic+Wallet">Magic Wallet</option>
 <option value="MAGIX">MAGIX</option>
 <option value="MAGTECH">MAGTECH</option>
 <option value="MAJOR+BRAND">MAJOR BRAND</option>
 <option value="MAPOWER+ELECTRONICS+USA%2C+INC%2E">MAPOWER ELECTRONICS USA, INC.</option>
-<option value="MASQUE">MASQUE</option>
-<option value="MASTER+LOCK">MASTER LOCK</option>
 <option value="MATROX">MATROX</option>
 <option value="MAX">MAX</option>
 <option value="MAXELL">MAXELL</option>
 <option value="MAXIM">MAXIM</option>
 <option value="MAXTOR">MAXTOR</option>
-<option value="MCAFEE">MCAFEE</option>
-<option value="MCZ">MCZ</option>
 <option value="MDA">MDA</option>
 <option value="MELLANOX+TECHNOLOGIE">MELLANOX TECHNOLOGIE</option>
 <option value="MEMOREX">MEMOREX</option>
 <option value="METRA">METRA</option>
-<option value="MGM">MGM</option>
 <option value="Michael+Graves+Design">Michael Graves Design</option>
 <option value="MICRO%5FCORAL">MICRO_CORAL</option>
 <option value="MICRON+TECHNOLOGY">MICRON TECHNOLOGY</option>
@@ -548,56 +515,37 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Miracle+Of+Aloe">Miracle Of Aloe</option>
 <option value="MISC">MISC</option>
 <option value="MITSUMI">MITSUMI</option>
-<option value="MIZCO">MIZCO</option>
 <option value="MONSTER">MONSTER</option>
 <option value="MONSTER+CABLE">MONSTER CABLE</option>
+<option value="Mopar">Mopar</option>
 <option value="MOTOROLA">MOTOROLA</option>
 <option value="MPC">MPC</option>
 <option value="MRI+UK+LTD">MRI UK LTD</option>
 <option value="MSI">MSI</option>
-<option value="MUSIC+POWER">MUSIC POWER</option>
 <option value="MUSTEK">MUSTEK</option>
 <option value="MYLEX">MYLEX</option>
 <option value="MYRICOM">MYRICOM</option>
-<option value="NAVARRE">NAVARRE</option>
 <option value="NAVIGON">NAVIGON</option>
-<option value="NC">NC</option>
 <option value="NEC">NEC</option>
-<option value="NEW+LINE">NEW LINE</option>
 <option value="NEWISYS">NEWISYS</option>
-<option value="NEWTON+POWER">NEWTON POWER</option>
 <option value="NEXXTECH">NEXXTECH</option>
 <option value="NIAGARA">NIAGARA</option>
-<option value="NINTENDO">NINTENDO</option>
-<option value="NORTEL">NORTEL</option>
 <option value="North+American+Healthcare">North American Healthcare</option>
 <option value="NOVA">NOVA</option>
-<option value="NVIDIA">NVIDIA</option>
-<option value="NXX">NXX</option>
-<option value="ODYSSEY">ODYSSEY</option>
-<option value="OKIDATA">OKIDATA</option>
 <option value="Old+Modern+Handicrafts">Old Modern Handicrafts</option>
-<option value="OLYMPUS">OLYMPUS</option>
 <option value="ONK">ONK</option>
-<option value="ORE">ORE</option>
 <option value="OREGON+SCIENTIFIC">OREGON SCIENTIFIC</option>
 <option value="ORION">ORION</option>
-<option value="PACIFIC+DESIGN">PACIFIC DESIGN</option>
 <option value="PALM">PALM</option>
 <option value="PANASONIC">PANASONIC</option>
-<option value="PAPERPRO">PAPERPRO</option>
 <option value="PARTY">PARTY</option>
-<option value="PC+TOOLS">PC TOOLS</option>
 <option value="PCB">PCB</option>
-<option value="PD">PD</option>
 <option value="PDE+TECHNOLOGY">PDE TECHNOLOGY</option>
 <option value="PELICAN">PELICAN</option>
-<option value="PERFORMANCE+DESIGN">PERFORMANCE DESIGN</option>
 <option value="PERSONAL">PERSONAL</option>
 <option value="Pet+Parade">Pet Parade</option>
 <option value="PET+SUPPLIES">PET SUPPLIES</option>
 <option value="PetZoom">PetZoom</option>
-<option value="PHILIPS">PHILIPS</option>
 <option value="PHOTO+FRAMES">PHOTO FRAMES</option>
 <option value="PILLOW%5FSACK">PILLOW_SACK</option>
 <option value="PINNACLE">PINNACLE</option>
@@ -607,13 +555,8 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="PNY">PNY</option>
 <option value="POLAROID">POLAROID</option>
 <option value="POLK">POLK</option>
-<option value="PORELON">PORELON</option>
 <option value="PORTWELL">PORTWELL</option>
-<option value="POST%2DIT">POST-IT</option>
-<option value="POWER+LOGIC">POWER LOGIC</option>
 <option value="PREMIO">PREMIO</option>
-<option value="PRIME">PRIME</option>
-<option value="PRINCO">PRINCO</option>
 <option value="PROMISE+TECHNOLOGIES">PROMISE TECHNOLOGIES</option>
 <option value="PROMO%5FTHROW">PROMO_THROW</option>
 <option value="PROTRON">PROTRON</option>
@@ -630,21 +573,15 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="RED%5FSPRAY%5FMAGNUM">RED_SPRAY_MAGNUM</option>
 <option value="RED%5FSPRAY%5FUNIQUE">RED_SPRAY_UNIQUE</option>
 <option value="RELIGIOUS">RELIGIOUS</option>
-<option value="RITE+AV">RITE AV</option>
 <option value="RIVERBED">RIVERBED</option>
 <option value="RLX+TECHNOLOGIES">RLX TECHNOLOGIES</option>
 <option value="ROLODEX">ROLODEX</option>
 <option value="ROXIO">ROXIO</option>
-<option value="SAK">SAK</option>
 <option value="SAMSUNG">SAMSUNG</option>
-<option value="SANY">SANY</option>
-<option value="SCOTCH+BRAND">SCOTCH BRAND</option>
-<option value="SDK">SDK</option>
 <option value="SEAGATE">SEAGATE</option>
 <option value="SEASONAL">SEASONAL</option>
 <option value="SEASONIC">SEASONIC</option>
 <option value="Security">Security</option>
-<option value="SESAME+STREET">SESAME STREET</option>
 <option value="SEWING+NOTIONS">SEWING NOTIONS</option>
 <option value="SHARP">SHARP</option>
 <option value="Sierra+Tools">Sierra Tools</option>
@@ -654,23 +591,16 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="SIMPLE+TECH">SIMPLE TECH</option>
 <option value="SIRIUS">SIRIUS</option>
 <option value="SLC">SLC</option>
-<option value="SMARTPARTS">SMARTPARTS</option>
 <option value="SMC">SMC</option>
 <option value="Smith+%26+Wesson">Smith & Wesson</option>
-<option value="SMK">SMK</option>
-<option value="SMSC">SMSC</option>
 <option value="SOLECTRON">SOLECTRON</option>
-<option value="SOLO">SOLO</option>
 <option value="SONY">SONY</option>
-<option value="SONY+PICTURES">SONY PICTURES</option>
 <option value="SOUND+TECH">SOUND TECH</option>
-<option value="SOUTHWORTH">SOUTHWORTH</option>
 <option value="Space+Bag">Space Bag</option>
 <option value="SPARKLEPOWER">SPARKLEPOWER</option>
 <option value="SPECTRONIQ">SPECTRONIQ</option>
 <option value="SPI">SPI</option>
 <option value="SPORTING+GOODS">SPORTING GOODS</option>
-<option value="STAPLES">STAPLES</option>
 <option value="STARTECH">STARTECH</option>
 <option value="STATIONERY">STATIONERY</option>
 <option value="STRAPS">STRAPS</option>
@@ -679,24 +609,18 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Style+Auto">Style Auto</option>
 <option value="SUMMITSOFT">SUMMITSOFT</option>
 <option value="SUN">SUN</option>
-<option value="SUNON">SUNON</option>
 <option value="SUPER+TALENT">SUPER TALENT</option>
 <option value="SUPERMICRO">SUPERMICRO</option>
 <option value="SWEATSHIRT%5FBLANKET">SWEATSHIRT_BLANKET</option>
 <option value="SYMANTEC">SYMANTEC</option>
-<option value="SYMBOL">SYMBOL</option>
 <option value="SYNERGY">SYNERGY</option>
-<option value="TAKE+2">TAKE 2</option>
 <option value="TAMURA">TAMURA</option>
 <option value="TANDBERG">TANDBERG</option>
 <option value="TARGUS">TARGUS</option>
 <option value="TASTY+BYTES">TASTY BYTES</option>
 <option value="TEAC">TEAC</option>
 <option value="TECHNUITY">TECHNUITY</option>
-<option value="TEXAS+INSTRUMENTS">TEXAS INSTRUMENTS</option>
 <option value="TextilePro">TextilePro</option>
-<option value="TFN">TFN</option>
-<option value="THERMALTAKE">THERMALTAKE</option>
 <option value="Thinktank">Thinktank</option>
 <option value="THROW">THROW</option>
 <option value="TOMTOM">TOMTOM</option>
@@ -717,23 +641,16 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="TYCO">TYCO</option>
 <option value="U%2ES%2E+Patrol">U.S. Patrol</option>
 <option value="ULEAD">ULEAD</option>
-<option value="ULTRALAST">ULTRALAST</option>
-<option value="UMVD">UMVD</option>
 <option value="UNIDEN">UNIDEN</option>
 <option value="UNIVERSAL+STUDIOS">UNIVERSAL STUDIOS</option>
 <option value="US+Patrol">US Patrol</option>
 <option value="VALUSOFT">VALUSOFT</option>
-<option value="VANTEC">VANTEC</option>
 <option value="VELOCITY+MICRO">VELOCITY MICRO</option>
-<option value="VERDES">VERDES</option>
-<option value="VERGE">VERGE</option>
 <option value="VERIZON">VERIZON</option>
 <option value="VGPOCKET">VGPOCKET</option>
 <option value="VISIONTEK">VISIONTEK</option>
-<option value="VLU">VLU</option>
 <option value="VUESCAPE">VUESCAPE</option>
 <option value="Walkfit">Walkfit</option>
-<option value="WARNER">WARNER</option>
 <option value="WATERPROOF%5FBLANKET">WATERPROOF_BLANKET</option>
 <option value="WENGER">WENGER</option>
 <option value="Wenzelite+Rehab">Wenzelite Rehab</option>
@@ -742,11 +659,8 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="X2GEN">X2GEN</option>
 <option value="XIRCOM">XIRCOM</option>
 <option value="XM">XM</option>
-<option value="XPRESS+KIT">XPRESS KIT</option>
-<option value="YAMAHA">YAMAHA</option>
 <option value="ZENITH">ZENITH</option>
 <option value="ZIPPY">ZIPPY</option>
-<option value="ZLING">ZLING</option>
 <option value="ZT">ZT</option>
 </select></form></div> -->
       <br><br><div id="DropDown_ShopBy_Price"><script type="text/javascript">
