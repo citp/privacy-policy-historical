@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballmanager.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617210316id_/http%3A//www.sega.co.uk/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballmanager.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126112142id_/http%3A//www.sega.co.uk/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
