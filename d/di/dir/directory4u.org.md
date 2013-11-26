@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directory4u.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527021423id_/http%3A//www.directory4u.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directory4u.org privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126124252id_/http%3A//www.directory4u.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Link Directory - Privacy Policy
 
