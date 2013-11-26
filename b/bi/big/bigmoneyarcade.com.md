@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigmoneyarcade.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527154843id_/http%3A//bigmoneyarcade.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigmoneyarcade.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126200247id_/http%3A//www.bigmoneyarcade.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Free Online Privacy for Games - Play Privacy for Games
 
