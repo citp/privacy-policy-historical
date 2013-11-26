@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revelri.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227220245id_/http%3A//www.revelri.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revelri.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126093937id_/http%3A//www.revelri.com/page/privacy) for the most accurate reproduction.*
 
-# Page
+# Revelri | Privacy
 
 **What information do we collect?**  
 We collect information from you when you register on our site.
