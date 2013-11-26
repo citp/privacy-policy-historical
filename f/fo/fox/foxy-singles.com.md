@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxy-singles.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504132442id_/http%3A//www.foxy-singles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxy-singles.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126234216id_/http%3A//foxy-singles.com/privacy) for the most accurate reproduction.*
 
 # 
 
