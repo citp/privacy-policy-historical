@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabserial.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424105005id_/http%3A//sabserial.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabserial.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126135136id_/http%3A//sabserial.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
