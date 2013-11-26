@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rignite.com privacy policy that was archived on 2013-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130217201745id_/http%3A//www.rignite.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rignite.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126021200id_/http%3A//www.rignite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | @RigniteInc
 
-This Privacy Policy is incorporated by reference into the Rignite [Terms of Use](https://web.archive.org/terms/), available at http://www.rignite.com/terms. The term “ **Rignite** ,” “ **we** ,” and “ **us** ” includes Rignite Inc. and our affiliates and subsidiaries. The Privacy Policy explains how Rignite may:
+This Privacy Policy is incorporated by reference into the Rignite [Terms of Use](http://www.rignite.com/terms-of-use/ "Terms of Use"), available at http://www.rignite.com/terms. The term “ **Rignite** ,” “ **we** ,” and “ **us** ” includes Rignite Inc. and our affiliates and subsidiaries. The Privacy Policy explains how Rignite may:
 
   * collect,
   * use, and
@@ -12,7 +12,7 @@ This Privacy Policy is incorporated by reference into the Rignite [Terms of Use]
 
 information we obtain through the Rignite Service.
 
-“ **Personal Information** ” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
+**“Personal Information”** means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
 
 **THE RIGNITE SERVICE COLLECTS YOUR INFORMATION**
 
@@ -48,21 +48,22 @@ By using the Rignite Service, you are authorizing us to gather, parse, and retai
 
 **HOW RIGNITE USES YOUR INFORMATION**
 
-We use Personal Information to
+We use Personal Information to:
 
   * facilitate and improve the Rignite Service; and
   * communicate with you.
 
 
 
-We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes.
+We do not rent, sell, or share Personal Information about you with other people or non-affiliated companies for their direct marketing purposes.
 
 We may use aggregate information for any purpose, including for marketing purposes.
 
-**Internal and Service-Related Usage.** We use information, including Personal Information, for internal and service-related purposes only and may provide it to third parties to allow us to facilitate the Rignite Service. We may use and retain any data we collect to provide and improve our services.  
-Communications. We may send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance.
+**Internal and Service-Related Usage.** We use information, including Personal Information, for internal and service-related purposes only and may provide it to third parties to allow us to facilitate the Rignite Service. We may use and retain any data we collect to provide and improve our services.
 
-**Marketing.** We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes. We may use your Personal Information to facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you.
+**Communications.** We may send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance.
+
+**Marketing.** We do not rent, sell, or share Personal Information about you with other people or non-affiliated companies for their direct marketing purposes. We may use your Personal Information to facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you.
 
 **Aggregate Data.** We may anonymize and aggregate data collected through the Rignite Service and use it for any purpose.
 
@@ -74,9 +75,10 @@ We may share your information:
   * with social network websites, at your direction;
   * to comply with legal obligations;
   * to protect and defend our rights and property; and
-  * with your permission.
 
 
+
+with your permission.
 
 **We Use Vendors and Service Providers.** We may share any information we receive with vendors and service providers retained in connection with the provision of the Rignite Service.
 
@@ -96,7 +98,7 @@ We may share your information:
 
 **Merger, Sale, or Other Asset Transfers.** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction. Any entity receiving such information may choose to treat such information according to its privacy policy and not the terms of this Privacy Policy.
 
-We may also disclose your Personal Information with your permission.
+_We may also disclose your Personal Information with your permission._
 
 **SECURITY OF YOUR INFORMATION**
 
@@ -108,9 +110,9 @@ By using the Rignite Service or providing Personal Information to us, you agree 
 
 By using the Rignite Service, you will transfer data to the United States.
 
-By choosing to visit the Rignite Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the state of California and the adjudication of any disputes arising in connection with Rignites or the Rignite Service will be in accordance with the [Terms of Use](https://web.archive.org/terms/).
+By choosing to visit the Rignite Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the state of California and the adjudication of any disputes arising in connection with Rignites or the Rignite Service will be in accordance with the Terms of Use.
 
-**If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.**
+If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.
 
 **UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION**
 
@@ -118,11 +120,11 @@ If you would like to update or correct any information that you have provided to
 
 **CHANGES TO OUR PRIVACY POLICY AND PRACTICES**
 
-We may revise this Privacy Policy, so review it periodically.Before we broaden our use of Personal Information beyond what is stated in this Privacy Policy, we will make reasonable efforts to provide notice and obtain consent as required by law.
+We may revise this Privacy Policy, so review it periodically. Before we broaden our use of Personal Information beyond what is stated in this Privacy Policy, we will make reasonable efforts to provide notice and obtain consent as required by law.
 
-**Posting of Revised Privacy Policy.** We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted.If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically.
+Posting of Revised Privacy Policy. We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted.If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically.
 
-**New Uses of Personal Information.** From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
+New Uses of Personal Information. From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
 
 **Contact Information**
 
