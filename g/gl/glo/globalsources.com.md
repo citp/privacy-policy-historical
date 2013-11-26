@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328165725id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126011218id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
 
 # Global Sources - Help & FAQ
-
-Help & FAQ
 
 **Privacy Policy**
 
@@ -96,7 +94,7 @@ Some pages on our website may contain images known as "web beacons" (also known 
 **Disabling/Enabling Cookies**   
 There are a number of ways to manage your cookies. You can decide to accept or decline cookies by modifying the settings in your browser. You can also set-up your browser to warn you every time a cookie is sent, so that you can review the cookie before you decide whether or not to accept it. 
 
-For example, if you are using Microsoft Internet Explorer 6, 7 or 8: 
+For example, if you are using Microsoft Internet Explorer: 
 
 > •  | Click on "Internet Options" from the "Tools" menu in your browser.  
 > ---|---  
@@ -104,14 +102,42 @@ For example, if you are using Microsoft Internet Explorer 6, 7 or 8:
 > •  | Select a setting for the internet zone which you want and click "Apply" then "OK".  
 > •  | Or click on "Advance", then Select "Override automatic cookie handling, then select the options you want, click "OK", and then click "OK".  
   
+For more information, please visit to Microsoft Official support URL   
+<http://windows.microsoft.com/en-sg/windows-vista/block-or-allow-cookies>
+
 If you are using Firefox: 
 
-> •  | Click on "Options..." from the "Tools" menu in your browser.  
+> •  | Click on "Options..." from the "Options" menu in your browser.  
 > ---|---  
 > •  | Select the "Privacy" tab.  
-> •  | Select a setting for "Accept cookies from sites" and "Accept third-party cookies", then "OK".  
+> •  | Select the "Use custom settings for history" under "History".  
 > •  | Or click on "Advance", then Select "Override automatic cookie handling, then select the options you want, click "OK", and then click "OK".  
   
+For more information, please visit to their official support URL   
+<http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
+
+If you are using Google Chrome: 
+
+> •  | Click on "Setting" under the menu in your browser.  
+> ---|---  
+> •  | Click on "Show advanced Setting" at the bottom of the page.  
+> •  | Click on "Content Settings" under the "Privacy" section.  
+> •  | Select the appropriate cookies settings under the "Cookies" at the top of the page.  
+  
+For more information, please visit to Google’s official support URL   
+<https://support.google.com/accounts/answer/61416?hl=en>
+
+If you are using Safari: 
+
+> •  | Click on "Preferences" under Safari.  
+> ---|---  
+> •  | Click on "Privacy".  
+> •  | In the "Block Cookies" section, specify if and when Safari should accept cookies from websites. To see an explanation of the options, click the Help button.  
+> •  | Click "Details" button if you want to see which websites store cookies on your computer.  
+  
+For more information, please visit to Apple's official support URL   
+<http://support.apple.com/kb/ph5042>
+
 If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on how to manage your cookies settings. 
 
 If you use different computers in different locations to access our website, you will need to ensure that each browser is adjusted to suit your cookie preferences. 
@@ -121,42 +147,53 @@ Some of our site services or features require cookies. If you disable or do not 
 **Deleting Cookies**   
 You can delete any cookies that have been installed in the cookie folder of your browser. 
 
-For example, if you are using Internet Explorer 6: 
+For example, if you are using Internet Explorer: 
 
-> •  | Exit Internet Explorer 6, and then exit any instances of Windows Explorer.  
+> •  | Go to "Internet Options", click the “General” Tab.  
 > ---|---  
-> •  | Click "Start", click "Run", type "inetcpl.cpl", and then press ENTER.  
-> •  | In the "Settings" box, click on the "View Files..." button at the bottom.  
-> •  | You will now see a list of all the temporary files that Internet Explorer has stored in your computer for quick access. This is also where all cookies are stored.  
-> •  | Select the cookie file(s) which you wish to delete, then hit the "Delete" button on your keyboard. Press "Yes" at the prompt to confirm your deletion.  
+> •  | Under the "Browsing history", click the “Delete” button.  
+> •  | When you are on the "Delete Browsing History" pop-up, make sure you have ticked "Cookies and website data" check box.  
+> •  | Click the "Delete" button to proceed with the cookie deletion.  
   
-If you are using Internet Explorer 7: 
+For more information, please visit to Microsoft Support URL   
+<http://support.microsoft.com/kb/278835>
 
-> •  | Exit Internet Explorer 7, and then exit any instances of Windows Explorer.  
-> ---|---  
-> •  | Click "Start", click "Run", type "inetcpl.cpl", and then press ENTER.  
-> •  | On the "General" tab, click "Delete" under Browsing History in the Internet Properties dialog box.  
-> •  | In the Delete Browsing History dialog box, click "Delete Cookies".  
-> •  | In the Delete Cookies dialog box, click "Yes".  
-  
-If you are using Internet Explorer 8: 
-
-> •  | Exit Internet Explorer 8, and then exit any instances of Windows Explorer.  
-> ---|---  
-> •  | Click "Start", click "Run", type "inetcpl.cpl", and then press ENTER.  
-> •  | On the "General" tab, click "Delete" under Browsing History in the Internet Properties dialog box.  
-> •  | In the Delete Browsing History dialog box, click to clear all of the check boxes except for the "Cookies" check box.  
-> •  | Click "Delete".  
-  
 If you are using Firefox: 
 
-> •  | Click on "Options0„30…2" from the "Tools" menu in your browser.  
+> •  | Click on "Options" from the "Options" menu in your browser.  
 > ---|---  
 > •  | Select the "Privacy" tab.  
-> •  | Click "Show Cookies..."  
-> •  | You can either click "Remove All Cookies" to remove all cookies   
-> •  | Or you can remove selective cookie by select and click "Remove Cookie"   
+> •  | Click "remove individual cookies"  
+> •  | You can either click "Remove All Cookies" to remove all cookies  
+> •  | Or you can remove selective cookie by select and click "Remove Cookie"  
   
+For more information, please visit Firefox’s support URL   
+<http://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored>
+
+If you are using Google Chrome: 
+
+> •  | Click on "Setting" from the top right of the browser.  
+> ---|---  
+> •  | Click "Show advanced settings".  
+> •  | Click "remove individual cookies".  
+> •  | In the "Privacy" selection, click the "Content Settings" button.  
+> •  | In the "Cookies" section, you can delete cookies according to your desire.  
+  
+For more information, please visit Google's support URL   
+<https://support.google.com/chrome/answer/95647?hl=en>
+
+If you are using Safari: 
+
+> •  | Choose "Preferences" under Safari settings.  
+> ---|---  
+> •  | Click "Privacy".  
+> •  | CClick "Details".  
+> •  | Select one or more website that stores cookies, and then click Remove or Remove All.  
+> •  | When you finish removing websites. Click Done.  
+  
+For more information, please visit Apple's support URL   
+<http://support.apple.com/kb/ph5049>
+
 If you are using other versions or other browser software, then you can select "cookies" from the "Help" function in your browser for information on where to find your cookie folder to delete your cookies. 
 
 **Our Contact Information**   
