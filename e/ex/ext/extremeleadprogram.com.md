@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremeleadprogram.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527163510id_/http%3A//www.extremeleadprogram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremeleadprogram.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126132508id_/http%3A//www.extremeleadprogram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,6 +40,8 @@ We may set a cookie that will identify which only limited information such as da
 There is a small subset of this history that we use with 3rd parties, such as Google, for the purpose of measuring and improving the efficacy of advertising campaigns.
 
 Some of these third parties, aggregate such information across many websites. This allows them to identify users who are more likely to be interested in specific offerings like fashion, sports, education and so on.
+
+You can opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads) (Opens in new window). 
 
 As an Internet user, you may experience the results of such aggregation by noticing how the ads displayed on Yahoo, for example, better match your interests (the optimistic scenario), or at least more closely match a website that you recently visited.
 
