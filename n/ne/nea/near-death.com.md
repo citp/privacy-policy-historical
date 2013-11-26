@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the near-death.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525031235id_/http%3A//near-death.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the near-death.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126103638id_/http%3A//www.near-death.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Near-Death.com
-
-Privacy Policy
 
 At  [ Near-Death Experiences and the Afterlife](http://www.near-death.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by  [ near-death.com](http://www.near-death.com/) and how it is used.
 
