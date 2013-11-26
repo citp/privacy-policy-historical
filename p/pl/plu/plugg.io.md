@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plugg.io privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601035045id_/http%3A//plugg.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugg.io privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126054502id_/http%3A//plugg.io/privacy) for the most accurate reproduction.*
 
 # Pluggio - Privacy Policy
 
