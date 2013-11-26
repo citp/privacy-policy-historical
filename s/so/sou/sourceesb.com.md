@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sourceesb.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512055137id_/http%3A//www.penton.com/PrivacyStatement/tabid/75/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceesb.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127002048id_/http%3A//www.penton.com/PrivacyStatement/tabid/75/Default.aspx) for the most accurate reproduction.*
 
-# Privacy Statement - Penton Media, Inc.
+# Privacy Statement - Penton
 
 ### 
 
