@@ -1,95 +1,165 @@
-> *The following text is extracted and transformed from the mysupermarket.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518221045id_/http%3A//www.mysupermarket.co.uk/Administration/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysupermarket.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126073332id_/http%3A//www.mysupermarket.com/Content/Privacy) for the most accurate reproduction.*
 
-# Privacy policy | mySupermarket
+# mySupermarket - Compare Prices - Shop Online - Save Money
 
-**A. Protecting You**
+Please note that this Privacy Policy is part of the [Terms & Conditions](http://www.mysupermarket.com/Content/termsandconditions) governing your use of this website located at the URL [www.mysupermarket.com](http://www.mysupermarket.com/) (the"Site") (the"Terms") and any words which are capitalized here have the same meaning as in the Terms. 
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 and other applicable data protection laws in the UK).
+###  A. Introduction 
 
-We collect information about you to provide you with the best possible service and to provide you with, and tell you about, related services from us and marketing about ourselves and third parties (but we will not give your details to those third parties without your consent) , all as further explained in this policy.
+We are mySupermarket Inc., a Delaware corporation (and we refer to ourselves as "mySupermarket", "we" or "us" or "our" in this document). 
 
-Also, if you agree to register or sign-in to participate in the Maximiles Programme on or through the Website, then you agree that you will provide the data that you give to us (and that we accrue for that purpose) to Maximiles for Maximiles' own marketing activities to you 
+We are committed to protecting your privacy. We ask that you please read the following carefully to understand our views and practices regarding your personally identifiable information and how we will treat it. This Privacy Policy covers personally identifiable information and other solicited visitor information that may be collected or learned on the Site. This Privacy Policy does not cover information that may be collected or learned by us through any other means, including information collected or learned offline. It also does not apply to any unsolicited information you provide through the Site or Services. All unsolicited information shall be deemed to be non-confidential, and we shall be free to reproduce, use, disclose and distribute such unsolicited information to others without limitation or attribution. 
 
-, as further explained in this policy. 
+This Privacy Policy is effective as of the date set forth above. Except as explicitly provided herein, this Privacy Policy does not apply to the practices of entities that we do not own or control or to people that we do not employ or manage. 
 
-**B. The Information We Collect**
+By accessing any part of the Site or using its Services, the Site visitor or user ("you" or "your") consents to and agrees with this Privacy Policy. If you do not agree with any part of this Privacy Policy, please do not use the Site or the Services. 
 
-Our privacy policy ensures that any information you provide us remains private and secure. To reassure you, below we provide details of the information you provide to us, and how it will, and more importantly, will not be used. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by contacting us (and there may be an administrative fee payable for this). If you find any inaccuracies we will delete or correct it promptly.
+mySupermarket reserves the right at any time, for any or no reason, at our sole discretion and with or without notice, to change this Privacy Policy simply by posting such changes on this page. Any such change will be effective immediately upon posting. Your continued use of any of the Site or Services signifies your acceptance of any such changes. For this reason, please visit this page on a regular basis to ensure that you are familiar with the most recent version of this Privacy Policy and the Terms. mySupermarket's use of information that we gather is subject to the Privacy Policy in effect at the time that we use such information. 
 
-Here are some examples of the data we collect and reasons why:
+###  B. The Information We Collect 
 
-  * During the course of using the Service, you may be asked to provide your postcode for delivery - this allows us to identify which supermarkets deliver in your area and the products in particular supermarkets may vary by locality. 
-  * When you register for the Service you are asked to provide your name, email address and password - this helps us recognise you when you return so that we can provide you with a faster service. 
-  * We may also ask you to provide your age and possibly certain other personal details such as gender or where you heard about us. We collect these types of details for marketing purposes but we will never provide these details to third parties outside our group unless in anonymous form or as we say elsewhere in this policy. 
-  * If you give us your email address when you register with us (or at any other time) **you are giving us your consent to receive emails from us** , which can be about: 
-    * Information to do with the services we offer;
-    * Marketing (being details of either our own or third party promotions, vouchers or special deals - although we will never pass your email address to those third parties). (You always have the option to later unsubscribe from certain types of (or all) marketing emails, although if you do this, we may keep your email address on our files for analysis purposes or because you use other of our services.)
-  * When you register or sign-in for participation in the Maximiles Programme on or through the Website, you need to provide us with your email address, password for your participation in the Maximiles Programme, first name, last name, address and postcode, which we will pass on to Maximiles for your participation in the Maximiles Programme. We will receive a reference from Maximiles that identifies you uniquely, and we use that reference in order to inform Maximiles how many points should be attributed to your Maximiles Programme account. 
-  * We keep a record of items you purchased in your favourites list, thus allowing you to shop more quickly on future visits. 
-  * We keep a record of the contents of your Trolleys between shopping sessions. This allows you to continue shopping sessions that you may have stopped midway with no need to add again all the items that you already placed in your Trolley. 
-  * We may also keep a record of the contents of your Trolley after you have sent it to a Supermarket. This is to ensure that you receive the allocation of points attributed by us for your participation within the Maximiles Programme. 
-  * We keep a record of your preferences such as sorting order of items and last shelf you bought in, so you don't need to reset these preferences every time you start shopping. 
-  * We keep track of your emails and contacts with customer support, so that we can provide you with a responsive and efficient service. 
-  * If you import favourites from one of the Supermarkets or if you book a delivery slot from one of the Supermarkets or when you place an order with the Supermarkets (using the Service), we ask you to enter your login details for that Supermarket (usually email and password). You may authorise us to save your Supermarket password access details. If so, we will retain these only to facilitate your speedier interaction with a Supermarket (so that you do not continually have to re-enter such details) and we will not use this information for any other purpose. 
-  * We keep details of your favourites from Supermarkets and details of previous Trolley you have ordered so that we can better display your favourite items to you as part of the Service. 
-  * At times (although not always) we also offer a free newsletter. You may sign up to receive our free newsletter when we offer it and you do this by providing your email address to us for this purpose. (You always have the option to later unsubscribe, although if you do this, we may keep your email address on our files for analysis purposes or because you use other of our services.) 
-  * We collect and may display or use for the purposes of marketing and advertising the Website, Service or ourselves, any testimonials you provide us with about the Website, the Service or ourselves - and we may append to the testimonial your first name (but not your surname) and general geographic location (e.g. City or locale). 
-  * If you have been referred to us by another website, we may keep a record of the website that referred you so that we may work out which websites refer more or less users to mysupermarket.co.uk. We may also have referral arrangements with websites and referrers and we may use this data to fulfil obligations that we may have to these websites or referrers. 
-  * We collect and track statistical non-personal information about shopping habits, goods and service preferences and selections which customers have made and the likes for the purpose of business research and for the general improvement of the Service. 
+Information we collect from you directly   
+When you register, we will collect the following information: your name, email address, password and IP address. We may also collect information from you when you make a purchase; fill out an online form through the Site; complete a survey for us; participate in a contest or other promotion sponsored by us or on our behalf; contact us; or otherwise use the Site or the Services, or provide information to us on or through the Site. We may also ask you to provide other details such as your age, gender, phone number or where you heard about us. 
+
+We will also ask you to provide information as you use the Site so that we can provide certain aspects of the Services. For example: 
+
+  * If you place an order with one of the Retailers, we will ask you for your login details for that Retailer, your shipping and billing address, credit card information, and other information that the Retailer may require in order to process and fulfill your order. You will have the option to allow the Site to save your credit card information in order to facilitate future purchases. 
+  * If you participate in our Cashback Program, we will collect and retain your PayPal or bank account information so we can pay you and we may use your Retailer login details to confirm completion of your order before paying Cashback earned. 
 
 
 
-**C. Third parties**
+The personal information that you provide must be true, accurate and complete, and all registration and account details (where applicable) must contain your real name, address and other requested information. You are responsible for keeping your information current and accurate. We may combine information we collect from and about you online with information we collect from and about you through other means. We may also combine your information with information we learn about you from other sources, such as account update notifications. 
 
-**We will never give your personal data over to any third party (whether by giving it, selling it or renting) for their marketing purposes without your consent.**
+Information we collect from your activity on the Site    
+As you use the Site and personalize your account, we collect information about your activities. This includes things like: 
 
-We may use your personal data ourselves to let you know about third party offers, promotions, vouchers or special deals (e.g. by us sending you emails) but we will never give your personal data to those third parties without your consent. Also, you will be able to unsubscribe from such emails at any time.
-
-We may pass your details to our agents and subcontractors to help us with any of our uses of your data set out in this Privacy Policy. For example, we may use third parties to provide us with marketing or customer service assistance.
-
-We may send your information internationally including to countries outside the European Economic Area. Some places outside of the EEA may not have adequate data protection laws at all or may offer differing levels of protection of personal information which are not as high as in the UK. By submitting your data to us, you acknowledge that provided we have used your data in the ways set out in this Privacy Policy, we cannot be held responsible for any use of your data by third parties who receive and process your data. 
-
-We may exchange information with third parties (including but not limited to Supermarkets and Maximiles) for the purposes of fraud protection.
-
-We may transfer our databases containing your personal information if we sell our business or part of it. 
-
-We may disclose your personal data to third parties without obtaining your prior consent if we are required to do so by law. 
-
-The Site may contain advertising of third parties and reference to third party service providers (such as Maximiles). Please be aware that we are not responsible for the privacy practices or content of any third parties or other sites, nor for any third party to whom we transfer your data in accordance with this Privacy Policy.
-
-**D. Affiliate Networks**
-
-We may be member of affiliate networks who make a small payment to us if people visit certain websites from our Website or certain parts of websites (such as websites of the Supermarkets or certain parts of mySupermarket.co.uk) (which we call "Visited Websites"). None of your personal details will be passed to any such affiliate network. However, to record that you have visited a Visited Website from our Website, the affiliate network may place a "cookie" (i.e. a small text file) on your computer. That cookie lasts about a month. See the section of this Privacy Policy entitled "Technology" for more details.
-
-**E. E-mails we send you**
-
-Please note that we may e-mail for the following purposes: 
-
-  * as part of the Service. For example, we send (or may send) emails to you in some of the following example circumstances: 
-    * after registration for the Service, notifying you of your registration details;
-    * as reminder emails about the services we offer (particularly if you have not used them yet or not used them for a while;
-    * after you have sent a Trolley, giving you details about that;
-    * with details of how to register or sign-in for your participation in the Maximiles Programme;
-    * to send you information which you have asked for (for example, you may have elected to receive newsletters or information on offers from Supermarkets), although we will always give you the chance to unsubscribe from these; and
-  * to offer related services to you. However, in terms of any marketing emails we may send, we will always give you the chance to opt-out (or unsubscribe) from any marketing email from us in the future.  
-Click here to unsubscribe. 
+  * Information on what you buy and how you use the Site, such as information on orders you have sent on to a Retailer, items you have purchased, your favorites, your sorting preferences, your product swaps, cart 'splits' and store 'switches', your selection of Savvy Buys and Top Offers, and other details about your orders or browsing habits. 
+  * Information about your use of various Site services, such as your use of the Rating and Reviews Service or the Price Alert and Savvy Cart features, your Mini-Store registrations or the Cashback amounts you have received from our Cashback Program. 
+  * Your communications with mySupermarket and your use of the LivePerson Support service. 
+  * Other information related to your activity, such as which website referred you to us. 
 
 
 
-**F. Security**
+Information we collect from other sources    
+We may receive information about you from third party sources, such as data aggregators, third party service providers and other partners and from third parties to whom you have given permission to share your information. For instance, by registering for the Site using Facebook or another social media network, you grant permission to that network to share your details. 
 
-The personal information which we hold will be held securely in accordance with our internal security policy and the law. For example, where we hold passwords (e.g. the password allocated as part of the registration process - which may later be changed); your Supermarket access password - if you allow us to do so; your Maximiles password – which we send to Maximiles; etc.) we hold them using secure encryption. See our [Security section](https://web.archive.org/Administration/Security.aspx) for more details. 
+We also collect certain kinds of non-identifying Site usage information, such as the number of hits and visits to our Site. This information is used by us for internal purposes to improve our Site and the Services and may also be provided to others for support, marketing, research or other business purposes. We may also collect information about the Internet protocol (IP) address used to connect your computer to the Internet; connection information such as browser type and version, operating system and platform; other software and hardware information; and information about your browsing behavior, such as the date/time you visit the Site, the Site pages that you visit, the time you spend visiting the Site or viewing a page, the number of times you return to the Site, and other click-stream information. We also may use third party website analytics tools (such as Omniture or Google) that collect information about visitor traffic on our Site and any mobile applications. We treat all information of the type referenced in this paragraph as non-personal, unless required by applicable law to do otherwise. 
 
-**G. Technology**
+Retention of Information    
+Please note that when you delete your account information or terminate your use of the Services, we may retain your information, including your personally identifiable information, for a reasonable period of time afterward for the purpose of recordkeeping, account management, and fraud prevention activities. 
 
-Our Website and Service use "cookies" (and, in certain circumstances, “flash cookies”) technology to store data in your computer using the functionality of your browser. A lot of websites do this, because cookies allow the website publisher to do useful things like find out whether the computer (and probably its user) has visited the site before. For example (and as detailed in the section of this Privacy Policy called "Affiliate Networks"), affiliate networks may place a limited life cookie (i.e. a small text file which "expires" after a certain time) in your computer to record that have visited our Website before visiting a Visited Website.
+###  C. How We Use the Information We Collect 
 
-You can usually modify your browser to prevent cookie use - but if you do this the Service (and the Website) will not work properly. The information stored in the cookie is used to identify you. This enables us to operate an efficient service and to track the patterns of behaviour of visitors to the website.
+We use the information we collect to provide the Services, to customize and improve your mySupermarket experience, to make your experience as enjoyable and efficient as possible, and for other commercial purposes. 
 
-**H. This Privacy Policy**
+Use of Personal Information to Provide the Services    
+Certain personal information is required in order for the Services, or certain features of the Services, to operate. 
 
-Please note that this Privacy Policy forms part of the [Terms & Conditions](https://web.archive.org/Administration/TermsAndConditions.aspx) for use of this Website and forms part of the Agreement between you and us. The terms defined in those [Terms & Conditions](https://web.archive.org/Administration/TermsAndConditions.aspx) are used in the same way in this Privacy Policy. Updates to this Privacy Policy are dealt with in the same way as in those Terms & Conditions. 
+Here are some specific examples of personal information used to provide the Services. 
 
-**I. Questions or Comments?**
+  * Your email address and password allows us to recognize you when you return so that we can provide you with a faster service and a personal user account. 
+  * Your zip code allows us to identify which Retailers deliver to your area and what products are available at those Retailers. Products of particular Retailers do sometimes vary by locality. 
+  * We use your IP address to prevent spam, fraud or abuse of the Site. 
+  * We use your login data, address and credit card information to facilitate your placing an order with one of the Retailers. We may also use your login data to confirm completion of orders placed, including collecting information about your purchase from the third-party Retailer website, such as the items you ultimately received, the order total and shipping date.
+  * We use your email address and other contact information to provide customer support.
 
-If you have any further questions about our privacy policy, please refer to our [Terms & Conditions](https://web.archive.org/Administration/TermsAndConditions.aspx) or contact our [Customer Support](https://web.archive.org/Administration/ContactUs.aspx).
+
+
+Use of Information to Customize and Improve Your mySupermarket Experience    
+We want your shopping experience on mySupermarket.com to be as enjoyable as possible. We will collect information about your shopping activities and preferences to customize your account (in addition to how you customize it yourself) and to enable us to provide an efficient and user-friendly service. We will also use it to improve the quality of the Site. 
+
+Here are some specific examples of how we use your information: 
+
+  * We keep details of items you have added to favorites and details of previous Carts you have ordered in your favorites list. This will allow you to shop more efficiently on future visits. 
+  * We keep a record of the contents of your Carts between shopping sessions. This allows you to continue shopping in sessions that you may have stopped midway, with no need to add again all the items that you already placed in your Cart. 
+  * We keep a record of your preferences, such as sorting order of items and the last shelf you bought from, so you don't need to reset these preferences every time you start shopping. 
+  * We keep a record of your shipping and billing address details to make it faster for you to place orders in the future. 
+  * Paying attention to how you use the Site helps us to develop improvements to the Site and the Services. 
+  * If you have been referred to us by a third party website, we may keep a record of the website that referred you so that we may work out which websites refer more or fewer users to our Site. We may also have referral arrangements with certain third party websites and referrers and we may use this information to fulfill obligations that we may have to these third party websites or referrers.
+  * We collect and track aggregate information about shopping habits, products and service preferences, selections which users have made, and the like. We use this information for the general improvement of the Services, but also for the purpose of business research. You can see more about aggregate information below. 
+
+
+
+Use of Information for Commercial Purposes    
+mySupermarket does not charge users for use of the Site. We earn revenue (which allows us to keep the Site online and totally free to our users) through advertising sales, including online behavioral advertising, and through the sale of business intelligence information. 
+
+Here is how your information is used for this: 
+
+  * We use information about your activity on our Site in order to present you with targeted advertising-that is, product information, offers and promotions that we think may be interesting to you and that you might like. Without targeting, you will still see advertisements; they are just less likely to be relevant to your specific interests. 
+  * We share information with certain carefully selected third party partners so that they can present you with advertisements and promotional offers that are relevant to you and your interests on other websites based on your activity on mySupermarket.com or, alternatively, to present you with advertisements on mySupermarket.com based on your activity on other websites. 
+  * We collect and may display or use for the purposes of marketing and advertising the Site, Services or ourselves, any testimonials you provide us about the Site, the Services or ourselves - and we may append to the testimonial your first name (but not your surname) and general geographic location (e.g. city and state). 
+
+
+
+Use of Your Email Address    
+We use your email address to communicate with you. Some of these are service emails and are so we can communicate with you about Site updates or your activity on the Site. For instance, we may send you service emails: 
+
+  * after registration for the Services or the Cashback Program, notifying you of your registration details; 
+  * after Checkout, giving you details about your orders and including regarding applicable Cashback Amounts; 
+  * to send you information which you have asked for; and 
+  * to contact you about the status of ratings or reviews you have submitted using our Rating and Review Service or other services. 
+
+
+
+In addition, from time to time we may email you marketing emails with Site news and updates or details of sales offers or promotions. These may be marketing for the Site itself or on behalf of third parties. We may also contact you for market research purposes, either for commercial purposes or so we can get feedback about the Site. 
+
+Your acceptance of the Site Terms and Conditions means that you are giving us consent to send you these emails directly or by a third party on our behalf. However, you can easily opt out of receiving marketing emails by clicking "unsubscribe" in the relevant email or by updating your email preferences in the [My Account](http://www.mysupermarket.com/YourAccount/Default.aspx) section of the Site at any time. Even if you opt out, we will still send you service emails about the Site itself, your account and your activities on the Site. 
+
+Aggregate Information    
+Aggregate information is information we collect about a group or category of products, services or users, from which individual user identities have been removed and from which it is not possible to determine individual customer identities. In other words, information about how you use a service may be collected and combined with information about how others use the same service, but all such information will be anonymized and no identifying information will be included in the resulting information. 
+
+Aggregate information helps us to understand trends and customer needs so that new products and services can be considered and so that existing products and services can be tailored to customer desires. We use and disclose anonymized aggregate information to provide other products and services, as well for the purposes of evaluating and improving our existing products and services. We also sell such aggregate information, both via our business [insights website](http://www.mysupermarket-insights.com/) and through other channels. 
+
+D. Security Measures 
+
+All of the information we collect about you is stored on our secure servers and will be held securely in accordance with our internal security policy and the law. For example, we use secure encryption to hold passwords. 
+
+mySupermarket works with a third party credit card storage ("vaulting") service provider to help ensure the security of your data. Our payment details storage provider is PCI DSS Level 1 accredited, having satisfactorily met the Payment Card Industry Data Security Standard (PCI) security requirements related to the protection of cardholder data. All supplied bank and credit card information is transmitted via industry-standard Secure Socket Layer (SSL) technology and then encrypted into our payment details storage provider's database. This database is only accessible by those authorized with special access rights to such systems, and who are required to keep the information confidential. Whenever mySupermarket accesses your payment information in order to allow you to complete a purchase, it does so by means of a separate, secured PCI DSS Level 1 accredited server. 
+
+We may send your information internationally including to countries outside the United States. While we will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this Privacy Policy, some places outside of the United States may offer differing levels of protection of personally identifiable information which are not as high as in the United States. By submitting your personally identifiable information data to us, you acknowledge that, provided we have used your personally identifiable information in the ways set out in this Privacy Policy, we cannot be, and will not be, held responsible for any use of your personally identifiable information by third parties who receive and process your personally identifiable information. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we strive to protect your personally identifiable information, we cannot guarantee the security of your personally identifiable information transmitted to our Site. Once we have received your personally identifiable information, we will use strict procedures and security features to try to prevent unauthorized access. Nonetheless, it may be possible for hackers or other third parties to intercept or access your information unlawfully. Any transmission of your personally identifiable information is at your own risk. 
+
+###  E. Technology 
+
+mySupermarket and its partners and service providers use cookies and other tracking technology to provide the Services, to customize and improve your mySupermarket experience and for commercial purposes. Cookies are small files that a website or its service provider transfers to your computer's hard drive through your web browser (if you allow) that enable the websites or service providers' systems to recognize your browser and capture and remember certain information, and web beacons, which used to transmit information back to a web server. For example, use of cookies helps us remember your password, and process the items in your shopping cart. We also may work with third parties that may use cookies, web beacons or other tracking technology to collect information about your visits to the Site and/or other websites, and to serve advertisements to you based on that information. The majority of web browsers accept cookies, but the "help" menu on your browser should give you options for preventing, accepting, or receiving notice of new cookies. However, please be aware that if you block cookies, the Site will not work properly (and some aspects will not work at all). 
+
+###  F. Information Sharing 
+
+There are a number of instances in which mySupermarket may share your personally identifiable information. This may be in order to allow us to operate the Site, for corporate or statutory purposes, or as part of a partnership with a third party. 
+
+Operating Purposes 
+
+  * We may share your personally identifiable information to any member of our group of companies, which means any subsidiaries of mySupermarket Inc., or its ultimate holding company and its subsidiaries. 
+  * At times we work with other companies who help us to provide the Services to you or provide other support services pertaining to the operation of the Site. These companies receive only the personally identifiable information required in order to provide services, and are not given permission by us to use that information for anything aside from providing the Services. 
+  * We reserve the right to investigate suspected violations of the Terms & Conditions of the Site or illegal, fraudulent or inappropriate behavior on the Site; and to engage in activities needed to protect the rights, property, or safety of ourselves, of our users, or of others. To that end, and to the extent necessary to achieve the forgoing, we may exchange information with other companies and organizations, including but not limited to Retailers, our affiliates and partners, and law enforcement agencies. 
+
+
+
+Corporate and Statutory Purposes 
+
+  * We may transfer our databases containing your information, including your personally identifiable information, if we sell our business or part of it and/or engage in another similar corporate transaction. 
+  * We will share personally identifiable information where we are required to share your personal information in order to comply with any legal obligation. 
+  * We will share personally identifiable information if we have a good faith belief that: (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities; (ii) such action is appropriate to enforce the Terms of Use for the Services, including any investigation of potential violations thereof; (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Services; or (iv) such action is appropriate to protect our rights, property or safety or the rights, property or safety of our employees, affiliates, agents or contractors, users of the Services or others. 
+
+
+
+Third Party Partnerships    
+We share your personally identifiable information with affiliated businesses which we do not control but with which we engage in joint and co-branded offerings or projects. 
+
+###  G. Third party links 
+
+The Site may contain links to websites other than the Site, and those websites may not follow the same privacy policies as mySupermarket. These websites may send their own cookies to you, and may collect information and make uses of it that mySupermarket would not. If you use these links, you will leave the Site. These third parties and their websites are not under our control. We do not examine or evaluate these websites and we are not responsible for their content or operation. By providing links to these websites, we do not approve, warrant or endorse, or otherwise make any representation about them, their owners or operators, or the goods or services that they offer and/or sell, and we do not assume any related responsibility or liability relating to any of the foregoing. You should exercise your own judgment in evaluating and using these websites. When you link to these websites, you become subject to their terms and conditions of use and privacy policies. You understand, acknowledge and agree that all access to and use of any such third party website by you shall be at your own risk. 
+
+###  H. Children's Online Privacy Protection Act Compliance 
+
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act). We will not knowingly collect any information from anyone under 13 years of age. Our Site and Services are all directed to people who are at least 13 years old or older. No personally identifiable information should be submitted to, or posted at, the Site by visitors under 13 years of age without the prior written consent of their parent or guardian. 
+
+###  I. Questions or Comments? 
+
+If you have any further questions about our Privacy Policy, please refer to our [ Terms & Conditions](http://www.mysupermarket.com/content/termsandconditions) or contact our [ Customer Support](mailto:customercare@mysupermarket.com) or you may send correspondence to: 
+
+Privacy Director   
+mySupermarket Inc.   
+10 West 18th Street, 7th Floor   
+New York, NY 10011 
