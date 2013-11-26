@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nutsandboltsmedia.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528092953id_/http%3A//www.nutsandboltsmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutsandboltsmedia.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126141724id_/http%3A//www.nutsandboltsmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nuts and Bolts Media
+# Privacy Policy — Nuts and Bolts Media
 
 **Effective October 9, 2012**
 
@@ -34,7 +34,7 @@ We may use personal information to keep in contact with you and inform you of de
 
 **Correcting/Updating Personal Information**
 
-If a customer’s personally identifiable information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer’s personal data in our records. In most cases, this can be achieved via our billing system at [https://www.nutsandboltsmedia.com/portal](http://www.nutsandboltsmedia.com/portal). Otherwise, please contact us via [email](mailto:admin@nutsandboltsmedia.com).
+If a customer’s personally identifiable information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer’s personal data in our records. In most cases, this can be achieved via [email](mailto:admin@nutsandboltsmedia.com).
 
 **Opt Out & Modifications**
 
