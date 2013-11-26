@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingstoncommunications.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002939id_/http%3A//www.kc.co.uk/about-us/legal/%23tab%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingstoncommunications.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126030131id_/http%3A//www.kc.co.uk/about-us/legal/%23tab%3Dprivacy) for the most accurate reproduction.*
 
 # KC - Legal
 
@@ -92,8 +92,8 @@ SK9 5AF
 
 Tel: 01625 545700  
 Fax: 01625 524510  
-Website: [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/)  
-Email: [mail@dataprotection.gov.uk](mailto:mail@dataprotection.gov.uk)
+Website: [ www.ico.org.uk](http://www.ico.org.uk/)   
+Email: [mail@informationgovernance@ico.org.uk](mailto:informationgovernance@ico.org.uk)
 
 >back to top
 
