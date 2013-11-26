@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kovideo.net privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515103613id_/http%3A//www.kovideo.net/text-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kovideo.net privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126023001id_/http%3A//www.kovideo.net/text-privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -56,5 +56,11 @@ KOvideo fully cooperates with law enforcement agencies in identifying those who 
   * [LiveRail](http://liverail.com/privacy_policy.pdf)
 
 
+
+**Cookies & 3rd Party Advertisements**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Any questions regarding our Privacy Policy should be directed to us by using the [contact page](http://www.kovideo.net/contact.html) or by directly emailing [contact@kovideo.net](mailto:contact@kovideo.net).
