@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the centerparcs.co.uk privacy policy that was archived on 2013-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605024942id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centerparcs.co.uk privacy policy that was archived on 2013-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126015118id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><head>
-    <title>Information | Privacy Policy | Center Parcs</title>
+    <title>Information | Privacy &amp; Cookie Policy | Center Parcs</title>
 
     <link rel="shortcut icon" href="/system/modules/centerparcs.template.main/resources/images/favicon.ico">
     <link rel="icon" href="/system/modules/centerparcs.template.main/resources/images/favicon.png" type="image/png">
@@ -10,10 +10,9 @@
     
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
     <meta http-equiv="content-language" content="en">
-    <meta name="keywords" content="Privacy Statement">
-    <meta name="description" content="Privacy Statement">
+    <meta name="keywords" content="Privacy and Cookie Statement">
+    <meta name="description" content="Privacy and Cookie Statement">
     <meta name="copyright" content="Center Parcs">
     <meta name="distribution" content="global">
     <meta name="robots" content="all">
@@ -22,24 +21,25 @@
     <script type="text/javascript" src="//nexus.ensighten.com/centerparcs/Bootstrap.js">
     </script>
 
+    
+    
+    <script type="text/javascript">
+	    var browsers = 'MSIE 8.0';
+    </script>
+    <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/oldies.js" charset="utf-8"></script>
+    
+    
 
 
 
 
-
     
-    
-	    
-    
-
-    
-    
-	    
     
 
     
     
-	    
+
+    
     
 
 
@@ -79,6 +79,7 @@
     <link type="text/css" rel="stylesheet" href="/system/modules/centerparcs.template.main/resources/css/screen_table.css">
     <!--script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/mootools.js"--><!--/script-->
     <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/jquery.js"></script>
+    <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/mbe.js"></script>
     <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/mapWidget.js"></script>
     <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/left_navigation_effect.js"></script>
     <script type="text/javascript" src="/system/modules/centerparcs.template.main/resources/script/player-pod.js"></script>
@@ -432,7 +433,22 @@
     
     <!-- End -->
 
+
+
+
+
+
+
     
+    
+ 
+
+
+    
+    
+
+
+   
     </head>
    
 
@@ -822,8 +838,8 @@ li.left_nav_sub2 a {
 
                                         <li id="id3" class="left_nav_li rounded_6px">
 					    <a class="rounded_6px" id="id3_a" href="/villages/index.jsp" style="background-color: #896532 ">
-						<img src="/images/left_nav/locations.png" alt="Locations">
-						<span>Locations</span>
+						<img src="/images/left_nav/locations.png" alt="Our Villages">
+						<span>Our Villages</span>
 					    </a>
 					</li>                   
                                 
@@ -920,8 +936,8 @@ li.left_nav_sub2 a {
 
                                         <li id="id5" class="left_nav_li rounded_6px">
 					    <a class="rounded_6px" id="id5_a" href="/thingstodo.jsp" style="background-color: #ce7019 ">
-						<img src="/images/left_nav/accommodation.png" alt="Things to do">
-						<span>Things to do</span>
+						<img src="/images/left_nav/accommodation.png" alt="Things To Do">
+						<span>Things To Do</span>
 					    </a>
 					</li>                   
                                 
@@ -1018,8 +1034,8 @@ li.left_nav_sub2 a {
 
                                         <li id="id7" class="left_nav_li rounded_6px">
 					    <a class="rounded_6px" id="id7_a" href="/makeabooking.jsp" style="background-color: #575081 ">
-						<img src="/images/left_nav/my_booking.png" alt="Make a booking">
-						<span>Make a booking</span>
+						<img src="/images/left_nav/my_booking.png" alt="Book Now">
+						<span>Book Now</span>
 					    </a>
 					</li>                   
                                 
@@ -1196,6 +1212,7 @@ function validateForm(urlStep3, urlStep1, urlStep2) {
   var ddChildren16 = document.getElementById("Select23");
   var offerCode = document.getElementById("offerCode");
   var additionalReq = document.getElementById('Select15').value; 
+  var stayWithUS = document.getElementById('stayWithUs'); 
 
 /*
   var offer_code_reg = /[a-z]/;
@@ -1212,7 +1229,14 @@ function validateForm(urlStep3, urlStep1, urlStep2) {
 
 // CR7863
 //  offerCode.value = offerCode.value.toUpperCase();
-  offerCode.value = offerCode.value.toUpperCase();
+  if (stayWithUS.parentElement.className.indexOf('checked') != -1) {
+	  stayWithUS.checked = true;
+	  offerCode.value = "CBSOON";
+  }
+  else {
+	  stayWithUS.checked = false;
+	  offerCode.value = "";
+  }
   
   form.durationSelect.value = ddBreak.options[ddBreak.selectedIndex].value;
   if (ddBreak.options[ddBreak.selectedIndex].value == "Select") {
@@ -1291,19 +1315,6 @@ function validateForm(urlStep3, urlStep1, urlStep2) {
       alert("Your party must include at least one adult.\n");
       return false;
     }
-  }
-  
-//  if ((parseInt(form.childrenUnder16_.value) > 0) && (parseInt(form.numberInfants1.value) + parseInt(form.numberToddlers1.value) + parseInt(form.numberChildren1.value) < 1)) {
-  if ((parseInt(form.childrenUnder16_.value) > 0) && (parseInt(form.numberInfants1.value) + parseInt(form.numberToddlers1.value) + parseInt(form.numberChildren1.value) != parseInt(form.childrenUnder16_.value))) {
-    if (additionalReq.indexOf("No") == 0) {
-      alert("Please advise the ages of the children in your party.\n");
-      return false;
-    }
-  }
-  
-  form.childrenUnder16.value = ddChildren16.options[ddChildren16.selectedIndex].value;
-  if (ddChildren16.options[ddChildren16.selectedIndex].value == "Select") {
-      form.childrenUnder16.value = ""; 
   }
   
   var requiredBedrooms = Math.ceil(numberPeople / 2);
@@ -1507,6 +1518,25 @@ function pageInit() {
 
 }
 
+function villageChange() { 
+  var form = document.FSSform;
+  
+  grabArrDate();
+  
+  var monyr = getDropDownValue(form.monthyear);
+  var day = getDropDownValue(form.dayinmonth);
+  var duration = getDropDownValue(form.durationSelect_);
+
+  changeboxes();
+
+  setDropDown(document.FSSform.durationSelect_, duration);
+  document.FSSform.durationSelect_.onchange();
+  setDropDown(document.FSSform.monthyear, monyr);
+  document.FSSform.monthyear.onchange();
+  setDropDown(document.FSSform.dayinmonth, day);
+  
+  modifyCalendar(document.FSSform.durationSelect_);
+}
 
 function durationChange() { 
   var code = document.getElementById('Select7').value; 
@@ -1647,7 +1677,7 @@ function showCalendar() {
 	
 	
 	
-		<div class="content" id="content_id" style="float: left; margin-top: 5px; width: 583px;">
+		<div class="content" id="content_id" style="float: left; margin-top: 5px; width: 583px; display: block;">
 	
 
 
@@ -1727,7 +1757,7 @@ function showCalendar() {
 	    
 	    
 		<div class="copy">
-<h1>Privacy Policy</h1>
+<h1>Privacy and Cookie&nbsp;Policy</h1>
 </div>
 	    
 	
@@ -1772,11 +1802,12 @@ Email: <a href="mailto:data.protection@centerparcs.co.uk">data.protection@center
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and organisational controls to safeguard the information we collect online.</p>
 <p><b>OTHER WEB SITES</b><br>
 Our web site may contain links to enable you to visit other web sites of interest easily. However, once you have used these links to leave our site you should note that we do not have any control over that other web site. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the web site in question.</p>
-<p><b>HOW WE USE COOKIES</b><br>
-A cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For example, when you visit an online store, a cookie allows your basket content to be remember as your browse from page to page. The cookie file is placed on your hard drive and keeps track of your basket, and can be used to analyse your journey through the website to improve the website in the future.</p>
+<p>&nbsp;</p>
+<p align="left"><b><u>COOKIE STATEMENT</u></b></p>
+<p>A cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For example, when you visit an online store, a cookie allows your basket content to be remember as your browse from page to page. The cookie file is placed on your hard drive and keeps track of your basket, and can be used to analyse your journey through the website to improve the website in the future.</p>
 <p>We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes the pages visited, a booking and value of the booking. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this website analysis tool by clicking here: <a href="http://centerparcs.112.2o7.net/optout.html">http://centerparcs.112.2o7.net/optout.html</a></p>
-<p>Overall, cookies help us provide you with a better web site, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly in force. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. You may set most popular web browsers to notify you of cookie placement requests or decline cookies completely. You can delete the files that contain cookies - those files are stored as part of your web browser.</p>
-<p>The law which applies to how we use cookies and similar technologies for storing information on a user’s equipment such as their computer or mobile device changed on 26 May 2011. We will be working towards implementing the new guidelines for the use of cookies. If you want to read more information about this law, please download the document: Changes to the rules on using cookies and similar technologies for storing information from the Information Commissioner's Office website.</p>
+<p>Overall, cookies help us provide you with a better web site, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly in force. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile.</p>
+<p>You can set most web browsers to notify you of cookie placement requests or decline cookies completely by configuring your browser to suit your personal preference in relation to cookie management.</p>
 
 <script>
 // moock fpi [f.lash p.layer i.nspector]
@@ -2029,7 +2060,7 @@ function GetFlashEmbed (versionNo,id,strSrc,strBgColor,strWidth,strHeight,strFVa
 		    
 			<h2><style type="text/css">div.footer_text_column h1 {font-size: 11px;font-weight: bold;line-height: 0px;margin: 0px;padding: 0px;</style></h2>
 		    
-		    <p>UK holidays, weekend breaks and short breaks from Center Parcs, we operate four Holiday Villages in the UK; each is set in a forest environment, providing high quality holiday accommodation in fully equipped villas, apartments and holiday lodges. Each Village offers an extensive range of sports and leisure activities plus numerous restaurants, bars and retail outlets and superb Aqua Sana Spa facilities. Whether you are looking for a family holiday, activity holiday, short break, weekend break or even a spa break, Center Parcs has all the essential elements to make the perfect UK holiday.</p>
+		    <p>UK holidays, weekend breaks and short breaks from Center Parcs, we operate five Holiday Villages in the UK; each is set in a forest environment, providing high quality holiday accommodation in fully equipped villas, apartments and holiday lodges. Each Village offers an extensive range of sports and leisure activities plus numerous restaurants, bars and retail outlets and superb Aqua Sana Spa facilities. Whether you are looking for a family holiday, activity holiday, short break, weekend break or even a spa break, Center Parcs has all the essential elements to make the perfect UK holiday.</p>
 		</div>
 		<div class="footer_link_column_unique" style="margin-left:0px;">		
 		  
