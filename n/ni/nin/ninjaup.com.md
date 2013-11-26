@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ninjaup.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624154857id_/http%3A//ninjaup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjaup.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126181355id_/http%3A//ninjaup.com/privacy.php) for the most accurate reproduction.*
 
 # NinjaUp- Make Mass Mirror For Free - Privacy Policy
-
-## Privacy Policy
 
 **Google Advertising Cookie**
 
