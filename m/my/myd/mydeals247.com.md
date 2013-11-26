@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydeals247.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620165351id_/http%3A//mydeals247.com/my_deals/privacy_policy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydeals247.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126162220id_/http%3A//www.mydeals247.com/my_deals/privacy_policy/policy) for the most accurate reproduction.*
 
 # Online shopping India | My deals 247 |Laptops, Cell Phones, Tablets, Apple Products, Books, ACs, Home appliances, Hotel Booking, Travel Packages and more - get the live offers from the sellers in your local city - one stop solutions to buy and sell items.
 
