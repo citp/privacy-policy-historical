@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the healthychoicenaturals.com privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424015401id_/http%3A//shop.healthychoicenaturals.com/Terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthychoicenaturals.com privacy policy that was archived on 2013-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126162237id_/http%3A//shop.healthychoicenaturals.com/Terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -15,6 +15,7 @@
 <script type="text/javascript" async="" src="//apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -30,7 +31,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 <script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
@@ -61,14 +85,9 @@
   <![endif]-->
   <script language="javascript">
 $(document).ready(function() {
-		if( location.protocol === 'https:')
-		{
-		$('div#bizrate').hide();
-		}
-		else
-		{
-			$('div#bizrate').show();
-		}
+
+           $("#DisplayShippingSpeedChoicesTD>Select OPTION:contains(Insurance)").css("background-color","yellow"); 
+
 });
 </script>
 <!-- Google Analytics Content Experiment code -->
@@ -83,10 +102,10 @@ length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
 '&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
 valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
 '" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
-</script><script src="https://ssl.google-analytics.com/ga_exp.js?utmxkey=1593276-0&amp;utmx=&amp;utmxx=&amp;utmxtime=1580398434561" type="text/javascript" charset="utf-8"></script><script>utmx('url','A/B');</script>
+</script><script src="https://ssl.google-analytics.com/ga_exp.js?utmxkey=1593276-0&amp;utmx=&amp;utmxx=&amp;utmxtime=1580398434222" type="text/javascript" charset="utf-8"></script><script>utmx('url','A/B');</script>
 <!-- End of Google Analytics Content Experiment code -->
 
-  <script type="text/javascript">
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-921033-1']);
@@ -99,6 +118,13 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
   })();
 
 </script>
+<!--4-Tell Recommendations Begin (www.4-tell.com)-->
+<script type="text/javascript">
+    window._4TellBoost = window._4TellBoost || {};
+    _4TellBoost.alias = "HealthyC";
+</script>
+<script type="text/javascript" src="//4tcdn.blob.core.windows.net/4tjs/4TellLoader.js"></script>
+<!--4-Tell Recommendations End-->
 </head>
 <body style="background:url('/v/common/images/body_bg.gif') repeat-x scroll 0 0 transparent;">
 <div id="outer_layout">
@@ -120,22 +146,23 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
       <div id="main">
             <div id="header">
           <div class="logo"><a href="/"><img src="/v/common/images/logo.gif" alt="Healthy Choice Naturals" class="left"></a></div>
-          <div class="coupon" style="position:relative;"><!---<a href="http://www.healthychoicenaturals.com/bannernav.aspx">--><img src="//www.healthychoicenaturals.com/banner.aspx" id="bnrimg" class="left"><!--</a>--></div>
+          <div class="coupon" style="position:relative;"><!---<a href="http://www.healthychoicenaturals.com/bannernav.aspx">--><img src="//www.healthychoicenaturals.com/banner.aspx" width="479" height="119" class="left" id="bnrimg"><!--</a>--></div>
           <div class="small_banner">
-            <div class="mid"><img src="/v/common/images/phone.png" alt="To Place an Order Call: 1-800-541-6779. For Customer Service Call: 1-800-541-7318" hspace="0" vspace="0"></div>
+            <div class="mid"><img src="/v/common/images/phonenum.png" alt="To Place an Order Call: 1-800-541-6779. For Customer Service Call: 1-800-541-7318. From Outside the U.S. Call 1-949-328-3450" hspace="0" vspace="0"></div>
           <div class="small_banner">
         
             <div class="mid"><a href="/shoppingcart.asp" rel="nofollow"><img src="/v/common/images/icon_cart.gif" alt="cart" class="icon"></a><img src="/v/common/images/ShoppingCart.gif" width="93" height="20" hspace="15">
-        <div id="shopping_cart_summary"><div id="display_cart_summary"><div class="cartsummary_empty">(Your shopping cart is empty)</div></div></div></div></div></div></div>
+            <div id="shopping_cart_summary"><div id="display_cart_summary"><div class="cartsummary_empty">(Your shopping cart is empty)</div></div></div></div></div></div></div>
         <div id="menu">
           <ul>
             <li class="menu"><a href="/All-Natural-Supplements-s/88.htm">Supplements</a></li>
             <li class="menu"><a href="/Mens-Health-Supplements-s/18.htm">Men's Health</a></li>
             <li class="menu"><a href="/Womens-Health-Supplements-s/19.htm">Women's Health</a></li>
             <li class="menu"><a href="/Senior-Health-Supplements-s/20.htm">Senior Health</a></li>
-            <li class="menu"><a href="/Weight-Loss-Supplements-s/74.htm">Diet/Weight Loss</a></li>            
+            <li class="menu"><a href="/Weight-Loss-Supplements-s/21.htm">Weight Loss</a></li>            
+               <li class="menu"><a href="/Newsletter-Sign-Up-s/93.htm">Newsletter Signup</a></li>  
             <li class="last" align="right">
-              <div style="float:right;"><a href="http://shop.healthychoicenaturals.com/ProductDetails.asp?ProductCode=OSTEOCARE" style="padding:0;"><img src="/v/vspfiles/templates/105/images/Buttons/DealOfTheDay.png" align="left"></a><a href="//www.bbb.org/los-angeles/business-reviews/vitamins-and-food-supplements/aci-in-mission-viejo-ca-100086050" target="_blank" style="padding:0;"><img src="/v/common/images/bbb.png" hspace="0" vspace="0" border="0" align="right"></a></div></li>
+              <div style="float:right;"><a href="//www.bbb.org/los-angeles/business-reviews/vitamins-and-food-supplements/aci-in-mission-viejo-ca-100086050" target="_blank" style="padding:0;"><img src="/v/common/images/bbb.png" width="118" height="42" hspace="10" vspace="0" border="0" align="right"></a></div></li>
             
           </ul>
         </div>
@@ -198,36 +225,40 @@ Customer Service Telephone: (800) 541-7318<br>Email: cs@healthychoicenaturals.co
                         <option value="/Acai-Berry-Capsules-1200-p/acaiberry.htm">Acai Berry Extract</option> 
                         <option value="/Acai-Berry-Weight-Loss-Supplement-p/acaiheat.htm">Acai Heat</option> 
                         <option value="/Natural-Progesterone-Creme-p/autumn.htm">Autumn Balance Progesterone Creme</option> 
-						<option value="/Balanced-Probiotic-Supplement-p/probiotic.htm">Balanced Probiotic</option> 
+			<option value="/Balanced-Probiotic-Supplement-p/probiotic.htm">Balanced Probiotic</option> 
                         <option value="/Natural-Blood-Pressure-Medicine-p/bpformula.htm">Blood Pressure Formula</option> 
                         <option value="/Advanced-Candida-Control-p/candida.htm">Candida Control, Advanced</option>                         
                         <option value="/Natural-Cholesterol-Supplement-p/cholcare.htm">Cholesterol Care</option> 
                         <option value="/Cholestrak-Cholesterol-Test-Kit-p/cholestrak.htm">CholesTrak</option> 
-						<option value="/Circulation-Essentials-p/circulation.htm">Circulation Essentials</option> 
+			<option value="/Circulation-Essentials-p/circulation.htm">Circulation Essentials</option> 
                         <option value="/CLA-Softgel-Supplements-p/cla.htm">CLA-Trim &amp; Tone 2000</option> 
                         <option value="/Coenzyme-CoQ10-Supplement-120mg-p/coq10-120.htm">Coenzyme CoQ10-120mg</option>
-                        <option value="/Coenzyme-CoQ10-Supplement-30mg-p/coq10-30.htm">Coenzyme CoQ10-30mg</option> 
                         <option value="/Colon-Cleanse-Supplement-p/colon.htm">Colon Care</option> 
                         <option value="/Cortisol-Lowering-Supplement-p/corti.htm">Corti-Thin</option> 
                         <option value="/Derma-Claris-Natural-Acne-Treatment-p/derma.htm">Derma Claris</option>                                               
                         <option value="/Flaxseed-Oil-Capsules-p/flaxseed.htm">Flaxseed Oil, 1000mg</option> 
                         <option value="/Complete-Multivitamin-Supplement-p/spectrum.htm">Full Spectrum Daily Multi-Vitamin</option> 
+                        <option value="/Garcinia-Cambogia-Supplement-HCA-p/garcinia.htm">Garcinia Cambogia Complex</option> 
+                        <option value="/Garcinia-Max-1600mg-p/garciniamax.htm">Garcinia Max 1600mg</option>
+                        
                         <option value="/Glucose-Supplement-Blood-Sugar-Remedy-p/glucose.htm">Glucose Factors</option> 
-                        <option value="/Extra-Strength-Green-Coffee-Bean-Extract-p/greencoffee.htm">Green Coffee Bean</option>                        <option value="/Green-Tea-Extract-Capsules-p/greenteax.htm">Green Tea Extract</option> 
+                        <option value="/Extra-Strength-Green-Coffee-Bean-Extract-p/greencoffee.htm">Green Coffee Bean</option>
+                        <option value="/Green-Tea-Extract-Capsules-p/greenteax.htm">Green Tea Extract</option> 
                         <option value="/Hair-Skin-and-Nail-Vitamins-p/hair.htm">Hair Skin &amp; Nail Essentials</option> 
                         <option value="/Natural-Immune-System-Boosters-p/immune.htm">Immune Essentials</option> 
                         <option value="/Joint-Pain-and-Joint-Support-Supplement-p/jointrc2.htm">Joint Relief Complex </option> 
-						<option value="/Kick-Your-Nic-Quit-Smoking-Naturally-p/kick.htm">Kick Your Nic! 7-Day Quit Smoking</option> 
-						<option value="/Pure-Antarctic-Krill-Oil-Supplement-p/krill.htm">Krill Oil</option> 
-						<option value="/Maximum-Moringa-Capsules-p/moringa.htm">Maximum Moringa</option> 
+			<option value="/Kick-Your-Nic-Quit-Smoking-Naturally-p/kick.htm">Kick Your Nic! 7-Day Quit Smoking</option> 
+			<option value="/Pure-Antarctic-Krill-Oil-Supplement-p/krill.htm">Krill Oil</option> 
+			<option value="/Maximum-Moringa-Capsules-p/moringa.htm">Maximum Moringa</option> 
                         <option value="/Herbal-Memory-Supplements-p/mindmatrix.htm">Mind Matrix</option> 
                         <option value="/Natural-Energy-Supplements-p/energy.htm">Natural Energy Lift</option> 
                         <option value="/Herbal-Menopause-Supplement-p/transitions.htm">Natural Transitions</option> 
                         <option value="/Omega-3-Fish-Oil-Supplement-p/ultmega.htm">Omega Naturals Fish Oil</option> 
                         <option value="/Osteoporosis-Calcium-Supplement-p/osteocare.htm">Osteo-Care Bone Density</option> 
-						<option value="/Balanced-Probiotic-Supplement-p/probiotic.htm">Probiotic, Balanced</option> 
+						<option value="Parasite-Detox-Complex-p/parasite.htm">Parasite Detox Complex</option> 
+            <option value="/Balanced-Probiotic-Supplement-p/probiotic.htm">Probiotic, Balanced</option> 
                         <option value="/Prostate-Health-Supplement-with-Beta-Sitosterol-p/procare.htm">Prostate Care</option> 
-                        <option value="/Professional-Teeth-Whitening-Gel-p/pw1twk.htm">ProWhite Teeth Whitening</option> 
+                       <option value="/Professional-Teeth-Whitening-Gel-p/pw1twk.htm">ProWhite Teeth Whitening</option> 
                         <option value="/ProWhite-22-Carbamide-Peroxide-Refill-Kit-p/pw2twr.htm">ProWhite Refill Kit</option> 
                         <option value="/Pure-Antarctic-Krill-Oil-Supplement-p/krill.htm">Purified Krill Oil</option> 
                         <option value="/Raspberry-Ketone-Supplements-for-Weight-Loss-p/raspberry.htm">Raspberry Ketones</option> 
@@ -235,10 +266,11 @@ Customer Service Telephone: (800) 541-7318<br>Email: cs@healthychoicenaturals.co
                         <option value="/Resveratrol-500mg-Capsules-p/resv.htm">Resveratrol Capsules</option> 
                         <option value="/Resveratrol-Anti-Aging-Cream-p/resvcream.htm">Resveratrol Cream</option> 
                         <option value="/Retinol-XP-Pure-Advantage-p/retinolxp.htm">Retinol-XP Cream</option> 
+                        <option value="/Sleepwell-Naturals-p/sleepwell.htm">Sleepwell Naturals</option> 
                         <option value="/Stress-B-Complex-Vitamin-p/stressb.htm">Stress B-Complex</option> 
                         <option value="/Tanamins-Tanning-Pill-p/tanamins.htm">Tanamins</option> 
-                        <option value="/Natural-Thyroid-Remedy-p/thyroid.htm">Thyroid Essentials</option> 
-
+                        <option value="/Three-In-One-Hormone-DHEA-Supplement-p/triplh.htm">Three-In-One Hormone</option> 
+                        <option value="/Natural-Thyroid-Supplement-p/thyroid.htm">Thyroid Essentials</option> 
                         <option value="/Turmeric-Curcumin-Supplement-p/turmeric.htm">Turmeric Curcumin 1000mg</option> 
                         <option value="/Ubiquinol-CoQ10-Supplement-p/ubiq.htm">Ubiquinol 50mg</option> 
                         <option value="/Digestive-Enzyme-Supplement-p/ultrazymes.htm">Ultra-Zymes</option> 
@@ -246,13 +278,14 @@ Customer Service Telephone: (800) 541-7318<br>Email: cs@healthychoicenaturals.co
                         <option value="/virility-Erection-Supplement-p/virility-xl.htm">Virility-XL</option> 
                         <option value="/visionCare-Eye-Supplement-p/visioncare.htm">VisionCare Complete</option> 
                         <option value="/vitamin-E-400-IU-p/e400.htm">Vitamin E, 400IU</option> 
-                        <option value="/vitamin-D-Capsules-Vitamin-D3-p/vitamind.htm">Vitamin-D, 4000IU</option> 
+                        <option value="/vitamin-D-Capsules-Vitamin-D3-p/vitamind.htm">Vitamin-D, 5000IU</option> 
                       </select>
                     </form>
                   </div>
                 </div>
               </div>
-              <div class="bottom"><img src="/v/common/images/left_box_bottom.gif" alt="bottom curve"><a href="/Newsletter-Sign-Up-s/93.htm"><img src="/v/vspfiles/templates/105/images/nlsignup.gif" width="185" height="88"></a></div>
+              <div class="bottom"><img src="/v/common/images/left_box_bottom.gif" alt="bottom curve"><a href="/Newsletter-Sign-Up-s/93.htm"><img src="/v/vspfiles/templates/105/images/nlsignup.gif"></a><br>
+              <a href="/Newsletter-Sign-Up-s/93.htm"><img src="/v/vspfiles/templates/105/images/InternationalShipping.gif" vspace="5"></a></div>
             </div>
             <div class="box">
               <div class="top">
@@ -305,13 +338,13 @@ Customer Service Telephone: (800) 541-7318<br>Email: cs@healthychoicenaturals.co
 </map>
 </a><br><br>
 <!-- END: Bizrate Medal (125x73 pixels) -->
-    <div id="bizrate" style="position:relative; text-align:center;border:1px solid #aaa; font-family:helvetica,tahoma,arial,sans-serif; color:#333; width:160px; height:1070px;margin-left:13px;"><iframe width="160px" height="1030px" frameborder="0" scrolling="no" src="//testimonials.bizrate.com/content.html?merchantId=140870&amp;timePeriod=PAST_90_DAYS&amp;showRatings=false&amp;results=10&amp;minOSAT=8&amp;format=2"></iframe><div style="position:absolute; left:0; bottom:0; border-top:1px solid #aaaaaa; font-size:10px; width:100%; line-height:110%; height:70px; color:#fff; background-color:#0f2d6a;"><div style="position:absolute; left:2px; top:2px; width:160px;">See more ratings for <a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--140870.html" target="_blank" style="color:#fff;">HealthyChoice Naturals</a> at <a href="http://www.bizrate.com" target="_blank" style="color:#fff;">Bizrate.com</a></div><div style="position:absolute; right:2px; bottom:2px">Brought to you by <a href="http://www.bizrateinsights.com" target="_blank" style="color:#fff;"><img src="//testimonials.bizrate.com/brinsights-small.png" alt="Bizrate Insights" height="26" width="67.60000000000001" style="vertical-align:middle; border:none; margin:0; padding:0;"></a></div></div></div>
-                </div>
+    </div>
               </div>
           </div>
         </div>
         <div id="bottom_section">
           <p>Order Toll Free 24/7: 1-800-541-6779<br>
+            International: 1-949-328-3450<br> 
             Fax Your Order To: 1-949-916-9112<br>
             <span>Make Checks Payable to:</span> ACI, Inc<br>
             23322 Madero Road, Suite D<br>
@@ -415,6 +448,7 @@ document.getElementById('wa_u').src=wa_hp+'://counter.hitslink.com/track.js';
  //]]>
 </script>
 <!-- End www.hitslink.com/ statistics web tools hit counter code -->
+ <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script><script src="//ajax.aspnetcdn.com/ajax/jquery.migrate/jquery-migrate-1.1.1.min.js"></script> 
 <script type="text/javascript">
 function checkmht()
 { 
@@ -436,21 +470,8 @@ checkmht();
 
 </script>
 
-<!-- Listrak Analytics – Script Source-->
-<script type="text/javascript">
-var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-document.write(unescape("%3Cscript src='" + biJsHost + "s1.listrakbi.com/scripts/script.js?m=tIgFTvC1iVsT&v=1' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s1.listrakbi.com/scripts/script.js?m=tIgFTvC1iVsT&amp;v=1" type="text/javascript"></script>
-
-<!-- Listrak Analytics - Submit Tracking Click-->
-<script type="text/javascript">
-_ltk.Click.Submit();
-    jQuery('#btnSubmitOrder').live('click', function () {
-        _ltk.SCA.setCookie("ltk_newsletter", jQuery('#EmailSubscriberHidden').val(), 365, getCookieDomain());
-    });
-</script>
   
-    <script type="text/javascript" src="/v/vspfiles/javascript/hcn.js"></script>
+    <script type="text/javascript" src="/v/vspfiles/javascript/hcn_full.js"></script>
   
 
 <script type="text/javascript">function store_init(event){} AttachEvent(window, 'load', store_init);</script>
