@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cool-story.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602012533id_/http%3A//www.cool-story.com/privacy_and_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cool-story.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126125841id_/http%3A//www.cool-story.com/privacy_and_policy) for the most accurate reproduction.*
 
 # Cool Story - Privacy & Policy
 
