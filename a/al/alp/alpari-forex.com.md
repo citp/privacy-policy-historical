@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the alpari-forex.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502231218id_/http%3A//alpari-forex.com/data/docs/regulations/privacy_and_refund_policy_en.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari-forex.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126021411id_/http%3A//alpari-forex.com/data/docs/regulations/privacy_and_refund_policy_en.pdf) for the most accurate reproduction.*
 
 # 
 
-      Privacy & Refund Policy
-Version February 2009
-
+Privacy & Refund Policy
 
 1. Obligations of the Company
-Alpari (the Company) places a high priority on the privacy and integrity of the personal information of our Clients,
-both present and future and other visitors to the site. The Company strives to ensure the safety and confidentiality of
-all information received from the Client. This Privacy Policy (the "Policy") describes how the Company collects, uses
-and protects the personal information of the Client.
+Alpari (the Company) places a high priority on the privacy and integrity of the personal information of our Clients, both
+present and future and other visitors to the site. The Company strives to ensure the safety and confidentiality of all
+information received from the Client. This Privacy Policy (the "Policy") describes how the Company collects, uses and
+protects the personal information of the Client.
 The Client's Personal Data
 To open a demo or live account, the Company will need certain information (Personal Data) about the Client. The
 Personal Data that is collected by the Company may include:
@@ -36,28 +34,28 @@ cart, certain preferences, etc. allowing visitors to visit sites repeatedly with
 over and over. Cookies are not used to determine the personal identity of anyone visiting the site.
 Third Parties
 The Company may convey the Client's Personal Data to associated or affiliated companies, agents or other authorized
-organizations or persons ("Authorized Persons") for the sole purpose of processing the Client's trading and non-
-trading instructions. The Company guarantees that all Authorized Persons will adhere to the terms of this Policy and
-take all necessary steps to protect the Client's Personal Data. The Company may provide Personal Data to third parties
-who are not the Company's partners, agents or affiliates only when requested by representatives of legal or
-administrative authorities.
+organizations or persons ("Authorized Persons") for the sole purpose of processing the Client's trading and non-trading
+instructions. The Company guarantees that all Authorized Persons will adhere to the terms of this Policy and take all
+necessary steps to protect the Client's Personal Data. The Company may provide Personal Data to third parties who are
+not the Company's partners, agents or affiliates only when requested by representatives of legal or administrative
+authorities.
 Use of Information
 By accepting the Client Agreement, the Client consents to the Company collecting, maintaining, using and disclosing
 their Personal Data in accordance with the terms of this Policy.
 Security and Protection
-Alpari takes the issue of security very seriously and takes all possible measures to ensure the safety of your
-confidential information, including adhering to strict standards for the internal use of confidential information and
-using leading data storage technology.
-                                                                                                                         2
+Alpari takes the issue of security very seriously and takes all possible measures to ensure the safety of your confidential
+information, including adhering to strict standards for the internal use of confidential information and using leading
+data storage technology.
+When making a payment with a credit/debit card, you will be transferred to the site of the processing center where you
+will fill out a form. To prevent the unauthorized use of your credit/debit card, your card information is transmitted to
+Alpari in shortened form and through a secure server.
+                                                                                                                          2
 
 
-When making a payment with a credit/debit card, you will be transferred to the site of the processing center where
-you will fill out a form. To prevent the unauthorized use of your credit/debit card, your card information is
-transmitted to Alpari in shortened form and through a secure server.
 Returns Policy for Credit/Debit Cards
 In certain exceptional circumstances, Alpari may refund payments made by credit or debit card. In this case, the funds
 will be refunded to the card that was used for the deposit.
 Contacts
 If you have any questions about this Policy do not hesitate to contact us: info@alpari-forex.com.
-ALPARI NZ LIMITED
-                                                                                                                      3
+ALPARI LIMITED
+                                                                                                                       3
