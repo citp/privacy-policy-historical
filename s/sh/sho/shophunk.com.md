@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shophunk.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529201118id_/http%3A//www.shophunk.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shophunk.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126185853id_/http%3A//www.shophunk.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Online Shopping - Buy Accessories,Apparels,Electronics,Mobiles at lowest price in India - shophunk.com
+# shophunk.com - Online Shopping india|best for Accessories,Apparels,Electronics,Mobiles at lowest price in India
 
 **Privacy Policy**
 
@@ -36,3 +36,7 @@
 
 **10.Links to Other Sites**  
 Our site links to other websites that may collect personally identifiable information about you. getZinga.com is not responsible for the privacy practices or the content of those linked websites.
+
+**Shophunk.com** is one of the largest reputed **online shopping website** in India. We are loyal to deliver an extensive collection of products at fabulous prices. Here what you want to buy like Footwear, clothing, watches, sunglasses, electronics for men, women and kids. All Accessories, Apparels, Electronics, Mobiles at **lowest price in India.** We supply products purely 100% original. We provide so many offers for all products what we have to supply.
+
+Shophunk is here for make customer happy and satisfactory. We supply purely secured products. We take over to deliver right products in proper time it at your doorstep. We have massive brands like REEBOK, FASTRACK, LOTTO, TOMMY HILFIGER etc. we have huge varieties of apparels for men, women and kids. Customer’s valuable orders are so much important to us. You can catch me on **Facebook(https://www.facebook.com/shophunk), twitter and YouTube also**. 
