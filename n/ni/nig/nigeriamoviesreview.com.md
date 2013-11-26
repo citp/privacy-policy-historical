@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nigeriamoviesreview.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528044407id_/http%3A//www.nigeriamoviesreview.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriamoviesreview.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126123023id_/http%3A//www.nigeriamoviesreview.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Nigeria Movies Review – Privacy Policy
+# Nigeria Movies ReviewPrivacy Policy - Nigeria Movies Review
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
