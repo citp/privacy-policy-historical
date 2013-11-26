@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecture.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524182940id_/http%3A//www.architecture.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecture.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126090123id_/http%3A//www.architecture.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
