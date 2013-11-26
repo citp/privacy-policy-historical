@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplybusiness.co.uk privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614171708id_/http%3A//www.simplybusiness.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplybusiness.co.uk privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126071100id_/http%3A//www.simplybusiness.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy Simply Business
 
@@ -10,11 +10,12 @@ We are registered with Data Protection Commissioner and our registration number 
 
 ## The personal information we collect
 
-If you fill in one of the Request for Quotes (RFQ) on our Site you provide personal information to us. The purpose of our site is to provide you with as wide a range of quotations from different Partner organisations. In order to do this we will pass the data you have provided to our Partners.
+If you fill in a Request for Quote (RFQ) on our Site you provide personal information to us. The purpose of our site is to provide you with a wide range of quotations from different Partner organisations. In order to do this we will pass the data you have provided to our Partners.
 
-In addition, we enable you to return to the Site at any time to retrieve past quotes from Partners and, in the case of insurance policies, to download your policies and associated documentation. In order to provide this service, and keep it secure, we ask you to register with us. We store your personal information, along with information on any quotes you've received, on our servers.
+In addition, we enable you to return to the Site at any time to retrieve past quotes from Partners and, in the case of insurance policies, to download your policies and associated documentation. In order to provide this service and keep it secure, we ask you to register with us. We store your personal information, along with information on any quotes you've received, on our servers.
 
-We have kept to a minimum the amount of "required" information you need to provide us across our Site. If you do not want to provide us with certain information it may therefore be impossible for us to provide all aspects of our service to you _ _
+We have kept to a minimum the amount of "required" information you need to provide us across our Site. If you do not want to provide us with certain information it may therefore be impossible for us to provide all aspects of our service to you. _  
+_
 
 _**We ask you for information to assess your insurance needs. This information is then used to give you a quote. Without this information it is hard to give you an accurate quote.**_
 
@@ -56,12 +57,10 @@ Insurance, Invoice Financing, Other Partners.
 
   * Aviva Insurance;
   * Zurich Commercial;
-  * Groupama Insurance Services;
   * Glemham Underwriting Limited;
   * UK General Insurance;
   * Axa Insurance Company;
   * Royal and Sun Alliance
-  * Brit Insurance Ltd;
   * QBE insurance Europa Ltd
   * Home 3 insurance
   * Hiscox
@@ -74,8 +73,8 @@ _Please note, we will set up your insurance policy with one of these providers b
   * Gocompare.com – Introducing partner
   * Tescocompare.com – Introducing partner
   * Moneysupermarket.com – Introducing partner
-  * Business Octopus – if we can’t help you with your insurance request, the business octopus may offer to assist you.
-  * Feefo.com – your email, name and policy number may be shared with feefo.com (new partner May 2012)- they offer a review service __
+  * Business Octopus – if we can’t help you with your insurance request, The Business Octopus may offer to assist you.
+  * Feefo.com – your email, name and policy number may be shared with feefo.com (new partner May 2012) - they offer a review service __
 
 
 
@@ -123,7 +122,8 @@ _**If you end up on another website linked from here please check what they do w
 
 The Site has security measures in place to protect the loss, misuse and alteration of the information under our control. While we seek to protect your personal information, we cannot ensure or warrant the security of any information you transmit, and you do so at your own risk. We do make use of 128-bit encryption, the strongest type of encryption available, in order to protect your information.
 
-_**We do our very very best to look after your data. We employ experts in this area and are regularly tested by an insurer. There are no little jokes here; it's important that you can trust us.**_
+_**We do our very best to look after your data. We employ experts in this area and are regularly tested by an insurer.  
+**_
 
 ## Finding out about the personal information we hold on you
 
@@ -149,4 +149,4 @@ Fax: +44 (0)20 7920 8088
 
 **Request for Quote (RFQ) –** This is simply the set of pages on our Site that you fill in, in order to get a range of instant quotes for a finance or insurance product.
 
-**Site –** We run a number of web sites, each aimed to attract different types of people with different needs. For the sake of simplicity the term ‘Site’ refers to any site developed, hosted and maintained by Xbridge Ltd trading as Simply Business.
+**Site –** We run a number of websites, each aimed to attract different types of people with different needs. For the sake of simplicity the term ‘Site’ refers to any site developed, hosted and maintained by Simply Business.
