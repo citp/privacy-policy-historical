@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjacurationprofits.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518022225id_/http%3A//ninjacurationprofits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjacurationprofits.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126115904id_/http%3A//ninjacurationprofits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Ninja Curation Profits
 
