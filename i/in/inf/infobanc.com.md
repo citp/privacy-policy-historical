@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infobanc.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526001606id_/http%3A//www.infobanc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobanc.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126031552id_/http%3A//www.infobanc.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - infobanc.com
 
-| 
+Privacy Policy
 
 Ace Infobanc Private Limited (Infobanc) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.infobanc.com. 
 
@@ -22,8 +22,6 @@ This site contains links to many other sites. www.infobanc.com is not responsibl
 
 We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice, particularly how to opt out of advertising cookie or to know your choices about not having this information used by these companies, [ please click here ](http://www.google.com/privacy_ads.html)
 
-| 
-
 **Public Forums** This site makes use of forms and bulletin boards to allow users to post offers to buy, sell etc. Personal information (such as email address, phone number) is collected in these forms to allow potential buyers & sellers to contact you. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. We do not monitor any of these facilities and your use of them is at your own risk.
 
 **Choice/Opt-Out** infobanc.com provides users the opportunity to opt-out of receiving communications from us. This site gives users the following options for removing their information from our database or not to receive future communications or to no longer receive our service: 
@@ -32,17 +30,16 @@ We may use third-party advertising companies to serve ads when you visit our web
 
 **Permanent Removal/Termination of Membership** \- Any member (free or paid) can terminate his/her membership of infobanc.com by log-in to Member's Control Panel and de-activate his/her membership. This process automatically removes the member's profile from directory listing amd mailing lists. Such de-activated members never receive any e-mail from us, except reply e-mail in case he/she has written to us. However, we do not monitor public forums and bulletin boards. In case such de-activated member has posted any message in a public forum, he/she needs to inform us for removal of such message giving specific URL 
 
-**Opt-out via email** \- Additionally. one may send e-mail at info@infobanc.com for unsubscription/opt-out or [ contact us ](https://web.archive.org/web/20130526001606id_/http%3A//www.infobanc.com/contactus.htm)
+**Opt-out via email** \- Additionally. one may send e-mail at info@infobanc.com for unsubscription/opt-out or [ contact us ](https://web.archive.org/web/20131126031552id_/http%3A//www.infobanc.com/contactus.htm)
 
 **Contacting the Web Site** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 **Customer Service  
 Ace Infobanc Private Limited (InfoBanc.com)  
-Konark Apartment, 3rd Floor 7-C, Katwaria Sarai   
+124 - A/1, Main Road   
 Katwaria Sarai,   
 New Delhi - 110 016  
 India   
+Mobile : +91 9210373801   
 Tel: 91-11-26961886 / 26866235   
-E-Mail: info@infobanc.com **  
-  
----|---
+E-Mail: info@infobanc.com **
