@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fyretv.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518205759id_/http%3A//www.fyretv.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fyretv.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126103611id_/http%3A//www.fyretv.com/site/privacy) for the most accurate reproduction.*
 
-# Netflix of Porn | Stream Porn Videos and Scenes on Demand
-
-## Privacy Policy
+# FyreTV.com - Privacy Policy
 
 Wreal has a long-standing policy of protecting customer privacy. The effective date of this policy is December 30, 2007. If Wreal changes this Privacy Policy, it will note in this paragraph the last date on which the policy was changed. THE LAST DATE ON WHICH THIS POLICY WAS CHANGED WAS November 30, 2012.
 
