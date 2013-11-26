@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pubget.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528214942id_/http%3A//pubget.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubget.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126090209id_/http%3A//pubget.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Pubget | Pubget
+# Privacy Policy - Pubget - Pubget
 
-Effective 11/30/2012
+EffectiveNov 30, 2012
 
 By using the www.pubget.com Web site or any other Web-based service of Pubget Corporation (“Pubget”), you agree to the terms of the Pubget Online Privacy Policy, as set forth below.
 
