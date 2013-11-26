@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moonbattery.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511081245id_/http%3A//www.moonbattery.com/links/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moonbattery.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126154153id_/http%3A//www.moonbattery.com/links/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Moonbattery Privacy Statement
 
