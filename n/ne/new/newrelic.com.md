@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newrelic.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511190943id_/http%3A//newrelic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newrelic.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126074757id_/http%3A//newrelic.com/privacy) for the most accurate reproduction.*
 
-# New Relic Privacy Policy : New Relic
+# New Relic Privacy Policy | New Relic
 
-New Relic, Inc ( **“New Relic”** ) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Application Data and Personal Data (each as defined below) that we collect from users of our website (located at www.newrelic.com), the New Relic RPM products (the **“Products”** ), or related services. This Privacy Policy is incorporated into, and considered a part of, the New Relic Terms of Service, currently located at [www.newrelic.com/terms](https://web.archive.org/web/20130511190943id_/http%3A//newrelic.com/terms.html).
+New Relic, Inc ( **“New Relic”** ) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Application Data and Personal Data (each as defined below) that we collect from users of our website (located at www.newrelic.com), the New Relic RPM products (the **“Products”** ), or related services. This Privacy Policy is incorporated into, and considered a part of, the New Relic Terms of Service, currently located at [http://newrelic.com/terms](https://web.archive.org/terms).
 
 This Privacy Policy covers our collection, use and disclosure of information we collect through our website www.newrelic.com and our service rpm.newrelic.com. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged New Relic.
 
@@ -14,7 +14,7 @@ New Relic complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Saf
 
 By submitting or making available Application Data or Personal Data through our website, Products, or related services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Application Data and Personal Data in accordance with this Privacy Policy. Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.
 
-### Information we Collect About You
+## Information We Collect About You
 
 ### A Note About Children
 
@@ -34,7 +34,7 @@ To make our website, Products, and related services more useful to you, our serv
 
 **“Cookies”** are small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We link the information we store in cookies to the personally identifiable information you submit while on our site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our website. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of our website may not work properly.
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers] is not covered by our privacy statement. We do not have access or control over these cookies. Our [partners, affiliates, tracking utility company, service providers] use session ID cookies to improve the quality of experience when you interact with our website, Products, and related services.
+The use of cookies by our [partners, affiliates, tracking utility company, service providers] is not covered by our privacy statement. We do not have access or control over these cookies. Our [partners, affiliates, tracking utility company, service providers] use session ID cookies to improve the quality of experience when you interact with our website, Products, and related services.
 
 Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personally identifiable information. 
 
@@ -143,8 +143,7 @@ New Relic is committed to protecting the security of your Application Data and P
 New Relic welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at [info@newrelic.com](mailto:info@newrelic.com?subject=privacy%20policy%20inquiry) or contact us at the following address:
 
 New Relic, Inc.   
-Attn: Legal Department  
-
+Attn: Legal Department
 
 188 Spear Street, Suite 1200  
 San Francisco, CA 94105
