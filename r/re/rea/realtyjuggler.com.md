@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603095646id_/http%3A//realtyjuggler.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126132704id_/http%3A//www.realtyjuggler.com/Privacy) for the most accurate reproduction.*
 
 # RealtyJuggler Real Estate Software Privacy Policy
 
@@ -55,9 +55,9 @@ The security of your information is important to us. For this reason, we have cr
 We invite you to contact us regarding this policy. You may contact us my mail at the following address:
 
 RealOrganized, Inc.  
-1635 Foxtrail Drive #328   
-Loveland, Colorado  
-80538   
+1226 W. Ash "C"   
+Windsor, Colorado  
+80550   
 USA
 
 You may contact us via our online HelpDesk or via phone at: (970) 672-3467
