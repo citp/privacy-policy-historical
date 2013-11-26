@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceanconservancy.org privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502135841id_/http%3A//www.oceanconservancy.org/who-we-are/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanconservancy.org privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126115645id_/http%3A//www.oceanconservancy.org/who-we-are/privacy-policy.html) for the most accurate reproduction.*
 
 # Ocean Conservancy: Privacy Policy
 
