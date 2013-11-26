@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isportsweb.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527075919id_/http%3A//isportsweb.com/community/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isportsweb.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126074607id_/http%3A//isportsweb.com/community/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | isportsweb
 
