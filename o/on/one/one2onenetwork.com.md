@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the one2onenetwork.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627174820id_/http%3A//www.one2onenetwork.com/cms.php%3Fid%3D35%26parent_id%3D144) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the one2onenetwork.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126142827id_/http%3A//www.one2onenetwork.com/cms.php%3Fid%3D35%26parent_id%3D144) for the most accurate reproduction.*
 
 # One2One Network: Connecting Brands with Women and Moms - Privacy Policy
 
@@ -50,4 +50,4 @@ If your name, e-mail or postal address, telephone number or other personally ide
 
 **14.  Further Questions**
 
-If you have further questions about our Privacy Policy, please [Contact Us](https://web.archive.org/web/20130627174820id_/http%3A//www.one2onenetwork.com/contact_us.php?phpMyAdmin=-5CWPHvR2uURADIrfKZ2jDh9Ga7) or reach us by phone at 203-340-2257 ** __**
+If you have further questions about our Privacy Policy, please [Contact Us](https://web.archive.org/web/20131126142827id_/http%3A//www.one2onenetwork.com/contact_us.php?phpMyAdmin=-5CWPHvR2uURADIrfKZ2jDh9Ga7) or reach us by phone at 203-340-2257 ** __**
