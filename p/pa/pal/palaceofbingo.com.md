@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palaceofbingo.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501000328id_/http%3A//palaceofbingo.com/bingo-privacy-policy.asp%3Fsrc%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palaceofbingo.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126044817id_/http%3A//palaceofbingo.com/bingo-privacy-policy.asp%3Fsrc%3D) for the most accurate reproduction.*
 
 # Palace of Bingo Privacy Policy
 
