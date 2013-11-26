@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usdreamjobs.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201070314id_/http%3A//www.usdreamjobs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usdreamjobs.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126234547id_/http%3A//www.usdreamjobs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This is a privacy policy for usdreamjobs.com who respects your privacy. Below is an outline of the information that this web site gathers, how it’s used, and how you can “opt-out”
+This is a privacy policy for usdreamjobs.com who respects your privacy. Below is an outline of the information that this web site gathers, how it�s used, and how you can �opt-out�
 
 We invite you to contact us if you have questions about this policy. 
 
