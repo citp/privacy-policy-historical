@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10-strike.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602192801id_/http%3A//10-strike.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10-strike.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126134642id_/http%3A//www.10-strike.com/privacy.shtml) for the most accurate reproduction.*
 
 # Links: Software Download Archives
 
