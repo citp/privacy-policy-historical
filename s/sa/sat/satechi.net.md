@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satechi.net privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528044715id_/http%3A//www.satechi.net/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satechi.net privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126133423id_/http%3A//www.satechi.net/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,6 +15,10 @@ a. Take and fulfill customer orders
 b. Administer and enhance the site and services
 
 c. Only disclose information to UPS and USPS for delivery purposes
+
+**Credit Card Security**
+
+When an order is placed on our website, credit card numbers are encrypted using 240-bit encryption. They are only decrypted after they reach our computer. They are not held in clear text on any website.
 
 Please wait...
 
