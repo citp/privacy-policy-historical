@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vmturbo.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513121405id_/http%3A//www.vmturbo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmturbo.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126030249id_/http%3A//www.vmturbo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VMTurbo
 
@@ -16,7 +16,7 @@ Currently, VMTurbo will not share your personal information with any third parti
 VMTurbo may transfer information about you to another company in connection with a merger, sale or acquisition by or of VMTurbo. In that event, we will use reasonable efforts to notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 **Email Communications**  
-You may receive emails from us if you subscribe to our mailing lists or otherwise request information regarding our products, services, or specific VMTurbo events. We respect your time and attention by limiting the frequency of our mailings. If you do not wish to receive further emails from us, simply follow the instructions at the bottom of any email to opt out of receiving future messages. If you have received unwanted, unsolicited email from VMTurbo or purporting to be from VMTurbo, please forward a copy of that email with your comments to abuse@constantcontact.com.
+You may receive emails from us if you subscribe to our mailing lists or otherwise request information regarding our products, services, or specific VMTurbo events. We respect your time and attention by limiting the frequency of our mailings. If you do not wish to receive further emails from us, simply follow the instructions at the bottom of any email to opt out of receiving future messages. If you have received unwanted, unsolicited email from VMTurbo or purporting to be from VMTurbo, please forward a copy of that email with your comments to marketing@vmturbo.com.
 
 **Security**  
 Information collected by VMTurbo is stored in secure operating environments that are not made generally available to the public. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, VMTurbo cannot ensure the security of any information you provide, and you do so at your own risk. Once VMTurbo receives your transmission, it will make reasonable efforts to ensure its security on its systems.
