@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitrogr.am privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511223847id_/http%3A//nitrogr.am/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrogr.am privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126164309id_/http%3A//nitrogr.am/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Nitrogram
 
