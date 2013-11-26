@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aiimsrishikesh.edu.in privacy policy that was archived on 2013-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130208034335id_/http%3A//aiimsrishikesh.edu.in/details.php%3FpgID%3Dbo_503) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiimsrishikesh.edu.in privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126063958id_/http%3A//aiimsrishikesh.edu.in/details.php%3FpgID%3Dbo_503) for the most accurate reproduction.*
 
-# All India Institute of Medical Sciences, Rishikesh - India
+# Privacy Statement | All India Institute of Medical Sciences, Rishikesh - India
 
 As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.
 
