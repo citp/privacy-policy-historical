@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoshoptrainingchannel.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607010636id_/http%3A//photoshoptrainingchannel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshoptrainingchannel.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126134745id_/http%3A//photoshoptrainingchannel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Photoshop Training Channel
 
