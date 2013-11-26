@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosperityrising.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510184839id_/http%3A//www.prosperityrising.com/privacy.ag.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperityrising.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126105336id_/http%3A//www.prosperityrising.com/privacy.ag.php) for the most accurate reproduction.*
 
 # Prosperity Rising,Traffic Generator,Traffic Generation,Drive Traffic,Traffic Exchange,Web Traffic,Internet Advertising
 
