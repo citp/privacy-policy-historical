@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcomber.com privacy policy that was archived on 2013-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130313062453id_/http%3A//netcomber.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcomber.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126175326id_/http%3A//netcomber.com/privacy-policy) for the most accurate reproduction.*
 
 # NetComber
 
