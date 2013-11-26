@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publisherrev.com privacy policy that was archived on 2013-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130110103013id_/http%3A//publisherrev.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publisherrev.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126101108id_/http%3A//publisherrev.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PublisherRev : Privacy Policy
 
