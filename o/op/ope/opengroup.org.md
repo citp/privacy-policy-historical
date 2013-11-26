@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opengroup.org privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102083703id_/http%3A//www.opengroup.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opengroup.org privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126232055id_/http%3A//opengroup.org/privacy) for the most accurate reproduction.*
 
-# Privacy | The Open Group
+# The Open Group | Privacy
 
 [](http://www3.opengroup.org/print/privacy "Display a printer-friendly version of this page.")[](http://www3.opengroup.org/printmail/privacy "Send this page by e-mail.")[](http://www3.opengroup.org/printpdf/13 "Display a PDF version of this page.")
 
