@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centerparcs.co.uk privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605024942id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerparcs.co.uk privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126015118id_/http%3A//www.centerparcs.co.uk/information/privacy/index.jsp) for the most accurate reproduction.*
 
-# Information | Privacy Policy | Center Parcs
+# Information | Privacy & Cookie Policy | Center Parcs
 
 **_PRIVACY STATEMENT_**
 
@@ -54,11 +54,12 @@ We are committed to ensuring that your information is secure. In order to preven
 **OTHER WEB SITES**  
 Our web site may contain links to enable you to visit other web sites of interest easily. However, once you have used these links to leave our site you should note that we do not have any control over that other web site. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the web site in question.
 
-**HOW WE USE COOKIES**  
+**_COOKIE STATEMENT_**
+
 A cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For example, when you visit an online store, a cookie allows your basket content to be remember as your browse from page to page. The cookie file is placed on your hard drive and keeps track of your basket, and can be used to analyse your journey through the website to improve the website in the future.
 
 We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes the pages visited, a booking and value of the booking. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this website analysis tool by clicking here: <http://centerparcs.112.2o7.net/optout.html>
 
-Overall, cookies help us provide you with a better web site, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly in force. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. You may set most popular web browsers to notify you of cookie placement requests or decline cookies completely. You can delete the files that contain cookies - those files are stored as part of your web browser.
+Overall, cookies help us provide you with a better web site, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly in force. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile.
 
-The law which applies to how we use cookies and similar technologies for storing information on a user’s equipment such as their computer or mobile device changed on 26 May 2011. We will be working towards implementing the new guidelines for the use of cookies. If you want to read more information about this law, please download the document: Changes to the rules on using cookies and similar technologies for storing information from the Information Commissioner's Office website.
+You can set most web browsers to notify you of cookie placement requests or decline cookies completely by configuring your browser to suit your personal preference in relation to cookie management.
