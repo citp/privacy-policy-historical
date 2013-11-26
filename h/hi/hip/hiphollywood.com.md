@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hiphollywood.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527075919id_/http%3A//hiphollywood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphollywood.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126075045id_/http%3A//hiphollywood.com/privacy-policy) for the most accurate reproduction.*
 
-# HipHollywood PRIVACY POLICY | HipHollywood
+# HipHollywood | PRIVACY POLICY
 
 This Privacy Policy applies only to HipHollywood.com (however accessed and/or used, whether via personal computers, mobile devices, or otherwise), which is owned or controlled by Kevin Frazier Productions, LLC. (“Company,” “we,” “our” or “us”) or other interactive features that are accessible or downloadable through HipHollywood.com and that post a link to this Privacy Policy (collectively, the “Web Site”). This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected at any other web site or offline by Company (unless specifically stated).
 
