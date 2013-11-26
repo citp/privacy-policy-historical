@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cockfortwo.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615232356id_/http%3A//docs.eurorevenue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cockfortwo.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126233811id_/http%3A//docs.eurorevenue.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -89,6 +89,7 @@ Each subscriber should carefully read each of the terms and conditions of Member
 In the event of any conflicts between the Membership Terms the Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
 
 SUMOM LIMITED, LANCING HOUSE, 11 HALLAM CLOSE, WATFORD, HERTS, UNITED KINGDOM, WD24 4RL  
-CENTROBILL LIMITED, 21 WILTSHIRE CLOSE, WARRINGTON, CHESHIRE, UK 
+CENTROBILL LIMITED, 21 WILTSHIRE CLOSE, WARRINGTON, CHESHIRE, UK  
+CENTROBILL LTD, 1 Main Street, Keyport, NJ 07735 
 
 Close Window
