@@ -1,90 +1,116 @@
-> *The following text is extracted and transformed from the my.jobs privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602042025id_/http%3A//about.jobs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my.jobs privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126213420id_/https%3A//secure.my.jobs/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy for My.jobs
 
-  * ### Website Visitors
+This Privacy Policy covers the collection, use and disclosure of information collected through the My.jobs and Universe.jobs websites, owned and operated by DirectEmployers Association (hereafter, “DE”, “We”, “Us”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-Except as described below, the DirectEmployers Association (hereafter, “DE”) does not collect or require visitors to its websites to furnish personally identifying information such as names, email addresses, and phone numbers. Like most website operators, DE does collect non-personally identifying information of the sort that web browsers and servers typically make available, such as the browser type, operating system, language preference, referring site and date and time of each visitor request. DE also collects potentially-personally identifying information like Internet Protocol (IP) addresses, which are non-personally identifying in and of themselves but could be used in conjunction with other information to personally identify users.
+[ ](https://privacy.truste.com/privacy-seal/DirectEmployers-Association/validation?rid=39667ce1-6884-4b85-a86b-cd9a659f9e31 "TRUSTe online privacy certification")
 
-DE’s purpose in collecting this information is to better understand how DE’s visitors use its websites. To that end, DE may share potentially-personally identifying information with its employees, contractors, service providers, and subsidiaries and related organizations. DE may also release its results of such analyses of non-personally identifying information about visitors by publishing a report on website usage trends. Otherwise, DE will not publicly release potentially-personally identifying information except under the same circumstances as DE releases personally identifying information. Those circumstances are explained below.
+DirectEmployers Association has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the My.jobs and Universe.jobs websites and does not cover information that may be collected through any mobile applications, devices or third party affiliates and partners. 
 
-### Community Members
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@my.jobs](mailto:privacy@my.jobs). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
 
-Certain members of DE community (contributors, customers, etc.) choose to interact with DE in ways that require DE and others to know more about them. The amount and type of information that DE gathers from those members depends on the nature of the interaction. For example, members who wish to post content to certain portions of DE’s websites or participate in live chat session(s) are asked to provide usernames that are used to identify content as having been posted by a particular member (who is identified by the username).
+### Information Collection and Use
 
-Developers, by comparison, are asked to provide contact information, up to and sometimes including telephone or fax numbers, so that they can be contacted as necessary. Typically, developers will be contacted by email, IRC (internet relay chat), or IM (instant messaging services). However, in the event of a time-sensitive question relating to the work the developer is doing in connection with DE and where other means of contact have failed, a developer’s phone number or fax number may be used to contact the developer. This information is available to DE employees, contractors, subsidiaries, and potentially to other members of the community. A developer can choose not to provide a phone number or fax number. On occasion, developers and other community members are contacted by email and asked for a physical address or geographic location so that they may be sent DE-related t-shirts and other promotional materials or invited to an event or other DE-related gathering. In such cases, the purpose for which their physical address is sought will be made explicit.
+We collect the following personal information from you when you visit our websites or sign up to use the My.jobs Service: 
 
-Customers of DE stores (which sell merchandise and other items on behalf of DE) are asked to provide even more information, including billing and shipping addresses and credit card or similar information to third party vendors so that their transactions can be processed and fulfilled by DE or a third-party fulfillment vendor. However, we cannot guarantee that this list is always up to date.
+  * Contact information such as name, email address, mailing address, phone number
+  * Company name and address
+  * Unique Identifiers such as user name, account number, password
+  * Resume information, such as work history, education, and military service
 
-We also permit community members to provide their names and email addresses so that they can have a more direct engagement with DE and so that DE can send them information related to DE, such as educational material, promotional and cross-promotional material, surveys to be completed, messages about DE Foundation, events information, and other such information and materials. These are opt-in interactions where community members affirmatively sign-up for inclusion in a direct communication with DE (and with an ability to unsubscribe/opt-out on any email received). These campaigns may be conducted with the help of a third-party customer relationship manager to help us manage the database of information and its analysis and use, in each case such third party’s involvement with all the data collected will be solely on DE’s behalf. As part of these marketing campaigns, we might also ask you to provide demographic information such as gender, age, job or role, country, geographic location, and areas of interest. If we ask you for this information, we will use it to customize our communication with you and to better understand those interested in DE and its products. As part of these marketing campaigns, we may collect a campaign source ID, marketing campaign ID, and a campaign referrer ID. These types of information are used so that we may better understand your interests and the effectiveness of particular marketing campaigns. We may also use this information to customize our communications with you.
 
-Our websites also may provide a means for candidates to apply on-line for employment with DE. Applicants for employment with DE are required to provide contact information, including name, street address, telephone number, and email address, as well as resume information. We use this information to process and evaluate the application for employment, and to communicate with the applicant about employment opportunities. If we elect to make an offer of employment, this information may become part of the employee file and may be used for other employment and work-related purposes. DE uses an outside service provider to assist us with online job applications and the application process generally. You can view a list of the service provider(s) here. It is our policy to require any such service providers to contractually commit to DE to (a) only use applicant data for the purpose of fulfilling obligations to DE in providing the services and (b) not disclose the information to third parties.
 
-DE is an open organization that believes in sharing as much information as possible about its products, its operations and its associations. Accordingly, community members should assume – as should most folks who interact with DE – that any personally identifying information provided to DE will be made available to the public. There are four broad exceptions to that rule:
+  We use this information to: 
 
-    * DE does not publicly release information gathered in connection with commercial transactions (i.e., transactions involving money), including transactions conducted through DE or donations to DE.
-    * DE does not publicly release personally identifying information collected in connection with an application for employment with DE.
-    * DE does not make publicly available information that is used to authenticate users the publication of which would compromise the security of DE’s websites (e.g., passwords).
-    * DE does not make publicly available information that it specifically promises at the time of collection to maintain in confidence.
+  * Register you for an account
+  * Administer your account
+  * Assess the needs of your business to determine suitable products
+  * Send you requested service information
+  * Respond to customer service requests
+  * Send you a newsletter
+  * Send you marketing communications
+  * Respond to your questions and concerns
+  * Improve our website and marketing efforts
+  * Conduct research and analysis
 
-Outside those four contexts, users should assume that personally identifying information provided through DE’s websites will be made available to the public.
 
-### Children
 
-DE’s websites are not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide personally identifying information through our websites.  
-Interactive Product Features
+### Information Sharing
 
-Certain DE products contain features that report, or that permit users to report, the user’s usage patterns and problems – whether caused by DE’s software, third-party software, or third-party websites – to DE. The reports generated by these features typically include non-personally identifying information such as the configuration of the user’s computer and the code running at the time the problem occurred.
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell, rent or otherwise distribute your personal information to third parties. 
 
-Some of these features give users the option of providing personally identifying information, though none of these features require it. Some DE software features that do permit users to provide personally identifying information advise, in advance, that such information will not be made publicly available. DE analyzes the information provided by these interactive product features to develop a better understanding of how its products are performing and being used. It does not use the information to track the usage of its products by identifiable individuals.
+##### The My.jobs Platform
 
-### Protection of Certain Personally-Identifying Information
+We share your job search activity and profile data with employers with whom you have interacted via our services. Employers may use your job search activity and profile data to send you messages, such as job opportunities, hiring events, career fairs, and general information about their company. Employers may also export your profile data to load into career marketing, customer relationship management, and applicant tracking systems. You may opt-out or decline such sharing of information by updating your [account settings](https://secure.my.jobs/account/edit/). 
 
-Where DE has collected personally identifying information subject to one of the four exceptions described in the Community Members section, above, it discloses that information only to those of its employees, contractors, service providers, and subsidiaries and related organizations that need to know that information in order to process it on DE’s behalf and that have agreed not to disclose it to others. DE may need to transfer personally identifying information to an affiliate or successor in the event of a change of our corporate structure or status, such as in the event of a restructuring, sale, or bankruptcy. We will retain any personally identifying information for the period necessary to fulfill the purposes outlined in this privacy policy. DE does not rent or sell personally identifying information to anyone.
+##### Service Providers
+
+We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service or sending emails. These companies are authorized to use your personal information only as necessary to provide these services to us and are contractually obligated to keep your information confidential. 
+
+##### Legal Disclaimer
+
+We may also disclose your personal information:
+
+  * as required by law, such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+  * if DE is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
+  * to any other third party with your prior consent to do so
+
+
+
+### User Access and Choice
+
+If your personal information changes, you may correct, update, amend, remove, or ask to have it removed by making the change on your user [account settings](https://secure.my.jobs/account/edit/) page or by submitting a service request via the My.jobs [Contact](https://secure.my.jobs/contact/) page. You may deactivate or delete your account from the account settings page at any time, or contact us directly. We will respond to your request within 30 days. 
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+##### Opt-out Preferences
+
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us via the My.jobs [Contact](https://secure.my.jobs/contact/) page. 
+
+##### Tracking Technologies / Cookies
+
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on our sites to identify and track visitors, their usage of our websites, and their website access preferences across multiple requests and visits. We link the information we store in cookies to personally identifiable information you submit while on our site. 
+
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory. If you reject cookies, you may still use our site, but the functionality of some areas of our site will be limited. 
+
+##### Web Beacons / Pixels
+
+The analytics service we employ uses a software technology called clear pixels (a.k.a. Web Beacons), that help us better manage content on our site by informing us what content is effective. Clear pixels are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online activities of website users. In contrast to cookies, which are stored on a user’s computer hard drive, clear pixels are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear pixels to your personally identifiable information. 
+
+##### Analytics / Log Files
+
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. 
+
+##### 3rd Party Tracking
+
+The use of tracking technologies by our service providers, technology partners or other 3rd party assets (such as social media) on the site is not covered by our privacy policy. These 3rd parties may use cookies, clear pixels, images, and scripts to help them better manage their content on our site. We do not have access or control over these technologies. We do not tie the information gathered to your personally identifiable information. 
+
+##### Behavioral Targeting / Re-Targeting
+
+We may partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
 ### Security
 
-DE undertakes a range of security measures including physical access restraints, technical security monitoring, and internal security reviews of the environment to help to protect your personal information from unauthorized access, alteration, disclosure, or destruction. We also have policies in place to prohibit employees from viewing personal information without business justification.
+The security of your personal information is important to us. When you enter sensitive information (such as your username and password) in our log-in portal, we encrypt the transmission of that information using secure socket layer technology (SSL). 
 
-### Updating of Personally-Identifying Information
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you may contact us using the My.jobs Contact page. 
 
-You may request access, correction, or deletion of your personally identifiable information or potentially personally identifiable information, as permitted by law. DE will seek to comply with such requests, provided that we have sufficient information to identify the personally identifiable information or potentially personally identifiable information related to you. To do so, users should look for links or contact information available on whichever DE websites store the relevant information or contact DE by using one of the email addresses listed on our contact page.
+### Additional Information
 
-### Cookies and Clear GIFs
+##### Links to 3rd Party Sites
 
-**What Are Cookies?** A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Most major websites use cookies. Because the browser provides this cookie information to the website at each visit, cookies serve as a sort of label that allows a website to “recognize” a browser when it returns to the site. The domain name in DE cookies will clearly identify their affiliation with DE and, where applicable, its third-party service provider.
+Our sites include links to other websites whose privacy practices may differ from those of DE. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit. 
 
-**What Are Clear GIFs?** Clear gifs (also known as web beacons) are used in combination with cookies to help website operators understand how visitors interact with their websites. A clear gif is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site. The use of a clear gif allows the site to measure the actions of the visitor opening the page that contains the clear gif. It makes it easier to follow and record the activities of a recognized browser, such as the path of pages visited at a website.
+##### Testimonials
 
-**How We Use Cookies and Clear GIFs.** DE’s websites use cookies to help DE identify and track visitors, their usage of DE websites, and their website access preferences across multiple requests and visits to DE’s websites. Our websites, and advertisements that DE may run occasionally on thirdparty advertising networks, also may use clear gifs for these purposes. The basic idea is to gather aggregate data about how people use DE websites. The term usually used to describe this is “web analytics” and the cookies and clear gifs are the tools by which a website owner collects this web analytics data.
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you may contact us using the My.jobs Contact page. 
 
-DE will use the web analytics data only to determine aggregate usage patterns for our websites as described above. DE websites do this by using either our own internal analytics software or by sending this information to a third-party service provider to help DE analyze this data. DE has agreements with its third-party service providers that they will not share this information with others or use the information for purposes other than to maintain the services they provide to DE. It is possible to link cookies and clear gifs to personally identifying information, thereby permitting website operators, including our third-party analytics providers, to track the online movements of particular individuals. DE does not do so and its third-party service providers are not allowed to correlate DE data with any other data.
+##### Social Media Widgets
 
-DE uses the information provided by cookies and clear gifs to develop a better understanding of how DE’s visitors use DE’s websites, and to facilitate those visitors’ interactions with DE’s websites. DE may make the aggregate data obtained from web analytics (including from our third-party analytics providers, if applicable) publicly available. If this data is made available, none of the information will be personally identifying information or potentially-personally identifying information.
+Our website includes Social Media Features, such as the Facebook Like button, links to our various social media pages and Widgets, such as the Share This button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it. 
 
-**Other Third Party Cookies.** Content from other sources that is hosted on DE websites may sometimes contain cookies that send information to those third parties. In certain cases, often associated with embedded content such as YouTube videos and other site linking buttons, a third party cookie may be set by the 3rd party content or provider. In these cases, the privacy policy of the 3rd party governs with respect to information that may be collected by and sent to the respective 3rd party. If you are concerned about these third party cookies, please see the information below on how to decline cookies.
+##### Changes To This Policy
 
-**How to Control the Use of Cookies.** You have the ability to accept or decline cookies. DE visitors who do not wish to have cookies placed on their computers by DE, its contractors, or third-party service providers should set their browsers to refuse cookies before linking to DE’s websites. Certain features of DE’s websites may not function properly without the aid of cookies.
-
-### Opt-out Procedures
-
-If you signed up to receive but no longer wish to receive electronic marketing communications from DE, you can opt-out from receiving these communications by following the “unsubscribe” instructions in any such communication you receive.
-
-### DE Ads
-
-DE places advertisements from time to time on third party websites to introduce people to our products and services, to encourage people to contribute to our community-based activities, and to sign up to receive communications from DE. We stand by our online advertising practices and aim to provide full transparency and control over how our ads appear and function.
-
-Some advertisements associated with this site may use cookies. Cookies are text files that your web browser places on your computer when you visit a website and can be used to store information about your activity. When you view DE’s advertisements on third party sites where we advertise, cookies from these campaigns provide information to us that is used to help measure and improve performance of our advertising. We do not use cookies to save data that identifies you personally such as your name, address, credit card number or other confidential information, nor do we capture behavioral data to personalize future ads or create targeting profiles about you.
-
-Most browsers accept cookies automatically, but they can be configured not to accept them or to indicate when a cookie is being set (see <http://www.allaboutcookies.org/manage-cookies/>).
-
-### Legal Process and Other Disclosures
-
-Consistent with our privacy commitments, we will scrutinize third party requests for information about you for compliance with the law, including those coming from governmental agencies or civil litigants. We may access, use, preserve or disclose information about you only when we have a good faith belief that it is reasonably necessary to do so to satisfy the applicable law, regulation, legal process or lawful governmental request of any country, or to protect the rights, property or safety of DE, its users or the public. We will provide notice of legal process or governmental requests unless prohibited to do so by law or the circumstances warrant otherwise.
-
-### Privacy Policy Changes
-
-By using the websites, you agree to the terms and conditions of this privacy policy. If you do not agree to the terms and conditions of this privacy policy, please do not use the websites. DE may change its Privacy Policy from time to time. Any and all changes will be reflected on this page.
-
-
-
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
