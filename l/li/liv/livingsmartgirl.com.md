@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingsmartgirl.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528161514id_/http%3A//livingsmartgirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingsmartgirl.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126152721id_/http%3A//www.livingsmartgirl.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
