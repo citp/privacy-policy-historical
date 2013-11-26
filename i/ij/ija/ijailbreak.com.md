@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijailbreak.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527153335id_/http%3A//www.ijailbreak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijailbreak.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126123033id_/http%3A//www.ijailbreak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,8 +65,4 @@ Dusty@iJailbreak.com or Jaden@iJailbreak.com
 
 This document was last updated on July 24th, 2012
 
-Make sure you stay subscribed through our social media feeds, so that you never miss a beat, by liking us on **[Facebook](https://www.facebook.com/iJailbreakFans)** , following us on **[Twitter](https://twitter.com/iJailbreak)** and joining our circle on **[Google+](https://plus.google.com/+iJailbreak)**.
-
-Share this article - 
-
-Hey, you! Join the [**iJailbreak Insider**](http://www.ijailbreak.com/ijailbreak-insider/) for weekly newsletters, Jailbreak alerts, contests and more. (No spam, we promise)
+Don't forget to follow iJailbreak.com on [Facebook](https://www.facebook.com/iJailbreakFans), [Twitter](https://twitter.com/iJailbreak) and [Google+](https://plus.google.com/+iJailbreak). And if you would be interested in becoming an **iOS 7** guru [click here](https://deals.ijailbreak.com/sales/lifetime-subscription-to-ios-centric).
