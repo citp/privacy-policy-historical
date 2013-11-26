@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mingle2.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915015310id_/http%3A//mingle2.com/welcome/showPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mingle2.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126220627id_/http%3A//mingle2.com/welcome/showPrivacy) for the most accurate reproduction.*
 
-# Mingle2 Free Online Dating
+# Mingle2 Free Dating
 
 NextC, LLC, ("NEXTC"), a Delaware Limited Liability Company is committed to protecting your privacy. This Privacy Policy explains the data collection and use practices of NEXTC and all related websites owned or registered to NEXTC. It does not apply to any third party websites, applications, products or services for which NEXTC is not responsible.
 
@@ -20,15 +20,11 @@ Each time you provide information to register your information, take advantage o
 
 NEXTC collects information from you when you voluntarily complete a NEXTC registration page, order form, or survey either online by using the internet, offline by providing this information through the mail, in person or using a telephone. This information may be collected by registration pages, order forms, or surveys operated by third parties. This method of collection is collectively known as a "Registration." NEXTC may also collect such information concerning you from another source and uses that information in combination with information provided from this website. Completing the Registration is completely voluntary, and you are under no obligation to provide Survey Information to NEXTC or a third party, but you may receive incentives from NEXTC or a third party in exchange for providing such information.
 
-1.3. Third Party List Information:
-
-NEXTC may from time to time, share your contact data with third parties in order to provide you with related offers that you may have an interest in based on your requests. Any future contact with you will follow any and all guidelines to insure the highest possible satisfaction on the part of the consumer. To the extent permitted by law, we may also share your personal information if we believe it is necessary to comply with the law, to enforce or apply our Terms of Use, or to protect the rights, property, or safety of NEXTC , our employees, affiliates, and users. We reserve the right to share information with anyone outside of our network if we are mandated to do so by law or court order. By deactivating your account does not mean you will stop receiving emails from Mingle2 or our partners. To unsubscribe to all Mingle2 email lists, you must submit your email address at [http://mingle2.com/unsubscribe](https://web.archive.org/unsubscribe). 
-
-1.4. Other Methods of Collecting Personal Information:
+1.3. Other Methods of Collecting Personal Information:
 
 Other occasions when NEXTC obtains information from you include (1) your claiming a prize or seeking to redeem an incentive offered by NEXTC or by a third party, (2) your requests for assistance through NEXTC's customer service department, and (3) when you voluntarily subscribe to a NEXTC service or newsletter.
 
-1.5. Cookies, Web Beacons, and Other Info Collected Using Technology:
+1.4. Cookies, Web Beacons, and Other Info Collected Using Technology:
 
 NEXTC currently uses cookie and web beacon technology to associate certain Internet-related information about you with information about you in its database. Additionally, NEXTC may use other new and evolving sources of information in the future.
 
@@ -52,7 +48,7 @@ NEXTC may also collect and accumulate other anonymous data which will help us un
 
 The use of technology on the Internet, including cookies and web beacons, is rapidly developing. As a result, NEXTC strongly encourages individuals to revisit this policy for any updates regarding its use of new technology.
 
-1.6. No Information Collected from Children:
+1.5. No Information Collected from Children:
 
 NEXTC requires its registrants be 18 years of age or over. NEXTC will never knowingly collect any personal information about children under the age of 18. If NEXTC obtains actual knowledge that it has collected personal information about a child under the age of 18, that information will be immediately deleted from its database. Because it does not collect such information, NEXTC has no such information to use or to disclose to third parties. NEXTC has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA").
 
