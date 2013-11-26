@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the searchtigo.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601144740id_/http%3A//searchtigo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchtigo.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126040322id_/http%3A//searchtigo.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Searchtigo.com
 
 |   |    
 ---|---  
-  |  | [](https://web.archive.org/web/20130601144740id_/http%3A//searchtigo.com/index.html) | [](https://web.archive.org/web/20130601144740id_/http%3A//searchtigo.com/index.html) |    
+  |  | [](https://web.archive.org/web/20131126040322id_/http%3A//searchtigo.com/index.html) | [](https://web.archive.org/web/20131126040322id_/http%3A//searchtigo.com/index.html) |    
 ---|---|---  
-[](https://web.archive.org/web/20130601144740id_/http%3A//searchtigo.com/index.html)  
+[](https://web.archive.org/web/20131126040322id_/http%3A//searchtigo.com/index.html)  
   |    
   |   
 |   | Searchtigo Privacy Policy  
