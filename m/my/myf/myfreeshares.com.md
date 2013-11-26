@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606053647id_/http%3A//www.myfreeshares.com/privicy.php%3Fref%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126104409id_/http%3A//www.myfreeshares.com/privicy.php%3Fref%3D) for the most accurate reproduction.*
 
 # MyFreeShares - get paid just for being our member !
 
 active members :  
 33212  [](http://www.etoro.com/B891_A17661_TClick_Smfsbnr.aspx) |  MyfreeShares Favorites Must join!-> [Smart Media (paid)](http://edelweis.smartmediatechnologies.com/) | [HomePagepays (FREE)](http://edelweis.homepagepays.com/) | [Stiforp NR 1.!](http://edelweis.stiforptour.com/?SOURCE=07mfs) | [Work from home!](http://edelweis.onebigpowerline.com/?SOURCE=07mfs)
+
+**News June 20 2013  
+Today we have a launch of an amazing new program that everyone really had to join. They have the option now to join pre-launch for free, or join direct as paid member to get in this amazing program to start earning big. The more people join the more we can promote the program to build up everyones downline in our team. So don’t wait longer and join our team today. (to get direct in the team you had to join as paid member, the free pre-launch part not place you direct in the program but give you this option later)  
+[Click here to join the pre-Launch part for FREE](http://edelweiss.lifestartsat21.com/?src=mfsnote) | [Click here to join MyFunLive as paid Member Direct](http://edelweiss.myfunlife.com/home.php/?src=mfsnote2) **
 
 **Privacy Policy Statement  
 This is the web site of MyFreeShares.com.**
