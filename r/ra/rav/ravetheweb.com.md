@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ravetheweb.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511223234id_/http%3A//ravetheweb.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravetheweb.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126155121id_/http%3A//ravetheweb.com/policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: Web Directory
+# Privacy Policy :: Directory
+
+[](http://ravetheweb.com/) [](http://ravetheweb.com/)
 
 Rave the Web Directory feels your private information should be just that – held private and protected to the best of our ability during your interactions with our web site.
 
@@ -30,3 +32,7 @@ You may opt not to submit your personal information for membership.  In those c
 
 **Legal Disclaimer**  
 There may be times where we are required by law to disclose personal information.  In the event of such a situation Rave the Web will comply with any legal process in order to conform with the edicts of the law.
+
+[Used Cars](http://ravetheweb.com/mod/tagcloud/Used+Cars), [Maui](http://ravetheweb.com/mod/tagcloud/Maui), [Web Directory](http://ravetheweb.com/mod/tagcloud/Web+Directory), [Yoke](http://ravetheweb.com/mod/tagcloud/Yoke), [WWWI](http://ravetheweb.com/mod/tagcloud/WWWI), [New Car Dealer](http://ravetheweb.com/mod/tagcloud/New+Car+Dealer), [Denver Real Estate Mobiel App](http://ravetheweb.com/mod/tagcloud/Denver+Real+Estate+Mobiel+App), [biographie](http://ravetheweb.com/mod/tagcloud/biographie), [Airport](http://ravetheweb.com/mod/tagcloud/Airport), [seo](http://ravetheweb.com/mod/tagcloud/seo), [Mighty Campers](http://ravetheweb.com/mod/tagcloud/Mighty+Campers), [Used Car Deal](http://ravetheweb.com/mod/tagcloud/Used+Car+Deal), [London Chauffeur](http://ravetheweb.com/mod/tagcloud/London+Chauffeur), [58497](http://ravetheweb.com/mod/tagcloud/58497), [Denver Real Estate](http://ravetheweb.com/mod/tagcloud/Denver+Real+Estate), [Yellow Cab](http://ravetheweb.com/mod/tagcloud/Yellow+Cab), [wine barrel](http://ravetheweb.com/mod/tagcloud/wine+barrel), [north dakota](http://ravetheweb.com/mod/tagcloud/north+dakota), [ypsilanti](http://ravetheweb.com/mod/tagcloud/ypsilanti), [Britz](http://ravetheweb.com/mod/tagcloud/Britz), [Women Lawyers](http://ravetheweb.com/mod/tagcloud/Women+Lawyers), [Yoga](http://ravetheweb.com/mod/tagcloud/Yoga), [Yogic](http://ravetheweb.com/mod/tagcloud/Yogic), [XAXOR](http://ravetheweb.com/mod/tagcloud/XAXOR), [wine](http://ravetheweb.com/mod/tagcloud/wine), [New Cars](http://ravetheweb.com/mod/tagcloud/New+Cars), [history](http://ravetheweb.com/mod/tagcloud/history), [zombie](http://ravetheweb.com/mod/tagcloud/zombie), [web](http://ravetheweb.com/mod/tagcloud/web), [directory](http://ravetheweb.com/mod/tagcloud/directory)
+
+[All Tags](http://ravetheweb.com/mod/tagcloud/)
