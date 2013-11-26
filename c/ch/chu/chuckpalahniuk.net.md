@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chuckpalahniuk.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531012553id_/http%3A//chuckpalahniuk.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chuckpalahniuk.net privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126124541id_/http%3A//chuckpalahniuk.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Cult
 
-We at The Cult website ("Site") have created this policy to explain why we collect particular information and how we will protect your personal privacy within the Site. The following discloses our information gathering and dissemination practices for the Site located at the URL [www.ChuckPalahniuk.net](http://www.chuckpalahniuk.net/ "www.ChuckPalahniuk.net") or any successor site (the "Site"). We reserve the right to change this policy at any time by posting a new privacy policy at this location.
+We at The Cult website ("Site") have created this policy to explain why we collect particular information and how we will protect your personal privacy within the Site. The following discloses our information gathering and dissemination practices for the Site located at the URL www.ChuckPalahniuk.net or any successor site (the "Site"). We reserve the right to change this policy at any time by posting a new privacy policy at this location.
 
 **What Information We Collect and How We Use That Information:**
 
@@ -40,4 +40,4 @@ We may disclose personal information to third parties we engage to provide servi
 
 **Contacting the Web Site:**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact our Web Site Administrator at [webmaster@chuckpalahniuk.net](mailto:webmaster@chuckpalahniuk.net) or A Writer's Cult, LLC, 2269 Beachwood Dr., #207, Los Angeles CA 90068, USA.
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact our Web Site Administrator at [webmaster@chuckpalahniuk.net](mailto:webmaster@chuckpalahniuk.net) or A Writer's Cult, LLC, PO Box 291870, Los Angeles CA 90029, USA.
