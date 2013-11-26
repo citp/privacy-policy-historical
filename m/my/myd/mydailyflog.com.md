@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mydailyflog.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430102941id_/http%3A//www.mydailyflog.com/go/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailyflog.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126150405id_/http%3A//www.mydailyflog.com/go/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to MyDailyFlog! | MyDailyFlog
 
-This Privacy Policy applies to your use of the MyDailyFlog website at MyDailyFlog.com. The website is owned by Refriendz Ltd, a company registered in England under company registration no. 5573375 
+This Privacy Policy applies to your use of the MyDailyFlog website at MyDailyFlog.com. The website is owned by Refriendz Ltd (UK)
 
 At MyDailyFlog your privacy is of paramount importance. As the custodians of your personal information, we have developed this policy to ensure that your privacy is always protected while you are using the MyDailyFlog network.
 
@@ -86,8 +86,4 @@ MyDailyFlog may amend this Privacy Policy from time to time. Use of information 
 
 ## Questions or Concerns
 
-If you have any questions or concerns regarding privacy this Privacy Policy, please send us a detailed message through our [help form](http://www.mydailyflog.com/go/contact_us). We will make every effort to resolve your concerns.
-
-You can locate us at: Refriendz Limited, PO BOX 1184, Luton, Bedfordshire, LU1 9AT, UK
-
-All rights including trademarks, copyright and database rights in this site are owned by or licensed to MyDailyFlog which is owned and operated by Refriendz Limited.
+All rights including trademarks, copyright and database rights in this site are owned by or licensed to MyDailyFlog which is owned and operated by Refriendz Ltd.
