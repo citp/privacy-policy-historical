@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the applynow.net.au privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504143206id_/http%3A//www.applynow.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applynow.net.au privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126212149id_/http%3A//www.applynow.com.au/privacy.php) for the most accurate reproduction.*
 
 # Find Jobs in Australia - ApplyNow.com.au Job Search Site
 
 At applynow.com.au, we understand how important privacy is and we abide by the [Privacy Act 1998](http://www.comlaw.gov.au/comlaw/Legislation/ActCompilation1.nsf/0/19CF4540B05BECE4CA25736E00189940?OpenDocument). This document discloses our information gathering and dissemination practices, as we value our users, and recognize their rights to keep information private.
 
-### Collecting Information on applynow.com.au Visitors
+### Collecting Information on applynow.com.au and applynow.net.au Visitors
 
-applynow.com.au collects information on our site visitors collectively including which sections of the site are most frequently visited, how often and for how long. This data is always used as aggregated, non-personal information to better our services by monitoring which parts of on the site which are visited the most. This information may be shared with applynow.com.au partners to provide them with an overview of how applynow.com.au visitors use the site. This is done for the purposes of providing you with the best online career management services.
+applynow.com.au and applynow.net.au collects information on our site visitors collectively including which sections of the site are most frequently visited, how often and for how long. This data is always used as aggregated, non-personal information to better our services by monitoring which parts of on the site which are visited the most. This information may be shared with applynow.com.au partners to provide them with an overview of how applynow.com.au visitors use the site. This is done for the purposes of providing you with the best online career management services.
 
 ### Registering as a Jobseeker
 
-As part of registering with applynow.com.au, we collect personal information about you in order for you to take full advantage of applynow.com.au’s services. To do this it may be necessary for you to provide additional information to applynow.com.au as detailed below. Registering with us is completely optional. However, registration for jobseeker services allows you to take advantage of more of the tools and resources that assist you in finding a job. Registration includes submitting your email address. You may access this information at any time by clicking “Change Details” on the “my account” screen when you’ve logged onto applynow.com.au as a Jobseeker.
+As part of registering with applynow.com.au and applynow.net.au, we collect personal information about you in order for you to take full advantage of applynow.com.au’s services. To do this it may be necessary for you to provide additional information to applynow.com.au as detailed below. Registering with us is completely optional. However, registration for jobseeker services allows you to take advantage of more of the tools and resources that assist you in finding a job. Registration includes submitting your email address. You may access this information at any time by clicking “Change Details” on the “my account” screen when you’ve logged onto applynow.com.au as a Jobseeker.
 
 ### Job Notifications
 
-Job Notifications is an optional service. applynow.com.au requests that you provide information relating to your employment preferences as well as your email address so that we may notify you via email of jobs specific to your needs. Users can modify or delete their Job Notifications profiles at any time by going to the [Jobseeker](http://applynow.com.au/my_saved_searches.php) area of the site, .
+Job Notifications is an optional service. applynow.com.au and applynow.net.au requests that you provide information relating to your employment preferences as well as your email address so that we may notify you via email of jobs specific to your needs. Users can modify or delete their Job Notifications profiles at any time by going to the [Jobseeker](http://applynow.com.au/my_saved_searches.php) area of the site, .
 
 ### Online Applications
 
-Making an online application to a job advertisement on applynow.com.au is a free and optional service that does not require registration. Job applications require you to complete mandatory fields (first name, last name, phone and email) so that the advertiser can identify and contact you. Your application, including attachments and cover letters, are forwarded directly on to the third party advertiser. This information may also be disclosed to applynow.com.au’s service providers and contractors from time to time who assist us to deliver our products and services.
+Making an online application to a job advertisement on applynow.com.au and applynow.net.au is a free and optional service that does not require registration. Job applications require you to complete mandatory fields (first name, last name, phone and email) so that the advertiser can identify and contact you. Your application, including attachments and cover letters, are forwarded directly on to the third party advertiser. This information may also be disclosed to applynow.com.au’s service providers and contractors from time to time who assist us to deliver our products and services.
 
 By applying to a position advertised on applynow.com.au you are requesting that applynow.com.au pass the information to the Advertiser as a part of your application.
 
 Additionally, you have the right to request your personal information direct from [Advertisers](http://applynow.com.au/rates.php) on applynow.com.au.
 
-### Collecting Information on applynow.com.au Visitors
+### Collecting Information on applynow.com.au and applynow.net.au Visitors
 
 applynow.com.au collects information that is necessary for the function of the site activities.
 
@@ -40,14 +40,14 @@ When you visit applynow.com.au we may make a record of your visit and log some o
 
 
 
-### Email Communications from applynow.com.au
+### Email Communications from applynow.com.au and applynow.net.au
 
-applynow.com.au also provides you with selected information about new jobs listed on the site, as well as info on career-related topics in our email newsletter. This free service is sent to registered users and provides the option of opting out of receiving these by clicking the “unsubscribe” link on emails sent.
+applynow.com.au and applynow.net.au also provides you with selected information about new jobs listed on the site, as well as info on career-related topics in our email newsletter. This free service is sent to registered users and provides the option of opting out of receiving these by clicking the “unsubscribe” link on emails sent.
 
 ### Storage & Security of Personal Information
 
-  * applynow.com.au has implemented appropriate physical, electronic and managerial security procedures in order to protect personal information from loss, misuse, alteration or destruction.
-  * applynow.com.au regularly reviews security and encryption technologies and will strive to protect information to the fullest extent possible.
+  * applynow.com.au and applynow.net.au has implemented appropriate physical, electronic and managerial security procedures in order to protect personal information from loss, misuse, alteration or destruction.
+  * applynow.com.au and applynow.net.au regularly reviews security and encryption technologies and will strive to protect information to the fullest extent possible.
   * applynow.com.au allows you to access your information at any time to keep it accurate and up to date. Any information which we hold for you is stored on secure servers.
   * Our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by applynow.com.au.
   * applynow.com.au will not be held responsible for events arising from unauthorised access of your personal information.
