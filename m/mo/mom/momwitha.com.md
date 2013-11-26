@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momwitha.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517031439id_/http%3A//momwitha.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momwitha.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126111019id_/http%3A//momwitha.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - mom with a dot com
 
