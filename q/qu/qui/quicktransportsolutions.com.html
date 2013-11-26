@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the quicktransportsolutions.com privacy policy that was archived on 2013-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430203926id_/http%3A//quicktransportsolutions.com/policy/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quicktransportsolutions.com privacy policy that was archived on 2013-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126134633id_/http%3A//quicktransportsolutions.com/policy/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -77,7 +77,23 @@ if(matchPos1 > 0){
 <a class="addthis_button_google_plusone" g:plusone:count="false"></a>
 </div>
 <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=quicktsi"></script>
+<script type="text/javascript">
+
+ // Add a script element as a child of the body
+ function downloadJSAtOnload() {
+ var element = document.createElement("script");
+ element.src = "//s7.addthis.com/js/300/addthis_widget.js#pubid=quicktsi";
+ document.body.appendChild(element);
+ }
+
+ // Check for browser support of event handling capability
+ if (window.addEventListener)
+ window.addEventListener("load", downloadJSAtOnload, false);
+ else if (window.attachEvent)
+ window.attachEvent("onload", downloadJSAtOnload);
+ else window.onload = downloadJSAtOnload;
+
+</script>
 <!-- AddThis Button END -->
 	    </td>
           </tr>
@@ -114,7 +130,9 @@ if(matchPos1 > 0){
     <div class="menu">
           <ul>
         <li><a href="/index.php" class="active" title="Home">Home</a></li>
-        <li><a href="/quickfreight/loadboard/landing.php" class="" title="Find Truck Loads in QuickTSI Load Board">Find Truck Loads</a></li>
+        <li><a href="/quickfreight/loadboard/truckloads/california.php" class="" title="Find Truck Loads in QuickTSI Load Board">Find Loads</a></li>
+        <li><a href="/truckloadrequest/postaloadinfo.php" class="" title="Post Truck Loads in QuickTSI Load Board">Post Load</a></li>
+        <li><a href="/quickfreight/loadboard/findtrucks.php" class="" title="Find Trucks in QuickTSI Load Board">Find Trucks</a></li>
         <li><a href="/carrier/usa-trucking-companies.php" class="" title="USA and Canada Trucking Companies">Trucking Companies</a></li>
         <li><a href="/freightbrokers/florida/miami.php" class="" title="Freight Broker Profiles">Freight Brokers</a></li>
         <li><a href="/truck-driver-jobs-application.php" class="" title="Trucking Jobs">Trucking Jobs</a></li>
@@ -240,4 +258,4 @@ google_ad_height = 15;
 </div>
 
 
-</div></body></html>
+</div><script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=quicktsi"></script></body></html>
