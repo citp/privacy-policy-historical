@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectconnectiongolfswing.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521084337id_/http%3A//perfectconnectiongolfswing.com/privacy-policyV1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectconnectiongolfswing.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126051921id_/http%3A//perfectconnectiongolfswing.com/privacy-policyV1.html) for the most accurate reproduction.*
 
 # Perfect Connection Golf Swing Privacy Policy
 
