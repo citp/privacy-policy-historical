@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackwell.co.uk privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527014902id_/http%3A//bookshop.blackwell.co.uk/jsp/editorial/help/security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackwell.co.uk privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126124040id_/http%3A//bookshop.blackwell.co.uk/jsp/editorial/help/security.jsp) for the most accurate reproduction.*
 
 # Academic, Educational and Business Books - Blackwell's Bookshop Online
 
