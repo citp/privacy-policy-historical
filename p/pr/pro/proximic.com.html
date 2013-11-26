@@ -1,242 +1,414 @@
-<!--The following is the downloaded HTML source of the proximic.com privacy policy that was archived on 2010-09-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100923053351id_/http%3A//www.proximic.com/info/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proximic.com privacy policy that was archived on 2013-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126123147id_/http%3A//www.proximic.com/info/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<!DOCTYPE html PUBLIC "-// W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Proximic | Privacy Policy</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Proximic provides dynamic contextual matching and brand protection services for advertising networks, agencies / DSPs, and publishers, with the goal to empower greater control, precision, confidence and profitability of ad placements across the ad ecosystem.">
+<meta name="keywords" content="online advertising, contextual targeting, audience targeting, brand protection, monetization, ad network, publisher network, keyword density, pattern proximity, contextual matching, contextual matching engine, internet advertising, matching engine">
 
-		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<meta name="DESCRIPTION" content="Proximic provides dynamic contextual matching and brand protection services for advertising networks, agencies / DSPs, and publishers, with the goal to empower greater control, precision, confidence and profitability of ad placements across the ad ecosystem.">
-<meta name="KEYWORDS" content="online advertising, contextual targeting, audience targeting, brand protection, monetization, ad network, publisher network, keyword density, pattern proximity, contextual matching, contextual matching engine, internet advertising, matching engine">
-<link rel="SHORTCUT ICON" href="/favicon.ico">
-<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">        
-<link rel="stylesheet" type="text/css" href="/css/style4.css" title="default">
-<!--<link rel="stylesheet" href="/css/lightbox.css" type="text/css" media="screen" />-->
+<link rel="shortcut icon" href="/favicon.ico">
 
-<script type="text/javascript" src="/js/navi.js"></script>
+<link href="/css/main.css?2040" media="all" rel="stylesheet" type="text/css">
+<link href="/css/ceebox-min.css?2040" media="all" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" src="/js/prototype.js"></script>
-<script type="text/javascript" src="/js/scriptaculous.js?load=effects,builder"></script>
-<script type="text/javascript" src="/js/jquery.js"></script>
-<script>jQuery.noConflict();</script>
-<!--<script type="text/javascript" src="/js/lightbox.js"></script>
-<script src="/js/thickbox.js" type="text/javascript"></script>-->
-<!-- script src="/js/contact.js" type="text/javascript"></script -->	</head>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.4.4_fix.js"></script>
+<script type="text/javascript" src="/js/jquery.ceebox-min.js"></script>
+<script type="text/javascript" src="/js/jquery.swfobject.js"></script>
+<script src="https://www.google.com/jsapi?key=ABQIAAAABYdi5pcbB4VeH8tHdD5N4BQSaX1m0hpURGfYm2rAEBJcQJ2TXBRTxv3gU1LpKxYtsSWh8zmM2hlxeg" type="text/javascript"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	$(".videobox").ceebox({borderColor:'#999',boxColor:'#fff',borderWidth:'1px',videoWidth:816,videoHeight:484,overlayOpacity:0.7,videoRatio:'49:29'});
+	$(".pressbox").ceebox({borderColor:'#999',boxColor:'#fff',borderWidth:'1px',htmlWidth:786,htmlHeight:600,overlayOpacity:0.7});
+});	
+</script>
+<script type="text/javascript">
+	
+	// On window load. This waits until images have loaded which is essential
+	$(window).load(function(){
+		
+		// Fade in images so there isn't a color "pop" document load and then on window load
+		$(".team_content img").fadeIn(500);
+		
+		// clone image
+		$('.team_content img').each(function(){
+			var el = $(this);
+			el.css({"position":"absolute"}).wrap("<div class='img_wrapper' style='display: inline-block'>").clone().addClass('img_grayscale').css({"position":"absolute","z-index":"998","opacity":"0"}).insertBefore(el).queue(function(){
+				var el = $(this);
+				el.parent().css({"width":this.width,"height":this.height});
+				el.dequeue();
+			});
+			this.src = grayscale(this.src);
+		});
+		
+		// Fade image 
+		$('.team_content img').mouseover(function(){
+			$(this).parent().find('img:first').stop().animate({opacity:1}, 200);
+		})
+		$('.img_grayscale').mouseout(function(){
+			$(this).stop().animate({opacity:0}, 600);
+		});		
+	});
+	
+	// Grayscale w canvas method
+	function grayscale(src){
+		var canvas = document.createElement('canvas');
+		var ctx = canvas.getContext('2d');
+		var imgObj = new Image();
+		imgObj.src = src;
+		canvas.width = imgObj.width;
+		canvas.height = imgObj.height; 
+		ctx.drawImage(imgObj, 0, 0); 
+		var imgPixels = ctx.getImageData(0, 0, canvas.width, canvas.height);
+		for(var y = 0; y < imgPixels.height; y++){
+			for(var x = 0; x < imgPixels.width; x++){
+				var i = (y * 4) * imgPixels.width + x * 4;
+				var avg = (imgPixels.data[i] + imgPixels.data[i + 1] + imgPixels.data[i + 2]) / 3;
+				imgPixels.data[i] = avg; 
+				imgPixels.data[i + 1] = avg; 
+				imgPixels.data[i + 2] = avg;
+			}
+		}
+		ctx.putImageData(imgPixels, 0, 0, 0, 0, imgPixels.width, imgPixels.height);
+		return canvas.toDataURL();
+    }
+	    
+</script>
+
+	</head>
 	<body>
+		<script type="text/javascript">
 
-		<div class="wrapper">
-			   <div id="headbox">
-    <div id="headout">
-     <div id="headin">
-      <div id="logo">
-       <a href="/?trck=logo">
-        <img alt="" src="/images/px_logo.png" border="0" width="160" height="30">
-       </a>
-      </div>
-      <div id="mainnavi">
-       <ul id="navi">
-        <li class="">
-         <a href="/index.php">Home</a>
-        </li>
-        <li class="">
-         <a href="/products/index.php">Products</a>
-         <ul>
-          <li>
-           <a href="/products/index.php">Overview</a>
-          </li>
-		  <li>
-           <a href="/products/page_contextualization.php">Page Contextualization</a>
-          </li>
-		  <li>
-           <a href="/products/audience_targeting.php">Audience Targeting</a>
-          </li>
-          <li>
-           <a class="lastmenu" href="/products/brand_protection.php">Brand Protection</a>
-          </li>
-         </ul>
-        </li>
-        <li class="">
-         <a href="/platform/index.php">Platform</a>
-         <ul>
-          <li>
-           <a href="/platform/index.php">Overview</a>
-          </li>
-		  <li>
-           <a href="/platform/technology.php">Technology</a>
-          </li>
-		  <li>
-           <a href="/platform/why_we_are_different.php">Why We Are Different</a>
-          </li>
-		  <li>
-           <a class="lastmenu" href="/platform/resources.php">Resources</a>
-          </li>
-         </ul>
-        </li>
-        <li class="">
-         <a href="/info/index.php">About Us</a>
-         <ul>
-          <li>
-           <a href="/info/index.php">Overview</a>
-          </li>
-          <li>
-           <a href="/info/contact.php">Contact</a>
-          </li>
-		  <li>
-           <a href="/info/career.php">Career</a>
-          </li>
-          <li>
-           <a class="lastmenu" href="/info/press/">Press</a>
-          </li>
-         </ul>
-        </li>
-        <li class="">
-         <a href="/info/blog/">Blog</a>
-        </li>
-       </ul>
-      </div>
-      <div id="loglink">
-       <a href="https://partners.proximic.com/authenticate/login">Sign in</a>
-      </div>
-      <div id="nationlink">
-       <a href="/"><img class="flag" src="/images/flag_usa.png" border="0"></a>
-       <a href="http://www.proximic.cn/"><img class="flag" src="/images/flag_china.png" border="0"></a>
-      </div>
-     </div><!-- #headin -->
-    </div><!-- #headout -->
-   </div><!-- #headbox -->
-   <div id="subnavibox">
-      <div id="subnaviout">
-       <div id="subnaviin">
-        <ul style="visibility: hidden;" id="subnavi">
-            <li><a href="#">&nbsp;</a></li>
-        </ul>
-       </div>
-      </div>
-    </div><!-- #subnavibox -->
-			<div id="contentbox">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10065021-1']);
+  _gaq.push(['_trackPageview']);
 
-				<div id="contentout">
-					<div id="content_wrap">
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
-						<div id="content_box">
-							<div id="content">
-							<div class="smaller">
+</script>		<div id="outer">
+			<div id="header">
+								<div id="navigation">					
+					<div id="primary_navigation" class="header_nav">
+						<ul id="sectional_navigation">
+							<li id="nav_home">
+								<a href="/index.php">
+									<span class="button_menu_text">Home
+									</span>
+									<span class="menu_text">
+									</span>
+								</a>
+							</li>
+							<li id="nav_solutions">
+								<a href="/solutions.php">
+									<span class="button_menu_text">Solutions
+									</span>
+									<span class="menu_text">
+									</span>
+								</a>
+							</li>
+							<li id="nav_products">
+								<a href="/products.php">
+									<span class="button_menu_text">Products
+									</span>
+									<span class="menu_text">
+									</span>
+								</a>
+							</li>
+							<li id="nav_technology">
+								<a href="/technology.php">
+									<span class="button_menu_text">Technology
+									</span>
+									<span class="menu_text">
+									</span>
+								</a>
+							</li>
+							<li id="nav_about">
+								<a href="/about.php">
+									<span class="button_menu_text">About
+									</span>
+									<span class="menu_text">
+									</span>
+								</a>
+							</li>
+							<li id="nav_blog">
+								<a href="http://blog.proximic.com" target="_blank">
+									<span class="button_menu_text">Blog
+									</span>
+									<span class="menu_text">
+									</span>
+								</a>
+							</li>
+						</ul>
+						<div class="partner_login">
+						<ul>
+						<li id="nav_login">
+								<a href="/login.php">
+									<span class="button_menu_text">Login
+									</span>
+									<span class="menu_text">
+									</span>
+								</a>
+							</li>
+						</ul>
+						</div>
+					</div>
+				</div>
+				<div id="branding">
+					<a id="header_logo" title="Home" href="/index.php">Proximic
+					</a>
+				</div> 
+			</div>
+			<div id="content">
+				<div id="primary_content">
+					<div class="header">
+						<h3>Privacy Policy</h3>
+					</div>
+					<div class="content">
+						<p class="revision_note">Updated March 1, 2010</p>
+						<p>Proximic, Inc. ("Proximic") mission is to assist our partners in building the world's most efficient online advertising targeting with utmost attention and diligence to ensuring your anonymity and privacy. Part of our services are based upon the collection and use of anonymous customer preferences via partner websites in order to allow advertisers, publishers, and other content providers to deliver content that is relevant and meaningful to their users. Because we want you, the consumer, to be in control, allow you to choose not to participate in our directory at all. We are a member of the Interactive Advertising Bureau (IAB) and work with industry-leading companies to address important privacy and consumer protection issues in online advertising.</p>
 
-								<h1>Privacy Policy</h1>
-<p class="revision_note">Updated March 1, 2010</p>
-<p>Proximic, Inc. ("Proximic") mission is to assist our partners in building the world's most efficient online advertising targeting with utmost attention and diligence to ensuring your anonymity and privacy. Part of our services are based upon the collection and use of anonymous customer preferences via partner websites in order to allow advertisers, publishers, and other content providers to deliver content that is relevant and meaningful to their users. Because we want you, the consumer, to be in control, allow you to choose not to participate in our directory at all. We are a member of the Interactive Advertising Bureau (IAB) and work with industry-leading companies to address important privacy and consumer protection issues in online advertising.</p>
+						<p>This privacy policy describes Proximic's privacy-related policies and practices and is intended to inform you about our collection, use, and disclosure of information that we process for our Proximic our targeting services.</p>
 
-<p>This privacy policy describes Proximic's privacy-related policies and practices and is intended to inform you about our collection, use, and disclosure of information that we process for our Proximic our targeting services.</p>
+						<h4>Privacy Notice</h4>
 
-<h2>Privacy Notice</h2>
+						<p>Proximic is committed to the privacy of all visitors to its Web site. To that end, Proximic has established this Privacy Policy ("Policy") to protect each visitor's privacy. This Policy explains what and how Proximic collects, uses, stores and protects the information gathered from its Web site. By using and visiting the Web site, you agree to this Policy and the uses made of personal information as set forth herein or amended hereafter.</p>
 
-<p>Proximic is committed to the privacy of all visitors to its Web site. To that end, Proximic has established this Privacy Policy ("Policy") to protect each visitor's privacy. This Policy explains what and how Proximic collects, uses, stores and protects the information gathered from its Web site. By using and visiting the Web site, you agree to this Policy and the uses made of personal information as set forth herein or amended hereafter.</p>
+						<h4>Overview of Our Services</h4>
 
-<h2>Overview of Our Services</h2>
+						<p>For part of the Proximic Services we or our partners collect non-personally identifiable information regarding the behavior and usage patterns of users of Web sites and other online properties operated by our partners or companies within their network of publisher sites. In this policy, we refer to this non-personally identifiable information, together with other non-personally identifiable information that we obtain from third parties, as "Targeting Data". We use Targeting Data to prepare groups of users for our partners, referred to as "Targeting Segments", based upon their behavior and preferences. We give our partners a limited right to use a user's affiliation with a Targeting Segment as a basis for displaying advertisements and other content that are intended to reflect the user's preferences.</p>
 
-<p>For part of the Proximic Services we or our partners collect non-personally identifiable information regarding the behavior and usage patterns of users of Web sites and other online properties operated by our partners or companies within their network of publisher sites. In this policy, we refer to this non-personally identifiable information, together with other non-personally identifiable information that we obtain from third parties, as "Targeting Data". We use Targeting Data to prepare groups of users for our partners, referred to as "Targeting Segments", based upon their behavior and preferences. We give our partners a limited right to use a user's affiliation with a Targeting Segment as a basis for displaying advertisements and other content that are intended to reflect the user's preferences.</p>
+						<h4>Collection of Targeting Data</h4>
 
-<h2>Collection of Targeting Data</h2>
+						<p>We use non-personally identifiable means, including "cookies" and "pixel tags," to collect and store Targeting Data.<br>
+						Cookies are small text files that contain a string of characters and uniquely identify a browser. They are sent to a computer by Web site operators or third parties. Most browsers are initially set up to accept cookies. You may, however, be able to change your browser settings to cause your browser to refuse third-party cookies or to indicate when a third-party cookie is being sent. Check your browser's "Help" files to learn more about handling cookies on your browser. As of January 1st, 2010. Proximic cookies will expire after six months from the date they are created.<br>
+						Pixel tags are small strings of code that provide a method for delivering a graphic image on a Web page or other document. Pixel tags allow the operator of the Web page or other document, or a third party who serves the pixel tag, to set, read, and modify cookies on, and to transfer other data to, the browser used to view the Web page or other document. Pixel tags may also be used to obtain information about the computer being used to view that Web page or other document. The entity that sends the tag can view the IP address of the computer that the tag is sent to, the time it was sent, the user's operating system and browser type, and similar information.<br>
+						We use information collected at various times and by pixel tags and cookies placed on several Web sites in order to collect Targeting Data. Instead of collecting Targeting Data about a user directly, a partner may collect Targeting Data and share it with Proximic, which we then process and deliver back to the partner who sent us the data. We will not obtain Targeting Data from other third-party sources, and combine it with Targeting Data from our partners, nor will we merge Targeting Data about users across different partners.<br>
+						The Targeting Data that we collect from users includes, for example, a user's browser type and version (e.g., Internet Explorer 7.0, Firefox 3.0, or Safari 3.1.1), and operating system (e.g., Windows Vista or Macintosh OS X). In addition, we may collect information about a user's browsing behavior, such as the date and time they visit the Web pages on which we are collecting Targeting Data, the content areas or pages of the Web sites that a user visits (e.g., "sports section" or "technology section"), and other click-stream data, none of which includes personal information about the user.<br>
+						As of January 1st, 2010, all forms of Targeting Data will be deleted after six months of original date of collection.</p>
 
-<p>We use non-personally identifiable means, including "cookies" and "pixel tags," to collect and store Targeting Data.<br>
-Cookies are small text files that contain a string of characters and uniquely identify a browser. They are sent to a computer by Web site operators or third parties. Most browsers are initially set up to accept cookies. You may, however, be able to change your browser settings to cause your browser to refuse third-party cookies or to indicate when a third-party cookie is being sent. Check your browser's "Help" files to learn more about handling cookies on your browser. As of January 1st, 2010. Proximic cookies will expire after six months from the date they are created.<br>
-Pixel tags are small strings of code that provide a method for delivering a graphic image on a Web page or other document. Pixel tags allow the operator of the Web page or other document, or a third party who serves the pixel tag, to set, read, and modify cookies on, and to transfer other data to, the browser used to view the Web page or other document. Pixel tags may also be used to obtain information about the computer being used to view that Web page or other document. The entity that sends the tag can view the IP address of the computer that the tag is sent to, the time it was sent, the user's operating system and browser type, and similar information.<br>
-We use information collected at various times and by pixel tags and cookies placed on several Web sites in order to collect Targeting Data. Instead of collecting Targeting Data about a user directly, a partner may collect Targeting Data and share it with Proximic, which we then process and deliver back to the partner who sent us the data. We will not obtain Targeting Data from other third-party sources, and combine it with Targeting Data from our partners, nor will we merge Targeting Data about users across different partners.<br>
-The Targeting Data that we collect from users includes, for example, a user's browser type and version (e.g., Internet Explorer 7.0, Firefox 3.0, or Safari 3.1.1), and operating system (e.g., Windows Vista or Macintosh OS X). In addition, we may collect information about a user's browsing behavior, such as the date and time they visit the Web pages on which we are collecting Targeting Data, the content areas or pages of the Web sites that a user visits (e.g., "sports section" or "technology section"), and other click-stream data, none of which includes personal information about the user.<br>
-As of January 1st, 2010, all forms of Targeting Data will be deleted after six months of original date of collection.</p>
+						<h4>Use of Targeting Data</h4>
 
-<h2>Use of Targeting Data</h2>
+						<p>We analyze Targeting Data collected from one source at different times to define Targeting Segments and to attribute affiliation within those Targeting Segments to users. Our policy is to purge Targeting Data within six months from the data it is collected.
+						We are aware of the sensitivity of certain types of Targeting Data. We do not create or share any Targeting Segments that reflect Targeting Data that we consider sensitive. While the types of Targeting Data that may be considered sensitive may vary among users, we presently treat Targeting Data as sensitive if it includes data reflecting a user having any medical or health condition; certain aspects of a user's personal life or financial situation; or use of, or interest in, gambling, alcoholic beverages, or "adult" products or services. We may update from time to time the types of Targeting Data that we consider sensitive.</p>
 
-<p>We analyze Targeting Data collected from one source at different times to define Targeting Segments and to attribute affiliation within those Targeting Segments to users. Our policy is to purge Targeting Data within six months from the data it is collected.
-We are aware of the sensitivity of certain types of Targeting Data. We do not create or share any Targeting Segments that reflect Targeting Data that we consider sensitive. While the types of Targeting Data that may be considered sensitive may vary among users, we presently treat Targeting Data as sensitive if it includes data reflecting a user having any medical or health condition; certain aspects of a user's personal life or financial situation; or use of, or interest in, gambling, alcoholic beverages, or "adult" products or services. We may update from time to time the types of Targeting Data that we consider sensitive.</p>
+						<h4>Disclosure of Information</h4>
 
-<h2>Disclosure of Information</h2>
+						<p>We disclose Targeting Data, and information derived from Targeting Data, to our partners in the ordinary course of our business. We indicate to our customers a user's affiliation within a Targeting Segment at various times. For example, we may tag an anonymous user as a member of a Targeting Segment when the user views certain Web pages that are operated or controlled by a partner. Our customers may use a user's membership within a Targeting Segment to display advertisements and other content that are targeted to the user. Our customers may also use third-party service providers, acting on behalf of those customers, to display advertising or other content that reflects a user's membership in a Targeting Segment. We do not authorize our customers to resell or sublicense Targeting Data to third parties. Please note that our customers have their own data retention policies.<br>
+						We may share Targeting Data with third-party service providers (e.g., data storage and processing facilities) in order for those service providers to perform business functions for us or on our behalf.</p>
 
-<p>We disclose Targeting Data, and information derived from Targeting Data, to our partners in the ordinary course of our business. We indicate to our customers a user's affiliation within a Targeting Segment at various times. For example, we may tag an anonymous user as a member of a Targeting Segment when the user views certain Web pages that are operated or controlled by a partner. Our customers may use a user's membership within a Targeting Segment to display advertisements and other content that are targeted to the user. Our customers may also use third-party service providers, acting on behalf of those customers, to display advertising or other content that reflects a user's membership in a Targeting Segment. We do not authorize our customers to resell or sublicense Targeting Data to third parties. Please note that our customers have their own data retention policies.<br>
-We may share Targeting Data with third-party service providers (e.g., data storage and processing facilities) in order for those service providers to perform business functions for us or on our behalf.</p>
+						<p>We may also disclose Targeting Data if we believe that we have a legal obligation to do so.<br>
+						In addition, information in our possession or control, including Targeting Data, may be disclosed in connection with any merger, acquisition, debt financing, sale of company assets, or other business transaction in which data could be transferred to third parties as one of our business assets.</p>
 
-<p>We may also disclose Targeting Data if we believe that we have a legal obligation to do so.<br>
-In addition, information in our possession or control, including Targeting Data, may be disclosed in connection with any merger, acquisition, debt financing, sale of company assets, or other business transaction in which data could be transferred to third parties as one of our business assets.</p>
+						<h4>Opting Out of the Services</h4>
 
-<h2>Opting Out of the Services</h2>
+						<p>We make available a Proximic "opt-out" cookie that you may download to your browser. This cookie, when installed on your browser, will prevent us from collecting Targeting Data on that browser. You can learn more about our opt-out cookie <a href="optout.php">here</a>.<br>
+						Our opt-out tool is cookie-based. It only prevent us from collecting Targeting Data pertaining to you on the browser on which it is installed, and will only function if your browser is set to accept third-party cookies. If you delete an opt-out cookie from a browser's cookie files, we will collect Targeting Data from that browser until an opt-out cookie is reset on that browser.<br>
+						Additionally, you may prevent us from collecting Targeting Data on a browser by blocking third-party cookies in that browser. If you block third-party cookies from being set on your browser, you may not be able to enjoy some features or functionality of, and you may see the same content and advertisements repeatedly on, some Web sites. If the Proximic opt-out cookie is left undeleted, its opt-out function will live for up to 20 years.</p>
 
-<p>We make available a Proximic "opt-out" cookie that you may download to your browser. This cookie, when installed on your browser, will prevent us from collecting Targeting Data on that browser. You can learn more about our opt-out cookie <a href="/info/optout.php">here</a>.<br>
-Our opt-out tool is cookie-based. It only prevent us from collecting Targeting Data pertaining to you on the browser on which it is installed, and will only function if your browser is set to accept third-party cookies. If you delete an opt-out cookie from a browser's cookie files, we will collect Targeting Data from that browser until an opt-out cookie is reset on that browser.<br>
-Additionally, you may prevent us from collecting Targeting Data on a browser by blocking third-party cookies in that browser. If you block third-party cookies from being set on your browser, you may not be able to enjoy some features or functionality of, and you may see the same content and advertisements repeatedly on, some Web sites. If the Proximic opt-out cookie is left undeleted, its opt-out function will live for up to 20 years.</p>
+						<h4>Reporting</h4>
 
-<h2>Reporting</h2>
+						<p>We may provide reports to our customers who access Targeting Data. Our customers may use these reports to determine information about available Targeting Segments (e.g., the number of users in Targeting Segments). These reports may also be used for billing, auditing, and other operational purposes. These reports are prepared using aggregated reports on users' activity on Web sites on which Targeting Data is collected and used. To prepare our reports, we maintain log files for no longer than six months. Our reports and log files do not include any personally identifiable information about users.</p>
 
-<p>We may provide reports to our customers who access Targeting Data. Our customers may use these reports to determine information about available Targeting Segments (e.g., the number of users in Targeting Segments). These reports may also be used for billing, auditing, and other operational purposes. These reports are prepared using aggregated reports on users' activity on Web sites on which Targeting Data is collected and used. To prepare our reports, we maintain log files for no longer than six months. Our reports and log files do not include any personally identifiable information about users.</p>
+						<h4>Children</h4>
 
-<h2>Children</h2>
+						<p>We do not intentionally collect Targeting Data from, and do not tailor any segments to, children under 13 years of age.</p>
 
-<p>We do not intentionally collect Targeting Data from, and do not tailor any segments to, children under 13 years of age.</p>
+						<h4>Data Security</h4>
 
-<h2>Data Security</h2>
+						<p>We use security measures that are reasonably designed to protect Targeting Data in our control from unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any Targeting Data or other information. In particular, we cannot guarantee that Targeting Data or other information will not be disclosed, altered, or accessed in accidental circumstances or by unauthorized acts of others.</p>
 
-<p>We use security measures that are reasonably designed to protect Targeting Data in our control from unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any Targeting Data or other information. In particular, we cannot guarantee that Targeting Data or other information will not be disclosed, altered, or accessed in accidental circumstances or by unauthorized acts of others.</p>
+						<h4>Data Retention</h4>
 
-<h2>Data Retention</h2>
+						<p>We retain Targeting Data and other information for up to six months. After six months, some of the information we have (e.g., anonymous web logs) may be aggregated for statistical purposes and stored indefinitely, and the rest of the information is destroyed.</p>
 
-<p>We retain Targeting Data and other information for up to six months. After six months, some of the information we have (e.g., anonymous web logs) may be aggregated for statistical purposes and stored indefinitely, and the rest of the information is destroyed.</p>
+						<h4>Updates to This Policy</h4>
 
-<h2>Updates to This Policy</h2>
+						<p>We may update this policy from time to time. When we do, we will also revise the "last updated" date at the beginning of the policy. If we make a change to this policy that would result in a materially more permissive use of Targeting Data that we collected before the effective date of the update, we will obtain prior affirmative consent from affected users before implementing the change.<br>
+						We encourage you to review this policy periodically to stay informed about how we collect, use, and disclose Targeting Data.</p>
 
-<p>We may update this policy from time to time. When we do, we will also revise the "last updated" date at the beginning of the policy. If we make a change to this policy that would result in a materially more permissive use of Targeting Data that we collected before the effective date of the update, we will obtain prior affirmative consent from affected users before implementing the change.<br>
-We encourage you to review this policy periodically to stay informed about how we collect, use, and disclose Targeting Data.</p>
+						<h4>Miscellaneous</h4>
 
-<h2>Miscellaneous</h2>
+						<p>This Policy and any issue or dispute regarding privacy concerns will be governed by and interpreted in accordance with the laws of the State of California, without regard to the choice of law provisions. This Policy is the entire agreement between the parties relating to privacy issues relating to use of the Web site and person information collected by Proximic.</p>
 
-<p>This Policy and any issue or dispute regarding privacy concerns will be governed by and interpreted in accordance with the laws of the State of California, without regard to the choice of law provisions. This Policy is the entire agreement between the parties relating to privacy issues relating to use of the Web site and person information collected by Proximic.</p>
+						<h4>Contact us</h4>
 
-<h2>Contacting Us</h2>
+						<p>We encourage you to contact us if you have any questions, comments, or concerns about this policy. You may <a href="/about/contact.php">contact us</a> or by postal mail at:<br>
+						Proximic, Inc.<br>
+						Attention: Data Privacy<br>
+						451 Florence St<br>
+						Palo Alto, CA 94301, USA
+						</p>					
+					</div>
+				</div>
+				<div id="secondary_content">
+					<div class="sidebar">
+												<div class="header">
+							<h4>Product one-pagers (PDF)</h4>
+						</div>
+						<div class="content">
+						<p>Download our product one-pagers:</p>
+							<a onclick="javascript: pageTracker._trackPageview('/media/CD'); " href="/media/dl.php?file=Proximic_-_Contextual_Data.pdf" target="_blank">Contextual Data</a><br>
+							<a onclick="javascript: pageTracker._trackPageview('/media/BPD'); " href="/media/dl.php?file=Proximic_-_Brand_Protection_Data.pdf" target="_blank">Brand Protection Data</a><br>
+							<a onclick="javascript: pageTracker._trackPageview('/media/AID'); " href="/media/dl.php?file=Proximic_-_Audience_Interest_Data.pdf" target="_blank">Audience Interest Data</a>
+						</div>												<div class="header">
+							<h4>Proximic is hiring</h4>
+						</div>
+						<div class="content">
+							<p>We are growing and searching for:</p>
+							<a href="/about/jobs.php#java_engineer">Java Engineers</a>
+						</div>												<div class="header">
+							<h4>Proximic in 125 seconds</h4>
+						</div>
+						<div class="content_center">
+							<div class="videobanner">
+								<a href="http://www.youtube.com/watch?v=WJjLzXDMgho" class="videobox" title="Proximic in 125 Seconds"></a>
+							</div>
+						</div>
 
-<p>We encourage you to contact us if you have any questions, comments, or concerns about this policy. You may <a href="/info/contact.php">contact us</a> or by postal mail at:<br>
-Proximic, Inc.<br>
-Attention: Data Privacy<br>
-460 S. California Ave, Suite 303<br>
-Palo Alto, CA 94306, USA
-</p>
-</div>
-
-
-							</div> <!-- ##content -->
-						</div> <!-- ##content-box -->
-
-						<div id="sidebar">
-
-						</div> <!-- ##sidebar -->
-
-
-					</div> <!-- #content_wrap -->
-				</div><!-- #contentout -->
-			</div><!-- #contentbox -->
-
-			<div id="footerbox">
- <div id="footerout">
-  <div id="footer">
-   <div class="footerlink">
-    <a href="/info/index.php">About Us</a>|<a href="/info/contact.php">Contact</a>|<a href="/info/career.php">Career</a>|<a href="/info/privacy.php">Privacy Policy</a>
-	</div>
-   <span>
-    © 2010 Proximic, Inc. 2006-2010 All rights reserved.<br>
-    Designated trademarks and brands are the property of the respective owners.
-   </span>
-
-  </div><!-- #footer -->
- </div>
-</div><!-- #footerbox -->
- 
-
+						<div class="header">
+							<h4>Contact us now</h4>
+						</div>
+						<div class="content">
+							<p>For more information about Proximic and how we can help your business, <a href="/about/contact.php">contact us</a> now.</p>
+						</div>						
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- START Tracking Pixel for leadlander.com -->
+<script type="text/javascript" language="javascript">llactid=24218</script> 
+<script type="text/javascript" language="javascript" src="http://t4.trackalyzer.com/trackalyze.js"></script>
+<!-- END Tracking Pixel for leadlander.com -->
+		
+		<div id="footer">
+			<div id="company_content_container">
+				<div id="global_footer">
+					<div class="footer_box">
+						<h4>
+							<a href="/solutions.php">Solutions
+							</a>
+						</h4>
+						<ul>
+						<li>
+							<a href="/solutions.php#buyside">Agencies &amp; DSPs
+							</a>
+						</li>
+						<li>
+							<a href="/solutions.php#networks">Networks &amp; Exchanges
+							</a>
+						</li>
+						<li>
+							<a href="/solutions.php#sellside">Publishers &amp; SSPs
+							</a>
+						</li>
+						</ul>
+					</div>
+					<div class="footer_box">
+						<h4>
+							<a href="/products.php">Products
+							</a>
+						</h4>
+						<ul>
+						<li>
+							<a href="/products.php#contextual">Contextual Data
+							</a>
+						</li>
+						<li>
+							<a href="/products.php#protection">Brand Protection Data
+							</a>
+						</li>
+						<li>
+							<a href="/products.php#audience">Audience Interest Data
+							</a>
+						</li>
+						</ul>
+					</div>
+					<div class="footer_box">
+						<h4>
+							<a href="/technology.php">Technology</a>
+						</h4>
+						<ul>
+						<li>
+							<a href="/technology.php#pattern">Pattern Profiling</a>
+						</li>
+						<li>
+							<a href="/technology.php#dcm">Dynamic Category Matching</a>
+						</li>
+						<li>
+							<a href="/technology.php#platform">Real-time Platform</a>
+						</li>
+						</ul>
+					</div>
+					<div class="footer_box">
+						<h4>
+							<a href="/about.php">About us
+							</a>
+						</h4>
+						<ul>
+						<li>
+							<a href="/about/press.php">Press
+							</a>
+						</li>
+						<li>
+							<a href="/about/team.php">Team
+							</a>
+						</li>
+						<li>
+							<a href="/about/board-of-directors.php">Board of Directors
+							</a>
+						</li>
+						<li>
+							<a href="/about/jobs.php">Jobs
+							</a>
+						</li>
+						<li>
+							<a href="/about/contact.php">Contact us
+							</a>
+						</li>
+						</ul>
+					</div>
+					<div class="tumblr_posts">
+						<h4>
+							<a href="http://blog.proximic.com/">Blog Posts</a>
+						</h4>
+						<div id="recentPosts">
+							<div id="blog-loader">
+								<img src="../images/blog-loader.gif" width="16" height="16">
+							</div>
+						</div>
+					</div>
+					<div class="iab"><a href="http://www.iab.net" target="_blank"></a>
+					</div>
+					<div class="social">
+						<div class="linkedin"><a href="http://www.linkedin.com/company/proximic" target="_blank"></a></div>
+						<div class="twitter"><a href="http://twitter.com/proximic" target="_blank"></a></div>
+						<div class="youtube"><a href="http://www.youtube.com/user/Proximic" target="_blank"></a></div>
+						<div class="facebook"><a href="http://www.facebook.com/proximic" target="_blank"></a></div>
+					</div>
+					<div id="copyright_statement">© 2013 Proximic, Inc. 2006-2013 All rights reserved.
+					<a class="footer_link" href="/info/privacy.php">Privacy Policy
+					</a>
+					<a class="footer_link" href="/info/terms.php">Terms of Use
+					</a>
+					</div>
+				</div>
+			</div>
+		</div>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-10065021-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
-		</div><!-- .wrapper -->
+    google.load("feeds", "1");
+     
+    function OnLoad() {
+      var feedControl = new google.feeds.FeedControl();
+      feedControl.addFeed("http://blog.proximic.com/rss");
+      feedControl.setNumEntries(3);
+      feedControl.draw(document.getElementById("recentPosts"));
+    }     
+    google.setOnLoadCallback(OnLoad);
+</script> 
 	
 </body></html>
