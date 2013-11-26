@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashfunpages.com privacy policy that was archived on 2013-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130101034605id_/http%3A//www.flashfunpages.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashfunpages.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126041643id_/http%3A//www.flashfunpages.com/privacy.php) for the most accurate reproduction.*
 
 # Funny Flash Animated Cartoon Cards and Funpages HTM
 
