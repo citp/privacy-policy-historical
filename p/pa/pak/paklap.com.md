@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the paklap.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503030900id_/http%3A//paklap.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paklap.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126231022id_/http%3A//paklap.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 The privacy of our visitors to PAKLAP.COM is important to us.
 
 At PAKLAP.COM, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit PAKLAP.COM, and how we safeguard your information. We **never** sell your personal information to third parties.
+
+  *  Please note that due to typing mistakes the specifications may differ from vendor website please check vendor website before ordering or buying
+
+
 
 **Log Files**
 
