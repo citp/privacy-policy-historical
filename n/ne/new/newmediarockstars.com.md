@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newmediarockstars.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531164604id_/http%3A//newmediarockstars.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newmediarockstars.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127005713id_/http%3A//newmediarockstars.com/private-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
