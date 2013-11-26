@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topperlearning.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525235612id_/http%3A//www.topperlearning.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topperlearning.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126063411id_/http%3A//www.topperlearning.com/home/privacy_policy) for the most accurate reproduction.*
 
-# Online Coaching Courses | Online Tuition Classes | Effective Education Methods | CBSE Question Papers | Topper Sample Papers Maths | NCERT Chemistry | Physics | Biology | Tutorials for Class 9 to 12 | Topperlearning.com
+# Online Study Material for CBSE, ICSE, Tamilnadu Board, Kerala Board, JEE Exam Solutions, NCERT Textbook Solutions, Sample Papers, Online Test Papers, Online Tuition Classes, Educational Portal | TopperLearning
 
 **General**  
 Greycells18 (hereinafter referred to as "Topper" "we" "our" or "us" in this Privacy Statement) respects the privacy of your personal information as explained in this Privacy Statement. Personal information is information about an identifiable individual. This Privacy Statement provides information about what personal information Topper collects and how we use that information in India whether provided on or off line. This Privacy Statement also provides direction on what to do if you do not want your personal information collected or shared and how to contact our company with respect to personal information. 
