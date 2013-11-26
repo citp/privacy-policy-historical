@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rom-world.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529185543id_/http%3A//www.rom-world.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rom-world.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126150051id_/http%3A//www.rom-world.com/policy.php) for the most accurate reproduction.*
 
 # ROM World | Policies
 
