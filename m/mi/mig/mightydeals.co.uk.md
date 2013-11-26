@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mightydeals.co.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602114818id_/http%3A//mightydeals.co.uk/information/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightydeals.co.uk privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126010115id_/http%3A//www.mightydeals.co.uk/information/privacyPolicy.aspx%3Fft%3D1) for the most accurate reproduction.*
 
-# Privacy Policy - Mighty Deals
+# Mighty Deals
 
 ## Our Commitment to Privacy
 
@@ -47,6 +47,8 @@ We obtain data by using cookies or JavaScript files. These files help us analyse
 Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. We know that people have concerns about cookies, but we believe that the benefit we both gain from their proper use is worthwhile. You may set your web browser (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely.
+
+We may from time to time contact you via email, post, telephone or SMS with offers from third parties, which we may feel are of interest to you, or services which are of similar nature to what we provide. If you do not wish to receive these you can unsubscribe [here ](mailto:unsubscribe@perfectdeals.co.uk)
 
 ### Changes to the Policy
 
