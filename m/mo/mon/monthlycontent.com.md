@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monthlycontent.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501221611id_/http%3A//monthlycontent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monthlycontent.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126110516id_/http%3A//monthlycontent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
