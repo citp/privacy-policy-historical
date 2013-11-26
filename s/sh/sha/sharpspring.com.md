@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharpspring.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517002432id_/http%3A//www.sharpspring.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharpspring.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126111341id_/http%3A//sharpspring.com/legal/privacy) for the most accurate reproduction.*
 
 # SharpSpring
 
