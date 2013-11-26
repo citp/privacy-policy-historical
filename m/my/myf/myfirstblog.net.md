@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfirstblog.net privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601195123id_/http%3A//myfirstblog.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfirstblog.net privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126055041id_/http%3A//myfirstblog.net/privacy) for the most accurate reproduction.*
 
-# Privacy | MyFirstBlog.net: More than blogs, it is a network
+# Privacy
 
 MyFirstBlog.net has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website: MyFirstBlog.net
 
