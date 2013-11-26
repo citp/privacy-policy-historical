@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412002644id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126154050id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Pennsylvania College of Technology
 
@@ -92,14 +92,10 @@ We request your e-mail address only to allow us to respond to your messages, or 
 
 This website contains links to other sites. Pennsylvania College of Technology is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-## Copyright
-
-All material included on or available through this website is © 1995-Present, Pennsylvania College of Technology, All Rights Reserved. This site is protected by the [Copyright Law of the United States of America and Related Laws Contained in Title 17 of the United States Code](http://www.copyright.gov/title17/).
-
 ## Notification of Change
 
 The College will occasionally update this Statement. Those changes will be posted to this page so our constituents are always aware of what information is collected and how we use it. We encourage you to periodically review this page for the latest information.
 
 ## How to Report Privacy Violations
 
-You may report violations of this statement to [Privacy](https://web.archive.org/web/20130412002644id_/http://www.pct.edu/privacy/contact.asp).
+You may report violations of this statement to [Privacy](https://web.archive.org/web/20131126154050id_/http://www.pct.edu/privacy/contact.asp).
