@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysearch.com.au privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529223125id_/http%3A//www.about.sensis.com.au/legal/privacy.php%3Fref%3Dcsft) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysearch.com.au privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126130309id_/http%3A//www.about.sensis.com.au/legal/privacy.php%3Fref%3Dcsft) for the most accurate reproduction.*
 
 # Privacy Collection Statement | Sensis
 
