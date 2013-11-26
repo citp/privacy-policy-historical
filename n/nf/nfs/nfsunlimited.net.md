@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nfsunlimited.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602125338id_/http%3A//nfsunlimited.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfsunlimited.net privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126203437id_/http%3A//www.nfsunlimited.net/privacy) for the most accurate reproduction.*
 
-# NFSUnlimited.net - Need for Speed Most Wanted, Hot Pursuit, World, SHIFT and more - Privacy Policy
+# NFSUnlimited.net - Need for Speed Rivals, Most Wanted, World, and more - Privacy Policy
 
 **NFS Unlimited** has created this privacy statement in order to demonstrate our  commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [NFS Unlimited](http://www.nfsunlimited.net/)
 
