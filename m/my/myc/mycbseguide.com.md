@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycbseguide.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530094903id_/http%3A//mycbseguide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycbseguide.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126092242id_/http%3A//mycbseguide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | myCBSEguide.com
 
@@ -6,7 +6,7 @@ mycbseguide.com has created this privacy statement in order to demonstrate our f
 
 ### **Registration**
 
-Almost all the pages are visible to the users without registration. Still there is user registration and login module. Users may register themselves for comprehensive access to the site. We don\'t provide the information to any third party agent.
+Almost all the pages are visible to the users without registration. Still there is user registration and login module. Users may register themselves for comprehensive access to the site. We don't provide the information to any third party agent.
 
 ### **Surveys**
 
@@ -14,7 +14,7 @@ mycbseguide.com conducts individual voluntary member surveys. We encourage our m
 
 ### **Feedback**
 
-Our site\'s feedback form requires users to give us contact information like their name and email address. We use this data to tailor the visitor\'s experience at our site, showing them the content that we think they might be interested in, and displaying the content according to their preferences. The customer\'s contact information is also used to contact the visitor when necessary.
+Our site's feedback form requires users to give us contact information like their name and email address. We use this data to tailor the visitor's experience at our site, showing them the content that we think they might be interested in, and displaying the content according to their preferences. The customer's contact information is also used to contact the visitor when necessary.
 
 ### **Electronic Newsletter**
 
@@ -22,7 +22,7 @@ The site offers a free electronic newsletter to its users. We gather the e-mail 
 
 ### **Cookies**
 
-Cookies are small pieces of information that are stored in a browser-related file on your computer\'s hard drive when you use our Web site. We use cookies to improve the member experience, like allowing the member to login without typing the registered email address or registration number and password. We also use them to deliver information and fresh content specific to your interests. Cookies are widely used on most major Web sites. When you register mycbseguide.com uses a cookie to store a unique, random user ID. We do not store passwords or any personal information about you. We use this ID to identify you anonymously in our database and to track the pages you visit on our site. Cookies also enable you to enter the sites ad use services as a member without having to log on each time. If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You can refuse cookies by turning them off in your browser.
+Cookies are small pieces of information that are stored in a browser-related file on your computer's hard drive when you use our Web site. We use cookies to improve the member experience, like allowing the member to login without typing the registered email address or registration number and password. We also use them to deliver information and fresh content specific to your interests. Cookies are widely used on most major Web sites. When you register mycbseguide.com uses a cookie to store a unique, random user ID. We do not store passwords or any personal information about you. We use this ID to identify you anonymously in our database and to track the pages you visit on our site. Cookies also enable you to enter the sites ad use services as a member without having to log on each time. If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You can refuse cookies by turning them off in your browser.
 
 ### **IP Address**
 
@@ -30,7 +30,7 @@ Like most Internet sites, we use your IP address to help diagnose problems with 
 
 ### **Advertising and Third Party Links**
 
-Some mycbseguide.com advertisers and affiliate partners may request information directly from users, or link to sites that do so. mycbseguide.com has no control over its advertisers\' privacy policies, and encourages users to review such policies prior to submitting any personal information to them. mycbseguide.com contains non-advertising links to a variety of third party sites to enhance the member experience mycbseguide.com has no control of either the content or privacy policies of such sites, nor should such links be considered an endorsement of these sites except where otherwise noted.
+Some mycbseguide.com advertisers and affiliate partners may request information directly from users, or link to sites that do so. mycbseguide.com has no control over its advertisers' privacy policies, and encourages users to review such policies prior to submitting any personal information to them. mycbseguide.com contains non-advertising links to a variety of third party sites to enhance the member experience mycbseguide.com has no control of either the content or privacy policies of such sites, nor should such links be considered an endorsement of these sites except where otherwise noted.
 
 Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it and its partners to serve ads to our users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.google.co.uk/privacy_ads.html).
 
