@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the screenshotmonitor.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118232403id_/http%3A//screenshotmonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenshotmonitor.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126115903id_/http%3A//screenshotmonitor.com/privacy) for the most accurate reproduction.*
 
-# Screenshot Monitor – Employee monitoring software
+# Online employee monitoring and time tracking - Screenshot Monitor
 
 ## Privacy Policy
 
