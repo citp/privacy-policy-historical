@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojopages.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318084137id_/http%3A//www.mojopages.com/st/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojopages.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126032651id_/http%3A//www.mojopages.com/st/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ Children
 Protecting the privacy of the very young is especially important. The MOJOPAGES.COM website is not designed to attract children under the age of 13 and MOJOPAGES.COM does not knowingly collect personal information from children on our Web site. 
 
 Third Party Advertisers and External Links  
-Some MOJOPAGES.COM Web site may accept advertisements from third-party advertisers or provide links to external Web sites. Please check the privacy policy of these advertisers and site for information regarding their collection of information and use of cookies. We are not responsible for the content or privacy practices of other websites. Our partners or advertisers may use third parties to serve or present the ads that appear on our site. These third parties may place cookies on your browser when you visit our site. Any third party cookies are subject to the privacy policy of the company placing them. 
+Some MOJOPAGES.COM Web site may accept advertisements from third-party advertisers or provide links to external Web sites. Please check the privacy policy of these advertisers and site for information regarding their collection of information and use of cookies. We are not responsible for the content or privacy practices of other websites. Our partners or advertisers may use third parties to parties to collect information and serve or present the ads that appear on our site. These third parties may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These third parties may also place cookies on your browser when you visit our site. Any third party cookies are subject to the privacy policy of the company placing them. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/).
 
 Information we disclose to third parties  
 We may use aggregated information concerning how visitors use our Web site and share such information with third parties in order to improve our Web site and to help us attract advertisers and listings. For example, we may share how many individuals visited our Web site and, on average how long they stayed on each page. Such use and sharing of aggregated information will not reveal any of your personal information to third parties. 
@@ -85,4 +85,4 @@ MOJOPAGES.COM will happily address any concerns about its online privacy practic
 
 To be removed from future MOJOPAGES.COM marketing e-mail campaigns, please contact the [MojoPages Support Desk](http://mojopages.zendesk.com/anonymous_requests/new "MojoPages Support Desk"). 
 
-Effective: February 1, 2007
+Effective: February 1, 2007, Last Updated: September 7, 2012
