@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pobox.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506170416id_/http%3A//pobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pobox.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126103136id_/http%3A//pobox.com/privacy) for the most accurate reproduction.*
 
 # Pobox.com Privacy Policy
 
