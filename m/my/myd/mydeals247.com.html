@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mydeals247.com privacy policy that was archived on 2013-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620165351id_/http%3A//mydeals247.com/my_deals/privacy_policy/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mydeals247.com privacy policy that was archived on 2013-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126162220id_/http%3A//www.mydeals247.com/my_deals/privacy_policy/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Online shopping India | My deals 247 |Laptops, Cell Phones, Tablets, Apple Products, Books, ACs, Home appliances, Hotel Booking, Travel Packages and more - get the live offers from the sellers in your local city - one stop solutions to buy and sell items. </title>
@@ -23,7 +23,7 @@
   <meta property="fb:app_id" content="151157418289634">
 	
   <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="XNEVjfyENSvCHSA8u/pNRq3js4aXrF/28n09DVAoe04=">
+<meta name="csrf-token" content="WaXTTiA6wRr8HNxJqpCe6GOrgXDMxNWMPP16jvUmcOQ=">
 		<link rel="stylesheet" type="text/css" href="/stylesheets/message_skyblue.css">
 		<link rel="stylesheet" type="text/css" href="/stylesheets/jqzoom/jquery.jqzoom.css">
 		<link href="/stylesheets/nw_layout_css/layout.css" rel="stylesheet" type="text/css">
@@ -120,6 +120,7 @@
 		<script type="text/javascript" src="/javascripts/message.js"></script>
 		<script type="text/javascript" src="/javascripts/jquery.jqzoom-core.js"></script>
 		<script src="/javascripts/jquery.ui/jquery.cluetip.all.min.js"></script>
+		<script src="/javascripts/jquery.blockUI.min.js"></script>
 		
 		
 </head>
@@ -211,6 +212,17 @@
 			});
 			return false;
 		});
+		$('#notification_icon').click(function(e) {
+			$.blockUI({ css: { 
+            border: 'none', 
+            padding: '15px', 
+            backgroundColor: '#000', 
+            '-webkit-border-radius': '10px', 
+            '-moz-border-radius': '10px', 
+            opacity: .5, 
+            color: '#fff' 
+        	} }); 
+		});
 	});
 		(function($){
 			  $.fn.overlayMask = function (action) {
@@ -275,7 +287,7 @@
 	status: true,
     cookie: true,
     xfbml: true,
-	channelUrl  : 'http://www.mydeals247.com/xd_receiver.html'
+	channelUrl  : 'http://mydeals247.com/xd_receiver.html'
   });
   if($.browser.opera ) // it uses jQuery library here!
 	{
@@ -293,11 +305,8 @@
   		if (response.session) {
 			window.location.href = '/facebooks/facebook_success';
 			if (response.perms) {
-			
 				window.location.href = '/facebooks/facebook_success';
 			}
-
-			
  		 } else {
     	
   		}
@@ -319,7 +328,8 @@
 	</div>	
 	<div id="header_wrap">
 	<div id="TopSrtrip">
-	  <div id="TopLinks"><a href="/my_deals/home/home">Home</a><span id="ver_line">|</span> <a href="/my_deals/how_it_works/works">How MyDeals247 Works? </a><span id="ver_line">|</span> <a href="/my_deals/paid_ads_home/home?mode=buyer">Paid Ads</a><span id="ver_line">|</span> <a href="/my_deals/faq_home/faq">FAQ </a><span id="ver_line">|&nbsp;</span><a data-reveal-id="myModal" id="_sign_in" class="big-link" href="#"><span style="color:#FE9600;">Sign In</span></a> <span id="ver_line">|</span><a data-reveal-id="myModal_snup" class="big-link" href="#"> <span style="color:#FE9600;">Sign Up</span> </a> </div>
+	  <!-- a data-reveal-id="myModal_rdmVoucher" class="big-link" href="#"> <span style="color:#FE9600;">Redeem Voucher</span> </a -->
+	  <div id="TopLinks"><a href="/my_deals/home/home">Home</a><span id="ver_line">|</span> <a href="/my_deals/how_it_works/works">How MyDeals247 Works? </a><span id="ver_line">|</span> <a href="/my_deals/paid_ads_home/home?mode=buyer">Paid Ads</a><span id="ver_line">|</span> <a href="/my_deals/faq_home/faq">FAQ </a><span id="ver_line">|&nbsp;</span><a data-reveal-id="myModal" id="_sign_in" class="big-link" href="#"><span style="color:#FE9600;">Sign In</span></a> <span id="ver_line">|</span><a data-reveal-id="myModal_snup" class="big-link" href="#"> <span style="color:#FE9600;">Sign Up</span> </a> <span id="ver_line">|</span></div>
 	</div>
 	<!-- Start Header -->
 	<!-- don't do any thing here-->
@@ -368,7 +378,7 @@
 						Password
 					</div>
 					<div id="button">
-						<input type="submit" value="Login" id="submit" class="submit">
+						<input type="submit" value="Login" id="login_submit" class="submit">
 					</div>
 				</form>
 			</div>
@@ -382,7 +392,7 @@
 						Email
 					</div>
 					<div id="button">
-						<input type="submit" value="Submit" id="submit" class="submit">
+						<input type="submit" value="Submit" id="pwd_submit" class="submit">
 					</div>
 					<div id="button" style="left: 160px;">
 						<input type="button" value="Back to Login" id="backLogin" class="submit">
@@ -449,6 +459,7 @@ $(document).ready(function(){
 	</div>
 </div>
 
+					<!-- %=render :partial => "my_deals/rdmVoucher"% -->
 						<!-- %=render :partial => "my_deals/signup"% -->
 				<style>
 	.ui-autocomplete-loading { background: white url('/images/loading.gif') right center no-repeat; }
@@ -479,8 +490,8 @@ $(document).ready(function(){
 				return false;	
 			}
 			$('#srch_message_bar').show();
-			window.location = "/my_deals/search_books_result/search?field="+$('#bk_srch_type').val()+"&keyword="+search_keyword
-		}else if(sel_categ.toLowerCase() == 'Car rental'.toLowerCase() || sel_categ.toLowerCase() == 'Hotel Booking'.toLowerCase() || sel_categ.toLowerCase() == 'Insurance'.toLowerCase() || sel_categ.toLowerCase() == 'Bank Loans'.toLowerCase() || sel_categ.toLowerCase() == 'Flight Booking'.toLowerCase() || sel_categ.toLowerCase() == 'Real Estate'.toLowerCase()) {
+			window.location = "/my_deals/search_books_result/search?parent_id="+parent_categ_id+"&field="+$('#bk_srch_type').val()+"&keyword="+search_keyword
+		}else if(sel_categ.toLowerCase() == 'Car rental'.toLowerCase() || sel_categ.toLowerCase() == 'Hotel Booking'.toLowerCase() || sel_categ.toLowerCase() == 'CAB OR TAXI Booking'.toLowerCase() || sel_categ.toLowerCase() == 'Services OR Help Needed'.toLowerCase() || sel_categ.toLowerCase() == 'Insurance'.toLowerCase() || sel_categ.toLowerCase() == 'Bank Loans'.toLowerCase() || sel_categ.toLowerCase() == 'Flight Booking'.toLowerCase() || sel_categ.toLowerCase() == 'Real Estate'.toLowerCase()) {
 			if (buysell_categ_id == "" || buysell_categ_id == undefined){
 				dhtmlx.alert({text:"Please select a sub category",type:"alert-error"});
 				$('#buysell_cat_id').css("border", "1px solid #DD4B39");
@@ -512,7 +523,7 @@ $(document).ready(function(){
 					$('#SearchText').show();
 					$.get("/user_requests/get_srch_sub_category/1?cid=" + src, function(data) {
 						$('#_sub_category').html(data);
-						if(sel_categ.toLowerCase() == 'Car rental'.toLowerCase() || sel_categ.toLowerCase() == 'Hotel Booking'.toLowerCase() || sel_categ.toLowerCase() == 'Bank Loans'.toLowerCase() || sel_categ.toLowerCase() == 'Insurance'.toLowerCase() || sel_categ.toLowerCase() == 'Flight Booking'.toLowerCase() || sel_categ.toLowerCase() == 'Real Estate'.toLowerCase()) {
+						if(sel_categ.toLowerCase() == 'Car rental'.toLowerCase() || sel_categ.toLowerCase() == 'Hotel Booking'.toLowerCase() || sel_categ.toLowerCase() == 'CAB OR TAXI Booking'.toLowerCase() || sel_categ.toLowerCase() == 'Services OR Help Needed'.toLowerCase() || sel_categ.toLowerCase() == 'Bank Loans'.toLowerCase() || sel_categ.toLowerCase() == 'Insurance'.toLowerCase() || sel_categ.toLowerCase() == 'Flight Booking'.toLowerCase() || sel_categ.toLowerCase() == 'Real Estate'.toLowerCase()) {
 							$('#SearchText').hide();
 							$('#search_type').val('direct');
 						}else{
@@ -574,19 +585,27 @@ $(document).ready(function(){
 					<option value="">Select a Category</option>
 					 <option value="276">ACs</option>
  <option value="23">Apple Products</option>
+ <option value="1373">Automobiles &amp; Motorcycles</option>
+ <option value="35">Baby</option>
  <option value="992">Bank Loans</option>
+ <option value="2398">Beauty Products</option>
  <option value="51">Books</option>
+ <option value="1401">Business Services</option>
+ <option value="1328">CAB OR TAXI Booking</option>
  <option value="62">Cameras &amp; Camcoders</option>
  <option value="192">Car Accessories</option>
  <option value="905">Car Services</option>
  <option value="382">Cars</option>
  <option value="86">Cell Phones &amp; PDAs</option>
+ <option value="1519">Construction &amp; Real Estate</option>
  <option value="906">Educational Training</option>
+ <option value="1680">Furniture &amp; Furnishings</option>
  <option value="301">Gaming</option>
  <option value="95">Hotel Booking</option>
  <option value="1010">Insurance</option>
  <option value="275">Inverter / UPS</option>
  <option value="112">Laptops</option>
+ <option value="1921">Luggage, Bags &amp; Cases</option>
  <option value="1105">Modems &amp; Routers</option>
  <option value="223">Musical Instrument</option>
  <option value="340">Pen Drive</option>
@@ -594,6 +613,7 @@ $(document).ready(function(){
  <option value="186">Pet Suppies</option>
  <option value="371">Printers, Scanners &amp; Supplies</option>
  <option value="102">Real Estate</option>
+ <option value="1331">Services OR Help Needed</option>
  <option value="338">Sewing Machine</option>
  <option value="1075">Solar Products</option>
  <option value="213">Sports/Gym Equipments</option>
