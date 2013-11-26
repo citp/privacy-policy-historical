@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghananation.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526190821id_/http%3A//www.ghananation.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghananation.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126142317id_/http%3A//www.ghananation.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # GhanaNation.com - Privacy Policy
 
