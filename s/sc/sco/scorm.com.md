@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scorm.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516001319id_/http%3A//scorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorm.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126233226id_/http%3A//scorm.com/privacy-policy) for the most accurate reproduction.*
 
 # SCORM - Privacy Policy » SCORM -
 
@@ -53,7 +53,7 @@ Suite 300
 Franklin, TN 37067
 
 **Safe Harbor Compliance**  
-Rustici Software LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Rustici Software has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. You can learn more about the Safe Harbor program and view our certification page at the Department of Commerce site [here](http://www.commerce.gov/).
+Rustici Software LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Rustici Software has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. You can learn more about the Safe Harbor program and view our certification page at the Department of Commerce site [here](http://safeharbor.export.gov/companyinfo.aspx?id=16324).
 
 **Privacy Complaints by European Union or Swiss Citizens:**
 
