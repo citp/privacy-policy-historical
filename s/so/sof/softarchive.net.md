@@ -1,19 +1,15 @@
-> *The following text is extracted and transformed from the softarchive.net privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226033326id_/http%3A//softarchive.net/templates/imgs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softarchive.net privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126132327id_/https%3A//softarchive.net/privacy) for the most accurate reproduction.*
 
-# SoftArchive.NET - Your Privacy
+# Privacy policy - SoftArchive
 
-Softarchive.net is committed to protecting your privacy. Softarchive.net does not sell, trade or rent your personal information to other companies. Softarchive.net will not collect any personal information about you except when you specifically and knowingly provide such information.
+**Your Privacy**  
+We respect your privacy and we are committed to protect it. We don't sell, share, and show your personal information without your prior permission or written consent or unless required by law. We never collect any information about you except those specifically provided by you or limited information that the browser made available when you visited our site, for example, the IP address while you are on the site, visiting time, the link clicked, the browser type, and cookies.
 
-By using our Web site, you consent to the collection and use of this information by Softarchive.net. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, Softarchive.net may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
+**Third Party Websites**  
+We cooperate with third-party companies even when you visit our site. We need these companies to provide us with some site audience and visits details, and they may see and use information about your visits. It bears no relation to your personal data, such as your name, email address or telephone number.
 
-## Third Party Advertising
+**Third Party Cookies**  
+We use cookies to store your choices and preferences.
 
-We use ClickHype and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.
-
-## Third Party Cookies
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
-
-## Modification of Privacy Policy
-
-Softarchive.net reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.
+**Privacy Policy Changes**  
+We have all rights to change, alter or modify our privacy policy at any time without prior notice. We will immediately post changes on this page and let you get acquainted with them.
