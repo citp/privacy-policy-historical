@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnh.org privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609174105id_/http%3A//www.amnh.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnh.org privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126124028id_/http%3A//www.amnh.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
