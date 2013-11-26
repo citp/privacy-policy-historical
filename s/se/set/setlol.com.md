@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the setlol.com privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308103346id_/http%3A//setlol.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setlol.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126131742id_/http%3A//www.setlol.com/privacy.php) for the most accurate reproduction.*
 
 # setLOL - Lets begin the fun
 
