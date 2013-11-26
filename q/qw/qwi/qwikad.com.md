@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qwikad.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602112345id_/http%3A//qwikad.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwikad.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126073200id_/http%3A//qwikad.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# US classifieds - qwikad.com
+# qwikad.com - online US classifieds
 
 ## Privacy Policy
 
