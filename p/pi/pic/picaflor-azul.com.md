@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the picaflor-azul.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602100325id_/http%3A//www.picaflor-azul.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picaflor-azul.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126232304id_/http%3A//www.picaflor-azul.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : Custom Zen Cart Design, Ecommerce Web Design, Zen Cart Templates, by Picaflor Azul
+# Privacy Notice : Zen Cart, Zen Cart Templates, Ecommerce Web Design, by Picaflor Azul
 
 At Picaflor Azul, your privacy is our priority. We are committed to protecting your privacy at all times, in all situations. The information we collect about you when you become a member is used to process your orders and to provide a more personalized experience on our site. Our site uses a 128 bit encrypted SSL to increase the security of our customer’s information. However, we Picaflor Azul do not guarantee complete security on stored information, however, we have installed and applied our encrypted pages and installed our SSL certificate to prevent stolen information. 
 
@@ -36,8 +36,7 @@ From time to time we may send out email messages alerting you that products are 
 
 ### Legal Disclaimer
 
-  
-
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site 
 
 ### Supplementation
 
