@@ -1,79 +1,64 @@
-<!--The following is the downloaded HTML source of the revelri.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227220245id_/http%3A//www.revelri.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the revelri.com privacy policy that was archived on 2013-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131126093937id_/http%3A//www.revelri.com/page/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!DOCTYPE html><html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<title>Page</title>
-
-		<!-- For cometchat only starts -->
-		<link type="text/css" href="/cometchat/cometchatcss.php" rel="stylesheet" charset="utf-8">
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/cometchat/cometchatjs.php" charset="utf-8"></script>
-		<!-- For cometchat only ends -->
+		<title>Revelri | Privacy</title>
 		
 		<link rel="icon" type="image/png" href="/images/favicon.png">
-		<link href="/css/stylesite.css" rel="stylesheet" type="text/css">
+		<link type="text/css" href="/css/stylesite.css" rel="stylesheet">
+		<link type="text/css" rel="stylesheet" href="/css/uniform.default.css" media="screen">
+		<!--link type="text/css" href="/js/jquery-ui-1.8.8.custom/css/ui-lightness/jquery-ui-1.8.8.custom.css" rel="stylesheet" /-->
+		<link type="text/css" href="/css/jquery-ui.css" rel="stylesheet">
 		<link rel="stylesheet" href="/css/jRating.jquery.css" type="text/css">
 		
-		<script type="text/javascript" src="/js/jquery-latest.min.js"></script>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-latest.min.js"></script>
 		<script type="text/javascript" src="/js/jquery.formHighlighter.js"></script><!--  -->
 		<script type="text/javascript" src="/js/init.js"></script>
-		<script type="text/javascript" src="/js/jRating.jquery.js"></script>
-
-		<script type="text/javascript" src="/js/search.js"></script>
 		<script type="text/javascript" src="/js/homepage.js"></script>
 		<script type="text/javascript" src="/js/utility.js"></script>
 		<script type="text/javascript" src="/js/encode_decode.js"></script>
+		<script type="text/javascript" src="/js/jquery.autosize.js"></script>
+		<script type="text/javascript" src="/js/ui.checkbox.js"></script>
+		<script type="text/javascript" src="/js/jquery.uniform.js" charset="utf-8"></script>
+		<script type="text/javascript" src="/js/jquery-ui.js"></script>
+		<script type="text/javascript" src="/js/smoothscroll.js" charset="utf-8"></script>
 		<script type="text/javascript" src="/js/protect.js"></script>
 		<script type="text/javascript" src="/js/jquery.autosize.js"></script>
+		<script type="text/javascript" src="/js/jquery.tools.min.js"></script>
 		
-		<!-- Include scripts for credit system starts -->
-		<script type="text/javascript" src="/js/credit_system.js"></script>
-		<!-- Include scripts for credit system ends -->
+		
+		<!-- Include scripts for challenge -->
+		<script type="text/javascript" src="/js/challenge.js"></script>
+		<!-- Include scripts for challenge -->
 		
 		<!--[if lt IE 8]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 		<!--[if lt IE 7]><style type="text/css">.tab ul li a span{bottom:-12px;}</style><![endif]-->
 		
 		<script>
-			var host = 'revelri.com';
+			var host = 'www.revelri.com';
 			var path = '/';
+		</script>
+		
+		<script type="text/javascript" charset="utf-8">
+		  $(function(){
+			$("input[type=radio]").uniform();
+		  });
 		</script>
 		
 		<script type="text/javascript">
 			$(document).ready(function()
 			{
-					$('textarea').autosize();
-				$("a#show-panel").click(function(){
-					$("#lightbox, #lightbox-panel").fadeIn(300);
-				})
+				$('#newcommenttxt').autosize();
 				
-				$("a#close-panel").click(function(){
-					$("#lightbox, #lightbox-panel").fadeOut(300);
-				})
-				
-				$('.rating').jRating({
-					step:true,
-					length : 10,
-					decimalLength:1,
-					rateMax:10,
-					rateInfosX : -5,
-					rateInfosY : -42,
-					onSuccess : function(){
-					rating_point( $('#useractionid').val() );
-					},
-					onError : function(){
-						alert('Error : please retry');
-					}
-				});
-				
-				$('a.rate-close').click(function(){
-					$(this).parent().hide();
-					$(this).parent().prev().show();
-					return false
-				});
+				$('textarea').autosize();
+				$("input[type=radio], textarea, select").uniform();
 			});
 		</script>
+		
 		<script type="text/javascript">
-			
+
 		  var _gaq = _gaq || [];
 		  _gaq.push(['_setAccount', 'UA-34930044-1']);
 		  _gaq.push(['_trackPageview']);
@@ -83,14 +68,13 @@
 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		  })();
-			
+
 		</script>
-</head>
-<body onkeypress="escCheck(event);">
-<!--header-end-->
- <div id="lightbox"></div><!-- /lightbox -->
- 	
-<!-- Header starts -->
+	</head>
+	
+	<body onkeypress="escCheck(event);">
+		<!-- Header starts -->
+		<!-- Header starts -->
 <header class="header_wrap">
 	<div class="header">
 				
@@ -99,37 +83,41 @@
 <!-- Header left secction starts -->
 <div class="header_left fltleft">
 	<div class="logo fltleft">
-		<a href="/"><img src="/images/img/logo.png" alt=""></a>
+		<a name="" href="/"><img src="/images/img/logo.png" alt=""></a>
 	</div>
 	
-	<!-- Revelri header search section starts -->
-	<div class="search_area fltright">
-		<form action="/search/index" id="frmHeaderSearch" onsubmit="return Search.searchForm();" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div>			<div>
-				<input name="data[Search][keyword]" id="keyword" maxlength="200" class="search_field defaultSearchBoxTxtColor" style="border: 0 none; box-shadow: none;" autocomplete="off" value="Search Revelers" onfocus="Search.showDefaultText(this, 'Search Revelers', false);" onblur="Search.showDefaultText(this, 'Search Revelers', true);" onkeyup="Search.ajaxSearch(this.value, event);" type="text">				<input id="btnHeaderSearch" name="btnHeaderSearch" type="submit" class="search_button" value=".">
-			</div>
-			<div id="ajaxSearchResultDiv" class="search_result_container" style="display: none;"></div>
-		</form>	</div>
-	<!-- Revelri header search section ends -->
+		
 	<div class="clear"></div>
 </div>
 <!-- Header left secction ends -->		<!-- Header left secction ends -->
 		
+				
 				<div class="clear"></div>
 		
-		<div class="successfully_activated" style="display:none;">
-			<div id="successfully_activated_msg">Your Profile has been successfully  Activated</div>
+		<!-- Header Message starts -->
+				
+		<input type="hidden" id="hdnHeaderMessage" name="hdnHeaderMessage" value="">
+		<div class="successfully_activated" style="display: none;">
+			<div id="successfully_activated_msg"></div>
 			<a href="javascript:void(0);" onclick="jQuery('.successfully_activated').hide();"></a>
 		</div>
+			
+	   
+		<!-- Header Message ends -->
 	</div>
 </header>
 <!-- Header ends -->
 
-<div class="spacer"></div>
-<div class="content">
-	<!--content-start-->
-	<!--content-start-->
-		<section class="content_middle fltleft">
-    <div class="comments_middle">
+<div class="spacer">
+	<a name="top"></a>
+</div>
+		<!-- Header ends -->
+
+		<!--div class="spacer"></div-->
+		<div class="content">
+			<!-- Content starts -->
+			<section class="content_middle fltleft" style="width: 100%;">
+    <div class="comments_middle" style="width: 100%;">
 		<!-- Other pages top section starts -->
 		<!-- <div class="synergy_top_block">
       		<h2>Synergy</h2>
@@ -148,8 +136,8 @@
 		</div> -->
 		<!-- Other pages top section ends -->
 		
-		<div class="synergy_main_box getmarg7">
-			<div class="synergy_blog">
+		<div class="synergy_main_box getmarg7" style="width: 98%;">
+			<div class="synergy_blog" style="width: 100%;">
 				<div> <!--  class="sunergy_heal" -->
 					<div>
 	<span style="color:#cc3399;"><strong><span style="font-size: 24px;">Privacy Policy</span></strong></span></div>
@@ -250,26 +238,18 @@
 <div id="lightboxL"></div>
 <div id="lightbox-invite"></div>
 
-<div id="lightbox-panel4"></div>		
-	
-	<div class="clear">
-	</div>
-</div>
-		
-		<!-- Light box panel starts -->
-		<div id="creditSystem-Lightbox_BG"></div>
-		<div id="creditSystem-Lightbox_Main"></div>
-		<!-- Light box panel ends -->
+<div id="lightbox-panel4"></div>			<!-- Content ends -->
+		</div>
 		
 		
-		<!-- Light box panel starts -->
-		<div id="sendCredit-Lightbox_BG"></div>
-		<div id="sendCredit-Lightbox_Main"></div>
-		<!-- Light box panel ends -->
+		<!-- Light box panel for people at particular Level starts -->
+		<div id="getMoreAtlevel-Lightbox_BG"></div>
+		<div id="getMoreAtlevel-Lightbox_Main"></div>
+		<!-- Light box panel for people at particular Level ends -->
 		
-		
-<!--content-end-->
-<footer class="footer_wrap"> 
+		<div class="clear"></div>
+		<!-- Footer starts -->
+		<footer class="footer_wrap"> 
 	<div class="footer">
 		<div class="design1"> <img src="/images/img/design1.png" alt=""> </div>
 		<div class="design2"> <img src="/images/img/design2.png" alt=""> </div>
@@ -313,6 +293,29 @@
 		<div class="clear"></div>
 	</div>
 </footer>
-<!--footer-end--><!--footer-end-->
+<!--footer-end-->
 
+
+<!---Badge Popup--->
+<div class="popup pie" style="width:943px; margin-left: -475px;">
+			<div class="popup_title"><h2>List Of Badges You Can Earn</h2></div>
+		
+	<div class="popup_box">
+    	<p>
+							Here is a list of all the available Badges on Revelri.
+					</p>
+		
+        <div class="logo_box">
+        	
+        </div>
+    </div>
+	
+    <div class="close close3"><a href="#"><img src="/images/img/close_lightbox.png" alt=""></a></div>
+    <div class="right_arrow2"><a href="#"><img src="/images/img/right_arrow2.png" alt=""></a></div>
+</div>
+<div class="trans"></div>
+
+<a class="move_top" href="#top"><img src="/images/img/move-top.png" alt=""></a>		<!-- Footer ends -->
+		
+			
 </body></html>
