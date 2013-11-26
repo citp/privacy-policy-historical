@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the gifthulk.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516003427id_/http%3A//www.gifthulk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifthulk.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126071906id_/http%3A//www.gifthulk.com/privacy-policy) for the most accurate reproduction.*
 
-# GiftHulk | Privacy Policy
+# Privacy Policy - GiftHulk
 
 By using GiftHulk.com or creating a member account, you consent to the data practices prescribed in this Privacy Policy. The Company’s Privacy Policy governs the privacy guidelines for the GiftHulk.com. Please note that this policy applies only to the GiftHulk.com sites, and not to the sites of other companies or organizations to which we provide links.
 
-**General**
-
+**General**  
 GiftHulk collects limited non-personally identifying information and records information from your computer and browser, including your IP address, the date and time of your query, GiftHulk cookie information, software and hardware attributes, and the page you request. We use this information to operate, develop and improve our services.
 
-**User personal information**
-
+**User personal information**  
 “Personal Information” means any information that may be used to identify an individual, including, but not limited to, first and last name, home or other physical address, an email address, phone number, or other contact information, whether at work or at home.
 
 In a few areas on our website, in providing services and through online customer support tools, we may ask you to provide Personal Information that will enable us to enhance your use of the website or for purposes such as facilitating correspondence with you, registering your entitlement to access certain special features of the website, or to complete transactions. It is always your choice whether or not to provide that Personal Information. If you choose not to provide requested Personal Information, you may not be able to use certain features of the website.
@@ -22,53 +20,42 @@ Except as described in this policy, the Personal Information you provide will be
 
 Periodically, we may send you information about our various products and services, or other products and services we feel may be of interest to you. These mailings may be sent electronically or in physical form. Only the Company (or agents or contractors working on behalf of the Company and under confidentiality agreements, or other Members) will send you these mailings. You can opt-out of receiving further marketing from the Company by following the instructions in the Opt-out paragraph in this Privacy Policy, below.
 
-**Updating your personal information**
-
+**Updating your personal information**  
 To update any of your personal information or to change any of your marketing preferences, you may update your personal information through the website by logging in and accessing the “My Profile” area.
 
-**Support and Contact**
-
+**Support and Contact**  
 If you contact GiftHulk, we may keep a record of that correspondence and we may collect your email address for archival purposes but will not use, transfer or sell your email address.
 
-**Third-party information gathering**
-
+**Third-party information gathering**  
 The GiftHulk website contains links to other sites on the Web. Please be aware that GiftHulk is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy policy applies solely to information collected by GiftHulk.
 
-**Cookies**
-
+**Cookies**  
 GiftHulk.com may set and access cookies on your computer. A cookie is a small data file that a Web site may send to your browser and which may then be stored on your system. We use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. We use cookie and web beacon technology to track which pages on the GiftHulk.com Site our visitors view and which Web browsers our visitors use.
 
 Cookies help us track your responses to our market research surveys, to record statistics behind special offers, however, we will never share such personally identifiable information with third parties except as set forth below under “Sharing.”
 
-**Sharing**
-
+**Sharing**  
 Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law, where we have a good-faith belief that such action is necessary to comply with a judicial proceeding or administrative legal, a criminal investigation, a court order, or legal process served on our Web site. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of GiftHulk.com, or as otherwise required by law.
 
-**Business Transitions**
-
+**Business Transitions**  
 In the event GiftHulk.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred, unless such a transfer will violate state or federal law.
 
-**Opt-Out**
+**Opt-Out**  
+You may unsubscribe from offers and other communications from the Company by opening [Support ticket](http://www.gifthulk.com/support/) at or by emailing us at [GiftHulk Contact Email](mailto:contactus@GiftHulk.com). We will process your request for removal within 10 business days, although we attempt to process it within 24 hours.
 
-You may unsubscribe from offers and other communications from the Company by following the instructions that we include at the end of every mailing or by emailing us at [contact@gifthulk.com](mailto:contact@gifthulk.com). We will process your request for removal within 10 business days, although we attempt to process it within 24 hours.
-
-### CHANGES TO THIS PRIVACY POLICY
-
+**CHANGES TO THIS PRIVACY POLICY**  
 GiftHulk may update this policy. We will notify you about significant changes in the way we treat personal information by placing a prominent notice on our site.
 
-## GiftHulk / Conduit Toolbar:
-
+**GiftHulk / Conduit Toolbar:**  
 This privacy policy governs your use of a software application (“Application”) that was created using the Conduit Platform (http://www.conduit.com/) by GiftHulk (“Publisher”). The Application includes various features and content that are offered and delivered to you by the Publisher, such as: news, messages, games, and more as well as features and content that you may choose to add.
 
 Conduit is committed to protecting your privacy and safety rights while using the Application. Conduit does not collect any personal information from you other than as described in this policy and enforces strict privacy policies. Conduit requires the Publisher and third parties that may provide you with content, to protect your privacy rights and maintain the following privacy practices:
 
-  1. No Spyware Policy \- the Application does NOT collect or transmit Personally Identifiable Information and does not monitor your personal use of the Application. Personally Identifiable Information means information that would identify you personally.The Application sends unidentifiable and non-personal statistical data to enable quality assurance and improve support processes. Such non-personal data includes unidentifiable and general usage of the Application (for example; statistical usage data can be sent if you open or close the Application but not personal information you may share via the Application) but does not include Personally Identifiable Information, other than as specifically described herein. You may choose not to send such statistical data at any time from the Options dialog box of the Application. Conduit strives to provide you information and services that you will find useful and interesting.
-  2. Third Party Features and Content \- the Publisher or you may choose to add features or content to the Application. In the event that such features or content may require the collection of your personally identifiable information (for example: your login credentials to a third party website, information about content you use on the web, etc.) the Publisher or the third parties providing the content must present to you a clear disclosure of the information that will be collected and you should have the opportunity to decide whether or not to share such information or alternatively not use or remove the content. Conduit encourages you to read the terms of service and privacy policies offered by the Publisher and the third parties prior to using any of their content or features.You may choose to add additional content and features to the Application as part of your ongoing usage. Conduit encourages you to read the terms of service and the privacy policy of any such content before you choose to add it to the Application.You may also choose to activate additional features that provide you with the ability to update and use your favorite social networks. During such activation you will be asked to grant Conduit permission to collect certain information from such social network systems. If you elect to permit Conduit to access this information, Conduit will be able to see and to use such information regardless of your privacy settings with such social network service. Such information may include friends or contacts lists, notes and updates and photos. Such information may be used by Conduit to help you personalize your Application or suggest new features and content that may be relevant to you. Such information will be protected by Conduit in accordance with its strict privacy policies [as can be seen here - http://www.conduit.com/privacy] We urge you to read this policy in its entirety, but it is important to note that Conduit does not sell or rent any personal information we collect to any third parties.
-  3. No Adware Policy \- You will not be required to view obtrusive ads in order to use the application.
-  4. Unobtrusive \- the Application does not enable other software applications to access data stored on your computer’s hard drive or in your personal online accounts. Changing your web search preferences, modifying web pages that you visit or accepting third party offers is not required in order to use the Application. You may voluntarily opt to change your search preferences (if applicable), add components or accept notifications, offers or other features from your Publisher.
-  5. Easy uninstall \- you can easily uninstall the Application at any time by using standard uninstall processes as may be available as part of your operating system, your internet browser or similar software uninstall options (for example: add/remove programs in Windows, Add-on removal in Firefox, etc.).
-  6. Easy deactivation \- you can easily deactivate your Application at any time by using the standard deactivation features available in your internet browser (for example: by clicking the “View” menu in your browser selecting the name of the Application and then clicking on it).
-  7. Full control \- you have full control over the Application and can modify your preferences at any time (including the components and features you have added to the Application), from the Options dialog box of the Application.
-  8. Report \- The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have a reason to believe that your rights have been infringed upon while using the Application, please contact Conduit via email at Privacy@conduit.com . Once your e-mail is received, Conduit will review it to ensure that the privacy practices provided herein are enforced.
-
-
+No Spyware Policy – the Application does NOT collect or transmit Personally Identifiable Information and does not monitor your personal use of the Application. Personally Identifiable Information means information that would identify you personally.The Application sends unidentifiable and non-personal statistical data to enable quality assurance and improve support processes. Such non-personal data includes unidentifiable and general usage of the Application (for example; statistical usage data can be sent if you open or close the Application but not personal information you may share via the Application) but does not include Personally Identifiable Information, other than as specifically described herein. You may choose not to send such statistical data at any time from the Options dialog box of the Application. Conduit strives to provide you information and services that you will find useful and interesting.  
+Third Party Features and Content – the Publisher or you may choose to add features or content to the Application. In the event that such features or content may require the collection of your personally identifiable information (for example: your login credentials to a third party website, information about content you use on the web, etc.) the Publisher or the third parties providing the content must present to you a clear disclosure of the information that will be collected and you should have the opportunity to decide whether or not to share such information or alternatively not use or remove the content. Conduit encourages you to read the terms of service and privacy policies offered by the Publisher and the third parties prior to using any of their content or features.You may choose to add additional content and features to the Application as part of your ongoing usage. Conduit encourages you to read the terms of service and the privacy policy of any such content before you choose to add it to the Application.You may also choose to activate additional features that provide you with the ability to update and use your favorite social networks. During such activation you will be asked to grant Conduit permission to collect certain information from such social network systems. If you elect to permit Conduit to access this information, Conduit will be able to see and to use such information regardless of your privacy settings with such social network service. Such information may include friends or contacts lists, notes and updates and photos. Such information may be used by Conduit to help you personalize your Application or suggest new features and content that may be relevant to you. Such information will be protected by Conduit in accordance with its strict privacy policies [as can be seen here - http://www.conduit.com/privacy] We urge you to read this policy in its entirety, but it is important to note that Conduit does not sell or rent any personal information we collect to any third parties.  
+No Adware Policy – You will not be required to view obtrusive ads in order to use the application.  
+Unobtrusive – the Application does not enable other software applications to access data stored on your computer’s hard drive or in your personal online accounts. Changing your web search preferences, modifying web pages that you visit or accepting third party offers is not required in order to use the Application. You may voluntarily opt to change your search preferences (if applicable), add components or accept notifications, offers or other features from your Publisher.  
+Easy uninstall – you can easily uninstall the Application at any time by using standard uninstall processes as may be available as part of your operating system, your internet browser or similar software uninstall options (for example: add/remove programs in Windows, Add-on removal in Firefox, etc.).  
+Easy deactivation – you can easily deactivate your Application at any time by using the standard deactivation features available in your internet browser (for example: by clicking the “View” menu in your browser selecting the name of the Application and then clicking on it).  
+Full control – you have full control over the Application and can modify your preferences at any time (including the components and features you have added to the Application), from the Options dialog box of the Application.  
+Report – The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have a reason to believe that your rights have been infringed upon while using the Application, please contact Conduit via email at [Privacy@conduit.com](mailto:Privacy@conduit.com). Once your e-mail is received, Conduit will review it to ensure that the privacy practices provided herein are enforced.
