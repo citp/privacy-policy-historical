@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelexpertguide.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527105441id_/http%3A//www.travelexpertguide.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelexpertguide.org privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127213047id_/http%3A//www.travelexpertguide.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | TravelExpertGuide
 
