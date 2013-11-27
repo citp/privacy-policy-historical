@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520045234id_/http%3A//www.aegon.co.uk/Footer/Privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127140933id_/http%3A//www.aegon.co.uk/Footer/Privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy | Aegon UK
 
@@ -6,7 +6,7 @@ Aegon's policy on data protection and privacy
 
 This privacy statement sets out how Aegon UK uses and protects any personal information that you give us when you use this website. Depending on the part of the website you’re visiting, the data controller for any personal information you give us is either Scottish Equitable plc or Aegon Investment Solutions Ltd (both of which trade as Aegon).
 
- **Cookies - for information on what cookies are used on our websites and how to manage them, visit our** [cookies page](http://shared.aegon.co.uk/cookies)
+**Cookies - for information on what cookies are used on our websites and how to manage them, visit our** [cookies page](http://shared.aegon.co.uk/cookies)
 
 ## Purpose of websites
 
@@ -119,6 +119,10 @@ Our websites use cookies and by using our sites you accept the terms under which
 
 You can also find more information about cookies at independent site [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/)
 
+## Social Media
+
+Aegon UK uses social media, to find out about our policy please visit our Aegon UK social media participation [policy page](http://www.aegon.co.uk/Social/index.htm)
+
 ## Third-party use of information
 
 You do have the option to transfer to websites that have links on our sites. If you choose to use one of these links, you may be asked for separate login IDs and passwords for these services. We won’t hold on to any information to do with that transfer.
@@ -127,7 +131,7 @@ You do have the option to transfer to websites that have links on our sites. If 
 
 We’re committed to ensuring your information is protected and held securely. However, the internet is not a secure medium and we can’t accept responsibility for the security of an email during transmission or for non-delivery of that email.
 
-There are a few simple steps you can take to protect your computer and internet connection – [view our tips here](https://web.archive.org/web/20130520045234id_/http%3A//www.aegon.co.uk/Footer/Privacy/ssNODELINK/16305).
+There are a few simple steps you can take to protect your computer and internet connection – [view our tips here](https://web.archive.org/web/20131127140933id_/http%3A//www.aegon.co.uk/Footer/Privacy/ssNODELINK/16305).
 
 We currently operate our security requirements through our security policy:
 
@@ -135,7 +139,7 @@ We currently operate our security requirements through our security policy:
   * All members of staff, including temporary members of staff, sign confidentiality agreements to make sure they treat the information with respect.
   * Staff can only access the systems that they need to do their job.
   * We make sure that personal information is only passed to those people and organisations that are entitled to know. We check to confirm that people are who they say they are, and that these organisations or people are allowed to have access to this information. Every business area has its own verification checks that relate to the data held and types of people who may need access.
-  * Staff are required to complete computer based training in data protection every two years. This makes sure that members of staff know how to treat personal information and the risks involved if it’s poorly treated.
+  * Staff are required to complete computer based training in data protection every year. This makes sure that members of staff know how to treat personal information and the risks involved if it’s poorly treated.
 
 
 
