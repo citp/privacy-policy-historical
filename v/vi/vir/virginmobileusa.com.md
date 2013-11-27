@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmobileusa.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901134340id_/http%3A//www.virginmobileusa.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobileusa.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127075600id_/http%3A//www.virginmobileusa.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Virgin Mobile USA
 
@@ -52,7 +52,7 @@ It is possible that Virgin Mobile or its partners could be acquired by or merged
 
 If you are a Virgin Mobile customer, you may change the personal information you have elected to share with us. You also have choices in the types of communications you wish to receive from us. When you activated your device, your notification preferences were set to receive notices about special offers, events and promotions from Virgin Mobile and special offers from our partners.
 
-If you are a Virgin Mobile customer with a No Annual Contract account, to change your notification settings, or to change any of your personal information, click [here](https://www.virginmobileusa.com/myvirginmobile/home.do) to log in to your Virgin Mobile account and go to the "My Account" page (then select Account Info and then Contact Info).
+If you are a Virgin Mobile customer with a No Annual Contract account, to change your notification settings, or to change any of your personal information, click [here](https://www.virginmobileusa.com/myaccount/home.do) to log in to your Virgin Mobile account and go to the "My Account" page (then select Account Info and then Contact Info).
 
 If you are a Virgin Mobile customer with a Contract account, to change your notification settings, or to change any of your personal information call 888-884-3546.
 
@@ -70,13 +70,12 @@ Virgin Mobile is concerned about the safety and privacy of children who use the 
 
 If we become aware that a child under 13 has or has attempted to provide us with personally identifiable information, we will use our best efforts to remove such information from our files. If a parent or guardian becomes aware that his or her child has done this, he or she should contact the following customer care agent to remove this information: 
 
-  * Customer Resolutions
-  * Virgin Mobile USA, L.P.
-  * 10 Independence Blvd.
-  * Warren, NJ 07059
-  * Telephone: (866) 794-8049 (toll-free)
-  * Fax: (908) 607-4121
-  * [execescalations@virginmobileusa.com](mailto:execescalations@virginmobileusa.com)
+  * Virgin Mobile - Office of Privacy
+  * Legal Department - Sprint
+  * P.O. Box 4600
+  * Reston, Virginia 20195
+  * [officeofprivacy@sprint.com](mailto:officeofprivacy@sprint.com)
+  * Fax: 703-433-8025
 
   
 
