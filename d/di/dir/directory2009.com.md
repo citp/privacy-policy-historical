@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directory2009.com privacy policy that was archived on 2012-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120215075516id_/http%3A//directory2009.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directory2009.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127014203id_/http%3A//www.directory2009.com/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
