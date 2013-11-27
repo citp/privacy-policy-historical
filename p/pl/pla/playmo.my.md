@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playmo.my privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114063222id_/http%3A//playmo.my/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playmo.my privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127094430id_/http%3A//playmo.my/policy.html) for the most accurate reproduction.*
 
 # PLAYMO - Privacy Policy
 
