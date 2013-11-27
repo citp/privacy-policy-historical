@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manycam.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629015543id_/http%3A//www.manycam.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manycam.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127144208id_/http%3A//www.manycam.com/privacy_policy) for the most accurate reproduction.*
 
 # ManyCam Privacy Policy
 
@@ -10,7 +10,9 @@ ManyCam abides by the safe harbor framework as set forth by the U.S. Department 
 
 ## Information Collection
 
-As is true of most websites, we gather information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click-stream data. We use this information, which does not identify individual visitors, to analyze trends, to administer the website, to track visitors' movements around the site and to gather information about the geographic location of our visitors as a whole. We do not collect Personally Identifiable Information ("PII") about our visitors at this website. No further information regarding our website visitors, other than the browser-level information described above, is collected at this website in any manner whatsoever or for any purpose. 
+As is true of most websites, we gather information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click-stream data. We also gather data from Google's Interest-based advertising and 3rd-party audience data (such as age, gender and interests) with Google Analytics. We use this information, which does not identify individual visitors, to analyze trends, to measure visitor usage and interest, to administer and improve the functionality of the website, to track visitors' movements around the site and to gather information about the geographic location of our visitors as a whole. We do not collect Personally Identifiable Information ("PII") about our visitors at this website. No further information regarding our website visitors, other than the browser-level information described above, is collected at this website in any manner whatsoever or for any purpose. 
+
+Unless a user has opted out by modifying his/her preferences, upon registration, we may use any e-mail address that we are provided with to notify users of the existence of new contents or promotions in areas concerning which they have expressed an interest. You may request that we stop sending you such notices, at any time thereafter, by following the instructions mentioned in our e-mails. 
 
 ManyCam Pro users enter their email address, postal address, and billing data to purchase our software. This data (minus the billing data) is linked to the ManyCam Pro customer's private Pro serial/activation number and the customer's full name, email address, city, state, country, and postal code appears in the ManyCam Pro "About" window. ManyCam Pro user info is sometimes held on our servers and is encrypted. We never store or access any user credit card or any type of payment system billing data on our servers. ManyCam uses professional third party encrypted and secure billing services for billing transactions like Cleverbridge.com or Paypal.com. 
 
@@ -22,7 +24,12 @@ We use cookies to enhance your online experience and to learn about how you use 
 
 ## Sharing of Information
 
-As described above, no information other than the browser-level information, and the information recorded by the cookie (IP address, browser type and language, and the date and time of your request for information) is captured by visiting our website. The browser-level information and information recorded by the cookie is not shared with any third party. 
+ManyCam does not and will not rent, sell, or share personal information about you with other people or nonaffiliated companies, except to provide products or services you have requested, with your permission, or under the following circumstances: 
+
+  * From time to time, we may provide some of the personal information that we collected to trusted business partners that work on behalf of or with ManyCam under confidentiality agreements which cover our users’ personal information as well as guarantees that our partner provides the same level of protection to your information as our organization does. As the case may be, such business partners may use your personal information to help ManyCam communicate with you about our offers and those of our marketing partners. However, our business partners do not have any independent right to share or otherwise use your information; 
+  * We may also share your personal information if we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of ManyCam’s terms of use, or as otherwise required by law; 
+
+
 
 ## Policy Changes
 
@@ -31,9 +38,10 @@ We reserve the right to modify this Privacy Policy at any time. If we decide to 
 ## Contact Information
 
 If you have any questions or suggestions regarding our Privacy Policy, please contact us at:  
-ManyCam LLC  
-400 West 15th Street  
-Suite 710  
-Austin, Texas 78701
+Visicom Media Inc  
+6200 Taschereau  
+Suite 304  
+Brossard QC Canada  
+J4W 3J8
 
 Email: 
