@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desimusic.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501202417id_/http%3A//ww.smashits.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desimusic.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127140703id_/http%3A//ww.smashits.com/privacy-policy.html) for the most accurate reproduction.*
 
-# SmasHits.com: Bollywood Hindi Tamil Telugu Indian Music Songs Soundtracks Movie Videos Film and News
+# SmasHits.com: Indian Music Bollywood Hindi Tamil Telugu Songs Movie Soundtracks Videos and News
 
   
 Updated May 24, 2011 **OUR PRIVACY POLICY**
