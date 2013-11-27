@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amarnatok.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528173759id_/http%3A//www.amarnatok.com/%3Fpage%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amarnatok.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127160917id_/http%3A//www.amarnatok.com/%3Fpage%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # AmarNatok.com - FREE Bangla Natoks, Drama Serials, Ittadi, Recipes! - AMARNATOK.COM - PRIVACY POLICY
 
