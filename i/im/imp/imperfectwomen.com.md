@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imperfectwomen.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526225131id_/http%3A//imperfectwomen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imperfectwomen.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127162202id_/http%3A//imperfectwomen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Imperfect Women | Celebrity, Style, Women's Health, Relationships, Career, Parenting, Women, Food and Politics
+# Privacy Policy | Imperfect Women | Celebrity, Style, Women’s Health, Relationships, Career, Parenting, Women, Food and Politics
 
 **What information do we collect?**
 
