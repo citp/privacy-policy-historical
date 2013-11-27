@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xat.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620111651id_/http%3A//www.xat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xat.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127043054id_/http%3A//xat.com/privacy.html) for the most accurate reproduction.*
 
 # xat privacy policy
 
