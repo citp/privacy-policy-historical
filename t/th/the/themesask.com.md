@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themesask.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420053041id_/http%3A//www.themesask.com/cms.php%3Fpage%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesask.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127132557id_/http%3A//www.themesask.com/cms.php%3Fpage%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # Find WordPress themes, Web Templates, Joomla Templates, Drupal themes | ThemesAsk
 
