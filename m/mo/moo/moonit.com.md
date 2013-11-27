@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moonit.com privacy policy that was archived on 2013-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130205023559id_/http%3A//moonit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moonit.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127145905id_/http%3A//moonit.com/privacy) for the most accurate reproduction.*
 
-# Moonit
+# Privacy Policy
 
 Moonit LLC ("Moonit," "we" or "our company") has created this privacy policy to demonstrate our commitment to privacy which governs our flagship Website Moonit.com. We realize the importance of feeling safe online and want you to feel comfortable using our personalized services and exchanging information on Moonit.com. We are committed to protecting your personal information and will take reasonable steps to see that this privacy policy is followed within our company. The statement below outlines the privacy practices solely for the Website located at www.Moonit.com and not for any other product or service. This Privacy Policy is incorporated into, and subject to, the terms and conditions of our Terms of Service. All capitalized terms not defined in this Privacy Policy will have the meaning set forth in the Terms of Service.
 
@@ -17,6 +17,8 @@ The personally identifiable information voluntarily provided by you is used and 
 2\. send you promotional offers for various products and services via email;  
 3\. permit our vendors and contractors to access your information, but they are only allowed to use such personal information in connection with the services they provide for the Website; or  
 4\. enable you to post and transmit information about yourself at your discretion.  
+5\. allow you to purchase premium services by agreeing to authorize our third party provider Stripe to accept your secure credit card and debit card payments; you can reference their Privacy provisions here: https://stripe.com/us/privacy.
+
 We may also obtain information about you from third parties and use that information to enhance the information that we already have about you. For instance, if we just have your name and email address, we may use a third party to obtain your telephone number and physical address. All of the combined information will be used in accordance with this policy.  
 Please note that we reserve the right to access and/or disclose personal information and non-personal information we gather as required by courts or administrative agencies and to the extent required to permit us to investigate suspected fraud, harassment or other violations of any law, rule or regulation, our Website's Terms of Service, or the rights of third parties or to investigate any suspected conduct which we deem improper. We may also disclose and/or transfer your personal information in connection with a sale, merger or reorganization of all or a part of Moonit. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.  
 Non-personally identifiable information about you may be shared by us with any number of third parties, and those third parties may use that information for our benefit or for their own benefit. However, such information will not specifically identify you.
@@ -50,4 +52,4 @@ XI.CONTACTING US
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at privacy@moonit.com.
 
 XII.EFFECTIVE DATE  
-This Privacy Policy was last updated on October 1, 2011. 
+This Privacy Policy was last updated on March 1, 2013. 
