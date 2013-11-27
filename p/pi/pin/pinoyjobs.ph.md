@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pinoyjobs.ph privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621233013id_/http%3A//pinoyjobs.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyjobs.ph privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127082420id_/http%3A//pinoyjobs.ph/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PinoyJobs.ph
 
-This Privacy Policy governs the manner in which JDH Advertising Services collects, uses, maintains and discloses information collected from users (each, a "User") of the [PinoyJobs.ph](https://web.archive.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by JDH Advertising Services.
+This Privacy Policy governs the manner in which JDH Advertising Services collects, uses, maintains and discloses information collected from users (each, a "User") of the [PinoyJobs.ph](http://pinoyjobs.ph/) website ("Site"). This privacy policy applies to the Site and all products and services offered by JDH Advertising Services.
 
 **Personal identification information**
 
@@ -70,9 +70,16 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 JDH Advertising Services  
-[PinoyJobs.ph](https://web.archive.org/)  
+[PinoyJobs.ph](http://pinoyjobs.ph/)  
 44 Manapat St. Malabon City  
 +63.2.7095887  
 info@pinoyjobs.ph
 
-This document was last updated on June 04, 2012 Privacy policy created by Generate Privacy Policy 
+This document was last updated on June 04, 2012 
+
+## Your List
+
+Store a list of your favourite job ads from this site into your browser!   
+You will conveniently find this list again next time you visit PinoyJobs.ph.
+
+CLOSE
