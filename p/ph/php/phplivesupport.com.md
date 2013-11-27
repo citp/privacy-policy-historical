@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phplivesupport.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613202944id_/http%3A//www.osicodesinc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phplivesupport.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127065357id_/http%3A//www.osicodesinc.com/privacy.php) for the most accurate reproduction.*
 
 # OSI Codes Inc. - Privacy Policy
 
