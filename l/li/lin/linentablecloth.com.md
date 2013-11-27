@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the linentablecloth.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626074120id_/http%3A//www.linentablecloth.com/privacy-policy/collection-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linentablecloth.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127090515id_/http%3A//www.linentablecloth.com/privacy-policy/collection-use) for the most accurate reproduction.*
 
 # Collection and Use of Information At LinenTablecloth
+
+ATTENTION: Fed Ex will be closed on Thursday, November 28 in observance of Thanksgiving Day. Please keep this in mind when choosing a shipping method.
 
 It is the policy of LinenTablecloth (our " **Site** ") to keep your personal information private and secure. When you make a purchase from our Site, you may be required to provide your name, email address, credit card information, address, phone number, and a password. We use this information only to process your orders, keep you updated on your order status and personalize your shopping experience.
 
