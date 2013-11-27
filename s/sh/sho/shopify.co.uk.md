@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopify.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501202108id_/http%3A//www.shopify.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopify.co.uk privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127063616id_/http%3A//www.shopify.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Shopify Privacy Statement
 
