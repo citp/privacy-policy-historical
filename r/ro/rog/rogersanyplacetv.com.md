@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rogersanyplacetv.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508232117id_/http%3A//www.rogersondemand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogersanyplacetv.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127013922id_/http%3A//www.rogersondemand.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Rogers Anyplace TV
 
