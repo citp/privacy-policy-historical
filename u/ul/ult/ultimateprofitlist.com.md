@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ultimateprofitlist.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603213530id_/http%3A//ultimateprofitlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateprofitlist.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127032213id_/http%3A//ultimateprofitlist.com/privacy.php) for the most accurate reproduction.*
 
 # Ultimate Profit List - Free Viral List Builder
 
-[](http://ultimateprofitlist.com/bannerclick.php?id=6730)  
+[](http://ultimateprofitlist.com/bannerclick.php?id=13131)  
 
 
 Ultimate Profit List Privacy Policy
@@ -36,21 +36,3 @@ Links: This web site contains links to other web sites. Please note that when yo
 
   
 
-
-* * *
-
-| 
-
-TrafficHoopla  
-[ ](http://traffichoopla.com/cgi-bin/topS.cgi/75152)  
-Ranks Us In Top 10
-
-|  [](http://www.alexa.com/siteinfo/http://ultimateprofitlist.com?p=rwidget#reviews)   
-Just Click Here | 
-
-Rate Us 10 At  
-
-
-Thanks For Voting!  
-  
----|---|---
