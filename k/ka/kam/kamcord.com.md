@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kamcord.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516003357id_/http%3A//kamcord.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamcord.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127011457id_/http%3A//www.kamcord.com/privacy) for the most accurate reproduction.*
 
 # Kamcord | Privacy
 
@@ -84,7 +84,7 @@ Kamcord takes reasonable steps to protect the Personal Data provided via the Ser
 
 **Other Terms and Conditions:**
 
-Your access to and use of the Services is subject to the Terms of Use at: [kamcord.com/tos](https://web.archive.org/tos/)
+Your access to and use of the Services is subject to the Terms of Use at: [kamcord.com/tos](https://web.archive.org/developers/tos/)
 
 **Changes to Kamcord's Privacy Policy:**
 
