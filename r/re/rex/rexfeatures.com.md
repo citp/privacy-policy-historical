@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rexfeatures.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522090926id_/http%3A//www.rexfeatures.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rexfeatures.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127145413id_/http%3A//www.rexfeatures.com/privacy.html) for the most accurate reproduction.*
 
-# Rex Features - Photographic press agency and picture library
+# Rex Features - Leading photographic press agency and picture library
 
 REX FEATURES complies with and is registered under the data protection laws in the United Kingdom and takes all reasonable care to prevent any unauthorised access to your personal data. Personal details supplied by you (your name, telephone number, etc.), as well as any other information taken from you while you are using this web site or during your other dealings with us, will NOT be passed to any organisation beyond REX FEATURES for marketing purposes.
 
@@ -72,7 +72,9 @@ basketn
 
 | 
 
-This is used to store the contents of your lightboxes (similar to a shopping cart).  
+This is used to store the contents of your lightboxes (similar to a shopping cart).
+
+|    
   
 Google Analytics
 
