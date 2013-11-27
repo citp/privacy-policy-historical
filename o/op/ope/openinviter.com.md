@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openinviter.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523081150id_/http%3A//openinviter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openinviter.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127160355id_/http%3A//openinviter.com/privacy.php) for the most accurate reproduction.*
 
-# Open Inviter - Free Contacts importer from social networking sites like NetLog, Cyworld, Brazencareerist and many more
+# OpenInviter - Free Import contacts from email providers like Rambler, GMX.net, Sapo.pt and many more
 
 |  |   
   
