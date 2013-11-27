@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbk.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521193637id_/http%3A//nbk.com/Privacy_en_gb.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbk.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127035221id_/http%3A//www.nbk.com/Privacy_en_gb.aspx) for the most accurate reproduction.*
 
 # Privacy | NBK Group Website
 
