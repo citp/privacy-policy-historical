@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialserve.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529204729id_/http%3A//www.socialserve.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialserve.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127163523id_/http%3A//www.socialserve.com/Privacy.html) for the most accurate reproduction.*
 
 # Socialserve.com - Privacy Guidelines
 
@@ -65,6 +65,6 @@ Email: [info@socialserve.com](https://web.archive.org/SendEmail.html?type=Questi
 
 Phone: 704.334.8722 - Fax: 704.334.0779   
 Toll-Free: 1.877.428.8844 \- Toll-Free Fax: 1.866.265.7811 \- TTD/TTY: 7-1-1 [ [ Relay Service](http://www.fcc.gov/cgb/dro/trsphonebk.html) ]   
-Page Loaded: 05/29/13 16:47 (Eastern Time) - Version 4.0
+Page Loaded: 11/27/13 11:35 (Eastern Time) - Version 4.0
 
 [](http://portal.hud.gov/hudportal/HUD/program_offices/fair_housing_equal_opp/FHLaws/yourrights "Fair Housing Act of 1968") [](https://www.disability.gov/ "Universally Accessible")
