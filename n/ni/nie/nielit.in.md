@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nielit.in privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530200807id_/http%3A//www.nielit.in/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nielit.in privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127034222id_/http%3A//www.nielit.in/privacy.aspx) for the most accurate reproduction.*
 
 # National Institute of Electronics & Information Technology
 
-#### [](https://web.archive.org/web/20130530200807id_/http%3A//www.nielit.in/acts.aspx)
+#### [](https://web.archive.org/web/20131127034222id_/http%3A//www.nielit.in/acts.aspx)
 
 **Privacy Policy**
 
@@ -15,4 +15,4 @@ We gather certain information about the User, such as Internet protocol (IP) add
 **Webmaster  
 NIELIT - Website  
 Fax: +91-11-24301851/862  
-Email: [webmaster@nielit.in](https://web.archive.org/web/20130530200807id_/http%3A//www.nielit.in/webmaster@nielit.in)**
+Email:   [webmaster@nielit.gov.in](mailto:webmaster@nielit.gov.in)**
