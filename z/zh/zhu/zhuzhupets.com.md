@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zhuzhupets.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605105117id_/http%3A//www.zhuniverse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zhuzhupets.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127135603id_/http%3A//www.zhuniverse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZHU-NIVERSE
 
 ## CEPIA PRIVACY POLICY
 
-Cepia LLC ("Cepia") is committed to safeguarding your privacy on our website located at [www.zhuniverse.com](http://www.zhuniverse.com/ "www.zhuniverse.com"). This Cepia Privacy Policy does not apply to products or services provided, or information obtained, other than through the website.  Please read this policy to understand how we will treat your information.  We may change this policy from time to time so please check back often. If we significantly change our collection, use, or disclosure practices, we will try to send you a notice via e-mail if you have provided us with an e-mail address.  Please keep in mind that some of the services mentioned specifically in this policy may not be available on the site at this time.  If you have questions concerning this policy, please contact [info@cepiallc.com](mailto:info@cepiallc.com?subject=Privacy%20Policy)
+Cepia LLC ("Cepia") is committed to safeguarding your privacy on our website located at [www.zhuniverse.com](http://www.zhuniverse.com/ "www.zhuniverse.com"). This Cepia Privacy Policy does not apply to products or services provided, or information obtained, other than through the website.  Please read this policy to understand how we will treat your information.  We may change this policy from time to time so please check back often. If we significantly change our collection, use, or disclosure practices, we will try to send you a notice via e-mail if you have provided us with an e-mail address.  Please keep in mind that some of the services mentioned specifically in this policy may not be available on the site at this time.  If you have questions concerning this policy, please contact [support@cepiallc.com](mailto:support@cepiallc.com?subject=Privacy%20Policy)
 
 This Privacy Policy is effective as of October 28, 2010.
 
@@ -12,7 +12,7 @@ This Privacy Policy is effective as of October 28, 2010.
 
 Cepia collects information in several ways. For example, we collect some personal information when you register as a user using our registration page. During registration, we ask for your name, age, gender and your e‑mail address.  If you are under the age of 18, we will also collect the name and e-mail address of your parent or guardian.  You will also have the option to add a photo to your profile page.  Your profile information will not be viewable by other users, except your parent or guardian, or the public. Once you register and set up an account, you are no longer anonymous to us and are able to take full advantage of the website and our services. In addition to registration, we may ask you for information at other times, such as when you report a problem with our site or services, or contact Cepia on the website. If you contact Cepia, we may keep a record of that correspondence.
 
-If you believe that any inaccurate or inappropriate information has been obtained or provided to others through your use of this website, you should contact a representative of Cepia at [info@cepiallc.com.](mailto:info@cepiallc.com?subject=Privacy%20Policy)
+If you believe that any inaccurate or inappropriate information has been obtained or provided to others through your use of this website, you should contact a representative of Cepia at [support@cepiallc.com.](mailto:support@cepiallc.com?subject=Privacy%20Policy)
 
 ## What are cookies and how does Cepia use them?
 
@@ -44,7 +44,7 @@ As we continue to develop our business, we may buy or sell businesses or assets.
 
 ## **How can I control my personal information?**
 
-We offer our customers choices for the collection, use and sharing of personal information.  You may contact us at [info@cepiallc.com](mailto:info@cepiallc.com?subject=Privacy%20Policy) if you wish to view, edit or delete your personal information from our database, and we will use commercially reasonable efforts to accommodate your request.  
+We offer our customers choices for the collection, use and sharing of personal information.  You may contact us at [support@cepiallc.com](mailto:support@cepiallc.com?subject=Privacy%20Policy) if you wish to view, edit or delete your personal information from our database, and we will use commercially reasonable efforts to accommodate your request.  
 
 ## How does Cepia protect financial-related information?
 
@@ -86,7 +86,7 @@ All users of the website who are minors must be registered by their Parent. The 
 
 At any time Parents can refuse to permit us to collect further personal information from their Child and can request that any personal information we have collected be deleted from our records. We use two methods to allow Parents to access, change, or delete the personally identifiable information that we have collected from their Children. A parent can access, change, or delete his or her Child’s personal information by logging on to the Adult Zhu Zone account. Allow a reasonable period of time for any changes to take effect. Such change or deletion will not result in a corresponding change or deletion in any portion of the site made available to others.
 
-A parent can also contact our customer service department to access, change, or delete the personal information that we have collected from his or her Child by sending an e-mail to [info@cepiallc.com](mailto:info@cepiallc.com?subject=Privacy%20Policy). Please include the Child’s full name and school and the parent's e-mail address in the e-mail so that we can better assist you with your inquiry or request.
+A parent can also contact our customer service department to access, change, or delete the personal information that we have collected from his or her Child by sending an e-mail to [support@cepiallc.com](mailto:support@cepiallc.com?subject=Privacy%20Policy). Please include the Child’s full name and school and the parent's e-mail address in the e-mail so that we can better assist you with your inquiry or request.
 
 ## **How does Cepia notify parents if our Privacy Policy changes?**
 
@@ -94,7 +94,7 @@ We may amend our Privacy Policy at any time, including portions applicable to Ch
 
 ## **Who do users contact with questions or concerns about our Privacy Policy?**
 
-If you need further assistance, please send an e-mail with your questions or comments to [info@cepiallc.com](mailto:info@cepiallc.com?subject=Privacy%20Policy) or write us at:
+If you need further assistance, please send an e-mail with your questions or comments to [support@cepiallc.com](mailto:support@cepiallc.com?subject=Privacy%20Policy) or write us at:
 
 Cepia LLC. Corporate Office
 
