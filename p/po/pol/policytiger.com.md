@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the policytiger.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610235053id_/http%3A//policytiger.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policytiger.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127043630id_/http%3A//policytiger.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Health Insurance Plans, Online Health Insurance Policy, Life Insurance Plans, Health Insurance Premium, Car Insurance Premium, Travel Insurance Premium
 
