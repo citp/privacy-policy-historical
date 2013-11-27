@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the percolate.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623184226id_/http%3A//percolate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the percolate.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127050623id_/http%3A//percolate.com/privacy) for the most accurate reproduction.*
 
 # Privacy || Percolate
 
