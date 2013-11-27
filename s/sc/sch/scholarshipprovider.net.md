@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the scholarshipprovider.net privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529210944id_/http%3A//scholarshipprovider.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipprovider.net privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127022728id_/http%3A//scholarshipprovider.net/privacy) for the most accurate reproduction.*
 
 # Mothers' Scholarship Application Privacy | Scholarship Provider
 
 ### Privacy & Security Policy:
 
-ScholarshipProvider ("the site") respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. Therefore, by registering and using this site, you are agreeing and accepting this policy.
+scholarshipprovider.net ("the site") respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. Therefore, by registering and using this site, you are agreeing and accepting this policy.
 
-ScholarshipProvider (“ScholarshipProvider”) is owned and operated by Free College Scholarships, LLC. Free College Scholarships, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](mailto:info@scholarshipprovider.net) at [Info@scholarshipprovider.net](mailto:info@scholarshipprovider.net). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+scholarshipprovider.net (“ScholarshipProvider”) is owned and operated by Free College Scholarships, LLC. Free College Scholarships, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through our mobile applications. The TRUSTe program covers only information that is collected through this website, [scholarshipprovider.net](http://scholarshipprovider.net/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [Info@scholarshipprovider.net](mailto:info@scholarshipprovider.net). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 ### Information Collected:
 
@@ -23,7 +23,7 @@ ScholarshipProvider reserves the right to use this information provided by you f
 
 
 
-Although, it is important to note that ScholarshipProvider reserves the right to change or modify this policy at any time with or without notice. If you have any questions regarding the use of your information or about this policy, please feel free to email us at: Info@scholarshipprovider.net.
+Although, it is important to note that ScholarshipProvider reserves the right to change or modify this policy at any time with or without notice. If you have any questions regarding the use of your information or about this policy, please feel free to email us at: [Info@scholarshipprovider.net](mailto:info@scholarshipprovider.net).
 
 scholarshipprovider.net may also share your information with its service providers such as an email service provider and chat provider, and with your permission, any other entities that we believe are able to provide you with special opportunities and offers. _These companies are authorized to use your personal information only as necessary to provide these services to us._
 
@@ -33,19 +33,19 @@ Additionally, scholarshipprovider.net may disclose your information if required 
 
 ### Customer Testimonials/Comments/Reviews:
 
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent with a signed release of liability or via email or phone prior to posting their name with the testimonial/comment/review.
+We post customer testimonials/comments/reviews on our website which may contain personally information. We do obtain the customer's consent with a signed release of liability or via email or phone prior to posting their name with the testimonial/comment/review.
 
 ### Framing:
 
-On some of our sites we have special offers with our partners where another third party is actually framed within our site. However, you are actually on a third party Web site and should be aware that you are entering information on a third party site. Some pages may have the look and feel of being on _our_ site, however the information collected on these pages may not be covered under our privacy statement. All information collected on _their_ site is owned and controlled by that company's privacy statement.
+On some of our sites we have special offers with our partners where another third party is actually framed within our site. However, you are actually on a third party website and should be aware that you are entering information on a third party site. Some pages may have the look and feel of being on _our_ site, however the information collected on these pages may not be covered under our privacy. All information collected on _their_ site is owned and controlled by that company's privacy policy.
 
 ### Links to Other Sites:
 
-If you click on a link to a third party site, including on an advertisement, you will leave our site and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as scholarshipprovider.net. We encourage you to review the privacy statements of any other service provider from whom you request services.
+If you click on a link to a third party site, including on an advertisement, you will leave our site and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as scholarshipprovider.net. We encourage you to review the privacy policies of any other service provider from whom you request services.
 
 ### Cookies and Web Beacons:
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We have the ability to link the information we store in cookies to any personally identifiable information you submit while on our site.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We have the ability to link the information we store in cookies to any personal information you submit while on our site.
 
 We use persistent cookies. A persistent cookie remains on your hard drive for an extended period of time. These cookies are in place to ensure a consistent user experience as we keep your registration information and display this within the form. We also use these cookies to correctly attribute our data to the appropriate the traffic sources. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory. You can find more information on cookies here: [More Info](https://en.wikipedia.org/wiki/HTTP_cookie#Persistent_cookie). If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
@@ -53,7 +53,7 @@ Our Web pages contain electronic images known as Web beacons (sometimes called s
 
 ### Widgets:
 
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying loan information, the news, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
+Our website includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying loan information, the news, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
 ### Registry Compliance:
 
@@ -99,17 +99,17 @@ When you submit your personal information on a form, it is not possible to updat
 
 ### Transfer, Sale, or Assign:
 
-At its sole discretion, scholarshipprovider.net may transfer, sell, and/or assign information collected on and through this site, including but not limited to, the users personal information collected, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation of scholarshipprovider.net. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+At its sole discretion, scholarshipprovider.net may transfer, sell, and/or assign information collected on and through this site, including but not limited to, the users personal information collected, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation of scholarshipprovider.net. You will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 ### Data Retention:
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at Info@scholarshipprovider.net. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [Info@scholarshipprovider.net](mailto:info@scholarshipprovider.net). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Change in Policy:
 
 We reserve the right to change this policy at any time. If we make a material change regarding how we use your personal information, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site.
 
-Effective November 1, 2012
+Effective July 25, 2013
 
 ### Contact Information
 
