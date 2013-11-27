@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the short-funny-jokes.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310071801id_/http%3A//short-funny-jokes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-funny-jokes.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127090309id_/http%3A//short-funny-jokes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Short Funny Jokes
 
 ## [Privacy Policy](http://short-funny-jokes.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
-**Short Funny Jokes** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+****takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
 ## Routine Information Collection
 
@@ -12,7 +12,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, Short Funny Jokes uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
@@ -22,6 +22,6 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to info@short-funny-jokes.com for further clarification.
+Concerns or questions about this privacy policy can be directed to for further clarification.
 
 Rating: 0.0/ **10** (0 votes cast)
