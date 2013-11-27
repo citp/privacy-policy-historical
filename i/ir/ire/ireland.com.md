@@ -1,78 +1,103 @@
-> *The following text is extracted and transformed from the ireland.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010114938id_/http%3A//www.ireland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ireland.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127233851id_/http%3A//www.ireland.com/legal-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ireland.com
+# privacy policy | Ireland.com
 
-Ireland.com has created this privacy statement to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of Ireland.com. 
+This website www.ireland.com and the services on these pages are being offered to you by:
 
-You can access our site and utilise a number of our services without providing any information at all. However, anyone who registers for Ireland.com services provides basic contact and demographic information. We do develop general - not specific to any individual - reports for our advertisers. The people that make it possible for visitors to use Ireland.com for free - our advertisers - need this information to determine how effective their advertising investments are. Ireland.com will not disclose your personally identifiable information to any third party without your express permission except where applicable for the purpose of supplying the service for which you have registered. 
+Tourism Ireland,  
+5th Floor Bishop's Square,  
+Redmond's Hill,  
+Dublin 2,  
+Ireland 
 
-We do not follow your browsing path outside of our websites. 
+Tourism Ireland respects your privacy. This Privacy Statement explains how any personal information you provide on our site is processed and used by us. This Privacy Statement is designed to protect you, our users, by informing you what personal information is collected, what we do with that information, with whom we share it, how long we keep it and the methods we use to collect it. Your use of the Tourism Ireland consumer websites and any micro-sites is subject to your agreement with this policy. 
 
-**Irish data protection commissioner:**  
-Further information on your data privacy rights are available on the website of the Irish data protection commissioner, [www.dataprivacy.ie](http://www.dataprivacy.ie/)
+Tourism Ireland is proudly committed to complying with the Data Protection Acts 1988 and 2003 and SI 336 of 2011 EUROPEAN COMMUNITIES (ELECTRONIC COMMUNICATIONS NETWORKS AND SERVICES) (PRIVACY AND ELECTRONIC COMMUNICATIONS) REGULATIONS 2011 and any traditional and digital marketing efforts we undertake adhere strictly to these provisions.
 
-## Information Ireland.com collects:
+**Contact us**  
+Tourism Ireland,   
+5th Floor Bishop's Square,  
+Redmond's Hill,  
+Dublin 2,  
+Ireland
 
-**Optional sign ups:**  
-If you wish to utilise certain services located on specific sections of Ireland.com, you must sign up. Services that currently require some form of sign up include:  
-Participation in competitions / promotions / surveys;  
-Rating reviews;  
-Feedback and content;  
-The information collected when you sign up for a service can include an email address and name. When signing up for a service, you may also "opt-in" to various email notifications or offers (see opt-in procedures below). 
+T: +353 1 476 3400  
+F: +353 1 476 3666  
+E: corporate.dublin@tourismireland.com
 
-**Polling:**  
-Ireland.com offers interactive polls so you can easily share your opinions with others and see what other Ireland.com users think about important issues. Name, email address and country information for each participant is retained temporarily. 
+## Information we collect
 
-**Cookies:**  
-Certain sections of the site use cookies to maintain single user sessions as well as to aggregate broad demographic data as it relates to user behaviour. You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information back from the browser. You can find out more about the use of cookies on: [Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)
+Simply put, our function is to facilitate your efforts to find an Irish tourism product or service that suits you so the collection of personal information is limited and always voluntary. As a user of our website, you may opt-in to receive information from us, in which case we will require certain personal data from you. This will include your name and email address, and we may also ask for your telephone number so that we can contact you in the event that a problem arises. In all cases, you can be assured that we will only seek the most basic details needed to get the information you requested to you in a timely fashion.
 
-**"Tell a Friend" feature:**  
-You can electronically forward a link of an item to someone else by clicking the link at the bottom of an item. You provide a valid email address for both the sender and the recipient in order to ensure that the service functions properly and to inform the recipient who sent the story. There is also an option to include a name which is only used for the email salutation. None of this information is used for any other purpose. 
+Tourism Ireland does not attempt to collect further data without user consent that enables personally identifiable profiling of our users. We collect and collate generic information on all our site traffic that is only ever represented in aggregate format. 
 
-**Information automatically recorded:**  
-We record your IP address, browser's user agent, and referring address to help diagnose problems with our server, to administer our website and to identify unique users. Your IP address is also used to gather broad demographic information. 
+## Use of your information by third parties
 
-**Auditing our traffic figures:**  
-We also provide our log file data to ABC electronic auditing bureau on a regular basis to verify our traffic figures to the website. The information is used solely for auditing purposes.
+Tourism Ireland does not sell or pass on your personal details to third parties without your consent, except in the following, highly unlikely, instances: 
 
-Finally, the data may on occasion of abuse or harassment be used to find and locate individuals abusing the network system and or services of Ireland.com. In these cases this data may be passed on to appropriate individuals, organisations or companies, if specifically requested. 
+  * where it is required by applicable law or pursuant to a court or similar order 
+  * where it is required urgently to prevent serious loss or damage to property of Tourism Ireland 
+  * where it is required for the purposes of obtaining legal advice or for the purposes of, or in the course of, legal proceedings to which Tourism Ireland is a party or a witness. 
 
-**Advertisers:**  
-Ireland.com may perform statistical analyses of user behaviour in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. We may also use demographic and preference information to allow advertising banners on our website to be targeted, in aggregate, to the readers for whom they are most pertinent. This means that readers may see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. In this statistical analyses and banner advertisement targeting, we will disclose information to third parties only in aggregate form. Personal information about you as an individual subscriber will not be provided to any third party without your consent. 
 
-We use a third-party advertising company to place ads when you visit our website. Our third-party advertising company also separately places or recognises a cookie file on your browser in the course of delivering advertisements to Ireland.com. They may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. For full details of our third-party advertising technology's company terms and conditions see: <http://www.adtech.info/cookie_opt-out/>  
 
-**Surveys & competitions:**  
-From time to time our site requests information from users by means of surveys or competitions. Participation in these surveys or competitions is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and delivery address), and demographic information (such as address, age and income level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. No personal information will be retained for longer than is necessary or used for any undisclosed purpose. 
+From time to time, we conduct joint promotional email campaigns with third parties. As part of such campaigns, if you have ‘opted in’ to receive them, we may forward promotional emails to your email address containing information on products and services that we feel may be of interest to you. Such emails may include links to the websites of third parties, and in this regard we would refer you to the section headed 'Security' below. We will not make your personal information available to any third party and any promotional emails will always be sent by us. 
 
-Promotions and competitions that run on Ireland.com may be sponsored by companies other than Ireland.com or may be co-sponsored by Ireland.com and another company. 
+When you enter your contact details on one of our web forms you will have the opportunity to opt out of receiving promotional information from us. This can be done by simply checking the relevant box on the form. 
 
-Ireland.com or its sponsors or business partners may with your expressed permission, from time to time, send you e-mails regarding its products and services. 
+If you decide that you no longer wish to receive promotional information, you can contact us and we will remove you from our mailing list.
 
-**Email:**  
-Using the email addresses provided on registration, Ireland.com may contact you regarding your premium email 
+### Access to the information we hold on you
 
-**External links:**  
-This site contains links to other sites. Ireland.com is not responsible for the privacy practices or the content of such websites. 
+If you wish to query the information we hold on you or inform us about how we should treat that data or request the deletion of that information, [contact us](https://web.archive.org/web/20131127233851id_/http%3A//www.ireland.com/legal-information/~/error.aspx?item=web%3a%7b52F9D976-46BA-479F-BAF2-34439E6E113E%7d%40en-EN) in writing at: 
 
-**Children’s Safety**  
-The safety of children using the internet is very important to Ireland.com. It is primarily the responsibility of parents and guardians to monitor their children’s usage of the internet, though Ireland.com will take all reasonable steps not to compromise children’s rights and interests. 
+Data Protection Officer,  
+Tourism Ireland,   
+5th Floor Bishop's Square,  
+Redmond's Hill,  
+Dublin 2,  
+Ireland 
 
-**Security:**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Unfortunately, no data transmission over the internet can be guaranteed to be 100 per cent secure. As a result, while we strive to protect your personal information, Ireland.com cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+We will not levy any charge in respect of the above actions.
 
-**Opt-in:**  
-Our site provides users with the opportunity to opt-in to receive promotional/marketing information from Ireland.com and select advertisers. To unsubscribe please email [unsubscribe@digitalworx.ie](mailto:unsubscribe@digitalworx.ie) and enter your e-mail address. 
+## Analysis of click trails
 
-**Correcting and updating:**  
-Ireland.com offers users the ability to change certain personal identifiable information (e-mail address,) collected during the sign up process for specific services. 
+On Tourism Ireland consumer websites, IP addresses (the Internet address of a computer) are logged to track a user's session while the user remains anonymous. We analyse this data for certain trends and statistics, such as which parts of our site users are visiting and how long they spend there. We do not link your IP addresses to anything personally identifiable to you.
 
-**Special interest sites:**  
-Ireland.com provides certain services in conjunction with third parties. These third parties have their own security and privacy policies. You are advised to review these separately. 
+## Cookies
 
-Ireland.com also offers you the opportunity to post, submit and exchange content and information on publicly accessible areas. A publicly accessible area is any area of Ireland.com that is accessible by the general public and may be accessed through an index link from a search engine. You may submit, post and exchange material and information in such areas, but should exercise caution in disclosing any personal information that may identify you, or others, personally. Remember that this information may remain indefinitely in the publicly accessible area of the Service. Also, depending on the particular Service, other users may also be able to view two or more of your individual postings collectively. 
+See our [Cookie policy](http://ireland.com/legal-information/cookies-policy).
 
-You are solely responsible for any personally identifiable information that you disclose and disseminate on publicly accessible areas. If you have a concern about any personally identifiable information you have posted on any publicly accessible areas and are unable to delete or edit it, please contact us at: 
+## Behavioral Advertising Disclosure
 
-**What Else you Should Know about Privacy:**  
-It is recommended that you close your browser when you have finished your user session. This will make it more difficult for others to access your personal information and correspondence specifically if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. You agree that as an individual you, and in no way Ireland.com, are responsible for the security of, and access to, your own computer. You agree that you are aware that whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. Ultimately, you are solely responsible for maintaining the secrecy of your usernames and passwords and any account information. Our Websites may contain links to other websites, and you should be aware that we are not responsible for the privacy practices on other websites. 
+Tourism Ireland may use data collected on a Site in order to customize ads to you on other Sites or other Tourism Ireland websites or third party partner websites.
+
+## Retention
+
+Tourism Ireland complies with the highest standards when collecting and using personal information. No personal information will be retained for longer than is necessary to fulfill a legitimate business need or as required by applicable law. 
+
+## Security
+
+Tourism Ireland takes appropriate measures to ensure the security, integrity and privacy of personal information submitted to our sites, and periodically updates its security measures in light of current technologies. You need to be aware, however, of inherent risks associated with the transmission of information via the Internet. Tourism Ireland cannot guarantee or warrant the security of any personal information you submit to our sites. If you have concerns in this regard, Tourism Ireland has other ways of obtaining and providing information such as post or telephone. [Contact us](https://web.archive.org/web/20131127233851id_/http%3A//www.ireland.com/legal-information/~/error.aspx?item=web%3a%7b52F9D976-46BA-479F-BAF2-34439E6E113E%7d%40en-EN) for more information.
+
+Tourism Ireland sites may also be linked to websites operated by third parties. These links are meant for your convenience only. Links to third party sites do not constitute endorsement on the part of Tourism Ireland of those sites and we are not responsible for the privacy practices of the owners and operators of those sites. We encourage you to review the privacy policies and practices on each site which asks you to submit personal information. 
+
+## Conditions of use and revisions
+
+Tourism Ireland's function may change in the future and Tourism Ireland reserves the right to amend this Privacy Statement at our discretion. Any modifications that do occur will be effective upon such time as the amendments are posted on the website. Users shall be deemed to accept the modified policy by continuing to access Tourism Ireland's site on or after the date of modification. 
+
+## Your consent
+
+By accessing the Tourism Ireland service you consent to the collection and use of information by Tourism Ireland as outlined in this Privacy Statement. Your use of the Tourism Ireland service is subject to your agreement with this Privacy Statement. 
+
+## Review
+
+We keep this Privacy Statement under regular review.
+
+## Queries
+
+If you have any queries regarding this Privacy Statement, you can [contact us](https://web.archive.org/web/20131127233851id_/http%3A//www.ireland.com/legal-information/~/error.aspx?item=web%3a%7b52F9D976-46BA-479F-BAF2-34439E6E113E%7d%40en-EN) via email
+
+## Jurisdiction
+
+This Privacy Statement is an agreement between you and Tourism Ireland Limited. Any and all complaints or disputes should be addressed to Tourism Ireland Limited at the address at the top of this Privacy Statement
