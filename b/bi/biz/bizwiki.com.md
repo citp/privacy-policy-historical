@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the bizwiki.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613164654id_/http%3A//www.bizwiki.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizwiki.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127131739id_/http%3A//www.bizwiki.com/privacy.htm) for the most accurate reproduction.*
 
 # Bizwiki | Privacy Policy
 
 This privacy policy sets out how Bizwiki uses and protects any personal information that you submit to Bizwiki when you contact us. Bizwiki is committed to ensuring that your privacy is protected.
 
-Bizwiki may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from February 1, 2013.
+Bizwiki may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy was last updated on August 26, 2013.
 
 What we collect
 
 We may collect the following personal information:
 
-  * your name if you choose to give it to us
-  * contact information including email address
-  * demographic information such as zip code, preferences and interests
-  * other information relevant to personalizing your search results on Bizwiki
+  * your name if you choose to give it to us;
+  * contact information including email address;
+  * and anonymous, non-personally identifiable information. 
 
 
 
@@ -24,6 +23,7 @@ What we do with the information we collect
   * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
   * From time to time, we may also use your information to contact you for market research purposes. 
   * We may use the information to customize the website according to your interests.
+  * We may distribute the anonymous, non-personally identifiable information to third party partners who may use it to display advertisements that they believe may be relevant to you.
 
 
 
@@ -36,6 +36,8 @@ How we use cookies
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
 We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+
+We use cookies to pass anonymous, non-personally identifiable information to our third party partners. This anonymous data is used by our third party partners to display advertisements that may be relevant to you. In seeking to identify relevant advertisements, they use the anonymous data to create and refine user segments, develop and refine algorithms, and to understand better how your interaction with a website might be of interest to advertisers. At no time is the anonymous data linked to any personally identifiable data.
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
 
@@ -54,4 +56,4 @@ You may choose to restrict the collection or use of your personal information in
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+Although we may distribute anonymous, non-personally identifiable information to our third party partners, we will not sell, distribute or lease your identifiable, personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
