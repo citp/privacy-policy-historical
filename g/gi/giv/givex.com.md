@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givex.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602082817id_/http%3A//www.givex.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givex.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127110740id_/http%3A//web1.givex.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy | Givex
 
