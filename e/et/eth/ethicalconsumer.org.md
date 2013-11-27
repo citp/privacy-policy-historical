@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ethicalconsumer.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527225658id_/http%3A//www.ethicalconsumer.org/websiteinformation/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethicalconsumer.org privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127075044id_/http%3A//www.ethicalconsumer.org/websiteinformation/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Ethical Consumer
 
 ## Privacy
 
-This Privacy Policy explains what we do with the personal information that we collect from site visitors and subscribers. If you have any questions [please contact us](http://www.ethicalconsumer.org/contactus.aspx).  
+This Privacy Policy explains what we do with the personal information that we collect from site visitors and subscribers. If you have any questions [please contact us](https://web.archive.org/linkclick.aspx?link=181&tabid=162).  
  
 
 You signify your consent to our collecting and using your personal information in accordance with this Privacy Policy by your use of this website. We shall keep a regularly updated copy of this Privacy Policy on our site.
