@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skiheavenly.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429022729id_/http%3A//www.skiheavenly.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiheavenly.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127154830id_/http%3A//www.skiheavenly.com/privacy.aspx) for the most accurate reproduction.*
 
 # Vail Resorts Online Privacy Policy | SkiHeavenly.com
 
