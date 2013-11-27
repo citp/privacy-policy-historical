@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdtorch.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507112116id_/http%3A//www.crowdtorch.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdtorch.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127194226id_/http%3A//www.crowdtorch.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | CrowdTorch
 
@@ -20,7 +20,7 @@ For purposes of this Privacy Policy, the following definitions shall apply:
 
 "Personal Information" means any set of information that identifies or could be used to identify an individual. Personal Information does not include information that is encoded or publicly available information not combined with private Personal Information. 
 
-"User" means any user of CrowdTorch's web-based content management portal. 
+"User" means any user of CrowdTorch's web-based content management portal or mobile applications.
 
 ## Our Service 
 
