@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the bookmarkin.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528044257id_/http%3A//www.bookmarkin.com/news/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkin.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127013007id_/http%3A//www.bookmarkin.com/news/static/privacy) for the most accurate reproduction.*
 
 # privacy | Bookmarkin
+
+[](http://www.bookmarkin.com/news)
+
+  * [Published News](http://www.bookmarkin.com/news/)
+  * [Recommended News](https://web.archive.org/news/recommended/)
+  * [Submit a New Story](https://web.archive.org/news/addlink/)
+  * [Groups](https://web.archive.org/news/groups/)
+  * [](http://www.bookmarkin.com/news/tools)
+
+
 
 At Bookmarkin, we respect the privacy of the users of our website and services and are committed to protecting it. We have created this policy to demonstrate our commitment to you and to help you understand it.
 
@@ -13,3 +23,6 @@ The information collected through these web beacons is used to find out more abo
 Bookmarkin reserves the right to modify all or some of this Privacy Policy at any time without notice. If we change our Privacy Policy, we will post a notice on our website so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information only in accordance with the Privacy Policy under which the information was collected unless we have received explicit authorization from the appropriate user(s) to do otherwise.
 
 If you have any questions about this Privacy Policy, the practices of this website or your dealings with this Bookmarkin, you can send an e-mail, in English, to privacy@digitiy.com 
+
+  
+
