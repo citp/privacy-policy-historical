@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the relatedrssplugin.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602110352id_/http%3A//www.acmetraffic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relatedrssplugin.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127162757id_/http%3A//www.relatedrssplugin.com/privacy) for the most accurate reproduction.*
 
-# Privacy - ACME Traffic
+# Privacy | Related RSS Plugin
 
 Acme Traffic LLC. understands that you may have concerns about safeguarding your privacy on-line. The Privacy Statement that follows explains our views and practices concerning privacy, and how they may pertain to you as you make full use of our many offerings. This statement discloses the privacy practices for all Acme Traffic LLC. websites including the website you are currently visiting where you are reading this Privacy Policy.
 
