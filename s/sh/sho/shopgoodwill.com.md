@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopgoodwill.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522050028id_/http%3A//www.shopgoodwill.com/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopgoodwill.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127100358id_/http%3A//www.shopgoodwill.com/policies/privacy.asp) for the most accurate reproduction.*
 
 # shopgoodwill.com -- Privacy Policy
 
