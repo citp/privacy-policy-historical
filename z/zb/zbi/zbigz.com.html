@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zbigz.com privacy policy that was archived on 2013-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508215207id_/http%3A//zbigz.com/page-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zbigz.com privacy policy that was archived on 2013-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127055841id_/http%3A//www.zbigz.com/page-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,6 +10,7 @@
 <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 
 <link rel="stylesheet" href="css/style.min.css" type="text/css" media="screen">    
+<link rel="stylesheet" href="css/hint.min.css" type="text/css" media="screen">
 
 <!--
 <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
@@ -118,6 +119,19 @@ SmartAjax_load('js/smartajax/', function(){
         });
         }, true);
 </script><script src="js/smartajax/libs/historyjs/amplify.store.js"></script><div style="display: none;"></div><script src="js/smartajax/libs/historyjs/history.adapter.jquery.js"></script><script src="js/smartajax/libs/historyjs/history.js"></script><script src="js/smartajax/libs/historyjs/history.html4.js"></script><script src="js/smartajax/smartajax.js"></script>
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-20549564-4']);
+        _gaq.push(['_setDomainName', 'zbigz.com']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        var clientCountry = 'USA';
+        </script>
 	</head>
 	<body>
 		<!-- statusbar -->
@@ -173,8 +187,9 @@ SmartAjax_load('js/smartajax/', function(){
 
 		<li class="navigation" id="sb-fb-like">
 
-			<iframe src="https://www.facebook.com/plugins/like.php?locale=en_US&amp;href=zbigz.com&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:20px;" allowtransparency="true"></iframe>
-
+			<iframe src="//www.facebook.com/plugins/like.php?href=http://zbigz.com&amp;width=120&amp;locale=en_US&amp;height=21&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;send=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowtransparency="true"></iframe>
+<!--            <iframe src="https://www.facebook.com/plugins/like.php?locale=en_US&amp;href=zbigz.com&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:20px;" allowTransparency="true"></iframe>
+-->
 		</li>
 
 		<li class="separator" id="after-socials"></li>
@@ -247,7 +262,7 @@ SmartAjax_load('js/smartajax/', function(){
 		<li class="fade-li"><div class="diferences-table-li-bg"></div>
 			<p class="diferences-blur-title">Maximum size of torrent</p>
 			<p class="diferences-title">Maximum size of torrent</p>
-			<span class="free-column">&nbsp;8 GB</span>
+			<span class="free-column">&nbsp;1 GB</span>
 			<span class="premium-column">Unlimited</span>
 		</li>
 		<li class="fade-li">
@@ -296,7 +311,7 @@ SmartAjax_load('js/smartajax/', function(){
 <div id="buy-premium" class="ui-draggable">
 	<div id="buy-premium-title">
 		<div id="close-premium"></div>
-		<span class="blue-title"> Buy premium </span>
+		<span class="blue-title"> Get premium </span>
 		<span class="gray-title"></span>
 	</div>
 	<form id="premium-load" name="premium-load" method="post" action="pay.php"></form>
@@ -457,18 +472,129 @@ SmartAjax_load('js/smartajax/', function(){
 			<textarea name="message" id="help-textarea" cols="" rows="" placeholder="Type your message here..."></textarea>
 			<div id="send-btn2"></div>
 			<input id="support-email" type="hidden" name="user-email">
-
+            <input type="hidden" name="support-reqnum" value="">
 		</form>
 		<span class="prldr"></span>
+        
 		<div id="input-wrapper-7">
-			<label>
+            <label>
 				<span class="input-title0"> E-mail: </span><input class="input" id="input0" title="" name="" type="text">
 			</label>
 		</div>
 	</div>
 </div>
 
-		<!-- header -->
+
+<script>
+    function ShowNewPayments() {
+        _gaq.push(['_trackEvent', 'IndiaRessellerOpenWND','Window','Click']);
+        zIndexStack = 9999;
+    	$('#newpayment-window').css({'z-index': zIndexStack}).animate({'top': '50%', 'left': '50%', 'margin-left': '-260px'},{duration:700, easing:'easeOutExpo'});
+    }
+    function CloseNewPayments() {
+        $('#newpayment-window').css({'z-index': 0}).animate({'top': '50%', 'left': '100%', 'margin-left': '10px'},{duration:700, easing:'easeOutExpo'});
+    }
+    
+</script>
+<style>
+#newpayment-window {
+	z-index: 100;
+	border-color: #696869;
+	border-width: 1px;
+	border-style: solid;
+	position: fixed;
+	width: 560px;
+	height: 320px;
+	left: 100%;
+	top: 50%;
+	margin-top: -180px;
+	margin-left: 5px;
+	border-radius: 10px; 
+		-webkit-border-radius: 10px;
+		-moz-border-radius: 10px;
+	
+	box-shadow: 0 1px 12px #5b5b5b;
+		-webkit-box-shadow: 0 1px 12px #5b5b5b;
+		-moz-box-shadow: 0 1px 12px #5b5b5b;
+	
+	background-image: linear-gradient(bottom, rgb(255,255,255) 0%, rgb(245,245,245) 100%);
+	background-image: -o-linear-gradient(bottom, rgb(255,255,255) 0%, rgb(245,245,245) 100%);
+	background-image: -moz-linear-gradient(bottom, rgb(255,255,255) 0%, rgb(245,245,245) 100%);
+	background-image: -webkit-linear-gradient(bottom, rgb(255,255,255) 0%, rgb(245,245,245) 100%);
+	background-image: -ms-linear-gradient(bottom, rgb(255,255,255) 0%, rgb(245,245,245) 100%);
+
+	background-image: -webkit-gradient(
+		linear,
+		left bottom,
+		left top,
+		color-stop(0, rgb(255,255,255)),
+		color-stop(1, rgb(245,245,245))
+	);
+}
+
+
+#newpayment-window-title {
+	line-height: 38px;
+	text-shadow: 0px 1px white;
+	color: #696869;
+	font-size: 16px;
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	border-bottom-style: solid;
+	border-bottom-color: white;
+	border-bottom-width: 1px;
+	position: absolute;
+	width: 545px;
+	height: 38px;
+	top: 0;
+	left: 0;
+	padding-left: 15px;
+	cursor: move;
+	background: rgb(255,255,255); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(243,243,243,1) 50%, rgba(237,237,237,1) 51%, rgba(255,255,255,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(50%,rgba(243,243,243,1)), color-stop(51%,rgba(237,237,237,1)), color-stop(100%,rgba(255,255,255,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%); /* IE10+ */
+	background: linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(243,243,243,1) 50%,rgba(237,237,237,1) 51%,rgba(255,255,255,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+	
+	-webkit-border-top-right-radius: 10px;
+	-webkit-border-top-left-radius: 10px;
+	-moz-border-radius-topright: 10px;
+	-moz-border-radius-topleft: 10px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+
+#close-newpayment {
+	position: absolute;
+	width: 28px;
+	height: 28px;
+	right: 7px;
+	top: 5px;
+	background: url(../img/close0.png) no-repeat;
+	background-position: 0 0;
+	cursor: pointer;
+}
+</style>
+<div id="newpayment-window">
+    <div id="newpayment-window-title">
+            <span> New payments for India </span>
+            <div onclick="CloseNewPayments()" id="close-newpayment"></div>
+    </div>
+    
+<div style="text-align: center; margin-top: 80px; color: #AFAFAF;font-family: Helvetica,Verdana,Arial,sans-serif;">
+    <p>We started to cooperate with the new reseller in India. Please try it:</p>
+    <p><a onclick="_gaq.push(['_trackEvent', 'IndiaRessellerClick','RessellerClick','Click']);" target="_blank" href="http://www.365premium.com/Buy-zbigz-Premium-account-from-official-reseller-63-0.aspx">http://www.365premium.com/</a></p>
+    <br>
+    <p>You may buy premium using Credit Card, Debit Card (India 52 Banks),</p>
+    <p>Net Banking,Cash Deposit (ICICI &amp; SBI Bank), NEFT, Paypal,</p>
+    <p>Moneybookers, Western Union, Demand Draft, Cheque Deposit.</p>
+<p>
+We hope you will like it. Please let us know if you faced with ANY problems regarding this payment option.
+</p>    
+</div>	
+</div>		<!-- header -->
 <div id="header">
 	<div id="header-radius-bg"></div>
 	
@@ -529,25 +655,13 @@ Zbigz.com may update this privacy policy at any time without additional notifica
                                                                             
                             
                            
-                            
-
-                        var _gaq = _gaq || [];
-                        _gaq.push(['_setAccount', 'UA-20549564-4']);
-                        _gaq.push(['_setDomainName', 'zbigz.com']);
-                        _gaq.push(['_trackPageview']);
-
-                        (function() {
-                            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                        })();
                                                 function regPayClk(t) {
                             return _gaq.push(['_trackEvent', 'Payment btn click '+t,t]);
                         }
 
                     </script>
 		</div>
-                <!-- footer -->
+        <!-- footer -->
 <div id="footer">
         <div id="footer-radius-bg"></div>
         <div id="footer-hr-links-bg"></div>
@@ -557,7 +671,9 @@ Zbigz.com may update this privacy policy at any time without additional notifica
                         <li id="page-premium-overview"><a href="page-premium-overview" rel="ajax">Premium overview</a></li>
                         <!-- <li><a href="" rel="ajax">Anonymizer</a></li>  -->
                         <li><a style="color: red" href="http://m.zbigz.com/">Simplified (mobile) site</a></li>
-                        <li id="page-cooperation"><a href="page-cooperation" rel="ajax">Webmasters </a></li>
+                        <li id="page-cooperation"><a href="page-cooperation">Webmasters </a></li>
+                        <li><a href="/page-resellers">Resellers</a></li>
+                        <li><a href="/page-become-a-reseller">Become a reseller</a></li>
                 </ul>
                 <ul id="ul-documents">
                         <li class="li-hr">Documents</li>
@@ -572,12 +688,12 @@ Zbigz.com may update this privacy policy at any time without additional notifica
                         <li id="page-how-it-works"><a href="page-how-it-works" rel="ajax">How it works? </a></li>
                 </ul>
                 <ul id="ul-share">
-                        <!--<li class="li-hr">Join Us</li> -->
-                        <!--<li class="fb"><a href="http://www.facebook.com/pages/ZbigZcom-official/217938498301702" target="_blank">Facebook</a></li> -->
+                        <li class="li-hr">Join Us</li>
+                        <li class="fb"><a href="http://www.facebook.com/pages/ZbigZcom-official/217938498301702" target="_blank">
+                                <img src="/img/fblogo.png"></a></li>
                         <!-- <li class="tw"><a href="">Twitter</a></li>
                         <li class="gp"><a href="">Google +</a></li>  -->
                 </ul>
         </div>
-</div>                                   
-	
+</div>        	
 </body></html>
