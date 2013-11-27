@@ -1,19 +1,29 @@
-> *The following text is extracted and transformed from the reversephonelookup.org privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029151340id_/http%3A//www.reversephonelookup.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversephonelookup.org privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127111220id_/http%3A//www.reversephonelookup.org/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy Tesst
+# Reverse Phone Lookup .Org - Privacy Policy
 
-**Privacy Policy**
+| 
 
-We take your privacy very seriously, and we've taken many steps to help safeguard your online information. This Privacy Policy describes how we treat information received by and about you when you visit ReversePhoneLookup.org site. 
+## Trace Any Number with Reverse Phone Lookup.org
+
+Reverse Phone Lookup.org is the Internet's larges database containing hundreds of millions of phone numbers. Whether you're looking to keep tabs on a loved one or find out who is behind that unidentified cell phone number, simply enter the phone number above, and within seconds our site will return the results you need.   
+  
+---|---  
+  
+**Privacy Policy**  
+We take your privacy very seriously, and we’ve taken many steps to help safeguard your online information. This Privacy Policy describes how we treat information received by and about you when you visit Reverse Phone Lookup.org. 
 
 **Information Collection and Use:**
 
-**Log Files** ReversePhoneLookup.org automatically and through third-party tracking services (e.g., Google Analytics) gathers certain non-personally identifiable information about your use of the ReversePhoneLookup.org site and stores it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamps, and related data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole, to improve the content of our ReversePhoneLookup.org site and the quality of our service. Out of respect for your privacy, we do not link this automatically-collected data to personally identifiable information. 
+**Log Files**  
+Reverse Phone Lookup.org automatically and through third-party tracking services (e.g., Google Analytics) gathers certain non-personally identifiable information about your use of the Reverse Phone Lookup.org and stores it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamps, and related data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole, to improve the content of our Reverse Phone Lookup.org and the quality of our service. Out of respect for your privacy, we do not link this automatically-collected data to personally identifiable information. 
 
-**Cookies** A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use both session ID cookies and tracking cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. We use tracking cookies to better understand how you use the site, and enhance your user experience. A tracking cookie remains on your hard drive for an extended period of time. Your web browser will usually provide a method of removing tracking cookies. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+**Cookies**  
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and tracking cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. We use tracking cookies to better understand how you use the site, and enhance your user experience. A tracking cookie remains on your hard drive for an extended period of time. Your web browser will usually provide a method of removing tracking cookies. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
-**Information Disclosure**
+**Security**  
+Except as explained above, Reverse Phone Lookup.org will not share your personally identifiable information, with third parties without your consent. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information. 
 
-**Security** Except as explained above, ReversePhoneLookup.org will not share your personally identifiable information, with third parties without your consent. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party â€œhackersâ€ from illegally obtaining this information. 
+**Legal Disclaimer**
 
-**Legal Disclaimer** ReversePhoneLookup.org reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web 
+Reverse Phone Lookup.org reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web 
