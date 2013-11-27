@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 5thround.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527104949id_/http%3A//www.5thround.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5thround.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127080714id_/http%3A//www.5thround.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 5thRound.com – UFC news, play-by-play results, video interviews, rumors
+# Privacy Policy | 5thRound.com: UFC news, play by play results, rumors and more
 
 The following Privacy Policy governs the online information collection practices of bnqt.com (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the 5thRound.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
