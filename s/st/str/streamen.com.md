@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streamen.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603083735id_/http%3A//www.streamen.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamen.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127142359id_/http%3A//www.streamen.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Streamen - Privacy
+# Streamen - Privacy Policy
 
 [Home](http://www.streamen.com/) / Privacy Policy
 
@@ -12,7 +12,7 @@ Streamen will not collect any personal identifying information about you (includ
 
 If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
 
-When you do provide us with personal identifying information, such information will be gathered solely by Streamen, and is for use solely by Streamen. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
+When you do provide us with personal identifying information, such information will be gathered solely by Streamen, and is for use solely by Streamen and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
 
 Streamen may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
 
@@ -35,21 +35,19 @@ You also have choices with respect to cookies. By modifying your browser prefere
 
 This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
 
-Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. Streamen does not knowingly collect contact or personal information from children under 13. Our sites are not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 wherever age related information is requested.
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. Streamen does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
 
 Members areas of Streamen may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@streamen.com](https://web.archive.org/contactsupport.php?).
 
-Streamen does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from Streamen, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?).
+Streamen does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from Streamen, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?).
 
-Streamen also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Further, according to our published policy, if Streamen becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, Streamen reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the Streamen program, termination of Streamen services, and forfeiture of all commissions.
+Streamen also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if Streamen becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, Streamen reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the Streamen program, termination of Streamen services, and forfeiture of all commissions.
 
 If you have any questions about this Privacy Policy, please contact our customer service department at [support@streamen.com](https://web.archive.org/contactsupport.php?) and provide us with your name, your Streamen login name, and any information you feel is important.
 
 The address for correspondence by post is
 
-Streamates Limited  
-c/o Ariel Secretaries Limited  
-196, Arch Makarios Ave, Ariel Corner,  
-1st Flr, Office 102  
-P.O. Box 57528  
-3316 Limassol - Cyprus
+ICF Technology, Inc.  
+PO Box 21508  
+Seattle, WA 98111  
+USA 
