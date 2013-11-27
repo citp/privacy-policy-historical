@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the z4-forum.com privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126074318id_/http%3A//www.z4-forum.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the z4-forum.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127131254id_/http%3A//www.z4-forum.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
