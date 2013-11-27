@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapexposure.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609003212id_/http%3A//www.mapexposure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapexposure.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127184141id_/http%3A//www.mapexposure.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Map Exposure
 
