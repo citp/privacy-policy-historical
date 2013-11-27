@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldgenie.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528183647id_/http%3A//www.goldgenie.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldgenie.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127022523id_/http%3A//www.goldgenie.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Consent | Confidentiality | Security | GoldGenie Ltd
 
