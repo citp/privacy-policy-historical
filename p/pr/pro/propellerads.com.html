@@ -1,406 +1,240 @@
-<!--The following is the downloaded HTML source of the propellerads.com privacy policy that was archived on 2013-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520182105id_/http%3A//propellerads.com/terms) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the propellerads.com privacy policy that was archived on 2013-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127071634id_/http%3A//propellerads.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<!-- TradeDoubler site verification 2253572 -->
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Terms and Conditions from Propeller Ads Media.</title>
-<link rel="stylesheet" type="text/css" href="/styles/mainstyle.css">
-<link rel="stylesheet" type="text/css" href="/styles/cusel.css">
-<link href="/images/favicon.png" rel="shortcut icon" type="/images/favicon.png">
-<!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="/styles/ie-7.css" />
-<![endif]-->
-<!--[if IE 6]>
-<link rel="stylesheet" type="text/css" href="/styles/ie-6.css" />
-<![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery.js"></script>
-<script type="text/javascript" src="/scripts/jquery.jcarousel.min.js"></script>
-<script type="text/javascript">
-function mycarousel_initCallback1(carousel)
-{
-    // Disable autoscrolling if the user clicks the prev or next button.
-    carousel.buttonNext.bind('click', function() {
-        carousel.startAuto(0);
-    });
-
-    carousel.buttonPrev.bind('click', function() {
-        carousel.startAuto(0);
-    });
-
-    // Pause autoscrolling if the user moves with the cursor over the clip.
-    carousel.clip.hover(function() {
-        carousel.stopAuto();
-    }, function() {
-        carousel.startAuto();
-    });
-};
-
-jQuery(document).ready(function() {
-    jQuery('#slider').jcarousel({
-        auto:5,
-		scroll:1,
-        wrap: 'last',
-        initCallback: mycarousel_initCallback1
-    });
-});
-</script>
-<script type="text/javascript">
-function mycarousel_initCallback(carousel)
-{
-    carousel.stopAuto();
-	carousel.clip.hover(function() {
-    carousel.startAuto();
-    });
-	$('div.banners').hover(function(){
-	carousel.stopAuto();
-	});
-};
-
-jQuery(document).ready(function($) {
-    jQuery('#banner-carousel').jcarousel({
-		scroll:1,
-		auto:1,
-        wrap: 'last',
-		initCallback: mycarousel_initCallback
-    });
-		
-});
-</script>
-<script type="text/javascript">
-jQuery(document).ready(function($) {
-(function($){
-$.fn.clearDefault = function(){
-return this.each(function(){
-var default_value = $(this).val();
-$(this).focus(function(){
-if ($(this).val() == default_value) $(this).val("");
-});
-$(this).blur(function(){
-if ($(this).val() == "") $(this).val(default_value);
-});
-});
-};
-})(jQuery);
-$('div.log-name input, div.log-pass input').clearDefault();
-});
-</script>
-<!--[if IE 6]>
-<script type="text/javascript">
-jQuery(document).ready(function($){
-
-$('div.link-hov').hover(function(){
-	$(this).find('div.link-bl').css('display', 'block')}, function(){
-		$(this).find('div.link-bl').css('display', 'none')
-	});
-
-$('div.lang').hover(function(){
-	$(this).find('div.lang-b').css('display', 'block')}, function(){
-		$(this).find('div.lang-b').css('display', 'none')
-	});
-
-});
-</script>	
-<![endif]-->
-<script type="text/javascript" src="/scripts/csb-min.js"></script>
-<script type="text/javascript">
-jQuery(document).ready(function($){
-
-$('div.link-hov').click(function(){
-	$(this).find('div.link-bl').show().addClass('link-hovered')
-});
-
-
-$('div.link-hov').hover(function(){
-	$(this).find('div.link-hovered')}, function(){
-		$(this).find('div.link-hovered').css('display', 'none')
-	});
-
-$('div.lang').hover(function(){
-	$(this).find('div.lang-b').css('display', 'block')}, function(){
-		$(this).find('div.lang-b').css('display', 'none')
-	});
-
-});
-</script>	
-<script type="text/javascript">
-jQuery(document).ready(function($){
-$("#log-select, .registerforma-element-select select, .stepforma-element-select select").selectBox();
-});
-</script>
-
-
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-28469073-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-
-
-
+<!DOCTYPE html><html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
+	<link href="/images/favicon.png" rel="shortcut icon" type="/images/favicon.png">
+    <link rel="stylesheet" href="/styles/style.css?ver=2.00">
+    <link rel="stylesheet" href="/styles/grid.css">
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="/styles/ie/ie7.css">
+    <![endif]-->
+    <title>Propeller Ads Media</title>
+    <!--[if lt IE 9]>
+    <script src="/scripts/ie/html5.js"></script>
+    <script src="/scripts/ie/ie9.js"></script>
+    <![endif]-->
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/scripts/jquery.js"></script>
+    <script src="/scripts/jquery.yaselect.min.js"></script>
+    <script src="/scripts/jquery.smooth-scroll.js"></script>
+    <script src="/scripts/jquery.iosslider.min.js"></script>
+    <script src="/scripts/jquery.nivo.slider.js"></script>
+    <script src="/scripts/jq_js.js?ver=1.00"></script>
 </head>
+
 <body>
+<div class="wrap_it_all">
+	<!-- header -->
+	<header class="site_header">
+		<div class="site_header_line"></div>
+		<div class="site_header_wrapper">
+			<div class="logo"><a href="/"><img src="/images/logo.png" alt="Propeller ADS media"></a></div>
 
-<div class="grad-top">
-  <div class="center">
-    <div class="head">
-      <div class="logo">
-        <a href="/" title="Main page"><img src="/images/logo.png" alt="#"></a>
-      </div>
-      <div class="log-field">
-        <form action="http://partner.propellerads.com/" method="post">
-          <div class="log-name">
-            <input type="text" name="login" value="Username">
-          </div>
-          <div class="log-pass">
-            <input type="password" name="pass" value="Password">
-          </div>
-          <div class="log-sel">
-            <select name="type" id="log-select">
-              <option value="publisher">Publisher</option>
-              <option value="advertiser">Advertiser</option>
-            </select>
-          </div>
-          <div class="log-sub">
-			  <input type="hidden" name="signin" value="1">
-            <input type="submit" name="" value="">
-          </div>
-          <br class="clear">
-        </form>
-      </div>
-      <!--<div class="lang">
-        <div class="lang-t"><span>Choose language</span></div>
-        <div class="lang-b">
-          <div class="lang-bbg">
-            <div class="lang-bt">
-              <div class="lang-bb">
-                <ul>
-                  <li class="lang-eng"><a href="#" title="#">English</a></li>
-                  <li class="lang-rus"><a href="#" title="#">Russian</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>-->
-      <div class="h-list">
-        <ul>
-          
-          <li><a href="/news/" title="#">News</a></li>
-          <li><a href="/faq/" title="Faq">Faq</a></li>
-          <li style="border: 0px;"><a href="/contacts/" style="background:none">Contacts</a></li>
-        </ul>
-      </div>
-      <div class="info-contacts"><span><!--support@propellerads.com | +4402032864880--><img src="/images/contop.png" width="333" height="23"></span></div>
-    </div>
+			<!-- log in out link -->
+			<div class="log_in_out"><a href="/login">Login</a></div>
+			<!-- /log in out link -->
 
-    <div class="links-top">
-      <div class="link-t">
-        <div class="link-learn"><a href="/why_propellerads/" title="Learn More">Learn More</a></div>
-        <div class="link-hov">
-          <div class="link-title">
-            <p>Advertisers</p>
-          </div>
-          <div class="link-bl">
-            <div class="link-bltop">
-              <ul>
-                <li><a href="/why_propellerads/" title="Why PropellerAds?"><span>1</span><b>Why PropellerAds?</b><br class="clear">
-                  </a></li>
-                <li><a href="/how_it_works/" title="How it works?"><span>2</span><b>How it works?</b><br class="clear">
-                  </a></li>
-                <li><a href="/high_traffic_quality/" title="Hight traffic quality"><span>3</span><b>Hight traffic quality</b><br class="clear">
-                  </a></li>
-                <li><a href="/step_by_step/" title="Step by Step"><span>4</span><b>Step by Step</b><br class="clear">
-                  </a></li>
-                <li><a href="/advertiser_registration/" title="Sign Up"><span>5</span><b>Sign Up</b><br class="clear">
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="link-t">
-        <div class="link-learn"><a href="/maximize_your_yield/" title="Learn More">Learn More</a></div>
-        <div class="link-hov">
-          <div class="link-title">
-            <p>Publishers</p>
-          </div>
-          <div class="link-bl">
-            <div class="link-bltop">
-              <ul>
-                <li><a href="/maximize_your_yield/" title="Maximize Your Revenue"><span>1</span><b>Maximize Your Revenue</b><br class="clear">
-                  </a></li>
-                <li><a href="/p_how_it_works/" title="To start working..."><span>2</span><b>To start working...</b><br class="clear">
-                  </a></li>
-                <li><a href="/p_why_propellerads/" title="Why PropellerAds?"><span>3</span><b>Why PropellerAds?</b><br class="clear">
-                  </a></li>
-                <li><a href="/ad_formats/" title="Ad Formats"><span>4</span><b>Ad Formats</b><br class="clear">
-                  </a></li>
-                <li><a href="/publisher_agreement/" title="Publisher Agreement"><span>5</span><b>Publisher Agreement</b><br class="clear">
-                  </a></li>
-                  
-                  <li><a href="/publisher_registration/" title="Sign Up"><span>6</span><b>Sign Up</b><br class="clear">
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <br class="clear">
-    </div>
-   <div class="how">
-      <div class="how-t">
-        <div class="how-b">
-          <div class="how-start">
-            
-            <div class="how-word">Privacy policy</div>
-            <br class="clear">
-          </div>
-          <div class="how-desc" style="margin-left: -45px;">Propeller Ads Media Ltd is committed to protecting the privacy of Internet users. Accordingly, we strictly adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information. <br><br>
-This Privacy Statement presents our privacy policy, including Propellerads.com's privacy practices. Below is information regarding Propellerads.com's commitment to protecting the privacy of Internet users. The purpose of this Privacy Policy is to provide users with clear and complete notice about the user information we may collect in connection with our Services and on our corporate website.<br><br>
-Propellerads.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 12/06/2012.<br><br><br>
+			<!-- main menu -->
+			<nav class="main_menu">
+				<ul class="main_menu_list">
+					<li><a href="/">Home</a></li>
+					<li><a href="/info_pub">Publishers</a></li>
+					<li><a href="/info_adv">Advertisers</a></li>
+					<li><a href="/news">News</a></li>
+					<li><a href="/contacts">Contact Us</a></li>
+				</ul>
+				<br class="clear">
+			</nav>
+			<!-- /main menu -->
 
-<b>Information We Collect Through our Services</b><br><br>
-<b>We do not collect PII.</b><br><br>
-We do not collect the online user’s personally identifiable information ("PII") through our Services.  PII generally refers to information such as an individual’s name, mailing address, phone number or e-mail address.<br><br>
-Non-Personal Information Collected by our Services<br><br>
-We offer a range of Services that allow advertisers and publishers to show online users the most useful and relevant ads online.<br><br>
-We may collect non-personally identifiable information ("Non-PII") regarding the user’s behavior and usage patterns on advertisements and sites operated by our clients to better customize the type of advertisements users see on various sites.  Non-PII may include information such as the type of Internet browser used by an online user, the type of computer operating system used, the domain name of the website visited, as well as information related to websites and web pages a user is viewing when an advertisement is shown. <br><br>
-We collect Non-PII through the use of cookies and pixels.  No personally identifiable information is collected or used in this process.  A cookie is a file on your browser that uniquely identifies your browser.  A pixel is a line of code which is used by a Web site or third party ad server to track a user’s activity.  The use of a pixel allows us to record that a user has visited a particular webpage along with additional Non-PII that the website publisher or advertiser may choose to include with the pixel.<br><br>
-The use of cookies by our affiliates, service providers or tracking utility company is not covered by our Privacy Policy.  We do not have access or control over these cookies.  These third parties use session ID cookies to make it easier for you to navigate our site. <br><br>
- 
-<b>Disclosure of Information to Third Parties</b><br><br>
-We do not collect PII via our Services, and therefore, we do not sell, rent, or share PII collected on our customer’s websites to non-affiliated third parties.  <br><br>
+			<!-- main menu select -->
+			<div class="main_menu_select"> <span>Menu</span>
+				<select>
+				</select>
+			</div>
+			<!-- /main menu select -->
 
-We may disclose Non-PII collected through our Services, and information derived from it, to our customers.  This Non-PII may be used by our customers to deliver tailored ads to users on participating websites.  This information cannot be used to contact or identify any person individually.  Further, all of our customers have warranted that they shall use any Non-PII they receive in compliance with applicable laws and regulations.<br><br>
+		</div>
+	</header>
+	<!-- /header -->
+<!-- page pad -->
+<div class="page_pad">
 
-We may disclose a user’s information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to, fraud and situations involving potential threats to the physical safety of any person.<br><br>
- 
-<b>User Choice</b><br><br>
-We use technology, which includes cookies, in the delivery of our Services.  We believe that the use of these tools enables us and our advertiser clients to provide users with a more meaningful web experience.<br><br>
-You may at all times adjust your computer’s web browser settings to refuse all cookies, but by doing so you may not be able to use certain features on the websites you visit or take full advantage of all the website offerings and interest based advertising.  You can remove cookies by following directions provided in your Internet browser’s "help" file.<br><br>
-You may also simply opt out of receiving interest-based advertising by <a href="http://propellerads.com/opt-out/">clicking here</a>.  <br><br>
-Our opt-out cookies are programmed to expire two years after they are initially issued.  If you buy a new computer, upgrade or change Web browsers or delete this "opt-out" cookie, you will need to perform this opt-out process again.  In order for the opt-out to work, your browser must be set to accept 3rd party cookies. Opting out does not necessarily delete or replace all cookies from our domain.<br><br>
-  
-<b>Information Security</b><br><br>
-We follow generally accepted industry standards to protect against the unauthorized access to, retention of, and disclosure of data.  This includes undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use.  Any data that is stored on our servers is treated as confidential information.  Please keep in mind, however, that despite these reasonable efforts to protect data on our servers, no method of transmission over the Internet is guaranteed to be secure.  Therefore, while we strive to protect your data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party.<br><br>
+	<!-- center -->
+	<div class="center">
+		<!-- content page -->
+		<section class="content_page">
+			<h1 class="page_title">Propeller Ads Media</h1>
+			<!-- content page area -->
+			<div class="content_area">
+				<div class="content_area_wrapper">
+					<!-- page style block -->
+					<article class="style">
+						<h3>Privacy policy</h3>
+						<div>
+							Advertising Technologies, LTD. (d/b/a Propeller Ads) (the, “Propeller Ads”, “Propeller”, “We”, etc.) is committed to protecting the privacy of Internet users. Accordingly, we take commercially reasonable measures to adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information.&nbsp;
+							<br><br>
+							This Privacy Statement presents our privacy policy, including our privacy practices. Below is information regarding commitment to protecting the privacy of Internet users. The purpose of this Privacy Policy is to provide users with clear and complete notice about the user information we may collect in connection with our Services and on our corporate website.
+							<br><br>
+							Propeller Ads may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 08/19/2013.
+							<br><br>
+							<strong>Information We Collect Through our Services</strong>
+							<br><br>
+							<strong>We do not collect PII.</strong>
+							<br><br>
+							We do not collect the online user’s personally identifiable information ("PII") through our Services. PII generally refers to information such as an individual’s name, mailing address, phone number or e-mail address.
+							<br><br>
+							<strong>Non-Personal Information Collected by our Services</strong>
+							<br><br>
+							We offer a range of Services that allow advertisers and publishers to show online users the most useful and relevant ads online.
+							<br><br>
+							We may collect non-personally identifiable information ("Non-PII") regarding the user’s behavior and usage patterns on advertisements and sites operated by our clients to better customize the type of advertisements users see on various sites. Non-PII may include information such as the type of Internet browser used by an online user, the type of computer operating system used, the domain name of the website visited, as well as information related to websites and web pages a user is viewing when an advertisement is shown.&nbsp;
+							<br><br>
+							We collect Non-PII through the use of cookies and pixels. No personally identifiable information is collected or used in this process. A cookie is a file on your browser that uniquely identifies your browser. A pixel is a line of code which is used by a Web site or third party ad server to track a user’s activity. The use of a pixel allows us to record that a user has visited a particular webpage along with additional Non-PII that the website publisher or advertiser may choose to include with the pixel.
+							<br><br>
+							The use of cookies by our affiliates, service providers or tracking utility company is not covered by our Privacy Policy. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our site.&nbsp;
+							<br><br>
+							<strong>Disclosure of Information to Third Parties</strong>
+							<br><br>
+							We do not collect PII via our Services, and therefore, we do not sell, rent, or share PII collected on our customer’s websites to non-affiliated third parties.&nbsp;
+							<br><br>
+							We may disclose Non-PII collected through our Services, and information derived from it, to our customers. This Non-PII may be used by our customers to deliver tailored ads to users on participating websites. This information cannot be used to contact or identify any person individually. Further, all of our customers have warranted that they shall use any Non-PII they receive in compliance with applicable laws and regulations.
+							<br><br>
+							We may disclose a user’s information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to, fraud and situations involving potential threats to the physical safety of any person.
+							<br><br>
+							<strong>User Choice</strong>
+							<br><br>
+							We use technology, which includes cookies, in the delivery of our Services. We believe that the use of these tools enables us and our advertiser clients to provide users with a more meaningful web experience.
+							<br><br>
+							You may at all times adjust your computer’s web browser settings to refuse all cookies, but by doing so you may not be able to use certain features on the websites you visit or take full advantage of all the website offerings and interest based advertising. You can remove cookies by following directions provided in your Internet browser’s "help" file.
+							<br><br>
+							You may also simply opt out of receiving interest-based advertising by&nbsp;clicking <a href="http://propellerads.com/opt-out/">here</a>.
+							<br><br>
+							Our opt-out cookies are programmed to expire two years after they are initially issued. If you buy a new computer, upgrade or change Web browsers or delete this "opt-out" cookie, you will need to perform this opt-out process again. In order for the opt-out to work, your browser must be set to accept 3rd party cookies. Opting out does not necessarily delete or replace all cookies from our domain.
+							<br><br>
+							<strong>Information Security</strong>
+							<br><br>
+							We follow generally accepted industry standards to protect against the unauthorized access to, retention of, and disclosure of data. This includes undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use. Any data that is stored on our servers is treated as confidential information. Please keep in mind, however, that despite these reasonable efforts to protect data on our servers, no method of transmission over the Internet is guaranteed to be secure. Therefore, while we strive to protect your data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party.
+							<br><br>
+							<strong>Your Use and Correspondence on this Site</strong>
+							<br><br>
+							We use cookies to understand and analyze the usage trends of our users on our corporate website. We do not collect the online user’s PII through these cookies, only non-PII. If you provide us information through our “contact us” link on our corporate website, we will keep a record of the information you provide including your email address and any other personal information you provide solely for the purpose of responding to your inquiry or to provide you with requested marketing material. This information will never be shared with third parties without your consent.&nbsp;
+							<br><br>
+							PII collected on our website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries, agents or customers maintain facilities. You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside. Providing such information will constitute your consent to any such transfer.
+							<br><br>
+							If you would like for us to remove your information from our marketing e-mails or newsletters, please contact us at <a href="mailto:support@propellerads.com">support@propellerads.com</a>. Be sure to include your name, username and clear instructions regarding any change to your PII including email address or if you would like us to unsubscribe you from our database.&nbsp;
+							<br><br>
+							If we make any material or substantive changes in the way that we use the PII collected through our corporate Website, we will post a clear and conspicuous notice of those changes on the Website and in this Privacy Policy. We also invite you to contact us at support@propellerads.com with any questions or concerns.
+							<br><br>
+							<strong>Children’s Privacy</strong>
+							<br><br>
+							We are sensitive to the issue of children’s privacy. Therefore, our website, products, and Services are neither developed for, nor directed at, children. If you believe your child has provided us with personally identifiable data, and you would like to have the data removed, please contact us at <a href="mailto:support@propellerads.com">support@propellerads.com</a>.
+							<br><br>
+							<strong>Linking to Other Sites</strong>
+							<br><br>
+							A link from our corporate web site to another web site does not imply our endorsement of that site. We do not control the sites to which we link and assume no responsibility for their content or privacy policies. Therefore, you should carefully review the privacy policies that apply to any sites you access from our site.
+							<br><br>
+							<strong>Spam and E-mail lists</strong>
+							<br><br>
+							We do not intentionally send unsolicited e-mail messages that could be construed as spam.
+							<br><br>
+							<strong>Transfer of Data upon Change of Control</strong>
+							<br><br>
+							In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all data (including any personally identifiable information a user may have provided through the “contact us” page) that is in our possession or under our control to such acquiring party.
+							<br><br>
+							<strong>A Special Note about the European Union</strong>
+							<br><br>
+							In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this Privacy Policy should first contact <a href="mailto:support@propellerads.com">support@propellerads.com</a>
+							<br><br>
+							The company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit&nbsp;<a target="_blank" href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>
+							<br><br>
+							Propeller Ads has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Propeller Ads, please visit the BBB EU SAFE HARBOR web site at&nbsp;<a href="http://www.bbb.org/us/safe-harbor-complaints" target="_blank">http://www.bbb.org/us/safe-harbor-complaints</a>&nbsp;for more information and to file a complaint.
+							<br><br>
+							<strong>Questions or Comments about this Privacy Policy</strong>
+							<br><br>
+							If you have questions or concerns regarding this statement, you should first contact us through email. You can address your general questions and comments by e-mail to&nbsp;<a href="mailto:support@propellerads.com">support@propellerads.com</a>
+						</div>
+					</article>
+					<!-- /page style block -->
 
-<b>Your Use and Correspondence on this Site</b><br><br>
+				</div>
+			</div>
+			<!-- /content page area -->
 
-We use cookies to understand and analyze the usage trends of our users on our corporate website. We do not collect the online user’s PII through these cookies, only non-PII. If you provide us information through our “contact us” link on our corporate website, we will keep a record of the information you provide including your email address and any other personal information you provide solely for the purpose of responding to your inquiry or to provide you with requested marketing material. This information will never be shared with third parties without your consent. <br><br>
+			<br class="clear">
+		</section>
+		<!-- /content page -->
 
-PII collected on our website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries, agents or customers maintain facilities.  You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside.  Providing such information will constitute your consent to any such transfer.<br><br>
-If you would like for us to remove your information from our marketing e-mails or newsletters, please contact us at support@propellerads.com.  Be sure to include your name, username and clear instructions regarding any change to your PII including email address or if you would like us to unsubscribe you from our database. <br><br>
-If we make any material or substantive changes in the way that we use the PII collected through our corporate Website, we will post a clear and conspicuous notice of those changes on the Website and in this Privacy Policy.  We also invite you to contact us at support@propellerads.com with any questions or concerns.<br><br>
- 
-<b>Children’s Privacy</b><br><br>
-We are sensitive to the issue of children’s privacy.  Therefore, our website, products, and Services are neither developed for, nor directed at, children.  If you believe your child has provided us with personally identifiable data, and you would like to have the data removed, please contact us at support@propellerads.com.<br><br>
- 
-<b>Linking to Other Sites</b><br><br>
-A link from our corporate web site to another web site does not imply our endorsement of that site. We do not control the sites to which we link and assume no responsibility for their content or privacy policies. Therefore, you should carefully review the privacy policies that apply to any sites you access from our site.<br><br>
- 
-<b>Spam and E-mail lists</b><br><br>
-We do not intentionally send unsolicited e-mail messages that could be construed as spam.<br><br>
- 
-<b>Transfer of Data upon Change of Control</b><br><br>
-In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all data (including any personally identifiable information a user may have provided through the “contact us” page) that is in our possession or under our control to such acquiring party.<br><br>
- 
-<b>A Special Note about the European Union</b><br><br>
-In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this Privacy Policy should first contact support@propellerads.com<br><br>
-The company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a> <br><br>
-Propeller Ads has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Propeller Ads, please visit the BBB EU SAFE HARBOR web site at <a href="www.bbb.org/us/safe-harbor-complaints">www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint. <br><br>
- 
-<b>Questions or Comments about this Privacy Policy</b><br><br>
-If you have questions or concerns regarding this statement, you should first contact us through email. You can address your general questions and comments by e-mail to support@propellerads.com <br><br>
-
-
-
+	</div>
+	<!-- /center -->
 </div>
-        </div>
-      </div>
-    </div>
-    
-     
-    <div class="footer">
-      <div class="footer-blocks">
-        <div class="footer-bl">
-          <div class="footer-blt">
-            <div class="footer-blbg">
-              <div class="footer-bl-title">Advertisers</div>
-              <ul>
-                <li><a href="/why_propellerads/" title="Why PropellerAds?">Why PropellerAds?</a></li>
-                <li><a href="/how_it_works/" title="How it works?">How it works?</a></li>
-                <li><a href="/high_traffic_quality/" title="Hight traffic quality">Hight traffic quality</a></li>
-                <li><a href="/step_by_step/" title="Step by Step">Step by Step</a></li>
-                <li><a href="/advertisers_registration/" title="Sign Up">Sign Up</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="footer-blb"></div>
-        </div>
-        <div class="footer-bl">
-          <div class="footer-blt">
-            <div class="footer-blbg">
-              <div class="footer-bl-title">Publishers</div>
-              <ul>
-                <li><a href="/maximize_your_yield/" title="Maximize Your Revenue">Maximize Your Revenue</a></li>
-                <li><a href="/p_how_it_works/" title="To start working...">To start working...</a></li>
-                <li><a href="/publisher_agreement/" title="Publisher Agreement">Publisher Agreement</a></li>
-                <li><a href="/p_why_propellerads/" title="Why PropellerAds?">Why PropellerAds?</a></li>
-                <li><a href="/publisher_registration/" title="Sign Up">Sign Up</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="footer-blb"></div>
-        </div>
-        <div class="footer-bl">
-          <div class="footer-blt">
-            <div class="footer-blbg">
-              <div class="footer-bl-title">News &amp; FAQ</div>
-              <ul>
-                <li><a href="/news/" title="News">News</a></li>
-                <li><a href="/faq/" title="Faq">Faq</a></li>
-                <li><a href="/contacts/" title="Contact Us">Contact Us</a></li>
-                <li><a href="/about/" title="About">About</a></li>
-                <li><a href="/terms/" title="Privacy policy">Privacy policy</a> | <a href="/opt-out/" title="Opt-out">Opt-out</a></li>
-<!--                <li><a href="/opt-out/" title="Opt-out">Opt-out</a></li> -->
-              </ul>
-            </div>
-          </div>
-          <div class="footer-blb"></div>
-        </div>
-        <br class="clear">
-      </div>
-      <div class="follow">
-        <div class="follow-title">Follow PropellerAds!</div>
-        <div class="buttons">
-          <ul>
-            <li class="button-1"><a href="#" title="Soon" target="_blank">RSS</a></li>
-            <li class="button-2"><a href="http://www.facebook.com/pages/ProPeller-Ads-Media/340870805927348" title="Facebook" target="_blank">Facebook</a></li>
-            <li class="button-3"><a href="https://twitter.com/#!/propellerads" title="Twitter" target="_blank">Twitter</a></li>
-            <li class="button-4"><a href="#" title="Soon" target="_blank">Linkedin</a></li>
-          </ul>
-          <br class="clear">
-        </div>
-        <div class="follow-txt">Copyright © PropellerAds 2013<br>
-        Your best digital marketing solution <br>
-        Advertise. Easy! 
+<!-- /page pad -->
 
-        </div>
-      </div>
-      <br class="clear">
-    </div>
-  </div>
+<div class="empty"></div>
+</div>
+<!-- /global wrapper -->
+
+<!-- footer -->
+<footer class="site_footer">
+	<div class="site_footer_wrapper">
+
+		<!-- copy -->
+		<div class="copy">
+			<div class="copy_text">Copyright © PropellerAds.com 2011 - 2013<br><br></div>
+			<div class="copy_links"> <a href="/terms">Agreement</a> <a href="/privacy">Privacy policy</a> <a href="/opt-out">Opt-out</a> </div>
+		</div>
+		<!-- /copy -->
+
+		<br class="clear">
+	</div>
+</footer>
+<!-- /site footer -->
+<div style="display: none">
+<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 995032169;
+	var google_conversion_label = "_iK6CP-_7xcQ6fi72gM";
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+	<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/995032169/?value=0&amp;label=_iK6CP-_7xcQ6fi72gM&amp;guid=ON&amp;script=0"/>
+	</div>
+</noscript>
+<img src="http://go.tendatta.com/?t=p&amp;source=pads&amp;tags=pads" width="0" height="0">
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 983473429;
+var google_conversion_label = "0_cMCPultwYQlbr61AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/983473429/?value=0&amp;label=0_cMCPultwYQlbr61AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript> 
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42170555-1', 'propellerads.com');
+  ga('send', 'pageview');
+
+</script>
+
 </div>
 
 </body></html>
