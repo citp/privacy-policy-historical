@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the popshops.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430093437id_/http%3A//www.popshops.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popshops.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127125740id_/http%3A//www.popshops.com/support/privacy-policy) for the most accurate reproduction.*
 
-# PopShops.com :: Privacy policy
+# Rakuten PopShops
 
 We value our privacy and assume you value yours. Our Privacy Policy makes this point in painstaking detail, but the gist of it is that we take the safeguarding of your personal information very seriously.
 
 Our website is secure. We obfuscate the links in your showcases to protect you against affiliate ID hijacking. (Remember that you can always do a cookie test to verify that your affiliate ID is linked to your shop's products.)
 
-## PopShops (PrestoGifto, Inc.) respects your privacy
+## PopShops (Rakuten PopShops, Inc.) respects your privacy
 
 PopShops respects your privacy and are committed to protecting it. We do not sell your personal information to any third parties. PopShops provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used. We've structured our websites so that, in general, you can visit PopShops on the Web without identifying yourself or revealing any personal information. However, certain users may choose to provide personally identifiable information in registering for our services. 
 
