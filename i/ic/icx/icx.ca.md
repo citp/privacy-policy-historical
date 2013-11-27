@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icx.ca privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527234501id_/http%3A//www.icx.ca/StaticPage.aspx%3Ff%3DPrivacy_ICX) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icx.ca privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127081157id_/http%3A//www.icx.ca/StaticPage.aspx%3Ff%3DPrivacy_ICX) for the most accurate reproduction.*
 
 # ICX.ca -
 
@@ -17,5 +17,7 @@ The data collected is also used to help CREA analyze the browsing patterns of it
 CREA is licensed to use Microsoft’s Bing Map on its websites. Visitors to this website should be aware that Microsoft might collect information such as, but not limited to, an end user’s IP address, request, time of submission, and results returned to the user, in connection with the use of the embedded Bing Maps. All such information collected will be subject to, and used in accordance with, the data practices described in the Microsoft Online Privacy Statement, which is available at <http://privacy.microsoft.com/en-us/fullnotice.aspx>. 
 
 Our website allows third-party companies to serve ads and/or collect certain anonymous information when visitors use our web site. These third parties may use cookies or web beacons to collect non-personally identifiable information (e.g., click stream information, browser type, time and date) during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/>.
+
+While visiting our website you may be asked to participate in a survey conducted by a third party. If you are selected to participate in this survey, a persistent cookie is stored on your computer's hard drive for 60 days to preclude a new invitation during that time. All surveys are optional and the information collected will not be associated with any personal information. Survey data is used to permit accurate analysis, produce summary reports, and monitor overall trends with our website. 
 
 Any changes to the CREA Privacy Policy will be promptly communicated on this page. Policy changes will not alter how we handle previously submitted personal information. 
