@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpprobusiness.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601033336id_/http%3A//wpprobusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpprobusiness.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127173412id_/http%3A//wpprobusiness.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for WPProBusiness.com — WP Pro Business
+# Privacy Policy for WPProBusiness.com – WP Pro Business
 
 The WPProBusiness.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
