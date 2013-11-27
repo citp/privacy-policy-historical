@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourloot2boot.com privacy policy that was archived on 2013-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130304003227id_/http%3A//www.ourloot2boot.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourloot2boot.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127020154id_/http%3A//ourloot2boot.com/privacypolicy.php) for the most accurate reproduction.*
 
 # OurLoot2Boot Network
 
