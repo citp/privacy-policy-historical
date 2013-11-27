@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceanspray.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510221238id_/http%3A//oceanspray.com/Footer/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanspray.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127051732id_/http%3A//www.oceanspray.com/Footer/Privacy.aspx) for the most accurate reproduction.*
 
 # Home | Ocean Spray
 
