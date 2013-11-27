@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nadaguides.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615085059id_/http%3A//www.nadaguides.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nadaguides.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127074754id_/http%3A//www.nadaguides.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NADAguides.com
 
@@ -30,7 +30,7 @@ In the unlikely event that NADAguides, one of its business units or substantiall
 
 Changes to this privacy policy
 
-NADAguides may occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the top of the privacy policy. We encourage you to periodically review this privacy policy to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy policy and any updates.
+NADAguides may occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the bottom of the privacy policy. We encourage you to periodically review this privacy policy to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy policy and any updates.
 
 Privacy Policies
 
