@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharedir.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606155419id_/http%3A//sharedir.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharedir.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127110759id_/http%3A//sharedir.com/privacy.html) for the most accurate reproduction.*
 
 # ShareDir - Search and download files without waiting and limits
 
