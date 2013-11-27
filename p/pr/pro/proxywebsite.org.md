@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxywebsite.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602073650id_/http%3A//www.proxywebsite.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxywebsite.org privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127123019id_/http%3A//www.proxywebsite.org/privacy.html) for the most accurate reproduction.*
 
 # Terms Of Service
 
