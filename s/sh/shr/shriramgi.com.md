@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shriramgi.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629233941id_/http%3A//www.shriramgi.com/documents/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shriramgi.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127031549id_/http%3A//www.shriramgi.com/documents/privacy.aspx) for the most accurate reproduction.*
 
 # Untitled Page
 
@@ -8,11 +8,13 @@
 
 ##### Shriram General Insurance Privacy Notice:-
 
-Shriram General Insurance knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **This notice describes our privacy policy. By visiting Shriram General Insurance, you are accepting the practices described in this Privacy Notice.**
+Shriram General Insurance knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **This notice describes our privacy policy. By visiting Shriram General Insurance, you are accepting the practices described in this Privacy Notice.**  
+
 
 ##### What Personal Information About Customers Does Shriram General Insurance Gather?
 
-The information we learn from customers helps us personalize and continually improve your shopping experience at Shriram General Insurance. Here are the types of information we gather.
+The information we learn from customers helps us personalize and continually improve your shopping experience at Shriram General Insurance. Here are the types of information we gather.  
+
 
   * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way.  You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
   * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Shriram General Insurance or advertisements and other content served by or on behalf of Shriram General Insurance on other Web sites.
@@ -69,24 +71,6 @@ Information about our customers is an important part of our business, and we are
 ##### Are Children Allowed to Use Shriram General Insurance?
 
 Shriram General Insurance does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Shriram General Insurance only with the involvement of a parent or guardian. 
-
-##### Does Shriram General Insurance Participate in the Safe Harbor Program?
-
-Shriram General Insurance is a participant in the Safe Harbor program developed by the U.S. D epartment of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](http://export.gov/safeharbor/). If you would like to contact Shriram General Insurance directly about the Safe Harbor program, please send an e-mail to safeharbor@Shriramgi.com. 
-
-##### Conditions of Use, Notices, and Revisions
-
-If you choose to visit Shriram General Insurance, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Shriram General Insurance, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.   
-Related Practices and Information 
-
-  * Conditions of Use
-  * Discussion Boards 
-  * Community Rules 
-  * Help department 
-  * Most Recent Purchases 
-  * Your Profile and Community Guidelines 
-
-
 
 ##### Examples of Information Collected
 
