@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the gamersfirst.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610053411id_/http%3A//www.gamersfirst.com%3Fq%3Den/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersfirst.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127045051id_/http%3A//www.gamersfirst.com%3Fq%3Den/privacy) for the most accurate reproduction.*
 
 # GamersFirst – Free To Play Multiplayer Online Games, Free MMO, Action Based MMOTPS, Post-Apocalyptic MMO, Online FPS, Adventure, Shooting & Strategy Games Online
 
 **Reloaded Games Online Privacy Policy**
 
-Last updated January 10, 2013 
+Last updated July 1, 2013 
 
 Welcome to Reloaded Games!
 
 **Our Privacy Commitment**
 
-[](https://www.esrb.org/confirm/reloaded-confirmation.jsp)Reloaded Games, and its subsidiaries and affiliates (collectively, “Reloaded Games”) respect the privacy rights of our online visitors and recognize the importance of protecting all information that you may choose to share with us.  To further this commitment, we adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store, and use the information you provide us.
+Reloaded Games, and its subsidiaries and affiliates (collectively, “Reloaded Games”) respect the privacy rights of our online visitors and recognize the importance of protecting all information that you may choose to share with us.  To further this commitment, we adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store, and use the information you provide us.
 
 Reloaded Games, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Reloaded Games, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Reloaded Games certification, please visit <http://www.export.gov/safeharbor/>
-
-**ESRB’s Privacy Program**
-
-This certification seal shown on this page confirms that Reloaded Games is a member in good standing of [ESRB’s Privacy Online Program](http://www.esrb.org/privacy/index.jsp).  ESRB’s Privacy Online Program is designed to ensure that our website’s information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms. 
 
 **TABLE OF CONTENTS**  
 ---  
@@ -206,15 +202,6 @@ Irvine, CA 92604
   
 Any personal information you provide to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
-Reloaded Games is a licensee of the ESRB’s Privacy Online Program.  If you believe that we have not properly responded to your inquiry, please contact ESRB at:
-
-ESRB Privacy Online  
----  
-Attn: Director, Privacy Online  
-317 Madison Avenue, 22 Floor  
-New York, NY 10017  
-[privacy@esrb.org](mailto:privacy@esrb.org)  
-  
 back to top
 
 **How will you know if we amend this Privacy Policy?**
@@ -233,8 +220,6 @@ Reloaded Games has developed its websites with the goal of creating an enjoyable
 Building on our general Privacy Policy, we recognize the need to provide additional privacy protections when children visit sites on which we post this Kids Privacy Policy.  We explain those additional protections in this Kids Privacy Policy. 
 
 The Children's Online Privacy Protection Act (“COPPA”) requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from kids under 13 years of age.  COPPA also requires us to obtain the consent of parents and guardians for children under 13 years of age to use certain features of our Web sites.  Below we explain how we do that for kids.  Also, when we use the term “parent” below, we mean to include legal guardians. 
-
-This certification seal shown on this page confirms that Reloaded Games is a member in good standing of [ESRB’s Privacy Online Program](http://www.esrb.org/privacy/index.jsp).  ESRB’s Privacy Online Program is designed to ensure that our website’s information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms.
 
 **What types of information do we collect about kids?**
 
@@ -329,13 +314,4 @@ Irvine, CA 92604
   
 Any personal information you provide to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
-Reloaded Games is a licensee of the ESRB’s Privacy Online Program.  If you believe that we have not properly responded to your inquiry, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>:
-
-Entertainment Software Rating Board  
----  
-Attn.: Director, Privacy Online  
-317 Madison Avenue, 22nd Floor  
-New York, NY 10017   
-[privacy@esrb.org](mailto:privacy@esrb.org)  
-  
 back to top
