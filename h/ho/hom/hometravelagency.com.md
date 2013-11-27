@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometravelagency.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530034523id_/http%3A//hometravelagency.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometravelagency.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127185912id_/http%3A//hometravelagency.com/privacy) for the most accurate reproduction.*
 
 # Privacy | HomeTravelAgency.com
 
@@ -72,6 +72,3 @@ Branford, CT 06405
 United States of America
 
 This policy was last updated on 04-23-2009. Copyright © 2008 [Law Office of Michael E. Young PLLC](http://mikeyounglaw.com/) , and licensed for use by the owner of this website at www.hometravelagency.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
-
-  *   *   *   *   *   * 
-
