@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529082022id_/http%3A//www.mynrma.com.au/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127011633id_/http%3A//www.mynrma.com.au/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | NRMA Motoring & Services
 
@@ -30,6 +30,8 @@ The types of personal information we collect will vary depending on your Members
 We may collect sensitive information, such as the fact that you are disabled, to allow us to provide our services more effectively to you (particularly Roadside Assistance) but only if you provide express consent at the time it is provided. 
 
 Information is also generated whenever a page is accessed on our website that records information such as the time, date and specific page. We collect such information for statistical and maintenance purposes that enables us to continually evaluate our website performance. Some parts of our websites also use "cookies". A "cookie" is a small text file that is placed on your computer's hard drive by a web page server. Cookies store information about the use of our website and are used to identify new or previous visitors to the website and what pages have been accessed. Most web browsers are set to accept cookies, but this function can usually be disabled if you wish. However please note that if you do disable this, not all functionality on our websites will be available to you.
+
+Can't view our site properly? [Follow these instructions to enable cookies in your browser](https://web.archive.org/cookies.htm "Follow these instructions to enable cookies in your browser")
 
 ### 
 
