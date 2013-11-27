@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602072915id_/http%3A//norml.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127012304id_/http%3A//norml.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ NORML understands your concerns about your privacy, both on and off the Internet
 #### What information NORML gathers about you
 
  **Web Traffic Monitoring**  
-NORML keeps track of **non-personally identifiable information** such as the [IP address](http://en.wikipedia.org/wiki/IP_address) of the user's computer[,](http://en.wikipedia.org/wiki/IP_address%29,) time of access, browser type and files downloaded to gather usage statistics for its web site. IP addresses are not associated with other information about a user, but only indicate general visitor navigation patterns. This is typically done by most websites.
+NORML keeps track of **non-personally identifiable information** such as the [IP address](http://en.wikipedia.org/wiki/IP_address) of the user's computer, time of access, browser type and files downloaded to gather usage statistics for its web site. IP addresses are not associated with other information about a user, but only indicate general visitor navigation patterns. This is typically done by most websites.
 
 Additionally, though NORML is primarily funded by individual donors, in order for NORML to successfully meet its organizational goals through other fund raising sources the NORML's website has embedded tags that allow some third party entities such as [Quantcast](http://www.quantcast.com/docs/display/legal/Privacy+Policy) and [Google Analytics](http://www.google.com/analytics/) to collect **non-personally identifiable** usage statistics.
 
@@ -38,14 +38,14 @@ To change your membership information, unsubscribe from an email list, or reques
   2. Send mail to:  
  _NORML  
 1600 K Street, NW  
-Suite 501  
+Mezzanine Level  
 Washington, DC  20006-2832_
   3. Call 202-483-5500
 
 
 
  **Contacting the Web Site**  
-If you have any questions regarding this privacy statement, NORML's practices, or your dealings with this web site, please [contact us](http://norml.org/index.cfm?Group_ID=3441).
+If you have any questions regarding this privacy statement, NORML's practices, or your dealings with this web site, please [contact us](http://norml.org/contact-us).
 
  **Site Terms**  
-Please read our [Terms and Conditions](http://norml.org/index.cfm?Group_ID=7949).
+Please read our [Terms and Conditions](http://norml.org/privacy-policy/item/terms-and-conditions).
