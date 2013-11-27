@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the memberpress.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521100655id_/http%3A//www.memberpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memberpress.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127020503id_/http%3A//www.memberpress.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | WordPress Membership | Membership Site Software | MemberPress
+# Privacy Policy | WordPress Membership Plugin | WordPress Membership Site Software | MemberPress
 
 Caseproof, LLC, a Utah Limited Liability Company, owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
 
