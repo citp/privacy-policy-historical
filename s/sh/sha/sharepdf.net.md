@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharepdf.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430081721id_/http%3A//sharepdf.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharepdf.net privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127020003id_/http%3A//sharepdf.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
