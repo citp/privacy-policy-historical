@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhpr.org privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613032612id_/http%3A//nhpr.org/nhprs-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhpr.org privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127021152id_/http%3A//nhpr.org/nhprs-privacy-policy) for the most accurate reproduction.*
 
 # NHPR's Privacy Policy | New Hampshire Public Radio
 
