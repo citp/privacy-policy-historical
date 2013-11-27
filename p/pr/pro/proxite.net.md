@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proxite.net privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406002221id_/http%3A//www.proxite.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxite.net privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127043414id_/https%3A//proxite.net/privacy.php) for the most accurate reproduction.*
 
-# proxite.net :: free anonymous proxy, uncensored free web browsing. Fast free web proxy, 110 Gbit Network.
+# Web Proxy Site | Proxy Proxite Unblocks Websites.
 
 ## Privacy Policy
 
@@ -23,3 +23,10 @@ We may also use third-party advertising partners on our website. Advertisers may
 The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. If you do not wish to receive any such indirect cookies, please disable the "Allow Cookies" option.
 
 * For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
+
+  * [Home](https://web.archive.org/web/20131127043414id_/https%3A//proxite.net/index.php)
+  * [Edit Browser](https://web.archive.org/web/20131127043414id_/https%3A//proxite.net/edit-browser.php)
+  * [Manage Cookies](https://web.archive.org/web/20131127043414id_/https%3A//proxite.net/cookies.php)
+  * [Disclaimer](https://web.archive.org/web/20131127043414id_/https%3A//proxite.net/disclaimer.php)
+
+
