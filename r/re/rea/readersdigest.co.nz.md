@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.co.nz privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523170434id_/http%3A//www.readersdigest.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.co.nz privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127170441id_/http%3A//www.readersdigest.co.nz/privacy-policy%253Futm_source%253Drdnz%252526utm_medium%253Dfooter%252526utm_campaign%253DPrivacy%252BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest
 
