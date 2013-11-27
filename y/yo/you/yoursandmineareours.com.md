@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursandmineareours.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530091214id_/http%3A//yoursandmineareours.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursandmineareours.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127105408id_/http%3A//yoursandmineareours.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yours and Mine ARE Ours
 
@@ -67,3 +67,5 @@ Tammy At YoursandMineAREOurs Dot Com
 This document was last updated on March 12, 2013
 
 Privacy policy created by Generate Privacy Policy
+
+[](http://www.printfriendly.com/print?url=http://yoursandmineareours.com/about-me/privacy-policy/)
