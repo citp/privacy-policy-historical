@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the muskurahat.pk privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509152738id_/http%3A//www.muskurahat.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muskurahat.pk privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127234153id_/http%3A//www.muskurahat.pk/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy | Muskurahat.pk
-
-## Our Privacy Policy
+# Our Privacy Policy
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit this site, and how we safeguard your information.  We never sell your personal information to third parties.
 
