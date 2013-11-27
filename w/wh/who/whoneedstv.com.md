@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoneedstv.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501231933id_/http%3A//whoneedstv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoneedstv.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127153853id_/http%3A//whoneedstv.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WhoNeedsTV.com is all about internet video humor with a twist of irony that offers a collection of funny videos, funny movies, classic TV ads, virals, silly pictures, viral marketing, digital marketing, interactive media, viral seeding & viral deployment.
 
@@ -7,8 +7,6 @@ The following information explains what we do with the information you give us. 
 **How we collect information from you**
 
 You will see when you fill in our registration forms that we ask for some personal details from you which we need to have in order to provide you with information on products or events or other information on celebrities, people in the news and other information we think you might like. Please make sure your details are correct and up to date so that we can provide you with this information efficiently. If you don't want to tell us who you are, don't bother. We only talk to people who want to hear from us. We also ask for extra bits of information which you do not have to provide us. For some parts of our site we provide you with a password so that you do not have to keep filling in the form each time. The way this works is by using cookies and we explain more about these below. Finally, you don't have to give us any information if you don't want to but you might not be able to get the full benefit of our site if you leave certain pieces of information out of the registration forms.
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Entering our site**
 
