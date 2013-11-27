@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedsxpress.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528180415id_/http%3A//classifiedsxpress.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedsxpress.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127012802id_/http%3A//www.classifiedsxpress.com/pages/privacy.html) for the most accurate reproduction.*
 
 # ClassifiedsXpress - Submit Free Classified Ads | Post Free Ads | Find, buy, sell or rent cars, properties, your products, services, jobs, business advertising and many more...
 
