@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dischem.co.za privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531204317id_/http%3A//dischem.co.za/content_view.asp%3FArticleID%3D1342%26MenuID%3D39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dischem.co.za privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127080918id_/http%3A//www.dischem.co.za/content_view.asp%3FArticleID%3D1342%26MenuID%3D39) for the most accurate reproduction.*
 
 # Dis-Chem | Privacy Statement for the Dis-Chem Website.
 
@@ -15,4 +15,4 @@ We may collect limited information from members in order to contact them from ti
 This site contains links to other sites. Dis-Chem.co.za is not responsible for the privacy practices or the content of such Web sites. 
 
 **Contacting this Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can use this form: [contact form](https://web.archive.org/web/20130531204317id_/http%3A//dischem.co.za/contactus.asp). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can use this form: [contact form](https://web.archive.org/web/20131127080918id_/http%3A//www.dischem.co.za/contactus.asp). 
