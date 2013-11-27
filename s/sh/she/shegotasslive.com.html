@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the shegotasslive.com privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603144111id_/http%3A//www.shegotasslive.com/privacy.html%3F) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shegotasslive.com privacy policy that was archived on 2013-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127013653id_/http%3A//www.shegotasslive.com/privacy.html%3F) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-  <title>SheGotAssLive - Privacy</title>
+  <title>SheGotAssLive - Privacy Policy</title>
 
   <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-<link rel="stylesheet" type="text/css" href="http://m1.nsimg.net/2.0/shared/css/20130501/style-min.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://m1.nsimg.net/2.0/shared/css/20130919/style-min.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://m1.nsimg.net/2.0/skin/sgal/css/20110815/style-skin-min.css" media="all">
 <!--[if IE 6]><link rel="stylesheet" href="http://m2.nsimg.net/2.0/shared/css/20130501/ie6.css" type="text/css" media="screen" charset="utf-8"><![endif]-->
 <!--[if IE 7]><link rel="stylesheet" href="http://m2.nsimg.net/2.0/shared/css/20130501/ie7.css" type="text/css" media="screen" charset="utf-8"><![endif]-->
@@ -141,13 +141,16 @@
 
 <h1>Contact</h1>
 <p>If you have any questions about this Privacy Policy, please contact our customer service department at <a href="/contactsupport.php?">support@shegotasslive.com</a> and provide us with your name, your SheGotAssLive login name, and any information you feel is important.</p>
+
 <p>The address for correspondence by post is</p>
-<p>Streamates Limited<br>
-c/o Ariel Secretaries Limited<br>
-196, Arch Makarios Ave, Ariel Corner,<br>
-1st Flr, Office 102<br>
-P.O. Box 57528<br>
-3316 Limassol - Cyprus</p>
+<address>
+  ICF Technology, Inc.<br>
+  PO Box 21508<br>
+  Seattle, WA 98111<br>
+  USA
+</address>
+
+
   </div>
 </div>
 
@@ -225,7 +228,7 @@ P.O. Box 57528<br>
 <noscript>
   <img class="hide" src="http://www.shegotasslive.com/pixel/nojs.php" alt="">
 </noscript>
-<script type="text/javascript" src="http://m2.nsimg.net/cache/js/bundle/naiad/20130416/naiad.js"></script>
+<script type="text/javascript" src="http://m2.nsimg.net/cache/js/bundle/naiad/20131015/naiad.js"></script>
 <script type="text/javascript">
 window.suggestmeyes_loaded = true;
 Naiad.Init({mediabase:'http://m1.nsimg.net',state:'',wwwbase:location.protocol+'//'+location.hostname});
@@ -249,7 +252,15 @@ Naiad.OnDomReadyQueue([ 50, function() {
 <script id="sanet" type="text/javascript">
 try
 {
-  SAN.Naiad.init({cookie_domain: '.shegotasslive.com'});
+  if (typeof Naiad !== 'undefined' && Naiad.OnDomReadyQueue) {
+    Naiad.OnDomReadyQueue([1, function () {
+      SAN.Naiad.init({cookie_domain: '.shegotasslive.com'});
+    }]);
+  } else {
+    $(function () {
+      SAN.Naiad.init({cookie_domain: '.shegotasslive.com'});
+    });
+  }
 }
 catch(e)
 {
