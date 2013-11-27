@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528043616id_/http%3A//www.craftsman.com/privacypolicy/nb-100000000227111%3FadCell%3DWF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsman.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127011510id_/http%3A//www.craftsman.com/privacypolicy/nb-100000000227111%3FadCell%3DWF) for the most accurate reproduction.*
 
 # Craftsman
 
 ### Privacy Policy
 
-**Effective October 26, 2011:**
+**Effective June 28, 2013:**
 
   * What Type of Information Do We Collect?
   * What Information Do We Share and with Whom?
   * Can I Disable Cookies?
-  * How Do We Handle Personally Identifiable Information Collected on Children?
   * What About Links to Other Sites?
   * What about Interest Based Ads - Online Advertisements?
   * Is My Information Secure?
@@ -58,21 +57,6 @@ Most web browsers allow you to exercise control over cookie files on your comput
 
 Back to top
 
-How Do We Handle Personally Identifiable Information Collected on Children?
-
-Please click [here](https://web.archive.org/childrensprivacypolicy/nb-100000000227038?adCell=W5) to read our Children’s Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
-
-  * Collection of children’s personal information
-  * Use of children’s personal information
-  * The method of obtaining parental consent
-  * The method of obtaining access to the child’s information
-
-
-
-Each Sears Holding’s family of Sites that may be directed to children under 13 will contain a specific version of our Children’s Online Privacy Policy that will address specifically each of the points listed above for that Site.
-
-Back to top
-
 What About Links to Other Sites?
 
 This Site may contain links to other Sites outside the Sears Holdings family of Sites. Sears Holdings is not responsible for the privacy practices of other non-affiliated Sites. You should read the privacy statements of each and every Site that collects personally identifiable information.
@@ -87,7 +71,7 @@ This Site may carry advertisements from other companies. Some of these advertise
 
 **Other Web Sites**
 
-We partner with third-party service providers to serve ads on our behalf across the Internet. Some of these advertisements are also personalized for you based on what we know about you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf . If you do not wish to receive personalized advertising from us on other web sites, please visit the Network Advertising Initiative Opt-Out page [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20130528043616id_/http%3A//www.craftsman.com/privacypolicy/www.networkadvertising.org/managing/opt_out.asp) The Network Advertising Initiative offers useful information about internet advertising companies, including information about how to opt-out of interest-based advertising by their members. See <http://www.networkadvertising.org/participating> for the list of NAI members and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
+We partner with third-party service providers to serve ads on our behalf across the Internet. Some of these advertisements are also personalized for you based on what we know about you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf . If you do not wish to receive personalized advertising from us on other web sites, please visit the Network Advertising Initiative Opt-Out page [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20131127011510id_/http%3A//www.craftsman.com/privacypolicy/www.networkadvertising.org/managing/opt_out.asp) The Network Advertising Initiative offers useful information about internet advertising companies, including information about how to opt-out of interest-based advertising by their members. See <http://www.networkadvertising.org/participating> for the list of NAI members and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit <http://www.aboutads.info/consumers/> to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
 
 Back to top
 
