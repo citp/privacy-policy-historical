@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430103100id_/http%3A//runyourpool.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127012205id_/http%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
 
 # Run your Football, March Madness, Baseball, Golf, and other pools at RunYourPool.com
 
-It is the policy of RunYourPool.com that personal information, such as your name and email address, is private and confidential. Because your privacy is important to us, RunYourPool.com maintains this website privacy statement to protect your personal information. By using this site, you consent to the terms of our privacy policy for the collection, use and disclosure of your personal information for the purposes set out below. We do not collect, use or disclose your personal information for any purpose other than those identified below, except with your consent or as required by law. 
+It is the policy of runyourpool.com that personal information, such as your name and email address, is private and confidential. Because your privacy is important to us, runyourpool.com maintains this website privacy statement to protect your personal information. By using this site, you consent to the terms of our privacy policy for the collection, use and disclosure of your personal information for the purposes set out below. We do not collect, use or disclose your personal information for any purpose other than those identified below, except with your consent or as required by law. 
 
 **Information We Collect**
 
@@ -19,10 +19,8 @@ The personal information you provide is accessible only to members of your priva
 
 Personal information will not be sold to any third parties, nor will such information be added to bulk email lists.
 
-Personal information collected by RunYourPool.com, as well as pool and member detail, may be provided to law enforcement agencies and their officers, upon request.
-
 **Policy Revisions**
 
-Changes to RunYourPool.com's privacy policy may occur from time to time without notice to you. However, all privacy policy changes will be reflected in this document.
+Changes to runyourpool.com's privacy policy may occur from time to time without notice to you. However, all privacy policy changes will be reflected in this document.
 
 If you have any questions about this privacy statement or wish to update any of the personal information you have provided to us, please contact us while logged into your pool.
