@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 12designer.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601045230id_/http%3A//www.12designer.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 12designer.com privacy policy that was archived on 2013-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127080902id_/http%3A//www.12designer.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" slick-uniqueid="1"><head>
 <meta http-equiv="language" content="en">
@@ -19,12 +19,12 @@
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="image_src" href="http://www.12designer.com/images/en/_12d_facebook.png">
 
-<link rel="stylesheet" type="text/css" media="all" href="/css/dev.css">
-<!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/css/devie.css" /><![endif]-->
-<link rel="stylesheet" type="text/css" media="print" href="/css/printstyle.css">
-<link rel="stylesheet" type="text/css" media="all" href="/css/notimoo.css">
-<link rel="stylesheet" type="text/css" media="all" href="/css/standard.css">
-<!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="all" href="/css/standardie.css" /><![endif]-->
+<link rel="stylesheet" type="text/css" media="all" href="/css/dev.css?1373977843">
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/css/devie.css?1355920064" /><![endif]-->
+<link rel="stylesheet" type="text/css" media="print" href="/css/printstyle.css?1255526912">
+<link rel="stylesheet" type="text/css" media="all" href="/css/notimoo.css?1345632628">
+<link rel="stylesheet" type="text/css" media="all" href="/css/standard.css?1241517260">
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="all" href="/css/standardie.css?1232025059" /><![endif]-->
 
 
 
@@ -55,19 +55,19 @@
 		  	  			if(responseText.success) {
 							// reload current page - prevents POST reload
 							url = addParameterToURL(window.location.href, 'fb', 'true');
-							url = addParameterToURL(url, 'noCache', '1370062350');
+							url = addParameterToURL(url, 'noCache', '1385539741');
 		  	  				window.location.href = url;
 		  	  			} else {
 			  	  			if(responseText.retry) {
 				  	  			// retry - reload current page
-								url = addParameterToURL(window.location.href, 'noCache', '1370062350');
+								url = addParameterToURL(window.location.href, 'noCache', '1385539741');
 		  	  					window.location.href = url;
 			  	  			} else {
 								// redirect to facebook register page
 		  	  					window.location.href = 'http://www.12designer.com/en/register/?fb=true';
 			  	  			}
 		  	  			}
-				    }}).post({'time': '1370062350', 'accessToken': accessToken });
+				    }}).post({'time': '1385539741', 'accessToken': accessToken });
 		    	  }
 	      
 	  window.fbAsyncInit = function() {
@@ -125,6 +125,69 @@
         }(document));	  
 	</script>
 
+
+<div style="margin: 0px; position: static; overflow: hidden; height: 28px;"><div id="recommend_box" style="background-color: rgb(0, 0, 0); display: block; margin: 0px; overflow: hidden;">
+	<div style="color: #FFFFFF;width:940px;margin: 0 auto;text-align: right;padding: 4px 0px 4px 0px;font-weight: bold;">
+	
+	
+		<div style="float:right;margin-left:15px;">
+			<a href="#" id="recommend_box_slideout" rel="nofollow"><img src="/images/_12d_b_close.png" alt="recommend close" style="cursor:pointer;background-color: #FFD136;padding:2px;"></a>
+		</div>
+		
+		
+		<div style="float:right;margin-top:1px;text-align:left;">
+			<a href="https://en.99designs.de/go/12designer-banner" style="color: rgb(255, 255, 255); text-decoration: none;margin:0;" rel="nofollow" target="_blank">
+			Have you checked out our partner 99designs yet? They have more than 2000 open contests
+			</a>
+		</div>
+		
+		<div style="clear:right;"></div>
+	</div>
+</div></div>
+
+<script type="text/javascript">
+<!--
+
+
+window.addEvent('domready', function() {
+
+	var recommendSlide = new Fx.Slide('recommend_box', {duration:700}).hide();
+	$('recommend_box').setStyle('display', 'block');
+	
+
+	recommendSlide.slideIn();
+
+	$('recommend_box_slideout').addEvent('click', function(event){
+	    event.stop();
+	    recommendSlide.slideOut();
+	    removeRecommendTeaser();
+	  });
+	
+});
+
+function removeRecommendTeaser(){
+	var jsonRequest = new Request.JSON({
+		url: "/en/user/removeRecommendTeaser/", 
+		method: 'post',
+		onSuccess: function(){
+		}
+	}).send();
+}
+
+
+
+
+
+
+
+
+
+
+//-->
+</script>
+
+
+
 <div id="container">
 
     
@@ -156,9 +219,6 @@
 						<ul style="list-style:none;margin:2px;text-align:right;padding:5px;">
 																			<li><a href="/en/">English</a></li>
 													<li><a href="/de/">German</a></li>
-													<li><a href="/es/">Spanish</a></li>
-													<li><a href="/it/">Italian</a></li>
-													<li><a href="/fr/">French</a></li>
 												</ul>
 					</div>
 				</div>
@@ -179,9 +239,9 @@
     <ul class="linklist">
     	      	<li class="yellow"><a title="New project" href="/en/project/new/">New project</a></li>
     
-      	<li><a title="124 Projects" href="/en/project/">124 Projects</a></li>
+      	<li><a title="64 Projects" href="/en/project/">Browse projects</a></li>
       
-      	<li><a title="28056 Creatives" href="/en/community/">28056 Creatives</a></li>
+      	<li><a title="29245 Creatives" href="/en/community/">Creatives</a></li>
       
       
 
@@ -190,7 +250,7 @@
 		<div id="contact_header">
 	
 	<div style="float:right;margin-left:5px;">
-		<h2>+44 20 33184036</h2>
+		<h2>+49 30 609895966</h2>
 		<div><span id="worktime">Weekdays 10 am - 6 pm CET</span></div>
 	</div>
 	<div style="float:right;">
@@ -313,18 +373,14 @@
         <div id="footer">
       <ul id="firstlevelfoot">
             	<li><a href="/en/about.html" title="About 12designer logo, banner, webdesign">About 12designer</a></li>
-
-
-        <li><a href="/en/blog/" title="Twelve">Twelve</a></li>
-        <li id="blog"><img src="/images/en/_12d_bubble_blog.png" alt="Twelve"></li>
         
         		
 
         <li><a href="/en/press.html" title="Press">Press</a></li>
-                <li><a href="/en/contact.html" title="Contact">Contact</a></li>
+        <li><a href="/en/contact.html" title="Contact">Contact</a></li>
         <li><a href="/en/contact/feedback/" title="Feedback to 12designer">Feedback to 12designer</a></li>
        
-               </ul>
+        </ul>
 
       <!-- clear footer -->
       
@@ -346,6 +402,7 @@
 	        <li>© <a href="http://www.12designer.com/en/">12designer</a></li>
 	      </ul>
 	  </div>
+
 
 
 
@@ -382,7 +439,7 @@
 
 
 
-    <!-- r13967 -->
+    <!-- r14152 -->
 
     <!-- clear footer -->
     <div style="clear:both"></div>
