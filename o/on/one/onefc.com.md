@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onefc.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529080508id_/http%3A//onefc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefc.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127022527id_/http%3A//onefc.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ONE Fighting Championship - Privacy Policy
 
