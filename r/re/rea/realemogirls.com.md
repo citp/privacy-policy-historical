@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realemogirls.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127231201id_/http%3A//join.realemogirls.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realemogirls.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127172401id_/http%3A//join.realemogirls.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
