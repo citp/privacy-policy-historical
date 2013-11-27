@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chriswrites.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529082451id_/http%3A//www.chriswrites.com/privacy-policy-for-chriswritescom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chriswrites.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127163955id_/http%3A//www.chriswrites.com/privacy-policy-for-chriswritescom) for the most accurate reproduction.*
 
 # Privacy Policy - ChrisWrites.com
 
