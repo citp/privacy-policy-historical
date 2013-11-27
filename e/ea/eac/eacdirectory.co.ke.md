@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the eacdirectory.co.ke privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626125928id_/http%3A//www.eacdirectory.co.ke/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eacdirectory.co.ke privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127203607id_/http%3A//www.eacdirectory.co.ke/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Refund Policy | EACDIRECTORY
 
-**Collection**
+### Collection
 
 We collect your personal information when you register or enter information on our site. We use cookies and other technology to keep track of your online interaction with our site.The information that you provide to us is within a secure environment (through encryption) 
 
-**Information use**
+### Information use
 
 We use information to do the following:
 
@@ -16,23 +16,19 @@ We use information to do the following:
 
 
 
-**Disclosure**
+### Disclosure
 
 We disclose your information to facilitate your transactions on the site. We occasionally provide information to other companies who work on our behalf to help provide our services. We share limited information with law enforcement and others to help keep our service safe. 
 
-**Notification preferences**
+### Notification preferences
 
 You can choose how we communicate with you by entering your details when signing up. We shall use both email and telephone modes for Kenyans and emails for other nationalities. Click [here](https://www.eac.eacdirectory.co.ke/clientarea.php "Client area") You can access, review, and change your personal information from the client area. 
 
-**Other information**
+### Other information
 
 We don’t send spam and do not permit spam on EACdirectory website and related servers. Learn more about keeping your online identity safe; go to our Security and Resolution Center for more information. 
 
-**Contact us**
-
-Click here to contact [EACDirectory](https://web.archive.org/web/20130626125928id_/http%3A//www.eacdirectory.co.ke/contacts.php).
-
-**CHANGES TO THIS PRIVACY POLICY**
+### Changes to this privacy policy
 
 EACdirectory may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your account. 
 
@@ -41,6 +37,8 @@ EACdirectory may update this policy. We will notify you about significant change
 Note that 2Checkout.com is an authorized reseller of goods and services provided by EACdirectory.Click [here](http://www.2checkout.com/language_guidelines.html "2checkout note") for More information **.  
 **
 
-**Refund policy**
+### Refund policy
 
-Because of the nature of services we offer (domains), there is no refund that shall be given. We advise you to double check the spellings since all orders cannot be reversed.
+Because of the nature of services we offer, there is no refund that shall be given.
+
+**Alternative Payments** : Refunds will be issued for credit card /Paypal related payments ONLY. This willl be as a substitute for MPESA or Cash. This window is available for 24 hours only. The MPESA or Cash Payment Must be made and received by EAC directory before an reversal of credit card/ Debit card or paypal.
