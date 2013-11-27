@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeje.ge privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527112821id_/http%3A//jeje.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeje.ge privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127101400id_/http%3A//jeje.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JeJe.Net
 
