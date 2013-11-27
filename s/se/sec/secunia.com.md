@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secunia.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518004811id_/http%3A//secunia.com%3Faction%3Dfetch%26filename%3DSecunia_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secunia.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127161442id_/http%3A//secunia.com%3Faction%3Dfetch%26filename%3DSecunia_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
