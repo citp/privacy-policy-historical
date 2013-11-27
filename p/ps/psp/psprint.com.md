@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606114944id_/http%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127080301id_/http%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.*
 
-# Printing Services- Mailing, Die Cutting & Foil Stamping
+# Learn the privacy policy of online printing company PsPrint.
 
-| Privacy Policy |
-
-[ _PsPrint.com_](http://www.psprint.com/)
-
-is committed to maintaining the confidentiality of our customers. We do not share, sell, or otherwise disclose information about our customers to any other party except as required to process and ship purchases. This privacy statement only applies to [www.psprint.com](http://www.psprint.com/). This privacy policy describes how PsPrint.com ("PsPrint," "we," "us," "our") collects and uses the information you provide on our site. It also describes the choices available to you regarding our use of your personal information relating to your business and how you can access and update this information.
+  
+[_PsPrint.com_](http://www.psprint.com/) is committed to maintaining the confidentiality of our customers. We do not share, sell, or otherwise disclose information about our customers to any other party except as required to process and ship purchases. This privacy statement only applies to [ www.psprint.com](http://www.psprint.com/). This privacy policy describes how PsPrint.com ("PsPrint," "we," "us," "our") collects and uses the information you provide on our site. It also describes the choices available to you regarding our use of your personal information relating to your business and how you can access and update this information. 
 
 Information Collection
 
@@ -96,6 +93,6 @@ Oakland, CA 94608
 
 TRUSTe Privacy Program
 
-PsPrint has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only the information collected on the PsPrint Web site.
+PsPrint has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only the information collected on the PsPrint Web site.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _._ If you have questions or complaints regarding our privacy policy or practices, please contact us at privacyprogramoffice@deluxe.com _._ If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _._ If you have questions or complaints regarding our privacy policy or practices, please contact us at privacyprogramoffice@deluxe.com _._ If you are not satisfied with our response you can contact [ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
