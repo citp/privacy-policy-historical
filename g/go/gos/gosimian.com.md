@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gosimian.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604044429id_/http%3A//www.gosimian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosimian.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127160539id_/http%3A//www.gosimian.com/privacy) for the most accurate reproduction.*
 
-# Simian - Privacy
+# Simian - The Future of Media Sharing
 
 The information Simian collects to understand your needs and interests helps Simian deliver a consistent and personalized experience. For example, Simian may use your information to assist you in completing an order; communicate with you about products and services; provide service and support; update you on new services and benefits; provide personalized promotional offers; select content to be communicated to you. 
 
