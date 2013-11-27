@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ubdaily.com privacy policy that was archived on 2013-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529103151id_/http%3A//directory.ubdaily.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ubdaily.com privacy policy that was archived on 2013-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127192904id_/http%3A//directory.ubdaily.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>Directory UBDaily::Privacy Policy</title>
@@ -10,6 +10,7 @@
 <link rel="alternate" type="application/rss+xml" title="Directory UBDaily RSS" href="/index.xml">
 <link rel="shortcut icon" href="http://images.ientrymail.com/ubdaily/directory/favicon.ico">
 
+<script src="/jquery-1.10.2.js"></script>
 </head>
 
 <body><script src="http://www.ientry.com/ustream_header.php" type="text/javascript"></script>
@@ -63,8 +64,8 @@
  </td>
 	<td class="rightofsublogo">
 <div class="searchboxtext">
-<form action="/search.html" method="post">
-<input name="q" type="text" value="">
+<form id="search-submit" method="post">
+<input id="qu" type="text" value="">
 <input type="submit" value="Search">
 </form>
 </div>
@@ -75,6 +76,16 @@
 	 
 
 <a href="submit.html"><img src="http://images.ientrymail.com/ubdaily/directory/submit.gif" border="0" align="right"></a><br>
+
+<script>
+    $("#search-submit").submit(function(e){
+                e.preventDefault();
+                var qq = $('#qu').val();
+              window.location.href = '/sch' + '.html' + '?q=' + qq;
+              return FALSE;
+            });
+
+  </script>
 <b style="font-size: 16px;" class="mainarticle">Privacy Policy</b>
 
 <br><br>
