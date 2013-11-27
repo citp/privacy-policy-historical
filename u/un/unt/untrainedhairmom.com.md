@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the untrainedhairmom.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619193606id_/http%3A//www.untrainedhairmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untrainedhairmom.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127161215id_/http%3A//www.untrainedhairmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Untrained Hair Mom
 
@@ -56,7 +56,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our web site privacy policy.
 
 **Changes to our Privacy Policy**
 
@@ -73,4 +73,4 @@ http://www.untrainedhairmom.com
 United States  
 untrainedhairmom@gmail.com
 
-This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zen desk](http://www.rhinosupport.com/zendesk.htm) and save!
+This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to Zen desk and save!
