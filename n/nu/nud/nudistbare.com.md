@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nudistbare.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518020101id_/http%3A//www.nudistbare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nudistbare.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127130701id_/http%3A//www.nudistbare.com/privacy.html) for the most accurate reproduction.*
 
-# 2012 NUDISM (HQ) - Online Nudist Privacy Policy
+# 2014 NUDISM (HQ) - Online Nudist Privacy Policy
 
 Generally, you can browse through our Website without giving us any information about yourself (including your email address). When we do need your personal information to provide services that you request or when you choose to provide us with your personal information, this policy describes how we collect and use your personal information.
 
@@ -32,11 +32,11 @@ Some sections of our website require your information to be stored in what's kno
 
 ## Access and Changes to your Personal Information
 
-Upon request, we may provide you with a copy of the personal information which we hold about you (in return for a small fee). Please address requests to [ billing@nudistbare.com](mailto:billing@nudistbare.com) and insert "access request" as the subject heading stating your name and email address for identification purposes.
+Upon request, we may provide you with a copy of the personal information which we hold about you (in return for a small fee). Please address requests to and insert "access request" as the subject heading stating your name and email address for identification purposes.
 
 At your request, we will use reasonable efforts to update / correct personal information previously submitted by you. You may also request that we cease processing the personal information we have about you and that we delete your personal information from our database or records. However, it may be impossible to delete your information without some residual information because of backups and records of deletions. 
 
-Please address your requests to change or delete your personal information to [ billing@nudistbare.com](mailto:billing@nudistbare.com) and insert "change details" or "unsubscribe" as appropriate as the subject heading.
+Please address your requests to change or delete your personal information to and insert "change details" or "unsubscribe" as appropriate as the subject heading.
 
 We will only perform the activities outlined above to the extent that such activities will not compromise privacy or security interests. 
 
@@ -46,4 +46,4 @@ We may change this privacy policy from time to time. When such a change is made 
 
 ## For further information
 
-If you have any further enquiries or concerns about our privacy policy please email us at [ support@nudistbare.com](mailto:support@nudistbare.com).
+If you have any further enquiries or concerns about our privacy policy please email us
