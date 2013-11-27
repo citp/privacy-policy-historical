@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realhitz4u.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531014426id_/http%3A//www.realhitz4u.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realhitz4u.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127063513id_/http%3A//www.realhitz4u.com/privacy.php) for the most accurate reproduction.*
 
 # RealHitz4u Manual Traffic Exchange
 
