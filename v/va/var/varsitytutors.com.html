@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the varsitytutors.com privacy policy that was archived on 2013-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620134449id_/http%3A//www.varsitytutors.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the varsitytutors.com privacy policy that was archived on 2013-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131128005241id_/http%3A//www.varsitytutors.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us"><head><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/2630.js?438995" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/e260b2d7004fcd2c29197ed5961cf19d1b88557f.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
       <link rel="dns-prefetch" href="//ajax.googleapis.com">
@@ -30,7 +30,7 @@
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,900|Georgia:200,300,600|Lato:400" rel="stylesheet" type="text/css">
 
 
-      <meta name="version" content="unable to determine at this time">
+      <meta name="version" content="49879a778f7351831d9bc666c0414cd11f8ef6d5">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
@@ -47,7 +47,7 @@
 <link href="http://www.varsitytutors.com/blog.rss" rel="alternate" title="RSS" type="application/rss+xml">
 
 
-<link href="http://assets0.varsitytutors.com/assets/application-8d70f78a3a2db3ae9a16dfd71e4dc432.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://assets3.varsitytutors.com/assets/application-5c6e007bff70e85cc977e12245b9ca42.css" media="screen" rel="stylesheet" type="text/css">
 
 <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
 <link rel="apple-touch-icon-precomposed" href="/assets/images/apple-touch-icon-precomposed">
@@ -57,10 +57,10 @@
 
 
 
-      <script src="http://assets2.varsitytutors.com/assets/application-b51d7e6f5018c5e4355fdfd50e81ba85.js" type="text/javascript"></script>
+      <script src="http://assets3.varsitytutors.com/assets/application-dcc8e459483749bc5270b3ef11c2959c.js" type="text/javascript"></script>
 
       <meta content="authenticity_token" name="csrf-param">
-<meta content="26YjIsiXrbIo40egc81J7Qbw0LiPVwhUBZwVroU1/u8=" name="csrf-token">
+<meta content="UH9krcA4R/FS7DIPrjhEx6ZPiKeuQe6JWrOyQM95ouc=" name="csrf-token">
 
       
 
@@ -143,7 +143,7 @@
 
 
 
-
+      <meta name="p:domain_verify" content="f074bf9a79c063e61a08c1425b15727e">
     <script type="text/javascript" async="" src="https://static.getclicky.com/js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
     <body class="no-support">
@@ -161,50 +161,12 @@
     <div id="mainContainer">
       <div id="top_spacer"></div>
       
-
-
-<style>
-
-
-    .head #top_menu > li > a {
-        font-size: 16px;
-    }
-
-    .head #top_menu a#dd1 {
-        background: url(/assets/v4/dropdown_arrow.png) no-repeat 138px 15px;
-        padding: 6px 24px 6px 3px;
-    }
-
-    .head #top_menu a#dd2 {
-        background: url(/assets/v4/dropdown_arrow.png) no-repeat 72px 15px;
-        padding: 6px 27px 6px 1px;
-    }
-
-    .head #top_menu a#dd3 {
-        background: url(/assets/v4/dropdown_arrow.png) no-repeat 72px 15px;
-        padding: 6px 22px 6px 0;
-    }
-
-    .head #top_menu a#dd4 {
-        background: url(/assets/v4/dropdown_arrow.png) no-repeat 48px 15px;
-        padding: 6px 24px 6px 0;
-    }
-
-
-    .head #top_menu .sub_menu ul a:hover {
-        background-color: rgb(254, 200, 66);
-        color: rgb(255, 255, 255);
-    }
-
-
-</style>
-
-
 <script type="text/javascript">
 
 
     var contact_top = 50;
     var menu_open = 0;
+    var block_top = 0;
 
     var tutor_contact_left = 0;
     var tutor_contact_top = 0;
@@ -218,6 +180,13 @@
          jQuery(document).bind("scroll", scroll_contact);
          }
          */
+
+
+         if ($('.fixed_sidebar_wrapper').length) {
+          block_top = jQuery('.fixed_sidebar_wrapper').offset().top;
+          jQuery(document).bind("scroll", scroll_sidebar_block);
+         }
+         
 
 
         if ($('#contact_container').length) {
@@ -269,7 +238,18 @@
         );
 
 
+        $(document).ready(onResize);
+        $(window).bind('resize', onResize);
     });
+
+    function onResize() {
+        var windowHeight = $(window).height();
+        if (windowHeight < 800) {
+            $('.sub_menu#location').css({"max-height":windowHeight - 60,"overflow-y":"auto", "overflow-x":"hidden"});
+        } else {
+            $('.sub_menu#location').css('max-height', '');
+        }
+    }
 
 
     function scroll_side_contact() {
@@ -280,6 +260,18 @@
             jQuery('#tutor_side_contact').addClass('fixed_position');
         } else {
             jQuery('#tutor_side_contact').removeClass('fixed_position');
+        }
+
+    }
+
+    function scroll_sidebar_block() {
+
+        var doc_top = jQuery(window).scrollTop();
+
+        if (doc_top >= 270) {
+            jQuery('.fixed_sidebar_wrapper').addClass('fixed_position');
+        } else {
+            jQuery('.fixed_sidebar_wrapper').removeClass('fixed_position');
         }
 
     }
@@ -305,19 +297,23 @@
 
     <div class="head">
     <div class="body_col">
-    <a href="http://www.varsitytutors.com" class="logo">&nbsp;</a>
+    <a href="/tutoring-miami" class="logo main-sprite-logo_transparent">&nbsp;</a>
+
 
     <ul id="top_menu">
 
+      <li>
+            <a href="http://www.varsitytutors.com/login" class="main-sprite-locked" title="Login" rel="nofollow"></a>
 
-    <li>
-      <a href="http://www.varsitytutors.com/login" rel="nofollow"><img alt="Login" class="loginBtn" src="http://assets0.varsitytutors.com/assets/s-bece3ae21f90b2658b9208c45faa5c0c.gif" title="Login"></a>
-    </li>
+
+      </li>
+
 
 
 
         <li><a href="#" class="dropdown" id="dd3">Locations</a>
-          <div class="sub_menu">
+          <span class="main-sprite-dropdown_arrow" style="display: block"></span>
+          <div class="sub_menu" id="location">
             <div class="column  col1" style="width:192px;">
               <h3 style="margin-top:5px;"></h3>
               <ul>
@@ -338,7 +334,7 @@
                                                 <li><a href="http://www.varsitytutors.com/tutoring-dallas_fort_worth" style="">Dallas Fort Worth</a></li>
 
 
-                                                <li></li>
+                                                <li><a href="http://www.varsitytutors.com/tutoring-denver" style="">Denver</a></li>
 
 
                                                 <li><a href="http://www.varsitytutors.com/tutoring-houston" style="">Houston</a></li>
@@ -349,16 +345,17 @@
 
                                                 <li><a href="http://www.varsitytutors.com/tutoring-longisland" style="">Long Island</a></li>
                                                 <li><a href="http://www.varsitytutors.com/tutoring-los_angeles" style="">Los Angeles</a></li>
-                                                <li><a href="http://www.varsitytutors.com/tutoring-new_jersey" style="">New Jersey</a></li>
 
 
-                                                <li></li>
+                                                <li><a href="http://www.varsitytutors.com/tutoring-miami" style="">Miami</a></li>
 
 
                                                 <li><a href="http://www.varsitytutors.com/tutoring-milwaukee" style="">Milwaukee</a></li>
 
 
+                                                <li><a href="http://www.varsitytutors.com/tutoring-new_jersey" style="">New Jersey</a></li>
                                                 <li><a href="http://www.varsitytutors.com/tutoring-new_york_city" style="">New York City</a></li>
+
 
 
                                                 <li><a href="http://www.varsitytutors.com/tutoring-philadelphia" style="">Philadelphia</a></li>
@@ -394,34 +391,37 @@
           </div>
         </li>
 
+
+
+
+
+
     <li>
-          <a href="/tutors">Our Tutors</a>
+          <a href="tutors-miami-fl">Our Tutors</a>
     </li>
 
     <li>
 
 
-          <a href="/tutoring-prices-rates-cost">Pricing</a>
+
+            <a href="/tutoring-prices-rates-cost">Pricing</a>
+
     </li>
 
 
     <li><a href="#" class="dropdown" id="dd2">Test Prep</a>
-
+      <span class="main-sprite-dropdown_arrow"></span>
           <div class="sub_menu">
             <div class="column  col3">
               <h3>HIGH SCHOOL</h3>
               <ul>
-                    <li><a href="/act-tutoring">ACT Tutoring</a></li>
+                    <li><a href="/miami-act-tutoring">ACT Tutoring</a></li>
 
-                    <li><a href="/sat-tutoring">SAT Tutoring</a></li>
+                    <li><a href="/miami-sat-tutoring">SAT Tutoring</a></li>
 
-                    <li><a href="/psat-tutoring">PSAT Tutoring</a></li>
+                    <li><a href="/miami-psat-tutoring">PSAT Tutoring</a></li>
 
-                    <li><a href="/plan-tutoring">PLAN Tutoring</a></li>
-
-                    <li><a href="/shsat-tutoring">SHSAT Tutoring</a></li>
-
-                    <li><a href="/staar-tutoring">STAAR Tutoring</a></li>
+                    <li><a href="/miami-plan-tutoring">PLAN Tutoring</a></li>
 
               </ul>
             </div>
@@ -429,23 +429,19 @@
             <div class="column  col3">
               <h3>GRADUATE SCHOOL</h3>
               <ul>
-                    <li><a href="/mcat-tutoring">MCAT Tutoring</a></li>
-                    <li><a href="/gre-tutoring">GRE Tutoring</a></li>
-                    <li><a href="/lsat-tutoring">LSAT Tutoring</a></li>
-                    <li><a href="/gmat-tutoring">GMAT Tutoring</a></li>
+                    <li><a href="/miami-mcat-tutoring">MCAT Tutoring</a></li>
+                    <li><a href="/miami-gre-tutoring">GRE Tutoring</a></li>
+                    <li><a href="/miami-lsat-tutoring">LSAT Tutoring</a></li>
+                    <li><a href="/miami-gmat-tutoring">GMAT Tutoring</a></li>
               </ul>
             </div>
 
             <div class="column col3">
               <h3>K-8</h3>
               <ul>
-                    <li><a href="/aims-tutoring">AIMS Tutoring</a></li>
-                    <li><a href="/hspt-tutoring">HSPT Prep Tutoring</a></li>
-                    <li><a href="/isee-tutoring">ISEE Tutoring</a></li>
-                    <li><a href="/isat-tutoring">ISAT Tutoring</a></li>
-                    <li><a href="/ssat-tutoring">SSAT Tutoring</a></li>
-                    <li><a href="/staar-tutoring">STAAR Tutoring</a></li>
-                    <li><a href="/tachs-tutoring">TACHS Tutoring</a></li>
+                    <li><a href="/miami-hspt-tutoring">HSPT Prep Tutoring</a></li>
+                    <li><a href="/miami-isee-tutoring">ISEE Tutoring</a></li>
+                    <li><a href="/miami-ssat-tutoring">SSAT Tutoring</a></li>
 
 
               </ul>
@@ -458,29 +454,30 @@
 
     <li>
       <a href="#" class="dropdown" id="dd1">Academic Tutoring</a>
+      <span class="main-sprite-dropdown_arrow" style="display: block"></span>
       <div class="sub_menu">
 
             <div class="column col5">
-              <h3><a href="/math-tutoring">math</a></h3>
+              <h3><a href="/miami-math-tutoring">math</a></h3>
               <ul>
-                    <li><a href="/algebra-tutoring">Algebra Tutoring</a></li>
-                    <li><a href="/calculus-tutoring">Calculus Tutoring</a></li>
-                    <li><a href="/elementary_math-tutoring">Elementary Math Tutoring</a></li>
-                    <li><a href="/geometry-tutoring">Geometry Tutoring</a></li>
-                    <li><a href="/pre_calculus-tutoring">Pre-Calculus Tutoring</a></li>
-                    <li><a href="/statistics-tutoring">Statistics Tutoring</a></li>
-                    <li><a href="/trigonometry-tutoring">Trigonometry Tutoring</a></li>
+                    <li><a href="/miami-algebra-tutoring">Algebra Tutoring</a></li>
+                    <li><a href="/miami-calculus-tutoring">Calculus Tutoring</a></li>
+                    <li><a href="/miami-elementary_math-tutoring">Elementary Math Tutoring</a></li>
+                    <li><a href="/miami-geometry-tutoring">Geometry Tutoring</a></li>
+                    <li><a href="/miami-pre_calculus-tutoring">Pre-Calculus Tutoring</a></li>
+                    <li><a href="/miami-statistics-tutoring">Statistics Tutoring</a></li>
+                    <li><a href="/miami-trigonometry-tutoring">Trigonometry Tutoring</a></li>
               </ul>
             </div>
 
             <div class="column col5">
-              <h3><a href="/science-tutoring">science</a></h3>
+              <h3><a href="/miami-science-tutoring">science</a></h3>
               <ul>
-                    <li><a href="/anatomy-tutoring">Anatomy Tutoring</a></li>
-                    <li><a href="/biology-tutoring">Biology Tutoring</a></li>
-                    <li><a href="/chemistry-tutoring">Chemistry Tutoring</a></li>
-                    <li><a href="/physical_chemistry-tutoring">Physical Chemistry Tutoring</a></li>
-                    <li><a href="/physics-tutoring">Physics Tutoring</a></li>
+                    <li><a href="/miami-anatomy-tutoring">Anatomy Tutoring</a></li>
+                    <li><a href="/miami-biology-tutoring">Biology Tutoring</a></li>
+                    <li><a href="/miami-chemistry-tutoring">Chemistry Tutoring</a></li>
+                    <li><a href="/miami-physical_chemistry-tutoring">Physical Chemistry Tutoring</a></li>
+                    <li><a href="/miami-physics-tutoring">Physics Tutoring</a></li>
 
 
               </ul>
@@ -490,37 +487,37 @@
             <div class="column col5">
               <h3>foreign languages</h3>
               <ul>
-                    <li><a href="/french-tutoring">French Tutoring</a></li>
-                    <li><a href="/german-tutoring">German Tutoring</a></li>
-                    <li><a href="/latin-tutoring">Latin Tutoring</a></li>
-                    <li><a href="/mandarin_chinese-tutoring">Mandarin Chinese Tutoring</a></li>
-                    <li><a href="/spanish-tutoring">Spanish Tutoring</a></li>
+                    <li><a href="/miami-french-tutoring">French Tutoring</a></li>
+                    <li><a href="/miami-german-tutoring">German Tutoring</a></li>
+                    <li><a href="/miami-latin-tutoring">Latin Tutoring</a></li>
+                    <li><a href="/miami-mandarin_chinese-tutoring">Mandarin Chinese Tutoring</a></li>
+                    <li><a href="/miami-spanish-tutoring">Spanish Tutoring</a></li>
 
 
               </ul>
             </div>
 
             <div class="column col5">
-              <h3><a href="/elementary-tutoring">elementary</a></h3>
+              <h3><a href="/miami-elementary-tutoring">elementary</a></h3>
               <ul>
-                    <li><a href="/reading-tutoring">Reading Tutoring</a></li>
-                    <li><a href="/phonics-tutoring">Phonics Tutoring</a></li>
-                    <li><a href="/elementary_math-tutoring">Elementary Math Tutoring</a></li>
+                    <li><a href="/miami-reading-tutoring">Reading Tutoring</a></li>
+                    <li><a href="/miami-phonics-tutoring">Phonics Tutoring</a></li>
+                    <li><a href="/miami-elementary_math-tutoring">Elementary Math Tutoring</a></li>
 
 
               </ul>
             </div>
 
             <div class="column col5">
-              <h3><a href="/academic-tutoring">other</a></h3>
+              <h3><a href="/miami-academic-tutoring">other</a></h3>
               <ul>
-                    <li><a href="/accounting-tutoring">Accounting Tutoring</a></li>
-                    <li><a href="/computer_science-tutoring">Computer Science Tutoring</a></li>
-                    <li><a href="/economics-tutoring">Economics Tutoring</a></li>
-                    <li><a href="/finance-tutoring">Finance Tutoring</a></li>
-                    <li><a href="/history-tutoring">History Tutoring</a></li>
-                    <li><a href="/writing-tutoring">Writing Tutoring</a></li>
-                    <li><a href="/summer-tutoring">Summer Tutoring</a></li>
+                    <li><a href="/miami-accounting-tutoring">Accounting Tutoring</a></li>
+                    <li><a href="/miami-computer_science-tutoring">Computer Science Tutoring</a></li>
+                    <li><a href="/miami-economics-tutoring">Economics Tutoring</a></li>
+                    <li><a href="/miami-finance-tutoring">Finance Tutoring</a></li>
+                    <li><a href="/miami-history-tutoring">History Tutoring</a></li>
+                    <li><a href="/miami-writing-tutoring">Writing Tutoring</a></li>
+                    <li><a href="/miami-summer-tutoring">Summer Tutoring</a></li>
 
               </ul>
             </div>
@@ -529,6 +526,7 @@
     </li>
 
     <li><a href="/overview-of-services" class="dropdown" id="dd4">About</a>
+      <span class="main-sprite-dropdown_arrow" style="display: block"></span>
       <div class="sub_menu" style="right:490px;">
         <div class="column  col1" style="width:210px;">
           <h3 style="margin-top:5px;"></h3>
@@ -538,24 +536,46 @@
             <li><a href="/best-top-private-tutoring">Tutor Selection Process</a></li>
             <li><a href="/how-we-operate">How We Operate</a></li>
             <li><a href="/money-back-guarantee">Our Guarantee</a></li>
-            <li><a href="/reviews">Video Reviews &amp; Testimonials</a></li>
+            <li><a href="/miami-reviews">Video Reviews &amp; Testimonials</a></li>
             <li><a href="/press">Media Coverage</a></li>
             <li><a href="/aboutus">About Us</a></li>
+            <li><a href="/online-tutoring">Online Tutoring</a></li>
           </ul>
         </div>
       </div>
     </li>
 
+
     </ul>
 
 
-    </div>
+
+
+
+
+
+
+            <div id="call_now_container">
+              
+                          <div class="we_are_open">
+                            We are open until 8pm!
+                          </div>
+
+              <div id="call_now">
+                <div class="main-sprite-phone"></div>
+                Call Now to Set Up Tutoring:
+                <div id="phone">(305) 433-1865</div>
+              </div>
+            </div>
+
 
     </div>
 
+    </div>
 
 
-    <div class="spacer open_spacer" style="height:12px"></div>
+
+    <div class="spacer open_spacer" style="height:50px"></div>
 
       
 <div class="head_background" style="height:200px" xmlns="http://www.w3.org/1999/html"></div>
@@ -578,12 +598,7 @@
 
 <h1 class="subject_header">Privacy Policy</h1>
 
-<h3 class="subject_header">Effective: March 5, 2013</h3>
-<p><strong>
-  Our leadership and management work tirelessly to connect students and parents to the best private tutors. Read more
-  about our exceptional team below.
-</strong>
-</p>
+<h3 class="subject_header">Effective: September 19, 2013</h3>
 
 <p>
   This Privacy Policy governs the manner in which Varsity Tutors LLC (“Varsity Tutors”) collects, uses, maintains and
@@ -595,14 +610,14 @@
 <p>
   Varsity Tutors has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been
   reviewed by TRUSTe for compliance
-  with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's program requirements</a>
+  with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe's program requirements</a>
   including transparency, accountability and choice regarding the collection and use of your personal information. The
   TRUSTe program covers information collected through this Web site, www.varsitytutors.com. TRUSTe's mission, as an
   independent third party, is to accelerate online trust among consumers and organizations globally through its leading
   privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or
   practices, please contact us at privacy@varsitytutors.com or 6330 Southwood Ave Suite 3E, St. Louis, MO 63105. If you
   are not satisfied with our response you can
-  contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>.
+  contact <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">TRUSTe here</a>.
 </p>
 
 <h2 class="subject_header">
@@ -720,7 +735,7 @@
   other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information
   about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If
   you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking
-  Here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+  <a href="http://preferences-mgr.truste.com/" target="_blank">here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 </p>
 
 <h2 class="subject_header">
@@ -732,7 +747,7 @@
   parent, subsidiary and trusted affiliates, and otherwise to enhance Users’ experience with Varsity Tutors. Out of
   respect for your privacy, you may choose to stop receiving these marketing emails by following the unsubscribe
   instructions included in these emails, accessing the email preferences in your account settings page or you can
-  contact us at privacy@ varsitytutors.com. Varsity Tutors may also use information collected through the Site for
+  contact us at privacy [at] varsitytutors.com. Varsity Tutors may also use information collected through the Site for
   research regarding the effectiveness of the Site and the business planning, marketing, advertising and sales efforts
   of Varsity Tutors, its parent, subsidiary and trusted affiliates.
 </p>
@@ -929,8 +944,8 @@
 
           <div class="customer">
             <div class="frame2">
-              <img alt="Circle" class="frame" src="http://assets2.varsitytutors.com/assets/v4/circle-7566d71b3ba9f16f300487e0cbb5d083.png">
-                  <img alt="01" src="http://assets0.varsitytutors.com/assets/testimonials/01-33519f40be61eb6cf3d2936f2297dc13.jpg" width="138">
+              <img alt="Circle" class="frame" src="http://assets1.varsitytutors.com/assets/v4/circle-e837552b1e5a87a413c2422cd9e8e499.png">
+                  <img alt="01" src="http://assets3.varsitytutors.com/assets/testimonials/01-42fbf99bc15e75b63425ac1b7ddd99db.jpg" width="138">
             </div>
           </div>
 
@@ -941,7 +956,7 @@
                   now armed with the confidence that math is not a hopeless cause, and she really can conquer it. That
                   is a great success story!
 
-              <img alt="Large_close_quote" src="http://assets3.varsitytutors.com/assets/v4/large_close_quote-c34c9c218c32a53e8e6f710a897c1d20.png">
+              <img alt="Large_close_quote" src="http://assets2.varsitytutors.com/assets/v4/large_close_quote-c587d57883bca3ffa657e1de8ac328a8.png">
             </p>
 
             <div class="title">
@@ -966,7 +981,7 @@
                   much from Amy [our tutor]. I was very impressed with her and your program. Thanks again and please let
                   Amy know how wonderful she is. I was very impressed.
 
-              <img alt="Large_close_quote" src="http://assets3.varsitytutors.com/assets/v4/large_close_quote-c34c9c218c32a53e8e6f710a897c1d20.png">
+              <img alt="Large_close_quote" src="http://assets2.varsitytutors.com/assets/v4/large_close_quote-c587d57883bca3ffa657e1de8ac328a8.png">
             </p>
 
             <div class="title">
@@ -980,8 +995,8 @@
 
           <div class="customer">
             <div class="frame2">
-              <img alt="Circle" class="frame" src="http://assets2.varsitytutors.com/assets/v4/circle-7566d71b3ba9f16f300487e0cbb5d083.png">
-                  <img alt="02" src="http://assets3.varsitytutors.com/assets/testimonials/02-e1c627ca01257f1cf958c5f9a592bc39.jpg" width="138">
+              <img alt="Circle" class="frame" src="http://assets1.varsitytutors.com/assets/v4/circle-e837552b1e5a87a413c2422cd9e8e499.png">
+                  <img alt="02" src="http://assets3.varsitytutors.com/assets/testimonials/02-2b6693688dc02bb10c54899f66e9efcf.jpg" width="138">
 
             </div>
           </div>
@@ -1019,9 +1034,9 @@
 <div id="footer_contact" class="rounded_bottom">
 
   <h3>FIND THE BEST
-    TUTORS</h3>
+    TUTORS IN MIAMI, FL</h3>
 
-  <form accept-charset="UTF-8" action="/contacts" class="contactFormHorizontal infieldLabels" id="contactForm2" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="26YjIsiXrbIo40egc81J7Qbw0LiPVwhUBZwVroU1/u8="></div>
+  <form accept-charset="UTF-8" action="/contacts" class="contactFormHorizontal infieldLabels" id="contactForm2" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="UH9krcA4R/FS7DIPrjhEx6ZPiKeuQe6JWrOyQM95ouc="></div>
 
       <div style="width:830px; margin:0px auto;">
 
@@ -1031,9 +1046,11 @@
 <option value="22">Boston</option>
 <option value="3">Chicago</option>
 <option value="5">Dallas Fort Worth</option>
+<option value="24">Denver</option>
 <option value="2">Houston</option>
 <option value="12">Kansas City</option>
 <option value="16">Los Angeles</option>
+<option value="25">Miami</option>
 <option value="20">Milwaukee</option>
 <option value="10">New York City</option>
 <option value="17">Philadelphia</option>
@@ -1046,6 +1063,8 @@
 <option value="7">Tucson</option>
 <option value="18">Washington DC</option></select>
             </div>
+
+            <input type="hidden" name="subjects[]" value="math">
 
 
 
@@ -1077,13 +1096,11 @@
           <input id="zip_code_fy" name="contact[zip_code]" style="width:100px" type="text">
         </div>
 
-        <div style="clear:both">
 
-          <div style="float:left; margin-left:294px; padding-top:5px">
-            <input name="formSubmitBtn" type="submit" id="formSubmitBtn" class="contact_submit" style="top: 5px;" value="Find Your Tutor">
-          </div>
-
+        <div class="contact_button_container">
+          <input name="formSubmitBtn" type="submit" id="formSubmitBtn" class="contact_submit" value="Find Your Tutor">
         </div>
+
 
 
       </div>
@@ -1091,69 +1108,80 @@
       <div class="info_prices">Info &amp; Prices Emailed</div>
 
 
-      <input type="hidden" name="contact[subject]" value="biology">
+
       <input type="hidden" name="redirect" value="contact_success.html">
 
 
-<div id="a_comment_body_hp_1371735889"><style media="screen" scoped="scoped" type="text/css">#a_comment_body_hp_1371735889 { display:none; }</style><label for="a_comment_body">Do not fill in this field</label><input id="a_comment_body" name="a_comment_body" type="text"></div></form>
+<div id="a_comment_body_hp_1385599961"><style media="screen" scoped="scoped" type="text/css">#a_comment_body_hp_1385599961 { display:none; }</style><label for="a_comment_body">Do not fill in this field</label><input id="a_comment_body" name="a_comment_body" type="text"></div></form>
 
 </div>
   </div>
 
 
-  <div class="footer" style="height:200px;">
+  <div class="footer" style="height:280px;">
+    <div class="body_col" id="footer_links">
+          <div class="hor_links_footer">
+            <div class="footer_column_title">
+              ABOUT US
+            </div>
+            <a href="/money-back-guarantee">Our Guarantee</a>
+            <a href="/how-we-operate">How We Operate</a>
+            <a href="/miami-reviews">Reviews &amp; Testimonials</a>
+            <a href="/press">Press &amp; Media Coverage</a>
+            <a href="/aboutus">Our Team</a>
+          </div>
+      <div class="footer_column" id="free_resources">
+        <div class="footer_column_title">
+          FREE RESOURCES
+        </div>
+        <a href="/practice-tests">Tests, Problems &amp; Flashcards</a>
+        <a href="/classroom-assessment">Classroom Assessment Tools</a>
+        <a href="/college-scholarship">College Scholarship</a>
+        <a href="http://www.varsitytutors.com/blog">Admissions Blog</a>
+      </div>
+          <div class="footer_column">
+             <div class="footer_column_title">
+                   JOBS
+             </div>
+             <a href="/miami-tutoring-jobs">Tutoring Jobs</a>
+             <a href="/careers">Careers</a>
+          </div>
 
-    <div id="footer_links" class="body_col">
-
-          <a href="/money-back-guarantee">Guarantee</a>
-          <a href="/reviews">Reviews</a>
-          <a href="/how-we-operate">How We Operate</a>
-          <a href="/aboutus">About</a>
-          <a href="/press">Press</a>
-          <a href="http://www.varsitytutors.com/blog">Blog</a>
-          <a href="/tutoring-jobs">Tutoring Jobs</a>
-          <a href="/careers">Careers</a>
-          <a href="/corporate-programs">Corporations</a>
-          <a href="/school-programs">School</a>
-          <a href="/college-scholarship">Scholarship</a>
-          <a href="/practice-tests">Practice</a>
-          <a href="/privacy">Privacy</a>
-          <a href="/terms-of-use">Terms</a>
-          <a href="/sitemap">Sitemap</a>
-
+      <div class="footer_column">
+        <div class="footer_column_title">
+            PARTNERSHIPS
+        </div>
+        <a href="/corporate-programs">Corporations</a>
+        <a href="/school-programs">Schools</a>
+        <a href="/partners">Revenue Partners</a>
+      </div>
+          <div class="footer_column">
+            <div class="footer_column_title">
+              ABOUT THIS SITE
+            </div>
+            <a href="/privacy">Privacy</a>
+            <a href="/terms-of-use">Terms</a>
+            <a href="/sitemap">Sitemap</a>
+          </div>
     </div>
-
-
     <div id="copy" class="body_col">
-      <div id="footerCopyright"><a href="http://www.varsitytutors.com" style="text=decoration:none">Varsity Tutors</a>. ©
+      <div id="footerCopyright"><a href="/" style="text=decoration:none">Varsity Tutors</a>. ©
         2007-2013 All Rights Reserved
       </div>
-      <div style="font-size: 13px;">Names of standardized tests are owned by the trademark holders and are not
-        affiliated with Varsity Tutors LLC.
+      <div class="footer_disclaimer">
+        Names of standardized tests are owned by the trademark holders and are not affiliated with Varsity Tutors LLC. <br>
+        98% claim: 98% satisfaction claim based on a survey of 814 Varsity Tutors clients conducted during 2011. <br>
+        Media outlet trademarks are owned by the respective media outlets and are not affiliated with Varsity Tutors.
       </div>
-      <div style="font-size: 13px;">98% claim: 98% satisfaction claim based on a survey of 814 Varsity Tutors clients
-        conducted during 2011.
-      </div>
-      <div style="font-size: 13px;">Media outlet trademarks are owned by the respective media outlets and are not
-        affiliated with Varsity Tutors.
-      </div>
-      <div style="position:absolute; right:0px; top:0px;">
+      <div style="position:absolute; right:25px; top:0px;">
         <div id="4fdc1045-69e7-454f-9d48-3afe37f09e3d">
           <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Varsity-Tutors-LLC/asc?rid=4fdc1045-69e7-454f-9d48-3afe37f09e3d"></script>
           <a href="//privacy.truste.com/privacy-seal/Varsity-Tutors-LLC/validation?rid=7cd7544a-043b-4602-9099-5b59eec431c0" title="TRUSTe online privacy certification" target="_blank"><img style="width:143px;height:45px;border: none" src="//privacy-policy.truste.com/privacy-seal/Varsity-Tutors-LLC/seal?rid=7cd7544a-043b-4602-9099-5b59eec431c0" alt="TRUSTe online privacy certification"></a>
         </div>
-        <div style="font-size: 13px;">
-          <a href="https://plus.google.com/107397259411943360825" rel="publisher">Find us on Google+</a>
-        </div>
       </div>
     </div>
-
   </div>
-
 </div>
-
-
-
 
     
         
@@ -1219,18 +1247,17 @@
 
 
 
-
-    <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+    <script type="text/javascript">if (typeof NREUMQ !== "undefined") { if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
 e.type="text/javascript";
 e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "rpm-images.newrelic.com/42/eum/rum.js";
+  "js-agent.newrelic.com/nr-100.js";
 document.body.appendChild(e);
 if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","36735f3761","782265","IFhbEUdbXA8AShgPXgVYGhVHXUYCBkE=",11,61,new Date().getTime(),"","","","",""]);</script>
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","36735f3761","2718782","IFhbEUdbXA8AShgPXgVYGhVHXUYCBkE=",8,67,new Date().getTime(),"","","","",""]);}</script>
     
-<script type="text/javascript" src="https://rpm-images.newrelic.com/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
