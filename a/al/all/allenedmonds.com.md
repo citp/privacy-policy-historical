@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allenedmonds.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528130857id_/http%3A//www.allenedmonds.com/aeonline/PrivacyView%3FcatalogId%3D40000000001%26langId%3D-1%26storeId%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allenedmonds.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127234713id_/http%3A//www.allenedmonds.com/aeonline/PrivacyView%3FcatalogId%3D40000000001%26langId%3D-1%26storeId%3D1) for the most accurate reproduction.*
 
 # Mens Dress Shoes & Casual Shoes - Allen Edmonds - Privacy
 
