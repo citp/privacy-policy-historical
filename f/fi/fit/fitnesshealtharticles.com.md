@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnesshealtharticles.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002606id_/http%3A//www.fitnesshealtharticles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnesshealtharticles.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127101505id_/http%3A//www.fitnesshealtharticles.com/privacy) for the most accurate reproduction.*
 
 # Privacy | FitnessHealthArticles.com
 
