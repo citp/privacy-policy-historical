@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pervclips.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531100222id_/http%3A//pervclips.com/tube/1251.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pervclips.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127011934id_/http%3A//pervclips.com/tube/1251.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Porn tube
 
@@ -51,5 +51,3 @@ Unfortunately, the transmission of information via the Internet is not completel
 YOUR RIGHTS
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at pervclips@gmail.com.
-
- 
