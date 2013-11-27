@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhinosupport.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630092529id_/http%3A//www.rhinosupport.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhinosupport.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127111557id_/http%3A//www.rhinosupport.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Rhino Support - Support Software - Privacy Policy
 
