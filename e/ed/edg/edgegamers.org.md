@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgegamers.org privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530073800id_/http%3A//edge-gamers.com/forums/cmps_index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgegamers.org privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127113946id_/http%3A//edge-gamers.com/forums/cmps_index.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # EdgeGamers Organization - Privacy Policy
 
