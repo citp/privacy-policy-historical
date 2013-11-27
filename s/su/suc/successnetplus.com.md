@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successnetplus.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502131015id_/https%3A//successnetplus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successnetplus.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127074054id_/https%3A//www.successnetplus.com/privacy) for the most accurate reproduction.*
 
 # Online Privacy Statement | Pearson SuccessNet+
 
