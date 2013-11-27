@@ -1,60 +1,46 @@
-> *The following text is extracted and transformed from the psi.org privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530135505id_/http%3A//www.psi.org/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psi.org privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127171107id_/http%3A//psi.org/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PSI
 
-POPULATION SERVICES INTERNATIONAL has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL [www.psi.org](http://www.psi.org/ "www.psi.org").
+Population Services International is committed to your right to privacy, and to maintaining the highest level of security for your credit card transactions. Our Privacy Policy is intended to ensure that your personal information is handled in a safe and responsible manner.
 
-In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. POPULATION SERVICES INTERNATIONAL reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
+Below are answers to commonly asked questions:
 
-  1. Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of;
-  2. What personally identifiable information of yours is collected through the Site;
-  3. Who collects such information;
-  4. How such information is used;
-  5. With whom your information may be shared;
-  6. What choices you have regarding collection, use and distribution of your information;
-  7. What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control;
-  8. and, How you can correct any inaccuracies in your information.
+#### Is it safe to give online?
 
+Absolutely. PSI is grateful for the donations that help us continue our valuable work. It is very important to us that your personal information remain secure. When you donate through psi.org, your credit card information is secured by a reputable security company. Also, your credit card number is used only for that particular transaction and is not stored. 
 
-
-Questions regarding this statement should be directed to POPULATION SERVICES INTERNATIONAL by sending an email to [webmaster@psi.org](mailto:webmaster@psi.org). Please reference this Privacy Policy in your subject line.
-
-#### What Information We Collect and How We Use That Information:
-
-Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers.
+You will also notice in your web site address bar that the domain name starts with an "https" when you are on our donation pages. This indicates that information is transmitted using the Secure Sockets Layer (SSL), which means it is encyrpted before it is sent from your computer over the Internet to our website. This encryption actually makes your donation transaction more secure than using a credit card in physical form at a store. If you have any questions regarding the security of your credit card donation online, please e-mail us at [webmaster@psi.org](mailto:webmaster@psi.org).
 
 #### Internet Protocol Address:
 
 We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server,  
 administer our Site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information.
 
-#### Use of "Cookies":
+#### What personal information do you collect and how do you use it?
 
-Our Site may use cookies to enhance your experience while using our Site. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular Web site and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard.
+PSI.org only collects personal information that website visitors choose to share with us when they sign up to receive emails, make charitable contributions, or apply for jobs. PSI does not sell contact lists or personal information to third parties. 
 
-Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly when you view them.
+You may update your information at any time to personalize your online communication preferences, including opting out of all emails. If you have other preferences or have questions about our communications practices, please contact us and we will be happy to respond.
 
-#### Security:
+#### What about other kinds of non-personal information?
 
-All information provided to POPULATION SERVICES INTERNATIONAL is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our Site that is only accessible by certain qualified employees of POPULATION SERVICES INTERNATIONAL. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information.
+#### Cookies:
+
+When you register on psi.org, we may store some information on your computer in the form of a cookie to prevent you from having to reenter all of your registration data each time. The cookie only is used to obtain non-personal information in order to enhance your experience when you visit our website. 
+
+Many consider the use of cookies to be an industry standard, and your browser is probably set to accept cookies. However, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site may not function properly when you view them.
+
+#### Internet Protocol (IP) Address:
+
+We collect an IP address from all visitors to our website. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our website, analyze trends gather broad demographic information for aggregate use in order for us to improve our website, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information.
 
 #### Tell-A-Friend:
 
-If a user elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and email address. POPULATION SERVICES INTERNATIONAL will automatically send the friend a one-time email inviting them to visit the Site. POPULATION SERVICES INTERNATIONAL stores this information for the sole purpose of sending this one-time email.
+If a user elects to use our referral service for informing a friend about our website, we ask them for the friend's name and email address. PSI may send the friend a one-time email inviting them to visit the website. 
 
 #### Other Web Sites:
 
-Our Site contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which POPULATION SERVICES INTERNATIONAL has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours.
+PSI.org contains links to other websites. Please note that when you click on one of these links, you are entering another website for which PSI has no responsibility. PSI is not responsible for the privacy policies and practices of any linked website. We encourage you to read the privacy policy of any website you wish to visit before disclosing any information.
 
-####  Contacting the Web Site:
-
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact:
-
-POPULATION SERVICES INTERNATIONAL  
-1120 19th St. NW  
-Suite 600  
-Washington, DC 20036  
-(202) 785-0072  
-Fax: (202) 785-0120
-
-You can also send an email to: [webmaster@psi.org](mailto:webmaster@psi.org)
+If you have any questions about our Privacy Policy, please send an email to [webmaster@psi.org](mailto:webmaster@psi.org).
