@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campingworld.com privacy policy that was archived on 2011-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110726172909id_/http%3A//www.campingworld.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campingworld.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127065614id_/http%3A//www.campingworld.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Camping World
 
@@ -73,7 +73,7 @@ You can contact us via email by clicking "Contact Us" on any of our Web pages or
 
 If you need further assistance, you can: 
 
-Send an email with your questions or comments to info@affinitygroup.com 
+Send an email with your questions or comments to info@affinitygroup.com
 
 Write us at:   
 RV.NET   
