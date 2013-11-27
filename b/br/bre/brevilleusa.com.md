@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brevilleusa.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528030258id_/http%3A//www.brevilleusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brevilleusa.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127190507id_/http%3A//www.brevilleusa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
