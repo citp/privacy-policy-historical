@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinpress.net privacy policy that was archived on 2013-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130228003126id_/http%3A//pinpress.net/Privacy-Policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinpress.net privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127091848id_/http%3A//pinpress.net/Privacy-Policy-1) for the most accurate reproduction.*
 
 # Privacy Policy - Your personal standalone pinboard.
 
