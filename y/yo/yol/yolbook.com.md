@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yolbook.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611180512id_/http%3A//yolbook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yolbook.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127125336id_/http%3A//yolbook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | YolBook.com
 
