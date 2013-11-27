@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtabking.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115141347id_/http%3A//www.newtabking.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtabking.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127034748id_/http%3A//www.newtabking.com/privacy.php) for the most accurate reproduction.*
 
 # New Tab King privacy policy
 
