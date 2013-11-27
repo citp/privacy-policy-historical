@@ -1,43 +1,77 @@
-> *The following text is extracted and transformed from the universitycoop.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502190348id_/http%3A//www.universitycoop.com/ePOS/this_category%3D769%26store%3D108%26form%3Dshared3/gm/main.html%26design%3D108) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universitycoop.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127085137id_/http%3A//www.universitycoop.com/info/privacy-policy) for the most accurate reproduction.*
 
-# University Co-op - Privacy Policy
+# Privacy- Policy | University Co-op Online
 
-**University Co-op Privacy Policy**
+  
 
-**University Co-op Privacy Policy:**  
-The University Co-op cares about personal data and how information  
-is used on the Internet. By using our site, you are agreeing to our policy. 
 
-**Collecting Information** :   
-The Co-op collects information in the following manner:   
-Online Orders - We will need certain information including name,   
-billing and shipping addresses, phone numbers and email addresses  
-to complete your online order and provide the best possible service.   
-Online customers may be added to our Mailing list, but you can   
-unsubscribe at any time. See Mailing list below for more details.   
-Online promotions - We may ask for names, email address and phone   
-numbers from those who sign up for our online promotions. It is a   
-convenient way to contact people to notify them they have won.   
-Mailing list - To join our mailing list you will be asked to supply an   
-email address. Of course, you may opt out at any time by emailing   
-[weborder@universitycoop.com](mailto:weborder@universitycoop.com) or by using this [Unsubscribe link](http://www.universitycoop.com/ePOS/form=cat.html&cat=618&store=108). 
+### **Our Privacy Policy**
 
-At Events - We may take photos or conduct video interviews at events  
-such as tailgating parties.  We may ask you for your name, city, year   
-of graduation and take your picture, for posting on our web site or   
-other public web sites or social media sites, such as Facebook or   
-YouTube. 
+#### **We care about personal data and how information is used on the internet.   We will NEVER sell or disclose your identity or personal information to any third party.**
 
-**Protecting Information:**  
-The Co-op uses the most sophisticated technology to encrypt the   
-information we transmit and store. We use Secure Socket Layer (SSL)   
-technology to accomplish this. While the Co-op rarely links to outside   
-sites, and, except for the Event photos and video interviews posted on   
-third-party web sites or social media sites, NEVER shares customer   
-information, please be advised that those sites will have their own   
-privacy policy. 
+This Privacy Policy governs the manner in which University Co-op collects, uses, maintains and discloses information collected from users (each, a "User") of the www.universitycoop.com website ("Site"). This privacy policy applies to the Site and all products and services offered by University Co-op.
 
-Except for the Event photos and video interviews posted on third-party  
-web sites or social media sites, or to comply with legal process, the   
-Co-op will NEVER sell or disclose your identity or personal information  
-to any third party. 
+#### **Personal identification information**
+
+ We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, respond to a survey, subscribe to the newsletter and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information.  Users may, however, visit our Site anonymously.  We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+
+#### **Non-personal identification information**
+
+ We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+#### **Web browser cookies**
+
+ Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+#### **How we use collected information**
+
+University Co-op collects and uses Users personal information for the following purposes:
+
+  * _To improve customer service_  
+Your information helps us to more effectively respond to your customer service requests and support needs.
+  * _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _To improve our Site_  
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * _To process transactions_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _To administer a content, promotion, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _To send periodic emails_  
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may unsubscribe using the Manage Emails section of our website.
+
+
+
+#### **How we protect your information**
+
+ We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+  
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+
+#### **Sharing your personal information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.  We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. We may use your information internally for reporting purposes through Google Analytics Demographics and Interest Reporting, which you can opt out of [here](https://tools.google.com/dlpage/gaoptout/).
+
+#### **Third party websites**
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website\'s own terms and policies.
+
+#### **Changes to this privacy policy**
+
+ University Co-op has the discretion to update this privacy policy at any time. When we do, we revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+#### **Your acceptance of these terms**
+
+ By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+####   **Contacting us**
+
+ If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+University Co-op  
+www.universitycoop.com  
+2246 Guadalupe St. Austin, TX 78705  
+800-255-1896  
+weborder@universitycoop.com
+
+Updated 7/1/2013
