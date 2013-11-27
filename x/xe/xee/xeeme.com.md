@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xeeme.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502232548id_/http%3A//society3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeeme.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127134717id_/http%3A//society3.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Society3
 
