@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marvel.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617184550id_/http%3A//marvel.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvel.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127075450id_/http%3A//marvel.com/corporate/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Marvel.com
+# Privacy Policy | Privacy Policy | Marvel.com
 
 This Privacy Policy governs your use of the web sites published and maintained by Marvel Worldwide, Inc. and/or its Marvel affiliates and subsidiaries, with offices located at 135 West 50th Street, 7th Floor, New York, NY 10020 ("Marvel," "we," "us," "our," or other similar pronouns) including marvel.com and www.marvelkids.com (each, a "Web Site"). By visiting this Web Site, and/or using the services offered on or through this Web Site, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our Web Site, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the Marvel Web Site Terms and Conditions, which governs your use of this Web Site in general.
 
