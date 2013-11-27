@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smarthealthmagazine.org privacy policy that was archived on 2013-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130211031145id_/http%3A//www.smarthealthmagazine.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthealthmagazine.org privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127224745id_/http%3A//www.smarthealthmagazine.org/privacy) for the most accurate reproduction.*
 
-# Privacy | Smart Health Magazine
+# Privacy
 
 **This Privacy Policy describes what information Smart Health Magazine and certain third parties gather, how we collect it, our information sharing practices, how users may change the way their information is collected and more.**
 
