@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectviewercentral.com privacy policy that was archived on 2011-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110324044740id_/http%3A//www.projectviewercentral.com/documents/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectviewercentral.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127084514id_/http%3A//www.projectviewercentral.com/documents/privacy.html) for the most accurate reproduction.*
 
 # Documentation: Privacy Policy - Project Viewer Central
 
