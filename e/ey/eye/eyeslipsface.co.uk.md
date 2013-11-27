@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeslipsface.co.uk privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618182747id_/http%3A//eyeslipsface.co.uk/en/restofworld/help/security-and-privacy/page/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeslipsface.co.uk privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127020632id_/http%3A//eyeslipsface.co.uk/en/restofworld/help/security-and-privacy/page/securityandprivacy) for the most accurate reproduction.*
 
 # Security and Privacy at e.l.f.
 
