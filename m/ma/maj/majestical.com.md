@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the majestical.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617043904id_/http%3A//www.majestical.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majestical.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127030322id_/http%3A//www.majestical.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Terms: Privacy
+# Privacy Policy | Majestical.com
 
 **Privacy Policy**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20130617043904id_/http%3A//www.majestical.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20131127030322id_/http%3A//www.majestical.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
