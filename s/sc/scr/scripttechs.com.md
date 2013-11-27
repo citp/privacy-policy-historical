@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scripttechs.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529162803id_/http%3A//scripttechs.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripttechs.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127051308id_/http%3A//scripttechs.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » Script Techs » PHPFox Tutorials - Powered By phpFox
+# Privacy Policy - Powered By PHPFox
 
 **Our Privacy Policy  
 **   
@@ -44,4 +44,4 @@ You can access all your personally identifiable information that we collect onli
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please [let us know](http://scripttechs.com/fox/contact). 
+Should you have other questions or concerns about these privacy policies, please [let us know](http://scripttechs.com/contact). 
