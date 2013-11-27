@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixmule.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514011429id_/http%3A//mixmule.com/en/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixmule.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127022019id_/http%3A//mixmule.com/en/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MixMule.com
 
@@ -11,7 +11,7 @@ By using the Service, you consent to the collection and use of your personal inf
 
 ####  What We Collect
 
-When you register to become a member of MixMule, we collect your email address and other personal identifying information that you submit.
+When you register to become a member of SHORT_SITE, we collect your email address and other personal identifying information that you submit.
 
   
 
@@ -20,7 +20,7 @@ When you register to become a member of MixMule, we collect your email address a
 
 We use your name, email address and other information on our system to notify you of new product releases, service notifications, and to solicit your feedback and input.
 
-You understand and agree that we may access, preserve, and the contents of your account if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to avoid liability, to comply with legal process, such as a search warrant, subpoena, statute, or court order, or to protect our rights and property, or that of our affiliates or the public. MixMule may also delete certain content in whole or in part if MixMule determines, in its sole discretion, that such content constitutes an .Infringing Posting. or a .Prohibited Posting.
+You understand and agree that we may access, preserve, and the contents of your account if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to avoid liability, to comply with legal process, such as a search warrant, subpoena, statute, or court order, or to protect our rights and property, or that of our affiliates or the public. SHORT_SITE may also delete certain content in whole or in part if SHORT_SITE determines, in its sole discretion, that such content constitutes an .Infringing Posting. or a .Prohibited Posting.
 
 We also use non-personally identifiable information and certain technical information about your computer in order to operate, maintain and manage the Service.
 
@@ -29,21 +29,21 @@ We also use non-personally identifiable information and certain technical inform
 
 ####  Controlling Your Personal Information
 
-You can terminate your account at any time which will remove your account. MixMule, however, may (but is not obligated to) keep information about you that is on its system following your termination. Contact MixMule to terminate your account or for any other questions about your personal information.
+You can terminate your account at any time which will remove your account. SHORT_SITE, however, may (but is not obligated to) keep information about you that is on its system following your termination. Contact SHORT_SITE to terminate your account or for any other questions about your personal information.
 
   
 
 
 ####  Transfer of Information
 
-We reserve the right to transfer your personal information in the event of a transfer of ownership of MixMule, such as acquisition by or merger with another company. In such an event, MixMule will notify you before information about you is transferred and becomes subject to a different privacy policy.
+We reserve the right to transfer your personal information in the event of a transfer of ownership of SHORT_SITE, such as acquisition by or merger with another company. In such an event, SHORT_SITE will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
   
 
 
 ####  Links to Other Sites
 
-MixMule may contain links to other web sites. These other sites maintain their own policies regarding cookies and the collection and use of personal information. It is up to you to review those policies yourself.
+SHORT_SITE may contain links to other web sites. These other sites maintain their own policies regarding cookies and the collection and use of personal information. It is up to you to review those policies yourself.
 
   
 
