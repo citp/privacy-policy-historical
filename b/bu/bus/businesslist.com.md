@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesslist.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528043557id_/http%3A//businesslist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesslist.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127160956id_/http%3A//businesslist.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Business List | Business Email List | Business Leads | Email List Of Businesses
 
