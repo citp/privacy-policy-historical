@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedmagazine.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626023252id_/http%3A//seedmagazine.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedmagazine.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127080240id_/http%3A//seedmagazine.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy § SEEDMAGAZINE.COM
 
