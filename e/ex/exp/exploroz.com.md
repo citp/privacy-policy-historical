@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528131231id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128000325id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy @ ExplorOz Articles
 
@@ -27,7 +27,7 @@ ExplorOz utilises a system of user registration (free service) and Membership (a
 
 To obtain the full benefits of Site use, users are required to register with ExplorOz by providing their email address and then using the site whilst logged on using this email account each time they visit the Site. If you do not view the site with your profile then you cannot access the restricted areas of the site and cannot use the interactive features of the site that enable you to add content (publish) to the Site. The Site however, contains many active pages of content and features that can be viewed in "read-only" mode if you do not register or do not login. 
 
-The Membership system provides enhanced viewing facilities, access to Member-only [services](https://web.archive.org/Places/Services.aspx) and tools in addition to the free [services](https://web.archive.org/Places/Services.aspx) accessible by all registered users. 
+The Membership system provides enhanced viewing facilities, access to Member-only [services](https://web.archive.org/Places/Services.aspx) and[ tools ](https://web.archive.org/Articles/_/Tools/Default.aspx)in addition to the free [services](https://web.archive.org/Places/Services.aspx) accessible by all registered users. 
 
 You can learn more about enhancing your online experience through Membership by [clicking here](http://www.exploroz.com/Membership/About.aspx). 
 
@@ -108,6 +108,13 @@ We will not give any of your personal information to Advertisers or any other or
   
 
 
+[ ](http://www.exploroz.com/Shop/Membership/Default.aspx)
+
+Get the full ExplorOz experience when you become a Member. You are currently missing out on so much! Join the ExplorOz community from just $49.95 (12 month Personal subscription).
+
+[www.exploroz.com/Shop/Membership/Default.aspx](http://www.exploroz.com/Shop/Membership/Default.aspx)  
+
+
 We will not send you "spam" (advertising information) without first asking you whether you wish to have promotional information sent to you. If you are receiving promotional information about ExplorOz or its affiliates and do not wish to receive this information any longer, you may remove your name from our list either by visiting the website from which the communication was sent and following the instructions on how to withdraw your information from that site (where that facility is available), or emailing us at info@ExplorOz.com and asking to be removed from our mailing list. Please allow two days for this request to be processed.   
 
 
@@ -151,7 +158,7 @@ If ExplorOz becomes aware of any ongoing concerns or problems with our Site, we 
 
 ## Go to top 12\. Future changes
 
-Our commitment to make ExplorOz [Australia](https://web.archive.org/States/Default.aspx)'s leading 4WD Web Site means that we are constantly adding new sites and features to the Site. Because of this, from time to time, our policies will be reviewed and may be revised. ExplorOz [reserves](https://web.archive.org/Places/Reserves/.aspx) the right to change its [privacy policy](https://web.archive.org/Privacy.aspx) at any time and notify you by posting an updated version of the policy on its website.  
+Our commitment to make ExplorOz [Australia](https://web.archive.org/States/Default.aspx)'s leading 4WD Web Site means that we are constantly adding new sites and features to the Site. Because of this, from time to time, our policies will be reviewed and may be revised. ExplorOz [reserves](https://web.archive.org/Places/Reserves.aspx) the right to change its privacy policy at any time and notify you by posting an updated version of the policy on its website.  
 
 
   
@@ -164,13 +171,15 @@ Our commitment to make ExplorOz [Australia](https://web.archive.org/States/Defau
 
 Go to top ARTICLE FEEDBACK
 
-  * Reviews & Discussions (0)
+  * Reviews & Discussions 
 
 
 
 ReviewCreate a Review/Discussion
 
-You must be registered and logged in to 'Have Your Say'
+Note – Reviews will be sent to the content administrator and will appear on this page, but Discussions will be copied to our Forum to allow other people to respond.
+
+You must be registered and logged in to post here.
 
 Registration is free and takes only seconds to complete!
 
