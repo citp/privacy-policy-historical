@@ -1,36 +1,53 @@
-> *The following text is extracted and transformed from the t-app.com.au privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410023324id_/https%3A//tradingreference.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-app.com.au privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127122443id_/http%3A//t-app.com.au/privacy.aspx) for the most accurate reproduction.*
 
-# TRA - Privacy Policy
+# tApp is a FREE online tenancy application form that streamlines the rental sign-up process.
 
-****General****
+**
 
-Trading Reference Australia formerly Tenant Reference Australia (“TRA”) regards compliance with all applicable laws to protect the privacy of individuals as a high priority. Accordingly, **TRA** has taken and will continue to take steps to ensure such compliance is achieved.
+tApp is an online tenancy management service, a division of Trading Reference Australia Pty Limited ABN 72098231219.
 
- **TRA** takes care to ensure that only relevant information is collected on its database. No sensitive personal information is retained. Access to the database is carefully limited to persons with a genuine purpose for consulting the database.
+We take privacy very seriously. For further assistance please contact us on 02 9363 9244.
 
- **TRA** also takes care to ensure that the information on its database is accurate and up to date. If you think that any information of the database is, or might be, inaccurate or out of date, please contact us and we will make every effort to correct any inaccuracies.
+**
 
- **What sort of information does TRA hold?**
+##  General
 
-The main type of information held by **TRA** is information which helps identify you (name, address, telephone number and similar information). The other type of information held by **TRA** is whether you have been listed on the database for any reason, and the contact details of the person who made that listing. This information is held for the purpose of consideration by letting agents and video stores who may be considering an application by you. It is also held for the purpose of allowing solicitors, commercial agents and others to contact you.
+tApp regards compliance with all applicable laws to protect the privacy of individuals as mandatory. Accordingly, tApp has taken and will continue to take steps to ensure such compliance is achieved.
 
- **How TRA holds and discloses information**
+## Collection and access
 
-Information in the **TRA** database is held securely. The only persons who are allowed to see information about you (other than you) are people to whom you submit applications (and whom you thereby authorise to view such information) and commercial organisations who need to see the information in order to contact you.
+**tApp** takes care to ensure that it only collects information necessary for its functions and activities. No sensitive personal information is retained. Access to the database is carefully limited to persons with a genuine purpose for consulting the database. Any person whose information is collected by tApp is able to gain access to that information directly through the on-line application or by submitting a request in writing to tApp at [info@tradingreference.com](mailto:info@tradingreference.com).If we receive a written request from a person whose information is held in the tApp database we will provide that person with a copy of the information we hold.
 
- **TRA policies in relation to the management of personal information**
+## Accuracy of information
 
- **TRA** maintains the following policies in relation to the management of personal information:
+**tApp** must takes measures to make sure that the information on its database is accurate, complete and up to date. We do not make changes to information on the tApp database as it is not our information to change. The tApp is available at all times to those persons who have supplied their information to update the information as necessary and it is expected that persons will keep their own information accurate, complete and up to date. If you think that any information on the database is, or might be, inaccurate or out of date, please contact us and we will make every effort to correct any inaccuracies. If we become aware or suspect that information on the tApp database is inaccurate, incomplete or not up to date we reserve the right to remove the information from the database.
 
-  1. Appropriate steps are to be taken to prevent unauthorised access to the **TRA** database, including to prevent unauthorised modification or disclosure of the records in that database. The security of the database is to be reviewed periodically. 
-  2. **TRA** is to maintain a list of authorised users at all times. That list is to be reviewed periodically to ensure that it is accurate. 
-  3. **TRA** is not to collect any sensitive information about individuals, within the meaning of the Privacy Act 1988 (Cth). 
-  4. Information is to be collected about individuals only by lawful and fair means. 
-  5. **TRA** is to take appropriate steps to provide its contact details to persons who become listed in its records. 
-  6. **TRA** is to take appropriate steps to notify any person who becomes listed in its records of the fact of such listing. 
-  7. **TRA** is to take appropriate steps to notify any person whose listing changes, or is removed, of the fact of that change or removal. 
-  8. **TRA** is to change the record of any person whom advises **TRA** that his or her record is incorrect, upon being reasonably satisfied of the correctness of such advice. 
-  9. **TRA** is to make a copy of this document available to any person who asks for it. 
-  10. **TRA** is to provide access to any person to his or her own records, upon being reasonably satisfied of the identity of that person.
+TRA takes care to ensure that only relevant information is collected on its database. No sensitive personal information is retained. Access to the database is carefully limited to persons with a genuine purpose for consulting the database.
+
+## What sort of information does tApp hold?
+
+Information held by tApp is all of the information provided by persons in their use of tApp. The main type of information held by **tApp** is information, which helps identify a person (name, address, telephone number and similar information). The personal information collected by tApp in relation to prospective tenants is more extensive, by reason of the nature of the on-line tApp facility, than information which may be collected about other individuals. 
+
+## Purpose of collection
+
+Personal information is held for one or more of the functions and activities of tApp which include the submission and processing of tenancy applications and applications to other goods and service providers, for review by real estate agents and other goods and service providers, disclosure to solicitors, commercial agents, banks and others to contact a person whose details are in the database.
+
+## Who tApp discloses information to
+
+tApp will discloses personal information collected by it to organisations such as real estate agents, property owners, utility providers, utility brokers, insurers and insurance brokers, other providers of goods and services, banks and commercial agents.
+
+##  tApp policies in relation to the management of personal information
+
+**tApp** maintains the following policies in relation to the management of personal information:
+
+  1. Appropriate steps are taken to prevent unauthorised access to the tApp database, including to prevent unauthorised modification or disclosure of the records in that database. The security of the database is to be reviewed periodically. 
+  2. **tApp** maintains a list of authorised users at all times. That list is reviewed periodically to ensure that it is accurate. 
+  3. **tApp** requires users to agree to terms and conditions of use which, in part, are intended to ensure users comply with their own obligations under privacy laws.
+  4. **tApp** does not collect any sensitive information about individuals, within the meaning of the Privacy Act 1988 (Cth). 
+  5. Information is collected about individuals only by lawful and fair means. 
+  6. **tApp** takes appropriate steps to provide its contact details to persons who become listed in its records.
+  7. **tApp** will change the record of any person whom advises **tApp** that his or her record is incorrect, upon being reasonably satisfied of the correctness of such advice. 
+  8. **tApp** will make a copy of this document available to any person who asks for it. 
+  9. **tApp** provides access to any person to his or her own records, upon being reasonably satisfied of the identity of that person.
 
 
