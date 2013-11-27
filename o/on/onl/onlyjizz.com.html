@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onlyjizz.com privacy policy that was archived on 2013-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529074849id_/http%3A//www.onlyjizz.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlyjizz.com privacy policy that was archived on 2013-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127022659id_/http%3A//www.onlyjizz.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,37 +9,34 @@
 
       <title>The YouJizz Privacy Page</title>
 
-      <link rel="stylesheet" type="text/css" href="http://onlyjizz.com/rating/css/rating.css">
+      <link rel="stylesheet" type="text/css" href="http://onlyjizz.com/rating/css/rating3.css">
       <link rel="stylesheet" type="text/css" href="http://onlyjizz.com/css/styleb.css">
       <link rel="stylesheet" type="text/css" href="http://onlyjizz.com/css/style.css">
 
 <link rel="stylesheet" type="text/css" href="http://onlyjizz.com/layout/jizzhut.com/style.css">
 <link rel="stylesheet" type="text/css" href="http://onlyjizz.com/layout/jizzhut.com/style_003.css"> 
  
-      <script type="text/javascript" src="http://onlyjizz.com/xmoov_flv/assets/javascript/swfobject.js"></script>
-      <script type="text/javascript">var nc = Date();</script>
-      <script type="text/javascript" language="javascript" src="http://onlyjizz.com/js/AC_RunActiveContent.js"></script>
-
-      <script type="text/javascript" language="javascript" src="http://onlyjizz.com/js/thumbchange.js"></script>
-      <script type="text/javascript" language="javascript" src="http://onlyjizz.com/js/default.js"></script>
+      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://onlyjizz.com/xmoov_flv/assets/javascript/swfobject.js"></script>
 
     <!--  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> -->
       <script type="text/javascript" src="http://onlyjizz.com/js/jquery-1.7.1.min.js"></script>
+      <script type="text/javascript" src="http://onlyjizz.com/js/knockout-2.2.1.js"></script>
       <script type="text/javascript" src="http://onlyjizz.com/rating/js/ratingjq.js"></script>
 
+      <script type="text/javascript" language="javascript" src="http://onlyjizz.com/js/default.js"></script>
       <script type="text/javascript" language="javascript" src="http://onlyjizz.com/js/contentlist.js"></script>
 
-      <script type="text/javascript" language="javascript" src="http://cdnb.static.onlyjizz.com/js/jquery.lazyload.js"></script>
+      <script type="text/javascript" language="javascript" src="http://onlyjizz.com/js/jquery.lazyload.js"></script>
 
-
-      <script type="text/javascript" src="http://cdnb.static.onlyjizz.com/js/abw.jquery.js"></script>
       <script type="text/javascript" language="javascript" src="http://promo.badoink.com/youjizz/custom_text.js"></script>
-      <script type="text/javascript" language="javascript" src="http://cdnb.static.onlyjizz.com/js/jquery.dropdown.js"></script>
+      <script type="text/javascript" language="javascript" src="http://onlyjizz.com/js/jquery.dropdown.js"></script>
 
-      <script type="text/javascript" src="http://cdnb.static.onlyjizz.com/js/jquery.autocomplete.js"></script>
-      <link rel="stylesheet" type="text/css" href="http://cdnb.static.onlyjizz.com/js/jquery.autocomplete.css">
+      <script type="text/javascript" src="http://onlyjizz.com/js/jquery.autocomplete.js"></script>
+      <link rel="stylesheet" type="text/css" href="http://onlyjizz.com/js/jquery.autocomplete.css">
 
-      <script type="text/javascript" src="http://cdnb.static.onlyjizz.com/js/localdata.js"></script>
+      <script type="text/javascript" src="http://onlyjizz.com/js/jquery.json-2.4.min.js"></script>
+      
+      <script type="text/javascript" src="http://onlyjizz.com/js/localdata.js"></script>
 
       <!--  Code for overall_header.php used in admin/uploads -->
       <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/themes/base/jquery-ui.css" type="text/css" media="all">
@@ -48,13 +45,32 @@
       <script type="text/javascript" language="javascript" src="http://onlyjizz.com/js/jtip.js"></script>
       <script type="text/javascript" src="http://onlyjizz.com/js/swfobject.js"></script>
 
+<link rel="stylesheet" type="text/css" href="http://onlyjizz.com/social/1.08/css/social.css">
+<script type="text/javascript">
+   // Social: Config parameters
+   var userid = undefined;
+   var socialurl = "/social/1.08/social_processor.php";
+   var socialuploadurl = "http://uploads.youjizz.com/social/1.08/social_processor.php";
+   var avatarhttp = "http://uploads.youjizz.com/uploads/avatar";
+</script>
+<script type="text/javascript" src="http://onlyjizz.com/social/1.08/js/executer-min.js"></script>
+<script type="text/javascript" src="http://onlyjizz.com/social/1.08/js/manage_sessionStorage-min.js"></script>
+
    <script type="text/javascript">
       $(function() {
-         if (typeof SwJs.Preview != "undefined") SwJs.Preview.Init();
-      })
+                  if (typeof SwJs.Preview != "undefined") SwJs.Preview.Init();
+         
+                     if (sessionStorage.getItem('user_videos')) {
+               sessionStorage.removeItem('user_videos');
+            }
+            if (sessionStorage.getItem('fav_user_videos')) {
+               sessionStorage.removeItem('fav_user_videos');
+            }
+            if (sessionStorage.getItem('personinfo')) {
+               sessionStorage.removeItem('personinfo');
+            }
+               })
    </script>
-
-
 
 </head>
 
@@ -66,8 +82,6 @@
       <div class="contener">
                   <a href="/signup.php" style="float: left; margin-right: 20px;">Sign Up Free!</a> <a href="/login.php" style="float: left; margin-right: 20px;">Login</a> <a href="/upload.php" style="float: left;">Upload!</a>
                   <span style="float: right">
-            <span> <b><font color="red">100% FREE </font></b>on your mobile device!</span>
-            <span style="padding-left:20px;">
                Filter Content:
                <a style="color: red;" href="/setFilter.php?filter=straight" rel="nofollow">Straight</a> /
                <a href="/setFilter.php?filter=gay" rel="nofollow">Gay</a> /
@@ -79,7 +93,7 @@
                <a style="color: red;" href="/setFilter.php?homepage=popular" rel="nofollow">Popular</a> /
                <a href="/setFilter.php?homepage=newest" rel="nofollow">Newest</a>
             </span>
-         </span>
+         
       </div>
    </div>
    <!-- End Login -->
@@ -92,7 +106,7 @@
       <div id="rightoflogo">
          <!-- top ads -->
          <center>
-            <iframe name="hdrbn" src="http://ads.traffichaus.com/pubs/0002/15/adserve.php" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" allowtransparency="true"></iframe>
+            <iframe name="hdrbn" src="http://syndication.traffichaus.com/adserve/index.php?z=15&amp;loc=home" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" allowtransparency="true"></iframe>
         </center>
       </div>
    </div>
@@ -104,21 +118,20 @@
          <a href="/newest-clips/1.html">Newest</a>
          <a href="/top-rated/1.html">Top Rated</a>
          <a href="/random.php">Random</a>
-         <a href="http://mbs.youjizzlive.com/xtarc/601342/447/0/?mta=340848" rel="nofollow">Webcam Babes</a>
-         <a href="http://click.clickcommander.com/link/60d42298f86647744e27428a8351d1d1" rel="nofollow">Toon Porn</a>
-         <a href="http://jizzhutplus.com/go.php?t=314&amp;aid=101887&amp;sid=topnav0611" rel="nofollow">Download Videos</a>
-         <a href="http://www.videosz.com/index.php?link_id=11293&amp;tracker_id=10936&amp;lg=us&amp;nt=0" rel="nofollow">Download DVDs</a>
-         <a href="http://syndication.traffichaus.com/directserve.php?z=2002&amp;p=2" rel="nofollow"><span>Meet &amp; Fuck</span></a>
+         <a href="http://syndication.traffichaus.com/adserve/index.php?z=2002" rel="nofollow"><span>Fuck Date</span></a>
+         <a href="search/HighDefinition-1.html#">High Definition</a>
          <a href="javascript:window.external.AddFavorite('http://www.jizzhut.com', 'JizzHut.com - Porn Tube Download Free Porn Movies Sex Videos XXX')">Bookmark</a>
-         <a href="/help.php">Help!</a>
+         <a href="/help.php">Help!</a>         
       </div>
    </div>
-   <!-- <div class="reset"></div> -->
-   <div id="subnav">
-      <div id="pagetitle"></div>
+    <div class="reset"></div> 
+   <div class="contener">
+	   <div id="subnav" style="width: 888px;">
+	      <div id="pagetitle" style="align:center"></div>
+	         	   </div>
    </div>
 </div>   <div class="reset"></div>
-   <div class="contener">
+      <div class="contener">
       <!-- Search section -->
             <div id="search">
          <form id="searchform" action="/srch.php" method="get" name="searchform" autocomplete="off">
@@ -129,9 +142,13 @@
                </div>
       <!-- End Search section -->
    </div>
+         <div class="reset"></div>
+               </div>
+      <!-- End Search section -->
+   
 
    <div class="reset"></div>
-   </div>
+   
 <!--EOF REAL HEADER-->
 
 
@@ -171,9 +188,9 @@ Last Updated: December 12, 2011
 <h3>A.</h3> The operative parties referred to in this policy are Company and you, the user of
 this site.
 <br>
-1.International Media, Ltd., is the publisher and operator of the websites
+1.International Media, Inc., is the publisher and operator of the websites
 listed at the beginning of this policy. Hereinafter, International Media,
-Ltd. shall be referred to as "Company". When first-person pronouns are
+Inc. shall be referred to as "Company". When first-person pronouns are
 used in this Policy, (us, we, our, ours, etc.) these provisions are referring
 to Company. Additionally, when the terms "The Site" or "Site" are used,
 these terms refer to the websites listed at the beginning of this policy.
@@ -339,19 +356,21 @@ may contact us at youjizzadmin(at)gmail.com.
          <a href="/2257.php">2257</a> |
          <a href="/terms.php">Terms &amp; Conditions</a> |
          <a href="/help.php">Help</a> |
-         <a href="/help.php">Advertise</a> |
+         <a href="http://www.rtalabel.org">RTA</a> |
+         <a href="http://www.parentalcontrolbar.org/">Parental Control</a> |
          <a href="http://m.youjizz.com">Mobile Porn</a>
       </div>
    </div>
 </div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-   abw.Init({
-      aTargets: [{ at:'#baner_top', rt:'#main-content-0' },
-                 { at:'#right-ad', rt:'#main-content-1' }]
-   });
-   _uacct = "UA-3428380-4";
-   urchinTracker();
+   var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3428380-4']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
 
 
