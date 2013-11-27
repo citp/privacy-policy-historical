@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minigadgets.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530153153id_/http%3A//www.minigadgets.com/catalog/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minigadgets.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127034514id_/http%3A//www.minigadgets.com/catalog/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,4 +14,4 @@ Our site uses an order form for customers to request information, products, and 
 
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and protected. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just "surfing".
 
-If you have any questions about the security at our web site, please send an e-mail to andrea@minigadgets.com, larry@minigadgets.com, support@minigadgets.com, or orders@minigadgets.com.
+If you have any questions about the security at our web site, please send an e-mail to andrea@minigadgets.com, support@minigadgets.com, orders@minigadgets.com.
