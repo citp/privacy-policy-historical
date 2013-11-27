@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alchemyapi.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508174206id_/http%3A//www.alchemyapi.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alchemyapi.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127091216id_/http%3A//www.alchemyapi.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AlchemyAPI
 
 ## PLEASE READ CAREFULLY
 
-This Orchestr8, LLC Privacy Policy (this _Agreement_ ) is a legal agreement between you and Orchestr8, LLC ( _Orchestr8_ , _ORCHESTR8_ , _we_ , _us_ or _our_ ) providing, among other things, the terms and conditions for your use of Orchestr8's software products and services (collectively, the _AlchemyAPI Services_ ), including our Web site [http://www.alchemyapi.com](http://www.alchemyapi.com/) (the _Site_ ). This Privacy Policy sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of the AlchemyAPI Services. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy.
+This AlchemyAPI, Inc. Privacy Policy (this _Agreement_ ) is a legal agreement between you and AlchemyAPI, Inc. ( _AlchemyAPI_ , _ALCHEMYAPI_ , _we_ , _us_ or _our_ ) providing, among other things, the terms and conditions for your use of AlchemyAPI's software products and services (collectively, the _AlchemyAPI Services_ ), including our Web site [http://www.alchemyapi.com](http://www.alchemyapi.com/) (the _Site_ ). This Privacy Policy sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of the AlchemyAPI Services. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy.
 
 This Privacy Policy is incorporated into, and part of, the Terms and Conditions <http://www.alchemyapi.com/company/terms.html>, which govern your use of the AlchemyAPI Services in general. Should you have any questions concerning this Agreement, you may contact us by visiting <http://www.alchemyapi.com/products/support.html>. By using or registering with AlchemyAPI Services or by providing personal information, you agree to abide by these terms. 
 
@@ -12,7 +12,7 @@ We may from time to time modify these terms and will post a copy of the amended 
 
   1. ### Information Collection and Use
 
-Orchestr8 is the sole owner of the information collected using AlchemyAPI Services. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
+AlchemyAPI is the sole owner of the information collected using AlchemyAPI Services. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
 
   2. ### Registration
 
@@ -20,23 +20,23 @@ In order to use certain portions of the AlchemyAPI Services, a user must first c
 
   3. ### Cookies
 
-Orchestr8 utilizes HTTP Cookies to facilitate certain aspects of AlchemyAPI Services operation, including authenticating, tracking, and maintaining specific information about users, such as user preferences. You are free to disable usage of HTTP Cookies within your web browser, but this may impede the proper operation of specific AlchemyAPI Services features.
+AlchemyAPI utilizes HTTP Cookies to facilitate certain aspects of AlchemyAPI Services operation, including authenticating, tracking, and maintaining specific information about users, such as user preferences. You are free to disable usage of HTTP Cookies within your web browser, but this may impede the proper operation of specific AlchemyAPI Services features.
 
   4. ### Log Files
 
-Orchestr8 gathers information on IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+AlchemyAPI gathers information on IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
   5. ### Links
 
-This Web site contains links to other sites. Please be aware that Orchestr8 is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This Web site contains links to other sites. Please be aware that AlchemyAPI is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
   6. ### Legally Affiliated Entities
 
-In the event that Orchestr8 is merged, or in the event of a transfer of our assets, AlchemyAPI Services or operations, Orchestr8 may disclose or transfer your personal information in connection with such transaction. In the event of such a transfer, Orchestr8 will notify you via email or by posting a prominent notice on our Site for 30 days of any such change in ownership of Orchestr8 resulting in a change of control of your personal information.
+In the event that AlchemyAPI is merged, or in the event of a transfer of our assets, AlchemyAPI Services or operations, AlchemyAPI may disclose or transfer your personal information in connection with such transaction. In the event of such a transfer, AlchemyAPI will notify you via email or by posting a prominent notice on our Site for 30 days of any such change in ownership of AlchemyAPI resulting in a change of control of your personal information.
 
   7. ### Legally Compelled Disclosure
 
-Orchestr8 will also disclose your personal information when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (whether intentionally or unintentionally) our rights or property.
+AlchemyAPI will also disclose your personal information when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (whether intentionally or unintentionally) our rights or property.
 
   8. ### Bankruptcy
 
@@ -44,9 +44,9 @@ Courts of equity, such as U.S. Bankruptcy Courts, may have the authority under c
 
   9. ### Security
 
-Orchestr8 strives to protect the security of your personal information and your choices for its intended use. We use secure SSL technology to protect the transmission of personal information such as names and e-mail addresses. We store your personal information on a secure server, and use procedures designed to protect the personal information we collect from loss, misuse, unauthorized access or disclosure, alteration or destruction.
+AlchemyAPI strives to protect the security of your personal information and your choices for its intended use. We use secure SSL technology to protect the transmission of personal information such as names and e-mail addresses. We store your personal information on a secure server, and use procedures designed to protect the personal information we collect from loss, misuse, unauthorized access or disclosure, alteration or destruction.
 
-While Orchestr8 takes significant security precautions regarding your personal information collected from and stored on the Site, due to the open nature of the Internet, we cannot guarantee that any of your personal information stored on our servers, or transmitted to or from a user, will be free from unauthorized access, and we disclaim any liability for any theft or loss of, unauthorized access or damage to, or interception of any data or communications. By using AlchemyAPI Services, you acknowledge that you understand and agree to assume these risks.
+While AlchemyAPI takes significant security precautions regarding your personal information collected from and stored on the Site, due to the open nature of the Internet, we cannot guarantee that any of your personal information stored on our servers, or transmitted to or from a user, will be free from unauthorized access, and we disclaim any liability for any theft or loss of, unauthorized access or damage to, or interception of any data or communications. By using AlchemyAPI Services, you acknowledge that you understand and agree to assume these risks.
 
 
 
