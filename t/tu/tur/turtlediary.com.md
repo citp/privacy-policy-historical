@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turtlediary.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508033353id_/http%3A//www.turtlediary.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlediary.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127203740id_/http%3A//www.turtlediary.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
 ### Our Commitment To Privacy
 
-Turtlediary knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy sets out the terms of how Turtlediary uses and protects any personal information that you provide Turtlediary when you use the website www.TurtleDiary.com (the "Website"). It also explains each parent’s or guardian’s (“Parent”) ability to review, request deletion of, or place certain restrictions on the collection, use, and disclosure of, personal information of his/her Child. Turtlediary is committed to ensuring that your child's privacy is protected. Should we ask you to provide certain information by which you or your child can be identified when using this Website, you can be assured that it will only be used pursuant to this privacy policy and/or pursuant to our Terms and Conditions. Turtlediary may revise this policy at any time by updating this page. You should check this page from time to time to ensure that you are in agreement with any changes. Continued use of this Website constitutes your agreement to our then-current privacy policy. This policy is effective as of March 20th, 2013. 
+Turtlediary knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy sets out the terms of how Turtlediary uses and protects any personal information that you provide Turtlediary when you use the website www.TurtleDiary.com (the Website). It also explains each parent's or guardian's (Parent) ability to review, request deletion of, or place certain restrictions on the collection, use, and disclosure of, personal information of his/her Child. Turtlediary is committed to ensuring that your child's privacy is protected. Should we ask you to provide certain information by which you or your child can be identified when using this Website, you can be assured that it will only be used pursuant to this privacy policy and/or pursuant to our Terms and Conditions. Turtlediary may revise this policy at any time by updating this page. You should check this page from time to time to ensure that you are in agreement with any changes. Continued use of this Website constitutes your agreement to our then-current privacy policy. This policy is effective as of March 20th, 2013. 
 
 **This policy will answer the following questions:**
 
@@ -44,7 +44,7 @@ As part of offering and providing customizable and personalized services, Turtle
 
 
 
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features and services of the Website (particularly those that require you to sign in) may not function properly if your cookies are disabled. A cookie in no way gives us access to your computer or any information about you, other than the data that you choose to share with us. 
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features and services of the Website (particularly those that require you to sign in) may not function properly if your cookies are disabled. A cookie in no way gives us access to your computer or any information about you, other than the data that you choose to share with us.
 
 * * *
 
@@ -76,9 +76,9 @@ _**Other**_. Turtlediary may release personal information if it has a good faith
 
 Turtlediary may, from time to time, send you e-mail regarding our products and services. Only Turtlediary will send you these direct mailings. You can choose not to receive these e-mails by clicking the unsubscribe link in any e-mail or contacting [support@turtlediary.com](mailto:support@turtlediary.com). 
 
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, if you choose to reject all cookies you will be unable to use those Turtlediary services, which require registration in order to participate.
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, if you choose to reject all cookies you will be unable to use those Turtlediary services, which require registration in order to participate. 
 
-Turtlediary does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service.
+Turtlediary does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service. 
 
 * * *
 
@@ -104,15 +104,15 @@ We restrict access to personal information to Turtlediary employees, contractors
 
 * * *
 
-### How does Turtlediary Learning protect children's privacy?
+### How does Turtlediary protect children's privacy?
 
-Turtlediary is committed to protecting the safety and wellbeing of children, and we continually work to ensure that our data collection practices conform to all applicable laws, including the Children’s Online Privacy Protection Act (COPPA).
+Turtlediary is committed to protecting the safety and wellbeing of children, and we continually work to ensure that our data collection practices conform to all applicable laws, including the Children's Online Privacy Protection Act (COPPA).
 
 We are required by law to obtain parental consent in order to collect, use, or disclose Personal Information from Children who are under 13 years of age. Turtlediary does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity. Such personal information may include the child's name and email address as gathered upon registration, messages that the child may post via message boards or chat rooms, email inquiries as well as information gathered passively via Cookies. Turtlediary does not gather information on the ages of our users and will never knowingly share personally identifying information about users who are under the age of 13 with business partners or other third parties.
 
 A Parent has the right to review their Child's personal information, either by logging in to the Child's account profile or by contacting us directly. A Parent may update their child's personal information directly in the account profile. Additionally, a Parent may ask us to delete their child's personal data and close the account, which would further prohibit future collection or use of the child's personal information. Upon such request, we will delete the Child's account and all the information and data stored for such account to the extent possible. When we delete such data, it will be deleted from our active databases but may remain in our archives. 
 
-Turtlediary may (and the Parent authorizes us to) rely on the instructions that we reasonably believe are given by a Child's Parent. For example, if a person contacts our technical support and provides the requisite account information, we may assume that the person calling is the Child’s Parent.
+Turtlediary may (and the Parent authorizes us to) rely on the instructions that we reasonably believe are given by a Child's Parent. For example, if a person contacts our technical support and provides the requisite account information, we may assume that the person calling is the Child's Parent.
 
 * * *
 
@@ -134,4 +134,4 @@ Turtlediary may contain links to enable you to visit non-affiliated third party 
 
 Please note that this Privacy Policy may change from time to time. We will notify you about significant changes in the way we treat your personal information by placing a prominent notice on our websites. Our privacy policy is current as of March 20th, 2013. 
 
-This Privacy Policy should be read in conjunction with our Terms and Conditions. In the event of a discrepancy between our Privacy Policy and our Terms and Conditions, the Terms and Conditions shall govern. If you feel that we are not abiding by this Privacy Policy or our Terms and Conditions, have a question regarding this statement, or if a question was not addressed in this privacy policy, you may contact technical support at support@turtlediary.com. We will do our best to answer your question promptly and accurately. 
+This Privacy Policy should be read in conjunction with our Terms and Conditions. In the event of a discrepancy between our Privacy Policy and our Terms and Conditions, the Terms and Conditions shall govern. If you feel that we are not abiding by this Privacy Policy or our Terms and Conditions, have a question regarding this statement, or if a question was not addressed in this privacy policy, you may contact technical support at support@turtlediary.com. We will do our best to answer your question promptly and accurately.
