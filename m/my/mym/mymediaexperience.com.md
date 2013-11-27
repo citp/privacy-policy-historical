@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymediaexperience.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603173104id_/http%3A//mymediaexperience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymediaexperience.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127152127id_/http%3A//mymediaexperience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,10 +7,6 @@
 We collect information from you when you fill out a form. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
-
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **What do we use your information for?**
 
@@ -24,6 +20,10 @@ Any of the information we collect from you may be used in one of the following w
 **Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+**Participation in the Amazon Associates program**
+
+My Media Experience is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
 **Do we disclose any information to outside parties?**
 
@@ -45,7 +45,7 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
 
-This policy was last modified on 18.12.2010
+This policy was last modified on 11.10.2013
 
 **Contacting Us**
 
