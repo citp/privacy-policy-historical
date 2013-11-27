@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tassimodirect.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529080715id_/http%3A//www.tassimodirect.com/on/demandware.store/Sites-Tassimo-Site/default/mPage-Show%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tassimodirect.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127081144id_/http%3A//www.tassimodirect.com/on/demandware.store/Sites-Tassimo-Site/default/mPage-Show%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Crystal Light | Privacy Policy
+# Tassimo | Privacy Policy
 
 * * *
 
