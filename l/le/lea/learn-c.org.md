@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn-c.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527075630id_/http%3A//www.learn-c.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn-c.org privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127185049id_/http%3A//www.learn-c.org/privacy) for the most accurate reproduction.*
 
 # Learn C - Free Interactive C Tutorial
 
@@ -72,6 +72,6 @@ This policy was last modified on 10/13/2012
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.learn-c.org  
+http://learn-c.org  
 [support@learn-c.org](mailto:support@learn-c.org)  
 
