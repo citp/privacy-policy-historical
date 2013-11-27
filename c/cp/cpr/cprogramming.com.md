@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530132211id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127104728id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Cprogramming.com
 
@@ -8,7 +8,7 @@ Keeping you informed of our information gathering practices and our policy for h
 
 ### Log files
 
-The server stores your host, your operating system, your browser, and referring page in the server's log file when you access Cprogramming.com. This information is stored, by default, by most websites. We do not use this information to track individual users; these log files are analyzed by statistical packages to determine trends in visitor patterns, such as which pages are most popular and which referrers send the most visitors. Your host name is used only to determine statistics about the site's percentages of traffic from various countries. 
+The server stores your host, your operating system, your browser, and referring page in the server's log file when you access Cprogramming.com. This information is stored, by default, by most websites. We do not use this information to track individual users, except to investigate extreme cases of abuse (such as hacking attempts); these log files are analyzed by statistical packages to determine trends in visitor patterns, such as which pages are most popular and which referrers send the most visitors. Your host name is used only to determine statistics about the site's percentages of traffic from various countries. 
 
 ### Message Board
 
@@ -24,7 +24,7 @@ You may choose to sign up for the Cprogramming.com mailing list. If you do so, C
 
 ### Purchases
 
-You may choose to purchase products for sale from Cprogramming.com, such as the ebook Jumping into C++. If you buy a product from us, we will recieve basic information about you, such as your name, email address, IP address, country of residence, and, if you choose to enter it, your mailing address. Cprogramming.com may use your email contact information to send you information about your purchase, such as notification of new releases or formats available. Cprogramming.com does not have access to or store your credit card number or other financial information. This information is available solely to the payment processor you select (i.e. PayPal or Google Checkout). 
+You may choose to purchase products for sale from Cprogramming.com, such as the ebook Jumping into C++. If you buy a product from us, we will recieve basic information about you, such as your name, email address, IP address, country of residence, and, if you choose to enter it, your mailing address. Cprogramming.com may use your email contact information to send you information about your purchase, such as notification of new releases or formats available. Cprogramming.com does not have access to or store your credit card number or other financial information. This information is available solely to the payment processor you select (i.e. PayPal, 2Checkout, or Google Checkout). 
 
 Cprogramming.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Cprogramming.com does not retain or have access to any information submitted by you to Amazon.com. To help us evaluate the performance of the affiliate program, an anonymized, aggregated list of products purchased through the Cprogramming.com Amazon affiliate advertising program is displayed to us. Cprogramming.com does not receive any information connecting these purchases to individuals. 
 
