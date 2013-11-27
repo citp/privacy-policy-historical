@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the protectup.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529010149id_/http%3A//protectup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectup.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127114906id_/http%3A//www.protectup.com/privacy.php) for the most accurate reproduction.*
 
 # Pricacy Policy | URL Safety
 
 **This is the web site of URLSAFETY.COM Ltd.**
 
-We can be reached via [contact form.](https://web.archive.org/web/20130529010149id_/http%3A//protectup.com/contact_us.php)
+We can be reached via [contact form.](https://web.archive.org/web/20131127114906id_/http%3A//www.protectup.com/contact_us.php)
 
  **Cookies:** With respect to cookies: We use cookies to store visitors preferences.
 
