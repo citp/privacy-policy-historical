@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601000026id_/http%3A//www.nationalatlas.gov/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127052513id_/http%3A//www.nationalatlas.gov/policies.html) for the most accurate reproduction.*
 
 # Web Policies
 
   |  |    
-  | Information, products, and services of The National Atlas of the United States of America® delivered on the World Wide Web are provided by the [U.S. Geological Survey](http://www.usgs.gov/) (USGS). Contributions to this Web site come from [National Atlas partners](https://web.archive.org/web/20130601000026id_/http%3A//www.nationalatlas.gov/partners.html). The following statements and disclaimers apply to the National Atlas. |   
+  | Information, products, and services of The National Atlas of the United States of America® delivered on the World Wide Web are provided by the [U.S. Geological Survey](http://www.usgs.gov/) (USGS). Contributions to this Web site come from [National Atlas partners](https://web.archive.org/web/20131127052513id_/http%3A//www.nationalatlas.gov/partners.html). The following statements and disclaimers apply to the National Atlas. |   
 | 
 
 ## National Atlas Web Policies  
@@ -42,7 +42,7 @@ As part of the normal operation of our Web server, certain information is automa
 
 
 
-These data are periodically summarized and analyzed to study site usage over time and to perform other studies to help us improve the site's organization, performance, and usefulness. In January 2013, all Web sites operated by Federal agencies were required to report access and referrer information to the [General Services Administration](http://www.howto.gov/web-content/digital-metrics) (GSA). The USGS also receives these reports for all Web sites within its domain, including [nationalatlas.gov](https://web.archive.org/web/20130601000026id_/http%3A//www.nationalatlas.gov/nationalatlas.gov).
+These data are periodically summarized and analyzed to study site usage over time and to perform other studies to help us improve the site's organization, performance, and usefulness. In January 2013, all Web sites operated by Federal agencies were required to report access and referrer information to the [General Services Administration](http://www.howto.gov/web-content/digital-metrics) (GSA). The USGS also receives these reports for all Web sites within its domain, including [nationalatlas.gov](http://nationalatlas.gov/).
 
 |    
   | 
@@ -214,7 +214,7 @@ back to top
 |    
   | 
 
-If you have any questions about these policy notices and disclaimers, please [contact us](https://web.archive.org/web/20130601000026id_/http%3A//www.nationalatlas.gov/contactus.html):
+If you have any questions about these policy notices and disclaimers, please [contact us](https://web.archive.org/web/20131127052513id_/http%3A//www.nationalatlas.gov/contactus.html):
 
 **E-Mail:**   [atlasmail@usgs.gov](mailto:atlasmail@usgs.gov) (Please include your return E-mail address in the body of your message.)
 
@@ -224,7 +224,9 @@ National Atlas of the United States®
 U.S. Geological Survey  
 Reston, VA 20192 USA
 
+[Read more about the principal policies and notices that govern information posted on USGS Web sites](http://www.usgs.gov/laws/policies_notices.html). 
+
 back to top
 
 |    
-|  | [](https://web.archive.org/web/20130601000026id_/http%3A//www.nationalatlas.gov/mldhiddenlinks.html)
+|  | [](https://web.archive.org/web/20131127052513id_/http%3A//www.nationalatlas.gov/mldhiddenlinks.html)
