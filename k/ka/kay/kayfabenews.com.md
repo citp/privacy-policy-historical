@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kayfabenews.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612102231id_/http%3A//www.kayfabenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayfabenews.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127181758id_/http%3A//www.kayfabenews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kayfabe News | RM Sports
+# Privacy Policy
 
 **KayfabeNews.com Privacy Policy** [Last updated May 20, 2011]
 
