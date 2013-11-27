@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clip-share.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624005616id_/http%3A//www.clip-share.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clip-share.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127111948id_/http%3A//www.clip-share.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ClipShare : Video Script - Youtube Clone - Youtube Script
 
