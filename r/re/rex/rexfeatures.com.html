@@ -1,83 +1,127 @@
-<!--The following is the downloaded HTML source of the rexfeatures.com privacy policy that was archived on 2013-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130522090926id_/http%3A//www.rexfeatures.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rexfeatures.com privacy policy that was archived on 2013-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127145413id_/http%3A//www.rexfeatures.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta charset="utf-8">    
     
-<meta name="title" content="Rex Features - Leading photographic press agency and picture library">
 
+<title>Rex Features - Leading photographic press agency and picture library</title>
+<meta name="title" content="Rex Features - Leading photographic press agency and picture library">
 <meta name="description" content="Rex Features is a leading photographic press agency and picture library supplying news, celebrity, editorial 
 images and feature content for global media organisations and professionals.">
-
 <meta name="keywords" content="rex features, rex, features, press agency, picture library, pictures, photos, photograph, photographs, news photos, 
 celebrity photos, feature photos, travel photos, business photos, animal photos, humour photos, humor photos, lifestyle photos, fashion photos, music photos,
 historical photos, online images, online photos, London, New York, LA, Los Angeles">
-
 <meta name="author" content="Rex Features">
+
+
 <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
 
 <meta name="pinterest" content="nopin">
 <meta name="google" content="notranslate">
 
-<title>Rex Features - Photographic press agency and picture library</title>
-
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">    
-
-<link rel="stylesheet" href="/css/1.2.15/jscrollpane.css" type="text/css" media="all">
 
 <link href="https://fast.fonts.com/cssapi/7da17b92-9aa5-47ef-ad63-507b7ce1a247.css" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" href="/css/1.2.15/fallback.css" type="text/css">
+<link rel="stylesheet" href="/css/2.0.45/fallback-rex.css" type="text/css">
 
 <!--[if !IE 6]><!-->
-    <link rel="stylesheet" href="/css/1.2.15/responsive.css" type="text/css">
+    <link rel="stylesheet" href="/css/2.0.45/responsive-rex.css" type="text/css">
  <!--<![endif]-->
 	
 <!--[if IE 6]>
-    <link rel="stylesheet" href="/css/1.2.15/ie6.css" type="text/css" >
+    <link rel="stylesheet" href="/css/2.0.45/ie6-rex.css" type="text/css" >
 <![endif]-->
 
 <!--[if gt IE 6]>
-    <link rel="stylesheet" href="/css/1.2.15/ie6plus.css" type="text/css" >
+    <link rel="stylesheet" href="/css/2.0.45/ie6plus.css" type="text/css" >
 <![endif]-->
 
     
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-    var VERSION = "1.2.15";
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    var VERSION = "2.0.45";
     var SESSION = { active             : '0',
                     user_id            : '0',
                     username           : '',
-                    pagination_decided : '1',
-                    ga                 : { id           : 'UA-16260043-1',
-                                           client_class : "",
-                                           domain       : "rexfeatures.com"
+                    livefeed_root      : "livefeed",                    
+                    logged_in          : 'false',
+                    pagination_decided : '0',
+                    pagination_type    : 'U',
+                    pg                 : '1',
+                    ga                 : { id              : 'UA-16260043-1',
+                                           domain          : "rexfeatures.com",
+                                           state           : 'not logged in',
+                                           just_logged_in  : false,
+                                           just_logged_out : false,
+                                           visitor_type    : "",
+                                           visitor_subtype : "" 
                                          } 
                   };    
 </script>
 	
-<script src="/js/libs/1.2.15/modernizr.js"></script>
-<script src="/js/libs/1.2.15/respond.min.js"></script>
-	
+<script src="/js/libs/2.0.45/modernizr.js"></script>
+<script src="/js/libs/2.0.45/respond.min.js"></script>
+
+<script type="text/javascript"> 
+    try 
+    {
+        var _gaq = _gaq || [];
+        _gaq.push( ["_setAccount", SESSION.ga.id ] );
+        _gaq.push( ["_setSiteSpeedSampleRate", 30 ] );
+        _gaq.push( ["_setDomainName", SESSION.ga.domain ] );
+        
+        if ( SESSION.ga.just_logged_in )
+        {
+            _gaq.push( ["_setCustomVar", 1, 'VisitorType', SESSION.ga.visitor_type, 1 ] );
+            _gaq.push( ["_setCustomVar", 2, 'VisitorSubtype', SESSION.ga.visitor_subtype, 1 ] );
+        }
+        
+        _gaq.push( ["_setCustomVar", 3, "SessionState", SESSION.ga.state, 2 ] );
+        _gaq.push( ["_trackPageview"] );
+
+        if ( SESSION.ga.just_logged_in || SESSION.ga.just_logged_out )
+        {
+            var action = SESSION.ga.just_logged_in ? "login" : "logout";
+            _gaq.push( ["_trackEvent", "auth", action ] );
+        }
+
+        ( function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/u/ga_debug.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();    
+    } 
+    catch( err )
+    {
+    }
+</script>	
 </head>
+
+
+
+
+
 
 <body data-controller="non_responsive_grid" data-action="static">
 <noscript>
     <div id="site-noscript"><p>You must enable javascript to use this website!</p></div>
 </noscript>
 
-    <input type="hidden" id="stage-uuid" value="privacy">
+    <input type="hidden" id="stage-uuid" value="">
 	<div id="js-header" class="site-header">
 				<!-- MOBILE ONLY TOOLS -->
 			<div class="site-nav_mobiletools" id="js-mobileHeaderToggle">
-		<form action="/search" method="get" id="js-mobileSiteSearch" class="inactive site-search form">
+	<form action="/search" method="get" id="js-mobileSiteSearch" class="inactive site-search form">
         
-            
     <fieldset>
     	<label>
         <input type="text" name="kw" placeholder="Search" value="" class="input site-search_input">
         <input type="submit" value="Go" class="site-search_submit ir">
+        <input type="hidden" id="order" name="order" value="newest">        
         <input type="hidden" id="iso" name="iso" value="GBR">
         <input type="hidden" id="lkw" name="lkw" value="">
         <input type="hidden" id="viah" name="viah" value="Y">
@@ -107,20 +151,30 @@ historical photos, online images, online photos, London, New York, LA, Los Angel
         
         <span class="site-search_pullout_close"><a href="#">Close</a></span>
     </fieldset>
-            
-		</form>
-		
-		<div id="js-mobileNav" class="inactive site-nav_mobile-extra clearfix">
+	</form>
+	
+	<div id="js-mobileNav" class="inactive site-nav_mobile-extra clearfix">
+        
 			<ul>
 				<li><a href="/features">Features</a></li>
 				<li><a href="/stock">Stock</a></li>
 				<li><a href="/compilations">Compilations</a></li>
 				<li><a href="/spotlight">Spotlight</a></li>
 				<li><a href="/tv">TV</a></li>
+                
 				<li><a href="#" id="js-loginDropMobile">Login</a></li>
+                
 			</ul>
-		</div>
+
 	</div>
+</div>
+    
+
+
+
+
+
+
 		<!-- /MOBILE ONLY TOOLS -->
 		
 		<!-- LOGIN -->
@@ -159,7 +213,7 @@ historical photos, online images, online photos, London, New York, LA, Los Angel
 			</p>
 			<p>
 			    If you're still having trouble, call +44(0)20 7278 7294 or email 
-			    <a href="mailto:help@rexfeatures.com">help@rexfeatures.com</a>
+			    <a class="js-ga-email" href="mailto:help@rexfeatures.com">help@rexfeatures.com</a>
 			</p>
 			
 		</div>
@@ -168,20 +222,28 @@ historical photos, online images, online photos, London, New York, LA, Los Angel
 		<!-- /LOGIN -->
 		
 		<div class="site-header_container clearfix">
-			<h1 class="site-h1"><a href="/"><img src="/graphics/logo.gif" border="0"></a></h1>
+			<h1 class="site-h1 site-h1-logo"><a href="/"><img src="/graphics/logo.gif" border="0"></a></h1>
 			
 			<!-- DESKTOP ONLY NAV -->
 			
 			<div class="site-nav">
+    
 	<ul>
-		<li><a href="/livefeed" class="default" id="site-nav-livefeed">Live Feed</a></li>
-		<li><a href="/features" class="default" id="site-nav-feature">Features</a></li>
-		<li><a href="/stock" class="default" id="site-nav-stock">Stock &amp; Archive</a></li>
-		<li><a href="/compilations" class="default" id="site-nav-compilation">Compilations</a></li>
-		<li><a href="/spotlight" class="default" id="site-nav-spotlight">Spotlight</a></li>
-		<li><a href="/tv" class="default" id="site-nav-tv">TV</a></li>
+		<li><a href="/livefeed" class="default">Live Feed</a></li>
+		<li><a href="/features" class="default">Features</a></li>
+		<li><a href="/stock" class="default">Stock &amp; Archive</a></li>
+		<li><a href="/compilations" class="default">Compilations</a></li>
+		<li><a href="/spotlight" class="default">Spotlight</a></li>
+		<li><a href="/tv" class="default">TV</a></li>
 	</ul>
+
 </div>
+
+
+
+
+
+
 			
 			<div class="site-header_tools" style="float:none; position:absolute; top:0px; right:0px;">
 				
@@ -191,6 +253,7 @@ historical photos, online images, online photos, London, New York, LA, Los Angel
     <fieldset>
         <input type="text" name="kw" placeholder="Search" value="" class="input site-search_input">
         <input type="submit" value="Go" class="site-search_submit ir">
+        <input type="hidden" id="order" name="order" value="newest">        
         <input type="hidden" id="iso" name="iso" value="GBR">
         <input type="hidden" id="lkw" name="lkw" value="">
         <input type="hidden" id="viah" name="viah" value="Y">
@@ -234,136 +297,125 @@ historical photos, online images, online photos, London, New York, LA, Los Angel
 			<!-- MOBILE ONLY NAV -->
 			
 			<div class="site-nav_mobile">
+    
 	<ul>
 		<li><a id="js-mobileSearchToggle" class="ir mobile-nav_search" href="#">Search</a></li>
 		<li><a href="/livefeed">Live feed</a></li>
 		<li><a id="js-mobileNavToggle" href="#">More...</a></li>
 	</ul>
+
 </div>
+
+
+
+
+
 			
 			<!-- / MOBILE ONLY NAV -->
 		</div>	
 
-		<div id="js-titleHolder">
-			
-<div class="page-tools page-tools--down">
-	<div class="container clearfix">
-        <div class="col-100">
-            <div class="page-tools_header">
-                <div style="float:left; width:70%;">
-                <h1 class="page-tools_title">Privacy &amp; Cookies</h1>
+	</div><div id="site-content" class="site-content-padding-top-preset">
+        <div class="page-tools page-tools--down page-tools-static">
+    	<div class="container clearfix">
+            <div class="col-100">
+                <div class="page-tools_header page-tools_header-static">
+                    <h1 class="page-tools_title page-tools_title-static">Privacy &amp; Cookies</h1>
                 </div>
-                <div style="float:right; width:30%; text-align:right;">                
-                    <p id="js-stackLevelDown" class="page-tools_toggle page-tools_toggle--minimise"><a href="#">Minimise</a></p>
-                </div>
-                <div style="clear:both;"></div>
             </div>
+    	</div>
+    </div>
+	<div class="site-main" role="main">
+        <div class="col col-75">
+            <div class="col-inner col-inner--text">
+                <h1>Your Privacy</h1>
+                <p>REX FEATURES complies with and is registered under the data protection laws
+                in the United Kingdom and takes all reasonable care to prevent any unauthorised
+                access to your personal data. Personal details supplied by you (your name, telephone number, etc.),
+                as well as any other information taken from you while you are using this web site or during your
+                other dealings with us, will NOT be passed to any organisation beyond REX FEATURES for marketing purposes.</p>
+                
+                <p>When someone visits our sites we collect standard internet log information and details of visitor
+                behaviour patterns. We do this to find out things such as the number of visitors to the various parts
+                of the site. We collect this information in a way which does not identify anyone unless you log in to
+                the site in which case we record which requests are made by which user. We use this information to resolve
+                problems and to improve the website. This information is not used for marketing purposes, is never passed
+                outside the company and is deleted after a reasonable period of time.</p>
+                
+                <p>All material copyright Rex Features Ltd 2007 - 2013,  please contact us if you
+                require more information.</p>
+                
+                <h1>Cookies</h1>
+                <p>Rex Features employs cookies to provide users with tailored information. Cookies are small text files
+                that are placed on your computer by websites that you visit. They are widely used in order to make websites
+                work, or work more efficiently, as well as to provide information to the owners of the site.</p>
+                
+                <p>We use cookies to understand site usage and to improve the content and offerings on our sites.
+                For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize
+                you by name when you return to our site), grant access to password-protected areas, and enable you to
+                use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.</p>
+                
+                <p>Most web browsers allow some control of most cookies through the browser settings. To find out more
+                about cookies, including how to see what cookies have been set and how to manage and delete them, visit
+                <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>.</p>
+                
+                <p>The table below explains the cookies we use and why.</p>
+                
+                <table class="cookies">
+                    <tbody><tr>
+                        <th>Cookie</th>
+                		<th>Name</th>
+                		<th>Purpose</th>
+                		<th>More Information</th>
+                    </tr>
+                    <tr>
+                        <td><p>EU Cookie permission</p></td>
+                        <td><p>eucookie</p></td>
+                        <td><p>This cookie is used to record if a user has accepted the use of cookies on this website.</p></td>
+                        <td><p>To withdraw your consent after accepting this cookie, delete the eucookie cookie. Find out how at
+                	    <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>.</p></td>
+                    </tr>
+                    <tr>
+                        <td><p>Load distribution</p></td>
+                        <td><p>rexjjammer</p></td>
+                        <td><p>Our website is delivered by multiple machines for reliability and performance reasons. This cookie
+                	    stores information required to do this.</p></td>
+                        <td><p>This cookie has no personally identifiable information.</p></td>
+                    </tr>
+                    <tr>
+                        <td><p>Session and login cooke</p></td>
+                        <td><p>RexTimTam</p></td>
+                        <td><p>This stores information about your session and allows us to track how users move throught the site
+                	    and whether or not you are logged in.</p></td>
+                        <td><p>If you are logged in this can include personally identifiable information that is required in order
+                	    to determine your level of access to the site.</p></td>
+                    </tr>
+                    <tr>
+                        <td><p>Lightbox</p></td>
+                        <td><p>basket1<br>basket2<br>...<br>basketn</p></td>
+                        <td><p>This is used to store the contents of your lightboxes (similar to a shopping cart).</p></td>
+                        <td>&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td><p>Google Analytics</p></td>
+                        <td><p>_utma<br>_utmb<br>_utmc<br>_utmz</p></td>
+                        <td><p>These cookies are used to collect information about how visitors use our site, which we use to
+                	    help improve it. The cookies collect information in an anonymous form, including the number of visitors
+                	    to the site, where visitors have come to the site from and the pages they visited.</p></td>
+                        <td><p>Click <a href="http://www.google.com/intl/en_uk/analytics/privacyoverview.html">here</a> for an
+                	    overview of privacy at Google.<br>To opt out of being tracked by Google Analytics across all websites
+                	    visit <a href="http://tools.google.com/dlpage/gaoptout">http://tools.google.com/dlpage/gaoptout</a>.</p></td>
+                    </tr>    
+                </tbody></table>
+                
+                <p><br>You may block or delete Rex Features cookies from your hard drive or memory. However,
+                by disabling cookies, certain site features and functionality may no longer work properly, or at all.</p>
+			</div>
         </div>
 	</div>
 </div>
-
-		</div>
-		<div class="mobile-titleHolder">
-			<div id="title-bar-mobile" class="page-tools page-tools--up">
-	<div class="container clearfix">
-		<div class="page-tools_header">
-			<h1 class="page-tools_title">Static</h1>
-		</div>
-	</div>
-</div>
-		</div>
-	</div>    <div id="site-content">
-		<div class="site-main" role="main">
-            <div class="col col-75">
-                <div class="col-inner col-inner--text">
-
-<h1>Your Privacy</h1>
-<p>REX FEATURES complies with and is registered under the data protection laws
-in the United Kingdom and takes all reasonable care to prevent any unauthorised
-access to your personal data. Personal details supplied by you (your name, telephone number, etc.),
-as well as any other information taken from you while you are using this web site or during your
-other dealings with us, will NOT be passed to any organisation beyond REX FEATURES for marketing purposes.</p>
-
-<p>When someone visits our sites we collect standard internet log information and details of visitor
-behaviour patterns. We do this to find out things such as the number of visitors to the various parts
-of the site. We collect this information in a way which does not identify anyone unless you log in to
-the site in which case we record which requests are made by which user. We use this information to resolve
-problems and to improve the website. This information is not used for marketing purposes, is never passed
-outside the company and is deleted after a reasonable period of time.</p>
-
-<p>All material copyright Rex Features Ltd 2007 - 2013,  please contact us if you
-require more information.</p>
-
-<h1>Cookies</h1>
-<p>Rex Features employs cookies to provide users with tailored information. Cookies are small text files
-that are placed on your computer by websites that you visit. They are widely used in order to make websites
-work, or work more efficiently, as well as to provide information to the owners of the site.</p>
-
-<p>We use cookies to understand site usage and to improve the content and offerings on our sites.
-For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize
-you by name when you return to our site), grant access to password-protected areas, and enable you to
-use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.</p>
-
-<p>Most web browsers allow some control of most cookies through the browser settings. To find out more
-about cookies, including how to see what cookies have been set and how to manage and delete them, visit
-<a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>.</p>
-
-<p>The table below explains the cookies we use and why.</p>
-
-<table border="1">
-    <tbody><tr>
-        <th>Cookie</th>
-		<th>Name</th>
-		<th>Purpose</th>
-		<th>More Information</th>
-    </tr>
-    <tr>
-    <td><p>EU Cookie permission</p></td>
-    <td><p>eucookie</p></td>
-    <td><p>This cookie is used to record if a user has accepted the use of cookies on this website.</p></td>
-    <td><p>To withdraw your consent after accepting this cookie, delete the eucookie cookie. Find out how at
-	<a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>.</p></td>
-    </tr>
-    <tr>
-    <td><p>Load distribution</p></td>
-    <td><p>rexjjammer</p></td>
-    <td><p>Our website is delivered by multiple machines for reliability and performance reasons. This cookie
-	stores information required to do this.</p></td>
-    <td><p>This cookie has no personally identifiable information.</p></td>
-    </tr>
-    <tr>
-    <td><p>Session and login cooke</p></td>
-    <td><p>RexTimTam</p></td>
-    <td><p>This stores information about your session and allows us to track how users move throught the site
-	and whether or not you are logged in.</p></td>
-    <td><p>If you are logged in this can include personally identifiable information that is required in order
-	to determine your level of access to the site.</p></td>
-    </tr>
-    <tr>
-    <td><p>Lightbox</p></td>
-    <td><p>basket1<br>basket2<br>...<br>basketn</p></td>
-    <td><p>This is used to store the contents of your lightboxes (similar to a shopping cart).</p></td>
-    </tr>
-    <tr>
-    <td><p>Google Analytics</p></td>
-    <td><p>_utma<br>_utmb<br>_utmc<br>_utmz</p></td>
-    <td><p>These cookies are used to collect information about how visitors use our site, which we use to
-	help improve it. The cookies collect information in an anonymous form, including the number of visitors
-	to the site, where visitors have come to the site from and the pages they visited.</p></td>
-    <td><p>Click <a href="http://www.google.com/intl/en_uk/analytics/privacyoverview.html">here</a> for an
-	overview of privacy at Google.<br>To opt out of being tracked by Google Analytics across all websites
-	visit <a href="http://tools.google.com/dlpage/gaoptout">http://tools.google.com/dlpage/gaoptout</a>.</p></td>
-    </tr>    
-</tbody></table>
-
-<p><br>You may block or delete Rex Features cookies from your hard drive or memory. However,
-by disabling cookies, certain site features and functionality may no longer work properly, or at all.</p>
-				</div>
-            </div>
-		</div>
-    </div>
 	<div class="site-footer clearfix">
-	<div class="site-footer_nav" style="">
+	<div class="site-footer_nav">
+        
 		<ul>
 			<li><a href="/contact_us.html">Contact Us</a></li>
 			<li><a href="/register.html">Register</a></li>
@@ -377,6 +429,7 @@ by disabling cookies, certain site features and functionality may no longer work
 We're hiring!
 </a></li>
 		</ul>
+
 	</div>
     <div id="js-site-footer-status" class="site-footer-status">
         <div id="site-footer-status-show">
@@ -389,52 +442,39 @@ We're hiring!
         </div>    
     </div>
 </div>
-<script data-main="/js/1.2.15/main" src="/js/libs/1.2.15/require.js"></script>
-    
-<script type="text/javascript">    
 
-    try 
-    {
-        // Set up 'LoggedIn' tracking.
-        var logged_in = SESSION.user_id == 0 ? 'No' : 'Yes';
-        
-        // Set up 'ClientClass' tracking.
-        var client_class = SESSION.ga.client_class;
-        
-        var key     = "ClientClass";
-
-        if ( logged_in == 'Yes' )
-        {
-            var max_len = 64; // Maximum combined key/value length for google analytics custom variables.
-
-            if ( ( key.length + client_class.length ) > max_len )
-            {
-                var len = max_len - key.length;
-
-                client_class = client_class.substring( 0, len );
-            }
-        }
-        else
-        {
-            client_class = "N/A";
-        }
-
-        var _gaq = _gaq || [];
-        _gaq.push(["_setAccount", SESSION.ga.id ]);
-        _gaq.push(["_setDomainName", "www." + SESSION.ga.domain ]);
-        _gaq.push(["_setCustomVar", 1, "LoggedIn", logged_in, 2 ]);
-        _gaq.push(["_setCustomVar", 2, key, client_class, 2 ]);
-        _gaq.push(["_trackPageview"]); 
-        
-        ( function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();    
-    } 
-    catch( err )
-    {
-    }    
+<script id="template-site-login" type="text/template">
+<div class="site-login active blanched">
+    <form method="post">
+        <p>[% msg %]</p>
+        <label>
+        <div class="site-login_inputs">
+            <table>
+                <tr>
+                    <td><p>Username</p></td><td><input type="text" id="modal-login-username" value="" tabindex="201" ></td>
+                    <td rowspan="2"><input type="submit" id="modal-login-submit" value="Login" class="site-login_submit"></td>
+                </tr>
+                <tr>
+                    <td><p>Password</p></td>
+                    <td><input type="password" id="modal-login-password" value="" tabindex="202" ></td>
+                </tr>
+            </table>
+        </div>
+        </label>
+    </form>
+</div>
 </script>
+<script id="template-we-use-cookies" type="text/template">
+<div id="site-we-use-cookies">
+    <p class="declaration">Our website uses cookies.&nbsp;&nbsp;By continuing to use our website you agree to our use of cookies.&nbsp;&nbsp;See our <a href="/privacy.html" class="privacy">privacy</a> policy for details.</p>
+    <p><a href="#" id="we-use-cookies-whatever" class="continue">Continue</a></p>
+</div>
+</script>
+
+
+
+
+<script data-main="/js/2.0.45/main" src="/js/libs/2.0.45/require.js"></script>
+
 
 </body></html>
