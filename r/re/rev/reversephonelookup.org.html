@@ -1,27 +1,137 @@
-<!--The following is the downloaded HTML source of the reversephonelookup.org privacy policy that was archived on 2010-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101029151340id_/http%3A//www.reversephonelookup.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reversephonelookup.org privacy policy that was archived on 2013-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127111220id_/http%3A//www.reversephonelookup.org/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-  <title> Privacy Policy Tesst </title>
+<html><head>
+<title> Reverse Phone Lookup .Org - Privacy Policy</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<!-- Start Visual Website Optimizer Code -->
+<script type="text/javascript">
+var _vis_opt_account_id = 112;
+var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
+document.write('<s' + 'cript src="' + _vis_opt_protocol + 
+'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='
++encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>');
+</script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=112&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131127111220id_%2Fhttp%253A%2F%2Fwww.reversephonelookup.org%2Fprivacy.php&amp;random=0.4795294377626036" type="text/javascript"></script>
 
- </head>
+<script type="text/javascript">
+if(typeof(_vis_opt_settings_loaded) == "boolean") { document.write('<s' + 'cript src="' + _vis_opt_protocol + 
+'d5phz18u4wuww.cloudfront.net/vis_opt.js" type="text/javascript">' + '<\/s' + 'cript>'); }
+// if your site already has jQuery 1.4.2, replace vis_opt.js with vis_opt_no_jquery.js above
+</script>
 
- <body>
-      <p align="center"><b>Privacy Policy</b></p> 
-We take your privacy very seriously, and we've taken many steps to help safeguard your online information. This Privacy Policy describes how we treat information received by and about you when you visit ReversePhoneLookup.org site.
-<br><br>
-<b>Information Collection and Use: </b>
-<br><br>
-<b>Log Files</b> ReversePhoneLookup.org  automatically and through third-party tracking services (e.g., Google Analytics) gathers certain non-personally identifiable information about your use of the ReversePhoneLookup.org site and stores it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamps, and related data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole, to improve the content of our ReversePhoneLookup.org site and the quality of our service. Out of respect for your privacy, we do not link this automatically-collected data to personally identifiable information.
-<br><br>
-<b>Cookies</b> A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use both session ID cookies and tracking cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. We use tracking cookies to better understand how you use the site, and enhance your user experience. A tracking cookie remains on your hard drive for an extended period of time. Your web browser will usually provide a method of removing tracking cookies. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
-<br><br>
-<b>Information Disclosure</b>
-<br><br>
-<b>Security</b> Except as explained above, ReversePhoneLookup.org  will not share your personally identifiable information, with third parties without your consent. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party â€œhackersâ€ from illegally obtaining this information.
-<br><br>
-<b>Legal Disclaimer</b> ReversePhoneLookup.org  reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web
+<script type="text/javascript">
+if(typeof(_vis_opt_settings_loaded) == "boolean" && typeof(_vis_opt_top_initialize) == "function") {
+        _vis_opt_top_initialize(); vwo_$(document).ready(function() { _vis_opt_bottom_initialize(); });
+}
+</script>
+<script type="text/javascript">
+function validatePhoneNumber(elementValue){
+	var phoneNumberPattern1 = /^(\d{3})-(\d{3})-(\d{4})$/;  
+	var phoneNumberPattern2 = /^(\d{3})(\d{3})(\d{4})$/;
+	var isValid = false;
+	if(phoneNumberPattern1.test(elementValue) || phoneNumberPattern2.test(elementValue))
+	isValid = true;
+		
+	return isValid;  
+}  
 
- 
+function validateForm(form){
+
+	with(form){
+		var telephone = number.value;
+		if(telephone == 0 )
+		{
+			alert("Please enter number to search");
+			number.focus();
+			return false;
+		}
+		else if(validatePhoneNumber(telephone)==false)
+		{
+			alert("Please enter valid Telephone No. in xxx-xxx-xxxx or xxxxxxxxxx format only.");
+			number.focus();
+			return false;
+		}
+		return true;
+	}
+}
+</script>
+<!-- End Visual Website Optimizer Code -->
+</head>
+
+<body>
+<div class="container"> <!-- begin main container -->
+<!-- header -->
+<div id="header">
+
+
+	<!-- navigation -->	
+	<div id="nav">
+       <a href="http://www.reversephonelookup.org" rel="nofollow" class="nav">Home</a> |   
+	<a href="about.php" rel="nofollow" class="nav">About Us</a> |
+	<a href="faq.php" rel="nofollow" class="nav">FAQ</a> |
+		</div>
+
+</div>
+
+<!-- search area -->
+<div class="whole_bar">
+<div id="search_box_area">
+	<div id="number_input">
+		<!-- phone number input for area code, prefix, and 4 digits -->
+		<form method="post" action="teaser.php" onsubmit="return validateForm(this);">
+		<input type="hidden" name="v" value="">
+		<input type="text" class="number" name="number">
+	</form></div>
+	</div>
+	<!-- search button -->
+	<div id="searchbutton"><input type="image" src="images/search.jpg"></div>
+</div><p>
+
+
+<!-- map coverage section -->
+<table cellspacing="5" class="map">
+	<tbody><tr><td valign="top"><img src="images/usamap.jpg"></td>
+	<td valign="top">
+	<h2>Trace Any Number with Reverse Phone Lookup.org</h2>
+<p>
+Reverse Phone Lookup.org is the Internet's larges database containing hundreds of millions of phone numbers. Whether you're looking to keep tabs on a loved one or find out who is behind that unidentified cell phone number, simply enter the phone number above, and within seconds our site will return the results you need.
+	</p></td>
+</tr></tbody></table>
+</p><div style="text-align: left;">
+<br><strong>Privacy Policy</strong><br>
+
+We take your privacy very seriously, and we’ve taken many steps to help safeguard your online information. This Privacy Policy describes how we treat information received by and about you when you visit Reverse Phone Lookup.org.
+</div>
+<div style="text-align: left;">
+<br><strong>Information Collection and Use:</strong><br>
+
+<br><strong>Log Files</strong><br> Reverse Phone Lookup.org automatically and through third-party tracking services (e.g., Google Analytics) gathers certain non-personally identifiable information about your use of the Reverse Phone Lookup.org and stores it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamps, and related data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole, to improve the content of our Reverse Phone Lookup.org and the quality of our service. Out of respect for your privacy, we do not link this automatically-collected data to personally identifiable information.
+</div>
+<div style="text-align: left;">
+<br><strong>Cookies</strong><br> A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and tracking cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. We use tracking cookies to better understand how you use the site, and enhance your user experience. A tracking cookie remains on your hard drive for an extended period of time. Your web browser will usually provide a method of removing tracking cookies. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+</div>
+<div style="text-align: left;">
+<br><strong>Information Disclosure</strong><br>
+</div>
+<div style="text-align: left;">
+<br><strong>Security</strong><br> Except as explained above, Reverse Phone Lookup.org will not share your personally identifiable information, with third parties without your consent. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
+</div>
+<div style="text-align: left;">
+<br><strong>Legal Disclaimer</strong><br> <br> Reverse Phone Lookup.org reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web
+</div>
+
+
+<div class="footer">
+	Copyright (c) ReversePhoneLookup.org - 
+	<a href="http://www.reversephonelookup.org/support.php" rel="nofollow" class="foot">Support</a> |
+	<a href="http://www.reversephonelookup.org/terms.php" rel="nofollow" class="foot">Terms and Conditions of Use</a> | 
+	<a href="http://www.reversephonelookup.org/privacy.php" rel="nofollow" class="foot">Privacy Policy</a> | 
+	<a href="http://members.reversephonelookup.org/customer/login.php" rel="nofollow" class="foot">Member Login</a> 
+</div>
+<script src="http://static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(231155); }catch(err){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/231155ns.gif" /></p></noscript>
+</div>
+
 
 </body></html>
