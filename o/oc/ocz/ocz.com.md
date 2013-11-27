@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocz.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615101555id_/http%3A//ocz.com/consumer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocz.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127212835id_/http%3A//ocz.com/consumer/privacy-policy) for the most accurate reproduction.*
 
 # OCZ Website Privacy Policy
 
