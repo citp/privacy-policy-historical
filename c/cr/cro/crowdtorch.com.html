@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crowdtorch.com privacy policy that was archived on 2013-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507112116id_/http%3A//www.crowdtorch.com/privacy-policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crowdtorch.com privacy policy that was archived on 2013-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127194226id_/http%3A//www.crowdtorch.com/privacy-policy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta charset="utf-8">
@@ -86,7 +86,7 @@
 
             <p>"Personal Information" means any set of information that identifies or could be used to identify an individual. Personal Information does not include information that is encoded or publicly available information not combined with private Personal Information. </p>
 
-            <p>"User" means any user of CrowdTorch's web-based content management portal.  </p>
+            <p>"User" means any user of CrowdTorch's web-based content management portal or mobile applications.</p>
 
       		<h2 class="sub-head">Our Service </h2>
             <p>CrowdTorch licenses a mobile application-based event management solution ("Mobile Event Solution") which is comprised principally of the web-based content management portal ("EventCenter") and a mobile application component (the "Software"). This solution may also be referenced in this Privacy Policy and other collateral as System, Tool, Product, Service, Solution, Application and other derivations thereof. CrowdTorch users are subject to the CrowdTorch Mobile Event Solution terms. </p>
@@ -213,6 +213,18 @@ qacct:"p-52N_YbZsS8e0c"
 </noscript>
 <!-- End Quantcast tag -->
 
+<!-- Code for Action: Cvent - CrowdTorch Universal -->
+<script type="text/javascript">
+// Begin Rocket Fuel Universal Pixel
+
+  (function () {
+    var cachebust = (Math.random() + "").substr(2);
+    var protocol = "https:" == document.location.protocol ? 'https:' : 'http:';
+    new Image().src = protocol+"//20513761p.rfihub.com/ca.gif?rb=4393&ca=20513761&ra="+cachebust;
+})();
+// End Rocket Fuel Universal Pixel
+</script>
+
 <!-- START OF Eloqua -->
 <script type="text/javascript" language="JavaScript" src="http://www.cvent.com/en/assets/elqNow/elqCfg.js"></script>
 <script type="text/javascript" language="JavaScript" src="http://www.cvent.com/en/assets/elqNow/elqImg.js"></script>
@@ -251,17 +263,21 @@ qacct:"p-52N_YbZsS8e0c"
 
 <!-- Start Omni Cookie Handling (Santosh 9/7/2012) -->
 <script type="text/javascript">
-function getCookie() {
-var cVal='';
-    var name='scampaign';
-    var nameEQ = name + "=";
-    var ca = document.cookie.split(';');
-    for(var i=0;i < ca.length;i++) {
-        var c = ca[i];
-        while (c.charAt(0)==' ') c = c.substring(1,c.length);
-        if (c.indexOf(nameEQ) == 0)       {cVal=c.substring(nameEQ.length,c.length);}
-        }
-        document.getElementById('cid').value=cVal;
+function getCookie()
+{
+	var sExt_cVal='',sInt_cVal='',sRtch_cVal='';
+	var name_E='scampaign=',name_I='s_ev1=',name_R='s_ev2=';
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(name_E) == 0)	{sExt_cVal=c.substring(name_E.length,c.length);}
+		if (c.indexOf(name_I) == 0)	{sInt_cVal=c.substring(name_I.length,c.length);}
+		if (c.indexOf(name_R) == 0)	{sRtch_cVal=c.substring(name_R.length,c.length);}
+	}
+	document.getElementById('cid').value=sExt_cVal;
+	document.getElementById('i_cid').value=sInt_cVal;
+	document.getElementById('r_cid').value=sRtch_cVal;
 }
 </script>
 <!-- End Omni Cookie Handling -->
