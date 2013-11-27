@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the jacksonsart.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602054556id_/http%3A//www.jacksonsart.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonsart.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127051659id_/http%3A//www.jacksonsart.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
 
-# Site Security / Privacy Statement - Discount Art Materials from Jackson's Art Supplies
+# Art Supplies from Jackson's | Site Security / Privacy Statement
+
+Credit Card Security
+
+When placing an order and at the point that you click on the ‘Confirm Order’ button in order to pay, you will be taken to the PayPal website and you will see that the URL address has changed from Jacksonsart.com to <https://securepayments.paypal.com/>. You are now on the PayPal website and your card details are entered here, once completed and authorised by your bank, PayPal send you back to Jackson’s whilst advising us that your payment has gone through and that we may continue processing your order. At no point are your card details entered on the Jackson’s website nor can any member of the Jackson’s staff see or retrieve your card details. If at any point a refund is needed we advise PayPal and they apply the refund to your card.
+
+General Website Security
+
+Our website is hosted on its own secure server which is scanned continuously by a security software called ‘Comodo’ looking for malicious software. 
 
 Privacy Policy
-
-Privacy
 
 All personal information entered into our website when an order is made is treated in the strictest confidence, with certain exceptions as set out below.  All your information will be retained on a secure server purely for use in relation to the processing of your order.
 
@@ -18,8 +24,6 @@ Contact Telephone Number
 
 Email Address
 
-Card Payment details
-
 Any delivery instructions
 
 All personal information entered into our website when an order is made is treated in the strictest confidence, with certain exceptions as set out below.  All your information will be retained on a secure server purely for use in relation to the processing of your order. 
@@ -30,7 +34,6 @@ Name 
 Address (Billing and Delivery)   
 Contact Telephone Number   
 Email Address   
-Card Payment details   
 Any delivery instructions 
 
 Any personal information is held confidentially.  We will only use your information for the following purposes: 
@@ -76,8 +79,3 @@ You should be aware that if we are requested by the police or any other regulato
 
   
 Cookies and server sessions are used on this shopping site to optimise the efficiency and ease of use of Jacksonsart.com - if you require more information relating to this please e-mail webteam@jacksonsart.co.uk.
-
-Credit Card Security
-
-  
-Your credit card information is safe because we use a fully secure server. We do not know of any documented cases of credit card fraud using our shopping system. They are only decrypted after they reach our computer. They are not held in clear text on any web site.
