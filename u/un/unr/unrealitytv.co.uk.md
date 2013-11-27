@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unrealitytv.co.uk privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623233525id_/http%3A//www.unrealitytv.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrealitytv.co.uk privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127180528id_/http%3A//www.unrealitytv.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unreality TV
 
