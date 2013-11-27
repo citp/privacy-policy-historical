@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netaxle.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503171743id_/http%3A//www.netaxle.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netaxle.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127133659id_/http%3A//www.netaxle.com/privacy.aspx) for the most accurate reproduction.*
 
 # NetAxle - Privacy Policy
 
