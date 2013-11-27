@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angloamerican.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616152150id_/http%3A//angloamerican.com/siteservices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angloamerican.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127012159id_/http%3A//www.angloamerican.com/siteservices/privacy.aspx) for the most accurate reproduction.*
 
 # Anglo American – Privacy
 
@@ -46,12 +46,12 @@ When you enter our website, we automatically log your internet protocol ("IP") a
 
   5. #### Cookies
 
-You can read our full [cookie policy here](https://web.archive.org/siteservices/cookies).
+You can read our full [cookie policy here](https://web.archive.org/siteservices/cookies.aspx).
 
   6. #### Distribution of data
 
-    1. Any information that is gathered from visitors to this website is used by us to respond to enquiries, manage our relationship with you, provide you with marketing material where you have opted to receive this or for any regular mailing lists for which the details have been submitted. 
-    2. Your information may be shared with other companies in the Anglo American Group, third party administrative providers, regulatory authorities (including foreign regulatory authorities) and law enforcement agencies.. 
+    1. Any information that is gathered from visitors to this website is used by us to respond to enquiries, manage our relationship with you, provide you with marketing material where you have opted to receive this or for any regular mailing lists for which the details have been submitted.
+    2. Your information may be shared with other companies in the Anglo American Group, third party administrative providers, regulatory authorities (including foreign regulatory authorities) and law enforcement agencies.
     3. If our business or any part of our business is sold or integrated with another business your data and information may be disclosed to our advisers and any prospective purchasers and their advisers and may be passed on to the new owners of the business or relevant part of the business who may use such data and information for the various purposes given in this privacy statement. 
   7. #### Consent
 
