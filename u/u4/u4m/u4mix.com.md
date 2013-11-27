@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the u4mix.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529184224id_/http%3A//www.u4mix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u4mix.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127175150id_/http%3A//www.u4mix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
