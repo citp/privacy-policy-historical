@@ -1,58 +1,51 @@
-> *The following text is extracted and transformed from the financialservicesonline.com.au privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012235844id_/http%3A//financialservicesonline.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialservicesonline.com.au privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127010112id_/http%3A//www.financialservicesonline.com.au/privacy.htm) for the most accurate reproduction.*
 
-# .: your privacy is important to us!
+# Our Privacy Policy Statement | Public Liability | FinancialServicesOnline.com.au
 
-* * *
+### Financial Services Online Privacy Statement
 
-for Clark Family Pty Ltd in relation to websites operated at;
+Our privacy policy statement has been created to demonstrate our respect for your privacy. Below we have outlined how we manage the personal�information that we gather.
 
-  * [www.financial-services-online.com](http://www.financial-services-online.com/)
+### The information we gather and and how we use it.
 
-  * [www.uk-financial-services-online.co.uk](http://www.uk-financial-services-online.co.uk/)
+In order for us to attend to your request for financial services advice, information or comparative quotes, we need to know your name and contact details along with any other data that is directly relevant to the specific enquiry that you are making.
 
-  * [www.financialservicesonline.com.au](http://www.financialservicesonline.com.au/)
+Our third part network product and service providers then use this information to tailor financial solutions to your specific needs and to advise you accordingly. This information is referred to those providers on your behalf so they can provide a product or service to you. (Unless we advise you to the contrary, these businesses have no right to utilise any personally identifiable data that you provide other than what is required in order to provide the assistance you seek from us.)
 
+Your contact details and other personal information that you provide to us will not be shared with any other person or entity at any time.
 
+### Cookies
 
+We utilise cookies to collect session information and user-specific data on which pages on our website that you access or visit in order to track your progress through our web site in order for us to to improve the performance of our website.
 
-We have created this privacy policy statement in order to demonstrate our firm commitment to privacy. The following discusses our information gathering and dissemination practices for these websites.
-
-**Information We Collect and How It’s Used**
-
-To process your financial services referral request, we require your name, phone number, email address, and any other information pertinent to the type of service you are requesting. 
-
-This information is used by the third party product and service providers in our network to provide accurate responses to your enquiries. We provide this information to them on your behalf in order for them to provide a product or service to you. (Unless otherwise notified by us, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us)
-
-Personal information, including contact information, will never be released to any other party at any time.
-
-Please Note: This website contains links to other websites. Clark Family Pty Ltd is not responsible for the privacy practices or the content of those websites.
-
-**Cookies**
-
-With respect to cookies, we use cookies to record session information and user-specific information on what web pages visitors access or visit in order to track the visitor’s progress through our web site, analyze system performance, and ensure that visitors are not repeatedly sent the same promotional material.
-
-**Third-Party Advertising**
+### Advertising
 
 We use third-party advertising companies to serve our ads on our website. These third-party advertising companies employ cookies and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.
 
-**Access to Personal Information**
+### Access your Personal Information
 
-You may access your personal information, subject to a number of exceptions permitted by law. We reserve the right to determine the manner in which the information is accessed. If we deny you access we will provide you with written reasons and, depending on the circumstances of the denial, we may provide sufficient access to information through mutually agreeable intermediaries to meet the needs of you and us. If you request access to your personal information, you may be charged a reasonable fee or costs incurred such as photocopying, administration and postage.
+If you wish, you can access information supplied to us other than in a few circumstance that are set out under Australian law. Financial Services Online reserves the right to determine how the data is accessed. In the event that access to your data is denied, you will be provided with a written explanation as to why and, subject to the reason behind the denial, we may provide access to your data through mutually agreeable intermediaries to meet your needs oand ours. 
 
-If you would like access to your personal information please [contact us](https://web.archive.org/web/20041012235844id_/http%3A//financialservicesonline.com.au/about_us.htm). To ensure security and protection of your information, we may ask that your request be in writing.
+Information access may be subject to a nominal charge to enable us to recoup any reasonable direct or indirect expenses incurred by us in order to satisfy your request.
 
-**Changes to Our Privacy Policy**
+Please feel free to [contact us](http://www.financialservicesonline.com.au/contact_us.htm) should you require access to your personal information. To ensure the protection of your personal data, we may ask that your request be written.
 
-To ensure that our privacy policy reflects market expectations and needs we will constantly review it and update it from time to time as the need arises.
+### Privacy Policy Changes
 
-**Queries or Problems**
+We will review our privacy statement from time to time to ensure that it meets the expectations of the market and any regulatory requirements.
 
-If you have any queries or problems whatsoever in relation to our privacy policy or the handling of your personal information, please [contact us](https://web.archive.org/web/20041012235844id_/http%3A//financialservicesonline.com.au/about_us.htm)
+### Feedback
+
+Please [contact us](http://www.financialservicesonline.com.au/contact_us.htm) should you experience any difficulties or problems in respect� to our privacy policy or the management of your personal information. 
 
 Further information about privacy issues and the protection of your personal information is obtainable from the Australian Federal Privacy Commissioner on: 1300 363 992.
 
-**What if you have a complaint?**
+### Complaints
 
-If you consider that any action of ours breaches this Privacy Policy or the National Privacy Principles or otherwise does not respect your privacy, you can make a complaint. This will be acted upon promptly. To make a complaint, please [contact us](https://web.archive.org/web/20041012235844id_/http%3A//financialservicesonline.com.au/about_us.htm) in the first instance.If you are not satisfied with our response to your complaint, you can telephone the Australian Federal Privacy Commissioner's hotline on: 1300 363 992.
+You are invited to lodge a complaint with us if you consider that we have breached this Privacy Policy or the National Privacy Principles.
 
-If you have any question about this privacy statement, the practices of our website, or your dealings with our website, you can [contact us](https://web.archive.org/web/20041012235844id_/http%3A//financialservicesonline.com.au/about_us.htm)
+We will respond promptly to complaints. 
+
+In order to lodge a complaint, please [contact us](http://www.financialservicesonline.com.au/contact_us.htm) in the first instance. If you are not satisfied with our response to your complaint, you can telephone the Australian Federal Privacy Commissioner's hotline on: 1300 363 992.
+
+If you have any question about this privacy statement, the practices of our website, or your dealings with our website, you can [contact us](http://www.financialservicesonline.com.au/contact_us.htm)
