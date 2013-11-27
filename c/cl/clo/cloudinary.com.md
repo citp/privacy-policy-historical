@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudinary.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603012932id_/http%3A//cloudinary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudinary.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127024116id_/http%3A//cloudinary.com/privacy) for the most accurate reproduction.*
 
 # Cloudinary - Privacy Policy
 
