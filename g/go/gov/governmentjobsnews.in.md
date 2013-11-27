@@ -1,23 +1,34 @@
-> *The following text is extracted and transformed from the governmentjobsnews.in privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627054732id_/http%3A//www.governmentjobsnews.in/2013/06/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmentjobsnews.in privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127142220id_/http%3A//www.governmentjobsnews.in/2013/06/privacy-policy.html) for the most accurate reproduction.*
 
-# privacy policy | Government Jobs | Recruitment 2013-2014 | SSC | UPSC| IBPS | Railway jobs
+# privacy policy ~ Government Jobs | Recruitment 2013-2014 | SSC | UPSC| IBPS | Railway jobs
 
-**Governmentjobsnews.in** takes this Privacy policy seriously and strictly adheres to it. Any personal information you provide us including your name,website url,address and email address will not be released, sold or rented to anyone outside Governmentjobsnews.in
+**Privacy Policy for http://www.governmentjobsnews.in/**  
 
-**Usage of Information Collected**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at indiagovtjobnews@gmail.com. 
 
-Your email address would be collected if you want to subscribe to our updates posted on this site. Detailed information on unsubscribing from our mailing list is provided with all emails sent to you from us.
+At http://www.governmentjobsnews.in/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.governmentjobsnews.in/ and how it is used. 
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP , the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. This site uses   Google Analytics automatically receive and record information from your browser, including your IP address, cookie information, and the page you request. As said, such information will not be released, rented or sold outside of Governmentjobsnews.in
+ **Log Files**  
+Like many other Web sites, http://www.governmentjobsnews.in/ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-**Usage of Cookies and Web beacons**
+ **Cookies and Web Beacons**    
+http://www.governmentjobsnews.in/ does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-A “cookie” is a small text file placed in your computer and allows Governmentjobsnews.in to recognize  you the next time you visit. Cookies does not contain any of your personal information, and Governmentjobsnews.in does not use cookies to collect information. These cookies might be collected by 3rd party content providers such as online advertising companies.
+ **DoubleClick DART Cookie**    
+.:: Google, as a third party vendor, uses cookies to serve ads on http://www.governmentjobsnews.in/.  
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to http://www.governmentjobsnews.in/ and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
+Google Adsense
 
-Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to you based on your visit to our sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.governmentjobsnews.in/ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-**Privacy policy changes**
+http://www.governmentjobsnews.in/ has no access to or control over these cookies that are used by third-party advertisers. 
 
-We may update this policy in future. Incase of such an event, the changes will be reflected in this page. If you have any doubts, you can email us at  Governmentjobsadda@gmail.com
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.governmentjobsnews.in/'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.  
+  
+regards  
+www.governmentjobsnews.in
