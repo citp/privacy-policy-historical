@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the ocsb.ca privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127083053id_/http%3A//www.ocsb.ca/board/administration/committees/pim) for the most accurate reproduction.*
+
+# Privacy Information Management Committee - Ottawa Catholic School Board
+
+##  Privacy Information Management Committee (PIM) 
+
+The Ottawa Catholic School Board is rising to the twin challenges of addressing the growing demand for access to information and the heightened expectations surrounding the security and protection of personal information. All Board employees are responsible for the protection of personal, confidential, and sensitive information entrusted to them. The Board is committed to the protection of privacy and complies with all applicable provisions in the [Education Act](http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90e02_e.htm), the Municipal Freedom of Information and Protection of Privacy Act [(MFIPPA)](http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90m56_e.htm), the Personal Health Information Protection Act [(PHIPA)](http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_04p03_e.htm), and any other applicable legislation.
+
+Our Board's Privacy & Information Management Committee (PIM) works to raise awareness on matters of public trust and confidence with respect to privacy. We understand that it is vital that this privacy culture be embedded into our daily practices to support the needs and expectations of parents, students and staff with respect to information security and the protection of personal information.
+
+It is the practice of the Ottawa Catholic School Board to collect, use, retain and disclose personal information in the course of meeting its statutory duties and responsibilities. The management of personal information collected by the Ottawa Catholic School Board for these purposes is in accordance with the provisions of the Education Act, the Municipal Freedom of Information and Protection of Privacy Act (MFIPPA), and the Personal Health Information Protection Act (PHIPA).
+
+Personal information will only be used for the purpose for which it is intended. The Board shall ensure that personal information is secured and protected from unauthorized access, use, disclosure, and inadvertent destruction by adhering to safeguards appropriate to the sensitivity of the information. Upon request, the Board shall allow an individual to access his/her personal information and will be given access to that information in accordance with privacy legislation, subject to any mandatory or discretionary exceptions.
