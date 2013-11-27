@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pazsaz.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604060618id_/http%3A//www.pazsaz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pazsaz.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127014707id_/http%3A//www.pazsaz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pazsaz Entertainment Network
 
@@ -53,5 +53,3 @@ Santa Monica, CA 90406
 Site Sponsors | Check this out!      
   
 <
-
-[](http://affiliates.allposters.com/link/redirect.asp?c=c&search=101&AID=261824&PSTID=1&LTID=10&LID=1363&lang=1)
