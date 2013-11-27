@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the phpprobid.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602033225id_/http%3A//www.phpprobid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpprobid.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127165910id_/http%3A//www.phpprobid.com/privacy.php) for the most accurate reproduction.*
 
 # Professional Auction Script Software by PHP Pro Bid
 
 [](https://web.archive.org/portfolio.php)
 
-[](https://web.archive.org/web/20130602033225id_/http%3A//www.phpprobid.com/custom_phpprobid_overview_0606_sound.htm)
+[](https://web.archive.org/web/20131127165910id_/http%3A//www.phpprobid.com/custom_phpprobid_overview_0606_sound.htm)
 
-[](https://web.archive.org/web/20130602033225id_/http%3A//www.phpprobid.com/comp.php)
+[](https://web.archive.org/web/20131127165910id_/http%3A//www.phpprobid.com/comp.php)
 
 | 
 
