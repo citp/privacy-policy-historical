@@ -1,179 +1,115 @@
-> *The following text is extracted and transformed from the presidentscup.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232217id_/http%3A//www.pgatour.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentscup.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127113341id_/http%3A//www.pgatour.com/company/privacy.html) for the most accurate reproduction.*
 
-# PGATOUR.com - About Us
+# PGATOUR.com - PGATOUR.COM Privacy Policy
 
-|   |    
-PGATOUR.COM Privacy Policy   
-_Effective Date: Oct. 7, 2004_
+**Effective Date: December 21, 2012**
 
-This privacy policy is applicable to the Website(s) located at the domains "PGATOUR.COM" and "GolfWeb.com", and other sites within the PGA TOUR network which may link to this privacy policy (collectively, the "Site") and are operated by SportsLine.com, Inc. pursuant to a strategic relationship with PGA TOUR LICENSED PROPERIES, INC. (SportsLine.com, Inc. and PGA TOUR LICENSED PROPERIES, INC. collectively "PGA TOUR Partners", "we", "our", or "us"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. Please read the following to learn more about our data collection policies and practices.
+**Updated: December 2012**
 
-  * Types Of Information That May Be Collected
-  * How Information May Be Collected
-  * How We Use The Information Collected
-  * With Whom The Information May Be Shared
-  * Chat Rooms, Forums, And Message Boards
-  * Links To Other Web Sites
-  * Security
-  * A Special Note For Parents Concerning Privacy
-  * Notification Of Changes And Your Acceptance Of The Privacy Policy
-  * Correcting/Updating Personal Information
+Thank you for visiting PGATOUR.com, a general audience site. PGATOUR.com is operated by PGATOUR.COM, LLC (“ **PGATOUR.COM** ”) (sometimes referred to herein as " **we** ", " **our** ", or " **us** "). This privacy policy is applicable to the Website(s) located at the domains "PGATOUR.com," and other PGA TOUR-branded sites and platforms operated by PGATOUR.COM or which post a link to this privacy policy (collectively, the " **Site(s)** ").
 
+Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used. Please be advised that the practices described in this Privacy Policy apply only to information gathered through and in connection with the Sites and do not necessarily reflect practices for other sites that may be linked to from this Site which do not post a link to this privacy policy, such as [www.shop.pgatour.com](http://www.shop.pgatour.com/).
 
+PGATOUR.COM encourages parents and guardians to spend time with their children online, and to be fully familiar with the sites visited by the children in their care, including PGATOUR.com.  PGATOUR.com is not intended for use by people under the age of thirteen (13).  Subscribers under the age of eighteen (18) should not participate in contests or sweepstakes or other promotional opportunities on PGATOUR.com, nor should they post information to PGATOUR.com without a parent or guardian’s consent.
 
-### TYPES OF INFORMATION THAT MAY BE COLLECTED
+**1.          THE INFORMATION WE COLLECT.**
 
-The following are the types of information we may collect:
+At some Sites, you may be able to order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. In the course of these various offerings, we often seek to collect from you various forms of personal information. Examples of the types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
 
-**Site Usage Information**  
-We may receive and store certain types of information whenever you visit the Site. For example, we may collect Automatic Information and your IP address. As used herein, "Automatic Information" is information collected by our computers when you request Web pages or ads from the Site. An IP address is a number that is automatically assigned to your computer whenever you access the Internet.
+At some Sites, you may also be able to submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic message and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. Examples of the types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.
 
-**Information You Provide Us**  
-Personal information such as your user ID and password, name, email address, telephone number, physical address, birth date, gender, zip code or other information may be collected via online forms you submit to the Site.
+At certain parts of some of our Sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the Site's activities and offerings.
 
-**Email Communications**  
-When you open emails from the Site, we may receive a confirmation noting that you opened the email and if you clicked on any of the links contained in such email. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what emails you have opted to and not to receive.
+We, our service providers, advertisers and partners may collect various types of non-personally identifiable information when you visit any of our Sites. A representative list of the types of non-personally identifiable information we may collect include: current Internet protocol address and type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the domain name of your Internet service provider (e.g., Comcast, Verizon or AT&T), the web pages you have visited, sites visited before and after you visit one of our Sites, the type of handheld or mobile device used to view the Site (e.g., iPhone, Blackberry), location information, the Site content you have accessed and the advertisements you have been shown and/or clicked on.
 
-**Information from Other Sources**  
-We may receive information about you from other sources and add it to your personal information.
+You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook, or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make) to deliver the content or as part of the operation of the application.
 
-Return to Top
+When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our applications or websites, and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an application, on our Sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
 
-### HOW INFORMATION MAY BE COLLECTED
+We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content.
 
-We may collect information from you in several different areas on the Site, including but not limited to those described below:
+Through some social networking sites’ privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
 
-**Cookies**  
-As with many Websites, the Site uses standard technology called "cookies," which are small data files that are transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make using the Site easier for you by saving your user ID, preferences and other convenient Site usage information. By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. Additionally, accepting cookies allows you, among other things, to personalize your experience on the Site. Cookies may also allow the Site to present to you advertising which may be of interest to you as well as limit how often you see certain ads that may detract from your user experience on our Site. If you do not want to allow information to be collected through the use of cookies, you can generally opt out of providing this information by turning the cookies off in your browser. However, some areas of the Site may not provide you with an acceptable user experience if you have disabled the use of cookies.
+**2.          HOW WE USE THE INFORMATION.**
 
-**IP Addresses and Automatic Information**  
-We may collect IP addresses and/or Automatic Information for purposes of system administration and to report aggregate information to our advertisers and sponsors. Our computers identify your computer by its IP address. When you request Web pages from the Site, our computers log your IP address. Automatic Information we collect may include, without limitation, such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such information. When analyzed, this data helps us determine how visitors arrive at the Site, what type of content is most popular, and what type of visitors (in the aggregate) are interested in particular kinds of content and advertising. We may also use Automatic Information to provide you with a more personalized user experience.
+We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, to offer you other products, programs or services that we believe may be of interest to you, to enforce the legal terms that govern your use of our sites, and/or for the purposes for which you provided the information.
 
-**Web Beacons**  
-Consistent with standard practice within the web publishing industry, web pages throughout the Site may contain electronic images (generally, single-pixel ".gif" images) called "web beacons." These web beacons allow PGA TOUR Partners to access certain cookies that were set in a domain different from that which is displayed in the current web page's address bar. PGA TOUR Partners's use of web beacons, includes, without limitation, the following:
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our terms of service, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
 
-  * PGA TOUR Partners may use web beacons within the Site in order to count unique users (actually, unique web browsers), visits and page views. Unique browser recognition is possible through the use of web beacons and associated cookies that may be managed by a third party site analytics partner.
-  * PGA TOUR Partners may use web beacons to monitor Site traffic and conversion patterns through our various product and service offerings. For example, web beacons may be integrated into a merchandise product page as well as the subsequent shopping cart, transaction and verification pages. This allows us to determine the most appropriate methods to serve our transaction-oriented customers.
-  * PGA TOUR Partners may use web beacons to provide our web-serving applications with access to PGA TOUR Partners cookies. This allows us to personalize your experience when you visit the Site.
-  * PGA TOUR Partners includes web beacons in HTML-formatted email messages (messages in which we are able to include graphics). These beacons allow us to determine whether or not email messages were opened, links were clicked and notifications/offers were acted upon.
+We use the information that you provide about others to enable us to send them your gifts or cards or emails you may wish to send them from our sites, and for such other purposes as may be stated at the point where the information is collected.
 
+The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
 
+If you choose to submit content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, a video), we may publish your screen name and other information you have provided to us. We may on occasion combine information we collect through our Sites with information that we collect from other sources. Without limiting the generality of the foregoing, if you register and create a profile with our site, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the Sites and may be reused and redistributed by us in our discretion.
 
-**Registration**  
-In order to take advantage of certain features the Site may choose to offer (including, but not limited to, Site Customization, Newsletters, Contests, Forums, Fantasy Games or other subscription-based services), you may be asked to complete a registration form which will provide us with personally identifiable information. You may also be asked to choose a user ID and password in order to identify yourself during future visits to the Site.
+We use the non-personally identifiable information that we collect to improve the design and content of our Sites, to deliver more relevant marketing messages and advertisements and to enable us to personalize your Internet experience. We also may use this information to analyze usage of our Sites, as well as to offer you products, programs, or services.
 
-**Newsletters and Site Emails**  
-We may offer newsletters and other email communications to share information with you about sports news and information available on the Site, about certain features the Site may choose to offer or about our affiliates, subsidiaries, business partners, advertisers and sponsors. You may receive newsletters and other email communications by either registering for a particular newsletter or in conjunction with a special feature or membership offering for which you have registered on the Site. You may cancel your email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails.
+**3.          INFORMATION SHARING AND DISCLOSURE.**
 
-**Contests or Sweepstakes**  
-We may operate contests and sweepstakes through the Site which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. In the event you win a contest or sweepstakes, we may ask your permission to allow us to post publicly some of your information on the Site, such as on a winners page. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes that is promoted on the Site and, as part of the contest or sweepstakes, may collect your information. In those cases (where we are not the operator or host of the contest or sweepstakes), we have no control over the information collected. Thus, before participating, we urge you to review the advertiser's or sponsor's privacy policy as applicable to the contest or sweepstakes.
+We may disclose personally identifiable information in response to a legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or when we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.
 
-**Surveys or Voting**  
-From time to time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey.
+In addition, we may transfer personally identifiable information about you if we, or one of our business units, are acquired by, sold to, merged with or otherwise transferred to another entity.
 
-**Transaction Information**  
-If you purchase a product from us or subscribe to any of the services offered on our Site, we will ask you to complete an order form that will require certain information from you, including credit card number and expiration date, billing address and shipping information, if applicable. We will use this information to complete the transaction that you have requested, i.e., to deliver the products or other services that you ordered, and, if necessary, to invoice you.
+We may also disclose your personally identifiable information to our affiliates, agents and contractors who are involved in assisting us with any of the above activities, but we will require them to protect this information in a manner that is consistent with this privacy statement and they are not authorized to use the information for any purpose other than to carry out the services they are performing for us.
 
-Return to Top
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this privacy statement.
 
-### HOW WE USE THE INFORMATION COLLECTED
+We may disclose personally identifiable information to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. If we desire to share personally identifiable information with persons or entities not covered by this privacy statement, we will provide you with an opportunity to opt out or block such uses either at the point of submission of your personally identifiable information or prior to any such disclosure.
 
-TOUR Partners owns the information collected via the Site. As applicable, the information you provide to us may be used to:
+If you have signed up to receive our e-mails and prefer not to receive marketing information from this site, follow the "unsubscribe" instructions provided on any marketing e-mail you receive from this Site.
 
-  * Contact you about the Site.
-  * Contact you relating to your membership status.
-  * Confirm or fulfill an order you have made.
-  * Monitor or improve the use of the Site.
-  * Customize the advertising and content you see.
-  * Monitor compliance with our Site Terms of Service.
-  * Provide special offers to you from us and/or our respective affiliates, subsidiaries and other third parties.
-  * Send you promotional material on behalf of our partners.
-  * Inform you of a prize you have won.
+To provide visitors with additional or more relevant product and service opportunities, we may share non-personally identifiable information with third parties.
 
+**4.          COOKIES & WEB BEACONS.**
 
+To enhance your online experience, we use "cookies" or similar technologies. Cookies are text files placed in your computer's browser to store your preferences. Cookies do not contain personally identifiable information; however, once you choose to furnish a site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
-Return to Top
+We use cookies to understand Site and Internet usage and to improve or customize the content, offerings or advertisements on our sites. For example, we may use cookies to personalize your experience at our Sites (e.g., to recognize you by name when you return to a Site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to help us offer you products, programs, or services that may be of interest to you and to deliver relevant advertising.
 
-### WITH WHOM THE INFORMATION MAY BE SHARED
+We, our third party service providers, advertisers or our partners also may use cookies to manage and measure the performance of advertisements displayed on or delivered by or through the Sites. This also helps us, our service providers and partners provide more relevant advertising. For more information regarding third-party ad servers, see "Collection of Information by Third-Party Sites, Ad Servers, and Sponsors" below.
 
-At times, we may share your personally identifiable information with others for various purposes. The following outlines the ways in which your information may be shared with others:
+The Adobe Flash Player is an application and web tool that allows rapid development of highly dynamic content. Our Sites may employ locally stored objects (sometimes referred to as “Flash cookies”) in certain situations where we use Flash to provide special content such as video on demand, video clips or animation. Flash (and similar applications) uses this technology to remember settings, preferences and usage similar to browser cookies but Flash cookies are not managed through your web browser. You can access your Flash management tools from _Adobe’s website_ directly.
 
-**Agents**  
-We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Site analysis, data analysis, marketing assistance, credit card payment processing, and customer service. These agents may have access to personally identifiable information needed to perform their functions, but may not use it for other purposes.
+We, our third party service providers, advertisers or our partners may also use "web beacons" or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
 
-**Promotional Offers**  
-We may send offers to you on behalf of other partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may opt out in the email or change your preferences.
+You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered on the Sites. Please consult the "Help" section of your browser for more information.
 
-**Aggregate Information**  
-We may share aggregate information such as demographics and Site usage statistics to advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
+**5.          COLLECTION OF INFORMATION BY THIRD-PARTY SITES, AD SERVERS, AND SPONSORS.**
 
-**Co-Registration Programs**  
-Throughout the Site you may be presented with an opportunity to receive special offers from third parties. Opt-in or opt-out messages will ask you if you would like your information to be shared. If you do choose to have your information shared, your information will be subject to the privacy policy of such third parties. We are not responsible for the privacy practices of these other companies and, therefore, you should review the privacy practices of such companies prior to providing your personally identifiable information.
+Some of our sites contain links to or integrations with other sites such as Facebook, Twitter, Google, LinkedIn, etc., whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
-**Third-Party Ad Serving & Audience and Traffic Measurement Services**  
-The Site may use third party network advertisers to serve the advertisements on the Site and may use a traffic measurement service to analyze the traffic on the Site. Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services you might be interested in. Although advertisers and other companies do not have access to your cookies as provided by the Site, the Site's third party network advertisers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser. These third party cookies are set for purposes including but not limited to targeting advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding how useful certain advertisements are to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies are governed by each third party's specific privacy policy, not this one. Please visit: <http://www.networkadvertising.org/optout_nonppii.asp> in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use.
+The Sites covered by this privacy statement may offer content (e.g., contests, sweepstakes, promotions, games, applications, or social network integrations) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the Site activity. We have no control over these third parties' use of this information. The Site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-**Our Subsidiaries and Affiliates**  
-We may share your information (including, without limitation, personally identifiable information) with our subsidiaries and affiliates.
+We also use the services of reputable third parties to provide us with data collection, reporting, ad response measurement, and site analytics, as well as to assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own cookies. We, our third party service providers, advertisers and/or partners may also place web beacons for these third parties. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement.
 
-**Business Transfers**  
-PGA TOUR Partners or any of it assets, including the Site, may be sold, or other transactions may occur in which your personally identifiable information is one of the key business assets. In such a case, your personally identifiable information, which we have gathered, may be one of the business assets we transfer.
+**6.          INTERNATIONAL TRANSFER.**
 
-**Legal Process**  
-In the event we are required to respond to subpoenas, court orders or other legal process, your personally identifiable information may be disclosed pursuant to such subpoena, court order or legal process, which may be without notice to you.
+The Sites operate globally so it is necessary to transfer your information internationally. In particular, your information will likely be transferred to and processed in the United States where many of our central databases operate. The data protection and other laws of other countries may not be as comprehensive as those in your country. Please be assured that we take reasonable steps to ensure that your privacy is protected. By using this site you consent to your information being collected, used and transferred as set forth in this privacy statement.
 
-Return to Top
+**7.          OUR COMMITMENT TO SECURITY.**
 
-### CHAT ROOMS, FORUMS, AND MESSAGE BOARDS
+We have put in place reasonable physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online.
 
-The Site may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
+**8.          HOW YOU CAN ACCESS OR CORRECT INFORMATION.**
 
-Return to Top
+Access to personally identifiable information that is collected from our sites and that we maintain may be available to you. For example, if you created a password-protected account within our site, you can access that account to review the information you provided.
 
-### LINKS TO OTHER WEB SITES
+You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for such service.
 
-You should be aware that when you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked from our Site, you should consult that site's privacy policy before providing any personal information.
+PGA TOUR Digital Marketing Department
 
-Return to Top
+13000 Sawgrass Village Circle
 
-### SECURITY
+Ponte Vedra Beach, FL  32082
 
-The Site incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your credit card number is encrypted via Secure Sockets Layer (SSL) and is stored behind a firewall. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required.
+email: [dotcomfeedback@pgatourhq.com](mailto:dotcomfeedback@pgatourhq.com)
 
-Return to Top
+**9.          HOW TO CONTACT US.**
 
-### A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY
+If you have any questions or concerns about the online privacy statement for this Site or its implementation you may contact us at [dotcomfeedback@pgatourhq.com](mailto:dotcomfeedback@pgatourhq.com).
 
-The Site is a general audience site. We do not currently collect any personal information from children under the age of thirteen (13) on the Site. If in the future, we collect personally identifiable information from children, we will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.).
+**10.        UPDATES & EFFECTIVE DATE.**
 
-Return to Top
+From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
-### NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY
-
-By using this Site, you signify your agreement to the terms of this privacy policy. PGA TOUR Partners may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address associated with your account or by placing a prominent notice on the Site. Your continued use of the Site shall constitute your acceptance of such revised privacy policy.
-
-Return to Top
-
-### CORRECTING/UPDATING PERSONAL INFORMATION
-
-If your personally identifiable information changes (such as your zip code), or if you no longer wish to access our Site, we provide various ways to correct, update and/or remove personal data you have provided to us.
-
-Update your account information: <http://www.sportsline.com/help>  
-Edit your newsletter or list subscription status: <http://www.pgatour.com/newsletter>  
-Email Customer Service: <http://www.sportsline.com/help/contactus>
-
-If you have any questions about this privacy policy or the privacy practices of this Site, you can email your question to Customer Service using the link above or you can contact us by mail at:
-
-**Customer Service  
-SportsLine.com, Inc.  
-Attn: Privacy Policy for PGATOUR.COM  
-2200 W. Cypress Creek Road  
-Fort Lauderdale, Florida 33309 **
-
-Return to Top
-
-|   | 
-
-Special Holiday Savings  
-Great holiday gifts for the golfer in your life.   
-[Click Now!](http://shop.pgatour.com/)
+The Privacy Statement posted on this site was updated in December 2012.
