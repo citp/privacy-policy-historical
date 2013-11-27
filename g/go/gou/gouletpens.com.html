@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the gouletpens.com privacy policy that was archived on 2013-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529045748id_/http%3A//www.gouletpens.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gouletpens.com privacy policy that was archived on 2013-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131127013843id_/http%3A//www.gouletpens.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
 <script type="text/javascript">
 if(ns4)_d.write("<scr"+"ipt src=/a/j/milonic/mmenuns4.js><\/scr"+"ipt>"); 
   else _d.write("<scr"+"ipt src=/a/j/milonic/mmenudom.js><\/scr"+"ipt>"); 
@@ -15,8 +15,8 @@ var Config_CDN_URL = '/'
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
-<meta name="Description" content="Fountain pens, inks, notebooks, stationery, wax seals, and more! Let us enhance your writing experience.">
-<meta name="Keywords" content="pen, fountain pen, ink, fountain pen ink, Ink Nouveau, Brian Goulet, Rachel Goulet, Goulet, Goulet Pens, Goulet Pen Company, GouletPens, notebook, journal, paper, stationery, staplebound, wirebound, clothbound, writing instrument, bottled ink, ink cartridge, Webnotebook, Webbie, notepad, sketchpad, sketchbook, wax seal, sealing wax, envelopes, stationery, writing, flex pen, music pen, nib, bottles, samples, highlighter, marker, Ink Drop, Swab Shop, Goulet Outlet, Preppy, blotter, planner, Noodler's, Noodlers, Lamy, Pilot, Namiki, Platinum, J. Herbin, Rhodia, Clairefontaine, Quo Vadis, G. Lalo, Exacompta, Waterman, Parker, Aurora, Montegrappa, Omas, Pelikan, Private Reserve, Diamine, Caran d'Ache, Sailor, Sheaffer, TWSBI, Delta, Monteverde, Stipula, Leuchtturm, Organics Studio, Scribal Work Shop, Pen Plaza, Nib Nook">
+<meta name="Description" content="Fountain pens, inks, paper, and more for the fountain pen enthusiast! Let us enhance your writing experience.">
+<meta name="Keywords" content="pen, fountain pen, ink, fountain pen ink, Ink Nouveau, Brian Goulet, Rachel Goulet, Goulet, Goulet Pens, Goulet Pen Company, GouletPens, notebook, journal, paper, stationery, staplebound, wirebound, clothbound, bound journal, writing instrument, bottled ink, ink cartridge, Webnotebook, Webbie, notepad, sketchpad, sketchbook, wax seal, sealing wax, envelopes, stationery, writing, flex pen, music pen, nib, bottles, samples, highlighter, marker, Ink Drop, Swab Shop, Nib Nook, Pen Plaza, Goulet Outlet, Preppy, blotter, Noodler's, Noodlers, Lamy, Pilot, Namiki, Platinum, J. Herbin, Rhodia, Clairefontaine, Quo Vadis, G. Lalo, Exacompta, Waterman, Parker, Aurora, Montegrappa, Omas, Pelikan, Private Reserve, Diamine, Sailor, Sheaffer, TWSBI, Delta, Monteverde, Stipula, Leuchtturm, Scribal Work Shop, Ahab, Konrad, FPN">
 <title>Terms: Privacy</title>
 <meta name="robots" content="index,follow">
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
@@ -27,6 +27,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -42,7 +43,30 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -74,9 +98,7 @@ var Config_CDN_URL = '/'
 
 <!--[if lt IE 9]>
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->	
-
-
+<![endif]-->
 <!--
 DYNAMIC PAGE-SPECIFIC META TAGS WILL BE PLACED HERE
 DO NOT ADD YOUR OWN META TAGS
@@ -84,118 +106,103 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 -->
 <!-- Google Analytics -->
 <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-6961505-2']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-6961505-2']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
 </script>
-
 <!-- Google Site Verification -->
 <meta name="google-site-verification" content="XkspFG1dGiuRBlPP_SAaJGU-Zv0fVemEeoYgazmfwng">
-
-
+<!-- Pinterest Verification -->
+<meta name="p:domain_verify" content="cd782e8a026391ff457c06e4fda64d9b">
 <!-- Live Chat Inc -->
 <script type="text/javascript">
 var __lc = {};
 __lc.license = 1705721;
-
 (function() {
-  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+	var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+	lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
 })();
-</script>
-
-
-<script type="text/javascript">
-jQuery(function(){
-	if (jQuery('textarea[name^="ReviewDescription_"]').length) {
-			jQuery.getScript('/v/vspfiles/assets/js/jquery.limit-1.2.source.js', function() {
-				jQuery('textarea[name^="ReviewDescription_"]').each(function(i){
-                			jQuery(this).closest('tr').after('<tr><td></td><td width="70%">You have <span id="charsLeft_' + i + '"></span>&nbsp;characters left.</td></tr>');
-					jQuery(this).limit('1000','#charsLeft_'+i);
-				});	
-			});
-        }
-});
 </script>
 <script language="javascript" src="/v/vspfiles/assets/js/jquery.alphanumeric.js" type="text/javascript"></script>
 <link href="/v/vspfiles/templates/gouletpen/css/Imports.css" rel="stylesheet">
 <script type="text/javascript" src="/v/vspfiles/templates/gouletpen/js/v_custom.js"></script><script type="text/javascript" src="//web.archive.org/web/20120513213353/http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script><link rel="stylesheet" href="/v/vspfiles/templates/gouletpen/css/softaddtocart.css" type="text/css">
 <script src="/v/vspfiles/templates/gouletpen/js/ie.select.js"></script>
 <script>jQuery(function () {jQuery('#v65-cart-shipping-details select').ieSelectStyle();});</script>
-
-
 <script type="text/javascript">
 jQuery(function(){
 	if (jQuery('textarea[name^="ReviewDescription_"]').length) {
-			jQuery.getScript('/v/vspfiles/assets/js/jquery.limit-1.2.source.js', function() {
-				jQuery('textarea[name^="ReviewDescription_"]').each(function(i){
-                			jQuery(this).closest('tr').after('<tr><td></td><td width="70%">You have <span id="charsLeft_' + i + '"></span>&nbsp;characters left.</td></tr>');
-					jQuery(this).limit('1000','#charsLeft_'+i);
-				});	
-			});
-        }
+		jQuery.getScript('/v/vspfiles/assets/js/jquery.limit-1.2.source.js', function() {
+			jQuery('textarea[name^="ReviewDescription_"]').each(function(i){
+				jQuery(this).closest('tr').after('<tr><td></td><td width="70%">You have <span id="charsLeft_' + i + '"></span>&nbsp;characters left.</td></tr>');
+				jQuery(this).limit('1000','#charsLeft_'+i);
+			});	
+		});
+	}
 });
 </script>
+<script src="/v/vspfiles/templates/gouletpen/js/design-toolkit_min.js"></script>
+<!--if_homepage-->
+<link href="/v/vspfiles/feedback/feedback.css" rel="stylesheet" type="text/css">
+<script src="/v/vspfiles/feedback/feedback.js"></script>
+<link href="/v/vspfiles/templates/gouletpen/css/social-bar.css" rel="stylesheet" type="text/css">
+<script src="/v/vspfiles/templates/gouletpen/js/social-bar.js"></script>
 </head>
-
 <!-- ======================== FILE INFO ========================
 Company Name:
 Designer:
 Coder: JMC
 Date: 2012
 ======================== END INFO ======================== -->
-
 <body id="body">
-<div id="page_wrapper">
-<div id="page_wrapper_in">
-<!-- ======================== HEADER ======================== -->
-<div id="header">
-	<div id="display_homepage_title"><span itemscope="" itemtype="http://schema.org/OfficeEquipmentStore"><meta itemprop="name" content="The Goulet Pen Company"><a href="http://www.gouletpens.com/default.asp" title="The Goulet Pen Company">The Goulet Pen Company</a></span></div>
-    
-    <div id="site_tools">
-        <a href="http://www.gouletpens.com/myaccount.asp">My Account</a>
-        <a href="/WishList.asp">My Wishlist</a>
-        <a href="/About_Us_s/1432.htm">About Us</a>
-        <a href="/articles.asp?ID=83">Contact Us</a>
-        <a href="http://www.gouletpens.com/help.asp" class="end">Help/FAQs</a>
-        <a href="/login.asp?logout=yes" class="end">Logout</a>
-	</div>
-    <div id="display_search">
-        <form action="http://www.gouletpens.com/SearchResults.asp" method="get" name="SearchBoxForm">
-            <input type="text" name="Search" id="search_input" value="enter keywords here..." onfocus="if (this.value == 'enter keywords here...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter keywords here...';}">
-            <input type="submit" name="Submit" id="search_submit" value="">
-        </form>
-    </div>
-    <div id="cartWrap">
-        <a href="/shoppingcart.asp" class="cartText">&nbsp;</a>
-        <div id="display_cart_summary"><div class="cartsummary_full">($0.00, 0 Items)&nbsp;<a href="/ShoppingCart.asp"></a></div></div>
-    </div>
-</div>  
-
-<div id="top_nav">
-    <!-- ======================== UL LAYOUT ======================== -->
-    <div id="display_menu_1">
+	<div id="page_wrapper">
+		<div id="page_wrapper_in">
+			<!-- ======================== HEADER ======================== -->
+			<div id="header">
+				<div id="display_homepage_title"><span itemscope="" itemtype="http://schema.org/OfficeEquipmentStore"><meta itemprop="name" content="The Goulet Pen Company"><a href="http://www.gouletpens.com/default.asp" title="The Goulet Pen Company">The Goulet Pen Company</a></span></div>
+				<div id="site_tools">
+					<a href="http://www.gouletpens.com/myaccount.asp">My Account</a>
+					<a href="/WishList.asp">My Wishlist</a>
+					<a href="/About_Us_s/1432.htm">About Us</a>
+					<a href="/articles.asp?ID=83">Contact Us</a>
+					<a href="http://www.gouletpens.com/help.asp" class="end">Help/FAQs</a>
+					<a href="/login.asp?logout=yes" class="end">Logout</a>
+				</div>
+				<div id="display_search">
+					<form action="http://www.gouletpens.com/SearchResults.asp" method="get" name="SearchBoxForm">
+						<input type="text" name="Search" id="search_input" value="enter keywords here..." onfocus="if (this.value == 'enter keywords here...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter keywords here...';}">
+						<input type="submit" name="Submit" id="search_submit" value="">
+					</form>
+				</div>
+				<div id="cartWrap">
+					<a href="/shoppingcart.asp" class="cartText">&nbsp;</a>
+					<div id="display_cart_summary"><div class="cartsummary_full">($0.00, 0 Items)&nbsp;<a href="/ShoppingCart.asp"></a></div></div>
+				</div>
+			</div>
+			<div id="top_nav">
+				<!-- ======================== UL LAYOUT ======================== -->
+				<div id="display_menu_1">
 <script type="text/javascript">var breadCrumb="||";</script>
 <script type="text/javascript">display_menu_1();</script><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(0)" onselectstart="return 0" id="menu0" style="padding: 0px; z-index: 999; visibility: visible; position: relative; width: 959px;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" id="tbl0"><tbody><tr><td id="el0" onmouseover="h$(0)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl0"><tbody><tr id="td0"><td id="_imgO0"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img0" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(0)" name="mM1" onfocus="_iF0C(0)" href="http://www.gouletpens.com/Goulet_Specials_s/1201.htm" class="nav" id="lnk0" style="border:none;background:transparent;display:block;">Specials</a></td><td width="1" style="font-size:1px;"><img id="simg0" onload="_p2(0,this)" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="el1" onmouseover="h$(1)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl1"><tbody><tr id="td1"><td id="_imgO1"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img1" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(1)" name="mM1" onfocus="_iF0C(1)" href="http://www.gouletpens.com/Writing_Instruments_s/1197.htm" class="nav" id="lnk1" style="border:none;background:transparent;display:block;">Writing Instruments</a></td><td width="1" style="font-size:1px;"><img id="simg1" onload="_p2(0,this)" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="el2" onmouseover="h$(2)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl2"><tbody><tr id="td2"><td id="_imgO2"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img2" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(2)" name="mM1" onfocus="_iF0C(2)" href="http://www.gouletpens.com/Ink_s/1198.htm" class="nav" id="lnk2" style="border:none;background:transparent;display:block;">Ink</a></td><td width="1" style="font-size:1px;"><img id="simg2" onload="_p2(0,this)" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="el3" onmouseover="h$(3)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl3"><tbody><tr id="td3"><td id="_imgO3"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img3" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(3)" name="mM1" onfocus="_iF0C(3)" href="http://www.gouletpens.com/Paper_s/1199.htm" class="nav" id="lnk3" style="border:none;background:transparent;display:block;">Paper</a></td><td width="1" style="font-size:1px;"><img id="simg3" onload="_p2(0,this)" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="el4" onmouseover="h$(4)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl4"><tbody><tr id="td4"><td id="_imgO4"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img4" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(4)" name="mM1" onfocus="_iF0C(4)" href="http://www.gouletpens.com/Writing_Accessories_s/1200.htm" class="nav" id="lnk4" style="border:none;background:transparent;display:block;">Writing Accessories</a></td><td width="1" style="font-size:1px;"><img id="simg4" onload="_p2(0,this)" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="el5" onmouseover="h$(5)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl5"><tbody><tr id="td5"><td id="_imgO5"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img5" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(5)" name="mM1" onfocus="_iF0C(5)" href="http://www.gouletpens.com/Ink_Drop_s/795.htm" class="nav" id="lnk5" style="border:none;background:transparent;display:block;">Ink Drop</a></td><td width="1" style="font-size:1px;"><img id="simg5" onload="_p2(0,this)" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="el6" onmouseover="h$(6)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl6"><tbody><tr id="td6"><td id="_imgO6"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img6" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(6)" name="mM1" onfocus="_iF0C(6)" href="http://www.gouletpens.com/Swab_Shop_s/793.htm" class="nav" id="lnk6" style="border:none;background:transparent;display:block;">The Swab Shop</a></td><td width="1" style="font-size:1px;"><img id="simg6" onload="_p2(0,this)" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="el7" onmouseover="h$(7)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl7"><tbody><tr id="td7"><td id="_imgO7"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img7" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(7)" name="mM1" onfocus="_iF0C(7)" href="http://www.gouletpens.com/Nib_Nook_s/1114.htm" class="nav" id="lnk7" style="border:none;background:transparent;display:block;">The Nib Nook</a></td></tr></tbody></table></td><td id="el8" onmouseover="h$(8)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl8"><tbody><tr id="td8"><td id="_imgO8"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img8" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(8)" name="mM1" onfocus="_iF0C(8)" href="http://www.gouletpens.com/Fountain_of_Knowledge_s/1130.htm" class="nav" id="lnk8" style="border:none;background:transparent;display:block;">Fountain of Knowledge</a></td><td width="1" style="font-size:1px;"><img id="simg8" onload="_p2(0,this)" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet_End.gif" style="width:0px;"></td></tr></tbody></table></td><td id="el9" onmouseover="h$(9)" class="nav" style="padding:0px;;"><table class="milonictable" border="0" cellpadding="0" cellspacing="0" style="line-height:normal;padding:0px" width="100%" height="100%" id="MTbl9"><tbody><tr id="td9"><td id="_imgO9"><img onload="_p2(0,this)" border="0" style="display:block;" id="_img9" src="/v/vspfiles/templates/gouletpen/images/Template/Menu1_Bullet.gif"></td><td width="100%" nowrap="" style=";"><a onclick="return $K(9)" name="mM1" onfocus="_iF0C(9)" href="http://www.inknouveau.com/" class="nav" id="lnk9" style="border:none;background:transparent;display:block;">Blog</a></td></tr></tbody></table></td></tr></tbody></table> <a name="mM1" id="mmlink0" href="#" onclick="return $K(this._itemRef)" onmouseover="_p1(this);_mot=$P(_mot)" style="outline:none;line-height:normal;background:transparent;text-decoration:none;height:1px;width:1px;overflow:hidden;position:absolute;"></a></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(1)" onselectstart="return 0" id="menu1" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(2)" onselectstart="return 0" id="menu2" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(3)" onselectstart="return 0" id="menu3" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(4)" onselectstart="return 0" id="menu4" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(5)" onselectstart="return 0" id="menu5" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(6)" onselectstart="return 0" id="menu6" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(7)" onselectstart="return 0" id="menu7" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(8)" onselectstart="return 0" id="menu8" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(9)" onselectstart="return 0" id="menu9" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(10)" onselectstart="return 0" id="menu10" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(11)" onselectstart="return 0" id="menu11" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(12)" onselectstart="return 0" id="menu12" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(13)" onselectstart="return 0" id="menu13" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(14)" onselectstart="return 0" id="menu14" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(15)" onselectstart="return 0" id="menu15" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(16)" onselectstart="return 0" id="menu16" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(17)" onselectstart="return 0" id="menu17" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(18)" onselectstart="return 0" id="menu18" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(19)" onselectstart="return 0" id="menu19" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(20)" onselectstart="return 0" id="menu20" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(21)" onselectstart="return 0" id="menu21" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(22)" onselectstart="return 0" id="menu22" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(23)" onselectstart="return 0" id="menu23" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(24)" onselectstart="return 0" id="menu24" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(25)" onselectstart="return 0" id="menu25" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(26)" onselectstart="return 0" id="menu26" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(27)" onselectstart="return 0" id="menu27" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(28)" onselectstart="return 0" id="menu28" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(29)" onselectstart="return 0" id="menu29" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(30)" onselectstart="return 0" id="menu30" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(31)" onselectstart="return 0" id="menu31" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(32)" onselectstart="return 0" id="menu32" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(33)" onselectstart="return 0" id="menu33" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(34)" onselectstart="return 0" id="menu34" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(35)" onselectstart="return 0" id="menu35" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(36)" onselectstart="return 0" id="menu36" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(37)" onselectstart="return 0" id="menu37" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(38)" onselectstart="return 0" id="menu38" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(39)" onselectstart="return 0" id="menu39" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(40)" onselectstart="return 0" id="menu40" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(41)" onselectstart="return 0" id="menu41" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(42)" onselectstart="return 0" id="menu42" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(43)" onselectstart="return 0" id="menu43" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(44)" onselectstart="return 0" id="menu44" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(45)" onselectstart="return 0" id="menu45" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(46)" onselectstart="return 0" id="menu46" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(47)" onselectstart="return 0" id="menu47" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(48)" onselectstart="return 0" id="menu48" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div><div class="mmenucontainer" onmouseout="$I()" onmouseover="$J(49)" onselectstart="return 0" id="menu49" style="padding:0px;;border:1px solid #fff;z-index:999;visibility:hidden;position:absolute;top:-999px;;"></div>
 </div>
-    
-</div>
-<div class="clear"></div>
-
-<!-- ======================== CONTENT ======================== -->
-<div id="contentEdge">
-<div id="contentWrap">
-      <table id="content">
-    <tbody><tr>
-      <td id="left_nav">        
-        <div id="categoryname"></div>
-        <div id="display_menu_s">
+			</div>
+			<div class="clear">
+			</div>
+			<!-- ======================== CONTENT ======================== -->
+			<div id="contentEdge">
+				<div id="contentWrap">
+					<table id="content">
+						<tbody><tr>
+							<td id="left_nav">
+								<div id="categoryname">
+									
+								</div>
+								<div id="display_menu_s">
 <script type="text/javascript">var breadCrumb="||";</script>
 <script type="text/javascript">
 function mOvr1(src)
@@ -244,8 +251,7 @@ function mClk1(src, popup)
 </li>
 </ul>
 </div>
-           
-        <div id="display_promotions_999"><br><br>
+								<div id="display_promotions_999"><br><br>
 <form name="MailingList" method="post" action="/MailingList_subscribe.asp">
 
 <b><font color="FFFFFF">Sign up for our newsletter!</font></b><br>
@@ -258,9 +264,8 @@ function mClk1(src, popup)
 
 </form>
 <br></div>
-        
-      </td>
-      <td id="content_area">
+							</td>
+							<td id="content_area">
     <table width="100%" border="0" cellspacing="5" cellpadding="5" align="center">
         <tbody><tr> 
           <td>
@@ -278,76 +283,128 @@ function mClk1(src, popup)
 
  
 </td>
-    </tr>
-  </tbody></table>
-   
-    <div class="clear"></div>
-    
-</div>
-</div>
-</div>
-</div>
-<!-- #################### FOOTER #################### -->
-<div id="footerWrap">
-<div id="footer">
-         <div class="ink"><img src="/v/vspfiles/templates/gouletpen/images/template/ink.png" alt=""></div>
-	<div id="footerTop">
-		<div id="eList">
-          <form name="MailingList" method="post" action="http://www.gouletpens.com/MailingList_subscribe.asp">  
-            <input type="text" id="elist_input" name="emailaddress" value="Email Address" onfocus="if (this.value == 'Email Address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Email Address';}"> 
-            <input type="submit" name="Submit" id="elist_submit" value="">
-          </form>
-        </div>
-        <div id="socialIcons">
-            <a href="http://www.facebook.com/TheGouletPenCompany"><img src="/v/vspfiles/templates/gouletpen/images/template/facebook.png" alt="Facebook"></a>
-            <a href="http://twitter.com/#!/gouletpens"><img src="/v/vspfiles/templates/gouletpen/images/template/twitter.png" alt="Twitter"></a>
-            <a href="http://www.inknouveau.com/"><img src="/v/vspfiles/templates/gouletpen/images/template/blog.png" alt="Blogger"></a>
-            <a href="mailto:orders@gouletpens.com"><img src="/v/vspfiles/templates/gouletpen/images/template/email.png" alt="Email"></a>
-        </div>
+						</tr>
+					</tbody></table>
+					<div class="clear">
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
-    <div id="footerMid">
-        <div class="contactFooter">
-            <span>Email: <a href="mailto:orders@gouletpens.com">orders@gouletpens.com</a></span>
-            <span>Phone: 804-368-0482</span>
-        </div>
-        <ul class="col-1">
-            <li><a href="/About_Us_s/1432.htm">About Us</a></li>
-            <li><a href="/articles.asp?ID=83">Contact Us</a></li>
-            <li><a href="http://www.inknouveau.com">Ink Nouveau Blog</a></li>
-        </ul>
-        <ul class="col-2">
-            <li><a href="http://www.gouletpens.com/myaccount.asp">My Account</a></li>
-            <li><a href="http://www.gouletpens.com/shoppingcart.asp">View Cart</a></li>
-            <li><a href="http://www.gouletpens.com/login.asp">Sign-In</a></li>
-            <li><a href="http://www.gouletpens.com/orders.asp">Order Status</a></li>
-        </ul>
-        <ul class="col-3">
-            <li><a href="http://www.gouletpens.com/help.asp">Help/FAQs</a></li>
-            <li><a href="http://www.gouletpens.com/returns.asp">Returns</a></li>
-            <li><a href="http://www.gouletpens.com/terms_privacy.asp">Privacy Policy</a></li>
-            <li><a href="http://www.gouletpens.com/terms.asp">Terms &amp; Conditions</a></li>
-        </ul>
-        <ul class="col-4">
-            <li><a href="/Swab_Shop_s/793.htm">The Swab Shop</a></li>
-            <li><a href="/Nib_Nook_s/1114.htm">The Nib Nook</a></li>
-            <li><a href="/Pen_Plaza_s/1295.htm">The Pen Plaza</a></li>
-            <li><a href="http://gallery.gouletpens.com">The Goulet Gallery</a></li>
-        </ul>
-    </div>
-    <div class="clear"></div>
-</div>
+	<!-- #################### FOOTER #################### -->
+	<div id="footerWrap">
+		<div id="footer">
+			<div class="ink">
+				<img src="/v/vspfiles/templates/gouletpen/images/template/ink.png" alt="">
+			</div>
+			<div id="footerTop">
+				<div id="eList">
+					<form name="MailingList" method="post" action="http://www.gouletpens.com/MailingList_subscribe.asp">
+						<input type="text" id="elist_input" name="emailaddress" value="Email Address" onfocus="if (this.value == 'Email Address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Email Address';}">
+						<input type="submit" name="Submit" id="elist_submit" value="">
+					</form>
+				</div>
+				<div id="contactfooter">
+					<span>Email: <a href="mailto:orders@gouletpens.com">orders@gouletpens.com</a></span>
+					<span>Phone: 804-368-0482</span>
+				</div>
+				<ul class="col-1">
+					<li><a href="/About_Us_s/1432.htm">About Us</a></li>
+					<li><a href="/articles.asp?ID=83">Contact Us</a></li>
+					<li><a href="http://www.inknouveau.com">Ink Nouveau Blog</a></li>
+				</ul>
+				<ul class="col-2">
+					<li><a href="http://www.gouletpens.com/myaccount.asp">My Account</a></li>
+					<li><a href="http://www.gouletpens.com/shoppingcart.asp">View Cart</a></li>
+					<li><a href="http://www.gouletpens.com/login.asp">Sign-In</a></li>
+					<li><a href="http://www.gouletpens.com/orders.asp">Order Status</a></li>
+				</ul>
+				<ul class="col-3">
+					<li><a href="http://www.gouletpens.com/help.asp">Help/FAQs</a></li>
+					<li><a href="http://www.gouletpens.com/returns.asp">Returns</a></li>
+					<li><a href="http://www.gouletpens.com/terms_privacy.asp">Privacy Policy</a></li>
+					<li><a href="http://www.gouletpens.com/terms.asp">Terms &amp; Conditions</a></li>
+				</ul>
+			</div>
+			<div class="clear">
+			</div>
+		</div>
 <!-- ==========================================================================================
-                VOLUSION LINK - BEGIN
+VOLUSION LINK - BEGIN
 ===============================================================================================
 Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp) to maintain a text hyperlink to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this link breaches the Volusion agreement.
-=========================================================================================== --> 
-    <div id="footerBottom">
-        <a href="http://www.gouletpens.com/terms.asp">Copyright © <script type="text/javascript"> document.write(new Date().getFullYear());</script>2020&nbsp;The Goulet Pen Company, LLC. All Rights Reserved.</a> Ecommerce Site Design by <a href="http://www.volusion.com" title="Shopping Cart Software" target="_blank">Volusion</a>.
-        <ul class="col-5">
-            <li><script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script></li>
-        </ul>
-    </div>
+=========================================================================================== -->
+<div id="footerBottom">
+	<a href="http://www.gouletpens.com/terms.asp">Copyright ©
+		<script type="text/javascript"> document.write(new Date().getFullYear());</script>2020
+		&nbsp;The Goulet Pen Company, LLC. All Rights Reserved.</a> Ecommerce Site Design by <a href="http://www.volusion.com" title="Shopping Cart Software" target="_blank">Volusion</a>.
+		<ul class="col-5">
+			<li>
+				<script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+			</li>
+		</ul>
+	</div>
 </div>
+
+<!-- ======================== SOCIAL BAR ======================== -->
+<div class="sbWrap"> 
+	<div class="sbContainer">      
+		<div class="sbContent">
+
+			<span class="sbTab sbToggle">Social Tab</span>
+
+			<div class="colWrap">
+				<!-- COLUMN ONE -->
+				<div class="column one">
+					<p class="title stay-connected">Connect with us!</p>
+					<p class="title">Twitter Feed</p>
+					<a class="twitter-timeline" href="https://twitter.com/GouletPens" width="215" height="150" data-chrome="noheader noborders nofooter transparent" data-link-color="#000000" data-tweet-limit="1" data-widget-id="392134672961904641">Tweets by @GouletPens</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div><!--column-one-->
+
+				<!-- COLUMN TWO -->
+				<div class="column two">
+					<div class="social">
+						<a class="twitter" href="https://twitter.com/gouletpens" target="_blank" title="Follow The Goulet Pen Company, LLC on Twitter">Twitter</a>
+						<a class="facebook" href="https://www.facebook.com/TheGouletPenCompany" target="_blank" title="Like The Goulet Pen Company, LLC on Facebook">Facebook</a>
+						<a class="blog" href="http://www.inknouveau.com/" target="_blank" title="Subscribe to The Goulet Pen Company, LLC's Blog">Blogger</a>
+						<a class="youtube" href="http://www.youtube.com/theinknouveau" target="_blank" title="Subscribe to The Goulet Pen Company, LLC's YouTube Channel">YouTube</a>
+						<a class="instagram" href="http://instagram.com/gouletpens" target="_blank" title="Follow The Goulet Pen Company, LLC on Instagram">Instagram</a>
+						<a class="pinterest" href="http://www.pinterest.com/gouletpens/" target="_blank" title="Follow The Goulet Pen Company, LLC on Pinterest">Pinterest</a>
+						<div class="clear"></div>
+					</div><!--.social-->
+					<p class="title">Recent Blog Post</p>
+					<div id="test">
+<script type="text/javascript">
+$(document).ready(function () {
+  $('#test').rssfeed('http://feeds.feedburner.com/InkNouveau', {
+    limit: 1,
+    header:false,
+    date:false,
+    ssl:true,
+    linkcontent:true,
+    linktarget:'_blank'
+  });
+});
+</script>
+</div>
+<a class="read-more" href="http://www.inknouveau.com/" target="_blank">read more ›</a>
+		</div><!--column-two-->
+
+				<!-- COLUMN THREE -->
+				<div class="column three">
+					<iframe width="292" height="220" src="//www.youtube.com/embed/3v7znwoT8z4?rel=0" frameborder="0" allowfullscreen=""></iframe>
+				</div><!--column-three-->
+
+			</div><!-- .colWrap -->
+
+		</div><!-- .sbContent -->
+	</div><!-- .sbContainer -->
+</div><!-- .sbWrap -->
+<!-- ======================== SOCIAL BAR END ======================== -->
+
+
+<div id="fbWrap"></div>
 
 
 
