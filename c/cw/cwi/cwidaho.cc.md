@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwidaho.cc privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531035020id_/http%3A//cwidaho.cc/info/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwidaho.cc privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127151756id_/http%3A//cwidaho.cc/info/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | College of Western Idaho
 
