@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njm.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527154221id_/http%3A//www.njm.com/Information/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njm.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127171743id_/http%3A//www.njm.com/Information/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # New Jersey Manufacturers Insurance Company - Your Privacy Rights
 
