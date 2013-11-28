@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401113226id_/http%3A//www.wernerpublishing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128210120id_/http%3A//www.wernerpublishing.com/privacy-policy) for the most accurate reproduction.*
 
 # Werner Publishing » Privacy Policy
 
@@ -78,8 +78,8 @@ Werner Publishing Corp. will not knowingly collect personally identifiable infor
 **To bring you offers that may be of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click-stream information.   
 Werner Publishing Corp. sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. Our privacy policy does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).   
 For further information, consult the privacy policies of:  
-<http://www.doubleclick.com/privacy/index.aspx>  
-<http://www.operative.com/privacy_policy.php>  
+<https://www.google.com/intl/en/policies/privacy/>  
+[http://www.operative.com/privacy-policy/](http://www.operative.com/privacy-policy.php)  
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by following the information above.  
 Upon request, we provide site visitors with access to information we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries) and contact information (e.g., name, address, phone number) that we maintain about them.  
 Consumers can access this information by signing into the customer service area of our websites.   
