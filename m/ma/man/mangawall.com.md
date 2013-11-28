@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangawall.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611072449id_/http%3A//mangawall.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangawall.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128122114id_/http%3A//mangawall.com/policies) for the most accurate reproduction.*
 
 # MangaWall - Privacy Policy
 
