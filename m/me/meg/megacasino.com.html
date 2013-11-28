@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the megacasino.com privacy policy that was archived on 2013-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519093837id_/http%3A//www.megacasino.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the megacasino.com privacy policy that was archived on 2013-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131128093923id_/http%3A//www.megacasino.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>MegaCasino.com - slots, video slots, roulette, video poker, blackjack</title>
@@ -10,7 +10,8 @@
 <meta name="robots" content="index, follow">
 <meta name="GOOGLEBOT" content="index, follow">
 
-<script src="http://www.megacasino.com/js/jquery-1.8.3.js"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/5416.js?439480" async="" type="text/javascript"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script src="http://www.megacasino.com/js/jquery-1.8.3.js"></script>
+<script type="text/javascript" src="http://www.megacasino.com/js/Cookies.js"></script>
 <script language="javascript" type="text/javascript">
 
 function OpenInstantPlay() {
@@ -31,12 +32,15 @@ function OpenInstantPlay() {
 		document.getElementById("downloadCount").innerHTML="<img src='http://www.megacasino.com/downloadcount.inc.asp?AFFID=170001&subid=0&prc=0&ActionID=100' border='0' width='1' height='1'>";
 	}*/
 
-    window.open("http://www.megacasino.com/instant-play.html?m_Lang=1",'game','width=' + y + ',height=' + x + ',top=0,left=0,scrollbars=' + sb + ', menubar=no, toolbar=no,location=no,directories=no,status=no,resizable=1');
+    //window.open("http://www.megacasino.com/instant-play.html?m_Lang=1",'game','width=' + y + ',height=' + x + ',top=0,left=0,scrollbars=' + sb + ', menubar=no, toolbar=no,location=no,directories=no,status=no,resizable=1');
+	var link = "http://game.megacasino.com/?aff=170001&subid=0&prc=0&token=0&GUID=858DEA4B-10E3-4DB6-B1E9-3CB565042F75&ActionID=100&p=w&m_Lang=1"; 
+	var mlink = "http://www.megacasino.com/maintenance/maintenance.aspx?langID=1"
+	newWin = window.open(link,'game','width=' + y + ',height=' + x + ',top=0,left=0,scrollbars=' + sb + ', menubar=no, toolbar=no,location=no,directories=no,status=no,resizable=1');
 	
   $.ajax({
 		type: "POST",
 		url: "/guidLogger.asp",
-		data: "AR=170001&PAR=0&PRC=0&TOKEN=0&GUID=9CD40278-DBC9-4477-92C0-565699E2D814&ActionID=100"
+		data: encodeURI("AR=170001&PAR=0&PRC=0&TOKEN=0&GUID=858DEA4B-10E3-4DB6-B1E9-3CB565042F75&ActionID=100")
 		});
 }
 
@@ -59,12 +63,15 @@ function OpenInstantPlayLP(langID) {
 	}*/
 
 	if (langID==""){langID = 1;}
-    window.open("http://www.megacasino.com/instant-play.html?m_Lang="+ langID +"",'game','width=' + y + ',height=' + x + ',top=0,left=0,scrollbars=' + sb + ', menubar=no, toolbar=no,location=no,directories=no,status=no,resizable=1');
+    //window.open("http://www.megacasino.com/instant-play.html?m_Lang="+ langID +"",'game','width=' + y + ',height=' + x + ',top=0,left=0,scrollbars=' + sb + ', menubar=no, toolbar=no,location=no,directories=no,status=no,resizable=1');
+	var link = "http://game.megacasino.com/?aff=170001&subid=0&prc=0&token=0&GUID=858DEA4B-10E3-4DB6-B1E9-3CB565042F75&ActionID=100&p=w&m_Lang="+ langID +""; 
+	var mlink = "http://www.megacasino.com/maintenance/maintenance.aspx?langID=1"
+	newWin = window.open(link,'game','width=' + y + ',height=' + x + ',top=0,left=0,scrollbars=' + sb + ', menubar=no, toolbar=no,location=no,directories=no,status=no,resizable=1');
 	
 	$.ajax({
 		type: "POST",
 		url: "/guidLogger.asp",
-		data: "AR=170001&PAR=0&PRC=0&TOKEN=0&GUID=9CD40278-DBC9-4477-92C0-565699E2D814&ActionID=100"
+		data: encodeURI("AR=170001&PAR=0&PRC=0&TOKEN=0&GUID=858DEA4B-10E3-4DB6-B1E9-3CB565042F75&ActionID=100")
 		});
 }
 
@@ -133,12 +140,14 @@ function count_dl_full(){
 		else
 		{
 		
-			window.location.href = URL;
+			//window.location.href = URL;
+			var link = "http://game.megacasino.com/?aff=170001&subid=0&prc=0&token=0&GUID=858DEA4B-10E3-4DB6-B1E9-3CB565042F75&ActionID=99";
+			window.location.href = link;
 			
 			$.ajax({
 			type: "POST",
 			url: "/guidLogger.asp",
-			data: "AR=170001&PAR=0&PRC=0&TOKEN=0&GUID=9CD40278-DBC9-4477-92C0-565699E2D814&ActionID=99"
+			data: encodeURI("AR=170001&PAR=0&PRC=0&TOKEN=0&GUID=858DEA4B-10E3-4DB6-B1E9-3CB565042F75&ActionID=99")
 			});	
 		
 			/*if (document.getElementById("downloadCount"))
@@ -166,12 +175,14 @@ function count_dl_full(){
         }
 		else
 		{
-			window.location.href = "http://download.skillonnet.com/download?aname=170001&prod_id=3&skid=megacasino&zone_id=1";
+			//window.location.href = "http://download.skillonnet.com/download?aname=170001&prod_id=3&skid=megacasino&zone_id=1";
+			var link = "http://game.megacasino.com/?aff=170001&subid=0&prc=0&token=0&GUID=858DEA4B-10E3-4DB6-B1E9-3CB565042F75&ActionID=99";
+			window.location.href = link;
 			
 			$.ajax({
 			type: "POST",
 			url: "/guidLogger.asp",
-			data: "AR=170001&PAR=0&PRC=0&TOKEN=0&GUID=9CD40278-DBC9-4477-92C0-565699E2D814&ActionID=99"
+			data: encodeURI("AR=170001&PAR=0&PRC=0&TOKEN=0&GUID=858DEA4B-10E3-4DB6-B1E9-3CB565042F75&ActionID=99")
 			});
 			
 			/*if (document.getElementById("downloadCount"))
@@ -286,6 +297,26 @@ function IncreaseJackpot2()
 	window.setTimeout("IncreaseJackpot2()", 1000); // 1000 milliseconds delay
 }
 
+function IncreaseJackpots(JackpotID)
+{
+
+	var ran_unrounded=Math.random()*10;
+	var ran_number=Math.floor(ran_unrounded); 
+	
+	if (document.getElementById('total' + JackpotID))
+	{
+		var total_number = document.getElementById('total' + JackpotID).value;
+		var num = parseFloat(parseFloat(total_number)+parseFloat(ran_number/100));
+		if (document.getElementById('jackpot' + JackpotID))
+		{
+			document.getElementById('jackpot' + JackpotID).innerHTML = addCommas(num.toFixed(2));
+		}	
+		document.getElementById('total' + JackpotID).value = num.toFixed(2);
+		
+		window.setTimeout("IncreaseJackpots("+ JackpotID +")", 1000); // 1000 milliseconds delay	
+	}
+	
+}
 /********************************* END SIDE JACKPOTS **************************************/
 
 
@@ -390,7 +421,7 @@ $(document).ready(function() {
 	
 	if (readCookie('df') != '1') {
 		//document.getElementById("mycookie2").src="http://www.megacasino.com/fcookie.html?aname=170001&zoneid=1&dynid="+ Math.random()*10 +"&skin=megacasino";
-		document.getElementById("mycookie2").src="http://www.megacasino.com/fcookie.html?aname=170001&zoneid=1&dynid=9CD40278-DBC9-4477-92C0-565699E2D814&skin=megacasino";
+		document.getElementById("mycookie2").src="http://www.megacasino.com/fcookie.html?aname=170001&zoneid=1&dynid=858DEA4B-10E3-4DB6-B1E9-3CB565042F75&skin=megacasino";
 		createCookie('df','1',3);
 	}
 
@@ -445,7 +476,7 @@ $(document).ready(function() {
 
 <div class="wrap_in">
 
-	<div class="top">
+	<div class="top"> 
 
 	<div class="menu">
 
@@ -473,10 +504,19 @@ $(document).ready(function() {
 			<li><a onclick="javascript:switchLangNew('NO');return false;">Norsk</a></li>
 			<li><a onclick="javascript:switchLangNew('SW');return false;">Svenska</a></li>
 			<li><a onclick="javascript:switchLangNew('PT');return false;">Portuguese</a></li>
-			<li><a onclick="javascript:switchLangNew('NL');return false;">Dutch</a></li>
+			<!--<li><a onClick="javascript:switchLangNew('NL');return false;">Dutch</a></li>-->
 			<li><a onclick="javascript:switchLangNew('FI');return false;">Suomi</a></li>
 			<li><a onclick="javascript:switchLangNew('RU');return false;">Pyсский</a></li>
 			<li><a onclick="javascript:switchLangNew('GR');return false;">Ελληνικά</a></li>
+<li><a href="#" onclick="javascript:switchLangNew('PL');return false;">POLSKI</a></li>
+									<li><a href="#" onclick="javascript:switchLangNew('HU');return false;">MAGYAR</a></li>
+									<li><a href="#" onclick="javascript:switchLangNew('RO');return false;">ROMÂNĂ</a></li>
+									<li><a href="#" onclick="javascript:switchLangNew('CZ');return false;">ČEŠTINA </a></li>
+									<li><a href="#" onclick="javascript:switchLangNew('BG');return false;">български</a></li>
+									<li><a href="#" onclick="javascript:switchLangNew('TR');return false;">Türkçe</a></li>
+									<li><a href="#" onclick="javascript:switchLangNew('HR');return false;">Hrvatski</a></li>
+									<li><a href="#" onclick="javascript:switchLangNew('SK');return false;">Slovenčina</a></li>
+									<li><a href="#" onclick="javascript:switchLangNew('AR');return false;">العربية</a></li>
 		</ul>
 		</div>
 		
@@ -490,12 +530,12 @@ $(document).ready(function() {
 	<div class="header_inner">
 
 		<div class="logo_inner">
-			<a href="http://www.megacasino.com/"><img src="style/logo_inner.jpg" alt="MegaCasino" height="159" width="162"></a>
+			<a href="http://www.megacasino.com/"><img src="http://d3et91dy7yc4b.cloudfront.net/style/logo_inner.jpg" alt="MegaCasino" height="159" width="162"></a>
 		</div>
 
 		<div class="header_inner_in">
 		
-			<img src="http://www.megacasino.com/style/data/about.jpg" alt="image" height="159" width="616">
+			<img src="http://d3et91dy7yc4b.cloudfront.net/style/data/about.jpg" alt="image" height="159" width="616">
 		</div>
 
 	</div><!-- header_inner -->
@@ -536,7 +576,7 @@ $(document).ready(function() {
 
 	<div class="h3 font">Jackpots</div>
 	<div class="sep1">&nbsp;</div>
-	<ul class="list"><li><span class="icon icon_35"><a href="#"><img src="../style/data/genie_small.png" alt="icon" height="35" width="60"> Millionaire Genie</a><br><span class="white">€<span id="jackpot1">596,773.74</span></span></span></li><li><span class="icon icon_35"><a href="#"><img src="../style/data/good_evil_small.png" alt="icon" height="35" width="60"> Good &amp; Evil</a><br><span class="white">€<span id="jackpot2">281,636.63</span></span></span></li></ul><input type="hidden" name="total1" id="total1" value="596773.74"><input type="hidden" name="total2" id="total2" value="281636.63">
+	<ul class="list"><li><span class="icon icon_35"><a href="#"><img src="../style/data/genie_small.png" alt="icon" height="35" width="60"> Millionaire Genie</a><br><span class="white">€<span id="jackpot1">985,047.87</span></span></span></li><li><span class="icon icon_35"><a href="#"><img src="../style/data/good_evil_small.png" alt="icon" height="35" width="60"> Good &amp; Evil</a><br><span class="white">€<span id="jackpot2">1,080.17</span></span></span></li></ul><input type="hidden" name="total1" id="total1" value="985047.87"><input type="hidden" name="total2" id="total2" value="1080.17">
 	
 	
 
@@ -572,7 +612,6 @@ IncreaseJackpot2();
 
 
 <div class="footer">
-
 	<div class="footer_h">Mega Casino</div>
 	<div class="footer_t">Mega casino is an innovative online casino featuring a large variety of Casino and Instant Win games. To begin playing, you simply need to download and install our software. Mega Casino is available anytime and from anywhere! We offer the best Vegas Style casino games: including several Blackjack games, variations of Roulette, plus Slot Machines, Baccarat, Video Poker and Craps. We are always offering Instant Cash Payouts, MEGA JACKPOTS and huge Progressive Jackpots. At Mega Casino we cater to all types of players; whatever your budget or level of experience we have exactly the right games and options. Check out our fantastic casino promotions or contact our 24/7 Casino Support Staff directly for further details. Get started today and join our regular players from all around the world; enjoy our top quality casino software, and fun and exciting games</div>
 	<ul class="footer_logos">
@@ -582,11 +621,11 @@ IncreaseJackpot2();
 		<li><img src="http://www.megacasino.com/style/logos/02.png" alt="cashier" height="36" width="57"></li>
 		<li><a href="http://www.lga.org.mt/lga/home.aspx" target="_blank"><img src="http://www.megacasino.com/style/logos/03.png" alt="lga" height="36" width="152"></a></li>
 		<li><a href="http://www.megacasino.com/RNG_Certificate_SkillOnNet_040313.pdf" target="_blank"><img src="http://www.megacasino.com/style/logos/04.png" alt="iTech Labs" height="36" width="104"></a></li>
-		<li><img src="http://www.megacasino.com/style/logos/05.png" alt="18" height="36" width="31"></li>
-		<li><img src="http://www.megacasino.com/style/logos/06.png" alt="secure" height="36" width="74"></li>	
+		<li><a href="http://www.megacasino.com/privacy.asp" target="_blank"><img src="http://www.megacasino.com/style/logos/05.png" alt="18" height="36" width="31"></a></li>
+		<li><a href="http://www.megacasino.com/privacy.asp" target="_blank"><img src="http://www.megacasino.com/style/logos/06.png" alt="secure" height="36" width="74"></a></li>	
 	</ul>
 	<div class="footer_t">MegaCasino.com is operated by Skill On Net Limited which is licensed by the Lotteries and Gaming Authority of Malta (LGA) under license number<br> LGA/CL1/563/2009</div>
-	<div class="footer_t">Clicking on the download button will lead to the installation of Windows compatible casino software on your PC of around 10 MB, which will enable you to register and play on platform. The application can be uninstalled completely cleanly using the normal remove programs options in Windows platform. No functions of the software will remain after an uninstallation.</div>
+	<div class="footer_t">Clicking on the download button will lead to the installation of Windows compatible casino software on your PC of around 120 MB, which will enable you to register and play on platform. The application can be uninstalled completely cleanly using the normal remove programs options in Windows platform. No functions of the software will remain after an uninstallation.</div>
 	<div class="footer_t">V3.0.2</div>
 
 </div><!-- footer -->
@@ -597,7 +636,13 @@ IncreaseJackpot2();
 
 </div><!-- wrap -->
 
-<img height="1" width="1" src="http://view.atdmt.com/action/MegaCasino_UK_Landing_181010">
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/5416.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script><img height="1" width="1" src="http://view.atdmt.com/action/MegaCasino_UK_Landing_181010">
 
 <!-- GA -->
 <script type="text/javascript">
@@ -615,6 +660,14 @@ pageTracker._trackPageview();
 
 
 
-
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=2';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script>
 
 </body></html>
