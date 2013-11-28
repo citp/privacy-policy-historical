@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510104549id_/http%3A//twiends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128084320id_/http%3A//twiends.com/privacy) for the most accurate reproduction.*
 
 # Twiends Privacy Policy
 
-First and foremost, twiends is here to offer a good and honest service to those who want primarily to grow their reach on Twitter. We ask that you use the service fairly and honestly too. This Policy applies as to all products and services provided by twiends, Webcandy the owner and provider of twiends, and yourself the User of twiends. This Policy applies to our use of any and all Data collected by us in relation to your use of twiends and any Services or Systems therein. Please read the following carefully to understand our views and practices regarding your personal data and how we treat it. 
+Privacy Policy
 
-##### 1\. Definitions & interpretations
+First and foremost, twiends is here to offer a good and honest service to those who want primarily to grow their reach on Twitter and Instagram. We ask that you use the service fairly and honestly too. 
+
+This Policy applies as to all products and services provided by twiends, Webcandy the owner and provider of twiends, and yourself the User of twiends. This Policy applies to our use of any and all Data collected by us in relation to your use of twiends and any Services or Systems therein. Please read the following carefully to understand our views and practices regarding your personal data and how we treat it. 
+
+1\. Definitions & interpretations
 
 The following terms shall have the following meanings:
 
@@ -28,7 +32,7 @@ The following terms shall have the following meanings:
 
 “ **Webcandy** ” means Webcandy Limited, the owner of twiends, the Website, and the provider of the Services.
 
-##### 2\. Protecting your privacy
+2\. Protecting your privacy
 
 We use the latest technologies and processes to ensure that any information (personal data) that you supply us is kept secure at all times.
 
@@ -38,7 +42,7 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
 
 Our nominated representative for the purpose of the Act is Michael Coyle a Solicitor Advocate at Lawdit Solicitors.
 
-##### 3\. Information collected from you
+3\. Information collected from you
 
 This is the information you provide by filling in forms on http//www.twiends.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. This may include; your name; date of birth; gender; business industry; contact information such as email addresses and telephone numbers; demographic information such as post code, preferences and interests; website profile information.
 
@@ -58,23 +62,23 @@ This is the information you provide by filling in forms on http//www.twiends.com
 
 3.8 Other automatically collected information will include; web browser type and version; operating system; a list of URLS starting with a referring site, your activity on twiends, and the site you exit to.
 
-##### 4\. Your IP address
+4\. Your IP address
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-##### 5\. Cookies
+5\. Cookies
 
 We may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate, such as the cookies we use to identify you when you log in. If you register with us or if you continue to use our site, you agree to our use of cookies. You also give consent to the use of cookies if you sign in with your twitter account. Please note that our advertisers may also use cookies, over which we have no control. More detail on the cookies we use can be found [here](https://web.archive.org/cookies).
 
-##### 6\. How your data is stored
+6\. How your data is stored
 
-The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 All information you provide to us is stored on our secure servers. Any payment transactions will be handled by PayPal and encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-##### 7\. How we use your information
+7\. How we use your information
 
 We use information held about you in the following ways:
 
@@ -88,7 +92,7 @@ We use information held about you in the following ways:
 
 7.5 To notify you about changes to our service.
 
-##### 8\. Third party websites & services
+8\. Third party websites & services
 
 We may use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you.
 
@@ -100,7 +104,7 @@ Twiends may, from time to time, employ the services of other parties for dealing
 
 If you do not want us to use your data in this way, please email a request to remove your information from our records to info@twiends.com.
 
-##### 9\. Disclosure of your information
+9\. Disclosure of your information
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
@@ -112,7 +116,7 @@ The reasons we may disclose your personal information are:
 
 9.3 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use.
 
-##### 10\. Your rights
+10\. Your rights
 
 You may access certain areas of twiends without providing any Data at all. However, to use all Services and Systems available on twiends you may be required to submit Account information or other Data.
 
@@ -122,18 +126,18 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 You have the right to opt out of receiving information from twiends at any time. You can turn-off notifications on the settings page if you don't want to receive system notifications.
 
-You have the right to delete your account on the [advanced settings](https://web.archive.org/advanced) page at any time; this will also terminate any future communications.
+You have the right to delete your account on the [settings](https://web.archive.org/settings) page at any time; this will also terminate any future communications.
 
 You may contact us at any time via the [contact](https://web.archive.org/contact) page or [support](http://support.twiends.com/) page to terminate communications.
 
-##### 11\. Access to your information
+11\. Access to your information
 
 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-##### 12\. Changes to our policy
+12\. Changes to our policy
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-##### 13\. Contact us
+13\. Contact us
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@twiends.com. 
