@@ -1,49 +1,61 @@
-> *The following text is extracted and transformed from the prwatch.org privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220064254id_/http%3A//www.prwatch.org/cmd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prwatch.org privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128064442id_/http%3A//www.prwatch.org/cmd/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Center for Media and Democracy
+# Privacy Policy and More | PR Watch
 
-The Center for Media & Democracy (CMD) believes strongly in the internet as a vital tool for education, advocacy and information exchange. In order for the tool to be used effectively, any information provided online must be used appropriately and responsibly. To protect your online privacy we have developed the following privacy policy.
+The Center for Media and Democracy (CMD) believes strongly in the internet as a vital tool for education, advocacy, and information exchange.
+
+In order for the tool to be used effectively, any data and other information provided online by users must be used appropriately and responsibly. To protect your online privacy we have developed the following privacy policy and other guidelines.
 
 ## Personally Identifiable Information
 
 We will not collect any personally identifiable information about you, such as your name, email address, credit card or other information, unless we explicitly request the information and you choose to provide it. We use your personal information to send you email alerts, respond to questions or requests and process online donations. You can always "opt-out" of our online communications to keep from receiving unwanted emails.
 
-CMD does not sell or trade names or other personal data that we collect on our website, nor do we maintain any credit card information. Credit card donations through our website are processed by [Democracy In Action](http://www2.democracyinaction.org/), which is committed to providing safe, secure and private online transactions. For further details about their privacy practices, please consult their [privacy and security policy directly](http://www2.democracyinaction.org/privacypolicy).
+CMD does not sell or trade names or other personal data or metadata from our website, nor do we maintain credit card information. Credit card donations through our website are processed by "Salsa Labs" which is committed to providing safe, secure, and private online transactions. Salsa's privacy protections [are available here](http://www2.democracyinaction.org/privacypolicy).
 
-When you make a donation to us through the [Donate button](https://web.archive.org/donate) on our website, you will receive our weekly newsletter _The Weekly Spin_. Democracy In Action shares your contact information (name, address and email address) with us. We maintain this information in our database of supporters in order to keep you abreast of our future work and related issues that may be of interest to you. If you decide you do not want to receive materials from us, you can call (608) 260-9713 or email us at [editor@prwatch.org](mailto:editor@prwatch.org).
+When you make a secure donation to us through the [Donate button](https://web.archive.org/donate) on our website, you will receive our weekly newsletter _The SPIN_ and Salsa Labs will enter your contact information (name, address and email address) in a secure file CMD can access to contact you. We maintain this information in our database of supporters in order to keep you updated on our work and related issues that may be of interest to you. If you decide you do not want to receive electronic mailings from us, you can call (608) 260-9713 or use the contact form at the bottom of this page. Each electronic message from us also provides information on how to unsubscribe.
 
 ## Cookies
 
-We use cookies to store visitors preferences, record session information, alert visitors to new areas that we think might be of interest to them when they return to our site, and record past activity at a site in order to provide better service when visitors return to our site; however, we do not use the cookies to monitor any particular individual's activity.
+Our website uses cookies to store visitors preferences, record session information, alert visitors to new areas that we think might be of interest to them when they return to our site, and record past activity at a site in order to provide better service when visitors return to our site. However, we do not use the cookies to monitor any particular individual's activity.
 
 ## Email Lists
 
-Supporters who donate will receive regular communications from us about our work and opportunities to help. People interested in our work may sign up to receive our electronic publications and information without donating. Each electronic message from us will provide information on how to unsubscribe to this service. 
+Supporters who donate will receive regular communications from us about our work and opportunities to help. People interested in our work may sign up to receive our electronic publications and information without donating. Each electronic message from us will provide information on how to unsubscribe.
 
-If you join or donate to the Center for Media and Democracy online, you will receive our regular membership communications. We will not sell, rent, provide or disclose personally identifiable information to any commercial users or marketing firms.
+If you join or donate to the Center for Media and Democracy online, you will receive our electronic communications. We will not sell, rent, provide, or disclose personally identifiable information to any commercial users or marketing firms.
 
 ## Browser Information
 
-When you visit a Center for Media and Democracy website to read or download information, we may collect and store the following general information in order to analyze trends, gather broad demographic information, and monitor site traffic patterns that can help us further develop and improve the design and functionality of our site: your computer's IP address, browser type, and operating system, the date and time you access our site, the Internet address of the website from which you linked directly to our site, the search terms used in connecting to our site, and the various pages that you visit while on our site. We will not disseminate this information to the general public.
+When you visit a Center for Media and Democracy website to read or download information, general information is collected to analyze trends, gather broad demographic information, and monitor site traffic patterns that can help us further develop and improve the design and functionality of our site: your computer's IP address, browser type, and operating system, the date and time you access our site, the Internet address of the website from which you linked directly to our site, the search terms used in connecting to our site, and the various pages that you visit while on our site are part of this data. Under our policies, we view this information in aggregate form, not about particular individuals and we do not disseminate this information to the general public.
 
 ## Publicly Sharing Your Comments
 
-We often receive information from website visitors who have successfully participated in our programs and/or used our resources. In certain instances, we would like to publicly share the comments and stories we receive by posting this information on one of our websites. We will not, however, publicly share ANY information we receive on any of our websites without first receiving the express consent of the individual who submitted the information. If you choose to comment on a news item or blog via the comment option on the website, those comments will be made public and we encourage your views and debate.
+We often receive information from website visitors who have successfully participated in our programs and/or used our resources. In certain instances, we would like to publicly share the comments and stories we receive by posting this information on one of our websites. We will not, however, publicly share ANY information we receive on any of our websites without first receiving the express consent of the individual who submitted the information.
+
+## Comment and Photo Posting Policy
+
+CMD generally follows the _New York Times_ standard for comments. Our goal is offer our audience an opportunity to share opinions on the issues we are covering. Our comment queue system does not screen out comments based on the partisan views of readers, but the Center is non-partisan and we have strongly criticized members of both major political parties. We are not endorsing the comments that are posted, except for our own comments we may post in response.
+
+## Ground Rules
+
+As per the _Times_ , do "not submit any libelous, defamatory, obscene, pornographic, abusive or otherwise illegal material. Please use respectful language that does not abuse or discriminate on the basis of race, religion, nationality, gender, sexual preference, age, region, disability, etc." Please do not post material in violation of copyright or trademark or other laws. Violators may be banned through the comment queue process.
+
+Comments are moderated by our spam blocker and internal processes before posting. Occasionally, comments get through that are inconsistent with these policies, including spamming links to commercial sites. If you believe a comment has been posted that violates these policies, please let us know right away through the contact form. We reserve the right to delete, move or edit posts for any reason, except that we will not edit someone's comment in any way that alters its meaning.
+
+CMD reserves the right to delete or block comments that are off-topic, are threatening, constitute troll-like flaming, or otherwise do not warrant publication in the opinion of CMD's editorial staff. Like the _Times_ , CMD is trying to "create[] a space where readers can exchange intelligent and informed commentary that enhances the quality of our news and information. While most comments will be posted if they are on-topic and not abusive, moderating decisions are subjective. We will make them as carefully and consistently as we can," but the option to propose a comment to a story does not equate to a right to have it published by us.
 
 ## Protecting Children
 
-Center for Media and Democracy will make all efforts to comply with the Children's Online Privacy Protection Act of 1998 (COPPA). We do not and will not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13, and we will develop our site with the capacity to block acceptance of information from children under 13 whenever age-related information is requested. It is possible that by fraud or deception by others we may receive information given to us by, or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or else delete the information from our servers. If you want to notify us of our receipt of information by children under 13, please do so by emailing us at editor AT prwatch.org.
+Center for Media and Democracy will make all efforts to comply with the Children's Online Privacy Protection Act of 1998 (COPPA). If you want to notify us of our receipt of information by children under 13, please do so by emailing us through the comment form link provided at the bottom of this website.
 
 ## Other Security Measures
 
-We want to provide Center for Media and Democracy members and other supporters with a secure experience whether they are making a donation or joining for the first time. We will use all reasonable means to safeguard the privacy of your personal information. Our technical security measures include using industry standard 128bit encryption to secure the transfer of data between your browser and our servers. When our forms ask users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with one of the best encryption methods in the industry today, Secure Sockets Layer (SSL). While on a secure page, such as our membership form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. 
+We want to provide Center for Media and Democracy readers with a secure experience whether they are making a donation or joining for the first time. We will use all reasonable means to safeguard the privacy of your personal information. Our technical security measures include using industry standard 128bit encryption to secure the transfer of data between your browser and our servers. When our forms ask users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with one of the best encryption methods in the industry today, Secure Sockets Layer (SSL). While on a secure page, such as our sign-up form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
 
 ## Policy Revisions
 
-We reserve the right to periodically amend this privacy policy. If we make any substantial changes in the way we use your personally identifiable information, we will notify you by posting an announcement on our web site. Regardless of later updates, we will never use the information that you submit under this current notice in a new way without providing you an opportunity to opt-out or otherwise prevent that use.
+We reserve the right to periodically amend this privacy policy.
 
-## Access and Correction of Visitor Data
+Regardless of later updates, we will never use the information that you submit under this current notice in a new way without providing you an opportunity to opt-out or otherwise prevent that use.
 
-Upon request we will provide access to the information that we maintain about you. You can request this information by emailing us at the below address. Visitors can have this information corrected by completing the feedback form or visiting their password protected member profile.
-
-We work hard to ensure that your experience on our site is a positive one. If you have any questions about this privacy policy or your dealings with our site, please contact us at the address below.
+We will not provide information to the government about you unless subject to a valid court order, which we reserve the right to challenge or litigate, should such an order ever be presented to CMD.
