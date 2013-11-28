@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carreg.co.uk privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624001351id_/http%3A//www.carreg.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carreg.co.uk privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128164228id_/http%3A//www.carreg.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Car Reg Privacy Policy
 
