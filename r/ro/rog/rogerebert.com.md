@@ -1,129 +1,125 @@
-> *The following text is extracted and transformed from the rogerebert.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630195622id_/http%3A//www.suntimes.com/aboutus/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogerebert.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128075717id_/http%3A//www.rogerebert.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy from the Chicago Sun-Times
+# Privacy Policy | Roger Ebert
 
 ### This Privacy Policy applies to our sites and apps
 
-This Policy describes how we treat personal information . This includes our websites and our mobile apps.
+Ebert Digital LLC’s “hereinafter Ebert Digital” Privacy Policy is designed to inform users about the type of information we collect, and how we collect, use and safeguard the information we collect on our Website. By using our website and app, you consent to our Privacy Policy. 
 
-To download a full copy of this Privacy Policy, click [here](http://suntimes.com/pdf/privacy-policy-page.pdf).
+This policy was last updated on May 28, 2013.
 
-### We collect information from and about you.
+  * Update Policy
+  * Terms and Conditions
+  * The Type of Information We Collect
+  * Consent to Collect Information
+  * We May Share Information With Third Party Service Providers
+  * Compliance with Law and Fraud Protection
+  * You must be 18 to order from this website
+  * Third Party Links
+  * Right to Transfer Personal Information
+  * Right to Opt Out
+  * Your California Privacy Rights
+  * U.S. Laws
+  * Contacting Us
 
-Contact information. For example, we might collect your name and street address. We might also collect your phone number or email.
 
-Payment information. For example, we collect your credit card number when you buy a subscription or pay to access parts of our site.
 
-Information you submit or post. We collect the information you post in a public space on our website.
+#### Update Policy
 
-Demographic information.  We may collect information about your interests or hobbies. We might collect this as part of a survey, for example.
-
-Other information. If you use our website, we may collect information about the browser you're using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location. We might look at how often you use the app and where you downloaded it. We collect this information using the tracking tools described [here](http://www.suntimes.com/aboutus/aboutourads/index.html). To control these tools, please read [here](http://www.suntimes.com/aboutus/aboutourads/index.html).
-
-↑ Back to top
-
-### We collect information in different ways.
-
-We collect information directly from you. For example, if you subscribe for home delivery or register for our newsletter. We also collect information if you post a comment or make a request. We may publish your name if you send a letter to the editor.
-
-We collect information from you passively. We use tracking tools like browser cookies and web beacons. We also collect information from our mobile apps.
-
-We get information about you from third parties. For example, our business partners may give us information about you.
+Ebert Digital will occasionally update this Privacy Policy. When a revision is made we will revise the “last updated” date on this page and post a link to the revisions. We encourage you to check the date of our Privacy Policy each time you visit our Website for any updates or changes. Your use of our Website constitutes your consent to this Privacy Policy, including any changes or updates.
 
 ↑ Back to top
 
-### We use information as disclosed and described here.
+#### Terms and Conditions
 
-We use information to respond to your requests or questions. For example, we might use your information to confirm your subscription or register you for a contest. We may use your friend's email address if you send them information from our site.
-
-We use information to improve our products and services.  We might use your information to customize your experience with us.
-
-We use information to look at site trends and customer interests. We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.
-
-We use information for security purposes.  We may use information to protect our company, our customers, or our websites.
-
-We use information for marketing purposes.  For example, we might send you information about special promotions or offers. We might tell you about new features or products. These might be our own offers or products, or third party offers or products we think you might find interesting.We may use push notifications on our mobile apps. To manage this, read the choices section below.
-
-We use information to communicate with you about your account or our relationship. We may contact you about your account or subscription. We might also contact you about this Policy or our website Terms.
-
-We use information to talk to parents or guardians to get permission.  We may use contact information to get permission from parents for children who want to use our site.
-
-We use information as otherwise permitted by law. For example, we may use your IP address for identification purposes in cooperation with internet service providers or law enforcement agencies.
+Please also visit our [Terms and Conditions](https://web.archive.org/terms-of-use) section establishing the use, disclaimers and limitations governing the use of our website.
 
 ↑ Back to top
 
-We will share information within the Wrapports family of companies.
+#### The Type of Information We Collect
 
-We will share information with third parties who perform services on our behalf.For example, we share information with vendors who send emails for us or fulfill your purchases.
+If you request any information from us you will be required to provide your name, email address and telephone number.
 
-We will share information with our business partners. For example, we might share information with a business partner who runs a sweepstakes for us. These partners may send you information about events and products by mail or email. To control this, read the choices section below.
+**Contact Information.** The type of Information we collect depends upon the services you use and/or products you purchase. This information will be stored so we may provide you with service and use to contact you.
 
-We will share information if we think we have to in order to comply with the law or to protect ourselves. For example, we will share information at the request of governmental authorities conducting an investigation, or to verify or enforce compliance with our internal policies and applicable laws. We will share information to respond to a court order or subpoena. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion. We may share your information whenever we believe disclosure is necessary to limit our liability or to protect or enforce the rights, interests or safety of our products and services, our users or others.
+**Payment Information.** If you purchase one of our products or services, we will collect your credit card information, shipping address, billing address, e-mail address, telephone number, and purchase information.
 
-We may share information with any successor to all or part of our business.For example, if part of our business was sold we may give our customer list as part of that transaction.
+**Information You Post or Submit.** We collect and store information you post or submit on our website.
 
-We may share information for other reasons we may describe to you.
+**Newsletters.** Ebert Digital offers newsletters. If you wish to subscribe to our newsletter, we ask for contact information such as name, street address and e-mail address to provide these communications. We respect your privacy, so we provide a way to opt-out of these communications. Please see opt-out section below.
 
-↑ Back to top
+**Surveys & Sweepstakes.** Ebert Digital may offer special events such as surveys or sweepstakes. In order to participate in any such surveys or sweepstakes we will request additional information from our customers that may include contact information (such as name, shipping address and e-mail address), and demographic information (such as zip code, age). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
-### You have certain choices about our marketing and tracking tools.
+**Browsing our Website - Usage Tracking.** Ebert Digital’s database tracks the traffic throughout our site. This information is used to compile overall statistics and is not recorded at an individual level. This includes IP (internet protocol) addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate. The statistics help us decide which products and services best serve our members and guests.
 
-You can opt out of receiving our marketing emails.To stop receiving our promotional emails, [click here ](http://signup.suntimes.com/) or follow the instructions in any promotional message you get from us. You may still receive transactional messages.
+**Cookies and Web Beacons.** In some instances, Ebert Digital may collect data through cookies, web logs, web beacons (also known as pixel gifs or action tags) and other monitoring technologies to enhance your browsing and shopping experience on our website. “Cookies” are small pieces of information that are stored by your browser on your computer’s hard drive to collect information about your activities on our website. Web beacons are small strings of code placed on a web page or within an email for the purpose of transferring information.
 
-You can control if we share information with third parties for their marketing purposes. To opt out of having us share your information with third parties for their promotional purposes, click here. 
+We use cookies and web beacons to deliver our ads, improve and measure the usability, track visits from our affiliates and partners, performance and effectiveness of our Website, improve and measure the effectiveness of our marketing programs, learn how customers use our website, estimate our audience size, deliver co-branded services, and to customize your shopping experience. Examples of the type of information that we collect through these collection devices, includes: total visitors to the website, pages viewed, unique visitors, time spent on our Website and on certain web pages, etc.
 
-You can control cookies and tracking tools. To learn how we - and our vendors - use cookies and other tracking tools, please click [here](http://www.suntimes.com/aboutus/aboutourads/index.html).
-
-You can control tools on your mobile devices. For example, you can turn off the GPS locator or push notifications on your mobile device. Each push notification has an "unsubscribe" link.
+We may authorize third parties to use cookies, web beacons and other monitoring technologies to compile information about the use of the Website or interaction with advertisements that appear on the Website. You are always free to decline cookies if your browser permits, although, by declining the use of cookies you may not be able to use certain features on the Website.
 
 ↑ Back to top
 
-### These sites and children.
+#### Consent to Collect Information
 
-Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can [email](mailto:privacy@suntimes.com) us. You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
-
-↑ Back to top
-
-### We use standard security measures.
-
-The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
-
-We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+When you submit your personal information to us, you are giving us your consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy. We are always available to discuss your questions or concerns regarding this Privacy Policy and our privacy practices. If you would like to speak to a customer service representative, please contact us via telephone at (312) 450-6324 or e-mail us at [webmaster@ebertdigital.com](mailto:webmaster@ebertdigital.com).
 
 ↑ Back to top
 
-### We store information in the United States.
+#### We May Share Information With Third Party Service Providers:
 
-If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
-
-↑ Back to top
-
-### We may link to other sites or have third party services on our site we don't control.
-
-If you click on a link to a third party site, you will be taken to websites we do not control. This includes sites that include our logo because we partner with that company. This policy does not apply to the privacy practices of that website. That website sets its own cookies, collects data and /or has its own privacy practices. Read the privacy policy of other websites carefully. We are not responsible for these third party sites.
-
-Our site may also serve third party ads or content that contain the third party's own cookies or tracking technologies. We do not control the use of those technologies.
+We use trusted third-party service providers to perform certain services on our behalf, including: shipping, payment processing, data storage/management, webhosting, web analytics, fulfillment, marketing, mailing, emailing, etc. These service providers only receive personal information if such information is needed to perform their function(s), and they are not authorized to use any personal information for any other purpose(s) other than the purpose(s) set forth by Ebert Digital.
 
 ↑ Back to top
 
-### Feel free to contact us if you have more questions.
+#### Compliance with Law and Fraud Protection
 
-If you have any questions about this Policy or other privacy concerns, please [email](mailto:privacy@suntimes.com) us.
-
-You can also write to us or call at:
-
-Sun-Times Media, LLC   
-350 N. Orleans Street, 10-S   
-Chicago, IL 60654   
-Attention: Privacy Questions  
-Phone:312-321-3000
+We may, and you authorize us to use and disclose any information, including personal information: (1) we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process, or governmental request; (2) in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any personal or as otherwise required by law; (3) to other companies and organizations for credit fraud protection and risk reduction; and (4) to enforce any agreement we have with you.
 
 ↑ Back to top
 
-### We may update this Policy.
+#### You must be 18 to order from this website
 
-From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
+Ebert Digital does not knowingly collect personal information from children under the age of 18. If we learn that we have collected personally identifiable information from a child under the age of 18, we will delete that data from our systems. Please visit the FTC’s website at [www.ftc.gov](http://www.ftc.gov/) for tips on protecting children’s privacy online.
 
-© 2012 Sun-Times Media, LLC. All rights reserved.
+↑ Back to top
+
+#### Third Party Links
+
+Our Website may provide links to other third-party Websites which are outside our control and not covered by this privacy policy. This may include our name because we may partner with the third-party. We encourage you to review the privacy policies posted on these (and all) Websites.
+
+↑ Back to top
+
+#### Right to Transfer Personal Information
+
+Your personally identifiable information may be disclosed to a third party as part of a merger, sale of the company assets or acquisition, as well as in the event of an insolvency, bankruptcy or receivership, in which personally identifiable information would be transferred as one of the business assets of Ebert Digital.
+
+↑ Back to top
+
+#### Right to Opt Out
+
+We want to communicate with you only if you want to continue to hear from us.
+
+To opt out of receiving email promotions that we send you: (1) select “unsubscribe” on our subscription status page and enter the requested information or follow the unsubscribe instructions in any of our promotional emails. To opt out of telephone promotions, you can tell us when we call you.
+
+Opting out of communication with us does not affect our communications with you via telephone or email related to your orders with us. It also does not affect our use of your non-personally identifiable information.
+
+↑ Back to top
+
+#### Your California Privacy Rights
+
+If you are a California resident and would like a copy of our notice describing what categories of personal information we share with third parties or corporate affiliates for their direct marketing purposes and the names and addresses of the third parties and affiliates that received your information in the past year, please submit a request to [webmaster@ebertdigital.com](mailto:webmaster@ebertdigital.com).
+
+↑ Back to top
+
+#### U.S. Laws
+
+You understand that all information is stored in the United States and is subject to the laws of the United States.
+
+↑ Back to top
+
+#### Contacting Us
+
+If there are any questions regarding this Privacy Policy you may e-mail us at [webmaster@ebertdigital.com](mailto:webmaster@ebertdigital.com) or contact us at (312) 450-6324.
 
 ↑ Back to top
