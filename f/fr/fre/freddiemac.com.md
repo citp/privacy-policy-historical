@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605081819id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128074152id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Terms and Conditions: Privacy Policy - Freddie Mac
 
@@ -13,7 +13,7 @@ We reserve the right to change this policy in the future. Any changes to this po
   * We receive Covered Information about borrowers and loan applicants when we engage in our secondary market activities. For example, we may receive Covered Information (such as income information, payment history, social security number and other information provided by consumer reporting agencies, mortgage lenders and dealers) when evaluating whether to purchase a loan, when consummating the purchase of a loan or when reviewing information about loans in which we already have an interest. 
   * We collect Covered Information from brokers and third party originator direct principals and directors who register for our proprietary services, such as Loan Prospector, or from individuals seeking bulk sales information from the Home Steps program.
   * We receive Covered Information from individuals interested in pursuing employment with Freddie Mac and from our employees. 
-  * We receive Covered Information from other individuals who choose to contact us and provide us with information, including information we receive through this website (see below for details). 
+  * We receive Covered Information from borrowers and other individuals who choose to contact us and provide us with information, including information we receive through this website (see below for details). 
   * We maintain all of the foregoing information in the ordinary course of business. 
 
 
@@ -34,7 +34,7 @@ If you enter information into a financing or affordability calculator offered on
   * We use Covered Information to establish customer relationships with brokers and third party originator direct principals and officers.
   * We disclose Covered Information to our regulators and as otherwise required by applicable laws and regulations. We otherwise comply with applicable laws and regulations in our use and disclosure of Covered Information. 
   * We use and disclose Covered Information about our employees, as we deem appropriate for purposes related to the employment relationship in compliance with applicable laws and regulations. 
-  * We use Website Visitor Information for general statistical modeling, in order to measure the number of visitors to different pages on the website and to modify and enhance the website as we consider appropriate. We also use this information to monitor network traffic and to identify unauthorized access or unusual activity on the website. 
+  * We use Website Visitor Information for general statistical modeling, in order to measure the number of visitors to different pages on the website and to modify and enhance the website as we consider appropriate. We also use this information to monitor network traffic and to identify unauthorized access or unusual activity on the website. We may also use Website Visitor Information to respond to queries about information provided by this website and to help improve visitors’ overall experience.
   * If you send us an email or message and provide your name or other personal information, we may use this information to send an answer to your question or to deliver the requested information or service to you. We also may use this information to provide you with information in which we believe you will be interested; however, at any time, you may request that we stop doing this by contacting us in the manner described in the "How to Reach Us" section of this policy. 
   * We do not sell Covered Information to consumer marketing companies and have no plans to do so. 
 
@@ -56,7 +56,7 @@ We strive to maintain a high standard of security and privacy. However, no infor
 
 ## Special Statement Regarding the "Does Freddie Mac Own Your Mortgage?" Web Form and Self–Service Tool
 
-In connection with the federal _Making Home Affordable_ program, Freddie Mac has begun to provide a web form and related self-service tool on Freddiemac.com that enables individual borrowers to determine whether or not Freddie Mac owns their mortgage (the "Look-up Tool"). In order for Freddie Mac to be able to respond to those inquiries, individuals are asked to provide information that includes their Social Security number, first name, last name, property-related information and contact information. 
+In connection with the federal _Making Home Affordable_ program, Freddie Mac provides a web form and related self-service tool on Freddiemac.com that enables individual borrowers to determine whether or not Freddie Mac owns their mortgage (the "Look-up Tool"). In order for Freddie Mac to be able to respond to those inquiries, individuals are asked to provide information that includes their Social Security number, first name, last name, property-related information and contact information. 
 
 Freddie Mac uses and discloses the information collected via the Look-up Tool only (i) to respond to the individual's inquiry, (ii) to provide services and fulfill Freddie Mac's obligations under the federal _Making Home Affordable_ program and similar programs, and (iii) in connection with other loss mitigation activities. All information that you enter into the Look-up Tool is transmitted from the Look-up Tool to Freddie Mac via an encrypted communication channel. 
 
@@ -66,7 +66,7 @@ We do not store, use or distribute the Social Security number collected via the 
 
 If you have a question about the way your information is used or about our information practices, please contact us by sending an email to [privacy_mailbox@freddiemac.com](mailto:privacy_mailbox@freddiemac.com).
 
-Last updated: February 9, 2012
+Last updated: July 3, 2013
 
  
 
