@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortlewis.edu privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529204229id_/http%3A//www.fortlewis.edu/businesspolicies/InformationTechnology/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortlewis.edu privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128192509id_/http%3A//www.fortlewis.edu/businesspolicies/InformationTechnology/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Business Policies > Information Technology > Privacy Statement
 
