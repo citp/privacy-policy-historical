@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirchimart.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510133039id_/http%3A//www.mirchimart.com/policy-f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirchimart.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128022003id_/http%3A//www.mirchimart.com/policy-f) for the most accurate reproduction.*
 
 # MirchiMart.com - Privacy Policy | Mirchimart.com
 
