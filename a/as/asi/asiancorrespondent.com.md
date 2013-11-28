@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asiancorrespondent.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517193535id_/http%3A//asiancorrespondent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiancorrespondent.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128222423id_/http%3A//asiancorrespondent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Asia News - Politics, Media, Education | Asian Correspondent
+# Privacy Policy | Asian Correspondent
 
 **Consumer Privacy at Asian Correspondent, a Hybrid News Limited venture**
 
