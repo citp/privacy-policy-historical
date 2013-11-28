@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunhilltraveldeals.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529205733id_/http%3A//www.dunhilltraveldeals.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunhilltraveldeals.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128150509id_/http%3A//www.dunhilltraveldeals.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
