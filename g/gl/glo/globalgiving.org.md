@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgiving.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601042124id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgiving.org privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128080938id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalGiving
 
@@ -11,7 +11,7 @@ GlobalGiving adheres to the US Safe Harbor Privacy Principles of Notice, Choice,
 
 This policy describes what personal information we collect and how we use it. You can always find the most current version of our privacy policy at [www.globalgiving.org/aboutus/privacypol.html](https://web.archive.org/aboutus/privacypol.html). 
 
-**If you have any questions about our privacy policy, please contact us at[privacy@globalgiving.com](mailto:privacy@globalgiving.com).**
+**If you have any questions about our privacy policy, please contact us at[privacy@globalgiving.org](mailto:privacy@globalgiving.org).**
 
 ####  Information Collection 
 
@@ -49,7 +49,9 @@ If you donate to a registry, fundraiser, or giving group, then we will also shar
 
 Like most websites, our servers automatically collect certain technical information when you visit our site, including your Internet Protocol address, browser type, browser language, the date and time of your visit, the referring URL, and, if you have visited our Site before, one or more cookies that may uniquely identify your browser. We also collect information about your activities on the site, such as the pages you access. 
 
-In order to collect this information, the site places a cookie on your hard drive. A “cookie” is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
+In order to collect this information, the site places a cookie on your hard drive. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
+
+In addition, we use a tool called "Google Analytics" to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, what other sites they used prior to coming to this site, and Interest-based advertising or 3rd-party audience data (such as age, gender and interests). We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/). You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using [Google Ads Settings](https://www.google.com/settings/ads). 
 
 ####  Use of Information 
 
@@ -116,7 +118,7 @@ You may contact us by using the “Contact Us” links on the footer of our site
 If you still have questions or concerns regarding our privacy policy write us at: 
 
 GlobalGiving  
-[privacy@globalgiving.com](mailto:privacy@globalgiving.com)   
+[privacy@globalgiving.org](mailto:privacy@globalgiving.org)   
 1023 15th Street, NW   
 12th Floor   
 Washington, DC 20005   
@@ -126,6 +128,6 @@ Phone: 202-232-5784
 Toll Free: 1-877-605-2314   
 Fax: 202-315-2558 
 
-**If you have any questions about our privacy policy, please contact us at[privacy@globalgiving.com](mailto:privacy@globalgiving.com).**
+**If you have any questions about our privacy policy, please contact us at[privacy@globalgiving.org](mailto:privacy@globalgiving.org).**
 
-Last Modified: 2011/04/20 
+Last Modified: November 6, 2013 
