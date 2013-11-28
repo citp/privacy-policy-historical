@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platotv.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526140612id_/http%3A//platotv.tv/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platotv.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128042305id_/http%3A//platotv.tv/policy) for the most accurate reproduction.*
 
 # Platotv :: Privacy Policy
 
