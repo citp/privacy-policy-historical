@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoophot.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617213114id_/http%3A//scoophot.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoophot.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128192334id_/http%3A//scoophot.com/doc/privacy) for the most accurate reproduction.*
 
 # Privacy - ScoopHot
 
