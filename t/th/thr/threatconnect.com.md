@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the threatconnect.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506153736id_/http%3A//www.cybersquared.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threatconnect.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128114324id_/http%3A//www.cybersquared.com/privacy) for the most accurate reproduction.*
 
-# Cyber Squared Inc. Privacy Policy - Cyber Squared
+# Cyber Squared Inc. Privacy Policy | Cyber Squared
 
 Welcome to Cyber Squared Inc. (“ **Cyber Squared** ”, “ **we** ”, “ **us** ”, or “ **our** ”) and the various Sites operated by us (the “Sites”). We provide our users (collectively, “ **you** ” or “ **your** ”) with resources and information about cyber security,  our products, related services  and white papers, (collectively, the “ **Services** ”).  We know you are concerned about your privacy, so we developed this privacy policy (“ **Privacy Policy** ”) to explain how we collect, use, and disclose information from and/or about you.  Capitalized terms used in the Privacy Policy not defined herein will have the meaning given to them in their appropriate license or terms of service agreement.
 
@@ -32,11 +32,11 @@ Personal Information
 
 We will use your Personal Information to:
 
-  * Provide you with Services and customer support, including administering your account;
-  * Market our products and services to you and those of third parties we believe may be of interest to you;
-  * Respond to your requests, resolve disputes and/or troubleshoot problems;
-  * Improve the quality of the Sites and the Services; and
-  * Communicate with you about the Sites and the Services.
+    * Provide you with Services and customer support, including administering your account;
+    * Market our products and services to you and those of third parties we believe may be of interest to you;
+    * Respond to your requests, resolve disputes and/or troubleshoot problems;
+    * Improve the quality of the Sites and the Services; and
+    * Communicate with you about the Sites and the Services.
 
 
 
@@ -56,11 +56,11 @@ Personal Information
 
 We may disclose certain Personal Information:
 
-  * To third party vendors who help us provide the Services or the Sites;
-  * To third parties to whom you ask us to send Personal Information, including other Registered Users  to whom you authorize us to provide certain  Personal Information;
-  * To a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “ **Affiliates** ”), in the event we have such Affiliates in the future, which case we will require our Affiliates to honor this Privacy Policy;
-  * To a company that merges with us, acquires us, or purchases our assets, or a successor in interest in bankruptcy, in which case such company may continue to process your Personal Information as set forth in this Privacy Policy; or
-  * If we believe in good faith that such disclosure is necessary to (i) resolve disputes, investigate problems, or enforce our Terms of Service and license agreements; (ii) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (iii) protect and defend our rights or property or the rights and property of you or third parties.
+    * To third party vendors who help us provide the Services or the Sites;
+    * To third parties to whom you ask us to send Personal Information, including other Registered Users  to whom you authorize us to provide certain  Personal Information;
+    * To a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “ **Affiliates** ”), in the event we have such Affiliates in the future, which case we will require our Affiliates to honor this Privacy Policy;
+    * To a company that merges with us, acquires us, or purchases our assets, or a successor in interest in bankruptcy, in which case such company may continue to process your Personal Information as set forth in this Privacy Policy; or
+    * If we believe in good faith that such disclosure is necessary to (i) resolve disputes, investigate problems, or enforce our Terms of Service and license agreements; (ii) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (iii) protect and defend our rights or property or the rights and property of you or third parties.
 
 
 
