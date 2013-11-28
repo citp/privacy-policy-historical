@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math-salamanders.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424063408id_/http%3A//www.math-salamanders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math-salamanders.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128061700id_/http%3A//www.math-salamanders.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Math Salamanders Privacy Policy
 
@@ -18,13 +18,29 @@ Personal information received from any visitor will be used only for internal pu
 
 Use of Cookies and Web Beacons
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables Math Salamanders to recall your specific information on subsequent visits. 
+We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. 
+
+The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables Math Salamanders to recall your specific information on subsequent visits. 
 
 You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. 
 
 A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. 
 
 They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site. 
+
+This website will not: 
+
+  * Share any personal information with third parties.
+
+
+
+You can disable any cookies already stored on your computer, but these may stop our website from functioning properly. 
+
+Using the link below open the WikiHow website in a new browser window with information about how to disable cookies. 
+
+  * [ How to disable cookies (WikiHow website) ](http://www.wikihow.com/Disable-Cookies)
+
+
 
 Third Party Advertising - Google Adsense and Infolinks
 
@@ -77,3 +93,14 @@ The Math Salamanders hope you enjoy using these free printable Math worksheets a
 We welcome any comments about our site on the Facebook comments box at the bottom of every page. 
 
 comments received about this page so far! 
+
+**Share this page:  **  
+
+
+What's This?
+
+| | | |   
+---|---|---|---|---  
+| | |   
+  
+Enjoy this page? Please pay it forward. Here's how...
