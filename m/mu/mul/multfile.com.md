@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multfile.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620002518id_/http%3A//www.multfile.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multfile.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128045740id_/http%3A//www.multfile.com/help/privacy.php) for the most accurate reproduction.*
 
 # MultFile - Host your files for free to multiple file hosting servers with a single click.
 
