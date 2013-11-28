@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cl-p.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528034641id_/http%3A//www.cl-p.com/SiteInfo/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cl-p.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128181727id_/http%3A//www.cl-p.com/SiteInfo/Privacy_Statement) for the most accurate reproduction.*
 
 # Connecticut Light & Power : Privacy Statement
 
@@ -88,7 +88,7 @@ As an important security measure, never tell anyone your password, and always lo
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100 percent secure. Although we use the best available technology (i.e., encryption, firewalls, access control software, etc.) to protect your information, we cannot guarantee the security of any information you transmit to us through our online products or services. As such, you provide information at your own risk. Once we receive your transmission, we employ rigorous security measures to protect against the loss, misuse and alteration of information on our systems. 
 
-Please note that any information that you post on social media is visible to others and is essentially a public communication. The Company is not responsible for safeguarding the content of any information that you or others post on Company social media. Please do not post any information that you or others do not wish to be publicly disclosed. Refer to [Social Media Terms of Service](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=4294987091&libID=4294987205 "Social Media Terms of Service") for additional information.
+Please note that any information that you post on social media is visible to others and is essentially a public communication. The Company is not responsible for safeguarding the content of any information that you or others post on Company social media. Please do not post any information that you or others do not wish to be publicly disclosed. Refer to [Social Media Terms of Service](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=4294987092 "Social Media Terms of Service") for additional information.
 
 Some states and public utility commissions which regulate the Company’s utility businesses have specific requirements regarding the disclosure and protection of certain customer and personal information, including MA (201 CMR 17.00: M.G.L. c. 93H) and CT (C.G.S. Ch. 743dd Section 42-470- 42-473). 
 
