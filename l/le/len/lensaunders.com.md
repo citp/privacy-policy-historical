@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lensaunders.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602084522id_/http%3A//www.lensaunders.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lensaunders.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128164201id_/http%3A//www.lensaunders.com/privacy.html) for the most accurate reproduction.*
 
 # Len Saunders, Health, Fitness, Wellness
 
