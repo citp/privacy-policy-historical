@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openproj.org privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529020441id_/http%3A//slashdotmedia.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openproj.org privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128191842id_/http%3A//slashdotmedia.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Slashdot Media
 
@@ -11,7 +11,7 @@ Dice Career Solutions, Inc. and Slashdot Media (“Slashdot Media”), subsidiar
 
 Slashdot Media complies with the United States (“US”)/European Union (“EU”) and US/Swiss Safe Harbor frameworks as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Slashdot Media has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
 
-We self-certify compliance with
+[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)
 
 [](http://www.export.gov/safeharbor)[](https://privacy.truste.com/privacy-seal/Slashdot-Media/validation?rid=3326e79e-56f0-46bb-a027-ed1bd90456d6 "TRUSTe European Safe Harbor certification")
 
