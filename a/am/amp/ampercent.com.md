@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ampercent.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528131525id_/http%3A//www.ampercent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampercent.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128204613id_/http%3A//www.ampercent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ampercent
+# Privacy Policy
 
 **Cookies** : This website uses cookies to remember your information when you make a comment. This includes your name and email address as mandatory fields. These cookies are for visitor convenience and is purely optional. When you visit this site at a later point of time, these cookies will help you save time from typing the fields again.
 
