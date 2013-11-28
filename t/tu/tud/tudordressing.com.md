@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tudordressing.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520183035id_/http%3A//www.tudordressing.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tudordressing.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129000330id_/http%3A//www.tudordressing.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : Medieval Clothing & Costumes, Renaissance Outfits for Men & Women: TudorDressing.com
+# Privacy Notice : Medieval Clothing & Costumes, Medieval Dresses, Clothes - TudorDressing
 
   
 
