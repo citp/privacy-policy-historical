@@ -1,49 +1,49 @@
-> *The following text is extracted and transformed from the autovillage.co.uk privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520115152id_/http%3A//www.britishnic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autovillage.co.uk privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128162637id_/http%3A//www.autovillage.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# British NIC - UK Domain Names Register
+# AutoVillage.co.uk Privacy Policy
 
-**Privacy Policy covering British NIC**
+## Privacy Policy
 
-UK Internet Sites Limited.   
-Dept. British NIC,   
-Olympic House, 142 Queen Street,   
-Glasgow, G1 3BU,   
-United Kingdom. 
+#### 1\. This Privacy Policy
 
-**[http://www.britishnic.com](http://www.britishnic.com/)**
+AutoVillage.co.uk is committed to protecting your personal information and other data provided to us via this and any other AutoVillage.co.uk web site ("Web Site"). Please read this Privacy Policy carefully as it contains important information about the use of information that you provide to us. This Privacy Policy explains what information AutoVillage.co.uk collects about you, and how we collect and use your information, including setting out the circumstances where we could provide it to third parties. You should also read the separate [Site Visitor Agreement](https://web.archive.org/web/20131128162637id_/http%3A//www.autovillage.co.uk/site-visitor-agreement "Site Visitor Agreement") applicable to this Web Site.
 
-**General policy**   
-British NIC respects your privacy. The information that you provide us with, or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/emails for publication and the like may be collected by others. If you have any concerns, questions or comments please [contact us](https://web.archive.org/web/20120520115152id_/http%3A//www.britishnic.com/contact-details.html). 
+#### 2\. What information do we collect and what do we do with it?
 
-**Email newsletters**   
-British NIC operates email newsletters on its site. These are free to sign up to. What we ask of you is your email address, at times we may ask you for further information, which is used for demographic purposes. We do not give our email lists out to other parties unless you choose to opt in to a scheme whereby third parties may use your details for their own purposes. Our newsletters may contain promotions or advertisements from various businesses or information on other sites or services that we offer. If at any time you wish to unsubscribe from our newsletter you may do so by visiting the site you signed up with and using the unsubscribe facility. You may also email the website editor although it may take a longer time before your email address is removed than with the automatic unsubscribe facility. 
+2.1 To take advantage of some of our services you will be required to log on or register with the Web Site. We may use your IP address to help diagnose problems with our server and to administer our Web Site. The information will be collected when you register with the Web Site in order to use any of the services available via the Web Site.
 
-**Registration**   
-Our site may require you to register with us. This is to allow access to extra services that we provide for you. The information is not used for sending you newsletters or promotions unless stated. 
+2.2 If you choose to advertise on the Web Site certain personal information or data (including credit card and billing information) about you will be captured electronically or otherwise. In the event that such personal information or data is part of your advert, such personal information or data will be posted to the Web Site may by viewed by users of the Web Site.
 
-**Third party sites**   
-Our site operates with third party sites (such as online shops). We may, on occasion, share non-personal aggregated information to these third parties. 
+2.3 We may use the information that we collect to personalise your experience on the Web Site, to help you log on in future and to continue to use the Web Site, and to help us select services or materials for inclusion on the Web Site that may be of interest to you. We may need to pass your information to third parties who help us to maintain, administer or develop the Web Site but, if so, that information is only given to those third parties for that limited purpose.
 
-**Cookies**   
-We use 'cookies' to track advertising information and website usage. On certain sites, or third party sites we may utilise cookies for other purposes such as order tracking in online shops or for targeting advertisements to particular types of visitor. 
+2.4 We also monitor traffic patterns and usage of our Web Site to help us improve our Web Site design and layout. We may pass this information to our partners or other third parties but it will not contain any personally identifying information.
 
-**Surveys**   
-On occasion we may conduct online surveys. This is used to gauge our service, collect demographic information and other information that we may find useful. These surveys are optional. We may share non-personal, aggregated information with third parties. 
+2.5 AutoVillage.co.uk may want to contact you to notify you of news about AutoVillage.co.uk, changes to the Web Site, special events or new services or products that we think may interest you. AutoVillage.co.uk may also use your details and information to communicate to you offers for services or goods from other websites owned by AutoVillage.co.uk group or other companies which we think may be of interest to you. However, AutoVillage.co.uk will not contact you for these purposes unless you authorise us to do so by either ticking the relevant boxes (i.e. during registration on the Web Site) to authorise AutoVillage.co.uk to make such contact, or you provide such authorisation in writing to AutoVillage.co.uk or electronically via the Web Site (if applicable). If, at any time thereafter, you change your mind and would rather not be contacted by AutoVillage.co.uk (or the third parties described above) to receive such information, please send an email to support@AutoVillage.co.uk with an explanation that you no longer wish to receive such information. In those circumstances, AutoVillage.co.uk will not contact you again in relation to the information described above in this paragraph 2.5. However, AutoVillage.co.uk and/or its group companies will still use your details to send you information and communications in relation to the services or products for which you have registered.
 
-**Security**   
-While we strive to keep the information that you supply directly or indirectly secure please be aware that the Internet is not a fully secure medium. 
+#### 3\. Sharing of Information with Third Parties
 
-**Competitions**   
-From time to time we operate competitions and promotions. Participation in these is optional. Information submitted may be submitted to third parties, check individual competition rules. You may also be given an option to sign up for a free email newsletter, opting out of this does not disqualify you from a competition. 
+3.1 From time to time, AutoVillage may pass your details to carefully selected, trusted third parties so that they can also provide you with details of other services or products that might be of interest to you. If you do not wish us to do so, you should follow the procedure set out in paragraph 2.5 above and we will not provide your information to third parties for such purposes.
 
-**Usage of information**   
-If requested we may submit your information to local or government authorities. 
+3.2 We follow security procedures as required by the UK Data Protection Act 1998, in the storage and disclosure of personal information that you have given us, to prevent unauthorised access to such information. At times we may let you know about the products or services provided by carefully selected third parties. We will only deal with partners who comply with the UK Data Protection Act 1998 as amended from time to time) and any other applicable data protection legislation or regulations, or with whom we are satisfied have appropriate measures to protect data. However, BuyYourLtd shall have no liability to you in respect of any breach of security by a third party.
 
-**Corrections/updates**   
-You may unsubscribe from our newsletters using the facilities available on the website you signed up with or by emailing the relevant online editor. If you have any problems please [contact us](https://web.archive.org/web/20120520115152id_/http%3A//www.britishnic.com/contact-details.html). 
+#### 4\. Your Consent
 
-**Policy changes**   
-By using our site you agree to accept this privacy policy and are aware that our policy may change with time. Any changes to this policy will appear on this web page. 
+4.1 You acknowledge and agree that:
 
-The price quoted includes all registration fees for Nominet, domain server updates at Nominet, parking and re-delegation of TAG to another ISP's. You have nothing else to pay to secure your chosen domain name. Other services available on request. All prices inc. VAT - no hidden charges.  
+4.1.1 in the course of using this Web Site or registering with it and any services offered via this Web Site, certain information about you will be captured electronically or otherwise and transmitted to AutoVillage or and, potentially, to any third parties as set out above or to third parties who host our web servers or assist us in maintaining this Web Site; and
 
+4.1.2 AutoVillage may send your information outside of the European Economic Area for processing or use in accordance with this Privacy Policy.
+
+4.2 You consent to the use, storage, or processing of your personal information by AutoVillage (or any third party AutoVillage uses for carrying out credit checks) for the purposes of carrying out any credit checks in the event that you enter into any financial transaction with AutoVillage.
+
+4.3 If ordered by a court of competent jurisdiction to provide any of your personal information collected by AutoVillage as described in this Privacy Policy, you consent to AutoVillage providing such personal information to that court in accordance with the court's instructions.
+
+4.4 By using this Web Site, you expressly agree to the collection and use of your information as set out above for the purposes set out in this Privacy Policy.
+
+#### 5\. Data Protection Indemnity
+
+For the purpose of the Data Protection Act 1998, you acknowledge that in the course of you advertising goods or services on our Web Site, certain personal data about your employees, agents or subcontractors or certain personal data of third parties appearing in the advertising you requested to appear on our Web Site may be captured electronically or otherwise by us. If this is the case, you shall ensure that you have obtained the express consent of any employees, agents, subcontractors or any applicable third parties to the transfer of their personal data to us to use, store and process such personal information for the purposes set out in this Privacy Policy, including where such personal data forms part of the advertising and is posted to the Web Site for accessed by users inside and outside of the European Economic Area. You shall indemnify AutoVillage from and against all claims by any employees, agents, subcontractors or any third parties arising out of your failure to obtain the consent described in this paragraph 5.
+
+#### 6\. Our Responsibilities - How does AutoVillage protect Your Information?
+
+6.1 When you enter into on-line credit or other payment card transactions (e.g. ordering advertising services on the Web Site), we offer the use of a secure server. The secure server software encrypts the information that you input before it is transmitted to us. To prevent unauthorised access, we follow legally required security procedures in the storage and disclosure of information that you have given to us. This means that sometimes we may ask for proof of identity before we disclose personal information to you. 
