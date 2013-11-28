@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scrapu.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508152653id_/http%3A//www.scrapu.com/2009/05/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapu.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128133725id_/http%3A//www.scrapu.com/2009/05/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Scraps Facebook Status
+# Privacy Policy Images, Status, Sms and Pictures
 
 Thank you for visiting www.scrapu.com. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site.
 
