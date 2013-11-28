@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the practicalecommerce.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615194722id_/http%3A//www.practicalecommerce.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalecommerce.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128145342id_/http%3A//www.practicalecommerce.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Practical eCommerce
+# Privacy Policy » Practical Ecommerce
 
 Practical eCommerce is committed to protecting your privacy. That is why we have adopted this Privacy Policy. It is intended to describe how we use and process your personal information. Please note that by visiting and using Practical eCommerce, you are accepting the practices described in this Privacy Policy.
 
@@ -23,7 +23,7 @@ The purpose of this information is actually two-fold. One, Practical eCommerce h
 
 **What about cookies?**
 
-Cookies are small text files that are transferred to your computer's hard drive through your web browser from our web server. Practical eCommerce uses cookies in some situations as a means of providing personalization features to our visitors. For example, we use cookies to remember personal settings (such as a login or password) that you may have chosen at our website.
+Cookies are small text files that are transferred to your computer’s hard drive through your web browser from our web server. Practical eCommerce uses cookies in some situations as a means of providing personalization features to our visitors. For example, we use cookies to remember personal settings (such as a login or password) that you may have chosen at our website.
 
 You can choose whether or not to accept cookies by changing the settings of your browser. Typically, by accessing the browsers help feature you can obtain information on how to prevent your browser from accepting all cookies or to notify you when a cookie is being set. If you choose no to accept these cookies, your experience at our website and other websites may be diminished and some features may not work as intended.
 
@@ -43,6 +43,6 @@ Practical eCommerce will disclose your personal information or any of its log fi
 
 Practical eCommerce uses reasonable precautions to keep the information disclosed to us secure. Practical eCommerce reserves the right to transfer information in connection with the sale of all or part of Practical eCommerce capital stock or assets to any third party. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information.
 
-Practical eCommerce also provides "links" to a wide variety of other websites on the Internet. We are not responsible for their privacy policies or how those websites manage information about their users. We strongly urge you to check with them to determine their privacy policy.
+Practical eCommerce also provides “links” to a wide variety of other websites on the Internet. We are not responsible for their privacy policies or how those websites manage information about their users. We strongly urge you to check with them to determine their privacy policy.
 
 Any changes to this Privacy Policy will be posted on this page.
