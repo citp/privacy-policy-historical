@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finduslocal.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514222028id_/http%3A//www.finduslocal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finduslocal.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128061826id_/http%3A//www.finduslocal.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
