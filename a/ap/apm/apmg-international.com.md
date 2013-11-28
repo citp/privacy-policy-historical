@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the apmg-international.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209043910id_/http%3A//www.apmg-international.com/Archive/home-old/Legal-Policies/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apmg-international.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128142610id_/http%3A//www.apmg-international.com/en/legal-policies/privacy-policy.aspx) for the most accurate reproduction.*
 
-# APMG-International - Privacy Policy
-
-## Privacy Policy
+# Privacy Policy | APMG-International
 
 We have a legal duty to protect the privacy of all personal and business data obtained from you while you are using this website. This privacy policy explains what information we may collect from you and the purposes for which it will be used. By using this website you give your agreement to the data practices described in this policy.
 
@@ -10,24 +8,15 @@ This website only collects personal and business data from you with your permiss
 
 Some web usage and technical information is collected by this website to help us improve our service to you, but this does not contain any personal data.
 
-  
-
-
 ### Changes to this policy
 
 We may make changes to this privacy policy at any time. Changes will be posted here and are effective immediately. Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
-
-  
-
 
 ### Information that you provide to us
 
 We collect and process data that you provide for specific purposes. You will be asked to provide information about yourself when you use certain site facilities, in order to complete your request or transaction. This may include personal information such as your name, email addresses, mailing address and telephone number. We use this data to provide you with the information, products or services that you request from us and to communicate with you. We may keep a record of any contacts you have with us. We may use the information that you provide for record keeping, statistical, or research purposes.
 
 We only retain this information where required to do so by law; for the length of time needed to provide the service or information you have requested (including any retention period specified by law or by government policy), or for the length of time that you choose to store information or permit us to contact you if you have registered with our website.
-
-  
-
 
 ### Website usage information
 
@@ -41,19 +30,15 @@ As well as the information that you provide to us as set out above, we receive a
 
 Web usage information is collected by our web server and from other sources including search engines, internet service providers, page tagging techniques including JavaScript, and cookies. We use IP addresses to analyze trends, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-  
-
+The Data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA") and may also be processed by staff (who work for us or for one of our suppliers) operating outside the EEA. By submitting your personal Data, you agree to this transfer, storing and/or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with our Privacy Policy.
 
 ### Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-  
-
-
 ### Cookies
 
-Cookies are small files that are often created when you visit a website, and which are stored in the cookie directory of your computer. A cookie often includes an anonymous unique identifier. Cookies do not damage your computer. Each website can send its own cookie to your browser if your browser's preferences allow it, but to protect your privacy your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. You do not have to accept cookies. You can decide if you want to accept cookies by changing the settings on your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. 
+Cookies are small files that are often created when you visit a website, and which are stored in the cookie directory of your computer. A cookie often includes an anonymous unique identifier. Cookies do not damage your computer. Each website can send its own cookie to your browser if your browser's preferences allow it, but to protect your privacy your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. You do not have to accept cookies. You can decide if you want to accept cookies by changing the settings on your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
 
 You can find out about cookies and how to manage them at the [AboutCookies.org](http://www.aboutcookies.org/) website.
 
@@ -79,12 +64,9 @@ This website contains links to other websites. Anonymous visit or session inform
 
 This privacy policy applies only to our website. We are not responsible for privacy practices within any other websites. You should always be aware of this when you leave this website and we encourage you to read the privacy statement on any other website that you visit.
 
-  
-
-
 ### Controlling your personal information
 
-Where you have consented to receiving communications from us or are currently receiving material relating to products or services, you may at any time ask us to cease sending you such material by [contacting us](http://www.apmg-international.com/Archive/home-old/ContactUs/Contact_APMG-Int.aspx).
+Where you have consented to receiving communications from us or are currently receiving material relating to products or services, you may at any time ask us to cease sending you such material by [contacting us](http://www.apmg-international.com/en/contact/contact-apmg-en.aspx).
 
 We will not sell, distribute or lease your personal information to third parties.
 
