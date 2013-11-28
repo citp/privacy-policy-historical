@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the origami-instructions.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602083202id_/http%3A//origami-instructions.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the origami-instructions.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128094224id_/http%3A//www.origami-instructions.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Origami-Instructions.com Privacy Policy
 
@@ -21,7 +21,7 @@ Cookies and Web Beacons
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-We use CPX Interactive Inc and other third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here ](http://www.google.com/privacy_ads.html). 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here ](http://www.google.com/privacy_ads.html). 
 
 Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.
 
