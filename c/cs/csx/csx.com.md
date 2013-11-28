@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531032443id_/http%3A//csx.com/index.cfm/about-the-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128092530id_/http%3A//www.csx.com/index.cfm/about-the-site/privacy) for the most accurate reproduction.*
 
 # Privacy - CSX
 
