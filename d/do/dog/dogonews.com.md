@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the dogonews.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204358id_/http%3A//www.dogonews.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogonews.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128071854id_/http%3A//www.dogonews.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Welcome to DOGOnews' website.  We respect and protect the privacy of our users and intend our site to be a safe place for everyone who visits and corresponds with us.  We are committed to keeping your information confidential.  Our information practises are designed to comply with the United States Federal Trade Commission's Children's Online Privacy Protection Act (COPPA).  No action is required on your part for this benefit. You should recognize, however, that there is no such thing as perfect security on the Internet.  Our information collection practices are described below.
+Welcome to DOGOnews' website.  We respect and protect the privacy of our users and intend our site to be a safe place for everyone who visits and corresponds with us.  We are committed to keeping your information confidential.  Our information practices are designed to comply with the United States Federal Trade Commission's Children's Online Privacy Protection Act (COPPA).  No action is required on your part for this benefit. You should recognize, however, that there is no such thing as perfect security on the Internet.  Our information collection practices are described below.
 
 **Collection, Use and Disclosure of Information**
 
 The only use we make of personal information (usually names and email addresses) is to respond to questions and/or requests for information from a user.  We do not otherwise make use of personal information, nor do we provide it to third parties.
 
-While you are using our website, we may also collect certain non-personally-identifiable information about you, such as the URL you just came from, the next URL you go, what browser you are using (e.g. Safari, Internet Explorer), the domain name of your Internet Service Provider (e.g. AOL. Earthlink), and your IP address.  We also use "cookies", which are pieces of information that websites transfer to your computer's hard drive for record-keeping purposes and to track advertising served to you.
+While you are using our website, we may also collect certain non-personally-identifiable information about you, such as the URL you just came from, the next URL you go, what browser you are using (e.g. Safari, Internet Explorer), the domain name of your Internet Service Provider (e.g. AOL, Earthlink), and your IP address.  We also use "cookies", which are pieces of information that websites transfer to your computer's hard drive for record-keeping purposes and to track advertising served to you.
 
 **Parental Consent**
 
