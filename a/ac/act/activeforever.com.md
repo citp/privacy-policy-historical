@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the activeforever.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325164328id_/http%3A//www.activeforever.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeforever.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128144528id_/http%3A//www.activeforever.com/t/PrivacyPolicy) for the most accurate reproduction.*
 
-# ActiveForever.com Privacy Policy
+# Privacy policy - ActiveForever
 
 #### Our Commitment to Privacy
 
-Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs. 
+Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
 
 #### What Information Do We Collect?
 
