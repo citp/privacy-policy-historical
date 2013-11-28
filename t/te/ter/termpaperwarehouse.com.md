@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the termpaperwarehouse.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107063551id_/http%3A//www.termpaperwarehouse.com/about/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termpaperwarehouse.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128062257id_/http%3A//www.termpaperwarehouse.com/about/your-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TermPaperWarehouse.com
 
@@ -6,11 +6,11 @@
 
 Welcome to TermPaperWarehouse.com! When you register with us or use TermPaperWarehouse.com, you provide information to us. Below, we explain what information is collected, how it is used to your benefit, under what circumstances your information may be disclosed, and the choices that you have with your information
 
-#### Information Collected by TermPaperWarehouse.com
+#### Information Collected by Our Site
 
-TermPaperWarehouse.com is provided by The Paper Database, Inc. and its affiliates ("we" or "us"). Registration with us is optional, but please keep in mind that you may not be able to use many of the services on TermPaperWarehouse.com unless you register with us. Depending on how you interact with TermPaperWarehouse.com, you provide us with information, which may include: (a) your name, email address, age (to comply with legal requirements), user name, password, postal code, gender and other registration information; (b) your interaction with TermPaperWarehouse.com features and advertisements; (c) transaction-related information, such as, when you make purchases, respond to any offers, or download software from us; and (d) information you provide us when you contact us for help.
+TermPaperWarehouse.com is provided by Collective Research and its affiliates ("we" or "us"). Registration with us is optional, but please keep in mind that you may not be able to use many of the services on TermPaperWarehouse.com unless you register with us. Depending on how you interact with TermPaperWarehouse.com, you provide us with information, which may include: (a) your name, email address, age (to comply with legal requirements), user name, password, postal code, gender and other registration information; (b) your interaction with TermPaperWarehouse.com features and advertisements; (c) transaction-related information, such as, when you make purchases, respond to any offers, or download software from us; and (d) information you provide us when you contact us for help.
 
-We also collect other non-personally identifiable data, which may include your IP address and what browser you are using so that we can improve TermPaperWarehouse.com's services to you.
+We may also collect other information when users interact with TermPaperWarehouse.com, such as city, state, zip code, country and IP address that does not identify a person individually, so that we can improve TermPaperWarehouse.com's services to you.
 
 #### Use of Information
 
@@ -18,7 +18,9 @@ We may use your information (a) to deliver the TermPaperWarehouse.com services a
 
 We may use the non-personally identifiable information, like your IP address, to analyze statistically site usage and to customize our site's content, layout and services. The resulting information will allow us to improve our services and better understand and serve our users.
 
-We do not sell customer lists. We will not share any information that identifies you personally with any third party for marketing purposes. We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to protect our rights and property or the rights and property of the public. We may also cooperate with law enforcement agencies in any official investigation and we may disclose your personally identifiable information to the relevant agency in doing so.
+We do not sell customer lists. We will not share any information that identifies you personally with any third party for marketing purposes. We will disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority or to protect our rights and property or the rights and property of the public. We may also cooperate with law enforcement agencies in any official investigation and we may disclose your personally identifiable information to the relevant agency in doing so. 
+
+We use third party companies to collect information and serve ads when you visit this Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this Website, other Websites and other forms of media about goods and services of interest to you. This site will not provide any personally identifiable information about you to third parties. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp).
 
 We may use agents and contractors in order to help operate TermPaperWarehouse.com and to fulfill your request for products and services. If such agents and contractors have access to personally identifiable information, they are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for us.
 
@@ -48,7 +50,7 @@ This Privacy Policy applies to web sites, services and applications that are own
 
 #### Acquisition
 
-We reserve the right to transfer your personal information in the event of a transfer of ownership of The Paper Database, Inc., such as acquisition by or merger with another company. If such an acquisition will result in a material change to this privacy policy, you will be provided with notice and information about the choices you have before the transfer takes effect. 
+We reserve the right to transfer your personal information in the event of a transfer of ownership of Collective Research, such as acquisition by or merger with another company. If such an acquisition will result in a material change to this privacy policy, you will be provided with notice and information about the choices you have before the transfer takes effect. 
 
 #### Security
 
@@ -74,9 +76,9 @@ privacy@termpaperwarehouse.com
 
 TermPaperWarehouse.com
 
-127 S. Brand Blvd., Suite 109
+8939 1/2 Santa Monica Blvd
 
-Glendale, CA 91204 USA
+West Hollywood, CA 90069 USA
 
 #### If You Are a Resident of California
 
@@ -88,10 +90,10 @@ If you are a California resident, in addition to the rights set forth above, you
 
 
 
-You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@termpaperwarehouse.com
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacyTerm Paper Warehousetermpaperwarehouse.com.
 
 #### Changes
 
 We may update this Privacy Policy from time to time. Therefore, you should review this Policy periodically. If there are significant changes to our information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from us, as well as for special features and services not described in this Policy that may be introduced in the future.
 
-#### Last Updated 01-21-2009
+#### Last Updated: 05-11-2012 
