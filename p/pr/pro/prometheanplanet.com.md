@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prometheanplanet.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602022925id_/http%3A//www.prometheanplanet.com/en-us/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prometheanplanet.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128143400id_/http%3A//www.prometheanplanet.com/en-gb/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Promethean Planet
 
-This policy (together with Our [terms of use](https://web.archive.org/en-us/support/terms-and-conditions/) and any other documents referred to on it) sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us. Please read the following carefully to understand Our views and practices regarding your personal data and how We will treat it.
+This policy (together with Our [terms of use](https://web.archive.org/en-gb/support/terms-and-conditions/) and any other documents referred to on it) sets out the basis on which any personal data We collect from you, or that you provide to Us, will be processed by Us. Please read the following carefully to understand Our views and practices regarding your personal data and how We will treat it.
 
 For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is Promethean Limited of Promethean House, Lower Philips Road, Whitebirk Industrial Estate, Blackburn, Lancashire, BB1 5TH, United Kingdom.
 
@@ -37,7 +37,7 @@ d) To recognise you when you return to Our Site.
 
 3.4 Please note that Our advertisers may also use cookies, over which We have no control.
 
-3.5 For more detail about the information we collect and how we use cookies, please read our [Cookies Policy](https://web.archive.org/en-us/support/cookies-policy/).
+3.5 For more detail about the information we collect and how we use cookies, please read our [Cookies Policy](https://web.archive.org/en-gb/support/cookies-policy/).
 
 ### 4\. WHERE WE STORE YOUR PERSONAL DATA
 
@@ -80,7 +80,7 @@ a) In the event that We sell or buy any business or assets, in which case We may
 
 b) If Promethean Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-c) If We are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/en-us/support/terms-and-conditions/) or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Promethean Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection
+c) If We are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/en-gb/support/terms-and-conditions/) or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Promethean Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection
 
 ### 7. CALIFORNIA USERS
 
