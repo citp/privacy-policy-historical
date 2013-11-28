@@ -1,86 +1,56 @@
-> *The following text is extracted and transformed from the statecolumn.com privacy policy that was archived on 2011-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110115122541id_/http%3A//www.thestatecolumn.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statecolumn.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128234604id_/http%3A//www.statecolumn.com/privacy) for the most accurate reproduction.*
 
-# The State Column
+# Privacy | The State Column
 
-Last Updated: February 1, 2010
+This Privacy Policy discloses the privacy practices for the www.thestatecolumn.com website and all mobile websites and applications associated therewith (the "Site"), which is provided by The State Column ("we" or "us"), a publication of The State Column LLC. This Privacy Policy governs our collection of information from you through your use of the Site. It does not apply to any information you may provide to us through other means; for example, via mail or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this Site, you agree that your visit and/or download or use of a mobile application, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to us at [feedback@statecolumn.com](mailto:feedback@statecolumn.com) or The State Column, 933 N. Kenmore St., Arlington, VA 22201
 
-At thestatecolumn.com, we understand that privacy is important, and we've created this policy to give you information about how we collect and use personal information from users of the Thestatecolumn.com Web site. We also encourage you to review our [Terms of Service ](https://web.archive.org/terms/index.php)for information regarding rights, usage, trademarks, licenses, liability, trademark, and content ownership. 
+## TYPES OF INFORMATION WE COLLECT
 
-Thestatecolumn.com is a subsidiary of the The State Column, LLC.  We reevaluate this policy on an ongoing basis, and we value your feedback. If you have questions or concerns regarding our privacy policy, we ask that you contact us at:
+The information we gather falls into two categories: (1) information voluntarily supplied by users to the Site through optional registration; and (2) tracking information gathered as users navigate through the Site.
 
- [info@thestatecolumn.com](mailto:info@thestatecolumn.com)
+**Information You Provide To Us**    
+We may collect and store information, personal or otherwise, that you voluntarily supply either while on our Site or in responding via email in connection with a feature provided on our Site. Some examples of this type of information include demographic information and personal information (such as your name, address, or email address) that you electronically submit when you register for certain features on our Site, participate in sweepstakes or contests offered on the Site, or sign up for email newsletters, and information that you post on message boards or other public posting areas on our Site. We may also ask for information (including a credit card number) from those who purchase a subscription or conduct other transactions on our Site. The information supplied will help us provide the product or service requested, offer you more personalized features and tailor the Site to your interests. Supplying such information is entirely voluntary. However, if you choose not to supply information requested, we may be unable to provide you with services made available to other users of the Site.
 
-Please note that this privacy policy may change from time to time. We will post the new policy on this page, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, our Web site will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the bottom of the page.1. The Thestatecolumn.com Online Privacy Policy
+We also may collect and store information that is generated automatically as you navigate through our Site. For example, to help make the Site more responsive to the needs of users, we employ a standard feature of browser software, called a "cookie," to assign each user a unique, random number that resides on a user's computer. The cookie does not personally identify the user; it merely identifies the computer with which the user accesses the Site. Unless a user voluntarily identifies himself or herself (through registration, for example), the Site will not be able to identify the identity of the user, even if a cookie is assigned to a user's computer. The only personal information a cookie can contain is information supplied by a user. We may also track device identification statistics and other non-identifying information for the purpose of analytics, push notifications, and error reporting. By showing how and when visitors use the Site, cookies help us track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you have entered preference information before. Of course, you are free to set your web browser not to accept cookies; however, doing so may render your computer unable to take advantage of the personalized features enjoyed by other users of the Site.
 
-Thestatecolumn.com collects data, including personally identifying information, from people who use the politicsnj.com Web site. This section of our privacy policy explains how we collect and use this data.
+We also may use web beacons (also known as "single-pixel GIFs") to access cookies and to count users who visit our Site or open our HTML-formatted email messages. And our Site's servers automatically collect limited information about your computer's connection to the Internet, including your IP address. The IP address is a number that lets computers attached to the Internet know where to send data - such as the web pages users view. An IP address does not personally identify a user. We use this information to deliver the Site's content to you upon request and to measure traffic within the Site.
 
-#### Information we collect and how we use it
+We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about users of our Site and about activity that occurs within our Site, and we may use this information to, among other things, serve targeted advertisements on our Site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns. We also may use third-party advertising companies to target and serve some of the advertisements that appear on our Site, and these companies likewise may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from users of our Site. The information collected by these companies does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer. These companies may use that information, sometimes in conjunction with similar non-personally identifiable information gathered from other websites, to deliver advertisements on this Site, and possibly on other websites (if the third-party advertising company operates an advertising network), tailored to match the perceived interests of consumers. The collection and use of information by these companies is governed by the relevant third party's privacy policy and is not covered by our privacy policy. If you would like more information about this practice, or if you would like information on how to opt out of these information collection practices, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-When you visit the Thestatecolumn.com Web site, Thestatecolumn.com collects several forms of usage data, including:
+## USE AND DISCLOSURE OF INFORMATION
 
-  * Log data. Our servers automatically record certain information sent by your browser, such as your Web request, your Internet Protocol address, your referring URL, your browser type and language, and the date and time of your request.
-  * Cookie data. When you visit the Thestatecolumn.com Web site, Thestatecolumn.com or one of our affiliates or third-party partners may send one or more "cookies"â€”small files containing a string of charactersâ€”to your computer to identify you as a unique user. If you have registered with Thestatecolumn.com, the information in your cookie is used to provide a more personalized experience on our site, for example by allowing you to customize portions of the site. If you haven't registered, the cookie identifies you as a unique user and helps ensure a smoother experience on the site, such as by limiting the number of times that you see certain subscription offers. If you have not registered on our site, we cannot link the user ID in the cookie with personal identifying information and data about you, such as your name or e-mail address.
-  * Traffic and advertising data. Other cookies without personally identifying information and data are used to enable the The State Column, LLC, LLC to gather and analyze site traffic and usage information, and to allow our advertising partners to manage the advertisements presented. These cookies sometimes work in conjunction with other techniques, such as clear GIFs or pixel tags; they do not contain personally identifying information, but they may gather information about what sites you have visited and use that information to determine which ads appear when you visit the Thestatecolumn.com site.
+The State Column uses the information it collects from you while you are using the Site in a variety of ways, including using the information to customize features and advertising that appear on the Site. We also may provide your information to third parties, such as service providers, contractors, and advertisers, for a variety of purposes. For example, we may provide our advertisers with information about you and other visitors that will enable our advertisers to better target ads to specific types of visitors.
 
+You agree that we may use your information to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices, offers and any other communications that we believe may be of interest to you.
 
+We reserve the right to disclose to third parties all of the information that we collect online about you and other visitors, with one important exception — if you make a purchase on our Site, we will not share your credit card number or other financial information with any third party. We may, however, share non-financial information in accordance with this Privacy Policy.
 
-Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or you can use third-party anonymizer services to mask information in your cookies or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered on the Thestatecolumn.com Web site.
+Please also keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online — for example on message boards, through email or web logs, or in chat areas — that information can be seen, collected and used by others besides The State Column. We cannot be responsible for any unauthorized third party use of such information.
 
-The aggregated information we collect is used for a number of purposes including the following:
+Please be aware that we may occasionally release information about visitors when release is appropriate to comply with law, to enforce our [Terms of Service](http://www.thestatecolumn.com/termsofservice), or to protect the rights, property or safety of visitors to our Site, the public, or to us or our Site.
 
-  1. To improve the content and design of the Thestatecolumn.com Web site.
-  2. To enable audit bureaus and third party advertisers to verify our claims of traffic to the site.
-  3. To help advertisers, potential advertisers or marketers assess the suitability of the site for their ad campaigns.
-  4. To help us understand more about the interests of our users, so that we can offer goods and services we believe may be of interest.
+Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that The State Column, some or all of our assets, or our Site is acquired by another company, information about our visitors may be among the transferred assets.
 
+## THIRD-PARTY SITES
 
+Our Site includes links to third party websites whose privacy policies we do not control. Once you leave the Site, any information you provide at another site will be governed by the privacy policy of the operator of the site you are visiting. The privacy policies of third party websites may differ from that of The State Column.
 
-Many portions of the Thestatecolumn.com site can be used without registering or giving us any personal information such as (but not limited to) your name and e-mail address. However, the The State Column, LLC does collect personally identifying information regarding our online users, including in the following ways:
+## CHILDREN'S PRIVACY
 
-  * When you provide it to us, such as (but not limited to) by entering a contest, becoming a registered member, signing up for a newsletter or tutorial, or otherwise contacting us.
-  * When you provide it to a company that powers a portion of our site or provides a special feature, such as a contest registration, that appears on our site.
-  * When you provide information about yourself or your company to Thestatecolumn.com, or when you provide information to any The State Column, LLC affiliate, that information may be included in your Thestatecolumn.com user record, if one exists.
-  * If you have previously registered with another The State Column, LLC affiliate and you begin to fill out certain forms on the Thestatecolumn.com Web site, the site may recognize you and automatically complete the form, and this auto-fill data will then be included in your Thestatecolumn.com user record.
-  * If you have provided information to Thestatecolumn.com or any site owned by the The State Column, LLC, from time to time we may enhance that information with other information that we collect from third-party sources.
+This children's privacy statement explains The State Column's practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information on your rights under federal law with respect to such information.
 
+This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally-identifiable information from a user under the age of thirteen, we will delete such information from our records. Because we do not collect any personally identifiable information from children under the age of thirteen, we also do NOT knowingly distribute any such information to third parties. We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information.
 
+## MODIFYING YOUR INFORMATION AND OPTING OUT
 
-The personal information we collect may be used in a number of ways, including the following:
+If you register with us, you will have the opportunity to review, update, change or delete the information you have provided us (and that we continue to store) at any time. If you remove your registration information completely, you may not be able to continue using certain services that require registration. To review, update, change or delete your registration information visit [www.thestatecolumn.com](http://www.thestatecolumn.com/).
 
-  * To improve the content of the Thestatecolumn.com site, including by allowing the Thestatecolumn.com editors to consult with readers.
-  * To communicate with users about registration and other customer service issues.
-  * To promote products and services of the The State Column, LLC as described in more detail below.
-  * To conduct research surveys on behalf of the The State Column, LLC, and its subsidiaries and affiliates.
+If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings by logging into to your The State Column account at the top of any page on the site, and modifying your preferences.
 
+## STORAGE OF INFORMATION
 
+All information gathered on our Site is stored within a database accessible only to The State Column. However, as effective as the reasonable security measures implemented by us may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information supplied will not be intercepted while being transmitted over the Internet.
 
-#### Information sharing
+## CHANGES TO THIS POLICY
 
-The The State Column, LLC may share aggregated, nonpersonal information, such as Web site traffic figures, with third parties. This aggregated information does not identify you individually. We may share personal information with your consent or in order to provide products or services you have requested. In addition, by using the site you agree that we may also share personal information in any of the following circumstances:
-
-  * We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of the The State Column, LLC or our employees or customers.
-  * We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfillment providers, who process information or perform services on our behalf.
-  * If you submit personal information on a portion of our site that is operated by a third party, we may share the information you submit with the third party, and the information may be used by that party as permitted under that party's privacy policy. The The State Column, LLC and its parent and affiliate companies are not responsible for the third party's actions or policies. Portions of the site operated by third parties normally include a "Powered by" or â€œSponsored byâ€? logo naming the third party, and/or have forms that include links to the third party's privacy policy.
-  * We may transfer personal information from your user record to your subscriber record, if one exists, provided that we also transfer any preferences you have set for how that personal information is used. We may share information with third parties for promotional purposes, as described below.
-
-
-
-**User Published Content**
-
-Thestatecolumn.com makes available to its users tools which allow them to publish content on the Thestatecolumn.com web site, such as (but not limited to) blogs, comments, forums, and interactive tools.Â 
-
-Thestatecolumn.com reserves the right to remove or not to publish any individual or individualâ€™s content on the site for any reason without explanation.
-
-We reserve the right to, but do not assume the obligation, to restrict or prohibit the use of our site as we see fit whether for legal or other reasons.
-
-User published Content remains the intellectual property of the individual user, however by posting Content on our Website, you grant Company a non-exclusive, perpetual, irrevocable, royalty-free, worldwide, fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such Content throughout the world in any media, whether now known or hereafter discovered.Â  In addition, you warrant that all so-called "moral rights" in those materials have been waived.
-
-You should be aware that when you disclose personal information such as your name or e-mail address in a forum, blog comment, or other area that is publicly accessible by others, that information can be collected and used by others. The New York Observer is not responsible for any information that you provide in the above areas.
-
-#### Use of data for promotions, and choices for personal information
-
-Postal addresses will be used to promote products of the The State Column, LLC, and may be rented and/or licensed to select outside firms for promotional purposes. Offers for which the postal address data is rented and/or licensed for use are screened and the users are required to target their offers carefully.
-
-When you provide your e-mail address to us, you agree to receive e-mail from the The State Column, LLC, and any affiliate operations including joint endeavors with third parties; however, you can unsubscribe from these e-mails at any time simply by clicking the unsubscribe link at the bottom of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.
-
-If the The State Column, LLC, Thestatecolumn.com or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
+The Internet is an evolving medium. If we need to change this Privacy Policy at some point in the future, we'll post the modified Privacy Policy on this Site and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
