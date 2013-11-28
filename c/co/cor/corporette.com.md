@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporette.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530020929id_/http%3A//corporette.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporette.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128065549id_/http%3A//corporette.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Corporette.com
 
@@ -29,7 +29,7 @@ Content and some ad services in these e-mails are provided by Corporette or a th
 ****
 
 **Ads**  
-We may use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique “cookie” on your browser.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 **Links to Other Sites  
 **Although Corporette may provide links to third party sites, we are not responsible for the content that appears on those sites nor do we endorse these sites. Please review each site’s privacy policy to determine their use of information.
@@ -42,4 +42,4 @@ Occasions will arise when customer information is passed outside Corporette to o
 Corporette may change this privacy policy. Any changes will be reflected on this privacy policy page. If you are concerned about how your information will be used, you should check back at this privacy policy page periodically.
 
 **Contac** **t**  
-If you should have any questions about our privacy policy, please contact us at info@corporette.com.
+If you should have any questions about our privacy policy, please [contact us](http://corporette.com/contact/).
