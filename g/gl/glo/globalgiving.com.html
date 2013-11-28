@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalgiving.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601042124id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalgiving.com privacy policy that was archived on 2013-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131128080938id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<title>Privacy Policy - GlobalGiving</title>  
@@ -32,19 +32,19 @@
 <![endif]--> 
 
 <!-- ****** JAVASCRIPT ***** -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/commonScripts.js"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/javascript/commonScripts.js?v=0.1"></script>
 
 <!-- *** GOOGLE ANALYTICS TRACKING CODE ***-->    
 <!-- Async Tracking Code - http://code.google.com/intl/en-US/apis/analytics/docs/tracking/asyncTracking.html -->
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1836649-1']);
+  _gaq.push(['_setSiteSpeedSampleRate', 5]);
   _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']); // note: only works in HTML5 browsers (Chrome & IE 9+ as of May 2011)
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
   
@@ -100,6 +100,8 @@
 	</noscript> 
 	
 	<div id="headerWrapper" class="headerFooterWrapper">
+	<div id="elev_priv" style="display:none;">
+	</div>
 
 	<div id="header" class="siteWrapper">
 		<div id="border-top">
@@ -118,7 +120,7 @@
 <div id="links">
 	<!--loading arrow-->
 	<div id="loadinglogin" style="display: none;">
-		<img src="/img/animated_gif/loading_arrow.gif" alt="Loading...">
+		<img src="https://dpqe0zkrjo0ak.cloudfront.net/img/animated_gif/loading_arrow.gif" alt="Loading...">
 	</div>
 	<!--end loading arrow-->
 
@@ -154,8 +156,8 @@
             </div>
 			   <a href="/dy/cart/view/gg.html?cmd=gcart" class="givingCartLink" onclick="trackHeaderClick(this);">giving cart</a>
 		   </li>
-			<li><span id="signupRef"><a href="/dy/v2/login/form.html?show=createAccount" class="profile" onclick="trackHeaderClick(this);">create an account</a></span></li>
-			<li><span id="loginRef"><a href="/dy/v2/login/form.html" class="login" onclick="trackHeaderClick(this);">login</a></span></li>
+			<li><span id="signupRef"><a href="/dy/v2/login/form.html?show=createAccount&amp;andthen=https%3A//web.archive.org/web/20131128080938id_/http%253A//www.globalgiving.org/aboutus/privacypol.html" class="profile">create an account</a></span></li>
+			<li><span id="loginRef"><a href="/dy/v2/login/form.html?andthen=https%3A//web.archive.org/web/20131128080938id_/http%253A//www.globalgiving.org/aboutus/privacypol.html" class="login">login</a></span></li>
 		</ul>
 	</div> 
 	<!--end login area-->
@@ -165,7 +167,13 @@
 
             <!-- Gift Card Holiday Callout -->
 		    
-    		    
+				<div id="giftCardPromo">
+				    <a href="/gifts/" onclick="trackGiftClick(this)" ;=""></a>
+				    <!--
+				    <a href="/dy/gifts/personalize/gg.html?selectedDesign=63&media=&isGiftCertificate=true" onclick="trackGiftClick(this)";></a>
+					<a href="/redeem"  onclick="trackHeaderClick(this);"></a>
+				    -->
+				</div>
 		    
 
 			<div id="nav"> 
@@ -429,7 +437,7 @@
 	</p>
   <p>
   	<a href="https://safeharbor.export.gov/list.aspx" target="_blank">We self-certify compliance with:</a><br>
-    <a href="http://www.export.gov/safeharbor" target="_blank"><img src="/img/logos/safeharbor.png"></a>  	
+    <a href="http://www.export.gov/safeharbor" target="_blank"><img src="https://dpqe0zkrjo0ak.cloudfront.net/img/logos/safeharbor.png"></a>  	
   	
   </p>  
 
@@ -438,7 +446,7 @@
   </p>
  
  <div class="yellowCallout">
-<strong>If you have any questions about our privacy policy, please contact us at <script type="text/javascript">mkaddr("privacy")</script><a href="mailto:privacy@globalgiving.com">privacy@globalgiving.com</a>.</strong> 
+<strong>If you have any questions about our privacy policy, please contact us at <script type="text/javascript">mkaddr("privacy")</script><a href="mailto:privacy@globalgiving.org" class="email">privacy@globalgiving.org</a>.</strong> 
 </div>
  </div>
  
@@ -589,7 +597,7 @@ circumstances described below, we do not read or use your personal messages.
 	activities on the site, such as the pages you access.
   </p> 
 <p>
-In order to collect this information, the site places a cookie on your hard drive. A “cookie” is a 
+In order to collect this information, the site places a cookie on your hard drive. A "cookie" is a 
 small file containing a string of characters that is sent to your computer when you visit a website. 
 When you visit the website again, the cookie allows that site to recognize your browser. Cookies 
 may store user preferences and other information. You can reset your browser to refuse all 
@@ -597,6 +605,19 @@ cookies or to indicate when a cookie is being sent. However, some website featur
 may not function properly without cookies.
 	</p> 
 	
+<p>
+In addition, we use a tool called "Google Analytics" to collect information about use of this site. Google Analytics 
+collects information such as how often users visit this site, what pages they visit when they do so, what 
+other sites they used prior to coming to this site, and Interest-based advertising or 3rd-party audience data (such as age, gender and interests). 
+We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this 
+site, rather than your name or other identifying information. We do not combine the information collected through 
+the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent
+cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be
+used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your
+visits to this site is restricted by the <a href="http://www.google.com/analytics/terms/us.html">Google Analytics Terms of Use</a> and the 
+<a href="http://www.google.com/policies/privacy/">Google Privacy Policy</a>.  You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using <a href="https://www.google.com/settings/ads">Google Ads Settings</a>.
+</p>
+
 	<h4>
   <a name="5a"></a>
   Use of Information
@@ -763,7 +784,7 @@ make changes to your information and update your account at any time.
   GlobalGiving<br> 
   <script type="text/javascript" language="JavaScript">
   mkaddr("privacy","Privacy Policy Inquiry");
-  </script><a href="mailto:privacy@globalgiving.com">privacy@globalgiving.com</a>
+  </script><a href="mailto:privacy@globalgiving.org" class="email">privacy@globalgiving.org</a>
   <br>1023 15th Street, NW
 <br>12th Floor
 <br>Washington, DC 20005
@@ -775,12 +796,12 @@ make changes to your information and update your account at any time.
   </p>
   
   <div class="yellowCallout">
-<strong>If you have any questions about our privacy policy, please contact us at <script type="text/javascript">mkaddr("privacy")</script><a href="mailto:privacy@globalgiving.com">privacy@globalgiving.com</a>.</strong> 
+<strong>If you have any questions about our privacy policy, please contact us at <script type="text/javascript">mkaddr("privacy")</script><a href="mailto:privacy@globalgiving.org" class="email">privacy@globalgiving.org</a>.</strong> 
 </div>
   
   <div class="pushTop10">
   <p>
-  Last Modified:  2011/04/20
+  Last Modified:  November 6, 2013
   </p> 
   </div>
 </div>
@@ -852,7 +873,7 @@ make changes to your information and update your account at any time.
 			
 			<div class="grid_4 zeta omega">
     			<div class="grid_4 alpha omega zeta pushTop10">
-                    <a href="/contactus/" class="contactus" onclick="trackFooterClick(this);">Contact us <u>online</u></a> or call us at 1-202-232-5784 
+                    <a href="/contactus/" class="contactus" onclick="trackFooterClick(this);">Contact us <u>online</u> or call us at 1-202-232-5784</a>
                 </div>
 				
     			<div class="grid_4 alpha omega zeta pushTop20 center">
@@ -875,7 +896,7 @@ make changes to your information and update your account at any time.
                 <form action="http://globalgiving.us1.list-manage1.com/subscribe/post?u=3cd22f53c66be5c139fe0dc7a&amp;id=7bd2052374" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" onsubmit="_gaq.push(['_trackEvent', 'Newslettler', 'Email Submitted']);">                     
                     <div class="ctrlHolder">    
                     <input type="text" value="e-mail" name="EMAIL" class="required email" size="35" maxlength="200" id="mce-EMAIL" style="color: #777777; padding: 2px; vertical-align: middle;" onclick="clearEmail(this);" onfocus="clearEmail(this);" onblur="fillEmail(this);"> 
-                    <input type="image" src="/img/buttons/sign_up_footer.gif" name="submitbutton" value="Submit" style="position: relative; bottom: 2px; vertical-align: middle; margin-top: 2px;">
+                    <input type="image" src="https://dpqe0zkrjo0ak.cloudfront.net/img/buttons/sign_up_footer.gif" name="submitbutton" value="Submit" style="position: relative; bottom: 2px; vertical-align: middle; margin-top: 2px;">
                     </div> 
                 </form>
             </div>
@@ -911,6 +932,8 @@ make changes to your information and update your account at any time.
 </div>
 -->
    
+
+
 
  
 
