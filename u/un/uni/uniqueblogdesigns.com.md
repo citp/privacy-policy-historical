@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniqueblogdesigns.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531080231id_/http%3A//www.uniqueblogdesigns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniqueblogdesigns.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128183436id_/http%3A//www.uniqueblogdesigns.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Unique Blog Designs
 
@@ -78,13 +78,12 @@ By using our site, you consent to our online privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on March 10, 2009.
+This policy was last modified on November 6, 2013.
 
 ### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Unique Blog Designs, LLC  
-159 Western Ave. W – Suite A450  
-Seattle, WA 91821  
-[info] at uniqueblogdesigns [dot] com
+2312 3rd Ave. Unit 738  
+Seattle, WA 91821
