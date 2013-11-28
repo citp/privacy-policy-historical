@@ -1,27 +1,47 @@
-> *The following text is extracted and transformed from the mp3rocket.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519111707id_/http%3A//www.mp3rocket.me/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3rocket.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128125735id_/http%3A//www.mp3rocket.me/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy covers this web site’s treatment of personally identifiable information that we collect when you agree to receive e-mail marketing from us. It is important that visitors are fully informed about the use of their personal information. We believe in 100% permission-based marketing. Your privacy is very important to us. Upon subscription, your email address is protected and will not be shared, sold or rented to any third parties.
+Since your privacy is important to us, MP3 Rocket has created this privacy statement in order to let you know our firm commitment to your privacy.
 
-You may unsubscribe from any of our e-mail marketing programs at any time. In every e-mail communication we send, there is an unsubscribe hyperlink that allows the recipient to unsubscribe from the specific marketing program by simply clicking the hyperlink provided and following the instructions that follow. We attempt to process all unsubscribe requests in a prompt fashion. 
+The following discloses our information gathering and dissemination practices for the MP3 Rocket website: http://www.mp3rocket.me
 
-Our company reserves the right to provide aggregate or group data about our Users for lawful purposes. Aggregate or group data is data that describes the demographics, usage, or characteristics of participants as a group, without disclosing personally identifiable information.
+## Information collection
 
-Additionally, when you open, preview or click on the advertising portion of our e-mails and/or those of our marketing partners and/or our affiliates, you have agreed to the terms set forth in our Privacy Policy and agree that as a function of opening, previewing or clicking on the advertising portion of our e-mails, that you will receive new or additional marketing communications from us, our marketing partners and/or our affiliates.
+Our programs do not collect any kind of personal information.
 
-We also reserve the right to release current or past User information in the event that our company believes that the User is using, or has used, our services in violation of the terms and conditions, to commit unlawful acts, if the information is subpoenaed, if our company is sold or acquired, or when we deem it necessary or appropriate. By agreeing to these terms, you hereby consent to the disclosure of any record or communication to any third party when our company, in its sole discretion, determines the disclosure to be appropriate.
+We will ask you when we need information that personally identifies you ("Personal Information") or allows us to contact you. Generally this information is requested when you buy MP3 Rocket Pro Membership for our software, or you want to provide us with your personal data, to give us the opportunity to get in touch with you.
 
-We endeavor to safeguard and protect our Users information. When Users submit information at the website, their information is protected both online and off-line. The privacy of Users personal information is very important to us. Our employees are committed to our privacy and security policies.
+When you enter a contest or other promotional event, we may ask for information such as your name, address, telephone number and e-mail address so we can administer the contest and notify winners.
 
-No information should be submitted to, or posted at, any website by visitors under 18 years of age without the prior consent of their parent or guardian. Notwithstanding the foregoing, children 18 years of age and younger are not permitted to access this website and we do not knowingly collect personal information from such children. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+When you buy MP3 Rocket Pro Membership, we may ask you for information such as your name, e-mail address, and shipping address.
 
-Users may receive e-mail confirming their registration with this site as well as promotional marketing of commercial products and services.
+We may use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and your time spent at our sites, and to gather broad demographic information. This allows us to see which parts of our sites users are visiting. We do not link IP addresses to anything personally identifiable. This means, for instance, that a user's session will be tracked, but the user will remain anonymous. We do not use this information for any other purposes.
 
-Our company does not endorse, nor are we responsible for the accuracy of, the privacy policies and/or terms and conditions of each of the advertisers and/or third parties accessible through this website.
+When a user submits personal information, it is kept on a private server not accessible from the Internet. This limits the possibility of any malicious use of your information.
 
-This Privacy Policy applies to consumers that have signed up on our website. We may use the personal information that you supply to us to bring selected retail opportunities to our members via direct mail, email and telemarketing. We may use businesses that provide any but not limited to the following services; direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing.
+## Use of personal information
 
-Your Acceptance of These Terms By using this site, including, without limitation, signing up for offers and/or continuing to receive information from us, you agree to our Privacy Policy. We reserve the right, at our discretion, to change, modify, add, and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on this website. Please check this page periodically for changes. Your continued use of this website or acceptance of our emails following the posting of changes to these terms will mean that you accept these changes and agree to continue receiving emails from us. If you do not agree to the terms of this Privacy Policy, please do not register on this site.
+MP3 Rocket may share non-personal, summary information regarding its customers with partners or other third parties. However, for partners or third parties under contract with MP3 Rocket, any individual customer information provided may be used solely to perform or complete a necessary transaction or function related to the customer's purchase. These transactions or functions shall be in accordance with the terms of this Privacy Policy Statement.
 
-_Revised 02-28-2006_
+MP3 Rocket will not share any individual customer information outside of the contracted partners and third parties mentioned above, without first receiving the individual's prior written approval. In short, MP3 Rocket does not sell users' personal information to lists. In some cases, MP3 Rocket may use a visitor's personal information to understand overall patterns for site usage, to contact the user for clarification on inaccurate information, or to follow up on a customer service issue. Personal information may include name, address, telephone number, etc. 
+
+MP3 Rocket may send the user information or updates about special offers, programs, new products and/or services via e-mail. The user are able to unsubscribe from the mailing list any time after receiving the first information message.
+
+## Links to other sites
+
+This site contains links to other sites. Please be aware that MP3 Rocket is not responsible for the privacy practices or the content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware when you leave our site and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to http://www.mp3rocket.me.
+
+## Use of "cookies"
+
+During your visit to our website, so-called "cookies" are saved to your computer. These "cookies" register information about the navigation of your computer on our website (loaded pages, date, time of day and length of visit etc.) which we can access during your next visit in order to adapt the website to your personal requirements and optimize loading times. We also use this information to enter your data into enquiry forms and suchlike so that you do not need to fill them in yourself again and again.
+
+We never store passwords or similarly sensitive data in cookies. The use of cookies is common and advantageous. Cookies are used on most larger websites. By indicating how and when visitors use a website, cookies aid us in finding out which areas are popular and which areas are not. Many improvements and updates are based on information supplied by cookies. Cookies can also help us to personalize web content and meet the desires of our visitors.
+
+Our websites do not use cookies to collect personal information from your computer that was not initially sent as a cookie.
+
+You have the option to control the acceptance of cookies yourself and, if you wish, to block them entirely by configuring your browser as follows:
+
+If you use the Internet Explorer to surf the net: In the "Tools" menu, click "Internet Options", select the "Privacy" tab and click "Advanced". Here, you can "Block" cookies or set up a "Prompt". The latter setting allows you to decide from occasion to occasion whether you would like to accept a cookie or not.
+
+_Revised 06-19-2013_
