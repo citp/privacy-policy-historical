@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528174951id_/http%3A//www.theamericanwedding.com/customerservice/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128164545id_/http%3A//www.theamericanwedding.com/customerservice/privacy) for the most accurate reproduction.*
 
-# Your Privacy Is Important | Customer Service | The American Wedding
+# Privacy Policy | Customer Service | The American Wedding
 
 American Stationery Company, Inc. (the Company), as owner and operator of several commercial web sites, including:
 
