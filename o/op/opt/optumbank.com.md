@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the optumbank.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529065949id_/http%3A//www.optumbank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optumbank.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128210355id_/http%3A//www.optumbank.com/privacy-policy) for the most accurate reproduction.*
 
 # OptumBank.com - Privacy Policy
 
 **Financial Privacy Policy  
-**To read more about our privacy policy as it applies to Optum Bank as a regulated financial institution, and OptumHealth Financial Services, please refer to our [Financial Notice of Privacy Practices](https://web.archive.org/web/20130529065949id_/http://www.optumbank.com/privacy-policy/~/media/D50700EC659F42E2835AC1D2C4C092A7.pdf). 
+**To read more about our privacy policy as it applies to Optum Bank as a regulated financial institution, and OptumHealth Financial Services, please refer to our [Financial Notice of Privacy Practices](https://web.archive.org/web/20131128210355id_/http://www.optumbank.com/privacy-policy/~/media/D50700EC659F42E2835AC1D2C4C092A7.pdf). 
 
 **Social Security Number Protection Policy  
 **Protecting personal information is important to OptumHealth Financial Services and its current and future subsidiaries. It is the policy of OptumHealth and its current and future affiliates to protect the confidentiality of Social Security numbers (“SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, electronic, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs. 
