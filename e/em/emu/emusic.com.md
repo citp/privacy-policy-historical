@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emusic.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517000824id_/http%3A//www.emusic.com/info/help/privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emusic.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128084632id_/http%3A//www.emusic.com/info/help/privacy-policy-us) for the most accurate reproduction.*
 
 # Privacy Policy | Stimulating Curious Musical Minds | eMusic
 
