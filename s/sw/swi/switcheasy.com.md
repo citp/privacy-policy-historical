@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the switcheasy.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620090247id_/http%3A//www.switcheasy.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the switcheasy.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128171653id_/http%3A//www.switcheasy.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - SwitchEasy
-
-**SwitchEasy Privacy Policy**  
-
+# iPhone cases | iPad cases | iPod Touch cases | SwitchEasy - Privacy
 
 We encourage you to read this Privacy Policy.
 
-**Collection and Use of Personal Information** ****
+**Collection and Use of Personal Information**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
   * To improve our website 
 
@@ -31,18 +28,17 @@ The email address you provide for order processing, will only be used to send yo
 
 
 
-**Personal Information** ****
+**Personal Information**
 
-We collect information from you when you place an order. 
+We collect information from you when you place an order.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our website anonymously if you wish, by using appropriate software or web services available from or through third parties. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our website anonymously if you wish, by using appropriate software or web services available from or through third parties.
 
-**Personal Information Released to Outside Parties** ****
+**Personal Information Released to Outside Parties**
 
-  
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-**Cookies** ****
+**Cookies**
 
 Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
@@ -50,9 +46,9 @@ We use cookies to help us remember and process the items in your shopping cart a
 
 If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
-**Data Security** ****
+**Data Security**
 
-We uphold your personal information on servers and computers located in the United States and operated under our direct supervision and control. 
+We uphold your personal information on servers and computers located in the United States and operated under our direct supervision and control.
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order
 
@@ -63,23 +59,23 @@ After a transaction, your private information (credit cards, social security num
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Third Party Sites** ****
+**Third Party Sites**
 
-SwitchEasy website contains links to other sites. When you click on one of these links you are being transferred to a website which operated by someone other than SwitchEasy and the operator of that website may have a different privacy policy. We encourage you to look into the privacy policies from those operators first. SwitchEasy does not share your personal details with the third parties and is not responsible for their respective individual privacy policy. 
+SwitchEasy website contains links to other sites. When you click on one of these links you are being transferred to a website which operated by someone other than SwitchEasy and the operator of that website may have a different privacy policy. We encourage you to look into the privacy policies from those operators first. SwitchEasy does not share your personal details with the third parties and is not responsible for their respective individual privacy policy.
 
 **Your Consent**
 
 By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
 
-**Future Changes** ****
+**Future Changes**
 
 SwitchEasy may decide to change this Privacy Policy from time to time according to the company needs. When we do, we will update those changes on our homepage. We encourage you to read this Privacy Policy first before your order.
 
-**Oversight and Questions** ****
+**Oversight and Questions**
 
 Please feel free to give comments and raise questions on this policy. As stated above, we are dedicated to protecting your privacy, and we will make every reasonable effort to keep your information secure and safe.
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-<http://www.switcheasy.com/contact.php>  
+[https://switcheasy.zendesk.com](https://switcheasy.zendesk.com/)   
 Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
