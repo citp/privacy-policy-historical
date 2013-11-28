@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdcube.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529143106id_/http%3A//www.crowdcube.com/pg/privacy-and-cookie-policy-17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdcube.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128172744id_/http%3A//www.crowdcube.com/pg/privacy-and-cookie-policy-17) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Crowdcube | Crowdfunding business finance from angel investors and 'Armchair Dragons'
 
