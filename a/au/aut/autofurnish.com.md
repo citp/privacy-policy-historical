@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autofurnish.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530073421id_/http%3A//www.autofurnish.com/t/PrivacyInfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autofurnish.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128212858id_/http%3A//www.autofurnish.com/t/PrivacyInfo) for the most accurate reproduction.*
 
 # Car accessories, ambipur, car accessory, car perfume, car air freshener, seat covers, car covers, car seat covers, accessories for cars, auto accessories, accessories for cars, online car accessories, car care, car polish, car cleaning, car cleaning service, car accessories in delhi. Privacy Policy
 
