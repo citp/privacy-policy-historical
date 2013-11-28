@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mccapes.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530073557id_/http%3A//www.mccapes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccapes.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128073232id_/http%3A//www.mccapes.com/privacy) for the most accurate reproduction.*
 
 # Minecraft Capes
 
