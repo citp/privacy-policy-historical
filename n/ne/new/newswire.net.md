@@ -1,40 +1,65 @@
-> *The following text is extracted and transformed from the newswire.net privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311122856id_/http%3A//www.newswire.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswire.net privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128062136id_/http%3A//www.newswire.net/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for the Newswire.net Newswire
+# Newswire.net - Privacy Policy
 
-  
-This is a web site of Newswire Network, LLC
+## Privacy Statement
 
+This website is the property of Newswire Network Ltd ("Newswire").  
 Our postal address is:
 
-Newswire Network, LLC  
-2002-A Guadalupe  
-Austin, TX 78705
+ **Newswire Network Ltd**   
+2089 E Fort Union Blvd  
+Salt Lake City, UT 84121
 
-The following is the privacy policy for NewsWire.net, a service of Newswire Network, LLC, a Texas Limited Liability Company.
+  
+Newswire takes privacy seriously. As a leader in online visibility and search engine optimized press release distribution services, we are committed to establishing and maintaining policies and procedures which protect the privacy of personal information gathered from our customers, prospects and other visitors to our website.
 
-We can be reached via e-mail at Help@NewsWire.net.
+  
+Newswire is a news service which distributes press releases and other news content (“Article”) on behalf of our users. In addition, Newswire users are allowed to create other kind of pages, including business profile, personal profile, and other pages that may contain user supplied personal information.  The information that you supply in these profile pages may, according to the settings that you supply, be available to the public.
 
-When you visit our site we do not log any information regarding your domain or email address.
+If you decide to submit an Article for distribution through our system we will transmit your entire Article including any personal information therein contained to our media contacts and online distribution points including search engines. This is the only redistribution of your information that we engage in. Your submission of press releases through our system indicates consent with this policy.
 
-Information Sharing: We do not share user information with any third parties other than via press release distribution as described below.
+  
+This Policy applies to all of the products, services and websites offered by Newswire.  
+If you have any questions about this privacy statement or the practices of this site, you may contact us at support@newswire.net .  In order for Newswire to take the appropriate action please describe in reasonable detail the nature of your request or inquiry.
 
-NewsWire.net is a newswire service which distributes press releases on behalf of our users. If you decide to submit a press release for distribution through our system we will transmit your entire press release including any personal information therein contained to our media contacts and online distribution points including search engines. This is the only redistribution of your information that we engage in. Your submission of press releases through our system indicates consent with this policy.
+  
+**Collected Information:**
 
-The information we collect during your registration process is used to notify users about updates to our service and inform users of special events hosted by NewsWire.net or its partners. This information is not shared with other organizations for commercial or non-commercial purposes.
+  
+We do not share user information with any third parties other than via press release distribution, and the display of user supplied information on our website, as described above
 
-With respect to cookies: We only use cookies when necessary for the proper function of our web application. 
+  
+**Cookies:**
 
-If you do not want to receive e-mail from us in the future, please let us know by following instructions included in our communication with you.
+  
+Newswire, and our users may use "cookie" technology to track or record information about our website visitors. Newswire users who disable their web browser's ability to accept cookies may not be able to successfully use our service.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please edit your account and remove your phone number from your account profile. 
+  
+**Changes to Personal Information:**
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+  
+We provide site visitors with access to information that we have collected and that we maintain about them. Consumers can access this information by logging into their user account.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+  
+**Third-Party Sites:**
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by or logging into their account..
+  
+The site contains links to other websites. Newswire is not responsible for the privacy practices or the content of these sites. You will need to check the policy statement of other websites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
 
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving user data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. We do not store credit card information in our systems.
+  
+**Security:**
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
+  
+With respect to security, we employ industry-standard encryption technologies when transferring and receiving user data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. We do not store credit card information in our systems.
+
+  
+**Changes to Privacy Statement:**
+
+  
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change in the future, we will post the policy changes to our website to notify you and provide you with the ability to opt out of these new uses. To keep up-to-date with Newswire policy, please check this page periodically.
+
+  
+**Contacting the Website:**
+
+If you feel that this site is not following its stated information policy, you may contact us by sending us an email to support@newswire.net.
