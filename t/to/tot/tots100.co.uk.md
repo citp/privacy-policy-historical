@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tots100.co.uk privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531080247id_/http%3A//www.tots100.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tots100.co.uk privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128185454id_/http%3A//www.tots100.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies | Tots 100
 
@@ -13,6 +13,14 @@ If you enter a competition on our website, we may share contact details with the
 If you use one of our personalised Tots100 badges (using the code provided in your Tots100 account) then we will record the number of requests for this image from your site. This information will be used to form part of your Tots100 ranking, and will not involve collecting any personal data from which any individual could be identified. If you prefer not to use the personalised badge, there are alternative badges available [elsewhere on the site](http://www.tots100.co.uk/get-your-tots100-badges-here/).
 
 Flea Enterprises Ltd is not responsible for the web sites that are referred to or linked to from this website. When you visit these web sites your personal information might be used in ways that do not conform to this policy.
+
+**Information for Subscribers  **
+
+If you pay for any service from Flea Enterprises Ltd, please note we do not store credit card details nor do we share customer details with any 3rd parties.
+
+When you subscribe to our service, your account will be activated within 48 hours of payment being received, and you will receive a log-in for your account to your nominated email address.  If you do not receive a log-in or have any questions about how to use your log-in credentials, please contact us at admin@fleaenterprises.com or on 01253 739 408.
+
+For further information, please see our [terms and conditions ](http://www.tots100.co.uk/terms/)for brands.
 
 **Cookies**
 
