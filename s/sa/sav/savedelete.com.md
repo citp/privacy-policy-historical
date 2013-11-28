@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savedelete.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211610id_/http%3A//savedelete.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savedelete.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128113751id_/http%3A//savedelete.com/privacy) for the most accurate reproduction.*
 
-# Privacy - SaveDelete
+# Privacy | SaveDelete
 
 SaveDelete respects your privacy. Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of SaveDelete.
 
@@ -18,6 +18,6 @@ While we do our best to protect your personal information, we cannot guarantee t
 
 In addition other Internet sites or services that may be accessible through SaveDelete have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.  Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/)
 
 For any other information please [contact us](http://savedelete.com/contact).
