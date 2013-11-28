@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wornontv.net privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610024120id_/http%3A//wornontv.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wornontv.net privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128172224id_/http%3A//wornontv.net/privacy) for the most accurate reproduction.*
 
 # Privacy | WornOnTV
 
