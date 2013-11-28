@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astronutrition.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530024223id_/http%3A//astronutrition.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astronutrition.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128155901id_/http%3A//astronutrition.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
