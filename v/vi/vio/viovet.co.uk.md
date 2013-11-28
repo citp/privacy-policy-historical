@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the viovet.co.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529102439id_/http%3A//www.viovet.co.uk/p135/Privacy_Policy/pages.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viovet.co.uk privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128152629id_/http%3A//www.viovet.co.uk/p135/Privacy_Policy/pages.html) for the most accurate reproduction.*
 
 # Privacy Policy - VioVet
-
-## Privacy Policy
 
 This privacy policy sets out how VioVet Ltd uses and protects any information that you give VioVet Ltd when you use this website.
 
@@ -46,7 +44,7 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This will prevent you from taking full advantage of the website (for example you will not be able to login, order or even put items into your basket).
 
-If you wish to disable cookies on our site and delete any existing cookies, please see the instructions [here](http://www.viovet.co.uk/p119/How_to_Disable_Cookies/pages.html).
+If you wish to disable cookies on our site and delete any existing cookies, please see the instructions [here](http://www.viovet.co.uk/p119/How_to_Disable_amp_Remove_Cookies/pages.html).
 
 ##  Links to other websites
 
