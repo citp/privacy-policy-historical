@@ -1,14 +1,18 @@
-<!--The following is the downloaded HTML source of the nwa.com privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424215503id_/http%3A//www.delta.com/content/www/en_US/privacy-and-security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nwa.com privacy policy that was archived on 2013-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131128023531id_/http%3A//www.delta.com/content/www/en_US/privacy-and-security.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en"><!--<![endif]--><head>
+    <title>Privacy &amp; Security | Delta Air Lines</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <!-- begin /apps/delta/www/components/page/onecolumn/head.jsp -->
     <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8">
-    <meta http-equiv="keywords" content="Delta privacy policy, Delta Air Lines, Delta, delta.com">
-    <meta http-equiv="description" content="Manage your privacy and security on Delta.com. Learn about what we share with promotional partners.">
+    <meta content="app-id=587667052" name="apple-itunes-app"><!-- smart app banner -->
+    <meta name="keywords" content="Delta privacy policy, Delta Air Lines, Delta, delta.com">
+    <meta name="description" content="Manage your privacy and security on Delta.com. Learn about what we share with promotional partners.">
     
     
+    <link rel="canonical" href="http://www.delta.com/content/www/en_US/privacy-and-security.html">
+    <meta name="robots" content="noodp,noydir">
     <script type="text/javascript">
 CQURLInfo = {
     "contextPath": null,
@@ -18,7 +22,7 @@ CQURLInfo = {
     "extension": 'html',
     "suffix": null
 };</script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
+<script type="text/javascript" src="//content.delta.com/etc/clientlibs/foundation/jquery.js"></script>
 
 
 <script type="text/javascript">function trackMVTImpression() {
@@ -38,25 +42,68 @@ CQURLInfo = {
 
 
 
-    <script type="text/javascript" src="https://www.delta.com/dlhome/jawr_loader.js"></script>
+
+
+
+
+
+    <script type="text/javascript" src="//content.delta.com/dlhome/jawr_loader.js"></script>
     
     <script> 
-        JAWR.loader.mapping = window.location.protocol + "//www.delta.com" + JAWR.loader.mapping;
-        JAWR.loader.cssmapping = window.location.protocol + "//www.delta.com" + JAWR.loader.cssmapping;
-        JAWR.loader.style("/shared/jawr/css/core.css");
-        JAWR.loader.style("/shared/jawr/css/core_ie.css");
-        JAWR.loader.style("/shared/jawr/css/core_ie7.css");
-        JAWR.loader.script("/shared/jawr/js/core.js");
-        JAWR.loader.script("/shared/jawr/js/core_apps.js");
-        JAWR.loader.script("/shared/jawr/js/dwr.js");
-        JAWR.loader.script("/shared/jawr/js/omniHome.js");
+        JAWR.loader.mapping =JAWR.loader.mapping;
+        JAWR.loader.cssmapping =  JAWR.loader.cssmapping;
+        JAWR.deltaLoader = {
+                   
+                   script: function (path) {
+                        this.insert(JAWR.loader.jsbundles, 'insertScript', JAWR.loader.mapping, path);
+                    },
+                    style: function (path, media) {
+                        this.insert(JAWR.loader.cssbundles, 'insertCSS', JAWR.loader.cssmapping, path, media);
+                    },
+                    insert: function (bundles, func, mappingToUse, path, media) {
+                        for (var x = 0; x < bundles.length; x++) {
+                            var bundle = bundles[x];
+                            if (bundle.belongsToBundle(path) && !JAWR.loader.usedBundles[bundle.name]) {
+                                JAWR.loader.usedBundles[bundle.name] = true;
+                                var pathtoRender = bundle.alternateProductionURL ? bundle.alternateProductionURL : this.normalizePath(mappingToUse + '/' + bundle.prefix + bundle.name);
+                                if (bundle.ieExpression)
+                                    JAWR.loader.insertCondComment(bundle.ieExpression, func, pathtoRender, media);
+                                else JAWR.loader[func](pathtoRender, media);
+                            }
+                        }
+                    },
+                   
+                    normalizePath : function (path) {
+                        var isRelativePathing = path.indexOf('//') === 0;
+                        var subPath = isRelativePathing ? path.substring(path.indexOf('//') + 1) : path;
+                        while (subPath.indexOf('//') != -1) {
+                                        subPath = subPath.replace('//', '/');
+                        }
+                        path = isRelativePathing ? path = path.substring(0, path.indexOf('//') + 1) + subPath : subPath
+                        if (path.indexOf("http") == 0) {
+                                        path = path.replace(/http:\/(\w)/g, "http://$1").replace(/https:\/(\w)/g, "https://$1");
+                        }
+                        return path;
+                    }
+        };
+        <!-- mp_trans_navdisable_start -->
+        JAWR.deltaLoader.style("/shared/jawr/css/core.css");
+        JAWR.deltaLoader.style("/shared/jawr/css/core_ie.css");
+        JAWR.deltaLoader.style("/shared/jawr/css/core_ie7.css");
+        JAWR.deltaLoader.script("/shared/jawr/js/core.js");
+        JAWR.deltaLoader.script("/shared/jawr/js/core_apps.js");
+        JAWR.deltaLoader.script("/shared/jawr/js/dwr.js");
+        JAWR.deltaLoader.script("/shared/jawr/js/omniHome.js");
+        JAWR.deltaLoader.script("/shared/jawr/js/kanaChat.js");
+        <!-- mp_trans_navdisable_end -->
     </script>
     
     <script type="text/javascript" src="//www.delta.com/utils/shared/jawr/js/mp_lang/MP_ENALL.js"></script>
-    
+    <link rel="stylesheet" type="text/css" href="//content.delta.com/etc/designs/delta/lib.20131114.css">
+    <script type="text/javascript" src="//content.delta.com/etc/designs/delta/lib.20130926.js"></script>
     <script>
-        JAWR.loader.script("/shared/jawr/js/clplang.js");
-        JAWR.loader.script("/shared/jawr/js/ie.js");
+        JAWR.deltaLoader.script("/shared/jawr/js/clplang.js");
+        JAWR.deltaLoader.script("/shared/jawr/js/ie.js");
     </script>
 
 
@@ -67,25 +114,20 @@ CQURLInfo = {
     }
 </script>
 <!-- end /apps/delta/www/components/page/onecolumn/libIncludes.jsp -->
+
     
-    <title>Privacy &amp; Security | Delta Air Lines</title>
     <!-- end /apps/delta/www/components/page/onecolumn/head.jsp -->
-<link type="text/css" rel="stylesheet" href="/libs/cq/personalization/clientlib/themes/default.css"></head>
+</head>
 <!-- begin /apps/delta/www/components/page/onecolumn/body.jsp -->
 <body class="onecolumn page twocolumn ">
-	<script type="text/javascript">
-       var isDigTagRequired = false;
-    </script>
     <div id="fb-root"></div>
     <!-- begin /apps/delta/www/components/page/onecolumn/personalization.jsp -->
 <div class="clickstreamcloud">
-<script type="text/javascript" src="/etc/clientlibs/foundation/librarymanager.js"></script>
+<script type="text/javascript" src="//content.delta.com/etc/clientlibs/foundation/librarymanager.js"></script>
 <script type="text/javascript">
 CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/shared.js","c":[]},{"p":"/libs/cq/personalization/clientlib.js","c":[]},{"p":"/libs/cq/personalization/clientlib/themes/default.css","c":[]},{"p":"/libs/cq/personalization/clientlib/ie6/themes/default.css","c":["ie6"]}],false);
-</script><script src="/etc/clientlibs/foundation/shared.js" type="text/javascript"></script>
-<script src="/libs/cq/personalization/clientlib.js" type="text/javascript"></script>
-
-<script type="text/javascript" src="/etc/segmentation.segment.js"></script>
+</script>
+<script type="text/javascript" src="//content.delta.com/etc/segmentation.segment.js"></script>
 
 <script type="text/javascript">
 CQ_Analytics.PageDataMgr.addInitProperty('navTitle', 'Cookies, Privacy & Security');
@@ -141,6 +183,10 @@ CQ_Analytics.PageDataMgr.addInitProperty('urlType', 'standard');
 
         <div id="ContentContainer" class="grid_12">
             <!-- begin /apps/delta/www/components/page/onecolumn/header.jsp -->
+
+
+
+
 <div class="header">
 
 
@@ -149,6 +195,10 @@ CQ_Analytics.PageDataMgr.addInitProperty('urlType', 'standard');
 
 
 
+<script type="text/javascript">
+    var delta = window.delta || {};
+    delta.fssp = 0.0;
+</script>
 <header class="clr">
     <div id="brand">
         <a href="/" class="delta">Delta Home</a>
@@ -156,7 +206,8 @@ CQ_Analytics.PageDataMgr.addInitProperty('urlType', 'standard');
     </div>
     <nav id="utility-nav" class="clr">
         <ul class="primary clr">
-            <li class="menu-item language"><a id="country-language-selection" href="javascript:DeltaUtils.showDialogBox('//www.delta.com/utils/shared/dialogs/CountryLanguage.jsp?selector=change-setting',705,930,80,80,'','fixed-dialog','ui-modal-dialog');"></a></li>
+            <li class="menu-item"><a href="/">Home</a></li>
+            <li class="menu-item language"><a id="country-language-selection" href="javascript:DeltaUtils.showDialogBox('//www.delta.com/utils/shared/dialogs/CountryLanguage.jsp?selector=change-setting',700,930,'','','','fixed-dialog','ui-modal-dialog');"></a></li>
             <li class="menu-item has-dropdown help">
                 
                 
@@ -233,8 +284,30 @@ CQ_Analytics.PageDataMgr.addInitProperty('urlType', 'standard');
                 
             </li>
             <li class="menu-item comment"><a href="/contactus/pages/comment_complaint/index.jsp">Comment/Complaint?</a></li>
-            <li class="menu-item fb"><a class="fb-link-header" href="//www.facebook.com/delta" id="ext12" target="_new">Facebook</a></li>
-            <li class="menu-item twtr"><a class="tw-link-header" href="//twitter.com/#!/delta" id="ext12" target="_new">Twitter</a></li>
+            <li class="menu-item fb">
+                <!-- mp_trans_remove_start="PT" -->
+                <a class="fb-link-header" href="//www.facebook.com/delta" id="ext12" target="_new">
+                <!-- mp_trans_remove_end="PT" -->
+                <!-- mp_trans_add="PT"
+                    <a class="fb-link-header" href="https://www.facebook.com/DeltaAirLinesBrasil" id="ext12" target="_new">
+                -->
+                Facebook</a>
+            </li>
+            <li class="menu-item twtr">
+                <!-- mp_trans_remove_start="PT, ES, JA" -->
+                <a class="tw-link-header" href="//twitter.com/#!/delta" id="ext12" target="_new">
+                <!-- mp_trans_remove_end="PT, ES, JA" -->
+                <!-- mp_trans_add="PT"
+                    <a class="tw-link-header" href="https://twitter.com/DeltaAjuda" id="ext12" target="_new">
+                -->
+                <!-- mp_trans_add="ES"
+                    <a class="tw-link-header" href="https://twitter.com/DeltaAssist_ES" id="ext12" target="_new">
+                -->
+				<!-- mp_trans_add="JA"
+                    <a class="tw-link-header" href="https://twitter.com/DeltaAssist_JP" id="ext12" target="_new">
+                -->
+                Twitter</a>
+            </li>
             <li class="menu-item text"><a id="ext12" target="_new" href="//assistive.usablenet.com/tt/www.delta.com/home/index.jsp">Text Only</a></li>
         </ul>
         <ul class="row secondary clr">
@@ -287,7 +360,7 @@ CQ_Analytics.PageDataMgr.addInitProperty('urlType', 'standard');
                                 </li>
                             
                                 <li>
-                                    <a href="/content/www/en_US/shop/trip-protection.html">Trip Protection
+                                    <a href="/content/www/en_US/shop/vacations.html">Vacations
                                     
                                         <small></small>
                                     
@@ -302,9 +375,11 @@ CQ_Analytics.PageDataMgr.addInitProperty('urlType', 'standard');
                                 
                                     <li><a href="/content/www/en_US/shop/redeem-a-certificate-or-ecredit.html">Redeem a Certificate or eCredit</a></li>
                                 
-                                    <li><a href="/content/www/en_US/shop/vacations.html">Vacations</a></li>
+                                    <li><a href="/content/www/en_US/shop/egift-certificate.html">eGift Certificate</a></li>
                                 
                                     <li><a href="/content/www/en_US/shop/skymiles-cruises.html">SkyMiles Cruises</a></li>
+                                
+                                    <li><a href="/content/www/en_US/shop/trip-protection.html">Trip Protection</a></li>
                                 
                                     <li><a href="/content/www/en_US/shop/news-special-offers.html">News &amp; Special Offers</a></li>
                                 
@@ -391,6 +466,8 @@ CQ_Analytics.PageDataMgr.addInitProperty('urlType', 'standard');
                                 
                                     <li><a href="/content/www/en_US/traveling-with-us/whats-new.html">What's New</a></li>
                                 
+                                    <li><a href="/content/www/en_US/traveling-with-us/check-flight-status.html">Check Flight Status</a></li>
+                                
                             </ul>
                         
                     </div>
@@ -421,7 +498,7 @@ CQ_Analytics.PageDataMgr.addInitProperty('urlType', 'standard');
                                 </li>
                             
                                 <li>
-                                    <a href="/content/www/en_US/skymiles/about-skymiles.html">About SkyMiles
+                                    <a href="/content/www/en_US/skymiles/skymiles-medallion-program.html">SkyMiles Medallion® Program
                                     
                                         <small></small>
                                     
@@ -456,13 +533,15 @@ CQ_Analytics.PageDataMgr.addInitProperty('urlType', 'standard');
                         
                             <ul class="secondCol">
                                 
-                                    <li><a href="/content/www/en_US/skymiles/skymiles-insider.html">The SkyMiles Insider</a></li>
-                                
-                                    <li><a href="/content/www/en_US/skymiles/skymiles-medallion-program.html">SkyMiles Medallion® Program</a></li>
+                                    <li><a href="/content/www/en_US/skymiles/about-skymiles.html">About SkyMiles</a></li>
                                 
                                     <li><a href="/content/www/en_US/skymiles/book-award-travel.html">Book Award Travel</a></li>
                                 
                                     <li><a href="/content/www/en_US/skymiles/crossover-rewards.html">Crossover Rewards™</a></li>
+                                
+                                    <li><a href="/content/www/en_US/skymiles/skymiles-insider.html">The SkyMiles Insider</a></li>
+                                
+                                    <li><a href="/content/www/en_US/skymiles/request-mileage-credit.html">Request Mileage Credit</a></li>
                                 
                             </ul>
                         
@@ -472,9 +551,10 @@ CQ_Analytics.PageDataMgr.addInitProperty('urlType', 'standard');
             <li class="menu-item search">
                 <form action="/dlsearch/index.jsp" name="searchFormHeader" id="searchFormHeader">
                     <div class="ui-widget">
+                    <label id="" class="overlabel overlabel-apply overlabel-wrapper searchHeaderStyle" for="searchTextHeader">Search</label>
                         <input type="text" name="searchText" id="searchTextHeader">
                         <input name="category" value="allresults" type="hidden">
-                        <button type="submit">Go</button>
+                        <button type="submit"></button>
                     </div>
                 </form>
             </li>
@@ -514,7 +594,8 @@ CQ_Analytics.PageDataMgr.addInitProperty('urlType', 'standard');
 <div class="clear">&nbsp;</div></div>
 
             </nav>
-            <div class="title parbase"><div class="pageTitle"><h1>Cookies, Privacy &amp; Security</h1></div></div>
+            <div class="title parbase"><div class="pageTitle"><h1>Cookies, Privacy &amp; Security</h1></div>
+</div>
 
             <!-- begin /apps/delta/www/components/page/twocolumn/content.jsp -->
 <div id="ContentWell" class="grid_12 alpha">
@@ -696,6 +777,24 @@ $(document).ready(function(){
        </div>
 
        <h3>
+           <a name="sharing+with+social+media">Sharing With Social Media</a>
+       </h3>
+   
+       <div>
+   
+           <div class="parsys subSection12"><div class="text section">
+
+    <div class="content rteDelta ">
+        <p>You may wish to share information and activities from this app with social media platforms. To utilize social media sharing features, you will be prompted to grant permissions within those platforms, as you choose.&nbsp;&nbsp; For Facebook updates, you will need to allow account login and publishing permissions.&nbsp; This enables you to: post questions and content to a feed, upload photos/videos, add likes and comments, create notes and post to events and groups.&nbsp; To facilitate login, the app will store your account credentials for the appropriate social media platform.</p>
+<p>Activity and data shared from the app to these platforms is covered by the internal privacy policy of each platform.</p>
+
+    </div>
+</div>
+</div>
+
+       </div>
+
+       <h3>
            <a name="data+retention">Data Retention</a>
        </h3>
    
@@ -818,7 +917,7 @@ $(document).ready(function(){
 
     <div class="content rteDelta ">
         <p>We collect information about your visits to our sites, such as your Internet service provider, browser type, operating system, pages accessed on our sites and the date and time of access to optimize your user experience and enhance your time spent with us online. We also receive information telling us what site you came to our site from.</p>
-<p>When you send us an email using the&nbsp;<a href="/tools/secure/emailus/servlet/EmailUs?cmd=go.html" target="_blank">Email Us</a>&nbsp;page, we will retain the content of the email, your email address, and our response in order to handle any follow-up questions you may have. We also use this information to measure how effectively we address your concerns.</p>
+<p>When you send us an email using the&nbsp;<a target="_blank" href="/tools/secure/emailus/servlet/EmailUs?cmd=go.html">Email Us</a>&nbsp;page, we will retain the content of the email, your email address, and our response in order to handle any follow-up questions you may have. We also use this information to measure how effectively we address your concerns.</p>
 
     </div>
 </div>
@@ -879,39 +978,6 @@ $(document).ready(function(){
        </div>
 
        <h3>
-           <a name="how+does+delta+use+cookies%2c+tags%2c+and+similar+technologies%3f">How does Delta use cookies, tags, and similar technologies?</a>
-       </h3>
-   
-       <div>
-   
-           <div class="parsys subSection5"><div class="text section">
-
-    <div class="content rteDelta ">
-        <p>Delta uses cookies, tags, and other similar technologies. These technologies allow us to recognize your preference information, keep track of your purchases, remember your SkyMiles number and facilitate effective site administration. We use the information we collect to enhance your visit to delta.com and to provide you with information tailored to your needs.</p>
-<p>You may elect to refuse cookies; however, doing so may affect your use of some portions of Delta’s and our partners’ web services. Please refer to your browser Help instructions to learn more about cookies.</p>
-<p>Delta has engaged third party tracking and advertising providers such as DoubleClick to act on Delta's behalf to track and analyze your usage of our sites through the use of cookies, pixel tags / web beacons, and similar technologies. These third parties collect, and share with us, as we may request, web site usage information about visits to our sites, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits through our sites, help us target our Internet banner advertisements on our sites and on other sites, and track use of our Internet banner advertisements and other links from our marketing partners' sites to our sites. The information collected on Delta’s behalf by these third parties does not contain your name, address, email address, or any other personally identifiable information. To see further information about cookies on delta.com and opt out of some as you choose, see the descriptions and links&nbsp; below.&nbsp; To continue to accept cookies and browse normally on delta.com, click&nbsp;<a href="http://www.delta.com/">here</a>.</p>
-<p>Types of cookies and tags on our site:</p>
-<ul>
-<li>Functionality: Used to remember your preferences for using the site and for facilitating transactions such as flight searches and purchases.</li>
-<li>Performance or Analytics: Used to anonymously measure site activity to improve visitor experience.</li>
-<li>Targeting: Used to display information and offers that specifically interest you.</li>
-</ul>
-<p><b>Opt out<br>
- </b>In the section below, we provide links to resources for opting out of different types of cookies.</p>
-<p>Click&nbsp;<a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here</a>&nbsp;to visit the Network Advertising Initiative site to set preferences and opt out of third party targeting cookies used, including these vendors: Adara Media, Blue Kai, Casale Media, Invite Media, Media Mind, Microsoft Advertising<br>
-</p>
-<p>Click&nbsp;<a href="https://www.google.com/settings/ads/onweb/?hl=en&amp;hl=en" target="_blank">here</a>&nbsp;to opt out of the Google Network (Doubleclick, AdSense, Analytics),</p>
-<p>Click&nbsp;<a href="http://www.adobe.com/privacy/opt-out.html#4" target="_blank">here</a>&nbsp;to opt out of Adobe Site Services.</p>
-<p>EU visitors can find general information and opt-out resources at&nbsp;<a href="http://www.youronlinechoices.eu/" target="_blank">youronlinechoices.eu</a>&nbsp;and US visitors can see&nbsp;<a href="http://www.aboutads.info/choices/" target="_blank">aboutads.info</a>.</p>
-<p>You may also configure your own browser settings directly to handle cookies.&nbsp; Directions can be found in the Privacy and Security settings in the Help function of all major browsers.</p>
-
-    </div>
-</div>
-</div>
-
-       </div>
-
-       <h3>
            <a name="how+is+my+personally+identifiable+information+protected%3f">How is my personally identifiable information protected?</a>
        </h3>
    
@@ -921,6 +987,80 @@ $(document).ready(function(){
 
     <div class="content rteDelta ">
         <p>For more information on how we secure your transactions, read our Security statement below.</p>
+
+    </div>
+</div>
+</div>
+
+       </div>
+
+    </div> 
+
+</div>
+<div class="accordiontype section">
+
+
+
+    <div class="contentWrapper" id="accordion">
+        <h2 class="contentWrapperHeader">How Delta uses cookies, tags, and similar technologies</h2>
+        <div id="ExpandAll"><a href="#">Expand All</a></div>
+
+       <h3 class="alpha">
+           <a name="cookies">Cookies</a>
+       </h3>
+   
+       <div>
+   
+           <div class="subSection100 parsys"><div class="text section">
+
+    <div class="contentWrapper rteDelta ">
+        <p>Delta uses cookies, tags, and other similar technologies. These technologies allow us to recognize your preference information, keep track of your purchases, remember your SkyMiles number and facilitate effective site administration. We use the information we collect to enhance your visit to delta.com and to provide you with information tailored to your needs.</p>
+<p>You may elect to refuse cookies; however, doing so may affect your use of some portions of Delta’s and our partners’ web services. Please refer to your browser Help instructions to learn more about cookies.</p>
+<p>Delta has engaged third party tracking and advertising providers such as DoubleClick to act on Delta's behalf to track and analyze your usage of our sites through the use of cookies, pixel tags / web beacons, and similar technologies. These third parties collect, and share with us, as we may request, web site usage information about visits to our sites, measure and research the effectiveness of our advertisements, track page usage and paths followed during visits through our sites, help us target our Internet banner advertisements on our sites and on other sites, and track use of our Internet banner advertisements and other links from our marketing partners' sites to our sites. The information collected on Delta’s behalf by these third parties does not contain your name, address, email address, or any other personally identifiable information. To see further information about cookies on delta.com and opt out of some as you choose, see the descriptions and links below.&nbsp; To continue to accept cookies and browse normally on delta.com, click&nbsp;<a href="http://www.delta.com/">here</a>.</p>
+
+    </div>
+</div>
+</div>
+
+       </div>
+
+       <h3>
+           <a name="types+of+cookies+and+tags+on+our+site">Types of cookies and tags on our site</a>
+       </h3>
+   
+       <div>
+   
+           <div class="subSection101 parsys"><div class="text section">
+
+    <div class="contentWrapper rteDelta ">
+        <ul>
+<li>Functionality: Used to remember your preferences for using the site and for facilitating transactions such as flight searches and purchases.</li>
+<li>Performance or Analytics: Used to anonymously measure site activity to improve visitor experience.</li>
+<li>Targeting: Used to display information and offers that specifically interest you.</li>
+</ul>
+
+    </div>
+</div>
+</div>
+
+       </div>
+
+       <h3>
+           <a name="opt+out">Opt Out</a>
+       </h3>
+   
+       <div>
+   
+           <div class="parsys subSection102"><div class="text section">
+
+    <div class="contentWrapper rteDelta ">
+        <p>In the section below, we provide links to resources for opting out of different types of cookies.</p>
+<p>Click&nbsp;<a href="http://www.networkadvertising.org/managing/opt_out.asp">here</a>&nbsp;to visit the Network Advertising Initiative site to set preferences and opt out of third party targeting cookies used, including these vendors: Adara Media, Blue Kai, Casale Media, Invite Media, Media Mind, Microsoft Advertising<br>
+</p>
+<p>Click&nbsp;<a href="https://www.google.com/settings/ads/onweb/?hl=en&amp;hl=en">here</a>&nbsp;to opt out of the Google Network (Doubleclick, AdSense, Analytics),</p>
+<p>Click&nbsp;<a href="http://www.adobe.com/privacy/opt-out.html#4">here</a>&nbsp;to opt out of Adobe Site Services.</p>
+<p>EU visitors can find general information and opt-out resources at&nbsp;<a href="http://www.youronlinechoices.eu/">youronlinechoices.eu</a>&nbsp;and US visitors can see&nbsp;<a href="http://www.aboutads.info/choices/">aboutads.info</a>.</p>
+<p>You may also configure your own browser settings directly to handle cookies.&nbsp; Directions can be found in the Privacy and Security settings in the Help function of all major browsers.</p>
 
     </div>
 </div>
@@ -944,9 +1084,10 @@ $(document).ready(function(){
     <div class="par parsys"><div class="text section">
 
     <div class="content rteDelta ">
-        <p>We do not sell your name or other personally identifiable information to third parties, and do not intend to do so in the future. We routinely share your information with our&nbsp;<a href="/content/www/en_US/skymiles/earn-miles/earn-miles-with-partners.html">SkyMiles Partners</a>&nbsp;and <a href="#PromotionPartner">Promotional Partners</a> and our subsidiaries including Delta Connection® Carriers. From time to time, we may engage third parties to process your information on our behalf; however, Delta requires that these third parties comply with Delta’s Privacy Policy when processing this information. When you purchase services or products through Delta that are to be provided by another party (for example, a travel segment on another carrier, hotel accommodations, or rental car), we share your information with the third-party so that the third-party can provide the services or products you requested. We may also receive information about you from the third-party providers. We may share with third parties anonymous, aggregated information about all our users.</p>
+        <p>We do not sell your name or other personally identifiable information to third parties, and do not intend to do so in the future. We routinely share your information with our <a href="/content/www/en_US/skymiles/earn-miles.html">SkyMiles Partners</a> and <a href="#PromotionalPartners">Promotional Partners</a> and our subsidiaries including Delta Connection® Carriers. From time to time, we may engage third parties to process your information on our behalf, or to assist us in improving our services and/or products; however, Delta requires that these third parties comply with Delta’s Privacy Policy when processing your information. When you purchase services or products through Delta that are to be provided by another party (for example, a travel segment on another carrier, hotel accommodations, or rental car), we share your information with the third-party so that the third-party can provide the services or products you requested. We may also receive information about you from the third-party providers. We may share with third parties anonymous, aggregated information about all our users.<br>
+</p>
 <p>Please note that the security regulations of several countries may require us to provide foreign and domestic government agencies with access to the data you disclose to us and data that we have about you and your travel plans, history, or status.</p>
-<p>We may disclose personally identifiable information to government authorities or to third parties pursuant to a subpoena or other legal process, to the extent we are required by law to do so. Personally identifiable information and travel data may also be collected, used, processed and transferred to facilitate travel, including obtaining immigration and customs clearance; to comply with, or assist in the development of, security or safety measures for passengers, baggage or cargo, or for the prevention, detection, apprehension or prosecution of criminal acts; and to protect the legal rights of Delta.</p>
+<p>We may disclose personally identifiable information to government authorities or to third parties pursuant to a subpoena or other legal process. Personally identifiable information and travel data may also be collected, used, processed and transferred to facilitate travel, including obtaining immigration and customs clearance, and to comply with, or assist in the development of, security or safety measures for passengers, baggage or cargo.&nbsp;&nbsp; We reserve the right to collect, use, process and disclose personally identifiable information and travel data&nbsp; to protect the rights or property of Delta, our customers, our websites, or their users, for fraud detection or prevention, for the prevention, detection, apprehension or prosecution of criminal acts or when we believe in good faith that it is in the interest of aviation security or that disclosure is otherwise necessary or advisable.</p>
 <p>If your ticket is purchased pursuant to a corporate incentive agreement, we may disclose personally identifiable information concerning your travel to your employer or corporate travel manager.</p>
 
     </div>
@@ -1127,11 +1268,11 @@ $(document).ready(function(){
             <!--[if lt IE 9]><div class="footerContainer"><![endif]-->
             <div id="footer">
              <div class="footerOptions"> 
-                <a href="/content/www/en_US/site-map.html" class="alpha">Site Map</a><a href="/content/www/en_US/about-delta.html">About Delta</a><a href="/content/www/en_US/business-programs.html">Business Programs</a><a href="/content/www/en_US/corporate-travel.html">Corporate Travel</a><a href="/content/www/en_US/travel-agents.html" target="_blank">Travel Agents</a><a href="/content/www/en_US/careers.html" target="_blank">Careers</a><a href="/content/www/en_US/privacy-and-security.html">Cookies, Privacy &amp; Security</a><a href="/content/www/en_US/legal.html">Legal</a><a href="/content/www/en_US/delta-blog.html">Blog</a><a href="/content/www/en_US/social.html">Social</a><a href="/content/www/en_US/mobile.html" class="icon mobileFooter">Mobile App</a>
+                <a href="/content/www/en_US/site-map.html" class="alpha">Site Map</a><a href="/content/www/en_US/about-delta.html">About Delta</a><a href="/content/www/en_US/business-programs.html">Business Programs</a><a href="/content/www/en_US/corporate-travel.html">Corporate Travel</a><a href="/content/www/en_US/travel-agents.html" target="_blank">Travel Agents</a><a href="/content/www/en_US/careers.html" target="_blank">Careers</a><a href="/content/www/en_US/privacy-and-security.html">Privacy &amp; Security</a><a href="/content/www/en_US/privacy-and-security.html#cookies">Cookies &amp; Ad Choices</a><a href="/content/www/en_US/legal.html">Legal</a><a href="/content/www/en_US/delta-blog.html" target="_blank">Blog</a><a href="/content/www/en_US/social.html">Social</a><a href="/content/www/en_US/mobile.html" class="icon mobileFooter">Mobile App</a>
              </div>
                 <div id="NonSitePages">
                     <span id="Copyright">©2013 Delta Air Lines, Inc.</span>
-                    <!-- mp_trans_remove_start --><span id="OpinionLab"><a href="javascript:O_LC();">Feedback</a></span><!-- mp_trans_remove_end -->
+                    <!-- mp_trans_remove_start --><span id="OpinionLab"><a href="javascript:O_LC();">Website Feedback</a></span><!-- mp_trans_remove_end -->
                 </div>
             </div>
             <!--[if lt IE 9]></div><![endif]-->
@@ -1162,12 +1303,17 @@ $(document).ready(function(){
 
 
 
+
+
+
+
+<!-- baseurl is: //www.delta.com -->
 <nav id="nav-widget" class="docked">
     <section id="nav-widget-expander">
         <span class="minimized">↑</span>
         <span class="maximized">↓</span>
     </section>
-    <!-- begin login widget content : http://www1.delta.com/widgetnav/pages/custlogin/index.jsp?isHomePage=false -->
+    <!-- begin login widget content : http://www.delta.com/widgetnav/pages/custlogin/index.jsp?isHomePage=false -->
     
 
 
@@ -1176,31 +1322,14 @@ $(document).ready(function(){
 	var loginSecureDomain = 'https://www.delta.com';
 	var loginHostServer='www.delta.com';
 </script>
-<style type="text/css">
-.lastNameDiv .loginDelta{
-	margin-left: 8px;
-}
 
-#login-content .lastNameDiv span.loginDelta{
-	display:none !important;
-}
-
-#loginwidget.homepage div#lastnameTextboxDiv {
-    margin: 2px 0 0 8px !important;
-}
- 
-#loginwidget.homepage #loginboxCss {
-    margin: 1px 0 0 9px !important;
-}
-
-</style>
 <section id="nav-widget-user"> 
 
 <!-- Not Logged in  -->
 <div id="loginwidget" class="mainDiv bottomNav loggedout hideMe">
 		<div id="login">
 			<form name="loginForm" id="loginForm" autocomplete="off" method="post" action="https://www.delta.com/custlogin/login.action">
-				<input type="hidden" value="//www1.delta.com" name="loginpath" class="setloginpath">
+				<input type="hidden" value="//www.delta.com" name="loginpath" class="setloginpath">
 				<input type="hidden" value="" name="usernameType" class="usernameType">
 				<input type="hidden" value="" name="passwordType" id="passwordType">
 				<input type="hidden" value="" name="homePg" id="homePg">
@@ -1215,29 +1344,28 @@ $(document).ready(function(){
 							<div class="showLoginLinks"> <!-- Changes for login - as per styleguide - missed in the last build -->
 								<span class="loginDelta home-txt"><span class="login-ie">Log in To&nbsp;</span> My Delta</span> 
 								<span class="loginDelta">&nbsp; | </span>
-								<span class="signUp sign-up-now"><a href="https://www.delta.com/profile/enrolllanding.action">Sign Up<span class="login-ie">&nbsp;Now</span></a></span>  
-								<span class="loginDelta">&nbsp; | </span>
+								<span class="signUp sign-up-now"><a href="https://www.delta.com/profile/enrolllanding.action">Sign Up<span class="login-ie">&nbsp;Now</span></a></span> 
 							</div>
 							<div class="showNotMe">
 								<span class="notMe"></span>
-								<span class="signUp linknotme">|&nbsp;<a href="#">Not Me</a></span>&nbsp;|
+								<span class="signUp linknotme">|&nbsp;<a href="#">Not Me</a></span>&nbsp;
 							</div>
-							<span class="signUp"><a href="#" class="loginHelpLink1">Login Help</a></span>														
 						</div>
 					</div>
 					<div id="loginnav1">
 						<fieldset>
 							<div id="loginFields">
 								<div id="usernm-1" class="overlabel-wrapper">
-									<label for="usernm" id="lblUser_Nm" class="overlabel">SkyMiles#, Email or Username</label>
+									 <label for="usernm" id="lblUser_Nm" class="overlabel">SkyMiles#, Email or Username</label> 
 									<input id="usernm" type="text" value="" name="usernm" mpdistrans="">
 								</div>
 								<div id="pwd-1" class="overlabel-wrapper">
-									<label for="pwd" id="lblPwd" class="overlabel fixMe">Password or PIN</label>
+									<label for="pwd" id="lblPwd" class="overlabel fixMe">Password or PIN</label> 
 									<input id="pwd" type="password" value="" name="pwd" mpdistrans="">
+
 								</div>
 								<div id="submit-1">
-									<button type="submit" class="ui-button ui-button-secondary fancybox" name="Submit" value=">" id="Submit1">&gt;</button>
+									<button type="submit" class="ui-button ui-button-secondary fancybox go-btn" name="Submit" value=">" id="Submit1">GO</button>
 								</div>
 							</div>
 							<div id="remDiv">
@@ -1247,6 +1375,7 @@ $(document).ready(function(){
 								<div id="remberLbl">
 									<label for="rememberme" class="labelremember" id="lbl-remember-me">Remember Me</label>
 								</div>
+								<a href="#" class="loginHelpLink1">Forgot <span>Login/</span>Password</a>								
 							</div>
 						</fieldset>
 					</div>
@@ -1264,7 +1393,7 @@ $(document).ready(function(){
 				<!-- Start of Last name Div-->
 			<div id="lastNmForm">
 			 <form name="lastNameForm" id="lastNameForm" method="post" action="https://www.delta.com/custlogin/login.action">
-				<input type="hidden" value="//www1.delta.com" name="loginpath" class="setloginpath">
+				<input type="hidden" value="//www.delta.com" name="loginpath" class="setloginpath">
 				<input type="hidden" value="" name="usernameType" class="usernameType">
 				<input type="hidden" value="" name="passwordType" id="passwordType">
 				<input type="hidden" value="" name="homePg" id="homePg">
@@ -1274,7 +1403,7 @@ $(document).ready(function(){
 				<input type="hidden" value="" name="rememberMe" class="rememberMe">
 				<input type="hidden" value="" name="BAUParams" id="BAUParams2" class="BAUParams">
 				<div class="lastNameDiv hideMe">
-					<div id="loginnavlst"> </div>
+					<div id="loginnavlst"> Enter Last Name </div>
 					<div class="loginPindetected">
 						<fieldset>
 							<span class="loginDelta">
@@ -1285,13 +1414,13 @@ $(document).ready(function(){
 
 							</div>
 								<div id="lastnameTextboxDiv" class="overlabel-wrapper">
-									<label for="lastname" id="lblLst_Nm" class="overlabel">Enter Last Name</label>
+									<label for="lastname" id="lblLst_Nm" class="overlabel">Enter Last Name</label> 
 									<input type="text" name="lastname" id="lastname" value="" mpdistrans="">
 										<input type="hidden" value="" name="lastNmErr" id="lastNmErr">
 								</div>
 								<div id="loginboxCss"> 
 									<!-- input type="submit" value="&gt;" name="Submit" id="lastnameSubmitBtn" class="ui-button ui-button-secondary finalSubmit" tabindex=""-->
-									<button type="submit" name="Submit" value=">" id="lastnameSubmitBtn" class="ui-button ui-button-secondary finalSubmit">&gt;</button>
+									<button type="submit" name="Submit" value=">" id="lastnameSubmitBtn" class="ui-button ui-button-secondary finalSubmit go-btn">GO</button>
 								</div>
 							</div>
 							<div class="errorLstRqd"> </div>
@@ -1312,26 +1441,27 @@ $(document).ready(function(){
 					{{#if skymilesMember}}
 						{{#if medallionMbrInd}}
 							<div class="floatLeft" id="logoutUserInfo">
-								<div id="custlogin_name" class="custlogin_userInfo">{{isPreferrednamePresent}}</div>
+								<div id="custlogin_name" class="custlogin_userInfo ellipsis" title="{{isPreferrednamePresent}}">{{isPreferrednamePresent}}</div>
 								<div class="medallion-mem-info">{{=medallionMemberDesc}} &#174;</div>
 								<span class="custlogin_sm-info">&#35;{{=smNumber}} | <a href="/acctactvty/manageacctactvty.action"><span id="sky-miles">{{=smBalance}}</span> Miles</a></span>
 							</div>
-							<div id="custlogin_logoutLink" class="floatRight"><a href="/custlogin/logout.action" title="logout link">LOG OUT</a></div>
+							<a class="logout-lnk" href="/custlogin/logout.action" title="logout link">LOG OUT</a>
 							{{isMillionMiler}}
 						{{else}}
 							<div class="floatLeft" id="logoutUserInfo">
-								<div id="custlogin_name" class="custlogin_userInfo">{{isPreferrednamePresent}}</div>
+								<div id="custlogin_name" class="custlogin_userInfo ellipsis" title="{{isPreferrednamePresent}}">{{isPreferrednamePresent}}</div>
 								<span class="custlogin_sm-info">&#35;{{=smNumber}} | <a href="/acctactvty/manageacctactvty.action"><span id="sky-miles">{{=smBalance}}</span> Miles</a></span>
 							</div>
-							 <div id="custlogin_logoutLink" class="floatRight"><a href="/custlogin/logout.action" title="logout link">LOG OUT</a></div>
+							 <a class="logout-lnk" href="/custlogin/logout.action" title="logout link">LOG OUT</a>
 						{{/if}}
 					{{else}}
 						<div class="floatLeft" id="logoutUserInfo">
-							<div id="custlogin_name" class="custlogin_userInfo">{{isPreferrednamePresent}}</div>	
+							<div id="custlogin_name" class="custlogin_userInfo ellipsis" title="{{isPreferrednamePresent}}">{{isPreferrednamePresent}}</div>	
 							<span id="joinSm" class="custlogin_userInfo"><a href="/profile/enrolllanding.action">ENROLL IN SKYMILES</a></span>				
 						</div>
-						<div id="custlogin_logoutLink" class="floatRight"><a href="/custlogin/logout.action" title="logout link">LOG OUT</a></div>
+						<a class="logout-lnk" href="/custlogin/logout.action" title="logout link">LOG OUT</a>
 					{{/if}}
+					{{myProfileButton}}					
 				</div>
 			</div>
 			</script>		   
@@ -1341,7 +1471,7 @@ $(document).ready(function(){
 
     <section id="nav-widget-mydelta">
         <h3>My Trips</h3>
-        <small>Trips, Tools &amp; Account Info</small>
+        <small>Manage an Existing Trip</small>
     </section>
     <section id="nav-widget-booking">
         <h3>Book a Trip</h3>
@@ -1356,8 +1486,8 @@ $(document).ready(function(){
         <small>Boarding Pass &amp; Baggage</small>
     </section>
     <section id="nav-widget-escape">
-        <h3>Escape</h3>
-        <small>Vacation Packages &amp; Destinations</small>
+        <h3>Vacations</h3>
+        <small>Book Together and Save</small>
     </section>
     
     <section id="nav-widget-need-help">
@@ -1366,12 +1496,15 @@ $(document).ready(function(){
     </section>
     <div id="irop-indicator">
         <a href="#">
-            <img src="/content/dam/delta-applications/common/chrome/icons/alerts_errors/alert-dot-medium.gif">
+            <img src="//content.delta.com/content/dam/delta-applications/common/chrome/icons/alerts_errors/alert-dot-medium.gif">
         </a>
     </div>
     
+    
+    <!-- begin other widget content : http://www.delta.com/widgetnav/pages/widgetnav/index.jsp?isHomePage=false -->
 </nav>
-<!-- begin other widget content : http://www1.delta.com/widgetnav/pages/widgetnav/index.jsp?isHomePage=false -->
+
+    
 
 
 
@@ -1379,34 +1512,38 @@ $(document).ready(function(){
 
 
 
-
-<link rel="stylesheet" type="text/css" media="screen" href="/widgetnav/gzip_749548337/bundles/widgetNav/css/widgetNav.cssbundle">
+<link rel="stylesheet" type="text/css" media="screen" href="//content.delta.com/widgetnav/gzip_N1335151367/bundles/widgetNav/css/widgetNav.cssbundle">
 
 <!--[if lt IE 10]>
-<link rel="stylesheet" type="text/css" media="screen" href="/widgetnav/gzip_N818089523/bundles/widgetNav/css/widgetNavIE.cssbundle" />
+<link rel="stylesheet" type="text/css" media="screen" href="//content.delta.com/widgetnav/gzip_1977952078/bundles/widgetNav/css/widgetNavIE.cssbundle" />
 <![endif]-->
 
 <!--[if IE 8]>
-<link rel="stylesheet" type="text/css" media="screen" href="/widgetnav/gzip_2128912682/bundles/widgetNav/css/widgetNavIE8.cssbundle" />
+<link rel="stylesheet" type="text/css" media="screen" href="//content.delta.com/widgetnav/gzip_N1027714269/bundles/widgetNav/css/widgetNavIE8.cssbundle" />
 <![endif]-->
 
 <!--[if IE 9]>
-<link rel="stylesheet" type="text/css" media="screen" href="/widgetnav/gzip_1063942526/bundles/widgetNav/css/widgetNavIE9.cssbundle" />
+<link rel="stylesheet" type="text/css" media="screen" href="//content.delta.com/widgetnav/gzip_1082691558/bundles/widgetNav/css/widgetNavIE9.cssbundle" />
 <![endif]-->
 
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" media="screen" href="/widgetnav/gzip_N546418098/bundles/widgetNav/css/widgetNavIE7.cssbundle" />
+<link rel="stylesheet" type="text/css" media="screen" href="//content.delta.com/widgetnav/gzip_N2104122911/bundles/widgetNav/css/widgetNavIE7.cssbundle" />
 <![endif]-->
 
 <!--[if IE 6]>
-<link rel="stylesheet" type="text/css" media="screen" href="/widgetnav/gzip_493451751/bundles/widgetNav/css/widgetNavIE6.cssbundle" />
+<link rel="stylesheet" type="text/css" media="screen" href="//content.delta.com/widgetnav/gzip_493451751/bundles/widgetNav/css/widgetNavIE6.cssbundle" />
 <![endif]-->
 
 <div id="login-content">
 	<div id="login-content-lastname"></div>
-	<div id="login-content-errors"></div>
+	<div id="login-content-errors">	
+		<div id="ui-error-holder"></div>
+	</div>
 </div>
-<div id="mytrips-content" style="display:none">
+<div id="widget-mytrips" class="widget-container-docked">
+	
+		<div class="widgetCloseHeader"><div class="close"><img src="/etc/designs/delta/images/widget_close_x.png" alt="close"></div></div>
+	
 	
 	
 
@@ -1686,28 +1823,23 @@ $(document).ready(function() {
 </script>
 	
 </div>
-<div id="mydelta-content" style="display:none">
+<div id="widget-mydelta" class="widget-container-docked">
+	
+		<div class="widgetCloseHeader"><div class="close"><img src="/etc/designs/delta/images/widget_close_x.png" alt="close"></div></div>
 	
 	
+		
 
 
 
-<!-- 
 
-Fixes for Defect#6673:
 
--Migrate JSRender template from WidgetNav into MyDelta
 
--Added error handling and display of error messages  for 
-
- failure scenarios (not logged in, no data, URL don't exist
-
- -->
-<!-- Lucas removed clearfix div -->
-<!-- Lucas added widget-wrapper class to container -->
 <div id="myDeltaWidgetWrapper" class="myDeltaSummaryDiv widgetWrapper">
-	<!-- Lucas removed myDeltaWidgetWrapper -->
-	<div class="myDeltaSummary_content no_bottom_border" id="myDeltaSummary">
+	
+	<div class="myDeltaSummary_content no_bottom_border" id="myDeltaSummaryTracker">
+	</div>
+	<div class="myDeltaSummary_content no_bottom_border" id="myDeltaSummaryUpcomingTrips">
 		<div id="loadingImage"></div>
 	</div>
 	<script id="deltaSummaryErrorTemplate" type="text/x-jQuery-tmpl">
@@ -1718,30 +1850,31 @@ Fixes for Defect#6673:
 				</li>
 			</ul>
 		</div>	
-		</script>
-	<!-- Lucas removed containers around the button myDeltaSummary_content, and mydelta_button_container-->
+	</script>
+	<div class="myDeltaSummary_content no_top_border">
+		<div id="mydelta_button_container" class="no_top_border sectionMyDeltaButton">
+			<button onclick="MyDeltaSummaryWidget.gotoDashboard();mydeltaLinksTracking(this);" title="Go To My Delta Button" id="btnGoToMyDelta" value="GO TO MY DELTA" class="secondaryLarge">GO TO MY DELTA</button>
+		</div>
+	</div>
 </div>
-<div id="mydelta_button_container">
-	<button onclick="MyDeltaSummaryWidget.gotoDashboard();mydeltaLinksTracking(this);" title="Go To My Delta Button" id="btnGoToMyDelta" value="GO TO MY DELTA" class="secondaryLarge">GO TO MY DELTA</button>
-</div>
-<!-- Lucas removed clear div -->
-
 	
 </div>
-<div id="booking-content" style="display:none">
+
+<div id="widget-booking" class="widget-container-docked">
+	
+		<div class="widgetCloseHeader"><div class="close"><img src="/etc/designs/delta/images/widget_close_x.png" alt="close"></div></div>
+	
 	<div class="tabContainer">
 		<div id="book-tabs">
 			<ul>
 				<li><a id="book-air-content-trigger" href="#book-air-content">Flight</a></li>
 				<li><a id="book-hotel-content-trigger" href="#book-hotel-content">Hotel</a></li>
 				<li id="book-car-content-tab"><a id="book-car-content-trigger" href="#book-car-content">Car</a></li>
-				
 				<!-- li><a id="book-deals-content-trigger" href="#book-deals-content">Deals</a></li -->
-				
 			</ul>
 			<div id="book-air-content">
 				
-				
+					
 
 
 
@@ -1752,7 +1885,7 @@ Fixes for Defect#6673:
 <div id="air-shopping-widget-mainContent">
 	<div id="air-shopping-widget">
 		<div class="widget-body">
-			<div class="hideDisplay" id="serverDate">2013-3-24</div>
+			<div class="hideDisplay" id="serverDate">2013-10-27</div>
 			<div class="hideDisplay" id="recentSavedFlag">
 				
 			</div>
@@ -1783,9 +1916,10 @@ Fixes for Defect#6673:
 							<div class="left-trip-btn-cont">
 								<button class="btn-round-trip trip-selected" id="roundTripBtn" type="button">Round Trip</button>
 								<button class="btn-one-way-trip" id="oneWayBtn" type="button">One Way</button>
+								<button class="btn-multy-city" id="air-shopping-multicity-link" type="button">Multi-City</button>
 								<input type="hidden" name="tripType" value="roundtrip" id="pol_widget_tripType">
 							</div>
-							<div class="btn-multy-city"><a href="javascript:void(0);" title="Multi-city" id="air-shopping-multicity-link">Multi-city</a></div>
+							
 						</div>
 						<div class="clear"></div>
 						<div id="book-air-errorMsg" class="red_error_nomassage"></div>
@@ -1815,16 +1949,16 @@ Fixes for Defect#6673:
 									</div>
 								</div>
 								<div class="clear"></div>
-								<div class="dateFieldWrap">
+								<div class="dateFieldWrap airShoppingDateFieldWrap">
 									<div class="search-left-cell">
 										<div class="inputWrap">
-											<input type="text" name="departureDate[0]" maxlength="10" value="" tabindex="103" id="departureDate" class="search-txt-field-Cal" placeholder="Depart Date">
+											<input type="text" name="departureDate[0]" maxlength="10" value="" tabindex="103" id="departureDate" class="search-txt-field-Cal depart" placeholder="Depart Date">
 											<span class="calendarClickIcon" id="depDateCalIcon"></span> </div>
 									</div>
 									<div class="search-middle-cell">&nbsp;</div>
 									<div class="search-right-cell">
 										<div id="roundtripDateWrap">
-											<input type="text" name="departureDate[1]" maxlength="10" value="" tabindex="104" id="returnDate" class="search-txt-field-Cal" placeholder="Return Date">
+											<input type="text" name="departureDate[1]" maxlength="10" value="" tabindex="104" id="returnDate" class="search-txt-field-Cal return" placeholder="Return Date">
 											<span class="calendarClickIcon" id="retDateCalIcon"></span> </div>
 									</div>
 								</div>
@@ -1834,12 +1968,12 @@ Fixes for Defect#6673:
 								<div class="pad-top5" id="pol_widget_checkbox_div">
 									<div class="float-left">
 										<div id="searchAir-searchOptions" class="search-left-cell">
-											<label for="isDatesFlexible" class="checkbox-lbl">
+											<label for="isDatesFlexible" class="checkbox-lbl myFlexDate">
 												<input type="checkbox" name="flexDates" value="true" tabindex="105" id="isDatesFlexible"><input type="hidden" id="__checkbox_isDatesFlexible" name="__checkbox_flexDates" value="true">
 												<span>My dates are flexible</span></label>
 											<label for="book_award_checkbox" class="checkbox-lbl">
 												<input type="checkbox" name="isBookAwardTravel" value="true" tabindex="107" id="book_award_checkbox"><input type="hidden" id="__checkbox_book_award_checkbox" name="__checkbox_isBookAwardTravel" value="true">
-												<span>Book award travel</span></label>
+												<span>Book Award Travel</span></label>
 																						
 										</div>
 										<div class="search-middle-cell">&nbsp;</div>
@@ -2004,7 +2138,7 @@ Fixes for Defect#6673:
 			</div>
 			<div id="book-hotel-content">
 				
-				<!--start /components/pages/merch/hotelSearchWidget.jsp-->
+					<!--start /components/pages/merch/hotelSearchWidget.jsp-->
 
 
 
@@ -2015,7 +2149,7 @@ Fixes for Defect#6673:
 	<form id="searchHotelWidgetForm" method="post" action="/merch/searchHotelAction.action" class="customFormUI">
 		
 		<div id="bookTrip" class="alpha">
-			<div class="hideElement" id="serverDateHotel">2013-04-24</div>
+			<div class="hideElement" id="serverDateHotel">2013-11-27</div>
 			<div id="dateText" class="hideElement"></div>
 			<div id="debug" class="hideElement"></div>
 			
@@ -2060,16 +2194,16 @@ Fixes for Defect#6673:
 						
 						<div>
 							
-							<label id="" class="textLabel" for="hotelLocation">WHERE ARE YOU GOING?</label>
+							<label class="textLabel" for="hotelLocation">WHERE ARE YOU GOING?</label>
 						</div>
 						<div>
 							
 							
-							<input type="text" name="hotelSearchCriteria.destinationCityCode" maxlength="150" value="Airport, City, Attraction or Address" tabindex="12102" id="hotelLocation" class="auto-hint destinationCityCodeForWidget">
+							<input type="text" name="hotelSearchCriteria.destinationCityCode" maxlength="150" value="" tabindex="12102" id="hotelLocation" class="destinationCityCodeForWidget" placeholder="Airport, City, Attraction or Address">
 						</div>
 					</div>
 				</fieldset>
-				
+				<div class="dateFieldWrap hotelDateFieldWrap">
 				<fieldset class="checkInCheckOutHotelWidget">
 					<div id="checkInDiv">
 						<div>
@@ -2078,7 +2212,7 @@ Fixes for Defect#6673:
 						</div>
 						<div>
 							
-							<input type="text" name="checkInDate" maxlength="15" value="mm/dd/yyyy" tabindex="12103" id="checkInDateWidget" class="dateClass auto-hint checkInCheckOutDate" title="">
+							<input type="text" name="checkInDate" maxlength="15" value="" tabindex="12103" id="checkInDateWidget" class="dateClass  depart checkInCheckOutDate" title="" placeholder="mm/dd/yyyy">
 						</div>
 					</div>
 				</fieldset>
@@ -2090,15 +2224,16 @@ Fixes for Defect#6673:
 						</div>
 						<div>
 							
-							<input type="text" name="checkOutDate" maxlength="15" value="mm/dd/yyyy" tabindex="12104" id="checkOutDateWidget" class="dateClass auto-hint checkInCheckOutDate" title="">
+							<input type="text" name="checkOutDate" maxlength="15" value="" tabindex="12104" id="checkOutDateWidget" class="dateClass  return checkInCheckOutDate" title="" placeholder="mm/dd/yyyy">
 						</div>
 					</div>
 				</fieldset>
+				</div>
 				<fieldset class="roomsAdultsChildFieldset roomsHotelWidget">
-					<div id="" class="class java.util.HashMap">
+					<div class="class java.util.HashMap">
 						<div>
 							
-							<label id="" class="roomLabelForHotelWidget textLabel" for="numberOfRoomsWidget">ROOMS</label>
+							<label class="roomLabelForHotelWidget textLabel" for="numberOfRoomsWidget">ROOMS</label>
 						</div>
 						<div class="styled-select styledSelectWidth">
 							<select name="numberOfRooms" tabindex="12105" id="numberOfRoomsWidget" class="styledSelectWidth">
@@ -2119,10 +2254,10 @@ Fixes for Defect#6673:
 					</div>
 				</fieldset>
 				<fieldset class="roomsAdultsChildFieldset" id="fsHotelWidgetNumberOfAdults">
-					<div id="" class="class java.util.HashMap">
+					<div class="class java.util.HashMap">
 						<div>
 							
-							<label id="" class="adultsLabelForHotelWidget textLabel" for="numberOfAdultsWidget">ADULTS (18+)</label>
+							<label class="adultsLabelForHotelWidget textLabel" for="numberOfAdultsWidget">ADULTS (18+)</label>
 						</div>
 						<div class="styled-select styledSelectWidth">
 							<select name="numberOfAdults" tabindex="12106" id="numberOfAdultsWidget" class="styledSelectWidth">
@@ -2144,11 +2279,11 @@ Fixes for Defect#6673:
 					</div>
 				</fieldset>
 				<fieldset class="roomsAdultsChildFieldset childrenHotelWidget" id="fsHotelWidgetNumberOfChild">
-					<div id="" class="class java.util.HashMap">
+					<div class="class java.util.HashMap">
 						
 						<div id="hotelWidgetChildrenDiv">
 							
-							<label id="" class="childrenLabelForHotelWidget textLabel" for="numberOfChildrenWidget">CHILDREN (0-17)</label>
+							<label class="childrenLabelForHotelWidget textLabel" for="numberOfChildrenWidget">CHILDREN (0-17)</label>
 							
 							<span id="hotelWidgetHelpIcon"></span> </div>
 						<div class="styled-select styledSelectWidth">
@@ -2175,7 +2310,7 @@ Fixes for Defect#6673:
 				
 				<button type="submit" id="hotelTripSubmit" name="hotelTripSubmit" class="secondaryLarge" tabindex="12108" value="Submit">Find Hotels</button>
 				<div>
-					<div id="" class="advancedSearchTitleForHotelWidget"> <a id="advancedSearchHotelWidget" tabindex="12109" onclick="HotelWidget.submitActionAdvSearch(&quot;/merch/searchHotelAction.action&quot;)">Advanced Search</a> </div>
+					<div class="advancedSearchTitleForHotelWidget"> <a id="advancedSearchHotelWidget" tabindex="12109" onclick="HotelWidget.submitActionAdvSearch(&quot;/merch/searchHotelAction.action&quot;)">Advanced Search</a> </div>
 					
 					<div id="hotelOfferInclusionInfo">(Including Hotel Brand, Search Radius, &amp; Star Ratings)</div>
 					
@@ -2193,7 +2328,7 @@ Fixes for Defect#6673:
 			</div>
 			<div id="book-car-content">
 				
-				<!--start /components/pages/carWidget/carSearchWidget.jsp-->
+					<!--start /components/pages/carWidget/carSearchWidget.jsp-->
 
 
 
@@ -2202,7 +2337,7 @@ Fixes for Defect#6673:
 
 <div id="CarWidgetContainer">
 	<form id="searchCarWidgetForm" method="post" action="/merch/searchCarAction.action" class="customFormUI">
-		<div class="hideElement" id="serverDateCar">2013-04-24</div>
+		<div class="hideElement" id="serverDateCar">2013-11-27</div>
 		<div id="dateText" class="hideElement"></div>
 		<div id="debug" class="hideElement"></div>
 		
@@ -2246,17 +2381,17 @@ Fixes for Defect#6673:
 					<div id="pickUpDiv">
 						
 						<div>
-							<label id="" for="carLocation">PICK-UP LOCATION</label>
+							<label for="carLocation">PICK-UP LOCATION</label>
 						</div>
 						<div>
 							
 							
-							<input type="text" name="carSearchCriteria.pickupLocation" maxlength="150" value="Airport or Metro City" tabindex="12111" id="carLocation" class="auto-hint destinationCityCodeforCarWidget" iscarpickuppredictivetext="#predictiveLocationCode">
+							<input type="text" name="carSearchCriteria.pickupLocation" maxlength="150" value="" tabindex="12111" id="carLocation" class=" destinationCityCodeforCarWidget" iscarpickuppredictivetext="#predictiveLocationCode" placeholder="Airport or Metro City">
 						</div>
 					</div>
 				</fieldset>
 				<fieldset id="dropOffLocationText">
-					<div id="" class="dropOfLocationTextDiv">
+					<div class="dropOfLocationTextDiv">
 						<label for="dropOffWidgetLocationChk">
 						<input type="checkbox" name="dropOffLocationChk" value="true" tabindex="12112" id="dropOffWidgetLocationChk"><input type="hidden" id="__checkbox_dropOffWidgetLocationChk" name="__checkbox_dropOffLocationChk" value="true">
 						<span>Drop-off location is different from pick-up</span>
@@ -2266,18 +2401,18 @@ Fixes for Defect#6673:
 				<fieldset id="dropOffLocation">
 					<div id="dropOffWidgetLocationDiv">
 						<div>
-							<label id="" for="dropLocationWidget">DROP-OFF LOCATION</label>
+							<label for="dropLocationWidget">DROP-OFF LOCATION</label>
 						</div>
 						<div>
 							
 							
 							
-							<input type="text" name="carSearchCriteria.dropLocation" maxlength="150" value="Airport or Metro City" tabindex="12113" id="dropLocationWidget" class="auto-hint dropOffLocationCodeCarWidget" iscardropoffpredictivetext="#dropOffWidgetLocationCode">
+							<input type="text" name="carSearchCriteria.dropLocation" maxlength="150" value="" tabindex="12113" id="dropLocationWidget" class=" dropOffLocationCodeCarWidget" iscardropoffpredictivetext="#dropOffWidgetLocationCode" placeholder="Airport or Metro City">
 							<img src="//content.delta.com/content/dam/delta-applications/common/chrome/icons/forms/remove_icon.gif" id="closeDropOffLocation"> 
 						</div>
 					</div>
 				</fieldset>
-				
+				<div class="dateFieldWrap carRentalDateFieldWrap">
 				<fieldset id="pickUpWidgetFieldSet">
 					<div id="pickUpDiv">
 						<div>
@@ -2286,7 +2421,7 @@ Fixes for Defect#6673:
 						<div>
 							
 							
-							<input type="text" name="pickUpDate" maxlength="10" value="mm/dd/yyyy" tabindex="12114" id="pickUpWidgetDate" class="auto-hint dateClass" title="">
+							<input type="text" name="pickUpDate" maxlength="10" value="" tabindex="12114" id="pickUpWidgetDate" class=" dateClass depart" title="" placeholder="mm/dd/yyyy" data-calendar-titles="Pick-up Date">
 						</div>
 					</div>
 				</fieldset>
@@ -2298,10 +2433,11 @@ Fixes for Defect#6673:
 						<div>
 							
 							
-							<input type="text" name="dropOffDate" maxlength="10" value="mm/dd/yyyy" tabindex="12115" id="dropOffWidgetDate" class="auto-hint dateClass" title="">
+							<input type="text" name="dropOffDate" maxlength="10" value="" tabindex="12115" id="dropOffWidgetDate" class=" dateClass return" title="" placeholder="mm/dd/yyyy" data-calendar-titles="Drop-off Date">
 						</div>
 					</div>
 				</fieldset>
+				</div>
 				<fieldset id="pickUpTimeFieldset">
 					<div id="pickUpTimeDiv">
 						<div class="styled-select marginSelect carSelect">
@@ -2424,8 +2560,8 @@ Fixes for Defect#6673:
 				</fieldset>
 				
 				<fieldset id="carAgeWidget">
-					<div id="">
-						<label id="" class="searchLabels" for="ageWidget">AGE</label>
+					<div>
+						<label class="searchLabels" for="ageWidget">AGE</label>
 						
 						
 						<span id="ageHoverWidgetId" class="questionMarkImg"> </span>
@@ -2433,9 +2569,9 @@ Fixes for Defect#6673:
 							
 							<select name="age" tabindex="12118" id="ageWidget" class="styledSelectWidthAge">
     <option value="">SELECT</option>
-    <option value="17.AQC">18-19</option>
-    <option value="16.AQC">20-24</option>
     <option value="10.AQC">25+</option>
+    <option value="16.AQC">20-24</option>
+    <option value="17.AQC">18-19</option>
 
 
 </select>
@@ -2447,7 +2583,7 @@ Fixes for Defect#6673:
 				<hr id="divideLine">
 				<button type="submit" id="carTripSubmit" name="btnSubmit" class="secondaryLarge" tabindex="12119" value="Submit" onclick="CarWidget.submitAction('/merch/searchCarAction.action')">Find Cars</button>
 				<div>
-					<div id="" class="carWidgetAdvancedSearchTitle"> <a id="advancedWidgetSearch" tabindex="12120" onclick="CarWidget.submitActionForAdvSearch(&quot;/merch/searchCarAction.action&quot;)">Advanced Search</a> </div>
+					<div class="carWidgetAdvancedSearchTitle"> <a id="advancedWidgetSearch" tabindex="12120" onclick="CarWidget.submitActionForAdvSearch(&quot;/merch/searchCarAction.action&quot;)">Advanced Search</a> </div>
 					<div id="carOfferInclusionInfo">(Including Discount &amp; Loyalty Programs)</div>
 					
 					<div id="carWidgetBottomDiv" style="height: 44px;"></div>
@@ -2463,17 +2599,17 @@ Fixes for Defect#6673:
 				
 				<div class="clear">&nbsp;</div>
 			</div>
-			
 			<!-- div id="book-deals-content" >
-
             </div --> 
-			
 		</div>
 	</div>
 </div>
-<div id="status-content" style="display:none">
+<div id="widget-status" class="widget-container-docked">
+	
+		<div class="widgetCloseHeader"><div class="close"><img src="/etc/designs/delta/images/widget_close_x.png" alt="close"></div></div>
 	
 	
+		
 
 <!-- Fixes below for QC items 5932, 5999, 6666 -->
 
@@ -2485,6 +2621,9 @@ Fixes for Defect#6673:
 		<input type="hidden" id="FLIFO_contextPath" value="/widgetnav/
 		">
 		<input type="hidden" id="FLIFO_requestingSite" name="requestingSite" value="polaris_athens">
+		<!-- Start: Fix for defect 26705 Hidden field added for validation -->
+		<input type="hidden" id="FLIFO_searchOption" name="searchOptionValue" value="">
+		<!-- End : Fix for defect 26705 Hidden field added for validation-->
 		<div id="FLIFO_errorContainer" class="alerts_errors">
 			<ul id="FLIFO_errorList" class="">
 			</ul>
@@ -2493,35 +2632,39 @@ Fixes for Defect#6673:
 			<fieldset class="block">
 				<label for="FLIFO_flightDate" id="flight-date-label">FLIGHT DATE</label>
 				<div class="styled-select maxWidthSearchForm">
-					<select class="selectoptions FLIFO_select" id="FLIFO_flightDate" name="flightDate">
+					<select class="selectoptions FLIFO_select" tabindex="2" id="FLIFO_flightDate" name="flightDate">
 					</select>
 				</div>
-				<label for="FLIFO_searchOption">*SEARCH BY</label>
-				<div class="styled-select maxWidthSearchForm">
-					<select class="selectoptions FLIFO_select" id="FLIFO_searchOption" tabindex="2" name="searchOptionValue">
-						<option value="FLIGHTNUMBER" selected="selected">Flight Number</option>
-						<option value="CITYPAIR">City</option>
-					</select>
-				</div>
-			</fieldset>
+				<!--Start: Fix for defect 26705 Flight number, City Pair Enhancement-->
+				 <label id="flight-number-label" for="FLIFO_flightDate">FLIGHT NUMBER</label>
 			<fieldset class="block defaultPaddingTop defaultPaddingBottom" id="FLIFO_flightNumberWrapper">
-				<input placeholder="ex. 2049" class="flightNumber maxWidthSearchForm" type="text" id="FLIFO_flightNumber" name="flightNumber">
+				<input placeholder="ex. 2049" class="flightNumber maxWidthSearchForm" type="text" id="FLIFO_flightNumber" name="flightNumber" tabindex="3">
 			</fieldset>
-			<fieldset id="FLIFO_cityPairWrapper" class="twoColumn">
+			</fieldset>
+			<fieldset style="display: block;" id="FLIFO_cityPairWrapper">
+				<div width="10%" id="adsLeft" class="adDetail">
+					<div class="border-black-line"></div>
+					<div style="float: left; text-align: center; width: 12%; color: #878787; font-weight: 700; font-size: 10px;" id="adsCenter" class="adDetail">OR</div>
+					<div class="border-black-line"></div>
+				</div>
+
+			</fieldset>
+			<fieldset class="twoColumn" id="FLIFO_cityPairWrapper" style="display: block;">
 				<div class="columnOne">
-					<label for="FLIFO_departureAirport">FROM</label>
+					<label id="flight-date-label" for="FLIFO_departureAirport">FROM</label>
 				</div>
 				<div class="columnTwo">
-					<label for="FLIFO_arrivalAirport">TO</label>
+					<label id="flight-date-label" for="FLIFO_arrivalAirport">TO</label>
 				</div>
-				<div class="columnOne" id="flightStatusDirectionArrow">
-					<input placeholder="City or Airport" class="airportInput departureAirportInput" type="text" id="FLIFO_departureAirport" name="departureAirport" tabindex="4">
+				<div id="flightStatusDirectionArrow" class="columnOne">
+					<input type="text" tabindex="4" name="departureAirport" id="FLIFO_departureAirport" class="airportInput departureAirportInput ui-autocomplete-input" placeholder="City or Airport" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
 				</div>
 				<div class="columnTwo">
-					<input placeholder="City or Airport" class="airportInput arrivalAirportInput" type="text" id="FLIFO_arrivalAirport" name="arrivalAirport" tabindex="5">
+					<input type="text" tabindex="5" name="arrivalAirport" id="FLIFO_arrivalAirport" class="airportInput arrivalAirportInput ui-autocomplete-input" placeholder="City or Airport" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
 				</div>
 			</fieldset>
 		</div>
+		<!-- End : Fix for defect 26705 Flight number, City Pair Enhancement-->
 		<div id="FLIFO_submitButtonCase">
 			<input type="submit" class="secondaryLarge" id="FLIFO_go" tabindex="6" value="View Status">
 		</div>
@@ -2530,9 +2673,12 @@ Fixes for Defect#6673:
 
 	
 </div>
-<div id="checkin-content" style="display:none">
+<div id="widget-checkin" class="widget-container-docked">
+	
+		<div class="widgetCloseHeader"><div class="close"><img src="/etc/designs/delta/images/widget_close_x.png" alt="close"></div></div>
 	
 	
+		
 
 
 <div id="widget-checkin-content" class="widgetWrapper">
@@ -2540,13 +2686,21 @@ Fixes for Defect#6673:
 	
 
 	<div id="oci_availableTrips">
-
-		<div id="oci_checkinEligibleTripsWait" class="oci_checkinEligibleTripsWait"></div>
-
+	<script type="text/javascript">
+	try {
+		if ((typeof loginData != 'undefined' && loginData.loggedIn)
+				|| (typeof tmpLoginData != 'undefined' && tmpLoginData.loggedIn)
+			) {
+				document.write('<div id="oci_checkinEligibleTripsWait" class="oci_checkinEligibleTripsWait"></div>');
+			}
+	} catch(error){
+		document.write('<div id="oci_checkinEligibleTripsWait" class="oci_checkinEligibleTripsWait"></div>');
+	}
+	</script>
 	</div>
 
 	<form id="oci_checkinForm" action="/PCCOciWeb/processFindPnr.action" class="oci_checkinFormStyle customFormUI" method="post">
-
+		<input type="hidden" id="oci_checkinCreditcardType" name="creditcardType">
 		<div id="OciErrors" class="alerts_errors">
 
 			<ul>
@@ -2642,39 +2796,7 @@ Fixes for Defect#6673:
         </label>
 
         <input type="text" name="skymilesNumber" value="" id="oci_skyMilesField" class="oci_checkinWidgetInput oci_checkinWidgetFieldHolder oci_skymilesNumberHolder">
-
-		<label for="oci_checkinCreditcardType" class="oci_airportLabelPadding oci_fieldTitleFormat oci_checkinWidgetFieldHolder oci_creditcardNumberHolder">
-
-			CARD TYPE
-
-		</label>
-
-        <div class="styled-select oci_checkinWidgetFieldHolder oci_creditcardNumberHolder"> 
-
-			<!-- mp_trans_disable_start-->
-
-			<select class="selectoptions oci_checkinWidgetInput oci_dropdownTextFormat" id="oci_checkinCreditcardType" name="creditcardType">
-
-				<option value="AX">AMERICAN EXPRESS</option>
-
-				<option value="CA">Master Card</option>
-
-				<option value="DC">Diners Club</option>
-
-				<option value="DS">Discover</option>
-
-				<option value="JC">JCB</option>
-
-				<option value="TP">UATP</option>
-
-				<option value="VI">Visa</option>
-
-			</select>
-
-			<!-- mp_trans_disable_end-->
-
-    	</div>
-
+		
         <label for="oci_cardNumField" class="oci_airportLabelPadding oci_fieldTitleFormat oci_checkinWidgetFieldHolder oci_creditcardNumberHolder">
 
             CREDIT CARD NUMBER
@@ -2729,7 +2851,10 @@ Fixes for Defect#6673:
 </div>
 	
 </div>
-<div id="escape-content" style="display:none">
+<div id="widget-escape" class="widget-container-docked">
+	
+		<div class="widgetCloseHeader"><div class="close"><img src="/etc/designs/delta/images/widget_close_x.png" alt="close"></div></div>
+	
 	
 	
 <div class="tabContainer">
@@ -2777,7 +2902,7 @@ Fixes for Defect#6673:
 				
 				
 				
-				<div style="display:none" id="serverDateEscape">2013-04-24</div>
+				<div style="display:none" id="serverDateEscape">2013-11-27</div>
 				<fieldset>
 					<label class="escape-blocklabel" id="escape-to-label" for="escape-mapit-to">Escape To</label>
 					
@@ -2825,10 +2950,10 @@ Fixes for Defect#6673:
 					<label class="escape-blocklabel">Search Vacations By</label>
 					
 					<input id="escape-search-byprice" type="radio" name="airDisplayIndicator" value="P" checked="checked">
-					<label for="escape-search-byprice" class="escape-inlinelabel escape-sentancecase optionalInline">Best price</label>
+					<label for="escape-search-byprice" class="escape-inlinelabel escape-sentancecase optionalInline escape_label_lineheight">Best price</label>
 					
 					<input id="escape-search-byschedule" type="radio" name="airDisplayIndicator" value="S">
-					<label for="escape-search-byschedule" class="escape-inlinelabel escape-sentancecase optionalInline">Departure time</label>
+					<label for="escape-search-byschedule" class="escape-inlinelabel escape-sentancecase optionalInline escape_label_lineheight">Departure time</label>
 					
 					
 				</fieldset>
@@ -2875,9 +3000,11 @@ Fixes for Defect#6673:
 							
 							<span class="airportLookUpBallon" id="toField"><!-- 9/14 -IE7 issue- added ID  --><img width="13" height="15" id="escape-search-destinationpicker" src="//content.delta.com/etc/designs/delta/images/airportlookup/airport_input_icon.png"><!-- 9/13 - no hardcoded image- end --></span> </div>
 					</div>
-					<div id="escape-search-datedetails" class="columnOne">
-						<input id="escape-search-date" type="text" name="escape-search-date" class="escape-datepick required airportInput" placeholder="Depart date">
-						<span class="calendarClickIcon"></span> 
+					<div class="escapeWidgetDateFieldWrap">
+						<div id="escape-search-datedetails" class="columnOne">
+							<input id="escape-search-date" type="text" name="escape-search-date" class="escape-datepick required airportInput depart" placeholder="Depart date">
+							<span class="calendarClickIcon"></span> 
+						</div>
 					</div>
 					
 					
@@ -2908,7 +3035,7 @@ Fixes for Defect#6673:
 				</fieldset>
 				<hr>
 				<input type="submit" class="secondaryLarge escape-setfullwidth" id="escape-search-submit" value="Find Vacations">
-				<div class="defaultPaddingTop"> <a href="http://www.deltavacations.com/booking/index.do?rfr=DLHPSEARCHMORE" target="_blank" class="escape-vacation">More vacation options</a> </div>
+				<div class="defaultPaddingTop"> <a href="http://www.deltavacations.com/booking/index.do?rfr=DLHPSEARCHMORE" target="_blank" class="escape-vacation">Flight + Car &amp; More Search Options</a> </div>
 			</form>
 		</div>
 		<div id="ui-tabs-specialty" class="defaultPaddingTop"> 
@@ -3138,9 +3265,10 @@ $(document).ready(function () {
 	
 </div>
 
-<div id="help-content" style="display:none">
-	
-	
+	<div id="widget-help" class="widget-container-docked">
+		<div class="widgetCloseHeader"><div id="helpHeader">i'm content</div><div class="close"><img src="/etc/designs/delta/images/widget_close_x.png" alt="close"></div></div>
+		
+			
 <div id="needHelpContainer">
 
 	<div id="needHelptabs">
@@ -3179,7 +3307,17 @@ $(document).ready(function () {
 				<p><a class="writeUsIcon">&nbsp;</a><a href="/contactus/pages/comment_complaint/index.jsp" class="redirectLink">Send us an email</a></p> <!--Changed Link -->
 				<p><a class="talkUsIcon">&nbsp;</a><a href="/content/www/en_US/support/reservations-and-refunds/reservations-offices.html" class="redirectLink">Give us a call</a></p>   
 
-				<p><a class="tweetUsIcon">&nbsp;</a><a href="//twitter.com/#!/DeltaAssist" target="_blank" class="redirectLink">Tweet us @DeltaAssist</a></p>
+				<p><a class="tweetUsIcon">&nbsp;</a>
+				<!-- mp_trans_remove_start="PT, ES" --><a target="_blank" href="//twitter.com/#!/DeltaAssist" class="redirectLink">@DeltaAssist</a><!-- mp_trans_remove_end="PT, ES" -->
+<!-- mp_trans_add="PT"
+<a target="_blank"class="redirectLink" href="https://twitter.com/DeltaAjuda">@DeltaAjuda</a>
+-->
+<!-- mp_trans_add="ES"
+<a target="_blank" class="redirectLink" https://twitter.com/DeltaAssist_ES">@DeltaAssist_ES</a>
+-->
+
+				
+				</p>
 
 			</div>
 		</div>
@@ -3229,7 +3367,7 @@ $(document).ready(function () {
 
 					<div id="country_select">
 						<div class="styled-select">
-						<select name="country" id="country" class="selectoptions">
+						<select name="needhelp_country" id="needhelp_country" class="selectoptions">
 
 						</select>
 						</div>
@@ -3288,470 +3426,7 @@ $(document).ready(function () {
 					</div>
 
 				</fieldset>
-			<div id="contactnum" class="contactDiv"><!-- Numbers Formatted in Unique pattern-->
-<div id="res_skymiles">
-<p>1-800-323-2323 <br>
-24 hours 7 days a week</p>
-</div>
-<div id="res_dom">
-<p><b>Domestic Reservation 1-800-221-1212 </b><br>
-24 hours 7 days a week</p>
-<p>Disability Assistance(US): 1-404-209-3434 <br>
-24 hours 7 days a week</p>
-</div>
-<div id="res_inter">
-<p>1-800-241-4141 <br>
-24 hours 7 days a week</p>
-</div>
-<div id="skymilesaccsupport">
-<p>1-800-323-2323 <br>
-24 hours 7 days a week</p>
-</div>
-<div id="techsupportapp">
-<p>1-888-750-3284 <br>
-24 hours 7 days a week</p>
-</div>
-<div id="customercare">
-<p>Phone: 1-404-773-0305<br>
-Hours: Mon-Fri, 8am-7pm ET (except on U.S. holidays)</p>
-</div>
-<div id="baggageservice">
-<p><a href="https://www.delta.com/content/www/en_US/traveling-with-us/baggage/after-your-trip/delayed-lost-or-damaged.html">Delayed, Lost or Damaged Baggage</a></p>
-</div>
-<div id="deltacargo">
-<p>1-800-352-2746</p>
-</div>
-<div id="grp_information">
-<p>1-800-532-4777 <br>
-Hours: Mon-Fri, 8am-8pm ET
-</p>
-</div>
-
-<div id="res_ass_lang">
-<p>Spanish: 1-800-511-9629<br>
-Japanese: 1-800-327-2850</p>
-</div>
-<div id="burkinafaso">
-<p>Ouagadougou City: 226-30-6365</p>
-</div>
-<div id="cameroon">
-<p>Douala City: 237-342-15-55<br>
-Yaounde City: 237-342-15-55</p>
-</div>
-<div id="cotedivoire">
-<p>Abidjan City: 225-20202424</p>
-</div>
-<div id="egypt">
-<p>Cairo City: 2-2736-2030  2-2736-2039<br>
-8:30am - 5:00pm - Saturday to Thursday</p>
-</div>
-<div id="ghana">
-<p>Accra City: 233-(0)30-221-3111<br>
-8:30am - 6:00pm  -  Monday to Friday<br>
-Kumasi City: 233-(0)32-203-1121<br>
-10:00am - 1:00pm - Saturday</p>
-</div>
-<div id="kenya">
-<p>Nairobi City: 254-20-316968<br>
-8:30am - 1:00pm / 2:00pm - 5:00pm - Monday to Friday<br>
-254-20-2212854<br>
-9:00am - 1:00pm - Saturday</p>
-</div>
-<div id="liberia">
-<p>Monrovia City: 231-(0)6-782-226 <br>
-9:00am - 5:00pm - Monday to Friday 10:00a - 1pm Sat</p>
-</div>
-<div id="mali">
-<p>Bamako City: 223-222-22-12 223-222-61-09<br>
-9:00am - 1200noon / 3:00pm - 6:00pm - Monday - Friday</p>
-</div>
-<div id="mauritania">
-<p>Nouakchott City: 222-25-18-02<br>
-9:00am - 1200noon / 3:00pm - 6:00pm - Monday - Friday</p>
-</div>
-<div id="morocco">
-<p>All Cities: 002-11-0011 for Operator, then<br>800-221-1212</p>
-</div>
-<div id="namibia">
-<p>Windhoek City: 482-4582<br>
-8:30am - 5:00pm - Monday to Friday // 9am-7pm </p>
-</div>
-<div id="nigeria">
-<p>Lagos City: 234-1-279-9000<br>
-8:30am - 5:00pm - Monday to Friday // 9am - 12 noon Sat</p>
-</div>
-<div id="senegal">
-<p>Dakar City: 221-33-849-6955<br>
-9:00am - 1200noon / 3:00pm - 6:00pm - Monday - Friday</p>
-</div>
-<div id="south_africa">
-<p>All Cities: 27-11-482-4582<br>
-8:30am - 5:00pm - Monday to Friday // 9am - 12 noon Sat</p>
-</div>
-<div id="togo">
-<p>Lome City: 228-216-910</p>
-</div>
-<div id="cambodia">
-<p>Phnom Penh City: 011-855-23-221-134 or 334</p>
-</div>
-<div id="china">
-<p>Within China Toll-free: 400-120-2364<br>
-Hong Kong Toll-free: 800-965-716<br>
-Assistance available in English/Mandarin 24hrs a day, 7 days a week<br>
-Assistance available in Cantonese:<br>8am - 7pm, Mon-Fri<br>
-8am - 5pm, Sat </p>
-</div>
-<div id="india">
-<p>Within India: 91-124-272 3050<br>
-9am-6pm M-Sat  closed Sunday<br>
-Toll-free: 1800-1800-099<br>
-9am-6pm M-Sat  closed Sunday</p>
-</div>
-<div id="indonesia">
-<p>Jakarta: 62-21-520-3152<br>
-9am-5pm M-F, 9am-1pm Sat</p>
-</div>
-<div id="japan">
-<p>Within Japan (Navi-Dial): 0570-077733<br>
-9am - 8pm, 7 days a week<br>
-IP, PHS, Overseas: 81-476-31-8000<br>
-9am - 6pm Mon-Fri, 9am - 5pm Sat/Sun</p>
-</div>
-<div id="malaysia">
-<p>Kuala Lumpur City: 6-03-2282-4648<br>
-9am-5:30pm M-F<br>
-Penang City: 6-04-370-2330<br>
-9am-1pm Sat</p>
-</div>
-<div id="philippines">
-Manila City: (0063)-2-8418800<br>
-8am - 6pm Mon-Fri,
-8:30am-12:30pm Sat and holidays<p></p>
-</div>
-<div id="singapore">
-<p>Singapore City: 65-6336-3371<br>
-Assistance available 24hrs a day, 7 days a week</p>
-</div>
-<div id="southkorea">
-<p>Seoul City: 0079-8651-7538 (Toll-free) <br>
-9am - 6pm, Mon-Fri, Closed Sat/Sun<br>
-Travel Agency Line: 82-2-754-1921<br>
-8am - 5pm Mon-Fri, Closed Sat/Sun</p>
-</div>
-<div id="srilanka">
-<p>Colombo City: 9411-233-8734<br>
-8:30am-5pm M-F, 9am-12:30pm Sat Closed Sun</p>
-</div>
-<div id="taiwan">
-<p>Within Taiwan Toll-free: 0080-655-1282<br>
-8am - 7pm Mon-Fri, 8am - 5pm Sat</p>
-</div>
-<div id="thailand">
-<p>Bangkok City: 001-800-658-228 (Toll-free)<br>
-Assistance available in Thai: 7am - 4pm, Mon-Fri <br>
-Assistance available in English 24hrs a day, 7 days a week
-</p>
-</div>
-<div id="vietnam">
-<p>Hanoi City: 84-4-3941-1320<br>
-Ho Chi Minh City: 84-8-7306-6888<br>
-8:30am-5:30pm Mon-Fri, 8:30am-12noon Sat</p>
-</div>
-<div id="antigua">
-<p>All Cities: 800-221-1212<br>
-24 hours 7 days a week</p>
-</div>
-<div id="aruba">
-<p>All Cities: 800-1555<br>
-24 hours 7 days a week</p>
-</div>
-<div id="bahamas">
-<p>All Cities: 800-221-1212<br>
-24 hours 7 days a week</p>
-</div>
-<div id="barbados">
-<p>All Cities: 800-221-1212<br>
-24 hours 7 days a week</p>
-</div>
-<div id="bermuda">
-<p>All Cities: 800-221-1212<br>
-24 hours 7 days a week</p>
-</div>
-<div id="bonaire_curacao">
-<p>All Cities: 800-221-1212<br>
-24 hours 7 days a week</p>
-</div>
-<div id="cayman_islands">
-<p>All Cities: 800-221-1212<br>
-24 hours 7 days a week</p>
-</div>
-<div id="dominican_republic">
-<p>All Cities: 1-809-200-9191 or 1-800-751-3222<br>
-0600-0100 local time</p>
-</div>
-<div id="grenada">
-<p>All Cities: 800-221-1212<br>
-24 hours 7 days a week</p>
-</div>
-<div id="haiti">
-<p>All Cities: 509-29-43-35-82<br>
-0500-0000 local time</p>
-</div>
-<div id="jamaica">
-<p>All Cities: 800-221-1212<br>
-24 hours 7 days a week</p>
-</div>
-<div id="puerto_rico">
-<p>All Cities: 800-221-1212<br>
-24 hours 7 days a week</p>
-</div>
-<div id="kitts">
-<p>All Cities: 800-221-1212<br>
-24 hours 7 days a week</p>
-</div>
-<div id="lucia">
-<p>All Cities: 800-221-1212<br>
-24 hours 7 days a week</p>
-</div>
-<div id="maarten">
-<p>Dutch Side: 546-7616 or 001-800-872-2881 for operator,<br>then 800-221-1212<br>
-French Side: 0800-225-630<br>24 hours 7 days a week</p>
-</div>
-<div id="trinidad_tobago">
-<p>All Cities: 800-221-1212<br>24 hours 7 days a week</p>
-</div>
-<div id="turks_caicos">
-<p>All Cities: 01-800-221-1212<br>24 hours 7 days a week</p>
-</div>
-<div id="virgin_islands">
-<p>All Cities: 800-221-1212<br>24 hours 7 days a week</p>
-</div>
-<div id="austria">
-<p>Vienna City: +43-(0)820-951-001<br>
-8am-8pm M-F, 9am-5:30pm Sat</p>
-</div>
-<div id="belgium">
-<p>Brussels City: +32-(0)70-300-872<br>
-8am-8pm M-F, 9am-5:30pm Sat</p>
-</div>
-<div id="bosnia_herzegovina">
-<p>Zagreb City: +385-(1)4890-801/802 or +385 (1) 060-409-409</p>
-</div>
-<div id="croatia">
-<p>Zagreb City: +385 (1)4890-801/802 or +385 (1) 060-409-409</p>
-</div>
-<div id="czech_republic">
-<p>Prague City: 420-233-0909-33</p>
-</div>
-<div id="denmark">
-<p>Copenhagen City: +45-823-32-721<br>
-8am-6pm M-F</p>
-</div>
-<div id="england">
-<p>All Cities: +44-871-22-11-222</p>
-</div>
-<div id="finland">
-<p>Helsinki City: 358-(0)981-710406<br>
-9am-6pm M-F</p>
-</div>
-<div id="france">
-<p>All Cities: +33-(0)892-702-609<br>
-8am-8pm M-F, 9am-5:30pm Sat</p>
-</div>
-<div id="germany">
-<p>All Cities: +49-(0)1-805-805-872<br>
-8am-8pm M-F, 9am-5:30pm Sat</p>
-</div>
-<div id="great_britain">
-<p>All Cities: +44-871-22-11-222</p>
-</div>
-<div id="greece">
-<p>All Cities: +30-210-99-80-444<br>
-9am-5pm M-F</p>
-</div>
-<div id="hungary">
-<p>Budapest City: 36-1-301-6680</p>
-</div>
-<div id="iceland">
-<p>All Cities: 800-9359 (International toll free)<br>
-6am-4pm M-F</p>
-</div>
-<div id="ireland">
-<p>All Cities: +353-(0)818-904-872<br>
-8am-8pm M-F, 9am-5:30pm Sa/Su</p>
-</div>
-<div id="italy">
-<p>All Cities: 892 057 or +39 02 3859 1451 (when calling from US cell phone)<br>
-8am-8pm M-F, 9am-5:30pm Sat</p>
-</div>
-<div id="macedonia">
-<p>All Cities: +381-11-2638222</p>
-</div>
-<div id="montenegro">
-<p>All Cities: +381-11-2638222</p>
-</div>
-<div id="netherlands">
-<p>Amsterdam City: +31-(0)20-721-9128<br>
-8am-8pm M-F, 9am-5:30pm Sat</p>
-</div>
-<div id="norway">
-<p>Oslo City: 47-220-017-01<br>
-8am-6pm M-F</p>
-</div>
-<div id="poland">
-<p>Warsaw City: +48-22-556-6477</p>
-</div>
-<div id="portugal">
-<p>Lisbon City: 351-21318-0062</p>
-</div>
-<div id="romania">
-<p>All Cities: 4021-206-92-01</p>
-</div>
-<div id="russian_federation">
-<p>Moscow City: 495-937-9090<br>
-9am-6pm M-F, 9am-1pm Sat<br>
-All Other Cities: 8-800-700-0990<br>
-9am-6pm M-F, 9am-1pm Sat</p>
-</div>
-<div id="all_other_cities">
-<p>8-800-700-0990<br>9am-6pm M-F, 9am-1pm Sat</p>
-</div>
-<div id="serbia">
-<p>Local: +381-11-2638222</p>
-</div>
-<div id="slovak_republic">
-<p>Local: 0850-606-004<br>
-International: 420-233-0909-33</p>
-</div>
-<div id="slovenia">
-<p>All Cities: +386-1-244-34-47</p>
-</div>
-<div id="spain">
-<p>All Cities: +34-902-810-872<br>8am-8pm M-F, 9am-5:30pm Sat</p>
-</div>
-<div id="sweden">
-<p>Stockholm City: +46-8-519-92-216<br>8am-6pm M-F</p>
-</div>
-<div id="switzerland">
-<p>All Cities: +41-848-000-872<br>8am-8pm M-F, 9am-5:30pm Sat</p>
-</div>
-<div id="turkey">
-<p>All Cities: +90-(0)212-310-19-99<br>8:30am-5:30pm M-F</p>
-</div>
-<div id="ukraine">
-<p>Kiev City: 38-044-287-35-95 and 38-044-490-6502</p>
-</div>
-<div id="united_kingdom">
-<p>All Cities: +44-871-22-11-222<br>8am-8pm M-F, 9am-5:30pm Sa/Su</p>
-</div>
-<div id="belize">
-<p>Belize City: 225-2010<br>4am-11pm<br>
-All Other Cities: 0800-225-2010<br>4am-11pm</p>
-</div>
-<div id="costa_rica">
-<p>All Cities: 0800-056-2002<br>4am-11pm</p>
-</div>
-<div id="el_salvador">
-<p>San Salvador City: 2-275-9292<br>4am-11pm<br>
-All Other Cities: 800-6005<br>4am-11pm</p>
-</div>
-<div id="guatemala">
-<p>Guatemala City: 2263-0600<br>4am-11pm<br>
-All Other Cities: 1-800-300-0005<br>4am-11pm</p>
-</div>
-<div id="honduras">
-<p>San Pedro Sula City: 2550-1616<br>4am-11pm<br>
-All Other Cities: 800-2791-9000<br>4am-11pm</p>
-</div>
-<div id="mexico">
-<p>Mexico City: 5-279-0909<br>4am-11pm<br>
-All Other Cities: 01-800-123-4710<br>4am-11pm</p>
-</div>
-<div id="nicaragua">
-<p>Managua City: 2254-8130<br>4am-11pm<br>
-All Other Cities: 001-800-226-0225<br>4am-11pm</p>
-</div>
-<div id="panama">
-<p>Panama City: 214-8118<br>5am-12pm<br>
-All Other Cities: 00800-560-0041<br>5am-12pm</p>
-</div>
-<div id="bahrain">
-<p>Manama City: 973-17-225-650</p>
-</div>
-<div id="israel">
-<p>Tel Aviv City: 972-3-513-8000<br>
-9am-5pm Sun-Thur</p>
-</div>
-<div id="jordan">
-<p>Amman City: 06-4643-661<br>
-9am-5pm Sun-Thur</p>
-</div>
-<div id="kuwait">
-<p>Kuwait City: 965-2-225-7925<br>
-8:30am - 1:30pm / 4:00pm - 7:30pm - Saturday to Thursday</p>
-</div>
-<div id="palestine">
-<p>Ramallah City: 972-2-2961-841</p>
-</div>
-<div id="qatar">
-<p>Doha City: 974-483-0725/0726<br>
-8:00am - 630pm - Saturday to Thursday</p>
-</div>
-<div id="saudi_arabia">
-<p>Dhahran City: 9663-8821675<br>Jeddah City: 2-657-0555<br>Riyadh City: 966-1-461-3688<br>
-8:30am - 1:00pm / 4:00pm - 7:30pm - Saturday to Thursday</p>
-</div>
-<div id="united_arab_emirates">
-<p>Abu Dhabi City: 9712-671-3033<br>
-9:00am - 1:00pm / 2:00pm - 7:00pm - Saturday to Thursday
-Dubai City: 9714-397-0118<br>
-9:00am - 1:00pm / 2:00pm - 7:00pm - Saturday to Thursday</p>
-</div>
-<div id="australia">
-<p>Sydney (Toll-free: 1800-144917<br>
-9:00am - 5:30pm - Monday to Friday</p>
-</div>
-<div id="new_zealand">
-<p>Auckland City: 09-977-2232<br>
-8:30am - 5:00pm - Monday to Friday</p>
-</div>
-<div id="argentina">
-<p>All Cities: 0800-666-0133<br>7am-8pm SCL time</p>
-</div>
-<div id="brazil">
-<p>Major cities: 4003-2121<br>8am-8pm M-F, 9am-3pm Sa/Su<br>
-Other cities: 0800 881-2121<br>8am-8pm M-F, 9am-3pm Sa/Su<br>
-Fax: 2460-4001, Extension: 1749<br>8am-8pm M-F, 9am-3pm Sa/Su</p>
-</div>
-<div id="chile">
-<p>Santiago City: 02-200-2700<br>7am-8pm<br>
-All Other Cities: 800-20-20-20<br>7am-8pm</p>
-</div>
-<div id="colombia">
-<p>All Cities: 01-800-956-1035<br>5am-12pm</p>
-</div>
-<div id="ecuador">
-<p>All Cities: 1-800-10-10-60<br>5am-12pm</p>
-</div>
-<div id="guyana">
-<p>All Cities: 1-80-086-234-56<br>
-0600-0100</p>
-</div>
-<div id="peru">
-<p>Lima City: 211-9-211  5am-12pm<br>Toll Free: 0800-50861  5am-12pm<br>  
-All Other Cities: 0800-43210<br>5am-12pm</p>
-</div>
-<div id="uruguay">
-<p>All Cities: 0004-056-33<br>0800-0300</p>
-</div>
-<div id="venezuela">
-<p>Caracas City: 958-1000<br>5:30am-12:30pm<br>
-All Other Cities: 0-800-100-3453<br>5:30am-12:30pm</p>
-</div>
-<div id="res_skymiles_true_div">
-<p>1-800-323-2323 <br>
-24 hours 7 days a week </p>
-</div> </div>
+			<div id="contactnum" class="contactDiv"></div>
 
 			<div id="viewallcontact" class="allcontact"><a href="/content/www/en_US/support/reservations-and-refunds/reservations-offices.html">View all contact numbers &gt;</a></div><!-- Updated for Defect #9893-->
 			<input type="hidden" id="isUserLoggedIn" name="isUserLoggedIn" value="">
@@ -3762,7 +3437,13 @@ All Other Cities: 0-800-100-3453<br>5:30am-12:30pm</p>
 			<div id="letsTweetContainer">
 				<h1 class="needHelpSubHeader"><a class="tweetUs">&nbsp;</a>Let's Tweet</h1>
 				<p class="bodyText">We're on Twitter to help you however we can. Tweet us for assistance, tips or updates.</p>
-				<p class="needHelpinfo needHelpalpha"><b>For Customer Service:</b><br><a target="_blank" href="//twitter.com/#!/DeltaAssist">@DeltaAssist</a></p><!-- Updated for Defect #9893-->
+				<p class="needHelpinfo needHelpalpha"><b>For Customer Service:</b><br><!-- mp_trans_remove_start="PT, ES" --><a target="_blank" href="//twitter.com/#!/DeltaAssist" class="redirectLink">@DeltaAssist</a><!-- mp_trans_remove_end="PT, ES" -->
+<!-- mp_trans_add="PT"
+<a target="_blank"class="redirectLink" href="https://twitter.com/DeltaAjuda">@DeltaAjuda</a>
+-->
+<!-- mp_trans_add="ES"
+<a target="_blank" class="redirectLink" https://twitter.com/DeltaAssist_ES">@DeltaAssist_ES</a>
+--></p><!-- Updated for Defect #9893-->
 				<hr class="needHelpresult">
 				<p class="needHelpinfo needHelpbeta"><b>For ideas, inspiration, or just to say hi:</b><br><a target="_blank" href="//twitter.com/#!/Delta">@Delta</a><br>
 				<a target="_blank" href="//twitter.com/#!/DeltaVacations">@DeltaVacations</a></p> <!-- Updated for Defect #9893-->
@@ -3780,24 +3461,33 @@ All Other Cities: 0-800-100-3453<br>5:30am-12:30pm</p>
 
 
 
-	
-	<div class="clear">&nbsp;</div>
-</div>
+		
+		<div class="clear">&nbsp;</div>
+	</div>
 
-<script type="text/javascript" src="/widgetnav/gzip_1841203919/bundles/widgetNav/js/widgetNav.jsbundle"></script>
+<!-- .nav-widget --> 
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="//content.delta.com/widgetnav/gzip_N978025367/bundles/widgetNav/js/widgetNav.jsbundle"></script>
 
 
 <!-- .nav-widget --> 
 
 <script type="text/javascript">
-
-var mydeltaSRC =  "http://www1.delta.com/widgetnav/pages/mydelta/summaryPageJSON.jsp";
-
-$( "#book-tabs" ).tabs();
-
-$( "#horizontalMenu" ).tabs();
-
+	var mydeltaSRC =  "http://www.delta.com/widgetnav/pages/mydelta/summaryPageJSON.jsp";
+	$( "#book-tabs" ).tabs();
+	
+		$( "#horizontalMenu" ).tabs();
+	
 </script>
+
+
 
 <!-- end /apps/delta/www/components/page/onecolumn/widgetnavigation.jsp skm-->
             <div class="clear">&nbsp;</div>
@@ -3809,11 +3499,18 @@ $( "#horizontalMenu" ).tabs();
 
 
 
+
+
+
+
     
         <script>
-            JAWR.loader.script("/shared/jawr/js/footerjs.js");
+         <!-- mp_trans_navdisable_start -->
+            JAWR.deltaLoader.script("/shared/jawr/js/footerjs.js");
+         <!-- mp_trans_navdisable_end -->
         </script>
-        <script type="text/javascript" src="//www.delta.com/utils/shared/jawr/js/mp_lang/mpel.js"></script>
+        
+        
     
 
 <!-- mp_trans_remove_start -->
@@ -3867,7 +3564,7 @@ $( "#horizontalMenu" ).tabs();
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy-and-security.html+%28168ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,168,0,168&chxr=0,0,168&chd=t:5,6,19,20,20,21,21,22,22,22,23,23,23,24,24,24,25,25,25,25,26,26,26,27,27,27,28,28,29,30,30,30,31,31,31,32,32,32,32,33,33,34,34,34,34,35,35,35,36,36,36,36,37,37,37,38,38,38,38,39,39,39,40,40,40,41,44|1,13,1,0,20,1,1,0,8,8,0,1,7,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,2,124&chly=clickstreamcloud.jsp|header.jsp|interactivebreadcrumb.jsp|title.jsp|parsys.jsp|parsys.jsp|contentarea.jsp|text.jsp|parsys.jsp|contentarea.jsp|text.jsp|parsys.jsp|accordiontype.jsp|text.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|parsys.jsp|text.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|parsys.jsp|text.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|accordiontype.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|parsys.jsp|contentarea.jsp|text.jsp|parsys.jsp|contentarea.jsp|text.jsp|text.jsp|parsys.jsp|contentarea.jsp|text.jsp|parsys.jsp|contentarea.jsp|text.jsp|parsys.jsp|contentarea.jsp|contentarea.jsp|text.jsp|parsys.jsp|contentarea.jsp|text.jsp|parsys.jsp|parsys.jsp|footer.jsp|widgetnavigation.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy-and-security.html+%28180ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,180,0,180&chxr=0,0,180&chd=t:9,11,42,42,43,43,44,44,45,45,45,46,46,46,47,47,47,48,48,48,49,49,49,50,50,50,52,52,53,53,54,54,55,55,55,56,56,56,57,57,57,58,58,58,58,59,59,59,60,60,60,61,61,61,62,62,62,63,63,63,64,64,64,65,65,65,66,66,66,67,67,67,68,73|1,30,0,0,1,24,0,0,0,10,10,0,0,9,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,4,107&chly=clickstreamcloud.jsp|header.jsp|interactivebreadcrumb.jsp|title.jsp|contentarea.jsp|parsys.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|contentarea.jsp|text.jsp|parsys.jsp|accordiontype.jsp|text.jsp|parsys.jsp|parsys.jsp|text.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|parsys.jsp|text.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|accordiontype.jsp|text.jsp|parsys.jsp|parsys.jsp|text.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|parsys.jsp|accordiontype.jsp|text.jsp|text.jsp|parsys.jsp|text.jsp|parsys.jsp|contentarea.jsp|text.jsp|parsys.jsp|contentarea.jsp|text.jsp|parsys.jsp|contentarea.jsp|text.jsp|parsys.jsp|contentarea.jsp|text.jsp|parsys.jsp|contentarea.jsp|text.jsp|parsys.jsp|contentarea.jsp|text.jsp|parsys.jsp|contentarea.jsp|text.jsp|parsys.jsp|parsys.jsp|footer.jsp|widgetnavigation.jsp&chs=600x500
 -->
 
 
@@ -3876,7 +3573,7 @@ http://chart.apis.google.com/chart?chtt=privacy-and-security.html+%28168ms%29&ch
 <!-- SiteCatalyst code version: H.23.3.
 Copyright 1996-2011 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="/content/www/en_US/jcr:content/analytics.sitecatalyst.js"></script>
+<script language="JavaScript" type="text/javascript" src="//content.delta.com/content/www/en_US/jcr:content/analytics.sitecatalyst.js"></script>
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
@@ -3910,9 +3607,14 @@ CQ_Analytics.ClickstreamcloudMgr.addListener("storesloaded", function(e) {
         var loginData = {"loggedIn":false,"rememberMeIndicator":false, "cartCnt":"0"};
         CustomerInfo.setData(loginData,"custData");
     }
-    s.prop34 = UserTracking.getProp("loggedInOutStatus");
+    try {
+        s.prop34 = ((cqgetCookie("clflg")).indexOf('Y')==0)?"Logged In":"Logged Out";
+    } catch (error) {
+        s.prop34 = "Logged Out";
+    }
     s.prop16 = UserTracking.getProp("countryAndLanguage");
     s.eVar20 = UserTracking.getProp("countryAndLanguage");
+    s.server = window.location.host.toString().split('.')[0];
     if(CustomerInfo.isSkyMilesMember() != null && CustomerInfo.isSkyMilesMember()){
         s.eVar22 = UserTracking.getProp("loyaltyId");
         s.eVar21 = UserTracking.getProp("skyMilesMemType");
@@ -3922,14 +3624,16 @@ CQ_Analytics.ClickstreamcloudMgr.addListener("storesloaded", function(e) {
     }
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
     var s_code=s.t();if(s_code)document.write(s_code)
+    s.prop58="";s.linkTrackVars='None';s.linkTrackEvents='None';
 });
+s.prop58="";
 
 //--></script>
 <script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script>
 
-<noscript><img src="http://metrics.delta.com/b/ss/deltacom2/1/H.23.3--NS/1366832331123?cdp=2&gn=privacy-and-security" height="1" width="1" border="0" alt=""/></noscript>
+<noscript><img src="http://metrics.delta.com/b/ss/deltacom2/1/H.23.3--NS/1385598953954?cdp=2&gn=privacy-and-security" height="1" width="1" border="0" alt=""/></noscript>
 <!-- End SiteCatalyst code version: H.23.3. -->
 
 
@@ -3981,6 +3685,9 @@ CQ_Analytics.ClickstreamcloudMgr.addListener("storesloaded", function(e) {
 
 
 <!-- end /apps/delta/www/components/page/onecolumn/cnad.jsp -->
+
+    
+
 
 
 <!-- end /apps/delta/www/components/page/onecolumn/body.jsp -->
