@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdac.in privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528032226id_/http%3A//cdac.in/index.aspx%3Fid%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdac.in privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128162744id_/http%3A//www.cdac.in/index.aspx%3Fid%3Dprivacy_policy) for the most accurate reproduction.*
 
 # C-DAC: Privacy Policy
 
