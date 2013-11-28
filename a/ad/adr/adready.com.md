@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528023556id_/http%3A//adready.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128180207id_/http%3A//www.adready.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AdReady, INC.
+# Privacy Policy - AdReady, A Division Of CPXi
 
 ## Introduction
 
-AdReady takes your privacy very seriously. This document explains our privacy policy and outlines the main principles behind this policy, as well as education on how to learn more about these topics.
+AdReady, a Division of CPXi, takes your privacy very seriously. This document explains our privacy policy and outlines the main principles behind this policy, as well as education on how to learn more about these topics.
 
 We have three sections of our privacy policy.
 
@@ -18,7 +18,7 @@ We have three sections of our privacy policy.
 
 ### Who AdReady is and What We do
 
-AdReady is a display advertising technology company that enables advertisers and agencies do run more effective display advertising campaigns. We work with those advertisers and agencies to help them build online campaigns, build advertising creative (display ads) and run reporting and optimization. Our goal is to help them deliver more relevant and cost-effective advertising to online consumers (end-users).
+AdReady, a Division of CPXi, is a display advertising technology company that enables advertisers and agencies do run more effective display advertising campaigns. We work with those advertisers and agencies to help them build online campaigns, build advertising creative (display ads) and run reporting and optimization. Our goal is to help them deliver more relevant and cost-effective advertising to online consumers (end-users).
 
 ### What Information AdReady Collects
 
@@ -120,10 +120,8 @@ If you have any questions or concerns about AdReady’s privacy policy and pract
 
 or mail to:
 
-Attention: Privacy Officer
-
-2601 Elliott Ave, Suite 400A
-
+Attention: Privacy Officer  
+2601 Elliott Ave, Suite 400A  
 Seattle, WA 98121
 
-Policy updated as of December 15th, 2011 (The ‘effective date’)
+Policy updated as of September 24, 2013 (The ‘effective date’)
