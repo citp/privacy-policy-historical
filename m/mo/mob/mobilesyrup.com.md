@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mobilesyrup.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501082647id_/http%3A//mobilesyrup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilesyrup.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128065412id_/http%3A//mobilesyrup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MobileSyrup.com
-
-## Privacy Policy
 
 MobileSyrup.com, (“We”, “Us”, “Our” etc.) believes that your personal information deserves protection and We subscribe to the privacy principles set out in the Government of Canada’s Personal Information Protection and Electronic Documents Act. This privacy policy describes Our practices regarding the collection, use and sharing of your personal information. By using Our websites you consent and agree to the collection, use and disclosure of personal information and to the privacy practices set out in this policy. We expressly reserve the right to change this privacy policy at any time with or without notice to you. 
 
