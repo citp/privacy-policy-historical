@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pc-direct.co.za privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106124420id_/http%3A//www.pc-direct.co.za/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pc-direct.co.za privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128090703id_/http%3A//www.pc-direct.co.za/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy
+# PC Direct || Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -42,7 +42,8 @@ We may use your personal information to:
 
 (h) Deal with enquiries and complaints made by or about you relating to the website
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. We will use your personal information purely to assist you during your involvement with Skaware Computing CC.   
+We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. We will use your personal information purely to assist you during your involvement with Skaware Computing CC. 
+
 (4) Disclosures
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
@@ -99,7 +100,7 @@ Please let us know if the personal information which we hold about you needs to 
 
 (11) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us using the Contact Us link at the bottom of the page or by post to PO BOX 241, Cape Town 8000.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us using the Contact Us link at the bottom of the page.
 
 (12) Data controller
 
