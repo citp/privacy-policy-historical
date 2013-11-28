@@ -1,38 +1,37 @@
-> *The following text is extracted and transformed from the ebrandz.in privacy policy that was archived on 2008-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080406141046id_/http%3A//www.ebrandz.in/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebrandz.in privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128030745id_/http%3A//www.ebrandz.in/privacy-policy.html) for the most accurate reproduction.*
 
-# eBrandz™ : Privacy Policy
+# eBrandz : Privacy Policy
 
-eBrandz very strongly believes in it’s Privacy Policy. This privacy Policy applies solely to information collected by this web site. It will notify you of the following:
+Privacy Policy
 
-**1.**  What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.   
-**2.** What choices are available to you regarding the use of your data.   
-**3.**  The security procedures in place to protect the misuse of your information.   
-**4.** How you can correct any inaccuracies in the information.  
-**  
-Information Collection, Use, and Sharing**  
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. 
+eBrandz very strongly believes in it's Privacy Policy. We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to third parties. Unless you ask us not to, we may ocassionally contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. 
+Unsubscribing: 
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+We have made the unsubscription process very simple. You may opt out of any future contacts from us at any time. You can do the following by requesting to opt out by our feedback form or via request at the following email address
 
-**Your Access to and Control Over Information**  
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address given on our website: 
+Security: 
 
-See what data we have about you, if any.   
-Change/correct any data we have about you.   
-Have us delete any data we have about you.   
-Express any concern you have about our use of your data.  
-**  
-Security**  
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page. 
+Sensitive information such as credit card data are collected through trusted vendors like Google Checkout or CCAvenue. Approrpiate measures are taken by them to encrypt the data. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the webaddress when you are in the process of transaction. 
 
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+While encryption is used to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment behind a hardware firewall. 
 
- **Contact Form**  
+Contact Form: 
+
 In order for us to contact you, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. 
 
-**Links**  
-This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
+Links: 
+
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+
+Privacy policy changes:
+
+' 
+
+In the event eBrandz updates it's privacy policy then that information will be posted here.
+
+Questions?
+
+If you have any further questions or concerns then feel free to contact us.
