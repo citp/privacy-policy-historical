@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsfilter.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603011537id_/http%3A//newsfilter.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsfilter.org privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128163550id_/http%3A//newsfilter.org/privacy) for the most accurate reproduction.*
 
 # Free porn, fucked up girls and over 10,000 disturbing porn videos
 
