@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530072727id_/http%3A//www.llbean.com/customerService/privacy/index.html%3Fnav%3Dftlink) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llbean.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128075549id_/http%3A//www.llbean.com/customerService/privacy/index.html%3Fnav%3Dftlink) for the most accurate reproduction.*
 
 # L.L.Bean: Your Privacy Rights
 
 Your Privacy Rights
 
-We appreciate the trust you place in L.L.Bean, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on September 14, 2012, describes the information we collect and how we use it.
+We appreciate the trust you place in L.L.Bean, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on July 1, 2013, describes the information we collect and how we use it.
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at:
 
@@ -23,7 +23,7 @@ Email: preferences@llbean.com
 We may collect information (including name, address, telephone number, email address, transaction information, credit card information and date of birth) when you:
 
   * Place an order from our catalogs or on our Web site
-  * Make a purchase at one of our stores
+  * Make a purchase at one of our stores (we do not require personal information, such as zip, name, address or email, as a condition of accepting payment by credit or debit card)
   * Return an item or make an exchange
   * Inquire about our services
   * Request a catalog
@@ -73,7 +73,7 @@ On rare occasions, we may disclose specific information upon governmental reques
  return to top
 
 **Your Choices about Communication from L.L.Bean**  
-We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or email updates from L.L.Bean or if you prefer to receive them less frequently, please visit the [My Account](https://www.llbean.com/webapp/wcs/stores/servlet/ShowCustPref?storeId=1&nav=gn&langId=-1&krypto=cOM7HFxPG0rAqX2cCWcHE%2BNpVGSpBYUr1pVSFBWH49g%3D) section of llbean.com or contact us at the address shown below. You can also unsubscribe from our email updates using the link provided in each edition of the email.
+We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or email updates from L.L.Bean or if you prefer to receive them less frequently, please visit the [My Account](https://www.llbean.com/webapp/wcs/stores/servlet/ShowCustPref?storeId=1&nav=gn&langId=-1) section of llbean.com or contact us at the address shown below. You can also unsubscribe from our email updates using the link provided in each edition of the email.
 
 If you do not wish to receive other communications from us, such as surveys, please contact us at:
 
@@ -88,7 +88,7 @@ To opt-out of direct personalized advertising on the Internet from L.L.Bean, cli
 
 **Third Party Catalog Opt-Out Services**
 
-Over the past several years, many third party services have become available to help consumers opt-out of catalog mailings. We currently do not honor requests made through these services, with the exception of Catalog Choice. We made this decision after careful consideration of customer service, data protection, privacy and whether or not fees were associated with the service. It is important to us that consumers not have to pay to make a catalog opt-out request. Catalog Choice met all of our requirements. If you prefer to use their service, we welcome you to visit their Web Site at catalogchoice.org. Whether you use Catalog Choice or contact us directly with your mailing preferences, we are committed to meeting your needs.
+Many third-party services are available to help you opt out of catalog mailings. After careful consideration of customer service, data protection, privacy and fees, L.L.Bean no longer honors requests made by these organizations. We do not think you should have to pay third parties to opt out of catalog mailings. We prefer to hear from you directly so we can best meet your needs—we want you to be satisfied with the communications you receive and are happy to honor your preference requests. Contacting us is easy; please refer to **Your Choices About Communication from L.L.Bean** in the section above.
 
  return to top
 
@@ -111,14 +111,14 @@ We also use pixel tags – tiny graphic images – to tell us what parts of ou
 
 We may also contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than L.L.Bean.
 
-We also contract with third party advertising companies to serve ads on our behalf across the Internet. To do this, they will collect anonymous information about your visits to our Web site and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements. These targeted advertisements may appear on other sites that you visit. This anonymous information is collected through the use of a cookie or pixel tag – industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. To opt-out of this type of messaging, please click here .
+We also contract with third party advertising companies to serve ads on our behalf across the Internet. To do this, they will collect anonymous information about your visits to our Web site and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements. These targeted advertisements may appear on other sites that you visit. This anonymous information is collected through the use of a cookie or pixel tag – industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. To opt-out of this type of messaging, please click here.
 
  return to top
 
 **How We Use Email**  
 When you provide us your email address, we will email you as necessary to process your order, respond to a request or provide customer service. For example, after you place an order at llbean.com, you will receive an email confirmation and, in most cases, an email with package tracking information. Recipients of our email gift cards will receive an email notifying them of the gift and instructing them how to redeem it.
 
-We may also send promotional emails about products, special offers, services or events we believe may be of interest to you. It is our intent to send promotional emails only to those who wish to receive them. We provide instructions on how to unsubscribe in each email and within the [My Account](https://www.llbean.com/webapp/wcs/stores/servlet/ShowCustPref?storeId=1&nav=gn&langId=-1&krypto=cOM7HFxPG0rAqX2cCWcHE%2BNpVGSpBYUr1pVSFBWH49g%3D) section of llbean.com.
+We may also send promotional emails about products, special offers, services or events we believe may be of interest to you. It is our intent to send promotional emails only to those who wish to receive them. We provide instructions on how to unsubscribe in each email and within the [My Account](https://www.llbean.com/webapp/wcs/stores/servlet/ShowCustPref?storeId=1&nav=gn&langId=-1) section of llbean.com.
 
  return to top
 
