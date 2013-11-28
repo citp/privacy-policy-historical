@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlestrump.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529042223id_/http%3A//www.articlestrump.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlestrump.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128181246id_/http%3A//www.articlestrump.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - www.articlestrump.com
 
