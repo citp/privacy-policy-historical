@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postermywall.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211406id_/http%3A//www.postermywall.com/index.php/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postermywall.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129222800id_/http%3A//www.postermywall.com/index.php/info/privacypolicy) for the most accurate reproduction.*
 
 # PosterMyWall | Privacy Policy
 
@@ -57,7 +57,7 @@ We use the personally identifiable information you provide to:
 
 We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails in your 250 Mils account settings. 
 
-We use your email address or other personally identifiable information to send marketing messages and notifications from time-to-time. You may unsubscribe or change the frequency of email notifications on the Account Settings page in "My Account." 
+We use your email address or other personally identifiable information to send marketing messages and notifications from time-to-time. You may unsubscribe or change the frequency of email notifications on the Profile Settings page in "Edit Profile". 
 
 If you email a product to a friend or refer a friend to the 250 Mils Website or our promotions, we will use your friend's email to send them the e-mail you requested. Your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted. 
 
@@ -98,11 +98,11 @@ Personal information at 250 Mils is kept confidential and is disclosed only with
 
 Parents can review any information 250 Mils has received from a child and the parent can have that information deleted and the parent can forbid the collection of additional information from their child. If you want to review any information obtained from your child or if you want to have any information obtained from your child deleted from the 250 Mils records or to forbid any use of such information, you may send a request to 250 Mils Customer Support by logging into www.postermywall.com, going to: 
 
-Contact Us, and sending an email relating to Parental Notification. Alternatively, you may contact the 250 MilsChild Privacy Representative by email at: . 
+Contact Us, and sending an email relating to Parental Notification. Alternatively, you may contact the 250 Mils Child Privacy Representative by email at: . 
 
 ### How can I change, delete, or update my information?
 
-Most of your account information can be changed in the 250 Mils‚ section of the 250 Mils Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us . After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information. 
+Most of your account information can be changed in the Edit Profile‚ section of the PosterMyWall.com Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us . After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information. 
 
 The current version of the 250 Mils Privacy Policy was adopted effective as of 05/18/2010. 
 
