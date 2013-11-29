@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createphpbb.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510213026id_/http%3A//www.createphpbb.com/free-message-boards-software-hosting-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createphpbb.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129011604id_/http%3A//www.createphpbb.com/free-message-boards-software-hosting-privacy.html) for the most accurate reproduction.*
 
 # Free Message Boards Software Hosting Privacy
 
