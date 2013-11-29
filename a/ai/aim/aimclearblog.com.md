@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aimclearblog.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529104551id_/http%3A//www.aimclearblog.com/aimclear-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aimclearblog.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129104105id_/http%3A//www.aimclearblog.com/aimclear-privacy-policy) for the most accurate reproduction.*
 
 # aimClear Privacy Policy | aimClear® Blog
 
