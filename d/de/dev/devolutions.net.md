@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devolutions.net privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601135808id_/http%3A//devolutions.net/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devolutions.net privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129074349id_/http%3A//devolutions.net/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Devolutions
 
@@ -101,9 +101,9 @@ Devolutions is responsible for all personal information under its control. If yo
 Email: | [infos@devolutions.net](mailto:infos@devolutions.net) (please read the Important Reminder below)  
 ---|---  
 Mail: |  Devolutions inc.  
-40 Des Jardins Street  
-Lavaltrie, Qc  
-J5T 1T7  
+199, Rang du Golf  
+Lavaltrie, QC J5T 3C6  
+Canada  
   
 We will respond to your request or investigate your concern as quickly as we can.
 
