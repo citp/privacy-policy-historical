@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thegymgroup.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609102937id_/http%3A//www.thegymgroup.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegymgroup.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129144628id_/http%3A//www.thegymgroup.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | The Gym Group
 
 This privacy policy sets out how The Gym Limited uses and protects any information that you give The Gym Limited when you use this Website. By browsing and using this Website you are agreeing to comply with and be bound by the following privacy policy, which together with our [terms and conditions](http://www.thegymgroup.com/terms-conditions/) of use govern The Gym Limited’s relationship with you in relation to this Website. Please read the following carefully so you may understand how your personal data will be treated. 
 
-For the purposes of the Data Protection Act 1998 (“the Act”), the data controller is The Gym Limited of Blenheim Centre, Prince Regent Road, Hounslow, TW3 1NL. The term ‘The Gym Limited’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office is Blenheim Centre, Prince Regent Road, Hounslow, TW3 1NL. Our company registration number is 05659669 (United Kingdom). The term ‘you’ refers to the user or viewer of this Website. 
+For the purposes of the Data Protection Act 1998 (“the Act”), the data controller is The Gym Limited of Woodbridge Meadows, Guildford, Surrey, GU1 1BA. The term ‘The Gym Limited’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office is Woodbridge Meadows, Guildford, Surrey, GU1 1BA. Our company registration number is 05659669 (United Kingdom). The term ‘you’ refers to the user or viewer of this Website. 
 
 We may change this Privacy Policy from time-to-time. To ensure that you are always aware of our most current Privacy Policy, please take the time to check this page regularly. 
 
@@ -40,7 +40,7 @@ We use collected information:
   * to notify you about changes to our products and services;
   * answering your queries; and/or
   * contacting you for market research and marketing
-  * The Gym Group may contact you in relation to the nature of your attempted transaction, even if you don't confirm the transaction. This will be an operational email to enquire as to why the transaction was not completed. The data will not be used for any other purpose, won't be stored for longer than necessary and certainly not shared with any other company. Our aim is simply to provide you with the highest level of service that we can
+  * The Gym Group may contact you in relation to the nature of your attempted transaction, even if you don't confirm the transaction. This will be an operational email to enquire as to why the transaction was not completed. The data will not be used for any other purpose, won't be stored for longer than necessary and certainly not shared with any other company. Our aim is simply to provide you with the highest level of service that we can 
 
 
 
@@ -96,34 +96,34 @@ The table below provides an overview of all the cookies used by The Gym Limited,
 
 By accepting our [Terms & Conditions](http://www.thegymgroup.com/terms-conditions/) and this Privacy Policy, you consent to The Gym’s use of cookies.
 
-Cookie name | Cookie Type | Purpose  
+Cookie name| Cookie Type| Purpose  
 ---|---|---  
 session  
 fe_typo_user  
-in | Session | We use session cookies to record an individual users preferences that the user has specified, so that each time the user returns their preferences remain. Commonly this would be language settings, shopping carts, anything where you have indicated a preference. Where forms are used on the site, we hold the information in a session cookie so that we can improve the user experience on the site. Should a user, for example, forget to fill in parts of a form when submitting a form, we can auto-fill the values for those fields that have been filled in, thereby reducing the amount of fields a user needs to amend. This information is stored only in your browser and is destroyed once your browser is closed.  
+in| Session| We use session cookies to record an individual users preferences that the user has specified, so that each time the user returns their preferences remain. Commonly this would be language settings, shopping carts, anything where you have indicated a preference. Where forms are used on the site, we hold the information in a session cookie so that we can improve the user experience on the site. Should a user, for example, forget to fill in parts of a form when submitting a form, we can auto-fill the values for those fields that have been filled in, thereby reducing the amount of fields a user needs to amend. This information is stored only in your browser and is destroyed once your browser is closed.  
 __utmz  
 __utmc  
 __utmb  
-__utma | Google Analytics | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site for you. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
+__utma| Google Analytics| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site for you. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
 APISID  
 HSID  
 NID  
 PREF  
 SAPISID  
 SID  
-SSID,  | Google+ | These cookies allow you to connect with our Google + account and use our social networking services  
+SSID, | Google+| These cookies allow you to connect with our Google + account and use our social networking services  
 datr  
 lsd  
 reg_ext_ref  
 reg_fb_gate  
-reg_fb_ref | Facebook | These cookies allow you to connect with our Facebook account and use our social networking services  
+reg_fb_ref| Facebook| These cookies allow you to connect with our Facebook account and use our social networking services  
 guest_id  
 k  
 pid  
 twl  
 js  
 _twitter_sess  
-original_referer | Twitter | These cookies allow you to connect with our Twitter account and use our social networking services. Twitter cookies collect information and tracks your individual IP based on information you would have given when you signed up to this service. More information can be found in Twitters own Privacy Policy.  
+original_referer| Twitter| These cookies allow you to connect with our Twitter account and use our social networking services. Twitter cookies collect information and tracks your individual IP based on information you would have given when you signed up to this service. More information can be found in Twitters own Privacy Policy.  
 ACTIVITY  
 HSID  
 LOGIN_INFO  
@@ -134,7 +134,7 @@ VISITOR_INFO1_LIVE
 demographics  
 gBLOz.resume  
 recently_watched_video_id_list  
-use_hitbox | YouTube | These cookies allow you to connect with our YouTube account and use our social networking services  
+use_hitbox| YouTube| These cookies allow you to connect with our YouTube account and use our social networking services  
   
 ### **Changes to our Privacy Policy**
 
@@ -145,7 +145,7 @@ Any changes we make to this Privacy Policy will be posted on this page and, wher
 If you have any questions about our Privacy Policy, please contact us at: 
 
 **The Gym Group**  
-Blenheim Centre  
-Prince Regent Road  
-Hounslow  
-TW3 1NL
+Woodbridge Meadows  
+Guildford  
+Surrey  
+GU1 1BA
