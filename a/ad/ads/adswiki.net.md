@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adswiki.net privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619200155id_/http%3A//www.adswiki.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adswiki.net privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129103140id_/http%3A//www.adswiki.net/about/policy) for the most accurate reproduction.*
 
-# Privacy Policy | Advertising network,Ads Review,Payment Proof,Advertising News.
+# Privacy Policy | AdsWiki - Ad Network Listing, Reviews, Payment Proof & Advertising News.
 
 Revision Date: July, 2011
 
