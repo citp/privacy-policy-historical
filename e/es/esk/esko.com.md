@@ -1,159 +1,122 @@
-> *The following text is extracted and transformed from the esko.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esko.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129231840id_/http%3A//www.esko.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Network Solutions
+# Esko Privacy Policy - Esko
 
-Privacy Policy  
+Esko created this Privacy Policy in order to demonstrate our commitment to privacy. Your right to privacy and data security is a primary concern.
 
+When you visit any Esko website, we help you maintain control over your personal data on the Internet. Below are the guidelines we use for protecting the information you provide us when you visit our website.
 
-  
-Updated September 30, 2004  
-Version 2.4
-
-**Privacy Topics  
-**   
-Why A Privacy Policy?  
-Getting to Know our Customers  
-Third Party Advertising and Cookies  
-Information Corrections or Changes  
-How We Put Information to Good Use  
-With Whom We May Share Information  
-How Do I Get My Name Removed from Bulk Access  
-Our Accountability to You  
-Employee Accountability  
-The Accountability of Network Solutions' Agents and Business Partners  
-Notification of Changes
-
-**Why A Privacy Policy?**   
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
-
-**This Privacy Policy protects your privacy by:**
-
-**Informing you about:**
-
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
-
-**Empowering you to choose:**  
-
-
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
-
-**Assuring you that Network Solutions:**  
-
-
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
-
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
-
-**Getting to Know Our Customers**
-
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=QIXOXXRHSGEHECWKEAQSFEY) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
-
-**Third Party Advertising and Cookies**
-
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>. 
-
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/"). 
-
-**Information Corrections or Changes  
-**   
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
-
-**How We Put Information to Good Use  
-**   
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
-
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
-
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
-
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
-
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
-
-**With Whom We May Share Information  
-**   
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent. 
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=QIXOXXRHSGEHECWKEAQSFEY "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and  
-
-  5. Click “SAVE.”  
-
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
-**How Do I Get My Name Removed from Bulk Access  
-**   
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20041212034649id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=QIXOXXRHSGEHECWKEAQSFEY "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and  
-
-  5. Click “SAVE.”   
+  * Information Gathering and Usage
+  * Cookies and Web Beacons
+  * Managing Your Information
+  * Security
+  * Contact Esko
+  * Changes in this Privacy Policy
 
 
 
+**Information Gathering and Usage**
 
-**Our Accountability to You  
-**   
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+Esko gathers information about you from data that you provide through such things as optional or mandatory registration, online surveys, contests and the Web pages you visit. The types of personal information collected can include your name, mailing address, phone number, email address and internet protocol (IP) address. We may also ask you to provide us with demographic information such as your job function, industry, application, contact preferences or experience with our products.
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+We generally collect this information at the time you register to use our website, subscribe to our service, post material or request further services. Esko may enhance or merge your information collected on our website with other operational data as well as data from [our affiliates and] third parties for purposes of marketing products or services to you. Such information enables us to better tailor our content to your needs.
 
-**Employee Accountability  
-**   
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+The information you provide will be used to support your professional relationship with Esko and our products. Among other things, we want to help you quickly find information on our websites and alert you to information on our products, services and programs. We also use this information to help you complete a transaction and in some cases to contact you for market research.
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+**Links to other websites**
 
-**The Accountability of Network Solutions' Agents and Business Partners  
-**   
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+This website contains links to other websites that are not owned or controlled by Esko. Links to other websites will open in a new browser window. Please be aware that Esko is not responsible for the privacy practices of such other websites. We encourage you to be aware when you leave our website and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies only to information collected by this website.
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+**Message boards/forums**
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
-(703) 668-4600 
+This website may make forums and message boards available to you. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information.
 
-**Notification of Changes  
-**   
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+**Electronic newsletters**
 
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).   
-**
+Esko offers various free electronic newsletters. Users can sign up by clicking on the “[Subscribe to the More! E-zine](https://web.archive.org/en/company/newsletter/more-e-zine)” button on the homepage. Or the More! E-zine link in the top navigation under Company. We don't spam, never sell or rent email addresses, and there's an easy unsubscribe in every email you'll receive. Alternately users may remove themselves from mailing lists by sending an email to [privacy@esko.com](mailto:privacy@esko.com).
+
+**Contests**
+
+Esko may offer contests in which we request certain personal information. At a minimum, the required information includes name and email address. In some cases, the entrant must answer mandatory survey questions about a range of technical interests and personal data. The information gathered in the entry form is used to verify the entrant's identity and eligibility, to contact winners or prize recipients, and to market and sell our products. Because the rules and terms of each contest can vary, all information about each contest is clearly posted during the event.
+
+**Log files**
+
+Like most standard website servers, we use log files to automatically log information such as IP addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We log this information to analyze trends, administer our website, track user movement in the aggregate, and gather broad demographic information for aggregate use. We do not use this information to identify you. For areas of our website that require registration, we log the user's email address and specific information concerning the user's activity on our website. This information may be tied to the user's other personal information and, if so, it is used to support the user's professional relationship with Esko and our products.
+
+We may periodically use the Click Tale web analytics service on our website to help us research website issues and to help us improve our visitors' experience on our website.  When enabled, Click Tale records mouse clicks, mouse movements, scrolling activity as well as any text you type on the pages on which it is enabled.  
+This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services.  
+You can choose to disable the Service at [Disable Clicktale](http://www.clicktale.net/disable.html).  
+For more information on the information that is Collected by the ClickTale Web Analytics Service, see Click Tales privacy policy: <http://www.clicktale.com/privacy-policy>
+
+**Information sharing**
+
+Esko will not share, sell or rent your personal information for promotional purposes and will not disclose your personal information to outside organizations unless they are affiliated with Esko. Distributors, rental partners, affiliates, contractors, or other business partners of Esko may have access to your personal information but will only use your information in connection with your customer relationship with Esko and our products.
+
+**Where we store your personal data**  
+We may transfer your personal information to, or store it at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+**Legal requirements**
+
+Esko may be required to disclose personal information in response to a court order or other legal requirement.
+
+**Cookies and web beacons**
+
+Cookies are used to enhance your experience on our websites by allowing us to tailor our content based on your interests, and distinguish you from other users of our website. A cookie is a small file of letters and numbers that does not contain any personal information, and that we store on your browser or the hard drive of your device if you agree. A cookie can contain information, such as a user ID or preferences, which the website uses to personalize content and track the pages you've visited. We don't track your personal identifiable information through cookies, unless you choose to provide this information to us by, for example, registering or logging on to our website. In the case of registering or logging on, we track information necessary to be able to follow up through contacting you. We will notify you of our use of cookies when you visit our website.
+
+We use the following cookies:
+
+  * **Strictly necessary cookies.** These are cookies or other tracking mechanisms necessary to make our website function as intended. They include, for example, cookies that enable you to use a shopping cart.
+
+
+  * **Analytical/performance cookies.** They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+
+
+  * **Functionality cookies.** These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+
+
+
+If you do not agree to our use of cookies, simply discontinue use of our website.
+
+Some of our business partners and software vendors use cookies on our website (e.g., for website analytics). While Esko strives to protect the private information of our website users and thoroughly reviews the security and privacy practices of our website partners, we have no access to or control over these cookies. As such, this Privacy Policy covers the use of cookies by [www.esko.com](http://www.esko.com/ "www.esko.com") only and does not cover the use of cookies by any business partners or software vendors.
+
+Strictly necessary cookies will expire at the end of your session. Except for analytical/performance cookies and functionality cookies, all other cookies will expire after 2 years.
+
+We also collect information through the use of Web beacons. Web beacons are tiny invisible graphics placed in some of our HTML-based emails to let us know what percentage of emails are opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+
+**MANAGING YOUR INFORMATION**
+
+**Information correction and updating**
+
+Esko offers you the ability to correct or change the information collected during registration. You may change this information by returning to that website or emailing [_privacy@esko_.com](mailto:privacy@esko.com). You may unsubscribe to any of our electronic newsletters by following the instructions provided in each electronic newsletter or emailing [privacy@esko.com](mailto:privacy@esko.com). 
+
+**Deleting/Opt-Out policy**
+
+Esko does not offer you a means by which to completely delete personal information, but you can opt-out of any future communications from us by emailing [_privacy@esko.com_](mailto:privacy@esko.com).
+
+**SECURITY**
+
+Esko operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by you. Any particularly sensitive information, such as a customer's credit card number collected for a commerce transaction, is encrypted prior to transmission using secure socket layer (SSL) technology. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, we will strive commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can email us at [ _privacy@esko_.com](mailto:privacy@esko.com).
+
+**Children's privacy protection**
+
+Esko's websites do not target and are not intended for children under the age of 13. We will not knowingly collect personal data from children, and will delete such data upon discovery.
+
+**Sale of business**
+
+Esko may transfer personal information to a third party that acquires a business from Esko where the information is provided as an important asset of that acquired business. You will be notified of the transfer in accordance with our Notification of Change procedure outlined at the end of this policy.
+
+CONTACT Esko
+
+For Privacy Policy questions, email [privacy@esko.com](mailto:privacy@esko.com) or via postal mail at:
+
+**Esko-Graphics bvba  
+**Marketing Department  
+Kortrijksesteenweg 1095  
+BE-9051 Gent  
+Belgium 
+
+V.A.T. BE-0475.099.565- RPR Gent
+
+CHANGES IN THIS PRIVACY POLICY
+
+This Privacy Policy was last updated on [ _September 26, 2013_ ]. If we decide to change our privacy policies, we will post those changes here, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this privacy policy, we will notify you here, by email, or by means of a notice on our home page.
