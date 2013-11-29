@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the herts.ac.uk privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527224926id_/https%3A//go.herts.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herts.ac.uk privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129172450id_/http%3A//www.herts.ac.uk/about-us/legal/privacy) for the most accurate reproduction.*
 
-# Online privacy policy - University of Hertfordshire
+# Privacy | University of Hertfordshire
 
 At the University of Hertfordshire we believe strongly in protecting our users' privacy. We will not wilfully disclose information about our users to any third party without first receiving the relevant user's consent. This Privacy Policy sets out the privacy practices for the services offered on any University of Hertfordshire ('the University') owned and/or operated websites ('the Website'). Some parts of our on-line systems and services and our collaborative agreements are operated on our behalf by third-party organisations. By submitting your personal information you are consenting to the University holding it, in accordance with this policy, and where necessary carrying out these services by providing the relevant information to such organisations.
 
@@ -44,7 +44,7 @@ Many of our web pages contain links to social networking sites that are provided
   * [Facebook's Privacy Policy](http://www.facebook.com/about/privacy/ "Facebook's privacy policy")
   * [Twitter's Privacy Policy](https://twitter.com/privacy "Twitter's privacy policy")
   * [Google's + Buttons Privacy Policy](http://www.google.com/webmasters/+1/button/policy.html "Google's +1 privacy policy")
-  * [Discus’ terms and policies ](http://docs.disqus.com/kb/terms-and-policies/ "Discus' terms and policies")
+  * [Discus’ terms and policies ](http://docs.disqus.com/kb/terms-and-policies/)
 
 
 
