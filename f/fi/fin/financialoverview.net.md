@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the financialoverview.net privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417234359id_/http%3A//www.financialoverview.net%3Fpage_id%3D1038) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialoverview.net privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129020312id_/http%3A//www.financialoverview.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Financialoverview.net
+# Privacy Policy « Business News, Finance News, Stock Market, World Business, Financial Markets News Online
 
-#### [Privacy Policy](http://www.financialoverview.net/?page_id=1038)
+#### [Privacy Policy](http://www.financialoverview.net/privacy-policy)
 
   
 
