@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the classicalite.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624143332id_/http%3A//www.classicalite.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicalite.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129151152id_/http%3A//www.classicalite.com/privacypolicy) for the most accurate reproduction.*
 
 # Classicalite
+
+[](https://web.archive.org/)
+
+News, Commentary on Classical Music, Jazz, Theater, Dance & More
+
+#### Privacy Policy
 
 This is the privacy policy ("Privacy Policy") for HNGN.com ("Site," "we," "us," or "our"). This Privacy Policy is intended to explain our privacy practices and covers the following areas:  
 When This Privacy Policy Applies. U.S. Governing Law; Safe Harbor..  
