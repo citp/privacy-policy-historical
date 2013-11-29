@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kaleidescape.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115204908id_/http%3A//www.kaleidescape.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaleidescape.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129222810id_/http%3A//www.kaleidescape.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Kaleidescape - Privacy Policy
+
+## Kaleidescape Privacy Policy
 
 Kaleidescape, Inc. and its affiliates, including Kaleidescape Canada, Inc. and Kaleidescape Europe Ltd., (collectively referred to as "Kaleidescape") take your privacy seriously. This Privacy Policy describes how we treat personal information that we collect and receive about you and your use of your Kaleidescape System ("System"), the Kaleidescape Movie Guide and Music Guide Services, and our websites.
 
@@ -8,7 +10,7 @@ This Privacy Policy supplements and is incorporated into the Kaleidescape Servic
 
 To provide you with a better, more satisfying experience, Kaleidescape collects and uses certain types of information, as described below. Kaleidescape does not intend to disclose to any third party, except as provided below, any personal information, including what CDs, DVDs, and Blu-ray Discs you - as an individual or household - have purchased, loaded into or viewed with your System.
 
-## Types of Information Collected
+### Types of Information Collected
 
   * Kaleidescape collects certain personal information when you activate your System, such as your name, address, telephone number, and email address. Kaleidescape collects additional information from time to time, such as the serial numbers of the components of your System and the software versions and options used by them.
   * Kaleidescape automatically collects and maintains diagnostic and usage information from every System connected to the Internet for the purposes of quality control, technical troubleshooting, and the development of new features, products, and services. Diagnostic and usage information includes a detailed record of the operating history of your System, such as browser interface settings, CD, DVD, and Blu-ray Disc imports, user inputs and response times (including details about CDs, DVDs, and Blu-ray Discs played), disk errors or failures, disk space use, component temperatures, and information entered into the browser interface. Diagnostic and usage information also contains and is identified by the serial numbers of the components of your System and their IP addresses.
@@ -16,7 +18,7 @@ To provide you with a better, more satisfying experience, Kaleidescape collects 
 
 
 
-## How We Use Information Collected
+### How We Use Information Collected
 
 We may use information in the following ways:
 
@@ -38,19 +40,19 @@ We occasionally hire other companies to provide limited services on our behalf i
 
 Your information may be stored and processed in the United States or any country in which Kaleidescape or its subsidiaries or agents maintain a presence; you consent to any such transfer of your personal information outside of your country.
 
-## Security of your Personal Information
+### Security of your Personal Information
 
 Kaleidescape is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, your personal information will be stored on computer servers with limited access that are located in controlled facilities. When we transmit sensitive information (such as a credit card number) over the Internet, we protect it through encryption.
 
-## Policy Modifications
+### Policy Modifications
 
 We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.
 
-## Technical Problems
+### Technical Problems
 
 Even though Kaleidescape has taken steps to ensure that your personal information will not be collected, used, or disclosed by Kaleidescape except as set forth by this Privacy Policy, technical mistakes are possible. If such a mistake takes place, we will take commercially-reasonable steps to correct it.
 
-## Contact Kaleidescape
+### Contact Kaleidescape
 
 If you would like to make suggestions or find out more about our privacy practices, please call us at +1 650-625-6100, or send us a letter. Our mailing address is, Kaleidescape, Inc., 440 Potrero Avenue, Sunnyvale, CA 94085-4117.
 
