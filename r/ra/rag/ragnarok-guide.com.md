@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ragnarok-guide.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527171113id_/http%3A//www.ragnarok-guide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragnarok-guide.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129063609id_/http%3A//ragnarok-guide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ragnarok Guide
 
-This privacy notice discloses the privacy practices for ragnarok-guide.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+This privacy notice discloses the privacy practices for ragnarok-guide.com and the [Ragnarok Guide](http://www.ragnarok-guide.com/ "Ragnarok Guide") app. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
 What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
 
@@ -12,7 +12,7 @@ The security procedures in place to protect the misuse of your information.
 
 How you can correct any inaccuracies in the information.
 
-Information Collection, Use, and Sharing
+Information Collection, Use, and Sharing 
 
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
@@ -68,5 +68,3 @@ Wherever we collect sensitive information (such as credit card data), that infor
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via this contact form:
-
-[](https://addthis.com/bookmark.php?v=300)
