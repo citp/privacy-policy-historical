@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aisquared.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616181704id_/http%3A//aisquared.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aisquared.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129194630id_/http%3A//aisquared.com/privacy_policy) for the most accurate reproduction.*
 
 # ai squared - making accessibility simple
 
