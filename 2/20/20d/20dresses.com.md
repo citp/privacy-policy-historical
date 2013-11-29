@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 20dresses.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629102156id_/http%3A//www.20dresses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20dresses.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129104159id_/http%3A//www.20dresses.com/privacy) for the most accurate reproduction.*
 
-# 20dresses.com - PRIVACY POLICY
+# 20dresses.com - Privacy Policy
 
 We value the trust you place in 20Dresses.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. Note: Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
