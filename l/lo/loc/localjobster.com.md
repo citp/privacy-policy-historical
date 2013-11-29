@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localjobster.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506102100id_/http%3A//localjobster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localjobster.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129085529id_/http%3A//www.localjobster.com/privacy) for the most accurate reproduction.*
 
 # Local Jobster - Find Local Jobs Online
 
@@ -62,6 +62,8 @@ You may remove your information from Company's database. If you remove your info
 
 2.8. Storage of Individual Information. Company stores the Individual Information in a database on its' computers. Our computers have security measures (such as a firewalls and password protection) in place to protect against the loss, misuse, and alteration of the information under Company's control. Not withstanding such measures, Company cannot guarantee that its security measures will prevent its computers from being illegally accessed, and the Individual Information on them stolen or altered.
 
+2.9. If you register on our site, you may receive live telephone calls from one or more of the callers listed below at the number you provided. Whether or not you receive any calls may depend on your answers to the survey questions that follow our registration page. You expressly waive all federal and state no-call restrictions with respect to such contact. You may opt out of receiving calls at any time by following the instructions provided by the caller or asking the caller to place you on its do-not-call list. Degree Services, College Center, College Coach, College Source, College Finder, Education Search, Education Source, Careers and College Connect, Education for Careers, Career Institute, Education Direct. 
+
 ### 3\. Privacy Practices of Third Parties.
 
 3.1. Advertiser cookies and web beacons. Advertising agencies, advertising networks, and other companies who place advertisements on the website and on the internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. Company does not control the use of such technology and Company has no responsibility for the use of such technology to gather information about you.
@@ -79,5 +81,3 @@ In accordance with California Civil Code Sec. 1789.3, California resident users 
 LocalJobster.com is committed to protecting the privacy of consumers. If you have any questions, comments or concerns regarding our Online Privacy Policy and its implementation, please do not hesitate to e-mail us at privacy@localjobster.com.
 
 Close Privacy Policy
-
-© 2011 LocalJobster.com. All rights reserved. 
