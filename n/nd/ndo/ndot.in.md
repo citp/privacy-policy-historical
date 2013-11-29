@@ -1,51 +1,63 @@
-> *The following text is extracted and transformed from the ndot.in privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012171113id_/http%3A//www.ndot.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndot.in privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129053754id_/http%3A//www.ndottech.com/privacy-policy.html) for the most accurate reproduction.*
 
 # NDOT Privacy Policy
 
-This Privacy Policy describes the types of information NDOT ("we", "us") collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use NDOT Products or Services ("Products or Services") and do not access the NDOT websites located at [http://www.ndot.in](http://www.ndot.in/), [http://deals.ndot.in](http://deals.ndot.in/), [http://groupon.ndot.in](http://groupon.ndot.in/) ("Site", "Sites"). 
+This Privacy Policy governs the manner in which Ndot Technologies collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.ndottech.com](http://www.ndottech.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Ndot Technologies. 
 
-If You choose to use Products or Services, we may require You to provide contact and identity information, billing information, and other personal information as indicated on the Sites. Once You register on the Site, You are no longer anonymous to us. We collect and store the following information:
+### Personal identification information
 
-  * Email address, physical contact information, and financial information;
-  * Computer sign-on data, statistics on page views, traffic to and from Sites and ad data (all through cookies - You can take steps to disable cookies on Your browser, however this is likely to affect Your ability to use Sites);
-  * Remote access codes to your server (we ask for this information if You register for a service that could not be provided without having such information);
-  * Discussion board posts and other messages, including correspondence between us and You; and
-  * General information regarding the Products or Services You have registered to receive.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information, social security number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
+### Non-personal identification information
 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
-We do not store the following information normally:
+### Web browser cookies
 
-  * Credit card information;
-  * Access codes to providers of payment processing services;
-  * Access codes to providers of domain registration services; and
-  * Any information about your own clients.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
+### How we use collected information
 
+Ndot Technologies may collect and use Users personal information for the following purposes:
 
-Nevertheless we may store the information mentioned above if it is necessary for providing Service.
+### \- To improve customer service
 
-We use Your personal information to: 
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-  * provide Products and Services;
-  * resolve disputes, calculate and collect fees, and troubleshoot problems;
-  * verify users' identity and the information users provide;
-  * encourage safe online experience and enforce our policies;
-  * customize users' experience, analyze site usage, improve and measure interest in our services, and inform users about services and updates;
-  * communicate administrative announcements when we need to provide users with information that may affect their use of Products or Services;
-  * communicate marketing and promotional offers to our users;
-  * provide customer service; and
-  * perform other business activities as described when we collect the information.
+### \- To personalize user experience
 
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
+### \- To process payments
 
-As part of your registration for Products or Services on the Site, You agree that You may receive certain administrative communications from us, such as administrative announcements and customer service messages regarding Products or Services and products during the period that we provide Products or Services to You, and You will not be able to opt out of receiving such administrative communications.
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
 
-We do not sell or rent Your personal information to third parties for their marketing purposes without Your explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates other's rights, or protect anyone's rights, property, or safety. We may also share personal information with: 
+### \- To send periodic emails
 
-  * service providers who help with our business operations and assist in the delivery of Products or Services to our users. These service providers are under confidentiality agreements with us;
-  * law enforcement or other government officials in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, violations of law, or as otherwise required by law.
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
+### How we protect your information
 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-We may amend this Privacy Policy at any time by posting the amended terms on Sites. In the event of amendment, all terms shall become effective 30 days after they are initially posted to the Sites. Your continued use of Products or Services will constitute your acceptance of any changes or additions to this Privacy Policy.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected.
+
+### Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+### Changes to this privacy policy
+
+Ndot Technologies has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+Ndot Technologies Pvt Ltd
+
+[www.ndottech.com](http://www.ndottech.com/)
