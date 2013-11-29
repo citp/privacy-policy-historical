@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 7cupsoftea.com privacy policy that was archived on 2013-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624161252id_/http%3A//www.7cupsoftea.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 7cupsoftea.com privacy policy that was archived on 2013-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131129031529id_/http%3A//www.7cupsoftea.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>Privacy Policy | 7CupsOfTea.com</title>
@@ -8,229 +8,299 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">        
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link rel="stylesheet" href="/css/base.css" type="text/css">
-<link rel="stylesheet" href="/css/responsive.css" type="text/css">
+<link rel="stylesheet" href="/css/base.css?v=3.1" type="text/css">
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/smoothness/jquery-ui.css" type="text/css">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+
+<script src="//cdn.optimizely.com/js/339624068.js"></script>
+
+<script src="/js/jquery.ui.touch-punch.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
 <script src="/js/bootstrap.min.js" type="text/javascript"></script>
 
-<script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher: "ur-7af676c-a1b-99ab-bb2e-9b5c43ca3e86"});</script>        <style type="text/css">
+<script type="text/javascript">
+    $(function() {
+        $('.dropdown-submenu > a').click(function(e) {
+            e.stopPropagation();
+            e.preventDefault();
+            $(this).parent().find('.dropdown-submenu-hide').slideToggle();
+
+        });
+
+        loadPopOvers();
+
+    });
+
+    function loadPopOvers() {
+        $('*[data-toggle=popover]').popover({
+            html: true,
+            trigger: 'manual',
+            placement: 'auto top'           
+        }).on("mouseenter", function() {
+            var _this = this;
+            $(this).popover("show");
+            $(this).siblings(".popover").on("mouseleave", function() {
+                $(_this).popover('hide');
+            });
+        }).on("mouseleave", function() {
+            var _this = this;
+            setTimeout(function() {
+                if (!$(".popover:hover").length) {
+                    $(_this).popover("hide")
+                }
+            }, 100);
+        });
+    }
+
+    function showPolicy(policy) {
+        switch (policy) {
+            case 'privacy':
+                var url = '/inc/privacyPolicy.html';
+                break;
+            case 'membertos':
+                var url = '/inc/memberTOS.html';
+                break;
+            case 'listenertos':
+                var url = '/inc/listenerTOS.html';
+                break;
+        }
+
+        $('#policyBox').load(url);
+        $('#policyModal').modal();
+    }
+
+    function currentTimezoneOffset() {
+        var dt = new Date();
+        return (dt.getTimezoneOffset() * 60);
+    }
+
+    $.cookie("tzoffset", currentTimezoneOffset(), {path: '/'});
+</script>
+
+    <script type="text/javascript">var switchTo5x = true;</script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">stLight.options({publisher: "ur-69b019bb-682a-3df7-d6e9-83357ea065e0", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
+<meta property="og:image" content="//7cupstearesources.s3.amazonaws.com/img/7cupsshare.jpg">        <style type="text/css">
             #pageContent p{
                 margin-top:0;
             } 
         </style>
     </head>
     <body>
-        <script type="text/javascript" src="js/bootstrap-dropdown.js"></script>
-<script>
-     $(document).ready(function(){
-        $('.dropdown-toggle').dropdown()
-    });
-</script>
-<style>
-		.tagSel
-		{
-			color: #000000 !important;	
-		}
-		
-		.dropdown-menu a{
-    color: #333333 !important;
-}
-		.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{
-			background: #dddddd !important;
-    background-color: #dddddd !important;
-    background-image: none !important;
-    linear-gradient(#dddddd, #dddddd);
-}
-
-dropdown-menu a:hover, .dropdown-menu a:focus{
-			background: #dddddd !important;
-    background-color: #dddddd !important;
-    background-image: none !important;
-    linear-gradient(#dddddd, #dddddd);
-}
-</style>
-<div id="wrap">
-    <div class="navbar navbar-static-top">
-        <div class="navbar-inner">
-            <div class="container">
-                <a href="/"><img class="pull-left logoImg" src="/img/7cupsoftea.jpg" height="75" width="226" alt="7cupsoftea.com - We listen when you need someone to talk to." border="0"></a>
-                
-                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </a>
-                
-               <div class="nav-collapse collapse pull-right">
-                    <ul class="nav" role="navigation">
-                    	<li>
-               		 		<a id="" href="https://www.7cupsoftea.com/admin/login.php">Login</a>
-               		 	</li>
-               		 
-               		 <ul>
-               		 
-               	</ul></ul></div>
-                
-                <div class="nav-collapse collapse">
-                    <ul class="nav" role="navigation">
-                        <li class=""><a href="/">Home</a></li>
-                        <li class=" dropdown">
-                        	<a id="drop1" href="/about.php" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
-                        		<ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
-                        			<li role="presentation" class="">
-                        				<a role="menuitem" tabindex="-1" href="/about.php">About</a>
-                        			</li>
-                        			<li role="presentation" class="">
-                        				<a role="menuitem" tabindex="-1" href="/howitworks.php">How it Works</a>
-                        			</li>
-                        			<li role="presentation" class="">
-                        				<a role="menuitem" tabindex="-1" href="/faq.php">FAQ</a>
-                        			</li>
-                        			<li role="presentation" class="">
-                        				<a role="menuitem" tabindex="-1" href="/confidentiality.php">Confidentiality</a>
-                        			</li>
-                        			<li role="presentation" class="">
-                        				<a role="menuitem" tabindex="-1" href="/ourteam.php">Our Team</a>
-                        			</li>
-                        			
-                        			<li role="presentation" class="">
-                        				<a role="menuitem" tabindex="-1" href="/values/index.php">Our Values</a>
-                        			</li>
-                        			<li role="presentation" class="">
-                        				<a role="menuitem" tabindex="-1" href="/blog/">Blog</a>
-                        			</li>
-                        		
-                        		</ul>
-                        </li>
-                        
-                        
-                        
-                        <li class=" dropdown">
-                        	<a id="drop1" href="/communities" class="dropdown-toggle" data-toggle="dropdown">Communities <b class="caret"></b></a>
-                        		<ul class="dropdown-menu" role="menu" aria-labelledby="drop1">
-                        			<li role="presentation" class="">
-                        				<a role="menuitem" tabindex="-1" href="/communities/caregivers.php">Caregivers</a>
-                        			</li>
-                        			<li role="presentation" class="">
-                        				<a role="menuitem" tabindex="-1" href="/communities/military.php">Military And Veteran Families</a>
-                        			</li>
-                        			<li role="presentation" class="">
-                        				<a role="menuitem" tabindex="-1" href="/communities/faith.php">Faith Based Groups</a>
-                        			</li>
-                        		</ul>
-                        </li>
-                       
-                         <li class=""><a href="/listener">Become a Listener</a></li>
-                        
-                        <li class=""><a href="/partners">Become a Partner</a></li>
-                        <li class=""><a href="BrowseListeners.php">Browse Listeners</a></li>
-                        
-                        
-                    </ul>
+        <div id="wrap">
+    <div class="navbar navbar-default navbar-static-top" role="navigation">
+        <div class="container">
+            <a id="header-md-logo" href="/" class="hidden-xs"><img src="//7cupstearesources.s3.amazonaws.com/img/7CupsOfTea-md-logo.jpg"></a>
+            
+            <div class="visible-xs row">
+                <div class="col-xs-10">
+                <a id="header-xs-logo" href="/"><img src="//7cupstearesources.s3.amazonaws.com/img/7CupsOfTea-xs-logo.jpg"></a>
                 </div>
-               
+                <div class="col-xs-2">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                </div>
             </div>
+            
+            
+            <div class="collapse navbar-ex1-collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li class="">
+                        <a href="/BrowseListeners/"><i class="fa fa-group"></i> Browse Listeners</a>
+                    </li>
+                    
+                    <li class=""><a href="/login.php"><i class="fa fa-lock"></i> Login</a></li>                </ul>
+          
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown">
+                        <a href="/about/about.php" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/about/about.php">About</a></li>
+                            <li><a href="/about/howitworks.php">How it Works</a></li>
+                            <li><a href="/about/faq.php">FAQ</a></li>
+                            <li><a href="/about/faqBadgesCheers.php">Badges &amp; Cheers</a></li>
+                            <li><a href="/about/confidentiality.php">Confidentiality</a></li>
+                            <li><a href="/about/ourteam.php">Our Team</a></li>
+                            <li><a href="/about/values.php">Our Values</a></li>
+                            <li><a href="/blog/">Blog</a></li>
+                            <li><a href="/about/press.php">Press</a></li>
+                            <li><a href="/about/linktous.php">Link to Us</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="/communities" class="dropdown-toggle" data-toggle="dropdown">Communities <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/partners/becomePartner.php">Become a Partner</a></li>
+                            <li class="dropdown-submenu">
+                                <a href="/partners/list.php">Partner Organizations <b class="caret"></b></a>
+                                <ul class="dropdown-submenu-hide">
+                                    <li><a href="/partners/ActiveMinds"><i class="fa fa-angle-right"></i> Active Minds</a></li><li><a href="/partners/ConnectionActionProject"><i class="fa fa-angle-right"></i> Connection Action Project</a></li><li><a href="/partners/TheCounselingNetwork"><i class="fa fa-angle-right"></i> Counseling Network</a></li><li><a href="/partners/FEASTFamiliesEmpoweredandSupportingEatingDisorders"><i class="fa fa-angle-right"></i> F.E.A.S.T. (Families Empowered and Supporting Eating Disorders)</a></li><li><a href="/partners/HelpEachOtherOut"><i class="fa fa-angle-right"></i> Help Each Other Out</a></li><li><a href="/partners/InternationalBipolarFoundation"><i class="fa fa-angle-right"></i> International Bipolar Foundation</a></li><li><a href="/partners/ListeningHearts"><i class="fa fa-angle-right"></i> Listening Hearts</a></li><li><a href="/partners/MiraclesOne"><i class="fa fa-angle-right"></i> MiraclesOne</a></li><li><a href="/partners/NAMISantaClara"><i class="fa fa-angle-right"></i> NAMI Santa Clara</a></li><li><a href="/partners/PastorSupportAlliance"><i class="fa fa-angle-right"></i> Pastor Support Alliance</a></li><li><a href="/partners/SamvaidnaTheMentalHealthWelfareOrganization"><i class="fa fa-angle-right"></i> Samvaidna: The Mental Health Welfare Organization</a></li><li><a href="/partners/space"><i class="fa fa-angle-right"></i> space</a></li><li><a href="/partners/SupportforInternationalWorkers"><i class="fa fa-angle-right"></i> Support for International Workers</a></li><li><a href="/partners/TheTwilightBrigade"><i class="fa fa-angle-right"></i> The Twilight Brigade</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="/communities/caregivers">Caregivers</a></li>
+                            <li><a href="/communities/military">Military &amp; Veteran Families</a></li>
+                            <li><a href="/communities/faith">Faith Based Groups</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/listener/becomeListener.php">Become a Listener</a></li>
+                </ul>
+            </div> 
         </div>
     </div>
-    <div style="position:relative;"><div style="position:absolute; background:url('/img/headerShadow.png') repeat-x top left; height:10px;width:100%;z-index:10000"></div></div>
-    
-    <div class="container" id="bodyContainer">     
-                <h1>7cupsoftea.com Privacy Policy</h1>
-                
-                <p>Welcome to 7CUPSOFTEA.COM Your privacy is extremely important to us, so we have taken several steps to protect your privacy.</p>
-                <p>This privacy policy describes the way that we use and collect your data. Please review this policy carefully and in its entirety. If you have questions about this policy, then please contact us at <a href="mailto:info@7cupsoftea.com">info@7cupsoftea.com</a>.</p>
-                <p>You may not use 7CUPSOFTEA.COM if you do not agree to be bound by this Privacy Policy; you understand that 7CUPSOFTEA.COM can change this privacy policy by posting changes to this Web site. Your ongoing use of 7CUPSOFTEA.COM indicates that you accept any changes to the Privacy Policy.</p>
-                
-                <h3>Personal data is information that can be used to identify you as an individual:</h3>
-                <p>By registering on the 7CUPSOFTEA.COM service, you agree:</p>
-                <ol>
-                  <li>to comply with the terms and conditions of this Privacy Policy, and</li>
-                  <li>that 7CUPSOFTEA.COM may process (i.e., collect, use, etc.) your Personal Data as described in this Privacy Policy or the <a href="/termsofservice.php">Terms of Service</a>. Personal Data may be processed by 7CUPSOFTEA.COM in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.</li>
-                </ol>
-                
-                <h3>Information that 7CUPSOFTEA.COM collects from Users requesting calls:</h3>
-                <p>When you request a call on 7CUPSOFTEA.COM, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name or alias and contact phone number. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we collect information about your computer, like your IP address and browser information. </p>
-                <p>In the event that a User elects to purchase paid services, other Personal Information such as name, address and credit card payment information will be collected in order to process payment.</p>
-                <p>7CUPSOFTEA.COM may also record your IP address when submitting information in order to combat online crime or fraud.</p>
 
-                <h3>Information that 7CUPSOFTEA.COM collects from registered listeners:</h3>
-                <p>We collect information about you in a variety of ways. When you register with 7CUPSOFTEA.COM as a listener, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name or alias, username, password, contact phone number and other information that may appear in your public profile. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we collect information about your computer, like your IP address and browser information. </p>
-                <p>7CUPSOFTEA.COM may also record your IP address when submitting information in order to combat online crime or fraud.</p>
-                <p>7CUPSOFTEA.COM may also require an Employer Identification Number or other Tax ID number for Tax purposes depending on payments you receive for providing your services.</p>
-                <p>You are responsible to keep your password secure. You can also decide not to share any Personal Data with 7CUPSOFTEA.COM by not registering with 7CUPSOFTEA.COM as a listener. You can also cancel your 7CUPSOFTEA.COM account, after which we will remove your Personal Information from our system permanently.</p>
+    <div style="position:relative;"><div style="position:absolute; background:url('/img/headerShadow.png') repeat-x top left; height:10px;width:100%;z-index:500"></div></div>
 
-                <h3>How 7CUPSOFTEA.COM uses your information:</h3>
-                <p>We use your information solely for the purpose of anonymously connecting listeners to those requesting calls and to collect payment for providing such service. Your information is kept strictly confidential and will NOT be shared in any way with a third party. </p>
-
-                <h3>Cookies:</h3>
-                <p>7CUPSOFTEA.COM uses cookies – small pieces of information on your hard drive – to make your experience of the Service tailored, quicker, and efficient. If you choose to disable the cookies, then you will still be able to use 7CUPSOFTEA.COM.</p>
-
-                <h3>Third Party Links:</h3>
-                <p>7CUPSOFTEA.COM may utilize third party advertisers, and some advertisements will include links to third party sites, but 7CUPSOFTEA.COM is not responsible for the privacy policies of these third party advertisers or third party links. You are encouraged to familiarize yourself with the privacy standards of each Website that you frequent. </p>
-
-                <h3>Other Disclosure:</h3>
-                <p>7CUPSOFTEA.COM may disclose Personal Data if required by a subpoena or other judicial or administrative order, where required by law, or, at our sole discretion, where we deem necessary to protect the safety of any individual or the general public or to prevent violation of our Terms of Service or the rights of 7CUPSOFTEA.COM or any third party.</p>
-                <p>7CUPSOFTEA.COM is privately owned and does not currently have a parent company or any subsidiaries or other joint ventures; however, 7CUPSOFTEA.COM may partner with another company in the future. If 7CUPSOFTEA.COM partners, or is acquired by another company, then we will seek to have our partner, or acquiring company, follow this Privacy Policy. If 7CUPSOFTEA.COM is acquired by or purchased by another company, we reserve the right to transfer all of 7CUPSOFTEA.COM's User information to the acquiring entity. If this occurs, then 7CUPSOFTEA.COM will post this information and you can then choose to modify or deactivate your account.</p>
-                <p>7CUPSOFTEA.COM uses commercially reasonable practices and industry standard security measures to protect information under our control. 7CUPSOFTEA.COM works hard to provide a high level of security; however, we cannot guarantee complete security. By using our web site you agree to assume all risk in connection with the information sent to us or collected by us.</p>
-
-                <h3>Changing, Updating and Removing User Information:</h3>
-                <p>You can change, update, and/or remove your information at any point. Your Personal Data may be retained in our backup files and archives even after such changes, updates, or removal.</p>
-
-                <h3>International Users:</h3>
-                <p>7CUPSOFTEA.COM is international in scope. Consequently, we will use international user information in a manner that is reflected by this Privacy Policy. This information will be stored and transmitted on servers in the United States where laws protecting Personal Data may be more or less stringent than the laws in your jurisdiction. By using this service, and hence agreeing with this Privacy Policy and Terms of Service, you consent to the transfer, use and housing of such data. </p>
-
-                <h3>Child Protection:</h3>
-                <p>7CUPSOFTEA.COM complies with the Children's Online Privacy Protection Act and clearly specifies that users must be at least 18 years-old. If 7CUPSOFTEA.COM learns of a user who is younger than 18, then 7CUPSOFTEA.COM, at their sole discretion, can terminate that account. </p>
-
-                <h3>Consent and Changes:</h3>
-                <p>As indicated above, you must accept the terms of this privacy policy to use 7CUPSOFTEA.COM. You understand and agree that 7CUPSOFTEA.COM can change the privacy policy by posting changes to this Website. Your ongoing use of 7CUPSOFTEA.COM indicates that you accept any changes to the Privacy Policy. 
-                  Again, if you have questions or comments regarding this privacy policy, then please contact us at <a href="mailto:info@7cupsoftea.com">info@7cupsoftea.com</a>.</p>
-
-            </div>
-    <div id="push"></div>
+    <div class="container" id="bodyContainer">
+        
+                <div class="row headline">
+            <div class="col-sm-5"><h1>&nbsp;</h1></div>
+            <div class="col-sm-5 col-sm-offset-2"><h4>&nbsp;</h4></div>
+        </div>        <h1>7 Cups of Tea Privacy Policy</h1>
+<hr>
+<p>Welcome to 7CupsofTea.com. Privacy is extremely important to us, so we have taken several steps to protect your privacy. </p>
+<p>This privacy policy describes the way that we use and collect your data. Please review this policy carefully and in its entirety. If you have questions about this policy, then please contact us at <a href="mailto:info@7CupsofTea.com">info@7CupsofTea.com</a>. </p>
+<p>You may not use 7CupsofTea.com if you do not agree to be bound by this Privacy Policy; you understand that 7CupsofTea.com can change this privacy policy by posting changes to this Web site. Your ongoing use of 7CupsofTea.com indicates that you accept any changes to the Privacy Policy. </p>
+<p>Personal data is information that can be used to identify you as an individual.</p>
+<p>By registering on the 7CupsofTea.com service, you agree:</p>
+<ol>
+    <li>To comply with the terms and conditions of this Privacy Policy, and</li>
+    <li>That 7CupsofTea.com may process (i.e., collect, use, etc.) your Personal Data as described in this Privacy Policy or the Terms of Service. Personal Data may be processed by 7CupsofTea.com in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.</li>
+</ol>
+<p><strong>Personal Information Defined.</strong> 7 Cups of Tea considers “Personal Information” to include information that alone or when in combination with other information may be used to readily identify or contact you, such as: name, address, email address, or phone number. 7 Cups of Tea does not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.</p>
+<p><strong>Communications with 7 Cups of Tea.</strong> If you engage in a communication with 7 Cups of Tea related to 7 Cups of Tea’s Listening Platform or 7 Cups of Tea’s or Sites using 7 Cups of Tea’s chat, email, voice or other communication products or services made available to you by 7 Cups of Tea, or if you engage in a pre- or post-interaction survey (“Survey”) related to any such communication, you may voluntarily provide, or otherwise be asked to provide, Personal Information such as your name, contact information and other information to facilitate service. By providing Personal Information and other information via 7 Cups of Tea’s communication products or services, you consent to 7 Cups of Tea collecting and processing such information for the purposes outlined in this Privacy Policy.</p>
+<p><strong>Browser Information and Usage Information.</strong> We log web browser information (e.g., Internet Protocol addresses and browser types) and other usage information from 7 Cups of Tea’s Sites and 7 Cups of Tea’s Listening Platform such as page view tallies, time spent on each page, geographic location information, page browsing information, subject matter browsing information and operating system information. If a Member or User is using a mobile or other portable device to visit or access 7 Cups of Tea’s Site or 7 Cups of Tea’s Listening Platform, we may collect hardware information related to the device used by the Member or User. Your browser may be set to limit or prevent any of the browser information described above from being transmitted.</p>
+<p>7 Cups of Tea may allow Members to sign in to 7 Cups of Tea’s Listening Platform and/or enroll as a Member by using the sign-in credentials used by such visitor on a third party social media website (e.g., Facebook). By signing in or enrolling using the third party website’s credentials, the Member consents to 7 Cups of Tea collecting and maintaining the information provided via such third party website. 7 Cups of Tea is not responsible for the privacy practices of any third party website.</p>
+<p><strong>Requests for Information, News and other Content.</strong> When you sign up to become a Member or an Listener/Life Coach, you may sign up to receive information, news and other content related to new and existing products and services related to 7 Cups of Tea’s Sites, 7 Cups of Tea’s Listening Platform and events and other information related to 7 Cups of Tea that may be of interest to you. You may also sign up to receive information, news and other content from third parties whose services and/or products we believe may be of interest to you. You will be asked to provide Personal Information, such as contact details and other information, relevant to delivering such news and information. We maintain all such information.</p>
+<p><strong>Technical Support Requests.</strong> If you need technical support related to 7 Cups of Tea’s Sites or 7 Cups of Tea’s Listening Platform, you will need to complete a form for the purposes of defining and clarifying your technical support request. When submitting a technical support request, you will be asked to provide Personal Information, including an email address and a description of the issue. We maintain copies of all technical support requests and other information submitted with or related to such requests.</p>
+<p><strong>Promotions.</strong> From time to time, we may offer promotions on 7 Cups of Tea’s Site or via 7 Cups of Tea’s Listening Platform. If we do, and if you wish to participate, you may be required to provide Personal Information, such as contact information and other information. We maintain such information.</p>
+<p><strong>Listener/Life Coach Applicants. </strong> If a visitor wishes to apply to be a Listener Life Coach on7 Cups of Tea’s Listening Platform, the visitor will be required to submit Personal Information as requested. Any information supplied by or on behalf of a visitor for purposes of becoming a Listener Life Coach will be maintained by 7 Cups of Tea as well as third party affiliates and other third parties. Please note that 7 Cups of Tea may have additional privacy terms that apply to Listener Life Coaches. Such terms will be made available when an applicant applies to be Listener Life Coach when an applicant otherwise accesses his or her account. </p>
+<p><strong>Browser Information and Cookies. </strong> We use browser information, cookies and pixel tags to determine whether a communication service or marketing material should be deployed on your browser when you are visiting 7 Cups of Tea’s Site or using 7 Cups of Tea’s Listening Platform. We may also use browser information, cookies and pixel tags: to determine how you arrived at 7 Cups of Tea’s Site or 7 Cups of Tea’s Listening Platform, to determine whether you are a return visitor, to help us improve our product and service offerings, for quality assurance and training purposes, to help diagnose problems with our servers, to gather broad demographic information, to administer and optimize our services, to deliver marketing or other materials to you on behalf of third parties and for other lawful purposes. </p>
+<p><strong>Aggregate Information. </strong> We may aggregate information so that it is not Personal Information, and we may use and share such aggregated information for training and quality assurance purposes, for purposes of delivering our services, for purposes of expanding and improving our services and for other lawful purposes. </p>
+<h3>How does 7 Cups of Tea protect your information?</h3>
+<p><strong>Security.</strong> Data transmissions over the Internet cannot be guaranteed to be fully and absolutely secure. Our website and our services have security measures in place designed to protect against the loss, misuse and alteration of the information under our control. Our security measures include the measures described below. </p>
+<p><strong>Encryption and Firewalls.</strong> Chat transcripts are encrypted during transmission. We use standard Secure Socket Layer (SSL) encryption that encodes information for such transmissions. All Transcripts are maintained on secure servers. Access to stored data is protected by multi-layered security controls including firewalls, role-based access controls and passwords.</p>
+<h3>Definitions</h3>
+<p>Cookies are pieces of information that some websites transfer to a visitor’s web browser accessing the website and are used for record-keeping purposes at many websites. Use of cookies makes web-surfing easier by performing certain functions such as saving passwords, lists of potential purchases and personal preferences regarding the use of the particular website, and ensuring that the user does not see the same ad repeatedly. </p>
+<p>Encryption is the process of transforming information into unreadable text so that it is only legible to those possessing an encryption key. The process of making encrypted information readable again is referred to as decryption. </p>
+<p>Pixel tags are small graphic images that are embedded in a web page or email for purposes of tracking activity on web pages or whether a user has opened or accessed an email. A pixel tag may be set to identify on what browser and computer it was viewed, whether that browser has cookies received from a server associated with the pixel tag, and whether the web page or email with the pixel tag was forwarded or copied. </p>
+<p>Web browser is a software program that allows a user to access, retrieve and view information on the World Wide Web. Examples of browsers include Internet Explorer, FireFox, Google Chrome and Safari.</p>
+<h3>Information that 7CupsofTea.com collects from Users requesting calls</h3>
+<p>When you request a chat or call on 7CupsofTea.com, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name or alias and contact phone number. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we collect information about your computer, like your IP address and browser information.</p>
+<p>In the event that a User elects to purchase paid services, other Personal Information such as name, address and credit card payment information will be collected in order to process payment. </p>
+<p>7CupsofTea.com may also record your IP address when submitting information in order to combat online crime or fraud.</p>
+<h3>Information that 7CupsofTea.com collects from registered listeners</h3>
+<p>We collect information about you in a variety of ways. When you register with 7CupsofTea.com as a listener, we collect personal information that is necessary for you to use the Service. This information is known as Personal Data and includes your name, username, password, contact phone number and other information that may appear in your public profile. We also collect meta-data about the overall site, like the frequency of page views and other aggregate information. Finally, we collect information about your computer, like your IP address and browser information. </p>
+<p>7CupsofTea.com may also record your IP address when submitting information in order to combat online crime or fraud. </p>
+<p>7CupsofTea.com may also require an Employer Identification Number or other Tax ID number for Tax purposes depending on payments you receive for providing your services. </p>
+<p>You are responsible to keep your password secure. You can also decide not to share any Personal Data with 7CupsofTea.com by not registering with 7CupsofTea.com as a listener. You can also cancel your 7CupsofTea.com account.</p>
+<h3>Social Applications</h3>
+<p>These services allow the web site to access the data on your profile in the social networks, and to interact through your post. These services are not activated automatically, but require express authorization by the user. </p>
+<h3>Facebook App</h3>
+<p>This is a service managed by Facebook Inc., a company that complies with the Safe Harbor Privacy Policy Framework initiative, guaranteeing the handling of Personal Information. The service allows websites to obtain information about the User within Social Networks (for instance name and surname), as well as to interact with his/her/its account, for example by posting messages or other contents. This service becomes active only after the express consent of the user, by means of an appropriate authorization window. For further information on the use of Personal Information by Facebook Inc., please consult the following link: www.facebook.com/privacy/explanation.php. The personal data collected are: Various types of data.</p>
+<h3>Twitter App</h3>
+<p>Twitter App. is managed by Twitter, a company that complies with the Safe Harbor Privacy Policy Framework initiative, guaranteeing the handling of Personal Information in compliance with European security standards. The service allows websites to obtain information about the User within Social Networks (for instance name and surname), as well as to interact with his/her/its account, for example by posting messages or other contents. This service becomes active only after the express consent of the User, by means of an appropriate authorization window.</p>
+<p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. </p>
+<p>For content that is covered by intellectual property rights, like photos and videos you specifically grant 7CupsofTea.com a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with 7CupsofTea.com (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it. </p>
+<p>When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others).</p>
+<p>You will not create more than one personal profile. </p>
+<p>If we disable your account, you will not create another one without our permission.</p>
+<h3>Mobile</h3>
+<p>We will provide any mobile services for free, but please be aware that your carrier’s normal rates and fees, such as text messaging fees, will still apply. </p>
+<p>You understand that we may not always identify paid services and communications as such.</p>
+<h3>Child Protection</h3>
+<p>7CupsofTea.com complies with the Children’s Online Privacy Protection Act and clearly specifies that users must be at least 18 years-old. If 7CupsofTea.com learns of a user who is younger than 18, then 7CupsofTea.com, at their sole discretion, can terminate that account.</p>
+<h3>Consent and Changes</h3>
+<p>As indicated above, you must accept the terms of this privacy policy to use 7CupsofTea.com. You understand and agree that 7CupsofTea.com can change the privacy policy by posting changes to this Website. Your ongoing use of 7CupsofTea.com indicates that you accept any changes to the Privacy Policy. Again, if you have questions or comments regarding this privacy policy, then please contact us at <a href="mailto:info@7CupsofTea.com">info@7CupsofTea.com</a>.</p>        </div>
+<div id="push"></div>
 </div>
 
 <footer>
     <div class="container">
-        <div class="row-fluid">
-            <div class="span3">
-                <h4>Explore</h4>
-                <a href="/about.php">About Us</a>
-                <a href="/howitworks.php">How it Works</a>
-                <a href="/faq.php">FAQ</a>
-                <a href="/confidentiality.php">Confidentiality</a>
-                <a href="/listenerAgreement.php">Listener Agreement</a>
-                <a href="/memberAgreement.php">Member Agreement</a>
-                <a href="/privacy.php">Privacy Policy</a>
-            </div>
-            <div class="span3">
-                <h4>Start Connecting</h4>
-                <a href="/connect.php">Select a Listener</a>
-            </div>
-            <div class="span3">
-                <h4>Socialize with Us</h4>
-                <a href="https://www.facebook.com/7CupsOfTea">Facebook</a>
-                <a href="https://twitter.com/7_Cups_of_Tea">Twitter</a>
-            </div>
-            
-            <div class="span3">
-                    <h4>Share this Page</h4>
-                    <span class="st_sharethis_large" displaytext="ShareThis"></span>
-                    <span class="st_facebook_large" displaytext="Facebook"></span>
-                    <span class="st_twitter_large" displaytext="Tweet"></span>
-                    <span class="st_googleplus_large" displaytext="Google +"></span>
-                    <span class="st_email_large" displaytext="Email"></span>';
-               
-                 <p style="color:#333;font-size:12px;line-height:14px">Copyright © 2013 7CupsOfTea.com.<br>All rights reserved.</p>
+        <div class="row">
+            <div class="col-sm-4">
+                <h4>SHARE 7 CUPS OF TEA</h4>
+                <span class="st_facebook_custom st_button"><img src="//7cupstearesources.s3.amazonaws.com/img/st_facebook.gif" alt="Facebook"></span>
+                <span class="st_twitter_custom st_button"><img src="//7cupstearesources.s3.amazonaws.com/img/st_twitter.gif" alt="Twitter"></span>
+                <span class="st_pinterest_custom st_button"><img src="//7cupstearesources.s3.amazonaws.com/img/st_pinterest.gif" alt="Pinterest"></span>
+                <span class="st_googleplus_custom st_button"><img src="//7cupstearesources.s3.amazonaws.com/img/st_gplus.gif" alt="Goolge+"></span>
+                <span class="st_linkedin_custom st_button"><img src="//7cupstearesources.s3.amazonaws.com/img/st_linkedin.gif" alt="LinkedIn"></span>
+                <span class="st_sharethis_custom st_button" style="padding-right:0;"><img src="//7cupstearesources.s3.amazonaws.com/img/st_sharethis.gif" alt="ShareThis"></span>                      <span class="st_email_custom st_button"><img src="//7cupstearesources.s3.amazonaws.com/img/st_email.gif" alt="Email"></span>
+
+                <div style="text-align:center;width:260px;margin-top:20px"><img src="//7cupstearesources.s3.amazonaws.com/img/guarantee.png" alt="Satisfaction Guaranteed"></div>
+
             </div>
 
+            <div class="col-sm-8">
+                <div class="row">
+                <div class="col-sm-5">
+                    <h4>ABOUT US</h4>
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <a href="/about/howitworks.php">How it Works</a>
+                            <a href="/about/faq.php">FAQ</a>
+                            <a href="/about/confidentiality.php">Confidentiality</a>
+                            <a href="/partners/list.php">Partners</a>
+                            <a href="/about/press.php">Press</a>
+                        </div>
+                        <div class="col-sm-6">
+                            <a href="/about/about.php">Our Story</a>
+                            <a href="/about/ourteam.php">Our Team</a>
+                            <a href="/about/values.php">Our Values</a>
+                            <a href="/blog/">Blog</a>
+                            <a href="/about/linktous.php">Link to Us</a>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-sm-3">
+                    <h4>START CONNECTING</h4>
+                    <a href="/BrowseListeners/">Browse Listeners</a>
+                    <a href="/member/BecomeMember.php">Become a Member</a>
+                    <a href="/listener/becomeListener.php">Become a Listener</a>
+                    <a href="/partners/becomePartner.php">Become a Partner</a>
+                    <a href="/supportDesk.php">Support &amp; Feedback</a>
+                </div>
+
+                <div class="col-sm-3">
+                    <h4>TERMS</h4>
+                    <a href="/privacy.php" onclick="showPolicy('privacy');return false;">Privacy Policy</a>
+                    <a href="/memberAgreement.php" onclick="showPolicy('membertos');return false;">Member Terms of Service</a> 
+                    <a href="/listenerAgreement.php" onclick="showPolicy('listenertos');return false;">Listener Terms of Service</a> 
+                </div>
+                    
+        
+                </div>
+                <div class="copyrightLine"><p>Copyright © 2013 7CupsOfTea.com. All rights reserved.&nbsp;&nbsp;|&nbsp;&nbsp;Find us on 
+                        <a href="https://www.facebook.com/7CupsOfTea">Facebook</a> and 
+                        <a href="https://twitter.com/7_Cups_of_Tea">Twitter</a></p></div>
+
+
+            </div>
         </div>
-
+        
     </div>
-</footer>        <script type="text/javascript">
+</footer>
+
+<div id="policyModal" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body" style="padding:0">
+                <div id="policyBox" style="height:300px;overflow-y:scroll;padding:15px"></div>
+            </div>
+            <div class="modal-footer">
+                <a href="#" class="btn btn-default" data-dismiss="modal">Close</a>
+            </div>
+        </div>
+    </div>
+</div>        <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-38069426-1']);
@@ -238,7 +308,7 @@ dropdown-menu a:hover, .dropdown-menu a:focus{
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
