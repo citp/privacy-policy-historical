@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the bravocompanyusa.com privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530133557id_/http%3A//www.bravocompanyusa.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bravocompanyusa.com privacy policy that was archived on 2013-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131129184853id_/http%3A//www.bravocompanyusa.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
 <script type="text/javascript">
 if(ns4)_d.write("<scr"+"ipt src=/a/j/milonic/mmenuns4.js><\/scr"+"ipt>"); 
   else _d.write("<scr"+"ipt src=/a/j/milonic/mmenudom.js><\/scr"+"ipt>"); 
@@ -25,6 +25,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -40,7 +41,30 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 <script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
@@ -53,6 +77,14 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG 
 
 <link href="/v/vspfiles/templates/gamer/css/Imports.css" rel="stylesheet" type="text/css">
 <script src="/v/vspfiles/templates/gamer/js/search_text_change.js" type="text/javascript"></script>
+<!-- BEGIN GOOGLE ANALYTICS GENERAL TRACKING SCRIPT (INSERT IN HEAD SECTION) -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-8159390-1']);
+_gaq.push(['_trackPageview']);
+</script>
+<!-- END -->
+
 </head>
 
 <!-- ======================== FILE INFO ========================
@@ -66,7 +98,7 @@ Date: Jan 2011
 
 <!-- ======================== HEADER ======================== -->
 <div id="header">
-	<div id="display_homepage_title"><span itemscope="" itemtype="http://schema.org/Store"><meta itemprop="name" content="BravoCompanyUSA.com"><a href="http://www.bravocompanyusa.com/default.asp" title="BravoCompanyUSA.com">BravoCompanyUSA.com</a></span></div>
+	<div id="display_homepage_title"><span itemscope="" itemtype="http://schema.org/Store"><meta itemprop="name" content="www.bravocompanyusa.com"><a href="http://www.bravocompanyusa.com/default.asp" title="www.bravocompanyusa.com">www.bravocompanyusa.com</a></span></div>
     
     <div id="site_tools">
     	<!-- TOP LINKS -->
@@ -102,7 +134,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="American+Defense+MFG">American Defense MFG</option>
 <option value="American+Trigger+Corporation">American Trigger Corporation</option>
 <option value="B5+Systems%2C+INC">B5 Systems, INC</option>
-<option value="Badger+Ordnance">Badger Ordnance</option>
 <option value="Battle+Comp">Battle Comp</option>
 <option value="BCM">BCM</option>
 <option value="Blackheart">Blackheart</option>
@@ -118,7 +149,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Damage+Industries">Damage Industries</option>
 <option value="Daniel+Defense">Daniel Defense</option>
 <option value="DPMS">DPMS</option>
-<option value="EOTAC">EOTAC</option>
 <option value="EOTech">EOTech</option>
 <option value="Geissele+Automatics">Geissele Automatics</option>
 <option value="Impact+Weapons+Components">Impact Weapons Components</option>
@@ -136,9 +166,9 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Ops+Inc">Ops Inc</option>
 <option value="PACT">PACT</option>
 <option value="Panteao+Productions">Panteao Productions</option>
+<option value="Patriot+Products+AZ">Patriot Products AZ</option>
 <option value="PRI">PRI</option>
 <option value="Primary+Weapon+Systems">Primary Weapon Systems</option>
-<option value="Rainier+Arms">Rainier Arms</option>
 <option value="Rock+River+Arms">Rock River Arms</option>
 <option value="Slip">Slip</option>
 <option value="Smith+%26+Wesson">Smith &amp; Wesson</option>
@@ -154,7 +184,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="US+Peacekeeper">US Peacekeeper</option>
 <option value="Viking+Tactics">Viking Tactics</option>
 <option value="Vltor">Vltor</option>
-<option value="Warrior+Wound+Care">Warrior Wound Care</option>
 <option value="Wilmont+Products%2C+LLC">Wilmont Products, LLC</option>
 <option value="Wilson+Combat">Wilson Combat</option>
 <option value="YHM">YHM</option>
@@ -203,9 +232,7 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
         <select><option>Shop By </option></select></div -->
         <!-- div id="DropDown_ShopBy_Category" param_category="X" param_defaultvalue="Shop By Category">
         <select><option>Shop By </option></select></div -->
-         <div id="display_promotions_20"><!-- START SCANALERT CODE -->
-<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.bravocompanyusa.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.bravocompanyusa.com/23.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-<!-- END SCANALERT CODE --></div>
+         <div id="display_promotions_20"></div>
         <div id="display_promotions_999"><div style="text-align: center;"><table width="155" border="0" cellpadding="0" cellspacing="0">
  <tbody><tr>
   <td class="navtitle colors_navtitle colors_menutitle colors_menutitletext" height="22" width="155" align="right">Sale Pricing Going On Now!<img src="/v/vspfiles/templates/gamer/images/clear1x1.gif" height="1" width="5"></td>
@@ -308,7 +335,7 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 	</div>
 	
     <div id="footer_bottom">
-        <p id="copyright">Copyright © <script type="text/javascript">document.write((new Date()).getFullYear());</script>2020 <a href="http://www.bravocompanyusa.com/terms.asp">Bravo Company USA, Inc.</a> • All Rights Reserved</p>
+        <p id="copyright">Copyright © <script type="text/javascript">document.write((new Date()).getFullYear());</script>2020 <a href="http://www.bravocompanyusa.com/terms.asp">www.bravocompanyusa.com</a> • All Rights Reserved</p>
     
         <!-- ===========================================================================================
                         VOLUSION LINK - BEGIN
@@ -324,39 +351,14 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 </div>
 
 </div>
-<script type="text/javascript">
- 
- 
- 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
- 
- 
- 
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
- 
- 
- 
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
- 
- 
- 
-<script type="text/javascript">
- 
- 
- 
-try {
- 
- 
- 
-var pageTracker = _gat._getTracker("UA-8159390-1");
- 
- 
- 
-pageTracker._trackPageview();
- 
- 
- 
-} catch(err) {}</script>
+<!-- BEGIN GOOGLE ANALYTICS GENERAL TRACKING SCRIPT (INSERT BEFORE CLOSE BODY TAG) -->
+<script type="text/javascript">  (function() {
+var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- END -->
 
 
 
