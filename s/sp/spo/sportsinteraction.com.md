@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsinteraction.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222231159id_/http%3A//www.sportsinteraction.com/sportsbook/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinteraction.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129085629id_/http%3A//www.sportsinteraction.com/sportsbook/help-privacy) for the most accurate reproduction.*
 
 # Privacy Policy From Sports Interaction Sportsbook
 
@@ -6,7 +6,7 @@ At Sports Interaction we are committed to protecting the privacy of your persona
 
 The information that we collect is used to provide you with the best online betting experience while mitigating any possible security risk. We take the issue of privacy seriously and we hope the following information gives you complete transparency regarding your rights, the information we gather, how we use it, and how to correct or change it.
 
-Any reference to “Sports Interaction” within this Privacy Policy includes Sports Interaction and all or any of its direct or indirect subsidiary undertakings, joint venture partners, and their related companies wherever located in the world as may exist from time to time.
+Any reference to "Sports Interaction" within this Privacy Policy includes Sports Interaction and all or any of its direct or indirect subsidiary undertakings, joint venture partners, and their related companies wherever located in the world as may exist from time to time.
 
 ## Information we collect and how we use it
 
@@ -89,7 +89,7 @@ Our systems and processes are annually audited and comply with the toughest secu
 
 Some of our measures include:
 
-  1. Being Verisign secured. Verisign is the World’s leading Certificate Authority for Secure Socket Layer (SSL) encryption. SSL is a protocol for secure communication over the internet. Being Verisign secured ensures all customer transactions with our site are encrypted to the very highest security levels. Verisign is the Certificate Authority for forty of the world’s largest banks and 95% of Fortune 500 companies.
+  1. Being Verisign secured. Verisign is the World's leading Certificate Authority for Secure Socket Layer (SSL) encryption. SSL is a protocol for secure communication over the internet. Being Verisign secured ensures all customer transactions with our site are encrypted to the very highest security levels. Verisign is the Certificate Authority for forty of the world's largest banks and 95% of Fortune 500 companies.
   2. Annual assessments for compliance with the Payment Card Industry Data Security Standard ([PCI DSS](http://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)), a worldwide information security standard defined by the Payment Card Industry Security Standards Council. The standard helps prevent credit card fraud through increased controls around how we store and use customer data.
   3. Using only Federal Information Processing Standards (FIPS) compliant cryptography systems to encrypt customer data. [FIPS](http://en.wikipedia.org/wiki/Federal_Information_Processing_Standard) are U.S. government computer security standards which specify the requirements for systems used to encrypt customer data. Our systems meet the highest FIPS standards so that sensitive data customer data remains unreadable to anyone who does not have permission to access it, including our employees.
 
@@ -105,7 +105,7 @@ You can also update or change information previously provided to us by [clicking
 
 ### Account Information
 
-Sports Interaction respects your privacy and will not report any information relating to members’ accounts, winnings or losses to any government agencies. It is, therefore, your own responsibility to report any winnings to your respective authorities if this is applicable in your country.
+Sports Interaction respects your privacy and will not report any information relating to members' accounts, winnings or losses to any government agencies. It is, therefore, your own responsibility to report any winnings to your respective authorities if this is applicable in your country.
 
 ### Disclosure
 
@@ -121,14 +121,39 @@ Sports Interaction reserves the right to change the Privacy Policy including alt
 
 ### Sports Interaction Spam Policy
 
-All members of Sports Interaction will only receive promotional emails from Sports Interaction if they have opted in to receive such emails. These promotional emails will only relate to Sports Interaction. Sports Interaction does not provide its clients’ email addresses to any third party at any time. If a client wishes to stop receiving promotional emails, news, and updates, they can opt out at any time by changing their settings on their 'My Account' page.
+All members of Sports Interaction will only receive promotional emails from Sports Interaction if they have opted in to receive such emails. These promotional emails will only relate to Sports Interaction. Sports Interaction does not provide its clients' email addresses to any third party at any time. If a client wishes to stop receiving promotional emails, news, and updates, they can opt out at any time by changing their settings on their 'My Account' page.
 
 ### User Consent
 
-By providing your personal information and registering with us or logging on with us when you enter our website, you explicitly consent to Sports Interaction processing and disclosing your personal information for the purposes set out in this policy, or as otherwise provided in accordance with the Terms and Conditions. If you wish to qualify, vary, modify or limit your consent in relation to marketing communications or in circumstances where any processing of your data is likely to cause damage or distress or such other circumstances as the law allows then you may do so by referring to the “Opting Out” section of our Privacy Policy. Telephone calls and betting data relating to users will be recorded and may be actively monitored for which purposes all users hereby consent.
+By providing your personal information and registering with us or logging on with us when you enter our website, you explicitly consent to Sports Interaction processing and disclosing your personal information for the purposes set out in this policy, or as otherwise provided in accordance with the Terms and Conditions. If you wish to qualify, vary, modify or limit your consent in relation to marketing communications or in circumstances where any processing of your data is likely to cause damage or distress or such other circumstances as the law allows then you may do so by referring to the "Opting Out" section of our Privacy Policy. Telephone calls and betting data relating to users will be recorded and may be actively monitored for which purposes all users hereby consent.
 
 ### Opting Out
 
-You can unsubscribe from email announcements at any time. To unsubscribe from any special offer mailers, simply login to your account, change your personal preferences under 'Personal Options', or alternatively send an email via http://www.sportsinteraction.com/support.
+You can unsubscribe from email announcements at any time. To unsubscribe from any special offer mailers, simply login to your account, change your personal preferences under 'Personal Options', or alternatively send an email via http://www.sportsinteraction.com/support/.
 
-Our site also provides users with the opportunity to opt-out of receiving communications from us at the point of signing up. However, if at any time you wish to indicate that you never want to receive communications from us, then simply contact us via 'Personal Options' under 'My Account' or contact our customer service team at http://www.sportsinteraction.com/support.
+Our site also provides users with the opportunity to opt-out of receiving communications from us at the point of signing up. However, if at any time you wish to indicate that you never want to receive communications from us, then simply contact us via 'Personal Options' under 'My Account' or contact our customer service team at http://www.sportsinteraction.com/support/.
+
+If you have any questions about our Privacy Policy or the collection, use, disclosure, or retention of personal information by Sports Interaction or its service providers, please contact our Security Department as follows:
+
+Sports Interaction  
+Attention: Head of Security  
+Address: 2006 Old Malone Road, P.O. Box 1539, Kahnawake, QC, J0L 1B0  
+Email: <http://www.sportsinteraction.com/support/>  
+Toll-Free: 1 888 922 5575 
+
+## Complaints
+
+The protection of your personal information is regulated and audited under the rules of the Kahnawake Gaming Commission.
+
+For a copy of the Commission's Rules and Regulations covering Player Protection andPrivacy please visit: <http://www.gamingcommission.ca/docs/RegulationsConcerningInteractiveGaming_amended16October2013.pdf>
+
+For independent certification of our compliance with KGC rulesand regulations please visit: <http://www.sportsinteraction.com/downloads/cs_SIA-KGC_2011.pdf>
+
+For independent certification of our compliance with Payment Card Industry Data Security Standards compliance please visit: <http://www.sportsinteraction.com/downloads/PCI.pdf>
+
+If you have a complaint regarding Sports Interaction and your data privacy please contact:
+
+Kahnawake Gaming Commission, P.O. Box 1799, Kahnawake, QC J0L 1B0, Canada  
+Tel: 1 450 635 1076  
+Fax: 450 635 1139  
+Email: [complaints@gamingcommission.ca](mailto:complaints@gamingcommission.ca)
