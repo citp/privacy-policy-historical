@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reduceimages.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512154708id_/http%3A//www.reduceimages.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reduceimages.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129104915id_/http%3A//www.reduceimages.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.reduceimages.com
 
