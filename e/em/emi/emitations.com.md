@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the emitations.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509112231id_/http%3A//www.emitations.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emitations.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129140754id_/http%3A//www.emitations.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.emitations.com/promotion.html)
+[](http://www.emitations.com/emitations-coupon-code.html)
 
-[](http://www.emitations.com/gifts-mothersday.html)
+[](https://web.archive.org/web/20131129140754id_/http%3A//www.emitations.com/holiday-gifts.html)
 
   
 [](http://www.stellaservice.com/profile/2245/)
 
 |  |   
-  
 ---  
   
 | **Information Collection And Use**  
