@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamepressure.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621040415id_/http%3A//info.gamepressure.com/%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepressure.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129053004id_/http%3A//info.gamepressure.com/%23privacy_policy) for the most accurate reproduction.*
 
 # GamePressure.com
 
@@ -65,6 +65,10 @@ We may share statistical charts compiled by us with other companies but, as we d
 **Other companies present on our site**
 
 It is possible that other companies that are presenting advertisements on GamePressure site use the same tracking technologies for their analogical purposes. Use of these technologies by our advertisers is subject to their own privacy policies.
+
+On our website we use Google Analytics features based on Display Advertising, in particular Google Analytics Demographics and Interest Reporting. Those features collect basic statistic data about our users e.g. age, gender, interests and help to show most appropriate advertisement for visitors.
+
+Our users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCgTcNFIyJAiLR-v7mhTFZJEZj-LlzB7ZokOBiFuC2L7e2kwdZX-0K_xrlTCfYflhq_-SeR-om_FYrv_leJMsVVAdqzU8l-wXlgaXQOtII6n0Ys6wG-gHZZqDJlpluvvGnupARZnySUV0U0SRJcHiSQ0cT0p1847fHy-P03broXZ4yMBIfk) or use this [add on](https://tools.google.com/dlpage/gaoptout?hl=en) to block Google Analytics.
 
 Please, check how does one of our partner - NAI Opt-out Tool work <http://www.networkadvertising.org/managing/opt_out.asp>
 
