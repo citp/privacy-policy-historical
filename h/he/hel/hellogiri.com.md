@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellogiri.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601182238id_/http%3A//www.hellogiri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellogiri.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129190219id_/http%3A//www.hellogiri.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web 3
 
