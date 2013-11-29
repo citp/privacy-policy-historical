@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpfoxcamp.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530201013id_/http%3A//www.phpfoxcamp.com/index.php%3Fapp%3Dforums%26module%3Dextras%26section%3Dboardrules) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpfoxcamp.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129101436id_/http%3A//www.phpfoxcamp.com/index.php%3Fapp%3Dforums%26module%3Dextras%26section%3Dboardrules) for the most accurate reproduction.*
 
 # Privacy Policy - PHPFox Camp
 
