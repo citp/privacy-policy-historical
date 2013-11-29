@@ -1,57 +1,29 @@
-> *The following text is extracted and transformed from the mysciencework.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623072304id_/http%3A//www.mysciencework.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysciencework.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129083437id_/http%3A//www.mysciencework.com/privacy) for the most accurate reproduction.*
 
-# MyScienceWork Privacy
+# Privacy MyScienceWork
 
-This page is in addition to the "Terms of service". Therefore, the articles and general provisions of the "Terms of service" apply. 
+This page is in addition to the "Terms of Service". Therefore, the articles and general provisions of the "Terms of Service" apply. In accordance with the Act No. 2004-801 of August 6 2004 on the protection of individuals with regard to the processing of personal data amending Act No. 78-17 of January 6 1978, this site has been declared to the CNIL (Commission Nationale de l'Informatique et des Libertés) under number 1459822. The user agrees to the storage and processing of personal data, as described and defined in this statement. MyScienceWork is not one of these web services whose main purpose is the collection of personal data. The Company respects your privacy and thus protects your personal data. 
 
-In accordance with the Act No. 2004-801 of August 6 2004 on the protection of individuals with regard to the processing of personal data amending Act No. 78-17 of January 6 1978, this site has been declared to the CNIL (Commission Nationale de l'Informatique et des Libertés) under number 1459822\. The user agrees to the storage and processing of personal data, as described and defined in this statement. 
+Personal Data 
 
-MyScienceWork is not one of these web services whose main purpose is the collection of personal data. The Company respects your privacy and thus protects your personal data. 
+Personal data is any data relating directly to a user as a person, regardless of your actual use of the service. This includes the username, e-mail and other contact information, gender, information on conferences that the user attends and MyScienceWork groups to which the user belongs. MyScienceWork stores the data that you provide and that you publish on the web service. For example, if you add your academic background to your profile page, if you join a group or if you talk about a conference. MyScienceWork will process your data in order to run the web service. For example, if a user visits your profile, your data will be used to view your profile page. Very basic data (e.g. your name) are visible to all users. However, you can choose to make most of your data visible only to your closest contacts. MyScienceWork will also process your personal data at random to provide dynamic web pages tailored to each user. In addition, MyScienceWork reserves the right to use your personal information to generate anonymous statistics. These anonymous statistics will not contain information about individual users. MyScienceWork will use your email address only to send you emails containing information or notices regarding the service. You can access and edit your data on your "Edit my profile" page. You can also delete all your personal data if you delete your MyScienceWork account. Unlike some other web services, MyScienceWork does not store personal data of former users. 
 
-## Personal data
+Traffic Data 
 
-Personal data is any data relating directly to a user as a person, regardless of your actual use of the service. This includes the username, e-mail and other contact information, gender, information on conferences that the user attends and MyScienceWork groups to which the user belongs. 
+Traffic data is data about your use of the MyScienceWork network. It mainly includes information about your connections (time, duration, and activities when you are connected). The traffic data also includes your IP address and the information sent automatically by your web browser (browser, preferred languages, the name of your operating system). MyScienceWork collects your traffic data, as defined above, and stores the data for the duration of your session (a session starts when you log in and ends when you log off). The session will automatically expire after about 10 minutes of inactivity. MyScienceWork uses this information to improve its services and its user interface. MyScienceWork can also process this traffic data for reasons of security and fraud detection. Storing the number of profile pages that you visit is a security measure to protect your personal data. The processing of this information allows the detection, and notification of MyScienceWork, of "data collection", i.e. automatic recovery by third parties of profile pages in order to obtain the personal data of many users. Please contact the MyScienceWork team for all claims relating to the display, modification or deletion of your traffic data. If you delete your MyScienceWork account, the Company will automatically delete your personal traffic data. 
 
-MyScienceWork stores the data that you provide and that you publish on the web service. For example, if you add your academic background to your profile page, if you join a group or if you talk about a conference. 
+Cookies 
 
-MyScienceWork will process your data in order to run the web service. For example, if a user visits your profile, your data will be used to view your profile page. Very basic data (e.g. your name) are visible to all users. However, you can choose to make most of your data visible only to your closest contacts. MyScienceWork will also process your personal data at random to provide dynamic web pages tailored to each user. In addition, MyScienceWork reserves the right to use your personal information to generate anonymous statistics. These anonymous statistics will not contain information about individual users. 
+Cookies are small information files that are not stored by MyScienceWork, but by your web browser. A cookie is generated when MyScienceWork sends a request to your web browser and the browser accepts. Then, your browser sends the cookie to MyScienceWork upon request. Although cookies make certain functions more convenient (they help to generate customized pages), you can use MyScienceWork without cookies. Cookies are enabled by default in MyScienceWork and in most web browsers. However, you can disable cookies on your "Privacy Settings" page. You will then no longer receive cookie requests from MyScienceWork. Consult the help file of your browser to learn how to delete existing cookies or set your Web browser not to accept them. If you choose, a cookie may be installed for your login information so that you are automatically connected when you access the site MyScienceWork. You should not use this option if the computer you are using is not under your exclusive control, because other people using your computer would be able to connect directly to your account without a MyScienceWork password. In addition, cookies can store information about your use of certain pages or functions within MyScienceWork. To generate dynamic pages or functions, the information stored in the cookie is processed randomly. MyScienceWork does not store the data from cookies. This data is still stored on your hard drive, and will never be processed independently of your use of the social network MyScienceWork. 
 
-MyScienceWork will use your email address only to send you emails containing information or notices regarding the service. 
+Data Transmission 
 
-You can access and edit your data on your "Edit my profile" page. You can also delete all your personal data if you delete your MyScienceWork account. Unlike some other web services, MyScienceWork does not store personal data of former users. 
+MyScienceWork will not sell or share your personal data. MyScienceWork reserves the right to appoint a third party for certain tasks (database, software development). To this end, it may be necessary for MyScienceWork to share such personal data in order for this third party to process them. In this case, MyScienceWork remains solely responsible for your personal information and will establish with that third party a written agreement guaranteeing that it will respect a declaration on the protection of privacy and data. MyScienceWork is committed to the privacy of its users. Privacy and Data Protection 
 
-##  Traffic data 
-
-Traffic data is data about your use of the MyScienceWork network. It mainly includes information about your connections (time, duration, and activities when you are connected). The traffic data also includes your IP address and the information sent automatically by your web browser (browser, preferred languages, the name of your operating system). 
-
-MyScienceWork collects your traffic data, as defined above, and stores the data for the duration of your session (a session starts when you log in and ends when you log off). The session will automatically expire after about 10 minutes of inactivity. 
-
-MyScienceWork uses this information to improve its services and its user interface. MyScienceWork can also process this traffic data for reasons of security and fraud detection. Storing the number of profile pages that you visit is a security measure to protect your personal data. The processing of this information allows the detection, and notification of MyScienceWork, of "data collection", i.e. automatic recovery by third parties of profile pages in order to obtain the personal data of many users. 
-
-Please contact the MyScienceWork team for all claims relating to the display, modification or deletion of your traffic data. If you delete your MyScienceWork account, the Company will automatically delete your personal traffic data. 
-
-## Cookies
-
-Cookies are small information files that are not stored by MyScienceWork, but by your web browser. A cookie is generated when MyScienceWork sends a request to your web browser and the browser accepts. Then, your browser sends the cookie to MyScienceWork upon request. 
-
-Although cookies make certain functions more convenient (they help to generate customized pages), you can use MyScienceWork without cookies. Cookies are enabled by default in MyScienceWork and in most web browsers. However, you can disable cookies on your "Privacy Settings" page. You will then no longer receive cookie requests from MyScienceWork. Consult the help file of your browser to learn how to delete existing cookies or set your Web browser not to accept them. 
-
-If you choose, a cookie may be installed for your login information so that you are automatically connected when you access the site MyScienceWork. You should not use this option if the computer you are using is not under your exclusive control, because other people using your computer would be able to connect directly to your account without a MyScienceWork password. In addition, cookies can store information about your use of certain pages or functions within MyScienceWork. To generate dynamic pages or functions, the information stored in the cookie is processed randomly. MyScienceWork does not store the data from cookies. This data is still stored on your hard drive, and will never be processed independently of your use of the social network MyScienceWork. 
-
-##  Data Transmission 
-
-MyScienceWork will not sell or share your personal data. 
-
-MyScienceWork reserves the right to appoint a third party for certain tasks (database, software development). To this end, it may be necessary for MyScienceWork to share such personal data in order for this third party to process them. In this case, MyScienceWork remains solely responsible for your personal information and will establish with that third party a written agreement guaranteeing that it will respect a declaration on the protection of privacy and data. MyScienceWork is committed to the privacy of its users. 
-
-##  Privacy and Data Protection 
+Privacy and Data Protection 
 
 MyScienceWork considers protecting your privacy and your data a priority, an essential element in building trust between MyScienceWork and its users. Therefore, MyScienceWork has introduced specific measures to oversee issues of data protection. For inquiries or complaints regarding privacy and data protection, contact: contact@mysciencework.com 
 
-##  Changes to the Declaration on the Protection of Personal Data 
+Changes to the Declaration on the Protection of Personal Data 
 
-By using this service, you expressly agree to this statement on data protection. 
-
-If this statement on privacy and data is modified, you will be informed upon your first connection to MyScienceWork after the change has been made. You will be asked to accept the new declaration on the protection of personal information. 
-
-MyScienceWork will not make any modification in connection with this declaration on the protection of personal information without your explicit consent. 
+By using this service, you expressly agree to this statement on personal data protection. If this statement on privacy and data is modified, you will be informed upon your first connection to MyScienceWork after the change has been made. You will be asked to accept the new declaration on the protection of personal information. MyScienceWork will not make any modification in connection with this declaration on the protection of personal information without your explicit consent. 
