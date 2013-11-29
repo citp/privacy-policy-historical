@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508095044id_/http%3A//www.business.govt.nz/resolveuid/070cbbd2a6cfe632882a9b72fde8cc5a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129092112id_/http%3A//www.business.govt.nz/resolveuid/070cbbd2a6cfe632882a9b72fde8cc5a) for the most accurate reproduction.*
 
 # Privacy | Business.govt.nz
 
@@ -43,7 +43,7 @@ The Trumba Terms and Conditions of Use can be viewed at:
 
 When you use Trumba Events Actions you consent to the Trumba Privacy Policy and Terms and Conditions of Use.
 
- **Search Results**
+ **Companies Office Search Results**
 
 Business.govt.nz provides visitors the opportunity to search the New Zealand Companies Register through a web service, with results displayed on the Business.govt.nz website. Public information held on the Companies Register includes director and shareholder names and addresses which may appear on Business.govt.nz as the result of a search.
 
