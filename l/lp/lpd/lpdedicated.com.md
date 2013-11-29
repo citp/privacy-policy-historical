@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lpdedicated.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329131908id_/http%3A//www.lpdedicated.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpdedicated.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129193342id_/http%3A//www.lunarpages.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lunarpages Dedicated Web Hosting
+# Privacy Policy | Lunarpages Web Hosting
 
 Lunarpages takes your privacy very seriously. This document sets forth a list of promises that we make to you regarding your privacy and security on the Lunarpages web site. This document will let you know what information we collect from Lunarpages users and how we use that information. This document will let you know what choices you have concerning your personal information and inform you how to make them.
 
@@ -28,7 +28,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 #### Cookies
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on the Lunarpages web sites. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on the Lunarpages web sites. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. By using the Lunarpages website you agree to our use of cookies as described in our cookie policy.
 
 We use session ID cookies which expire when you close your browser. These cookies make it easier for you to navigate our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
@@ -93,6 +93,6 @@ Or email: [support@lunarpages.com](mailto:support@lunarpages.com)
 
 Lunarpages reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our web site: www.lunarpages.com.
 
-Version 3.1
+Version 3.2
 
 Effective 10/1/2008
