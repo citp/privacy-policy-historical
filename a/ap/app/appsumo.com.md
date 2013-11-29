@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsumo.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529102059id_/http%3A//www.appsumo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsumo.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129105058id_/http%3A//www.appsumo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
