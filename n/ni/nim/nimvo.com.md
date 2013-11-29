@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimvo.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502003133id_/http%3A//www.nimvo.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimvo.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129093458id_/http%3A//www.nimvo.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Nimvo - Interior Design & Luxury Homes
 
