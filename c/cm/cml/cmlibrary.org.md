@@ -1,17 +1,11 @@
-> *The following text is extracted and transformed from the cmlibrary.org privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530094127id_/http%3A//cmlibrary.org/About_Us/policiesPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmlibrary.org privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129203257id_/http%3A//www.cmlibrary.org/About_Us/policiesPrivacy.asp) for the most accurate reproduction.*
 
 # CMLibrary: About Us: Privacy Policy
 
-[Home](https://web.archive.org/) > [About_Us](https://web.archive.org/About_Us/) > CMLibrary: About Us: Privacy Policy   
+Like our new look? Click here to learn more. [Learn more](http://www.cmlibrary.org/about_us/info.asp?id=47)  
+| [](https://web.archive.org/) |   
+---|---  
   
-* * *
-
-**Summer Hours are now in effect; all libraries are closed Sundays for the summer.[Learn more](http://www.cmlibrary.org/locations/) **
-
-* * *  
-  
-|  | 
-
 ### Privacy Policy
 
 * * *
@@ -35,16 +29,11 @@ The Library is committed to protecting the privacy of visitors to its web sites.
 
 **Related Documents:**
 
-  * [Guidelines for use of Public Access Computers](https://web.archive.org/web/20130530094127id_/http%3A//cmlibrary.org/About_Us/policiesPac.asp)
-  * [Internet Use Policy](https://web.archive.org/web/20130530094127id_/http%3A//cmlibrary.org/About_Us/policiesInternet.asp)
-  * [The Internet Safety Net: A Guide for Parents](https://web.archive.org/web/20130530094127id_/http%3A//cmlibrary.org/About_Us/policiesSafetyNet.asp)
+  * [Guidelines for use of Public Access Computers](https://web.archive.org/web/20131129203257id_/http%3A//www.cmlibrary.org/About_Us/policiesPac.asp)
+  * [Internet Use Policy](https://web.archive.org/web/20131129203257id_/http%3A//www.cmlibrary.org/About_Us/policiesInternet.asp)
+  * [The Internet Safety Net: A Guide for Parents](https://web.archive.org/web/20131129203257id_/http%3A//www.cmlibrary.org/About_Us/policiesSafetyNet.asp)
 
-
-
-|   
----|---|---  
   
-* * *
-
+  
   
 
