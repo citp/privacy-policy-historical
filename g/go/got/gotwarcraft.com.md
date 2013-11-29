@@ -1,20 +1,21 @@
-> *The following text is extracted and transformed from the gotwarcraft.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430132941id_/http%3A//gotwarcraft.com/credits) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotwarcraft.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129065435id_/http%3A//gotwarcraft.com/credits) for the most accurate reproduction.*
 
 # About Us, Credits, and Policies - GotWarcraft.com
 
-#### So who is GotWarcraft?
+## So who is GotWarcraft?
 
 Just a personal project. Started by the young’un and handed over to me.
 
-You may have noticed that there are two distinct versions of this site. The old site has been around since WoW was in beta and is just a basic site ([example page](http://www.gotwarcraft.com/guides/leveling/class/priest.php).) The new version is built around WordPress (this page, for example) and we’re _slowly_  moving the old stuff to the WordPress install. WP offers a lot of advantages, one of which is that anyone else writing for the site does not need to have DreamWeaver or some other website builder software.
+You may have noticed that there are two distinct versions of this site. The old site has been around since WoW was in beta and is just a basic site. The new version is built around WordPress (this page, for example) and we’ve moved most all of the old stuff to the WordPress install. WP offers a lot of advantages, one of which is that anyone else writing for the site does not need to have DreamWeaver or some other website builder software.
 
-Interested in writing something for this site? The contact info is below.
+**Interested in writing something for this site?** The contact info is below.
 
 **Greg, aka RogPtor**
 
   * Head webdude in charge of everything on GotWarcraft
   * You can see us on Facebook, [here](http://www.facebook.com/GotWarcraft). Feel free to ask questions, make interesting comments, share anything posted there, point me to cool WoW related stuff, and so on.
   * My own FB homepage is [here](http://gregmee.com/).
+  * On G+ the GotWarcraft page is [here](https://plus.google.com/u/0/b/103851901000614457348/103851901000614457348/posts) and my profile is [here](https://plus.google.com/111637678248700259872/posts).
   * We’re also [occasionally on Twitter](https://twitter.com/#%21/GotWarcraft)
   * I’m posting images from this site and elsewhere on [Pinterest](http://pinterest.com/gregmee/world-of-warcraft/). Feel free to follow any or all of my boards there.
 
@@ -22,7 +23,9 @@ Interested in writing something for this site? The contact info is below.
 
 and a couple of others who wish to remain nameless for now. If they ever decide to become more public then I’ll post their social sites here.
 
-#### Contacting GW
+**Skip to:** Contact Us — Content — Privacy
+
+## Contacting GW, the Form
 
 You can reach us via…
 
@@ -36,13 +39,13 @@ You can reach us via…
 
 Feel to free to send comments, notes, suggestions, whatever. If you’d like to write something for us (and get links back to your page) then let us know.
 
-### Content, Images, Etc.
+## Content, Images, Etc.
 
 You are welcome to use a portion of the content of any page as long as credit is given with a “do-follow” link back to the original page. Please do not copy the entire page or article.
 
 The same applies to any of our images: feel free to use, but please provide a link back to the original page. You can find many of our images on [that pinning site](http://pinterest.com/gregmee/world-of-warcraft/). Feel free to comment, share, and repin if you’re there and something looks cool.
 
-### Privacy Statement and Policies
+## Privacy Statement and Policies
 
 **The Short Version**
 
