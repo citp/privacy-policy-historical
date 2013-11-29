@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the medianet.com.au privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602045452id_/http%3A//medianet.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medianet.com.au privacy policy that was archived on 2013-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131129135445id_/http%3A//www.aapmedianet.com.au/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd xhtml 1.0 transitional//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <title>Privacy Policy</title><meta name="description" content=""><meta name="keywords" content="">
         <link href="http://cloud.webtype.com/css/e760ae61-f074-4f8a-aee9-9d71b6c24e73.css" rel="stylesheet" type="text/css">
-		<link href="/css/global.css?version=1" rel="stylesheet" type="text/css">
+		<link href="/css/global.css" rel="stylesheet" type="text/css">
 		<link href="/css/jquery.selectBox.css" type="text/css" rel="stylesheet">
-		<link href="/css/style.css?version=1" type="text/css" rel="stylesheet">
+		<link href="/css/style.css" type="text/css" rel="stylesheet">
 		<link href="/favicon.ico" rel="shortcut icon">
-		<link href="/css/TextStyles.css?version=1" rel="stylesheet" type="text/css">
+		<link href="/css/TextStyles.css" rel="stylesheet" type="text/css">
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.7.2.min.js"></script>
         <script type="text/javascript" src="/js/slides.min.jquery.js"></script>
         <script type="text/javascript" src="/js/jquery.selectBox.js"></script>
@@ -17,6 +17,7 @@
 		<script type="text/javascript" src="/js/jquery.ui.widget.js"></script>
 		<script type="text/javascript" src="/js/jquery.ui.tabs.js"></script>
 		<script type="text/javascript" src="/js/jquery.bxSlider.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.cookie.js"></script>
         <script type="text/javascript" src="/js/main.js"></script>
 
         <script type="text/javascript">
@@ -32,44 +33,49 @@
     	</script>
     <script type="text/javascript" async="" src="https://munchkin.marketo.net/munchkin.js"></script></head>
     <body>
-        <div class="homepage">
-            <div class="login_box">	
-				<form action="" method="post"><input name="__RequestVerificationToken" type="hidden" value="Nnvxu3IlspC/eZiNhaaAxdFZptIyFZJ+/1DFYGPufYDpJH0H94IDA3LILVHIsda89Zq7jdD9V6Eo9pCS6Bx/0VxuGxFMm51ICpUmyG973Z1+PYot4AVFZ2781WPTEyOpIwmDbYb5iUdbUaY5FLYvxpTZUFdm5CC6g/Utc8Ry2RQhAFket+M4bHpcRkXsiPrC">    <ul>
+        <div class="mainWrapper">
+             <div class="homepage">
+                <div class="login_box">	
+				    <form action="" method="post"><input name="__RequestVerificationToken" type="hidden" value="+Bf0tDT4fug8PHjc3vAdlOanr3Q7GGDwcDAfOq3/8dxKPK6muhD/lIXw9z8EehQQ5q1yST+06Kedq93ftaDW6ykfNunGr/QAnmaBcEEZrtptxoRxGO7ZSExbrVleYnpzTrMh2ol0HKg0zKdzZF0f3ofT4ZTbnBob323Rba+3XnVfsFY9le1kTwwHrLshAHpW">    <ul>
         <li class="select_container02">
             <select name="media" id="media" class="required">
                     <option value="">Select a product</option>
-                    <option value="distribute">
-                        Press Release Distribution</option>
-                    <option value="contacts">
-                        Media Contacts Database</option>
-                    <option value="journalists">
-                        Medianet for Journalists</option>
+                    <option value="distribute">Press Release Distribution</option>
+                    <option value="contacts">Media Contacts Database</option>
+                    <option value="journalists">Medianet for Journalists</option>
+                    <option value="monitor">Media Monitoring</option>
             </select>
+            <input class="hidden" id="Product" name="Product" type="hidden" value="">
         </li>
-		<li class="txt_container" id="login-username">
-            <span class="val">User Name</span><input autocomplete="off" class="txt required" id="UserName" name="UserName" type="text" value=""></li>
+
+        <li class="txt_container" id="login-company">
+            <span class="val">Company Name</span><input autocomplete="on" autocompletetype="company|business|organization|organisation|department" class="txt required" id="CompanyName" name="CompanyName" type="text" value=""></li>
+        <li class="txt_container" id="login-username">
+            <span class="val">User Name</span><input autocomplete="on" autocompletetype="user.?name|user.?id" class="txt required" id="UserName" name="UserName" type="text" value=""></li>
         <li class="txt_container" id="login-email">
-            <span class="val">Email</span><input autocomplete="off" class="txt required" id="EmailAddress" name="EmailAddress" type="text" value=""></li>
+            <span class="val">Email</span><input autocomplete="on" autocompletetype="e.?mail" class="txt required" id="EmailAddress" name="EmailAddress" type="text" value=""></li>
         <li class="txt_container02">
-            <span class="val">Password</span><input autocomplete="off" class="txt required" id="Password" name="Password" type="password"></li>
+            <span class="val">Password</span><input autocomplete="on" class="txt required" id="Password" name="Password" type="password"></li>
         <li class="newClient_container"><a id="forgotPassword" href="#" class="newClient">Forgotten password?</a></li>
-        <li class="login_container">
+		<li class="login_container">
             <input type="submit" name="login" value="" class="login">
         </li>
+        
         <div class="clear">&nbsp;
         </div>
+
         <script type="text/javascript">
-				var _productPostbackURL = {"monitor":"https://newscentre.com.au/Login.aspx","nzmonitor":"https://www.newscentre.co.nz/Login.aspx","distribute":"https://distribution.medianet.com.au/Account/AuthenticateViaEmail/","contacts":"http://contacts.medianet.com.au/Account/LogOnUsingEmailAddress","journalists":"https://journalists.medianet.com.au"};
+            var _productPostbackURL = {"monitor":"https://monitoring.medianet.com.au/Login.aspx","nzmonitor":"https://monitoring.medianet.co.nz/Login.aspx","distribute":"https://distribution.medianet.com.au/Account/AuthenticateViaEmail/","contacts":"http://contacts.medianet.com.au/Account/LogOnUsingEmailAddress","journalists":"https://journalists.medianet.com.au"};
         </script>
     </ul>
     <a class="login_btn"></a>
 </form>
-            </div>
-			<div>
-			
+                </div>
+			    <div>
+			    
 
 
-<form action="" method="post"><input name="__RequestVerificationToken" type="hidden" value="6FYczRFV9FfGiu2t6RO/d/HRHw7wvpWs4IvTGNehw3Dhe1Y6PbxO67YnZ6/LJVKgXF4s+8VSrk9LayYNWxK9vv0YO4toAwZUiKwlYGD6WOA0PSSnuyZIPRXxAvZr9npTdobGwDW5bbtbgaG11Gb/lBd2uloCqH5YqKeicgH2A9NN01IDkRa5HOApkr9/chtE">    <fieldset style="display:none">
+<form action="" method="post"><input name="__RequestVerificationToken" type="hidden" value="RiAhJZ30y/VI41Q4hmt6iMLbbY3cldlQfA+2azDtYYaksG8ENyDR86y0vINM2LRXDQgJkC9uw4yiHy1xOeurlxp8BAoaQ4NURT8o6Tcp7YHckdR3fErnXL53jk4Hi4o/Csu/Ut4IOph6CdmUgY3tZGvrJCM9DdVc7jMO5THsgYcyGj4CbjWHN8wcfskTVBZI">    <fieldset style="display:none">
         
         <div class="editor-label">
             <label for="EmailAddress">Email Address</label>
@@ -79,10 +85,10 @@
         </div>
         
         <div class="editor-label">
-            <label for="Product">Please select a product</label>
+            <label for="CurProduct">CurProduct</label>
         </div>
         <div class="editor-field">
-            <input class="text-box single-line" id="Product" name="Product" type="text" value="">
+            <input class="text-box single-line" id="CurProduct" name="CurProduct" type="text" value="">
             
         </div>
 
@@ -93,16 +99,18 @@
         </p>
     </fieldset>
 </form>	
-			</div>
-        </div>
-        <div class="wrapper02">
-            <div class="header">
-                <div class="top_link"><span class="phone">1300 616 813</span><span class="contactus"><a href="/contact-us.aspx">Contact Us</a></span><span class="aboutus"><a href="/about-us.aspx">About Us</a><ul class="submenu"><li><a href="/about-us/the-medianet-difference.aspx">Our Difference</a></li><li><a href="/about-us/leadership-team.aspx">Leadership Team</a></li><li><a href="/about-us/staff-profiles.aspx">Staff Profiles</a></li><li><a href="/about-us/careers.aspx">Careers</a></li></ul></span></div><div class="nav_container"><a class="logo02" href="/"><img src="/ImageGen.ashx?image=/media/673/logo.png&amp;width=223&amp;height=52" title="Medianet"></a><div class="nav"><ul><li class="knowledge"><a href="/knowledge-centre.aspx">Knowledge Centre</a></li><li class="clientsuccess"><a href="/client-success.aspx">Client Success</a><ul class="submenu"><li><a href="/client-success/case-studies.aspx">Case Studies</a></li><li><a href="/client-success/testimonials.aspx">Testimonials</a></li></ul></li><li class="products"><a href="/products.aspx">Products</a><ul class="submenu"><li><a href="/products/press-release-distribution.aspx">Press Release Distribution</a></li><li><a href="/products/media-database.aspx">Media Database</a></li><li><a href="/products/media-monitoring.aspx">Media Monitoring</a></li><li><a href="/products/media-training.aspx">Media Training</a></li><li><a href="/products/medianet-for-journalists.aspx">Medianet for Journalists</a></li></ul></li></ul></div></div>
+			    </div>
             </div>
-        </div>
-        
+            <div class="wrapper02">
+                <div class="header">
+                    <div class="top_link"><div style="width:285px"><div id="phoneImage" style="width:20px;float:left;margin-left:10px;margin-top:7px;"><img src="/images/tel_img.png"></div><div id="phoneNumbers" style="width:250px;float:left;"><span class="phone">1300 616 813</span><a class="phoneTwitter" href="http://www.twitter.com/aapmedianet" target="_blank">&nbsp;</a><a class="phoneLinkedIn" href="http://www.linkedin.com/company/australian-associated-press" target="_blank">&nbsp;</a><a class="phoneYouTube" href="http://www.youtube.com/user/ausassociatedpress" target="_blank">&nbsp;</a><span class="phoneSlogan"> </span></div></div><span class="contactus"><a href="http://www.aapmedianet.com.au/contact-us.aspx">Contact Us</a></span><span class="aboutus"><a href="http://www.aapmedianet.com.au/about-us.aspx">About Us</a><ul class="submenu"><li><a href="/about-us.aspx">About Us</a></li><li><a href="http://www.aapmedianet.com.au/about-us/the-medianet-difference.aspx">Our Difference</a></li><li><a href="http://www.aapmedianet.com.au/about-us/careers.aspx">Careers</a></li></ul></span></div><div class="nav_container"><a class="logo02" href="http://www.aapmedianet.com.au"><img src="/ImageGen.ashx?image=/media/673/logo.png&amp;width=223&amp;height=52" title="Medianet"></a><div class="nav"><ul><li class="releases"><a href="http://www.aapmedianet.com.au/releases.aspx">Press Releases</a></li><li class="knowledge"><a href="http://www.aapmedianet.com.au/knowledge-centre.aspx">Knowledge Centre</a></li><li class="clientsuccess"><a href="http://www.aapmedianet.com.au/client-success.aspx">Client Success</a><ul class="submenu"><li><a href="/client-success.aspx">Client Success</a></li><li><a href="http://www.aapmedianet.com.au/client-success/case-studies.aspx">Case Studies</a></li><li><a href="http://www.aapmedianet.com.au/client-success/testimonials.aspx">Testimonials</a></li></ul></li><li class="products"><a href="http://www.aapmedianet.com.au/products.aspx">Products</a><ul class="submenu"><li><a href="/products">Our Products</a></li><li><a href="http://www.aapmedianet.com.au/products/press-release-distribution.aspx">Press Release Distribution</a></li><li><a href="http://www.aapmedianet.com.au/products/new-medianet.aspx">New Medianet Products</a></li><li><a href="http://www.aapmedianet.com.au/products/media-database.aspx">Media Database</a></li><li><a href="http://www.aapmedianet.com.au/products/campaign-monitoring.aspx">Campaign Monitoring</a></li><li><a href="http://www.aapmedianet.com.au/products/media-monitoring.aspx">Media Monitoring</a></li><li><a href="http://www.aapmedianet.com.au/products/media-training.aspx">Media Training</a></li><li><a href="http://www.aapmedianet.com.au/products/medianet-for-journalists.aspx">Medianet for Journalists</a></li></ul></li></ul></div></div>
+                </div>
+            </div>
+            
 	<div class="wrapper04">
-		<div class="tips"><div class="breadcrumbs"><a href="/">Home</a>Privacy Policy</div></div>
+		<div class="tips"><div class="breadcrumbs"><a href="http://www.aapmedianet.com.au">
+                              Home
+                          </a>Privacy Policy</div></div>
 	</div>
 	
 	
@@ -110,7 +118,7 @@
 		<div class="tips">
 			<div class="terms">
 				<h1>Medianet Privacy Policy&nbsp;</h1>
-				<p>HELLO Medianet is a division of Australian Associated Press Pty Limited (ABN 88 006 180 801) of 3 Rider Blvd, Rhodes, NSW 2138. We respect the privacy of our clients, business contacts and suppliers. We understand that the privacy of your information is important to you.</p>
+				<p>Medianet is a division of Australian Associated Press Pty Limited (ABN 88 006 180 801) of 3 Rider Blvd, Rhodes, NSW 2138. We respect the privacy of our clients, business contacts and suppliers. We understand that the privacy of your information is important to you.</p>
 <p>This privacy policy outlines the types of personal information that we collect and how it is used. It also explains your rights in relation to that information.</p>
 <p>Personal information is any information which can be used to identify an individual and includes such personal details as name, address, telephone numbers, job title, email address and IP address. By providing us with personal information, you consent to our collection, use and disclosure of that information in accordance with this policy. It is therefore important that you read and understand this policy. If you have any questions in relation to this policy please contact us at the following email address: <a href="mailto:privacy@aap.com.au">privacy@aap.com.au</a>.</p>
 <h2>1. What Kind of Information Is Collected?</h2>
@@ -156,8 +164,8 @@
 	</div>
 
 
-        <div class="wrapper06">
-            <div class="footer_link"><dl><dt>Products</dt><dd><a href="/products/press-release-distribution.aspx">Press Release Distribution</a></dd><dd><a href="/products/media-database.aspx">Media Database</a></dd><dd><a href="/products/media-monitoring.aspx">Media Monitoring</a></dd><dd><a href="/products/media-training.aspx">Media Training</a></dd><dd><a href="/products/medianet-for-journalists.aspx">Medianet for Journalists</a></dd></dl><dl><dt>Client Success</dt><dd><a href="/client-success/case-studies.aspx">Case Studies</a></dd><dd><a href="/client-success/testimonials.aspx">Testimonials</a></dd></dl><dl><dt>Knowledge Centre</dt><dd><a href="/knowledge-centre/social-media.aspx">Social Media</a></dd><dd><a href="/knowledge-centre/media-relations.aspx">Media Relations</a></dd><dd><a href="/knowledge-centre/diy-pr.aspx">DIY PR</a></dd><dd><a href="/knowledge-centre/trends.aspx">Trends</a></dd></dl><dl><dt>Receive updates from Medianet</dt><dd>Subscribe for the latest tools, tips, </dd><dd>articles and more from Medianet</dd></dl><form class="lpeRegForm formNotEmpty" method="post" enctype="application/x-www-form-urlencoded" action="http://connect.medianet.com.au/index.php/leadCapture/save" id="mktForm_22" name="mktForm_22"><ul class="mktLblLeft"><li class="mktField"><label>Email</label><span class="mktInput"><input class="mktFormText mktFormEmail" name="Email" id="Email" type="text" value="" maxlength="255" tabindex="10"><span class="mktFormMsg"></span></span></li>
+            <div class="wrapper06">
+                <div class="footer_link"><dl><dt>Products</dt><dd><a href="/products" target="_blank">Our Products</a></dd><dd><a href="http://www.aapmedianet.com.au/products/press-release-distribution.aspx">Press Release Distribution</a></dd><dd><a href="http://www.aapmedianet.com.au/products/new-medianet.aspx">New Medianet Products</a></dd><dd><a href="http://www.aapmedianet.com.au/products/media-database.aspx">Media Database</a></dd><dd><a href="http://www.aapmedianet.com.au/products/campaign-monitoring.aspx">Campaign Monitoring</a></dd><dd><a href="http://www.aapmedianet.com.au/products/media-monitoring.aspx">Media Monitoring</a></dd><dd><a href="http://www.aapmedianet.com.au/products/media-training.aspx">Media Training</a></dd><dd><a href="http://www.aapmedianet.com.au/products/medianet-for-journalists.aspx">Medianet for Journalists</a></dd></dl><dl><dt>Client Success</dt><dd><a href="/client-success.aspx" target="_blank">Client Success</a></dd><dd><a href="http://www.aapmedianet.com.au/client-success/case-studies.aspx">Case Studies</a></dd><dd><a href="http://www.aapmedianet.com.au/client-success/testimonials.aspx">Testimonials</a></dd></dl><dl><dt>Knowledge Centre</dt><dd><a href="http://www.aapmedianet.com.au/knowledge-centre/trends.aspx">Trends</a></dd><dd><a href="http://www.aapmedianet.com.au/knowledge-centre/social-media.aspx">Social Media</a></dd><dd><a href="http://www.aapmedianet.com.au/knowledge-centre/media-relations.aspx">Media Relations</a></dd><dd><a href="http://www.aapmedianet.com.au/knowledge-centre/diy-pr.aspx">DIY PR</a></dd></dl><dl><dt>Receive updates from Medianet</dt><dd>Subscribe for the latest tools, tips, </dd><dd>articles and more from Medianet</dd></dl><form class="lpeRegForm formNotEmpty" method="post" enctype="application/x-www-form-urlencoded" action="http://connect.medianet.com.au/index.php/leadCapture/save" id="mktForm_22" name="mktForm_22"><ul class="mktLblLeft"><li class="mktField"><label>Email</label><span class="mktInput"><input class="mktFormText mktFormEmail" name="Email" id="Email" type="text" value="" maxlength="255" tabindex="10"><span class="mktFormMsg"></span></span></li>
 <li id="mktFrmButtons"><label>&nbsp;</label><input id="mktFrmSubmit" type="submit" style="width: auto; overflow: visible; padding-left: .25em; padding-right: .25em;" value="Subscribe" name="submitButton" onclick="formSubmit(document.getElementById(&quot;mktForm_22&quot;)); return false;">&nbsp;<input style="display: none;" id="mktFrmReset" type="reset" value="Clear" name="resetButton" onclick="formReset(document.getElementById(&quot;mktForm_22&quot;)); return false;"></li>  </ul>
   <span style="display:none;"><input type="text" name="_marketo_comments" value=""></span>
   <input type="hidden" name="lpId" value="-1">
@@ -186,36 +194,39 @@ function formReset(elt) {
         &nbsp;
       </div></div>
 			
-			<div class="new_nav">
+			    <div class="new_nav">
     <ul>
         <li class="left"><span>News headlines</span></li>
 		<li class="right">
 			<ul id="ticker" class="slider">
-					<li class="item"><span class="excerpt aligncenter">Norway finds the love for Edvard Munch </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
-					<li class="item"><span class="excerpt aligncenter">Swim Australia president resigns </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
-					<li class="item"><span class="excerpt aligncenter">Britain's Conway wins second IndyCar title </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
-					<li class="item"><span class="excerpt aligncenter">Carr refuses to rank Chinese cyber threat </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
-					<li class="item"><span class="excerpt aligncenter">Dixon fourth at Detroit Grand Prix </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
-					<li class="item"><span class="excerpt aligncenter">Rocky Horror show to return to Australia </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
-					<li class="item"><span class="excerpt aligncenter">AAP journalist wins Canadian book award </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
-					<li class="item"><span class="excerpt aligncenter">Man caught drink driving with child in car </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
-					<li class="item"><span class="excerpt aligncenter">AAP journalist wins Canadian book award </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
-					<li class="item"><span class="excerpt aligncenter">Prince back as Baby Broncos No.7 </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
+					<li class="item"><span class="excerpt aligncenter">United old boys salute 40-up Giggs </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
+					<li class="item"><span class="excerpt aligncenter">Thai protesters target army </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
+					<li class="item"><span class="excerpt aligncenter">Rugby League World Cup final sells out </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
+					<li class="item"><span class="excerpt aligncenter">Rugby League World Cup final sells out </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
+					<li class="item"><span class="excerpt aligncenter">British burned colonial documents </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
+					<li class="item"><span class="excerpt aligncenter">Madrid to take no risks with Ronaldo </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
+					<li class="item"><span class="excerpt aligncenter">Vic govt urges feds to keep car subsidies </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
+					<li class="item"><span class="excerpt aligncenter">Improvement in eurozone jobs, inflation </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
+					<li class="item"><span class="excerpt aligncenter">Eddie Jones says he's 'fine' after stroke </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
+					<li class="item"><span class="excerpt aligncenter">German policeman kills, mutilates victim </span><span class="alignright">&nbsp;&nbsp;|&nbsp;&nbsp;</span> </li>                   
 			</ul>
 		</li>     
     </ul>
 </div>
 
             
-            <div class="copyright">
-                <a href="http://www.aap.com.au" target="_blank" class="footer_logo">&nbsp;</a>
-                <p>COPYRIGHT © AUSTRALIAN ASSOCIATED PRESS
-        &nbsp;2013</p><div class="footer_nav"><a href="/about-us.aspx">About Us</a><a href="/terms-of-use.aspx">Terms Of Use</a><a href="/privacy-policy.aspx">Privacy Policy</a><a href="/contact-us.aspx">Contact Us</a><a href="/sitemap.aspx">Sitemap</a></div>
+                <div class="copyright">
+                    <a href="http://www.aap.com.au" target="_blank" class="footer_logo">&nbsp;</a>
+                    <p>COPYRIGHT © AUSTRALIAN ASSOCIATED PRESS
+        &nbsp;2013</p><div class="footer_nav"><a href="http://www.aapmedianet.com.au/about-us.aspx">About Us</a><a href="http://www.aapmedianet.com.au/terms-of-use.aspx">Terms Of Use</a><a href="http://www.aapmedianet.com.au/privacy-policy.aspx">Privacy Policy</a><a href="http://www.aapmedianet.com.au/contact-us.aspx">Contact Us</a><a href="http://www.aapmedianet.com.au/sitemap.aspx">Sitemap</a></div>
+                </div>
             </div>
         </div>
+       
 		<script type="text/javascript">
 		    $(".login_box form").on({
 		        submit: function () {
+		            $("#Product").val($("#media").val());
 		            var actionUrl = _productPostbackURL[$('#media').val()] || "";
 		            $(".login_box form").prop('action', actionUrl);
 		        }
