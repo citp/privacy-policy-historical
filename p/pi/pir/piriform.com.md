@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piriform.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621211436id_/https%3A//www.piriform.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piriform.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129194151id_/http%3A//www.piriform.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Piriform - Privacy Policy
 
@@ -71,7 +71,7 @@ By installing Piriform software (CCleaner, Recuva, Defraggler and Speccy), you a
 
 ## Contacting Us
 
-If you have any questions about the privacy policy, please contact us using the [contact form](https://web.archive.org/contact/ "Contact").
+If you have any questions about the privacy policy, please contact us using the [contact form](https://web.archive.org/contact "Contact").
 
 ## Changes to This Privacy Policy
 
