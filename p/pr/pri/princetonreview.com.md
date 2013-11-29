@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princetonreview.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527005148id_/http%3A//www.princetonreview.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princetonreview.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129175309id_/http%3A//www.princetonreview.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ Please understand that if you opt–out of receiving promotional correspondence 
 
 User–Provided Information
 
-We may collect Personal Information from users, for example, through such user's activities, transactions and completion of surveys and other online forms on our Web Site.
+We may collect Personal Information from users, for example, through such user's activities, transactions and completion of surveys and other online forms on our Web Site. We may use or disclose information provided by users in response to surveys or similar types of canvassing tools for purposes of promotions or other statements to third parties in a manner that does not personally identify any individual user.
 
 Because some of our most useful services are personalized (i.e., different visitors may have a different experience based on information they provide), registration for such services may be required (although not all areas of our Web Site require registration).
 
@@ -32,8 +32,6 @@ Cookies
 We may use "cookies" to keep, and sometimes track, information about you, and to create a personalized Web experience. Cookies are small data files that are stored on your computer's hard drive. Cookies track where you travel on our Web Site and what you look at and purchase. By using this Web Site, you agree to our use of cookies in this way.
 
 Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web Site or certain areas or features of the Web Site
-
-WE COMPLY WITH U.S. FEDERAL SECURITIES LAWS WITH REGARD TO THOSE PAGES OF OUR SITE USED TO FURNISH INVESTOR RELATIONS MATERIALS SUCH AS ELECTRONIC PROXY MATERIALS AND ANNUAL REPORTS (THE " **INVESTOR RELATIONS PAGES** ").
 
 Clear GIFs
 
@@ -117,7 +115,7 @@ The Princeton Review
 111 Speen Street, Suite 550  
 Framingham, MA 01701
 
-Effective Date: May 18, 2010
+Effective Date: October 15, 2013
 
   
 
