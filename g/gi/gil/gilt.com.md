@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gilt.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621055324id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilt.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129113829id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Gilt Groupe | About
 
@@ -109,7 +109,7 @@ Here are the choices we offer:
 
 ### Sharing Information with Business Partners
 
-You may direct GILT not to share your personal information with our business partners for those partners’ own purposes. To do so, please email us at privacy@gilt.com. If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements.
+You may direct GILT not to share your personal information with our business partners for those partners’ own purposes. To do so, please email us at [privacy@gilt.com](mailto:privacy@gilt.com). If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements.
 
 ### Marketing Emails
 
@@ -133,7 +133,7 @@ Most browsers will tell you how to stop accepting new cookies, how to be notifie
 
 ### Your California Privacy Rights
 
-If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that GILT has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to GILT, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email privacy@gilt.com, with the subject line "California Privacy" and your request in the body of your email.
+If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that GILT has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to GILT, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email [privacy@gilt.com](mailto:privacy@gilt.com), with the subject line "California Privacy" and your request in the body of your email.
 
 ## Access and Correction
 
@@ -167,7 +167,7 @@ GILT does not direct its websites to children under the age of thirteen. We requ
 
 This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our websites to notify you of any significant changes to our Privacy Notice and indicate at the bottom of the notice when it was most recently updated.
 
-If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at privacy@gilt.com. You also may write to us at:
+If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@gilt.com](mailto:privacy@gilt.com). You also may write to us at:
 
 GILT Groupe Holdings, Inc.  
 Attn: Legal Department  
