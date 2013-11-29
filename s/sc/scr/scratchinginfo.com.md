@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the scratchinginfo.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615025448id_/http%3A//www.scratchinginfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratchinginfo.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129073409id_/http%3A//www.scratchinginfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Development Tutorials and Resources @ ScratchingInfo
 
-At http://www.scratchinginfo.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected byhttp://www.scratchinginfo.com and how it is used.
+At http://www.scratchinginfo.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.scratchinginfo.com and how it is used.
 
-**Log Files**
+ **Log Files**
 
 Like many other Web sites, http://www.scratchinginfo.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**
+ **Cookies and Web Beacons**
 
 http://www.scratchinginfo.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on users browser type or other data that the visitor sends through their browser. Some of our advertising partners may use web beacons and cookies on our site.
 
