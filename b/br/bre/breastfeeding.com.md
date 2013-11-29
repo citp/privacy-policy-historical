@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breastfeeding.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523220043id_/http%3A//wedding.theknot.com/wedding-tools-help-center/the-knot-about-us/articles/the-knot-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastfeeding.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129143553id_/http%3A//wedding.theknot.com/wedding-tools-help-center/the-knot-about-us/articles/the-knot-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Your Privacy RightsTheKnot.com -
 
