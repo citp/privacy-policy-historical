@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetsoci.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619074425id_/http%3A//www.meetsoci.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetsoci.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129104121id_/http%3A//www.meetsoci.com/privacy) for the most accurate reproduction.*
 
 # 
 
