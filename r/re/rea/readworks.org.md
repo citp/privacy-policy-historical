@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readworks.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531125333id_/http%3A//www.readworks.org/rw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readworks.org privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129080727id_/http%3A//www.readworks.org/rw/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ReadWorks.org
+# Privacy Policy | ReadWorks.org | The Solution to Reading Comprehension
 
 At ReadWorks, we respect our website users. ReadWorks understands your concerns about privacy, so we've instituted policies intended to ensure that your personal information is handled safely and responsibly. ReadWorks has posted this privacy policy to let you know what kind of information is collected, how it is handled, with whom it may be shared and what choices you have regarding ReadWorks’s use of your information. Your use of the readworks.org website (“Website”) signifies your acceptance of this Privacy Policy, as well as the [Terms of Use](https://web.archive.org/uee/terms-use).
 
