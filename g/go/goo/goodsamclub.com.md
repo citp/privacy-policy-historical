@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodsamclub.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510072916id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodsamclub.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129110726id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Good Sam Club
 
@@ -104,7 +104,7 @@ If you don't have an account, can't find your account or our site doesn’t prov
 
 #### E-mail Communications
 
-You can use much of our site without giving us any personally identifiable information. When you [register](https://www.goodsamclub.com/join/registration/RegistrationStart.aspx) with us or give us personally identifiable information, you will have an opportunity at the time we collect your information to limit e-mail communications from us and our third-party marketing partners. At any time you can request that we not send e-mails to you anymore either by unsubscribing from the communication or by contacting us at [info@goodsamfamily.com](mailto:info@goodsamfamily.com).
+You can use much of our site without giving us any personally identifiable information. When you [register](https://www.goodsamclub.com/join/RegisterStep1.aspx) with us or give us personally identifiable information, you will have an opportunity at the time we collect your information to limit e-mail communications from us and our third-party marketing partners. At any time you can request that we not send e-mails to you anymore either by unsubscribing from the communication or by contacting us at [info@goodsamfamily.com](mailto:info@goodsamfamily.com).
 
   
 
