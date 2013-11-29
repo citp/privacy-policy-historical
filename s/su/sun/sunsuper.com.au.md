@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502110955id_/http%3A//www.sunsuper.com.au/content/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129130848id_/http%3A//www.sunsuper.com.au/content/privacy.cfm) for the most accurate reproduction.*
 
 # Sunsuper Privacy Policy
 
@@ -96,9 +96,8 @@ Sunsuper uses encryption to provide more secure communications when using our Me
 
 You can review them now by clicking on the links below:
 
-  * [Member Online Terms and Conditions](http://www.sunsuper.com.au/documents/TermsandConditionsforSunsuperMemberOnlinefinalnewPrecisionURLlink.pdf)
-  * [Pension Online Terms and Conditions](http://www.sunsuper.com.au/documents/TermsandConditionsforSunsuperPensionOnlinefinalwithnewPrecisionurl.pdf)
-  * [Employer Online Terms and Conditions](http://www.sunsuper.com.au/employers/documents/TermsandconditionsforSunsuperEmployerOnline18112008Complianceupdated.pdf)
+  * [Member Online Terms and Conditions](http://www.sunsuper.com.au/content.aspx?id=2147484039)
+  * [Employer Online Terms and Conditions](http://www.sunsuper.com.au/content.aspx?id=2147484382 "Employer Online Terms and Conditions")
 
   
 
@@ -107,10 +106,28 @@ You can review them now by clicking on the links below:
 
 We have appointed a dedicated Privacy Officer to answer your queries by phone, fax, mail, or email.
 
+**Call** | 13 11 84  
+---|---  
+**Fax** | (07) 3016 7722  
+**Email** | [Contact us form](http://www.sunsuper.com.au/Contact_us_forms/Contact_us/ "Contact us form")  
+**Mail** | The Privacy Officer  
+Sunsuper  
+GPO Box 2924  
+Brisbane QLD 4001  
+  
 #### Can you complain about a breach of your privacy? 
 
 If you believe that we have not protected your personal information as set out in this privacy policy you may lodge a complaint with us by phone, fax, email, or mail.
 
+**Call** | 13 11 84  
+---|---  
+**Fax** | (07) 3016 7722  
+**Email** | [Contact us form](http://www.sunsuper.com.au/Contact_us_forms/Contact_us/ "Contact us form")  
+**Mail** | The Privacy Officer  
+Sunsuper  
+GPO Box 2924  
+Brisbane QLD 4001  
+  
 #### What if you are not satisfied with our response?
 
 If you are not satisfied with the result of your complaint to Sunsuper, you can refer your complaint to the Federal Privacy Commissioner by phone or mail.
