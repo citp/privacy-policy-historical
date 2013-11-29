@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dazeinfo.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525073736id_/http%3A//www.dazeinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazeinfo.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129030331id_/http%3A//www.dazeinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy l Dazeinfo
 
