@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelessground.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605180856id_/http%3A//www.wirelessground.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessground.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129104842id_/http%3A//www.wirelessground.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -18,16 +18,16 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-腹To personalize your experience  
+• To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-腹To improve our website  
+• To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-腹To improve customer service  
+• To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-腹To process transactions  
+• To process transactions  
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
 **How do we protect your information?**
