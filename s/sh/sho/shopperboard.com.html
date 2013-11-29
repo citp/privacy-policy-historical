@@ -1,0 +1,178 @@
+<!--The following is the downloaded HTML source of the shopperboard.com privacy policy that was archived on 2013-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131129032557id_/http%3A//shopperboard.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy - ShopperBoard</title>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<!--script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script-->
+<!-- Use jQuery UI 1.9.1 because need to use zIndex option for CKEditor QImage plugin (need to bring dialog to top when editing in full screen) -->
+<!--script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script-->
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/static/js/common.js"></script>
+<!--link type="text/css" rel="stylesheet" media="screen" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/base/minified/jquery-ui.min.css" /-->
+<link type="text/css" rel="stylesheet" media="screen" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/themes/base/minified/jquery-ui.min.css">
+<link type="text/css" rel="stylesheet" media="screen" href="/static/css/common.52786e4832744.css">
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" media="screen" href="/static/css/ie6.css" />
+<![endif]-->
+
+</head>
+
+<body>
+<div id="c">
+	<script>
+	$.post("/view-tracker",{page:(window.location.pathname + window.location.search)});
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43459533-1', 'shopperboard.com');
+  ga('send', 'pageview');
+	
+	$(document).ready(function(){
+		$("a.boardbutton").on('dragstart',function(){
+			ga('send','event','button','dragstart','boardbutton',{'page':'/privacy'});
+		});
+	});
+</script>
+	<div id="h">
+		<div class="wr">
+			<a class="logo" href="/">ShopperBoard</a>
+						<ul class="link">
+				<li class="search">
+					<form action="/search" method="get">
+						<input type="text" name="q" placeholder="Find products, stores, shoppers and hashtags" value="">
+						<input type="submit" value="Search">
+					</form>
+				</li>
+				<li class="boardbutton">
+					<a title="Drag this button to your bookmark bar" class="boardbutton" href="javascript:void((function(d){var e=d.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','//shopperboard.com/static/js/sticklet.js?r='+Math.random()*99999999);d.body.appendChild(e)})(document));">+Add to Board</a>
+					<div class="dropdown">
+						Drag this button to your bookmark bar.					</div>
+					<div class="arrow-up"></div>
+				</li>
+				<li><a class="signup" href="/signup">Join</a></li>
+				<li><a class="signin" href="/signin">Sign In</a></li>
+			</ul>
+						<div style="display:none;">
+			<div id="psignup" class="cform wr">
+				<h1>Online shopping made easy.</h1>
+				<a class="button fb" href="/facebook-connect">Join via Facebook</a>
+				OR
+				<form action="/signup" method="post">
+					<input type="text" name="email" validate="/validate?type=new_email" class="required email" title="Email" placeholder="Your email" value="">
+					<input type="text" name="username" validate="/validate?type=new_username" class="required username" title="Username" placeholder="Username" value="">
+					<input type="password" name="password" validate="/validate?type=password" class="required password" title="Password" placeholder="Password" value="">
+					<input type="submit" class="button" value="SHOP NOW">
+				</form>				
+				<div class="note">Already registered? <a href="/signin">Sign in</a>.</div>
+			</div>
+			<div id="psignin" class="cform wr">
+				<h1>Online shopping made easy.</h1>
+				<a class="button fb" href="/facebook-connect">Sign In with Facebook</a>
+				OR
+				<form action="/signin" method="post">
+					<input type="text" name="username" class="required username_email" title="Username / Email" placeholder="Your Username / Email" value="">
+					<input type="password" name="password" class="required password" title="Password" placeholder="Password" value="">
+					<input type="checkbox" name="remember_me" value="1" checked="checked"> <label for="remember_me">Stay signed in.</label>
+					<input type="submit" class="button" value="SHOP NOW">
+				</form>
+				<div class="note"><a href="/forgot-password">Forgot Password?</a><br><a href="/signup">Not a Member Yet? Join Us</a></div>
+			</div>
+			<script type="text/javascript">
+				var $psignin = $("#psignin").dialog({modal:true,dialogClass:"no_title",closeOnEscape:true,autoOpen:false,width:'480px',resizable:false});
+				var $psignup = $("#psignup").dialog({modal:true,dialogClass:"no_title",closeOnEscape:true,autoOpen:false,width:'480px',resizable:false});
+				$("#h a.signin").click(function(){
+					$psignin.dialog("open");
+					$(".ui-widget-overlay").click(function(){ $psignin.dialog("close"); });
+					return false;
+				});
+				$("#h a.signup").click(function(){
+					$psignup.dialog("open");
+					$(".ui-widget-overlay").click(function(){ $psignup.dialog("close"); /*$(this).prev(".ui-dialog").find(".ui-dialog-content").dialog("close");*/ });
+					return false;
+				});
+			</script>	
+			</div>
+								</div>
+	</div>
+	
+	<div id="b">
+		<div class="wr two-col">
+			<div class="c1 nav">
+				<a href="/about">About Us</a>
+				<a href="/get-started">Shopper’s Guide</a>
+				<a href="/boardbutton">Get the BoardButton</a>
+				<a href="/terms">Terms of Service</a>
+				<a class="active" href="/privacy">Privacy Policy</a>
+				<a href="/faq">FAQs</a>
+				<a href="/contact">Contact Us</a>
+			</div>
+			<div class="c2">
+				<h1>Privacy Policy</h1>
+
+				<p>ShopperBoard helps users organize online shopping easily, letting anyone discover a whole new world of the coolest and trendiest products along the way. Any user can post a product from any online store, and has an account that is public by default, including a user’s username, products that are saved, collections, followers, people and the stores one is following.</p>
+				<p class="tip"><span class="tip">Tip</span> The products you save on ShopperBoard may be viewed all around the world instantly.</p>
+				<p>This Privacy Policy describes how and when ShopperBoard collects, uses and shares your information when you use our Services. ShopperBoard receives your information through our various websites, SMS, APIs, email notifications, applications, buttons, and widgets (the "<strong>Services</strong>" or "<strong>ShopperBoard</strong>"). For example, you send us information whenever you save a product on our website or simply change your username. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize ShopperBoard to use your information in Singapore and any other country where ShopperBoard operates.</p>
+				<p>If you have any questions or comments about this Privacy Policy, please contact us at <a href="/contact">here</a>.</p>
+				
+				<ol>
+					<li>
+						<h2 id="section1">Information Collection and Use</h2>
+						<p class="tip"><span class="tip">Tip</span> We collect and use your information below to provide our Services and to measure and improve them over time.</p>
+						<p><b>Information Collected Upon Registration:</b> When you create or reconfigure a ShopperBoard account, you provide some personal information, such as your name, username, password, and email address. Some of this information, for example, your name and username, is listed publicly on our Services, including on your profile page.</p>
+						<p><b>Additional Information:</b> You may provide us with profile information to make public, such as a short biography, your location, your website, or a picture. You have an official email that is linked to your ShopperBoard account. We may use your contact information to send you information about our Services or to market to you.    If you email us, we may keep your message, email address and contact information to respond to your request. If you connect your ShopperBoard account with Facebook in order to <a href="/find-friends">find</a> or <a href="/invite">invite</a> friends and eventually share products from ShopperBoard with them, Facebook may send us your registration or profile information and other information that you authorize.</p>
+						<p style="margin-bottom:10px"><b>Saved Products, Following, Boards and other Public Information:</b> Our Services are primarily designed to help you save products from any online store and share it with the ShopperBoard community. Most of the information you provide us is information you are asking us to make public. This includes not only the products you add from online stores, but also the boards you create, the people you follow, and many other bits of information that result from your use of the Services. Our default is almost always to make the information you provide public for as long as you do not delete it from ShopperBoard, but we generally do not make it compulsory for you to include information you do not want to on your <a href="/profile">profile</a>, for example.Your public information is broadly and instantly disseminated. For instance, users may click on your profile page and find out what products you save, who you are following, etc. When you save products and comment on product pages, you should think carefully about what you are making public.</p>
+						<p><b>Links:</b> ShopperBoard may keep track of how you interact with links across our Services, including our email notifications, third-party services, and client applications, by redirecting clicks or through other means. We do this to help improve our Services, to provide more relevant advertising, and to be able to share aggregate click statistics such as how many times a particular link was clicked on.</p>
+						<p><b>Cookies:</b> Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as looking at public user profiles or boards. A cookie is a small data file that is transferred to your computer's hard disk. ShopperBoard may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.</p>
+						<p><b>Log Data:</b> Our servers automatically record information ("<strong>Log Data</strong>") created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information.  We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services or interact with our email notifications.  ShopperBoard uses Log Data to provide our Services and to measure, customize, and improve them.  If not already done earlier, we will either delete Log Data or remove any common account identifiers, such as your username, full IP address, or email address, after 18 months.</p>
+						<p><b>Third-Party Service Providers:</b> ShopperBoard uses a variety of third-party services to help provide our Services, such as hosting our various blogs and wikis, and to help us understand the use of our Services, such as Google Analytics. These third-party service providers may collect information sent by your browser as part of a web page request, such as cookies or your IP address.</p>
+					</li>
+					<li>
+						<h2 id="section2">Information Sharing and Disclosure</h2>
+						<p class="tip"><span class="tip">Tip</span>We do not disclose your private personal information except in the limited circumstances described here.</p>
+						<p><b>Your Consent:</b> We may share or disclose your information at your direction, such as when you authorize a third-party web client or application to access your ShopperBoard account.</p>
+						<p><b>Service Providers:</b> We engage service providers to perform functions and provide services to us in Singapore and abroad. We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions.</p>
+						<p><b>Law and Harm:</b> Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect ShopperBoard's rights or property.  However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your information.</p>
+						<p><b>Business Transfers:</b> In the event that ShopperBoard is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your information as transferred to the new entity.</p>
+						<p><b>Non-Private or Non-Personal Information:</b> We may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public user profile information, public product saves, the people you follow or that follow you.</p>
+					</li>
+					<li>
+						<h2 id="section3">Modifying Your Personal Information</h2>
+						<p>If you are a registered user of our Services, we provide you with tools and account settings <a href="/settings">here</a> and <a href="/profile">here</a> to access or modify the personal information you provided to us and associated with your account.</p>
+						</li>
+					<li>
+						<h2 id="section6">Changes to this Policy</h2>
+						<p>We may revise this Privacy Policy from time to time.  The most current version of the policy will govern our use of your information and will always be at <a href="/privacy">http://shopperboard.com/privacy</a>. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an  email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.</p>
+					</li>
+				</ol>
+				<p><em>Effective: August 24, 2013</em></p>
+			</div>
+		</div>
+	</div>
+	
+	<div id="f">
+	<div class="b">
+		<div class="l">
+			<a title="About ShopperBoard" href="/about">About ShopperBoard</a>
+			<a title="Shopper’s Guide" href="/get-started">Shopper’s Guide</a>
+			<a title="Terms of Use" href="/terms">Terms</a>
+			<a title="Privacy Policies" href="/privacy">Privacy</a>
+			<a title="Frequently Asked Questions" href="/faq">FAQs</a>
+			<a title="Contact Us" href="/contact">Contact Us</a>
+		</div>
+		<div class="r">
+			<a class="sm fb" title="Follow Us on Facebook" href="//www.facebook.com/ShopperBoard" target="_blank">Facebook</a>
+			<a class="sm tw" title="Follow Us on Twitter" href="//twitter.com/ShopperBoard" target="_blank">Twitter</a>
+			<a class="sm instagram" title="Follow Us on Instagram" href="//instagram.com/ShopperBoard" target="_blank">Instagram</a>
+			<a class="sm tumblr" title="Follow Us on Tumblr" href="//blog.shopperboard.com" target="_blank">Tumblr</a>
+		</div>
+	</div>
+</div>
+
+</div>
+
+
+</body></html>
