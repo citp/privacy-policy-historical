@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cariboucoffee.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429131833id_/http%3A//www.cariboucoffee.com/page/1/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cariboucoffee.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129130400id_/http%3A//www.cariboucoffee.com/page/1/privacy.jsp) for the most accurate reproduction.*
 
 # Your Privacy
 
@@ -72,7 +72,7 @@ The Site may include links to other sites on the Internet that are owned and ope
 
 You should contact the site administrator or Webmaster for those External Sites if you have any concerns regarding any matter related to or available from such External Sites, including without limitation, the privacy practices of such sites. 
 
-**Cell Phone** Caribou will only send our customers text messages regarding promotional offers or other news if a customer specifically grants us permission. A customer has the right to choose not to receive Caribou text messages by simply notifying us of their preference or responding STOP to 70626. This process is commonly termed opting-out or unsubscribing. 
+**Cell Phone** Caribou will only send our customers text messages regarding promotional offers or other news if a customer specifically grants us permission. A customer has the right to choose not to receive Caribou text messages by simply notifying us of their preference or responding STOP to 65017. This process is commonly termed opting-out or unsubscribing. 
 
 Caribou keeps your cell phone number private at all times. As the term suggests, "customer identifiable information" is information which can be associated with a specific individual or entity, including, for example, a customer's name, address, or telephone number or any preferences. 
 
