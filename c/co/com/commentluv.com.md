@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commentluv.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530033743id_/http%3A//www.commentluv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commentluv.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129103350id_/http%3A//www.commentluv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The CommentLuv Plugin
 
