@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the avisual.net privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530213718id_/http%3A//www.avisual.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avisual.net privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129180417id_/http%3A//www.avisual.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - avisual.net
+# Privacy Policy - www.avisual.net
 
-Privacy Policy for avisual.net 
+Privacy Policy for www.avisual.net 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@biddingwebdirectory.org. 
 
