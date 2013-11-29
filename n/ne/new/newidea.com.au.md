@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newidea.com.au privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628213909id_/http%3A//info.yahoo.com/privacy/au/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newidea.com.au privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129183313id_/http%3A//info.yahoo.com/privacy/au/yahoo) for the most accurate reproduction.*
 
 # Yahoo!7 Privacy Policy
 
@@ -20,7 +20,7 @@ Return to top
 
 ### General
 
-Yahoo!7 collects personal information when you register with Yahoo!7, when you use Yahoo! or Yahoo!7 [products or services](http://.info.yahoo.com/privacy/au/yahoo/products.html), when you visit Yahoo!7 pages or the pages of certain Yahoo!7 partners, and when you enter [promotions or competitions](http://info.yahoo.com/privacy/au/yahoo/promotions/). Yahoo!7 may combine information about you that we have with information we obtain from business partners or other companies. 
+Yahoo!7 collects personal information when you register with Yahoo!7, when you use Yahoo! or Yahoo!7 [products or services](http://info.yahoo.com/privacy/au/yahoo/products.html), when you visit Yahoo!7 pages or the pages of certain Yahoo!7 partners, and when you enter [promotions or competitions](http://info.yahoo.com/privacy/au/yahoo/promotions/). Yahoo!7 may combine information about you that we have with information we obtain from business partners or other companies. 
 
 When you register we ask for information such as your name, email address, birth date, gender, post code, occupation, industry, and personal interests. When you register with Yahoo!7 and sign in to our services, you are not anonymous to us. 
 
@@ -104,6 +104,6 @@ PO Box R1469
 ROYAL EXCHANGE NSW 1225  
 Australia 
 
-Last updated: April 1, 2011
+Last updated: September 15, 2013
 
 Return to top
