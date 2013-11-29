@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefileopener.com privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124224936id_/http%3A//www.freefileopener.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefileopener.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129033910id_/http%3A//www.freefileopener.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Free File Opener Privacy Policy | Free File Opener
 
