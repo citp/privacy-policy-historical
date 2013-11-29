@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everythingmommyhood.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163512id_/http%3A//www.everythingmommyhood.com/disclosureprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingmommyhood.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129045701id_/http%3A//www.everythingmommyhood.com/disclosureprivacy-policy) for the most accurate reproduction.*
 
-# Disclosure/Privacy Policy | Everything Mommyhood
+# Disclosure/Privacy Policy
 
 This policy is valid from 20 January 2013
 
