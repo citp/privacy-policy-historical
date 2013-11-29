@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pakistanaffairs.pk privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513183836id_/http%3A//www.pakistanaffairs.pk/announcements/7548-privacy-policy-important.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanaffairs.pk privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129182057id_/http%3A//www.pakistanaffairs.pk/announcements/7548-privacy-policy-important.html) for the most accurate reproduction.*
 
 # Privacy Policy - Important
 
-  1. 2nd November 2012, 14:14 [#1](http://www.pakistanaffairs.pk/announcements/7548-privacy-policy-important-post48309.html#post48309)
+  1. 2nd November 2012, 14:14 [#1](http://www.pakistanaffairs.pk/threads/7548-Privacy-Policy-Important?p=48309&viewfull=1#post48309)
 
 > Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 >     * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
@@ -81,7 +81,7 @@ Last Post: 2nd July 2012, 15:29
 
 
 
-####  [](http://www.pakistanaffairs.pk/announcements/7548-privacy-policy-important.html#top) Posting Permissions 
+####  [](http://www.pakistanaffairs.pk/threads/7548-Privacy-Policy-Important#top) Posting Permissions 
 
   * You **may not** post new threads
   * You **may not** post replies
