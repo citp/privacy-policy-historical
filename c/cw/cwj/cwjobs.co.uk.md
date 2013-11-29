@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwjobs.co.uk privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024033509id_/http%3A//www.cwjobs.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwjobs.co.uk privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129125516id_/http%3A//www.cwjobs.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - CWJobs.co.uk
 
@@ -8,7 +8,9 @@ You can remove any of the information that CWJobs.co.uk stores about you, at any
 
 Personal data which you supply to us may be transferred to third party service providers to be stored or processed on our behalf, including third parties located outside of the European Economic Area in countries where there may be a lower legal level of data protection. However, we will always endeavour to handle your information in accordance with this privacy policy, wherever it is processed.
 
-Privacy policy update (Last updated 17 May 2012) 
+As a Registered User and based on the preferences you share at registration, you may also occasionally receive information on whitepapers, products, services, special deals and newsletters from third parties
+
+Privacy policy update (Last updated 28 May 2013) 
 
 **Registration details**   
 Contact and other details you supply as part of the registration process are stored by us and used to provide you with the information you have requested. 
