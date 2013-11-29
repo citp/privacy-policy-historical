@@ -1,101 +1,35 @@
-<!--The following is the downloaded HTML source of the kaleidescape.com privacy policy that was archived on 2013-01-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130115204908id_/http%3A//www.kaleidescape.com/site/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kaleidescape.com privacy policy that was archived on 2013-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131129222810id_/http%3A//www.kaleidescape.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Kaleidescape - Privacy Policy</title>
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Content-Language" content="">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<meta name="robots" content="noodp">
+<meta http-equiv="Content-Language" content="">
+<meta name="description" content="Manufacturer of a movie server that digitally stores and organizes your Blu-ray and DVD movies, and makes them available from any television in your home.">
+<meta name="keywords" content="Blu-ray server, DVD server, movie server, entertainment server, movies, music, home theater, DVD library, DVD storage, DVD jukebox, Blu-ray changer">
+
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
-<link rel="stylesheet" type="text/css" href="/css/default.css">
-<link rel="stylesheet" type="text/css" href="/css/layout.css">
-<link rel="stylesheet" type="text/css" href="/css/nav.css">
-<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="/js/jquery-1.4.2.min.js"></script>
-<script type="text/javascript" language="javascript" src="/js/javascript.js"></script>
+<link href="/css/reset.css" rel="stylesheet" type="text/css" media="all">
+<link href="/css/default.css" rel="stylesheet" type="text/css" media="all">
 
 
-<!--[if IE 6]>
-<link rel="stylesheet" type="text/css" href="/css/ie6.css" />
-<![endif]-->
 
-<!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="/css/ie7.css" />
-<![endif]-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" language="javascript" src="/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" language="javascript" src="/js/default.js"></script>
 
-<!-- Jquery/JS Start-Up -->
+
 <script type="text/javascript">
 
 	$(document).ready(function() {
-		
-		// Track Outbound Links with Google Analytics
-		$("a[href^='http://'],a[href^='https://']").click(function(){
-			var url = $(this).attr("href");
-			_gaq.push(['_trackEvent', 'Outbound Links', 'click', url]);
-		});
-		// Track PDF Downloads with Google Analytics
-		$("a[href$='.pdf']").click(function(){
-			var url = $(this).attr("href");
-			_gaq.push(['_trackEvent', 'PDF Downloads', 'click', url]);
-		});
-		
-		$('ul#nav-main li.current ul:first').fadeIn('fast');
-				
-		$('.nav-sub > li').bind('mouseover', nav_open);
-		$('.nav-sub > li').bind('mouseout',  nav_timer);
 
 		
-		$('#zoom_query').click(function() { 
-			if ($(this).val() == 'Search')
-			{
-				$(this).val('');
-			}
-			});
-
-		$('#zoom_query').focusout(function() {
-			if ($(this).val() == '')
-			{
-				$(this).val('Search');
-			}
-			});
-
-		preload_images('/images/bg-nav-level3-over.jpg');		
 	});
-
-	/* Functions for third-level nav */
-	var timeout		= 500;
-	var closetimer	= 0;
-	var submenu		= 0;
-	
-	function nav_open() {	
-		nav_canceltimer();
-		nav_close();
-		submenu = $(this).find('ul').eq(0).css('visibility', 'visible');
-	}
-	
-	function nav_close() {
-		if(submenu) submenu.css('visibility', 'hidden');
-	}
-	
-	function nav_timer() {
-		closetimer = window.setTimeout(nav_close, timeout);
-	}
-	
-	function nav_canceltimer() {
-		if(closetimer) {	
-			window.clearTimeout(closetimer);
-			closetimer = null;
-		}
-	}
-	
-	document.onclick = nav_close;
-
-
 </script>
 
 
@@ -115,209 +49,110 @@
 			
 			</script>
 		
+
 </head>
 
-<body>
 
-<!--ZOOMSTOP-->
-<!--ZOOMSTOPFOLLOW-->
+<body id="page-privacy-policy" class="default" style="">
+
 
 <div id="container">
-    
-    <div id="header">
 
-    	<h1 id="logotype"><a href="/" class="ir">Kaleidescape, Inc.</a></h1>
-		<ul id="top-nav"><li><a href="https://store.kaleidescape.com" target="_blank" style="border:none;">Visit the Kaleidescape Store</a></li></ul>
-    </div> <!-- end header -->
+	<div id="header">
+		<h1 id="logo"><a class="ir" href="/">Kaleidescape</a></h1>
+	</div> <!-- end div#header -->
 
 
-	<div id="nav-container">
-		<ul id="nav-main">
-    		<li id="nav-main-home"><a href="/">Home</a></li>
-			<li id="nav-main-experience">
-            	<a href="/experience/">Experience</a>
-				<ul class="nav-sub" id="nav-sub-experience">
-					<li><a href="/experience/choose-great-movies.php">Choose</a></li>
-					<li><a href="/experience/enjoy-movies.php">Enjoy</a></li>
-					<li><a href="/experience/share-movies.php">Share</a></li>
-					<li><a href="/experience/create-movie-library.php">Create</a></li>
-					<li><a href="/experience/control-your-experience.php">Control</a></li>
-					<li><a href="/experience/music.php">Listen</a></li>
-					
-                    
-                    <li><a href="/testimonials/">Customer Testimonials</a></li>
-                    <!--
-					<li><a href="/testimonials/reviews.php">Product Reviews</a></li>
-					<li><a href="/testimonials/share-story.php">Submit Your Story</a></li>-->
-				</ul>
-		  </li>
-			<li id="nav-main-products">
-            	<a href="/products/">Products</a>
-                <ul class="nav-sub" id="nav-sub-products">
-                    <li>
-                    	<a href="/products/players/">Players</a>
-                        <ul>
-							<li><a href="/products/players/m500/">M500 Player</a></li>
-			  				<li><a href="/products/players/m300/">M300 Player</a></li>
-						</ul>
-                    </li>
-			  		<li>
-                    	<a href="/products/servers/">Servers</a>
-                        <ul class="nav-sub-sub">
-							<li><a href="/products/servers/1U/">1U Server</a></li>
-			  				<li><a href="/products/servers/3U/">3U Server</a></li>
-						</ul>
-                    </li>
-					<li>
-                    	<a href="/products/disc-vaults/">Disc Vaults</a>
-                        <ul>
-							<li><a href="/products/disc-vaults/m700/">M700 Disc Vault</a></li>
-			  				<li><a href="/products/disc-vaults/dv700/">DV700 Disc Vault</a></li>
-						</ul>
-                    
-                    </li>
-			  		<li><a href="/products/apps/">Apps</a></li>
-			  		<li><a href="/products/accessories/">Accessories</a></li>
-                    <li><a href="/products/faq.php">FAQ</a></li>
-                </ul> 			
-		  </li>
-			<li id="nav-main-movies">
-            	<a href="/movies/">Movies</a>
-                <ul class="nav-sub" id="nav-sub-movies">
-					<li><a href="/movies/store/">The Kaleidescape Store</a></li>
-			  		<li><a href="/movies/collections/">Kaleidescape Movie Collections</a></li>
-                </ul>
-          </li>
-			<li id="nav-main-buy">
-            	<a href="/buy/">Buy</a>
-                <ul class="nav-sub" id="nav-sub-buy">
-					<li><a href="/buy/">Residential</a></li>
-					<li><a href="/buy/marine.php">Marine</a></li>
-					<li><a href="/buy/aviation.php">Aviation</a></li>
-                </ul>
-          </li>
-    		<li id="nav-main-company">
-            	<a href="/company/">Company</a>
-                <ul class="nav-sub" id="nav-sub-company">
-					<li><a href="/company/management.php">Management</a></li>
-					<li><a href="/company/careers/">Careers</a></li>
-					<li><a href="/company/dealer.php">Become a Dealer</a></li>
-					<li><a href="/company/contact.php">Contact Us</a></li>
-                </ul>
-            </li>
-			<li id="nav-main-news">
-            	<a href="/news/">News</a>
-                <ul class="nav-sub" id="nav-sub-news">
-					<li><a href="/news/news.php">News &amp; Awards</a></li>
-					<li><a href="/news/reviews.php">Product Reviews</a></li>
-					<li><a href="/news/keaos.php">Release Notes</a></li>
-					<li><a href="/news/press.php">Press Room</a></li>
-                </ul>
-          </li>
-			<li id="nav-main-support">
-            	<a href="/support/">Support</a>
-                <ul class="nav-sub" id="nav-sub-support">
-					<li><a href="/support/knowledgebase.php">Knowledge Base</a></li>
-					<li><a href="/support/doc.php">Documentation</a></li>
-					<li><a href="/support/downloads.php">Downloads</a></li>
-					<li><a href="/support/control-systems/">Control Systems</a></li>
-					<li><a href="/videos/">How-to Videos</a></li>
-                    <li><a href="/faq/">FAQ</a></li>
-                </ul>
-          </li>
-			<!--<li id="nav-main-faq">
-            	<a href="/faq/">FAQ</a>
-                <ul class="nav-sub" id="nav-sub-faq">
-					<li><a href="/faq/">Frequently Asked Questions</a></li>
-                </ul>
-          </li>-->
-		</ul> <!-- ul#nav-main -->
-		
-        <form id="form-search" method="get" action="/search/"><span class="search_icon"></span><input id="zoom_query" type="text" name="zoom_query" size="10" value="Search"><label for="zoom_query">Search</label><input type="submit" class="button" value="Go"></form>
-        
-        <div class="nav-sub-bg hide-nav-sub"></div>
-    </div> <!-- end nav-container -->
+	<ul id="menu">
+		<li class="home"><a href="/" target="_top">HOME</a></li>
+		<li class="experience"><a href="/experience/" target="_top">THE EXPERIENCE</a></li>
+		<li class="products"><a href="/products/" target="_top">PRODUCTS</a></li>
+		<li class="support"><a href="/support/" target="_top">SUPPORT</a></li>
+		<li class="dealers"><a href="/dealers/" target="_top">FIND A DEALER</a></li>
+		<li class="hideStore store "><a class="hideStore" href="https://store.kaleidescape.com/" target="_blank">STORE</a></li>
+	</ul> <!-- end ul#menu -->
+                                               
+	<div id="content-container">
+	<div id="content">
 
-    <div id="content"><a name="top"></a>
-
-	<!--ZOOMRESTARTFOLLOW-->
-	<!--ZOOMRESTART-->	  <div class="full">
-		  <h1>Kaleidescape Privacy Policy</h1>
+<h2 class="page-title">Kaleidescape Privacy Policy</h2>
           
-          <p>Kaleidescape, Inc. and its affiliates, including Kaleidescape Canada, Inc. and Kaleidescape Europe Ltd., (collectively referred to as "Kaleidescape") take your privacy seriously. This Privacy Policy describes how we treat personal information that we collect and receive about you and your use of your Kaleidescape System ("System"), the Kaleidescape Movie Guide and Music Guide Services, and our websites.</p>
+<p>Kaleidescape, Inc. and its affiliates, including Kaleidescape Canada, Inc. and Kaleidescape Europe Ltd., (collectively referred to as "Kaleidescape") take your privacy seriously. This Privacy Policy describes how we treat personal information that we collect and receive about you and your use of your Kaleidescape System ("System"), the Kaleidescape Movie Guide and Music Guide Services, and our websites.</p>
 
 <p>This Privacy Policy supplements and is incorporated into the Kaleidescape Service &amp; License Agreement. This Privacy Policy constitutes the entire agreement between you and Kaleidescape concerning the subject matter herein, and your acceptance of the Kaleidescape Service &amp; License Agreement will signify your acceptance of this Privacy Policy.</p>
 
 <p>To provide you with a better, more satisfying experience, Kaleidescape collects and uses certain types of information, as described below. Kaleidescape does not intend to disclose to any third party, except as provided below, any personal information, including what CDs, DVDs, and Blu-ray Discs you - as an individual or household - have purchased, loaded into or viewed with your System.</p>
 
-        <h2>Types of Information Collected</h2>
-		  <ul>
-            <li>Kaleidescape collects certain personal information when you activate your System, such as your name, address, telephone number, and email address. Kaleidescape collects additional information from time to time, such as the serial numbers of the components of your System and the software versions and options used by them.</li>
-            
-            <li>Kaleidescape automatically collects and maintains diagnostic and usage information from every System connected to the Internet for the purposes of quality control, technical troubleshooting, and the development of new features, products, and services. Diagnostic and usage information includes a detailed record of the operating history of your System, such as browser interface settings, CD, DVD, and Blu-ray Disc imports, user inputs and response times (including details about CDs, DVDs, and Blu-ray Discs played), disk errors or failures, disk space use, component temperatures, and information entered into the browser interface. Diagnostic and usage information also contains and is identified by the serial numbers of the components of your System and their IP addresses.</li>
-            
-            <li>Kaleidescape automatically collects IP addresses and website usage information from you when you visit our website. This information helps us evaluate how our visitors use and navigate our website on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits.</li>
-		  </ul>
-          
-		  <h2>How We Use Information Collected</h2>
-		  <p>We may use information in the following ways:</p>
-		  
-          <ul>
-            <li>For the purposes for which you specifically provided the information including, for example, to provide a service that you desire, to troubleshoot your System, or to send emails that you have requested.</li>
-            <li>To send you email notifications about new or existing products and services, such as software upgrades. </li>
-            <li>To enhance existing features, products and services, or to develop new features, products and services. </li>
-            <li>To better understand our channel and market.</li>
-            <li>To provide third parties with aggregate information (that will not identify you or your household) about our user base and usage patterns, including movies played.</li>
-            <li>To allow us to personalize your experience using your System based on personal characteristics or preferences. </li>
-            <li>To fulfill any other reasonable business purpose that Kaleidescape deems to be desirable.</li>
-		  </ul>
-          
-            <p>Except as specifically set forth in this Privacy Policy, we will not share your personally-identifiable information outside of Kaleidescape.</p>
-            
-            <p>We may disclose and use personally-identifiable information to resolve disputes, troubleshoot problems, enforce our Kaleidescape Service &amp; License Agreement (for example, when necessary to protect our or a third-party's intellectual property or proprietary rights). We may also disclose personally-identifiable information when we, in our sole discretion, believe it is necessary or appropriate, in connection with a sale or transfer of some or all of our assets, or when we, in good faith, believe that the law requires us to do so.</p>
-            
-            <p>We occasionally hire other companies to provide limited services on our behalf including, without limitation, packaging, mailing and delivering products and services, answering customer questions about products and services, processing registrations, analyzing our market, and designing future products. We will only provide those companies with the information they need to deliver the service, and they are prohibited from using that information for any other purpose.</p>
-            
-            <p>Your information may be stored and processed in the United States or any country in which Kaleidescape or its subsidiaries or agents maintain a presence; you consent to any such transfer of your personal information outside of your country.</p>
-
-		  <h2>Security of your Personal Information</h2>
-		  <p>Kaleidescape is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, your personal information will be stored on computer servers with limited access that are located in controlled facilities. When we transmit sensitive information (such as a credit card number) over the Internet, we protect it through encryption.</p>
-		  
-          <h2>Policy Modifications</h2>
-		  <p>We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.</p>
-		  
-          <h2>Technical Problems</h2>
-		  <p>Even though Kaleidescape has taken steps to ensure that your personal information will not be collected, used, or disclosed by Kaleidescape except as set forth by this Privacy Policy, technical mistakes are possible. If such a mistake takes place, we will take commercially-reasonable steps to correct it.</p>
-          
-		  <h2>Contact Kaleidescape</h2>
-		  <p>If you would like to make suggestions or find out more about our privacy practices, please call us at +1 650-625-6100, or send us a letter. Our mailing address is, Kaleidescape, Inc., 440 Potrero Avenue, Sunnyvale, CA 94085-4117.</p>
-		  
-          <p>&nbsp;</p>
-		  <p>This Privacy Policy was last updated on January 17, 2011.</p>
-	  </div>
-
-
-<div class="clear"></div>
-</div> <!-- end content -->
+<h3>Types of Information Collected</h3>
+  <ul>
+    <li>Kaleidescape collects certain personal information when you activate your System, such as your name, address, telephone number, and email address. Kaleidescape collects additional information from time to time, such as the serial numbers of the components of your System and the software versions and options used by them.</li>
     
-</div> <!-- end container -->
+    <li>Kaleidescape automatically collects and maintains diagnostic and usage information from every System connected to the Internet for the purposes of quality control, technical troubleshooting, and the development of new features, products, and services. Diagnostic and usage information includes a detailed record of the operating history of your System, such as browser interface settings, CD, DVD, and Blu-ray Disc imports, user inputs and response times (including details about CDs, DVDs, and Blu-ray Discs played), disk errors or failures, disk space use, component temperatures, and information entered into the browser interface. Diagnostic and usage information also contains and is identified by the serial numbers of the components of your System and their IP addresses.</li>
+    
+    <li>Kaleidescape automatically collects IP addresses and website usage information from you when you visit our website. This information helps us evaluate how our visitors use and navigate our website on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits.</li>
+  </ul>
+  
+  <h3>How We Use Information Collected</h3>
+  <p>We may use information in the following ways:</p>
+  
+  <ul>
+    <li>For the purposes for which you specifically provided the information including, for example, to provide a service that you desire, to troubleshoot your System, or to send emails that you have requested.</li>
+    <li>To send you email notifications about new or existing products and services, such as software upgrades. </li>
+    <li>To enhance existing features, products and services, or to develop new features, products and services. </li>
+    <li>To better understand our channel and market.</li>
+    <li>To provide third parties with aggregate information (that will not identify you or your household) about our user base and usage patterns, including movies played.</li>
+    <li>To allow us to personalize your experience using your System based on personal characteristics or preferences. </li>
+    <li>To fulfill any other reasonable business purpose that Kaleidescape deems to be desirable.</li>
+  </ul>
+  
+    <p>Except as specifically set forth in this Privacy Policy, we will not share your personally-identifiable information outside of Kaleidescape.</p>
+    
+    <p>We may disclose and use personally-identifiable information to resolve disputes, troubleshoot problems, enforce our Kaleidescape Service &amp; License Agreement (for example, when necessary to protect our or a third-party's intellectual property or proprietary rights). We may also disclose personally-identifiable information when we, in our sole discretion, believe it is necessary or appropriate, in connection with a sale or transfer of some or all of our assets, or when we, in good faith, believe that the law requires us to do so.</p>
+    
+    <p>We occasionally hire other companies to provide limited services on our behalf including, without limitation, packaging, mailing and delivering products and services, answering customer questions about products and services, processing registrations, analyzing our market, and designing future products. We will only provide those companies with the information they need to deliver the service, and they are prohibited from using that information for any other purpose.</p>
+    
+    <p>Your information may be stored and processed in the United States or any country in which Kaleidescape or its subsidiaries or agents maintain a presence; you consent to any such transfer of your personal information outside of your country.</p>
+
+  <h3>Security of your Personal Information</h3>
+  <p>Kaleidescape is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, your personal information will be stored on computer servers with limited access that are located in controlled facilities. When we transmit sensitive information (such as a credit card number) over the Internet, we protect it through encryption.</p>
+  
+  <h3>Policy Modifications</h3>
+  <p>We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.</p>
+  
+  <h3>Technical Problems</h3>
+  <p>Even though Kaleidescape has taken steps to ensure that your personal information will not be collected, used, or disclosed by Kaleidescape except as set forth by this Privacy Policy, technical mistakes are possible. If such a mistake takes place, we will take commercially-reasonable steps to correct it.</p>
+  
+  <h3>Contact Kaleidescape</h3>
+  <p>If you would like to make suggestions or find out more about our privacy practices, please call us at +1 650-625-6100, or send us a letter. Our mailing address is, Kaleidescape, Inc., 440 Potrero Avenue, Sunnyvale, CA 94085-4117.</p>
+  
+  <p>&nbsp;</p>
+  <p>This Privacy Policy was last updated on January 17, 2011.</p>
 
 
-<div id="footer">
 
-	<ul id="nav-footer">
-		<li class="first"><a href="/company/contact.php">Contact Us</a></li><li><a href="/company/careers/">Careers</a></li><li><a href="/legal-update/">Legal Update</a></li><li><a href="/activate/">Activate a System</a></li><li class="last"><a href="https://extranet.kaleidescape.com/" target="extranet">Dealer Extranet</a></li>
-	</ul> 
-  <!-- end footer-nav -->
+	</div> <!-- end div#content -->
+	</div> <!-- end div#content-container -->
 
-	<div id="address-legal">
-		<div id="legal"><a href="/site/sitemap.php">Site Map</a> | <a href="/site/privacy.php">Privacy Policy</a> | <a href="/site/legal-notices.php">Legal Notices</a></div>
-	</div> <!-- end copyright-address -->
+	<div id="footer">
+		<ul id="footer-menu">
+			<li><a href="/company/" target="_top">Company</a></li>
+			<li><a href="/careers/" target="_top">Careers</a></li>
+			<li><a href="/news/" target="_top">News</a></li>
+			<li><a href="/contact/" target="_top">Contact Us</a></li>
+			<li><a href="https://extranet.kaleidescape.com/" target="_blank">Dealer Extranet</a></li>
+		</ul> <!-- end ul#footer-menu -->	
+
+		<div class="footer-sub-menu"><a href="/legal-notices.php">Legal Notices</a> | <a href="/privacy-policy.php">Privacy Policy</a></div>
+		
+        <div class="footer-social-links"><a href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fwww.kaleidescape.com%2Fnews%2F&amp;region=follow_link&amp;screen_name=kaleidescape&amp;source=followbutton&amp;variant=2.0" target="_blank"><img src="/images/icon-twitter.png" width="23" height="23" alt="Follow @kaleidescape on Twitter" border="0"></a> <a href="https://www.facebook.com/pages/Kaleidescape/168308803189144" target="_blank"><img src="/images/icon-facebook.png" width="23" height="23" alt="Connect with us on Facebook" border="0"></a>
+          <a href="http://www.linkedin.com/company/kaleidescape" target="_blank"><img src="/images/icon-linkedin.png" width="23" height="23" alt="Follow us on LinkedIn" border="0"></a>
+        
+        </div>
+        
+	</div> <!-- end div#footer -->
 	
 
-</div> <!-- end footer -->
-
-<script type="text/javascript">highlight();</script>
+</div> <!-- end div#container -->
 
 
 </body></html>
