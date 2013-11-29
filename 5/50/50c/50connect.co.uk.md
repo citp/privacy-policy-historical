@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50connect.co.uk privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613143402id_/http%3A//50connect.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50connect.co.uk privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129103755id_/http%3A//50connect.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # 50 Connect | Privacy policy
 
