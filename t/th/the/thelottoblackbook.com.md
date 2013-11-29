@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thelottoblackbook.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530045047id_/http%3A//www.thelottoblackbook.com/auxiliar/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelottoblackbook.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129092049id_/http%3A//www.thelottoblackbook.com/auxiliar/privacy.php) for the most accurate reproduction.*
 
 # The Lotto Black Book - PRIVACY POLICY
 
-**Last Updated:** April 10th 2013
+**Last Updated:** October 10th 2013
 
 thelottoblackbook.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
