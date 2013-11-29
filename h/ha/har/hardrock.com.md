@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623004840id_/http%3A//www.hardrock.com/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129171455id_/http%3A//www.hardrock.com/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Hard Rock Corporate | Privacy Policy
 
@@ -68,10 +68,6 @@ As a global organization, data we collect may be transferred internationally thr
 PUBLIC FORUMS
 
 This Website may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information you disclose in a public forum will be available to other visitors to our Website. To the extent you disclose your Personal Information in public forums, the use of the information by third-parties will not be subject to this Privacy Policy.
-
-PROTECTING CHILDREN
-
-Hard Rock Cafe takes special care to protect the safety and privacy of children. For that reason, we never collect or maintain information at our website from those we actually know are under 13. Our websites are general audience sites.
 
 PROTECTING CHILDREN
 
