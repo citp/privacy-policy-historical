@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medianet.com.au privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602045452id_/http%3A//medianet.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medianet.com.au privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129135445id_/http%3A//www.aapmedianet.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-HELLO Medianet is a division of Australian Associated Press Pty Limited (ABN 88 006 180 801) of 3 Rider Blvd, Rhodes, NSW 2138. We respect the privacy of our clients, business contacts and suppliers. We understand that the privacy of your information is important to you.
+Medianet is a division of Australian Associated Press Pty Limited (ABN 88 006 180 801) of 3 Rider Blvd, Rhodes, NSW 2138. We respect the privacy of our clients, business contacts and suppliers. We understand that the privacy of your information is important to you.
 
 This privacy policy outlines the types of personal information that we collect and how it is used. It also explains your rights in relation to that information.
 
