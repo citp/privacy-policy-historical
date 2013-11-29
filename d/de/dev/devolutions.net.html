@@ -1,25 +1,23 @@
-<!--The following is the downloaded HTML source of the devolutions.net privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601135808id_/http%3A//devolutions.net/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the devolutions.net privacy policy that was archived on 2013-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131129074349id_/http%3A//devolutions.net/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://ogp.me/ns/fb#" xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	
 Privacy Policy - Devolutions
 
 </title>   
-	<link href="http://blob.devolutions.net/web/css/main/reset.css?0529131839" rel="stylesheet" type="text/css">
-	<link href="http://blob.devolutions.net/web/css/main/main.css?0529131839" rel="stylesheet" type="text/css">
+	<link href="http://blob.devolutions.net/web/css/main/reset.css?1118130828" rel="stylesheet" type="text/css">
+	<link href="http://blob.devolutions.net/web/css/main/main.css?1128131617" rel="stylesheet" type="text/css">
 
 
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /><![endif]-->
-    <meta name="viewport" content="width=1024">
+        <meta name="viewport" content="width=1024"><meta name="msapplication-TileImage" content="http://images.devolutions.net/tileimage/DEVO144.png"><meta name="msapplication-TileColor" content="#0069C3">
         <meta name="description" content="Developing innovative enterprise software that helps users cost-effectively, simply and effectively achieve their network management and security goals">
         <meta name="keywords" content="Devolutions, Devolution, Remote Desktop Manager, Password Vault Manager, Remote Desktop Manager Online, Remote Desktop Manager Server"> 
     
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
-        </script>  
-          
-    
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
+        </script>
     
 
             <script type="text/javascript">
@@ -50,17 +48,63 @@ Privacy Policy - Devolutions
                         $(window).resize(adjustFooter);
                         $(window).scroll(adjustFooter);
                     }
-                    
+
+                    $(".NavArrow").click(function () {
+                        return false;
+                    });
+
                     function adjustFooter() {
-                            if (!$("#ctl00_footerHolder").isOnScreen()) {
-                                $("#footer").addClass("floating");
-                            } else {
-                                $("#footer").removeClass("floating");
+                        if (!$("#ctl00_footerHolder").isOnScreen()) {
+                            $("#footer").addClass("floating");
+                        } else {
+                            $("#footer").removeClass("floating");
+                        }
+
+                        $('#header, .footer.floating').css('left', -$(window).scrollLeft());
+                    }
+
+                    if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (window.navigator.msPointerEnabled) || (navigator.userAgent.match(/iPad/i))) {
+
+                        $('.hover').bind("click touchstart MSPointerDown", function () {
+                            if (!$(this).hasClass("hovering")) {
+                                $('#MainMenu li').removeClass('hovering');
                             }
 
-                            $('#header, .footer.floating').css('left', -$(window).scrollLeft());
-                        }
+                            $(this).toggleClass('hovering');
+                        });
+
+                        $('.hover > a').bind("click touchstart MSPointerDown", function (e) {
+                            e.preventDefault();
+                        });
+
+                        $('.hovering ul a').bind("click touchstart MSPointerDown", function () {
+                            return true;
+                        });
+                    }
                 });
+
+                function resizeFancyBox() {
+                    var iFrameContentHeight = $("#fancybox-frame").contents().find("body").height();
+                    var iFrameContentWidth = $("#fancybox-frame").contents().find("body").width();
+
+                    var outer = $('#fancybox-wrap');
+                    var inner = $('#fancybox-inner');
+                    var paddingTotal = 0;
+                    var extra = 20; // some extra space to avoid Scrollbars
+
+                    if (iFrameContentHeight > 0 && iFrameContentWidth > 0) {
+                        outer.css({
+                            height: iFrameContentHeight + paddingTotal + extra + 15,
+                            width: iFrameContentWidth + paddingTotal + extra
+                        });
+                        inner.css({
+                            height: iFrameContentHeight + extra,
+                            width: iFrameContentWidth + extra
+                        });
+
+                        $.fancybox.center();
+                    }
+                } 
         </script>
 </head>
 <body itemscope="" itemtype="http://schema.org/WebPage">
@@ -70,58 +114,62 @@ Privacy Policy - Devolutions
 <div id="header">
 	<ul id="MainMenu">
 		<li id="mm-devo"><a href="http://devolutions.net/">Devolutions</a></li>
-		<li id="mm-rdm"><a href="http://remotedesktopmanager.com/">Remote Desktop Manager</a>
-			<ul>
-				<li><a title="Remote Desktop Manager's product page" href="http://remotedesktopmanager.com/">Home Page</a></li>
-				<li><a title="Remote Desktop Manager Online" href="http://remotedesktopmanager.com/Home/Services#RDMO">Online Data Source</a></li>
-				<li><a title="Online Backup Service" href="http://remotedesktopmanager.com/Home/OnlineBackup">Online Backup</a></li>
-				<li><a title="Custom Installer Service" href="http://remotedesktopmanager.com/Home/Services#CustomInstaller">Custom Installer</a></li>
+        
+        <li class="hover" aria-haspopup="true" id="mm-products"><a href="http://devolutions.net/">Products</a><a href="#" class="NavArrow">Select</a>
+        
+            <ul>
+				<li id="smm-rdm"><a href="http://remotedesktopmanager.com/">Remote Desktop Manager</a></li>
+				<li id="smm-rdmo"><a href="http://remotedesktopmanageronline.com/">Remote Desktop Manager Online</a></li>
+                <li id="smm-rdms"><a href="http://remotedesktopmanagerserver.com/">Remote Desktop Manager Server</a></li>
+				<li id="smm-pvm"><a href="http://passwordvaultmanager.com/">Password Vault Manager</a></li>
 			</ul>
-		</li>
-		<li id="mm-pvm"><a href="http://passwordvaultmanager.com/">Password Vault Manager</a></li>
-		<li id="mm-rdmo"><a href="http://remotedesktopmanageronline.com/">Remote Desktop Manager Online</a>
-			<ul>
-				<li><a title="Remote Desktop Manager Online's product page" href="http://remotedesktopmanageronline.com/">Home Page</a></li>
-				<li><a title="Create an online account" href="https://online.remotedesktopmanager.com/">Create an Account</a></li>
-				<li><a title="Log in with your online account" href="https://online.remotedesktopmanager.com/">Log in</a></li>
-			</ul>
-		</li>
-		<li id="mm-rdms"><a href="http://remotedesktopmanagerserver.com/">Remote Desktop Manager Server</a></li>
-        <li id="mm-download">
+        </li>
+        <li class="hover" id="mm-download" aria-haspopup="true">
         
             <a href="http://remotedesktopmanager.com/Home/Download">Download</a>
             <ul>
 				<li><a title="Application" href="http://remotedesktopmanager.com/Home/Download#application">Application</a></li>
 				<li><a title="Documents" href="http://remotedesktopmanager.com/Home/Download#documents">Documents</a></li>
 			</ul>
-          
+         
         </li>
-        <li id="mm-buy">
+        <li class="hover" aria-haspopup="true" id="mm-buy">
         
-            <a href="http://remotedesktopmanager.com/Buy/StoreWizard">Buy</a>
+            <a href="http://remotedesktopmanager.com/Buy/Store">Buy</a>
              <ul>
                 <li><a href="http://remotedesktopmanager.com/Buy/Pricing">Price List</a></li>
                 <li><a href="http://remotedesktopmanager.com/Buy/Quote">Request Quote</a></li>
-                <li><a href="http://remotedesktopmanager.com/Buy/StoreWizard">Online Store</a></li>
+                <li><a href="http://remotedesktopmanager.com/Buy/Store">Online Store</a></li>
 				<li><a href="/Buy/ResellerList">Find a Reseller</a></li>
 				<li><a href="http://remotedesktopmanager.com/Support/FAQ">FAQ</a></li>
             </ul>
         
         </li>
-        <li id="mm-support"><a href="/Support">Support</a>
-		    
+        <li class="hover" aria-haspopup="true" id="mm-support"><a href="/Support">Support</a>
+            <ul>
+	    
+				<li><a href="http://forum.devolutions.net">Forum</a></li>
+        
+			</ul>
 		</li>
-		<li id="mm-contact"><a title="Contact" href="/Contact">Contact</a>
+		<li class="hover" aria-haspopup="true" id="mm-contact"><a title="Contact" href="/Contact">Contact</a>
 			<ul>
 				<li><a title="Information" href="/Contact">Information</a></li>
 				<li><a title="Leave a Message" href="/Contact#leaveamessage">Leave a Message</a></li>
 				<li><a title="Social Media" href="/Home/FollowUs">Social Media</a></li>
 			</ul>
 		</li>
+        
+				<li id="mm-lang"><a title="Français" href="http://fr.devolutions.net/Home/PrivacyPolicy">Français</a></li>
+        
+		
 	</ul>
 </div>
-        <div id="main">
-				
+        <div id="mainHolder">
+            <div id="main">
+                
+				    
+                
 
 <div class="contentHolder">
 <h3>Privacy Policy</h3>
@@ -226,9 +274,9 @@ All references to “Website” in this Privacy Policy mean devolutions.net.</p>
 		<td>Mail:</td>
 		<td>
 			Devolutions inc.<br>
-40 Des Jardins Street<br>
-Lavaltrie, Qc<br>
-J5T 1T7</td>
+            199, Rang du Golf<br>
+Lavaltrie, QC J5T 3C6<br>
+Canada</td>
 	</tr>
 </tbody></table>
 <p>We will respond to your request or investigate your concern as quickly as we can.</p>
@@ -244,23 +292,139 @@ J5T 1T7</td>
 </div>
 
 
+            </div>
+            <div id="submain">
+            
+            </div>
         </div>
-       
-<div id="SocialBar">
-    <ul>
-        <li id="forumButton"><a title="Visit our Forum" target="_blank" class="small forum" href="http://forum.devolutions.net/">Visit our Forum</a></li>
-        
-        <li id="facebookButton"><a target="_blank" title="Find us on Facebook" class="small facebook" href="http://facebook.devolutions.net/">Find us on Facebook</a></li>
-        <li id="linkedinButton"><a target="_blank" title="Follow us on LinkedIn" class="small linkedin" href="http://linkedin.devolutions.net/">Follow us on LinkedIn</a></li>
-        <li id="twitterButton"><a target="_blank" title="Find us on Twitter" class="small twitter" href="http://twitter.remotedesktopmanager.com/">Find us on Twitter</a></li>
-        <li id="youtubeButton"><a target="_blank" title="Find us on YouTube" class="small youtube" href="http://youtube.devolutions.net/">Find us on YouTube</a></li>
-        <li id="rssButton"><a target="_blank" title="Follow Remote Desktop Manager RSS feed" class="small rss" href="http://rss.remotedesktopmanager.com/">Follow Remote Desktop Manager RSS feed</a></li>
-        <li id="blogButton"><a target="_blank" title="Visit our Blog" class="small blog" href="http://blog.devolutions.net/">Visit our Blog</a></li>
-        <li id="gplusButton"><a target="_blank" title="Find us on Google+" class="small gplus" href="http://plus.devolutions.net/">Find us on Google+</a></li>
-        
-    </ul>
-</div>
 
+        
+
+        
+<script type="text/javascript">
+    $(document).ready(function () {
+        var i = 0;
+        $("#SocialBar").click(
+        function () {
+            $(this).width(i == 0 ? 392 : 24);
+            i = i == 0 ? 1 : 0;
+            loadSocialMediaButton();
+        }).hover(function () {
+            $(this).width(392);
+            loadSocialMediaButton();
+            i = 1;
+        }, function () {
+            $(this).width(24);
+            loadSocialMediaButton();
+            i = 0;
+        });
+    });
+    
+    
+    function loadSocialMediaButton() {
+        // auto-destruct
+        loadSocialMediaButton = Function("");
+        
+        // facebook
+        if ($(".fb-like").length > 0) {
+            if (typeof (FB) != 'undefined') {
+                FB.XFBML.parse();
+            } else {
+                $.getScript("http://connect.facebook.net/en_US/all.js#xfbml=1", function () {
+                    FB.init({ status: true, cookie: true, xfbml: true });
+                });
+            }
+        }
+
+        // Twitter 
+        if ($(".twitter-follow-button").length > 0) {
+            if (typeof (twttr) != 'undefined') {
+                twttr.widgets.load();
+            } else {
+                $.getScript('http://platform.twitter.com/widgets.js');
+            }
+        }
+
+        //Google plus
+        var gbuttons = $(".g-plusone");
+        if (gbuttons.length > 0) {
+            if (typeof (gapi) != 'undefined') {
+                gbuttons.each(function () {
+                    gapi.plusone.go($(this).get(0));
+                });
+            } else {
+                $.getScript('https://apis.google.com/js/plusone.js');
+            }
+        }
+
+        //Linked-in
+        if (typeof (IN) != 'undefined') {
+            IN.parse();
+        } else {
+            $.getScript("http://platform.linkedin.com/in.js");
+        }
+    }   
+    
+</script>
+
+<div id="fb-root"></div>
+    <ul id="SocialBar">
+        <li>
+            <span class="title" href="#">Follow us</span>
+            <ul>
+                <li id="facebookButton">
+                
+                    <a target="_blank" title="Find us on Facebook" class="facebook" href="http://facebook.devolutions.net/">Find us on Facebook</a>
+                    <div style="position: relative; right: -41px; top: -74px;" class="fb-like" data-href="https://www.facebook.com/devolutionsinc" data-layout="box_count" data-send="false" data-show-faces="false" data-width="63"></div>
+                
+                </li>
+                <li id="twitterButton">
+                
+                    <a target="_blank" title="Find us on Twitter" class="twitter" href="http://twitter.remotedesktopmanager.com/">Find us on Twitter</a>
+                    <a href="https://twitter.com/remotedeskman" class="twitter-follow-button" data-show-count="true" data-width="97px" data-lang="en" data-show-screen-name="false">Follow @remotedeskman</a>
+                
+                    <style type="text/css">
+                        #SocialBar .twitter-follow-button { position: absolute; right: 6px; bottom: 32px; }
+                    </style>
+                </li>
+                <li id="linkedinButton">
+                
+                    <a target="_blank" title="Follow us on LinkedIn" class="linkedin" href="http://linkedin.devolutions.net/">Follow us on LinkedIn</a>
+                
+                    <style type="text/css">
+                        #SocialBar .IN-widget { position: absolute; right: 10px; top: 16px; width: 83px; }
+                    </style>
+                    <script type="IN/FollowCompany" data-id="1533251" data-counter="top">
+                    </script>
+                </li>
+                <li id="youtubeButton">
+                
+                    <a target="_blank" title="Find us on YouTube" class="youtube" href="http://youtube.devolutions.net/">Find us on YouTube</a>
+                
+                </li>
+                <li id="forumButton"><a target="_blank" title="Visit our Forum" class="forum" href="http://forum.remotedesktopmanager.com/">Visit our Forum</a></li>
+                <li id="gplusButton">
+                    <style type="text/css">
+                        #SocialBar #___plusone_0, #SocialBar #___plusone_1, #SocialBar .g-plusone { position: absolute; right: 28px; top: 16px; }
+                    </style>
+
+                
+                    <a target="_blank" title="Find us on Google+" class="gplus" href="http://plus.devolutions.net/">Find us on Google+</a>
+
+                    <div class="g-plusone" data-href="http://devolutions.net/" data-size="tall">
+                        <a class="googleplus" href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fdevolutions.net" target="_blank" rel="nofollow">Google Plus</a>
+                    </div>
+                
+                </li>
+                <li id="blogButton"><a target="_blank" title="Visit our Blog" class="blog" href="http://blog.devolutions.net/">Visit our Blog</a></li>
+                <li id="rssButton">
+                
+                    <a target="_blank" title="Follow Remote Desktop Manager RSS feed" class="rss" href="http://rss.remotedesktopmanager.com/">Follow Remote Desktop Manager RSS feed</a>
+                
+                </li>
+            </ul>
+        </li>
+    </ul>
         <div id="ctl00_footerHolder" class="footerHolder">
 	
                 <div id="footer" class="footer">
@@ -269,6 +433,7 @@ J5T 1T7</td>
                         <a href="/Home">Home</a>
                         <ul>
                             <li><a target="_blank" href="http://download.devolutions.net/Documents/Product-Comparison-Guide.pdf">Product Comparison</a></li>
+                            <li><a href="http://remotedesktopmanager.com/Home/RequestDemo">Request Live Demo</a></li>
                             <li><a href="http://remotedesktopmanager.com">Remote Desktop Manager</a></li>
                             <li><a href="http://passwordvaultmanager.com">Password Vault Manager</a></li>
                             <li><a href="http://remotedesktopmanageronline.com">Remote Desktop Manager Online</a></li>
@@ -276,11 +441,11 @@ J5T 1T7</td>
                         </ul>
                     </li>
                     <li>
-                        <a href="http://remotedesktopmanager.com/Buy/StoreWizard">Buy</a>
+                        <a href="http://remotedesktopmanager.com/Buy/Store">Buy</a>
                         <ul>
                             <li><a href="http://remotedesktopmanager.com/Buy/Pricing">Price List</a></li>
-                            <li><a href="http://remotedesktopmanager.com/Buy/QuoteWizard">Request Quote</a></li>
-                            <li><a href="http://remotedesktopmanager.com/Buy/StoreWizard">Online Store</a></li>
+                            <li><a href="http://remotedesktopmanager.com/Buy/Quote">Request Quote</a></li>
+                            <li><a href="http://remotedesktopmanager.com/Buy/Store">Online Store</a></li>
 				            <li><a href="/Buy/ResellerList">Find a Reseller</a></li>
                             <li><a href="http://remotedesktopmanager.com/Support/FAQ">FAQ</a></li>
                         </ul>
@@ -336,25 +501,7 @@ J5T 1T7</td>
         
 </div>
     </div>
-    
     <script type="text/javascript">
-          
-        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");
-
-        (function () {
-            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-            po.src = 'https://apis.google.com/js/plusone.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-        })();
-
-        (function (d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-            fjs.parentNode.insertBefore(js, fjs);
-        } (document, 'script', 'facebook-jssdk'));
-
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-251198-6']);
         _gaq.push(['_setAllowLinker', true]);
@@ -367,12 +514,7 @@ J5T 1T7</td>
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
-
     </script>
-
-    <script src="http://www.google.com/jsapi" type="text/javascript"></script>
-    <script src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true" type="text/javascript"></script>
-    <script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
 
 
 </body></html>
