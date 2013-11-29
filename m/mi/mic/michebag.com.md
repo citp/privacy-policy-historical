@@ -1,51 +1,30 @@
-> *The following text is extracted and transformed from the michebag.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614204801id_/http%3A//www.michebag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michebag.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129095056id_/http%3A//www.michebag.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# The Official Miche Bag :: privacy policy
+# Privacy Policy
 
-[Home](https://web.archive.org/) » privacy policy
-
-**Miche, LLC, and its affiliated entities (referred to herein collectively as “Miche”, “we,” “us” and “our”) is committed to protecting your privacy as a user (“User”) of Miche’s website, http://www.miche.com (“Website”). ** As described below in this privacy policy (“Privacy Policy”), we go to great lengths to protect User information, and use the information we collect about Users to create profiles, to process product orders and to provide a more effective and personalized User experience on the Website.
+**Miche Bag Direct, LLC, and its affiliated entities (referred to herein collectively as “Miche”, “we,” “us” and “our”)** is committed to protecting your privacy as a user (“User”) of Miche’s website, http://www.michebag.com (“Website”). As described below in this privacy policy (“Privacy Policy”), we go to great lengths to protect User information, and use the information we collect about Users to create profiles, to process product orders and to provide a more effective and personalized User experience on the Website.
 
 **Information Collection.** Miche may collect two different types of information, Personally Identifiable Information (“PII”) and Non-Personally Identifiable Information (“Non-PII”). PII is information that identifies the User as an individual (e.g., name, address, telephone number, email address, credit card information, billing address and shipping information.) Non-PII is generic information that does not identify the User personally (e.g., IP addresses, demographic information, User behavior data from web interaction metrics tools and any other information that does not reveal a User’s personal identity.) Miche reserves the right to collect PII about any Website User. Miche may collect PII and Non-PII from other sources as well, including information provided directly to us through in-person discussions, telephone conversations and electronic or other written communications. Miche will use commercially reasonable efforts to treat both types of information with their due care and use such only as provided for in these Privacy Policies or as otherwise allowable, proper and deemed necessary by Miche in its reasonable discretion.
 
-**How We Use the Information We Collect.** When a User places a product order, for example, we need to know certain types of potentially sensitive PII (e.g., User’s name, email address, mailing address, phone number, credit card number and expiration.) We may use the information Users provide to us in a number of ways, including one or more of the following:  
+**How We Use the Information We Collect.** When a User places a product order, for example, we need to know certain types of potentially sensitive PII (e.g., User’s name, email address, mailing address, phone number, credit card number and expiration.) We may use the information Users provide to us in a number of ways, including one or more of the following:
 
-
-  
-
-  * Enforce Miche’s Terms and Conditions of Use; 
-  
-
-  * Create and verify a new User’s account profile; 
-  
-
-  * Process a submitted Agreement; 
-  
-
-  * Fulfill a product order; 
-  
-
-  * Provide User with information and customer service in response to User’s specific request or respond to any other User inquiries; 
-  
-
-  * Analyze selling trends and customer behavior; 
-  
-
-  * Provide User with information on Miche’s services, either on a personalized or aggregate basis; 
-  
-
-  * Improve the content, user interface and other features on the Website; OR 
-  
-
-  * Resolve disputes, prevent and detect fraud and otherwise help Miche to comply with applicable laws. 
+  * Enforce Miche’s Terms and Conditions of Use;
+  * Create and verify a new User’s account profile;
+  * Process a submitted Agreement;
+  * Fulfill a product order;
+  * Provide User with information and customer service in response to User’s specific request or respond to any other User inquiries;
+  * Analyze selling trends and customer behavior;
+  * Provide User with information on Miche’s services, either on a personalized or aggregate basis;
+  * Improve the content, user interface and other features on the Website; OR
+  * Resolve disputes, prevent and detect fraud and otherwise help Miche to comply with applicable laws.
 
 
 
-Note: Miche will not share PII about User with an unaffiliated third party who is not performing services for us without first obtaining User’s permission, except if such sharing is otherwise permitted by this Privacy Policy. We may also release information in good faith as permitted by contractual agreement, to our affiliates, third parties in connection with the provision of services to User, government entities and regulatory bodies, or those with whom Users have specifically requested us to share information.
+**Note:** Miche will not share PII about User with an unaffiliated third party who is not performing services for us without first obtaining User’s permission, except if such sharing is otherwise permitted by this Privacy Policy. We may also release information in good faith as permitted by contractual agreement, to our affiliates, third parties in connection with the provision of services to User, government entities and regulatory bodies, or those with whom Users have specifically requested us to share information.
 
 Miche requires third parties who perform services for us to agree to treat PII about User confidentially and securely.
 
-Notwithstanding any other provision of this Privacy Policy or the Terms and Conditions of Use to the contrary, we further reserve the right to disclose and use a User’s PII if we believe that we are required to do so: ( a ) by law; ( b ) in response to legal process, for example, in response to a court order or a subpoena; ( c ) in response to a law enforcement agency’s request; ( d ) to protect our business operations and Product distribution networks; ( e ) to protect the rights, privacy, safety or property of Miche, User or others; or ( f ) to permit us to pursue available remedies or limit the damages we may sustain. Because Non-PII does not personally identify User, we reserve the right to use Non-PII, and to disclose Non-PII to third parties, for any purpose deemed necessary and proper by Miche. Notwithstanding the foregoing, unless otherwise restricted by law, regulation, contract or professional standards, Miche may transfer PII about User outside of the United States to other countries for the purposes described in this Privacy Policy.
+Notwithstanding any other provision of this Privacy Policy or the Terms and Conditions of Use to the contrary, we further reserve the right to disclose and use a User’s PII if we believe that we are required to do so: ( a ) by law; ( b ) in response to legal process, for example, in response to a court order or a subpoena; ( c ) in response to a law enforcement agency’s request; ( d ) to protect our business operations and Product distribution networks; ( e ) to protect the rights, privacy, safety or property of Miche, User or others; or ( f ) to permit us to pursue available remedies or limit the damages we may sustain. Because Non-PII does not personally identify User, we reserve the right to use Non-PII, and to disclose Non-PII to third parties, for any purpose deemed necessary and proper by Miche. Notwithstanding the foregoing, unless otherwise restricted by law, regulation, contract or professional standards, Miche may transfer PII about User outside of the United States to other countries for the purposes described in this Privacy Policy.
 
 NOTE THAT EXCEPT AS OTHERWISE EXPRESSLY STATED HEREIN, THIS PRIVACY POLICY DOES NOT ADDRESS THE PRIVACY PRACTICES OR POLICIES OF THIRD PARTIES, INCLUDING WITHOUT LIMITATION, INDEPENDENT MICHE REPRESENTATIVES.
 
@@ -71,6 +50,6 @@ NOTE THAT EXCEPT AS OTHERWISE EXPRESSLY STATED HEREIN, THIS PRIVACY POLICY DOES 
 
 **Contact Us.** If there are questions regarding this Privacy Policy, User may contact us by using the information below. Under California Civil Code Section 1789.3, California Users are entitled to the following consumer rights notice:
 
-If you have a question or complaint regarding the Website, please send an email to: support@miche.com. User may also contact us by writing to Miche, LLC 10808 South River Front Parkway, Suite #150, South Jordan, Utah 84095, Attn: Miche Public Affairs, or by calling Miche’s corporate offices at: 801-566-4243. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by mail at: 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at: 916.445.1254 or 800.952.5210.
+If you have a question or complaint regarding the Website, please send an email to: [support@miche.com](mailto:support@miche.com). User may also contact us by writing to Miche Bag Direct, LLC 10808 South River Front Parkway, Suite #150, South Jordan, Utah 84095, Attn: Miche Public Affairs, or by calling Miche’s corporate offices at: 801-566-4243. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by mail at: 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at: 916.445.1254 or 800.952.5210.
 
 **Effective Date.** The Privacy Policy was last modified on January 31, 2012.
