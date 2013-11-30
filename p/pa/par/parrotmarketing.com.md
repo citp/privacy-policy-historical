@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parrotmarketing.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529102424id_/http%3A//www.parrotmarketing.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parrotmarketing.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130233410id_/http%3A//parrotmarketing.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Parrot Marketing - The chirp in effective online marketing
 
