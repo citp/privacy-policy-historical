@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoretelsky.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601151752id_/http%3A//www.shoretelsky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoretelsky.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130092222id_/http%3A//www.shoretelsky.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ShoreTel Sky
 
@@ -65,3 +65,5 @@ If you have any questions about our Privacy Policy, please e-mail us at [skyinf
 #### The effective date of the privacy policy
 
 This policy has been in effect since June 1, 2005.
+
+[__Print](http://www.printfriendly.com/)
