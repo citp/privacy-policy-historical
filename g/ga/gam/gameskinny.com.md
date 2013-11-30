@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the gameskinny.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624035433id_/http%3A//www.gameskinny.com/375/privacy-policy-375) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameskinny.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130055643id_/http%3A//www.gameskinny.com/375/privacy-policy-375) for the most accurate reproduction.*
 
-# privacy-policy
+# Privacy Policy
 
-  * #### Privacy Policy
-
-The GameSkinny website http://www.gameskinny.com/ is maintained by Guild Launch, LLC. Protecting your privacy is important to Guild Launch, LLC, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically.
+  * The GameSkinny website http://www.gameskinny.com/ is maintained by Guild Launch, LLC. Protecting your privacy is important to Guild Launch, LLC, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically.
 
 When accessing our Website, Guild Launch, LLC will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
