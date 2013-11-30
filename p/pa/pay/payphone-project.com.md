@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the payphone-project.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602075420id_/http%3A//payphone-project.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payphone-project.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130081324id_/http%3A//www.payphone-project.com/privacy.html) for the most accurate reproduction.*
 
 # Payphone Project: Telephone Booths & Payphones from around the world
-
-| 
 
 Privacy Policy for www.payphone-project.com 
 
@@ -37,14 +35,3 @@ www.payphone-project.com has no access to or control over these cookies that are
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.payphone-project.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
-
-| 
-
-Since 1990, VoiceNation Live has set the standard of excellence in a professional [**answering service**](http://www.qualityansweringservice.com/), enabling businesses of all sizes to compete in the marketplace with 24 hour availability that adapts to any situation. 
-
-Learn more at [**VoiceNation Live**](http://www.qualityansweringservice.com/services). 
-
-**Random Payphone Pictures from[PayphonePictures.com](http://payphonepictures.com/)**
-
-**Other Picture Products and Useful Projects from Sorabji.com**  
-I've been making web sites for a long time. Here are links to some of my other ongoing projects.
