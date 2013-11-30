@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dreamhoroscope.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521090041id_/http%3A//dreamhoroscope.com/Privacy-Policy/1_186_menu%3D6_object%3D527.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhoroscope.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130212722id_/http%3A//dreamhoroscope.com/Privacy-Policy/1_186_menu%3D2_object%3D354.aspx) for the most accurate reproduction.*
 
-# Home | Dream Horoscope
+# Privacy Policy | Dream Horoscope
 
-February 12th 2010
+ February 12th 2010
 
 Thank you for visiting the dreamhoroscope.com website located at dreamhoroscope.com (the "Website", "we", "us"). We provide this notice in an effort to explain our online information practices and the choices available to you concerning the way that we use the information collected online at this Website.
 
@@ -29,11 +29,11 @@ We do not endorse, nor are we responsible for the accuracy of, the privacy polic
 
    Your Choices
 
-During registration and/or when you submit personally identifiable information to us at the Website, you have opted-in to request that we share your personal information with third parties to receive marketing communications. However, your email address will only be shared with our mailing partner, ExpressSender.com. When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use and sharing of your information. To opt-out from receiving any additional email communications regarding this website, [http://dreamhoroscope.com/Contact-Us/3_0_menu=7.aspx](https://web.archive.org/Contact-Us/3_0_menu=7.aspx) .
+During registration and/or when you submit personally identifiable information to us at the Website, you have opted-in to request that we share your personal information with third parties to receive marketing communications. However, your email address will only be shared with our mailing partner, ExpressSender.com. When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use and sharing of your information. To opt-out from receiving any additional email communications regarding this website, [http://dreamhoroscope.com/Contact-Us/3_0_menu=7.aspx](https://web.archive.org/Contact-Us/3_0_menu=7.aspx) .
 
 Some of the services that we provide will result in sending an SMS, wireless or other mobile offering to your cell phone. By signing up, you are agreeing to receive these mobile offerings. You understand that your wireless carrier's standard rates apply to these messages. To unsubscribe or discontinue SMS messages, send "STOP", "END", "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering. This will not affect offerings sent on behalf of third parties.
 
-Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to <http://www.privacychoice.org/choose>
+Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to <http://www.privacychoice.org/choose>
 
   SMS, Wireless and Other Mobile Offerings
 
@@ -68,6 +68,6 @@ By using the Website and/or agreeing to receive information via e-mail from us, 
 
   Contact Us
 
-If you have any questions regarding this statement, or would like more information on our privacy practices, please contact us at [http://dreamhoroscope.com/Contact-Us/3_0_menu=7.aspx](https://web.archive.org/Contact-Us/3_0_menu=7.aspx)
+If you have any questions regarding this statement, or would like more information on our privacy practices, please contact us at [http://dreamhoroscope.com/Contact-Us/3_0_menu=7.aspx](https://web.archive.org/Contact-Us/3_0_menu=7.aspx)
 
   Copyright © 2010 dreamhoroscope.com - All Rights Reserved. For Entertainment Purposes Only.
