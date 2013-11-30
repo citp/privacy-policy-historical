@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moosend.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601095353id_/http%3A//www.moosend.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moosend.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201005021id_/http%3A//www.moosend.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Moosend
 
@@ -64,4 +64,4 @@ Our Privacy Policy may change from time to time. If Justdot Ltd. does change thi
 
 ### Contact Justdot Ltd. About Privacy
 
-If you have any questions about our Privacy Policy, the information we will collect from you online, our practices on this site, or any other issue regarding your dealings with this website, please contact us at: Justdot Ltd., P.O. Box 27978, 2434, 25 March Street, Suite No 101, Nicosia, Engomi, Cyprus or email us at [hello@moosend.com](mailto:hello@moosend.com)
+If you have any questions about our Privacy Policy, the information we will collect from you online, our practices on this site, or any other issue regarding your dealings with this website, please contact us at: Justdot Ltd., 15b, The Stables, Newby Hall, Ripon, England, P.O. Box HG4 5AE, United Kingdom or email us at [hello@moosend.com](mailto:hello@moosend.com)
