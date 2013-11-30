@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chapman.edu privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610061917id_/http%3A//chapman.edu/campus-services/information-systems/security/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chapman.edu privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130092340id_/http%3A//chapman.edu/campus-services/information-systems/security/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Chapman University
 
