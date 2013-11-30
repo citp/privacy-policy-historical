@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the policeauctions.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516224007id_/http%3A//www.policeauctions.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policeauctions.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130075051id_/http%3A//www.policeauctions.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Here are important FAQs on PoliceAuctions.com and the information the site collects**.
 
-PoliceAuctions.com, published by privately held Vortal Group, Inc., is an online directory of government and non-government auctions. The information we gather cannot be used by the public, including visitors, other members, or anyone not employed by Vortal Group, Inc. or the financial institutions used to process membership charges, to identify specific individuals. 
+PoliceAuctions.com is an online directory of government and non-government auctions. The information we gather cannot be used by the public, including visitors, other members, or anyone not employed by PoliceAuctions.com or the financial institutions used to process membership charges, to identify specific individuals. 
 
 We collect credit card, address, or bank information only from those who choose to join the service at the paid subscription level. 
 
@@ -38,13 +38,13 @@ PoliceAuctions.com's Affiliate program allows other sites to link to the PoliceA
 
 **User information that's Public:** Public information supplied by the user may at the user's discretion be viewed by visitors to the site. Visitors use this information for correspondence purposes. A user's public information cannot be used to identify a specific member by name, address, or other criteria.  
 **  
-User information that's Private:** User's email addresses submitted by members are primarily used to verify registration. Users' email addresses are not disclosed to other members unless the user gives permission to do so through his user settings. Vortal Group, Inc.also uses a user's email address to send news and updates of functionality of PoliceAuctions.com. Vortal Group, Inc. also uses a user's email address to send them content and offers from other sites that Vortal Group, Inc. publishes. The user may choose not to receive email of this type by using the opt-out link included in any such email.
+User information that's Private:** User's email addresses submitted by members are primarily used to verify registration. Users' email addresses are not disclosed to other members unless the user gives permission to do so through his user settings. PoliceAuctions.comalso uses a user's email address to send news and updates of functionality of PoliceAuctions.com. PoliceAuctions.com also uses a user's email address to send them content and offers from other sites that PoliceAuctions.com publishes. The user may choose not to receive email of this type by using the opt-out link included in any such email.
 
-Vortal Group, Inc. may also use user's email addresses for private correspondence with the user for customer service issues. User Financial information collected by PoliceAuctions.com is used to bill the user for products and services. Any other private information submitted by the user is confidential and will not be disclosed except as required by law. All of user's private information can be updated or deleted by the user at any time.
+PoliceAuctions.com may also use user's email addresses for private correspondence with the user for customer service issues. User Financial information collected by PoliceAuctions.com is used to bill the user for products and services. Any other private information submitted by the user is confidential and will not be disclosed except as required by law. All of user's private information can be updated or deleted by the user at any time.
 
 **Does PoliceAuctions.com share your information?**
 
-**Vortal Group, Inc. does not sell, rent, share, trade or give away any of your private information to any outside parties, except to the financial institution that processes your credit card or check transaction unless required by law or for the protection of your membership. It is the policy of PoliceAuctions.com to cooperate with all law enforcement investigations, which includes disclosing all user info, both public and private, to any law enforcement agency.**
+**PoliceAuctions.com does not sell, rent, share, trade or give away any of your private information to any outside parties, except to the financial institution that processes your credit card or check transaction unless required by law or for the protection of your membership. It is the policy of PoliceAuctions.com to cooperate with all law enforcement investigations, which includes disclosing all user info, both public and private, to any law enforcement agency.**
 
 **What about links?**
 
