@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportchalet.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628211800id_/http%3A//www.sportchalet.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportchalet.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130011405id_/http%3A//www.sportchalet.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy-Customer Service - Sport Chalet
 
