@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mybigcampus.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601101336id_/http%3A//mybigcampus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybigcampus.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130105625id_/http%3A//www.mybigcampus.com/privacy-policy) for the most accurate reproduction.*
 
-# My Big Campus Privacy Policy
+# My Big Campus Privacy Policy – My Big Campus
 
 The following privacy policy applies to personal data collected at [www.lightspeedsystems.com](http://www.lightspeedsystems.com/) , [www.mybigcampus.com](http://www.mybigcampus.com/) , or [www.mybigcampus.co.uk](http://www.mybigcampus.co.uk/) . Lightspeed Systems Inc. and its affiliates (collectively "Lightspeed Systems") are committed to the security and protecting the privacy of its users. Because Lightspeed Systems gathers certain types of information about the users of the Services, we believe you should fully understand the terms and conditions surrounding the use of the information we collect. The following discloses our information gathering and dissemination practices for the Services.  If you are using any of the Services through an educational or other institution that is a customer of Lightspeed Systems, this policy does not supersede the terms of any agreements between Lightspeed Systems and any other party, nor does it affect the terms of any agreement between any user of the Services and their employer, their educational institution or any third party.  Please make sure that you read the terms of any privacy policies that you enter into with parties other than Lightspeed Systems, including your employer or educational institution, as those policies may also explain how your personal information is used by those parties. If you are accessing Lightspeed through a third-party, public or unsecured internet provider, please be advised that any information you disclose or publish during the course of such access may be collected by any such provider and that Lightspeed Systems has no control and makes no representation as to the possible use of this information by any such provider. 
 
@@ -20,7 +20,7 @@ Lightspeed Systems gathers information about all users collectively, such as wha
 
 * **Student Safety**
 
-Lightspeed Systems, makers of My Big Campus, complies with the Children’s Online Privacy Protection Act (COPPA, see [www.ftc.gov/privacy/coppafaqs](https://web.archive.org/web/20130601101336id_/http%3A//mybigcampus.com/www.ftc.gov/privacy/coppafaqs) ) to insure the online safety of children. Student accounts on My Big Campus are provided only through a verified educator, school, or educational organization. Educators should obtain parental permission before issuing accounts to students. 
+Lightspeed Systems, makers of My Big Campus, complies with the Children’s Online Privacy Protection Act (COPPA, see [www.ftc.gov/privacy/coppafaqs](http://www.ftc.gov/privacy/coppafaqs) ) to insure the online safety of children. Student accounts on My Big Campus are provided only through a verified educator, school, or educational organization. Educators should obtain parental permission before issuing accounts to students. 
 
 We meet the following guidelines listed below and agree to:
 
@@ -50,7 +50,7 @@ Users may opt out of receiving future promotional electronic mailings from Light
 
 * **Access to Your Information**
 
-Lightspeed Systems offers users the ability to correct or change the information collected during registration. Users may change this information at any time and as often as necessary by choosing the "edit account information" option or other similar functionality offered in the Services.  To access or change your personal information, log in to your account through the Services.  For data not available through such an account, please contact us at the address listed below.
+Lightspeed Systems offers users the ability to correct or change the information collected during registration. Users may change this information at any time and as often as necessary by choosing the edit account information option or other similar functionality offered in the Services.  To access or change your personal information, log in to your account through the Services.  For data not available through such an account, please contact us at the address listed below.
 
 * **Security**
 
@@ -83,6 +83,6 @@ Lightspeed Systems Inc.
 1800 19th Street   
 Bakersfield, CA 93301 
 
-In the event that you are concerned about how data you have provided Lightspeed Systems through the Services has been used, please contact us at one of the addresses listed above. Lightspeed Systems takes all concerns about privacy and use of data very seriously, and shall endeavor to reply to you within two business days to commence its investigation of your concerns. 
+In the event that you are concerned about how data you have provided Lightspeed Systems through the Services has been used, please contact us at one of the addresses listed above. Lightspeed Systems takes all concerns about privacy and use of data very seriously, and shall endeavor to reply to you within two business days to commence its investigation of your concerns.
 
 We self-certify compliance with
