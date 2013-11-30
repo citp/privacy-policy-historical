@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kitchenstewardship.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606075444id_/http%3A//www.kitchenstewardship.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchenstewardship.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130075937id_/http%3A//www.kitchenstewardship.com/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kitchen Stewardship | A Baby Steps Approach to Balanced Nutrition
 
-This Privacy Policy governs the manner in which Kitchen Stewardship, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.kitchenstewardship.com](https://web.archive.org/web/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Kitchen Stewardship, LLC.
+This Privacy Policy governs the manner in which Kitchen Stewardship, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.kitchenstewardship.com](https://web.archive.org/web/20131130075937id_/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Kitchen Stewardship, LLC.
 
 **Personal identification information**
 
-We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identifiable information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, purchase a product, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identifiable information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
@@ -14,11 +14,11 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. A number of affiliate programs will track the performance of advertising efforts using a cookie, but no personally identifiable information is collected in that process. User may choose to set their web browser to refuse cookies, or to alert when cookies are being sent. Note that some parts of the Site may not function properly if a computer does not accept cookies.
 
 **How we use collected information**
 
-Kitchen Stewardship, LLC collects and uses Users personal information for the following purposes:
+Kitchen Stewardship, LLC collects and uses Users’ personal information for the following purposes:
 
   * _\- To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -27,9 +27,9 @@ Your information helps us to more effectively respond to your customer service r
   * _\- To process transactions_  
 We may use the information Users provide about themselves when placing an order to provide service to that order, including ebook updates, and also special offers that may be of interest to you. We do not share this information with outside parties except to the extent necessary to provide the service.
   * _\- To administer a content, promotion, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them. When you enter a giveaway, we will use the list of emails to send one email announcing the winner or directing entrants to the site to view the winner. It is highly unlikely that I would ever use that list for anything else, but possible.
+To send Users information they agreed to receive about topics we think will be of interest to them. When you enter a giveaway, we will use the list of emails to send one email announcing the winner or directing entrants to the site to view the winner. It is highly unlikely that we would ever use that list for anything else, but possible.
   * _\- To send periodic emails_  
-The email address Users provide for order processing, will be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions, and will be part of the customer list, which may be used to pass on items of interest to ebook owners. If User decides to opt-in to our mailing list, they will receive emails that may include daily blog posts, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+The email address Users provide for order processing will be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions, and will be part of the customer list, which may be used to pass on items of interest to ebook owners. If User decides to opt-in to our mailing list, they will receive emails that may include daily blog posts, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
@@ -44,6 +44,8 @@ We do not sell, trade, or rent Users personal identification information to othe
 **Third party websites**
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+Kitchen Stewardship participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
 **Advertising**
 
@@ -64,11 +66,11 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Kitchen Stewardship, LLC](https://web.archive.org/web/)  
-[http://www.kitchenstewardship.com](https://web.archive.org/web/)  
+[Kitchen Stewardship, LLC](https://web.archive.org/web/20131130075937id_/)  
+[http://www.kitchenstewardship.com](https://web.archive.org/web/20131130075937id_/)  
 Katie Kimball Kitchen Stewardship, LLC  
 kitchenstew@gmail.com
 
-This document was last updated on March 12, 2011
+This document was last updated on November 19, 2013.
 
 Privacy policy created by [Generate Privacy Policy](http://www.generateprivacypolicy.com/)
