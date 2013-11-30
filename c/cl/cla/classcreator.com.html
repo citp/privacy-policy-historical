@@ -1,221 +1,680 @@
-<!--The following is the downloaded HTML source of the classcreator.com privacy policy that was archived on 2013-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130524195212id_/http%3A//www.classcreator.com/privacy-policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the classcreator.com privacy policy that was archived on 2013-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131130130402id_/http%3A//www.classcreator.com/privacy-policy.cfm) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html><html lang="en"><head>
+
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=51638,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=51638&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131130130402id_%2Fhttp%253A%2F%2Fwww.classcreator.com%2Fprivacy-policy.cfm&amp;r=0.9270965191854139" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+
+
+<title>Class Creator Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Description" content="Privacy and security of your personal information is Class Creator's top priority. Learn how we protect your data.">
+<meta name="Keywords" content="high school, class reunion, web site, website, class web site, class of">
+<meta name="dcterms.audience" content="Global">
+<meta name="Robots" content="INDEX,FOLLOW">
+<meta property="og:title" content="Class Creator Privacy Policy">
+<meta property="og:image" content="http://www.classcreator.com/templates/assets/images/logo.png">
+<meta property="og:description" content="Privacy and security of your personal information is Class Creator's top priority. Learn how we protect your data.">
+
+
+
+<script type="text/javascript" src="//www.classcreator.com/templates/assets/js/jquery-1.8.2.min.js"></script>
+
+
+
+<script type="text/javascript" src="//www.classcreator.com/templates/assets/plugins/jquery-ui-1.9.2.custom/js/jquery-ui-1.9.2.custom.min.js"></script>
+
+<script type="text/javascript" src="//www.classcreator.com/templates/assets/plugins/apprise-v2/apprise-v2.min.js"></script>
+<script type="text/javascript">
+
+var ajaxSchoolSearch;
+
+$(document).ready(function() {
+	init();
+	initAssets();
+});
+
+function init() {
+
+	$("#school_name").unbind("keyup").bind("keyup", function(event) {
+		abortAjax(ajaxSchoolSearch);
+		$obj = $(this);
+		var id = $obj.attr("id");
+		ajaxSchoolSearch = $.get(
+			"/class_search.cfc?method=gee_wiz&scissor="+now_()
+			,{
+				school_name : $("#school_name").val()
+				,quickfind_type : $("#quickfind_type").val()
+			}
+			,function(data) {
+				$(".school_list_scroller").html(data);
+				if (data.length > 0) {
+					$(".school_list").show();
+				} else {
+					$(".school_list").hide();
+				}
+			}
+		);
+	});
+
+
+	$('.school_add').unbind('click').bind('click', function() {
+		$('.school_list').hide();
+		location.href = 'wizard00.cfm';
+	});
+
+
+
+	$('.highlightBar .tab a, .btn_allfeatures').unbind('click').bind('click', function() {
+		$('.highlightBar .tab a').removeClass('selected');
+		$('.highlightContent').not($('.' + $(this).attr('rel'))).hide();
+		$(this).addClass('selected');
+		$('.' + $(this).attr('rel')).show();
+		
+		if ($(this).hasClass('btn_allfeatures')) {
+			$('.allfeatures a').addClass('selected');
+		}
+	});
+	
+	$('.formWrapper').unbind('click').bind('click', function() {
+		$('.formWrapper').not($(this)).removeClass('formWrapperBorder').find('.contactFormBody').slideUp(500);
+		$(this).addClass('formWrapperBorder').find('.contactFormBody').slideDown(500);
+	});
+	
+	$('.forumWrapper').unbind('click').bind('click', function() {
+		location.href = 'http://forums.classcreator.com/';
+	});
+	
+	
+	resetLogin();	
+}
+
+function initAssets() {
+
+	$("#vid").unbind("click").bind("click", function() {
+		$(".dialog").fadeIn("slow");
+		if (player) player.playVideo();
+	});
+	$(".close").unbind("click").bind("click", function() {
+		$(".dialog").hide();
+		player.pauseVideo();
+	});
+
+	$(".form-field").each(function() {
+		if ($(this).val() != $(this).attr("title") ) {
+			$(this).removeClass("faded")
+		} else {
+			$(this).addClass("faded");
+			$(this).val($(this).attr("title"));
+		}
+	});
+	
+	$(".form-field").focus(function() {
+		if ($(this).val() == $(this).attr("title") ) {
+			$(this).val("");
+			$(this).removeClass("faded")
+		}
+	});
+	$(".form-field").blur(function() {
+		if ($(this).val() == "" || $(this).val() == $(this).attr("title") ) {
+			$(this).val( $(this).attr("title") );
+			$(this).addClass("faded");
+		}
+	});
+
+}
+	
+function photoScroller($obj, dir) {
+	if (isScrolling) {
+		return;
+	}
+	isScrolling = true;
+	var p = $obj.closest('div');
+	var e = $('.scroller', p);
+	var e1 = e.find('.photosScrollerInner');
+	var e2 = $('.photosSubImage', p);
+	var pad = e2.css('margin-right').replace('px', '');
+	if (isNaN(pad) || pad == '0') {
+		pad = e2.css('margin-left').replace('px', '');
+	}
+	pad = 44;
+	// pad = pad * 2;
+	var w1 = ((e.width() * 1) + pad);
+	if ( dir == 1 ) {
+		var l = (e1.css('left').replace('px', '') * 1) - w1;
+		l = (l < ((w1 + pad) - e1.width()))?(w1 - pad) - e1.width():l;
+	} else {
+		var l = (e1.css('left').replace('px', '') * 1) + w1;	
+		l = (l > 0) ? 0 : l;	
+	}
+	var duration = 1000;
+	
+	// animate the e1
+	e1.animate({ left:l + "px" }, duration, "swing", function() {
+		// $(document).oneTime(1000, function(i) {
+			// animator($("#scroller"));
+		// });
+		isScrolling = false;
+		if (l >= 0) {
+			$('.photosScrollLeft', p).hide();
+		} else {
+			$('.photosScrollLeft', p).show();
+		}
+		if (l <= (w1 - e1.width()) ) {
+			$('.photosScrollRight', p).hide();
+		} else {
+			$('.photosScrollRight', p).show();
+		}
+	});
+}
+
+
+function openDialog(t, u, w, h) {
+	w = 960;
+	h = 540;
+	t = (t)?t:'';
+	$('#dialog').dialog("option", "title", t);
+	$('#dialog').dialog("option", "width", w);
+	//$('#dialog').dialog("option", "maxHeight", 600);
+	$('#dialog').dialog("option", "height", h);
+
+	//$('#dialog').html('<div class="status msg-loading">Loading ...</div>');
+	$('#dialog').dialog('open');
+	
+	if (u) {
+		$.get('/dialog/' + u , function(data){
+			$('#dialog').html('<div style="max-height:400px;overflow:hidden;overflow-y:auto;">' + data + '</div>');
+			$('#dialog').dialog('close');
+			$('#dialog').dialog('open');
+			if ($('#s').val()) {
+				initAssets();
+				initAssets1();
+			}
+		});
+	}
+	//return false;		
+}
+
+function openDialogContent(t, c, w, h) {
+	w = (w)?w:400;
+	$('#dialog').dialog("option", "title", t);
+	$('#dialog').dialog("option", "width", w);
+	// $('#dialog').dialog("option", "maxHeight", 800);
+	// $('#dialog').dialog("option", "height", 400);
+
+	$('#dialog').html('<div class="status msg-loading">Loading ...</div>');
+	$('#dialog').dialog('open');
+	$('#dialog').html(c);
+	initAssets();
+	initAssets1();
+	// return false;		
+}
+
+function closeDialog() {
+	$('#dialog').dialog('close');
+}
+
+function getChecked(n) {
+	var arr = [];
+	$('input[name="' + n + '"]:checked').each(function() {
+		arr.push($(this).val());
+	});
+	return arr.toString();
+}
+
+function postJSON(url, data, status, callback) {
+	$.ajax({
+		url: url,
+		dataType: 'json',
+		type: 'POST',
+		data: data,
+		success: function(data, textStatus, XMLHttpRequest) {
+			showStatus(status, data.error, (data.valid)?'ok':'error');
+			if (data.valid && callback) {
+				callback();
+			}
+		},
+		error: function(XMLHttpRequest, textStatus, errorThrown) {
+			showStatus(status, 'Error while contacting server: ' + errorThrown, 'error');
+		}
+	});
+}
+
+function getVal(f) {
+	var $obj = $('#' + f);
+	if ($obj.hasClass('form-field')) {
+		return ( ($obj.val() != $obj.attr('title'))?($obj.val()):('') );
+	} else {
+		return $obj.val();
+	}
+}
+
+function showStatus(id, msg, css) {
+	if (!css) {
+		css = 'loading';
+	}
+	$('#' + id).removeClass('msg-alert msg-error msg-info msg-ok msg-loading msg-form-alert msg-form-error msg-form-info msg-form-ok msg-form-loading').addClass('msg-' + css).html(msg).show();
+	if (css == 'ok') {
+		setTimeout(function() { $('#' + id).fadeOut('slow'); }, 2000);
+	}
+}
+
+function hideStatus(id) {
+	$('#' + id).hide();
+}
+
+function appendCommentImage(image, image_sm, img) {
+	$('#comment_image_img').html(img);
+	$('#comment_image').val(image);
+	$('#comment_image_sm').val(image_sm);
+	initAssets1();
+}
+
+function resetLogin() {
+	if (bi("school_name'")) {
+		$('#school_name').val($('#school_name').attr('title')).addClass('faded');
+	}
+}
+
+
+
+function abortAjax(a) {
+	if (a) {
+		a.abort();
+	}
+}
+
+function confirmAction(q, f1, f2) {
+	var opt = { 
+		animation: 200,
+		buttons: { 
+			confirm: { text: 'Ok', className: 'blue', action: function(e) { 
+				Apprise('close');
+				if (f1) f1(); 
+				} 
+			}
+
+		}
+	};	
+	Apprise(q, opt);	
+}
+
+function no_classes() {
+	if (confirm("Sorry, there are currently no class sites at this school. Click OK if you'd like to create one now.")) {
+		location.href = "wizard00.cfm";
+	}
+}
+
+function createDropDown(source) {
+	var $source = $("#"+source);
+	var target = source+"_dd";
+	$source.hide();
+	var selected = $source.find("option[selected]");
+	var options = $("option",$source);
+
+	$source.after('<dl id="' + target + '" class="dropdown"></dl>');
+	$("#"+target).append('<dt><a href="javascript:/* ' + selected.text().replace(/\"/g,'') + ' */">' + selected.text() + '<span class="value">' + selected.val() + '</span></a></dt>');
+	$("#"+target).append('<dd><ul></ul></dd>');
+
+	options.each(function(){
+		$('#'+target + ' dd ul').append('<li><a href="javascript:/* ' + $(this).text().replace(/\"/g,'') + ' */">' + $(this).text() + '<span class="value">' + $(this).val() + '</span></a></li>');
+	});
+
+	$("#"+target + " dt a").click(function() {
+		$("#"+target + " dd ul").toggle();
+	});
+
+	$(document).unbind("click").bind("click", function(e) {
+		var $clicked = $(e.target);
+		if (! $clicked.parents().hasClass("dropdown") ) {
+			$(".dropdown dd ul").hide();
+		}
+	});
+
+	$("#"+target + " dd ul li a").click(function() {
+		var text = $(this).html();
+		$("#"+target + " dt a").html(text);
+		$("#"+target + " dd ul").hide();
+		$source.val( $(this).find("span.value").html() )
+		if (window.clickDropDown) {
+			clickDropDown(source,$source.val());
+		}
+	});
+}
+
+</script>
 
 <script type="text/javascript">
 document.write('<sc'+'ript ');
 document.write('type="text/javascript" ');
-document.write('src="/000.js?v=23">');
+document.write('src="/000.js?v=25">');
 document.write('</sc'+'ript>');
-</script><script type="text/javascript" src="/000.js?v=23"></script>
+</script><script type="text/javascript" src="/000.js?v=25"></script>
 
-<script language="javascript" src="/templates/js/jquery-1.4.2.min.js"></script>
-<script src="/new/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-<link href="/new/high-school.css" rel="stylesheet" type="text/css">
+<link href="//www.classcreator.com/templates/assets/plugins/apprise-v2/apprise-v2.min.css" rel="stylesheet" type="text/css">
+
+	<link href="//www.classcreator.com/wizard_default.css" rel="stylesheet" type="text/css">
+	<link href="//www.classcreator.com/wizard_interior.css" rel="stylesheet" type="text/css">
+
+<link href="/privacy-policy.css" rel="stylesheet" type="text/css">
 
 
 <style type="text/css">
-#followTab{
-	position: fixed;
+.contentExamplesSiteWrapper {
+	position: relative;
+	overflow:visible;
+	z-index:1;
 }
-* html #followTab{
-	position: absolute;  
+.contentExamplesSiteWrapper .b {
+	white-space:nowrap;
+	width:288px;
+	height:19px;
+	overflow:hidden;
+	font-weight:bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.9em;
+	margin: 6px 0px 0px 0px;
+	font-style: normal;
+	display: block;
+}
+.contentExamplesSite {
+	position: relative;
+	overflow:visible;
+	z-index:1;
+}
+
+.contentExamplesSitePopup {
+	width:256px;
+	max-height:70px;
+	overflow:hidden;
+	overflow-y:auto;
+	padding:10px;
+	bottom:26px;
+	left:5px;
+	position: absolute;
+	display: none; /* keeps the popup hidden if no JS available */
+	font-size:12px;
+	font-weight:normal;
+	font-family:Arial;
+	color:#555;
+	border:1px solid #444;
+	background:#fafafa;
+	-webkit-box-shadow: 0 4px 3px -3px #555;
+	-moz-box-shadow: 0 4px 3px -3px #555;
+	box-shadow: 0 4px 3px -3px #555;
+	z-index:2;
+}
+
+.contentExamplesSitePopup a {
+	height:auto;
+	font-weight:normal;
+	padding:0;
+	color:#777;
+}
+.contentExamplesSiteWrapper .comment {
+	display:block;
+	position:absolute;
+	width:25px;
+	height:16px;
+	right:93px;
+	bottom:-24px;
+	z-index:3;
+}
+#Image1, #chalkboard {
+	border:0;
+}
+#slidesContainer{
+	overflow:hidden !important;	
 }
 </style>
 
-<title>Class Reunion Web Site Creator</title>
-<meta name="description" content="Plan class reunions easily with Class Creator">
-<script type="text/javascript" async="" src="https://web.archive.org/web/20101212030149/https://ssl.google-analytics.com/ga.js"></script></head>
 
-
-	<body bgcolor="#7D2716" background="/Graphics/classywood.jpg" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('Graphics/createsiteon.gif','Graphics/nav/about-on.jpg','Graphics/nav/contact-on.jpg','Graphics/nav/faqs-on.jpg','Graphics/nav/locate-on.jpg','Graphics/nav/share-on.jpg','Graphics/nav/help-on.jpg','Graphics/nav/create-on.jpg','Graphics/nav/home-on.jpg','Graphics/nav/pricing-on.jpg')">
-	<script type="text/javascript" src="/templates/js/rick_google.js"></script> 
-<div align="center">
-<table width="919" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-    	<td>
-			<div align="center">
-			<table width="919" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" background="/Graphics/corkboard.jpg" bgcolor="#9A5937" class="bordertwo">
-				<tbody><tr>
-					<td>
-						<table width="911" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td><img src="/Graphics/plan-class-reunion.jpg" alt="" width="911" height="214" border="0"></td>
-							</tr>
-							<tr>
-								<td>
-									<table width="100%" border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td><a href="http://www.classcreator.com/about.cfm"><img src="/Graphics/nav/about.jpg" name="about" width="93" height="56" border="0" id="about" onmouseover="MM_swapImage('about','','Graphics/nav/about-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-											<td><a href="http://www.classcreator.com/contact.cfm"><img src="/Graphics/nav/contact.jpg" name="contact" width="111" height="56" border="0" id="contact" onmouseover="MM_swapImage('contact','','Graphics/nav/contact-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-											<td><a href="http://www.classcreator.com/faqs.cfm"><img src="/Graphics/nav/faqs.jpg" name="faqs" width="62" height="56" border="0" id="faqs" onmouseover="MM_swapImage('faqs','','Graphics/nav/faqs-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-											<td><a href="http://www.classcreator.com/findschool.cfm"><img src="/Graphics/nav/locate.jpg" name="locate" width="140" height="56" border="0" id="locate" onmouseover="MM_swapImage('locate','','Graphics/nav/locate-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-											<td><a href="http://forums.classcreator.com/"><img src="/Graphics/nav/share.jpg" name="share" width="106" height="56" border="0" id="share" onmouseover="MM_swapImage('share','','Graphics/nav/share-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-											<td><a href="http://www.classcreator.com/videos.cfm"><img src="/Graphics/nav/help.jpg" name="help" width="117" height="56" border="0" id="help" onmouseover="MM_swapImage('help','','Graphics/nav/help-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-											<td><a href="http://www.classcreator.com/pr.cfm"><img src="/Graphics/nav/pricing.jpg" name="privacy" width="85" height="56" border="0" id="privacy" onmouseover="MM_swapImage('privacy','','Graphics/nav/pricing-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-											<td><a href="http://www.classcreator.com/wizard00.cfm"><img src="/Graphics/nav/create.jpg" name="create" width="113" height="56" border="0" id="create" onmouseover="MM_swapImage('create','','Graphics/nav/create-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-											<td><a href="http://www.classcreator.com"><img src="/Graphics/nav/home.jpg" name="home" width="84" height="56" border="0" id="home" onmouseover="MM_swapImage('home','','Graphics/nav/home-on.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-										</tr>
-									</tbody></table>
-								</td>
-							</tr>
-						</tbody></table>
-						<div align="center">
-						<table width="806" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td><img src="/Graphics/papertop.jpg" width="806" height="45"></td>
-							</tr>
-							<tr>
-								<td>
-									<table width="806" border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td width="35" valign="top" background="/Graphics/paperleft.jpg" bgcolor="#FFFFFF"><img src="/Graphics/spacer.gif" width="35" height="35"></td>
-											<td width="100%" valign="top" bgcolor="#FFFFFF"><p><br></p>
+<script type="text/javascript" src="//cdn.sublimevideo.net/js/4bbqm0d0-beta.js"></script>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 
 
-<p>Last modified: November 30, 2012 (<a target="_blank" href="privacy-policy-archive.cfm">view archived versions</a>)</p>
-<p>Our Privacy Policy explains:</p>
-<ul>
-	<li>What information we collect and why we collect it.
-	</li><li>How we use that information.
-	</li><li>The choices we offer, including how to access and update information.
-</li></ul>
-<p>We've tried to keep it as simple as possible, but if you're not familiar with terms like cookies, IP addresses and browsers, then read about these <a target="_blank" href="privacy-policy-terms.cfm">key terms</a> first.</p>
-<h3>Information we collect</h3>
-<p>We collect information in two ways:</p>
-<ul>
-	<li>
-		<p><strong>Information you give us when creating a website, or when joining an existing website.</strong> When you do either of these, we'll ask for personal information, like your name, email 
-		address, telephone number and date of birth. We'll then create a Member Profile, which may include your name and photo. The part of your profile containing your email address, physical address, phone numbers and birthdate is not visible 
-		to anyone except the adminstrators of the website unless you personally elect to display this information. The rest of the profile information you supply is only visible to other persons who are logged into the same website. You can 
-		override the sharing limitations, but the default settings are the most protective of your privacy.
-	</p></li>
-	<li>
-		<p><strong>Information we get from your use of our services (<a target="_blank" href="privacy-policy-terms.cfm">server logs</a>).</strong> We may collect information about the services that you use and how you 
-		use them, like when you visit the website, and details of your activity on each page. This information includes:</p>
-		<ul>
-			<li>your hardware model, operating system version, and web browser verion</li>
-			<li>the <a target="_blank" href="privacy-policy-terms.cfm">Internet protocol address</a> from which you are connecting to the internet.</li>
-			<li>event information such as browser type, browser language, the date and time of your request and referral URL.</li>
-			<li><a target="_blank" href="privacy-policy-terms.cfm">cookies</a> that may uniquely identify your browser and/or collect and store information necessary to provide the services you are using.</li>
-		</ul>
-	</li>
-</ul>
-<h3 id="infouse">How we use information we collect</h3>
-<p>We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect us and our users.</p>
-<h3 id="nosharing">Information we share</h3>
-<p>We do not share personal information with companies, organizations and individuals unless one of the following circumstances apply:
-</p><ul>
-	<li>
-		<p><strong>With your consent</strong></p>
-		<p>We may share personal profile information via publicly accessible pages of your website when we have your consent to do so. We require opt-in consent for the sharing of any personal profile information.</p>
-	</li>
-	<li>
-		<p><strong>With website administrators</strong></p>
-		<p>Your website administrators will have access to your full profile information (including your email and contact information, but not your password). Your website administrator may be able to:</p>
-		<ul>
-			<li>view statistics regarding your account, like login dates.</li>
-			<li>change your account password.</li>
-			<li>suspend or terminate your account access.</li>
-			<li>access or retain information stored as part of your account.</li>
-		</ul>
-	</li>
-	<li>
-		<p><strong>For external processing</strong></p>
-		<p>We may provide personal information to trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate 
-		confidentiality and security measures. For instance, information provided through our Reunion Planner may be used to faciliate ACH direct deposit transactions on your behalf. We do not provide personal information to others without your agreement to do so.</p>
-	</li>
-	<li>
-		<p><strong>For legal reasons</strong></p>
-		<p>We may share personal information with companies, organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:</p>
-		<ul>
-			<li>meet any applicable law, regulation, legal process or enforceable governmental request.</li>
-			<li>enforce applicable Terms of Service, including investigation of potential violations.</li>
-			<li>detect, prevent, or otherwise address fraud, security or technical issues.</li>
-			<li>protect against harm to the rights, property or safety of us, our users or the public as required or permitted by law.</li>
-		</ul>
-	</li>
-</ul>
-<p></p>
-<p>We may share aggregated, <a target="_blank" href="privacy-policy-terms.cfm">non-personally identifiable information</a> publicly. For example, we may share information publicly to show trends about the general use of our services.</p>
-<p>If we are involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or 
-becomes subject to a different privacy policy.</p>
-<h3 id="infosecurity">Information security</h3>
-<p>We work hard to protect our systems and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:</p>
-<ul>
-	<li>We encrypt credit card payment services using SSL.</li>
-	<li>We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.</li>
-	<li>We restrict access to personal information to persons who need to know that information in order to process it for us in order to provide you the service we offer.</li>
-          <li>You can elect to block the public and search engines from accessing information you add to your personal Profile page. All logged in fellow site members can see all information you add to your personal Profile page. In rare cases a site member may join under false pretenses and claim to be somebody they are not (i.e. an imposter). Class Creator provides Class Administrators tools to combat this such as a New Member Verification feature. Class Creator does not require the use of the Verification feature nor can we assure proper use of the Verification feature when it is enabled. Therefore in rare cases a member can pose as somebody they are not. If you use this site you acknowledge the possibility of somebody joining the site under an assumed or false identity. Because of this infrequent but real possibility you should not post personal information or photos on your Profile page you do not want non members to see even if you have blocked search engines and the public from accessing your Profile information.</li>
-</ul>
-<h3 id="enforcement">Enforcement</h3>
-<p>We regularly review our compliance with our Privacy Policy. If we receive formal written complaints we will contact the person who made the complaint to follow up. We work with the appropriate regulatory 
-authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.</p>
-<h3 id="policychanges">Changes</h3>
-<p>Our Privacy Policy may change periodically. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are 
-significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.</p>
+<body>
 
 
 
-<h3>Questions Regarding Privacy</h3>
-<p>For more information about Privacy and Security issues please read <em><a href="http://www.classcreator.com/faqs.cfm#Privacy"><u>Questions About Passwords and Privacy</u></a></em> in our FAQ section.</p>
-<p>If you have questions or concerns about this Privacy Policy, our privacy practices, or your dealings with us, please contact us in writing at:</p>
-<p>Class Creator<br>3060 Packard<br>Suite G<br>Ann Arbor, MI 48108</p>
 
-											</td>
-											<td width="35" background="/Graphics/paperright.jpg"><img src="/Graphics/spacer.gif" width="35" height="35"><img src="/Graphics/spacer.gif" width="10" height="10"></td>
-										</tr>
-									</tbody></table>
-								</td>
-							</tr>
-							<tr>
-								<td><img src="/Graphics/paperbottom.jpg" alt="" width="806" height="34"></td>
-							</tr>
-						</tbody></table>
-						</div>
-						<br>
-					</td>
-				</tr>
-			</tbody></table>
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<div align="center">
-			<table width="919" border="0" cellpadding="7">
-				<tbody><tr>
-					<td height="28">
-						<div align="center">
-						<span class="mainfontsmall">
-						
-						<a href="http://www.classcreator.com/about.cfm"><font color="#FFF9E6">about</font></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="http://www.classcreator.com/contact.cfm"><font color="#FFF9E6">contact</font></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="http://www.classcreator.com/privacy-policy.cfm"><font color="#FFF9E6">privacy</font></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="http://www.classcreator.com/faqs.cfm"><font color="#FFF9E6">faqs</font></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="http://www.classcreator.com/findschool.cfm"><font color="#FFF9E6">locate school</font></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="http://forums.classcreator.com/"><font color="#FFF9E6">share tips</font></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="http://www.classcreator.com/videos.cfm"><font color="#FFF9E6">help videos</font></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="http://www.classcreator.com/pr.cfm"><font color="#FFF9E6">pricing</font></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="http://www.classcreator.com/wizard00.cfm"><font color="#FFF9E6">create site</font></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="http://www.classcreator.com/index.cfm"><font color="#FFF9E6">home</font></a>
-						</span>
-						</div>
-					</td>
-				</tr>
-			</tbody></table>
-			</div>
-		</td>
-	</tr>
-</tbody></table>
+<div class="container">
+	<div class="header">
+		<div class="logoContainer"><a href="http://www.classcreator.com/index.cfm"><img src="//www.classcreator.com/templates/assets/images/logo.png" alt="ClassCreator.com | Blockbuster sites, amazing reunions" width="287" height="66"></a></div>
+		<div class="navTopWrapper">
+			<ul class="nav">
+				<li><a href="http://www.classcreator.com/features.cfm">Features</a></li>
+				<li> | </li>
+				<li><a href="http://www.classcreator.com/findschool.cfm">Find School</a></li>
+				<li> | </li>
+				<li><a href="http://www.classcreator.com/faqs.cfm">FAQ</a></li>
+				<li> | </li>
+				<li><a href="http://forums.classcreator.com/forums.cfm">Share Tips</a></li>
+				<li> | </li>
+				<li><a href="http://www.classcreator.com/pr.cfm">Pricing</a></li>
+				<li> | </li>
+				<li><a href="http://www.classcreator.com/wizard00.cfm">Build Site</a></li>
+				<li> | </li>
+				<li><a href="http://www.classcreator.com/contact.cfm">Contact</a></li>
+			</ul>
+		</div>
+	</div>
+
+
+<div class="titlebarWrapper">
+	<div class="contentWrapper titlebar"><h1>Privacy Policy</h1></div>
 </div>
-<ul id="followTab">
+<div class="content">
+	<p><b>Last modified: November 30, 2012 (<a href="privacy-policy-archive.cfm" target="privacy">view archived versions</a>)</b></p>
+	<p>Our Privacy Policy explains:</p>
+	<ul>
+		<li>What information we collect and why we collect it.</li>
+		<li>How we use that information.</li>
+		<li>The choices we offer, including how to access and update information.</li>
+	</ul>
+	<p>We've tried to keep it as simple as possible, but if you're not familiar with terms like cookies, IP addresses and browsers, then read about these <a href="privacy-policy-terms.cfm" target="privacy">key terms</a> first.</p>
+	<h2>Information We Collect</h2>
+	<p>We collect information in two ways:</p>
+	<ul>
+		<li>
+			<b>Information you give us when creating a website, or when joining an existing website.</b>
+			When you do either of these, we'll ask for personal information, like your name, email address, telephone number and date of birth. We'll then create a Member Profile, which may include your name and photo. The part of your profile containing your email address, physical address, and phone numbers is not visible to anyone except the adminstrators of the website. The rest of the profile information you supply including birth date is only visible to other persons who are logged into the same website. The only exception to this is City of Residence, which may be seen by a non-logged in viewer in the Where We Live feature. You can override the sharing limitations, but the default settings are the most protective of your privacy.
+		</li>
+		<li>
+			<b>Information we get from your use of our services (<a href="privacy-policy-terms.cfm" target="privacy">server logs</a>). We may collect information about the services that you use and how you use them, like when you visit the website, and details of your activity on each page. This information includes:</b><br><br>
+			<ul>
+				<li>your hardware model, operating system version, and web browser verion.</li>
+				<li>the <a href="privacy-policy-terms.cfm" target="privacy">Internet protocol address</a> from which you are connecting to the internet.</li>
+				<li>event information such as browser type, browser language, the date and time of your request and referral URL.</li>
+				<li><a href="privacy-policy-terms.cfm" target="privacy">cookies</a> that may uniquely identify your browser and/or collect and store information necessary to provide the services you are using.</li>
+			</ul>
+		</li>
+	</ul>
+	<h2>How we use information we collect</h2>
+	<p>We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect us and our users.</p>
+	<h2>Information we share</h2>
+	<p>We do not share personal information with companies, organizations and individuals unless one of the following circumstances apply:</p>
+	<ul>
+		<li><b>With your consent</b><p>We may share personal profile information via publicly accessible pages of your website when we have your consent to do so. We require opt-in consent for the sharing of any personal profile information.</p></li>
+		<li><b>For external processing</b><p>We may provide personal information to trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For instance, information provided through our Reunion Planner may be used to faciliate ACH direct deposit transactions on your behalf. We do not provide personal information to others without your agreement to do so.</p></li>
+		<li>
+			<b>For legal reasons</b>
+			<p>We may share personal information with companies, organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:</p>
+			<ul>
+				<li>meet any applicable law, regulation, legal process or enforceable governmental request.</li>
+				<li>enforce applicable Terms of Service, including investigation of potential violations.</li>
+				<li>detect, prevent, or otherwise address fraud, security or technical issues.</li>
+				<li>protect against harm to the rights, property or safety of us, our users or the public as required or permitted by law.</li>
+			</ul>
+		</li>
+	</ul>
+	<p>We may share aggregated, <a href="privacy-policy-terms.cfm" target="privacy">non-personally identifiable information</a> publicly. For example, we may share information publicly to show trends about the general use of our services.</p>
+	<p>If we are involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.</p>
+	<h2>Information security</h2>
+	<p>We work hard to protect our systems and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:</p>
+	<ul>
+		<li>We encrypt credit card payment services using SSL.</li>
+		<li>We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.</li>
+		<li>We restrict access to personal information to persons who need to know that information in order to process it for us in order to provide you the service we offer.</li>
+		<li>You can elect to block the public and search engines from accessing information you add to your personal Profile page. All logged in fellow site members can see all information you add to your personal Profile page. In rare cases a site member may join under false pretenses and claim to be somebody they are not (i.e. an imposter). Class Creator provides Class Administrators tools to combat this such as a New Member Verification feature. Class Creator does not require the use of the Verification feature nor can we assure proper use of the Verification feature when it is enabled. Therefore in rare cases a member can pose as somebody they are not. If you use this site you acknowledge the possibility of somebody joining the site under an assumed or false identity. Because of this infrequent but real possibility you should not post personal information or photos on your Profile page you do not want non members to see even if you have blocked search engines and the public from accessing your Profile information.</li>
+	</ul>
+	<h2>Enforcement</h2>
+	<p>We regularly review our compliance with our Privacy Policy. If we receive formal written complaints we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.</p>
+	<h2>Changes</h2>
+	<p>Our Privacy Policy may change periodically. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.</p>
 
-	<li><a class="twitter" href="http://twitter.com/ClassCreator" target="twitter" title="Follow Class Creator on Twitter"><span>Follow Class Creator on Twitter</span></a></li>
-	<li><a class="facebook" href="http://www.facebook.com/ClassCreator" target="facebook" title="Follow Class Creator on Facebook"><span>Follow Class Creator on Facebook</span></a></li>
-</ul>
+	
+		<h2>Questions Regarding Privacy</h2>
+		<p>For more information about Privacy and Security issues please read <a href="http://www.classcreator.com/faqs.cfm#Privacy" target="Privacy"><i>Questions About Passwords and Privacy</i></a> in our FAQ section.</p>
+		<p>If you have questions or concerns about this Privacy Policy, our privacy practices, or your dealings with us, please contact us in writing at:</p>
+		<p>Class Creator<br>878 S. Grove Rd.<br>Ypsilanti, MI 48198</p>
+	
+
+	<br><br>
+</div>
+<div class="contentWrapper bottom"></div>
+
+
+	<div class="contentLine8px"></div>
+	<br class="clearfloat">
+	<div class="footer">
+		<ul class="nav">
+			<li><a href="http://www.classcreator.com/index.cfm">Home</a></li>
+			<li> | </li>
+			<li><a href="http://www.classcreator.com/features.cfm">Features</a></li>
+			<li> | </li>
+			<li><a href="http://www.classcreator.com/findschool.cfm">Find School</a></li>
+			<li> | </li>
+			<li><a href="http://www.classcreator.com/faqs.cfm">FAQ</a></li>
+			<li> | </li>
+			<li><a href="http://forums.classcreator.com/forums.cfm">Share Tips</a></li>
+			<li> | </li>
+			<li><a href="http://www.classcreator.com/pr.cfm">Pricing</a></li>
+			<li> | </li>
+			<li><a href="http://www.classcreator.com/wizard00.cfm">Create Site</a></li>
+			<li> | </li>
+			<li><a href="http://www.classcreator.com/videos.cfm">Help Videos</a></li>
+			<li> | </li>
+			<li><a href="http://www.classcreator.com/privacy-policy.cfm">Privacy Policy</a></li>
+			<li> | </li>
+			<li><a href="http://www.classcreator.com/contact.cfm">Contact</a></li>
+		</ul>
+		<br>
+		<div class="footerLeft"><a href="http://www.geotrust.com/" target="geotrust"><img src="//www.classcreator.com/templates/assets/images/icon-secure-geotrust.jpg" width="104" height="32" alt="SecurityMetrics"></a></div>
+		<div class="footerCenter">
+			
+
+			<div id="fb-root"></div>
+			<div class="social-fb">
+				<script type="text/javascript">
+				(
+					function(d, s, id) {
+						var js, fjs = d.getElementsByTagName(s)[0];
+						if (d.getElementById(id)) return;
+						js = d.createElement(s); js.id = id;
+						js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+						fjs.parentNode.insertBefore(js, fjs);
+					}
+					(document, 'script', 'facebook-jssdk')
+				);
+				</script>
+				<div class="fb-like" data-send="false" data-width="50" data-show-faces="false" data-layout="button_count"></div>
+			</div>
+			<div class="social-tw">
+				<a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
+				<script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			</div>
+			<div class="social-gp">
+				
+				<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="120"></div>
+				
+				<script type="text/javascript">
+				(
+					function() {
+						var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+						po.src = 'https://apis.google.com/js/plusone.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po,s);
+					}
+				)();
+				</script>
+			</div>
+
+			
+		</div>
+		<div class="footerRight"><a href="http://www.securitymetrics.com/" target="securitymetrics"><img src="//www.classcreator.com/templates/assets/images/icon-secure-securitymetrics.jpg" width="100" height="42" alt="SecurityMetrics"></a></div>
+		<br class="clearfloat">
+		<p>Copyright © 2013 Class Creator</p>
+	</div>
+</div>
+
+
+
+<script type="text/javascript">
+(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script type="text/javascript" src="//www.classcreator.com/templates/assets/js/facebook.js"></script>
+
+
+<div style="display:none">
+<img src="//www.classcreator.com/templates/assets/images/button-allfeatures-on.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/button-browse-on.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/button-buildsite3-on.png" alt="">
+<img src="//www.classcreator.com/templates/assets/images/button-LoginAdmin-on.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/button-nextstep-on.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/button-view-site-on.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/button-viewmore-on.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/button-viewprevious-on.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/contact-submit-on.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/contact-submit-on2.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/features-tab-highlights-off.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/features-tab-highlights-hover.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/features-tab-highlights-on.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/features-tab-all-off.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/features-tab-all-hover.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/features-tab-all-on.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/nextsteps-button-on.png" alt="">
+<img src="//www.classcreator.com/templates/assets/images/preview-site-on.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/SM-FB-on.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/SM-googleplus-on.jpg" alt="">
+<img src="//www.classcreator.com/templates/assets/images/SM-twitter-on.jpg" alt="">
+</div>
+
+
+<script type="text/javascript">
+adroll_adv_id = "2SKPLG3SHBCELHZ7GMEBES";
+adroll_pix_id = "C362PDIKQBEUZC7C5VEXKU";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+
+</script>
 
 
 
