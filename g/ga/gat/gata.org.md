@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gata.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211249id_/http%3A//gata.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gata.org privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130105822id_/http%3A//gata.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gold Anti-Trust Action Committee
 
