@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the numberfire.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530121554id_/https%3A//www.numberfire.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numberfire.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201005748id_/https%3A//www.numberfire.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - numberFire
+# Privacy Policy
 
 ### Privacy Policy
 
