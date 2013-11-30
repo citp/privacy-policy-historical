@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyv2cigs.co.uk privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531190515id_/http%3A//www.buyv2cigs.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyv2cigs.co.uk privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201001558id_/http%3A//www.buyv2cigs.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : BuyV2Cigs
 
@@ -37,7 +37,10 @@ We do not gather personal information through the use of these images.
 
 **What personal information do you collect?**
 
-Wherever we collect personal information we make an effort to include a link to this Privacy Policy.  
+We do not store credit card details nor do we share customer details with any 3rd parties.
+
+Wherever we collect personal information we make an effort to include a link to this Privacy Policy.
+
 We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. The personal information we collect may include your name, title, e-mail address, phone number and business.
 
 We may request your e-mail address or mailing address for the purposes of conducting a contest or to provide additional services (for example, subscriptions to announcement lists or information about conferences and trade shows).
