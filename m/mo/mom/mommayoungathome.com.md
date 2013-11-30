@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mommayoungathome.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530033205id_/http%3A//mommayoungathome.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommayoungathome.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201003324id_/http%3A//mommayoungathome.com/about-me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MommaYoung & Friends
+# Privacy Policy - MommaYoung
 
 Privacy Policy for **http://mommayoungathome.com**
 
