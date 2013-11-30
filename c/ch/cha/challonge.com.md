@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the challonge.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511090352id_/http%3A//challonge.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the challonge.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130212007id_/http%3A//challonge.com/static/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Challonge
 
@@ -9,8 +9,6 @@
   * [Contact Us](https://web.archive.org/static/contact)
 
 
-
-× Please log in to continue 
 
 Your privacy is our top priority. We added the following privacy policy for some legal protection and for those who want to know the specifics regarding the use of their private information. It's a modified version of [Automattic](http://automattic.com/)'s policy which is available under a Creative Commons Sharealike license. The gist of the following is that we will only collect information that is required for the operation of Challonge.com (email address for password recovery, for example), and we will not share this information unless law requires us to do so.
 
