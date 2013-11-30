@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the aota.org privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403040907id_/http%3A//aota.org/SiteFooter/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aota.org privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201005729id_/http%3A//www.aota.org/en/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy for Our Website
+# PrivacyPolicy - AOTA
+
+**Privacy Policy for Our Website**
 
 This Privacy Statement discloses the privacy practices for the American Occupational Therapy Association ("AOTA") and its Internet Web sites: [http://www.AOTA.org/](http://www.aota.org/), [http://www1.aota.org](http://www1.aota.org/), [http://store.aota.org](http://store.aota.org/) (hereinafter referred to collectively as a "Web site"). AOTA, an independent, non-profit organization, provides you with the following information:
 
