@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lightspeedretail.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601094328id_/http%3A//www.lightspeedretail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightspeedretail.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201003900id_/http%3A//www.lightspeedretail.com/privacy-policy) for the most accurate reproduction.*
 
-# LightSpeed Retail Point of Sale (POS) - Privacy Policy
+# Privacy Policy - LightSpeed POS
 
 LightSpeed Retail Inc. (also referred to as “LightSpeed”, “us” or “we”) respects the privacy of every individual who visits this Website and is committed to the protection of their personal information. “Personal Information”, as used in this Privacy Policy, means information about an identifiable individual, but does not include the name, title or business address or telephone number of an employee of an organization.
 
