@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobserve.com privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305032104id_/http%3A//www.jobserve.com/gb/en/content/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobserve.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130213444id_/http%3A//www.jobserve.com/gb/en/content/about/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
