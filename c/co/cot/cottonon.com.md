@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cottonon.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517080208id_/http%3A//us.cottonon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottonon.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130013828id_/http%3A//us.cottonon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cotton On
 
 ## 
-
-## Cotton On Privacy Policy
 
 This website, [www.cottonon.com](http://www.cottonon.com/), (the “Website”) is owned and operated by Cotton On Clothing Pty Ltd, ABN 80 929 269 126 (“Cotton On,” “us,” “we,” or “our”) of 14 Shepherd Court, North Geelong, Victoria, Australia, 3215.
 
