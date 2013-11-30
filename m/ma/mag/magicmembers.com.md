@@ -1,16 +1,26 @@
-> *The following text is extracted and transformed from the magicmembers.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201122621id_/http%3A//www.magicmembers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicmembers.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130093403id_/http%3A//www.magicmembers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Magic Members Wordpress Membership Plugin
 
 **What information do we collect?**
 
-We collect information from you when you place an order, subscribe to our newsletter or fill out a form. 
+We collect information from you when you place an order, subscribe to our newsletter or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to periodic company news, updates, and/or related product or service information, etc.
+
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by clicking the unsubscribe button at the bottom of your emails.
+
+**Private information Security:**
+
+For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, (PayPal), keeps this information encrypted and secure on your behalf.
+
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -22,7 +32,7 @@ To improve customer service
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
 To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 To send periodic emails
 
@@ -32,7 +42,7 @@ If you decide to opt-in to our mailing list, you will receive emails that may in
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required toï¿½keep the information confidential.
 
@@ -67,11 +77,11 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 By using our site, you consent to our privacy policy.
 
 Changes to our Privacy Policy  
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.magicmembers.com
 
@@ -82,4 +92,4 @@ info@magicmembers.com
 
 #### Incoming search terms:
 
-[magic members SSL](http://www.magicmembers.com/privacy-policy/ "magic members SSL"), [magic member contact number](http://www.magicmembers.com/privacy-policy/ "magic member contact number"), [magic members phone](http://www.magicmembers.com/privacy-policy/ "magic members phone"), [privacy policy wordpress](http://www.magicmembers.com/privacy-policy/ "privacy policy wordpress"), [magic members with ssl](http://www.magicmembers.com/privacy-policy/ "magic members with ssl"), [magic members contact number](http://www.magicmembers.com/privacy-policy/ "magic members contact number"), [require phone numbers members on wordpress](http://www.magicmembers.com/privacy-policy/ "require phone numbers members on wordpress"), [privacy policy for wordpress site with member](http://www.magicmembers.com/privacy-policy/ "privacy policy for wordpress site with member"), [magic members phone number](http://www.magicmembers.com/privacy-policy/ "magic members phone number"), [membership magic service](http://www.magicmembers.com/privacy-policy/ "membership magic service")
+[magic members SSL](http://www.magicmembers.com/privacy-policy/ "magic members SSL"), [magic member contact number](http://www.magicmembers.com/privacy-policy/ "magic member contact number"), [magic members phone](http://www.magicmembers.com/privacy-policy/ "magic members phone"), [privacy policy wordpress](http://www.magicmembers.com/privacy-policy/ "privacy policy wordpress"), [magic members contact number](http://www.magicmembers.com/privacy-policy/ "magic members contact number"), [magic members with ssl](http://www.magicmembers.com/privacy-policy/ "magic members with ssl"), [phone number Magic Members 5842 Phillips Ave Pittsburgh PA 15217 USA](http://www.magicmembers.com/privacy-policy/ "phone number Magic Members 5842 Phillips Ave Pittsburgh PA 15217 USA"), [require phone numbers members on wordpress](http://www.magicmembers.com/privacy-policy/ "require phone numbers members on wordpress"), [magic members transactions page](http://www.magicmembers.com/privacy-policy/ "magic members transactions page"), [wordpress member privacy](http://www.magicmembers.com/privacy-policy/ "wordpress member privacy")
