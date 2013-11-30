@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530051616id_/http%3A//www.dudamobile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130031345id_/http%3A//www.dudamobile.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policies | DudaMobile
 
