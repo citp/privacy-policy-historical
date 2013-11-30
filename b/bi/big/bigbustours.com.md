@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigbustours.com privacy policy that was archived on 2013-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130222054242id_/http%3A//www.bigbustours.com/eng/international/custompage.aspx%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbustours.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130104424id_/http%3A//eng.bigbustours.com/international/privacy-policy.html) for the most accurate reproduction.*
 
 # Big Bus Tours - International - privacy
 
