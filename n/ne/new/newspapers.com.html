@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newspapers.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601214815id_/http%3A//www.newspapers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newspapers.com privacy policy that was archived on 2013-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131130214212id_/http%3A//www.newspapers.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox hashchange rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients csstransitions generatedcontent video audio" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -9,36 +9,44 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Newspapers.com">
 <link type="text/css" rel="stylesheet" href="/c/normalize.css">
-<link type="text/css" rel="stylesheet" href="/c/base.css?v=12514">
+<link type="text/css" rel="stylesheet" href="/c/base.css?v=13439">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//web.archive.org/web/20130614042349/https://connect.facebook.net/en_US/all.js"></script><script src="/js/modernizr2-custom.js?v=109"></script>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write("<script src='/js/jquery1.9.1.js?v=109'>\x3C/script>")</script><script src="/js/jquery1.9.1.js?v=109"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//web.archive.org/web/20131202193458/http://connect.facebook.net/en_US/all.js"></script><script src="/js/modernizr2-custom.js?v=109"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/js/jquery1.10.1.js?v=109'>\x3C/script>")</script><script src="/js/jquery1.10.1.js?v=109"></script>
 <script type="text/javascript" src="/js/jquery-migrate-1.1.1.js?v=109"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
 <script>window.jQuery.ui || document.write("<script src='/js/jqueryui-1.8.23.js?v=109'>\x3C/script>")</script>
 
-<script src="/js/net.js?v=12514"></script>
-<script src="/js/facebookConnect.js?v=12514"></script>
-<script type="text/javascript" src="/js/tinybox.js"></script>
+<script src="/js/net.js?v=13439"></script>
+<script src="/js/facebookConnect.js?v=13439"></script>
+<script type="text/javascript" src="/common/js/news-tiny.js?v=13439"></script>
+<script type="text/javascript" src="/js/mast.js?v=13439"></script>
 
 <script>
 var appRoot = 'http://www.newspapers.com/';
-var facebookAppRoot = 'http://apps.facebook.com/i_remember_dev/';
+var facebookAppRoot = '';
 var footnotePathNormal = 'http://www.newspapers.com/';
 var fullPathNormal = 'http://www.newspapers.com/';
 var fullPathFootnote = 'http://www.newspapers.com/';
 var fullPathSecure = 'https://www.newspapers.com/';
 var imagePathNormal = 'http://img.newspapers.com/img/';
-var imagePathFootnote = 'http://img.newspapers.com/img/';
 var imagePathRotating = 'http://img#.newspapers.com/img/';
 var contributionLevel = 'full';
 var cookieDomain = '.newspapers.com';
+var documentService = 'http://svc.newspapers.com:50000';
 var isLibrary = false;
+var siteversion = "standard";
+var clipStatus = '';
+var isRegistrationRequired = false;
+jQuery(document).ready(function(){
+if(isRegistrationRequired){registrationRequired("", function(){onCloseTcAccepted();}, function(){onCloseTcRefused();});}
+});
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDUQFjAA&url=http%3A%2F%2Fwww.smarty.net%2Fforums%2Fviewtopic.php%3Fp%3D22951&ei=WZw_Ub_FOYTWyQGQ3oCIAQ&usg=AFQjCNFcyOrgwnq_irzeOZAVSalbXdn2tw&sig2=tLPXTOyDtY2h6dIIXuCKeA&bvm=bv.43287494,d.aWc
 var prefs = new Preferences();
 var wallpage = '/registerwall.php';
 var institutionData = null;
+var silo = 0;
 </script>
 <!-- 0:0 -->
 <script type="text/javascript">
@@ -61,21 +69,22 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 
 
+
+
 </head>
 <body id="privacy-page">
-
-
 <div id="fn-page">
-
 <header class="clear">
-<a href="http://www.newspapers.com/" title="Return to Home" id="logo">Newspapers.com</a><nav class="clear">
-<ul class="nl">
-<li id="pg-home"><a href="http://www.newspapers.com/">Home</a></li><li id="pg-search"><a href="http://www.newspapers.com/s.php">Search</a></li>
+<a href="http://www.newspapers.com/" title="Return to Home" id="logo">Newspapers.com</a><nav class="">
+<div class="nav">
+<a href="/" id="start" class="start"></a>
+<ul class="nl transition-bounce">
+<li id="pg-home"><a href="http://www.newspapers.com/">Home</a></li><li id="pg-search"><a href="http://www.newspapers.com/search/">Search</a></li>
 <li id="pg-browse"><a href="http://www.newspapers.com/browse/">Browse</a></li>
 <li id="pg-docs"><a href="http://www.newspapers.com/papers/">Papers</a>     </li>
-<li id="pg-clippings"><a href="http://www.newspapers.com/clippings/all_clips/">Clippings</a>     </li>
+<li id="pg-clippings"><a href="http://www.newspapers.com/clippings/">Clippings</a></li>
 </ul>
-
+</div>
 <div id="mem-nav" class="fr">
 <ul class="nl">
 <li id="pg-join"><a href="http://www.newspapers.com/choose-a-plan/"><i>Subscribe</i></a></li><li><a href="https://www.newspapers.com/signon.php" id="signinlink" onclick="return toggleSignIn();" class="signinlink dropd">Sign-in</a>  </li>
@@ -298,7 +307,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <ul>
 <li><a href="http://www.newspapers.com/">Homepage</a></li>
 <li><a href="http://www.newspapers.com/papers/">Papers</a></li>
-<li><a href="http://www.newspapers.com/clippings/all_clips/">Clippings</a></li>
+<li><a href="http://www.newspapers.com/clippings/">Clippings</a></li>
 </ul>
 </div>
 <div class="bootbox b1">
@@ -308,7 +317,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <li><a href="http://www.newspapers.com/free/">Try it FREE</a></li>
 <li><a href="http://www.newspapers.com/choose-a-plan/">Subscriptions</a></li>
 <li><a href="https://www.newspapers.com/register.php">Free Membership</a></li>
-<!--   <li><a href="http://go.newspapers.com/affiliates/">Affiliates</a></li> -->
+<li><a href="http://go.newspapers.com/affiliates/">Affiliates</a> <sup class="red">New</sup></li>
 
 </ul>
 </div>
@@ -333,10 +342,13 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </div>
 <div class="footsection">
 <div id="cr">
-Copyright © 2013 Newspapers.com.  All Rights Reserved. <a href="http://www.newspapers.com/termsandconditions/">Terms of Use</a> · <a href="http://www.newspapers.com/privacy/">Privacy Statement</a> · <a href="http://www.newspapers.com/sitemap/">Site Map</a></div>
+<p>The names, logos, and other source identifying features of newspapers depicted in our database are the trademarks of their respective owners, and our use of newspaper content in the public domain or by private agreement does not imply any affiliation with, or endorsement from, the publishers of the newspaper titles that appear on our site. Newspapers.com makes these newspapers available for the purpose of historical research, and is not responsible for the content of any newspapers archived at our site.</p>
+<p>Copyright © 2013 Newspapers.com.  All Rights Reserved. <a href="http://www.newspapers.com/termsandconditions/">Terms of Use</a> · <a href="http://www.newspapers.com/privacy/">Privacy Statement</a> · <a href="http://www.newspapers.com/sitemap/">Site Map</a></p>
+</div>
+</div>
 </div>
 
-</div></footer>
+</footer>
 
 <script>
 var userEmail = '';
@@ -359,6 +371,24 @@ return false;
 }
 
 </script>
+
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 996540240;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/996540240/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- End Google Code for Remarketing Tag -->
+
 
 
 
