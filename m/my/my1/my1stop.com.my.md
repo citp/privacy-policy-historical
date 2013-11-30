@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the my1stop.com.my privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211734id_/http%3A//www.my1stop.com.my/about/terms/%3Fdoc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my1stop.com.my privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130100812id_/http%3A//www.my1stop.com.my/about/terms/%3Fdoc%3Dprivacy) for the most accurate reproduction.*
 
-# My1Stop Virtual Shopping Mall - Online Shopping Mall Malaysia
+# My1STOP.com.my - We Grow Online Businesses (since 2006)
 
 ### My1STOP.com.my Privacy Policy
 
