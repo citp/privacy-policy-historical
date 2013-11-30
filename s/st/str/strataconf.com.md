@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strataconf.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527162713id_/http%3A//oreilly.com/oreilly/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strataconf.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201005642id_/http%3A//oreilly.com/oreilly/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ We use the personal information you provide voluntarily to send information you'
 
 
 
-We share customer information only with affiliated companies (see <http://www.oreilly.com/affiliates.html>) and as described below:
+We share customer information only with affiliated companies and as described below:
 
   * With third parties we retain to perform functions on our behalf, such as fulfilling orders, processing credit card payments, managing mailing lists, and delivering packages. These parties are restricted from using your information for any other purpose.
   * We release personal information when we believe that release is appropriate to comply with the law, or to protect the rights, property, or safety of O'Reilly Media, our users, or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction.
