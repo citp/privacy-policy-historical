@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metalsdepot.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513050607id_/http%3A//www.metalsdepot.com/privacy_policy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalsdepot.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130075342id_/http%3A//www.metalsdepot.com/privacy_policy.phtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
