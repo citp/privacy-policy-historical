@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiedb.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618113347id_/http%3A//www.indiedb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiedb.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130193952id_/http%3A//www.indiedb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IndieDB - Indie DB
 
@@ -6,7 +6,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## The Information We Collect
 
-This notice applies to all information collected or submitted on any [DesuraNET](http://www.desuranet.com/) website. On some pages, you can order advertising, make requests, and register / win competitions to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on any [DBolical Pty Ltd](http://www.dbolical.com/) ("DBolical") run website. On some pages, you can order advertising, make requests, and register / win competitions to receive materials. The types of personal information collected at these pages are:
 
   * Name
   * Address
@@ -19,11 +19,13 @@ This notice applies to all information collected or submitted on any [DesuraNET]
 
 ## The Way We Use Information
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. You can register with our website if you would like to receive our catalog as well as updates on our new products and services.
+We use the information you provide about yourself when placing an order only to complete that order. We do not (subject to the exception relating to Desura Pty Ltd outlined below) share this information with outside parties except to the extent necessary to complete that order. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. You can register with our website if you would like to receive our catalog as well as updates on our new products and services.
+
+Personal information you provide to us (excluding any credit/debit card information) is provided to Desura Pty Ltd ACN 144 497 030 ("Desura"), which owns and operates digital distribution based websites relating to the online gaming community, for the purpose of Desura being able to provide you with updates and information relating to its activities.
 
 ## Disclosing Information
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+We use non-identifying aggregated information to better design our website for our advertisers and publishers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women brought games, but we would not disclose anything that could be used to identify those individuals. We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
 ## Cookies
 
@@ -33,13 +35,9 @@ Your Internet browser has the in-built facility for storing small files "cookies
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-## Our Refund Policy
-
-All content on Indie DB is free to browse and consume. When products and services are available for sale, our refund policy shall be displayed on the payment page. If for any reason we are unable to dispatch your order or fulfil the service requested we will notify you within 2 business days and will provide a refund in this situation, should it be requested.
-
 ## Our Commitment To Data Security
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. All financial transactions are protected by 256bit SSL encryption.
+To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. All financial transactions are protected by 256bit SSL encryption and no credit card numbers or CVV data is stored.
 
 ## Our Commitment To Children's Privacy
 
@@ -47,9 +45,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ## How You Can Access Or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain by logging into your profile and accessing your control panel. We use this procedure to better safeguard your information.
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+You can access all your personally identifiable information that we collect online and maintain by logging into and editing your profile. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 ## How You Can Remove Your Information
 
@@ -57,6 +53,6 @@ You can [contact us](http://www.indiedb.com/contact) if you would like your acco
 
 ## How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please contact Indie DB at [contact us](http://www.indiedb.com/contact).
+Should you have other questions or concerns about these privacy policies, please contact DBolical at [contact us](http://www.indiedb.com/contact).
 
-Last Updated: April 3, 2010, our [privacy policy](https://web.archive.org/terms-of-use) can be found here.
+Last Updated: June 27, 2013, our [terms of use](https://web.archive.org/terms-of-use) can be found here.
