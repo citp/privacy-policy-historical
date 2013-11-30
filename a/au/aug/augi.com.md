@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the augi.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211139id_/http%3A//www.augi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augi.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130105246id_/http%3A//www.augi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AUGI
 
@@ -32,20 +32,3 @@ If you have any questions about this privacy statement, the practices of this si
 
 Autodesk User Group International, Inc.  
 [membership@augi.com](mailto:membership@augi.com)
-
-[
-
-Become part of the largest Autodesk community
-
-](http://www.augi.com/account/register/)
-
-  1.     1. The Westin Bayshore, Vancouver, Canada
-    2. Jul 11th - 13th, 2013 
-  2.     1. Anaheim, California, USA
-    2. Jul 21st - 25th, 2013 
-  3.     1. The Prinsenhof, Delft, Netherlands
-    2. Sep 27th - 28th, 2013 
-  4.     1. The Venetian Hotel. Las Vegas, NV, USA
-    2. Dec 3rd - 5th, 2013 
-
-
