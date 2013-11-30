@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportlive.co.za privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613161536id_/http%3A//www.sportlive.co.za/%3Ffilter%3DprivacyAndPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportlive.co.za privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130101124id_/http%3A//www.sportlive.co.za/%3Ffilter%3DprivacyAndPolicy) for the most accurate reproduction.*
 
 # Privacy and Policy - Sport LIVE
 
