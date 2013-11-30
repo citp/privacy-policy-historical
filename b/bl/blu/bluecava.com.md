@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bluecava.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530003204id_/http%3A//bluecava.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluecava.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130011002id_/http%3A//www.bluecava.com/privacy-policy) for the most accurate reproduction.*
 
 # BlueCava, Inc. Privacy Policy
 
 **BlueCava Online Privacy Policy**
 
-February 15, 2013 (this is the date of the most recent version of our policy.) We will modify the policy from time to time. Please check back for updates.
+October 30, 2013 (this is the date of the most recent version of our policy.) We will modify the policy from time to time. Please check back for updates.
 
 This privacy policy covers data collected by BlueCava for the purposes of online advertising and detection and prevention of fraud on the Internet. A common complaint about privacy policies is they can be long, difficult to understand and include too much “legalese”. We have tried to explain what we do in simple, understandable language. We welcome your comments.
 
-The basis of our business is helping advertisers and online merchants do a better job at engaging with their customers and prospects. We do this by recognizing and collecting information about the various computers, smart phones, tablets, game consoles, etc. that people use to connect the internet.. The data we collect about these “screens” is generally used for the following: to deliver more relevant advertising, to measure the effectiveness of advertising and to reduce fraud on the Internet. We want to be transparent about what we do and how we do it and most of the rest of this privacy policy is about that, but if you just want to cut to the chase and stop BlueCava from collecting data about your screen for targeted advertising, click [here](https://web.archive.org/web/20130530003204id_/http%3A//bluecava.com/opt-out "Preferences") to opt-out. If you opt-out, you’ll still receive ads, they just won’t be tailored to your interests.
+The basis of our business is helping advertisers and online merchants do a better job at engaging with their customers and prospects. We do this by recognizing and collecting information about the various computers, smart phones, tablets, game consoles, etc. that people use to connect the internet.. The data we collect about these “screens” is generally used for the following: to deliver more relevant advertising, to measure the effectiveness of advertising and to reduce fraud on the Internet. We want to be transparent about what we do and how we do it and most of the rest of this privacy policy is about that, but if you just want to cut to the chase and stop BlueCava from collecting data about your screen for targeted advertising, click [here](https://web.archive.org/web/20131130011002id_/http://www.bluecava.com/privacy-policy/opt-out "Preferences") to opt-out. If you opt-out, you’ll still receive ads, they just won’t be tailored to your interests.
 
 **Personal Information You Provide to Us**
 
@@ -18,17 +18,17 @@ If you are a BlueCava customer and use the BlueCava Website, maybe you don’t w
 
 **Personal Information We Collect from Third Parties**
 
-We collect personal information from other Websites or business that have received your consent to share your personal information with third parties like BlueCava for online marketing purposes. This information may include your name, postal address, email address, and/or telephone number. We do not collect Sensitive Information (see below). We are very careful about how we use this information, and how we protect it. We store this personal information only in our secure servers. We do not store personal information in cookies.
+We collect personal information from other Websites or business that have received your consent to share your personal information with third parties like BlueCava for online marketing purposes. This information may include your name, postal address, email address, and/or telephone number. We do not collect Sensitive Information (see below). We are very careful about how we use this information, and how we protect it. We store this personal information only in our secure servers. We do not store personal information in cookies. If you would like for us to delete any personal information we have about you please [click here](https://web.archive.org/consumer-data-management). 
 
 **Non-Personal Information We Collect**
 
-We collect non-personal information from Websites that use our services such as our customer’s sites or our partner sites. We anonymously collect data over time and across these sites for the purpose of creating interest based audience segments. Examples of audience segments include sports enthusiasts, fashion shoppers, in market car buyers, etc…
+We collect non-personal information from Websites that use our services such as our customer’s sites or our partner sites. We anonymously collect data over time and across these sites for the purpose of creating interest based audience segments. Examples of audience segments include sports enthusiasts, fashion shoppers, in market car buyers, etc. We also use non-personal information to help us distinguish between screens as part of our recognition service (see below).
 
 We also collect non-personal information from third party data providers. These are companies that collect anonymous demographic data, online and offline interest data, and shopping history data. They use that data to group people into audience segments. They share those audience segments with us.
 
 **Sensitive Information**
 
-BlueCava does not collect sensitive information, including sensitive health or financial data. This is information like health conditions, financial account numbers, etc… This is the potentially scary stuff, and we stay away from it.
+BlueCava does not collect sensitive information, including sensitive health or financial data. This is information like health conditions, financial account numbers, etc. This is the potentially scary stuff, and we stay away from it.
 
 **Children**
 
@@ -38,7 +38,7 @@ We do not target or create audience segments targeted at children under the age 
 
 BlueCava has developed technology that enables us to recognize computers (including smartphones, tablets and other types) when they visit web sites on the Internet. In order to do this, we collect information about the browser you are using when you visit one of our partner Websites. The type of information we collect includes the type of screen, IP address, browser version, time zone, the fonts installed, browser plug-ins and various other properties of your screen/browser. We do not collect browsing history (aka history sniffing) as part of this process. The collected information is put into a “snapshot” and is sent to our servers each time you visit one of our partner Websites. The servers use the information to create a unique ID for every browser and to “match” the snapshot to the snapshots we receive from our partners. The cool thing is, this stuff varies enough from computer to computer than we can uniquely identify browsers (very few look alike). We can only collect this information when our software is included in a software application, is on a Website, or in an online ad.
 
-When we use snapshots to create a unique ID, we are also able to group related screens into “households” based on strong, common characteristics among the snapshots, like IP addresses. By understanding these households, we can help our customers understand how screens are related so they can deliver content personalized to you based on your interests gathered from all your screens, no matter which screen you are using and not just your primary screen.
+When we use snapshots to create a unique ID, we are also able to group related screens into “households” based on strong, common characteristics among the snapshots, like IP addresses. By understanding these households, we can help our customers understand how screens are related so they can deliver content personalized to you based on your interests gathered from all your screens, no matter which screen you are using and not just your primary screen. If you opt out on one screen we will also opt you out on any screen we consider part if the same household.
 
 **Cookies**
 
@@ -54,7 +54,7 @@ As BlueCava identifies screens, we also collect non-personal information. We use
 
 **Uses of Personal Information**
 
-BlueCava collects personal information in order to associate Internet connected screens with anonymous, non-personally identifiable categories of information (audience segments) that can be used for online advertising. That’s a mouthful. Let us put it in layman’s terms. Let’s say you have loyalty cards for your favorite stores. When you sign up, you agree to let the company collect data for marketing purposes. They use your shopping data and the email address you provide to associate you to various anonymous audience segments, things like “golf enthusiast” or “buys shoes a lot”. We work with them to associate an Internet connected computer to those audience segments.
+BlueCava collects personal information in order to associate Internet connected screens with anonymous, non-personally identifiable categories of information (audience segments) that can be used for online advertising. That’s a mouthful. Let us put it in layman’s terms. Let’s say you have loyalty cards for your favorite stores. When you sign up, you agree to let the company collect data for marketing purposes. They use your shopping data and the email address you provide to associate you to various anonymous audience segments, things like “golf enthusiast” or “buys shoes a lot”. We work with them to associate an Internet connected computer to those audience segments. If you would like us to remove any personal information we may have about you please [click here](https://web.archive.org/consumer-data-management).
 
 **Information Sharing**
 
@@ -84,7 +84,7 @@ We think targeted advertising is a good thing, it certainly funds a lot of the �
 
 If you choose to opt out of being tracked or targeted by us we will not share your screen information, or other information we may have associated with your screen, with online marketers, advertisers, or their suppliers. Note that we do have some customers who use our services on their own web sites, including for things like fraud prevention, and the opt out you do here will not necessarily prevent them from using our technology to recognize your device you when you visit their sites.
 
-[Click here to opt-in, opt-out.](https://web.archive.org/web/20130530003204id_/http%3A//bluecava.com/opt-out "Preferences")
+[Click here to opt-in, opt-out.](https://web.archive.org/web/20131130011002id_/http://www.bluecava.com/privacy-policy/opt-out "Preferences")
 
 To opt-out from other companies that BlueCava may share information with, or other companies that provide online behavioral advertising services, you can opt-out at the following online advertising industry Websites.
 
@@ -95,11 +95,15 @@ To opt-out from other companies that BlueCava may share information with, or oth
 
 **Important Information**
 
-**Digital Advertising Alliance**
+#### Safe Harbor Privacy Principles
+
+BlueCava complies with the U.S.-EU Safe Harbor Framework and the U.S. -Swiss Safe Harbor Framework and we have certified our adherence to the Safe Harbor Privacy Principles (<http://export.gov/safeharbor/>). We are members of the DMA Safe Harbor Program which provides an independent third party dispute mechanism that complies with the Safe Harbor enforcement requirements (<http://www.dmaresponsibility.org/SafeHarbor/consumers.shtml#3>)
+
+#### Digital Advertising Alliance
 
 BlueCava adheres to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising ([www.aboutads.info](http://www.aboutads.info/)). The DAA offers a Consumer Choice Page (opt-out) and other privacy tools and resources.
 
-**Internet Advertising Bureau**
+#### Internet Advertising Bureau
 
 BlueCava is a member of the Internet Advertising Bureau ([www.iab.net](http://www.iab.net/)).
 
@@ -120,4 +124,4 @@ Irvine, CA 92617
 
 **Changes to Privacy Policy**
 
-This Privacy Policy may change from time to time. Our Privacy Policy was last updated on February 15, 2013.
+This Privacy Policy may change from time to time. Our Privacy Policy was last updated on October 30, 2013.
