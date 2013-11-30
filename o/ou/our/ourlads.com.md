@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourlads.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601222509id_/http%3A//ourlads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourlads.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130233626id_/http%3A//www.ourlads.com/privacy) for the most accurate reproduction.*
 
 # Ourlads' Privacy Policy
 
