@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daves-words-of-wisdom.blogspot.co.uk privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601183951id_/http%3A//www.mailermailer.com/x%3Foid%3D1043899d%26function%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daves-words-of-wisdom.blogspot.co.uk privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201003304id_/http%3A//www.mailermailer.com/x%3Foid%3D1043899d%26function%3Dprivacy) for the most accurate reproduction.*
 
 # Email List Privacy Policy
 
