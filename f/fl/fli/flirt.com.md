@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flirt.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625234532id_/http%3A//www.flirt.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirt.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130121410id_/http%3A//www.flirt.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
-# 
+# Casual Dating at Flirt.com
 
 **Privacy Policy**
 
-(' **We** ') Cupid plc are committed to protecting and respecting your privacy.
+We are committed to protecting and respecting your privacy.
 
 This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. By ticking the acceptance box when signing up to use our Services, and by your continued use of the Services, you agree to bound by this policy as updated from time to time.
 
@@ -20,29 +20,21 @@ This policy (together with our [terms and conditions of use](https://web.archive
   * Our Cookie policy
   * Our right to amend our policy
 
-  
 
 
 **1\. WHO WE ARE**   
-Cupid plc is the data controller (for the purposes of the Data Protection Act 1998). We make an annual notification to the Information Commissioner (our registration number is Z2205182). We own and/or operate a large number of social, dating, lifestyle and entertainment sites (including mobile applications/apps) through our Group Companies and Partner Sites. We refer to our sites and apps as, collectively, the “Services” within this policy. Some of our terms will make reference to our Group Companies or Partner Sites and any reference in this policy to “us” or “we” or “our” will include our Group Companies and Partner Sites.  
+Grendall Investments Ltd is the data controller (for the purposes of the Data Protection Act 1998). We own and/or operate a large number of dating, adult entertainment sites (including mobile applications/apps) through our Group Companies and Partner Sites. We refer to our sites and apps as, collectively, the “Services” within this policy. Some of our terms will make reference to our Group Companies or Partner Sites and any reference in this policy to “us” or “we” or “our” will include our Group Companies and Partner Sites.  
 **(a) ABOUT OUR GROUP COMPANIES**  
-As a large organisation we have a number of subsidiary companies (“Group Companies”) that operate some of our sites on our behalf or provide services to us to enable us to provide the Services to you. We have subsidiaries in the UK, France, Germany, Cyprus and USA and other locations as may be determined from time to time. For data protection purposes, these companies are called data processors. Our Group Companies are all wholly/majorly owned by us.   
+As a large organisation we have a number of subsidiary companies (“Group Companies”) that operate some of our sites on our behalf or provide services to us to enable us to provide the Services to you. For data protection purposes, these companies are called data processors and this includes Together Networks Ltd, who operates this site. Our Group Companies are all wholly/majorly owned by us.   
 **(b) ABOUT OUR PARTNER SITES**  
-If you are reading this policy you are using one of our sites or apps. We have an extensive network of sites that we categorise as Traditional Sites (for traditional romantic relationships e.g. Flirt), Casual Sites (for short-term casual relations e.g. BeNaughty.com) and Niche Sites (for like-minded people to meet e.g. UniformDating.com). To find out more about our full network of sites please visit our company website Cupid plc. We want to offer you a full range of products and services and in order to do that we will share your details across our Partner Sites (See below Creation of duplicate profiles across our Partner Sites) and we will market our different products and services to you (See below Marketing). You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Partner Sites and our Group Companies for the purposes of delivering the Services to you.   
+We want to offer you a full range of products and services and in order to do that we will share your details across our Partner Sites (See below **Creation of duplicate profiles across our Partner Sites** ) and we will market our different products and services to you (See below **Marketing** ). You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Partner Sites and our Group Companies for the purposes of delivering the Services to you.   
 **2\. YOUR RIGHTS TO ACCESS/AMEND THE DATA WE HOLD ON YOU & OPT OUT**   
 **(a) Accessing the data we hold on you**   
 If you want to know what data we hold on you, you have a legal right to obtain this information from us. You can make a Subject Access Request at any time, in writing, by following this simple process. By law, we have up to 40 days to respond to you and reserve the right to make a small charge for this service.  
 To make a Subject Access Request please write to us enclosing a photocopy of a photographic ID (e.g. passport or driving licence) and utility bill (to provide proof of your address). This is to ensure we only send your data to you, or a third party that you expressly authorise in writing to deal with for you.  
-Our address for this purpose only is Legal Dept:  
-Cupid plc (FLIRT)  
-410 Park Avenue  
-15th Floor  
-New York  
-NY 10022  
-USA
-
+Our address for this purpose only is Together Networks Ltd Legal Dept, c/o 5th Floor, 7 Castle Street, Edinburgh EH2 3AH  
 **(b) Amending/correcting the data we hold on you**  
-If you want to amend the data we hold that’s also very easy to do. We want to make sure we have everything right so please simply contact us at [datarequest@cupid.com](mailto:datarequest@cupid.com) to make any amendments to our records.  
+If you want to amend the data we hold that’s also very easy to do. We want to make sure we have everything right so please simply contact us at Together Networks Ltd Legal Dept, c/o 5th Floor, 7 Castle Street, Edinburgh EH2 3AH to make any amendments to our records.  
 **(c) Changing your consent and opting out**  
 It’s ok to change your mind about what data you are allowing us to keep and what you don’t want us to keep. You can amend your settings through your account at any time, or contact our Support team.  
 We have to advise you however, that opting out of some data processing/storage will result in a loss of functionality of the sites and a reduced user experience.  
@@ -51,11 +43,22 @@ We may collect and process different types of information about you. Some of thi
 **(a) Information we collect when you sign up to our Services**  
 We will collect your personal details including but not limited to your real name, user name, address, telephone, email address, date of birth, race, religion, sexual orientation and any other information you submit when you create a profile and sign up to our Services  
 **(b) Data we collect in respect of customer service and support**  
-If you contact customer support including Dating Advisers we will keep any information you provide to us including records of correspondence.  
+If you contact customer support we will keep any information you provide to us including records of correspondence.  
 If you provide feedback to us, or take part in any customer survey, or participate in competitions we, we will keep any information you provide.  
 **(c) Data we collect/you upload from your activity across our Services:**  
 When you use our Services to search for other users, explore our Services, or interact with other users, we will gather data related to these activities including:  
-Any information you populate your profile with including photographs (see also – Important Notice about how we use your photos); Any messages that you send or receive through our sites; A record of your activity including winks, block lists and search histories for example is also stored by us; Details of any transactions that you carry out, including any information we require to provide the products or services that you sign up to; Data from your other social network accounts if they are linked to our sites (see more details below – Information we collect from other social networks you use); Your location according to the IP address assigned to your computer machine or mobile device by your Internet Service Provider, and mobile location data (see more details below – Information we collect about your location) Usage data about how you use our site, this is what we consider Anonymous Data, which we collect using Cookies (see more details below – Our Cookie Policy)  
+
+
+  * Any information you populate your profile with including photographs (see also – **Important Notice about how we use your photos** );
+  * Any messages that you send or receive through our sites;
+  * A record of your activity including winks, block lists and search histories for example is also stored by us;
+  * Details of any transactions that you carry out, including any information we require to provide the products or services that you sign up to;
+  * Data from your other social network accounts if they are linked to our sites (see more details below – **Information we collect from other social networks you use** );
+  * Your location according to the IP address assigned to your computer machine or mobile device by your Internet Service Provider, and mobile location data (see more details below – **Information we collect about your location** )
+  * Usage data about how you use our site, this is what we consider Anonymous Data, which we collect using Cookies (see more details below – **Our Cookie Policy** )
+
+
+
 **(d) Information we collect from other social networks that you use**  
 Some of our Services have the ability to link your use of the Services to other social networks you might have access to. If you have an account with another social network e.g. Facebook, you can share the data you have on our site with that network. To enhance your experience and create a personalised service we may ask you to login to your Facebook account. By doing so you grant us access to your information stored on your Facebook profile including without limitation your personal information, photographs, videos, interests and locations. When you login to the other network or install our app, we will receive the basic information from you including but not limited to your name, photos, gender, networks, user ID, friends list and any other information you make public and your email address. If you have logged into other social networks and linked them to any of our profiles you grant permission for us to post updates, including location information, on your behalf therefore please exercise caution. You can turn off location data – see below.  
 **(e) Information we collect about your location**  
@@ -74,14 +77,14 @@ We process data we collect from you for the following core purposes:
   * To answer any questions you may raise or respond to any comments you may send to us;
   * To notify you about changes to our service or the functionality of the Site;
   * To carry out market analysis and research;
-  * To ensure that you are complying with the terms and conditions of use and to comply with our statutory and regulatory obligations;
+  * To ensure that you are complying with the [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and to comply with our statutory and regulatory obligations;
 
 
 
 **(a) Creation of duplicate profiles across our Partner Sites**  
 When you sign up to any one of our Services we will send you an email shortly afterwards advising that we have created a duplicate profile on our Partner Sites to enhance your chance of finding a suitable match. When we email you about this you will have the option to decline this service, which costs nothing extra.  
 **(b) Important notice about how we use your photographs**  
-As we explain in our terms and conditions, when you upload a photo to any of our Services you are allowing us to use that photo for advertising and other commercial purposes, royalty free. For full details please refer to our terms and conditions – Licence to My Content).  
+As we explain in our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s), when you upload a photo to any of our Services you are allowing us to use that photo for advertising and other commercial purposes, royalty free. For full details please refer to our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) – Licence to My Content).  
 **(c) How we use your information about your Contacts**  
 If you choose to upload your Contact’s name and email address and/or mobile number you are allowing us to send an email or social network or mobile invitation on your behalf, inviting your Contact to join the Services. We will store your Contact’s name and email address solely for the purposes of inviting them to sign up to our Services and for associating your Contact with you and other people they may know. If your Contact does not want us to store their email address which you uploaded to our Services, they can ask us to remove it by contacting us at [datarequest@cupid.com](mailto:datarequest@cupid.com). We will not store your Contacts information after invitations (up to a maximum of 3) have been sent. Your Contacts will then only receive future emails from us if they choose to accept the invitation and join our Services, or if you use any of our tools to share experiences with your Contacts and you input their email address for us to use again.  
 **(d) When we disclose your information to third parties and why**  
@@ -89,8 +92,8 @@ We may be required by law e.g. through potential or actual litigation, court ord
 **5\. MARKETING**  
 **(a) When we market to you directly about our products and services**  
 We may share your information with our Partner Sites and Group Companies to develop and deliver targeted advertising to you of our Partner Sites and Group Companies’ products and services, or to help us to prepare marketing reports. We may send you information about our Partner Sites and Group Companies’ products and services, news and offers, and selected third party products and services that we think may be of interest to you. We may do this by contacting you through your email address or mobile phone number that you have provided. Any communication received from us, as consented to by you, will clearly state that it is being sent by us. You have the option to opt-out of our marketing communications at any time (see below).  
-**(b) When third parties market to you**  
-If you have consented to receive marketing communications from third parties, your data may be passed on to such third parties as we enter into data sharing agreements with, from time to time, for marketing purposes. We cannot be held liable for the content of the third party’s communications or products/services they are promoting. If you have provided this consent, but change your mind, you can opt-out at any time (see below). Please be advised that you will also require to contact the individual third parties who have been marketing to you if you wish to stop receiving their communications directly.  
+**(b) When third parties market to you (Our “third party Partner Services”)**  
+If you have consented to receive marketing communications from third parties during our sign up process, referred to as Partner Services, your data may be passed on to such third parties as we enter into data sharing agreements with, from time to time, for marketing and analytical reporting purposes. We cannot be held liable for the content of the third party’s communications or products/services they are promoting. If you have provided this consent, but change your mind, you can opt-out at any time (see below). Please be advised that you will also require to contact the individual third parties who have been marketing to you if you wish to stop receiving their communications directly.  
 **(c) Opting Out of Marketing**  
 If you change your mind about the marketing consent you have granted to us, you can amend your preferences under the “My Account” section of your chosen Site or emailing us at [unsubscribe@flirt.com](mailto:unsubscribe@flirt.com)  
 **6\. WHERE WE STORE YOUR DATA**  
