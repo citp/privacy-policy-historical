@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the automoblog.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211143id_/http%3A//www.automoblog.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automoblog.net privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130105322id_/http%3A//www.automoblog.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This is the web site of Automoblog.net – owned in whole by **Gearhead Media, LLC**.
-
-Our postal address is:  
-2405 Tiemouse Ln.  
-Apex, NC 27523
 
 We can be reached via our [Contact Page](http://www.automoblog.net/contact/)
 
