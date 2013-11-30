@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the kissonline.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612222517id_/http%3A//www.kissonline.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissonline.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130012554id_/http%3A//www.kissonline.com/policy) for the most accurate reproduction.*
 
 # KISSONLINE.com > Privacy Policy
 
 ## KISSONLINE.com Privacy Policy
-
-## **Live Nation Entertainment Privacy Policy- Your Privacy Rights**
 
 (last updated January 17, 2013)
 
@@ -137,4 +135,4 @@ We may work with online advertising companies to show you relevant and useful ad
 
 To opt out of having your online behavioral advertising, click [here](http://www.aboutads.info/choices).
 
-© 2012 Live Nation Entertainment,Inc. All rights reserved. 
+© 2013 Live Nation Entertainment,Inc. All rights reserved. 
