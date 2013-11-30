@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the xxxproposal.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231015336id_/http%3A//join.xxxproposal.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxproposal.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130160946id_/http%3A//xxxproposal.com/tour4/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-**XXX Proposal**
+**XXXPROPOSAL.COM**
 
 **PRIVACY POLICY STATEMENT**  
-  
   
 
 
