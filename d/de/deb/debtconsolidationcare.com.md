@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508165044id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130091735id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy (A+ on BBB)
+# Privacy Policy(A on BBB)
 
-#### Effective from 9th April, 2010
+Effective from 9th April, 2010
 
 ## Our commitment to protect your privacy
 
