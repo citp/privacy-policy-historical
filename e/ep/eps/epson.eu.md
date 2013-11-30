@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epson.eu privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606021905id_/https%3A//www.epson.eu/ix/en/viewcon/corporatesite/cms/index/10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.eu privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130090711id_/http%3A//www.epson.eu/ix/en/viewcon/corporatesite/misc/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Epson
+# Epson
 
 **This Privacy Policy describes how we, Epson, collect and use personal information about you, in a way which respects your privacy and complies with our legal obligations.**
 
