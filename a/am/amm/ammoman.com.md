@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ammoman.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531140018id_/http%3A//ammoman.com/t/privacyinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammoman.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130025505id_/http%3A//www.ammoman.com/t/privacyinfo) for the most accurate reproduction.*
 
-# AMMOMAN.com. Privacy policy
+# Privacy Notice
 
 **Discount Distributors** **d/b/a "AMMOMAN.COM"  
 ** **PRIVACY POLICY**
@@ -28,8 +28,8 @@ Please feel free to contact [info@ammoman.com](mailto:info@ammoman.com) with que
 Terms of Use. Last Updated: 2/3/2012**
 
 ****AMMOMAN.COM d/b/a - DISCOUNT DISTRIBUTORS  
-**151 COOPER ROAD - WEST BERLIN, NJ 08091  
-[FOR DIRECTIONS TO US CLICK HERE](http://maps.google.com/maps/place?cid=12368018160953448800&q=151+COOPER+ROAD+WEST+BERLIN,+NJ+08091&hl=en&cd=1&cad=src:pplink&ei=buBTTe3nCo30yATdtPnoBA)**
+**Newark, New Jersey, PO Box 10188, Newark, NJ 07101-3188  
+[FOR DIRECTIONS TO US CLICK HERE](https://maps.google.pl/maps?q=Newark,+New+Jersey+PO+Box+10188+Newark,+NJ+07101-3188&hl=pl&ll=40.7308,-74.172413&spn=0.005887,0.008256&sll=54.207222,16.217003&sspn=0.411229,1.056747&hnear=Newark,+New+Jersey+07101,+Stany+Zjednoczone&t=h&z=18&iwloc=A)**
 
 **OPEN ON MONDAY THROUGH FRIDAY  
 from 8am TO 3pm E.S.T.PHONE: (856) 767-8835  
@@ -38,9 +38,4 @@ ALL OTHER TIMES [EMAIL US HERE](mailto:info@ammoman.com)**
 
 **SORRY BUT WE DO NOT SHIP TO ALASKA, HAWAII, MASSACHUSETTS or NEW JERSEY - ILLINOIS RESIDENTS[ CLICK HERE](http://www.ammoman.com/t/Illinois)**
 
-**Any questions on new or past orders, products or calibers, etc.   go to: [info@ammoman.com](mailto:info@ammoman.com)**
-
- **SORRY BUT WE DO NOT SHIP TO ALASKA , HAWAII, MASSACHUSETTS or NEW JERSEY  
-ILLINOIS RESIDENTS [CLICK HERE](http://www.ammoman.com/t/Illinois)**
-
-**[](http://www.ammoman.com/t/Illinois)**
+**Any questions on new or past orders, products or calibers, etc.   go to: [info@ammoman.com](mailto:info@ammoman.com)[](mailto:ammoman5@comcast.net)**[ ****](mailto:eric@ammoman.com)
