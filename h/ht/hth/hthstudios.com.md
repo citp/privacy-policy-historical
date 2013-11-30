@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hthstudios.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530034159id_/http%3A//www.hthstudios.com/index.php/component/content/article%3Fid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hthstudios.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130074929id_/http%3A//www.hthstudios.com/index.php/component/content/article%3Fid%3D9) for the most accurate reproduction.*
 
 # HTH Studios
 
 **What information do we collect?**
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter.
+We collect information from you when you register on our site, or place an order.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
@@ -50,4 +50,4 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on 2012-12-05
+This policy was last modified on 09-22-2013
