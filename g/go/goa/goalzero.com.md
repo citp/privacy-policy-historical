@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goalzero.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510021142id_/http%3A//www.goalzero.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goalzero.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130015540id_/http%3A//www.goalzero.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Goal Zero
 
