@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthination.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118122912id_/http%3A//www.healthination.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthination.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202002352id_/http%3A//www.healthination.com/privacy-editorial-policy.php) for the most accurate reproduction.*
 
-# HealthiNation - Privacy Policy - HealthiNation.com
+# HealthiNation - Videos to inspire a healthy and active lifestyle for audiences everywhere
 
 Welcome to [www.healthination.com](http://www.healthination.com/) (the "Website(s), referred to herein sometimes collectively as either the "Website" or "Website(s)"), operated by HealthiNation, a New York company ("HealthiNation", "we", "our", or "us"). This Privacy Policy is intended to inform you about how HealthiNation collects and uses your personally identifiable information ("PII") and other information in operating our Website(s). 
 
@@ -84,4 +84,159 @@ HealthiNation will not knowingly collect PII from anyone under thirteen (13) yea
 
 If you wish to remove, change or amend the PII that you have submitted to HealthiNation, please send us an email requesting such removal, change or amendment to [privacy@healthination.com](mailto:privacy@healthination.com). If you have questions or concerns about any of our information collection or handling practices, please contact us at [privacy@healthination.com](mailto:privacy@healthination.com). 
 
-LAST UPDATED: JUNE 4, 2012 
+**_LAST UPDATED: JUNE 4, 2012_**
+
+* * *
+
+**HealthiNation's Editorial Policy**
+
+HealthiNation's editorial goal is to provide the most accurate, objective, well-balanced health information to our viewers. HealthiNation's editorial team maintains complete editorial independence, free from influence by advertisers, sponsors, partners, or other sources. Our editorial team is separate from the sales team, who works on promotional activities. 
+
+**1\. Editorial Team**
+
+Our editorial team includes our Chief Medical Officer (an MD), Medical Director of Programming (an MD), Senior Producer, and Assistant Producers. Our staff editorial team is joined in our work by members of our Medical Advisory Board, which includes practicing, board-certified physicians trained in a variety of sub-specialties and other health professionals, such as registered dieticians. Biographies of members of HealthiNation's editorial staff and Medical Advisory Board can be viewed at these links:  
+Staff: [http://www.healthination.com/About-Us/HealthiNation-Team](http://www.healthination.com/About-Us/HealthiNation-Team%20)  
+Medical Advisory Board: <http://www.healthination.com/Who-We-Are/Medical-Advisory-Board>
+
+**2\. Editorial Content**
+
+We are dedicated to providing information on a wide variety of health topics. We create original educational programming about the most relevant health topics and health trends affecting the public. Topics are also selected in response to the interests and requests from HealthiNation's viewers. Each week, the editorial team meets to discuss production issues. The MAB meets on a formal basis twice a year and is consulted on an ongoing, individual basis for input on content development.
+
+**2.a. Original Production** :  
+Prior to the release of any originally-produced content, physicians on staff and appropriate members of the Medical Advisory Board review the content. The process includes the following review touch-points: 
+
+  * The topic outline is reviewed by the Chief Medical Officer, Medical Director of Programming, Senior Producer and Physician host of the segment;
+  * Once approved, the outline is developed into a script by the Senior Producer or Assistant Producer.
+  * The script is reviewed by the Chief Medical Officer or Medical Director of Programming, the Senior Producer/Assistant Producer and Physician host for the particular segment.
+  * Once the script is approved, it goes into production and the video segment is shot.
+  * Any graphics included in a video segment are created with the input of the Chief Medical Officer and/or Medical Director of Programming.
+  * A final post-production review of the finished segment is done by the Chief Medical Officer, Medical Director of Programming, and Senior Producer/Assistant Producer.
+
+
+
+  
+**2.b. Bi-Annual Review Process of Content** :  
+Each segment is reviewed bi-annually by two of the following: the Medical Director of Programming, Chief Medical Officer, or Staff Physician Reviewer and the Physician Host of the segment, to ensure that the medical information is accurate and current. An extensive review is conducted to determine if there have been changes in practice guidelines that have occurred during the previous two years. Further, the Chief Medical Officer, Medical Director of Programming, Staff Reviewer and MAB members work to update content throughout the year on a case-by-case basis, as appropriate, based on any new important medical advances, news, major changes in guidelines or drug recalls, etc. 
+
+**3\. Content Reviewer Qualifications**
+
+Our HealthiNation editorial team includes our Chief Medical Officer (an MD), Medical Director of Programming (an MD), Senior Producer, and Assistant Producers. Our staff editorial team is joined by members of our Medical Advisory Board, which includes practicing, board-certified physicians trained in a variety of sub-specialties and other health professionals, such as registered dieticians. The health education content is created and reviewed by our extensive editorial team. However, final content review always includes at least two, and often three, doctors. 
+
+At least one of the health content reviewers is an expert in the specialty area of the condition/segment under review. Each segment is reviewed by at least two doctors according to the following tiered qualifications. 
+
+Tier 
+
+| 
+
+**MD General Reviewer**
+
+| 
+
+**MD Specialist Reviewer**  
+  
+---|---|---  
+  
+Credentials 
+
+| 
+
+Mandatory requirement: 
+
+  1. MD degree from accredited university;
+  2. hospital affiliation or private practice is nice to have but not mandatory;
+  3. in good standing.
+
+| 
+
+MD who is in practice: mandatory credentials are 1) MD degree; 2) board certification in specialty area (e.g. pediatrics, ob/gyn, plastic surgery); 
+
+3) current license; 
+
+4) in good standing.   
+  
+Show review process 
+
+| 
+
+Can be only one of the two reviewers required on each show 
+
+| 
+
+Reviews shows within their specialty area   
+  
+The Medical Director of Programming is responsible for overseeing the content review process and works directly with physicians on the Medical Advisory Board to review all content. 
+
+**3.a. Staff Requirements** :  
+The HealthiNation position of Chief Medical Officer and the Medical Director of Programming are both medical doctor positions. Candidates must be a medical doctor educated and trained in an accredited MD-granting medical school, preferably one of the 131 US or 17 Canadian accredited medical schools. Preference is given to either a physician affiliated with an academic institution or a physician in private practice. Staff writers/producers/assistant producers have a college degree and preferably several years experience in producing video content. 
+
+**3.b. Medical Advisory Board (MAB) Requirements** :  
+HealthiNation's Medical Advisory Board members include physicians trained in various subspecialties of medicine and surgery, and other health professionals such as nutritionists and/or psychologists. MAB member selection is based on factors such as specialty training, board certification and institutional representation. HealthiNation makes every effort to have a well-rounded Medical Advisory Board that represents a range of specialties, such that we have a breadth of medical expertise to draw upon. 
+
+Medical Advisory Board members serve at the invitation of HealthiNation senior management and sign a contract for their services, in which they legally attest to their stated education, training, licensure, and board-certification(s). Medical Advisory Board members engage with HealthiNation under the agreement that the services they provide to HealthiNation do not in any way constitute medical practice or the giving of medical advice, rather, that HealthiNation provides only general health information via educational videos. HealthiNation verifies licensure/certifications and standing in the medical community with State Medical Boards every two years, upon contract initiation or renewal. MAB contracts are renewed every two years. The contract requires MAB physicians to notify HealthiNation of any change in medical licensure status to HealthiNation with 21 days of any change, including but not limited to re-licensure, board certifications, and/or any disciplinary action(s). If MAB members were not deemed to be in good standing in the medical community (which could include factors such as adverse changes in affiliation, practice, licensure or certification status, and/or issues involving personal integrity or conflicts of interest) as judged by HealthiNation senior management, their contracts can be/will be terminated, and/or will not be renewed. 
+
+**3.c. Conflict of Interest Disclosures** :  
+All editorial staff of HealthiNation and any physician/medical/health professional who serves on the HealthiNation Medical Advisory Board must fully disclose, by signing our Conflict of Interest Statement, any financial interests or other meaningful relationship(s) that he or she or his/her spouse/partner may have in any pharmaceutical, biotech, medical device or other company in the medical arena that may present a conflict of interest in the development of any given video segment. 
+
+**4\. Sources of Information**
+
+HealthiNation's content is created in-house by the editorial staff, which includes physicians and producers. Our sources include peer-reviewed medical journals, medical conferences, government agencies, medical and health associations, our medical advisory board, and physician specialists, as needed. Sources for each segment produced are recorded on the show text summary, which can be found on www.healthination.com near the thumbnail of each video segment. 
+
+**5\. Author, Source and Date Disclosure**
+
+HealthiNation provides the name and title/credentials of the author/host, and/or source of the material used to create our video segments and the date of the most recent review or update for each segment. This information is located on the text summary page of the video segment. Sponsorship, if any, is fully disclosed on video segments and text summaries. 
+
+HealthiNation also maintains an internal database that tracks the author, source and original production date, along with last review date for each segment. Each segment is reviewed and updated on a bi-annual basis, or as needed, based upon new evidence (whichever is sooner), by either the author of the segment/HealthiNation physician staff member and/or a member of the Medical Advisory Board. The name of the medical professional who reviewed the content is also disclosed. 
+
+**6\. Licensed Health Content**
+
+If we so choose, HealthiNation is committed to licensing health content that upholds the same standards we use to create our own independent content. Should HealthiNation license health and lifestyle content from a Third-Party provider, a thorough due-diligence will be performed on the content itself and the editorial process by which the content is created. We will verify that the Third-Party's editorial policies and procedures reflect those of HealthiNation's standards articulated in this document and reflect best practices in the industry. Our agreement with any Third-Party will stipulates that the Third-Party will provide content generated by appropriately credentialed authors, that it is medically accurate, and updated in a timely way. The content should be reviewed, at least, on a bi-annual basis, and if any relevant change occurs in medical practice before that time, updates should be made accordingly. Although, HealthiNation's editorial staff will not review each individual segment, we will review a representative sample to determine if the editorial policy is implemented. If, at any time, the editorial process or content of the Third-Party does not meet these requirements, the content will be taken down at the discretion of HealthiNation and will not be distributed on our affiliate network until appropriate changes are made. If the Third-Party is found to be in continued violation of HealthiNation's standards, HealthiNation will cease to work with that Third-Party. 
+
+**7\. Editorial Integrity**
+
+We make a clear distinction between our independently produced, educational, health content and any advertising or sponsorship that may accompany it. Additionally, all advertisements placed against HealthiNation content are clearly marked as "advertiser content." 
+
+Staff of HealthiNation and any person who serves on our Medical Advisory Board must sign a Conflict of Interest statement to fully disclose any financial or other interests that he or she may have in any pharmaceutical, biotech, medical device or other company perceived to have influence in the healthcare industry. This is to assure transparency in our production process. If there is a conflict of interest, the individual will not be allowed to partake in the production of the related video segment, as determined by HealthiNation staff. 
+
+**8\. Advertising Distinguished from Health Content**
+
+HealthiNation clearly distinguishes advertising content sponsored by outside parties from our independently-created health content. 
+
+HealthiNation uses a number of terms to connote that the associated content - whether ads or informational content - is funded by an outside party. Two broad categories of sponsorship terms are used, "Advertisement," and "Sponsor Content": 
+
+  * **Advertising** : HealthiNation accepts funding from outside parties to run ads that promote their products/services across our distribution network. These ads are typically placed in banners above or below our video player. Such advertising content is subject to HealthiNation's Advertisement Policy, and, when necessary, the regulatory guidelines of agencies such as the U.S. Food and Drug Administration (FDA) and the Federal Trade Commission (FTC). The Sponsor is responsible for the information in the Advertisement. HealthiNation does not endorse any products, service or treatment discussed within Advertisements.
+  * **Sponsor Content** : HealthiNation includes sponsored content in the form of video lead-ins to HealthiNation videos or as stand-alone video segments for distribution across our network. Such video pre-rolls or video segments are clearly labeled as advertising/sponsored content, with a billboard embedded at the beginning of the video segment and a label below the video as it plays.
+
+
+
+HealthiNation distinguishes our own independently-created content from outside content/ads by labeling it as Advertisement or Sponsored Content. We clearly indicate on both the website (www.healthination.com) and in our syndicated, network video player, when and where such sponsored content/ads appear. The following link takes you to our advertising solutions page, which shows the placement of ads and sponsored programming within our video player: <http://www.healthination.com/Advertise-With-Us/Advertising-Solutions>. 
+
+**9\. Claims of Therapeutic Benefit**
+
+Physicians on staff, in concert with the Medical Advisory Board - comprised of physicians and dieticians who act as hosts of HealthiNation videos - make sure that claims of therapeutic benefit are supported by evidence gleaned from clinical organizations, medical conferences, government agencies, and published best practice guidelines from medical and health associations. As part of our editorial process, the medical team researches the topic under discussion by reviewing a wealth of information gathered from the above-named sources, as well as the medical literature, which is searched on databases such as PubMed, the Cochrane Database and Up-to-Date. AHRQ Documentation of sources and the URLs providing links to the source documents, when appropriate, are provided on the text summary page of each video segment. 
+
+**10\. False or Misleading Claims**
+
+HealthiNation is the sole decision-maker for determining the types of advertising that are accepted and displayed within the HealthiNation network. 
+
+HealthiNation does not endorse any medications, products and/or services advertised. 
+
+HealthiNation categorically does not accept Advertisements that promote products, services, websites or other items that fall within the following groups: 
+
+  * Tobacco of any kind
+  * Weapons, firearms and/or fireworks
+  * Pornography or other obscenity
+  * Alcoholic beverages
+  * Any product that is illegal in the U.S.
+  * Ads aimed directly at children
+  * Ads that are factually incorrect or aim to deceive the viewer, either about the effectiveness of the product itself or in the manner in which the ad is displayed (for example, a mock news story)
+  * Material that is deemed disrespectful, demeaning, or offensive to a particular group of individuals, simply lacking in taste, or harmful in any way to the reputation of HealthiNation.
+
+
+
+If a question arises regarding the acceptability of an Advertiser or advertisement, the issue goes before the HealthiNation Quality Control Committee where either the potential advertiser or the advertisement is reviewed for acceptability. The advertiser or advertisement is judged for both its appropriateness and credibility, particularly with regard to health claims.
+
+Advertisers are expected to adhere to the appropriate regulatory guidelines of agencies such as the U.S. Food and Drug Administration (FDA) and the Federal Trade Commission (FTC) governing any particular product advertisement (for example, pharmaceutical drug ads aimed at consumers must comply with the FDA's guidelines for Direct-to-Consumer advertising.) If HealthiNation becomes aware of any breach with applicable laws and regulations, HealthiNation has the right and responsibility to cancel the advertisement. 
+
+HealthiNation reserves the right to remove or cancel, at any time, for any reason, any Advertising from the HealthiNation network. Advertisers will be promptly notified should such an action occur. Sponsored content is clearly identified as such in the HealthiNation network. HealthiNation reserves the right to best determine how to distinguish Advertising/Sponsored content from our originally-produced editorial content. 
+
+**_LAST UPDATED: January 2012_**
