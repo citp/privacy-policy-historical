@@ -1,0 +1,496 @@
+<!--The following is the downloaded HTML source of the nawaal.com privacy policy that was archived on 2013-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202000633id_/http%3A//www.nawaal.com/Content.aspx%3FType%3DPrivacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>
+	Welcome To Nawal
+</title><link href="css/text.css" rel="stylesheet" type="text/css"><link href="css/core-1.0.0.css" rel="stylesheet" type="text/css"><link href="css/common.css" rel="stylesheet" type="text/css"><link href="css/signin-register.css" rel="stylesheet" type="text/css"><link href="css/experiment.css" rel="stylesheet" type="text/css">
+    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js" type="text/javascript"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js" type="text/javascript"></script>
+    
+    
+    <link href="App_Themes/Customer/jquery.ui.core.css" rel="stylesheet" type="text/css"><link href="App_Themes/Customer/jquery.ui.datepicker.css" rel="stylesheet" type="text/css"><link href="App_Themes/Customer/jquery.ui.theme.css" rel="stylesheet" type="text/css"><link href="css/Menu/anylinkmenu.css" rel="stylesheet" type="text/css">
+    <script src="Scripts/Menu/menucontents.js" type="text/javascript"></script>
+    <script src="Scripts/Menu/anylinkmenu.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        anylinkmenu.init("menuanchorclass");
+        $(function () {
+            if (window.location.toString().indexOf('music') < -1 && window.location.toString().indexOf('video') < -1) {
+                $('.date').datepicker({
+                    //  beforeShowDay: function(date) { return [true, '', $.datepicker.formatDate('DD, MM, yy', date)]; }
+                    dateFormat: 'dd/mm/yy',
+                    showOn: 'both',
+                    buttonImage: "Images/calendar.gif",
+                    buttonImageOnly: true,
+                    showmonth: true,
+                    changeMonth: true,
+                    changeYear: true,
+                    showAnim: 'slideDown',
+                    buttonText: "",
+                    duration: 'fast',
+                    maxDate: 0,
+                    yearRange: "-60:+0",
+                    buttonText: "",
+                    selectOtherMonths: true
+                });
+
+                $(".ui-datepicker-trigger").mouseover(function () {
+                    $(this).css('cursor', 'pointer');
+                });
+            }
+        });
+        
+    </script>
+    <style type="text/css">
+        /* This is the style for the trigger icon. The margin-bottom value causes the icon to shift down to center it. */
+        .ui-datepicker-trigger
+        {
+            margin-left: 5px;
+            margin-top: 8px;
+            margin-bottom: -3px;
+        }
+    </style>
+    <script language="javascript" type="text/javascript">
+
+        function searchsite() {
+            debugger;
+            var searchText = document.getElementById('txtSearch').value;
+            window.location = 'search.aspx?txtSearch=' + searchText;
+            return true;
+        }
+
+        var DDSPEED = 10;
+        var DDTIMER = 15;
+
+        // main function to handle the mouse events //
+        function ddMenu(id, d) {
+            var h = document.getElementById(id + '-ddheader');
+            var c = document.getElementById(id + '-ddcontent');
+
+            clearInterval(c.timer);
+            if (d == 1) {
+                clearTimeout(h.timer);
+                if (c.maxh && c.maxh <= c.offsetHeight)
+                { return }
+                else if (!c.maxh) {
+                    c.style.display = 'block';
+                    c.style.height = 'auto';
+                    c.maxh = c.offsetHeight;
+                    c.style.height = '0px';
+                }
+                c.timer = setInterval(function () { ddSlide(c, 1) }, DDTIMER);
+            } else {
+                h.timer = setTimeout(function () { ddCollapse(c) }, 50);
+            }
+        }
+        //Photo Start
+        function ddMenuPhoto(id, d) {
+            var h = document.getElementById(id + '-ddheader');
+            var c = document.getElementById(id + '-ddcontent');
+
+            clearInterval(c.timer);
+            if (d == 1) {
+                clearTimeout(h.timer);
+                if (c.maxh && c.maxh <= c.offsetHeight)
+                { return }
+                else if (!c.maxh) {
+                    c.style.display = 'block';
+                    c.style.height = 'auto';
+                    c.maxh = c.offsetHeight;
+                    c.style.height = '0px';
+                }
+                c.timer = setInterval(function () { ddSlidePhoto(c, 1) }, DDTIMER);
+            } else {
+                h.timer = setTimeout(function () { ddCollapsePhoto(c) }, 50);
+            }
+        }
+        function ddSlidePhoto(c, d) {
+            var currh = c.offsetHeight;
+            var dist;
+            if (d == 1) {
+                dist = (Math.round((c.maxh - currh) / DDSPEED));
+            } else {
+                dist = (Math.round(currh / DDSPEED));
+            }
+            if (dist <= 1 && d == 1) {
+                dist = 1;
+            }
+            c.style.height = currh + (dist * d) + 'px';
+            c.style.opacity = currh / c.maxh;
+            c.style.filter = 'alpha(opacity=' + (currh * 100 / c.maxh) + ')';
+            if ((currh < 2 && d != 1) || (currh > (c.maxh - 2) && d == 1)) {
+                clearInterval(c.timer);
+            }
+        }
+        function cancelHidePhoto(id) {
+            var h = document.getElementById(id + '-ddheader');
+            var c = document.getElementById(id + '-ddcontent');
+            clearTimeout(h.timer);
+            clearInterval(c.timer);
+            if (c.offsetHeight < c.maxh) {
+                c.timer = setInterval(function () { ddSlide(c, 1) }, DDTIMER);
+            }
+        }
+        function ddCollapsePhoto(c) {
+            c.timer = setInterval(function () { ddSlide1(c, -1) }, DDTIMER);
+        }
+        //Photo End
+        function ddMenu1(id, d) {
+
+            var h = document.getElementById(id + '-ddheaderon');
+            var c = document.getElementById(id + '-ddcontenton');
+
+            clearInterval(c.timer);
+            if (d == 1) {
+
+                clearTimeout(h.timer);
+                if (c.maxh && c.maxh <= c.offsetHeight) { return }
+                else if (!c.maxh) {
+                    c.style.display = 'block';
+                    c.style.height = 'auto';
+                    c.maxh = c.offsetHeight;
+                    c.style.height = '0px';
+                }
+                c.timer = setInterval(function () { ddSlide1(c, 1) }, DDTIMER);
+            } else {
+                h.timer = setTimeout(function () { ddCollapse1(c) }, 50);
+            }
+        }
+        function ddCollapse1(c) {
+            c.timer = setInterval(function () { ddSlide1(c, -1) }, DDTIMER);
+        }
+
+        // cancel the collapse if a user rolls over the dropdown //
+        function cancelHide1(id) {
+            var h = document.getElementById(id + '-ddheaderon');
+            var c = document.getElementById(id + '-ddcontenton');
+            clearTimeout(h.timer);
+            clearInterval(c.timer);
+            if (c.offsetHeight < c.maxh) {
+                c.timer = setInterval(function () { ddSlide1(c, 1) }, DDTIMER);
+            }
+        }
+        // collapse the menu //
+        function ddCollapse(c) {
+            c.timer = setInterval(function () { ddSlide(c, -1) }, DDTIMER);
+        }
+
+        // cancel the collapse if a user rolls over the dropdown //
+        function cancelHide(id) {
+            var h = document.getElementById(id + '-ddheader');
+            var c = document.getElementById(id + '-ddcontent');
+            clearTimeout(h.timer);
+            clearInterval(c.timer);
+            if (c.offsetHeight < c.maxh) {
+                c.timer = setInterval(function () { ddSlide(c, 1) }, DDTIMER);
+            }
+        }
+
+        // incrementally expand/contract the dropdown and change the opacity //
+        function ddSlide(c, d) {
+            var currh = c.offsetHeight;
+            var dist;
+            if (d == 1) {
+                dist = (Math.round((c.maxh - currh) / DDSPEED));
+            } else {
+                dist = (Math.round(currh / DDSPEED));
+            }
+            if (dist <= 1 && d == 1) {
+                dist = 1;
+            }
+            c.style.height = currh + (dist * d) + 'px';
+            c.style.opacity = currh / c.maxh;
+            c.style.filter = 'alpha(opacity=' + (currh * 100 / c.maxh) + ')';
+            if ((currh < 2 && d != 1) || (currh > (c.maxh - 2) && d == 1)) {
+                clearInterval(c.timer);
+            }
+        }
+        function ddSlide1(c, d) {
+            var currh = c.offsetHeight;
+            var dist;
+            if (d == 1) {
+                dist = (Math.round((c.maxh - currh) / DDSPEED));
+            } else {
+                dist = (Math.round(currh / DDSPEED));
+            }
+            if (dist <= 1 && d == 1) {
+                dist = 1;
+            }
+            c.style.height = currh + (dist * d) + 'px';
+            c.style.opacity = currh / c.maxh;
+            c.style.filter = 'alpha(opacity=' + (currh * 100 / c.maxh) + ')';
+            if ((currh < 2 && d != 1) || (currh > (c.maxh - 2) && d == 1)) {
+                clearInterval(c.timer);
+            }
+        }
+        function redirectPage(pageName) {
+            window.location = pageName + ".aspx";
+        }
+
+
+    </script>
+    <link href="css/dropdown.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-33832274-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    
+    <title id="head_Titles"></title>
+    <meta id="head_Description" content="Description" name="Description">
+    <meta id="head_Keywords" content="Keywords" name="Keywords">
+</head>
+<body>
+    <form method="post" action="Content.aspx?Type=PrivacyPolicy" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE3MDMzMDYxOA9kFgJmD2QWAgIDD2QWDgIDDxYCHglpbm5lcmh0bWwFE1dlbGNvbWUgR3Vlc3QmbmJzcDtkAgoPD2QWAh4Fc3R5bGUFDWRpc3BsYXk6bm9uZTtkAgwPFgIfAQUNZGlzcGxheTpub25lO2QCDg8PZBYCHwEFDWRpc3BsYXk6bm9uZTtkAhAPFgIfAQUNZGlzcGxheTpub25lO2QCEg8PFgIeB1Zpc2libGVnZGQCGg9kFgQCAQ8WAh8ABQ5Qcml2YWN5IFBvbGljeWQCAw8WAh8ABcNGWW91ciBwcml2YWN5IGlzIHZlcnkgaW1wb3J0YW50IHRvIHVzLiBXZSBkbyBub3QgcHVibGlzaCwgc2VsbCBvciByZW50IHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gdG8gdGhpcmQgcGFydGllcyBmb3IgdGhlaXIgbWFya2V0aW5nIHB1cnBvc2VzIHdpdGhvdXQgeW91ciBleHBsaWNpdCBjb25zZW50LiBQbGVhc2UgcmVhZCB0aGlzIHByaXZhY3kgcG9saWN5IHRvIGxlYXJuIG1vcmUgYWJvdXQgdGhlIHdheXMgaW4gd2hpY2ggd2UgdXNlIGFuZCBwcm90ZWN0IHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24uIFRoZSBwcml2YWN5IHByYWN0aWNlcyBvZiB0aGlzIHN0YXRlbWVudCBhcHBseSB0byBvdXIgc2VydmljZXMgYXZhaWxhYmxlIHVuZGVyIHRoZSBkb21haW4gYW5kIHN1YmRvbWFpbnMgb2Ygd3d3Lm5hd2Fsa3V3YWl0LmNvbSBuYXdhbCAodGhlICJTaXRlIikgYW5kIGFwcGx5IGdlbmVyYWxseSB0byBvdXIgcGFyZW50LCBhZmZpbGlhdGVzLCBzdWJzaWRpYXJpZXMgb3Igam9pbnQgdmVudHVyZSB3ZWJzaXRlcyB3aG9zZSBzcGVjaWZpYyBwcml2YWN5IHBvbGljaWVzIGFyZSBhdmFpbGFibGUuIEJ5IHZpc2l0aW5nIHRoaXMgd2Vic2l0ZSB5b3UgYWdyZWUgdG8gYmUgYm91bmQgYnkgdGhlIHRlcm1zIGFuZCBjb25kaXRpb25zIG9mIHRoaXMgUHJpdmFjeSBQb2xpY3kuIElmIHlvdSBkbyBub3QgYWdyZWUgcGxlYXNlIGRvIG5vdCB1c2Ugb3IgYWNjZXNzIG91ciBTaXRlLiBUaGlzIFByaXZhY3kgUG9saWN5IGRlc2NyaWJlcyB0aGUgaW5mb3JtYXRpb24sIGFzIHBhcnQgb2YgdGhlIG5vcm1hbCBvcGVyYXRpb24gb2Ygb3VyIHNlcnZpY2VzLCB3ZSBjb2xsZWN0IGZyb20geW91IGFuZCB3aGF0IG1heSBoYXBwZW4gdG8gdGhhdCBpbmZvcm1hdGlvbi4gQWx0aG91Z2ggdGhpcyBwb2xpY3kgbWF5IHNlZW0gbG9uZywgd2UgaGF2ZSBwcmVwYXJlZCBhIGRldGFpbGVkIHBvbGljeSBiZWNhdXNlIHdlIGJlbGlldmUgeW91IHNob3VsZCBrbm93IGFzIG11Y2ggYXMgcG9zc2libGUgYWJvdXQgbmF3YWwncyBwcmFjdGljZXMgc28gdGhhdCB5b3UgY2FuIG1ha2UgaW5mb3JtZWQgZGVjaXNpb25zLiBPdXIgcGFyZW50LCBzdWJzaWRpYXJpZXMgYW5kIGpvaW50IHZlbnR1cmVzIG9wZXJhdGUgdW5kZXIgc2ltaWxhciBwcml2YWN5IHByYWN0aWNlcyBhcyBkZXNjcmliZWQgaW4gdGhpcyBQcml2YWN5IFBvbGljeSBhbmQsIHN1YmplY3QgdG8gdGhlIHJlcXVpcmVtZW50cyBvZiBhcHBsaWNhYmxlIGxhdywgd2Ugc3RyaXZlIHRvIHByb3ZpZGUgYSBjb25zaXN0ZW50IHNldCBvZiBwcml2YWN5IHByYWN0aWNlcyB0aHJvdWdob3V0IHRoZSBnbG9iYWwgbmF3YWwgdHJhZGluZyBjb21tdW5pdHkuIEJ5IGFjY2VwdGluZyB0aGUgUHJpdmFjeSBQb2xpY3kgYW5kIHRoZSBVc2VyIEFncmVlbWVudCBpbiByZWdpc3RyYXRpb24sIHlvdSBleHByZXNzbHkgY29uc2VudCB0byBvdXIgdXNlIGFuZCBkaXNjbG9zdXJlIG9mIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gaW4gYWNjb3JkYW5jZSB3aXRoIHRoaXMgUHJpdmFjeSBQb2xpY3kuIFRoaXMgUHJpdmFjeSBQb2xpY3kgaXMgaW5jb3Jwb3JhdGVkIGludG8gYW5kIHN1YmplY3QgdG8gdGhlIHRlcm1zIG9mIHRoZSBVc2VyIEFncmVlbWVudC4gVGhpcyBQcml2YWN5IFBvbGljeSBpcyBlZmZlY3RpdmUgdXBvbiBhY2NlcHRhbmNlIGluIHJlZ2lzdHJhdGlvbiBmb3IgbmV3IHJlZ2lzdGVyaW5nIHVzZXJzLCBhbmQgaXMgb3RoZXJ3aXNlIGVmZmVjdGl2ZSBvbiAxc3QgQXByaWwgMjAxMCBmb3IgYWxsIHVzZXJzLiAxLiBZb3VyIFByaXZhY3kgLSBPdXIgQ29tbWl0bWVudCBBdCBuYXdhbCwgd2UgYXJlIGV4dHJlbWVseSBwcm91ZCBvZiBvdXIgY29tbWl0bWVudCB0byBwcm90ZWN0IHlvdXIgcHJpdmFjeS4gV2UgdmFsdWUgeW91ciB0cnVzdCBpbiB1cy4gV2Ugd2lsbCB3b3JrIGhhcmQgdG8gZWFybiB5b3VyIGNvbmZpZGVuY2Ugc28gdGhhdCB5b3UgY2FuIGVudGh1c2lhc3RpY2FsbHkgdXNlIG91ciBzZXJ2aWNlcyBhbmQgcmVjb21tZW5kIHVzIHRvIGZyaWVuZHMgYW5kIGZhbWlseS4gUGxlYXNlIHJlYWQgdGhlIGZvbGxvd2luZyBwb2xpY3kgdG8gdW5kZXJzdGFuZCBob3cgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiB3aWxsIGJlIHRyZWF0ZWQgYXMgeW91IG1ha2UgZnVsbCB1c2Ugb2Ygb3VyIFNpdGUuIDIuIG5hd2FsIFByaXZhY3kgR3VhcmFudGVlIG5hd2FsIHByb21pc2VzIHRoYXQgd2Ugd2lsbCBub3Qgc2VsbCBvciByZW50IHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gdG8gdGhpcmQgcGFydGllcyBmb3IgdGhlaXIgbWFya2V0aW5nIHB1cnBvc2VzIHdpdGhvdXQgeW91ciBleHBsaWNpdCBjb25zZW50LiBGcm9tIHRpbWUgdG8gdGltZSB3ZSBtYXkgcmV2ZWFsIGdlbmVyYWwgc3RhdGlzdGljYWwgaW5mb3JtYXRpb24gYWJvdXQgb3VyIFdlYiBzaXRlIGFuZCB2aXNpdG9ycywgc3VjaCBhcyBudW1iZXIgb2YgdmlzaXRvcnMsIG51bWJlciBhbmQgdHlwZSBvZiBnb29kcyBhbmQgc2VydmljZXMgcHVyY2hhc2VkLCBldGMuIFlvdXIgdHJ1c3QgYW5kIGNvbmZpZGVuY2UgYXJlIG91ciBoaWdoZXN0IHByaW9yaXR5LiAzLiBJbmZvcm1hdGlvbiB3ZSBjb2xsZWN0IFdoZW4geW91IHVzZSBvdXIgU2l0ZSwgd2UgY29sbGVjdCBhbmQgc3RvcmUgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiBmcm9tIHlvdS4gT3VyIHByaW1hcnkgZ29hbCBpbiBkb2luZyBzbyBpcyB0byBwcm92aWRlIGEgc2FmZSwgZWZmaWNpZW50LCBzbW9vdGggYW5kIGN1c3RvbWl6ZWQgZXhwZXJpZW5jZS4gVGhpcyBhbGxvd3MgdXMgdG8gcHJvdmlkZSBzZXJ2aWNlcyBhbmQgZmVhdHVyZXMgdGhhdCBtb3N0IGxpa2VseSBtZWV0IHlvdXIgbmVlZHMsIGFuZCB0byBjdXN0b21pemUgb3VyIFNpdGUgdG8gbWFrZSB5b3VyIGV4cGVyaWVuY2Ugc2FmZXIgYW5kIGVhc2llci4gSW1wb3J0YW50bHksIHdlIG9ubHkgY29sbGVjdCBwZXJzb25hbCBpbmZvcm1hdGlvbiBhYm91dCB5b3UgdGhhdCB3ZSBjb25zaWRlciBuZWNlc3NhcnkgZm9yIGFjaGlldmluZyB0aGlzIHB1cnBvc2UuIEluIGdlbmVyYWwsIHlvdSBjYW4gYnJvd3NlIHRoZSBTaXRlIHdpdGhvdXQgdGVsbGluZyB1cyB3aG8geW91IGFyZSBvciByZXZlYWxpbmcgYW55IHBlcnNvbmFsIGluZm9ybWF0aW9uIGFib3V0IHlvdXJzZWxmLiBPbmNlIHlvdSBnaXZlIHVzIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24sIHlvdSBhcmUgbm90IGFub255bW91cyB0byB1cy4gVG8gZnVsbHkgdXNlIG91ciBTaXRlLCB5b3Ugd2lsbCBuZWVkIHRvIHJlZ2lzdGVyIHVzaW5nIG91ciBvbmxpbmUgcmVnaXN0cmF0aW9uIGZvcm0sIHdoZXJlIHlvdSBtYXkgYmUgcmVxdWlyZWQgdG8gcHJvdmlkZSB1cyB3aXRoIHlvdXIgbmFtZSwgZGF0ZSBvZiBiaXJ0aCwgY29udGFjdCBudW1iZXIsIGVtYWlsIGlkLCB1c2VyIGlkLCBwYXNzd29yZCwgIHJlc2lkZW5jZSAvIHBsYWNlIG9mIGJ1c2luZXNzIGluZm9ybWF0aW9uLCBiaWxsaW5nIGluZm9ybWF0aW9uLCBzaGlwcGluZyBpbmZvcm1hdGlvbiwgYmFuayBhY2NvdW50IGRldGFpbHMgYW5kIG90aGVyIHBlcnNvbmFsIGluZm9ybWF0aW9uIGFzIGluZGljYXRlZCBvbiB0aGUgZm9ybXMgdGhyb3VnaG91dCB0aGUgU2l0ZS4gV2hlcmUgcG9zc2libGUsIHdlIGluZGljYXRlIHdoaWNoIGZpZWxkcyBhcmUgcmVxdWlyZWQgYW5kIHdoaWNoIGZpZWxkcyBhcmUgb3B0aW9uYWwuIFlvdSBhbHdheXMgaGF2ZSB0aGUgb3B0aW9uIHRvIG5vdCBwcm92aWRlIGluZm9ybWF0aW9uIGJ5IGNob29zaW5nIG5vdCB0byB1c2UgYSBwYXJ0aWN1bGFyIHNlcnZpY2Ugb3IgZmVhdHVyZSBvbiB0aGUgU2l0ZS4gWW91IG1heSBwcm92aWRlIHVzIHdpdGggYSBuYXdhbCBJRC4gV2UgbWF5IGF1dG9tYXRpY2FsbHkgdHJhY2sgY2VydGFpbiBpbmZvcm1hdGlvbiBhYm91dCB5b3UgYmFzZWQgdXBvbiB5b3VyIGJlaGF2aW9yIG9uIG91ciBzaXRlLiBXZSB1c2UgdGhpcyBpbmZvcm1hdGlvbiB0byBkbyBpbnRlcm5hbCByZXNlYXJjaCBvbiBvdXIgdXNlcnMnIGRlbW9ncmFwaGljcywgaW50ZXJlc3RzLCBhbmQgYmVoYXZpb3IgdG8gYmV0dGVyIHVuZGVyc3RhbmQsIHByb3RlY3QgYW5kIHNlcnZlIG91ciB1c2Vycy4gVGhpcyBpbmZvcm1hdGlvbiBpcyBjb21waWxlZCBhbmQgYW5hbHl6ZWQgb24gYW4gYWdncmVnYXRlZCBiYXNpcy4gVGhpcyBpbmZvcm1hdGlvbiBtYXkgaW5jbHVkZSB0aGUgVVJMIHRoYXQgeW91IGp1c3QgY2FtZSBmcm9tICh3aGV0aGVyIHRoaXMgVVJMIGlzIG9uIG91ciBzaXRlIG9yIG5vdCksIHdoaWNoIFVSTCB5b3UgbmV4dCBnbyB0byAod2hldGhlciB0aGlzIFVSTCBpcyBvbiBvdXIgc2l0ZSBvciBub3QpLCB5b3VyIGNvbXB1dGVyIGJyb3dzZXIgaW5mb3JtYXRpb24sIGFuZCB5b3VyIElQIGFkZHJlc3MuIFdlIHVzZSBkYXRhIGNvbGxlY3Rpb24gZGV2aWNlcyBzdWNoIGFzICJjb29raWVzIiBvbiBjZXJ0YWluIHBhZ2VzIG9mIHRoZSBTaXRlIHRvIGhlbHAgYW5hbHl6ZSBvdXIgd2ViIHBhZ2UgZmxvdywgbWVhc3VyZSBwcm9tb3Rpb25hbCBlZmZlY3RpdmVuZXNzLCBhbmQgcHJvbW90ZSB0cnVzdCBhbmQgc2FmZXR5LiAiQ29va2llcyIgYXJlIHNtYWxsIGZpbGVzIHBsYWNlZCBvbiB5b3VyIGhhcmQgZHJpdmUgdGhhdCBhc3Npc3QgdXMgaW4gcHJvdmlkaW5nIG91ciBzZXJ2aWNlcy4gV2Ugb2ZmZXIgY2VydGFpbiBmZWF0dXJlcyB0aGF0IGFyZSBvbmx5IGF2YWlsYWJsZSB0aHJvdWdoIHRoZSB1c2Ugb2YgYSAiY29va2llIi4gV2UgYWxzbyB1c2UgY29va2llcyB0byBhbGxvdyB5b3UgdG8gZW50ZXIgeW91ciBwYXNzd29yZCBsZXNzIGZyZXF1ZW50bHkgZHVyaW5nIGEgc2Vzc2lvbi4gQ29va2llcyBjYW4gYWxzbyBoZWxwIHVzIHByb3ZpZGUgaW5mb3JtYXRpb24gdGhhdCBpcyB0YXJnZXRlZCB0byB5b3VyIGludGVyZXN0cy4gTW9zdCBjb29raWVzIGFyZSAic2Vzc2lvbiBjb29raWVzLCIgbWVhbmluZyB0aGF0IHRoZXkgYXJlIGF1dG9tYXRpY2FsbHkgZGVsZXRlZCBmcm9tIHlvdXIgaGFyZCBkcml2ZSBhdCB0aGUgZW5kIG9mIGEgc2Vzc2lvbi4gWW91IGFyZSBhbHdheXMgZnJlZSB0byBkZWNsaW5lIG91ciBjb29raWVzIGlmIHlvdXIgYnJvd3NlciBwZXJtaXRzLCBhbHRob3VnaCBpbiB0aGF0IGNhc2UgeW91IG1heSBub3QgYmUgYWJsZSB0byB1c2UgY2VydGFpbiBmZWF0dXJlcyBvbiB0aGUgU2l0ZSBhbmQgeW91IG1heSBiZSByZXF1aXJlZCB0byByZWVudGVyIHlvdXIgcGFzc3dvcmQgbW9yZSBmcmVxdWVudGx5IGR1cmluZyBhIHNlc3Npb24uIEFkZGl0aW9uYWxseSwgeW91IG1heSBlbmNvdW50ZXIgImNvb2tpZXMiIG9yIG90aGVyIHNpbWlsYXIgZGV2aWNlcyBvbiBjZXJ0YWluIHBhZ2VzIG9mIHRoZSBTaXRlIHRoYXQgYXJlIHBsYWNlZCBieSB0aGlyZCBwYXJ0aWVzLiBGb3IgZXhhbXBsZSwgaWYgeW91IHZpZXcgYSB3ZWIgcGFnZSBjcmVhdGVkIGJ5IGEgdXNlciwgdGhlcmUgbWF5IGJlIGEgImNvb2tpZSIgcGxhY2VkIHdpdGhpbiB0aGF0IHdlYiBwYWdlLiBXZSBkbyBub3QgY29udHJvbCB0aGUgdXNlIG9mIGNvb2tpZXMgYnkgdGhpcmQgcGFydGllcy4gSWYgeW91IGNob29zZSB0byBiaWQsIGJ1eSBvciBzZWxsIG9uIHRoZSBTaXRlLCB3ZSBjb2xsZWN0IGluZm9ybWF0aW9uIGFib3V0IHlvdXIgYmlkZGluZywgYnV5aW5nIGFuZCBzZWxsaW5nIGJlaGF2aW9yLiBXZSBhbHNvIGNvbGxlY3Qgb3RoZXIgdXNlcnMnIGNvbW1lbnRzIGFib3V0IHlvdSBpbiBvdXIgZmVlZGJhY2sgYXJlYS4gSWYgeW91IGVzdGFibGlzaCBhIGNyZWRpdCBhY2NvdW50IHdpdGggdXMgdG8gcGF5IHRoZSBmZWVzIHdlIGNoYXJnZSwgd2UgY29sbGVjdCBzb21lIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24sIHN1Y2ggYXMgYSBiaWxsaW5nIGFkZHJlc3MsIGEgY3JlZGl0LyBkZWJpdCBjYXJkIG51bWJlciBhbmQgYSBjcmVkaXQvIGRlYml0IGNhcmQgZXhwaXJhdGlvbiBkYXRlIGFuZC8gb3Igb3RoZXIgcGF5bWVudCBpbnN0cnVtZW50IGRldGFpbHMgYW5kIHRyYWNraW5nIGluZm9ybWF0aW9uIGZyb20gY2hlcXVlcyBvciBtb25leSBvcmRlcnMuIElmIHlvdSBjaG9vc2UgdG8gcG9zdCBtZXNzYWdlcyBvbiBvdXIgbWVzc2FnZSBib2FyZHMsIGNoYXQgcm9vbXMgb3Igb3RoZXIgbWVzc2FnZSBhcmVhcyBvciBsZWF2ZSBmZWVkYmFjayBmb3Igb3RoZXIgdXNlcnMsIHdlIHdpbGwgY29sbGVjdCB0aGF0IGluZm9ybWF0aW9uIHlvdSBwcm92aWRlIHRvIHVzLiBXZSByZXRhaW4gdGhpcyBpbmZvcm1hdGlvbiBhcyBuZWNlc3NhcnkgdG8gcmVzb2x2ZSBkaXNwdXRlcywgcHJvdmlkZSBjdXN0b21lciBzdXBwb3J0IGFuZCB0cm91Ymxlc2hvb3QgcHJvYmxlbXMgYXMgcGVybWl0dGVkIGJ5IGxhdy4gSWYgeW91IHNlbmQgdXMgcGVyc29uYWwgY29ycmVzcG9uZGVuY2UsIHN1Y2ggYXMgZW1haWxzIG9yIGxldHRlcnMsIG9yIGlmIG90aGVyIHVzZXJzIG9yIHRoaXJkIHBhcnRpZXMgc2VuZCB1cyBjb3JyZXNwb25kZW5jZSBhYm91dCB5b3VyIGFjdGl2aXRpZXMgb3IgcG9zdGluZ3Mgb24gdGhlIFNpdGUsIHdlIG1heSBjb2xsZWN0IHN1Y2ggaW5mb3JtYXRpb24gaW50byBhIGZpbGUgc3BlY2lmaWMgdG8geW91LiBJZiB5b3UgcmVnaXN0ZXIgZm9yIHRoZSBTaXRlIG9uIGFub3RoZXIgd2ViIHNpdGUgb3IgdXNlIGEgd2ViIHNpdGUgcHJvdmlkaW5nIGEgc2VydmljZSBmb3IgbmF3YWwgb3IgYSB3ZWIgc2l0ZSB0aGF0IGhlbHBzIGZhY2lsaXRhdGUgeW91ciBhY3Rpdml0eSBvbiB0aGUgU2l0ZSwgdGhhdCB3ZWIgc2l0ZSBtYXkgcHJvdmlkZSBwZXJzb25hbCBpbmZvcm1hdGlvbiBhYm91dCB5b3UgYW5kIHlvdXIgdHJhbnNhY3Rpb25zIGJhY2sgdG8gdXMuIDQuIE91ciB1c2Ugb2YgeW91ciBpbmZvcm1hdGlvbiBXZSB1c2UgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiB0byBmYWNpbGl0YXRlIHRoZSBzZXJ2aWNlcyB5b3UgcmVxdWVzdC4gV2UgdXNlIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gaW4gdGhlIGZpbGUgd2UgbWFpbnRhaW4gYWJvdXQgeW91LCBhbmQgb3RoZXIgaW5mb3JtYXRpb24gd2Ugb2J0YWluIGZyb20geW91ciBjdXJyZW50IGFuZCBwYXN0IGFjdGl2aXRpZXMgb24gdGhlIFNpdGUgdG86IHJlc29sdmUgZGlzcHV0ZXM7IHRyb3VibGVzaG9vdCBwcm9ibGVtczsgaGVscCBwcm9tb3RlIHNhZmUgdHJhZGluZzsgY29sbGVjdCBmZWVzIG93ZWQ7IG1lYXN1cmUgY29uc3VtZXIgaW50ZXJlc3QgaW4gdGhlIHNlcnZpY2VzIHByb3ZpZGVkIGJ5IHVzLCBpbmZvcm0geW91IGFib3V0IG9ubGluZSBhbmQgb2ZmbGluZSBvZmZlcnMsIHByb2R1Y3RzLCBzZXJ2aWNlcywgYW5kIHVwZGF0ZXM7IGN1c3RvbWl6ZSB5b3VyIGV4cGVyaWVuY2U7IGRldGVjdCBhbmQgcHJvdGVjdCB1cyBhZ2FpbnN0IGVycm9yLCBmcmF1ZCBhbmQgb3RoZXIgY3JpbWluYWwgYWN0aXZpdHk7IGVuZm9yY2Ugb3VyIFVzZXIgQWdyZWVtZW50OyBhbmQgYXMgb3RoZXJ3aXNlIGRlc2NyaWJlZCB0byB5b3UgYXQgdGhlIHRpbWUgb2YgY29sbGVjdGlvbi4gQXQgdGltZXMsIHdlIG1heSBsb29rIGFjcm9zcyBtdWx0aXBsZSB1c2VycyB0byBpZGVudGlmeSBwcm9ibGVtcyBvciByZXNvbHZlIGRpc3B1dGVzLCBhbmQgaW4gcGFydGljdWxhciB3ZSBtYXkgZXhhbWluZSB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRvIGlkZW50aWZ5IHVzZXJzIHVzaW5nIG11bHRpcGxlIFVzZXIgSURzIG9yIGFsaWFzZXMuIFdlIG1heSBjb21wYXJlIGFuZCByZXZpZXcgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiBmb3IgZXJyb3JzLCBvbWlzc2lvbnMgYW5kIGZvciBhY2N1cmFjeS4gSWYgeW91IGNob29zZSB0byBsaXN0IGFuIGl0ZW0gZm9yIHNhbGUgb24gdGhlIFNpdGUgb3Igb3BlbiBhIGNyZWRpdCBhY2NvdW50LCBvciBvdGhlcndpc2UgcHJvdmlkZSB1cyB3aXRoIHlvdXIgZmluYW5jaWFsIGluZm9ybWF0aW9uLCB3ZSB1c2UgeW91ciBhZGRyZXNzIGFuZCBiaWxsaW5nIGluZm9ybWF0aW9uIHRvIGJpbGwgeW91IGFuZCBwcm92aWRlIGFzc29jaWF0ZWQgc3VwcG9ydC4gWW91IGFncmVlIHRoYXQgd2UgbWF5IHVzZSBwZXJzb25hbCBpbmZvcm1hdGlvbiBhYm91dCB5b3UgdG8gaW1wcm92ZSBvdXIgbWFya2V0aW5nIGFuZCBwcm9tb3Rpb25hbCBlZmZvcnRzLCB0byBhbmFseXplIHNpdGUgdXNhZ2UsIGltcHJvdmUgdGhlIFNpdGUncyBjb250ZW50IGFuZCBwcm9kdWN0IG9mZmVyaW5ncywgYW5kIGN1c3RvbWl6ZSB0aGUgU2l0ZSdzIGNvbnRlbnQsIGxheW91dCwgYW5kIHNlcnZpY2VzLiBUaGVzZSB1c2VzIGltcHJvdmUgdGhlIFNpdGUgYW5kIGJldHRlciB0YWlsb3IgaXQgdG8gbWVldCB5b3VyIG5lZWRzLCBzbyBhcyB0byBwcm92aWRlIHlvdSB3aXRoIGEgc21vb3RoLCBlZmZpY2llbnQsIHNhZmUgYW5kIGN1c3RvbWl6ZWQgZXhwZXJpZW5jZSB3aGlsZSB1c2luZyB0aGUgU2l0ZS4gWW91IGFncmVlIHRoYXQgd2UgbWF5IHVzZSB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRvIGNvbnRhY3QgeW91IGFuZCBkZWxpdmVyIGluZm9ybWF0aW9uIHRvIHlvdSB0aGF0LCBpbiBzb21lIGNhc2VzLCBhcmUgdGFyZ2V0ZWQgdG8geW91ciBpbnRlcmVzdHMsIHN1Y2ggYXMgdGFyZ2V0ZWQgYmFubmVyIGFkdmVydGlzZW1lbnRzLCBhZG1pbmlzdHJhdGl2ZSBub3RpY2VzLCBwcm9kdWN0IG9mZmVyaW5ncywgYW5kIGNvbW11bmljYXRpb25zIHJlbGV2YW50IHRvIHlvdXIgdXNlIG9mIHRoZSBTaXRlLiBCeSBhY2NlcHRpbmcgdGhlIFVzZXIgQWdyZWVtZW50IGFuZCBQcml2YWN5IFBvbGljeSwgeW91IGV4cHJlc3NseSBhZ3JlZSB0byByZWNlaXZlIHRoaXMgaW5mb3JtYXRpb24uIElmIHlvdSBkbyBub3Qgd2lzaCB0byByZWNlaXZlIHRoZXNlIGNvbW11bmljYXRpb25zLCB3ZSBlbmNvdXJhZ2UgeW91IHRvIG9wdCBvdXQgb2YgdGhlIHJlY2VpcHQgb2YgY2VydGFpbiBjb21tdW5pY2F0aW9ucyBpbiB5b3VyIHByb2ZpbGUuIFlvdSBtYXkgbWFrZSBjaGFuZ2VzIHRvIHlvdXIgcHJvZmlsZSBhdCBhbnkgdGltZS4gZGQ4Bem4ate4GZM3UqRepDgI6+R3bBy2o/fJH+mOcGsisA==">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUEJoab4eYy5NW0VbG0mg094+3WpZQNb82rzs2KnT3rh6S9zbAT5kt11rJ/JPi35cpYZ8nitkugbO8CWwZ/DrDx6+CEuYdsdHpJXHegflbwtxV8OckD+UroOlYT+ZTlN8f8z9HocKGbXcjLciMrPBMS">
+    <table width="1227" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+            <td align="left" valign="top">
+                <table width="1227" border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                        <td>
+                            <table width="1227" border="0" cellpadding="0" cellspacing="0">
+                                <tbody><tr>
+                                    <td width="17%" background="images/topbg.jpg">
+                                        <img src="images/logo.jpg" width="214" height="131">
+                                    </td>
+                                    <td width="43%" align="left" valign="top" background="images/topbg.jpg">
+                                        <img src="images/topbg.jpg" width="82" height="131">
+                                    </td>
+                                    <td width="40%" align="left" valign="top" background="images/topbg.jpg">
+                                        <img src="images/header.jpg" width="487" height="131">
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="right">
+                        </td>
+                    </tr>
+                    <tr>
+                        </tr></tbody></table><table width="1227" height="42" border="0" cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                                <td background="images/menubckgrnd.jpg">
+                                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody><tr>
+                                            <td width="48%" height="22" align="left" valign="middle" style="padding-left: 3%;">
+                                                <input name="ctl00$txtSearch" type="text" id="txtSearch">
+                                                &nbsp;&nbsp;&nbsp; <a href="#" class="nav_off1" onclick="javascript:searchsite();">Search</a>
+                                            </td>
+                                            <td width="13%" align="left" valign="middle">
+                                                <a href="http://www.nawaal.com/vb" class="nav_off1">Nawal Forum</a>
+                                            </td>
+                                            <td width="40%" align="center" valign="middle">
+                                                <span id="spanwelcome" class="nav_off1">Welcome Guest&nbsp;</span><span id="spWelcome" class="nav_off1">|&nbsp;</span>
+                                                <a id="lbtnShoppingCart" class="nav_off1" href="javascript:__doPostBack('ctl00$lbtnShoppingCart','')">Shopping Cart&nbsp;</a>
+                                                <span id="spShoppingCart" class="nav_off1">|&nbsp;</span>
+                                                
+                                                <span id="spMyAcc" class="nav_off1" style="display:none;">|&nbsp; </span>
+                                                <a id="logout" class="nav_off1" href="javascript:__doPostBack('ctl00$logout','')" style="display:none;">Logout&nbsp;</a>
+                                                <span id="spLogout" class="nav_off1" style="display:none;">|&nbsp;</span>
+                                                <a id="lbtnSignIn" class="nav_off1" href="javascript:__doPostBack('ctl00$lbtnSignIn','')">SignIn&nbsp;</a>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td></tr>
+                    <tr>
+                        <td align="left" valign="top" bgcolor="#FFFFFF">
+                            <table width="1227" height="42" border="0" cellpadding="0" cellspacing="0">
+                                <tbody><tr>
+                                    <td background="images/buttonbg.jpg">
+                                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                            <tbody><tr>
+                                                <td width="11%" height="22" align="center" valign="middle">
+                                                    <a href="Default.aspx" target="_parent" class="nav_off1">Home</a>
+                                                </td>
+                                                <td width="11%" align="center" valign="middle">
+                                                    <a href="Content.aspx?Type=Profile" id="ProfileMenu" class="nav_off1">Profile</a>
+                                                </td>
+                                                <td width="12%" align="center" valign="middle">
+                                                    <dl id="Dl1" class="dropdown" style="width: 100%; padding: 0; margin: 0;">
+                                                        <dt id="one-ddheader" onmouseover="ddMenu('one',1)" onmouseout="ddMenu('one',-1)">Music</dt>
+                                                        <dd style="padding: 0; margin: 0" id="one-ddcontent" onmouseover="cancelHide('one')" onmouseout="ddMenu('one',-1)">
+                                                            <ul style="padding: 0; margin: 0;">
+                                                                <li><a href="Music.aspx?category=Albums" class="underline">Albums</a></li>
+                                                                <li><a href="Music.aspx?category=Concerts" class="underline">Concerts</a></li>
+                                                                <li><a href="Music.aspx?category=Private" class="underline">Private</a></li>
+                                                            </ul>
+                                                        </dd>
+                                                    </dl>
+                                                </td>
+                                                <td width="11%" align="center" valign="middle">
+                                                    <dl id="Dl2" class="dropdown" style="padding: 0; margin: 0; width: 100%;">
+                                                        <dt id="one-ddheaderon" onmouseover="ddMenu1('one',1)" onmouseout="ddMenu1('one',-1)">
+                                                            Video</dt>
+                                                        <dd style="padding: 0; margin: 0" id="one-ddcontenton" onmouseover="cancelHide1('one')" onmouseout="ddMenu1('one',-1)">
+                                                            <ul style="padding: 0; margin: 0;">
+                                                                <li><a href="Video.aspx?category=Interview" class="underline">Interview</a></li>
+                                                                <li><a href="Video.aspx?category=Clips" class="underline">Clips</a></li>
+                                                                <li><a href="Video.aspx?category=Concerts" class="underline">Concerts</a></li>
+                                                            </ul>
+                                                        </dd>
+                                                    </dl>
+                                                </td>
+                                                <td width="12%" align="center" valign="middle">
+                                                    <a href="LiveStream.aspx" class="nav_off1">Live Stream</a>
+                                                </td>
+                                                <td width="13%" align="center" valign="middle">
+                                                    <a href="Ourstore.aspx" target="_parent" class="nav_off1">Our Store</a>
+                                                </td>
+                                                <td width="15%" align="center" valign="middle">
+                                                    <dl id="Dl3" class="dropdown" style="padding: 0; margin: 0; width: 100%;">
+                                                        <dt id="photo-ddheader" onmouseover="ddMenuPhoto('photo',1)" onmouseout="ddMenuPhoto('photo',-1)">
+                                                            Photo Gallery</dt>
+                                                        <dd style="padding-left: 10; margin-left: 10" id="photo-ddcontent" onmouseover="cancelHidePhoto('photo')" onmouseout="ddMenuPhoto('photo',-1)">
+                                                            <ul style="padding: 0; margin: 0;">
+                                                                <li><a href="gallery.aspx?Category=User" class="underline">By Fans</a></li>
+                                                                <li><a href="gallery.aspx?Category=Admin" class="underline">By Admin</a></li>
+                                                            </ul>
+                                                        </dd>
+                                                    </dl>
+                                                </td>
+                                                <td width="15%" align="center" valign="middle">
+                                                    <a href="Content.aspx?Type=Media" class="nav_off1">Media</a>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="19" bgcolor="#FFFFFF">
+                            &nbsp;
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td align="left" valign="top" bgcolor="#FFFFFF">
+                            <table width="1190" border="0" align="center" cellpadding="0" cellspacing="0" style="background-image: url('images/00000nawal729 - Copy.jpg');
+                                background-position: right bottom; background-repeat: no-repeat;">
+                                <tbody><tr>
+                                    <td width="20" align="left" valign="top" background="images/l1.jpg">
+                                        <img src="images/corn1.jpg" width="20" height="20">
+                                    </td>
+                                    <td width="1146" background="images/l1.jpg">
+                                        <img src="images/l1.jpg" width="33" height="20">
+                                    </td>
+                                    <td width="20" align="left" valign="top" background="images/corn2.jpg">
+                                        <img src="images/corn2.jpg" width="20" height="20">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="20" height="434" align="left" valign="top" background="images/l2.jpg">
+                                        <img src="images/l2.jpg" width="20" height="24">
+                                    </td>
+                                    <td align="left" valign="top">
+                                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                            <tbody><tr>
+                                                <td width="77%" height="434" align="left" valign="top">
+                                                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                                        <tbody><tr>
+                                                            <td height="38" align="left" valign="top">
+                                                                
+                                                                
+    <div>
+        <table width="100%">
+            <tbody><tr>
+                <td background="images/pgtitles.jpg" style="background-repeat: no-repeat;">
+                    <table width="100%" border="0" align="center">
+                        <tbody><tr>
+                            <td height="20" align="left" valign="middle" class="pgtitles">
+                                &nbsp;&nbsp;&nbsp;<span id="ContentPlaceHolderContentLeft_TitleHead">Privacy Policy</span>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+    <div id="ContentPlaceHolderContentLeft_Contents">Your privacy is very important to us. We do not publish, sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. The privacy practices of this statement apply to our services available under the domain and subdomains of www.nawalkuwait.com nawal (the "Site") and apply generally to our parent, affiliates, subsidiaries or joint venture websites whose specific privacy policies are available. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Site. This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about nawal's practices so that you can make informed decisions. Our parent, subsidiaries and joint ventures operate under similar privacy practices as described in this Privacy Policy and, subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the global nawal trading community. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the User Agreement. This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on 1st April 2010 for all users. 1. Your Privacy - Our Commitment At nawal, we are extremely proud of our commitment to protect your privacy. We value your trust in us. We will work hard to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. Please read the following policy to understand how your personal information will be treated as you make full use of our Site. 2. nawal Privacy Guarantee nawal promises that we will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. From time to time we may reveal general statistical information about our Web site and visitors, such as number of visitors, number and type of goods and services purchased, etc. Your trust and confidence are our highest priority. 3. Information we collect When you use our Site, we collect and store your personal information from you. Our primary goal in doing so is to provide a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our Site to make your experience safer and easier. Importantly, we only collect personal information about you that we consider necessary for achieving this purpose. In general, you can browse the Site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. To fully use our Site, you will need to register using our online registration form, where you may be required to provide us with your name, date of birth, contact number, email id, user id, password,  residence / place of business information, billing information, shipping information, bank account details and other personal information as indicated on the forms throughout the Site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature on the Site. You may provide us with a nawal ID. We may automatically track certain information about you based upon your behavior on our site. We use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve our users. This information is compiled and analyzed on an aggregated basis. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), your computer browser information, and your IP address. We use data collection devices such as "cookies" on certain pages of the Site to help analyze our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie". We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Site and you may be required to reenter your password more frequently during a session. Additionally, you may encounter "cookies" or other similar devices on certain pages of the Site that are placed by third parties. For example, if you view a web page created by a user, there may be a "cookie" placed within that web page. We do not control the use of cookies by third parties. If you choose to bid, buy or sell on the Site, we collect information about your bidding, buying and selling behavior. We also collect other users' comments about you in our feedback area. If you establish a credit account with us to pay the fees we charge, we collect some additional information, such as a billing address, a credit/ debit card number and a credit/ debit card expiration date and/ or other payment instrument details and tracking information from cheques or money orders. If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback for other users, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you. If you register for the Site on another web site or use a web site providing a service for nawal or a web site that helps facilitate your activity on the Site, that web site may provide personal information about you and your transactions back to us. 4. Our use of your information We use your personal information to facilitate the services you request. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; help promote safe trading; collect fees owed; measure consumer interest in the services provided by us, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User IDs or aliases. We may compare and review your personal information for errors, omissions and for accuracy. If you choose to list an item for sale on the Site or open a credit account, or otherwise provide us with your financial information, we use your address and billing information to bill you and provide associated support. You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyze site usage, improve the Site's content and product offerings, and customize the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site. You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications in your profile. You may make changes to your profile at any time. </div>
+
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+                                                
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                    <td width="24" align="left" valign="top" background="images/l3.jpg">
+                                        <img src="images/l3.jpg" width="20" height="24">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="left" valign="top" background="images/l4.jpg">
+                                        <img src="images/corn3.jpg" width="20" height="20">
+                                    </td>
+                                    <td background="images/l4.jpg">
+                                        <img src="images/l4.jpg" width="52" height="20">
+                                    </td>
+                                    <td width="24" background="images/corn4.jpg">
+                                        <img src="images/corn4.jpg" width="20" height="20">
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td height="28" align="left" valign="top" bgcolor="#FFFFFF">
+                            <img src="images/bottom1.jpg" width="1227" height="23">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="27" align="left" valign="middle" bgcolor="#FFFFFF">
+                            <table width="100%" border="0">
+                                <tbody><tr>
+                                    <td width="15%">
+                                        <div align="center">
+                                            <img src="images/paypalicon.jpg" width="166" height="31"></div>
+                                    </td>
+                                    <td width="60%" align="center" valign="middle">
+                                        <span class="gray"><a href="Default.aspx" class="nav_off3">Home </a>&nbsp;|&nbsp;
+                                        <a href="Content.aspx?Type=Profile" class="nav_off3">Profile </a>&nbsp;|&nbsp; 
+                                        <a href="Music.aspx?category=Albums" class="nav_off3">Music </a>&nbsp;| &nbsp; 
+                                        <a href="#" class="nav_off3"></a><a href="Video.aspx?category=Interview" class="nav_off3">Video</a>&nbsp;| &nbsp;
+                                        <a href="LiveStream.aspx" class="nav_off3">Live Stream</a> &nbsp;| &nbsp;
+                                        <a href="Ourstore.aspx" class="nav_off3">Our Store</a> &nbsp;| &nbsp;
+                                        <a href="gallery.aspx?Category=User" class="nav_off3">Photo Gallery</a> &nbsp;| &nbsp; 
+                                        <a href="contactus.aspx" class="nav_off3">Contact Us</a> &nbsp;|&nbsp;
+                                        <a href="Content.aspx?Type=TermsConditions" class="nav_off3" target="_blank">
+                                                        Terms Of Use</a> &nbsp;| &nbsp; <a href="Content.aspx?Type=PrivacyPolicy" class="nav_off3" target="_blank">Privacy Policy</a>
+                                    </span></td>
+                                    <td align="left" width="25%">
+                                        <a href="https://twitter.com/NAWALalq8iya" class="twitter-follow-button" data-show-count="false" data-size="large">Follow Us</a>
+                                        <script>                                            !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
+                                    </td>
+                                </tr>
+                                <tr>
+                            <td align="center" colspan="3">
+                                <span class="gray">Copyright © all Right Reserved <p></p> </span>
+                            </td>
+                        </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+            
+        
+    
+    </form>
+
+
+</body></html>
