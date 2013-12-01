@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fao.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602033156id_/http%3A//www.fao.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbtmnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fao.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201032200id_/http%3A//www.fao.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbtmnav_privacy_txt) for the most accurate reproduction.*
 
 # Guest Assistance - Privacy Policy at FAO Schwarz®
 
