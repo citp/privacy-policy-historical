@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dirtgame.net privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419212101id_/http%3A//www.dirtgame.net/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtgame.net privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201025750id_/http%3A//www.dirtgame.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - dirtgame
+# dirtgame.net - Privacy Policy
 
 KH Media, LLC ("DirtGame") operates a variety of web sites ("Web Site" or "Site") including www.dirtgame.net and is committed to protecting the privacy of our Web Site users ("Users") and KH Media, LLC members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. KH Media, LLC will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
 
