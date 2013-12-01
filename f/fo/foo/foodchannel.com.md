@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodchannel.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601050720id_/http%3A//www.foodchannel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodchannel.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201192100id_/http%3A//www.foodchannel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
