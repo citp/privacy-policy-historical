@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630124407id_/http%3A//scribendi.com/privacy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201015249id_/http%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
 
-# Your Privacy - Scribendi.com
+# Your Privacy | Scribendi.com
 
 Because your privacy is very important to us, Scribendi.com operates by these principles:
 
-  1. The Scribendi.com web site ("Site") is maintained by Scribendi Inc., 405 Riverview Drive, Suite 304, Chatham, Ontario, N7M 5J5. Scribendi Inc. is a company federally incorporated in Canada.
+  1. The Scribendi.com web site ("Site") is maintained by Scribendi Inc., 405 Riverview Drive, Suite 304, Chatham, Ontario, N7M 0N3. Scribendi Inc. is a company federally incorporated in Canada.
   2. Our use of any personal information you provide to Scribendi.com is regulated and protected by the laws of the Province of Ontario, Canada, including Canada's _Personal Information Protection and Electronic Documents Act._
   3. This Privacy Policy forms part of Scribendi.com's [terms of use](https://web.archive.org/terms.en.html "Terms of Use").
   4. To the extent that Scribendi.com collects any information from our visitors and users, whether that information is personally identifying or not, either from actively provided information, from "cookies," or from our web hosting service, Scribendi.com uses such information only for our own purposes relating to providing our services. Such information is not knowingly provided to any third parties except as explicitly disclosed herein.
@@ -37,7 +37,7 @@ Because your privacy is very important to us, Scribendi.com operates by these pr
     * Your billing address
     * The document(s) you require service on, and any special instructions relating to the service you order
     * Payment details (if you pay by credit card or electronic check)
-This information is used to fulfill your order, to allow you to track your order, and to contact you if it is necessary to clarify your instructions, process, or to collect payment, or otherwise complete your order. 
+This information is used to fulfill your order, to allow you to track your order, and to contact you if it is necessary to clarify your instructions, process, or to collect payment, or otherwise complete your order.
   * When you pay by credit card, we disclose information as required to verify your identity and process your payment, according to the terms and conditions by which each credit card or payment system operates, only to your bank or card issuer and our bank or payment processors.
   * When you pay by PayPal, or another electronic payment service (e-payment service), we provide information as required by the system, including your order number and the amount and currency of payment required, to the e-payment service you select.
   * Banks and e-payment services may monitor financial activity for legal reasons or to ensure compliance with their terms of service to you and to us. Therefore, we may occasionally provide additional details regarding your order or transaction for these purposes upon request.
@@ -77,13 +77,13 @@ This information is used to fulfill your order, to allow you to track your order
 ### Agents, Successors, and Assigns
 
   * Scribendi.com may, from time to time, employ the services of contractors or agents. If said contractors or agents require access to personal information held by Scribendi.com to perform their duties, they will be bound by a non-disclosure agreement and required to adhere to this privacy policy.
-  * Should Scribendi.com be purchased by, sell a substantial part of its business operations to, or merge with another company, personal information we hold may form part of the business records transferred to the new owner (including on a due diligence review). This privacy policy, or an equivalent policy, will become binding upon the new owner. 
+  * Should Scribendi.com be purchased by, sell a substantial part of its business operations to, or merge with another company, personal information we hold may form part of the business records transferred to the new owner (including on a due diligence review). This privacy policy, or an equivalent policy, will become binding upon the new owner.
 
 
 
 ### Recourse and Dispute Resolution
 
-  * Any personal information you provide to Scribendi.com is regulated by Canada's _Personal Information Protection and Electronic Documents Act._ You have the right to know what personal information Scribendi.com holds about you and to request correction of any errors or omissions therein. We reserve the right, as required by law, to require additional evidence of your identity in order to ensure that personal information we hold is disclosed only to you. Please direct all such inquiries by post and enclose a copy of a document that confirms your identity (i.e., your driving license) to: _The Data Protection and Privacy Officer, Scribendi_ _Inc., 405 Riverview Drive, Suite 304, Chatham ON N7M 5J5, Canada._
+  * Any personal information you provide to Scribendi.com is regulated by Canada's _Personal Information Protection and Electronic Documents Act._ You have the right to know what personal information Scribendi.com holds about you and to request correction of any errors or omissions therein. We reserve the right, as required by law, to require additional evidence of your identity in order to ensure that personal information we hold is disclosed only to you. Please direct all such inquiries by post and enclose a copy of a document that confirms your identity (i.e., your driving license) to: _The Data Protection and Privacy Officer, Scribendi_ _Inc., 405 Riverview Drive, Suite 304, Chatham ON N7M 0N3, Canada._
 
 
 
