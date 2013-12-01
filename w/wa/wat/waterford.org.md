@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterford.org privacy policy that was archived on 2013-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130130084835id_/http%3A//www.waterford.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterford.org privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201144909id_/http%3A//www.waterford.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Waterford Institute
 
