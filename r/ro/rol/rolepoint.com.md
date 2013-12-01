@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rolepoint.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531230337id_/http%3A//rolepoint.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolepoint.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201014605id_/http%3A//www.rolepoint.com/static/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -29,7 +29,7 @@ Last Updated: August 30, 2012
   6. Access to Your Information.
     1. Your "Disclosed Profile" means your Personal Information (including your resume) that we may disclose to third parties. Your resume or other information you provide us may reveal your identity. It is for you to assure you are comfortable with the information you provide. We do not have any obligation to modify (i) potentially identifying information in your Disclosed Profile, or (ii) your resume, to remove or mask information that may identify you.
   7. Employers Use of Disclosed Profiles
-    1. WE DO NOT HAVE ANY CONTROL OVER HOW AN EMPLOYER USES AND DISCLOSES YOUR PERSONAL INFORMATION, INCLUDING INFORMATION YOU PROVIDE DIRECTLY TO THAT EMPLOYER. YOU ACKNOWLEDGE AND AGREE THAT (i) WE DO NOT EVALUATE ANY EMPLOYER'S PRIVACY PRACTICES, AND (ii) WE WILL NOT HAVE ANY LIABILITY WHATSOEVER FOR ANY ACTIONS OF ANY EMPLOYER. Terms of use
+    1. WE DO NOT HAVE ANY CONTROL OVER HOW AN EMPLOYER USES AND DISCLOSES YOUR PERSONAL INFORMATION, INCLUDING INFORMATION YOU PROVIDE DIRECTLY TO THAT EMPLOYER. YOU ACKNOWLEDGE AND AGREE THAT (i) WE DO NOT EVALUATE ANY EMPLOYER'S PRIVACY PRACTICES, AND (ii) WE WILL NOT HAVE ANY LIABILITY WHATSOEVER FOR ANY ACTIONS OF ANY EMPLOYER. [Terms of use](http://www.rolepoint.com/static/terms.html)
     2. Please note that Employers to whom we may disclose your Disclosed Profile may share your Disclosed Profile with others
   8. Your Information.
     1. Please note that once you have disclosed your Personal Information to third parties through the Site, in whole or in part, we can not control such Personal Information following disclosure, and can not force the deletion or modification of that Personal Information by the parties to whom it was made available.
