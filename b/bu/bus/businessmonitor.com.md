@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessmonitor.com privacy policy that was archived on 2013-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130304210502id_/http%3A//www.businessmonitor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessmonitor.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201142611id_/http%3A//www.businessmonitor.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Business Monitor: Privacy Policy
+# Privacy Policy | Business Monitor International
 
 ## Privacy Statement for Business Monitor
 
