@@ -1,384 +1,344 @@
-<!--The following is the downloaded HTML source of the frompo.com privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603041455id_/http%3A//frompo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the frompo.com privacy policy that was archived on 2013-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131201212623id_/http%3A//www.frompo.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="favicon.ico" rel="Shortcut Icon">
+<meta name="viewport" content="width=device-width; initial-scale=1.0">
+<meta name="robots" content="all">
+<meta charset="utf-8"> 
+<meta name="google-site-verification" content="qyG7mMG4KxcDk2iay43X30pvZ79bEsn5UyP_Debm8m4">
+<meta name="msvalidate.01" content="E88418B80153013554BAB7F5DB295AEE">
+<meta name="yandex-verification" content="4e945cebad7289c2">
+<meta name="description" content="Frompo is a Next Gen Curated Search Engine. Frompo has a community of users who come together and curate search results to help improve the search experience for everyone.">
+<title>Image Search, Video Search , News Search - Frompo.com</title>
+<meta http-equiv="Content-type" content="text/html; charset= utf-8">
+<meta name="viewport" content="width=device-width; initial-scale=1.0">
+<meta name="robots" content="all">
+<meta name="google-site-verification" content="qyG7mMG4KxcDk2iay43X30pvZ79bEsn5UyP_Debm8m4">
+<meta name="msvalidate.01" content="E88418B80153013554BAB7F5DB295AEE">
+<meta name="yandex-verification" content="4e945cebad7289c2">
+<meta name="description" content="Frompo is a Next Gen Curated Search Engine. Frompo has a community of users who come together and curate search results to help improve the search experience for everyone. Frompo.com">
+<meta name="keywords" content="search engine, search, search engines, image search, video search Frompo.com">
 <link href="http://static.frompo.com/images/favicon.ico" rel="Shortcut Icon">
-<title>Image Search, Video Search , News Search - Frompo.com</title><meta name="description" content="Frompo is a Next Gen Curated Search Engine. Frompo has a community of users who come together and curate search results to help improve the search experience for everyone. Frompo.com">
-<meta name="keywords" content="search engine, search, search engines, image search, video search Frompo.com"><link href="http://static.frompo.com/css/home.css" media="screen" rel="stylesheet" type="text/css"><script type="text/javascript" src="http://static.frompo.com/js/jquery.mine.js"></script>
-<script type="text/javascript" src="http://static.frompo.com/js/function.js"></script>
-<script type="text/javascript">
-	$(document).ready(function(){	
-		$.ajax({
-		url: 'http://www.frompo.com/ajax-handler',
-		type: 'POST',
-		dataType:'json',
-		data:{
-			method : 'recentpopular',
-			limit  :  5
-		},
-		success:function(data){
-			// Now it can be used reliably with $.map()
-			$('#top_search_links').html('');
-			$('#popularsearch').html('');
-			$.map( data.topsearch, function(val, i) {
-				$('#popularsearch').append('<li><a href="/web/index/search/'+ val.search_key +'">'+ val.search_key +'</a></li>');
-			});
-			
-			
-			$.map( data.recentsearch, function(val, i) {
-				var key =  val.search_key; 
-				var searchkey  = key.slice(0,12) + '...';
-				$('#recentsearches').append('<a style="margin-left:2px;cursor:pointer;text-decoration:none;color:#1c4fa1;font-family:Arial,Helvetica,sans-serif;font-size:12px;" href="/web/index/search/'+ val.search_key +'">'+ searchkey +'</a>');						
-			});
-		}
-		});
+<link rel="canonical">
+<link href="http://static.frompo.com/new/css/search.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.frompo.com/new/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.frompo.com/new/css/style.css" media="screen" rel="stylesheet" type="text/css"><script type="text/javascript" src="https://s3.amazonaws.com/frompo/new/js/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="https://s3.amazonaws.com/frompo/new/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://s3.amazonaws.com/frompo/new/js/latestfunction.js"></script><script type="text/javascript">
+$(document).ready(function(){
+	var searchbottom =  new search();
+	/*var pluginList =  new bookmark();
+	var browserType = pluginList.getBrowserType();
+	pluginList.init({
+		searchpluginContainer : 'searchpluginContainer',
+		homepageContainer : 'homepageContainer',
+		path : 'http://www.frompo.com/search-plugin-cm.xml',
+		message : 'Sorry, but your browser does not support this feature'
+	});*/
+	searchbottom.init({
+		searchBoxid : 'searchKey',
+		searchButtonid : 'searchinfo',
+		searchcategory : 'w',
+		noOfkeySuggestion : '5'
 	});
+});
 </script>
-<!--[if IE 7]>
-	<style type="text/css">
-    	.srchbx_srchbtn_div
-        {
-	        margin-bottom:0;
-        }
-    	.try_it_out_links ul
-        {
-            float:left;
-            height:auto;
-            list-style:none outside none;
-            margin-top:5px;
-            width:100%;
-            margin-left:0;
-        }
-        .try_it_out_links ul li
-        {
-            float:left;
-        }
-        .try_it_out_links ul li a
-        {
-            color:#1C4FA1;
-            float:left;
-            font-family:arial;
-            font-size:13px;
-            font-weight:bold;
-            margin-right:18px;
-            text-decoration:none;
-        }
-    </style>
-<![endif]-->
-
-</head>
-
+<script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
 <body>
-<div class="main_div">
-<!--header-->
-<div class="header">
-	<div class="header_wrapper">
-		<ul id="menu" style="margin:0;">
-			<li>
-				<script type="text/javascript">
-						var browserType = getBrowserType();
-						if(browserType == "Microsoft Internet Explorer"){
-							document.write('<a onClick="javascript:setHome();">Make Home Page</a>');
-						}
-						if(browserType == "Firefox"){
-							document.write('<a style="cursor:pointer" class="image" href="http://www.frompo.com">Make Home Page<div class="toltipbg"><div class="toptoltip"></div><div class="midtoltip">Drag this link onto your Home button<br/> to make Frompo your Home Page.</div><div class="bottoltip"></div></div></a>');
-						}
-						if(browserType == "Chrome"){
-							document.write('<a style="cursor:pointer" class="image" href="http://www.frompo.com">Make Home Page<div class="toltipbg"><div class="toptoltip"></div><div class="midtoltip">Drag this link onto your Home button<br/> to make Frompo your Home Page.</div><div class="bottoltip"></div></div></a>');
-						}
-					</script>
-			</li>
-			<li><a>|</a></li>
-			<li>
-					<script>
-					var browserType = getBrowserType();
-			  
-					if(browserType == "Firefox"){
-					   document.write("<a class=\"addsearch\" onclick=\"installSearchEngine('http://www.frompo.com/search-plugin-cm.xml','Sorry, but your browser does not support this feature');\" href=\"javascript:void();\">Search Plugin</a>");
-					}
-					if(browserType == "Chrome"){
-					   document.write("<a href=\"javascript:void();\" onclick=\"installSearchEngine_1('http://www.frompo.com/search-plugin-cm.xml','WChrome','Please take the link &quot;chrome://settings/searchEngines&quot; and set this as your default engine from the list of engines','Sorry, but your browser does not support this feature');\" class=\"addsearch\">Search Plugin</a>");
-					}
-					if(browserType == "Microsoft Internet Explorer"){
-					   document.write("<a class=\"addsearch\" onclick=\"installSearchEngine('http://www.frompo.com/search-plugin.xml','Sorry, but your browser does not support this feature');\" href=\"javascript:void();\">Search Plugin</a>");
-					}
-					</script>
-			</li>
-			<li><a>|</a></li>
-			<li>
-				<script>
-						var browserType = getBrowserType();
-						if(browserType == 'Firefox'){
-						   document.write("<a class=\"addsearch\" href=\"javascript:bookmark('http://www.frompo.com','Frompo.com Web Search Engine','"+browserType+"')\">Bookmark</a>");
-						}
-						if(browserType == 'Chrome'){
-							document.write("<a class=\"addsearch\" href=\"javascript:bookmark('http://www.frompo.com','Frompo.com Web Search Engine','W"+browserType+"')\">Bookmark</a>");
-						}
-						if(browserType == 'Microsoft Internet Explorer'){
-							document.write("<a class=\"addsearch\" href=\"javascript:bookmark('http://www.frompo.com','Frompo.com Web Search Engine','MSIE')\">Bookmark</a>");
-						}
+<script type="text/javascript" src="js/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<!-- starting of main div -->
+	<div class="main_div">
 
-				</script>
-			</li>
-			<li><a>|</a></li>
-									<li><a href="#">SignUp</a></li>
-								<!--<li>
-								<a href="">
-					<img height="22" width="150" src="http://static.frompo.com/images/btFacebook.png"/>
-				</a>
-							</li>-->
-		</ul>
-		<div id="homepageHint" style="display:none;vertical-align: top;">
-				<a href="http://www.frompo.com" style="text-decoration: none;">
-				</a>
-				<p>
-					<span style="font-size:13px;" class="homelink">Drag and drop this "Home" icon in to the home icon in your browser toolbar. Then click "Yes" in popup dialog to make this as your default homepage.</span>
-				</p>
+		<!-- start header -->
+		<div class="result_header">
+			<div class="result_header_wrapper">
+				<!--set logo -->
+				<div class="result_header_logo">
+					<a href="http://www.frompo.com"> </a>
+				</div>
+				<!--end set logo -->
+
+				<!-- start search box -->
+				<div class="below_srch_btn">
+						<!-- Search box at the header -->
+                        <div class="srchbx_srchbtn_div">
+						<form action="http://frompo.com/f" method="post">
+							<input id="searchKey" autocomplete="off" name="search" placeholder="Search for" value="" type="text">
+                            <input id="searchinfo" alt="" title="" class="thumb" type="button">
+							<div id="search_keys"></div>
+						</form>
+                        </div>
+						<!-- end Search box at the header -->
+				</div>
+				<!-- end  search box -->
+
+				<!-- menu to the right side of header -->
+				<ul id="menu">
+					<li id="homepageContainer">
+					<a style="cursor: pointer;" class="image" href="http://frompo.com/"><surfmarktag>Make Home Page
+					</surfmarktag><div class="toltipbg">
+						<div class="toptoltip"></div>
+						<div class="midtoltip"><surfmarktag>Drag this link onto your Home button</surfmarktag><br><surfmarktag> to make Frompo your Home Page.</surfmarktag></div>
+						<div class="bottoltip"></div>
+					</div></a></li>
+					<li><a><surfmarktag>|</surfmarktag></a></li>
+					<li style="cursor: pointer;" id="searchpluginContainer"><a class="addsearch"><surfmarktag>Search Plugin</surfmarktag></a></li>
+					<li><a><surfmarktag>|</surfmarktag></a></li>
+					<li>
+                    	<a id="addBookmarkContainer" rel="sidebar" title="Image Search, Video Search , News Search - Frompo.com" href="http://frompo.com/about"><surfmarktag>Bookmark This Page</surfmarktag></a></li>
+				</ul>
+				<!-- end menu to the right side of header -->
+                
+                <div class="navbar-header">
+                  <button data-target=".navbar-ex1-collapse" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                </div>
+                
+                <div class="collapse navbar-collapse navbar-ex1-collapse">
+                      <ul class="nav navbar-nav">
+                            <li id="homepageContainer"><a href="http://frompo.com/">Make Home Page</a></li>
+							<li id="searchpluginContainer"><a class="addsearch">Search Plugin</a></li>
+							<li><a id="addBookmarkContainer" href="http://frompo.com/">Bookmark This Page</a></li>
+							<li><a href="http://frompo.com/">CONTACT</a></li>
+							<li><a href="http://frompo.com/about">ABOUT</a></li>
+							<li><a href="http://frompo.com/privacy-policy">PRIVACY POLICY</a></li>
+							<li><a href="http://frompo.com/terms">TERMS &amp; CONDITIONS</a></li>
+							<li><a href="http://frompo.com/webmaster">WEBMASTER</a></li>
+							<li><a href="http://frompo.com/">HELP</a></li>
+                      </ul>
+                </div><!-- /.navbar-collapse -->
+                
+			</div>
 		</div>
-	</div>
-</div>
 		<!-- end header -->
-
-        <!-- start body-->
-        <div id="body">
-            <!--container-->
-            <div class="container">
-                <!--container_mid-->
-                <div class="container_mid" style="width: auto; margin: 4%;">		
-					<div id="body">
-        <!--container-->
-        <div class="container">
-        <div class="container_mid_frompo">
-        	<!--frompo_all_page_div-->
-            	<div class="frompo_all_page_div">
-                	<div class="title" style="font-weight:bold;font-size: 25px;">Privacy Policy</div>
-                	<p>
-<!--                            <b>Effective December 20, 2012</b>-->
-                        </p>
-                    <p>
-                    	Frompo, Inc. respects your privacy and realizes that trust is the foundation of our relationship with you. This Privacy Policy describes
-                        the information we collect about you, how it is used, and with whom we may or may not share it. We also offer you options regarding your
-                        privacy choices more fully described below.
-                    </p>
-                    <p>
-                    	This Privacy Policy only covers the Frompo website along with any and all related pages on Frompo.com. We are not responsible for the privacy
-                        practices on any website other than Frompo.com. For example, we do not exercise control over the sites that appear as search results when you
-                        use the Frompo website. When you leave the Frompo website, we encourage you to carefully review the privacy policies on all other websites that
-                        you visit.
-                    </p>
-
-                    <p><b>INFORMATION WE COLLECT FROM YOU</b></p>
-
-                    <p>We collect different information from you depending upon how you use Frompo as described below.</p>
-                    <p>
-                    	When you use <b>Frompo</b>, we may collect the following information fields from you: IP Address, your browser user agent string (a user agent string
-                        is the automatic information sent to us by your browser so we may properly format Frompo.com for your device and browser type), date and time of
-                        your login, any third party websites that referred you to us and social media websites. When you search, we collect your search queries organized
-                        into sessions that last up to four hours. If you select any websites from your search results, we will collect click tracking data, which is used
-                        to compensate us when we drive traffic to other websites and to help us improve our search engine – we do not use this data for marketing purposes.
-                        We may also need to verify your birth date to ensure that we are not collecting information in violation of the Children’s Online Privacy Protection
-                        Act; we will discard your birth date once we have verified your age.
-                    </p>
-
-                    <p><b>HOW WE MINIMIZE DATA STORED ABOUT YOU</b></p>
-
-                    <p>
-                    	To enhance user privacy, within 48 hours of your visit to our website; we will erase from our visit logs your entire IP address and the browser user
-                        agent string. However, our vendors may keep your IP Address, user agent string and isolated search strings from you for longer, but they are instructed
-                        to keep this data secure.
-                    </p>
-
-                    <p><b>HOW WE USE YOUR INFORMATION</b></p>
-
-                    <p>
-                    	Search engines, by their very nature, must use information provided by you to deliver research results. Like other search engines, our website
-                        requires sharing a minimum amount of information to function as a search engine. But, we also permit you to crowd source your searches (solicit
-                        input from others to enhance your web research). The ‘social’ element to Frompo requires us to use information in additional ways to provide the
-                        enhanced collaborative functionality. Below, we fully describe how we use
-                    </p>
-
-                    <p>
-                    	information provided to us so that you can make the decision of whether or not to use our website and its enhanced functionalities.
-                    </p>
-
-                    <p>
-                    	<a>Information Forwarded by Us to Improve Your Web Search Functionality:</a> Frompo may share information regarding your website search, which is
-                        not personally identifiable to you, in order to enhance your search results. For example, we may forward your search queries to one of our vendors
-                        to check for misspellings (i.e., “Grand Canyo” may generate a did-you-mean reply of “Grand Canyon”) or additional search terms that could provide
-                        more relevant search results. We also might forward your search query to one of our vendors to acquire supplemental results.
-                    </p>
-
-                    <p>
-                    	<a>Information Forwarded by Us to Provide Keyword Search Advertising:</a> Frompo provides its search services and web-based tools on the web to you
-                        for free.We are able to sustain our free web-based content through advertising revenue. All of our advertising partners require that we send them your
-                        IP Address, user agent string as well as search keywords in order to deliver search keyword advertising to you. If you do not want us to forward
-                        your personal information for advertising purposes, you can opt-out of this sharing by selecting our “No Ads” preference, as described below. Further,
-                        Frompo will forward your DoNotTrack browser settings, if you are using a browser that has DoNotTrack header functionality.
-                    </p>
-
-                    <p>
-                    	<a>To Improve Our Website:</a> Any of the information we collect, as described above, may be used for the following purposes: to improve our services
-                        and products; to develop new services; to ensure and improve the technical functionality of our website and network; to protect your rights, Frompo’s
-                        rights and the rights of other Frompo users; and to assist Frompo in providing you with services.
-                    </p>
-
-                    <p><b>YOUR PRIVACY CHOICES</b></p>
-
-                    <p>Frompo's website offers you options to set preferences that enhance privacy:</p>
-
-                    <ul>
-                    	<li>No Facebook:<span> This feature disables all of Frompo’s integration with Facebook.</span></li>
-                        <li>No Ads:
-                        	<span>
-                            	This feature disables display of all ads on Frompo.com. Also, Frompo will not send any information identifiable to you
-                        		(such as, IP Address, user agent string and search keywords) to a third party for advertising or marketing purposes.
-                            </span>
-                        </li>
-                        <li>Always Use HTTPS on Frompo.com:
-                        	<span>
-                            	This feature helps make communications on Frompo.com more secure and private, for example making it more difficult for other users to
-                                view your Frompo.com activity on an unsecured wireless network.
-                            </span>
-                        </li>
-                        <li>HTTPS Preferred<sup>®</sup>:
-                        	<span>
-                            	This feature helps make links to search results on Frompo.com more secure. If you have this option selected, and if Frompo has
-                            	determined that the link you are visiting has an https equivalent, Frompo will link to the https version of the website. This makes it
-                            	more difficult for other users to view your network activity on an unsecured wireles network.
-                            </span>
-                        </li>
-                        <li>SuperPrivacy<sup>®</sup>
-                        	<span>
-                            	Frompo already has built-in controls to manage personally identifiable data, for example, we delete all IP Addresses within 48 hours of
-                                use. This setting goes one step further by helping you manage aggregate and/or anonymous information that may be disclosed regarding your
-                                activities on Frompo.com. This setting prevents click tracking data from being collected by Frompo.com and ensures that no session
-                                information is kept regarding your activities on Frompo.com. This setting also activates all of the above settings.
-                            </span>
-                        </li>
-
-                    </ul>
-                    <p>
-                    	Please be advised that all Frompo preferences mentioned above operate via browser-based cookies. If you delete Frompo cookies regarding your privacy
-                        , your web browser will not be able to put your privacy preferences into effect.
-                    </p>
-                    <p><b>OTHER ITEMS OF WHICH YOU SHOULD BE AWARE</b></p>
-
-                    <p>
-                    	<a>Cookies:</a> When you visit our website, we may send browser cookies (little files for your browser that identify your browser and your visit).
-                        Frompo also uses cookies to store your username and log-in status, your user preferences (including your privacy options, mentioned above), and
-                        other information. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your
-                        browser, or block all cookies. Blocking all cookies will affect your online experience on Frompo.com as it will not permit you to take advantage
-                        of our advanced privacy choices, described above. Please consult the "Help" section of your browser for more information on cookies generally.
-                    </p>
-
-                    <p>
-                    	<a>Children:</a> The Frompo website is intended for general audiences and is not directed to children younger than thirteen years of age. We do not
-                        knowingly collect personal information from children under the age of thirteen.
-                    </p>
-
-                    <p><b>EXCEPTIONS TO THIS PRIVACY POLICY</b></p>
-                    <p>In certain circumstances, Frompo may release the information it collects for the following purposes:</p>
-
-                    <ul>
-                    	<li><span>to respond to your requests for information (by us, our vendors or corporate affiliates); </span></li>
-                        <li><span>to process, bill and ship any of your purchases;</span></li>
-                        <li><span>
-                        	to respond to court orders, subpoenas, or other legal process, or to help Frompo in establishing or exercising its legal rights or
-                            defend itself against legal claims
-                            </span>
-                        </li>
-                        <li>
-                        	<span>
-                            	to investigate, prevent or take action with regard to illegal activity, suspected fraud, potential threat to the physical safety of
-                                any individual, violations of the Frompo Terms of Service or as otherwise required by law;
-                            </span>
-                        </li>
-                        <li>
-                        	<span>
-                            	to investigate or take action with respect to any circumstance that could expose Frompo to liability; and
-                            </span>
-                        </li>
-                        <li>
-                        	<span>
-                            	if Frompo is acquired by or merges with another company, we may release your information to the other company, but that other company
-                                will be bound by the terms of this Privacy Policy.
-                            </span>
-                        </li>
-                    </ul>
-                    <p>
-                    	Should any of the above circumstances occur, Frompo may permanently retain information (such as IP addresses) which would ordinarily be erased after
-                        48 hours under this privacy policy. We may also retain information for longer than 48 hours for debugging failures, crashes, incorrect operation
-                        or performance issues with Frompo's software. Frompo may also share non-personal information about you, in the aggregate, to third parties in the
-                         event that you have not selected our SuperPrivacy® setting.
-                    </p>
-                    <p><b>CHANGES TO THIS PRIVACY POLICY</b></p>
-                    <p>
-                    	Frompo may update this Privacy Policy from time to time. We will notify you about significant changes in the way we treat your personal information
-                        by sending a notice to the primary email address you have specified in your Frompo account or by placing a prominent notice on the Frompo website.
-                    </p>
-
-                    <div class="blank_div"></div>
+		<!-- start body-->
+		<div id="body">
+			
+			
+        	<!--container-->
+                <div class="container">
+                     <div class="row">
+                    <!--frompo_all_page_div-->
+                        <div class="col-xs-11">
+                            <div class="title">Privacy Policy</div>
+                            <p>
+        <!--                            <b>Effective December 20, 2012</b>-->
+                                </p>
+                            <p>
+                                Frompo, Inc. respects your privacy and realizes that trust is the foundation of our relationship with you. This Privacy Policy describes
+                                the information we collect about you, how it is used, and with whom we may or may not share it. We also offer you options regarding your
+                                privacy choices more fully described below.
+                            </p>
+                            <p>
+                                This Privacy Policy only covers the Frompo website along with any and all related pages on Frompo.com. We are not responsible for the privacy
+                                practices on any website other than Frompo.com. For example, we do not exercise control over the sites that appear as search results when you
+                                use the Frompo website. When you leave the Frompo website, we encourage you to carefully review the privacy policies on all other websites that
+                                you visit.
+                            </p>
+        
+                            <p><b>INFORMATION WE COLLECT FROM YOU</b></p>
+        
+                            <p>We collect different information from you depending upon how you use Frompo as described below.</p>
+                            <p>
+                                When you use <b>Frompo</b>, we may collect the following information fields from you: IP Address, your browser user agent string (a user agent string
+                                is the automatic information sent to us by your browser so we may properly format Frompo.com for your device and browser type), date and time of
+                                your login, any third party websites that referred you to us and social media websites. When you search, we collect your search queries organized
+                                into sessions that last up to four hours. If you select any websites from your search results, we will collect click tracking data, which is used
+                                to compensate us when we drive traffic to other websites and to help us improve our search engine – we do not use this data for marketing purposes.
+                                We may also need to verify your birth date to ensure that we are not collecting information in violation of the Children's Online Privacy Protection
+                                Act; we will discard your birth date once we have verified your age.
+                            </p>
+        
+                            <p><b>HOW WE MINIMIZE DATA STORED ABOUT YOU</b></p>
+        
+                            <p>
+                                To enhance user privacy, within 48 hours of your visit to our website; we will erase from our visit logs your entire IP address and the browser user
+                                agent string. However, our vendors may keep your IP Address, user agent string and isolated search strings from you for longer, but they are instructed
+                                to keep this data secure.
+                            </p>
+        
+                            <p><b>HOW WE USE YOUR INFORMATION</b></p>
+        
+                            <p>
+                                Search engines, by their very nature, must use information provided by you to deliver research results. Like other search engines, our website
+                                requires sharing a minimum amount of information to function as a search engine. But, we also permit you to crowd source your searches (solicit
+                                input from others to enhance your web research). The 'social' element to Frompo requires us to use information in additional ways to provide the
+                                enhanced collaborative functionality. Below, we fully describe how we use
+                            </p>
+        
+                            <p>
+                                information provided to us so that you can make the decision of whether or not to use our website and its enhanced functionalities.
+                            </p>
+        
+                            <p>
+                                <a>Information Forwarded by Us to Improve Your Web Search Functionality:</a> Frompo may share information regarding your website search, which is
+                                not personally identifiable to you, in order to enhance your search results. For example, we may forward your search queries to one of our vendors
+                                to check for misspellings (i.e., "Grand Canyo" may generate a did-you-mean reply of "Grand Canyon") or additional search terms that could provide
+                                more relevant search results. We also might forward your search query to one of our vendors to acquire supplemental results.
+                            </p>
+        
+                            <p>
+                                <a>Information Forwarded by Us to Provide Keyword Search Advertising:</a> Frompo provides its search services and web-based tools on the web to you
+                                for free.We are able to sustain our free web-based content through advertising revenue. All of our advertising partners require that we send them your
+                                IP Address, user agent string as well as search keywords in order to deliver search keyword advertising to you. If you do not want us to forward
+                                your personal information for advertising purposes, you can opt-out of this sharing by selecting our "No Ads" preference, as described below. Further,
+                                Frompo will forward your DoNotTrack browser settings, if you are using a browser that has DoNotTrack header functionality.
+                            </p>
+        
+                            <p>
+                                <a>To Improve Our Website:</a> Any of the information we collect, as described above, may be used for the following purposes: to improve our services
+                                and products; to develop new services; to ensure and improve the technical functionality of our website and network; to protect your rights, Frompo's
+                                rights and the rights of other Frompo users; and to assist Frompo in providing you with services.
+                            </p>
+        
+                            <p><b>YOUR PRIVACY CHOICES</b></p>
+        
+                            <p>Frompo's website offers you options to set preferences that enhance privacy:</p>
+        
+                            <ul>
+                                <li>No Facebook:<span> This feature disables all of Frompo's integration with Facebook.</span></li>
+                                <li>No Ads:
+                                    <span>
+                                        This feature disables display of all ads on Frompo.com. Also, Frompo will not send any information identifiable to you
+                                        (such as, IP Address, user agent string and search keywords) to a third party for advertising or marketing purposes.
+                                    </span>
+                                </li>
+                                <li>Always Use HTTPS on Frompo.com:
+                                    <span>
+                                        This feature helps make communications on Frompo.com more secure and private, for example making it more difficult for other users to
+                                        view your Frompo.com activity on an unsecured wireless network.
+                                    </span>
+                                </li>
+                                <li>HTTPS Preferred<sup>®</sup>:
+                                    <span>
+                                        This feature helps make links to search results on Frompo.com more secure. If you have this option selected, and if Frompo has
+                                        determined that the link you are visiting has an https equivalent, Frompo will link to the https version of the website. This makes it
+                                        more difficult for other users to view your network activity on an unsecured wireles network.
+                                    </span>
+                                </li>
+                                <li>SuperPrivacy<sup>®</sup>
+                                    <span>
+                                        Frompo already has built-in controls to manage personally identifiable data, for example, we delete all IP Addresses within 48 hours of
+                                        use. This setting goes one step further by helping you manage aggregate and/or anonymous information that may be disclosed regarding your
+                                        activities on Frompo.com. This setting prevents click tracking data from being collected by Frompo.com and ensures that no session
+                                        information is kept regarding your activities on Frompo.com. This setting also activates all of the above settings.
+                                    </span>
+                                </li>
+        
+                            </ul>
+                            <p>
+                                Please be advised that all Frompo preferences mentioned above operate via browser-based cookies. If you delete Frompo cookies regarding your privacy
+                                , your web browser will not be able to put your privacy preferences into effect.
+                            </p>
+                            <p><b>OTHER ITEMS OF WHICH YOU SHOULD BE AWARE</b></p>
+        
+                            <p>
+                                <a>Cookies:</a> When you visit our website, we may send browser cookies (little files for your browser that identify your browser and your visit).
+                                Frompo also uses cookies to store your username and log-in status, your user preferences (including your privacy options, mentioned above), and
+                                other information. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your
+                                browser, or block all cookies. Blocking all cookies will affect your online experience on Frompo.com as it will not permit you to take advantage
+                                of our advanced privacy choices, described above. Please consult the "Help" section of your browser for more information on cookies generally.
+                            </p>
+        
+                            <p>
+                                <a>Children:</a> The Frompo website is intended for general audiences and is not directed to children younger than thirteen years of age. We do not
+                                knowingly collect personal information from children under the age of thirteen.
+                            </p>
+        
+                            <p><b>EXCEPTIONS TO THIS PRIVACY POLICY</b></p>
+                            <p>In certain circumstances, Frompo may release the information it collects for the following purposes:</p>
+        
+                            <ul>
+                                <li><span>to respond to your requests for information (by us, our vendors or corporate affiliates); </span></li>
+                                <li><span>to process, bill and ship any of your purchases;</span></li>
+                                <li><span>
+                                    to respond to court orders, subpoenas, or other legal process, or to help Frompo in establishing or exercising its legal rights or
+                                    defend itself against legal claims
+                                    </span>
+                                </li>
+                                <li>
+                                    <span>
+                                        to investigate, prevent or take action with regard to illegal activity, suspected fraud, potential threat to the physical safety of
+                                        any individual, violations of the Frompo Terms of Service or as otherwise required by law;
+                                    </span>
+                                </li>
+                                <li>
+                                    <span>
+                                        to investigate or take action with respect to any circumstance that could expose Frompo to liability; and
+                                    </span>
+                                </li>
+                                <li>
+                                    <span>
+                                        if Frompo is acquired by or merges with another company, we may release your information to the other company, but that other company
+                                        will be bound by the terms of this Privacy Policy.
+                                    </span>
+                                </li>
+                            </ul>
+                            <p>
+                                Should any of the above circumstances occur, Frompo may permanently retain information (such as IP addresses) which would ordinarily be erased after
+                                48 hours under this privacy policy. We may also retain information for longer than 48 hours for debugging failures, crashes, incorrect operation
+                                or performance issues with Frompo's software. Frompo may also share non-personal information about you, in the aggregate, to third parties in the
+                                 event that you have not selected our SuperPrivacy® setting.
+                            </p>
+                            <p><b>CHANGES TO THIS PRIVACY POLICY</b></p>
+                            <p>
+                                Frompo may update this Privacy Policy from time to time. We will notify you about significant changes in the way we treat your personal information
+                                by sending a notice to the primary email address you have specified in your Frompo account or by placing a prominent notice on the Frompo website.
+                            </p>
+        
+                            <div class="blank_div"></div>
+                        </div>
+                    <!--end frompo_all_page_div-->
+                    </div>
+                    
                 </div>
-            <!--end frompo_all_page_div-->
-            </div>
-            <!--container_right-->
-            <div class="container_right">
-            	<script type="text/javascript">
-                            //<![CDATA[
-                            LSM_Slot({
-                                adkey: '814',
-                                ad_size: '160x600',
-                                slot: 'slot52824'
-                            });
-                            //]]>
-                        </script>
-                <div class="hr"></div>
-            </div>
-            <!--end container_right-->
-        </div>
-        <!--end container-->
-        <p></p>
+       		 <!--end container-->
+        	<p></p>
+		</div> 
+        	<p></p>
+			
+</div>
+<!-- clicky.com -->
+<a title="Real Time Web Analytics" href="http://clicky.com/100669755"><img style="display:none" alt="Real Time Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0"></a>
+<script type="text/javascript">
+var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(100669755);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100669755ns.gif" /></p></noscript>
+<!-- clicky.com -->
+<!--statcounter -->
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=9367582; 
+var sc_invisible=1; 
+var sc_security="ac9a484f"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="hits counter"
+href="http://statcounter.com/free-hit-counter/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/9367582/0/ac9a484f/1/"
+alt="hits counter"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<!--statCounter-->
 
-    </div>	
-                </div>
-                <!--end container_mid--> 
-            </div>
-            <!--end container-->	
-        </div>
-        <!--end body-->
 
-        <!--footer-->
-        <div class="footer">
-            <div class="footer_wrapper">
-                <ul id="footer_menu">
-                    <li><a href="">CONTACT</a></li>
-                    <li><a href="/about">ABOUT</a></li>
-                    <li><a href="/privacy-policy">PRIVACY  POLICY</a></li>
-                    <li><a href="/terms">TERMS &amp; CONDITIONS</a></li>
-                    <li><a href="/webmaster">WEBMASTER</a></li>
-                    <li><a href="">HELP</a></li>
-                </ul>
-                <div class="frompo">© 2013 frompo.com</div>
-           </div>
-        </div>
-		<!--end footer-->
-    </div>
-		<!--  carousel script for amozon products -->
-		<script type="text/javascript">
-			$('#ca-container').contentcarousel();
-		</script>
-		
-		<!-- Piwik -->
-		<script type="text/javascript">
-		var pkBaseURL = (("https:" == document.location.protocol) ? "https://www.frompo.com/piwik/" : "http://www.frompo.com/piwik/");
-		document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://www.frompo.com/piwik/piwik.js" type="text/javascript"></script><script type="text/javascript">
-		try {
-		var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
-		piwikTracker.trackPageView();
-		piwikTracker.enableLinkTracking();
-		} catch( err ) {}
-		</script><noscript><p><img src="http://www.frompo.com/piwik/piwik.php?idsite=1" style="border:0" alt="piwik" /></p></noscript>
-		<!-- End Piwik Tracking Code -->
-    
 </body></html>
