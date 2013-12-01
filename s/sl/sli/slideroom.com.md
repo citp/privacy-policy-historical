@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424004130id_/http%3A//slideroom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201132431id_/http%3A//www.slideroom.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SlideRoom
-
-[](https://web.archive.org/)
-
-## SlideRoom.com ("Company") is committed to protecting the privacy of our customer’s personal information.
 
 This statement applies with respect to the information that we collect from the Company Website at [http://www.SlideRoom.com](http://www.slideroom.com/) and Accounts provided to our Clients and their applicants. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
@@ -38,4 +34,4 @@ This site may make chat rooms, forums, message boards, and/or news groups availa
 
 ###  CONTACTING US
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can [contact us](http://slideroom.com/company/contact/).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can [contact us](https://web.archive.org/contact.html).
