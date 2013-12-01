@@ -1,21 +1,88 @@
-> *The following text is extracted and transformed from the toydemon.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101220324id_/http%3A//www.toydemon.com/Privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toydemon.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201172158id_/http%3A//www.toydemon.com/privacy-policy) for the most accurate reproduction.*
 
-# ToyDemon - Imported Adult Novelty Boutique for Meiki Sex Toys | Vibrators | Dildos | Masturbators | Anal Toys| Japanese AV | Hentai | DVDs | Sexy Lingerie | Blow Up Dolls | Lubricant | Condoms and more
+# Privacy Policy - ToyDemon
 
-#### Your privacy is as important to us as it is to you.
+This privacy policy sets out how ToyDemon.com uses and protects any information that you give ToyDemon.com when you use this website. ToyDemon.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement. ToyDemon.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-ToyDemon is committed to safeguarding the online privacy of our customers, and recognizes the importance of protecting the privacy of personal information collected. When shopping on ToyDemon.com, the information we collect is solely used to process your orders. We will never sell, rent, trade or share your information with any third parties. Shipping carriers Fed Ex and USPS are only given the necessary information to deliver your order. 
+  
 
-#### No unwanted contact
 
-ToyDemon does not create or send unsolicited phone calls, email, or postal mail. Emails are only sent to confirm your order, respond to your questions, notify you of problems, and if you have selected to receive ToyDemon newsletter. 
+* * *
 
-#### Write us anonymously
+## What We Collect
 
-Our Web site Forum strives to promote an honest and open environment for learning about Japanese and Asian sex toys. Any comments questions or other writing you submit to us are kept anonymous, unless you request otherwise. Forum entries can be submitted under a false name. 
+ToyDemon.com may collect the following information:
 
-#### Our privacy policy does not apply to external content. 
+  * Name, email address, and phone number.
+  * Demographic information such as address, postal code, IP, preferences, and interests.
+  * Other information relevant to customer surveys and/or offers.
 
-Our Web site may contain links to other Web sites. Please note that ToyDemon is not responsible for the content of any Web site linked to or from ToyDemon.com. We strongly encourage our customers to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+  
 
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our Web site. 
+
+* * *
+
+## What We Do With the Information We Gather
+
+ToyDemon.com requires this information to better understand your needs and provide you with better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email. We may use the information to customize the website according to your interests.
+
+  
+
+
+* * *
+
+## Security
+
+ToyDemon.com is committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+  
+
+
+* * *
+
+## How We Use Cookies
+
+A cookie is a small file which asks for permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+ToyDemon.com uses traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+  
+
+
+* * *
+
+## Links to Other Websites
+
+ToyDemon.com may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+  
+
+
+* * *
+
+## Controlling Your Personal Information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@toydemon.com
+
+
+
+ToyDemon.com will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will apply. If you would like a copy of the information held on you please contact ToyDemon.com.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+  
+
+
+* * *
