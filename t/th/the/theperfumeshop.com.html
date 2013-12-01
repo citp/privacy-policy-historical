@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theperfumeshop.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629104309id_/http%3A//www.theperfumeshop.com/fcp/content/Privacy_and_Security/content) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theperfumeshop.com privacy policy that was archived on 2013-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131201035215id_/http%3A//www.theperfumeshop.com/fcp/content/Privacy_and_Security/content) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><!--<![endif]--><head>
 		<link rel="shortcut icon" type="image/x-icon" href="/pws/images/favicon.ico">
@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="/pws/style/content.css" type="text/css">
 <link rel="stylesheet" href="/pws/style/perfumeshop.css" type="text/css">
 
-<script type="text/javascript" src="/pws/javascript/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/pws/javascript/jquery-1.8.3.min.js"></script>
 <script type="text/javascript" src="/pws/javascript/jquery-cookie.pack.js"></script>
 <script type="text/javascript" src="/pws/javascript/jquery-hover-intent.js"></script>
 <script type="text/javascript" src="/pws/javascript/jquery-ui.js"></script>
@@ -22,6 +22,8 @@
 
 
 <script type="text/javascript" src="/pws/javascript/global.js"></script>
+<script type="text/javascript" src="/pws/javascript/mustache.js"></script>
+<script type="text/javascript" src="/pws/javascript/templates.js"></script>
 
 <link rel="stylesheet" href="/pws/client/style/client.css" type="text/css">
 
@@ -52,8 +54,21 @@ var DefaultHeaderCode;
 			document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'assets.resultspage.com/js/rac/sli-rac.0.4.css" /%3E'));
 			document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'theperfumeshop.resultspage.com/rac/sli-rac.css" /%3E'));
 		</script><link rel="stylesheet" type="text/css" href="https://assets.resultspage.com/js/rac/sli-rac.0.4.css"><link rel="stylesheet" type="text/css" href="https://theperfumeshop.resultspage.com/rac/sli-rac.css">
-	</head>
-	<body class="contentlayout">
+		<script type="text/javascript">
+    var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-5741908-1']);
+	_gaq.push(['_setDomainName', '.theperfumeshop.com']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_trackPageview', ]);
+	
+	(function() {
+	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script>
+</head>
+	<body class="ly_content Privacy_and_Security  " data-currency="GBP" data-page-key="">
 		<script type="text/javascript">
 		// <![CDATA[
 			document.write('<div class="withScript">');
@@ -96,7 +111,7 @@ $(document).ready (function(){
 <div id="miniBasket">
 		<div id="miniBasketOverview">
 			<p>&nbsp;</p>
-			<a href="http://www.theperfumeshop.com/pws/ShippingOptions.ice?viewBasket=true">View</a>
+			<a href="http://www.theperfumeshop.com/pws/ShippingOptions.ice">View</a>
 		</div>
 		<div id="miniBasketDetail">&nbsp;</div>
 	</div>
@@ -108,9 +123,29 @@ $(document).ready (function(){
 <li><a href="https://www.theperfumeshop.com/pws/secure/ManageAccount.ice?secure_from=login">Your Account</a></li>
 <!-- <li><a href="https://www.theperfumeshop.com/pws/secure/ViewWishList.ice">Wish List</a></li> -->
 <!-- <li><a href="http://www.theperfumeshop.com/pws/RegisterProspect.ice?register=true&headerLink=true">Email Sign-Up</a></li> -->
-<li><a href="http://www.theperfumeshop.com/pws/StoreFinder.ice">258 Shops UK &amp; Ireland</a></li><script type="text/javascript" src="/pws/ssnLogInOut.jsp"></script>
+<li><a href="http://www.theperfumeshop.com/pws/StoreFinder.ice">258 Shops UK &amp; Republic of Ireland</a></li><script type="text/javascript" src="/pws/ssnLogInOut.jsp"></script>
 		</ul>	
-	</div>
+	<dl id="headerChannel">
+		<dt>
+			<strong>Select your country</strong>
+			United Kingdom&nbsp;£&nbsp;<img src="/pws/images/country/GB_sm.png" alt="United Kingdom"> Change
+		</dt>
+		<dd><a class="select" href="http://www.theperfumeshop.com/pws/ChooseCountryPreference.ice?forward=home&amp;countryIsoParam=GB">
+					<img src="/pws/images/country/GB.png" alt="">
+					<span>Selected</span>
+					<span>United Kingdom (<strong>£</strong>)</span>
+				</a></dd>
+			<dd><a class="select" href="http://www.theperfumeshop.ie/pws/ChooseCountryPreference.ice?forward=home&amp;countryIsoParam=IE">
+					<img src="/pws/images/country/IE.png" alt="">
+					<span>Visit our Irish site</span>
+					<span>Republic of Ireland (<strong>€</strong>)</span>
+				</a></dd>
+			<dd><a class="other" href="/fcp/content/Help_FAQ/content#nonUKOrder">
+			Shopping from a different country?
+		</a></dd>
+	</dl>
+	
+</div>
 
 <div id="navCont">
 	<div id="nav"> 
@@ -145,9 +180,6 @@ $(document).ready (function(){
 												</li>
 										<li>
 											<a href="http://www.theperfumeshop.com/fcp/categorylist/womens/fruity-perfume-scents?resetFilters=true">Fruity</a>
-												</li>
-										<li>
-											<a href="http://www.theperfumeshop.com/fcp/categorylist/womens/floral-perfume-scents?resetFilters=true">Floral</a>
 												</li>
 										</ul></li>
 						<li class="viewAll"><a href="http://www.theperfumeshop.com/fcp/categorylist/womens/fragrances?resetFilters=true">All Women's Perfumes Fragrances</a></li>
@@ -207,22 +239,22 @@ $(document).ready (function(){
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/beckham?resetFilters=true">Beckham</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;Britney Spears first joined forces with the Elizabeth Arden firm for her debut fragrance, Curious. A youthful arrangement, with sweet Louisiana magnolia, a tribute to the Britney's native state.&lt;/p&gt;&lt;p&gt;Britney then released Fantasy. It was introduced by the design house of Giorgio Armani. It is a refined flowery fragrance with a blend of fruits, jasmine and heliotrope with low notes of cedar vanilla and musk.&lt;/p&gt;&lt;p&gt;Next came In Control, a sexy mixture of loquat fruit, midnight orchid, crème brûlée, black vanilla bean, Tonka crystals, and sandalwood.&lt;/p&gt;&lt;p&gt;Britney recently teamed up again with Elizabeth Arden to create Believe, her newest fragrance. It is a delicate and sensual blend of warm, seductive amber and exotic florals.&lt;/p&gt;/brand/britney-spears?resetFilters=true">Britney Spears</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/britney-spears?resetFilters=true">Britney Spears</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/BVLGARI/brand/bvlgari?resetFilters=true">BVLGARI</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/bvlgari?resetFilters=true">BVLGARI</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Cacharel/brand/cacharel?resetFilters=true">Cacharel</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/cacharel?resetFilters=true">Cacharel</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Carolina Herrera/brand/carolina-herrera?resetFilters=true">Carolina Herrera</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/carolina-herrera?resetFilters=true">Carolina Herrera</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/cartier?resetFilters=true">Cartier</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Celine Dion/brand/celine-dion?resetFilters=true">Celine Dion</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/celine-dion?resetFilters=true">Celine Dion</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/cerruti?resetFilters=true">Cerruti</a>
@@ -231,67 +263,67 @@ $(document).ready (function(){
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/cher-lloyd?resetFilters=true">Cher Lloyd</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Chloé fragrance captures the essense of Chloé with authenticity and emotion. &#10;&#10;The scent captures the creative, confident individuality of a free spirited woman with an utterly innate sense of chic and natural sexiness. /brand/chloe?resetFilters=true">Chloe</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/chloe?resetFilters=true">Chloe</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Christina Aguilera/brand/christina-aguilera?resetFilters=true">Christina Aguilera</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/christina-aguilera?resetFilters=true">Christina Aguilera</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Clinique/brand/clinique?resetFilters=true">Clinique</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/clinique?resetFilters=true">Clinique</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Davidoff/brand/davidoff?resetFilters=true">Davidoff</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/davidoff?resetFilters=true">Davidoff</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Diesel/brand/diesel?resetFilters=true">Diesel</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/diesel?resetFilters=true">Diesel</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/DKNY is the street side complement to Donna Karan’s luxe, couture collection. What began as a quest for the perfect jeans has erupted into a style empire that includes ready-to-wear, eyeware, shoes, accessories and fragrances. At DKNY, the designs are friendly, the fashion is fast, and the attitude is sharp. So it’s no surprise that each scent just like her clothing emanates Karan’s inspiration from modern, quintessential men and women, capturing the urban energy of downtown, the eclectic smoothness of uptown and the pulse of the street./brand/DKNY?resetFilters=true">DKNY</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/DKNY?resetFilters=true">DKNY</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Dolce&amp;Gabbana/brand/dolce-gabbana?resetFilters=true">Dolce&amp;Gabbana</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/dolce-gabbana?resetFilters=true">Dolce&amp;Gabbana</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;The mission of the Donna Karan Company, as a design driven company, is to represent the international pulse of New York in the design, marketing and delivery of a complete lifestyle system to a global customer. Donna Karan applies the highest standards of creativity, integrity, quality and innovation to its products and concepts.&lt;/p&gt; &lt;p&gt;Donna Karan endeavours to appeal to women's senses on every level. Founded on an intuitive understanding of a woman's needs and desires, her exclusive collection embodies the ultimate in luxury, sensuality, comfort and creative expression, always utilizing the finest quality materials, workmanship and innovation.&lt;/p&gt;/brand/donna-karan?resetFilters=true">Donna Karan</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/donna-karan?resetFilters=true">Donna Karan</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/elie-saab?resetFilters=true">Elie Saab</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;Elizabeth Arden Fragrances was founded by designer Elizabeth Arden in 1915 in the USA. By 1920, over a hundred products were spelling out the Elizabeth Arden name in almost 600 permutations - more products than any other company in the world. By the 1930's, it was said that there were only three American names known in every corner of the globe: Singer Sewing Machines, Coca-Cola, and Elizabeth Arden.&lt;/p&gt;&lt;p&gt;The first and one of the best-known global prestige beauty products company, Elizabeth Arden is uniquely positioned to continue its role as a leader in the fragrance, cosmetic and skincare industry, building upon its expertise and advances while always remaining on the cutting edge of product innovation.&lt;/p&gt;/brand/elizabeth-arden?resetFilters=true">Elizabeth Arden</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/elizabeth-arden?resetFilters=true">Elizabeth Arden</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Elizabeth Taylor/brand/elizabeth-taylor?resetFilters=true">Elizabeth Taylor</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/elizabeth-taylor?resetFilters=true">Elizabeth Taylor</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Emporio Armani/brand/emporio-armani?resetFilters=true">Emporio Armani</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/emporio-armani?resetFilters=true">Emporio Armani</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Ferrari/brand/ferrari?resetFilters=true">Ferrari</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/ferrari?resetFilters=true">Ferrari</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;The first Ghost fragrance was rolled out in 2000. Ghost is created by women for women and is recognised as designers of ultra feminine fragrances.&lt;/p&gt;&lt;p&gt;Ghost is a thorough-bred British success story, creating an easy aesthetic and perfumes that are timeless and never tries too hard.&lt;/p&gt;/brand/ghost?resetFilters=true">Ghost</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/ghost?resetFilters=true">Ghost</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/giorgio-armani?resetFilters=true">Giorgio Armani</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Giorgio Beverly Hills/brand/giorgio-beverly-hills?resetFilters=true">Giorgio Beverly Hills</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/giorgio-beverly-hills?resetFilters=true">Giorgio Beverly Hills</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Gloria Vanderbilt/brand/gloria-vanderbilt?resetFilters=true">Gloria Vanderbilt</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/gloria-vanderbilt?resetFilters=true">Gloria Vanderbilt</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/gres-woman?resetFilters=true">Gres</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;In 1921 Guccio Gucci opened his first leather goods store in his native Florence. Having spent years working in London's Savoy Hotel, he had absorbed the refined aesthetic of English nobility, and introduces this sensibility in Italy through exclusive leather goods created and produced by the master craftsmanship of Tuscan artisans. This combination of Italian chic and English class is the winning formula that marks Gucci fragrances out as one of the most sophisticated and sought after brands in recent decades.&lt;/p&gt;/brand/gucci?resetFilters=true">Gucci</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/gucci?resetFilters=true">Gucci</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;br /&gt;&#10;&lt;p&gt;The House of Guerlain has a long and rich history, dating back to its inception in Paris in 1828. As one of the oldest perfume houses in the World, Guerlain has a huge and loyal fan base.&lt;/p&gt;&lt;br /&gt;&#10;&lt;p&gt;Guerlain fragrances are said to be inspired by the scent of confections, as a result of a common vanilla and amber accord in many of their fragrances. This is often referred to as the 'Guerlinade'&lt;/p&gt;&lt;br /&gt;&#10;&lt;p&gt;The success of the house under Pierre-François Guerlain reached dizzying heights in 1853 when its Eau de Cologne Impérial led to Pierre-François earning the prestigious title of being His Majesty's Official Perfumer in France. In turn Guerlain created perfumes for Queen Victoria and Queen Isabella II of Spain, among other royalty.&lt;/p&gt;/brand/Guerlain?resetFilters=true">Guerlain</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/Guerlain?resetFilters=true">Guerlain</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Guy Laroche/brand/guy-laroche?resetFilters=true">Guy Laroche</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/guy-laroche?resetFilters=true">Guy Laroche</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/hugo-boss?resetFilters=true">HUGO BOSS</a>
@@ -300,64 +332,70 @@ $(document).ready (function(){
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/iceberg?resetFilters=true">Iceberg</a>
 								</li>
 						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/inis?resetFilters=true">Inis</a>
+								</li>
+						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/issey-miyake?resetFilters=true">Issey Miyake</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Jennifer Lopez/brand/jennifer-lopez?resetFilters=true">Jennifer Lopez</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/jennifer-lopez?resetFilters=true">Jennifer Lopez</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Joop! Thrill a new fragrance for her and him captures the high voltage roller-coaster ride of a nightly foray into the metropolis. Thrill for Her embodies the innocence of a sexy floral bouquet, with notes of sparkling bergamot, peach juice and rich, precious iris infused with seductive vanilla, while Thrill for Him mirrors the bergamot top notes, blending it with crisp apple, cedar wood and amber for a daring interpretation of a classic woody scent./brand/joop?resetFilters=true">Joop!</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/joop?resetFilters=true">Joop!</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/justin-bieber?resetFilters=true">Justin Bieber</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Karl Lagerfeld/brand/karl-lagerfeld?resetFilters=true">Karl Lagerfeld</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/karl-lagerfeld?resetFilters=true">Karl Lagerfeld</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Kenzo/brand/kenzo?resetFilters=true">Kenzo</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/kenzo?resetFilters=true">Kenzo</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Kylie Minogue/brand/kylie-minogue?resetFilters=true">Kylie Minogue</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/kylie-minogue?resetFilters=true">Kylie Minogue</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/LACOSTE Essential has been designed to capture the feeling of freedom and enjoyment.  It is sophisticated and bright, fresh and natural – classic yet contemporary.  Formulated using ‘Time Release Technology’, the first burst of freshness will last and last – just breathing on the fragrance will bring it back to life.  &#10;&lt;br /&gt;&lt;br /&gt;&#10;LACOSTE Pour Homme is a warm and sensual, modern oriental. Its most arresting note comes from an absolute derived from pure Jamaican rum – infusing the whole with an enduring, seductive, masculine quality.  &#10;&lt;br /&gt;&lt;br /&gt;&#10;LACOSTE Pour Femme has been created for women who are slightly mischievous and have a real sense of adventure. &#10;&lt;br /&gt;&lt;br /&gt;&#10;LACOSTE Red’s dynamic composition reflects the determination and inner strength that are the hallmarks of a true winner.  &#10;&lt;br /&gt;&lt;br /&gt;&#10;LACOSTE Touch of Pink is a fruity-floral which captures the essence of a woman full of youthful sensuality.   A real classic for a woman who are young yet grown-up, classic yet modern, innocent yet knowing.  Her femininity shines from within and her unique charm is as compelling as it is captivating.  &#10;/brand/lacoste?resetFilters=true">Lacoste</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/lacoste?resetFilters=true">Lacoste</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;Marc Jacobs is a New York designer who still holds the rare distinction of being the youngest designer ever to have been awarded the fashion industry's highest accolade The Council of Fashion Designers of America Perry Ellis Award for New Fashion Talent.&lt;/p&gt;&lt;p&gt;Most of his collections make references to the fashions of past decades from the forties to the eighties, with his focus being primarily on discretion, simplicity and elegance. Jacobs has said 'what I prefer is that even if someone feels hedonistic, they don’t look it. Curiosity about sex is much more interesting to me than domination. ... My clothes are not hot. Never. Never.'&lt;/p&gt;/brand/marc-jacobs?resetFilters=true">Marc Jacobs</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/marc-jacobs?resetFilters=true">Marc Jacobs</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/montblanc?resetFilters=true">Montblanc</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Moschino/brand/moschino?resetFilters=true">Moschino</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/moschino?resetFilters=true">Moschino</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Nina Ricci/brand/nina-ricci?resetFilters=true">Nina Ricci</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/nina-ricci?resetFilters=true">Nina Ricci</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Oscar de la Renta/brand/oscar-de-la-renta?resetFilters=true">Oscar de la Renta</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/oscar-de-la-renta?resetFilters=true">Oscar de la Renta</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Paco Rabanne/brand/paco-rabanne?resetFilters=true">Paco Rabanne</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/paco-rabanne?resetFilters=true">Paco Rabanne</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Paloma Picasso/brand/paloma-picasso?resetFilters=true">Paloma Picasso</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/paloma-picasso?resetFilters=true">Paloma Picasso</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Police/brand/police?resetFilters=true">Police</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/police?resetFilters=true">Police</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;A behemoth of luxury Italian fashion, Prada was founded in 1913 and is widely considered one of the most influential clothing designers in the fashion industry. The Prada brand is synonymous with opulence and quality; hallmarks that are reflected in its heady range of sensual and luxurious perfumes.&lt;/p&gt;/brand/prada?resetFilters=true">Prada</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/prada?resetFilters=true">Prada</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/puig?resetFilters=true">Puig</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Ralph Lauren/brand/ralph-lauren?resetFilters=true">Ralph Lauren</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/ralph-lauren?resetFilters=true">Ralph Lauren</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/revlon?resetFilters=true">Revlon</a>
+								</li>
+						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/sonas?resetFilters=true">Sonas</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/stella-mccartney?resetFilters=true">Stella McCartney</a>
@@ -369,25 +407,25 @@ $(document).ready (function(){
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/tommy-hilfiger?resetFilters=true">Tommy Hilfiger</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;In 1990 Vera Wang founded a design company that not only reflects her lifelong love of fashion, but also celebrates the romance, sensuality and spirit of modern young women.&lt;/p&gt;&lt;p&gt;A native New Yorker, Vera Wang grew up surrounded by fashion, often accompanying her mother to the world's most stylish boutiques. After a career in competitive skating and studies at Chapin and Sarah Lawrence, Vera discovered her own love for design while at the Sorbonne in Paris. She joined Vogue and at age 23, became the youngest fashion editor ever. After 16 years, Vera moved on to Design Director of women's accessories for Ralph Lauren.&lt;/p&gt;&lt;p&gt;It was her own marriage, however, that ultimately inspired her to start her own business. She introduced style and modernity to wedding gowns, creating the foundation for a luxury fashion brand that has since expanded into various related categories. In 2005, the prestigious Council of Fashion Designers of America named Vera Wang as Womenswear Designer of the Year. Vera Wang resides in New York City with her husband and two daughters.&lt;/p&gt;Vera Wang's new product introductions reflect her vision to create a lifestyle that foes beyond the core bridal, maids and ready-to-wear into publishing, fragrance, beauty, accessories and home. Vera Wang collections are positioned in the highest end of the luxury market. Customer appeal is high: driven by an artistic modern and luxurious design style, couture-like quality and a high level of customer service.&lt;/p&gt;/brand/vera-wang?resetFilters=true">Vera Wang</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/vera-wang?resetFilters=true">Vera Wang</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/versace?resetFilters=true">Versace</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/versus?resetFilters=true">Versus</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/vivian-gray?resetFilters=true">Vivian Gray</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/accessorize?resetFilters=true">Accessorize</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/agent-provocateur?resetFilters=true">Agent Provocateur</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;Agent Provocateur believes that passion and intimacy should be indulged, and that exploring your inner desires and fantasies profoundly enriches your life.&lt;/p&gt;&lt;p&gt;Agent Provocateur's  elegant ranges are designed with both the boardroom and the boudoir in mind, ensuring that women can be sexy and professional as the mood takes them. Agent Provocateur's goal is to allow you to feel wantonly vibrant and sexy.&lt;/p&gt;&lt;p&gt;The heady, intoxicating perfumes and ravishing lotions and massage oils, fragrance you beautifuly helping you radiate sensuality at all times.&lt;/p&gt;/brand/agent-provocateur?resetFilters=true">Agent Provocateur</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/alyssa-ashley?resetFilters=true">Alyssa Ashley</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;Anna Sui's collections take you on a creative journey that is unparalleled in the world of fashion. Mixing vintage styles with her current cultural obsessions, she effortlessly makes hip and exuberant original clothes. Anna's constant search for new ideas and challenges keeps her ahead of her times. She's a true trendsetter to whom stylists and editors look for direction.&lt;/p&gt;&lt;p&gt;She has launched cosmetics, fragrance, shoe and accessory licenses. Her devotion to detail is apparent in every one of her products, which are all intimately connected to her world. Her iconic make-up packaging and fragrance bottle design have even become collectors items.&lt;/p&gt;&lt;p&gt;In her own words: 'I have never been able to find a fragrance that reflected my sensibilities, so it became important to me to create one of my own. I wanted a fragrance that would take the spirit of my collection to a new form that would embrace my fashion sense and my lifestyle.'&lt;/p&gt;/brand/anna-sui?resetFilters=true">Anna Sui</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/anna-sui?resetFilters=true">Anna Sui</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;Aramis is a pioneer and leader in men’s fragrance and grooming. Founded in 1964 by Estee Lauder, Aramis blazed the trail with the first full range of products designed to help a man look and feel his best. Aramis is now a recognised classic around the world, with an enduring appeal that goes beyond changing trends and shifts in fashion. With a wide range of men's grooming products Aramis offers great classic scents across shaving, skin care, bath, body and fragrance. &lt;/p&gt;&lt;p&gt;The key classics from Aramis include: &lt;br /&gt;The timeless and compelling herbal blend of 900&lt;br /&gt;The distinctive and masculine classic scent of Aramis &lt;br /&gt;The relaxed, fresh, easy-going scent of Devin&lt;br /&gt;And the first of the oceanic fragrances, for women, New West&lt;/p&gt;/brand/aramis?resetFilters=true">Aramis</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/aramis?resetFilters=true">Aramis</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/balenciaga?resetFilters=true">Balenciaga</a>
@@ -399,19 +437,19 @@ $(document).ready (function(){
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/beyonce?resetFilters=true">Beyonce</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;Started in 1856 by Thomas Burberry, Burberry is now an internationally-recognised luxury brand. Today Burberry's trademark products are its fashionable handbags and exclusive fragrances.&lt;/p&gt;&lt;p&gt;Burberry fragrance is a byword for traditional elegance with a modern slant.&lt;/p&gt;/brand/burberry?resetFilters=true">Burberry</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/burberry?resetFilters=true">Burberry</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/cadillac?resetFilters=true">Cadillac</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Founded in New York in 1968, Calvin Klein is now one of the leading fashion design and marketing studios in the world. Calvin Klein promotes an exciting slice of the American lifestyle. Urban, racy and cool, Calvin Klein fragrance and fashions continue to cause controversy with their daring advertising campaigns./brand/calvin-klein?resetFilters=true">Calvin Klein</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/calvin-klein?resetFilters=true">Calvin Klein</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/CHANEL?resetFilters=true">CHANEL</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Coty/brand/coty?resetFilters=true">Coty</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/coty?resetFilters=true">Coty</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/diane-von-furstenberg?resetFilters=true">Diane Von Furstenberg</a>
@@ -420,28 +458,40 @@ $(document).ready (function(){
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/dior?resetFilters=true">DIOR</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;Ed Hardy is a global fashion and beauty phenomenon. The fragrance is spritzed in all the right places and on super cool necks everywhere.&lt;/p&gt;&#10;&lt;br /&gt;&#10;&lt;p&gt;This ultra-hip, edgy his-and-hers fragrance collection was inspired by Christian Audigier, the man responsible for the Von Dutch phenomenon, and created in homage to the famous Don Ed Hardy - the ‘godfather of the modern tattoo’.&lt;/p&gt;&#10;&lt;br /&gt;&#10;&lt;p&gt;The designs are based on Ed’s own ground breaking mix of traditional Japanese design, Americana and hotrod iconography.  And the smell? Sexy, fresh, modern, with a pinch of edge, a twist of cool and a stamp of individuality.&lt;/p&gt;/brand/ed-hardy?resetFilters=true">Ed Hardy</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/disney?resetFilters=true">Disney</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Founded in 1976 by Wolfgang and Margarethe Ley, Escada is a sophisticated and sleek brand combining classic design with new ideas. /brand/escada?resetFilters=true">Escada</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/ed-hardy?resetFilters=true">Ed Hardy</a>
+								</li>
+						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/elanzia?resetFilters=true">Elanzia</a>
+								</li>
+						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/escada?resetFilters=true">Escada</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/estee-lauder?resetFilters=true">Estée Lauder</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/fragrance-of-ireland?resetFilters=true">Fragrance of Ireland</a>
-								</li>
-						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;The house of Givenchy was founded in France in 1952 by designer Hubert de Givenchy. Known for its modern, feminine styles and fragrances, Givenchy has proved to command a loyal following of women.&lt;/p&gt;Givenchy, one of the leading purveyors of contemporary luxury, is known as the ultimate in chic everywhere in the world, with its aristocratic French style nourished by culture, savoir-vivre and opulence.&lt;/p&gt;/brand/givenchy?resetFilters=true">Givenchy</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/givenchy?resetFilters=true">Givenchy</a>
 								<ul class="topNavLevel3"></ul></li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Jade Goody/brand/jade-goody?resetFilters=true">Jade Goody</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/harajuku-lovers?resetFilters=true">Harajuku Lovers</a>
+								</li>
+						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/jade-goody?resetFilters=true">Jade Goody</a>
+								</li>
+						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/jaguar?resetFilters=true">Jaguar</a>
+								</li>
+						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/jasper-conran?resetFilters=true">Jasper Conran</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/jean-patou?resetFilters=true">Jean Patou</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Jean Paul Gaultier/brand/jean-paul-gaultier?resetFilters=true">Jean Paul Gaultier</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/jean-paul-gaultier?resetFilters=true">Jean Paul Gaultier</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/jimmy-choo?resetFilters=true">Jimmy Choo</a>
@@ -450,16 +500,13 @@ $(document).ready (function(){
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/jls?resetFilters=true">JLS</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Juicy Couture/brand/juicy-couture?resetFilters=true">Juicy Couture</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/juicy-couture?resetFilters=true">Juicy Couture</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/justice-league?resetFilters=true">Justice League</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/kate-moss?resetFilters=true">Kate Moss</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Kate Moss/brand/kate-moss?resetFilters=true">Kate Moss</a>
-								</li>
-						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Katie Price/brand/katie-price?resetFilters=true">Katie Price</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/katie-price?resetFilters=true">Katie Price</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/katy-perry?resetFilters=true">Katy Perry</a>
@@ -474,16 +521,28 @@ $(document).ready (function(){
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/lady-gaga?resetFilters=true">Lady Gaga</a>
 								</li>
 						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/lamborghini?resetFilters=true">Lamborghini</a>
+								</li>
+						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/lancome?resetFilters=true">Lancôme</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Mariah Carey/brand/mariah-carey?resetFilters=true">Mariah Carey</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/lol?resetFilters=true">LOL</a>
+								</li>
+						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/mariah-carey?resetFilters=true">Mariah Carey</a>
+								</li>
+						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/marvel?resetFilters=true">Marvel</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/michael-kors?resetFilters=true">Michael Kors</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/monsoon?resetFilters=true">Monsoon</a>
+								</li>
+						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/moshi-monsters?resetFilters=true">Moshi Monsters</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/narciso-rodriguez?resetFilters=true">Narciso Rodriguez</a>
@@ -498,7 +557,10 @@ $(document).ready (function(){
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/one-direction?resetFilters=true">One Direction</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;Paul Smith launced his first fragrance 'Original' for men and for women in 2000. Drawing inspiration from aromatherapy oils and energising lotions, the fragrance can be summed up by the words 'timeless and modernity'. In 2002 'Extreme' launched; this fragrance was designed to complmplement the first, being fresh and lively.&lt;/p&gt;&lt;p&gt;'Paul Smith London' was introduced in 2004 as a more sophisticated and elegant fragrance. This was folowed by 'Floral', a lighter, fresher and younger version of 'London' for women. In October 2006 'Story', a fragrance for men, was launched. 'Story' is clean, minimal and classic but with surprising elements providing the twist in this particular tale.&lt;/p&gt;&lt;p&gt;Paul Smith 'Rose' was unveiled in August 2007 for women and is, quite simply, a rose fragrance for a new generation. It is fresh, modern and airy, not words you'd normally associate with a rose fragrance. To accompany this came 'Sunshine', a limited edition fragrance for Summer 2008.&lt;/p&gt;/brand/paul-smith?resetFilters=true">Paul Smith</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/paul-smith?resetFilters=true">Paul Smith</a>
+								</li>
+						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/peter-andre?resetFilters=true">Peter Andre</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/puma?resetFilters=true">Puma</a>
@@ -519,6 +581,9 @@ $(document).ready (function(){
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/selena-gomez?resetFilters=true">Selena Gomez</a>
 								</li>
 						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/spiderman?resetFilters=true">Spiderman</a>
+								</li>
+						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/swarovski?resetFilters=true">Swarovski</a>
 								</li>
 						<li>
@@ -528,7 +593,7 @@ $(document).ready (function(){
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/the-perfume-shop?resetFilters=true">The Perfume Shop</a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/&lt;p&gt;Thierry Mugler is a Paris-based brand that first launched in 1973. Mugler gained a reputation for striking cuts and bold shapes. Today Thierry Mugler is better known for its wide range of fragrances, where its provocative spirit is as strong as ever.&lt;/p&gt;/brand/thierry-mugler?resetFilters=true">Thierry Mugler</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/thierry-mugler?resetFilters=true">Thierry Mugler</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/travalo?resetFilters=true">Travalo </a>
@@ -552,21 +617,18 @@ $(document).ready (function(){
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/vivienne-westwood?resetFilters=true">Vivienne Westwood </a>
 								</li>
 						<li>
-							<a href="http://www.theperfumeshop.com/fcp/Founded in 1961, Yves Saint Lauren is one of the greatest fashion names of the late 20th century. Throughout the years, the groundbreaking designs of the Couture house created innovative pieces of clothing.&lt;br /&gt;Yves Saint Laurent was the first Couture house to launch, in 1966, the modern concept of luxury women’s prêt-à-porter, in a collection called ‘Rive Gauche’. It was followed in 1969 by a ‘Rive Gauche men’s ready-to-wear line. The Yves Saint Laurent Rive Gauche boutiques were soon opened throughout the world, allowing fashion-conscious working individuals to wear the Yves Saint Laurent designs. This represented the first step in making luxury labels accessible to a wider public.&lt;br /&gt;Today Yves Saint Laurent’s collections include women’s and men’s ready-to-wear, shoes, handbags, fragrances, small leather goods, jewellery, scarves, ties and eyewear. They are designed for both modern women who have a keen sense of freedom and follow their instincts with assurance, captivating others with their elegance, as well as men who prefer a nonconformist look and assert the different facets of their personality in a modern and sensitive way./brand/yves-saint-laurent?resetFilters=true">Yves Saint Laurent</a>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/yves-saint-laurent?resetFilters=true">Yves Saint Laurent</a>
 								</li>
 						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/zegna?resetFilters=true">Ermenegildo Zegna</a>
 								</li>
+						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/brand/zirh?resetFilters=true">Zirh</a>
+								</li>
 						</ul></li>										
 			<li id="wc_new_perfumes">
 				<a href="http://www.theperfumeshop.com/fcp/categorylist/new/perfumes?resetFilters=true"><img src="/pws/images/wc_new_perfumes_0.jpg" alt="New Perfumes &amp; Aftershaves" class="rollover"></a>
-							<ul class="topNavLevel2"><li>
-							<a href="http://www.theperfumeshop.com/fcp/categorylist/new/summer_her?resetFilters=true">Summer Perfumes For Her</a>
-								</li>
-						<li>
-							<a href="http://www.theperfumeshop.com/fcp/categorylist/new/summer_him?resetFilters=true">Summer Fragrances For Him</a>
-								</li>
-						</ul></li>										
+							<ul class="topNavLevel2"></ul></li>										
 			<li id="wc_perfume_offers">
 				<a href="http://www.theperfumeshop.com/fcp/categorylist/perfume/offers?resetFilters=true"><img src="/pws/images/wc_perfume_offers_0.jpg" alt="Offers &amp; Deals on Perfume &amp; Aftershave" class="rollover"></a>
 							<ul class="topNavLevel2"><li>
@@ -576,10 +638,23 @@ $(document).ready (function(){
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/perfume/offers_him?resetFilters=true">Offers For Him</a>
 								</li>
 						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/perfume/sale?resetFilters=true">15% Off Offers</a>
+								</li>
+						<li>
+							<a href="http://www.theperfumeshop.com/fcp/categorylist/perfume/gift-sets?resetFilters=true">Christmas Shop</a>
+								</li>
+						<li>
 							<a href="http://www.theperfumeshop.com/fcp/categorylist/perfume/gwp?resetFilters=true">Free Gifts with Selected Fragrances</a>
 								</li>
 						</ul></li>										
-			</ul>
+			<li id="wc_christmas">
+	<a href="/fcp/categorylist/perfume/gift-sets?resetFilters=true"><img src="/pws/images/wc_christmas_0.jpg" alt="Christmas Shop" class="rollover"></a>
+	<ul class="topNavLevel2">
+		<li><a href="/fcp/categorylist/perfume/gift-sets?resetFilters=true">Christmas Shop</a></li>
+		<li><a href="/fcp/categorylist/perfume/offers?resetFilters=true">Christmas Offers</a></li>
+		<li><a href="/fcp/content/advert/content?resetFilters=true">Christmas TV Advert</a></li>
+	</ul>
+</li></ul>
 
 				<form action="http://perfume.theperfumeshop.com/search" method="get" id="searchForm">
 					<fieldset>
@@ -610,11 +685,11 @@ $(document).ready (function(){
 				<div class="MenuBlk">
 <h4 class="CustomerServices">Customer Services</h4>
 <ul>
-<li><a href="http://www.theperfumeshop.com/pws/secure/ManageAccount.ice?secure_from=login">Your Account &amp; Orders</a></li>
-<li><a href="http://www.theperfumeshop.com/fcp/content/Delivery_Information/content">Delivery Information</a></li>
-<li><a href="http://www.theperfumeshop.com/fcp/content/Returns_and_Refunds/content">Returns &amp; Refunds</a></li>
-<li><a href="http://www.theperfumeshop.com/fcp/content/Contact_Us/content">Contact Us</a></li>
-<!--<li><a href="http://www.theperfumeshop.com/fcp/content/Help_FAQ/content">FAQs &amp; Help</a></li>-->
+<li><a href="http://m.theperfumeshop.com/pws/secure/ManageAccount.ice?secure_from=login">Your Account &amp; Orders</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/Delivery_Information/content">Delivery Information</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/Returns_and_Refunds/content">Returns &amp; Refunds</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/Contact_Us/content">Contact Us</a></li>
+<!--<li><a href="http://m.theperfumeshop.com/fcp/content/Help_FAQ/content">FAQs &amp; Help</a></li>-->
 </ul>
 </div>
 
@@ -622,20 +697,20 @@ $(document).ready (function(){
 <h4 class="OurShops">Our Shops</h4>
 <ul>
 <li><a href="/pws/StoreFinder.ice">Find your nearest shop</a></li>
-<!-- <li><a href="http://www.theperfumeshop.com/fcp/content/Shop_Events/content">Shop Events</a></li> -->
-<!-- <li><a href="http://www.theperfumeshop.com/fcp/content/About_Our_Shop_Staff/content">Our Store Teams</a></li> -->
+<!-- <li><a href="http://m.theperfumeshop.com/fcp/content/Shop_Events/content">Shop Events</a></li> -->
+<!-- <li><a href="http://m.theperfumeshop.com/fcp/content/About_Our_Shop_Staff/content">Our Store Teams</a></li> -->
 </ul>
 </div>
 
 <!-- <div class="MenuBlk">
 <h4 class="GiftWrapping">Gifts and Gift Wrapping</h4>
 <ul>
-<li><a href="http://www.theperfumeshop.com/fcp/content/Gift_Wrapping/content">Gift Wrapping &amp; Gift Bags</a></li>
-<li><a href="http://www.theperfumeshop.com/fcp/content/Gift_Vouchers/content">Gift Vouchers</a></li>
-<li><a href="http://www.theperfumeshop.com/fcp/content/Viva_Boxes/content">Fragrance Selection Boxes</a></li>
-<li><a href="http://www.theperfumeshop.com/fcp/content/Gift_Ideas/content">Gift Ideas &amp; Gift Sets</a></li>
-<li><a href="http://www.theperfumeshop.com/fcp/content/Choosing_a_Great_Gift/content">Choosing a Great Gift</a></li>
-<li><a href="http://www.theperfumeshop.com/fcp/content/Delivery_of_Your_Gift/content">Delivery of Your Gift</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/Gift_Wrapping/content">Gift Wrapping &amp; Gift Bags</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/Gift_Vouchers/content">Gift Vouchers</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/Viva_Boxes/content">Fragrance Selection Boxes</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/Gift_Ideas/content">Gift Ideas &amp; Gift Sets</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/Choosing_a_Great_Gift/content">Choosing a Great Gift</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/Delivery_of_Your_Gift/content">Delivery of Your Gift</a></li>
 </ul>
 </div> -->
 
@@ -653,34 +728,34 @@ $(document).ready (function(){
 <div class="MenuBlk">
 <h4 class="AboutThePerfumeShop">More at The Perfume Shop</h4>
 <ul>
-<!-- <li><a href="http://www.theperfumeshop.com/fcp/content/Our_Story/content">Our Story...</a></li> -->
-<!-- <li><a href="http://www.theperfumeshop.com/fcp/content/In_the_press/content">In the Press...</a></li> -->
-<!-- <li><a href="http://www.theperfumeshop.com/fcp/content/Corporate_Information/content">Corporate Information</a></li> -->
-<!-- <li><a href="http://www.theperfumeshop.com/fcp/content/Our_Website/content">Our Website</a></li> -->
-<!-- <li><a href="http://www.theperfumeshop.com/pws/RegisterProspect.ice">Email Sign-Up</a></li> -->
-<!--<li><a href="http://www.theperfumeshop.com/fcp/content/Request_a_Fragrance/content">Can't find it? Request a Fragrance</a></li>-->
-<li><a href="http://www.theperfumeshop.com/pws/SiteMap.ice">Sitemap</a></li>
+<!-- <li><a href="http://m.theperfumeshop.com/fcp/content/Our_Story/content">Our Story...</a></li> -->
+<!-- <li><a href="http://m.theperfumeshop.com/fcp/content/In_the_press/content">In the Press...</a></li> -->
+<!-- <li><a href="http://m.theperfumeshop.com/fcp/content/Corporate_Information/content">Corporate Information</a></li> -->
+<!-- <li><a href="http://m.theperfumeshop.com/fcp/content/Our_Website/content">Our Website</a></li> -->
+<!-- <li><a href="http://m.theperfumeshop.com/pws/RegisterProspect.ice">Email Sign-Up</a></li> -->
+<!--<li><a href="http://m.theperfumeshop.com/fcp/content/Request_a_Fragrance/content">Can't find it? Request a Fragrance</a></li>-->
+<li><a href="http://m.theperfumeshop.com/pws/SiteMap.ice">Sitemap</a></li>
 </ul>
 </div>
 
 <div class="MenuBlk">
 <h4 class="AllAboutFragrance">All About Fragrance...</h4>
 <ul>
-<li><a href="http://www.theperfumeshop.com/fcp/content/How_to_choose_a_Fragrance/content">Choosing a Fragrance</a></li>
-<li><a href="http://www.theperfumeshop.com/fcp/content/Your_Fragrance_Wardrobe/content">Your Fragrance Wardrobe</a></li>
-<li><a href="http://www.theperfumeshop.com/fcp/content/Storing_and_wearing_Fragrance/content">Storing &amp; Wearing Perfume</a></li>
-<li><a href="http://www.theperfumeshop.com/fcp/content/History_of_Fragrance/content">History of Fragrance</a></li>
-<li><a href="http://www.theperfumeshop.com/fcp/content/Jargon_Buster/content">Fragrance Jargon Buster</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/How_to_choose_a_Fragrance/content">Choosing a Fragrance</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/Your_Fragrance_Wardrobe/content">Your Fragrance Wardrobe</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/Storing_and_wearing_Fragrance/content">Storing &amp; Wearing Perfume</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/History_of_Fragrance/content">History of Fragrance</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/Jargon_Buster/content">Fragrance Jargon Buster</a></li>
 </ul>
 </div>
 
 <div class="MenuBlk">
 <h4 class="SafeSecure">Safe &amp; Secure</h4>
 <ul>
-<li><a href="http://www.theperfumeshop.com/fcp/content/Privacy_and_Security/content">Privacy Policy</a></li>
-<li><a href="http://www.theperfumeshop.com/fcp/content/Terms_and_Conditions/content">Terms &amp; Conditions</a></li>
-<!-- <li><a href="http://www.theperfumeshop.com/fcp/content/Launch-Promotion/content">Launch Promotion Terms</a></li> -->
-<!--<li><a href="http://www.theperfumeshop.com/fcp/content/Brand_Authorised_Stockist/content">Brand Authorised Stockist</a></li>-->
+<li><a href="http://m.theperfumeshop.com/fcp/content/Privacy_and_Security/content">Privacy Policy</a></li>
+<li><a href="http://m.theperfumeshop.com/fcp/content/Terms_and_Conditions/content">Terms &amp; Conditions</a></li>
+<!-- <li><a href="http://m.theperfumeshop.com/fcp/content/Launch-Promotion/content">Launch Promotion Terms</a></li> -->
+<!--<li><a href="http://m.theperfumeshop.com/fcp/content/Brand_Authorised_Stockist/content">Brand Authorised Stockist</a></li>-->
 </ul>
 </div></div>
 			<div id="CMSContent">
@@ -774,7 +849,6 @@ $(document).ready (function(){
 	<div id="promos"><a href="http://www.theperfumeshop.com/rewardsclub"><img src="/pws/images/cms/rewards_club/loyalty_footer_banner.gif" alt="Activate your Rewards Club card"></a></div>	</div>
 
 <div id="footerContentCont">
-
 	<div id="footerLinksCont" class="cf">
 		<div id="footerShops">
 			<h4>167 Shops</h4>
@@ -882,27 +956,9 @@ if(typeof sIFR == "function"){
 };
 //]]>
 </script>
-<script type="text/javascript" src="/pws/javascript/cmsInit.js"></script><customer card_no="">
-<page>Privacy_and_Security</page>
-<pgforward>content</pgforward>
-<language>ENG</language>
-<welcome_mail_send>Y</welcome_mail_send>
-</customer>
- </div>
-		
-		<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-		if (typeof(_gat) == 'object') { 
-			var pageTracker = _gat._getTracker("UA-5741908-1");
-			pageTracker._initData();
-			pageTracker._trackPageview();
-		}
-		</script>
-
-<script language="javascript" type="text/javascript">
+<script type="text/javascript" src="/pws/javascript/cmsInit.js"></script>
+</div>
+		<script language="javascript" type="text/javascript">
 //<![CDATA[
 	s.pageName="Privacy and Security"
 	s.server="http://www.theperfumeshop.com"
