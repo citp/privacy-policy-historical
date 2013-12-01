@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bento.com privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114111459id_/http%3A//bento.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bento.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201134528id_/http%3A//www.bento.com/privacy.html) for the most accurate reproduction.*
 
 # Bento.com - Privacy Statement
 
@@ -30,4 +30,4 @@ This site makes message boards available to its users. Please remember that any 
 
 ###  Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20130114111459id_/http%3A//bento.com/l1-6.html#contact). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20131201134528id_/http%3A//www.bento.com/l1-6.html#contact). 
