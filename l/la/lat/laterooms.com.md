@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laterooms.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622075937id_/http%3A//www.laterooms.com/en/static/TermsOfUse.mvc%23s4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laterooms.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201140310id_/http%3A//www.laterooms.com/en/static/TermsOfUse.mvc%23s4) for the most accurate reproduction.*
 
-# 
+# Terms of Use
 
 ## General
 
@@ -8,39 +8,59 @@
 
 By using and/or visiting the Site you agree to these General Terms and Conditions, the Privacy Policy and the Terms of Use and Site Use ("the Terms") and you expressly consent and agree to be bound by the Terms and all applicable laws and regulations that govern this Site and your booking.
 
+Please take a moment to familiarise yourself with our Terms before using the Site. They may have been amended since your last visit. **Your attention is drawn in particular to the section below called ‘Our Liability’.** If you do not agree to our Terms please do not visit our Site. The Terms shall also apply where bookings are taken via the telephone by one of our contact centre staff members.
+
+Occasionally additional terms and conditions may apply, for example if you enter competitions or use our interactive services. Do not worry, the relevant terms and conditions will always be made clear at the time.
+
 References to "accommodation providers" means the owner/providers of the hotels, apartments, villas and other accommodation of any description featured on this website and "accommodation" means the accommodation including all facilities and services advertised on our website that we have agreed to arrange in connection with your confirmed booking.
 
 Affiliates are third parties who, in agreement with LateRooms.com distribute LateRooms.com hotel rooms to their customers.
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
-## Important Information
+## Important Information - Our Liability
 
-LateRooms.com acts as booking agent only in respect of all bookings we make on your behalf. We undertake no responsibility for and are not liable for the misrepresentations, breaches of contract, breaches of statutory duty or negligence of any of the accommodation providers and other suppliers of services who sell their products and services through us. This means that in the event of you suffering personal injury, illness or death as a result of any act or omission of an accommodation provider or other supplier of services (or their employees or agents) or you having any complaint about the quality of the services provided or having any other complaint at all, your sole right of redress will be against the independent third party who provided such service and LateRooms.com will be under no liability at all (whether in contract, tort or otherwise howsoever).
+#### Your attention is particularly drawn to this section
 
-You accept that we have not in any way selected or assembled your travel arrangements for you. Your accommodation arrangements are not a package and do not fall within the meaning of The package Travel, Package Holidays and Package Tours Regulations 1992.
+LateRooms provides an online platform for you to browse and search accommodation, and acts as booking agent only in respect of bookings we make on your behalf. By booking accommodation on our Site you will be entering into a contractual relationship with the accommodation provider, we act solely as an intermediary and agent. 
 
-By proceeding to book accommodation and/or other services through the Site, you accept that you will be entering into a contract with the accommodation provider on their standard terms and conditions. If they are provided, we will endeavour (but undertake no liability to do so) to make copies of the accommodation provider's terms and conditions available to you.
+LateRooms shall not be liable for any losses, expenses or damages of any sort due to you as a result of the acts, errors, omissions, breaches, negligence, fraudulent intent, misleading or untrue statements, breach of contract, breach of statutory duty, wilful misconduct or any other tortious act attributable either wholly or in part to accommodation providers or any other independent business or suppliers of services who sell their products and services through us, which includes their employees, directors, officers, agents, representatives or affiliates. This means that in the event of you suffering personal injury, illness or death as a result of any act or omission of an accommodation provider or other supplier of services (or their employees or agents) or you have any complaint about the quality of the services provided or having any other complaint at all, your sole right of redress will be against the independent third party who provided such service and LateRooms will be under no liability at all (whether in contract, tort or otherwise). 
 
-You understand that we may not have conducted any quality or other checks on the accommodation providers and we make no representations about the suitability of the accommodation and/or services offered for sale through the Site. The inclusion or offering for sale of an accommodation and/or services by LateRooms.com does not constitute an express or implied endorsement or recommendation by LateRooms.com of such accommodation or services. We do not guarantee the accuracy of, and disclaim liability for any inaccuracies relating to the accommodation and services offered for sale through us.
+You understand that we may not have conducted any quality or other checks on the accommodation providers and we make no representations about the suitability of the accommodation and/or services offered for sale through the Site. The inclusion or offering for sale of accommodation and/or services by LateRooms does not constitute an express or implied endorsement or recommendation by LateRooms of such accommodation or services. We do not guarantee the accuracy of, and disclaim liability for any inaccuracies relating to the accommodation and services offered for sale through us. We shall not be liable for any damages arising as a result of any inaccurate information or errors on our Site which relate to accommodation information. We shall not be liable to you for any losses in the event of accommodation providers overbooking, cancelling bookings in full or in part, force majeure events or any other cause beyond our or their control. 
 
-Nothing in these terms of use shall operate to exclude or limit the liability of LateRooms.com for fraudulent misrepresentation or death or personal injury caused by our negligence.
+You accept that we have not in any way selected or assembled your travel arrangements for you. Your accommodation arrangements are not a package and do not fall within the meaning of The Package Travel, Package Holidays and Package Tours Regulations 1992.
+
+By proceeding to book accommodation and/or other services through the Site or by contacting us via the phone, you accept that you will be entering into a contract with the accommodation provider on their standard terms and conditions. If they are provided, we will endeavour (but undertake no liability to do so) to make copies of the accommodation provider's terms and conditions available to you.  Please review the accommodation information for any applicable terms and conditions.    
 
 Where you, or any of the people that you are booking on behalf of, are in breach of any of the provisions of these Terms or contravention of any laws or rights of a third party, we reserve the right to cancel your booking without refund or compensation in any way and recover from you any costs incurred as a result of your behaviour.
 
+Nothing in these Terms shall, nor shall be deemed to exclude or limit the liability of LateRooms for any death or personal injury caused as a result of our negligence, or the negligence of our employees or for fraudulent misrepresentation. 
+
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
+
+## Accommodation information
 
 ## Site content, documentation and booking information.
 
 LateRooms.com may modify the content of the Site and/or Terms at any time, and such modification shall be effective immediately upon posting of the modified content and/or Terms on the Site and your continued use of or access to this website will be deemed to indicate your acceptance of the modified content and/or Terms.
 
-Any information placed on the Site relating to hotels advertised on the Site including, but without limitation, details of the hotel, the availability of rooms at the hotel, the price of the rooms, the facilities available at the hotel, any accreditations afforded to the hotel and/or any details relating to any other services advertised on the Site have been placed on the Site by accommodation and/or service providers who are independent businesses and are not agents or employees of LateRooms.com or its affiliates. Such information does not constitute any advice or recommendation given by LateRooms.com and LateRooms.com shall not be held liable for inaccuracies or errors in the accommodation contents or any of its elements. These independent businesses provide the services in accordance with their own terms and conditions which may limit or exclude their liability to you. LateRooms.com and its affiliates are not liable for any acts, omissions, breaches or negligence of any such independent businesses or any damages or expenses resulting from the aforesaid. LateRooms.com and its affiliates are not liable for any refunds in the event of overbooking or force majeure or any other cause beyond their control.
+Any information placed on the Site relating to accommodation advertised on the Site including, but without limitation; details of the accommodation, the availability of rooms at the accommodation, the price of the rooms, the facilities available at the accommodation, any accreditations afforded to the accommodation such as a star rating,  details relating to any other services advertised on the Site have been placed on the Site by accommodation and/or other service providers who are independent businesses and are not agents or employees of LateRooms or its affiliates. Such information does not constitute any advice or recommendation given by LateRooms and LateRooms shall not be held liable for inaccuracies or errors (including obvious manifest or typographical errors) in the accommodation information or any of its elements including rates and availability. These independent businesses provide the services in accordance with their own terms and conditions which may limit or exclude their liability to you. 
 
-As LateRooms.com acts only as a booking agent we will have no responsibility for any errors in any documentation except where those errors were made by LateRooms.com.
+**IMPORTANT** : Please note in particular that any accreditations or descriptions of quality such as a star rating have been placed on the Site by accommodation providers and not by us. We do not independently verify star ratings and the star is only indicative of what level of quality you can expect from a particular accommodation provider. 
+
+As LateRooms acts only as a booking agent we will have no responsibility for any errors or inaccuracies in any documentation supplied by the accommodation providers.
+
+Rates shown on our Site are per room per night, (and not per person).  It is your responsibility to check the total price before completing the booking form.  Rates are imputed onto our Site by accommodation providers and not by us.
+
+Obvious errors and mistakes (including misprints and typographical errors) are not binding. In the event of an error or mistake being made, we or the accommodation provider reserve the right to cancel your booking and refund all monies paid (if relevant), this will be without any liability to you. We will make all reasonable effort to advise you of any cancelled bookings as soon as possible.
+
+In the event that your booking is cancelled, please contact us and we shall reasonably assist in locating alternative accommodation. You will then have the choice of accepting the offered alternative or your booking will be cancelled with a full refund of all monies paid (if relevant).
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
 #### How to book accommodation or other services
+
+Important: Unless otherwise agreed with LateRooms, our Site and the services we offer on it are made available to you for personal and non-commercial use only and you may not use the information or services on our Site for any competitive or commercial activity. You may not offer for re-sale any accommodation that appears on our Site without our express permission. 
 
 Simply search for your chosen destination and dates, select your preferred accommodation provider and proceed to the final booking page. Please ensure you carefully check the dates, the price, the destination and the accommodation provider details before proceeding with your booking.
 
@@ -49,7 +69,27 @@ Bookings may be made by:
 or  
 (b) Following the online booking procedure where applicable.
 
-To make a booking you will be asked to submit personal information, about yourself such as your name, email address, telephone number and credit card details ("Personal Information"). Whenever you provide such Personal Information, LateRooms.com will collate and use such Personal Information in accordance with LateRooms.com "Privacy Policy", details of which are set out at the end of these Terms of use. Please read this in full before providing any Personal Information to LateRooms.com.
+To make a booking you will be asked to submit personal information, about yourself such as your name, email address, physical address telephone number and credit card details ("Personal Information"). Whenever you provide such Personal Information, LateRooms will collate and use such Personal Information in accordance with the LateRooms "Privacy Policy", a copy of which is [available here](http://www.laterooms.com/en/static/TermsOfUse.mvc#s4). Please read this in full before providing any Personal Information to LateRooms. 
+
+You hereby authorise LateRooms to process all Personal Information about you and the persons named on the booking that has been obtained in connection with your booking. Personal information shall be deemed to include, but not be limited to: any telephone numbers, fax numbers, email addresses, addresses of residences, signatures, ID or passport copies, or any other information belonging to you or your group.
+
+The Personal Information that LateRooms collects shall be obtained, processed and transmitted in compliance with European Directives 95/46 and 2002/58, as well as any other such legislation that substitutes, complements and develops it. For more information please refer to our Privacy Policy.
+
+In the event that you call LateRooms by telephone, or are called by LateRooms regarding your booking, calls may be recorded for monitoring and training purposes. In the event of a dispute regarding a booking, LateRooms reserves the right to review any call information.
+
+#### Special Requests
+
+COTS (UK) /CRIBS (US) - please advise at the time of booking if you require a cot or crib, in order that this information is given to the accommodation provider. We cannot guarantee this request will be met. Such requests will be subject to availability and if the accommodation is unable to meet any such request, neither LateRooms, nor the accommodation, will have any liability to you in this respect. This request may only be available at an additional cost unless otherwise expressly stated in the description of the accommodation provider, and if any additional cost is applicable this should be paid by you direct to the accommodation provider.
+
+#### Special access requirements:
+
+If you have special requirements, such as needing a room with wheelchair access, please contact us before making your booking so that we can ensure that your needs can be meet. Please note that all such special requests are subject to availability and LateRooms cannot guarantee that all accommodation providers will be able to meet your needs. Once you have booked your accommodation, depending on the cancellation policy of the applicable accommodation provider, your booking may be refunded, cancelled, modified or you may be offered alternative accommodation if your request cannot be met.
+
+[Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
+
+#### Price Promise:
+
+LateRooms also offer all of our customers a price promise should you find the same accommodation available elsewhere for a cheaper rate.  For more information and the full terms and conditions attached to our price promise please click here <http://www.laterooms.com/en/price-promise.mvc> 
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
@@ -57,33 +97,43 @@ To make a booking you will be asked to submit personal information, about yourse
 
 To confirm a booking, you must be authorised to make the booking by all persons named on the booking and their parent or guardian for all party members who are under 18 when the booking is made. By making the booking, you are confirming that all persons named on the booking accept the Terms and that you will inform the other persons named on the booking of the confirmation details and any other appropriate information. By making the booking you also become responsible for making all payments due under the booking.
 
-LateRooms.com will confirm your booking and issue you with an email confirmation. LateRooms.com will not deduct any money from your credit card. The accommodation or other service provider with which you enter into a contract will take payment.
+The display of hotel rooms for sale on our Site is an invitation to treat only.
 
-In the event that you call LateRooms.com by telephone, or are called by LateRooms.com regarding your booking, calls may be recorded for monitoring and training purposes. In the event of a dispute regarding a booking, LateRooms.com reserves the right to review any call information.
+By clicking the ‘Accept’ button you agree to these Terms. By completing and submitting the booking form you are making an offer to book temporary accommodation room nights, which if accepted by accommodation providers, will result in a binding contract made between you and the accommodation provider.
+
+Neither completing the booking process online or making a booking via the telephone constitutes acceptance of your offer.  We will send you an email confirmation following your booking on behalf of the accommodation provider confirming acceptance of your offer and forming the legally binding contract subject to any applicable terms and conditions of these Terms.
+
+LateRooms will never take payment; the card details requested are simply passed to the accommodation providers to secure and guarantee your booking. Your credit or debit card details may be used by some accommodation providers and/or LateRooms’ sister company, Liberate S.L.U., to carry out pre-authorisation checks.  The details may also then be used by accommodation providers to take advance payment or a cancellation fee or no show fee, if applicable. If you have booked an advance purchase rate, the accommodation provider will be allowed to charge the entire amount of the booking to the credit/debit card upon receiving the confirmation of the booking. We will only ever ask you to provide us with your card details on the secure booking form or directly on the phone to one of our contact centre staff members. You should never email your card details to us.
+
+Where accommodation providers process your credit or debit card details in connection with the provision of a booking, they will be bound to obtain and maintain any necessary accreditation required to provide payment processing services to you and shall be obliged to operate in accordance with the standards outlined in Payment Card Industry Data Security Standards (PCI-DSS) published on the website www.pcisecuritystandards.org. You acknowledge that the accommodation provider rather than LateRooms is responsible for the security of cardholder data it possesses.
+
+Where a pre-authorisation check has been attempted and the card details provided are shown to not have sufficient funds, or the pre-authorisation fails for any other reason, the accommodation providers and/or we will attempt to contact you in order that you can provide an alternative method of payment. Should you not respond to our emails within 48 hours accommodation providers reserve the right to cancel your booking and re release your room for re sale 
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
 #### If you cancel, amend or change a booking
 
-You may modify or cancel your booking at any time prior to your arrival date through the Site.
+You may modify or cancel your booking at any time prior to your arrival date through the Site or by contacting us via telephone.
 
-If you cancel or amend your booking, there may be a cancellation charge or amendment fee levied by the accommodation or other service provider. In any event, if you fail to cancel or amend your booking in accordance with the provider's cancellation or amendment policy, you will be charged a cancellation or amendment fee by the accommodation or other service provider. Further details of cancellation policy are set out in our email to you confirming your booking and are also shown on the hotel's room details page prior to you making a booking.
+If you cancel or amend your booking, there may be a cancellation charge or amendment fee levied by the accommodation or other service provider. In any event, if you fail to cancel or amend your booking in accordance with the accommodation provider's cancellation or amendment policy, you will be charged a cancellation or amendment fee by the accommodation or other service provider. Further details of cancellation policy are set out in our email to you confirming your booking and are also shown on the hotel's room details page prior to you making a booking. 
 
-If, for whatsoever reason, you do not turn up at the accommodation on the arrival date stated on your booking confirmation email, without prior warning to LateRooms.com ("a no show"), this shall be considered a cancellation.
+If, for whatsoever reason, you do not turn up at the accommodation on the arrival date stated on your booking confirmation email, without prior warning to LateRooms ("a no show"), this shall be considered a cancellation. Accommodation providers may charge you a cancellation fee using the credit or debit card details that you provided to use when securing your booking, which we then pass on to our accommodation provider partners.
+
+If you fail to arrive at your accommodation on time on the day of your reservation and do not tell the accommodation provider in advance, the accommodation provider may cancel the remaining days on your reservation and you may be charged a cancellation fee, please see details in the accommodation providers’ cancellation policy for details.
+
+The accommodation provider’s cancellation policy will continue to apply even after your arrival at your hotel. So for example, should you decide to shorten the duration of your stay, such a request will be dealt with at the discretion of the accommodation provider, and not by us in our capacity as the booking agent.   If you amend your booking in this way there may be a cancellation fee levied by the accommodation provider and you should refer to the provider’s cancellation policy for more details.
+
+Where the accommodation provider requires a minimum stay for rooms attracting a certain price, this will be clearly stated on our Site prior to booking.
+
+Some accommodation providers may also charge additional fees for early check in or late check out. Please check the accommodation details thoroughly for any such conditions prior to making your reservation.
+
+Advanced purchase bookings will attract full pre-payment at the time of booking. This payment and/or bookings cannot be amended, refunded or transferred in the event of cancellation.
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
 #### Age and responsibility
 
-You warrant that you are 18 years of age or over and have legal capacity to use the Site and to create a legally binding contract.
-
-You warrant that all personal information submitted during accommodation booking is correct and you accept financial responsibility for all transactions made under your name or account.
-
-You hereby authorise LateRooms.com to process all Personal Information about you and the persons named on the booking that has been obtained in connection with your booking. Personal information shall be deemed to include, but not be limited to: any telephone numbers, fax numbers, email addresses, addresses of residences, signatures, ID or passport copies, or any other information belonging to you or your group.
-
-The Personal Information that LateRooms.com collects shall be obtained, processed and transmitted in compliance with European Directives 95/46 and 2002/58, as well as any other such legislation that substitutes, complements and develops it. For more information please refer to our Privacy Policy.
-
-COTS(UK) /CRIBS (US) - please advise at the time of booking if you require a cot or crib, in order to give this information to the accommodation provider; however, we cannot guarantee this request will be met. Such request will be subject to availability and if the accommodation is unable to meet any such request, neither LateRooms.com, nor the accommodation, will have any liability to you in this respect. This request may only be available at an additional cost unless otherwise expressly stated in the description of the accommodation provider, and if any additional cost is applicable this should be paid by you direct to the accommodation provider.
+You warrant that you are 18 years of age or over and have legal capacity to use the Site and to create a legally binding contract with the relevant accommodation provider. You warrant that all Personal Information submitted during accommodation booking is correct and you accept financial responsibility for all transactions made under your name or account. You undertake that the credit or debit card you use to secure your booking is your own and that there are sufficient funds to cover the cost of the booking you make with us.  In the event that you suspect credit or debit card fraud or unauthorised use of your card by third parties, you should contact your bank or card issuer immediately. 
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
@@ -91,7 +141,7 @@ COTS(UK) /CRIBS (US) - please advise at the time of booking if you require a cot
 
 LateRooms.com is not liable for damages or losses that may result from travel to any particular destination. The British Foreign and Commonwealth Office helps travellers stay safe overseas. Check the FCO website at [www.fco.gov.uk/knowbeforeyougo](http://www.fco.gov.uk/knowbeforeyougo) for the latest advice on conditions and general information concerning specific countries.
 
-It is your responsibility to ensure you have the relevant travel and health documents before departure for the country you are visiting, which shall include, but is not limited to, any inoculations that may be required, ID's and passport. LateRooms.com shall not be liable for any expense incurred resulting from your missing, incomplete or incorrect documentation or any non-compliance with requirements.
+It is your responsibility to ensure you have the relevant travel and health documents before departure for the country you are visiting, which shall include, but is not limited to, any inoculations that may be required, ID's and passport, any visa requirements. LateRooms shall not be liable for any expense incurred resulting from your missing, incomplete or incorrect documentation or any non-compliance with requirements.
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
@@ -103,19 +153,19 @@ You are strongly advised to take out adequate travel insurance prior to arriving
 
 #### Force Majeure
 
-LateRooms.com will not be liable for any changes, cancellation, effect on your booking, loss or damage suffered by you or for any failure by the accommodation providers and/or LateRooms.com to perform or properly perform any of our respective obligations to you which is due to any event(s) or circumstance(s) if the non performance is caused by force majeure. By way of example force majeure includes, but is not limited to, war, revolution, terrorist act, closure of borders, epidemic, natural catastrophe or other causes that seriously affect both parties and other unforeseeable causes beyond LateRooms.com's control. 
+LateRooms.com will not be liable for any changes, cancellation, effect on your booking, loss or damage suffered by you or for any failure by the accommodation providers and/or LateRooms.com to perform or properly perform any of our respective obligations to you which is due to any event(s) or circumstance(s) if the non performance is caused by force majeure. By way of example force majeure includes, but is not limited to, war, revolution, terrorist act, closure of borders, epidemic, natural catastrophe or other causes that seriously affect both parties and other unforeseeable causes beyond LateRooms.com's control.
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
 #### Complaints or issues with your accommodation
 
-In the unlikely event that you have reason to complain or experience any problems with your accommodation please inform the accommodation reception staff or management immediately, to enable them to take appropriate action.
+ In the unlikely event that you have reason to complain or experience any problems with your accommodation please inform the accommodation reception staff or management immediately, to enable them to take appropriate action.  As stated above, accommodation providers (and not LateRooms) are responsible for the information they upload to our Site including descriptions of the accommodation and/or services offered.  If you think that the accommodation does not match the description you saw on the Site please address your complaints to the accommodation staff during your stay.
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
-#### Currency converter
+#### Foreign Exchange Rates
 
-Currency rates are based on various publicly available sources and are only updated daily; as such they cannot be guaranteed as completely accurate and should be used as guidelines only. Actual rates may vary and you may wish to verify these with a qualified professional. When the payment is made in a currency other than the one used by the Accommodation Providers, the User is informed that variations in the applicable exchange rate may trigger a variation in the price to be, or actually, paid.
+Currency rates are based on various publicly available sources and are only updated daily; as such they cannot be guaranteed as completely accurate and should be used as guidelines only. Actual rates may vary and you may wish to verify these with a qualified professional. When the payment is made in a currency other than the one used by accommodation providers, please be advised that variations in the applicable exchange rate may trigger a variation in the price to be, or actually, paid.
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
@@ -124,6 +174,20 @@ Currency rates are based on various publicly available sources and are only upda
 This agreement will be governed by English law and any disputes will be dealt with by the English courts. If however you booked your holiday in Scotland or Northern Ireland any disputes may be dealt with in the local courts in Scotland or Northern Ireland and will be subject to the law of those countries.
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
+
+### Miscellaneous
+
+You agree that financial compensation alone may not be adequate for us if there is a breach or threatened breach of our Terms and that we are entitled to seek all remedies available to us.  Each right or remedy of you and us in respect of these Terms shall not affect any other right or remedy of us whether under these Terms or otherwise. The rights and remedies provided under this agreement are in addition to, and not exclusive of, any rights or remedies provided by law.
+
+In the event that any provision of these Terms is found by a court or administrative body to be unenforceable, that provision shall not be a part of these Terms and the remaining provisions shall continue to apply. 
+
+Nothing under the Terms shall give rights to any person who is not a party to it (whether under the Contracts (Rights of Third Parties) Act 1999) or otherwise. 
+
+If you or LateRooms waive any rights in result of a breach or default under, any part of these Terms by the other will not be deemed a waiver of any subsequent breach or default. Further it will not affect the other Terms unless expressly confirmed in writing by the party waiving its rights. 
+
+LateRooms reserves the right to change our Terms at any time. We shall post such updated Terms on our Site and your continued use of our Site shall be deemed acceptance of such updated Terms.
+
+Our Site booking services are available in English, Spanish, French, Italian and German. The original English version of these Terms may have been translated into other languages. The translated versions of these Terms are provided as a courtesy and for information purposes only.  In the event of a dispute or conflict between the English version of these Terms and any other language versions, the English version shall prevail and shall be conclusive and binding.  The English version shall be used in legal proceedings. 
 
 ## LateRooms.com privacy policy
 
@@ -141,8 +205,8 @@ The personal information that we collect from you shall be obtained, processed a
 
 We may collect, store and use the following kinds of personal information:
 
-  * information that you provide by filling in any booking forms or other forms on our website including your name, (home or office) address, date of birth, (business or private) email address, (mobile, home or office) telephone number, credit card details (i.e. credit card type and number, CVC code, expiration date, credit card holder name) and to the extent available, reservation preferences and smoking preferences;
-  * information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser/platform type and version, Internet Service Provider (ISP) and (for users of our service through a mobile device) Unique Device Identifier, operating system, referral source/exit pages, length of visit, page views, website navigation, date/time stamp information and details like the number and location of (mouse) clicks on a given page, mouse movements, scrolling activity and the (search) words you use and the text you type while being on and using our website);
+  * information that you provide by filling in any booking forms or other forms on our website or which you give us over the telephone, including your name, (home or office) address, date of birth, (business or private) email address, (mobile, home or office) telephone number, credit card details (i.e. credit card type and number, CVC code, expiration date, credit card holder name) and to the extent available, reservation preferences and smoking preferences;
+  * information about your computer and about your visits to and use of this website including where you have clicked on any of our advertising links or banners, (including your IP address, geographical location, browser/platform type and version, Internet Service Provider (ISP) and (for users of our service through a mobile device) Unique Device Identifier, operating system, referral source/exit pages, length of visit, page views, website navigation, date/time stamp information and details like the number and location of (mouse) clicks on a given page, mouse movements, scrolling activity and the (search) words you use and the text you type while being on and using our website);
   * information that you provide to us for the purpose of registering with us;
   * information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters; and
   * any other information that you choose to send to us.
@@ -177,7 +241,7 @@ Below is a detailed list of the cookies that we use on this website, including t
 
 **Strictly Necessary Cookies**  
 ---  
-**Cookie Name** |  **Cookie Type** |  **Purpose and Further Information**  
+**Cookie Name** | **Cookie Type** | **Purpose and Further Information**  
 Lateroomsprofile | Short | 
 
 This cookie notes customer data such as your preferred language/currency/country, and it is vital for the website to work.  
@@ -187,13 +251,13 @@ Search | Short (7 days) |
 This cookie enables us to store your search preferences so that the website remembers what you are searching for, such as number of nights, children, adults, arrival date, etc. and it is vital for the website to work.  
   
 **Functionality cookies**  
-**Cookie Name** |  **Cookie Type** |  **Purpose and Further Information**  
+**Cookie Name** | **Cookie Type** | **Purpose and Further Information**  
 ASP.NET_SessionId | Session | 
 
 This cookie retains your current session so that you can return to the website if you encounter a browser issue and will still be able to make a booking.  
   
 **Performance Cookies**  
-**Third Party** |  **Cookie Type** |  **Purpose and Further Information**  
+**Third Party** | **Cookie Type** | **Purpose and Further Information**  
 Partner Cookies | Persistent (longer than 30 days) | 
 
 These cookies are used to identify which partner has referred a user when they have arrived on the website via a link from another site. This cookie is placed by the partner site prior to arriving on the website. This enables us to identify referral customers and remunerate partners and is vital to the functioning of the affiliate referral program.  
@@ -219,7 +283,7 @@ Maxymiser | Persistent (longer than 30 days) |
 These are cookies that are used to analyse a user's actions and behaviours on our website through conversion optimisation solutions so we can understand how you are using the website. This provides us with information to ensure the best possible user experience.  
   
 **Targeting Cookies**  
-**Third Party** |  **Cookie Type** |  **Purpose and Further Information**  
+**Third Party** | **Cookie Type** | **Purpose and Further Information**  
 Criteo | Persistent (longer than 30 days) | 
 
 These third party cookies allow us to deliver adverts to you (after you have left LateRooms.com) that show the best hotel deals for the locations you have been searching for. This means that you will be shown deals that you may have missed without having to search the site again. This is called online behavioural advertising, a common online advertising practice and does not collect any personal data.
@@ -246,8 +310,8 @@ To opt-out of receiving these cookies please follow these links:
 
   * <http://www.doubleclick.com/privacy/index.aspx>
   * <http://info.yahoo.com/privacy/uk/yahoo/cookies>
-  * <http://www.flashtalking.com/intelligent.html> (follow the link in the bottom right) 
-  * <http://www.xaxis.com/uk> (follow the link in the bottom right) 
+  * <http://www.flashtalking.com/intelligent.html> (follow the link in the bottom right)
+  * <http://www.xaxis.com/uk> (follow the link in the bottom right)
   * <http://privacy.microsoft.com/en-us/fullnotice.mspx>
 
 
@@ -267,22 +331,25 @@ We may use your personal information to:
   * manage and administer the website;
   * improve your browsing experience by personalising the website;
   * enable your use of the services available on the website including providing you with login in details so you may access details of your bookings;
-  * manage, administer, mediate and contract the services offered by us via the website;
+  * manage, administer, mediate and contract the services offered by us via the website and/or our call centre;
   * manage, administer, mediate and contract your bookings made through the website and/or our call-centre;
-  * send you general (non-marketing) commercial communications including communications about any important changes to the website;
-  * send you email notifications which you have specifically requested including email nofitications confirming your bookings made via the website;
+  * send you general (non-marketing) commercial communications including communications about any important changes to the website and/or surveys we may ask you to complete;
+  * send you email notifications which you have specifically requested including email nofitications confirming your bookings made via the website and/or our call centre;
   * contact you by electronic means (e-mail or SMS) with information such as special offers for goods and services similar to those which were the subject of a previous sale to you, unless you have opted out of receiving such information (you can inform us at any time if you do not wish to receive such marketing communications by simply clicking on the unsubscribe link);
   * send to you our newsletter and other marketing communications relating to new services, our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed or subscribed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications by simply clicking on the unsubscribe link);
   * provide third parties with statistical information about our users' but this information will not be used to identify any individual user;
   * deal with enquiries and complaints made by or about you relating to the website, your bookings and/or the services offered by us or our suppliers;
-  * to analyse and improve the services offered on our website and to provide you with the most user-friendly navigation experience. We may also use and disclose information in aggregate for marketing and strategic development purposes; and
-  * send you an email inviting you to leave a guest review on the website following your stay.
+  * to analyse and improve the services offered on our website and to provide you with the most user-friendly navigation experience. We may also use and disclose information in aggregate for marketing and strategic development purposes;
+  * send you an email inviting you to leave a guest review on the website following your stay; and
+  * deliver marketing and advertising to you that show services and deals that we think you will be interested in including via targeted advertising on third party websites and/or platforms.
 
 
 
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
 
-We will not provide your personal information to any third parties for the purpose of direct marketing unless you have provided your express consent by activating the "opt-in" option on the website. In such cases, we shall only transfer to the third party adequate, relevant and not excessive personal data (name, address and email addresses) so you will be able to receive direct marketing material from such third party. You can inform us at any time if you no longer wish for your details to be disclosed to such third party and we will no longer disclose your information. The relevant third party will show their contact information in their marketing material and we have no control over such third party marketing material, therefore we disclaim any kind of liability that may arise from such third party marketing material.
+We may monitor, record, store and use any telephone email or other communication with you for monitoring purposes, in order to check any instructions given to us by you, for staff training purposes, for crime prevention and to improve the quality of our customer service.
+
+We will not provide your personal information to any third parties for the purpose of direct marketing by such third party unless you have provided your express consent by activating the "opt-in" option on the website. In such cases, we shall only transfer to the third party adequate, relevant and not excessive personal data (name, address and email addresses) so you will be able to receive direct marketing material from such third party. You can inform us at any time if you no longer wish for your details to be disclosed to such third party and we will no longer disclose your information. The relevant third party will show their contact information in their marketing material and we have no control over such third party marketing material, therefore we disclaim any kind of liability that may arise from such third party marketing material.
 
 You expressly agree to such uses of personal information.
 
@@ -367,7 +434,7 @@ Please let us know if the personal information which we hold about you needs to 
 
 #### (12) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to userexperience@laterooms.com or by post to Late Rooms Ltd, The Peninsula Building, 2 Cheetham Hill Road, Manchester, M4 4EW.
+If you have any questions about this privacy policy or our treatment of your personal information, please contact us [here](http://laterooms.custhelp.com/app/answers/detail/a_id/7/) or by post to Late Rooms Ltd, The Peninsula Building, 2 Cheetham Hill Road, Manchester, M4 4EW.
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
@@ -376,6 +443,8 @@ If you have any questions about this privacy policy or our treatment of your per
 The data controller responsible in respect of the information collected on this website is Late Rooms Limited, whose registered office address is TUI Travel House, Crawley Business Quarter, Fleming Way, Crawley, West Sussex, RH10 9QL.
 
 Our data protection registration number is Z8168511.
+
+Updated June 2013
 
 [Back to the top](http://www.laterooms.com/en/static/TermsOfUse.mvc#heavy)
 
@@ -399,7 +468,7 @@ You may only use this website to make legitimate enquiries or bookings for yours
 
 You shall not:
 
-  * post, transmit or disseminate any information on or via this website which is or may be harmful, obscene, defamatory or otherwise illegal, or may cause an infringement of the rights of any other; 
+  * post, transmit or disseminate any information on or via this website which is or may be harmful, obscene, defamatory or otherwise illegal, or may cause an infringement of the rights of any other;
   * make any other unauthorised, false or fraudulent booking;
   * use any software, routine or device to interfere or attempt to interfere electronically or manually with the operation or functionality of this website including, but not limited to, uploading or making available files containing corrupt data or viruses via whatever means;
   * deface, alter or interfere with the appearance and layout of this website or the underlying software code;
