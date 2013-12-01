@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikeinc.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628115625id_/http%3A//help-us.nikeinc.com/app/answers/detail/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikeinc.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201204309id_/http%3A//help-us.nikeinc.com/app/answers/detail/article/privacy-policy/a_id/16378) for the most accurate reproduction.*
 
 # NIKE, Inc. - NIKE Digital Privacy Policy
 
