@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webafrica.co.za privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021134816id_/http%3A//www.webafrica.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webafrica.co.za privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201052120id_/https%3A//www.webafrica.co.za/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Web Africa - Privacy
 
   
   
