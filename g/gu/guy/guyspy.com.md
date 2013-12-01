@@ -1,119 +1,158 @@
-> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622032054id_/http%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201132610id_/http%3A//www.guyspy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GuySpy
 
-**LAST MODIFIED: November 29, 2012**
+GuySpy (“GuySpy,” “we” or “us”) is committed to protecting your privacy.  This Privacy Policy explains how information about you or associated with you (“personal information”) is collected, used and disclosed by Stark Mobile Technologies and its affiliates, which own and operate GuySpy services  (“GuySpy,” “we” or “us”).  This Policy applies to the online services offered by GuySpy, including any GuySpy branded URL (“the GuySpy Website”), GuySpy mobile app for iPhone, Android or Windows mobile devices (collectively, the “GuySpy Services” or our “Service”).  This Privacy Policy does not apply to the GuySpy Voice Chatline service, which is governed by [ a separate policy available here](http://www.guyspy.com/voice/privacy.php). This Privacy Policy applies only to the practices of companies we own, control, or are united with under common control.
 
-Stark Mobile Technologies, LLC (“GuySpy” or “we”) operates GuySpy.com. We take your privacy seriously and have created this Privacy Policy to inform you about our privacy practices. We encourage you to read the following information carefully, to check back in regularly for changes and updates, and to contact us with any questions you may have.
+Information We Collect  
+Sharing Personal Information with Third Parties  
+Your Choices Regarding Your Information  
+Monitoring  
+Security and Storing of Information  
+Persons Under the Age of 18  
+Links to Third-Party Websites  
+Updates to This Policy  
+Your California Privacy Rights  
+Contacting Us  
+Last Revision Date
 
-This Privacy Policy describes GuySpy’s use and sharing of information provided by Users. The Term “User” refers to a visitor or a member.
-
-The GuySpy Website is a general audience site and does not knowingly collect personally identifiable information (“PII”) such as names, address, phone number or email addresses, from individual who are less than 18 years of age.
-
-From time to time, GuySpy may modify this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, and/or the features of the GuySpy Services or technology, and such modifications shall be effective as and when they are posted on the GuySpy Website. Your continued use of the GuySpy Services after GuySpy posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes
-
-**What This Privacy Policy Covers**
-
-This Privacy Policy applies to the services offered by GuySpy, including any GuySpy branded URL (the “GuySpy Website”), the GuySpy instant messaging service, the GuySpy Smartphone applications, and other features, GuySpy mobile services, [GuySpy Voice chatline services](http://www.guyspyvoice.com/), and any other features, content, or applications offered from time to time by GuySpy (collectively, the “GuySpy Services”). This Privacy Policy applies only to the practices of companies we own or control, and people we employ or manage.
-
-**What Types of Information Are Collected and Used?**
-
-The GuySpy Services collects two kinds of information: personally identifiable information (“PII”), and non-personally identifiable information (“Non-PII”). For the purposes of this Privacy Policy, PII refers to data that can be used to identify you specifically, such as your name, home address or email address and can include information you provide to us on registration (also known as “Registration PII”). Non-PII refers to data which does not allow you to be identified specifically or allow your identity to be confiscated. Non-PII would include data such as your IP address, usage preferences, or browser type.
-
-In addition to the PII collected by GuySpy, GuySpy members may also choose to provide or store additional PII information either through the sharing of location information or in their public or semi-public profiles, including, but not limited to, date of birth, interests, hobbies, lifestyles, groups or communities with whom you associate (schools, companies, politics), videos and/or pictures, private messages, bulletins or personal statements (collectively “Profile Information”). Location and Profile Information is provided voluntarily at a User’s sole discretion and is generally outside of this policy. GuySpy members can change their Registration PII, their location sharing and Profile Information at any time and can control how visitors, other members, and GuySpy communicate with them by controlling their account settings, available within the “Edit Profile” portion of their GuySpy profile.
-
-Non-PII could include your IP address, browser type, and cookies, as well as statistical and aggregated data on how GuySpy is being used. This data is used to manage and improve the GuySpy Services, track usage, and for security purposes. Cookies are small bits of information that GuySpy places on your computer. GuySpy uses cookies to identify your Internet browser, store Users’ preferences, and determine whether you have installed the enabling software needed to access certain material on the GuySpy Services. Data in cookies may be read to authenticate user sessions or provide services.
-
-**Why We Collect PII**
-
-We may collect PII, such as your name, home and/or billing address, email address, date of birth, and payment information, when you register as a Member, use the GuySpy Services, participate in our contests, promotions, or surveys, or through e-commerce. If PII is requested during a specific activity, you may be denied the opportunity to participate without disclosing the requested PII. The PII is collected for the purposes and uses contained in this Privacy Policy.
-
-**How We Use PII**
-
-PII may be used for the following purposes:
-
-  * **To establish and maintain a responsible commercial relationship with you, and to provide ongoing service.** For example, when you register as a member to use the GuySpy Services, we collect information allowing us to confirm your identity, and accurately bill and collect for the GuySpy Services you receive. We may also collect credit card or bank account information, based on your preferred method of payment for the GuySpy Services. Profile Information you provide in structured profile fields or questions (“Structured Profile Information”), information you add to open-ended profile fields and questions (“Non-Structured Profile Information”) and other voluntarily provided PII may also be used to customize the online ads you encounter to those we believe are aligned with your interests. For example, based on your music interests we might display an advertisement to make sure you are advised when your favorite band is coming to town.
-  * **To market our services.** With your consent, we may use your telephone number, email address, and/or mailing address to send you information regarding special offers, contests, affiliated products and/or services, and other initiatives we think may be of interest to you (“Marketing Communications”). You can opt out from receiving Marketing Communications at any time by using the methods outlined below. Without your consent, we may also send you important communications related to your membership account such as service announcements and administrative messages (“Membership Communications”). Membership Communications are a feature of your account and allowing delivery may be a condition of using the GuySpy Services.
-  * **To meet legal and regulatory requirements.** For example, we may use information to respond to a subpoena, court order, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * **To allow Users to get the most out of the GuySpy Services.** In order to locate other GuySpy Members that you may already know in the physical world. GuySpy also allows Users to browse for certain Profile Information in order to help connect with Members (i.e. schools and/or companies where Users may have attended or worked). GuySpy may also enable Members to publicly display some Registration PII as an element of their Profile Information if they choose to do so via a profile setting under “Edit Profile.” Search engines may index the portion of a Member’s profile (including the Profile Information it contains) that is publicly displayed.
+  * **INFORMATION WE COLLECT**
 
 
 
-**How We Use Non-PII**
+The categories of information we collect can include:  
+  
+**Information We Collect From You Directly** **.**
 
-From time to time, we may ask you to provide us with non-PII which does not allow us to identify you specifically, such as location, IP address, zip code, GuySpy Services usage preferences, and demographic data such as income bracket, age, or gender. Your non-PII may be aggregated and used internally, or may be shared with third parties for any lawful purpose, without your permission. Third parties will not be able to use this information to identify you in any way.
-
-Some of the ways in which we may use your non-PII include (including location):
-
-  * **To manage and develop the GuySpy Services.** We track and analyze customer usage of the GuySpy Services and its supporting facilities in the aggregate to help us market our services, maximize efficiency, plan for future growth, and identify features for enhancing your overall user experience.
-  * **To manage and develop our website.** We track and analyze customer usage of the GuySpy Services in the aggregate to maintain our website and/or identify problems on our servers.
-  * **Cookies.** GuySpy may use cookies and similar tools to customize the content and advertising you receive based on the Profile Information you have provided.
+  * **Registration and Profile Information.**   You can browse our site without providing personal information, but you must register in order to access most of the features of our site or Services. When you register for our Services, we may collect personal information, such as your email address, user name and password, address, phone number, mobile phone number, and date of birth.   We may collect billing information if you sign up for premium services.   If you take part in any interactive features of the Services (such as any contests, games, promotions, quizzes, surveys, research or other services or features), we may collect additional types of personal information.   We collect this information online through our Services and your actions across the website and mobile app may be linked.
 
 
+  * **Data collected through the use of the Service.  ** After you set up your account, GuySpy members may also chose to provide additional information which may be shared through public  profiles, such as your  user name, pictures and/or videos, interests, hobbies, lifestyles, groups or communities with whom you associate (schools, companies, politics, organizations), bulletins or personal statements (collectively, “Profile Information”).  You control how much personally identifying information you wish to provide in your public profile.
 
-In addition, here are some of the ways in which we may use your location information:
 
-  * **Determining location.** We may determine your location either through the GPS in your mobile device or through an approximation of your location based on the IP address of your general location.
-  * **Location restrictions.** You may adjust your profile settings to prevent the sharing of your location, to generalize your location or to provide your specific location.
-  * **Use of location information.** We use your location information to search for other users and present them to you based on their distance from your location. We also use your location information to place you on a map for other users to see.
+  * **Geolocation.   **We collect location data when you view our site or use our Service.  **** When you visit our website, we determine location based on your IP address.  When you use our mobile app or browser-based mobile service or website, we collect your unique user identifier and your location through GPS, WiFi, or wireless network triangulation, or through an approximation of your location based on your IP address in order to obtain your location for the purposes of providing our Service, such as to personalize advertising and content and to determine your location in relation to other users of the Service so that we may show your profile to other members on the Service who are located near you and to show your profile to others. We maintain location information only so long as is reasonable to provide the Service and then destroy or depersonalize the location data.
+
+
+  * **Messages and User Content.** We collect information when you message other members of the Service.  We may also retain any messages you send when you communicate with us.
 
 
 
-**When Do We Disclose Your Information?**
+We use this information to operate, maintain, and provide to you the features and functionality of the Service, as well as to communicate directly with you, such as to send you email messages and push notifications, and permit you to locate and communicate with other users of the Service and for other members of the Service to locate and communicate with you.  For more information about your communication preferences, see “Your Choices Regarding Your Information” below.
 
-We will not sell or rent your personal information to anyone. We may disclose personal information about you to third parties only when:
+**Information About How You Use the Services** **.  **
 
-  * we have your consent to disclose the information;
-  * we need to disclose the information to affiliates or companies who work on our behalf to provide you with the GuySpy Services (these companies do not have any right to use your personal information beyond what is necessary to assist us);
-  * we respond to subpoenas, court orders, or other legal process; or
-  * we find that your actions on the Website or the GuySpy Services violate the Terms of Use.
+We may collect information about your participation and actions on the Services.  This may include information such as the web pages you view, how you use and engage with our Services,    how you connect, communicate and share information with other users of our Services, and your free trial membership usage, your purchased membership packages and remaining balance.
 
+**Information We Collect From Social Networking Sites** **.**
 
+When you interact with our site through various social media, such as when you Like us on Facebook or share through another social media site, we may receive information from the social network such as your profile information, profile picture, gender, user name, user ID associated with your social media account, age range, language, country, friends list, and any other information you permit the social network to share with third parties. The data we receive is dependent upon your privacy settings with the social network. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to our website or Service.
 
-Any such disclosure of your personal information is made on a confidential basis with the information to be used only for the purpose for which it was disclosed.
+**Information Automatically Collected** **.**
 
-GuySpy Services may be linked to Internet sites operated by other companies. GuySpy Services may also carry advertisements from other companies. GuySpy is not responsible for the privacy practices of websites or other services operated by third parties that are linked to or integrated with the GuySpy Services or for the privacy practices of third party Internet advertising companies. Once you leave GuySpy Services via such a link, access a third party application (such as widgets), or click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any PII they collect from you.
+We automatically collect certain types of usage information when you visit our website or use our Service.  When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site.  A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information from your browser or mobile device each time you access the Service.  Log file information may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, information about your mobile device, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients.  The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service.  These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Service.
 
-**How Do We Protect Your Information?**
+When you access our Services by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device (“Device ID”), mobile carrier, device type and manufacturer, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.    Location data may convey to us information about how you browse and use the Service, and to personalize advertising and content.
 
-We protect your personal information and right to privacy as follows:
+We use or may use the data collected through cookies, log file, device identifiers, location data and clear gifs information to:  (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) help you locate other users of the Service who are located near you; (c) provide custom, personalized content and information, including behaviorally targeted advertising and geographically targeted advertising; (d) provide and monitor the effectiveness of our Service; (e) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Service; (f) diagnose or fix technology problems; and (g) otherwise to plan for and enhance our service. We may associate information we automatically collect with your other information.
 
-  * we will not collect, use, or disclose your personal information for any purpose other than those identified in this Privacy Policy, except with your consent;
-  * we will protect your personal information with appropriate security safeguards;
-  * we will limit access to your personal information to employees who we believe reasonably need to come into contact with that information to provide you with the GuySpy Services, or to effectively do their jobs;
-  * we will maintain the confidentiality of your personal information when dealing with other companies;
-  * we will strive to keep your personal information as accurate and up-to-date as is necessary for the purposes identified in this Privacy Policy; and
-  * we will honor any request you may make for access to your personal information.
+  * **SHARING PERSONAL INFORMATION WITH THIRD PARTIES** <
 
 
 
-**Providing, Accessing, and Editing Your Information**
+We may share your personal information in the instances described below.  For further information on your choices regarding your information, see the “Your Choices Regarding Your Information” section below.
 
-We would like to have your consent to continue to collect, use, and disclose your personal information for the purposes we have identified in this Privacy Policy. Your options with regard to consent are as follow:
+**Remember, our Services allow you to connect with others and share information about yourself with other individuals. Your profile information, including your name, photo, location and other personal information, will be available publicly to other members of the Service by default and may be searchable by search engines which may display certain of your information publicly.**   By using the Service, you consent to have your profile information and your location displayed to other members of the Service.  Consider your own privacy and personal safety when logging in to our Service and sharing your information with anyone.  Also, when sharing information about others you meet through the Service, please consider their safety and privacy and get their consent for that sharing.
 
-  * In general, you can choose not to provide us with some or all of your personal information at any time. However, you must understand that if you make this choice, we may not be able to provide you with the service, promotion, or information that you requested.
-  * You may verify or request the removal of the personal information we have collected by contacting the Privacy Officer using the contact information at the bottom of this page.
+We may also share your personal information with:
+
+  * Other companies owned by or under common ownership, which also includes our subsidiaries (i.e., any organization we own or control) or our ultimate holding company (i.e., any organization that owns or controls us) and any subsidiaries it owns.  These companies will use your personal information in the same way as we can under this Policy;
+  * Third party vendors, consultants and other service providers that perform services on our behalf, in order to carry out their work for us, which may include identifying and serving targeted advertisements, content or service fulfillment, billing, or providing analytics services;
+  * Our business partners who offer a service to you jointly with us, for example, when running a co-sponsored contest or promotion;
+  * Third parties who we think may offer you products or services you may enjoy;
+  * Third parties at your request.  For example, you may have the option to share your activities on our Services with your friends through social media. .
+  * Other parties in connection with any company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy or related or similar proceedings; and
+  * Third parties as required to (i) satisfy any applicable law, regulation, subpoena/court order, legal process or other government request, (ii) enforce our Terms of Use Agreement, including the investigation of potential violations thereof, (iii) investigate and defend ourselves against any third party claims or allegations, (iv) protect against harm to the rights, property or safety of GuySpy, its users or the public as required or permitted by law and (v) detect, prevent or otherwise address criminal (including fraud or stalking), security or technical issues.
 
 
 
-**Retention of Information**
+We may also share information with others in an aggregated and anonymous form that does not reasonably identify you directly as an individual.  
+ 
 
-The Company will maintain records of information collected as described above for as long as is necessary to provide you with the GuySpy Services and information you request from time to time (including the use of the collected information as described in this Privacy Policy), and as required to comply with relevant laws and regulations.
+  * **YOUR CHOICES REGARDING YOUR INFORMATION**
 
-**Changes to this Privacy Policy**
 
-The Company reserves the right to modify this Privacy Policy from time to time as deemed necessary. We will inform you of these changes by publishing the revised Privacy Policy on this page.
 
-**Contact Us**
+**Online Advertising.**   We may share certain information with online advertising networks so that they may play or display ads that may be relevant to your interests on our Services as well as on other websites or apps.  Typically, the information we share is provided through cookies or similar tracking technologies.  The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device.  Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools.  (To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit http://www.allaboutcookies.org  and/or the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org).  Depending on your mobile device, you may not be able to control tracking technologies through settings.  Even if you disable cookies, you may still receive targeted advertisements based on your location.
 
-If there are any matters that have not been expressly addressed in this Privacy Policy or if you require any clarification as to how to interpret this Privacy Policy, your questions and concerns should be brought to the attention of the Company’s Privacy Officer.
+**Location Information.   **Our Service automatically collects location information from your browser or mobile device and uses your location to send you targeted advertisements, to show you profiles of other members on the Service who are located near you and to show your profile to other users.  You can prohibit this collection of location data by adjusting your settings on your browser or mobile device.  Additionally, you can choose to not display your location on the Service by adjusting your exact location switch in the settings page of the mobile app or by adjusting your location sharing settings on your device.
 
-The Privacy Officer can be contacted as follows:
+**Data Retention:**   We will retain your information for as long as your account is active or as needed to provide you services.  If your account becomes inactive, we will maintain your personal information in the event you wish to re-engage in our Service.  
+ 
+
+  * **MONITORING**
+
+
+
+When you communicate with other users of the Service through our mobile app and/or website, or utilize any interactive features on the Service, such as messaging, forums or chat rooms, such communications and postings are transmitted through our servers, and we may, but are not obligated to, monitor all such communications and postings, including those that are designated as “private,” to the degree that laws and regulations enable us to do this. You acknowledge that you have no expectation of privacy with respect to any such communications or postings, and you expressly consent to such monitoring.
+
+  * **SECURITY AND STORAGE OF INFORMATION**
+
+
+
+GuySpy cares about the security of your information and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information we collect and that we share with our service providers.  However, no security system is impenetrable and we cannot guarantee the security of our systems 100%.  In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.  
+ 
+
+  * ****PERSONS UNDER THE AGE OF 18****
+
+
+
+Persons under the age of 18 are not eligible to use our Services. The Services are not directed to persons under 18 and we do not intentionally collect or maintain information from persons under 18.  If you become aware that personal information about a person under 18 has been provided to us, please immediately contact us using the details below.
+
+  * **LINKS TO THIRD PARTY WEBSITES**
+
+
+
+The Services may, from time to time, contain links to and from third party websites of our partner networks, advertisers, partner merchants, retailers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies.  Please check the individual policies before you submit any information to those websites.  
+ 
+
+  * **UPDATES TO THIS POLICY**
+
+
+
+We reserve the right to modify this Policy from time to time. If we make any changes to this Policy, we will change the “Last Revision” date below and will post the updated Policy on this page.  
+ 
+
+  * **YOUR CALIFORNIA PRIVACY RIGHTS**
+
+
+
+GuySpy collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, GuySpy customers who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
+
+In the United States:
 
 Attn: Privacy Officer  
-Stark Mobile Technologies  
+Stark Mobile Technologies LLC  
 176 E Jewett Blvd, Suite 185  
-White Salmon, WA 98672-0050    
-Email: [privacy@guyspy.com](mailto:privacy@guyspy.com)
+White Salmon, WA 98672-0050  
+Email: [Privacy Officer](mailto:privacy@guyspy.com)
 
-© 2013 Stark Mobile Technologies, LLC. All Rights Reserved 
+Alternatively, you may send us an email at [privacy@guyspy.com](mailto:privacy@guyspy.com) with the words “California Privacy Rights” in the subject line.  
+ 
+
+  * **CONTACTING US**
+
+
+
+If you have questions about this Policy, please contact us at [privacy@guyspy.com](mailto:privacy@guyspy.com) or by writing to us at:
+
+Attn: Privacy Officer  
+Stark Mobile Technologies LLC  
+176 E Jewett Blvd, Suite 185  
+White Salmon, WA 98672-0050  
+Email: [Privacy Officer](mailto:privacy@guyspy.com)
+
+  * **LAST REVISION DATE**
+
+
+
+This Policy was last revised on, and effective as of, September 3, 2013.
