@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the olt.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331202233id_/http%3A//www.olt.com/main/home/privacysecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olt.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201064804id_/http%3A//www.olt.com/main/home/privacysecurity.asp) for the most accurate reproduction.*
 
 # OnLine Taxes respects your privacy - Please read our Privacy/Security Policy.
 
-**(Effective April 19, 2011)**
+**(Effective January 29, 2013 Updated Last on November 08, 2013)**
 
 On-LineTaxes, Inc. (“we” or “us”) recognize your need for the appropriate protection and management of your personally identifiable information ("Personal Information") that we may acquire in connection with your use of our website (the "Web Site"), tax preparation software (the"Software"), and the services offered on our web site (the"Services"). Accordingly, we have instituted this privacy policy ("Privacy Policy") to inform you how we collect, use, and store your Personal Information. URL’s covered by this privacy policy: [www.olt.com ](http://www.olt.com/)and [www.oltpro.com](http://www.oltpro.com/)
 
@@ -10,7 +10,7 @@ On-LineTaxes, Inc. (“we” or “us”) recognize your need for the appropriat
 
 This Privacy Policy is a part of and subject to the On-Line Taxes User Agreement and the On-Line Taxes Professional Tax Preparer User Agreement (each, the"Agreement"). Accordingly, when you click the "I Agree" button, or access or use the Web Site, Software, or the Services, you agree that you have read, understand, and agree that we can collect, use, and disclose your information in accordance with this Privacy Policy. If you do not agree or are not comfortable with any part of this Privacy Policy, you should indicate that you do not agree to the Agreement (including this Privacy Policy) and you may not use the Web Site, Software, or the Services.
 
-When you receive notification of a change in our Privacy Policy, you should review the new Privacy Policy carefully to make sure that you understand our practices and procedures. We reserve the right to modify this privacy statement at any time and it is your responsibility to update yourself regarding any and all modifications to this privacy statement, so please review it frequently. If we make material changes to this policy, we will notify you here, __by e-mail, or by means of a notice on our home page.
+When you receive notification of a change in our Privacy Policy, you should review the new Privacy Policy carefully to make sure that you understand our practices and procedures. We reserve the right to modify this privacy policy at any time and it is your responsibility to update yourself regarding any and all modifications to this privacy policy, so please review it frequently. If we make material changes to this policy, we will notify you here, __by e-mail, or by means of a notice on our home page prior to the change becoming effective.
 
  ** _Information Collection and Use of Personal Information_**
 
@@ -37,9 +37,9 @@ We will generally not disclose your Personal Information to unaffiliated third p
 
 **Tell-A-Friend -** We may offer a referral service in order for you to inform a family member or friend about our Web Site. If you choose to participate in the referral service, we will ask you for your family member or friend’s name and e-mail address. We will automatically e-mail your family member or friend inviting him or her to visit our website and we will use your name and e-mail address to inform your family member friend that you referred them to us. Your family member or friend may unsubscribe from our database by clicking the unsubscribe link in the referral e-mail.
 
- **Emergencies and Disclosure Required by Law -** We reserve the right to disclose your Personal Information without your consent to prevent an emergency, to protect or enforce our rights, to protect or enforce the rights of a third-party, as required or permitted by law (including, without limitation, to comply with a subpoena or court order), in response to an inquiry or request from regulatory authorities, or to protect against fraud. You should note that the taxing authorities frequently request information regarding our users’ use of the Software and Services, and we comply with such requests.
+ **Emergencies and Disclosure Required by Law -** We reserve the right to disclose your Personal Information without your consent to prevent an emergency, to protect or enforce our rights, to protect or enforce the rights of a third-party, as required or permitted by law (including, without limitation, to comply with a subpoena or court order), in response to an inquiry or request from regulatory authorities, or to protect against fraud. You should note that the taxing authorities frequently request information regarding our users’ use of the Software and Services, and we comply with such requests. If On-Line Taxes, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
 
- ** _SSL and Data Security_**
+**_SSL and Data Security_**
 
 Our Web Site uses Secure Socket Layer (SSL) encryption using a Verisign certificate to protect Personal Information. We restrict access to our users’ information that we keep in our offices. Only employees who need such information to perform a specific job are granted access to it.
 
@@ -47,7 +47,7 @@ We cannot and do not act as insurers of the security of your Personal Informatio
 
  ** _Non-Personal Information_**
 
-We collect information from you that cannot be easily used to personally identify you in most cases, such as your browser type and the URL of the previous web site you visited. We use this information to analyze trends, administer the Web Site, track a user’s movement, and gather broad demographic information for aggregate use. Further, our server is hosted by IBM, and IBM monitors traffic for the purposes of maintaining the security of our Web Site. We may set an indicator (cookie) on your computer to assist in gathering the information. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. The indicator (cookie) will expire the next day and become inactive. This privacy statement covers the use of cookies by [www.olt.com ](http://www.olt.com/) and [www.oltpro.com](http://www.oltpro.com/) only and does not cover the use of cookies by any third-party providers.
+We collect information from you that cannot be easily used to personally identify you in most cases, such as your browser type and the URL of the previous web site you visited. We use this information to analyze trends, administer the Web Site, track a user’s movement, and gather broad demographic information for aggregate use. Further, our server is hosted by IBM, and IBM monitors traffic for the purposes of maintaining the security of our Web Site. We may set an indicator (cookie) on your computer to assist in gathering the information. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. The indicator (cookie) will expire the next day and become inactive. This privacy policy covers the use of cookies by [www.olt.com ](http://www.olt.com/) and [www.oltpro.com](http://www.oltpro.com/) only and does not cover the use of cookies by any third-party providers.
 
 **_Web Beacons_**
 
@@ -59,7 +59,17 @@ We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs),
 We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails you may follow the unsubscribe instructions found in the email communications we send.  
 
 
-**_A Note About Children’s Privacy_**
+**_Links to Other Sites_**  
+  
+Our Site includes links to other Web sites whose privacy practices may differ from those of On-LineTaxes, Inc. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
+
+  
+**_Social Media Features_**   
+  
+Our Web site includes Social Media Features, such as the Facebook button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.    
+
+
+**A Note About Children’s Privacy**
 
 The Web Site, Software, and Services are intended for users ages eighteen and older. Individuals under eighteen years old are not allowed to use the Web Site, Software, or Services. Accordingly, we will not knowingly collect or use any Personal Information from individuals we know to be under the age of eighteen. In addition, if notified, we will delete any Personal Information in our database that originates from anyone under the age of eighteen. However, a parent or guardian may input data for a taxpayer under the age of eighteen.
 
@@ -67,12 +77,12 @@ The Web Site, Software, and Services are intended for users ages eighteen and ol
 
 Your trust is important to us. By participating in the Council of Better Business Bureau's BBBOnLine ® Reliability Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information. Further information about this program is available at [www.bbbonline.org](http://www.bbbonline.org/).
 
- ** _TRUSTe_**
+**_TRUSTe_**
 
-On-Line Taxes, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at customerservice@olt.com. If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program covers only information that is collected through the Web sites [www.olt.com ](http://www.olt.com/)and [www.oltpro.com](http://www.oltpro.com/)
+On-Line Taxes, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at customerservice@olt.com. If you are not satisfied with our response you can contact [TRUSTe ](https://feedback-form.truste.com/watchdog/request) here. The TRUSTe program covers only information that is collected through the Web sites [www.olt.com ](http://www.olt.com/)and [www.oltpro.com](http://www.oltpro.com/)
 
  ** _Customer Support_**
 
  **Live Chat.**. We provide a live chat feature on the Web Site (s). This feature collects your name and e-mail address. We use this information soley to communicate with you regarding your inquiry. We use Right Now to host our customer service pages. They do not have access or control of your Personal Information entered on these pages and they may not use it for their promotional purposes.
 
- **QUESTIONS?** If you have any questions or concerns, you can contact our Customer Service Department or you can send a letter to: On-Line Taxes, Inc., 724 Jules Street, Saint Joseph, MO 64501.
+ **QUESTIONS?** If you have any questions or concerns, you can contact our [Customer Service Department](http://www.olt.com/main/home/service.asp) or you can send a letter to: On-Line Taxes, Inc., 724 Jules Street, Saint Joseph, MO 64501.
