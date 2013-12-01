@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplelookup.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625163644id_/http%3A//www.peoplelookup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplelookup.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201044607id_/http%3A//www.peoplelookup.com/privacy) for the most accurate reproduction.*
 
 # PeopleLookup People Search - Public Records, Background Checks & More
 
