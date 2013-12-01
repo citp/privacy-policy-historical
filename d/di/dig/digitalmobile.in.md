@@ -1,27 +1,36 @@
-> *The following text is extracted and transformed from the digitalmobile.in privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119184950id_/http%3A//www.digitalmobile.in/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmobile.in privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201141112id_/http%3A//www.digitalmobile.in/community/pages/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | DigitalMobile
+# Privacy Policy
 
-[ ](http://www.digitalmobile.in/)
-
-**[DigitalMobile.in](http://www.digitalmobile.in/)** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
-
+**Privacy Policy for www.digitalmobile.in**  
   
-****Email Addresses****   
-You may choose to add your email address to our contact list via the forms on our website. We agree that we will never share your email with any third party. We don’t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact form.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **admin@digitalmobile.in**
 
-  
-****Comments/Message Boards****   
-[DigitalMobile.in](http://www.digitalmobile.in/) ****contain comment sections. We do not actively monitor these comments and the information on them is for entertainment purposes only. If we are alerted to something we deem inappropriate in any way, we may delete it at our discretion. We use email validation on most of our message boards in order to reduce “comment spam.” These email addresses will not be shared with any third party.
+At www.digitalmobile.in, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.digitalmobile.in and how it is used.
 
-  
-****Routine Information Collection****   
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+**Log Files**  
+Like many other Web sites, www.digitalmobile.in makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-  
-****Links****   
-[DigitalMobile.in](http://www.digitalmobile.in/)  ****frequently link to other websites. We are not responsible for the content or business practices of these websites.
+**Cookies and Web Beacons**  
+www.digitalmobile.in does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-  
-****Cookies and Web Beacons****   
-[**DigitalMobile.in**](http://www.digitalmobile.in/) uses Third Party like Google AdSense to manage it’s advertisement.These third parties (Google AdSense) may use cookies, scripts and/or web beacons to track visitors to our site.Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.digitalmobile.in.  
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.digitalmobile.in and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+
+**Some of our advertising partners** may use cookies and web beacons on our site. Our advertising partners include ....  
+Google Adsense  
+Clickbank  
+Chitika  
+Amazon
+
+**These third-party ad servers** or ad networks use technology to the advertisements and links that appear on www.digitalmobile.in send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+**www.digitalmobile.in** has no access to or control over these cookies that are used by third-party advertisers.
+
+**You should consult the respective** privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.digitalmobile.in's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+[ ](http://www.digitalmobile.in/community/)
