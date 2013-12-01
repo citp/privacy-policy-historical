@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulhamfc.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425024943id_/http%3A//www.fulhamfc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulhamfc.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201075334id_/http%3A//www.fulhamfc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fulham Football Club
 
@@ -8,27 +8,12 @@ Fulham Football Club ("FFC") is committed to maintaining your privacy in accorda
 
 At times we may request that you voluntarily supply us with personal information. Generally this information is requested when you register to use our website, purchase tickets and enter any promotions or competitions. We may gather and use information about you in the following ways:
 
-  1. If you choose to register to use our website we may ask for information such as your name, date of birth, email address and contact details. We will use this information to administer your user account with us and so that we can tailor and improve the services we offer to you.
-  2. If you choose to give us personal information via the internet (for example, in the course of purchasing tickets or merchandising from us), it will be clear how we will use such information. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes.
-  3. Where you have consented to us sending you information, we may also use your data for marketing purposes. Further details on this can be found below in the section headed "How do we use your information for marketing?"
-  4. Where you have consented to us passing your data to our official partners, sponsors and/or selected third parties to enable them to send you information, we may pass your data to such partners, sponsors and third parties to enable them to send you such information. Further details on this can be found below in the section headed "How do we use your information for marketing?"
-  5. We intend to continue improving the content and function of the Fulham Football Club website. For this reason, we may monitor customer traffic patterns and site usage to help us improve the design and layout of our site and provide content of interest to you.
-  6. If you apply for a job we will use your information for the purposes of recruitment and selection, corresponding with you and equal opportunities monitoring and may hold your information for up to six months in case other suitable opportunities arise.
-
-
-
 **More generally, we will use your personal details and information we obtain from other sources to provide you with our goods and services, for administration and customer services, for marketing, to analyse your purchasing preferences and to ensure that the content, services and advertising that we offer are tailored to your needs and interests. We may need to share your information with our service providers and agents for these purposes. We may disclose personal data in order to comply with a legal or regulatory obligation.**
 
 By providing us with your personal information you consent to our processing your personal data for the above purposes. You also consent to our transferring your information to countries or jurisdictions outside of the EEA which may not provide the same level of data protection as the UK, if necessary, for the above purposes.
 
 **How do we use your information for marketing?  
 **We may:
-
-  1. contact you with information that we think may be of interest to you;
-  2. contact you with information about other organizations goods and services that we think may be of interest to you;
-  3. share your information with our official business partners, sponsors and/or selected third parties so that they can contact you with information.
-
-
 
 We, our official business partners and sponsors and selected third parties may contact you by various means, including but not limited to mail, telephone, fax, email or other electronic messaging services (including mobile phone messaging) with offers of goods, services, promotions or information that may be of interest to you. By providing us with your postal address, telephone or fax numbers or email address you consent to being contacted by these methods for these purposes. If you do not wish to receive marketing information from us or our business partners please indicate this where requested on the registration form. You can change your preferences at any time by updating your personal profile online or by contacting us at [Dataprotection@Fulhamfc.com](mailto:Dataprotection@Fulhamfc.com). 
 
