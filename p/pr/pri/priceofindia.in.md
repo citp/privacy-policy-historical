@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceofindia.in privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517051957id_/http%3A//www.priceofindia.in/disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceofindia.in privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202005407id_/http%3A//www.priceofindia.in/disclaimer.htm) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy
 
