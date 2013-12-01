@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myob.com.au privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606053835id_/http%3A//myob.com.au/pages/privacy-policy-1258090884370) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myob.com.au privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201121211id_/http%3A//myob.com.au/pages/privacy-policy-1258090884370) for the most accurate reproduction.*
 
 # MYOB Privacy Policy
 
