@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spinfold.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602231414id_/http%3A//www.spinfold.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinfold.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201193700id_/http%3A//www.spinfold.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Spinfold
+# Privacy Policy | Spinfold
 
 **Privacy Policy – Your Privacy Rights**
 
@@ -27,4 +27,4 @@ This Privacy Policy explains what information we collect, how we use it, how oth
 
 We use your email address only to allow you to log in to your account, send you confirmations (of your registration, etc.), and to send you messages as part of our services. You may choose to stop receiving these emails by clicking on the “unsubscribe” link at the bottom of the email.We will also use your email address to respond to your customer service inquiries.
 
-You may request spinfold.com not disclose your personal information to third parties.You may do so by writing to us at [admin@spinfold.com](mailto:admin@spinfold.com). 
+You may request spinfold.com not disclose your personal information to third parties.You may do so by writing to us at [admin@spinfold.com](mailto:admin@spinfold.com).
