@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-escape.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163053id_/http%3A//www.i-escape.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-escape.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201134414id_/http%3A//www.i-escape.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boutique Hotels and Hip Hideaways | i-escape.com
 
