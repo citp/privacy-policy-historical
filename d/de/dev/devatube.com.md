@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the devatube.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630183608id_/http%3A//devatube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devatube.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201215513id_/http%3A//devatube.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
-**PRIVACY POLICY FOR DEVATUBE.COM**
+**PRIVACY POLICY FOR TUBEJOY.COM**
 
-This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of Devatube.com (hereafter the “Site”) or the services provided by this Site.
+This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of Tubejoy.com (hereafter the “Site”) or the services provided by this Site.
 
   CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT.
 
@@ -24,7 +24,7 @@ This Privacy Policy statement sets forth the policies and practices with respect
 
   **2\. COOKIES**
 
-Devatube.com uses cookies to store and sometimes track information to make your online experience easier and more personalized. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Most major Web browsers are set up so that they will initially accept cookies, but you may modify your computers preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you. If you choose to reject all cookies, there are areas of this Site and other websites that may not function properly.
+Tubejoy.com uses cookies to store and sometimes track information to make your online experience easier and more personalized. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Most major Web browsers are set up so that they will initially accept cookies, but you may modify your computers preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you. If you choose to reject all cookies, there are areas of this Site and other websites that may not function properly.
 
   You may obtain further information about “cookies” and how they function at: http://www.cookiecentral.com
 
@@ -36,15 +36,15 @@ Devatube.com uses cookies to store and sometimes track information to make your 
 
   All Members, visitors and Users of this Site should consider any information provided to or collected by the Site as non-confidential, and consequently the Site assumes no liability or responsibility if any information relating to any Member, visitor or User is intercepted and/or used by an unintended recipient.
 
-By your acts of signing up as a subscriber to the Site, accepting the Terms and Conditions of the Site and affirmatively consenting to accept emails from this Site, you are agreeing to all of the following: (1) that Site has your permission to collect your email address and all personal information you supply relating to that email address; (2) that Site has your permission to disclose and transfer your email address and all other personal information you supply to its affiliates, agents or service providers that provide goods and services in accordance with the Terms and Conditions of Devatube.com .
+By your acts of signing up as a subscriber to the Site, accepting the Terms and Conditions of the Site and affirmatively consenting to accept emails from this Site, you are agreeing to all of the following: (1) that Site has your permission to collect your email address and all personal information you supply relating to that email address; (2) that Site has your permission to disclose and transfer your email address and all other personal information you supply to its affiliates, agents or service providers that provide goods and services in accordance with the Terms and Conditions of Tubejoy.com .
 
   **4\. “OPT-OUT” – REVOCATION OF CONSENT PROCEDURE**
 
-  The Site also offers all Members and Users a procedure for “Opting-Out” if the Member or User subsequently chooses to revoke or withdraw any consent to receive Offers by sending an e-mail to [cs@Devatube.com](mailto:cs@Devatube.com) clearly stating that the Member or User has revoked or withdrawn consent to receive any future Offers.
+  The Site also offers all Members and Users a procedure for “Opting-Out” if the Member or User subsequently chooses to revoke or withdraw any consent to receive Offers by sending an e-mail to [cs@tubejoy.com](mailto:cs@tubejoy.com) clearly stating that the Member or User has revoked or withdrawn consent to receive any future Offers.
 
   **5\. DISCLOSURE**
 
-  Devatube.com will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to enforce any of our rights and terms and conditions or identify, contact or bring legal action against someone who may be violating the Devatube.com [Terms and Conditions](http://in.cybererotica.com/terms/terms_ar.html?site=Devatube.com) .
+  Tubejoy.com will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to enforce any of our rights and terms and conditions or identify, contact or bring legal action against someone who may be violating the Tubejoy.com [Terms and Conditions](http://in.cybererotica.com/terms/terms_ar.html?site=tubejoy.com) .
 
     **6\. REVISIONS TO THIS PRIVACY POLICY**
 
