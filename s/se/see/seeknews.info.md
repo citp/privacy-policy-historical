@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the seeknews.info privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423155722id_/http%3A//seeknews.info/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeknews.info privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201020334id_/http%3A//seeknews.info/page.php%3Fpage%3Dtos) for the most accurate reproduction.*
 
-# Privacy Policy | Seek News Social Network
+# Privacy Policy & Terms of Service | Seek News
 
-  
-
-
-This Privacy Policy governs the manner in which 'Seek News' collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://seeknews.info](http://seeknews.info/) website ("Site"). This privacy policy applies to the Site and all products and services offered by 'Seek News'.
+This Privacy Policy governs the manner in which 'Seek News' collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.seeknews.info](http://www.seeknews.info/) website ("Site"). This privacy policy applies to the Site and all products and services offered by 'Seek News'.
 
 **Personal identification information**
 
@@ -28,7 +25,7 @@ We may use information in the aggregate to understand how our Users as a group u
   * _\- To improve our Site_  
 We may use feedback you provide to improve our products and services.
   * _\- To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. 
+We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
@@ -38,7 +35,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 **Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
 **Third party websites**
 
@@ -63,8 +60,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-['Seek News'](http://seeknews.info/)  
-[http://seeknews.info](http://seeknews.info/)  
-kased@seeknews.info
+['Seek News'](http://www.seeknews.info/)  
+[http://www.seeknews.info](http://www.seeknews.info/)  
+info@seeknews.info
 
-This document was last updated on November 21, 2012
+This document was last updated on May 15, 2013
