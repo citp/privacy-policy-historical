@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the presentationpro.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629133111id_/http%3A//www.presentationpro.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentationpro.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202002515id_/http%3A//www.presentationpro.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # PresentationPro Privacy Statement
-
-Privacy Statement 
 
 PresentationPro, Inc. has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on our website (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. PresentationPro reserves the right to change the terms and conditions of this Agreement or its policies relating to the Service at any time and shall notify you by posting an updated version of this Agreement on the Site and/or by sending you an email message. 
 
