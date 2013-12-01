@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webqc.org privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610150927id_/http%3A//webqc.org/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webqc.org privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201203021id_/http%3A//www.webqc.org/privacypolicy.php) for the most accurate reproduction.*
 
 # None
 
@@ -60,4 +60,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 <http://www.webqc.org/contact.php>
 
-This document was last updated on October 07, 2011
+This document was last updated on July 13, 2013
