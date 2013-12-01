@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americaneagle.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530210452id_/http%3A//www.americaneagle.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americaneagle.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201231113id_/http%3A//www.americaneagle.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Americaneagle.com
 
