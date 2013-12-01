@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the headhonchos.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122200051id_/http%3A//www.headhonchos.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headhonchos.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201055027id_/http%3A//www.headhonchos.com/privacy-policy.html) for the most accurate reproduction.*
 
 # HeadHonchos-Privacy Policy
 
-This privacy policy (" **Privacy Policy** ") sets forth our commitment to respecting your online privacy and recognize your need for appropriate protection and management of any Personal Information (as defined below) you share with us. The Privacy Policy applies to our Services available under the domain www.Headhoncho.com (herein after referred to as the " **Website** "). By visiting the Website you agree to be bound by the terms and conditions of this Privacy Policy.
+This privacy policy (" **Privacy Policy** ") sets forth our commitment to respecting your online privacy and recognize your need for appropriate protection and management of any Personal Information (as defined below) you share with us. The Privacy Policy applies to our Services available under the domain www.Headhonchos.com (herein after referred to as the " **Website** "). By visiting the Website you agree to be bound by the terms and conditions of this Privacy Policy.
 
 IF YOU DO NOT AGREE PLEASE DO NOT USE OR ACCESS THE WEBSITE.
 
-The words "you" or "your" or "User" as used herein, refer to all individuals and/or entities accessing or using the Website for any reason. The words "we" or "us" or "our" or the "Company" as used herein, refer to the company Headhoncho.com and/or or any permitted assignees.
+The words "you" or "your" or "User" as used herein, refer to all individuals and/or entities accessing or using the Website for any reason. The words "we" or "us" or "our" or the "Company" as used herein, refer to the company Headhonchos.com and/or or any permitted assignees.
 
 This Privacy Policy describes the information, as part of the normal operation of our Services; we collect from you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about the Website, Services and our practices so that you can make informed decisions.
 
