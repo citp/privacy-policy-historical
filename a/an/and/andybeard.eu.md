@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andybeard.eu privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607144404id_/http%3A//andybeard.eu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andybeard.eu privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201212308id_/http%3A//andybeard.eu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -20,6 +20,6 @@ Google, as a third party vendor, uses cookies to serve ads all over the internet
 
 Google’s use of the DART cookie enables it to serve ads to users based on their visits to this site and other sites on the Internet.
 
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html) .
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 “This site uses SeeVolution web analytics service. SeeVolution may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. SeeVolution does not collect personally identifiable information that you do not voluntarily enter in this website. SeeVolution does not track your browsing habits across web sites which do not use SeeVolution services. For more information visit: http://SeeVolution.com/privacypolicy. You can choose to disable the Service at http://www.seevolution.net/disable.html.”
