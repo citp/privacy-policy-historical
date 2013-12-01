@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naptol.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129094752id_/http%3A//www.naaptol.com/terms-conditions/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naptol.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201064733id_/http%3A//www.naaptol.com/terms-conditions/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Naaptol.com
 
@@ -48,3 +48,5 @@ You can access and update all your personally identifiable information that we c
 Terms Used
 
 "We/the company/us"are terms used in privacy policy, terms and conditions or on our website are interchangeable and shall mean and include as entity referring to Naaptol Online Shopping Private Ltd. 
+
+**Disclaimer:** Naaptol is a service provider. Naaptol, through its logistics partners collect the goods ordered by customers and have them delivered to the customers. Naaptol disclaims any liability if the vendor fails to make the requested goods available for delivery.
