@@ -1,8 +1,18 @@
-<!--The following is the downloaded HTML source of the infibeam.com privacy policy that was archived on 2013-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628002206id_/http%3A//www.infibeam.com/static/help/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infibeam.com privacy policy that was archived on 2013-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131201082736id_/http%3A//www.infibeam.com/static/help/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+function createCookie(name, value, days) {
+if (days) {
+var date = new Date();
+date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+var expires = "; expires=" + date.toGMTString();
+}
+else var expires = "";
+document.cookie = name + "=" + value + expires + "; path=/";
+}
 function readCookie(name) {
 var nameEQ = name + "=";
 var ca = document.cookie.split(';');
@@ -13,20 +23,24 @@ if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
 }
 return null;
 }
+function eraseCookie(name) {
+createCookie(name, "", -1);
+}
 </script>
 <title>Privacy Policy</title>
 <link rel="canonical" href="http://www.infibeam.com/help/privacy-policy-a.html">
 <meta name="msvalidate.01" content="C48C958F23B6431D04C172C3DEED2626">
 <meta name="p:domain_verify" content="4b8286af211ee8c760a72c004be48882">
 <link rel="shortcut icon" href="/favicon.ico">
+<link rel="author" href="https://plus.google.com/117711472134437939482">
 <link rel="publisher" href="https://plus.google.com/115263157584389000337">
 <link rel="stylesheet" href="http://asset-a2.infibeam.com/assets/yui-css/reset-fonts-grids.css" type="text/css">
 <link rel="stylesheet" href="http://asset-a2.infibeam.com/assets/fonts/pt_sans_narrow.css" type="text/css">
-<link rel="stylesheet" href="http://asset-a2.infibeam.com/assets/skins/newcommon/style/globle.css?v=41" type="text/css">
-<link rel="stylesheet" href="http://asset-a2.infibeam.com/assets/skins/newcommon/style/infibeam.css?v=31" type="text/css">
-<script src="http://asset-a2.infibeam.com/includeResource.action?v=22&amp;bundle=jquerycore" type="text/javascript" charset="utf-8">
+<link rel="stylesheet" href="http://asset-a2.infibeam.com/assets/skins/newcommon/style/globle.css?v=42" type="text/css">
+<link rel="stylesheet" href="http://asset-a2.infibeam.com/assets/skins/newcommon/style/infibeam.css?v=41" type="text/css">
+<script src="http://asset-a2.infibeam.com/includeResource.action?v=23&amp;bundle=jquerycore" type="text/javascript" charset="utf-8">
 </script>
-<link rel="stylesheet" type="text/css" media="screen" href="http://asset-a2.infibeam.com/assets/skins/newcommon/style/help.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://asset-a2.infibeam.com/assets/skins/newcommon/style/help.css?v=0">
 <style>
 #help p {font: 13px/18px arial,helvetica,sans-serif;}
 #help ol.number li {
@@ -125,11 +139,11 @@ var IB ={};
 $(document).ready(function(){
 try{$(document).pngFix();}catch(err){}
 });
-<!-- For Apple Bab, Do Not Touch -->
 </script>
-<!-- Urchin -->
 <script type="text/javascript">
 var _gaq = _gaq || [];
+var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 _gaq.push(['_setAccount', 'UA-2515569-1']);
 var trackId="";
 var url ="";
@@ -150,7 +164,6 @@ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async
 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
-<!-- Google Event Tracking -->
 function trackElements(category, action, label, values, nonInteractionFlag){
 if(nonInteractionFlag==true){
 if(typeof(values)=="number"){
@@ -177,22 +190,41 @@ _gaq.push(["_setCustomVar", variableNumber, name, value, level]);
 _gaq.push(['_trackPageview']);
 }
 </script>
+<script type="text/javascript">
+var hostname="//ec2-122-248-221-90.ap-southeast-1.compute.amazonaws.com";
+function trackCustomElements(hash){
+var img = $('<img />').attr({ 'style': 'display:none', 'src':'http:'+hostname+'/_two.gif?', 'alt':'MyAlt' }).appendTo($('#hd'));
+var cid = readCookie('cust_id');
+var cmail=readCookie('cust_mail');
+var lsa = readCookie('lsa');
+var page = readCookie('page');
+var pos = readCookie('pos');
+var qs = readCookie('qs') != null ? readCookie('qs') : hash.keyword
+var ref=document.referrer.replace(/&/g,'<ib>'); // reparse it back
+var ts=(new Date).getTime();
+createCookie('lsa',hash.category);
+createCookie('page',hash.page);
+createCookie('pos',hash.pos);
+createCookie('qs',hash.keyword);
+var hash_value = {'channel':"Infibeam",'cid':cid,'cmail':cmail,'category':hash.category,'event':hash.event,'bn':hash.bn,'keyword':qs,'list_id':hash.l_id,'cat_id':hash.c_id,'pr':hash.pr,'discount_percent':hash.discount,'offer':hash.offer,'status':hash.status,'cart_size':hash.cart_size,'total_amount':hash.total_amount,'qty':hash.qty,'ftype':hash.f_type,'fval':hash.f_value,'page':page,'pos':pos,'zip':hash.zip,'zone':hash.zone,'smode':hash.smode,'cal':hash.cal,'cod':hash.cod,'ess':hash.ess,'ecost':hash.ecost,'lsa':lsa,'ref':ref};
+var res = unescape($.param(hash_value));
+var img = $('<img />').attr({ 'style': 'display:none', 'src':'http:'+hostname+'/_one.gif?'+res+"&"+ts , 'alt':'MyAlt' }).appendTo($('#hd'));
+}
+</script>
 <script type="text/javascript" src="http://asset-a2.infibeam.com/scripts/MarketplaceUtils.js"></script>
-<script type="text/javascript" src="http://asset-a2.infibeam.com/scripts/affiliateJS/affiliateTracking.js"></script>
+<script type="text/javascript" src="/scripts/affiliateJS/affiliateTracking.js?v=3"></script>
 <script type="text/javascript">
 </script>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
-<!-- Javascript -->
 <script>
 var isHomePage="false";
 if(isHomePage=="false"){
 $('.mainDiv').hide();
 }
 </script>
-<script src="http://asset-a2.infibeam.com/scripts/infibeamHeader.js?v=35"></script>
+<script src="http://asset-a2.infibeam.com/scripts/infibeamHeader.js?v=40"></script>
 <script src="http://asset-a2.infibeam.com/scripts/jquery.menu-aim.js?v=1"></script>
-<!-- Header -->
 <div id="hd">
 <div class="header-top"></div>
 <div class="header">
@@ -218,6 +250,7 @@ $('.mainDiv').hide();
 <ul class="accountDiv" style="display:none;">
 <span id="bubble"></span>
 <li><a href="/ViewPurchases.action">My Orders</a></li>
+<li><a href="/WishList.action" title="WishList">My WishList</a> </li>
 <li><a href="/ViewWallet.action" title="Wallet">My Wallet</a> </li>
 </ul>
 </span>
@@ -240,19 +273,16 @@ $('.mainDiv').hide();
 </a>
 </div>
 <div class="mkt-img">
-<a class="logo2" href="/iPhone/?trackId=hpgbnr2ndMay&amp;utm_source=Homepage&amp;utm_medium=headerbanner&amp;utm_campaign=iPhoneBuyBack">
-<img src="/assets/skins/common/images/marketing/iphone1.jpg">
+<a class="logo2" href="/Mobile_Accessories/search">
+<img src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/ma10.jpg" alt="" title="" border="0" usemap="">
 </a>
-<a style="display:none" class="logo2" href="/Samsung-Note2/?trackId=hpgbnr27thJune&amp;utm_source=Homepage&amp;utm_medium=headerbanner&amp;utm_campaign=Note2BuyBack">
-<img src="/assets/skins/common/images/marketing/topgalaxynote2_01.jpg">
-</a>
-<a style="display:none" class="logo2" href="/Apple-iPad/?trackId=hpgbnr17thJune&amp;utm_source=Homepage&amp;utm_medium=headerbanner&amp;utm_campaign=iPadBuyBack">
-<img src="/assets/skins/common/images/marketing/ipad04.jpg">
+<a style="display:none" class="logo2" href="/Mobile_Accessories/search">
+<img src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/ma10.jpg" alt="" title="" border="0" usemap="">
 </a>
 </div>
 <style>
 #logo2img {
-background: url("/assets/skins/common/images/marketing/iphone1.jpg");
+background: url("/assets/skins/common/images/marketing/media.jpg");
 height: 90px;
 width: 125px;
 display: block;
@@ -270,13 +300,42 @@ display: block;
 </div>
 <select name="storeName" id="searchHeader" class="text" style="">
 <option value="All" selected="selected">All Stores</option>
-<option value="Automobiles">Automobiles</option>
+<option value="kitchen-appliances">Kitchen Appliances</option>
+<option value="Mobile_Accessories">Mobile Accessories</option>
+<option value="Mobiles">Mobiles</option>
+<option value="tablet-accessories">Tablet Accessories</option>
+<option value="tablets">Tablets</option>
+<option value="Computers_Accessories">Computers and Accessories</option>
+<option value="Portable_Electronics">Portable Electronics</option>
 <option value="Books">Books</option>
-<option value="Electronics">Electronics</option>
+<option value="Movies">Movies</option>
+<option value="Music">Music</option>
+<option value="Home_Entertainment">Home Entertainment</option>
+<option value="Camera_Accessories">Camera Accessories</option>
+<option value="Cameras">Cameras</option>
 <option value="Gifts">Gifts &amp; Festivals</option>
-<option value="Home-Lifestyle">Home-Lifestyle</option>
+<option value="Religion_Spirituality">Religion &amp; Spirituality</option>
+<option value="Office_Supplies">School &amp; Office</option>
+<option value="Auto_Accessories">Auto Accessories</option>
+<option value="Posters">Posters</option>
 <option value="Magazines">Magazines</option>
-<option value="Media">Movies &amp; Music</option>
+<option value="Health_Equipments">Health &amp; Fitness</option>
+<option value="Grocery">Grocery</option>
+<option value="Home_Furnishing">Decor and Home Improvement</option>
+<option value="Kitchenware">Kitchenware</option>
+<option value="Home_Appliances">Home Appliances</option>
+<option value="Travel_Accessories">Travel and Bags</option>
+<option value="Gaming_Consoles">Gaming</option>
+<option value="Bags">Bags</option>
+<option value="Eyewear">Eyewear</option>
+<option value="Beauty">Personal Care</option>
+<option value="Jewellery">Jewellery</option>
+<option value="Footwear">Footwear</option>
+<option value="Apparel_Accessories">Accessories</option>
+<option value="Apparel">Clothing</option>
+<option value="Watches">Watches</option>
+<option value="Baby">Baby Products</option>
+<option value="Toys_Games">Toys &amp; Games</option>
 </select>
 <div id="inner-search">
 <input id="suggest" name="query">
@@ -330,67 +389,70 @@ $("#suggest").autocomplete("http://autocomplete_new.infibeam.com/auto_complete/s
 <div class="nav-unit">
 <div class="title">
 <span class="mtitle">
-<a href="/Mobiles/">MOBILES &amp; TABLETS</a>
+<a href="/mobiles-tablets/">MOBILES &amp; TABLETS</a>
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_mobile_brands">
-</div>
+<a href="/Mobiles/">
+<div class="img sprite_mobile_brands"></div>
+</a>
 <div class="sub-item">
-<h5>Mobile Brands</h5>
+<h5><a href="/Mobiles/">Mobile Brands</a></h5>
 <p>
-<a href="/Mobiles/search?make=Apple">Apple</a> ,
-<a href="/Mobiles/search?make=Nokia">Nokia</a> ,
-<a href="/Mobiles/search?make=Samsung">Samsung</a> ,
-<a href="/Mobiles/search?make=HTC">HTC</a> ,
-<a href="/Mobiles/search?make=Micromax">Micromax</a> ,
-<a href="/Mobiles/search?make=Sony">Sony</a> ,
-<a href="/Mobiles/search?make=Blackberry">Blackberry</a> ,
+<a href="/Mobiles/search?make=Apple">Apple</a>,
+<a href="/Mobiles/search?make=Nokia">Nokia</a>,
+<a href="/Mobiles/search?make=Samsung">Samsung</a>,
+<a href="/Mobiles/search?make=HTC">HTC</a>,
+<a href="/Mobiles/search?make=Micromax">Micromax</a>,
+<a href="/Mobiles/search?make=Sony">Sony</a>,
 <a href="/Mobiles/search?make=Karbonn">Karbonn</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_mobile_features">
-</div>
+<a href="/Mobiles/">
+<div class="img sprite_mobile_type"></div>
+</a>
 <div class="sub-item">
-<h5>Mobile Features</h5>
+<h5><a href="/Mobiles/">Mobile Type</a></h5>
 <p>
-<a href="/smartphones">SmartPhones</a> ,
-<a href="/dual-sim-mobiles">Dual SIM</a> ,
-<a href="/android-mobile-phones">Android</a> ,
-<a href="/touchscreen-mobiles">Touch Screen</a>
+<a href="/smartphones/">SmartPhones</a>,
+<a href="/dual-sim-mobiles/">Dual SIM</a>,
+<a href="/android-mobile-phones/">Android</a>,
+<a href="/touchscreen-mobiles/">Touch Screen</a>,
+<a href="/windows-mobile-phones/">Windows</a>,
+<a href="/budget-mobile-phones/">Budget Phones</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_tablets">
-</div>
+<a href="/tablets/">
+<div class="img sprite_tablet_brands"></div>
+</a>
 <div class="sub-item">
-<h5>Tablets</h5>
+<h5><a href="/tablets/">Tablet Brands</a></h5>
 <p>
-<a href="/Portable_Electronics/calling-tablets-showcase.html">Calling Tablets</a> ,
-<a href="/tablets/search?make=Apple">Apple iPads</a> ,
-<a href="/tablets/search?make=HCL">HCL</a> ,
-<a href="/tablets/search?make=Samsung">Samsung</a> ,
-<a href="/tablets/search?make=Micromax">Micromax</a> ,
-<a href="/tablets/search?make=Karbonn">Karbonn</a> ,
-<a href="/tablets/search?make=Asus">Asus</a> ,
-<a href="/tablets/search?make=iBall">iBall</a> ,
-<a href="/tablets/search?make=Intex">Intex</a> ,
-<a href="/tablets/search?make=BSNL%20Penta">BSNL Penta</a>
+<a href="/tablets/search?make=Samsung">Samsung</a>,
+<a href="/tablets/search?make=Micromax">Micromax</a>,
+<a href="/tablets/search?make=Karbonn">Karbonn</a>,
+<a href="/tablets/search?make=HCL">HCL</a>,
+<a href="/tablets/search?make=iBall">iBall</a>,
+<a href="/ipad/">Apple iPad</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_tablet_features">
-</div>
+<a href="/tablets/">
+<div class="img sprite_tablet_type"></div>
+</a>
 <div class="sub-item">
-<h5>Tablet Features</h5>
+<h5><a href="/tablets/">Tablet Type</a></h5>
 <p>
-<a href="/Portable_Electronics/search?bodyType=Tablet&amp;features=Bluetooth">Bluetooth</a> ,
-<a href="/Portable_Electronics/search?bodyType=Tablet&amp;features=Microphone">Microphone</a> ,
-<a href="/Portable_Electronics/search?bodyType=Tablet&amp;features=Touchscreen">Touch Screen</a>
+<a href="/calling-tablets/">Calling</a>,
+<a href="/android-tablets/">Android</a>,
+<a href="/windows-tablets/">Windows</a>,
+<a href="/Portable_Electronics/latest-tablets-showcase.html">Latest</a>,
+<a href="/Portable_Electronics/best-selling-tablets-showcase.html">Best Selling</a>
 </p>
 </div>
 </div>
@@ -402,53 +464,80 @@ $("#suggest").autocomplete("http://autocomplete_new.infibeam.com/auto_complete/s
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_memory_cards">
-</div>
+<a href="/mobile-memory-cards/">
+<div class="img sprite_memory_cards"></div>
+</a>
 <div class="sub-item">
-<h5>Memory Cards</h5>
+<h5><a href="/mobile-memory-cards/">Memory Cards</a></h5>
 <p>
-<a href="/Mobile_Accessories/search?category=Memory%20Cards&amp;make=SanDisk">SanDisk</a> ,
-<a href="/Mobile_Accessories/search?category=Memory%20Cards&amp;make=Transcend">Transcend</a> ,
-<a href="/Mobile_Accessories/search?category=Memory%20Cards&amp;make=Strontium">Strontium</a> ,
-<a href="/Mobile_Accessories/search?category=Memory%20Cards&amp;make=Samsung">Samsung</a>
+<a href="/mobile-memory-cards/search?make=Kingston">Kingston</a>,
+<a href="/mobile-memory-cards/search?make=SanDisk">SanDisk</a>,
+<a href="/mobile-memory-cards/search?make=Strontium">Strontium</a>,
+<a href="/mobile-memory-cards/search?make=Transcend">Transcend</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_handsfree">
-</div>
+<a href="/mobile-bluetooth-headsets/">
+<div class="img sprite_bluetooth__headsets"></div>
+</a>
 <div class="sub-item">
-<h5>Handsfree</h5>
+<h5><a href="/mobile-bluetooth-headsets/">Bluetooth &amp; Headsets</a></h5>
 <p>
-<a href="/Mobile_Accessories/search?category=Handsfree&amp;make=Skull%20Candy">Skull Candy</a> ,
-<a href="/Mobile_Accessories/search?category=Handsfree&amp;make=Sony">Sony</a> ,
-<a href="/Mobile_Accessories/search?category=Handsfree&amp;make=Philips">Philips</a> ,
-<a href="/Mobile_Accessories/search?category=Handsfree&amp;make=Cooler%20Master">Cooler Master</a> ,
-<a href="/Mobile_Accessories/search?category=Handsfree&amp;make=Panasonic">Panasonic</a>
+<a href="/mobile-bluetooth-headsets/search?make=Samsung">Samsung</a>,
+<a href="/mobile-bluetooth-headsets/search?make=Sony">Sony</a>,
+<a href="/mobile-bluetooth-headsets/search?make=Plantronics">Plantronics</a>,
+<a href="/mobile-bluetooth-headsets/search?make=Sennheiser">Sennheiser</a>,
+<a href="/mobile-bluetooth-headsets/search?make=Atitude">Atitude</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_mobile_accessories">
-</div>
+<a href="/Mobile_Accessories/">
+<div class="img sprite_featured_accessories"></div>
+</a>
 <div class="sub-item">
-<h5>Mobile Accessories</h5>
+<h5><a href="/Mobile_Accessories/">Featured Accessories</a></h5>
 <p>
-<a href="/mobile-covers-cases">Covers</a> ,
-<a href="/mobile-screen-protectors">Screen Protectors</a> ,
-<a href="/mobile-batteries">Batteries</a> ,
-<a href="/mobile-bluetooth-headsets">Bluetooth Devices</a> ,
-<a href="/mobile-chargers">Chargers</a> ,
-<a href="/tablet-accessories">Tablet Accessories</a>
+<a href="/mobile-screen-protectors/">Screen Protectors</a>,
+<a href="/mobile-chargers/">Chargers</a>,
+<a href="/mobile-batteries/">Batteries</a>,
+<a href="/tablet-accessories/">Tablet Accessories</a>,
+<a href="/iphone-accessories/">iPhone Accessories</a>
 </p>
 </div>
+</div>
+<div class="sub-unit">
+<a href="/mobile-covers-cases/">
+<div class="img sprite_covers__cases"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/mobile-covers-cases/">Covers &amp; Cases</a></h5>
+<p>
+<a href="/mobile-covers-cases/search?make=Samsung">Samsung</a>,
+<a href="/mobile-covers-cases/search?make=Callmate">Callmate</a>,
+<a href="/mobile-covers-cases/search?make=Amzer">Amzer</a>,
+<a href="/mobile-covers-cases/search?make=Molife">Molife</a>,
+<a href="/mobile-covers-cases/search?make=Ncase">Ncase</a>
+</p>
+</div>
+</div>
+</div>
+<div class="nav-unit">
+<div class="title">
+<span class="mtitle">
+<a href="/Recharge/">ONLINE RECHARGE</a>
+<img src="/assets/skins/common/images/new_flyout.png" alt="">
+</span>
 </div>
 </div>
 </div>
 </div>
 </div>
 <div id="flyout-marketing">
-<!-- <img class="mkt-image" src="/assets/skins/common/images/marketing/mrk_mobiles.png" />
+<a href="http://smartphone.infibeam.com/"><div class="mkt-flyout" style="right:160px;">5% Cashback on Citibank Credit Card 6 months EMI &nbsp;
+<img class="mkt-grey-arrow" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/gray_arrow.png"></div>
+<img class="mkt-image" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_mobiles_iphone.png?v=1"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -456,7 +545,6 @@ right:1px;
 bottom:1px;
 }
 </style>
--->
 </div>
 </div>
 </div>
@@ -474,58 +562,48 @@ bottom:1px;
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_category">
-</div>
+<a href="/Books/">
+<div class="img sprite_category"></div>
+</a>
 <div class="sub-item">
-<h5>Category</h5>
+<h5><a href="/Books/">Category</a></h5>
 <p>
-<a href="/Books/categories/Fiction">Fiction</a> ,
-<a href="/Books/categories/Education">Education</a> ,
-<a href="/Books/categories/Technology_and_Engineering">Technology &amp; Engineering</a> ,
-<a href="/Books/categories/Biography_and_Autobiography">Biography &amp; Autobiography</a> ,
-<a href="/Books/categories/Computers">Computers</a> ,
+<a href="/Books/categories/Fiction">Fiction</a>,
+<a href="/Books/categories/Education">Education</a>,
+<a href="/Books/categories/Technology_and_Engineering">Technology &amp; Engineering</a>,
+<a href="/Books/categories/Biography_and_Autobiography">Biography &amp; Autobiography</a>,
+<a href="/Books/categories/Computers">Computers</a>,
 <a href="/Books/categories/History">History</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_indian_authors">
-</div>
+<a href="/Books/indian-authors-writers-a.html">
+<div class="img sprite_indian_authors"></div>
+</a>
 <div class="sub-item">
-<h5>Indian Authors</h5>
+<h5><a href="/Books/indian-authors-writers-a.html">Indian Authors</a></h5>
 <p>
-<a href="/Books/search?author=Chetan%20Bhagat">Chetan Bhagat</a> ,
-<a href="/Books/search?author=Amish%20Tripathi">Amish Tripathi</a> ,
-<a href="/Books/search?author=R%20K%20Narayan">R K Narayan</a> ,
-<a href="/Books/search?author=Ruskin%20Bond">Ruskin Bond</a> ,
+<a href="/Books/search?author=Chetan%20Bhagat">Chetan Bhagat</a>,
+<a href="/Books/search?author=Amish%20Tripathi">Amish Tripathi</a>,
+<a href="/Books/search?author=R%20K%20Narayan">R K Narayan</a>,
+<a href="/Books/search?author=Ruskin%20Bond">Ruskin Bond</a>,
 <a href="/Books/search?author=Amartya%20Sen">Amartya Sen</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_featured_books">
-</div>
+<a href="/Books/international-authors-writers-a.html">
+<div class="img sprite_international_authors"></div>
+</a>
 <div class="sub-item">
-<h5>Featured Books</h5>
+<h5><a href="/Books/international-authors-writers-a.html">International Authors</a></h5>
 <p>
-<a href="/Books/new-releases-showcase.html">New Releases</a> ,
-<a href="/Books/best-selling-showcase.html">Best Sellers</a> ,
-<a href="/Books/recommended-showcase.html">Recommended</a> ,
-<a href="/Books/upcoming-showcase.html">Upcoming</a> ,
-<a href="/Textbooks/">Textbooks</a>
-</p>
-</div>
-</div>
-<div class="sub-unit">
-<div class="img sprite_ebooks">
-</div>
-<div class="sub-item">
-<h5>Ebooks</h5>
-<p>
-<a href="/eBooks/engineering-ebooks-showcase.html">Engineering</a> ,
-<a href="/eBooks/management-eBooks-showcase.html">Management</a> ,
-<a href="/eBooks/science-eBooks-showcase.html">Science</a> ,
-<a href="/eBooks/categories/Fiction">Fiction</a>
+<a href="/Books/search?author=Jeffrey%20Archer">Jeffrey Archer</a>,
+<a href="/Books/search?author=Sidney%20Sheldon">Sidney Sheldon</a>,
+<a href="/Books/search?author=Dan%20Brown">Dan Brown</a>,
+<a href="/Books/search?author=J%20K%20Rowling">J K Rowling</a>,
+<a href="/Books/search?author=J%20R%20R%20Tolkien">J R R Tolkien</a>
 </p>
 </div>
 </div>
@@ -537,41 +615,92 @@ bottom:1px;
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_category">
-</div>
+<a href="/Magazines/">
+<div class="img sprite_category"></div>
+</a>
 <div class="sub-item">
-<h5>Category</h5>
+<h5><a href="/Magazines/">Category</a></h5>
 <p>
-<a href="/Magazines/search?category=Automobile">Automobile</a> ,
-<a href="/Magazines/search?category=Business">Business</a> ,
-<a href="/Magazines/search?category=Lifestyle">Lifestyle</a> ,
-<a href="/Magazines/search?category=Fashion">Fashion</a> ,
-<a href="/Magazines/search?category=Film">Film</a> ,
-<a href="/Magazines/search?category=Sports">Sports</a> ,
-<a href="/Magazines/search?category=Science">Science</a>
+<a href="/Magazines/search?category=Automobile">Automobile</a>,
+<a href="/Magazines/search?category=Business">Business</a>,
+<a href="/Magazines/search?category=Lifestyle">Lifestyle</a>,
+<a href="/Magazines/search?category=Fashion">Fashion</a>,
+<a href="/Magazines/search?category=Film">Film</a>,
+<a href="/Magazines/search?category=Sports">Sports</a>,
+<a href="/Magazines/search?category=Science">Science</a>,
+<a href="/Magazines/search?category=Advertising">Advertising</a>,
+<a href="/Magazines/search?category=Current%20Affairs">Current Affairs</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_featured_magazines">
-</div>
+<a href="/Magazines/">
+<div class="img sprite_featured_magazines"></div>
+</a>
 <div class="sub-item">
-<h5>Featured Magazines</h5>
+<h5><a href="/Magazines/">Featured Magazines</a></h5>
 <p>
-<a href="/Magazines/best-deals-showcase.html">Best Deals</a> ,
-<a href="/Magazines/international-magazine-showcase.html">International Magazines</a> ,
-<a href="/Magazines/recommended-showcase.html">Recommended</a>
+<a href="/Magazines/best-deals-showcase.html">Best Deals</a>,
+<a href="/Magazines/international-magazine-showcase.html">International Magazines</a>,
+<a href="/Magazines/recommended-showcase.html">Recommended</a>,
+<a href="/Magazines/best-magazine-showcase.html">Best Selling</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_emagazines">
-</div>
+<a href="/Magazines/">
+<div class="img sprite_language"></div>
+</a>
 <div class="sub-item">
-<h5>Emagazines</h5>
+<h5><a href="/Magazines/">Language</a></h5>
 <p>
-<a href="/eMagazines/">eMagazines</a> ,
-<a href="/indigi">Infibeam Digital Platform</a>
+<a href="/Magazines/search?language=English">English</a>,
+<a href="/Magazines/search?language=Hindi">Hindi</a>,
+<a href="/Magazines/search?language=Bengali">Bengali</a>,
+<a href="/Magazines/search?language=Kannada">Kannada</a>,
+<a href="/Magazines/search?language=Marathi">Marathi</a>
+</p>
+</div>
+</div>
+</div>
+<div class="nav-unit">
+<div class="title">
+<span class="mtitle">
+<a href="/eBooks/">EBOOKS</a>
+</span>
+</div>
+<div class="sub-unit">
+<a href="/eBooks/">
+<div class="img sprite_ebooks"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/eBooks/">EBooks</a></h5>
+<p>
+<a href="/eBooks/engineering-ebooks-showcase.html">Engineering</a>,
+<a href="/eBooks/management-eBooks-showcase.html">Management</a>,
+<a href="/eBooks/science-eBooks-showcase.html">Science</a>,
+<a href="/eBooks/categories/Fiction">Fiction</a>
+</p>
+</div>
+</div>
+</div>
+<div class="nav-unit">
+<div class="title">
+<span class="mtitle">
+<a href="/Office_Supplies/">STATIONERY</a>
+</span>
+</div>
+<div class="sub-unit">
+<a href="/office-supplies">
+<div class="img sprite_school__office_supplies"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/office-supplies">School &amp; Office Supplies</a></h5>
+<p>
+<a href="/pens-pencils">Pens &amp; Pencils</a>,
+<a href="/diaries-notebooks">Diaries &amp; Notebooks</a>,
+<a href="/school-office-art-supplies">Art Supplies</a>,
+<a href="/calculators">Calculators</a>
 </p>
 </div>
 </div>
@@ -580,7 +709,9 @@ bottom:1px;
 </div>
 </div>
 <div id="flyout-marketing">
-<!-- <img class="mkt-image" src="/assets/skins/common/images/marketing/mrk_books.png" />
+<a href="/static/media-offers.html"><div class="mkt-flyout" style="right:180px;">Biggest Kids Carnival!! Grab your own Copy &nbsp;
+<img class="mkt-grey-arrow" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/gray_arrow.png"></div>
+<img class="mkt-image" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_books.png?v=4"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -588,7 +719,6 @@ right:1px;
 bottom:1px;
 }
 </style>
--->
 </div>
 </div>
 </div>
@@ -606,61 +736,61 @@ bottom:1px;
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_laptop">
-</div>
+<a href="/Laptop_Computers_Accessories/">
+<div class="img sprite_laptop"></div>
+</a>
 <div class="sub-item">
-<h5>Laptop</h5>
+<h5><a href="/Laptop_Computers_Accessories/">Laptop</a></h5>
 <p>
-<a href="/Laptop_Computers_Accessories/search?category=Laptop&amp;make=HP">HP</a> ,
-<a href="/Laptop_Computers_Accessories/search?category=Laptop&amp;make=Lenovo">Lenovo</a> ,
-<a href="/Laptop_Computers_Accessories/search?category=Laptop&amp;make=Samsung">Samsung</a> ,
-<a href="/Laptop_Computers_Accessories/search?category=Laptop&amp;make=Dell">Dell</a> ,
-<a href="/Laptop_Computers_Accessories/search?category=Laptop&amp;make=Asus">Asus</a> ,
-<a href="/Laptop_Computers_Accessories/search?category=Laptop&amp;make=Sony">Sony</a> ,
-<a href="/Laptop_Computers_Accessories/search?category=Laptop&amp;make=Acer">Acer</a> ,
-<a href="/Laptop_Computers_Accessories/search?category=Laptop&amp;make=Toshiba">Toshiba</a>
+<a href="/Laptop_Computers_Accessories/search?make=Dell">Dell</a>,
+<a href="/Laptop_Computers_Accessories/search?make=Lenovo">Lenovo</a>,
+<a href="/Laptop_Computers_Accessories/search?make=Sony">Sony</a>,
+<a href="/Laptop_Computers_Accessories/search?make=Samsung">Samsung</a>,
+<a href="/Laptop_Computers_Accessories/search?make=Toshiba">Toshiba</a>,
+<a href="/Laptop_Computers_Accessories/search?make=HP">HP</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_desktops">
-</div>
+<a href="/antivirus-software/">
+<div class="img sprite_antivirus_software"></div>
+</a>
 <div class="sub-item">
-<h5>Desktops</h5>
+<h5><a href="/antivirus-software/">Antivirus Software</a></h5>
 <p>
-<a href="/Desktop_Computers_Accessories/search?make=Acer">Acer</a> ,
-<a href="/Desktop_Computers_Accessories/search?make=Lenovo">Lenovo</a>
+<a href="/antivirus-software/search?make=Norton">Norton</a>,
+<a href="/antivirus-software/search?make=Quick%20Heal">Quick Heal</a>,
+<a href="/antivirus-software/search?make=McAfee">McAfee</a>,
+<a href="/antivirus-software/search?make=Bitdefender">Bitdefender</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_tablets">
-</div>
+<a href="/Monitor_Computers_Accessories/">
+<div class="img sprite_monitors"></div>
+</a>
 <div class="sub-item">
-<h5>Tablets</h5>
+<h5><a href="/Monitor_Computers_Accessories/">Monitors</a></h5>
 <p>
-<a href="/Portable_Electronics/calling-tablets-showcase.html">Calling Tablets</a> ,
-<a href="/tablets/search?make=Apple">Apple iPads</a> ,
-<a href="/tablets/search?make=HCL">HCL</a> ,
-<a href="/tablets/search?make=Samsung">Samsung</a> ,
-<a href="/tablets/search?make=Micromax">Micromax</a> ,
-<a href="/tablets/search?make=Karbonn">Karbonn</a> ,
-<a href="/tablets/search?make=Asus">Asus</a> ,
-<a href="/tablets/search?make=iBall">iBall</a> ,
-<a href="/tablets/search?make=Intex">Intex</a> ,
-<a href="/tablets/search?make=BSNL%20Penta">BSNL Penta</a>
+<a href="/Monitor_Computers_Accessories/search?subCategory=LED">LED</a>,
+<a href="/Monitor_Computers_Accessories/search?subCategory=LCD">LCD</a>,
+<a href="/Monitor_Computers_Accessories/search?make=Dell">Dell</a>,
+<a href="/Monitor_Computers_Accessories/search?make=BenQ">BenQ</a>,
+<a href="/Monitor_Computers_Accessories/search?make=AOC">AOC</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_components">
-</div>
+<a href="/Components_Computers_Accessories/">
+<div class="img sprite_components"></div>
+</a>
 <div class="sub-item">
-<h5>Components</h5>
+<h5><a href="/Components_Computers_Accessories/">Components</a></h5>
 <p>
-<a href="/graphic-cards">Graphic Cards</a> ,
-<a href="/internal-hard-drives">Internal Hard Disk</a> ,
-<a href="/ram-computer-components">RAM</a>
+<a href="/graphic-cards/">Graphic Cards</a>,
+<a href="/ram-computer-components/">RAM</a>,
+<a href="/cooling-pads/">Cooling Pads</a>,
+<a href="/internal-hard-drives/">Internal Hard Drives</a>
 </p>
 </div>
 </div>
@@ -672,58 +802,59 @@ bottom:1px;
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_storage">
-</div>
+<a href="/Accessories_Computers_Accessories/">
+<div class="img sprite_comp_accessories"></div>
+</a>
 <div class="sub-item">
-<h5>Storage</h5>
+<h5><a href="/Accessories_Computers_Accessories/">Comp Accessories</a></h5>
 <p>
-<a href="/Hard_Disk_Computers_Accessories/">Hard Disks</a> ,
-<a href="/Pen_Drives_Computers_Accessories/">Pen Drives</a> ,
-<a href="/mobile-memory-cards">SD Card</a>
+<a href="/Mouse_Keyboard_Computers_Accessories/">Mouse &amp; Keyboards</a>,
+<a href="/Web_Camera_Computers_Accessories/">Webcams</a>,
+<a href="/Speaker_Computers_Accessories/">Speakers</a>,
+<a href="/laptop-batteries/">Batteries</a>,
+<a href="/laptop-bags/">Bags</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_headphones">
-</div>
+<a href="/computer-memory-storage/">
+<div class="img sprite_memory__storage"></div>
+</a>
 <div class="sub-item">
-<h5>HeadPhones</h5>
+<h5><a href="/computer-memory-storage/">Memory &amp; Storage</a></h5>
 <p>
-<a href="/headphones/search?make=Sennheiser">Sennheiser</a> ,
-<a href="/headphones/search?make=JBL">JBL</a> ,
-<a href="/headphones/search?make=Sound%20Magic">Sound Magic</a> ,
-<a href="/headphones/search?make=Skull%20Candy">Skull Candy</a> ,
-<a href="/headphones/search?make=Panasonic">Panasonic</a> ,
-<a href="/headphones/search?make=Philips">Philips</a>
+<a href="/Hard_Disk_Computers_Accessories/">Hard Disks</a>,
+<a href="/sd-cards-memory-storage/">SD Cards</a>,
+<a href="/Pen_Drives_Computers_Accessories/">Pen Drives</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_computer_accessories">
-</div>
+<a href="/Printer_Scanner_Computers_Accessories/">
+<div class="img sprite_printers__scanners"></div>
+</a>
 <div class="sub-item">
-<h5>Computer Accessories</h5>
+<h5><a href="/Printer_Scanner_Computers_Accessories/">Printers &amp; Scanners</a></h5>
 <p>
-<a href="/Monitor_Computers_Accessories/">Monitors</a> ,
-<a href="/Web_Camera_Computers_Accessories/">Web Camera</a> ,
-<a href="/Printer_Scanner_Computers_Accessories/">Printer / Scanner</a> ,
-<a href="/Speaker_Computers_Accessories/">Speakers</a> ,
-<a href="/headphones">Headphones</a> ,
-<a href="/Mouse_Keyboard_Computers_Accessories/">Mouse / Keyboards</a>
+<a href="/Printer_Scanner_Computers_Accessories/search?make=Canon">Canon</a>,
+<a href="/Printer_Scanner_Computers_Accessories/search?make=HP">HP</a>,
+<a href="/Printer_Scanner_Computers_Accessories/search?make=Epson">Epson</a>,
+<a href="/Printer_Scanner_Computers_Accessories/search?make=Samsung">Samsung</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_networking__software">
-</div>
+<a href="/Networking_Computers_Accessories/">
+<div class="img sprite_networking"></div>
+</a>
 <div class="sub-item">
-<h5>Networking &amp; Software</h5>
+<h5><a href="/Networking_Computers_Accessories/">Networking</a></h5>
 <p>
-<a href="/Data_Card_Computers_Accessories/">Data Cards</a> ,
-<a href="/Adapter_Computers_Accessories/search">Adapter</a> ,
-<a href="/routers">Routers</a> ,
-<a href="/ms-office-software">MS Office</a> ,
-<a href="/antivirus-software">Antivirus</a>
+<a href="/routers/">Routers</a>,
+<a href="/Data_Card_Computers_Accessories/">Data Cards</a>,
+<a href="/Adapter_Computers_Accessories/">Adapters</a>,
+<a href="/networking-cables/">Cables</a>,
+<a href="/networking-switches/">Switches</a>
 </p>
 </div>
 </div>
@@ -732,7 +863,9 @@ bottom:1px;
 </div>
 </div>
 <div id="flyout-marketing">
-<!-- <img class="mkt-image" src="/assets/skins/common/images/marketing/mrk_computers.png" />
+<a href="/Hard_Disk_Computers_Accessories/search?sort=asc"><div class="mkt-flyout" style="right:180px;">Hard drives at upto <span style="color:#e47911">45% discount</span> &nbsp;
+<img class="mkt-grey-arrow" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/gray_arrow.png"></div>
+<img class="mkt-image" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_computers.png?v=10"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -740,7 +873,6 @@ right:1px;
 bottom:1px;
 }
 </style>
--->
 </div>
 </div>
 </div>
@@ -758,47 +890,72 @@ bottom:1px;
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_mp3_players">
-</div>
+<a href="/mp3-players/">
+<div class="img sprite_ipods__mp3_players"></div>
+</a>
 <div class="sub-item">
-<h5>MP3 Players</h5>
+<h5><a href="/mp3-players/">iPods &amp; MP3 Players</a></h5>
 <p>
-<a href="/mp3-players/search?make=Philips">Philips</a> ,
-<a href="/mp3-players/search?make=Sony">Sony</a> ,
-<a href="/mp3-players/search?make=Cowon">Cowon</a> ,
-<a href="/mp3-players/search?make=SPC%20Internet">SPC Internet</a> ,
-<a href="/mp3-players/search?make=Transcend">Transcend</a>
+<a href="/ipods/">iPods</a>,
+<a href="/mp3-players/search?make=Sony">Sony</a>,
+<a href="/mp3-players/search?make=Philips">Philips</a>,
+<a href="/mp3-players/search?make=SPC%20Internet">SPC Internet</a>,
+<a href="/mp3-players/search?make=Cowon">Cowon</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_tablets">
-</div>
+<a href="/Portable_Electronics/">
+<div class="img sprite_featured_stores"></div>
+</a>
 <div class="sub-item">
-<h5>Tablets</h5>
+<h5><a href="/Portable_Electronics/">Featured Stores</a></h5>
 <p>
-<a href="/Portable_Electronics/calling-tablets-showcase.html">Calling Tablets</a> ,
-<a href="/tablets/search?make=Apple">Apple iPads</a> ,
-<a href="/tablets/search?make=HCL">HCL</a> ,
-<a href="/tablets/search?make=Samsung">Samsung</a> ,
-<a href="/tablets/search?make=Micromax">Micromax</a> ,
-<a href="/tablets/search?make=Karbonn">Karbonn</a> ,
-<a href="/tablets/search?make=Asus">Asus</a> ,
-<a href="/tablets/search?make=iBall">iBall</a> ,
-<a href="/tablets/search?make=Intex">Intex</a> ,
-<a href="/tablets/search?make=BSNL%20Penta">BSNL Penta</a>
+<a href="/headphones/">Headphones</a>,
+<a href="/speakers/">Speakers</a>,
+<a href="/docks-speakers/">Docks</a>,
+<a href="/portable-power/">Power Bank</a>,
+<a href="/karaoke-recorders/">Karaoke, FM &amp; Recorders</a>,
+<a href="/video-players/">Video Players</a>
+</p>
+</div>
+</div>
+</div>
+<div class="nav-unit">
+<div class="title">
+<span class="mtitle">
+<a href="/Gaming_Consoles/">GAMING</a>
+</span>
+</div>
+<div class="sub-unit">
+<a href="/gaming-consoles-handheld/">
+<div class="img sprite_consoles"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/gaming-consoles-handheld/">Consoles</a></h5>
+<p>
+<a href="/gaming-consoles-handheld/search?platform=PS2">PS2</a>,
+<a href="/gaming-consoles-handheld/search?platform=PS3">PS3</a>,
+<a href="/gaming-consoles-handheld/search?platform=PSP">PSP</a>,
+<a href="/gaming-consoles-handheld/search?platform=PS">PS Vita</a>,
+<a href="/gaming-consoles-handheld/search?platform=Xbox-360">Xbox 360</a>,
+<a href="/gaming-consoles-handheld/search?subCategory=Handheld%20Games">Handheld</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_featured">
-</div>
+<a href="/games/">
+<div class="img sprite_games_by_platform"></div>
+</a>
 <div class="sub-item">
-<h5>Featured</h5>
+<h5><a href="/games/">Games by Platform</a></h5>
 <p>
-<a href="/ipods">iPods</a> ,
-<a href="/ipad">iPads</a> ,
-<a href="/headphones">Headphones</a>
+<a href="/ps2-games/">PS2</a>,
+<a href="/ps3-games/">PS3</a>,
+<a href="/psp-games/">PSP</a>,
+<a href="/wii-games/">Wii</a>,
+<a href="/xbox-360-games/">Xbox 360</a>,
+<a href="/pc-games/">PC Games</a>
 </p>
 </div>
 </div>
@@ -810,42 +967,31 @@ bottom:1px;
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_television">
-</div>
+<a href="/TVs_Home_Entertainment/">
+<div class="img sprite_television"></div>
+</a>
 <div class="sub-item">
-<h5>Television</h5>
+<h5><a href="/TVs_Home_Entertainment/">Television</a></h5>
 <p>
-<a href="/TVs_Home_Entertainment/search?make=Sony">Sony</a> ,
-<a href="/TVs_Home_Entertainment/search?make=Panasonic">Panasonic</a> ,
-<a href="/TVs_Home_Entertainment/search?make=LG">LG</a> ,
-<a href="/TVs_Home_Entertainment/search?make=Samsung">Samsung</a> ,
-<a href="/led-tv">LED</a> ,
-<a href="/3d-tv">3D</a> ,
-<a href="/lcd-tv">LCD</a> ,
-<a href="/plasma-tv">Plasma</a>
+<a href="/lcd-tv/">LCD</a>,
+<a href="/led-tv/">LED</a>,
+<a href="/3d-tv/">3D</a>,
+<a href="/plasma-tv/">Plasma</a>,
+<a href="/hd-tv/">HD</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_video">
-</div>
+<a href="/Home_Entertainment/">
+<div class="img sprite_featured_stores"></div>
+</a>
 <div class="sub-item">
-<h5>Video</h5>
+<h5><a href="/Home_Entertainment/">Featured Stores</a></h5>
 <p>
-<a href="/DVD_Players_Home_Entertainment/">DVD Players</a> ,
-<a href="/Home_Theatre_Home_Entertainment/">Home Theatre</a> ,
-<a href="/Blu_Ray_Player_Home_Entertainment/search">Blu-Ray Players</a>
-</p>
-</div>
-</div>
-<div class="sub-unit">
-<div class="img sprite_audio">
-</div>
-<div class="sub-item">
-<h5>Audio</h5>
-<p>
-<a href="/Music_System_Home_Entertainment/">Music System</a> ,
-<a href="/Stereo_Amplifiers_Home_Entertainment/">Stereo Amplifiers</a>
+<a href="/DVD_Players_Home_Entertainment/">DVD Players</a>,
+<a href="/Home_Theatre_Home_Entertainment/">Home Theatres</a>,
+<a href="/Music_System_Home_Entertainment/">Music Systems</a>,
+<a href="/Blu_Ray_Player_Home_Entertainment/search">Blu Ray Players</a>
 </p>
 </div>
 </div>
@@ -853,46 +999,37 @@ bottom:1px;
 <div class="nav-unit">
 <div class="title">
 <span class="mtitle">
-<a href="/Gaming_Consoles/">GAMING CONSOLES</a>
+<a href="/Gaming_Consoles/">GAMING ACCESSORIES</a>
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_gaming">
-</div>
+<a href="/gaming-accessories/">
+<div class="img sprite_game_accessories"></div>
+</a>
 <div class="sub-item">
-<h5>Gaming</h5>
+<h5><a href="/gaming-accessories/">Game Accessories</a></h5>
 <p>
-<a href="/gaming-consoles-handheld">Game Consoles</a> ,
-<a href="/games">Games CDs/DVDs</a> ,
-<a href="/gaming-accessories">Accessories</a> ,
-<a href="/gaming-controllers-guns">Controllers &amp; Guns</a> ,
-<a href="/pc-games">PC Games</a>
+<a href="/gaming-controllers-guns/">Controllers &amp; Guns</a>,
+<a href="/gaming-mouse-mousepads/">Mouse &amp; Pads</a>,
+<a href="/gaming-headsets/">Headsets</a>,
+<a href="/gaming-keyboards/">Keyboards</a>,
+<a href="/gaming-cases-cables-chargers/">Cases &amp; Cables</a>,
+<a href="/gaming-kits">Gaming Kits</a>
 </p>
 </div>
 </div>
-</div>
-<div class="nav-unit">
-<div class="title">
-<span class="mtitle">
-<a href="/Home_Appliances/">HOME APPLIANCES</a>
-</span>
-</div>
 <div class="sub-unit">
-<div class="img sprite_home_appliances">
-</div>
+<a href="/gaming-components/">
+<div class="img sprite_game_components"></div>
+</a>
 <div class="sub-item">
-<h5>Home Appliances</h5>
+<h5><a href="/gaming-components/">Game Components</a></h5>
 <p>
-<a href="/Air_Cooler_Home_Appliances/">Air Cooler</a> ,
-<a href="/Fan_Home_Appliances/">Fan</a> ,
-<a href="/Home_Security_Home_Appliances/">Home Security</a> ,
-<a href="/Home_Tools_Home_Appliances/search">Home Tools</a> ,
-<a href="/Iron_Home_Appliances/">Iron</a> ,
-<a href="/Vacuum_Cleaner_Home_Appliances/">Vacuum Cleaner</a> ,
-<a href="/Water_Purifiers_Home_Appliances/">Water Purifiers</a> ,
-<a href="/Air_Conditioner_Home_Appliances/">Air Conditioners</a> ,
-<a href="/Washing_Machine_Home_Appliances/">Washing Machines</a> ,
-<a href="/Refrigerator_Home_Appliances/">Refrigerators</a>
+<a href="/gaming-graphic-cards">Graphic Cards</a>,
+<a href="/gaming-cabinets/">Cabinets</a>,
+<a href="/gaming-power-supply-units/">Power Supply Units</a>,
+<a href="/gaming-ram/">RAM</a>,
+<a href="/gaming-fans-heat-sinks/">Fans &amp; Heat Sinks</a>
 </p>
 </div>
 </div>
@@ -901,7 +1038,9 @@ bottom:1px;
 </div>
 </div>
 <div id="flyout-marketing">
-<!-- <img class="mkt-image" src="/assets/skins/common/images/marketing/mrk_electronics.png" />
+<a href="/Home_Entertainment/best-offers-showcase.html"><div class="mkt-flyout" style="right:150px;">Flat screen TVs starting at <span style="color:#e47911">Rs.8899</span> &nbsp;
+<img class="mkt-grey-arrow" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/gray_arrow.png"></div>
+<img class="mkt-image" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_electronics_1.png"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -909,7 +1048,6 @@ right:1px;
 bottom:1px;
 }
 </style>
--->
 </div>
 </div>
 </div>
@@ -927,35 +1065,137 @@ bottom:1px;
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_gift_types">
-</div>
+<a href="/Cakes_Gifts/">
+<div class="img sprite_cakes"></div>
+</a>
 <div class="sub-item">
-<h5>Gift Types</h5>
+<h5><a href="/Cakes_Gifts/">Cakes</a></h5>
 <p>
-<a href="/Cakes_Gifts/">Cakes</a> ,
-<a href="/Chocolates_Gifts/">Chocolates</a> ,
-<a href="/Combos_Gifts/">Combos</a> ,
-<a href="/Flowers_Gifts/">Flowers</a> ,
-<a href="/Dry_Fruits_Gifts/">Dry Fruits</a> ,
-<a href="/Fruits_Gifts/">Fruits</a> ,
-<a href="/Sweets_Gifts/">Sweets</a> ,
-<a href="/Soft_Toys_Gifts/"> Soft Toys</a> ,
-<a href="/Gift_Certificates_Gifts/">Gift Certificates</a>
+<a href="/Cakes_Gifts/search?category=Eggless">Eggless</a>,
+<a href="/Cakes_Gifts/search?type=Blackforest">Blackforest</a>,
+<a href="/Cakes_Gifts/search?type=Butterscotch">Butterscotch</a>,
+<a href="/Cakes_Gifts/search?type=Chocolate">Chocolate</a>,
+<a href="/Cakes_Gifts/search?type=Vanilla">Vanilla</a>,
+<a href="/Cakes_Gifts/search?type=Pineapple">Pineapple</a>,
+<a href="/Cakes_Gifts/search?type=Strawberry">Strawberry</a>,
+<a href="/Cakes_Gifts/search?type=Cheese">Cheese</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_gift_ideas">
-</div>
+<a href="/Chocolates_Gifts/">
+<div class="img sprite_chocolates"></div>
+</a>
 <div class="sub-item">
-<h5>Gift Ideas</h5>
+<h5><a href="/Chocolates_Gifts/">Chocolates</a></h5>
 <p>
-<a href="/Combos_Gifts/search?delivery=Same%20Day%20Delivery">Same Day Delivery</a> ,
-<a href="/Combos_Gifts/search?delivery=Regular%20Delivery">Regular Delivery</a> ,
-<a href="/Combos_Gifts/search?delivery=Midnight%20Delivery">Midnight Delivery</a> ,
-<a href="/Gifts/low-price-showcase.html">Low Price Gifts</a> ,
-<a href="/Gifts/free-gifts-showcase.html">Free Gifts</a> ,
+<a href="/Gifts/dark-chocolates-showcase.html">Dark Chocolates</a>,
+<a href="/Gifts/milk-chocolates-showcase.html">Milk Chocolates</a>,
+<a href="/Gifts/chocolate-combos-gift-showcase.html">Chocolate Gift Box</a>,
+<a href="/Gifts/heart-chocolates-showcase.html">Heart Shaped</a>,
+<a href="/Gifts/ferrero-rocher-showcase.html">Ferrero Rocher</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/Sweets_Gifts/">
+<div class="img sprite_sweets"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Sweets_Gifts/">Sweets</a></h5>
+<p>
+<a href="/Sweets_Gifts/search?type=Barfi">Barfi</a>,
+<a href="/Sweets_Gifts/search?type=Halwa">Halwa</a>,
+<a href="/Sweets_Gifts/search?type=Kaju%20Katli">Kaju Katli</a>,
+<a href="/Sweets_Gifts/search?type=Kaju%20Roll">Kaju Roll</a>,
+<a href="/Sweets_Gifts/search?type=Ladoo">Ladoo</a>,
+<a href="/Sweets_Gifts/search?type=Mango%20Sweets">Mango Sweets</a>,
+<a href="/Sweets_Gifts/search?type=Modak">Modak</a>,
+<a href="/Sweets_Gifts/search?type=Peda">Peda</a>,
+<a href="/Sweets_Gifts/search?type=Sugarfree%20Sweets">Sugarfree Sweets</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/Dry_Fruits_Gifts/">
+<div class="img sprite_dry_fruits"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Dry_Fruits_Gifts/">Dry Fruits</a></h5>
+<p>
+<a href="/Dry_Fruits_Gifts/search?type=Almonds">Almonds</a>,
+<a href="/Dry_Fruits_Gifts/search?type=Cashews">Cashews</a>,
+<a href="/Dry_Fruits_Gifts/search?type=Mix">Mix Dry Fruits</a>
+</p>
+</div>
+</div>
+</div>
+<div class="nav-unit">
+<div class="title">
+<span class="mtitle">
+<a href="/Gifts/">SPECIAL GIFTS</a>
+</span>
+</div>
+<div class="sub-unit">
+<a href="/Flowers_Gifts/">
+<div class="img sprite_flowers"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Flowers_Gifts/">Flowers</a></h5>
+<p>
+<a href="/Flowers_Gifts/search?type=Roses">Roses</a>,
+<a href="/Flowers_Gifts/search?type=Lilies">Lilies</a>,
+<a href="/Flowers_Gifts/search?type=Gerberas">Gerberas</a>,
+<a href="/Flowers_Gifts/search?type=Carnations">Carnations</a>,
+<a href="/Flowers_Gifts/search?type=Orchids">Orchids</a>,
+<a href="/Flowers_Gifts/search?category=Bunch">Flower Bunch</a>,
+<a href="/Flowers_Gifts/search?category=Basket">Flower Basket</a>,
+<a href="/Flowers_Gifts/search?category=Arrangement">Flower Arrangement</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/Combos_Gifts/">
+<div class="img sprite_combo_gifts"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Combos_Gifts/">Combo Gifts</a></h5>
+<p>
+<a href="/Gifts/gift-baskets-combos-showcase.html">Gift Baskets</a>,
+<a href="/Gifts/gift-hampers-combos-showcase.html">Gifts Hampers</a>,
+<a href="/Gifts/cakes-flowers-combos-showcase.html">Flowers with Cake</a>,
+<a href="/Gifts/flowers-chocolates-combos-showcase.html">Flowers with Chocolates</a>,
+<a href="/Gifts/flowers-teddy-combos-showcase.html">Flowers with Teddy</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/Gifts/best-gift-ideas-showcase.html">
+<div class="img sprite_gift_ideas"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Gifts/best-gift-ideas-showcase.html">Gift Ideas</a></h5>
+<p>
+<a href="/Combos_Gifts/search?delivery=Same%20Day%20Delivery">Same Day Delivery</a>,
+<a href="/Combos_Gifts/search?delivery=Every%20Hour%20and%20Day">Every Hour &amp; Day</a>,
+<a href="/Combos_Gifts/search?delivery=Midnight%20Delivery">Midnight Delivery</a>,
+<a href="/Gifts/free-gifts-showcase.html">Gifts with freebies</a>,
 <a href="/Gifts/best-deals-showcase.html">Best Deals</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/Gift_Certificates_Gifts/">
+<div class="img sprite_gift_vouchers"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Gift_Certificates_Gifts/">Gift Vouchers</a></h5>
+<p>
+<a href="/Gift_Certificates_Gifts/search?category=Apparel">Apparel</a>,
+<a href="/Gift_Certificates_Gifts/search?category=Accessories">Accessories</a>,
+<a href="/Gift_Certificates_Gifts/search?category=Watches">Watches</a>,
+<a href="/Gift_Certificates_Gifts/search?category=Jewellery">Jewellery</a>,
+<a href="/Gift_Certificates_Gifts/search?category=Bags">Bags</a>
 </p>
 </div>
 </div>
@@ -964,7 +1204,9 @@ bottom:1px;
 </div>
 </div>
 <div id="flyout-marketing">
-<!-- <img class="mkt-image" src="/assets/skins/common/images/marketing/mrk_gifts.png" />
+<a href="/Cakes_Gifts/search?occasion=Birthday%20Gifts"><div class="mkt-flyout" style="right:150px;"> Make your beloved's birthday special &nbsp;
+<img class="mkt-grey-arrow" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/gray_arrow.png"></div>
+<img class="mkt-image" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_gifts.png?v=2"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -972,7 +1214,6 @@ right:1px;
 bottom:1px;
 }
 </style>
--->
 </div>
 </div>
 </div>
@@ -990,43 +1231,48 @@ bottom:1px;
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_cameras">
-</div>
+<a href="/Cameras/">
+<div class="img sprite_camera_brands"></div>
+</a>
 <div class="sub-item">
-<h5>Cameras</h5>
+<h5><a href="/Cameras/">Camera Brands</a></h5>
 <p>
-<a href="/Cameras/search?make=Canon">Canon</a> ,
-<a href="/Cameras/search?make=Nikon">Nikon</a> ,
-<a href="/Cameras/search?make=FujiFilm">Fujifilm</a> ,
-<a href="/Cameras/search?make=Sony">Sony</a> ,
-<a href="/Cameras/search?make=Olympus">Olympus</a> ,
+<a href="/Cameras/search?make=Canon">Canon</a>,
+<a href="/Cameras/search?make=Sony">Sony</a>,
+<a href="/Cameras/search?make=Nikon">Nikon</a>,
+<a href="/Cameras/search?make=Samsung">Samsung</a>,
+<a href="/Cameras/search?make=Olympus">Olympus</a>,
 <a href="/Cameras/search?make=Panasonic">Panasonic</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_camera_types">
-</div>
+<a href="/Cameras/">
+<div class="img sprite_camera_types"></div>
+</a>
 <div class="sub-item">
-<h5>Camera Types</h5>
+<h5><a href="/Cameras/">Camera Types</a></h5>
 <p>
-<a href="/dslr-cameras">DSLR</a> ,
-<a href="/Cameras/search?subCategory=Point%20and%20Shoot">Point and Shoot</a> ,
-<a href="/mirrorless-cameras">Mirrorless</a> ,
-<a href="/camcorders">Camcorders</a>
+<a href="/dslr-cameras/">DSLR</a>,
+<a href="/compact-cameras">Compact</a>,
+<a href="/semi-slr-cameras/">Semi SLR</a>,
+<a href="/mirrorless-cameras/">Mirrorless</a>,
+<a href="/camcorders/">Camcorders</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_featured_cameras">
-</div>
+<a href="/Cameras/">
+<div class="img sprite_featured_stores"></div>
+</a>
 <div class="sub-item">
-<h5>Featured Cameras</h5>
+<h5><a href="/Cameras/">Featured Stores</a></h5>
 <p>
-<a href="/Cameras/best-digital-camera-showcase.html">Best Selling</a> ,
-<a href="/Cameras/recommended-showcase.html">Recommended</a> ,
-<a href="/Cameras/best-camera-deals-showcase.html">Best Deals</a> ,
-<a href="/Cameras/latest-digital-camera-showcase.html">Latest Cameras</a>
+<a href="/Cameras/best-digital-camera-showcase.html">Best Selling</a>,
+<a href="/Cameras/best-camera-deals-showcase.html">Best Deals</a>,
+<a href="/Cameras/latest-digital-camera-showcase.html">Latest Cameras</a>,
+<a href="/Cameras/low-price-showcase.html">Budget Cameras</a>,
+<a href="/Cameras/recommended-showcase.html">Recommended</a>
 </p>
 </div>
 </div>
@@ -1034,44 +1280,50 @@ bottom:1px;
 <div class="nav-unit">
 <div class="title">
 <span class="mtitle">
-<a href="/Camera_Accessories/search">CAMERA ACCESSORIES</a>
+<a href="/Camera_Accessories/">CAMERA ACCESSORIES</a>
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_lens">
-</div>
+<a href="/camera-lenses/">
+<div class="img sprite_lens"></div>
+</a>
 <div class="sub-item">
-<h5>Lens</h5>
+<h5><a href="/camera-lenses/">Lens</a></h5>
 <p>
-<a href="/camera-lenses/search?make=Tamron">Tamron</a> ,
-<a href="/camera-lenses/search?make=Tokina">Tokina</a> ,
-<a href="/camera-lenses/search?make=FujiFilm">FujiFilm</a>
+<a href="/camera-lenses/search?make=FujiFilm">FujiFilm</a>,
+<a href="/camera-lenses/search?make=Tamron">Tamron</a>,
+<a href="/camera-lenses/search?make=Tokina">Tokina</a>,
+<a href="/camera-lenses/search?make=Nikon">Nikon</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_memory_cards">
-</div>
+<a href="/camera-memory-cards/">
+<div class="img sprite_memory_cards"></div>
+</a>
 <div class="sub-item">
-<h5>Memory Cards</h5>
+<h5><a href="/camera-memory-cards/">Memory Cards</a></h5>
 <p>
-<a href="/camera-memory-cards/search?make=SanDisk">SanDisk</a> ,
-<a href="/camera-memory-cards/search?make=Sony">Sony</a> ,
+<a href="/camera-memory-cards/search?make=Sony">Sony</a>,
+<a href="/camera-memory-cards/search?make=SanDisk">SanDisk</a>,
+<a href="/camera-memory-cards/search?make=Transcend">Transcend</a>,
 <a href="/camera-memory-cards/search?make=Verbatim">Verbatim</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_camera_accessories">
-</div>
+<a href="/Camera_Accessories/">
+<div class="img sprite_camera_accessories"></div>
+</a>
 <div class="sub-item">
-<h5>Camera Accessories</h5>
+<h5><a href="/Camera_Accessories/">Camera Accessories</a></h5>
 <p>
-<a href="/camera-tripods-monopods">Tripods &amp; Monopods</a> ,
-<a href="/camera-batteries-chargers">Batteries &amp; Chargers</a> ,
-<a href="/digital-photo-frames">Digital Frames</a> ,
-<a href="/camera-cases-carry-bags">Cases</a> ,
-<a href="/camera-backpacks-straps">Backpacks</a>
+<a href="/camera-batteries-chargers/">Batteries &amp; Chargers</a>,
+<a href="/camera-tripods-monopods/">Tripods</a>,
+<a href="/camera-backpacks-straps/">Backpacks</a>,
+<a href="/camera-cases-carry-bags/">Cases &amp; Carry Bags</a>,
+<a href="/camera-filters/">Filters</a>,
+<a href="/camera-optics-binoculars/">Optics &amp; Binoculars</a>
 </p>
 </div>
 </div>
@@ -1080,7 +1332,9 @@ bottom:1px;
 </div>
 </div>
 <div id="flyout-marketing">
-<!-- <img class="mkt-image" src="/assets/skins/common/images/marketing/mrk_cameras.png" />
+<a href="/Cameras/search?make=Nikon&amp;sort=asc"><div class="mkt-flyout" style="right:150px;">Nikon cameras starting at <span style="color:#e47911">Rs.4840</span> &nbsp;
+<img class="mkt-grey-arrow" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/gray_arrow.png"></div>
+<img class="mkt-image" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_cameras.png?v=8"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -1088,7 +1342,6 @@ right:1px;
 bottom:1px;
 }
 </style>
--->
 </div>
 </div>
 </div>
@@ -1102,35 +1355,65 @@ bottom:1px;
 <div class="nav-unit">
 <div class="title">
 <span class="mtitle">
-<a href="/Apparel/">APPAREL &amp; FOOTWEAR</a>
+<a href="/Home-Lifestyle/">FASHION</a>
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_clothing">
-</div>
+<a href="/Apparel/">
+<div class="img sprite_mens_clothing"></div>
+</a>
 <div class="sub-item">
-<h5>Clothing</h5>
+<h5><a href="/Apparel/">Mens Clothing</a></h5>
 <p>
-<a href="/Apparel/search?category=Men">Men</a> ,
-<a href="/Apparel/search?category=Women">Women</a> ,
-<a href="/Apparel/search?category=Boys">Boys</a> ,
-<a href="/Apparel/search?category=Girls">Girls</a> ,
-<a href="/Apparel/search?category=Unisex">Unisex</a>
+<a href="/shirts/">Shirts</a>,
+<a href="/polos-tshirts/">Polos &amp; T-Shirts</a>,
+<a href="/jeans-trousers/">Jeans &amp; Trousers</a>,
+<a href="/suits-jackets-blazers/">Suits &amp; Blazers</a>,
+<a href="/tracksuits-sportswear/">Tracksuits &amp; Sportwear</a>,
+<a href="/cargo-shorts/">Cargos &amp; Shorts</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_footwear">
-</div>
+<a href="/Apparel/">
+<div class="img sprite_womens_clothing"></div>
+</a>
 <div class="sub-item">
-<h5>Footwear</h5>
+<h5><a href="/Apparel/">Womens Clothing</a></h5>
 <p>
-<a href="/Footwear/search?category=Men">Men</a> ,
-<a href="/Footwear/search?category=Women">Women</a> ,
-<a href="/Footwear/search?category=Unisex">Unisex</a> ,
-<a href="/Footwear/search?style=Shoes">Shoes</a> ,
-<a href="/Footwear/search?style=Sandals">Sandals</a> ,
-<a href="/Footwear/search?style=Slippers">Slippers</a>
+<a href="/sarees-lehengas/">Sarees &amp; Lehengas</a>,
+<a href="/salwar-kameez-churidar/">Salwar Kameez &amp; Churidar</a>,
+<a href="/kurta-kurtis/">Kurta &amp; Kurtis</a>,
+<a href="/dress-material/">Dress Material</a>,
+<a href="/ethnic-wear/">Ethnic Wear</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/Footwear/">
+<div class="img sprite_footwear"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Footwear/">Footwear</a></h5>
+<p>
+<a href="/casual-footwear/">Casual</a>,
+<a href="/formal-footwear/">Formal</a>,
+<a href="/sports-footwear/">Sports</a>,
+<a href="/flip-flops-slippers-chappals/">Flip Flops</a>,
+<a href="/school-shoes/">School Shoes</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/Eyewear/">
+<div class="img sprite_eyewear"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Eyewear/">Eyewear</a></h5>
+<p>
+<a href="/sunglasses/">Sunglasses</a>,
+<a href="/eyeglasses/">Eyeglasses</a>,
+<a href="/Eyewear/Offers.xhtml">Special Offers</a>
 </p>
 </div>
 </div>
@@ -1138,104 +1421,70 @@ bottom:1px;
 <div class="nav-unit">
 <div class="title">
 <span class="mtitle">
-<a href="/Apparel_Accessories/">FASHION ACCESSORIES</a>
+<a href="/Home-Lifestyle/">FASHION ACCESSORIES</a>
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_accessories">
-</div>
+<a href="/Apparel_Accessories/">
+<div class="img sprite_clothing_accessories"></div>
+</a>
 <div class="sub-item">
-<h5>Accessories</h5>
+<h5><a href="/Apparel_Accessories/">Clothing Accessories</a></h5>
 <p>
-<a href="/wallets-belts-clutches">Belts, Wallets &amp; CLutches</a> ,
-<a href="/ties-cufflinks">Ties &amp; Cufflinks</a> ,
-<a href="/scarves-mufflers-stoles">Scarves, Mufflers &amp; Stoles</a>
+<a href="/wallets-belts-clutches/">Belts, Wallets &amp; Clutches</a>,
+<a href="/ties-cufflinks/">Ties &amp; Cuflinks</a>,
+<a href="/socks-handkerchiefs/">Socks &amp; Handkerchiefs</a>,
+<a href="/scarves-mufflers-stoles/">Scarves, Mufflers &amp; Stoles</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_personal_care__beauty">
-</div>
+<a href="/Beauty/">
+<div class="img sprite_personal_care__beauty"></div>
+</a>
 <div class="sub-item">
-<h5>Personal Care &amp; Beauty</h5>
+<h5><a href="/Beauty/">Personal Care &amp; Beauty</a></h5>
 <p>
-<a href="/perfumes-deodorants">Perfumes &amp; Deodorants</a> ,
-<a href="/skin-care-products">Skin Care</a> ,
-<a href="/body-care-products">Body Care</a> ,
-<a href="/hair-care-products">Hair Care</a> ,
-<a href="/beauty-gift-hampers">Cosmetics</a>
-</p>
-</div>
-</div>
-</div>
-<div class="nav-unit">
-<div class="title">
-<span class="mtitle">
-<a href="/Watches/">WATCHES &amp; EYEWEAR</a>
-</span>
-</div>
-<div class="sub-unit">
-<div class="img sprite_watches">
-</div>
-<div class="sub-item">
-<h5>Watches</h5>
-<p>
-<a href="/Watches/search?make=Fastrack">Fastrack</a> ,
-<a href="/Watches/search?make=Titan">Titan</a> ,
-<a href="/Watches/search?make=Timex">Timex</a> ,
-<a href="/Watches/search?make=Casio">Casio</a> ,
-<a href="/Watches/search?make=Tissot">Tissot</a> ,
-<a href="/Watches/search?category=Gents">Gents</a> ,
-<a href="/Watches/search?category=Ladies">Ladies</a> ,
-<a href="/Watches/search?category=Kids">Kids</a> ,
-<a href="/Watches/search?category=Unisex">Unisex</a>
+<a href="/perfumes-deodorants/">Perfumes &amp; Deodorants</a>,
+<a href="/shaving-products/">Shaving</a>,
+<a href="/face-care-products/">Face Care</a>,
+<a href="/skin-care-products/">Skin Care</a>,
+<a href="/hair-care-products/">Hair Care</a>,
+<a href="/body-care-products/">Body Care</a>,
+<a href="/bath-spa-products/">Bath &amp; Spa</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_eyewear">
-</div>
+<a href="/Jewellery/">
+<div class="img sprite_jewellery"></div>
+</a>
 <div class="sub-item">
-<h5>Eyewear</h5>
+<h5><a href="/Jewellery/">Jewellery</a></h5>
 <p>
-<a href="/sunglasses">Sunglasses</a> ,
-<a href="/Eyewear/search?productType=Spectacles">Spectacles</a> ,
-<a href="/Eyewear/search?category=Men">Men</a> ,
-<a href="/Eyewear/search?category=Women">Women</a> ,
-<a href="/Eyewear/search?category=Unisex">Unisex</a>
-</p>
-</div>
-</div>
-</div>
-<div class="nav-unit">
-<div class="title">
-<span class="mtitle">
-<a href="/Jewellery/">BAGS &amp; JEWELLERY</a>
-</span>
-</div>
-<div class="sub-unit">
-<div class="img sprite_bags">
-</div>
-<div class="sub-item">
-<h5>Bags</h5>
-<p>
-<a href="/fashion-backpacks">Backpacks</a> ,
-<a href="/trolley-bags">Trolley Bags</a> ,
-<a href="/school-bags">School Bags</a>
+<a href="/bracelets/">Bracelets</a>,
+<a href="/jewellery-sets/">Jewellery Sets</a>,
+<a href="/chains-jewellery/">Chains</a>,
+<a href="/earrings/">Earrings</a>,
+<a href="/necklaces/">Necklaces</a>,
+<a href="/pendants/">Pendants</a>,
+<a href="/rings-jewellery/">Rings</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_jewellery">
-</div>
+<a href="/Travel_Accessories/">
+<div class="img sprite_travel__bags"></div>
+</a>
 <div class="sub-item">
-<h5>Jewellery</h5>
+<h5><a href="/Travel_Accessories/">Travel &amp; Bags</a></h5>
 <p>
-<a href="/necklaces">Necklaces</a> ,
-<a href="/mangalsutra">Mangalsutra</a> ,
-<a href="/rings-jewellery">Rings</a> ,
-<a href="/bracelets">Bracelets</a> ,
-<a href="/coins-bars">Coins</a>
+<a href="/trolley-bags/">Trolley Bags</a>,
+<a href="/travel-laptop-bags/">Laptop Bags</a>,
+<a href="/backpacks-sling-bags/">Backpacks &amp; Sling Bags</a>,
+<a href="/duffle-bags/">Duffle Bags</a>,
+<a href="/fashion-backpacks/">Fashion Backpacks</a>,
+<a href="/handbags-clutches/">Clutches</a>
 </p>
 </div>
 </div>
@@ -1244,7 +1493,9 @@ bottom:1px;
 </div>
 </div>
 <div id="flyout-marketing">
-<!-- <img class="mkt-image" src="/assets/skins/common/images/marketing/mrk_fashion.png" />
+<a href="/suits-jackets-blazers"><div class="mkt-flyout" style="right:240px;">Add Colors &amp; Style to your Winter Wardrobe &nbsp;
+<img class="mkt-grey-arrow" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/gray_arrow.png"></div>
+<img class="mkt-image" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_fashion.png?v=6"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -1252,7 +1503,6 @@ right:1px;
 bottom:1px;
 }
 </style>
--->
 </div>
 </div>
 </div>
@@ -1266,61 +1516,56 @@ bottom:1px;
 <div class="nav-unit">
 <div class="title">
 <span class="mtitle">
-<a href="/Home_Furnishing/">HOME</a>
+<a href="/home-decor-appliances-kitchenware/">HOME APPLIANCES &amp; DECOR</a>
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_home_furnishing">
-</div>
+<a href="/Home_Appliances/">
+<div class="img sprite_home_appliances"></div>
+</a>
 <div class="sub-item">
-<h5>Home Furnishing</h5>
+<h5><a href="/Home_Appliances/">Home Appliances</a></h5>
 <p>
-<a href="/home-furnishings">Bedding</a> ,
-<a href="/home-decor-accessories">Showpieces</a> ,
-<a href="/Home_Furnishing/search?category=Curtains">Curtains</a> ,
-<a href="/Home_Furnishing/search?category=Furniture">Furniture</a> ,
-<a href="/Home_Furnishing/search?category=Paintings">Paintings</a> ,
-<a href="/home-decorative-items">Wall Decor</a>
+<a href="/Washing_Machine_Home_Appliances/">Washing Machines</a>,
+<a href="/Refrigerator_Home_Appliances/">Refrigerators</a>,
+<a href="/Air_Conditioner_Home_Appliances/">Air Conditioners</a>,
+<a href="/Iron_Home_Appliances/">Irons</a>,
+<a href="/Vacuum_Cleaner_Home_Appliances/">Vacuum Cleaners</a>,
+<a href="/Geysers_Home_Appliances/">Geysers</a>,
+<a href="/Heaters_Home_Appliances/">Room Heaters</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_home_accessories">
-</div>
+<a href="/Home_Furnishing/">
+<div class="img sprite_home_furnishing"></div>
+</a>
 <div class="sub-item">
-<h5>Home Accessories</h5>
+<h5><a href="/Home_Furnishing/">Home Furnishing</a></h5>
 <p>
-<a href="/Home_Furnishing/search?category=Clamp%20Lamp">Clamp lamp</a> ,
-<a href="/Home_Furnishing/search?category=Wall%20Clock">Wall Clock</a> ,
-<a href="/Home_Furnishing/search?category=Wall%20Lamp">Wall Lamp</a> ,
-<a href="/Home_Furnishing/search?category=Table%20Mat">Table Mat</a> ,
-<a href="/Home_Furnishing/search?contents=Cushion%20Covers">Cushion Covers</a> ,
-<a href="/Home_Furnishing/search?contents=Lantern">Lantern</a> ,
-<a href="/Home_Furnishing/search?contents=Hookah">Hookah</a> ,
-<a href="/Home_Furnishing/search?contents=White%20Marble">White Marble</a>
+<a href="/bed-sheets/">Bed Sheets</a>,
+<a href="/cushion-covers/">Cushion &amp; Covers</a>,
+<a href="/blankets-quilts/">Blankets &amp; Quilts</a>,
+<a href="/window-curtains/">Curtains</a>,
+<a href="/door-mats/">Doormats</a>,
+<a href="/bath-accessories/">Bathroom Accessories</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_home_appliances">
-</div>
+<a href="/home-decor-accessories/">
+<div class="img sprite_home_decor"></div>
+</a>
 <div class="sub-item">
-<h5>Home Appliances</h5>
+<h5><a href="/home-decor-accessories/">Home Decor</a></h5>
 <p>
-<a href="/Air_Cooler_Home_Appliances/">Air Cooler</a> ,
-<a href="/Emergency_Light_Home_Appliances/">Emergency Light</a> ,
-<a href="/Fan_Home_Appliances/">Fan</a> ,
-<a href="/Heaters_Home_Appliances/">Heaters</a> ,
-<a href="/Home_Security_Home_Appliances/">Home Security</a> ,
-<a href="/Home_Tools_Home_Appliances/search">Home Tools</a> ,
-<a href="/Iron_Home_Appliances/">Iron</a> ,
-<a href="/Home_Tools_Home_Appliances/search">Telephone</a> ,
-<a href="/Vacuum_Cleaner_Home_Appliances/">Vacuum Cleaner</a> ,
-<a href="/Water_Purifiers_Home_Appliances/">Water Purifiers</a> ,
-<a href="/Air_Conditioner_Home_Appliances/">Air Conditioners</a> ,
-<a href="/Washing_Machine_Home_Appliances/">Washing Machines</a> ,
-<a href="/Geysers_Home_Appliances/">Geysers</a> ,
-<a href="/Refrigerator_Home_Appliances/">Refrigerators</a>
+<a href="/vases-home-decor/">Vases</a>,
+<a href="/artificial-flowers/">Flowers</a>,
+<a href="/paintings/">Paintings</a>,
+<a href="/vases-home-decor/">Vases</a>,
+<a href="/wall-hangings/">Wall Hangings</a>,
+<a href="/pooja-items/">Pooja Items</a>,
+<a href="/idols-statues/">Idols &amp; Statues</a>
 </p>
 </div>
 </div>
@@ -1328,37 +1573,53 @@ bottom:1px;
 <div class="nav-unit">
 <div class="title">
 <span class="mtitle">
-<a href="/Kitchenware/">KITCHEN</a>
+<a href="/home-decor-appliances-kitchenware/">KITCHEN APPLIANCES &amp; GROCERY</a>
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_kitchenware">
-</div>
+<a href="/kitchen-appliances/">
+<div class="img sprite_kitchen_appliances"></div>
+</a>
 <div class="sub-item">
-<h5>Kitchenware</h5>
+<h5><a href="/kitchen-appliances/">Kitchen Appliances</a></h5>
 <p>
-<a href="/kitchen-storage-containers">Storage &amp; Containers</a> ,
-<a href="/cookware">Cookware</a> ,
-<a href="/kitchen-dining-products">Dinnerware</a> ,
-<a href="/barware">Barware</a> ,
-<a href="/kitchen-storage-containers">Storage &amp; Cooktop</a> ,
-<a href="/kitchen-tools">Accessories</a>
+<a href="/Microwave_Oven_Home_Appliances/">Microwaves</a>,
+<a href="/Toaster_Grill_Home_Appliances/">OTG</a>,
+<a href="/pop-up-toaster/">Pop UP Toaster</a>,
+<a href="/sandwich-maker/">Sandwich Maker</a>,
+<a href="/blenders/">Blenders</a>,
+<a href="/Food_Processor_Home_Appliances/">Food Processor</a>,
+<a href="/mixer-grinder/">Mixer Grinder</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_kitchen_appliances">
-</div>
+<a href="/Kitchenware/">
+<div class="img sprite_kitchenware"></div>
+</a>
 <div class="sub-item">
-<h5>Kitchen Appliances</h5>
+<h5><a href="/Kitchenware/">Kitchenware</a></h5>
 <p>
-<a href="/Toaster_Grill_Home_Appliances/">Toaster &amp; Grills</a> ,
-<a href="/Microwave_Oven_Home_Appliances/">Microwave Ovens</a> ,
-<a href="/Tea_Coffee_Maker_Home_Appliances/">Tea &amp; Coffee Makers</a> ,
-<a href="/Food_Processor_Home_Appliances/">Food Processors</a> ,
-<a href="/mixer-grinder">Mixer Grinder</a> ,
-<a href="/blenders">Blender</a> ,
-<a href="/juicers">Juicer</a>
+<a href="/barware/">Barware</a>,
+<a href="/cookers/">Cookers</a>,
+<a href="/cookware/">Cookware</a>,
+<a href="/kitchen-dining-products/">Mugs &amp; Dinnerware</a>,
+<a href="/cooktops/">Stove &amp; Cooktops</a>,
+<a href="/kitchen-storage-containers/">Storage &amp; Containers</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/Grocery/">
+<div class="img sprite_grocery"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Grocery/">Grocery</a></h5>
+<p>
+<a href="/tea-products/">Tea</a>,
+<a href="/coffee-products/">Coffee</a>,
+<a href="/cooking-oils/">Cooking Oils</a>,
+<a href="/spices-products/">Spices</a>
 </p>
 </div>
 </div>
@@ -1367,7 +1628,9 @@ bottom:1px;
 </div>
 </div>
 <div id="flyout-marketing">
-<!-- <img class="mkt-image" src="/assets/skins/common/images/marketing/mrk_homekitchen.png" />
+<a href="/Home_Appliances/heating-appliances-offers-showcase.html"><div class="mkt-flyout" style="right:200px;">Beat the winter chills &nbsp;
+<img class="mkt-grey-arrow" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/gray_arrow.png"></div>
+<img class="mkt-image" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_homekitchen.png"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -1375,7 +1638,6 @@ right:1px;
 bottom:1px;
 }
 </style>
--->
 </div>
 </div>
 </div>
@@ -1389,45 +1651,102 @@ bottom:1px;
 <div class="nav-unit">
 <div class="title">
 <span class="mtitle">
-<a href="/Baby/">TOYS &amp; BABY CARE</a>
+<a href="/kids-baby-toys/">KIDS &amp; BABY PRODUCTS</a>
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_toys">
-</div>
+<a href="/Baby/">
+<div class="img sprite_baby_products"></div>
+</a>
 <div class="sub-item">
-<h5>Toys</h5>
+<h5><a href="/Baby/">Baby Products</a></h5>
 <p>
-<a href="/vehicles-toys-games">Vehicle Toys</a> ,
-<a href="/dolls-soft-toys">Dolls &amp; Soft Toys</a> ,
-<a href="/kids-action-figures-toys">Action Toys</a> ,
-<a href="/outdoor-sports-toys-games">Sports</a>
+<a href="/baby-clothing-shoes/">Clothing &amp; Shoes</a>,
+<a href="/baby-feeding-nursing-products/">Feeding &amp; Nursing</a>,
+<a href="/baby-diapers-wipes-bags/">Diapers &amp; Wipes</a>,
+<a href="/baby-gear-nursery-products/">Gear &amp; Nursery</a>,
+<a href="/baby-bath-skin-health-care/">Skin &amp; Health Care</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_games">
-</div>
+<a href="/Baby/">
+<div class="img sprite_popular_brands"></div>
+</a>
 <div class="sub-item">
-<h5>Games</h5>
+<h5><a href="/Baby/">Popular Brands</a></h5>
 <p>
-<a href="/board-games-puzzles">Board Games &amp; Puzzles</a> ,
-<a href="/educational-toys-games">Educational</a>
+<a href="/Baby/search?make=Johnson%20and%20Johnson">Johnson &amp; Johnson</a>,
+<a href="/Baby/search?make=Sunbaby">Sunbaby</a>,
+<a href="/Baby/search?make=Fisher%20Price">Fisher Price</a>,
+<a href="/Baby/search?make=Mee%20Mee">MeeMee</a>,
+<a href="/Baby/search?make=Pigeon">Pigeon</a>,
+<a href="/Baby/search?make=Funskool">Funskool</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_baby_care">
-</div>
+<a href="/Baby/">
+<div class="img sprite_featured_baby_products"></div>
+</a>
 <div class="sub-item">
-<h5>Baby Care</h5>
+<h5><a href="/Baby/">Featured Baby Products</a></h5>
 <p>
-<a href="/Baby/search?productType=Bouncer">Baby Bouncer</a> ,
-<a href="/baby-clothing-shoes">Baby Clothing &amp; Shoes</a> ,
-<a href="/infant-toys">Baby Toys</a> ,
-<a href="/baby-diapers-wipes-bags">Diapers and Wipes</a> ,
-<a href="/baby-feeding-nursing-products">Feeding &amp; Nursing</a> ,
-<a href="/baby-bath-skin-health-care">Baby Care</a>
+<a href="/Baby/best-offers-showcase.html">Offers</a>,
+<a href="/Baby/best-selling-showcase.html">Best Selling</a>,
+<a href="/Baby/recommended-showcase.html">Recommended</a>,
+<a href="/Baby/newborn-baby-products-showcase.html">Newborn Baby Products</a>
+</p>
+</div>
+</div>
+</div>
+<div class="nav-unit">
+<div class="title">
+<span class="mtitle">
+<a href="/kids-baby-toys/">TOYS &amp; GAMES</a>
+</span>
+</div>
+<div class="sub-unit">
+<a href="/Toys_Games/">
+<div class="img sprite_toys__games"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Toys_Games/">Toys &amp; Games</a></h5>
+<p>
+<a href="/battery-operated-toys-games">Battery Operated</a>,
+<a href="/dolls-soft-toys">Dolls &amp; Soft Toys</a>,
+<a href="/board-games-puzzles/">Board Games &amp; Puzzles</a>,
+<a href="/educational-toys-games/">Educational</a>,
+<a href="/vehicles-toys-games/">Vehicles</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/Toys_Games/">
+<div class="img sprite_popular_brands"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Toys_Games/">Popular Brands</a></h5>
+<p>
+<a href="/Toys_Games/search?make=Barbie">Barbie</a>,
+<a href="/Toys_Games/search?make=Funskool">Funskool</a>,
+<a href="/Toys_Games/search?make=Hot%20Wheels">Hot Wheels</a>,
+<a href="/Toys_Games/search?make=Leapfrog">Leapfrog</a>,
+<a href="/Toys_Games/search?make=OK%20Play">OK Play</a>,
+<a href="/Toys_Games/search?make=Fisher%20Price">Fisher Price</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/Toys_Games/">
+<div class="img sprite_featured_toys__games"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Toys_Games/">Featured Toys &amp; Games</a></h5>
+<p>
+<a href="/Toys_Games/best-selling-showcase.html">Best Selling</a>,
+<a href="/Toys_Games/recommended-showcase.html">Recommended</a>,
+<a href="/Toys_Games/best-offers-showcase.html">Special Offers</a>
 </p>
 </div>
 </div>
@@ -1436,7 +1755,9 @@ bottom:1px;
 </div>
 </div>
 <div id="flyout-marketing">
-<!-- <img class="mkt-image" src="/assets/skins/common/images/marketing/mrk_baby.png" />
+<a href="/Baby/search?make=Unamia"><div class="mkt-flyout" style="right:270px;">Perfect Care &amp; Comfort for your little one &nbsp;
+<img class="mkt-grey-arrow" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/gray_arrow.png"></div>
+<img class="mkt-image" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_baby.png?v=4"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -1444,7 +1765,6 @@ right:1px;
 bottom:1px;
 }
 </style>
--->
 </div>
 </div>
 </div>
@@ -1462,18 +1782,49 @@ bottom:1px;
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_movies">
-</div>
+<a href="/Movies/">
+<div class="img sprite_categories"></div>
+</a>
 <div class="sub-item">
-<h5>Movies</h5>
+<h5><a href="/Movies/">Categories</a></h5>
 <p>
-<a href="/Movies/pre-order-showcase.html">Pre Order</a> ,
-<a href="/Movies/new-releases-showcase.html">New Releases</a> ,
-<a href="/Movies/english-best-sellers-showcase.html">English</a> ,
-<a href="/Movies/hindi-best-sellers-showcase.html">Hindi</a> ,
-<a href="/Movies/box-set-showcase.html">Box Sets</a> ,
-<a href="/Movies/blu-ray-disc-showcase.html">Blu-Ray</a> ,
-<a href="/Movies/regional-movies-showcase.html">Regional Movies</a>
+<a href="/Movies/action-movies-showcase.html">Action Movies</a>,
+<a href="/Movies/animated-movies-showcase.html">Animation Movies</a>,
+<a href="/Movies/comedy-movies-showcase.html">Comedy Movies</a>,
+<a href="/Movies/3d-movies-showcase.html">3D Movies</a>,
+<a href="/Movies/romantic-movies-showcase.html">Romantic Movies</a>,
+<a href="/Movies/thriller-movies-showcase.html">Thriller Movies</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/Movies/">
+<div class="img sprite_language"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Movies/">Language</a></h5>
+<p>
+<a href="/Movies/search?language=Hindi">Hindi Movie</a>,
+<a href="/Movies/search?language=English">English Movie</a>,
+<a href="/Movies/search?language=Tamil">Tamil Movie</a>,
+<a href="/Movies/search?language=Telugu">Telugu Movie</a>,
+<a href="/Movies/search?language=Bengali">Bengali Movie</a>,
+<a href="/Movies/search?language=Marathi">Marathi Movie</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/Movies/">
+<div class="img sprite_featured_movies"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Movies/">Featured Movies</a></h5>
+<p>
+<a href="/Movies/pre-order-showcase.html">Pre Order</a>,
+<a href="/Movies/new-releases-showcase.html">New Releases</a>,
+<a href="/Movies/best-sellers-showcase.html">Best Sellers</a>,
+<a href="/Movies/latest-movies-showcase.html">Latest</a>,
+<a href="/Movies/recommended-showcase.html">Recommended</a>
 </p>
 </div>
 </div>
@@ -1485,18 +1836,48 @@ bottom:1px;
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_music">
-</div>
+<a href="/Music/">
+<div class="img sprite_genre"></div>
+</a>
 <div class="sub-item">
-<h5>Music</h5>
+<h5><a href="/Music/">Genre</a></h5>
 <p>
-<a href="/Music/pre-order-showcase.html">Pre Order</a> ,
-<a href="/Music/new-releases-showcase.html">New Releases</a> ,
-<a href="/Music/english-best-sellers-showcase.html">English</a> ,
-<a href="/Music/hindi-best-sellers-showcase.html">Hindi</a> ,
-<a href="/Music/box-set-showcase.html">Box Sets</a> ,
-<a href="/Music/classical-songs-showcase.html">Classical</a> ,
-<a href="/Music/regional-best-sellers-showcase.html">Regional</a>
+<a href="/Music/remix-songs-showcase.html">Remix</a>,
+<a href="/Music/rock-songs-showcase.html">Rock</a>,
+<a href="/Music/romantic-songs-showcase.html">Romantic</a>,
+<a href="/Music/pop-songs-showcase.html">Pop</a>,
+<a href="/Music/bollywood-songs-showcase.html">Bollywood</a>,
+<a href="/Music/english-best-sellers-showcase.html">International</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/Music/">
+<div class="img sprite_artist"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Music/">Artist</a></h5>
+<p>
+<a href="/Music/a-r-rahman-songs-showcase.html">A R Rahman</a>,
+<a href="/Music/jagjit-singh-songs-showcase.html">Jagjit Singh</a>,
+<a href="/Music/pink-floyd-songs-showcase.html">Pink Floyd</a>,
+<a href="/Music/lata-mangeshkar-songs-showcase.html">Lata Mangeshkar</a>,
+<a href="/Music/michael-jackson-songs-showcase.html">Michael Jackson</a>,
+<a href="/Music/linkin-park-songs-showcase.html">Linkin Park</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/Music/">
+<div class="img sprite_featured_music"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/Music/">Featured Music</a></h5>
+<p>
+<a href="/Music/pre-order-showcase.html">Pre Order</a>,
+<a href="/Music/new-releases-showcase.html">New Releases</a>,
+<a href="/Music/hindi-best-sellers-showcase.html">Hindi Best Sellers</a>,
+<a href="/Music/english-best-sellers-showcase.html">English Best Sellers</a>
 </p>
 </div>
 </div>
@@ -1508,16 +1889,18 @@ bottom:1px;
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_posters">
-</div>
+<a href="/Posters/">
+<div class="img sprite_posters"></div>
+</a>
 <div class="sub-item">
-<h5>Posters</h5>
+<h5><a href="/Posters/">Posters</a></h5>
 <p>
-<a href="/Posters/search?category=Movies">Movies</a> ,
-<a href="/Posters/search?category=Animals">Wild Life</a> ,
-<a href="/Posters/search?category=Photographic">Photographic</a> ,
-<a href="/Posters/search?category=Sports">Sports</a> ,
-<a href="/Posters/search?posterType=Fine%20Art%20Print">Fine Art Posters</a>
+<a href="/Posters/search?category=Movies">Movies</a>,
+<a href="/Posters/search?category=Music">Music</a>,
+<a href="/Posters/search?category=Television">Television</a>,
+<a href="/Posters/search?category=3D">3D</a>,
+<a href="/Posters/search?category=Abstract">Abstract</a>,
+<a href="/Posters/search?category=Motivational">Motivational</a>
 </p>
 </div>
 </div>
@@ -1526,7 +1909,9 @@ bottom:1px;
 </div>
 </div>
 <div id="flyout-marketing">
-<!-- <img class="mkt-image" src="/assets/skins/common/images/marketing/mrk_movies.png" />
+<a href="/Music/combo-offer-showcase.html"><div class="mkt-flyout" style="right:150px;">Combos of 3 at Flat <span style="color:#e47911">Rs. 99</span> &nbsp;
+<img class="mkt-grey-arrow" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/gray_arrow.png"></div>
+<img class="mkt-image" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_movies.png?v=2"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -1534,7 +1919,6 @@ right:1px;
 bottom:1px;
 }
 </style>
--->
 </div>
 </div>
 </div>
@@ -1548,33 +1932,34 @@ bottom:1px;
 <div class="nav-unit">
 <div class="title">
 <span class="mtitle">
-<a href="/Health_Equipments/search?category=Fitness">FITNESS</a>
+<a href="/Health_Equipments/">HEALTH EQUIPMENTS</a>
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_fitness_equipments">
-</div>
+<a href="/gym-equipments/">
+<div class="img sprite_gym_equipments"></div>
+</a>
 <div class="sub-item">
-<h5>Fitness Equipments</h5>
+<h5><a href="/gym-equipments/">Gym Equipments</a></h5>
 <p>
-<a href="/Health_Equipments/search?category=Fitness&amp;subCategory=Abdominal">Abdominal</a> ,
-<a href="/Health_Equipments/search?category=Fitness&amp;subCategory=Massage%20Vibrator">Massage Vibrator</a> ,
-<a href="/Health_Equipments/search?category=Fitness&amp;subCategory=Stepper%20Twister">Stepper Twister</a> ,
-<a href="/Health_Equipments/search?category=Fitness&amp;subCategory=Supports">Supports</a> ,
-<a href="/Health_Equipments/search?category=Fitness&amp;subCategory=Fitness%20Accessories">Fitness Accessories</a>
+<a href="/gym-equipments/search?make=Aerofit">Aerofit</a>,
+<a href="/gym-equipments/search?make=Cosco">Cosco</a>,
+<a href="/gym-equipments/search?make=Pro%20BODYLINE">Pro BODYLINE</a>,
+<a href="/gym-equipments/search?make=BODYGYM">BODYGYM</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_gym">
-</div>
+<a href="/fitness-equipments/">
+<div class="img sprite_fitness_equipments"></div>
+</a>
 <div class="sub-item">
-<h5>Gym</h5>
+<h5><a href="/fitness-equipments/">Fitness Equipments</a></h5>
 <p>
-<a href="/Health_Equipments/search?category=Gym&amp;subCategory=Treadmill">Treadmill</a> ,
-<a href="/Health_Equipments/search?category=Gym&amp;subCategory=Gym%20Equipments">Gym Equipments</a> ,
-<a href="/Health_Equipments/search?category=Gym&amp;subCategory=Exerciser%20Bike">Exerciser Bike</a> ,
-<a href="/Health_Equipments/search?category=Gym&amp;subCategory=Elliptical%20Trainer">Elliptical Trainer</a>
+<a href="/fitness-equipments/search?make=Pro%20BODYLINE">Pro BODYLINE</a>,
+<a href="/fitness-equipments/search?make=Aerofit">Aerofit</a>,
+<a href="/fitness-equipments/search?make=Vector-X">Vector-X</a>,
+<a href="/fitness-equipments/search?make=Body%20Sculpture">Body Sculpture</a>
 </p>
 </div>
 </div>
@@ -1582,31 +1967,36 @@ bottom:1px;
 <div class="nav-unit">
 <div class="title">
 <span class="mtitle">
-<a href="/Health_Equipments/search?category=Health%20Care">HEALTH CARE</a>
+<a href="/Health_Equipments/">HEALTH &amp; FITNESS</a>
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_health_instruments">
-</div>
+<a href="/personal-care/">
+<div class="img sprite_personal_care"></div>
+</a>
 <div class="sub-item">
-<h5>Health Instruments</h5>
+<h5><a href="/personal-care/">Personal Care</a></h5>
 <p>
-<a href="/Health_Equipments/search?category=Health%20care&amp;subCategory=BP%20Monitors">BP Monitors</a> ,
-<a href="/Health_Equipments/search?category=Health%20care&amp;subCategory=Digital%20Thermometers">Digital Thermometers</a> ,
-<a href="/Health_Equipments/search?category=Health%20care&amp;subCategory=Glucometer">Glucometer</a>
+<a href="/personal-care/search?make=Relief">Relief</a>,
+<a href="/personal-care/search?make=Dr.Morepen">Dr.Morepen</a>,
+<a href="/personal-care/search?make=Lp%20Support">Lp Support</a>,
+<a href="/personal-care/search?make=United%20Medicare">United Medicare</a>,
+<a href="/personal-care/search?make=Equinox">Equinox</a>,
+<a href="/personal-care/search?make=Flamingo">Flamingo</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_health_accessories">
-</div>
+<a href="/health-care/">
+<div class="img sprite_health_care"></div>
+</a>
 <div class="sub-item">
-<h5>Health Accessories</h5>
+<h5><a href="/health-care/">Health Care</a></h5>
 <p>
-<a href="/Health_Equipments/search?subCategory=Air%20Purifiers">Air Purifiers</a> ,
-<a href="/Health_Equipments/search?subCategory=Mobility%20Aids">Mobility Aids</a> ,
-<a href="/Health_Equipments/search?subCategory=Weighing%20Scales">Weighing Scales</a> ,
-<a href="/Health_Equipments/search?subCategory=Hot%20And%20Cold%20Therapy">Hot &amp; Cold Therapy</a>
+<a href="/health-care/search?make=Dr.Morepen">Dr.Morepen</a>,
+<a href="/health-care/search?make=Operon">Operon</a>,
+<a href="/health-care/search?make=Smart%20Care">Smart Care</a>,
+<a href="/health-care/search?make=Atlanta%20Health%20Care">Atlanta Health Care</a>
 </p>
 </div>
 </div>
@@ -1615,7 +2005,9 @@ bottom:1px;
 </div>
 </div>
 <div id="flyout-marketing">
-<!-- <img class="mkt-image" src="/assets/skins/common/images/marketing/mrk_health.png" />
+<a href="/Health_Equipments/search?make=Cosco"><div class="mkt-flyout">Flat <span style="color:#e47911">10%</span> off on COSCO &nbsp;
+<img class="mkt-grey-arrow" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/gray_arrow.png"></div>
+<img class="mkt-image" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_health.png?v=2"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -1623,7 +2015,6 @@ right:1px;
 bottom:1px;
 }
 </style>
--->
 </div>
 </div>
 </div>
@@ -1641,54 +2032,87 @@ bottom:1px;
 </span>
 </div>
 <div class="sub-unit">
-<div class="img sprite_car_care__cleaning">
-</div>
+<a href="/car-accessories/">
+<div class="img sprite_car_accessories"></div>
+</a>
 <div class="sub-item">
-<h5>Car Care &amp; Cleaning</h5>
+<h5><a href="/car-accessories/">Car Accessories</a></h5>
 <p>
-<a href="/car-care-cleaning">Cleaner and Shiner</a> ,
-<a href="/car-engine-treatment">Engine Treatment</a>
+<a href="/car-mats/">Mats</a>,
+<a href="/car-sun-control/">Sun Control</a>,
+<a href="/car-door-sill-plates/">Sill Plates</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_cd_players">
-</div>
+<a href="/car-care-cleaning/">
+<div class="img sprite_car_care__cleaning"></div>
+</a>
 <div class="sub-item">
-<h5>CD Players</h5>
+<h5><a href="/car-care-cleaning/">Car Care &amp; Cleaning</a></h5>
 <p>
-<a href="/car-cd-players/search?make=Sony">Sony</a> ,
-<a href="/car-cd-players/search?make=JVC">JVC</a> ,
-<a href="/car-cd-players/search?make=Pioneer">Pioneer</a> ,
-<a href="/car-cd-players/search?make=Vox">Vox</a>
+<a href="/car-care-accessories/">Care Accessories</a>,
+<a href="/car-cleaner-shiner/">Cleaner &amp; Shiner</a>,
+<a href="/car-polish-wax/">Polish &amp; Wax</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_speakers">
-</div>
+<a href="/car-utility/">
+<div class="img sprite_car_utility"></div>
+</a>
 <div class="sub-item">
-<h5>Speakers</h5>
+<h5><a href="/car-utility/">Car Utility</a></h5>
 <p>
-<a href="/car-speakers/search?make=JBL">JBL</a> ,
-<a href="/car-speakers/search?make=Infinity">Infinity</a> ,
-<a href="/car-speakers/search?make=Pioneer">Pioneer</a> ,
-<a href="/car-amplifiers">Amplifiers</a> ,
-<a href="/car-subwoofers">SubWoofers</a>
+<a href="/car-mobile-charger/">Mobile Charger</a>,
+<a href="/car-spray-paint/">Spray Paint</a>,
+<a href="/car-dash-mat/">Dash Mat</a>
+</p>
+</div>
+</div>
+</div>
+<div class="nav-unit">
+<div class="title">
+<span class="mtitle">
+<a href="/Auto_Accessories/">CAR ACCESSORIES</a>
+</span>
+</div>
+<div class="sub-unit">
+<a href="/car-audio-visual/">
+<div class="img sprite_car_audio_visual"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/car-audio-visual/">Car Audio Visual</a></h5>
+<p>
+<a href="/car-speakers/">Speakers</a>,
+<a href="/car-cd-players/">CD Players</a>,
+<a href="/car-amplifiers/">Amplifiers</a>
 </p>
 </div>
 </div>
 <div class="sub-unit">
-<div class="img sprite_others">
-</div>
+<a href="/car-decor/">
+<div class="img sprite_car_decor"></div>
+</a>
 <div class="sub-item">
-<h5>Others</h5>
+<h5><a href="/car-decor/">Car Decor</a></h5>
 <p>
-<a href="/car-safety-security-system">Safety &amp; Security</a> ,
-<a href="/car-perfume">Perfumes</a> ,
-<a href="/car-decor">Car Decor</a> ,
-<a href="/car-covers">Car Covers</a> ,
-<a href="/car-performance-parts">Performance</a>
+<a href="/car-perfume/">Perfume</a>,
+<a href="/car-rain-visor/">Rain Visor</a>,
+<a href="/car-tissue-box/">Tissue Box</a>
+</p>
+</div>
+</div>
+<div class="sub-unit">
+<a href="/car-covers/">
+<div class="img sprite_car_covers"></div>
+</a>
+<div class="sub-item">
+<h5><a href="/car-covers/">Car Covers</a></h5>
+<p>
+<a href="/car-body-covers/">Body Covers</a>,
+<a href="/car-seat-covers/">Seat Covers</a>,
+<a href="/car-steering-covers/">Steering Covers</a>
 </p>
 </div>
 </div>
@@ -1697,7 +2121,9 @@ bottom:1px;
 </div>
 </div>
 <div id="flyout-marketing">
-<!-- <img class="mkt-image" src="/assets/skins/common/images/marketing/mrk_car.png" />
+<a href="/car-audio-visual/"><div class="mkt-flyout" style="right:300px;">Entertainment for your Automobile &nbsp;
+<img class="mkt-grey-arrow" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/gray_arrow.png"></div>
+<img class="mkt-image" src="http://asset-a2.infibeam.com/assets/skins/common/images/marketing/mrk_car_1.png"></a>
 <style>
 #hd #flyout-marketing .mkt-image{
 position:absolute;
@@ -1705,7 +2131,6 @@ right:1px;
 bottom:1px;
 }
 </style>
--->
 </div>
 </div>
 </div>
@@ -1736,13 +2161,42 @@ bottom:1px;
 </div>
 <select name="storeName" id="fixedsearchHeader" class="text" style="">
 <option value="All" selected="selected">All Stores</option>
-<option value="Automobiles">Automobiles</option>
+<option value="kitchen-appliances">Kitchen Appliances</option>
+<option value="Mobile_Accessories">Mobile Accessories</option>
+<option value="Mobiles">Mobiles</option>
+<option value="tablet-accessories">Tablet Accessories</option>
+<option value="tablets">Tablets</option>
+<option value="Computers_Accessories">Computers and Accessories</option>
+<option value="Portable_Electronics">Portable Electronics</option>
 <option value="Books">Books</option>
-<option value="Electronics">Electronics</option>
+<option value="Movies">Movies</option>
+<option value="Music">Music</option>
+<option value="Home_Entertainment">Home Entertainment</option>
+<option value="Camera_Accessories">Camera Accessories</option>
+<option value="Cameras">Cameras</option>
 <option value="Gifts">Gifts &amp; Festivals</option>
-<option value="Home-Lifestyle">Home-Lifestyle</option>
+<option value="Religion_Spirituality">Religion &amp; Spirituality</option>
+<option value="Office_Supplies">School &amp; Office</option>
+<option value="Auto_Accessories">Auto Accessories</option>
+<option value="Posters">Posters</option>
 <option value="Magazines">Magazines</option>
-<option value="Media">Movies &amp; Music</option>
+<option value="Health_Equipments">Health &amp; Fitness</option>
+<option value="Grocery">Grocery</option>
+<option value="Home_Furnishing">Decor and Home Improvement</option>
+<option value="Kitchenware">Kitchenware</option>
+<option value="Home_Appliances">Home Appliances</option>
+<option value="Travel_Accessories">Travel and Bags</option>
+<option value="Gaming_Consoles">Gaming</option>
+<option value="Bags">Bags</option>
+<option value="Eyewear">Eyewear</option>
+<option value="Beauty">Personal Care</option>
+<option value="Jewellery">Jewellery</option>
+<option value="Footwear">Footwear</option>
+<option value="Apparel_Accessories">Accessories</option>
+<option value="Apparel">Clothing</option>
+<option value="Watches">Watches</option>
+<option value="Baby">Baby Products</option>
+<option value="Toys_Games">Toys &amp; Games</option>
 </select>
 <div id="fixedinner-search">
 <input id="fixedsuggest" name="query">
@@ -1769,10 +2223,8 @@ $("#fixedsuggest").autocomplete("http://autocomplete_new.infibeam.com/auto_compl
 <div class="header-botm"></div>
 </div>
 </div>
-<!-- header -->
 <div style="clear:both;"></div>
 <div id="custom-doc" class="yui-t7">
-<!-- Product Strip -->
 <div id="bd">
 <div class="yui-g" id="resultsPane" style="position:relative">
 <div id="help">
@@ -1799,144 +2251,106 @@ $("#fixedsuggest").autocomplete("http://autocomplete_new.infibeam.com/auto_compl
 </div>
 </div>
 </div>
-<!-- Footer -->
-<div style="height:10px; line-height:10px; clear:both;"></div>
-<div id="ft">
-<div style="background-color:#212121; padding:8px; height:30px;">
-<div style="float:right;">
-<a href="http://www.facebook.com/infibeam" target="_blank" rel="nofollow" title="Facebook"><img src="http://asset-a2.infibeam.com/assets/skins/newcommon/images/icon/facebook32.png" alt="Facebook" border="0"></a>
-<a href="http://twitter.com/infibeam" target="_blank" rel="nofollow" title="Twitter"><img src="http://asset-a2.infibeam.com/assets/skins/newcommon/images/icon/twitter32.png" alt="Twitter" border="0"></a>
-<a href="http://blog.infibeam.com/" target="_blank" rel="nofollow" title="Infibeam - Blog"><img src="http://asset-a2.infibeam.com/assets/skins/newcommon/images/icon/blogger32.png" alt="Infibeam Blog" border="0"></a>
-<a href="https://plus.google.com/117711472134437939482?rel=author" target="_blank" title="Google Plus"><img src="http://asset-a2.infibeam.com/assets/skins/newcommon/images/icon/googleplus32.png" alt="Google Plus" border="0"></a>
-<a href="http://pinterest.com/infibeam/" target="_blank" rel="nofollow" title="Pinterest"><img src="http://asset-a2.infibeam.com/assets/skins/newcommon/images/icon/pinterest32.png" alt="Pinterest" border="0"></a>
 </div>
-<div style="margin-top:3px;">
-<form name="SubscribeToNewsLetter" action="/SubscribeToNewsLetter.action" method="POST">
-<span style="color:#fff; font-size:13px; line-height:20px;"><b>Newsletter Subscription</b></span>
-<input type="text" name="subscriberEmail" size="16" style="width:200px; padding:4px; border:1px solid #999;">
-<input type="image" name="submit" src="/assets/skins/newcommon/images/signmeupnew.png" align="absmiddle" style="margin-top:-3px;">
+<div id="ft">
+<link href="/style/infiFooter.css" rel="stylesheet" type="text/css">
+<script>
+$(document).ready(function(){
+$(".subscribe").click(function(e){
+var mail=$("#SubscribeToNewsLetter #email_id").val();
+if (mail=="" || mail==null){
+return false;
+}
+});
+});
+</script>
+<div id="infifoot">
+<div class="track-my-order">
+<div class="div-in">
+<span class="track-order">Where is my Order/ Shipment?</span>
+</div>
+<div class="track-in">
+<form name="TrackMyOrder" id="TrackMyOrder" action="/TrackCustomerOrder_track.action" method="POST">
+<input type="text" name="email" id="email" placeholder="Email Id">
+<input type="text" name="purchaseId" id="purchaseId" placeholder="Purchase Id">
+<input type="submit" class="tracking" value="TRACK MY ORDER" style="text-align:center">
 </form>
 </div>
 </div>
-<table style="text-align:left;" align="center" width="100%">
-<tbody><tr>
-<td valign="top">
-<h3><a href="/static/all-stores.html" rel="nofollow">All Stores</a></h3>
-<table width="300">
-<tbody><tr>
-<td valign="top" width="110" style="padding:0px;">
+<div class="ft-menu">
+<div class="infi-link">
+<h3>infibeam.com</h3>
 <ul>
-<li><a href="/Apparel/">Apparel</a></li>
-<li><a href="/Beauty/">Beauty</a></li>
-<li><a href="/Baby/">Baby</a></li>
-<li><a href="/Bikes/">Bikes</a></li>
-<li><a href="/Books/">Books</a></li>
-<li><a href="/eBooks/">eBooks</a></li>
-<li><a href="/Cameras/">Cameras</a></li>
-<li><a href="/Cars/">Cars</a></li>
-<li><a href="/Computers_Accessories/">Computers Accessories</a></li>
-<li><a href="/Eyewear/">Eyewear</a></li>
-<li><a href="/Gifts/">Gifts</a></li>
-<li><a href="/Health_Equipments/">Health</a></li>
-<li><a href="/Home_Appliances/">Home Appliances</a></li>
-<li><a href="/Home_Furnishing/">Home Furnishing</a></li>
-<li><a href="/Home_Entertainment/">Home Entertainment</a></li>
-<li><a href="/Automobiles/" title="Automobiles">Automobiles</a></li>
-<li><a href="/Auto_Accessories/" title="Auto Accessories">Auto Accessories</a></li>
-<li><a href="/Office_Supplies/" title="Office Supplies">Office Supplies</a></li>
-<li><a href="/Travel_Accessories/" title="Travel Accessories">Travel Accessories</a></li>
-</ul>
-</td>
-<td valign="top" width="190" style="padding:0px;">
-<ul>
-<li><a href="/Jewellery/">Jewellery</a></li>
-<li><a href="/Magazines/">Magazines</a></li>
-<li><a href="/Movies/">Movies</a></li>
-<li><a href="/Music/">Music</a></li>
-<li><a href="/Mobiles/">Mobiles</a></li>
-<li><a href="/Mobile_Accessories/">Mobile Accessories</a></li>
-<li><a href="/Portable_Electronics/">Gadgets</a></li>
-<li><a href="/Pen_Drives_Computers_Accessories/search">Pen Drives</a></li>
-<li><a href="/Religion_Spirituality/">Religion / Spirituality</a></li>
-<li><a href="/Toys_Games/">Toys / Games</a></li>
-<li><a href="/Watches/">Watches</a></li>
-<li><a href="/Footwear/">Footwear</a></li>
-<li><a href="/Hot_Deals/search" title="Deals Of The Day" rel="nofollow">Hot Deals!</a></li>
-<li><a href="/deal-of-the-day.html" title="Deals Of The Day" rel="nofollow"><b>Magic Box</b></a></li>
-<li><a href="/Travel/" title="Travel">Travel</a></li>
-<li><a href="/Home-Lifestyle/" title="Home &amp; LifeStyle">Home &amp; LifeStyle</a></li>
-<li><a href="/Electronics/" title="Electronics">Electronics</a></li>
-<li><a href="/Media/" title="Media">Media</a></li>
-</ul>
-</td>
-</tr>
-</tbody></table>
-</td>
-<td valign="top">
-<h3>Your Account</h3>
-<ul>
-<li><a rel="nofollow" href="/YourAccount.action">Your Account Home</a></li>
-<li><a rel="nofollow" href="/ViewPurchases.action?id=1">Where's My Order</a></li>
-<li><a rel="nofollow" href="/ShowCart.action">Shopping Cart</a></li>
-<li><a rel="nofollow" href="/WishList.action">Wish List</a><br></li>
-</ul>
-<br>
-<h3>Contact Us</h3>
-<ul>
-<li><a href="/ContactUs.action" title="Contact Us" rel="nofollow">Contact Us</a></li>
-<li><a href="/ContactUs.action?category=Bulk Orders" title="Bulk Order Inquiry">Bulk Order Inquiry</a></li>
+<li><a href="/recharge" title="Corporate Program">Online Recharge</a></li>
+<li><a href="/best-offers.html" title="GOSF 2013">GOSF 2013</a></li>
 <li><a href="/static/corporate-program.html" title="Corporate Program">Corporate Program</a></li>
 <li><a href="/MerchantSignup.action" title="Merchant Signup">Merchant Signup</a></li>
 <li><a href="/static/advertise-with-us.html" title="Advertise With Us">Advertise With Us</a></li>
-<li><a href="/affiliate" title="Affiliates">Affiliate <sup style="font-size:10px; font-weight:bold; color:#990000;">New</sup></a></li>
-</ul>
-</td>
-<td valign="top">
-<h3>Help</h3>
-<ul>
+<li><a href="/affiliate" title="Affiliates">Affiliate</a></li>
 <li><a href="/static/help/terms-conditions.html" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-<li><a href="/static/help/payment-returns.html" title="Payments &amp; Returns">Payments &amp; Returns</a></li>
 <li><a href="/static/help/privacy-policy.html" title="Privacy Policy">Privacy Policy</a></li>
-<li><a href="/static/help/help.html" title="Help / FAQ">Help / FAQ</a></li>
-<li><a href="/static/help/shipping-options.html" title="Shipping Options">Shipping Options</a></li>
-</ul>
-<br>
-<h3>Others</h3>
-<ul>
 <li><a href="/static/careers.html" title="Careers">Careers</a></li>
 <li><a href="/static/help/about-us.html" title="About Us">About Us</a></li>
-<li><a href="http://blog.infibeam.com/" target="_blank" title="Infibeam Blog">Blog</a></li>
 <li><a href="http://news.infibeam.com/blog/news/" title="News">News</a> / <a href="http://news.infibeam.com/blog/news/categories/infibeam/" title="Press Releases">Press Releases</a></li>
-<li><a href="/static/festivals-of-india/index.html" title="Festivals of India">Festivals of India</a></li>
-<li><a href="/static/sitemap.html" title="Site Map">Site Map</a></li>
 </ul>
-</td>
-<td valign="top">
-<h3>Payment Options</h3>
+</div>
+<div class="cust-suprt">
+<div class="cust-suprt-top">
+<div class="customer-support">
+<h3>Contact &amp; Support</h3>
 <ul>
-<li>Credit Cards &amp; Debit Cards</li>
-<li>Net Banking &amp; PayPal</li>
-<li>
-<a href="/static/help/cash-on-delivery.html">Cash On Delivery</a> &amp; <a href="/static/help/emi.html">EMI</a>
-</li>
-<li>
-<a href="/static/help/wallet.html">Wallet <sup style="font-size:10px; font-weight:bold; color:#990000;">New</sup></a>
-</li>
+<li><a href="/ContactUs.action" title="Contact Us" rel="nofollow">Contact Us</a></li>
+<li><a href="/static/help/help.html" title="Help / FAQ">Help / FAQ</a></li>
+<li><a href="/ContactUs.action?category=Bulk Orders" title="Bulk Order Inquiry">Bulk Order Inquiry</a></li>
+<li><a href="mailto:customerservice@infibeam.me" title="Email Us" rel="nofollow">customerservice@infibeam.me</a></li>
+<li id="customer-care">+ 91 79 40260260</li>
 </ul>
-<br>
-<img src="http://asset-a2.infibeam.com/assets/skins/newcommon/images/payment.gif" alt="Payment Options" title="Payment Options" border="0">
-<img src="http://asset-a2.infibeam.com/assets/skins/newcommon/images/AExp_SafeKey_ezeclick.gif" border="0" style="vertical-align: top">
-<h3>Safe &amp; Secure Shopping</h3>
-<div align="center"><img src="http://asset-a2.infibeam.com/assets/skins/newcommon/images/entrust.png" alt="Safe and Secure Shopping" title="Safe and Secure Shopping" border="0"></div>
-</td>
-</tr>
-</tbody></table>
-<div style="border-top:1px dotted #999; background-color:#e2e2e2; line-height:30px; text-align:left;">
-<span style="float:right;">Infibeam sites: <a href="http://www.buildabazaar.com/" rel="nofollow" target="_blank">BuildaBazaar.com</a> | <a href="http://www.picsquare.com/" rel="nofollow" target="_blank">Picsquare.com</a>&nbsp;&nbsp;</span>
-&nbsp;&nbsp;Copyright © <a href="/Books/dl/" style="cursor: default; text-decoration: none; color: #535353;">2007-2013</a> Infibeam.com and Affiliates
+</div>
+<div class="orders">
+<h3>Orders</h3>
+<div>
+<ul>
+<li><a href="/YourAccount.action">Create New Account</a></li>
+<li><a href="/Login.action" title="Login">Login</a></li>
+<li><a href="/ViewPurchases.action?id=1">Track Your Order</a></li>
+<li><a href="/ViewPurchases.action">Order History</a></li>
+<li><a href="/ShowCart.action">Shopping Cart</a></li>
+</ul>
+</div>
+<div>
+<ul>
+<li><a href="/static/help/payment-returns.html" title="Payments &amp; Returns">Payments &amp; Returns</a></li>
+<li><a href="/static/help/shipping-options.html" title="Shipping Options">Shipping / Billing Options</a></li>
+<li><a href="/WishList.action">Wish List</a></li>
+<li><a href="/static/help/wallet.html">Wallet</a></li>
+</ul>
 </div>
 </div>
-<div id="header_submenus" style="display:none;"></div>
+</div>
+<div class="cust-suprt-below">
+<div id="social_sites">
+<h3>Social Networks</h3>
+<ul>
+<li class="social"><a href="http://www.facebook.com/infibeam" target="_blank" rel="nofollow" title="Facebook"><img src="http://asset-a2.infibeam.com/assets/skins/ft/images/fb.png" alt="Facebook"></a></li>
+<li class="social"><a href="http://twitter.com/infibeam" target="_blank" rel="nofollow" title="Twitter"><img src="http://asset-a2.infibeam.com/assets/skins/ft/images/twitter.png"></a></li>
+<li class="social"><a href="http://blog.infibeam.com/" target="_blank" title="Infibeam - Blog"><img src="http://asset-a2.infibeam.com/assets/skins/ft/images/blog.png"></a></li>
+<li class="social"><a href="http://plus.google.com/+infibeam/" target="_blank" title="Google Plus"><img src="http://asset-a2.infibeam.com/assets/skins/ft/images/gplus.png"></a></li>
+</ul>
+</div>
+<div id="subscriber_form">
+<form name="SubscribeToNewsLetter" id="SubscribeToNewsLetter" action="/SubscribeToNewsLetter.action" method="POST">
+<h3>Get Discounts &amp; Offers</h3>
+<input type="email" name="email_id" id="email_id" placeholder="Email Id">
+<input type="submit" value="Subscribe" class="subscribe">
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="inficopyright">
+Copyright ⓒ 2007-2013 Infibeam.com and Affiliates
+</div>
+</div>
 </div>
 <script type="text/javascript">
 adroll_adv_id = "3XEPKCSMY5GPHGDGQUV6DR";
