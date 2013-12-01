@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conceptdraw.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602023914id_/http%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptdraw.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201172008id_/http%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.*
 
 # Privacy | ConceptDraw
 
@@ -17,7 +17,7 @@ This Policy describes how we handle your Personal Information for our services 
 
 _Please be  advised that this text is for information purposes only and does not imply or construe any consent on your part._
 
-Personal Information implies any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an e-mail address or other contact information, whether at work or at home. Generally, you can visit CS Odessa Web pages without telling us who you are or revealing any Personal Information about yourself.
+Personal Information implies any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an e-mail address or other contact information, whether at work or at home. Generally, you can visit CS Odessa web pages without telling us who you are or revealing any Personal Information about yourself.
 
 Information you provide will be used by CS Odessa to ensure all customers and persons interested in our products receive individual attention and service they deserve. To the extent necessary to process your order, we will forward your information to on-site authorized CS Odessa sales partners, who will use this information solely for order fulfillment, e.g. to ship your order. Should you not wish us to do this in the manner described above, please let us know by sending an e-mail to: [support@conceptdraw.com](mailto:support@conceptdraw.com)
 
