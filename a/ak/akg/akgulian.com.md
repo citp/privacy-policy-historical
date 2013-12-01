@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the akgulian.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529204727id_/http%3A//akgulian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akgulian.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201021310id_/http%3A//akgulian.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# PRIVACY POLICY – Akgulian.com – Your Global News Source
 
 **Privacy Policy for akgulian.com**
 
