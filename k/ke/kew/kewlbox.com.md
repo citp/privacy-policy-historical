@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kewlbox.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410051647id_/http%3A//www.kewlbox.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kewlbox.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201064344id_/http%3A//www.kewlbox.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Kewlbox -
 
