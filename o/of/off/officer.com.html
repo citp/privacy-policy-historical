@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the officer.com privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501131352id_/http%3A//www.officer.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the officer.com privacy policy that was archived on 2013-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131201081930id_/http%3A//www.officer.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
 
@@ -11,19 +11,19 @@
    <!-- Meta tag includes -->
    <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
-<meta name="viewport" content="width=device-width, initial-scale=0.8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta property="fb:app_id" content="201850419839100">
 
 
    
 
    <!-- Begin included CSS -->
-   <link rel="stylesheet" type="text/css" href="http://www.officer.com/app/merrick/files/www.officer.com/css/master.orion.css?m=1367350981">
+   <link rel="stylesheet" type="text/css" href="http://www.officer.com/app/merrick/files/www.officer.com/css/master.orion.css?m=1385497378">
 
    <!-- End included CSS -->
 
    <!-- Begin included scripts -->
-   <script type="text/javascript" defer="" async="" src="/lib/piwik/piwik.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+   <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://ox-d.officer.com/w/1.0/jstag"></script>
 <script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
@@ -41,7 +41,7 @@
 }
 
 </script>
-<script type="text/javascript" src="http://www.officer.com/app/merrick/files/www.officer.com/js/344fe0da9992de8c9fbd805385f57a0b.js"></script>
+<script type="text/javascript" src="http://www.officer.com/app/merrick/files/www.officer.com/js/b111d98d05148be40a2c634aa44d6770.js"></script>
 
 
    
@@ -66,10 +66,53 @@ var _gaq = _gaq || [];
                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                   })();
 
+      var _baq = _baq || [];
+      window.trackerData = {"page_type":"Page: Privacy Policy"};
+      (function() {
+
+         var 
+            u = '/lib/baretrax/',
+            token = $.cookie('token');
+
+         _baq.push(['_setAccount', 15]);
+         _baq.push(['_setTrackerUrl', 'http://btl.officer.com/tracker']);
+
+         if (typeof window.trackerData.page_type !== 'undefined')
+         {
+            _baq.push(['_setPageType', window.trackerData.page_type]);
+         }
+         
+         if (token)
+         {
+            _baq.push(['_setUserId', token]);
+         }
+         _baq.push(['_setPageView']);
+
+         if (typeof window.trackerData.events !== 'undefined')
+         {
+            _baq.push(['_setEventGroup', 'view', window.trackerData.events]);
+         }
+
+         _baq.push(['_trackEvents']);
+         //console.log(_baq);
+
+         var d=document,
+         g=d.createElement('script'),
+         s=d.getElementsByTagName('script')[0];
+         g.type='text/javascript';
+         g.defer=true;
+         g.async=true;
+         g.src=u+'baretrax.js';
+         s.parentNode.insertBefore(g,s);
+         //console.log(_baq);
+      })();  
+   
+
    var default_fb_image = 'http://r1.cygnuspub.com/files/media/www.officer.com/orion/site_logo_fb.png';
 
-var OX_b39bfedd = OX();
-OX_b39bfedd.addAdUnit('350330,162586,162770,162771,162772');  OX_b39bfedd.addPage('12771');
+var OX_default = OX();
+if (typeof openxOnAdUnitRenderFinish === "function") {OX_default.addHook(openxOnAdUnitRenderFinish, 4);}
+OX_default.addAdUnit('350330,162586,162770,162771,162772');  OX_default.addPage('12771');
 //]]>
 </script>
 
@@ -79,10 +122,14 @@ OX_b39bfedd.addAdUnit('350330,162586,162770,162771,162772');  OX_b39bfedd.addPag
 <script type="text/javascript">
 //<![CDATA[
 $(document).ready(function(){
-   $('.ad_tracking').click(function() {
-      var ad_unit_id = $(this).attr('rel');
-      _gaq.push(['_trackEvent', 'Advertising', 'Click', ad_unit_id, undefined, true]);
-   });
+   $( '.ad_tracking' ).on( 'click', function() {
+      var ad_unit_id = $( this ).attr( 'rel' );
+      _gaq.push( ['_trackEvent', 'Advertising', 'Click', ad_unit_id, undefined, true] );
+
+   }).find( '.close' ).on( 'click', function() {
+	   return false;
+
+	});
 
    
 
@@ -124,17 +171,40 @@ $(document).ready(function(){
 
 
 
+
    /* If the ad is being displayed, provide close button functionality */
    /* Animate the ad gracefully. */
+
    var timeout = 15000;
+
    if (typeof $('#welcome_ad')[0] != 'undefined' && $('#welcome_ad')[0].nodeName == 'DIV'){
+
       $('#welcome_ad .close').click(function(){ $('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); }); });
+
       $('#welcome_ad').animate({ height: 520 }, 800);
-      if ($('#welcome_ad[class^=\'time_\']').length > 0){
+
+      if ($('#welcome_ad[class^=\'time_\']').length > 0) {
+
          var timeout = $('#welcome_ad[class^=\'time_\']').attr('class').split('_')[1]*1000;
+
       }
-      setTimeout("$('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); });", timeout);
+
+      window.welcomeAdTimeoutHandle = window.setTimeout(function() {
+         $('#welcome_ad').animate({ height: 0 }, 800, function() { $(this).remove(); });
+      }, timeout);
+
+      $('#welcome_ad').on('hover', function() {
+
+         if ($(this).hasClass('persist-on-hover')) {
+
+            window.clearTimeout(window.welcomeAdTimeoutHandle);
+
+         }
+
+      });
+
    } else {
+
       if ($('#welcome_frame').contents().find('#welcome_ad[class^=\'time_\']').length > 0){
          var timeout = $('#welcome_frame').contents().find('#welcome_ad[class^=\'time_\']').attr('class').split('_')[1]*1000;
       }
@@ -156,30 +226,59 @@ $(document).ready(function(){
 
 
 
-      $.extend( $.expr[':'], {
-         bottomInViewport : function( el ) {
-            var scrollTop = ( document.documentElement.scrollTop || document.body.scrollTop ),
-               elOffsetTop = $( el ).offset().top,
-               elH = $( el ).height(),
-               winH = ( window.innerHeight && window.innerHeight < $( window ).height() ) ? window.innerHeight : $( window ).height();
+      $( '.ad_tracking' ).on( 'click', function() {
+         
+         var openxAdObj = openxGetAdObject($(this));
 
-            return ( elOffsetTop + elH < scrollTop + winH );
+         if (typeof openxAdObj.adunit_id !== 'undefined') {
+            btAdClickHandler(openxAdObj);
+            _gaq.push(['_trackEvent', 'Advertising', 'Click', openxAdObj.adunit_id, undefined, true]);
          }
+
+      }).find( '.close' ).on( 'click', function() {
+         return false;
+
       });
 
-      var items = $('.ad_tracking');
+
+      var ad_units = $('.ad_tracking');
+      var blocks = $('.block_level_tracking');
+
       $(window).on('scroll load', function () {
 
-         items.each(function() {
-            var ad_unit_id = $(this).attr('rel');
-            var inviewport = $(this).is(':bottomInViewport');
+         ad_units.each(function(index) {
+            var openxAdObj = openxGetAdObject($(this));
+            var inviewport = $(this).is(':topInViewport');
 
             if (inviewport && !$(this).data('displayed')) {
+               // Mark the ad as being viewed
                $(this).data('displayed', true);
-               _gaq.push(['_trackEvent', 'Advertising', 'In-View Impression', ad_unit_id, undefined, true]);
-            }
 
+               // Remove from the loop
+               ad_units.splice(index, 1);
+
+               // Send to GA and Baretrax
+               if (typeof openxAdObj.adunit_id !== 'undefined') {
+                  btAdImpressionHandler(openxAdObj);
+                  _gaq.push(['_trackEvent', 'Advertising', 'In-View Impression', openxAdObj.adunit_id, undefined, true]);
+               }
+            }
          });
+
+         blocks.each(function() {
+
+         	var block = $(this)
+         	var inviewport = $(this).is(':bottomInViewport');
+
+         	if (inviewport && !$(this).data('displayed')) {
+
+         		$(this).data('displayed', true);
+      			var category = $(this).data('section') + '|' + $(this).data('block');
+         		_gaq.push(['_trackEvent', 'Block Level Tracking', 'View', category, undefined, true]);
+
+         	}
+
+     	 	});
 
       });
 
@@ -215,16 +314,14 @@ window.setTimeout('social_activity_init()', 1000);});
    
 <script type="text/javascript">
 //<![CDATA[
-OX_b39bfedd.addVariable("env", "live");
-OX_b39bfedd.addVariable("pathname", "/privacy-policy");
-OX_b39bfedd.fetchAds();
+OX_default.addVariable("env", "live");
+OX_default.addVariable("pathname", "/privacy-policy");
+OX_default.fetchAds();
 //]]>
 </script>
 
 
    <!-- Body Javascript includes -->
-
-
 
 <!-- Google Analytics -->
 
@@ -232,6 +329,11 @@ OX_b39bfedd.fetchAds();
    
    
 
+
+
+
+            
+   
 
 
 <!-- Quantcast -->
@@ -272,7 +374,10 @@ OX_b39bfedd.fetchAds();
 <!-- Background Ad JS (custom) -->
 
 
+
+
 <!-- addOptions wrapper (custom) -->
+
 
 
 
@@ -297,8 +402,10 @@ OX_b39bfedd.fetchAds();
 <!-- OAS Ad Buffer -->
 
 
-<!-- Piwik -->
+<!-- Lotame Tracking -->
 
+
+<!-- Piwik -->
 
 
 
@@ -333,8 +440,7 @@ OX_b39bfedd.fetchAds();
 
 
 
-<!-- Background container -->
-<div id="background_container"></div>
+
 
 <div id="ad_hug">
 	<div id="ad_hug_left"></div>
@@ -349,8 +455,8 @@ OX_b39bfedd.fetchAds();
       </a>
 <br>
          <div class="primary">
-   	      <a id="login_link" href="/reg/login/display?referer=/privacy-policy" class="login button_primary button grid_item" title="Sign In">Login</a>
-      <a id="register_link" href="/reg/register/display?referer=/privacy-policy" class="button_secondary button register grid_item alpha" title="Register for Officer.com">Register</a>
+   	      <a id="login_link" href="/reg/login/display" class="login button_primary button grid_item" title="Sign In">Login</a>
+      <a id="register_link" href="/reg/register/display" class="button_secondary button register grid_item alpha" title="Register for Officer.com">Register</a>
       
       <div class="social_login grid_item">
          <script type="text/javascript">
@@ -382,11 +488,25 @@ OX_b39bfedd.fetchAds();
 
       </div>
    </div>
-
-   <div class="header_advertisement">
-	<aside class="ad_728x90">
-   <div class="openx_ad ad_tracking" rel="19504" id="openx_adunit_id__19504"><script type="text/javascript">OX_b39bfedd.showAdUnit("19504");</script></div>
+   <div class="ad_logos">
+      <div class="header_advertisement">
+   	<aside class="ad_728x90">
+   <div class="openx_ad ad_tracking" rel="19504" id="openx_adunit_id__19504"><script type="text/javascript">OX_default.showAdUnit("19504");</script></div>
 </aside>
+      </div>
+
+      <div class="mag_logos">
+         <div class="lepn">
+            <a href="/magazine/lepn/" alt="LEPN Current Issue">
+               <img src="http://r1.cygnuspub.com/files/media/www.officer.com/orion/lepn_header_logo.png" alt="LEPN Magazine">
+            </a>
+         </div>
+         <div class="let">
+            <a href="/magazine/let/" alt="LET Current Issue">
+               <img src="http://r1.cygnuspub.com/files/media/www.officer.com/orion/let_header_logo.png" alt="LEPN Magazine">
+            </a>
+         </div>
+      </div>
    </div>
 
 </header>
@@ -402,13 +522,13 @@ OX_b39bfedd.fetchAds();
    <!-- Navigation -->
    <nav id="navigation" class="test">
    <ul class="primary clearfix">
-	      <li class="nav_home active selected_home first"><a href="http://www.officer.com" target=""><span>Home</span></a></li>
+	      <li class="nav_home active selected_home first"><a href="http://www.officer.com" target=""><span class="arrow">Home</span></a></li>
 	      <li class="nav_topics"><a href="http://www.officer.com/topics" target=""><span>Topics</span></a></li>
 	      <li class="nav_latest-news"><a href="http://www.officer.com/latest-news" target=""><span>News</span></a></li>
 	      <li class="nav_features"><a href="http://www.officer.com/features" target=""><span>Features</span></a></li>
 	      <li class="nav_media-center"><a href="http://www.officer.com/media-center" target=""><span>Media Center</span></a></li>
 	      <li class="nav_directory"><a href="http://www.officer.com/directory" target=""><span>Property Room</span></a></li>
-	      <li class="nav_http://squad-room.officer.com"><a href="http://squad-room.officer.com" target="_blank"><span>Squad Room</span></a></li>
+	      <li class="nav_https://www.facebook.com/officercom"><a href="https://www.facebook.com/officercom" target="_blank"><span>Squad Room</span></a></li>
 	      <li class="nav_magazine"><a href="http://www.officer.com/magazine" target=""><span>Magazines</span></a></li>
 	      <li class="nav_events"><a href="http://www.officer.com/events" target=""><span>Events</span></a></li>
 	      <li class="nav_careers"><a href="http://www.officer.com/careers" target=""><span>Careers</span></a></li>
@@ -485,7 +605,6 @@ OX_b39bfedd.fetchAds();
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/training-academy/health-fitness" title="Health &amp; Fitness" target="">Health &amp; Fitness</a></li>
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/training-academy/in-service-education" title="In-Service Education" target="">In-Service Education</a></li>
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/training-academy/podcasts" title="Podcasts" target="">Podcasts</a></li>
-									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/training-academy/posa" title="Police Officer Safety Association" target="">Police Officer Safety Association</a></li>
 									<li class="item"><span class="decoration">▶</span> <a href="http://www.officer.com/topics/training-academy/webinars" title="Webinars" target="">Webinars</a></li>
 								</ul>
 			</div>
@@ -509,6 +628,7 @@ OX_b39bfedd.fetchAds();
 		</ul>
 	<!-- end secondary navigation -->
 </nav>
+
 
    <!-- Context Menu  -->
          
@@ -616,7 +736,7 @@ OX_b39bfedd.fetchAds();
 
    
    <aside class="ad_300x250">
-   <div class="openx_ad ad_tracking" rel="162587" id="openx_adunit_id__162587"><script type="text/javascript">OX_b39bfedd.showAdUnit("162587");</script></div>
+   <div class="openx_ad ad_tracking" rel="162587" id="openx_adunit_id__162587"><script type="text/javascript">OX_default.showAdUnit("162587");</script></div>
 </aside>
    
    <section id="social_activity" class="social_activity block" style="clear:both;">
@@ -636,7 +756,7 @@ var params = {
 </section>
 
    <aside class="ad_300x600">
-   <div class="openx_ad ad_tracking" rel="350330" id="openx_adunit_id__350330"><script type="text/javascript">OX_b39bfedd.showAdUnit("350330");</script></div>
+   <div class="openx_ad ad_tracking" rel="350330" id="openx_adunit_id__350330"><script type="text/javascript">OX_default.showAdUnit("350330");</script></div>
 </aside>
    
    <div class="clear"></div>
@@ -659,7 +779,7 @@ var params = {
     <div class="ad_container">
         
         <aside class="ad_728x90">
-   <div class="openx_ad ad_tracking" rel="162586" id="openx_adunit_id__162586"><script type="text/javascript">OX_b39bfedd.showAdUnit("162586");</script></div>
+   <div class="openx_ad ad_tracking" rel="162586" id="openx_adunit_id__162586"><script type="text/javascript">OX_default.showAdUnit("162586");</script></div>
 </aside>
 
     </div>
@@ -755,20 +875,131 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
 </div>
 
 
+   <style type="text/css">
+.reg-prompt-form .container {
+   width: 630px !important;
+}
+</style>
+<div class="container reg-prompt-container">
+	<div class="reg-prompt message">
+		<div class="reg-prompt-header">
+		   <img src="http://r3.cygnuspub.com/files/media/www.officer.com/orion/site_logo.png" alt="" width="125px;">
+			<a class="reg-prompt accept button_secondary button" href="/reg/register/display">Register</a>
+			<a class="reg-prompt login  button_primary button" href="/reg/login/display">Log in</a>
+		</div>
+		<div class="reg-prompt-body">
+
+
+						<div class="reg-prompt-intro">
+		   	
+<section class="content_list block">
+
+   
+      
+      
+            
+            
+
+   <!-- If there is no content available -->
+   
+
+     
+   <ul class="clearfix list first_list list_0 odd_list body">
+      
+      <!-- Advertisement? -->
+      
+            
+
+      
+         <!-- Check to see if we want items in the list, but not displayed by default? -->
+                  
+         <li class="item item_0 last first odd"> 
+
+            <!-- Does this list contain featured items? -->
+                           <div class="content_body_note">
+   <h1>Enhance your experience.</h1>
+<p>Thank you for your regular readership of and visits to Officer.com. To continue viewing content on this site, please take a few moments to fill out the form below and register on this website.</p>
+<p>Registration is required to help ensure your access to featured content, and to maintain control of access to content that may be sensitive in nature to law enforcement.</p>
+</div>
+
+            <!-- Use the Default Format (inbt) -->
+            
+            <div class="featured_result"></div>
+         </li>
+
+         <!-- Inc / Dec List Counters -->
+                           
+         <!-- Only print out a limited amount of items from the query result -->
+                
+         <!-- Advertisement? -->
+                 
+         <!-- Break to Another List? --> 
+         
+      
+   </ul>
+  
+   <div class="clear"></div>
+   
+   
+   
+   
+</section>
+
+		   </div>
+		   
+		   
+		</div>
+		<div class="reg-prompt-footer">
+		   <div class="left">
+		      Click here to <a class="accept" href="/reg/register/display">Register</a> for Officer.com
+		   </div>
+		   <div class="right">
+		      <a class="reg-prompt decline" href="">No Thanks</a>
+		   </div>
+		   <div class="clear"></div>
+		</div>
+	</div>
+</div>
 
 
          <!--[if gte IE 6 ]> <iframe src="/welcomead.html?env=live&pathname=%2Fprivacy-policy" align="middle" scrolling="no" frameborder="0" id="welcome_frame" style="left:25%;right:25%;width:640px;height:0px;margin:0 auto;"></iframe><![endif]-->
       <!--[if (gt IE 9)|!(IE)]><!-->
          <aside class="ad_flexible">
-   <div class="openx_ad ad_tracking" rel="162770" id="openx_adunit_id__162770"><script type="text/javascript">OX_b39bfedd.showAdUnit("162770");</script></div>
+   <div class="openx_ad ad_tracking" rel="162770" id="openx_adunit_id__162770"><script type="text/javascript">OX_default.showAdUnit("162770");</script></div>
 </aside>
       <!--[endif]---->
+
             <aside class="ad_flexible">
-   <div class="openx_ad ad_tracking" rel="162771" id="openx_adunit_id__162771"><script type="text/javascript">OX_b39bfedd.showAdUnit("162771");</script></div>
+   <div class="openx_ad ad_tracking" rel="162771" id="openx_adunit_id__162771"><script type="text/javascript">OX_default.showAdUnit("162771");</script></div>
 </aside>
             <aside class="ad_flexible">
-   <div class="openx_ad ad_tracking" rel="162772" id="openx_adunit_id__162772"><script type="text/javascript">OX_b39bfedd.showAdUnit("162772");</script></div>
+   <div class="openx_ad ad_tracking" rel="162772" id="openx_adunit_id__162772"><script type="text/javascript">OX_default.showAdUnit("162772");</script></div>
 </aside>
+      
+
+      <aside class="ad_flexible">
+   <!-- Unable to obtain an ad_unit_id -->
+</aside>
+
+	   <script>
+
+      $(function()
+      {
+      	var view = $( window );
+      	var main = $( '#container' );
+      	var viewW = view.width();
+      	var mainW = main.width();
+
+      	var left = ( viewW / 2 ) - ( mainW / 2 );
+
+      	var style =  $( '<style>.ad_flexible + .prWrap ,.ad_flexible .prWrap { left: '+left+'px !important; position : fixed !important; }</style>' );
+
+      	style.appendTo( 'head' );
+
+      } )
+
+      </script>
+
    
 
 
@@ -776,21 +1007,17 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
 
 
 
-   <script type="text/javascript" src="http://srv.admailtiser.com/pix/asyncPixelLoader.js?url=http%3A%2F%2Fconvusmp.admailtiser.com%2Fst%3Fcias%3D1%26cipid%3D89020%26ttype%3D0%26pix%3D31119026"></script>
-<script type="text/javascript" src="http://www.officer.com/app/merrick/files/www.officer.com/js/c744e1e9e22a94bb024f6d24a854af6d.js"></script>
+
+
+
+   <script type="text/javascript" src="http://tags.crwdcntrl.net/c/3676/cc_af.js"></script>
+<script type="text/javascript" src="http://srv.admailtiser.com/pix/asyncPixelLoader.js?url=http%3A%2F%2Fconvusmp.admailtiser.com%2Fst%3Fcias%3D1%26cipid%3D89020%26ttype%3D0%26pix%3D31119026"></script>
+<script type="text/javascript" src="http://www.officer.com/app/merrick/files/www.officer.com/js/90cd7be718332886b55821cab392528e.js"></script>
 
 
    
 <script type="text/javascript">
 //<![CDATA[
-
-   // Fake it till you make it, IE8-style.
-   if (!window.console) {
-      console = {
-         log: function() { }
-      }
-   }
-
 
    
       var _qevents = _qevents || [];
@@ -809,47 +1036,6 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
    });
    
    
-
-window['tracker_data'] = { };
-try {
-   var _paq = _paq || [];
-   (function(){
-    var u='/lib/piwik/';
-    _paq.push(['setSiteId', 7]);
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setDomains','*.officer.com']);
-    _paq.push(['setCustomData',window['tracker_data']]);
-    _paq.push(['setRequestMethod','POST']);
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-    var d=document,
-        g=d.createElement('script'),
-        s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript';
-        g.defer=true;
-        g.async=true;
-        g.src=u+'piwik.js';
-        s.parentNode.insertBefore(g,s);
-   })();
-} catch( err ) { }
-
-function track_action(action,name,data) {
-
-   if (typeof name == 'undefined') var name = '';
-   if (typeof data == 'undefined') var data = window['tracker_data'];
-   data['action_'+action] = true;
-   try {
-     var u='/lib/piwik/';
-     var piwikTracker = Piwik.getTracker(u + 'piwik.php', 7);
-     piwikTracker.setDomains('*.officer.com');
-     if (name != '') piwikTracker.setDocumentTitle(name);
-     piwikTracker.setCustomData(data);
-     piwikTracker.setRequestMethod('POST');
-     piwikTracker.trackPageView();
-   } catch( err ) { }
-}
-
-
 
 <!-- Default Insight Tag -->
 var _bizo_data_partner_id = "786";
