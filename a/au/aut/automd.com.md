@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automd.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627082343id_/http%3A//www.automd.com/default/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automd.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201015459id_/http%3A//www.automd.com/default/privacy-policy) for the most accurate reproduction.*
 
 # AutoMD - Privacy Policy
 
