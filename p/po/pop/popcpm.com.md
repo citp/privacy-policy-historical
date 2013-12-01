@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popcpm.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601222611id_/http%3A//popcpm.com/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcpm.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201220445id_/http%3A//popcpm.com/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # POPCPM
 
