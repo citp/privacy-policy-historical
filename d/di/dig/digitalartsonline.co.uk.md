@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the digitalartsonline.co.uk privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530223700id_/http%3A//www.idg.co.uk/terms-and-conditions/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalartsonline.co.uk privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201031428id_/http%3A//www.idg.co.uk/terms-and-conditions/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# IDG UK - Privacy Policy
+# T&C | IDG UK
 
 ## Introduction – who we are
 
 This website is owned and operated by IDG Communications Limited of 101 Euston Road, London, NW1 2RA, United Kingdom, Reg. Co. No. 1197840, VAT No. GB-404696446 ("IDG UK").  IDG UK has notified as a data controller under the UK Data Protection Act 1998.
 
-IDG UK is the owner and operator of CIO UK ([www.cio.co.uk](http://www.cio.co.uk/)), Techworld UK ([www.techworld.com](http://www.techworld.com/)), Computerworld UK ([www.computerworlduk.com](http://www.computerworlduk.com/)), PC Advisor ([www.pcadvisor.co.uk](http://www.pcadvisor.co.uk/)), Macworld ([www.macworld.co.uk](http://www.macworld.co.uk/)), MacVideo ([www.macvideo.tv](http://www.macvideo.tv/)), Digital Arts Online ([www.digitalartsonline.co.uk](http://www.digitalartsonline.co.uk/)), CFO World ([www.cfoworld.co.uk](http://www.cfoworld.co.uk/)), Tech-Resources ([www.tech-resources.co.uk](http://www.tech-resources.co.uk/)) and sub-domains of these websites. IDG UK is a subsidiary of International Data Group, Inc.
+IDG UK is the owner and operator of CIO UK ([www.cio.co.uk](http://www.cio.co.uk/?utm_content=web.archive.org)), Techworld UK ([www.techworld.com](http://www.techworld.com/?utm_content=web.archive.org)), Computerworld UK ([www.computerworlduk.com](http://www.computerworlduk.com/?utm_content=web.archive.org)), PC Advisor ([www.pcadvisor.co.uk](http://www.pcadvisor.co.uk/?utm_content=web.archive.org)), Macworld ([www.macworld.co.uk](http://www.macworld.co.uk/?utm_content=web.archive.org)), MacVideo ([www.macvideo.tv](http://www.macvideo.tv/?utm_content=web.archive.org)), Digital Arts Online ([www.digitalartsonline.co.uk](http://www.digitalartsonline.co.uk/?utm_content=web.archive.org)), CFO World ([www.cfoworld.co.uk](http://www.cfoworld.co.uk/?utm_content=web.archive.org)), Tech-Resources ([www.tech-resources.co.uk](http://www.tech-resources.co.uk/?utm_content=web.archive.org)) and sub-domains of these websites. IDG UK is a subsidiary of International Data Group, Inc.
 
-The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles from around the world including Connect.com, connect.co.uk, CIO, CSO, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes cio.com, csoonline.com, infoworld.com, idgconnect.com, networkworld.com, macworld.com, pcworld.com and gamepro.com. A complete listing is available at [www.idg.com](http://www.idg.com/). The IDG Publishing Network is operated by our ultimate holding company International Data Group, Inc. together with its subsidiaries (“our Group”).
+The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles from around the world including Connect.com, connect.co.uk, CIO, CSO, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes cio.com, csoonline.com, infoworld.com, idgconnect.com, networkworld.com, macworld.com, pcworld.com and gamepro.com. A complete listing is available at [www.idg.com](http://www.idg.com/?utm_content=web.archive.org). The IDG Publishing Network is operated by our ultimate holding company International Data Group, Inc. together with its subsidiaries (“our Group”).
 
 ## The Purpose of this Policy - Your Consent
 
@@ -59,7 +59,7 @@ Please be aware that our Website may link to other web sites which may be access
 
 ## Cookies
 
-For information on what cookies we use on IDG UK websites and how to manage them, [click here](http://www.idg.co.uk/cookies/).
+For information on what cookies we use on IDG UK websites and how to manage them, [click here](http://www.idg.co.uk/cookies/?utm_content=web.archive.org).
 
 ## Changes to the Policy
 
@@ -67,7 +67,7 @@ IDG UK reviews its privacy and data protection policy periodically. We reserve t
 
 ## Contact Us
 
-If you have any comments or queries in connection with our privacy policy, please [Contact Us](mailto:Alex_lincoln@idg.co.uk).
+If you have any comments or queries in connection with our privacy policy, please [Contact Us](mailto:Alex_lincoln@idg.co.uk?utm_content=web.archive.org).
 
 We can be contacted at:   
 IDG Communications Ltd  
@@ -76,5 +76,5 @@ London
 NW1 2RA  
 United Kingdom  
  **Phone:** +44 (0) 20 7756 2800  
- **Email:**[webmaster@idg.co.uk](mailto:webmaster@idg.co.uk)  
+ **Email:**[webmaster@idg.co.uk](mailto:webmaster@idg.co.uk?utm_content=web.archive.org)  
 Last updated: May 09
