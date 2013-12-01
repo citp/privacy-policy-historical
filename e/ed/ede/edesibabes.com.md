@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edesibabes.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603002218id_/http%3A//edesibabes.com/privacy-policy-update) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edesibabes.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201103004id_/http%3A//edesibabes.com/privacy-policy-update) for the most accurate reproduction.*
 
 # Privacy Policy Update | Desi Babes, Pakistani Indian Girls Blog
 
@@ -59,6 +59,31 @@ This website/blog uses third-party advertising companies to serve ads when visit
 If you wish to opt out of Advertising companies tracking and tailoring advertisements to your surfing patterns you may do so at [Network Advertising Initiative](http://networkadvertising.org/managing/opt_out.asp).
 
 Google uses the Doubleclick DART cookie to serve ads across it’s Adsense network and you can get further information regarding the DART cookie at [Doubleclick](http://www.doubleclick.com/privacy/faq.aspx) as well as opt out options at [Google’s Privacy Center](http://www.google.com/privacy_ads.html)
+
+### Related Posts :
+
+  * [](http://edesibabes.com/amna-sajjad-from-okara-2/)
+
+The sender of this wonderful GAZAL is Amna Sajjad who lives in Okara city. She has fulfilled her promise and send us he ...
+
+  * [](http://edesibabes.com/leaf-fashion-for-desi-girls/)
+
+Now the season of winter has come. The jersey dress is accentual for the girls. Here are some collections of jersey tha ...
+
+  * [](http://edesibabes.com/sana-punjab-university-lahore/)
+
+Punjab University Lahore is the country's leading university, offering a broad program of studies at the undergraduate, ...
+
+  * [](http://edesibabes.com/eid-mubarik-to-our-readers/)
+
+Best wishes to all our readers at this wonderful occasion of Eid-ul-Fitar. Our team at edesibabes.com wishes you best ...
+
+  * [](http://edesibabes.com/low-fat-and-high-protein-foods-for-health/)
+
+Low fat and high protein foods are perfect for fat loss. It helps you to build strong muscles. These foods reduce blood ...
+
+
+
 
 **Related Posts**
 
