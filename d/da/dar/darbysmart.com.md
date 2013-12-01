@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darbysmart.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624044551id_/http%3A//darbysmart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darbysmart.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201093824id_/http%3A//www.darbysmart.com/privacy) for the most accurate reproduction.*
 
 # Darby Smart
 
@@ -46,7 +46,7 @@ Darby Smart does not knowingly collect personally identifiable information from 
 
 ### Opt-Out & Unsubscribe
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Darby Smart by contacting us here: [info@darbysmart.com](mailto:info@darbysmart.com)
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Darby Smart by contacting us here: [wink@darbysmart.com](mailto:wink@darbysmart.com)
 
 ### Changes to this Statement
 
@@ -57,11 +57,10 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 Darby Smart welcomes your questions or comments regarding this Statement of Privacy. If you believe that Darby Smart has not adhered to this Statement, please contact us at: 
 
 Darby Smart, Inc   
-156 2nd Street   
-San Francisco, California 94105   
+944 Market St.   
+San Francisco, California 94102   
 United States of America   
-[info@darbysmart.com](mailto:info@darbysmart.com)   
-(415) 340-2542 
+[wink@darbysmart.com](mailto:wink@darbysmart.com)
 
 Our Site is maintained in the United States of America. By using the Site, you authorize the export of Personal Information to the USA and its storage and use as specified in this policy. 
 
