@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primalblueprint.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614105832id_/http%3A//primalblueprint.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primalblueprint.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201090428id_/http%3A//primalblueprint.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
