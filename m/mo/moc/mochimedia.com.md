@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mochimedia.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628072938id_/http%3A//www.mochimedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mochimedia.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201082731id_/http%3A//www.mochimedia.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Mochi Media :: Fueling Creativity
 
