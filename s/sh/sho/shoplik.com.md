@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoplik.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506220308id_/http%3A//www.shoplik.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoplik.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201125655id_/http%3A//www.shoplik.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -10,19 +10,19 @@ We shall do our utmost to protect your private information on our systems & our 
 
 #### Profile Information:
 
-This is the information that you will need to provide when you register for our services. This shall include:
+This is the information that you will need to provide when you register for our services. This shall include: 
 
 #### Personal Identification& Financial Information :
 
-Name, Gender, Date of Birth, E-mail ID, Address, &Telephone Number&Banking & Account Information. This information is collected to manage our relationship and to enhance your shopping experience by ensuring speedy fulfillment of the services requested by you. We might also use this information in an aggregated format for internal statistical or marketing research.
+Name, Gender, Date of Birth, E-mail ID, Address, &Telephone Number&Banking & Account Information. This information is collected to manage our relationship and to enhance your shopping experience by ensuring speedy fulfillment of the services requested by you. We might also use this information in an aggregated format for internal statistical or marketing research. 
 
 #### General Log Information :
 
-Computer identification, IP address , browser, browser language etc. which are a part of the standard logs captured by a web server.
+Computer identification, IP address , browser, browser language etc. which are a part of the standard logs captured by a web server. 
 
 #### Payment, Account & Transactional Information :
 
-Account & Payment history like your billing information and a transactional record of your e commerce activities. This information is collected to determine and verify the any service charges payable by you and to conform to any statutory or regulatory requirement. We might also use this information to compile statistical and demographical profiles about you for us and our marketing activities and to customize our services for you.
+Account & Payment history like your billing information and a transactional record of your e commerce activities. This information is collected to determine and verify the any service charges payable by you and to conform to any statutory or regulatory requirement. We might also use this information to compile statistical and demographical profiles about you for us and our marketing activities and to customize our services for you. 
 
 Your personal information is only collected so that we can effectively conduct our business and ensure efficiency of our services. This information shall not be intercepted, monitored, disclosed, traded upon or sold to any third party for any reason, except the following:
 
