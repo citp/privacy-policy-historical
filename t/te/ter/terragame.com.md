@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terragame.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425110047id_/http%3A//www.terragame.com/terraprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terragame.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201172827id_/http%3A//www.terragame.com/terraprivacy.html) for the most accurate reproduction.*
 
 # Downloadable Games Collection for PC.
 
