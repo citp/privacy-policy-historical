@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rupeepower.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429155709id_/http%3A//www.rupeepower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rupeepower.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201071404id_/http%3A//www.rupeepower.com/privacy-policy) for the most accurate reproduction.*
 
 # RupeePower: Get Cheapest Loan Rates and Insurance Quotes in India | Buy Car insurance online
 
 Date Last Revised:  Monday, 18 April 2011
 
-RupeePower.com is committed to maintaining the confidentiality, integrity and security of all the personal information of our users. This Privacy & Security Policy explains how we protect personal information provided through our websites such as [www.rupeepower.com](http://www.rupeepower.com/) & our other co-branded sites (the “Site”) and how we use that information in connection with our service offered through the Site (the “Service”). “Personal information” for purposes of this Policy means information that identifies you, such as your name, address, phone number or email address.
+RupeePower.com is committed to maintaining the confidentiality, integrity and security of all the personal information of our users. This Privacy & Security Policy explains how we protect personal information provided through our websites such as [www.rupeepower.com](https://web.archive.org/) & our other co-branded sites (the “Site”) and how we use that information in connection with our service offered through the Site (the “Service”). “Personal information” for purposes of this Policy means information that identifies you, such as your name, address, phone number or email address.
 
 RupeePower.com applies high privacy and security standards to protect your personal information. We regularly re-evaluate our policies and adapt them as necessary to deal with new challenges.
 
@@ -15,13 +15,13 @@ RupeePower.com applies high privacy and security standards to protect your perso
 
 We will not sell or rent your personal information to anyone, for any reason, at any time. RupeePower.com uses and discloses your personal information only as follows:
 
-  * to analyze usage of the site and to improve the Service;
-  * to send you any administrative notices, offer alerts and communications relevant to your use of the Service;
-  * to enable you to apply for certain products and services for which you have chosen to apply;
-  * for market research, project planning, troubleshooting issues, detecting and protecting against error, fraud or other criminal activity;
-  * to third-party contractors that provide services to RupeePower.com and are bound by these same privacy restrictions;
-  * to enforce RupeePower.com’s Terms of Use; and
-  * as otherwise set forth in this Privacy and Security Policy.
+  * To analyze usage of the site and to improve the Service;
+  * To send you any administrative notices, offer alerts and communications relevant to your use of the Service;
+  * To enable you to apply for certain products and services for which you have chosen to apply;
+  * For market research, project planning, troubleshooting issues, detecting and protecting against error, fraud or other criminal activity;
+  * To third-party contractors that provide services to RupeePower.com and are bound by these same privacy restrictions;
+  * To enforce RupeePower.com’s Terms of Use; and
+  * As otherwise set forth in this Privacy and Security Policy.
 
 
 
@@ -162,12 +162,10 @@ We may update this privacy statement to reflect changes to our information pract
 
 If you have questions, comments, concerns or feedback regarding this Privacy and Security Policy or any other privacy or security concern, send an e-mail to [privacy@rupeepower.com](mailto:privacy@rupeepower.com).
 
+Plot No 68, Ground Floor, Near SBI Academy,  
+Sector - 18, Gurgaon - 122001,  
+Phone No : 0124 - 4147280 Ext 109   
+Haryana, India 
+
   
-
-
-**RupeePower.com (Mint Street Information & Technology Pvt Ltd.)**
-
-#521, 5th floor, DLF Galleria Towers  
-Gurgaon - 122009, Haryana, India.  
-Phone: +91-124-4005119  
 
