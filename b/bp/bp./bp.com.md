@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bp.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612011644id_/http%3A//www.bp.com/en/global/corporate/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bp.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201121141id_/http%3A//www.bp.com/en/global/corporate/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy statement
+# Privacy statement | BP Global
 
 ###### BP Privacy Statement
 
@@ -50,7 +50,7 @@ We reserve the right to disclose your personal information as required by law, o
 
 
 ### Direct Marketing  
-****
+
 
 **You agree** that BP may send you marketing communications in line with your previously expressed marketing preferences. If you no longer wish to receive such, please contact us at [Webassure@bp.com](mailto:Webassure@bp.com) to modify your preferences, or follow the opt-out instructions contained in each marketing communication.  
 
@@ -96,5 +96,10 @@ We review this privacy statement regularly and may modify it from time to time.�
 ### Hyperlinks and Embedded Functionality  
 
 
-Our website may contain links to content or other functionality provided by third parties which are outside our control and are not covered by our privacy statement, including the embedded search box facility. The search box on this website (“ **Search Box** ”) is powered by Google Inc (“ **Google** ”).  You acknowledge and agree that Google’s privacy policy (located at [http://www.google.com/privacy.html](http://www.google.com/policies/privacy/)) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.  Similarly, if you access other websites using links or use other embedded functionality provided by third parties, the operators of those websites may collect information from or about you which will be used by them in accordance with their privacy statement, which may differ from ours. We encourage you to read those providers’ privacy statements on their websites.  We do not accept any responsibility or liability for these policies.  
+Our website may contain links to content or other functionality provided by third parties which are outside our control and are not covered by our privacy statement, including the embedded search box facility. The search box on this website (“ **Search Box** ”) is powered by Google Inc (“ **Google** ”).  You acknowledge and agree that Google’s privacy policy (located at [http://www.google.com/privacy.html](http://www.google.com/policies/privacy/)) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.  Similarly, if you access other websites using links or use other embedded functionality provided by third parties, the operators of those websites may collect information from or about you which will be used by them in accordance with their privacy statement, which may differ from ours. We encourage you to read those providers’ privacy statements on their websites.  We do not accept any responsibility or liability for these policies.
 
+### BP Data Privacy Rules
+
+In addition to the commitments set out in this privacy statement, BP has created a set of data privacy rules which apply to the processing of all personal information by BP.  These privacy rules can be found at [http://www.bp.com/content/dam/bp/pdf/BP_data_privacy_rules_public_document_16April_2010.pdf ](https://web.archive.org/content/dam/bp/pdf/BP_data_privacy_rules_public_document_16April_2010.pdf)
+
+For any queries regarding this document please contact [privacy3@bp.com](mailto:privacy3@bp.com)
