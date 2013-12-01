@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atf.gov privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629101753id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atf.gov privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201062536id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.*
 
 # USDOJ: Privacy Policy
 
