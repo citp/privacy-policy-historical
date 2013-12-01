@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takas.lk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602190606id_/http%3A//takas.lk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takas.lk privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201132215id_/http%3A//takas.lk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,5 +72,5 @@ No. 48/2 Ward Place
 Colombo 07  
 Sri Lanka  
 Web:                                     [www.takas.lk](http://www.takas.lk/)   
-Email:                                    [info@takas.lk](https://web.archive.org/web/20130602190606id_/Local%20Settings/Temp/Rar$DI11.093/info@takas.lk)  
+Email:                                    [info@takas.lk](https://web.archive.org/web/20131201132215id_/Local%20Settings/Temp/Rar$DI11.093/info@takas.lk)  
 Contact Number:             +94 11 778 2527 ****
