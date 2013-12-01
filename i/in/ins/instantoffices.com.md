@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantoffices.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622200958id_/http%3A//www.instantoffices.com/solutions/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantoffices.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201071057id_/http%3A//www.instantoffices.com/solutions/privacy.aspx) for the most accurate reproduction.*
 
 # Instant | Privacy Pages | Read more...
 
@@ -10,9 +10,9 @@
 
 Instant Offices Limited ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://web.archive.org/web/20130622201214id_/http://www.instantoffices.com/terms-of-website-use.aspx) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://web.archive.org/web/20131201071057id_/http://www.instantoffices.com/terms-of-website-use.aspx) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Instant Offices Limited of 13th Floor, 20 Eastbourne Terrace, London, W2 6LG. 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Instant Offices Limited of The Blue Fin Building, 1st floor, 110 Southwark Street, London SE1 0TA. 
 
 #####  Information we may collect from you
 
@@ -147,13 +147,29 @@ We use information held about you in the following ways:
 
 
 
-We may also use your data, or permit selected third parties and our partners to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone. Our partners will be landlords or operators with properties in the same area as you are seeking premises – they may contact you about properties in the same area as your enquiry for a period until you tell us or them that you are no longer looking. The selected third parties who may contact you will be providers of goods and services related to acquiring business premises, for example (but not limited to) fit-out companies, commercial property agents and IT equipment suppliers.
+We may also use your data, or permit selected third parties and our partners to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone. Our partners will be landlords or operators with properties in the same area as you are seeking premises – they may contact you about properties in the same area as your enquiry for a period until you tell us or them that you are no longer looking. The selected third parties who may contact you will be providers of goods and services related to acquiring business premises, for example (but not limited to) fit-out companies, commercial property agents and IT equipment suppliers. If you do not want us to use your data in this way, please tick the relevant box situated on the form on which we collect your data (the registration form). 
 
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of your enquiry. 
+Instant and Third Parties/Affiliates agree to identify themselves in all telephone communications with you.
 
-If you are a new customer, and where we permit selected third parties and our partners to use your data, we (or they) will contact you by electronic means only if you have consented to this. 
+You agree to receive telephone calls from Instant at the telephone number you provide to Instant, even if you have registered this number on a Do-Not-Call list.
 
-If you do not want us to use your data in this way, please tick the relevant box situated on the form on which we collect your data (the registration form).
+Instant and Third Parties/Affiliates agree to provide you with a means to opt out of receiving further communications from Instant to the telephone number you provide.
+
+You agree to receive telephone calls from Instant for the purpose of marketing and answering questions you have about Instant's products and services.
+
+If the telephone number you provide to Instant is for a cellular telephone or "smart phone", you agree to receive telephone calls and text messages from Instant at that number.
+
+You agree to receive e-mails from Instant advertising Instant's products and services at the e-mail address you provide to Instant.
+
+Instant and Third Parties/Affiliates agree to provide in any e-mails advertising Instant's products and services a means for you to opt out of receiving further such e-mails from Instant.
+
+You expressly agree to receive communications from Instant at the telephone number you provide that advertise Instant's products and services and which may be placed by an automatic telephone number dialing system.
+
+You expressly agree to receive telephone communications at the telephone number you provide that contain pre-recorded messages from Instant concerning Instant's products and services, and Instant and Third Parties/Affiliates agree to provide a means for you to opt out of receiving future pre-recorded messages from Instant.
+
+Instant and Third Parties/Affiliates agree that your express consent to receive communications by telephone marketing Instant's products and services under these Terms and Conditions is not a condition of your purchase of Instant's products and services.
+
+You agree to receive calls from Instant's employees and contractors, as well as from third-party companies placing calls on behalf of Instant in accordance with these Terms and Conditions, and you agree to the recording of calls to or from you for quality of service and training purposes.
 
 #####  Disclosure of your information
 
@@ -165,14 +181,14 @@ We may disclose your personal information to third parties:
 
   * If Instant Offices Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [ terms of use](https://web.archive.org/web/20130622201214id_/http://www.instantoffices.com/terms-of-website-use.aspx) and other agreements; or to protect the rights, property, or safety of Instant Offices Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [ terms of use](https://web.archive.org/web/20131201071057id_/http://www.instantoffices.com/terms-of-website-use.aspx) and other agreements; or to protect the rights, property, or safety of Instant Offices Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
 
 #####  Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Web Manager, Instant Offices Limited, 13th Floor, 20 Eastbourne Terrace, London, W2 6LG or [ hq@instantoffices.com](mailto:hq@instantoffices.com). 
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Web Manager, Instant Offices Limited, The Blue Fin Building, 1st floor, 110 Southwark Street, London SE1 0TA or [ hq@instantoffices.com](mailto:hq@instantoffices.com). 
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -186,6 +202,6 @@ Any changes we may make to our privacy and cookie policy in the future will be p
 
 #####  Contact
 
-Questions, comments and requests regarding this privacy and cookie policy are welcomed and should be addressed to Instant Offices Limited, 13th Floor, 20 Eastbourne Terrace, London, W2 6LG or [hq@instantoffices.com](mailto:hq@instantoffices.com).
+Questions, comments and requests regarding this privacy and cookie policy are welcomed and should be addressed to Instant Offices Limited, The Blue Fin Building, 1st floor, 110 Southwark Street, London SE1 0TA or [hq@instantoffices.com](mailto:hq@instantoffices.com).
 
 Last edited: December 2012
