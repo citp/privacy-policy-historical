@@ -1,92 +1,121 @@
-> *The following text is extracted and transformed from the camfrog.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628232025id_/http%3A//www.camfrog.com/en/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camfrog.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201111744id_/http%3A//www.camfrog.com/en/privacy.phtml) for the most accurate reproduction.*
 
 # Camfrog - Privacy Policy
 
-December 26, 2009
+Camfrog is committed to protecting your privacy. We want you to feel free to express yourself within the Camfrog community, and are committed to ensuring that you are in control of what you share with the rest of the community, and with Camfrog.
 
-Your privacy is important to Camfrog. Camfrog makes it a priority to respect your privacy and to protect your personal information.
+## Information Collection & Use
 
-## Collection and Information Usage
-
-Camfrog collects two types of information about Camfrog users. Camfrog collects personal information that is identifiable like an individuals name or email address and non-identifiable information.
-
-## Identifiable Information
-
-When registering a Camfrog nickname users are asked to enter their email address and they are also given the option to enter their first and last name. This information is used to allow the user to logon to Camfrog and have access to our services. The information you enter during registration may appear in our public Camfrog user directory. Your email address is pre-checked as hidden by default so it will not appear in the directory unless you specifically allow it. You can change your identifiable profile information any time by going to your Camfrog settings. It is possible to add a photo to your profile by going to the Camfrog settings and this can also be changed or removed. During registration users are asked to input their birthday and sex. Users can also optionally add their occupation, homepage URL, and comments about themselves in their user profile settings. Your information will not be supplemented with information from other sources.
-
-## Non-Identifiable Information
-
-Camfrog also collects Non-Identifiable information. For example our website may keep logs of visitors Internet Browser type, Operating System, IP address and other anonymous information. Camfrog client collects your IP address, Camfrog client software version, and operating system version. Users should be aware that (1) to facilitate moderation of the room, Camfrog room owners have the transitory ability to see the IP addresses of users who join the room, and (2) both static and dynamic IP addresses can be mapped back to users on most ISPs based on the users login time and recorded information.
-
-## Web Browser Cookies
-
-The Camfrog website may use cookies to help keep you logged on with your nickname and password when you are using our website services. Cookies may also be used to track what Camfrog pages you visit so we can better serve you.
-
-## Information Sharing
-
-Camfrog does not share your personally identifiable information with third parties except in certain circumstances: 
-
-  * If we are sent a subpoena or some other legal document or government request then we are required to comply with the law.
-  * If we feel it is necessary to share information to prevent Camfrog Terms of Service violations or software piracy, fraud, or any other illegal or inappropriate activity.
+  
 
 
+## Registration
 
-## Modifying Personal Information
+In order to use Camfrog, you must first complete the registration form. During registration you are required to give contact information such as your email address. We use this information to contact you about services on our site in which you have expressed interest. Please see below for Information and Sharing Disclosure. 
 
-Go to your Camfrog settings and then choose your profile settings to modify your personal information. It is not possible to modify some non-identifiable information like your birthday and sex.
+## Communications from the Site
 
-## Security Measures
+  * Special Offers and Updates   
+We will occasionally send you information on products, services, special deals, or promotions. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the "Choice and Opt-out." 
+  * Newsletters   
+If you wish to subscribe to our newsletter, we will use your email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section. 
+  * Service-related Announcement   
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
+  * Customer Service   
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password and/or to confirm any changes thereof. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. 
+  * Profile   
+We store information that we collect through cookies, log files, clear gifs, to create a "profile" of your preferences. Camfrog collects personally identifiable information from our Users at several different points on our Website or through our downloaded software. We tie your personally identifiable information, and your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you. We do not share your profile with other third parties without your consent. 
+  * Orders   
+If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and billing address) and financial information (such as credit card number and expiration date). We will retain and use this information for billing purposes and to fill and confirm your current and future orders, and to contact you. Except as otherwise provided herein, we will not share this information with any other person or entity. 
 
-Sensitive and private data exchange between the Camfrog website and Camfrog users happens over a SSL secured communication channel. All sensitive user data between the Camfrog Central server and Camfrog users is encrypted and protected with digital signatures.
 
-Camfrog Video Chat Client software is delivered protected with a digital signature to prevent unauthorized executable changes and to protect the Camfrog installer integrity.
 
-While Camfrog Client users store some personal information on our servers we never keep it in clean text so the data stays protected.
+## Uses of Information
 
-## Data Retention
+Camfrog's primary goal in collecting personal information is to provide you, the user, with a customized experience on Camfrog and through our partners. This includes personalization services, interactive communications, and many other types of services, most of which are completely free to you. In order to provide services free of charge, we display advertisements and encourage your participation. By knowing a little about you, Camfrog is able to deliver more relevant advertisements and content, and hence better service, to you.  
+In our role of delivering targeted advertisements, Camfrog plays the middleman. Advertisers give us advertisements and tell us the type of audience they want to reach (for example, males over 35 years old). Camfrog displays the advertisement to users meeting the specified criteria. In this process, the advertiser never has access to individual user information. This kind of advertisement targeting is done with banner ads as well as promotional email through Camfrog and its affiliates. You will only receive special offers via email from Camfrog if you have indicated in your account preferences, or at some other time, that you would like to receive them. 
 
-If Camfrog is uninstalled and your nickname is not used in 1 year then your public profile information may be deleted from the public Camfrog directory. You can change your public profile any time by going to your Camfrog settings so it contains no personal identifiable information.
+Personally identifiable information:
 
-Camfrog will preserve your information for as long as is necessary to allow you to use Camfrog services, comply with government legislation, regulatory requests and relevant orders from relevant courts, and fulfill any of the other purposes detailed in this Privacy Statement.
+  * Agents   
+We use outside credit card processing companies to bill you for Camfrog services. These companies do not retain, share, store or use personally identifiable information for any other purposes. We use outside email delivery systems to contact you and provide you with pertinent information via email. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
+  * Advertising   
+We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. 
+  * Legal Disclaimer   
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
 
-## Camfrog Toolbar
 
-Camfrog has a toolbar that is available for Internet Explorer and Firefox. Camfrog Toolbar will make Camfrog search your default search engine. To switch to any other search engine go to your browser settings. To uninstall Camfrog Toolbar go to add/remove programs.
 
-## Uninstalling Camfrog
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter.
 
-You may uninstall Camfrog using the Windows Add/Remove programs function.
-
-## Children's Privacy Statement
-
-Camfrog has created this children's privacy statement to explain our practices with respect to the online collection and use of personal information from children under the age of thirteen.  
-1\. We do NOT knowingly collect personally identifiable information from children under the age of thirteen. If we become aware that we have inadvertently received personally-identifiable information from a user under the age of thirteen, we will delete such information from our records.  
-2\. Because we do not collect any personally-identifiable information from children under the age of thirteen, we also do NOT knowingly distribute such information to third parties.   
-3\. We do NOT knowingly allow children to participate in online activities by requiring or collecting personally-identifiable information.
-
-## Advertising
-
-We sometimes use third-party advertising companies to serve ads when you visit our website and use our software. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.   
-Camfrog may contain links to other web sites on the Internet that are owned and operated by third parties. Camshare Inc. and our websites do not endorse and are not responsible for the operation of or content located on or through any such third party web site. We do not have control over the personal information collection and use practices of third parties and such third party practices may differ from this privacy policy. You should review the privacy policy of every web site you visit to ensure that you are comfortable with the practices of that particular web site. 
-
-## Third Party Sharing
-
-In certain instances we may also share your non personally identifiable information with third party vendors performing functions on our behalf (or on behalf of our affiliated companies) which may include but are not limited to the following:   
-1\. deliver our merchandise   
-2\. administer our promotions  
-3\. provide us marketing or promotional assistance  
-4\. analyze our data  
-5\. send marketing communications in the form of email or direct mail on our behalf.
-
-Our vendors agree to use this information, and we share information with them, only to carry out our requests. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.
-
-## Policy Privacy Updates
-
-Camfrog reserves the right to update the privacy policy from time to time. Any changes that are made will be posted to this web page. When the privacy policy is updated the date will be changed at the top.
-
-If you have any questions about our privacy policy feel free to contact us at the address below or email the address on our contact page.
-
-Camshare Inc.  
+You may also contact us at:  
+Camfrog.com  
 PO Box 685106  
-Austin, TX 78768  
-USA 
+Austin, TX, 78768 
+
+Or, please contact our helpful customer support staff online at [www.camfrog.com/help](http://www.camfrog.com/en/help).
+
+## Log Files
+
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and point to point, room visit, media and camera, game, pond, snapshot, file transfer, IM, custom status, contact list and clickstream data.
+
+We use this information, which does not identify individual users, to help us analyze users behavior for internal business purposes.
+
+We do not link this automatically-collected data to personally identifiable information except during special promotions such as free trials when subscription IP addresses are temporarily tied to personally identifiable information.
+
+## Cookies
+
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use session ID cookies on this site to maintain your subscription and maintain your account. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser.
+
+## Clear Gifs
+
+We employ a software technology called clear gifs that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
+
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out."
+
+## Third Party Advertisers
+
+The ads appearing on this Website are delivered to users by a Camfrog proprietary ad serving system. We share Web site usage information about users with reputable third party ad networks for the purpose of targeting our banner advertisements on Camfrog software.
+
+We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit our Web site. These companies may use information (not including personal information such as your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
+
+## Links to Other Sites
+
+Camfrog contains links to other sites that are not owned or controlled by Camfrog. Please be aware that we, Camfrog, are not responsible for the privacy practices of such other sites.
+
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by Camfrog.
+
+By visiting this Site, all visitors consent to the collection, maintenance, and processing of their personal and non-personal information in the United States.
+
+## Camfrog Discussion Rooms
+
+If you use a discussion room on Camfrog, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+
+## Security
+
+The security of your personal information is important to us. When you enter sensitive information such as credit card numbers on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
+
+If you have any questions about security on our Website, you can contact our helpful customer support staff online.
+
+## Business Transitions
+
+In the event Camfrog goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
+
+## Changes in this Privacy Statement
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+This statement reflects the privacy policy of Camfrog with respect to the Website located at www.Camfrog.com (the "Site"). This statement is intended to inform casual visitors of Camfrog, and visitors who participate in Camfrog, of the data collection and use practices of the Site. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this Site following the posting of any amendment, modification, or change shall constitute your acceptance thereof except if your personally identifiable information will be used in a materially different manner.
+
+## Contact Us
+
+If you have any questions or suggestions regarding our privacy policy, please contact us at:  
+Camfrog.com  
+PO Box 685106  
+Austin, TX, 78768. 
