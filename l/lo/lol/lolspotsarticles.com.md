@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the lolspotsarticles.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627104733id_/http%3A//lolspotsarticles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolspotsarticles.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201012218id_/http%3A//lolspotsarticles.com/privacyandcontact) for the most accurate reproduction.*
 
 # Privacy and Contact
 
-To remove lolspots Articles from your Facebook:  
-Click here: [Remove lolspots Articles](http://www.facebook.com/settings/?tab=applications) and click the x to the right of lolspots Articles.
+To remove LOLSpots.com from your Facebook:  
+Click here: [Remove LOLSpots.com](http://www.facebook.com/settings/?tab=applications) and click the x to the right of LOLSpots.com.
 
-By using the Facebook application service provided by lolspots Articles, you consent to the collection and use of your personal information as outlined in this Privacy Policy. Please check this page periodically to be aware of any changes to this policy.
+By using the Facebook application service provided by LOLSpots.com, you consent to the collection and use of your personal information as outlined in this Privacy Policy. Please check this page periodically to be aware of any changes to this policy.
 
 What We Collect
 
-When you install an lolspots Articles Facebook application, lolspots Articles will collect your Facebook ID so we can identify you as a unique user of the app and allow you to interact with the app on Facebook. If you choose to share your email, we will store that as well. We may also collect basic information about you such as gender, age and location. 
+When you install an LOLSpots.com Facebook application, LOLSpots.com will collect your Facebook ID so we can identify you as a unique user of the app and allow you to interact with the app on Facebook. If you choose to share your email, we will store that as well. We may also collect basic information about you such as gender, age and location. 
 
 How We Use Your Information
 
