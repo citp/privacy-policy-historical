@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventfinder.com.au privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609122959id_/http%3A//www.eventfinder.com.au/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventfinder.com.au privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201123237id_/http%3A//www.eventfinder.com.au/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eventfinder
 
