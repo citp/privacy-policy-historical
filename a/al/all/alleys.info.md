@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alleys.info privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616161337id_/http%3A//www.alleys.info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alleys.info privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201020110id_/http%3A//www.alleys.info/privacypolicy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
