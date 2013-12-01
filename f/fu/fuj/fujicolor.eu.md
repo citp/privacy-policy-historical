@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fujicolor.eu privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528184455id_/http%3A//www.fujifilm.eu/eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujicolor.eu privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201235436id_/http%3A//www.fujifilm.eu/eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fujifilm Europe
 
-#### Welcome to FUJIFILM Europe GmbH 
+### Welcome to FUJIFILM Europe GmbH 
 
 We at FUJIFILM Europe GmbH are pleased that you are visiting our website and thank you for the interest you have shown in our company, our products and our websites. It is important to us that your privacy is protected whilst using our websites. We collect, process and use personal data in accordance with the pertinent legal requirements, in particular with the Data Protection Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data and any revision thereof, the German Federal Data Protection Act (Bundesdatenschutzgesetz; BDSG), and the German Telemedia Act (Telemediengesetz; TMG). For this reason we ask that you please read the following information: 
 
