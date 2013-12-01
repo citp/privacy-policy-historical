@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pubmatic.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512094521id_/http%3A//www.pubmatic.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubmatic.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201082153id_/http%3A//www.pubmatic.com/privacy-policy.php) for the most accurate reproduction.*
 
 # PubMatic - Privacy Policy
 
-Effective: April 1, 2013
+Effective: October 24, 2013
 
 ABOUT PUBMATIC & THE CONTENT OF THIS PRIVACY POLICY.
 
@@ -50,11 +50,13 @@ We Use Cookies And Web Beacons In A Variety Of Ways And So Do Our Clients.
 
 We use cookies and web beacons for a number of purposes. We use them in order to track when we deliver an advertising impression so that we can correctly credit it to a demand partner and invoice that demand partner. We distribute our pixels to demand partners who wish to set- up retargeting campaigns (also called "remarketing" or "repurposing"). These demand partners place our pixels on web pages where they are authorized to do so and then, when our ad server indicates a user with that cookie is expecting an ad, they target an ad to that user based on the user's consumer interests that the demand partner inferred from the website where the pixel was placed. We also distribute our cookies and those of certain demand partners who buy media through our RTB product in the HTML code of the ads that we display. These piggybacked pixels allow those demand partners to map their anonymous user identification number ("UID") against PubMatic's own anonymous UID so that the demand partner can associate a user profile to a particular advertising impression in order to target better the ad they choose to display to that particular user's interests. Finally, we distribute pixels through Ad Tags for those data providers we have contracted with to supply data for our audience and data management services. These pixels are dropped through the delivery of advertisements from the PubMatic services, and associate demographic, behavioral, and other audience-related data from the data provider's user profile with that user to better target future advertisements to that user.
 
-You Can Opt Out From Having Us Collect Non-PII And From Having Our Clients Collect Non-PII.
+You Can Opt Out From Having Us Collect Certain Non-PII And From Having Our Clients Collect Certain Non-PII.
 
 PubMatic's Opt Out Mechanism
 
-If you'd like to opt-out from having PubMatic place cookies on your computer or device to collect Non-PII in connection with our Service, please go to <http://www.pubmatic.com/opt-out/>. When you opt out, we will place an opt-out cookie on your computer or device. The opt-out cookie tells us not to collect your Non-PII. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer, device or Internet browser, you may need to renew your opt-out choice. You can tell if your browser, computer and device have the opt-out cookie present by reviewing your status at [http://www.pubmatic.com/opt-out/](http://www.pubmatic.com/opt-out).
+If you'd like to opt-out from having PubMatic place cookies on your computer or device to collect ad targeting Non-PII in connection with our Service, please go to <http://www.pubmatic.com/opt-out/>. When you opt out, we will place an opt-out cookie on your computer or device. The opt-out cookie tells us not to collect your Non-PII for ad targeting purposes. We may still set cookies for non-ad targeting purposes such as frequency capping.
+
+Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer, device or Internet browser, you may need to renew your opt-out choice. You can tell if your browser, computer and device have the opt-out cookie present by reviewing your status at [http://www.pubmatic.com/opt-out/](http://www.pubmatic.com/opt-out).
 
 However, if you do not opt out as explained above, then PubMatic may collect your Non-PII and perform audience or behavioral targeting on you so that our clients can display the most-relevant ads to you.
 
@@ -88,6 +90,10 @@ Our Website may also include social media features, such as the Facebook Like or
 
 We are not responsible or liable for the privacy practices of our vendors. These third parties are responsible for informing you and obtaining your consent, to the extent applicable, with respect to data they collect from you and share with us. You should check the privacy policies of the websites you visit and applications you download to learn about the information these vendors collect from you, how they store that information, who they share that information with, and how they and third parties use that information.
 
+SENSITIVE INFORMATION
+
+We will not collect or use sensitive information unless we have obtained, directly or indirectly, your prior consent. Sensitive personal information includes information we know to be related to medical information, but we may target ads based on expressed interest in particular health-related consumer products. For example, our publisher partners could retarget website visitors who showed interest in health and beauty products, items related to personal fitness, and dietary supplements.
+
 PUBMATIC'S SAFE HARBOR STATUS
 
 PubMatic adheres to the U.S. -EU Safe Harbor Framework and the U.S. -Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of PII from European Union member countries and Switzerland. PubMatic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view PubMatic's certification, please visit <http://www.export.gov/safeharbor/>. In addition, you may view PubMatic’s Safe Harbor Notice located on this website.
@@ -106,6 +112,6 @@ Should you have any questions in regards to this Privacy Policy or PubMatic's pr
 
 PubMatic, Inc.  
 c/o Privacy  
-901 Marshall Street, Suite 100  
+305 Main Street, Suite 100  
 Redwood City, CA 94063  
 
