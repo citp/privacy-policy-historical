@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cabionline.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523091554id_/http%3A//www.cabionline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabionline.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201041305id_/http%3A//www.cabionline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CAbi Spring 2013 Collection
+# Privacy Policy - CAbi Fall 2013 Collection
 
 ## Privacy Policy _Last Updated: June 1, 2009_
 
@@ -60,7 +60,7 @@ The Web Site may contain links to other web sites. If you choose to visit other 
 
 #### 6.1. **Contacting Us**
 
-If you have any questions about this Policy, our practices related to the Web Site, or if you would like to have us remove your information from our database, please feel contact us at the following e-mail address: [privacy@carolanderson.com](mailto:privacy@carolanderson.com).
+If you have any questions about this Policy, our practices related to the Web Site, or if you would like to have us remove your information from our database, please feel contact us at the following e-mail address: [privacy@cabiexperience.com](mailto:privacy@cabiexperience.com).
 
 #### 6.2. **Updates and Changes**
 
