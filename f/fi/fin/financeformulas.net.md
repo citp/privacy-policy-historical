@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financeformulas.net privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620034706id_/http%3A//financeformulas.net/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financeformulas.net privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201061325id_/http%3A//www.financeformulas.net/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
