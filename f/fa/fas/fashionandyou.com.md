@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionandyou.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629171722id_/http%3A//www.fashionandyou.com/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionandyou.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201103413id_/http%3A//www.fashionandyou.com/cms/privacy) for the most accurate reproduction.*
 
-# Privacy Policy of Fashion and you
+# Privacy Policy | Fashionandyou.com
 
 We ensure the privacy of all our members.
 
@@ -31,4 +31,4 @@ fashionandyou.com may be forced to disclose information in order to comply with 
 Changes in policy  
 You acknowledge that this Privacy Policy is part of the Terms of Use and you unconditionally agree that using this Website signifies your assent to fashionandyou.com's Privacy Policy. If you do not agree with this Privacy Policy, please do not use our Website. Your visit and any dispute over privacy is subject to this policy and our Terms of Use, including limitations on damages. fashionandyou.com reserves the right to change the terms of use and this Privacy Policy, at any time. We will post any changes so that you are always aware of our policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
-**Communication address :-** Smile Campus, 7C, Sector -18, Gurgaon.
+**Communication address :-** Fashionandyou.com, Smile Campus, Plot Number 241, Udyog Vihar Phase 1, Gurgaon - 122016.
