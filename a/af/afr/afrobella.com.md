@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afrobella.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211006id_/http%3A//www.afrobella.com/afrobella-faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afrobella.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201011536id_/http%3A//www.afrobella.com/afrobella-faq/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Afrobella
 
