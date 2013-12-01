@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lezbomovies.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426162416id_/http%3A//www.lezbomovies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lezbomovies.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201015436id_/http%3A//www.lezbomovies.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lezbomovies.com
 
