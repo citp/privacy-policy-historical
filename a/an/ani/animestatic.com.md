@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the animestatic.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530164143id_/http%3A//www.animestatic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animestatic.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201192741id_/http%3A//www.animestatic.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Anime Online - English Dubbed Anime - Free Anime Episodes
 
 Game advertisements by [Game Advertising Online](http://www.game-advertising-online.com) require iframes.
+
+Animestatic has made our Youtube video featuring pictures of our loyal fans! **[WATCH IT HERE](http://www.animestatic.org/news/animestatic-youtube-video/)**! 
 
 **What information does Animestatic collect?**
 
@@ -32,6 +34,8 @@ By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**  
 Animestatic.Com reserves the right to make any changes to our Privacy Policy, at any time. If and when we decide to change our privacy policy, we will post those changes on this page, with an update that can be viewed site-wide.
+
+Game advertisements by [Game Advertising Online](http://www.game-advertising-online.com) require iframes.
 
 **Frequently Asked Questions**
 
