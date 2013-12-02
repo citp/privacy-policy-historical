@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxprimus.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501085206id_/http%3A//fxprimus.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxprimus.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202162331id_/http%3A//www.fxprimus.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FXPRIMUS The Safest Place To Trade
 
