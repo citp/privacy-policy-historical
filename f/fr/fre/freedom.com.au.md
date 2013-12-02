@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627221408id_/http%3A//www.freedom.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202070019id_/http%3A//www.freedom.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Freedom Furniture and Homewares
 
@@ -86,9 +86,9 @@ Links to third party web sites on www.freedom.com.au are provided solely as a co
 
 ###  Unsubscribe/Opt Out
 
-At Freedom we only want to communicate with you if you want to hear from us. If you would like to unsubscribe from receiving email Newsletters you can do so at [freedom.com.au/unsubscribe](http://staging.freedom.com.au/unsubscribe) at any time, for any reason. 
+At Freedom we only want to communicate with you if you want to hear from us. If you would like to unsubscribe from receiving email Newsletters you can do so at [freedom.com.au/unsubscribe](https://web.archive.org/unsubscribe/) at any time, for any reason. 
 
-Should you wish to be removed from all our mailing lists you can do so at [freedom.com.au/opt-out](http://freedom.com.au/privacy/opt-out).
+Should you wish to be removed from all our mailing lists you can do so at[](http://www.freedom.com.au/opt-out/) [freedom.com.au/opt-out](http://freedom.com.au/privacy/opt-out)[](http://freedom.com.au/privacy/opt-out).
 
 ###  Security
 
