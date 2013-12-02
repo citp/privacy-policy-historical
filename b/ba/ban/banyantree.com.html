@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the banyantree.com privacy policy that was archived on 2013-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514151513id_/http%3A//www.banyantree.com/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the banyantree.com privacy policy that was archived on 2013-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202182650id_/http%3A//www.banyantree.com/en/pages/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		
 		<!-- Google Analytics Start -->
-		<script src="https://ips-invite.iperceptions.com/webValidator.aspx?sdfc=1eaf7dc6-112740-741ba142-2609-4d42-9be5-59e75eb9b52e&amp;lID=1&amp;source=91787" id="IPerceptionsJS" type="text/javascript" async="" defer=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		<script src="https://ips-invite.iperceptions.com/webValidator.aspx?sdfc=d6a6d9c8-112740-b814861b-5502-4d96-817b-a2a9f879f4de&amp;lID=1&amp;source=91787" id="IPerceptionsJS" type="text/javascript" async="" defer=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 		  var _gaq = _gaq || [];
 		  _gaq.push(['_setAccount', 'UA-2374152-1']);
 		  _gaq.push(['_setDomainName', '.banyantree.com']);
@@ -18,13 +19,11 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 		<meta name="msvalidate.01" content="B4E37C857201BFC592FE511A103E4B20">
 		<meta name="baidu-site-verification" content="g68avbZUpXBVrQNI">
+		<meta property="fb:admins" content="100000527882614">
 
 					<title>
 			
 				Privacy Policy			
-			
-				| Banyan Tree Hotels &amp; Resorts
-			
 			</title>
 		
 	
@@ -62,52 +61,74 @@
 		
 				<meta property="og:image" content="">
 		
-
-		<link media="all" rel="stylesheet" href="http://www.banyantree.com/css/colorbox.css" type="text/css">
+				<link media="all" rel="stylesheet" href="http://www.banyantree.com/css/colorbox.css" type="text/css">
 		<link media="all" rel="stylesheet" href="http://www.banyantree.com/css/all.css" type="text/css">
 		<link media="all" rel="stylesheet" href="http://www.banyantree.com/css/jquery-ui-1.8.9.custom.css" type="text/css">
+		
 		<link rel="shortcut icon" href="http://www.banyantree.com/img/favicon.ico" type="image/x-icon">
 		<script src="http://www.banyantree.com/js/jquery.js" type="text/javascript"></script>
 		<script src="http://www.banyantree.com/js/jquery.main.js" type="text/javascript"></script>
 		<script src="http://www.banyantree.com/js/jquery.colorbox-min.js" type="text/javascript"></script>
 		<script src="http://www.banyantree.com/js/swfobject.js" type="text/javascript"></script>
-		<!--<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4d6b7396248a0b38"></script>-->
-		<!-- stardevelop.com Live Help International Copyright - All Rights Reserved //-->
-		<!-- BEGIN stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY COPYRIGHT LINE / LINK //-->
-		<!--<script type="text/JavaScript" src="/livehelp/scripts/jquery-latest.js"></script>-->
-		<script type="text/javascript">
-		<!--
-		    var LiveHelpSettings = {};
-		    LiveHelpSettings.server = 'www.banyantree.com';
-		    LiveHelpSettings.embedded = true;
-		    (function(d, $, undefined) {
-		        $(window).ready(function() {
-		            // JavaScript
-		            var LiveHelp = d.createElement('script'); LiveHelp.type = 'text/javascript'; LiveHelp.async = true;
-		            LiveHelp.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + LiveHelpSettings.server + '/livehelp/scripts/jquery.livehelp.js';
-		            var s = d.getElementsByTagName('script')[0];
-		            s.parentNode.insertBefore(LiveHelp, s);
-		        });
-		    })(document, jQuery);
-		-->
-		</script>
-		<!-- END stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY COPYRIGHT LINE / LINK //-->
-		<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+		<script src="http://www.banyantree.com/js/jquery.min.js" type="text/javascript"></script>
 		<script src="http://www.banyantree.com/js/jquery.zrssfeed.min.bt.en.js" type="text/javascript"></script>
 		<script src="http://www.banyantree.com/js/jquery.vticker.bt.en.js" type="text/javascript"></script>
 		<script type="text/javascript">
-			$(document).ready(function () {
-				$('#LatestOffer').rssfeed('http://offers.banyantree.com/special/offers?feed=rss',{
-					snippet: false
-				}, function(e) {
-					$(e).find('div.rssBody').vTicker({
-						showItems: 2
+			$(document).ready(function() {
+				$('#pinOffer').rssfeed(' http://offers.banyantree.com/special/offers?feedOfPin=rss ', {
+					snippet: false,
+					limit: 1
+				},
+				function(e) {
+					$('#LatestOffer').rssfeed('http://offers.banyantree.com/special/offers?feed=rss', {
+						snippet: false
+					},
+					function(e) {
+						if ($('#pinOffer').find('li').size()) {
+							$(e).find('div.rssBody').vTicker({
+								showItems: 2
+							});
+
+							
+							$("#pinOffer").find("ul").css("padding", "0px");
+							$('#LatestOffer').css("clear", "both");
+							$('#pinOffer').css("clear", "both");
+							$("#pinOffer").find("ul").css("margin-left", "0px");
+							$('#pinOffer').css("height", "160px");
+							
+
+						} else {
+							$(e).find('div.rssBody').vTicker({
+								showItems: 3
+							});
+								$("#LatestOffer").find("ul").css("position","relative");
+						}
 					});
-				});
+				}
+				);
 			});
+
 		</script>
 		<script src="http://www.banyantree.com/js/jquery-ui-1.8.9.custom.min.js" type="text/javascript"></script>
+		<script>
+		$(function() {
+		      $.datepicker.setDefaults({dateFormat: 'dd-mm-yy', numberOfMonths: 2, firstDay: 1});
+		      $('#StartDate').datepicker({minDate: 0, onSelect: function(selectedDate) {
+		            var minDate = $(this).datepicker('getDate');
+		            if (minDate) {
+		                  minDate.setDate(minDate.getDate() + 1);
+		            }
+		            $('#EndDate').datepicker('option', 'minDate', minDate || 1); // Date + 1 or tomorrow by default
+		      }});
+		      $('#EndDate').datepicker({minDate: 1, onSelect: function(selectedDate) {
+		            var maxDate = $(this).datepicker('getDate');
+		             if (maxDate) {
+		                   maxDate.setDate(maxDate.getDate() - 1);
+		             }
+		            $('#StartDate').datepicker('option', 'maxDate', maxDate); // Date - 1
+		      }});
+		});
+		</script>
 		<script type="text/javascript">
 			$(document).ready(function(){ 
 				var i=0;
@@ -117,11 +138,14 @@
 						document.getElementById("sarea"+i).innerHTML = "<a href='javascript:showOptions("+i+",false)'>" + selectContent + "</a>";
 					}
 				}	
-				$("#fr2").click(function(){$("img.ui-datepicker-trigger").trigger("click");});
+				//$("#fr2").click(function(){$("img.ui-datepicker-trigger").trigger("click");});
+				$("#StartDate").datepicker('setDate', new Date());
+				$("#EndDate").datepicker('setDate', new Date());
 				$("ul li:last-child").addClass("last-child");
 			});
 		</script>
 		<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="http://www.banyantree.com/css/ie.css" /><![endif]-->
+
 	</head>
 	<body>
 		<div id="wrapper">
@@ -145,43 +169,43 @@
 												<div class="column0">
 													<strong class="headline">China</strong>
 													<ul class="datalist">
-														<li><a href="/en/chongqing_beibei">Chongqing Beibei</a></li>														<li><a href="/en/hangzhou">Hangzhou</a></li>														<li><a href="/en/lijiang">Lijiang</a></li>														<li><a href="/en/macau">Macau</a></li>														<li><a href="/en/ringha">Ringha</a></li>														<li><a href="/en/sanya">Sanya</a></li>														<li><a href="/en/shanghai_on_the_bund">Shanghai On The Bund</a></li>														<li><a href="/en/tianjin_riverside">Tianjin</a></li>													</ul>
-													<strong class="headline">India</strong>
+														<li><a href="/en/chongqing_beibei/">Chongqing Beibei</a></li>														<li><a href="/en/hangzhou/">Hangzhou</a></li>														<li><a href="/en/lijiang/">Lijiang</a></li>														<li><a href="/en/macau/">Macau</a></li>														<li><a href="/en/ringha/">Ringha</a></li>														<li><a href="/en/sanya/">Sanya</a></li>														<li><a href="/en/shanghai_on_the_bund/">Shanghai On The Bund</a></li>														<li><a href="/en/tianjin_riverside/">Tianjin</a></li>													</ul>
+													<!--<strong class="headline">India</strong>
 													<ul class="datalist">
-														<li><a href="/en/kerala">Kerala</a></li>													</ul>													
+														<li><a href="/en/kerala/">Kerala</a></li>													</ul>-->													
 												</div>
 												<div class="column1">
 													<strong class="headline">Indonesia</strong>
 													<ul class="datalist">
-														<li><a href="/en/bintan">Bintan</a></li>														<li><a href="/en/bali_ungasan">Ungasan, Bali</a></li>													</ul>
+														<li><a href="/en/bintan/">Bintan</a></li>														<li><a href="/en/bali_ungasan/">Ungasan, Bali</a></li>													</ul>
 													<strong class="headline">Korea</strong>
 													<ul class="datalist">
-														 <li><a href="/en/seoul">Seoul</a></li>													</ul>
+														 <li><a href="/en/seoul/">Seoul</a></li>													</ul>
 													<strong class="headline">Maldives</strong>
 													<ul class="datalist">
-														<li><a href="/en/maldives_madivaru">Madivaru</a></li>														<li><a href="/en/maldives_vabbinfaru">Vabbinfaru</a></li>													</ul>													
+														<li><a href="/en/maldives_madivaru/">Madivaru</a></li>														<li><a href="/en/maldives_vabbinfaru/">Vabbinfaru</a></li>													</ul>													
 												</div>
 												<div class="column2">
 													<strong class="headline">Mexico</strong>
 													<ul class="datalist">
-														<li><a href="/en/cabo_marques">Cabo Marqués</a></li>														<li><a href="/en/mayakoba">Mayakoba</a></li>													</ul>
+														<li><a href="/en/cabo_marques/">Cabo Marqués</a></li>														<li><a href="/en/mayakoba/">Mayakoba</a></li>													</ul>
 													<strong class="headline">Seychelles</strong>
 													<ul class="datalist">
-														<li><a href="/en/seychelles">Seychelles</a></li>													</ul>
+														<li><a href="/en/seychelles/">Seychelles</a></li>													</ul>
 													<strong class="headline">Vietnam</strong>
 													<ul class="datalist">
-														<li><a href="/en/lang_co">Lang Co</a></li>													</ul>
+														<li><a href="/en/lang_co/">Lang Co</a></li>													</ul>
 												</div>
 												<div class="column3">
 													<strong class="headline">Thailand</strong>
 													<ul class="datalist">
-														<li><a href="/en/bangkok">Bangkok</a></li>														<li><a href="/en/phuket_doublepool_villas">Phuket DoublePool Villas</a></li>														<li><a href="/en/phuket">Phuket Resort</a></li>																												
-														<li><a href="/en/phuket_spa_sanctuary">Phuket Spa Sanctuary </a></li>															
-														<li><a href="/en/samui">Samui</a></li>														
+														<li><a href="/en/bangkok/">Bangkok</a></li>														<li><a href="/en/phuket_doublepool_villas/">Phuket DoublePool Villas</a></li>														<li><a href="/en/phuket/">Phuket Resort</a></li>																												
+														<li><a href="/en/phuket_spa_sanctuary/">Phuket Spa Sanctuary </a></li>															
+														<li><a href="/en/samui/">Samui</a></li>														
 													</ul>													
 													<strong class="headline">United Arab Emirates</strong>
 													<ul class="datalist">
-														<li><a href="/en/al_wadi">Al Wadi</a></li>														<li><a href="/en/ras_al_khaimah_beach">Ras Al Khaimah Beach </a></li>													</ul>
+														<li><a href="/en/al_wadi/">Al Wadi</a></li>														<li><a href="/en/ras_al_khaimah_beach/">Ras Al Khaimah Beach </a></li>													</ul>
 												</div>
 											</div>
 											
@@ -199,67 +223,67 @@
 															<div class="drop1-m">
 																<div class="row">
 																	<div class="column0">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/china_romance" title="China - Romance">China</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/china_romance" title="China - Romance">China</a></strong>
 																		<ul class="datalist">
 																			<li>Chongqing Beibei</li>
-																			<li><a href="http://www.banyantree.com/destination/hangzhou_honeymoon_packages" title="Hangzhou Honeymoon Packages ">Hangzhou</a></li>
-																			<li><a href="http://www.banyantree.com/destination/lijiang_china_honeymoon_packages" title="Lijiang Honeymoon Packages ">Lijiang</a></li>
+																			<li><a href="http://www.banyantree.com/en/destination/hangzhou_honeymoon_packages" title="Hangzhou Honeymoon Packages ">Hangzhou</a></li>
+																			<li><a href="http://www.banyantree.com/en/destination/lijiang_china_honeymoon_packages" title="Lijiang Honeymoon Packages ">Lijiang</a></li>
 																			<li>Macau</li>
 																			<li>Ringha</li>
 																			<li>Sanya</li>
-																			<li><a href="http://www.banyantree.com/destination/shanghai_romantic_getaways" title="Shanghai Romantic Getaways">Shanghai On The Bund</a></li>
+																			<li><a href="http://www.banyantree.com/en/destination/shanghai_romantic_getaways" title="Shanghai Romantic Getaways">Shanghai On The Bund</a></li>
 																			<li>Tianjin</li>
 																		</ul>
-																		<strong class="headline"><a href="http://www.banyantree.com/en/kerala" title="Kerala - Romance">India</a></strong>
+																		<!--<strong class="headline"><a href="http://www.banyantree.com/en/kerala/" title="Kerala - Romance">India</a></strong>
 																		<ul class="datalist">
-																			<li><a href="http://www.banyantree.com/destination/banyan_tree_kerala_romance" title="Kerala Romance">Kerala</a></li>
-																		</ul>
+																			<li><a href="http://www.banyantree.com/en/destination/banyan_tree_kerala_romance" title="Kerala Romance">Kerala</a></li>
+																		</ul>-->
 																	</div>
 																	<div class="column1">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/indonesia_romance" title="Indonesia - Romance">Indonesia</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/indonesia_romance" title="Indonesia - Romance">Indonesia</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Bintan Honeymoon Hotels &amp; Resorts" href="http://www.banyantree.com/destination/bintan_honeymoon_hotels_and_resorts">Bintan</a></li>
-																			<li><a title="Bali Honeymoon Hotels &amp; Resorts" href="http://www.banyantree.com/destination/bali_honeymoon_hotels_resorts">Ungasan, Bali</a></li>
+																			<li><a title="Bintan Honeymoon Hotels &amp; Resorts" href="http://www.banyantree.com/en/destination/bintan_honeymoon_hotels_and_resorts">Bintan</a></li>
+																			<li><a title="Bali Honeymoon Hotels &amp; Resorts" href="http://www.banyantree.com/en/destination/bali_honeymoon_hotels_resorts">Ungasan, Bali</a></li>
 																		</ul>
 																		<strong class="headline">Korea</strong>
 																		<ul class="datalist">
 																			<li>Club &amp; Spa Seoul</li>
 																		</ul>
-																		<strong class="headline"><a href="http://www.banyantree.com/country/maldives_romance" title="Maldives - Romance">Maldives</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/maldives_romance" title="Maldives - Romance">Maldives</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Madivaru 6 Villas, 1 Island, The Pinnacle of Exclusivity" href="http://www.banyantree.com/destination/6_villas_1_island_the_pinnacle_of_exclusivity">Madivaru</a></li>
-																			<li><a title="Vabbinfaru Honeymoon Hotels &amp; Resorts" href="http://www.banyantree.com/destination/vabbinfaru_honeymoon_hotels_resorts">Vabbinfaru</a></li>
+																			<li><a title="Madivaru 6 Villas, 1 Island, The Pinnacle of Exclusivity" href="http://www.banyantree.com/en/destination/6_villas_1_island_the_pinnacle_of_exclusivity">Madivaru</a></li>
+																			<li><a title="Vabbinfaru Honeymoon Hotels &amp; Resorts" href="http://www.banyantree.com/en/destination/vabbinfaru_honeymoon_hotels_resorts">Vabbinfaru</a></li>
 																		</ul>																		
 																	</div>
 																	<div class="column2">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/mexico_romance" title="Mexico - Romance">Mexico</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/mexico_romance" title="Mexico - Romance">Mexico</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Cabo Marqués Romantic Getaways" href="http://www.banyantree.com/destination/cabo_marques_romantic_getaways">Cabo Marqués</a></li>
-																			<li><a title="Riviera Maya Honeymoons" href="http://www.banyantree.com/destination/riviera_maya_honeymoons">Mayakoba</a></li>
+																			<li><a title="Cabo Marqués Romantic Getaways" href="http://www.banyantree.com/en/destination/cabo_marques_romantic_getaways">Cabo Marqués</a></li>
+																			<li><a title="Riviera Maya Honeymoons" href="http://www.banyantree.com/en/destination/riviera_maya_honeymoons">Mayakoba</a></li>
 																		</ul>																		
-																		<strong class="headline"><a href="http://www.banyantree.com/country/seychelles_romance" title="Seychelles - Romance">Seychelles</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/seychelles_romance" title="Seychelles - Romance">Seychelles</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Seychelles Honeymoon Hotels" href="http://www.banyantree.com/destination/seychelles_luxury_honeymoon">Seychelles</a></li>
+																			<li><a title="Seychelles Honeymoon Hotels" href="http://www.banyantree.com/en/destination/seychelles_luxury_honeymoon">Seychelles</a></li>
 																		</ul>
-																		<strong class="headline"><a href="http://www.banyantree.com/en/lang_co" title="Vietnam - Romance">Vietnam</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/lang_co/" title="Vietnam - Romance">Vietnam</a></strong>
 																		<ul class="datalist">
 																			<li><a title="Lang Co Romance" href="http://www.banyantree.com/en/lang_co/romance">Lang Co</a></li>
 																		</ul>
 																		</div>
 																	<div class="column3">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/thailand_romance" title="Thailand - Romance">Thailand</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/thailand_romance" title="Thailand - Romance">Thailand</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Bangkok Honeymoon Hotels &amp; Resorts" href="http://www.banyantree.com/destination/bangkok_honeymoon_hotel">Bangkok</a></li>
+																			<li><a title="Bangkok Honeymoon Hotels &amp; Resorts" href="http://www.banyantree.com/en/destination/bangkok_honeymoon_hotel">Bangkok</a></li>
 																			<li>Phuket DoublePool Villas</li>
 																			<li>Phuket Resort</li>
 																																						<li>Phuket Spa Sanctuary </li>
-																																						<li><a title="Samui Honeymoon Hotels &amp; Resorts" href="http://www.banyantree.com/destination/samui_honeymoon_hotels_resorts">Samui</a></li>
+																																						<li><a title="Samui Honeymoon Hotels &amp; Resorts" href="http://www.banyantree.com/en/destination/samui_honeymoon_hotels_resorts">Samui</a></li>
 																			
 																		</ul>
 																		<strong class="headline">United Arab Emirates</strong>
 																		<ul class="datalist">
-																			<li><a title="Al Wadi Romance" href="http://offers.banyantree.com/al_wadi/special/offers">Al Wadi</a></li>
-																			<li><a title="Ras Al Khaimah Beach Romance" href="http://offers.banyantree.com/ras_al_khaimah_beach/special/offers">Ras Al Khaimah Beach</a></li>
+																			<li><a title="Al Wadi Romance" href="http://offers.banyantree.com/al_wadi/special/offerList/">Al Wadi</a></li>
+																			<li><a title="Ras Al Khaimah Beach Romance" href="http://offers.banyantree.com/ras_al_khaimah_beach/special/offerList/">Ras Al Khaimah Beach</a></li>
 																		</ul>
 																	</div>
 																</div>
@@ -273,31 +297,31 @@
 															<div class="drop1-m">
 																<div class="row">
 																	<div class="column0">
-																		<strong class="headline">China</strong>
+																		<strong class="headline"><a href="#">China</a></strong>
 																		<ul class="datalist">
 																			<li>Chongqing Beibei</li>
 																			<li>Hangzhou</li>
-																			<li><a title="Lijiang Family Holidays" href="http://www.banyantree.com/destination/lijiang_family_holidays">Lijiang</a></li>
+																			<li><a title="Lijiang Family Holidays" href="http://www.banyantree.com/en/destination/lijiang_family_holidays">Lijiang</a></li>
 																			<li>Macau</li>																			
 																			<li>Ringha</li>
 																			<li>Sanya</li>
 																			<li>Shanghai On The Bund</li>
 																			<li>Tianjin</li>
 																		</ul>
-																		<strong class="headline"><a href="http://www.banyantree.com/en/kerala" title="Kerala - Family">India</a></strong>
+																		<!--<strong class="headline"><a href="http://www.banyantree.com/en/kerala/" title="Kerala - Family">India</a></strong>
 																		<ul class="datalist">
-																			<li><a href="http://www.banyantree.com/destination/banyan_tree_kerala_family" title="Kerala Family">Kerala</a></li>
-																		</ul>																		
+																			<li><a href="http://www.banyantree.com/en/destination/banyan_tree_kerala_family" title="Kerala Family">Kerala</a></li>
+																		</ul>-->																		
 																	</div>
 																	<div class="column1">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/indonesia_family" title="Indonesia - Family">Indonesia</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/indonesia_family" title="Indonesia - Family">Indonesia</a></strong>
 																		<ul class="datalist">
 																			<li>Bintan</li>
-																			<li><a title="Bali Family Resorts" href="http://www.banyantree.com/destination/bali_family_resorts">Ungasan, Bali</a></li>
+																			<li><a title="Bali Family Resorts" href="http://www.banyantree.com/en/destination/bali_family_resorts">Ungasan, Bali</a></li>
 																		</ul>
-																		<strong class="headline"><a href="http://www.banyantree.com/country/korea_family" title="Korea - Family">Korea</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/korea_family" title="Korea - Family">Korea</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Seoul Family Resorts" href="http://www.banyantree.com/destination/seoul_family_resorts">Club &amp; Spa Seoul</a></li>
+																			<li><a title="Seoul Family Resorts" href="http://www.banyantree.com/en/destination/seoul_family_resorts">Club &amp; Spa Seoul</a></li>
 																		</ul>
 																		<strong class="headline">Maldives</strong>
 																		<ul class="datalist">
@@ -306,14 +330,14 @@
 																		</ul>																		
 																	</div>
 																	<div class="column2">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/mexico_family" title="Mexico - Family">Mexico</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/mexico_family" title="Mexico - Family">Mexico</a></strong>
 																		<ul class="datalist">
 																			<li>Cabo Marqués</li>
-																			<li><a title="Riviera Maya Family Holidays" href="http://www.banyantree.com/destination/riviera_maya_family_holidays">Mayakoba</a></li>
+																			<li><a title="Riviera Maya Family Holidays" href="http://www.banyantree.com/en/destination/riviera_maya_family_holidays">Mayakoba</a></li>
 																		</ul>
-																		<strong class="headline"><a title="Seychelles Family Resorts" href="http://www.banyantree.com/destination/seychelles_family">Seychelles</a></strong>
+																		<strong class="headline"><a title="Seychelles Family Resorts" href="http://www.banyantree.com/en/destination/seychelles_family">Seychelles</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Seychelles Family Resorts" href="http://www.banyantree.com/destination/seychelles_family">Seychelles</a></li>
+																			<li><a title="Seychelles Family Resorts" href="http://www.banyantree.com/en/destination/seychelles_family">Seychelles</a></li>
 																		</ul>	
 																		<strong class="headline">Vietnam</strong>
 																		<ul class="datalist">
@@ -321,18 +345,18 @@
 																		</ul>																		
 																	</div>
 																	<div class="column3">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/thailand_family" title="Thailand - Family">Thailand</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/thailand_family" title="Thailand - Family">Thailand</a></strong>
 																		<ul class="datalist">
 																			<li>Bangkok</li>
 																			<li>Phuket DoublePool Villas</li>
-																			<li><a title="Phuket Family Holiday Hotel &amp; Resort" href="http://www.banyantree.com/destination/phuket_family_holiday_hotel_resort">Phuket Resort</a></li>
+																			<li><a title="Phuket Family Holiday Hotel &amp; Resort" href="http://www.banyantree.com/en/destination/phuket_family_holiday_hotel_resort">Phuket Resort</a></li>
 																																						<li>Phuket Spa Sanctuary </li>
-																																						<li><a title="Samui Family Hotel &amp; Resort" href="http://www.banyantree.com/destination/samui_family_hotel_resort">Samui</a></li>
+																																						<li><a title="Samui Family Hotel &amp; Resort" href="http://www.banyantree.com/en/destination/samui_family_hotel_resort">Samui</a></li>
 																			
 																		</ul>																		
 																		<strong class="headline">United Arab Emirates</strong>
 																		<ul class="datalist">
-																			<li><a title="Al Wadi Family" href="http://offers.banyantree.com/al_wadi/special/offers">Al Wadi</a></li>
+																			<li><a title="Al Wadi Family" href="http://offers.banyantree.com/al_wadi/special/offerList/">Al Wadi</a></li>
 																			<li>Ras Al Khaimah Beach</li>
 																		</ul>
 																	</div>
@@ -347,66 +371,66 @@
 															<div class="drop1-m">
 																<div class="row">
 																	<div class="column0">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/china_spa" title="China - Spa">China</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/china_spa" title="China - Spa">China</a></strong>
 																		<ul class="datalist">
 																			<li>Chongqing Beibei</li>
-																			<li><a title="Hangzhou Spa Hotel &amp; Resort" href="http://www.banyantree.com/destination/hangzhou_spa_hotel_and_resort">Hangzhou</a></li>
-																			<li><a title="Lijiang Spa Hotel &amp; Resort" href="http://www.banyantree.com/destination/lijiang_spa_hotel">Lijiang</a></li>
-																			<li><a title="Macau Spa Hotel &amp; Resort" href="http://www.banyantree.com/destination/macau_spa_hotel">Macau</a></li>																			
-																			<li><a title="Righa Spa Hotel &amp; Resort" href="http://www.banyantree.com/destination/ringha_spa_hotel_resort">Ringha</a></li>
-																			<li><a title="Sanya Spa Hotel &amp; Resort" href="http://www.banyantree.com/destination/sanya_spa_hotel">Sanya</a></li>
-																			<li><a title="Shanghai Spa Hotel &amp; Resort" href="http://www.banyantree.com/destination/banyan_tree_spa_shanghai_on_the_bund">Shanghai On The Bund</a></li>
+																			<li><a title="Hangzhou Spa Hotel &amp; Resort" href="http://www.banyantree.com/en/destination/hangzhou_spa_hotel_and_resort">Hangzhou</a></li>
+																			<li><a title="Lijiang Spa Hotel &amp; Resort" href="http://www.banyantree.com/en/destination/lijiang_spa_hotel">Lijiang</a></li>
+																			<li><a title="Macau Spa Hotel &amp; Resort" href="http://www.banyantree.com/en/destination/macau_spa_hotel">Macau</a></li>																			
+																			<li><a title="Righa Spa Hotel &amp; Resort" href="http://www.banyantree.com/en/destination/ringha_spa_hotel_resort">Ringha</a></li>
+																			<li><a title="Sanya Spa Hotel &amp; Resort" href="http://www.banyantree.com/en/destination/sanya_spa_hotel">Sanya</a></li>
+																			<li><a title="Shanghai Spa Hotel &amp; Resort" href="http://www.banyantree.com/en/destination/banyan_tree_spa_shanghai_on_the_bund">Shanghai On The Bund</a></li>
 																			<li>Tianjin</li>
 																		</ul>
-																		<strong class="headline"><a href="http://www.banyantree.com/en/kerala" title="Kerala - Spa">India</a></strong>
+																		<!--<strong class="headline"><a href="http://www.banyantree.com/en/kerala/" title="Kerala - Spa">India</a></strong>
 																		<ul class="datalist">
-																			<li><a href="http://www.banyantree.com/destination/banyan_tree_kerala_spa" title="Kerala Spa">Kerala</a></li>
-																		</ul>																		
+																			<li><a href="http://www.banyantree.com/en/destination/banyan_tree_kerala_spa" title="Kerala Spa">Kerala</a></li>
+																		</ul>-->																		
 																	</div>
 																	<div class="column1">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/indonesia_spa" title="Indonesia - Spa">Indonesia</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/indonesia_spa" title="Indonesia - Spa">Indonesia</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Bintan Spa Hotel &amp; Resort" href="http://www.banyantree.com/destination/bintan_spa_resort">Bintan</a></li>
-																			<li><a title="Bali Luxury Spa" href="http://www.banyantree.com/destination/bali_luxury_spa">Ungasan, Bali</a></li>
+																			<li><a title="Bintan Spa Hotel &amp; Resort" href="http://www.banyantree.com/en/destination/bintan_spa_resort">Bintan</a></li>
+																			<li><a title="Bali Luxury Spa" href="http://www.banyantree.com/en/destination/bali_luxury_spa">Ungasan, Bali</a></li>
 																		</ul>
-																		<strong class="headline"><a href="http://www.banyantree.com/country/korea_spa" title="Korea - Spa">Korea</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/korea_spa" title="Korea - Spa">Korea</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Seoul Spa Hotel &amp; Resort" href="http://www.banyantree.com/destination/seoul_spa_hotel_resort">Club &amp; Spa Seoul</a></li>
+																			<li><a title="Seoul Spa Hotel &amp; Resort" href="http://www.banyantree.com/en/destination/seoul_spa_hotel_resort">Club &amp; Spa Seoul</a></li>
 																		</ul>
-																		<strong class="headline"><a href="http://www.banyantree.com/country/maldives_spa" title="Maldives - Spa">Maldives</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/maldives_spa" title="Maldives - Spa">Maldives</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Madivaru Luxury Spa" href="http://www.banyantree.com/destination/madivaru_luxury_spa">Madivaru</a></li>
-																			<li><a title="Vabbinfaru Luxury Spa" href="http://www.banyantree.com/destination/vabbinfaru_luxury_spa">Vabbinfaru</a></li>
+																			<li><a title="Madivaru Luxury Spa" href="http://www.banyantree.com/en/destination/madivaru_luxury_spa">Madivaru</a></li>
+																			<li><a title="Vabbinfaru Luxury Spa" href="http://www.banyantree.com/en/destination/vabbinfaru_luxury_spa">Vabbinfaru</a></li>
 																		</ul>																
 																	</div>
 																	<div class="column2">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/mexico_spa" title="Mexico - Spa">Mexico</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/mexico_spa" title="Mexico - Spa">Mexico</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Cabo Marqués Spa Retreats &amp; Resorts" href="http://www.banyantree.com/destination/cabo_marques_spa_retreats_and_resorts">Cabo Marqués</a></li>
-																			<li><a title="Riviera Maya Luxury Spa" href="http://www.banyantree.com/destination/riviera_maya_luxury_spa">Mayakoba</a></li>
+																			<li><a title="Cabo Marqués Spa Retreats &amp; Resorts" href="http://www.banyantree.com/en/destination/cabo_marques_spa_retreats_and_resorts">Cabo Marqués</a></li>
+																			<li><a title="Riviera Maya Luxury Spa" href="http://www.banyantree.com/en/destination/riviera_maya_luxury_spa">Mayakoba</a></li>
 																		</ul>
-																		<strong class="headline"><a href="http://www.banyantree.com/country/seychelles_spa" title="Seychelles - Spa">Seychelles</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/seychelles_spa" title="Seychelles - Spa">Seychelles</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Seychelles Luxury Spa Resort" href="http://www.banyantree.com/destination/seychelles_spa_hotel">Seychelles</a></li>
+																			<li><a title="Seychelles Luxury Spa Resort" href="http://www.banyantree.com/en/destination/seychelles_spa_hotel">Seychelles</a></li>
 																		</ul>
-																		<strong class="headline"><a href="http://www.banyantree.com/en/lang_co" title="Vietnam - Spa">Vietnam</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/lang_co/" title="Vietnam - Spa">Vietnam</a></strong>
 																		<ul class="datalist">
 																			<li><a title="Lang Co Spa" href="http://www.banyantree.com/en/lang_co/experience_the_resort/spa">Lang Co</a></li>
 																		</ul>
 																	</div>
 																	<div class="column3">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/thailand_spa" title="Thailand - Spa">Thailand</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/thailand_spa" title="Thailand - Spa">Thailand</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Bangkok Spa Hotel" href="http://www.banyantree.com/destination/bangkok_spa_hotel">Bangkok</a></li>
+																			<li><a title="Bangkok Spa Hotel" href="http://www.banyantree.com/en/destination/bangkok_spa_hotel">Bangkok</a></li>
 																			<li>Phuket DoublePool Villas</li>
-																			<li><a title="Phuket Luxury Spa Hotels" href="http://www.banyantree.com/destination/phuket_luxury_spa_hotels">Phuket Resort</a></li>
+																			<li><a title="Phuket Luxury Spa Hotels" href="http://www.banyantree.com/en/destination/phuket_luxury_spa_hotels">Phuket Resort</a></li>
 																																						<li><a title="Phuket Spa Sanctuary" href="http://www.banyantree.com/en/phuket_spa_sanctuary/experience_the_resort/spa">Phuket Spa Sanctuary</a></li>
-																																						<li><a title="Samui Spa Hotels &amp; Resorts" href="http://www.banyantree.com/destination/samui_spa_hotels_resorts">Samui</a></li>
+																																						<li><a title="Samui Spa Hotels &amp; Resorts" href="http://www.banyantree.com/en/destination/samui_spa_hotels_resorts">Samui</a></li>
 																			
 																		</ul>
-																		<strong class="headline"><a href="http://www.banyantree.com/country/uae_spa" title="UAE - Spa">United Arab Emirates</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/uae_spa" title="UAE - Spa">United Arab Emirates</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Ras Al Khaimah Luxury Spa" href="http://www.banyantree.com/destination/ras_al_khaimah_luxury_spa">Al Wadi</a></li>
+																			<li><a title="Ras Al Khaimah Luxury Spa" href="http://www.banyantree.com/en/destination/ras_al_khaimah_luxury_spa">Al Wadi</a></li>
 																			<li>Ras Al Khaimah Beach</li>
 																		</ul>
 																	</div>
@@ -432,15 +456,15 @@
 																			<li>Shanghai On The Bund</li>
 																			<li>Tianjin</li>
 																		</ul>
-																		<strong class="headline">India</strong>
+																		<!--<strong class="headline">India</strong>
 																		<ul class="datalist">
 																			<li>Kerala</li>
-																		</ul>
+																		</ul>-->
 																	</div>																
 																	<div class="column1">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/indonesia_golf" title="Indonesia - Golf">Indonesia</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/indonesia_golf" title="Indonesia - Golf">Indonesia</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Bintan Golf Holidays &amp; Packages" href="http://www.banyantree.com/destination/bintan_golf_holidays_and_packages">Bintan</a></li>
+																			<li><a title="Bintan Golf Holidays &amp; Packages" href="http://www.banyantree.com/en/destination/bintan_golf_holidays_and_packages">Bintan</a></li>
 																			<li>Ungasan, Bali</li>
 																		</ul>
 																		<strong class="headline">Korea</strong>
@@ -454,26 +478,26 @@
 																		</ul>
 																	</div>
 																	<div class="column2">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/mexico_golf" title="Mexico - Golf">Mexico</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/mexico_golf" title="Mexico - Golf">Mexico</a></strong>
 																		<ul class="datalist">
 																			<li>Cabo Marqués</li>
-																			<li><a title="Riviera Maya Golf Packages" href="http://www.banyantree.com/destination/riviera_maya_golf_packages">Mayakoba</a></li>
+																			<li><a title="Riviera Maya Golf Packages" href="http://www.banyantree.com/en/destination/riviera_maya_golf_packages">Mayakoba</a></li>
 																		</ul>
-																		<strong class="headline"><a title="Seychelles Golf" href="http://www.banyantree.com/destination/seychelles_golf">Seychelles</a></strong>
+																		<strong class="headline"><a title="Seychelles Golf" href="http://www.banyantree.com/en/destination/seychelles_golf">Seychelles</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Seychelles Golf" href="http://www.banyantree.com/destination/seychelles_golf">Seychelles</a></li>
+																			<li><a title="Seychelles Golf" href="http://www.banyantree.com/en/destination/seychelles_golf">Seychelles</a></li>
 																		</ul>
 																		<strong class="headline"><a href="http://www.banyantree.com/en/lang_co" title="Vietnam - Spa">Vietnam</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Laguna Lang Co Golf Club" href="http://www.banyantree.com/destination/laguna_lang_co_golf_club">Lang Co</a></li>
+																			<li><a title="Laguna Lang Co Golf Club" href="http://www.banyantree.com/en/destination/laguna_lang_co_golf_club">Lang Co</a></li>
 																		</ul>
 																	</div>
 																	<div class="column3">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/thailand_golf" title="Thailand - Golf">Thailand</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/thailand_golf" title="Thailand - Golf">Thailand</a></strong>
 																		<ul class="datalist">
 																			<li>Bangkok</li>
 																			<li>Phuket DoublePool Villas</li>
-																			<li><a title="Phuket Golf Hotels &amp; Resorts" href="http://www.banyantree.com/destination/phuket_golf_hotels_resorts">Phuket Resort</a></li>
+																			<li><a title="Phuket Golf Hotels &amp; Resorts" href="http://www.banyantree.com/en/destination/phuket_golf_hotels_resorts">Phuket Resort</a></li>
 																																						<li>Phuket Spa Sanctuary </li>
 																																						<li>Samui</li>
 																			
@@ -481,7 +505,7 @@
 																		<strong class="headline">United Arab Emirates</strong>
 																		<ul class="datalist">
 																			<li>Al Wadi</li>
-																			<li><a title="Ras Al Khaimah Beach Golf" href="http://offers.banyantree.com/ras_al_khaimah_beach/special/offers">Ras Al Khaimah Beach</a></li>
+																			<li><a title="Ras Al Khaimah Beach Golf" href="http://offers.banyantree.com/ras_al_khaimah_beach/special/offerList/">Ras Al Khaimah Beach</a></li>
 																		</ul>
 																	</div>
 																</div>
@@ -506,10 +530,10 @@
 																			<li>Shanghai On The Bund</li>
 																			<li>Tianjin</li>
 																		</ul>
-																		<strong class="headline">India</strong>
+																		<!--<strong class="headline">India</strong>
 																		<ul class="datalist">
 																			<li>Kerala</li>
-																		</ul>
+																		</ul>-->
 																	</div>																
 																	<div class="column1">
 																		<strong class="headline">Indonesia</strong>
@@ -521,21 +545,21 @@
 																		<ul class="datalist">
 																			<li>Club &amp; Spa Seoul</li>
 																		</ul>
-																		<strong class="headline"><a href="http://www.banyantree.com/country/maldives_diving" title="Maldives - Diving">Maldives</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/maldives_diving" title="Maldives - Diving">Maldives</a></strong>
 																		<ul class="datalist">
 																			<li>Madivaru</li>
-																			<li><a title="Vabbinfaru Diving Holidays" href="http://www.banyantree.com/destination/vabbinfaru_diving_holidays">Vabbinfaru</a></li>
+																			<li><a title="Vabbinfaru Diving Holidays" href="http://www.banyantree.com/en/destination/vabbinfaru_diving_holidays">Vabbinfaru</a></li>
 																		</ul>
 																	</div>
 																	<div class="column2">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/mexico_diving" title="Mexico - Diving">Mexico</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/mexico_diving" title="Mexico - Diving">Mexico</a></strong>
 																		<ul class="datalist">
 																			<li>Cabo Marqués</li>
-																			<li><a title="Riviera Maya Diving, Snorkelling &amp; Scuba-Diving" href="http://www.banyantree.com/destination/riviera_maya_diving_snorkelling_and_scuba_diving">Mayakoba</a></li>
+																			<li><a title="Riviera Maya Diving, Snorkelling &amp; Scuba-Diving" href="http://www.banyantree.com/en/destination/riviera_maya_diving_snorkelling_and_scuba_diving">Mayakoba</a></li>
 																		</ul>
-																		<strong class="headline"><a title="Seychelles Diving Holidays" href="http://www.banyantree.com/destination/seychelles_diving">Seychelles</a></strong>
+																		<strong class="headline"><a title="Seychelles Diving Holidays" href="http://www.banyantree.com/en/destination/seychelles_diving">Seychelles</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Seychelles Diving Holidays" href="http://www.banyantree.com/destination/seychelles_diving">Seychelles</a></li>
+																			<li><a title="Seychelles Diving Holidays" href="http://www.banyantree.com/en/destination/seychelles_diving">Seychelles</a></li>
 																		</ul>
 																		<strong class="headline">Vietnam</strong>
 																		<ul class="datalist">
@@ -576,10 +600,10 @@
 																			<li><a href="/en/macau/occasions#corporate-events">Macau</a></li>																			<li>Ringha</li>
 																			<li><a href="/en/sanya/occasions#corporate-events">Sanya</a></li>																			<li><a href="/en/shanghai_on_the_bund/occasions#corporate-events">Shanghai On The Bund</a></li>																			<li>Tianjin</li>
 																		</ul>
-																		<strong class="headline">India</strong>
+																		<!--<strong class="headline">India</strong>
 																		<ul class="datalist">
 																			<li>Kerala</li>
-																		</ul>
+																		</ul>-->
 																	</div>																
 																	<div class="column1">
 																		<strong class="headline"><a href="#">Indonesia</a></strong>
@@ -627,21 +651,21 @@
 															<div class="drop1-m">
 																<div class="row">
 																	<div class="column0">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/china_trekking" title="China - Trekking">China</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/china_trekking" title="China - Trekking">China</a></strong>
 																		<ul class="datalist">
 																			<li>Chongqing Beibei</li>
 																			<li>Hangzhou</li>
-																			<li><a title="Lijiang Trekking" href="http://www.banyantree.com/destination/lijiang_china_trekking">Lijiang</a></li>
+																			<li><a title="Lijiang Trekking" href="http://www.banyantree.com/en/destination/lijiang_china_trekking">Lijiang</a></li>
 																			<li>Macau</li>																			
-																			<li><a title="Ringha Trekking" href="http://www.banyantree.com/destination/ringha_trekking">Ringha</a></li>
+																			<li><a title="Ringha Trekking" href="http://www.banyantree.com/en/destination/ringha_trekking">Ringha</a></li>
 																			<li>Sanya</li>
 																			<li>Shanghai On The Bund</li>
 																			<li>Tianjin</li>
 																		</ul>
-																		<strong class="headline">India</strong>
+																		<!--<strong class="headline">India</strong>
 																		<ul class="datalist">
 																			<li>Kerala</li>
-																		</ul>
+																		</ul>-->
 																	</div>																
 																	<div class="column1">
 																		<strong class="headline">Indonesia</strong>
@@ -660,14 +684,14 @@
 																		</ul>
 																	</div>
 																	<div class="column2">
-																		<strong class="headline"><a href="http://www.banyantree.com/country/mexico_trekking" title="Mexico - Trekking">Mexico</a></strong>
+																		<strong class="headline"><a href="http://www.banyantree.com/en/country/mexico_trekking" title="Mexico - Trekking">Mexico</a></strong>
 																		<ul class="datalist">
 																			<li>Cabo Marqués</li>
-																			<li><a title="Riviera Maya Trekking" href="http://www.banyantree.com/destination/riviera_maya_trekking">Mayakoba</a></li>
+																			<li><a title="Riviera Maya Trekking" href="http://www.banyantree.com/en/destination/riviera_maya_trekking">Mayakoba</a></li>
 																		</ul>
-																		<strong class="headline"><a title="Seychelles Trekking" href="http://www.banyantree.com/destination/seychelles_trekking">Seychelles</a></strong>
+																		<strong class="headline"><a title="Seychelles Trekking" href="http://www.banyantree.com/en/destination/seychelles_trekking">Seychelles</a></strong>
 																		<ul class="datalist">
-																			<li><a title="Seychelles Trekking" href="http://www.banyantree.com/destination/seychelles_trekking">Seychelles</a></li>
+																			<li><a title="Seychelles Trekking" href="http://www.banyantree.com/en/destination/seychelles_trekking">Seychelles</a></li>
 																		</ul>
 																		<strong class="headline">Vietnam</strong>
 																		<ul class="datalist">
@@ -712,7 +736,7 @@
 					
 					<div class="panel1">
 						<div class="w-panel1">
-							<!--<form class="search1" action="http://www.banyantree.com/search" method="GET">
+							<!--<form class="search1" action="/search" method="GET">
 								<fieldset>
 									<input type="text" name="q" value="Search" class="text">
 									<input type="submit" value="Search" class="submit">
@@ -743,18 +767,20 @@
 																						
 																					
 																						
+																					
+																						
 																																	
 									</select>
 								</fieldset>
 							</form>
 								
 														<ul class="extra-links1">
-								<li><a href="http://www.banyantree.com/pages">Sitemap</a></li>
-								<!--<li><a href="http://www.banyantree.com/offers">Latest Offers</a></li>-->
+								<li><a href="/pages">Sitemap</a></li>
+								<li><a href="http://www.banyantree.com/en/social">Social</a></li>
 																											<li><a href="http://offers.banyantree.com/special/offers#" target="_self">Latest Offers</a></li>
 																									
 								<li><a href="http://www.banyantree.com/">Banyan Tree Hotels &amp; Resorts</a></li>
-								<li><a href="http://www.banyantree.com/contact">Contact Us</a></li>
+								<li><a href="/en/contact">Contact Us</a></li>
 							</ul>
 						</div>
 					</div>
@@ -765,12 +791,12 @@
 			<div class="content4">
 				<div class="intro">
 					<div class="title9">
-						<p><a style="color:#C2C2C2;" href="http://www.banyantree.com/">Home</a> <span class="search-breadcrumbs">&gt;</span> Privacy Policy</p>
+						<p><a style="color:#C2C2C2;" href="/">Home</a> <span class="search-breadcrumbs">&gt;</span> Privacy Policy</p>
 						<strong>Privacy Policy</strong>
 					</div>
 				</div>
 				<div class="sitemap pages"> 
-										A. We respect the privacy of our users, and do not collect information from you without your knowledge. For example, when you make a reservation or purchase a product or service, we need to know your name, e-mail address, mailing address and credit card details. We use the information we collect to process your requests and to notify you of its status. We may further send to you occasionally at your designated email address notifications of new products, services or offers from us. You may opt out of receiving these notifications from us at any time by informing us at e-mail <span id="eeEncEmail_pnrvEAKHZn"><a href="mailto:webmaster@banyantree.com">webmaster@banyantree.com</a></span><script type="text/javascript">/*<![CDATA[*/var l=new Array();var output = '';l[0]='>';l[1]='a';l[2]='/';l[3]='<';l[4]=' 109';l[5]=' 111';l[6]=' 99';l[7]=' 46';l[8]=' 101';l[9]=' 101';l[10]=' 114';l[11]=' 116';l[12]=' 110';l[13]=' 97';l[14]=' 121';l[15]=' 110';l[16]=' 97';l[17]=' 98';l[18]=' 64';l[19]=' 114';l[20]=' 101';l[21]=' 116';l[22]=' 115';l[23]=' 97';l[24]=' 109';l[25]=' 98';l[26]=' 101';l[27]=' 119';l[28]='>';l[29]='\"';l[30]=' 109';l[31]=' 111';l[32]=' 99';l[33]=' 46';l[34]=' 101';l[35]=' 101';l[36]=' 114';l[37]=' 116';l[38]=' 110';l[39]=' 97';l[40]=' 121';l[41]=' 110';l[42]=' 97';l[43]=' 98';l[44]=' 64';l[45]=' 114';l[46]=' 101';l[47]=' 116';l[48]=' 115';l[49]=' 97';l[50]=' 109';l[51]=' 98';l[52]=' 101';l[53]=' 119';l[54]=':';l[55]='o';l[56]='t';l[57]='l';l[58]='i';l[59]='a';l[60]='m';l[61]='\"';l[62]='=';l[63]='f';l[64]='e';l[65]='r';l[66]='h';l[67]='a ';l[68]='<';for (var i = l.length-1; i >= 0; i=i-1){ if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; else output += unescape(l[i]);}document.getElementById('eeEncEmail_pnrvEAKHZn').innerHTML = output;/*]]>*/</script> Privacy Notice<br>
+										A. We respect the privacy of our users, and do not collect information from you without your knowledge. For example, when you make a reservation or purchase a product or service, we need to know your name, e-mail address, mailing address and credit card details. We use the information we collect to process your requests and to notify you of its status. We may further send to you occasionally at your designated email address notifications of new products, services or offers from us. You may opt out of receiving these notifications from us at any time by informing us at e-mail <span id="eeEncEmail_MEWCrtFyQa"><a href="mailto:webmaster@banyantree.com">webmaster@banyantree.com</a></span><script type="text/javascript">/*<![CDATA[*/var l=new Array();var output = '';l[0]='>';l[1]='a';l[2]='/';l[3]='<';l[4]=' 109';l[5]=' 111';l[6]=' 99';l[7]=' 46';l[8]=' 101';l[9]=' 101';l[10]=' 114';l[11]=' 116';l[12]=' 110';l[13]=' 97';l[14]=' 121';l[15]=' 110';l[16]=' 97';l[17]=' 98';l[18]=' 64';l[19]=' 114';l[20]=' 101';l[21]=' 116';l[22]=' 115';l[23]=' 97';l[24]=' 109';l[25]=' 98';l[26]=' 101';l[27]=' 119';l[28]='>';l[29]='\"';l[30]=' 109';l[31]=' 111';l[32]=' 99';l[33]=' 46';l[34]=' 101';l[35]=' 101';l[36]=' 114';l[37]=' 116';l[38]=' 110';l[39]=' 97';l[40]=' 121';l[41]=' 110';l[42]=' 97';l[43]=' 98';l[44]=' 64';l[45]=' 114';l[46]=' 101';l[47]=' 116';l[48]=' 115';l[49]=' 97';l[50]=' 109';l[51]=' 98';l[52]=' 101';l[53]=' 119';l[54]=':';l[55]='o';l[56]='t';l[57]='l';l[58]='i';l[59]='a';l[60]='m';l[61]='\"';l[62]='=';l[63]='f';l[64]='e';l[65]='r';l[66]='h';l[67]='a ';l[68]='<';for (var i = l.length-1; i >= 0; i=i-1){ if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; else output += unescape(l[i]);}document.getElementById('eeEncEmail_MEWCrtFyQa').innerHTML = output;/*]]>*/</script> Privacy Notice<br>
 <br>
 B. We will not release your registration and usage data to outside organizations. We may however use information collected for market analysis and we may provide aggregate statistics to reputable third party vendors. We will not include any information that will personally identify any individual to any third party.<br>
 <br>
@@ -794,7 +820,6 @@ I. By accessing this site, you shall be deemed to have accepted this Privacy Pol
 	</div>
 
 </div>
-
 			<div id="footer">
 				<div class="w1-footer">
 					<div class="w2-footer">					
@@ -804,13 +829,13 @@ I. By accessing this site, you shall be deemed to have accepted this Privacy Pol
 								<h5>About Us</h5>
 								<ul>
 								
-									<li><a href="/brand_stories/the_banyan_tree_story">BRAND STORY</a></li>
+									<li><a href="/en/brand_stories/the_banyan_tree_story">BRAND STORY</a></li>
 								
-									<li><a href="/corporate_information">CORPORATE INFORMATION</a></li>
+									<li><a href="/en/corporate_information">CORPORATE INFORMATION</a></li>
 								
-									<li><a href="/pages/awards_and_accolades">AWARDS &amp; ACCOLADES</a></li>
+									<li><a href="/en/pages/awards_and_accolades">AWARDS &amp; ACCOLADES</a></li>
 								
-									<li><a href="/careers">CAREERS</a></li>
+									<li><a href="/en/careers">CAREERS</a></li>
 								
 									<li><a href="http://crm.banyantree.com/?xs_goto=XTC-REGLOGIN">TRAVEL CONSULTANTS</a></li>
 								
@@ -862,13 +887,13 @@ I. By accessing this site, you shall be deemed to have accepted this Privacy Pol
 								<h5>Media</h5>
 								<ul>
 								
-								   <li><a href="/image_gallery">IMAGE GALLERY</a></li>
+								   <li><a href="/en/image_gallery">IMAGE GALLERY</a></li>
 								
-								   <li><a href="/publications">PUBLICATIONS</a></li>
+								   <li><a href="/en/publications">PUBLICATIONS</a></li>
 								
-								   <li><a href="/press_releases/listing">PRESS RELEASES</a></li>
+								   <li><a href="/en/press_releases/listing">PRESS RELEASES</a></li>
 								
-								   <li><a href="/videos">VIDEOS</a></li>
+								   <li><a href="/en/videos">VIDEOS</a></li>
 								
 								</ul>
 							</div>
@@ -876,32 +901,33 @@ I. By accessing this site, you shall be deemed to have accepted this Privacy Pol
 								<h5>Management Services</h5>
 								<ul>
 								
-								   <li><a href="/management_services/hotel_management">Hotel Management</a></li>
+								   <li><a href="/en/management_services/hotel_management">Hotel Management</a></li>
 								
-								   <li><a href="/management_services/spa_management">Spa Management</a></li>
+								   <li><a href="/en/management_services/spa_management">Spa Management</a></li>
 								
-								   <li><a href="/management_services/master_planning">Master Planning</a></li>
+								   <li><a href="/en/management_services/master_planning">Master Planning</a></li>
 								
-								   <li><a href="/management_services/project_services">Project Services</a></li>
+								   <li><a href="/en/management_services/project_services">Development &amp; Project Services</a></li>
 								
 								</ul>
 							</div>
 							<div class="copyright">
 								<p>
-									<a href="http://www.banyantree.com/corporate_information/about_us">About Banyan Tree</a> |
-									<a href="http://www.banyantree.com/careers">Careers</a> |
+									<a href="http://www.banyantree.com/en/corporate_information/about_us">About Banyan Tree</a> |
+									<a href="http://www.banyantree.com/en/careers">Careers</a> |
 									<a href="https://clientservices.vfmii.com/pdl/Main.html?company=banyantree">Media Hub</a> |									
 									<a href="http://www.banyantree.com/pages">Global Sitemap</a> |
-									<a href="http://www.banyantree.com/contact">Contact Us</a> 
+									<a href="http://www.banyantree.com/en/contact">Contact Us</a> 
 								</p>
 								<p>
-									Copyright © 2013 <a href="http://www.banyantree.com/en">Banyan Tree Hotels &amp; Resorts</a>. All Rights Reserved.&nbsp; 
-									<a href="http://www.banyantree.com/pages/terms_of_use">Terms of Use</a> |
-									<a href="http://www.banyantree.com/pages/privacy_policy">Privacy Policy</a>
+									Copyright © 2013 <a href="http://www.banyantree.com/en/">Banyan Tree Hotels &amp; Resorts</a>. All Rights Reserved.&nbsp; 
+									<a href="http://www.banyantree.com/en/pages/terms_of_use">Terms of Use</a> |
+									<a href="http://www.banyantree.com/en/pages/privacy_policy">Privacy Policy</a>
 								</p>
 							</div>
 						</div>
 						
+
 						<div class="column2">
 							<div class="share">
 								<h6>Share your ideal holiday with friends</h6>
@@ -909,9 +935,9 @@ I. By accessing this site, you shall be deemed to have accepted this Privacy Pol
 									<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.banyantree.com/&amp;layout=standard&amp;show_faces=false&amp;width=190&amp;action=like&amp;colorscheme=dark&amp;height=50" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:190px; height:50px;" allowtransparency="true"></iframe>
 									<!-- AddThis Button BEGIN -->
 									<div class="addthis_toolbox addthis_default_style group" style="float:right">
-										<a href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-4d6b7396248a0b38" style="text-decoration:none" class="addthis_button l-share" addthis:url="http://www.banyantree.com/pages/privacy_policy">Share</a>
+										<a href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-4d6b7396248a0b38" style="text-decoration:none" class="addthis_button l-share" addthis:url="/pages/privacy_policy">Share</a>
 									</div>
-
+									<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4d6b7396248a0b38"></script>
 									<!-- AddThis Button END -->
 								</div>
 							</div>
@@ -932,17 +958,64 @@ I. By accessing this site, you shall be deemed to have accepted this Privacy Pol
 									FOLLOW BANYAN TREE ON
 								</p>
 								<ul>
-									<li class="media-facebook"><a href="http://www.facebook.com/BanyanTree">&nbsp;</a></li>
-									<li class="media-twitter"><a href="http://twitter.com/#!/banyan_tree">&nbsp;</a></li>
+									<li class="media-facebook"><a href="https://www.facebook.com/BanyanTreeHotels">&nbsp;</a></li>
+									<li class="media-twitter"><a href="http://twitter.com/banyan_tree">&nbsp;</a></li>
 									<li class="media-pinterest"><a href="http://pinterest.com/banyantreelife/">&nbsp;</a></li>
 								</ul>
 							</div>
+
 						</div>
 					</div>
 				</div>
 			</div>
+		<!--[if gte IE 8]>
+			<!-- stardevelop.com Live Help International Copyright - All Rights Reserved //-->
+			<!-- BEGIN stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY COPYRIGHT LINE / LINK //-->
+			<!--<script type="text/JavaScript" src="/livehelp/scripts/jquery-latest.js"></script>-->
+			<script type="text/javascript">
+			<!--
+			    var LiveHelpSettings = {};
+			    LiveHelpSettings.server = 'www.banyantree.com';
+			    LiveHelpSettings.embedded = true;
+			    (function(d, $, undefined) {
+			        $(window).ready(function() {
+			            // JavaScript
+			            var LiveHelp = d.createElement('script'); LiveHelp.type = 'text/javascript'; LiveHelp.async = true;
+			            LiveHelp.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + LiveHelpSettings.server + '/livehelp/scripts/jquery.livehelp.js';
+			            var s = d.getElementsByTagName('script')[0];
+		        	    s.parentNode.insertBefore(LiveHelp, s);
+			        });
+			    })(document, jQuery);
+			-->
+			</script>
+			<!-- END stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY COPYRIGHT LINE / LINK //-->
+		<!--[endif]---->
+		<!--[if !IE]-->
+			<!-- stardevelop.com Live Help International Copyright - All Rights Reserved //-->
+			<!-- BEGIN stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY COPYRIGHT LINE / LINK //-->
+			<!--<script type="text/JavaScript" src="/livehelp/scripts/jquery-latest.js"></script>-->
+			<script type="text/javascript">
+			<!--
+			    var LiveHelpSettings = {};
+			    LiveHelpSettings.server = 'www.banyantree.com';
+			    LiveHelpSettings.embedded = true;
+			    (function(d, $, undefined) {
+			        $(window).ready(function() {
+			            // JavaScript
+			            var LiveHelp = d.createElement('script'); LiveHelp.type = 'text/javascript'; LiveHelp.async = true;
+			            LiveHelp.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + LiveHelpSettings.server + '/livehelp/scripts/jquery.livehelp.js';
+			            var s = d.getElementsByTagName('script')[0];
+		        	    s.parentNode.insertBefore(LiveHelp, s);
+			        });
+			    })(document, jQuery);
+			-->
+			</script>
+			<!-- END stardevelop.com Live Help Messenger Code - Copyright - NOT PERMITTED TO MODIFY COPYRIGHT LINE / LINK //-->
+		<!--[endif]-->
+
+
 	<!-- Google Code for Visited Website Remarketing List -->
-	<script type="text/javascript">
+	<!--<script type="text/javascript">
 	/* <![CDATA[ */
 	var google_conversion_id = 1036113239;
 	var google_conversion_language = "en";
@@ -952,12 +1025,28 @@ I. By accessing this site, you shall be deemed to have accepted this Privacy Pol
 	var google_conversion_value = 0;
 	/* ]]> */
 	</script>
-	<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+	<script type="text/javascript"
+	src="http://www.googleadservices.com/pagead/conversion.js">
 	</script>
 	<noscript>
 	<div style="display:inline;">
 	<img height="1" width="1" style="border-style:none;" alt=""
 	src="http://www.googleadservices.com/pagead/conversion/1036113239/?label=_YegCPPB2wEQ16qH7gM&guid=ON&script=0"/>
+	</div>
+	</noscript>-->
+	<!-- Google Code for Remarketing Tag from Qais-->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 974537652;
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/974537652/?value=0&amp;guid=ON&amp;script=0"/>
 	</div>
 	</noscript>
 
@@ -971,12 +1060,27 @@ I. By accessing this site, you shall be deemed to have accepted this Privacy Pol
 	var axel = Math.random() + "";
 	var a = axel * 10000000000000;
 	document.write('<iframe src="http://2634342.fls.doubleclick.net/activityi;src=2634342;type=pagev681;cat=banya503;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-	</script><iframe src="http://2634342.fls.doubleclick.net/activityi;src=2634342;type=pagev681;cat=banya503;ord=4672570970381.1045?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+	</script><iframe src="http://2634342.fls.doubleclick.net/activityi;src=2634342;type=pagev681;cat=banya503;ord=5259199893202.453?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 	<noscript>
 	<iframe src="http://2634342.fls.doubleclick.net/activityi;src=2634342;type=pagev681;cat=banya503;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 	</noscript>
 
+	<!--VML Code -->
+	<script type="text/javascript">
+	var JsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+	document.write(unescape("%3Cscript src='" + JsHost + "c135.redirecting2.net/redirecting2_js.aspx' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://c135.redirecting2.net/redirecting2_js.aspx" type="text/javascript"></script>
+	<script type="text/javascript">
+	redirecting2_track_incoming_click(135);
+	</script>
+
+	<!-- MIG Remarketing List Addition Code . Advertiser: VML Qais. Name: BanyanTree_RTG -->  
+	<img src="http://tags.rtbidder.net/track?sid=5245495e8bc06f0fb849c9bb" width="0" height="0" border="0" alt="">
+
+	<!--Media Math Retargeting-->
+	<img src="http://pixel.mathtag.com/event/img?mt_id=340612&amp;mt_adid=115503&amp;v1=&amp;v2=&amp;v3=&amp;s1=&amp;s2=&amp;s3=" width="1" height="1">
+
 		<script src="http://www.banyantree.com/iperceptions/112664/en/ipecc_112664_en.js" type="text/javascript"></script>
-		<!-- Begin: www.iperceptions.com --> <script type="text/javascript"> ;(function (w, d, s, l) { var r = 100, js, fjs = d.getElementsByTagName(s)[0], id = "IPerceptionsJS", a = "async", b = "defer",go = function() { if(d.getElementById(id)) {return;} js = d.createElement(s);js.src = w.location.protocol + "//ips-invite.iperceptions.com/webValidator.aspx?sdfc=1eaf7dc6-112740-741ba142-2609-4d42-9be5-59e75eb9b52e&lID=1&source=91787"; js.id = id; js.type = "text/javascript"; js[a] = a; js[b] = b; fjs.parentNode.insertBefore(js, fjs); }; if(r < Math.floor(Math.random() * 100)) { d.cookie = "IPE_S_112740=0;Path=/;" } else if(!(/(^|;)\s*IPE(_S_)?112740=/.test(d.cookie))){ if (w.addEventListener) { w.addEventListener(l, go, false); } else if (w.attachEvent) { w.attachEvent("on" + l, go); } } })(window, document, "script", "load");</script><!-- End: www.iperceptions.com -->
+		<!-- Begin: www.iperceptions.com --> <script type="text/javascript"> ;(function (w, d, s, l) { var r = 100, js, fjs = d.getElementsByTagName(s)[0], id = "IPerceptionsJS", a = "async", b = "defer",go = function() { if(d.getElementById(id)) {return;} js = d.createElement(s);js.src = w.location.protocol + "//ips-invite.iperceptions.com/webValidator.aspx?sdfc=d6a6d9c8-112740-b814861b-5502-4d96-817b-a2a9f879f4de&lID=1&source=91787"; js.id = id; js.type = "text/javascript"; js[a] = a; js[b] = b; fjs.parentNode.insertBefore(js, fjs); }; if(r < Math.floor(Math.random() * 100)) { d.cookie = "IPE_S_112740=0;Path=/;" } else if(!(/(^|;)\s*IPE(_S_)?112740=/.test(d.cookie))){ if (w.addEventListener) { w.addEventListener(l, go, false); } else if (w.attachEvent) { w.attachEvent("on" + l, go); } } })(window, document, "script", "load");</script><!-- End: www.iperceptions.com -->
 	
 </body></html>
