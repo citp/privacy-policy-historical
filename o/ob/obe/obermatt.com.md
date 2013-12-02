@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the obermatt.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408063836id_/http%3A//www.obermatt.com/company/various/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obermatt.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202113709id_/http%3A//www.obermatt.com/company/various/privacy) for the most accurate reproduction.*
 
 # Obermatt: Privacy
 
-[](http://www.obermatt.com/ceo-of-the-year/order/)
+[](http://www.handelszeitung.ch/produkt/ceo-des-jahres "Order CEO of the Year Magazine")
 
 **Introduction**
 
