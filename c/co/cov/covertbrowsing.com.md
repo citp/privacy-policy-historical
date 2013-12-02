@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covertbrowsing.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623063939id_/http%3A//www.covertbrowsing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covertbrowsing.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202095336id_/http%3A//www.covertbrowsing.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
