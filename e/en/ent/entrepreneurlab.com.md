@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the entrepreneurlab.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502174042id_/http%3A//entrepreneurlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrepreneurlab.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202185151id_/http%3A//entrepreneurlab.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyEntrepreneur Lab
+# Entrepreneur Lab | Privacy Policy
 
 #### **What information do we collect?**
 
