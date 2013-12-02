@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsstyles.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623121949id_/http%3A//www.dsstyles.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsstyles.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202232422id_/https%3A//www.dsstyles.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | DSstyles
 
@@ -93,6 +93,11 @@ Choice/Opt-Out
 
 We want to communicate with you only if you want to continue to hear from us. 
 
-To opt out of receiving email promotions that we send you: (1) select "unsubscribe" on our subscription status page and enter the requested information or follow the unsubscribe instructions in any of our promotional emails
+To opt out of receiving email promotions that we send you:   
+(1) find "unsubscribe" on our promotional email and click the unsubscribe link, system will remove your email address in out promotion list.
 
 Opting out of communication with us does not affect our communications with you via telephone or email related to your orders with us. It also does not affect our use of your non-personally identifiable information. 
+
+**Where and how to ask question or file complanints**
+
+If you require further information about our Privacy Policy, please go to the [Customer Service](http://www.dsstyles.com/contactus) and [FAQ](http://www.dsstyles.com/page/faq.html) section of the web site where frequently asked questions (FAQ's) are answered. If you require more information please go to the Customer Service section of the web site and send an email to the relevant DSstyles.com department. If you wish to talk to a DSstyles.com customer care representative please call : +1 315 567-4400 (PDT), +44 020 3286 2248 (PDT), +852 2387 2680 (HKT), or write to: Customer Service Executive, BEST BROTHERS COMPANY LIMITED  FLAT D, 1/F, POR YEN BUILDING,  478 CASTLE PEAK ROAD, LAI CHI KOK HONG KONG. You can also email us at enquiries@dsstyles.com
