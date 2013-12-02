@@ -1,41 +1,6 @@
-> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514023502id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202011039id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of www.homeschoolmath.net
-
-[Maria's Math news](http://www.homeschoolmath.net/newsletter/) \- a FREE math newsletter for parents and teachers
-
-[May 2013](http://www.homeschoolmath.net/newsletter/volume72-may-2013.htm)
-
-Subscribe below:
-
-  
-[Worksheets](http://www.homeschoolmath.net/worksheets/)  
-Various worksheets on TONS of math topics you can generate for free! 
-
-[Basic operations worksheet generator](http://www.homeschoolmath.net/worksheets/basic-operations-worksheets.php) is updated! Make worksheets for whole numbers or integers - all four operations, including add & subtract or multiply & divide - horizontal or vertical - add a border and/or extra workspace, use a variable, and more. 
-
-[Curriculum](http://www.homeschoolmath.net/curriculum_reviews)  
-Advice, reviews, and resources to help you choose a math curriculum! 
-
-[Online math games, tutorials, and activities](http://www.homeschoolmath.net/online/)  
-Games you can play online, interactive tutorials, fun math websites and more. Arranged by topic/level for ease of use. 
-
-[Lessons](http://www.homeschoolmath.net/teaching/)  
-Learn how to TEACH concepts or about general concerns in math education. 
-
-[Reviews](http://www.homeschoolmath.net/reviews/)  
-In-depth reviews of math products 
-
-[Math help & tutoring](http://www.homeschoolmath.net/online/math_help_tutoring.php)  
-A list of free message boards, math help websites, and online tutoring services. 
-
-[Fun and games](http://www.homeschoolmath.net/online/math_games_fun.php)  
-I have two games on my site, plus links to many.   
-[Game: Choose Math Operation](http://www.homeschoolmath.net/operation-game.php)  
-[Word guess game ](http://www.homeschoolmath.net/math-hangman/easy_hangman.php) (easy hangman)  
-[Word guess game ](http://www.homeschoolmath.net/math-hangman/index.php) (difficult)
-
-| 
 
 The main activities of Homeschool Math website (www.homeschoolmath.net) is to offer free resources for mathematics teaching.
 
@@ -59,21 +24,12 @@ You can choose to disable or selectively turn off the third-party cookies in you
 
 To see Amazon's and Google's privacy policies, click here: [Amazon.com Privacy Notice](http://www.amazon.com/exec/obidos/tg/browse/-/468496/102-6533223-3461729) or [Google Ads Privacy Policy](http://www.google.com/privacy_ads.html). 
 
-The website is owned and maintained by Maria Miller. If you have an enquiry or concern about our privacy policy, please [contact me here](https://web.archive.org/web/20130514023502id_/http%3A//www.homeschoolmath.net/question.php).
+The website is owned and maintained by Maria Miller. If you have an enquiry or concern about our privacy policy, please [contact me here](https://web.archive.org/web/20131202011039id_/http%3A//www.homeschoolmath.net/question.php).
 
-** | 
-
-[](http://hoodamath.com/games/)
+****** | 
 
 [](http://www.ixl.com/promo?partner=homeschoolmath.net&utm_source=homeschoolmath.net&utm_medium=banner&utm_campaign=partner)
 
 [](http://www.mathnook.com/)
 
-  
-
-
-[](http://www.1shoppingcart.com/app/?Clk=4082494)
-
-**New!** Times Tales is now [on DVD](http://www.1shoppingcart.com/app/?Clk=4082494)!
-
-The fast, FUN, and easy way to learn multiplication. Learn the upper times tales in two sittings using mnemonic stories.
+[](http://www.ixl.com/promo?partner=homeschoolmath.net&utm_source=homeschoolmath.net&utm_medium=banner&utm_campaign=partner)
