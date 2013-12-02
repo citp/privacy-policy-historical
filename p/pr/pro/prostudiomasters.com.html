@@ -1,416 +1,569 @@
-<!--The following is the downloaded HTML source of the prostudiomasters.com privacy policy that was archived on 2011-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prostudiomasters.com privacy policy that was archived on 2013-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202013527id_/http%3A//www.prostudiomasters.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><link rel="Stylesheet" type="text/css" href="http://img2.wsimg.com/fos/css/1/sales_http_20110504ak.css"><title>
-	Legal Agreement
-</title>
-    
-	<script type="text/javascript">
-		function pageLoad(sender, args) {
-			if(typeof Content_pageLoad == 'function')
-				Content_pageLoad(sender, args);
-		}
+<html class=" js no-touch rgba backgroundsize borderradius boxshadow textshadow opacity cssanimations audio"><head></head><body><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: HTTP_ACCEPT_LANGUAGE</p>
+<p>Filename: hooks/language_hook.php</p>
+<p>Line Number: 10</p>
+
+</div>
+
+
+
+	<base href="http://www.prostudiomasters.com/">
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="author" content="ProStudioMasters.com, Inc.">
+	<meta name="title" content="Privacy Policy - ProStudioMasters - Audio Uncompromised™">
+	<meta name="keywords" content="FLAC, AIFF, download, music, high-res audio, high-resolution audio, high-resolution audio files, uncompressed, lossless, CD, SACD, HDCD, HD, tracks, hifi, hi-fi, 44.1/24, 48/24, 88.2/24, 96/24, 176.4/24, 192/24, kHz, 24-bit, 32-bit, pro studio, pro studio masters">
+	<meta name="description" content="ProStudioMasters is an online music store for high-resolution audio downloads in AIFF, FLAC and DSD/DFF formats.">
+
+	
+
+	<title>Privacy Policy - ProStudioMasters</title>
+	
+	<link rel="canonical" href="http://www.prostudiomasters.com/privacy">
+	
+	<link rel="shortcut icon" href="static/img/v2/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="static/img/v2/favicon.ico" type="image/x-icon">
+	
+	<link rel="stylesheet" href="//d3j0fj9hcy3zm8.cloudfront.net/static/css/reset.css">
+	<link rel="stylesheet" href="static/css/main-20131112.css">
+	<link rel="stylesheet" href="static/lib/fancyapps-fancyBox-18d1712/source/jquery.fancybox.css">
+
+	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=567591483294840"></script><script type="text/javascript" src="//d3j0fj9hcy3zm8.cloudfront.net/static/lib/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="//d3j0fj9hcy3zm8.cloudfront.net/static/lib/underscore-20131115/underscore.js"></script>
+	<script type="text/javascript" src="//d3j0fj9hcy3zm8.cloudfront.net/static/lib/jquery.cookie.140/jquery.cookie.js"></script>
+
+	<script type="text/javascript" charset="utf-8">
+		PSM = {};
+		PSM.quickview = {};
+		PSM.store = 'us';
+		PSM.cart = false;
+		PSM.update_header_cart = function() {
+			var count = _.size(PSM.cart.items);
+			if (count > 0) {
+				$('#nav a.cart').html('Cart<span class="count blue">'+count+'</span>');
+			}
+			else {
+				$('#nav a.cart').html('Cart');
+			}
+		};
 	</script>
-</head>
-<body id="ctl00_PageBody" style="width: 100%; margin: 0px;">
-  
-<script src="http://img3.wsimg.com/AtlantisScripts/jquery/jquery-1.3.1.min.js" type="text/javascript"></script>
-  
 	
+	<script type="text/javascript" src="static/js/utils-20131112.js"></script>
+	<script type="text/javascript" src="static/js/main-20131112.js?v=20120629a"></script>
+	<script type="text/javascript" src="//d3j0fj9hcy3zm8.cloudfront.net/static/lib/fancyapps-fancyBox-18d1712/source/jquery.fancybox.pack.js"></script>
+	<script type="text/javascript" src="//d3j0fj9hcy3zm8.cloudfront.net/static/lib/hammer-1.0.5/jquery.hammer.min.js"></script>
+	<script type="text/javascript" src="//d3j0fj9hcy3zm8.cloudfront.net/static/lib/jquery.nicescroll.340/jquery.nicescroll.min.js"></script>
+	<script type="text/javascript" src="//d3j0fj9hcy3zm8.cloudfront.net/static/lib/hotkeys/jquery.hotkeys.js"></script>
+
+	<!-- soundmanager2 stuff -->
+	<!-- <link rel="stylesheet" type="text/css" href="static/lib/soundmanagerv297a-20121104/demo/mp3-player-button/css/mp3-player-button-psm.css" /> -->
+	<script type="text/javascript" src="static/lib/soundmanager2-20131115/script/soundmanager2-nodebug-jsmin.js"></script>
+	<!-- <script type="text/javascript" src="static/lib/soundmanager2-20131115/script/soundmanager2.js"></script> -->
+	<script type="text/javascript">
+
+		soundManager.setup({
+		  url: 'static/lib/soundmanager2-20131115/swf/'
+		});
+
+		$(function(){
+
+			// TRACK PLAYBACK
+			$(document).on('click','.mp3',function(e){
+				var url = $(e.target).attr('rel');
+				var trackid = $(e.target).closest('tr').attr('data-track-id');
+				var id = 'mp3-trackid-' + trackid;
+				if ($(e.target).hasClass('playing')) {
+					$(e.target).removeClass('playing');
+					soundManager.stopAll();
+				}
+				else {
+					soundManager.stopAll();
+					soundManager.createSound({
+					  id: id,
+					  url: url,
+					  autoLoad: true,
+					  autoPlay: true,
+					  onplay: function() {
+						$(e.target).addClass('loading');
+					  },
+					  onpause: function() {
+						$('.mp3').removeClass('playing');
+						soundManager.destroySound(id);
+					  },
+					  onstop: function() {
+						$('.mp3').removeClass('playing');
+						soundManager.destroySound(id);
+					  },
+					  onfinish: function() {
+						$('.mp3').removeClass('playing');
+						soundManager.destroySound(id);
+					  },
+					  whileplaying: function() {
+						$(e.target).removeClass('loading');
+						$(e.target).addClass('playing');
+					  }
+					});
+				}
+				e.preventDefault();
+			});	
+
+
+			$(document).on('click','.backtotop',function(){
+				$('html, body').animate({
+					scrollTop: 0
+				}, 600);
+			});
+
+		});
+
+	</script>
 	
-<script type="text/javascript" language="javascript" src="http://img.godaddy.com/JS_Lib/traffic.js"></script>
 
-<img src="http://img.godaddy.com/image.aspx?sitename=www.godaddy.com&amp;server=M1PWCORPWEB152&amp;privatelabelid=1&amp;status=200&amp;rand=0.812901643017727&amp;page=%2fagreements%2fShowDoc.aspx&amp;split=81&amp;querystring=pageid%3dprivacy_parkedpage" alt="" class="traffic">
+	<style type="text/css">
+		body { margin-top: 115px; }
+		#header { position: fixed; top: 0; width: 100%; z-index: 2; box-shadow: 0 5px 25px rgba(0,0,0,0.5); border-bottom: 1px solid #23262b; }
+		#main.home { position: relative; padding-top: 30px; }
 
-    
+/*		.quickview-button { display: inline-block; padding: 3px 5px 4px; position: absolute; top: -2px; right: -2px; z-index: 1; background: rgba(70,70,90,0.8); color: #d3d6db; border: 1px solid #93999b; border-radius: 3px; line-height: 1; box-shadow: 0 2px 5px rgba(0,0,0,0.5); font-size: 11px; text-shadow: 0 1px 0 rgba(0,0,0,0.8); }*/
+/*		.quickview-button:hover { border-color: #b3b6bb; color: #f3f6fb; }*/
 
-    <form name="aspnetForm" method="post" action="ShowDoc.aspx?pageid=privacy_parkedpage" id="aspnetForm">
-<input type="hidden" name="ctl00_ScriptManager1_HiddenField" id="ctl00_ScriptManager1_HiddenField" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzMxNTAyOTQ1D2QWAmYPZBYCAgMPZBYCAhMPDxYCHgdWaXNpYmxlaGRkZGk0a56o4pyrY7+H3hhxuEuvTcpI">
+		.stop-scrolling { width: 100%; height: 100%; overflow: hidden; }
+		#overlay { width: 100%; height: 100%; margin: 0 0 0 0; padding: 0; position: fixed; top: 0; left: 0; background: rgba(0,0,0,0.3); display: none; z-index: 998; }
+		
+		#quickview { position: fixed; width: 720px; height: 540px; top: 20px; left: 20px; display: none; background: #e3e6eb; box-shadow: 0 0 50px #000; color: #111; text-shadow: 0 1px 0 rgba(255,255,255,0.3); text-align: left; z-index: 999; clear: both; }
+		#quickview .content { margin: 0; padding: 0; font-weight: 300; }
+		#quickview a { color: #357; }
+		
+		#quickview .content .close { float: right; margin: -10px 5px 5px 5px; display: inline-block; padding: 0.5em 0.75em; font-size: 11px; color: #93969b; line-height: 1; background: transparent; cursor: pointer; border: 1px inset #fff; }
+		#quickview .content .mast { margin: 15px; height: 180px; }
+		#quickview .content .mast tr td { vertical-align: top; }
+		#quickview .content .mast .album-art { border: 1px solid #d3d6db; width: 180px; height: 180px; margin: 0 15px 0 0; }
+		#quickview .content .mast .cmenu { display: inline; }
+		#quickview .content .mast .cmenu span.value { padding: 8px 12px 8px 0; }
+		#quickview .content .mast .button { padding: 11px 20px 10px; }
+
+		#quickview .content .mast .album-name { font-size: 20px; font-weight: 400; line-height: 1.2; margin-top: 0.5em; margin-bottom: 4px; }
+		#quickview .content .mast .album-artist { font-size: 14px; line-height: 1.2; margin-bottom: 12px; }
+		#quickview .content .mast .album-blurb { font-size: 12px; line-height: 1.5; margin: 2em 0; }
+
+		#quickview .content .mast .album-purchase { height: 40px; line-height: 1; }
+
+		#quickview .content .tabs { text-align: left; margin-left: 212px; }
+		#quickview .content .tabs .tab  { display: inline-block; border: 1px solid #c3c6cb; width: 90px; padding: 6px; font-size: 11px; cursor: pointer; white-space: nowrap; }
+		#quickview .content .tabs .tab.on  { background: #d9dbe3; }
+
+		#quickview .content .album-info-container     { display: none; margin-top: 10px; height: 260px; overflow: auto; border-top: 1px solid #c3c6cb; background: #d9dbe3; padding: 40px 60px; line-height: 1.7; font-size: 12px; color: #000; }
+		#quickview .content .recording-info-container { display: none; margin-top: 10px; height: 260px; overflow: auto; border-top: 1px solid #c3c6cb; background: #d9dbe3; padding: 40px 60px; line-height: 1.7; font-size: 12px; color: #000; }
+
+		#quickview .content .tracks-container { margin-top: 10px; height: 340px; overflow: none; overflow-x: auto; border-top: 1px solid #73767b; background: #d9dbe3; }
+		#quickview .content .tracks { width: 100%; }
+		#quickview .content .tracks tr.head td { font-weight: 400; }
+		#quickview .content .tracks td { padding: 9px; border-bottom: 1px solid #c3c6cb; vertical-align: middle; font-size: 12px; line-height: 1; }
+		#quickview .content .tracks td.track-seq { text-align: right; width: 16px; font-weight: 600; }
+		#quickview .content .tracks td.track-play { text-align: center; width: 24px; }
+		#quickview .content .tracks td.track-name { text-align: left; width: auto; cursor: pointer; }
+		#quickview .content .tracks td.track-duration { text-align: right; width: 40px; }
+		#quickview .content .tracks td.track-format { text-align: center; width: 60px; }
+		#quickview .content .tracks td.track-price { text-align: center; width: 50px; }
+
+		#quickview .content .tracks td.track-format span { border: 0 solid rgba(0,0,0,0.1); padding: 2px 4px; display: inline-block; white-space: nowrap; font-size: 11px; }
+		#quickview .content .tracks td.track-price span.album-only { white-space: nowrap; font-size: 11px; }
+		#quickview .content .tracks td.track-price span.buy-track  { white-space: nowrap; font-size: 11px; font-weight: 400; color: #37a; border: 1px solid #59c; display: inline-block; padding: 3px 1px 4px 0px; border-radius: 2px; cursor: pointer; text-align: center; width: 50px; background: #e3e6eb; }
+
+		#quickview .content .tracks td.album-pline { line-height: 1.4; font-size: 10px; opacity: 0.6; }
+
+		#quickview .content .tracks .TrackName  { font-size: 13px; font-weight: 400; line-height: 1.25; letter-spacing: auto; }
+		#quickview .content .tracks .ArtistName { font-size: 10px; line-height: 1.25; margin-top: 2px; opacity: 0.7; }
+		
+		#quickview-prev { position: fixed; z-index: 99999; display: none; cursor: pointer; width: 36px; height: 64px; top: 400px; left: 20px; background: #c3c6c9 url(static/img/v2/arrow-prev.png) no-repeat center center; opacity: 0.25; border-radius: 4px; }
+		#quickview-next { position: fixed; z-index: 99999; display: none; cursor: pointer; width: 36px; height: 64px; top: 400px; right: 36px; background: #c3c6c9 url(static/img/v2/arrow-next.png) no-repeat center center; opacity: 0.25; border-radius: 4px; }
+		
+		#quickview-prev:hover { opacity: 0.4; }
+		#quickview-next:hover { opacity: 0.4; }
+
+		#quickview .mp3 { cursor: pointer; background: url(static/img/v2/icon-play.png) no-repeat center center; background-size: 24px 24px; display: inline-block; width: 24px; height: 24px; opacity: 0.8; }
+		#quickview .mp3.loading { background-image: url(static/img/v2/loading3.gif); background-size: 12px 12px; opacity: 0.5; }
+		#quickview .mp3.playing { background-image: url(static/img/v2/icon-pause.png); }
+
+		#main .mp3 { cursor: pointer; background: url(static/img/v2/icon-play.png) no-repeat center center; background-size: 20px 20px; display: inline-block; width: 20px; height: 20px; padding:0;margin:2px 0 -2px 0; opacity: 0.8; }
+		#main .mp3.loading { background-image: url(static/img/v2/loading3.gif); background-size: 12px 12px; opacity: 0.5; }
+		#main .mp3.playing { background-image: url(static/img/v2/icon-pause.png); }
 
 
-<script src="/ScriptResource.axd?d=07PJCVFyCyUq301XvnZa1A1dhohl3iEi0ZrL4DpsO6fyHoRLkOFrNUL8IQWRL3P7qzX3I54gowvQdrQXAqjcbAMSsmSMfoLa0dRWNZ1XNU-L20j3HfpFYJYZmrBy1BExj1oA-3kW82X-EH8w4f-U2rvi7NxqUvbUYAoer38JjDQaCpyL0&amp;t=fffffffff9d85fa6" type="text/javascript"></script>
-        
-		<div>
+		/* SKIN */
+		#quickview { background: #63666b url(static/img/v2/gradient-overlay.png) no-repeat left top; ; color: #fff; font-weight: 300; text-shadow: 0 1px 0 #63666b; }
+		#quickview a { color: #fff; text-decoration: none; }
+		#quickview .content .close { color: rgba(0,0,0,0.2); background: rgba(255,255,255,0.2); border: 1px solid transparent; text-shadow: none; border-radius: 2em; font-weight: 600; margin: -5px 10px 0 0; }
+		#quickview .content .close:hover { background: rgba(255,255,255,0.3); }
+		#quickview .content .tabs .tab     { border: 1px solid rgba(255,255,255,0.3); margin-right: 2px; border-radius: 2px; }
+		#quickview .content .tabs .tab.on  { border: 1px solid rgba(255,255,255,0.4); background: rgba(0,0,0,0.1); }
+		#quickview .content .album-info-container     { border-top: 1px solid #33363b; background: #63666b; padding: 40px 60px; line-height: 1.7; font-size: 12px; color: #fff; }
+		#quickview .content .recording-info-container { border-top: 1px solid #33363b; background: #63666b; padding: 40px 60px; line-height: 1.7; font-size: 12px; color: #fff; }
+		#quickview .content .tracks-container { border-top: 1px solid #33363b; background: #73767b; }
+		#quickview .content .tracks tr td { border-bottom: 1px solid #83868b; cursor: default; }
+		#quickview .content .tracks tr.head td { background: #63666b !important; }
+		#quickview .content .tracks tr:hover td { background: #66696e; }
+
+		.fancybox-skin { border-radius: 0; }
+
+		#faq24 { display: none; width: 540px; padding: 30px 60px; text-align: left; line-height: 1.5; background: #53565b; color: #fff; }
+		#faq24 h3 { font-size: 18px; margin: 1.5em 0 0.5em 0; color: #fff; }
+		#faq24 h4 { font-size: 12px; margin: 1em 0 0.5em 0; color: #fff; font-weight: 300; }
+		#faq24 p  { font-size: 12px; margin: 0 0 1.5em 0; color: #eee; }
+		#faq24 ul  { margin: 1em 1.5em; }
+		#faq24 ul li  { list-style-type: circle; margin: auto 2em; font-size: 12px; color: #eee; }
+		#faq24 a  { color: #fff; text-decoration: underline; }
+		
+	</style>
+
+	<script type="text/javascript" src="static/js/album_quickview.js"></script>
+	
+	<script type="text/javascript" charset="utf-8">
+		/* Modernizr 2.6.2 (Custom Build) | MIT & BSD
+		 * Build: http://modernizr.com/download/#-backgroundsize-borderradius-boxshadow-opacity-rgba-textshadow-cssanimations-audio-touch-shiv-cssclasses-teststyles-testprop-testallprops-prefixes-domprefixes-load
+		 */
+		;window.Modernizr=function(a,b,c){function z(a){j.cssText=a}function A(a,b){return z(m.join(a+";")+(b||""))}function B(a,b){return typeof a===b}function C(a,b){return!!~(""+a).indexOf(b)}function D(a,b){for(var d in a){var e=a[d];if(!C(e,"-")&&j[e]!==c)return b=="pfx"?e:!0}return!1}function E(a,b,d){for(var e in a){var f=b[a[e]];if(f!==c)return d===!1?a[e]:B(f,"function")?f.bind(d||b):f}return!1}function F(a,b,c){var d=a.charAt(0).toUpperCase()+a.slice(1),e=(a+" "+o.join(d+" ")+d).split(" ");return B(b,"string")||B(b,"undefined")?D(e,b):(e=(a+" "+p.join(d+" ")+d).split(" "),E(e,b,c))}var d="2.6.2",e={},f=!0,g=b.documentElement,h="modernizr",i=b.createElement(h),j=i.style,k,l={}.toString,m=" -webkit- -moz- -o- -ms- ".split(" "),n="Webkit Moz O ms",o=n.split(" "),p=n.toLowerCase().split(" "),q={},r={},s={},t=[],u=t.slice,v,w=function(a,c,d,e){var f,i,j,k,l=b.createElement("div"),m=b.body,n=m||b.createElement("body");if(parseInt(d,10))while(d--)j=b.createElement("div"),j.id=e?e[d]:h+(d+1),l.appendChild(j);return f=["&#173;",'<style id="s',h,'">',a,"</style>"].join(""),l.id=h,(m?l:n).innerHTML+=f,n.appendChild(l),m||(n.style.background="",n.style.overflow="hidden",k=g.style.overflow,g.style.overflow="hidden",g.appendChild(n)),i=c(l,a),m?l.parentNode.removeChild(l):(n.parentNode.removeChild(n),g.style.overflow=k),!!i},x={}.hasOwnProperty,y;!B(x,"undefined")&&!B(x.call,"undefined")?y=function(a,b){return x.call(a,b)}:y=function(a,b){return b in a&&B(a.constructor.prototype[b],"undefined")},Function.prototype.bind||(Function.prototype.bind=function(b){var c=this;if(typeof c!="function")throw new TypeError;var d=u.call(arguments,1),e=function(){if(this instanceof e){var a=function(){};a.prototype=c.prototype;var f=new a,g=c.apply(f,d.concat(u.call(arguments)));return Object(g)===g?g:f}return c.apply(b,d.concat(u.call(arguments)))};return e}),q.touch=function(){var c;return"ontouchstart"in a||a.DocumentTouch&&b instanceof DocumentTouch?c=!0:w(["@media (",m.join("touch-enabled),("),h,")","{#modernizr{top:9px;position:absolute}}"].join(""),function(a){c=a.offsetTop===9}),c},q.rgba=function(){return z("background-color:rgba(150,255,150,.5)"),C(j.backgroundColor,"rgba")},q.backgroundsize=function(){return F("backgroundSize")},q.borderradius=function(){return F("borderRadius")},q.boxshadow=function(){return F("boxShadow")},q.textshadow=function(){return b.createElement("div").style.textShadow===""},q.opacity=function(){return A("opacity:.55"),/^0.55$/.test(j.opacity)},q.cssanimations=function(){return F("animationName")},q.audio=function(){var a=b.createElement("audio"),c=!1;try{if(c=!!a.canPlayType)c=new Boolean(c),c.ogg=a.canPlayType('audio/ogg; codecs="vorbis"').replace(/^no$/,""),c.mp3=a.canPlayType("audio/mpeg;").replace(/^no$/,""),c.wav=a.canPlayType('audio/wav; codecs="1"').replace(/^no$/,""),c.m4a=(a.canPlayType("audio/x-m4a;")||a.canPlayType("audio/aac;")).replace(/^no$/,"")}catch(d){}return c};for(var G in q)y(q,G)&&(v=G.toLowerCase(),e[v]=q[G](),t.push((e[v]?"":"no-")+v));return e.addTest=function(a,b){if(typeof a=="object")for(var d in a)y(a,d)&&e.addTest(d,a[d]);else{a=a.toLowerCase();if(e[a]!==c)return e;b=typeof b=="function"?b():b,typeof f!="undefined"&&f&&(g.className+=" "+(b?"":"no-")+a),e[a]=b}return e},z(""),i=k=null,function(a,b){function k(a,b){var c=a.createElement("p"),d=a.getElementsByTagName("head")[0]||a.documentElement;return c.innerHTML="x<style>"+b+"</style>",d.insertBefore(c.lastChild,d.firstChild)}function l(){var a=r.elements;return typeof a=="string"?a.split(" "):a}function m(a){var b=i[a[g]];return b||(b={},h++,a[g]=h,i[h]=b),b}function n(a,c,f){c||(c=b);if(j)return c.createElement(a);f||(f=m(c));var g;return f.cache[a]?g=f.cache[a].cloneNode():e.test(a)?g=(f.cache[a]=f.createElem(a)).cloneNode():g=f.createElem(a),g.canHaveChildren&&!d.test(a)?f.frag.appendChild(g):g}function o(a,c){a||(a=b);if(j)return a.createDocumentFragment();c=c||m(a);var d=c.frag.cloneNode(),e=0,f=l(),g=f.length;for(;e<g;e++)d.createElement(f[e]);return d}function p(a,b){b.cache||(b.cache={},b.createElem=a.createElement,b.createFrag=a.createDocumentFragment,b.frag=b.createFrag()),a.createElement=function(c){return r.shivMethods?n(c,a,b):b.createElem(c)},a.createDocumentFragment=Function("h,f","return function(){var n=f.cloneNode(),c=n.createElement;h.shivMethods&&("+l().join().replace(/\w+/g,function(a){return b.createElem(a),b.frag.createElement(a),'c("'+a+'")'})+");return n}")(r,b.frag)}function q(a){a||(a=b);var c=m(a);return r.shivCSS&&!f&&!c.hasCSS&&(c.hasCSS=!!k(a,"article,aside,figcaption,figure,footer,header,hgroup,nav,section{display:block}mark{background:#FF0;color:#000}")),j||p(a,c),a}var c=a.html5||{},d=/^<|^(?:button|map|select|textarea|object|iframe|option|optgroup)$/i,e=/^(?:a|b|code|div|fieldset|h1|h2|h3|h4|h5|h6|i|label|li|ol|p|q|span|strong|style|table|tbody|td|th|tr|ul)$/i,f,g="_html5shiv",h=0,i={},j;(function(){try{var a=b.createElement("a");a.innerHTML="<xyz></xyz>",f="hidden"in a,j=a.childNodes.length==1||function(){b.createElement("a");var a=b.createDocumentFragment();return typeof a.cloneNode=="undefined"||typeof a.createDocumentFragment=="undefined"||typeof a.createElement=="undefined"}()}catch(c){f=!0,j=!0}})();var r={elements:c.elements||"abbr article aside audio bdi canvas data datalist details figcaption figure footer header hgroup mark meter nav output progress section summary time video",shivCSS:c.shivCSS!==!1,supportsUnknownElements:j,shivMethods:c.shivMethods!==!1,type:"default",shivDocument:q,createElement:n,createDocumentFragment:o};a.html5=r,q(b)}(this,b),e._version=d,e._prefixes=m,e._domPrefixes=p,e._cssomPrefixes=o,e.testProp=function(a){return D([a])},e.testAllProps=F,e.testStyles=w,g.className=g.className.replace(/(^|\s)no-js(\s|$)/,"$1$2")+(f?" js "+t.join(" "):""),e}(this,this.document),function(a,b,c){function d(a){return"[object Function]"==o.call(a)}function e(a){return"string"==typeof a}function f(){}function g(a){return!a||"loaded"==a||"complete"==a||"uninitialized"==a}function h(){var a=p.shift();q=1,a?a.t?m(function(){("c"==a.t?B.injectCss:B.injectJs)(a.s,0,a.a,a.x,a.e,1)},0):(a(),h()):q=0}function i(a,c,d,e,f,i,j){function k(b){if(!o&&g(l.readyState)&&(u.r=o=1,!q&&h(),l.onload=l.onreadystatechange=null,b)){"img"!=a&&m(function(){t.removeChild(l)},50);for(var d in y[c])y[c].hasOwnProperty(d)&&y[c][d].onload()}}var j=j||B.errorTimeout,l=b.createElement(a),o=0,r=0,u={t:d,s:c,e:f,a:i,x:j};1===y[c]&&(r=1,y[c]=[]),"object"==a?l.data=c:(l.src=c,l.type=a),l.width=l.height="0",l.onerror=l.onload=l.onreadystatechange=function(){k.call(this,r)},p.splice(e,0,u),"img"!=a&&(r||2===y[c]?(t.insertBefore(l,s?null:n),m(k,j)):y[c].push(l))}function j(a,b,c,d,f){return q=0,b=b||"j",e(a)?i("c"==b?v:u,a,b,this.i++,c,d,f):(p.splice(this.i++,0,a),1==p.length&&h()),this}function k(){var a=B;return a.loader={load:j,i:0},a}var l=b.documentElement,m=a.setTimeout,n=b.getElementsByTagName("script")[0],o={}.toString,p=[],q=0,r="MozAppearance"in l.style,s=r&&!!b.createRange().compareNode,t=s?l:n.parentNode,l=a.opera&&"[object Opera]"==o.call(a.opera),l=!!b.attachEvent&&!l,u=r?"object":l?"script":"img",v=l?"script":u,w=Array.isArray||function(a){return"[object Array]"==o.call(a)},x=[],y={},z={timeout:function(a,b){return b.length&&(a.timeout=b[0]),a}},A,B;B=function(a){function b(a){var a=a.split("!"),b=x.length,c=a.pop(),d=a.length,c={url:c,origUrl:c,prefixes:a},e,f,g;for(f=0;f<d;f++)g=a[f].split("="),(e=z[g.shift()])&&(c=e(c,g));for(f=0;f<b;f++)c=x[f](c);return c}function g(a,e,f,g,h){var i=b(a),j=i.autoCallback;i.url.split(".").pop().split("?").shift(),i.bypass||(e&&(e=d(e)?e:e[a]||e[g]||e[a.split("/").pop().split("?")[0]]),i.instead?i.instead(a,e,f,g,h):(y[i.url]?i.noexec=!0:y[i.url]=1,f.load(i.url,i.forceCSS||!i.forceJS&&"css"==i.url.split(".").pop().split("?").shift()?"c":c,i.noexec,i.attrs,i.timeout),(d(e)||d(j))&&f.load(function(){k(),e&&e(i.origUrl,h,g),j&&j(i.origUrl,h,g),y[i.url]=2})))}function h(a,b){function c(a,c){if(a){if(e(a))c||(j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}),g(a,j,b,0,h);else if(Object(a)===a)for(n in m=function(){var b=0,c;for(c in a)a.hasOwnProperty(c)&&b++;return b}(),a)a.hasOwnProperty(n)&&(!c&&!--m&&(d(j)?j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}:j[n]=function(a){return function(){var b=[].slice.call(arguments);a&&a.apply(this,b),l()}}(k[n])),g(a[n],j,b,n,h))}else!c&&l()}var h=!!a.test,i=a.load||a.both,j=a.callback||f,k=j,l=a.complete||f,m,n;c(h?a.yep:a.nope,!!i),i&&c(i)}var i,j,l=this.yepnope.loader;if(e(a))g(a,0,l,0);else if(w(a))for(i=0;i<a.length;i++)j=a[i],e(j)?g(j,0,l,0):w(j)?B(j):Object(j)===j&&h(j,l);else Object(a)===a&&h(a,l)},B.addPrefix=function(a,b){z[a]=b},B.addFilter=function(a){x.push(a)},B.errorTimeout=1e4,null==b.readyState&&b.addEventListener&&(b.readyState="loading",b.addEventListener("DOMContentLoaded",A=function(){b.removeEventListener("DOMContentLoaded",A,0),b.readyState="complete"},0)),a.yepnope=k(),a.yepnope.executeStack=h,a.yepnope.injectJs=function(a,c,d,e,i,j){var k=b.createElement("script"),l,o,e=e||B.errorTimeout;k.src=a;for(o in d)k.setAttribute(o,d[o]);c=j?h:c||f,k.onreadystatechange=k.onload=function(){!l&&g(k.readyState)&&(l=1,c(),k.onload=k.onreadystatechange=null)},m(function(){l||(l=1,c(1))},e),i?k.onload():n.parentNode.insertBefore(k,n)},a.yepnope.injectCss=function(a,c,d,e,g,i){var e=b.createElement("link"),j,c=i?h:c||f;e.href=a,e.rel="stylesheet",e.type="text/css";for(j in d)e.setAttribute(j,d[j]);g||(n.parentNode.insertBefore(e,n),m(c,0))}}(this,document),Modernizr.load=function(){yepnope.apply(window,[].slice.call(arguments,0))};
+	</script>
+
+	<script type="text/javascript">
+	
+		var store = "us";
+	
+		$(function(){
+
+			var is_touch_device = (Modernizr.touch) ? true : false;
+			var cursoropacitymin = (is_touch_device) ? 0 : 0.4;
+			var cursoropacitymax = (is_touch_device) ? 0 : 0.6;
+			// var 
+		    var nicesx = $(".nicescroll").niceScroll({
+				touchbehavior: is_touch_device,
+				enablemousewheel: false,
+				background: '#23262b',
+				cursorcolor: "#93969b",
+				cursorborder: 'none',
+				cursorborderradius: '4px',
+				cursoropacitymin: cursoropacitymin,
+				cursoropacitymax: cursoropacitymax,
+				cursorwidth: 9
+			});
 			
+			$('#nav li:first').dblclick(function(e){
+				var q = prompt('Search on Label, Artist or Album Name');
+				if (q) {
+					location.href = 'search?q=' + escape(q);
+				}
+				e.preventDefault();
+			});
+
+			$('#header .flashdata').delay(4000).fadeOut();
+			
+			
+			// FAQ POPOVER
+			$('.faq24').fancybox({
+				padding: 1,
+				radius: 0,
+				width: 500
+			});
+			
+		});
+					
+	</script>
+
+	
+	<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		var pluginUrl = 
+		'//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+		
+		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+		_gaq.push(['_setAccount', 'UA-43998441-1']);
+		_gaq.push(['_trackPageview']);
+		
 
 
+		// CAPTURE QUICKVIEW
+		$(document).on('click','.quickview',function(e){
+			e.preventDefault();
+			var album_id = $(this).attr('data-album-id');
+			var uri = 'album/page/'+album_id+'/quickview';
+			_gaq.push(['_trackPageview',uri]);
+		});
 
-    <style type="text/css">
-        .closeButton
-        {
-            font-variant: small-caps;
-            color: #003366;
-            text-decoration: none;
-            font-size: 12pt;
-            letter-spacing: 4px;
-            font-family: Arial-Narrow, Helvetica, Veranda, Sans;
-        }
-        .main
-        {
-            font-family: Arial, Verdana;
-        }
-        .bodyText
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 25pt;
-            margin-bottom: 5pt;
-            line-height: 12pt;
-            text-align: justify;
-        }
-        .bodyTextBold
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 5pt;
-            margin-bottom: 5pt;
-            font-weight: bolder;
-        }
-        .footerText
-        {
-            font-family: Arial, Verdana;
-            font-size: 7pt;
-            margin-right: 5pt;
-            margin-bottom: 5pt;
-            color: #FFFFFF;
-        }
-        .bodyTextCaps
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 25pt;
-            margin-bottom: 5pt;
-            text-transform: uppercase;
-            text-align: justify;
-        }
-        .finePrint
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            margin-right: 25pt;
-            margin-bottom: 10pt;
-            line-height: 10pt;
-            text-align: justify;
-        }
-        A:ACTIVE, A:LINK, A:VISITED
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 0pt;
-            margin-bottom: 5pt;
-            text-decoration: none;
-            color: #FF6600;
-        }
-        A:HOVER
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 0pt;
-            margin-bottom: 5pt;
-            text-decoration: underline;
-            color: #CC6600;
-        }
-        .EULATitle
-        {
-            font-family: Arial, Verdana;
-            font-size: 14pt;
-            margin-right: 5pt;
-            text-transform: uppercase;
-            font-style: italic;
-            font-weight: bold;
-            color: #003366;
-        }
-        .heading1
-        {
-            font-family: Arial, Verdana;
-            font-size: 11pt;
-            font-weight: bold;
-            text-transform: uppercase;
-            color: #666666;
-        }
-        .smallTable p, .smallTable ul, .smallTable ol {
-         margin : 1px;
-        }
 
-        .heading2
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 5pt;
-            margin-bottom: 5pt;
-            font-weight: bolder;
-        }
-        LI
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            margin-right: 25pt;
-            margin-top: 5pt;
-            margin-bottom: 5pt;
-            line-height: 12pt;
-            text-align: justify;
-        }
-        OL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: lower-roman;
-            list-style-position: outside;
-        }
-        OL OL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: upper-alpha;
-            list-style-position: outside;
-        }
-        OL OL OL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: disc;
-            list-style-position: outside;
-        }
-        UL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: disc;
-            list-style-position: outside;
-        }
-        UL UL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: circle;
-            list-style-position: outside;
-        }
-        UL UL UL
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-            list-style-type: square;
-            list-style-position: outside;
-        }
-        P
-        {
-            font-family: Arial, Verdana;
-            font-size: 10pt;
-        }
-        .nav
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            line-height: 0pt;
-        }
-        A.nav:ACTIVE, A.nav:LINK, A.nav:VISITED
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            color: #003366;
-        }
-        A.nav:HOVER
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-            color: #FF6600;
-        }
-        .top
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-        }
-        A.top:ACTIVE, A.top:LINK, A.top:VISITED
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-            color: #FF6600;
-        }
-        A.top:HOVER
-        {
-            font-family: Arial, Verdana;
-            font-size: 8pt;
-            text-decoration: underline;
-            color: #CC6600;
-        }
-        #TableMenu
-        {
-            background-color: #FFFFFF;
-            border: 1px dashed #FFFFFF;
-            padding-bottom: 15pt;
-            padding-left: 10pt;
-            padding-right: 10pt;
-            padding-top: 15pt;
-            width: 125px;
-        }
-        HR
-        {
-            color: Silver;
-            margin-right: 25pt;
-        }
-        body
-        {
-            font-family: Arial,Verdana;
-        }
-         
-         a:active,a:link,a:visited{color:#FF6600;font-family:Arial,Verdana;font-size:10pt;margin-bottom:5pt;margin-right:0;text-decoration:none;}
-        .EULATitle
-        {
-            color: #003366;
-            font-family: Arial,Verdana;
-            font-size: 14pt;
-            font-style: italic;
-            font-weight: bold;
-            margin-right: 5pt;
-            text-transform: uppercase;
-        }
+		// CAPTURE PREVIEW PLAYS
+		$(document).on('click','.mp3',function(e){
+			var trackid = $(e.target).closest('tr').attr('data-track-id');
+			if (!$(e.target).hasClass('playing')) {
+				_gaq.push(['_trackEvent', 'mp3', 'play', trackid]);
+			}
+		});
+
+
         
- </style>
+		(function() {
+		  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		  ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
 
-<div class="main">
-    <table border="0" cellspacing="0" cellpadding="0" width="100%">
-        <tbody><tr>
-            <td>
-                <a href="Javascript:window.close();" class="closeButton">Close Window</a>
-            </td>
-            <td align="right">
-                <a href="Javascript:window.print();" class="closeButton">Print</a>
-            </td>
-        </tr>
-    </tbody></table>
-    <br>
-    <table>
-        <tbody><tr>
-            <td width="100px">
-            </td>
-            <td>
-                &nbsp;
-            </td>
-            </tr>
-            <tr>
-            <td>
-            </td>
-            <td>
-                
-                <table width="100%">
-<tbody>
-<tr><td width="0"></td><td></td></tr>
-<tr><td></td><td>
-<table>
-<tbody>
-<tr><th align="left" class="EULATitle">
-Go Daddy<br>
-Privacy, Security, Your Information
-</th></tr>
-<tr><td class="bodyText">
-<div style="font-size: 9pt; color: #000000; direction: ltr; font-family: MS Shell Dlg 2;">
-<p><strong>Go Daddy Respects Your Privacy</strong></p>
-<p><strong>This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.</strong></p>
-<p><strong>Please take the time to review the terms of this Policy.&nbsp; By using this Site, you agree to accept the terms provided.</strong></p>
-<p><strong>Other than as described in this Policy, we will not give any information about you to others without your express permission. </strong></p>
-<p><strong>Information Collection and Use </strong></p>
-<p>Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.&nbsp; For example, we may collect this information in the event that you register as a member of&nbsp;this Site, post a comment, sign-up&nbsp;to receive email communications, or submit demographic information as part of a survey.</p>
-<p>We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.</p>
-<p>We may use your information&nbsp;to contact you regarding the information and services available on our Site, functionality changes to our Site,&nbsp;and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.</p>
-<p>We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.</p>
-<p>We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.</p>
-<p>Our Site uses cookies to enhance your experience with our Site.&nbsp; Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.&nbsp; We use cookies to identify you so you don't need to log in each time you visit our Site.&nbsp; You may opt-out of the use of cookies by altering settings on your browser.&nbsp; Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..</p>
-<p>This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.</p>
-<p><strong>Security </strong></p>
-<p>This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.</p>
-<p><strong>Updating Your Information </strong></p>
-<p>You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.</p>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may send an email to <a href="mailto:support@godaddy.com">support@godaddy.com </a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You may send mail to Go Daddy at the following postal address:&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may call us at: (480) 505-8800</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may fax us at: (480) 505-8844</p>
-<p></p>
-<p></p>
-<p><strong>Sending Emails </strong></p>
-<p>We use emails to communicate with you&nbsp;and to send information that you have requested.&nbsp; We also provide email links&nbsp;to allow you to contact us directly. We strive to promptly reply to your messages.</p>
-<p>The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.</p>
-<p><strong>Compliance with Laws and Law Enforcement </strong></p>
-<p>We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.</p>
-<p><strong>Third Party Service Providers </strong></p>
-<p>We may at times provide information about you to third parties to provide various services on our behalf, such as&nbsp;serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.</p>
-<p>In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here. </a></p>
-<p><strong>Supplementation of Information </strong></p>
-<p>In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources (<em>e.g., </em>information from our strategic partners, service providers, or the United States Postal Service).&nbsp; We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.</p>
-<p><strong>Contests/Surveys </strong></p>
-<p>From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.</p>
-<p>We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.</p>
-<p></p>
-<p><strong>Tell-A-Friend </strong></p>
-<p>If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at <a href="mailto:support@godaddy.com">support@godaddy.com </a>to request the removal of this information from our database.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>What Happens to my Personal Information if I Opt Out? </strong></p>
-<p>If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information&nbsp;in "deactivated" status on our relevant&nbsp;databases. However,&nbsp;you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.</p>
-<p></p>
-<p><strong>Transfer of Data Abroad</strong></p>
-<p>If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information&nbsp;across international boundaries. &nbsp;By visiting this Site and communicating electronically with us, you consent to such transfers.</p>
-<p></p>
-<p><strong>Changes in Our Practices</strong></p>
-<p>We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and&nbsp;any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
-<p>If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.</p>
-<p><strong>Contacting Our Site </strong></p>
-<p>If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:</p>
-<hr size="2" noshade="">
-<p>Go Daddy <br>ATTN: Web Team <br>14455 North Hayden Rd. <br>Suite 219 <br>Scottsdale, AZ, 85260, U.S.A.</p>
-</div>
+	</script>
 
-</td></tr>
-<tr><td>
-<br>
-<span class="finePrint">
-Revised: 2/23/2011<br>
-Copyright © 2010-2011 GoDaddy.com, Inc. All Rights Reserved.
-</span>
-</td></tr>
-</tbody>
-</table>
-</td></tr>
-</tbody>
-</table>
+	
 
-            </td>
-        </tr>
-    </tbody></table>
-</div>
 
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=567591483294840";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+<div id="header">
+	<div class="page-width">
+
+		<h1><a class="logo" href="."><img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/logo-uncompromised.png" style="opacity:0;"><span class="seo">ProStudioMasters.com</span></a></h1>
+
+		<div class="col2">
+		
+			<ul id="nav">
+
+								<li>Hello</li>
+				<li class="sfmenu">
+					<a href="featured" class="nounderline">Browse Albums <img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/downarrow.png" width="11" height="8" border="0" alt=""></a>
+					<ul>
+						<li><a href="topsellers">Top Sellers</a></li>
+						<li><a href="featured/genre/classical">Classical</a></li>
+						<li><a href="featured/genre/jazz">Jazz</a></li>
+						<li><a href="featured/genre/rockpop">Rock / Pop</a></li>
+						<li><a href="featured/genre/other">More</a></li>
+					</ul>
+				</li>
+				<li><a href="account">My Account</a></li>
+				<li><a href="downloads">Downloads</a></li>
+				<li><a href="redeem">Redeem</a></li>
+				
+								<li><a href="cart" class="cart">Cart</a></li>
+				
+			</ul>
+						
 		</div>
-    
+		<div class="flashdata"></div>
 
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
-</script>
-</form>
+	</div>
+</div> <!-- /#header -->
 
-    
-<script src="http://img3.wsimg.com/fastball/js_lib/FastballLibrary0006.js?version=1" type="text/javascript"></script>
+<noscript>
+<div style="text-align: center;">
+   <div style="display: inline-block; border: 10px solid #300; border-radius: 10px; margin: 40px 0; padding: 80px 0 85px 0; background: #23262b; text-shadow: 1px 1px 3px #000; width:940px; box-shadow: 0 0 1px #63696b;">
+		<div style="color: #fa0; margin:0 0 20px 0; font-size: 28px; font-weight: bold;">&mdash; Please Activate Scripting &mdash;</div>
+		<div style="color: #93969b; font-size: 13px;">
+			Javascript must be enabled to purchase albums and listen to track previews.<br><br>
+			After you have enabled scripting refresh this page.
+		</div>
+   </div>
+</div>
+</noscript>
 
-    
-<script src="http://img3.wsimg.com/fos/script/sales16.min.js" type="text/javascript"></script>
 	
-	
+<div id="main" class="terms">
+	<div class="page-width">
 
-<script type="text/javascript" language="javascript">
-  var internal_clicked=true;
-	if(typeof Content_appLoad == 'function')
-	{
-		Content_appLoad();
-	}
-</script>
+
+		 
+<h3>ProStudioMasters Privacy Policy</h3>
+
+<p>Your privacy is important to ProStudioMasters.com Inc.  (“Company”, “we”, or “us”) and we are committed to protecting the privacy of your information.  This Privacy Policy describes how we collect, use, store, share and protect your information in connection with the Company’s website located at www.prostudiomasters.com (the “Site”), and the services and tools (including, but not limited to, mobile applications and other software applications) related to the Site (collectively, the “Service”).  This Privacy Policy applies when you access, visit or use the Service. This Privacy Policy is part of, and is governed by, the terms and conditions set forth in the Terms of Service located at <a href="terms">http://www.prostudiomasters.com/terms</a> (the “Terms of Service”).</p>
+
+<p>By affirmatively accepting the terms of this Privacy Policy when you create an account through the Service, or by otherwise accessing, visiting or using the Service, you expressly consent to our collection, use, disclosure and retention of your information as described in this Privacy Policy and in the Terms of Service. </p>
+
+<p>We will notify you of changes to this Privacy Policy by posting the amended terms on the Service.  If you have created an account through the Service you will be asked to affirmatively accept the new terms in order to continue using the Service. If you do not agree to the new terms, you should cease using the Service, and you may terminate your account by contacting us using the information in Section 15 below. </p>
+
+<p><strong>1.	Information Collected from You by the Company.</strong> We may collect information that you provide to us in connection with your use of the Service when you register as a user of the Service, or if you send e-mail messages or other information to us through the Service.  If you register for an account through the Service, you will be required to provide your email address and to create a user name and password.  If you place an order through the Service, you may be asked to provide your billing information, including your name and a payment card number, expiration date and security code, as well as the postal address associated with that payment card.  We may also collect information that you provide to us when you communicate with any of our departments such as customer service, sales or technical services. </p>
+
+<p>If you use the “email a friend” functionality on the Service to notify a friend about a product or service offered through the Service, we will ask you for your friend’s name and email address. If you provide your friend’s name and email address we will automatically send the friend an email from you.  We do not use the email you provide to send any communication other than the email you send to your friend. </p>
+
+<p><strong>2.	Information You Share on the Service.</strong>  Some portions of the Service allow you to submit comments, reviews, ratings and other content.  This content may be displayed on the Service and may be viewable by other users of the Service. </p>
+
+<p><strong>3.	Information Automatically Collected Through the Service.</strong> We may automatically collect information about you when you use the Service. If you access the Service through a mobile device, we will automatically collect information such as your device ID and device type. If you access the Service through a computer, we will automatically collect information such as your browser type and version, computer and connection information, statistics on page views, traffic to and from the Service, IP address and standard web log information. </p> 
+
+<p><strong>4.	Cookies.</strong> We may automatically collect information from you when you use the Service using “cookies”.  Cookies are small amounts of data that are stored within your computer’s Internet browser and that are accessed and recorded by the websites that you visit so that they can recognize the same browser navigating online at a later time. </p>
+
+<p>Information that may be collected by cookies when you use the Service may include, without limitation: </p>
+
+<ul>
+	<li>the pages you visit within the Service; </li>
+	<li>the date and time of your visit to the Service;</li> 
+	<li>the amount of time you spend using the Service;</li>
+	<li>the Internet Protocol (IP) address used to connect your computer to the Internet; and/or</li>
+	<li>your computer and connection information such as your browser type and version, operating system and platform.</li>
+</ul>
+
+<p>You can set your browser to reject cookies or to notify you when you are sent a cookie. However, if you disable cookies you may not be able to use all features of the Service, including the features that are only made available to registered members of the Service. </p>
+
+<p><strong>5.	Information Provided to Us by Social Networking Services.</strong>  By logging in to the Service through a third party social networking service, such as Facebook or Twitter, you give us permission to access, store and use any information that you permit the applicable third party social networking service to share with us in accordance with the privacy settings that are applicable to your account with that social networking service. We encourage you to review, and if necessary, adjust, your privacy settings on the applicable social networking service before logging in to the Service through a social networking service. Information that we receive from third party social networking service is stored and used by us in accordance with this Privacy Policy.</p>
+
+<p><strong>6.	Collection of Information by Third Parties.</strong>  If you visit the Service from a third-party website the third-party website may give you a unique code, cookie or graphic which will uniquely identify you. This will only happen if you link directly from a third party website to the Service.  Your activities on the Service while this type of code is active may be reported back to the third party website.  The presence of a third party navigation bar at the top of a webpage is an indication that the third party website may be able to see your activity on the Service.</p> 
+
+<p>We may also provide social media features through the Service that enable you to share information with your social networks and to interact with the Service on various social media sites. Your use of these features may result in the collection or sharing of information about you by these sites, depending on the feature. We encourage you to review the privacy policies and settings on the social media sites with which you interact to make sure you understand the information that may be collected, used, and shared by those sites. </p>
+
+<p>The Service may include third-party advertising, links to other websites, and other content from third-party businesses.  These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, may use web beacons and cookies to measure the effectiveness of their ads, personalize or optimize advertising content and to track users who click on the links made available through the Service.  We do not have access to or control over web beacons or cookies that these third parties may use.  We are not responsible for the privacy practices of these third parties and we encourage you to read their privacy policies. </p>
+
+<p>Some third-party advertising companies may provide a mechanism to opt-out of their technology.  For more information about the opt-out process, you may visit the Network Advertising Initiative website, available at <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a></p>
+
+<p><strong>7.	Use of Information by the Company.</strong>  We may use information that we collect about you through the Service to:</p>
+
+<ul>
+	<li>provide access to the Service and to provide you with requested services and customer support and to process and respond to your inquiries; </li>
+	<li>personalize, customize, measure, and improve our services, content, and advertising and otherwise to enhance your experience of the Service; </li>
+	<li>prevent, detect, and investigate potentially prohibited or illegal activities, and enforce the Terms of Service; </li>
+	<li>analyze the accuracy, effectiveness, usability, or popularity of the Service;</li>
+	<li>generate and review reports and data about our user base and service usage patterns;</li>
+	<li>compile aggregate data for internal and external business purposes;</li>
+	<li>resolve disputes and troubleshoot problems;</li>
+	<li>contact you with information, including promotional, marketing and advertising information and recommendations that we believe may be of interest to you;</li>
+	<li>provide you with other services requested by you as described when we collect the information; and</li>
+	<li>as otherwise stated in this Privacy Policy or the Terms of Service.</li>
+</ul>
+
+<p><strong>8.	Our Disclosure of Information to Third Parties.</strong>  We do not sell, rent or lease your information to third parties for their own marketing purposes.  However, we may disclose your information to the following third parties:</p>
+
+<ul>
+	<li>Service Providers: We may employ other companies or individuals (“Service Providers”) to provide certain services to us or on our behalf, such as processing payments you place through the Service, analyzing data, or performing marketing or consulting services.  These Service Providers will only have access to the information needed to perform these limited functions on our behalf and are required to provide your information with at least the same level of protection and security as we use on the Service.  These Service Providers are prohibited from using your information for any purpose other than the purpose for which the applicable Service Provider was engaged by us and/or as stated in this Privacy Policy.  </li>
+	<li>Third Party Marketing Partners:  If you opt-in to receive marketing communications from third parties, we may, from time to time, share your name and email address with a few carefully selected third party marketing partners that we believe offer products or services that may be of interest to you.  We will not share any credit card information which you have given us with any of these third party marketing partner(s). In addition, if you would like us to stop providing your information to our third party marketing partners, you may opt-out as described in Section 11(B) below. </li>
+	<li>Payment Card Companies: If you place an order through the Service, the information you provide will be transmitted by our third party payment processor to your credit card company to verify and authorize your purchase.</li>
+	<li>Companies that Acquire Our Business or Assets:  If the Company becomes involved in a merger, acquisition, sale of assets, securities offering, bankruptcy, reorganization, dissolution, or other transaction or if the ownership of all or substantially all of our business otherwise changes, we may share or transfer your information to a third party or parties in connection with the applicable transaction.</li>
+	<li>Our Affiliates:  We may share some or all of your information with our parent company, subsidiaries and corporate affiliates, joint venturers, or other companies under common control with us.  We will require these entities to comply with the terms of this Privacy Policy with regard to their use of your information. </li>
+	<li>Aggregate Information:  We may share information relating to visitors and users of the Service with affiliated or unaffiliated third parties on an aggregate basis. We note that, while this information will not identify you personally, in some instances these third parties may be able to combine this information with other data they have about you, or that they receive from third parties, in a manner that allows them to identify you personally.  </li>
+	<li>Law Enforcement Authorities:  To the extent permitted by law, we may share your information with law enforcement, governmental agencies, or authorized third parties, in response to a verified request relating to a criminal investigation or alleged illegal activity or any other activity that may expose us, you, or any other user of the Service to legal liability, or to protect our rights or property, or during emergencies when safety is at risk.</li>
+	<li>DMCA Infringement Notifications: We may share your information with third parties if you submit a Digital Millennium Copyright Act (“DMCA”) Infringement Notification as described in our <a href="terms">Terms of Use</a>.</li>
+</ul>
+
+<p><strong>9.	No Spam, Spyware or Spoofing.</strong>  We do not tolerate spam. To report Company-related spam or spoof emails to us, please forward the email to privacy@prostudiomasters.com. You may not use our communication tools to send spam or otherwise send content that would violate the Terms of Service. </p>
+
+<p><strong>10.	Security.</strong>  We take reasonable measures to protect the information you provide to us or submit through the Service against loss, theft and unauthorized use, disclosure, or modification. However, we cannot guarantee or warrant the security of any information you transmit to us or submit through the Service and you do so at your own risk.  No internet or email transmission is ever fully secure or error-free. Email sent to or through the Service may not be secure. You should use caution whenever submitting information online and take special care in deciding what information you send to us via email. </p>
+
+<p><strong>11.	Accessing, Changing and Managing Your Information.</strong> You may change and update the information you provide through the Service, or change your preferences concerning how we use your information, as follows:</p>
+
+<p><strong>A.		Changing, Updating or Deleting Your Information.</strong> You may make changes to the user information you have provided in connection with your account by logging in to your account and changing the applicable information, or by contacting us at privacy@prostudiomasters.com.  If you choose to terminate your account, you may also request that we delete your information by contacting us at privacy@prostudiomasters.com.  Following receipt of a request from you, we will take reasonable steps to update, correct or delete your information.
+
+</p><p><strong>B.		Email Communications.</strong> You can always choose not to receive email communications from us or our third party marketing partners, by following the “unsubscribe” instructions in any email communication you receive from us or our third party marketing partners.
+
+</p><p><strong>12.	No Use by Children.</strong>  The Service is not intended for use by children under the age of thirteen (13).  We will never knowingly collect information directly from children under the age of thirteen (13) without verifiable parental consent.  If you are under the age of thirteen (13), please do not provide us with information of any kind whatsoever.  We encourage parents and guardians to spend time with their children online and to be familiar with the websites they visit.  If you have reason to believe that we may have accidentally received information from a child under the age of thirteen (13), please contact us immediately at privacy@prostudiomasters.com</p>
+
+<p><strong>13.	Use of Information Outside of Your Country of Residence.</strong>  If you are located outside of the United States or Canada and choose to use the Service or provide your information to us, your information may be transferred, processed and stored in the United States or Canada.  U.S. and Canadian privacy laws may not be as protective as those in your jurisdiction. Your agreement to the terms of this Privacy Policy followed by your submission of information in connection with the Service represents your agreement to this practice.  If you do not want your information transferred to or processed or stored in the United States or Canada, you should not use the Service.  </p>
+
+<p><strong>14.	Retention of Your Information.</strong>  We retain information for active accounts as long as it is necessary and relevant for our operations. In addition, we may retain information from closed accounts to comply with the law, prevent fraud, resolve disputes, troubleshoot problems, assist with any investigation, enforce the Terms of Service and take other actions permitted by law. The information we retain about you will be handled in accordance with this Privacy Policy.</p>
+
+<p><strong>15.	How to Contact Us.</strong>  If you have any questions about the Privacy Policy or our use of the information we collect from you in connection with the Service, you may contact us by email at privacy@prostudiomasters.com, or by postal mail at ProStudioMasters.com Inc.,  2001 University Street, Suite 1700, Montreal, QC H3A 2A6, Attention: Privacy Policy.</p>
+
+
+
+	</div>
+</div>
+
+
+<div id="footer">
+	<div class="page-width">
+
+		<div class="col1">
+			<div class="inset">
+
+								
+				<h3><a class="logo" href="."><span class="seo">ProStudioMasters.com</span></a></h3>
+				<ul>
+					<li><a href="about">About ProStudioMasters</a></li>
+					<li><a href="terms">Terms</a></li>
+					<li><a href="privacy">Privacy</a></li>
+					<li><a href="contact">Contact</a></li>
+					<li><a href="http://support.prostudiomasters.com/" target="_blank">Support</a></li>
+					<!-- <li><a href="session/destroy">Logout</a></li> -->
+
+									</ul>
+				<div class="copyright">© 2013 ProStudioMasters.com, Inc. &nbsp; All rights reserved.</div>
+			</div>
+		</div>
+
+		<div class="col2" style="text-align: right;">
+
+			
+			<div style="margin-top: 20px;">
+				<a target="_blank" href="http://www.facebook.com/prostudiomasters"><img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/footer-facebook.png"></a>
+				&nbsp;&nbsp;
+				<a target="_blank" href="http://www.twitter.com/prostudiom"><img src="//d3j0fj9hcy3zm8.cloudfront.net/static/img/v2/footer-twitter.png"></a>
+			</div>
+
+			
+		</div>
+
+	</div>
+</div> <!-- /#footer -->
+
+
+<div id="overlay"></div>
+<div id="cmenu" class="xcmenu"></div>
+
+<div id="quickview"></div>
+<div id="quickview-prev"></div>
+<div id="quickview-next"></div>
+
+<div id="faq24">
+
+	<h3>What is High-Resolution Audio?</h3>
+	<p>High-resolution audio offers the highest-fidelity available, far surpassing the sound quality of traditional CDs. When you listen to music on a CD or tracks purchased via consumer services such as iTunes, you are hearing a low-resolution version of what was actually recorded and mastered in the studio. ProStudioMasters offers the original studio masters — exactly as the artist, producers and sound engineers mastered them — for download, directly to you.</p>
+	
+	<h3>What do I need for playback?</h3>
+	<p>You may need additional software / hardware to take full advantage of the higher 24-bit high-res audio formats, but any music lover that has heard 16-bit vs 24-bit will tell you it's worth it!</p>
+	
+	<h4>Software for Mac OS X</h4>
+	<ul>
+		<li><a target="_blank" href="http://www.apple.com/itunes/">iTunes</a> : plays AIFF, it's free and you probably have it already!</li>
+		<li><a target="_blank" href="http://audirvana.com/?page_id=112">Audirvana</a> : plays both AIFF and FLAC formats, $50 but has a free trial period</li>
+	</ul>
+
+	<h4>Software for Windows</h4>
+	<ul>
+		<li><a target="_blank" href="http://www.apple.com/itunes/">iTunes</a> : plays AIFF, it's free and you probably have it already!</li>
+		<li><a target="_blank" href="http://www.jriver.com/audio.html">JRiver</a> : plays both AIFF and FLAC formats, $50 but has a free trial period</li>
+	</ul>
+	
+	<h4>Hardware Suggestions</h4>
+	<ul>
+		<li><a target="_blank" href="https://www.meridian-audio.com/en/collections/products/explorer-1000/4/">Meridian Explorer</a> : USB Digital to Analog Converter, up to 192kHz/24-bit.</li>
+		<li><a target="_blank" href="http://www.amazon.com/AudioQuest-DragonFly-Digital-Analog-Converter/dp/B00882U782">AudioQuest DragonFly</a> : USB Digital to Analog Converter, up to 96kHz/24-bit.</li>
+	</ul>
+	
+</div>
+
+
+		<!-- Google Code for Remarketing Tag -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 981417961;
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/981417961/?value=0&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+	
 
 </body></html>
