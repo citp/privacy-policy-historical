@@ -1,155 +1,76 @@
-> *The following text is extracted and transformed from the english-listening-world.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225180554id_/http%3A//www.english-listening-world.com/node/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-listening-world.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202103623id_/http%3A//www.english-listening-world.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | English Listening Practice
 
-**What information do we collect?**
+This Privacy Policy governs the manner in which Oceans of Knowledge collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.english-listening-world.com](http://www.english-listening-world.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Oceans of Knowledge.
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+**Personal identification information**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+**Non-personal identification information**
 
-**What do we use your information for?**
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-Any of the information we collect from you may be used in one of the following ways: 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+**How we use collected information**
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Oceans of Knowledge may collect and use Users personal information for the following purposes:  
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
 
-; To process transactions  
+  * _\- To improve customer service_
 
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * _\- To personalize user experience_
 
-; To send periodic emails  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
+  * _\- To improve our Site_
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+We may use feedback you provide to improve our products and services.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * _\- To process payments_
 
-**How do we protect your information?**
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+  * _\- To send periodic emails_
 
-**Do we use cookies?**
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**How we protect your information**
 
-**Third party links**
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Our Site is in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-**California Online Privacy Protection Act Compliance**
+**Sharing your personal information**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Childrens Online Privacy Protection Act Compliance**
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+**Changes to this privacy policy**
 
-**Online Privacy Policy Only**
+Oceans of Knowledge has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+**Your acceptance of these terms**
 
-**Your Consent**
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-**Changes to our Privacy Policy**
+[English Listening World](http://www.english-listening-world.com/contact)
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+admin(at-mark)english-listening-world.com
 
-**Contacting Us**
+This document was last updated on June 16, 2013
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+  * 
 
-[http://www.english-listening-world.com](http://www.english-listening-world.com/)  
-#210, 843-7  
-Ikoma, Nara 630-0251  
-Japan  
-[admin@english-listening-world.com](mailto:admin@english-listening-world.com)
-
-## Testimonials
-
-Dear Mr. Les Perras,
-
-At first, thanks a lot for your exciting website.
-
-I am Swiss and I am "not a young student" (51 years old - a half of a century but I feel much younger... ).
-
-Nonetheless, I hope I still can improve my English skills. Unfortunately, I have a big “gap between receptive and productive competence” and much more.  
-Your website is great, congratulation.
-
-All the phrasal verbs and idioms make the (my) life much more difficult (Swiss German is easier to learn, believe me...).
-
-Once again, thank you very much for your effort.
-
-All the best from Olten, Switzerland
-
-Dear Les,
-
-I am Sean, now I am studying in Canada. After comparing different English study website for a while, I gradually tend to be fond of your study skill, now, I have practiced for almost one month, according to your guide, it takes me one or two hours to repeat over and over again, and now, it is an obviously feeling that I have made a progress in my listening, it dose work!
-
-But sometimes I also feel the best efficient actually show up during the period when I just finish shadowing approximately half days, if there`s no too many strange new vocabularies, I can catch on a short news! This is very exciting! Then after that, the difficult status which led to me hardly understand whatever others said restored again. I dont know why, it`s sucks. maybe I need consolidate the result I have gained.
-
-Anyway, thank you Les, I found a nice way to study it!
-
-the best regards
-
-thanks for the content.. I also suggest to "report" to yourself what you did during the day every night: I woke up at,... took a shower at.. I washed my hair with a shampoo, but did not use hair condicioner, then I dryed my self off with a towl, and then.. and then... this is very helpful
-
-language lover
-
-i speak english a little.So I would like to be a speak english best
-
-i want you to help me to improve my English as a beginner beacuse i'm going to set for ielts exam
-
-thanks alot for yours efforts, it is a wonderful site.
-
-hi my teacher. thank you for give me your advice. i will do it. for me,i hope to become agood speaker as soon. thank you so much. i promise you i will work hard to improve my speaking.
-
-Dear Sir, This is Maggie from Hong Kong. I'm glad to find your website on Google, this is very useful link for me. Listening and speaking also is my big problem for learning language. Your fully explanation let me understood why I can't learn very well. So I want to say thank you very much ! Meanwhile, I'm very surprise you'e English teacher in Japan. You know, I have been learning Japanese for the last seven years, I love this language too. I was travelling to Japan many time and visited Nara three times. Japan is very attractive country, please enjoy your life in Japan. Now, back to  
-the point I want to ask, why you said " never practice hearing these short stories for more than ten minuate ? " mentions on your tips for listening. Thank you for your assistance.
-
-Hi my teacher. did you remember me? i am Amna. i am from Libya. just wanted to tell you that, my english speaking is improvemwet so much  
-compared with before. thanks alot for your suggestion. but i have a little problem, when i speak, sometimes i speak with wrong grammer, but i don't care about it. so, what do you think is it ok or not?. because i speak so fast without thinking and i may make mistakes. i will become so happy, if you reply me. thanks. this is my a new e-mail, you can send to me any thing by it.
-
-Hi! my name is Lucy. I'm come from Vietnam. I know your site when googling a way to learn phrasal verbs. now, I am working on a thesis about phrasal verbs. and I want to introduce this source(your website) to my student. And I want this material including in my thesis, in order for my students easily to access the wonderful source of learning. It is really highly apprecited to receive your help in this sincerely yours, Lucy
-
-Thank you for your help in editing our stories. My question is : Do we have to use phrasal verbs in writing stories or any story is acceptable for  
-you. Regards,  
-
-
-hi.thats my pleasure to have some english listining file practicaly 4 my improvment. tanks a lot.
-
-hello and thank you very much for this wesite do you advise me to listen to english radion without understand the words
-
-Dear sir, It is very useful to write a short stories, each story contains a few or many phrasal verbs repeated many times in the same meaning .  
-This way is very helpful to us to remind them easily and quickly and motivate us to go on in studying phrasal verbs. Thank you for giving a time to read my message.
-
-Dear Sir First of all I want to say you that this is one of the most useful English website for learners I have seen. Fhrasal verbs and idioms are  
-very hard to memorize, but using it to write stories is easier to assimilate it, specially having feedback, as in this case. This is a great way to motivate foreigners studants and to make them fell more confident. I know that it would be much more interesting if there was other ideas or styles of writing. But unfortunately, most people do not like to write or are afraid of making mistakes, and thus, are losing this opportunity to learn.... 
-
-...Best regards
-
-Thank you very much. You web site is really interesting and I will continue to use it... By writing a text, and you creating the listening from it, I can have a more focus and well shaped listening for my students. That's wonderful!
-
-Best regard
