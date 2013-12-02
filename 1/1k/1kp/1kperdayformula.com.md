@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1kperdayformula.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629130121id_/http%3A//1kperdayformula.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1kperdayformula.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202153438id_/http%3A//1kperdayformula.com/privacy) for the most accurate reproduction.*
 
 # 
 
