@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourlustvip.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603013735id_/http%3A//www.yourlustvip.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlustvip.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202024418id_/http%3A//www.yourlustvip.com/privacy.html) for the most accurate reproduction.*
 
-# yourlustvip - Privacy Policy
+# Privacy Policy - yourlustvip
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on this site and other sites part or our network. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
 
