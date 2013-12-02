@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naruto-kun.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605000846id_/http%3A//www.naruto-kun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naruto-kun.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202171253id_/http%3A//www.naruto-kun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Naruto-Kun
 
