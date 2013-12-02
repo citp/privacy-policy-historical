@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the blogandwatch.me privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518050153id_/http%3A//blogandwatch.me/index.php/Rules-FAQs/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogandwatch.me privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202175211id_/http%3A//blogandwatch.me/index.php/Rules-FAQs/privacy-policy.html) for the most accurate reproduction.*
 
-# Blog and Watch ME - Privacy Policy
+# Privacy Policy | Rules & FAQ´s
 
-## Privacy Policy
+Details
+     Hits: 150 
+
+### Privacy Policy
 
 The privacy of our members is our top priority. Please read this page to learn about our privacy policy.
 
-### What this Privacy Policy covers
+What this Privacy Policy covers
 
 This policy covers how BlogAndWatch.ME ("B&W", "we", "us", "our") treats the personal information that B&W collects and receives from its website visitors and members ("you", "your"). This policy covers the website http://BlogAndWatch.ME and all pages on its domain name. When you click a link or otherwise leave this domain name, our privacy policy will no longer apply. This policy does not apply to the practices of companies that B&W does not own or control, or to people that B&W does not employ or manage.
 
@@ -52,7 +55,7 @@ You may request that we delete your Personal Information by contacting our Suppo
 
 Despite the foregoing and even though you have requested us to remove information, we will retain in our files certain data such as information used to resolve disputes, troubleshoot problems, comply with credit card merchant banking and association agreements, enhance security, reduce fraud, comply with Federal and State law, or to enforce any agreements, policies, and rules governing your use of our website. Removed information also may persist in backup copies and/or other users' cashes.
 
-If you have any further questions about your Personal Information, please [Contact Us](http://blogandwatch.me/index.php/Contact/Blog-And-Watch-ME-Support-Team.html).
+If you have any further questions about your Personal Information, please Contact Us.
 
 ### Confidentiality and security
 
@@ -64,7 +67,7 @@ We limit access to your personal information and e-mail address to employees who
 
 B&W is an adult site and access to persons under the age of 18 is strictly prohibited. We have no intention of collecting any personal information from individuals under eighteen years of age. If a minor has provided us with personal information, a parent or guardian of that minor should Contact Support and we will remove this information from our existing files.
 
-### Changes to this Privacy Policy or e-mail practices
+Changes to this Privacy Policy or e-mail practices
 
 B&W reserves its right, at its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the Privacy Policy link on the B&W website.
 
@@ -72,4 +75,4 @@ If we make changes in our e-mail practices or in the way we use your e-mail addr
 
 ### Contact Information
 
-If you have questions or suggestions, please [Contact us](http://blogandwatch.me/index.php/Contact/Blog-And-Watch-ME-Support-Team.html)
+If you have questions or suggestions, please Contact us
