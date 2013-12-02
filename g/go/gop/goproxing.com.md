@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goproxing.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605031738id_/http%3A//goproxing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goproxing.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202150516id_/http%3A//goproxing.com/privacy.php) for the most accurate reproduction.*
 
 # Unblock Youtube/Facebook/Twitter Now!
 
