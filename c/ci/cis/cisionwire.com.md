@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cisionwire.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117183905id_/http%3A//www.cisionwire.com/Footer/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisionwire.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202145318id_/http%3A//news.cision.com/_editorial/privacyStatement) for the most accurate reproduction.*
 
-# Privacy Statement | Cision Wire
+# 
+
+## The information we collect is not shared with email advertisers or other parties.
 
 At Cision we care about providing you with the tools and information to manage and protect your online privacy. We have therefore developed a policy to inform you about the types of information this website collects, who may receive that information, and what we may do with the information. 
 
@@ -32,11 +34,11 @@ Compiling this information helps us to better understand site usage patterns, an
 
 ## Information sharing
 
-The information we collect is not shared with email advertisers or other parties. Only Cision employees who need access to the information in order to do their jobs have access to it. These employees are fully committed to our privacy and security policies. 
+The information we collect is not shared with email advertisers or other parties. Only Cision employees who need access to the information in order to do their jobs have access to it. These employees are fully committed to our privacy and security policies.
 
 If you believe we are not handling your information in accordance with our privacy policy, please contact our Client Services department at 800.621.0561. You can also email us at [support.us@cision.com](mailto:support.us@cision.com). If for some reason we have violated our privacy policy, we will correct the error as soon as you notify us. 
 
-##  Safe Harbor Privacy Policy for Cision US, Inc. 
+## Safe Harbor Privacy Policy for Cision US, Inc. 
 
 Cision US, Inc. ("Cision," "we," or "us") respects the privacy of its customers, vendors, partners, and others ("you"). We are committed to the use and disclosure of personal information in a way that complies with applicable laws where we do business. 
 
@@ -50,9 +52,9 @@ We follow the Safe Harbor Principles and the [FAQ Categories published by the De
 
 
 
-Our Safe Harbor Privacy Policy ("the policy") states the principles that we follow with respect to personal information transferred into the United States from the Member States of the European Union and worldwide. We have also designated a Group Infrastructure and Security team and Chief Privacy Officer. This team supervises the internal application of the policy and our Chief Privacy Officer is available to answer questions and to respond to requests at [privacy@cision.com](mailto:privacy@cision.com)
+Our Safe Harbor Privacy Policy ("the policy") states the principles that we follow with respect to personal information transferred into the United States from the Member States of the European Union and worldwide. We have also designated a Group Infrastructure and Security team and Chief Privacy Officer. This team supervises the internal application of the policy and our Chief Privacy Officer is available to answer questions and to respond to requests at [privacy@cision.com](mailto:privacy@cision.com). 
 
-###  Collecting Personal Information 
+## Collecting Personal Information
 
 We receive personal information about our employees and customers from our affiliated companies, who are authorized to transfer the information to us. With respect to such information, we act only as a processor of data. When we process this data, we follow the instructions of our affiliates, who are acting as data controllers. 
 
@@ -66,7 +68,7 @@ We collect and maintain product usage data for our applications and web sites, i
 
 We also collect and maintain information from third parties including affiliates, vendors, and partners, and U.S. employees. We use this information to enable us to maintain our relationships with these third parties and do not use or disclose this information except for this purpose. 
 
-###  Safe Harbor Privacy Protection Principles
+## Safe Harbor Privacy Protection Principles
 
 Notice - We will notify you about the purposes for which we collect and use information about you. As we have noted in the policy, we may collect information to maintain and update our database, improve our product and service offerings, and send information to our customers and other persons concerned. 
 
@@ -79,8 +81,7 @@ Written communication should be addressed as follows:
 Chief Privacy Officer - Safe Harbor Opt Out  
 Legal Department  
 Cision US, Inc.  
-332 S Michigan Avenue, Chicago, IL 60604  
-
+332 S Michigan Avenue, Chicago, IL 60604 
 
 We will confirm your identity prior to making any changes to our information. 
 
@@ -90,7 +91,10 @@ Onward Transfer - We comply with the notice and choice principles as described a
 
 We may from time to time use agents to perform processing tasks as part of the services that we perform for our customers. These agents will either: 
 
-Subscribe to the EU Safe Harbor Principles, the EU Data Protection Directive or another adequacy finding; or Agree to provide the same level of privacy protection that we offer to you. 
+  * Subscribe to the EU Safe Harbor Principles, the EU Data Protection Directive or another adequacy finding;
+  * or Agree to provide the same level of privacy protection that we offer to you. 
+
+
 
 Security - We will take reasonable precautions to protect personal information in our possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. Only those persons who have a specific business purpose for maintaining and processing such information and data will have access to it. Such individuals are aware of their responsibilities to protect the security, confidentiality and integrity of your information. 
 
@@ -123,9 +127,8 @@ Attn: Consumer Response Center
 600 Pennsylvania Avenue NW   
 Washington, DC 20580   
 [consumerline@ftc.gov](mailto:consumerline@ftc.gov)   
-[www.ftc.gov](http://www.ftc.gov/)  
+[www.ftc.gov](http://www.ftc.gov/)
 
-
-### Changes to this Safe Harbor Policy
+## Changes to this Safe Harbor Policy
 
 The practices described in this policy are current personal data protection policies as of December 22, 2009. We reserve the right to modify or amend this policy at any time consistent with the requirements of the Safe Harbor Principles and will provide appropriate public notice of such amendments. 
