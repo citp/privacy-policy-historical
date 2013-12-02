@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orchardproject.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603101740id_/http%3A//www.orchardproject.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orchardproject.net privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202205641id_/http%3A//www.orchardproject.net/privacy) for the most accurate reproduction.*
 
 # Orchard - Privacy Policy
 
