@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carsemsar.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606070407id_/http%3A//www.carsemsar.com/en/article/carsemsar/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsemsar.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202191121id_/http%3A//www.carsemsar.com/en/article/carsemsar/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy » CarSemsar
+# Privacy Policy
 
 CarSemsar.com is committed to protecting your privacy. CarSemsar.com collects various information from its visitors in order to better service your needs. By accessing our website, you are consenting to the information collection, use and sharing practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the website.
 
