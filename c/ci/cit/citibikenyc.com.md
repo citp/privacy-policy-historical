@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citibikenyc.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530231659id_/http%3A//citibikenyc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibikenyc.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202060700id_/https%3A//www.citibikenyc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Citi Bike NYC
 
