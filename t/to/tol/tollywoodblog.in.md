@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tollywoodblog.in privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223020000id_/http%3A//www.tollywoodblog.in/2008/09/privacy-policy-and-disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tollywoodblog.in privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203004759id_/http%3A//www.tollywoodblog.in/2008/09/privacy-policy-and-disclaimer.html) for the most accurate reproduction.*
 
-# Privacy Policy and Disclaimer Telugu Cinema News Updates Website
-
-##  [Privacy Policy and Disclaimer](http://www.tollywoodblog.in/2008/09/privacy-policy-and-disclaimer.html)
+# Privacy Policy and DisclaimerTelugu Cinema News Updates Website
 
 Privacy Policy 
 
