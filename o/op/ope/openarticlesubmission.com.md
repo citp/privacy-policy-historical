@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openarticlesubmission.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306025811id_/http%3A//openarticlesubmission.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openarticlesubmission.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202070152id_/http%3A//openarticlesubmission.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Open Article Submission - Article Directory
 
