@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techvela.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531233732id_/http%3A//www.techvela.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techvela.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202175559id_/http%3A//www.techvela.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Of techvela
 
@@ -63,34 +63,16 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Techvela  doesn’t own the copyright for the picture/wallpapers**, they are protected by trademarks and are copyright© under the digital millennium copyright act, they can only be downloaded for personal use. If you wish to use these wallpapers for commercial purposes, you must get permission from their respective authors. If there’s no author info on the wallpaper page then we don’t have details about the author. In this case you use the wallpaper at your own risk.
 
-**If any of the picture/wallpapers from this site is made by you, or the artist you know** , please [contact](http://www.techvela.com/contact/ "contact") us with any information regarding the creator or image. A name, title, alias, website, anything. and let us know if you want it removed or not. If not, we will be more than happy to add credit the wallpaper, this helps us in our effort to create a fair and content rich environment for users to share and enjoy.
+**If any of the picture/wallpapers from this site is made by you, or the artist you know** , please [contact us](http://www.techvela.com/contact/ "contact us") with any information regarding the creator or image. A name, title, alias, website, anything. and let us know if you want it removed or not. If not, we will be more than happy to add credit the wallpaper, this helps us in our effort to create a fair and content rich environment for users to share and enjoy.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.  
-Mohammad Ismail
-
-Hayat Abad, Peshawar
+The TechVela Team
 
 [Facebook](http://www.facebook.com/techvela "http://www.facebook.com/techvela")
 
-+92-3139343536  
-Techvela@hotmail.com
-
-This document was last updated on March 19, 2012
+This document was last updated on June 3, 2013
 
 [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.techvela.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy) |   
----|---  
-  
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.techvela.com%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.techvela.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.techvela.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.techvela.com%2Fprivacy-policy%2F&title=Privacy%20Policy "Add to favorites - doesn't work in Chrome")
-  *   * [](http://delicious.com/post?url=http%3A%2F%2Fwww.techvela.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=This%20Privacy%20Policy%20governs%20the%20manner%20in%20which%20Techvela%20collects%2C%20uses%2C%20maintains%20and%20discloses%20information%20collected%20from%20users%20%28each%2C%20a%20%22User%22%29%20of%20the%C2%A0www.techvela.com%C2%A0website%20%28%22Site%22%29.%20This%20privacy%20policy%20applies%20to%20the%20Site%20and%20all%20products%20an "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.techvela.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.techvela.com%2Fprivacy-policy%2F&srcTitle=TechVela+Technology+%26amp%3B+Internet+News%2C+Blogging%2C+SEO%2C+Social+Media "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.techvela.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=TechVela+Technology+%26amp%3B+Internet+News%2C+Blogging%2C+SEO%2C+Social+Media&summary=This%20Privacy%20Policy%20governs%20the%20manner%20in%20which%20Techvela%20collects%2C%20uses%2C%20maintains%20and%20discloses%20information%20collected%20from%20users%20%28each%2C%20a%20%22User%22%29%20of%20the%C2%A0www.techvela.com%C2%A0website%20%28%22Site%22%29.%20This%20privacy%20policy%20applies%20to%20the%20Site%20and%20all%20products%20an "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.techvela.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
+---|---
