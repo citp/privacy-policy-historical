@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnthornhillmasterclass.com privacy policy that was archived on 2013-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130227224837id_/http%3A//www.johnthornhillmasterclass.com/trial/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnthornhillmasterclass.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202112111id_/http%3A//www.johnthornhillmasterclass.com/trial/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
