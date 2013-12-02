@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegesurfing.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607152802id_/http%3A//www.collegesurfing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegesurfing.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202011855id_/http%3A//collegesurfing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ CollegeSurfing is committed to your privacy. This Privacy Policy describes the t
 
 [ ](https://privacy.truste.com/privacy-seal/CollegeBound-Network-/validation?rid=36bddc0b-19ba-4690-8cde-d98ee21e73b7 "TRUSTe online privacy certification")
 
-Last Updated: 11/5/12
+Last Updated: 09/25/13
 
 This Site has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. To view a list of sites that are certified by TRUSTe, please click on the seal located at the top of the Privacy Policy.
 
@@ -28,6 +28,8 @@ You are free to set your Internet browser to decline cookies, but by doing so, y
 
 **Information Collected From Other Sources**  
 We may obtain information about you from other sources, including commercially available sources such as data aggregators and public databases. This information may include name, demographic information, updated contact information, interests, and publicly-observed data, such as from social media and online activity. We may combine this information with the information we collect from and about you to help us tailor our communications to you and to improve our services and products.
+
+We collect your location based information for the purpose of providing location-based products and services on CollegeSurfing. We will only share this information with our mapping provider for the sole purpose of providing you the service. If you no longer wish to allow us to track your geo-location information in the Mobile App you may turn this off at the device level.
 
 ### INFORMATION USE 
 
