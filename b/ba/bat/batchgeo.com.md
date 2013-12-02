@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batchgeo.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603035131id_/http%3A//batchgeo.com/features/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batchgeo.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202012300id_/http%3A//batchgeo.com/features/security) for the most accurate reproduction.*
 
 # Protect your map information | BatchGeo
 
@@ -21,7 +21,9 @@ Our Pro version by default includes the security features of the free version, a
 
 
 
-* BatchGeo support staff may access your map in order to troubleshoot issues at your request. Staff may also at random check map data to ensure that no terms of use have been broken (such as using map for illegal purposes) and that BatchGeo services are working as intended. BatchGeo staff will access only in a secure enviornment using encrypted data transmission and complex passwords.
+* BatchGeo support staff may access your map in order to troubleshoot issues at your request. Staff may also at random check map data to ensure that no terms of use have been broken (such as using map for illegal purposes) and that BatchGeo services are working as intended. BatchGeo staff will access only in a secure environment using encrypted data transmission and complex passwords.
+
+BatchGeo uses the best and most secure cloud platforms. Our servers are routinely patched and kept up to date with the most secure versions of required software. Passwords are kept in a salted and hashed format (never in clear text.) Your data will be stored securely in a database that is kept behind a firewall and not directly accessible from the Internet. We periodically conduct site wide scans and engage in external security audits.
 
 ### Information we collect and how we use it
 
