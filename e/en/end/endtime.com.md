@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endtime.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618185240id_/http%3A//www.endtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endtime.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202011527id_/http%3A//www.endtime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Endtime Ministries | End Of The Age | Irvin Baxter
 
