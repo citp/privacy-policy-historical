@@ -1,32 +1,82 @@
-> *The following text is extracted and transformed from the collegemom.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182123id_/http%3A//www.collegemom.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegemom.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202171842id_/http%3A//www.collegemom.com/privacy.asp) for the most accurate reproduction.*
 
-# Degree Programs
+# College Mom
 
-This web site is owned and operated by Collegemom.com. We take user privacy seriously and make reasonable efforts to protect your privacy. Please read this policy carefully before sharing any personally identifiable information described below. This policy applies solely to the web site and our forum all owned by [www.Collegemom.com](http://www.collegemom.com/). 
+This privacy policy was last updated on January 10th, 2008 CollegeMom is committed to protecting your privacy when you visit our Websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates. 
 
-For questions or concerns relating to privacy, we can be contacted at:  
-[info@Collegemom.com](mailto:info@Collegemom.com)
+**Information We Collect**
 
-All of the freebies listed on this site are available to the best of our knowledge. 
+We collect various types of information from our visitors so we can adjust our site to meet our users' needs and expectations. Some of this information is collected automatically through cookies and other information is collected when you register for any of our online services or when you request information from one of our partners. 
 
-We find the free offers on other sites and link to them, and are not responsible for their privacy practices. 
+**Information Collected Automatically**
 
-**_Collection of Personally Identifiable Information_**
+The types of information your browser or Internet session automatically sends us each time you visit one of our sites, which we automatically collect, includes: 
 
-Once you apply for an actual free offer on another site other than Collegemom.com, we hold no responsibility for their privacy practices whatsoever. This site is set up purely for fun and we have no control over what other site owners do or do not. 
+  
 
-**_Consumer Information_**
 
-# During the process of delivering an ad to you, Collegemom.com does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, Collegemom.com does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by Collegemom.com is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers. In some cases, you may voluntarily provide personal information in response to a specific program, feature, promotion, or ad. If this does occur, Collegemom.com may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition,Collegemom.com may combine this information with other users' information and review. 
+  * Your browser, e.g., Internet Explorer, Netscape Navigator. 
+  * Your Internet domain, e.g., AOL, Netcom, Earthlink, etc. 
+  * You computer's operating system, e.g., Windows, Macintosh, UNIX, Linux.
+  * Your navigation path, i.e., the URLs of where you come to our site from, which of our pages you visit, and where you go as you leave.
+  * Your IP address.
 
-# In some cases, software publishers and vendors may ask you to voluntarily provide personal information in order to download their software. Collegemom.com does not collect, use, or have access to this information. This information is collected by the third party publisher or vendor. Users should be advised that they are giving information to a third party. 
+  
 
-**_Opt-out_**
 
-We give you the option to remove your PII from our list of active users or our mailing list at any time. All unsubscribe or opt-out requests should be done by clicking the SafeUnsubscribe link at the bottom of your emails at any time. If you wish to Unsubscribe from our forum, please just write to us and we will remove your name and details straight away. 
+This information lets us see how users are finding our sites, and it tells us which pages are visited the most often so we can make our Websites more useful. 
 
-**_Privacy Policy_**
+**Information You Provide to Us**
 
-This Privacy Policy may change from time to time. Collegemom.com will post those changes on this page. 
+In addition to the information automatically collected by your browser, we also collect information that you provide to us when you request information about a particular school or educational program. 
 
-This Privacy Policy was last updated on January 1st, 2012 
+Our websites provide users the opportunity to request information from schools, and to learn about various education opportunities. These information request sites require users to provide us with contact information (name, address, phone number, email address, gender, age, work experience, etc.) as well as information about their interest in one of our educational partners (universities, colleges, test prep companies, etc.) We collect this information that you provide, and may use it to make your future requests from our websites easier by pre-populating contact forms with the information that you have provided. We provide this contact information that you provide to the educational partner that you requested information from. Customer interest information is collected to determine what information the customer wishes to be sent. 
+
+**How We Use This Information**
+
+We use the information we automatically collect to help us better plan our Website to meet your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications. 
+
+CollegeMom may share personally identifiable information with third party businesses for the purpose of direct marketing, specifically email marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations. 
+
+**Your Rights Our Obligations**
+
+The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our educational partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by emailing: unsubscribe@CollegeMom.com. 
+
+Other than directory information, data you provide to us as you use the Website will be held in strict confidence by the company and will be used for company purposes only. 
+
+**Our Security Measures**
+
+Our Websites have security measures in place to protect against the loss, misuse, and alteration of the information under our control. 
+
+**Why We Use "Cookies"**
+
+When you visit some of our sites, we use cookies to keep track of your information. This small piece of program code resides on your computer and stores your contact information for all of our request information sites. We do this so you are not required to re-enter your contact information as you move from one site to another. 
+
+**Links From Our Site To Other Sites**
+
+Some of our sites may contain links to other sites external to our sites. When you access these external Websites, the providers of the sites will have access to certain information about you. CollegeMom is not responsible for the privacy practices or the content of any Websites which we do not directly control. 
+
+**Definitions  
+Cookies**
+
+Data created by a Web server that is stored on a user's computer. It provides a way for the Website to keep track of a user's patterns and preferences and, with the cooperation of the Web browser, to store them on the user's own hard disk. 
+
+The cookies contain a range of URLs (Web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the Web server. For example, if a user's ID were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent time during the same browser session. 
+
+You can opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu. 
+
+**IP (Internet Protocol) Address**
+
+This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each dial-up session. IP addresses are written as four sets of numbers separated by periods; for example, 204.171.64.2. 
+
+**Browser Session**
+
+A browser session is defined as the period of time a browser is in consecutive use. The session begins when you open the browser and ends when you close it. When you reopen the browser, you begin a new session. 
+
+**SSL Encryption (Secure Sockets Layer)**
+
+The leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. We also use SSL encryption whenever we display your personal information (e.g., name and address, scheduled courses, grades). 
+
+**URL (Uniform Resource Locator)**
+
+An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for CollegeMom is www.CollegeMom.com. 
