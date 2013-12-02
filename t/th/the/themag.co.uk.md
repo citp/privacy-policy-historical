@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the themag.co.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602023027id_/http%3A//www.themag.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themag.co.uk privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202163610id_/http%3A//www.themag.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Mag
+# The Mag Privacy Policy | NUFC The Mag
 
+  
 The Mag is committed to respecting your privacy. This privacy policy applies to this website only – it does not cover other websites to which we may provide links.
 
 **Is it possible to access the website without disclosing personal data?**  
