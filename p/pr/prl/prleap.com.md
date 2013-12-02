@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prleap.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620141027id_/http%3A//www.prleap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prleap.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202225719id_/http%3A//www.prleap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PR Leap
 
