@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billoreilly.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602022433id_/http%3A//www.billoreilly.com/pg/jsp/help/general/privacypolicy.jsp%3Ffooter%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billoreilly.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202151946id_/http%3A//www.billoreilly.com/pg/jsp/help/general/privacypolicy.jsp%3Ffooter%3Dtrue) for the most accurate reproduction.*
 
 # BillOReilly.com: Privacy Policy
 
@@ -13,6 +13,8 @@ BillOReilly.com has created this Policy in order to clearly communicate our comm
   * Send our link to friends through our website, BillOReilly.com will collect the information from you in order to facilitate the transmission of the e-mail.
 
 Information that you submit about yourself may be used by BillOReilly.com to provide you requested services, communicate with you about BillOReilly.com products, improve your online experience, or support our continuing efforts to offer you the information and services you want most. Currently, we do not share your specific information with non-affiliated companies or organizations outside of BillOReilly.com without your permission. We reserve the right to do so in the future, however. BillOReilly.com does provide aggregate statistics and information about our sales, traffic patterns and related site information to third parties. We also reserve the right to share aggregate statistical data of which your personal information is a part, as well as your specific personal information sometime in the future. You are responsible for checking this Policy periodically to monitor any changes to our data sharing practices. 
+
+BillOReilly.com uses remarketing with Google Adwords and analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented.
 
 In addition, BillOReilly.com may, and you hereby authorize us to, disclose your personal information when required to do so by law, when BillOReilly.com, in its sole discretion believes that you are in violation of our Terms of Service Agreement, or when you violate any state or federal laws, or BillOReilly.com in its sole discretion deems it necessary or appropriate to protect the personal safety of other users of BillOReilly.com services or to protect the rights or property of BillOReilly.com or Bill O'Reilly. 
 
