@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asmcentral.com privacy policy that was archived on 2013-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517220336id_/http%3A//asmcentral.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asmcentral.com privacy policy that was archived on 2013-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202195921id_/http%3A//asmcentral.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
 		<title>ASM Central</title> 
@@ -12,11 +12,19 @@
 		<link rel="stylesheet" href="/css/comments.css">
 		<link rel="stylesheet" href="/css/styles_button.css">
 		<link href="/css/custom-theme/jquery-ui-1.10.0.custom.min.css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="/css/menu-dropdown.css">
 		<link rel="shortcut icon" href="favicon.ico">
+
 		<script language="javascript" src="/js/jquery/jquery-1.9.0.min.js"></script>
 		<script language="javascript" src="/js/admin.js"></script>
 		<script language="javascript" src="/js/jquery/jquery-ui-1.10.0.custom.min.js"></script>
+		<script language="javascript" src="/js/jquery/jquery.cookie.js"></script>
+		<script language="javascript" src="/js/jquery/menu-dropdown.js"></script>
+		<script language="javascript" src="/js/comments.js"></script>
 		<script language="javascript">
+			$(document).ready(function() {
+							});
+			
 			// Badge Dialog
 			$(function() {
 				$('#dlgBadge').dialog({
@@ -53,6 +61,17 @@
 					return true;
 				}
 			}	
+
+			function show_iframe(ifrm){$('#'+ifrm).show('slow');}
+
+			function toggle_dashboard() {
+				$.post("/member/dashboard_toggle/", {dashboard:$('input[name=dashboard]:radio:checked').val()},
+				  function(data){
+				  		location.replace('/');
+				  });
+				
+			}
+					
 		</script>
 	</head>
 	
@@ -61,8 +80,16 @@
 	
 	<div id="header_main_wrapper">
 		<div id="header_wrap">
-						<div style="position:absolute; top:15px; left:25px; color:#FFFF35; font-size:13px">NOTICE: The membership site will be offline<br>Sunday May 19th from 6pm - 10pm EDT<br>for a server upgrade.</div>
-						<div id="logo">
+			<!-- JV ACCESS DEMO -->
+						
+						<div style="position:absolute; top:25px; left:25px; color:#FFFF35; font-size:13px">
+				Live Event Registration is now open.<br><a href="http://asmcentral.com/event_registration" target="_blank" style="color:orange">Click Here</a> to register now.
+			</div>
+						
+			
+						
+						
+			<div id="logo">
 						</div>
 					</div>
 	</div>
@@ -153,12 +180,12 @@
 	<div id="footer_main_wrapper">
 			<div id="footer">
 				<div style="font-size:10px;color:#242424; margin-bottom:10px">
-					<a href="/support1/" target="_blank">Support</a> | <a href="/terms/" target="_blank">Terms &amp; Conditions</a> | <a href="/privacy/" target="_blank">Privacy</a> | <a href="/disclaimer/" target="_blank">Disclaimer</a>
+					<a href="https://support.amazingacademy.net" target="_blank">Support</a> | <a href="/terms/" target="_blank">Terms &amp; Conditions</a> | <a href="/privacy/" target="_blank">Privacy</a> | <a href="/disclaimer/" target="_blank">Disclaimer</a>
  				</div>
 				<div id="footer_logo" style="margin:auto"></div>
 				<div>
 					<p style="font-size:12px;color:#242424">©2013 <b>Amazing Selling Machine.</b></p>
-					<p style="font-size:11px;color:#242424">All Rights Reserved</p>
+					<p style="font-size:11px;color:#242424">All Rights Reserved ©</p>
 				</div>
 			</div>
 		</div>
