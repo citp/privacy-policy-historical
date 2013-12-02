@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the redgiant.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602174115id_/http%3A//www.redgiant.com/support/buyers-guide/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redgiant.com privacy policy that was archived on 2013-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202162545id_/http%3A//www.redgiant.com/support/buyers-guide/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -21,92 +21,36 @@
 <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
 <link rel="apple-touch-icon-precomposed" href="http://cache.redgiantsoftware.com/_assets_interface/images/global/apple-touch-icon-precomposed.png">
 <link rel="apple-touch-icon" href="http://cache.redgiantsoftware.com/_assets_interface/images/global/apple-touch-icon.png">
+<!-- Bootstrap btn and icon base CSS -->
+<link href="http://cache.redgiantsoftware.com/_assets_interface/css/bootstrapBtnsIcons.css" rel="stylesheet">
 <link href="http://cache.redgiantsoftware.com/_assets_interface/css/global-new.css" rel="stylesheet" type="text/css">
 <link href="http://cache.redgiantsoftware.com/_assets_interface/css/colorbox3.css" rel="stylesheet" type="text/css">
 <!--[if IE]>
 <link href="http://cache.redgiantsoftware.com/_assets_interface/css/all-ie-only.css" rel="stylesheet" type="text/css" />
 <![endif]-->
 <link href="http://cache.redgiantsoftware.com/_assets_interface/css/jquery.qtip.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery-1.4.3.min.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery-1.4.3.min.js" type="text/javascript"></script>
 <script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.rgcrossfader-1.0.js" type="text/javascript"></script>
 <script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.color.js" type="text/javascript"></script>
 <script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.cookie.js" type="text/javascript"></script>
 <script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.colorbox-min.js" type="text/javascript"></script>
 <script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.cycle.all.js" type="text/javascript"></script>
-<script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.ba-postmessage.min.js" type="text/javascript"></script>
 <script src="http://cache.redgiantsoftware.com/_assets_interface/js/jwplayer.min.js" type="text/javascript"></script>
 <script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.login.js" type="text/javascript"></script>
 <script type="text/javascript">
 JQ = $;
-</script><script type="text/javascript" src="https://ssl.google-analytics.com/ga.js"></script>
-<script type="text/javascript">
-	var gaEnabled = true;
-	var gaAccountNumber = "UA-4328035-1";
-	var itemColumnIndex = 0;
-	var qtyColumnIndex = 3;
-	var priceColumnIndex = 4;
-
-	var newTracker = _gat._getTracker(gaAccountNumber);
-	
-	newTracker._setDomainName("none");
-	
-	newTracker._setAllowHash(false);
-
-	newTracker._setAllowLinker(true);
-	newTracker._initData();
-	
-	if(gaEnabled)
-		newTracker._trackPageview();
-
-	function startGA()
-	{
-		if(!gaEnabled)
-			return;
-
-		if(document.getElementById("checkout") && document.getElementById("checkout").type)
-		{
-			var onclick = document.getElementById("checkout").getAttribute("onclick").toString();
-			var url = onclick.substr(onclick.indexOf("https"), onclick.length);
-			url = url.substr(0, url.indexOf("'"));
-
-			document.getElementById("checkout").setAttribute("url", url);
-
-			if(window.isIE)
-				document.getElementById("checkout").onclick = function() { proceedToCheckout(); }
-			else
-				document.getElementById("checkout").setAttribute("onclick", "proceedToCheckout();");
-
-			if(document.getElementById("carttable"))
-			{
-				var qty = document.getElementById("carttable").getElementsByTagName("input");
-
-				if(qty)
-				{
-					for(var i=0; i<qty.length; i++)
-					{
-						if(window.isIE)
-							qty[i].onchange = function() { document.getElementById("checkout").disabled = true; document.getElementById("checkout").value = "Please wait..."; this.form.submit(); }
-						else
-							qty[i].setAttribute("onchange", "document.getElementById(\"checkout\").disabled = true; document.getElementById(\"checkout\").value = \"Please wait...\"; this.form.submit();");
-					}
-				}
-			}
-		}
-		
-		if(typeof submitTransaction != "undefined") 
-			submitTransaction();
-	}
-
-	function proceedToCheckout()
-	{
-		document.getElementById("checkout").form.action = document.getElementById("checkout").getAttribute("url");
-		
-		if(window.isIE)
-			document.getElementById("checkout").form.onsubmit = function() { newTracker._linkByPost(this); }
-		else
-			document.getElementById("checkout").form.setAttribute("onsubmit", "newTracker._linkByPost(this);");
-	}
 </script>
+<link href="http://cache.redgiantsoftware.com/_assets_interface/css/redgiant-global-style2.css" rel="stylesheet">
+<link href="http://cache.redgiantsoftware.com/_assets_interface/css/fonts.css" rel="stylesheet">
+<!-- Bootstrap jQuery Plugins, compiled and minified -->
+<link href="http://cache.redgiantsoftware.com/_assets_interface/css/topnav-footer.css" rel="stylesheet">
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
 <script type="text/javascript">
   var __lc = {};
   __lc.license = 1053031;
@@ -119,9 +63,39 @@ JQ = $;
 </script>
 </head>
 <body class="bgTwo">
+ <script type="text/javascript">
+  var _gaq = _gaq || [];
+  var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_setAccount', 'UA-4328035-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_trackPageview']);
   
+  // Set to the same value as the web property used on the site
+  var gaProperty = 'UA-4328035-1';
+  
+  // Disable tracking if the opt-out cookie exists.
+  var disableStr = 'ga-disable-' + gaProperty;
+  if (document.cookie.indexOf(disableStr + '=true') > -1) {
+    window[disableStr] = true;
+  }
+  
+  // Opt-out function
+  function gaOptout() {
+    document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+    window[disableStr] = true;
+  }
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
  <div class="menupop clearfix hidden" id="popup_overlay"></div>
- 
+
  <div class="sendnow hidden">
  	<div class="sncont">
 		<div class="sntop">
@@ -174,172 +148,211 @@ training on this website, <a href="javascript:void(0);">http://www.redgiant.com/
 			</div>
 		</div>
 	</div>
-</div> 
+</div>
  <div id="wrp">
-   
-      <div class="head clearfix">
-    <div class="searchTag clearfix"> 
- 
- 
- 	<div class="redpeople needhelp supportWrap">
-		<a class="giant" href="/support/">Need Help?</a><em>&nbsp;</em>
-		
-		<div class="dropdown">
-		    <dl>
-	            <dd><a href="/support/">Support Home</a></dd>
-	            <dd><a href="/product-downloads/">Downloads</a></dd>
-	            <dd><a href="https://support.redgiant.com/forums">Community Forums</a></dd>
-	            <dd><a href="/support/ ">Product FAQ</a></dd>
-	            <dd><a href="/company/contact-us/">Contact Us</a></dd>
-	            <dd><a href="/support/compatibility/host-applications/">Compatibility</a></dd>
-	            <dd><a href="/videos/">Free Tutorials</a></dd>
-	            <dd><a href="/support/general/documentation/">User Guides</a></dd>
-	            <dd><a href="/store/support/submitTicket ">Open a Support Ticket</a></dd>	   
-	            <dd><a href="/store/support/tickets ">View Support Tickets</a></dd>	   
-		    </dl>
-		</div>		
-		
-	</div>
- 
-            <div class="redpeople loginWrap">
-        <a class="giant loginOverlay" href="/store/session/login">Your Account</a><em>&nbsp;</em>
-    </div>
-        
 
-     
-	  <div id="cart_icon" class="log_buy log_click">
-     
-		 <div id="cart_icon_count" class="cartIconCount"><img src="http://cache.redgiantsoftware.com/_assets_interface/images/global/icon_heard2_new.png"><span id="cartitemcount" class="number">(0)</span><img class="choose" src="http://cache.redgiantsoftware.com/_assets_interface/images/global/log_choose.png"></div>
+   <div class="bootstrap">
+
+ <div class="navbar navbar-fixed-top navbar-inverse">
+   <div class="navbar-inner">
+     <div id="masthead">
+       <div class="container">
+        <div id="RGlogo"><a href="/"><img src="http://cache.redgiantsoftware.com/_assets_interface/images/navfooter/Red-Giant.gif" width="128" height="21" alt="Red Giant Logo"></a></div>
+        <div id="tagline">Filmmaking &amp; Motion Graphics Software</div>
+        <div id="cartAccount">       
           
-                    
-          	     <div class="popNewDiv clearfix hidden" id="cart_popup">
-		<div class="clearfix" style="position:absolute;top:25px;width:288px;z-index:99999;">
-		  <div class="skinPop">
-			<div class="hdPop">
-				<h2>YOUR CART</h2>
-			</div>
-			<div class="bdPop">
-				<ul> </ul>
-			</div>
-			<div class="fdPop clearfix">
-				<p>
-				<span></span>
-				LOADING...
-				</p>
-				<div class="cartButtons dropDownCartNav">
-					&nbsp;
-				</div>
-			</div>
-		  </div>
-		</div>
-            </div>
-                    
-                  
-	 </div><!-- /cart_icon -->
-
-	  <div class="search clearfix">
-	    <div class="inputCon clearfix">
-			<span><form action="http://www.redgiant.com/results.php" id="cse-search-box" style="margin:0; padding:0;"><input type="hidden" name="cx" value="015942088189752218274:xfchbiuznso"><input type="hidden" name="cof" value="FORID:11;NB:1"><input type="hidden" name="ie" value="UTF-8"><input type="text" onblur="if (value ==''){value=this.defaultValue}" onfocus="if (value ==this.defaultValue){value =''}" value="Search" name="q" size="20" class="textCon"><input class="submit" type="submit" value=""></form></span>
-		</div><!-- /inputCon -->
-	  </div><!-- /search -->
-     
- </div><!-- /searchTag -->
-	 
-     <div id="rg_logo">
-     
-     	<div class="logo"><a href="/" id="rg_logo_link">logo</a></div>
-     	
-              
-     </div><!-- /rg_logo -->
-     
-   </div><!-- head -->
-   
-   <div class="nav clearfix">
-     <ul id="nav_ul">
-     
-	  <li id="nav_products" class="mainNav navPro"><!-- curr -->
-	    <div class="navProLink"><a href="/products/">PRODUCTS<span></span></a></div>
-     
-     <!-- Products Submenu -->
-	 <div id="nav_products_submenu" class="subMenu navMenu1 clearfix hidden">
-	  <div class="redTop"></div>
-	  <div class="subMenuBody clearfix">
-		  <div class="common clearfix">
-		  <div class="sideLmenu">
-		    <h2>Suites</h2>
-            <ul>
-                            <li>
-			    <dl class="proDropSuite" id="magic-bullet-suite">
-				  <dt><a href="/products/all/magic-bullet-suite/"><img src="http://cache.redgiantsoftware.com/_assets/uploads/images/products/icon-magic-bullet-suite.png" width="49" height="49" alt="" title="" border="0"></a></dt>
-				  <dd><h3><a href="/products/all/magic-bullet-suite/">MAGIC BULLET SUITE</a></h3></dd>
-				  <dd>Powerful color &amp; finishing tools for filmmakers everywhere</dd>
-				</dl>
-			  </li>
-              
-              <li>
-			    <dl class="proDropSuite" id="trapcode-suite">
-				  <dt><a href="/products/all/trapcode-suite/"><img src="http://cache.redgiantsoftware.com/_assets/uploads/images/products/icon-trapcode-suite.png" width="49" height="49" alt="" title="" border="0"></a></dt>
-				  <dd><h3><a href="/products/all/trapcode-suite/">TRAPCODE SUITE</a></h3></dd>
-				  <dd>The industry standard package for broadcast &amp; 3D design</dd>
-				</dl>
-			  </li>
-              
-			  <li>
-			    <dl class="proDropSuite" id="keying-suite">
-				  <dt><a href="/products/all/keying-suite/"><img src="http://cache.redgiantsoftware.com/_assets/uploads/images/products/icon-keying-suite.png" width="49" height="49" alt="" title="" border="0"></a></dt>
-				  <dd><h3><a href="/products/all/keying-suite/">KEYING SUITE</a></h3></dd>
-				  <dd>The complete, seamless solution from key to composite</dd>
-				</dl>
-			  </li>
-              
-			  <li>
-			    <dl class="proDropSuite" id="effects-suite">
-				  <dt><a href="/products/all/effects-suite/"><img src="http://cache.redgiantsoftware.com/_assets/uploads/images/products/icon-effects-suite.png" width="49" height="49" alt="" title="" border="0"></a></dt>
-				  <dd><h3><a href="/products/all/effects-suite/">EFFECTS SUITE</a></h3></dd>
-				  <dd>Get creative finishing with a truly professional appeal</dd>
-				</dl>
-			  </li>
-              
-			</ul>
-		  			
-		  </div><!-- /sideLmenu -->
-		  <div class="sideRmenu">
-		   <h2>Hot Products</h2>
-		   <dl>
-		   <dd class="proDropSuite" id="pluraleyes"><a href="/products/all/pluraleyes/">PluralEyes 3.1.1</a></dd><dd class="proDropSuite" id="presto"><a href="/products/all/presto/">Presto 2.1.1</a></dd><dd class="proDropSuite" id="bulletproof"><a href="/products/all/bulletproof/">BulletProof Beta </a></dd><dd class="proDropSuite" id="magic-bullet-looks"><a href="/products/all/magic-bullet-looks/">Magic Bullet Looks  2.1.0</a></dd><dd class="proDropSuite" id="trapcode-particular"><a href="/products/all/trapcode-particular/">Trapcode Particular 2.2</a></dd><dd class="proDropSuite" id="mojo"><a href="/products/all/mojo/">Magic Bullet Mojo 1.2</a></dd><dd class="proDropSuite" id="knoll-light-factory"><a href="/products/all/knoll-light-factory/">Knoll Light Factory 3.0</a></dd>		   </dl>
-		   <h2>Categories</h2>
-		   <dl>
-			<dd class="proDropCat" id="new"><a href="/products/new/#list">Individual Products</a></dd>
-			<dd class="proDropCat" id="guru-presets"><a href="/products/guru-presets/#list">Guru Presets</a></dd>
-			<dd class="proDropCat" id="free"><a href="/products/free/#list">Free Products</a></dd>
-             		<dd class="proDropCat" id="mobile"><a href="/products/mobile/#list">Apps</a></dd>
-             		<dd class="proDropCat" id="academic"><a href="/products/academic/#list">Academic Products</a></dd>
-		  </dl>
-		  </div><!-- /sideRmenu -->
-		  </div><!-- /common -->
-
-
-		  <div class="button">
-		    <p style="float: left; margin-left: 70px;"><a href="/support/">Support</a></p>
-		  </div><!-- /button -->	
-	  
-		  
-		  <div class="button">
-		    <p><a href="/products/landing/">All Products</a></p>
-		  </div>
-
-		  
-		  </div><!-- /subMenuBody -->
-		  <div class="blackBottom"></div>
-		</div><!-- /subMenu -->
-        
-	  </li>
-
-	  <li class="navRgtv"><a href="/videos/">RGTV</a></li>
-	  <li class="navRgBlog"><a href="/blog/">BLOG</a></li>
-	 </ul>
-
-   </div><!-- /nav -->   
+          <div id="cart_icon" class="log_buy log_click">
+                      <div id="cart_icon_count" class="cartIconCount"><span style="color:#666;">CART </span><span id="cartitemcount" class="number" style="color:#fff; float:none;">0 ITEMS</span><span style="float:right;padding-left:5px;"><img class="choose" src="http://cache.redgiantsoftware.com/_assets_interface/images/global/log_choose.png"></span></div>
+                      <div class="popNewDiv clearfix hidden" id="cart_popup"></div>
+           </div><!-- /cart_icon -->
+          
+          <div id="yourAccount" class="dropdown"> <a id="accountDrop" class="dropdown-toggle" href="/store/customer/products" data-toggle="dropdown" role="button">Your Account</a>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="nav-collapse">
+        <ul class="nav">
+          <li class="dropdown" id="suitesMenu"> <a href="/products/suites/#list" class="dropdown-toggle topNav topNav1 disabled" data-toggle="dropdown">Suites</a>
+            <ul class="dropdown-menu">
+                  <li>
+                    <div class="row-fluid-5" style="width: 940px;">
+                    <div id="filmSet1"><!--<a href="http://www.redgiant.com/filmmaking">-->FILMMAKING<!--</a>--></div>
+                    <div id="motionSet1"><!--<a href="http://www.redgiant.com/motiongraphics">-->MOTION GRAPHICS<!--</a>--></div>
+                      <ul class="unstyled span2 suiteCol">
+                        <a href="/products/all/color-suite/"> <img src="http://cache.redgiantsoftware.com/_assets_interface/images/navfooter/Color-Suite2.jpg" width="140" height="186" alt="Color Suite"> <span class="navTitle">Color
+                        Suite</span><br>
+                        <span class="navDesc">Essential tools for color correction, finishing &amp; looks</span> </a>
+                      </ul>
+                      <ul class="unstyled span2 suiteCol">
+                        <a href="/products/all/shooter-suite/"> <img src="http://cache.redgiantsoftware.com/_assets_interface/images/navfooter/Shooter-Suite2.jpg" width="140" height="186" alt="Shooter Suite"> <span class="navTitle">Shooter
+                        Suite</span><br>
+                        <span class="navDesc">Footage prep &amp; delivery tools for the shoot and the timeline</span> </a>
+                      </ul>
+                      <ul class="unstyled span2 suiteCol suiteDivider">
+                        <a href="/products/all/keying-suite/"> <img src="http://cache.redgiantsoftware.com/_assets_interface/images/navfooter/Keying-Suite2.jpg" width="140" height="186" alt="Keying Suite"> <span class="navTitle">Keying
+                        Suite</span><br>
+                        <span class="navDesc">The complete, seamless solution from key to composite</span> </a>
+                      </ul>
+                      <ul class="unstyled span2 suiteCol">
+                        <a href="/products/all/trapcode-suite/"> <img src="http://cache.redgiantsoftware.com/_assets_interface/images/navfooter/Trapcode-Suite2.jpg" width="140" height="186" alt="Trapcode Suite"> <span class="navTitle">Trapcode
+                        Suite</span><br>
+                        <span class="navDesc">The industry standard package for broadcast &amp; 3D design</span> </a>
+                      </ul>
+                      <ul class="unstyled span2 suiteCol">
+                        <a href="/products/all/effects-suite/" class="suiteCol"> <img src="http://cache.redgiantsoftware.com/_assets_interface/images/navfooter/Effects-Suite2.jpg" width="140" height="186" alt="Effects Suite"> <span class="navTitle">Effects
+                        Suite</span><br>
+                        <span class="navDesc">Creative effects &amp; flares with a truly professional appeal</span> </a>
+                      </ul>
+                  </div></li>
+                </ul>
+            </li>
+        <li class="dropdown" id="productsMenu"> <a href="/products/" class="dropdown-toggle topNav disabled" data-toggle="dropdown">Products</a>
+          <ul class="dropdown-menu">
+        <li>
+          <div class="row-fluid-5" style="width: 940px;">
+            <div id="filmSet"><!--<a href="http://www.redgiant.com/filmmaking">-->FILMMAKING<!--</a>--></div>
+            <div id="motionSet"><!--<a href="http://www.redgiant.com/motiongraphics">-->MOTION GRAPHICS<!--</a>--></div>
+            <div id="otherSet">&nbsp;<!--<a href="#">SEARCH OPTIONS</a>--></div>
+            <ul class="unstyled pC1 suiteCol">
+              <span class="navTitle"><a href="/products/all/color-suite/">Color Suite</a></span><br>
+              <span class="navDesc">
+              <ul>
+                <li><a href="/products/all/colorista-II/">Colorista II</a></li>
+                <li><a href="/products/all/cosmo/">Cosmo</a></li>
+                <li><a href="/products/all/denoiser-II/">Denoiser II</a></li>
+                <li><a href="/products/all/lut-buddy/">LUT Buddy</a></li>
+                <li><a href="/products/all/magic-bullet-looks/">Magic Bullet Looks</a></li>
+                <li><a href="/products/all/mojo/">Mojo</a></li>
+              </ul>
+              </span>
+            </ul>
+            <ul class="unstyled pC2 suiteCol">
+              <span class="navTitle"><a href="/products/all/shooter-suite/">Shooter Suite</a></span><br>
+              <span class="navDesc">
+              <ul>
+                <li><a href="/products/all/bulletproof/">BulletProof</a></li>
+                <li><a href="/products/all/frames/">Frames</a></li>
+                <li><a href="/products/all/instant-hd/">Instant HD</a></li>
+                <li><a href="/products/all/lut-buddy/">LUT Buddy</a></li>
+                <li><a href="/products/all/pluraleyes/">PluralEyes</a></li>
+              </ul>
+              </span>
+            </ul>
+            <ul class="unstyled pC3 suiteCol">
+              <span class="navTitle"><a href="/products/all/keying-suite/">Keying Suite</a></span><br>
+              <span class="navDesc">
+              <ul>
+                <li><a href="/products/all/key-correct/">Key Correct</a></li>
+                <li><a href="/products/all/primatte-keyer/">Primatte Keyer</a></li>
+                <li><a href="/products/all/rgwarp/">Warp</a></li>
+              </ul>
+              </span>
+            </ul>
+            <ul class="unstyled pC4 suiteCol">
+              <span class="navTitle"><a href="/products/all/trapcode-suite/">Trapcode Suite</a></span><br>
+              <span class="navDesc">
+              <ul>
+                <li><a href="/products/all/trapcode-3d-stroke/">3D Stroke</a></li>
+                <li><a href="/products/all/trapcode-echospace/">Echospace</a></li>
+                <li><a href="/products/all/trapcode-form/">Form</a></li>
+                <li><a href="/products/all/trapcode-horizon/">Horizon</a></li>
+                <li><a href="/products/all/trapcode-lux/">Lux</a></li>
+                <li><a href="/products/all/trapcode-mir/">Mir</a></li>
+                <li><a href="/products/all/trapcode-particular/">Particular</a></li>
+                <li><a href="/products/all/trapcode-shine/">Shine</a></li>
+                <li><a href="/products/all/trapcode-sound-keys/">Sound Keys</a></li>
+                <li><a href="/products/all/trapcode-starglow/">Starglow</a></li>
+              </ul>
+              </span>
+            </ul>
+            <ul class="unstyled pC5 suiteCol">
+              <span class="navTitle"><a href="/products/all/effects-suite/">Effects Suite</a></span><br>
+              <span class="navDesc">
+              <ul>
+                <li><a href="/products/all/composite-wizard/">Composite Wizard</a></li>
+                <li><a href="/products/all/holomatrix/">Holomatrix</a></li>
+                <li><a href="/products/all/image-lounge/">Image Lounge</a></li>
+                <li><a href="/products/all/knoll-light-factory/">Knoll Light Factory</a></li>
+                <li><a href="/products/all/planespace/">PlaneSpace</a></li>
+                <li><a href="/products/all/psunami/">Psunami</a></li>
+                <li><a href="/products/all/text-anarchy/">Text Anarchy</a></li>
+                <li><a href="/products/all/toonit/">ToonIt</a></li>
+                <li><a href="/products/all/rgwarp/">Warp</a></li>
+              </ul>
+              </span>
+            </ul>
+            <ul class="unstyled pC6 suiteCol">
+              <span class="navTitle"><!--<a href="#">-->Other Products<!--</a>--></span><br>
+              <span class="navDesc">
+              <ul>
+                <li><a href="/products/all/knoll-light-factory-ps/">Knoll Light Factory for Photoshop</a></li>
+                <li><a href="/products/all/magic-bullet-photo-looks/">Magic Bullet PhotoLooks</a></li>
+                <li><a href="/products/all/quicklooks/">Magic Bullet Quick Looks</a></li>
+                <li><a href="/products/all/presto/">Presto</a></li>
+                <!--<li class="navParent navSection"><a href="#">Most Popular</a></li>-->
+                <li class="navParent navSection"><a href="/products/guru-presets/#list">Guru Presets</a></li>
+                <li class="navParent"><a href="/products/academic/#list">Academic</a></li>
+                <li class="navParent"><a href="/products/mobile/#list">iOS Apps</a></li>
+                <li class="navParent"><a href="/products/free/#list">Free Products</a></li>
+                <li class="navParent">&nbsp;</li>
+                <li class="navParent"><a href="/products/landing/">All Products</a></li>
+              </ul>
+              </span>
+            </ul>
+            <ul class="unstyled pC7 suiteCol">
+              <span class="navTitle"><!--<a href="#">-->Categories<!--</a>--></span><br>
+              <span class="navDesc">
+              <ul>
+                <li><a href="/products/host/adobe-after-effects/#list">After Effects</a></li>
+                <li><a href="/products/host/adobe-premiere-pro/#list">Premiere Pro</a></li>
+                <li><a href="/products/host/apple-final-cut/#list">Final Cut Pro</a></li>
+                <li><a href="/products/host/avid-systems/#list">Avid</a></li>
+                <li><a href="/products/cat/filmmaking/#list">Filmmaking</a></li>
+                <li><a href="/products/cat/color-correction/#list">Color Correction</a></li>
+                <li><a href="/products/cat/motion-graphics/#list">Motion Graphics</a></li>
+                <li><a href="/products/cat/special-effects/#list">Special Effects</a></li>
+                <li><a href="/products/cat/keying/#list">Keying</a></li>
+              </ul>
+              </span>
+            </ul>
+          </div>
+        </li>
+        </ul>
+        </li>
+        <li id="tutorialsMenu"><a href="/videos/" class="topNav">Tutorials</a></li>
+        <li id="filmsMenu"><a href="http://www.youtube.com/watchredgiantfilms" target="_blank" class="topNav">Films</a></li>
+        <li id="blogMenu"><a href="/blog/" class="topNav">Blog</a></li>
+        <li id="supportMenu" class="dropdown supportDD"> <a href="/support/" class="dropdown-toggle topNav disabled" data-toggle="dropdown">Support</a>
+          <ul class="dropdown-menu">
+            <li id="supportHome"><a href="/support/">Product FAQs</a></li>
+            <li><a href="https://support.redgiant.com/forums">Forums</a></li>
+            <li><a href="/support/compatibility/host-applications/">Tech Specs</a></li>
+            <li><a href="/product-downloads/">Downloads</a></li>
+            <li><a href="/support/general/documentation/">User Guides</a></li>
+            <li><a href="/videos/">Tutorials</a></li>
+            <li><a href="/store/support/submitTicket">Open a Ticket</a></li>
+            <li><a href="/company/contact-us/">Contact Us</a></li>
+          </ul>
+        </li>
+        </ul>
+        <form class="navbar-search pull-right" action="/results.php" id="cse-search-box">
+          <input type="hidden" name="cx" value="015942088189752218274:xfchbiuznso">
+          <input type="hidden" name="cof" value="FORID:11;NB:1">
+          <input type="hidden" name="ie" value="UTF-8">
+          <input type="text" name="q" class="search-query span2" placeholder="Search">
+        </form>
+      </div>
+      <!-- /.nav-collapse -->
+    </div>
+    <!-- /.container -->
+  </div>
+  <!-- /.navbar-inner -->
+</div>
+<!-- /.navbar -->
+</div> <!-- /.bootstrap -->
    <div id="container" class="productNew">
      <!--START: RG Search Crawler-->
      <div class="content proCon">
@@ -363,17 +376,17 @@ training on this website, <a href="javascript:void(0);">http://www.redgiant.com/
 <p>&nbsp;</p>
 <p><span id="redboldtext">Collection of personal information</span></p>
 <p>&nbsp;</p>
-<p>&nbsp;As a visitor to this Site, you can engage in many activities without providing any personal information. In connection with other activities, such as placing orders or downloading software, Red Giant Software may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, Red Giant Software may ask that you provide us personal information, such as your first and last name, mailing address (including postal code), e-mail address, telephone and facsimile numbers, and other personal information. When ordering products on the Site, you will be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.</p>
+<p>&nbsp;As a visitor to this Site, you can engage in many activities without providing any personal information. In connection with other activities, such as placing orders or downloading software, Red Giant Software may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, Red Giant may ask that you provide us personal information, such as your first and last name, mailing address (including postal code), e-mail address, telephone and facsimile numbers, and other personal information. When ordering products on the Site, you will be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.</p>
 <p>&nbsp;</p>
-<p>&nbsp;When you submit personal information to Red Giant Software through the Site, you understand and agree that this information may be transferred and stored across national boundaries.</p>
+<p>&nbsp;When you submit personal information to Red Giant through the Site, you understand and agree that this information may be transferred and stored across national boundaries.</p>
 <p>&nbsp;</p>
 <p><span id="redboldtext">&nbsp;How your personal information is used</span></p>
 <p>&nbsp;</p>
-<p>&nbsp;Red Giant Software collects your information in order to record and support your participation in the activities you select. &nbsp;When you register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. &nbsp;As another example, if you enter a contest, information is collected to qualify the entry and to contact you regarding the contest or prize awards. Your personal information is also used to track customer preferences and keep you informed about product upgrades, special offers, and other products and services of Red Giant Software as part of our newsletter service.</p>
+<p>&nbsp;Red Giant collects your information in order to record and support your participation in the activities you select. &nbsp;When you register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. &nbsp;As another example, if you enter a contest, information is collected to qualify the entry and to contact you regarding the contest or prize awards. Your personal information is also used to track customer preferences and keep you informed about product upgrades, special offers, and other products and services of Red Giant as part of our newsletter service.</p>
 <p>&nbsp;</p>
-<p>&nbsp;Red Giant Software recognizes and appreciates the importance of responsible use of information collected on the Site. Red Giant Software may communicate information to you regarding products, services, and special offers available from Red Giant Software or selected third parties. &nbsp;Except in the particular circumstances described in this Privacy Policy, Red Giant Software will also not provide your name to other companies or organizations without your consent.</p>
+<p>&nbsp;Red Giant Software recognizes and appreciates the importance of responsible use of information collected on the Site. Red Giant may communicate information to you regarding products, services, and special offers available from Red Giant Software or selected third parties. &nbsp;Except in the particular circumstances described in this Privacy Policy, Red Giant Software will also not provide your name to other companies or organizations without your consent.</p>
 <p>&nbsp;</p>
-<p>&nbsp;There are other instances in which Red Giant Software may divulge your personal information, such as where required by law, regulation, or litigation. We may also disclose information about you if we determine that such disclosure should be made for reasons of national security, law enforcement, or other issues of public importance.</p>
+<p>&nbsp;There are other instances in which Red Giant may divulge your personal information, such as where required by law, regulation, or litigation. We may also disclose information about you if we determine that such disclosure should be made for reasons of national security, law enforcement, or other issues of public importance.</p>
 <p>&nbsp;</p>
 <p><span id="redboldtext">Collection of non-personal information&nbsp;</span></p>
 <p>&nbsp;</p>
@@ -412,15 +425,28 @@ training on this website, <a href="javascript:void(0);">http://www.redgiant.com/
 <p>&nbsp;</p>
 <p><b>HOW TO CHANGE OPTIONS</b></p>
 <p>&nbsp;</p>
-<p>Red Giant automatically collects usage statistics so we can improve your BulletProof experience. Usage Statistics are turned on for the free beta version of BulletProof.&nbsp;</p>
+<p>Red Giant automatically collects usage statistics so we can improve your BulletProof experience. Usage Statistics are turned on for the shipping version of BulletProof.&nbsp;</p>
 <p> If you prefer to turn off Usage Statistics, follow instructions for doing so that are included in the application.</p>
 <p>&nbsp;</p>
 <p>Last Updated: April 19, 2013 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p><span id="redboldtext">Google Display Advertising</span></p>
+<p>&nbsp;</p>
+<ul>
+    <li>Red Giant has implemented&nbsp;Google Analytics features&nbsp;based on Display Advertising including, Remarketing and&nbsp;<span id="docs-internal-guid-79d36d7f-6640-37a6-7c77-9ed631e20825" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-style: inherit; font-family: inherit; vertical-align: baseline;">Google Display Network Impression Reporting</span>.</li>
+    <li>Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the&nbsp;<a href="https://www.google.com/settings/ads" style="color: rgb(102, 17, 204); margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;">Ads Settings</a>.</li>
+    <li>Red Giant uses Remarketing with Google Analytics to advertise online.</li>
+    <li>Third-party vendors, including Google, show Red Giant ads on sites across the Internet.</li>
+    <li>Red Giant and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to Red Giant's website.</li>
+    <li>Red Giant and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to Red Giant's site.</li>
+</ul>
+<p>Last Updated: November 12, 2013 </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><span id="redboldtext">Protection of your personal information</span></p>
 <p>&nbsp;</p>
-<p>&nbsp;The personal information that you provide in connection with registering yourself as a user of Red Giant Software products or services, testing a demonstration version of Red Giant Software products, or registering a Red Giant Software product is classified as Registration Information. Registration Information is only available to authorized Red Giant Software employees or contractors and are not publicly distributed.</p>
+<p>&nbsp;The personal information that you provide in connection with registering yourself as a user of Red Giant Software products or services, testing a demonstration version of Red Giant Software products, or registering a Red Giant product is classified as Registration Information. Registration Information is only available to authorized Red Giant Software employees or contractors and are not publicly distributed.</p>
 <p>&nbsp;</p>
 <p>&nbsp;Please note that any information you post to a public bulletin board or chat room, such as the Red Giant Software User Forum, is available to all persons accessing that site. The Red Giant Software User Forum is hosted by Toolfarm.com which has its own privacy policies which you should read before participating on the forums.</p>
 <p>&nbsp;</p>
@@ -458,10 +484,10 @@ training on this website, <a href="javascript:void(0);">http://www.redgiant.com/
 		 </div><!-- /hd -->
 		 <div class="cUs">
 		   <ul>
-		    <li><a href="/support/buyers-guide/academic-pricing/">Academic Pricing</a></li><li><a href="/support/buyers-guide/affiliate-contract/">Affiliate Contract</a></li><li><a href="/support/buyers-guide/copyright/">Copyright</a></li><li><a href="/support/buyers-guide/eula/">End User License Agreement</a></li><li><a href="/support/buyers-guide/pre-sales-faqs/">Pre-Sales FAQs</a></li><li><a href="/support/buyers-guide/pricing-purchasing/">Pricing &amp; Purchasing</a></li><li><a href="/support/buyers-guide/privacy-policy/">Privacy Policy</a></li><li><a href="/support/buyers-guide/renderfarm-policy/">Render Only Policy</a></li><li><a href="/support/buyers-guide/reseller-programs/">Reseller Programs</a></li><li><a href="/support/buyers-guide/return-policy/">Return Policy</a></li><li><a href="/support/buyers-guide/store-terms-and-conditions/">Store Terms and Conditions</a></li><li><a href="/support/buyers-guide/upgrading/">Upgrades &amp; Updates</a></li><li><a href="/support/buyers-guide/volume-license-program/">Volume License Program</a></li>		   </ul>
+		    <li><a href="/support/buyers-guide/academic-pricing/">Academic Pricing</a></li><li><a href="/support/buyers-guide/copyright/">Copyright</a></li><li><a href="/support/buyers-guide/eula/">End User License Agreement</a></li><li><a href="/support/buyers-guide/pre-sales-faqs/">Pre-Sales FAQs</a></li><li><a href="/support/buyers-guide/pricing-purchasing/">Pricing &amp; Purchasing</a></li><li><a href="/support/buyers-guide/privacy-policy/">Privacy Policy</a></li><li><a href="/support/buyers-guide/renderfarm-policy/">Render Only Policy</a></li><li><a href="/support/buyers-guide/reseller-programs/">Reseller Programs</a></li><li><a href="/support/buyers-guide/return-policy/">Return Policy</a></li><li><a href="/support/buyers-guide/store-terms-and-conditions/">Store Terms and Conditions</a></li><li><a href="/support/buyers-guide/upgrading/">Upgrades &amp; Updates</a></li><li><a href="/support/buyers-guide/volume-license-program/">Volume License Program</a></li>		   </ul>
 		 </div><!-- /cUs -->
 		 <div class="bgBottom"></div><!-- /bgBottom -->
-	   </div><!-- /skin -->       
+	   </div><!-- /skin -->
 	 </div><!-- /sideR -->
    </div><!-- /container -->
 
@@ -473,34 +499,83 @@ training on this website, <a href="javascript:void(0);">http://www.redgiant.com/
 	   <li class="crumbNow"><a href="javascript:void(0);">Privacy Policy</a></li>
 	 </ul>
    </div><!-- /crumb -->
-   
-      <div id="footer" class="clearfix">
-     <ul class="usLink">  
-	   <li class="connect"><h2>CONNECT</h2></li><!-- /connect -->
-	   <li class="tw"><a href="http://twitter.com/RedGiantNews" target="_blank">Follow us on Twitter</a></li>
-       <li class="fb"><a href="http://www.facebook.com/RedGiantSoftware" target="_blank">Be a fan on Facebook</a></li>
-	   <li class="rss rss-blog"><a href="http://www.redgiant.com/blog/feed/">Subscribe to our Red Room Blog RSS</a></li>
-       <li class="rss rss-rgtv"><a href="http://www.redgiant.com/videos/redgianttv/feed/">Subscribe to our RGTV RSS</a></li>
-	   <li class="femail"><div class="a_fa"><a class="lasta" href="http://www.redgiant.com/news/featured/newsletterpolicy/">Join Our Email Newsletter</a></div></li>
-	   <li class="fo_last"><a class="li_secon" href="http://www.redgiant.com/news/featured/newsletterpolicy/">Unsubscribe</a></li>
-	 </ul>
-     	 <ul class="aboutUs">
-	   <li class="explore"><h2>EXPLORE</h2></li><!-- /explore -->
-	   <li class="usSet"><a href="/company/">Company</a> / <a href="/company/contact-us/">Contact Us</a> / <a href="/downloads/">Downloads</a> / <a href="/support/buyers-guide/privacy-policy/">Privacy</a>  / <a href="/support/buyers-guide/copyright/">Copyright</a> / <a href="/news/stories/">User Stories</a> / <a href="/news/press-releases/">Press Releases</a> / <a href="/news/reviews-awards/">Reviews</a></li>
-	   <li class="mail"><a id="sendtofriendlink" href="javascript:void(0);">SEND TO FRIEND</a></li>
-       <li class="copyright">Copyright © 2002-2013 Red Giant LLC. All rights reserved.<br><br>Since 2002, Red Giant has developed production-proven visual effects tools for digital video &amp; film professionals. Plugins for Adobe After Effects, Premiere, Avid, Final Cut Pro and more.</li>
-	 </ul>
-        </div><!-- /footer -->
-   <div id="grabBag" class="hidden">
-   	<div class="loadingMessage">
-    	<div class="loginOverlay loadingOverlay"><img style="padding-bottom:2px;" alt="" src="http://cache.redgiantsoftware.com/_assets_interface/images/products/loading.gif?1319058723498" id="load_popup_image"><span id="load_popup_copy">LOADING</span></div>
+
+   <div class="bootstrap"> 
+ <div id="footerNew" class="container">
+  <div class="row-fluid">
+    <div id="fC1">
+      <h2>Connect</h2>
+      <ul>
+        <li><a id="footerfacebooklink" href="http://www.facebook.com/RedGiantSoftware" target="_blank">Facebook</a></li>
+        <li><a id="footertwitterlink" href="http://twitter.com/RedGiantNews" target="_blank">Twitter</a></li>
+        <li><a id="footerredroombloglink" href="http://www.redgiant.com/blog/feed/">Red Room Blog</a></li>
+        <li><a id="footerrgtvrsslink" href="http://www.redgiant.com/videos/redgianttv/feed/">Red Giant TV</a></li>
+        <li><a id="sendtofriendlink" href="javascript:void(0);">Share</a></li>
+      </ul>
     </div>
-   </div>
+    <div id="fC2">
+      <h2>Downloads</h2>
+      <ul>
+        <li><a id="footerdownloadsfreelink" href="/downloads/free-products/">Free</a></li>
+        <li><a id="footerdownloadstriallink" href="/downloads/trial-versions/">Trial</a></li>
+        <li><a id="footerdownloadsupdateslink" href="/downloads/updates/">Updates</a></li>
+        <li><a id="footerdownloadslegacylink" href="/downloads/legacy-versions/">Legacy</a></li>
+      </ul>
+    </div>
+    <div id="fC3">
+      <h2>Support</h2>
+      <ul>
+        <li><a id="footersupportfaqslink" href="/support">Product FAQs</a></li>
+        <li><a id="footersupportforumslink" href="https://support.redgiant.com/forums">Forums</a></li>
+        <li><a id="footersupportcontactlink" href="/company/contact-us/support/">Contact</a></li>
+      </ul>
+    </div>
+    <div id="fC4">
+      <h2>About</h2>
+      <ul>
+        <li><a id="footeraboutredgiantlink" href="/company/">Red Giant</a></li>
+        <li><a id="footeraboutsaleslink" href="/company/contact-us/sales/">Contact Sales</a></li>
+        <li><a id="footeraboutbillinglink" href="/company/contact-us/billing-invoices/">Contact Billing</a></li>
+        <li><a id="footeraboutceolink" href="mailto:ceo@redgiant.com">Contact CEO</a></li>
+      </ul>
+    </div>
+    <div id="fC5">
+      <h2>News</h2>
+      <ul>
+        <li><a id="footernewsstorieslink" href="/news/stories/">User Stories</a></li>
+        <li><a id="footernewspresslink" href="/news/press-releases/">Press Releases</a></li>
+        <li><a id="footernewsreviewslink" href="/news/reviews-awards/">Reviews</a></li>
+        <li><a id="footernewsfeaturedlink" href="/news/">Featured News</a></li>
+      </ul>
+    </div>
+    <div id="fC6">
+      <h2>Join</h2>
+      <p>Subscribe to our newletter and special offers.</p>
+      <form id="subscription">
+        <input type="text" style="display: none;">
+        <input type="text" placeholder="Your Email" id="footer-email" name="footer-email">
+        <button type="button" class="btn" id="footer-subscribe-signup">Subscribe</button>
+      </form>
+      <p><span id="footer-email-result"></span></p>
+          </div>
+  </div>
+  <hr>
+  <footer>
+    <p>© 2002-2013 Red Giant LLC. All rights reserved. | <a id="footercopyrightlink" href="/support/buyers-guide/copyright/">Copyright</a> | <a id="footerprivacylink" href="/support/buyers-guide/privacy-policy/">Privacy</a> | <a id="footertermslink" href="/support/buyers-guide/store-terms-and-conditions/">Terms &amp; Conditions</a></p>
+  </footer>
+</div>
+</div>
+
+<div id="grabBag" class="hidden">
+   	<div class="loadingMessage">
+    	  <div class="loginOverlay loadingOverlay"><img style="padding-bottom:2px;" alt="" src="http://cache.redgiantsoftware.com/_assets_interface/images/products/loading.gif" id="load_popup_image"><span id="load_popup_copy">LOADING</span></div>
+        </div>
+</div>
  </div><!-- /wrp -->
 <script type="text/javascript">
  
-JQ(document).ready(function() 
-{
+//JQ(document).ready(function() {
+$(function() {
 
 // ----------------------------------------------------------
 // A short snippet for detecting versions of IE in JavaScript
@@ -532,12 +607,72 @@ var ie = (function(){
 	JQ('#cart_icon').hover(
 		function() {
     		JQ('#cart_popup').removeClass("hidden");
+    		//alert('show');
 		},
  		function(){
     		JQ('#cart_popup').addClass("hidden");
  		}
 	);
 	
+
+JQ("#footer-subscribe-signup").click(function() {
+    
+    JQ("#footer-subscribe-signup").attr('disabled','disabled');
+    JQ("#footer-email-result").show();
+    JQ("#footer-email-result").html('Submitting. Please wait...');
+    
+    JQ.ajax({
+      async: false,
+      url: "/newsletter-subscribe.php?footeremail="+JQ('#footer-email').val(),
+      success: function(result){
+          JQ("#footer-subscribe-signup").removeAttr('disabled');
+          JQ('#footer-email-result').html(result);
+          if(result!='Email is invalid or blank. Please complete and try again.'){
+          	JQ('#footer-email').val('');
+          	_gaq.push(['_trackEvent', 'Footer', 'Subscribe Button Click (Success)', pageURL]);
+          } else {
+         	_gaq.push(['_trackEvent', 'Footer', 'Subscribe Button Click (Error)', pageURL]);
+         } 
+      },
+      error:function(){
+          JQ("#footer-subscribe-signup").removeAttr('disabled');
+          JQ('#footer-email-result').html('Email is invalid or blank. Please complete and try again.');
+          _gaq.push(['_trackEvent', 'Footer', 'Subscribe Button Click (Error)', pageURL]);
+      }   
+    }); 
+    
+});
+
+JQ('#footer-email').bind("enterKey",function(e){
+		JQ("#footer-subscribe-signup").attr('disabled','disabled');
+    		JQ("#footer-email-result").show();
+    		JQ("#footer-email-result").html('Submitting. Please wait...');
+    
+    		JQ.ajax({
+      			async: false,
+      			url: "/newsletter-subscribe.php?footeremail="+JQ('#footer-email').val(),
+      			success: function(result){
+          			JQ("#footer-subscribe-signup").removeAttr('disabled');
+          			JQ('#footer-email-result').html(result);
+          			if(result!='Email is invalid or blank. Please complete and try again.'){
+          				JQ('#footer-email').val('');
+          				_gaq.push(['_trackEvent', 'Footer', 'Subscribe Button Click (Success)', pageURL]);
+         			} else {
+         				_gaq.push(['_trackEvent', 'Footer', 'Subscribe Button Click (Error)', pageURL]);
+         			}
+      			},
+      			error:function(){
+          			JQ("#footer-subscribe-signup").removeAttr('disabled');
+          			JQ('#footer-email-result').html('Email is invalid or blank. Please complete and try again.');
+          			_gaq.push(['_trackEvent', 'Footer', 'Subscribe Button Click (Error)', pageURL]);
+      			}   
+    		});
+    		return false;
+});
+
+JQ("#subscription").keypress(function(e){
+		if(e.keyCode == 13){ JQ('#footer-email').trigger("enterKey"); }
+});
 
 	JQ('#sendtofriendlink').click(
 		function() {
@@ -581,77 +716,7 @@ var ie = (function(){
 		JQ('#active-filter-display').html(activeFilterList);				
 	}
 	
-		JQ('#cart_icon').click(function(){
-				window.location = '/store/cart/';
-		    	});
-
-	JQ('#nav_products').hover(
-		function() {
-    		JQ('#nav_products').addClass("curr");
-			JQ('#nav_products_submenu').removeClass("hidden");
-		},
- 		function(){
-			JQ('#nav_products').removeClass("curr");
-    		JQ('#nav_products_submenu').addClass("hidden");
- 		}
-	);
-
-	JQ('#nav_support').hover(
-		function() {
-    		JQ('#nav_support').addClass("curr");
-			JQ('#nav_support_submenu').removeClass("hidden");
-		},
- 		function(){
-			JQ('#nav_support').removeClass("curr");
-    		JQ('#nav_support_submenu').addClass("hidden");
- 		}
-	);
-
-	JQ('.proDropCat').hover(
-		function() {
-    		JQ(this).addClass("currSub");
-		},
- 		function(){
-    		JQ(this).removeClass("currSub");
- 		}
-	);
-	
-	JQ('.proDropCat').click(
-		function() {
-    		window.location = '/products/'+JQ(this).attr("id")+'/#list';
-		}
-	);
-	
-	JQ('.proDropSuite').hover(
-		function() {
-    		JQ(this).addClass("currSub");
-		},
- 		function(){
-    		JQ(this).removeClass("currSub");
- 		}
-	);
-	
-	JQ('.proDropSuite').click(
-		function() {
-    		window.location = '/products/all/'+JQ(this).attr("id")+'/';
-		}
-	);
-	
-	JQ('.supDropHotTopic').hover(
-		function() {
-    		JQ(this).addClass("currSub");
-		},
- 		function(){
-    		JQ(this).removeClass("currSub");
- 		}
-	);
-	
-	JQ('.supDropHotTopic').click(
-		function() {
-    		window.location = JQ(this).attr("id");
-		}
-	);
-	
+		
 		
 		
 		
@@ -666,10 +731,30 @@ var ie = (function(){
 		
 		
 			
-		
-		
+			
 });
 </script>
+
+
+
+<script type="text/javascript">
+
+
+JQ(document).ready(function() {
+
+	
+});
+
+</script>
+
+
+
+
+
+
+
+
+
 <script type="text/javascript">
 /* @biko STORE, LOGIN, DROPDOWN JAVASCRIPT */
 JQ(document).ready(function(){
@@ -693,33 +778,7 @@ JQ(document).ready(function(){
       JQ("#cboxOverlay").fadeOut("fast");
       JQ("#colorbox").hide();
    });
-
-    /* Cart Icon Hover Code for testing */
-    JQ("#cart_icon").bind({
-       mouseenter: function(){
-           JQ("#cart_popup").show();
-       },
-       mouseleave: function(){
-           JQ("#cart_popup").hide();
-       }
-    });
-
 });
-/*
-function loadCartData(){
-
-    refire = false;
-    JQ.ajax({
-       url:'/store/cart/cartDropdown/',
-       success: function(data){
-          JQ("#cart_popup").empty().append(data);
-       },
-       error: function(){
-           refire = true;
-       }
-    });
-} */
-
 
 /*
  * To change this template, choose Tools | Templates
@@ -840,6 +899,7 @@ function cartUpdateProcess(d){
 </script>
 <script type="text/javascript" src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.qtip-1.0.0-rc3.min.js"></script>
 <script type="text/javascript" src="http://cache.redgiantsoftware.com/_assets_interface/js/sendtofriend.js"></script>
+<!--<script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.ga-track-downloads.js" type="text/javascript"></script>-->
 <script type="text/javascript">
 
 /*
@@ -849,183 +909,304 @@ $(function() {
 
 	// Logged In custom var (Custom Var 3)
 	//
-
-	 pageURL = window.location.pathname;	 
-
+	pageURL = window.location.pathname;
+	 
 	/*
 	 *  Support Page tracking
 	 */	 
 	if (pageURL.search("/support/") == 0) {
 		
 		var productName = $('.secondHd .faqTit').text();		
-			productName = productName.replace(/ /g,'-');
+		productName = productName.replace(/ /g,'-');
+		productName = productName.replace(/'/g, "\'");
 
 		$('#container-1 li a, #container-general li a').click(function() {
-		
 			var tabName = $(this).children('span').text();
-				tabName = tabName.replace(/ /g,'-');
-			newTracker._trackPageview("/support/" + productName + "/" + tabName);
+			tabName = tabName.replace(/ /g,'-');
+			tabName = tabName.replace(/'/g, "\'");
+			_gaq.push(['_trackPageview', '/support/' + productName + '/' + tabName]);
 		});		
 	}
-
 	 
 	/*
 	 * Event Tracking
 	 */ 
 	 
-	// Front page banner
-	$('.indexBanner a').click(function() {
-		newTracker._trackEvent('Homepage', 'Hero Click', ($(this).parent().index() + 1) + '-' + $(this).children('img').attr('alt'));
+	// Home page main hero banners
+	$('.indexBanner .slide a').click(function() {
+		var tempStr = $(this).children('img').attr('alt');
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Homepage', 'Hero Click', ($(this).parent().index() + 1) + ' - ' + tempStr]);
+	});
+	
+	// Home page secondary featured banners
+	$('a.home-featured-link-one').click(function() {
+		var tempStr = $(this).children('img').attr('alt');
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Homepage', 'Featured Click', tempStr + ' (Image Left)']);
+	});
+	$('a.home-featured-link-two').click(function() {
+		var tempStr = $(this).children('img').attr('alt');
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Homepage', 'Featured Click', tempStr + ' (Image Right)']);
+	});
+	$('a.home-prod-link-one').click(function() {
+		var tempStr = $(this).text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Homepage', 'Featured Click', tempStr + ' (Text Left)']);
+	});
+	$('a.home-prod-link-two').click(function() {
+		var tempStr = $(this).text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Homepage', 'Featured Click', tempStr + ' (Text Right)']);
 	});
 
 	// Featured Episodes from RGTV
 	$('a.rg-tv-feature-frontpage-link').click(function() {
-	
-		newTracker._trackEvent('Homepage', 'RGTV - Featured Episode Click', $(this).attr('title'));
+		var tempStr = $(this).attr('title');
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Homepage', 'Red Giant TV Episodes Click', tempStr]);
 	});
 	$('a.home-more-videos').click(function() {
-		newTracker._trackEvent('Homepage', 'RGTV - Featured Episode Click', 'More Videos');
+		var tempStr = $(this).text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Homepage', 'Red Giant TV Episodes Click', tempStr + ' (Text)']);
 	});
 	
-	// Featured Preset from RG People
+	// Featured Presets from RG People
 	$('a.rg-frontpage-featured-preset-link').click(function() {
-		newTracker._trackEvent('Homepage', 'Red Giant People - Featured Preset Click', $(this).attr('title'));
+		var tempStr = $(this).attr('title');
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Homepage', 'Red Giant People Presets Click', tempStr]);
 	});
 	$('a.home-more-presets').click(function() {
-		newTracker._trackEvent('Homepage', 'Red Giant People - Featured Preset Click', 'More Presets');
-	});
-
-	// Initiated Chat Modal
-	$('#my_account_hdr_link a, #_lpChatBtn').click(function() {
-		newTracker._trackEvent('Live Person Chat', 'Launch Modal', pageURL);
+		var tempStr = $(this).text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Homepage', 'Red Giant People Presets Click', tempStr + ' (Text)']);
 	});
 	
-	// Red Giant People header link
-	$('.redpeople a.giant').click(function() {
-		newTracker._trackEvent('Header Link', 'Red Giant People Link', pageURL);
-	});	
-
-	// Red Giant Blog
-	$('.room_right a').click(function() {
-		newTracker._trackEvent('Homepage', 'Blog Link', 'Red Room Blog');	
+	// Red Giant Logo header link
+	$('#RGlogo a').click(function() {
+		_gaq.push(['_trackEvent', 'Header', 'Red Giant Logo Click', pageURL]);
 	});
-
-	// News Articles
-	$('.noticeItem a').click(function() {
-		newTracker._trackEvent('Header Link', 'Newsfeed Link', $(this).text());
+	
+	// Top nav header links
+	$('.nav #suitesMenu a.topNav').click(function() {
+		_gaq.push(['_trackEvent', 'Header', 'Suites Click (Nav)', pageURL]);
 	});
-
+	$('.nav #suitesMenu .dropdown-menu li .suiteCol a').click(function() {
+		var tempStr = $(this).children('span.navTitle').text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Header', 'Suites - ' + tempStr + ' Click (Nav)', pageURL]);
+	});
+	$('.nav #productsMenu a.topNav').click(function() {
+		_gaq.push(['_trackEvent', 'Header', 'Products Click (Nav)', pageURL]);
+	});
+	$('.nav #productsMenu .dropdown-menu li a').click(function() {
+		var tempStr = $(this).text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Header', 'Products - ' + tempStr + ' Click (Nav)', pageURL]);
+	});
+	$('.nav #tutorialsMenu a').click(function() {
+		_gaq.push(['_trackEvent', 'Header', 'Tutorials Click (Nav)', pageURL]);
+	});
+	$('.nav #filmsMenu a').click(function() {
+		_gaq.push(['_trackEvent', 'Header', 'Films Click (Nav)', pageURL]);
+	});
+	$('.nav #blogMenu a').click(function() {
+		_gaq.push(['_trackEvent', 'Header', 'Blog Click (Nav)', pageURL]);
+	});
+	$('.nav #supportMenu a.topNav').click(function() {
+		_gaq.push(['_trackEvent', 'Header', 'Support Click (Nav)', pageURL]);
+	});
+	$('.nav #supportMenu .dropdown-menu li a').click(function() {
+		var tempStr = $(this).text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Header', 'Support - ' + tempStr + ' Click (Nav)', pageURL]);
+	});
+	$('#cartAccount #yourAccount .dropdown-menu li a').click(function() {
+		var tempStr = $(this).text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Header', 'Your Account - ' + tempStr + ' Click (Nav)', pageURL]);
+	});
+	$('#cart_popup .popNewDiv .skinPop .fdPop .dropDownCartNav').click(function() {
+		var tempStr = $(this).text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Header', 'Your Cart - ' + tempStr + ' Click', pageURL]);
+	});
+	
+	// Footer nav links
+	$('#footerfacebooklink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'Connect - Facebook Click', pageURL]);
+	});
+	$('#footertwitterlink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'Connect - Twitter Click', pageURL]);
+	});
+	$('#footerredroombloglink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'Connect - Red Room Blog Click', pageURL]);
+	});
+	$('#footerrgtvrsslink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'Connect - Red Giant TV Click', pageURL]);
+	});
+	$('#footerdownloadsfreelink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'Downloads - Free Click', pageURL]);
+	});
+	$('#footerdownloadstriallink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'Downloads - Trial Click', pageURL]);
+	});
+	$('#footerdownloadsupdateslink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'Downloads - Updates Click', pageURL]);
+	});
+	$('#footerdownloadslegacylink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'Downloads - Legacy Click', pageURL]);
+	});
+	$('#footersupportfaqslink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'Support - Product FAQs Click', pageURL]);
+	});
+	$('#footersupportforumslink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'Support - Forums Click', pageURL]);
+	});
+	$('#footersupportcontactlink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'Support - Contact Click', pageURL]);
+	});
+	$('#footeraboutredgiantlink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'About - Red Giant Click', pageURL]);
+	});
+        $('#footeraboutsaleslink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'About - Contact Sales Click', pageURL]);
+	});
+	$('#footeraboutbillinglink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'About - Contact Billing Click', pageURL]);
+	});
+	$('#footeraboutceolink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'About - Contact CEO Click', pageURL]);
+	});
+        $('#footernewsstorieslink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'News - User Stories Click', pageURL]);
+	});
+	$('#footernewspresslink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'News - Press Releases Click', pageURL]);
+	});
+	$('#footernewsreviewslink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'News - Reviews Click', pageURL]);
+	});
+	$('#footernewsfeaturedlink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'News - Featured News Click', pageURL]);
+	});
+	
+	$('#footercopyrightlink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'Copyright Click', pageURL]);
+	});
+	$('#footerprivacylink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'Privacy Click', pageURL]);
+	});
+	$('#footertermslink').click(function() {
+		_gaq.push(['_trackEvent', 'Footer', 'Terms & Conditions Click', pageURL]);
+	});
+	
 	// Send to friend	 
 	$('a#sendtofriendlink').click(function() {
-		newTracker._trackEvent('Footer Link', 'Send to a Friend', 'Modal Launch');
+		_gaq.push(['_trackEvent', 'Footer', 'Share (Send to a Friend) Click', pageURL]);
 	});
 	$('#stf_send_now').click(function() {
-		newTracker._trackEvent('Footer Link', 'Send to a Friend', 'Send Now');
+		_gaq.push(['_trackEvent', 'Footer', 'Share (Send to a Friend) Send Now', pageURL]);
 	});
-
-	// Social Media
-	$('.fb a').click(function() {
-		newTracker._trackEvent('Footer Link', 'Outbound Social Link', 'Facebook');
-	});
-	$('.tw a').click(function() {
-		newTracker._trackEvent('Footer Link', 'Outbound Social Link', 'Twitter');
-	});
-
-	// RSS Links
-	$('.rss-blog a').click(function() {
-		newTracker._trackEvent('Footer Link', 'RSS Feed', 'Red Room Blog RSS');
-	});
-	$('.rss-rgtv a').click(function() {
-		newTracker._trackEvent('Footer Link', 'RSS Feed', 'RGTV RSS');
-	});
-
 
 	// Product buy buttons
 	$('.suiteBuyButton a.buy_button_popup, #store-item-list a.buy_button_popup, .prices a.buy_button_popup').click(function() {
-
 		var productName = $(this).attr('title');
-		newTracker._trackEvent('Product Wall', 'Buy', productName);	
-	});
-
-	// Add to cart button    
-	// Commented with GA Tracking in modal js
-	
-	// Buy now popup
-	$('.buyNow a.buy_button_popup').click(function() {
-		newTracker._trackEvent('PDP', 'Buy Now',  $(this).attr('title'));
-
-		var productName = $(this).attr('title');
-		newTracker._trackEvent('Product Wall', 'Buy', productName);
+		productName = productName.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Product Wall', 'Buy', productName]);	
 	});
 
 	// Trial buttons
 	$('a.product-wall-try-link').click(function() {
-		newTracker._trackEvent('Product Wall', 'Try', $(this).attr('title'));		
+		var tempStr = $(this).attr('title');
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Product Wall', 'Try', tempStr]);	
 	});
-
 	$('a.pdp-trial-button').click(function() {
-		newTracker._trackEvent('PDP', 'Free Trial', $(this).attr('title'));
+		var tempStr = $(this).attr('title');
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'PDP', 'Free Trial', $(this).attr('title')]);
 	});
 
 	// Submit Trial downloads submit
 	$('#trialform .triBtn a').click(function() {
-	
 		var downloadList = '';
 		$('#trialform input.trial-download-checkbox:checked').each(function() {
 			downloadList += $(this).parent().children('.trial-product-name').text() + ",";
 		});
 		downloadList = downloadList.substr(0, downloadList.length - 2);
-
+		downloadList = downloadList.replace(/'/g,'');
 		downloadListNoSpaces = downloadList.replace(/ /g,'-');
-
-		newTracker._setCustomVar(2,'Free-Trial',downloadListNoSpaces,1);// Custom Var2
-		newTracker._trackEvent('Free Trial', 'Submit', downloadList);
-
+		_gaq.push(['_setCustomVar', 2, 'Free-Trial', downloadListNoSpaces, 1]);
+		_gaq.push(['_trackEvent', 'Free Trial', 'Submit', downloadList]);
 	});
-
- 
+	
+	// Product downloads
+	$('.product_list .product_cont ul .dlsub a').click(function() {
+		var tempStr = $(this).attr('title');
+		tempStr = tempStr.replace(/'/g, "\'");
+		var tempStrTwo = $(this).attr('href');
+		tempStrTwo = tempStrTwo.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Product Downloads', tempStr, tempStrTwo]);		
+	});
+	
+	// Legacy downloads
+	$('.download_product_item_copy a').click(function() {
+		var tempStr = $(this).attr('title');
+		tempStr = tempStr.replace(/'/g, "\'");
+		var tempStrTwo = $(this).attr('href');
+		tempStrTwo = tempStrTwo.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Legacy Downloads', tempStr, tempStrTwo]);		
+	});
 	
 	// Free Download
-	$('.free-download-link, ').click(function() {
-		newTracker._trackEvent('Free Products', 'Download', $(this).attr('title'));
+	$('.free-download-link').click(function() {
+		var tempStr = $(this).attr('title');
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Free Products', 'Download', tempStr]);
 	});
 	
 	// Free downloads submit
 	$('#freeform .triBtn a').click(function() {
-	
 		var downloadList = '';
 		$('#freeform input.free-dl-product-checkbox:checked').each(function() {
 			downloadList += $(this).parent().children('.free-dl-product-name').text() + ", ";
 		});
 		downloadList = downloadList.substr(0, downloadList.length - 2);
-		newTracker._trackEvent('Free Products', 'Submit', downloadList);
+		downloadList = downloadList.replace(/'/g,'');
+		_gaq.push(['_trackEvent', 'Free Products', 'Submit', downloadList]);
 	});
-
 
 	// Upgrade button
 	$('a.upgrade_button_popup').click(function() {
-		newTracker._trackEvent('PDP', 'Upgrade', $(this).attr('title'));
+		var tempStr = $(this).attr('title');
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'PDP', 'Upgrade', tempStr]);
 	});
-
-
-	// Proceed to download link
-	// Inserted into Qtip code 
 	
 	// Review read more
 	$('a.review-read-more-link').click(function() {
-		newTracker._trackEvent('PDP', 'Reviews', $('#product-title-bar').text() + ' - ' + $(this).attr('href'));
+		var tempStr = $('#product-title-bar').text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'PDP', 'Reviews', tempStr + ' - ' + $(this).attr('href')]);
 	});
 
 	// Suite callouts
 	$('.suite-purchase-callout a').click(function() {
-		newTracker._trackEvent('PDP', 'Product Suite Callout', $('.suite-purchase-callout .suite-purchase-callout-name').text());
+		var tempStr = $('.suite-purchase-callout .suite-purchase-callout-name').text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'PDP', 'Product Suite Callout', tempStr]);
 	});
 
 	// Related guru presets	
 	$('.related-guru-presets a').click(function() {
-		newTracker._trackEvent('PDP', 'Related Presets', $(this).text());
+		var tempStr = $(this).text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'PDP', 'Related Presets', tempStr]);
 	});
-	
 	
 	/*
 	 *  Support Pages
@@ -1033,21 +1214,22 @@ $(function() {
 	 
 	// Email Article
 	$('a.support-email-article').click(function() {
-		newTracker._trackEvent('Support', 'Email Article', $('.faqTit').text() + ' - ' + $('.faqTitle li:first').text() );
+		var tempStr = $('.faqTit').text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		var tempStrTwo = $('.faqTitle li:first').text();
+		tempStrTwo = tempStrTwo.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Support', 'Email Article', tempStr + ' - ' + tempStrTwo]);
 	});
 
 	// Print Article
 	$('a.support-print-article').click(function() {
-		alert($('.faqTit').text() + ' - ' + $('.faqTitle li:first').text() );
-		newTracker._trackEvent('Support', 'Print Article', $('.faqTit').text() + ' - ' + $('.faqTitle li:first').text() );
+		var tempStr = $('.faqTit').text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		var tempStrTwo = $('.faqTitle li:first').text();
+		tempStrTwo = tempStrTwo.replace(/'/g, "\'");
+		//alert($('.faqTit').text() + ' - ' + $('.faqTitle li:first').text() );
+		_gaq.push(['_trackEvent', 'Support', 'Print Article', tempStr + ' - ' + tempStrTwo]);
 	});
-
-	// Support Videos
-	// Implemented directly on video list page
-
-
-	// Compatibility Host Table
-	// Done in JS specific to host table
 
 	/*
 	 * Company Pages
@@ -1055,47 +1237,45 @@ $(function() {
 
 	// Social Media & Email links
 	$('.companyContent a').click(function() {
-	
 		var linkDest = $(this).attr('href');
 	
 		if (linkDest.indexOf("facebook.com") > -1) {
-			newTracker._trackEvent('Company - About', 'Outbound Social Link', 'Facebook');
+			_gaq.push(['_trackEvent', 'Company - About', 'Outbound Social Link', 'Facebook']);
 		}
 		if (linkDest.indexOf("twitter.com") > -1) {
-			newTracker._trackEvent('Company - About', 'Outbound Social Link', 'Twitter');
+			_gaq.push(['_trackEvent', 'Company - About', 'Outbound Social Link', 'Twitter']);
 		}
 		if (linkDest.indexOf("mailto:") > -1) {
 			linkDest = linkDest.replace('mailto:', '');
-			newTracker._trackEvent('Company - Contact', 'Email Link', linkDest);
+			_gaq.push(['_trackEvent', 'Company - Contact', 'Email Link', linkDest]);
 		}
 		
 		// Support Forums
 		if (linkDest == "http://toolfarm.com/phorumNew5/list.php?14") {
-			newTracker._trackEvent('Company - Forums', 'View Forum', 'Magic Bullet Forum');
+			_gaq.push(['_trackEvent', 'Company - Forums', 'View Forum', 'Magic Bullet Forum']);
 		}
 		if (linkDest == "http://toolfarm.com/phorumNew5/list.php?16") {
-			newTracker._trackEvent('Company - Forums', 'View Forum', 'Red Giant Forum');
+			_gaq.push(['_trackEvent', 'Company - Forums', 'View Forum', 'Red Giant Forum']);
 		}
 		if (linkDest == "http://toolfarm.com/phorumNew5/list.php?15") {
-			newTracker._trackEvent('Company - Forums', 'View Forum', 'Trapcode Forum');
+			_gaq.push(['_trackEvent', 'Company - Forums', 'View Forum', 'Trapcode Forum']);
 		}
 	});
 
 	// Refund request link
 	$('.open-refund-request-link').click(function() {
-		 newTracker._trackEvent('Company - Contact', 'Refund Request', 'Open a Refund Request');
+		 _gaq.push(['_trackEvent', 'Company - Contact', 'Refund Request', 'Open a Refund Request']);
 	});
 
 	// Contact Us Links
 	$('.contact-us-links-list a').click(function() {
-		newTracker._trackEvent('Company - Links', 'Outbound Links', $(this).attr('href'));
+		_gaq.push(['_trackEvent', 'Company - Links', 'Outbound Links', $(this).attr('href')]);
 	});
 
 	// Open support case
 	$('.open-support-case-link').click(function() {
-		newTracker._trackEvent('Company - Contact', 'Support Case', 'Open a Support Case');
+		_gaq.push(['_trackEvent', 'Company - Contact', 'Support Case', 'Open a Support Case']);
 	});
-
 
 	/*
 	 * RGTV
@@ -1103,36 +1283,44 @@ $(function() {
 
 	// Most Popular Videos
 	$('.bdPopVideos a').click(function() {
-		newTracker._trackEvent('RGTV', 'Most Popular Videos Link', $(this).text());
+		var tempStr = $(this).text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'RGTV', 'Most Popular Videos Link', tempStr]);
 	});
 	
 	// Blog
 	$('.prolost-blog-link').click(function() {
-		newTracker._trackEvent('RGTV', 'Tout Click', 'Prolost Blog');
+		_gaq.push(['_trackEvent', 'RGTV', 'Tout Click', 'Prolost Blog']);
 	});
 
 	// Posted Comment
 	$('.submit-rgtv-comment').click(function() {
-		newTracker._trackEvent('RGTV', 'Submit Comment', $('.vidTitle').text());
+		var tempStr = $('.vidTitle').text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Red Giant TV', 'Submit Comment', tempStr]);
 	});
 	
 	// Podcast Feeds
 	$('.rgtv-tutorial-rss-feed-link').click(function() {
-		newTracker._trackEvent('RGTV', 'Subscribe', 'Tutorial RSS Feed');
+		_gaq.push(['_trackEvent', 'Red Giant TV', 'Subscribe', 'Tutorial RSS Feed']);
 	});
 	$('.rgtv-podcast-rss-feed-link').click(function() {
-		newTracker._trackEvent('RGTV', 'Subscribe', 'Podcast RSS Feed');
+		_gaq.push(['_trackEvent', 'Red Giant TV', 'Subscribe', 'Podcast RSS Feed']);
 	});
 	$('.rgtv-podcast-itunes-link').click(function() {
-		newTracker._trackEvent('RGTV', 'Subscribe', 'Podcast in iTunes');
+		_gaq.push(['_trackEvent', 'Red Giant TV', 'Subscribe', 'Podcast in iTunes']);
 	});
 
 	// Video Project and Example Links	
 	$('.project-files-dl-link').click(function() {
-		newTracker._trackEvent('RGTV', 'Download Project Files', $('.vidTitle').text());
+		var tempStr = $('.vidTitle').text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Red Giant TV', 'Download Project Files', tempStr]);
 	});
 	$('.example-video-view-link').click(function() {
-		newTracker._trackEvent('RGTV', 'Example Video', $('.vidTitle').text());
+		var tempStr = $('.vidTitle').text();
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Red Giant TV', 'Example Video', tempStr]);
 	});	
 	
 	// Video Filter
@@ -1144,17 +1332,21 @@ $(function() {
 		var filCate = $('#find_episode_filter_submenu #filterbycategory option:selected').text();
 		var filSort = $('#find_episode_filter_submenu input[name=sortSelect]:checked').parent().text();
 		
-		newTracker._trackEvent('RGTV', 'Video Filter', "Type - " + filType + ', Products - ' + filShow + ', Hosts - ' + filHost + ', Categories - ' + filCate + ', Sort - ' + filSort);
+		_gaq.push(['_trackEvent', 'Red Giant TV', 'Video Filter', "Type - " + filType + ', Products - ' + filShow + ', Hosts - ' + filHost + ', Categories - ' + filCate + ', Sort - ' + filSort]);
 	});
 	
 	// RGTV item pages - Products Used in this Video - Buy button
 	$('.setBuyRGTV a.buy_button_popup').click(function() {
-		newTracker._trackEvent('RGTV', 'Buy', $(this).attr('title'));
+		var tempStr = $(this).attr('title');
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Red Giant TV', 'Buy', tempStr]);
 	});
 	
 	// RGTV item pages - Products Used in this Video - Try button
 	$('a.rgtv-productsused-try').click(function() {
-		newTracker._trackEvent('RGTV', 'Try', $(this).attr('title'));
+		var tempStr = $(this).attr('title');
+		tempStr = tempStr.replace(/'/g, "\'");
+		_gaq.push(['_trackEvent', 'Red Giant TV', 'Try', tempStr]);
 	});
 
 });
