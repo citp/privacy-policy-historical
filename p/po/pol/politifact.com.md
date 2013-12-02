@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politifact.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602174939id_/http%3A//www.politifact.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politifact.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202151857id_/http%3A//www.politifact.com/privacy) for the most accurate reproduction.*
 
 # PolitiFact | Privacy policy
 
@@ -87,5 +87,5 @@ If you have submitted your information on a page connected to one of our third p
 
 
   
-August 14, 2009  
+Nov. 21, 2013  
 
