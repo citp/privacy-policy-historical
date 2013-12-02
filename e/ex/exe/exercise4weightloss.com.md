@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exercise4weightloss.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513105322id_/http%3A//www.exercise4weightloss.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exercise4weightloss.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202212743id_/http%3A//www.exercise4weightloss.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Exercise 4 Weight Loss
 
