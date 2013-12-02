@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the about.me privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628105732id_/http%3A//about.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the about.me privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202081516id_/http%3A//about.me/privacy) for the most accurate reproduction.*
 
 # About.me / Privacy Policy
-
-## Pumpkinhead, Inc. / about.me  
-Privacy Policy
 
 Effective date: February 4, 2013
 
