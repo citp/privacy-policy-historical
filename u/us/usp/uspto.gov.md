@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630162938id_/http%3A//www.uspto.gov/privact.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202171720id_/http%3A//www.uspto.gov/privact.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ If you choose to submit a blog comment, only personal information that you volun
 
 ##  Surveys
 
-While visiting www.uspto.gov, you may be asked to participate in a survey conducted by an authorized third party, [ForeSee Results](https://web.archive.org/cgi-bin/exitconf/internet_exitconf.pl?target=www.foreseeresults.com/privacy-policy.shtml)TM.  This randomized survey is based on the American Customer Satisfaction Index (ACSI) and your participation is voluntary.  No personal information is collected unless you choose to provide it as part of a comment.  Survey data is retained as long as needed to permit accurate analysis, produce summary reports, and monitor overall trends. If you choose not to participate in the survey, you are not prevented from using the USPTO website in any other way.  If you wish to provide feedback without taking the survey, you may send e-mail directly to [webmaster@uspto.gov](mailto:webmaster@uspto.gov?subject=non-survey%20feedback).  If you have an immediate concern, please refer to the [Contact Us](http://www.uspto.gov/about/contacts/index.jsp) page on the USPTO website. See additional notes under “ _Use of Cookies and Tracking Technologies_ ”, above.
+While visiting www.uspto.gov, you may be asked to participate in a survey conducted by an authorized third party, [ForeSee Results](https://web.archive.org/cgi-bin/exitconf/internet_exitconf.pl?target=www.foreseeresults.com/privacy-policy.shtml)TM. This randomized survey is based on the American Customer Satisfaction Index (ACSI) and your participation is voluntary. No personal information is collected unless you choose to provide it as part of a comment or to complete the survey. Survey data is retained as long as needed to permit accurate analysis, produce summary reports, and monitor overall trends. If you choose not to participate in the survey, you are not prevented from using the USPTO website in any other way. If you wish to provide feedback without taking the survey, you may send e-mail directly to [webmaster@uspto.gov](mailto:webmaster@uspto.gov?subject=non-survey%20feedback). If you have an immediate concern, please refer to the [Contact Us](http://www.uspto.gov/about/contacts/index.jsp) page on the USPTO website. See additional notes under “ _Use of Cookies and Tracking Technologies_ ”, above.
 
 ##  Kids Pages
 
