@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601222644id_/http%3A//www.designbyhumans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202085633id_/http%3A//www.designbyhumans.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
