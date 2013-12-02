@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the preapps.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301145012id_/http%3A//www.preapps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preapps.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202080738id_/http%3A//www.preapps.com/privacy) for the most accurate reproduction.*
 
-# PreApps - Privacy Policy
+# Preapps Privacy Policy
 
 This privacy policy sets out how PreApps, LLC uses and protects any information that you give PreApps, LLC when you use this website. PreApps, LLC is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. PreApps, LLC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from August 1st, 2012.
 
