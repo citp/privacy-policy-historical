@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zen.co.uk privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508033819id_/http%3A//www.zen.co.uk/policies.aspx%3Fpage%3D10674) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zen.co.uk privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202014440id_/http%3A//www.zen.co.uk/policies.aspx%3Fpage%3D10674) for the most accurate reproduction.*
 
 # Privacy Policy | Policies | Zen Internet
 
 [ ](http://www.zen.co.uk/)
 
-22/10/2012
+18/09/2013
 
   1. **1 PURPOSE OF THIS POLICY**
     1. This policy gives the following information about personal data: 
@@ -18,9 +18,9 @@
       * information that you provide by filling in forms on our site [zen.co.uk](https://web.archive.org/) ( **our site** ). This includes information you provided at the time of registering to use certain elements of our site, subscribing to our services, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by Zen, and when you report a problem with our site;
       * if you contact us, we may keep a record of that correspondence;
       * we may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;
-      * details of transactions you carry out through our site or via other means (eg telephone orders) and of the fulfilment of your orders;
-      * you can access the site home page and browse the site without disclosing personal information. We collect standard Internet log information and details of visitor behaviour patterns to help us identify things such as the number of visitors to the various parts of our site. We collect this information in a way which does not identify anyone (please see **[our Cookie Policy](https://web.archive.org/policies/cookie-policy.aspx)** for more details); and 
-      * communication and usage data, whether this is required for our own billing purposes or otherwise and the resources that you access. We may also use this data for diagnostic purposes, for planning and capacity management and to assist us in the prevention or detection of faults and/or misuse. We do not collect the content of emails that you have sent or received or keep a record of individual web pages that you have visited.
+      * details of transactions you carry out through our site or via other means (e.g. telephone orders) and of the fulfilment of your orders;
+      * you can access the site home page and browse the site without disclosing personal information. We collect standard Internet log information and details of visitor behaviour patterns to help us identify things such as the number of visitors to the various parts of our site and in the process of providing our advertising to other websites. We collect this information in a way which does not identify anyone (please see **[our Cookie Policy](https://web.archive.org/policies/cookie-policy.aspx)** for more details); and
+      * communication and usage data, whether this is required for our own billing purposes or otherwise and the resources that you access. We may also use this data for diagnostic purposes, for planning and capacity management and to assist us in the prevention or detection of faults and misuse. We do not collect the content of emails that you have sent or received or keep a record of individual web pages that you have visited.
   3. **3 WHERE WE STORE YOUR PERSONAL DATA**
     1. The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
     2. In addition, if you place your personal information on publically available parts of our site, this will be accessible to people in countries outside of the EEA. Such countries may not have data protection laws as comprehensive as those that exist within the EEA.
@@ -54,7 +54,7 @@
   7. **7 THIRD PARTY LINKS ON OUR WEBSITE**
     1. Our site may, from time to time, contain links to and from the websites of our partner networks, affiliates and other third parties.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
   8. **8 CHANGES TO OUR PRIVACY POLICY**
-    1. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. This policy was last updated on 22 October 2012.
+    1. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. This policy was last updated on 18 September 2012.
   9. **9 CONTACT**
     1. Questions, comments and requests regarding this privacy policy should be addressed to our Data Protection Compliance Manager at Zen Internet Limited, Sandbrook Park, Sandbrook Way, Rochdale OL11 1RY or at [dataprotection@zeninternet.co.uk](mailto:dataprotection@zeninternet.co.uk). 
 
