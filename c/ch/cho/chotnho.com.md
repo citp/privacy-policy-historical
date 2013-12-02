@@ -1,28 +1,32 @@
-> *The following text is extracted and transformed from the chotnho.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224053id_/http%3A//www.vncentral.com/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chotnho.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202053927id_/http%3A//f.chotnho.com/privacypolicy.html) for the most accurate reproduction.*
 
-# VNCentral - your online community & resource
+# Privacy Policy - www.chotnho.com
 
-**NOTICE**   
-VNCentral will notify you when it is collecting personally identifiable information about you, as well as the use or uses VNCentral intends to make with such information. For example, we may need to collect information to respond to your requests for search results, buying products, requesting information, or to allow you to send or post messages, or for billing purposes. We also keep information about customers, individual shopping sessions, and purchases in a secure database on our servers in order to fulfill online transaction and banking requirements. 
+Privacy Policy for www.chotnho.com 
 
-**ANONYMOUS INFORMATION**  
-We may collect certain non-personal information from your IP address. This information is used only to provide an enhanced on-line experience for our visitors by optimizing our Web pages for your computer (i.e., the identity of your Internet browser, IP address, referral data, platform type, and search terms ). We may also use this non-personal information to determine the total number of visitors to our Web sites. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at hoangsts@yahoo.com. 
 
-**USE OF COOKIES**  
-When you view our Web site, we may store some information on your computer. This information will be in the form of a 'Cookie' and will help us in many ways. For example, Cookies allow us to tailor a Web site to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions. 
+At www.chotnho.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.chotnho.com and how it is used. 
 
-**INFORMATION COLLECTED IN DELIVERY OF ADVERTISEMENTS**  
-In the course of delivering an advertisement to VNCentral visitors, VNCentral, or its advertising agency, does not collect any personally-identifiable information about the Web site user, such as the user's name, address, phone number or email address. VNCentral' advertising agency does, however, collect non-personally identifiable information, such as the server a user's computer is logged onto, the user's browser type (for example, Netscape or Internet Explorer), and whether the user responded to the advertisement delivered. 
+**Log Files**  
+Like many other Web sites, www.chotnho.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-VNCentral' use of the non-personally identifiable information collected by VNCentral' advertising agency may include targeting advertisements and measuring advertisement effectiveness.
+**Cookies and Web Beacons**  
+www.chotnho.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-**PERSONALLY IDENTIFIABLE INFORMATION**  
-Personally identifiable information about our visitors is collected only when knowingly and voluntarily submitted by those visitors. VNCentral uses such information only for the purpose for which it was submitted, unless we disclose other uses at the time of collection. VNCentral does not sell personal information to third parties. VNCentral may share personally identifiable information with other parts of our company, but this will never be used on an individual basis outside of the company. VNCentral maintains appropriate safeguards to ensure the security, integrity, and privacy of personally identifiable information in its possession. VNCentral may use such personally identifiable information in the aggregate (non-identifiable) form to make our Web site better and more responsive to the needs of our visitors. This statistical compilation of non-identifiable information may also be used by or provided to others for marketing, advertising, or research purposes. 
+**DoubleClick DART Cookie**
 
-**LINKS TO OTHER SITES**  
-VNCentral chooses its advertisers and business partners carefully. However, VNCentral is not responsible for the content or privacy practices of Web sites operated by third parties that are linked to or from our Web site. These links are meant for the visitor's convenience only. Links to third party Web sites do not constitute sponsorship, endorsement, or approval by VNCentral of content, policies or practices of such sites. Once you have left the VNCentral Web site via such a link, you should check the applicable privacy policy of the third party site. VNCentral may also be linked to Web sites operated by companies affiliated with VNCentral. Visitors to those sites should refer to their separate privacy policies and practices. 
+.:: Google, as a third party vendor, uses cookies to serve ads on www.chotnho.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.chotnho.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
-**CHAT ROOMS, MESSAGE BOARDS AND SUBMISSIONS**  
-Should any visitor to VNCentral Web site provide information, questions, comments, suggestions, reviews or any material through the feedback mechanisms located in the Web site, VNCentral shall have no obligation of any kind with respect to such information and shall be free to reproduce, use, disclose and distribute the information to others without limitation. The information expressed in any Message Boards or chat rooms, or other forums conducted on VNCentral, if any, are not necessarily those of VNCentral or its affiliated or related entities or content providers and VNCentral makes no representations or warranties regarding that information or those opinions.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense 
 
-* _****The above information will be change without any further notice._
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.chotnho.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+
+www.chotnho.com has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.chotnho.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
