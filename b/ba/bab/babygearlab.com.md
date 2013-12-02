@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babygearlab.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601052009id_/http%3A//www.babygearlab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babygearlab.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202083148id_/http%3A//www.babygearlab.com/privacy) for the most accurate reproduction.*
 
 # BabyGearLab Privacy Policy
 
