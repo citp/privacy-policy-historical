@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csid.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601095153id_/http%3A//www.csid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csid.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202052227id_/http%3A//www.csid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CSID
 
@@ -119,8 +119,8 @@ If you have questions, comments, and/or complaints regarding CSID’s Privacy Po
 
 CSID  
 Attn: Legal Department  
-7500 Rialto Blvd., Suite 260  
-Austin, TX 78735  
+1501 S. Mopac Exp. Suite 200  
+Austin, TX 78746  
 
 
 Effective Date: May 8, 2013 
