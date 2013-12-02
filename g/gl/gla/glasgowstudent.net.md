@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glasgowstudent.net privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622072821id_/http%3A//glasgowstudent.net/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasgowstudent.net privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202030101id_/http%3A//www.glasgowstudent.net/information/privacy) for the most accurate reproduction.*
 
 # SRC : Information : Privacy policy
 
