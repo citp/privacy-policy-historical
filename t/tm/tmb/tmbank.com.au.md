@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the tmbank.com.au privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603154853id_/https%3A//www.tmbank.com.au/LandingPages/privacy-information-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmbank.com.au privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202175759id_/http%3A//www.tmbank.com.au/LandingPages/privacy-information-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Information Statement
 
 > Member Privacy Statement   
 > Non-Member Privacy Statement
 
-##  Member Privacy statement
+## Member Privacy statement
 
 Teachers Mutual Bank has always respected members' rights to Privacy. It is fundamental to the way we do business and reflects the trust members have placed in us in providing them with financial services.
 
@@ -82,8 +82,7 @@ Should you require further information about our Privacy Information Statement�
   
 
 
-##  Non-Member Privacy Statement   
-
+## Non-Member Privacy Statement
 
 Teachers Mutual Bank has always respected customers’ rights to Privacy. It is fundamental to the way we do business and reflects the trust customers have placed in us in providing them with financial services. 
 
