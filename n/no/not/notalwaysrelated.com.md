@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notalwaysrelated.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601161359id_/http%3A//notalwaysrelated.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notalwaysrelated.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202201339id_/http%3A//notalwaysrelated.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Funny & Unusual Family Stories – Not Always Related
 
