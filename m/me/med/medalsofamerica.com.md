@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medalsofamerica.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118065531id_/http%3A//www.medalsofamerica.com/content--name-Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medalsofamerica.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203003212id_/http%3A//www.medalsofamerica.com/content--name-Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Medals of America
 
@@ -21,15 +21,15 @@ _a. Personally Identifiable Information_
 
 > We may collect personally Identifiable Information (including name, address, telephone number, e-mail address and, when necessary, credit card information) when you:
 > 
->   * Place an order from our catalogs or on our website.
->   * Return an item or make an exchange.
->   * Inquire about our services.
->   * Request a catalog.
->   * Receive a gift package.
->   * Create an account at medalsofamerica.com.
+>   * Place an order from our catalogs or on our website. 
+>   * Return an item or make an exchange. 
+>   * Inquire about our services. 
+>   * Request a catalog. 
+>   * Receive a gift package. 
+>   * Create an account at medalsofamerica.com. 
 >   * Subscribe to our E-mail Communications. 
->   * Enter a contest or sweepstakes
->   * Participate in a marketing survey, promotion or event either online or offline.
+>   * Enter a contest or sweepstakes 
+>   * Participate in a marketing survey, promotion or event either online or offline. 
 > 
 
 
@@ -46,17 +46,17 @@ _a. Personally Identifiable Information_
 
 At Medals of America, we always want to provide you with the best possible shopping experience and fulfill your orders exactly as you've requested. In order to do this, we use your personally identifiable information to allow us to:
 
-  * Process and track your order.
-  * Provide the services you request.
-  * Contact you about the status of an order.
-  * Send you catalogs or promotional offers we believe will be of interest to you.
+  * Process and track your order. 
+  * Provide the services you request. 
+  * Contact you about the status of an order. 
+  * Send you catalogs or promotional offers we believe will be of interest to you. 
   * Send you Medals of America E-mail communications. 
-    * Your e-mail address will be used only for the Medals of America E-mail communications and will not be shared with any third parties except as described below. Instructions for unsubscribing are included in every e-mail.
-  * Identify your product and service preferences.
-  * Customize our communications to you.
-  * Provide information concerning product recalls or products you have purchased.
-  * Improve our merchandise selection and customer service.
-  * Administer a sweepstakes or similar promotion and identify or publicize the winner(s) in accordance with the rules for that promotion.
+    * Your e-mail address will be used only for the Medals of America E-mail communications and will not be shared with any third parties except as described below. Instructions for unsubscribing are included in every e-mail. 
+  * Identify your product and service preferences. 
+  * Customize our communications to you. 
+  * Provide information concerning product recalls or products you have purchased. 
+  * Improve our merchandise selection and customer service. 
+  * Administer a sweepstakes or similar promotion and identify or publicize the winner(s) in accordance with the rules for that promotion. 
 
 
 
@@ -88,11 +88,11 @@ _b. Third Parties_
 
 Notwithstanding the above policies, we reserve the right to disclose your personal information to appropriate third parties if we are required to do so by law or we believe that such action is necessary:
 
-  * To comply with legal process such as a search warrant, subpoena or court order;
-  * To protect the company's rights and property;
-  * To investigate reports of fraud or of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages;
-  * To protect against misuse or unauthorized use of our web site; or
-  * During emergencies, such as when we believe someone's physical safety is at risk.
+  * To comply with legal process such as a search warrant, subpoena or court order; 
+  * To protect the company's rights and property; 
+  * To investigate reports of fraud or of users sending material using a false e-mail address or users sending harassing, threatening, or abusive messages; 
+  * To protect against misuse or unauthorized use of our web site; or 
+  * During emergencies, such as when we believe someone's physical safety is at risk. 
 
 
 
@@ -117,6 +117,14 @@ Your e-mail address will be used only for the Medals of America E-mail communica
 
 Occasionally we provide links on our website to other sites we think you will enjoy. These sites operate independently of Medals of America and have established their own privacy and security policies. Medals of America does not have any control over these sites’ privacy practices. For the best online experience, we strongly encourage you to review these policies at any site you visit.
 
+**Copyright and Trademark Notice**
+
+All content included on this site, such as text, graphics, logos, button icons, images and videos is the property of Medals of America, Inc. and their vendors and is protected by U.S. and international copyright laws. All official medals, ribbons, badges and mini badges are property of Medals of America, Inc.
+
+© Medals of America, Inc 2013 - Medals of America™, Mil-Thin™, Ribbons and Mini-Ribbons™ are registered trademarks of Medals of America, Inc. 
+
+Use of of imagery and content is strictly prohibited without express written consent from Medals of America. 
+
 **Security**
 
 It is our intent to protect against the loss, misuse or alteration of information that we have collected from you. We use a variety of current technologies and processes for protection of our customer data. We limit the information we provide to outside companies with whom we contract to only what they need to carry out their responsibilities.
@@ -133,7 +141,7 @@ From time to time, we may use customer information for unanticipated uses not pr
 
 **Questions or Comments?**
 
-For questions, comments or assistance, we invite you to [contact us](https://web.archive.org/content--name-Contact_Medals_of_America):
+For questions, comments or assistance, we invite you to [contact us](https://web.archive.org/content--name-Contact%20Medals%20of%20America):
 
 Medals of America  
 Attn: Customer Service  
