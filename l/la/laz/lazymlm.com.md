@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lazymlm.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602044833id_/http%3A//www.lazymlm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazymlm.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202171203id_/http%3A//www.lazymlm.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: LAZYMLM.com
-
-Please read the following Privacy Policy for my Lazy MLM website…
+# Privacy Policy
 
 #### Collecting Information
 
