@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lolhappens.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627231311id_/http%3A//www.lolhappens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolhappens.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202055727id_/http%3A//www.lolhappens.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LOL Happens
+# LOL Happens » Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at admin at lolhappens.com
 
