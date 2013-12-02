@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628022637id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202074739id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy | AA
 
@@ -45,7 +45,9 @@ Back to top
 
 ###  How we use the information you provide us
 
-We use the information we receive from you to provide goods and/or services that you request, to communicate with you, and to personalise our information sent to you. We do not sell, trade, or rent your personal information to others.
+We use the information we receive from you, together with information we have obtained from our dealings with you (including in relation to goods and/or services we provide to you and/or your use of those goods and/or services), to provide goods and/or services that you request, to communicate with you, and to personalise information sent to you. Examples of how we may personalise information include using your information in generating an insurance quote for you, working out which departure airports are near to you, or when we will be delivering certain products in your area.
+
+We do not sell, trade, or rent your personal information to others.
 
 We store all the information you provide us, including information provided via forms you complete on our website, and information which we may collect from your browsing. Our server, in common with nearly all web servers, logs each page that is downloaded from the site.
 
@@ -53,9 +55,7 @@ Any new information you provide us may be used to update an existing record we h
 
 To help us prevent fraud and money laundering, your details may be submitted to fraud prevention agencies and other organisations where your records may be searched. We will also conduct a search with a credit reference bureau to assist us in providing a quote, and to check which payment options we can make available to you. A copy of this search will be left on your credit file but will not affect your credit score. Where we are providing a motor insurance quotation this search will be noted on your credit file and may be reflected in your credit score.
 
-Examples of how we may personalise information include preparing an insurance quote for you, working out which departure airports are near to you, or when we will be delivering certain products in your area.
-
-Third parties may deliver some of our products to you, or provide all or part of the service requested by you. In these instances, while the information you provide will be disclosed to them, it will only be used for the administration of the service provided (including for example claims processing), underwriting and pricing purposes as appropriate, testing, and to maintain management information for business analysis.
+Third parties may deliver some of our products to you, or provide all or part of the service requested by you. In these instances, while the information you provide will be disclosed to them, it will only be used for the administration of the service provided (including for example verification of any quote given to you and claims processing), underwriting and pricing purposes as appropriate, testing, and to maintain management information for business analysis.
 
 If you apply for the Saga Credit Card or the AA Credit Card, we, or the supplier of the card, will search your record at a credit reference agency. If you apply for other financial services and/or products, a check of your details with fraud prevention agencies may be necessary. The precise nature of these processes is explained fully when you apply.
 
@@ -64,12 +64,6 @@ We ask for your home, mobile phone number, and email address to enable us to con
 We make outbound phone calls for a number of reasons relating to our many products, including breakdown cover and insurance. We are fully committed to the regulations set out by Ofcom and follow strict processes to ensure we comply with them.
 
 If you provide us with credit or debit card details in order to pay for a service or product, we will keep such details secure and ensure that the details are only used further with your consent and/or for the purposes of any appropriate refunds.
-
-In respect of either Saga Zone or AA Zone (these are free web-based services for meeting past, present and future friends), certain details and information provided by you will be monitored from time to time, and certain data such as messages sent by you will be retained by us for up to 12 months in accordance with the Anti-terrorism, Crime and Security Act 2001.
-
-Such details may be disclosed to the police and law enforcement agencies for the purpose of fraud detection, crime prevention and national security. We also reserve the right to move or edit messages or materials that we, in our sole discretion, deem to violate the Zone's code of conduct as set out in its terms and conditions or any applicable content guidelines, or which in any way is otherwise unacceptable.
-
-When participating in Saga Zone or AA Zone activities, such as discussions or reunion requests, your contributions will often be identifiable. You will be able to see whether this is the case in the appropriate area of the website.
 
 When you enter a contest or other promotional feature, we may ask for your name, address, phone numbers and email address so we can administer the contest and notify winners.
 
@@ -83,7 +77,7 @@ If you make a donation to the Saga Charitable Trust, your data will not be used 
 
 Each time you receive electronic marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an 'opt-out'.
 
-If you wish to exercise the opt-out, for Saga products please write to the Saga Group Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE; or for AA products to AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA; or for Drakefield products to Drakefield Insurance Services Limited, West Wing, 6 Miles Gray Road, Basildon SS14 3HJ.
+If you wish to exercise the opt-out, for Saga products please write to the Saga Group Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE; or for AA products to AA Group Data Protection Officer, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA; or for Drakefield products to Drakefield Insurance Services Limited, West Wing, 6 Miles Gray Road, Basildon SS14 3HJ.
 
 If you have more than one address or email address please make sure to notify any changes to your preferences for each address or email address you have registered with us.
 
@@ -110,7 +104,7 @@ Back to top
 
 ###  Your consent
 
-Before you provide any data to us we will endeavour to make it clear why we need it. Sometimes we may need sensitive personal data (examples may be past medical history or motoring convictions). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or written, or by using our website, you consent to the collection, use and processing of this information by Saga and AA groups to provide and send you information about their services.
+Before you provide any data to us we will endeavour to make it clear why we need it. Sometimes we may need sensitive personal data (examples may be past medical history or motoring convictions). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or in writing, or by using our website, you consent to the collection, use and processing of the information we obtain from or about you as a result of our dealings with you (including any data we obtain from third parties) by Saga and AA groups to provide and send you information about their goods and/or services.
 
 A customer may properly give their spouse's or partner's consent over the phone or via the website providing the customer confirms they have permission to do so. If the consent is written, the spouse must independently endorse such consent.
 
@@ -346,9 +340,17 @@ Back to top
 
 ###  Disclosure of information to third parties
 
-As previously mentioned, Saga and AA do not sell, trade or rent your information, and will never disclose information about you to third parties, except to fulfil your specific orders for a product or information in the event that third parties deliver the relevant service. For example, if you go on a holiday with us, the hotel needs to know who you are. If you take out an insurance policy provided by a third party, they will need your details in order to administer the policy and process any claims. Other circumstances where we are operationally or contractually obliged to pass on your information may be where third parties administer part or all of the service, underwriting, for pricing purposes, testing, and to maintain management information for business analysis.
+As previously mentioned, Saga and AA do not sell, trade or rent your information, and will never disclose information about you (including information obtained from our dealings with you) to third parties, except:
 
-We may of course be obliged at law to pass on your information to the police or any other statutory authority.
+a) to fulfil your specific orders for a product or service or information in the event that third parties deliver the relevant product or service or information. For example, if you go on a holiday with us, the hotel needs to know who you are. If you take out an insurance policy provided by a third party, they will need your details in order to administer the policy, verify the quote given to you and process any claims;
+
+b) where third parties administer part or all of the product or service;
+
+c) for underwriting, pricing, insurance rating analysis and testing purposes, and to maintain management information for business analysis.
+
+We may of course be obliged at law to pass on your information to the police or any other statutory or regulatory authority.
+
+See also **How we use the information you provide us** above for information on how we may exchange personal data with third parties to help us prevent fraud and money laundering, to assist us in providing a quote, or to check which payment options we can make available to you.
 
 Back to top
 
@@ -362,7 +364,7 @@ Back to top
 
 Saga and AA groups of companies have adopted the following procedure in gaining your consent to be placed on their marketing lists.
 
-When you first make an enquiry of or buy a product from Saga Group, or AA Group or Drakefield you consent to receiving marketing about other products and services from us. Your details are placed on our marketing list for the group and a 'questionnaire' will be sent to you. This gives a list of all the products of the group and gives the option of choosing which products you would or would not like to receive information about. You can also choose not to receive any marketing from us. Once you have chosen what you would like to receive we ask you to return the completed form back to us. The marketing selections will be administered where applicable.
+When you first make an enquiry of or buy a product from Saga Group, or AA Group or Drakefield you consent to receiving marketing about other products and services from us. Your details are placed on our marketing list for the group and a 'questionnaire' will be sent to you; it may be sent electronically. This questionnaire gives a list of all the products of the group, and the option of choosing which products you would or would not like to receive information about. You can also choose not to receive any marketing from us. Once you have chosen what you would like to receive we ask you to return the completed form back to us. The marketing selections will be administered where applicable.
 
 Back to top
 
@@ -376,13 +378,13 @@ Back to top
 
 You have a statutory right of access to accessible personal and/or sensitive personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to the Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE for requests relating to information held by Saga Group companies; or to the AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA for requests relating to information held by AA Group companies.
 
-Please refer to the information you wish to see giving dates if possible, and enclose your cheque for £10 payable to Saga Group Limited or AA Limited. We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.
+Please refer to the information you wish to see giving dates if possible, and enclose your cheque for £10 payable to Saga Group Limited or Automobile Association Developments Limited. We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.
 
 Back to top
 
 ###  Your choice of information
 
-You may change the type of material sent to you at any time. Saga and AA allow you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this, for Saga products please write to Information Processing at The Saga Building, Enbrook Park, Sandgate, Kent CT20 8SE; for AA products please write to The Data Protection Compliance Manager at The AA, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA; and for Drakefield products please write to Drakefield Insurance Services Limited, West Wing, 6 Miles Gray Road, Basildon SS14 3HJ.
+You may change the type of material sent to you at any time. Saga and AA allow you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this, for Saga products please write to Information Processing at The Saga Building, Enbrook Park, Sandgate, Kent CT20 8SE; for AA products please write to The Data Protection Compliance Manager at Automobile Association Developments Limited, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA; and for Drakefield products please write to Drakefield Insurance Services Limited, West Wing, 6 Miles Gray Road, Basildon SS14 3HJ.
 
 Back to top
 
@@ -396,6 +398,6 @@ Back to top
 
 Saga and AA welcome your questions and comments about privacy.
 
-Please write to The Group Data Protection Officer, The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE; or The AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA; or Drakefield Insurance Services Limited, West Wing, 6 Miles Gray Road, Basildon SS14 3HJ.
+Please write to The Group Data Protection Officer, The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE; or Automobile Association Developments Limited, Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA; or Drakefield Insurance Services Limited, West Wing, 6 Miles Gray Road, Basildon SS14 3HJ.
 
 Back to top
