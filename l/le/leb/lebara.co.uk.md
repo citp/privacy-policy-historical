@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lebara.co.uk privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517202012id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebara.co.uk privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202164110id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Lebara Mobile - International mobile phone calls & SIM cards
 
