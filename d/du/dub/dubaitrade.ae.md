@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaitrade.ae privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602012812id_/http%3A//www.dubaitrade.ae/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaitrade.ae privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202191149id_/http%3A//www.dubaitrade.ae/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
