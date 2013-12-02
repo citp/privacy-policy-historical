@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nikkisfreebiejeebies.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604023542id_/http%3A//nikkisfreebiejeebies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikkisfreebiejeebies.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202101152id_/http%3A//nikkisfreebiejeebies.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Nikki's Freebie Jeebies : Privacy Policy
 
 NikkisFreebieJeebies is committed to user privacy. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy.
 
-We can be reached via e-mail at [nikki@nikkisfreebiejeebies.com](mailto:nikki@nikkisfreebiejeebies.com)
+We can be reached via e-mail at nikkisfj [at] gmail.com
 
 This policy covers NikkisFreebieJeebies.com, Please be advised that our advertisers all have their own, possibly different, policies. Should you click through one of our links and travel to one of our advertisers, we encourage you to read the privacy policies provided on the advertisers sites, and those of all web sites you visit.
 
@@ -26,7 +26,7 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 This site contains links to other sites. Freebie Jeebies is not responsible for the privacy practices or the content of such Web sites.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [nikki@nikkisfreebiejeebies.com](mailto:nikki@nikkisfreebiejeebies.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: nikkisfj [at] gmail.com
 
 Nikki Russell  
-c/o NikkisFreebieJeebies P.O. Box 9738 Wilmington, DE 19809 
+c/o NikkisFreebieJeebies P.O. Box 9738 Wilmington, DE 19809
