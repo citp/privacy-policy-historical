@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seagm.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603110334id_/http%3A//www.seagm.com%3Fr%3Dpage%26view%3Dmemberprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seagm.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202174508id_/http%3A//www.seagm.com%3Fr%3Dpage%26view%3Dmemberprivacy) for the most accurate reproduction.*
 
 # SEA Gamer Mall Online Gaming Store | Game Gold, Game Card, MMO, Web-based & Facebook Game
 
