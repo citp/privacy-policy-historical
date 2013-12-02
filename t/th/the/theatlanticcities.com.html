@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the theatlanticcities.com privacy policy that was archived on 2013-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130526000555id_/http%3A//www.theatlanticcities.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theatlanticcities.com privacy policy that was archived on 2013-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202184527id_/http%3A//www.theatlanticcities.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
 	<title>Privacy Policy - The Atlantic Cities</title>
 	
 	<!-- for chartbeat --> 
-	<script async="" src="http://a.visualrevenue.com/vrs.js"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
+	<script async="" src="http://a.visualrevenue.com/vrs.js"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
 	
 	<meta name="description" content="The Atlantic Cities covers urban design, transit, planning, jobs, housing, and lifestyles all over the globe.">
 	
@@ -17,7 +18,7 @@
 	
 	
 	
-	<link media="all" rel="stylesheet" type="text/css" href="http://cdn.theatlanticcities.com/css/all.css?20130507">
+	<link media="all" rel="stylesheet" type="text/css" href="http://cdn.theatlanticcities.com/css/all.css?1379607412">
 	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="http://cdn.theatlanticcities.com/css/ie.css" media="screen"/><![endif]-->
 	
 
@@ -27,7 +28,7 @@
 	<script type="text/javascript" src="http://cdn.theatlanticcities.com/js/main.js?v=0.15"></script>
 	<script type="text/javascript" src="http://cdn.theatlanticcities.com/js/highcharts.js?v=1"></script>
     <script type="text/javascript" src="http://cdn.theatlanticcities.com/js/cookies.js"></script>
-	<script type="text/javascript" src="http://cdn.theatlanticcities.com/js/ads.js"></script>
+	<script type="text/javascript" src="http://cdn.theatlanticcities.com/js/ads.js?1384549969"></script>
 	<!--[if IE]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 	<!--[if IE]><script type="text/javascript" src="http://cdn.theatlanticcities.com/js/jquery.html5-placeholder-shim.js"></script><![endif]-->
 
@@ -44,12 +45,6 @@
 		var s = document.createElement('script'); s.async = true;
 		s.type = 'text/javascript';
 		s.src = 'https://apis.google.com/js/plusone.js';
-		if (typeof(navigator) != 'undefined'
-			&& navigator.userAgent
-			&& /iPad|iPhone|Android/.test(navigator.userAgent))
-			s.src = "https://ssl.gstatic.com/webclient/js/gc/" +
-				"22224365-adc8a19e" + // changed whenever Google make changes
-				"/googleapis.client__plusone.js";
 		(document.getElementsByTagName('HEAD')[0]
 			|| document.getElementsByTagName('BODY')[0]).appendChild(s);
 	}());
@@ -58,26 +53,35 @@
 	
 	<script src="http://siterecruit.comscore.com/sr/atlantic/broker.js"></script>
 
+
 <!-- Begin GPT -->
 <script type="text/javascript">
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-    (function() {
-         var gads = document.createElement("script");
-         gads.async = true;
-         gads.type = "text/javascript";
-         var useSSL = "https:" == document.location.protocol;
-         gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
-         var node =document.getElementsByTagName("script")[0];
-         node.parentNode.insertBefore(gads, node);
-     })();
-</script>
+    function loadGoogleAds() {
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+             var gads = document.createElement("script");
+             gads.async = true;
+             gads.type = "text/javascript";
+             var useSSL = "https:" == document.location.protocol;
+             gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+             var node =document.getElementsByTagName("script")[0];
+             node.parentNode.insertBefore(gads, node);
+         })();
+    }
 
-<script type="text/javascript" src="http://cdn.theatlanticcities.com/js/dfp.gpt.logger.override.js"></script>
+    function afterFinished_1406() {
+        Atlantic.Ad = Atlantic.Ad || {};
+        Atlantic.Ad.p39_categories = p39_KVP_Short('','').split('=').slice(1);
+        loadGoogleAds();
+    }
+</script>
+<script type="text/javascript" src="http://cdn.theatlanticcities.com/js/dfp.gpt.logger.override.js?1372791681"></script>
+
 <script type="text/javascript">
 googletag.cmd.push(function() {
     Atlantic.Ad.definitions = <!-- GPT REPLACEMENT BLOCK GOES HERE -->;
-    Atlantic.Ad.createDefinitions(Atlantic.Ad.definitions);
+    
 
     googletag.pubads().enableSingleRequest();
     googletag.pubads().collapseEmptyDivs();
@@ -85,6 +89,8 @@ googletag.cmd.push(function() {
 });
 </script>
 <!-- End GPT -->
+
+
 <script async="" type="text/javascript" src="http://theatlanticcities.disqus.com/count.js"></script><script async="" type="text/javascript" src="https://d8rk54i4mohrb.cloudfront.net/js/reach.js"></script></head>
 <body>
     <!-- BEGIN: Welcome Screens -->
@@ -117,22 +123,30 @@ var checkWelcomeScreen = function ($unit, size) {
     <div id="lightbox-body">
         <div id="lightbox-copy">Advertisement</div>
         <div id="lightbox-ad">
-            <script type="text/javascript">
-    Atlantic.Ad.sizeListener("welcometest", function($unit, size) { if (size && $unit.height() === 0) { $unit.css("height", "auto"); }});
+            
+<script type="text/javascript">
     
-    
-    Atlantic.Ad.sizeListener("welcometest", checkWelcomeScreen);
-    
+    Atlantic.Ad.sizeListener("welcometest", function($unit, size) {
+        if (size
+            && $unit.height() === 0) { $unit.css("height", "auto"); }
+        else if (!size) {
+            $unit.closest(".ad").css("display", "none");
+        }
+    });
+        
+            
+                Atlantic.Ad.sizeListener("welcometest", checkWelcomeScreen);
+            
+        
     
 </script>
 <div class="ad ad-welcometest">
-
     
 
     <div class="ad-container" id="ad-welcometest" style="height:0px;">
         <noscript>
-            <a href="http://pubads.g.doubleclick.net/gampad/jump?tile=1&amp;sz=640x480&amp;c=694314299&amp;iu=%2F4624%2FCities%2F&amp;t=kicker%3D%26title%3Dprivacy-policy%26pos%3Dwelcometest%26cat%3D%5B%5D">
-                <img src="http://pubads.g.doubleclick.net/gampad/ad?tile=1&amp;sz=640x480&amp;c=694314299&amp;iu=%2F4624%2FCities%2F&amp;t=kicker%3D%26title%3Dprivacy-policy%26pos%3Dwelcometest%26cat%3D%5B%5D" />
+            <a href="http://pubads.g.doubleclick.net/gampad/jump?tile=1&amp;sz=640x480&amp;c=127948108&amp;iu=%2F4624%2FCities%2F&amp;t=pos%3Dwelcometest">
+                <img src="http://pubads.g.doubleclick.net/gampad/ad?tile=1&amp;sz=640x480&amp;c=127948108&amp;iu=%2F4624%2FCities%2F&amp;t=pos%3Dwelcometest" />
             </a>
         </noscript>
         <script type="text/javascript">
@@ -142,6 +156,7 @@ var checkWelcomeScreen = function ($unit, size) {
         </script>
     </div>
 </div>
+
         </div>
     </div>
 </div></div>
@@ -219,18 +234,26 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 		<a href="#main" class="hidden">Skip to Content</a>
 		<a href="/"><img class="logo-print" src="http://cdn.theatlanticcities.com/img/site/logo.gif" width="218" height="103" alt="Atlantic Cities"></a>
 
-		<script type="text/javascript">
-    Atlantic.Ad.sizeListener("billboard", function($unit, size) { if (size && $unit.height() === 0) { $unit.css("height", "auto"); }});
+		
+<script type="text/javascript">
+    
+    Atlantic.Ad.sizeListener("billboard", function($unit, size) {
+        if (size
+            && $unit.height() === 0) { $unit.css("height", "auto"); }
+        else if (!size) {
+            $unit.closest(".ad").css("display", "none");
+        }
+    });
+        
     
 </script>
 <div class="ad ad-billboard">
-
     
 
     <div class="ad-container" id="ad-billboard" style="height:0px;">
         <noscript>
-            <a href="http://pubads.g.doubleclick.net/gampad/jump?tile=2&amp;sz=970x250%7C970x66&amp;c=555094080&amp;iu=%2F4624%2FCities%2F&amp;t=kicker%3D%26title%3Dprivacy-policy%26pos%3Dbillboard%26cat%3D%5B%5D">
-                <img src="http://pubads.g.doubleclick.net/gampad/ad?tile=2&amp;sz=970x250%7C970x66&amp;c=555094080&amp;iu=%2F4624%2FCities%2F&amp;t=kicker%3D%26title%3Dprivacy-policy%26pos%3Dbillboard%26cat%3D%5B%5D" />
+            <a href="http://pubads.g.doubleclick.net/gampad/jump?tile=2&amp;sz=970x250%7C970x66&amp;c=537932549&amp;iu=%2F4624%2FCities%2F&amp;t=pos%3Dbillboard">
+                <img src="http://pubads.g.doubleclick.net/gampad/ad?tile=2&amp;sz=970x250%7C970x66&amp;c=537932549&amp;iu=%2F4624%2FCities%2F&amp;t=pos%3Dbillboard" />
             </a>
         </noscript>
         <script type="text/javascript">
@@ -241,74 +264,75 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
     </div>
 </div>
 
+
 		<header class="page-top">
 	<ul>
 		
 						
 		
 		<li>
-			<a name="&amp;lpos=Skybox" href="/neighborhoods/2013/05/what-scar-tornado-looks-through-suburban-town/5703/" title="This Is What the Scar From a Tornado Looks Like Through a Suburban Town">
-				<img src="http://cdn.theatlanticcities.com/img/upload/2013/05/24/Screen_Shot_2013-05-24_at_10.39.44_AM/skybox.png" alt="This Is What the Scar From a Tornado Looks Like Through a Suburban Town" title="This Is What the Scar From a Tornado Looks Like Through a Suburban Town" height="92" width="147">
+			<a name="&amp;lpos=Skybox" href="/politics/2013/11/suburbs-are-new-swing-states/7706/" title="The Suburbs Are the New Swing States">
+				<img src="http://cdn.theatlanticcities.com/img/upload/2013/11/26/11.26_Sellers_lede_image_-_shutterblog_flickr/skybox.jpg" alt="The Suburbs Are the New Swing States" title="The Suburbs Are the New Swing States" height="92" width="147">
 
 
 			</a>
-			<a name="&amp;lpos=Skybox" href="/neighborhoods/2013/05/what-scar-tornado-looks-through-suburban-town/5703/" title="This Is What the Scar From a Tornado Looks Like Through a Suburban Town">
-				This Is What the Scar From a Tornado Looks Like Through a Suburban Town
-			</a>
-		</li>
-		
-		<li>
-			<a name="&amp;lpos=Skybox" href="/technology/2013/05/technology-alone-wont-save-poor-kids-struggling-schools/5694/" title="Technology Alone Won't Save Poor Kids in Struggling Schools">
-				<img src="http://cdn.theatlanticcities.com/img/upload/2013/05/23/shutterstock_111851402/skybox.jpg" alt="Technology Alone Won't Save Poor Kids in Struggling Schools" title="Technology Alone Won't Save Poor Kids in Struggling Schools" height="92" width="147">
-
-
-			</a>
-			<a name="&amp;lpos=Skybox" href="/technology/2013/05/technology-alone-wont-save-poor-kids-struggling-schools/5694/" title="Technology Alone Won't Save Poor Kids in Struggling Schools">
-				Technology Alone Won't Save Poor Kids in Struggling Schools
+			<a name="&amp;lpos=Skybox" href="/politics/2013/11/suburbs-are-new-swing-states/7706/" title="The Suburbs Are the New Swing States">
+				The Suburbs Are the New Swing States
 			</a>
 		</li>
 		
 		<li>
-			<a name="&amp;lpos=Skybox" href="/housing/2013/05/selling-public-public-housing/5687/" title="Selling the Public on Public Housing">
-				<img src="http://cdn.theatlanticcities.com/img/upload/2013/05/23/Public_Housing/skybox.JPG" alt="Selling the Public on Public Housing" title="Selling the Public on Public Housing" height="92" width="147">
+			<a name="&amp;lpos=Skybox" href="/housing/2013/12/favela-still-favela-once-it-starts-gentrifying/7726/" title="Is a Favela Still a Favela Once It Starts Gentrifying?">
+				<img src="http://cdn.theatlanticcities.com/img/upload/2013/11/27/RTX11WII/skybox.jpg" alt="Is a Favela Still a Favela Once It Starts Gentrifying?" title="Is a Favela Still a Favela Once It Starts Gentrifying?" height="92" width="147">
 
 
 			</a>
-			<a name="&amp;lpos=Skybox" href="/housing/2013/05/selling-public-public-housing/5687/" title="Selling the Public on Public Housing">
-				Selling the Public on Public Housing
-			</a>
-		</li>
-		
-		<li>
-			<a name="&amp;lpos=Skybox" href="/neighborhoods/2013/05/did-well-meaning-reality-tv-show-help-reinvigorate-vancouvers-anti-gentrification-movement/5697/" title="Did a Reality TV Show Reinvigorate Vancouver's Anti-Gentrification Push?">
-				<img src="http://cdn.theatlanticcities.com/img/upload/2013/05/23/GastownGamble.main/skybox.jpg" alt="Did a Reality TV Show Reinvigorate Vancouver's Anti-Gentrification Push?" title="Did a Reality TV Show Reinvigorate Vancouver's Anti-Gentrification Push?" height="92" width="147">
-
-
-			</a>
-			<a name="&amp;lpos=Skybox" href="/neighborhoods/2013/05/did-well-meaning-reality-tv-show-help-reinvigorate-vancouvers-anti-gentrification-movement/5697/" title="Did a Reality TV Show Reinvigorate Vancouver's Anti-Gentrification Push?">
-				Did a Reality TV Show Reinvigorate Vancouver's Anti-Gentrification Push?
+			<a name="&amp;lpos=Skybox" href="/housing/2013/12/favela-still-favela-once-it-starts-gentrifying/7726/" title="Is a Favela Still a Favela Once It Starts Gentrifying?">
+				Is a Favela Still a Favela Once It Starts Gentrifying?
 			</a>
 		</li>
 		
 		<li>
-			<a name="&amp;lpos=Skybox" href="/arts-and-lifestyle/2013/05/flags-fallen/5707/" title="Flags for the Fallen">
-				<img src="http://cdn.theatlanticcities.com/img/upload/2013/05/24/RTXZY9S/skybox.jpg" alt="Flags for the Fallen" title="Flags for the Fallen" height="92" width="147">
+			<a name="&amp;lpos=Skybox" href="/commute/2013/12/reality-check-cars-didnt-save-our-cities-horse-manure/7742/" title="Reality Check: Cars Didn't Save Our Cities From Being Buried in Horse Manure">
+				<img src="http://cdn.theatlanticcities.com/img/upload/2013/12/02/00138r/skybox.jpg" alt="Reality Check: Cars Didn't Save Our Cities From Being Buried in Horse Manure" title="Reality Check: Cars Didn't Save Our Cities From Being Buried in Horse Manure" height="92" width="147">
 
 
 			</a>
-			<a name="&amp;lpos=Skybox" href="/arts-and-lifestyle/2013/05/flags-fallen/5707/" title="Flags for the Fallen">
-				Flags for the Fallen
+			<a name="&amp;lpos=Skybox" href="/commute/2013/12/reality-check-cars-didnt-save-our-cities-horse-manure/7742/" title="Reality Check: Cars Didn't Save Our Cities From Being Buried in Horse Manure">
+				Reality Check: Cars Didn't Save Our Cities From Being Buried in Horse Manure
+			</a>
+		</li>
+		
+		<li>
+			<a name="&amp;lpos=Skybox" href="/commute/2013/12/americas-neglect-its-railroads-turning-deadly/7740/" title="America's Neglect of its Railroads Is Turning Deadly">
+				<img src="http://cdn.theatlanticcities.com/img/upload/2013/12/02/train-ap-mark-lennihan/skybox.jpg" alt="America's Neglect of its Railroads Is Turning Deadly" title="America's Neglect of its Railroads Is Turning Deadly" height="92" width="147">
+
+
+			</a>
+			<a name="&amp;lpos=Skybox" href="/commute/2013/12/americas-neglect-its-railroads-turning-deadly/7740/" title="America's Neglect of its Railroads Is Turning Deadly">
+				America's Neglect of its Railroads Is Turning Deadly
+			</a>
+		</li>
+		
+		<li>
+			<a name="&amp;lpos=Skybox" href="/neighborhoods/2013/11/photographing-decline-american-shopping-center/7724/" title="Photographing the Decline of the American Shopping Center">
+				<img src="http://cdn.theatlanticcities.com/img/upload/2013/11/27/Screen_Shot_2013-11-27_at_4.51.55_PM/skybox.png" alt="Photographing the Decline of the American Shopping Center" title="Photographing the Decline of the American Shopping Center" height="92" width="147">
+
+
+			</a>
+			<a name="&amp;lpos=Skybox" href="/neighborhoods/2013/11/photographing-decline-american-shopping-center/7724/" title="Photographing the Decline of the American Shopping Center">
+				Photographing the Decline of the American Shopping Center
 			</a>
 		</li>
 		
 		<li id="skybox-optional-post" style="display: none">
-			<a name="&amp;lpos=Skybox" href="/arts-and-lifestyle/2013/05/golden-gate-bridge-ruined-these-ugly-sculptures/5698/" title="Has the Golden Gate Bridge Been Ruined by These 'Ugly' Sculptures?">
-				<img src="http://cdn.theatlanticcities.com/img/upload/2013/05/23/crissy_field_sculpture_mark_di_suvero_golden_gate_bridge_nimby_complain_1/skybox.JPG" alt="Has the Golden Gate Bridge Been Ruined by These 'Ugly' Sculptures?" title="Has the Golden Gate Bridge Been Ruined by These 'Ugly' Sculptures?" height="92" width="147">
+			<a name="&amp;lpos=Skybox" href="/design/2013/12/east-bay-unveils-strange-new-kind-bike-rack/7729/" title="Believe It or Not, This Weird Funnel-Shaped Thing Is a Bike Rack">
+				<img src="http://cdn.theatlanticcities.com/img/upload/2013/11/27/bike_rack_new_design_east_bay_emeryville_public_market_san_francisco_oakland_real_estate_rentals_thanksgiving_2013_weather_snow_forecast_1/skybox.JPG" alt="Believe It or Not, This Weird Funnel-Shaped Thing Is a Bike Rack" title="Believe It or Not, This Weird Funnel-Shaped Thing Is a Bike Rack" height="92" width="147">
 
 
 			</a>
-			<a name="&amp;lpos=Skybox" href="/arts-and-lifestyle/2013/05/golden-gate-bridge-ruined-these-ugly-sculptures/5698/" title="Has the Golden Gate Bridge Been Ruined by These 'Ugly' Sculptures?">
-				Has the Golden Gate Bridge Been Ruined by These 'Ugly' Sculptures?
+			<a name="&amp;lpos=Skybox" href="/design/2013/12/east-bay-unveils-strange-new-kind-bike-rack/7729/" title="Believe It or Not, This Weird Funnel-Shaped Thing Is a Bike Rack">
+				Believe It or Not, This Weird Funnel-Shaped Thing Is a Bike Rack
 			</a>
 		</li>
 		
@@ -333,18 +357,26 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 			<div class="header">
 				<strong class="logo"><a href="/" accesskey="1">Atlantic Cities place matters</a></strong>
 				
-				<script type="text/javascript">
-    Atlantic.Ad.sizeListener("topleader", function($unit, size) { if (size && $unit.height() === 0) { $unit.css("height", "auto"); }});
+				
+<script type="text/javascript">
+    
+    Atlantic.Ad.sizeListener("topleader", function($unit, size) {
+        if (size
+            && $unit.height() === 0) { $unit.css("height", "auto"); }
+        else if (!size) {
+            $unit.closest(".ad").css("display", "none");
+        }
+    });
+        
     
 </script>
 <div class="ad ad-topleader">
-
     
 
     <div class="ad-container" id="ad-topleader" style="height:0px;">
         <noscript>
-            <a href="http://pubads.g.doubleclick.net/gampad/jump?tile=3&amp;sz=728x90%7C970x66%7C970x250%7C970x418&amp;c=413693109&amp;iu=%2F4624%2FCities%2F&amp;t=title%3Dprivacy-policy%26kicker%3D%26dcopt%3Dist%26pos%3Dtopleader%26cat%3D%5B%5D">
-                <img src="http://pubads.g.doubleclick.net/gampad/ad?tile=3&amp;sz=728x90%7C970x66%7C970x250%7C970x418&amp;c=413693109&amp;iu=%2F4624%2FCities%2F&amp;t=title%3Dprivacy-policy%26kicker%3D%26dcopt%3Dist%26pos%3Dtopleader%26cat%3D%5B%5D" />
+            <a href="http://pubads.g.doubleclick.net/gampad/jump?tile=3&amp;sz=728x90%7C970x66%7C970x250%7C970x418&amp;c=245843466&amp;iu=%2F4624%2FCities%2F&amp;t=dcopt%3Dist%26pos%3Dtopleader">
+                <img src="http://pubads.g.doubleclick.net/gampad/ad?tile=3&amp;sz=728x90%7C970x66%7C970x250%7C970x418&amp;c=245843466&amp;iu=%2F4624%2FCities%2F&amp;t=dcopt%3Dist%26pos%3Dtopleader" />
             </a>
         </noscript>
         <script type="text/javascript">
@@ -354,6 +386,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
         </script>
     </div>
 </div>
+
 			</div>
 			<div style="clear:both"></div>
 			<nav id="nav">
@@ -396,11 +429,15 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 								<select title="Browse by city">
 									<option>Browse by city</option>
 									
+									<option value="/hubs/abu-dhabi/">Abu Dhabi</option>
+									
 									<option value="/hubs/albuquerque/">Albuquerque</option>
 									
 									<option value="/hubs/amsterdam/">Amsterdam</option>
 									
 									<option value="/hubs/anchorage/">Anchorage</option>
+									
+									<option value="/hubs/athens/">Athens</option>
 									
 									<option value="/hubs/atlanta/">Atlanta</option>
 									
@@ -408,15 +445,23 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									
 									<option value="/hubs/baltimore/">Baltimore</option>
 									
+									<option value="/hubs/bangkok/">Bangkok</option>
+									
 									<option value="/hubs/barcelona/">Barcelona</option>
 									
 									<option value="/hubs/beijing/">Beijing</option>
 									
+									<option value="/hubs/beirut/">Beirut</option>
+									
 									<option value="/hubs/berlin/">Berlin</option>
+									
+									<option value="/hubs/bogota/">Bogotá</option>
 									
 									<option value="/hubs/boston/">Boston</option>
 									
 									<option value="/hubs/brussels/">Brussels</option>
+									
+									<option value="/hubs/budapest/">Budapest</option>
 									
 									<option value="/hubs/buenos-aires/">Buenos Aires</option>
 									
@@ -442,6 +487,8 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									
 									<option value="/hubs/dallas/">Dallas</option>
 									
+									<option value="/hubs/delhi/">Delhi</option>
+									
 									<option value="/hubs/denver/">Denver</option>
 									
 									<option value="/hubs/detroit/">Detroit</option>
@@ -460,7 +507,13 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									
 									<option value="/hubs/fresno/">Fresno</option>
 									
+									<option value="/hubs/glasgow/">Glasgow</option>
+									
+									<option value="/hubs/hamburg/">Hamburg</option>
+									
 									<option value="/hubs/helsinki/">Helsinki</option>
+									
+									<option value="/hubs/ho-chi-minh/">Ho Chi Minh</option>
 									
 									<option value="/hubs/hong-kong/">Hong Kong</option>
 									
@@ -470,9 +523,19 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									
 									<option value="/hubs/indianapolis/">Indianapolis</option>
 									
+									<option value="/hubs/istanbul/">Istanbul</option>
+									
 									<option value="/hubs/jacksonville/">Jacksonville</option>
 									
+									<option value="/hubs/jakarta/">Jakarta</option>
+									
+									<option value="/hubs/jerusalem/">Jerusalem</option>
+									
+									<option value="/hubs/johannesburg/">Johannesburg</option>
+									
 									<option value="/hubs/kansas-city/">Kansas City</option>
+									
+									<option value="/hubs/karachi/">Karachi</option>
 									
 									<option value="/hubs/las-vegas/">Las Vegas</option>
 									
@@ -487,6 +550,10 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									<option value="/hubs/louisville/">Louisville</option>
 									
 									<option value="/hubs/madrid/">Madrid</option>
+									
+									<option value="/hubs/manchester/">Manchester</option>
+									
+									<option value="/hubs/manila/">Manila</option>
 									
 									<option value="/hubs/melbourne/">Melbourne</option>
 									
@@ -526,6 +593,8 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									
 									<option value="/hubs/omaha/">Omaha</option>
 									
+									<option value="/hubs/osaka/">Osaka</option>
+									
 									<option value="/hubs/ottawa/">Ottawa</option>
 									
 									<option value="/hubs/paris/">Paris</option>
@@ -538,9 +607,13 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									
 									<option value="/hubs/portland/">Portland</option>
 									
+									<option value="/hubs/prague/">Prague</option>
+									
 									<option value="/hubs/raleigh/">Raleigh</option>
 									
 									<option value="/hubs/rio-de-janeiro/">Rio De Janeiro</option>
+									
+									<option value="/hubs/rome/">Rome</option>
 									
 									<option value="/hubs/sacramento/">Sacramento</option>
 									
@@ -558,7 +631,11 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									
 									<option value="/hubs/shanghai/">Shanghai</option>
 									
+									<option value="/hubs/singapore/">Singapore</option>
+									
 									<option value="/hubs/st-louis/">St. Louis</option>
+									
+									<option value="/hubs/st-petersburg/">St. Petersburg</option>
 									
 									<option value="/hubs/stockholm/">Stockholm</option>
 									
@@ -576,6 +653,8 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									
 									<option value="/hubs/vancouver/">Vancouver</option>
 									
+									<option value="/hubs/vienna/">Vienna</option>
+									
 									<option value="/hubs/warsaw/">Warsaw</option>
 									
 									<option value="/hubs/washington-dc/">Washington, DC</option>
@@ -587,6 +666,8 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									<option>Browse features</option>
 									
 									<option value="/posts/archives/">Archives</option>
+									
+									<option value="/posts/ask-a-mayor/">Ask a Mayor</option>
 									
 									<option value="/posts/bad-travel-writing/">Bad Travel Writing</option>
 									
@@ -606,6 +687,8 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									
 									<option value="/posts/Next-Great-Idea/">Next Great Idea</option>
 									
+									<option value="/posts/of-the-day/">Of The Day</option>
+									
 									<option value="/posts/olympicwatch/">Olympics 2012</option>
 									
 									<option value="/posts/photos/">Photos</option>
@@ -613,6 +696,8 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 									<option value="/posts/Postcard/">Postcard</option>
 									
 									<option value="/posts/rankings/">Rankings</option>
+									
+									<option value="/posts/startupcity/">Start-Up City</option>
 									
 									<option value="/posts/swarmwatch/">Swarm Watch</option>
 									
@@ -638,22 +723,30 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 					</section>
 
 
+
 <script type="text/javascript">
-    Atlantic.Ad.sizeListener("topbox", function($unit, size) { if (size && $unit.height() === 0) { $unit.css("height", "auto"); }});
     
-    
-    Atlantic.Ad.sizeListener("topbox", City.Ads.borderedUnit);
-    
+    Atlantic.Ad.sizeListener("topbox", function($unit, size) {
+        if (size
+            && $unit.height() === 0) { $unit.css("height", "auto"); }
+        else if (!size) {
+            $unit.closest(".ad").css("display", "none");
+        }
+    });
+        
+            
+                Atlantic.Ad.sizeListener("topbox", City.Ads.borderedUnit);
+            
+        
     
 </script>
 <div class="ad ad-topbox">
-
     
 
     <div class="ad-container" id="ad-topbox" style="height:0px;">
         <noscript>
-            <a href="http://pubads.g.doubleclick.net/gampad/jump?tile=1&amp;sz=300x250%7C336x280%7C300x600%7C336x1050&amp;c=10190262&amp;iu=%2F4624%2FCities%2F&amp;t=kicker%3D%26title%3Dprivacy-policy%26pos%3Dtopbox%26cat%3D%5B%5D">
-                <img src="http://pubads.g.doubleclick.net/gampad/ad?tile=1&amp;sz=300x250%7C336x280%7C300x600%7C336x1050&amp;c=10190262&amp;iu=%2F4624%2FCities%2F&amp;t=kicker%3D%26title%3Dprivacy-policy%26pos%3Dtopbox%26cat%3D%5B%5D" />
+            <a href="http://pubads.g.doubleclick.net/gampad/jump?tile=1&amp;sz=300x250%7C336x280%7C300x600%7C336x1050&amp;c=94254593&amp;iu=%2F4624%2FCities%2F&amp;t=pos%3Dtopbox">
+                <img src="http://pubads.g.doubleclick.net/gampad/ad?tile=1&amp;sz=300x250%7C336x280%7C300x600%7C336x1050&amp;c=94254593&amp;iu=%2F4624%2FCities%2F&amp;t=pos%3Dtopbox" />
             </a>
         </noscript>
         <script type="text/javascript">
@@ -663,6 +756,7 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
         </script>
     </div>
 </div>
+
 
 					<section class="social-block">
 						<h3>cities to go</h3>
@@ -700,13 +794,13 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 					<section class="bigfix-block">
 						<a href="/posts/big-fix/" id="bigfix-name"></a>
-						<h4><a href="/jobs-and-economy/2013/05/suburbanization-poverty/5633/">How should we fight <em>suburban poverty</em>?</a></h4>
+						<h4><a href="/commute/2013/11/selling-public-biking-political-campaign-style/7544/">What are the best ways to convince people to <em>ride bikes</em>?</a></h4>
 						
-						<h5><a href="/jobs-and-economy/2013/05/suburbanization-poverty/5633/" class="read-more">Read and discuss</a></h5>
+						<h5><a href="/commute/2013/11/selling-public-biking-political-campaign-style/7544/" class="read-more">Read and discuss</a></h5>
 
 						
 						
-						<h6><a href="/neighborhoods/2013/05/murky-ethics-and-uncertain-longevity-privately-financed-public-parks/5563/">Last week's question: How should cities finance a new generation of public parks?</a></h6>
+						<h6><a href="/jobs-and-economy/2013/11/americas-homeless-kids-crisis/7450/">Last week's question: How should cities help homeless families?</a></h6>
 						
 						
 					</section>
@@ -722,50 +816,46 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 								
 								<li>
 									
+									<a href="/commute/2013/11/procrastinators-guide-winter-bicycle-commuting/7603/"><img src="http://cdn.theatlanticcities.com/img/upload/2013/11/21/RTX14AKN/chart-large.jpg" alt="" title="" height="211" width="240">
+
+</a>
+									<p><a href="/commute/2013/11/procrastinators-guide-winter-bicycle-commuting/7603/">The Procrastinator's Guide to Winter Bicycle Commuting</a></p>
+								</li>
+								
+								<li>
+									
 									<strong class="kicker">
 										<a href="/posts/chart/">Charts</a>
 									</strong>
 									
-									<a href="/jobs-and-economy/2013/05/suburbanization-poverty/5633/"><img src="http://cdn.theatlanticcities.com/img/upload/2013/05/17/7096264671_0d26a48563_o1/chart-large.jpg" alt="" title="" height="211" width="240">
+									<a href="/jobs-and-economy/2013/11/fascinating-look-migration-patterns-among-american-states/7630/"><img src="http://cdn.theatlanticcities.com/img/upload/2013/11/18/us_census_state_migration_visual_1/chart-large.JPG" alt="" title="" height="211" width="240">
 
 </a>
-									<p><a href="/jobs-and-economy/2013/05/suburbanization-poverty/5633/">The Suburbanization of Poverty</a></p>
+									<p><a href="/jobs-and-economy/2013/11/fascinating-look-migration-patterns-among-american-states/7630/">A Bewitching Look at Migration Patterns Among American States</a></p>
 								</li>
 								
 								<li>
 									
 									<strong class="kicker">
-										<a href="/posts/map/">Maps</a>
+										<a href="/posts/ask-a-mayor/">Ask a Mayor</a>
 									</strong>
 									
-									<a href="/technology/2013/05/terrifying-fascinating-timelapse-30-years-human-impact-earth-gifs/5540/"><img src="http://cdn.theatlanticcities.com/img/upload/2013/05/09/Screen_Shot_2013-05-09_at_11.37.41_AM/chart-large.png" alt="" title="" height="211" width="240">
+									<a href="/politics/2013/11/who-runs-your-twitter-feed/7615/"><img src="http://cdn.theatlanticcities.com/img/upload/2013/11/17/ask-a-mayor-twitterC-STILL/chart-large.jpg" alt="" title="" height="211" width="240">
 
 </a>
-									<p><a href="/technology/2013/05/terrifying-fascinating-timelapse-30-years-human-impact-earth-gifs/5540/">A Terrifying, Fascinating Timelapse of 30 Years of Human Impact on Earth</a></p>
+									<p><a href="/politics/2013/11/who-runs-your-twitter-feed/7615/">Who Runs Your Twitter Feed? </a></p>
 								</li>
 								
 								<li>
 									
 									<strong class="kicker">
-										<a href="/posts/urban-wonk/">Urban Wonk</a>
+										<a href="/posts/video/">Videos</a>
 									</strong>
 									
-									<a href="/housing/2013/05/inequality-urban-tree-cover/5604/"><img src="http://cdn.theatlanticcities.com/img/upload/2013/05/15/shutterstock_123757966/chart-large.jpg" alt="" title="" height="211" width="240">
+									<a href="/neighborhoods/2013/11/gone-50-seconds-craziest-video-come-washington-illinois-tornado/7677/"><img src="http://cdn.theatlanticcities.com/img/upload/2013/11/22/lead_large/chart-large.png" alt="" title="" height="211" width="240">
 
 </a>
-									<p><a href="/housing/2013/05/inequality-urban-tree-cover/5604/">The Inequality of Urban Tree Cover</a></p>
-								</li>
-								
-								<li>
-									
-									<strong class="kicker">
-										<a href="/posts/map/">Maps</a>
-									</strong>
-									
-									<a href="/neighborhoods/2013/05/fantastic-map-500-years-meteorites-hitting-earth/5684/"><img src="http://cdn.theatlanticcities.com/img/upload/2013/05/22/meteor_spotting_map_sighting_adam_pierce_interactive_meteorite_asteroid_1998_QE2_May_31_2013_moon_nasa_KICK_ASS/chart-large.JPG" alt="" title="" height="211" width="240">
-
-</a>
-									<p><a href="/neighborhoods/2013/05/fantastic-map-500-years-meteorites-hitting-earth/5684/">A Fantastic Map of 500 Years of Meteorites Hitting Earth</a></p>
+									<p><a href="/neighborhoods/2013/11/gone-50-seconds-craziest-video-come-washington-illinois-tornado/7677/">Gone in 50 Seconds: The Craziest Video From the Washington, Illinois, Tornado</a></p>
 								</li>
 								
 							</ul>
@@ -783,28 +873,63 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 						<h3><span>most popular</span></h3>
 						<ol>
 							
-							<li><strong><a href="/technology/2013/05/terrifying-fascinating-timelapse-30-years-human-impact-earth-gifs/5540/" name="&amp;lpos=Most popular">A Terrifying, Fascinating Timelapse of 30 Years of Human Impact on Earth</a></strong></li>
+							<li><strong><a href="/politics/2013/11/suburbs-are-new-swing-states/7706/" name="&amp;lpos=Most popular">The Suburbs Are the New Swing States</a></strong></li>
 							
-							<li><strong><a href="/design/2013/05/why-you-cant-be-blase-about-next-worlds-tallest-building/5665/" name="&amp;lpos=Most popular">Why You Can't Be Blasé About the Next World's Tallest Building </a></strong></li>
+							<li><strong><a href="/housing/2013/12/one-answer-san-franciscos-overpriced-housing-co-living/7654/" name="&amp;lpos=Most popular">One Answer to San Francisco's Overpriced Housing: 'Co-Living'</a></strong></li>
 							
-							<li><strong><a href="/neighborhoods/2013/05/why-you-may-not-be-seeing-many-17-year-cicadas/5713/" name="&amp;lpos=Most popular">Why You May Not Be Seeing Many 17-Year Brood II Cicadas</a></strong></li>
+							<li><strong><a href="/design/2013/12/east-bay-unveils-strange-new-kind-bike-rack/7729/" name="&amp;lpos=Most popular">Believe It or Not, This Weird Funnel-Shaped Thing Is a Bike Rack</a></strong></li>
 							
-							<li><strong><a href="/design/2013/04/coming-bold-transformation-american-city/5437/" name="&amp;lpos=Most popular">The Coming Bold Transformation of the American City</a></strong></li>
+							<li><strong><a href="/commute/2013/12/americas-neglect-its-railroads-turning-deadly/7740/" name="&amp;lpos=Most popular">America's Neglect of its Railroads Is Turning Deadly</a></strong></li>
 							
-							<li><strong><a href="/neighborhoods/2013/05/were-only-beginning-understand-how-our-brains-make-maps/5678/" name="&amp;lpos=Most popular">We're Only Beginning to Understand How Our Brains Make Maps </a></strong></li>
+							<li><strong><a href="/neighborhoods/2013/11/photographing-decline-american-shopping-center/7724/" name="&amp;lpos=Most popular">Photographing the Decline of the American Shopping Center</a></strong></li>
 							
-							<li><strong><a href="/neighborhoods/2013/05/geography-teen-mothers/5493/" name="&amp;lpos=Most popular">The New Geography of Teen Mothers</a></strong></li>
+							<li><strong><a href="/housing/2013/12/favela-still-favela-once-it-starts-gentrifying/7726/" name="&amp;lpos=Most popular">Is a Favela Still a Favela Once It Starts Gentrifying?</a></strong></li>
 							
-							<li><strong><a href="/neighborhoods/2013/05/what-scar-tornado-looks-through-suburban-town/5703/" name="&amp;lpos=Most popular">This Is What the Scar From a Tornado Looks Like Through a Suburban Town</a></strong></li>
+							<li><strong><a href="/commute/2013/12/reality-check-cars-didnt-save-our-cities-horse-manure/7742/" name="&amp;lpos=Most popular">Reality Check: Cars Didn't Save Our Cities From Being Buried in Horse Manure</a></strong></li>
 							
-							<li><strong><a href="/commute/2013/05/case-caution-when-it-comes-building-street-cars/5699/" name="&amp;lpos=Most popular">The Case for Caution When It Comes to Building Streetcars</a></strong></li>
+							<li><strong><a href="/commute/2013/11/procrastinators-guide-winter-bicycle-commuting/7603/" name="&amp;lpos=Most popular">The Procrastinator's Guide to Winter Bicycle Commuting</a></strong></li>
 							
-							<li><strong><a href="/neighborhoods/2013/05/did-well-meaning-reality-tv-show-help-reinvigorate-vancouvers-anti-gentrification-movement/5697/" name="&amp;lpos=Most popular">Did a Well-Meaning Reality TV Show Help Reinvigorate Vancouver's Anti-Gentrification Movement?</a></strong></li>
+							<li><strong><a href="/commute/2013/11/why-correcting-misperceptions-about-mass-transit-may-be-more-important-improving-service/7719/" name="&amp;lpos=Most popular">Why Correcting Misperceptions About Mass Transit May Be More Important Than Improving Service</a></strong></li>
 							
-							<li><strong><a href="/technology/2012/10/water-spewing-swing-set-delight-and-frighten-children/3543/" name="&amp;lpos=Most popular">A Water-Spewing Swing Set to Delight and Frighten Children</a></strong></li>
+							<li><strong><a href="/jobs-and-economy/2013/08/how-poverty-taxes-brain/6716/" name="&amp;lpos=Most popular">How Poverty Taxes the Brain</a></strong></li>
 							
 						</ol>
 					</section>
+
+
+
+<script type="text/javascript">
+    
+    Atlantic.Ad.sizeListener("midboxright", function($unit, size) {
+        if (size
+            && $unit.height() === 0) { $unit.css("height", "auto"); }
+        else if (!size) {
+            $unit.closest(".ad").css("display", "none");
+        }
+    });
+        
+            
+                Atlantic.Ad.sizeListener("midboxright", City.Ads.borderedUnit);
+            
+        
+    
+</script>
+<div class="ad ad-midboxright">
+    
+
+    <div class="ad-container" id="ad-midboxright" style="height:0px;">
+        <noscript>
+            <a href="http://pubads.g.doubleclick.net/gampad/jump?tile=2&amp;sz=300x250%7C336x280&amp;c=572175746&amp;iu=%2F4624%2FCities%2F&amp;t=pos%3Dmidboxright">
+                <img src="http://pubads.g.doubleclick.net/gampad/ad?tile=2&amp;sz=300x250%7C336x280&amp;c=572175746&amp;iu=%2F4624%2FCities%2F&amp;t=pos%3Dmidboxright" />
+            </a>
+        </noscript>
+        <script type="text/javascript">
+            googletag.cmd.push(function () {
+                googletag.display("ad-midboxright");
+            });
+        </script>
+    </div>
+</div>
 
 
 
@@ -819,11 +944,11 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 								<a href="http://www.theatlantic.com/"><img src="http://cdn.theatlanticcities.com/img/upload/partner_logos/TheAtlanticLogo.png" alt="Atlantic" class="partner-logo"></a>
 								<ul>
 									
-									<li><a href="http://www.theatlantic.com/national/archive/2013/05/federal-judge-chronicles-lawlessness-of-joe-arpaio-led-sheriffs-office/276150/">Joe Arpaio's Lawless Sheriff Office</a></li>
+									<li><a href="http://www.theatlantic.com/business/archive/2013/12/the-anatomy-of-a-cyber-monday-hustle/281960/">It's Cyber Monday, and You Are Probably Getting Screwed</a></li>
 									
-									<li><a href="http://www.theatlantic.com/entertainment/archive/2013/05/rafael-nadal-is-probably-going-to-win-another-french-open-oddly-enough/276243/">Rafa! Still Unbeatable on Clay</a></li>
+									<li><a href="http://www.theatlantic.com/business/archive/2013/12/at-114-651-the-12-days-of-christmas-are-an-extremely-impractical-gift/281953/">That'll Be $199.99 for the Partridge</a></li>
 									
-									<li><a href="http://www.theatlantic.com/business/archive/2013/05/mike-bloomberg-wants-to-fucking-destroy-the-taxi-industry-heres-how-he-could-do-it/276238/">Bloomberg Versus The Cabbies</a></li>
+									<li><a href="http://www.theatlantic.com/politics/archive/2013/12/healthcaregov-and-obamas-micromanagement-problem/281943/">Obama's Micromanagement Problem</a></li>
 									
 								</ul>
 							</li>
@@ -831,14 +956,14 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 						
 							
 							<li>
-								<a href="http://www.theatlanticwire.com/"><img src="http://cdn.theatlanticcities.com/img/site/partner_logos/wire.gif" alt="Atlantic Wire" class="partner-logo"></a>
+								<a href="http://www.thewire.com/"><img src="http://cdn.theatlanticcities.com//partner_logos/wire_logo_71x32.png" alt="Atlantic Wire" class="partner-logo"></a>
 								<ul>
 									
-									<li><a href="http://www.theatlanticwire.com/national/2013/05/video-washington-bridge-collapse-terrifying/65603/">The Video of the Washington Bridge Collapse Is Terrifying</a></li>
+									<li><a href="http://www.thewire.com/politics/2013/12/two-obvious-reasons-big-budget-deal-isnt-likely/355655/">The Two Obvious Reasons a Big Budget Deal Isn't Likely</a></li>
 									
-									<li><a href="http://www.theatlanticwire.com/global/2013/05/racial-tensions-are-high-uk-police-arrest-three-more-connected-attack/65602/">Racial Tensions Are High as U.K. Police Arrest Three More Connected to Attack</a></li>
+									<li><a href="http://www.thewire.com/culture/2013/12/mother-jones-urged-its-interns-go-food-stamps-because-it-didnt-pay-them-enough/355654/">Mother Jones Urged Its Interns to Go on Food Stamps Because It Pays So Little</a></li>
 									
-									<li><a href="http://www.theatlanticwire.com/national/2013/05/weeks-second-bridge-collapse-happened-because-train-collision/65601/">The Week's Second Bridge Collapse Happened Because of a Train Collision</a></li>
+									<li><a href="http://www.thewire.com/technology/2013/12/amazons-drone-deliveries-may-be-sideshow-its-real-ambition-skies/355652/">Amazon's Drone Deliveries May Be a Sideshow for Its Real Ambition for the Skies</a></li>
 									
 								</ul>
 							</li>
@@ -849,11 +974,11 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 								<a href="http://www.nationaljournal.com/"><img src="http://cdn.theatlanticcities.com/img/site/partner_logos/nj.gif" alt="National Journal" class="partner-logo"></a>
 								<ul>
 									
-									<li><a href="http://www.nationaljournal.com/politics/why-is-it-so-hard-to-fire-a-low-performing-government-employee-20130524">Why Is it So Hard to Fire a Low-Performing Government Employee?</a></li>
+									<li><a href="http://www.nationaljournal.com/health-care/supreme-court-rejects-employer-mandate-challenge-20131202">Supreme Court Rejects Employer-Mandate Challenge</a></li>
 									
-									<li><a href="http://www.nationaljournal.com/politics/are-treasury-fed-at-odds-over-big-banks-20130524">Are Treasury, Fed at Odds Over Big Banks?</a></li>
+									<li><a href="http://www.nationaljournal.com/next-america/education/dreamers-crowdsourcing-to-a-degree-20131202">Dreamers Crowdsourcing to a Degree</a></li>
 									
-									<li><a href="http://www.nationaljournal.com/politics/are-treasury-and-the-fed-at-odds-over-big-banks-20130524">Are Treasury and the Fed at Odds Over Big Banks?</a></li>
+									<li><a href="http://www.nationaljournal.com/politics/gop-racism-is-over-most-americans-nope-20131201">GOP: Racism Is Over. Most Americans: Nope.</a></li>
 									
 								</ul>
 							</li>
@@ -864,11 +989,11 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 								<a href="http://www.qz.com/"><img src="http://cdn.theatlanticcities.com/img/upload/partner_logos/quartz.png" alt="Quartz" class="partner-logo"></a>
 								<ul>
 									
-									<li><a href="http://qz.com/88141/people-with-autism-are-not-necessarily-meant-to-be-computer-programmers/">People with autism are not necessarily meant to be computer programmers</a></li>
+									<li><a href="http://qz.com/152426/gaming-companies-cant-seem-to-avoid-sexist-marketing/">Gaming companies can’t seem to avoid sexist marketing</a></li>
 									
-									<li><a href="http://qz.com/88064/coffee-is-at-its-cheapest-in-three-years-but-your-latte-isnt/">Coffee is at its cheapest in three years (but your latte isn’t)</a></li>
+									<li><a href="http://qz.com/152818/online-tv-viewing-shows-how-traditional-broadcasters-get-prime-time-wrong/">Online TV viewing shows how traditional broadcasters get “prime time” wrong</a></li>
 									
-									<li><a href="http://qz.com/88091/how-exactly-would-mike-bloomberg-fucking-destroy-the-taxi-industry/">How exactly would Mike Bloomberg “fucking destroy” the taxi industry?</a></li>
+									<li><a href="http://qz.com/152788/australia-and-china-are-way-ahead-of-amazon-in-the-commercial-drone-race/">Australia and China are way ahead of Amazon in the commercial drone race</a></li>
 									
 								</ul>
 							</li>
@@ -1248,11 +1373,11 @@ __reach_config = {
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
   })();
 </script>
-	<script id="peer39ScriptLoader" type="text/javascript" src="http://stags.peer39.net/1406/trg_1406.js" defer=""></script>
+	<script id="peer39ScriptLoader" type="text/javascript" src="//stags.peer39.net/1406/trg_1406.js" defer=""></script>
 
 
 
-<!-- 2013-05-25 20:05:53.518249 -->
+<!-- 2013-12-02 13:45:27.298938 -->
 <!-- PAGE_COMPLETED -->
 
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
