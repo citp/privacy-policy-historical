@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dodeals.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118121920id_/http%3A//dodeals.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dodeals.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202132441id_/http%3A//dodeals.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Community Real Estate Investors Association - Your Most Comprehensive Real Estate Investing And Real Estate Investment Resources-Privacy Policy
 
