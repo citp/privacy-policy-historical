@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the banyantree.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514151513id_/http%3A//www.banyantree.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banyantree.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202182650id_/http%3A//www.banyantree.com/en/pages/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Banyan Tree Hotels & Resorts
+# Privacy Policy
 
 A. We respect the privacy of our users, and do not collect information from you without your knowledge. For example, when you make a reservation or purchase a product or service, we need to know your name, e-mail address, mailing address and credit card details. We use the information we collect to process your requests and to notify you of its status. We may further send to you occasionally at your designated email address notifications of new products, services or offers from us. You may opt out of receiving these notifications from us at any time by informing us at e-mail [webmaster@banyantree.com](mailto:webmaster@banyantree.com) Privacy Notice
 
