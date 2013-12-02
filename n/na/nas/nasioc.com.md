@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasioc.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502175143id_/http%3A//forums.nasioc.com/forums/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasioc.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202110300id_/http%3A//forums.nasioc.com/forums/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NASIOC
 
