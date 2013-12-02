@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rspb.org.uk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511160520id_/http%3A//www.rspb.org.uk/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rspb.org.uk privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202211649id_/http%3A//www.rspb.org.uk/help/privacy.aspx) for the most accurate reproduction.*
 
-# The RSPB: About our site: Privacy and security
+# The RSPB: About our site: Privacy and cookies policy
 
 Print page
 
   * [Home](https://web.archive.org/) >
   * [About our site](https://web.archive.org/help/) >
-  * Privacy and security
+  * Privacy and cookies policy
 
 
 
@@ -37,12 +37,19 @@ The RSPB and RSPB Sales Ltd will use your details for:
   * Marketing purposes
   * Fulfilment of orders for goods and services
   * Administration of donations and legacies
+  * Administering volunteer records
   * Customer satisfaction surveys
   * In-house research and analysis
+  * The purpose of prevention and detection of crime
+  * Informing you about products and services
 
 
+
+We may share your details with trusted service providers in order to fulfil the above services.  Where this service is done on behalf of the RSPB this is done under contract and relevant security measures are taken.
 
 ### Disclosure of data
+
+We will not sell your data to any third party; however, we may share with trusted service providers in order to fulfil the required services to you.
 
 Where other companies are used to capture data or undertake fulfilment services on our behalf, these activities are carried out under contract in compliance with the Data Protection Act requirements.
 
@@ -60,11 +67,15 @@ The RSPB and RSPB Sales Ltd will use your details to tell you about our conserva
 
 For further information on the full range of our activities and your privacy choices, please see our Privacy Policy or contact Supporter Services on tel: 01767 693680.
 
-By submitting this registration form, you will be indicating your consent to receiving marketing messages from us UNLESS you have indicated an objection to receiving such messages by ticking the appropriate box.
+You will be indicating your consent to receiving marketing messages from us UNLESS you have indicated an objection to receiving such messages by ticking the appropriate box. You will continue to receive information of those products or services that are likely to be of interest to you, in accordance with the preferences that you indicated when you provided your personal data.
+
+If at any point you would like to opt out of receiving communications, including marketing, from us or would like to change the channel of communication for example email or post that we use to contact you, please contact Supporter Services, RSPB, the Lodge, Sandy Bedfordshire SG19 2DL or telephone 01767 693680.
 
 ### Users aged under 18
 
-If you are aged under 18, please ensure you obtain your parent/guardian's consent before sending any personal information to this website. Please note that the RSPB will not accept online donations or orders for goods or services from persons aged under 18 years.
+If you are aged under 18, please ensure you obtain your parent/guardian's consent before sending any personal information to this website or the RSPB. Please note that the RSPB will not accept online donations or orders for goods or services from persons aged under 18 years.
+
+We do have activities for under 18, our younger audience, prior to taking part in these please ensure you speak to your parent or guardian.
 
 ### Parents and guardians
 
@@ -72,7 +83,7 @@ We encourage you to be aware of the activities in which your children are partic
 
 ### Access to your own information
 
-You can contact us anytime by letter or telephone to change or update your details, or obtain a copy of your record.
+You can contact us anytime by letter or telephone to change or update your details.  You can obtain a copy of your record (this is known as subject access request), please note that we reserve the right to charge a fee of £10 for any such request.  
 
 If you have any problems or queries about your data, please contact Supporter Services, RSPB, The Lodge, Sandy, Bedfordshire SG19 2DL or telephone 01767 693680.
 
@@ -96,24 +107,22 @@ The type of cookies used and their purpose is explained further:
 
 
 
-A list of the main cookies the RSPB uses can be found [here](https://web.archive.org/help/cookies.aspx).
+A list of the main cookies the RSPB uses can be found [here](http://www.rspb.org.uk/help/cookies.aspx).
 
 Further information about cookies including how to manage and delete them can be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 ### Financial security
 
-All RSPB forms which request credit card or bank details use the SSL (Secure Sockets Layer) protocol for encryption. Most browsers (Microsoft Explorer, Mozilla Firefox, Safari, etc) support SSL. The link between your browser and the server is secure if your browser displays a small padlock or key symbol somewhere in the frame, or the address bar shows a web address beginning https:// (rather than http://).
+All RSPB forms which request credit card or bank details use the SSL (Secure Sockets Layer) protocol for encryption. Most web browsers (Microsoft Explorer, Mozilla Firefox, Safari, Google Chrome etc) support SSL. The link between your web browser and the server is secure if your web browser displays a small padlock or key symbol somewhere in the frame, or the address bar shows a web address beginning https:// (rather than http://).
 
 ### Links to third party websites
 
-The RSPB website contains hyperlinks to many other websites. This information is supplied in good faith, in case it is of interest, or use, to RSPB website users. The RSPB is not responsible for the content or functionality of any of these external websites – but please let us know if a link is not working (use the 'Contact us' link which can be found at the top of every page). Visitors to the RSPB website should be aware of the following:
+The RSPB website contains hyperlinks to many other websites. This information is supplied in good faith, in case it is of interest, or use, to RSPB website users. The RSPB is not responsible for the content or functionality of any of these external websites – but please let us know if a link is not working (use the '[Contact us](http://www.rspb.org.uk/contactus/)' link which can be found at the top of every page). Visitors to the RSPB website should be aware of the following:
 
-If an external website requests personal information from you (eg. in connection with an order for goods or services), this information is supplied to, stored and used by the company concerned – it is not covered by the RSPB's Data Protection Notice. It is good practice to read the privacy policy of any website at which you are considering registering any personal information.
+If an external website requests personal information from you (eg in connection with an order for goods or services), this information is supplied to, stored and used by the company concerned – it is not covered by the RSPB's Data Protection Notice. It is good practice to read the privacy policy of any website at which you are considering registering any personal information.
 
 In purchasing goods or services from any of the companies to which the RSPB site links, you are forming a contract with the company(s) concerned (agreeing to their terms and conditions), not the RSPB.
 
 ### Notification of change of Privacy Policy
-
-We are currently updating our systems and processes, if you have any queries regarding this policy please contact Supporter Services, tel: 01767 693680.
 
 The RSPB reserves the right to amend this Privacy Policy at any time. Notice of any change will be posted on our website and will be deemed effective on publication. Your continued use of this website after changes are posted constitutes your acceptance of these Terms and Conditions.
