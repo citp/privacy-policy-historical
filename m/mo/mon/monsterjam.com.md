@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsterjam.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524215517id_/http%3A//www.monsterjam.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterjam.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202015117id_/http%3A//www.monsterjam.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # THE OFFICIAL WEBSITE OF ADVANCE AUTO PARTS MONSTER JAM MONSTER TRUCKS - Privacy Policy
 
@@ -87,8 +87,7 @@ e. Third Party Links - The Site may contain links to third-party Internet websit
  **5\. Opt-In Policy**  
 a. FEI Communications \- When you supply FEI with PII, from time-to-time, in FEI's discretion, you may be asked to indicate whether you are interested in receiving information from us about special offers in connection with the Site, FEI, our affiliates, vendors or advertisers. If you do choose to opt-in to receive such communications, we may, from time to time, send you marketing communications. If at any time you change your mind and no longer wish to receive marketing communications from us, you may opt-out of such marketing communications by either: 
 
-"Using the link provided in our newsletters or commercial email messages to opt-out of receiving further marketing communications from us?; or   
-"Changing your contact preference to "Do Not Contact Me" at any time by using the "Ask a Question" tab on our Help Page. 
+Using the link provided in our newsletters or commercial email messages to opt-out of receiving further marketing communications from us; or Changing your contact preference to "Do Not Contact Me" at any time by using the "Ask a Question" tab on our Help Page. 
 
 If you decide to contact us to change your contact preference to "Do Not Contact Me", FEI will implement this change in a reasonable time frame. Please be aware that your requested change will not be effective until FEI implements such change, and such requests will be implemented only in connection with your Site profile, and will not impact any preferences you may have made to any other site controlled, owned or operated by FEI or its affiliates.
 
