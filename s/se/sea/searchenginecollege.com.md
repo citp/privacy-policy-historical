@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchenginecollege.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625131119id_/http%3A//www.searchenginecollege.com/search-engine-college-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginecollege.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202042425id_/http%3A//www.searchenginecollege.com/search-engine-college-privacy) for the most accurate reproduction.*
 
 # Privacy | Search Engine College
 
@@ -18,7 +18,11 @@ When you register with our site or purchase products or services from us, we col
 
 **How do you store my personal information?**
 
-Your information is held in electronic form in our databases. We take the strictest precautions to ensure the security of that information.
+Your information is held in electronic form in our secure databases. We take the strictest precautions to ensure the security of that information.
+
+**Do you store my credit card information?**
+
+We use Swipe HQ (Auckland, New Zealand) and 2Checkout (Ohio, USA) as our merchant payment gateways for customer purchases. Your credit card information will only be stored by our payment gateway partners if you agree to this option during the checkout process. Swipe HQ and 2Checkout both follow strict security procedures to ensure your private information is stored as securely as possible.
 
 **Why did I receive an email from you?**
 
@@ -34,8 +38,8 @@ We will never share, sell, or rent individual personal information with a third 
 
 **How can I stop receiving email from you?**
 
-Email sent to you should contain an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email.
+Every email sent to you from us should contain an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email. Usually this is in the form of a *unsubscribe* link.
 
-If you have received unwanted, unsolicited email sent via our company or purporting to be sent from us, please [contact us](http://www.searchenginecollege.com/contact-us/ "contact us").
+If you have received unwanted, unsolicited email sent via our company or purporting to be sent from us, please [contact us](http://www.searchenginecollege.com/contact-us/ "contact us") as soon as possible so we can deal with it swiftly.
 
 This entry was posted on 30 June 2010 at 1:41 pm and is filed under [Fine Print](http://www.searchenginecollege.com/topics/fine-print/ "View all posts in Fine Print"). You can subscribe to any comments to this entry via [RSS 2.0](http://www.searchenginecollege.com/search-engine-college-privacy/feed/). Both comments and pings are currently closed. 
