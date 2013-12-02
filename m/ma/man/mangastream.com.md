@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mangastream.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523120019id_/http%3A//mangastream.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangastream.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202215903id_/http%3A//mangastream.com/content/privacy) for the most accurate reproduction.*
 
-# Manga Stream - Privacy Policy
+# Privacy Policy - Manga Stream
 
 We recognize that privacy of your personal information is important. We will never sell your personal information to third parties without your solicitation. 
 
@@ -18,4 +18,4 @@ We use cookies to store information for your convenience to save color preferenc
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can greatly affect how you are able to interact with our site as well as most other websites. This could include the inability to login to our website for longer than a single browser session. 
 
-[Click here to return to our homepage](https://web.archive.org/)
+* * *
