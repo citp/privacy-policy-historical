@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcsandiego.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616002036id_/http%3A//www.nbcsandiego.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcsandiego.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202165015id_/http%3A//www.nbcsandiego.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NBC 7 San Diego
 
