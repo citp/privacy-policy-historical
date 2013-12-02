@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techprone.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602035246id_/http%3A//www.techprone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techprone.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202025357id_/http%3A//www.techprone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tech Prone - Mobile | Gadgets | Photography | How to | Android
+# Privacy Policy | Tech Prone
 
 **Techprone** provides regular source of updates via Emails and Rss feeds. We are serious on protecting your private data. We assured you that it will only be used to support your relationship with techprone.com. This privacy policy is intended for all users of techprone.com.
 
