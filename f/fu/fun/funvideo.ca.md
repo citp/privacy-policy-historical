@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funvideo.ca privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620105834id_/http%3A//www.funvideo.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funvideo.ca privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202121324id_/http%3A//www.funvideo.ca/privacy.html) for the most accurate reproduction.*
 
 # 
 
