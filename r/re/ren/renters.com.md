@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the renters.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503034226id_/http%3A//www.renters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renters.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202212613id_/http%3A//www.renters.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Renters
-
-### Privacy Policy
+# Privacy Policy
 
 Renters.com, managed by Left of The Dot Media Inc. (collectively "Renters.com"), is committed to protecting the privacy of each of its users. We want you to feel free to express yourself within your web pages (within legal limitations) and we are committed to allowing you to feel secure in your own private environment, putting you in control of what you share.
-
-Renters.com values the privacy of visitors to its site. This Privacy Policy describes the type of information we collect from you, and what we do with that information. The privacy policy shall be accepted as part of the Terms of Service.
 
 Renters.com values the privacy of visitors to its site. This Privacy Policy describes the type of information we collect from you, and what we do with that information. The privacy policy shall be accepted as part of the Terms of Service.
 
