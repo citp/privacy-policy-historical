@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamefoo.net privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227121637id_/http%3A//www.gamefoo.net/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefoo.net privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202024254id_/http%3A//www.gamefoo.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - gamefoo
+# gamefoo.net - Privacy Policy
 
 KH Media, LLC ("GameFoo") operates a variety of web sites ("Web Site" or "Site") including www.gamefoo.net and is committed to protecting the privacy of our Web Site users ("Users") and KH Media, LLC members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. KH Media, LLC will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
 
