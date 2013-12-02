@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cincyshopper.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602192530id_/http%3A//cincyshopper.com/%3Fpage_id%3D2047) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cincyshopper.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202011152id_/http%3A//cincyshopper.com/%3Fpage_id%3D2047) for the most accurate reproduction.*
 
 # Privacy Policy - CincyShopper
 
