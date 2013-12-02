@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redgiant.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602174115id_/http%3A//www.redgiant.com/support/buyers-guide/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redgiant.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202162545id_/http%3A//www.redgiant.com/support/buyers-guide/privacy-policy) for the most accurate reproduction.*
 
 # Red Giant - Support - Buyers Guide - Privacy Policy
 
@@ -6,17 +6,17 @@ Red Giant collects both certain personal information and certain non-personal in
 
 Collection of personal information
 
- As a visitor to this Site, you can engage in many activities without providing any personal information. In connection with other activities, such as placing orders or downloading software, Red Giant Software may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, Red Giant Software may ask that you provide us personal information, such as your first and last name, mailing address (including postal code), e-mail address, telephone and facsimile numbers, and other personal information. When ordering products on the Site, you will be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
+ As a visitor to this Site, you can engage in many activities without providing any personal information. In connection with other activities, such as placing orders or downloading software, Red Giant Software may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, Red Giant may ask that you provide us personal information, such as your first and last name, mailing address (including postal code), e-mail address, telephone and facsimile numbers, and other personal information. When ordering products on the Site, you will be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
 
- When you submit personal information to Red Giant Software through the Site, you understand and agree that this information may be transferred and stored across national boundaries.
+ When you submit personal information to Red Giant through the Site, you understand and agree that this information may be transferred and stored across national boundaries.
 
  How your personal information is used
 
- Red Giant Software collects your information in order to record and support your participation in the activities you select.  When you register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users.  As another example, if you enter a contest, information is collected to qualify the entry and to contact you regarding the contest or prize awards. Your personal information is also used to track customer preferences and keep you informed about product upgrades, special offers, and other products and services of Red Giant Software as part of our newsletter service.
+ Red Giant collects your information in order to record and support your participation in the activities you select.  When you register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users.  As another example, if you enter a contest, information is collected to qualify the entry and to contact you regarding the contest or prize awards. Your personal information is also used to track customer preferences and keep you informed about product upgrades, special offers, and other products and services of Red Giant as part of our newsletter service.
 
- Red Giant Software recognizes and appreciates the importance of responsible use of information collected on the Site. Red Giant Software may communicate information to you regarding products, services, and special offers available from Red Giant Software or selected third parties.  Except in the particular circumstances described in this Privacy Policy, Red Giant Software will also not provide your name to other companies or organizations without your consent.
+ Red Giant Software recognizes and appreciates the importance of responsible use of information collected on the Site. Red Giant may communicate information to you regarding products, services, and special offers available from Red Giant Software or selected third parties.  Except in the particular circumstances described in this Privacy Policy, Red Giant Software will also not provide your name to other companies or organizations without your consent.
 
- There are other instances in which Red Giant Software may divulge your personal information, such as where required by law, regulation, or litigation. We may also disclose information about you if we determine that such disclosure should be made for reasons of national security, law enforcement, or other issues of public importance.
+ There are other instances in which Red Giant may divulge your personal information, such as where required by law, regulation, or litigation. We may also disclose information about you if we determine that such disclosure should be made for reasons of national security, law enforcement, or other issues of public importance.
 
 Collection of non-personal information 
 
@@ -60,15 +60,28 @@ Usage Statistics collects statistics about how you use BulletProof, including:
 
 **HOW TO CHANGE OPTIONS**
 
-Red Giant automatically collects usage statistics so we can improve your BulletProof experience. Usage Statistics are turned on for the free beta version of BulletProof. 
+Red Giant automatically collects usage statistics so we can improve your BulletProof experience. Usage Statistics are turned on for the shipping version of BulletProof. 
 
 If you prefer to turn off Usage Statistics, follow instructions for doing so that are included in the application.
 
 Last Updated: April 19, 2013 
 
+Google Display Advertising
+
+  * Red Giant has implemented Google Analytics features based on Display Advertising including, Remarketing and Google Display Network Impression Reporting.
+  * Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
+  * Red Giant uses Remarketing with Google Analytics to advertise online.
+  * Third-party vendors, including Google, show Red Giant ads on sites across the Internet.
+  * Red Giant and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to Red Giant's website.
+  * Red Giant and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to Red Giant's site.
+
+
+
+Last Updated: November 12, 2013 
+
 Protection of your personal information
 
- The personal information that you provide in connection with registering yourself as a user of Red Giant Software products or services, testing a demonstration version of Red Giant Software products, or registering a Red Giant Software product is classified as Registration Information. Registration Information is only available to authorized Red Giant Software employees or contractors and are not publicly distributed.
+ The personal information that you provide in connection with registering yourself as a user of Red Giant Software products or services, testing a demonstration version of Red Giant Software products, or registering a Red Giant product is classified as Registration Information. Registration Information is only available to authorized Red Giant Software employees or contractors and are not publicly distributed.
 
  Please note that any information you post to a public bulletin board or chat room, such as the Red Giant Software User Forum, is available to all persons accessing that site. The Red Giant Software User Forum is hosted by Toolfarm.com which has its own privacy policies which you should read before participating on the forums.
 
