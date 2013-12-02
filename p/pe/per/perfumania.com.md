@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perfumania.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528061237id_/http%3A//www.perfumania.com/content/footerlinks3/privacy-policy/content.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfumania.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202024541id_/http%3A//www.perfumania.com/content/footerlinks3/privacy-policy/content.html) for the most accurate reproduction.*
 
-# Perfumania | Privacy Policy
+# Privacy Policy at Perfumania.com
 
 Why do we gather information?
 
