@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macpaw.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430084116id_/http%3A//macpaw.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macpaw.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202235708id_/http%3A//macpaw.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy for CleanMyMac, CleanMyPC, MacHider and Ensoul
 
@@ -12,27 +12,24 @@ Updates of our Privacy Policy are completed frequently, thus you should peruse t
 
 **WHAT WE COLLECT**
 
-**A**. When you place an order, we collect basic information such as your name, address and other contact details, payment and technical information.
+  1. When you place an order, we collect basic information such as your name, address and other contact details, payment and technical information.
+  2. You may be asked to provide additional Personal Data in course of: 
+    * Communicating with us about your order.
+    * Supplying feedback and information about your use of our products.
+    * Requesting us to stay in touch with you.
+  3. Our server may log your IP address when you visit macpaw.com.
 
-**B**. You may be asked to provide additional Personal Data in course of:
 
-          **I**. Communicating with us about your order.
-
-          **II**. Supplying feedback and information about your use of our products.
-
-          **III**. Requesting us to stay in touch with you.
-
-**C**. Our server may log your IP address when you visit macpaw.com.
 
 **USE OF YOUR INFORMATION**
 
 We use your information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**A**. We use your Personal Data to administer, or communicate with you about your order.
+  1. We use your Personal Data to administer, or communicate with you about your order.
+  2. We may use the information to enhance product quality and to determine future product direction.
+  3. Provided you have opted in on our website, we may provide information about new and existing products that may be of interest to you.
 
-**B**. We may use the information to enhance product quality and to determine future product direction.
 
-**C**. Provided you have opted in on our website, we may provide information about new and existing products that may be of interest to you.
 
 **USE OF COOKIES**
 
@@ -42,13 +39,19 @@ We may use cookies to provide a more personalized and user-friendly visit to our
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**JAVA SCRIPT**
+**JAVASCRIPT**
 
 JavaScript is often used to quickly display the backordered products, recalculate an order if a different shipping method is selected, show additional info on products and do other useful things to help customers use the site. You don't need to have JavaScript enabled in order to fully experience our site, but the features it provides may help you enhance the way you do shopping and, as a result, make the whole process more convenient and comfortable for you.
 
 **THIRD PARTY ADVERTISING**
 
-Third party advertising companies are used to serve ads about our products. Such companies collect the info about your browsing experience, which then can be used to show you ads about potentially interesting services and goods. Note, that NO personal info, such as name, email address, telephone number or real address, is being gathered. If you want to know more about third party advertising and correct what type of information about you is allowed to be gathered by such companies, visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+Third party advertising companies are used to serve ads about our products. We implemented and use Google Display Advertising, Remarketing with Google Analytics, AdRoll, Quantcast, mediaFORGE and other companies to advertise online. MacPaw and third-party vendors, including Google, use first-party cookies (such as the Google Analytics, Quantcast cookie) and third-party cookies (such as the DoubleClick, Adroll, mediaFORGE cookie) together to inform, optimize, and serve ads based on your past visits to MacPaw website. Note, that NO personal info, such as name, email address, telephone number or real address, is being gathered. If you want to know more about third party advertising and correct what type of information about you is allowed to be gathered by such companies, visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings [here](https://www.google.com/settings/ads).  
+You can opt-out of AppNexus cookies [here](http://www.appnexus.com/platform-policy#choices).  
+You can opt-out of AdRoll cookies [here](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=true).  
+You can opt-out of Quantcast cookies [here](https://www.quantcast.com/opt-out).  
+You can opt-out of mediaFORGE and other third-party cookies [here](http://www.networkadvertising.org/choices). 
 
 **HOW WE PROTECT PERSONAL DATA**
 
@@ -62,13 +65,12 @@ Our site may contain links that belong to third parties. Any third party website
 
 **TO WHOM WE DISCLOSE PERSONAL DATA**
 
-**A**. We treat customer Personal Data and information as private and confidential, and we will not disclose this it to other individuals or organizations unless required by law. We will not distribute your Personal Data to be used in mailing lists, surveys, or for any other purpose other than what is stated in the "Use of your information" section.
+  1. We treat customer Personal Data and information as private and confidential, and we will not disclose this it to other individuals or organizations unless required by law. We will not distribute your Personal Data to be used in mailing lists, surveys, or for any other purpose other than what is stated in the "Use of your information" section.
+  2. We may disclose Personal Data so far as reasonably necessary: 
+    * To third parties including our hosting company, third party internet billing service providers.
+    * When we are required to do so by applicable laws, statutes, regulations, standards or codes of conduct.
 
-**B**. We may disclose Personal Data so far as reasonably necessary:
 
-          **I**. To third parties including our hosting company, third party internet billing service providers.
-
-          **II**. When we are required to do so by applicable laws, statutes, regulations, standards or codes of conduct.
 
 **ACCESSING AND RECTIFYING YOUR PERSONAL DATA**
 
