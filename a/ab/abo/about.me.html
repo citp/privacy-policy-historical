@@ -1,28 +1,58 @@
-<!--The following is the downloaded HTML source of the about.me privacy policy that was archived on 2013-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628105732id_/http%3A//about.me/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the about.me privacy policy that was archived on 2013-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202081516id_/http%3A//about.me/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://www.w3.org/2005/10/profile">
-    <script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/fd27a0b2f6652a46eed1ad15f26aed09717cd6b5.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
-    <link rel="shortcut icon" href="http://o.aolcdn.com/aboutme/production181/images/icons/favicon.ico">
-    <link rel="stylesheet" type="text/css" href="http://o.aolcdn.com/aboutme/core/v1.1.12/aboutme.core.css">
-    <link rel="stylesheet" type="text/css" href="http://o.aolcdn.com/aboutme/production181/css/aboutme.css?ts=1357231586249">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<link rel="shortcut icon" href="http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/images/icons/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="http://d2ed0w4q03gsmw.cloudfront.net/core/v1.1.32/aboutme.core.css">
+	<link rel="stylesheet" type="text/css" href="http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/css/aboutme.min.css">
 	<!--[if IE 7]>
-	    <link rel="stylesheet" type="text/css" href="http://o.aolcdn.com/aboutme/production181/css/ie7.css?ts=1357231586249" />
+	<link rel="stylesheet" type="text/css" href="http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/css/lib/ie7.css" />
 	<![endif]-->
 	<!--[if IE 8]>
-	    <link rel="stylesheet" type="text/css" href="http://o.aolcdn.com/aboutme/production181/css/ie8.css?ts=1357231586249" />
+	<link rel="stylesheet" type="text/css" href="http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/css/lib/ie8.css" />
 	<![endif]-->
-<!-- REQUIRESJS STUFF -->
-	<script src="http://o.aolcdn.com/aboutme/production181/js/amd-compiled/require/require.js"></script>
-<script type="text/javascript">
+	<meta name="apple-itunes-app" content="app-id=500230347">
+	<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/fd27a0b2f6652a46eed1ad15f26aed09717cd6b5.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/js/mobile/modernizr-custom.js"></script>
+	<script type="text/javascript">
+	(function(){
+		var d = document, s = d.createElement('script');
+		s.type = 'text/javascript';
+		s.src = 'http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/js/mobile/respond.min.js';
+		Modernizr.mq('(min-width:0)') || d.getElementsByTagName('head')[0].appendChild(s);
+	})();
+	</script>
+	<script src="http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/js/amd-compiled/require/require.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/raven.js/1.0.8/raven.min.js"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+    if (window.Raven){ Raven.config("http://85b9f4c0acbc4c749ea43615ea3b577d@sentry2.aboutme-cloud.net/5", {}).install(); }
+    //]]>
+    </script>
+<script type="text/javascript" id="globals">
 //<![CDATA[
 /* About.me Require Config */
 (function(requirejs) {
+    /* Configure Raven to handle require() failures a bit more gracefully. */
+    if (window.Raven){
+        requirejs.onError = function(err){
+            /* This captures errors that happen trying to load a module. This
+             * can be a "timeout", a "scripterror" (i.e. 404), or a "nodefine".
+             * This does NOT include thrown errors and syntax errors.
+             * http://requirejs.org/docs/api.html#errbacks
+             */
+            /* We delete err.originalError because it contains a circular
+             * reference that can't be serialized by Raven. We might want to
+             * pick out some individual values to include in the extra data we
+             * send. */
+            delete err.originalError;
+            Raven.captureMessage("Require failed", {extra: err});
+        };
+    }
 	var config = {
-		baseUrl: 'http://o.aolcdn.com/aboutme/production181/js/amd-compiled/',
+		baseUrl: 'http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40/js/amd-compiled/',
 		paths: {
-			'easyxdm': 'http://o.aolcdn.com/aboutme/core/easyxdm/easyxdm2.4.15',
-			'carousel': 'http://o.aolcdn.com/aboutme/core/plugins/carousel1.7',
+			'easyxdm': 'http://d2ed0w4q03gsmw.cloudfront.net/core/easyxdm/easyxdm2.4.15',
+			'carousel': 'http://d2ed0w4q03gsmw.cloudfront.net/core/plugins/carousel2.4',
 			'log': 'lib/log',
 			'viewer': 'controller/viewer',
 			'mobile': 'controller/mobile',
@@ -56,10 +86,8 @@
 		'jstorage',
 		'lazyshow',
 		'matchFontSize',
-		'msDropDown',
 		'payments',
 		'prettyDate',
-		'roundabout',
 		'shrinkLine',
 		'shrinkWrap',
 		'throttle',
@@ -85,117 +113,124 @@ define('globals', function() {
 	g.DOMAIN_NAME = "about.me";
 	g.DOMAIN_NAME_URL = "http://about.me";
 	g.SSL_DOMAIN = "https://about.me";
-	g.STATIC_HOSTNAME = "http://o.aolcdn.com/aboutme/production181";
+	g.STATIC_HOSTNAME = "http://d2ed0w4q03gsmw.cloudfront.net/54c99ad56e40";
 	g.AWS_THUMBNAIL = "http://d3mod6n032mdiz.cloudfront.net";
 	g.AWS_IMAGES = "http://d13pix9kaak6wt.cloudfront.net";
 	g.JS_DEBUG = false;
-	g.NAV_HEIGHT = 36;
+	g.FEED_DEBUG = false;
+	g.NAV_HEIGHT = 60;
 	g.THUMBNAIL_VIEW = false;
-	g.THUMBNAIL2 = false; // remove this global once old thumbnail mode is retired - update view/profile as well - case 118906
 	g.ENVIRONMENT = "production";
 	g.CUSTOMIZE_SAVER_DELAY = "2000";
 	g.FACEBOOK_APP_ID = '249413078192';
-	g.CDN_TIMESTAMP = '1357231586249';
 	g.SIGNUP_DELAY = 10;
 	g.VIMEO_SCREENCAST = true;
-	g.AUTH_TOKEN = "287487669985015382707119537084798698861";
+	g.AUTH_TOKEN = "339025643149405700623833368717716737642";
 	g.IOS_APP_PROMO = true;
 	g.BRANCH_ADMIN = false;
-	g.AMD_MODULE_LOGGING = false;
 	g.AMD_COMPILED = true;
-	g.JS_EVENT_LOGGING = false;
-	g.JS_METRIC_LOGGING = false;
+	g.JS_LOGS = [];
+	g.JS_LOGS_IGNORE = ['amd','metric','event'];
+	g.SHOW_ALL_CTAS = false;
 	g.STORE_KEY = "pk_live_RlI4aulcrfnDp0vi1aZHyc8y";
 	g.FRAMED = false;
+	g.MAPPED = false;
 //]]>
 	g.PAGE = 'privacy';
 //<![CDATA[
 	g.SERVER_MESSAGE = { message: "", status: "ok" };
 //]]>
 //<![CDATA[
+	$(window).load(function() {
+		require(['lib/event'],function(Event) {
+			Event.trigger('window_load');
+		});
+	});
 	var console = (g.JS_DEBUG && window.console) ? window.console : { log: function() {}, time: function() {}, timeEnd: function() {}, error: function() {} };
 	console.time = console.time || (function() {});
 	console.timeEnd = console.timeEnd || (function() {});
-	if (g.THUMBNAIL_VIEW) {
-		console.log('thumbnail view');
-		$.holdReady(true);
-		$('html').addClass('bio-ready thumbnail');
-	};
 //]]>
 //<![CDATA[
 	return g;
 });
 //]]>
 </script>
-	<script src="http://o.aolcdn.com/aboutme/core/jquery/jquery1.7.1-jqueryui1.8.6.v2.js"></script>
+	<script src="http://d2ed0w4q03gsmw.cloudfront.net/core/jquery/jquery1.8.3-jqueryui1.9.2.js"></script>
 	<script src="//cdn.optimizely.com/js/176651799.js"></script>
-	<script type="text/javascript" charset="utf-8">
+	<script type="text/javascript">
 		require(['main'])
 	</script>
-    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
-    <meta name="robots" content="index">
-    <meta name="description" content="About.me makes it easy for people to learn about you and find your content.  Create a free page in minutes with no coding required.">
-    <title>About.me / Privacy Policy</title>
-    <meta name="apple-itunes-app" content="app-id=500230347">
+	<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+			<meta name="robots" content="index">
+	<meta name="description" content="About.me makes it easy for people to learn about you and find your content. Create a free page in minutes with no coding required.">
+	<title>About.me / Privacy Policy</title>
+	<meta name="apple-itunes-app" content="app-id=500230347">
 </head>
 <body class="nonprofile infopage termspage privacypage">
-<div id="header">
-	<div class="header-content">
+<div class="pagewrap">
+<div class="pagecontent">
+<div class="structure topnav" id="topnav">
+	<div class="content">
 		<div class="pane" style="display:block">
 			<span class="logo nav-item"><span class="nav-item">&nbsp;</span></span>
 		</div>
 		<div class="pane loggedin">
 	<ul class="nav accountlinks">
-			<li class="yourpage menu menu-hybrid" data-menuname="Your Page">
+			<li class="mypage menu menu-hybrid" data-menuname="My Page">
 				<span class="nav-link menu-head">
-					<a href="/edit" class="editbutton menu-label" title="View or edit your page.">Your Page</a><span class="menu-toggle">&nbsp;</span>
+					<a href="/edit" class="editbutton menu-label" title="View or edit my page.">My Page</a><span class="menu-toggle menu-arrow">&nbsp;</span>
 				</span>
-				<div class="menu-container">
-					<div class="menu-content menu-items">
-						<ul>
-							<li class="item invisible welcome-link"><span>Get Started</span></li>
-							<li class="item editpage"><a href="/__USERNAME__/#!/edit">Edit</a></li>
-							<li class="item"><a href="/share">Share</a></li>
-							<li class="item create_spotlight"><a href="/cta">Create Spotlight</a></li>
-							<li class="separator"><hr></li>
-							<li class="item invisible expose_store upgrade"><a href="/upgrade">Upgrade</a></li>
-						</ul>
-					</div>
-				</div>
+				<ul class="menu-content">
+					<li class="item invisible welcome-link"><a href="/__USERNAME__/#!/getstarted" class="userlink">Get Started</a></li>
+					<li class="item editpage"><a href="/__USERNAME__/#!/edit" class="userlink">Edit</a></li>
+					<li class="item"><a href="/share/">Get More Visitors</a></li>
+					<li class="item create_spotlight"><a href="/spotlight">Create Spotlight</a></li>
+					<li class="separator"><hr></li>
+					<li class="item upgrade"><a href="/upgrade">Upgrade</a></li>
+				</ul>
 			</li>
-			<li class="dashboard menu menu-hybrid" data-menuname="Dashboard">
-				<span class="nav-link menu-head">
-					<a href="/dashboard/#!/overview" class="menu-label">Dashboard<span class="badge"></span></a><span class="menu-toggle">&nbsp;</span>
+			<li class="dashboard menu menu-hybrid" data-menuname="Home">
+				<span class="nav-item menu-head">
+					<a href="/home/" class="menu-label">Home<span class="badge"></span></a>
+					<span class="menu-toggle menu-arrow">&nbsp;</span>
 				</span>
-				<div class="menu-container">
-					<div class="menu-content menu-items">
-						<ul>
-							<li class="item directories"><a href="/__USERNAME__/collections">Your Collections</a></li>
-							<li class="item"><a href="/dashboard/#!/statistics">Page Statistics</a></li>
-							<li class="item"><a href="/dashboard/#!/promote">Get More Visitors</a></li>
-							<li class="item"><a href="/dashboard/#!/offers">Free Offers</a></li>
-						</ul>
-					</div>
-				</div>
+				<ul class="menu-content">
+					<li class="item directories"><a href="/__USERNAME__/collections" class="userlink">My Collections</a></li>
+					<li class="item"><a href="/stats/">Page Statistics</a></li>
+					<li class="item aolemail invisible"><a>View Email</a></li>
+				</ul>
 			</li>
 			<li class="accountmenu menu menu-right" data-menuname="Account">
 				<span class="nav-link menu-head">
-					<span class="menu-toggle">&nbsp;</span>
+					<span class="menu-toggle glyph-menu glyph-center">&nbsp;</span>
 				</span>
 				<div class="menu-container">
-					<div class="menu-content menu-items">
-						<ul>
-							<li class="nonitem loggedinas invisible"><span class="accountname"></span></li>
-							<li class="item"><a href="/account/">Account Settings</a></li>
-							<li class="item hasplan invisible plan-setup"><a href="/account/#!/plan">Premium Setup</a></li>
-							<li class="item hasplan invisible"><a href="/account/#!/billing">Billing History</a></li>
-							<li class="item"><a href="/findfriends/">Find Your Friends</a></li>
-							<li class="item playground invisible"><a href="/playground">Playground</a></li>
-							<li class="item helplink"><a href="http://support.about.me" target="_blank">Help</a></li>
-							<li class="separator"><hr></li>
-							<li class="item signin"><a href="/logout_handler">Log Out</a></li>
-						</ul>
-					</div>
+					<ul class="menu-content">
+						<li class="item"><a href="/account/">Account Settings</a></li>
+						<li class="item hasplan invisible plan-setup"><a href="/account/#!/plan">Premium Setup</a></li>
+						<li class="item hasplan invisible"><a href="/account/#!/billing">Billing History</a></li>
+						<li class="item"><a href="/findfriends/">Find Friends</a></li>
+						<li class="item playground invisible"><a href="/playground">Playground</a></li>
+						<li class="item helplink"><a href="http://support.about.me" target="_blank">Help</a></li>
+						<li class="separator"><hr></li>
+						<li class="item signin"><a href="/logout_handler">Log Out</a></li>
+					</ul>
+				</div>
+			</li>
+			<li class="hamburger menu menu-right" data-menuname="Hamburger">
+				<span class="nav-link menu-head">
+					<span class="menu-toggle glyph-menu glyph-center">&nbsp;</span>
+				</span>
+				<div class="menu-container">
+					<ul class="menu-content">
+						<li class="item"><a href="/__USERNAME__/" class="userlink">My Page</a></li>
+						<li class="item"><a href="/home/">Home</a></li>
+						<li class="item"><a href="/account/">Account Settings</a></li>
+						<li class="item"><a href="/findfriends/">Find Friends</a></li>
+						<li class="item helplink"><a href="http://support.about.me" target="_blank">Help</a></li>
+						<li class="separator"><hr></li>
+						<li class="item signin"><a href="/logout_handler">Log Out</a></li>
+					</ul>
 				</div>
 			</li>
 	</ul>
@@ -206,75 +241,30 @@ define('globals', function() {
 	<ul class="nav applinks">
 			<li class="peoplemenu menu" data-menuname="Search">
 				<span class="nav-link menu-head km-find-people-global-nav">
-					<span class="menu-toggle">&nbsp;</span>
+					<span class="menu-toggle glyph-search glyph-center">&nbsp;</span>
 				</span>
-				<div class="menu-container">
-					<div class="menu-content menu-items">
-						<ul>
-							<li class="nonitem findform">
-								<form onsubmit="return false">
-									<input type="text" name="findpeople" value="" class="text findpeople" placeholder="Search by name, location, or interest">
-									<button class="button button-large" type="submit"><span class="button-content">Go</span></button>
-								</form>
-							</li>
-							<li class="separator"><hr></li>
-							<li class="item"><a href="/directory">Featured Directory</a></li>
-						</ul>
-					</div>
-				</div>
+				<ul class="menu-content">
+					<li class="nonitem findform">
+						<form onsubmit="return false">
+							<div class="buttonfield">
+								<input type="text" name="findpeople" value="" class="input findpeople" placeholder="Search by name, location, or interest">
+								<button class="button light grey" type="submit">Go</button>
+							</div>
+						</form>
+					</li>
+					<li class="separator"><hr></li>
+				</ul>
 			</li>
-			<li class="peoplebrowse">
-				<span class="nav-link" title="Explore the best pages on about.me.">Explore People</span>
+			<li class="people">
+				<a href="/people/featured" class="nav-link" title="Explore the best pages on about.me">Discover</a>
 			</li>
 	</ul>
 		</div>
 		<div class="pane loggedout">
 	<ul class="nav accountlinks">
-			<li class="signupmenu menu" data-menuname="Signup">
-				<span class="nav-link menu-head">
-					<span class="menu-toggle">Sign up to claim your name!</span>
-				</span>
-				<div class="menu-container">
-					<div class="menu-content">
-						<div class="signupmenuform">
-							<p>It’s free and only takes minutes to set up your page.&nbsp; <a href="https://about.me/">Learn more</a></p>
-<div class="signup">
-<form action="/register" id="signup_privacy_dropdown" method="post" onsubmit="return false">
-<input name="_authentication_token" type="hidden" value="287487669985015382707119537084798698861">
-<div class="socialsignup">
-	<!-- <h4>or Sign Up using&hellip;</h4> -->
-	<div class="buttons clearfix">
-		<a href="/facebook/login?perm=basic" class="button button-medium signupbutton facebook signupbutton-facebook facebook_login not-deferred"><span class="button-content">Facebook</span></a>
-		<a href="/twitter/login" class="button button-medium signupbutton twitter signupbutton-twitter twitter_login not-deferred"><span class="button-content">Twitter</span></a>
-	</div>
-	<div class="login-or"><hr class="rule"><span class="hor" style="background-color:#444444">or</span></div>
-</div>
-<fieldset class="first_name name">
-		<label class="label" for="privacy_dropdown_first_name">First name</label>
-		<input type="text" name="first_name" id="privacy_dropdown_first_name" class="text first_name" value="" maxlength="32">
-</fieldset>
-<fieldset class="last_name name">
-		<label class="label" for="privacy_dropdown_last_name">Last name</label>
-		<input type="text" name="last_name" id="privacy_dropdown_last_name" class="text last_name" value="" maxlength="32">
-</fieldset>
-<fieldset class="email">
-		<label class="label" for="privacy_dropdown_email">Your email address</label>
-		<input type="text" name="email" id="privacy_dropdown_email" class="text email" value="" maxlength="254">
-</fieldset>
-<input type="hidden" value="privacy_dropdown" name="location" class="signuplocation">
-<div class="buttons">
-    <button type="submit" class="button button-submit button-medium signup-submitbutton not-deferred">
-    	<span class="button-content">
-    		<span class="default-text">Create Your Page</span>
-    		<span class="loading-text">Create Your Page</span>
-    	</span>
-    </button>
-</div>
-</form>
-</div>
-						</div>
-					</div>
-				</div>
+			<li>
+				<span class="nav-link easy-find-nav invisible">Make it easy for people to find and learn about you</span>
+				<span class="nav-link signup-main-nav">Claim your name!</span>
 			</li>
 			<li class="signin">
 				<a href="https://about.me/login" class="nav-link">Log In</a>
@@ -289,11 +279,15 @@ define('globals', function() {
 		</div>
 	</div>
 </div>
-	<div id="content" class="clearfix">
+			<div class="structure main">
+				<div class="content">
+	<div class="head">
+		<h1>Pumpkinhead, Inc. / about.me<br>Privacy Policy</h1>
+	</div>
+	<div class="body">
 		<div class="row columns-3">
 			<div class="column colspan-2">
-				<h2>Pumpkinhead, Inc. / about.me<br>Privacy Policy</h2>
-				<p class="small">Effective date: February 4, 2013</p>
+				<p class="text small">Effective date: February 4, 2013</p>
 				<p>Welcome to Pumpkinhead, Inc. (“Pumpkinhead, Inc.,” “we,” “us” or “our”).  This Privacy Policy describes Pumpkinhead, Inc.’s policies and procedures on the collection, use and disclosure of your information in connection with Pumpkinhead, Inc.  services (collectively, the “Service” or “about.me”).</p>
 				<p>When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by about.me in the United States or any other country where about.me operates. </p>
 				<p>If you have any questions or comments about this Privacy Policy, please contact us at <a href="mailto:privacyquestions@about.me">privacyquestions@about.me</a>.</p>
@@ -339,48 +333,77 @@ define('globals', function() {
 			</div>
 		</div>
 	</div>
-<div id="footer">
-	<div class="footer-content">
+				</div>
+			</div>
+<div class="structure footer">
+	<div class="content">
 		<hr class="separator">
-		<a href="http://itunes.apple.com/us/app/about.me-for-iphone/id500230347" class="ios-footer"><img src="http://o.aolcdn.com/aboutme/production181/images/offers/ios-app/ios-app-footer-badge.png"></a>
+		<a href="http://itunes.apple.com/us/app/about.me-for-iphone/id500230347" class="ios-footer"></a>
 		<p>
 			<a href="/">Home</a>
 			<span class="divider">&nbsp;</span>
 			<a href="http://about.me/about/#!/aboutus">About Us</a>
 			<span class="divider">&nbsp;</span>
-			<a href="http://about.me/directory">Directory</a>
+			<a href="http://about.me/people/popular">Popular Pages</a>
 			<span class="divider">&nbsp;</span>
 			<a href="http://blog.about.me">Blog</a>
 			<span class="divider">&nbsp;</span>
 			<a href="http://about.me/assets">Assets</a>
 			<span class="divider">&nbsp;</span>
-			<a href="http://developer.about.me/" target="_blank">Developers</a>
-			<span class="divider">&nbsp;</span>
 			<a href="http://about.me/terms">Terms of Use</a>
 			<span class="divider">&nbsp;</span>
 			<a href="http://about.me/privacy">Privacy Policy</a>
 			<span class="divider">&nbsp;</span>
-				<a href="mailto:help@about.me">Help</a>
+			<a href="http://support.about.me" target="_blank">Help</a>
 			<span class="divider">&nbsp;</span>
-			<a href="http://twitter.com/aboutdotme" class="twitter">Follow us on Twitter</a>
+			<a href="http://twitter.com/aboutdotme" class="glyph-twitter">Follow us on Twitter</a>
 		</p>
 		<p class="copyright">
 			<span>© 2013 about.me™. All Rights Reserved.</span>
 		</p>
 	</div>
 </div>
-    <!-- People Browse -->
-    <!--    <div class="showPeopleBrowse km-people-browse-footer button button-dark"><p>Browse Pages</p></div> -->
-        <div class="peopleBrowse">
-            <div class="browseWrapper">
-                <div class="hidePeopleBrowse km-people-carousel-back-profile button button-dark"><p>Hide</p></div>
-                <ul class="browse"></ul>
-                <p class="browseSignUp">Would you like your own <span class="logo_about">about</span><span class="logo_dot">.</span><span class="logo_me">me</span> page? <a href="/?ncid=aboutmepeoplebrowse">Sign up now</a></p>
-            </div>
-        </div>
-        <div class="peopleBrowse-overlay">
-        </div>
-    <script type="text/javascript">
+	<div class="signupform signup-modal invisible">
+		<div id="signup-modal">
+		    <h2>about.me</h2>
+		    <h3 class="action">It’s free and only takes minutes to set up a page.</h3>
+<div class="signup">
+<form action="/register" id="signup_signupmodal" method="post" onsubmit="return false">
+<input name="_authentication_token" type="hidden" value="339025643149405700623833368717716737642">
+<div class="socialsignup">
+	<!-- <h4>or Sign Up using&hellip;</h4> -->
+	<div class="buttons clearfix">
+		<a href="http://about.me/facebook/login?perm=basic" class="button signupbutton dark large branded facebook glyph-facebook not-deferred">Facebook</a>
+		<a href="http://about.me/twitter/login" class="button signupbutton dark large branded twitter glyph-twitter not-deferred">Twitter</a>
+	</div>
+	<div class="login-or"><hr class="rule"><span class="hor">or</span></div>
+</div>
+<fieldset class="first_name name">
+		<label class="label" for="signupmodal_first_name">First name</label>
+		<input type="text" name="first_name" id="signupmodal_first_name" class="input fullwidth large first_name" value="" maxlength="32">
+</fieldset>
+<fieldset class="last_name name">
+		<label class="label" for="signupmodal_last_name">Last name</label>
+		<input type="text" name="last_name" id="signupmodal_last_name" class="input fullwidth large last_name" value="" maxlength="32">
+</fieldset>
+<fieldset class="email">
+		<label class="label" for="signupmodal_email">Email address</label>
+		<input type="text" name="email" id="signupmodal_email" class="input fullwidth large email" value="" maxlength="254">
+</fieldset>
+<input type="hidden" value="signupmodal" name="location" class="signuplocation">
+<fieldset class="buttons last large">
+    <button type="submit" class="button test130106 large dark blue signup-submitbutton not-deferred">
+   		<span class="default-text">Join for FREE</span>
+   		<span class="loading-text">Join for FREE</span>
+    </button>
+    <div class="alreadyjoined invisible button-item right">Already joined? &nbsp;<a href="/login" class="not-deferred">Log In</a></div>
+</fieldset>
+<div class="nothanks invisible"><span class="text link cancel glyph-close">No thanks, just browsing</span></div>
+</form>
+</div>
+		</div>
+	</div>
+	<script type="text/javascript">
 	var _kmq = window._kmq || [];
 	function _kms(u){
 		setTimeout(function(){
@@ -396,17 +419,19 @@ define('globals', function() {
 		}
 	});
 	</script>
-    <!-- Google Analytics-->
-    <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-17228769-1']);
-      _gaq.push(['_trackPageview',location.pathname + location.search + location.hash]);
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script>
-    <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","e8c5a0f10d",575951,"NQdRZxRZW0cCABUNDgxNdUYIW0FdDA1OFBQPElhaCFBQVQdNAgsPFhBcXwpdR0dNEQ4LFVgwXFwSe1paFxEOCA0HEB1BCU1BURA8EQgAAQdbXApcUEY=",0,52,new Date().getTime()])</script>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(
+			['_setAccount', 'UA-17228769-1'],
+			['_trackPageview',location.pathname + location.search + location.hash]
+		);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+</div>
 
-<script type="text/javascript" async="" src="https://rpm-images.newrelic.com/42/eum/rum.js"></script></body></html>
+</body></html>
