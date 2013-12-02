@@ -1,23 +1,56 @@
-<!--The following is the downloaded HTML source of the marist.edu privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531184046id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marist.edu privacy policy that was archived on 2013-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131202150128id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" webkit chrome linux js"><head>
 <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 <title>Privacy Policy: Marist College</title>
 <meta name="keywords" content="privacy policy">
 <meta name="description" content="Privacy policy for the Marist College website.">
 <meta name="verify-v1" content="AqT6cZcob1cv6R4Cp1W7HUkY9ySzVBKnXf/L+fwYhcw=">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/sub.php?full_width=yes&amp;time=1370025645">
-<link rel="stylesheet" type="text/css" media="print" href="/css/sub-print.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/jquery-ui.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/includes/jquery.min.js"></script>
-<script type="text/javascript" src="/includes/jquery-ui.min.js"></script> 
-<script type="text/javascript" src="/includes/jquery.autoSuggest.js"></script>
-<script type="text/javascript" src="/includes/common.js?v=2"></script>
-<script type="text/javascript" src="/includes/jquery.watermark.min.js"></script> 
-<script type="text/javascript" src="/includes/css-browser-selector.js"></script> 
 
-<script type="text/javascript">
+<!--[if lt IE 9]>
+  <script src="/includes/html5.js"></script>
+<![endif]-->
+
+<link rel="stylesheet" href="/css/unsemantic-grid-base.css">
+<noscript>
+  <link rel="stylesheet" href="/css/unsemantic-grid-desktop.css" />
+</noscript>
+<!--[if lt IE 8]>
+  <link rel="stylesheet" href="/css/unsemantic-grid-desktop.css" />
+<![endif]-->
+
+<!--[if gt IE 7]><!-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+  var ADAPT_CONFIG = {
+    path: '/css/',
+    dynamic: true,
+    range: [
+      '0 to 767px = unsemantic-grid-mobile.css',
+      '767px = unsemantic-grid-desktop.css'
+    ]
+  };
+</script>
+<script src="/includes/adapt.min.js"></script><link rel="stylesheet" media="screen" href="/css/unsemantic-grid-desktop.css">
+<!--<![endif]-->
+
+<link rel="stylesheet" media="screen" href="/css/sub.php?full_width=yes&amp;time=1385996488">
+<link rel="stylesheet" media="print" href="/css/sub-print.css">
+<link rel="stylesheet" media="screen" href="/css/jquery-ui.css">
+<script src="/includes/jquery.min.js"></script>
+<script src="/includes/jquery-ui.min.js"></script> 
+<script src="/includes/jquery.autoSuggest.js"></script>
+<script src="/includes/common.js?v=2"></script>
+<script src="/includes/jquery.watermark.min.js"></script> 
+<script src="/includes/css-browser-selector.js"></script> 
+<script src="/includes/jquery.responsivetable.min.js"></script>
+
+
+
+
+<script>
 $(document).ready(function() {
 	$(".searchinput").watermark("Search...");
 	$("#autocomplete").autoSuggest({
@@ -32,75 +65,86 @@ $(document).ready(function() {
 	});
 	$("#autocomplete").attr("autocomplete","off"); 
 		
-	/*
-	|--------------------------------------------------------------------------
-	| Fix width issue when user first opens the site
-	|--------------------------------------------------------------------------
-	| Very useful on tablets
-	*/
-	 var new_width = $(document).width();
-   	 $(".ipad #marist").width(new_width);
-
+		var new_width = $(document).width();
+  $(".ipad #marist").width(new_width);
+  $("table").responsiveTable({staticColumns: 0, scrollRight: false});
+  $(window).resize( function(){
+    if ($("body").width() <= 750){
+      $("#topbar-search").css("border-width", "0px");
+    }
+    else{
+      $("#topbar-search").css("border-width", "1px");
+    }
+  });
+  $(window).resize();
 });
-
-/*
-|--------------------------------------------------------------------------
-| Fix width issue when window is resized
-|--------------------------------------------------------------------------
-|
-*/
-/*
-$(window).resize( function(){
-        if($(window).width() < $(document).width())
-                var new_width = 1000;
-        else
-                var new_width = $(document).width();
-
-        $("#marist").width(new_width);
-});
-*/
 </script>
 </head>
+
 <body>
-		<div id="marist">
-			<!--- // header Section // -->
-			<header>
-				<div id="header-content">
-										<nav>
-						<div id="navbar-content">
-							<ul id="udm" class="udm">
-								<li><a class="first" href="/about/">About Marist</a></li>
-								<li><a class="" href="/admission/">Admission</a></li>
-								<li><a class="" href="/academics/">Academics</a></li>
-								<li><a class="" href="/studentlife/">Student Life</a></li>
-								<li><a class="" href="/athletics/">Athletics</a></li>
-								<li><a class="last" href="/community/">Community</a></li>
-							</ul>
-							<div class="clearer"></div>
-						</div>
-						<div class="clearer"></div>
-					</nav>
-										<div id="topbar-content">
-												<div id="topbar-maristlogo"><a href="/"><img src="/images/logo.png" alt="Marist"></a></div>
-						<div id="topbar-search">
-							<form method="get" id="searchbox_011686685756761272083:t9l2p2gvaj4" action="/search/">
-								<p>
-									<input type="hidden" name="cx" value="011686685756761272083:t9l2p2gvaj4"><input type="text" class="searchinput" id="autocomplete" size="40" name="q" placeholder="Search..." autocomplete="off"><input class="button" type="submit" name="sa" value=" "><input type="hidden" name="cof" value="FORID:11">
-								</p>
-							</form>
-						</div>
-											</div>
-				</div>
-			</header>
-						<div class="clearer"></div>
-			<div id="body-container">
-				<div id="body-content">
-										<!--Right Column-->
-					<div id="seccontent">
-						<div id="body-main">
-							<div id="body-main-content">
-								<div class="left-col" style="padding: 0 0 15px">
-							 
+  <header class="grid-container grid-parent" role="banner">
+        <nav class="hide-on-mobile">
+      <ul id="udm" class="udm">
+        <li class="grid-15 mobile-grid-100 grid-parent first"><a href="/about/" class="first">About Marist</a></li>
+        <li class="grid-15 mobile-grid-100 grid-parent"><a href="/admission/">Admission</a></li>
+        <li class="grid-15 mobile-grid-100 grid-parent"><a href="/academics/">Academics</a></li>
+        <li class="grid-15 mobile-grid-100 grid-parent"><a href="/studentlife/">Student Life</a></li>
+        <li class="grid-15 mobile-grid-100 grid-parent"><a href="/athletics/">Athletics</a></li>
+        <li class="grid-15 mobile-grid-100 grid-parent last"><a href="/community/" class="last">Community</a></li>
+      </ul>
+    </nav>
+        
+    <div class="grid-100 grid-parent">
+            <div id="mobile-topbar" class="hide-on-desktop"></div>
+      <div id="mobile-header-spacer" class="hide-on-desktop"></div>
+      
+      <div class="grid-25 prefix-45 push-30 mobile-grid-100">
+        <div id="desktop-searchbox-spacer" class="hide-on-mobile"></div>
+        <div id="topbar-menu-button" class="hide-on-desktop">
+          <img src="/images/menu.png" alt="Menu">
+        </div>
+                <script>
+          $("#topbar-menu-button img").eq(0).on("click", function(){
+            if ($(".mobile-nav").length == 0){
+              $("#topbar-menu-button").after($("#udm")
+                              .clone()
+                              .addClass("hide-on-desktop mobile-nav")
+                              .attr("style", "background:none; position:absolute; top:45px; left:0px;")
+                           );
+              $(".mobile-nav li").removeClass("grid-15");
+              $(".mobile-nav a").css({"padding-left": "10px", "padding-right": "10px"});
+              $("#topbar-menu-button img").eq(0).addClass("on");
+            }
+            else{
+              $(".mobile-nav").toggle();
+              $("#topbar-menu-button img").eq(0).toggleClass("on");
+            }
+          });
+        </script>
+        <div id="topbar-search" class="grid-100 grid-parent" style="border-width: 1px;">
+          <form method="get" id="searchbox_011686685756761272083:t9l2p2gvaj4" action="/search/" role="search">
+            <input type="hidden" name="cx" value="011686685756761272083:t9l2p2gvaj4">
+            <input type="text" class="searchinput" id="autocomplete" size="40" name="q" placeholder="Search..." autocomplete="off">
+            <input type="submit" class="button" name="sa" value=" ">
+            <input type="hidden" name="cof" value="FORID:11">
+          </form>
+        </div>      </div>      
+      <div id="mobile-logo-spacer" class="hide-on-desktop"></div>
+      <div id="topbar-maristlogo" class="grid-25 suffix-5 pull-70 mobile-grid-100 grid-parent">
+        <a href="/">
+          <img src="/images/logo.png" alt="Marist">
+        </a>
+      </div>
+          </div>  </header>
+      
+    <div id="body-container" class="grid-container grid-parent" role="main">
+    <div id="body-main-content-container" class="grid-100 mobile-grid-100 grid-parent">
+              
+      <div id="body-spacer" class="hide-on-mobile"></div>
+            
+              
+            <article id="body-main-content" class="grid-100">
+       
 
 <div class="automargin" style="width: 90%;">
 
@@ -169,127 +213,110 @@ Poughkeepsie, NY 12601
 
 </p></div>
 
-									<div id="body-relatedinfo">
-									<div class="clearer"></div>		
-											</div>	
-						</div>
-					</div><!-- end seccontent -->
-        <div class="clearer"></div> 				</div>
-			</div> 
-
-		</div>
-		<div class="clearer"></div>
-	</div>
-
-	<!--// Footer Sec //-->
-	<footer>
-		<div id="footer-content">
-			<div class="inner-footer-content">
-				<div id="footer-links">
-										<div class="footer-column">
-						<h2>About Marist</h2>
-						<ul>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/pres.html">From the President</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/history.html">History &amp; Heritage</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/visit.html">Visitors' Center</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/glance.html">Marist at a Glance</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/pdfs/financialstatements.pdf">Financial Statements</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/board.html">Board of Trustees</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/tour.html">Visitor Information</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/admission/florence/">Marist in Italy</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/admin.html">Administration</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/strategicplanning/">Strategic Plan: 2011 - 2016</a></li>
-						</ul>
-					</div>
-
-					<div class="footer-column">
-						<h2>Admission</h2>
-						<ul>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/admission/freshman/">Freshman Students</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/admission/transfer/">Transfer Students</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/admission/adult/">Adult Students (age 22 &amp; older)</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/admission/graduate/">Graduate Students</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/admission/international/">International Students</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/admission/military/">Military &amp; Veterans</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/gpp/distancelearning/">Distance Learning</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/financialaid/">Financial Aid &amp; Scholarships</a></li>
-						</ul>
-					</div>
-
-					<div class="footer-column">
-						<h2>Academics</h2>
-						<ul>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/academics/">Academic Schools</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/academics/programs/">Majors &amp; Academic Programs</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/academics/core/">The Marist Core</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/academics/calendars.html">Academic Calendars</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/registrar/catalog/">Course Catalogs</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/gpp/distancelearning/">Distance Learning</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/library/">Library</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/international/">Marist International Programs</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/academics/resources.html">Academic Resources</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/academics/special.html">Special Academic Opportunities</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/careerservices/">Career Services</a></li>
-						</ul>
-					</div>
-
-					<div class="footer-column">
-						<h2>Student Life</h2>
-						<ul>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/studentlife/firstyear/">First Year Programs</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/housing/">Housing &amp; Residential Life</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="http://www.maristdining.com">Marist Dining</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/studentlife/activities.html">College Activities &amp; Organizations</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="http://marist.bncollege.com">Bookstore</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/computerstore/">Computer Store</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/healthservices/">Health Services</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/specialservices/">Special Services</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/counseling/">Counseling Services</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/studentlife/ministry/">Campus Ministry</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/studentlife/lgbtq/">LGBTQ Resources</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/studentlife/studentconduct/">Student Conduct</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/security/">Safety &amp; Security</a></li>
-							<li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/maristmoney/">Marist ID/Marist Money</a></li>
-						</ul>
-					</div>
-					          <div class="clearer"></div>
-          <div class="home-blurb">
-						<a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink-social']);" href="/socialmedia"><img alt="Marist On..." src="/images/socialmedia-sub.png"></a>
-					</div>
-          <div class="clearer"></div>
-					<p class="footer-utility-content" style="margin-top: 0px;">
-												<a href="/calendar/">Calendar</a> |
-						<a href="/directory/">Directories</a> |
-						<a href="/atoz/">Site A-Z Index</a> |
-						<a href="/about/visit.html">Map &amp; Directions</a> |
-						<a href="https://www.marist.edu/alumni/giving.html?recipient=campaign">Giving to Marist</a> |
-						<a href="javascript:newWin('http://jobs.marist.edu')">Jobs at Marist</a><br><br>
-												Marist College, 3399 North Road, Poughkeepsie, NY 12601 | 845.575.3000<br>
-						<span>© Copyright 2013 Marist College. All Rights Reserved. <a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/disclaimers.html">Disclaimers</a> | <a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/privacy.html">Privacy Policy</a> | <a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/contact/">Contact</a></span>
-					</p>
-					<div class="clearer"></div>
-				</div>
-				<div class="clearer"></div>
-				<div class="clearer"></div>
-			</div>
-			<div class="clearer"></div>
-		</div>
-	</footer>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-320870-1']);
-  _gaq.push(['_setDomainName', '.marist.edu']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+        <aside id="body-relatedinfo">
+                            </aside>      </article>
+      </div>  </div>
+  <footer class="grid-container grid-parent" id="footer-content">
+    <div id="footer-links">
+      <nav class="grid-100 grid-parent hide-on-mobile">
+      <div class="footer-column grid-25">
+        <h2>About Marist</h2>
+        <ul>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/pres.html">From the President</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/history.html">History &amp; Heritage</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/visit.html">Visitors' Center</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/glance.html">Marist at a Glance</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/pdfs/financialstatements.pdf">Financial Statements</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/board.html">Board of Trustees</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/tour.html">Visitor Information</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/admission/florence/">Marist in Italy</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/about/admin.html">Administration</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/strategicplanning/">Strategic Plan: 2011 - 2016</a></li>
+        </ul>
+      </div>
+      
+      <div class="footer-column grid-25">
+        <h2>Admission</h2>
+        <ul>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/admission/freshman/">Freshman Students</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/admission/transfer/">Transfer Students</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/admission/adult/">Adult Students (age 22 &amp; older)</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/admission/graduate/">Graduate Students</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/admission/international/">International Students</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/admission/military/">Military &amp; Veterans</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/gpp/distancelearning/">Distance Learning</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/financialaid/">Financial Aid &amp; Scholarships</a></li>
+        </ul>
+      </div>
+      
+      <div class="footer-column grid-25">
+        <h2>Academics</h2>
+        <ul>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/academics/">Academic Schools</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/academics/programs/">Majors &amp; Academic Programs</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/academics/core/">The Marist Core</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/academics/calendars.html">Academic Calendars</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/registrar/catalog/">Course Catalogs</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/gpp/distancelearning/">Distance Learning</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/library/">Library</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/international/">Marist International Programs</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/academics/resources.html">Academic Resources</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/academics/special.html">Special Academic Opportunities</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/careerservices/">Career Services</a></li>
+        </ul>
+      </div>
+      
+      <div class="footer-column grid-25">
+        <h2>Student Life</h2>
+        <ul>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/studentlife/firstyear/">First Year Programs</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/housing/">Housing &amp; Residential Life</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="http://www.maristdining.com">Marist Dining</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/studentlife/activities.html">College Activities &amp; Organizations</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="http://marist.bncollege.com">Bookstore</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/computerstore/">Computer Store</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/healthservices/">Health Services</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/specialservices/">Special Services</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/counseling/">Counseling Services</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/studentlife/ministry/">Campus Ministry</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/studentlife/lgbtq/">LGBTQ Resources</a></li>
+		  <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/studentlife/senioryear/">Senior Year Experience</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/studentlife/studentconduct/">Student Conduct</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/security/">Safety &amp; Security</a></li>
+          <li><a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/maristmoney/">Marist ID/Marist Money</a></li>
+        </ul>
+      </div>
+    </nav>
+    <div class="home-blurb">
+    <a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink-social']);" href="/socialmedia"><img alt="Marist On..." src="/images/socialmedia-sub.png"></a>
+  </div>
+  <p class="footer-utility-content grid-100">
+          <a href="/calendar/">Calendar</a> |
+      <a href="/directory/">Directories</a> |
+      <a href="/atoz/">Site A-Z Index</a> |
+      <a href="/about/visit.html">Map &amp; Directions</a> |
+      <a href="https://www.marist.edu/alumni/giving.html?recipient=campaign">Giving to Marist</a> |
+      <a href="javascript:newWin('http://jobs.marist.edu')">Jobs at Marist</a> 
+      <br><br>
+        Marist College, 3399 North Road, Poughkeepsie, NY 12601 | 845.575.3000<br>
+    <span>© Copyright 2013 Marist College. All Rights Reserved. <a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/disclaimers.html">Disclaimers</a> | <a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/privacy.html">Privacy Policy</a> | 
+      <a href="javascript:newWin('http://m.marist.edu')">Mobile</a> | <a onclick="javascript:_gaq.push(['_trackPageview', '/G1/footerlink']);" href="/contact/">Contact</a></span>
+  </p>
 </div>
+  </footer>
+  
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-320870-1']);
+_gaq.push(['_setDomainName', '.marist.edu']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
 
 
 </body></html>
