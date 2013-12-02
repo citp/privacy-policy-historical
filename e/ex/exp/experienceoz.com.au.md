@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experienceoz.com.au privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530204553id_/http%3A//www.experienceoz.com.au/c/content/page/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experienceoz.com.au privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202110209id_/http%3A//www.experienceoz.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Information Usage for Experience Oz
 
