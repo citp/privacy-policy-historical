@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnu.com.mo privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524055853id_/http%3A//www.bnu.com.mo/en/english-footer/bnu-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnu.com.mo privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202025614id_/http%3A//www.bnu.com.mo/en/english-footer/bnu-privacy-policy) for the most accurate reproduction.*
 
 # BNU – Macau » BNU Privacy Policy
 
