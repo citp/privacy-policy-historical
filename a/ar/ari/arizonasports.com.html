@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the arizonasports.com privacy policy that was archived on 2013-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529192529id_/http%3A//arizonasports.com/63/1535710/PRIVACY-STATEMENT) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arizonasports.com privacy policy that was archived on 2013-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204004710id_/http%3A//arizonasports.com/63/1535710/PRIVACY-STATEMENT) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
 
@@ -11,7 +11,9 @@
 																																								<title>PRIVACY STATEMENT ArizonaSports.com</title>
 		 <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <meta name="viewport" content="width=1040">
+        <meta name="viewport" content="width=device-width, maximum-scale=1.0">
+        	<link rel="apple-touch-icon" href="/custom_icon.png">
+
 			<meta name="Description" content="PRIVACY STATEMENT - Calvisi Blogs at ArizonaSports.com">
 	<meta name="Keywords" content="PRIVACY STATEMENT, Calvisi Blogs, ArizonaSports.com, ArizonaSports,Arizona Sports Radio, AZ Sports Radio, Sports 620 KTAR, Arizona Cardinals, Phoenix Suns, Arizona Diamondbacks,Coyotes, ASU, U of A, NAU, sports scores, sports news, sports videos,sports photos, sports information,rewards,allstar,contest,listen live,radio">
 	    <meta name="google-site-verification" content="4kn7oD_KBIi6DIw2Fv-9Om3GcmLhJRgc217OQw4UEhk">
@@ -21,21 +23,24 @@
         <meta property="og:url" content="http://arizonasports.com/63/1535710/PRIVACY-STATEMENT">
         <meta property="og:image" content="http://arizonasports.com/images/logos/social.png">
         <meta property="og:site_name" content="arizonasports.com">
-       <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+       <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=016901429690765427163:1apxcsbx7dq"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.8.3.min.js"><\/script>')</script><script src="/js/vendor/jquery-1.8.3.min.js"></script>
-        <link href="/js/jplayer/jplayer.blue.monday.css" rel="stylesheet" type="text/css">
-		<script src="/js/jplayer/jquery.jplayer.min.js"></script>
+       <!-- <link href="/js/jplayer/jplayer.blue.monday.css" rel="stylesheet" type="text/css" />-->
+       <link href="/css/blue.monday/jplayer.blue.monday.css" rel="stylesheet" type="text/css">
+		<script src="/js/jplayer.2.3/jquery.jplayer.min.js"></script>
         <script src="/js/plugins.js"></script>
         <script src="/js/scripts.js?201302280854"></script>
         <link rel="SHORTCUT ICON" href="/newfavicon.ico">
 <script type="text/javascript">var switchTo5x=true;</script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({ publisher: "4f97653a-841e-4cfb-a4a9-1f16ae8065b9", doNotHash: true, doNotCopy: true, hashAddressBar: true,onhover: false});</script>
+<script type="text/javascript">stLight.options({ publisher: "ce9977ed-873d-4dc4-afe1-fbe6370e0f15", doNotHash: true, doNotCopy: true, hashAddressBar: true,onhover: false});</script>
+		
 	<script src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 	<script>
 	GS_googleAddAdSenseService("ca-pub-4363788597958078");
 	GS_googleEnableAllServices();
 	</script>
+	
 	<script>
 	<!-- ktar_sports_Home_Columnists_PaulCalvisi_CalvisiBlogs -->
 GA_googleAddSlot("ca-pub-4363788597958078", "ktar_sports_Home_Columnists_PaulCalvisi_CalvisiBlogs_");
@@ -48,9 +53,8 @@ GA_googleAddSlot("ca-pub-4363788597958078", "azsports_hp_promo1");
 	<script>
 		GA_googleFetchAds();
 	</script>
-	
-	<link rel="stylesheet" href="/css/normalize.css">
-	<link rel="stylesheet" href="/css/main.css">
+				<link rel="stylesheet" href="/css/normalize.css">
+	<link rel="stylesheet" href="/css/main.css?1.2">
 	<script src="/js/vendor/modernizr-2.6.1.min.js"></script> 
 	<!--[if lte IE 7]><script src="/js/lte-ie7.js"></script><![endif]-->
 </head>
@@ -89,6 +93,8 @@ function dologin(obj, id)
 
 function show_login(name)
 {
+	 $('#siteToolbar').slideToggle(300);
+
 	$('.loginmessage').html('<div id="checking">'+name+' is logged in.</div><div class="bar"></div>');
 	setTimeout(function() {
      login_menu();
@@ -127,7 +133,7 @@ var beforeload = (new Date()).getTime();
 var xdbt_time = 0;
 //var xdbt_time = (xdbt_end-xdbt_start)/1000;
 //if(Math.random()*100 < 5)
-//	$.post('/logic/stats/latency.php', { latency: xdbt_time, server: 'm18' }, function(){}, 'json');
+//	$.post('/logic/stats/latency.php', { latency: xdbt_time, server: 'm13' }, function(){}, 'json');
 function pageloadingtime()
 {
         //calculate the current time in afterload
@@ -180,6 +186,47 @@ function pageloadingtime()
                     </ul>
             </div>
       </div>
+      	<style>
+#siteToolbar{
+	display:none;	
+}
+#siteToolbar #loginMaster {
+	display: block;
+	height: 45px;
+	padding: 10px 0 0;
+}
+#siteToolbar #loginForm form {
+	width: 100%;
+}
+#siteToolbar #loginForm #fields {
+	float: left;
+}
+#siteToolbar #loginForm #password {
+	float: none;
+}
+#siteToolbar #loginForm #submitbtn {
+	margin: 0px 10px 0px 0;
+	float: left;
+}
+</style>
+	<div id="siteToolbar">
+
+<div id="loginMaster">
+	<div id="loginForm">
+        <form>
+
+			<div class="loginmessage"></div>
+				<div id="fields">
+					<label>Email: </label><input type="text" name="email"><span id="password"><label>Password: </label><input type="password" name="password"></span>
+				</div>
+				<input id="submitbtn" value="Login  »" type="submit" onclick="return dologin(this);" name="submit">
+				<a href="/public/member/new">Register</a> | <a id="forgotpassword" href="/public/member/password_send">Forgot Your Password?</a> | 
+				<a id="close" class="toolbarToggle" href="#">Close</a>
+		</form>
+	</div>
+</div>
+</div>
+
 
 	<div id="full-page">
 		<header>
@@ -207,21 +254,7 @@ function pageloadingtime()
 		</div>
 				<div id="header-main">
 
-				<div class="header-schedule nomobile">
-			<div class="header-schedule-wrap">
-				<div class="header-schedule-full">
-					<div class="header-schedule-header"><a href="/199/1596700/Arizona-Teams-Schedule">Today</a></div>
-					<div class="cycleFade">
-											<div class="firstCycle"><a href="/199/1596700/Arizona-Teams-Schedule">
-							5:05 pm							D-backs @ Rangers							</a>
-
-						</div>
-										</div>
-				
-				</div>
-			</div>
-		</div>
-					<div id="logo-wrap">
+			<div id="logo-wrap">
 				<a href="/" id="logo">ArizonaSports.com</a>
 			</div>
 			<div id="mobile-nav" class="mobileonly">
@@ -237,31 +270,72 @@ function pageloadingtime()
 	</div>
 </div>	
 
+<div id="mobilecluster">
+		<ul class="dropdownmore">
+					<li class="topdivider">Radio</li>
+					<li><a href="http://player.liquidcompass.net/KTARAM" target="_blank">Listen to Arizona Sports 620<br>
+						<img src="/img/mUofPLogo.png">
+					</a></li>
+					<li class="divider">Teams</li>
+					<li><a href="/10/1353322/Arizona-Cardinals-News--News-Scores-Schedules-Photos-Audio-and-Videos">Cardinals</a></li>
+					<li><a href="/11/1355185/Phoenix-Suns-News--News-Scores-Schedules-Photos-Audio-and-Videos">Suns</a></li>
+					<li><a href="/12/1360863/Arizona-Diamondbacks-News--News-Scores-Schedules-Photos-Audio-and-Videos">Diamondbacks</a></li>
+					<li><a href="/13/1360869/Phoenix-Coyotes-News--News-Scores-Schedules-Photos-Audio-and-Videos">Coyotes</a></li>
+					<li><a href="/14/1360880/Arizona-State-University-News--Football-News-Scores-Schedules-Photos-Audio-and-Videos">ASU Football</a></li>
+					<li><a href="/73/1361620/Arizona-State-Sun-Devils-Basketball--Basketball-News-Scores-Schedules-Photos-Audio-and-Videos">ASU Basketball</a></li>
+					<li><a href="/15/1360973/University-of-Arizona-News--Football-News-Scores-Schedules-Photos-Audio-and-Videos">UA Football</a></li>
+					<li><a href="/81/1361621/University-of-Arizona-News--Basketball-News-Scores-Schedules-Photos-Audio-and-Videos">UA Basketball</a></li>
+					<li class="divider">Shows</li>
+					<li><a href="/20/1360439/Doug--Wolf--Arizona-Sports-620">Doug &amp; Wolf</a></li>
+					<li><a href="/263/1651157/Bickley--Marotta--Arizona-Sports-620">The Dan Bickley Show with Vince Marotta</a></li>
+					<li><a href="/22/1351860/Burns--Gambo--Arizona-Sports-620">Burns &amp; Gambo</a></li>
+					<li class="divider">More</li>
+					<li><a href="/47/1568961/Blogs">Blogs</a></li>
+					<li><a href="/33/1361642/Arizona-Sports-Videos">Video</a></li>
+					<li><a href="/229/1601780/Arizona-Sports-Events">Events</a></li>
+					<li><a href="/231/1601781/Arizona-Sports-Contests">Contest</a></li>
+					<li><a href="http://allstar.ktar.com/">Rewards</a></li>
+					<li><a href="http://ktar.com/">KTAR News</a></li>
+					<li><a href="http://987thepeak.com">Entertainment</a></li>
+		</ul>
+	</div>
 <!-- start Static nav -->
 <div class="nav">
 	<div class="nav-wrap">
 	<ul>
-		<li class="float-left first-nav">
-			<a aria-hidden="true" class="icon-home" href="/"></a>
-		</li>
-		<li class="float-left"><a href="/3/1355312/Arizona-Sports-620-Shows">Shows</a></li>
-		<li class="float-left"><a href="/47/1568961/Blogs">Blogs</a></li>
-		<li class="float-left"><a href="/33/1361642/Arizona-Sports-Videos">Video</a></li>
-		<li class="float-left"><a href="/229/1601780/Arizona-Sports-Events">Events</a></li>
-		<li class="float-left"><a href="/231/1601781/Arizona-Sports-Contests">Contest</a></li>
-		<li class="float-left last-nav"><a href="http://allstar.ktar.com">Rewards</a></li>
-
-			
-	</ul>
+	<li class="float-left first-nav">
+		<a aria-hidden="true" class="icon-home" href="/"></a>
+	</li>
+	<li class="float-left"><a href="/3/1355312/Arizona-Sports-620-Shows">Shows</a></li>
+	<li class="float-left"><a href="/47/1568961/Blogs">Blogs</a></li>
+	<li class="float-left"><a href="/33/1361642/Arizona-Sports-Videos">Video</a></li>
+	<li class="float-left"><a href="/229/1601780/Arizona-Sports-Events">Events</a></li>
+	<li class="float-left"><a href="/231/1601781/Arizona-Sports-Contests">Contest</a></li>
+	<li class="float-left last-nav"><a href="http://allstar.ktar.com">Rewards</a></li>
+</ul>
+	
 				<div id="search-wrap">
-				<form method="get" action="/?nid=167" style="margin:0px;padding:0px;">
-					<input type="hidden" name="nid" value="83">
-					<input type="text" name="query" id="searchText" title="Search/Keyword" class="searchText">
-					<input type="image" name="sa" value="search" class="searchbutton" src="http://ktar.com/img/v2/header/magglassicon.png">
-				</form>
+				                     <script>
+  (function() {
+  	var cx = '016901429690765427163:1apxcsbx7dq';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only resultsurl="/?nid=83" autocompletemaxcompletions="5" queryparametername="query"></gcse:searchbox-only>
+				<!--<form method="get" action="/?nid=167" style="margin:0px;padding:0px;">
+					<input type="hidden" name="nid" value="83" />
+					<input type="text" name="query" id="searchText" title="Search/Keyword" class="searchText" />
+					<input type="image" name="sa" value="search" class="searchbutton" src="http://ktar.com/img/v2/header/magglassicon.png"/>
+				</form>-->
 			</div>
 	</div>		
-</div>
+</div> 
 <div class="team-nav">
 <ul>
 		<li class="cards float-left drop three-col"><a class="team-logo" href="#">Cardnals</a>
@@ -285,34 +359,32 @@ function pageloadingtime()
 																																																																												</ul>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
-									<ul class="dropdown-main-headlines">
-																					<a href="/40/1637914/Cards-Tyrann-Mathieu-learning-to-be-more-vocal" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/31/3150/315029.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/40/1637914/Cards-Tyrann-Mathieu-learning-to-be-more-vocal" class="scm_link">Cards' Tyrann Mathieu learning ‘to be more vocal'</a><br>Rookies are supposed to be seen, not heard.
-
-That's not the case for Cardinals...</div>
+									<div class="dropdown-main-headlines">
+																					<a href="/40/1682135/Tight-ends-torching-Arizona-Cardinals-defense-but-its-not-as-bad-as-you-think" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/8942422a-303e-480d-854b-32e219d21095.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/40/1682135/Tight-ends-torching-Arizona-Cardinals-defense-but-its-not-as-bad-as-you-think" class="scm_link">Tight ends torching Arizona Cardinals' defense, but it's not as bad as you think</a><br>Fans of the Arizona Cardinals were channeling their inner-Yogi Berra Sunday,...</div>
 
 																								
-											</ul>
+											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>Cardinals Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/40/1637614/Notable-debuts-in-Arizona-sports-history">Notable debuts in Arizona sports history</a></li>
-																																						<li class="bullet"><a href="/40/1636889/Report-Tyrann-Mathieu-to-face-up-to-10-drug-tests-per-month">Report: Tyrann Mathieu to face up to 10 drug tests per month</a></li>
-																																						<li class="bullet"><a href="/40/1636867/CBS-writer-Larry-Fitzgerald-a-lock-for-the-Hall-of-Fame">CBS writer: Larry Fitzgerald a lock for the Hall of Fame</a></li>
-																																						<li class="bullet"><a href="/40/1636629/Cardinals-sign-thirdround-pick-Tyrann-Mathieu">Cardinals sign third-round pick Tyrann Mathieu</a></li>
-																																						<li class="bullet"><a href="/40/1636609/Cardinals-Daryn-Colledge-adjusting-to-life-on-the-right-side">Cardinals' Daryn Colledge adjusting to life on the right side</a></li>
-																																						<li class="bullet"><a href="/40/1636081/Cardinals-sign-WR-Charles-Hawkins">Cardinals sign WR Charles Hawkins</a></li>
+																																																										<li class="bullet"><a href="/40/1682275/Eagles-CB-on-Arizona-Cardinals-Lets-not-be-crybabies">Eagles' CB on Arizona Cardinals: 'Let's not be crybabies'</a></li>
+																																						<li class="bullet"><a href="/40/1682190/Figuring-out-Cardinals-playoff-scenarios">Figuring out Cardinals playoff scenarios</a></li>
+																																						<li class="bullet"><a href="/40/1682153/NFL-analyst-Arizona-Cardinals-may-need-11-wins-to-reach-the-playoffs">NFL analyst: Arizona Cardinals may need 11 wins to reach the playoffs</a></li>
+																																						<li class="bullet"><a href="/40/1682016/Super-Bowl-Host-Committee-unveils-XLIX-logo">Super Bowl Host Committee unveils XLIX logo</a></li>
+																																						<li class="bullet"><a href="/40/1681893/Behind-Enemy-Lines-St-Louis-Rams">Behind Enemy Lines: St. Louis Rams</a></li>
+																																						<li class="bullet"><a href="/40/1681976/Arizona-Cardinals-Have-to-move-on-from-officials-loss">Arizona Cardinals: Have to move on from officials, loss</a></li>
 																			
 																		</ul>
 											</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/170/1636043/Arizona-Cardinals-OTAs--Tue-May-21"><img src="http://www.arizonasports.com/emedia/az/31/3154/315463.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/170/1681696/Cardinals-vs-Eagles--Sun"><img src="http://www.arizonasports.com/emedia/apimage/602249b4-4de9-4c23-b1e4-8a6627ec8f74.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/171/1635547/Cardinals-head-coach-Bruce-Arians-on-ESPNs-Sunday-Conversation"><img src="http://www.arizonasports.com/emedia/az/31/3153/315349.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/171/1680923/The-Big-Red-Wolf-Report-After-the-Colts-before-the-Eagles"><img src="http://www.arizonasports.com/emedia/az/32/3291/329182.png?filter=mynw/145x90_cropped"></a></li>
 															</ul>												
 			</div>
 			<div class="clearboth"></div>
@@ -343,30 +415,32 @@ That's not the case for Cardinals...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/41/1637920/Suns-brought-in-more-than-a-head-coach" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/0f6b9fd1-e8c6-4f97-ad51-2d222ea8f135.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/41/1637920/Suns-brought-in-more-than-a-head-coach" class="scm_link">Suns brought in more than a head coach</a><br>Until the hiring of Jeff Hornacek, the head coach position wasn't the only thing...</div>
+																					<a href="/41/1682267/Dan-Majerle-Ill-be-a-Phoenix-Suns-fan-until-the-day-I-die" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/32/3213/321300.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/41/1682267/Dan-Majerle-Ill-be-a-Phoenix-Suns-fan-until-the-day-I-die" class="scm_link">Dan Majerle: 'I'll be a Phoenix Suns fan until the day I die'</a><br>Dan Majerle's departure from the Phoenix Suns was a bit abrupt, to say the least.
+
+A...</div>
 
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>Suns Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/41/1637888/Suns-lose-assistant-Igor-Kokoskov-to-the-Cleveland-Cavaliers">Suns lose assistant Igor Kokoskov to the Cleveland Cavaliers</a></li>
-																																						<li class="bullet"><a href="/41/1637872/Suns-need-to-focus-on-the-future-not-the-past">Suns need to focus on the future, not the past</a></li>
-																																						<li class="bullet"><a href="/41/1637584/Suns-connect-with-their-past-by-hiring-Hornacek">Suns connect with their past by hiring Hornacek</a></li>
-																																						<li class="bullet"><a href="/41/1637772/Jared-Dudley-Hiring-Jeff-Hornacek-good-for-the-entire-team">Jared Dudley: Hiring Jeff Hornacek good for the entire team</a></li>
-																																						<li class="bullet"><a href="/41/1637740/New-Suns-coach-Hornacek-Players-have-to-trust-you">New Suns coach Hornacek: 'Players have to trust you'</a></li>
+																																																										<li class="bullet"><a href="/41/1682051/Take-3-Phoenix-Suns-to-start-Bledsoe-Dragic-in-same-backcourt-once-more">Take 3: Phoenix Suns to start Bledsoe, Dragic in same backcourt once more</a></li>
+																																						<li class="bullet"><a href="/41/1681989/Phoenix-Suns-cant-complain-about-first-month-of-the-season">Phoenix Suns 'can't complain' about first month of the season</a></li>
+																																						<li class="bullet"><a href="/41/1681770/Robinson-scores-23-Nuggets-beat-Raptors-11298">Robinson scores 23, Nuggets beat Raptors 112-98</a></li>
+																																						<li class="bullet"><a href="/41/1681631/Phoenix-Suns-searching-for-answers-after-listless-loss-to-Utah-Jazz">Phoenix Suns searching for answers after listless loss to Utah Jazz</a></li>
+																																						<li class="bullet"><a href="/41/1681628/Suns-Strokes-Phoenix-falls-flat-as-Utah-notches-first-road-win-of-2013">Suns Strokes: Phoenix falls flat as Utah notches first road win of 2013</a></li>
 																			
 																		</ul>
 											</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/173/1637696/Jeff-Hornacek-introduced-as-Phoenix-Suns-coach"><img src="http://www.arizonasports.com/emedia/apimage/aeeb1258-751f-4911-9a8c-4eebc4d7972c.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/173/1681607/Suns-vs-Jazz--Sat"><img src="http://www.arizonasports.com/emedia/az/32/3293/329335.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/174/1632894/ESPNs-Chad-Ford-talks-Ryan-McDonough-to-the-Suns"><img src="http://www.arizonasports.com/emedia/az/31/3145/314583.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/174/1677348/Question-and-Declare-Current-thoughts-on-the-Suns"><img src="http://www.arizonasports.com/emedia/az/32/3280/328080.png?filter=mynw/145x90_cropped"></a></li>
 															</ul>													
 			</div>
 			<div class="clearboth"></div>
@@ -397,29 +471,31 @@ That's not the case for Cardinals...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/42/1637929/Arizona-Diamondbacks-shortstop-Didi-Greogorius-taking-successes-in-stride" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/42f3cc32-b512-4f9a-9995-167b733e84f8.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/42/1637929/Arizona-Diamondbacks-shortstop-Didi-Greogorius-taking-successes-in-stride" class="scm_link">Arizona Diamondbacks shortstop Didi Greogorius taking successes in stride</a><br>It's 11:22 AM on Memorial Day, just over an hour away from the first pitch of...</div>
+																					<a href="/42/1682241/Rays-acquire-C-Hanigan-RHP-Bell-in-3team-trade" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/91e1368c-034d-4d9e-9b60-36529f0b8943.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/42/1682241/Rays-acquire-C-Hanigan-RHP-Bell-in-3team-trade" class="scm_link">Rays acquire C Hanigan, RHP Bell in 3-team trade</a><br>
+
+ST. PETERSBURG, Fla. (AP) - Catcher Ryan Hanigan and reliever Heath Bell are...</div>
 
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>D-backs Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/42/1632497/This-date-in-baseball">This date in baseball</a></li>
-																																						<li class="bullet"><a href="/42/1637603/Archie-Bradley-ranked-ninthbest-MLB-prospect-by-ESPN-insider">Archie Bradley ranked ninth-best MLB prospect by ESPN insider</a></li>
-																																						<li class="bullet"><a href="/42/1637504/Darvish-Rangers-blow-lead-in-Diamondbacks-sweep">Darvish, Rangers blow lead in Diamondbacks sweep</a></li>
-																																						<li class="bullet"><a href="/42/1637500/Grit-Index-Dbacks-cap-doubleheader-sweep-with-walkoff-win">Grit Index: D-backs cap doubleheader sweep with walk-off win</a></li>
+																																																										<li class="bullet"><a href="/42/1682240/Rays-acquire-C-Hanigan-RHP-Bell-in-3team-trade">Rays acquire C Hanigan, RHP Bell in 3-team trade</a></li>
+																																						<li class="bullet"><a href="/42/1682214/Arizona-Diamondbacks-trade-Heath-Bell-and-David-Holmberg-as-part-of-threeteam-deal">Arizona Diamondbacks trade Heath Bell and David Holmberg as part of three-team deal</a></li>
+																																						<li class="bullet"><a href="/42/1682050/Doug-Fister-dealt-to-Nats-Jim-Johnson-to-As">Doug Fister dealt to Nats, Jim Johnson to A's</a></li>
+																																						<li class="bullet"><a href="/42/1682142/Arizona-Diamondbacks-nontender-Daniel-Hudson-pitcher-becomes-a-free-agent">Arizona Diamondbacks non-tender Daniel Hudson, pitcher becomes a free agent</a></li>
 																			
 																		</ul>
 											</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/176/1637492/Game-2-Dbacks-vs-Rangers--Mon"><img src="http://www.arizonasports.com/emedia/az/31/3157/315785.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/176/1666218/Dbacks-vs-Nationals--Sun"><img src="http://www.arizonasports.com/emedia/az/32/3244/324483.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/177/1636535/Venom-Vision-Dbacks-among-top-teams-in-NL-West"><img src="http://www.arizonasports.com/emedia/az/31/3156/315613.png?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/177/1666667/Venom-Vision-Stagnancy-not-grit-the-theme-of-2013-Dbacks"><img src="http://www.arizonasports.com/emedia/az/32/3246/324615.jpg?filter=mynw/145x90_cropped"></a></li>
 															</ul>											
 			</div>
 			<div class="clearboth"></div>
@@ -450,31 +526,31 @@ That's not the case for Cardinals...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/43/1637732/Coyotes-GM-Don-Maloney-gets-extension-looks-toward-future" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/31/3158/315842.JPG?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/43/1637732/Coyotes-GM-Don-Maloney-gets-extension-looks-toward-future" class="scm_link">Coyotes' GM Don Maloney gets extension, looks toward future</a><br>At least part of the unrest in the Phoenix Coyotes organization is over.
+																					<a href="/43/1681938/Phoenix-Coyotes-to-honor-members-of-1980-USA-hockey-team" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/32/3294/329438.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/43/1681938/Phoenix-Coyotes-to-honor-members-of-1980-USA-hockey-team" class="scm_link">Phoenix Coyotes to honor members of 1980 USA hockey team</a><br>The "Miracle on Ice" is coming to Glendale.
 
-The...</div>
+Prior to the Feb. 7 game against...</div>
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>Coyotes Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/43/1637104/AP-Sources-Coyotes-sale-approved-hurdle-remains">AP Sources: Coyotes sale approved, hurdle remains</a></li>
-																																						<li class="bullet"><a href="/43/1637005/Report-Deal-reached-for-sale-of-Phoenix-Coyotes">Report: Deal reached for sale of Phoenix Coyotes</a></li>
-																																						<li class="bullet"><a href="/43/1636980/Don-Maloney-contract-is-first-step-on-long-road">Don Maloney contract is first step on long road</a></li>
-																																						<li class="bullet"><a href="/43/1636951/Phoenix-Coyotes-announce-longterm-extension-for-GM-Don-Maloney">Phoenix Coyotes announce long-term extension for GM Don Maloney</a></li>
-																																						<li class="bullet"><a href="/43/1636574/Report-Coyotes-nearing-new-contract-for-GM-Don-Maloney">Report: Coyotes nearing new contract for GM Don Maloney</a></li>
+																																																										<li class="bullet"><a href="/43/1681608/Kane-leads-Blackhawks-past-Coyotes-52">Kane leads Blackhawks past Coyotes 5-2</a></li>
+																																						<li class="bullet"><a href="/43/1681530/Report-Phoenix-Coyotes-sign-forward-Gilbert-Brule-to-1year-deal">Report: Phoenix Coyotes sign forward Gilbert Brule to 1-year deal</a></li>
+																																						<li class="bullet"><a href="/43/1681321/Coyotes-recall-defenseman-Klesla-send-Brown-to-Portland">Coyotes recall defenseman Klesla, send Brown to Portland</a></li>
+																																						<li class="bullet"><a href="/43/1681081/Coyotes-snap-3game-skid-with-win-over-Wild">Coyotes snap 3-game skid with win over Wild</a></li>
+																																						<li class="bullet"><a href="/43/1680798/Coyotes-coach-Dave-Tippett-Team-cant-rely-on-coming-back">Coyotes coach Dave Tippett: Team ‘can't rely on coming back'</a></li>
 																			
 																		</ul>
 											</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/179/1630312/Coyotes-vs-Avalanche--Fri"><img src="http://www.arizonasports.com/emedia/az/31/3140/314031.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/179/1681585/Coyotes-vs-Blackhawks--Sat"><img src="http://www.arizonasports.com/emedia/az/32/3293/329334.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/180/1629927/Coyotes-Ice-Bites-No-postseason-play-for-the-Yotes"><img src="http://www.arizonasports.com/emedia/az/31/3139/313928.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/180/1682232/Ice-Bites-Phoenix-Coyotes-hoping-to-turn-it-around-in-Canada"><img src="http://www.arizonasports.com/emedia/az/32/3295/329530.jpg?filter=mynw/145x90_cropped"></a></li>
 															</ul>													
 			</div>
 			<div class="clearboth"></div>
@@ -511,29 +587,31 @@ The...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/44/1636287/ASUs-Kody-Koebensky-named-to-Rimington-Watch-Llist" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/31/3155/315567.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/44/1636287/ASUs-Kody-Koebensky-named-to-Rimington-Watch-Llist" class="scm_link">ASU's Kody Koebensky named to Rimington Watch Llist</a><br>Arizona State senior offensive lineman Kody Koebensky was one of 44 players...</div>
+																					<a href="/44/1682308/ESPNs-Mark-May-Stanford-QB-Hogan-key-to-Pac12-Championship-Game" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/2e1abd9a-d59e-4d43-afaa-4a707a6ce4ed.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/44/1682308/ESPNs-Mark-May-Stanford-QB-Hogan-key-to-Pac12-Championship-Game" class="scm_link">ESPN's Mark May: Stanford QB Hogan key to Pac-12 Championship Game</a><br>Saturday's Pac-12 Championship Game will likely boil down to one thing. 
+
+Although...</div>
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>ASU Football Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/44/1635973/ASUs-Carl-Bradford-named-to-Freaks-List">ASU's Carl Bradford named to 'Freaks List'</a></li>
-																																						<li class="bullet"><a href="/44/1634547/Former-Sun-Devil-QB-Andrew-Walter-running-for-Congress">Former Sun Devil QB Andrew Walter running for Congress</a></li>
-																																						<li class="bullet"><a href="/44/1634396/ASU-AD-Still-hopeful-Notre-Dame-will-play-in-Tempe-in-2014">ASU AD: Still hopeful Notre Dame will play in Tempe in 2014</a></li>
-																																						<li class="bullet"><a href="/44/1634286/Weber-State-added-to-ASUs-2014-schedule">Weber State added to ASU's 2014 schedule</a></li>
-																																						<li class="bullet"><a href="/44/1632929/Arizona-State-reveals-new-Sparky">Arizona State reveals new Sparky</a></li>
+																																																										<li class="bullet"><a href="/44/1682300/ASUs-Foster-has-a-different-look-in-his-eye-as-role-increases">ASU's Foster has 'a different look in his eye' as role increases</a></li>
+																																						<li class="bullet"><a href="/44/1682067/Doug-Franz-College-Football-Playoff--Week-7">Doug Franz College Football Playoff - Week 7</a></li>
+																																						<li class="bullet"><a href="/44/1682034/The-Pulse-Fans-say-ASUs-win-over-UCLA-most-impressive-of-the-season">The Pulse: Fans say ASU's win over UCLA most impressive of the season</a></li>
+																																						<li class="bullet"><a href="/44/1681991/Arizona-States-Randall-Gonzalez-named-Pac12-Players-of-the-Week">Arizona State's Randall, Gonzalez named Pac-12 Players of the Week</a></li>
+																																						<li class="bullet"><a href="/44/1681967/Arizona-State-has-17-players-on-AllPac12-Teams">Arizona State has 17 players on All-Pac-12 Teams</a></li>
 																			
 																		</ul>
 											</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/185/1628832/Remembering-Pat-Tillman"><img src="http://www.arizonasports.com/emedia/az/31/3135/313573.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/185/1681594/Arizona-vs-Arizona-State--Sat"><img src="http://www.arizonasports.com/emedia/apimage/6448afaf-ad8e-41f5-951b-ad1dbba78797.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/186/1632865/ASUs-Taylor-Kelly-drag-races-in-offseason"><img src="http://www.arizonasports.com/emedia/az/31/3145/314579.JPG?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/186/1681672/Sun-Devils-celebrate-their-second-straight-Territorial-Cup-victory"><img src="http://www.arizonasports.com/emedia/az/32/3293/329358.jpg?filter=mynw/145x90_cropped"></a></li>
 															</ul>													
 			</div>
 			<div class="clearboth"></div>
@@ -555,30 +633,30 @@ The...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/74/1635213/Carrick-Felix-has-impressive-measurements-at-NBA-Draft-Combine" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/30/3098/309881.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/74/1635213/Carrick-Felix-has-impressive-measurements-at-NBA-Draft-Combine" class="scm_link">Carrick Felix has impressive measurements at NBA Draft Combine</a><br>Arizona State's Carrick Felix does not figure to be a first-round pick in next...</div>
+																					<a href="/74/1681759/Miami-beats-Arizona-State-6057-at-Wooden-Legacy" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/0159d765-184a-4f8e-a929-0bc709177724.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/74/1681759/Miami-beats-Arizona-State-6057-at-Wooden-Legacy" class="scm_link">Miami beats Arizona State, 60-57, at Wooden Legacy</a><br>ANAHEIM, Calif. (AP) — The Arizona State basketball team thought it would do...</div>
 
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>ASU Basketball Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/74/1633085/Report-Evan-Gordon-leaving-Sun-Devils">Report: Evan Gordon leaving Sun Devils</a></li>
-																																						<li class="bullet"><a href="/74/1632402/Report-Sun-Devils-name-Eric-Musselman-associate-head-coach">Report: Sun Devils name Eric Musselman associate head coach</a></li>
-																																						<li class="bullet"><a href="/74/1631661/Vitale-has-Sun-Devils-basketball-in-preseason-Top-25">Vitale has Sun Devils basketball in preseason Top 25</a></li>
-																																						<li class="bullet"><a href="/74/1626215/Carrick-Felix-declines-Portsmouth-invite-nervous-about-NBA-Draft">Carrick Felix declines Portsmouth invite, 'nervous' about NBA Draft</a></li>
-																																						<li class="bullet"><a href="/74/1625723/Jahii-Carsons-return-Great-for-ASU-but-places-pressure-squarely-on-Herb-Sendek">Jahii Carson's return: Great for ASU, but places pressure squarely on Herb Sendek</a></li>
+																																																										<li class="bullet"><a href="/74/1681488/Arizona-St-routs-College-of-Charleston-8058">Arizona St. routs College of Charleston 80-58</a></li>
+																																						<li class="bullet"><a href="/74/1681260/McDermott-scores-27-as-No-20-Creighton-hands-ASU-its-1st-loss">McDermott scores 27 as No. 20 Creighton hands ASU its 1st loss</a></li>
+																																						<li class="bullet"><a href="/74/1681254/ASU-vs-Creighton--Thu">ASU vs. Creighton - Thu.</a></li>
+																																						<li class="bullet"><a href="/74/1681011/Arizona-States-Carson-Bachynski-and-Arizonas-Gordon-projected-first-round-picks-in-mock-draft">Arizona State's Carson, Bachynski and Arizona's Gordon projected first round picks in mock draft</a></li>
+																																						<li class="bullet"><a href="/74/1680939/ASU-men-prepare-for-first-ever-Wooden-Legacy-Tournament-on-Thanksgiving">ASU men prepare for first ever Wooden Legacy Tournament on Thanksgiving</a></li>
 																			
 																		</ul>
 											</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/188/1620521/ASU-vs-Baylor--Fri"><img src="http://www.arizonasports.com/emedia/az/31/3116/311633.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/188/1681758/ASU-vs-Miami--Sun"><img src="http://www.arizonasports.com/emedia/apimage/ef2e37bc-bea3-4025-875a-c4597ee78578.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/189/1631365/How-Sun-Devils-eat-their-food"><img src="http://www.arizonasports.com/emedia/az/31/3142/314244.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/189/1655148/Sophomore-Jahii-Carson-wows-at-Adidas-Nations-showcase"><img src="http://www.arizonasports.com/emedia/az/31/3102/310215.jpg?filter=mynw/145x90_cropped"></a></li>
 															</ul>												
 			</div>
 			<div class="clearboth"></div>
@@ -615,7 +693,7 @@ The...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																				<a href="/45/1636954/Arizona-will-not-play-UNLV-in-Glendale-this-season" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/30/3035/303558.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/45/1636954/Arizona-will-not-play-UNLV-in-Glendale-this-season" class="scm_link">Arizona will not play UNLV in Glendale this season</a><br>The Arizona Wildcats will take on the BYU Cougars at University of Phoenix Stadium...</div>
+																				<a href="/45/1681946/Wildcats-Carey-wins-Pac12-Offensive-Player-of-the-Year" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/aeafd1da-e8fa-4793-8d03-c65b402ad218.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/45/1681946/Wildcats-Carey-wins-Pac12-Offensive-Player-of-the-Year" class="scm_link">Wildcats' Carey wins Pac-12 Offensive Player of the Year</a><br> Arizona Wildcat running back Ka'Deem Carey is the Pac-12 Offensive Player of...</div>
 
 								
 																
@@ -623,11 +701,11 @@ The...</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>UA Football Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/45/1634416/Kiper-KaDeem-Carey-thirdbest-RB-prospect-for-2014-draft">Kiper: Ka'Deem Carey third-best RB prospect for 2014 draft</a></li>
-																																						<li class="bullet"><a href="/45/1632560/Tedy-Bruschi-named-to-College-Football-Hall-of-Fame">Tedy Bruschi named to College Football Hall of Fame</a></li>
-																																						<li class="bullet"><a href="/45/1632340/Arizona-coach-Rodriguez-says-Jesse-Scroggins-is-in-QB-mix">Arizona coach Rodriguez says Jesse Scroggins is in QB mix</a></li>
-																																						<li class="bullet"><a href="/45/1629467/Arizona-Wildcats-unveil-new-football-uniforms">Arizona Wildcats unveil new football uniforms</a></li>
-																																						<li class="bullet"><a href="/45/1630429/ASU-UA-undrafted-prospects-on-the-move-in-free-agency">ASU, UA undrafted prospects on the move in free agency</a></li>
+																																																										<li class="bullet"><a href="/45/1681525/The-Pulse-Fans-expecting-an-ASU-win-over-Arizona">The Pulse: Fans expecting an ASU win over Arizona</a></li>
+																																						<li class="bullet"><a href="/45/1681313/The-Pulse-Taylor-Kelly-will-be-the-most-important-player-in-the-2013-Territorial-Cup">The Pulse: Taylor Kelly will be the most important player in the 2013 Territorial Cup</a></li>
+																																						<li class="bullet"><a href="/45/1681329/Three-ways-Arizona-beats-ASU-three-ways-the-Wildcats-lose-to-the-Sun-Devils">Three ways Arizona beats ASU, three ways the Wildcats lose to the Sun Devils</a></li>
+																																						<li class="bullet"><a href="/45/1589992/A-Wildcat-remembers-his-favorite-memories-of-the-Territorial-Cup">A Wildcat remembers his favorite memories of the Territorial Cup</a></li>
+																																						<li class="bullet"><a href="/45/1681238/Territorial-Cup-preview-Keys-for-ASU-UA-to-take-home-the-trophy">Territorial Cup preview: Keys for ASU, UA to take home the trophy</a></li>
 																			
 																		</ul>
 												
@@ -636,12 +714,12 @@ The...</div>
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/191/1632331/Arizona-Wildcats-new-football-uniforms"><img src="http://www.arizonasports.com/emedia/az/31/3144/314445.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/191/1681594/Arizona-vs-Arizona-State--Sat"><img src="http://www.arizonasports.com/emedia/apimage/6448afaf-ad8e-41f5-951b-ad1dbba78797.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/192/1636956/Wildcats-celebrate-Rich-Rodriguezs-birthday"><img src="http://www.arizonasports.com/emedia/az/31/3156/315683.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/192/1680486/Sounds-of-Arizona-Football-Wildcats-upset-No-5-Oregon"><img src="http://www.arizonasports.com/emedia/az/32/3290/329078.jpg?filter=mynw/145x90_cropped"></a></li>
 															</ul>													
 			</div>
 			<div class="clearboth"></div>
@@ -663,18 +741,18 @@ The...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/82/1636541/Wildcats-nonconference-schedule-includes-Michigan-NIT-Season-TipOff" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/31/3156/315614.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/82/1636541/Wildcats-nonconference-schedule-includes-Michigan-NIT-Season-TipOff" class="scm_link">Wildcats' non-conference schedule includes Michigan, NIT Season Tip-Off</a><br>Back in the day, the Arizona Wildcats would make a habit out of playing a tough...</div>
+																					<a href="/82/1682029/Arizonas-Nick-Johnson-named-Pac12-Player-of-the-Week" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/857326ea-7017-4171-8ccc-d2d0f030b110.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/82/1682029/Arizonas-Nick-Johnson-named-Pac12-Player-of-the-Week" class="scm_link">Arizona's Nick Johnson named Pac-12 Player of the Week</a><br>Arizona junior guard Nick Johnson was named the Pac-12 Player of the Week, the...</div>
 
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>UA Basketball Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/82/1635461/Arizona-coach-Miller-breaks-down-busy-offseason">Arizona coach Miller breaks down busy offseason</a></li>
-																																						<li class="bullet"><a href="/82/1633978/Arizona-Wildcats-land-Kansas-transfer-Zach-Peters">Arizona Wildcats land Kansas transfer Zach Peters</a></li>
-																																						<li class="bullet"><a href="/82/1632189/Report-Damon-Stoudamire-to-return-to-UA-as-assistant-coach">Report: Damon Stoudamire to return to UA as assistant coach</a></li>
-																																						<li class="bullet"><a href="/82/1631363/Arizona-forward-Angelo-Chol-to-transfer">Arizona forward Angelo Chol to transfer</a></li>
-																																						<li class="bullet"><a href="/82/1628834/ESPN-Insider-Pair-of-Wildcats-could-be-oneanddone">ESPN Insider: Pair of Wildcats could be one-and-done</a></li>
+																																																										<li class="bullet"><a href="/82/1682002/Arizona-Wildcats-move-up-to-No-2-in-latest-AP-Poll">Arizona Wildcats move up to No. 2 in latest AP Poll</a></li>
+																																						<li class="bullet"><a href="/82/1681436/No-4-Arizona-Wildcats-top-No-6-Duke-for-NIT-Preseason-TipOff-title">No. 4 Arizona Wildcats top No. 6 Duke for NIT Preseason Tip-Off title</a></li>
+																																						<li class="bullet"><a href="/82/1681066/No-4-Wildcats-erase-18point-deficit-advance-to-NIT-championship">No. 4 Wildcats erase 18-point deficit, advance to NIT championship</a></li>
+																																						<li class="bullet"><a href="/82/1681011/Arizona-States-Carson-Bachynski-and-Arizonas-Gordon-projected-first-round-picks-in-mock-draft">Arizona State's Carson, Bachynski and Arizona's Gordon projected first round picks in mock draft</a></li>
+																																						<li class="bullet"><a href="/82/1678917/Johnson-Ashley-lead-No-5-Arizona-to-NIT-semis">Johnson, Ashley lead No. 5 Arizona to NIT semis</a></li>
 																			
 																		</ul>
 												<a style="float: right;margin: 10px 105px -20px 0;" href="http://www.rightsure.com" title="Right Sure" target="_blank"><img width="120" src="http://www.arizonasports.com/emedia/az/31/3107/310764.jpg"></a>
@@ -682,12 +760,12 @@ The...</div>
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/194/1622341/Arizona-vs-Ohio-State--Thu"><img src="http://www.arizonasports.com/emedia/az/31/3119/311994.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/194/1678596/Arizona-vs-Fairleigh-Dickinson--Mon"><img src="http://www.arizonasports.com/emedia/apimage/cfc4c48e-c220-4a60-b398-de177f9e3c99.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/195/1628918/McKale-Environment"><img src="http://www.arizonasports.com/emedia/az/31/3135/313597.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/195/1677682/Arizona-Wildcats-Aaron-Gordon-throws-down-monster-dunk-against-SDSU"><img src="http://www.arizonasports.com/emedia/az/32/3281/328165.jpg?filter=mynw/145x90_cropped"></a></li>
 															</ul>												
 			</div>
 			<div class="clearboth"></div>
@@ -706,37 +784,39 @@ The...</div>
 				<ul>
 																								<li class="firstNav"><a href="/123/1433867/Arizona-High-School-Sports">Preps Home</a></li>
 																				<li><a href="/123/1433867/Arizona-High-School-Sports">Stories</a></li>
-																				<li><a href="/">Results</a></li>
+																				<li><a href="/167/1576220/Football-Scoreboard">Results</a></li>
 																																																																												</ul>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/130/1636274/RSK-makes-a-name-for-itself" class="scm_image"><img src="http://www.aia365.com/images/library/schoolfiles/images/rsktrophy.jpg?filter=ktar/dropdown_251x139" width="251px"></a>								<div class="subnav_mainDesc"><a href="/130/1636274/RSK-makes-a-name-for-itself" class="scm_link">RSK makes a name for itself</a><br>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (L-R Coach...</div>
+																					<a href="/130/1681636/Saguaro-football-coach-wins-title-then-proposes-to-girlfriend" class="scm_image"><img src="http://images.maxpreps.com/site_images/editorial/article/3/f/5/3f5bf57b-9e5f-4ca9-b42f-d1324c3edca4/d1d74c18-8f59-e311-b330-002655e6c126_original.jpg?filter=ktar/dropdown_251x139" width="251px"></a>								<div class="subnav_mainDesc"><a href="/130/1681636/Saguaro-football-coach-wins-title-then-proposes-to-girlfriend" class="scm_link">Saguaro football coach wins title, then proposes to girlfriend</a><br>File photo by Mark JonesJason Mohns, SaguaroAll 
+championship game victories...</div>
 
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>Preps Headlines</h2>					<ul class="dropdown-headlines">
-																																									<li class="bullet"><a href="/130/1637948/Becerra-steps-down-as-Marcos-de-Niza-baseball-coach">Becerra steps down as Marcos de Niza baseball coach</a></li>
-																																						<li class="bullet"><a href="/130/1637761/Bob-Jacobsen-was-a-friend-to-Arizonas-prep-sports-community">Bob Jacobsen was a friend to Arizona's prep sports community</a></li>
-																																						<li class="bullet"><a href="/130/1637666/Potpouri-of-strange-events-moments-from-20122013">Potpouri of strange events, moments from 2012-2013</a></li>
-																																						<li class="bullet"><a href="/130/1637786/Pat-Herrera-moves-up-the-street-for-new-baseball-job">Pat Herrera moves up the street for new baseball job</a></li>
-																																						<li class="bullet"><a href="/130/1637805/Fitzgerald-Konkle-Prince-Gross-and-Robben-Selected-as-MaxPrepsNFCA-National-HS-Players-of-the-Week">Fitzgerald, Konkle, Prince, Gross and Robben Selected as MaxPreps/NFCA National H.S. Players of the Week</a></li>
-																																						<li class="bullet"><a href="/130/1636921/Dave-Shapiro-A-top-educatorcoach-for-all-seasons-amp-reasons">Dave Shapiro: A top educator-coach for all seasons &amp; reasons</a></li>
+																																									<li class="bullet"><a href="/130/1682210/Help-BisbeeDouglas-win-national-rivalry-competition">Help Bisbee-Douglas win national rivalry competition</a></li>
+																																						<li class="bullet"><a href="/130/1682066/Boys-hoops-Mesa-Mtn-Views-balance-subdues-Boulder-Creek">Boys hoops: Mesa Mtn. View's balance subdues Boulder Creek</a></li>
+																																						<li class="bullet"><a href="/130/1681951/Perry-edges-Desert-Ridge-for-PV-boys-hoops-championship">Perry edges Desert Ridge for PV boys hoops championship</a></li>
+																																						<li class="bullet"><a href="/130/1681940/Football-championship-photo-slide-show">Football championship photo slide show</a></li>
+																																						<li class="bullet"><a href="/130/1681924/Mesa-district-looking-for-head-volleyball-football-coaches">Mesa district looking for head volleyball, football coaches</a></li>
+																																						<li class="bullet"><a href="/130/1681903/Photo-slide-show-of-football-championship-games">Photo slide show of football championship games</a></li>
 																			
 																		</ul>
-											</div>	
+												<a style="float: right;margin: 10px 105px -20px 0;" href="http://j.mp/19AJ6v1" target="_blank"><img width="120" src="http://www.arizonasports.com/emedia/az/32/3270/327033.jpg"></a>
+
+			</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/170/1636043/Arizona-Cardinals-OTAs--Tue-May-21"><img src="http://www.arizonasports.com/emedia/az/31/3154/315463.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/170/1681696/Cardinals-vs-Eagles--Sun"><img src="http://www.arizonasports.com/emedia/apimage/602249b4-4de9-4c23-b1e4-8a6627ec8f74.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/171/1635547/Cardinals-head-coach-Bruce-Arians-on-ESPNs-Sunday-Conversation"><img src="http://www.arizonasports.com/emedia/az/31/3153/315349.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/171/1680923/The-Big-Red-Wolf-Report-After-the-Colts-before-the-Eagles"><img src="http://www.arizonasports.com/emedia/az/32/3291/329182.png?filter=mynw/145x90_cropped"></a></li>
 															</ul>													
 			</div>
 			<div class="clearboth"></div>
@@ -764,31 +844,31 @@ The...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/216/1636373/Patrick-Stenhouse-make-up-following-wreck" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/5a696720-b450-45d1-82a1-104c2c3ee2d0.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/216/1636373/Patrick-Stenhouse-make-up-following-wreck" class="scm_link">Patrick, Stenhouse make up following wreck</a><br>
+																					<a href="/216/1682133/Woods-closes-chapter-on-California-childhood" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/5744e031-1a5e-4b36-aa76-025e6895365a.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/216/1682133/Woods-closes-chapter-on-California-childhood" class="scm_link">Woods closes chapter on California childhood</a><br>
 
-LONG POND, Pa. (AP) - Danica Patrick left the bumpy ride with boyfriend Ricky...</div>
+THOUSAND OAKS, Calif. (AP) - Of all the memories from Tiger Woods' roots in...</div>
 
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2></h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/216/1637912/Mike-Conway-to-race-Belle-Isle-for-Dale-Coyne">Mike Conway to race Belle Isle for Dale Coyne</a></li>
-																																						<li class="bullet"><a href="/216/1637856/Love-joins-Haas-as-Presidents-Cup-aides-to-Couples">Love joins Haas as Presidents Cup aides to Couples</a></li>
-																																						<li class="bullet"><a href="/216/1637774/Rahm-Arizona-St-take-lead-at-NCAA-championship">Rahm, Arizona St take lead at NCAA championship</a></li>
-																																						<li class="bullet"><a href="/216/1637743/A-contentious-year-in-golf">A contentious year in golf</a></li>
+																																																										<li class="bullet"><a href="/216/1682265/Swan-Racing-expanding-to-2-Sprint-Cup-teams">Swan Racing expanding to 2 Sprint Cup teams</a></li>
+																																						<li class="bullet"><a href="/216/1682197/Kanaan-savors-image-on-Indianapolis-500-trophy">Kanaan savors image on Indianapolis 500 trophy</a></li>
+																																						<li class="bullet"><a href="/216/1682146/Stewart-picked-for-NASCAR-14-video-game-cover">Stewart picked for 'NASCAR '14' video game cover</a></li>
+																																						<li class="bullet"><a href="/216/1594574/A-big-week-of-golf-on-3-continents">A big week of golf on 3 continents</a></li>
 																			
 																		</ul>
 											</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/71/1637781/2013-Stanley-Cup-Playoffs--Tue"><img src="http://www.arizonasports.com/emedia/az/31/3158/315864.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/71/1682060/Monday-Night-Football--Saints-at-Seahawks"><img src="http://www.arizonasports.com/emedia/apimage/5b1ac3d9-dbe4-4fae-a981-dc7e51fd70ba.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/90/1637889/Brittney-Griner-discusses-her-sexuality"><img src="http://www.arizonasports.com/emedia/az/31/3158/315885.JPG?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/90/1682232/Ice-Bites-Phoenix-Coyotes-hoping-to-turn-it-around-in-Canada"><img src="http://www.arizonasports.com/emedia/az/32/3295/329530.jpg?filter=mynw/145x90_cropped"></a></li>
 															</ul>										
 			</div>
 			<div class="clearboth"></div>
@@ -802,19 +882,19 @@ LONG POND, Pa. (AP) - Danica Patrick left the bumpy ride with boyfriend Ricky...
 	<div style="float: right;margin: 3px 5px 0 0;position:relative;" class="scoreboard"><div class="float:left"><a href="https://fastertimes.org/" target="_blank" style="float:left;margin: 14px 10px 0;"><img src="/img/fastER_scoreboard.jpg" style="height:40px;"></a><iframe src="http://arizonasports.stats.com/ticker/shs_ArizonaTicker.asp?sports=NFL|NBA|MLB|CBK|NHL&amp;width=330" name="scoreboard" height="42px" id="scoreboard" width="330px" frameborder="0" allowtransparency="true" style="margin: 13px 0 0;" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
 </div><!--end of #team-nav-->
 <!-- end Static nav -->
+
 <!-- End Nav Block -->
 		
 			    	</div></header>
     	<div id="main-page">	
-						  			    			<div id="story">
-    			
-    			    																																		<div id="head" style="margin-bottom: 20px;">
+									    			<div id="story">
+    			    			    																																		<div id="head" style="margin-bottom: 20px;">
 			<h1>PRIVACY STATEMENT</h1>
 		</div>
 			
 		
 
-    			    				<div id="left-col">
+    			    			    				<div id="left-col">
 												<span id="story-body">
                     	
 	
@@ -905,10 +985,9 @@ should be directed to webmaster@ktar.com.
 						
 																				
 						<div class="clear"></div>
-										
-									
+																							
 
-														<div class="clear"></div>
+																						<div class="clear"></div>
 												   
 												
 			  <p></p>
@@ -928,23 +1007,75 @@ should be directed to webmaster@ktar.com.
 					<div id="right-col">
 												<span>                   
 							
-
-<div class="gfp" id="sports_only_ads">
-					<iframe name="gfpAd" height="250px" id="gfpAd" width="300px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="/templates/ad.php?slot=sports_only_ads"></iframe>
-			    <script>
-	     	var timeoutID;
-	     	var autoTicker=100000;
-	    function doSomething() {
-	    	// do something here...
-   			reloadIframe("gfpAd");
-   			timeoutID=setTimeout('doSomething()',autoTicker);
-   		}
-	   		 //doSomething();
-	    </script>
-</div>
-						</span>
+		
+		<div class="gfp" id="sports_only_ads">
+									<iframe name="gfpAd" height="250px" id="gfpAd" width="300px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="/templates/ad.php?slot=sports_only_ads"></iframe>
+				
+								 <a href="/resources/static/contact_form.php?t=ad" class="fancyboxIframeEmail">Ask About An Advertiser</a>
+		
+		</div>
+							</span>
                        
-                                                 <div class="blackBox mostPopularBox">
+                         
+	<div class="blackBox float_left">
+		<div class="boxHeader">
+			<div class="boxHeaderLeft"></div>
+			<div class="boxHeaderRight"></div>
+			<div class="leftHeaderTitle">Recent Posts</div>
+			<div class="rightHeaderTitle">
+														
+
+			</div>
+		</div>
+		<div class="boxBody">
+			<div class="boxCopy">
+				<ul>
+																<li class="bullet">		
+							
+						<a title="Patrick Peterson is a problem (but not the Cardinals')" href="/63/1668380/Patrick-Peterson-is-a-problem-but-not-the-Cardinals">
+							
+													Patrick Peterson is a problem (but not the Cardinals')													
+							</a>
+								
+						</li>
+																					<li class="bullet">		
+							
+						<a title="No such thing as margin of victory" href="/63/1666669/No-such-thing-as-margin-of-victory">
+							
+													No such thing as margin of victory													
+							</a>
+								
+						</li>
+																					<li class="bullet">		
+							
+						<a title="Hey Dodgers -- thank you!" href="/63/1664101/Hey-Dodgers--thank-you">
+							
+													Hey Dodgers -- thank you!													
+							</a>
+								
+						</li>
+																					<li class="bullet">		
+							
+						<a title="Churn, baby, churn" href="/63/1657308/Churn-baby-churn">
+							
+													Churn, baby, churn													
+							</a>
+								
+						</li>
+																					<li class="bullet">		
+							
+						<a title="Tiger traps himself" href="/63/1655083/Tiger-traps-himself">
+							
+													Tiger traps himself													
+							</a>
+								
+						</li>
+														</ul>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+                         <div class="blackBox mostPopularBox">
  
         	<div class="boxHeader">
 			<div class="boxHeaderLeft"></div>
@@ -956,8 +1087,8 @@ should be directed to webmaster@ktar.com.
 		</div>
     <div class="mostPopularBoxWrap">
         <ul class="idTabs"> 
-            <li class="first"><a href="#mpAZSports" class="selected">Arizona Sports</a></li> 
-            <li><a href="#mpStories">News</a></li> 
+            <li class="first"><a href="#mpAZSports" class="selected">Sports</a></li> 
+            <li><a href="#mpStories">KTAR News</a></li> 
             <li><a href="#mpVideos">Videos</a></li> 
             <li><a href="#mpGalleries">Photos</a></li> 
 
@@ -966,31 +1097,31 @@ should be directed to webmaster@ktar.com.
                 <ul>
                                                                                         <li>
                                 <div style="color:#666;font-weight:bold;width: 260px;">		
-                                    <a href="/71/1637614/Notable-debuts-in-Arizona-sports-history">Notable debuts in Arizona sports history</a>
+                                    <a href="/40/1681976/Cardinals-have-to-move-on-from-officials-loss">Cardinals have to move on from officials</a>
                                 </div>
                             </li>
                                                         
                                                                         <li class="mpLine">
                                 <div style="color:#666;font-weight:bold;width: 260px;">		
-                                    <a href="/41/1637772/Dudley-Hiring-Hornacek-good-for-the-team">Dudley: Hiring Hornacek good for the team</a>
+                                    <a href="/64/1681918/Arizona-Cardinals-referees-both-dropped-the-ball-Sunday">Cardinals, referees each dropped the ball</a>
                                 </div>
                             </li>
                                                         
                                                                         <li class="mpLine">
                                 <div style="color:#666;font-weight:bold;width: 260px;">		
-                                    <a href="/41/1637723/Jeff-Hornacek-The-goal-is-to-win">New Suns coach: 'The goal is to win'</a>
+                                    <a href="/40/1681879/GM-Keim-says-building-Oline-a-challenge">GM Keim says building O-line a challenge</a>
                                 </div>
                             </li>
                                                         
                                                                         <li class="mpLine">
                                 <div style="color:#666;font-weight:bold;width: 260px;">		
-                                    <a href="/41/1637698/Hornacek-optimistic-excited-about-homecoming">Hornacek excited about homecoming</a>
+                                    <a href="/41/1682051/TWOS-NOT-A-CROWD">Bledsoe, Dragic in same backcourt again</a>
                                 </div>
                             </li>
                                                         
                                                                         <li class="mpLine">
                                 <div style="color:#666;font-weight:bold;width: 260px;">		
-                                    <a href="/41/1637734/Suns-GM-No-trepidation-hiring-Jeff-Hornacek-">Suns GM: 'No trepidation' hiring Jeff Hornacek </a>
+                                    <a href="/44/1681963/ASU-head-coach-Todd-Graham-Playing-at-home-is-the-greatest-advantage-we-have-against-Stanford">Graham: At home is our 'greatest advantage'</a>
                                 </div>
                             </li>
                                                         
@@ -1001,27 +1132,27 @@ should be directed to webmaster@ktar.com.
                     <ul>
                                                                                                             <li style="height:45px;">
 
-                                                                	<a href="/90/1637889/Brittney-Griner-discusses-her-sexuality"><img class="mpImage" src="http://www.arizonasports.com/emedia/az/31/3158/315885.JPG?filter=ktar/70x40_crop"></a>
+                                                                	<a href="/90/1682232/Ice-Bites-Phoenix-Coyotes-hoping-to-turn-it-around-in-Canada"><img class="mpImage" src="http://www.arizonasports.com/emedia/az/32/3295/329530.jpg?filter=ktar/70x40_crop"></a>
                                 	<div style="color:#666;font-weight:bold;width: 200px;padding-top:12px;padding-left:75px">		
-                                        <a href="/90/1637889/Brittney-Griner-discusses-her-sexuality">Brittney Griner discusses her sexuality</a>
+                                        <a href="/90/1682232/Ice-Bites-Phoenix-Coyotes-hoping-to-turn-it-around-in-Canada">Ice Bites: Phoenix Coyotes hoping to turn it around in Canada</a>
                                     </div>
                                 
 
                                 </li>
                                                                                                                                                 <li class="mpLine" style="height:45px;">
 
-                                                                	<a href="/90/1637396/Get-to-know-Jeff-Hornacek-all-over-again"><img class="mpImage" src="http://www.arizonasports.com/emedia/az/31/3157/315750.jpg?filter=ktar/70x40_crop"></a>
+                                                                	<a href="/90/1681672/Sun-Devils-celebrate-their-second-straight-Territorial-Cup-victory"><img class="mpImage" src="http://www.arizonasports.com/emedia/az/32/3293/329358.jpg?filter=ktar/70x40_crop"></a>
                                 	<div style="color:#666;font-weight:bold;width: 200px;padding-top:12px;padding-left:75px">		
-                                        <a href="/90/1637396/Get-to-know-Jeff-Hornacek-all-over-again">Get to know Jeff Hornacek all over again</a>
+                                        <a href="/90/1681672/Sun-Devils-celebrate-their-second-straight-Territorial-Cup-victory">Sun Devils celebrate their second straight Territorial Cup victory</a>
                                     </div>
                                 
 
                                 </li>
                                                                                                                                                 <li class="mpLine" style="height:45px;">
 
-                                                                	<a href="/90/1636956/Wildcats-celebrate-Rich-Rodriguezs-birthday"><img class="mpImage" src="http://www.arizonasports.com/emedia/az/31/3156/315683.jpg?filter=ktar/70x40_crop"></a>
+                                                                	<a href="/90/1680993/ASU-releases-its-Territorial-Cup-gameday-trailer"><img class="mpImage" src="http://www.arizonasports.com/emedia/az/32/3292/329204.jpg?filter=ktar/70x40_crop"></a>
                                 	<div style="color:#666;font-weight:bold;width: 200px;padding-top:12px;padding-left:75px">		
-                                        <a href="/90/1636956/Wildcats-celebrate-Rich-Rodriguezs-birthday">Wildcats celebrate Rich Rodriguez's birthday</a>
+                                        <a href="/90/1680993/ASU-releases-its-Territorial-Cup-gameday-trailer">ASU releases its Territorial Cup gameday trailer</a>
                                     </div>
                                 
 
@@ -1033,23 +1164,23 @@ should be directed to webmaster@ktar.com.
                 <ul>
                                                             <li style="height:45px;">
 
-                                                                   	<a href="/71/1637781/2013-Stanley-Cup-Playoffs--Tue"><img class="mpImage" src="http://www.arizonasports.com/emedia/az/31/3158/315864.jpg?filter=ktar/70x40_crop"></a>
+                                                                   	<a href="/71/1682060/Monday-Night-Football--Saints-at-Seahawks"><img class="mpImage" src="http://www.arizonasports.com/emedia/apimage/5b1ac3d9-dbe4-4fae-a981-dc7e51fd70ba.jpg?filter=ktar/70x40_crop"></a>
                                 	<div style="color:#666;font-weight:bold;width: 200px;padding-top:12px;padding-left:75px">		
-                                        <a href="/71/1637781/2013-Stanley-Cup-Playoffs--Tue">2013 Stanley Cup Playoffs - Tue.</a>
+                                        <a href="/71/1682060/Monday-Night-Football--Saints-at-Seahawks">Monday Night Football - Saints at Seahawks</a>
                                     </div>
                                                         </li>
                                                                 <li class="mpLine" style="height:45px;">
 
-                                                                   	<a href="/71/1637757/2013-NBA-Playoffs--Tue"><img class="mpImage" src="http://www.arizonasports.com/emedia/az/31/3158/315863.jpg?filter=ktar/70x40_crop"></a>
+                                                                   	<a href="/71/1681769/NFL-Week-13--Sun"><img class="mpImage" src="http://www.arizonasports.com/emedia/apimage/7979d910-b1ba-4cae-8f0d-72b32125bdb0.jpg?filter=ktar/70x40_crop"></a>
                                 	<div style="color:#666;font-weight:bold;width: 200px;padding-top:12px;padding-left:75px">		
-                                        <a href="/71/1637757/2013-NBA-Playoffs--Tue">2013 NBA Playoffs - Tue.</a>
+                                        <a href="/71/1681769/NFL-Week-13--Sun">NFL Week 13 - Sun.</a>
                                     </div>
                                                         </li>
                                                                 <li class="mpLine" style="height:45px;">
 
-                                                                   	<a href="/71/1637696/Jeff-Hornacek-introduced-as-Phoenix-Suns-coach"><img class="mpImage" src="http://www.arizonasports.com/emedia/apimage/aeeb1258-751f-4911-9a8c-4eebc4d7972c.jpg?filter=ktar/70x40_crop"></a>
+                                                                   	<a href="/71/1681758/ASU-vs-Miami--Sun"><img class="mpImage" src="http://www.arizonasports.com/emedia/apimage/ef2e37bc-bea3-4025-875a-c4597ee78578.jpg?filter=ktar/70x40_crop"></a>
                                 	<div style="color:#666;font-weight:bold;width: 200px;padding-top:12px;padding-left:75px">		
-                                        <a href="/71/1637696/Jeff-Hornacek-introduced-as-Phoenix-Suns-coach">Jeff Hornacek introduced as Phoenix Suns coach</a>
+                                        <a href="/71/1681758/ASU-vs-Miami--Sun">ASU vs. Miami - Sun.</a>
                                     </div>
                                                         </li>
                                              
@@ -1061,35 +1192,35 @@ should be directed to webmaster@ktar.com.
                                                                                     <li>
 
                             <div style="color:#666;font-weight:bold;width: 260px;">		
-                            <a target="_blank" href="http://ktar.com/22/1637845/Nanny-saves-3-children-from-house-fire-">Nanny saves 3 children from house fire </a>
+                            <a target="_blank" href="http://ktar.com/22/1682224/Arizona-teen-threatens-to-bomb-school">Arizona teen threatens to bomb school</a>
                             </div>
 
                         </li>
                                                                     <li class="mpLine">
 
                             <div style="color:#666;font-weight:bold;width: 260px;">		
-                            <a target="_blank" href="http://ktar.com/22/1637863/I10-east-at-Loop-202-reopens-after-crash">I-10 east at Loop 202 reopens after crash</a>
+                            <a target="_blank" href="http://ktar.com/22/1682114/ASUs-title-game-already-winner-for-Tempe">ASU's title game already winner for Tempe</a>
                             </div>
 
                         </li>
                                                                     <li class="mpLine">
 
                             <div style="color:#666;font-weight:bold;width: 260px;">		
-                            <a target="_blank" href="http://ktar.com/22/1637844/Scottsdale-woman-found-living-with-corpse">Scottsdale woman found living with corpse</a>
+                            <a target="_blank" href="http://ktar.com/22/1682276/Police-One-person-shot-in-Glendale">Police: One person shot in Glendale</a>
                             </div>
 
                         </li>
                                                                     <li class="mpLine">
 
                             <div style="color:#666;font-weight:bold;width: 260px;">		
-                            <a target="_blank" href="http://ktar.com/23/1637943/Arrest-made-in-Disneyland-dryice-blast">Arrest made in Disneyland dry-ice blast</a>
+                            <a target="_blank" href="http://ktar.com/22/1682170/PCH-earns-a-top-hospital-designation-">PCH earns a top hospital designation </a>
                             </div>
 
                         </li>
                                                                     <li class="mpLine">
 
                             <div style="color:#666;font-weight:bold;width: 260px;">		
-                            <a target="_blank" href="http://ktar.com/25/1637907/White-House-declines-to-confirm-drone-report-">White House declines to confirm drone report </a>
+                            <a target="_blank" href="http://ktar.com/22/1682143/8-arrested-100-lbs-of-pot-seized-in-Phx">8 arrested, 100 lbs. of pot seized in Phx</a>
                             </div>
 
                         </li>
@@ -1105,42 +1236,43 @@ should be directed to webmaster@ktar.com.
 			<div class="boxHeaderLeft"></div>
 			<div class="boxHeaderRight"></div>
 			<div class="leftHeaderTitle">
-											<a href="/163/1561970/Haboob-Blog">							Haboob Posts														</a>										</div>
+											<a href="/163/1561970/Haboob-Blog">							Haboob Posts
+						</a>																</div>
 			<div class="rightHeaderTitle">
 			</div>
 		</div>
 		<div class="boxBody">
 			<div class="boxCopy">
 												<ul>
-																										<li class="bullet">		
+																															<li class="bullet">		
 								
-							<a title="Twins rookie wears wrong jersey in game" href="/164/1637882/Twins-rookie-wears-wrong-jersey-in-game">
+							<a title="Cleveland Browns fan turns misery into Christmas songs" href="/164/1682150/Cleveland-Browns-fan-turns-misery-into-Christmas-songs">
 								
-															Twins rookie wears wrong jersey in game															
+															Cleveland Browns fan turns misery into Christmas songs															
 								</a>
 									
 							</li>
 																											<li class="bullet">		
 								
-							<a title="Streaker costs Finnish soccer team a goal" href="/164/1637488/Streaker-costs-Finnish-soccer-team-a-goal">
+							<a title="Cremation ashes dumped on field after Auburn win over Alabama" href="/164/1682044/Cremation-ashes-dumped-on-field-after-Auburn-win-over-Alabama">
 								
-															Streaker costs Finnish soccer team a goal															
+															Cremation ashes dumped on field after Auburn win over Alabama															
 								</a>
 									
 							</li>
-																											<li class="bullet">		
+																											<li class="bullet nomobile">		
 								
-							<a title="MLS coach's press conference interrupted by reporter's mom" href="/164/1637280/MLS-coachs-press-conference-interrupted-by-reporters-mom">
+							<a title="Kevin McHale joins exclusive club led by Jason Kidd and Mike Tomlin" href="/164/1681660/Kevin-McHale-joins-exclusive-club-led-by-Jason-Kidd-and-Mike-Tomlin">
 								
-															MLS coach's press conference interrupted by reporter's mom															
+															Kevin McHale joins exclusive club led by Jason Kidd and Mike Tomlin															
 								</a>
 									
 							</li>
-																											<li class="bullet">		
+																											<li class="bullet nomobile">		
 								
-							<a title="Infant honored as 'Perfect Baby' and with good reason" href="/164/1637253/Infant-honored-as-Perfect-Baby-and-with-good-reason">
+							<a title="ASU's 942 Crew making things funny for opposing free throw shooters" href="/164/1680897/ASUs-942-Crew-making-things-funny-for-opposing-free-throw-shooters">
 								
-															Infant honored as 'Perfect Baby' and with good reason															
+															ASU's 942 Crew making things funny for opposing free throw shooters															
 								</a>
 									
 							</li>
@@ -1149,13 +1281,11 @@ should be directed to webmaster@ktar.com.
 			</div>
 		</div>
 	</div>
-						</span>
-						 
-												
-					</div><!--end of #right-col -->
+				<div class="clear"></div>
+								</span>
+											</div><!--end of #right-col -->
 					<div class="clear"></div>
              	</div>
-
              </div>
              <footer>
              	<div class="footernav">
@@ -1163,18 +1293,16 @@ should be directed to webmaster@ktar.com.
 	<div class="nav">
 		<div class="nav-wrap">
 			<ul>
-				<li class="float-left first-nav">
-					<a aria-hidden="true" class="icon-home" href="/"></a>
-				</li>
-				<li class="float-left"><a href="/3/1355312/Arizona-Sports-620-Shows">Shows</a></li>
-				<li class="float-left"><a href="/47/1568961/Blogs">Blogs</a></li>
-				<li class="float-left"><a href="/33/1361642/Arizona-Sports-Videos">Video</a></li>
-				<li class="float-left"><a href="/229/1601780/Arizona-Sports-Events">Events</a></li>
-				<li class="float-left"><a href="/231/1601781/Arizona-Sports-Contests">Contests</a></li>
-				<li class="float-left"><a href="http://ktar.com" target="_blank" title="Phoenix and Arizona Breaking News And News Headlines">News</a></li>
-				<li class="float-left last-nav"><a href="http://987thepeak.com" target="_blank" title="98.7 The Peak, Whatever We Want">Entertainment</a></li>
-		
-			</ul>
+	<li class="float-left first-nav">
+		<a aria-hidden="true" class="icon-home" href="/"></a>
+	</li>
+	<li class="float-left"><a href="/3/1355312/Arizona-Sports-620-Shows">Shows</a></li>
+	<li class="float-left"><a href="/47/1568961/Blogs">Blogs</a></li>
+	<li class="float-left"><a href="/33/1361642/Arizona-Sports-Videos">Video</a></li>
+	<li class="float-left"><a href="/229/1601780/Arizona-Sports-Events">Events</a></li>
+	<li class="float-left"><a href="/231/1601781/Arizona-Sports-Contests">Contest</a></li>
+	<li class="float-left last-nav"><a href="http://allstar.ktar.com">Rewards</a></li>
+</ul>
 		</div>		
 	</div>
 <div class="team-nav">
@@ -1219,34 +1347,32 @@ should be directed to webmaster@ktar.com.
 																																																																												</ul>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
-									<ul class="dropdown-main-headlines">
-																					<a href="/40/1637914/Cards-Tyrann-Mathieu-learning-to-be-more-vocal" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/31/3150/315029.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/40/1637914/Cards-Tyrann-Mathieu-learning-to-be-more-vocal" class="scm_link">Cards' Tyrann Mathieu learning ‘to be more vocal'</a><br>Rookies are supposed to be seen, not heard.
-
-That's not the case for Cardinals...</div>
+									<div class="dropdown-main-headlines">
+																					<a href="/40/1682135/Tight-ends-torching-Arizona-Cardinals-defense-but-its-not-as-bad-as-you-think" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/8942422a-303e-480d-854b-32e219d21095.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/40/1682135/Tight-ends-torching-Arizona-Cardinals-defense-but-its-not-as-bad-as-you-think" class="scm_link">Tight ends torching Arizona Cardinals' defense, but it's not as bad as you think</a><br>Fans of the Arizona Cardinals were channeling their inner-Yogi Berra Sunday,...</div>
 
 																								
-											</ul>
+											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>Cardinals Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/40/1637614/Notable-debuts-in-Arizona-sports-history">Notable debuts in Arizona sports history</a></li>
-																																						<li class="bullet"><a href="/40/1636889/Report-Tyrann-Mathieu-to-face-up-to-10-drug-tests-per-month">Report: Tyrann Mathieu to face up to 10 drug tests per month</a></li>
-																																						<li class="bullet"><a href="/40/1636867/CBS-writer-Larry-Fitzgerald-a-lock-for-the-Hall-of-Fame">CBS writer: Larry Fitzgerald a lock for the Hall of Fame</a></li>
-																																						<li class="bullet"><a href="/40/1636629/Cardinals-sign-thirdround-pick-Tyrann-Mathieu">Cardinals sign third-round pick Tyrann Mathieu</a></li>
-																																						<li class="bullet"><a href="/40/1636609/Cardinals-Daryn-Colledge-adjusting-to-life-on-the-right-side">Cardinals' Daryn Colledge adjusting to life on the right side</a></li>
-																																						<li class="bullet"><a href="/40/1636081/Cardinals-sign-WR-Charles-Hawkins">Cardinals sign WR Charles Hawkins</a></li>
+																																																										<li class="bullet"><a href="/40/1682275/Eagles-CB-on-Arizona-Cardinals-Lets-not-be-crybabies">Eagles' CB on Arizona Cardinals: 'Let's not be crybabies'</a></li>
+																																						<li class="bullet"><a href="/40/1682190/Figuring-out-Cardinals-playoff-scenarios">Figuring out Cardinals playoff scenarios</a></li>
+																																						<li class="bullet"><a href="/40/1682153/NFL-analyst-Arizona-Cardinals-may-need-11-wins-to-reach-the-playoffs">NFL analyst: Arizona Cardinals may need 11 wins to reach the playoffs</a></li>
+																																						<li class="bullet"><a href="/40/1682016/Super-Bowl-Host-Committee-unveils-XLIX-logo">Super Bowl Host Committee unveils XLIX logo</a></li>
+																																						<li class="bullet"><a href="/40/1681893/Behind-Enemy-Lines-St-Louis-Rams">Behind Enemy Lines: St. Louis Rams</a></li>
+																																						<li class="bullet"><a href="/40/1681976/Arizona-Cardinals-Have-to-move-on-from-officials-loss">Arizona Cardinals: Have to move on from officials, loss</a></li>
 																			
 																		</ul>
 											</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/170/1636043/Arizona-Cardinals-OTAs--Tue-May-21"><img src="http://www.arizonasports.com/emedia/az/31/3154/315463.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/170/1681696/Cardinals-vs-Eagles--Sun"><img src="http://www.arizonasports.com/emedia/apimage/602249b4-4de9-4c23-b1e4-8a6627ec8f74.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/171/1635547/Cardinals-head-coach-Bruce-Arians-on-ESPNs-Sunday-Conversation"><img src="http://www.arizonasports.com/emedia/az/31/3153/315349.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/171/1680923/The-Big-Red-Wolf-Report-After-the-Colts-before-the-Eagles"><img src="http://www.arizonasports.com/emedia/az/32/3291/329182.png?filter=mynw/145x90_cropped"></a></li>
 															</ul>												
 			</div>
 			<div class="clearboth"></div>
@@ -1276,30 +1402,32 @@ That's not the case for Cardinals...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/41/1637920/Suns-brought-in-more-than-a-head-coach" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/0f6b9fd1-e8c6-4f97-ad51-2d222ea8f135.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/41/1637920/Suns-brought-in-more-than-a-head-coach" class="scm_link">Suns brought in more than a head coach</a><br>Until the hiring of Jeff Hornacek, the head coach position wasn't the only thing...</div>
+																					<a href="/41/1682267/Dan-Majerle-Ill-be-a-Phoenix-Suns-fan-until-the-day-I-die" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/32/3213/321300.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/41/1682267/Dan-Majerle-Ill-be-a-Phoenix-Suns-fan-until-the-day-I-die" class="scm_link">Dan Majerle: 'I'll be a Phoenix Suns fan until the day I die'</a><br>Dan Majerle's departure from the Phoenix Suns was a bit abrupt, to say the least.
+
+A...</div>
 
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>Suns Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/41/1637888/Suns-lose-assistant-Igor-Kokoskov-to-the-Cleveland-Cavaliers">Suns lose assistant Igor Kokoskov to the Cleveland Cavaliers</a></li>
-																																						<li class="bullet"><a href="/41/1637872/Suns-need-to-focus-on-the-future-not-the-past">Suns need to focus on the future, not the past</a></li>
-																																						<li class="bullet"><a href="/41/1637584/Suns-connect-with-their-past-by-hiring-Hornacek">Suns connect with their past by hiring Hornacek</a></li>
-																																						<li class="bullet"><a href="/41/1637772/Jared-Dudley-Hiring-Jeff-Hornacek-good-for-the-entire-team">Jared Dudley: Hiring Jeff Hornacek good for the entire team</a></li>
-																																						<li class="bullet"><a href="/41/1637740/New-Suns-coach-Hornacek-Players-have-to-trust-you">New Suns coach Hornacek: 'Players have to trust you'</a></li>
+																																																										<li class="bullet"><a href="/41/1682051/Take-3-Phoenix-Suns-to-start-Bledsoe-Dragic-in-same-backcourt-once-more">Take 3: Phoenix Suns to start Bledsoe, Dragic in same backcourt once more</a></li>
+																																						<li class="bullet"><a href="/41/1681989/Phoenix-Suns-cant-complain-about-first-month-of-the-season">Phoenix Suns 'can't complain' about first month of the season</a></li>
+																																						<li class="bullet"><a href="/41/1681770/Robinson-scores-23-Nuggets-beat-Raptors-11298">Robinson scores 23, Nuggets beat Raptors 112-98</a></li>
+																																						<li class="bullet"><a href="/41/1681631/Phoenix-Suns-searching-for-answers-after-listless-loss-to-Utah-Jazz">Phoenix Suns searching for answers after listless loss to Utah Jazz</a></li>
+																																						<li class="bullet"><a href="/41/1681628/Suns-Strokes-Phoenix-falls-flat-as-Utah-notches-first-road-win-of-2013">Suns Strokes: Phoenix falls flat as Utah notches first road win of 2013</a></li>
 																			
 																		</ul>
 											</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/173/1637696/Jeff-Hornacek-introduced-as-Phoenix-Suns-coach"><img src="http://www.arizonasports.com/emedia/apimage/aeeb1258-751f-4911-9a8c-4eebc4d7972c.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/173/1681607/Suns-vs-Jazz--Sat"><img src="http://www.arizonasports.com/emedia/az/32/3293/329335.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/174/1632894/ESPNs-Chad-Ford-talks-Ryan-McDonough-to-the-Suns"><img src="http://www.arizonasports.com/emedia/az/31/3145/314583.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/174/1677348/Question-and-Declare-Current-thoughts-on-the-Suns"><img src="http://www.arizonasports.com/emedia/az/32/3280/328080.png?filter=mynw/145x90_cropped"></a></li>
 															</ul>													
 			</div>
 			<div class="clearboth"></div>
@@ -1329,29 +1457,31 @@ That's not the case for Cardinals...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/42/1637929/Arizona-Diamondbacks-shortstop-Didi-Greogorius-taking-successes-in-stride" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/42f3cc32-b512-4f9a-9995-167b733e84f8.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/42/1637929/Arizona-Diamondbacks-shortstop-Didi-Greogorius-taking-successes-in-stride" class="scm_link">Arizona Diamondbacks shortstop Didi Greogorius taking successes in stride</a><br>It's 11:22 AM on Memorial Day, just over an hour away from the first pitch of...</div>
+																					<a href="/42/1682241/Rays-acquire-C-Hanigan-RHP-Bell-in-3team-trade" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/91e1368c-034d-4d9e-9b60-36529f0b8943.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/42/1682241/Rays-acquire-C-Hanigan-RHP-Bell-in-3team-trade" class="scm_link">Rays acquire C Hanigan, RHP Bell in 3-team trade</a><br>
+
+ST. PETERSBURG, Fla. (AP) - Catcher Ryan Hanigan and reliever Heath Bell are...</div>
 
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>D-backs Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/42/1632497/This-date-in-baseball">This date in baseball</a></li>
-																																						<li class="bullet"><a href="/42/1637603/Archie-Bradley-ranked-ninthbest-MLB-prospect-by-ESPN-insider">Archie Bradley ranked ninth-best MLB prospect by ESPN insider</a></li>
-																																						<li class="bullet"><a href="/42/1637504/Darvish-Rangers-blow-lead-in-Diamondbacks-sweep">Darvish, Rangers blow lead in Diamondbacks sweep</a></li>
-																																						<li class="bullet"><a href="/42/1637500/Grit-Index-Dbacks-cap-doubleheader-sweep-with-walkoff-win">Grit Index: D-backs cap doubleheader sweep with walk-off win</a></li>
+																																																										<li class="bullet"><a href="/42/1682240/Rays-acquire-C-Hanigan-RHP-Bell-in-3team-trade">Rays acquire C Hanigan, RHP Bell in 3-team trade</a></li>
+																																						<li class="bullet"><a href="/42/1682214/Arizona-Diamondbacks-trade-Heath-Bell-and-David-Holmberg-as-part-of-threeteam-deal">Arizona Diamondbacks trade Heath Bell and David Holmberg as part of three-team deal</a></li>
+																																						<li class="bullet"><a href="/42/1682050/Doug-Fister-dealt-to-Nats-Jim-Johnson-to-As">Doug Fister dealt to Nats, Jim Johnson to A's</a></li>
+																																						<li class="bullet"><a href="/42/1682142/Arizona-Diamondbacks-nontender-Daniel-Hudson-pitcher-becomes-a-free-agent">Arizona Diamondbacks non-tender Daniel Hudson, pitcher becomes a free agent</a></li>
 																			
 																		</ul>
 											</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/176/1637492/Game-2-Dbacks-vs-Rangers--Mon"><img src="http://www.arizonasports.com/emedia/az/31/3157/315785.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/176/1666218/Dbacks-vs-Nationals--Sun"><img src="http://www.arizonasports.com/emedia/az/32/3244/324483.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/177/1636535/Venom-Vision-Dbacks-among-top-teams-in-NL-West"><img src="http://www.arizonasports.com/emedia/az/31/3156/315613.png?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/177/1666667/Venom-Vision-Stagnancy-not-grit-the-theme-of-2013-Dbacks"><img src="http://www.arizonasports.com/emedia/az/32/3246/324615.jpg?filter=mynw/145x90_cropped"></a></li>
 															</ul>											
 			</div>
 			<div class="clearboth"></div>
@@ -1381,31 +1511,31 @@ That's not the case for Cardinals...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/43/1637732/Coyotes-GM-Don-Maloney-gets-extension-looks-toward-future" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/31/3158/315842.JPG?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/43/1637732/Coyotes-GM-Don-Maloney-gets-extension-looks-toward-future" class="scm_link">Coyotes' GM Don Maloney gets extension, looks toward future</a><br>At least part of the unrest in the Phoenix Coyotes organization is over.
+																					<a href="/43/1681938/Phoenix-Coyotes-to-honor-members-of-1980-USA-hockey-team" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/32/3294/329438.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/43/1681938/Phoenix-Coyotes-to-honor-members-of-1980-USA-hockey-team" class="scm_link">Phoenix Coyotes to honor members of 1980 USA hockey team</a><br>The "Miracle on Ice" is coming to Glendale.
 
-The...</div>
+Prior to the Feb. 7 game against...</div>
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>Coyotes Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/43/1637104/AP-Sources-Coyotes-sale-approved-hurdle-remains">AP Sources: Coyotes sale approved, hurdle remains</a></li>
-																																						<li class="bullet"><a href="/43/1637005/Report-Deal-reached-for-sale-of-Phoenix-Coyotes">Report: Deal reached for sale of Phoenix Coyotes</a></li>
-																																						<li class="bullet"><a href="/43/1636980/Don-Maloney-contract-is-first-step-on-long-road">Don Maloney contract is first step on long road</a></li>
-																																						<li class="bullet"><a href="/43/1636951/Phoenix-Coyotes-announce-longterm-extension-for-GM-Don-Maloney">Phoenix Coyotes announce long-term extension for GM Don Maloney</a></li>
-																																						<li class="bullet"><a href="/43/1636574/Report-Coyotes-nearing-new-contract-for-GM-Don-Maloney">Report: Coyotes nearing new contract for GM Don Maloney</a></li>
+																																																										<li class="bullet"><a href="/43/1681608/Kane-leads-Blackhawks-past-Coyotes-52">Kane leads Blackhawks past Coyotes 5-2</a></li>
+																																						<li class="bullet"><a href="/43/1681530/Report-Phoenix-Coyotes-sign-forward-Gilbert-Brule-to-1year-deal">Report: Phoenix Coyotes sign forward Gilbert Brule to 1-year deal</a></li>
+																																						<li class="bullet"><a href="/43/1681321/Coyotes-recall-defenseman-Klesla-send-Brown-to-Portland">Coyotes recall defenseman Klesla, send Brown to Portland</a></li>
+																																						<li class="bullet"><a href="/43/1681081/Coyotes-snap-3game-skid-with-win-over-Wild">Coyotes snap 3-game skid with win over Wild</a></li>
+																																						<li class="bullet"><a href="/43/1680798/Coyotes-coach-Dave-Tippett-Team-cant-rely-on-coming-back">Coyotes coach Dave Tippett: Team ‘can't rely on coming back'</a></li>
 																			
 																		</ul>
 											</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/179/1630312/Coyotes-vs-Avalanche--Fri"><img src="http://www.arizonasports.com/emedia/az/31/3140/314031.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/179/1681585/Coyotes-vs-Blackhawks--Sat"><img src="http://www.arizonasports.com/emedia/az/32/3293/329334.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/180/1629927/Coyotes-Ice-Bites-No-postseason-play-for-the-Yotes"><img src="http://www.arizonasports.com/emedia/az/31/3139/313928.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/180/1682232/Ice-Bites-Phoenix-Coyotes-hoping-to-turn-it-around-in-Canada"><img src="http://www.arizonasports.com/emedia/az/32/3295/329530.jpg?filter=mynw/145x90_cropped"></a></li>
 															</ul>													
 			</div>
 			<div class="clearboth"></div>
@@ -1441,29 +1571,31 @@ The...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/44/1636287/ASUs-Kody-Koebensky-named-to-Rimington-Watch-Llist" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/31/3155/315567.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/44/1636287/ASUs-Kody-Koebensky-named-to-Rimington-Watch-Llist" class="scm_link">ASU's Kody Koebensky named to Rimington Watch Llist</a><br>Arizona State senior offensive lineman Kody Koebensky was one of 44 players...</div>
+																					<a href="/44/1682308/ESPNs-Mark-May-Stanford-QB-Hogan-key-to-Pac12-Championship-Game" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/2e1abd9a-d59e-4d43-afaa-4a707a6ce4ed.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/44/1682308/ESPNs-Mark-May-Stanford-QB-Hogan-key-to-Pac12-Championship-Game" class="scm_link">ESPN's Mark May: Stanford QB Hogan key to Pac-12 Championship Game</a><br>Saturday's Pac-12 Championship Game will likely boil down to one thing. 
+
+Although...</div>
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>ASU Football Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/44/1635973/ASUs-Carl-Bradford-named-to-Freaks-List">ASU's Carl Bradford named to 'Freaks List'</a></li>
-																																						<li class="bullet"><a href="/44/1634547/Former-Sun-Devil-QB-Andrew-Walter-running-for-Congress">Former Sun Devil QB Andrew Walter running for Congress</a></li>
-																																						<li class="bullet"><a href="/44/1634396/ASU-AD-Still-hopeful-Notre-Dame-will-play-in-Tempe-in-2014">ASU AD: Still hopeful Notre Dame will play in Tempe in 2014</a></li>
-																																						<li class="bullet"><a href="/44/1634286/Weber-State-added-to-ASUs-2014-schedule">Weber State added to ASU's 2014 schedule</a></li>
-																																						<li class="bullet"><a href="/44/1632929/Arizona-State-reveals-new-Sparky">Arizona State reveals new Sparky</a></li>
+																																																										<li class="bullet"><a href="/44/1682300/ASUs-Foster-has-a-different-look-in-his-eye-as-role-increases">ASU's Foster has 'a different look in his eye' as role increases</a></li>
+																																						<li class="bullet"><a href="/44/1682067/Doug-Franz-College-Football-Playoff--Week-7">Doug Franz College Football Playoff - Week 7</a></li>
+																																						<li class="bullet"><a href="/44/1682034/The-Pulse-Fans-say-ASUs-win-over-UCLA-most-impressive-of-the-season">The Pulse: Fans say ASU's win over UCLA most impressive of the season</a></li>
+																																						<li class="bullet"><a href="/44/1681991/Arizona-States-Randall-Gonzalez-named-Pac12-Players-of-the-Week">Arizona State's Randall, Gonzalez named Pac-12 Players of the Week</a></li>
+																																						<li class="bullet"><a href="/44/1681967/Arizona-State-has-17-players-on-AllPac12-Teams">Arizona State has 17 players on All-Pac-12 Teams</a></li>
 																			
 																		</ul>
 											</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/185/1628832/Remembering-Pat-Tillman"><img src="http://www.arizonasports.com/emedia/az/31/3135/313573.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/185/1681594/Arizona-vs-Arizona-State--Sat"><img src="http://www.arizonasports.com/emedia/apimage/6448afaf-ad8e-41f5-951b-ad1dbba78797.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/186/1632865/ASUs-Taylor-Kelly-drag-races-in-offseason"><img src="http://www.arizonasports.com/emedia/az/31/3145/314579.JPG?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/186/1681672/Sun-Devils-celebrate-their-second-straight-Territorial-Cup-victory"><img src="http://www.arizonasports.com/emedia/az/32/3293/329358.jpg?filter=mynw/145x90_cropped"></a></li>
 															</ul>													
 			</div>
 			<div class="clearboth"></div>
@@ -1485,30 +1617,30 @@ The...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/74/1635213/Carrick-Felix-has-impressive-measurements-at-NBA-Draft-Combine" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/30/3098/309881.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/74/1635213/Carrick-Felix-has-impressive-measurements-at-NBA-Draft-Combine" class="scm_link">Carrick Felix has impressive measurements at NBA Draft Combine</a><br>Arizona State's Carrick Felix does not figure to be a first-round pick in next...</div>
+																					<a href="/74/1681759/Miami-beats-Arizona-State-6057-at-Wooden-Legacy" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/0159d765-184a-4f8e-a929-0bc709177724.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/74/1681759/Miami-beats-Arizona-State-6057-at-Wooden-Legacy" class="scm_link">Miami beats Arizona State, 60-57, at Wooden Legacy</a><br>ANAHEIM, Calif. (AP) — The Arizona State basketball team thought it would do...</div>
 
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>ASU Basketball Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/74/1633085/Report-Evan-Gordon-leaving-Sun-Devils">Report: Evan Gordon leaving Sun Devils</a></li>
-																																						<li class="bullet"><a href="/74/1632402/Report-Sun-Devils-name-Eric-Musselman-associate-head-coach">Report: Sun Devils name Eric Musselman associate head coach</a></li>
-																																						<li class="bullet"><a href="/74/1631661/Vitale-has-Sun-Devils-basketball-in-preseason-Top-25">Vitale has Sun Devils basketball in preseason Top 25</a></li>
-																																						<li class="bullet"><a href="/74/1626215/Carrick-Felix-declines-Portsmouth-invite-nervous-about-NBA-Draft">Carrick Felix declines Portsmouth invite, 'nervous' about NBA Draft</a></li>
-																																						<li class="bullet"><a href="/74/1625723/Jahii-Carsons-return-Great-for-ASU-but-places-pressure-squarely-on-Herb-Sendek">Jahii Carson's return: Great for ASU, but places pressure squarely on Herb Sendek</a></li>
+																																																										<li class="bullet"><a href="/74/1681488/Arizona-St-routs-College-of-Charleston-8058">Arizona St. routs College of Charleston 80-58</a></li>
+																																						<li class="bullet"><a href="/74/1681260/McDermott-scores-27-as-No-20-Creighton-hands-ASU-its-1st-loss">McDermott scores 27 as No. 20 Creighton hands ASU its 1st loss</a></li>
+																																						<li class="bullet"><a href="/74/1681254/ASU-vs-Creighton--Thu">ASU vs. Creighton - Thu.</a></li>
+																																						<li class="bullet"><a href="/74/1681011/Arizona-States-Carson-Bachynski-and-Arizonas-Gordon-projected-first-round-picks-in-mock-draft">Arizona State's Carson, Bachynski and Arizona's Gordon projected first round picks in mock draft</a></li>
+																																						<li class="bullet"><a href="/74/1680939/ASU-men-prepare-for-first-ever-Wooden-Legacy-Tournament-on-Thanksgiving">ASU men prepare for first ever Wooden Legacy Tournament on Thanksgiving</a></li>
 																			
 																		</ul>
 											</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/188/1620521/ASU-vs-Baylor--Fri"><img src="http://www.arizonasports.com/emedia/az/31/3116/311633.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/188/1681758/ASU-vs-Miami--Sun"><img src="http://www.arizonasports.com/emedia/apimage/ef2e37bc-bea3-4025-875a-c4597ee78578.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/189/1631365/How-Sun-Devils-eat-their-food"><img src="http://www.arizonasports.com/emedia/az/31/3142/314244.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/189/1655148/Sophomore-Jahii-Carson-wows-at-Adidas-Nations-showcase"><img src="http://www.arizonasports.com/emedia/az/31/3102/310215.jpg?filter=mynw/145x90_cropped"></a></li>
 															</ul>												
 			</div>
 			<div class="clearboth"></div>
@@ -1544,7 +1676,7 @@ The...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																				<a href="/45/1636954/Arizona-will-not-play-UNLV-in-Glendale-this-season" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/30/3035/303558.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/45/1636954/Arizona-will-not-play-UNLV-in-Glendale-this-season" class="scm_link">Arizona will not play UNLV in Glendale this season</a><br>The Arizona Wildcats will take on the BYU Cougars at University of Phoenix Stadium...</div>
+																				<a href="/45/1681946/Wildcats-Carey-wins-Pac12-Offensive-Player-of-the-Year" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/aeafd1da-e8fa-4793-8d03-c65b402ad218.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/45/1681946/Wildcats-Carey-wins-Pac12-Offensive-Player-of-the-Year" class="scm_link">Wildcats' Carey wins Pac-12 Offensive Player of the Year</a><br> Arizona Wildcat running back Ka'Deem Carey is the Pac-12 Offensive Player of...</div>
 
 								
 																
@@ -1552,11 +1684,11 @@ The...</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>UA Football Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/45/1634416/Kiper-KaDeem-Carey-thirdbest-RB-prospect-for-2014-draft">Kiper: Ka'Deem Carey third-best RB prospect for 2014 draft</a></li>
-																																						<li class="bullet"><a href="/45/1632560/Tedy-Bruschi-named-to-College-Football-Hall-of-Fame">Tedy Bruschi named to College Football Hall of Fame</a></li>
-																																						<li class="bullet"><a href="/45/1632340/Arizona-coach-Rodriguez-says-Jesse-Scroggins-is-in-QB-mix">Arizona coach Rodriguez says Jesse Scroggins is in QB mix</a></li>
-																																						<li class="bullet"><a href="/45/1629467/Arizona-Wildcats-unveil-new-football-uniforms">Arizona Wildcats unveil new football uniforms</a></li>
-																																						<li class="bullet"><a href="/45/1630429/ASU-UA-undrafted-prospects-on-the-move-in-free-agency">ASU, UA undrafted prospects on the move in free agency</a></li>
+																																																										<li class="bullet"><a href="/45/1681525/The-Pulse-Fans-expecting-an-ASU-win-over-Arizona">The Pulse: Fans expecting an ASU win over Arizona</a></li>
+																																						<li class="bullet"><a href="/45/1681313/The-Pulse-Taylor-Kelly-will-be-the-most-important-player-in-the-2013-Territorial-Cup">The Pulse: Taylor Kelly will be the most important player in the 2013 Territorial Cup</a></li>
+																																						<li class="bullet"><a href="/45/1681329/Three-ways-Arizona-beats-ASU-three-ways-the-Wildcats-lose-to-the-Sun-Devils">Three ways Arizona beats ASU, three ways the Wildcats lose to the Sun Devils</a></li>
+																																						<li class="bullet"><a href="/45/1589992/A-Wildcat-remembers-his-favorite-memories-of-the-Territorial-Cup">A Wildcat remembers his favorite memories of the Territorial Cup</a></li>
+																																						<li class="bullet"><a href="/45/1681238/Territorial-Cup-preview-Keys-for-ASU-UA-to-take-home-the-trophy">Territorial Cup preview: Keys for ASU, UA to take home the trophy</a></li>
 																			
 																		</ul>
 																<a style="float: right;margin: 10px 105px 0 0;" href="http://www.rightsure.com" title="Right Sure" target="_blank"><img width="120" src="http://www.arizonasports.com/emedia/az/31/3107/310764.jpg"></a>
@@ -1566,12 +1698,12 @@ The...</div>
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/191/1632331/Arizona-Wildcats-new-football-uniforms"><img src="http://www.arizonasports.com/emedia/az/31/3144/314445.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/191/1681594/Arizona-vs-Arizona-State--Sat"><img src="http://www.arizonasports.com/emedia/apimage/6448afaf-ad8e-41f5-951b-ad1dbba78797.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/192/1636956/Wildcats-celebrate-Rich-Rodriguezs-birthday"><img src="http://www.arizonasports.com/emedia/az/31/3156/315683.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/192/1680486/Sounds-of-Arizona-Football-Wildcats-upset-No-5-Oregon"><img src="http://www.arizonasports.com/emedia/az/32/3290/329078.jpg?filter=mynw/145x90_cropped"></a></li>
 															</ul>													
 			</div>
 			<div class="clearboth"></div>
@@ -1593,18 +1725,18 @@ The...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/82/1636541/Wildcats-nonconference-schedule-includes-Michigan-NIT-Season-TipOff" class="scm_image"><img src="http://www.arizonasports.com/emedia/az/31/3156/315614.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/82/1636541/Wildcats-nonconference-schedule-includes-Michigan-NIT-Season-TipOff" class="scm_link">Wildcats' non-conference schedule includes Michigan, NIT Season Tip-Off</a><br>Back in the day, the Arizona Wildcats would make a habit out of playing a tough...</div>
+																					<a href="/82/1682029/Arizonas-Nick-Johnson-named-Pac12-Player-of-the-Week" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/857326ea-7017-4171-8ccc-d2d0f030b110.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/82/1682029/Arizonas-Nick-Johnson-named-Pac12-Player-of-the-Week" class="scm_link">Arizona's Nick Johnson named Pac-12 Player of the Week</a><br>Arizona junior guard Nick Johnson was named the Pac-12 Player of the Week, the...</div>
 
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>UA Basketball Headlines</h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/82/1635461/Arizona-coach-Miller-breaks-down-busy-offseason">Arizona coach Miller breaks down busy offseason</a></li>
-																																						<li class="bullet"><a href="/82/1633978/Arizona-Wildcats-land-Kansas-transfer-Zach-Peters">Arizona Wildcats land Kansas transfer Zach Peters</a></li>
-																																						<li class="bullet"><a href="/82/1632189/Report-Damon-Stoudamire-to-return-to-UA-as-assistant-coach">Report: Damon Stoudamire to return to UA as assistant coach</a></li>
-																																						<li class="bullet"><a href="/82/1631363/Arizona-forward-Angelo-Chol-to-transfer">Arizona forward Angelo Chol to transfer</a></li>
-																																						<li class="bullet"><a href="/82/1628834/ESPN-Insider-Pair-of-Wildcats-could-be-oneanddone">ESPN Insider: Pair of Wildcats could be one-and-done</a></li>
+																																																										<li class="bullet"><a href="/82/1682002/Arizona-Wildcats-move-up-to-No-2-in-latest-AP-Poll">Arizona Wildcats move up to No. 2 in latest AP Poll</a></li>
+																																						<li class="bullet"><a href="/82/1681436/No-4-Arizona-Wildcats-top-No-6-Duke-for-NIT-Preseason-TipOff-title">No. 4 Arizona Wildcats top No. 6 Duke for NIT Preseason Tip-Off title</a></li>
+																																						<li class="bullet"><a href="/82/1681066/No-4-Wildcats-erase-18point-deficit-advance-to-NIT-championship">No. 4 Wildcats erase 18-point deficit, advance to NIT championship</a></li>
+																																						<li class="bullet"><a href="/82/1681011/Arizona-States-Carson-Bachynski-and-Arizonas-Gordon-projected-first-round-picks-in-mock-draft">Arizona State's Carson, Bachynski and Arizona's Gordon projected first round picks in mock draft</a></li>
+																																						<li class="bullet"><a href="/82/1678917/Johnson-Ashley-lead-No-5-Arizona-to-NIT-semis">Johnson, Ashley lead No. 5 Arizona to NIT semis</a></li>
 																			
 																		</ul>
 													<a style="float: right;margin: 10px 105px 0 0;" href="http://www.rightsure.com" title="Right Sure" target="_blank"><img width="120" src="http://www.arizonasports.com/emedia/az/31/3107/310764.jpg"></a>
@@ -1614,12 +1746,12 @@ The...</div>
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/194/1622341/Arizona-vs-Ohio-State--Thu"><img src="http://www.arizonasports.com/emedia/az/31/3119/311994.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/194/1678596/Arizona-vs-Fairleigh-Dickinson--Mon"><img src="http://www.arizonasports.com/emedia/apimage/cfc4c48e-c220-4a60-b398-de177f9e3c99.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/195/1628918/McKale-Environment"><img src="http://www.arizonasports.com/emedia/az/31/3135/313597.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/195/1677682/Arizona-Wildcats-Aaron-Gordon-throws-down-monster-dunk-against-SDSU"><img src="http://www.arizonasports.com/emedia/az/32/3281/328165.jpg?filter=mynw/145x90_cropped"></a></li>
 															</ul>												
 			</div>
 			<div class="clearboth"></div>
@@ -1637,37 +1769,39 @@ The...</div>
 				<ul>
 																								<li class="firstNav"><a href="/123/1433867/Arizona-High-School-Sports">Preps Home</a></li>
 																				<li><a href="/123/1433867/Arizona-High-School-Sports">Stories</a></li>
-																				<li><a href="/">Results</a></li>
+																				<li><a href="/167/1576220/Football-Scoreboard">Results</a></li>
 																																																																												</ul>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/130/1636274/RSK-makes-a-name-for-itself" class="scm_image"><img src="http://www.aia365.com/images/library/schoolfiles/images/rsktrophy.jpg?filter=ktar/dropdown_251x139" width="251px"></a>								<div class="subnav_mainDesc"><a href="/130/1636274/RSK-makes-a-name-for-itself" class="scm_link">RSK makes a name for itself</a><br>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (L-R Coach...</div>
+																					<a href="/130/1681636/Saguaro-football-coach-wins-title-then-proposes-to-girlfriend" class="scm_image"><img src="http://images.maxpreps.com/site_images/editorial/article/3/f/5/3f5bf57b-9e5f-4ca9-b42f-d1324c3edca4/d1d74c18-8f59-e311-b330-002655e6c126_original.jpg?filter=ktar/dropdown_251x139" width="251px"></a>								<div class="subnav_mainDesc"><a href="/130/1681636/Saguaro-football-coach-wins-title-then-proposes-to-girlfriend" class="scm_link">Saguaro football coach wins title, then proposes to girlfriend</a><br>File photo by Mark JonesJason Mohns, SaguaroAll 
+championship game victories...</div>
 
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2>Preps Headlines</h2>					<ul class="dropdown-headlines">
-																																									<li class="bullet"><a href="/130/1637948/Becerra-steps-down-as-Marcos-de-Niza-baseball-coach">Becerra steps down as Marcos de Niza baseball coach</a></li>
-																																						<li class="bullet"><a href="/130/1637761/Bob-Jacobsen-was-a-friend-to-Arizonas-prep-sports-community">Bob Jacobsen was a friend to Arizona's prep sports community</a></li>
-																																						<li class="bullet"><a href="/130/1637666/Potpouri-of-strange-events-moments-from-20122013">Potpouri of strange events, moments from 2012-2013</a></li>
-																																						<li class="bullet"><a href="/130/1637786/Pat-Herrera-moves-up-the-street-for-new-baseball-job">Pat Herrera moves up the street for new baseball job</a></li>
-																																						<li class="bullet"><a href="/130/1637805/Fitzgerald-Konkle-Prince-Gross-and-Robben-Selected-as-MaxPrepsNFCA-National-HS-Players-of-the-Week">Fitzgerald, Konkle, Prince, Gross and Robben Selected as MaxPreps/NFCA National H.S. Players of the Week</a></li>
-																																						<li class="bullet"><a href="/130/1636921/Dave-Shapiro-A-top-educatorcoach-for-all-seasons-amp-reasons">Dave Shapiro: A top educator-coach for all seasons &amp; reasons</a></li>
+																																									<li class="bullet"><a href="/130/1682210/Help-BisbeeDouglas-win-national-rivalry-competition">Help Bisbee-Douglas win national rivalry competition</a></li>
+																																						<li class="bullet"><a href="/130/1682066/Boys-hoops-Mesa-Mtn-Views-balance-subdues-Boulder-Creek">Boys hoops: Mesa Mtn. View's balance subdues Boulder Creek</a></li>
+																																						<li class="bullet"><a href="/130/1681951/Perry-edges-Desert-Ridge-for-PV-boys-hoops-championship">Perry edges Desert Ridge for PV boys hoops championship</a></li>
+																																						<li class="bullet"><a href="/130/1681940/Football-championship-photo-slide-show">Football championship photo slide show</a></li>
+																																						<li class="bullet"><a href="/130/1681924/Mesa-district-looking-for-head-volleyball-football-coaches">Mesa district looking for head volleyball, football coaches</a></li>
+																																						<li class="bullet"><a href="/130/1681903/Photo-slide-show-of-football-championship-games">Photo slide show of football championship games</a></li>
 																			
 																		</ul>
-											</div>	
+												<a style="float: right;margin: 10px 105px -20px 0;" href="http://j.mp/19AJ6v1" target="_blank"><img width="120" src="http://www.arizonasports.com/emedia/az/32/3270/327033.jpg"></a>
+
+			</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/170/1636043/Arizona-Cardinals-OTAs--Tue-May-21"><img src="http://www.arizonasports.com/emedia/az/31/3154/315463.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/170/1681696/Cardinals-vs-Eagles--Sun"><img src="http://www.arizonasports.com/emedia/apimage/602249b4-4de9-4c23-b1e4-8a6627ec8f74.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/171/1635547/Cardinals-head-coach-Bruce-Arians-on-ESPNs-Sunday-Conversation"><img src="http://www.arizonasports.com/emedia/az/31/3153/315349.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/171/1680923/The-Big-Red-Wolf-Report-After-the-Colts-before-the-Eagles"><img src="http://www.arizonasports.com/emedia/az/32/3291/329182.png?filter=mynw/145x90_cropped"></a></li>
 															</ul>													
 			</div>
 			<div class="clearboth"></div>
@@ -1694,31 +1828,31 @@ The...</div>
 			</div><!--end of .dropdown-col1 -->
 			<div class="dropdown-col2">
 									<div class="dropdown-main-headlines">
-																					<a href="/216/1636373/Patrick-Stenhouse-make-up-following-wreck" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/5a696720-b450-45d1-82a1-104c2c3ee2d0.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/216/1636373/Patrick-Stenhouse-make-up-following-wreck" class="scm_link">Patrick, Stenhouse make up following wreck</a><br>
+																					<a href="/216/1682133/Woods-closes-chapter-on-California-childhood" class="scm_image"><img src="http://www.arizonasports.com/emedia/apimage/5744e031-1a5e-4b36-aa76-025e6895365a.jpg?filter=ktar/dropdown_251x139"></a>								<div class="subnav_mainDesc"><a href="/216/1682133/Woods-closes-chapter-on-California-childhood" class="scm_link">Woods closes chapter on California childhood</a><br>
 
-LONG POND, Pa. (AP) - Danica Patrick left the bumpy ride with boyfriend Ricky...</div>
+THOUSAND OAKS, Calif. (AP) - Of all the memories from Tiger Woods' roots in...</div>
 
 																
 											</div>
 												</div>
 			<div class="dropdown-col3">
 				<h2></h2>					<ul class="dropdown-headlines">
-																																																										<li class="bullet"><a href="/216/1637912/Mike-Conway-to-race-Belle-Isle-for-Dale-Coyne">Mike Conway to race Belle Isle for Dale Coyne</a></li>
-																																						<li class="bullet"><a href="/216/1637856/Love-joins-Haas-as-Presidents-Cup-aides-to-Couples">Love joins Haas as Presidents Cup aides to Couples</a></li>
-																																						<li class="bullet"><a href="/216/1637774/Rahm-Arizona-St-take-lead-at-NCAA-championship">Rahm, Arizona St take lead at NCAA championship</a></li>
-																																						<li class="bullet"><a href="/216/1637743/A-contentious-year-in-golf">A contentious year in golf</a></li>
+																																																										<li class="bullet"><a href="/216/1682265/Swan-Racing-expanding-to-2-Sprint-Cup-teams">Swan Racing expanding to 2 Sprint Cup teams</a></li>
+																																						<li class="bullet"><a href="/216/1682197/Kanaan-savors-image-on-Indianapolis-500-trophy">Kanaan savors image on Indianapolis 500 trophy</a></li>
+																																						<li class="bullet"><a href="/216/1682146/Stewart-picked-for-NASCAR-14-video-game-cover">Stewart picked for 'NASCAR '14' video game cover</a></li>
+																																						<li class="bullet"><a href="/216/1594574/A-big-week-of-golf-on-3-continents">A big week of golf on 3 continents</a></li>
 																			
 																		</ul>
 											</div>	
 			<div class="dropdown-col4">
 				<h2>Photos</h2>
 				<ul>
-																		<li><a href="/71/1637781/2013-Stanley-Cup-Playoffs--Tue"><img src="http://www.arizonasports.com/emedia/az/31/3158/315864.jpg?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/71/1682060/Monday-Night-Football--Saints-at-Seahawks"><img src="http://www.arizonasports.com/emedia/apimage/5b1ac3d9-dbe4-4fae-a981-dc7e51fd70ba.jpg?filter=mynw/145x90_cropped"></a></li>
 												
 				</ul>
 				<h2>Video</h2>
 				<ul>
-																		<li><a href="/90/1637889/Brittney-Griner-discusses-her-sexuality"><img src="http://www.arizonasports.com/emedia/az/31/3158/315885.JPG?filter=mynw/145x90_cropped"></a></li>
+																		<li><a href="/90/1682232/Ice-Bites-Phoenix-Coyotes-hoping-to-turn-it-around-in-Canada"><img src="http://www.arizonasports.com/emedia/az/32/3295/329530.jpg?filter=mynw/145x90_cropped"></a></li>
 															</ul>										
 			</div>
 			<div class="clearboth"></div>
@@ -1739,8 +1873,8 @@ LONG POND, Pa. (AP) - Danica Patrick left the bumpy ride with boyfriend Ricky...
                      <td valign="top" style="padding-right:20px;">
                         <div class="footerlinks">
                         <a href="/63/1535680/Contact-KTAR">Contact Us</a><br>
-                        <a href="http://ktar.com/63/1535695/Careers">Employment</a><br>
-                        <a href=" http://media.bonnint.net/az/28/2875/287502.pdf" target="_blank">Contest Rules</a><br>
+                        <a href="http://bonnevillephoenix.applicantpro.com">Employment</a><br>
+                        <a href="http://media.bonnint.net/az/28/2875/287502.pdf" target="_blank">Contest Rules</a><br>
                         <a href="/?sid=31884&amp;nid=130" style="display:none;">RSS</a><br>
                         </div>
                     </td>
@@ -1748,7 +1882,7 @@ LONG POND, Pa. (AP) - Danica Patrick left the bumpy ride with boyfriend Ricky...
                         <div class="footerlinks">
                         <a href="/63/1535709/Terms-Of-Use">Terms of Use</a><br>
                         <a href="/63/1535710/PRIVACY-STATEMENT">Privacy Statement</a><br>
-                        <a href="http://media.bonnint.net/az/28/2890/289090.pdf" target="_blank">EEO Public File Report</a><br>
+                        <a href="http://ktar.com/misc/EEO.pdf" target="_blank">EEO Public File Report</a><br>
                         <a href="/63/1535711/Copyright-Info">Copyright Infringement</a><br>
                         </div>
                     </td>
@@ -1779,12 +1913,12 @@ LONG POND, Pa. (AP) - Danica Patrick left the bumpy ride with boyfriend Ricky...
   })();
 
 </script>
-			<script type="text/javascript" language="javascript" src="/live_s_code.js"></script>
+			<script type="text/javascript" language="javascript" src="/s_code_azsports_26.js"></script>
 			<script type="text/javascript" language="javascript"><!--
 				/* You may give each page an identifying name, server, and channel on
 				the next lines. */
-				s.pageName="PRIVACY STATEMENT"
-				s.server="m18"
+								s.pageName="PRIVACY STATEMENT"
+				s.server="m13"
 				s.channel="Columnists"
 				s.pageType=""
 				s.prop1=""
@@ -1814,56 +1948,74 @@ LONG POND, Pa. (AP) - Danica Patrick left the bumpy ride with boyfriend Ricky...
 			</script>
 			<!-- End SiteCatalyst code version: H.9. -->
 
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "16033947", c3: "", c4: "http://www.arizonasports.com/63/1535710/PRIVACY-STATEMENT" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=16033947&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
         <div id="footerSlideContainer">
 		<div id="jquery_jplayer_1" class="jp-jplayer" style="display:block"></div>
 			<div id="footerSlideContent">
-			   
-				<div style="float:right;width:600px;margin-right:20px;">
-					<div style="position:absolute;top:-30px;left:990px;z-index:19999;"><a href="#" id="close_audio" class="listenAudio" ref="close"><img src="/img/close.png" width="50" height="50" border="0" alt="close" style="z-index:9999;"></a></div>
-					<h1 id="footerSliderTitle"></h1>
+			   					<div style="position:absolute;top:-30px;right:0px;z-index:19999;"><a href="#" id="close_audio" class="listenAudio" ref="close"><img src="/img/close.png" width="50" height="50" border="0" alt="close" style="z-index:9999;"></a></div>
+
+				<div style="float:right;width:600px;margin-right:20px;" class="nomobile">
+					<h1 class="footerSliderTitle"></h1>
 					<h3 id="footerSliderDate"></h3>
 					<span id="footerSliderDesc"></span>
 										
-					<div style="margin-top:5px;"><b style="font-size:9pt;color:#fff;">Share: </b> <a href="javascript:void(window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Farizonasports.com%2Fcategory%2Fpodcast_player%2F%3Fa%3D&amp;t=arizonasports.com','fb_share','width=600,height=500,status=no,resizable=no,scrollbars=no'));"><img src="http://media.bonnint.net/seattle/5/518/51855.png?filter=mynw/18x18_cropped" border="0" align="absmiddle"></a> <a href="http://twitter.com/share?url=http://arizonasports.com/category/podcast_player/?a=&amp;via=arizonasports.com&amp;text=Listen: " target="new"><img src="http://media.bonnint.net/seattle/5/518/51856.png?filter=mynw/18x18_cropped" border="0" align="absmiddle"></a></div>
+					<div style="margin-top:5px;"><b style="font-size:9pt;color:#fff;">Share: </b> <span id="button_3"></span><a class="popUp" id="audioFB" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Farizonasports.com%2Fcategory%2Fpodcast_player%2F%3Fa%3D&amp;t=arizonasports.com"><img src="http://media.bonnint.net/seattle/5/518/51855.png?filter=mynw/18x18_cropped" border="0" align="absmiddle"></a> <a id="audioTwitter" class="popUp" href="http://twitter.com/share?url=http://arizonasports.com/category/podcast_player/?a=&amp;via=arizonasports.com&amp;text=Listen: " target="new"><img src="http://media.bonnint.net/seattle/5/518/51856.png?filter=mynw/18x18_cropped" border="0" align="absmiddle"></a></div>
 					
 				</div>
-				<div style="">
-				  
-				  
-				
-		
-				<div class="jp-audio">
+				<div id="jp_container_1" class="jp-audio">
 					<div class="jp-type-single">
-						<div id="jp_interface_1" class="jp-interface">
+						<div class="jp-gui jp-interface">
 							<ul class="jp-controls">
-								<li><a href="#" class="jp-play" tabindex="1">play</a></li>
-								<li><a href="#" class="jp-pause" tabindex="1">pause</a></li>
-		
-								<li><a href="#" class="jp-stop" tabindex="1">stop</a></li>
-								<li><a href="#" class="jp-mute" tabindex="1">mute</a></li>
-								<li><a href="#" class="jp-unmute" tabindex="1">unmute</a></li>
+								<li><a href="javascript:;" class="jp-play" tabindex="1">play</a></li>
+								<li><a href="javascript:;" class="jp-pause" tabindex="1">pause</a></li>
+								<li><a href="javascript:;" class="jp-stop" tabindex="1">stop</a></li>
+								<li><a href="javascript:;" class="jp-mute" tabindex="1" title="mute">mute</a></li>
+								<li><a href="javascript:;" class="jp-unmute" tabindex="1" title="unmute">unmute</a></li>
+								<li><a href="javascript:;" class="jp-volume-max" tabindex="1" title="max volume">max volume</a></li>
 							</ul>
 							<div class="jp-progress">
 								<div class="jp-seek-bar">
 									<div class="jp-play-bar"></div>
-		
 								</div>
 							</div>
 							<div class="jp-volume-bar">
 								<div class="jp-volume-bar-value"></div>
 							</div>
-							<div class="jp-current-time"></div>
-							<div class="jp-duration"></div>
+							<div class="jp-time-holder">
+								<div class="jp-current-time"></div>
+								<div class="jp-duration"></div>
+		
+								<ul class="jp-toggles">
+									<li><a href="javascript:;" class="jp-repeat" tabindex="1" title="repeat">repeat</a></li>
+									<li><a href="javascript:;" class="jp-repeat-off" tabindex="1" title="repeat off">repeat off</a></li>
+								</ul>
+							</div>
 						</div>
-						<div id="jp_playlist_1" class="jp-playlist">
+						<div class="jp-title">
 							<ul>
-								<li><span id="pauseTest"><a class="popUpPlayer" id="footerSliderPopup" href="?nid=64">Launch in pop-up player</a></span> &nbsp;|&nbsp; <a id="footerDownloadAudio" target="_blank" href="#">Download audio file</a></li>
+								<li class="footerSliderTitle mobileonly"></li>
+								<li class="sliderLinks nomobile"><span id="pauseTest"><a class="popUpPlayer" id="footerSliderPopup" href="?nid=64">Launch in pop-up player</a></span> &nbsp;|&nbsp; <a id="footerDownloadAudio" href="#">Download audio file</a></li>
 							</ul>
 						</div>
-					</div>
-				</div>
-				  
-				
+						<div class="jp-no-solution">
+							<span>Update Required</span>
+							To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+						</div>
+			</div>
 				</div>
 			</div>
 		</div>
