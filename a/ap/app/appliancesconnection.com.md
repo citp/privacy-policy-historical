@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliancesconnection.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117041638id_/http%3A//www.appliancesconnection.com/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliancesconnection.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203221439id_/http%3A//www.appliancesconnection.com/page-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AppliancesConnection.com
 
@@ -15,8 +15,6 @@
 Effective Date April 18th, 2012
 
 Your privacy is important to AppliancesConnection on the website www.appliancesconnection.com. We understand that all information transferred on our website is private and sensitive. Listed below is how we protect our customers from online fraud and protect your personal information. Let us know if you have any questions that are not covered on this page.
-
-AppliancesConnection has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the website www.appliancesconnection.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@AppliancesConnection.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 **Information That We Collect**
 
