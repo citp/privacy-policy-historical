@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507095440id_/http%3A//www.biblio.com/pages/Privacy_and_Security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203175035id_/http%3A//www.biblio.com/pages/Privacy_and_Security.html) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -50,7 +50,7 @@ Cookies are used on our site to keep track of items you have placed in your shop
 
 If you reject cookies, you may still use our site, but you will not be able to place orders. In order to purchase online using our secure checkout, cookies must be enabled. This is so that our system can associate your purchase with your account and shopping cart. You have the option to remove this information at the completion of your purchase, or to request that our system remember your information for future purchases.
 
-Some of our business partners (e.g., web analytics providers and affiliate management providers) use cookies on our site. We have no access to or control over these cookies. 
+Some of our business partners (e.g., web analytics providers and affiliate management providers) use cookies on our site. These cookies may be used to gather general demographic information about website visitors. We do not link this demographic information to personally identifiable information you submit while on our site. We use this general demographic information for marketing purposes.
 
 This privacy statement covers the use of cookies by Biblio.com only and does not cover the use of cookies by any business partners. 
 
