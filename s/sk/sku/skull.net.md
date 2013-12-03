@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skull.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501110010id_/http%3A//skull.net/t/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skull.net privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203110827id_/http%3A//skull.net/t/policy.php) for the most accurate reproduction.*
 
 # Skull.net | Privacy Policy
 
