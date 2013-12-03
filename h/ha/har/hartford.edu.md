@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hartford.edu privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601072550id_/http%3A//hartford.edu/web_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hartford.edu privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203031807id_/http%3A//www.hartford.edu/web_privacy_policy.aspx) for the most accurate reproduction.*
 
-# University of Hartford Web Privacy Policy
+# Web Privacy Policy | University of Hartford
 
 ## Commitment to Your Privacy
 
