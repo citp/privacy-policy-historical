@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the breakingworldnewstoday.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603083709id_/http%3A//www.breakingworldnewstoday.com/2012/10/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingworldnewstoday.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203233558id_/http%3A//www.breakingworldnewstoday.com/2012/10/privacypolicy.html) for the most accurate reproduction.*
 
-# -
+# 
 
 Privacy Policy for www.breakingworldnewstoday.com 
 
