@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520133014id_/http%3A//www.iskoot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204005610id_/http%3A//www.iskoot.com/privacy) for the most accurate reproduction.*
 
 # » Privacy Statement
 
-This policy explains our privacy practices for our services that link to this policy including the iSkoot web notification service, and iSkoot’s website at: www.iskoot.com (the “Website” and collectively: the “Services”). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices. The Services are provided by Qualcomm iSkoot, Inc., a company headquartered in California, U.S.A. (“we”, “us”, and “our”).
+This policy explains our privacy practices for our services that link to this policy including the QCE web notification service, and QCE’s website at: www.iskoot.com (the “Website” and collectively: the “Services”). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices. The Services are provided by Qualcomm Connected Experiences, Inc., a company headquartered in California, U.S.A. (“we”, “us”, and “our”).
 
 THE SERVICES ARE NOT INTENDED FOR USE BY PERSONS UNDER THE AGE OF 14. IF YOU ARE UNDER 14 YEARS OLD, YOU MUST NOT USE THE SERVICES, OR PROVIDE US WITH ANY OF YOUR PERSONALLY IDENTIFIABLE INFORMATION.
 
@@ -64,7 +64,7 @@ We may also share personally identifiable information with companies or organiza
 
 #### Accessing your personal account
 
-At any time, you may contact us at: [privacysupport@iskoot.com](mailto:privacysupport@iskoot.com) and request to edit, correct, or amend your personal information. Please keep in mind that providing false, incorrect, incomplete, or out dated information may prevent you from registering with or using the Services, and/or may impair our ability to provide you with the Services.
+At any time, you may contact us at: [privacysupport@qce.qualcomm.com](mailto:privacysupport@qce.qualcomm.com) and request to edit, correct, or amend your personal information. Please keep in mind that providing false, incorrect, incomplete, or out dated information may prevent you from registering with or using the Services, and/or may impair our ability to provide you with the Services.
 
 #### Data retention
 
@@ -92,6 +92,6 @@ We may change and update the terms of this policy from time to time. We therefor
 
 #### Contact us
 
-You are welcome to contact us with requests, comments and questions at the Contact us page on the Website write to us at Qualcomm iSkoot, Inc., Attn: Legal Department, 5775 Morehouse Drive, San Diego, CA 92121. 
+You are welcome to contact us with requests, comments and questions at the Contact us page on the Website write to us at Qualcomm Connected Experiences, Inc., Attn: Legal Department, 5775 Morehouse Drive, San Diego, CA 92121. 
 
-Last update: March 27, 2013
+Last update: July 1, 2013
