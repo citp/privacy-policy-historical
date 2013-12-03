@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predictz.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602151625id_/http%3A//www.predictz.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictz.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204004843id_/http%3A//www.predictz.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # predictZ.com - Privacy and Cookie Policy
 
