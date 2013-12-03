@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailydawdle.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426183325id_/http%3A//www.dailydawdle.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydawdle.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203214815id_/http%3A//www.dailydawdle.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Daily Dawdle
 
