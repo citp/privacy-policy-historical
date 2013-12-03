@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogbydonna.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517145113id_/http%3A//blogbydonna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogbydonna.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203054450id_/http%3A//blogbydonna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blog By DonnaBlog By Donna
 
@@ -53,14 +53,16 @@ By using our site, you consent to our [online privacy policy](http://www.freepr
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page.This policy was last modified on 6/25/2011
+If we decide to change our privacy policy, we will post those changes on this page.This policy was last modified on 9/30/2013.
+
+To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [http://blogbydonna.com](http://blogbydonna.com/)  
-[donna@blogbydonna.com](https://web.archive.org/web/20130517145113id_/http%3A//blogbydonna.com/donna@blogbydonna.com)
+[donna@blogbydonna.com](https://web.archive.org/web/20131203054450id_/http%3A//blogbydonna.com/donna@blogbydonna.com)
 
   
 
