@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educations.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430082045id_/http%3A//www.educations.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educations.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203190457id_/http%3A//www.educations.com/privacy) for the most accurate reproduction.*
 
 # EMG Privacy Policy
 
@@ -34,7 +34,7 @@ Every person making an information request or an educations purchase via an EMG 
 
 **EMG Privacy Policy**
 
-This privacy policy applies to Educations.com Media Group and its subsidiaries [hereafter EMG], EMG have created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses its information gathering and dissemination practices for www.educations.com and other Internet web sites owned by EMG.
+This privacy policy applies to Educations.com Media Group and its subsidiaries Content not found, EMG have created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses its information gathering and dissemination practices for www.educations.com and other Internet web sites owned by EMG.
 
 EMG invites you to contact us at the following address if you have any questions regarding this policy:  
 Educations.com Media Group  
