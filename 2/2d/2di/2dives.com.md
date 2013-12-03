@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2dives.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603153916id_/http%3A//2dives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2dives.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203214213id_/http%3A//2dives.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 2dives.com
 
