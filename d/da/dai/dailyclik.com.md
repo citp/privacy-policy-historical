@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyclik.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520072101id_/http%3A//www.dailyclik.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyclik.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203232233id_/http%3A//www.dailyclik.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dailyclik.com
 
