@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neo4j.org privacy policy that was archived on 2013-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130217195432id_/http%3A//www.neo4j.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neo4j.org privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203224654id_/http%3A//www.neo4j.org/privacy) for the most accurate reproduction.*
 
-# Privacy - Neo4j: The World's Leading Graph Database
+# Neo4j - The World's Leading Graph Database - Privacy
 
 ## Privacy Policy
 
