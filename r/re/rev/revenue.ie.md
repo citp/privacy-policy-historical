@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenue.ie privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628160929id_/http%3A//www.revenue.ie/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenue.ie privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203084144id_/http%3A//www.revenue.ie/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -12,7 +12,7 @@ We take every precaution to protect the confidentiality of your personal informa
 
 ## Collection of Internet Protocol (IP) Addresses.
 
-We record the IP address assigned to you by your Internet Service Provider. This is used for a number of purposes including administering the site, analysing trends and gathering statistics. We will not link IP addresses with other personal information.
+We record the IP address assigned to you by your Internet Service Provider. This is used for a number of purposes including administering the site, analysing trends and gathering statistics.
 
 ### Use of Cookies
 
@@ -35,6 +35,12 @@ The Revenue website contains links to other sites. Revenue is not responsible fo
 ### Notification of Changes to this Statement
 
 Revenue reserves the right to amend this statement at any future date and will post any substantive changes here. 
+
+**29th June 2013**
+
+  * Collection of IP Addresses section edited to remove the statement that IP addresses are not linked to personally identifiable information. This is to facilitate anti-fraud measures.
+
+
 
 **10th March 2013**
 
