@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indicine.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602173957id_/http%3A//www.indicine.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indicine.net privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203103432id_/http%3A//www.indicine.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Movies Online
 
-Posted by admin on January 21st, 2013 Rating 9.0 —Outstanding
+Posted by admin on January 21st, 2013 Rating 9.0 ?Outstanding
 
 Privacy Policy for http://www.indicine.net
 
