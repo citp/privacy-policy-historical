@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123021002id_/http%3A//www.drivers.com/privacy_drivers.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203201014id_/http%3A//www.drivers.com/privacy_drivers.php) for the most accurate reproduction.*
 
 # Download Drivers - Automatic Driver Updates With the World's Leading Device Drivers Website
 
@@ -33,7 +33,7 @@ Cookies - We use "cookies" on this site. A cookie is a piece of data stored on a
 
 Links - This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone 512-373-3518 or by emailing us directly at driverscom@drivershq.com.
+If you feel that we are not abiding by this privacy policy, you should contact us immediately by emailing us directly at pde@drivers.com with 'drivers.com privacy' in the subject line.
 
 ## Driver Common Sense Policy
 
