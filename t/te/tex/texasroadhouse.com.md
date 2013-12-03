@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the texasroadhouse.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512044433id_/http%3A//www.texasroadhouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasroadhouse.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203065559id_/http%3A//www.texasroadhouse.com/privacy-policy) for the most accurate reproduction.*
 
-# Family Restaurant - Steak Restaurant - Privacy Policy | Texas Roadhouse
+# Privacy Policy - Steak Restaurant | Texas Roadhouse
 
 Posted October 1, 2004
 
