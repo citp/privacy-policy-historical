@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hulkfile.eu privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530051644id_/http%3A//hulkfile.eu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hulkfile.eu privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203083537id_/http%3A//hulkfile.eu/privacy.html) for the most accurate reproduction.*
 
 # Hulkfile - Rock solid cloud storage service
 
 ### Privacy Policy
+
+At Hulkfile the privacy of our users is of extreme importance to us, any personal information received will not sell or shared with anyone or any organization. 
 
 By using the Site, you signify your assent to our privacy policy. If you do not agree with any of the terms of this policy, please do not use our Site. We reserve the right to change this policy at any time, and will post any changes to this policy when they go into effect.
 
