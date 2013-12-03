@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldslastchance.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604100143id_/http%3A//www.worldslastchance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldslastchance.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203111756id_/http%3A//www.worldslastchance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ You are able to opt-out or unsubscribe from any of our mail streams (Updates and
   3. Go to [_Contact Us_](http://www.worldslastchance.com/contact-us) and request to be removed from any or all mail streams.
   4. Email us at [_updates@worldslastchance.com_](mailto:updates@worldslastchance.com) and request to be unsubscribed from any or all mail streams. 
   5. Write to us at:  World's Last Chance |  Sun Terrace House, Golden Rock  |  Liburd's Estate  |  Nevis, Saint Kitts and Nevis - and request to be unsubscribed from any or all mail streams .
-  6. Call us at:  **+1.869.469.2529**  - and request to be unsubscribed from any or all mail streams.
+  6. Call us at:  **+1-869-469-3728**  - and request to be unsubscribed from any or all mail streams.
 
 
 
@@ -50,7 +50,7 @@ if you need assistance with opting-out or opting-in to any mail stream.
 
 Should you have any questions or concerns about the Policy, please send an e-mail to  _[privacy@WorldsLastChance.com.](mailto:privacy@WorldsLastChance.com)_
 
-**World's Last Chance ®  |  Sun Terrace House, Golden Rock  |  Liburd's Estate  |  Nevis, Saint Kitts and Nevis  | +1.869.469.2529**
+**World's Last Chance ®  |  Sun Terrace House, Golden Rock  |  Liburd's Estate  |  Nevis, Saint Kitts and Nevis  | +1-869-469-3728**
 
 * * *
 
