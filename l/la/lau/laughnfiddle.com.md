@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the laughnfiddle.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629202850id_/http%3A//laughnfiddle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughnfiddle.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203065942id_/http%3A//laughnfiddle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Funny Joke Online | Funny Animal Pictures Online | Funny Animals Online | Laugh 'N' Fiddle
-
-## Privacy Policy
 
 **Privacy Policy for laughnfiddle.com**
 
