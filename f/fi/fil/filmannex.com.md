@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmannex.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606072044id_/http%3A//www.filmannex.com/pages/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmannex.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203031205id_/http%3A//www.filmannex.com/pages/about/privacy) for the most accurate reproduction.*
 
 # About Film Annex
 
@@ -96,7 +96,7 @@ Unlike many other distributors, Film Annex DOES NOT take the copyright from film
 
   * Third party vendors, including Google, show our ads on sites on the internet.
   * Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website.
-  * You have the option to opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html "Google advertising opt-out page").
-  * Alternatively you can opt out - opt out of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp "the Network Advertising Initiative opt out page").
+  * You have the option to opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
+  * Alternatively you can opt out - opt out of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 
