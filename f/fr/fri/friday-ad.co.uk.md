@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friday-ad.co.uk privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615055420id_/http%3A//www.friday-ad.co.uk/PrivacyCookiePolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friday-ad.co.uk privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203201044id_/http%3A//www.friday-ad.co.uk/PrivacyCookiePolicy) for the most accurate reproduction.*
 
 # Friday-Ad - Privacy Cookie Policy
 
