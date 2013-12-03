@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moes.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623132722id_/http%3A//www.moes.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moes.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203175759id_/http%3A//www.moes.com/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to Moes | Moes Southwest Grill | Privacy Policy
 
