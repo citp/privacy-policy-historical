@@ -1,41 +1,41 @@
-> *The following text is extracted and transformed from the waterstones.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604020421id_/http%3A//www.waterstones.com/waterstonesweb/pages/help-privacy-policy/100000019) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterstones.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203113201id_/http%3A//www.waterstones.com/waterstonesweb/pages/help-privacy-policy/100000019) for the most accurate reproduction.*
 
 # Fiction, Children's books, eBooks, Non-fiction books, textbooks and more at Waterstones
 
-**What are cookies?**
+### What are cookies?
 
 Waterstones.com places tiny text files called cookies onto your computer, tablet or mobile device. This is standard practice for almost all websites.
 
 Cookies are not harmful to your computer and are an essential part of online shopping. They allow us to give you a more efficient customer experience. 
 
-**What are cookies used for?**
+### What are cookies used for?
 
 There are two main types of cookie; we call them "first party" and "third party" cookies. 
 
 First party cookies are small data files that Waterstones.com uses do things such as keeping track of what you've put in your basket and remembering who you are when you return to our site. We don't save personal information such as credit card details in cookies we create. 
 
-Third party cookies are set on behalf of Waterstones.com. The most important of these are Google, Tradedoubler and Affiliate Window who display text or banner adverts on our behalf on a number of other reputable websites. These partner cookies don't collect personal data and would not be able to identify you as an individual customer. 
+Third party cookies are set on behalf of Waterstones.com. The most important of these are Google and Affiliate Window who display text or banner adverts on our behalf on a number of other reputable websites. These partner cookies don't collect personal data and would not be able to identify you as an individual customer. 
 
-**On the whole, cookies are used:**
+**On the whole** , cookies are used: 
 
-* For technical purposes essential to effective operation of website, particularly in relation to online transactions.
-* To enable Waterstones.com to collect anonymous information about the browsing and shopping activities of our customers for internal analysis.
-* To drive Waterstones.com marketing, particularly banner advertisements and text adverts.
-* To enable Waterstones.com meet its contractual obligations to make payments to third parties when a product is purchased by someone who has visited our website from a site operated by those parties.
+  1. For technical purposes essential to effective operation of website, particularly in relation to online transactions.
+  2. To enable Waterstones.com to collect anonymous information about the browsing and shopping activities of our customers for internal analysis.
+  3. To drive Waterstones.com marketing, particularly banner advertisements and text adverts.
+  4. To enable Waterstones.com meet its contractual obligations to make payments to third parties when a product is purchased by someone who has visited our website from a site operated by those parties.
 
-_**How to manage cookies:**_
 
-**Microsoft Internet Explorer:** **1.** Choose the "tools" menu - then "Internet Options" **2.** Click on the "privacy" tab **3.** Select the appropriate setting 
 
-**Mozilla Firefox:** **1.** Choose the "tools" menu- then "Options" **2.** Click on the "privacy" icon **3.** Find the menu "cookie" and select the relevant option 
+### How to manage cookies:
 
-**For Opera 6.0 and further:** **1.** Choose the > "Preferences" menu **2.** Privacy 
+If cookies aren't enabled on your computer, it will mean that your shopping experience on our website will be limited to browsing and researching; you won't be able to add products to your basket and buy them.
+
+If you'd like to learn more about cookies in general and how to manage them, visit [aboutcookies.org](http://www.aboutcookies.org/) (opens in a new window).
 
 Waterstones Booksellers Limited ("Waterstones"), are committed to ensuring that your privacy is protected. This policy explains how we use the information we collect about you and the procedures that we have in place to safeguard your privacy whilst you use the website.
 
 We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
 
-**The information we collect and how we use it**
+### The information we collect and how we use it
 
 When you register with Waterstones and/or place an order, we need to know your name, delivery address, credit or debit card number and expiry date, email address and telephone number. This information allows us to fulfil your order and notify you of the status of your order. All orders are fulfilled using a third party service provider and we will therefore pass on your details to that service provider so that they can deliver your goods to you. That third party service provider has undertaken to us that they will protect that information, will not pass it on, not use it for any other purpose than to deliver your ordered goods to you.
 
@@ -53,11 +53,11 @@ We monitor customer traffic on an aggregate basis in order to help us develop an
 
 By submitting your information you consent to the use of that information as set out in this Policy. If we change our Privacy Policy we will post the changes on this page so that you may be aware of them. We will also email you should we make any changes and give you a chance to ask us not to use your information in that way. Because the Internet infrastructure is global, and it is not possible to predict the routes that information sent over the Internet will take, the information you provide may be transferred temporarily via a route which takes it outside the European Economic Area as it passes between you and us. By submitting your information you consent to this transfer.
 
-**Opt in/Opt out**
+### Opt in/Opt out
 
-If at any time you wish to receive information about any other product areas which you currently do not receive, you can [**sign up to our email newsletters**](http://f.chtah.com/s/30/619054499/Waterstones_signup_homepage.html) by visiting the [**email preference page**](http://f.chtah.com/s/30/619054499/Waterstones_signup_homepage.html). If you wish to stop receiving some or all of the information that we currently send, you may amend or remove your preferences by clicking on the unsubscribe link at the bottom of your emails and following the instructions provided. If you have any queries about how to use the mailing preference system, please email us at [**service@waterstones.com**](mailto:service@waterstones.com).
+If at any time you wish to receive information about any other product areas which you currently do not receive, you can [sign up to our email newsletters](http://f.chtah.com/s/30/619054499/Waterstones_signup_homepage.html) by visiting the [email preference page](http://f.chtah.com/s/30/619054499/Waterstones_signup_homepage.html). If you wish to stop receiving some or all of the information that we currently send, you may amend or remove your preferences by clicking on the unsubscribe link at the bottom of your emails and following the instructions provided. If you have any queries about how to use the mailing preference system, please email us at [support@waterstones.com](mailto:support@waterstones.com).
 
-**Cookies**
+### Cookies
 
 Our site uses cookies to keep track of your visits to our website. A cookie is a small file that can be stored by your browser on your computer's hard drive. We may use these to do a number of things.
 
@@ -65,15 +65,15 @@ We use cookies to deliver contents specific to your interest and to save your pa
 
 Cookies help us to recognise when you next visit our website and note the advertisements displayed to you. This allows us to tailor the service we provide to your preferences.
 
-You can usually change your browser so that it will not accept cookies.
+You can usually change your browser so that it will not accept cookies. If you'd like to learn more about cookies in general and how to manage them, visit [aboutcookies.org](http://www.aboutcookies.org/) (opens in a new window).
 
-**Security of your information**
+### Security of your information
 
 We follow strict security procedures in the storage and disclosure of information which you have given us. This is to prevent unauthorised access or unlawful processing of your personal information. We keep your information confidential and store it on a secure server which is password protected and hidden behind a firewall from the outside world. We use secure socket layer software (SSL) to encrypt all of your personal information including your credit card number and your name and address. Waterstones internal procedures cover the storage, access and disclosure of your information.
 
 The Verisign Secure Site Program allows you to learn more about web sites you visit before you submit any confidential information. When you see a Verisign logo, clicking on it will verify that this website is secure.
 
-**Non-disclosure to third parties**
+### Non-disclosure to third parties
 
 Unless we have your express consent, we will only disclose your personal data to third parties if this is required for the purpose of completing your transaction with us. This is subject to the proviso that we may disclose or transfer your data to a partner company where you have supplied information via a site which is co-branded with that partner company or to members of our own group. If personally identifying data about you may be shared with a partner company, we will tell you before we collect or transfer the data so that you may opt out of this transfer if you wish.
 
@@ -81,6 +81,6 @@ We use your information only as set out in this Policy and will not sell, rent o
 
 Waterstones may however provide aggregate statistics about its customers, sales traffic patterns and related site information to reputable third-party vendors and relevant affiliate partners, but these statistics will include no personally identifying information. We may also release account information where we believe in good faith that this release is reasonably necessary to comply with the law.
 
-**Your consent**
+### Your consent
 
 By submitting your information and using our website, you consent to the collection, storage and processing of your personal information by us in the manner set out in this Policy. If we change our Privacy Policy we will post the changes on this website so that you are always aware of what information we collect, how we use and under what circumstances we disclose it. We will also email you should we make any changes to give you a chance to ask us not to use your information in that way.
