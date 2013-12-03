@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kidneyfund.org privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530122601id_/http%3A//www.kidneyfund.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidneyfund.org privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203094825id_/http%3A//www.kidneyfund.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | 
 
-[](http://www.addthis.com/bookmark.php?v=250&pub=kidneyfund)
+[](http://www.addthis.com/bookmark.php?v=300&pubid=kidneyfund)
 
 ## A Privacy Policy Statement from the American Kidney Fund
 
