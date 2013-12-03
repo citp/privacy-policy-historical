@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the capgemini.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608225206id_/http%3A//www.capgemini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capgemini.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203150731id_/http%3A//www.capgemini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Capgemini Worldwide
 
-Capgemini believes that the establishment of trust and privacy is instrumental to the continued growth of the Internet.  We also believe that the efficient collection, use and transfer of information serve to enhance the development of the Internet and electronic commerce, provided that such information is handled in a fair and responsible manner.
+Capgemini believes that the establishment of trust and privacy is instrumental to the continued growth of the Internet.  We also believe that the efficient collection, use and transfer of information serve to enhance the development of the Internet and electronic commerce, provided that such information is handled in a fair and responsible manner. 
 
 ##  Introduction
 
