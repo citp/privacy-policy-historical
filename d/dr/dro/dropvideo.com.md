@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropvideo.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602173730id_/http%3A//www.dropvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropvideo.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203101953id_/http%3A//www.dropvideo.com/privacy) for the most accurate reproduction.*
 
 # DropVideo - Share Your Videos With The World
 
