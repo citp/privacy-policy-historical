@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neatvideo.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601054006id_/http%3A//neatvideo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neatvideo.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203082052id_/http%3A//www.neatvideo.com/privacy.html) for the most accurate reproduction.*
 
 # Neat Video :: privacy statement
 
