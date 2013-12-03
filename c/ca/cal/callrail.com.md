@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the callrail.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403051154id_/http%3A//www.callrail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callrail.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203112044id_/http%3A//www.callrail.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Call Tracking & Analytics
+# Privacy Policy | Call Tracking and Analytics
 
 ### What information do we collect?
 
@@ -56,6 +56,6 @@ By using our site, you consent to our online privacy policy. If we decide to cha
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-PO Box 250111  
-Atlanta, GA 30325  
+14 Eastbrook Bend #107  
+Peachtree City, GA 30269  
 support@callrail.com
