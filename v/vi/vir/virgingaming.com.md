@@ -1,19 +1,22 @@
-> *The following text is extracted and transformed from the virgingaming.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605145406id_/http%3A//virgingaming.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virgingaming.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203014501id_/http%3A//virgingaming.com/web/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Virgin Gaming
+
+  
+
 
 ## Website Privacy Policy
 
 (last modified: January 15, 2013)
 
-Virgin Gaming recognizes that your privacy is serious business and we are committed to protecting your personal information. This website Privacy Policy (the “Privacy Policy”) describes the types of information collected about you when you visit the VirginGaming.com website (the "Site"), how that information may be used, when it may be disclosed, how you can take steps to control the use and disclosure of your personal information, and how that information is protected by us. 
+Virgin Gaming recognizes that your privacy is serious business and we are committed to protecting your personal information. This website Privacy Policy (the "Privacy Policy") describes the types of information collected about you when you visit the VirginGaming.com website (the "Site"), how that information may be used, when it may be disclosed, how you can take steps to control the use and disclosure of your personal information, and how that information is protected by us. 
 
-In this Privacy Policy, which is available via a link at the bottom of every page on the Site, "we", "us" and "our" means Intertaintech Corporation, as well as its affiliates on its behalf, including Impact Entertainment LLC (collectively, "Virgin Gaming"). Any terms that are not defined in this Privacy Policy shall have the meaning given in the [Terms and Conditions](https://web.archive.org/terms-and-conditions/) of service (the "T&Cs"). 
+In this Privacy Policy, which is available via a link at the bottom of every page on the Site, "we", "us" and "our" means Intertaintech Corporation, as well as its affiliates on its behalf, including Impact Entertainment LLC (collectively, "Virgin Gaming"). Any terms that are not defined in this Privacy Policy shall have the meaning given in the [Terms and Conditions](http://www.virgingaming.com/web/termsandconditions) of service (the "T&Cs"). 
 
 Key Definitions 
 
-  * “Personal Information” – generally means information about you as an identifiable individual, but excludes business contact information, specific publicly available information, and Gamer Information. 
-  * “Gamer Information” means information about activity on the Site by you as a member which is not itself personally identifiable with you and is therefore not Personal Information, but which may be linked (on a non-identifiable basis) to your account information, and includes your (a) Username or Alias, (b) Skill Rating, (c) Top Players Ranking (if any) and Virgin Gaming Points balance, (d) scores in games and tournaments, (e) gaming preferences and personal motto, (f) summary of gaming activity, including when you joined, and the number of games that you have played, (g) winnings from games and tournament, and (h) footage of gameplay in promotional materials such as trailers which may be displayed on the Site, or on website run by other parties including those of our marketing partners (for example, "play of the week", "highlight reel" or similar content). 
+  * "Personal Information" - generally means information about you as an identifiable individual, but excludes business contact information, specific publicly available information, and Gamer Information. 
+  * "Gamer Information" means information about activity on the Site by you as a member which is not itself personally identifiable with you and is therefore not Personal Information, but which may be linked (on a non-identifiable basis) to your account information, and includes your (a) Username or Alias, (b) Skill Rating, (c) Top Players Ranking (if any) and Virgin Gaming Points balance, (d) scores in games and tournaments, (e) gaming preferences and personal motto, (f) summary of gaming activity, including when you joined, and the number of games that you have played, (g) winnings from games and tournament, and (h) footage of gameplay in promotional materials such as trailers which may be displayed on the Site, or on website run by other parties including those of our marketing partners (for example, "play of the week", "highlight reel" or similar content). 
 
 
 
@@ -27,7 +30,7 @@ Finally, this Privacy Policy explains how we manage and safeguard Personal Infor
 
 ### 1\. ACCOUNTABILITY
 
-Virgin Gaming is accountable for all Personal Information in its control. This includes information under the direct control of Virgin Gaming, as well as Personal Information that Virgin Gaming may transfer to its affiliates or to third party service providers, in each case for the purposes of (i) performing support functions, such as payment processing, business analytics, customer support, printing and mailing, data storage and destruction, and (ii) marketing any of Virgin Gaming’s products and services. Virgin Gaming will use contractual or other measures to require third parties that process information or provide services on our behalf to maintain a level of privacy protection comparable to our own practices. 
+Virgin Gaming is accountable for all Personal Information in its control. This includes information under the direct control of Virgin Gaming, as well as Personal Information that Virgin Gaming may transfer to its affiliates or to third party service providers, in each case for the purposes of (i) performing support functions, such as payment processing, business analytics, customer support, printing and mailing, data storage and destruction, and (ii) marketing any of Virgin Gaming's products and services. Virgin Gaming will use contractual or other measures to require third parties that process information or provide services on our behalf to maintain a level of privacy protection comparable to our own practices. 
 
 Numerous individuals within Virgin Gaming are responsible for the day-to-day collection and processing of Personal Information, including technical and administration personnel trained for this purpose. However, Virgin Gaming has a designated Privacy Officer who is responsible for Virgin Gaming's compliance with applicable privacy legislation. Any questions or concerns with regard to the manner in which Virgin Gaming handles or manages Personal Information, or in respect of this Privacy Policy should be directed to our Privacy Officer who can be reached as follows: 
 
@@ -56,15 +59,14 @@ As examples of Non-Personal Information, we collect:
 
 We collect Personal Information as follows: 
 
-(a) _Initial Registration:_ from you, in connection with completing the “one step registration” required for you to create a free, basic user account (a "Basic Account"): 
+(a) _Initial Registration:_ from you, in connection with completing the "one step registration" required for you to create a free, basic user account (a "Basic Account"): 
 
   1. your email address for the purpose of (A) verifying your identity by emailing you, (B) you logging in, (C) marketing upcoming game tournaments to you, and (D) emailing game results to you; 
   2. your date of birth, for the purpose of ensuring that you are permitted to create an account based upon your age, 
   3. where you reside, for the purpose of ensuring that you are permitted to create an account based upon your jurisdiction, and 
   4. you user name, for the purpose of identifying you. 
 
-  
-(collectively, the “Basic Information”). 
+(collectively, the "Basic Information"). 
 
 (b) _Deposit Funds into the Basic Account:_ from you, for the purpose of creating and depositing funds to the your Basic Account which will allow the Individual to enter cash games and tournaments (a "Real Money Account"), in addition to the Basic Information: 
 
@@ -83,15 +85,15 @@ We collect Personal Information as follows:
 
 (d) _Withdraw funds from Real Money Account and Claim Prizing:_ from Individuals, for the purpose of confirming their identity: 
 
-  1. Name, photograph, age and address (via a copy of your driver’s license or utility bill); 
+  1. Name, photograph, age and address (via a copy of your driver's license or utility bill); 
 
 
 
-(e) _Edit profile:_ from you, for the purpose of updating your contact information, your “site information”, your password, and your communication preferences: 
+(e) _Edit profile:_ from you, for the purpose of updating your contact information, your "site information", your password, and your communication preferences: 
 
-  1. your first name, last name, Individual’s street address, city, postal code, province and country; 
+  1. your first name, last name, Individual's street address, city, postal code, province and country; 
   2. your time zone; your avatar; and your PlayStation Network ID and XBOX Live Gamertag (in order for you to make or accept game challenges, and for us to track your game results; 
-  3. in response to our “About you” query, a sentence about the Individual for the purpose of the Individual’s profile; 
+  3. in response to our "About you" query, a sentence about the Individual for the purpose of the Individual's profile; 
   4. your old and new password; and 
   5. your communication preferences. 
 
@@ -101,15 +103,15 @@ We collect Personal Information as follows:
 
 The Site also provide you with certain ways to voluntarily give us your Personal Information, as follows: 
 
-  1. from social network sites (“SNS”), where you decide to create an account by logging into a SNS via the Site, certain Personal Information which you have provided the SNS (for example, the name, email address and other Personal Information which the Individual has made publicly available via the SNS, in each case depending on the privacy settings of the Individual on the SNS), for the purpose of completing the opening of the account. For example, see below for details for when you join by Facebook;
+  1. from social network sites ("SNS"), where you decide to create an account by logging into a SNS via the Site, certain Personal Information which you have provided the SNS (for example, the name, email address and other Personal Information which the Individual has made publicly available via the SNS, in each case depending on the privacy settings of the Individual on the SNS), for the purpose of completing the opening of the account. For example, see below for details for when you join by Facebook;
   2. from you, through your interaction with the Site (for example, information about which games were played, player rating information and player game statistics); 
   3. from you, through your completion of contest forms or other participation in promotional efforts, for the purpose of such contests and promotions, including for the purpose of awarding prizes;
-  4. from you, through your completion of surveys, for the purpose of gathering your opinions and comments in regard to Virgin Gaming’s products and services;
+  4. from you, through your completion of surveys, for the purpose of gathering your opinions and comments in regard to Virgin Gaming's products and services;
   5. from you, through using links contained on the Site to send Virgin Gaming an email message which contains such information, for the purpose identified at the point of collection on the Site;
   6. from you, to the extent that you post content with such Personal Information to chat windows, user fora or similar fora on the Site, for the purpose of each such forum; and
   7. from you, to the extent that you provide Personal Information when you contact Virgin Gaming's Customer Care representatives via live chat or email.
   8. from you, through you voluntarily disclosing information about yourself when you use the "Invite Your Friends / Tell-A-Friend" feature, for the purpose of inviting others to create Basic Accounts or Real Money Accounts;
-  9. about other individuals who are identified as your “friends”, in the form of the names and e-mail addresses of your friends when you use the "Invite Your Friends / Tell-A-Friend" feature on the Site, for the purpose of inviting others to create Basic Accounts or Real Money Accounts; 
+  9. about other individuals who are identified as your "friends", in the form of the names and e-mail addresses of your friends when you use the "Invite Your Friends / Tell-A-Friend" feature on the Site, for the purpose of inviting others to create Basic Accounts or Real Money Accounts; 
 
 
 
@@ -131,11 +133,11 @@ As with many major websites, the Site use cookies. Cookies are used by the Site 
 
 #### C. Personal Information about Children
 
-Our Site is intended for a general audience and we do not knowingly (a) allow people under 18 years of age to create accounts on the Site and (b) collect Personal Information from people under 18 years of age through our Site. In addition, in the event that a visitor to our Site identifies himself or herself as a person under the age of 18, we will not collect, store or use any Personal Information of such individual. In the event that we receive Personal Information that we discover was provided by a person under the age of 18, we will promptly delete all such Personal Information not required for purpose of continuing to block such person’s use of the Site, and will comply with applicable laws, including, as applicable, the U.S. Children's Online Privacy Protection Act. 
+Our Site is intended for a general audience and we do not knowingly (a) allow people under 18 years of age to create accounts on the Site and (b) collect Personal Information from people under 18 years of age through our Site. In addition, in the event that a visitor to our Site identifies himself or herself as a person under the age of 18, we will not collect, store or use any Personal Information of such individual. In the event that we receive Personal Information that we discover was provided by a person under the age of 18, we will promptly delete all such Personal Information not required for purpose of continuing to block such person's use of the Site, and will comply with applicable laws, including, as applicable, the U.S. Children's Online Privacy Protection Act. 
 
 #### D. Limits to Collecting Personal Information
 
-We limit the type of mandatory information collected by us. We collect only the Personal Information that is required for the purposes described in the following paragraphs under the heading "Use and Disclosure of Personal Information" below (the “Purposes”). 
+We limit the type of mandatory information collected by us. We collect only the Personal Information that is required for the purposes described in the following paragraphs under the heading "Use and Disclosure of Personal Information" below (the "Purposes"). 
 
 ### 3\. USE AND DISCLOSURE OF PERSONAL INFORMATION
 
@@ -163,7 +165,7 @@ When you create your account and when we collect your Personal Information, you 
 
 #### B. Related Entities and Authorized Third-Party Service Providers
 
-In addition to sharing information between entities comprising the Virgin Gaming group for the Purposes, and in order to better serve our customers, we may transfer Personal Information to third-party service providers who are legally or contractually obligated to only use the information to help us provide our Services and not for any other purpose. For example, Virgin Gaming uses outside contractors for the purposes of (i) performing support functions, such as payment processing, business analytics, customer support, printing and mailing, data storage and destruction, and (ii) marketing any of Virgin Gaming’s products and services. 
+In addition to sharing information between entities comprising the Virgin Gaming group for the Purposes, and in order to better serve our customers, we may transfer Personal Information to third-party service providers who are legally or contractually obligated to only use the information to help us provide our Services and not for any other purpose. For example, Virgin Gaming uses outside contractors for the purposes of (i) performing support functions, such as payment processing, business analytics, customer support, printing and mailing, data storage and destruction, and (ii) marketing any of Virgin Gaming's products and services. 
 
 From time to time such Virgin Gaming group entities and third parties may hold, use or disclose your Personal Information outside of Canada, and while outside of Canada such Personal Information may be accessed by regulatory authorities pursuant to the laws of such other jurisdictions. 
 
@@ -187,7 +189,7 @@ If Virgin Gaming sells all or part of its business or makes a sale or transfer o
 
 ### 4\. OBTAINING CONSENT
 
-In most cases, when we do collect Personal Information directly from an individual, the Purposes for which the individual provides us with the information – for example, as required for us to effectively provide our Services – will be clear, and as such, consent to the collection and use of Personal Information for those Purposes will be implied by use of the Services. If we choose to use Personal Information already in our possession for a purpose that was not identified at the time we initially collected the information, we will seek the consent of the affected individuals before using this information for the new purpose. Please note that if the new purpose is required or permitted by law, Virgin Gaming is not required to seek the consent of the affected individuals and may not do so. Individuals may withdraw consent to the collection, use and disclosure of their Personal Information at any time, subject to certain restrictions set out in applicable privacy legislation, but should recognize that by doing so they may be unable to utilize the Services and products offered on the Site. When a member uses the "Invite Your Friends / Tell-A-Friend" feature, we rely on that individual to obtain the consent of their friend to allow us to use that information to invite them to create a user account. 
+In most cases, when we do collect Personal Information directly from an individual, the Purposes for which the individual provides us with the information - for example, as required for us to effectively provide our Services - will be clear, and as such, consent to the collection and use of Personal Information for those Purposes will be implied by use of the Services. If we choose to use Personal Information already in our possession for a purpose that was not identified at the time we initially collected the information, we will seek the consent of the affected individuals before using this information for the new purpose. Please note that if the new purpose is required or permitted by law, Virgin Gaming is not required to seek the consent of the affected individuals and may not do so. Individuals may withdraw consent to the collection, use and disclosure of their Personal Information at any time, subject to certain restrictions set out in applicable privacy legislation, but should recognize that by doing so they may be unable to utilize the Services and products offered on the Site. When a member uses the "Invite Your Friends / Tell-A-Friend" feature, we rely on that individual to obtain the consent of their friend to allow us to use that information to invite them to create a user account. 
 
 ### 5\. MANAGEMENT OF PERSONAL INFORMATION
 
