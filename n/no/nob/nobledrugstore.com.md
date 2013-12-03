@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobledrugstore.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527194016id_/http%3A//www.nobledrugstore.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobledrugstore.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203194206id_/http%3A//www.nobledrugstore.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy and Security Policy – Nobledrugstore.com
 
@@ -12,6 +12,12 @@ We have strict policies and procedures in place to safeguard the privacy and sec
 
 The personal information we collect from you and about you is used to provide you with discount prescription medicines. This information varies depending upon whether you are a client or a prospective client. Examples of personal information we may collect from you or about you include: your name, address, telephone number, medical information and credit card information.  
 The information may be obtained from a telephone conversation, application, prescription form or from other sources, such as medical forms or reports. We maintain personal information regarding your transactions with Noble Drug Store and we may request additional information in order to provide you with our products.
+
+**Display Advertising Policy**
+
+To improve customer satisfaction, we have implemented Google Analytics Demographics and Interest Reporting to understand our user preferences. Through this we will only track the visitors demographic information such as age, gender and interests with Google Analytics.
+
+Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads)
 
 **Safeguarding Your Medical Information**
 
