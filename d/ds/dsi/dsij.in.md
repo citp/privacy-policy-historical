@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsij.in privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509080911id_/http%3A//www.dsij.in/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsij.in privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203214551id_/http%3A//www.dsij.in/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Dalal Street Investment Journal Privacy Policy
 
