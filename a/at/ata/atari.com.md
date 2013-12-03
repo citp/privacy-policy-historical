@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atari.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621184649id_/http%3A//atari.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atari.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203033838id_/http%3A//www.atari.com/privacy-policy) for the most accurate reproduction.*
 
 # Atari - Privacy Policy
 
@@ -6,7 +6,7 @@ Last updated October 9, 2012
 
  **OUR PRIVACY COMMITMENT**
 
-[](http://www.esrb.org/privacy/sites.jsp#A)
+[](http://www.esrb.org/confirm/atari-confirmation.jsp)
 
 Atari, Inc., and its subsidiaries and affiliates (collectively, "Atari" or “We”) respect the privacy rights of our online visitors and recognize the importance of protecting all information that you may choose to share with us. To further this commitment, We have adopted this Online Privacy Policy ("Privacy Policy") to guide how We collect, store, and use the information you provide us.
 
