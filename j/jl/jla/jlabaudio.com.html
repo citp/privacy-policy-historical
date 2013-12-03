@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jlabaudio.com privacy policy that was archived on 2013-02-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130228215114id_/http%3A//www.jlabaudio.com/index/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jlabaudio.com privacy policy that was archived on 2013-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131203092644id_/http%3A//www.jlabaudio.com/index/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="https://www.w3.org/1999/xhtml"><head>
 	<!-- Urchin -->
@@ -18,8 +18,25 @@
 					} catch(err) {}
 			</script> 
 		 		
-
-	
+	<!--  AdRoll -->
+			<script type="text/javascript">
+			adroll_adv_id = "LHGAV4SKINC4ZDVT7B74BK";
+			adroll_pix_id = "IJNN5P7QIVGJXJ5A2IKNRU";
+			(function () {
+			var oldonload = window.onload;
+			window.onload = function(){
+			   __adroll_loaded=true;
+			   var scr = document.createElement("script");
+			   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+			   scr.setAttribute('async', 'true');
+			   scr.type = "text/javascript";
+			   scr.src = host + "/j/roundtrip.js";
+			   ((document.getElementsByTagName('head') || [null])[0] ||
+			    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+			   if(oldonload){oldonload()}};
+			}());
+		</script>
+ 		
 	<!-- Header Tags --> 
 			
 		<meta http-equiv="Content-Type" content="text/html; charset='CHARSET'">
@@ -40,14 +57,15 @@
 	<!-- CSS -->
 		<link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
 		<link href="/css/prettyPhoto.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/css/styles.css" media="screen" rel="stylesheet" type="text/css">		<style type="text/css">	
+<link href="/css/styles.css" media="screen" rel="stylesheet" type="text/css">			<style type="text/css">	
 		td.null{}
 		
 		body{
-			font: .85em 'Hev', Arial, sans-serif;
+			font: .8em 'Hev', Arial, sans-serif;
 			padding: 0px;
 			margin:0px;
-			color:#666666;
+			color:#555559;
+			background: #f7f5f5;
 		}
 		/* FONTS */	
 		@font-face {
@@ -61,9 +79,9 @@
 		    font-style: normal;
 		}
 		
-		a{color:#666666;}
+		a{color:#555559;}
 		input{
-			color:#666666;
+			color:#555559;
 			font: 1em 'Hev', Arial, sans-serif;
 		}
 		
@@ -77,14 +95,16 @@
 			padding: 0;
 			font-weight: normal;
 		}
-		h1 {font-weight: normal;
-			font-size: 2.8em;
-			line-height:1;}
+		h1 {font-weight: 700;
+			font-size: 1.8em;
+			margin-top: 5px;
+			margin-bottom: 10px;
+			padding: 0px;
+			}
 		h2 {font-size:1.4em;}
 		h3 {font-size:1.3em;margin-top:10px;}
 		.heading{
 			font-size: 1.3em;
-			text-transform:uppercase;
 		}
 	
 		
@@ -92,48 +112,409 @@
 			font-size:.95em;
 		}
 		
+		.understrike{
+			border-bottom: 1px solid #01AAED;
+		}
+		
 		/* Dynamic color settings */
-		highlight, a:hover, a.menu:hover, a.sub_menu:hover, .support:hover, .curved_border:hover, .blue_border, #nav a:hover{
+		.highlight, a:hover, a.menu:hover, a.sub_menu:hover, .support:hover, .curved_border:hover, .blue_border, #nav a:hover{
 			color: #01AAED;
 		}
 		
-		
-		
-		
-		
-		
+		#nav li:hover ul li a:hover{ 
+			background-color: #01AAED;; 
+		}
+
+		.background_highlight{
+			background-color: #01AAED;
+		}
+		.background_gray{
+			background-color: #f7f5f5;
+		}
 		.button{
 			text-align:center;
 			color: #FFFFFF;
-			font-size: 1.1em;
-			padding: 5px 30px 5px 30px;
-			font-weight: 600;
-			-moz-border-radius: 2px;
-			border-radius: 2px;
-			background: #09b0ef; /* Old browsers */
-			background: -moz-linear-gradient(top, #09b0ef 0%, #078edd 100%); /* FF3.6+ */
-			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#09b0ef), color-stop(100%,#078edd)); /* Chrome,Safari4+ */
-			background: -webkit-linear-gradient(top,  #09b0ef 0%,#078edd 100%); /* Chrome10+,Safari5.1+ */
-			background: -o-linear-gradient(top, #09b0ef 0%,#078edd 100%); /* Opera 11.10+ */
-			background: -ms-linear-gradient(top,#09b0ef 0%,#078edd 100%); /* IE10+ */
-			background: linear-gradient(top,#09b0ef 0%,#078edd 100%); /* W3C */
-			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#09b0ef', endColorstr='#09b0ef',GradientType=0 ); /* IE6-9 */
-			border: 1px solid #09b0ef; /* Needed for Div Buttons */
+			font-size: 1em;
+			padding: 4px 14px 4px 14px;
+			font-weight: 500;
+			border: 0px;
+			background: #01AAED;
 			cursor: pointer;
+			margin: 0px;
+			height: 30px;
+		}	
+		.button_slant_left{
+			border-bottom: 30px solid #01AAED; 
+			border-left: 30px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
 		}
-		.button:hover{
-			color: #FFF;
-			background: #078edd; /* Old browsers */
-			background: -moz-linear-gradient(top,  #078edd 0%, #09b0ef 100%); /* FF3.6+ */
-			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#078edd), color-stop(100%,#09b0ef)); /* Chrome,Safari4+ */
-			background: -webkit-linear-gradient(top,  #078edd 0%,#09b0ef 100%); /* Chrome10+,Safari5.1+ */
-			background: -o-linear-gradient(top,  #078edd 0%,#09b0ef 100%); /* Opera 11.10+ */
-			background: -ms-linear-gradient(top,  #078edd 0%,#09b0ef 100%); /* IE10+ */
-			background: linear-gradient(top,  #078edd 0%,#09b0ef 100%); /* W3C */
-			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#078edd', endColorstr='#09b0ef',GradientType=0 ); /* IE6-9 */
-			border: 1px solid #078edd; /* Needed for Div Buttons */
+		.button_slant_right{
+			border-top: 30px solid #01AAED; 
+			border-right: 30px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+		}
+	
+		#icon_slant{
+			cursor:pointer;
+  			display: block;  
+			border-right: 45px solid transparent;  
+			border-top: 45px solid #01AAED;  
+			height: 0px;
+			width: 30px;
+			padding-left:5px;
+			
+			z-index: 9999;
+			position: absolute;
+		}
+		#logo_slant{
+			cursor:pointer;
+	  		display: block;   
+			border-left: 45px solid transparent;  
+			border-bottom: 45px solid #01AAED;
+			height: 0px;
+			width: 125px;
+			z-index: 10;
+		
+		}
+		#footer_slant{
+			cursor:pointer;
+	  		display: block;   
+			border-left: 35px solid transparent;  
+			border-bottom: 35px solid #01AAED;
+			height: 0px;
+			width: 100px;
+			z-index: 999;
+			
 		}
 		
+		#search_box{
+			margin-right:160px;
+			margin-top:-3px;
+		}
+		#search_input{
+			margin:0px;
+			width:120px;
+			background:#B8B3AD;
+		}
+		
+		.search_slant_left{
+			border-bottom: 22px solid #B8B3AD;
+			border-left: 22px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+			float: left;
+		}
+		.search_slant_right{
+			border-top: 22px solid #B8B3AD;
+			border-right: 22px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+			float: left;
+			z-index: 99;
+		}
+		
+		#subscribe_box{
+			padding-top:7px;
+			margin-right:-22px;
+		}
+		.subscribe_slant_left{
+			border-bottom: 20px solid #fff;
+			border-left: 20px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+			float: left;
+		}
+		.subscribe_slant_right{
+			border-top: 25px solid #B8B3AD;
+			border-right: 25px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+			float: left;
+			z-index: 99;
+			margin-top: -2px;
+		}
+		.menu_slant_left{
+			border-bottom: 45px solid #f7f5f5;
+			border-left: 45px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+			float: left;
+			z-index: 99;
+		
+		}
+		.menu_slant_right{
+			border-top: 45px solid #f7f5f5;
+			border-right: 45px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+			float: left;
+			z-index: 99;
+		}
+
+		.small_slant_center{
+			height: 18px;
+			background: #B8B3AD;
+			float: left;
+			color: white;
+			line-height: 2;
+			font-size: .7em;
+			text-transform: uppercase;
+			cursor:pointer;
+			padding-left:3px;
+			padding-right:3px;
+		}
+		.small_slant_center a{
+			color: #ffffff;
+		}
+		.small_slant_left{
+			border-bottom: 18px solid #B8B3AD;
+			border-left: 18px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+			float: left;
+			margin-left: -16px;
+		}
+		.small_slant_right{
+			border-top: 18px solid #B8B3AD;
+			border-right: 18px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+			float: left;
+		}
+		
+		
+		/* Slant Menu */
+		#menu_info_bar{
+			margin-top: 5px;
+			padding-top:0px;
+			z-index:1;
+		}
+		.menu_info_slant_left{
+    		width:0px;
+			border-bottom:24px solid #555559;
+			border-left: 24px solid transparent;
+			float:left;
+			color: #FFFFFF;
+			margin-top:-5px;
+			margin-left:-18px;
+    	}
+    	.menu_info{
+    		padding-left: 5px;
+    		padding-right: 5px;
+    		background: #555559;
+    		height: 24px;
+    		float:left;
+    		color: #FFFFFF;
+    		margin-top:-5px;
+    		line-height: 2;
+    		font-weight: normal;
+    		text-align:center;
+    		cursor: pointer;
+    	}
+    	.menu_info_slant_right{
+    		width:0px;
+			border-top:24px solid #555559;
+			border-right: 24px solid transparent;
+			float:left;
+			color: #FFFFFF;
+			margin-top:-5px;
+    	}
+    	.menu_info_highlight_slant_left{
+    		width:0px;
+			border-bottom:24px solid #01AAED;
+			border-left: 24px solid transparent;
+			float:left;
+			color: #FFFFFF;
+			margin-top:-5px;
+			margin-left:-18px;
+    	}
+    	.menu_info_highlight{
+    		padding-left: 5px;
+    		padding-right: 5px;
+    		background: #01AAED;
+    		height: 24px;
+    		float:left;
+    		color: #FFFFFF;
+    		margin-top:-5px;
+    		line-height: 2;
+    		font-weight: normal;
+    		text-align:center;
+    		cursor: pointer;
+    	}
+    	.menu_info_highlight_slant_right{
+    		  width:0px;
+			border-top:24px solid #01AAED;
+			border-right: 24px solid transparent;
+			float:left;
+			color: #FFFFFF;
+			margin-top:-5px;
+    	}
+    	
+    	.blog_date{
+    		height: 26px;
+    		color: #ffffff;
+    		font-size: 1.1em;
+    		font-weight: bold;
+    		background: #01AAED;
+    		line-height: 1.8;
+    		padding:left:20px;
+    		width: 48px;
+    		text-align:right;
+    	}
+    	.blog_date_corner_top{
+    		border-top:13px solid transparent;
+			border-left: 13px solid #01AAED;
+    	}
+		.blog_date_corner_bottom{
+			border-bottom: 13px solid transparent;
+			border-left: 13px solid #01AAED;
+		}
+		.selected{
+			background-color: #01AAED;
+		}
+		.selected_left{
+			border-bottom: 18px solid #01AAED;
+		}
+		.selected_right{
+			border-top: 18px solid #01AAED;
+		}
+		
+		/* Dropdown */
+		.dd_slant_right{
+    		width:0px;
+			border-top:26px solid #B8B3AD;
+			border-right: 26px solid transparent
+    	}
+
+		
+		/* Footer */
+		.footer_slant_left{
+			border-bottom: 35px solid #f7f5f5;
+			border-left: 35px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+			float: left;
+		
+		}
+		.footer_slant_right{
+			border-top: 35px solid #f7f5f5;
+			border-right: 35px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+			float: left;
+			z-index: -1;
+		}
+		
+	
+		.sale{
+			background-color: #01AAED; 
+			color: #FFF;
+			width:50px;
+			height: 50px;
+		}
+		.sale_slant_left{
+			border-bottom: 40px solid #01AAED; 
+			border-left: 40px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+			float: left;
+			z-index: 2;
+			position: absolute;
+		
+		}
+		.sale_slant_right{
+			border-top: 40px solid #01AAED; 
+			border-right: 40px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+			float: left;
+			z-index: 2;
+			position: absolute;
+		}
+		
+		/* Category Grid */
+		.grid{
+			background-color: #555559;
+			color: #FFF;
+			height: 24px;
+			line-height: 2;
+			padding-right: 5px;
+			padding-left: 5px;
+			text-transform:uppercase;
+			overflow: hidden;
+			font-size: .9em;
+			float: right;
+		}
+		.grid_slant_left{
+			border-bottom: 24px solid #555559; 
+			border-left: 24px solid transparent;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+			float: right;
+		}
+		
+		/* Press Page */
+		.article{
+			height: 230px;
+			width: 230px;
+			margin-right: 10px;
+			margin-bottom: 10px;
+			background: #ffffff;
+			cursor: pointer;
+		}
+		.article_date{
+			background-color: #555559;
+			color: #FFF;
+			height: 24px;
+			line-height: 2.25;
+			padding-right: 8px;
+			padding-left: 5px;
+			text-transform:uppercase;
+			overflow: hidden;
+			font-size: .85em;
+			margin-top:206px;
+	
+			
+		}
+		.article_date_slant{
+			border-bottom: 24px solid #555559; 
+			border-left: 24px solid transparent;
+			width: 0px;
+			height: 0px;
+			z-index: 2;
+	
+			margin-top:206px;
+			float:right;
+		}
+		
+		.fb_post img{
+			display: none;
+			width: 0px;
+			height: 0px;
+			margin: 0px;
+			padding: 0px;
+		}
+		.fb_post a{
+			color: #01AAED;
+		}
+
 	</style>
 	
 	
@@ -149,10 +530,9 @@
 	
 	<!-- Colorbox -->
 	<script type="text/javascript" src="/js/prettyPhoto.js"></script>
-	
+		
 	<!-- js Functions -->
 	<script type="text/javascript">
-
 
 		function clearOnFocus(){
 			$(".clear_on_focus").focus(function(){
@@ -196,21 +576,32 @@
 	<!-- js Loader -->
 	<script type="text/javascript">
 		$(document).ready(function() {
-			
-			$('.button').hover($(this).toggleClass('hover'));
 
 			// Load Clear On Focus Code
 			clearOnFocus();
 
 			// Pretty Photo
 			 $("a[rel^='prettyPhoto']").prettyPhoto();
+
+			 // Slant Menu Highlight
+			 $('.last_menu').hover(
+				function() {
+					$('.last_menu_slant').css('border-top','26px solid #01AAED');
+				},
+				function() {
+					$('.last_menu_slant').css('border-top','26px solid #B8B3AD');
+				}
+			 );
+			 $('.second_to_last_menu').hover(
+				function(){
+					$('.second_to_last_menu_slant').css('border-top','26px solid #01AAED');
+				},
+				function(){
+					$('.second_to_last_menu_slant').css('border-top','26px solid #B8B3AD');
+				}
+			 );
 		});
 	</script>
-	
-	<!--  ShareThis -->
-	<script type="text/javascript">var switchTo5x=true;</script>
-	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-	<script type="text/javascript">stLight.options({publisher: "ur-e9826373-299e-35ae-c83a-d7e04004dccb"});</script>
 	
 	<!-- E-Mail Obfuscation -->
 	<script type="text/javascript">
@@ -225,172 +616,202 @@
 	<!-- Video Streaming -->
 	<link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
 	<script src="http://vjs.zencdn.net/c/video.js"></script>
-
+	
+	
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-<body><input type="hidden" id="current_sub_menu" name="current_sub_menu" value="">
-
 <!-- Body -->
-
+<body>
 	
 	<div id="container_master">	
 		
 			<div id="container_top"><!-- Top Container A -->
 				
-				<!-- Logo -->
-								<div class="left" onclick="window.location='http://www.jlabaudio.com'" style="cursor:pointer;margin-top:35px;">
-					<img src="/logo.png">
-				</div>
-				
-				<div class="right" style="margin-top:32px;">
-							<style type="text/css">
-					.social_media{
-						margin-top:5px;
-						margin-right:10px;
-						float:left;
-					}
-					.st_sharethis{
-						margin-top:6px;
-						float:left;
-						/*
-						border:1px solid #c1bebe;
-						color: #c1bebe;
-						background: #f1f1f1;
-						border-radius:3px;
-						padding-left: -5px;
-						padding-right: -2px;
-						padding-top:2px;
-						padding-bottom:2px;
-						*/
-					}
-				</style>
-				
-									<a href="http://www.twitter.com/jlabaudio" class="social_media"><img src="/images/icons/social_media/twitter.png" alt="twitter"></a>
-									<a href="http://pinterest.com/jlabaudio" class="social_media"><img src="/images/icons/social_media/pinterest.png" alt="pinterest"></a>
+				<!-- Share Bar & Cart -->
+				<div style="height:55px;background: #f7f5f5;padding-top:5px;">
+					<div class="right">
+									<div class="right" style="font-size:.85em;">
+				<span class="">0 ITEMS</span> &nbsp;|&nbsp;  <span class="">$0.00</span> &nbsp;|&nbsp; <a href="/cart/index">MY CART</a> &nbsp;|&nbsp; <a href="/cart/checkout">CHECKOUT</a>
+			</div>
+			<div class="clear"></div>
+								<div style="height:5px;"></div>
+											<a href="#"><img src="/images/icons/social_media/share.png" alt="shareThis" class="social_media"></a>
 									<a href="https://plus.google.com/u/0/b/114880034772428814793/114880034772428814793/posts" class="social_media"><img src="/images/icons/social_media/google_plus.png" alt="google_plus"></a>
-									<a href="https://www.facebook.com/jlabaudio"><img src="/images/icons/social_media/facebook.png" alt="facebook" class="social_media" style="margin-right:5px;"></a>
-								<span class="st_sharethis" displaytext="Share">&nbsp;</span>
-						</div>
+									<a href="http://pinterest.com/jlabaudio" class="social_media"><img src="/images/icons/social_media/pinterest.png" alt="pinterest"></a>
+									<a href="http://www.twitter.com/jlabaudio" class="social_media"><img src="/images/icons/social_media/twitter.png" alt="twitter"></a>
+									<a href="https://www.facebook.com/jlabaudio"><img src="/images/icons/social_media/facebook.png" alt="facebook" class="social_media"></a>
+				  
+					</div>
+				</div>
+				<div class="clear"></div>
 				
 				<!-- Main Menu -->
-				<div id="main_menu">
-										
-					<div class="left" style="margin-right:20px;padding-bottom:8px;margin-top:0px;margin-left:8px;">
-						<div id="jcon" onclick="window.location='http://www.jlabaudio.com'"></div>
-					</div>
-					<!--  <div style='border-left:1px solid #01aaed;height:43px;width:5px;' class='left'></div>  -->
-						
+				<div id="main_menu">	
+				
+					<!--  Icon -->
+					<div id="icon_slant" class="left" onclick="window.location='http://www.jlabaudio.com'" style="z-index:99;">
+						<img src="/icon.png" class="left" style="display:block;height:35px;width:35px;margin-top:-41px;margin-left:0px;">	
+					</div>	
 					
+					<!--  Slanted Spacer -->
+					<div style="float:left;margin-left:-3px;margin-top:0px;">
+						<div class="menu_slant_left"></div>
+						<div class="menu_slant_right"></div>
+					</div>
+					
+					<!--  Dropdown Menu -->
 					<ul id="nav">
 
-					
-						<!--  Shop -->
+						<!--  Shop --> 
 						<li>
-							<a href="/category/all" style="" id="menu_products" alt="products">Shop</a>
-							<ul>
-								<li><a href="/Products/Bluetooth">Bluetooth</a></li><li><a href="/Products/Earphones">Earphones</a></li><li><a href="/Products/Earphones-with-Mic">Earphones with Mic</a></li><li><a href="/Products/Mobile-Headsets">Mobile Headsets</a></li><li><a href="/Products/Headphones">Headphones</a></li><li><a href="/Products/Waterproof-MP3-Player-Headphones">Waterproof MP3 Player Headphones</a></li><li><a href="/Products/Speakers">Speakers</a></li><li><a href="/Products/TV-Mounts">TV Mounts</a></li><li><a href="/Products/Cases">Cases</a></li><li><a href="/Products/Tablet-Accessories">Tablet Accessories</a></li><li><a href="/Products/Accessories">Accessories</a></li>							</ul>
+							<a href="/category/all" class="menu_trigger" alt="shop">Shop</a>
+							<ul style="margin-left:-45px;">
+								<li><a href="/Products/Bluetooth">Bluetooth</a></li><li><a href="/Products/Earbuds">Earbuds</a></li><li><a href="/Products/Earbuds-with-Mic">Earbuds with Mic</a></li><li><a href="/Products/Mobile-Headsets">Mobile Headsets</a></li><li><a href="/Products/Waterproof-MP3-Headphones">Waterproof MP3 Headphones</a></li><li><a href="/Products/Speakers">Speakers</a></li><li><a href="/Products/TV-Mounts">TV Mounts</a></li><li><a href="/Products/Headphones">Headphones</a></li><li><a href="/Products/Cases">Cases</a></li><div class="dd_slant_right right second_to_last_menu_slant"></div><li style="width:175px;" class="second_to_last_menu"><a href="/Products/Tablet-Accessories">Tablet Accessories</a></li><div class="dd_slant_right right last_menu_slant" style="margin-right:26px;"></div><li style="width:149px;" class="last_menu"><a href="/Products/Accessories">Accessories</a></li>							</ul>
 						</li>
 						
 						<!--  Connect -->
 						<li>
-													<a href="/index/blog" style="" id="menu_blog">Connect</a>
+							<a href="/index/blog" style="" id="menu_blog">Connect</a>
 							<ul>
 																<li><a href="/index/blog" style="" id="menu_blog">Social</a></li>
-																<li><a href="/index/contact" style="">Contact</a></li>
-								<li><a href="/index/company" style="" alt="company">Company</a></li>
+																<div class="dd_slant_right right  second_to_last_menu_slant"></div>
+								<li class="second_to_last_menu" style="width:175px;"><a href="/index/contact" style="">Contact</a></li>
+								<div class="dd_slant_right right last_menu_slant" style="margin-right:26px;"></div>
+								<li class="last_menu" style="width:149px;"><a href="/index/about" style="" alt="company">Company</a></li>
 							</ul>
-												</li>
+						</li>
 						
 												<!--  Add Your Logo -->
 						<li>
-							<a href="/index/custom" style="">Add Your Logo</a>
+							<a href="/index/custom" class="menu_trigger">Customize</a>
 						</li>
 												
 						<!--  Support -->
 						<li>
-														<a href="/support/" style="">Support</a>	
-							<ul>
-								<li><a href="/support/register">Register Product</a></li>
-								<li><a href="/support/troubleshoot">Troubleshoot</a></li>
-								<li><a href="/support/file-claim">File A Claim</a></li>
-								<li><a href="/support/manuals">Manuals</a></li>
-								<li><a href="/index/burn-in">Burn In</a>
-							</li></ul>
+															<a href="/support/" style="">Support</a>	
+								<ul>
+									<li><a href="/support/register">Register Product</a></li>
+									<li><a href="/support/troubleshoot">Troubleshoot</a></li>
+									<li><a href="/support/file-claim">File A Claim</a></li>
+									<div class="dd_slant_right right second_to_last_menu_slant"></div>
+									<li style="width:175px;" class="second_to_last_menu">
+										<a href="/support/manuals">Manuals</a>
+									</li>
+									<div class="dd_slant_right right last_menu_slant" style="margin-right:26px;"></div>
+									<li class="last_menu" style="width:149px;"><a href="/index/burn-in">Burn In</a></li>
+								</ul>
 													</li>
-						
+				
 						<!--  Account -->
 						<li>
-							<a href="/account" style="" alt="account">Account</a>
-							<ul>
-								<li><a href="/account/manage-addresses">Manage Address</a></li>
-								<li><a href="/account/change-password">Change Password</a></li>
-								<li><a href="/account/order-history">Order History</a></li>
-								<li><a href="/account/registrations">Registrations</a></li>	
-								<li><a href="/account/warranty-claims">Warranty Claims</a></li>	
-							</ul>
-						</li>
-						
-						<!--  Cart -->
-						<li>
-							<a href="/cart" style="">Cart</a>	
-						</li>
-						
-						<!--  Sign In / Sign Out-->
-						<li>
-															<a href="/account/login" style="margin-right:10px;">Sign In</a>
+															<a href="/account/login" class="margin-right:10px;">Sign In</a>
 													</li>
 						
 						
-												<!--  Search -->
-						<form action="/index/search" method="POST" class="right" style="padding:0px;margin:0px;height:100%;">
-						<input class="left clear_on_focus" id="search_input" type="text" name="search" value="Search" title="Search" style="margin-right:10px;margin-top:-2px;width:175px;">
+												
+							<!--  Search -->
+							<div class="right" id="search_box">
+								<form action="/index/search" method="POST" style="padding:0px;margin:0px;height:100%;">
+								<input class="clear_on_focus left" id="search_input" type="text" name="search" value="Search" title="Search">
+								<div class="search_slant_right"></div>
+								<div class="clear"></div>
+								</form>
+							</div>
 							<div class="clear"></div>
-						</form>
+							
+												
+						<!--  Slanted Spacer -->
+						<div style="float:right;margin-top:-45px;margin-right:87px">
+							<div class="menu_slant_left"></div>
+							<div class="menu_slant_right"></div>
+							<div class="clear"></div>
+						</div>
+						<div class="clear"></div>
 						
+						<!--  Logo -->
+						<div id="logo_slant" class="right" onclick="window.location='http://www.jlabaudio.com'" style="margin-top:-45px;">
+							<img src="/logo_white.png" class="left" style="display:block;margin-top:15px;margin-left:-10px;">
+						</div>
 					</ul>
 				</div>
-				
+						
 			</div><!-- Top Container ½ -->	
+			
+
 
 			<div class="clear"></div>
-
-			<div style="height:112px;"></div>
+			
+			<div style="height:105px;"></div>
+			
+			<div class="clear"></div>
+			
 	
-		<!--  AdRoll -->
-				<script type="text/javascript">
-			adroll_adv_id = "LHGAV4SKINC4ZDVT7B74BK";
-			adroll_pix_id = "IJNN5P7QIVGJXJ5A2IKNRU";
-			(function () {
-			var oldonload = window.onload;
-			window.onload = function(){
-			   __adroll_loaded=true;
-			   var scr = document.createElement("script");
-			   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-			   scr.setAttribute('async', 'true');
-			   scr.type = "text/javascript";
-			   scr.src = host + "/j/roundtrip.js";
-			   ((document.getElementsByTagName('head') || [null])[0] ||
-			    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-			   if(oldonload){oldonload()}};
-			}());
-		</script>
- 			
 		<!-- Content -->
-		<h3>Privacy Notice</h3>
-<br>
+		<h1>Company</h1>
+    	<script type="text/javascript">
+    		$(document).ready(function(){  
+
+    			$('#privacy.menu_info_slant_left').removeClass('menu_info_highlight_slant_left').addClass('menu_info_highlight_slant_left');
+        		$('#privacy.menu_info').removeClass('menu_info').addClass('menu_info_highlight');
+        		$('#privacy.menu_info_slant_right').removeClass('menu_info_highlight_slant_right').addClass('menu_info_highlight_slant_right');
+
+				// Compatibility
+				$('.trigger').click(function(){
+
+					// Get Link
+					link = $(this).attr('link');
+					location.href= link;
+
+				});
+    		});
+    	</script>
+    	<style type="text/css">
+
+    	</style>
+    	<div style="border-bottom:1px solid #555559;z-index:999;">&nbsp;</div>
+		<div id="menu_info_bar">
+			
+			<div id="about" link="/index/about" class="menu_info trigger" style="padding-left:15px;">About Us</div> 
+			<div id="about" link="/index/about" class="menu_info_slant_right trigger"></div>
+			
+			<div id="terms" link="/index/terms" class="menu_info_slant_left trigger"></div>
+			<div id="terms" link="/index/terms" class="menu_info trigger">Terms and Conditions</div>
+			<div id="terms" link="/index/terms" class="menu_info_slant_right trigger"></div>
+			
+			<div id="privacy" link="/index/privacy" class="menu_info_slant_left trigger menu_info_highlight_slant_left"></div>	
+			<div id="privacy" link="/index/privacy" class="trigger menu_info_highlight">Privacy Policy</div>
+			<div id="privacy" link="/index/privacy" class="menu_info_slant_right trigger menu_info_highlight_slant_right"></div>
+			
+			<div id="index" link="/press" class="menu_info_slant_left trigger"></div>	
+			<div id="index" link="/press" class="menu_info trigger">In the News</div>
+			<div id="index" link="/press" class="menu_info_slant_right triggerl"></div>
+			
+			<div id="list" link="/career/list" class="menu_info_slant_left trigger"></div>	
+			<div id="list" link="/career/list" class="menu_info trigger">Join the Team</div>
+			<div id="list" link="/career/list" class="menu_info_slant_right trigger"></div>
+			
+			<div id="sponsorship" link="/index/sponsorship" class="menu_info_slant_left trigger"></div>	
+			<div id="sponsorship" link="/index/sponsorship" class="menu_info trigger">Sponsorship</div>
+			<div id="sponsorship" link="/index/sponsorship" class="menu_info_slant_right trigger"></div>
+			
+			<div id="recycle-program" link="/index/recycle-program" class="menu_info_slant_left trigger"></div>	
+			<div id="recycle-program" link="/index/recycle-program" class="menu_info trigger">Recycle Program</div>
+			<div id="recycle-program" link="/index/recycle-program" class="menu_info_slant_right trigger"></div>
+			
+		</div>
+	<div class="clear"></div>
+<h1>Privacy Policy</h1>
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
 <br><br>
 The Information We Collect
 This notice applies to all information collected or submitted on this website. On some pages, you can order products, make requests. The types of personal information collected at these pages are:
 <br>
+<br><b class="highlight">Name</b>
+<br><b class="highlight">Address</b>
+<br><b class="highlight">E-Mail Address</b>
+<br><b class="highlight">Phone Number</b>
+<br><b class="highlight">Credit/Debit Card Information</b>
 <br>
-<div style="margin-left:20px;">
-	<li>Name</li>
-	<li>Address</li>
-	<li>E-Mail Address</li>
-	<li>Phone Number</li>
-	<li>Credit/Debit Card Information</li>
-</div>
 <br>
 We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
 We use return e-mail addresses to answer the e-mail we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
@@ -399,21 +820,105 @@ Finally, we never use or share the personally identifiable information provided 
 Our Commitment to Data Security
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 <br>
-<br>Thank you for taking the time to read our privacy policy. Our staff wishes you a great shopping experience. If you have questions please do not hesitate to contact us.		
+<br>Thank you for taking the time to read our privacy policy. Our staff wishes you a great shopping experience. If you have questions please do not hesitate to contact us.
+<br>
+<div class="clear" style="height:5px;"></div>
+
+    	<script type="text/javascript">
+			$(document).ready(function() {
+				$('.panel_hover').hover(function(){
+					  	// Animate
+						panel_id = $(this).attr('alt');
+						$('#panel_content_'+panel_id).animate({
+						    marginTop : '0px'
+						  }, 500, function() {
+			
+						  });
+					  },function(){
+						  
+						// Animation
+						$('#panel_content_'+panel_id).animate({
+							marginTop: '-350px'
+						}, 500, function() {
+							$(this).css('margin-top','350px');   
+						});
+						
+				});	
+				
+				$('.panel').hover(
+					function(){
+						$(this).css('opacity',1);
+    				},
+					function(){
+						$(this).css('opacity',.5);
+					}
+				);
+			});
+		</script>
+    	<div class="clear"></div>
+							
+							<div style="height:5px;border-top:1px solid #555559;margin-top:2px;margin-bottom:5px;"></div>
+							<div class="clear"></div>				<div class="info panel panel_hover" style="background-image:url('/images/panels/31.jpg');width:315px;height:315px;margin-bottom:7px;opacity:.5;" alt="31" onclick="location.href='http://www.amazon.com/JLAB-J6M-PNK-FOIL-Ergonomic-Headphones-Honeysuckle/dp/B00A71TW24/ref=sr_1_5?s=electronics&amp;ie=UTF8&amp;qid=1364838388&amp;sr=1-5&amp;keywords=j6m'">
+	
+		  				
+			  		<div class="panel_content" id="panel_content_31">
+			  			<a href="http://www.amazon.com/JLAB-J6M-PNK-FOIL-Ergonomic-Headphones-Honeysuckle/dp/B00A71TW24/ref=sr_1_5?s=electronics&amp;ie=UTF8&amp;qid=1364838388&amp;sr=1-5&amp;keywords=j6m">
+							<img src="/images/panels/31_hover.png">						</a>
+			  		</div>
+	  			</div>
+  							<div class="info panel panel_hover" style="background-image:url('/images/panels/30.jpg');width:315px;height:315px;margin-bottom:7px;margin-left:7px;margin-right:7px;opacity:.5;" alt="30" onclick="location.href='http://www.jlabaudio.com/Products/Bluetooth/Crasher/708'">
+	
+		  				
+			  		<div class="panel_content" id="panel_content_30">
+			  			<a href="http://www.jlabaudio.com/Products/Bluetooth/Crasher/708">
+							<img src="/images/panels/30_hover.png">						</a>
+			  		</div>
+	  			</div>
+  							<div class="info panel panel_hover" style="background-image:url('/images/panels/26.jpg');width:315px;height:315px;margin-bottom:7px;opacity:.5;" alt="26" onclick="location.href='http://www.jlabaudio.com/Products/Headphones/Intro/889'">
+	
+		  				
+			  		<div class="panel_content" id="panel_content_26">
+			  			<a href="http://www.jlabaudio.com/Products/Headphones/Intro/889">
+							<img src="/images/panels/26_hover.png">						</a>
+			  		</div>
+	  			</div>
+  					
 		<!-- Clear Floats -->
 		<div class="clear"></div>
-
+		<div style="height:0px;"></div>
+		
 	
-<div style="height:25px;"></div>
+		
+		
 		<!--  Subscribe Bar -->
 		<div id="subscribe_bar">
-			<span class="left" style="font-size:.95em;color:#FFFFFF;margin-top:5px;margin-left:7px;">
-				© JLab Audio 2013				<br><a href="/index/privacy" style="margin-left:15px;color:#FFFFFF;font-size:.8em;">Privacy Policy</a>
-			</span>
-					<form method="post" action="http://www.jlabaudio.com/index/subscribe" id="frmSS1" onsubmit="return CheckForm1(this);" style="float:right;">
-			<input style="width:175px;height:23px;padding:0px;padding-left:5px;font-size:1em;background: white;" type="text" name="subscribe_email" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Deal Signup':this.value;" value="Deal Signup">
-			<input type="hidden" name="format" value="h">
-			<input class="button" type="submit" value="SUBSCRIBE" style="font-size:.8em;height:25px;width:120px;padding-left:23px;margin-top:5px;margin-right:5px;">
+				<div class="left" style="font-size:1.5em;color:#FFFFFF;margin-top:6px;margin-left:7px;">
+					©
+				</div>
+				<div class="left" style="font-size:.95em;color:#FFFFFF;margin-top:11px;margin-left:5px;">
+					 2013 APOLLO BRANDS <a href="/index/privacy" style="margin-left:35px;color:#FFFFFF;font-size:.95em;">PRIVACY POLICY</a>
+					 <a href="/index/recycle-program" style="margin-left:35px;color:#FFFFFF;font-size:.95em;">RECYCLE YOUR EARBUDS</a>
+					<span style="margin-left:35px;">SIGN UP FOR GIVEAWAYS</span>
+				</div>
+						<form method="post" action="http://www.jlabaudio.com/index/subscribe" id="frmSS1" onsubmit="return CheckForm1(this);" style="float:right;">
+					
+			<div class="left" id="subscribe_box">	
+				<input class="left" style="border:0px;width:120px;height:25px;padding:0px;margin:0px;margin-top:-2px;background:#B8B3AD;text-align:center;" type="text" name="subscribe_email" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Email Address':this.value;" value="Email Address">
+				<div class="subscribe_slant_right"></div>
+				<div class="clear"></div>
+				<input type="hidden" name="format" value="h">
+			</div>
+		
+			<!--  Spacer -->
+			<div style="margin-top:0px;margin-right:-63px;display:block;" class="left">
+				<div class="footer_slant_left"></div>
+				<div class="footer_slant_right"></div>
+			</div>
+			
+			<div id="footer_slant" class="left">
+				<input style="color:#FFF;border:0px;padding-top:8px;" type="submit" value="HOOK IT UP">
+			</div>
+		
 		</form>
 			
 		<script type="text/javascript">
@@ -446,17 +951,17 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 				// ]]>
 		</script>
 	
-		
+	
 		</div>
-		<div style="height:50px;width:960px;background:#FFFFFF;position:absolute;z-index:2;">&nbsp;</div>
+		<div id="spacer_bar" style="height:50px;width:960px;background:#f7f5f5;position:absolute;z-index:2;">&nbsp;</div>
 		
 	</div><!-- Master Container ½ -->
 	
-<div style="height:50px;width:100%;">&nbsp;</div>
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-3.newrelic.com","f18a37b252","1102187","YVBSN0MDD0IDAEBfClgacQBFCw5fTQdRUARDWURMWAwFVBpMREQMQFRTGg==",0,89,new Date().getTime()]);</script>
+	<div style="height:50px;width:100%;">&nbsp;</div>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-2.newrelic.com","7d4def472b","2117394","bwNXMBFVCkBWAkNbCVZJdAcXXQtdGAVSVAdNCkFLCloAVk9OR0APTgdWHQ==",0,81,new Date().getTime()]);</script>
 
 <div class="clear"></div>
 
 		
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" async="" src="https://rpm-images.newrelic.com/42/eum/rum.js"></script></body></html>
