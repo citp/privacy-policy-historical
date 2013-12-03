@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artmajeur.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123201121id_/http%3A//www.artmajeur.com/%3Fgo%3Dpages/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artmajeur.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203011729id_/http%3A//www.artmajeur.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -27,4 +27,4 @@ You can access all your personally identifiable information that we collect onli
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at +33 (0) 4 6792 0826 or send us an email at privacyartmajeur.com
+Should you have other questions or concerns about these privacy policies, please call us at +33 (0) 4 6792 0826 or send us an email at Secure Interface
