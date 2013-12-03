@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickenloans.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612131905id_/http%3A//www.quickenloans.com/about/legal/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickenloans.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203170049id_/http%3A//www.quickenloans.com/about/legal/security-privacy) for the most accurate reproduction.*
 
 # Security and Privacy Statement | Quicken Loans
 
@@ -9,6 +9,14 @@ At Quicken Loans, we have dedicated ourselves to revolutionizing the home loan p
 Quicken Loans does not share your personal information with outside companies for their promotional use.
 
 Because of the financial nature of our business, our websites are not designed to appeal to children under the age of 13. Therefore, we don't knowingly attempt to solicit or receive any information from children.
+
+## QUICKEN LOANS MEDIA ADVERTISING GUIDELINES
+
+At Quicken Loans we utilize a wide variety of media – both online and traditional outlets – to inform our clients of the many benefits of working with our company to achieve their home financing goals. Our aim is to reach as many Americans as possible to ensure they are aware of the financing trends that may impact their lives. To do this we advertise across several genres of programming, including sports, comedy, drama, talk, political and reality shows.
+
+We do not make our advertising decisions based on political affiliations or in support of, or against, any political or religious group. We firmly believe in the right of free speech, however, we also believe we have an obligation to ensure our advertising does not appear in content that is detrimental to our brand values. As one of our “ISMs” states, we “Do the Right Thing” when deciding where our advertising messages will appear. This means we will not advertise within programs that consistently exploit excessive or gratuitous violence or sexuality, which demean or denigrate any religion, race, sex or which are otherwise lacking in good taste.
+
+Should our advertising appear within programming content that violates these guidelines we will review the content in question and make decisions about the appropriateness of that program for future consideration.
 
 ## OUR PHILOSOPHY AND PRACTICES
 
