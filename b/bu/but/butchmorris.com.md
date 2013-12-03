@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the butchmorris.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523201344id_/http%3A//www.butchmorris.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butchmorris.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203091137id_/http%3A//www.butchmorris.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Butch Morris
 
