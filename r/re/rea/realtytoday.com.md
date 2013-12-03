@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtytoday.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514054927id_/http%3A//www.realtytoday.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytoday.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203103957id_/http%3A//www.realtytoday.com/privacypolicy) for the most accurate reproduction.*
 
 # Realty Today
 
