@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the lolspots.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609231816id_/http%3A//lolspots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolspots.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203044949id_/http%3A//lolspots.com/privacyandcontact) for the most accurate reproduction.*
 
 # Privacy and Contact
 
-To remove LOL Spots from your Facebook:  
-Click here: [Remove LOL Spots](http://www.facebook.com/settings/?tab=applications) and click the x to the right of LOL Spots.
+To remove LOLSpots from your Facebook:  
+Click here: [Remove LOLSpots](http://www.facebook.com/settings/?tab=applications) and click the x to the right of LOLSpots.
 
-By using the Facebook application service provided by LOL Spots, you consent to the collection and use of your personal information as outlined in this Privacy Policy. Please check this page periodically to be aware of any changes to this policy.
+By using the Facebook application service provided by LOLSpots, you consent to the collection and use of your personal information as outlined in this Privacy Policy. Please check this page periodically to be aware of any changes to this policy.
 
 What We Collect
 
-When you install an LOL Spots Facebook application, LOL Spots will collect your Facebook ID so we can identify you as a unique user of the app and allow you to interact with the app on Facebook. If you choose to share your email, we will store that as well. We may also collect basic information about you such as gender, age and location. 
+When you install an LOLSpots Facebook application, LOLSpots will collect your Facebook ID so we can identify you as a unique user of the app and allow you to interact with the app on Facebook. If you choose to share your email, we will store that as well. We may also collect basic information about you such as gender, age and location. 
 
 How We Use Your Information
 
