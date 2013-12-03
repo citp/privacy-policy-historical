@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faniq.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502220826id_/http%3A//www.faniq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faniq.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203090615id_/http%3A//www.faniq.com/privacy.php) for the most accurate reproduction.*
 
 # FanIQ - Privacy Policy
 
@@ -133,6 +133,7 @@ If you have any questions about your California privacy rights or this Privacy P
 
 FanIQ Privacy Department  
 c/o PulsePoint, Inc.  
-345 Hudson Street, 5th Floor  
-New York, NY 10014  
+20 Broad Street  
+6th Floor  
+New York, NY 10005  
 Tel: (212) 706-9781
