@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingforcollege.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603210207id_/http%3A//www.savingforcollege.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingforcollege.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203073032id_/http%3A//www.savingforcollege.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy Saving for College, Llc
 
