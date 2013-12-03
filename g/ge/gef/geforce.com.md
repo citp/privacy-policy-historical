@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geforce.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424152137id_/http%3A//www.geforce.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geforce.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203092332id_/http%3A//www.geforce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GeForce
 
