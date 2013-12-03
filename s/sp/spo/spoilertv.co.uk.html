@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spoilertv.co.uk privacy policy that was archived on 2013-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620193146id_/http%3A//www.spoilertv.com/p/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spoilertv.co.uk privacy policy that was archived on 2013-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131203144117id_/http%3A//www.spoilertv.com/p/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head>
 <link href="https://plus.google.com/118345447570915091425/posts" rel="publisher">
@@ -10,26 +10,18 @@
 <link href="http://2.bp.blogspot.com/-QPx9uQ5mPRs/UMWrZjqcHyI/AAAAAAABLyU/bEPsdsSro0o/s400/spoilertvapplogo72px.png" rel="apple-touch-icon" sizes="72x72">
 <link href="http://1.bp.blogspot.com/-MfSvhc9T2qg/UMWrYY8IIJI/AAAAAAABLyI/FfM2wIRRWpk/s400/spoilertvapplogo114.png" rel="apple-touch-icon" sizes="114x114">
 <link href="http://3.bp.blogspot.com/-HEtCEp4YjJM/UMWrXTgeWyI/AAAAAAABLyA/CSTD3NWNqD4/s400/spoilertvapplogo144.png" rel="apple-touch-icon" sizes="144x144">
-<meta content="IE=9; IE=8; IE=7; IE=EDGE; chrome=1" http-equiv="X-UA-Compatible">
-<meta content="9s48efa3fab57a47c1962d6be513adfe4" name="verify-blogdash">
 <meta content="7c876f6b0fe866261c628b503ff39358" name="p:domain_verify">
 <meta content="B02110CC3D513CF686D647F91772DF94" name="msvalidate.01">
-<meta content="b35d080470d2" name="bitly-verification">
 <meta content="177209699002423" property="fb:app_id">
 <meta content="690495378" property="fb:admins">
 <meta content="kDe-Nz7BtG55fUKTxevLAWxgFj2SIELluleFqFTIPBQ" name="google-site-verification">
-<meta content="1ykt0g0" name="verify-postrank">
-<meta content="9BC9564622" name="blogcatalog">
+<meta content="kDe-Nz7BtG55fUKTxevLAWxgFj2SIELluleFqFTIPBQ" name="google-site-verification">
 <meta content="FB96BC456EB5B8B7F212D44EAD06C37E" name="msvalidate.01">
 <meta content="580ed07c99332d9ee4e03b926f09315b" name="verify_w">
-<meta content="a1xqq1m" name="verify-postrank">
-<meta content="kDe-Nz7BtG55fUKTxevLAWxgFj2SIELluleFqFTIPBQ" name="google-site-verification">
-<meta content="b35d080470d2" name="bitly-verification">
 <meta content="IXXOEgqXvgU7xF8N+UAL3FQzzMOar4JTKUhYuPIWx7w=" name="verify-v1">
-<meta content="true" name="MSSmartTagsPreventParsing">
 <meta content="blogger" name="generator">
 <link href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.css" media="screen" rel="stylesheet" type="text/css">
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=010812808926804002596:qw6vlysh_uu"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=010812808926804002596:qw6vlysh_uu"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.pack.js" type="text/javascript"></script>
 <script type="text/javascript">
           var addthis_config = {
@@ -44,6 +36,13 @@
         function setBackgroundImage(url) {
           var string=url;
           document.getElementById("header_container").style.backgroundImage='url(' + url + ')';
+          if (url == "NONE") {
+document.getElementById("header_container").style.display='none';
+          }
+          else{
+document.getElementById("header_container").style.display='block';
+          }
+
           setCookie('BG', url, 100);    // Or however many days you want.
         }
         function setBackgroundColor(colour) {
@@ -98,7 +97,11 @@
         function checkBannerCookie()
         {
           var bg = getBannerCookie('BG');
-          if(bg){
+          if(bg == "NONE" ) {
+document.getElementById("header_container").style.display='none';
+          }
+else if (bg) 
+		 {
             document.getElementById("header_container").style.backgroundImage='url(' + bg + ')';
           }
           else
@@ -159,10 +162,10 @@
         });
         //]]>
 </script>
-<meta content="width=1100" name="viewport">
+<meta content="width=device-width" name="viewport">
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-<script type="text/javascript">(function() { var b=window,e="jstiming",g="tick";(function(){function d(a){this.t={};this.tick=function(a,d,c){c=void 0!=c?c:(new Date).getTime();this.t[a]=[c,d]};this[g]("start",null,a)}var a=new d;b.jstiming={Timer:d,load:a};if(b.performance&&b.performance.timing){var a=b.performance.timing,c=b[e].load,f=a.navigationStart,a=a.responseStart;0<f&&a>=f&&(c[g]("_wtsrt",void 0,f),c[g]("wtsrt_","_wtsrt",a),c[g]("tbsd_","wtsrt_"))}try{a=null,b.chrome&&b.chrome.csi&&(a=Math.floor(b.chrome.csi().pageT),c&&0<f&&(c[g]("_tbnd",void 0,b.chrome.csi().startE),
-c[g]("tbnd_","_tbnd",f))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,c&&0<f&&(c[g]("_tbnd",void 0,b.external.startE),c[g]("tbnd_","_tbnd",f))),a&&(b[e].pt=a)}catch(l){}})();b.tickAboveFold=function(d){var a=0;if(d.offsetParent){do a+=d.offsetTop;while(d=d.offsetParent)}d=a;750>=d&&b[e].load[g]("aft")};var h=!1;function k(){h||(h=!0,b[e].load[g]("firstScrollTime"))}b.addEventListener?b.addEventListener("scroll",k,!1):b.attachEvent("onscroll",k);
+<script type="text/javascript">(function() { var b=window,f="jstiming",g="tick";(function(){function d(a){this.t={};this.tick=function(a,d,c){var e=void 0!=c?c:(new Date).getTime();this.t[a]=[e,d];if(void 0==c)try{b.console.timeStamp("CSI/"+a)}catch(h){}};this[g]("start",null,a)}var a;b.performance&&(a=b.performance.timing);var m=a?new d(a.responseStart):new d;b.jstiming={Timer:d,load:m};if(a){var c=a.navigationStart,h=a.responseStart;0<c&&h>=c&&(b[f].srt=h-c)}if(a){var e=b[f].load;0<c&&h>=c&&(e[g]("_wtsrt",void 0,c),e[g]("wtsrt_","_wtsrt",h),e[g]("tbsd_","wtsrt_"))}try{a=null,
+b.chrome&&b.chrome.csi&&(a=Math.floor(b.chrome.csi().pageT),e&&0<c&&(e[g]("_tbnd",void 0,b.chrome.csi().startE),e[g]("tbnd_","_tbnd",c))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,e&&0<c&&(e[g]("_tbnd",void 0,b.external.startE),e[g]("tbnd_","_tbnd",c))),a&&(b[f].pt=a)}catch(n){}})();b.tickAboveFold=function(d){var a=0;if(d.offsetParent){do a+=d.offsetTop;while(d=d.offsetParent)}d=a;750>=d&&b[f].load[g]("aft")};var k=!1;function l(){k||(k=!0,b[f].load[g]("firstScrollTime"))}b.addEventListener?b.addEventListener("scroll",l,!1):b.attachEvent("onscroll",l);
  })();</script>
 <meta content="blogger" name="generator">
 <link href="http://www.spoilertv.com/favicon.ico" rel="icon" type="image/x-icon">
@@ -171,34 +174,146 @@ c[g]("tbnd_","_tbnd",f))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null
 <link rel="alternate" type="application/rss+xml" title="Spoiler TV - RSS" href="http://www.spoilertv.com/feeds/posts/default?alt=rss">
 <link rel="service.post" type="application/atom+xml" title="Spoiler TV - Atom" href="http://www.blogger.com/feeds/29964715/posts/default">
 <!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
-<title>
-SpoilerTV Privacy Policy
-          | Spoilers
-        </title>
+<title>SpoilerTV Privacy Policy | Spoilers</title>
 
     <style type="text/css">
     <!-- /*
-    <link type='text/css' rel='stylesheet' href='//www.blogger.com/static/v1/widgets/1832531788-widget_css_bundle.css' />
-<link type="text/css" rel="stylesheet" href="//www.blogger.com/dyn-css/authorization.css?targetBlogID=29964715&zx=239a1378-e9ae-4f9f-9af8-73e3e21855fa"/>
+    <link type='text/css' rel='stylesheet' href='https://www.blogger.com/static/v1/widgets/3189209027-widget_css_bundle.css' />
+<link type='text/css' rel='stylesheet' href='//www.blogger.com/dyn-css/authorization.css?targetBlogID=29964715&zx=cdda8e42-9c9b-46ee-aef4-23ace8a3be28' />
 <style id='page-skin-1' type='text/css'><!--
 */
 
 --></style>
 <style>
+
+iframe[id*='sotv0'] {width:728px; height: 410px; margin-left: -2px; }
+
+.gsc-selected-option {
+width: 105% !important;
+}
+
+      .csediv {
+        min-height:41px;
+      }
+
+      .navtabs {
+        width:101%;
+      }
+
+      #PopularPosts1 {
+        margin-bottom:16px;
+      }
+
+      #Feed2 {
+margin-bottom:16px;
+      }
+
+      #Feed4 {
+margin-bottom:16px;
+      }
+
+      #Feed5 {
+margin-bottom:16px;
+      }
+      #HTML33 {
+margin-bottom:24px;
+      }
+
+        .sectionboxtext {
+        color:yellow;
+        }
+
+      a.dsq-widget-user {
+        display:block;
+      }
+
+      .ratingsannounce {
+background-color: #E5ECFF;
+padding-top: 10px;
+padding-bottom: 5px;
+width:99%;
+      }
+
+
+      dsq-widget-user {
+font-size: 14px;
+padding-top: 2px;
+      }
+
+img.dsq-widget-avatar {
+padding: 0px 0px 6px 2px !important;
+float: right !important;
+}
+
+      .articleimg {
+        width: 50px;
+        height: 50px;
+        float: left;
+        margin-right: 15px;
+        margin-bottom: 15px;
+        margin-top: 10px;
+        min-height: 92px;
+      }
+      .adsense  {
+        padding-top: 10px;
+      }
+      .supporters {
+        width: 95%;
+        padding-left: 5px;
+        padding-top:10px;
+      }
+      .fbclass {
+        border:none; 
+        overflow:hidden; 
+        width:728px; 
+        height:195px;
+        padding-top:0px;
+        padding-left: 2px;
+        padding-bottom:5px;
+      }
+      .fblikebox {
+        float:right;
+        padding-right:4px;
+        width:360px;
+      }
+      .gplusbox {
+        width:360px;
+        float:left;
+      }
       .sectionbox
       {
-        background-color: #1786C4;
-        color: lightskyblue;
-        float: left;
-        font-size: 9pt;
-        margin: 0px 0px 0px 0px;
-        padding: 8px;
-        width: 164px;
-        margin-bottom: 0px;
-        margin-top: 1px;
-        padding-bottom:0px;
-        height: 50px;
-        margin-left: 1px;
+   background-color: #1786C4;
+color: lightskyblue;
+float: left;
+font-size: 9pt;
+margin: 0px 0px 0px 0px;
+padding: 8px;
+width: 164px;
+margin-bottom: 0px;
+margin-top: 0px;
+padding-bottom: 0px;
+height: 50px;
+margin-left: 0px;
+border-bottom-color: #28A0E6;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+        border-right-color: #28A0E6;
+border-right-style: solid;
+border-right-width: 1px;
+      }
+
+      .sectionbox-left{
+border-left-color: #28A0E6;
+border-left-style: solid;
+border-left-width: 1px;
+      }
+
+
+      .sectionbox-adjust{
+        width:167px;
+      }
+      .sectionbox-adjust4{
+        width:167px;
       }
       div.sectionbox:hover {
         background-color: black;
@@ -213,17 +328,17 @@ SpoilerTV Privacy Policy
       }
       .authorbox
       {
-        _margin-right: -25px;
-        _padding-right: -25px;
-        background-color: #EFEFEF;
-        border: 1px solid #CCCCCC;
-        color: #29495E;
-        float: left;
-        font-size: 1em;
-        margin: 0px 10px 15px 0px;
-        padding: 8px;
-        width: 95%;
-        padding-bottom: 0px;
+background-color: #E5ECFF;
+color: black;
+float: left;
+font-size: 14px;
+margin: 0px 0px 0px 0px;
+padding: 6px;
+width: 712px;
+padding-bottom: 0px;
+border-bottom: 1px solid lightgrey;
+border-top: 1px solid lightgrey;
+padding-top: 3px;
       }
       .cse form.gsc-search-box, form.gsc-search-box {
         margin-bottom: 0px !important;
@@ -253,17 +368,19 @@ SpoilerTV Privacy Policy
       a.post-newcommentlink.dsq-comment-count.comment-link.commentslink  a:hover
       {
         color: black !important;
+        font-weight: bold;
       }
       .ratingstitle {
         font-weight:bold;
         background-color:#1786C4;
         color:white;
-        width:99%;
         font-size:125%;
         height: 30px;
         vertical-align: middle;
         line-height: 30px !important;
         text-align:center;
+margin-left: -2px;
+margin-right: 2px;
       }
       .ratingssmall {
         font-size:100%;
@@ -311,14 +428,26 @@ SpoilerTV Privacy Policy
       #rkplayer1 {
         padding-top: 10px;
       }
+      #Feed3 {
+        padding-bottom: 10px;
+      }
       #Feed3_feedItemListDisplay li {
         margin-top: 14px;
       }
       #Feed2_feedItemListDisplay li {
         margin-top: 14px;
       }
+      #Feed5_feedItemListDisplay li {
+        margin-top: 14px;
+      }
       #Feed1_feedItemListDisplay li {
         margin-top: 14px;
+      }
+      #Feed4_feedItemListDisplay li {
+        margin-top: 14px;
+      }
+      .item-author {
+        color: blue;
       }
       a.comment-link.disqus-blogger-comment-link {
         display:none;
@@ -351,17 +480,17 @@ SpoilerTV Privacy Policy
         margin-right: 10px !important;
       }
       .status-msg-body {
-        colour: black !important;
+        color: black !important;
       }
       #status-msg-body {
-        colour: black !important;
+        color: black !important;
       }
       .status-msg-wrap {
-        colour: black !important;
+        color: black !important;
         width: 670px ;
       }
       #status-msg-wrap {
-        colour: black !important;
+        color: black !important;
       }
       #PageList1 h2 {
         color: Black;
@@ -390,12 +519,14 @@ SpoilerTV Privacy Policy
       .zcc-sked-new {
         color: red;
       }
-      #post_bottom_bar {
-        background-color:#EBEBEB;
-        margin-left:0px;
+      .post_bottom_bar {
+        background-color: rgb(219, 219, 219);
+        margin-left:-11px;
         margin-bottom: 5px;
         height: 1px;
-        width:726px;
+        width:748px;
+        margin-top: 6px;
+        clear:left;
       }
       .home_articles a, .home_articles a:visited, .home_articles a:link {
         background: #1786C4 none repeat scroll 0% 50%;
@@ -437,7 +568,6 @@ SpoilerTV Privacy Policy
         font-family:Arial;
         font-size:15px;
         font-size-adjust:none;
-        font-stretch:normal;
         font-style:normal;
         font-variant:normal;
         font-weight:normal;
@@ -454,16 +584,15 @@ SpoilerTV Privacy Policy
       }
       .selectbox
       {
-        background-color:#1786C4;
-        border-color:#1786C4;
-        color:yellow;
+        background-color:#5717C4;
+        border-color:white;
+        color:white;
         font-family:Arial;
         font-size:16px;
         font-size-adjust:none;
-        font-stretch:normal;
         font-style:normal;
         font-variant:normal;
-        font-weight:bold;
+        font-weight:normal;
         height:32px;
         line-height:normal;
         margin-top:8px;
@@ -486,7 +615,7 @@ SpoilerTV Privacy Policy
         font-family: arial, verdana, sans-serif;
         font-size: 14px;
         margin-bottom: 20px;
-        margin-top: -22px;
+        margin-right: 10px;
       }
       .post-body p
       {
@@ -549,13 +678,13 @@ SpoilerTV Privacy Policy
       }
       .labelmessage
       {
-        background-color: #1786C4;
-        color: white;
+        background-color: #E5ECFF;
+        color: black;
         float: left;
         font-size: 14px;
         margin: 0px 0px 0px 0px;
         padding: 8px;
-        width: 705px;
+        width: 712px;
         margin-bottom: 0px;
         margin-top: 0px;
         padding-bottom:0px;
@@ -564,19 +693,19 @@ SpoilerTV Privacy Policy
         padding-right: 18px;
         padding-top: 5px;
         padding-bottom: 0px;
+border-bottom: 1px solid lightgrey;
+border-top: 1px solid lightgrey;
       }
       .indent
       {
-        _margin-right: -25px;
-        _padding-right: -25px;
         background-color: #EFEFEF;
         border: 1px solid #CCCCCC;
         color: black;
         float: left;
         font-size: 1em;
-        margin: 0px 10px 15px 0px;
+        margin: 0px 10px 15px -2px;
         padding: 8px;
-        width: 712px;
+        width: 710px;
       }
       .indent.style
       {
@@ -661,14 +790,14 @@ SpoilerTV Privacy Policy
       }
       #content-wrapper
       {
-        background-color: #FFF;
+        background-color: white;
         margin: 0 auto;
-        padding: 0 0 10px;
+        padding: 0 0 22px;
         text-align: left;
         width: 1090px;
         min-height: 1180px;
         position:relative;
-        top:36px;
+        top:43px;
       }
       #main-wrapper
       {
@@ -695,12 +824,12 @@ SpoilerTV Privacy Policy
         background-color: rgb(219, 219, 219);
         float: right;
         margin-right: 0px;
-        margin-top:9px;
+        margin-top:0px;
         padding: 1px 0 0px;
         text-align: center;
         width: 340px;
         word-wrap: break-word;
-        margin-bottom: 6px;
+        margin-bottom: 0px;
       }
       #newsidebar-wrapper a, #newsidebar-wrapper a:visited, #newsidebar-wrapper a:link
       {
@@ -717,18 +846,18 @@ SpoilerTV Privacy Policy
       {
         margin: 0;
       }
-      .post
-      {
+      .post {
         border-bottom: 0px;
-        margin: 10pt 0pt 15pt 0pt;
+        margin: 0px 0px 0px 0px;
         padding-bottom: 0em;
         padding-left: 2px;
       }
-      .socialbuttons
-      {
+      .socialbuttons {
         margin-top: 13px;
         margin-left: 0px;
-        width: 320px;
+        width: 520px;
+        padding-bottom: 6px;
+        min-height: 30px;
       }
       .addthis_toolbox
       {
@@ -738,14 +867,15 @@ SpoilerTV Privacy Policy
       {
         color: black;
         font-family: arial, verdana, sans-serif;
-        font-size: 22px;
+        font-size: 19px;
         font-weight:normal;
         line-height: 1.1em;
         line-height: 27px;
         margin: 0;
         padding: 0;
-        padding: 0px 0 00px;
-        margin-bottom: 30px;
+        margin-bottom: 0px;
+        padding-top:10px;
+        padding-bottom: 10px;
         padding-right: 6px;
       }
       .post-labels
@@ -778,7 +908,7 @@ SpoilerTV Privacy Policy
       }
       .post-newlabels a, .post-newlabels a:visited, .post-newlabels a:link, .post-newlabels strong
       {
-        color: #006c8d;
+        color: #2489ce !important;
         font-weight: normal;
         text-decoration: none;
       }
@@ -788,12 +918,12 @@ SpoilerTV Privacy Policy
       }
       .post-newlabels
       {
-        color: #29495E;
+        color: #2489ce;
         font-family: arial, verdana, sans-serif;
         font-size: 12px;
         font-weight: normal;
         line-height: 0pt !important;
-        display: inline-block;
+        display: inline;
       }
       .post-author
       {
@@ -811,6 +941,7 @@ SpoilerTV Privacy Policy
         border: 0px solid #4c4c4c;
         padding: 3px 3px 3px 3px;
         padding-left: 0px;
+max-width:100%;
       }
       .post blockquote
       {
@@ -836,7 +967,6 @@ SpoilerTV Privacy Policy
       #blog-pager-all-link
       {
         float: left;
-        bottom-margin: 50px;
       }
       #blog-pager
       {
@@ -847,15 +977,19 @@ SpoilerTV Privacy Policy
       }
       .sidebar h2
       {
-        background-color: #1786C4 ; /* sidebar title bg colour */
+        background-color: #5717C4 ; /* sidebar title bg colour */
         color: #FFFFFF !important;
-        font-size: 18px;
+        font-size: 16px;
         font-weight: normal;
         height: 20px;
         line-height: 22px;
         margin: 5pt 2pt 0px 5px;
         padding: 4px 5px 6px 0;
         width: 324px;
+        text-transform: uppercase;
+border-width: 1px;
+border-color: white;
+border-style: solid;
       }
       .sidebar ul
       {
@@ -869,11 +1003,6 @@ SpoilerTV Privacy Policy
       {
         line-height: 1.0em;
         margin: 0;
-        text-align: center;
-      }
-      .sidebar
-      {
-        color: $textColor;
       }
       .sidebar .widget
       {
@@ -917,23 +1046,6 @@ SpoilerTV Privacy Policy
       {
         margin-bottom: 0px;
       }
-      .newtitle
-      {
-        background-color: #000000;
-        filter: alpha(opacity=55);
-        font-family: helvetica;
-        font-size: 125%;
-        khtml-opacity: 0.55;
-        letter-spacing: 0.5cm;
-        line-height: 1.2em;
-        margin: 48pt auto;
-        moz-opacity: 0.55;
-        opacity: 0.55;
-        padding-top: 5px 0px 3px 7px;
-        text-align: center;
-        text-transform: uppercase;
-        width: 60%;
-      }
       .sidebar-exceptions {
         width: 100px;
         margin-left: 10px;
@@ -953,7 +1065,10 @@ SpoilerTV Privacy Policy
         width:1090px;
         height:200px;
         position:relative;
-        top:36px;
+        top:43px;
+border-bottom-color: #28A0E6;
+border-bottom-style: solid;
+border-bottom-width: 1px;
       }
       #nav_container {
         width:1090px;
@@ -961,14 +1076,9 @@ SpoilerTV Privacy Policy
         background-color:#0B2A3C;
         display:block;
         position: fixed;
-        z-index: 20000;
+        z-index: 8000;
         top: 0px;
-      }
-      #content {
-        width:1022px;
-        height:100%;
-        background-color:#FFF;
-        margin-top:0 auto;
+        padding-top:5px;
       }
       #menu1_container {
         float:left;
@@ -979,21 +1089,28 @@ SpoilerTV Privacy Policy
         background-color: #0B2A3C ;
       }
       a.post-newcommentlink.dsq-comment-count.comment-link.commentslink {
-        color: #1786C4;
-        font-size: 13px;
+        color: orangered;
+        font-size: 14px;
+        font-weight: bold;
       }
       a.post-newcommentlink.dsq-comment-count.comment-link.commentslink:hover {
         color: black !important;
+        font-weight: bold;
       }
       span.dsq-widget-comment {
-        line-height: 19px !important;
-        color: #1786C4;
+        line-height: 16px !important;
+        color: blue;
         font-size: 13px;
       }
-      li.dsq-widget-item {    margin-left: 10px !important;    margin-right: 10px !important;}
+      li.dsq-widget-item {    
+margin-left: 10px !important;    
+margin-right: 10px !important;
+        margin-top:25px !important;
+}
       p.dsq-widget-meta {
         font-size: 11px !important;
         padding-bottom: 10px;
+		padding-left: 0px !important;
       }
       body, ul, li {
         font-size:12px; 
@@ -1002,7 +1119,7 @@ SpoilerTV Privacy Policy
       }
       #menu {
         list-style:none;
-        width:1079px;
+        width:1077px;
         margin:0px 0px 0px 0px;
         height:36px;
         padding:0px 0px 0px 11px;
@@ -1012,6 +1129,9 @@ SpoilerTV Privacy Policy
         /* Borders */
         position: relative;
         z-index: 999999; 
+border-color: #28A0E6;
+border-width: 1px;
+border-style: solid;
       }
       #menufooter {
         list-style:none;
@@ -1127,13 +1247,13 @@ SpoilerTV Privacy Policy
         font-size:21px;
         font-weight:400;
         letter-spacing:-1px;
-        margin:7px 0 14px 0;
-        padding-bottom:14px;
+        margin:7px 0 7px 0;
+        padding-bottom:7px;
         border-bottom:1px solid #666666;
       }
       #menu h3 {
         font-size:14px;
-        margin:7px 0 14px 0;
+        margin:7px 0 7px 0;
         padding-bottom:7px;
         border-bottom:1px solid #888888;
       }
@@ -1182,7 +1302,7 @@ SpoilerTV Privacy Policy
       }
       #menu li ul li {
         font-size:12px;
-        line-height:24px;
+        line-height:18px;
         position:relative;
         padding:0;
         margin:0;
@@ -1216,6 +1336,299 @@ SpoilerTV Privacy Policy
       #lwp_cloud a:hover {
         color : #0B2A3C !important;
       }
+      @media only screen and (max-width: 1000px) {
+        #header_container {
+          width:736px;
+          background-size: 738px 135px;
+          top:51px;
+          height:135px
+        }
+
+ .authorbox
+      {
+          width:702px;
+        }
+
+      .sectionbox-left {
+border-left-color: #28A0E6;
+border-left-style: solid;
+border-left-width: 0px;
+      }
+
+      .sectionbox-leftsmall {
+border-left-color: #28A0E6;
+border-left-style: solid;
+border-left-width: 1px;
+width: 169px !important;
+      }
+
+        #nav_container
+        {
+          width:736px;
+        }
+        #menu li {
+          margin-right: 0px;
+        }
+        #menu {
+          width: 722px;
+          padding: 4px 6px 4px 6px;
+        }
+        #content-wrapper {
+          width:736px;
+          top:51px
+        }
+        #body_container {
+          width: 736px;
+        }
+        .sectionbox {
+          width: 166px;
+          font-size: 12px;
+          height:40px;
+          padding-top:5px;
+          padding-bottom:9px;
+        }
+        .sectionbox-adjust{
+          width:166px !important;
+        }
+        #newsidebar-wrapper {
+          width:736px;
+        }
+        .sidebar .widget {
+          width: 360px;
+          float: left;
+          margin-left:8px;
+        }
+        #___gcse_0 {
+          margin-left: 10px;
+        }
+        .dropdown_4columns {
+          width: 438px;
+        }
+        #menu li ul li {
+          line-height: 18px;
+        }
+        .selectbox {
+          width:346px;
+          font-size: 14px;
+          margin-left: -6px;
+        }
+        #main-wrapper {
+          width:726px;
+        }
+        .post_bottom_bar {
+          margin-left: -6px;
+          height: 1px;
+          width: 726px;
+          clear:left;
+        }
+        .announce {
+          width:702px
+        }
+
+        .indent {
+          width:696px;
+        }
+
+        .post-title {
+          font-size:20px;
+        }
+        .labelmessage {
+          width:694px;
+        }
+        iframe[id*='sotv0'] {width:714px; height: 400px; margin-left: -2px; }
+
+        .fblikebox {
+          width:360px;
+        }
+        .gplusbox {
+          width:340px;
+        }
+        .fbclass {
+          width:710px; 
+        }
+        .post-author {
+          font-size: 14px;
+        }
+        a.post-newcommentlink.dsq-comment-count.comment-link.commentslink {
+          font-size: 12px;
+          font-weight: bold;
+        }
+        .sidebar h2 {
+          font-size: 18px;
+          padding: 9px 5px 10px 0;
+          width:344px;
+        }
+        .sectionboxtitle {
+          font-size: 14px;
+        }
+        #menu li a {
+          font-size: 12px;
+        }
+        .adsense  {
+          padding-top: 3px;
+          margin-left: -5px;
+        }
+        #newsidebar-wrapper a, #newsidebar-wrapper a:visited, #newsidebar-wrapper a:link {
+          font-weight: normal;
+          font-size: 14px;
+        }
+        .col_4 {
+          width: 416px;
+        }
+      }
+      @media only screen and (min-width: 1500px) {
+        #header_container{    
+          width:1398px;
+          background-size: 1398px 200px;
+        }
+
+.authorbox
+      {
+          width:920px;
+        }
+
+  #nav_container
+        {
+          width:1398px;
+        }
+
+        #menu li {
+          margin-right: 36px;
+        }
+        .articleimg {
+          min-height: 120px;
+        }
+        #menu {
+          width: 1385px;
+        }
+        #content-wrapper {
+          width:1398px;
+        }
+        #body_container {
+          width: 1398px;
+        }
+        .sectionbox {
+          width: 118px !important;
+          font-size: 16px;
+        }
+        #newsidebar-wrapper {
+          width:440px;
+        }
+        .sidebar h2 {
+          width:424px;
+        }
+        .selectbox {
+          width:429px;
+          font-size: 18px;
+        }
+        #main-wrapper {
+          width:940px;
+        }
+        .post_bottom_bar {
+          width:955px;
+        }
+        .announce {
+          width:930px
+        }
+        .post-title {
+          font-size:26px;
+          line-height: 33px;
+          font-weight:normal;
+          margin-bottom: 0px;
+        }
+        .post-uncustomized-post-template {
+          margin: 8pt 0pt 15pt 0pt;
+        }
+        .post-title a, .post-title a:visited, .post-title a:link, .post-title strong {
+          font-weight: normal;
+        }
+        .labelmessage {
+          width:915px;
+        }
+        iframe[id*='sotv0'] {width:930px; height: 526px; }
+        .sectionbox {
+          height:30px;
+        }
+        .sectionbox-adjust{
+          width:155px !important;
+        }
+        .sectionbox-adjust2{
+          width:220px !important;
+          display:none;
+        }
+        .sectionbox-adjust3{
+          width:127px !important;
+        }
+        .sectionbox-adjust4{
+          width:220px !important;
+          display:none;
+        }
+        .fblikebox {
+          width:360px;
+        }
+        .gplusbox {
+          width:460px;
+        }
+        .fbclass {
+          width:930px; 
+        }
+        .post-author {
+          font-size: 16px;
+        }
+        a.post-newcommentlink.dsq-comment-count.comment-link.commentslink {
+          font-size: 15px;
+          font-weight: bold;
+        }
+        .sidebar h2 {
+          font-size: 18px;
+          padding: 9px 5px 10px 0;
+        }
+        .sectionboxtitle {
+          font-size: 14px;
+        }
+        .sectionboxtext {
+          display:none;
+        }
+        #menu li a {
+          font-size: 18px;
+        }
+        .item-title {
+          font-size: 14px;
+        }
+        .item-author {
+          font-size: 14px;
+        }
+        #newsidebar-wrapper a, #newsidebar-wrapper a:visited, #newsidebar-wrapper a:link {
+          font-size: 14px;
+          line-height: 1.2;
+          font-weight: normal;
+        }
+        .dsq-widget-comment p {
+          font-size: 14px;
+        }
+        .post-newlabels a, .post-newlabels a:visited, .post-newlabels a:link, .post-newlabels strong {
+          font-size: 14px;
+        }
+        .sidebar li {
+          line-height: 1.2em;
+        }
+        .sidebar .widget-content {
+          padding-bottom: 12px;
+        }
+        .indent {
+          width: 912px;
+        }
+        .supporters {
+          font-size: 17px;
+          padding-top: 7px;
+        }
+        .labelmessage {
+          font-size: 18px !important;
+        }
+        .post-body {
+          font-size: 16px;
+        }
+      }
     </style>
 <script type="text/javascript">
       //<![CDATA[
@@ -1231,8 +1644,8 @@ SpoilerTV Privacy Policy
       }
       //]]>
 </script>
-<link href="http://4.bp.blogspot.com/-9L9Ut1mNYKc/T-BVexDeevI/AAAAAAABGXY/8Fy4LYK8TOc/s400/newfavicon2012.png" rel="shortcut icon">
-<link href="http://4.bp.blogspot.com/-9L9Ut1mNYKc/T-BVexDeevI/AAAAAAABGXY/8Fy4LYK8TOc/s400/newfavicon2012.png" rel="icon">
+<link href="http://3.bp.blogspot.com/-vzHeeXfl1U4/UpxcSDw16ZI/AAAAAAABUFk/j-xkawSO0QI/s320/newfavicon2013.png" rel="shortcut icon">
+<link href="http://3.bp.blogspot.com/-vzHeeXfl1U4/UpxcSDw16ZI/AAAAAAABUFk/j-xkawSO0QI/s320/newfavicon2013.png" rel="icon">
 <script type="text/javascript">
       window.google_analytics_uacct = "UA-383112-5";
     </script>
@@ -1241,10 +1654,72 @@ SpoilerTV Privacy Policy
 <meta content="SpoilerTV" property="og:site_name">
 <meta content="http://1.bp.blogspot.com/-qEXWu-VWQKo/T-Ltx3qRXjI/AAAAAAABGmw/khW3Kzj8j74/s1600/twittersmall.png" property="og:image">
 <meta content="article" property="og:type">
-<script type="text/javascript">var a=navigator,b="userAgent",c="indexOf",f="&m=1",g="(^|&)m=",h="?",k="?m=1";function l(){var d=window.location.href,e=d.split(h);switch(e.length){case 1:return d+k;case 2:return 0<=e[1].search(g)?null:d+f;default:return null}}if(-1!=a[b][c]("Mobile")&&-1!=a[b][c]("WebKit")&&-1==a[b][c]("iPad")||-1!=a[b][c]("Opera Mini")||-1!=a[b][c]("IEMobile")){var m=l();m&&window.location.replace(m)};
+<meta content="summary" name="twitter:card">
+<meta content="@SpoilerTV" name="twitter:site">
+<meta content="http://www.spoilertv.com" name="twitter:domain">
+<meta content="http://www.spoilertv.com/" name="twitter:url">
+<meta content="Spoiler TV: SpoilerTV Privacy Policy" name="twitter:title">
+<meta content="http://3.bp.blogspot.com/-qmeFyLCAe_w/UjiDlBi2QmI/AAAAAAABRhg/pd8QM2Gk1kY/s320/spoilertvapplogo114.png" name="twitter:image:src">
+<meta content="The Largest Collection of TV spoilers and show information for the most popular shows on TV" name="twitter:description">
+<meta content="http://www.spoilertv.com/p/privacy-policy.html" name="twitter:url">
+<script async="async" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- <script type='text/javascript'> (function() { function async_load(){ var protocol = (&#39;https:&#39; == document.location.protocol ? &#39;https://&#39; : &#39;http://&#39;); var s = document.createElement(&#39;script&#39;); s.src = protocol + &#39;pagefair.com/static/adblock_detection/js/d.min.js&#39;; var x = document.getElementsByTagName(&#39;script&#39;)[0]; x.parentNode.insertBefore(s, x); } bm_website_code = &#39;B6E0E0B3705E44A5&#39;; jQuery(document).ready(async_load); })(); </script> -->
+<script type="text/javascript">var a="indexOf",b="&m=1",e="(^|&)m=",f="?",g="?m=1";function h(){var c=window.location.href,d=c.split(f);switch(d.length){case 1:return c+g;case 2:return 0<=d[1].search(e)?null:c+b;default:return null}}var k=navigator.userAgent;if(-1!=k[a]("Mobile")&&-1!=k[a]("WebKit")&&-1==k[a]("iPad")||-1!=k[a]("Opera Mini")||-1!=k[a]("IEMobile")){var l=h();l&&window.location.replace(l)};
 </script><script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('headEnd');
-</script><script type="text/javascript" async="" src="http://spoilertvhome.disqus.com/embed.js"></script></head>
+</script><style>
+
+.post-newlabels a, .post-newlabels a:visited, .post-newlabels a:link, .post-newlabels strong {
+color: black !important;
+text-decoration: none;
+padding: 1px 3px 2px;
+font-size: 9.75px;
+font-weight: bold;
+text-transform: uppercase;
+white-space: nowrap;
+background-color: #FFCA38;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+margin-right: 0px;
+}
+
+  .post-newlabels a:hover {
+    background-color: #CCDAFF;
+  }
+
+  .labelcomma {
+    color:#E5ECFF;
+  }
+
+
+.postheader {
+background-color: #E5ECFF;
+margin-left: -2px;
+padding-left: 12px;
+margin-right: 12px;
+border-bottom-color: lightgrey;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-top-width: 1px;
+border-top-color: lightgray;
+border-top-style: solid;
+}
+
+a.post-newcommentlink.dsq-comment-count.comment-link.commentslink {
+display: none;
+}
+a.comment-link.disqus-blogger-comment-link {
+display: inline;
+color: orangered;
+font-weight: bold;
+}
+  .post-title {
+font-size: 36px;
+line-height: 38px;
+  }
+  </style><script type="text/javascript" async="" src="http://spoilertvhome.disqus.com/embed.js"></script><script async="" type="text/javascript" src="http://spoilertvhome.disqus.com/count.js"></script></head>
+
 <body class="static_page" style="background: rgb(0, 0, 0);">
 <div class="ui-responsive-panel" data-role="page">
 <script type="text/javascript">
@@ -1258,17 +1733,8 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <h1 style="display: none;">
           SpoilerTV - TV Spoilers
         </h1>
-<a name="8991138583"></a>
 <div id="body_container">
 <div id="nav_container">
-<script type="text/javascript">
-                //<![CDATA[ 
-                if (top.location != location) {
-                  document.getElementById('menu').style.display='none !important';
-                  document.getElementById('menu1_container').style.display='none !important';
-                }
-                //]]>
-</script>
 <div id="menu1_container">
 <ul id="menu">
 <a href="http://bit.ly/17WOlw" title="Goto Homepage">
@@ -1278,12 +1744,10 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <a class="drop" href="#">
                       Start
                     </a>
-<!-- Begin Home Item -->
 <div class="dropdown_4columns">
-<!-- Begin 2 columns container -->
 <div class="col_4">
 <a href="http://bit.ly/17WOlw" title="Goto SpoilerTV Homepage">
-<img alt="Goto Homepage" src="http://4.bp.blogspot.com/-9L9Ut1mNYKc/T-BVexDeevI/AAAAAAABGXY/8Fy4LYK8TOc/s400/newfavicon2012.png" style="float:left;width:36px; height:36px; padding-right:5px;" title="Goto Homepage">
+<img alt="Goto Homepage" src="http://3.bp.blogspot.com/-vzHeeXfl1U4/UpxcSDw16ZI/AAAAAAABUFk/j-xkawSO0QI/s320/newfavicon2013.png" style="float:left;width:36px; height:36px; padding-right:5px;" title="Goto Homepage">
 </a>
 <h2>
                           Welcome to SpoilerTV
@@ -1293,10 +1757,6 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                         We bring you a comprehensive and up to date spoiler service on all the major US TV shows and Movies. You can find specific show content by clicking the menu system at the top of the screen. We scour the Internet for spoilers as well as posting our own exclusive spoilers (Scripts, Casting Calls, Set Photos etc) as well as recaps and other
                         fun articles and polls. We hope you enjoy your stay.
                         <br>
-<div style="z-index: 500;">
-<span id="login" style="">
-</span>
-</div>
 </div>
 <div class="col_2">
 <h3>
@@ -1328,9 +1788,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <b>
                                 Submit Scoop
                               </b>
-<!--[if gte IE 7]><!-->
 </a>
-<!--<![endif]-->
 </li>
 <li>
 <a href="http://www.spoilertv.com/p/program-listings.html">
@@ -1339,15 +1797,13 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </li>
 <li>
 <a href="http://www.buzz.spoilertv.com/">
-                              Internet Buzz
+                              Buzz!
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/p/popular-posts.html" style="color:red;">
-<b>
+<a href="http://www.spoilertv.com/p/popular-posts.html">
                                 What's HOT!
-                              </b>
-</a>
+                            </a>
 </li>
 </ul>
 </div>
@@ -1362,8 +1818,8 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/Comic-Con">
-                              Comic-Con
+<a href="http://www.spoilertv.com/search/label/Spoiled">
+                                Spoiled
                             </a>
 </li>
 <li>
@@ -1378,7 +1834,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </li>
 <li>
 <a href="http://www.spoilertv.com/2013/06/2014-full-pilot-watch-spreadsheet.html">
-                              Pilot Watch 2013
+                              Pilot Watch 2014
                             </a>
 </li>
 <li>
@@ -1404,7 +1860,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                         </h3>
 <ul>
 <li>
-<a href="http://www.spoilertv.com/2012/09/the-spoilertv-cancellation-predictor.html">
+<a href="http://www.spoilertv.com/2013/09/spoilertv-cancellation-predictor-table.html">
                               Cancellation Table
                             </a>
 </li>
@@ -1424,7 +1880,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/2012/10/reader-popularity-episode-tables-201213.html">
+<a href="http://www.spoilertv.com/2013/09/reader-popularity-episode-tables-201314.html">
                               Show Episode Ratings
                             </a>
 </li>
@@ -1434,28 +1890,19 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/2012/10/the-complete-spoilertv-20132014-tv.html">
-                              TV Scorecard 2013/14
-                            </a>
-</li>
-<li>
-<a href="http://www.video.spoilertv.com">
-                              Video Portal
+<a href="http://www.spoilertv.com/2013/09/the-complete-spoilertv-20142015-tv.html">
+                              TV Scorecard 2014/15
                             </a>
 </li>
 </ul>
 </div>
 </div>
-<!-- End 2 columns container -->
 </li>
-<!-- End Home Item -->
 <li>
 <a class="drop" href="#">
                       ABC
                     </a>
-<!-- Begin ABC Shows Item -->
 <div class="dropdown_3columns">
-<!-- Begin 3 columns container -->
 <div class="col_3">
 <h3>
                           ABC Shows
@@ -1484,18 +1931,8 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/Family%20Tools">
-                              Family Tools
-                            </a>
-</li>
-<li>
 <a href="http://www.spoilertv.com/search/label/Grey%27s%20Anatomy">
                               Grey's Anatomy
-                            </a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/search/label/How%20to%20Live%20With%20Your%20Parents">
-                              How to Live With ...
                             </a>
 </li>
 <li>
@@ -1508,15 +1945,6 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                               Last Man Standing
                             </a>
 </li>
-<li>
-<a href="http://www.spoilertv.com/search/label/Lucky%207">
-                              Lucky 7
-                            </a>
-</li>
-</ul>
-</div>
-<div class="col_1">
-<ul>
 <li>
 <a href="http://www.spoilertv.com/search/label/Mind%20Games">
                               Mind Games
@@ -1532,6 +1960,10 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                               Mixology
                             </a>
 </li>
+</ul>
+</div>
+<div class="col_1">
+<ul>
 <li>
 <a href="http://www.spoilertv.com/search/label/Modern%20Family">
                               Modern Family
@@ -1567,10 +1999,6 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                               Revenge
                             </a>
 </li>
-</ul>
-</div>
-<div class="col_1">
-<ul>
 <li>
 <a href="http://www.spoilertv.com/search/label/Rookie%20Blue">
                               Rookie Blue
@@ -1581,6 +2009,15 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                               Scandal
                             </a>
 </li>
+</ul>
+</div>
+<div class="col_1">
+<ul>
+<li>
+<a href="http://www.spoilertv.com/search/label/Secrets%20and%20Lies">
+                              Secrets and Lies
+                            </a>
+</li>
 <li>
 <a href="http://www.spoilertv.com/search/label/Suburgatory">
                               Suburgatory
@@ -1589,6 +2026,11 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li>
 <a href="http://www.spoilertv.com/search/label/Super%20Fun%20Night">
                               Super Fun Night
+                            </a>
+</li>
+<li>
+<a href="http://www.spoilertv.com/search/label/The%20Assets">
+                              The Assets
                             </a>
 </li>
 <li>
@@ -1619,16 +2061,12 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </ul>
 </div>
 </div>
-<!-- End 3 columns container -->
 </li>
-<!-- End ABC Shows -->
 <li>
 <a class="drop" href="#">
                       CBS
                     </a>
-<!-- Begin CBS Shows Item -->
 <div class="dropdown_3columns">
-<!-- Begin 3 columns container -->
 <div class="col_3">
 <h3>
                           CBS Shows
@@ -1639,6 +2077,11 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li>
 <a href="http://www.spoilertv.com/search/label/Bad%20Teacher">
                               Bad Teacher
+                            </a>
+</li>
+<li>
+<a href="http://www.spoilertv.com/search/label/Battle%20Creek">
+                              Battle Creek
                             </a>
 </li>
 <li>
@@ -1662,6 +2105,11 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
+<a href="http://www.spoilertv.com/search/label/Extant">
+                              Extant
+                            </a>
+</li>
+<li>
 <a href="http://www.spoilertv.com/search/label/Friends%20With%20Better%20Lives">
                               Friends With Better Lives 
                             </a>
@@ -1671,15 +2119,15 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                               Hawaii Five-O
                             </a>
 </li>
+</ul>
+</div>
+<div class="col_1">
+<ul>
 <li>
 <a href="http://www.spoilertv.com/search/label/How%20I%20Met%20Your%20Mother">
                               HIMYM
                             </a>
 </li>
-</ul>
-</div>
-<div class="col_1">
-<ul>
 <li>
 <a href="http://www.spoilertv.com/search/label/Hostages">
                               Hostages
@@ -1769,24 +2217,15 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                               Unforgettable
                             </a>
 </li>
-<li>
-<a href="http://www.spoilertv.com/search/label/We%20Are%20Men">
-                              We Are Men
-                            </a>
-</li>
 </ul>
 </div>
 </div>
-<!-- End 3 columns container -->
 </li>
-<!-- End CBS Shows -->
 <li>
 <a class="drop" href="#">
                       CW
                     </a>
-<!-- Begin CW Shows Item -->
 <div class="dropdown_2columns">
-<!-- Begin 2 columns container -->
 <div class="col_2">
 <h3>
                           CW Shows
@@ -1861,16 +2300,12 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </ul>
 </div>
 </div>
-<!-- End 2 columns container -->
 </li>
-<!-- End CW Shows -->
 <li>
 <a class="drop" href="#">
                       FOX
                     </a>
-<!-- Begin FOX Shows Item -->
 <div class="dropdown_2columns">
-<!-- Begin 1 columns container -->
 <div class="col_2">
 <h3>
                           FOX Shows
@@ -1879,8 +2314,8 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class="col_1">
 <ul>
 <li>
-<a href="http://www.spoilertv.com/search/label/24">
-                              24
+<a href="http://www.spoilertv.com/search/label/24%3A%20Live%20Another%20Day">
+                              24: Live Another Day
                             </a>
 </li>
 <li>
@@ -1901,6 +2336,11 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li>
 <a href="http://www.spoilertv.com/search/label/Bones">
                               Bones
+                            </a>
+</li>
+<li>
+<a href="http://www.spoilertv.com/search/label/Bordertown">
+                              Bordertown
                             </a>
 </li>
 <li>
@@ -1934,8 +2374,8 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/Goodwin%20Games">
-                              Goodwin Games
+<a href="http://www.spoilertv.com/search/label/Gotham">
+                              Gotham
                             </a>
 </li>
 </ul>
@@ -1943,8 +2383,13 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class="col_1">
 <ul>
 <li>
-<a href="http://www.spoilertv.com/search/label/Murder%20Police">
-                              Murder Police
+<a href="http://www.spoilertv.com/search/label/Gracepoint">
+                              Gracepoint
+                            </a>
+</li>
+<li>
+<a href="http://www.spoilertv.com/search/label/Hieroglyph">
+                              Hieroglyph
                             </a>
 </li>
 <li>
@@ -2000,16 +2445,12 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </ul>
 </div>
 </div>
-<!-- End 1 columns container -->
 </li>
-<!-- End FOX Shows -->
 <li>
 <a class="drop" href="#">
                       NBC
                     </a>
-<!-- Begin NBC Shows Item -->
 <div class="dropdown_3columns">
-<!-- Begin 3 columns container -->
 <div class="col_3">
 <h3>
                           NBC Shows
@@ -2025,11 +2466,6 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li>
 <a href="http://www.spoilertv.com/search/label/Believe">
                               Believe
-                            </a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/search/label/Camp">
-                              Camp
                             </a>
 </li>
 <li>
@@ -2062,15 +2498,15 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                               Crossing Lines
                             </a>
 </li>
+</ul>
+</div>
+<div class="col_1">
+<ul>
 <li>
 <a href="http://www.spoilertv.com/search/label/Dracula">
                               Dracula
                             </a>
 </li>
-</ul>
-</div>
-<div class="col_1">
-<ul>
 <li>
 <a href="http://www.spoilertv.com/search/label/Grimm">
                               Grimm
@@ -2084,11 +2520,6 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li>
 <a href="http://www.spoilertv.com/search/label/Hannibal">
                               Hannibal
-                            </a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/search/label/Ironside">
-                              Ironside
                             </a>
 </li>
 <li>
@@ -2111,28 +2542,18 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                               Revolution
                             </a>
 </li>
-<li>
-<a href="http://www.spoilertv.com/search/label/Save%20Me">
-                              Save Me
-                            </a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/search/label/Saving%20Hope">
-                              Saving Hope
-                            </a>
-</li>
 </ul>
 </div>
 <div class="col_1">
 <ul>
 <li>
-<a href="http://www.spoilertv.com/search/label/Sean%20Saves%20The%20World">
-                              Sean Saves the World
+<a href="http://www.spoilertv.com/search/label/Saving%20Hope">
+                              Saving Hope
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/Siberia">
-                              Siberia
+<a href="http://www.spoilertv.com/search/label/Sean%20Saves%20The%20World">
+                              Sean Saves the World
                             </a>
 </li>
 <li>
@@ -2146,7 +2567,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/The%20Michael%20J.%20Fox%20Show">
+<a href="http://www.spoilertv.com/search/label/The%20Michael%20J%20Fox%20Show">
                               The Michael J. Fox&nbsp;Show 
                             </a>
 </li>
@@ -2156,23 +2577,19 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/Welcome%20To%20The%20Family">
-                              Welcome To The Family
+<a href="http://www.spoilertv.com/search/label/Working%20the%20Engels">
+                              Working the Engels
                             </a>
 </li>
 </ul>
 </div>
 </div>
-<!-- End 3 columns container -->
 </li>
-<!-- End NBC Shows -->
 <li>
 <a class="drop" href="#">
                       Cable (A-H)
                     </a>
-<!-- Begin Cable Shows Item -->
-<div class="dropdown_4columns align_right">
-<!-- Begin 5 columns container -->
+<div class="dropdown_4columns align_left">
 <div class="col_1">
 <h3>
                           A&amp;E
@@ -2181,11 +2598,6 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li>
 <a href="http://www.spoilertv.com/search/label/Bates%20Motel">
                               Bates Motel
-                            </a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/search/label/The%20Glades">
-                              The Glades
                             </a>
 </li>
 <li>
@@ -2204,8 +2616,8 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                         </h3>
 <ul>
 <li>
-<a href="http://www.spoilertv.com/search/label/Breaking%20Bad">
-                              Breaking Bad
+<a href="http://www.spoilertv.com/search/label/Halt%20and%20Catch%20Fire">
+                              Halt and Catch Fire
                             </a>
 </li>
 <li>
@@ -2224,13 +2636,13 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/The%20Killing">
-                              The Killing
+<a href="http://www.spoilertv.com/search/label/The%20Walking%20Dead">
+                              The Walking Dead
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/The%20Walking%20Dead">
-                              The Walking Dead
+<a href="http://www.spoilertv.com/search/label/Turn">
+                              Turn
                             </a>
 </li>
 </ul>
@@ -2243,11 +2655,6 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li>
 <a href="http://www.spoilertv.com/search/label/Baby%20Daddy">
                               Baby Daddy
-                            </a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/search/label/Bunheads">
-                              Bunheads
                             </a>
 </li>
 <li>
@@ -2273,11 +2680,6 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li>
 <a href="http://www.spoilertv.com/search/label/Switched%20at%20Birth">
                               Switched at Birth
-                            </a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/search/label/The%20Lying%20Game">
-                              The Lying Game
                             </a>
 </li>
 <li>
@@ -2310,6 +2712,21 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li>
 <a href="http://www.spoilertv.com/search/label/Archer">
                               Archer
+                            </a>
+</li>
+<li>
+<a href="http://www.spoilertv.com/search/label/Braddock%20and%20Jackson">
+                              Braddock and Jackson
+                            </a>
+</li>
+<li>
+<a href="http://www.spoilertv.com/search/label/Chozen">
+                              Chozen
+                            </a>
+</li>
+<li>
+<a href="http://www.spoilertv.com/search/label/Fargo">
+                              Fargo
                             </a>
 </li>
 <li>
@@ -2355,6 +2772,11 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li>
 <a href="http://www.spoilertv.com/search/label/The%20League">
                               The League
+                            </a>
+</li>
+<li>
+<a href="http://www.spoilertv.com/search/label/The%20Strain">
+                              The Strain
                             </a>
 </li>
 <li>
@@ -2415,8 +2837,28 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
+<a href="http://www.spoilertv.com/search/label/Looking">
+                              Looking
+                            </a>
+</li>
+<li>
+<a href="http://www.spoilertv.com/search/label/Silicon%20Valley">
+                              Silicon Valley
+                            </a>
+</li>
+<li>
+<a href="http://www.spoilertv.com/search/label/The%20Leftovers">
+                              The Leftovers
+                            </a>
+</li>
+<li>
 <a href="http://www.spoilertv.com/search/label/The%20Newsroom">
                               The Newsroom
+                            </a>
+</li>
+<li>
+<a href="http://www.spoilertv.com/search/label/Togetherness">
+                              Togetherness
                             </a>
 </li>
 <li>
@@ -2442,34 +2884,20 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </ul>
 </div>
 </div>
-<!-- End 5 columns container -->
 </li>
-<!-- End Cable A-H Shows -->
 <li>
 <a class="drop" href="#">
                       Cable (L-U)
                     </a>
-<!-- Begin Cable Shows Item -->
 <div class="dropdown_4columns align_right">
-<!-- Begin 4 columns container -->
 <div class="col_1">
 <h3>
                           Lifetime
                         </h3>
 <ul>
 <li>
-<a href="http://www.spoilertv.com/search/label/Army%20Wives">
-                              Army Wives
-                            </a>
-</li>
-<li>
 <a href="http://www.spoilertv.com/search/label/Devious%20Maids">
                               Devious Maids
-                            </a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/search/label/The%20Client%20List">
-                              The Client List
                             </a>
 </li>
 <li>
@@ -2535,11 +2963,6 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/Dexter">
-                              Dexter
-                            </a>
-</li>
-<li>
 <a href="http://www.spoilertv.com/search/label/Episodes">
                               Episodes
                             </a>
@@ -2579,11 +3002,6 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                               Shameless
                             </a>
 </li>
-<li>
-<a href="http://www.spoilertv.com/search/label/The%20Borgias">
-                              The Borgias
-                            </a>
-</li>
 </ul>
 </div>
 <div class="col_1">
@@ -2607,23 +3025,23 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/King%20and%20Maxwell">
-                              King and Maxwell
-                            </a>
-</li>
-<li>
 <a href="http://www.spoilertv.com/search/label/Legends">
                               Legends
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/Lost%20Angels">
-                              Lost Angels
+<a href="http://www.spoilertv.com/search/label/Major%20Crimes">
+                              Major Crimes
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/Major%20Crimes">
-                              Major Crimes
+<a href="http://www.spoilertv.com/search/label/Mob%20City">
+                              Mob City
+                            </a>
+</li>
+<li>
+<a href="http://www.spoilertv.com/search/label/Murder%20in%20the%20First">
+                              Murder in the First
                             </a>
 </li>
 <li>
@@ -2649,23 +3067,18 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                         </h3>
 <ul>
 <li>
-<a href="http://www.spoilertv.com/search/label/Burn%20Notice">
-                              Burn Notice
-                            </a>
-</li>
-<li>
 <a href="http://www.spoilertv.com/search/label/Covert%20Affairs">
                               Covert Affairs
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/Graceland">
-                              Graceland
+<a href="http://www.spoilertv.com/search/label/Dig">
+                              Dig
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/Necessary%20Roughness">
-                              Necessary Roughness
+<a href="http://www.spoilertv.com/search/label/Graceland">
+                              Graceland
                             </a>
 </li>
 <li>
@@ -2701,16 +3114,12 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </ul>
 </div>
 </div>
-<!-- End 5 columns container -->
 </li>
-<!-- End Cable S-U Shows -->
 <li>
 <a class="drop" href="#">
                       Misc Shows
                     </a>
-<!-- Begin Misc Shows Item -->
-<div class="dropdown_2columns">
-<!-- Begin 2 columns container -->
+<div class="dropdown_2columns align_right">
 <div class="col_2">
 <h3>
                           Misc Shows
@@ -2734,18 +3143,13 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/Black Sails">
+<a href="http://www.spoilertv.com/search/label/Black%20Sails">
                               Black Sails
                             </a>
 </li>
 <li>
 <a href="http://www.spoilertv.com/search/label/Canal%20Plus">
                               Canal Plus
-                            </a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/search/label/Copper">
-                              Copper
                             </a>
 </li>
 <li>
@@ -2773,8 +3177,8 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class="col_1">
 <ul>
 <li>
-<a href="http://www.spoilertv.com/search/label/Magic%20City">
-                              Magic City
+<a href="http://www.spoilertv.com/search/label/Orange%20is%20the%20New%20Black">
+                              Orange is the New Black
                             </a>
 </li>
 <li>
@@ -2808,11 +3212,6 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/The%20White%20Queen">
-                              The White Queen
-                            </a>
-</li>
-<li>
 <a href="http://www.spoilertv.com/search/label/Vikings">
                               Vikings
                             </a>
@@ -2825,16 +3224,12 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </ul>
 </div>
 </div>
-<!-- End columns container -->
 </li>
-<!-- End Misc Shows -->
 <li>
 <a class="drop" href="#">
                       UK
                     </a>
-<!-- Begin UK Shows Item -->
 <div class="dropdown_2columns align_right">
-<!-- Begin 2 columns container -->
 <div class="col_2">
 <h3>
                           UK Shows
@@ -2842,6 +3237,11 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </div>
 <div class="col_1">
 <ul>
+<li>
+<a href="http://www.spoilertv.com/search/label/Atlantis">
+                              Atlantis
+                            </a>
+</li>
 <li>
 <a href="http://www.spoilertv.com/search/label/Doctor%20Who">
                               Doctor Who
@@ -2853,23 +3253,8 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/Life%27s%20Too%20Short">
-                              Life's Too Short
-                            </a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/search/label/Luther">
-                              Luther
-                            </a>
-</li>
-<li>
 <a href="http://www.spoilertv.com/search/label/Misfits">
                               Misfits
-                            </a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/search/label/Ripper%20Street">
-                              Ripper Street
                             </a>
 </li>
 </ul>
@@ -2877,23 +3262,23 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class="col_1">
 <ul>
 <li>
+<a href="http://www.spoilertv.com/search/label/Ripper%20Street">
+                              Ripper Street
+                            </a>
+</li>
+<li>
 <a href="http://www.spoilertv.com/search/label/Sherlock">
                               Sherlock
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/Strike Back">
-                              Strike Back
+<a href="http://www.spoilertv.com/search/label/The%20Musketeers">
+                              The Musketeers
                             </a>
 </li>
 <li>
 <a href="http://www.spoilertv.com/search/label/Torchwood">
                               Torchwood
-                            </a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/search/label/Way%20To%20Go">
-                              Way To Go
                             </a>
 </li>
 <li>
@@ -2904,22 +3289,18 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </ul>
 </div>
 </div>
-<!-- End columns container -->
 </li>
-<!-- End Misc-UK Shows -->
 <li>
 <a class="drop" href="#">
                       Help
                     </a>
-<!-- Begin Help Item -->
 <div class="dropdown_2columns align_right">
-<!-- Begin 1 columns container -->
 <div class="col_2">
 <h3>
                           Need some help?
                         </h3>
-                        If you require any help with SpoilerTV, please don't hesitate to contact us but please check the links below to see if they will help you first. 
-                      </div>
+                        If you require any help with SpoilerTV, please don't hesitate to contact us but please check the links below to see if they will help you first. <br><br>
+</div>
 <div class="col_1">
 <ul>
 <li>
@@ -2928,7 +3309,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a class="sub optionpop" href="#options" id="inline">
+<a class="sub optionpop" href="#options">
                               Banner Selector
                             </a>
 </li>
@@ -2942,13 +3323,23 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                               FAQ/Help Files
                             </a>
 </li>
+<li>
+<a href="http://www.spoilertv.com/p/meet-team.html">
+                              Meet the Team
+                            </a>
+</li>
 </ul>
 </div>
 <div class="col_1">
 <ul>
 <li>
-<a href="http://www.spoilertv.com/p/meet-team.html">
-                              Meet the Team
+<a href="http://www.spoilertv.com/p/privacy-policy.html">
+                              Privacy Policy
+                            </a>
+</li>
+<li>
+<a href="http://www.spoilertv.com/2013/10/renewals-and-cancellations-decisions.html">
+                              Ratings FAQ
                             </a>
 </li>
 <li>
@@ -2957,23 +3348,19 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a class="feedpop" href="http://admin.userreport.com/Websites/CrowdIntelligenceExample.aspx?WebsiteId=4a7eb041-bb27-4c7c-a8d5-5d5ba372f3c2" style="color:red;">
+<a class="feedpop" href="http://admin.userreport.com/Websites/CrowdIntelligenceExample.aspx?WebsiteId=4a7eb041-bb27-4c7c-a8d5-5d5ba372f3c2">
                               Send Feedback
                             </a>
 </li>
 </ul>
 </div>
 </div>
-<!-- End 1 columns container -->
 </li>
-<!-- End Help Item -->
 <li>
 <a class="drop" href="#">
-                      All Features
+                      Features
                     </a>
-<!-- Begin Features Item -->
 <div class="dropdown_3columns align_right">
-<!-- Begin 5 columns container -->
 <div class="col_3">
 <h3>
                           Feature List
@@ -2995,7 +3382,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a class="sub optionpop" href="#options" id="inline">
+<a class="sub optionpop" href="#options">
                               Banner Selector
                             </a>
 </li>
@@ -3010,7 +3397,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/2012/09/the-spoilertv-cancellation-predictor.html">
+<a href="http://www.spoilertv.com/2013/09/spoilertv-cancellation-predictor-table.html">
                               Cancellation Table
                             </a>
 </li>
@@ -3079,7 +3466,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/2012/09/full-ratings-tables-most-watched-and.html">
+<a href="http://www.spoilertv.com/2013/09/full-ratings-tables-201314.html">
                               Most Watched Shows
                             </a>
 </li>
@@ -3095,7 +3482,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </li>
 <li>
 <a href="http://www.spoilertv.com/2013/06/2014-full-pilot-watch-spreadsheet.html">
-                              Pilot Watch 2013
+                              Pilot Watch 2014
                             </a>
 </li>
 <li>
@@ -3133,12 +3520,12 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a class="feedpop" href="http://admin.userreport.com/Websites/CrowdIntelligenceExample.aspx?WebsiteId=4a7eb041-bb27-4c7c-a8d5-5d5ba372f3c2" style="color:red;">
+<a class="feedpop" href="http://admin.userreport.com/Websites/CrowdIntelligenceExample.aspx?WebsiteId=4a7eb041-bb27-4c7c-a8d5-5d5ba372f3c2">
                               Send Feedback
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/2012/10/reader-popularity-episode-tables-201213.html">
+<a href="http://www.spoilertv.com/2013/09/reader-popularity-episode-tables-201314.html">
                               Show Episode Ratings
                             </a>
 </li>
@@ -3148,8 +3535,13 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                             </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/2012/10/the-complete-spoilertv-20132014-tv.html">
-                              TV Scorecard 2013/14
+<a href="http://www.spoilertv.com/search/label/Spoiled">
+                                Spoiled
+                            </a>
+</li>
+<li>
+<a href="http://www.spoilertv.com/2013/09/the-complete-spoilertv-20142015-tv.html">
+                              TV Scorecard 2014/15
                             </a>
 </li>
 <li>
@@ -3157,39 +3549,34 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <b>
                                 Submit Scoop
                               </b>
-<!--[if gte IE 7]><!-->
 </a>
-<!--<![endif]-->
 </li>
 <li>
-<a href="http://www.spoilertv.com/search/label/USDP" id="inline">
+<a href="http://www.spoilertv.com/search/label/USDP">
                               User Submitted Polls
                             </a>
 </li>
 <li>
-<a href="http://www.video.spoilertv.com/" id="inline">
-                              Video Portal
+<a href="http://www.spoilertv.com/p/popular-posts.html">
+                                What's HOT!
                             </a>
 </li>
-<li>
-<a href="http://www.spoilertv.com/p/popular-posts.html" style="color:red;">
-<b>
-                                What's HOT!
-                              </b>
-</a>
+</ul>
+</div>
+</div>
 </li>
 </ul>
 </div>
 </div>
-<!-- End 1 columns container -->
-</li>
-<!-- End Features Item -->
-</ul>
-</div>
-<!-- /menu1_container -->
-</div>
-<!-- /nav_container -->
-<div id="header_container" onclick="location.href = &quot;http://www.spoilertv.com&quot;" style="cursor: pointer; background-size: 1090px 200px; background-image: url(&quot;http://1.bp.blogspot.com/-f5BFm2WLkak/UasN4kgzpQI/AAAAAAABPtQ/lFujLMaUfWI/s1600/stvbanner2013-14.jpg&quot;);"></div>
+<script type="text/javascript">
+                //<![CDATA[ 
+                if (top.location != location) {
+                  document.getElementById('menu').style.display='none !important';
+                  document.getElementById('menu1_container').style.display='none !important';
+                }
+                //]]>
+</script>
+<div id="header_container" onclick="location.href = &quot;http://www.spoilertv.com&quot;" style="background-image: url(&quot;http://1.bp.blogspot.com/-f5BFm2WLkak/UasN4kgzpQI/AAAAAAABPtQ/lFujLMaUfWI/s1600/stvbanner2013-14.jpg&quot;);"></div>
 <script type="text/javascript">
               //<![CDATA[ 
               if (top.location != location) {
@@ -3206,16 +3593,18 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
               checkBackgroundCookie();
               //]]>
 </script>
-<!-- /End Mobile Stuff -->
 <div id="content-wrapper">
+<div class="navtabs">
 <a href="http://www.spoilertv.com/p/popular-posts.html">
-<div class="sectionbox">
+<div class="sectionbox sectionbox-left sectionbox-leftsmall">
 <div class="sectionboxtitle">
                     What's HOT!
                     <br>
 </div>
-                  See What's Trending
-                </div>
+<div class="sectionboxtext">
+                    See What's Trending
+                  </div>
+</div>
 </a>
 <a href="http://spoilertv.co.uk/images/" target="_blank">
 <div class="sectionbox">
@@ -3223,8 +3612,10 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                     Photo Gallery
                     <br>
 </div>
-                  View over 100,000 Images
-                </div>
+<div class="sectionboxtext">
+                    View over 150,000 Images
+                  </div>
+</div>
 </a>
 <a href="http://www.spoilertv.com/2013/06/2014-full-pilot-watch-spreadsheet.html">
 <div class="sectionbox">
@@ -3232,44 +3623,54 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                     Pilot Watch
                     <br>
 </div>
-                  Latest Pilot News
-                </div>
+<div class="sectionboxtext">
+                    Latest Pilot News
+                  </div>
+</div>
 </a>
 <a href="http://www.spoilertv.com/p/meet-team.html">
-<div class="sectionbox" style="width:166px !important;">
+<div class="sectionbox">
 <div class="sectionboxtitle">
                     Meet the Team
                     <br>
 </div>
-                  So who are SpoilerTV?
-                </div>
+<div class="sectionboxtext">
+                    So who are SpoilerTV?
+                  </div>
+</div>
 </a>
 <a href="http://www.spoilertv.com/search/label/Movies">
-<div class="sectionbox">
+<div class="sectionbox sectionbox-leftsmall">
 <div class="sectionboxtitle">
                     Movies
                     <br>
 </div>
-                  Movie News and Trailers
-                </div>
+<div class="sectionboxtext">
+                    Movie News and Trailers
+                  </div>
+</div>
 </a>
 <a href="http://www.spoilertv.com/search/label/Ratings">
-<div class="sectionbox" style="width:165px !important;">
+<div class="sectionbox sectionbox-adjust">
 <div class="sectionboxtitle">
                     Ratings News
                     <br>
 </div>
-                  Full TV Ratings
-                </div>
+<div class="sectionboxtext">
+                    Full TV Ratings
+                  </div>
+</div>
 </a>
 <a href="http://www.spoilertv.com/p/program-listings.html">
-<div class="sectionbox">
+<div class="sectionbox sectionbox-left">
 <div class="sectionboxtitle">
                     What's On Tonight
                     <br>
 </div>
-                  Full TV Listings
-                </div>
+<div class="sectionboxtext">
+                    Full TV Listings
+                  </div>
+</div>
 </a>
 <a href="http://www.stvplus.com" target="_blank">
 <div class="sectionbox">
@@ -3277,37 +3678,45 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
                     Episode Database
                     <br>
 </div>
-                  Track your favourite shows
-                </div>
+<div class="sectionboxtext">
+                    Track your favourite shows
+                  </div>
+</div>
+</a>
+<a href="http://www.spoilertv.com/2013/09/spoilertv-cancellation-predictor-table.html">
+<div class="sectionbox sectionbox-adjust3 sectionbox-leftsmall">
+<div class="sectionboxtitle">
+					Cancellation Table
+                    <br>
+</div>
+<div class="sectionboxtext">
+					See if your show is safe!                    
+                  </div>
+</div>
 </a>
 <a href="http://www.spoilertv.com/2011/08/new-feature-upcoming-show-development.html">
-<div class="sectionbox">
+<div class="sectionbox sectionbox-adjust2">
 <div class="sectionboxtitle">
-                    Development Watch
+					Development Watch
                     <br>
 </div>
-                  Future Shows
-                </div>
-</a>
-<a href="http://www.spoilertv.com/2013/05/the-spoilertv-tv-premiere-dates-201314.html">
-<div class="sectionbox" style="width:166px !important;">
-<div class="sectionboxtitle">
-                    Premiere Calendar
-                    <br>
+<div class="sectionboxtext">
+					Future Shows
+                  </div>
 </div>
-                  See when your shows return
-                </div>
 </a>
-<a href="http://www.spoilertv.com/2012/10/the-complete-spoilertv-20132014-tv.html">
+<a href="http://www.spoilertv.com/2013/09/the-complete-spoilertv-20142015-tv.html">
 <div class="sectionbox">
 <div class="sectionboxtitle">
                     TV Scorecard
                     <br>
 </div>
-                  Status of your shows
-                </div>
+<div class="sectionboxtext">
+                    Status of your shows
+                  </div>
+</div>
 </a>
-<div class="sectionbox" style="width:165px !important;">
+<div class="sectionbox sectionbox-adjust4">
 <div class="sectionboxtitle">
 <a href="http://www.spoilertv.com/p/rss-and-twitter-feeds.html">
                     Social
@@ -3315,44 +3724,32 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <br>
 </div>
 <div style="padding-top:2px;">
-<a href="https://twitter.com/spoilertv" imageanchor="1" style="padding-right:0px;">
-<img alt="Twitter" border="0" height="24" src="http://4.bp.blogspot.com/-qzNKuG7rQx0/UbTYpFR00kI/AAAAAAABP1g/0wX2OljLZ2w/s320/twitter.png" title="Follow us on Twitter" width="24">
+<a href="https://twitter.com/spoilertv" style="padding-right:0px;">
+<img alt="Twitter" height="24" src="http://1.bp.blogspot.com/-FjesYYppasM/UpxambaEqOI/AAAAAAABUFI/r8jJWMIvo9Q/s320/twitter.png" title="Follow us on Twitter" width="24">
 </a>
-<a href="https://www.facebook.com/SpoilerTV" imageanchor="1" style="padding-right:0px;">
-<img alt="Facebook" border="0" height="24" src="http://4.bp.blogspot.com/-C3OKybMiljw/UbTYoNcNrEI/AAAAAAABP1A/VLVoe4t3EXk/s320/facebook.png" title="Like us on Facebook" width="24">
+<a href="https://www.facebook.com/SpoilerTV" style="padding-right:0px;">
+<img alt="Facebook" height="24" src="http://2.bp.blogspot.com/-bz-gGTy8-kU/UpxaltrJILI/AAAAAAABUE0/7mzqxaIw6MM/s320/facebook.png" title="Like us on Facebook" width="24">
 </a>
-<a href="http://spoilertv.tumblr.com/" imageanchor="1" style="padding-right:0px;">
-<img alt="Tumblr" border="0" height="24" src="http://1.bp.blogspot.com/-6FDR3bWPjIs/UbTYozqeCuI/AAAAAAABP1Q/uVRUowIbSUM/s320/tumblr.png" title="Follow Us on Tumblr" width="24">
+<a href="http://spoilertv.tumblr.com/" style="padding-right:0px;">
+<img alt="Tumblr" height="24" src="http://3.bp.blogspot.com/-SZp3V7tX238/UpxamPHIXDI/AAAAAAABUFM/EywlWk4uQbI/s320/tumblr.png" title="Follow Us on Tumblr" width="24">
 </a>
-<a href="http://pinterest.com/spoilertv/" imageanchor="1" style="padding-right:0px;">
-<img alt="Pinterest" border="0" height="24" src="http://1.bp.blogspot.com/-L4CL0f5FCJA/UbTYoHaaIlI/AAAAAAABP1E/gw0cye_ku9Q/s320/pinterest.png" title="Follow Us on Pinterest" width="24">
+<a href="http://pinterest.com/spoilertv/" style="padding-right:0px;">
+<img alt="Pinterest" height="24" src="http://2.bp.blogspot.com/-AHzULzWaY5s/UpxalqshpRI/AAAAAAABUEw/74Ld3fEMDAI/s320/pinterest.png" title="Follow Us on Pinterest" width="24">
 </a>
-<a href="https://plus.google.com/+spoilertv/posts" imageanchor="1" style="padding-right:0px;">
-<img alt="Google+" border="0" height="24" src="http://3.bp.blogspot.com/-zNSQx4bqfJA/UbTYoPxPhkI/AAAAAAABP1I/jGFHEJTu3zc/s320/google+.png" title="Circle us on Google+" width="24">
+<a href="https://plus.google.com/+spoilertv/posts" style="padding-right:0px;">
+<img alt="Google+" height="24" src="http://2.bp.blogspot.com/-XkekmPp26B4/UpxaltfzpfI/AAAAAAABUFQ/vES_WjzN8Ow/s320/google+.png" title="Circle us on Google+" width="24">
 </a>
-<a href="http://www.spoilertv.com/feeds/posts/default" imageanchor="1" style="padding-right:0px;">
-<img alt="RSS" border="0" height="24" src="http://4.bp.blogspot.com/-ifcHsWT4qis/UbTYolNlhxI/AAAAAAABP1Y/tIoTwk-XFno/s320/rss.png" title="Subscribe to our RSS Feed" width="24">
+<a href="http://www.spoilertv.com/feeds/posts/default" style="padding-right:0px;">
+<img alt="RSS" height="24" src="http://3.bp.blogspot.com/-8f1mfFcUD2E/Upxal2VID9I/AAAAAAABUE4/Pm8kI31RtrY/s320/rss.png" title="Subscribe to our RSS Feed" width="24">
 </a>
 </div>
 </div>
-<div id="icon-wrapper">
-<div class="iconmain section" id="iconmain"></div>
 </div>
 <div id="main-wrapper">
 <div class="main section" id="main"><div class="widget Label" id="Label3">
 </div><div class="widget HTML" id="HTML11">
 <div class="widget-content">
-<div style="padding-top: 10px;"><script type="text/javascript"><!--
-google_ad_client = "ca-pub-9058040792152164";
-google_ad_host = "pub-1556223355139109";
-/* SpoilerTV Banner */
-google_ad_slot = "1932854285";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
+<div class="adsense"><script>var ACE_AR = {Site: '886338', Size: '728090'};</script> <script language="JavaScript" src="http://uac.advertising.com/wrapper/aceUAC.js"></script></div>
 </div>
 </div><div class="widget HTML" id="HTML12">
 <div class="widget-content">
@@ -3363,28 +3760,16 @@ google_ad_height = 90;
 <div id="blog-posts">
 <div class="post uncustomized-post-template" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
 <a name="1186053792189566239"></a>
+<div class="postheader">
 <h3 class="post-title">
 <a data-ajax="false" href="http://www.spoilertv.com/p/privacy-policy.html">
 SpoilerTV Privacy Policy
 </a>
-<a class="post-newcommentlink dsq-comment-count comment-link commentslink" href="http://www.spoilertv.com/p/privacy-policy.html#disqus_thread">
-<span class="post-newcommentlink"></span>
-</a>
-<br>
-<span class="post-newlabels" id="bvpostlabels">
-<br>
-<div class="socialbuttons">
-<div class="g-plusone" data-annotation="bubble" data-href="http://www.spoilertv.com/p/privacy-policy.html" data-size="medium" style="padding-top:20px; float:left;"></div>
-<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=http://www.spoilertv.com/p/privacy-policy.html&amp;layout=button_count&amp;show_faces=false&amp;width=80&amp;action=like&amp;font=verdana&amp;colorscheme=light&amp;height=35" style="border:none; overflow:hidden; width:80px; height:35px;padding-left:0px;float:left;"></iframe>
-<div style="text-align:left;padding:0px 5px 0px 0px;float:left;width:94px;">
-<a class="twitter-share-button" data-count="horizontal" data-related="" data-text="SpoilerTV Privacy Policy" data-url="http://www.spoilertv.com/p/privacy-policy.html" data-via="SpoilerTV" href="http://twitter.com/share">
-                                        Tweet
-                                      </a>
-<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-</div>
-</div>
-</span>
 </h3>
+<br>
+<span class="post-newlabels">
+</span>
+</div>
 <div class="post-body" itemprop="description">
 <p>
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at darkufo@spoilertv.com. <br>
@@ -3417,10 +3802,8 @@ If you wish to disable cookies, you may do so through your individual browser op
 </p>
 <div style="clear: both;"></div>
 </div>
-<div style="clear: left;  padding: 0px;"></div>
-<div id="post_bottom_bar">
+<div class="post_bottom_bar">
 </div>
-<div style="clear: left;  padding: 0px;"></div>
 </div>
 </div>
 <div id="blog-pager">
@@ -3455,7 +3838,7 @@ If you have a problem with a comment, <b>DO NOT REPLY TO IT</b>.
 <br><br>
 Instead Click the Dropdown Icon/Arrow to the right of the offending comment and click the Flag link from the dropdown. Our Moderation Team will then deal with any inappropriate comments.
 <br><br> 
-<center><b>We hope you enjoy your time here at SpoilerTV</b></center>
+<b>We hope you enjoy your time here at SpoilerTV</b>
 <br>
 </span></div></div>
 </div>
@@ -3469,7 +3852,7 @@ All you need to do is to put a link to your banner in the box below and press th
 <br>
 (For best results your image should be 1090px wide and 200px high.)
 <br><br>
-We have more banners in our <a href="http://www.spoilertv.com/p/banner-gallery.html"> Banner Gallery here</a> or in our <a href="http://www.spoilertv.co.uk/forum/viewtopic.php?f=61&amp;t=22439">Banner Forum post.</a> 
+We have more banners in our <a href="http://www.spoilertv.com/p/banner-gallery.html"> Banner Gallery here</a> or in our <a href="http://www.spoilertv.co.uk/forum/viewtopic.php?f=61&amp;t=22439">Banner Forum post</a> and here in the <a href="http://www.spoilertv.com/2013/04/the-spoilertv-20132014-new-banner.html">competition post.</a>  
 <br><br>
 <form name="myform" action="" method="GET"><b>Enter the URL of your Image or pick from one below </b><br>
 <input type="text" size="60" name="inputbox" value="">
@@ -3479,7 +3862,8 @@ We have more banners in our <a href="http://www.spoilertv.com/p/banner-gallery.h
  <input type="image" src="http://4.bp.blogspot.com/-zCwV4CqW8gM/T-K7xHZbihI/AAAAAAABGkU/L3C20NeBPCA/s200/stvbanner2012-13.jpg" onclick="setBackgroundImage('http://bit.ly/stvbanner2012-13')" style="width:200px; height:62px; "> 
   <input type="image" src="http://2.bp.blogspot.com/-Vh_jnbhnn10/TdPLciZuGWI/AAAAAAAA4Sc/cxiyFKErdHw/s200/newstvbanner41.jpg" onclick="setBackgroundImage('http://bit.ly/stvbanner2012')" style="width:200px; height:62px; "> <br> 
  <input type="image" src="http://3.bp.blogspot.com/-IC5G2rXVV2o/TYNbTWtMTxI/AAAAAAAA3bk/Kcil7_eRnwk/s200/logo2010.jpg" onclick="setBackgroundImage('http://bit.ly/stvbanner2010')" style="width:200px; height:62px; ">  
-<input type="image" src="http://4.bp.blogspot.com/-IVhxDSIJHOo/URe9YxijxMI/AAAAAAABNH0/AbTQ_nrrSLc/s200/logo2009.jpg" onclick="setBackgroundImage('http://bit.ly/stvbanner2009')" style="width:200px; height:62px; ">  
+<input type="image" src="http://4.bp.blogspot.com/-IVhxDSIJHOo/URe9YxijxMI/AAAAAAABNH0/AbTQ_nrrSLc/s200/logo2009.jpg" onclick="setBackgroundImage('http://bit.ly/stvbanner2009')" style="width:200px; height:62px; ">
+<input type="image" src="http://3.bp.blogspot.com/-1Pv0xdWlrTY/UpiQGlSHxLI/AAAAAAABUBQ/vwZgbCd11fA/s320/nobanner.png" onclick="setBackgroundImage('NONE')" style="width:200px; height:62px; ">   
 <br> <br> 
 <b>Background Colour Picker</b><br>
 <form name="myformcolour" action="" method="GET">Enter the HEX Code of the colour you would like to use as a background. To get a HEX code goto the <a target="_blank" href="http://www.colorschemer.com/online.html">colour picker</a> and <br>pick your color then paste in the # number including the # at the front. eg #000000 is black #ffffff is white <br>
@@ -3511,8 +3895,11 @@ We have more banners in our <a href="http://www.spoilertv.com/p/banner-gallery.h
 <option value="http://www.spoilertv.com/search/label/2013%20TV%20Series%20Competition">
 2013 TV Series Competition
 </option>
-<option value="http://www.spoilertv.com/search/label/24">
-24
+<option value="http://www.spoilertv.com/search/label/24%3A%20Live%20Another%20Day">
+24: Live Another Day
+</option>
+<option value="http://www.spoilertv.com/search/label/7%20Word%20Reviews">
+7 Word Reviews
 </option>
 <option value="http://www.spoilertv.com/search/label/About%20A%20Boy">
 About A Boy
@@ -3535,14 +3922,14 @@ Anger Management
 <option value="http://www.spoilertv.com/search/label/Archer">
 Archer
 </option>
-<option value="http://www.spoilertv.com/search/label/Army%20Wives">
-Army Wives
-</option>
 <option value="http://www.spoilertv.com/search/label/Arrested%20Development">
 Arrested Development
 </option>
 <option value="http://www.spoilertv.com/search/label/Arrow">
 Arrow
+</option>
+<option value="http://www.spoilertv.com/search/label/Atlantis">
+Atlantis
 </option>
 <option value="http://www.spoilertv.com/search/label/Awkward">
 Awkward
@@ -3561,6 +3948,9 @@ Banshee
 </option>
 <option value="http://www.spoilertv.com/search/label/Bates%20Motel">
 Bates Motel
+</option>
+<option value="http://www.spoilertv.com/search/label/Battle%20Creek">
+Battle Creek
 </option>
 <option value="http://www.spoilertv.com/search/label/Beauty%20and%20the%20Beast">
 Beauty and the Beast
@@ -3592,26 +3982,20 @@ Bob's Burgers
 <option value="http://www.spoilertv.com/search/label/Bones">
 Bones
 </option>
-<option value="http://www.spoilertv.com/search/label/Breaking%20Bad">
-Breaking Bad
+<option value="http://www.spoilertv.com/search/label/Bordertown">
+Bordertown
+</option>
+<option value="http://www.spoilertv.com/search/label/Braddock%20and%20Jackson">
+Braddock and Jackson
 </option>
 <option value="http://www.spoilertv.com/search/label/Brooklyn%20Nine-Nine">
 Brooklyn Nine-Nine
-</option>
-<option value="http://www.spoilertv.com/search/label/Bunheads">
-Bunheads
-</option>
-<option value="http://www.spoilertv.com/search/label/Burn%20Notice">
-Burn Notice
 </option>
 <option value="http://www.spoilertv.com/search/label/Cable%20Guide">
 Cable Guide
 </option>
 <option value="http://www.spoilertv.com/search/label/Californication">
 Californication
-</option>
-<option value="http://www.spoilertv.com/search/label/Camp">
-Camp
 </option>
 <option value="http://www.spoilertv.com/search/label/Canal%20Plus">
 Canal Plus
@@ -3637,6 +4021,9 @@ Chicago Fire
 <option value="http://www.spoilertv.com/search/label/Chicago%20PD">
 Chicago PD
 </option>
+<option value="http://www.spoilertv.com/search/label/Chozen">
+Chozen
+</option>
 <option value="http://www.spoilertv.com/search/label/Comic-Con">
 Comic-Con
 </option>
@@ -3645,9 +4032,6 @@ Community
 </option>
 <option value="http://www.spoilertv.com/search/label/Continuum">
 Continuum
-</option>
-<option value="http://www.spoilertv.com/search/label/Copper">
-Copper
 </option>
 <option value="http://www.spoilertv.com/search/label/Cougartown">
 Cougartown
@@ -3670,9 +4054,6 @@ Crossbones
 <option value="http://www.spoilertv.com/search/label/Crossing%20Lines">
 Crossing Lines
 </option>
-<option value="http://www.spoilertv.com/search/label/CSI">
-CSI
-</option>
 <option value="http://www.spoilertv.com/search/label/CSI%20Las%20Vegas">
 CSI Las Vegas
 </option>
@@ -3694,8 +4075,8 @@ Defiance
 <option value="http://www.spoilertv.com/search/label/Devious%20Maids">
 Devious Maids
 </option>
-<option value="http://www.spoilertv.com/search/label/Dexter">
-Dexter
+<option value="http://www.spoilertv.com/search/label/Dig">
+Dig
 </option>
 <option value="http://www.spoilertv.com/search/label/Doctor%20Who">
 Doctor Who
@@ -3724,14 +4105,14 @@ Enlisted
 <option value="http://www.spoilertv.com/search/label/Episodes">
 Episodes
 </option>
+<option value="http://www.spoilertv.com/search/label/Extant">
+Extant
+</option>
 <option value="http://www.spoilertv.com/search/label/Falling%20Skies">
 Falling Skies
 </option>
 <option value="http://www.spoilertv.com/search/label/Family%20Guy">
 Family Guy
-</option>
-<option value="http://www.spoilertv.com/search/label/Family%20Tools">
-Family Tools
 </option>
 <option value="http://www.spoilertv.com/search/label/Family%20Tree">
 Family Tree
@@ -3772,11 +4153,14 @@ Giveaways
 <option value="http://www.spoilertv.com/search/label/Glee">
 Glee
 </option>
-<option value="http://www.spoilertv.com/search/label/Goodwin%20Games">
-Goodwin Games
+<option value="http://www.spoilertv.com/search/label/Gotham">
+Gotham
 </option>
 <option value="http://www.spoilertv.com/search/label/Graceland">
 Graceland
+</option>
+<option value="http://www.spoilertv.com/search/label/Gracepoint">
+Gracepoint
 </option>
 <option value="http://www.spoilertv.com/search/label/Grey%27s%20Anatomy">
 Grey's Anatomy
@@ -3786,6 +4170,9 @@ Grimm
 </option>
 <option value="http://www.spoilertv.com/search/label/Growing%20Up%20Fisher">
 Growing Up Fisher
+</option>
+<option value="http://www.spoilertv.com/search/label/Halt%20and%20Catch%20Fire">
+Halt and Catch Fire
 </option>
 <option value="http://www.spoilertv.com/search/label/Hannibal">
 Hannibal
@@ -3811,6 +4198,9 @@ Hello Ladies
 <option value="http://www.spoilertv.com/search/label/Hemlock%20Grove">
 Hemlock Grove
 </option>
+<option value="http://www.spoilertv.com/search/label/Hieroglyph">
+Hieroglyph
+</option>
 <option value="http://www.spoilertv.com/search/label/Homeland">
 Homeland
 </option>
@@ -3829,9 +4219,6 @@ House of Lies
 <option value="http://www.spoilertv.com/search/label/How%20I%20Met%20Your%20Mother">
 How I Met Your Mother
 </option>
-<option value="http://www.spoilertv.com/search/label/How%20to%20Live%20With%20Your%20Parents">
-How to Live With Your Parents
-</option>
 <option value="http://www.spoilertv.com/search/label/ICYMI">
 ICYMI
 </option>
@@ -3841,9 +4228,6 @@ Industry News
 <option value="http://www.spoilertv.com/search/label/Intelligence">
 Intelligence
 </option>
-<option value="http://www.spoilertv.com/search/label/Ironside">
-Ironside
-</option>
 <option value="http://www.spoilertv.com/search/label/It%27s%20Always%20Sunny%20in%20Philadelphia">
 It's Always Sunny in Philadelphia
 </option>
@@ -3852,9 +4236,6 @@ Justified
 </option>
 <option value="http://www.spoilertv.com/search/label/Killer%20Women">
 Killer Women
-</option>
-<option value="http://www.spoilertv.com/search/label/King%20and%20Maxwell">
-King and Maxwell
 </option>
 <option value="http://www.spoilertv.com/search/label/Last%20Man%20Standing">
 Last Man Standing
@@ -3871,8 +4252,8 @@ Legit
 <option value="http://www.spoilertv.com/search/label/Longmire">
 Longmire
 </option>
-<option value="http://www.spoilertv.com/search/label/Lost%20Angels">
-Lost Angels
+<option value="http://www.spoilertv.com/search/label/Looking">
+Looking
 </option>
 <option value="http://www.spoilertv.com/search/label/Lost%20Girl">
 Lost Girl
@@ -3883,17 +4264,11 @@ Louie
 <option value="http://www.spoilertv.com/search/label/Low%20Winter%20Sun">
 Low Winter Sun
 </option>
-<option value="http://www.spoilertv.com/search/label/Lucky%207">
-Lucky 7
-</option>
 <option value="http://www.spoilertv.com/search/label/Luther">
 Luther
 </option>
 <option value="http://www.spoilertv.com/search/label/Mad%20Men">
 Mad Men
-</option>
-<option value="http://www.spoilertv.com/search/label/Magic%20City">
-Magic City
 </option>
 <option value="http://www.spoilertv.com/search/label/Major%20Crimes">
 Major Crimes
@@ -3922,6 +4297,9 @@ Mistresses
 <option value="http://www.spoilertv.com/search/label/Mixology">
 Mixology
 </option>
+<option value="http://www.spoilertv.com/search/label/Mob%20City">
+Mob City
+</option>
 <option value="http://www.spoilertv.com/search/label/Modern%20Family">
 Modern Family
 </option>
@@ -3934,8 +4312,11 @@ Motive
 <option value="http://www.spoilertv.com/search/label/Movies">
 Movies
 </option>
-<option value="http://www.spoilertv.com/search/label/Murder%20Police">
-Murder Police
+<option value="http://www.spoilertv.com/search/label/Mulaney">
+Mulaney
+</option>
+<option value="http://www.spoilertv.com/search/label/Murder%20in%20the%20First">
+Murder in the First
 </option>
 <option value="http://www.spoilertv.com/search/label/Nashville">
 Nashville
@@ -3952,9 +4333,6 @@ Necessary Roughness
 <option value="http://www.spoilertv.com/search/label/Nikita">
 Nikita
 </option>
-<option value="http://www.spoilertv.com/search/label/Noir">
-Noir
-</option>
 <option value="http://www.spoilertv.com/search/label/Nurse%20Jackie">
 Nurse Jackie
 </option>
@@ -3963,6 +4341,9 @@ Once Upon A Time
 </option>
 <option value="http://www.spoilertv.com/search/label/Once%20Upon%20A%20Time%20In%20Wonderland">
 Once Upon A Time In Wonderland
+</option>
+<option value="http://www.spoilertv.com/search/label/Orange%20is%20the%20New%20Black">
+Orange is the New Black
 </option>
 <option value="http://www.spoilertv.com/search/label/Orphan%20Black">
 Orphan Black
@@ -4005,6 +4386,9 @@ Pretty Little Liars
 </option>
 <option value="http://www.spoilertv.com/search/label/Psych">
 Psych
+</option>
+<option value="http://www.spoilertv.com/search/label/Quote%20of%20the%20Week">
+Quote of the Week
 </option>
 <option value="http://www.spoilertv.com/search/label/Raising%20Hope">
 Raising Hope
@@ -4054,14 +4438,14 @@ Rizzoli and Isles
 <option value="http://www.spoilertv.com/search/label/Rookie%20Blue">
 Rookie Blue
 </option>
+<option value="http://www.spoilertv.com/search/label/ROTW">
+ROTW
+</option>
 <option value="http://www.spoilertv.com/search/label/Royal%20Pains">
 Royal Pains
 </option>
 <option value="http://www.spoilertv.com/search/label/Saint%20George">
 Saint George
-</option>
-<option value="http://www.spoilertv.com/search/label/Save%20Me">
-Save Me
 </option>
 <option value="http://www.spoilertv.com/search/label/Saving%20Hope">
 Saving Hope
@@ -4075,14 +4459,14 @@ Scene of the Week
 <option value="http://www.spoilertv.com/search/label/Sean%20Saves%20The%20World">
 Sean Saves The World
 </option>
+<option value="http://www.spoilertv.com/search/label/Secrets%20and%20Lies">
+Secrets and Lies
+</option>
 <option value="http://www.spoilertv.com/search/label/Shameless">
 Shameless
 </option>
 <option value="http://www.spoilertv.com/search/label/Sherlock">
 Sherlock
-</option>
-<option value="http://www.spoilertv.com/search/label/Siberia">
-Siberia
 </option>
 <option value="http://www.spoilertv.com/search/label/Sirens">
 Sirens
@@ -4095,6 +4479,9 @@ Sons of Anarchy
 </option>
 <option value="http://www.spoilertv.com/search/label/South%20Park">
 South Park
+</option>
+<option value="http://www.spoilertv.com/search/label/Spoiled">
+Spoiled
 </option>
 <option value="http://www.spoilertv.com/search/label/SpoilerTV%20Article">
 SpoilerTV Article
@@ -4135,6 +4522,9 @@ The 100
 <option value="http://www.spoilertv.com/search/label/The%20Americans">
 The Americans
 </option>
+<option value="http://www.spoilertv.com/search/label/The%20Assets">
+The Assets
+</option>
 <option value="http://www.spoilertv.com/search/label/The%20Big%20Bang%20Theory">
 The Big Bang Theory
 </option>
@@ -4147,14 +4537,8 @@ The Blacklist
 <option value="http://www.spoilertv.com/search/label/The%20Body%20Farm">
 The Body Farm
 </option>
-<option value="http://www.spoilertv.com/search/label/The%20Borgias">
-The Borgias
-</option>
 <option value="http://www.spoilertv.com/search/label/The%20Bridge">
 The Bridge
-</option>
-<option value="http://www.spoilertv.com/search/label/The%20Client%20List">
-The Client List
 </option>
 <option value="http://www.spoilertv.com/search/label/The%20Crazy%20Ones">
 The Crazy Ones
@@ -4165,17 +4549,14 @@ The Following
 <option value="http://www.spoilertv.com/search/label/The%20Fosters">
 The Fosters
 </option>
-<option value="http://www.spoilertv.com/search/label/The%20Game">
-The Game
-</option>
-<option value="http://www.spoilertv.com/search/label/The%20Glades">
-The Glades
-</option>
 <option value="http://www.spoilertv.com/search/label/The%20Goldbergs">
 The Goldbergs
 </option>
 <option value="http://www.spoilertv.com/search/label/The%20Good%20Wife">
 The Good Wife
+</option>
+<option value="http://www.spoilertv.com/search/label/The%20Gripe%20Review">
+The Gripe Review
 </option>
 <option value="http://www.spoilertv.com/search/label/The%20Incredible%20Hulk">
 The Incredible Hulk
@@ -4189,14 +4570,14 @@ The Last Ship
 <option value="http://www.spoilertv.com/search/label/The%20League">
 The League
 </option>
-<option value="http://www.spoilertv.com/search/label/The%20Lying%20Game">
-The Lying Game
+<option value="http://www.spoilertv.com/search/label/The%20Leftovers">
+The Leftovers
 </option>
 <option value="http://www.spoilertv.com/search/label/The%20Mentalist">
 The Mentalist
 </option>
-<option value="http://www.spoilertv.com/search/label/The%20Michael%20J.%20Fox%20Show">
-The Michael J. Fox Show
+<option value="http://www.spoilertv.com/search/label/The%20Michael%20J%20Fox%20Show">
+The Michael J Fox Show
 </option>
 <option value="http://www.spoilertv.com/search/label/The%20Middle">
 The Middle
@@ -4228,17 +4609,20 @@ The Originals
 <option value="http://www.spoilertv.com/search/label/The%20Simpsons">
 The Simpsons
 </option>
+<option value="http://www.spoilertv.com/search/label/The%20Strain">
+The Strain
+</option>
 <option value="http://www.spoilertv.com/search/label/The%20Tomorrow%20People">
 The Tomorrow People
 </option>
 <option value="http://www.spoilertv.com/search/label/The%20Walking%20Dead">
 The Walking Dead
 </option>
-<option value="http://www.spoilertv.com/search/label/The%20White%20Queen">
-The White Queen
-</option>
 <option value="http://www.spoilertv.com/search/label/Those%20Who%20Kill">
 Those Who Kill
+</option>
+<option value="http://www.spoilertv.com/search/label/Togetherness">
+Togetherness
 </option>
 <option value="http://www.spoilertv.com/search/label/Torchwood">
 Torchwood
@@ -4254,6 +4638,9 @@ True Blood
 </option>
 <option value="http://www.spoilertv.com/search/label/True%20Detective">
 True Detective
+</option>
+<option value="http://www.spoilertv.com/search/label/Turn">
+Turn
 </option>
 <option value="http://www.spoilertv.com/search/label/TV%20Show%20Comp">
 TV Show Comp
@@ -4294,23 +4681,17 @@ Veep
 <option value="http://www.spoilertv.com/search/label/Vikings">
 Vikings
 </option>
+<option value="http://www.spoilertv.com/search/label/Wal">
+Wal
+</option>
 <option value="http://www.spoilertv.com/search/label/Warehouse%2013">
 Warehouse 13
-</option>
-<option value="http://www.spoilertv.com/search/label/Way%20To%20Go">
-Way To Go
 </option>
 <option value="http://www.spoilertv.com/search/label/Wayward%20Pines">
 Wayward Pines
 </option>
-<option value="http://www.spoilertv.com/search/label/We%20Are%20Men">
-We Are Men
-</option>
 <option value="http://www.spoilertv.com/search/label/Webseries">
 Webseries
-</option>
-<option value="http://www.spoilertv.com/search/label/Welcome%20To%20The%20Family">
-Welcome To The Family
 </option>
 <option value="http://www.spoilertv.com/search/label/White%20Collar">
 White Collar
@@ -4321,11 +4702,14 @@ Wilfred
 <option value="http://www.spoilertv.com/search/label/Witches%20of%20East%20End">
 Witches of East End
 </option>
+<option value="http://www.spoilertv.com/search/label/Working%20the%20Engels">
+Working the Engels
+</option>
 </select>
 </div>
 </div><div class="widget HTML" id="HTML26">
 <div class="widget-content">
-<script>
+<div class="csediv"><script>
   (function() {
     var cx = '010812808926804002596:qw6vlysh_uu';
     var gcse = document.createElement('script');
@@ -4337,14 +4721,14 @@ Witches of East End
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search></gcse:search>
+<gcse:search></gcse:search></div>
 </div>
 </div><div class="widget Feed" id="Feed3">
 <h2>
 Latest Key Article Updates
 </h2>
 <div class="widget-content" id="Feed3_feedItemListDisplay">
-<span style="filter: alpha(25); opacity: 0.25;">
+<span>
 <a href="http://www.spoilertv.com/feeds/posts/default/-/SpoilerTV%20Article">
 Loading...
 </a>
@@ -4352,41 +4736,28 @@ Loading...
 </div>
 </div><div class="widget HTML" id="HTML6">
 <div class="widget-content">
-<br><script type="text/javascript"><!--
-google_ad_client = "ca-pub-9058040792152164";
-google_ad_host = "pub-1556223355139109";
-/* SpoilerTV - Sidebar Large - 300&#42;250 */
-google_ad_slot = "4357505060";
-google_ad_width = 300;
-google_ad_height = 250;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-9058040792152164" data-ad-slot="8051594280"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
-</div><div class="widget Feed" id="Feed1">
+</div><div class="widget Feed" id="Feed5">
 <h2>
-Latest from Fan Showcase
+Recent Reviews
 </h2>
-<div class="widget-content" id="Feed1_feedItemListDisplay">
-<span style="filter: alpha(25); opacity: 0.25;">
-<a href="http://www.fanshowcase.com/feeds/posts/default">
+<div class="widget-content" id="Feed5_feedItemListDisplay">
+<span>
+<a href="http://www.spoilertv.com/feeds/posts/default/-/Reviews">
 Loading...
 </a>
 </span>
 </div>
 </div><div class="widget HTML" id="HTML10">
 <div class="widget-content">
-<br><script type="text/javascript"><!--
-google_ad_client = "ca-pub-9058040792152164";
-google_ad_host = "pub-1556223355139109";
-/* SpoilerTV - Sidebar Large - 336&#42;280 */
-google_ad_slot = "8051594280";
-google_ad_width = 336;
-google_ad_height = 280;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<br>
+<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-9058040792152164" data-ad-slot="8051594280"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
 </div><div class="widget PopularPosts" id="PopularPosts1">
@@ -4396,43 +4767,23 @@ Popular Posts (Last 7 days)
 <div class="widget-content popular-posts">
 <ul>
 <li>
-<a href="http://www.spoilertv.com/2013/06/usd-poll-which-of-these-female-law.html">
-USD POLL : Which of these female law officers is your favorite?
+<a href="http://www.spoilertv.com/2013/11/usd-poll-what-is-your-favorite-spn-mm.html">
+USD POLL : What is your favorite SPN m/m ship?
 </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/2013/05/game-of-thrones-season-4-casting-rumors.html">
-Game of Thrones - Season 4 - Casting Rumors &amp; Speculation [UPDATED 05/28]
+<a href="http://www.spoilertv.com/2013/12/the-mentalist-episode-610-green-thumb.html">
+The Mentalist - Episode 6.10 - Green Thumb - Promo
 </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/2013/05/hawaii-five-0-season-4-teaser-spoilers.html">
-Hawaii Five-0 - Season 4 - Teaser Spoilers Part 1 - Who's Behind the Door and Will Kono Return?
+<a href="http://www.spoilertv.com/2013/12/the-walking-dead-episode-409-promo-and.html">
+The Walking Dead - Episode 4.09 - Promo and Sneak Peek
 </a>
 </li>
 <li>
-<a href="http://www.spoilertv.com/2013/06/supernatural-season-9-speculation-on-sam.html">
-Supernatural - Season 9 - Speculation on Sam
-</a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/2013/06/latest-from-ew-various-shows-13th-june.html">
-Latest from EW - Various Shows - 13th June 2013
-</a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/2013/06/latest-from-tv-guide-various-shows-18th.html">
-Latest from TV Guide - Various Shows - 18th June 2013
-</a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/2013/06/cbs-2013-fall-tv-season-premiere-dates.html">
-CBS 2013-14 Season Premiere Dates *Updated with Press Release*
-</a>
-</li>
-<li>
-<a href="http://www.spoilertv.com/2013/06/greys-anatomy-season-1-4-cast-get.html">
-Grey's Anatomy - Season 10 - 4 Cast get promoted to Series Regulars
+<a href="http://www.spoilertv.com/2013/11/latest-from-eonline-various-shows-27th.html">
+Latest from E!Online - Various Shows - 27th November 2013
 </a>
 </li>
 </ul>
@@ -4442,7 +4793,7 @@ Grey's Anatomy - Season 10 - 4 Cast get promoted to Series Regulars
 Recent Comments
 </h2>
 <div class="widget-content">
-<div id="recentcomments" class="dsq-widget" style="font-size: 125% !important;"><script type="text/javascript" src="http://spoilertvhome.disqus.com/recent_comments_widget.js?num_items=4&amp;hide_avatars=0&amp;avatar_size=24&amp;excerpt_length=120"></script></div>
+<div id="recentcomments" class="dsq-widget" style="font-size: 125% !important;"><script type="text/javascript" src="http://spoilertvhome.disqus.com/recent_comments_widget.js?num_items=4&amp;hide_avatars=0&amp;avatar_size=48&amp;excerpt_length=120"></script></div>
 <div style="clear: left; margin: 0px 0px 0px 0px; padding: 0px;"></div>
 </div>
 </div><div class="widget Feed" id="Feed2">
@@ -4450,7 +4801,7 @@ Recent Comments
 Recent User Submitted Polls
 </h2>
 <div class="widget-content" id="Feed2_feedItemListDisplay">
-<span style="filter: alpha(25); opacity: 0.25;">
+<span>
 <a href="http://www.spoilertv.com/feeds/posts/default/-/USDP">
 Loading...
 </a>
@@ -4461,24 +4812,22 @@ Loading...
 Supporters
 </h2>
 <div class="widget-content">
-<div style="width: 95%;padding-left: 5px;">Here are some of the sites and friends that support SpoilerTV
-<br>
+<div class="supporters">
+<a rel="nofollow" href="http://www.confluentforms.com">confluentforms</a> | 
 <a rel="nofollow" href="http://anniepage.co.uk/">Annie Page</a> | 
 <a rel="nofollow" href="http://vancityfilming.com/">Vancouver's #1 set report and location photos</a> | 
-<a rel="nofollow" href="http://www.spoilertv.pl">SpoilerTV.PL</a> | <a rel="nofollow" href="http://essentii.co.uk/">Essentii</a> |  <a rel="nofollow" href="http://darkufo.blogspot.com">DarkUFO</a> | <a href="http://www.collegeinfo.com/art-design/film-cinema-studies-schools.aspx">List of Film &amp; Cinema Studies Schools</a> | <a rel="nofollow" href="http://clearlyessential.co.uk/">Clearly Essential</a> | <a href="http://www.comcastpromo.com/">Comcast Promo</a> | <a href="http://www.seriesMonitor.com">SeriesMonitor</a> | <a href="http://www.tmart.com/">Free Shipping</a> | <a href="http://www.isatellitetv.net/compare-directv/direct-tv-vs-dish">Directv vs Dish Network</a> | <a rel="nofollow" href="http://www.fractured-simplicity.net/">Fractured Simplicity</a> | <a href="http://www.efox-shop.com/brautkleider_hochzeitskleider/bon_brix_brautkleider.html">Bonprix</a> | <a rel="nofollow" href="http://www.secretvent.com/">SecretVent</a> | <a rel="nofollow" href="http://www.tech.spoilertv.com/">The Tech Zone - Blogger Hints and Tips</a> 
+<a rel="nofollow" href="http://www.spoilertv.pl">SpoilerTV.PL</a> | <a rel="nofollow" href="http://essentii.co.uk/">Essentii</a> |  <a rel="nofollow" href="http://darkufo.blogspot.com">DarkUFO</a> | <a href="http://www.collegeinfo.com/art-design/film-cinema-studies-schools.aspx">List of Film &amp; Cinema Studies Schools</a> | <a rel="nofollow" href="http://clearlyessential.co.uk/">Clearly Essential</a> | <a href="http://www.seriesMonitor.com">SeriesMonitor</a> | <a rel="nofollow" href="http://www.fractured-simplicity.net/">Fractured Simplicity</a> | <a rel="nofollow" href="http://www.secretvent.com/">SecretVent</a> | <a rel="nofollow" href="http://www.tech.spoilertv.com/">The Tech Zone</a> | <a href="https://plus.google.com/108253957613335801346?rel=author">DarkUFO</a>
 <br><br>
 </div>
 </div>
 </div>
 </div>
 </div>
-<!-- spacer for skins that want sidebar and main to be the same height-->
 <div class="clear">
               &nbsp;
             </div>
 </div>
-<!-- end content-wrapper -->
-<div id="menu" style="margin-bottom: 20px;">
+<div id="menu" style="margin-bottom: 5px; padding-top: 5px; height: 40px;">
 <li class="menu_right">
 <a href="http://www.spoilertv.com/p/privacy-policy.html">
                   Privacy Policy
@@ -4511,7 +4860,6 @@ Supporters
 </li>
 </div>
 </div>
-<!-- /body_container -->
 <script type="text/javascript">
             //<![CDATA[ 
             //Style Sheet Switcher version 1.1 Oct 10th, 2006
@@ -4543,7 +4891,7 @@ Supporters
                   altsheets.push(cacheobj) //store reference to alt stylesheets inside array
                   if(cacheobj.getAttribute("title") == title) //enable alternate stylesheet with title that matches parameter
                     cacheobj.disabled = false //enable chosen style sheet
-                }
+                    }
               }
               if (typeof randomize!="undefined"){ //if second paramter is defined, randomly enable an alt style sheet (includes non)
                 var randomnumber=Math.floor(Math.random()*altsheets.length)
@@ -4585,14 +4933,14 @@ Supporters
                     else
                       setStylesheet(getCookie("mysheet_s")) //just activate random alt stylesheet stored in cookie
                       }
-              else if (randomsetting.search(/^[1-9]+ days/i)!=-1){ //if "x days" setting
-                if (getCookie("mysheet_r")==null || parseInt(getCookie("mysheet_r_days"))!=parseInt(randomsetting)){ //if "mysheet_r" cookie is empty or admin has changed number of days to persist in "x days" variable
-                  setCookie("mysheet_r", setStylesheet("", "random"), parseInt(randomsetting)) //activate random alt stylesheet while remembering its "title" value
-                  setCookie("mysheet_r_days", randomsetting, parseInt(randomsetting)) //Also remember the number of days to persist per the "x days" variable
-                }
-                else
-                  setStylesheet(getCookie("mysheet_r")) //just activate random alt stylesheet stored in cookie
-                  } 
+                  else if (randomsetting.search(/^[1-9]+ days/i)!=-1){ //if "x days" setting
+                    if (getCookie("mysheet_r")==null || parseInt(getCookie("mysheet_r_days"))!=parseInt(randomsetting)){ //if "mysheet_r" cookie is empty or admin has changed number of days to persist in "x days" variable
+                      setCookie("mysheet_r", setStylesheet("", "random"), parseInt(randomsetting)) //activate random alt stylesheet while remembering its "title" value
+                      setCookie("mysheet_r_days", randomsetting, parseInt(randomsetting)) //Also remember the number of days to persist per the "x days" variable
+                    }
+                    else
+                      setStylesheet(getCookie("mysheet_r")) //just activate random alt stylesheet stored in cookie
+                      } 
             }
             //]]>
 </script>
@@ -4631,8 +4979,6 @@ Supporters
               Disqus
             </span>
 </a>
-<!-- -disqus -->
-<!-- Start of StatCounter Code for Blogger / Blogspot -->
 <script type="text/javascript">
           //<![CDATA[
           var sc_project=2312066; 
@@ -4648,8 +4994,6 @@ Supporters
 </a>
 </div>
 </noscript>
-<!-- End of StatCounter Code for Blogger / Blogspot -->
-<!-- Quantcast Tag -->
 <script type="text/javascript">
           var _qevents = _qevents || [];
           (function() {
@@ -4669,25 +5013,40 @@ Supporters
 <img alt='Quantcast' border='0' height='1' src='//pixel.quantserve.com/pixel/p-c3WjFS05sEe9U.gif' width='1'/>
 </div>
 </noscript>
-<!-- End Quantcast tag -->
 </div>
 </div>
 <script type="text/javascript">
+        if(document.location.protocol=='http:'){
+           var Tynt=Tynt||[];Tynt.push('bSPdTq0t4r3Pk4ab7jrHcU');Tynt.i={"ap":"Taken from: SpoilerTV","aw":"10","w":"SpoilerTV"};
+           (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+                                                    }
+      </script>
+<script type="text/javascript">
+var disqus_shortname = 'spoilertvhome'; // required: replace example with your forum shortname
+
+(function () {
+var s = document.createElement('script'); s.async = true;
+s.type = 'text/javascript';
+s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+<script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
-</script><script type="text/javascript" src="//www.blogger.com/static/v1/widgets/3768658763-widgets.js"></script>
+</script><script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/911077727-widgets.js"></script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script type="text/javascript">
 if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '29964715';BLOG_attachCsiOnload('static_page_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d29964715','//www.spoilertv.com/p/privacy-policy.html','29964715');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '29964715', 'bloggerUrl': 'http://www.blogger.com', 'title': 'Spoiler TV', 'pageType': 'static_page', 'url': 'http://www.spoilertv.com/p/privacy-policy.html', 'canonicalUrl': 'http://www.spoilertv.com/p/privacy-policy.html', 'canonicalHomepageUrl': 'http://www.spoilertv.com/', 'homepageUrl': 'http://www.spoilertv.com/', 'blogspotFaviconUrl': 'http://www.spoilertv.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': 'SpoilerTV Privacy Policy', 'pageTitle': 'Spoiler TV: SpoilerTV Privacy Policy', 'encoding': 'UTF-8', 'locale': 'en_GB', 'localeUnderscoreDelimited': 'en_gb', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Spoiler TV - Atom\42 href\75\42http://www.spoilertv.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Spoiler TV - RSS\42 href\75\42http://www.spoilertv.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Spoiler TV - Atom\42 href\75\42http://www.blogger.com/feeds/29964715/posts/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'imageSrcTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,e\75\42jstiming\42,g\75\42tick\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){c\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[c,d]};this[g](\42start\42,null,a)}var a\75new d;b.jstiming\75{Timer:d,load:a};if(b.performance\46\46b.performance.timing){var a\75b.performance.timing,c\75b[e].load,f\75a.navigationStart,a\75a.responseStart;0\74f\46\46a\76\75f\46\46(c[g](\42_wtsrt\42,void 0,f),c[g](\42wtsrt_\42,\42_wtsrt\42,a),c[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,b.chrome\46\46b.chrome.csi\46\46(a\75Math.floor(b.chrome.csi().pageT),c\46\0460\74f\46\46(c[g](\42_tbnd\42,void 0,b.chrome.csi().startE),\nc[g](\42tbnd_\42,\42_tbnd\42,f))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,c\46\0460\74f\46\46(c[g](\42_tbnd\42,void 0,b.external.startE),c[g](\42tbnd_\42,\42_tbnd\42,f))),a\46\46(b[e].pt\75a)}catch(l){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[e].load[g](\42aft\42)};var h\75!1;function k(){h||(h\75!0,b[e].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,k,!1):b.attachEvent(\42onscroll\42,k);\n })();\74/script\076', 'mobileHeadScript': '', 'adsenseClientId': 'pub-9058040792152164', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/15de8d1bfc9ff1d1', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'skin', 'data': {'vars': {}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '/?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '/?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '/?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '/?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '/?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '/?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '/?view\75timeslide'}}}]);
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '29964715', 'bloggerUrl': 'http://www.blogger.com', 'title': 'Spoiler TV', 'pageType': 'static_page', 'url': 'http://www.spoilertv.com/p/privacy-policy.html', 'canonicalUrl': 'http://www.spoilertv.com/p/privacy-policy.html', 'canonicalHomepageUrl': 'http://www.spoilertv.com/', 'homepageUrl': 'http://www.spoilertv.com/', 'blogspotFaviconUrl': 'http://www.spoilertv.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': 'SpoilerTV Privacy Policy', 'pageTitle': 'Spoiler TV: SpoilerTV Privacy Policy', 'encoding': 'UTF-8', 'locale': 'en_GB', 'localeUnderscoreDelimited': 'en_gb', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Spoiler TV - Atom\42 href\75\42http://www.spoilertv.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Spoiler TV - RSS\42 href\75\42http://www.spoilertv.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Spoiler TV - Atom\42 href\75\42http://www.blogger.com/feeds/29964715/posts/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'imageSrcTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,f\75\42jstiming\42,g\75\42tick\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){var e\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[e,d];if(void 0\75\75c)try{b.console.timeStamp(\42CSI/\42+a)}catch(h){}};this[g](\42start\42,null,a)}var a;b.performance\46\46(a\75b.performance.timing);var m\75a?new d(a.responseStart):new d;b.jstiming\75{Timer:d,load:m};if(a){var c\75a.navigationStart,h\75a.responseStart;0\74c\46\46h\76\75c\46\46(b[f].srt\75h-c)}if(a){var e\75b[f].load;0\74c\46\46h\76\75c\46\46(e[g](\42_wtsrt\42,void 0,c),e[g](\42wtsrt_\42,\42_wtsrt\42,h),e[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,\nb.chrome\46\46b.chrome.csi\46\46(a\75Math.floor(b.chrome.csi().pageT),e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b.chrome.csi().startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b.external.startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),a\46\46(b[f].pt\75a)}catch(n){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[f].load[g](\42aft\42)};var k\75!1;function l(){k||(k\75!0,b[f].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,l,!1):b.attachEvent(\42onscroll\42,l);\n })();\74/script\076', 'mobileHeadScript': '', 'adsenseClientId': 'pub-9058040792152164', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/d6f37bb30c327165', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'testHtml5CssSrc': 'https://www.blogger.com/static/v1/widgets/2412321170-css_bundle_html5.css', 'sf': 'n'}}, {'name': 'skin', 'data': {'vars': {}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '/?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '/?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '/?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '/?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '/?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '/?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '/?view\75timeslide'}}}]);
 _WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label2', 'newsidebar', null, document.getElementById('Label2'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML26', 'newsidebar', null, document.getElementById('HTML26'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_FeedView', new _WidgetInfo('Feed3', 'newsidebar', null, document.getElementById('Feed3'), {'title': 'Latest Key Article Updates', 'showItemDate': false, 'showItemAuthor': false, 'feedUrl': 'http://www.spoilertv.com/feeds/posts/default/-/SpoilerTV%20Article', 'numItemsShow': 5, 'loadingMsg': 'Loading...', 'openLinksInNewWindow': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FeedView', new _WidgetInfo('Feed3', 'newsidebar', null, document.getElementById('Feed3'), {'title': 'Latest Key Article Updates', 'showItemDate': false, 'showItemAuthor': false, 'feedUrl': 'http://www.spoilertv.com/feeds/posts/default/-/SpoilerTV%20Article', 'numItemsShow': 4, 'loadingMsg': 'Loading...', 'openLinksInNewWindow': false}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'newsidebar', null, document.getElementById('HTML6'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_FeedView', new _WidgetInfo('Feed1', 'newsidebar', null, document.getElementById('Feed1'), {'title': 'Latest from Fan Showcase', 'showItemDate': false, 'showItemAuthor': false, 'feedUrl': 'http://www.fanshowcase.com/feeds/posts/default', 'numItemsShow': 5, 'loadingMsg': 'Loading...', 'openLinksInNewWindow': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FeedView', new _WidgetInfo('Feed5', 'newsidebar', null, document.getElementById('Feed5'), {'title': 'Recent Reviews', 'showItemDate': false, 'showItemAuthor': true, 'feedUrl': 'http://www.spoilertv.com/feeds/posts/default/-/Reviews', 'numItemsShow': 5, 'loadingMsg': 'Loading...', 'openLinksInNewWindow': true}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML10', 'newsidebar', null, document.getElementById('HTML10'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'newsidebar', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML33', 'newsidebar', null, document.getElementById('HTML33'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_FeedView', new _WidgetInfo('Feed2', 'newsidebar', null, document.getElementById('Feed2'), {'title': 'Recent User Submitted Polls', 'showItemDate': false, 'showItemAuthor': false, 'feedUrl': 'http://www.spoilertv.com/feeds/posts/default/-/USDP', 'numItemsShow': 5, 'loadingMsg': 'Loading...', 'openLinksInNewWindow': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FeedView', new _WidgetInfo('Feed2', 'newsidebar', null, document.getElementById('Feed2'), {'title': 'Recent User Submitted Polls', 'showItemDate': false, 'showItemAuthor': false, 'feedUrl': 'http://www.spoilertv.com/feeds/posts/default/-/USDP', 'numItemsShow': 4, 'loadingMsg': 'Loading...', 'openLinksInNewWindow': true}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML13', 'newsidebar', null, document.getElementById('HTML13'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense1', 'newsidebar', null, document.getElementById('AdSense1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label3', 'main', null, document.getElementById('Label3'), {}, 'displayModeFull'));
@@ -4700,7 +5059,7 @@ _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'main', nul
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'main', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts2', 'main', null, document.getElementById('PopularPosts2'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML16', 'main', null, document.getElementById('HTML16'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'null', null, document.getElementById('PageList1'), {'title': 'Pages', 'links': [{'href': 'http://www.spoilertv.com/', 'title': 'Home', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/banner-gallery.html', 'title': 'Banner Gallery', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/video-players.html', 'title': 'Video Players', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/meet-team.html', 'title': 'The Team', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/program-listings.html', 'title': 'Today\47s Primetime TV Listings', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/popular-posts.html', 'title': 'What\47s HOT!', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/about.html', 'title': 'About', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/rss-and-twitter-feeds.html', 'title': 'Twitter, Facebook and RSS', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/support-spoilertv.html', 'title': 'Support SpoilerTV', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/getting-most-from-spoilertv.html', 'title': 'Help', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/full-activities.html', 'title': 'Full Activities', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/privacy-policy.html', 'title': 'SpoilerTV Privacy Policy', 'isCurrentPage': true}, {'href': 'http://www.spoilertv.com/p/release-notes.html', 'title': 'Release Notes', 'isCurrentPage': false}], 'mobile': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'null', null, document.getElementById('PageList1'), {'title': 'Pages', 'links': [{'href': 'http://www.spoilertv.com/', 'title': 'Home', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/banner-gallery.html', 'title': 'Banner Gallery', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/video-players.html', 'title': 'Video Players', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/meet-team.html', 'title': 'The Team', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/program-listings.html', 'title': 'Today\47s Primetime TV Listings', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/popular-posts.html', 'title': 'What\47s HOT!', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/about.html', 'title': 'About', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/rss-and-twitter-feeds.html', 'title': 'Twitter, Facebook and RSS', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/support-spoilertv.html', 'title': 'Support SpoilerTV', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/getting-most-from-spoilertv.html', 'title': 'Help', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/full-activities.html', 'title': 'Full Activities', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/privacy-policy.html', 'title': 'SpoilerTV Privacy Policy', 'isCurrentPage': true}, {'href': 'http://www.spoilertv.com/p/release-notes.html', 'title': 'Release Notes', 'isCurrentPage': false}, {'href': 'http://www.spoilertv.com/p/badgeville-stats.html', 'title': 'MGID Test', 'isCurrentPage': false}], 'mobile': false}, 'displayModeFull'));
 </script>
 
 </body></html>
