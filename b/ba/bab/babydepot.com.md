@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babydepot.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508062750id_/http%3A//www.burlingtoncoatfactory.com/Others/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babydepot.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203093353id_/http%3A//www.burlingtoncoatfactory.com/Others/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
