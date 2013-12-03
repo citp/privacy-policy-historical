@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515091135id_/http%3A//www.sailpoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204002414id_/http%3A//www.sailpoint.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | SailPoint
+
+## Privacy Policy
 
 At SailPoint Technologies, Inc. ("SailPoint"), we are committed to respecting your Privacy. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner and to protect and safely manage any personally identifiable information ("Personal Information") that you share with us.
 
