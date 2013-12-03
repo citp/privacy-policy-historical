@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526185830id_/http%3A//www.rnib.org.uk/aboutus/aboutthiswebsite/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203084312id_/http%3A//www.rnib.org.uk/aboutus/aboutthiswebsite/privacy) for the most accurate reproduction.*
 
 # Privacy policy - RNIB
 
@@ -37,17 +37,23 @@ Unfortunately, no data transmission over the Internet is 100 per cent secure. As
 
 ##  Cookies 
 
-RNIB uses "cookies" to give you a better website. For more information, read about [cookies on RNIB's website](https://web.archive.org/aboutus/aboutthiswebsite/privacy/Pages/cookies.aspx). 
+RNIB uses "cookies" to give you a better website. For more information, read about [cookies on RNIB's website](http://edit.rnibcommercestage.contentandcode.com/aboutus/aboutthiswebsite/privacy/Pages/cookies.aspx). 
 
 ##  Privacy and our discussion boards 
 
 Our discussion boards are moderated for the first three posts of a registered user. After this time, they are subject to post moderation. We do not display the full names of individuals nor addresses. The posting of personal information in a discussion board means your information is publicly accessible. Such information can be viewed online and collected by third parties. We are not responsible for the use of information by such third parties. We strongly recommend all registered users to keep their postings anonymous. We also recommend you avoid sharing any personal information that can be used to identify you (such as your name, age, address, name of employer). 
 
-Further information on policies applying to discussion boards can be found in the [Registered users terms and conditions](https://web.archive.org/aboutus/aboutthiswebsite/legal/Pages/registeredusers.aspx). 
+Further information on policies applying to discussion boards can be found in the [Registered users terms and conditions](http://edit.rnibcommercestage.contentandcode.com/aboutus/aboutthiswebsite/legal/Pages/registeredusers.aspx). 
+
+##  Enewsletters 
+
+You can unsubscribe from RNIB enewsletters at any time. Just click on the 'unsubscribe' link in the email. It appears on every enewsletter we send out. 
 
 ##  Accessing and updating your personal information held by RNIB 
 
-You can ask us what information we hold about you by contacting us. Please keep your information up to date by letting us know any changes. 
+You can ask us what information we hold about you by contacting us. Please note that we may charge a fee of £10 to cover our admin costs. 
+
+Please keep your information up to date by letting us know any changes. 
 
 Royal National Institute of Blind People   
 105 Judd Street   
