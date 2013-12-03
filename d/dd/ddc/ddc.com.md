@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddc.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115233959id_/http%3A//www.ddc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddc.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203012922id_/http%3A//ddc.com/privacy.php) for the most accurate reproduction.*
 
 # Domain Development Corp
 
