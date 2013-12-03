@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117025455id_/http%3A//www.incrediblecharts.com/legal_vizhon/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203084459id_/http%3A//www.incrediblecharts.com/legal_vizhon/privacy_policy.php) for the most accurate reproduction.*
 
 # Incredible Charts: Privacy Policy
 
