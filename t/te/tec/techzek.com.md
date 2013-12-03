@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techzek.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503070039id_/http%3A//www.techzek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techzek.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203035701id_/http%3A//www.techzek.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Techzek
+# Privacy Policy | Techzek | Techzek
 
 **Your Privacy**
 
@@ -22,4 +22,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of techzek.com then you may contact us at info@techzek.com
+If you have any questions regarding the privacy policy of techzek.com then you may contact us at admin@techzek.com
