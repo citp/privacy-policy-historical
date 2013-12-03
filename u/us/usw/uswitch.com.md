@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612191801id_/http%3A//www.uswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203010740id_/http%3A//www.uswitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-The uSwitch privacy policy forms part of uSwitch's terms and conditions. 
+##  The uSwitch privacy policy forms part of uSwitch's terms and conditions. 
 
 This privacy policy forms part of uSwitch.com's terms and conditions. Once you have provided your personal details on this website you will be deemed to have read and accepted this privacy policy. 
 
 uSwitch.com is committed to protecting your privacy. We use the information that we collect about you to process your switch and to inform you about other services we provide. 
 
-The site is operated by uSwitch Limited; a company incorporated in England and Wales (registration number 03612689), the registered office of which is Floor 2, Centro 3, 19 Mandela Street, London NW1 0DU ("uSwitch.com"). uSwitch.com complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information. 
+The site is operated by uSwitch Limited; a company incorporated in England and Wales (registration number 03612689), the registered office of which is Notcutt House, 36 Southwark Bridge Road, London, SE1 9EU ("uSwitch.com"). uSwitch.com complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information. 
 
 The motor and home insurance comparison service is provided by Quotezone, a trading style of Seopa Ltd. Seopa Ltd is authorised and regulated by the Financial Conduct Authority (FCA), Registration number 313860 with the registered address at Seopa Ltd, Blackstaff Studios, 8-10 Amelia Street, Belfast, BT2 7GS. Seopa Ltd is a data controller and complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information. 
 
@@ -92,7 +92,12 @@ You can contact us to ask whether we are keeping personal data about you, by sen
 
 If you have any queries relating to your personal data please contact us at: 
 
-Data Protection Officer uSwitch.com Floor 2, Centro 3 19 Mandela Street London NW1 0DU 
+Data Protection Officer  
+uSwitch Limited  
+Notcutt House  
+36 Southwark Bridge Road  
+London  
+SE1 9EU 
 
 Alternatively, you can call us on 0800 404 7961.
 
