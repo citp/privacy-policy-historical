@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarmady.net privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513054917id_/http%3A//www.sarmady.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarmady.net privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203034023id_/http%3A//www.sarmady.net/privacy.php) for the most accurate reproduction.*
 
 # Sarmady - Privacy Policy
 
@@ -48,5 +48,5 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 How to contact us
 
-Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20130513054917id_/http%3A//www.sarmady.net/contactus.html).  
+Should you have other questions or concerns about these privacy policies, please [contact us](https://web.archive.org/web/20131203034023id_/http%3A//www.sarmady.net/contactus.html).  
 
