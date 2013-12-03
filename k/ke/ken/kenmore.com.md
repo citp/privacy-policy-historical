@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kenmore.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604235648id_/http%3A//www.kenmore.com/privacypolicy/nb-100000000410504%3FadCell%3DWF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenmore.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203184610id_/http%3A//www.kenmore.com/privacypolicy/nb-100000000410504%3FadCell%3DWF) for the most accurate reproduction.*
 
 # Kenmore
 
 ### privacy policy
 
-**Effective October 26, 2011:**
+**Effective June 28, 2013:**
 
   * What Type of Information Do We Collect?
   * What Information Do We Share and with Whom?
@@ -59,7 +59,7 @@ Back to top
 
 #### How Do We Handle Personally Identifiable Information Collected on Children?
 
-Please click [here](https://web.archive.org/childrensprivacypolicy/nb-100000000410505?adCell=W4) to read our Children’s Online Privacy Policy for information on our general policy regarding the collection of personally identifiable information on children under 13 years of age. This privacy policy addresses our general policy regarding the following:
+Each Sears Holding’s family of Sites that may be directed to children under 13 will contain a specific version of our Children’s Online Privacy Policy that will address specifically each of the points listed below for that Site.
 
   * Collection of children’s personal information
   * Use of children’s personal information
@@ -67,8 +67,6 @@ Please click [here](https://web.archive.org/childrensprivacypolicy/nb-1000000004
   * The method of obtaining access to the child’s information
 
 
-
-Each Sears Holding’s family of Sites that may be directed to children under 13 will contain a specific version of our Children’s Online Privacy Policy that will address specifically each of the points listed above for that Site.
 
 Back to top
 
@@ -86,7 +84,7 @@ This Site may carry advertisements from other companies. Some of these advertise
 
 **Other Web Sites**
 
-We partner with third-party service providers to serve ads on our behalf across the Internet. Some of these advertisements are also personalized for you based on what we know about you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf. If you do not wish to receive personalized advertising from us on other web sites, please visit the Network Advertising Initiative Opt-Out page [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20130604235648id_/http%3A//www.kenmore.com/privacypolicy/www.networkadvertising.org/managing/opt_out.asp)
+We partner with third-party service providers to serve ads on our behalf across the Internet. Some of these advertisements are also personalized for you based on what we know about you. Please note that we do not share any information that identifies you personally with the third party service providers who serve ads on our behalf. If you do not wish to receive personalized advertising from us on other web sites, please visit the Network Advertising Initiative Opt-Out page [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20131203184610id_/http%3A//www.kenmore.com/privacypolicy/www.networkadvertising.org/managing/opt_out.asp)
 
 The Network Advertising Initiative offers useful information about internet advertising companies, including information about how to opt-out of interest-based advertising by their members. See <http://www.networkadvertising.org/participating> for the list of NAI members and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page. You may also visit [http://www.aboutads.info/consumers/](http://www.networkadvertising.org/managing/opt_out.asp) to learn about online behavioral advertising and how to opt-out from online behavioral ads served by some or all participating companies.
 
