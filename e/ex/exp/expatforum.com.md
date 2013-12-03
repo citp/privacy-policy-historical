@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the expatforum.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511020613id_/http%3A//www.expatforum.com/expats/faq.php%3Ffaq%3Dprivacytext%23faq_privacytextdesc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatforum.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203132438id_/http%3A//www.expatforum.com/expats/faq.php%3Ffaq%3Dprivacytext%23faq_privacytextdesc) for the most accurate reproduction.*
 
 # Expat Forum For People Moving Overseas And Living Abroad - FAQ: Privacy Policy
 
-MoveForward.com Limited ( **"we", "us" or "our"** ) is committed to protecting and respecting your privacy.
+ExpatForum.com ( **"we", "us" or "our"** ) is committed to protecting and respecting your privacy.
 
 This policy (together with our [terms of use](http://www.expatforum.com/expats/faq.php?faq=termsofuse#faq_termsofusedesc)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
-
-For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is MoveForward.com Limited whose registered office is at 26 York Street, London W1U 6PZ, registered with the Information Commissioner under Z1262812. 
 
 ###  INFORMATION WE MAY COLLECT FROM YOU
 
@@ -24,7 +22,7 @@ We may collect and process the following data about you:
 
   * Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access.
 
-Any improper collection or misuse of information provided on the Website is a violation of the expatforum Terms and conditions and should be reported to privacy@moveforward.com. 
+Any improper collection or misuse of information provided on the Website is a violation of the expatforum Terms and conditions and should be reported to privacy@verticalscope.com. 
 
 ### IP ADDRESSES AND COOKIES
 
@@ -70,7 +68,7 @@ We use information held about you in the following ways:
 
 
 We may also use your data to provide you with information about goods and services which may be of interest to you and we may contact you by email, provided you have given ticked a box on our registration form by way of consent.   
-If you no longer want to receive such information, please contact us at privacy@moveforward.com and we will unsubscribe you from these emails. 
+If you no longer want to receive such information, please contact us at privacy@verticalscope.com and we will unsubscribe you from these emails. 
 
 ### DISCLOSURE OF YOUR INFORMATION
 
@@ -82,9 +80,9 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.  
 
-  * If Moveforward.com Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.  
+  * If Expatforum.comor substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.  
 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www.expatforum.com/expats/faq.php?faq=termsofuse#faq_termsofusedesc) and other agreements; or to protect the rights, property, or safety of MoveForward.com Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www.expatforum.com/expats/faq.php?faq=termsofuse#faq_termsofusedesc) and other agreements; or to protect the rights, property, or safety of Expatforum.com, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -92,7 +90,7 @@ While we endeavour to ensure that the information we hold about you is accurate 
 
 ###  YOUR RIGHTS
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise the right at any time by contacting us at privacy@moveforward.com.  
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise the right at any time by contacting us at privacy@verticalscope.com.  
 Advertisements which appear on the Website may sometimes be delivered directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer we do not have access to or control of the cookies that may be placed by any third party advertisers. Third party advertisers have no access to your contact information stored on the Website unless you choose to share it with them. 
 
 This privacy policy covers our use of cookies but does not cover the use of cookies or other tracing technologies by any of its advertisers. 
@@ -115,5 +113,5 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ###  CONTACT
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to privacy@moveforward.com.  
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to privacy@verticalscope.com.  
 
