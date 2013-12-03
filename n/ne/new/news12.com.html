@@ -1,601 +1,150 @@
-<!--The following is the downloaded HTML source of the news12.com privacy policy that was archived on 2010-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100506144143id_/http%3A//www.news12.com/news/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the news12.com privacy policy that was archived on 2013-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131203054107id_/http%3A//www.news12.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-<link href="/css/news12-global.css" rel="stylesheet" type="text/css">
-<link href="/css/accordion-News.css" rel="stylesheet" type="text/css">
-<link href="/css/routing_flexcrollstyles.css" rel="stylesheet" type="text/css">
-<link href="/css/reports_flexcrollstyles.css" rel="stylesheet" type="text/css">
-<script language="JavaScript" type="text/javascript" src="/scripts/changeAccrodion.js"></script>
-<script language="javascript" type="text/javascript" src="/scripts/showHide.js"></script>
-<script language="JavaScript" type="text/javascript" src="/scripts/SpryAccordion.js"></script>
-<script language="JavaScript" type="text/javascript" src="/scripts/changeAccrodion.js"></script>
-<script language="JavaScript" type="text/javascript" src="/scripts/UTIL.js?clear=7"></script>
-
-<!--[if IE]>
-	<style>
-		#mainNav h1 		{ height:50px; padding:6px 8px 0px 6px;}
-		.chromemenu a span	{	padding: 6px 8px 4px 7px; }
-
-	</style>
-<![endif]-->
-<!--[if IE]>
-	<style>
-		.scrollerContainer  {position: relative; width: 712px;   height: 72px; overflow: hidden; border: 0px ridge white;float:left;}
-        .scrollerContent    {position: absolute; width:775px; left: 0px; top: 0px;}
-        .t1                 {width: 769px; height: auto; background-color: black;}									
-        .scrolldiv          {width: 765px; height: 100px; margin-bottom:-5px;}																		
-	</style>
-<![endif]-->
-
-<script type="text/javascript" src="/scripts/menu.js"></script>
-<script type="text/javascript" src="/scripts/vscroll.js"></script>
-<link href="/css/menu.css" rel="stylesheet" type="text/css">
-<script type="text/javascript">
-//SYNTAX: ddtabmenu.definemenu("tab_menu_id", integer OR "auto")
-ddtabmenu.definemenu("ddtabs5", -1) //initialize Tab Menu #5 with NO tabs selected (-1)
-
-function submitSearch(e)
-    {
-	 if(e.keyCode == 13 || e == -1)
-	    {
-		 storeSectionName("Search News 12");
-		 searchterm = document.getElementById('googlesearch').value.toLowerCase();
-	     if(searchterm.length == 0 || searchterm == "search news 12") { alert("Please type in a search term"); return; }
-		 if(searchterm.indexOf("closing") > -1 || searchterm.indexOf("school") > -1 || searchterm.indexOf("cancellations") > -1)
-		     {
-			  document.location = "/articleDetail.jsp?articleId=244420&position=1&news_type=news";
-			  return;
-		     }      
-	     search_type_sel = 0;
-	     if(eval(document.getElementById("Aframe") != null))
-		    {
-	    	 var searchquery = "http://66.54.17.28/search?sort=date:D:S:d1&filter=p&num=6&getfields=Description.Region.Date.product-image&q="+searchterm+""; 	 	    
-	    	 if(search_type_sel == 0) { searchquery += "&requiredfields=Type:article"; }
-	    	 document.getElementById("Aframe").src = searchquery;
-		    } else {
-		     if(search_type_sel == 0) { searchterm += "%26requiredfields%3DType:article"; }
-		     document.location = "/search?location="+searchterm+"";
-	    	}
-	    }
-	}
-
-function loadsitemap() { document.location = "/news/sitemap_"+region_name+"?news_type=Sitemap"; }   
-	
-</script>
-</head>
-
-<body onload="loadOther();loadModules();setSettings()">
- 
-<div id="centering" align="center">
-	<div id="outerShell">
-	<!-- header -->
-		<script>
-		document.write('<div id="header" style="background: url(/images/logos/'+region_name.toUpperCase()+'_Header_NEW.jpg) no-repeat;">');
-		</script><div id="header" style="background: url(/images/logos/LI_Header_NEW.jpg) no-repeat;">
-        <div id="logo"><a href="/index.jsp"><img src="/images/News12-spacer.gif" width="180px" height="64px" border="0" alt="News12"></a></div>
-        <div id="headerBanner"><iframe src="https://web.archive.org/web/20100426193211/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=728;sz=728x90;sec=article_detail;tile=1;ord=7087.868163722448?" style="width:728px;height:90px" frameborder="0" scrolling="no"></iframe></div>
-		<div id="topRow">
-		<div id="region" style="width:308px;">
-        <span style="color:#FFFFFF;float:left;vertical-align:top;"><script>if(readCookie("username")!=null){document.write("Welcome, "+readCookie('username')+"");}</script></span>	
-		<select style="float:right;margin-right:6px;padding-right:0px;" id="regionSelectBox" name="region" class="selectBox" onchange="goToRegion(this[this.selectedIndex].value);">
-		  <option value="1">Long Island</option>
-		  <option value="2">New Jersey</option>
-		  <option value="3">Connecticut</option>
-		  <option value="4">Westchester</option>
-		  <option value="5">The Bronx</option>
-		  <option value="6">Hudson Valley</option>
-		  <option value="7">Brooklyn</option>
-		</select>
-		<span style="float:right;">REGION:&nbsp;</span>	
-		</div>	
-		
-			<div id="search" style="width:auto"><input onkeydown="submitSearch(event)" class="field" name="search" id="googlesearch" type="text" value="Search News 12" size="12" onclick="this.value=''"> 
-			&nbsp;<input type="image" onclick="submitSearch('-1')" src="/images/form-btn-Go.gif" value="Submit" alt="Submit">
-			</div>
-			<div id="topNav"><span>
-			<script>
-			if(readCookie("username")==null)
-			  {
-			   document.write('<a href="/SignIn?reflogin=/Home.jsp">Sign In</a>');
-			  } else {
-			   document.write('<a href="/SignOut?weblogout=true">Sign Out</a>');	  
-			  }
-			</script><a href="/SignIn?reflogin=/Home.jsp">Sign In</a>
-			</span><span>
-			<script>
-			if(readCookie("username")==null)
-			  {
-			   document.write('<a href="/Register?action=create&internal=1">Sign Up</a>');
-			  } else {
-			   document.write('<a href="/Register?action=personalize&source=personalize">Personalize</a>');	  
-			  }
-			</script><a href="/Register?action=create&amp;internal=1">Sign Up</a>
-			</span><span><a href="javascript:loadContactUs()">Contact Us</a></span><span><a href="javascript:loadAboutUs()">About Us</a></span><span><a href="javascript:loadsitemap()">Sitemap</a></span></div>
-	   </div>
-	   </div>
-	  
-<!-- START TOP MAIN NAV -->	
-<!-- BEGIN LEVEL ONE TOP MENU -->
-<div id="mainNav" style="overflow:hidden">
-<div id="ddtabs5" class="chromemenu">
-	<ul>
-	<li><a href="javascript:loadMenuLink('news')" rel="cm1" id="M0"><span>News</span></a></li>
-	<li><a href="javascript:loadMenuLink('weather')" rel="cm2" id="M1"><span>Weather</span></a></li>
-    <li><a href="javascript:loadMenuLink('traffic')" rel="cm3" id="M2"><span>Traffic</span></a></li>
-    <li><a href="javascript:openAccordionTab(1)" rel="cm16" id="M15"><span>Features</span></a></li>
-    <li><a href="javascript:loadMenuLink('whatsgoingon')" rel="cm4" id="M3"><span>What's Going On</span></a></li>
-	<li id="mytown_nav" style="display:none"><a href="javascript:loadMenuLink('mytown')" rel="cm5" id="M4"><span>My Town</span></a></li>
-    <li><a onmouseover="updateSubNav()" href="javascript:loadMenuLink('iCam')" rel="cm6" id="M5"><span id="icam_nav">&nbsp;</span></a></li>
-    <li><a href="javascript:loadMenuLink('classifieds')" rel="cm7" id="M6"><span>Classifieds</span></a></li>
-	<li><a href="javascript:loadMenuLink('links')" rel="cm8" id="M7"><span>Numbers &amp; Links</span></a></li>
-	<li><a href="javascript:loadMenuLink('blogs')" rel="cm9" id="M8"><span>Blogs</span></a></li>
-	<li><a href="javascript:loadMenuLink('forum')" rel="cm10" id="M9"><span>Sound Off</span></a></li>
-	<li><a href="javascript:loadMenuLink('news12team')" rel="cm11" id="M10"><span>News 12 Team</span></a></li>
-	<li><a href="javascript:loadMenuLink('polls')" rel="cm12" id="M11"><span>Polls</span></a></li>
-	<li><a href="javascript:loadMenuLink('business')" rel="cm13" id="M12"><span>Business</span></a></li>
-	<li><a href="javascript:loadMenuLink('sports')" rel="cm14" id="M13"><span>Sports</span></a></li>
-	<!-- <li><a href="javascript:loadMenuLink('allvideo')" rel="cm15" id="M14"><span>Video</span></a></li> -->
-	</ul>
-</div>
-</div>
-<!-- END LEVEL ONE -->
-<!-- BEGIN LEVEL TWO MENU -->
-<div id="mainNavlevel2Shell" class="tabcontainer">
-		<div id="cm1" class="tabcontent">
-			<div class="mainNavlevel2">
-					<div class="floatLeft"><span><a href="javascript:openAccordionTab(0)" id="cm1_0" style="color: white; text-decoration: none;">Top Stories</a></span></div>
-					<div class="floatLeft"><span><a href="javascript:openAccordionTab(1)" id="cm1_1" style="color: white; text-decoration: none;">Features</a></span></div>
-					<div class="floatLeft"><span><a href="javascript:openAccordionTab(2)" id="cm1_2" style="color: white; text-decoration: none;">National/World News</a></span></div>
-					<div class="floatLeft"><span><a href="javascript:openAccordionTab(3)" id="cm1_3" style="color: white; text-decoration: none;">Sports</a></span></div>
-					<div class="floatLeft"><span><a href="javascript:openAccordionTab(4)" id="cm1_4" style="color: white; text-decoration: none;">Business</a></span></div>
-					<div class="floatLeft"><span><a href="javascript:loadMenuLink('entertainment')" id="cm1_5" style="color: white; text-decoration: none;">Entertainment</a></span></div>				
-					<div class="floatLeft"><span><a href="javascript:loadMenuLink('challenge')" id="cm1_6" style="color: white; text-decoration: none;">The Challenge</a></span></div>				
-			</div>
-</div>
-					
-		<div id="cm2" class="tabcontent">
-		   <div class="mainNavlevel2">
-		      <div class="floatLeft"><span><a href="javascript:loadWeather('weather_today_tonight')" id="cm3_0" style="color: white; text-decoration: none;">Today's Weather</a></span></div>
-		      <div class="floatLeft"><span><a href="javascript:loadWeather('weather_dualdoppler')" id="cm3_1" style="color: white; text-decoration: none;">Tri-State Radar</a></span></div>
-		      <div class="floatLeft"><span><a href="javascript:loadWeather('weather_video')" id="cm3_2" style="color: white; text-decoration: none;">Today's Video Broadcast</a></span></div>
-		      <div class="floatLeft"><span><a href="javascript:loadWeather('weather_locator')" id="cm3_3" style="color: white; text-decoration: none;">Hyper-Local Weather Stations</a></span></div>
-		      <div class="floatLeft"><span><a href="javascript:loadWeather('weather_update')" id="cm3_4" style="color: white; text-decoration: none;">News 12 Weather Update</a></span></div>	
-           </div>   
-        </div>
-		<div id="cm3" class="tabcontent">
-		   <div class="mainNavlevel2">
-		      <div class="floatLeft"><span><a href="javascript:loadTraffic('video')" id="cm4_0" style="color: white; text-decoration: none;">Live News 12 Traffic &amp; Weather</a></span></div>
-		      <div class="floatLeft"><span><a href="javascript:loadTraffic('cameras')" id="cm4_1" style="color: white; text-decoration: none;">Traffic Cameras</a></span></div>
-		      <div class="floatLeft"><span><a href="javascript:loadTraffic('maptuit')" id="cm4_2" style="color: white; text-decoration: none;">Traffic Tracker</a></span></div>
-		   </div>
-		</div>			
-		<div id="cm4" class="tabcontent"></div>
-		<div id="cm5" class="tabcontent"></div>
-		<div id="cm6" class="tabcontent">
-		<div class="mainNavlevel2">
-		<div class="floatLeft"><span><a href="javascript:loadiCam(0)" id="cm6_0" style="color: white; text-decoration: none;">News</a></span></div>
-		<div class="floatLeft"><span><a href="javascript:loadiCam(1)" id="cm6_1" style="color: white; text-decoration: none;">Arts &amp; Entertainment</a></span></div>
-		<div class="floatLeft"><span><a href="javascript:loadiCam(2)" id="cm6_2" style="color: white; text-decoration: none;">Schools</a></span></div>
-		<div class="floatLeft"><span><a href="javascript:loadiCam(3)" id="cm6_3" style="color: white; text-decoration: none;">Special Occasions</a></span></div>
-		<div class="floatLeft"><span><a href="javascript:loadiCam(4)" id="cm6_4" style="color: white; text-decoration: none;">Sports</a></span></div>
-		<div class="floatLeft"><span><a href="javascript:loadiCam(5)" id="cm6_6" style="color: white; text-decoration: none;">Weather</a></span></div>
-		<div class="floatLeft" style="display:none" id="mainnav_town"><span><a href="javascript:loadiCam(6)" id="cm6_7" style="color: white; text-decoration: none;">My Town</a></span></div>
-		<div class="floatLeft"><span><a href="javascript:loadiCam(7)" id="cm6_8" style="color: white; text-decoration: none;">Features</a></span></div>
-		<div class="floatLeft" style="display:none" id="mainnav_married"><span><a href="javascript:loadiCam(8)" id="cm6_9" style="color: white; text-decoration: none;">Just Married on Long Island</a></span></div>
-		</div>
-		</div>
-		<div id="cm7" class="tabcontent"></div>
-		<div id="cm8" class="tabcontent"></div>
-		<div id="cm9" class="tabcontent"></div>
-		<div id="cm10" class="tabcontent"></div>
-		<div id="cm11" class="tabcontent"></div>
-		<div id="cm12" class="tabcontent"></div>		
-		<div id="cm13" class="tabcontent">
-		  <div class="mainNavlevel2">
-		    <script>
-		    business_counter = -1;
-		    businessArr = new Array("News 12 Business News","Newsday Business News","Long Island Business News","AP Business News","Other Business News","Markets")
-		    for(x=0;x<businessArr.length;x++)
-		        {
-	             business_counter++;
-			     if(region_name != "LI" && x == 1) { x++; x++; }
-			     document.write('<div class="floatLeft"><span><a href=\'javascript:loadSportsBusiness("business",'+business_counter+')\' id="cm13_'+business_counter+'">'+businessArr[x]+'</a></span></div>');
-		        }
-	        </script><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("business",0)' id="cm13_0" style="color: white; text-decoration: none;">News 12 Business News</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("business",1)' id="cm13_1" style="color: white; text-decoration: none;">Newsday Business News</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("business",2)' id="cm13_2" style="color: white; text-decoration: none;">Long Island Business News</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("business",3)' id="cm13_3" style="color: white; text-decoration: none;">AP Business News</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("business",4)' id="cm13_4" style="color: white; text-decoration: none;">Other Business News</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("business",5)' id="cm13_5" style="color: white; text-decoration: none;">Markets</a></span></div>    
-	      </div>	
-	    </div>
-		<div id="cm14" class="tabcontent">
-		  <div class="mainNavlevel2">
-		  <script> 
-		  sports_counter = -1;
-		  sportsArr = new Array("News 12 Sports","MSG Varsity","Newsday Sports","AP Sports","Scores","Other Sports News")
-		  for(x=0;x<sportsArr.length;x++)
-		      {
-			   sports_counter++;
-			   if(region_name != "LI" && x == 2) { x++; }
-			   document.write('<div class="floatLeft"><span><a href=\'javascript:loadSportsBusiness("sports",'+sports_counter+')\' id="cm14_'+sports_counter+'">'+sportsArr[x]+'</a></span></div>');
-		      }
-	      </script><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("sports",0)' id="cm14_0" style="color: white; text-decoration: none;">News 12 Sports</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("sports",1)' id="cm14_1" style="color: white; text-decoration: none;">MSG Varsity</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("sports",2)' id="cm14_2" style="color: white; text-decoration: none;">Newsday Sports</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("sports",3)' id="cm14_3" style="color: white; text-decoration: none;">AP Sports</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("sports",4)' id="cm14_4" style="color: white; text-decoration: none;">Scores</a></span></div><div class="floatLeft"><span><a href='javascript:loadSportsBusiness("sports",5)' id="cm14_5" style="color: white; text-decoration: none;">Other Sports News</a></span></div>    
-	      </div>	
-		</div>
-		<!-- <div id="cm15" class="tabcontent"></div> -->
-	    <div id="cm16" class="tabcontent"></div>
-	    </div> 
-<!-- END LEVEL TWO -->
-<script>
-if(region_name != "LI") { document.getElementById("mainnav_town").style.display = "inline"; }
-
-var onSection = "";
-function loadMenuLink(item) 
-    {
-	onSection = item;
-	hitOmniture("Main Nav",item); 
-	if(eval(document.getElementById("Aframe") != null))
-		 { 
-		  var Aframe = document.getElementById("Aframe")
-		  var loadbanner = false;
-		  if(item == "whatsgoingon") { Aframe.src = "/whatsgoingon_frame.jsp"; loadbanner = true; }
-		  if(item == "news") { Aframe.src = "/news/topStories.jsp"; loadbanner = true; }
-		  if(item == "polls" || item == "poll_module") { Aframe.src = "/polls/polls.jsp?regionId="+regionId+""; loadbanner = true; }
-		  if(item == "allvideo") { Aframe.src = "/Video"; loadbanner = true; }
-		  if(item == "schoolclosings") { Aframe.src = "http://schoolclosings.news12.com/"+region_name+""; loadbanner = true; storeSectionName('School Closings'); }
-		  if(item == "sports" || item == "module_sports") { Aframe.src = "/sports/sports_main.jsp"; loadbanner = true; }
-		  if(item == "business" || item == "module_news_business") { Aframe.src = "/business/business_main.jsp?clear=1"; loadbanner = true; }
-		  if(item == "entertainment" || item == "ap_module_entertainment") { Aframe.src = "/ap_frame.jsp?location=/entertainment/now_showing.jsp&tab=/entertainment/header.jsp"; loadbanner = true; }
-		  if(item == "classifieds") { Aframe.src = "/classifieds/home.jsp"; loadbanner = true; }
-		  if(loadbanner == true) { loadBanners(); }
-		 } 
-	 if(eval(document.getElementById("Aframe") == null))
-	     {
-		  if(item == "whatsgoingon") { document.location = "/index.jsp?location=whatsgoingon_frame.jsp"; }
-		  if(item == "news") { document.location = "/index.jsp"; }
-		  if(item == "polls" || item == "poll_module") { document.location ="/index.jsp?location=/polls/polls.jsp%3FregionId%3D"+regionId+""; }
-	      if(item == "allvideo") { document.location = "/index.jsp?location=/Video"; }
-	       if(item == "schoolclosings") { document.location = "/closings.jsp?location=school_closings.jsp%3FregionId%3D"+regionId+""; }	     
-	      if(item == "sports" || item == "module_sports") { document.location = "/index.jsp?location=/sports/sports_main.jsp"; }
-	      if(item == "business" || item == "module_news_business") { document.location = "/index.jsp?location=/business/business_main.jsp?clear=1"; }
-	      if(item == "entertainment" || item == "ap_module_entertainment") { document.location = "/index.jsp?location=entertainment"; }
-	      if(item == "classifieds") { document.location = "/index.jsp?location=/classifieds/home.jsp"; }
-	     }  
-	 
-	 if(item == "traffic") { document.location = "/wide_frame.jsp?filename=/traffic/traffic_frame.jsp%3Fsection=video"; }
-	 if(item == "blogs") { document.location = "/blogs.jsp?region_name="+blogsArr[regionId]+""; }
-	 if(item == "forum") { document.location = "/soundoff.jsp?Board="+forumArr[regionId]+""; }
-	 if(item == "iCam") { loadMainiCam(); }
-	 if(item == "mytown" || item == "topix") { document.location = "/mytown/main.jsp"; }
-	 if(item == "weather") { document.location = "/wide_frame.jsp?filename=/weather/weather_main.jsp%3Fsection=weather_today_tonight%26region_name="+region_name+""; }
-	 if(item != "weather") { setSettings(); }
-	 if(item == "news12team") { document.location = "/news12team/news12team.jsp?regionId="+regionId+""; }
-     if(item == "links" || item == "links_module") { document.location = "/blogs.jsp?region_name=numbersandlinks"+region_name.toLowerCase()+""; }         
-     if(item == "challenge") { document.location = "/news/challenge_"+region_name+"?news_type=The Challenge"; }   
-     if(item == "module_specialreports") { openAccordionTab(2); }
-     if(item == "ap_module_national") { document.location = "/full_ap_frame.jsp?news_type=ap_national_worldnews&cat=national_worldnews"; }
-     if(item == "lottery") { window.open("http://www.nylottery.org/index.php"); }
-     if(item == "newsday_news") { window.open("http://newsday.com"); }
-    }
- 
-function loadWeather(item)
-  {
-   var zipcode = ""+region_name+"_zipcode";
-   zipcode = readCookie(zipcode);
-   top.document.location = "/wide_frame.jsp?filename=/weather/weather_main.jsp%3Fsection="+item+"%26region_name="+region_name+"";
-   hitOmniture("Main Nav",item); 
-  }
-
-function loadTraffic(item)
-  {
-   top.document.location = "/wide_frame.jsp?filename=/traffic/traffic_frame.jsp%3Fsection="+item+"";
-   hitOmniture("Main Nav",item); 
-  }	
-
-function loadSportsBusiness(section,item)
-  {
-	if(eval(document.getElementById("Aframe") != null))
-	  {
-	   var Aframe = document.getElementById("Aframe")
-	   Aframe.src = "/"+section+"/"+section+"_main.jsp?accordion="+item+"";
-	   loadBanners();
-	  } 
-	if(eval(document.getElementById("Aframe") == null))
-	  {
-	   document.location = "/index.jsp?location=/"+section+"/"+section+"_main.jsp%3Faccordion%3D"+item+""; 
-	  }
-	hitOmniture("Main Nav",item); 
-  }    
-
-function openAccordionTab(value)
-   {
-	if(onSection != "news") { createCookie("accordion",value,'1'); document.location = "/index.jsp"; return; }
-	if(onSection == "news") 
-	  { 
-		play_video_auto = false;
-		frmobj = window.frames['Aframe'];
-		frmobj.Spry.Widget.Accordion.prototype.openDefaultPanel('sampleAccordion',value); 
-		value = (value * 50); 
-		if(value == 0) { value = 1; }
-		fieldhref = frmobj.document.getElementById("accordhref"+value+"").href;
-        fieldhref = unescape(fieldhref.replace(/\+/g,  " "))
-        frmobj.eval(fieldhref); 
-	  }   
-   } 
-
-iCamNameArr = new Array()
-iCamNameArr[0] = "0:45909,0:45913,0:45912,0:45914,0:45911,0:45910,0:0,0:48275,0:50156"; 
-iCamNameArr[1] = "0:45915,0:45920,0:45919,0:45921,0:45917,0:45916,0:47713,0:48276";
-iCamNameArr[2] = "0:45929,0:45935,0:45932,0:45933,0:45934,0:45930,0:47413,0:48399";
-iCamNameArr[3] = "0:45922,0:45928,0:45923,0:45927,0:45926,0:45924,0:47715,0:48277";
-iCamNameArr[4] = "0:45936,0:45941,0:45938,0:45939,0:45940,0:45937,0:47392,0:48400";
-iCamNameArr[5] = "0:45948,0:45952,0:45951,0:45955,0:45950,0:45954,0:47719,0:48402";
-iCamNameArr[6] = "0:45943,0:45942,0:45945,0:45946,0:45947,0:45944,0:47393,0:48401";
-iCamRegionArr = new Array("0:45909","1:45915","2:45929","3:45922","4:45936","5:45948","6:45943") 
- 
-forumArr = new Array("","1","3","2","4","5","10","11")
-blogsArr = new Array("","longisland","newjersey","connecticut","westchester","bronx","westchester","brooklyn")
-
-function loadMainiCam()
-     {
-	  var idsArr = iCamRegionArr[regionId-1].split(":");
-	  var EventID = idsArr[0];
-	  var CategoryID = idsArr[1];
-	  document.location = "/icam.jsp?target=Category.aspx%3FCategoryID="+CategoryID+"";
-	  hitOmniture("Main Nav","loadMainMyCam"); 
-     }
-
-function loadiCam(catid)
-     {
-	  var idsArr = iCamNameArr[regionId-1].split(",");
-	  var idsBArr = idsArr[catid].split(":");
-	  var EventID = idsBArr[0];
-	  var CategoryID = idsBArr[1];	  
-	  if(onSection == "iCam") 
-	    { 
-		 if(EventID == 0) { document.getElementById("icamframe").src = "http://icam.news12.com/mycapture/photos/Category.aspx?CategoryID="+CategoryID+""; return; }
-		 document.getElementById("icamframe").src = "http://icam.news12.com/mycapture/photos/Album.aspx?EventID="+EventID+"&CategoryID="+CategoryID+""; 
-		} else { 
-		 if(EventID == 0) { document.location = "/icam.jsp?target=Category.aspx%3FCategoryID="+CategoryID+""; return; }
-		 document.location = "../icam.jsp?target=Album.aspx%3FEventID="+EventID+"%26CategoryID="+CategoryID+""; 
-	    }
-	  hitOmniture("MyCam Category Click",catid);  
-     }
-
-function storeSectionName(sName)
-     { 
-	  if(sName == "national") { sName = "National/World News"; }
-	  onSection = sName;
-	  updateMainHeadingForHomePage(regionId,sName);
-     } 
-
-document.write("<scr"+"ipt language='JavaScript' src='/modules/home/school_closings.jsp?regionId="+regionId+"&doheader=1'><\/scr"+"ipt>"); 
-
-</script><script language="JavaScript" src="/modules/home/school_closings.jsp?regionId=1&amp;doheader=1"></script> 
-<!-- END TOP MAIN NAV -->
-
-<div id="rss" class="rssPopup" onmouseover="showButton('-1','rss')" onmouseout="hide('rss')">
-<div class="topRssHead"></div>
-<div class="rssCont"><p class="rssTxt">Add News feed:</p>
-	<div class="rssBtns"> 
-		<a href="javascript:dorsslink('google')"><img src="/images/btn_addtoGoogle.gif" border="0"></a>
-		<a href="javascript:dorsslink('yahoo')"><img src="/images/btn_myYahoo.gif" class="rssBtnStyle" border="0"></a>
-		<a href="javascript:dorsslink('msn')"><img src="/images/btn_mymsn.gif" class="rssBtnStyle" border="0"></a>
-		<a href="javascript:dorsslink('aol')"><img src="/images/btn_myAol.gif" class="rssBtnStyle" border="0"></a>
-	</div>
-</div>
-<div class="botRss"></div>
-</div>
-
- 
-<!-- START BREAKING NEWS -->  
-<div id="BreakingNews"></div>
-<!-- END BREAKING NEWS -->
-
-<!--OMNITURE--><img id="omniture" src="https://web.archive.org/web/20100426193211/http://news12.com.112.2o7.net/b/ss/news12.com/5/H.19.4--WAP?c5=LI&amp;c16=https%3A//web.archive.org/web/20100506144143id_/http%253A//www.news12.com/news/privacy&amp;c17=LI" style="position:absolute;left:-100;top:-100;visibility:hidden;width:1px;height:1px">
-<div id="titleL"><h1 id="NWSmainHeading"><span style="color:#FFFFFF;font-size:13px;font-weight:bold;"><a href="/index.jsp">HOME</a> <img src="/images/ico-carrotWht-big.gif"> <a href="javascript:window.frames[0].location.reload()">Privacy Statement</a></span></h1><div id="titleR"></div><!--span><a href="#"><img src="images/change_btn_Hover.jpg" border="0" class="chngeBtnStyle" /></a></span--></div>
-<!-- CONTENT -->
-
-<div id="contentFrameCrime" style="min-height:600px;width:665px;border-left: 2px solid #D5D5D5; border-right: 2px solid #D5D5D5;margin-left:0px;background:url(/images/content-grad.jpg) repeat-x;">
-<script type="text/javascript" language="javascript">
-
-var onSection = "article_detail";
-var position = "";
-var accordion_num = Math.floor(position / 50); 
-var news_type = "Privacy Statement";
-if(news_type.length == 0) { news_type = "News"; }
-var header_title = news_type;
- var articleId = "227024"; 
-
-
-function loadContent()
-    { 
-	 updateMainHeadingForHomePage(regionId,header_title);
-	 if(document.getElementById('contentFrameCrime').offsetHeight < 560) { document.getElementById("contentFrameCrime").style.height = "560px"; }
-    }
-
-</script>
-
-
-	<div class="menuCrime">
-	    <div class="mnNews">
-			<div class="mnuStyle"></div>
-		</div>
-	    <div class="dotRuleHorzCrime"></div>
-	</div>
-	<div class="mainContCrime">
-     
-	    <div class="headingArticle">Privacy Policy</div>
-	    <div class="contCrimetxt3"><p><span style="text-decoration: underline;">NOTE</span>:  In our previous privacy policy, we agreed that we would notify you, and provide you the opportunity to opt out, if we decided in the future to share personal information collected on our Web site with our affiliates, including our parent company, CSC Holdings, Inc. and other entities that may control us, be controlled by us, or are under common control with us.  We would now like to share information you may have provided through this Web site, such as your name, address, telephone number, and/or email address, with our affiliated companies in order to better serve you.  Our affiliates may use that information to contact you about their products and services and those of their advertisers, to market products that may be of interest to you, to improve their services and offerings, and for other reasons consistent with their privacy policies and ours. To see a representative list of affiliates, please <span style="text-decoration: underline;"><a href="http://www.cablevision.com/about/index.jsp">click here</a></span>.<strong> </strong>
-
-</p><p><strong>If you have submitted personal information through our Web site prior to July 17, 2009, and would like to opt out of this information sharing, you may do so by sending an email to <span style="text-decoration: underline;"><a href="mailto:News12Webmaster@News12.com">News12Webmaster@News12.com</a></span> from the email address that we have on file for you.  Please note that News 12 may still use your information in other ways permitted by our privacy policy, and that any information collected subsequent to this notice is subject to our new privacy policy.  Our new privacy policy is set forth below.  It takes effect on Aug. 17, 2009.</strong>
-</p><p></p><p></p>
-<h1>News 12</h1>
-<p><strong>Privacy Policy</strong>
-
-<strong> </strong>
-
-<strong>News 12 Interactive, Inc. ("News 12" or "we")</strong> strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience on this Web site. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number or other information about you that could potentially identify you) subject to the terms of this privacy policy. Please note this policy applies only to information collected by News 12 through this Web site and does not impact information collected or used by News 12 or its Affiliates through other means.
-
-</p>
-<p><strong>How we gather information from users.</strong>
-
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also provide information when you participate in sweepstakes and contests, voting and polling activities, message boards and chat rooms and other interactive areas of our site.
-
-</p>
-<p>Like most Web sites, this Web site also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use "cookie" technology. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. </p>
-<p>In certain cases, you can choose not to provide us with information.-- for example, by setting your browser to refuse to accept cookies -- but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password. Additionally, we may not be able to customize the site's features according to your preferences.
-
-</p>
-<p><strong>What we do with the information we collect.</strong>
-
-We will use your information only as permitted by law and as set forth in this policy. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
-
-We also collect information to enhance your visit and deliver more individualized content and advertising. </p>
-<p>For example, we may use Personally Identifiable Information collected on this Web site to communicate with you regarding our <span style="text-decoration: underline;"><a href="http://www.newsday.com/about/ny-useragreement,0,7119248.htmlstory"><span style="text-decoration: underline;">Terms of Service</span></a></span> and this Privacy Policy, products and services offered by News 12, its Affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest.  In some cases, we may combine Personally Identifiable Information collected on this Web site with demographic or other information (such as census records or customer information in our regular business records) to assist with tailoring advertising to your preferences and behaviors, and for other sales and marketing efforts of News 12 and its Affiliates.  We reserve the right to share information with other News 12 business units and any entities that control, are controlled by, or are under common control with, News 12 (collectively, "Affiliates"), including, without limitation, to News 12's and its Affiliates' newspapers, Web sites and broadcast stations. This policy does not apply to any Affiliate's use of such information.
-
-</p>
-<p>Personally Identifiable Information collected by News 12 may also be used for other purposes including, but not limited to, site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.
-
-As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases.
-
-</p>
-<p><strong>Your choice to opt out.</strong>
-
-The quality news and information on this Web site is supported by advertising revenue and a controlled program of e-mail marketing is an important element of our online publishing business. Like other Web publishers, we sometimes permit our advertising and promotional partners to e-mail you about services, features, products, special offers and unique content we believe might interest you. If you prefer not to receive e-mail communications sent directly from our advertisers or promotional partners, you will be given an opportunity to decline before you provide us information we might use for this purpose. If you decline at the time you provide us such information, we will not share the Personally Identifiable Information you provide with non-Affiliate advertisers for such purposes, though we may on occasion send you information on their behalf.<strong></strong>
-
-</p>
-<p><strong>Affiliated sites, linked sites and advertisements.</strong>
-
-News 12 expects its partners, advertisers and Affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, Affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site, you may link to, or view as part of a frame on a page of this Web site, certain content that is actually created or hosted by a third party. Also, through this Web site you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. News 12 is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
-
-</p>
-<p>While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. News 12 does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
-
-</p>
-<p>A cookie gets entered by your Web browser into the "Cookies" folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the site. We use persistent and session cookies to analyze and enhance your experience on the site, and use third party ad technology to serve ads. The data that is collected is the property of News 12, not the third party. We also allow third parties called ad networks or ad servers to serve ads to you on this Web site. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on this Web site. </p>
-<p>News 12 does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. News 12 maintains relationships with a number of third-party networks, including, without limitation, to Doubleclick.  Those parties that use cookies may offer you a way to opt out of ad targeting. You may find more information at the Web site of the individual ad network or the <a href="http://www.networkadvertising.org/consumer/opt_out.asp"><span style="text-decoration: underline;">Network Advertising Initiative</span>.</a>
-
-</p>
-<p>Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of News 12 and this policy.
-
-</p>
-<p><strong>Children.</strong>
-
-News 12 does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe News 12 has any information from or about anyone under 13, please contact us at the address listed below.
-
-</p>
-<p><strong>California</strong><strong> Privacy Rights</strong>
-
-Beginning January 1, 2005, California law permits visitors who are California residents to request certain information regarding our disclosure of Personally Identifiable Information to third parties for their direct marketing purposes. To make such a request, please send an email or write to us at the contact information below.
-
-<strong>Contacting us.</strong>
-
-We can be reached by contacting:
-
-News 12 Interactive, Inc.
-One Media Corssways, Second Floor
-Woodbury, New   York 11797
-<span style="text-decoration: underline;"><a href="mailto:News12Webmaster@News12.com">News12Webmaster@News12.com</a></span> <strong></strong>
-
-</p>
-<p><strong>Changes to this policy.</strong>
-
-News 12 reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
-
-</p>
-<p><strong>Governing law.</strong>
-
-This policy and the use of this Web site are governed by New York law. Any claim related to this Web site or this policy shall be brought in a federal or state court in Nassau or Suffolk counties, New York, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of this Web site consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. This Web site is controlled, operated and administered entirely within the United   States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.<strong></strong>
-
-</p>
-<p>Copyright © 2009, News 12 Interactive, Inc.
-
-</p>
-<p>Version: July 2009
-</p><br><script>if(news_type.match(/number/gi)) { document.write("<a href='javascript:history.back()'><img border='0' src='/images/btnBack.gif'></a>"); }</script></div>
-	    	
-	
-<!-- END CONTENT -->
-<!-- <img src="../images/Btn-Comment.gif" class="btnCommentStyle" /><p class="txt21">&nbsp;(21)</p> -->
-
-</div>
-</div>
-
-
-<!-- SIDE BAR -->
-<div id="sidebar" align="center">
-
-<!-- weather -->
-<div id="weatherBox"></div>
-<!-- end weather -->
-					
-<!-- BANNERS -->
-<table id="bannerDisplay01" border="0" align="center"><tbody><tr>
-<td id="banner_hrefA1" valign="top" height="33%" width="170px"><iframe src="https://web.archive.org/web/20100426193211/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=160;tile=5;sz=160x60;target=top;sec=article_detail;ord=7087.868163722448?" style="width:160px;height:60px" frameborder="0" scrolling="no"></iframe></td>
-<td id="banner_hrefB" rowspan="3" valign="top" class="bannerImagePos"><iframe src="https://web.archive.org/web/20100426193211/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=120;tile=2;sz=120x240;ord=7087.868163722448?" style="width:120px;height:240px" frameborder="0" scrolling="no"></iframe></td>
-</tr>
-<tr><td id="banner_hrefA2" valign="middle" height="33%" width="170px"><iframe src="https://web.archive.org/web/20100426193211/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=160;tile=4;sz=160x60;target=mid;ord=7087.868163722448?" style="width:160px;height:60px" frameborder="0" scrolling="no"></iframe></td>
-</tr>
-<tr><td id="banner_hrefA3" valign="bottom" height="33%" width="170px"><iframe src="https://web.archive.org/web/20100426193211/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=160;tile=3;sz=160x60;target=bot;sec=article_detail;ord=7087.868163722448?" style="width:160px;height:60px" frameborder="0" scrolling="no"></iframe></td>
-</tr>
-</tbody></table>         
-</div>
-<!-- END SIDEBAR -->
-
-<div id="contentBotL_traffic" style="margin-left:-3px"><div id="contentBotR_traffic"></div></div>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<script src="/js/libs/jquery.placeholder.js"></script><script src="/build/n12_base.min.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <meta name="robots" content="noindex">
+<link rel="canonical" href="http://home.news12.com/privacy-policy-1.4188629">
 <title>Privacy Policy</title>
-<!-- INCLUDE FOOTER HERE -->
-<div class="rowContainer" id="NWSrow1">
-<div class="rowItem1" id="NWSbox1" onclick="global_positionPlacedIn=1;"><!--BOX ONE--></div>				     
-<div class="rowItem2" id="NWSbox2" onclick="global_positionPlacedIn=2;"><!-- BOX TWO--></div>
-<div class="rowItem3" id="NWSbox3" onclick="global_positionPlacedIn=3;"><!-- BOX THREE--></div>
-</div>								
-													
-<!--ADD temp placeholder for row 2-->
-<div class="rowContainer" id="NWSrow2"></div>
-<!-- Ends here --> 
-	  
-<div id="addRow">
-<a id="btn_add_row" href="javascript:addBlankRow()"><img src="/images/row-btn-add.gif" border="0"></a>&nbsp;
-<a id="btn_remove_row" href="javascript:DeleteNewsRow()" style="display:none"><img src="/images/row-btn-delete.gif" border="0"></a>
-</div>
-<div class="dotRuleHorz-Grey1"></div>
-<!-- footer -->
-
+<meta name="description" content="Privacy Policy News 12 Interactive, Inc. (&quot;News 12&quot; or &quot;we&quot;) strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience on this ">
+<meta name="keywords" content="">
+<meta name="google-site-verification" content="iGduUJJBBUsFSYrNxc70_bwVm6rFWC2ZztRCW7zVr7A">
+<meta name="msvalidate.01" content="AC41EB10D1EC6B5358F0ECA0E861CCAA">
+<meta name="application-name" content="News 12">
+<meta name="msapplication-TileColor" content="#022d89"> 	
+<meta name="msapplication-TileImage" content="/img/news12/n12-win8-logo.png">	
+  <link rel="image_src" href="http://www.news12.com/img/blog-share-n12.jpg">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="http://www.news12.com/privacy-policy-1.4188629">
+<meta property="og:image" content="http://www.news12.com/img/blog-share-n12.jpg">
+<meta property="og:site_name" content="News 12">
+ <meta property="fb:admins" content="TVnews Longisland">
+<meta property="fb:app_id" content="147686468041">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@News12">
+<meta property="og:description" content="Privacy Policy News 12 Interactive, Inc. (&quot;News 12&quot; or &quot;we&quot;) strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience on this ">
+<link rel="alternate" type="application/rss+xml" title="News 12" href="http://www.news12.com/cmlink/1.4280502">
+<link rel="shortcut icon" href="/img/news12/favicon.ico">
+<link rel="icon" type="image/ico" href="/img/news12/favicon.ico">
+	<link href="/build/n12_base.min.css" rel="stylesheet" type="text/css">
+  <link href="/build/n12_home_header.min.css" rel="stylesheet" type="text/css">
+  <!-- TEMPLATE VAR n12 -->
+    <link href="/build/n12_article.min.css" rel="stylesheet" type="text/css">
+<!--[if IE 7]><link href="/build/n12_ie7.min.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 8]><link href="/build/n12_ie8.min.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<script src="/js/libs/jquery-1.8.3.min.js"></script>
+<script src="/js/libs/modernizr.js"></script>
+<script src="/js/common/js-init.js"></script> 
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<script src="/build/tools_news12.min.js"></script><script src="https://web.archive.org/web/20131112210158/http://www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="/js/s_nd_code_news12.js"></script>
 <script>
-function loadAboutUs() { document.location = "/news/aboutus_"+region_name+"?news_type=About Us"; }
-function loadContactUs() { document.location = "/contactus"; }
-function loadIntern() { document.location = "/news/intern_"+region_name+"?news_type=News 12 Internship"; } 
+Modernizr.load([
+ '/build/n12_base.min.js',
+ ]);
 </script>
-   
-<div align="center" id="footer">
-<div id="footerBannerL"><iframe src="https://web.archive.org/web/20100426193211/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=468;sz=468x60;sec=article_detail;tile=6;ord=7087.868163722448?" style="width:468px;height:60px" frameborder="0" scrolling="no"></iframe></div>  
-<div id="footerBannerR"><iframe src="https://web.archive.org/web/20100426193211/http://ad.doubleclick.net/adi/dvt.news12.com/LI;pos=468;sz=468x60;sec=article_detail;tile=7;ord=7087.868163722448?" style="width:468px;height:60px" frameborder="0" scrolling="no"></iframe></div>  
-<div id="footerLinks" align="center">
-<p>
-<script>
-var editarticleId = "";
-if(regionId=="1") { editarticleId = "228093"; }
-if(regionId=="3") { editarticleId = "228191"; }
-if(editarticleId != "") { document.write('<a href="/articleDetail.jsp?articleId='+editarticleId+'&position=0&news_type=features">Editorial</a> |'); }
-loadBanners();
-</script><a href="/articleDetail.jsp?articleId=228093&amp;position=0&amp;news_type=features">Editorial</a> |			
-<a href="/home.jsp">News 12 Regions</a> | <a href="/index.jsp?location=advertise.jsp">Advertise With Us</a> | <a href="javascript:loadAboutUs()">About Us</a> | <a href="javascript:loadContactUs()">Contact Us</a> | <a target="_blank" href="https://sjobs.brassring.com/1033/ASP/TG/cim_home.asp?partnerid=25032&amp;siteid=5180">News 12 Careers</a> | <a href="javascript:loadIntern()">News 12 Internship</a> | <a target="_blank" href="http://news12togo.optimum.net/start">News 12 to GO</a><br><a href='javascript:document.location="/news/rss_"+region_name+"?news_type=Social Media Tools"'>Social Media Tools</a> | 
-<script>
-if(regionId == "1") { document.write("<a target='_blank' href='http://newsday.com'>Newsday</a> | <a target='_blank' href='http://exploreli.com'>Explore LI</a> | "); }
-</script><a target="_blank" href="http://newsday.com">Newsday</a> | <a target="_blank" href="http://exploreli.com">Explore LI</a> | 
-<a href="/news/terms?news_type=Terms of Use">Terms of Use</a> | <a href="/news/privacy">Privacy Statement</a></p>
-<p>© <script>var cpdate=new Date() 
-document.write(cpdate.getFullYear());</script>2020 News12.com &amp; Rainbow Media</p>
+ <!-- DEBUGW: site:n12|isOpen:2|siteAccess: -->
+<!-- gate.vm gated:false --><script>
+Modernizr.load([ 
+ '/build/article.min.js',
+ '/build/video-embed.min.js',
+ '/build/social_media_footer.min.js',
+ 'http://platform.twitter.com/widgets.js'
+ ]);
+</script>
+     </head>
+  <body id="">
+ <div id="fb-root"></div>
+  <div class="fbIdBox" style="display:none">147686468041</div>
+     <div id="header" class="static">
+	<div class="inner">
+	<a href="/" id="logo"><img width="257" height="81" alt="News 12" src="/img/news12/news12-logo-n12.png"></a>
+	</div>
+</div><!-- END header -->
+ <div id="nav">
+<ul>
+  <li><a href="http://bronx.news12.com" target="_top">The Bronx</a></li>
+    <li><a href="http://brooklyn.news12.com" target="_top">Brooklyn</a></li>
+    <li><a href="http://connecticut.news12.com" target="_top">Connecticut</a></li>
+    <li><a href="http://hudsonvalley.news12.com" target="_top">Hudson Valley</a></li>
+    <li><a href="http://longisland.news12.com" target="_top">Long Island</a></li>
+    <li><a href="http://newjersey.news12.com" target="_top"> New Jersey</a></li>
+    <li><a href="http://westchester.news12.com" target="_top">Westchester</a></li>
+    <!--<li><a href="http://bronx-spanish.news12.com" target="_top">El Bronx en Espanol</a></li>
+    <li><a href="http://newjersey-spanish.news12.com" target="_top">New Jersey en Espanol</a></li>-->
+</ul>
 </div>
-</div>
-<!-- end footer -->
+       <!-- news12pagelayout.vm  gated: false -->
+  <div id="bodyContainer" class="html">
+<div id="main">
+      <div id="primary" class="full">
+        <!-- n12 navigationpath.vm -->
+		<div id="breadcrumbs">		<strong><a href="/">News 12</a></strong>
+		</div>    <h1>Privacy Policy</h1>
+    <p class="byline">
+                    </p>
+      <!-- related-media.vm -->
+        
+		
+	<p>Privacy Policy News 12 Interactive, Inc. ("News 12" or "we") strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience on this Web site. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number or other information about you that could potentially identify you) subject to the terms of this privacy policy. Please note this policy applies only to information collected by News 12 through this Web site and does not impact information collected or used by News 12 or its Affiliates through other means.</p>
 
+<p>How we gather information from users. How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also provide information when you participate in sweepstakes and contests, voting and polling activities, message boards and chat rooms and other interactive areas of our site.</p>
 
-<script>document.body.onload = loadContent();</script>
+<p>Like most Web sites, this Web site also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use "cookie" technology. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means.</p>
 
+<p>In certain cases, you can choose not to provide us with information.-- for example, by setting your browser to refuse to accept cookies -- but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password. Additionally, we may not be able to customize the site's features according to your preferences.</p>
 
-<meta name="Type" content="article"> 
-<meta name="Title" content="Privacy Policy">
-<meta name="Description" content="Privacy policy">
-<meta name="Date" content="03-09-2009"> 
-<meta name="GoogDate" content="2009-03-09">
-</div></div></body></html>
+<p>What we do with the information we collect. We will use your information only as permitted by law and as set forth in this policy. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually. We also collect information to enhance your visit and deliver more individualized content and advertising.</p>
+
+<p>For example, we may use Personally Identifiable Information collected on this Web site to communicate with you regarding our Terms of Service and this Privacy Policy, products and services offered by News 12, its Affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. In some cases, we may combine Personally Identifiable Information collected on this Web site with demographic or other information (such as census records or customer information in our regular business records) to assist with tailoring advertising to your preferences and behaviors, and for other sales and marketing efforts of News 12 and its Affiliates. We reserve the right to share information with other News 12 business units and any entities that control, are controlled by, or are under common control with, News 12 (collectively, "Affiliates"), including, without limitation, to News 12's and its Affiliates' newspapers, Web sites and broadcast stations. This policy does not apply to any Affiliate's use of such information.</p>
+
+<p>Personally Identifiable Information collected by News 12 may also be used for other purposes including, but not limited to, site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information. As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases.</p>
+
+<p>Your choice to opt out. The quality news and information on this Web site is supported by advertising revenue and a controlled program of e-mail marketing is an important element of our online publishing business. Like other Web publishers, we sometimes permit our advertising and promotional partners to e-mail you about services, features, products, special offers and unique content we believe might interest you. If you prefer not to receive e-mail communications sent directly from our advertisers or promotional partners, you will be given an opportunity to decline before you provide us information we might use for this purpose. If you decline at the time you provide us such information, we will not share the Personally Identifiable Information you provide with non-Affiliate advertisers for such purposes, though we may on occasion send you information on their behalf.</p>
+
+<p>Affiliated sites, linked sites and advertisements. News 12 expects its partners, advertisers and Affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, Affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site, you may link to, or view as part of a frame on a page of this Web site, certain content that is actually created or hosted by a third party. Also, through this Web site you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. News 12 is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.</p>
+
+<p>While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. News 12 does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.</p>
+
+<p>A cookie gets entered by your Web browser into the "Cookies" folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the site. We use persistent and session cookies to analyze and enhance your experience on the site, and use third party ad technology to serve ads. The data that is collected is the property of News 12, not the third party. We also allow third parties called ad networks or ad servers to serve ads to you on this Web site. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on this Web site.</p>
+
+<p>News 12 does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. News 12 maintains relationships with a number of third-party networks, including, without limitation, to Doubleclick. Those parties that use cookies may offer you a way to opt out of ad targeting. You may find more information at the Web site of the individual ad network or the Network Advertising Initiative.</p>
+
+<p>Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of News 12 and this policy.</p>
+
+<p>Children. News 12 does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe News 12 has any information from or about anyone under 13, please contact us at the address listed below.</p>
+
+<p>California Privacy Rights Beginning January 1, 2005, California law permits visitors who are California residents to request certain information regarding our disclosure of Personally Identifiable Information to third parties for their direct marketing purposes. To make such a request, please send an email or write to us at the contact information below. Contacting us. We can be reached by contacting: News 12 Interactive, Inc. One Media Corssways, Second Floor Woodbury, New York 11797 News12Webmaster@News12.com</p>
+
+<p>Changes to this policy. News 12 reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.</p>
+
+<p>Governing law. This policy and the use of this Web site are governed by New York law. Any claim related to this Web site or this policy shall be brought in a federal or state court in Nassau or Suffolk counties, New York, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of this Web site consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. This Web site is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.</p>
+
+<p>Copyright © 2012, News 12 Interactive, LLC</p>
+
+Version: July 2009
+      </div><!-- END primary -->
+
+    </div><!-- END main -->
+</div><!-- END bodyContainer -->
+  	<div id="footer" class="simple">
+	<div class="inner">
+    	  <p>
+<a href="/terms">Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/privacy">Privacy Statement</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/contactus">Contact Us</a>
+</p>   
+<p class="copyright">Copyright © 
+<script type="text/javascript">
+         var dateObject=new Date(); 
+         document.write(dateObject.getFullYear()); 
+</script>2020 
+News12 Interactive LLC
+</p>
+        </div>
+</div><!-- END footer -->
+
+      <div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
