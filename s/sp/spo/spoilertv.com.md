@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoilertv.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620193146id_/http%3A//www.spoilertv.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoilertv.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203144117id_/http%3A//www.spoilertv.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # SpoilerTV Privacy Policy | Spoilers
 
