@@ -1,0 +1,78 @@
+> *The following text is extracted and transformed from the regisclean.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203031926id_/http%3A//www.freeridegames.com/do/general%3Fpartner%3DDefault%26jspName%3Dprivacy) for the most accurate reproduction.*
+
+# Download free games
+
+| 
+
+ï»¿
+
+|   
+---  
+  
+|   
+---  
+|  | 
+
+**Privacy Policy**
+
+This is the Privacy Policy of Exent Technologies Ltd., located at  25 Bazel St. PO Box 10131  
+49001 Israel, whose main business is game aggregation.
+
+  1. Exent thanks you (" **You** ", " **Your** ") for visiting our freeridegames website (the " **Site** "), our services and/or applications (the Site and said services and applications, the " **Exent Services** "). Your privacy is important to us. To better protect Your privacy when using the Site and/or any of the other Exent Services, and to ensure You are aware of relevant data protection issues, we request that You carefully read this Privacy Policy before accessing any of the Exent Services. Please note that by accessing and/or using any of the Exent Services and/or part or feature thereof, You represent that You have read this Privacy Policy, understand it, accept it and agree to abide by its terms. 
+
+Collection and Processing of information 
+
+  2. Generally, we do not collect personally identifiable information that relates to a living individual who can be identified from that information or from that information together with other information held by or likely to be held by us (" **PII** "). However, for specific purposes (detailed in this Privacy Policy) we may collect certain PII with relation to Your accessing and/or using any of the Exent Services and/or part or feature thereof, including: Your full name and gender (-for the purposes of addressing You in communications and offering materials, products and services that we believe may be of interest to You), postal address (-for the purpose of delivering a prize to You, where applicable), e-mail address (-for communicating with You with respect to Exent Services and/or Your account with us, replying to Your inquiries, delivering marketing materials as detailed in this Privacy Policy and, where applicable, delivering a prize to You) and IP address (-for keeping track of Your visits to Exent Services (worldwide) and creating a profile). PII also includes information about Your credit card, if provided by You to a third party collecting payment for Exent Services. 
+
+CHILDREN thirteen (13) years old and younger: We do not knowingly collect or otherwise Process (as such term is defined below) PII from children 13 years old and younger. Since the Exent Services are designed to appeal to a broad audience, we urge parents and guardians of children at any age (and particularly 13 years old and younger) to monitor their child's access to and use of the Exent Services, since it is their responsibility to determine whether any portion of the Exent Services is inappropriate for their child.
+
+  3. Each of Exent, the Data Processors (as defined below) and third parties operating advertising through the Exent Services, may gather certain non personally identifiable information (" **Non-PII** ") about You and/or Your usage of the Exent Services and/or any part thereof (such as, but not limited to, the pages You visit on the Site, the applications used by You, advertisements you view in any application within the Exent Services and progress You made in any game distributed via the Exent Services). Non-PII gathered and tracked will not be used to attempt to identify You personally, but may be used for effective advertising on the Site and/or other part of the Exent Services. If You would like more information about this practice, and to know Your options about not having Non-PII used, [click here.](http://www.networkadvertising.org/)
+
+You acknowledge that information regarding Your usage of Exent Services (such as, but not limited to, the applications used by You, how long You use them and the ways in which You use them (collectively, Your " **Usage Information** ")) may be provided (without specifically identifying you) by Exent to Data Processors (as defined below) and third parties operating advertising through the Exent Services, to provide general statistics about usage of the relevant Exent Services (when examined together with usage information of other users of the services).
+
+  4. In addition to the purposes of collection of Your information (both PII and Non-PII) as detailed above, You acknowledge that sometimes the collected information is used also to: improve the design and content of the Exent Services, enable us to personalize Your experience, manage and target advertisements and perform market research analysis.
+  5. Various actions may be implemented with respect to PII and non-PII, intended to enable the operation and/or maintenance of Exent Services and to fulfill the purposes of collection thereof (as detailed in this Privacy Policy), including, without limitation, recording, holding and destroying it (each such action a " **Process** "/" **Processing** "). Processing may be done by Exent and/or by a third party acting on behalf of and on the instructions of Exent (such third party a " **Data Processor** "). Processing may occur in a country or continent other than from which You accessed the Exent Services, and may be automated and may be manual. It is our policy to take all necessary steps to ensure that Processing of PII held by us is done fairly and lawfully. 
+
+By accepting this Privacy Policy You agree to Processing of PII (including the mere obtainment thereof). However, You acknowledge that Your consent for Processing is not required if the Processing is necessary for compliance with a legal obligation to which Exent or the Data Processor, as applicable, is subject.  
+
+
+Cookies
+
+  6. You acknowledge that in order to enhance Your experience with the Exent Services, our web pages may place in Your computer's browser 'cookies', which are text files that store the IP address of Your computer and this way enable tracking Your preferences by showing which websites You visit. By themselves, cookies do not reveal Your e-mail address or other PII except for the IP address, but once PII is collected from You (pursuant to this Privacy Policy) it may be linked to the data stored in the cookie. Basically, we use cookies to understand Your usage of our services and to improve and adjust the content we offer; more specifically, we use them for recognizing Your visits to the Site, tracking Your browsing history and learning through where You arrived at the Site. You should be aware that cookies placed by us as aforesaid will enable identifying You across our various websites. Since placement of cookies is essential for offering our services in the level and manner designated by us, we kindly request that if You decline placement of cookies by us as aforesaid - You refrain from accepting this Privacy Policy. You may disable cookies placed in Your computer's browser by following the procedure [here.](http://files.investis.com/info/disabling-cookies.html)
+  7. You also acknowledge that third parties operating advertising through the Exent Services may place cookies in Your computer's browser for examination and record of Your online behavioural advertising, so as to enable offering You advertising which may be of interest to You. Such examination and record are done by tracking the advertisements You view through any application within the Exent Services, and storing Your IP address (which may include a domain name), the name of the online game in which the advertisement appeared, the location, size, display time and display duration of the advertisement in the game, other information about the advertisement and about the game session and the date and time the above information is logged. Cookies placed by such a third party are not subject to our control but to such third party's policies, therefore we recommend that You read such third party's privacy policy and ensure You agree to its terms. If You decline placement of cookies by such third party as aforesaid, or want to disable cookies placed in Your computer's browser by such third party – please follow the relevant instructions or procedure in such third party's privacy policy. 
+
+Delivery of information and marketing
+
+  8. For enhancing Your experience with the Exent Services (including new services and applications), we wish to be allowed to send You various marketing materials via e-mail; therefore You acknowledge that Your provision to us of Your e-mail address constitutes Your consent to receive such marketing materials. At any time after providing us Your e-mail address You may withdraw Your consent to future receipt of such marketing materials, by using the relevant address or link for applicable opt-out requests provided within the e-mails in which we send such marketing materials or by sending us an applicable request, clearly stating Your e-mail address and request.
+
+Transfer of, and access to, collected information
+
+  9. You acknowledge that we may transfer Your information (including PII) to any of our direct affiliates and to Data Processors (provided that we will transfer PII to Data Processors where required for Process of the information and does not deviate from the purposes for which the information was collected), including such that are located in a country or continent other than from which You accessed the Exent Services. Additionally, You acknowledge that third parties performing functions on our or a Data Processor's behalf (such as technical support services) may need and so obtain access to our or the Data Processor's databases and servers, which may contain PII about users. We act reasonably to ensure that any third party to whom PII is transferred uses adequate security measures for protection thereof and undertakes to comply with the requirements of applicable law concerning data protection. If You are under the age of 16 years, You should not consent to transfer of Your PII to a third party without the explicit consent of Your parent or guardian, which should be provided to us. PII transferred by us to a third party is encrypted and protected by Firewall and AntiVirus applications.
+  10. You acknowledge that information on You (including PII) collected by us or on our behalf with relation to Exent Services is stored on our servers located in the USA, and that if collected outside of the USA, the information is transferred to the USA, encrypted and protected by Firewall and AntiVirus applications. You further acknowledge that USA and other countries' authorities (such as government or court), not from Your country, may request access to such information, and that Exent will comply with such requests.
+  11. When using the Exent Services or any part thereof, You may be required to provide information online directly to a third party (for example, to provide credit card information to a company that collects payment for Exent Services); You acknowledge that such information will be used by the third party in accordance with such third party's privacy policy, and therefore we recommend that You read it and ensure You agree to its terms. The same applies with respect to a third party's service or website if You visit it through a link from any Exent Services, as we have no control over (and are not responsible for) information that is submitted to, or collected by, such service or website.
+
+Your rights
+
+  12. With relation to PII collected about You pursuant to this Privacy Policy, You may:
+    1. Request us the following (each a " **Data Access Request** "): (1) to obtain without constraint, at reasonable intervals and without excessive delay or expense, a copy of all PII relating to You that is in Process; (2) obtain the correction, erasure or blocking of Your PII, in particular because it is incomplete or inaccurate; (3) object, at any time on compelling legitimate grounds relating to Your particular situation, to the further Processing of Your PII, unless that Processing is required by law; and (4) object to the Processing of Your PII for the purposes of direct marketing. For each Data Access Request except for the last one we may charge a fee of up to 10 GBP (or a sum equivalent to it in another currency).
+    2. If You believe that Your right for protection of Your PII and/or a right related thereto, whether granted in this Privacy Policy or by applicable law, has been breached ‾ send us a complaint, providing clear details of the alleged breach, including, without limitation, specifying the breached right and identifying - to the best of Your knowledge - by whom it was breached (" **Complaint** "). The Complaint will be investigated and You will be notified of our findings and conclusion concerning the claim(s) in the Complaint. If we find that such breach has indeed occurred and we are responsible for it, You will be notified of the remedies to be granted to You. If we find that there are no grounds for the Complaint, You will be provided adequate proof thereof. In any event, we assure You that You will not be subjected, as a result of any Complaint, to any retaliation action.
+
+To enable us to efficiently handle Your communications to us, You should clearly identify Yourself in each Data Access Request, Complaint and other communication You deliver to us. 
+
+**You may also:**
+
+    1. Request us to provide You a copy of Exent's Internal Data Protection Policy, and we will send it to the email address You provided. 
+    2. Enforce this Privacy Policy as a third-party beneficiary, directly with Exent - through the means detailed herein, or through placing a claim with a competent authority or court in California, USA or in the country from which You accessed the relevant Exent Service.
+
+General
+
+  13. Any and all requests, complaints and other communications You wish or are required to provide us with relation to this Privacy Policy and/or any data protection issue, should be delivered via e-mail to the person designated as our data protection officer (the " **Data Protection Officer** "), whose email address is support@freeridegames.com. The Data Protection Officer will examine and handle Data Access Requests and Complaints on Exent's behalf. 
+  14. Any information You provide to us, to a Data Processor and to any other third party acting on our behalf, whether with relation to use of or registration to any of the Exent Services, must be accurate and truthful.
+  15. Please promptly notify us if You become aware that any PII collected about You is no longer up-to-date or is incorrect, and instruct us of the required change.
+  16. Any information collected by us and by any other acting on our behalf, and all communications and information transmitted, received and/or contained in our information systems, are our property. In the event that we sell or transfer any of our business assets, this may include the sale or transfer of such property to the acquiring party.
+
+
+
+[](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=135&sealid=112 "Free Ride Games TrustE certificate")  
+  
+---|---
