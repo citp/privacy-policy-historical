@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaid.gov privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530214547id_/http%3A//www.usaid.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaid.gov privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203015923id_/http%3A//www.usaid.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Agency for International Development
 
@@ -107,7 +107,7 @@ Our presence on social media sites is not intended to endorse, recommend, or fav
 
 ##  Embedded Third-Party Content
 
-USAID makes use of third-party embeddable content and applications (widgets). When content is embedded from a third-party provider, we will clearly label the source of the content. Embedded videos may set a cookie when they are played. For more information please see our [**cookie policy**](https://web.archive.org/privacy-policy#cookie).
+USAID makes use of third-party embeddable content and applications (widgets). When content is embedded from a third-party provider, we will clearly label the source of the content. Embedded videos may set a cookie when they are played. For more information please see our **cookie policy**.
 
 ##  Site Management
 
