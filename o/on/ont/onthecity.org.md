@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthecity.org privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528205718id_/http%3A//www.onthecity.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthecity.org privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203200736id_/http%3A//www.onthecity.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The City | Real Life. Together.
 
@@ -15,7 +15,7 @@
     * [Map of The City](http://www.onthecity.org/how-it-works/map-of-the-city/)
     * [The City is a little like [...]](http://www.onthecity.org/how-it-works/the-city-is-a-little-like/)
     * [S/M/L/XL](http://www.onthecity.org/how-it-works/s-m-l-xl/)
-    * [Guided Tours](http://www.onthecity.org/how-it-works/guided-tours/)
+    * [Discover The City](http://www.onthecity.org/how-it-works/discover-the-city/)
   * [Features](http://www.onthecity.org/features/)
     * [Communication](http://www.onthecity.org/features/communication/)
     * [Groups](http://www.onthecity.org/features/groups/)
