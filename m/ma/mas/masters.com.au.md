@@ -1,41 +1,59 @@
-> *The following text is extracted and transformed from the masters.com.au privacy policy that was archived on 2009-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091012160633id_/http%3A//masters.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masters.com.au privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203205926id_/http%3A//miy.masters.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Masters Medical Pty Ltd - Privacy Statement
+# Privacy Policy | Masters Home Improvement
 
-##  Privacy Statement for Masters Medical Pty Ltd
+**Respecting your privacy**
 
-Masters Medical Pty Ltd has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Masters Medical Pty Ltd. 
+Masters is committed to protecting the privacy of individuals’ personal information in accordance with the Privacy Act 1988(Cth).
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Currently we don't use cookies, however, we do intend to use cookies at a future date to deliver content specific to your interests. 
+Our respect for our customers' right to privacy of their personal information is paramount. We have policies and procedures to ensure that all personal information, no matter how or where it is obtained, is handled sensitively, securely, and in accordance with the National Privacy Principles.
 
-This site contains links to other sites. **Masters Medical Pty Ltd** is not responsible for the privacy practices or the content of such Web sites. 
+This Privacy Policy documents how we collect, use, disclose and otherwise handle personal information.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. The information collected is never used as part of a mailing list or sold to any other party.
+ **What personal information do we collect?**
 
-##  Security
+We may ask you for your personal information so that we can provide you with products and services but we will only collect such personal information if it is necessary for one of our functions or activities. Privacy law requires us to collect personal information about you only from you if it is reasonable and practical to do so.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+Some examples of situations where personal information is collected from you by Masters:
 
-##  Choice/Opt-Out
+If you contact us, we may keep a record of that correspondence.
 
-Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor. 
+At or before the time the personal information is collected by us, we will take reasonable steps to ensure that you are made aware of who we are, the fact that you are able to gain access to the information held about you, the purpose of the collection, the type(s) of organisations to which we usually disclose the information collected about you, any laws requiring the collection of the information and the main consequences for you if all or part of the information is not collected.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+Generally, you have no obligation to provide any information requested by us. If you choose to withhold requested information however, we may not be able to provide you with the goods and services that depend on the collection of that information, particularly if the collection of that information is required by law.
 
-  1. You can send email to [service@masters.com.au](mailto:service@masters.com.au)
+ **How do we protect your personal information?**
 
+Woolworths takes measures to ensure your personal information is protected from unauthorised access, loss, misuse, disclosure or alteration. We also take measures to destroy or permanently de-identify personal information when it is no longer required. The types of measures we take vary with the type of information, and how it is collected and stored.
 
+We use Secure Socket Layer (SSL) authentication and external payment gateways for all orders placed to ensure the security of your personal card details.  Your credit card details are not stored, processed or transmitted through or via the Masters website; all financial details are processed via Datacash or Paypal, our secure payment providers.
 
-##  Correct/Update
+ **How is personal information used?**
 
-This site gives users the following options for changing and modifying information previously provided. 
+The personal information that we ask for is generally used to provide products or services to you.
 
-  1. email [service@masters.com.au](mailto:service@masters.com.au)
-  2. call the following telephone number: (02) 9689 3655
+We may also use your personal information in other ways to provide you with superior service. This may include using your personal information to advise you of new products and services or seek your feedback. You have the right to tell us that you do not want us to send information to you other than for the main purpose for which we have collected your personal details.
 
+We do not rent or sell your personal information under any circumstances.
 
+Where possible, we take contractual measures to ensure our service providers comply with the privacy principles and where relevant, other standard imposed by us.
 
-##  Contacting the Web Site
+We may transfer your personal information to third parties within or outside Australia.  We will only do this for the purpose of and incidental to providing our products and services to you in a secure way.  This includes uses and disclosures which we require to operate this site and  for other purposes to which you consent to (either express or inferred consent).
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Dr Scott Porter, Managing Director Masters Medical Pty Ltd Suite 505, Level 5, Westfield Office Towers, Church Street, Parramatta, NSW 2150 Sydney AUSTRALIA Ph (02) 9689 3655   
-Fax (02) 9689 2866
+Our web site may contain links to other web sites and those third party web sites may collect personal information about you. We are not responsible for the privacy practices of other businesses or the content of web sites that are linked to our web site.
+
+ **Access to your personal information**
+
+We will provide you with access to any of your personal information we hold (except in the limited circumstances recognised by privacy law).
+
+If you wish to access your personal information please write to us at Privacy Officer, Woolworths Limited, 1 Woolworths Way,  Bella Vista NSW 2153 or email us at [privacy@woolworths.com.au](http://privacy@woolworths.com.au/). Of course, before we provide you with access to your personal information we will require some proof of identity. For most requests, your information will be provided free of charge, however we may charge a reasonable fee if your request requires a substantial effort on our part.
+
+If you need to update your information (eg. if you change your address), please contact Masters directly so that we can make the change.
+
+ **Amendments to policy**
+
+We may amend this policy from time to time to ensure that it remains accurate in view of any alterations to our information handling practices due to new technologies and changed business practices. Any update policy will be published on our website.
+
+ **More information**
+
+More information about Privacy law and the National Privacy Principles is available from the Federal Privacy Commissioner at [www.privacy.gov.au.](http://www.privacy.gov.au./)
