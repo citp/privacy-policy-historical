@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the bundlestars.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607114541id_/http%3A//www.bundlestars.com/about/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bundlestars.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203043840id_/http%3A//www.bundlestars.com/about/privacy-and-terms) for the most accurate reproduction.*
 
-# Bundle Stars - Privacy and Terms
+# Bundle Stars - Privacy and Terms!!
 
-[](https://web.archive.org/) [ ](https://web.archive.org/deals/lucius-steam/)
+[](https://web.archive.org/)
 
   * [Checkout](https://web.archive.org/user/checkout/)
   * [Basket](https://web.archive.org/user/basket/)
   * [Register](https://web.archive.org/user/register/)
   * [Sign In](https://web.archive.org/user/sign-in/)
-  * [Blog](https://web.archive.org/about/news/)
+  * [FAQ's](https://web.archive.org/about/general-faqs/)
   * [About Us](https://web.archive.org/about/about-us/)
   * [How it Works](https://web.archive.org/about/how-to-download/)
-  * [Deals](https://web.archive.org/deals/)
   * [All Bundles](https://web.archive.org/all-bundles/)
   * [Home](https://web.archive.org/)
 
@@ -148,23 +147,23 @@ The data controller responsible in respect of the information collected on this 
 Our data protection registration number is Z6755854.  
 
 
-  * [ R50
+  * [ Ultimate Sci-Fi >> SALE PRICE >> US$2.66
 
 The Bundle Includes:  
-Section 8, The First Templar Steam Special Edition, Legendary, Dream Pinball 3D, Disciples III: Resurrection, Insecticide, Tropico Trilogy (3 games in 1), Imperium Romanum: Gold Edition, SpaceChem, Dino D-Day 
+Sword of the Stars II Enhanced Edition, Project Freedom, Weird Worlds: Return to Infinite Space, SpaceChem, SpaceChem: 63 Corvi DLC (add-on), Really Big Sky, Planets Under Attack, Data Jammers: FastForward, Ion Assault 
 
-](https://web.archive.org/all-bundles/bundle-eight/) [](https://web.archive.org/all-bundles/bundle-eight/)
-  * [  
-
-The Bundle Includes:  
-Shattered Horizon, Two Worlds II, Nuclear Dawn, Two Worlds II - Castle Defense, Planets Under Attack, Iron Grip: Warlord, Holy Avatar vs. Maidens of the Dead, Ion Assault, X-Blades 
-
-](https://web.archive.org/all-bundles/bundle-seven/) [](https://web.archive.org/all-bundles/bundle-seven/)
-  * [  
+](https://web.archive.org/all-bundles/ultimate-sci-fi-bundle/) [](https://web.archive.org/all-bundles/ultimate-sci-fi-bundle/)
+  * [ Outer Limits >> SALE PRICE >> US$3.05
 
 The Bundle Includes:  
-StarDrone + OST, Jazz: Trumps Journey, Crash Time 2, Still LIfe, Still LIfe 2, Chrome, Vigil: Blood Bitterness, Tank Universal, Syberia, Syberia 2 
+UFO Extraterrestrials Gold, Blades of Time Limited Edition, Insane 2, Hydrophobia Prophecy, Race Injection, Warfare, Puzzle Kingdoms, Gumboy Tournament, Supreme Ruler 2020 Gold, Razor2: Hidden Skies 
 
-](https://web.archive.org/all-bundles/bundle-five/) [](https://web.archive.org/all-bundles/bundle-five/)
+](https://web.archive.org/all-bundles/outer-limits-bundle/) [](https://web.archive.org/all-bundles/outer-limits-bundle/)
+  * [ FPS Warriors >> SALE PRICE >> US$2.30
+
+The Bundle Includes:  
+The Ship: Complete Pack, Legendary, Shattered Horizon, Section 8, Dino D-Day, Sniper: Ghost Warrior Gold Edition 
+
+](https://web.archive.org/all-bundles/fps-warriors-bundle/) [](https://web.archive.org/all-bundles/fps-warriors-bundle/)
 
 
