@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trekbbs.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607154004id_/http%3A//www.trektoday.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trekbbs.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203225730id_/http%3A//www.trektoday.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « TrekToday
 
@@ -40,6 +40,8 @@ To view the privacy policy of our advertising partner OpenX please visit <http:/
 To view the privacy policy of our advertising partner Skimlinks visit <http://skimlinks.com/privacy-policy>
 
 Our commenting system is powered by Disqus. To view Disqus’s privacy policy visit <http://help.disqus.com/customer/portal/articles/466259-privacy-policy>
+
+We use a cookie and a tag of a third-party service provider, VisualDNA, to collect information about users’ browsing activity on our website (not including users’ names, addresses or other personal information). VisualDNA’s cookie and tag allow us and VisualDNA to build profiles so that users’ online experience can be more relevant to their specific interests. You have the right to choose whether or not to accept VisualDNA’s cookie and tag by clicking here <http://www.visualdna.com/cookie-policy>. VisualDNA does not share users’ information with any third party, other than in anonymised, aggregated form. To learn more, visit VisualDNA’s privacy policy at <http://www.visualdna.com/>privacy-policy.
 
 ## Use of your information
 
