@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the appnovation.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529145604id_/http%3A//www.appnovation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appnovation.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203235758id_/http%3A//www.appnovation.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Appnovation
+# Privacy Policy | Appnovation Technologies Inc.
 
 **Appnovation Technologies, Inc.**  
 [www.appnovation.com](http://www.appnovation.com/)  
  **Privacy Policy**
 
-THIS PRIVACY POLICY RELATES TO INFORMATION COLLECTED ON APPNOVATION WEBSITES ACCESSED THROUGH THE URL [APPNOVATION.COM](http://www.openspan.com/) (collectively, the “Site”).
+THIS PRIVACY POLICY RELATES TO INFORMATION COLLECTED ON APPNOVATION WEBSITES ACCESSED THROUGH THE URL [APPNOVATION.COM](http://www.appnovation.com/) (collectively, the “Site”).
 
 ## Our Commitment to Privacy
 
@@ -55,7 +55,7 @@ No data transmission over the Internet or any wireless network can be guaranteed
 
 ## How You Can Update, Correct, or Delete Your Information
 
-You have the ability to direct Appnovation to edit, correct or erase your personally-identifying information, at any time. To request such account maintenance, send your email request to [privacy@appnovation.com](mailto:privacy@appnovation.com). You may also indicate that you do not wish to receive messages from Appnovation regarding our services or unsubscribe from Appnovation mailings, send your request to [marketing@appnovation.com](mailto:marketing@openspan.com). Your information will be changed in Appnovation’s data bases after we receive the information necessary to process your request.
+You have the ability to direct Appnovation to edit, correct or erase your personally-identifying information, at any time. To request such account maintenance, send your email request to [privacy@appnovation.com](mailto:privacy@appnovation.com). You may also indicate that you do not wish to receive messages from Appnovation regarding our services or unsubscribe from Appnovation mailings, send your request to [marketing@appnovation.com](mailto:marketing@appnovation.com). Your information will be changed in Appnovation’s data bases after we receive the information necessary to process your request.
 
 ## Children Under 13
 
