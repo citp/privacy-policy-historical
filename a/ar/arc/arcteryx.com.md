@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcteryx.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507180924id_/http%3A//www.arcteryx.com/Privacy.aspx%3FEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcteryx.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203051006id_/http%3A//www.arcteryx.com/Privacy.aspx%3FEN) for the most accurate reproduction.*
 
 # Privacy Policy / Arc'teryx
 
@@ -6,11 +6,11 @@
 **Head Office Info**
 
 Arc'teryx Equipment Inc.  
-100 - 2155 Dollarton Hwy  
+110 - 2220 Dollarton Hwy  
 North Vancouver, BC  
-Canada V7H 3B2
+Canada V7H 1A8
 
-[Click Here for Driving Directions](http://maps.google.com/maps?f=d&saddr=&daddr=2155+Dollarton+Highway,+North+Vancouver,+BC+V7H+3B2,+Canada+\(Arc%27teryx+Equipment+Inc\)&hl=en&geocode=%3B458796671341138600,49.305329,-123.015127&mra=ls&sll=49.53615,-123.145605&sspn=0.654162,1.469421&ie=UTF8&z=16)
+[Click Here for Driving Directions](https://maps.google.com/maps?q=2220+Dollarton+Highway,+North+Vancouver,+BC,+Canada&hl=en&sll=49.305553,-123.014367&sspn=0.005575,0.009645&oq=2220+dollarton+highway&hnear=2220+Dollarton+Hwy,+North+Vancouver,+British+Columbia+V7H+2M9,+Canada&t=m&z=16)
 
 **Main Reception:**  
 Phone: 604.960-3001  
