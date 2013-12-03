@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heathrow-airport-guide.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501084847id_/http%3A//www.fubra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heathrow-airport-guide.co.uk privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203213048id_/http%3A//www.fubra.com/privacy) for the most accurate reproduction.*
 
 # Privacy « Fubra
 
