@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccu.edu privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518165637id_/http%3A//www.ccu.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccu.edu privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203151810id_/http%3A//www.ccu.edu/privacypolicy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Colorado Christian University
 
@@ -17,6 +17,12 @@ CCU will not sell, disseminate, disclose, trade, transfer, share, lease or rent 
 #### How Information is Collected
 
 A cookie is a piece of data that is stored on a visitor's hard drive while they are visiting the Colorado Christian University website. We may utilize a short-lived form of cookie when you visit this site. At CCU, a cookie is only used to identify one unique visitor to our website from another visitor during a particular session. A session is the period of active site-use while that unique visitor is linked to our server. We may use cookie technology during a session as a tool to carry forward your input information during a visit to the University’s website. This enables the visitor to input information once and have that information appear later when filling out a form on our website. Examples include, but are not limited to, forms related to the admission and enrollment process, as well as online giving and bill payment. No personally identifiable information is stored on the cookie.
+
+#### Text Messaging
+
+By texting CCU or FAITH to 777555 or FUTURE to 69979, you consent to receive mobile promotional text messages from Colorado Christian University and/or The Centennial Institute at the phone number you provided. Your consent to receive text messages (opt-in) is not required for admission to Colorado Christian University or to buy goods/svcs from The Centennial Institute. If you wish to opt out of receiving text messages, or if you have errantly received a marketing text message without opting in to the program, you can cancel the program at any time by texting STOP CCU, STOP FAITH to 777555 or STOP FUTURE to 69979. Opting out of receiving text messages will only affect your receipt of text messages. You may still receive messages from Colorado Christian University via email or other methods.
+
+You may text HELP CCU or HELP FAITH to 777555 to receive additional information regarding Colorado Christian University’s Mobile Alerts Program. Standard message and data rates may apply. While Colorado Christian University does not charge any fee for using its service, your use of the service via text, multimedia, or instant message on your mobile phone or any other device is subject to the standard message and data charges per your carrier's rate plan.
 
 #### Exceptions to this Policy
 
