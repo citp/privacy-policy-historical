@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the myyodel.co.uk privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115200334id_/http%3A//myyodel.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myyodel.co.uk privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203235750id_/http%3A//myyodel.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # MyYodel
 
 ### WHO WE ARE
 
-Yodel is a trading name of Home Delivery Network Limited and its associated companies including Parcelpoint Limited, Yodel XL Limited, Yodel XL (Scotland) Limited and Yodel Transport Limited. 
+Yodel is a trading name of Yodel Delivery Network Limited and its associated companies including Parcelpoint Limited, HDN(NI) Limited and Yodel Transport Limited. 
 
-In this privacy policy "we, our, us, Yodel" refers to Home Delivery Network Ltd or its associated companies. References to "our Website" or "the Website" are to [www.myyodel.co.uk](http://www.myyodel.co.uk/). 
+In this privacy policy "we, our, us, Yodel" refers to Yodel Delivery Network Ltd or its associated companies. References to "our Website" or "the Website" are to [www.myyodel.co.uk](http://www.myyodel.co.uk/). 
 
 ### WHAT INFORMATION WE COLLECT AND HOW
 
@@ -31,7 +31,7 @@ Any personal information we collect from this website will be used in accordance
 
 ### YOUR RIGHTS
 
-You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of £10 to cover administration expenses to the following address: Marketing Director: Yodel, Hatfield Business Park, Frobisher Way, Hatfield, AL10 9TR 
+You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of £10 to cover administration expenses to the following address: Head of Information Security, Yodel, Atlantic Pavilion, Liverpool, L3 4AE 
 
 ### OTHER WEBSITES
 
