@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freeridegames.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621015600id_/http%3A//www.freeridegames.com/do/general%3Fpartner%3DDefault%26jspName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeridegames.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203031926id_/http%3A//www.freeridegames.com/do/general%3Fpartner%3DDefault%26jspName%3Dprivacy) for the most accurate reproduction.*
 
 # Download free games
 
 | 
 
-﻿
+ï»¿
 
 |   
 ---  
