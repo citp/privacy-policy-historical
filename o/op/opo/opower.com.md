@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opower.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517001543id_/http%3A//opower.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opower.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203171429id_/http%3A//opower.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Opower
 
