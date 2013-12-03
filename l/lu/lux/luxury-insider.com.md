@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxury-insider.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507110542id_/http%3A//www.luxury-insider.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxury-insider.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203112147id_/http%3A//www.luxury-insider.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Luxury-Insider.com
 
