@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the heroku.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426113055id_/http%3A//policy.heroku.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroku.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203113400id_/https%3A//www.heroku.com/policy/privacy) for the most accurate reproduction.*
 
-# Heroku | Legal | Privacy Policy
+# Heroku | Privacy
 
 This Privacy Policy is effective January 12, 2011.
 
 Heroku, Inc. (“Heroku” or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes Heroku’s Web site privacy practices.
 
-## **1.** Web Site Covered
+## 1\. Web Site Covered
 
-This Privacy Statement covers the information practices of http://heroku.com.
+This Privacy Statement covers the information practices of [http://heroku.com](http://heroku.com/).
 
-## **2.** Information Collected
+## 2\. Information Collected
 
 Heroku offers a variety of services that are collectively referred to as the “Services.” Heroku collects information from individuals who visit the Company’s Web site (“Visitors”) and individuals who register to use the Services (“Customers”).
 
@@ -18,7 +18,7 @@ When expressing an interest in obtaining additional information about the Servic
 
 As you navigate the Company’s Web site, Heroku may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web site (such as the Web pages viewed and the links clicked).
 
-## **3.** Use of Information Collected
+## 3\. Use of Information Collected
 
 The Company uses Data About Heroku Customers to perform the services requested. For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Services.
 
@@ -28,7 +28,7 @@ Heroku uses credit card information solely to check the financial qualifications
 
 Heroku uses Web Site Navigational Information to operate and improve the Company’s Web site. The Company may also use Web Site Navigational Information alone or in combination with Data About Heroku Customers to provide personalized information about the Company.
 
-## **4.** Web Site Navigational Information
+## 4\. Web Site Navigational Information
 
 Heroku uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web site (“Web Site Navigational Information”). This section describes the types of Web Site Navigational Information that may be collected on the Company’s Web site and how this information may be used.
 
@@ -54,7 +54,7 @@ Flash cookies are different from browser cookies because of the amount of, type 
 
 Heroku may also contract with third-party advertising networks that collect IP addresses and other Web Site Navigational Information on the Company’s Web site and emails and on third-party Web sites. Ad networks follow your online activities over time by collecting Web Site Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Web sites. This process also helps us manage and track the effectiveness of our marketing efforts. To learn more about these and other advertising networks and their opt-out instructions, click here.
 
-## **5.** Public Forums, Refer a Friend, and Customer Testimonials
+## 5\. Public Forums, Refer a Friend, and Customer Testimonials
 
 Heroku may provide bulletin boards, blogs, or chat rooms on the Company’s Web site. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Heroku is not responsible for the personal information you choose to submit in these forums.
 
@@ -62,7 +62,7 @@ Customers and Visitors may elect to use the Company’s referral program to info
 
 Heroku may post a list of Customers and testimonials on the Company’s Web site that contain information such as Customer names and titles. Heroku obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
 
-## **6.** Sharing of Information Collected
+## 6\. Sharing of Information Collected
 
 Heroku may share Data About Heroku Customers with the Company’s service providers so that these service providers can contact Customers and Visitors who have provided contact information on our behalf. Heroku may also share Data About Heroku Customers with the Company’s service providers to ensure the quality of information provided. Unless described in this privacy statement, Heroku does not share, sell, rent, or trade any information provided with third parties for their promotional purposes.
 
@@ -72,26 +72,26 @@ Heroku uses a third-party service provider to manage credit card processing. Thi
 
 Heroku reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
 
-## **7.** International Transfer of Information Collected
+## 7\. International Transfer of Information Collected
 
 To facilitate Heroku’s global operations, the Company may transfer and access Data About Heroku Customers from around the world, including the United States. This Privacy Statement shall apply even if Heroku transfers Data About Heroku Customers to other countries.
 
-## **8.** Communications Preferences
+## 8\. Communications Preferences
 
-Heroku offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to support@heroku.com. Customers cannot opt out of receiving transactional emails related to their account with Heroku or the Services.
+Heroku offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to [support@heroku.com](mailto:support@heroku.com). Customers cannot opt out of receiving transactional emails related to their account with Heroku or the Services.
 
-## **9.** Correcting and Updating Your Information
+## 9\. Correcting and Updating Your Information
 
-Customers may update or change their registration information by logging in to their accounts at http://heroku.com. Requests to access, change, or delete your information will be handled within 30 days.
+Customers may update or change their registration information by logging in to their accounts at [http://heroku.com](http://heroku.com/). Requests to access, change, or delete your information will be handled within 30 days.
 
-## **10.** Security
+## 10\. Security
 
 Heroku uses appropriate administrative, technical, and physical security measures to protect Data About Heroku Customers.
 
-## **11.** Changes to this Privacy Statement
+## 11\. Changes to this Privacy Statement
 
 Heroku reserves the right to change this Privacy Statement. Heroku will provide notification of the material changes to this Privacy Statement through the Company’s Web site at least thirty (30) business days prior to the change taking effect.
 
-## **12.** Contacting Us
+## 12\. Contacting Us
 
-Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to privacy@heroku.com or by mailing Heroku Privacy, 321 11th St, San Francisco, CA 94103.
+Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to [privacy@heroku.com](mailto:privacy@heroku.com) or by mailing Heroku Privacy, 650 7th St, San Francisco, CA 94103.
