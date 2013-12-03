@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the localiiz.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630023711id_/http%3A//www.localiiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localiiz.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203010239id_/http%3A//www.localiiz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **1\. Introduction**
 
-Welcome to our website, [www.localiiz.com](http://www.localiiz.com/) ("Localiiz.com" or the "site"). This Privacy Policy governs the manner in which Localiiz.com (HK) Limited collects, uses, maintains and discloses information collected from you and from other users of Localiiz.com. If you continue to browse and use Localiiz.com, you are agreeing to comply with and be bound by this Privacy Policy which, together with our Terms of Use, govern Localiiz.com (HK) Limited's relationship with you in relation to Localiiz.com. If you disagree with any part of this Privacy Policy, please do not use Localiiz.com. 
+We at Localiiz take the private nature of your personal information very seriously. It's our goal to bring you information that's relevant and targeted to your individual needs but we also protect your privacy at the same time. The following policy describes how we treat the information we collect from you whenever you visit our website, enter or register for any competition or giveaway and/or subscribe for or receive our emails, pulsits, newsletters or other communications. 
+
+Welcome to our website, [www.localiiz.com](http://m.localiiz.com/outboundlink?url=http%3A%2F%2Fwww.localiiz.com%2F) ("Localiiz.com" or the "site"). This Privacy Policy governs the manner in which Localiiz.com (HK) Limited collects, uses, maintains and discloses information collected from you and from other users of Localiiz.com. If you continue to browse and use Localiiz.com, you are agreeing to comply with and be bound by this Privacy Policy which, together with our Terms of Use, govern Localiiz.com (HK) Limited's relationship with you in relation to Localiiz.com. If you disagree with any part of this Privacy Policy, please do not use Localiiz.com. 
 
 **2\. Definitions**
 
-The term Localiiz.com (HK) Limited or "us" or "we" refers to the owner of Localiiz.com. We are a company incorproated in Hong Kong with registration number 1553324. The term "you" or "User" refers to the user or viewer of Localiiz.com. 
+"Localiiz.com", "Localiiz" or the "site" refers to our website, www.localiiz.com. The term Localiiz.com (HK) Limited or "us" or "we" refers to the owner of Localiiz.com. We are a company incorporated in Hong Kong with registration number 1553324. The term "you" or "User" refers to the user or viewer of Localiiz.com. 
 
 **3\. Acceptance of Terms of Use**
 
-By accessing Localiiz.com you are indicating your acknowledgement and acceptance of our Privacy Policy. This Privacy Policy is subject to change by us at any time in our discretion. Your use of Localiiz.com after such changes are implemented constitutes your acknowledgement and acceptance of the changes. Please consult this Privacy Policy regularly. 
+This Privacy Policy governs the manner in which Localiiz.com and Localiiz.com (HK) Limited collects, uses, maintains and discloses information collected from you and from other users of Localiiz.com. If you continue to browse and use Localiiz.com, you are agreeing to comply with and be bound by this Privacy Policy which, together with our Terms of Use, govern Localiiz.com and Localiiz.com (HK) Limited’s relationship with you in relation to Localiiz.com. If you disagree with any part of this Privacy Policy, please do not use Localiiz.com. 
+
+This Privacy Policy is subject to change by us at any time in our discretion. Your use of Localiiz.com after such changes are implemented constitutes your acknowledgement and acceptance of the changes. Please consult this Privacy Policy regularly. 
 
 **4\. Personal identification information**
 
@@ -20,7 +24,7 @@ We may collect personal identification information from Users in a variety of wa
 
 **5\. Non-personal identification information**
 
-We may collect non-personal identification information about Users whenever they interact with Localiiz.com. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to Localiiz.com, such as the operating system and the Internet service providers utilized and other similar information. 
+We may collect non-personal identification information about Users whenever they interact with Localiiz.com. Non-personal identification information may include age, annual income, buying preferences, browser name, type of computer and technical information about Users means of connection to Localiiz.com, such as the operating system and the Internet service providers utilized and other similar information. We may use this data to improve our site and/or personalize your experience on our website in order to bring you more targeted and relevant content and to display such content according to your preferences. We may share this information with others, such as advertisers interested in advertising on our website, though not on an individual basis. 
 
 **6\. Web browser cookies**
 
@@ -30,15 +34,15 @@ Localiiz.com may use "cookies" to enhance User experience. User's web browser pl
 
 Localiiz.com (Hong Kong) Limited collects and uses Users personal information for the following purposes: 
 
-(i) _To personalize user experience -_ we may use information in the aggregate to understand how our Users as a group use the services and resources provided on Localiiz.com 
+(i) to analyze and share in an aggregate, anonymous form (which will not contain any personally identifiable information about you) for our business purposes – for example, to enable us to understand how our Users as a group use the site, services and resources provided on Localiiz.com, such as how much time our Users spend on our site and which other websites Users come from before, and go to after, visiting our website, and to analyse User usage trends. The collection of this information allows us to, among other things, personalize user experience, prepare for traffic load demands, manage our content, efficiently disseminate our pulsits, newsletters and other communications, and seek compatible advertisers and partners; 
 
-(ii) _To improve_ _Localiiz.com_ \- we continually strive to improve our website offerings based on the information and feedback we receive from you. 
+(ii) to improve Localiiz.com - we continually strive to improve our website, emails, pulsits, newsletters and other communications and offerings based on the information and feedback we receive from you; 
 
-(iii) _To improve customer service_ \- your information helps us to more effectively respond to your customer service requests and support needs. 
+(iii) to improve customer service - your information helps us to more effectively respond to your customer service requests and support needs; 
 
-(iv) _To administer a content, promotion, survey or other site feature_ \- to send Users information they agreed to receive about topics we think will be of interest to them. 
+(iv) to administer a content, promotion, survey or other site feature - to send Users information they agreed to receive about topics we think will be of interest to them; 
 
-(v) _To send periodic emails_ \- the email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via Localiiz.com. 
+(v) to send periodic emails, pulsits, newsletters and other communications – if a User decides to become a member of Localiiz.com or to opt-in to our mailing list, they will receive emails, pulsits, newsletters and other communications that may include articles, company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, pulsits, newsletters and other communications, we include detailed unsubscribe instructions within each email, pulsit, newsletter or other communication or the User may contact us at [hello@localiiz.com](mailto:hello@localiiz.com). 
 
 **8\. How we protect your information**
 
@@ -64,7 +68,7 @@ Localiiz.com (HK) Limited has the discretion to update this Privacy Policy at an
 
 **13\. Governing Law**
 
-You agree that your use of Localiiz.com, this Privacy Policy and any disputes relating thereto shall be governed in all respects by the laws of the Hong Kong. Any dispute relating to this Privacy Policy shall be resolved solely in courts of Hong Kong 
+You agree that your use of Localiiz.com, this Privacy Policy and any disputes relating thereto shall be governed in all respects by the laws of the Hong Kong. Any dispute relating to this Privacy Policy shall be resolved solely in courts of Hong Kong. 
 
 **14\. Contacting us**
 
@@ -81,4 +85,4 @@ Hong Kong
 
 Thank you for visiting Localiiz.com. 
 
-Last updated on 22 March, 2012 
+Last updated on 1 September 2013 
