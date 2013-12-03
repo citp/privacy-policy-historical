@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hogville.net privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124100335id_/http%3A//hogville.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hogville.net privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203183330id_/http%3A//www.hogville.net/about/privacy.php) for the most accurate reproduction.*
 
-# Hogville.net - Privacy Policy
-
-| 
+# Privacy Policy - Hogville.net
 
 ## Hogville.net's Privacy Policies
 
@@ -25,3 +23,29 @@ It is important to note that we will not publicly reveal your information, unles
 **Private Messages** \- Time and time again, we field requests about whether your private messages are just that... private.  The short answer is YES, they are private.  There are only three people on Hogville that have direct database access, however, the need to go read a person's private messages is extremely rare (again, for legal reasons and justification only), and that it is an arduous task for these three people to do so, that it just simply is not worth the time or effort to do that.
 
 | 
+
+[](http://www.arkansasmatters.com/)[](http://www.fox16.com/)[](http://www.nwahomepage.com/)
+
+  
+Your browser does not handle frames!
+
+  
+Your browser is archaic. Your browser is antiquated. Your browser... it FAILS! Update it, please.
+
+**Forum Activity**  
+Most popular forums: 
+
+| Board | Topics | Posts  
+---|---|---  
+[Monday Morning Quarterback](http://www.hogville.net/yabbse/index.php?board=1.0) [](http://www.hogville.net/yabbse/index.php?board=1.0) | 162,522 | 3,441,037  
+[Jump Ball](http://www.hogville.net/yabbse/index.php?board=71.0) [](http://www.hogville.net/yabbse/index.php?board=71.0) | 23,189 | 589,614  
+[Recruiting Forum](http://www.hogville.net/yabbse/index.php?board=3.0) [](http://www.hogville.net/yabbse/index.php?board=3.0) | 20,225 | 403,397  
+  
+Most Popular Threads: 
+
+| Views | Replies  
+---|---|---  
+[Agnosticism](http://www.hogville.net/yabbse/index.php?topic=482000.0) | 224,577 | 16,382  
+[Arkansas CWS game thread - Hogs headed home ........LSU 14 Razorbacks 5](http://www.hogville.net/yabbse/index.php?topic=296176.0) | 253,068 | 12,272  
+[Omaha '12 Thread: CWS game 4 Arkansas vs SC round 3](http://www.hogville.net/yabbse/index.php?topic=483367.0) | 286,298 | 8,949  
+[The Soccer Thread](http://www.hogville.net/yabbse/index.php?topic=161321.0) | 333,933 | 8,771
