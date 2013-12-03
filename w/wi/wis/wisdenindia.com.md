@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisdenindia.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512032750id_/http%3A//www.wisdenindia.com/legal%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdenindia.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203042044id_/http%3A//www.wisdenindia.com/legal%23privacy-policy) for the most accurate reproduction.*
 
 # Legal Notices | Wisden India
 
