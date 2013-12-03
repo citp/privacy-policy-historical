@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faith.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122141351id_/http%3A//www.faith.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faith.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204005550id_/http%3A//www.faith.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Faith.com
 
@@ -6,7 +6,7 @@ Spark Networks® USA, LLC has created this privacy policy (the “Privacy Polic
 
 The following discloses our information gathering and dissemination practices for the Spark Networks websites.
 
-**Overview**
+ **Overview**
 
 As part of the normal operation of our services we collect and, in some cases, may disclose information about you. By accepting this Privacy Policy and our Terms and Conditions, you expressly consent to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Spark Networks Terms and Conditions.
 
@@ -30,10 +30,10 @@ We use a third party advertising company to serve ads on our behalf across the 
 
 Some of the third party advertisers that we use have their own privacy policies and may allow you to opt out of having your information collected as discussed above. The privacy policies of third party advertisers that we may be using during your use of our services can be found at the following URL(s):
 
-  * [**http://www.247realmedia.com/privacy.html**](http://www.247realmedia.com/privacy.html)
-  * [**http://www.valueclickmedia.com/member_privacy.shtml**](http://www.valueclickmedia.com/member_privacy.shtml)
-  * [**http://www.advertising.com/privacy**](http://www.advertising.com/privacy)
-  * [**http://www.networkadvertising.org/managing/opt_out.asp**](http://www.networkadvertising.org/managing/opt_out.asp)
+  * [ **http://www.247realmedia.com/privacy.html**](http://www.247realmedia.com/privacy.html)
+  * [ **http://www.valueclickmedia.com/member_privacy.shtml**](http://www.valueclickmedia.com/member_privacy.shtml)
+  * [ **http://www.advertising.com/privacy**](http://www.advertising.com/privacy)
+  * [ **http://www.networkadvertising.org/managing/opt_out.asp**](http://www.networkadvertising.org/managing/opt_out.asp)
 
 
 
@@ -54,7 +54,7 @@ Due to the regulatory environment in which we operate, we cannot ensure that al
 
 As a matter of policy, we **do not  **sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information, if collected, may be used or disclosed.
 
-**Financial  Information.** Under some circumstances we may require certain additional information, including but not limited to your credit card billing information. We use this financial information, including your name, address, and other information to bill you for use of our Services and products. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information on the Websites, you consent to our providing of your financial information to our service providers and to such third parties as we determine necessary to support and process your activities and transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process and support your transaction or activity. By purchasing, or registering for, or making reservations for products or services of third parties offered on the Websites, or by participating in programs offered on the Websites that are administered by third parties and that require you to submit financial information in order to use them, you also consent to our providing your financial information to those third parties. Any of these various third parties may be authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Additionally, you agree that we may use and disclose all information submitted to such third parties in the same manner in which we are entitled to use and disclose any other information that you submit to us. 
+ **Financial  Information.** Under some circumstances we may require certain additional information, including but not limited to your credit card billing information. We use this financial information, including your name, address, and other information to bill you for use of our Services and products. By making a purchase, or engaging in any other kind of activity or transaction that uses financial information on the Websites, you consent to our providing of your financial information to our service providers and to such third parties as we determine necessary to support and process your activities and transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process and support your transaction or activity. By purchasing, or registering for, or making reservations for products or services of third parties offered on the Websites, or by participating in programs offered on the Websites that are administered by third parties and that require you to submit financial information in order to use them, you also consent to our providing your financial information to those third parties. Any of these various third parties may be authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Additionally, you agree that we may use and disclose all information submitted to such third parties in the same manner in which we are entitled to use and disclose any other information that you submit to us. 
 
 **Advertisers.  ** ****We aggregate (gather up data across  multiple users’ accounts) personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number and bank account number, are never disclosed to marketing advertisers. We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. 
 
@@ -76,6 +76,6 @@ Except as otherwise expressly described in this Privacy Policy, this document o
 
 Spark Networks uses industry standard practices, including “firewalls” and Secure Socket Layers, to safeguard the confidentiality of your personal identifiable information. Spark Networks treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by others inside and outside the company. However, “perfect security” does not exist on the Internet.
 
-**8\. Notice**
+ **8\. Notice**
 
 We may change this Privacy Policy from time to time based on changes in the law, your comments, or our need to accurately reflect our data collection and disclosure practices. We will notify you about significant changes in the way we treat personal information by sending you a notice via email or by placing a prominent notice on our Website.
