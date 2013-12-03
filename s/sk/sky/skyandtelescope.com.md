@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyandtelescope.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516202739id_/http%3A//www.skyandtelescope.com/privacy/3304186.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyandtelescope.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203044144id_/http%3A//www.skyandtelescope.com/privacy/3304186.html) for the most accurate reproduction.*
 
 # Privacy Statement - Privacy - SkyandTelescope.com
 
