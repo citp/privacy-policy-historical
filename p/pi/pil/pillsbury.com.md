@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pillsbury.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624131601id_/http%3A//www.pillsbury.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pillsbury.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203185157id_/http%3A//www.pillsbury.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy from Pillsbury.com
 
@@ -11,7 +11,7 @@ At General Mills, we are very sensitive to the privacy concerns of visitors to a
 **Personal information we may ask you for and how we might use it  
 **When you visit our website, we collect personal information from you (such as your name, address, phone number, e-mail address, etc.) when you voluntarily provide it to us. Depending on the purpose for which the information was provided, we may use the information to communicate with you regarding our products, services, and promotions, to provide you with other information or materials that you request, to customize your interactive experience, and/or to improve our product and service offerings.
 
-Here are the circumstances in which we might ask for personal information from our consumers though our website, the types of information we obtain, and how we might use the information:
+Here are the circumstances in which we might ask for personal information from our consumers through our website, the types of information we obtain, and how we might use the information:
 
   
 
@@ -32,7 +32,7 @@ If you purchase or otherwise request a product, publication, or promotional offe
 
 Your participation in any of these activities (and therefore your provision of personally identifiable information) is entirely voluntary. We may use the information you provide to respond to your questions or comments, to administer our promotions and websites, to fulfill your request, subscription, or order, to provide you with a customized interactive experience, or to otherwise provide or improve our products and services. Based on the information you provide, we also may obtain additional information about you, such as U.S. Postal Service address change data or demographic information, from commercially available sources. 
 
-We will not send you any online newsletter or similar e-mail marketing communication unless you expressly consent to receive such a communication from us. And if you do choose to receive any such e-mail communication from us, you will always have the opportunity to “unsubtle” from receiving the e-mail at any time.
+We will not send you any online newsletter or similar e-mail marketing communication unless you expressly consent to receive such a communication from us. And if you do choose to receive any such e-mail communication from us, you will always have the opportunity to “unsubscribe” from receiving the e-mail at any time.
 
 **How do we use cookies, web beacons, or similar technologies?**   
 We may employ cookie technology, web beacons, transparent GIF images, and similar devices to facilitate website administration and navigation, to better understand and improve the effectiveness of our site, and to provide an enhanced online experience for our visitors. Information tracked through these mechanisms includes but is not limited to (1) a user’s IP address (e.g., yahoo.com - 192.168.1.1), (2) the type of web browser (e.g., Internet Explorer) and operating system (e.g., Windows) being used, (3) the pages of the website a user visits, and (4) other websites a user visited before visiting our website. These devices may also be used on our behalf by third parties managing our advertising on other websites to enable us to learn which advertisements bring visitors to our websites and to otherwise improve our online advertising.  
