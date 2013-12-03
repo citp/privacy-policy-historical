@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the squiz.net privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622012440id_/http%3A//www.squiz.net/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squiz.net privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203131548id_/http%3A//www.squiz.net/us/privacy) for the most accurate reproduction.*
 
-# Privacy - Squiz
+# Privacy
 
 This policy applies to Squiz Australia Pty Ltd, Squiz UK Limited and Squiz NZ ("Squiz") and explains how Squiz uses personal information collected through this website.
 
