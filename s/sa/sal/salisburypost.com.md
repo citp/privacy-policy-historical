@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salisburypost.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601101137id_/http%3A//www.salisburypost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salisburypost.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203115102id_/http%3A//www.salisburypost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Salisbury Post
 
@@ -9,8 +9,6 @@
   * [ **Privacy**](https://web.archive.org/section/SP9901)
 
 
-
-* * *
 
 Welcome to the website for the Salisbury Post, [www.salisburypost.com](http://www.salisburypost.com/) (the "Site"). This Site is an online service owned by Post Publishing Company, Inc. (the "Company" or "us"), and powered by Mediaspan Online Services ("Mediaspan"). We recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information. In order to address those concerns we have developed this Website Privacy Statement.  
  **A. TYPES OF INFORMATION COLLECTED**  
