@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyoftheweb.in privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629092746id_/http%3A//windows.microsoft.com/en-us/internet-explorer/ie10-win7-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyoftheweb.in privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203084708id_/http%3A//windows.microsoft.com/en-us/internet-explorer/ie10-win7-privacy-statement) for the most accurate reproduction.*
 
 # Internet Explorer 10 for Windows 7 privacy statement - Microsoft Windows
 
