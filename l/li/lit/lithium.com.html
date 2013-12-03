@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the lithium.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602153522id_/http%3A//lithium.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lithium.com privacy policy that was archived on 2013-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131203020824id_/http%3A//www.lithium.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+
 <!-- META DATA -->
 <meta charset="utf-8">
 <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" /> -->
@@ -29,8 +30,8 @@
 
 <!-- STYLESHEETS -->
 <link rel="stylesheet" media="screen, projection" href="//www.i.lithium.com/assets/styles/reset.css">
-<link rel="stylesheet" media="screen, projection" href="//www.i.lithium.com/assets/styles/screen.05022013.css">
-<link rel="stylesheet" media="" href="//www.i.lithium.com/assets/styles/jquery.fancybox-1.3.4-122112.css">
+<link rel="stylesheet" media="screen, projection" href="//www.i.lithium.com/assets/styles/screen.20131031.css">
+<link rel="stylesheet" media="" href="//www.i.lithium.com/assets/styles/jquery.fancybox-1.3.4.css">
 <link rel="stylesheet" media="screen and (min-width: 480px)" href="//www.i.lithium.com/assets/styles/screen_small.css">
 <link rel="stylesheet" media="screen and (min-width: 768px)" href="//www.i.lithium.com/assets/styles/screen_medium.css">
 <link rel="stylesheet" media="screen and (min-width: 992px)" href="//www.i.lithium.com/assets/styles/screen_large.css">
@@ -39,6 +40,8 @@
 <!--[if lte IE 8]><link rel="stylesheet" type="text/css" media="screen, projection" href="//www.i.lithium.com/assets/styles/ie8.css" /><![endif]-->
 <!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="screen, projection" href="//www.i.lithium.com/assets/styles/ie7.css" /><![endif]-->
 <link rel="stylesheet" href="//www.i.lithium.com/assets/scripts/chosen/chosen.css">
+
+
 
 			
 			
@@ -68,14 +71,16 @@
 <script type="text/javascript" src="//use.typekit.com/xhy1mca.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
-<!-- CHOSEN -->
-<script type="text/javascript" src="//www.i.lithium.com/assets/scripts/chosen/chosen.jquery.js"></script>
+<!-- CUSTOM SELECT -->
+<script type="text/javascript" src="//www.i.lithium.com/assets/scripts/jquery.customSelect.min.js"></script>
 
 <!-- Friendly Dates -->
 <script type="text/javascript" src="//www.i.lithium.com/assets/scripts/jquery.timeago.js"></script>
 
+
+
 <!-- JAVASCRIPT -->
-<script type="text/javascript" src="//www.i.lithium.com/assets/scripts/global.20130320.js"></script>
+<script type="text/javascript" src="//www.i.lithium.com/assets/scripts/global.20131003.js"></script>
 <script type="text/javascript">
 function submitQASearch() {
     $('.module-qa .widget').load('/callbacks/search-q-a-posts?post_search_text=' + encodeURIComponent($('#qa-form input[name="post_search_text"]').val()) + '&post_search_tag=' +  encodeURIComponent($('#qa-form input[name="post_search_tag"]').val()),function () {
@@ -106,12 +111,19 @@ jQuery(document).ready(function() {
 <script type="text/javascript" async="" src="https://munchkin.marketo.net/munchkin.js"></script></head>
 
 <body class="basic">
+  
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
 
 <header class="masthead" role="banner">
 
     <div class="wrapper group">
         <div class="logo">
-            <a href="http://lithium.com/">Lithium</a>
+            <a href="https://manage.lithium.com/">Lithium</a>
         </div><!--.logo-->
 	    <ul class="nav-primary ff-din">
 	        <li id="drop-solutions" class="dropdown"><a href="/solutions">Solutions</a>
@@ -125,8 +137,8 @@ jQuery(document).ready(function() {
                          </ul>
                          <ul class="drop-nav-extra ff-din">
                               <li class="case-study-icon"></li>
-                              <li class="nav-extra-title">case study:</li>
-                              <li><a href="http://pages.lithium.com/gartner-autodesk-case-study.html">Social Initiative Dramatically Improves a Company's Customer Support Profitability <span class="case-study-arrow"></span></a></li>
+                              <li class="nav-extra-title">analyst report:</li>
+                              <li><a href="http://pages.lithium.com/gartner-mq-customer-engagement-center-2013.html">Gartner, Inc. Magic Quadrant for the CRM Customer Engagement Center <span class="case-study-arrow"></span></a></li>
                          </ul>
                     </div>
                 </li>
@@ -142,7 +154,7 @@ jQuery(document).ready(function() {
                                 <li><a href="/products/communities/management">management</a></li>
                                 
                                 <li class="drop-nav-title2">technology</li>
-                              	<li><a href="/products/technology/true-saas">true SaaS</a></li>
+                              	<li><a href="/products/technology/true-saas">true <span class="forceNoCase">SaaS</span></a></li>
                                 <li><a href="/products/technology/security">security</a></li>
                                 <li><a href="/products/technology/global">global</a></li>
                                 <li><a href="/products/technology/integration">integration</a></li>   
@@ -158,9 +170,8 @@ jQuery(document).ready(function() {
                                 
                                 <li class="drop-nav-title2">what's new</li>
                                 <!--<li><a href="/products/whats-new/socialdynamxacquisition">social dynamx acquisition</a></li>-->
-                                <li><a href="/products/whats-new/spring-13-release">spring '13 release</a></li>
-			        <li><a href="/products/whats-new/winter-13-release">winter '13 release</a></li> 
-                                   
+			        <li><a href="/products/whats-new/summer-13-release">summer '13 release</a></li> 
+                                <li><a href="/products/whats-new/spring-13-release">spring '13 release</a></li>   
                              </ul>
                              
                              
@@ -168,16 +179,18 @@ jQuery(document).ready(function() {
                     			<li class="drop-nav-title">social intelligence</li>
                               	<li><a href="/products/social-intelligence/communities">communities</a></li>
                                 <li><a href="/products/social-intelligence/socialweb">social web</a></li>
-                                <li><a href="/products/social-intelligence/listening">listening</a></li>
+                                
                                 <li class="drop-nav-promo"><ul class="drop-nav-extra ff-din">
                                <li class="case-study-icon"></li>
                               <li class="nav-extra-title">analyst report:</li>
-<li class="ff-din"><a href="http://pages.lithium.com/Gartner-MQ-SCRM-2012.html">get the Gartner 2012 Magic Quadrant for Social CRM <span class="case-study-arrow"></span></a></li>
+<li class="ff-din"><a href="http://pages.lithium.com/forrester-wave-social-depth-platforms-2013.html">get the Forrester Wave for Social Depth Platforms <span class="case-study-arrow"></span></a></li>
                          </ul></li>
                              </ul>
 
                     </div>
                     
+                </li>
+                <li id="drop-service" class="dropdown"><a href="/services">Services</a> 
                 </li>
                 <li id="drop-customers" class="dropdown"><a href="/customer-stories">Customers</a>
                     <div>
@@ -203,8 +216,8 @@ jQuery(document).ready(function() {
                               <li><a href="/company/career/life-at-lithium">careers</a></li>
                               <li><a href="/news-events">news &amp; events</a></li>
                               <li><a href="/resources/whitepapers">resources</a></li>
-                              <li><a href="/company/contact">contact</a></li>
-<li id="locations_nav"><p class="title"><strong>LOCAL NEWS:</strong></p><ul><li id="uk"><a href="http://lithium.com/company/locations/uk"><img src="/assets/images/navigationflags/flag_uk.png"></a></li><li id="fr"><a href="http://lithium.com/company/locations/fr"><img src="/assets/images/navigationflags/flag_fr.png"></a></li><li id="de"><a href="http://lithium.com/company/locations/de"><img src="/assets/images/navigationflags/flag_de.png"></a></li></ul></li>
+                              <li><a href="/company/contact">contact us</a></li>
+<li id="locations_nav"><p class="title"><strong>LOCAL NEWS:</strong></p><ul><li id="uk"><a href="http://lithium.com/company/locations/uk"><img src="//www.i.lithium.com/assets/images/navigationflags/flag_uk.png"></a></li><li id="fr"><a href="http://lithium.com/company/locations/fr"><img src="//www.i.lithium.com/assets/images/navigationflags/flag_fr.png"></a></li><li id="de"><a href="http://lithium.com/company/locations/de"><img src="//www.i.lithium.com/assets/images/navigationflags/flag_de.png"></a></li></ul></li>
                          </ul>
                          <ul class="drop-nav-extra ff-din">
                               <li class="case-study-icon"></li>
@@ -214,24 +227,34 @@ jQuery(document).ready(function() {
                     </div>
                 </li>
 	    </ul><!--.nav-primary-->
-        <nav role="navigation">
-		    <ul class="nav-utility ff-din">
-		    	<li class="drop-down"><a class="our-community" href="">our community</a>
-		    		<ul>
-		    			<li><a href="http://lithosphere.lithium.com">home</a></li>
-		    			<li><a href="http://lithosphere.lithium.com/t5/user/userloginpage">login</a></li>
-		    			<li><a href="http://lithosphere.lithium.com/t5/Ask-a-Question/qa-p/public-qa">ask a question</a></li>
-		    			<li><a href="http://lithosphere.lithium.com/t5/Customers/ct-p/Customers">customers</a></li>
-		    			<li><a href="http://lithosphere.lithium.com/t5/Support/ct-p/support">product support</a></li>
-		    			<li><a href="http://lithosphere.lithium.com/t5/Partners-of-Lithium-Private/bd-p/Partner">partners</a></li>
-		    			<li><a href="http://lithosphere.lithium.com/t5/Dev-Nation/ct-p/Developer">developer network</a></li>
-		    			<li><a href="http://lithosphere.lithium.com/t5/Lithium-Employees-Private/ct-p/Employees">employees</a></li>
-		    			<li><a href="http://lithosphere.lithium.com/t5/Lithium-s-View/bg-p/lithiumblog">blogs</a></li>
-		    		</ul>
-		    	</li>
-                        <li><a class="soc-media-demo lightbox js-modal-demo" href="/overlays/request-demo.html">request a demo</a></li>
-		    </ul><!--.nav-utility-->
-	    </nav>
+ 		<nav role="navigation">
+ 			<ul class="nav-utility ff-din">
+ 				<li class="drop-down"><a class="international" href="">international </a>
+ 					<ul>
+ 						<li id="uk"><a href="/company/locations/uk"><img src="//www.i.lithium.com/assets/images/flags/flag_uk.png"> UK</a></li>
+ 						<li id="fr"><a href="/company/locations/fr"><img src="//www.i.lithium.com/assets/images/flags/flag_fr.png"> FR</a></li>
+ 						<li id="de"><a href="/company/locations/de"><img src="//www.i.lithium.com/assets/images/flags/flag_de.png"> DE</a></li>
+ 					</ul>
+ 				</li>
+ 				<li class="pipe"> | </li>
+ 				<li class="drop-down"><a class="our-community" href="">community</a>
+ 					<ul>
+ 						<li><a href="http://lithosphere.lithium.com">home</a></li>
+ 						<li><a href="http://lithosphere.lithium.com/t5/user/userloginpage">login</a></li>
+ 						<li><a href="http://lithosphere.lithium.com/t5/Lithium-s-View/bg-p/lithiumblog">blogs</a></li>
+ 						<li><a href="http://lithosphere.lithium.com/t5/Ask-a-Question/qa-p/public-qa">ask a question</a></li>
+ 						<li><a href="http://lithosphere.lithium.com/t5/Customers/ct-p/Customers">customers</a></li>
+ 						<li><a href="http://lithosphere.lithium.com/t5/Support/ct-p/support">product support</a></li>
+ 						<li><a href="http://lithosphere.lithium.com/t5/Partners-of-Lithium-Private/bd-p/Partner">partners</a></li>
+ 						<li><a href="http://lithosphere.lithium.com/t5/Dev-Nation/ct-p/Developer">developer network</a></li>
+ 						<li><a href="http://lithosphere.lithium.com/t5/Lithium-Employees-Private/ct-p/Employees">employees</a></li>
+ 					</ul>
+ 				</li>
+ 				<li class="pipe"> | </li>
+ 				<li><a href="/company/contact">contact us</a></li>
+ 			</ul>
+ 			<!--.nav-utility--> 
+ 		</nav>
 	    <form action="/search" class="search-container">
 	        <fieldset>
 	        	<input class="input-search" name="Q" placeholder="Search">
@@ -249,67 +272,68 @@ jQuery(document).ready(function() {
 <div class="section">
 <div class="wrapper group">
 <h1>Lithium privacy policy</h1>
-<h2>about Lithium</h2>
-<p>Lithium provides social customer solutions for its clients. This Privacy Statement describes how we collect and use your personally identifying information. It also describes the choices available to you regarding the use of your personally identifying information by Lithium and options available to you to access your information and request correction or deletion should you choose to do so.</p>
-<p>Lithium does not send unsolicited emails or sell any personally identifying information users may have submitted to us though our website. In addition, for lead generation or marketing purposes, we may ask individuals interested in obtaining more information about Lithium products to voluntarily submit their contact information to us. Lithium has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's program requirements</a> including transparency, accountability, and choice regarding the collection and use of your personal information. &nbsp;TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@lithium.com. If you are not satisfied with our response, you can <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">contact TRUSTe here</a>.</p>
-<p>This site complies with U.S.-E.U. Safe Harbor and U.S.-Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union member countries and Switzerland. Lithium Technologies has certified that it adheres to the Safe Harbor Privacy Principals of notice, choice, onward transfer, security, data integrity, acess, and enforcement. </p>
-<p>For more information about the Safe Harbor program, and to view Lithium Technologies’ certificate, please visit the <a href="http://www.export.gov/safeharbor" target="_blank">U.S. Department of Commerce web site</a></p>
-<p>&nbsp;</p>
+<p>effective date: 11/11/2013</p>
+<h2>about Lithium&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a title="TRUSTe European Safe Harbor certification" href="https://privacy.truste.com/privacy-seal/Lithium-Technologies/validation?rid=8f91f158-6733-4aa7-9c7b-950d56e96089" target="_blank"><img style="border: none;" src="https://privacy-policy.truste.com/privacy-seal/Lithium-Technologies/seal?rid=8f91f158-6733-4aa7-9c7b-950d56e96089" alt="TRUSTe European Safe Harbor certification"></a></h2>
+
+<p>This privacy policy applies to www.lithium.com owned and operated by Lithium Technologies. Lithium Technologies provides social customer solutions for its clients. This Privacy Policy describes how Lithium Technologies (“we”, “Lithium”) collect and use your personally identifying information. It also describes the choices available to you regarding the use of your personally identifying information by Lithium and options available to you to access your information and request correction or deletion should you choose to do so.</p>
+<p>Lithium does not send unsolicited emails or sell any personally identifying information users may have submitted to us though our website. In addition, for lead generation or marketing purposes, we may ask individuals interested in obtaining more information about Lithium products to voluntarily submit their contact information to us.</p>
+<p>Lithium has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/">TRUSTe's program requirements</a> including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.lithium.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@lithium.com. If you are not satisfied with our response, you can contact <a href="https://feedback-form.truste.com/watchdog/request">TRUSTe here</a>.</p>
+<p>Lithium Technologies complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Lithium Technologies has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Lithium Technologies’ certification, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/ </a>
+</p>
 <h2>information collected or tracked by Lithium</h2>
 <h3>information submitted to Lithium</h3>
-<p>Lithium collects user-submitted information as a response to users wishing to be sent additional promotional information on Lithium products. Personally identifying information would include information such as name, phone number, company, title, and email address.&nbsp;</p>
-<p>&nbsp;</p>
-<h3>information indirectly submitted by users to Lithium&nbsp;</h3>
-<p>We also use cookies and collect some information passively such as the client browser type and IP address information. This information is gathered for all users to our website to track usage and provide a personalized experience.&nbsp;</p>
-<p>&nbsp;</p>
-<h2>use of information obtained by Lithium</h2>
+<p>Lithium collects user-submitted information as a response to users wishing to be sent additional promotional information on Lithium products. Personally identifying information would include information such as name, phone number, company, title, and email address.</p>
+<h3>information indirectly submitted by users to Lithium</h3>
+<p>We also use cookies and collect some information passively such as the client browser type and IP address information. This information is gathered for all users to our website to track usage and provide a personalized experience.</p>
+<h2><br>use of information obtained by Lithium</h2>
 <h3>information users submit to Lithium</h3>
-<p>Information gathered is solely used to respond to a user's request for additional information on Lithium products. We may also use a user's email address to send promotional or marketing materials such as updates on the Lithium product line, but this is only after that service is requested by the user.Information that users do not submit to us&nbsp;We use your IP address and browser-type information in the general administration of our website.&nbsp;</p>
-<p>&nbsp;</p>
+<p>Information gathered is solely used to respond to a user's request for additional information on Lithium products. We may also use a user's email address to send promotional or marketing materials such as updates on the Lithium product line, but this is only after that service is requested by the user. Information that users do not submit to us We use your IP address and browser-type information in the general administration of our website.</p>
 <h3>sharing of the information this site gathers or tracks</h3>
-<p>As a matter of policy we do not sell your personally identifying information.&nbsp;We may disclose your personally identifying information:</p>
+<p>As a matter of policy we do not sell your personally identifying information. We may disclose your personally identifying information:</p>
 <ul class="bullet">
 <li>to any third party with your consent</li>
-<li>to companies that provide services to help us with business activities such as marketing or website analytics</li>
+<li>to companies that provide services to help us with business activities such as marketing or website analytics. These companies are authorized to use your personally identifying information only as necessary to provide these services to us.</li>
 <li>when required by law to comply with a subpoena or other similar legal processes</li>
 <li>when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or comply with a law enforcement request</li>
 <li>if Lithium becomes involved in a merger or acquisition, or any form of sale of some or all of its assets, we will provide notice when your personally identifying information becomes subject to a different privacy policy</li>
 </ul>
-<p>&nbsp;</p>
 <h3>links to external websites</h3>
-<p>This site may contain links to other websites not connected to Lithium. Please be aware that Lithium is not responsible for the privacy practices of other websites. We encourage users to be aware when they leave our site and to read the privacy statements of any website that collects personally identifying information. This privacy statement applies solely to information collected by this website.&nbsp;</p>
-<p>&nbsp;</p>
+<p>This site may contain links to other websites not connected to Lithium. Please be aware that Lithium is not responsible for the privacy practices of other websites. We encourage users to be aware when they leave our site and to read the privacy statements of any website that collects personally identifying information. This privacy statement applies solely to information collected by this website.</p>
 <h3>special offers and updates</h3>
 <p>We will occasionally send you information on products, services, special deals, and promotions. You can sign up for these emails from us on our website. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the "Choices and Opt-out Options" section below.</p>
-<p>&nbsp;</p>
 <h2><a name="cookies"></a>use of cookies</h2>
-<p>Lithium uses browser cookies to manage user sessions on our website. A cookie is a piece of data stored on the user's computer tied to information about the user. We do not use persistent cookies on this site. We do not link the information we store in cookies to any personally identifying information you submit while on our site.</p>
+<p>Lithium uses browser cookies to manage user sessions on our website. A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We also use persistent cookies on this site. A persistent cookie remains on your hard drive for an extended period of time. We do not link the information we store in cookies to any personally identifying information you submit while on our site.</p>
 <a class="link-arrow" href="/pdfs/datasheets/Lithium_Cookies_Datasheet_052312.pdf">download the Lithium 'use of cookies' datasheet</a>
 <p>&nbsp;</p>
-<h3>third party cookies</h3>
-<p>The use of cookies by third parties affiliated with Lithium such as our service providers is limited to providing visitors to our website a personalized experience.</p>
-<p>&nbsp;</p>
-<h3>web beacons</h3>
+<h2>third party cookies</h2>
+<p>The use of cookies by third parties affiliated with Lithium such as our service providers is limited to providing visitors to our website a personalized experience. We do not have access or control over these cookies. </p>
+<p>Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifying information.</p>
+<h2>flash LSOs</h2>
+<p>Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html" target="blank">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html</a>.</p>
+<h2>web beacons</h2>
 <p>Our website pages may contain electronic images known as Web beacons. These are very small single-pixel GIF images used along with cookies to compile aggregated statistics to analyze site usage and may also be used in some of our emails to track the effectiveness of our customer communications and marketing campaigns.</p>
-<p>&nbsp;</p>
+<h2>behavioral targeting</h2>
+<p>We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences.truste.com/" target="blank">here.</a> Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p>
+<p>(Google AdSense/Adwords) We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <a href="http://www.google.com/privacy_ads.html" target="blank">http://www.google.com/privacy_ads.html.</a></p>
+<h2>blogs</h2>
+<p>Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto: privacy@lithium.com">privacy@lithium.com.</a> In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<h2>testimonials</h2>
+<p>We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at <a href="mailto: privacy@lithium.com">privacy@lithium.com.</a></p>
+<h2>single sign-on</h2>
+<p>You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</p>
 <h2>changes in our privacy policy</h2>
-<p>This Privacy notice may change from time to time, so please review it frequently for any updates or changes. If we make material changes to this policy we will place a prominent notice on our web site.</p>
-<p>&nbsp;</p>
+<p>This Privacy notice may change from time to time, so please review it frequently for any updates or changes. If we make material changes to this policy we will notify you by email (sent to the e-mail address specified in your account) or we will place a prominent notice on our web site prior to the change becoming effective.</p>
 <h3>access to your personally identifying information (pii)</h3>
 <p>Users can update or correct their personally identifiable information or remove it from our contact list by emailing us at privacy@lithium.com. Users can expect a response to their access requests in thirty (30) days or less.</p>
-<p>&nbsp;</p>
 <h3>security of your personally identifying information</h3>
 <p>We follow generally accepted industry standards to protect the personally identifying information submitted to us, both during transmission and once we receive it. Please keep in mind, however, no method of transmission over the Internet, or any method of electronic storage is perfectly secure. If you have any questions about our security practices or security on our website, you can visit our security information page at <a href="/security">lithium.com/security</a> or email us at <a href="mailto:privacy@lithium.com">privacy@lithium.com</a></p>
-<p>&nbsp;</p>
 <h3>choices and opt-out options</h3>
-<p>Users have the opportunity to “opt-out” of having their personally identifying information used for certain purposes such as receiving promotional or other marketing material from us during the registration process for downloading a whitepaper or signing up for our webcasts.Additionally, users who no longer wish to receive our updates or newsletters may opt-out of receiving these communications by following the instructions contained in the mailer or by emailing us at marketing@lithium.com. Please include the term “OPT-OUT” in the subject line immediately followed by your email address.</p>
-<p>&nbsp;</p>
+<p>Users have the opportunity to “opt-out” of having their personally identifying information used for certain purposes such as receiving promotional or other marketing material from us during the registration process for downloading a whitepaper or signing up for our webcasts. Additionally, users who no longer wish to receive our updates or newsletters may opt-out of receiving these communications by following the instructions contained in the mailer or by emailing us at marketing@lithium.com. Please include the term “OPT-OUT” in the subject line immediately followed by your email address.</p>
 <h3>data retention</h3>
 <p>We will retain your contact information for as long as your account is active or as needed to provide your services. If you wish to cancel your account or request that we no longer use your information to provide services, contact us at <a href="mailto:marketing@lithium.com">marketing@lithium.com</a>. Please include the term “OPT-OUT” in the subject line immediately followed by your email address. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
-<p>&nbsp;</p>
 <h3>contacting us</h3>
 <p>If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please email us at <a href="mailto:privacy@lithium.com">privacy@lithium.com</a> or write us at the following address:</p>
-<p>Lithium Technologies<br>225 Bush St., 15th Floor<br>San Francisco, CA 94104<br>USA&nbsp;</p>
+<p>Lithium Technologies<br>225 Bush St., 15th Floor<br>San Francisco, CA 94104<br>USA</p>
 </div>
 </div>
 </div>
@@ -317,171 +341,103 @@ jQuery(document).ready(function() {
 
 
 <footer class="site-info" role="contentinfo">
-    <nav class="nav-sitemap" role="note">
-        <div class="wrapper">
-             <div class="footer-left group">
-                 <div class="footer-content">
-                      <p class="ff-din">Lithium helps companies unlock the passion of their customers. Lithium software powers amazing Social Customer Experiences for more than 400 iconic <a href="http://www.lithium.com/customer-stories">brands</a> including <a href="http://www.att.com" target="_blank">AT&amp;T</a>, <a href="http://www.bt.co.uk" target="_blank">BT</a>, <a href="http://www.bestbuy.com" target="_blank">Best Buy</a>, <a href="http://www.indosat.com" target="_blank">Indosat</a>, <a href="http://www.sephora.com" target="_blank">Sephora</a>, and <a href="http://www.telstra.com.au" target="_blank">Telstra</a>. Lithium helps companies grow <a href="http://www.lithium.com/solutions/social-marketing">brand advocacy</a>, <a href="http://www.lithium.com/solutions/social-commerce">drive sales</a>, <a href="http://www.lithium.com/solutions/social-support">reduce costs</a> and <a href="http://www.lithium.com/solutions/social-innovation">accelerate innovation</a> to create social communities that redefine the customer experience.</p> 
-                 </div><!--.footer-content-->
-                 <div class="link-group-wrapper group">
-                 <div class="link-group">
-                     <h2>what we do</h2>
-                     <ul class="ff-din">
-                         <li><a href="/solutions">solutions</a></li>
-                         <li><a href="/products">products</a></li>
-                         <li><a href="/customer-stories">stories</a></li>
-                         <li><a href="/resources">resources</a></li>
-                         <li><a href="/client-services/services">services</a></li>
-                     </ul>
-            </div>
-            <div class="link-group">
-                <h2>our community</h2>
-                <ul class="ff-din">
-                    <li><a href="http://lithosphere.lithium.com">Lithosphere home</a></li>
-                    <li><a href="http://lithosphere.lithium.com/t5/user/userloginpage">login</a></li>
-                    <li><a href="http://lithosphere.lithium.com/t5/Customers/ct-p/Customers">customers</a></li>
-                    <li><a href="http://lithosphere.lithium.com/t5/Lithium-s-View/bg-p/lithiumblog">blogs</a></li>
-                    <li><a href="http://lithosphere.lithium.com/t5/Support/ct-p/support">product support</a></li>
-                    <li><a href="http://lithosphere.lithium.com/t5/developer-network/ct-p/Developer">developer network</a></li>
-                </ul>
-            </div>
-            <div class="link-group">
-                <h2>about Lithium</h2>
-                <ul class="ff-din">
-                    <li><a href="/company/overview">company</a></li>
-                    <li><a href="/company/leadership">leadership</a></li>
-                    <li><a href="/company/partners">partners</a></li>
-                    <li><a href="/company/investors">investors</a></li>
-                    <li><a href="/company/career">careers</a></li>
-                    <li><a href="/company/contact">contact</a></li>
-                </ul>
-            </div>
-                <div class="link-group news-events last">
-                    <h2>news and events</h2>
-                    <ul class="ff-din">
-                        <li><a href="/news-events">overview</a></li>
-                        <li><a href="/news-events/press-releases">press releases</a></li>
-                        <li><a href="/news-events/in-the-news">in the news</a></li>
-                        <li><a href="/news-events/upcoming-events">upcoming events</a></li>
+	<nav class="nav-sitemap" role="note">
+		<div class="wrapper">
+			<div class="footer-left group">
+				<!--.footer-content-->
+				<div class="link-group-wrapper group">
+					<div class="link-group">
+						<h2>what we do</h2>
+						<ul class="ff-din">
+							<li><a href="/solutions">solutions</a></li>
+							<li><a href="/products">products</a></li>
+							<li><a href="/customer-stories">stories</a></li>
+							<li><a href="/resources">resources</a></li>
+						</ul>
+					</div>
+					<div class="link-group">
+						<h2>our community</h2>
+						<ul class="ff-din">
+							<li><a href="http://lithosphere.lithium.com">Lithosphere home</a></li>
+							<li><a href="http://lithosphere.lithium.com/t5/user/userloginpage">login</a></li>
+							<li><a href="http://lithosphere.lithium.com/t5/Lithium-s-View/bg-p/lithiumblog">blogs</a></li>
+							<li><a href="http://lithosphere.lithium.com/t5/Customers/ct-p/Customers ">customers</a></li>
+							<li><a href="http://lithosphere.lithium.com/t5/Support/ct-p/support">product support</a></li>
+							<li><a href="http://lithosphere.lithium.com/t5/developer-network/ct-p/Developer">developer network</a></li>
+								</ul>
+					</div>
+					<div class="link-group">
+						<h2>about Lithium</h2>
+						<ul class="ff-din">
+							<li><a href="/company">company</a></li>
+							<li><a href="/company/leadership">leadership</a></li>
+							<li><a href="/company/partners">partners</a></li>
+							<li><a href="/company/investors">investors</a></li>
+							<li><a href="/company/career">careers</a></li>
+							<li><a href="/company/contact">contact us</a></li>
+						</ul>
+					</div>
+					<div class="link-group news-events last">
+						<h2>news and events</h2>
+						<ul class="ff-din">
+							<li><a href="/news-events/press-releases">press releases</a></li>
+							<li><a href="/news-events/in-the-news">in the news</a></li>
+							<li><a href="/news-events/upcoming-events">upcoming events</a></li>
+
+						</ul>
+						
+						<br>
+						<h2>regional news</h2>
+						<ul class="footer-region">
+							<li id="uk"><a href="/company/locations/uk"><img src="//www.i.lithium.com/assets/images/flags/flag_uk.png"></a></li>
+							<li id="fr"><a href="/company/locations/fr"><img src="//www.i.lithium.com/assets/images/flags/flag_fr.png"></a></li>
+							<li id="de"><a href="/company/locations/de"><img src="//www.i.lithium.com/assets/images/flags/flag_de.png"></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="link-group link-group-col-group double">
+            
+            <ul class="footer-contact">
+                    	<li><img src="/assets/images/footer-contact-us.png"><a href="/company/contact">contact us</a></li>
+                        <li><img src="/assets/images/footer-ask-the-community.png"><a href="/company/contact/ask-the-community">ask the community</a></li>
+                        <li><img src="/assets/images/footer-request-a-demo.png"><a href="/company/contact/request-a-demo">request a demo</a></li>
                     </ul>
-                </div>
-              </div>
-            </div>
-            <div class="link-group link-group-col-group double">
-                <div class="link-group switch">
-						<!-- version A -->
-                  <div class="footer-form testvariant active" id="emailVersionA">
-						  <h2><span class="icon email"></span> Join our mailing list for Lithium updates</h2>
-                      <form action="http://pages.lithium.com/index.php/leadCapture/save" method="post" class="formValidate" name="email-subscribe">
-								<div class="errors ff-din" style="display:none;"></div>
-                          <fieldset class="text-field offset">
-                               <ul>
-                                  <li><label for="mailing-address">Email</label></li>
-                                  <li class="input">
-                                      <input name="Email" id="mailing-address" type="text" class="placeholder-text required email" rel="Email" placeholder="john@example.com">
-
-                                      <button class="email-submit jsbtn">submit</button>
-                                  </li>
-                              </ul>
-								</fieldset>
-								<fieldset class="text-field offset expand">
-									  <ul>
-											<li>
-								              <label for="list_first_name">First Name</label>
-								              <input maxlength="60" name="FirstName" id="list_first_name" type="text" class="input placeholder-text required" placeholder="John" rel="First Name" value="">
-								         </li>
-								         <li>
-								              <label for="list_last_name">Last Name</label>
-								              <input maxlength="60" name="LastName" id="list_last_name" type="text" class="input placeholder-text required" placeholder="Smith" rel="Last Name" value="">
-								         </li>
-											 <li>
-								              <label for="list_company">Company</label>
-								              <input maxlength="60" name="Company" id="list_company" type="text" class="input placeholder-text required" placeholder="ABC Company" rel="Company" value="">
-								         </li>
-											<li class="nojs">
-								              <label for="list_spamcheck">Uncheck the box to submit</label>
-								              <input name="Junk_Flag__c" value="1" id="list_spamcheck" type="checkbox" class="input" checked="checked">
-								         </li>
-											<noscript>
-												<li>
-													<input type="submit" class="btn" style="width:auto;height:auto;" value="Submit">
-												</li>
-											</noscript>
-											<li class="jsbtn"><input type="submit" value="" style="display:none;">
-												<a href="javascript:;" onclick="$('#emailVersionA form').submit();" class="btn">Submit</a>
-											</li>										 </ul>
-                          </fieldset>
-                          <div>
-                          <input name="LeadSource" id="LeadSource" type="hidden" value="Web">
-                          <input name="WebSource" id="WebSource" type="hidden" value="Web">
-                          <input name="sfga" id="sfga" type="hidden" value="00D00000000hgkn">
-                          <span style="display:none;"><input type="text" name="_marketo_comments" value=""></span>
-                          <input type="hidden" name="lpId" value="2014">
-                          <input type="hidden" name="subId" value="204">
-                          <input type="hidden" name="kw" value="">
-                          <input type="hidden" name="cr" value="">
-                          <input type="hidden" name="searchstr" value="">
-                          <input type="hidden" name="lpurl" value="http://lithium.com/privacy?cr={creative}&amp;kw={keyword}">
-                          <input type="hidden" name="formid" value="42">
-                          <input type="hidden" name="returnURL" value="http://lithium.com/other/thank-you-newsletter">
-                          <input type="hidden" name="retURL" value="http://lithium.com/other/thank-you-newsletter">
-                          <input type="hidden" name="_mkt_disp" value="return">
-                          <input type="hidden" name="_mkt_trk" value="">
-                          </div>
-                      </form>
-                  </div>
-					 <!-- version b -->
-                   <div class="footer-form testvariant" id="emailVersionB">
-							 <h2><span class="icon email"></span> Join our mailing list for Lithium updates</h2>
-                       <div class="group" style="margin:10px 47px 0;"><a href="/overlays/email-form" class="btn lightbox js-modal-demo">sign up</a></div>
-                   </div>
-					 <!-- version c -->
-                   <div class="footer-form testvariant" id="emailVersionC">
-							 <h2><span class="icon email"></span> Join our mailing list for Lithium updates</h2>
-                       <form action="#" method="post" class="formValidate" name="email-subscribe">
-                           <fieldset class="text-field offset">
-                                 <ul>
-                                    <li><label for="emailverc">Email</label></li>
-                                    <li class="input">
-                                        <input name="Email" id="emailverc" type="text" class="placeholder-text required email" rel="Email" placeholder="john@example.com">
-
-                                        <a href="/overlays/email-signup-alt" class="email-submit lightbox js-modal-demo">submit</a>
-                                    </li>
-                                </ul>
-                           </fieldset>
-                       </form>
-                   </div>
-                </div>
-                <div class="link-group icons alt">
-                    <h2>stay connected</h2>
-                    <ul>
+                    
+				<div class="link-group icons alt">
+					
+					<ul>
+						<li><a target="_blank" class="icon social twitter" href="http://twitter.com/LithiumTech">Twitter</a></li>
                         <li><a target="_blank" class="icon social facebook" href="http://www.facebook.com/LithiumTechnologies">Facebook</a></li>
-                        <li><a target="_blank" class="icon social twitter" href="http://twitter.com/LithiumTech">Twitter</a></li>
-                        <li><a target="_blank" class="icon social google-plus" href="https://plus.google.com/u/0/108235398709206556291/posts">Google+</a></li>
-                        <li><a target="_blank" class="icon social linked-in" href="http://www.linkedin.com/company/28789?trk=tyah">LinkedIn</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div><!--.wrapper-->
-    </nav><!--.nav-sitemap-->
-    
-    <nav class="nav-legal" role="note">
-        <div class="wrapper">
-            <small class="ff-din">© Lithium Technologies Inc. 2013</small>
-            <ul class="ff-din">
-                <li><a href="/site-map">site map</a></li>
-                <li><a href="/privacy">privacy</a></li>
-                <li><a href="/security">security</a></li>
-                <li><a href="/privacy#cookies">cookies</a></li>
-                <li><a href="/disclaimer">disclaimer</a></li>
-            </ul>
-        <div class="footer-logos">
-
-        </div><!--.footer-logos-->
-        </div><!--.wrapper-->
-    </nav><!--.nav-legal-->
-    
+						<li><a target="_blank" class="icon social linked-in" href="http://www.linkedin.com/company/28789?trk=tyah">LinkedIn</a></li>
+                        <li><a target="_blank" class="icon social youtube" href="http://www.youtube.com/user/LithiumTechChannel ">Youtube</a></li>
+						<li><a target="_blank" class="icon social google-plus" href="https://plus.google.com/u/0/108235398709206556291/posts">Google+</a></li>
+						<li><a target="_blank" class="icon social lithosphere" href="http://lithosphere.lithium.com">Lithosphere</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!--.wrapper--> 
+	</nav>
+	<!--.nav-sitemap-->
+	
+	<nav class="nav-legal" role="note">
+		<div class="wrapper"> <small class="ff-din">© Lithium Technologies Inc. 2013</small>
+			<ul class="ff-din">
+				<li><a href="/site-map">site map</a></li>
+				<li><a href="/privacy">privacy</a></li>
+				<li><a href="/security">security</a></li>
+				<li><a href="/disclaimer">disclaimer</a></li>
+			</ul>
+			<!--.footer-logos--> 
+		</div>
+		<!--.wrapper--> 
+	</nav>
+	<!--.nav-legal--> 
+	
 </footer>
+<!-- this closing div is for the homepage only -->
+<!-- </div> -->
 <script type="text/javascript">
 (function() {var didInit = false;
   function initMunchkin() {if(didInit === false) {didInit = true;Munchkin.init('348-NSF-578');}}
@@ -490,18 +446,16 @@ jQuery(document).ready(function() {
   s.onreadystatechange = function() {if (this.readyState == 'complete' || this.readyState == 'loaded') {initMunchkin();}};
   s.onload = initMunchkin;document.getElementsByTagName('head')[0].appendChild(s);
 })();
-</script>
-
+</script> 
 <script type="text/javascript">
-  var _gaq=[ ['_setAccount','UA-318230-1'],['_setDomainName','lithium.com'],['_setAllowLinker',true],['_trackPageview'] ];
+  var _gaq=[ ['_setAccount','UA-318230-1'],['_trackPageview'] ];
   (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
   g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
   s.parentNode.insertBefore(g,s)}(document,'script'));
   setTimeout(function(){var a=document.createElement("script");var b=document.getElementsByTagName('script')[0];
   a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/1524.js?"+Math.floor(new Date().getTime()/3600000);
   a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-
+</script> 
 <script type="text/javascript" charset="utf-8">
 (function($) {
 	var variant = $('.testvariant:visible');
@@ -524,10 +478,27 @@ jQuery(document).ready(function() {
 		$("input[rel~=Email]",variant).bind("keydown",expandHandler);
 	}
 })(jQuery);
-</script>
+</script> 
 <script>
 $('input[name="LeadSource"]').val('Web');
 </script>
-<!-- MySQL: 0.0256 s, 53 request(s), PHP: 0.0779 s, total: 0.1035 s, document retrieved from database -->
+  
+<!-- ClickTale Bottom part -->
 
+<script type="text/javascript">
+// The ClickTale Balkan Tracking Code may be programmatically customized using hooks:
+// 
+//   function ClickTalePreRecordingHook() { /* place your customized code here */  }
+//
+// For details about ClickTale hooks, please consult the wiki page http://wiki.clicktale.com/Article/Customizing_code_version_2
+
+document.write(unescape("%3Cscript%20src='"+
+(document.location.protocol=='https:'?
+"https://clicktalecdn.sslcs.cdngc.net/www08/ptc/7e452a2c-eb1a-44d8-90e5-b086985461b9.js":
+"http://cdn.clicktale.net/www08/ptc/7e452a2c-eb1a-44d8-90e5-b086985461b9.js")+"'%20type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://clicktalecdn.sslcs.cdngc.net/www08/ptc/7e452a2c-eb1a-44d8-90e5-b086985461b9.js" type="text/javascript"></script>
+
+<!-- ClickTale end of Bottom part -->
+
+<!-- MySQL: 0.0024 s, 4 request(s), PHP: 0.0487 s, total: 0.0510 s, document retrieved from cache -->
 </body></html>
