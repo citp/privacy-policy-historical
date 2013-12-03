@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactfly.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605034156id_/https%3A//www.contactfly.com/agreement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactfly.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203030235id_/https%3A//www.contactfly.com/agreement.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
