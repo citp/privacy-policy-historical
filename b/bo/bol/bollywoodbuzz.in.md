@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodbuzz.in privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308214342id_/http%3A//www.bollywoodbuzz.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodbuzz.in privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203165551id_/http%3A//www.bollywoodbuzz.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bollywood Buzz
 
