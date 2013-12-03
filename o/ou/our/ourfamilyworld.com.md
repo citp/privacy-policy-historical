@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourfamilyworld.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429131839id_/http%3A//www.ourfamilyworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourfamilyworld.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203233618id_/http%3A//www.ourfamilyworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Our Family World
 
@@ -65,6 +65,10 @@ Overall, cookies help us provide you with a better website, by enabling us to m
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 We also use third party advertisements on ourfamilyworld.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type,  time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit
+
+<http://www.networkadvertising.org/managing/opt_out.asp.>
 
 ### Links to other websites
 
