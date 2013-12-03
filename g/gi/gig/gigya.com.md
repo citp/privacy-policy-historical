@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gigya.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531181631id_/http%3A//www.gigya.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigya.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203060048id_/http%3A//www.gigya.com/privacy-policy) for the most accurate reproduction.*
 
-# Gigya Privacy Policy
+# Gigya Privacy Policy | Gigya
 
 We value your privacy, and we want to help make your experience with us as satisfying and safe as possible, whether you are accessing Gigya, Inc. (“Gigya”, “we” or “us) through 1) the use of any of our Social Components or Applications and/or 2) our website available at www.gigya.com, including the internal administration system provided to our Clients, available at platform.gigya.com (the “Platform”) (together, the “Gigya Website”). 
 
