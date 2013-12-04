@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628062500id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204204338id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # GameFly: Privacy Policy
 
@@ -38,7 +38,7 @@ By reading this Privacy Policy, you can expect to be informed about the followin
 
 ### What does this Privacy Policy apply to?
 
-This Privacy Policy applies to all of the online and mobile websites and interactive and mobile applications operated by GameFly (unless a different policy is provided on a particular site or application, in which case such different policy shall control) (collectively, the “Services”), including, but not limited to, the gamefly.com website and all its subpages and successor pages (the "Website") and the GameFly mobile application and associated services (the "GameFly App," "Application," or "App"). Unless expressly provided for, this Privacy Policy does not extend to any websites, applications or services of any third party companies or organizations to which we link or which link to us. GameFly does not operate or control those websites, applications or services.
+This Privacy Policy applies to all of the online and mobile websites and interactive and mobile applications operated by GameFly (unless a different policy is provided on a particular site or application, in which case such different policy shall control) (collectively, the “Services”), including, but not limited to, the gamefly.com, gamefly.co.uk, shacknews.com, mobygames.com and cheatfreak.com websites, including all subpages and successor pages thereto (each, a “Website” and collectively, the "Websites") and the GameFly mobile application and associated services (the "GameFly App," "Application," or "App"). Unless expressly provided for, this Privacy Policy does not extend to any websites, applications or services of any third party companies or organizations to which we link or which link to us. GameFly does not operate or control those websites, applications or services.
 
 * Review the privacy policy of any third party website, application or service linked to or accessible from our site before you submit any personal information to such parties.
 
@@ -109,7 +109,7 @@ The Services may offer you the possibility to connect your accounts from third p
 
 ##### Browser Cookies
 
-The Services set browser "cookies" on your computer or other device. Cookies are alphanumeric identifiers that are transferred to your computer's or mobile device's hard drive or storage through your Web browser when you visit or use the Services. If cookies are disabled on your Web browser, you will not be able to use many of the functions of the Services. The "Help" menu on most Web browsers will tell you how to enable or disable cookies.
+The Services set browser "cookies" on your computer or other device. Cookies are alphanumeric identifiers that are transferred to your computer's or mobile device’s hard drive or storage through your Web browser when you visit or use the Services. If cookies are disabled on your Web browser, you will not be able to use many of the functions of the Services. The "Help" menu on most Web browsers will tell you how to enable or disable cookies.
 
 Please note that information contained in a cookie may be linked to your personally identifiable information via an account ID. Cookies allow us to provide enhanced functionality on the Services, such as:
 
@@ -119,7 +119,7 @@ Please note that information contained in a cookie may be linked to your persona
 
 
 
-In addition, our third party advertising partners will place a unique cookie on your browser via the Services for purposes of serving advertisements when you visit or use the Services or when you visit other _non_ -GameFly websites on the Internet. Please see below for more information about our "Online Advertising Practices." Our Privacy Policy does not cover the use of cookies by third parties. We do not have access or control over these cookies.
+In addition, our third party advertising partners will place a unique cookie on your browser via the Services for purposes of serving advertisements when you visit or use the Services or when you visit other non-GameFly websites on the Internet. Please see below for more information about our "Online Advertising Practices." Our Privacy Policy does not cover the use of cookies by third parties. We do not have access or control over these cookies.
 
 ##### Flash Cookies & HTML5
 
@@ -159,9 +159,9 @@ Ad Serving Technology: The Services may employ proprietary or third party ad ser
 
 You recognize and agree that the advertising companies who deliver ads for GameFly may combine the information collected with other information they have independently collected from other services or products. These companies collect and use information under their own privacy policies. These ad serving technologies may be integrated into the Services.
 
-Advertising Third Party Products & Services: The third party ads appearing on the Website are delivered to your browser by DoubleClick via Future US, our Web advertising partner. DoubleClick (or a similar third party vendor) may set and access its own cookies on your Web browser in order to serve ads it believes may be of interest to you based on the profile information you provided to us at registration (e.g., demographic information) as well as information collected about you by DoubleClick elsewhere on the Web. DoubleClick (or a similar third party vendor) may use information about you gathered from the Services (including your demographic information provided to us upon registration as well as your browsing behavior on the Website) to serve third party ads to you elsewhere on the Internet. DoubleClick's (or a similar third party vendor's) use of cookies on our Website is subject to DoubleClick's (or a similar third party vendor's) privacy policies. For more information about DoubleClick and how cookies work, please visit [DoubleClick's website](http://www.google.com/intl/en/privacy/) and the [Network Advertising Initiative's homepage](http://www.networkadvertising.org/managing/opt_out.asp)., or TRUSTe's preference manager http://preferences-mgr.truste.com/. Please see "Can I choose how my personal information is used?" below to learn more about setting your Web browser to block cookies.
+Advertising Third Party Products & Services: The third party ads appearing on the Website are delivered to your browser by DoubleClick via Future US, our Web advertising partner. DoubleClick (or a similar third party vendor) may set and access its own cookies on your Web browser in order to serve ads it believes may be of interest to you based on the profile information you provided to us at registration (e.g., demographic information) as well as information collected about you by DoubleClick elsewhere on the Web. DoubleClick (or a similar third party vendor) may use information about you gathered from the Services (including your demographic information provided to us upon registration as well as your browsing behavior on the Website) to serve third party ads to you elsewhere on the Internet. DoubleClick's (or a similar third party vendor's) use of cookies on our Website is subject to DoubleClick's (or a similar third party vendor's) privacy policies. For more information about DoubleClick and how cookies work, please visit [DoubleClick's website ](http://www.google.com/intl/en/policies/privacy/) and the [Network Advertising Initiative's homepage](http://www.networkadvertising.org/managing/opt_out.asp)., or TRUSTe's preference manager http://preferences-mgr.truste.com/. Please see “Can I choose how my personal information is used?” below to learn more about setting your Web browser to block cookies.
 
-The third party ads appearing on the App are delivered to you by AdMarvel (or a similar third party vendor). AdMarvel serves ads it believes may be of interest to you. For more information about Ad Marvel and the privacy policies that govern its advertising practices please visit Ad Marvel's website.
+The third party ads appearing on the App are delivered to you by AdMarvel (or a similar third party vendor). AdMarvel serves ads it believes may be of interest to you. For more information about Ad Marvel and the privacy policies that govern its advertising practices please visit [Ad Marvel's website](http://www.admarvel.com/).
 
 Advertising GameFly Products & Services: After you visit or use the Services, our advertising partners may deliver GameFly ads to your Web browser when you are visiting other sites on the Internet. These ads are delivered based on cookies that are set by our third party advertising network partners when you visit or use the Services, and that are recognized by these companies when you visit other sites. Please see “Can I choose how my personal information is used?” below to learn more about setting your Web browser to block cookies.
 
@@ -175,7 +175,7 @@ The Services include social media features (“Features”), such as the Faceboo
 
 ##### Social Sign On
 
-You can log in to our site using third party services like Facebook or Twitter. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. These services also give you the option to post information about your activities on this Web site and to your social network in order to share with others within your network.
+You can log in to our site using third party services like Facebook or Twitter. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. These services also give you the option to post information about your activities on this Website and to your social network in order to share with others within your network.
 
 ##### Public Forums
 
@@ -236,4 +236,4 @@ Any personal information you provide to the above email or postal mail addresses
 
 If you have any questions, complaints or comments regarding our GameFly Referrals Program, please contact [friends_cs@gamefly.com](mailto:friends_cs@gamefly.com).
 
-Last Updated: April 10, 2013.
+Last Updated: May 13, 2013.
