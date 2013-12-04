@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presdo.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603101453id_/http%3A//match.presdo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presdo.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204010954id_/http%3A//match.presdo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,8 +90,8 @@ If you have any questions about this privacy policy, please first contact us at 
 
 You may also contact us at:
 
-Presdo, Inc.  
+**Presdo, Inc.**  
 465 Fairchild Drive, Suite 128  
 Mountain View, CA 94043  
-Phone: +1 951-9PRESDO (951-977-3736)  
+United States of America  
 Email: [privacy@presdo.com](mailto:privacy@presdo.com?subject=Privacy%20Policy)
