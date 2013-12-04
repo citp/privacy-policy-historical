@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaa.ie privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619022012id_/http%3A//www.aaireland.ie/AA/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.ie privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204231328id_/http%3A//www.theaa.ie/AA/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # AA Ireland | Data Protection & Privacy Policy | AA Ireland
 
@@ -14,19 +14,15 @@ We store all the information you provide us, including information provided via 
 
 Any new information you provide us may be used to update an existing record we hold for you. If you provide a work email address we will not be responsible for third parties having access to any communications we send.
 
-To help us prevent fraud and money laundering, your details may be submitted to fraud prevention agencies and other organisations where your records may be searched. We will also conduct a search with a credit reference bureau to assist us in providing a quote, and to check which payment options we can make available to you. A copy of this search will be left on your credit file but will not affect your credit score. Where we are providing a motor insurance quotation this search will be noted on your credit file and may be reflected in your credit score.
+Our Product Providers may subscribe to industry databases for fraud prevention purposes. Your personal details may be passed to industry databases to request information about you and your claims history with other insurance companies.
 
 Examples of how we may personalise information might include preparing an insurance quote for you, or notifying you when we will be delivering certain products in your area.
-
-If you apply for other financial services and/or products, a check of your details with fraud prevention agencies may be necessary. The precise nature of these processes is explained fully when you apply.
 
 We make outbound phone calls for a number of reasons relating to our many products, including breakdown cover and insurance. We are fully committed to the regulations set out by the Central Bank of Ireland and other relevant legislation and follow strict processes to ensure we comply with them.
 
 Third parties may deliver some of our products to you or provide all or part of the service requested by you. In these instances, whilst the information you provide will be disclosed to them, it will only be used for the administration of the service provided (including for example verification of any quote given to you and claims processing), underwriting and pricing purposes as appropriate, testing, and to maintain management information for business analysis.
 
 When you enter a contest or other promotional feature, we may ask for your name, address, phone numbers and email address so we can administer the contest and notify winners. Occasionally, we may also use the information we collect to notify you by post, phone, mobile phone, email and SMS about new or existing AA Group services, products and special offers we think you'll find valuable.
-
-We may use sensitive personal data collected in respect of one product to market another appropriate product to you. We may use sensitive personal data collected in respect of one product to market another appropriate product to you.
 
 We ask for your home, mobile telephone number, and email address to enable us to contact you in relation to an enquiry you have made, to contact you about relevant products or services which we offer, to contact you if there is a problem with your order, or there is another genuine reason for doing so. If you provide us with credit or debit card details in order to pay for a service or product, we will keep such details secure and ensure that the details are only used further with your consent and/or for the purposes of any appropriate refunds.
 
@@ -53,7 +49,7 @@ If we provide information to a third party (either a provider of a product or se
 
 In addition, we will restrict the information disclosed to the absolute minimum necessary, for example, to provide the product or service.
 
-Our own security procedures mean that we may occasionally have to request proof of Identity or check your presence on the electoral roll.
+Our own security procedures mean that we may occasionally have to request proof of Identity.
 
 In the event of telephone calls from you, we also reserve the right to ask security questions (which we in our sole discretion deem appropriate), in order to satisfy ourselves that you are who you say you are. All Telephone calls, both inbound and outbound, are recorded and may be monitored for the purposes of training, quality purposes and to verify information and help prevent and detect fraud.
 
