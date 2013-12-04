@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mtgox.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526103120id_/https%3A//mtgox.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtgox.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204224146id_/https%3A//www.mtgox.com/privacy_policy) for the most accurate reproduction.*
 
-# Mt.Gox - Wymiana Bitcoinów
+# Mt.Gox - Bitcoin Exchange
 
 **General**
 
