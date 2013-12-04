@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftbig.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619063607id_/http%3A//www.giftbig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftbig.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204074454id_/http%3A//www.giftbig.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy & Policies | GiftBig.com
 
