@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the eplmatches.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426014432id_/http%3A//www.eplmatches.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eplmatches.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204190539id_/http%3A//www.eplmatches.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - eplmatches.com : eplmatches.com
-
-  
-
+# Privacy Policy - eplmatches.com
 
   
 At www.eplmatches.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.eplmatches.com and how it is used.
