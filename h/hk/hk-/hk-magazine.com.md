@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the hk-magazine.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524194613id_/http%3A//hk.asia-city.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hk-magazine.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204090356id_/http%3A//hk-magazine.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Hong Kong Privacy Policy | HK Magazine Online
+# Hong Kong's City Living Authority Privacy Policy | HK Magazine
 
 Effective April 1, 2013
 
 **Overview**
 
-Asia City Online takes great care of, and respects, your privacy and your data. This policy is intended to make you aware of how we acquire your information as you sign up for our products and services, how we manage it, and how we will (and will not) use it to provide you with great new products, special deals, offers, services, contests, party invitations, and more.  We adhere to the regulations of the Personal Data (Privacy) Ordinance laws of Hong Kong as well as industry best practices.  We will not automatically add you to any email list, only those you wish to join. You can unsubscribe from any list at any time. 
+HK Magazine Online takes great care of, and respects, your privacy and your data. This policy is intended to make you aware of how we acquire your information as you sign up for our products and services, how we manage it, and how we will (and will not) use it to provide you with great new products, special deals, offers, services, contests, party invitations, and more.  We adhere to the regulations of the Personal Data (Privacy) Ordinance laws of Hong Kong as well as industry best practices.  We will not automatically add you to any email list, only those you wish to join. You can unsubscribe from any list at any time. 
 
-If you have any questions on any of the below policies, please contact [marketing@asia-city.com.hk](mailto:marketing@asia-city.com.hk?subject=Privacy%20Policy).
+If you have any questions on any of the below policies, please contact [marketing@hkmagmedia.com](mailto:marketing@hkmagmedia.com?subject=Privacy%20Policy).
 
 **Access to Site Content and Services**
 
-Most of the content and services offered through websites operated by Asia City Online are freely accessible to all users.  However, the following services require users to either become Registered Members of our sites or provide some personal information:
+Most of the content and services offered through websites operated by HK Magazine Online are freely accessible to all users.  However, the following services require users to either become Registered Members of our sites or provide some personal information:
 
 You must become a **Registered Member** of the site if you wish to:
 
@@ -61,11 +61,11 @@ In order to complete a purchase (including free guide download) from the Store, 
 
 This personal information may include first name, last name, email address, gender, date of birth, interests, or other information related to a particular promotion or event.  This information may be shared with companies or promoters involved in organizing the activity, but it will not be used for marketing purposes without your permission.
 
-In either case, Asia City Online will _not_ automatically add you into any list.  You will only become part of a list if you _opt in by choosing to receive that product from us_.
+In either case, HK Magazine Online will _not_ automatically add you into any list.  You will only become part of a list if you _opt in by choosing to receive that product from us_.
 
-From time to time, we may communicate to Registered Members about Asia City Online products or services that they have not opted in to, and encourage them to do so.  This may also apply to new products that are launched by Asia City Online.
+From time to time, we may communicate to Registered Members about HK Magazine Online products or services that they have not opted in to, and encourage them to do so.  This may also apply to new products that are launched by HK Magazine Online.
 
-Non-members who take part in one of the above online activities, or who have taken part in an Asia City offline event, will receive an email within 14 days acknowledging their activity, and providing opportunity for them to become a Registered Member.
+Non-members who take part in one of the above online activities, or who have taken part in an HK Magazine Media Ltd. offline event, will receive an email within 14 days acknowledging their activity, and providing opportunity for them to become a Registered Member.
 
   **Registered Members**
 
@@ -75,15 +75,15 @@ Please note that Registered Members agree to the following:
   * When creating your account, you must provide accurate and complete information.
   * If you take part in activities such as competitions, events, promotions or surveys on this website, your information may be shared with promoters of the competition or to others that are involved in the organisation of the competition or the prize-giving.
   * You are solely responsible for the activity that occurs on your account, and you must keep your account password secure.
-  * You must notify Asia City Online immediately of any breach of security or unauthorized use of your account.
-  * Although Asia City Online will not be liable for your losses caused by any unauthorized use of your account, you may be liable for the losses of Asia City Online or others due to such unauthorized use.
+  * You must notify HK Magazine Online immediately of any breach of security or unauthorized use of your account.
+  * Although HK Magazine Online will not be liable for your losses caused by any unauthorized use of your account, you may be liable for the losses of HK Magazine Online or others due to such unauthorized use.
   * If you sign up to receive any of our online products (such as, but not limited to, newsletters, PDF e-books, or promotional emailers), you will become part of that email list and remain on it until you unsubscribe from it.
   * Each online product has its own list.  You may choose to subscribe to or unsubscribe from any list at any time by going to the “Manage My Account” section at the bottom of the email that has been sent to you.
-  * If you provide mobile phone information, either Asia City or its Privilege partners may send SMS messages to you.
-  * Asia City Online may use your personal information for auditing, research and analysis to operate and improve Asia City Online technologies and services.
-  * We may combine personal information collected from you with information from other Asia City Online services or third parties to provide a better user experience, including customizing content for you or informing you of products or services that are relevant to your stated interests.
+  * If you provide mobile phone information, either HK Magazine Media Ltd. or its Privilege partners may send SMS messages to you.
+  * HK Magazine Online may use your personal information for auditing, research and analysis to operate and improve HK Magazine Online technologies and services.
+  * We may combine personal information collected from you with information from other HK Magazine Online services or third parties to provide a better user experience, including customizing content for you or informing you of products or services that are relevant to your stated interests.
   * We may share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
-  * Asia City Online may also share profile information and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to accurately explain the demographic profile of site users, and to present to potential advertisers more targeted advertising, products and services.
+  * HK Magazine Online may also share profile information and aggregate usage information in a non-personally identifiable manner to advertisers and other third parties in order to accurately explain the demographic profile of site users, and to present to potential advertisers more targeted advertising, products and services.
   * As a matter of policy, except where you are expressly informed otherwise, we do not sell, rent, share, trade or give away personal information of our Registered Members.
   * We will never disclose information that will be used to personally identify you. In the event that we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.
 
@@ -93,9 +93,9 @@ Please note that Registered Members agree to the following:
 
 Registered Members who join the Privileges email list will receive announcements, promotions, deals and offers from selected advertisers.  
 
-In such cases, Asia City Online performs the email service on behalf of the advertiser; your account or personal information is not provided to the advertiser.  However, if you respond to an offer contained in a Privilege email, the advertiser may choose to market to you in accordance with the laws of the country in which you live.
+In such cases, HK Magazine Online performs the email service on behalf of the advertiser; your account or personal information is not provided to the advertiser.  However, if you respond to an offer contained in a Privilege email, the advertiser may choose to market to you in accordance with the laws of the country in which you live.
 
-Based on the personal information you provide, Asia City Online may select members of the Privileges email list for greater relevance to the advertiser (e.g., selecting those who said they are interested in Restaurants and Food for a dining offer).
+Based on the personal information you provide, HK Magazine Online may select members of the Privileges email list for greater relevance to the advertiser (e.g., selecting those who said they are interested in Restaurants and Food for a dining offer).
 
 Privilege List members who also provide mobile phone information may receive SMS messages from Privileges advertisers.
 
@@ -105,7 +105,7 @@ The Facebook Connect platform may be used to register for this site.  If you ch
 
 **Our Emailing Technology**
 
-Asia City Online retains a third-party Vendor to provide its emailing services.  The Vendor hosts Asia City Online’s email lists on its own servers, and provides services and security which are industry standard.
+HK Magazine Online retains a third-party Vendor to provide its emailing services.  The Vendor hosts HK Magazine Online’s email lists on its own servers, and provides services and security which are industry standard.
 
 **Changes in Our Privacy Policy**
 
@@ -121,4 +121,4 @@ We are committed to protecting the information we receive from you. Credit card 
 We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
 
 **Terms of Service**  
-Users of Asia City Online websites and digital products are also subject to the [Terms of Service](https://web.archive.org/content/terms-service).
+Users of HK Magazine Online websites and digital products are also subject to the [Terms of Service](https://web.archive.org/content/terms-service).
