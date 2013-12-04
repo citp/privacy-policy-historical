@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilm.com.pk privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628225909id_/http%3A//ilm.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilm.com.pk privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204083444id_/http%3A//ilm.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,6 +28,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Rating: 9.0/ **10** (3 votes cast)
+Rating: 9.6/ **10** (7 votes cast)
 
-Privacy Policy, 9.0 out of 10 based on 3 ratings 
+Privacy Policy, 9.6 out of 10 based on 7 ratings 
