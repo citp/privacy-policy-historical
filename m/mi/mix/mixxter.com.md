@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixxter.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614093203id_/http%3A//www.mixxter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixxter.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204095046id_/http%3A//www.mixxter.com/privacy) for the most accurate reproduction.*
 
 # Mixxter | The world's fan page
 
