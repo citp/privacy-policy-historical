@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the historyforkids.org privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524180657id_/http%3A//www.historyforkids.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyforkids.org privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204112648id_/http%3A//www.historyforkids.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy - History for Kids!
 
-Kidipede is very conscious of the need for extra privacy precautions in a site where many children visit. We therefore do not collect any personal information about anyone who visits the site. We don't know your name or where you live or how old you are, and we don't want to know. Our estimates of who visits the site are based on anonymous polls. 
+Kidipede is very conscious of the need for extra privacy precautions in a site where many children visit. We therefore do not collect any personal information about anyone who visits the site. We don't know your name or where you live or how old you are, and we don't want to know. Our estimates of who visits the site are based on anonymous polls.
 
 ## Our ad servers want us to post their policy too:
 
@@ -10,13 +10,7 @@ We have contracted with Valueclick to monitor certain pages of our website for t
 
 Google Adsense also wants us to let you know that they use third-party advertising companies to serve ads when you visit Kidipede. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
-And finally, we use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+And finally, we use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
   
 
-
-Cite this page: Carr, Karen (PhD).
-
-Kidipede - History for Kids. 2011.
-
-http://www.historyforkids.org/privacy.htm
