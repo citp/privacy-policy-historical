@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620162926id_/http%3A//www.bjs.com/privacy-policy.content.about_privacy.A.about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjs.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204235616id_/http%3A//www.bjs.com/privacy-policy.content.about_privacy.A.about) for the most accurate reproduction.*
 
 # Privacy Policy - BJ's Wholesale Club
 
