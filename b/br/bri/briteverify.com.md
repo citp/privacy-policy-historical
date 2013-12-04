@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the briteverify.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519235557id_/http%3A//www.briteverify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briteverify.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204225750id_/http%3A//briteverify.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
 Last Updated:October 2. 2012 
 
-BriteVerify has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information.  This Privacy Policy covers our collection, use and disclosure of information we collect through our website [www.briteverify.com](http://www.briteverify.com/) and our BriteVerify services platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged BriteVerify.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at information@briteverify.com.  If you are not satisfied with our response you can contact [TRUSTe here ](http://watchdog.truste.com/pvr.php?page=complaint).
+BriteVerify has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe√ïs [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information.  This Privacy Policy covers our collection, use and disclosure of information we collect through our website [www.briteverify.com](http://www.briteverify.com/) and our BriteVerify services platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged BriteVerify.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at information@briteverify.com.  If you are not satisfied with our response you can contact [TRUSTe here ](http://watchdog.truste.com/pvr.php?page=complaint).
 
 **U.S.-EU Safe Harbor Framework**
 
@@ -30,7 +30,7 @@ From time to time, we post customer testimonials on our website which may contai
 
 **Choice/Opt-in** ****
 
-We provide you the opportunity to ‘opt-in’ to receive information about BriteVerify products and services.  If you opt-in to receive these communications, they will be sent to the email address provided during sign-up.  If you opt-in and decide that you no longer wish to receive these communications you can click ‘unsubscribe’ in the footer of any marketing message or send a letter to the postal address listed in the footer to opt-out from all future marketing messages.
+We provide you the opportunity to √îopt-in√ï to receive information about BriteVerify products and services.  If you opt-in to receive these communications, they will be sent to the email address provided during sign-up.  If you opt-in and decide that you no longer wish to receive these communications you can click √îunsubscribe√ï in the footer of any marketing message or send a letter to the postal address listed in the footer to opt-out from all future marketing messages.
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
@@ -60,11 +60,11 @@ BriteVerify may transfer personal information to companies that help us provide 
 
 **Access to Data Controlled by our Clients**
 
-BriteVerify has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his or her query to the BriteVerify’s Client (the data controller). If the Client requests BriteVerify to remove the data, BriteVerify will respond to their Client’s request within 5 business days. 
+BriteVerify has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his or her query to the BriteVerify√ïs Client (the data controller). If the Client requests BriteVerify to remove the data, BriteVerify will respond to their Client√ïs request within 5 business days. 
 
 **What We Do With Information Supplied as a Part of the Verification Process**
 
-We agree to maintain as confidential all data supplied by users for the purposes of verification, to not disclose data to anyone within our organization without a need to receive it for the speciﬁc purpose for which its is being disclosed to us, and to not disclose this data to any third party except when required to do by law.  In no event shall this data be used to contact any names, email addresses, postal addresses, or phone numbers provided to us. 
+We agree to maintain as confidential all data supplied by users for the purposes of verification, to not disclose data to anyone within our organization without a need to receive it for the speci√ûc purpose for which its is being disclosed to us, and to not disclose this data to any third party except when required to do by law.  In no event shall this data be used to contact any names, email addresses, postal addresses, or phone numbers provided to us. 
 
 **Data Retention**
 
@@ -74,7 +74,7 @@ BriteVerify will retain your personal data and the personal data processed on be
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers’ database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers√ï database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 Any credit card information supplied will be kept on file in order to process future payments for services rendered.  Credit card information may be deleted at any time should you choose to stop using BriteVerify services by logging into your account at 
 
@@ -85,11 +85,11 @@ We follow generally accepted standards to protect the personal information submi
 
 **Tracking Technologies (Cookies, Beacons, etc.** )
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site or on our Services Platform.
+A cookie is a small text file that is stored on a user√ïs computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site or on our Services Platform.
 
-We use session ID cookies and persistent cookies on our Site and on our platform.  We use session cookies to make it easier for you to navigate our site.  A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
+We use session ID cookies and persistent cookies on our Site and on our platform.  We use session cookies to make it easier for you to navigate our site.  A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser√ïs √íhelp√ì file. 
 
-We set a persistent cookie to store your passwords so you don’t have to enter it more than once.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+We set a persistent cookie to store your passwords so you don√ït have to enter it more than once.  Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
 
 We use a third-party tracking service that uses cookies and web beacons to track non-personally identifiable information about visitors to our site in the aggregate tp capture usage and volume statistics to improve our website.  We have no access or control of these third party tracking technologies.
 
@@ -97,7 +97,7 @@ We use a third-party tracking service that uses cookies and web beacons to track
 
 As is true of most websites, we gather certain information automatically and store it in log files.  This information includes Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click-stream data. 
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users√ï movements around the site and to gather demographic information about our user base as a whole. 
 
 We do not link this automatically-collected data to personally identifiable information.    
 
@@ -131,7 +131,7 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 All users of our site may make any changes to their information at anytime by logging into their control panel, clicking the Account link and, clicking the Edit link.
 
-**Children’s** Information
+**Children√ïs** Information
 
 We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
