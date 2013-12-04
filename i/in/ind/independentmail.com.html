@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the independentmail.com privacy policy that was archived on 2013-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604215548id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the independentmail.com privacy policy that was archived on 2013-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204092551id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" class="no-js classworking" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:nitro="http://www.bunchball.com/nitro"><!--<![endif]--><!--
   
@@ -8,7 +8,7 @@
 --><head>
 	
 		
-		<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-Z7HC"></script><script type="text/javascript">
+		<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
 			var jSINGconf = {};
 			jSINGconf.theme = {
 				
@@ -82,7 +82,11 @@
 		
 		
 			<!-- ad_manager --><!-- target.obj_name = flatpage -->
-<script type="text/javascript"><!--
+<script type="text/javascript">//<!--
+var adslots= {}; // for anvato player, but we'll save register all of the slots here anyway
+
+//--> </script>
+<script type="text/javascript">//<!--
 
             function ReadCookie(cookieName) {
                 var theCookie="" + document.cookie ;
@@ -107,6 +111,7 @@
             
             //OPTIONAL PARAMETERS FOR DEMOGRAPHIC TARGETING 
             var gender = ReadZagi( 'gender' )=='M'?'m':ReadZagi('gender')=='F'?'f':''
+            var subscribes = String( parseInt( ReadZagi( 'subscriber' ) || '0') > 0 );
 
             function AgeToRange( years_old ) {
                 if( isNaN( years_old ) ) { return '' ; }
@@ -151,6 +156,7 @@
             if( age_range ) _demo_params +=';age=' + age_range ;
             if( gender ) _demo_params += ';gender=' + gender ;
             if( inc_range ) _demo_params += ';income=' + inc_range ;
+            if( subscribes ) _demo_params += ';sub=' + subscribes ;
 
             // hack to handle old hardcoded calls to yld_mgr
             var yld_mgr={place_ad_here:function(){}};
@@ -167,24 +173,32 @@
 	
 			
 			<!-- stage register_ad_pos -->
-			<!-- registered SUPERSTITIAL ad in position above, slot SUPERSTITIAL -->
-			<!-- registered BIGBOX ad in position above, slot BIGBOX_1 -->
+			<script>adslots.SUPERSTITIAL ={ tag: "http://ad.doubleclick.net/N6088/adj/np.aim/Business;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above", 'size':'720x300'}; //<!-- registered SUPERSTITIAL ad in position above, slot SUPERSTITIAL -->//</script>
+
+			<script>adslots.BIGBOX_1 ={ tag: "http://ad.doubleclick.net/N6088/adj/np.aim/Business;pt=detail;tile=2;sz=300x250;pos=above", 'size':'300x250'}; //<!-- registered BIGBOX ad in position above, slot BIGBOX_1 -->//</script>
+
+            <script>adslots.PREROLL_TEMPLATE ={ tag: "http://ad.doubleclick.net/N6088/pfadx/np.aim/Business;pt=detail;tile=3;sz=1x1000;pos=above;dcmt=text/xml", 'size':'1x1000'}; //<!-- registered VIDEO_PREROLL ad in position above, slot PREROLL_TEMPLATE -->//</script>
+
 
 			
 	
 	
-				<!-- registered BIGBOX ad in position below, slot BIGBOX_2 -->			
+				<script>adslots.BIGBOX_2 ={ tag: "http://ad.doubleclick.net/N6088/adj/np.aim/Business;pt=detail;tile=4;sz=300x250;pos=below", 'size':'300x250'}; //<!-- registered BIGBOX ad in position below, slot BIGBOX_2 -->//</script>
+			
 			
 
 
-			<!-- registered WEATHER_SPONSOR ad in position below, slot WEATHER_SPONSOR -->
-			<!-- registered SEARCH_RESULTS_SPONSOR ad in position above, slot SEARCH_RESULTS_SPONSOR_1 -->
 			
-            <!-- registered FLAGPROMO ad in position above, slot FLAGPROMO_1 -->
+			<script>adslots.SEARCH_RESULTS_SPONSOR_1 ={ tag: "http://ad.doubleclick.net/N6088/adj/np.aim/Business;pt=detail;tile=5;sz=120x30;pos=above", 'size':'120x30'}; //<!-- registered SEARCH_RESULTS_SPONSOR ad in position above, slot SEARCH_RESULTS_SPONSOR_1 -->//</script>
+
+			
+            <script>adslots.FLAGPROMO_1 ={ tag: "http://ad.doubleclick.net/N6088/adj/np.aim/Business;pt=detail;tile=6;sz=300x40;pos=above", 'size':'300x40'}; //<!-- registered FLAGPROMO ad in position above, slot FLAGPROMO_1 -->//</script>
+
 			<!-- End register_ad_pos -->
 		
 	
-	<!-- registered LEADERBOARD ad in position above, slot LEADERBOARD_1 -->
+	<script>adslots.LEADERBOARD_1 ={ tag: "http://ad.doubleclick.net/N6088/adj/np.aim/Business;pt=detail;tile=7;sz=728x90;pos=above", 'size':'728x90'}; //<!-- registered LEADERBOARD ad in position above, slot LEADERBOARD_1 -->//</script>
+
 
 
 		
@@ -196,7 +210,7 @@
 	<!-- META -->
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <!-- fb requires author as meta property instead of meta name and now it is a 'profile' type, not a string -->
-	<!-- <meta property="author" content="Anderson Independent Mail and Anderson Independent Mail" /> -->
+	<meta name="author" content="">
 	<meta name="description" content="
 	Privacy Policy news and information. Anderson Independent Mail brings you the most current Privacy Policy news and information available.
 	">
@@ -207,9 +221,18 @@
 		<meta name="__sync_contentCategory" content="Free">
                   <meta name="__is_premium" content="False">
                   <meta name="__user_needs_subscription" content="False">
-                  <meta name="__wall" content="<corp.apps.paywall.timewall.TimeWall object at 0x1d7d5a90>">
+                  <meta name="__wall" content="<corp.apps.paywall.timewall.TimeWall object at 0x22c40bd0>">
                   <meta name="__circ_manager" content="corp.apps.paywall.backends.backends.SyncAccessWrapper">
                   <meta name="__paymentframe_url" content="https://www.syncaccess.net/scripps/aim/Account/purchasesubscription2">
+            <script>
+                  var __WALL_STATE = {};
+                  __WALL_STATE.sync_contentCategory = "Free" ;
+                  __WALL_STATE.is_premium = "False" ;
+                  __WALL_STATE.user_needs_subscription = "False" ;
+                  __WALL_STATE.wall = "<corp.apps.paywall.timewall.TimeWall object at 0x22c40bd0>" ;
+                  __WALL_STATE.circ_manager = "corp.apps.paywall.backends.backends.SyncAccessWrapper" ;
+                  __WALL_STATE.paymentframe_url = "https://www.syncaccess.net/scripps/aim/Account/purchasesubscription2";
+                </script>
             
 <!-- user_needs_subscription set to False -->
 	
@@ -292,12 +315,12 @@
 </head>
 
 <body class="default_body hasJS">
- 
 	
-	
+
 <!-- stats tag ['AIM'] -->
 <script type="text/javascript" src="http://apptap.scripps.com/apptap3?site=AIM&amp;app=djeff&amp;path=/privacy&amp;title=privacy-policy&amp;topic=Business+%28NPC%29"></script><script type="text/javascript">apptap();</script>
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-Z7HC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-Z7HC');</script>
+
+
 
 <script type="text/javascript">document.body.className += " hasJS"</script>
 
@@ -310,8 +333,8 @@
 	
 	<div class="adtag" id="SUPERSTITIAL"><script language="JavaScript">
         // slotname: SUPERSTITIAL
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above;ord=795060721167204100" type="text/javascript"></script></div>
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/N6088/adj/np.aim/Business;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/N6088/adj/np.aim/Business;pt=detail;tile=1;sz=720x300;dcopt=ist;pos=above;sub=false;ord=7731150234562501" type="text/javascript"></script></div>
 
 
 <div id="advertising_wrapper" class="default ggnoads">
@@ -324,8 +347,8 @@
 			<div id="leaderboard">
 				<div class="adtag" id="LEADERBOARD_1"><script language="JavaScript">
         // slotname: LEADERBOARD_1
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=7;sz=728x90;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=7;sz=728x90;pos=above;ord=795060721167204100" type="text/javascript"></script></div>
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/N6088/adj/np.aim/Business;pt=detail;tile=7;sz=728x90;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/N6088/adj/np.aim/Business;pt=detail;tile=7;sz=728x90;pos=above;sub=false;ord=7731150234562501" type="text/javascript"></script></div>
 			</div> <!-- end #leaderboard -->
 		
 		</div> <!-- end #advertising -->
@@ -397,7 +420,7 @@
                     </div>
     </div>
     
-    <div id="search" style="top: 23px">
+    <div id="search">
         <form action="/search/" method="get">
             <fieldset>
                 <input id="q" name="q" type="text" class="search_text">
@@ -449,7 +472,11 @@
 ">
 		<li id="nav_news"><a href="/news/news/" title="News">News</a>
 			<ul class="secondary_nav first">
-				<li><a href="/news/news/local/" title="Local">Local</a></li>
+				<li><a href="/news/news/local/" title="Local">Local</a>
+									<ul class="tertiary_nav">
+						<li><a href="/news/news/floodof13/" title="Flood of 2013">Flood of 2013</a></li>
+									</ul>
+									</li>
 				<li><a href="/news/news/local/crime/" title="Crime">Crime</a></li>
 				<li><a href="/news/news/south-carolina/" title="South Carolina">South Carolina</a></li>
 				<li><a href="/news/news/northeast-georgia/" title="Northeast Georgia">Northeast Georgia</a></li>
@@ -466,15 +493,11 @@
 					</ul>
 				</li>
 				<li><a href="/news/news/education/" title="Education">Education</a></li>
-				<li><a href="/news/news/columnists/" title="News Columnists">Columnists</a>
-					<ul class="tertiary_nav">
-						<li><a href="/news/news/columnists/salley-mcinerney/" title="Salley McInerney">Salley McInerney</a></li>
-					</ul>
-				</li>
 			</ul>
 		</li>
-		<li id="nav_sports"><a href="/news/sports/" title="Sports">Sports</a>
+		<li id="nav_sports"><a href="/news/news/sports/" title="Sports">Sports</a>
 			<ul class="secondary_nav">
+				<li><a href="/news/news/sports/" title="Sports">Sports</a></li>
 				<li><a href="http://www.orangeandwhite.com/" title="Clemson University Sports">OrangeandWhite.com</a>
 					<ul class="tertiary_nav">
 						<li><a href="http://www.orangeandwhite.com/news/football/" title="Clemson Football">Football</a></li>						
@@ -483,11 +506,9 @@
 						<li><a href="http://www.orangeandwhite.com/news/all-sports/" title="All Clemson Sports Stories">All Sports</a></li>
 					</ul>
 				</li>	
-				<li><a href="/news/sports/local/" title="Local">Local</a></li>
 				<li><a href="/news/sports/high-school/" title="High School">High School</a></li>
-				<li><a href="/news/sports/soccer/" title="Soccer">Soccer</a></li>
-				<li><a href="/news/sports/professional/football/" title="Professional Football">Pro Football</a></li>				
-				<li><a href="/news/sports/high-school/football/" title="High School Football">High School Football</a>
+				<li><a href="/news/sports/college/anderson-university/" title="AU sports">AU sports</a></li>
+				<li><a href="/news/sports/high-school/football/" title="High School Football">Go Friday Football</a>
 					<ul class="tertiary_nav">
 						<li><a href="/news/sports/high-school/football/all/" title="High School Football">All Stories</a></li>						
 						<li><a href="/news/sports/high-school/football/belton-honea-path/" title="Belton-Honea Path High School">Belton-Honea Path</a></li>					
@@ -508,21 +529,10 @@
 						<li><a href="/news/sports/high-school/football/wren/" title="Wren High School">Wren</a></li>
 					</ul>					
 				</li>
-				<li><a href="/news/sports/college/" title="College">College</a>
-					<ul class="tertiary_nav">
-						<li><a href="/news/sports/college/baseball/" title="College Baseball">Baseball</a></li>
-						<li><a href="/news/sports/college/basketball/" title="College Basketball">Basketball</a></li>
-						<li><a href="/news/sports/college/football/" title="College Football">Football</a></li>
-						<li><a href="/news/sports/college/anderson-university/" title="Anderson University Sports">Anderson Trojans</a></li>
-						<li><a href="http://www.orangeandwhite.com/" title="Clemson University Sports">Clemson Tigers</a></li>
-						<li><a href="/news/sports/college-sports/university-of-south-carolina/" title="University of South Carolina">USC Gamecocks</a></li>
-						
-					</ul>
-				</li>							
-				<li><a href="/news/sports/professional/golf/" title="Professional Golf">Golf</a></li>				
+				<li><a href="/news/sports/college-sports/university-of-south-carolina/" title="USC sports">USC Sports</a></li>							
+				<li><a href="/news/sports/college/UGA/" title="UGA sports">UGA Sports</a></li>				
 				<li><a href="/news/sports/columnists/" title="Columnists">Columnists</a>
 					<ul class="tertiary_nav">
-						<li><a href="http://www.orangeandwhite.com/news/columns/greg-wallace/" title="Greg Wallace">Greg Wallace</a></li>				
 						<li><a href="/news/sports/columnists/brad-senkiw/" title="Brad Senkiw">Brad Senkiw</a></li>
 						<li><a href="/news/sports/columnists/scott-adamson/" title="Scott Adamson">Scott Adamson</a></li>
 					</ul>
@@ -531,22 +541,14 @@
 		</li>
 		<li id="nav_business"><a href="/news/business/" title="Business">Business</a>
 			<ul class="secondary_nav">
-				<li><a href="/news/business/local/" title="Local">Local</a></li>
-				<li><a href="/news/business/real-estate/" title="Real Estate">Real Estate</a></li>
-				<li><a href="/news/business/columnists/" title="Business Columnists">Columnists</a>
-					<ul class="tertiary_nav">
-						<li><a href="/news/business/columnists/joe-sangl/" title="Joe Sangl">Joe Sangl</a></li>
-					</ul>
-				</li>
+				<li><a href="/news/business/local/" title="Business">Business</a></li>
+				<li><a href="/news/business/columnists/" title="Business Columnists">Columnists</a></li>
 			</ul>
 		</li>
 		<li id="nav_opinion"><a href="/news/opinion/" title="Opinion">Opinion</a>
 			<ul class="secondary_nav">
-				<li><a href="/news/opinion/editorial/" title="Editorial">Editorial</a></li>
 				<li><a href="/news/opinion/letters-to-editor/" title="Letters to the Editor">Letters to the Editor</a></li>
-				<li><a href="/news/opinion/politics/" title="Political Opinions">Politics</a></li>
 				<li><a href="/news/opinion/columnists/all" title="Opinion Columnists">Columnists</a></li>
-				<li><a href="/news/blogs/" title="Blogs">Blogs</a></li>
 				<li><a href="/polls/" title="Polls">Polls</a></li>
 			</ul>
 		</li>
@@ -583,7 +585,7 @@
 		</li>
 		<li id="nav_lifestyles"><a href="/news/lifestyles/" title="Lifestyles">Lifestyles</a>
 			<ul class="secondary_nav">
-				<li><a href="/news/lifestyles/all/" title="Local Lifestyles">Local</a></li>
+				<li><a href="/news/lifestyles/all/" title="Local Lifestyles">Lifestyles</a></li>
 				<li><a href="/news/lifestyles/announcements/" title="Announcements">Announcements</a>
 					<ul class="tertiary_nav">
 						<li><a href="/news/lifestyles/announcements/anniversaries/" title="Anniversaries">Anniversaries</a></li>
@@ -591,7 +593,6 @@
 						<li><a href="/news/lifestyles/announcements/births/" title="Births">Births</a></li>
 						<li><a href="/news/lifestyles/announcements/engagements/" title="Engagements">Engagements</a></li>
 						<li><a href="/news/lifestyles/announcements/weddings/" title="Weddings">Weddings</a></li>
-						<li><a href="/news/lifestyles/hometowner/" title="Hometowner">Hometowner</a></li>
 					</ul>
 				</li>
 				<li><a href="/news/lifestyles/faith-values/" title="Faith &amp; Values">Faith &amp; Values</a></li>
@@ -614,7 +615,8 @@
 								<li><a href="/news/lifestyles/columnists/john-defendis/" title="John Defendis">John Defendis</a></li>
 								<li><a href="/news/lifestyles/columnists/debbie-jackson/" title="Debbie Jackson">Debbie Jackson</a></li>
 							</ul>
-						</li>
+							</li>
+						<li><a href="/lifestyles/columnists/sharon-randall/" title="Sharon Randall">Sharon Randall</a></li>
 						<li><a href="/news/lifestyles/" title="Books">Books</a>
 							<ul class="quaternary_nav">
 								<li><a href="/news/lifestyles/columnists/kathryn-smith/" title="Kathryn Smith">Kathryn Smith</a></li>
@@ -679,9 +681,76 @@
             
 
             
+                
+            
     
             
     
+            
+                <div id="alert_bark_wrapper">
+                    <div id="alert_bark_clipper">
+                        <ul id="alert_bark_carousel">
+                        
+                            
+                        
+                            
+            
+                            
+                        
+                            
+                                
+                                    
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_important alert_bark_help_out">
+	<h2 class="alert_bark_title">Help out!</h2>
+	<p class="alert_bark_content"><a href="http://www.independentmail.com/bcf-donations/">Local families need your help. Donate to the Brighter Christmas Fund here!</a></p>
+</li><!-- end .alert_bark alert_bark_important -->
+                                
+
+                            
+                        
+                            
+                                
+                            
+                        
+                            
+                        
+                            
+                                
+                                    
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_site alert_bark_get_more_from_your_subscription_to_independent_mail">
+	<h2 class="alert_bark_title">Get more from your subscription to Independent Mail</h2>
+	<p class="alert_bark_content">
+<a href="http://www.independentmail.com/subscribe">Home delivery includes access to Independentmail.com on web, mobile &amp; tablet</a></p>
+</li><!-- end .alert_bark alert_bark_site -->
+                                
+
+                            
+                        
+                        </ul>
+                    </div><!-- end #alert_bark_clipper -->
+                </div><!-- end #alert_bark_wrapper -->
+            
+            
             
         
     
@@ -744,88 +813,81 @@
 
 <p>PRIVACY POLICY<br>
 (Effective July 1, 2008)</p>
-<p><em>Last revised March 22, 2013.</em></p>
+<p><em>Last revised July 29, 2013.</em></p>
+<p>Welcome to Independentmail.com, GoFridayFootball.com and OrangeandWhite.com ("Website(s)"), an interactive online service operated by The E.W. Scripps Company and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy.</p>
 
-<p>Welcome to Independentmail.com, GoFridayFootball.com and OrangeandWhite.com ("Website(s)"), an interactive online service operated by The E.W. Scripps Company and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov). </p>
+<p>We have adopted this Privacy Policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.</p>
 
-<p>We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.</p>
+<p>We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy.  WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.  If, at any point, we decide to use your personally identifiable information in a manner materially different than what was stated at the time it was collected, we will notify you of this change by e-mail to the last e-mail address provided to us. You will have a choice (by means of an “opt out” opportunity) as to whether we use the information in this different manner. We will use information in accordance with the Privacy Policy under which your information was collected if you opt out of the new policy.</p>
 
-<p>This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website.  Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.  </p>
+<p><strong>A. INFORMATION WE COLLECT</strong></p>
 
-<p>We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy.  WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY.  IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.  If, at any point, we decide to use your personally identifiable information in a manner materially different than what was stated at the time it was collected, we will notify you of this change by e-mail to the last e-mail address provided to us. You will have a choice (by means of an “opt out” opportunity) as to whether we use the information in this different manner. We will use information in accordance with the Privacy Policy under which your information was collected if you opt out of the new policy. </p>
+<p>Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, which we automatically collect when you visit our Website or that you provide us.</p>
 
-<p><strong>A.	INFORMATION WE COLLECT</strong></p>
+<p><strong>(1) Personally Identifiable Information:</strong> Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, postal address, phone number, etc.  As a general policy, we do not automatically collect your personally identifiable information when you visit our Website.  In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Website.  For instance, you may: (a) provide your name, postal/shipping address, email address, credit card number and phone number when registering with our Website, using our online store, or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club; or (c) post a general comment and/or recommendation on our Website.  Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name).  Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website.</p>
 
-<p>Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, which we automatically collect when you visit our Website or that you provide us. </p>
+<p><strong>(2)  Non-Personally Identifiable Information:</strong>  Our definition of non-personally identifiable information is any information that does not personally identify you (“Non-PII”).  Non-PII can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous.  We obtain Non-PII about you from information that you provide us, either separately or together with your personally identifiable information.  We also automatically collect certain Non-PII from you when you access our Website.  This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Mac OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits.</p>
 
-<p><strong>(1)  Personally Identifiable Information:</strong>  Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, postal address, phone number, etc.  As a general policy, we do not automatically collect your personally identifiable information when you visit our Website.  In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Website.  For instance, you may: (a) provide your name, postal/shipping address, email address, credit card number and phone number when registering with our Website, using our online store, or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club; or (c) post a general comment and/or recommendation on our Website.  Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name).  Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website.  </p>
+<p><strong>B. HOW WE USE &amp; SHARE THE INFORMATION COLLECTED</strong></p>
 
-<p><strong>(2)  Non-Personal Information:</strong> Our definition of non-personal information is any information that does not personally identify you.  Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous.  We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information.  We also automatically collect certain non-personal information from you when you access our Website.  This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Mac OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits. </p>
+<p><strong>(1)  Personally Identifiable Information:</strong> The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information.  We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“"affiliated companies”"), or to communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below.</p>
 
-<p><strong>B.	HOW WE USE &amp; SHARE THE INFORMATION COLLECTED </strong></p>
+<p>In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc.  Our vendors agree to use this information, and we share information with them, only to carry out our requests.  In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use).  Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.</p>
 
-<p>Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, which we automatically collect when you visit our Website or that you provide us. </p>
+<p><strong>(2)  Non-PII:</strong> We use Non-PII in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your Non-PII by itself or aggregate it with information we have obtained from others. We may share your Non-PII with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.</p>
+
+<p><strong>C. COOKIES AND PREFERENCE BASED ADVERTISING</strong></p>
+
+<p><strong>(1) Cookies and Web Beacons:</strong> We automatically receive and store certain types of non-personally identifiable information whenever you interact with us. For example, like many websites, we use "cookies" and "web beacons" (also called “clear gifs” or “pixel tags”) to obtain certain types of information when your web browser accesses our Website.  "Cookies" are small files that we transfer to your computer's hard drive or your web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you. "Web beacons" are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movements of users, when an email has been opened, and to provide other information.</p>
+
+<p>Examples of the information we collect and analyze in this manner include the Internet Protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; your activities our Website, including the products you view or searched for, as well as the URL you come from and go to next (whether this URL is on our Website or not); and cookie number. It is important to note that the cookies and Web beacons that we use do not contain and are not tied to personally identifiable information about you.</p>
+
+<p>If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your web browser or hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs.  <a href="http://www.aboutads.info/consumers">CLICK HERE </a>for more information on cookies and browser controls.  Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.</p>
+
+<p><strong>(2)  Preference Based Advertising:</strong> We may work with third parties, including advertising companies and website analysis firms, who use cookies and web beacons to collect non-personally identifiable information when you visit our Website and third party sites. This non-personally identifiable information, collected through cookies and web beacons, is typically used by these third party advertising companies (i.e., advertising networks) to serve you with advertisements while on third party sites tailored to meet your preferences and needs.  For comprehensive information on online advertising, please <a href="http://www.aboutads.info/consumers">CLICK HERE</a>.  If you do not wish to participate in this activity, please <a href="http://www.aboutads.info/consumers">CLICK HERE </a>and follow the simple opt-out process.</p>
+
+<p>A couple of important notes about this opt-out tool: (1) it includes all the advertising networks that we may work with, but also many that we do not work with; and (2) it relies on cookies to ensure that a given advertising network does not collect information about you (“Opt-out Cookies”).  Therefore, if you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the opt-out task again.</p>
+
+<p><strong>D. OTHER USES &amp; INFORMATION</strong></p>
+
+<p><strong>(1)  IP Addresses:</strong> An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that "serve up" web pages) automatically identify your computer by its IP address. When visitors request pages from our Website, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website.  IP addresses are considered Non-PII and may also be shared as provided above.  It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor's session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Website rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public.</p>
+
+<p><strong>(2) Email Communications:</strong>  If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference.  For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email.  However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.g., product updates, customer support, etc.), we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose. In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, agree to some communications but not others. You may "opt out" of receiving future commercial email communications from us by clicking the "unsubscribe" link included at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications.</p>
+
+<p><strong>(3) Transfer of Assets:</strong>  As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and Non-PII we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.</p>
+
+<p><strong>(4) Other:</strong> Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or Non-PII about you if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website's users or the general public.</p>
+
+<p><strong>(5) Your California Privacy Rights:</strong>  Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing as provided in Section I.</p>
 
 <p>
-<strong>(1)  Personally Identifiable Information:</strong>The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways naturally associated with the circumstances in which you provided the information.  We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“"affiliated companies”"), or to communicate with you about content or other information you have posted or shared with us via our Website. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below.  
 
-In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc.  Our vendors agree to use this information, and we share information with them, only to carry out our requests.  In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use).  Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.  
-</p>
-<p><strong>(2)  Non-Personal Information:</strong> We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.</p> 
+</p><p><strong>E. PUBLIC FORUMS</strong></p>
 
-<p><strong>C.	OTHER USES &amp; INFORMATION </strong></p>
+<p>We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums.  We may use personally identifiable and Non-PII about you to identify you with a posting in a public forum.  Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.</p>
 
-<p>
-<strong>(1)  IP Addresses: </strong>An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that "serve up" web pages) automatically identify your computer by its IP address. When visitors request pages from our Website, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website.  IP addresses are considered non-personal information and may also be shared as provided above.  It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor's session will be logged, but the visitor remains anonymous to us. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Website rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website’s users or the general public. </p>
+<p><strong>F. CHILDREN</strong></p>
 
-<p><strong>2) Cookies, etc.:</strong>"Cookies" are small text files from a website that are stored on your hard drive. These text files make using our Website more convenient by, among other things, saving your passwords and preferences for you. Cookies themselves do not typically contain any personally identifiable information. We may analyze the information derived from these cookies and other technological tools we employ (such as clear gifs/web beacons) and match this information with data provided by you or another party. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information. Please note that advertisers that serve advertisements on our Website and third-party content providers that serve content on our Website may also use their own cookies and other technological tools which are subject to the advertiser's privacy policies, not this Privacy Policy. </p>
+<p>The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children.  We do not knowingly collect personally identifiable information from children under the age of 13.  If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at as provided in Section I. A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.</p>
 
-<p>If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies. </p>
+<p><strong>G. KEEPING YOUR INFORMATION SECURE</strong></p>
 
-<p><strong>(3) Email Communications:</strong>  If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference.  For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email.  However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.g., product updates, customer support, etc.), we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose. In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, agree to some communications but not others. You may "opt out" of receiving future commercial email communications from us by clicking the "unsubscribe" link included at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications. </p>
+<p>We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control.  Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your "personally identifiable information" (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.</p>
 
-<p><strong>(4) Transfer of Assets:</strong>  As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and non-personal information we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties. </p>
+<p><strong>H. OTHER SITES/LINKS</strong></p>
 
-<p><strong>(5) Other:</strong> Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to copyright and other intellectual property infringement claims, or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; or (d) in an emergency to protect the health and safety of our Website's users or the general public. </p>
+<p>Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.</p>
 
-<p><strong>(6) Your California Privacy Rights:</strong>  Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at: 
-IndependentMail Webmaster
-1000 Williamston Rd
-Anderson, SC 29621.</p>
+<p><strong>I. CONTACT &amp; OPT-OUT INFORMATION</strong></p>
 
-<p><strong>D.	PUBLIC FORUMS </strong></p>
+<p>You may contact us as at 1 (864) 622-1706 if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.</p>
 
-<p>We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums.  We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum.  Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website. </p>
+<p>We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.</p>
 
-<p><strong>E.	CHILDREN </strong></p>
+<p><strong>J. SOLE STATEMENT</strong></p>
 
-<p>The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children.  We do not knowingly collect personally identifiable information from children under the age of 13.  If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at 1 (864) 622-1706. A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof. </p>
-
-<p><strong>F.	KEEPING YOUR INFORMATION SECURE </strong></p>
-
-<p>We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control.  Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your "personally identifiable information" (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems. </p>
-
-<p><strong>G.	OTHER SITES/LINKS </strong></p><p>
-</p><p>Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information. </p>
-
-<p><strong>H.	CONTACT &amp; OPT-OUT INFORMATION</strong></p>
-<p>You may contact us as at 1 (864) 622-1706 if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others. 
-We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.  
-</p>
-
-<a name="about_our_ads"></a>
-<p><strong>I. Google DFP Location Privacy</strong></p>
-
-<p>If, in connection with the DFP Service, Company collects, processes or discloses information that identifies a Visitor’s precise geographic location, such as GPS, wifi or cell tower data, </p>
-<p>(i) Company must obtain express consent from Visitors, </p>
-<p>(ii) Company’s privacy policy must disclose such information collection, processing or disclosure, and advise in writing each of its Clients that they are required to make the same disclosures in their privacy policies, and </p>
-<p>(iii) Company will only send such information to DoubleClick using the HTTPS communications protocol</p>
-<p><strong>J. NEWSRIGHT</strong></p>
- 
-<p>We use services provided by NewsRight for a variety of reasons, including, but not limited to, understanding how our content is used across the Internet, improving news coverage and to protect our intellectual and other property rights.  NewsRight collects non-personally identifiable content usage information and may use cookies in conjunction with this activity.  Please refer to the NewsRight privacy policy <a href="http://www.newsregistry.com/privacycenter/servicepolicy.aspx">here</a> for further information, including how to opt-out of certain NewsRight collection activities.  Your continued readership of the site means you accept the privacy policy of NewsRight. </p>
-
-<p><strong>K.	SOLE STATEMENT </strong></p>
 <p>This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.</p>
+
 
 </div>
 		
@@ -850,8 +912,8 @@ We will respond to your request and, if applicable and appropriate, make the req
 	<div class="bigbox">
 		<div class="adtag" id="BIGBOX_1"><script language="JavaScript">
         // slotname: BIGBOX_1
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=2;sz=300x250;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=2;sz=300x250;pos=above;ord=795060721167204100" type="text/javascript"></script></div>
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/N6088/adj/np.aim/Business;pt=detail;tile=2;sz=300x250;pos=above' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/N6088/adj/np.aim/Business;pt=detail;tile=2;sz=300x250;pos=above;sub=false;ord=7731150234562501" type="text/javascript"></script></div>
 	</div> <!-- end .bigbox -->
 </div> <!-- end .bigbox_wrapper -->
 						
@@ -903,28 +965,28 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2013/jun/03/missing-child-frantic-search-surprise-ending/?partner=popular" title="For about an hour Monday night, swarms of police officers and sheriff’s deputies searched an Anderson apartment complex, desperately hoping to find a missing 4-year-old girl.  " rel="nofollow">Missing child, frantic search, surprise ending</a>
-					<span class="date">Published 6/3/2013 at 10:36 p.m.</span> <a href="/news/2013/jun/03/missing-child-frantic-search-surprise-ending/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
+					<a href="/news/2013/dec/02/gracie-floyd-asks-for-time-to-discuss-severance/?partner=popular" title="Gracie Floyd, the Anderson County Council’s most vocal opponent of the county’s ongoing legal battle with former administrator Joey Preston, has reserved time Tuesday night to discuss the lawsuit, but said Monday that she isn’t sure what she’ll say. " rel="nofollow">Gracie Floyd asks for time to discuss severance-pay lawsuit</a>
+					<span class="date">Published 12/2/2013 at 5:37 p.m.</span> <a href="/news/2013/dec/02/gracie-floyd-asks-for-time-to-discuss-severance/?partner=popular#comments" class="comment_count" rel="nofollow">10 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/03/proposal-would-transfer-control-of-anderson/?partner=popular" title="Anderson County’s emergency services division could soon be supervised by someone new. " rel="nofollow">Proposal would transfer control of Anderson County's emergency services</a>
-					<span class="date">Published 6/3/2013 at 8:11 p.m.</span> <a href="/news/2013/jun/03/proposal-would-transfer-control-of-anderson/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
+					<a href="/news/2013/dec/03/missing-piedmont-woman-found-safe/?partner=popular" title="Cheryl Garrison, a missing Piedmont woman, has been found, authorities said" rel="nofollow">Missing Piedmont woman found safe</a>
+					<span class="date">Updated 12/3/2013 at 1:02 p.m.</span> <a href="/news/2013/dec/03/missing-piedmont-woman-found-safe/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/03/weather-service-says-tornado-struck-anderson/?partner=popular" title="A twister on the EF1 scale of the Enhanced Fujita scale struck Anderson County Sounday evening, the National Weather Service said " rel="nofollow">Weather service says tornado struck Anderson County</a>
-					<span class="date">Published 6/3/2013 at 4:25 p.m.</span> <a href="/news/2013/jun/03/weather-service-says-tornado-struck-anderson/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
+					<a href="/news/2013/dec/03/woman-charged-attempted-murder/?partner=popular" title="According to an arrest warrant, Bryant used a shotgun to shoot 37-year-old Larry Wayne Powell once in the lower back" rel="nofollow">Woman charged with attempted murder</a>
+					<span class="date">Published 12/3/2013 at 3:23 p.m.</span> <a href="/news/2013/dec/03/woman-charged-attempted-murder/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/03/rep-white-questions-need-for-expanding-program/?partner=popular" title="State Rep. Brian White voiced reservations Monday about expanding South Carolina’s taxpayer-supported kindergarten classes for 4-year-olds." rel="nofollow">Rep. White questions need for expanding kindergarten program</a>
-					<span class="date">Published 6/3/2013 at 7:16 p.m.</span> <a href="/news/2013/jun/03/rep-white-questions-need-for-expanding-program/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
+					<a href="/news/2013/dec/02/man-taken-hospital-after-shooting/?partner=popular" title="Shooting happened on Pinecroft Drive near Anderson" rel="nofollow">Man taken to hospital after shooting near Anderson</a>
+					<span class="date">Published 12/2/2013 at 5:36 p.m.</span> <a href="/news/2013/dec/02/man-taken-hospital-after-shooting/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/03/anderson-police-continue-search-for-man-charged/?partner=popular" title="Curtis Tywan Fowler, 29, was wanted in connection with the shooting death of Bryan Howard, 40" rel="nofollow">Deputies arrest man charged in Anderson shooting</a>
-					<span class="date">Updated 6/3/2013 at 9:11 p.m.</span> <a href="/news/2013/jun/03/anderson-police-continue-search-for-man-charged/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
+					<a href="/news/2013/dec/02/anderson-county-leaders-to-field-questions-at/?partner=popular" title="The free hour-and-a-half-long meeting starts at 7 p.m. Thursday in Anderson University's Daniel Recital Hall.  " rel="nofollow">Anderson County leaders to field questions at forum</a>
+					<span class="date">Published 12/2/2013 at 7:47 p.m.</span> <a href="/news/2013/dec/02/anderson-county-leaders-to-field-questions-at/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
 				</li>
 			
 		</ul>
@@ -936,15 +998,15 @@ We will respond to your request and, if applicable and appropriate, make the req
 			
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2013/jun/01/crescent-high-school-graduation/?partner=popular" title="Crescent High School Graduation" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2013/06/01/520130601222737003_t90_70.JPG" width="90" alt="Crescent High School Graduation"> Crescent High School Graduation</a>
+					<a href="/photos/galleries/2013/dec/02/2013-junior-cotillion/?partner=popular" title="2013 Junior Cotillion" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2013/12/02/1204_dmlo_Ashy_Carlee_t90_70.jpg" width="90" alt="2013 Junior Cotillion"> 2013 Junior Cotillion</a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2013/jun/02/fifty-years-on-hartwell/?partner=popular" title="Fifty years on Hartwell" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2013/06/02/720130602140924003_t90_70.JPG" width="90" alt="Fifty years on Hartwell"> Fifty years on Hartwell</a>
+					<a href="/photos/galleries/2013/dec/01/anderson-toy-parade/?partner=popular" title="Anderson Toy Parade" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2013/12/01/520131201183119001_t90_70.JPG" width="90" alt="Anderson Toy Parade"> Anderson Toy Parade</a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2013/jun/02/storm-damages-home/?partner=popular" title="Storm damages home" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2013/06/02/720130602202146003_t90_70.JPG" width="90" alt="Storm damages home"> Storm damages home</a>
+					<a href="/photos/galleries/2013/dec/02/photo-gallery-on-december-02-2013-at-174058/?partner=popular" title="Shooting on Pinecroft Drive" rel="nofollow"><img src="http://media.independentmail.com/media/img/photos/2013/12/02/420131202173633001_t90_70.JPG" width="90" alt="Shooting on Pinecroft Drive"> Shooting on Pinecroft Drive</a>
 				</div> <!-- end .bucket_media_item -->
 			
 
@@ -958,28 +1020,28 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2013/jun/01/busy-week-ahead-for-sc-lawmakers/?partner=popular" title="With a number of key issues still unresolved, it appears likely the legislative session will be extended" rel="nofollow">Busy week ahead for S.C. lawmakers</a>
-					<span class="date">Published 6/1/2013 at 4:56 p.m.</span> <a href="/news/2013/jun/01/busy-week-ahead-for-sc-lawmakers/?partner=popular#comments" class="comment_count" rel="nofollow">6 comments</a>
+					<a href="/news/2013/dec/02/gracie-floyd-asks-for-time-to-discuss-severance/?partner=popular" title="Gracie Floyd, the Anderson County Council’s most vocal opponent of the county’s ongoing legal battle with former administrator Joey Preston, has reserved time Tuesday night to discuss the lawsuit, but said Monday that she isn’t sure what she’ll say. " rel="nofollow">Gracie Floyd asks for time to discuss severance-pay lawsuit</a>
+					<span class="date">Updated // at : </span> <a href="/news/2013/dec/02/gracie-floyd-asks-for-time-to-discuss-severance/?partner=popular#comments" class="comment_count" rel="nofollow">10 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/may/30/council-members-clash-over-county-fair/?partner=popular" title="A disagreement between county council members Tommy Dunn and Cindy Wilson boiled over about the county's handling of the fair" rel="nofollow">Council members clash over county fair</a>
-					<span class="date">Published 5/30/2013 at 5:19 p.m.</span> <a href="/news/2013/may/30/council-members-clash-over-county-fair/?partner=popular#comments" class="comment_count" rel="nofollow">26 comments</a>
+					<a href="/news/2013/dec/02/govt-diagnosis-healthcaregov-mend/?partner=popular" title="Computer crashes should be giving way to insurance coverage — if the government's diagnosis of its health care website is correct" rel="nofollow">Government diagnosis: HealthCare.gov on the mend </a>
+					<span class="date">Updated 12/2/2013 at 12:33 p.m.</span> <a href="/news/2013/dec/02/govt-diagnosis-healthcaregov-mend/?partner=popular#comments" class="comment_count" rel="nofollow">7 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/02/storms-rumble-through-anderson-county/?partner=popular" title="There is a good chance that a small tornado touched down in Anderson County on Sunday afternoon, according to the National Weather Service. " rel="nofollow">Severe weather hits Anderson County</a>
-					<span class="date">Published 6/2/2013 at 4:49 p.m.</span> <a href="/news/2013/jun/02/storms-rumble-through-anderson-county/?partner=popular#comments" class="comment_count" rel="nofollow">4 comments</a>
+					<a href="/news/2013/dec/02/federal-health-care-law-is-source-of-confusion/?partner=popular" title="Obama administration says that 400 glitches have been corrected in recent weeks and that the website can now handle up to 50,000 users simultaneously.  " rel="nofollow">Federal health-care law is source of confusion in S.C.</a>
+					<span class="date">Updated // at : </span> <a href="/news/2013/dec/02/federal-health-care-law-is-source-of-confusion/?partner=popular#comments" class="comment_count" rel="nofollow">5 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/03/proposal-would-transfer-control-of-anderson/?partner=popular" title="Anderson County’s emergency services division could soon be supervised by someone new. " rel="nofollow">Proposal would transfer control of Anderson County's emergency services</a>
-					<span class="date">Published 6/3/2013 at 8:11 p.m.</span> <a href="/news/2013/jun/03/proposal-would-transfer-control-of-anderson/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
+					<a href="/news/2013/dec/02/some-dems-keep-distance-obama-popularity-drops/?partner=popular" title="Democrats running for re-election in Arkansas, Louisiana and other Republican-leaning states faced enough problems before President Barack Obama's popularity swooned in November. Now they are awkwardly distancing themselves from him a year before the election, seeking the right balance between independence and betrayal" rel="nofollow">Some Dems keep distance as Obama popularity drops </a>
+					<span class="date">Updated // at : </span> <a href="/news/2013/dec/02/some-dems-keep-distance-obama-popularity-drops/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/03/rep-white-questions-need-for-expanding-program/?partner=popular" title="State Rep. Brian White voiced reservations Monday about expanding South Carolina’s taxpayer-supported kindergarten classes for 4-year-olds." rel="nofollow">Rep. White questions need for expanding kindergarten program</a>
-					<span class="date">Published 6/3/2013 at 7:16 p.m.</span> <a href="/news/2013/jun/03/rep-white-questions-need-for-expanding-program/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
+					<a href="/news/2013/dec/03/sc-prosecutors-beatty-biased-against-solicitors/?partner=popular" title="Thirteen South Carolina prosecutors want one of the state's Supreme Court justices barred from considering their cases because of comments he made at a recent conference" rel="nofollow">S.C. prosecutors: Beatty biased against solicitors </a>
+					<span class="date">Updated 12/3/2013 at 11:32 a.m.</span> <a href="/news/2013/dec/03/sc-prosecutors-beatty-biased-against-solicitors/?partner=popular#comments" class="comment_count" rel="nofollow">2 comments</a>
 				</li>
 			
 		</ul>
@@ -991,28 +1053,28 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2013/apr/25/boston-suspects-planned-attack-nyc-authorities-say/?partner=popular" title="Dzhokhar Tsarnaev has been moved from a Boston hospital to a federal medical center about 40 miles west of the city, U.S. Marshals Service said" rel="nofollow">Authorities: Boston suspects planned to attack New York City</a>
-					<span class="date">Published 4/25/2013 at 2:12 p.m.</span> <a href="/news/2013/apr/25/boston-suspects-planned-attack-nyc-authorities-say/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
+					<a href="/news/2013/nov/30/bond-set-for-anderson-man-facing-attempted/?partner=popular" title="A judge set bond Saturday for Napoleon Blackwell Jr., who is accused of shooting an Anderson man Friday" rel="nofollow">Bond set for Anderson man facing attempted murder, weapon charges</a>
+					<span class="date">Updated // at : </span> <a href="/news/2013/nov/30/bond-set-for-anderson-man-facing-attempted/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/may/30/the-butchers-block-opens-in-anderson/?partner=popular" title="The Butcher's Block steps in to fill a void left in Anderson" rel="nofollow">The Butcher's Block opens in Anderson</a>
-					<span class="date">Published 5/30/2013 at 10:56 a.m.</span> <a href="/news/2013/may/30/the-butchers-block-opens-in-anderson/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
+					<a href="/news/2013/nov/29/mans-body-found-anderson-police-officer/?partner=popular" title="An Anderson police officer on routine patrol Friday morning found a man’s body near a vehicle parked on the side of Canterbury Road" rel="nofollow">Man’s body found by Anderson police officer</a>
+					<span class="date">Updated // at : </span> <a href="/news/2013/nov/29/mans-body-found-anderson-police-officer/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/may/25/feds-penalize-georgia-for-refusing-child-sex/?partner=popular" title="The U.S. government will penalize the state of Georgia $1.8 million for its refusal to administer ask students in grades 7-12 about sexual histories. " rel="nofollow">Feds penalize Georgia for refusing child sex survey</a>
-					<span class="date">Published 5/25/2013 at 1:22 p.m.</span> <a href="/news/2013/may/25/feds-penalize-georgia-for-refusing-child-sex/?partner=popular#comments" class="comment_count" rel="nofollow">2 comments</a>
+					<a href="/news/2013/dec/03/missing-piedmont-woman-found-safe/?partner=popular" title="Cheryl Garrison, a missing Piedmont woman, has been found, authorities said" rel="nofollow">Missing Piedmont woman found safe</a>
+					<span class="date">Updated 12/3/2013 at 1:02 p.m.</span> <a href="/news/2013/dec/03/missing-piedmont-woman-found-safe/?partner=popular#comments" class="comment_count" rel="nofollow">1 comment</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/02/storms-rumble-through-anderson-county/?partner=popular" title="There is a good chance that a small tornado touched down in Anderson County on Sunday afternoon, according to the National Weather Service. " rel="nofollow">Severe weather hits Anderson County</a>
-					<span class="date">Published 6/2/2013 at 4:49 p.m.</span> <a href="/news/2013/jun/02/storms-rumble-through-anderson-county/?partner=popular#comments" class="comment_count" rel="nofollow">4 comments</a>
+					<a href="/news/2013/nov/27/local-organizations-feed-needy-families-this/?partner=popular" title="This year will be Haven of Rest's 23rd year serving Thanksgiving, and volunteers have the process down to an art.  " rel="nofollow">Local organizations feed needy families this Thanksgiving</a>
+					<span class="date">Updated // at : </span> <a href="/news/2013/nov/27/local-organizations-feed-needy-families-this/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2013/jun/02/anderson-native-writes-a-success-story-at-tech/?partner=popular" title="Anderson native finishing his college career in style. " rel="nofollow">Rash writes a success story at Virginia Tech</a>
-					<span class="date">Published 6/2/2013 at 4:00 a.m.</span> <a href="/news/2013/jun/02/anderson-native-writes-a-success-story-at-tech/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
+					<a href="/news/2013/nov/28/ill-tornado-survivor-searches-missing-cards/?partner=popular" title="The cards swept away by the Nov. 17 twister that ripped through Washington, Ill., were personalized by Klein's brother, Paul McLaughlin, with notes for each of his three children before his 2005 death from colon cancer at age 39." rel="nofollow">Ill. tornado survivor searches for missing cards </a>
+					<span class="date">Updated // at : </span> <a href="/news/2013/nov/28/ill-tornado-survivor-searches-missing-cards/?partner=popular#comments" class="comment_count" rel="nofollow">0 comments</a>
 				</li>
 			
 		</ul>
@@ -1053,20 +1115,20 @@ We will respond to your request and, if applicable and appropriate, make the req
 		<div class="sidebar_current_weather clear">
 	
 			<div id="sidebar_current_icon">
-				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/3_170.png" width="120px" alt="A Few Clouds">
+				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/48_170.png" width="120px" alt="Fog/Mist">
 			</div> <!-- end #radar -->
 	
 			<div id="sidebar_current_weather">
 				<span class="current_temp_label">Currently</span>
-				<span class="current_temp">84<span class="current_temp_degree">°</span></span>
-				<span class="current_conditions">A Few Clouds</span>
+				<span class="current_temp">55<span class="current_temp_degree">°</span></span>
+				<span class="current_conditions">Fog/Mist</span>
 				<span class="current_wind">Wind: Calm</span>
 			</div> <!-- end #current_conditions -->
 	
 			<div id="sidebar_hi_low">
 				<span class="today_temp_label">Today</span>
-				<span class="hi_temp">85<span class="current_temp_degree">°</span></span>
-				<span class="lo_temp">67<span class="current_temp_degree">°</span></span>
+				<span class="hi_temp">65<span class="current_temp_degree">°</span></span>
+				<span class="lo_temp">50<span class="current_temp_degree">°</span></span>
 			</div> <!-- end #hi_low -->
 			
 		</div> <!-- end #weather -->
@@ -1076,39 +1138,39 @@ We will respond to your request and, if applicable and appropriate, make the req
 	<div id="sidebar_weather_3day" class="bucket_secondary preventFOUC">
 		<div id="sidebar_weather_forecast_3day" class="clear">
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Wed</div><div class="sidebar_weather_day">06:00 AM</div>
-				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/15_100.png" alt="Thunderstorms">
-				<div class="sidebar_forecast_conditions">Thunderstorms</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">71°</span></div>
+				<div class="sidebar_weather_day">Wed</div><div class="sidebar_weather_day">04:00 PM</div>
+				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/13_100.png" alt="Mostly Cloudy Showers">
+				<div class="sidebar_forecast_conditions">Mostly Cloudy Showers</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">64°</span></div>
 			</div>
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Wed</div><div class="sidebar_weather_day">06:00 PM</div>
-				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/16_100.png" alt="Mostly Cloudy Thunderstorms">
-				<div class="sidebar_forecast_conditions">Mostly Cloudy Thunderstorms</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">77°</span></div>
-			</div><!-- End sidebar_forecast_day -->
-			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Thu</div><div class="sidebar_weather_day">06:00 AM</div>
+				<div class="sidebar_weather_day">Thu</div><div class="sidebar_weather_day">04:00 AM</div>
 				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/40_100.png" alt="Mostly Cloudy Showers">
 				<div class="sidebar_forecast_conditions">Mostly Cloudy Showers</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">58°</span></div>
+			</div><!-- End sidebar_forecast_day -->
+			<div class="sidebar_forecast_day">
+				<div class="sidebar_weather_day">Thu</div><div class="sidebar_weather_day">04:00 PM</div>
+				<img src="http://media.independentmail.com/corp_assets/asphalt/img/weather/icons/15_100.png" alt="Thunderstorms">
+				<div class="sidebar_forecast_conditions">Thunderstorms</div>
 				<div class="sidebar_forecast_hilo">Temp: <span class="temp">69°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="clear"></div>
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 71°</p>
-						<p>Humidity: 84%</p>
-						<p>Precip: 18%</p>
+						<p>Feels Like: 64°</p>
+						<p>Humidity: 81%</p>
+						<p>Precip: 34%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 77°</p>
-						<p>Humidity: 71%</p>
-						<p>Precip: 32%</p>
+						<p>Feels Like: 58°</p>
+						<p>Humidity: 93%</p>
+						<p>Precip: 33%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
@@ -1116,8 +1178,8 @@ We will respond to your request and, if applicable and appropriate, make the req
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding last">
 						<p>Feels Like: 69°</p>
-						<p>Humidity: 90%</p>
-						<p>Precip: 40%</p>
+						<p>Humidity: 76%</p>
+						<p>Precip: 47%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
@@ -1189,10 +1251,7 @@ We will respond to your request and, if applicable and appropriate, make the req
 	<div class="sidebar_more_link sidebar_more_link_weather">
 		<div class="sidebar_weather_ad_rule"></div>
 		<div id="sidebar_weather_ad">
-			<div class="adtag" id="WEATHER_SPONSOR"><script language="JavaScript">
-        // slotname: WEATHER_SPONSOR
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=4;sz=120x30;pos=below' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=4;sz=120x30;pos=below;ord=795060721167204100" type="text/javascript"></script></div>
+			<!-- ad WEATHER_SPONSOR not known in ['SUPERSTITIAL', 'SEARCH_RESULTS_SPONSOR_1', 'BIGBOX_1', 'BIGBOX_2', 'FLAGPROMO_1', 'LEADERBOARD_1', 'PREROLL_TEMPLATE']-->
 		</div>
 		<a href="/weather/" title="More Anderson Weather">More Weather »</a>
 	</div>
@@ -1221,8 +1280,8 @@ We will respond to your request and, if applicable and appropriate, make the req
 	<div class="bigbox">
 		<div class="adtag" id="BIGBOX_2"><script language="JavaScript">
         // slotname: BIGBOX_2
-        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=3;sz=300x250;pos=below' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
-        </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/np.aim/Business;pt=detail;tile=3;sz=300x250;pos=below;ord=795060721167204100" type="text/javascript"></script></div>
+        document.write('<scr' + 'ipt language="JavaScript" src="' + 'http://ad.doubleclick.net/N6088/adj/np.aim/Business;pt=detail;tile=4;sz=300x250;pos=below' + _demo_params + _tile_params + '" type="text/javascript"></scr' + 'ipt>');
+        </script><script language="JavaScript" src="http://ad.doubleclick.net/N6088/adj/np.aim/Business;pt=detail;tile=4;sz=300x250;pos=below;sub=false;ord=7731150234562501" type="text/javascript"></script></div>
 	</div> <!-- end .bigbox -->
 </div> <!-- end .bigbox_wrapper -->
 
@@ -1296,6 +1355,36 @@ We will respond to your request and, if applicable and appropriate, make the req
 				<li id="carousel_page1">
 					
 					<div class="skybox">
+						<a href="http://www.independentmail.com/news/motormouth/"><img src="http://web.independentmail.com/static/motormouth/motormouthsky.jpg" width="120" height="107" alt="Motor Mouth"></a>
+<h4><a href="http://www.independentmail.com/news/motormouth/" title="Motor Mouth">The Motor Mouth</a></h4>
+<p><a href="http://www.independentmail.com/news/motormouth/" title="Motor Mouth">Columnist Mike McMillan covers car culture from around the Upstate.</a></p>
+
+
+					</div> <!-- end .skybox -->
+					
+					<div class="skybox">
+						<a href="http://www.independentmail.com/twascontest/" title="Twas"><img src="http://web.independentmail.com/static/images/twasSKY.jpg" width="120" height="107" alt="Twas"></a>
+<h4><a href="http://www.independentmail.com/twascontest/" title="Twas">'Twas your town</a></h4>
+<p><a href="http://www.independentmail.com/twascontest/" title="Twas">Enter here for our "Twas the Night Before Christmas" contest!</a></p>
+					</div> <!-- end .skybox -->
+					
+					<div class="skybox">
+						<a href="http://www.independentmail.com/bcf-donations/" title="BCF"><img src="http://web.independentmail.com/static/images/bcfsky.jpg" width="120" height="107" alt="BCF"></a>
+<h4><a href="http://www.independentmail.com/bcf-donations/" title="BCF">Helping hand</a></h4>
+<p><a href="http://www.independentmail.com/bcf-donations/" title="BCF">Help others through the Brighter Christmas Fund!</a></p>
+					</div> <!-- end .skybox -->
+					
+				</li><!-- End carousel_page1 -->
+			
+				<li id="carousel_page2">
+					
+					<div class="skybox">
+						<a href="http://twitter.com/independentmail" title="News on Twitter"><img src="http://web.independentmail.com/skybox/images/twitter13.jpg" width="120" height="107" alt="On Twitter"></a>
+<h4><a href="http://twitter.com/independentmail" title="We're on Twitter">We're on Twitter</a></h4>
+<p><a href="http://twitter.com/independentmail" title="News on Twitter">Follow us on Twitter! Check @independentmail for headlines. </a></p>
+					</div> <!-- end .skybox -->
+					
+					<div class="skybox">
 						<a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time."><img src="http://web.independentmail.com/skybox/images/oaw_skybox.jpg" width="120" height="107"></a>
 <h4><a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time.">Clemson Fans!</a></h4>
 <p><a href="http://www.orangeandwhite.com/" title="All Tigers Sports. All the time.">Find our Clemson Tigers coverage at our new website: OrangeandWhite.com</a></p>
@@ -1305,35 +1394,6 @@ We will respond to your request and, if applicable and appropriate, make the req
 						<a href="http://www.independentmail.com/apps/" title="Apps!"><img src="http://web.independentmail.com/skybox/images/APPS.jpg" width="120" height="107" alt="Apps"></a>
 <h4><a href="http://www.independentmail.com/apps/" title="Apps">Mobile Apps</a></h4>
 <p><a href="http://www.independentmail.com/apps/" title="Apps">Get news on your smart phone! Check out our apps for iPhone, Android and more</a></p>
-
-					</div> <!-- end .skybox -->
-					
-					<div class="skybox">
-						<a href="/gasprices/" title="Lowest Upstate gas prices"><img src="http://web.independentmail.com/skybox/images/gasprices.jpg" width="120" height="107" alt="Lowest Upstate gas prices"></a>
-<h4><a href="/gasprices/" title="Lowest Upstate gas prices">Lowest Upstate Gas Prices</a></h4>
-<p><a href="/gasprices/" title="Lowest Upstate gas prices">Find the cheapest fuel where you live</a></p>
-					</div> <!-- end .skybox -->
-					
-				</li><!-- End carousel_page1 -->
-			
-				<li id="carousel_page2">
-					
-					<div class="skybox">
-						<a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Reader Rewards"><img src="http://web.independentmail.com/skybox/images/rewards.jpg" width="120" height="107" alt="Rewards"></a>
-<h4><a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Rewards">Reader Rewards</a></h4>
-<p><a href="http://www.rdpdeals.com/index.php?client=5B0B9B" title="Rewards">Let your subscription give back. Get discounts and perks at local businesses!</a></p>
-					</div> <!-- end .skybox -->
-					
-					<div class="skybox">
-						<a href="http://twitter.com/independentmail"><img src="http://web.independentmail.com/skybox/images/TWITTER.jpg" width="120" height="107" alt="Twitter"></a>
-<h4><a href="http://twitter.com/independentmail" title="Twitter">Follow us on Twitter!</a></h4>
-<p><a href="http://twitter.com/independentmail" title="Twitter">Stay up-to-date with your news. Follow us on Twitter, @independentmail.</a></p>
-					</div> <!-- end .skybox -->
-					
-					<div class="skybox">
-						<a href="http://independentmail.sc.newsmemory.com/special.php?date=20120713" title="Need 2 Know 2012"><img src="http://web.independentmail.com/skybox/images/n2ksky.jpg" width="120" height="107" alt="Need 2 Know 2012"></a>
-<h4><a href="http://independentmail.sc.newsmemory.com/special.php?date=20120713" title="Need 2 Know 2012">Need 2 Know</a></h4>
-<p><a href="http://independentmail.sc.newsmemory.com/special.php?date=20120713" title="Need 2 Know 2012">A guide to what you need to know about the Anderson area</a></p>
 					</div> <!-- end .skybox -->
 					
 				</li><!-- End carousel_page2 -->
@@ -1341,34 +1401,24 @@ We will respond to your request and, if applicable and appropriate, make the req
 				<li id="carousel_page3">
 					
 					<div class="skybox">
-						<a href="http://www.gofridayfootball.com/" title="Football"><img src="http://web.independentmail.com/skybox/images/GFF_1.jpg" width="120" height="107" alt="Rewards"></a>
-<h4><a href="http://www.gofridayfootball.com/" title="Football">Football Fanatics!</a></h4>
-<p><a href="http://www.gofridayfootball.com/" title="Football">Check out the latest on your favorite high school teams at GoFridayFootball.com</a></p>
+						<a href="/gasprices/" title="Lowest Upstate gas prices"><img src="http://web.independentmail.com/skybox/images/gasprices.jpg" width="120" height="107" alt="Lowest Upstate gas prices"></a>
+<h4><a href="/gasprices/" title="Lowest Upstate gas prices">Lowest Upstate Gas Prices</a></h4>
+<p><a href="/gasprices/" title="Lowest Upstate gas prices">Find the cheapest fuel where you live</a></p>
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
-						<a href="http://www.independentmail.com/lakehartwell/" title="Lake Hartwell"><img src="http://web.independentmail.com/skybox/images/skybox.jpg" width="120" height="107" alt="Lake Hartwell"></a>
-<h4><a href="http://www.independentmail.com/lakehartwell/" title="Lake Hartwell">Lake Hartwell's 50th</a></h4>
-<p><a href="http://www.independentmail.com/lakehartwell/" title="Lake Hartwell">See stories, a list of events and historic photos here! </a></p>
+						<a href="http://www.independentmail.com/rewards/" title="Reader Rewards"><img src="http://web.independentmail.com/skybox/images/rewards.jpg" width="120" height="107" alt="Rewards"></a>
+<h4><a href="http://www.independentmail.com/rewards/" title="Rewards">Reader Rewards</a></h4>
+<p><a href="http://www.independentmail.com/rewards/" title="Rewards">Let your subscription give back. Get discounts and perks at local businesses!</a></p>
 					</div> <!-- end .skybox -->
 					
 					<div class="skybox">
-						<a href="http://www.independentmail.com/midnight-flight-results/2012/" title="Midnight Flight"><img src="http://media.independentmail.com/media/img/photos/2012/09/01/midnightflight12sky.jpg" width="120" height="107" alt="Midnight Flight"></a>
-<h4><a href="http://www.independentmail.com/midnight-flight-results/2012/" title="Midnight Flight">Midnight Flight</a></h4>
-<p><a href="http://www.independentmail.com/midnight-flight-results/2012/" title="Midnight Flight">Check out our searchable list of the full race results here!</a></p>
+						<a href="http://www.independentmail.com/tvlistings/" title="TV Guide"><img src="http://web.independentmail.com/skybox/images/TV Guide.jpg" width="120" height="107" alt="TV Guide"></a>
+<h4><a href="http://www.independentmail.com/tvlistings/" title="TV Guide">TV Guide</a></h4>
+<p><a href="http://www.independentmail.com/tvlistings/" title="TV Guide">Check out our your local TV listings here!</a></p>
 					</div> <!-- end .skybox -->
 					
 				</li><!-- End carousel_page3 -->
-			
-				<li id="carousel_page4">
-					
-					<div class="skybox">
-						<a href="http://www.independentmail.com/civilwar/" title="Civil War"><img src="http://web.independentmail.com/skybox/images/civilwar.jpg" width="120" height="107" alt="Civil War"></a>
-<h4><a href="http://www.independentmail.com/civilwar/" title="Civil War">Civil War: 150 years</a></h4>
-<p><a href="http://www.independentmail.com/civilwar/" title="Civil War">Check out our special section!</a></p>
-					</div> <!-- end .skybox -->
-					
-				</li><!-- End carousel_page4 -->
 			
 	
 		</ul> <!-- end #skybox_carousel -->
@@ -1502,6 +1552,7 @@ We will respond to your request and, if applicable and appropriate, make the req
     <script src="http://media.independentmail.com/corp_assets/asphalt/js/ui/jquery-ui-1.7.1.core-tabs.js" type="text/javascript"></script>
     <script src="http://media.independentmail.com/corp_assets/asphalt/js/modernizr-2.6.2.min.js" type="text/javascript"></script>
     <script src="http://media.independentmail.com/corp_assets/asphalt/js/xd.js" type="text/javascript"></script>
+    <script src="http://media.independentmail.com/corp_assets/asphalt/js/jquery-cookie.js" type="text/javascript"></script>
     
     
         <script src="http://media.independentmail.com/corp_assets/asphalt/js/plugins.scriptalizer.js" type="text/javascript"></script>
@@ -1514,7 +1565,8 @@ We will respond to your request and, if applicable and appropriate, make the req
     <![endif]-->
     
     
-    <script src="http://media.independentmail.com/corp_assets/asphalt/js/jSING/core/jSING.core.yui.2011-11-07_16-10-58.js" type="text/javascript"></script>
+    <script src="http://v9.anv.bz.s3.amazonaws.com/scripts/anv_mcp_9.js" type="text/javascript"></script>
+    <script src="http://media.independentmail.com/corp_assets/asphalt/js/jSING/core/jSING.core.yui.2013-09-19_15-06-25.js" type="text/javascript"></script>
     <script src="http://media.independentmail.com/corp_assets/asphalt/js/jSING/news/jSING.news.yui.2011-11-08_16-28-17.js" type="text/javascript"></script>
     <script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
 
