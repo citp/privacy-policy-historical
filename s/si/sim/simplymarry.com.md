@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplymarry.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517184352id_/http%3A//www.simplymarry.com/matrimonial/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplymarry.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204022430id_/http%3A//www.simplymarry.com/matrimonial/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Indian Matrimony - Simplymarry Matrimonial
 
@@ -15,6 +15,10 @@ To avail certain sites / services on our websites, users are required to provide
 All required information is service dependent and TBSL may use the above said User information to, maintain, protect, and improve its services (including advertising services) and for developing new services.
 
 Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005 or any other law for the time being in force. 
+
+INFORMATION GATHERED VIA FACEBOOK
+
+We do not store your Facebook password, and any other such confidential information. We collect information like your name, email ID, company name, gender, facebook photos, that too imported by you only from your facebook profile at your sole discretion to be used for your Simplymarry profile. None of this information is ever shared with, or sold to any third parties for marketing purposes, without your consent. 
 
 COOKIES
 
@@ -48,25 +52,31 @@ All information gathered on TBSL is securely stored within the TBSL controlled d
 
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.   
-In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [tbsl-legal@indiatimes.co.in](mailto:tbsl-legal@indiatimes.co.in) ; or write at the following address: 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
-**Times Business Solutions Limited**  
-(A Times Group Company)  
-Times Center  
-6 FC, Film City  
-Sector 16 A ,  
-Noida - 201301  
-INDIA   
-Ph: 0120-330 2768  
-[legal.tbsl@timesgroup.com](mailto:legal.tbsl@timesgroup.com)
+**Grievance Redressal :**  
+Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to [grievance@simplymarry.com](mailto:grievance@simplymarry.com) or Mr. Sachin Kumar ("Grievance Officer"). 
+
+**Mr. Sachin Kumar (Grievance Officer)  
+**  
+Times Business Solutions Limited
+
+**www.simplymarry.com  
+**  
+Times Business Solutions Limited  
+(A Times Group Company)   
+Times Centre   
+Sector 16-A, Noida - 201301, India   
+Email: [grievance@simplymarry.com](mailto:grievance@simplymarry.com)  
+Phone No. 0120-663-6502
 
 We request you to please provide the following information in your complaint:-
 
-  1. Identification of the information provided by you 
-  2. Clear statement as to whether the information is personal information or sensitive personal information 
-  3. Your address, telephone number or e-mail address. 
-  4. A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be. 
-  5. A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.
+  1. A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint.
+  2. Identification of the copyrighted work claimed to have been infringed.
+  3. Identification of the material on our website that is claimed to be infringing or to be the subject of infringing activity.
+  4. The address, telephone number or e-mail address of the complaining party.
+  5. A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.
+  6. A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.
 
 
