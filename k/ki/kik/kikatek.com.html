@@ -1,15 +1,17 @@
-<!--The following is the downloaded HTML source of the kikatek.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601093715id_/http%3A//www.kikatek.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kikatek.com privacy policy that was archived on 2013-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204211818id_/http%3A//www.kikatek.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" js svg"><head>
     <meta name="keywords" content="computer, components, parts, kikatek, technology, pc, online, store, peripherals, software, electronics, download store, hardware">
 <meta name="description" content="Kikatek.com - Your Computer and Electronics Store. Kikatek offers the best in computer hardware, software, downloads and electronics!">
+    <meta property="fb:app_id" content="135920103212537">
+    
     <meta name="google-site-verification" content="YGYHGs53gnEyycySLAYfqMuW6NhDfn51ffoowfvs0GU">
     <meta name="msvalidate.01" content="E91EDB6094930433592B9ADC330CB670">
 	<meta name="viewport" content="width=1101">
 	<meta name="format-detection" content="telephone=no">
 	
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-17250230-1']);
@@ -37,6 +39,8 @@
     	}
     	
     	window.g_aPreHeaderCallbacks = window.g_aPreHeaderCallbacks || [];
+    	window.g_aOnReadyCallbacks = window.g_aOnReadyCallbacks || [];
+    	window.g_aOnFBInitCallbacks = window.g_aOnFBInitCallbacks || [];
     	window.g_aPreHeaderCallbacks.push(InitialiseGA);
 	</script>
 	
@@ -65,49 +69,110 @@
     <title>Kikatek.com: Privacy and Cookies Policy</title>
     <base href="http://www.kikatek.com/">
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
-<script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
+<script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '2ac341bfc01798f2e53b2aa080afe3b1')</script></head>
 
 
 
 <body marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
 <!-- header //-->
+<style>
+	body { background-image: url(/MMRes/ResourcesMultimediaBanners/-/108/banner.png) !important; }
+</style>
+
+<a class="kes-site-skin-l" href="https://www.kikatek.com/redirect.php?action=banner&amp;goto=108"></a>
+<a class="kes-site-skin-r" href="https://www.kikatek.com/redirect.php?action=banner&amp;goto=108"></a><script>
+
+	(function() {
+
+	    //
+	    //
+        // Set initial zoom level for mobile devices.
+        if(screen && screen.width)
+        {
+            if(screen.width < 600)
+            {
+                $('meta[name="viewport"]').attr('content', 'width=846');
+            }
+            else if(screen.width < 1024)
+            {
+                $('meta[name="viewport"]').attr('content', 'width=1101');
+            }
+        }
+
+
+	    if(window.g_aPreHeaderCallbacks)
+	    {
+	    	for(var i = 0, j = window.g_aPreHeaderCallbacks.length; i < j; ++i)
+	    	{
+	    	    window.g_aPreHeaderCallbacks[i]();
+	    	}
+	    }
 
 
 
-	<script>
+	}) ();
 
-		(function() {
+</script>	<script>
+		window.g_aOnFBInitCallbacks.push(
+			function()
+			{
+				var jqForm = $('form[name="kes-header-fbloginform"]');
+				
+			    $('.fb-login-button').click(
+					function()
+					{
+					    FB.login(
+							function(oResponse)
+							{
+							    if(oResponse.status == 'connected')
+		                        {
+		                            var oData = oResponse.authResponse;
 
+		                            jqForm.children('input[name="__FBLOGIN_strAccessToken"]').val(oData.accessToken);
+		                            jqForm.children('input[name="__FBLOGIN_iExpiresIn"]').val(oData.expiresIn);
+		                            jqForm.children('input[name="__FBLOGIN_strSignedRequest"]').val(oData.signedRequest);
+		                            jqForm.children('input[name="__FBLOGIN_strUserID"]').val(oData.userID);
+		                            jqForm[0].submit();
+		                        }
+							},
+							{scope: 'email'}
+						);
+					}
+			    );
 
+			    $(window).scroll(
+				    function()
+				    {
+					    var jqThis = $(this),
+					    	jqHeader = $('#Header-Options-Container');
 
-		    if(window.g_aPreHeaderCallbacks)
-		    {
-		    	for(var i = 0, j = window.g_aPreHeaderCallbacks.length; i < j; ++i)
-		    	{
-		    	    window.g_aPreHeaderCallbacks[i]();
-		    	}
-		    }
-
-
-
-		}) ();
-
+					    if(jqThis.scrollTop() > 0)
+					    {
+					        jqHeader.addClass('kes-header-scrolled');
+					    }
+					    else
+					    {
+					        jqHeader.removeClass('kes-header-scrolled');
+					    }
+				    }
+			    );
+			}
+		);
 	</script>
+	
+	
+	
+	<form name="kes-header-fbloginform" action="https://www.kikatek.com/login.php" method="post">
+		<input type="hidden" name="__FBLOGIN_strAccessToken" value="">
+		<input type="hidden" name="__FBLOGIN_iExpiresIn" value="">
+		<input type="hidden" name="__FBLOGIN_strSignedRequest" value="">
+		<input type="hidden" name="__FBLOGIN_strUserID" value="">
+	</form>
+
 
 
     <div id="dhtmltooltip"></div>
 	<script src="/includes/scripts/productInfoTooltip.js" type="text/javascript"></script>
-	
-	
-
-    <style>
-        #Header-Options-Container
-        {
-        	position: relative;
-        	height: 110px;
-        	overflow: visible;
-        }
-    </style>
     
     
     
@@ -116,116 +181,120 @@
 	
 	
 	<div class="kes-body">
+	
+		<div style="height: 88px">&nbsp;</div>
 
-    	<div class="kes">
-
-    		<div id="Header-Options-Container" style="">
-    		
-            	<header style="top: 0px; overflow: hidden; height: 123.992px; margin-top: 0px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px;">
+		<div class="kes" id="Header-Options-Container">
+		
+        	<header>
+        	
+            	<nav class="nav-top">
+            		<h1 class="logo-container">
+        				<a href="http://www.kikatek.com" title="Kikatek.com — Your Computer and Electronics Store"></a>
+        			</h1>
+        			<div class="slogan">
+        				<span>Delivering Technology to your door</span>
+            		</div>
+            		<ul>
+            			<li><a class="subtle" href="http://www.kikatek.com/promotion/-/1386149043/ZEBRA--Buy-a-qualifying-GT800-printer---Receive-4-FREE-RIBBONS/">ZEBRA: Buy a qualifying GT800 printer &amp; Receive 4 FREE RIBBONS</a></li>
+            			<li class="sep">|</li>
+            			<li class="last"><a href="http://www.kikatek.com/contact_us.php">Contact Us</a></li>
+            		</ul>
+            	</nav>
             	
             	
             	
-                	<nav class="nav-top">
-                		<h1 class="logo-container">
-            				<a href="http://www.kikatek.com" title="Kikatek.com — Your Computer and Electronics Store"></a>
-            			</h1>
-            			<div class="slogan">
-            				<span>Delivering Technology to your door</span>
-                		</div>
-                		<ul>
-                			<li><a class="subtle" href="http://www.kikatek.com/promotion/-/1339063344/Download-Store-----Now-Open-/">Download Store — Now Open!</a></li>
-                			<li class="sep">|</li>
-                			<li class="last"><a href="http://www.kikatek.com/contact_us.php">Contact Us</a></li>
-                		</ul>
-                	</nav>
-                	
-                	
-                	
-                	<nav class="nav-bottom">
-                		<ul style="position: absolute;">
-                			<li class="nav-item"></li>
-            				<li class="nav-item has-options" style="width: 150px;">
-            					<span class="icon"></span>
-            					<span style="font-size: 14px;">Browse Our Store</span>
-            					<div class="dropdown-options" style="min-width: 200px">
-        							<ul class="plain-list">
+            	<nav class="nav-bottom">
+            		<ul style="position: absolute;">
+            			<li class="nav-item"></li>
+        				<li class="nav-item has-options" style="width: 150px;">
+        					<span class="icon"></span>
+        					<span style="font-size: 14px;">Browse Our Store</span>
+        					<div class="dropdown-options" style="min-width: 200px">
+    							<ul class="plain-list">
 <li><h4>Currently Viewing:</h4></li>
-<li><div style="display: inline;" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a class="subtle" href="https://secure.kikatek.com/privacy.php" itemprop="url">Privacy and Cookies Policy</a><link itemprop="title" content="Privacy and Cookies Policy"></div></li>
+<li><div style="display: inline;" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a class="subtle" href="https://www.kikatek.com/privacy.php" itemprop="url">Privacy and Cookies Policy</a><link itemprop="title" content="Privacy and Cookies Policy"></div></li>
 </ul>
 <hr><ul class="plain-list" style="margin-bottom: 5px;">
 	<li><h4>Departments</h4></li>
 </ul>
 <div class="columns-view-widget">
 	<ul class="plain-list col" style="display: block;">
-		<li class="row-select" data-strtargetcvwid="164"><a class="subtle" href="http://www.kikatek.com/C164/Buy-the-Cheapest-Desktops-Fastest-Servers">Computing</a></li><li class="row-select" data-strtargetcvwid="156"><a class="subtle" href="http://www.kikatek.com/C156/Buy-Cables-the-Fastest-Motherboards-Fastest">Components</a></li><li class="row-select" data-strtargetcvwid="543"><a class="subtle" href="http://www.kikatek.com/C543/Download-Norton-Anti-Virus-Software-Security">Download Store</a></li><li class="row-select" data-strtargetcvwid="82"><a class="subtle" href="http://www.kikatek.com/C82/Buy-the-Fastest-Modems-Fastest-Routers">Networking</a></li><li class="row-select" data-strtargetcvwid="157"><a class="subtle" href="http://www.kikatek.com/C157/Buy-the-Newest-Flash-Memory-Latest-UPCs-Best">Peripherals</a></li><li class="row-select" data-strtargetcvwid="512"><a class="subtle" href="http://www.kikatek.com/C512/Buy-Cheap-Calculators-Office-Paper-the-Newest">Office</a></li><li class="row-select" data-strtargetcvwid="163"><a class="subtle" href="http://www.kikatek.com/C163/Buy-Cheap-Monitors-the-Newest-TVs-Cheap">Sound &amp; Vision</a></li>
+		<li class="row-select" data-strtargetcvwid="156"><a class="subtle" href="http://www.kikatek.com/C156/Computer-Components-Store">Computer Components</a></li><li class="row-select" data-strtargetcvwid="164"><a class="subtle" href="http://www.kikatek.com/C164/Computing">Computers &amp; Accessories</a></li><li class="row-select" data-strtargetcvwid="543"><a class="subtle" href="http://www.kikatek.com/C543/Software-Download-Store">Download Store</a></li><li class="row-select" data-strtargetcvwid="163"><a class="subtle" href="http://www.kikatek.com/C163/Electronics">Electronics</a></li><li class="row-select" data-strtargetcvwid="82"><a class="subtle" href="http://www.kikatek.com/C82/Networking">Networking</a></li><li class="row-select" data-strtargetcvwid="512"><a class="subtle" href="http://www.kikatek.com/C512/Office-Business">Office &amp; Business</a></li><li class="row-select" data-strtargetcvwid="565"><a class="subtle" href="http://www.kikatek.com/C565/Cars-Motorbikes">Cars &amp; Motorbikes</a></li><li class="row-select" data-strtargetcvwid="428"><a class="subtle" href="http://www.kikatek.com/C428/Buy-Cheap-Games">Gaming</a></li>
 		<li class="row-select"><a class="subtle" href="http://www.kikatek.com/sitemap.php">Shop All Departments</a></li>
 	</ul>
-	<ul class="plain-list col" data-strcvwid="164">
-	<li class="row-select"><a class="subtle" href="http://www.kikatek.com/C178/Buy-Cheap-Desktops-Fast-Servers">Desktops &amp; Servers</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C182/Buy-Cheap-Laptops-Light-Netbooks">Laptops &amp; Netbooks</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C517/Buy-Light-Tablets-New-Mobiles-Devices">Tablets &amp; Mobiles</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C439/Buy-New-Software">Software</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C526/Buy-Computing-Options-Accessories">Options &amp; Accessories</a></li>
-</ul><ul class="plain-list col" data-strcvwid="156">
-	<li class="row-select"><a class="subtle" href="http://www.kikatek.com/C448/Buy-Cables-Tools">Cables &amp; Tools</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C32/Buy-the-Newest-Cases-Newest-Barebones">Cases &amp; Barebones</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C97/Buy-Controller-Cards">Controller Cards</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C36/Buy-Desktop-Laptop-or-CPU-Cooling-Devices">Cooling Devices</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C48/Buy-the-Latest-Disk-Drives">Disk Drives</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C4/Buy-the-Newest-Graphics-Cards">Graphics Cards</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C16/Buy-the-Cheapest-Memory-Modules">Memory Modules</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C52/Buy-the-Newest-Motherboards">Motherboards</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C443/Buy-Cheap-Optical-Drives-and-Cheap-Tape-Drives">Optical / Tape Drives</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C64/Buy-the-Fasted-Processor-CPU">Processors &amp; CPU</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C80/Buy-a-Cheap-Power-Supply-Unit-PSU">Power Supply PSU</a></li>
+	<ul class="plain-list col" data-strcvwid="156">
+	<li class="row-select"><a class="subtle" href="http://www.kikatek.com/C448/Cables-Tools">Cables &amp; Tools</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C32/Cases-Barebones">Cases &amp; Barebones</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C97/Controller-Cards">Controller Cards</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C36/Cooling-Fans-thermal-paste">Cooling Devices</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C48/Disk-Drives">Disk Drives &amp; Storage</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C4/Graphics-Cards">Graphics Cards</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C16/Memory-Modules">Memory Modules</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C52/Motherboards">Motherboards</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C443/Optical-and-Tape-Drives">Optical / Tape Drives</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C64/Processors-CPU">Processors &amp; CPU</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C80/Power-Supply-Unit-PSU">Power Supply PSU</a></li>
+</ul><ul class="plain-list col" data-strcvwid="164">
+	<li class="row-select"><a class="subtle" href="http://www.kikatek.com/C661/Business-Handheld-Computers">Business Handheld Computers</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C178/Desktops-and-Servers">Desktops &amp; Servers</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C39/Buy-Cheap-Flash-Memory">Flash Memory</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C8/Buy-the-Newest-Keyboard-and-Keypads-Cheap-Mouse">Keyboards, Mice &amp; Input Devices</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C182/Laptops-Ultrabooks">Laptops &amp; Ultrabooks</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C281/Cheap-Power-Protection-and-Cheap-UPS-Devices">Power Protection and UPS</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C246/Buy-Cheap-Printers-and-Cheap-Scanners">Printers &amp; Scanners</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C594/Smartphones-Accessories">Smartphones &amp; Accessories</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C392/Buy-Cheap-Storage-Media">Storage Media</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C575/Tablets-Accessories">Tablets &amp; Accessories</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C439/Software">Software</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C555/Other-Accessories">Other Accessories</a></li>
 </ul><ul class="plain-list col" data-strcvwid="543">
 	<li class="row-select"><a class="subtle" href="http://www.kikatek.com/C545/Download-the-Latest-Anti-Virus-and-Security">Anti-Virus and Security</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C547/Download-all-the-Office-Applications">Office Applications</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C549/Download-an-Operating-System">Operating System</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C546/Others">Others</a></li>
-</ul><ul class="plain-list col" data-strcvwid="82">
-	<li class="row-select"><a class="subtle" href="http://www.kikatek.com/C105/Buy-the-Cheapest-Routers-and-the-Fastest-Modems">Routers &amp; Modems</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C226/Buy-the-Latest-Network-Storage-NAS">Network Storage NAS</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C307/Buy-Cheap-Switches">Switches</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C106/Buy-the-Newest-Access-Point-and-Fastest-Bridge">Access Point &amp; Bridge</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C83/Buy-Cheap-Network-Adapters">Network Adapters</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C278/Buy-the-newest-Powerline-Adapters">Powerline Adapters</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C417/Buy-the-Latest-Digital-VOIP-Phones">Digital VOIP Phones</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C283/Buy-the-Newest-Network-Security-Devices-Newest">Network Security &amp; Firewall</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C140/Buy-the-Newest-Network-Interface-Cards">Network Interface Cards</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C378/Buy-the-Newest-Print-Servers">Print Servers</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C126/Buy-Network-Accessories">Network Accessories</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C540/Buy-Cheap-Transceivers-Cheap-SFP-Modules">Transceivers &amp; SFP Modules</a></li>
-</ul><ul class="plain-list col" data-strcvwid="157">
-	<li class="row-select"><a class="subtle" href="http://www.kikatek.com/C39/Buy-Cheap-Flash-Memory">Flash Memory</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C8/Buy-the-Newest-Keyboard-and-Keypads-Cheap-Mouse">Input Devices</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C281/Cheap-Power-Protection-and-Cheap-UPS-Devices">Power Protection and UPS</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C246/Buy-Cheap-Printers-and-Cheap-Scanners">Printers &amp; Scanners</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C322/Buy-Cheap-Printer-Consumables">Printers Consumables</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C392/Buy-Cheap-Storage-Media">Storage Media</a></li>
-</ul><ul class="plain-list col" data-strcvwid="512">
-	<li class="row-select"><a class="subtle" href="http://www.kikatek.com/C514/Buy-Cheap-Calculators">Calculators</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C516/Buy-Cheap-Office-Accessories">Office Accessories</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C513/Buy-Cheap-Office-Paper-Media">Office Paper / Media</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C515/Buy-Cheap-Shredders">Shredder</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C469/Buy-Cheap-Telephones">Telephones</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C494/Buy-Cheap-Voice-Recorders">Voice Recorders</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C539/Buy-Cheap-Lights">Lighting</a></li>
 </ul><ul class="plain-list col" data-strcvwid="163">
-	<li class="row-select"><a class="subtle" href="http://www.kikatek.com/C45/Buy-Cheap-Audio-Accessories-and-Cheap-Video">Audio &amp; Video Accessories</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C212/Buy-Cheap-Cameras-and-Cheap-Camcorders">Cameras &amp; Camcorders</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C428/Buy-Cheap-Games">Gaming</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C249/Buy-Cheap-Home-Entertainment-equipment">Home Entertainment</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C6/Buy-Cheap-Monitors-and-Cheap-TVs">Monitors &amp; TVs</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C27/Buy-Cheap-Portable-Media-Players">Portable Media Players</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C195/Buy-Cheap-Projectors">Projectors</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C382/Buy-Cheap-Security-Devices-Cheap-Surveillance">Security &amp; Surveillance</a></li>
+	<li class="row-select"><a class="subtle" href="http://www.kikatek.com/C212/Buy-Cheap-Cameras-and-Cheap-Camcorders">Cameras &amp; Camcorders</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C562/eBook-Readers-eReaders">eBook Readers / eReaders</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C254/GPS-Sat-Nav">GPS &amp; Navigation</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C249/Buy-Cheap-Home-Entertainment-equipment">Home Entertainment</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C539/Buy-Cheap-Lights">Lighting</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C6/Buy-Cheap-Monitors-and-Cheap-TVs">Monitors &amp; TVs</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C563/Phones">Phones</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C27/Buy-Cheap-Portable-Media-Players">Portable Sound &amp; Vision</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C576/Power-Accessories">Power Accessories</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C195/Buy-Cheap-Projectors">Projectors</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C382/Buy-Cheap-Security-Devices-Cheap-Surveillance">Security &amp; Surveillance</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C556/Smartwatch-Wearable-Tech">Smartwatch &amp; Wearable Tech</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C45/Buy-Cheap-Audio-Accessories-and-Cheap-Video">Speakers, Headphones &amp; Audio</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C642/Tablets-Accessories">Tablets &amp; Accessories</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C77/Gadgets">Toys &amp; Gadgets</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C640/Other-Electronics">Other Electronics</a></li>
+</ul><ul class="plain-list col" data-strcvwid="82">
+	<li class="row-select"><a class="subtle" href="http://www.kikatek.com/C591/Network-Storage">Network Storage</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C105/Buy-the-Cheapest-Routers-and-the-Fastest-Modems">Routers &amp; Modems</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C106/Buy-the-Newest-Access-Point-and-Fastest-Bridge">Access Point &amp; Bridge</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C417/Buy-the-Latest-Digital-VOIP-Phones">Digital VOIP Phones</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C83/Buy-Cheap-Network-Adapters">Network Adapters</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C140/Buy-the-Newest-Network-Interface-Cards">Network Interface Cards</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C283/Buy-the-Newest-Network-Security-Devices-Newest">Network Security &amp; Firewall</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C278/Buy-the-newest-Powerline-Adapters">Powerline Adapters</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C378/Buy-the-Newest-Print-Servers">Print Servers</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C307/Buy-Cheap-Switches">Switches</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C540/Buy-Cheap-Transceivers-Cheap-SFP-Modules">Transceivers &amp; SFP Modules</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C617/Network-Cables-Tools">Network Cables &amp; Tools</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C665/Network-Options-Accessories">Network Options &amp; Accessories</a></li>
+</ul><ul class="plain-list col" data-strcvwid="512">
+	<li class="row-select"><a class="subtle" href="http://www.kikatek.com/C612/Business-Computers-POS">Business Computers &amp; POS</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C514/Buy-Cheap-Calculators">Calculators</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C571/Marketing-Displays">Marketing Displays</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C516/Buy-Cheap-Office-Accessories">Office Accessories</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C513/Buy-Cheap-Office-Paper-Media">Office Paper / Media</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C608/Power-Protection-and-UPS">Power Protection and UPS</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C607/Printers-Scanners">Printers &amp; Scanners</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C515/Buy-Cheap-Shredders">Shredder</a></li>
+</ul><ul class="plain-list col" data-strcvwid="565">
+	<li class="row-select"><a class="subtle" href="http://www.kikatek.com/C598/Bluetooth-Headsets">Bluetooth Headsets</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C566/Car-Motorbike-Care">Car &amp; Motorbike Care</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C599/Car-Hands-Free-Kits">Car Hands Free Kits</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C604/GPS-Navigation">GPS &amp; Navigation</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C685/Tablet-Smartphone-Mounts">Tablet &amp; Smartphone Mounts</a></li>
+</ul><ul class="plain-list col" data-strcvwid="428">
+	<li class="row-select"><a class="subtle" href="http://www.kikatek.com/C496/Nintendo">Nintendo</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C578/PC-Mac">PC &amp; Mac</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C429/Playstation">Playstation</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/C626/XBox">XBox</a></li>
 </ul>
 	<div style="clear: both;"></div>
 </div>
 <div style="clear: both;"></div><hr>
 <ul class="plain-list">
     <li><h4>Promotions</h4></li>
-    <li class="row-select"><a class="subtle" href="http://www.kikatek.com/promotion/-/1368093877/Toshiba---s-Reliability-Refund-Guarantee/">Toshiba’s Reliability Refund Guarantee</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/promotion/-/1339590103/Upto-80--Off-Peripherals-/">Upto 80% Off Peripherals!</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/promotion/-/1339063344/Download-Store-----Now-Open-/">Download Store — Now Open!</a></li>
-</ul>            					</div>
-            				</li>
-                			<li class="nav-item" id="KES-Search-Bar" style="width: 490px;"> 
-                				<form name="find" action="advanced_search_result.php" method="get">
-                    				<span class="icon"></span>
-                    				<span class="bar">
-                    					<input type="text" title="Search for..." id="InstantSearch" name="keywords" value="InstantSearch" onblur="if(!this.value) this.value='InstantSearch';" onclick="if(this.value == 'InstantSearch') this.value='';">
-                    				</span>
-                				</form>
-            				</li>
-                			<li class="nav-item has-options" id="KES-Account-Bar" style="width: 148px;">
-            					<span class="icon"></span>
-                				<span>Sign in<br><strong style="font-size: 14px;">Your Account</strong></span>                				<div class="dropdown-options" style="min-width: 350px;">
-            						<ul class="plain-list">
-            						    <li class="row-select"><a class="subtle" href="https://secure.kikatek.com/account.php">Your Account</a></li>
-<li class="row-select"><a class="subtle" href="https://secure.kikatek.com/account_history.php">Order History</a></li>
-<li class="row-select"><a class="subtle" href="https://secure.kikatek.com//DownloadStorePurchases">Download Store Purchases</a></li>
+    <li class="row-select"><a class="subtle" href="http://www.kikatek.com/promotion/-/1342693484/Lenovo-Cashback-Promotion-/">Lenovo Cashback Promotion </a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/promotion/-/1321418266/Webroot-Specials-Upto-80--Off-/">Webroot Specials Upto 80% Off!</a></li><li class="row-select"><a class="subtle" href="http://www.kikatek.com/promotion/-/1386149043/ZEBRA--Buy-a-qualifying-GT800-printer---Receive-4-FREE-RIBBONS/">ZEBRA: Buy a qualifying GT800 printer &amp; Receive 4 FREE RIBBONS</a></li>
+</ul>        					</div>
+        				</li>
+            			<li class="nav-item" id="KES-Search-Bar" style="width: 534px;"> 
+            				<form name="find" action="advanced_search_result.php" method="get">
+                				<span class="icon"></span>
+                				<span class="bar">
+                					<input type="text" title="Search for..." id="InstantSearch" name="keywords" value="InstantSearch" onblur="if(!this.value) this.value='InstantSearch';" onclick="if(this.value == 'InstantSearch') this.value='';">
+                				</span>
+            				</form>
+        				</li>
+            			<li class="nav-item has-options" id="KES-Account-Bar" style="width: 148px;">
+        					<span class="icon"></span>
+            				<span>Sign in<br><strong style="font-size: 14px;">Your Account</strong></span>            				<div class="dropdown-options" style="min-width: 350px;">
+        						<ul class="plain-list">
+        						    <li class="row-select"><a class="subtle" href="https://www.kikatek.com/account.php">Your Account</a></li>
+<li class="row-select"><a class="subtle" href="https://www.kikatek.com/account_history.php">Order History</a></li>
+<li class="row-select"><a class="subtle" href="https://www.kikatek.com//DownloadStorePurchases">Download Store Purchases</a></li>
 <li class="row-select"><a class="subtle" href="http://www.kikatek.com/RMA/MainMenu/">RMA and Returns</a></li></ul>
 <hr>
 <ul class="plain-list">
-<li><a class="subtle" href="https://secure.kikatek.com/login.php"><button>Sign in</button></a></li>        						    </ul>
-            					</div>
-            				</li>
-            				<li id="KES-Basket-Bar" class="nav-item has-options" style="width: 148px; height: 100%;">
-            					<span class="icon"></span>
-            					<span><strong style="font-size: 14px;">Basket</strong></span>
-        						<div class="dropdown-options" style="right: 0; left: auto; min-width: 350px;">
-            						<ul class="plain-list" id="Basket-Items-list">
+<li><div class="fb-login-button"><img src="/CoreAssets/Public/-/v5.2a28/Multimedia/Images/fb_login_button.png"></div></li>
+<li><a class="subtle" href="https://www.kikatek.com/login.php"><button>Sign in</button></a></li>    						    </ul>
+        					</div>
+        				</li>
+        				<li id="KES-Basket-Bar" class="nav-item has-options" style="width: 148px; height: 100%;">
+        					<span class="icon"></span>
+        					<span><strong style="font-size: 14px;">Basket</strong></span>
+    						<div class="dropdown-options" style="right: 0; left: auto; min-width: 350px;">
+        						<ul class="plain-list" id="Basket-Items-list">
     <li>I'll carry your shopping while you browse! ;-)</li>
 </ul>
 <hr>
 <ul class="plain-list">
-	<li><a href="https://secure.kikatek.com/shopping_cart.php"><button>View Basket and Checkout</button></a></li>
-</ul>            					</div>
-        					</li>
-                			<li class="nav-item last"></li>
-                		</ul>
-                	</nav>
-                	
-                	
-                	
-            	</header>
+	<li><a href="https://www.kikatek.com/shopping_cart.php"><button>View Basket and Checkout</button></a></li>
+</ul>        					</div>
+    					</li>
+            			<li class="nav-item last"></li>
+            		</ul>
+            	</nav>
             	
-        	</div>
+            	
+            	
+        	</header>
+        	
+    	</div>
     	
+    	
+    	
+    	<div class="kes" style="z-index: 1;">
     	
     	        	
     	
@@ -248,7 +317,7 @@
 							<tbody><tr>
 								<td class="no-align"><table border="0" width="100%" cellspacing="0" cellpadding="0">
 									<tbody><tr>
-										<td class="kikaSmTextDarkBlue" align="center"><b><a onclick="garol(this, 'Banners', 'lhs_cat_promo', 'Download Store Now'); return false;" href="http://www.kikatek.com/redirect.php?action=banner&amp;goto=145"><img title="Download Store Now" border="0" src="/MMRes/ResourcesMultimediaBanners/-/145/banner.png"></a></b></td>
+										<td class="kikaSmTextDarkBlue" align="center"><b><a onclick="garol(this, 'Banners', 'lhs_cat_promo', 'Download Store Now'); return false;" href="https://www.kikatek.com/redirect.php?action=banner&amp;goto=145"><img title="Download Store Now" border="0" src="/MMRes/ResourcesMultimediaBanners/-/145/banner.png"></a></b></td>
 									</tr>
 								</tbody></table></td>
 							</tr>
@@ -257,7 +326,28 @@
 					</tbody></table>            </td>
           </tr>
 <tr><td class="no-align"><img src="/images/pixel_trans.gif" border="0" width="100%" height="10" align="absmiddle"></td></tr><!-- products_info_banner_eof //-->
-<tr><td class="no-align"><img src="/images/pixel_trans.gif" border="0" width="100%" height="10" align="absmiddle"></td></tr><!-- best_sellers //-->
+<tr><td class="no-align"><img src="/images/pixel_trans.gif" border="0" width="100%" height="10" align="absmiddle"></td></tr>	<tr>
+		<td class="no-align">
+			<table width="137" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+    				<td class="deco no-align" bgcolor="#5984B0" colspan="2"><img src="/images/pixel_trans.gif" border="0" width="100%" height="6" align="absmiddle"></td>
+    			</tr>
+				<tr class="kes">
+					<td colspan="2" class="sw no-align"><h4>Viewed Products</h4></td>
+				</tr>
+			</tbody></table>
+			<table width="137" border="0" cellspacing="0" cellpadding="0" class="kes">
+				<tbody><tr>
+					<td class="no-align">
+<table border="0" width="100%" cellspacing="0" cellpadding="5"><tbody><tr class="rowHiLiteOff"><td class="no-align"><strong>1</strong></td><td class="kikaSmText no-align"><a href="http://www.kikatek.com/P335861/UE75F6300AKXXU-Samsung-Series-6-F6300-75-inch" class="subtle" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/30/K335861_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>Samsung Series 6 F6300 (75 inch) Smart F...</b><br><br><span class=kikaLargeText><b>£2,716.15</b></span> inc VAT<br><br>The Samsung F6300 Series 6 LED TV makes it easy to discover a wide range of new entertainment. Thanks to S Recommendation, you can enjoy tailored reco</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)">Samsung Series 6 F6300 (75 inc...</a></td></tr></tbody></table>					</td>
+				</tr>
+				<tr>
+					<td class="kikaSmText" align="right" height="25"><a href="http://www.kikatek.com/privacy.php?action=viewed_remove"><img src="images/kikatek%20site/icon_delete.gif" border="0" alt="Reset Your Recent History" title="Reset Your Recent History"></a>&nbsp;&nbsp;</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+<tr><td class="no-align"><img src="/images/pixel_trans.gif" border="0" width="100%" height="20" align="absmiddle"></td></tr><!-- best_sellers //-->
           <tr>
             <td class="no-align">
 <table width="137" border="0" cellspacing="0" cellpadding="0">
@@ -275,61 +365,61 @@
 			<tr>
 				<td class="kikaSmText no-align"><table><tbody><tr class="rowHiLiteOff" height="60">
 	<td class="kikaSmText" valign="middle" align="center" width="45">
-		<a href="http://www.kikatek.com/P285852/TL-WA850RE-TP-LINK-TL-WA850RE-300Mbps-Universal"><img src="/MMRes/ResourcesMultimediaProducts/-/441/K285852_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/441/K285852_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>TP-LINK TL-WA850RE 300Mbps Universal Wir...</b><br><br><span class=kikaLargeTextOrange><b>£27.53 inc VAT (SPECIAL!)</b></span><br><br>TP-LINKs TL-WA850RE is designed to conveniently extend the coverage and improve the signal strength of an existing wireless network to eliminate dea</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
+		<a href="http://www.kikatek.com/P164204/SDX145HBGMBOX-AMD-Sempron-145-2-8GHz-Processor"><img src="/MMRes/ResourcesMultimediaProducts/-/amd/aK164204_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/amd/aK164204_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>AMD Sempron (145) 2.8GHz Processor L2 Ca...</b><br><br><span class=kikaLargeText><b>£27.55</b></span> inc VAT<br><br>The AMD Sempron processor performs at the top of its class when running the home and business applications most. The AMD Sempron processors full-feat</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
 	</td>
 	<td class="kikaSmText no-align">
 		<div style="overflow: hidden; width: 80px;">
-			<a href="http://www.kikatek.com/P285852/TL-WA850RE-TP-LINK-TL-WA850RE-300Mbps-Universal" class="kikaStdLink" style="text-decoration: none;">TP-LINK TL-WA850RE 300Mbps Universal...</a>
+			<a href="http://www.kikatek.com/P164204/SDX145HBGMBOX-AMD-Sempron-145-2-8GHz-Processor" class="kikaStdLink" style="text-decoration: none;">AMD Sempron (145) 2.8GHz Processor L...</a>
 		</div>
 	</td>
 </tr><tr class="rowHiLiteOff" height="60">
 	<td class="kikaSmText" valign="middle" align="center" width="45">
-		<a href="http://www.kikatek.com/P271281/5VR-00005-Upgrade-Microsoft-Windows-8-to"><img src="/MMRes/ResourcesMultimediaProducts/-/2/K271281_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/2/K271281_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>Upgrade: Microsoft Windows 8 to Windows ...</b><br><br><span class=kikaLargeTextOrange><b>£67.84 inc VAT (SPECIAL!)</b></span><br><br>Welcome to Windows 8. Windows has been reimagined to focus on your life. The beautiful, fast, and fluid design is perfect for a range of hardware: fro</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
+		<a href="http://www.kikatek.com/P11069/60112-Kensington-SmartFit-Easy-Riser-Laptop"><img src="/MMRes/ResourcesMultimediaProducts/-/kensington/or2350000035146_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/kensington/or2350000035146_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>Kensington SmartFit Easy Riser Laptop Co...</b><br><br><span class=kikaLargeTextOrange><b>£12.13 inc VAT (SPECIAL!)</b></span><br><br>The Easy Riser lifts your laptop to promote airflow, reducing strain on the laptop battery and circuitry. It also raises the screen to increase your c</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
 	</td>
 	<td class="kikaSmText no-align">
 		<div style="overflow: hidden; width: 80px;">
-			<a href="http://www.kikatek.com/P271281/5VR-00005-Upgrade-Microsoft-Windows-8-to" class="kikaStdLink" style="text-decoration: none;">Upgrade: Microsoft Windows 8 to Wind...</a>
+			<a href="http://www.kikatek.com/P11069/60112-Kensington-SmartFit-Easy-Riser-Laptop" class="kikaStdLink" style="text-decoration: none;">Kensington SmartFit Easy Riser Lapto...</a>
 		</div>
 	</td>
 </tr><tr class="rowHiLiteOff" height="60">
 	<td class="kikaSmText" valign="middle" align="center" width="45">
-		<a href="http://www.kikatek.com/P8859/DUB-H7-B-D-Link-DUB-H7-USB-2-7-port-Hub"><img src="/MMRes/ResourcesMultimediaProducts/-/53/I5841923_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/53/I5841923_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>D-Link DUB-H7 USB 2.0 7-port Hub</b><br><br><span class=kikaLargeTextOrange><b>£23.12 inc VAT (SPECIAL!)</b></span><br><br>Connect up to seven USB devices to your computer with the D-Link 7-Port USB 2.0 Hub (DUB-H7). With two USB fast charging ports, this hub supports batt</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
+		<a href="http://www.kikatek.com/P184075/52A-00005-Microsoft-Xbox-360-Wired-Controller"><img src="/MMRes/ResourcesMultimediaProducts/-/microsoft/or10600000191457_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/microsoft/or10600000191457_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>Microsoft Xbox 360 Wired Controller for ...</b><br><br><span class=kikaLargeTextOrange><b>£23.24 inc VAT (SPECIAL!)</b></span><br><br>The Xbox 360 Controller for Windows delivers a consistent and universal gaming experience across both of Microsoft’s gaming systems. Experience the</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
 	</td>
 	<td class="kikaSmText no-align">
 		<div style="overflow: hidden; width: 80px;">
-			<a href="http://www.kikatek.com/P8859/DUB-H7-B-D-Link-DUB-H7-USB-2-7-port-Hub" class="kikaStdLink" style="text-decoration: none;">D-Link DUB-H7 USB 2.0 7-port Hub...</a>
+			<a href="http://www.kikatek.com/P184075/52A-00005-Microsoft-Xbox-360-Wired-Controller" class="kikaStdLink" style="text-decoration: none;">Microsoft Xbox 360 Wired Controller ...</a>
 		</div>
 	</td>
 </tr><tr class="rowHiLiteOff" height="60">
 	<td class="kikaSmText" valign="middle" align="center" width="45">
-		<a href="http://www.kikatek.com/P306116/KX-TG6822EM-Panasonic-KX-TG6822-DECT-Cordless"><img src="/MMRes/ResourcesMultimediaProducts/-/276/K306116_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/276/K306116_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>Panasonic KX-TG6822 DECT Cordless Teleph...</b><br><br><span class=kikaLargeText><b>£55.00</b></span> inc VAT<br><br>The KX-TG6822, flagship model, feature a host of smart functions including Noise Reduction, a Smart Function Key, Shared Phonebook and an optional Key</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
+		<a href="http://www.kikatek.com/P341578/888015991-LENOVO-888015991-BLADE-CASE-Lenovo"><img src="/MMRes/ResourcesMultimediaProducts/-/153/K341578_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/153/K341578_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>LENOVO 888015991 BLADE CASE - Lenovo Piv...</b><br><br><span class=kikaLargeText><b>£26.98</b></span> inc VAT<br><br></TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
 	</td>
 	<td class="kikaSmText no-align">
 		<div style="overflow: hidden; width: 80px;">
-			<a href="http://www.kikatek.com/P306116/KX-TG6822EM-Panasonic-KX-TG6822-DECT-Cordless" class="kikaStdLink" style="text-decoration: none;">Panasonic KX-TG6822 DECT Cordless Te...</a>
+			<a href="http://www.kikatek.com/P341578/888015991-LENOVO-888015991-BLADE-CASE-Lenovo" class="kikaStdLink" style="text-decoration: none;">LENOVO 888015991 BLADE CASE - Lenovo...</a>
 		</div>
 	</td>
 </tr><tr class="rowHiLiteOff" height="60">
 	<td class="kikaSmText" valign="middle" align="center" width="45">
-		<a href="http://www.kikatek.com/P168845/TL-WN722NC-TP-LINK-TL-WN722NC-150Mbps-High-Gain"><img src="/MMRes/ResourcesMultimediaProducts/-/tp-link/or101200000165592_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/tp-link/or101200000165592_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>TP-LINK TL-WN722NC 150Mbps High Gain Wir...</b><br><br><span class=kikaLargeText><b>£13.46</b></span> inc VAT<br><br>The TP-LINK TL-WN722N Wireless High Gain USB Adaptor allows you to connect a desktop or notebook computer to a wireless network and access high-speed</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
+		<a href="http://www.kikatek.com/P112325/F8Z452EA-Belkin-Headphone-Adaptor-with-Remote"><img src="/MMRes/ResourcesMultimediaProducts/-/belkin/aK112325_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/belkin/aK112325_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>Belkin Headphone Adaptor with Remote for...</b><br><br><span class=kikaLargeTextOrange><b>£13.06 inc VAT (SPECIAL!)</b></span><br><br>The Headphone adaptor is the fastest and easiest way to add the remote and navigation controls your iPod requires.</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
 	</td>
 	<td class="kikaSmText no-align">
 		<div style="overflow: hidden; width: 80px;">
-			<a href="http://www.kikatek.com/P168845/TL-WN722NC-TP-LINK-TL-WN722NC-150Mbps-High-Gain" class="kikaStdLink" style="text-decoration: none;">TP-LINK TL-WN722NC 150Mbps High Gain...</a>
+			<a href="http://www.kikatek.com/P112325/F8Z452EA-Belkin-Headphone-Adaptor-with-Remote" class="kikaStdLink" style="text-decoration: none;">Belkin Headphone Adaptor with Remote...</a>
 		</div>
 	</td>
 </tr><tr class="rowHiLiteOff" height="60">
 	<td class="kikaSmText" valign="middle" align="center" width="45">
-		<a href="http://www.kikatek.com/P26882/TZ231-Brother-P-touch-TZ-231-12mm-x-8m-Black-on"><img src="/MMRes/ResourcesMultimediaProducts/-/brother/or1790000016271_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/brother/or1790000016271_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>Brother P-touch TZ-231 (12mm x 8m) Black...</b><br><br><span class=kikaLargeTextOrange><b>£12.42 inc VAT (SPECIAL!)</b></span><br><br>A laminate film on the tape protects text &amp; colours from all kinds of agents such as chemicals, abrasives etc.,commonly found in industrial environmen</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
+		<a href="http://www.kikatek.com/P365053/TL-PA251-V3-TP-LINK-TL-PA251-V3-200Mbps-Powerline"><img src="/MMRes/ResourcesMultimediaProducts/-/441/K365053_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/441/K365053_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>TP LINK TL-PA251(V3) 200Mbps+ Powerline ...</b><br><br><span class=kikaLargeText><b>£21.02</b></span> inc VAT<br><br></TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
 	</td>
 	<td class="kikaSmText no-align">
 		<div style="overflow: hidden; width: 80px;">
-			<a href="http://www.kikatek.com/P26882/TZ231-Brother-P-touch-TZ-231-12mm-x-8m-Black-on" class="kikaStdLink" style="text-decoration: none;">Brother P-touch TZ-231 (12mm x 8m) B...</a>
+			<a href="http://www.kikatek.com/P365053/TL-PA251-V3-TP-LINK-TL-PA251-V3-200Mbps-Powerline" class="kikaStdLink" style="text-decoration: none;">TP LINK TL-PA251(V3) 200Mbps+ Powerl...</a>
 		</div>
 	</td>
 </tr><tr class="rowHiLiteOff" height="60">
 	<td class="kikaSmText" valign="middle" align="center" width="45">
-		<a href="http://www.kikatek.com/P168691/TANZ0107V3-Techair-Z-Series-Z0107V3-Classic"><img src="/MMRes/ResourcesMultimediaProducts/-/457/K168691_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/457/K168691_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>Techair Z Series Z0107V3 Classic Clam Br...</b><br><br><span class=kikaLargeText><b>£17.38</b></span> inc VAT<br><br>An entry level classic clam briefcase for 17 inch laptops. Combining the attributes of a classic case with a modern simple design, this black polyest</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
+		<a href="http://www.kikatek.com/P168691/TANZ0107V3-Techair-Z-Series-Z0107V3-Classic"><img src="/MMRes/ResourcesMultimediaProducts/-/457/K168691_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/457/K168691_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>Techair Z Series Z0107V3 Classic Clam Br...</b><br><br><span class=kikaLargeTextOrange><b>£15.18 inc VAT (SPECIAL!)</b></span><br><br>An entry level classic clam briefcase for 17 inch laptops. Combining the attributes of a classic case with a modern simple design, this black polyest</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
 	</td>
 	<td class="kikaSmText no-align">
 		<div style="overflow: hidden; width: 80px;">
@@ -338,29 +428,29 @@
 	</td>
 </tr><tr class="rowHiLiteOff" height="60">
 	<td class="kikaSmText" valign="middle" align="center" width="45">
-		<a href="http://www.kikatek.com/P14910/TZ221-Brother-P-touch-TZ-221-9mm-x-8m-Black-on"><img src="/MMRes/ResourcesMultimediaProducts/-/172/I5830638_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/172/I5830638_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>Brother P-touch TZ-221 (9mm x 8m) Black ...</b><br><br><span class=kikaLargeTextOrange><b>£12.54 inc VAT (SPECIAL!)</b></span><br><br>Brother TZ labels have patented lamination technology ensuring your label gives you long lasting protection. TZ tapes are resistant to abrasion and we</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
+		<a href="http://www.kikatek.com/P336733/TL-WPA281-UK-TP-LINK-AV200-TL-WPA281-300Mbps"><img src="/MMRes/ResourcesMultimediaProducts/-/441/K336733_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/441/K336733_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>TP-LINK AV200 TL-WPA281 300Mbps Wireless...</b><br><br><span class=kikaLargeText><b>£35.40</b></span> inc VAT<br><br>TP-LINK Wireless N Powerline Extender TL-WPA281 extends the Internet connection to every room of the house through power lines. All devices in the roo</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
 	</td>
 	<td class="kikaSmText no-align">
 		<div style="overflow: hidden; width: 80px;">
-			<a href="http://www.kikatek.com/P14910/TZ221-Brother-P-touch-TZ-221-9mm-x-8m-Black-on" class="kikaStdLink" style="text-decoration: none;">Brother P-touch TZ-221 (9mm x 8m) Bl...</a>
+			<a href="http://www.kikatek.com/P336733/TL-WPA281-UK-TP-LINK-AV200-TL-WPA281-300Mbps" class="kikaStdLink" style="text-decoration: none;">TP-LINK AV200 TL-WPA281 300Mbps Wire...</a>
 		</div>
 	</td>
 </tr><tr class="rowHiLiteOff" height="60">
 	<td class="kikaSmText" valign="middle" align="center" width="45">
-		<a href="http://www.kikatek.com/P209496/TL-WA830RE-TP-LINK-TL-WA830RE-300Mbps-Wireless-N"><img src="/MMRes/ResourcesMultimediaProducts/-/441/K209496_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/441/K209496_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>TP-LINK TL-WA830RE 300Mbps Wireless N Ra...</b><br><br><span class=kikaLargeTextOrange><b>£34.57 inc VAT (SPECIAL!)</b></span><br><br>TP-LINKs TL-WA830RE 300Mbps Wireless N Range Extender is designed to extend the coverage and improve the signal strength of an existing wireless netw</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
+		<a href="http://www.kikatek.com/P250828/S26361-K1376-V160-Fujitsu-Display-E19-6-LED-19"><img src="/MMRes/ResourcesMultimediaProducts/-/23/K250828_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/23/K250828_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>Fujitsu Display E19-6 LED 19 inch Displa...</b><br><br><span class=kikaLargeText><b>£108.07</b></span> inc VAT<br><br>The E19-6 LED combines comfortable ergonomics with best-in-class energy saving technology like ECO operation mode. Environment-friendly LED technolog</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
 	</td>
 	<td class="kikaSmText no-align">
 		<div style="overflow: hidden; width: 80px;">
-			<a href="http://www.kikatek.com/P209496/TL-WA830RE-TP-LINK-TL-WA830RE-300Mbps-Wireless-N" class="kikaStdLink" style="text-decoration: none;">TP-LINK TL-WA830RE 300Mbps Wireless ...</a>
+			<a href="http://www.kikatek.com/P250828/S26361-K1376-V160-Fujitsu-Display-E19-6-LED-19" class="kikaStdLink" style="text-decoration: none;">Fujitsu Display E19-6 LED 19 inch Di...</a>
 		</div>
 	</td>
 </tr><tr class="rowHiLiteOff" height="60">
 	<td class="kikaSmText" valign="middle" align="center" width="45">
-		<a href="http://www.kikatek.com/P166859/XAVNB2001-100UKS-Netgear-Wall-Plugged"><img src="/MMRes/ResourcesMultimediaProducts/-/54/K166859_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/54/K166859_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>Netgear Wall Plugged Wireless-N Powerlin...</b><br><br><span class=kikaLargeTextOrange><b>£68.11 inc VAT (SPECIAL!)</b></span><br><br>The NETGEAR Powerline AV 200 Wireless-N Extender Kit creates a wireless hotspot in an area of your home where you cant get wireless coverage using yo</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
+		<a href="http://www.kikatek.com/P285856/T26PN-Yealink-SIP-T26PN-Professional-IP-Phone"><img src="/MMRes/ResourcesMultimediaProducts/-/418/K285856_xs.jpg" border="0" alt="" language="javascript" onmouseout="hideddrivetip()" onmouseover="ddrivetip('<TABLE><TR><TD><img src=&quot;/MMRes/ResourcesMultimediaProducts/-/418/K285856_r.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; bgcolor=&quot;ffffff&quot; /></TD><TD height=100%><TABLE height=100%><TR><TD class=kikaStdText valign=top style=\'line-height: 1.5;\'><b>Yealink SIP-T26PN Professional IP Phone ...</b><br><br><span class=kikaLargeText><b>£88.20</b></span> inc VAT<br><br>T26PN is a professional IP phone with contemporary design accompanies advanced HD voice quality and the leading Texas Instruments TI Titan chipset,</TD></TR></TABLE></TD></TR></TABLE>', '#FFF', 450)"></a>
 	</td>
 	<td class="kikaSmText no-align">
 		<div style="overflow: hidden; width: 80px;">
-			<a href="http://www.kikatek.com/P166859/XAVNB2001-100UKS-Netgear-Wall-Plugged" class="kikaStdLink" style="text-decoration: none;">Netgear Wall Plugged Wireless-N Powe...</a>
+			<a href="http://www.kikatek.com/P285856/T26PN-Yealink-SIP-T26PN-Professional-IP-Phone" class="kikaStdLink" style="text-decoration: none;">Yealink SIP-T26PN Professional IP Ph...</a>
 		</div>
 	</td>
 </tr></tbody></table></td>
@@ -418,7 +508,7 @@ Certain sensitive data such as credit card details are <b>never</b> stored in ou
 <br>
 <h3>Maintaining the information we hold for you</h3>
 <br>
-You have full control over the information we hold about you. These information can be accessed and amended through the <a href="https://secure.kikatek.com/account.php">My Account</a> section at anytime. From there, you can also amend certain opt-in features such as subscription to the Kikatek newsletter.<br>
+You have full control over the information we hold about you. These information can be accessed and amended through the <a href="https://www.kikatek.com/account.php">My Account</a> section at anytime. From there, you can also amend certain opt-in features such as subscription to the Kikatek newsletter.<br>
 <br>
 You can request details of all the information Kikatek currently holds about you in its database(excluding anonymously collected data) again, via our e-Ticket Support System. Please be advise that the charge for this service is GBP10.00 for each request. Once your request is received, our representative will advise you on the required procedures.<br>
 <br>
@@ -435,7 +525,7 @@ As an additional security measure, no record of sensitive data, such as credit c
 <h3>What you can do to reinforce security of your information</h3>
 <ul>
 <li>Use a strong password - <i>Do not use password that can be easily deduced by others, such as names, telephone numbers, birthdays etc.</i></li>
-<li>Never disclose your password - <i>It is important that you do not disclose your password to any third party.  If you are concerned that somebody else knows your password, you may alter your password anytime in the <a href="https://secure.kikatek.com/account.php">My Account</a> section of the website.  Changing your password from time to time is also a good practice.</i></li>
+<li>Never disclose your password - <i>It is important that you do not disclose your password to any third party.  If you are concerned that somebody else knows your password, you may alter your password anytime in the <a href="https://www.kikatek.com/account.php">My Account</a> section of the website.  Changing your password from time to time is also a good practice.</i></li>
 <li>Download and install the latest versions of recommended internet browsers — Firefox, Google Chrome, Safari, Opera and Internet Explorer</li><br>
 </ul>
 <h3>Cookies</h3>
@@ -471,9 +561,17 @@ This website includes links to external sites, such as news sources, manufactuer
 							<tbody><tr>
 								<td class="no-align"><table border="0" width="100%" cellspacing="0" cellpadding="0">
 									<tbody><tr>
-										<td class="kikaSmTextDarkBlue" align="center"><b><div style="width: 137px; height: 50px; background-image: url(/MMRes/Promotions/-/Custom/Kikatek/SocialMarketing/social_fbtwit_button.png)">
-   <a href="http://www.twitter.com/kikatek" target="_blank"><span style="display: block; height: 25px;"></span></a>
-   <a href="http://www.facebook.com/kikatek" target="_blank"><span style="display: block; height: 25px;"> </span></a>
+										<td class="kikaSmTextDarkBlue" align="center"><b><div id="__KES-Social">
+   <style>
+   <!--
+#__KES-Social { width: 137px; height: 75px; background-image: url(http://www.kikatek.com/MMRes/Promotions/-/Custom/Kikatek/SocialMarketing/social_fbtwit_button.png); }
+#__KES-Social span { display: block; height: 25px;  background-color: #fff; opacity: 0.3;}
+#__KES-Social span:hover { opacity: 0; border-radius: 5px; }
+   -->
+   </style>
+   <a href="http://www.twitter.com/kikatek" target="_blank"><span></span></a>
+   <a href="http://www.facebook.com/kikatek" target="_blank"><span> </span></a>
+   <a href="http://www.google.com/+kikatek" target="_blank"><span> </span></a>
 </div></b></td>
 									</tr>
 								</tbody></table></td>
@@ -484,12 +582,62 @@ This website includes links to external sites, such as news sources, manufactuer
           </tr>
 <tr><td class="no-align"><img src="/images/pixel_trans.gif" border="0" width="100%" height="10" align="absmiddle"></td></tr><!-- products_info_banner_eof //-->
 <!-- products_info_banner //-->
-<!-- products_info_banner_eof //-->
+          <tr>
+            <td class="no-align">
+		<table border="0" width="137" cellspacing="0" cellpadding="0">
+					  <tbody><tr>
+					  	<td class="no-align"><table border="0" width="100%" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td class="no-align"><table border="0" width="100%" cellspacing="0" cellpadding="0">
+									<tbody><tr>
+										<td class="kikaSmTextDarkBlue" align="center"><b><style>
+#NewWebsitePromo_Box
+{
+position: relative;
+border: 1px solid #D5D5D5;
+border-radius: 5px 5px 5px 5px; -moz-border-radius: 5px 5px 5px 5px; -o-border-radius: 5px 5px 5px 5px; -webkit-border-radius: 5px 5px 5px 5px;
+background-image: url(images/kikatek%20site/bg_xmas10.jpg);
+background-position: right bottom;
+background-repeat: no-repeat;
+width: 137px; height: 100px;
+cursor: pointer;
+}
+
+#NewWebsitePromo_Box:hover
+{
+-moz-transition: all 0.3s ease-in-out 0s; -o-transition: all 0.3s ease-in-out 0s; -webkit-transition: all 0.3s ease-in-out 0s; transition: all 0.3s ease-in-out 0s;
+border-color: #5984B0;
+box-shadow: 0px 0px 5px rgb(204, 204, 204); -moz-box-shadow: 0px 0px 5px rgb(204, 204, 204); -o-box-shadow: 0px 0px 5px rgb(204, 204, 204); -webkit-box-shadow: 0px 0px 5px rgb(204, 204, 204);
+}
+
+#NewWebsitePromo_Box > div
+{
+margin: 60px 5px 5px 0;
+position: absolute;
+bottom: 0; left: 0;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 22px;
+font-weight: 100;
+text-align: right;
+}
+</style>
+
+<div id="NewWebsitePromo_Box" class="kes" onclick="garol(this, 'Banners', 'main_cente', 'New Website Launch Promo'); return false;" data-gaurl="/promotion/Other Promotions/1353342204/Christmas-Delivery-Information">
+<div class="status-negative">Christmas &amp; New Year Delivery Information</div>
+</div></b></td>
+									</tr>
+								</tbody></table></td>
+							</tr>
+						</tbody></table>
+					  </td></tr>
+					</tbody></table>            </td>
+          </tr>
+<tr><td class="no-align"><img src="/images/pixel_trans.gif" border="0" width="100%" height="10" align="absmiddle"></td></tr><!-- products_info_banner_eof //-->
 <tr><td class="no-align"><img src="/images/pixel_trans.gif" border="0" width="100%" height="10" align="absmiddle"></td></tr><tr>
 	<td class="deco no-align" bgcolor="#5984B0" colspan="2"><img src="/images/pixel_trans.gif" border="0" width="100%" height="6" align="absmiddle"></td>
 </tr>
 <tr class="kes">
-	<td class="deco no-align" colspan="2"><h4>Special Stores</h4></td>
+	<td class="deco no-align" colspan="2"><h4>Special Deals</h4></td>
 </tr><tr><td class="no-align"><img src="/images/pixel_trans.gif" border="0" width="100%" height="10" align="absmiddle"></td></tr><!-- products_info_banner //-->
           <tr>
             <td class="no-align">
@@ -499,7 +647,64 @@ This website includes links to external sites, such as news sources, manufactuer
 							<tbody><tr>
 								<td class="no-align"><table border="0" width="100%" cellspacing="0" cellpadding="0">
 									<tbody><tr>
-										<td class="kikaSmTextDarkBlue" align="center"><b><a onclick="garol(this, 'Banners', 'spc_items', 'Free Shipping'); return false;" href="http://www.kikatek.com/redirect.php?action=banner&amp;goto=160"><img title="Free Shipping" border="0" src="/MMRes/ResourcesMultimediaBanners/-/160/banner.jpg"></a></b></td>
+										<td class="kikaSmTextDarkBlue" align="center"><b><a onclick="garol(this, 'Banners', 'spc_items', 'nVidia GTX 650 £50 In Game Credit Offer Side Banner'); return false;" href="https://www.kikatek.com/redirect.php?action=banner&amp;goto=173"><img title="nVidia GTX 650 £50 In Game Credit Offer Side Banner" border="0" src="/MMRes/ResourcesMultimediaBanners/-/173/banner.jpg"></a></b></td>
+									</tr>
+								</tbody></table></td>
+							</tr>
+						</tbody></table>
+					  </td></tr>
+					</tbody></table>            </td>
+          </tr>
+<tr><td class="no-align"><img src="/images/pixel_trans.gif" border="0" width="100%" height="10" align="absmiddle"></td></tr><!-- products_info_banner_eof //-->
+<!-- products_info_banner //-->
+          <tr>
+            <td class="no-align">
+		<table border="0" width="137" cellspacing="0" cellpadding="0">
+					  <tbody><tr>
+					  	<td class="no-align"><table border="0" width="100%" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td class="no-align"><table border="0" width="100%" cellspacing="0" cellpadding="0">
+									<tbody><tr>
+										<td class="kikaSmTextDarkBlue" align="center"><b><style>
+.__kes_legacyui-banners-monthly-giveaway
+{
+position: relative;
+border: 1px solid #ddd;
+border-radius: 2px;
+height: 130px;
+width: 130px;
+background: url("//www.kikatek.com/MMRes/Promotions/-/Custom/Kikatek/MonthlyGiveaway/2013.12.02_december_giveaway_v.png") no-repeat scroll center center transparent;
+background-size: cover; -moz-background-size: cover; -o-background-size: cover; -webkit-background-size: cover;
+overflow: hidden;
+}
+
+.__kes_legacyui-banners-monthly-giveaway > span
+{
+background: url("//www.kikatek.com/MMRes/Promotions/-/Custom/Kikatek/MonthlyGiveaway/facebook_banner_mini.png") no-repeat scroll center center / contain  #F8F8F8;
+bottom: 0;
+display: block;
+opacity: 0.9;
+height: 50px;
+position: absolute;
+width: 130px;
+box-shadow: 0 0 6px 0 #888; -moz-box-shadow: 0 0 6px 0 #888; -o-box-shadow: 0 0 6px 0 #888; -webkit-box-shadow: 0 0 6px 0 #888;
+}
+
+.__kes_legacyui-banners-monthly-giveaway:hover > span
+{
+		-moz-transition: all 0.3s ease-in-out 0s;
+		-o-transition: all 0.3s ease-in-out 0s;	
+		-webkit-transition: all 0.3s ease-in-out 0s;	
+		transition: all 0.3s ease-in-out 0s;
+opacity: 0.95;
+height: 74px;
+}
+</style>
+<a href="https://apps.facebook.com/kikatek-decprizedraw">
+<div class="__kes_legacyui-banners-monthly-giveaway">
+<span></span>
+</div>
+</a></b></td>
 									</tr>
 								</tbody></table></td>
 							</tr>
@@ -526,7 +731,7 @@ This website includes links to external sites, such as news sources, manufactuer
 							<tbody><tr>
 								<td class="no-align"><table border="0" width="100%" cellspacing="0" cellpadding="0">
 									<tbody><tr>
-										<td class="kikaSmTextDarkBlue" align="center"><b><a onclick="garol(this, 'Banners', '130_Side_1', 'Netgear Store'); return false;" href="http://www.kikatek.com/redirect.php?action=banner&amp;goto=153"><img title="Netgear Store" border="0" src="/MMRes/ResourcesMultimediaBanners/-/153/banner.jpg"></a></b></td>
+										<td class="kikaSmTextDarkBlue" align="center"><b><a onclick="garol(this, 'Banners', '130_Side_1', 'Western Digital Store'); return false;" href="https://www.kikatek.com/redirect.php?action=banner&amp;goto=149"><img title="Western Digital Store" border="0" src="/MMRes/ResourcesMultimediaBanners/-/149/banner.gif"></a></b></td>
 									</tr>
 								</tbody></table></td>
 							</tr>
@@ -544,7 +749,7 @@ This website includes links to external sites, such as news sources, manufactuer
 							<tbody><tr>
 								<td class="no-align"><table border="0" width="100%" cellspacing="0" cellpadding="0">
 									<tbody><tr>
-										<td class="kikaSmTextDarkBlue" align="center"><b><a onclick="garol(this, 'Banners', '130_Side_2', 'HP Store'); return false;" href="http://www.kikatek.com/redirect.php?action=banner&amp;goto=152"><img title="HP Store" border="0" src="/MMRes/ResourcesMultimediaBanners/-/152/banner.jpg"></a></b></td>
+										<td class="kikaSmTextDarkBlue" align="center"><b><a onclick="garol(this, 'Banners', '130_Side_2', 'TP-Link Store'); return false;" href="https://www.kikatek.com/redirect.php?action=banner&amp;goto=104"><img title="TP-Link Store" border="0" src="/MMRes/ResourcesMultimediaBanners/-/104/banner.gif"></a></b></td>
 									</tr>
 								</tbody></table></td>
 							</tr>
@@ -562,7 +767,7 @@ This website includes links to external sites, such as news sources, manufactuer
 							<tbody><tr>
 								<td class="no-align"><table border="0" width="100%" cellspacing="0" cellpadding="0">
 									<tbody><tr>
-										<td class="kikaSmTextDarkBlue" align="center"><b><a onclick="garol(this, 'Banners', '130_Side_3', 'Lenovo Store'); return false;" href="http://www.kikatek.com/redirect.php?action=banner&amp;goto=106"><img title="Lenovo Store" border="0" src="/MMRes/ResourcesMultimediaBanners/-/106/banner.jpg"></a></b></td>
+										<td class="kikaSmTextDarkBlue" align="center"><b><a onclick="garol(this, 'Banners', '130_Side_3', 'Acer Store'); return false;" href="https://www.kikatek.com/redirect.php?action=banner&amp;goto=154"><img title="Acer Store" border="0" src="/MMRes/ResourcesMultimediaBanners/-/154/banner.gif"></a></b></td>
 									</tr>
 								</tbody></table></td>
 							</tr>
@@ -571,12 +776,7 @@ This website includes links to external sites, such as news sources, manufactuer
 					</tbody></table>            </td>
           </tr>
 <tr><td class="no-align"><img src="/images/pixel_trans.gif" border="0" width="100%" height="10" align="absmiddle"></td></tr><!-- products_info_banner_eof //-->
-</tbody></table>
-		  <table width="137" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td class="no-align"><form name="manufacturers" action="http://www.kikatek.com/index.php" method="get" style="margin: 0;"><select name="manufacturers_id" onchange="this.form.submit();" size="1" style="width: 100%;" class="kikaFormElements"><option value="" selected="">Other Brands</option><option value="523">2-power</option><option value="443">3</option><option value="109">3COM</option><option value="486">3m</option><option value="571">A+K</option><option value="572">Aastra</option><option value="196">ABBYY</option><option value="574">Absolute Softwa..</option><option value="435">Ac Ryan</option><option value="342">Accuratus</option><option value="89">Acer</option><option value="107">Acronis</option><option value="140">Adaptec</option><option value="58">Adobe</option><option value="154">ADS Technology</option><option value="436">AEG</option><option value="546">AG Neovo</option><option value="474">Aiptek</option><option value="35">Akasa</option><option value="350">Allied Telesis</option><option value="325">Altec Lansing</option><option value="576">Aluratek</option><option value="139">Amacom</option><option value="24">AMD</option><option value="578">Amx</option><option value="55">Antec</option><option value="433">AOC</option><option value="11">AOpen</option><option value="133">APC</option><option value="43">Apple</option><option value="85">ARCHOS</option><option value="431">Arctic Cooling</option><option value="351">Arena</option><option value="437">ASRock</option><option value="56">ASUS</option><option value="238">ATEC</option><option value="309">ATEN</option><option value="171">ATI</option><option value="581">Atl</option><option value="262">Attachmate</option><option value="579">Audiocodes</option><option value="301">Auralog</option><option value="248">Autodesk</option><option value="200">Avanquest</option><option value="372">Avaya</option><option value="438">AVerMedia</option><option value="303">AVG</option><option value="531">Aviiq</option><option value="202">Avocent</option><option value="583">AVTECH</option><option value="164">Axis Communicat..</option><option value="400">Baracoda</option><option value="358">Bbg</option><option value="670">Be Ez</option><option value="647">Be Quiet</option><option value="121">Belkin</option><option value="44">BenQ</option><option value="203">Billion</option><option value="386">Binatone</option><option value="126">Bitdefender</option><option value="586">Bixolon</option><option value="292">Blackberry</option><option value="552">Blue Microphone..</option><option value="204">Borland</option><option value="554">Brickcom</option><option value="205">Brightpoint</option><option value="385">Brocade</option><option value="259">Brooktrout</option><option value="172">Brother</option><option value="387">BT</option><option value="125">Buffalo Technol..</option><option value="148">Bullguard</option><option value="525">Bury</option><option value="560">Busbi</option><option value="482">Business Compon..</option><option value="206">Business Object..</option><option value="319">C2G</option><option value="207">Cables Direct</option><option value="6">Canon</option><option value="653">Case-Mate</option><option value="281">Casio</option><option value="349">Ceratech</option><option value="440">CHERRY</option><option value="271">Chimei</option><option value="362">Choiix</option><option value="132">Cisco</option><option value="287">Citrix</option><option value="648">Clickfree</option><option value="91">Club 3D</option><option value="458">CognitiveTPG</option><option value="80">Computer Associ..</option><option value="188">Condusiv Techno..</option><option value="570">Contour</option><option value="33">Coolermaster</option><option value="352">Copilot</option><option value="130">Corel</option><option value="92">Corsair</option><option value="63">Creative</option><option value="520">Crucial</option><option value="62">CTX</option><option value="209">Cyclades</option><option value="53">D-Link</option><option value="282">Datalogic</option><option value="360">Datamax-O’Nei..</option><option value="254">Datawatch Consi..</option><option value="42">Datawrite</option><option value="306">Dell</option><option value="147">Dension</option><option value="122">devolo</option><option value="357">Dialogic</option><option value="472">DICOTA</option><option value="672">Digittrade</option><option value="565">Digium</option><option value="526">Doro</option><option value="266">Draper</option><option value="555">Drobo</option><option value="516">Duracell</option><option value="522">Dymo</option><option value="64">Dynamode</option><option value="646">E-lites</option><option value="304">E-Ten</option><option value="424">Eaton</option><option value="244">ECS</option><option value="365">Edge10</option><option value="318">Edimax</option><option value="178">Elgato</option><option value="649">Elo Touch Syste..</option><option value="396">Emerson</option><option value="528">Eminent</option><option value="314">Emprex</option><option value="592">Emulex</option><option value="540">Energizer</option><option value="241">Enterasys</option><option value="120">Epson</option><option value="141">Ergotron</option><option value="377">Escon</option><option value="513">EVGA</option><option value="174">Exabyte</option><option value="650">Excalibur Publi..</option><option value="111">F-Secure</option><option value="316">Falcon</option><option value="249">FileMaker</option><option value="364">First Alert</option><option value="444">Flip Video</option><option value="388">Force10</option><option value="88">Foxconn</option><option value="536">Fractal Design</option><option value="311">Freecom</option><option value="90">Fujifilm</option><option value="23">Fujitsu</option><option value="375">G-Technology</option><option value="253">Gainward</option><option value="268">Garmin</option><option value="488">Gateway</option><option value="28">Generic</option><option value="463">Genius</option><option value="380">Getnet</option><option value="14">Gigabyte</option><option value="167">GN Netcom</option><option value="136">GNR</option><option value="621">GO Lamps</option><option value="668">Google</option><option value="145">Griffin Technol..</option><option value="307">Guillemot</option><option value="169">Hanns-G</option><option value="210">Hannspree</option><option value="100">Harman</option><option value="97">Hauppauge</option><option value="124">Hawking Technol..</option><option value="669">Hercules</option><option value="123">Hightech</option><option value="662">Hipstreet</option><option value="146">Hitachi</option><option value="9">HP</option><option value="295">HTC</option><option value="521">Huawei</option><option value="310">Hypertec</option><option value="305">I-Mate</option><option value="179">IBM</option><option value="461">ICD</option><option value="392">ID Tech</option><option value="599">IDAPT</option><option value="518">iGo</option><option value="137">Iiyama</option><option value="159">imation</option><option value="212">IMSI</option><option value="41">Infiniti</option><option value="664">Infinity Wirele..</option><option value="142">Infocus</option><option value="661">Infortrend</option><option value="442">Inkrite</option><option value="25">Intel</option><option value="476">Intellinet</option><option value="312">Intenso</option><option value="327">Intermec</option><option value="393">Interquartz</option><option value="601">Interwrite Lear..</option><option value="160">Intuit</option><option value="95">iomega</option><option value="602">iosafe</option><option value="290">Iqua</option><option value="213">IRIS</option><option value="519">iStorage</option><option value="460">J2 Retail Syste..</option><option value="603">Jacarta</option><option value="604">Janam</option><option value="524">Jawbone</option><option value="606">Joy Factory</option><option value="247">Juniper</option><option value="161">JVC</option><option value="215">Kaspersky</option><option value="110">Kensington</option><option value="674">Keysonic</option><option value="49">Kikatek</option><option value="57">Kingston</option><option value="608">Kobo</option><option value="529">Kodak</option><option value="453">Konica Minolta</option><option value="184">Kyocera Mita</option><option value="168">Labtec</option><option value="153">Lenovo</option><option value="487">Lexar</option><option value="129">Lexmark</option><option value="45">LG Electronics</option><option value="609">Lifesize</option><option value="567">LILIN</option><option value="116">Linksys</option><option value="216">LINKSYS/KISS</option><option value="94">Lite-On</option><option value="384">LM Technologies</option><option value="5">Logitech</option><option value="264">Lorex</option><option value="280">Luidia</option><option value="452">Mad Catz</option><option value="232">Magellan</option><option value="611">Magenta</option><option value="398">Magtek</option><option value="530">Manhattan</option><option value="659">Masterplug</option><option value="1">Matrox</option><option value="272">Maverick</option><option value="273">Maxell</option><option value="16">Maxtor</option><option value="102">McAfee</option><option value="163">Memorex</option><option value="286">Metrologic Inst..</option><option value="299">Metroplan</option><option value="217">MGE</option><option value="630">Microsemi</option><option value="2">Microsoft</option><option value="291">Mitsubishi Elec..</option><option value="260">Motorola</option><option value="12">MSI</option><option value="294">Mustang</option><option value="135">Mustek</option><option value="187">Nanopoint</option><option value="542">Navigon</option><option value="117">Navman</option><option value="613">NCR</option><option value="61">NEC</option><option value="313">Nero</option><option value="54">Netgear</option><option value="616">Network First</option><option value="251">Newstar Compute..</option><option value="619">Nfive</option><option value="658">NightWatcher</option><option value="566">Ninestar</option><option value="265">Nintendo</option><option value="197">NOBO</option><option value="269">Nokia</option><option value="246">Nortel</option><option value="221">Nova Developmen..</option><option value="222">Nuance</option><option value="543">O2</option><option value="308">OCZ</option><option value="170">OKI</option><option value="223">OKIDATA</option><option value="425">Optoma</option><option value="321">OQO</option><option value="623">Orange Air</option><option value="176">Origin Storage</option><option value="382">Otterbox</option><option value="625">Packard Bell</option><option value="195">Palm</option><option value="276">Panasonic</option><option value="407">Parallels</option><option value="627">Patriot</option><option value="224">PC Guardian</option><option value="537">PC Tools</option><option value="629">Peerless</option><option value="225">Performance Pro..</option><option value="114">Philips</option><option value="667">Phone Fashion</option><option value="113">Pinnacle</option><option value="29">Pioneer</option><option value="180">Plantronics</option><option value="149">Plextor</option><option value="415">Plus Vision</option><option value="484">Plustek</option><option value="99">PNY Technologie..</option><option value="446">Point Of View</option><option value="394">Polycom</option><option value="226">Port Technology</option><option value="345">Power Color</option><option value="631">Powermat</option><option value="539">PowerWalker</option><option value="263">Printronix</option><option value="632">Prism</option><option value="447">ProlimaTech</option><option value="317">Promethean</option><option value="633">Protouch</option><option value="344">Psion</option><option value="285">Psion Teklogix</option><option value="183">Q-TEC</option><option value="302">Qimonda</option><option value="634">QLogic</option><option value="379">Qnap</option><option value="545">Qsan</option><option value="227">Quantum</option><option value="194">Radian Technolo..</option><option value="228">Raxco Software</option><option value="657">Ross</option><option value="119">Roxio</option><option value="173">Sage</option><option value="411">Sagem</option><option value="454">Saitek</option><option value="456">Samsonite</option><option value="30">Samsung</option><option value="468">Sandberg</option><option value="186">Sandisk</option><option value="279">Sanyo</option><option value="15">Sapphire</option><option value="17">Seagate</option><option value="656">Securix</option><option value="134">Seiko Instrumen..</option><option value="278">Sennheiser</option><option value="450">Serif</option><option value="275">Sharp</option><option value="428">Shuttle</option><option value="412">Sierra Wireless</option><option value="181">SmartDisk</option><option value="618">SMC</option><option value="426">Socket Mobile</option><option value="237">SonicWALL</option><option value="637">Sonim</option><option value="38">Sony</option><option value="193">Sophos</option><option value="231">Startech</option><option value="455">Steelseries</option><option value="478">Storage Options</option><option value="466">Swann</option><option value="162">Sweex</option><option value="152">Swissbit</option><option value="106">Symantec</option><option value="284">Symbol Technolo..</option><option value="514">Synaps</option><option value="464">Synology</option><option value="267">T-Mobile</option><option value="638">Tally Dascom</option><option value="562">Tandberg</option><option value="118">Targus</option><option value="156">TDK</option><option value="457">Tech Air</option><option value="448">Thecus</option><option value="429">Thermaltake</option><option value="673">Thomson</option><option value="192">Thrustmaster</option><option value="144">TomTom</option><option value="40">Toshiba</option><option value="441">TP-LINK</option><option value="236">Transcend</option><option value="112">Trend Micro</option><option value="467">Trendnet</option><option value="346">Tribeka</option><option value="639">Tripp Lite</option><option value="515">Tritton</option><option value="47">Trust</option><option value="481">Tucano</option><option value="666">Tuff-Luv</option><option value="177">Tyco Electronic..</option><option value="640">U-reach</option><option value="190">Unitek Power</option><option value="155">USRobotics</option><option value="462">Veho</option><option value="189">Verbatim</option><option value="449">Vertex3D</option><option value="378">Verypc</option><option value="654">Vibe</option><option value="373">Videk</option><option value="60">VideoSeven</option><option value="65">Viewsonic</option><option value="101">Viking</option><option value="300">Vision</option><option value="413">Vivitek</option><option value="270">Vmware</option><option value="242">Vodafone</option><option value="239">Vogels</option><option value="642">Vueinti</option><option value="643">Vye</option><option value="324">Wacom</option><option value="234">Wasp Technologi..</option><option value="235">Watchguard</option><option value="451">Webroot</option><option value="374">Wenger</option><option value="18">Western Digital</option><option value="78">Whitelabel</option><option value="297">WorldConnect</option><option value="185">Xerox</option><option value="74">XFX</option><option value="420">Xplore</option><option value="381">Y-cam</option><option value="418">Yealink</option><option value="465">Yoko</option><option value="283">Zebra</option><option value="577">Zigor</option><option value="150">Zone Labs</option><option value="128">Zoom</option><option value="563">Zotac</option><option value="165">ZyXEL</option></select></form></td>
-			</tr>
-		  </tbody></table>            </td>
+</tbody></table>            </td>
           </tr>
 <!-- manufacturers_eof //-->
 <tr><td class="no-align"><img src="/images/pixel_trans.gif" border="0" width="100%" height="20" align="absmiddle"></td></tr><tr>
@@ -593,7 +793,7 @@ This website includes links to external sites, such as news sources, manufactuer
 							<tbody><tr>
 								<td class="no-align"><table border="0" width="100%" cellspacing="0" cellpadding="0">
 									<tbody><tr>
-										<td class="kikaSmTextDarkBlue" align="center"><b><iframe style="border: none; padding: 0; margin: 0; overflow: hidden; height: 335px; width: 137px;" src="http://www.kikatek.com//MMRes/Promotions/-/Custom/Kikatek/ReviewCentrePromo/banner.html"></iframe></b></td>
+										<td class="kikaSmTextDarkBlue" align="center"><b><iframe style="border: none; padding: 0; margin: 0; overflow: hidden; height: 335px; width: 137px;" src="//www.kikatek.com//MMRes/Promotions/-/Custom/Kikatek/ReviewCentrePromo/banner.html"></iframe></b></td>
 									</tr>
 								</tbody></table></td>
 							</tr>
@@ -646,9 +846,9 @@ United Kingdom<br>
         			<h4 style="margin-top: 20px;">Special Areas</h4>
             		<hr>
 					<ul class="plain-list">
-						<li><a href="https://secure.kikatek.com/account.php" style="text-decoration: none">Your Account</a></li>
+						<li><a href="https://www.kikatek.com/account.php" style="text-decoration: none">Your Account</a></li>
 						<li><a href="http://www.kikatek.com/products_new.php" style="text-decoration: none">New Products</a></li>
-												<li><a href="http://www.kikatek.com/C543/Download-Norton-Anti-Virus-Software-Security" style="text-decoration: none">Download Store</a></li>
+												<li><a href="http://www.kikatek.com/C543/Software-Download-Store" style="text-decoration: none">Download Store</a></li>
 						<li><a href="http://www.kikatek.com/advanced_search_result.php?iPage=&amp;keywords=(exdemo+OR+refurbished)&amp;strSortBy=cHJpY2V8YXNj" style="text-decoration: none">Bargain Corner</a></li>
 											</ul>
         		</section>
@@ -657,36 +857,54 @@ United Kingdom<br>
             		<h4>Help</h4>
             		<hr>
 					<ul class="plain-list">
-						<li><a href="https://secure.kikatek.com/account_history_info.php" style="text-decoration: none">Track Your Order</a></li>
+						<li><a href="https://www.kikatek.com/account_history_info.php" style="text-decoration: none">Track Your Order</a></li>
 						<li><a href="http://www.kikatek.com/contact_us.php" style="text-decoration: none">Contact Us</a></li>
 						<li><a href="http://www.kikatek.com/RMA/MainMenu/" style="text-decoration: none">RMA and Returns</a></li>
-						<li><a href="https://secure.kikatek.com/loss_claim.php" style="text-decoration: none">Lost Delivery</a></li>
-						<li><a href="https://secure.kikatek.com/faq.php" style="text-decoration: none">FAQ</a></li>
+						<li><a href="https://www.kikatek.com/loss_claim.php" style="text-decoration: none">Lost Delivery</a></li>
+						<li><a href="https://www.kikatek.com/faq.php" style="text-decoration: none">FAQ</a></li>
 					</ul>
 					
 					<h4 style="margin-top: 20px;">Social</h4>
             		<hr>
 					<ul class="plain-list">
-						<li><a href="http://www.facebook.com/kikatek" style="text-decoration: none" target="_blank">Like Us on Facebook</a></li>
-						<li><a href="http://www.twitter.com/kikatek" style="text-decoration: none" target="_blank">Follow us on Twitter</a></li>
-						<li><a href="https://secure.kikatek.com/account_newsletters.php" style="text-decoration: none">Subscribe to Our Newsletter</a></li>
+						<li>
+							<a href="http://www.facebook.com/kikatek" alt="Like Us on Facebook" style="text-decoration: none" target="_blank"><img src="/CoreAssets/Public/-/v5.2a28/Multimedia/Images/social_32px_fb.png"></a>
+							<a href="http://www.twitter.com/kikatek" alt="Follow us on Twitter" style="text-decoration: none" target="_blank"><img src="/CoreAssets/Public/-/v5.2a28/Multimedia/Images/social_32px_tw.png"></a>
+							<a href="http://www.google.com/+kikatek" alt="Follow us on Google+" style="text-decoration: none" target="_blank"><img src="/CoreAssets/Public/-/v5.2a28/Multimedia/Images/social_32px_gp.png"></a>
+						</li>
 					</ul>
         		</section>
     		</div>
+        
+            <p id="Copyright-Text">
+                
+            	&nbsp;&nbsp;&nbsp;<a href="https://www.pcisecuritystandards.org" target="_blank"><img src="/images/kikatek site/payment/logo_pcidss.jpg" title=" PCI Data Security Standards Compliant " align="middle" border="0" style="border: 1px solid #CCC;"></a>
+<a href="https://www.securitymetrics.com/site_certificate.adp?s=secure%2ekikatek%2ecom&amp;i=377539" target="_blank"><img src="//www.securitymetrics.com/images/sm_ccsafe_wh.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" align="middle" border="0" style="border: 1px solid #CCC;"></a>
+<a href="http://www.mastercard.com/securecode" target="_blank"><img src="/images/kikatek site/payment/msc_logo.gif" alt=" MasterCard SecureCode Verified Merchant  " title=" MasterCard SecureCode Verified Merchant " align="middle" border="0" style="border: 1px solid #CCC;"></a>
+<a href="http://www.visaeurope.com/personal/onlineshopping/verifiedbyvisa" target="_blank"><img src="/images/kikatek site/payment/vbv_logo.gif" alt=" Verified by VISA  " title=" Verified by VISA " align="middle" border="0" style="border: 1px solid #CCC;"></a>
+<a class="tf_upfront_badge" href="http://www.thefind.co.uk/store/about-kikatek" title="TheFind Upfront"><img align="middle" border="0" src="//upfront.thefind.com/images/badges/r/2a/c3/2ac341bfc01798f2e53b2aa080afe3b1.png" alt="Kikatek is an Upfront Merchant on TheFind. Click for info." style="border: 1px solid #CCC;"></a>
+  <script type="text/javascript">
+    (function() {
+      var upfront = document.createElement('SCRIPT'); upfront.type = "text/javascript"; upfront.async = true;
+      upfront.src = document.location.protocol + "//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js";
+      upfront.text = "thefind.upfront.init('tf_upfront_badge', '2ac341bfc01798f2e53b2aa080afe3b1')";
+      document.getElementsByTagName('HEAD')[0].appendChild(upfront);
+    })();
+  </script>
+&nbsp;&nbsp;&nbsp;&nbsp;<span id="siteseal" style="vertical-align: bottom; margin-left: -10px; display: inline-block;"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=Wcw6wyvYeztTVIUhRJkwXftlOX3jQ5EFlYBeTMe6uyJI5eDNo6GYLcV"></script></span>        		<br>
+        		Copyright © 2004-13 Kikatek Limited
+ | Company Registration No: 05950088 - Company Registered in England | All Rights Reserved    		</p>
     		
         </footer>
-        
-        <p id="Copyright-Text">
-            Copyright © 2004-13 Kikatek Limited
- | Company Registration No: 05950088 - Company Registered in England | All Rights Reserved    		<br>
-        	&nbsp;&nbsp;&nbsp;<a href="https://www.pcisecuritystandards.org" target="_blank"><img src="/images/kikatek site/payment/logo_pcidss.jpg" title=" PCI Data Security Standards Compliant " align="middle" style="border: 1px solid #aaa; background-color: #f3f3f3;"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.securitymetrics.com/site_certificate.adp?s=87%2e106%2e14%2e16&amp;i=377539" target="_blank"><img src="https://www.securitymetrics.com/images/sm_ccsafe_check2.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" align="middle" border="0"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.mastercard.com/securecode" target="_blank"><img src="/images/kikatek site/payment/msc_logo.gif" alt=" MasterCard SecureCode Verified Merchant  " title=" MasterCard SecureCode Verified Merchant " align="middle" border="0" style="border: 1px solid #aaa; background-color: #f3f3f3;"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.visaeurope.com/personal/onlineshopping/verifiedbyvisa" target="_blank"><img src="/images/kikatek site/payment/vbv_logo.gif" alt=" Verified by VISA  " title=" Verified by VISA " align="middle" style="border: 1px solid #aaa; background-color: #f3f3f3;"></a>&nbsp;&nbsp;&nbsp;<a class="tf_upfront_badge" href="http://www.thefind.co.uk/store/about-kikatek" title="TheFind Upfront"><img align="middle" border="0" src="//upfront.thefind.com/images/badges/r/2a/c3/2ac341bfc01798f2e53b2aa080afe3b1.png" alt="Kikatek is an Upfront Merchant on TheFind. Click for info."></a>&nbsp;&nbsp;&nbsp;<script type="text/javascript">&nbsp;&nbsp;&nbsp;(function() {&nbsp;&nbsp;&nbsp;var upfront = document.createElement('SCRIPT'); upfront.type = "text/javascript"; upfront.async = true;&nbsp;&nbsp;&nbsp;upfront.src = document.location.protocol + "//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js";&nbsp;&nbsp;&nbsp;upfront.text = "thefind.upfront.init('tf_upfront_badge', '2ac341bfc01798f2e53b2aa080afe3b1')";&nbsp;&nbsp;&nbsp;document.getElementsByTagName('HEAD')[0].appendChild(upfront);&nbsp;&nbsp;&nbsp;})();&nbsp;&nbsp;&nbsp;</script>&nbsp;&nbsp;&nbsp;		</p>
 		
     </div>
-</div>
     
     
+    <div id="fb-root"></div>
+
     
-    <script src="https://ssl.geoplugin.net/javascript.gp" type="text/javascript"></script>
+    
+    <!-- <script src="https://ssl.geoplugin.net/javascript.gp" type="text/javascript"></script> -->
     <script src="/ExternalSystemAssets/Public/-/External/CivicUK/cookieControl-5.1.min.js" type="text/javascript"></script>
     
     
@@ -697,13 +915,14 @@ United Kingdom<br>
 
 
 
-			$(document).ready(
+		    $(document).ready(
 				function()
 				{
-				    $('header:first').slideDown('slow');
-
 				    $('td:not([align])').addClass('no-align');
 
+					//
+					//
+					// Call global on document ready callbacks   
 				    if(window.g_aOnReadyCallbacks)
 				    {
 				    	for(var i = 0, j = g_aOnReadyCallbacks.length; i < j; ++i)
@@ -712,6 +931,41 @@ United Kingdom<br>
 				    	}
 				    }
 
+				    //
+				    //
+				    // Load FB API and callback on init.
+				    window.fbAsyncInit = function()
+		            {
+		                // init the FB JS SDK
+		                FB.init({
+		                    appId      : '135920103212537',
+		                    channelUrl : 'http://www.kikatek.com/CoreAssets/Public/-/v5.2a28/External/Facebook/channel.html',
+		                    status     : true,
+		                    xfbml      : true
+		                });
+
+		                if(window.g_aOnFBInitCallbacks)
+					    {
+					    	for(var i = 0, j = window.g_aOnFBInitCallbacks.length; i < j; ++i)
+					    	{
+					    	    window.g_aOnFBInitCallbacks[i]();
+					    	}
+					    }
+		            };
+
+				    (function(d, s, id) {
+				      var js, fjs = d.getElementsByTagName(s)[0];
+				      if (d.getElementById(id)) return;
+				      js = d.createElement(s); js.id = id;
+				      js.src = "//connect.facebook.net/en_US/all.js";
+				      fjs.parentNode.insertBefore(js, fjs);
+				    }(document, 'script', 'facebook-jssdk'));
+
+					
+
+				    //
+				    //
+				    // Cookie Control Widget
 				    cookieControl({
 			          introText: '<p>Kikatek.com uses some cookies to enhance your shopping experience.</p>',
 			          fullText: '<p>Due to the eCommerce and dynamic nature of the site, it won\'t work as expected without them.</p><p>We also use some non-essential cookies to generate <b>anonymous</b> vistor statistics to improve and enhance the functionalities of the website.</p><p>By using our site you accept the terms of our <a href="/privacy.php">Privacy and Cookies Policy</a>.</p>',
@@ -736,24 +990,7 @@ United Kingdom<br>
 
 		}) ();
 
-	</script>
-	
-	
-	
-	<script type="text/javascript">
-    var clicky_site_ids = clicky_site_ids || [];
-    clicky_site_ids.push(66627331);
-    (function() {
-      var s = document.createElement('script');
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = '//static.getclicky.com/js';
-      ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-    })();
-    </script>
-    <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66627331ns.gif" /></p></noscript>
-    
-        <!-- footer_eof //-->
+	</script><!-- footer_eof //-->
 
 
-</body></html>
+</div></body></html>
