@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traveltowork.net privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110074418id_/http%3A//traveltowork.net/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltowork.net privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204041340id_/http%3A//www.traveltowork.net/privacy-policy) for the most accurate reproduction.*
 
-# Travel Blog | Privacy Policy
+# Privacy Policy | Travel Blog
 
 This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.
 
