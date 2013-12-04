@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinoroom.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503031813id_/http%3A//www.casinoroom.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinoroom.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204184837id_/http%3A//www.casinoroom.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Provision & Policy at CasinoRoom.com
 
@@ -55,7 +55,7 @@ You have the right to access and rectify your personal information held by SITE.
 
   * Obtain from SITE a confirmation that personal information is held as well as a written description of such personal information, the purpose for which it is being held, the source of the personal information and details of any recipients;
   * Request the deletion or rectification of personal information which is inaccurate; and
-  * To object to any unsolicited information sent by SITE regarding new products and services. This can be done at any time on the SITE: [http://www.casinoroom.com/playerdetails](https://web.archive.org/playerdetails)
+  * To object to any unsolicited information sent by SITE regarding new products and services. This can be done at any time on the SITE: [http://www.casinoroom.com/myaccount](https://web.archive.org/myaccount)
   * If you wish to contact SITE regarding your personal information held by SITE or have any other questions about SITE's privacy procedures, please use SITE's contact form at [http://www.casinoroom.com/help/](https://web.archive.org/help/)
 
 
@@ -67,5 +67,3 @@ SITE will hold personal information on our systems for as long as you use the SI
 ### Changes to this privacy policy
 
 SITE may update the terms of this policy from time to time and we will notify changes to you by posting the modified terms on the SITE. You are advised to revisit the Privacy Policy regularly.
-
-[](http://www.lga.org.mt/ "maltalicence.text")Casino Room, www.casinoroom.com, run by Ellmount Gaming Limited, a company registered in Malta, in the European Union. Maltese law applies. Company registration number is C52868, and the address is 68 Waterfront Place, Flat 41, The Strand, SLM 1022, Sliema, Malta. 
