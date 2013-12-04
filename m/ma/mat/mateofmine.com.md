@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mateofmine.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605144522id_/http%3A//mateofmine.com/page/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mateofmine.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204083430id_/http%3A//mateofmine.com/page/private_policy) for the most accurate reproduction.*
 
-# Mate of Mine | Local Business Directory Powered by Facebook
+# Local Business Directory Powered by Facebook | Mate of Mine
 
 Welcome to Mate of Mine Facebook Business Directory Privacy Policy. 
 
