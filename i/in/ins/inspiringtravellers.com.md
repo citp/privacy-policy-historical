@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiringtravellers.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605221414id_/http%3A//inspiringtravellers.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiringtravellers.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205001449id_/http%3A//inspiringtravellers.com/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms and Conditions / Privacy Policy :: InspiringTravellers.com - Travel the World
 
