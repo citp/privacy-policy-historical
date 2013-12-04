@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vipreantivirus.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606044052id_/http%3A//www.threattracksecurity.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipreantivirus.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204163215id_/http%3A//www.threattracksecurity.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
