@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pregnant.sg privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606122715id_/http%3A//pregnant.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnant.sg privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205002203id_/http%3A//pregnant.sg/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pregnant in Singapore - Pregnancy for Singaporeans
+# Privacy Policy | Pregnant in Singapore - Pregnancy for SingaporeansPregnant in Singapore – Pregnancy for Singaporeans
 
 This Privacy Policy applies to all information collected by Tickled Media Pte Ltd and/or its related entities, affiliates and subsidiaries (individually and collectively, “Tickled Media”) under Clause 1 below. For the purpose of this Policy, “we” and “our” shall refer to Tickled Media.
 
