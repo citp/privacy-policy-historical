@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the altpress.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603051151id_/http%3A//www.altpress.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altpress.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204012812id_/http%3A//www.altpress.com/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Alternative Press
 
 ## Privacy policy
 
-**AP MAGAZINE PRIVACY POLICY**
+ **AP MAGAZINE PRIVACY POLICY**
 
 Alternative Press Magazine, Inc. (the “AP Magazine” or “we”) are committed to respecting your privacy. For purposes of this privacy policy, the term “personal information” or “personally identifiable information” will mean any information by which you can be identified, such as your name, address, telephone number, e-mail address, etc. Earning and keeping the trust of the users of this web site and of any AP Magazine mobile application is important to AP Magazine. We want you to understand what types of information are gathered from you, how this information is used and protected, and how you can control its use. This particular statement discloses the privacy practices of AP Magazine regarding this web site and regarding any mobile application that may be affiliated with AP Magazine. By using this web site and any mobile application with which AP Magazine may be affiliated, you agree to be bound by this policy.
 
@@ -22,7 +22,7 @@ We use email links located on the “contact” page to allow you to contact us 
 
 Though this web site is a general audience web site, it is not intended or designed to attract visitors under the age of 13. Children under the age of 13 should always ask permission from a parent or a guardian before sending personal information to anyone. We encourage parents and guardians to supervise their children’s online activity.
 
-**CHILDREN UNDER THE AGE OF 13 SHOULD NOT PROVIDE ANY PERSONAL INFORMATION TO AP MAGAZINE, EITHER THROUGH THE MOSH PIT OR IN RESPONSE TO ANY OTHER QUERY THROUGH THIS WEB SITE. IF IT COMES TO THE ATTENTION OF AP MAGAZINE THAT A PERSON UNDER THE AGE OF 13 HAS PROVIDED PERSONAL INFORMATION THROUGH THIS WEB SITE, THAT INFORMATION WILL BE DELETED BY AP MAGAZINE AND NOT USED FOR ANY PURPOSE.**
+ **CHILDREN UNDER THE AGE OF 13 SHOULD NOT PROVIDE ANY PERSONAL INFORMATION TO AP MAGAZINE, EITHER THROUGH THE MOSH PIT OR IN RESPONSE TO ANY OTHER QUERY THROUGH THIS WEB SITE. IF IT COMES TO THE ATTENTION OF AP MAGAZINE THAT A PERSON UNDER THE AGE OF 13 HAS PROVIDED PERSONAL INFORMATION THROUGH THIS WEB SITE, THAT INFORMATION WILL BE DELETED BY AP MAGAZINE AND NOT USED FOR ANY PURPOSE.**
 
 If you have questions about this privacy statement, or our software and web site practices, please contact us:
 
@@ -34,6 +34,6 @@ Alternative Press Magazine, Inc.
 
 Cleveland, Ohio 44102-1996
 
-_[publisher@altpress.com](mailto:publisher@altpress.com)_
+ _[publisher@altpress.com](mailto:publisher@altpress.com)_
 
 This privacy statement was last updated on May 4, 2010.
