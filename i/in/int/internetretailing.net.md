@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the internetretailing.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501082954id_/http%3A//internetretailing.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetretailing.net privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204170525id_/http%3A//internetretailing.net/about/privacy-policy) for the most accurate reproduction.*
 
-# Internet Retailing » Privacy Policy
-
-[Home](http://internetretailing.net/) » Privacy Policy
-
-## Privacy Policy
+# Privacy Policy | Internet Retailing
 
 **1\. Introduction**  
 1.1 We are committed to respecting and protecting your privacy. This policy sets out our approach. “We” in this context are SJP Business Media Ltd. We are the Publishers of Internet Retailing and act as the administrators of the policy. In the policy we’re referred to as “The Administrator”.  
