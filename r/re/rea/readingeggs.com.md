@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the readingeggs.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613090434id_/http%3A//readingeggs.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingeggs.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204115356id_/http%3A//readingeggs.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Reading Eggs | Where Children Learn to Read Online
-
-## Privacy Policy
+# Privacy – Reading Eggs
 
 ### What information do we collect?
 
@@ -28,7 +26,7 @@ We may use the information we collect from you when you register, purchase produ
 
 ### How do we protect visitor information?
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of people who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
 ### Do we use "cookies"?
 
