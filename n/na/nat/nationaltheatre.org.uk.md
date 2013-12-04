@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529182439id_/http%3A//www.nationaltheatre.org.uk/your-visit/website-help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaltheatre.org.uk privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204132658id_/http%3A//www.nationaltheatre.org.uk/your-visit/website-help/privacy) for the most accurate reproduction.*
 
 # Privacy | National Theatre | South Bank, London
 
-The National Theatre − Privacy Policy
+## The National Theatre − Privacy Policy
 
 ### 1\. Privacy commitment
 
-The nationaltheatre.org.uk website is owned and operated by The National Theatre. We are committed to safeguarding your privacy online and to this end have developed the following Privacy Policy to deal with issues which may concern you. Please read the Privacy Policy to understand how your personal information will be treated. This policy may change from time to time so please check it periodically. It was last updated on 4 October 2012.
+The nationaltheatre.org.uk website is owned and operated by The National Theatre. We are committed to safeguarding your privacy online and to this end have developed the following Privacy Policy to deal with issues which may concern you. Please read the Privacy Policy to understand how your personal information will be treated. This policy may change from time to time so please check it periodically. It was last updated on 11 June 2013.
 
-### 2\. Personal Information
+**2\. Personal Information**
 
-2.1 The details which you provide about yourself and any information which identifies you such as your name, address, email address, telephone number, country of residence and credit and debit card details ("Personal Information") will only be retained by us if you provide this information when using one of the services available on our website, such as posting a message on the Bulletin Board, subscribing to one of our email lists or when purchasing tickets. Personal Information will be held on our system and used for operational purposes such as the processing of bookings and orders in connection with our on-line ticket and book ordering services and for mailing list subscriptions.
-
+2.1 The details which you provide about yourself and any information which identifies you such as your name, address, email address, telephone number, country of residence and credit and debit card details ("Personal Information") will only be retained by us if you provide this information when using one of the services available on our website, such as posting a message on the Bulletin Board, subscribing to one of our email lists or when purchasing tickets. Personal Information will be held on our system and used for operational purposes such as the processing of bookings and orders in connection with our on-line ticket and book ordering services and for mailing list subscriptions.  
 In order to process a transaction, your Personal Information and card details may be passed to third party service providers. Card details will only be used for the purpose of handling an individual transaction.
 
 The Personal Information you supply when you join one of our e-mail lists will be used by the National Theatre to keep you up-to-date with events and activities organised by the National Theatre. When purchasing tickets you are given the opportunity to opt in to receiving news and information from the National Theatre and its co-producers, other arts organisations and our sponsors. When joining one of our e-mail lists you are given the opportunity to opt in to receiving information from other arts organisations and our sponsors. The National Theatre will only pass on your Personal Information for marketing purposes if the relevant box has been ticked. In these instances, we supply your Personal Information for one-off use by the other arts organisation. Each e-mail we send you offers you the opportunity to amend these preferences, or you can ask us to do this, by e-mailing [boxoffice@nationaltheatre.org.uk](mailto:boxoffice@nationaltheatre.org.uk)
@@ -44,7 +43,7 @@ These cookies provide information on visitors to Twitter, checks whether users a
 
 We also use cookies to manage the shopping baskets on our ticketing pages and our Bookshop site, as well as logging in and using your MyNT account pages. The cookies used for these functions are temporary cookies that are removed once the transaction has been completed or you log out. It is not possible to purchase anything on our website without accepting these cookies.
 
-This website does not currently use advertising cookies, but we now offer the option to opt out of these to prevent them being set on your computer if they are introduced in future.
+This website also uses advertising cookies, for our West End transfers, but we offer the option to opt out of these to prevent them being set on your computer if they are introduced in future.
 
 **[You can review a full list of the cookies we use in this document](https://web.archive.org/sites/all/libraries/files/documents/Cookies-used-on-National-Theatre-website.pdf "Cookies used on the National Theatre website")**.
 
@@ -64,7 +63,7 @@ Please note that we are not responsible for information available on these websi
 
 ### 6\. How we protect information
 
-6.1 We take every precaution to protect your information. To this end all Personal Information stored by us is kept on a server in a secure environment. Only employees and approved contractors/developers we may appoint from time to time and who need the information to perform a specific job are granted access to personally identifiable information.
+6.1 We take every precaution to protect your information. To this end all Personal Information stored by us is kept on a server in a secure environment. Save as agreed by you for marketing purposes, only employees and approved contractors/developers we may appoint from time to time, and who need the information to perform a specific job, are granted access to personally identifiable information.
 
 6.2 Regular security reviews are held by us to ensure that the site remains safe and secure for your protection.
 
