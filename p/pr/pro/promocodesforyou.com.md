@@ -1,12 +1,57 @@
-> *The following text is extracted and transformed from the promocodesforyou.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531230931id_/http%3A//promocodesforyou.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promocodesforyou.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204014652id_/http%3A//www.promocodesforyou.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy | PromoCodesForYou
+# Privacy | PromoCodesForYou
 
-This privacy policy applies to the use of PromoCodesForYou.com. We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site. Log Files and Cookies This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. 
+**Are you wondering what kinds of information we might collect from you?**
 
-This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends. Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. Cookies are very small text files that are stored on personal computers for reference purposes. We may link the information we store in cookies to any personally identifiable information you have submitted while on our site. We use both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period. Session cookies make it easier for you to navigate our site; persistent cookies can perform such activities as storing your password for forums or blogs so you do not have to sign in every time you visit those areas, and/or may be used to enable us to track and target the interests of our users so as to enhance the overall experience of using our site. We have no access to or administration abilities over any cookies that are used by any advertisers on our site. 
+Well, the truth is that we don't collect much. We collect your email when you subscribe to our newsletter. That's about it.
 
-This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site. Registration and Use of Personal Information Registration is not required in order to use or access this website. However, this site may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles. If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent. Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels. At some point, we also may provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we would ask the visitor for his or her email address and name. These communications could include a regular newsletter, product promotions and any other information that we feel could be pertinent to the visitor. You would be able to opt out of receiving any or all of these communications by emailing us at info@promocodesforyou.com or by clicking on the "unsubscribe" link in any email we send to you, or by replying to any email we send you and entering the word "UNSUBSCRIBE" in the subject line. 
+**What do we use your email for?**
 
-### SIGN UP FOR OUR   
-NEWSLETTER
+You signed up for our newsletter so you probably know that we're using it to send you emails. This email you provided may be used to send you deals, information, or updates about our site and services.
+
+**How do we protect your information, you might ask?**
+
+We take several security measures to make sure your information is safe. And we don't sell your emails, if that's what you're thinking. 
+
+**Do we use cookies?**
+
+Yes, we do. If you're wondering what a nice desert has to do with anything, in the world of the internet, cookies are small files that a site or its service provider uses to recognize your browser and remember certain information. This is actually how we get paid -- the cookie tells the merchant that we sent them a consumer that made a purchase.
+
+At some point, we might use cookies to save your preferences for future visits to our site or to gather data about our site traffic. If we did this, it would be to try to improve your experience on our site. 
+
+**Do we disclose any information that you provide to outside parties?**
+
+Nope. We don't trade, sell, or transfer any of your personal information to any outside parties. There might be times when we share your information with trusted third parties (people who help us to operate or develop our website) but we only do this when those third parties have agreed to keep your information confidential. We would also release your information if we believed that it was necessary to comply with the law or protect our safety, property, or rights or the safety, property, or rights of others. Having said all that, we may very well provide non-personally identifiable visitor information to others for advertising, marketing, or other uses .
+
+**Third party links**
+
+At our discretion, we might, on occasion, promote third party products (or services) on our website. Keep in mind that these third party sites have separate and independent privacy policies, that might be different from our own. We therefore cannot be held accountable for the content and activities of any sites that we link to or promote. Having said that, if there is ever anything on a site that we link to or promote that causes concern, we would appreciate being notified.
+
+**California Online Privacy Protection Act Compliance**
+
+We greatly value your privacy so we have taken the necessary precautions in order to be in compliance with the California Online Privacy Protection Act. Thus, we will not distribute your personal information to any outside parties without first getting your consent.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), and we do not collect any information from those who are under the age of thirteen. Our website, content and services are all geared towards people who are at least 13 years old.
+
+**Your Consent**
+
+By using our site, you consent to our website Privacy Policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our Privacy Policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on 6-25-13 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may visit our [Contact ](http://www.promocodesforyou.com/index.php?page=contact_us) page or use the information below: 
+
+Linfield Media  
+2121 Cloverfield Blvd., Suite 132  
+Santa Monica, CA 90404
+
+[info@linfieldmedia.com](mailto:info@linfieldmedia.com)
