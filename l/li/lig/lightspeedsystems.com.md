@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightspeedsystems.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507165007id_/http%3A//www.lightspeedsystems.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightspeedsystems.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204200547id_/http%3A//www.lightspeedsystems.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lightspeed Systems
 
@@ -88,6 +88,6 @@ Bakersfield, CA 93301
 
 In the event that you are concerned about how data you have provided Lightspeed Systems through the Services has been used, please contact us at one of the addresses listed above. Lightspeed Systems takes all concerns about privacy and use of data very seriously, and shall endeavor to reply to you within two business days to commence its investigation of your concerns.
 
-We self-certify compliance with:
+[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)
 
-[](http://www.lightspeedsystems.com/privacy/safe_harbor/#main)
+[](http://www.export.gov/safeharbor)
