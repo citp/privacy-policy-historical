@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bitterlawyer.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426110313id_/http%3A//www.bitterlawyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitterlawyer.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204053048id_/http%3A//www.bitterlawyer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Bitter Lawyer
 
 ### The Bitter Lawyer Privacy Policy
 
-BitterLawyer.com, a service of Bitter Media, Inc. (“Bitter Lawyer”), supports the privacy of our readers. The following outlines our privacy and data protection policy.
+BitterLawyer.com, a service of Lawyerist Media, LLC (“Bitter Lawyer”), supports the privacy of our readers. The following outlines our privacy and data protection policy.
 
 Third-party sites you access via Bitter Lawyer are not subject to this privacy policy.
 
@@ -16,17 +16,23 @@ Personal information such as your name, address, and email address may be collec
 
 When you visit the site, we also collect web site usage information and information about your computer and internet connection, including your computer’s IP address, the type and version of browser and operating system you use, your internet domain and, if you arrived at Bitter Lawyer via a link from another website, the URL of the linking page.
 
-We use this information to:  
-· personalize the content and advertising you will see based on your personal characteristics or preferences  
-· notify you of relevant new products and features on Bitter Lawyer (if you opt in to receiving such information)  
-· notify you of promotions from Bitter Lawyer (if you opt in to receiving such information)  
-· ensure, as far as is practical, that our site is compatible with the browsers and operating systems used by most of our visitors
+We use this information to:
 
-We also use the information for in-house research to:  
-· improve our understanding of customer needs in developing Bitter Lawyer  
-· build marketing profiles  
-· aid strategic development  
-· manage our relationship with advertisers
+  * personalize the content and advertising you will see based on your personal characteristics or preferences
+  * notify you of relevant new products and features on Bitter Lawyer (if you opt in to receiving such information)
+  * notify you of promotions from Bitter Lawyer (if you opt in to receiving such information)
+  * ensure, as far as is practical, that our site is compatible with the browsers and operating systems used by most of our visitors
+
+
+
+We also use the information for in-house research to:
+
+  * improve our understanding of customer needs in developing Bitter Lawyer
+  * build marketing profiles
+  * aid strategic development
+  * manage our relationship with advertisers
+
+
 
 The results of all such research and analysis will be presented as anonymous or aggregated information and will not reveal any personal facts about individual readers.
 
