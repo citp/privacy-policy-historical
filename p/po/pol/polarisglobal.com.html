@@ -1,0 +1,1612 @@
+<!--The following is the downloaded HTML source of the polarisglobal.com privacy policy that was archived on 2013-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204231426id_/http%3A//www.polarisglobal.com/privacypolicy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<script type="text/javascript" src="//use.typekit.net/akp7kka.js"></script>
+<script type="text/javascript">    try { Typekit.load(); } catch (e) { }</script>
+<script type="text/javascript" src="/js1/animation.js"></script>
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen">
+<link rel="stylesheet" href="css/demo.css" type="text/css" media="screen">
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script><script src="js/libs/jquery-1.7.min.js"></script>
+  <script src="js/jquery.orbit-1.2.3.js" type="text/javascript"></script>
+<link rel="stylesheet" href="css/orbit.css">
+<script type="text/javascript">
+var j = jQuery.noConflict();
+     j(window).load(function() {
+         j('#featured1').orbit({
+         	 bullets: true,
+         });
+     });
+</script>
+  <!-- FlexSlider -->
+  <script defer="" src="jquery/jquery.flexslider.js"></script>
+  <script type="text/javascript">
+    $(function(){
+     SyntaxHighlighter.all();
+    });
+    $(window).load(function(){
+      $('.flexslider').flexslider({
+        animation: "slide",
+        start: function(slider){
+        $('body').removeClass('loading');
+        }
+      });
+    });
+	function dispdf()
+	{   //alert(66);
+	 	$('#pdfview').hide();
+	 	$('#view').show();
+	}
+  </script>
+<script src="http://api.html5media.info/1.1.5/html5media.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js?ver=1.4.2"></script>
+<script src="jquery/login.js"></script>
+<script>
+if (/*@cc_on!@*/false) {
+    var headHTML = document.getElementsByTagName('head')[0].innerHTML;
+headHTML    += '<link type="text/css" rel="stylesheet" href="assets/ie.css">';
+document.getElementsByTagName('head')[0].innerHTML = headHTML;
+}
+</script>
+<script type="text/javascript">
+
+
+
+
+
+function liveeventsvideo(radiobuttonvalue)
+{
+	
+$("#imagediv").hide();
+$("#imagediv11").show();
+$("#imagediv22").hide();
+$("#imagediv33").hide();
+$("#headingdivsub1").hide();
+$("#headingdivsub2").hide();
+
+document.getElementById("imagediv11").innerHTML='<img src="images/loading.gif">';
+	
+if (window.XMLHttpRequest)
+  {
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    { 
+	var result=xmlhttp.responseText;
+	    
+		document.getElementById('imagediv11').innerHTML=result;
+	    document.getElementById('headingdiv').innerHTML="";
+		    }
+  }
+xmlhttp.open("GET","liveeventsaction.php?id=" + radiobuttonvalue,true);
+xmlhttp.send();
+if(radiobuttonvalue == 5){
+document.getElementById('18').checked=true;
+}
+
+}
+</script>
+<script type="text/javascript">
+function videochange(radiobuttonvalue)
+{
+if (window.XMLHttpRequest)
+  {
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    { 
+	var result=xmlhttp.responseText;
+		document.getElementById('imagedivfree').innerHTML=result;
+	    document.getElementById('headingdiv').innerHTML="";
+		    }
+  }
+xmlhttp.open("GET","CusA1action.php?id=" + radiobuttonvalue,true);
+xmlhttp.send();
+
+}
+</script>
+<script type="text/javascript">
+function productchange(productvalue)
+{
+if (window.XMLHttpRequest)
+  {
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    { 
+	var result=xmlhttp.responseText;
+		document.getElementById('imagediv').innerHTML=result;
+		document.getElementById('headingdiv').innerHTML="";
+   }
+  }
+xmlhttp.open("GET","CusA1product.php?id=" + productvalue,true);
+xmlhttp.send();
+
+}
+</script>
+<script type="text/javascript">
+function mone(radiobuttonvalue)
+{
+	  if(radiobuttonvalue=='1')
+	  {
+	document.getElementById('1').checked=true;
+		    document.getElementById("productlanding").innerHTML='<img src="images/loading.gif">';
+			url = "m1paget1.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#productlanding").html(result);
+  				}
+ 				}
+			});
+	  }
+	  if(radiobuttonvalue=='2')
+	  {
+			document.getElementById("productlanding").innerHTML='<img src="images/loading.gif">';
+			url = "m1paget2.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#productlanding").html(result);
+  				}
+ 				}
+			});
+	
+	  }
+	  else if(radiobuttonvalue=='3')
+	  {
+		    document.getElementById('3').checked=true;
+			document.getElementById("productlanding").innerHTML='<img src="images/loading.gif">';
+			url = "m7paget1.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#productlanding").html(result);
+  				}
+ 				}
+			});
+	
+	  }
+	   else if(radiobuttonvalue=='4')
+	  {
+		  
+			document.getElementById("productlanding").innerHTML='<img src="images/loading.gif">';
+			url = "m7paget2.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#productlanding").html(result);
+  				}
+ 				}
+			});
+	  }
+	   else if(radiobuttonvalue=='5')
+	  {
+		//document.getElementById('5').checked=true;
+		  document.getElementById('headingdiv').innerHTML="Your ticket to higher learning.";
+			document.getElementById("productlanding").innerHTML='<img src="images/loading.gif">';
+			url = "certificate7.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#productlanding").html(result);
+  				}
+ 				}
+			});	 
+	  }
+	   else if(radiobuttonvalue=='6')
+	  {
+		  document.getElementById('headingdiv').innerHTML="Your ticket to higher learning.";
+			document.getElementById("productlanding").innerHTML='<img src="images/loading.gif">';
+			url = "certificate8.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#productlanding").html(result);
+  				}
+ 				}
+			});		  
+	  }
+	   else if(radiobuttonvalue=='7')
+	  {
+		  document.getElementById('headingdiv').innerHTML="Your ticket to higher learning.";
+			document.getElementById("productlanding").innerHTML='<img src="images/loading.gif">';
+			url = "certificate9.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#productlanding").html(result);
+  				}
+ 				}
+			});		
+	  }
+	   else if(radiobuttonvalue=='8')
+	  {
+		    document.getElementById('headingdiv').innerHTML="Your ticket to higher learning.";
+			document.getElementById("productlanding").innerHTML='<img src="images/loading.gif">';
+			url = "certificate10.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#productlanding").html(result);
+  				}
+ 				}
+			});
+		
+	  }
+}
+</script>
+<script type="text/javascript">
+function mone1(radiobuttonvalue)
+{
+	  if(radiobuttonvalue=='1')
+	  {
+document.getElementById('productlanding').innerHTML="<div id='headingdiv'>M1. Getting started is easy.</div><div id='imagediv1' style='margin-bottom:35px;margin-left:160px;'><iframe src='m1paget1.php' width='680' height='350'></iframe></div>";
+	  }
+	  if(radiobuttonvalue=='2')
+	  {
+		  document.getElementById('productlanding').innerHTML="<div id='headingdiv'>M1. Getting started is easy.</div><div id='imagediv1'style='margin-bottom:35px;margin-left:160px;'><iframe src='m1paget2.php' width='680' height='350'></iframe></div>";
+	
+	  }
+	  else if(radiobuttonvalue=='3')
+	  {
+		   document.getElementById('productlanding').innerHTML="<div id='headingdiv'>M7. Taking greater control.</div><div id='imagediv1'style='margin-bottom:35px;margin-left:160px;'><iframe src='m7paget1.php' width='680' height='350'></iframe></div>";
+	
+	  }
+	   else if(radiobuttonvalue=='4')
+	  {
+		  document.getElementById('productlanding').innerHTML="<div id='headingdiv'>M7. Taking greater control.</div><div id='imagediv1'style='margin-bottom:35px;margin-left:160px;'><iframe src='m7paget2.php' width='680' height='350'></iframe></div>";
+	  }
+	   else if(radiobuttonvalue=='5')
+	  {
+	document.getElementById('5').checked=true;
+		  //document.getElementById('productlanding').innerHTML="<div id='headingdiv'>Your ticket to higher learning.</div><div id='imagediv1'style='margin-bottom:35px;margin-left:160px;'><iframe src='certificate7.php' width='680' height='350'></iframe></div>";
+		    document.getElementById('headingdiv').innerHTML="Your ticket to higher learning.";
+			document.getElementById("productlanding").innerHTML='<img src="images/loading.gif">';
+			url = "certificate7.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#productlanding").html(result);
+  				}
+ 				}
+			});
+	 
+	  }
+	   else if(radiobuttonvalue=='6')
+	  {
+		  // document.getElementById('productlanding').innerHTML="<div id='headingdiv'>Your ticket to higher learning.</div><div id='imagediv1'style='margin-bottom:35px;margin-left:160px;'><iframe src='certificate8.php' width='680' height='350'></iframe></div>";
+		    document.getElementById('headingdiv').innerHTML="Your ticket to higher learning.";
+			document.getElementById("productlanding").innerHTML='<img src="images/loading.gif">';
+			url = "certificate8.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#productlanding").html(result);
+  				}
+ 				}
+			});
+		  
+	  }
+	   else if(radiobuttonvalue=='7')
+	  {
+		// document.getElementById('productlanding').innerHTML="<div id='headingdiv'>Your ticket to higher learning.</div><div id='imagediv1'style='margin-bottom:35px;margin-left:160px;'><iframe src='certificate9.php' width='680' height='350'></iframe></div>";  
+		    document.getElementById('headingdiv').innerHTML="Your ticket to higher learning.";
+			document.getElementById("productlanding").innerHTML='<img src="images/loading.gif">';
+			url = "certificate9.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#productlanding").html(result);
+  				}
+ 				}
+			});
+		
+	  }
+	   else if(radiobuttonvalue=='8')
+	  {
+		  // document.getElementById('productlanding').innerHTML="<div id='headingdiv'>Your ticket to higher learning.</div><div id='imagediv1'style='margin-bottom:35px;margin-left:160px;'><iframe src='certificate10.php' width='680' height='350'></iframe></div>";
+		    document.getElementById('headingdiv').innerHTML="Your ticket to higher learning.";
+			document.getElementById("productlanding").innerHTML='<img src="images/loading.gif">';
+			url = "certificate10.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#productlanding").html(result);
+  				}
+ 				}
+			});
+		
+	  }
+}
+</script>
+<script type="text/javascript">
+function liveeventsproduct(radiobuttonvalue)
+{
+document.getElementById("imagediv").innerHTML="";
+document.getElementById("imagediv11").innerHTML="";
+document.getElementById("imagediv22").innerHTML="";
+document.getElementById("imagediv33").innerHTML="";
+$("#imagediv").hide();
+$("#imagediv11").hide();
+$("#imagediv22").show();
+$("#imagediv33").hide();
+$("#headingdivsub1").hide();
+$("#headingdivsub2").hide();
+
+	
+if(radiobuttonvalue=='1')
+{
+
+	document.getElementById('5').checked=true;
+	document.getElementById('headingdiv').innerHTML="Polaris Global Live Events.";
+	document.getElementById("imagediv22").innerHTML='<img src="images/loading.gif">';
+	//document.getElementById('imagediv').innerHTML='CusA2product1.php';
+	url = "CusA2product1.php";
+	$.ajax({
+ 		url: url,
+		type: "POST",
+		success: function(result){
+  		if(result)
+  		{  
+           $("#imagediv22").html(result);
+  		}
+ 
+ 		}
+	});
+}
+else if(radiobuttonvalue=='2')
+{
+	document.getElementById('headingdiv').innerHTML="Sovereignty Live.";
+	document.getElementById("imagediv22").innerHTML='<img src="images/loading.gif">';
+	//document.getElementById('imagediv').innerHTML='CusA2product2.php';
+	url = "CusA2product2.php";
+	$.ajax({
+ 		url: url,
+		type: "POST",
+		success: function(result){
+  		if(result)
+  		{  
+           $("#imagediv22").html(result);
+  		}
+ 
+ 		}
+	});
+}
+else if(radiobuttonvalue=='3')
+{
+	document.getElementById('headingdiv').innerHTML="Influence Live.";
+	document.getElementById("imagediv22").innerHTML='<img src="images/loading.gif">';
+	//document.getElementById('imagediv').innerHTML='CusA2product3.php';
+	url = "CusA2product3.php";
+	$.ajax({
+ 		url: url,
+		type: "POST",
+		success: function(result){
+  		if(result)
+  		{  
+           $("#imagediv22").html(result);
+  		}
+ 
+ 		}
+	});
+}
+/*if (window.XMLHttpRequest)
+  {
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    { 
+	var result=xmlhttp.responseText;
+		document.getElementById('imagediv').innerHTML=result;
+	    document.getElementById('headingdiv').innerHTML="";
+		    }
+  }
+xmlhttp.open("GET","liveeventsproduct.php?id=" + radiobuttonvalue,true);
+xmlhttp.send();
+*/
+}
+</script>
+<script type="text/javascript">
+function changeflm(radiobuttonvalue)
+{
+if (window.XMLHttpRequest)
+  {
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    { 
+	var result=xmlhttp.responseText;
+	document.getElementById('CusA3Div').innerHTML=result;
+			    }
+  }
+xmlhttp.open("GET","filmaction.php?id=" + radiobuttonvalue,true);
+xmlhttp.send();
+if (radiobuttonvalue == "1")
+{
+	document.getElementById('1').checked=true;
+}
+}
+</script>
+<script type="text/javascript">
+function validation()
+{
+var error='';
+if(document.getElementById('email').value=='')
+{
+document.getElementById('email').style.borderColor = '#ff0000';
+document.getElementById('email_error').innerHTML="Email Required.";
+error=true;
+}
+else
+{
+	document.getElementById('email').style.borderColor = '#ccc';
+	document.getElementById('email_error').innerHTML="";
+	
+}
+if(document.getElementById('password').value=='')
+{
+document.getElementById('password').style.borderColor = '#ff0000';
+document.getElementById('password_error').innerHTML="Password Required.";
+error=true;
+}
+else
+{
+	document.getElementById('password').style.borderColor = '#ccc';
+	document.getElementById('password_error').innerHTML="";
+	
+}
+if(error!='')
+{ 
+return false;
+}
+else
+{
+return true;
+}
+}
+</script>
+<script type="text/javascript">
+function logincheck()
+{
+	var email=document.getElementById('email').value;
+	var password=document.getElementById('password').value;
+if (window.XMLHttpRequest)
+  {
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    { 
+	var result=xmlhttp.responseText;
+	if(result=='no')
+	{
+	document.getElementById('msg_error').innerHTML="Email/password is incorrect!";
+	}
+	else
+	{
+		 window.location = "login.php";
+	}
+		    }
+  }
+xmlhttp.open("GET","loginaction.php?email=" + email+"&password="+password,true);
+xmlhttp.send();
+
+}
+</script>
+<script type="text/javascript">
+function changepost(charityvalue)
+{
+if(charityvalue=='7')
+{
+	document.getElementById('7').checked=true;
+	document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Impact.</div><div id='imagediv' style='margin-left:81px; height:500px;'><img src='images/CusA3Posts1.png' /></div>";
+}
+else if(charityvalue=='8')
+{
+	document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Impact.</div><div id='imagediv' style='margin-left:47px; height:500px;'><img src='images/CusA3Posts2.png'  /></div>";
+
+}
+else if(charityvalue=='9')
+{
+	document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Impact.</div><div id='imagediv' style='margin-left:49px; height:500px;'><img src='images/CusA3Posts3.png' /></div>";
+
+}
+
+else if(charityvalue=='10')
+{
+	document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Impact.</div><div id='imagediv' style='margin-left:121px; height:500px;'><img src='images/CusA3Posts4.png'  /></div>";
+	
+}
+else if(charityvalue=='11')
+{
+	document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Impact.</div><div id='imagediv' style='margin-left:81px; height:490px;'><img src='images/CusA3Posts5.png' /></div>";
+	
+}}
+</script>
+<script type="text/javascript">
+function changecharity(charityvalue)
+{
+if(charityvalue=='29')
+{
+document.getElementById('29').checked=true;
+	  //document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Related Charities.</div><div id='imagediv' style='margin-left:155px;'><iframe src='CusA3charity1.php' width='680' height='350'></iframe></div>";
+	//document.getElementById('headingdiv').innerHTML="Related Charities.";
+	document.getElementById("CusA3Div").innerHTML='<img src="images/loading.gif">';
+	url = "CusA3charity1.php";
+	$.ajax({
+ 		url: url,
+		type: "POST",
+		success: function(result){
+  		if(result)
+  		{  
+           $("#CusA3Div").html(result);
+  		}
+ 
+ 		}
+	});
+}
+else if(charityvalue=='30')
+{
+   //document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Related Charities.</div><div id='imagediv' style='margin-left:155px;'><iframe src='CusA3charity2.php' width='680' height='350'></iframe></div>";
+    document.getElementById('headingdiv').innerHTML="Related Charities.";
+	document.getElementById("CusA3Div").innerHTML='<img src="images/loading.gif">';
+	url = "CusA3charity2.php";
+	$.ajax({
+ 		url: url,
+		type: "POST",
+		success: function(result){
+  		if(result)
+  		{  
+           $("#CusA3Div").html(result);
+  		}
+ 
+ 		}
+	});
+}
+else
+{
+if (window.XMLHttpRequest)
+  {
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    { 
+	var result=xmlhttp.responseText;
+		document.getElementById('imagediv').innerHTML=result;
+	    document.getElementById('headingdiv').innerHTML="";
+		    }
+  }
+xmlhttp.open("GET","changecharity.php?id=" + charityvalue,true);
+xmlhttp.send();
+}
+}
+</script>
+ <script language="JavaScript">
+<!-- Begin
+function popUp1(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=1300,height=700,left = 400,top = 65');");
+}
+// End -->
+</script>
+<script type="text/javascript">
+<!--
+    function submitenter(myfield,e)
+    {
+        var keycode;
+        if (window.event) keycode = window.event.keyCode;
+        else if (e) keycode = e.which;
+        else return true;
+
+        if (keycode == 13)
+        {
+            myfield.form.submit();
+            return false;
+        }
+        else
+            return true;
+    }
+//-->
+</script>
+
+<script type="text/javascript">
+function recognition(radiobuttonvalue)
+{
+if(radiobuttonvalue=='10')
+{
+document.getElementById('10').checked=true;
+//document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv' >Inspirational.</div><div id='imagediv' style='margin-left:20px;height:450px;'><iframe src='CusBRecognition1.php' width='750' height='400'></iframe><div id='bottomdiv' style='margin-left:25px;'>Time Magazine Top 10 Summer Olympic Movie of All Time</div></div></div>";
+document.getElementById("CusBnew").innerHTML='<img src="images/loading.gif">';
+			url = "CusBRecognition1.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#CusBnew").html(result);
+  				}
+ 				}
+			});
+
+}
+else if(radiobuttonvalue=='11')
+{
+document.getElementById('CusBnew').innerHTML="<div><div id='headingdiv' >Inspirational.</div><div id='imagediv' style='margin-left:75px; '><img src='images/CusA3Recognition8.png'   /><div id='bottomdiv' style='margin-left:80px; margin-top: 0px'>Worldwide Film Festival Selection</div></div></div>";
+
+}
+else if(radiobuttonvalue=='13')
+{
+//document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv' style='height:50px;'>Inspirational.</div><div id='imagediv' style='margin-left:113px;height:450px; '><iframe src='CusBRecognition4.php' width='750' height='400'></iframe><div id='bottomdiv' style='margin-left:25px;'>Article in Everett Herald, Everett, Washington</div></div></div>";
+document.getElementById("CusBnew").innerHTML='<img src="images/loading.gif">';
+			url = "CusBRecognition4.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#CusBnew").html(result);
+  				}
+ 				}
+			});
+		
+}
+else if(radiobuttonvalue=='15')
+{
+//document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv'style='height:50px;' >Inspirational.</div><div id='imagediv' style='margin-left:113px;height:450px;'><iframe src='CusB2Recognition6.php' width='765' height='400'></iframe><div id='bottomdiv' style='margin-left:1px;'>Letter From Unbeaten Medal Recipient Victor H.</div></div></div>";
+document.getElementById("CusBnew").innerHTML='<img src="images/loading.gif">';
+			url = "CusB2Recognition6.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#CusBnew").html(result);
+  				}
+ 				}
+			});
+		
+}
+
+else if(radiobuttonvalue=='17')
+{
+document.getElementById('17').checked=true;
+//document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv' style='height:120px;'>Encouraging.<div style='text-align:center;margin-left: 50px;'><img src='images/unbeaten.png'></div></div><div id='imagediv' style='margin-left:135px;height:400px;'><iframe src='CusBreview1.php' width='750' height='350'></iframe><div id='bottomdiv' style='margin-left:33px;'>NYC Movie Guru Review.</div></div></div>";
+document.getElementById("CusBnew").innerHTML='<img src="images/loading.gif">';
+			url = "CusBreview1.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#CusBnew").html(result);
+  				}
+ 				}
+			});
+
+}
+else if(radiobuttonvalue=='18')
+{
+//document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv' style='height:120px;'>Encouraging.<div style='text-align:center;margin-left: 50px;'><img src='images/unbeaten.png'></div></div><div id='imagediv' style='margin-left:135px;height:400px;'><iframe src='CusBreview2.php' width='750' height='350'></iframe><div id='bottomdiv' style='margin-left:33px;'>Spotlight Media Productions Review.</div></div></div>";
+document.getElementById("CusBnew").innerHTML='<img src="images/loading.gif">';
+//url = "CusBreview2.php";
+			url = "CusA3Recognition15.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#CusBnew").html(result);
+  				}
+ 				}
+			});
+
+}
+else if(radiobuttonvalue=='12')
+{
+document.getElementById('CusBnew').innerHTML="<div><div id='headingdiv' style='height:120px;'>Inspirational.<div style='text-align:center;margin-left: 50px;'><img src='images/unbeaten.png'></div></div><div id='imagediv' style='margin-left:160px;height:400px;'><iframe src='http://www.youtube.com/embed/Au1TelVC_Ow?rel=0&showinfo=0&autoplay=1&autohide=1' width='640' height='360'></iframe><div id='bottomdiv' style='margin-left:-8px;'>Celebrity Endorsements</div></div></div>";
+
+}
+else if(radiobuttonvalue=='16')
+{
+//document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv' style='height:120px;'>Inspirational.<div style='text-align:center;margin-left: 50px;'><img src='images/unbeaten.png'></div></div><div id='imagediv' style='margin-left:113px;height:400px;'><iframe src='CusB2Recognition13.php' width='750' height='350'></iframe><div id='bottomdiv' style='margin-left:21px;'>Letter From Unbeaten Medal Recipient James W.</div></div></div>";
+
+document.getElementById("CusBnew").innerHTML='<img src="images/loading.gif">';
+			url = "CusB2Recognition13.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#CusBnew").html(result);
+  				}
+ 				}
+			});
+
+}
+else if(radiobuttonvalue=='14')
+{
+document.getElementById('CusBnew').innerHTML="<div><div id='headingdiv'style='height:120px;'>Inspirational.<div style='text-align:center;margin-left: 50px;'><img src='images/unbeaten.png'></div></div><div id='imagediv' style='margin-left:160px;height:400px;'><iframe src='http://www.youtube.com/embed/rJ_QQKMa-nk?rel=0&showinfo=0&autoplay=1&autohide=1' width='640' height='360'></iframe><div id='bottomdiv' style='margin-left:1px;'>Film Screening In Everett, Washington</div></div></div>";
+
+}
+else if(radiobuttonvalue=='19')
+{
+document.getElementById('CusBnew').innerHTML="<div><div id='headingdiv'style='height:50px;' >Encouraging.</div><div id='imagediv' style='margin-left:170px;height:470px;'><iframe src='http://www.youtube.com/embed/uq1X1Erm5Bs?list=UUVZF3mkikfY0-lcKKV0R_cA?rel=0&showinfo=0&autoplay=1&autohide=1' width='640' height='360'></iframe><div id='bottomdiv' style='margin-left:1px;'>Reviews from 4th Grade Students.</div></div></div>";
+
+}
+else if(radiobuttonvalue=='20')
+{
+
+//document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv' >Inspirational.</div><div id='imagediv' style='margin-left:20px;height:450px;'><iframe src='CusBRecognition1.php' width='750' height='400'></iframe><div id='bottomdiv' style='margin-left:25px;'>MOves Magazine Feature Film Review</div></div></div>";
+document.getElementById("CusBnew").innerHTML='<img src="images/loading.gif">';
+			url = "CusBRecognition20.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#CusBnew").html(result);
+  				}
+ 				}
+			});
+}
+
+}
+</script>
+<script type="text/javascript">
+function award(radiobuttonvalue)
+{
+if(radiobuttonvalue=='1')
+{
+document.getElementById('1').checked=true;
+document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:215px;'><img src='images/CusB1Awards1.jpg' height='450'  /></div>";	
+}
+else if(radiobuttonvalue=='2')
+{
+	document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:225px;'><img src='images/CusB1Awards2.jpg' height='450'  /></div>";
+	
+}
+else if(radiobuttonvalue=='3')
+{
+	document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:195px;'><img src='images/CusB1Awards3.jpg' height='450'  /></div>";
+		
+}
+else if(radiobuttonvalue=='4')
+{
+document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:195px;'><img src='images/CusB1Awards4.jpg' height='450'  /></div>";
+		
+}
+else if(radiobuttonvalue=='5')
+{
+	document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:215px;'><img src='images/CusB1Awards5.jpg' height='450'  /></div>";
+}
+else if(radiobuttonvalue=='6')
+{
+	document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:225px;'><img src='images/CusB1Awards6.jpg' height='450'  /></div>";
+		
+}
+else if(radiobuttonvalue=='7')
+{
+	document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:137px;'><img src='images/CusA3Recognition4.png' height='450'  /></div>";
+			
+}
+else if(radiobuttonvalue=='8')
+{
+	document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:181px;'><img src='images/CusB1Awards8.jpg' height='450'  /></div>";
+		
+}
+else if(radiobuttonvalue=='9')
+{
+	document.getElementById('CusBnew').innerHTML="<div style='height:550px;'><div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:235px;'><img src='images/CusB1Awards9.jpg' height='450'  /></div>";
+			
+}
+}
+</script>
+<script type="text/javascript">
+function changerecgtn(radiovalues)
+{
+if(radiovalues=='13')
+{
+	document.getElementById('13').checked=true;
+	document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:115px;height:500px;'><img src='images/CusA3Recognition1.png' height='450' />";
+
+}
+else if(radiovalues=='14')
+{
+	document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:115px;height:500px;'><img src='images/CusA3Recognition2.png' height='450' />";
+	
+}
+else if(radiovalues=='15')
+{
+	document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:115px;height:500px;'><img src='images/CusA3Recognition3.png' height='450' />";
+	
+}
+else if(radiovalues=='16')
+{
+		document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:133px;height:500px;'><img src='images/CusA3Recognition4.png' height='450' />";
+
+}
+else if(radiovalues=='17')
+{
+	document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:135px;height:500px;'><img src='images/CusA3Recognition5.png' height='450' />";
+	
+}
+else if(radiovalues=='18')
+{
+	document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:115px;height:500px;'><img src='images/CusA3Recognition6.png' height='450' />";
+}
+else if(radiovalues=='19')
+{
+	//document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Inspirational.</div><div style='text-align:center;margin-left: 50px;'><img src='images/unbeaten.png'></div><div id='imagediv' style='margin-left:115px;height:400px;'><iframe src='CusA3recg7.php' width='750' height='370'></iframe><div id='bottomdiv' style='margin-left:40px;'>Time Magazine Top 10 Summer Olympic Movie of all Time</div></div>";
+	
+	document.getElementById("CusA3Div").innerHTML='<img src="images/loading.gif">';
+			url = "CusA3recg7.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#CusA3Div").html(result);
+  				}
+ 				}
+			});
+			
+}
+else if(radiovalues=='20')
+{
+	document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Influential.</div><div id='imagediv' style='margin-left:0px; text-align: center;'><img src='images/CusA3Recognition8.png' /> <div id='bottomdiv' style='position: relative; margin-left:0px; width: 100%; top: 0px; text-align: center;'>World Wide Film Festivals</div></div>";
+	
+}
+else if(radiovalues=='21')
+{
+	document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Inspirational.</div><div style='text-align:center;margin-left: 50px;'><img src='images/unbeaten.png'></div><div id='imagediv' style='margin-left:177px;height:400px;'><iframe width='640' height='370' src='http://www.youtube.com/embed/Au1TelVC_Ow?rel=0&showinfo=0&autoplay=1&autohide=1' frameborder='0' allowfullscreen></iframe><div id='bottomdiv' style='margin-left:-8px;'>Celebrity Endorsements</div></div>";
+	
+}
+else if(radiovalues=='22')
+{
+	//document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Inspirational.</div><div style='text-align:center;margin-left: 50px;'><img src='images/unbeaten.png'></div><div id='imagediv' style='margin-left:115px;height:400px;'><iframe src='CusA3Recognition10.php' width='750' height='370'></iframe><div id='bottomdiv' style='width:768px'>Article in Everett Herald, Everett, Washington</div></div>";
+	document.getElementById("CusA3Div").innerHTML='<img src="images/loading.gif">';
+			url = "CusA3Recognition10.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#CusA3Div").html(result);
+  				}
+ 				}
+			});
+		
+}
+else if(radiovalues=='23')
+{
+	document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Inspirational.</div><div style='text-align:center;margin-left: 50px;'><img src='images/unbeaten.png'></div><div id='imagediv' style='margin-left:170px;height:400px;'><iframe width='640' height='370' src='http://www.youtube.com/embed/rJ_QQKMa-nk?rel=0&showinfo=0&autoplay=1&autohide=1' frameborder='0' allowfullscreen></iframe><div id='bottomdiv'>Film Screening In Everett, Washington</div></div>";
+	
+}
+else if(radiovalues=='24')
+{
+	//document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Inspirational.</div><div style='text-align:center;margin-left: 50px;'><img src='images/unbeaten.png'></div><div id='imagediv' style='margin-left:115px;height:400px;'><iframe src='CusA3Recognition12.php' width='750' height='370'></iframe><div id='bottomdiv' style='width:816px'>Letter From Unbeaten Medal Recipient Victor H.</div></div>";
+	document.getElementById("CusA3Div").innerHTML='<img src="images/loading.gif">';
+			url = "CusA3Recognition12.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#CusA3Div").html(result);
+  				}
+ 				}
+			});
+	
+}
+else if(radiovalues=='25')
+{
+	//document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Inspirational.</div><div style='text-align:center;margin-left: 50px;'><img src='images/unbeaten.png'></div><div id='imagediv' style='margin-left:115px;height:400px;'><iframe src='CusA3Recognition13.php' width='750' height='370'></iframe><div id='bottomdiv' style='width:785px'>Letter From Unbeaten Medal Recipient James W.</div></div>";
+	document.getElementById("CusA3Div").innerHTML='<img src="images/loading.gif">';
+			url = "CusA3Recognition13.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#CusA3Div").html(result);
+  				}
+ 				}
+			});
+	
+}
+else if(radiovalues=='26')
+{
+	//document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Encouraging.</div><div style='text-align:center;margin-left: 50px;'><img src='images/unbeaten.png'></div><div id='imagediv' style='margin-left:115px;height:400px;'><iframe src='CusA3Recognition14.php' width='750' height='370'></iframe><div id='bottomdiv' style='width:777px'>NYC Movie Guru Review.</div></div>";
+	document.getElementById("CusA3Div").innerHTML='<img src="images/loading.gif">';
+			url = "CusA3Recognition14.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#CusA3Div").html(result);
+  				}
+ 				}
+			});
+	
+}
+else if(radiovalues=='27')
+{
+//document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Encouraging.</div><div style='text-align:center;margin-left: 50px;'><img src='images/unbeaten.png'></div></div><div id='imagediv' style='margin-left:115px;height:400px;'><iframe src='CusA3Recognition15.php' width='750' height='370'></iframe><div id='bottomdiv' style='margin-left:35px;'>Spotlight Media Productions Review.</div></div>";
+            
+			document.getElementById("CusA3Div").innerHTML='<img src="images/loading.gif">';
+			url = "CusA3Recognition15.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#CusA3Div").html(result);
+  				}
+ 				}
+			});
+}
+else if(radiovalues=='28')
+{
+	
+	document.getElementById('CusA3Div').innerHTML="<div id='headingdiv'>Encouraging.</div><div id='imagediv' style='margin-left:170px;height:400px;'><iframe width='640' height='370' src='http://www.youtube.com/embed/uq1X1Erm5Bs?list=UUVZF3mkikfY0-lcKKV0R_cA?rel=0&showinfo=0&autoplay=1&autohide=1' frameborder='0' allowfullscreen></iframe><div id='bottomdiv222' style='margin-left:0px;'>Reviews from 4th Grade Students.</div></div>";
+		
+}	
+else if(radiovalues=='33')
+{
+	
+	document.getElementById("CusA3Div").innerHTML='<img src="images/loading.gif">';
+			url = "CusA3recg33.php";
+			$.ajax({
+ 				url: url,
+				type: "POST",
+				success: function(result){
+  				if(result)
+  				{  
+          			$("#CusA3Div").html(result);
+  				}
+ 				}
+			});
+}
+
+}
+</script>
+<script type="text/javascript">
+function cofounder1(radiobuttonvalue)
+{
+if(radiobuttonvalue=='1')
+{
+	
+	document.getElementById('1').checked=true;
+	document.getElementById('aboutpolariscustomer').innerHTML="<div id='headingdiv'>Shane Krider.</div><div id='imagediv' style='margin-left:203px;'><img src='images/shane.png' width='580' height='400' /></div>";
+	
+}
+else if(radiobuttonvalue=='2')
+{
+	document.getElementById('aboutpolariscustomer').innerHTML="<div id='headingdiv'>Rachel Krider.</div><div id='imagediv' style='margin-left:203px;'><img src='images/rachel.png' width='580' height='400' /></div>";
+
+			
+}
+else if(radiobuttonvalue=='3')
+{
+	document.getElementById('aboutpolariscustomer').innerHTML="<div id='headingdiv'>Gregory Strom.</div><div id='imagediv' style='margin-left:180px;'><img src='images/gregory.png' width='580' height='400' /></div>";
+	
+}
+else if(radiobuttonvalue=='4')
+{
+document.getElementById('aboutpolariscustomer').innerHTML="<div id='headingdiv'>Meet The Founders.</div><div id='imagediv' style='margin-left:180px;'><iframe width='640' height='360' src='http://www.youtube.com/embed/JtdoGcOXJXk?rel=0&showinfo=0&autoplay=1&autohide=1' frameborder='0' allowfullscreen></iframe></div>";
+
+}
+else if(radiobuttonvalue=='5')
+{
+	document.getElementById('aboutpolariscustomer').innerHTML="<div id='headingdiv'>With Gratitude.</div><div id='imagediv' style='margin-left:180px;'><iframe width='640' height='360' src='http://www.youtube.com/embed/jTWmKARgaLc?rel=0&showinfo=0&autoplay=1&autohide=1' frameborder='0' allowfullscreen></iframe></div>";
+
+}
+
+}
+</script>
+<script type="text/javascript">
+function cofounder(radiobuttonvalue)
+{
+if(radiobuttonvalue=='1')
+{
+	document.getElementById('1').checked=true;
+	document.getElementById('headingdiv').innerHTML="Shane Krider.";
+	document.getElementById('imagediv').innerHTML='<img src="images/shane.png" width="580" height="400" />';	
+}
+else if(radiobuttonvalue=='2')
+{document.getElementById('headingdiv').innerHTML="Rachel Krider.";
+	document.getElementById('imagediv').innerHTML='<img src="images/rachel.png" width="580" height="400" />';	
+			
+}
+else if(radiobuttonvalue=='3')
+{
+	document.getElementById('headingdiv').innerHTML="Gregory Strom.";	
+document.getElementById('imagediv').innerHTML='<img src="images/gregory.png" width="580" height="400" />';	
+	
+}
+else if(radiobuttonvalue=='4')
+{
+	document.getElementById('headingdiv').innerHTML="Meet The Founders.";
+	document.getElementById('imagediv').innerHTML='<iframe width="640" height="360" src="http://www.youtube.com/embed/JtdoGcOXJXk?rel=0&showinfo=0&autoplay=1&autohide=1" frameborder="0" allowfullscreen></iframe>';	
+}
+else if(radiobuttonvalue=='5')
+{
+	document.getElementById('headingdiv').innerHTML="With Gratitude.";
+	document.getElementById('imagediv').innerHTML='<iframe width="640" height="360" src="http://www.youtube.com/embed/jTWmKARgaLc?rel=0&showinfo=0&autoplay=1&autohide=1" frameborder="0" allowfullscreen></iframe>';	
+}
+}
+</script>
+<script type="text/javascript">
+function experience(radiobuttonvalue)
+{
+document.getElementById("imagediv").innerHTML="";
+document.getElementById("imagediv11").innerHTML="";
+document.getElementById("imagediv22").innerHTML="";
+document.getElementById("imagediv33").innerHTML="";	
+$("#imagediv").hide();
+$("#imagediv11").hide();
+$("#imagediv22").hide();
+$("#imagediv33").show();
+$("#headingdiv").hide();
+$("#headingdivsub1").hide();
+$("#headingdivsub2").hide();
+	
+	
+if(radiobuttonvalue=='1')
+{
+document.getElementById('8').checked=true;
+document.getElementById('imagediv33').innerHTML="<div id='headingdiv'>Better than I expected.</div><div id='imagediv' style='margin-left:80px;'><img src='images/CusA2Review1.jpg' width='800' height='400' />";	
+
+}
+else if(radiobuttonvalue=='2')
+{
+	document.getElementById('imagediv33').innerHTML="<div id='headingdiv'>Loved it.</div><div id='imagediv' style='margin-left:99px;'><img src='images/CusA2Review2.jpg' width='800' height='400' />";
+		
+}
+else if(radiobuttonvalue=='3')
+{
+	document.getElementById('imagediv33').innerHTML="<div id='headingdiv'>Will definitely be back.</div><div id='imagediv' style='margin-left:55px;'><img src='images/CusA2Review3.jpg' width='800' height='400' />";
+	
+}
+else if(radiobuttonvalue=='4')
+{
+	document.getElementById('imagediv33').innerHTML="<div id='headingdiv'>Much, much more.</div><div id='imagediv' style='margin-left:120px;'><img src='images/CusA2Review4.jpg' width='800' height='400' />";
+	
+}
+else if(radiobuttonvalue=='5')
+{
+	document.getElementById('imagediv33').innerHTML="<div id='headingdiv'>Thank you. Thank you. Thank you.</div><div id='imagediv' style='margin-left:62px;'><img src='images/CusA2Review5.jpg' width='800' height='400' />";
+	
+}
+else if(radiobuttonvalue=='6')
+{
+	document.getElementById('imagediv33').innerHTML="<div id='headingdiv'>Absolutely amazing.</div><div id='imagediv' style='margin-left:85px;'><img src='images/CusA2Review6.jpg' width='800' height='400' />";
+			
+}
+else if(radiobuttonvalue=='7')
+{
+	document.getElementById('imagediv33').innerHTML="<div id='headingdiv'>An exciting life journey.</div><div id='imagediv' style='margin-left:63px;'><img src='images/CusA2Review7.jpg' width='800' height='400' />";
+		
+}else if(radiobuttonvalue=='8')
+{
+	document.getElementById('imagediv33').innerHTML="<div id='headingdiv'>Totally awesome.</div><div id='imagediv' style='margin-left:85px;'><img src='images/CusA2Review8.jpg' width='800' height='400' />";
+		
+}else if(radiobuttonvalue=='9')
+{
+	document.getElementById('imagediv33').innerHTML="<div id='headingdiv'>Wow! Many breakthroughs.</div><div id='imagediv' style='margin-left:54px;'><img src='images/CusA2Review9.jpg' width='800' height='400' />";
+			
+}else if(radiobuttonvalue=='10')
+{
+	document.getElementById('imagediv33').innerHTML="<div id='headingdiv'>Really well run.</div><div id='imagediv' style='margin-left:103px;'><img src='images/CusA2Review10.jpg' width='800' height='400' />";
+			
+}
+}
+</script>
+<script type="text/javascript" language="javascript">
+function cus_success(radiovalue)
+{
+
+if (window.XMLHttpRequest)
+  {
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    { 
+	var result=xmlhttp.responseText;
+		document.getElementById('imagedivsu').innerHTML=result;
+	    document.getElementById('headingdiv').innerHTML="";
+		if(radiovalue==1) {
+		document.getElementById('1').checked = true; }
+		    }
+  }
+xmlhttp.open("GET","cus_ravingfans.php?id=" + radiovalue,true);
+xmlhttp.send();
+
+}
+
+
+
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Polaris</title>
+
+<!--[if IE]>
+<link href="css/older.css" rel="stylesheet" type="text/css" />
+<![endif]--> 
+<!--[if !IE]><!-->
+ <link href="css/style.css" rel="stylesheet" type="text/css">
+ <link href="css/stylenew.css" rel="stylesheet" type="text/css">
+ <!--<![endif]-->
+<!-- Start VideoLightBox.com HEAD section -->
+			<link rel="stylesheet" href="864_videolb/videolightbox.css" type="text/css">
+		
+			<link rel="stylesheet" type="text/css" href="864_videolb/overlay-minimal.css">
+			<!--<script src="864_videolb/jquery.js" type="text/javascript"></script>-->
+			<script src="864_videolb/swfobject.js" type="text/javascript"></script>
+		<!-- End VideoLightBox.com HEAD section -->
+</head>
+<body><input type="hidden" id="HFSession" value="">
+<div id="main_content_frame">
+  <div id="main_content">
+  <!--menu-->
+    <div id="top_bar">
+      <a href="index.php"><div id="menus_logo"><img src="images/logo.png" width="44" height="31"></div></a>
+      <!-- <div id="menus_logo"><div style="float:left;
+      width:50px; height:36px;"></div></div>-->
+      <a href="CusA.php"><div id="menus">Products</div></a>
+      <a href="BBAboutPolarisCustomer.php"><div id="menus">About Polaris</div></a>
+      <a href="raving.php"><div id="menus">Success Stories</div></a>
+      <a href="socialmedia.php"><div id="menus">Social Media</div></a>
+      <!--<div id="menus" style="width:10%;"><a href="CusB.php">Awards</a></div>-->
+      <a href="javascript:popUp1('http://polarisbusinessmanager.com')"><div id="menus">Back Office</div></a>
+<div id="login_area">
+
+<form action="loginaction.php"> <!--<div id="login_area_text" onclick="login();">Login</div>-->
+ <input name="username" size="15" style="width:76px; color:#A6A6A6; position: relative; top: -2px;" value="Username" onclick="this.value=''">
+ <input name="password" size="10" onkeypress="return submitenter(this,event)" style="width:76px; color:#A6A6A6; position: relative; top: -2px;" value="Password" onclick="this.value=''">
+	<input class="login_button" type="SUBMIT" value="Login">
+
+</form>
+      </div>
+    </div>
+            <!--menu_end--><div id="banner_areas">
+<div id="headingdiv" style="height:60px;">Privacy Policy.</div>
+<div id="policy" style="margin-top:30px;">
+<p style="text-align: left;">
+	<span id="mainpara">
+We respect and are committed to protecting your privacy.
+That is why we have adopted this Privacy Policy. This Privacy
+Policy lets you know how your personal information is processed
+and explains data collection and use practices for the Polaris
+Global Network. The "Polaris Global Network" includes all Web
+pages, newsletters, discussion forums and lists and opt-in
+announcement lists owned and operated by Polaris Global,
+and each of its wholly-owned subsidiaries as linked directly
+or indirectly from the polarisglobalmarketing.com (collectively
+the "Site") home page (collectively hereafter "Polaris Global").
+By accessing the Polaris Global Network, you are consenting
+to the information collection and use practices described in
+this Privacy Policy. We promise that we will use your personal
+information only in ways that are compatible with this Privacy
+Policy as follows:</span><br><br>
+<span id="subpara">
+What information are you collecting and how are you collecting it?
+Do you collect IP addresses?</span><br>
+<span id="mainpara">Every computer connected to the Internet is given a domain
+name and a set of numbers that serve as a computer's
+"Internet Protocol" (IP) address. When a visitor requests a
+page from any Web site within the Polaris Global Network,
+our Web servers automatically recognize that visitor's domain
+name and IP address. The domain name and IP address reveal
+nothing personal about you other than the IP address from
+which you have accessed our Sites. We use this information
+to examine our traffic in aggregate, and to investigate misuse
+of the Polaris Global Network, its users, or to cooperate with
+law enforcement. We do not collect and evaluate this information
+for specific individuals. Our Web servers do not automatically
+record e-mail addresses of the visitors.</span><br><br>
+<span id="subpara">
+What are cookies?</span><br>
+<span id="mainpara">
+From time to time, Polaris Global or its advertisers may send
+a "cookie" to your computer. A cookie is a small piece of data
+that is sent to your Internet browser from a Web server and
+stored on your computer's hard drive. A cookie can not read
+data off of your computer hard disk or read cookie files created
+by other Web sites. Cookies do not damage your system. We
+use cookies to identify which areas of Polaris Global's Network
+you have visited or customized, so the next time you visit those
+pages they may be readily accessible. Our advertisers may also use
+cookies to ascertain how many times you have seen an
+advertisement. Our advertisers and we may use this information
+to better personalize the content, banners, and promotions that
+you see on our site. You can choose whether to accept cookies
+by changing the settings of your Internet browser. You can reset
+your browser to refuse all cookies, or allow your browser to show
+you when a cookie is being sent. If you choose not to accept
+these cookies, your experience at our site and other web sites
+may be diminished and some features may not work as intended.</span><br><br>
+<span id="subpara">
+How do you use single-pixel gifs?</span><br>
+<span id="mainpara">
+Polaris Global and its advertisers may use single-pixel gif images,
+sometimes referred to as web bugs or web beacons, to count
+web page accesses and gather some general statistical information.
+Polaris Global does not gather personal information through the use
+of these images. Our advertisers may use single-pixel gifs that can
+track personal information from cookies that may have been
+previously placed on a user's computer by an advertiser.
+</span><br><br>
+<span id="subpara">
+What personal information do you collect?</span><br>
+<span id="mainpara">
+Wherever Polaris Global collects personal information we make
+an effort to include a link to this Privacy Policy. We will ask you
+when we need information that personally identifies you
+(personal information) or allows us to contact you. The
+personal information we collect may include your name, title,
+company or organization name, e-mail address, phone number,
+work or home address, information about your job function,
+information about your company, and credit card information.
+We may request your e-mail address or mailing address for
+the purposes of conducting a contest or to provide additional
+services (for example, subscriptions to announcement lists or
+information about conferences and products). Participation in
+contests or other promotions on the Polaris Global Network is
+completely voluntary and you have a choice whether or not to
+disclose personal information. Information requested may include
+contact information (such as name and shipping address), and
+demographic information (such as zip code). Contact information
+will be used to notify the winners and award prizes.  If you are
+purchasing something on the Polaris Global Network, we, and
+any third party provider, need to know your name, e-mail
+address, mailing address, credit card number and expiration
+date. This allows us, or third party providers, to process and
+fulfill your order and to notify you of your order status. Credit
+card and e-mail information will not be shared or sold to third
+parties for any purpose except as provided in this Privacy Policy
+without your express permission.  Polaris Global also offers
+access to some services that require registration. We may
+use your registration contact information to send notification
+to you of products and services by e-mail and/or postal mail.
+We may also use your IP address internally and share it with
+third parties.
+You may stop the arrival of announcements and
+newsletters at any time by removing your e-mail address from
+the list by forwarding the request to 
+support@mypgmail.com or by following the instructions
+on the e-mails you receive. When you use co-branded services,
+or those provided by a third party, within the Polaris Global Network,
+your information may be passed to the co-brand or third party
+provider and their use of your information is subject to their
+applicable privacy policies. We may from time to time send e-mails
+announcing new products and services. If you choose to supply
+your postal address in an online form, you may receive postal
+mailings from Polaris Global or third party companies.
+</span><br><br>
+<span id="subpara">
+Will you disclose the information you collect to outside third parties?</span>
+<span id="mainpara"><br>
+Polaris Global will disclose personal information and/or an IP address:
+1. To contact you regarding other products and services which
+may be of interest to you (including those we may offer jointly
+with other companies). At any time, however, you may opt out
+of such contact;
+2. When required by law or in the good-faith belief that such
+action is necessary to:
+A. Cooperate with the investigations of purported unlawful activities
+and conform to the edicts of the law or comply with legal 
+processes served on Polaris Global;
+B. Protect and defend the rights or property of the Polaris
+Global Network of sites and related properties, or visitors to
+the Polaris Global Network of sites and related properties;
+C. Identify persons who may be violating the law, the Polaris
+Global legal notice and Web site User Agreement, the rights
+of third parties, or otherwise misusing the Polaris Global Network
+or its related properties;
+D. Fulfill a user's order or request; to process and fulfill your
+order or notify you of order status; when we have your consent
+to share the information; when you use co-branded services
+within our network of sites, you grant us permission to pass
+your registration information back to that service partner. Their
+use of your information is subject to their applicable privacy
+policies.
+We maintain a strict "No-Spam" policy that means that we do
+not sell, rent, or otherwise give your e-mail address to a third-party,
+without your consent or as permitted by this Privacy Policy.
+</span><br><br><span id="subpara">
+What else should I know about my privacy when online?</span><br>
+<span id="mainpara">
+The Polaris Global Network contains many hyperlinks to third
+party web sites. The Polaris Global Network may also contain
+advertisements of third parties. Polaris Global is not responsible
+for the privacy practices or the content of such third party web
+sites or advertisers. Polaris Global does not share any of the
+individual personal information you provide Polaris Global with
+the third parties to which Polaris Global links, except as stated
+elsewhere within this Privacy Policy, although Polaris Global may
+share general, aggregate data with such third parties (such as
+how many people use our site). Please check with those web
+sites to determine their privacy policy.
+If you use Polaris Global's discussion threads, you should be
+aware that any personally identifiable information you submit
+there can be read, collected, or used by other users of these
+forums, and could be used to send you unsolicited messages.
+We are not responsible for the personally identifiable information
+you choose to submit in these discussion threads. In order to
+avoid your e-mail address or other personal information from
+being gathered and used by others for inappropriate or harmful
+purposes, Polaris Global advises that you should be cautious
+about posting a real e-mail address or other personal information
+to newsgroups, chats, or other public forums.
+Please keep in mind that whenever you voluntarily disclose
+personal information online - for example through email,
+discussion lists, or elsewhere - that information can be collected
+and used by others. In short, if you post personal information
+online that is accessible to the public, you may receive unsolicited
+messages from other parties in return.
+Certain Polaris Global media properties use a shopping-cart
+feature that safeguards this information by using industry
+standard SSL (Secure Socket Layer) encrypted servers.
+SSL codes the information transferred between you and
+the server, rendering it unreadable to anyone trying to
+intercept the information. Other Polaris Global media properties
+do not use SSL and thereby do not offer a secure coded way
+to transfer information.
+Ultimately, you are solely responsible for maintaining the secrecy
+of your personal information. Please be careful and responsible
+whenever you are online.</span>
+<br><br><span id="subpara">
+Business Transfers</span><br>
+<span id="mainpara">
+We are always seeking to improve our network of web sites
+and our business. In accomplishing these objectives, we may
+sell a company, assets or websites or one or more of the
+companies in our corporate family may merge with, or be
+acquired by, another company. In connection with the foregoing,
+we may transfer some or all of your information in order that
+the service being provided to you may continue, or for other
+business purposes.
+</span>
+<br><br><span id="subpara">
+Your Consent To This Agreement</span><br>
+<span id="mainpara">
+By using the Polaris Global Network, you consent to the collection
+and use of information by Polaris Global as specified above. We
+reserve the right to modify this Policy. If we decide to change
+our Privacy Policy, we will post those changes on this page so
+that you are always aware of what information we collect, how
+we use it, and under what circumstances we disclose it.
+Please send any questions about Polaris Global's Privacy Policy
+to: support@mypgmail.com.
+</span>
+</p>
+</div></div>
+ <script language="JavaScript">
+<!-- Begin
+function popUp(URL) {
+	 $("#testimonialpopupBox").hide();
+	 $("#contactpopupBox").hide();
+	  $("#buzzingpopupBox").hide();
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=1020,height=800,left = 400,top = 65');");
+}
+// End -->
+</script>
+ <script src="http://code.jquery.com/jquery-latest.js"></script>
+ <script type="text/javascript">
+$(document).ready(function(){
+  //popup for buzzing
+    $(".popupButton").click(function() { 
+             $("#popupBox").show();
+			 $("#testimonialpopupBox").hide();
+             $("#backsheet").show();
+			 $("#contactpopupBox").hide();
+			 $("#buzzingpopupBox").hide();
+    });
+    $(".buttonClose").click(function() {
+         $("#popupBox").hide();
+         $("#backsheet").hide();
+     });
+	 //popup for testimonial
+    $(".testimonialpopup").click(function() { 
+             $("#testimonialpopupBox").show();
+           $("#popupBox").hide();
+		   $("#contactpopupBox").hide();
+		   $("#buzzingpopupBox").hide();
+    });
+    $(".testimonialbuttonClose").click(function() {
+         $("#testimonialpopupBox").hide();
+       
+     });
+	 //popup for contact
+    $(".contactpopup").click(function() { 
+             $("#contactpopupBox").show();
+			 $("#testimonialpopupBox").hide();
+			 $("#popupBox").hide();
+             $("#backsheet4").show();
+			 $("#buzzingpopupBox").hide();
+    });
+    $(".contactbuttonClose").click(function() {
+         $("#contactpopupBox").hide();
+         $("#backsheet4").hide();
+     });
+	 //buzzing
+	  $(".buzzingButton").click(function() {
+		   $("#contactpopupBox").hide(); 
+	  $("#testimonialpopupBox").hide();
+			 $("#popupBox").hide();
+             $("#buzzingpopupBox").show();
+             $("#backsheet2").show();
+			 document.getElementById('buzzing').innerHTML='<iframe width="640" height="360" src="http://www.youtube.com/embed/m3TiRUXqJUA?list=UUVZF3mkikfY0-lcKKV0R_cA?rel=0&showinfo=0&autoplay=1&autohide=1" frameborder="0" allowfullscreen></iframe>';
+    });
+	 $(".buzzingbuttonClose").click(function() {
+         $("#buzzingpopupBox").hide();
+         $("#backsheet2").hide();
+		 document.getElementById('buzzing').innerHTML='';
+     });
+});
+</script>
+ <div id="footer"><a href="javascript:popUp('http://news.polarisglobal.com/')">News</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="javascript:popUp('http://www.polarisglobalblog.com/category/latest-updates/')">Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <!--  <a href="privacypolicy.php">Privacy Policy</a>-->
+   <a href="privacypolicy.php">Privacy Policy</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <!--<a href="#" class="testimonialpopup">Testimonial Disclosure</a>--><a href="testimonial.php">Testimonial Disclosure</a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+   <a href="contact_us.php">Contact</a></div>
+  <div id="copy">© 2013  Polaris Global Media, Inc.</div>
+  <div id="backsheet"></div>
+
+<div id="buzzingpopupBox" style="left:310px;">
+    <span class="buzzingbuttonClose">X</span>
+<div id="buzzing">
+<!-- <div id="backsheet2"></div>-->
+
+</div></div>
+<div id="testimonialpopupBox" style="left: 310px;
+    top: 83px;
+    width: 660px;">
+    <span class="testimonialbuttonClose">X</span>
+
+<div id="contact" align="center" style=" height: 300px;
+    margin-left: 47px;
+    margin-top: 28px;
+    width: 530px;">
+<div id="headingcotact">Testimonial Disclosure</div>
+<div id="testimonial">
+The testimonials presented are applicable to
+the individuals depicted and may not be
+representative of the experience of others.
+The testimonials are not paid and are not
+indicative of future results.</div>
+</div>
+<div id="backsheet3"></div>
+</div>
+<div id="contactpopupBox" style="width:660px; left:308px; top:94px;">
+    <span class="contactbuttonClose">X</span>
+<div id="contact" align="center" style="margin-left:1px;">
+<div id="headingcotact1">Contact Us.</div>
+<div id="testimonial" class="contact_us">
+Corporate Phone&nbsp;&nbsp;(USA) :&nbsp;&nbsp;&nbsp;&nbsp;480-522-1024<br><br>
+&nbsp; &nbsp; &nbsp;&nbsp;<a href="mailto:info@mypgmail.com?subject=Hi">Email Us</a>
+<p>&nbsp;
+	</p></div>
+</div>
+</div>
+</div></div>
+
+<!--</body></html>-->   
+
+
+
+
+</body></html>
