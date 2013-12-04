@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axandra.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624150224id_/http%3A//www.axandra.com/seo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axandra.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204022343id_/http%3A//www.axandra.com/company/privacy-policy.htm) for the most accurate reproduction.*
 
 # privacy-policy | Axandra SEO software tools
 
