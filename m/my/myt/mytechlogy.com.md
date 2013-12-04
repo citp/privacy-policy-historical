@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytechlogy.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603081445id_/http%3A//www.mytechlogy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytechlogy.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204011100id_/http%3A//www.mytechlogy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Consulting Hub for IT (Information Technology) Professionals - MyTechLogy
 
