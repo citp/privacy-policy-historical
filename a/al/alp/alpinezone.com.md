@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602164017id_/http%3A//www.alpinezone.com/other/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204222525id_/http%3A//www.alpinezone.com/other/privacy-policy) for the most accurate reproduction.*
 
 # AlpineZone.com Privacy Policy
 
-[AlpineZone.com](http://www.alpinezone.com/ "Go to AlpineZone.com.")[Footer](http://www.alpinezone.com/other/ "Go to Footer.")Privacy Policy 
+
 
 
 We are committed to protecting your privacy at AlpineZone.com. We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in any way that we have not mentioned in this statement. For more information, please click one of the links below:
