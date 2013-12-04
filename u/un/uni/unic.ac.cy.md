@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unic.ac.cy privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622025612id_/http%3A//unic.ac.cy/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unic.ac.cy privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204210728id_/http%3A//www.unic.ac.cy/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | University of Nicosia
 
