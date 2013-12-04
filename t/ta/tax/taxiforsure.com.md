@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taxiforsure.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605143206id_/http%3A//www.taxiforsure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxiforsure.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204083220id_/http%3A//www.taxiforsure.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Taxi for Sure
+# Taxi or Radio Cabs Book Online in Bangalore & Delhi & Car Rentals from TaxiforSure
 
 TaxiForSure.com respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites.
 
