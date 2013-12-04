@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fun2video.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604010416id_/http%3A//www.fun2video.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fun2video.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204201950id_/http%3A//www.fun2video.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Funny Pictures, Jokes, Cute & Love Pictures & Indian Pictures, Photos, Images
 
@@ -32,9 +32,5 @@ If you wish to disable cookies, you may do so through your individual browser op
 ### Incoming search terms:
 
   * [Fun 2video com](http://www.fun2video.com/privacy-policy/ "Fun 2video com")
-  * [www indianfunnypicture](http://www.fun2video.com/privacy-policy/ "www indianfunnypicture")
-  * [fun 2viedo com](http://www.fun2video.com/privacy-policy/ "fun 2viedo com")
-  * [Fun2video web s com](http://www.fun2video.com/privacy-policy/ "Fun2video web s com")
-  * [fun2videos@gmail com](http://www.fun2video.com/privacy-policy/ "fun2videos@gmail com")
 
 
