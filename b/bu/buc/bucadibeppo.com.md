@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bucadibeppo.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601225339id_/http%3A//www.bucadibeppo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucadibeppo.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204012141id_/http%3A//www.bucadibeppo.com/privacy-policy) for the most accurate reproduction.*
 
-# Buca di Beppo Privacy Policy - Buca di Beppo Italian Restaurant
+# Buca di Beppo Privacy Policy - Buca di Beppo Italian Restaurant and Banquet Facility
 
 Your privacy is very important to BUCA, Inc.,  ("Buca", "we" or "us"), and we are committed to safeguarding your privacy.  In this privacy policy ("Privacy Policy"), the use of "You" or "Visitor(s)" refers to any user of the products or services offered on the Buca website ("Website").  All Website use is subject to this Privacy Policy.  Please read this Privacy Policy to understand the care with which Buca will treat your information.  If you have any questions about our Privacy Policy, please contact Buca at [privacy@bucainc.com](mailto:privacy@bucainc.com). 
 
@@ -84,8 +84,9 @@ To inquire about any portion of this Privacy Policy or our privacy practices, yo
 
 Buca, Inc.  
 Attn: Privacy Enforcement  
-6052 Turkey Lake Road  
-Orlando, Florida 32819
+4700 Millenia Blvd  
+Suite #400  
+Orlando, Florida 32839
 
 **Opting Out**
 
