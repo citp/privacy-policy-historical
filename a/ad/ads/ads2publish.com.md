@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ads2publish.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602011217id_/http%3A//www.ads2publish.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ads2publish.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204123827id_/http%3A//www.ads2publish.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Book Ads Online - Ads2Publish , about-us
 
-The privacy practices of this statement apply to all our services available under the domain of www.ads2publish.com. 
+The privacy practices of this statement apply to all our services available under the domain of www.ads2publish.com.
 
 By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access the Website.
 
@@ -14,7 +14,7 @@ We value your trust in us and we are committed to protect your privacy. Please r
 
 From time to time we may reveal general statistical information about our Website and visitors, such as number of visitors, number and type of goods and services purchased, etc.
 
-User Information:
+**User Information:**
 
 When you use the Website, we collect and store your personal information from you. This allows us to provide services and features that most likely meet your needs, and to customize the website to make your experience safer and easier. Importantly, we only collect personal information about you that we consider necessary for achieving this purpose.
 
@@ -38,9 +38,9 @@ You agree that we may use personal information about you to improve our marketin
 
 You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Website. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications in your profile. You may make changes to your profile at any time. 
 
-Our Disclosure of your information: We may also use your information to deliver information to you that, in some cases, are targeted to your interests, such as new services and promotions. The following are examples of some categories of persons to whom we would share your information with from time���to���time. 
+Our Disclosure of your information: We may also use your information to deliver information to you that, in some cases, are targeted to your interests, such as new services and promotions. The following are examples of some categories of persons to whom we would share your information with from time-to-time. 
 
-Advertisements
+**Advertisements**
 
 Where a user enters information on any form of an advertiser, the information is simultaneously collected by us. Because we do not control the privacy practices of these advertisers, you should evaluate their practices before deciding to provide the said information.
 
@@ -48,26 +48,26 @@ Ads2publish.com may also aggregate (gather up data across all user accounts) per
 
 Where a user enters information on any form of an advertiser, the information is simultaneously collected by us. Because we do not control the privacy practices of these advertisers, you should evaluate their practices before deciding to provide the said information. 
 
-Internal Service Providers: We may use third parties that we refer to as internal service providers to facilitate or outsource one or more aspects of the business, product and service operations that we provide to you on the Website (e.g., discussion boards, bill collection, co���branded credit cards) and therefore we may provide some of your personal information directly to these internal service providers. These internal service providers' are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced website related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the internal service provider may collect information directly from you (such as for website surveys or for a co���branded credit card). In these cases, you will be notified of the involvement of the internal service provider, and all additional information you provide them and their additional uses will be strictly up to you. If you provide additional information to an internal service provider directly, then their use of your personal information is governed by their applicable privacy policy.
+Internal Service Providers: We may use third parties that we refer to as internal service providers to facilitate or outsource one or more aspects of the business, product and service operations that we provide to you on the Website (e.g., discussion boards, bill collection, co-branded credit cards) and therefore we may provide some of your personal information directly to these internal service providers. These internal service providers' are subject to confidentiality agreements with us and other legal restrictions that prohibit their use of the information we provide them for any other purpose except to facilitate the specific outsourced website related operation, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the internal service provider may collect information directly from you (such as for website surveys or for a co-branded credit card). In these cases, you will be notified of the involvement of the internal service provider, and all additional information you provide them and their additional uses will be strictly up to you. If you provide additional information to an internal service provider directly, then their use of your personal information is governed by their applicable privacy policy.
 
-Legal Requests:
+**Legal Requests:**
 
-We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and the community from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, UserID history, fraud complaints, and purchase/using Website services��� history without a a court order or substantially similar legal procedure. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement or other government officials without a court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss; or report suspected illegal activity. Further, we can (and you authorize us to) disclose your name, street address, city, state, pin code, country, phone number, email, and company name to Intellectual Property right's owners under confidentiality agreement, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. 
+We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and the community from bad actors. Therefore, in response to a verified request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, email address, UserID history, fraud complaints, and purchase/using Website services' history without a a court order or substantially similar legal procedure. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement or other government officials without a court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss; or report suspected illegal activity. Further, we can (and you authorize us to) disclose your name, street address, city, state, pin code, country, phone number, email, and company name to Intellectual Property right's owners under confidentiality agreement, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. 
 
 Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Website. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-We ask that minors (under the age of 18) do not submit any personal information to us. If you are under the age of 18, you cannot purchase on the Website or use the services on the Website. If you wish purchase on the Website or use the services such purchase or use of services may be made by your legal guardian or parents who have registered as Users of the Website provided that such purchase or use is not in relation to any adult material/mature audience items displayed on the Website, the sale or purchase of which to/by minors is strictly prohibited 
+We ask that minors (under the age of 18) do not submit any personal information to us. If you are under the age of 18, you cannot purchase on the Website or use the services on the Website. If you wish purchase on the Website or use the services such purchase or use of services may be made by your legal guardian or parents who have registered as Users of the Website provided that such purchase or use is not in relation to any adult material/mature audience items displayed on the Website, the sale or purchase of which to/by minors is strictly prohibited
 
 To protect your privacy and security, we will verify your identity before granting access or making changes to your personally identifying information.
 
-Security:
+**Security:**
 
 When you place orders or access your account information, we offer the use of a secure server. Furthermore, all of the customer data we collect is protected against unauthorized access. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable and current Internet security methods and technologies.
 
-User���s Consent:
+**User's Consent:**
 
 By using the Website, you consent to the collection and use of the information you disclose on the Website. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Any changes to our privacy policy will be communicated through our Web site at least 10 days in advance of implementation.
 
-User���s Feedback:
+**User's Feedback:**
 
 We welcome your questions and comments regarding our privacy policy. You may contact us by using the feedback link on our Website. As our business meets the future, our privacy policy may change. We shall endeavor to post notice of changes of policy prominently and with advance notice, but our policy, terms, and conditions in effect at any time will govern our practices and our relationship at that time. You should check back here regularly in case policies or terms and conditions are updated or changed. 
