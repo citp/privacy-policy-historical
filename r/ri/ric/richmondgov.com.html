@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the richmondgov.com privacy policy that was archived on 2013-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130323040506id_/http%3A//www.richmondgov.com/common/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the richmondgov.com privacy policy that was archived on 2013-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204195848id_/http%3A//www.richmondgov.com/common/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 
@@ -224,7 +224,7 @@
     <div id="container">
 		<div id="content">
 		<form name="aspnetForm" method="post" action="/common/Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTMwMjA1NTk1OWRkDFtxuOXIC9zvJLLYDtmQNpyyoa8=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTMwMjA1NTk1OWRkXIa8EXjRGMgsP/g7uSJd53fi4W0=">
 
         	
     
@@ -972,6 +972,16 @@ if ((window.top.location.toString().indexOf('mobile') > -1) || (window.top.locat
 }
 </script>
 
+
+<script>
+    $("#MobileAccordion > li > div").click(function () {
+        if (false == $(this).next().is(':visible')) {
+            $('#MobileAccordion ul').slideUp(300);
+        }
+        $(this).next().slideToggle(300);
+    });
+    // $('#MobileAccordion ul:eq(0)').show(); //
+</script>
 
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MRBT"
