@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the emag.co.uk privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516004243id_/http%3A//www.emag.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emag.co.uk privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205002619id_/http%3A//www.emag.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy | eMag
-
-* * *
+# Privacy | Emag.co.uk
 
 We take your privacy very seriously, and we are committed to maintaining the trust of our users. This Privacy Policy will help you understand what types of personal information we collect about you, and how we use it.
 
