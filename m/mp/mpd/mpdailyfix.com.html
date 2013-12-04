@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mpdailyfix.com privacy policy that was archived on 2013-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130527113809id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mpdailyfix.com privacy policy that was archived on 2013-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205003659id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
    <title>Privacy Policy : MarketingProfs</title> 
@@ -78,8 +78,11 @@
 		        var _gaq = _gaq || [];
 		        _gaq.push(['_setAccount', 'UA-348254-2']);
     	         _gaq.push(['_setDomainName', 'marketingprofs.com']);
-		        _gaq.push(['_setCustomVar', 1, 'isLoggedIn', 'False', 3]);
-		        _gaq.push(['_setCustomVar', 2, 'MemberType', 'NULL', 1]);
+		        _gaq.push(['_setCustomVar', 1, 'isloggedin', 'False', 2]);
+		         
+		                _gaq.push(['_setCustomVar', 2, 'membertype', 'NULL', 2]);
+		            
+		        _gaq.push(['_setCustomVar', 5, 'subtype', 'TNULL', 2]);
 		        
 		        _gaq.push(['_trackPageview']);
 	            
@@ -113,8 +116,23 @@
         if ($("#mainnav").length > 0) { scrollobj(null, $("#mainnav").offset().top, "#mainnav", "0px", "mini"); }
         if ($("#endtop").length > 0 && $("#mainnav").length > 0) { scrollobj(null, $("#endtop").offset().top - 50, ".sharefloat", $('#mainnav').height(), ""); } else { if ($("#endtop").length > 0) { scrollobj(null, $("#endtop").offset().top - 50, ".sharefloat", 70, ""); } }
 
+        if ($("#endtop").length > 0) { setposition($("#endtop").offset().top - 50, ".adfloat", $("#endtop").offset().top + 20); }
+        if ($("#mainnav").length > 0) { scrollobj(null, $("#mainnav").offset().top, "#mainnav", "0px", "mini"); }
+        if ($("#endtop").length > 0 && $("#mainnav").length > 0) { scrollobj(null, $("#endtop").offset().top - 50, ".adfloat", $('#mainnav').height(), ""); } else { if ($("#endtop").length > 0) { scrollobj(null, $("#endtop").offset().top - 50, ".adfloat", 70, ""); } }
 
 
+    });
+
+    //Firefox seems to have a bug when refreshing the page and having the page jump to a lower portion of the page, or using jump links
+    //when this occurs, the mainnav does not reset at the top, due to Firefox not assigning the approprite offset top when page jumps before .ready
+    //make sure mainnav reset to relative when at top of page.
+    $(function() { 
+        $(window).scroll(function() {
+            var top = $(document).scrollTop();
+            if (top == 0) {
+                if ($("#mainnav").length > 0) { $("#mainnav").css({ 'position': 'relative' }); }
+            }
+        }).triggerHandler("scroll");
     });
 </script>  
 
@@ -178,7 +196,7 @@
 <li class="menu2 drop"><a href="http://www.marketingprofs.com/marketing/library" class="mainnavlnk" title="Marketing articles, guides, seminars, and more" onclick="trackclick('Topics&amp;loc=top');"><span>Topics</span></a><div class="dropnav">        <div class="sublcol">            <h2>Formats</h2>            <ul class="regular"><li><a href="/marketing/library/articles/">Articles</a></li><li><a href="/podcasts/">Podcasts </a></li><li><a href="/marketing/library/seminars/">Online Seminars</a></li><li><a href="/marketing/library/take10/">Tutorials</a></li><li><a href="/marketing/library/toolbox/">Guides and Reports</a></li><li><a href="/smarttools/">Tools</a></li></ul>            <div class="more"><a href="/marketing/library" class="bold left">Show All »</a></div>        </div>       <div class="subrcol">       <h2>Topics</h2>               <div>                                        <ul class="sub2col regular">  <li><a href="http://www.marketingprofs.com/marketing/library" title="Most Recent Marketing Resources">Most Recent</a></li>                    <li><a href="http://www.marketingprofs.com/marketing/library/1/advertising" title="Marketing Articles on Advertising">Advertising</a></li>                      <li><a href="http://www.marketingprofs.com/marketing/library/4/brand-management" title="Marketing Articles on Brand Management">Brand Management</a> </li>                      <li><a href="http://www.marketingprofs.com/marketing/library/7/career-management" title="Marketing Articles on Career Management">Career Management</a></li>		      <li><a href="http://www.marketingprofs.com/marketing/library/102/content" title="Marketing Articles on Content">Content</a></li>                      <li><a href="http://www.marketingprofs.com/marketing/library/9/customer-behavior" title="Marketing Articles on Customer Behavior">Customer Behavior</a></li>                      <li><a href="http://www.marketingprofs.com/marketing/library/12/customer-relationships" title="Marketing Articles on Customer Relationships">Customer Relationships</a> </li>                      <li><a href="http://www.marketingprofs.com/marketing/library/17/email-marketing" title="Marketing Articles on Email Marketing">Email Marketing</a> </li>                      <li><a href="http://www.marketingprofs.com/marketing/library/21/general-management" title="Marketing Articles on General Management">General Management</a> </li>                      <li><a href="http://www.marketingprofs.com/marketing/library/19/graphic-design" title="Marketing Articles on Graphic Design">Graphic Design</a> </li>                      <li><a href="http://www.marketingprofs.com/marketing/library/27/market-research" title="Marketing Articles on Market Research">Market Research</a> </li> <li><a href="http://www.marketingprofs.com/marketing/library/49/marketing-strategy" title="Marketing Articles on Marketing Strategy">Marketing Strategy</a> </li>                     <li><a href="http://www.marketingprofs.com/marketing/library/30/metrics-roi" title="Marketing Articles on Metrics &amp; ROI">Metrics &amp; ROI</a> </li>		      <li><a href="http://www.marketingprofs.com/marketing/library/101/mobile" title="Marketing Articles on Mobile">Mobile</a></li>                           <li><a href="http://www.marketingprofs.com/marketing/library/34/non-profit" title="Marketing Articles on Non-Profit">Non-Profit</a></li>                           <li><a href="http://www.marketingprofs.com/marketing/library/35/pricing" title="Marketing Articles on Pricing">Pricing</a> </li>                      <li><a href="http://www.marketingprofs.com/marketing/library/37/public-relations" title="Marketing Articles on Public Relations">Public Relations</a> </li>                      <li><a href="http://www.marketingprofs.com/marketing/library/38/sales" title="Marketing Articles on Sales">Sales</a> </li>                      <li><a href="http://www.marketingprofs.com/marketing/library/42/search-engine-marketing" title="Marketing Articles on Search Engine Marketing">Search Engine Marketing</a></li>                      <li><a href="http://www.marketingprofs.com/marketing/library/45/segmentation" title="Marketing Articles on Segmentation">Segmentation</a> </li>                      <li><a href="http://www.marketingprofs.com/marketing/library/100/social-media" title="Marketing Articles on Social Media">Social Media</a> </li><li><a href="http://www.marketingprofs.com/marketing/library/57/web-sites" title="Marketing Articles on Web Sites">Web Sites</a> </li>                      <li><a href="http://www.marketingprofs.com/marketing/library/63/word-of-mouth" title="Marketing Articles on Word-of-Mouth">Word-of-Mouth</a> </li>                      <li><a href="http://www.marketingprofs.com/marketing/library/64/writing" title="Marketing Articles on Writing">Writing</a> </li>                                          </ul>                    <div class="more"><a href="/topic/all/" class="bold right">More Marketing Topics »</a></div>               </div>       </div> </div></li>
 <li class="menu3 drop"><a href="http://www.marketingprofsu.com" target="_blank" class="mainnavlnk" title="MarketingProfs Training Solutions" onclick="trackclick('Training&amp;loc=top');"><span>Training</span></a><div class="dropnav"><div class=""><h2>Individuals</h2><ul class="regular bmar"><li><a href="/membership/"><div class="pro-label"><span class="nomar">PRO</span> Membership</div></a></li><li><a href="http://www.marketingprofsu.com/course/list/" target="_blank">MarketingProfs University</a></li></ul></div><div class="tmar tpad"><h2>Small Teams</h2><ul class="regular bmar"><li><a href="/membership/"><div class="pro-label"><span class="nomar">PRO</span> Membership</div></a></li><li><a href="https://www.marketingprofsu.com/register/multi/" target="_blank">MarketingProfs University</a></li></ul></div><div class="tmar tpad"><h2>Large Organizations</h2><ul class="regular bmar"><li><a href="http://members.marketingprofs.com/pro" target="_blank">Professional Development Solutions</a></li></ul></div></div></li>
 <li class="menu4 drop"><a href="http://www.marketingprofs.com/events/" class="mainnavlnk" title="Upcoming Events at MarketingProfs" onclick="trackclick('Events&amp;loc=top');showDirectOverlay('Schedule of Events','/events/upcoming',790,-1 ,false,'iframe:true'); return false;"><span>Events</span></a><div class="dropnav"><ul class="regular"><li><a href="/marketing/online-seminars" onclick="showDirectOverlay('Schedule of Events','/events/upcoming',790,-1,false,'iframe:true'); return false;">Schedule of Events</a></li><li><a href="/events/">Upcoming Conferences</a></li><li><a href="/marketing/online-seminars">Online Seminars</a></li><li><a href="/events/24/conference" target="_blank">Digital Marketing World</a></li></ul><a href="http://www.marketingprofsu.com/" target="_blank"><img width="200px" border="0" src="/assets/images/logos/mpu/mpu.png"></a></div></li>
-<li class="menu5 drop"><a href="http://www.marketingprofs.com/login/join" class="mainnavlnk" title="Join Today!" onclick="trackclick('Join Now&amp;loc=top');"><span>Join Now</span></a><div class="dropnav"><ul class="regular"><li><a href="/membership/">Membership Benefits</a></li></ul><a href="/login/join" class="fancy_button tmar bold" style="text-align:center !important;">Join Now</a></div></li>
+<li class="menu5 drop"><a href="http://www.marketingprofs.com/login/join" class="mainnavlnk" title="Join Today!" onclick="trackclick('Join Now&amp;loc=top');"><span>Join Now</span></a><div class="dropnav"><ul class="regular"><li><a href="/membership/">Membership Benefits</a></li><li><a href="/products/">Products and Services</a></li></ul><a href="/login/join" class="fancy_button tmar bold" style="text-align:center !important;">Join Now</a></div></li>
 <li class="myaccount  drop"><a href="http://www.marketingprofs.com/login" class="mainnavlnk" title="View and Update Your Profile" onclick="trackclick('%%navname%%&amp;loc=top');showDirectOverlay('MarketingProfs Login','/login/login_popup.asp?source=http://www.marketingprofs.com%2Fnewprem%2Feditaccount%2Facct_view.asp',790,335,false,''); return false;"><span><img src="/assets/images/site/icons/avatar.png" alt=""></span></a><div class="dropnav"><ul class="regular"><li><a onclick="showDirectOverlay('MarketingProfs Login','/login/login_popup.asp?source=http://www.marketingprofs.com%2Fnewprem%2Feditaccount%2Facct_view.asp',790,335,false,''); return false;" href="http://www.marketingprofs.com/login" id="A3">Login</a></li></ul></div></li>
 
 					</ul>
@@ -190,10 +208,10 @@
 							<nav id="sub"><ul><li><a href="http://www.marketingprofs.com/about/mediakit/" class="snav_off" title="Advertise with Us" onclick="trackclick('Advertise with Us&amp;loc=sub')">Advertise with Us</a></li><li><a href="http://www.marketingprofs.com/write-for-us" class="snav_off" title="Write for Us" onclick="trackclick('Write for Us&amp;loc=sub')">Write for Us</a></li><li><a href="http://www.marketingprofs.com/about/terms-of-use" class="snav_off" title="Terms of Use" onclick="trackclick('Terms of Use&amp;loc=sub')">Terms of Use</a></li><li><a href="http://www.marketingprofs.com/about/privacy" class="snav_on" title="Privacy Policy" onclick="trackclick('Privacy Policy&amp;loc=sub')">Privacy Policy</a></li><li><a href="http://www.marketingprofs.com/about/licensing" class="snav_off" title="Licensing and Republishing" onclick="trackclick('Licensing and Republishing&amp;loc=sub')">Licensing and Republishing</a></li></ul></nav>
                                 <div id="promo-banner">
                                 <div id="promo">
-                                    <h1>Become a smarter marketer.</h1>
-                                    <h2>Join Over 568,000 Marketing Professionals</h2>
+                                    <h1>Real-World Education for Modern Marketers</h1>
+                                    <h2>Join Over 626,000 Marketing Professionals</h2>
                                     <div class="myaccount"></div>
-                                    <a href="/membership/" onclick="window.location='http://mprofs.com/bar';return false;" class="fancy_button">Become a PRO member</a> 
+                                    <a href="/products/" onclick="window.location='/products/?adref=siterbn';return false;" class="fancy_button">Start here!</a> 
                                  </div>
                                  </div>
                               
@@ -217,7 +235,7 @@
 										</ul> 
 							</div>
 							
-							<script>							    var enddate = new Date("5/27/2014");</script>
+							<script>							    var enddate = new Date("12/4/2014");</script>
 							<div class="right">
 								Text:&nbsp;&nbsp;<a href="javascript:void(0);" rel="nofollow" onclick="fontsmaller('contentbody');setMPCookie('savedsize',settosize,enddate, '/');return false;" class="txtsmall">A</a>&nbsp;<a href="javascript:void(0);" rel="nofollow" onclick="fontbigger('contentbody');setMPCookie('savedsize',settosize,enddate, '/');return false;" class="txtbig">A</a>
 							</div>
@@ -251,9 +269,9 @@
 <p> All employees are required to adhere to our strict privacy policies and any employee who violates the privacy policy is subject to termination and other disciplinary measures, up to being criminally prosecuted for their violation. </p>
 <p><strong> Use of Your Personal Information </strong></p>
 <p> If you decide to become a member, you will receive a short series of orientation emails from MarketingProfs. From time to time, members may receive notifications about changes to policies. We will not send you any other unsolicited email at the address you provide, except for infrequent communications to resolve issues that may arise with your own MarketingProfs.com account. We also offer a variety of optional newsletter and promotional subscriptions. We send these emails only to members who have elected to see them. Members can manage their opt-in and opt-out status at any time from <a href="https://www.marketingprofs.com/newprem/editaccount/acct_mail.asp">this page in My Account</a>.</p><p>Special offers are sometimes sent to Basic members on behalf of third parties. But these third parties do not have access to personal information since we alone send out the emails. All recipients of third-party emails are given the opportunity to opt-out of future third-party mailings at any time by clicking the link at the bottom of any email or by changing email preference settings on <a href="https://www.marketingprofs.com/newprem/editaccount/acct_mail.asp">this page in My Account</a>.</p>
-<p> Our site uses cookies to save your username and password if you become a member and decide to use the "Remember Me" option. This means you don't have to re-enter these items each time you visit our website. You can always logout which will delete this cookie from your computer. </p>
+<p> MarketingProfs uses cookies for some of the functions on this web site. A cookie is a small text file that is sent to your computer. If you dont want to allow us sending you a cookie you can disable this function in your browser.<br><br>Please be aware that some functions on our web site may not function properly if you do not accept cookies.<br><br>MarketingProfs is also using third party providers of analytic tool that is using cookies, e.g. Google Analytics for the analysis of user trends and how users are searching our web site.</p>
 <p> We may track and store geolocation information related to your IP address. This information may be used to provide you with the most relevant material, as well as allow for more effective communications.</p>
-<p> Additionally, we use session variables to aid in the development of various features on the site. These session variables disappear after 20 minutes or when the user exits a browser. Thus, this information is not stored for any reason other than as indicated. </p>
+<p> Additionally, we use session variables to aid in the development of various features on the site. These session variables disappear after 90 minutes or when the user exits a browser. Thus, this information is not stored for any reason other than as indicated. </p>
 <p>We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our users in general. For example, we may inform third parties about the number of registered users, number of unique visitors, and the pages most frequently browsed.</p>
 <p> Aside from these uses of user information, we do not sell, nor plan to sell any user information to anyone. </p>
 <p><strong> Protection of Children's Personal Information </strong></p>
@@ -276,8 +294,9 @@
        </article>
     </div>
     <aside>
- 						<div class="block"> 
-                                <div class="block-content"> 
+ 
+						         <div class="block"> 
+                                     <div class="block-content"> 
 									
 									
 								        <h2>Join the World's Largest Marketing Community</h2>
@@ -296,7 +315,18 @@
                                                             <p class="note">we respect <a href="/about/privacy" target="_blank">your 
                                                             privacy</a>.</p>
 
-                                                                <ul class="chiclets">
+                                            </div>
+								 </div>      
+								
+        								
+
+						
+									     <div class="block"> 
+                                             <div class="block-content"> 
+								            <h2>Stay connected!</h2>
+								            
+												<p>Don't miss a bit of MarketingProfs ... join the <b>626,000</b> marketers following us.</p>
+												<ul class="chiclets">
                                                                 <li class="tw"><a href="http://twitter.com/marketingprofs" onclick="trackclick('twitter','gbox');_gaq.push(['_trackEvent', 'social-icons', 'twitter']);" target="_blank">Twitter </a></li>
                                                                 <li class="fb"><a href="http://www.facebook.com/marketingprofs" onclick="trackclick('facebook','gbox');_gaq.push(['_trackEvent', 'social-icons', 'facebook']);" target="_blank">Facebook </a></li>
                                                                 <li class="gp"><a href="https://plus.google.com/100086009540700301667/posts" onclick="trackclick('plusone','gbox');_gaq.push(['_trackEvent', 'social-icons', 'plusone']);" target="_blank">Google Plus</a></li>
@@ -310,25 +340,20 @@
                                                                 
                                                                </ul>
                                                            
-                                                            
-                                            
-        								
-
-									
-								    </div>
-								</div>
+                                                   </div>
+								        </div>          
+                                             
+        							    		
+								
 
    <div class="bannerad"> </div>
- 
-         <div class="block">
-             <div class="block-content">
-     
-                            <h2>What's New</h2>
+
+                            <div class=""><h2 class="center">Most Popular</h2></div>
                         
                 			
                 		
 		                
-			                <div class="tabber_rcol clearfix">
+			                <div class="tabber_rcol clearfix center none">
 				                <ul id="whatsnewtabber">
 				                    <li>
 						                <a href="/marketing/library/articles/" rel="tcontent2">How-to Articles</a>
@@ -345,24 +370,28 @@
 				                <div id="tcontent2">
 					                <div class="listGeneral">
                 						
-							                <ul>
-<li><a href="http://www.marketingprofs.com/chirp/2013/10841/socialskim-tweets-for-tv-ads-twitter-amplify-yahoos-tumblr-purchase-sponsored-pins-and-more" title="#SocialSkim: Tweets for TV Ads, Twitter Amplify, Yahoo's Tumblr Purchase, Sponsored Pins, and More" class="relatedcontentlink" onclick="_gaq.push(['_trackEvent', 'tabber_article', 'clicked', 'http://www.marketingprofs.com/chirp/2013/10841/socialskim-tweets-for-tv-ads-twitter-amplify-yahoos-tumblr-purchase-sponsored-pins-and-more'])"><img src="http://i.marketingprofs.com/assets/images/mobile/2013/5/social-skim-may-24-peek.jpg" border="0" width="85" class="featuredThumb"></a>
-<a href="http://www.marketingprofs.com/chirp/2013/10841/socialskim-tweets-for-tv-ads-twitter-amplify-yahoos-tumblr-purchase-sponsored-pins-and-more" title="Marketing Article: #SocialSkim: Tweets for TV Ads, Twitter Amplify, Yahoo's Tumblr Purchase, Sponsored Pins, and More" class="relatedcontentlink" onclick="_gaq.push(['_trackEvent', 'tabber_article', 'clicked', 'http://www.marketingprofs.com/chirp/2013/10841/socialskim-tweets-for-tv-ads-twitter-amplify-yahoos-tumblr-purchase-sponsored-pins-and-more'])">#SocialSkim: Tweets for TV Ads, Twitter Amplify,&nbsp;...&nbsp;<span style="font-size:0.9em">by Angela Natividad</span></a>
+							                <ol class="rounded-list">
+<li>
+<a href="http://www.marketingprofs.com/articles/2013/12167/six-trends-for-2014-in-mobile-marketing-and-advertising" title="Marketing Article: Six Trends for 2014 in Mobile Marketing and Advertising" class="relatedcontentlink" onclick="_gaq.push(['_trackEvent', 'tabber_article', 'clicked', 'http://www.marketingprofs.com/articles/2013/12167/six-trends-for-2014-in-mobile-marketing-and-advertising'])">Six Trends for 2014 in Mobile Marketing and Advertising&nbsp;<span style="font-size:0.9em">by Gregory Kennedy</span></a>
 <div class="clearit"></div>
 </li>
-<li><a href="http://www.marketingprofs.com/charts/2013/10833/consumer-price-sensitivity-and-deal-seeking-up-in-2013" title="Consumer Price Sensitivity and Deal Seeking Up in 2013" class="relatedcontentlink" onclick="_gaq.push(['_trackEvent', 'tabber_article', 'clicked', 'http://www.marketingprofs.com/charts/2013/10833/consumer-price-sensitivity-and-deal-seeking-up-in-2013'])"><img src="http://i.marketingprofs.com/assets/images/mobile/2013/5/240513-ddp-lg.jpg" border="0" width="85" class="featuredThumb"></a>
-<a href="http://www.marketingprofs.com/charts/2013/10833/consumer-price-sensitivity-and-deal-seeking-up-in-2013" title="Marketing Article: Consumer Price Sensitivity and Deal Seeking Up in 2013" class="relatedcontentlink" onclick="_gaq.push(['_trackEvent', 'tabber_article', 'clicked', 'http://www.marketingprofs.com/charts/2013/10833/consumer-price-sensitivity-and-deal-seeking-up-in-2013'])">Consumer Price Sensitivity and Deal Seeking Up&nbsp;...&nbsp;<span style="font-size:0.9em">by Ayaz Nanji</span></a>
+<li>
+<a href="http://www.marketingprofs.com/charts/2013/11228/the-most-effective-keywords-in-email-subject-lines" title="Marketing Article: The Most (and Least) Effective Keywords in Email Subject Lines" class="relatedcontentlink" onclick="_gaq.push(['_trackEvent', 'tabber_article', 'clicked', 'http://www.marketingprofs.com/charts/2013/11228/the-most-effective-keywords-in-email-subject-lines'])">The Most (and Least) Effective Keywords in Email Subject Lines&nbsp;<span style="font-size:0.9em">by Ayaz Nanji</span></a>
 <div class="clearit"></div>
 </li>
-<li><a href="http://www.marketingprofs.com/charts/2013/10832/effectiveness-of-social-media-cues-in-ads" title="Effectiveness of Social Media Cues in Ads [Infographic]" class="relatedcontentlink" onclick="_gaq.push(['_trackEvent', 'tabber_article', 'clicked', 'http://www.marketingprofs.com/charts/2013/10832/effectiveness-of-social-media-cues-in-ads'])"><img src="http://i.marketingprofs.com/assets/images/mobile/2013/5/230513-ddp-lg.jpg" border="0" width="85" class="featuredThumb"></a>
-<a href="http://www.marketingprofs.com/charts/2013/10832/effectiveness-of-social-media-cues-in-ads" title="Marketing Article: Effectiveness of Social Media Cues in Ads [Infographic]" class="relatedcontentlink" onclick="_gaq.push(['_trackEvent', 'tabber_article', 'clicked', 'http://www.marketingprofs.com/charts/2013/10832/effectiveness-of-social-media-cues-in-ads'])">Effectiveness of Social Media Cues in Ads&nbsp;...&nbsp;<span style="font-size:0.9em">by Ayaz Nanji</span></a>
+<li>
+<a href="http://www.marketingprofs.com/articles/2013/12126/get-rid-of-your-lousy-about-page-once-and-for-all" title="Marketing Article: Get Rid of Your Lousy 'About' Page Once and for All" class="relatedcontentlink" onclick="_gaq.push(['_trackEvent', 'tabber_article', 'clicked', 'http://www.marketingprofs.com/articles/2013/12126/get-rid-of-your-lousy-about-page-once-and-for-all'])">Get Rid of Your Lousy 'About' Page Once and for All&nbsp;<span style="font-size:0.9em">by Sonja Jobson</span></a>
 <div class="clearit"></div>
 </li>
-<li><a href="http://www.marketingprofs.com/charts/2013/10816/facebook-linkedin-most-important-social-platforms-for-marketers" title="Facebook, LinkedIn Are Top Social Platforms for Marketers" class="relatedcontentlink" onclick="_gaq.push(['_trackEvent', 'tabber_article', 'clicked', 'http://www.marketingprofs.com/charts/2013/10816/facebook-linkedin-most-important-social-platforms-for-marketers'])"><img src="http://i.marketingprofs.com/assets/images/mobile/2013/5/130522-ddp-lg.jpg" border="0" width="85" class="featuredThumb"></a>
-<a href="http://www.marketingprofs.com/charts/2013/10816/facebook-linkedin-most-important-social-platforms-for-marketers" title="Marketing Article: Facebook, LinkedIn Are Top Social Platforms for Marketers" class="relatedcontentlink" onclick="_gaq.push(['_trackEvent', 'tabber_article', 'clicked', 'http://www.marketingprofs.com/charts/2013/10816/facebook-linkedin-most-important-social-platforms-for-marketers'])">Facebook, LinkedIn Are Top Social Platforms for&nbsp;...&nbsp;<span style="font-size:0.9em">by Ayaz Nanji</span></a>
+<li>
+<a href="http://www.marketingprofs.com/charts/2013/12181/state-of-digital-marketing-talent-skills-lacking-specialists-needed" title="Marketing Article: State of Digital Marketing Talent: Skills Lacking, Specialists Needed" class="relatedcontentlink" onclick="_gaq.push(['_trackEvent', 'tabber_article', 'clicked', 'http://www.marketingprofs.com/charts/2013/12181/state-of-digital-marketing-talent-skills-lacking-specialists-needed'])">State of Digital Marketing Talent: Skills Lacking, Specialists ...&nbsp;<span style="font-size:0.9em">by Ayaz Nanji</span></a>
 <div class="clearit"></div>
 </li>
-</ul>
+<li>
+<a href="http://www.marketingprofs.com/chirp/2013/12184/marketers-tactics-tools-challenges-campaigns-infographic" title="Marketing Article: What Marketers Do: Their Tactics, Tools, Challenges, and Campaigns [Infographic]" class="relatedcontentlink" onclick="_gaq.push(['_trackEvent', 'tabber_article', 'clicked', 'http://www.marketingprofs.com/chirp/2013/12184/marketers-tactics-tools-challenges-campaigns-infographic'])">What Marketers Do: Their Tactics, Tools, Challenges, and ...&nbsp;<span style="font-size:0.9em">by Verónica Maria Jarski</span></a>
+<div class="clearit"></div>
+</li>
+</ol>
 
                 						
 						                <div class="clear more-right"><a href="http://www.marketingprofs.com/marketing/library/articles/">See 
@@ -373,11 +402,17 @@
 				                <div id="tcontent3">
 							                <div class="listGeneral">
                 								
-								                <ul><li class="_small"><a href="http://www.marketingprofs.com/marketing/online-seminars/634" class="relatedcontentlink"><img src="http://i.marketingprofs.com/assets/images/mobile/ideas_275x185_0.jpg" width="85" class="featuredThumb" alt="Take 10: What Has Your Lead Generation Partner Done for You Lately?"></a><div class="seminar_list_label"><a href="http://www.marketingprofs.com/marketing/online-seminars/634" class="relatedcontentlink">Take 10: What Has Your Lead Generation Partner Done&nbsp;...</a><em></em></div>
-<div class="clearit"></div></li><li class="_small"><a href="http://www.marketingprofs.com/marketing/online-seminars/627" class="relatedcontentlink"><img src="http://i.marketingprofs.com/assets/images/mobile/pro_jumpingfishbowl_275x185.jpg" width="85" class="featuredThumb" alt="Seven B2B Marketing Confessions That Will Improve Your Marketing Efforts Now"></a><div class="seminar_list_label"><a href="http://www.marketingprofs.com/marketing/online-seminars/627" class="relatedcontentlink">Seven B2B Marketing Confessions That Will Improve Your Marketing&nbsp;...</a><em><img src="/images/icons/stars/4.5.gif" alt="This online marketing seminar received 4.5 star(s)" title="This online marketing seminar received 4.5 star(s)" border="0"></em></div>
-<div class="clearit"></div></li><li class="seminar_sponsored_small"><a href="http://www.marketingprofs.com/marketing/online-seminars/623" class="relatedcontentlink"><img src="http://i.marketingprofs.com/assets/images/mobile/spon_girlwithbinoculars_275_0.jpg" width="85" class="featuredThumb" alt="What Marketing Can Learn From Sales: An Introduction to Account-Based Marketing"></a><div class="seminar_list_label"><a href="http://www.marketingprofs.com/marketing/online-seminars/623" class="relatedcontentlink">What Marketing Can Learn From Sales: An Introduction to&nbsp;...</a><em></em></div>
-<div class="clearit"></div></li><li class="_small"><a href="http://www.marketingprofs.com/marketing/online-seminars/633" class="relatedcontentlink"><img src="http://i.marketingprofs.com/assets/images/mobile/usualsuspects_275x185.jpg" width="85" class="featuredThumb" alt="Take 10: A Step-by-Step Guide to Product Selection"></a><div class="seminar_list_label"><a href="http://www.marketingprofs.com/marketing/online-seminars/633" class="relatedcontentlink">Take 10: A Step-by-Step Guide to Product Selection</a><em></em></div>
-<div class="clearit"></div></li></ul>
+								                <ol class="rounded-list"><li class="seminar_sponsored_small">
+<div class="seminar_list_label"><a href="http://www.marketingprofs.com/marketing/online-seminars/692" class="relatedcontentlink">Three P's of Successful Marketing Teams: People, Perspective, and Process</a></div>
+<div class="clearit"></div></li><li class="_small">
+<div class="seminar_list_label"><a href="http://www.marketingprofs.com/marketing/online-seminars/695" class="relatedcontentlink">Take 10: Three Ingredients That Turn Engagement Into Measurable Business Results</a></div>
+<div class="clearit"></div></li><li class="_small">
+<div class="seminar_list_label"><a href="http://www.marketingprofs.com/marketing/online-seminars/686" class="relatedcontentlink">Future-Proof SEO: Immunize Your Business Against Search Engine Updates</a></div>
+<div class="clearit"></div></li><li class="seminar_sponsored_small">
+<div class="seminar_list_label"><a href="http://www.marketingprofs.com/marketing/online-seminars/691" class="relatedcontentlink">Kiss Churn Goodbye with Data-Driven Campaign Management</a></div>
+<div class="clearit"></div></li><li class="_small">
+<div class="seminar_list_label"><a href="http://www.marketingprofs.com/marketing/online-seminars/685" class="relatedcontentlink">The Audience Imperative</a></div>
+<div class="clearit"></div></li></ol>
 								                <div class="clear more-right"><a href="http://www.marketingprofs.com/marketing/library/seminars/">See 
 								                more online seminars »</a></div>
 							                </div>
@@ -405,10 +440,7 @@
 
 				                </script>
 			                </div>
-                
-	    </div>
-</div>
- 
+
                         
                         	
                         	
@@ -426,50 +458,50 @@
 			
 								<div id="editorspickslider">
 								                        <ul><li>
-<div class="editorspickitems"><a href="http://www.marketingprofs.com/smarttools/tool/18" onclick="window.location='http://www.marketingprofs.com/smarttools/tool/18?adref=prmbx';return false;"><img src="http://i.marketingprofs.com/images/smarttools/18/sm-chalkboard_330x210.jpg" border="0" alt="SmartTools: Social Media Marketing" align="left" width="100"></a>
-<p class="bold"><a href="http://www.marketingprofs.com/smarttools/tool/18" onclick="window.location='http://www.marketingprofs.com/smarttools/tool/18?adref=prmbx';return false;" class="">SmartTools: Social Media Marketing</a></p>
-<p>We've pulled together the critical steps to planning, executing, measuring, and optimizing social media programs that meet your business objectives.
-
- <a href="http://www.marketingprofs.com/smarttools/tool/18" class="more" onclick="window.location='http://www.marketingprofs.com/smarttools/tool/18?adref=prmbx';return false;">more</a></p></div>
+<div class="editorspickitems"><a href="http://www.marketingprofs.com/store/product/2196/competitive-intelligence-how-to-dig-up-data-on-your-competitors-and-play-for-the-win" onclick="window.location='http://www.marketingprofs.com/store/product/2196/competitive-intelligence-how-to-dig-up-data-on-your-competitors-and-play-for-the-win?adref=prmbx';return false;"><img src="http://i.marketingprofs.com/assets/images/editors-picks/cover_275x185.jpg" border="0" alt="PRO How To Guide: Competitive Intelligence: How to Dig Up Data on Your Competitors and Play for the Win" align="left" width="100"></a>
+<p class="bold"><a href="http://www.marketingprofs.com/store/product/2196/competitive-intelligence-how-to-dig-up-data-on-your-competitors-and-play-for-the-win" onclick="window.location='http://www.marketingprofs.com/store/product/2196/competitive-intelligence-how-to-dig-up-data-on-your-competitors-and-play-for-the-win?adref=prmbx';return false;" class="">PRO How To Guide: Competitive Intelligence: How to Dig Up Data on Your Competitors and Play for the Win</a></p>
+<p>This 10-page mini-guide will allow you to dig in and learn how to think strategically about your competitors' next moves. <a href="http://www.marketingprofs.com/store/product/2196/competitive-intelligence-how-to-dig-up-data-on-your-competitors-and-play-for-the-win" class="more" onclick="window.location='http://www.marketingprofs.com/store/product/2196/competitive-intelligence-how-to-dig-up-data-on-your-competitors-and-play-for-the-win?adref=prmbx';return false;">more</a></p></div>
 </li>
 <li>
-<div class="editorspickitems"><a href="http://www.marketingprofs.com/marketing/online-seminars/450" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/450?adref=prmbx';return false;"><img src="http://i.marketingprofs.com/assets/images/seminar/450/writing-baby_275x200.jpg" border="0" alt="Take 10: Six Quick Tips for Writing SEO-Friendly Content" align="left" width="100"></a>
-<p class="bold"><a href="http://www.marketingprofs.com/marketing/online-seminars/450" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/450?adref=prmbx';return false;" class="">Take 10: Six Quick Tips for Writing SEO-Friendly Content</a></p>
-<p><b>Presented by: Erika Napoletano</b><br>
-Learn how to write keyword-rich copy that helps visitors find your website in the search engines.
-
- <a href="http://www.marketingprofs.com/marketing/online-seminars/450" class="more" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/450?adref=prmbx';return false;">more</a></p></div>
+<div class="editorspickitems"><a href="http://www.marketingprofs.com/marketing/online-seminars/688" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/688?adref=prmbx';return false;"><img src="http://i.marketingprofs.com/assets/images/seminar/688/potter_275x185.jpg" border="0" alt="Take 10: What's in it for Them? Crafting a Compelling Value Proposition" align="left" width="100"></a>
+<p class="bold"><a href="http://www.marketingprofs.com/marketing/online-seminars/688" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/688?adref=prmbx';return false;" class="">Take 10: What's in it for Them? Crafting a Compelling Value Proposition</a></p>
+<p><b>Presented by: Corey Eastman</b><br>In just 10 minutes learn how to identify who your ideal customer really is. <a href="http://www.marketingprofs.com/marketing/online-seminars/688" class="more" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/688?adref=prmbx';return false;">more</a></p></div>
 </li>
 <li>
-<div class="editorspickitems"><a href="http://www.marketingprofs.com/marketing/online-seminars/633" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/633?adref=prmbx';return false;"><img src="http://i.marketingprofs.com/assets/images/seminar/633/usualsuspects_275x185.jpg" border="0" alt="Take 10: A Step-by-Step Guide to Product Selection" align="left" width="100"></a>
-<p class="bold"><a href="http://www.marketingprofs.com/marketing/online-seminars/633" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/633?adref=prmbx';return false;" class="">Take 10: A Step-by-Step Guide to Product Selection</a></p>
-<p><b>Presented by: Kathleen Schultz</b><br>
-A comprehensive step-by-step approach to product selection that will step up your selling success!
- <a href="http://www.marketingprofs.com/marketing/online-seminars/633" class="more" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/633?adref=prmbx';return false;">more</a></p></div>
+<div class="editorspickitems"><a href="http://www.marketingprofs.com/marketing/online-seminars/693" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/693?adref=prmbx';return false;"><img src="http://i.marketingprofs.com/assets/images/seminar/693/belle_275x185.jpg" border="0" alt="PRO Seminar: How to Make Your Content the Belle of the Marketing Ball" align="left" width="100"></a>
+<p class="bold"><a href="http://www.marketingprofs.com/marketing/online-seminars/693" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/693?adref=prmbx';return false;" class="">PRO Seminar: How to Make Your Content the Belle of the Marketing Ball</a></p>
+<p><b>Presented by: Andy Ford</b><br>This live class for MarketingProfs University's Content Marketing Crash Course focuses on current tools and best practices that will drive great content to your target audience. <a href="http://www.marketingprofs.com/marketing/online-seminars/693" class="more" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/693?adref=prmbx';return false;">more</a></p></div>
 </li>
 <li>
-<div class="editorspickitems"><a href="http://www.marketingprofs.com/marketing/online-seminars/627" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/627?adref=prmbx';return false;"><img src="http://i.marketingprofs.com/assets/images/seminar/627/jumpingfishbowl_275x185.jpg" border="0" alt="On Demand Seminar: Seven B2B Marketing Confessions That Will Improve Your Marketing Efforts Now" align="left" width="100"></a>
-<p class="bold"><a href="http://www.marketingprofs.com/marketing/online-seminars/627" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/627?adref=prmbx';return false;" class="">On Demand Seminar: Seven B2B Marketing Confessions That Will Improve Your Marketing Efforts Now</a></p>
-<p><b>Presented by: John Wall</b><br>
-This seminar will provide you with a framework that will help you navigate the ever-changing marketing field. <a href="http://www.marketingprofs.com/marketing/online-seminars/627" class="more" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/627?adref=prmbx';return false;">more</a></p></div>
+<div class="editorspickitems"><a href="http://www.marketingprofs.com/marketing/online-seminars/695" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/695?adref=prmbx';return false;"><img src="http://i.marketingprofs.com/assets/images/seminar/695/ingredients_275x185.jpg" border="0" alt="Take 10: Three Ingredients That Turn Engagement Into Measurable Business Results" align="left" width="100"></a>
+<p class="bold"><a href="http://www.marketingprofs.com/marketing/online-seminars/695" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/695?adref=prmbx';return false;" class="">Take 10: Three Ingredients That Turn Engagement Into Measurable Business Results</a></p>
+<p><b>Presented by: Rachel Happe</b><br>
+Learn how to build a successful engagement strategy that will help shape your business and bring in the results you need.
+ <a href="http://www.marketingprofs.com/marketing/online-seminars/695" class="more" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/695?adref=prmbx';return false;">more</a></p></div>
 </li>
 <li>
-<div class="editorspickitems"><a href="http://www.marketingprofs.com/marketing/online-seminars/453" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/453?adref=prmbx';return false;"><img src="http://i.marketingprofs.com/assets/images/seminar/453/guykawasaki_275x200.jpg" border="0" alt="Take 10 Author Series: How to Enchant and Engage Your Customers" align="left" width="100"></a>
-<p class="bold"><a href="http://www.marketingprofs.com/marketing/online-seminars/453" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/453?adref=prmbx';return false;" class="">Take 10 Author Series: How to Enchant and Engage Your Customers</a></p>
-<p><b>Presented by: Guy Kawasaki</b><br>
-Learn how to enchant people with your likeability, your trustworthiness, and all your other engaging, human qualities.
-
-
- <a href="http://www.marketingprofs.com/marketing/online-seminars/453" class="more" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/453?adref=prmbx';return false;">more</a></p></div>
+<div class="editorspickitems"><a href="http://www.marketingprofs.com/marketing/online-seminars/674" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/674?adref=prmbx';return false;"><img src="http://i.marketingprofs.com/assets/images/seminar/674/orangecones_275x185.jpg" border="0" alt="PRO Seminar: How to Avoid the Pitfalls of a Bad RFP" align="left" width="100"></a>
+<p class="bold"><a href="http://www.marketingprofs.com/marketing/online-seminars/674" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/674?adref=prmbx';return false;" class="">PRO Seminar: How to Avoid the Pitfalls of a Bad RFP</a></p>
+<p><b>Presented by: Cal Harrison</b><br>
+This seminar will help consultants and other professionals to understand their options when faced with a bad RFP
+ <a href="http://www.marketingprofs.com/marketing/online-seminars/674" class="more" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/674?adref=prmbx';return false;">more</a></p></div>
 </li>
 <li>
-<div class="editorspickitems"><a href="http://www.marketingprofs.com/marketing/online-seminars/625" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/625?adref=prmbx';return false;"><img src="http://i.marketingprofs.com/assets/images/seminar/625/tabletappcloud_275x185.jpg" border="0" alt="PRO Seminar: Marketing Campaign Strategies for the Social and Mobile World" align="left" width="100"></a>
-<p class="bold"><a href="http://www.marketingprofs.com/marketing/online-seminars/625" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/625?adref=prmbx';return false;" class="">PRO Seminar: Marketing Campaign Strategies for the Social and Mobile World</a></p>
-<p><br><b>Presented by: Rebecca Wardlow</b><br>
-This seminar will help you get your mobile-first plan in place.
-
-
- <a href="http://www.marketingprofs.com/marketing/online-seminars/625" class="more" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/625?adref=prmbx';return false;">more</a></p></div>
+<div class="editorspickitems"><a href="http://www.marketingprofs.com/marketing/online-seminars/462" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/462?adref=prmbx';return false;"><img src="http://i.marketingprofs.com/assets/images/seminar/462/danpink_275x200.jpg" border="0" alt="Take 10 Author Series: Dan Pink on How Everything You Learned About Motivation Is Wrong—And How to Do It Right" align="left" width="100"></a>
+<p class="bold"><a href="http://www.marketingprofs.com/marketing/online-seminars/462" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/462?adref=prmbx';return false;" class="">Take 10 Author Series: Dan Pink on How Everything You Learned About Motivation Is Wrong—And How to Do It Right</a></p>
+<p><b>Presented by: Daniel H. Pink</b><br>
+Dan debunks motivation myths. <a href="http://www.marketingprofs.com/marketing/online-seminars/462" class="more" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/462?adref=prmbx';return false;">more</a></p></div>
+</li>
+<li>
+<div class="editorspickitems"><a href="http://www.marketingprofs.com/store/product/2186/picture-perfect-how-to-manage-your-brands-online-reputation" onclick="window.location='http://www.marketingprofs.com/store/product/2186/picture-perfect-how-to-manage-your-brands-online-reputation?adref=prmbx';return false;"><img src="http://www.marketingprofs.com//assets/images/editors-picks/guide_112013_cover.jpg" border="0" alt="How to Guide: Picture Perfect—How to Manage Your Brand's Online Reputation" align="left" width="100"></a>
+<p class="bold"><a href="http://www.marketingprofs.com/store/product/2186/picture-perfect-how-to-manage-your-brands-online-reputation" onclick="window.location='http://www.marketingprofs.com/store/product/2186/picture-perfect-how-to-manage-your-brands-online-reputation?adref=prmbx';return false;" class="">How to Guide: Picture Perfect—How to Manage Your Brand's Online Reputation</a></p>
+<p>If you've been dying to dominate search, you won't want to miss this 26-page guide! <a href="http://www.marketingprofs.com/store/product/2186/picture-perfect-how-to-manage-your-brands-online-reputation" class="more" onclick="window.location='http://www.marketingprofs.com/store/product/2186/picture-perfect-how-to-manage-your-brands-online-reputation?adref=prmbx';return false;">more</a></p></div>
+</li>
+<li>
+<div class="editorspickitems"><a href="http://www.marketingprofs.com/marketing/online-seminars/624" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/624?adref=prmbx';return false;"><img src="http://i.marketingprofs.com/assets/images/seminar/624/ipad-mobile_275x185.jpg" border="0" alt="Take 10: How to Create Mobile Friendly Content" align="left" width="100"></a>
+<p class="bold"><a href="http://www.marketingprofs.com/marketing/online-seminars/624" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/624?adref=prmbx';return false;" class="">Take 10: How to Create Mobile Friendly Content</a></p>
+<p><b>Presented by: Jon-Mikel Bailey</b><br>
+In just 10 minutes, you'll get tactical tips on how to make your content mobile-friendly and easily digestible for your customers. <a href="http://www.marketingprofs.com/marketing/online-seminars/624" class="more" onclick="window.location='http://www.marketingprofs.com/marketing/online-seminars/624?adref=prmbx';return false;">more</a></p></div>
 </li>
 </ul>
 													
@@ -548,123 +580,123 @@ This seminar will help you get your mobile-first plan in place.
 <div class="scroll-content">
 <ul style="width: 6320px;" id="whatsnewsul">
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/10779/four-steps-for-using-images-in-your-brands-social-strategy"><img border="0" alt="Four Steps for Using Images in Your Brand's Social Strategy" src="http://i.marketingprofs.com/assets/images/articles/lg/052413_four_tips_lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/10779/four-steps-for-using-images-in-your-brands-social-strategy" title="Four Steps for Using Images in Your Brand's Social Strategy">Four Steps for Using Images in Your Brand's Social Strategy</a></div>
-<div class="slideDatefeatured">5/24/2013 at 10:00 AM <a href="/marketing/library/4/brand%2Dmanagement" class="slideCategory">Brand Management</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/podcasts/2013/12214/qr-codes-kill-kittens-author-scott-stratten-talks-to-marketing-smarts-podcast"><img border="0" alt="QR Codes Kill Kittens: Author Scott Stratten Talks to Marketing Smarts [Podcast]" src="http://i.marketingprofs.com/assets/images/articles/lg/131204-podcast-scott-stratten-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/podcasts/2013/12214/qr-codes-kill-kittens-author-scott-stratten-talks-to-marketing-smarts-podcast" title="QR Codes Kill Kittens: Author Scott Stratten Talks to Marketing Smarts [Podcast]">QR Codes Kill Kittens: Author Scott Stratten Talks to Marketing ...</a></div>
+<div class="slideDatefeatured">12/4/2013 at 10:00 AM <a href="/marketing/library/101/mobile" class="slideCategory">Mobile</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/chirp/2013/10841/socialskim-tweets-for-tv-ads-twitter-amplify-yahoos-tumblr-purchase-sponsored-pins-and-more"><img border="0" alt="#SocialSkim: Tweets for TV Ads, Twitter Amplify, Yahoo's Tumblr Purchase, Sponsored Pins, and More" src="http://i.marketingprofs.com/assets/images/articles/content/social-skim-may-24-peek.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/chirp/2013/10841/socialskim-tweets-for-tv-ads-twitter-amplify-yahoos-tumblr-purchase-sponsored-pins-and-more" title="#SocialSkim: Tweets for TV Ads, Twitter Amplify, Yahoo's Tumblr Purchase, Sponsored Pins, and More">#SocialSkim: Tweets for TV Ads, Twitter Amplify, Yahoo's Tumblr Purchase, Sponsored Pins, and&nbsp;...</a></div>
-<div class="slideDatefeatured">5/24/2013 at 10:00 AM <a href="/marketing/library/100/social%2Dmedia" class="slideCategory">Social Media</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/12217/customer-reviews-as-marketing-channel-how-to-create-a-review-funnel"><img border="0" alt="Customer Reviews as Marketing Channel: How to Create a 'Review Funnel'" src="http://i.marketingprofs.com/assets/images/articles/lg/131204-man-with-megaphone-drawing-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/12217/customer-reviews-as-marketing-channel-how-to-create-a-review-funnel" title="Customer Reviews as Marketing Channel: How to Create a 'Review Funnel'">Customer Reviews as Marketing Channel: How to Create a 'Review Funnel'</a></div>
+<div class="slideDatefeatured">12/4/2013 at 10:00 AM <a href="/marketing/library/63/word%2Dof%2Dmouth" class="slideCategory">Word-of-Mouth</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/charts/2013/10833/consumer-price-sensitivity-and-deal-seeking-up-in-2013"><img border="0" alt="Consumer Price Sensitivity and Deal Seeking Up in 2013" src="http://i.marketingprofs.com/assets/images/daily-data-point/240513-ddp-lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/charts/2013/10833/consumer-price-sensitivity-and-deal-seeking-up-in-2013" title="Consumer Price Sensitivity and Deal Seeking Up in 2013">Consumer Price Sensitivity and Deal Seeking Up in 2013</a></div>
-<div class="slideDatefeatured">5/24/2013 at 9:00 AM <a href="/marketing/library/9/customer%2Dbehavior" class="slideCategory">Customer Behavior</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/12218/tips-for-making-your-website-responsive"><img border="0" alt="Tips for Making Your Website Responsive" src="http://i.marketingprofs.com/assets/images/daily-chirp/responsive-design-getting-it-right-infographic-peek.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/12218/tips-for-making-your-website-responsive" title="Tips for Making Your Website Responsive">Tips for Making Your Website Responsive</a></div>
+<div class="slideDatefeatured">12/4/2013 at 10:00 AM <a href="/marketing/library/101/mobile" class="slideCategory">Mobile</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/10778/five-tips-to-emotionally-connect-readers-to-your-writing"><img border="0" alt="Five Tips to Emotionally Connect Readers to Your Writing" src="http://i.marketingprofs.com/assets/images/articles/lg/052313_five-tips-for-connecting-readers_lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/10778/five-tips-to-emotionally-connect-readers-to-your-writing" title="Five Tips to Emotionally Connect Readers to Your Writing">Five Tips to Emotionally Connect Readers to Your Writing</a></div>
-<div class="slideDatefeatured">5/23/2013 at 10:00 AM <a href="/marketing/library/102/content" class="slideCategory">Content</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/charts/2013/12189/which-online-ad-channels-delivered-clicks-at-the-lowest-costs-in-3q13"><img border="0" alt="Which Ad Channel Delivered Clicks at the Lowest Cost in 3Q13?" src="http://i.marketingprofs.com/assets/images/daily-data-point/041213-ddp-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/charts/2013/12189/which-online-ad-channels-delivered-clicks-at-the-lowest-costs-in-3q13" title="Which Ad Channel Delivered Clicks at the Lowest Cost in 3Q13?">Which Ad Channel Delivered Clicks at the Lowest Cost in 3Q13?</a></div>
+<div class="slideDatefeatured">12/4/2013 at 1:00 AM <a href="/marketing/library/1/advertising" class="slideCategory">Advertising</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/video/2013/10835/mobile-minute-video-google-io-isnt-just-for-developers"><img border="0" alt="Mobile Minute [Video]: Google I/O Isn't Just for Developers" src="http://i.marketingprofs.com/assets/images/articles/lg/mobile-minute-lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/video/2013/10835/mobile-minute-video-google-io-isnt-just-for-developers" title="Mobile Minute [Video]: Google I/O Isn't Just for Developers">Mobile Minute [Video]: Google I/O Isn't Just for Developers</a></div>
-<div class="slideDatefeatured">5/23/2013 at 10:00 AM <a href="/marketing/library/101/mobile" class="slideCategory">Mobile</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/chirp/2013/12184/marketers-tactics-tools-challenges-campaigns-infographic"><img border="0" alt="What Marketers Do: Their Tactics, Tools, Challenges, and Campaigns [Infographic]" src="http://i.marketingprofs.com/assets/images/daily-chirp/What-Marketers-Do-infographic-peek.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/chirp/2013/12184/marketers-tactics-tools-challenges-campaigns-infographic" title="What Marketers Do: Their Tactics, Tools, Challenges, and Campaigns [Infographic]">What Marketers Do: Their Tactics, Tools, Challenges, and Campaigns ...</a></div>
+<div class="slideDatefeatured">12/3/2013 at 10:00 AM <a href="/marketing/library/49/marketing%2Dstrategy" class="slideCategory">Marketing Strategy</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/charts/2013/10832/effectiveness-of-social-media-cues-in-ads"><img border="0" alt="Effectiveness of Social Media Cues in Ads [Infographic]" src="http://i.marketingprofs.com/assets/images/daily-data-point/230513-ddp-lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/charts/2013/10832/effectiveness-of-social-media-cues-in-ads" title="Effectiveness of Social Media Cues in Ads [Infographic]">Effectiveness of Social Media Cues in Ads [Infographic]</a></div>
-<div class="slideDatefeatured">5/23/2013 at 9:00 AM <a href="/marketing/library/1/advertising" class="slideCategory">Advertising</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/12210/from-smartphones-to-smart-everything-welcome-to-the-smart-revolution-part-1-of-2"><img border="0" alt="From Smartphones to Smart Everything: Welcome to the 'Smart' Revolution (Part 1 of 2)" src="http://i.marketingprofs.com/assets/images/articles/lg/131203-lightbulb-connections-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/12210/from-smartphones-to-smart-everything-welcome-to-the-smart-revolution-part-1-of-2" title="From Smartphones to Smart Everything: Welcome to the 'Smart' Revolution (Part 1 of 2)">From Smartphones to Smart Everything: Welcome to the 'Smart' ...</a></div>
+<div class="slideDatefeatured">12/3/2013 at 10:00 AM <a href="/marketing/library/49/marketing%2Dstrategy" class="slideCategory">Marketing Strategy</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/10775/how-to-gauge-the-power-and-value-of-your-content-marketing"><img border="0" alt="How to Gauge the Power and Value of Your Content Marketing" src="http://i.marketingprofs.com/assets/images/articles/lg/130522-Measurement-With-Caliper-lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/10775/how-to-gauge-the-power-and-value-of-your-content-marketing" title="How to Gauge the Power and Value of Your Content Marketing">How to Gauge the Power and Value of Your Content Marketing</a></div>
-<div class="slideDatefeatured">5/22/2013 at 10:00 AM <a href="/marketing/library/102/content" class="slideCategory">Content</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/charts/2013/12181/state-of-digital-marketing-talent-skills-lacking-specialists-needed"><img border="0" alt="State of Digital Marketing Talent: Skills Lacking, Specialists Needed" src="http://i.marketingprofs.com/assets/images/daily-data-point/031213-ddp-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/charts/2013/12181/state-of-digital-marketing-talent-skills-lacking-specialists-needed" title="State of Digital Marketing Talent: Skills Lacking, Specialists Needed">State of Digital Marketing Talent: Skills Lacking, Specialists Needed</a></div>
+<div class="slideDatefeatured">12/3/2013 at 9:00 AM <a href="/marketing/library/7/career%2Dmanagement" class="slideCategory">Career Management</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/podcasts/2013/10814/kill-your-content-mitch-joel-on-marketing-smarts-podcast"><img border="0" alt="Kill Your Content: Mitch Joel on Marketing Smarts [Podcast]" src="http://i.marketingprofs.com/assets/images/articles/lg/052213_mitch_joel_podcast_lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/podcasts/2013/10814/kill-your-content-mitch-joel-on-marketing-smarts-podcast" title="Kill Your Content: Mitch Joel on Marketing Smarts [Podcast]">Kill Your Content: Mitch Joel on Marketing Smarts [Podcast]</a></div>
-<div class="slideDatefeatured">5/22/2013 at 10:00 AM <a href="/marketing/library/100/social%2Dmedia" class="slideCategory">Social Media</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/12167/six-trends-for-2014-in-mobile-marketing-and-advertising"><img border="0" alt="Six Trends for 2014 in Mobile Marketing and Advertising" src="http://i.marketingprofs.com/assets/images/articles/lg/131202-Chart-on-laptop-tablets-phone-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/12167/six-trends-for-2014-in-mobile-marketing-and-advertising" title="Six Trends for 2014 in Mobile Marketing and Advertising">Six Trends for 2014 in Mobile Marketing and Advertising</a></div>
+<div class="slideDatefeatured">12/2/2013 at 10:00 AM <a href="/marketing/library/101/mobile" class="slideCategory">Mobile</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/charts/2013/10816/facebook-linkedin-most-important-social-platforms-for-marketers"><img border="0" alt="Facebook, LinkedIn Are Top Social Platforms for Marketers" src="http://i.marketingprofs.com/assets/images/daily-data-point/130522-ddp-lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/charts/2013/10816/facebook-linkedin-most-important-social-platforms-for-marketers" title="Facebook, LinkedIn Are Top Social Platforms for Marketers">Facebook, LinkedIn Are Top Social Platforms for Marketers</a></div>
-<div class="slideDatefeatured">5/22/2013 at 9:00 AM <a href="/marketing/library/100/social%2Dmedia" class="slideCategory">Social Media</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/charts/2013/12149/the-most-effective-retailers-on-social-media"><img border="0" alt="The Most Effective Retailers on Social Media" src="http://i.marketingprofs.com/assets/images/daily-data-point/021213-ddp-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/charts/2013/12149/the-most-effective-retailers-on-social-media" title="The Most Effective Retailers on Social Media">The Most Effective Retailers on Social Media</a></div>
+<div class="slideDatefeatured">12/2/2013 at 9:00 AM <a href="/marketing/library/100/social%2Dmedia" class="slideCategory">Social Media</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/10774/four-outside-the-box-ideas-to-better-understand-customer-experience"><img border="0" alt="Four Outside-the-Box Ideas to Better Understand Customer Experience" src="http://i.marketingprofs.com/assets/images/articles/lg/130521-Baby-Thinking-An-Idea-lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/10774/four-outside-the-box-ideas-to-better-understand-customer-experience" title="Four Outside-the-Box Ideas to Better Understand Customer Experience">Four Outside-the-Box Ideas to Better Understand Customer Experience</a></div>
-<div class="slideDatefeatured">5/21/2013 at 10:00 AM <a href="/marketing/library/12/customer%2Drelationships" class="slideCategory">Customer Relationships</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/chirp/2013/12178/a-social-media-holiday-gift-wish-list-infographic"><img border="0" alt="A Social Media Holiday Gift Wish List [Infographic]" src="http://i.marketingprofs.com/assets/images/daily-chirp/A-Social-Media-Holiday-Wish-List-infographic-peek.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/chirp/2013/12178/a-social-media-holiday-gift-wish-list-infographic" title="A Social Media Holiday Gift Wish List [Infographic]">A Social Media Holiday Gift Wish List [Infographic]</a></div>
+<div class="slideDatefeatured">11/30/2013 at 10:00 AM <a href="/marketing/library/100/social%2Dmedia" class="slideCategory">Social Media</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/chirp/2013/10822/the-hyperconnected-life-infographic"><img border="0" alt="The Hyperconnected Life [Infographic]" src="http://i.marketingprofs.com/assets/images/daily-chirp/A-Hyperconnected-Life-peek.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/chirp/2013/10822/the-hyperconnected-life-infographic" title="The Hyperconnected Life [Infographic]">The Hyperconnected Life [Infographic]</a></div>
-<div class="slideDatefeatured">5/21/2013 at 10:00 AM <a href="/marketing/library/45/segmentation" class="slideCategory">Segmentation</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/chirp/2013/12196/socialskim-social-media-this-week-big-brands-use-snapchat-better-social-service"><img border="0" alt="#SocialSkim: Social Media This Week: Brands Can Use Snapchat, Better Social Service" src="http://i.marketingprofs.com/assets/images/articles/lg/131129-socialskim-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/chirp/2013/12196/socialskim-social-media-this-week-big-brands-use-snapchat-better-social-service" title="#SocialSkim: Social Media This Week: Brands Can Use Snapchat, Better Social Service">#SocialSkim: Social Media This Week: Brands Can Use Snapchat, Better ...</a></div>
+<div class="slideDatefeatured">11/28/2013 at 1:00 PM <a href="/marketing/library/100/social%2Dmedia" class="slideCategory">Social Media</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/charts/2013/10798/instagram-more-effective-than-pinterest-for-top-brands"><img border="0" alt="Instagram More Effective Than Pinterest for Top Brands" src="http://i.marketingprofs.com/assets/images/daily-data-point/210513-ddp-lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/charts/2013/10798/instagram-more-effective-than-pinterest-for-top-brands" title="Instagram More Effective Than Pinterest for Top Brands">Instagram More Effective Than Pinterest for Top Brands</a></div>
-<div class="slideDatefeatured">5/21/2013 at 9:00 AM <a href="/marketing/library/100/social%2Dmedia" class="slideCategory">Social Media</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/12165/instagrams-ad-supported-model-how-can-instagram-succeed"><img border="0" alt="Instagram's Ad-Supported Model: How Can Instagram Succeed?" src="http://i.marketingprofs.com/assets/images/articles/lg/131127-instagram-logo-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/12165/instagrams-ad-supported-model-how-can-instagram-succeed" title="Instagram's Ad-Supported Model: How Can Instagram Succeed?">Instagram's Ad-Supported Model: How Can Instagram Succeed?</a></div>
+<div class="slideDatefeatured">11/27/2013 at 10:00 AM <a href="/marketing/library/1/advertising" class="slideCategory">Advertising</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/10773/the-nitty-gritty-of-brand-story-power"><img border="0" alt="The Nitty-Gritty of Brand Story Power" src="http://i.marketingprofs.com/assets/images/articles/lg/130520-storybook-lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/10773/the-nitty-gritty-of-brand-story-power" title="The Nitty-Gritty of Brand Story Power">The Nitty-Gritty of Brand Story Power</a></div>
-<div class="slideDatefeatured">5/20/2013 at 10:00 AM <a href="/marketing/library/102/content" class="slideCategory">Content</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/12166/animated-gifs-in-email-three-great-examples-and-five-quick-tips"><img border="0" alt="Animated GIFs in Email: Three Great Examples and Five Quick Tips" src="http://i.marketingprofs.com/assets/images/articles/lg/131127-teamwork_lead-lg.gif"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/12166/animated-gifs-in-email-three-great-examples-and-five-quick-tips" title="Animated GIFs in Email: Three Great Examples and Five Quick Tips">Animated GIFs in Email: Three Great Examples and Five Quick Tips</a></div>
+<div class="slideDatefeatured">11/27/2013 at 10:00 AM <a href="/marketing/library/17/email%2Dmarketing" class="slideCategory">Email Marketing</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/charts/2013/10793/social-media-delivers-highest-quality-users-in-ad-campaigns"><img border="0" alt="Social Media Delivers Highest-Quality Users in Ad Campaigns" src="http://i.marketingprofs.com/assets/images/daily-data-point/180513-ddp-lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/charts/2013/10793/social-media-delivers-highest-quality-users-in-ad-campaigns" title="Social Media Delivers Highest-Quality Users in Ad Campaigns">Social Media Delivers Highest-Quality Users in Ad Campaigns</a></div>
-<div class="slideDatefeatured">5/20/2013 at 9:00 AM <a href="/marketing/library/1/advertising" class="slideCategory">Advertising</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/podcasts/2013/12169/branding-brian-sheehan-marketing-smarts"><img border="0" alt="The Language of Brand Love: Loveworks Author Brian Sheehan Talks to Marketing Smarts [Podcast]" src="http://i.marketingprofs.com/assets/images/articles/lg/131127-podcast-Brian-Sheehan-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/podcasts/2013/12169/branding-brian-sheehan-marketing-smarts" title="The Language of Brand Love: Loveworks Author Brian Sheehan Talks to Marketing Smarts [Podcast]">The Language of Brand Love: Loveworks Author Brian Sheehan Talks to ...</a></div>
+<div class="slideDatefeatured">11/27/2013 at 10:00 AM <a href="/marketing/library/12/customer%2Drelationships" class="slideCategory">Customer Relationships</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/chirp/2013/10796/the-state-of-digital-content-infographic"><img border="0" alt="The State of Digital Content [Infographic]" src="http://i.marketingprofs.com/assets/images/daily-chirp/uberflip_digital_content_consumption_infographic-peek.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/chirp/2013/10796/the-state-of-digital-content-infographic" title="The State of Digital Content [Infographic]">The State of Digital Content [Infographic]</a></div>
-<div class="slideDatefeatured">5/18/2013 at 10:00 AM <a href="/marketing/library/102/content" class="slideCategory">Content</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/charts/2013/12112/customer-service-trends-people-prefer-phone-support-companies-slow-to-respond-in-evenings"><img border="0" alt="Customer Service Trends: People Prefer Phone Support, Companies Slow to  Respond in Evenings" src="http://i.marketingprofs.com/assets/images/daily-data-point/211113-ddp-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/charts/2013/12112/customer-service-trends-people-prefer-phone-support-companies-slow-to-respond-in-evenings" title="Customer Service Trends: People Prefer Phone Support, Companies Slow to  Respond in Evenings">Customer Service Trends: People Prefer Phone Support, Companies Slow ...</a></div>
+<div class="slideDatefeatured">11/27/2013 at 9:00 AM <a href="/marketing/library/12/customer%2Drelationships" class="slideCategory">Customer Relationships</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/10734/wherefore-art-thou-j-peterman-the-quest-for-social-engagement"><img border="0" alt="Wherefore Art Thou, J. Peterman? The Quest for Social Engagement" src="http://i.marketingprofs.com/assets/images/articles/lg/13051-peterman-lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/10734/wherefore-art-thou-j-peterman-the-quest-for-social-engagement" title="Wherefore Art Thou, J. Peterman? The Quest for Social Engagement">Wherefore Art Thou, J. Peterman? The Quest for Social Engagement</a></div>
-<div class="slideDatefeatured">5/17/2013 at 10:00 AM <a href="/marketing/library/102/content" class="slideCategory">Content</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/chirp/2013/12161/b2b-lead-generation-trends-for-2014-whats-hot-and-whats-not"><img border="0" alt="B2B Lead Generation Trends for 2014: What's Hot and What's Not [Infographic]" src="http://i.marketingprofs.com/assets/images/articles/sm/hot-or-not-best-methods-for-finding-b2b-customers-peek.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/chirp/2013/12161/b2b-lead-generation-trends-for-2014-whats-hot-and-whats-not" title="B2B Lead Generation Trends for 2014: What's Hot and What's Not [Infographic]">B2B Lead Generation Trends for 2014: What's Hot and What's Not ...</a></div>
+<div class="slideDatefeatured">11/26/2013 at 10:00 AM <a href="/marketing/library/49/marketing%2Dstrategy" class="slideCategory">Marketing Strategy</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/chirp/2013/10797/socialskim-a-real-kitchen-and-social-media-nightmare-facebook-fan-value-pinterest-stress"><img border="0" alt="#SocialSkim: A Real Kitchen (and Social Media) Nightmare, Facebook Fan Value, Pinterest Stress" src="http://i.marketingprofs.com/assets/images/articles/lg/socialskim-pinterest-peek.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/chirp/2013/10797/socialskim-a-real-kitchen-and-social-media-nightmare-facebook-fan-value-pinterest-stress" title="#SocialSkim: A Real Kitchen (and Social Media) Nightmare, Facebook Fan Value, Pinterest Stress">#SocialSkim: A Real Kitchen (and Social Media) Nightmare, Facebook Fan Value, Pinterest Stress</a></div>
-<div class="slideDatefeatured">5/17/2013 at 10:00 AM <a href="/marketing/library/100/social%2Dmedia" class="slideCategory">Social Media</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/12164/11-quick-hit-tips-for-getting-started-with-google-hangouts-on-air"><img border="0" alt="11 Quick-Hit Tips for Getting Started With Google+ Hangouts on Air" src="http://i.marketingprofs.com/assets/images/articles/lg/131126-google-plus-hangout-on-air-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/12164/11-quick-hit-tips-for-getting-started-with-google-hangouts-on-air" title="11 Quick-Hit Tips for Getting Started With Google+ Hangouts on Air">11 Quick-Hit Tips for Getting Started With Google+ Hangouts on Air</a></div>
+<div class="slideDatefeatured">11/26/2013 at 10:00 AM <a href="/marketing/library/102/content" class="slideCategory">Content</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/charts/2013/10791/how-small-business-owners-are-using-mobile-technology"><img border="0" alt="How Small-Business Owners Are Using Mobile Technology" src="http://i.marketingprofs.com/assets/images/daily-data-point/170513-ddp-lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/charts/2013/10791/how-small-business-owners-are-using-mobile-technology" title="How Small-Business Owners Are Using Mobile Technology">How Small-Business Owners Are Using Mobile Technology</a></div>
-<div class="slideDatefeatured">5/17/2013 at 9:00 AM <a href="/marketing/library/101/mobile" class="slideCategory">Mobile</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/charts/2013/12135/does-small-business-saturday-help-small-businesses"><img border="0" alt="Does Small Business Saturday Pay Off for Participants?" src="http://i.marketingprofs.com/assets/images/daily-data-point/261113-ddp-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/charts/2013/12135/does-small-business-saturday-help-small-businesses" title="Does Small Business Saturday Pay Off for Participants?">Does Small Business Saturday Pay Off for Participants?</a></div>
+<div class="slideDatefeatured">11/26/2013 at 9:00 AM <a href="/marketing/library/49/marketing%2Dstrategy" class="slideCategory">Marketing Strategy</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/10733/four-steps-to-ensuring-your-strategy-achieves-results"><img border="0" alt="Four Steps to Ensuring Your Strategy Achieves Results" src="http://i.marketingprofs.com/assets/images/articles/lg/130516-Four-blank-numbered-sequential-lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/10733/four-steps-to-ensuring-your-strategy-achieves-results" title="Four Steps to Ensuring Your Strategy Achieves Results">Four Steps to Ensuring Your Strategy Achieves Results</a></div>
-<div class="slideDatefeatured">5/16/2013 at 10:00 AM <a href="/marketing/library/49/marketing%2Dstrategy" class="slideCategory">Marketing Strategy</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/articles/2013/12158/three-marketing-tactics-for-the-emerging-apple-demographic"><img border="0" alt="Three Marketing Tactics to Tap Into the Emerging Apple Demographic" src="http://i.marketingprofs.com/assets/images/articles/lg/131125-Online-Shopping-With-Tablet-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/articles/2013/12158/three-marketing-tactics-for-the-emerging-apple-demographic" title="Three Marketing Tactics to Tap Into the Emerging Apple Demographic">Three Marketing Tactics to Tap Into the Emerging Apple Demographic</a></div>
+<div class="slideDatefeatured">11/25/2013 at 10:00 AM <a href="/marketing/library/9/customer%2Dbehavior" class="slideCategory">Customer Behavior</a></div>
 </div>
 </li>
 <li>
-<div class="slide "><a href="http://www.marketingprofs.com/video/2013/10795/mobile-minute-video-should-marketers-care-about-google-glass"><img border="0" alt="Mobile Minute [Video]: Should Marketers Care About Google Glass?" src="http://i.marketingprofs.com/assets/images/articles/lg/mobile-minute-lg.jpg"></a>
-<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/video/2013/10795/mobile-minute-video-should-marketers-care-about-google-glass" title="Mobile Minute [Video]: Should Marketers Care About Google Glass?">Mobile Minute [Video]: Should Marketers Care About Google Glass?</a></div>
-<div class="slideDatefeatured">5/16/2013 at 10:00 AM <a href="/marketing/library/101/mobile" class="slideCategory">Mobile</a></div>
+<div class="slide "><a href="http://www.marketingprofs.com/charts/2013/12114/email-benchmarks-the-value-of-a-mobile-click-ctrs-by-industry-subscriber-activity-trends"><img border="0" alt="Email Benchmarks: The Value of a Mobile Click, CTRs by Industry, Subscriber Activity Trends" src="http://i.marketingprofs.com/assets/images/daily-data-point/251113-ddp-lg.jpg"></a>
+<div class="slideTitleLarge"><a href="http://www.marketingprofs.com/charts/2013/12114/email-benchmarks-the-value-of-a-mobile-click-ctrs-by-industry-subscriber-activity-trends" title="Email Benchmarks: The Value of a Mobile Click, CTRs by Industry, Subscriber Activity Trends">Email Benchmarks: The Value of a Mobile Click, CTRs by Industry, ...</a></div>
+<div class="slideDatefeatured">11/25/2013 at 9:00 AM <a href="/marketing/library/17/email%2Dmarketing" class="slideCategory">Email Marketing</a></div>
 </div>
 </li>
 </ul>
@@ -698,6 +730,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
         </li>
+        
       </ul>
       </div>
     <div class="column">
@@ -717,10 +750,11 @@ function googleTranslateElementInit() {
         <li><a href="http://www.marketingprofs.com/about/" title="About Us">About Us</a></li>
         <li><a href="http://www.marketingprofs.com/about/management/" title="Executive Team">Executive Team</a></li>
         <li><a href="http://www.marketingprofs.com/write-for-us" title="Write For Us">Write For Us</a></li>
-        <li><a href="http://www.marketingprofs.com/about/mediakit/" title="Advertise">Advertise With Us</a></li>
+        <li><a href="http://services.marketingprofs.com" title="Advertise" target="_blank">Advertise With Us</a></li>
         <li><a href="http://partners.marketingprofs.com/affiliates" target="_blank" title="Affiliate Program">Affiliate Program</a></li>
         <li><a href="http://www.marketingprofs.com/about/licensing/" title="Licensing/Republishing">Licensing/Republishing</a></li>
         <li><a href="http://www.marketingprofs.com/syndication/" title="RSS">RSS/Syndication</a></li>
+        <li><a href="http://www.marketingprofs.com/about/partners" title="Partners">Partners</a></li>
         <li><a href="http://www.marketingprofs.com/about/privacy" title="Privacy">Privacy</a></li>
         <li><a href="http://www.marketingprofs.com/about/contact/" title="Contact">Contact Us</a></li>
       </ul>
@@ -761,7 +795,7 @@ function googleTranslateElementInit() {
       </div>
       </div>
   </div>
-  <div id="copyright">Copyright © 2000-2013 MarketingProfs LLC. <a href="http://www.marketingprofs.com/about/copyright"> All Rights Reserved</a>. <a href="http://www.marketingprofs.com/about/terms-of-use"><u>Terms</u></a> under which this service is provided to you.</div>
+  <div id="copyright">Copyright © 2000-2013 MarketingProfs LLC. <a href="http://www.marketingprofs.com/about/copyright"> All rights reserved</a>. <a href="http://www.marketingprofs.com/about/terms-of-use">Terms of use</a>.</div>
     <div id="bbbseal"><a href="http://www.bbb.org/los-angeles/business-reviews/100057820#sealclick" target="_blank"><img src="/assets/images/seals/bbb.png" alt="Better Business Bureau Seal" border="0"></a>
     <script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?code=7898d99a0ca511e0b34b005056b201e5"></script> 
   </div>
