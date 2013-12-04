@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexandermcqueen.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614115259id_/http%3A//www.alexandermcqueen.com/cms/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexandermcqueen.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204110149id_/http%3A//www.alexandermcqueen.com/cms/legal/privacypolicy.asp) for the most accurate reproduction.*
 
 # Alexander McQueen Online Store - Legal Area
 
@@ -8,29 +8,29 @@ This Privacy Policy applies when you visit or surf the Site without purchasing a
 
 Since personal data (“ **Personal Data** ”) of users and customers (collectively " **Users** ") of this Site may be processed in the European Union, notably in Italy, any processing of Personal Data will be conducted in compliance with applicable European laws. 
 
-Your personal data are collected and processed by Alexander McQueen Ltd and the companies of the PPR Group (the "PPR Group") as well as by their service providers located within and outside of the European Union (collectively " **us** ", " **we** ", " **our** "). Alexander McQueen Ltd has its registered offices in Chalegrove House, 34-36 Perrymount Road, Haywards Heath, West Sussex, RH16 3DN, United Kingdom and may be contacted at privacy@store.alexandermcqueen.com for any issue relating to this privacy policy. 
+Your personal data are collected and processed by Alexander McQueen Trading Limited and the companies of the Kering Group (the "Kering Group") as well as by their service providers located within and outside of the European Union (collectively " **us** ", " **we** ", " **our** "). Alexander McQueen Trading Limited has its registered offices in 5th Floor Rear Suite, Oakfield House, 35 Perrymount Road, Haywards Heath, West Sussex, England, RH16 3BW and may be contacted at privacy@store.alexandermcqueen.com for any issue relating to this privacy policy. 
 
-Your Personal Data will be processed to provide the services you subscribed to or reserved for registered users, to facilitate your navigation of and shopping from the website and to keep you informed of PPR Group news and offers. 
+Your Personal Data will be processed to provide the services you subscribed to or reserved for registered users, to facilitate your navigation of and shopping from the website and to keep you informed of Kering Group news and offers. 
 
-Alexander McQueen Ltd and the companies of PPR Group are jointly controllers of Personal Data collected and processed for purpose of rendering the e-commerce services and the sale of products (herein the " **Commercial Purposes** ") through the Site, together with YOOX S.p.A. with registered offices in Via Nannetti 1, 40069 Zola Predosa (BO), Italy, Bologna Business Register, Tax and VAT number 02050461207, share capital Euro 574.301,00 fully paid up. 
+Alexander McQueen Trading Limited and the companies of Kering Group are jointly controllers of Personal Data collected and processed for purpose of rendering the e-commerce services and the sale of products (herein the " **Commercial Purposes** ") through the Site, together with YOOX S.p.A. with registered offices in Via Nannetti 1, 40069 Zola Predosa (BO), Italy, Bologna Business Register, Tax and VAT number 02050461207, share capital Euro 580,273.72 fully paid up. 
 
-The management of the sale of the products and the transactions performed on www.alexandermcqueen.com, within the United States of America are operated, under license, by YOOX S.p.A.’ s subsidiary YOOX Corporation, a Delaware corporation having an address at 122 Hudson Street, 5th Floor, New York, New York 10013 ("YOOX USA", YOOX S.p.A. and YOOX USA also jointly referred to as YOOX). 
+The management of the sale of the products and the transactions performed on www.alexandermcqueen.com, within the United States of America are operated, under license, by YOOX S.p.A.’ s subsidiary YOOX Corporation, a Delaware corporation having an address at  148 Lafayette Street, 10th Floor,  New York, New York 10013 ("YOOX USA", YOOX S.p.A. and YOOX USA also jointly referred to as YOOX). 
 
 YOOX USA is the controller of personal data of users and customers of the Site within the United States of America, which is collected for conducting, concluding and performing transactions for purchasing products on the aforementioned site. As required by the Italian Data Protection Code, YOOX USA has appointed YOOX S.p.A. as its data protection representative in Italy. As our data protection representative in Italy, YOOX S.p.A. ensures that personal data are processed in Italy in a correct and lawful manner and in accordance with good practice. Since personal data of users and customers collected for conducting, concluding and performing purchase transactions through the Site in the United States of America may be processed in Italy, any such processing of personal data will be conducted in compliance with applicable US law as well as the Italian Data Protection Code (Legislative Decree no. 196 dated June 30, 2003). 
 
-Alexander McQueen Ltd and the companies of PPR Group are the sole data controllers of the Personal Data processed for marketing purposes, notably to send to Users, also through newsletter, information and updates on its products, offers, exclusive sales, promotional campaigns and on events and similar initiatives organized by Alexander McQueen Ltd or the companies of PPR Group (herein the " **Marketing Purposes** "). 
+Alexander McQueen Trading Limited and the companies of Kering Group are the sole data controllers of the Personal Data processed for marketing purposes, notably to send to Users, also through newsletter, information and updates on its products, offers, exclusive sales, promotional campaigns and on events and similar initiatives organized by Alexander McQueen Trading Limited or the companies of Kering Group (herein the " **Marketing Purposes** "). 
 
 **1\. Our Policy**
 
 Everyone has the right to protection of his/her Personal Data. We and YOOX respect Users' right to be informed regarding the collection of and other operations involving their Personal Data. In using data that may directly or indirectly identify you personally, we will apply a principle of strict necessity. For this reason, we and YOOX have designed the Site in such a way that the use of your Personal Data will be kept to a minimum and will not exceed the purposes for which your Personal Data was collected and/or processed; we and YOOX do not process your Personal Data when we can provide you with services through the use of anonymous or traffic data (such as marketing research made for improving our services, browsing data processed to provide you with customized contents or offers adapted to your preferred language, your location, etc) or by other means which allow us and YOOX to identify you, apart from when it is strictly necessary or upon request by competent public authorities or the police (for example, in case of traffic data or your IP address). 
 
-This Privacy Policy provides you with all information needed to understand how we and YOOX collect data which may identify the Site’s Users. For further information on our Privacy Policy, please contact us or YOOX at privacy@store.alexandermcqueen.com, or at YOOX or Alexander McQueen Ltd at their respective registered offices indicated above. 
+This Privacy Policy provides you with all information needed to understand how we and YOOX collect data which may identify the Site’s Users. For further information on our Privacy Policy, please contact us or YOOX at privacy@store.alexandermcqueen.com, or at YOOX or Alexander McQueen Trading Limited at their respective registered offices indicated above. 
 
 **2\. Who collects and processes Your Personal Data, how and for which purposes?**
 
-YOOX, Alexander McQueen Ltd and the companies of PPR Group may be jointly or respectively the controllers of your Personal Data as they determine the Commercial Purposes and means of processing Personal Data. For the Commercial Purposes only, YOOX and Alexander McQueen have appointed certain entities that will also process Personal Data relating to the Site’s Users (herein the " **Processors** "). 
+YOOX, Alexander McQueen Trading Limited and the companies of Kering Group may be jointly or respectively the controllers of your Personal Data as they determine the Commercial Purposes and means of processing Personal Data. For the Commercial Purposes only, YOOX and Alexander McQueen have appointed certain entities that will also process Personal Data relating to the Site’s Users (herein the " **Processors** "). 
 
-The above mentioned service providers and Processors have been chosen because of their experience in processing Personal Data and they provide sufficient guarantees regarding compliance with data protection laws (including the technical security measures governing the processing to be carried out). In processing the Personal Data for Commercial Purposes, the Processors shall act only under the instructions from Yoox or from Alexander McQueen Ltd. We regularly check that our Processors comply with our instructions and that they continue to provide sufficient guarantees regarding their full compliance with the provisions on Personal Data processing. 
+The above mentioned service providers and Processors have been chosen because of their experience in processing Personal Data and they provide sufficient guarantees regarding compliance with data protection laws (including the technical security measures governing the processing to be carried out). In processing the Personal Data for Commercial Purposes, the Processors shall act only under the instructions from Yoox or from Alexander McQueen Trading Limited. We regularly check that our Processors comply with our instructions and that they continue to provide sufficient guarantees regarding their full compliance with the provisions on Personal Data processing. 
 
 Some of the Processors of your Personal Data appointed by YOOX for Commercial Purposes directly are: 
 
@@ -60,11 +60,11 @@ Disclosure of further Personal Data to us and YOOX other than that required for 
 
 **4\. To Whom Your Personal Data Will Be Disclosed?**
 
-Personal Data will be disclosed to third party companies that provide, on behalf of Alexander McQueen Ltd, specific services as data Processors or to other recipients of Personal Data collected by us or YOOX that process your Personal Data only for the Commercial Purposes (for example, Banca Sella S.p.A.) and, in any case, according to applicable laws and regulations. 
+Personal Data will be disclosed to third party companies that provide, on behalf of Alexander McQueen Trading Limited, specific services as data Processors or to other recipients of Personal Data collected by us or YOOX that process your Personal Data only for the Commercial Purposes (for example, Banca Sella S.p.A.) and, in any case, according to applicable laws and regulations. 
 
-Your Personal Data is also intended to the companies belonging to PPR’s Group, with registered offices in EU countries or non EU countries, for their own Marketing Purposes.
+Your Personal Data is also intended to the companies belonging to Kering’s Group, with registered offices in EU countries or non EU countries, for their own Marketing Purposes.
 
-Please send an e-mail at privacy@store.alexandermcqueen.com if you would like to receive a full updated list of PPR’s Group companies. 
+Please send an e-mail at privacy@store.alexandermcqueen.com if you would like to receive a full updated list of Kering’s Group companies. 
 
 Notwithstanding the foregoing, Personal Data will not be disclosed to any other third parties or disseminated or transferred without informing our Users of such disclosure/dissemination/transfer, and, in any case, in accordance with the applicable laws. 
 
@@ -104,7 +104,7 @@ You may freely exercise your rights at any time, provided that you do so in comp
 
 **9\. Opt-in/Opt out**
 
-Each time your consent is required, Alexander McQueen Ltd will inform you in advance and will give you the option to either provide or refuse your consent for the use of your Personal Data, including your e-mail address, for the above purposes, by ticking the appropriate boxes. 
+Each time your consent is required, Alexander McQueen Trading Limited will inform you in advance and will give you the option to either provide or refuse your consent for the use of your Personal Data, including your e-mail address, for the above purposes, by ticking the appropriate boxes. 
 
 We wish to inform you that us or YOOX may process your Personal Data also without your consent in certain circumstances, such as when such processing is necessary for performing a legal obligation to which us or YOOX are subject or when such processing is necessary for performing obligations undertaken in contracts with the users. 
 
@@ -116,11 +116,11 @@ In any case, we wish to inform you that YOOX and us guarantee that its users ma
 
 We or YOOX do not control or monitor such web sites or their web content. We or YOOX shall not be held liable for the web content of such sites and for the rules adopted by them in terms of your privacy and the processing of your Personal Data while you are visiting those web sites. Please, pay attention when you connect to these web sites through the links provided on our web site and read their terms and conditions of use and their privacy policy carefully. Our Privacy Policy does not apply to third party web sites and we or YOOX are by no means liable for the privacy policy adopted by those web sites. The Site provides links to other web sites exclusively to help its Users in their searches and net-surfing activities and to allow links to other web sites on the Internet. When we or YOOX provide links to other web sites, we do not recommend the use of these web sites and do not provide any guarantees regarding their web content or the services and products supplied and sold by these web sites to Internet Users. 
 
-**11 Contacts**
+**11\. Contacts**
 
 If you wish to receive further information on how we or YOOX process your Personal Data, please send an e-mail to privacy@store.alexandermcqueen.com. 
 
-**12 Governing Law**
+**12\. Governing Law**
 
 To the extent that we and YOOX are respectively established in the UK and in Italy, this Privacy Policy is governed by (herein and together, "Governing Laws"): 
 
