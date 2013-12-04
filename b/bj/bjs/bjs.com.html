@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bjs.com privacy policy that was archived on 2013-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620162926id_/http%3A//www.bjs.com/privacy-policy.content.about_privacy.A.about) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bjs.com privacy policy that was archived on 2013-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204235616id_/http%3A//www.bjs.com/privacy-policy.content.about_privacy.A.about) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="dj_khtml dj_safari"><head>
 		<title>Privacy Policy - BJ's Wholesale Club</title>
@@ -305,25 +305,22 @@ function resetField(searchText)
 	searchText.value=searchText.defaultValue;
 }
 function submitEmail(formName,url){
-	 reWhiteSpace = new RegExp(/^\s+$/);
+	reWhiteSpace = new RegExp(/^\s+$/);
 	
 	var form = document.forms[formName];
 	var emailUrl = '/webapp/wcs/stores/servlet/AjaxEmailOptionsUpdate?langId=-1&amp;storeId=10201&amp;catalogId=10201';
-	 var failed = false;
+	var failed = false;
 	
 	if(form.email1.value == "" || reWhiteSpace.test(form.email1.value)){
-				alert(' E-mail is required ');
-				failed = true;
-	}	
-	else if(!Common.isValidEmail(form.email1.value))
-	{ 
-	alert(' E-mail is invalid ');
-	failed = true;
+		alert(' E-mail is required ');
+		failed = true;
+	} else if(!Common.isValidEmail(form.email1.value)) { 
+		alert(' E-mail is invalid ');
+		failed = true;
 	}
+	
 	if(!failed){
 		//form.action = url;
-		//alert(form.action);
-		//form.submit();
 		dojo.require("wc.service.common");
 	
 		wc.service.declare({
@@ -333,14 +330,12 @@ function submitEmail(formName,url){
 		  formId: formName,
 		
 		successHandler: function(serviceResponse) {			 
-			  
 			  // show user a dialog indicating that their e-mail has been signed up
 			  //dijit.byId("emailSignupSuccessDialog").show();
-				openpopup(formName);	 
-				hs_aOE= "1003~"+form.email1.value+"~";   
-				SC_BJs.initializeTagging();
-				
-		    },
+			openpopup(formName);	 
+			hs_aOE= "1003~"+form.email1.value+"~";   
+			SC_BJs.initializeTagging();
+		},
 		
 		failureHandler: function(serviceResponse) {
 		    if (serviceResponse.errorMessage) {
@@ -351,8 +346,8 @@ function submitEmail(formName,url){
 		 wc.service.invoke("AjaxEmailOptionsUpdate");
 		 cursor_wait();
 	}
-				
 }
+
 function openpopup(mform) {
 	var form = document.forms[mform];
     var tdate = form.NM_SUBS_DATE.value;
@@ -754,11 +749,12 @@ wc.render.declareRefreshController({
   
 <script type="text/javascript">
       
-    var myVar=null;
+    var tsit=new Date().getTime();
     function myresetFunction()
     {
-       clearTimeout(myVar);
-       myVar=setTimeout(function(){},1000);
+      // clearTimeout(myVar);
+      // myVar=setTimeout(function(){},1000);
+	  tsit=new Date().getTime();
     }
 	
 
@@ -849,9 +845,13 @@ wc.render.declareRefreshController({
         params["langId"]=langId;
 		if(textBox.value != '' && textBox.value.length > 2) {
 		  //check timer if greater than 1000 ms
+		  if (new Date().getTime() - tsit < 500) {
+		    myresetFunction();
+		    return false;
+		  }
 		  yy=textBox.value.charAt(textBox.value.length-1);
 		  if(yy == ' '){
-		    //myresetFunction();
+		    myresetFunction();
 		    return false;
 		   }
          params["typeAheadStart"]=textBox.value;
@@ -868,7 +868,7 @@ wc.render.declareRefreshController({
 		     toggleBox('typeAheadList',0);
 		   }
 		 }
-		  //myresetFunction();
+		  myresetFunction();
 		  
 		}
 		}
@@ -966,7 +966,7 @@ wc.render.declareRefreshController({
 <div id="SiteTagDiv"></div>	
 <div id="username">
 
-
+<!--JSP File Name: UserNameDisplay.jsp - Start -->
 <script>
 	function formSubmit(form){
 		var zipCode = form.userZipCode.value;
@@ -975,19 +975,19 @@ wc.render.declareRefreshController({
 		 populateLatLong(form, zipCode);
 	}
 	function whatIsThisWindow() {
-		var urlLocation = '/webapp/wcs/stores/servlet/BjsContentPopUpView?langId=-1&amp;storeId=10201&amp;catalogId=&amp;titleName=Associate+Membership+%23+to+Online+Registration';
+		var urlLocation = '/webapp/wcs/stores/servlet/BjsContentPopUpView?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;titleName=Associate+Membership+%23+to+Online+Registration';
 		window.open(urlLocation, "mywindow", "status=1,scrollbars=1,resizable=1,width=470,height=240");
 	}
 </script>
 <!-- 2559 - no need to pass false in rememberMeCookie - Sudish --><!-- 2559 - removed the rememberMeCookie as it is false - Sudish --><!-- 2559 - added the rememberMeCookie if it is true - Sudish -->
 		<div class="hiUser">
 		 
-			       <a href="/info.aboutmembership.options"> Membership</a> | 
+			       <a href="/purchase.membership.options"> Membership</a> | 
 		<!-- BEGIN UserDisplayParams.jsp -->
-<a href="/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;logonReturnURL=%2fprivacy-policy.content.about_privacy.A.about&amp;logonReturnURL=%2fwebapp%2fwcs%2fstores%2fservlet%2fLocatorMapDirectionsView%3fstoreId%3d10201%26catalogId%3d%26langId%3d-1%26locationId%3d359">Sign In/Register</a>
+<a href="/webapp/wcs/stores/servlet/LogonForm?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;logonReturnURL=%2fprivacy-policy.content.about_privacy.A.about&amp;logonReturnURL=%2f">Sign In/Register</a>
 <!-- END UserDisplayParams.jsp -->
 		</div>
-	<!-- 2298-Abandon cart fix for nonmember regn and emailoptions update -->
+	<!-- 2298-Abandon cart fix for nonmember regn and emailoptions update --><!--JSP File Name: UserNameDisplay.jsp - End -->
 
 
 </div>
@@ -1000,7 +1000,7 @@ wc.render.declareRefreshController({
 	
 	<li dojotype="wc.widget.RefreshArea" border="1" id="wishList" widgetid="wishList" controllerid="wishListController">
 		
-		<a href="/webapp/wcs/stores/servlet/InterestItemDisplay?storeId=10201&amp;catalogId=&amp;langId=-1&amp;listId=." id="wishListLink">wish list
+		<a href="/webapp/wcs/stores/servlet/InterestItemDisplay?storeId=10201&amp;catalogId=10201&amp;langId=-1&amp;listId=." id="wishListLink">wish list
 		   <img src="/wcsstore/BJs/images/transparent.gif" align="middle" class="bjsFtSprit checkLogo cart-img-align">
 		
 				(0)
@@ -1037,22 +1037,26 @@ function errorHandler(id,newloc){
 function goToHomePage(){
 	document.location.href = '/';
 }
-function goToShoppingCart(){
-	document.location.href = '/webapp/wcs/stores/servlet/ViewCart?langId=-1&storeId=10201&catalogId=&continueURL=%2fwebapp%2fwcs%2fstores%2fservlet%2fCouponsDisplayView%3fstoreId%3d10201%26catalogId%3d%26langId%3d-1&orderId=.';
+function viewCart(){
+	if(window.location.pathname == '/webapp/wcs/stores/servlet/ViewCart' ){
+		fadeItOutFast();
+	}else {
+		document.location.href = '/webapp/wcs/stores/servlet/ViewCart?langId=-1&storeId=10201&catalogId=10201&continueURL=%2f&orderId=.';
+	}
 }
 
 </script>
 
 
-	<input type="hidden" value="0" id="miniShopCartTotalData">
+	<input type="hidden" value="{0}" id="miniShopCartTotalData">
 <!-- Mark the position..will show our dialog here --> 
 <div id="placeHolder"></div>
 	
 
 <div>
-	<!--<span class="cart-btn"><a href="/webapp/wcs/stores/servlet/ViewCart?langId=-1&amp;storeId=10201&amp;catalogId=&amp;continueURL=%2fwebapp%2fwcs%2fstores%2fservlet%2fCouponsDisplayView%3fstoreId%3d10201%26catalogId%3d%26langId%3d-1&amp;orderId=."><img src="/wcsstore/BJs/images/icon-cart.gif" alt="Cart" align="top" class="cart-img-align"/></a></span>
+	<!--<span class="cart-btn"><a href="/webapp/wcs/stores/servlet/ViewCart?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;continueURL=%2f&amp;orderId=."><img src="/wcsstore/BJs/images/icon-cart.gif" alt="Cart" align="top" class="cart-img-align"/></a></span>
 	-->
-	<a href="/webapp/wcs/stores/servlet/ViewCart?langId=-1&amp;storeId=10201&amp;catalogId=&amp;continueURL=%2fwebapp%2fwcs%2fstores%2fservlet%2fCouponsDisplayView%3fstoreId%3d10201%26catalogId%3d%26langId%3d-1&amp;orderId=." title="cart" id="thenode">
+	<a href="/webapp/wcs/stores/servlet/ViewCart?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;continueURL=%2f&amp;orderId=." title="cart" id="thenode">
 		cart&nbsp;		
 		<img src="/wcsstore/BJs/images/order/transparent.gif" alt="Cart" border="0" align="absbottom" class="bjsSprit cartIcon">
 
@@ -1077,29 +1081,30 @@ function goToShoppingCart(){
     <div class="padAll10px">
     	<h6>Shopping Cart</h6>
         <div class="padTop2px padTop8px float-left wid45">
-        	<span class="float-left mrgTop2px"><img src="/wcsstore/BJs/images/transparent.gif" border="0" align="absbottom" class="bjsSprit cartIcon"></span> <span class="float-left"><span class="float-left mrgRt3px">0</span>Item(s) in cart</span>
+        	<span class="float-left mrgTop2px"><img src="/wcsstore/BJs/images/transparent.gif" border="0" align="absbottom" class="bjsSprit cartIcon"></span> <span class="float-left"><span class="float-left mrgRt3px"></span>Item(s) in cart</span>
         </div>
         <div class="float-right">
-        	<input type="button" class="btnClass" href="/webapp/wcs/stores/servlet/ViewCart?langId=-1&amp;storeId=10201&amp;catalogId=&amp;continueURL=%2fwebapp%2fwcs%2fstores%2fservlet%2fCouponsDisplayView%3fstoreId%3d10201%26catalogId%3d%26langId%3d-1&amp;orderId=." value="Cart Details" title="Cart Details">
+        	<input type="button" class="btnClass" onclick="viewCart();return false;" value="Cart Details" title="Cart Details">
         </div>
         <div class="clear"></div>
       
         <form name="MiniShoppingCartForm" id="MiniShoppingCartForm" action="">
 
-			<input type="hidden" name="totalitemincart" value="0">
-			 <input type="hidden" name="totalMerchItemsInCart" value="0">
-			 <input type="hidden" id="numItems" name="numItem" value="0">
+			<input type="hidden" name="totalitemincart" value="">
+			 <input type="hidden" name="totalMerchItemsInCart" value="">
+			 <input type="hidden" id="numItems" name="numItem" value="{0}">
         	
 			 <div class="brdTopSld mrgTop5px brdBtmSld minicartScroll">
 			 	  <div class="wid100 grey_bgr padTop5px padBtm5px">  <p class="txtCtrAlign red_txt txt_italic">Your shopping cart is empty.</p></div>
 			 </div>
 			 
-   </form></div>
+	 </form>
+   </div>
    </div>
    </div>
    </div>
 </div>
-		
+		 
 		
 	</li>
 	
@@ -1130,13 +1135,12 @@ function goToShoppingCart(){
 	<li class="last"><a href="javascript:;" onmouseover="hideElementById('quick_cart_container');javascript:divMenu.show('emailDropDiv', this, -109, 12);" onmouseout="javascript:divMenu.hide('emailDropDiv');">email sign-up</a>
 	<span class="icon_arrow_down" style="padding-top:2px;">
 		<img src="/wcsstore/BJs/images/transparent.gif" class="bjsFtSprit bjsDwnArr" alt="" border="0">
-
 	</span>
 	<div class="hiDropMenu fixedmenu" id="emailDropDiv">
 	
 		
 		
-	
+	<form action="javascript:submitEmail('emailForm','/webapp/wcs/stores/servlet/BJsUserEmailOptionsUpdate?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;URL=LogonForm&amp;errorView=EmailOptionsUpdateForm');" method="post" name="emailForm" id="emailForm">
 	<ul class="emailDrop">
 		<li class="title">EMAIL OFFERS</li>
 		<li>Sign up for BJ's email offers.</li>
@@ -1150,11 +1154,11 @@ function goToShoppingCart(){
             <input type="hidden" name="aid" value="2075899782">
             <input type="hidden" name="doOptin" value="">
             <input type="hidden" name="NM_SUBS_DATE" value="">
-            <input type="hidden" name="authToken" value="">
+            <input type="hidden" name="authToken" value="72949324%2cBr9Alqq6WOg4wmD7SdHZqeSb%2bOU%3d">
             <input type="image" class="submit" value="SignUp" src="/wcsstore/BJs/images/buttons/btn2_sign_up.gif" alt="sign up">
 			</li>
 	</ul>
-	
+	</form>
 	
 	</div></li>
 </ul>
@@ -1180,6 +1184,8 @@ function goToShoppingCart(){
 		</form>
 </div>
 </div>
+
+
 <div id="headerMiddle">
 <div class="newHeaderBox">
 <ul class="newNavigationBar selectFree">
@@ -1224,18 +1230,6 @@ function goToShoppingCart(){
 			
 				<li><a href="/electronics/books.category.30543.160.2002002.1">Books</a></li>
 					
-			
-				<li><a href="/electronics/itunes.category.3000000000000041003.160.2005986.1">iTunes</a></li>
-					
-			
-				<li><a href="/electronics/telescopes-binoculars--sports-cameras.category.381.160.2001777.1">Telescopes, Binoculars &amp; Sports Cameras</a></li>
-					
-			
-				<li><a href="/electronics/batteries.category.121503.160.2001330.1">Batteries</a></li>
-					
-			
-				<li><a href="/electronics/digital-picture-frames.category.369.160.2000494.1">Digital Picture Frames</a></li>
-					
 				
 			</ul>
 			</div>		
@@ -1276,7 +1270,7 @@ function goToShoppingCart(){
 				<li><a href="/computers/networking--internet.category.806.743.2000709.1">Networking &amp; Internet</a></li>
 					
 			
-				<li><a href="/computers/laptop--netbook-cases.category.807.743.2002590.1">Laptop &amp; Netbook Cases</a></li>
+				<li><a href="/computers/laptop--tablet-cases.category.807.743.2002590.1">Laptop &amp; Tablet Cases</a></li>
 					
 				
 			</ul>
@@ -1318,13 +1312,19 @@ function goToShoppingCart(){
 				<li><a href="/home/furniture--decor.category.439.385.2000233.1">Furniture &amp; Decor</a></li>
 					
 			
-				<li><a href="/home/outdoor-living.category.521.385.2000198.1">Outdoor Living</a></li>
+				<li><a href="/home/giftware.category.3000000000000066505.385.2007314.1">Giftware</a></li>
+					
+			
+				<li><a href="/home/heating-and-cooling.category.386.385.2000426.1">Heating and Cooling</a></li>
 					
 			
 				<li><a href="/home/bedding--bath.category.395.385.2001081.1">Bedding &amp; Bath</a></li>
 					
 			
 				<li><a href="/home/kitchen-appliances.category.610.385.2000046.1">Kitchen Appliances</a></li>
+					
+			
+				<li><a href="/home/major-appliances.category.665.385.2001579.1">Major Appliances</a></li>
 					
 			
 				<li><a href="/home/vacuums-storage--laundry.category.730.385.2001372.1">Vacuums, Storage &amp; Laundry</a></li>
@@ -1336,10 +1336,19 @@ function goToShoppingCart(){
 				<li><a href="/home/rugs.category.653.385.2002664.1">Rugs</a></li>
 					
 			
+				<li><a href="/home/gourmet-food--gift-baskets.category.683.385.2000170.1">Gourmet Food &amp; Gift Baskets</a></li>
+					
+			
 				<li><a href="/home/emergency-preparedness.category.3000000000000008007.385.2004433.1">Emergency Preparedness</a></li>
 					
 			
+				<li><a href="/home/outdoor-living.category.521.385.2000198.1">Outdoor Living</a></li>
+					
+			
 				<li><a href="/home/flowers.category.670.385.2002397.1">Flowers</a></li>
+					
+			
+				<li><a href="/home/wine-cellars--storage.category.742.385.2003408.1">Wine Cellars &amp; Storage</a></li>
 					
 			
 				<li><a href="/home/pet-supplies.category.712.385.2001751.1">Pet Supplies</a></li>
@@ -1351,16 +1360,7 @@ function goToShoppingCart(){
 				<li><a href="/home/luggage.category.705.385.2000509.1">Luggage</a></li>
 					
 			
-				<li><a href="/home/cooling--heating.category.386.385.2000426.1">Cooling &amp; Heating</a></li>
-					
-			
-				<li><a href="/home/gourmet-food--gift-baskets.category.683.385.2000170.1">Gourmet Food &amp; Gift Baskets</a></li>
-					
-			
 				<li><a href="/home/art-gallery.category.602.385.2000631.1">Art Gallery</a></li>
-					
-			
-				<li><a href="/home/wine-cellars--storage.category.742.385.2003408.1">Wine Cellars &amp; Storage</a></li>
 					
 			
 				<li><a href="/home/funeral.category.3000000000000009503.385.2004508.1">Funeral</a></li>
@@ -1387,16 +1387,10 @@ function goToShoppingCart(){
 				<li><a href="/seasonal/boating.category.32013.28511.2003529.1">Boating</a></li>
 					
 			
-				<li><a href="/seasonal/cooling--heating.category.386.28511.2001008.1">Cooling &amp; Heating</a></li>
-					
-			
 				<li><a href="/seasonal/emergency-preparedness.category.3000000000000008007.28511.2004431.1">Emergency Preparedness</a></li>
 					
 			
-				<li><a href="/seasonal/fathers-day-gifts.category.3000000000000055003.28511.2006928.1">Father's Day Gifts</a></li>
-					
-			
-				<li><a href="/seasonal/lawn-and-garden.category.124010.28511.2001431.1">Lawn and Garden</a></li>
+				<li><a href="/seasonal/heating-and-cooling.category.386.28511.2001008.1">Heating and Cooling</a></li>
 					
 			
 				<li><a href="/seasonal/patio-furniture.category.29505.28511.2003620.1">Patio Furniture</a></li>
@@ -1411,19 +1405,25 @@ function goToShoppingCart(){
 				<li><a href="/seasonal/swing-sets-and-climbers.category.810.28511.2003537.1">Swing Sets and Climbers</a></li>
 					
 			
+				<li><a href="/seasonal/trampolines.category.32001.28511.2007109.1">Trampolines</a></li>
+					
+			
 				<li><a href="/seasonal/sheds-and-storage.category.3000000000000001009.28511.2003739.1">Sheds and Storage</a></li>
 					
 			
-				<li><a href="/seasonal/trampolines-and-accessories.category.3000000000000001017.28511.2003756.1">Trampolines and Accessories</a></li>
-					
-			
-				<li><a href="/seasonal/outdoor-party.category.3000000000000032003.28511.2005569.1">Outdoor Party</a></li>
+				<li><a href="/seasonal/lawn-and-garden.category.124010.28511.2001431.1">Lawn and Garden</a></li>
 					
 			
 				<li><a href="/seasonal/screenhouses-and-privacy-panels.category.3000000000000001015.28511.2003758.1">Screenhouses and Privacy Panels</a></li>
 					
 			
 				<li><a href="/seasonal/gift-cards.category.124013.28511.2001427.1">Gift Cards</a></li>
+					
+			
+				<li><a href="/seasonal/holiday-decorations.category.3000000000000038004.28511.2005830.1">Holiday Decorations</a></li>
+					
+			
+				<li><a href="/seasonal/snow--ice-removal.category.3000000000000027027.28511.2005190.1">Snow &amp; Ice Removal</a></li>
 					
 				
 			</ul>
@@ -1474,7 +1474,7 @@ function goToShoppingCart(){
 				<li><a href="/sports/game-room.category.1015.986.2000278.1">Game Room</a></li>
 					
 			
-				<li><a href="/sports/telescopes-binoculars--sports-cameras.category.381.986.2000148.1">Telescopes, Binoculars &amp; Sports Cameras</a></li>
+				<li><a href="/sports/telescopes-binoculars--sports-cameras.category.3000000000000068504.986.2007334.1">Telescopes, Binoculars &amp; Sports Cameras</a></li>
 					
 				
 			</ul>
@@ -1510,10 +1510,10 @@ function goToShoppingCart(){
 				<li><a href="/toys/vehicles--remote-control-toys.category.836.808.2002749.1">Vehicles &amp; Remote Control Toys</a></li>
 					
 			
-				<li><a href="/toys/bouncers--outdoor-play.category.129003.808.2001769.1">Bouncers &amp; Outdoor Play</a></li>
+				<li><a href="/toys/board--family-games.category.3000000000000038509.808.2005850.1">Board &amp; Family Games</a></li>
 					
 			
-				<li><a href="/toys/board--family-games.category.3000000000000038509.808.2005850.1">Board &amp; Family Games</a></li>
+				<li><a href="/toys/pretend-play--dress-up.category.824.808.2000663.1">Pretend Play &amp; Dress-up</a></li>
 					
 			
 				<li><a href="/toys/dolls--accessories.category.844.808.2001268.1">Dolls &amp; Accessories</a></li>
@@ -1522,13 +1522,13 @@ function goToShoppingCart(){
 				<li><a href="/toys/blocks--building-sets.category.843.808.2003503.1">Blocks &amp; Building Sets</a></li>
 					
 			
-				<li><a href="/toys/kids-furniture.category.3000000000000002041.808.2004169.1">Kids' Furniture</a></li>
-					
-			
 				<li><a href="/toys/learning-toys--musical-instruments.category.840.808.2000477.1">Learning Toys &amp; Musical Instruments</a></li>
 					
 			
-				<li><a href="/toys/pretend-play--dress-up.category.824.808.2000663.1">Pretend Play &amp; Dress-up</a></li>
+				<li><a href="/toys/kids-furniture.category.3000000000000002041.808.2004169.1">Kids' Furniture</a></li>
+					
+			
+				<li><a href="/toys/bouncers--outdoor-play.category.129003.808.2001769.1">Bouncers &amp; Outdoor Play</a></li>
 					
 			
 				<li><a href="/toys/indoor-play.category.3000000000000019003.808.2004916.1">Indoor Play</a></li>
@@ -1588,6 +1588,9 @@ function goToShoppingCart(){
 		<div class="dropdownStyle" id="dd850">
 		<ul class="dropdownList">
 			
+				<li><a href="/health--beauty/cosmetics.category.3000000000000066504.850.2007315.1">Cosmetics</a></li>
+					
+			
 				<li><a href="/health--beauty/home-health-care.category.903.850.2001227.1">Home Health Care</a></li>
 					
 			
@@ -1638,6 +1641,9 @@ function goToShoppingCart(){
 		 <!-- Add class="on" in the link for on-tab in categories.-->
 		<div class="dropdownStyle" id="dd100">
 		<ul class="dropdownList">
+			
+				<li><a href="/jewelry/charms.category.3000000000000073003.100.2007390.1">Charms</a></li>
+					
 			
 				<li><a href="/jewelry/rings.category.101.100.2000701.1">Rings</a></li>
 					
@@ -1706,27 +1712,27 @@ function goToShoppingCart(){
 					<div class="genericESpot">
 						<div class="caption" style="display:none;">header_TravelServices</div>
 				<ul class="dropdownList">
-	<li><span class="first"><a href="javascript:popupWindow('http://www.clickmanage.com/events/clickevent.aspx?ca=10580&amp;e=2000&amp;l=96904&amp;u=http%253a%252f%252ftravel.bjs.com%252f');">Travel</a></span></li>
-	<li><a href="javascript:popupWindow('http://www.clickmanage.com/events/clickevent.aspx?ca=10580&amp;e=2000&amp;l=14472&amp;u=http%253a%252f%252fwww.bjsvacations.com%252fpromotion%252fbjs%252fcarrental%252fdefault.asp');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Car Rentals</a></li>
-	<li><a href="javascript:popupWindow('http://www.clickmanage.com/events/clickevent.aspx?ca=10580&amp;e=2000&amp;l=14474&amp;u=http%253a%252f%252fwww.bjsvacations.com%252fcruises%252f');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cruises</a></li>
-	<li><a href="javascript:popupWindow('http://www.clickmanage.com/events/clickevent.aspx?ca=10580&amp;e=2000&amp;l=14476&amp;u=http%253a%252f%252fwww.bjsvacations.com%252fhotels%252f');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hotels</a></li>
-	<li><a href="javascript:popupWindow('http://www.clickmanage.com/events/clickevent.aspx?ca=10580&amp;e=2000&amp;l=14477&amp;u=http%253a%252f%252fwww.bjsvacations.com%252fpackages%252f');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vacation Packages</a></li>
+	<li><span class="first"><a href="javascript:popupWindow('http://travel.bjs.com/?cm_mmc=Display-_-BJ-Partner_Site-HP-_-Top_Nav-_-Travel');">Travel</a></span></li>
+	<li><a href="javascript:popupWindow('http://travel.bjs.com/car-rentals/?cm_mmc=Display-_-BJ-Partner_Site-HP-_-Top_Nav-_-Car_Rentals');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Car Rentals</a></li>
+	<li><a href="javascript:popupWindow('http://travel.bjs.com/cruises/?cm_mmc=Display-_-BJ-Partner_Site-HP-_-Top_Nav-_-Cruise');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cruises</a></li>
+	<li><a href="javascript:popupWindow('http://travel.bjs.com/hotels/?cm_mmc=Display-_-BJ-Partner_Site-HP-_-Top_Nav-_-Hotels');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hotels</a></li>
+	<li><a href="javascript:popupWindow('http://travel.bjs.com/packages/?cm_mmc=Display-_-BJ-Partner_Site-HP-_-Top_Nav-_-Packages');">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vacation Packages</a></li>
 	<li><a href="javascript:popupWindow('http://www.bjsauto.com/affiliate.aspx?Affiliate=712');">Auto Buying</a></li>
 	<li><a href="javascript:popupWindow('http://goldexchange.bjs.com/?k=108');">BJ’s Gold Exchange</a></li>
 	<li><a href="javascript:popupWindow('http://www.bjsoptical.com');">BJ’s Optical<sup>®</sup></a></li>
 	<li><a href="javascript:popupWindow('http://www.barclaycardus.com/apply/Landing.action?campaignId=1474&amp;cellNumber=32&amp;referrerid=BJOL050912');">BJ’s Visa<sup>®</sup> Card</a></li>
-	<li><a href="javascript:popupWindow('http://www.firstdata.com/bjs');">Credit Card Acceptance</a></li>
+	<li><a href="javascript:popupWindow('http://www.empsebiz.com/bjs/');">Credit Card Acceptance</a></li>
 	<li><a href="/custom-built-sheds.content.services_sheds.A.services">Custom-built Sheds</a></li>
 	<li><a href="/deli-bakery.content.services_deli_bakery.A.services">Deli &amp; Bakery Party Planning </a></li>
 	<li><a href="javascript:popupWindow('http://bjs.discoverbank.com?acmpgn=040511_BJ_TRSbanner_BJTRS1&amp;src=BJTRS1');">Discover<sup>®</sup> Savings Products</a></li>
-	<li><a href="/dish-network.content.services_dish.A.services">DISH<sup>®</sup></a></li>
+	<li><a href="javascript:popupWindow('http://www.dish.com/redirects/partners/bjs/');">DISH<sup>®</sup></a></li>
 	<li><a href="/protection-plus-warranties.content.services_warranties.A.services">Extended Warranties</a></li>
 	<li><a href="/global-sales.content.services_global.A.services_global">Global Sales</a></li>
 	<li><a href="javascript:popupWindow('http://www.ehealthinsurance.com/ehi/Alliance?allid=BJS29291');">Health Insurance</a> </li>
 	<li><a href="javascript:popupWindow('http://www.libertymutual.com/bjs/index.html?&amp;src=BJs_servicepages');">Home &amp; Auto Insurance</a></li>
 	<li><a href="javascript:popupWindow('http://www.bjshomeimprovement.com');">Home Improvement</a></li>
 	<li><a href="http://tires.bjs.com">Tire Center</a></li>
-	<li class="last"><a href="javascript:popupWindow('http://estore.vzwshop.com/bjs');">Verizon Wireless</a></li>
+    <li><a href="javascript:popupWindow('http://www.diamondwireless-bjs.com/');">Verizon Wireless</a></li>
 </ul>
 
 					</div>
@@ -1745,7 +1751,145 @@ function goToShoppingCart(){
 
 </div>
 
-<!-- End - JSP File name:  style1/CachedHeaderDisplay.jsp -->
+
+
+
+<div id="popupDialog" class="hide">
+
+			<div class="dialog-wrapper">
+				<div class="popCloseIcon" style="width:61px;height:21px;"><a class="cancel"><img src="/wcsstore/BJs/images/close.jpg" border="0"></a></div>
+		 		<div class="popupNewsletter" id="popupNewsletter">
+				
+				</div>		 	
+			 	 
+			 	
+			 	<div class="popup_dialogbg" id="popup_dialogbg">
+					<img src="http://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000717&amp;imageID=lightboximage&amp;recipeName=580x180" border="0">
+				</div>
+						
+				<div class="emailAtPopupContainer" id="emailAtPopupContainer">
+					
+			 		
+						
+
+				<form action="javascript:submitEmailPopup('emailFormPopup','/webapp/wcs/stores/servlet/BJsUserEmailOptionsUpdate?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;URL=LogonForm&amp;errorView=EmailOptionsUpdateForm');" method="post" name="emailFormPopup" id="emailFormPopup">
+				
+				<div>
+					<input type="hidden" name="emailOptin" value="1">
+					<input type="hidden" name="emailChange" value="1">
+					<input type="hidden" name="URL" value="LogonForm">
+					<input type="hidden" name="errorView" value="EmailOptionsUpdateForm">
+					<input type="hidden" name="n" value="700">
+		            <input type="hidden" name="aid" value="2075899782">
+		            <input type="hidden" name="doOptin" value="">
+		            <input type="hidden" name="NM_SUBS_DATE" value="">
+		            <input type="hidden" name="authToken" value="72949324%2cBr9Alqq6WOg4wmD7SdHZqeSb%2bOU%3d">
+		            <p class="emailAtPopup">
+		         	<input type="text" name="email1" id="email1" class="email_txtbox" value="Enter E-Mail Address" onfocus="getfocus(this)" onblur="getblur(this)">
+					<input type="submit" class="email_signupBtn" value="SIGN UP"> 
+					</p>
+					</div>		
+					
+				</form>
+					</div>
+					</div>	
+	</div>
+
+<script type="text/javascript">
+
+function closeWindow() {
+document.getElementById("popupDialog").style.display="none";
+document.getElementById("popupwrapper").style.display="none";
+}
+
+function submitEmailPopup(formName,url){
+	reWhiteSpace = new RegExp(/^\s+$/);
+	
+	var form = document.forms[formName];
+	var emailUrl = '/webapp/wcs/stores/servlet/AjaxEmailOptionsUpdate?langId=-1&amp;storeId=10201&amp;catalogId=10201';
+	var failed = false;
+	
+	if(form.email1.value == "" || reWhiteSpace.test(form.email1.value)){
+		alert(' E-mail is required ');
+		failed = true;
+	} else if(!Common.isValidEmail(form.email1.value)) { 
+		alert(' E-mail is invalid ');
+		failed = true;
+	}
+	
+	if(!failed){
+		//form.action = url;
+		//alert(form.action);
+		//form.submit();
+		var contentElement = document.getElementById('emailAtPopupContainer');
+		var popupNewsletter = document.getElementById('popupNewsletter');
+		var popup_dialogbg = document.getElementById('popup_dialogbg');
+		var popupDialog = document.getElementById('popupDialog');
+		  dojo.require("wc.service.common");
+		  wc.service.declare({
+		  id: "AjaxEmailOptionsUpdate",
+		  actionId: "AjaxEmailOptionsUpdate",
+		  url: emailUrl,
+		  formId: formName,	
+		  
+		successHandler: function(serviceResponse) {			 
+			  // show user a dialog indicating that their e-mail has been signed up
+			  //dijit.byId("emailSignupSuccessDialog").show();
+			hs_aOE= "1003~"+form.email1.value+"~";   
+			SC_BJs.initializeTagging();		
+					
+				openpopupcheetahmail(formName);	
+				contentElement.innerHTML = "";
+				popupNewsletter.innerHTML = "";
+				popup_dialogbg.innerHTML="";
+				popupDialog.style.backgroundColor ="#FFFFFF";
+
+				popup_dialogbg.innerHTML='<img src="http://richmedia.channeladvisor.com/ImageDelivery/imageService?profileId=52000717&amp;imageID=thankyou&amp;recipeName=580x180" border="0" /><input type="image" class="closeWindowbtn" src="/wcsstore/BJs/images/closewindow.gif" onclick="closeWindow()"/>';
+				popup_dialogbg.className='popup_dialogbg popup_dialogbg_thanku';
+				popup_dialogbg.style.width="94%";
+				
+				cmCreatePageviewTag("EmailLightboxHomepage", "Home","" ,"", 10201);
+							
+		},
+			failureHandler: function(serviceResponse) {
+		    if (serviceResponse.errorMessage) {
+		    	alert('Error Processing your Request');
+		    }
+		  } 
+		});
+		 wc.service.invoke("AjaxEmailOptionsUpdate");
+		 cursor_wait();
+	}				
+}
+
+
+
+function openpopupcheetahmail(mform) {
+	var form = document.forms[mform];
+    var tdate = form.NM_SUBS_DATE.value;
+   		var imageRequest = new Image(); 
+		imageRequest.src = "http://ebm.cheetahmail.com/r/regf2?aid=2075899782&n=700&a=1&sub=232198618&NM_SUBS_DATE=" + tdate + "&email=" + form.email1.value;				
+}
+
+
+function getfocus(x)
+{
+if(x.value=="Enter E-Mail Address")
+{
+x.value='';
+}
+}
+function getblur(x)
+{
+if(x.value=="")
+{
+x.value='Enter E-Mail Address';
+}
+}
+
+</script>
+
+		<!-- End - JSP File name:  style1/CachedHeaderDisplay.jsp -->
 
 <script type="text/javascript">
 function createCookie(name,value,days) {
@@ -2028,7 +2172,25 @@ function showLessRefine() {
 <!-- Start - JSP File Name:  ContentAreaESpot.jsp -->
 					<div class="genericESpot">
 						<div class="caption" style="display:none;">FooterESpot</div>
-				<div class="line"></div>
+				<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>  
+<script type="text/javascript">
+$(document).ready(function(){
+// fetches current URL and checks if it is http or https
+var ViewURL=$(location).attr('href');
+if(ViewURL.indexOf("https:")!= -1){
+//if https
+$('img').each(function() {
+     var src= $(this).attr('src');
+//replace  http with https://secure for secure request
+      src= src.replace('bjs.richfx.com.edgesuite.net', 'secure-bjs.richfx.com');
+//remove edgesuite.net for secure request 
+//src=src.replace('.edgesuite.net/', '/');
+            $(this).attr('src', src);
+});
+}
+});
+      </script>
+<div class="line"></div>
 <div class="box" style="height: 190px;"> 
   <div class="aboutus"> 
     <div class="title" title="About us"><img src="/wcsstore/BJs/images/ft_about_us.gif" alt="About us"></div> 
@@ -2040,7 +2202,7 @@ function showLessRefine() {
         <li style="font-size: 10px;"><a href="/community-relations.content.about_community_relations.A.about_community">Community Relations</a></li> 
         <li style="font-size: 10px;"><a href="/about/press.shtml">Press Room</a></li> 
         <li style="font-size: 10px;"><a href="/terms-of-use.content.about_terms.A.about">Terms of Use</a></li>
-		<li style="text-decoration:none;"><a href="http://www.facebook.com/bjswholesaleclub" target="_blank" style="text-decoration:none;"><img src="http://bjs.richfx.com.edgesuite.net/image/media/facebook.jpg" alt="Facebook" width="24" height="24" vspace="10" border="0"></a>&nbsp;&nbsp;<a href="http://twitter.com/#!/bjswholesale" target="_blank" style="text-decoration:none;"><img src="http://bjs.richfx.com.edgesuite.net/image/media/twitter.jpg" alt="Twitter" width="24" height="24" vspace="10" border="0"></a>&nbsp;&nbsp;<a href="http://www.pinterest.com/bjswholesale" target="_blank" style="text-decoration:none;"><img src="http://bjs.richfx.com.edgesuite.net/image/media/pinterest.jpg" alt="Pinterest" width="24" height="24" vspace="10" border="0"></a></li>
+		<li style="text-decoration:none;"><a href="http://www.facebook.com/bjswholesaleclub" target="_blank" style="text-decoration:none;"><img src="//bjs.richfx.com.edgesuite.net/image/media/facebook.jpg" alt="Facebook" width="24" height="24" vspace="10" border="0"></a>&nbsp;&nbsp;<a href="http://twitter.com/#!/bjswholesale" target="_blank" style="text-decoration:none;"><img src="//bjs.richfx.com.edgesuite.net/image/media/twitter.jpg" alt="Twitter" width="24" height="24" vspace="10" border="0"></a>&nbsp;&nbsp;<a href="http://www.pinterest.com/bjswholesale" target="_blank" style="text-decoration:none;"><img src="//bjs.richfx.com.edgesuite.net/image/media/pinterest.jpg" alt="Pinterest" width="24" height="24" vspace="10" border="0"></a></li>
       </ul> 
     </div> 
   </div> 
@@ -2049,18 +2211,21 @@ function showLessRefine() {
     <div class="title" title="Membership"><img src="/wcsstore/BJs/images/ft_membership.gif" alt="Membership"></div> 
     <div class="content"> 
       <ul class="list"> 
-        <li style="font-size: 10px;"><a href="/info.aboutmembership.options">Membership Options/Join</a></li> 
+        <li style="font-size: 10px;"><a href="/purchase.membership.options">Membership Options/Join</a></li> 
         <li style="font-size: 10px;"><a href="/bjs-rewards-membership.content.member_rewards.A.join_consumer">BJ’s Rewards Membership</a></li> 
         <li style="font-size: 10px;"><a href="/webapp/wcs/stores/servlet/BJsMembershipSummaryView?langId=-1&amp;storeId=10201&amp;catalogId=10201&amp;URL=AjaxLogonForm">My Account</a></li>
         <li style="font-size: 10px;"><a href="/about/news/index.shtml">Club News</a></li>
 		<li style="font-size: 10px;"><a href="/about/news/cat28.shtml">BJ’s Book Club</a></li>
-		<li style="text-decoration:none;"><a href="http://www.bjs.com/summer.content.inclub_summer.A?cm_sp=Summer0412:2013-_-NA-_-NA" target="_blank" style="text-decoration:none;"><img src="http://bjs.richfx.com.edgesuite.net/image/media/bjs_summer_13.jpg" alt="BJ's Summer Headquarters >" width="123" height="29" border="0" style="padding-top:9px;"></a></li>      </ul> 
+        <li><a class="no_underline" href="http://www.bjscatalogs-digital.com/bjs/2013_toybook?cm_sp=ic1025:2013-_-HOLhp-_-ToyCat"><img width="123" height="29" border="0" class="mrgTop10px" alt="BJ's Toy Catalog >" src="//bjs.richfx.com.edgesuite.net/image/media/footer-toy-2013.jpg"></a></li>
+	    </ul> 
       <ul class="list"> 
         <li style="font-size: 10px;"><a href="/webapp/wcs/stores/servlet/CouponsDisplayView?storeId=10201&amp;catalogId=10201">In-Club Coupons</a></li>
+        <li style="font-size: 10px;"><a href="/savings.content.inclub_instant_savings.A.join_consumer?cm_sp=Nov2013BBM-_-InstatSavings-_-footer">In-Club Instant Savings</a></li>
         <li style="font-size: 10px;"><a href="/travel-services.content.services.A">Travel + Services</a></li> 
         <li style="font-size: 10px;"><a href="/one-day-pass.content.join_one_day_pass.A.join_consumer">One Day Pass </a></li> 
-        <li style="font-size: 10px;"><a href="/privileges-and-conditions.content.about_privileges.A.about">Privileges &amp; Conditions</a></li>
-		<li style="text-decoration:none;"><a href="http://bjssolutions.wordpress.com/category/recipes/" target="_blank" style="text-decoration:none;"><img src="http://bjs.richfx.com.edgesuite.net/image/media/footer_recipes.jpg" alt="BJ's Recipes >" width="73" height="15" border="0" style="padding-top:2px;"></a></li>
+        <li style="font-size: 10px;"><a href="/terms.content.member_terms.A.about">Membership Terms</a></li>
+		<li style="text-decoration:none;"><a href="http://bjssolutions.wordpress.com/category/recipes/" target="_blank" style="text-decoration:none;"><img src="//bjs.richfx.com.edgesuite.net/image/media/footer_recipes.jpg" alt="BJ's Recipes >" width="73" height="15" border="0" style="padding-top:2px;"></a></li>
+                <li><a class="no_underline" href="http://www.bjscatalogs-digital.com/bjs/2013_novjournal?cm_sp=ic1025:2013-_-HOLhp-_-NovCat"><img width="123" height="29" border="0" alt="BJ's Holiday Gift Catalog >" src="//bjs.richfx.com.edgesuite.net/image/media/footer_giftguide_2013.jpg"></a></li>
       </ul> 
     </div> 
   </div> 
@@ -2082,6 +2247,7 @@ function showLessRefine() {
         <li><br> 
         </li>
         <li style="font-size: 10px;"><a href="http://bjwc.custhelp.com" onclick="openHelp(this.href, 'help');return false;"><strong>Help</strong></a></li> 
+        <li><a href="http://bjwc.custhelp.com/app/chat/chat_launch" onclick="window.open('http://bjwc.custhelp.com/app/chat/chat_launch','popup','width=466,height=490,scrollbars=yes,resizable=yes,toolbar=no,menubar=no'); return false"><img src="/biz/footer/images/chat.png" alt="Live Chat" title="Live Chat"></a></li>
       </ul> 
     </div> 
     <!--<div class="content">            	<ul class="list"><li class="club">For On-line inquiries: 866-425-7932</li>                    <li class="club">For Club and Membership inquiries: 800-257-2582</li></ul></div> --> 
