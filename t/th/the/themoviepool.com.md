@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the themoviepool.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524221005id_/http%3A//www.cinelinx.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoviepool.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204160233id_/http%3A//www.cinelinx.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
+  * Wednesday, 01 December 2010 06:00 
 
 
 
