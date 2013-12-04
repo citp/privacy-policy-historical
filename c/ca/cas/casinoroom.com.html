@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the casinoroom.com privacy policy that was archived on 2013-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130503031813id_/http%3A//www.casinoroom.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the casinoroom.com privacy policy that was archived on 2013-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204184837id_/http%3A//www.casinoroom.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
- <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://pubnub.a.ssl.fastly.net/pubnub-3.4.min.js"></script><script type="text/javascript" style="color: rgb(0, 0, 0);">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>Privacy Policy | Privacy Provision &amp; Policy at CasinoRoom.com</title>
+ <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="/js/cr/time/locales/jquery.timeago.en.js"></script><script type="text/javascript" async="" src="https://pubnub.a.ssl.fastly.net/pubnub-3.4.min.js"></script><script type="text/javascript" style="color: rgb(0, 0, 0);">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy Policy | Privacy Provision &amp; Policy at CasinoRoom.com</title>
  <meta name="description" content="Your privacy and security is our primary concern. Under this section you will find our detailed privacy policy.">
  <meta name="keywords" content="online casino, casino games, blackjack, video poker, slots, baccarat, roulette, casinoroom, casino on line">
  <meta name="copyright" content="© CasinoRoom.com">
  <meta http-equiv="imagetoolbar" content="no">
  <meta http-equiv="imagetoolbar" content="false">
  <meta http-equiv="content-language" content="en">
- <link rel="stylesheet" type="text/css" href="/css/casinoroom.css">
+ <link rel="stylesheet" type="text/css" href="/css/casinoroomGamification.css">
+ <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet" type="text/css">
  <script type="text/javascript">
  Util = (typeof Util === 'undefined') ? {} : Util;
 
@@ -69,10 +69,25 @@
 
  return that;
  })();
+
+    (function(window) {
+        if (window.self !== window.top && String(document.referrer).indexOf('casumoroom.com') !== -1) {
+            var now = new Date();
+            var time = now.getTime();
+            var expires = time + 30000;
+            now.setTime(expires);
+            document.cookie = 'casumoroom=unfortunately;expires='+now.toGMTString()+';path=/';
+
+            window.top.location = window.location;
+        }
+    })(this);
  
  </script>
- <script type="text/javascript" src="/js/casinoroom.js"></script><style></style>
-<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=55734870"></script></head>
+ <script type="text/javascript" src="/js/casinoroom_gamification.js"></script><style></style>
+ <script type="text/javascript">
+ COM.framework.form_id = '134494001';
+ </script>
+</head>
 <body class="blue_theme christmas">
  <noscript>
  <div id="noscript">
@@ -83,13 +98,204 @@
  </div>
  </div>
  </noscript>
+
+ <div id="header">
+ <div id="headerContent">
+ 
+ <a id="logoContainer" href="/" title="Casino Room">
+ <span id="logoGate">Casino</span>
+ <!--  <span id="logo">Room</span> -->
+ </a>
+ <ul>
+ <li>
+ <a class="browseGames" href="#">Games</a>
+ </li>
+ <li>
+ <a href="/bonuses">Bonuses</a>
+ </li>
+ <li>
+ <a href="/help">Help</a>
+ </li>
+ <li>
+ <a class="sign_in anonTopLinks" href="/privacypolicy/">Log In</a><a class="sign_up anonTopLinks" href="/signup">Sign Up</a><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input class="searchboxGamification ui-autocomplete-input" id="" type="text" placeholder="Search Casino Game" autocomplete="off">
+ </li>
+ </ul>
+
+ </div>
+</div> <div id="singinForm">
+ <h5>Log In</h5>
+ <p>Or create an account</p>
+ <form id="signin" action="https://www.casinoroom.com/signin/" method="post">
+ <input type="hidden" name="_form_id" value="1907597784"> <input id="id_url" name="url" type="hidden">
+ <ul>
+ <li class="newLine"> <label class="" for="nickname_signin">Email or Nickname:</label> <input class="generalErrorFrm" maxlength="60" tabindex="1234" title="Email or Nickname" id="nickname_signin" name="nickname" type="text" value="Email or Nickname" style="color: rgb(153, 153, 153);">
+</li><li class="newLine"> <label class="" for="password_signin">Password:</label> <input class="generalErrorFrm" tabindex="1235" title="Password" id="password_signin" name="password" type="text" value="Password" style="color: rgb(153, 153, 153);">
+</li> <li id="signinError" class="form_error newLine">
+ <span class="icon error"></span>
+ <span class="error_text"></span>
+ </li>
+ <li id="signinSubmit" class="wholeLine">
+ <input type="submit" value="Log In" alt="Log In" style="position: absolute; height: 5px; width: 5px;">
+ <span class="submit_form button blue">
+ Log In <span class="arrowbg">
+ <span class="arrow"></span>
+ </span>
+ </span>
+ </li>
+ <li id="signinForgotPw" class="newLine">
+ <a href="/forgottenpassword/">
+ Forgot your password? </a>
+ </li>
+ </ul>
+ </form>
+ <input type="hidden" id="signinNicknameValue" value="Email or Nickname">
+ <input type="hidden" id="signinPasswordValue" value="Password">
+ <div id="signinCreateAccount">
+ <a href="/signup/">
+ <b>Not a member?</b><br>
+ Create a free account </a>
+ </div>
+</div> 
  <div id="site">
+ <div class="wrapAll">
+ <div id="leftsideWrapper">
+
+ <div id="profileBox">
+ <img class="masterTooltip" title="Here will be your profile picture." src="http://cdn3casinoroom.r.worldssl.net/images/gamification/profileDflt_en.jpg">
+ <h2 class="notLoggedIn">Hello friend!</h2>
+ <a id="loginBtn" class="sign_in greenbtn" href="/privacypolicy/">Log In</a>
+ <a id="signupBtn" class="sign_up orangebtn" href="/signup">Sign Up</a>
+ <div id="progressBar" class="anonProgress masterTooltip" title="Check your level and xp points!">
+ <div id="yourLevel"></div>
+ <div id="percentage">
+ Your level progress </div>
+ </div>
+ <ul id="achievementBar">
+ <li class="masterTooltip" title="Here you can check your current missions!">Missions</li><li title="Here you can see the latest player activity" class="masterTooltip anonSelected">Activity</li><li title="Here you can see money-related info." class="masterTooltip">Money</li>
+ </ul>
+ <div id="notificationsTab"><ul class="notifications userNotif anonNotif" style="overflow: hidden; padding: 0px; width: 333px;"><div class="jspContainer" style="width: 333px; height: 300px;"><div class="jspPane" style="padding: 0px; top: 0px; width: 333px;"></div></div></ul></div>
+
+ </div>
+ <script type="text/javascript">
+ $(document).ready(function() {
+ // Tooltip only Text
+ $('.masterTooltip').hover(function(){
+         // Hover over code
+         var title = $(this).attr('title');
+         $(this).data('tipText', title).removeAttr('title');
+         $('<p class="tooltipSmall"></p>')
+         .text(title)
+         .appendTo('body')
+         .fadeIn('slow');
+ }, function() {
+         // Hover out code
+         $(this).attr('title', $(this).data('tipText'));
+         $('.tooltipSmall').remove();
+ }).mousemove(function(e) {
+         var mousex = e.pageX + 20; //Get X coordinates
+         var mousey = e.pageY + 10; //Get Y coordinates
+         $('.tooltipSmall')
+         .css({ top: mousey, left: mousex })
+ });
+ 
+ $('#achievementBar li:first-child, #achievementBar li:last-child, #profileBox img, #progressBar').click(function() {
+ $('#loginBtn').trigger('click');
+ });
+ 
+ });
+ </script>
+ 
+ <div class="title">
+ Most popular trophies now </div>
+
+ <ul id="popularTrophy">
+ <a class="game_link game_417" href="/slots/eggomatic/"><li><img src="http://cdn1casinoroom.r.worldssl.net/images/gamification/eggcellent.png">The Eggcellent Adventure</li></a> <a class="game_link game_61" href="/slots/bloodsuckers/"><li><img src="http://cdn1casinoroom.r.worldssl.net/images/gamification/bloodsucker2.png">A Blood Sucker</li></a> 
+ <a class="game_link game_398" href="/slots/thief/"><li><img src="http://cdn1casinoroom.r.worldssl.net/images/gamification/crackthesafe.png">Crack the Safe!</li></a> <a class="game_link game_396" href="/slots/lucky-angler/"><li><img src="http://cdn1casinoroom.r.worldssl.net/images/gamification/letsgofishing.png">Let's Go Fishing…</li></a> <a class="game_link game_110" href="/slots/invaders/"><li><img src="http://cdn3casinoroom.r.worldssl.net/images/gamification/greenmen.png">Little Green Men</li></a> </ul>
+ 
+ <div class="title">
+ Leaderboards </div>
+
+ <div id="leaderSelector" data-points="points">
+ <ul class="selector" id="points">
+ <li><a class="selectTimeframe">Daily</a>
+ <div class="subs">
+ <div>
+ <ul>
+ <li><a class="dailyLeaders">Daily </a>
+ </li>
+ <li><a class="weeklyLeaders">Weekly </a></li>
+ <li><a class="monthlyLeaders">Monthly </a></li>
+ </ul>
+ </div>
+ </div>
+ </li>
+ </ul>
+ <script type="text/javascript">
+ jQuery(window).load(function() {
+ 
+ $(".selector > li > a").click(function (e) { // binding onclick
+     if ($(this).parent().hasClass('selected')) {
+         $(".selector .selected div div").slideUp(100); // hiding popups
+         $(".selector .selected").removeClass("selected");
+     } else {
+         $(".selector .selected div div").slideUp(100); // hiding popups
+         $(".selector .selected").removeClass("selected");
+ 
+         if ($(this).next(".subs").length) {
+             $(this).parent().addClass("selected"); // display popup
+             $(this).next(".subs").children().slideDown(200);
+         }
+     }
+     e.stopPropagation();
+     e.preventDefault();
+ }); 
+ 
+ $("body").click(function () { // binding onclick to body
+     $(".selector .selected div div").slideUp(100); // hiding popups
+     $(".selector .selected").removeClass("selected");
+ });
+ 
+ });
+ </script>
+
+ </div><ul class="leaderboards"><li><div class="leaderWidgetGreyBG"></div><a href="/profile/_CR_2766640/" style="overflow: hidden; opacity: 1; width: 96.3191%;"><span class="leaderRank">1</span><span class="newLeaderboardAvatar" style="background: url(/api/user_image/?player_id=2766640&amp;width=32); background-size: cover;"></span><img class="flag" src="/images/cr/leaderboard/country_flags/Australia.png"><span class="leaderName">Rattandeep J</span><span class="leaderPoints">35,225 points</span></a><div class="leaderWidgetGreenBG " style="overflow: hidden; opacity: 1; width: 96.9692%;"></div></li><li><div class="leaderWidgetGreyBG"></div><a href="/profile/_CR_3261996/" style="overflow: hidden; opacity: 1; width: 96.3191%;"><span class="leaderRank">2</span><span class="newLeaderboardAvatar" style="background: url(/api/user_image/?player_id=3261996&amp;width=32); background-size: cover;"></span><img class="flag" src="/images/cr/leaderboard/country_flags/Canada.png"><span class="leaderName">Faiaz A</span><span class="leaderPoints">33,247 points</span></a><div class="leaderWidgetGreenBG " style="overflow: hidden; opacity: 1; width: 91.4281%;"></div></li><li><div class="leaderWidgetGreyBG"></div><a href="/profile/_CR_2566585/" style="overflow: hidden; opacity: 1; width: 96.3191%;"><span class="leaderRank">3</span><span class="newLeaderboardAvatar" style="background: url(/api/user_image/?player_id=2566585&amp;width=32); background-size: cover;"></span><img class="flag" src="/images/cr/leaderboard/country_flags/Norway.png"><span class="leaderName">Rikard H</span><span class="leaderPoints">9,352 points</span></a><div class="leaderWidgetGreenBG " style="overflow: hidden; opacity: 1; width: 24.9349%;"></div></li><li><div class="leaderWidgetGreyBG"></div><a href="/profile/cealooth/" style="overflow: hidden; opacity: 1; width: 96.3191%;"><span class="leaderRank">4</span><span class="newLeaderboardAvatar" style="background: url(/api/user_image/?player_id=2484448&amp;width=32); background-size: cover;"></span><img class="flag" src="/images/cr/leaderboard/country_flags/Sweden.png"><span class="leaderName">cealooth</span><span class="leaderPoints">5,749 points</span></a><div class="leaderWidgetGreenBG " style="overflow: hidden; opacity: 1; width: 13.8527%;"></div></li><li><div class="leaderWidgetGreyBG"></div><a href="/profile/_CR_3240252/" style="overflow: hidden; opacity: 1; width: 96.3191%;"><span class="leaderRank">5</span><span class="newLeaderboardAvatar" style="background: url(/api/user_image/?player_id=3240252&amp;width=32); background-size: cover;"></span><img class="flag" src="/images/cr/leaderboard/country_flags/Netherlands.png"><span class="leaderName">Patrick R</span><span class="leaderPoints">5,498 points</span></a><div class="leaderWidgetGreenBG " style="overflow: hidden; opacity: 1; width: 13.8527%;"></div></li></ul>
+ <a class="leaderboardFull" href="/leaderboard">See the complete leaderboard!</a>
+
+ 
+ <div class="title">
+ Most popular trophy slots </div>
+
+ <ul id="trophySlots">
+ <a class="tooltip gameTooltip game_link game_417" href="/slots/eggomatic/"><li><img src="http://cdn3casinoroom.r.worldssl.net/images/game_pics/small/eggomatic.jpg">Eggomatic</li></a> <a class="tooltip gameTooltip game_link game_166" href="/slots/gonzos-quest/"><li><img src="http://cdn3casinoroom.r.worldssl.net/images/game_pics/small/gonzo.jpg">Gonzo's Quest</li></a> <a class="tooltip gameTooltip game_link game_61" href="/slots/bloodsuckers/"><li><img src="http://cdn1casinoroom.r.worldssl.net/images/game_pics/small/bloodsuckers.jpg">Blood Suckers</li></a> <a class="tooltip gameTooltip game_link game_269" href="/slots/starburst/"><li><img src="http://cdn3casinoroom.r.worldssl.net/images/game_pics/small/starburst.jpg">Starburst</li></a> <a class="tooltip gameTooltip game_link game_257" href="/slots/jack-and-the-beanstalk/"><li><img src="http://cdn3casinoroom.r.worldssl.net/images/game_pics/small/jackandbeanstalk.jpg">Jack and the Beanstalk</li></a> </ul>
+ </div>
  
  
- <div id="prependContent">
- <script type="text/javascript">var WRInitTime=(new Date()).getTime();</script><script type="text/javascript">var WRInitTime=(new Date()).getTime();</script> </div>
  
- <div id="content">
+
+ <div class="mainContent">
+ <div id="myaccount_levels" class="popup_box levels">
+                                                                <div class="image locked rank-opal"></div>
+                                                                    <div class="image locked rank-moonstone"></div>
+                                                                    <div class="image locked rank-jade"></div>
+                                                                    <div class="image locked rank-amethyst"></div>
+                                                                    <div class="image locked rank-citrine"></div>
+                                                                    <div class="image locked rank-tourmaline"></div>
+                                                                    <div class="image locked rank-aquamarine"></div>
+                                                                    <div class="image locked rank-emerald"></div>
+                                                                    <div class="image locked rank-topaz"></div>
+                                                                    <div class="image locked rank-ruby"></div>
+                                                                    <div class="image locked rank-sapphire"></div>
+                                                                    <div class="image locked rank-diamond"></div>
+                                 </div>
+ 
+ <div id="myModal" class="reveal-modal">
+      <ul></ul>
+      <a class="close-reveal-modal">x</a>
+ </div>
+ 
+ <div id="topInfo">+280 games, Big Jackpots,  24/7 customer support</div>
+ 
+ <div class="lyContents">
       <div class="boxWide">
  <div class="boxHeader">
  <h1>
@@ -147,7 +353,7 @@ We find that your actions on the SITE violate SITE's Terms of Services, which ca
 <ul class="marginLeft20 marginBottom20">
 <li class="marginBottom10">Obtain from SITE a confirmation that personal information is held as well as a written description of such personal information, the purpose for which it is being held, the source of the personal information and details of any recipients;</li>
 <li class="marginBottom10">Request the deletion or rectification of personal information which is inaccurate; and</li>
-<li class="marginBottom10">To object to any unsolicited information sent by SITE regarding new products and services. This can be done at any time on the SITE: <a class="nobr" href="/playerdetails">http://www.casinoroom.com/playerdetails</a></li>
+<li class="marginBottom10">To object to any unsolicited information sent by SITE regarding new products and services. This can be done at any time on the SITE: <a class="nobr" href="/myaccount">http://www.casinoroom.com/myaccount</a></li>
 <li class="marginBottom20">If you wish to contact SITE regarding your personal information held by SITE or have any other questions about SITE's privacy procedures, please use SITE's contact form at <a class="nobr" href="/help/">http://www.casinoroom.com/help/</a></li>
 </ul>
 
@@ -160,94 +366,165 @@ We find that your actions on the SITE violate SITE's Terms of Services, which ca
  </div>
  </div>
  </div>
-
- <div id="header">
  
-
- <div id="gameMenu">
- <ul class="game_type_nav">
- <li>
- <a href="/games/">Games<span class="arrow  black_down"></span></a>
- <ul id="game_types">
- <li>
- <span class="arrow white_big_up"></span>
- <a href="/video-slots/">
- <span class="game_type video_slots"></span><b>Video Slots</b> 144 games </a>
- </li>
- <li>
- <a href="/table-games/">
- <span class="game_type table_games"></span><b>Table Games</b> 38 games </a>
- </li>
- <li>
- <a href="/poker/">
- <span class="game_type poker"></span><b>Poker</b> 32 games </a>
- </li>
- <li>
- <a href="/video-poker/">
- <span class="game_type video_poker"></span><b>Video Poker</b> 27 games </a>
- </li>
- <li>
- <a href="/card-games/">
- <span class="game_type card_games"></span><b>Card Games</b> 24 games </a>
- </li>
- <li>
- <a href="/scratch/">
- <span class="game_type scratch"></span><b>Scratch</b> 17 games </a>
- </li>
- <li>
- <a href="/classic-slots/">
- <span class="game_type classic_slots"></span><b>Classic Slots</b> 16 games </a>
- </li>
- <li>
- <a href="/blackjack/">
- <span class="game_type blackjack"></span><b>Blackjack</b> 13 games </a>
- </li>
- <li>
- <a href="/roulette/">
- <span class="game_type roulette"></span><b>Roulette</b> 9 games </a>
- </li>
- <li>
- <a href="/baccarat/">
- <span class="game_type baccarat"></span><b>Baccarat</b> 4 games </a>
- </li>
- <li>
- <a href="/livecasino/">
- <span class="game_type live_casino"></span><b>Live Casino</b> 3 games </a>
- </li>
- <li>
- <a href="/bingo/">
- <span class="game_type bingo"></span><b>Bingo</b> 3 games </a>
- </li>
- <li id="all_games">
- <a href="/games/">
- Show all 246 games </a>
- </li>
- </ul>
- </li>
- <li>
- <a href="/roulette/">Roulette</a>
- </li>
- <li>
- <a href="/blackjack/">BlackJack</a>
- </li>
- <li>
- <a href="/slots/">Slots</a>
- </li>
- <li>
- <a href="/bonuses/">Bonuses</a>
- </li>
- <li>
- <a href="/leaderboard/">Leaderboard</a>
- </li>
- </ul>
+ <div class="social_tabs">
+ <div id="indexLikeBox">
+ <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fcasinoroom&amp;width=311&amp;height=270&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23e1e1e1&amp;stream=false&amp;header=true&amp;appId=162707787101160" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:635px; height:270px;" allowtransparency="true"></iframe>
  </div>
- <a id="logoContainer" href="/" title="Casino Room">
- <span id="logoGate">Casino</span>
- <span id="logo">Room</span>
+ </div>
+ 
+ <div class="gameSliders">
+ 
+ <div class="item newgame">
+ 
+ 
+ <div class="category-title">New games</div>
+ 
+ <div id="slideshow-area">
+ <div id="slideshow-scroller1" scrollleft="0">
+ <div class="slideshow-holder1" style="width: 2652px;">
+ 
+ <div class="slideshow-content1">
+ <img class="game_388" src="http://cdn3casinoroom.r.worldssl.net/images/casinoroom/promos/indexgamegrid/amsterdam_master_plan.jpg" width="461" height="244">
+ </div>
+ 
+ <div class="slideshow-content1">
+ <img class="game_392" src="http://cdn3casinoroom.r.worldssl.net/images/casinoroom/promos/indexgamegrid/untamed_bengal_tiger.jpg" width="461" height="244">
+ </div>
+ 
+ <div class="slideshow-content1">
+ <img class="game_386" src="http://cdn3casinoroom.r.worldssl.net/images/casinoroom/promos/indexgamegrid/wildrockets.jpg" width="461" height="244">
+ </div>
+ 
+ <div class="slideshow-content1">
+ <img class="game_385" src="http://cdn3casinoroom.r.worldssl.net/images/casinoroom/promos/indexgamegrid/snakeslot.jpg" width="461" height="244">
+ </div>
+ </div>  
+ </div>
+ 
+ <span id="slideshow-previous1" style="display: none;"></span>
+ <span id="slideshow-next1"></span> 
+  
+ </div> 
+   
+ <div class="linkage">
+   
+ <a href="/signup/"> 
+ <span class="submit_form button green deposit">
+ Play for real money </span>
  </a>
-</div> <div id="footer">
+ <a class="game_link game_388" href="#">
+ <span class="submit_form button gray deposit">
+ Play for fun </span> 
+ </a>
+ 
+ </div>
+ </div>
+ 
+ <div class="item popular">
+ 
+ <div class="category-title">Popular games</div>
+ 
+ <div id="slideshow-area">
+ <div id="slideshow-scroller2" scrollleft="0">
+ <div class="slideshow-holder2" style="width: 3315px;">
+ 
+ <div class="slideshow-content2">
+ <img class="game_255" src="http://cdn2casinoroom.r.worldssl.net/images/casinoroom/promos/indexgamegrid/immortal.jpg" width="276" height="459">
+ <span data-url="/slots/immortal-romance/" class="placeHolderLink"></span>
+ </div>
+ 
+ <div class="slideshow-content2">
+ <img class="game_177" src="http://cdn2casinoroom.r.worldssl.net/images/casinoroom/promos/indexgamegrid/rockstar.jpg" width="276" height="459">
+ <span data-url="/slots/rockstar/" class="placeHolderLink"></span>
+ </div>
+ 
+ <div class="slideshow-content2">
+ <img class="game_61" src="http://cdn3casinoroom.r.worldssl.net/images/casinoroom/promos/indexgamegrid/blood.jpg" width="276" height="459">
+ <span data-url="/slots/bloodsuckers/" class="placeHolderLink"></span>
+ </div>
+ 
+ <div class="slideshow-content2">
+ <img class="game_166" src="http://cdn2casinoroom.r.worldssl.net/images/casinoroom/promos/indexgamegrid/gonzo.jpg" width="276" height="459">
+ <span data-url="/slots/gonzos-quest/" class="placeHolderLink"></span>
+ </div>
+ 
+ <div class="slideshow-content2">
+ <img class="game_257" src="http://cdn3casinoroom.r.worldssl.net/images/casinoroom/promos/indexgamegrid/beanstalkhq.jpg" width="276" height="459">
+ <span data-url="/slots/jack-and-the-beanstalk/" class="placeHolderLink"></span>
+ </div>
+ </div>  
+ </div>
+ 
+ <span id="slideshow-previous2" style="display: none;"></span>
+ <span id="slideshow-next2"></span> 
+  
+ </div> 
+   
+ <div class="linkage">
+   
+ <a href="/signup/"> 
+ <span class="submit_form button green deposit">
+ Play for real money </span>
+ </a>
+ <a class="game_link game_255" href="#">
+ <span class="submit_form button gray deposit">
+ Play for fun </span> 
+ </a>
+ 
+ 
+ </div>
+ 
+ </div>
+ 
+ <div class="item jackpot">
+ 
+ <div class="category-title">Jackpot games</div>
+
+ <div id="slideshow-area">
+ <div id="slideshow-scroller" scrollleft="0">
+ <div class="slideshow-holder" style="width: 1326px;">
+  <div class="slideshow-content">
+ <img class="game_258" src="http://cdn1casinoroom.r.worldssl.net/images/casinoroom/promos/indexgamegrid/isis_jp.jpg" width="461" height="341">
+ </div>
+  <div class="slideshow-content">
+ <img class="game_231" src="http://cdn2casinoroom.r.worldssl.net/images/casinoroom/promos/indexgamegrid/major.jpg" width="461" height="341">
+ </div>
+ </div>  
+ </div>
+ 
+ <span id="slideshow-previous" style="display: none;"></span>
+ <span id="slideshow-next"></span> 
+ 
+   </div> 
+   
+  <div class="linkage">
+  
+ <a href="/signup/">  
+ <span class="submit_form button green deposit">
+ Play for real money </span>
+ </a>
+ <a class="game_link game_258" href="#">
+ <span class="submit_form button gray deposit">
+ Play for fun </span> 
+ </a>
+ 
+ </div>
+ 
+ </div>
+ </div> 
+ </div>
+ </div>
+</div>
+
+
+ <div id="footerWrap">
+
+ <div id="linksWrap">
+
+<div id="footer">
  <p style="text-align:center;">
- <img src="/1364166789/images/casinoroom/footerlogos_en.jpg" width="850" height="77" alt="Casino Partners and Payment Methods">
+ <img src="http://cdn2casinoroom.r.worldssl.net/images/casinoroom/footerlogos_en.jpg" width="850" height="77" alt="Casino Partners and Payment Methods">
  </p>
 </div>
 <div id="sitelinks">
@@ -255,27 +532,18 @@ We find that your actions on the SITE violate SITE's Terms of Services, which ca
  <li><b><a href="/help/">Help</a></b></li>
  <li><a href="/help/">FAQ</a></li>
  </ul>
- <ul class="link_list">
+ <ul class="link_list limits">
  <li><b><a href="/aboutus/">About us</a></b></li>
  <li><a href="/aboutus/">About us</a></li>
  <li><a href="/responsiblegaming/">Responsible gaming</a></li>
  <li><a href="/winners/">Winners</a></li>
  <li><a href="/termsofservice/">Terms of service</a></li>
  <li><a href="/privacypolicy/">Privacy policy</a></li>
- <li><a href="http://www.pokeraffiliate.com" rel="follow" target="_blank">Affiliates</a></li>
- </ul>
- <ul class="link_list">
- <li><b><a href="/news/">News</a></b></li>
- <li><a href="/news/francisco-siktade-mot-stjrnorna-vann-ver-100-000-kr/">Francisco aimed for the stars and won...</a></li>
- <li><a href="/news/upp-till-kamp-tjejer/">Girl power at Casino Room</a></li>
- <li><a href="/news/full-on-action-at-casino-room/">Full on action at Casino Room</a></li>
- <li><a href="/news/eggcellent-bonuses-at-casino-room/">Eggcellent bonuses at Casino Room</a></li>
- <li><a href="/news/join-the-search-for-lost-treasures-at-casino-room/">Join the search for lost treasures</a></li>
- <li><a href="/news/spin-your-way-to-the-city-of-love/">Spin your way to the City of Love</a></li>
+ <li><a href="http://affiliates.ellmountgaming.com" rel="follow" target="_blank">Affiliates</a></li>
  </ul>
  <ul class="link_list limits">
  <li><b><a href="/selfblock/">Responsible gaming</a></b></li>
- <li style="max-width:200px;">CasinoRoom.com, as operator of the website CasinoRoom.com, is fully aware of its responsibility towards society. We take this responsibility very seriously and place great emphasis on this fundamental obligation towards our customers, the general public, and our own employees.</li>
+ <li class="footerNavDescription">CasinoRoom.com, as operator of the website CasinoRoom.com, is fully aware of its responsibility towards society. We take this responsibility very seriously and place great emphasis on this fundamental obligation towards our customers, the general public, and our own employees.</li>
  <li><u><a href="/responsiblegaming/">Set your limits</a></u></li>
  </ul>
  <div id="sitelinksRight">
@@ -285,7 +553,6 @@ We find that your actions on the SITE violate SITE's Terms of Services, which ca
  <ul id="languageList">
  <li>
  <a href="/de/privacypolicy/"><span class="country_flag flag_de"></span> Deutsch</a> 
- <span class="arrow white_big_down"></span>
  </li>
  <li>
  <a href="/es/privacypolicy/"><span class="country_flag flag_es"></span> Español</a> 
@@ -306,6 +573,9 @@ We find that your actions on the SITE violate SITE's Terms of Services, which ca
  <a href="/it/privacypolicy/"><span class="country_flag flag_it"></span> Italiano</a> 
  </li>
  <li>
+ <a href="/zh/privacypolicy/"><span class="country_flag flag_zh"></span> Chinese</a> 
+ </li>
+ <li>
  <a href="/sv/privacypolicy/"><span class="country_flag flag_sv"></span> Svenska</a> 
  </li>
  <li>
@@ -319,165 +589,74 @@ We find that your actions on the SITE violate SITE's Terms of Services, which ca
  <div id="externalSites">
  <p>Casino Room on</p>
  <a href="http://www.facebook.com/casinoroom" rel="nofollow" target="_blank">
- <img src="/1364166789/images/facebook.jpg" title="Facebook" width="67" height="25" alt="Facebook">
+ <img src="http://cdn2casinoroom.r.worldssl.net/images/facebook.jpg" title="Facebook" width="67" height="25" alt="Facebook">
  </a>
  <a href="http://twitter.com/TheCasinoRoom" rel="nofollow" target="_blank">
- <img src="/1364166791/images/twitter.jpg" title="Twitter" width="29" height="25" alt="twitter">
+ <img src="http://cdn3casinoroom.r.worldssl.net/images/twitter.jpg" title="Twitter" width="29" height="25" alt="twitter">
  </a>
  </div>
  </div>
 </div>
 <div id="lgainfo">
  <p>
- <a href="http://www.lga.org.mt/" title="maltalicence.text"><img src="/1364166789/images/casinoroom/malta_license.jpg" alt="maltalicence.text"></a>Casino Room, www.casinoroom.com, run by Ellmount Gaming Limited, a company registered in Malta, in the European Union. Maltese law applies. Company registration number is C52868, and the address is 68 Waterfront Place, Flat 41, The Strand, SLM 1022, Sliema, Malta. 
- </p>
+ <a href="https://www.authorisation.lga.org.mt/verification.aspx?lang=en&amp;company=db28f476-5951-4c4a-91e3-3c850a1d40e0" target="_blank">
+ <img src="http://cdn1casinoroom.r.worldssl.net/images/lga/large.png">
+ </a>
+ Casino Room, www.casinoroom.com, run by Ellmount Gaming Limited, a company registered in Malta, in the European Union. Maltese law applies. Company registration number is C52868, and the address is 68 Waterfront Place, Flat 41, The Strand, SLM 1022, Sliema, Malta. </p>
+</div>
+<div id="curacaoinfo">
+ <p>
+ <a href="http://www.gaminglicences.com/pages/validate.php?lid=8048-E0974831" target="_blank">
+ <img src="http://cdn3casinoroom.r.worldssl.net/images/lga/curacao.png">
+ </a>
+ This product is authorized by the Government of Curaçao, as an Information Provider legally authorized to conduct online egaming operations from Curaçao. Egaming Licensing and Supervision provided by Antillephone N.V. </p>
 </div>
 <div id="copyright">
  <p>
  Copyright © 2005-2013 </p>
-</div> </div>
- <div id="singinForm">
- <h5>Log In</h5>
- <p>Or create an account</p>
- <form id="signin" action="https://www.casinoroom.com/signin/" method="post">
- <input type="hidden" name="_form_id" value="1907597784"> <input id="id_url" name="url" type="hidden">
- <ul>
- <li class="newLine"> <label class="" for="nickname_signin">Email or Nickname:</label> <input class="generalErrorFrm" maxlength="60" tabindex="1234" title="Email or Nickname" id="nickname_signin" name="nickname" type="text" value="Email or Nickname" style="color: rgb(153, 153, 153);">
-</li><li class="newLine"> <label class="" for="password_signin">Password:</label> <input class="generalErrorFrm" tabindex="1235" title="Password" id="password_signin" name="password" type="text" value="Password" style="color: rgb(153, 153, 153);">
-</li> <li id="signinError" class="form_error">
- <span class="icon error"></span>
- <span class="error_text"></span>
- </li>
- <li id="signinSubmit" class="wholeLine">
- <input type="submit" value="Log In" alt="Log In" style="position: absolute; height: 5px; width: 5px;">
- <span class="submit_form button blue">
- Log In <span class="arrowbg">
- <span class="arrow"></span>
- </span>
- </span>
- </li>
- <li id="signinForgotPw" class="newLine">
- <a href="/forgottenpassword/">
- Forgot your password? </a>
- </li>
- </ul>
- </form>
- <input type="hidden" id="signinNicknameValue" value="Email or Nickname">
- <input type="hidden" id="signinPasswordValue" value="Password">
- <div id="signinCreateAccount">
- <a href="/signup/">
- <b>Not a member?</b><br>
- Create a free account </a>
- </div>
-</div> <div id="superNav">
- <div id="superNavContent">
- <div class="right"> <div id="superNavSignUp" class="nav_item sign_up">
- <a href="/signup" class="topLayer graylink">
- <span class="preamble graylink"><span class="arrow gray_right"></span><b>Sign Up</b></span>
- </a>
- </div>
- <div id="superNavSignIn" class="nav_item sign_in">
- <a href="/privacypolicy/" class="topLayer">
- <span class="icon myaccount_black"></span>
- <b>My Account</b><br>
- <span class="preamble" style="margin-top:0.25em;"><span class="arrow white_right"></span>Log In</span>
- </a>
- <span class="clr"></span>
- </div>
- <div id="superNavSupport" class="nav_item support">
- <a href="/help/" class="topLayer">
- <span class="icon help_black"></span>
- <strong>+46 8 559 21 172</strong><br>
- <span class="preamble" style="margin-top:0.25em;"><span class="arrow white_right"></span>Customer support</span>
- </a>
- <span class="clr"></span>
- <div id="superNavQuickSupport" class="nav_popup">
- 
- <h3>You are not alone</h3>
- <div class="arrow"></div>
- <span id="lpButDivID-superNav83"></span>
- <!-- BEGIN LivePerson Button Code -->
- <script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/55734870/?cmd=mTagRepstate&amp;site=55734870&amp;buttonID=25&amp;divID=lpButDivID-superNav83&amp;bt=3&amp;c=1"></script>
- <!-- END LivePerson Button code -->
- <a href="skype:europoker.support?call" class="roundedindentbutton gray skype Closed">
- <i></i>Skype: <span>Closed</span> </a>
+</div>
 
- <a href="mailto:support@casinoroom.com" class="roundedindentbutton gray mailphone">
- <i></i>Telephone &amp; Mail <span>+46 8 559 21 172 Always open</span> </a>
+ </div>
 
- 
- <div id="imgContainerSuperNav" style="float:left; margin-right:1em;">
- <img src="/1364166791/images/support/support_face_en.jpg" width="99" height="112" alt="Costumer support">
+ <div id="clouds">
  </div>
- <p class="bold">Always open</p>
- <p>Please don't hesitate to contact us should you have any comments or questions regarding your account. Our professionals are on hand 24/7.</p>
- <img src="/1364166791/images/support/signature_en.jpg" width="167" height="43" alt="Support autograph">
- <div class="clr"></div>
- 
+ <div id="smoke">
+ <div id="rocket" class="wiggle"></div>
+ <div id="flag">To the top!</div>
  </div>
- </div> 
-<div class="clr"></div></div><div class="clr"></div> </div>
- </div>
+</div>
+
  <div id="pubnub" ssl="on"></div>
  <script type="text/javascript">
- Util.AsyncLoader.afterLoad(function(){
+      Util.AsyncLoader.afterLoad(function(){
      var pubnub = PUBNUB.init({
          subscribe_key : 'sub-c-8b621c0e-6b11-11e2-ae8f-12313f022c90',
          origin        : 'pubsub.pubnub.com',
          ssl           : true
      });
      pubnub.subscribe({
-         channel  : '950cda9dc216f760690d7f5cd0028d47739d9c857e219e4e3198c2da8e5403174db68b6c1ff663305d495faf18f806553eec04ce61c46f59601e126f6bae0fe4',
+         channel  : '681865539a8f889b8f602654388a7f09d7bc8fe8d2acc8aa7126803cec406550a99093414996063726f12749e6dcfe11b4f8213fbfda99c1f59e705c03a5bf8c',
          connect  : function() { },
          callback : function(message) { MyAccount.handleRealtimeUpdate(message); }
      });
+     pubnub.subscribe({
+         channel  : 'ActivityFeed_en',
+         connect  : function() { },
+         callback : function(message) { MyAccount.handleRealtimeUpdate(message); }
+     });
+        pubnub.history({
+            count    : 5,
+            channel  : 'ActivityFeed_en',
+            callback : function (message) { MyAccount.handleHistoryUpdate(message); }
+        });
  });
  var scripts = [];
  scripts.push('https://pubnub.a.ssl.fastly.net/pubnub-3.4.min.js');
+ scripts.push('/js/cr/time/locales/jquery.timeago.en.js');
  Util.AsyncLoader.require(scripts);
  </script>
- <div id="gameHolder" class="hidden">
- <div id="gameHolderLogo" class="modal_close">
- <span id="gameLogoGate">Casino</span>
- <span id="gameLogo">Room</span>
- </div>
- <div id="gameHolderTitle">
- <!-- <p>You are playing: <span id="gameTitle"></span></p> -->
- </div>
- <div id="gameControllers">
- <div id="modalPadding">
- <div id="gameSwitch">
- <div id="switchHandle">
- <div id="label">Switch game</div>
- <span><i></i></span>
- </div>
- <div class="clr"></div>
- <div id="modalGameList">
- </div>
- </div>
- <div id="mSU">
- <div id="mSU-H">
- Play for Real? </div>
- <div id="mSU-C" class="black">
- <p>You are playing for play money. Why not log in now and play for the real thing?</p>
- <ul>
- <li>Bonus on your deposit</li>
- <li>24/7 support</li>
- <li>Fast and simple cash in/out payments</li>
- <li>Jackpots and much much more</li>
- </ul>
- </div>
- <a id="mSU-S" href="/signup/">
- <span class="submit_form button green deposit">
- Sign Up </span>
- </a>
- </div>
- <div id="gameLicenseText" style="font-size: 0.8em;"></div> 
- </div>
- </div>
- <div id="casinoGame">
- </div>
-</div><script type="text/javascript">
+
+<script type="text/javascript">
  var _gaq = _gaq || [];
  _gaq.push(['_setAccount', 'UA-8597701-1']);
  _gaq.push(['_trackPageview']);
@@ -514,21 +693,61 @@ var ClickTaleSSL=1;
 if(typeof ClickTale=='function') ClickTale(5031,1,"www08");
 </script><!-- BEGIN LivePerson Monitor. -->
 <script type="text/javascript">
-window.lpTag={site:'55734870', lpSrv:'server.iad.liveperson.net', _v:'1.0',protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)})},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)})}},defer:function(fn){this._defL=this._defL||[];this._defL.push(fn)},load:function(src,chr,id){if(!src){src=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(_lptStop)=='undefined'){this.load()}},_domReady:function(n){this.isDom=true;this._timing[n]=(new Date()).getTime();this.events.trigger('LPT','DOM_READY')}};lpTag.init();
-</script>
+COM.framework.init.callAfterAsync(function(){
+ setTimeout(function(){
+ window.lpTag={site:'55734870', lpSrv:'server.iad.liveperson.net', _v:'1.0',protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)})},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)})}},defer:function(fn){this._defL=this._defL||[];this._defL.push(fn)},load:function(src,chr,id){if(!src){src=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/'+'tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(_lptStop)=='undefined'){this.load()}},_domReady:function(n){this.isDom=true;this._timing[n]=(new Date()).getTime();this.events.trigger('LPT','DOM_READY')}};lpTag.init();
+ }, 100);
+});</script>
 <!-- END LivePerson Monitor. -->
 
-<script type="text/javascript">
-if (typeof(lpMTagConfig) == "undefined"){ lpMTagConfig = {};}
-if (typeof(lpMTagConfig.sessionVar) == "undefined"){ lpMTagConfig.sessionVar = [];}
-lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'UserName=N/A';
-lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'IsDepositing=N/A';
-lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'UserState=First-time-visitor';
-lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'LoggedIn=NO';
-lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'IsAffiliate=NO';
-lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'AffiliateId=N/A';
-</script>
- <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","34b15c8979","1954360","MVZVNxFYDEZTVEIPWggcdBYQTQ1YHWRCB0EPUEcCBFwhWlxDRAlZClZFTApXBlBK",0,368,new Date().getTime(),"","","","",""]);</script>
+ <!-- BEGIN Monitor Tracking Variables  -->
+ <script type="text/javascript">
+ if (typeof(lpMTagConfig) == "undefined"){ lpMTagConfig = {};}
+ if (typeof(lpMTagConfig.sessionVar) == "undefined"){ lpMTagConfig.sessionVar = [];}
+ lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'UserName=N/A';
+ lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'IsDepositing=N/A';
+ lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'UserState=Visitor';
+ lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'LoggedIn=NO';
+ lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'IsAffiliate=NO';
+ lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'AffiliateId=N/A';
+ </script>
+ <!-- End Monitor Tracking Variables  -->
+ <div id="gameHolder" class="hidden">
+ <div id="gameHolderLogo" class="modal_close">
+ <span id="gameLogoGate">Casino Room</span>
+ </div>
+ <div id="gameHolderTitle">
+ </div>
+ <div id="gameControllers">
+ <div id="modalPadding">
+ <span id="gameTitle"></span>
+ <div id="mSU">
+ <div id="mSU-H">
+ Play for Real? </div>
+ <div id="mSU-C" class="black">
+ <p>You are playing for play money. Why not log in now and play for the real thing?</p>
+ <ul>
+ <li>Bonus on your deposit</li>
+ <li>24/7 support</li>
+ <li>Fast and simple cash in/out payments</li>
+ </ul>
+ </div>
+ <a id="mSU-S" href="/signup/">
+ <span class="submit_form button green deposit">
+ Sign Up </span>
+ </a>
+ <p id="mSU-S">
+ Already a member? <a class="sign_in" href="/privacypolicy/"> Log in here.</a>
+ </p> 
+ </div>
+ <div id="gameLicenseText" style="font-size: 0.8em;"></div> 
+ <script type="text/javascript">
+ $('#gameModalFB').hide();
+ </script>
+ </div>
+ </div>
+ <div id="casinoGame">
+ </div>
+</div> <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","34b15c8979","1954360","MVZVNxFYDEZTVEIPWggcdBYQTQ1YHWRCB0EPUEcCBFwhWlxDRAlZClZFTApXBlBK",0,220,new Date().getTime(),"","","","",""]);</script>
 
-
-<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul><script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
