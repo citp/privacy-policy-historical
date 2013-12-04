@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techgainer.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605221754id_/http%3A//www.techgainer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgainer.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205003829id_/http%3A//www.techgainer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | TechGainer
 
