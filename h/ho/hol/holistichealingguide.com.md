@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holistichealingguide.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527090421id_/http%3A//www.holistichealingguide.com/PrivacyStatement/tabid/811/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holistichealingguide.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204150737id_/http%3A//www.holistichealingguide.com/PrivacyStatement/tabid/811/Default.aspx) for the most accurate reproduction.*
 
 # Holistic Healing Guide > Privacy Statement
 
