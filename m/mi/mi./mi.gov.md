@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the mi.gov privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521024919id_/http%3A//mi.gov/som/0%2C4669%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mi.gov privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204212911id_/http%3A//mi.gov/som/0%2C4669%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
 
-# SOM - Michigan Privacy Policy
+# SOM - Terms of Use, Privacy Policy, and Linking Policy
 
-### Michigan Privacy Policy
+### Terms of Use, Privacy Policy, and Linking Policy
 
-Thank you for visiting Michigan.gov, the official website for the State of Michigan.
-
-**Terms of Use** ****
+### Terms of Use
 
 The Michigan.gov portal is provided as a public service and is owned and operated by the State of Michigan (the State).
 
@@ -23,9 +21,9 @@ You may not use Michigan.gov or any of its content for any purpose that is unlaw
 The State does not promise that Michigan.gov or any content, service, or feature of the website will be error-free or uninterrupted.  Information is provided on an "as is" and "as available" basis.   
 
 
-We may amend these terms and policies from time to time. 
+We may amend these terms and policies from time to time.
 
-**Privacy Policy**
+### Privacy Policy
 
 When you access Michigan.gov, we may gather information in the following ways:
 
@@ -89,7 +87,7 @@ We provide links to other organizations through Michigan.gov.  These links prov
 
 Individuals under the age of 13 are not eligible to use services that require submission of personal information and should not submit any personal information to Michigan.gov.  This includes submitting personal information to Michigan.gov as part of a user profile or personalization profile.  If you are an individual under the age of 13, you may use these services only if used with your parent or legal guardian.
 
-**Linking Policy**
+### Linking Policy
 
 Linking to Michigan.gov is permitted under limited conditions. 
 
@@ -99,20 +97,6 @@ To link to Michigan.gov, use the following HTML code:
 
 <a href="http://www.michigan.gov">
 
-You may download this icon to link to Michigan.gov's homepage: 
-
-But the above icon may only be used to link to the Michigan.gov homepage.    
-
 You may also link to individual State department or agency websites by creating a text link to a specific State department or agency.  You are not, however, permitted to use the individual State department or agency logo for linking purposes. 
 
-**Feedback**
-
-We are always seeking to improve and welcome your feedback.  Please access the [Michigan.gov Customer Survey](http://www.michigan.gov/som/0,4669,7-192-29939_32385_36698-115596--,00.html) to submit comments or suggestions.  You may [ report technical issues and error notices here](http://www.michigan.gov/som/0,1607,7-192--74476--,00.html). 
-
-**Questions**
-
-For questions or comments about this webpage, please contact us using this form: 
-
-[ http://www.michigan.gov/som/0,1607,7-192--192782--,00.html](http://www.michigan.gov/som/0,1607,7-192--192782--,00.html)
-
-Effective date May 2, 2012
+Effective Date: November 2013
