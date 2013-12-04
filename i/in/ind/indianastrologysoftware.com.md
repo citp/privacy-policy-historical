@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianastrologysoftware.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118083827id_/http%3A//www.indianastrologysoftware.com/astrology-software-privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianastrologysoftware.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204042507id_/http%3A//www.indianastrologysoftware.com/astrology-software-privacypolicy.php) for the most accurate reproduction.*
 
 # More details about IndianAstrologySoftware.com
 
