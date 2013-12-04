@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecoatm.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626022424id_/http%3A//www.ecoatm.com/component/content/article/79-support/8-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecoatm.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204035456id_/http%3A//www.ecoatm.com/component/content/article/79-support/8-privacy-policy.html) for the most accurate reproduction.*
 
 # ecoATM Automated eCycling Stations
 
