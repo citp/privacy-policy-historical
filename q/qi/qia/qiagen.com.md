@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qiagen.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621234631id_/http%3A//www.qiagen.com/Trademarks-and-Disclaimers/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qiagen.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204134302id_/http%3A//www.qiagen.com/trademarks-and-disclaimers/privacy-policy) for the most accurate reproduction.*
 
 # QIAGEN - Privacy Policy
 
@@ -34,11 +34,11 @@ By filling in our subscription form, e.g. on the web, you agree that we may use 
 
 If you have registered online with us you can edit your account information at any time by visiting our "My Account" page. You can also delete your account at any time by using the link you received in the e-mail you were sent after registering. As a security measure we may keep your data in our archived records for a short period of time after you unregistered. 
 
-You may [update your personal](https://web.archive.org/User%20Account/_Edit%20Contact%20Data/) data or [withdraw permission to use your personal data](https://web.archive.org/Trademarks-and-Disclaimers/Privacy-Policy/Withdraw-Permission-Personal-Data/) at any time. 
+You may [update your personal](https://web.archive.org/user%20account/_edit%20contact%20data/) data or [withdraw permission to use your personal data](https://web.archive.org/trademarks-and-disclaimers/privacy-policy/withdraw-permission-personal-data/) at any time. 
 
 **E-mail/mail**
 
-In every e-mail/mail (e.g., newsletter, promotional offers, etc.) you will receive, we will give you the opportunity to unsubscribe to stop receiving subsequent mails/mails. Any email/mail for direct marketing and for market research will be subject to our [Direct Marketing and Market Research Policy](https://web.archive.org/Trademarks-and-Disclaimers/Direct-Marketing-and-Market-Research-Policy/).
+In every e-mail/mail (e.g., newsletter, promotional offers, etc.) you will receive, we will give you the opportunity to unsubscribe to stop receiving subsequent mails/mails. Any email/mail for direct marketing and for market research will be subject to our [Direct Marketing and Market Research Policy](https://web.archive.org/trademarks-and-disclaimers/direct-marketing-and-market-research-policy/).
 
 **Changes to this Privacy Policy**
 
