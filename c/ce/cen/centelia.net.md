@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centelia.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531235024id_/http%3A//www.centelia.net/billing/knowledgebase.php%3Faction%3Ddisplayarticle%26id%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centelia.net privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205004122id_/http%3A//www.centelia.net/billing/knowledgebase.php%3Faction%3Ddisplayarticle%26id%3D17) for the most accurate reproduction.*
 
 # Centelia Networks - Knowledgebase
 
