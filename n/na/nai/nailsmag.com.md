@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nailsmag.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606022048id_/http%3A//www.nailsmag.com/privacy-policy%3Fref%3Dftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nailsmag.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204223504id_/http%3A//www.nailsmag.com/privacy-policy%3Fref%3Dftr) for the most accurate reproduction.*
 
 # Privacy Policy
 
