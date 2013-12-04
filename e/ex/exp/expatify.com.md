@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatify.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117171244id_/http%3A//www.expatify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatify.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204130227id_/http%3A//www.expatify.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,3 +14,5 @@ Cookies are important devices for both serving more relevant ads to users and me
 
 
 If you have any questions or issues, please contact us at: publisher@traveladnetwork.com
+
+### Comments
