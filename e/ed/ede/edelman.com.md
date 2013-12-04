@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edelman.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527091548id_/http%3A//www.edelman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edelman.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204034137id_/http%3A//www.edelman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Edelman
+# Privacy Policy - Edelman
 
 **Edelman.com Privacy Policy**
 
