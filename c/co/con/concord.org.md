@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603024339id_/http%3A//concord.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204012902id_/http%3A//concord.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Concord Consortium
 
 ## Summary
 
-The Concord Consortium collects a small amount of data from the visitors to its site. E-mail addresses and other **personal information will never be sold, rented, or otherwise disclosed** to other organizations. Details about the kinds of data we collect and what we do with it are listed below:
+The Concord Consortium collects a small amount of data from the visitors to its site. **E-mail addresses and other personal information will never be sold, rented, or otherwise disclosed to other organizations.** Details about the kinds of data we collect and what we do with it are listed below:
 
 ### Concord Accounts
 
@@ -20,9 +20,9 @@ The only thing you need to provide us with to get a Concord account is a valid e
 
 If you download our free software, we may contact you regarding available updates or critical problems.
 
-If you subscribe (opt-in) to an e-mail mailing list(s), we will send you materials via e-mail only from the mailing list(s) you subscribed to. At any time, you may opt-out by going to your account and clicking on the Subscriptions link.
+If you subscribe (opt-in) to our e-mail mailing list(s), we will send you materials via e-mail only from the mailing list(s) you subscribed to. At any time, you may opt-out by going to your account and editing your subscription options.
 
-If you subscribe (opt-in) to a Print mailing list, we will send materials through Postal mail if you have given us your valid US postal address. At any time, you may opt-out by going to your account and clicking on the Subscriptions link.
+If you subscribe (opt-in) to our Print mailing list, we will send materials through Postal mail if you have given us your valid US postal address. At any time, you may opt-out by going to your account and editing your subscription options.
 
 Online course registrants will be contacted by course instructors.
 
@@ -33,6 +33,8 @@ We require a valid email address for Print subscriptions to our @Concord Newslet
 ### Cookies
 
 This site uses cookies to collect information about how visitors use and navigate it. These cookies collect information in an anonymous form that does not identify visitors. We use this information to compile reports for helping us improve the site.
+
+This site uses Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google's [Ads Settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TChbXymC3iQZnyuVz8CJQRwkhrbYgd-TIYNpsifq8DtCnKHq9wolmtiahUTFWTC4B9SwvD1YzdAIBBvTzJfdEba9gltBayoIULNeN83WE3tq-2q7QbR051KmGTpjcKrIs9120mLstUQ5a0KXumbWF3nWbiRuNYE7n3fU84xRNRFVc6mbQPI "Google Ad Settings").
 
 ### Internet Data
 
