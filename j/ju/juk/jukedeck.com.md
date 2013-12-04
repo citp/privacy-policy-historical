@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jukedeck.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128012655id_/http%3A//www.jukedeck.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jukedeck.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204140129id_/http%3A//jukedeck.com/privacy.html) for the most accurate reproduction.*
 
 # Jukedeck
 
