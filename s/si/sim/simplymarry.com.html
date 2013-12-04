@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the simplymarry.com privacy policy that was archived on 2013-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517184352id_/http%3A//www.simplymarry.com/matrimonial/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simplymarry.com privacy policy that was archived on 2013-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204022430id_/http%3A//www.simplymarry.com/matrimonial/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html><html><head>
 <!-- for chartbeat -->
-<script async="" src="http://b.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript" async="" src="https://chuknu.sokrati.com/54/tracker.js"></script><script async="" src="http://b.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 	
 <link rel="icon" type="image/png" href="/images/favicon.png">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -29,27 +29,35 @@
 	
 
 
+
+<script src="http://code.jquery.com/jquery-1.9.0.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.0.0.js"></script>
+
+
+
+
 <link href="/css/nyroModal.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/all_popups.css?time=1" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/jquery.Jcrop.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/application.css?ver=1" media="screen" rel="stylesheet" type="text/css">
 
-	<script type="text/javascript" src="/js/jquery.js"></script>
-	<script type="text/javascript" src="/js/jquery.form.js"></script>
-	<script type="text/javascript" src="/js/jquery.validate.min.js"></script>
-    <script type="text/javascript" src="/js/jquery.validation.additional-methods-1.8.min.js"></script>
-    <script type="text/javascript" src="/js/jquery.url.js"></script>
-    <script type="text/javascript" src="/js/jquery.scrollTo-min.js"></script>   
-    <script type="text/javascript" src="/js/jquery.nyroModal.custom.js"></script>
-    <script type="text/javascript" src="/js/feedback.js"></script>
-    <script type="text/javascript" src="/js/ajaxtabs.js"></script>
-    
-    <!--[if IE 6]>
-        <script type="text/javascript" src="/js/jquery.nyroModal-ie6.min.js"></script>
-    <![endif]-->
-    <script src="/js/jquery.autocomplete.min.js" type="text/javascript"></script>
-    <script type="text/javascript" src="/js/application.js"></script>    
-    <script type="text/javascript" src="/js/swfobject.js"></script>
+<script type="text/javascript" src="/js/jquery.slimscroll.js"></script>
+<script type="text/javascript" src="/js/jquery.scrollTo-min.js"></script>
+<script type="text/javascript" src="/js/jquery.form.js"></script>
+<script type="text/javascript" src="/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/js/jquery.validation.additional-methods-1.8.min.js"></script>
+<script type="text/javascript" src="/js/jquery.url.js"></script>
+   
+<script type="text/javascript" src="/js/jquery.nyroModal.custom.js"></script>
+<!--[if IE 6]>
+        <script type="text/javascript" src="/js/jquery.nyroModal-ie6.js"></script>
+<![endif]-->
+   
+
+<script type="text/javascript" src="/js/application.js"></script>    
+   
+	
+	
 	<script type="text/javascript">
 		document.domain = "simplymarry.com";
 		//$(document).ready(function()
@@ -77,7 +85,74 @@ var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036484" });(func
 </script>
 <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036484&cv=2.0&cj=1" /></noscript>
 <!-- tracking codes end -->
-	
+
+<style>
+.updatewidget {	-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; background-color: #c6ddef; -webkit-box-shadow: 0 0 3px rgba(0,0,0,.38); 	-moz-box-shadow: 0 0 3px rgba(0,0,0,.38); box-shadow: 0 0 3px rgba(0,0,0,.38); border: solid 1px #fff; padding:5px; color:#222; text-align:left; font-size:12px; margin:0 auto; }
+.updatewidget a { color:#004c74; font-size:14px; font-weight:bold; text-decoration:none;}
+</style>
+
+<script>
+		
+		var userId = "";
+		var closeNotification = false;
+		
+		window.setInterval(function(){
+			if(userId!=null && userId!='' && !closeNotification){
+				//liveNotification();
+			}
+		}, 60000);
+		
+		function liveNotification(){
+				//alert("fetching notification");
+				$.ajax({
+						type : "GET",
+						url : "/users/"+userId+"/messages/getRecentSenders",
+						cache: true,
+						success : function(resp){
+							//alert(resp);
+							var element = $.parseJSON(resp);
+	            				var nameList = element.name;
+	            				//var imgList = element.image;
+	            				var profileList = element.profileIdList;
+	            				var msgList = element.msgIdList;
+	        			
+	        				var result="";
+							
+//							alert("nameList:"+nameList);
+
+	        				if(nameList!=null && nameList!="" && nameList!="undefined" && nameList.length>0){
+							//alert("length of Array:"+nameList.length);
+							//alert("Index of comma:"+(nameList.toString()).indexOf(","));
+
+								if((nameList.toString()).indexOf(",")!=-1){
+									//alert("coma exists...");
+			        				for (var i=0; i< nameList.length; i++){
+									//	result = result+ "<div class='updatewidget' id='liveNotifyWidget"+profileList[i]+i+"' ><a href='#' onclick='return closeWidgetDiv(\"liveNotifyWidget"+profileList[i]+i+"\");'><img src='/images/x_icon_widget.png' border='0' align='right'></a>		<a href='/user_profiles/show/"+profileList[i]+"'>			<img src='http://www.simplymarry.com/"+imgList[i]+"' width='35' align='left' style='border:1px solid #fff; margin-right:5px;'></a><br><a href='/users/"+userId+"/messages/?msgId="+msgList[i]+"'>"+nameList[i]+"</a> has send you a message</div>";
+									result = result+ "<div class='updatewidget' id='liveNotifyWidget"+profileList[i]+i+"' ><a href='#' onclick='return closeWidgetDiv(\"liveNotifyWidget"+profileList[i]+i+"\");'><img src='/images/x_icon_widget.png' border='0' align='right'></a>		<a href='/users/"+userId+"/messages/?msgId="+msgList[i]+"'>"+nameList[i]+"</a> has sent you a message</div>";        					
+			        				}
+			        			}else{
+									//result = result+ "<div class='updatewidget' id='liveNotifyWidget"+profileList+"' ><a href='#' onclick='return closeWidgetDiv(\"liveNotifyWidget"+profileList+"\");'><img src='/images/x_icon_widget.png' border='0' align='right'></a>		<a href='/user_profiles/show/"+profileList+"'>			<img src='http://www.simplymarry.com/"+imgList+"' width='35' align='left' style='border:1px solid #fff; margin-right:5px;'></a><br><a href='/users/"+userId+"/messages/?msgId="+msgList+"'>"+nameList+"</a> has send you a message</div>";	  
+									result = result+ "<div class='updatewidget' id='liveNotifyWidget"+profileList+"' ><a href='#' onclick='return closeWidgetDiv(\"liveNotifyWidget"+profileList+"\");'><img src='/images/x_icon_widget.png' border='0' align='right'></a>		<a href='/users/"+userId+"/messages/?msgId="+msgList+"'>"+nameList+"</a> has sent you a message</div>";      				
+			        			}
+			        		}
+			        		
+			        		//alert("Notify Div:"+result);
+							//$("#inboxUpdateWidget").append();						
+							$("#inboxUpdateWidget").html(result);
+						}
+						});
+			}		
+			
+			function closeWidgetDiv(divId){
+				$("#"+divId).hide();
+				closeNotification = true;
+				return false;
+			}
+
+		
+</script>
+
+
 </head>
 	<body>
 	    
@@ -160,6 +235,9 @@ var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036484" });(func
 		<div id="cRs_14" class="fl" style="padding:0 0 0 5px; border-left:1px solid #999;"><iframe scrolling="no" frameborder="0" allowtransparency="true" style="border: none; overflow: hidden; width: 90px; height: 21px; margin: 3px 0 0 0;" src="http://www.facebook.com/plugins/like.php?href=www.facebook.com%2FSimplymarry&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21"></iframe>
 </div>
 		<p class="fr">Already a member? <a href="/users/login">Login</a></p>
+        
+        <p class="hdrlvhelp"><a href="javascript:void(0);" onclick="window.open('http://server.iad.liveperson.net/hc/26231671/?cmd=file&amp;file=visitorWantsToChat&amp;site=26231671&amp;SESSIONVAR!operator=ananya&amp;SESSIONVAR!skill=timesmatri&amp;imageUrl=http://&amp;referrer='+escape(document.location),'chat26231671','width=472,height=320');return false;">Live Help</a>
+        </p><p class="fr" style="font-family:Arial; font-size:12px;">Call Now: <strong>0124-399-8666</strong> <span style="font-size:11px; color:#777777;">(9am-10pm/Mon-Sun)</span></p>
       </div>
       
 
@@ -171,26 +249,33 @@ var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036484" });(func
 	   
 	   
 	   
-	   	<img class="smhdrlogo" title="SimplyMarry" alt="simplymarry" src="/images/sm_header_logo.png" style="margin: 15px 0 0 0;">
+	   	<img class="smhdrlogo" title="SimplyMarry" alt="simplymarry" src="/images/sm_header_logo.png" style="margin:10px 0 10px 0;">
    	   </a>
-       
-      
-<div style="float:left; margin:20px 0 0 50px;">
- <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="468" height="60">
-          <param name="movie" value="/images/hats_off_468x60.swf">
-          <param name="quality" value="high">
-          <embed src="/images/hats_off_468x60.swf" quality="high" wmode="transparent" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="468" height="60">
-        </object>
-            
-</div> 
-       
-	   <!-- helpline_div -->
-    	
+     <!--  right banner start -->
+    <div style="float:right; margin:10px 0 0 0;">
+          <a href=" http://www.refreshmattress.com/" onclick="_gaq.push(['_trackPageview', '/AdSales/Home_bb_rmattress']); " target="_blank">
+         	<img src="/images/C_banner.jpg" title="Premium Matchmaking event for Vaish &amp; Jain" border="0" width="470" height="70">
+         </a>
+    </div><!--  right banner start -->
+
+	<!--<div style="float:right; margin:10px 0 0 0;" onmousedown="window.open('http://www.delhideservesbetter.com/price-rise.aspx?utm_source=simplymarry&utm_medium=468x60&utm_campaign=bjp'); _gaq.push(['_trackPageview', '/AdSales/header_Hb_BJP']);">
+		
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="460" height="70">
+	  <param name="movie" value="/images/headerBanner.swf" />
+	  <param name="quality" value="high" />
+	  <embed src="/images/headerBanner.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="460" height="70" wmode="transparent"></embed>
+	</object>
+
+		</div>-->        
+
+
+<!-- helpline_div -->
+<!--    	
 
 <div id="cRs_22" class="smhelpline fr clr">
-                	<span><a id="cRs_69" href="javascript:void(0);" onclick="window.open('http://server.iad.liveperson.net/hc/26231671/?cmd=file&amp;file=visitorWantsToChat&amp;site=26231671&amp;SESSIONVAR!operator=ananya&amp;SESSIONVAR!skill=timesmatri&amp;imageUrl=http://&amp;referrer='+escape(document.location),'chat26231671','width=472,height=320');return false;">Live Help</a> | <b>0124 3998666</b></span>
+                	<span><a id="cRs_69" href="javascript:void(0);" onclick="window.open('http://server.iad.liveperson.net/hc/26231671/?cmd=file&file=visitorWantsToChat&site=26231671&SESSIONVAR!operator=ananya&SESSIONVAR!skill=timesmatri&imageUrl=http://&referrer='+escape(document.location),'chat26231671','width=472,height=320');return false;">Live Help</a> | <b>0124 3998666</b></span>
       				<p style="width: 156px;">09:00am-10:00pm (Mon-Sun)</p>
-</div>
+</div> -->
         
       
 
@@ -322,7 +407,7 @@ var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036484" });(func
 					
 						  
 
-						  <a href="/orders/backEndPackages?type=PMMM"> Predict My Marriage</a>
+						  <a href="/orders/backEndPackages?type=TIMS"> Assisted Matrimony</a>
 						  
 					
 					
@@ -334,43 +419,7 @@ var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036484" });(func
 					
 						  
 
-						  <a href="/orders/backEndPackages?type=AGWT"> Astro Guru</a>
-						  
-					
-					
-					</li>	
-				
-					
-					
-					<li>
-					
-						  
-
-						  <a href="/orders/backEndPackages?type=TIMS"> Personalized Service</a>
-						  
-					
-					
-					</li>	
-				
-					
-					
-					<li>
-					
-						  
-
-						  <a href="/orders/backEndPackages?type=EXPR"> Exclusive Profile</a>
-						  
-					
-					
-					</li>	
-				
-					
-					
-					<li>
-					
-						  
-
-						  <a href="/orders/backEndPackages?type=EVNT"> Events</a>
+						  <a href="/orders/backEndPackages?type=EVNT"> Event</a>
 						  
 					
 					
@@ -383,7 +432,6 @@ var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6036484" });(func
             	
             	<li class="arrow" id="smileBox">
 	<a href="#"><p>SMile</p> </a>
-	<div class="navntfyno" style="background:none"><img src="/images/smile_icon.gif"></div>
 	<div class="hvrnavdiv smileBox menu" style="display:none">
 		<div class="navtit fl">
 			<a href="#"><p>SMile</p> </a>
@@ -558,7 +606,6 @@ TBSL respects the privacy of it's users and is committed to protect it in all re
         To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password etc., and / or your occupation, interests, and the like.. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience.<br>
 <br>
 
-
 All required information is service dependent and TBSL may use the above said User information to, maintain, protect, and improve its services (including advertising services) and for developing new services.<br>
 <br>
 
@@ -566,6 +613,12 @@ All required information is service dependent and TBSL may use the above said Us
 Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005 or any other law for the time being in force.
  <br>
 <br>
+
+<p>INFORMATION GATHERED VIA FACEBOOK</p>
+We do not store your Facebook password, and any other such confidential information. We collect information like your name, email ID, company name, gender, facebook photos, that too imported by you only from your facebook profile at your sole discretion to be used for your Simplymarry profile. None of this information is ever shared with, or sold to any third parties for marketing purposes, without your consent. 
+<br>
+<br>
+
 <p>COOKIES</p>
 To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. <br>
 <br>
@@ -609,45 +662,38 @@ When you use TBSL’s websites, we make good faith efforts to provide you, as an
 <p>INFORMATION SECURITY</p>
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.<br>
 <br>
- 
 All information gathered on TBSL is securely stored within the TBSL controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access. <br>
 <br>
-
-
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. <br>
 <br>
-
-
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. <br>
+<br>
+<strong>Grievance Redressal :</strong><br>
+Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to <a href="mailto:grievance@simplymarry.com">grievance@simplymarry.com</a> or Mr. Sachin Kumar ("Grievance Officer"). 
 
-In the event you have any grievance relating to the processing of information provided by you,  you may contact our Grievance Officer, at <a href="mailto:tbsl-legal@indiatimes.co.in">tbsl-legal@indiatimes.co.in</a> ; or write at the following address:
 
 <br>
 <br>
-<strong>Times Business Solutions Limited</strong><br>
-(A Times Group Company)<br>
+<strong>Mr. Sachin Kumar (Grievance Officer)<br>
+</strong><br>
+Times Business Solutions Limited<br><br>
+<strong>www.simplymarry.com <br></strong><br>
+Times Business Solutions Limited<br>(A Times Group Company) <br>
+Times Centre <br>
+Sector 16-A, Noida - 201301, India <br>
+Email: <a href="mailto:grievance@simplymarry.com">grievance@simplymarry.com</a><br>
+Phone No. 0120-663-6502<br>
 
-Times Center<br>
 
-6 FC, Film City<br>
-
-Sector 16 A ,<br>
-
-Noida - 201301<br>
-
-INDIA <br>
-
-Ph: 0120-330 2768<br>
-
-<a href="mailto:legal.tbsl@timesgroup.com">legal.tbsl@timesgroup.com</a><br>
 <br>
 We request you to please provide the following information in your complaint:-<br>
 <ol style="list-style-type:lower-alpha">
-<li>Identification of the information provided by you </li>
-<li>Clear statement as to whether the information is personal information or sensitive personal information </li>
-<li>Your address, telephone number or e-mail address. </li>
-<li>A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be. </li>
-<li>A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.</li>
+<li>A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint.</li>
+<li>Identification of the copyrighted work claimed to have been infringed.</li>
+<li>Identification of the material on our website that is claimed to be infringing or to be the subject of infringing activity.</li>
+<li>The address, telephone number or e-mail address of the complaining party.</li>
+<li>A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.</li>
+<li>A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.</li>
 </ol>
 
 <div id="st_toplink"><a href="#top">Go to Top <img src="/images/staticimages/stp_top.gif" border="0"></a></div>
@@ -687,9 +733,16 @@ We request you to please provide the following information in your complaint:-<b
 		
 
 
+<div id="inboxUpdateWidget" style="position:fixed; z-index:999; left:5px; bottom:10px; width:260px;">
+</div>
+
+
+	
+
+
 <div class="footer clb" style="margin-top:10px;">
 	<div class="ftrlnks fl">
-    	<ul>
+    	<ul style="width:85%;">
         	<li style="padding:0 10px 0 0;"><b><a>Information</a></b></li>
             <li><a href="/matrimonial/advertise">Advertise with Us</a></li>
             <li><a href="/orders/new">Membership</a></li>
@@ -700,13 +753,15 @@ We request you to please provide the following information in your complaint:-<b
             <li><a href="/matrimonial/faq">Faq’s</a></li>
             <li><a href="/matrimonial/sitemap">Sitemap</a></li>
             <li style="border:none;"><a href="/matrimonial/take-a-tour">Take a Tour</a></li>
-            <li style="padding:0 7px 0 0; border:none;" class="fr"><b><a>Connect with Us</a></b></li>
+           <!-- <li style="padding:0 7px 0 0; border:none;" class="fr"><b><a>Follow us on:</a></b></li> -->
         </ul>
         <div class="fr">
         
         	
-        	<a id="cRs_222" href="http://www.facebook.com/SimplyMarry"><img id="cRs_55" src="/images/fb_foter_ico.png"></a> 
-        	<a id="cRs_333" href="http://twitter.com/simplymarry_sm"><img id="cRs_56" src="/images/twiter_foter_ico.png"></a>
+            <span style="font-size:12px;">Follow us on:</span>
+        	<a id="cRs_222" href="http://www.facebook.com/SimplyMarry" target="_blank"><img id="cRs_55" src="/images/fb_foter_ico.png" title="Follow us on Facebook"></a> 
+        	<a id="cRs_333" href="http://twitter.com/simplymarry_sm" target="_blank"><img id="cRs_56" src="/images/twiter_foter_ico.png" title="Follow us on Twitter"></a>
+            <a href="http://pinterest.com/simplymarry/" target="_blank"><img src="/images/pinterest_smicon.png" width="17" title="Pin it on Pinterest"></a>
     </div>
     <!----- SM Page links 2 html  ----->
     <div class="ftrlnks fl" style="margin:12px 0 0 0;">
@@ -715,8 +770,8 @@ We request you to please provide the following information in your complaint:-<b
             <li><a href="/matrimonial/success-stories">Success Stories</a></li>
             <li><a href="/successstories/showForm">Submit Success Story</a></li>
             <li><a href="/matrimonial/soulmate">Soulmate</a></li>
-            <li><a href="/matrimonial/humtum">Hum Tum</a></li>
-            <li style="border:none;"><a href="/matrimonial/matchtech">Match TECH</a></li>
+            <li style="border:none;"><a href="/matrimonial/humtum">Hum Tum</a></li>
+            <!--<li style="border:none;"><a href="/matrimonial/matchtech" >Match TECH</a></li> -->
         </ul>
     </div>
     <!----- SM Page links 3 html ----->
@@ -727,7 +782,8 @@ We request you to please provide the following information in your complaint:-<b
             <li><a href="/matrimonial/matrimonials">Matrimonials</a></li>
             <li><a href="/matrimonial/matchmaking">Matchmaking</a></li>
             <li><a href="/matrimonial/brides/">Brides</a></li>
-            <li style="border:none;"><a href="/matrimonial/grooms">Grooms</a></li>
+            <li><a href="/matrimonial/grooms">Grooms</a></li>
+            <li style="border:none;"><a href="http://blog.simplymarry.com/" target="_blank">Matrimonial Blog</a></li>
         </ul>
     </div>
     <div class="tbsllnks fl">
@@ -781,9 +837,10 @@ We request you to please provide the following information in your complaint:-<b
     
 </div>
 
+<div align="center" style="margin:0 auto; width:960px;" id="fcwpromo"><div style="position:fixed; bottom:0; z-index:10;"><a onclick="document.getElementById('fcwpromo').style.display='none';" href="javascript:void(0);"><img src="/images/fcw_close_btn.png" style="position:absolute; bottom:40px; right:0; border:none;"></a><a href="/matrimonial/nolayout/introduction" target="_blank"><img src="/images/fcw_promo_bannerbtm.gif" style="border:none;"></a></div></div>
 
 
-<div style="position:fixed; top:125px; left:0px; float:left; z-index:9999;"><a href="javascript:void(0);" onclick="window.open('http://server.iad.liveperson.net/hc/26231671/?cmd=file&amp;file=visitorWantsToChat&amp;site=26231671&amp;SESSIONVAR!operator=ananya&amp;SESSIONVAR!skill=timesmatri&amp;imageUrl=http://&amp;referrer='+escape(document.location),'chat26231671','width=472,height=320');return false;"><img src="/images/need_advice.png" alt="Need Advice" border="0"></a></div> 
+<!--<div style="position:fixed; top:125px; left:0px; float:left; z-index:9999;"><a href="javascript:void(0);" onclick="window.open('http://server.iad.liveperson.net/hc/26231671/?cmd=file&file=visitorWantsToChat&site=26231671&SESSIONVAR!operator=ananya&SESSIONVAR!skill=timesmatri&imageUrl=http://&referrer='+escape(document.location),'chat26231671','width=472,height=320');return false;"><img src="/images/need_advice.png" alt="Need Advice" border="0"/></a></div>  -->
 
 
 
@@ -802,32 +859,39 @@ document.getElementById("cchelpline1").style.display="block";
 </script>
  
  
-<div style="position:fixed; top:325px; left:0px; float:left; z-index:9999; display:block;" id="cchelpline1">
-<a href="javascript:void(0);" onclick="pslideropen()"><img src="/images/phone_slider.png" border="0"></a>
+<!--<div style="position:fixed; top:325px; left:0px; float:left; z-index:9999; display:block;" id="cchelpline1">
+<a href="javascript:void(0);" onclick="pslideropen()"><img src="/images/phone_slider.png" border="0" /></a>
 </div> 
 
 <div style="position:fixed; top:325px; left:0px; float:left; z-index:9999; display:none;" id="cchelpline2">
-<a href="javascript:void(0);" onclick="psliderclose()"><img src="/images/phone_slider_open.png" border="0"></a>
-</div> 
-		<script type="text/javascript">
-//chartbeat
-var _sf_async_config={uid:3670,domain:"simplymarry.com"};
-(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
-       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-       "static.chartbeat.com/js/chartbeat.js");
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
-     loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
-</script>
+<a href="javascript:void(0);" onclick="psliderclose()"><img src="/images/phone_slider_open.png" border="0" /></a>
+</div>  -->
+				
 	
+	
+	<script type="text/javascript" src="/js/feedback.js"></script>
+    <script type="text/javascript" src="/js/ajaxtabs.js"></script>
+    
+    
+    <script src="/js/jquery.autocomplete.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/js/swfobject.js"></script>
+	
+	<script type="text/javascript" src="http://tags.crwdcntrl.net/c/2892/cc.js?ns=_cc2892" id="LOTCC_2892"></script>
+ 	<script type="text/javascript" language="javascript">_cc2892.bcp();</script>
+ 	
+ 	<script type="text/javascript">
+		(function() {
+		var a = document.createElement('script');a.type = 'text/javascript'; a.async = true;
+		a.src=('https:'==document.location.protocol?'https://':'http://cdn.')+'chuknu.sokrati.com/54/tracker.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(a, s);
+		   })();
+	</script>
 
-</div><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+<script src="/js/jquery.ui.widget.js"></script>
+<script src="/js/jquery.iframe-transport.js"></script>
+<script src="/js/jquery.fileupload.js"></script>
+
+
+
+
+</div></body></html>
