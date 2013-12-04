@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nettuts.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624082114id_/http%3A//net.tutsplus.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nettuts.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204214553id_/http%3A//net.tutsplus.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nettuts+
 
