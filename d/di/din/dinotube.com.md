@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinotube.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204132833id_/http%3A//www.dinotube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinotube.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205001635id_/http%3A//www.dinotube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
