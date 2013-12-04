@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slingfile.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530100617id_/http%3A//www.slingfile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slingfile.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204050513id_/http%3A//www.slingfile.com/privacy-policy) for the most accurate reproduction.*
 
 # SlingFile.com - Privacy Policy
 
