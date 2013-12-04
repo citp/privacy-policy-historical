@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the loseit.com privacy policy that was archived on 2013-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509223050id_/http%3A//www.loseit.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loseit.com privacy policy that was archived on 2013-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204021148id_/http%3A//www.loseit.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -40,7 +40,7 @@
             if (loc.hostname.indexOf("loseit.com") != -1)
             {
                 if (params && params.target)
-                    loc.assign("https://" + loc.hostname + "/account/?r=" + encodeURIComponent(loc.protocol + "//" + loc.hostname + encodeURIComponent(decodeURIComponent(params.target))));
+                    loc.assign("https://" + loc.hostname + "/account/?r=" + encodeURIComponent(loc.protocol + "//" + loc.hostname + decodeURIComponent(params.target)));
                 else
                     loc.assign("https://" + loc.hostname + "/account/?r=" + encodeURIComponent(loc.protocol + "//" + loc.hostname + "/" + loc.hash));
             }
@@ -89,6 +89,9 @@
             width:970px;
             margin:0 auto;
         }
+
+        body.mobile,
+        .mobile #content { width:640px !important; overflow:hidden !important; }
 
         #content:after {
             content: ".";
@@ -157,20 +160,28 @@
     #hd #signin:hover {
         color:#e69614;
     }
+
+    .mobile #hd { display:none; }
 </style>
 
 <div id="hd">
-    <a href="/?force=1"><img src="http://cdn-s3.loseit.com/static/img/home/logo.png" id="logo" height="85" width="245" alt="Lose It!">
-        </a><ul id="nav"><a href="/?force=1">
+    <a href="/"><img src="http://cdn-s3.loseit.com/static/img/home/logo.png" id="logo" height="85" width="245" alt="Lose It!"></a>
+
+        <ul id="nav">
             
-                </a><li><a href="/?force=1"></a><a href="https://www.loseit.com/account" id="signin" onclick="loseItLogin();return false">Sign In</a></li>
+                <li><a href="https://loseit.com/account" id="signin" onclick="loseItLogin();return false">Sign In</a></li>
             
-            <li><a href="https://www.loseit.com/premium" id="premium_navbar">Premium</a></li>
-            <li><a href="https://www.loseit.com/account#signup">Get Lose It!</a></li>
+
+            
+                <li><a href="https://loseit.com/scale" id="premium_navbar">Bluetooth Scale</a></li>
+            
+
+            <li><a href="https://loseit.com/premium" id="premium_navbar">Premium</a></li>
+            <li><a href="https://loseit.com/account#signup">Get Lose It!</a></li>
             <li><a href="/how-it-works/">How It Works</a></li>
-            <li><a href="/what-is-lose-it/">What Is Lose It!?</a></li>
             <li><a href="/">Home</a></li>
         </ul>
+
 </div>
 <style>
     #hr {
@@ -528,6 +539,10 @@ Last Updated: 12/11/2009
     }
     #copyright {
     }
+
+    .mobile #ft { width:640px; }
+    .mobile #ft-nav { display:none; }
+    .mobile #copyright { padding-top:10px; }
 </style>
 <div id="ft">
     <div id="ft-nav">
@@ -539,7 +554,7 @@ Last Updated: 12/11/2009
         |
         <a href="http://www.facebook.com/loseit">Facebook</a>
         |
-        <a href="/book/">The Book</a>
+        <a href="/jobs/">Jobs</a>
         |
         <a href="/about/">About</a>
         |
