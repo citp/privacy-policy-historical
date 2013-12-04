@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numbeo.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627223744id_/http%3A//www.numbeo.com/common/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numbeo.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204121923id_/http%3A//www.numbeo.com/common/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
