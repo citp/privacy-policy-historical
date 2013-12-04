@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spurs-web.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231073140id_/http%3A//www.spurs-web.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spurs-web.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205003504id_/http%3A//www.spurs-web.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spurs News and Rumours | Tottenham Hotspur News
 
