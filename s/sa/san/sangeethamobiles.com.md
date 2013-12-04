@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sangeethamobiles.com privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124172853id_/http%3A//www.sangeethamobiles.com/pages/Privacy-Policy/pgid-31740.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sangeethamobiles.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205001530id_/http%3A//www.sangeethamobiles.com/pages/Privacy-Policy/pgid-31740.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
