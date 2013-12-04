@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sciencebuddies.org privacy policy that was archived on 2013-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617161936id_/http%3A//www.sciencebuddies.org/science-fair-projects/privacy_policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sciencebuddies.org privacy policy that was archived on 2013-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204052549id_/http%3A//www.sciencebuddies.org/science-fair-projects/privacy_policy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
    <title>Science Buddies: Privacy Policy</title>
@@ -11,15 +11,15 @@
    document.domain = 'sciencebuddies.org';
 </script>
 
-<link rel="stylesheet" href="http://www.cdn.sciencebuddies.org/Dirs/1/316/css/all.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://www.cdn.sciencebuddies.org/Dirs/1/316/css/all-print.css" type="text/css" media="print" title="screen">
-<link rel="alternate stylesheet" href="http://www.cdn.sciencebuddies.org/Dirs/1/316/css/all-print.css" type="text/css" media="all" title="print">
+<link rel="stylesheet" href="http://www.cdn.sciencebuddies.org/Dirs/1/361/css/all.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://www.cdn.sciencebuddies.org/Dirs/1/361/css/all-print.css" type="text/css" media="print" title="screen">
+<link rel="alternate stylesheet" href="http://www.cdn.sciencebuddies.org/Dirs/1/361/css/all-pdf.css" type="text/css" media="all" title="print">
 <link rel="stylesheet" href="http://www.cdn.sciencebuddies.org/Dirs/2/29/jquery-ui-1.7.2b.custom.css" type="text/css" media="all">
 
 <script src="http://www.cdn.sciencebuddies.org/Dirs/2/29/jquery-1.6.2.min.js" type="text/javascript"></script>
 <script src="http://www.cdn.sciencebuddies.org/Dirs/2/29/jquery.ba-hashchange.min.js" type="text/javascript"></script>
 <script src="http://www.cdn.sciencebuddies.org/Dirs/2/29/jquery-ui-1.7.2.custom.min.js" type="text/javascript"></script>
-<script src="http://www.cdn.sciencebuddies.org/Dirs/1/316/js/sb.js" type="text/javascript"></script>
+<script src="http://www.cdn.sciencebuddies.org/Dirs/1/361/js/sb.js" type="text/javascript"></script>
 <script src="http://www.cdn.sciencebuddies.org/Dirs/2/29/jquery.url.js" type="text/javascript"></script>
 <script type="text/javascript">
 document.write('<meta name="viewport" content="width=' + (screen.height >= 1024 ? '1024' : '980') + 'px">');
@@ -28,6 +28,9 @@ document.write('<meta name="viewport" content="width=' + (screen.height >= 1024 
 <script type="text/javascript">
 sb.pageType = "Other";
 </script>
+
+
+
 
 
 </head>
@@ -41,19 +44,14 @@ sb.pageType = "Other";
    <a href="/" id="header-logo"></a>
    <div id="header-items">
       <div class="non-icons">
-         <span><a href="/science-fair-projects/donating.shtml" class="donate">DONATE</a></span>
-         <span><a href="#" class="login-link">Log In</a> / <a href="/science-fair-projects/student_parent_teacher_register.php" target="_top">Sign Up</a></span>
+         <span><a href="#" class="login-link">Log In</a></span><span>|</span><span><a href="/science-fair-projects/registration.php" target="_top">Create an Account</a></span>
       </div>
-      <a class="print print-link" href="#" target="_top"></a>
-      <a class="email email-link" href="#" target="_top"></a>
    </div>
 
    <div id="header-search">
    <form id="search-form" action="/science-fair-projects/search.shtml">
-      <input id="search-input" name="t">
-      <input type="hidden" id="search-query" name="q" value="">
-      <input type="hidden" name="cof" value="FORID:9">
-      <input type="hidden" name="cx" value="006938645102073751460:5g77bgclmby">
+      <input type="hidden" id="search-query" name="v" value="">
+      <input id="search-input" name="s" maxlength="128">
       <div id="search-menu" onmouseover="$('#search-menu').addClass('selected'); $('#search-dropdown').show();" onmouseout="$('#search-menu').removeClass('selected'); $('#search-dropdown').hide();">
          <div id="search-text" class="text">All Results</div>
          <a class="arrow" href="#"></a>
@@ -61,10 +59,11 @@ sb.pageType = "Other";
             <div class="top"></div>
             <div class="middle">
                <a class="item" href="#" onclick="return searchFilter(this, '');">All Results</a>
-               <a class="item" href="#" onclick="return searchFilter(this, 'inurl:phpBB3');">Ask an Expert</a>
-               <a class="item" href="#" onclick="return searchFilter(this, 'inurl:/blog/');">Blog</a>
-               <a class="item" href="#" onclick="return searchFilter(this, 'inurl:science-engineering-careers');">Careers</a>
-               <a class="item" href="#" onclick="return searchFilter(this, 'inurl:project_ideas');">Project Ideas</a>
+               <a class="item" href="#" onclick="return searchFilter(this, 'aae');">Ask an Expert</a>
+               <a class="item" href="#" onclick="return searchFilter(this, 'blog');">Blog</a>
+               <a class="item" href="#" onclick="return searchFilter(this, 'cp');">Careers</a>
+               <a class="item" href="#" onclick="return searchFilter(this, 'pi');">Project Ideas</a>
+               <a class="item" href="#" onclick="return searchFilter(this, 'pg');">Resources</a>
             </div>
             <div class="bottom"></div>
          </div>
@@ -75,34 +74,12 @@ sb.pageType = "Other";
 </div>
 
 <div id="header-logo-print" class="only-print">
-   <img src="http://www.cdn.sciencebuddies.org/Dirs/1/316/img/logo-print.jpg" alt="" width="340" height="70">
+   <img src="http://www.cdn.sciencebuddies.org/Dirs/1/361/img/logo-print.jpg" alt="" width="340" height="70">
 </div>
 <!--]-->
 
    
 <!--[-->
-<div id="tabs-menus" class="only-screen">
-   <div id="tab8-menu" onmouseout="$('#tab8-menu').hide();" onmouseover="$('#tab8-menu').show();">
-      <div class="top"></div>
-      <div class="middle">
-         <a href="/science-fair-projects/student_resources.shtml" class="item">Student</a>
-         <a href="/science-fair-projects/parent_resources.shtml" class="item">Parent</a>
-         <a href="/science-fair-projects/teacher_resources.shtml" class="item">Teacher</a>
-      </div>
-      <div class="bottom"></div>
-   </div>
-
-   <div id="tab9-menu" onmouseout="$('#tab9-menu').hide();" onmouseover="$('#tab9-menu').show();">
-      <div class="top"></div>
-      <div class="middle">
-         <a href="/science-fair-projects/aboutus.shtml" class="item">About Us</a>
-         <a href="/science-fair-projects/classroom_activity_resources.shtml" class="item">Activities</a>
-         <a class="item" href="/science-fair-projects/project_ideas.shtml#buyptojectkits">Project Kits</a>
-      </div>
-      <div class="bottom"></div>
-   </div>
-</div>
-
 <div id="tabs" class="only-screen">
    <a href="/" id="tab1">Home</a>
    <a href="/science-fair-projects/project_ideas.shtml" id="tab2">Project Ideas</a>
@@ -110,9 +87,9 @@ sb.pageType = "Other";
    <a id="tab4" href="/science-fair-projects/ask_an_expert_intro.shtml">Ask An Expert</a>
    <a id="tab5" href="/blog/index.php">Blog</a>
    <a href="/science-fair-projects/science_careers.shtml" id="tab6">Careers</a>
-   <a href="/science-fair-projects/mysciencebuddies.shtml" id="tab7">My Science Buddies</a>
-   <a id="tab8" onmouseover="$('#tab8-menu').show();" href="#"></a>
-   <a id="tab9" onmouseover="$('#tab9-menu').show();" href="#" class="selected"></a>
+   <a href="/science-fair-projects/teacher_resources.shtml" id="tab7">Teachers</a>
+   <a href="/science-fair-projects/parent_resources.shtml" id="tab8">Parents</a>
+   <a href="/science-fair-projects/student_resources.shtml" id="tab9">Students</a>
 </div>
 <!--]-->
 
@@ -328,7 +305,7 @@ Carmel, CA &nbsp;93921</p>
          <div class="header">PROJECT HELP</div>
          <a href="/science-fair-projects/project_guide_index.shtml">Science Fair Project Guide</a>
          <a href="/science-fair-projects/engineering-design-process-guide.shtml">Engineering Design Project Guide</a>
-         <a href="/science-fair-projects/competitions_index.shtml">ISEF Project Guide</a>
+         <a href="/science-fair-projects/competitions_index.shtml">Advanced Project Guide</a>
          <a href="/science-fair-projects/project_ideas.shtml">Science Fair Project Ideas</a>
          <a href="/science-fair-projects/ask_an_expert_intro.shtml">Ask an Expert</a>
       </div>
@@ -337,7 +314,7 @@ Carmel, CA &nbsp;93921</p>
          <div class="header">GET INVOLVED</div>
          <a href="/science-fair-projects/donating_now.shtml">How to Donate</a>
          <a href="/science-fair-projects/participate.shtml">How to Volunteer</a>
-         <a href="/science-fair-projects/student_parent_teacher_register.php">Student &amp; Parent Registration</a>
+         <a href="/science-fair-projects/registration.php">Create a FREE Science Buddies Account</a>
          <a href="/science-fair-projects/ScienceBuddiesinAction.shtml">Science Buddies in Action</a>
          <a href="/science-fair-projects/summer_science_camp.shtml">Summer Science Camps</a>
       </div>
@@ -398,7 +375,7 @@ Carmel, CA &nbsp;93921</p>
             <td colspan="2">
                <div class="caption">
                   <div id="dialog-login-errors" style="color: red;"></div>
-                  <p>Not a member? <a href="/science-fair-projects/student_parent_teacher_register.php">Join Science Buddies</a> – it’s free!</p>
+                  <p>Not a member? <a href="/science-fair-projects/registration.php">Join Science Buddies</a> – it’s free!</p>
                </div>
             </td>
          </tr>
@@ -437,7 +414,18 @@ _gaq.push(['_trackPageview']);
 </script>
 <!--]-->
 
+   
+<!--[-->
+
+<noscript>
+<img src="/Handlers/ga.aspx?utmac=UA-519241-2&utmn=252685582&utmr=http%3a%2f%2fwww.sciencebuddies.org%2fscience-fair-projects%2fproject_ideas%2fRobotics_p010.shtml%3ffrom%3dBlog&utmdt=Science+Buddies%3a+Privacy+Policy&utmp=%2fscience-fair-projects%2fprivacy_policy.shtml" width="1" height="1" />
+</noscript>
+<!--]-->
+
  </div>
+
+
+
 
 
 
