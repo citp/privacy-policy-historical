@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kikatek.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601093715id_/http%3A//www.kikatek.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikatek.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204211818id_/http%3A//www.kikatek.com/privacy.php) for the most accurate reproduction.*
 
 # Kikatek.com: Privacy and Cookies Policy
 
@@ -38,7 +38,7 @@ Your information is stored indefinitely as long as your account with Kikatek is 
 ### Maintaining the information we hold for you
 
   
-You have full control over the information we hold about you. These information can be accessed and amended through the [My Account](https://secure.kikatek.com/account.php) section at anytime. From there, you can also amend certain opt-in features such as subscription to the Kikatek newsletter.
+You have full control over the information we hold about you. These information can be accessed and amended through the [My Account](https://www.kikatek.com/account.php) section at anytime. From there, you can also amend certain opt-in features such as subscription to the Kikatek newsletter.
 
 You can request details of all the information Kikatek currently holds about you in its database(excluding anonymously collected data) again, via our e-Ticket Support System. Please be advise that the charge for this service is GBP10.00 for each request. Once your request is received, our representative will advise you on the required procedures.
 
@@ -55,7 +55,7 @@ All sensitive data transmission to and from our secure server is protected by wh
 ### What you can do to reinforce security of your information
 
   * Use a strong password - _Do not use password that can be easily deduced by others, such as names, telephone numbers, birthdays etc._
-  * Never disclose your password - _It is important that you do not disclose your password to any third party. If you are concerned that somebody else knows your password, you may alter your password anytime in the[My Account](https://secure.kikatek.com/account.php) section of the website. Changing your password from time to time is also a good practice._
+  * Never disclose your password - _It is important that you do not disclose your password to any third party. If you are concerned that somebody else knows your password, you may alter your password anytime in the[My Account](https://www.kikatek.com/account.php) section of the website. Changing your password from time to time is also a good practice._
   * Download and install the latest versions of recommended internet browsers — Firefox, Google Chrome, Safari, Opera and Internet Explorer
   
 
