@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the onsecrethunt.in privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022134914id_/http%3A//www.onsecrethunt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsecrethunt.in privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204195321id_/http%3A//www.onsecrethunt.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | On Secret Hunt
+# Privacy Policy
 
-### On Secret Hunt, Privacy Policy
+### [](http://www.onsecrethunt.in/wp-content/uploads/2013/09/privacy-policy.jpg)
 
-At **On Secret Hunt** , we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our web site and staunchly recognize the importance of protecting this information. In adopting this privacy policy (this “Privacy Policy”), our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. This Privacy Policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our Privacy Policy.  
+### News – On Secret Hunt, Privacy Policy
 
+At  **News – On Secret Hunt** , we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our web site and staunchly recognize the importance of protecting this information. In adopting this privacy policy (this “Privacy Policy”), our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. This Privacy Policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our Privacy Policy.
 
-### When does On Secret Hunt collect my personal information?
+### When does News – On Secret Hunt collect my personal information?
 
-You may provide personal information to OSH everal ways including: 
+You may provide personal information to OSH everal ways including:
 
 (1)By sharing your e-mail address when subscribing to our newsletter.
 
@@ -21,7 +22,7 @@ You may provide personal information to OSH everal ways including: 
 
 In addition to basic contact information, our analytics trackers may also collect other information. This may include the operating system you are working on, the Internet browser you are using, and the screen resolution of your computer.
 
-### How does On Secret Hunt use my personal information?
+### How does News – On Secret Hunt use my personal information?
 
 Depending on the portion of our site that you have subscribed to or interacted with, we may use your information in a number of ways.
 
