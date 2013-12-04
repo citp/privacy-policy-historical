@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palwow.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604030315id_/http%3A//www.palwow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palwow.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204065325id_/http%3A//www.palwow.com/privacy-policy) for the most accurate reproduction.*
 
 # Palwow
 
