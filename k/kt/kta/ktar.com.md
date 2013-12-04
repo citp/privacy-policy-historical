@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605221330id_/http%3A//ktar.com/63/1535710/PRIVACY-STATEMENT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204125029id_/http%3A//ktar.com/63/1535710/PRIVACY-STATEMENT) for the most accurate reproduction.*
 
-# PRIVACY STATEMENT - Misc News - KTAR.com
+# PRIVACY STATEMENT - ktar.com
 
 (Last revised January 2, 2009) 
 
@@ -19,6 +19,3 @@
 **Forums.** The Site may include forums (such as message boards and chat rooms) that enable users to communicate with each other. Operator is under no obligation to moderate or edit the forums and will not be responsible for the content or use of any material posted on any forum at the Site. Operator retains the right to delete at any time and for any or no reason any material posted at the Site. 
 
 **Contact Information.** Questions concerning the Statement or the Site, including any request to review or change your Personal Information, should be directed to webmaster@ktar.com. 
-
-  
-
