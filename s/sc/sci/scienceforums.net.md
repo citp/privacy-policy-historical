@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scienceforums.net privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117010659id_/http%3A//www.scienceforums.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceforums.net privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204200100id_/http%3A//www.scienceforums.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Science Forums
 
@@ -14,6 +14,6 @@ This website does not store any information that would, on its own, allow us to 
 
   1.  
   2. [Privacy Policy](http://www.scienceforums.net/privacypolicy/)
-  3. [ScienceForums.Net Forum Rules](http://www.scienceforums.net/index.php?app=forums&module=extras&section=boardrules) · 
+  3. [ScienceForums.Net Forum Rules](http://www.scienceforums.net/index.php?app=forums&module=extras&section=boardrules "ScienceForums.Net Forum Rules") · 
 
 
