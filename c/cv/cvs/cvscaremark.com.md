@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvscaremark.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523180021id_/http%3A//info.cvscaremark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvscaremark.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204222214id_/http%3A//www.cvscaremark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CVS Caremark
 
