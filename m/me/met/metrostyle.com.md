@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the metrostyle.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103224721id_/http%3A//www.metrostyle.com/privacyAndSecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrostyle.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204141329id_/http%3A//www.metrostyle.com/privacy) for the most accurate reproduction.*
 
 # MetroStyle
 
 Privacy Policy
 
-Last updated on: 07/01/2011
+Last updated on: 05/01/2013
 
 Please Read this Policy and our [Terms of Use](https://web.archive.org/terms.asp) Carefully Before Using This Site (California Residents-Click [HERE](https://web.archive.org/privacyAndSecurity.asp#californiaPrivacyRights) for your California Privacy Rights)
 
@@ -48,6 +48,7 @@ We use the information collected as follows:
   * To identify your product and service preferences, so that you can be informed of new or additional products, services, and promotions that might be of interest to you;
   * To notify you of product recalls or provide other information concerning products you have purchased; and
   * To improve our merchandise selections, customer service, and overall customer shopping experience.
+  * To process any participation in promotions
 
 
 
@@ -93,8 +94,8 @@ How to Unsubscribe from an E-Mail Marketing List
 To be removed from any one of the Emailing lists below, please click on the relevant link to be taken to the proper unsubscribe page:  
 
 
-  * Chadwicks.com Email List [Unsubscribe Page](http://www.chadwicks.com/chadwicks/company/emailSubscription.jsp)
-  * metrostyle.com Email List [Unsubscribe Page](https://www.metrostyle.com/metrostyle/company/emailSubscription.jsp)
+  * Chadwicks.com Email List [Unsubscribe Page](http://www.chadwicks.com/ContactUs)
+  * metrostyle.com Email List [Unsubscribe Page](https://web.archive.org/ContactUs)
 
 
 
