@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiltzero.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613053258id_/http%3A//www.tiltzero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiltzero.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204151258id_/http%3A//www.tiltzero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Bookmarking Community - Tilt Zero
 
