@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whig.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618131905id_/http%3A//www.whig.com/story/15534340/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whig.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204015549id_/http%3A//www.whig.com/story/15534340/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Quincy Herald-Whig | Illinois & Missouri News, Sports
 
