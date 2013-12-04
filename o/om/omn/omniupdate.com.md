@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omniupdate.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601084722id_/http%3A//omniupdate.com/company/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omniupdate.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204163249id_/http%3A//omniupdate.com/company/policies/privacy.html) for the most accurate reproduction.*
 
 # OmniUpdate - Privacy Policy
 
