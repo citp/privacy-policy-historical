@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the keystonebankng.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528173204id_/http%3A//www.keystonebankng.com/footerdocuments.php%3Fp%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keystonebankng.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204080941id_/http%3A//www.keystonebankng.com/footerdocuments.php%3Fp%3D4) for the most accurate reproduction.*
 
 # 
 
-Thank you for visiting us online at [www.Keystonebankng.com](http://www.keystonebankng.com/). At Keystone Bank, we strive to do everything we can to respect the trust Customers have in our brand, and our commitment to your privacy is no exception. We are committed to protecting and safeguarding Customer and user privacy on the Internet. 
+Thank you for visiting us online at [www.keystonebankng.com](http://www.keystonebankng.com/). At Keystone Bank, we strive to do everything we can to respect the trust Customers have in our brand, and our commitment to your privacy is no exception. We are committed to protecting and safeguarding Customer and user privacy on the Internet. 
 
 Thanks again for visiting our web site and for placing your trust in Keystone Bank Plc.  
  **  
-BANK Keystone INTERNET PRIVACY POLICY**
+Keystone Bank INTERNET PRIVACY POLICY**
 
 Keystone Bank is pleased to provide information to all of our Customers about our online privacy policy. Please be assured that Keystone Bank uses its best efforts to protect the privacy of visitors to this web site. 
 
@@ -38,9 +38,9 @@ This privacy policy is effective as of April 26, 2006. From time to time, it may
 
 If you have any questions about our Keystone Bank Internet Privacy Policy, please contact us at: 
 
-Corporate Communications   
-1 Keystone Bank Plc,  
-Keystone Bank Crescent,  
+Corporate Communications Division  
+Keystone Bank Limited,  
+1 Keystone Bank Crescent,  
 Victoria Island, Lagos, Nigeria  
-Tel: 234-1-4612657, 4617341-50  
-or e-mail us at [phblink@Keystonebankng.com](mailto:customerrelations@Keystonebankng.com)
+Tel: 234 70 8060 5000, +234 448 5742  
+or e-mail us at [customercare@keystonebankng.com](mailto:customercare@keystonebankng.com)
