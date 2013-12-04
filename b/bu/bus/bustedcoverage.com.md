@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustedcoverage.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601145320id_/http%3A//bustedcoverage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustedcoverage.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204215458id_/http%3A//bustedcoverage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
