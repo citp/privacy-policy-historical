@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutraplanet.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510090218id_/http%3A//www.nutraplanet.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutraplanet.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204125620id_/http%3A//www.nutraplanet.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
