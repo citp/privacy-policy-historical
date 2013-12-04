@@ -1,107 +1,143 @@
-> *The following text is extracted and transformed from the satac.edu.au privacy policy that was archived on 2012-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120717101934id_/http%3A//www.satac.edu.au/satac/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satac.edu.au privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204111716id_/http%3A//www.satac.edu.au/pages/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy – SATAC
 
-deals with enquiries relating to the application and assessment processes.
+## Privacy
 
-In order to fulfil these functions, SATAC collects and uses personal (including academic) and sensitive information. It recognises the importance to applicants of having their personal and sensitive information kept confidential, and is committed to collecting, managing, using and disclosing personal and sensitive information in accordance with legal requirements and prevailing community standards of best practice. 
+### 1\. Overview
 
-**2\. SCOPE** The Privacy Policy applies to personal and sensitive information pertaining to current and former applicants collected and held by SATAC.
+SATAC processes and assesses applications to TAFE and university courses on behalf of its participating institutions - TAFE SA, Charles Darwin University, Flinders University, The University of Adelaide and the University of South Australia, hereafter referred to as "the Institutions"). SATAC undertakes functions necessary to fulfil this responsibility, including the following:
 
-Any hardcopy or electronic record collected or created by SATAC is an official record and is covered by this Policy. 
+  * assesses the academic and non-academic qualifications presented by applicants according to guidelines established by the Institutions 
+  * generates offers based on the number of applicants required to fill each course according to instructions from the Institutions 
+  * deals with enquiries relating to the application and assessment processes.
+
+
+
+In order to fulfil these functions, SATAC collects and uses personal (including academic) and sensitive information. It recognises the importance to applicants of having their personal and sensitive information kept confidential, and is committed to collecting, managing, using and disclosing personal and sensitive information in accordance with legal requirements and prevailing community standards of best practice. 
+
+### 2\. Scope
+
+The Privacy Policy applies to personal and sensitive information pertaining to current and former applicants collected and held by SATAC.
+
+Any hardcopy or electronic record collected or created by SATAC is an official record and is covered by this Policy. 
 
 The Policy does not apply to statistical information or data that does not identify individuals, that might be released to tertiary institutions, schools, government departments or agencies, or other persons or bodies for the purposes of research and analysis.
 
-**3\. DEFINITIONS** In this Policy, the following definitions apply: 
+###  3\. Definitions 
+
+In this Policy, the following definitions apply: 
 
 "personal information" is used to describe any information or opinion about an individual, whether true or not, whose identity is apparent or can reasonably be ascertained from the information or opinion. It may include name, address, telephone number, date of birth, citizenship status and applicant reference number. It may also include academic information such as student identification numbers, enrolment details, results, application preferences, details of preclusions, schools attended, and offer data, and information related to work experience such as employment records and curriculum vitae.
 
-"sensitive information" is used to describe personal information relating to racial or ethnic origin, religious beliefs, disabilities, medical conditions and any other circumstances which an applicant may wish to bring to the attention of the Institutions for special consideration. 
+"sensitive information" is used to describe personal information relating to racial or ethnic origin, religious beliefs, disabilities, medical conditions and any other circumstances which an applicant may wish to bring to the attention of the Institutions for special consideration. 
 
 "staff member" is used to described any person employed or engaged by SATAC on a continuing, contract or casual basis, and who is involved with managing applications in any capacity.
 
-**4\. POLICY** **4.1 Manner and purpose of personal information collection** (a) Personal information: Personal information will only be collected if it is required for a lawful purpose directly related to a function or an activity of SATAC, or if the collection of the information is required by law. SATAC will take all reasonable steps to: 
+### 4\. Policy
 
-(i) ensure that personal information collected and held is accurate, authentic and reliable. 
+**4.1 Manner and purpose of personal information collection  **
 
-(ii) inform individuals of how it will use the information it has collected. 
+(a) Personal information: Personal information will only be collected if it is required for a lawful purpose directly related to a function or an activity of SATAC, or if the collection of the information is required by law. SATAC will take all reasonable steps to: 
 
-(iii) inform individuals of the implications of providing and of not providing information. 
+(i) ensure that personal information collected and held is accurate, authentic and reliable. 
 
-(b) Sensitive information: SATAC will only collect sensitive information as required by law or with the individual’s consent. 
+(ii) inform individuals of how it will use the information it has collected.
 
-**4.2 Solicitation of personal information**
+(iii) inform individuals of the implications of providing and of not providing information. 
 
-(a) SATAC will solicit personal information directly from the individual concerned except where the individual authorises otherwise, or in cases where the individual would be disadvantaged if the information were not gained from another source. 
+(b) Sensitive information: SATAC will only collect sensitive information as required by law or with the individual’s consent. 
 
-(b) SSABSA and its equivalent interstate bodies, with the permission of the students concerned, provide SATAC with enrolment and results data to facilitate the tertiary entrance process. 
+**4.2 Solicitation of personal information  **
 
-(c) SATAC is authorised by the applicant, through the acceptance of the conditions pertaining to their application, to obtain official records relating to applicants from any educational institution. 
+(a) SATAC will solicit personal information directly from the individual concerned except where the individual authorises otherwise, or in cases where the individual would be disadvantaged if the information were not gained from another source. 
 
-**4.3 Storage and security of personal information**
+(b) SSABSA and its equivalent interstate bodies, with the permission of the students concerned, provide SATAC with enrolment and results data to facilitate the tertiary entrance process. 
 
-SATAC will: 
+(c) SATAC is authorised by the applicant, through the acceptance of the conditions pertaining to their application, to obtain official records relating to applicants from any educational institution. 
 
-(a) take reasonable steps to ensure that personal information is protected by all reasonable safeguards against loss, unauthorised access, use, modification, disclosure or any other misuse. 
+**4.3 Storage and security of personal information  **
 
-(b) ensure that personal information is kept for no longer than is necessary for the purposes for which it may lawfully be used. Hard copy records no longer required will be disposed of securely and in accordance with any requirements for the retention and disposal of personal information. 
+SATAC will: 
 
-(c) maintain a Privacy Management Plan to document classes of personal information held by SATAC. The Privacy Management Plan will contain the following information: 
+(a) take reasonable steps to ensure that personal information is protected by all reasonable safeguards against loss, unauthorised access, use, modification, disclosure or any other misuse. 
 
-(i) classes of individuals about whom records are kept 
+(b) ensure that personal information is kept for no longer than is necessary for the purposes for which it may lawfully be used. Hard copy records no longer required will be disposed of securely and in accordance with any requirements for the retention and disposal of personal information. 
 
-(ii) sources of personal information held 
+(c) maintain a Privacy Management Plan to document classes of personal information held by SATAC. The Privacy Management Plan will contain the following information: 
 
-(iii) purpose and types of personal information collected and held 
+(i) classes of individuals about whom records are kept 
 
-(iv) the period for which personal information is retained 
+(ii) sources of personal information held 
 
-(v) who will have access to personal information 
+(iii) purpose and types of personal information collected and held 
 
-**4.4 Access to records**
+(iv) the period for which personal information is retained 
 
-SATAC will take reasonable steps to allow an individual to access the personal information it holds about them and to correct inaccurate information as appropriate. 
+(v) who will have access to personal information 
 
-**4.5 Use and disclosure of personal information**
+**4.4 Access to records  **
 
-(a) Personal information collected and held by SATAC will only be accessed and used by people employed or engaged by SATAC as required in the fulfilment of their duties and in a manner consistent with the original purpose stated at the time of collection. 
+SATAC will take reasonable steps to allow an individual to access the personal information it holds about them and to correct inaccurate information as appropriate. 
 
-(b) SATAC will release applicant enrolment and results information to tertiary education institutions and tertiary admissions centres as required to facilitate the tertiary entrance process on behalf of applicants. 
+**4.5 Use and disclosure of personal information  **
 
-(c) Additional information may be disclosed: 
+(a) Personal information collected and held by SATAC will only be accessed and used by people employed or engaged by SATAC as required in the fulfilment of their duties and in a manner consistent with the original purpose stated at the time of collection. 
 
-(i) with the individual’s written consent, or 
+(b) SATAC will release applicant enrolment and results information to tertiary education institutions and tertiary admissions centres as required to facilitate the tertiary entrance process on behalf of applicants. 
 
-(ii) to reduce or avoid a threat to an individual’s life, health or safety or a serious threat to public health and safety, or 
+(c) Additional information may be disclosed: 
 
-(iii) when the use or disclosure is required or is specifically authorised by law, or 
+(i) with the individual’s written consent, or 
 
-(iv) if the individual is reasonably suspected of being engaged in current or past unlawful activity, and the personal information is disclosed as a necessary part of the investigation or reporting the matter, or 
+(ii) to reduce or avoid a threat to an individual’s life, health or safety or a serious threat to public health and safety, or 
 
-(v) as required by law to certain government departments and statutory bodies. 
+(iii) when the use or disclosure is required or is specifically authorised by law, or 
 
-(d) On receipt of information, third parties are responsible for the management, use and disclosure of personal information. 
+(iv) if the individual is reasonably suspected of being engaged in current or past unlawful activity, and the personal information is disclosed as a necessary part of the investigation or reporting the matter, or 
+
+(v) as required by law to certain government departments and statutory bodies. 
+
+(d) On receipt of information, third parties are responsible for the management, use and disclosure of personal information. 
 
 (e) If any information provided with and/or obtained in connection with an application, or obtained by SATAC at any other time, is untrue or incomplete in any respect, SATAC and the participating institutions are authorised to collect, receive, store, transfer and use this information. They are also authorised to disclose this information and the fact that it is untrue or incomplete to the Australian Vice-Chancellor’s Committee (AVCC), AVCC member institutions, the members of the Australasian Conference of Tertiary Admissions Centres (ACTAC), and any other authority that SATAC and the participating institutions consider in their discretion necessary or desirable to inform.
 
-**5\. RESPONSIBILITIES**
+###  5\. Responsibilities
 
-(a) The Director is responsible for ensuring all staff members receive a copy of the Privacy Policy. 
+(a) The Director is responsible for ensuring all staff members receive a copy of the Privacy Policy. 
 
-(b) The Director is responsible for ensuring that all applicants have access to the Policy. 
+(b) The Director is responsible for ensuring that all applicants have access to the Policy. 
 
-(c) All managers are responsible for ensuring that the staff members they supervise adhere to the provisions of the Policy. 
+(c) All managers are responsible for ensuring that the staff members they supervise adhere to the provisions of the Policy. 
 
 (d) All individuals employed and engaged by SATAC are responsible for adhering to the provisions of the Policy.
 
-**6\. PROCEDURES**
+### 6\. Procedures
 
-(a) The Privacy Policy will be included with any induction materials and/or sessions provided to new staff. 
+(a) The Privacy Policy will be included with any induction materials and/or sessions provided to new staff. 
 
-(b) All managers will implement the Policy in their area. 
+(b) All managers will implement the Policy in their area. 
 
-(c) The Policy will be available at the SATAC website at http://www.satac.edu.au/. 
+(c) The Policy will be available at the SATAC website at http://www.satac.edu.au/. 
 
-(d) Any student who has reason to believe that their personal information has been collected, used or disclosed in a manner not consistent with the Policy should address their concerns in writing to the Director, SATAC, immediately. 
+(d) Any student who has reason to believe that their personal information has been collected, used or disclosed in a manner not consistent with the Policy should address their concerns in writing to the Director, SATAC, immediately. 
 
-(e) Any staff member who is found to have collected, used or disclosed personal information in a manner not consistent with the Policy will be subject to disciplinary procedure.  
+​(e) Any staff member who is found to have collected, used or disclosed personal information in a manner not consistent with the Policy will be subject to disciplinary procedure.  
+
+##  Copyright
+
+© South Australian Tertiary Admissions Centre (SATAC) 2013 (ABN 55 682 725 032). Unless expressly stated otherwise, SATAC claims copyright ownership of all material on this website. You may download, display, print and reproduce this material in unaltered form (attaching a copy of this notice) for your personal, non-commercial use. SATAC reserves the right to revoke such permission at any time. Apart from this permission and uses permitted under the Copyright Act 1968, all other rights are reserved. Requests for further authorisations, including authorisations to use material on this website for commercial purposes, should be directed to SATAC.
+
+##  Disclaimer
+
+In the preparation of these web pages on behalf of its indenture members, every effort has been made by SATAC to offer the most current, correct and clearly expressed information possible. Nevertheless, the information on this website is provided without express or implied warranty as to its accuracy or currency.
+
+  * All access to, and use of, the information is at the user’s risk.
+  * SATAC accepts no responsibility for the results of any actions taken on the basis of information on this website, nor for the accuracy or completeness of any material contained herein.
+  * SATAC expressly disclaims all and any liability and responsibility to any person in respect of the consequences of anything done or omitted to be done by such person in reliance, whether wholly or partially, upon this website.
+  * SATAC reserves the right to alter, amend, vary or otherwise change any information on this website at any time and without notice to you.
+  * ​The provision of any URL or link is done for the convenience of users of this site. It does not constitute an endorsement by SATAC of that URL or link or the information at that website.
+
+
+
+Back to top
