@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acbl.org privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503134648id_/http%3A//www.acbl.org/join/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acbl.org privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204032437id_/http%3A//www.acbl.org/join/privacyPolicy.html) for the most accurate reproduction.*
 
 # ACBL - ACBL Privacy Policy
 
-## Last updated: September 2012
+## Last updated: June 2013
 
 The American Contract Bridge League (“ACBL”) is committed to respecting both your online and non-online privacy. Please read the following policy to understand how your personal information provided by you and collected by us will be treated. This policy may change from time to time so please check back periodically. This policy will let you know the following:
 
@@ -68,7 +68,7 @@ back to top
 
 ## 6\. How do I access, update or delete my information?
 
-Members may change their addresses and other contact information when they access My ACBL and click on "Update My Information." They may also request the individual information that the ACBL has collected about them, correct factual inaccuracies in their information, remove personal information from the ACBL’s databases and/or update their personal information by calling the ACBL Customer Service Department at 662-253-3137 or e-mail at [service@acbl.org](mailto:service@acbl.org). Please allow up to four weeks for your selection to be fully implemented. Non-members' rights are as set forth in the "opt-out" section immediately below.
+Members may change their addresses and other contact information when they access My ACBL and click on "Update My Information." They may also request the individual information that the ACBL has collected about them, correct factual inaccuracies in their information, remove personal information from the ACBL’s databases and/or update their personal information by calling the ACBL Customer Service Department at 662-253-3131 or e-mail at [service@acbl.org](mailto:service@acbl.org). Please allow up to four weeks for your selection to be fully implemented. Non-members' rights are as set forth in the "opt-out" section immediately below.
 
 back to top
 
@@ -94,7 +94,7 @@ Members may also “opt out” of having their information shared by the ACBL in
 
 
 
-To select one or both “opt outs,” e-mail [service@acbl.org](mailto:service@acbl.org) or contact the ACBL Customer Service Department at 662-253-3137. Please allow up to four weeks for your selection to be fully implemented.
+To select one or both “opt outs,” e-mail [service@acbl.org](mailto:service@acbl.org) or contact the ACBL Customer Service Department at 662-253-3131. Please allow up to four weeks for your selection to be fully implemented.
 
 back to top
 
@@ -112,7 +112,7 @@ back to top
 
 ## 10\. How do we communicate with children?
 
-Although we wish to communicate with all of our members, we do not contact children under age 13 about special offers, upcoming events or for marketing purposes without a parent’s permission. At the time of enrollment, new members are asked to give a date of birth to receive the youth membership rate. This information is used for checking this policy. Parents can provide permission by calling the ACBL Customer Service Department at 662-253-3137 or by sending an email to [service@acbl.org](mailto:service@acbl.org). Once permission is granted, the other conditions of privacy and opt-out are available.
+Although we wish to communicate with all of our members, we do not contact children under age 13 about special offers, upcoming events or for marketing purposes without a parent’s permission. At the time of enrollment, new members are asked to give a date of birth to receive the youth membership rate. This information is used for checking this policy. Parents can provide permission by calling the ACBL Customer Service Department at 662-253-3131 or by sending an email to [service@acbl.org](mailto:service@acbl.org). Once permission is granted, the other conditions of privacy and opt-out are available.
 
 back to top
 
