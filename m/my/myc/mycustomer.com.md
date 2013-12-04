@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycustomer.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423155002id_/http%3A//www.mycustomer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycustomer.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204182611id_/http%3A//www.mycustomer.com/privacy) for the most accurate reproduction.*
 
 # MyCustomer.com Privacy Policy
 
