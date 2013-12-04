@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myadmarket.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605225536id_/http%3A//www.myadmarket.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadmarket.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204125037id_/http%3A//www.myadmarket.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyAdMarket - White Label Contextual Display & XML Ad Serving System for Advertisers, Agencies, Publishers and Networks. | MyAdMarket
 
