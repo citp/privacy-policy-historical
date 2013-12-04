@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsuk.net privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604224912id_/http%3A//www.carsuk.net/privacy-policy-for-cars-uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsuk.net privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204083133id_/http%3A//www.carsuk.net/privacy-policy-for-cars-uk) for the most accurate reproduction.*
 
 # Privacy Policy for Cars UK | Cars UK
 
@@ -19,3 +19,5 @@ Google, as a third party vendor, uses cookies to serve ads on our site.
 Google’s use of the DART cookie enables it to serve ads to our users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+### **SHARE THIS**
