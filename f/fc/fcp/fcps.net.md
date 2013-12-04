@@ -1,10 +1,17 @@
-> *The following text is extracted and transformed from the fcps.net privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505143826id_/http%3A//fcps.net/about-fcps/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcps.net privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204163911id_/http%3A//www.fcps.net/about-fcps/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 ##  Fayette County Public Schools 
 
-This is the website of **Fayette County Public Schools**. Our postal address:
+This is the website of **Fayette County Public Schools,** Lexington Kentucky.
+
+Our postal address:
+
+**1126 Russell Cave Road  
+Lexington KY 40505**
+
+Our physical address:
 
 **701 E. Main St.  
 Lexington KY 40502**
@@ -13,11 +20,11 @@ We can be reached via email at [info@fayette.kyschools.us](mailto:info@fayette.k
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or email address.
 
-We collect aggregate information on what pages consumers access or visit, information volunteered by the visitor, such as survey information and/or site registrations. 
+We collect aggregate information on what pages consumers access or visit, information volunteered by the visitor, such as survey information and/or site registrations.
 
 The information we collect is used to improve the content of our website, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our website and applicable laws, or to protect against misuse or unauthorized use of our website.
 
-With respect to cookies, we may use them to store visitors' preferences only. 
+With respect to cookies, we may use them to store visitors' preferences only.
 
 If you do not want to receive email from FCPS in the future, please let us know by email, phone call or written note (see contact information above).
 
@@ -31,8 +38,8 @@ If you feel that this website is not following its stated information policy, yo
 
 ## About this page
 
-  * For questions: **[Pete Koutoulas](https://web.archive.org/administration/staff-directory/k/koutoulas-pete)**
+  * For questions: **[Pete Koutoulas](http://www.fcps.net/administration/staff-directory/k/koutoulas-pete)**
   * To report a broken link or other website issues: [Tammy Lane](https://web.archive.org/administration/staff-directory/l/lane-tammy)
-  * Updated: **June 13, 2012**
+  * Updated: **November 9, 2013**
 
 
