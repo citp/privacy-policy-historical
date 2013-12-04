@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local03.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517005112id_/http%3A//www.local03.com/en-us/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local03.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204012113id_/http%3A//www.local03.com/en-us/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Local03 > Privacy Policy
 
@@ -17,13 +17,7 @@ We may also survey you to understand more about your preferences concerning the 
 \- We collect it automatically when you use the Site and/or use the Service;  
 \- We obtain it from other sources, such as credit card agencies.
 
-5\. You may unsubscribe from newsletter at any time by clicking here.  
-Our contact details:  
-OMNITelecom Ltd.  
-22 Toval St. Ramat Gan 52511, Israel  
-Tel: 1-877-5622503
-
-Contact E-Mail:
+5\. may unsubscribe from newsletter at any time by sending a contact E-Mail:
 
 service@local03.com  
 whatsnew@local03.com 
