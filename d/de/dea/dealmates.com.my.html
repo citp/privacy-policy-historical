@@ -1,14 +1,28 @@
-<!--The following is the downloaded HTML source of the dealmates.com.my privacy policy that was archived on 2013-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627225510id_/https%3A//dealmates.com.my/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealmates.com.my privacy policy that was archived on 2013-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204174947id_/http%3A//www.dealmates.com.my/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 <title>Privacy Policy</title>
-<link href="/Images/favicon.ico" type="image/x-icon" rel="icon">
-<link rel="stylesheet" type="text/css" href="/content/base.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=162802183749925"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=162802183749925"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/acv=616370821/cloudflare.min.js"></script><script type="text/javascript">
+//<![CDATA[
+window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-19639245-2","ga_bs":"2"}};
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) { var CloudFlare=[{verbose:0,p:1385972779,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/acv=4125811108/"},atok:"16e4fa9c5194549d2ba67a556a57f863",petok:"3efb51a34b3b8c08cd4d5a704884cb76-1386179385-1800",zone:"dealmates.com.my",rocket:"0",apps:{"ga_key":{"ua":"UA-19639245-2","ga_bs":"2"}}}];var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.async=!0;a.src="//ajax.cloudflare.com/cdn-cgi/nexp/acv=616370821/cloudflare.min.js";b.parentNode.insertBefore(a,b);}}catch(e){};
+//]]>
+</script>
+<link type="image/x-icon" rel="icon" href="/images/favicon.ico">
+<link type="text/css" rel="stylesheet" href="/content/base.css?20131111-3">
+<link type="text/css" rel="stylesheet" href="/content/fonts.css">
+<link type="text/css" rel="stylesheet" href="/content/scrollup/css/scrollup.css">
+<script src="http://l.tbcdn.cn/apps/top/x/sdk.js?appkey=21030524"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.validate/1.7/jquery.validate.min.js"></script>
-<script type="text/javascript" src="/Scripts/jquery.color.js"></script>
-<script type="text/javascript" src="/Scripts/dm.js"></script>
+<script type="text/javascript" src="/scripts/jquery.color.js"></script>
+<script type="text/javascript" src="/scripts/dm.js"></script>
+<script type="text/javascript" src="/scripts/jquery.scrollUp.min.js"></script>
 <script type="text/javascript">
       $(document).ready(function () {
 
@@ -55,17 +69,21 @@
          }
       });
 
-      
-        $('.categoryDeals .latest-deal').live("mouseenter", function () {
-            $(this).find('.content').stop().animate({ backgroundColor: 'rgba(0, 76, 144, 0.9)' }, 500);
-        })
-        .live("mouseleave", function () {
-            $(this).find('.content').stop().animate({ backgroundColor: 'rgba(0, 0, 0, 0.75)' }, 500);
+        $('#headerWrapper').delegate('li', 'hover', function() {
+            $(this).parent().parent().find('li').removeClass('active');
+            $(this).addClass('active');
         });
+
+//        $('.categoryDeals .latest-deal').live("mouseenter", function () {
+//            $(this).find('.content').stop().animate({ backgroundColor: 'rgba(0, 76, 144, 0.9)' }, 500);
+//        })
+//        .live("mouseleave", function () {
+//            $(this).find('.content').stop().animate({ backgroundColor: 'rgba(0, 0, 0, 0.75)' }, 500);
+//        });
 
                   
 
-                  var sticky_navigation_offset_top = $('#header_toStick').offset().top;
+                  var sticky_navigation_offset_top = $('#headerWrapper').offset().top;
 
                   // our function that decides weather the navigation bar should have "fixed" css position or not.
                   var sticky_navigation = function () {
@@ -74,9 +92,9 @@
                      // if we've scrolled more than the navigation, change its position to fixed to stick to top,
                      // otherwise change it back to relative
                      if (scroll_top > sticky_navigation_offset_top) {
-                           $('#header_toStick').css({ 'position': 'fixed', 'top': 0, 'left': 0 });
+                           $('#headerWrapper').css({ 'position': 'fixed', 'top': 0, 'left': 0 });
                      } else {
-                           $('#header_toStick').css({ 'position': 'relative' });
+                           $('#headerWrapper').css({ 'position': 'relative' });
                      }
                   };
 
@@ -89,69 +107,484 @@
                   });
 
                   
-
+         $.scrollUp({ scrollText: "" });
       });
 
 
-   </script>
-<style>#header_table .header_luxurydeals{background:url(/images/asset/header_luxurydeals_off.png) no-repeat center;}#header_table .header_luxurydeals:hover,#header_table .header_luxurydeals:active{background:url(/images/asset/header_luxurydeals_on.png) no-repeat center;}#header_table .header_logo{display:table-cell;width:281px;height:79px;background:url(/images/asset/header_logo_off.jpg) no-repeat;}#header_table .header_logo:hover,#header_table .header_logo:active{background:url(/images/asset/header_logo_on.jpg) no-repeat;}</style>
+    </script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-19639245-2']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
 </head>
 <body>
-<div id="headerWrapper" style="background:white;width:100%;margin:0 auto;background:#000000;">
-<div id="header">
-<div id="header_nav">
+<div id="headerWrapper" style="width: 100%; background-color: #EEEEEE">
+<div style="background: white; width: 100%; margin: 0 auto; background: #000000;
+        height: 95px;">
+<div id="header" style="background: #000000;">
+<div id="header_nav" style="background: #000000;">
 <ul class="hnav_ul">
-<li class="hnav_li" style="margin-right:-2px;"><a href="/users/login" class="header_signin"><span class="header_label">SIGN IN</span></a></li>
-<li class="hnav_li" style="margin-right:-1px;"><a href="/users/register" class="header_register"><span class="header_label">REGISTER</span></a></li>
+<li class="hnav_li" style="margin-right: -2px;"><a href="/users/login" class="header_signin">
+<span class="header_label">SIGN IN</span></a></li>
+<li class="hnav_li" style="margin-right: -1px;"><a href="/users/register" class="header_register">
+<span class="header_label">REGISTER</span></a></li>
 <li class="hnav_li"><a href="/cart" class="header_cart"><span class="header_label">0</span></a></li>
 </ul>
 <div id="ddLogin" class="ddMenubar">
-<div class="row"><a href="https://www.facebook.com/dialog/oauth?client_id=162802183749925&amp;redirect_uri=http%3a%2f%2fwww.dealmates.com.my%2ffblogin%2freg-t1&amp;scope=email,user_birthday,offline_access,publish_stream" style="width:230px;"><span class="header_fb_login"></span></a></div>
-<div style="background:url('/images/asset/dd_or_divider.jpg') no-repeat;width:240px;height:15px;margin:7px 0 7px 0;"></div>
-<div id="login-msg" class="hide"></div>
+<div class="row">
+<a href="https://www.facebook.com/dialog/oauth?client_id=162802183749925&amp;redirect_uri=http%3a%2f%2fwww.dealmates.com.my%2ffblogin%2freg-t1&amp;scope=email,user_birthday,offline_access,publish_stream" style="width:230px;">
+<span class="header_fb_login"></span></a>
+</div>
+<div style="background: url('/images/asset/dd_or_divider.jpg') no-repeat; width: 240px;
+                            height: 15px; margin: 7px 0 7px 0;">
+</div>
+<div id="login-msg" class="hide">
+</div>
 <form id="login-form" action="/" method="post">
-<div class="field"><input type="text" id="user-email-menubar" name="user-email-menubar" placeholder="Email Address"></div>
-<div class="field"><input type="password" id="user-passwd-menubar" name="user-passwd-menubar" placeholder="Password"></div>
-<div class="field" style="margin-left:-4px;"><input type="checkbox" id="remember-me-menubar" name="remember-me-menubar" checked="checked" style="vertical-align:middle;"><label for="remember-me-menubar" style="font-size:12px;vertical-align:middle">Remember me on this computer</label></div>
-<div style="text-align:center"><a href="/users/forgotpassword" style="font-size:11px;color:#99C5C4;">Forgot Your Password?</a> | <a href="/users/register" style="font-size:11px;color:#99C5C4;">REGISTER</a></div>
-<div class="row" style="height:35px;text-align:right;"><button value="Login" type="button" id="login-menubar"></button></div>
+<div class="field">
+<input type="text" id="user-email-menubar" name="user-email-menubar" placeholder="Email Address"></div>
+<div class="field">
+<input type="password" id="user-passwd-menubar" name="user-passwd-menubar" placeholder="Password"></div>
+<div class="field" style="margin-left: -4px;">
+<input type="checkbox" id="remember-me-menubar" name="remember-me-menubar" checked="checked" style="vertical-align: middle;"><label for="remember-me-menubar" style="font-size: 12px;
+                                    vertical-align: middle">Remember me on this computer</label></div>
+<div style="text-align: center">
+<a href="/users/forgotpassword" style="font-size: 11px; color: #99C5C4;">Forgot Your
+Password?</a> | <a href="/users/register" style="font-size: 11px; color: #99C5C4;">REGISTER</a></div>
+<div class="row" style="height: 35px; text-align: right;">
+<button value="Login" type="button" id="login-menubar">
+</button>
+</div>
 </form>
 </div>
 <div id="ddSignUp" class="ddMenubar">
-<div class="container" style="text-align:center;">
+<div class="container" style="text-align: center;">
 <div class="row">
 <a href="https://www.facebook.com/dialog/oauth?client_id=162802183749925&amp;redirect_uri=http%3a%2f%2fwww.dealmates.com.my%2ffblogin%2freg-t2&amp;scope=email,user_birthday,offline_access,publish_stream" style="width:206px;">
-<span class="header_fb_login"></span>
-</a>
-<div style="font-size:11px;color:white;font-family:Arial;padding:6px 0 0 0;">*we don't post anything without your permission.</div>
+<span class="header_fb_login"></span></a>
+<div style="font-size: 11px; color: white; font-family: Arial; padding: 6px 0 0 0;">
+*we don't post anything without your permission.</div>
 </div>
-<div><iframe src="//www.facebook.com/plugins/facepile.php?appId=162802183749925&amp;size=small&amp;max_rows=1&amp;width=206&amp;colorscheme=dark&amp;" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:206px;height: 57px;" allowtransparency="true"></iframe></div>
-<div style="background:url('/images/asset/dd_or_divider.jpg') no-repeat;width:240px;height:15px;margin:7px 0 7px 0;"></div>
-<div class="customSignUp"><a href="/users/register" id="register-menubar"><span style="font-size:11px;color:#99C5C4;font-family:Arial;">Create an account with your email address</span></a></div>
+<div>
+<iframe src="//www.facebook.com/plugins/facepile.php?appId=162802183749925&amp;size=small&amp;max_rows=1&amp;width=206&amp;colorscheme=dark&amp;" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:206px;height: 57px;" allowtransparency="true">
+</iframe>
+</div>
+<div style="background: url('/images/asset/dd_or_divider.jpg') no-repeat; width: 240px;
+                                height: 15px; margin: 7px 0 7px 0;">
+</div>
+<div class="customSignUp">
+<a href="/users/register" id="register-menubar"><span style="font-size: 11px; color: #99C5C4;
+                                    font-family: Arial;">Create an account with your email address</span></a></div>
 </div>
 </div>
 </div>
 </div>
-<div id="header_toStick">
-<table id="header_table" border="0" cellpadding="0" cellspacing="0">
+<div id="header_toStick" style="background: #000000; width: 990px; margin: 0px auto;">
+<table id="header_table" border="0" cellpadding="0" cellspacing="0" style="background: #000000;">
 <tbody><tr>
-<td><a href="/" class="header_logo"></a></td>
-<td><a href="/kuala-lumpur/deals/all" class="header_alldeals"><span class="header_label">All Deals</span></a></td>
-<td><a href="/kuala-lumpur/deals/luxury" class="header_luxurydeals"><span class="header_label">Luxury</span></a></td>
-<td><a href="/kuala-lumpur/deals/fashion" class="header_fashiondeals"><span class="header_label">Fashion</span></a></td>
-<td><a href="/kuala-lumpur/deals/stuff" class="header_stuffdeals"><span class="header_label">Stuff</span></a></td>
-<td><a href="/kuala-lumpur/deals/beauty" class="header_beautydeals"><span class="header_label">Beauty</span></a></td>
-<td><a href="/kuala-lumpur/deals/living" class="header_livingdeals"><span class="header_label">Home &amp; Living</span></a></td>
-<td style="padding-left:3px;"><a href="/kuala-lumpur/deals/auto" class="header_autodeals"><span class="header_label">Auto</span></a></td>
-<td><a href="/kuala-lumpur/deals/healthcare" class="header_healthdeals"><span class="header_label">Health Care</span></a></td>
-<td><a href="/kuala-lumpur/deals/fitness" class="header_fitnessdeals"><span class="header_label">Fitness</span></a></td>
-<td><a href="/kuala-lumpur/deals/xpress" class="header_xpressdeals"><span class="header_label">Xpress</span></a></td>
-<td><a href="/kuala-lumpur/deals/lastcall" class="header_lastdeals"><span class="header_label">Last Call</span></a></td>
-<td><div style="position:relative"><div class="header_newcat"></div><a href="http://www.gomummy.my/?utm_source=dealmates&amp;utm_medium=mumsandkidsmenu&amp;utm_campaign=organicredirect" class="header_gomummy" target="_blank"><span class="header_label"><span style="color:#23A394">go</span><span style="color:#59D3C5">Mummy.my</span></span></a></div></td>
+<td>
+<a href="/" class="header_logo"></a>
+</td>
+<td>
+<div style="float: right;">
+<form action="/mall/search" id="search_form" method="get"> <input type="text" id="top_search" name="q" placeholder="Search" class="search">
+<button id="btnSearch" class="searchBtn" type="submit">
+<img src="/images/asset/search.png" alt="" style="width: 20px;">
+</button>
+</form> </div>
+</td>
 </tr>
 </tbody></table>
 </div>
 </div>
+<div id="header_mall_wrapper" style="background: #4D4D4D; display: table; width: 990px;
+        margin: -20px auto 0; position: relative; z-index: 200">
+<div id="header_mall">
+<div class="navbar">
+<ul class="nav">
+<li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/all"><span>ALL</span></a></li>
+<li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/women"><span>WOMEN</span></a>
+<div class="fulldrop ">
+<div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
+<h3>
+Today's Flash Sales</h3>
+<ul>
+<li><a href="/deals/december-chic-korean-long-wallet-for-women-rm60">Chic Korean Long Wallet (5 colors)</a> </li>
+<li><a href="/deals/december-b-cavalli-womens-wallets-rm206">B. Cavalli Women's Wallets (15 Designs)</a> </li>
+<li><a href="/deals/december-authentic-gorgeous-prada-handbag-tote-satchel-rm1793">Authentic &amp; Gorgeous Prada Bags (13 Designs)</a> </li>
+<li><a href="/deals/november-black-sequined-handbag-rm65">Black Sequined Handbag</a> </li>
+<li><a href="/deals/november-18k-rose-gold-plated-double-heart-necklace-rm40">Xpress Deal: 18K Rose Gold Plated Double-Heart Pendant Necklace</a> </li>
+<li><a href="/deals/november-2-in-1-knitted-jacket-chiffon-tshirt-rm49">2-in-1 Knitted Jacket and Chiffon T-Shirt (3 colours)</a> </li>
+<li><a href="/kuala-lumpur/deals/women" style="color: #900;font-weight:bold;">
+View More</a></li>
+</ul>
+</div>
+<div>
+<div class="column" style="width: 80px;">
+<h3>
+Categories</h3>
+<ul>
+<li><a href="/mall/department/women-accessories">Accessories</a> </li>
+<li><a href="/mall/department/women-clothing">Clothing</a> </li>
+<li><a href="/mall/department/women-handbags">Handbags</a> </li>
+<li><a href="/mall/department/women-jewelry-watches">Jewelry &amp; Watches</a> </li>
+<li><a href="/mall/department/women-shoes">Shoes</a> </li>
+</ul>
+</div>
+<div class="column">
+<h3>
+Hot Deals</h3>
+<ul>
+<li><a href="/deals/december-b-cavalli-womens-wallets-rm206">B. Cavalli Women's Wallets (15 Designs)</a> </li>
+<li><a href="/deals/december-authentic-gorgeous-prada-handbag-tote-satchel-rm1793">Authentic &amp; Gorgeous Prada Bags (13 Designs)</a> </li>
+<li><a href="/deals/december-comfy-long-hooded-pullover-rm59">Comfy Long Hooded Pullover (3 colours)</a> </li>
+<li><a href="/deals/november-18k-rose-gold-plated-double-heart-necklace-rm40">Xpress Deal: 18K Rose Gold Plated Double-Heart Pendant Necklace</a> </li>
+<li><a href="/deals/november-2-in-1-knitted-jacket-chiffon-tshirt-rm49">2-in-1 Knitted Jacket and Chiffon T-Shirt (3 colours)</a> </li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/men"><span>MEN</span></a>
+<div class="fulldrop ">
+<div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
+<h3>
+Today's Flash Sales</h3>
+<ul>
+<li><a href="/deals/december-pasnew-dual-display-watch-men-rm78">Pasnew LED Dual Display Watch for Men (10 Designs)</a> </li>
+<li><a href="/deals/december-dual-tone-v-neck-t-shirt-men-rm54">Dual Tone V-neck T-shirt for Men (5 Colours)</a> </li>
+<li><a href="/deals/november-cyber-led-dashboard-watch-rm54">Cyber LED Dashboard Watch (4 Colours)</a> </li>
+<li><a href="/deals/massive-watch-sale-4236">Massive Swiss Watch Sale</a> </li>
+<li><a href="/deals/november-michael-kors-watches-men-rm576">Authentic Michael Kors Watches for Men (16 Designs)</a> </li>
+<li><a href="/kuala-lumpur/deals/men" style="color: #900;font-weight:bold;">
+View More</a></li>
+</ul>
+</div>
+<div>
+<div class="column" style="width: 80px;">
+<h3>
+Categories</h3>
+<ul>
+<li><a href="/mall/department/men-accessories">Accessories</a> </li>
+<li><a href="/mall/department/men-clothing">Clothing</a> </li>
+<li><a href="/mall/department/men-shoes">Shoes</a> </li>
+</ul>
+</div>
+<div class="column">
+<h3>
+Hot Deals</h3>
+<ul>
+<li><a href="/deals/december-g-shock-baby-g-watches-rm269">Xpress Deal: G-Shock &amp; Baby-G Watches (21 Items)</a> </li>
+<li><a href="/deals/december-dual-tone-v-neck-t-shirt-men-rm54">Dual Tone V-neck T-shirt for Men (5 Colours)</a> </li>
+<li><a href="/deals/november-cyber-led-dashboard-watch-rm54">Cyber LED Dashboard Watch (4 Colours)</a> </li>
+<li><a href="/deals/massive-watch-sale-4236">Massive Swiss Watch Sale</a> </li>
+<li><a href="/deals/november-michael-kors-watches-men-rm576">Authentic Michael Kors Watches for Men (16 Designs)</a> </li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/babies-kids"><span>BABIES &amp; KIDS</span></a>
+<div class="fulldrop ">
+<div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
+<h3>
+Today's Flash Sales</h3>
+<ul>
+<li><a href="/deals/december-eco-friendly-solar-powered-toys-rm45">Eco-Friendly Solar Powered Toys (2 items)</a> </li>
+<li><a href="/deals/december-kids-kitchen-set-rm65">Kids Kitchen Set</a> </li>
+<li><a href="/deals/november-adorable-baby-rompers-rm40">Adorable Baby Rompers</a> </li>
+<li><a href="/deals/november-two-pairs-memory-foam-insoles-rm36">2 Pairs: Memory Foam Insoles</a> </li>
+<li><a href="/deals/november-fun-literacy-game-for-kids-rm65">A Fun Literacy Game for Kids</a> </li>
+<li><a href="/kuala-lumpur/deals/babies-kids" style="color: #900;font-weight:bold;">
+View More</a></li>
+</ul>
+</div>
+<div>
+<div class="column" style="width: 80px;">
+<h3>
+Categories</h3>
+<ul>
+<li><a href="/mall/department/babies-kids-accessories">Accessories</a> </li>
+<li><a href="/mall/department/babies-kids-clothing">Clothing</a> </li>
+<li><a href="/mall/department/babies-kids-maternity">Maternity</a> </li>
+<li><a href="/mall/department/babies-kids-shoes">Shoes</a> </li>
+<li><a href="/mall/department/babies-kids-toys-games-books">Toys, Games, &amp; Books</a> </li>
+</ul>
+</div>
+<div class="column">
+<h3>
+Hot Deals</h3>
+<ul>
+<li><a href="/deals/december-eco-friendly-solar-powered-toys-rm45">Eco-Friendly Solar Powered Toys (2 items)</a> </li>
+<li><a href="/deals/november-adorable-baby-rompers-rm40">Adorable Baby Rompers</a> </li>
+<li><a href="/deals/november-two-pairs-memory-foam-insoles-rm36">2 Pairs: Memory Foam Insoles</a> </li>
+<li><a href="/deals/november-fun-literacy-game-for-kids-rm65">A Fun Literacy Game for Kids</a> </li>
+<li><a href="/deals/november-b-daman-toys-rm70">Xpress Deal: Marble Blasting B-Daman Toys (2 Items)</a> </li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/beauty"><span>BEAUTY</span></a>
+<div class="fulldrop ">
+<div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
+<h3>
+Today's Flash Sales</h3>
+<ul>
+<li><a href="/deals/december-estee-lauder-skincare-products-rm187">Authentic Estee Lauder Skincare Products (3 Items)</a> </li>
+<li><a href="/deals/december-clarins-beauty-care-products-rm160">Clarins Beauty Care Products (4 Items)</a> </li>
+<li><a href="/deals/december-clinique-clarifying-lotion-2-dark-circle-eye-corrector-skincare-rm76">Clinique Clarifying Lotion &amp; Dark Circle Corrector (2 items)</a> </li>
+<li><a href="/deals/november-airy-curl-styler-hair-tool-rm45">2 Airy Curl Stylers</a> </li>
+<li><a href="/deals/november-emjoi-tweeze-epilator-rm33">Emjoi Tweeze Epilator</a> </li>
+<li><a href="/kuala-lumpur/deals/beauty" style="color: #900;font-weight:bold;">
+View More</a></li>
+</ul>
+</div>
+<div>
+<div class="column" style="width: 80px;">
+<h3>
+Categories</h3>
+<ul>
+<li><a href="/mall/department/beauty-accessories">Beauty Accessories</a> </li>
+<li><a href="/mall/department/beauty-cosmetics">Cosmetics</a> </li>
+<li><a href="/mall/department/beauty-fragrances">Fragrances</a> </li>
+<li><a href="/mall/department/beauty-body">Nails, Hair &amp; Body</a> </li>
+<li><a href="/mall/department/beauty-skin-care">Skin Care</a> </li>
+</ul>
+</div>
+<div class="column">
+<h3>
+Hot Deals</h3>
+<ul>
+<li><a href="/deals/december-estee-lauder-skincare-products-rm187">Authentic Estee Lauder Skincare Products (3 Items)</a> </li>
+<li><a href="/deals/december-clarins-beauty-care-products-rm160">Clarins Beauty Care Products (4 Items)</a> </li>
+<li><a href="/deals/december-clinique-clarifying-lotion-2-dark-circle-eye-corrector-skincare-rm76">Clinique Clarifying Lotion &amp; Dark Circle Corrector (2 items)</a> </li>
+<li><a href="/deals/december-healing-necklace-rm45">Healing Necklace (5 colours)</a> </li>
+<li><a href="/deals/november-airy-curl-styler-hair-tool-rm45">2 Airy Curl Stylers</a> </li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/home"><span>HOME</span></a>
+<div class="fulldrop ">
+<div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
+<h3>
+Today's Flash Sales</h3>
+<ul>
+<li><a href="/deals/december-100-piece-cake-decorating-kit-by-betty-crocker-rm25">100-Piece Cake Decorating Kit by Betty Crocker </a> </li>
+<li><a href="/deals/december-10-slot-watch-display-case-rm85">10-Slot Watch Display Case</a> </li>
+<li><a href="/deals/december-philips-sonicare-compatible-toothbrush-heads-rm53">3 packs of Philips Sonicare Compatible Toothbrush Heads</a> </li>
+<li><a href="/deals/december-7-litre-halogen-oven-rm139">7 Litre Halogen Oven</a> </li>
+<li><a href="/deals/november-10-in-1-handy-steam-mop-rm288">Xpress Deal: 10-in-1 Handy Steam Mop</a> </li>
+<li><a href="/deals/november-2-sets-diy-bear-cookies-mould-rm45">2 Sets: DIY Bear Cookies Mould</a> </li>
+<li><a href="/deals/november-2-3-electric-toothbrush-replacement-brushes-rm60">Xpress Deal: 2 or 3 Electric Toothbrush Sets with Replacement Brushes</a> </li>
+<li><a href="/deals/november-castle-automatic-sensor-rubbish-bin-rm118">Xpress Deal: Castle Brand Automatic Sensor Rubbish Bin</a> </li>
+<li><a href="/kuala-lumpur/deals/home" style="color: #900;font-weight:bold;">
+View More</a></li>
+</ul>
+</div>
+<div>
+<div class="column" style="width: 80px;">
+<h3>
+Categories</h3>
+<ul>
+<li><a href="/mall/department/home-bathroom">Bathroom</a> </li>
+<li><a href="/mall/department/home-bedroom">Bedroom</a> </li>
+<li><a href="/mall/department/home-decor">Decor</a> </li>
+<li><a href="/mall/department/home-essentials">Essentials &amp; Gadgets</a> </li>
+<li><a href="/mall/department/home-garden">Garden</a> </li>
+<li><a href="/mall/department/home-kitchen-dining">Kitchen and Dining</a> </li>
+<li><a href="/mall/department/home-living-room">Living Room</a> </li>
+<li><a href="/mall/department/home-pets">Pets</a> </li>
+<li><a href="/mall/department/home-storage">Storage</a> </li>
+</ul>
+</div>
+<div class="column">
+<h3>
+Hot Deals</h3>
+<ul>
+<li><a href="/deals/december-100-piece-cake-decorating-kit-by-betty-crocker-rm25">100-Piece Cake Decorating Kit by Betty Crocker </a> </li>
+<li><a href="/deals/december-10-slot-watch-display-case-rm85">10-Slot Watch Display Case</a> </li>
+<li><a href="/deals/december-philips-sonicare-compatible-toothbrush-heads-rm53">3 packs of Philips Sonicare Compatible Toothbrush Heads</a> </li>
+<li><a href="/deals/november-royal-hotel-1000-thread-count-egyptian-cotton-bedsheets-rm158">Royal Hotel 1000 Thread Count Egyptian Cotton Bedsheets (9 colours)</a> </li>
+<li><a href="/deals/november-10-in-1-handy-steam-mop-rm288">Xpress Deal: 10-in-1 Handy Steam Mop</a> </li>
+<li><a href="/deals/november-2-sets-diy-bear-cookies-mould-rm45">2 Sets: DIY Bear Cookies Mould</a> </li>
+<li><a href="/deals/november-2-3-electric-toothbrush-replacement-brushes-rm60">Xpress Deal: 2 or 3 Electric Toothbrush Sets with Replacement Brushes</a> </li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/tech-gadgets"><span>GADGETS</span></a>
+<div class="fulldrop ">
+<div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
+<h3>
+Today's Flash Sales</h3>
+<ul>
+<li><a href="/deals/december-golden-data-transmit-charging-cables-iphone-ipad-ipod-rm38">2 Golden Data Transmit &amp; Charging Cables for iPhone/iPad/iPod</a> </li>
+<li><a href="/deals/december-smartphone-cover-iphone-samsung-rm54">Innovative Smartphone Cover for iPhone/Samsung (15 Designs)</a> </li>
+<li><a href="/deals/november-home-movie-theatre-led-projector-rm346">Home Movie Theatre LED Projector</a> </li>
+<li><a href="/deals/november-universal-bluetooth-headset-rm49">BT-300 Earbud-style Mono V2.1 Universal Bluetooth Headset</a> </li>
+<li><a href="/deals/november-diamond-shadow-wallet-case-ipad-mini-rm59">Diamond Shadow Wallet Case for iPad Mini (4 colours)</a> </li>
+<li><a href="/kuala-lumpur/deals/tech-gadgets" style="color: #900;font-weight:bold;">
+View More</a></li>
+</ul>
+</div>
+<div>
+<div class="column" style="width: 80px;">
+<h3>
+Categories</h3>
+<ul>
+<li><a href="/mall/department/tech-gadgets-audio-visual">Audio Visual</a> </li>
+<li><a href="/mall/department/tech-gadgets-cameras">Cameras</a> </li>
+<li><a href="/mall/department/tech-gadgets-computers-tablets">Computers &amp; Tablets</a> </li>
+<li><a href="/mall/department/tech-gadgets-mobile-phones">Mobile Phones</a> </li>
+<li><a href="/mall/department/tech-gadgets-speakers-headphones">Speakers &amp; Headphones</a> </li>
+</ul>
+</div>
+<div class="column">
+<h3>
+Hot Deals</h3>
+<ul>
+<li><a href="/deals/december-golden-data-transmit-charging-cables-iphone-ipad-ipod-rm38">2 Golden Data Transmit &amp; Charging Cables for iPhone/iPad/iPod</a> </li>
+<li><a href="/deals/december-smartphone-cover-iphone-samsung-rm54">Innovative Smartphone Cover for iPhone/Samsung (15 Designs)</a> </li>
+<li><a href="/deals/november-home-movie-theatre-led-projector-rm346">Home Movie Theatre LED Projector</a> </li>
+<li><a href="/deals/november-universal-bluetooth-headset-rm49">BT-300 Earbud-style Mono V2.1 Universal Bluetooth Headset</a> </li>
+<li><a href="/deals/november-diamond-shadow-wallet-case-ipad-mini-rm59">Diamond Shadow Wallet Case for iPad Mini (4 colours)</a> </li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/lifestyle"><span>LIFESTYLE</span></a>
+<div class="fulldrop last">
+<div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
+<h3>
+Today's Flash Sales</h3>
+<ul>
+<li><a href="/deals/december-undergarment-travel-pouches-rm50">2 Undergarment Travel Pouches (4 Colors)</a> </li>
+<li><a href="/deals/december-multipurpose-travel-pouch-rm43">Xpress Deal: 2 units of Multipurpose Travel Pouch</a> </li>
+<li><a href="/deals/december-16-piece-watch-repair-kit-rm50">16-Piece Watch Repair Kit </a> </li>
+<li><a href="/deals/november-magic-bb-rm99">Magic BB Workout </a> </li>
+<li><a href="/deals/november-aeroline-waterproof-backpack-rm123">65L Aeroline Waterproof Backpack (4 Colors)</a> </li>
+<li><a href="/deals/november-roll-n-go-travel-buddy-cosmetics-bag-rm43">Roll N Go Travel Buddy Cosmetics Bag</a> </li>
+<li><a href="/kuala-lumpur/deals/lifestyle" style="color: #900;font-weight:bold;">
+View More</a></li>
+</ul>
+</div>
+<div>
+<div class="column" style="width: 80px;">
+<h3>
+Categories</h3>
+<ul>
+<li><a href="/mall/department/lifestyle-auto">Auto</a> </li>
+<li><a href="/mall/department/lifestyle-costumes">Costumes</a> </li>
+<li><a href="/mall/department/lifestyle-fun">Fun</a> </li>
+<li><a href="/mall/department/lifestyle-gifts">Gifts</a> </li>
+<li><a href="/mall/department/lifestyle-outdoor">Outdoor</a> </li>
+<li><a href="/mall/department/lifestyle-sports">Sports</a> </li>
+<li><a href="/mall/department/lifestyle-stationery">Stationery</a> </li>
+<li><a href="/mall/department/lifestyle-travel">Travel</a> </li>
+</ul>
+</div>
+<div class="column">
+<h3>
+Hot Deals</h3>
+<ul>
+<li><a href="/deals/december-undergarment-travel-pouches-rm50">2 Undergarment Travel Pouches (4 Colors)</a> </li>
+<li><a href="/deals/december-16-piece-watch-repair-kit-rm50">16-Piece Watch Repair Kit </a> </li>
+<li><a href="/deals/november-magic-bb-rm99">Magic BB Workout </a> </li>
+<li><a href="/deals/november-aeroline-waterproof-backpack-rm123">65L Aeroline Waterproof Backpack (4 Colors)</a> </li>
+<li><a href="/deals/november-ab-rocket-abdominal-exerciser-flex-master-rm125">Xpress Deal: Ab Rocket Abdominal Exerciser with Flex Master</a> </li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/treats"><span>TRAVEL &amp; TREATS</span></a>
+<div class="fulldrop last">
+<div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
+<h3>
+Today's Flash Sales</h3>
+<ul>
+<li><a href="/deals/december-microdermabrasion-facial-treatment-nardia-products-rm38">Microdermabrasion Facial Treatment with Nardia Products</a> </li>
+<li><a href="/deals/december-skin-rejuvenation-treatment-medishape-rm30">2 sessions of Facial Skin Rejuvenation Treatment at Medishape</a> </li>
+<li><a href="/kuala-lumpur/deals/treats" style="color: #900;font-weight:bold;">
+View More</a></li>
+</ul>
+</div>
+<div>
+<div class="column">
+<h3>
+Hot Deals</h3>
+<ul>
+<li><a href="/deals/december-microdermabrasion-facial-treatment-nardia-products-rm38">Microdermabrasion Facial Treatment with Nardia Products</a> </li>
+<li><a href="/deals/december-skin-rejuvenation-treatment-medishape-rm30">2 sessions of Facial Skin Rejuvenation Treatment at Medishape</a> </li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+<li class="dropdown"><a class="aTop" href="/kuala-lumpur/deals/xpress"><span>XPRESS</span></a>
+<div class="fulldrop last">
+<div class="column" style="background-color: #FFFFFF; box-shadow: 5px -46px 15px 0 rgba(0, 0, 0, 0.07)">
+<h3>
+Today's Flash Sales</h3>
+<ul>
+<li><a href="/deals/november-10-in-1-handy-steam-mop-rm288">Xpress Deal: 10-in-1 Handy Steam Mop</a> </li>
+<li><a href="/deals/november-18k-rose-gold-plated-double-heart-necklace-rm40">Xpress Deal: 18K Rose Gold Plated Double-Heart Pendant Necklace</a> </li>
+<li><a href="/deals/november-2-3-electric-toothbrush-replacement-brushes-rm60">Xpress Deal: 2 or 3 Electric Toothbrush Sets with Replacement Brushes</a> </li>
+<li><a href="/deals/december-multipurpose-travel-pouch-rm43">Xpress Deal: 2 units of Multipurpose Travel Pouch</a> </li>
+<li><a href="/deals/november-castle-automatic-sensor-rubbish-bin-rm118">Xpress Deal: Castle Brand Automatic Sensor Rubbish Bin</a> </li>
+<li><a href="/kuala-lumpur/deals/xpress" style="color: #900; font-weight: bold;">View
+More</a></li>
+</ul>
+</div>
+<div>
+<div class="column">
+<h3>
+Hot Deals</h3>
+<ul>
+<li><a href="/deals/november-10-in-1-handy-steam-mop-rm288">Xpress Deal: 10-in-1 Handy Steam Mop</a> </li>
+<li><a href="/deals/november-18k-rose-gold-plated-double-heart-necklace-rm40">Xpress Deal: 18K Rose Gold Plated Double-Heart Pendant Necklace</a> </li>
+<li><a href="/deals/november-2-3-electric-toothbrush-replacement-brushes-rm60">Xpress Deal: 2 or 3 Electric Toothbrush Sets with Replacement Brushes</a> </li>
+<li><a href="/deals/december-g-shock-baby-g-watches-rm269">Xpress Deal: G-Shock &amp; Baby-G Watches (21 Items)</a> </li>
+<li><a href="/deals/november-b-daman-toys-rm70">Xpress Deal: Marble Blasting B-Daman Toys (2 Items)</a> </li>
+</ul>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        $("#btnSearch").keypress(function (e) {
+            // Enter pressed?
+            if (e.which == 10 || e.which == 13) {
+                $("#search_form").submit();
+            }
+        });
+        $("#btnSearch").keypress(function (e) {
+            $("#search_form").submit();
+        });
+    });
+</script>
 <div id="body">
 <div class="center">
 <div class="content-body">
@@ -186,71 +619,105 @@
 </div>
 </div>
 </div>
-<div id="footer">
-<div id="contact">
-<div class="left right_border">
-<p>&nbsp;</p>
-<div class="dm_care"></div>
-<p>&nbsp;</p>
-<p>Do you have a question or problem that you need our help with? We're here for you!</p>
-<p>&nbsp;</p>
-<p>
-<b>Monday to Friday: 9:30am - 5pm</b>
-<br><a href="#" onclick="script: Zenbox.show(); return false;">Live Chat</a>, Phone, Email, FB &amp; Twitter
-</p>
-<p>&nbsp;</p>
-<p>Except Weekend &amp; Public Holiday</p>
+<div class="footer_body">
+<div class="footer_wrap">
+<div class="promise_tab">
+<div class="promise0">
+<a href="http://www.dealmates.com.my/pages/delivery-page"></a>
 </div>
-<div class="left right_border">
-<p>&nbsp;</p>
-<p><img src="/Images/asset/getfeature.png" alt=""></p>
-<p>&nbsp;</p>
-<p>DealMates helps you boost your business, grow your customers and get more sales.</p>
-<p>&nbsp;</p>
-<p>Interested to know more?</p>
-<p>&nbsp;</p>
-<p><a href="/pages/getfeatured" target="_blank">Tell us more about your business.</a></p>
+<div class="promise1">
+<a href="http://www.dealmates.com.my/pages/promise"></a>
 </div>
-<div class="left">
-<p>&nbsp;</p>
-<div class="contact_us"></div>
-<p>&nbsp;</p>
-<p>
-15-2 The Boulevard
-<br>59200 Mid Valley City, Kuala Lumpur
-</p>
-<p>&nbsp;</p>
-<p>
-<a href="#" onclick="script: Zenbox.show(); return false;">Live Chat</a>
+<div class="promise2">
+<a href="http://www.dealmates.com.my/pages/promise"></a>
+</div>
+</div>
+<div class="payment">
+PREFFERED PAYMENT<br>
 <br>
-email&nbsp;&nbsp;&nbsp;support@dealmates.com<script type="text/javascript">
+<img src="/images/asset/payment.png" width="258px" height="90px"></div>
+<div class="secured">
+SAFE &amp; SECURED<br>
+<br>
+<img src="/images/asset/secured.png" width="258px" height="64px"></div>
+<div class="delivery">
+PREFFERED DELIVERY<br>
+<br>
+<img src="/images/asset/pref_delivery.png" width="258px" height="64px"></div>
+<div class="hr_line">
+<hr style="border: 1px dotted #ddd">
+</div>
+<div class="customer_care">
+CUSTOMER CARE
+<div class="customer_care_text">
+Do you have a question or problem that you need our help with? We're here for you!<br>
+<br>
+<img src="/images/asset/time_icon.png" width="14px" height="14px" style="vertical-align: middle">&nbsp;&nbsp;9.30am
+- 5.00pm (Monday to Friday)<br>
+<img src="/images/asset/email_icon.png" width="14px" height="9px" style="vertical-align: middle">&nbsp;&nbsp;support@dealmates.com<script type="text/javascript">
 /* <![CDATA[ */
 (function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
 /* ]]> */
-</script>
-</p>
-<p>&nbsp;</p>
-<p>
-<b>Collection Center</b>
+</script><br>
 <br>
+<b>Headquarters :</b><br>
+15-2 The Boulevard
+<br>
+59200 Mid Valley City, Kuala Lumpur<br>
+<br>
+<b>Collection Center :</b><br>
 32, Jalan Kemuja
-<br>59000 Bangsar, Kuala Lumpur
-<br>Monday to Friday: 9:30am - 6pm
-</p>
+<br>
+59000 Bangsar, Kuala Lumpur
+<br>
+Monday to Friday : 9:30am - 6.00pm<br>
 </div>
 </div>
-<img src="/Images/asset/divider.jpg" style="width:990px;height:3px;" alt="">
-<div class="top">
-<a href="/pages/about">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/contact">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/learn">How Dealmates Works</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/contact">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/getfeatured">Feature Your Business</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/terms">Terms &amp; Policies</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/privacy">Privacy Policy</a><br>
-<a href="/pages/referrals">Referral Program</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/affiliates">Affiliate Program</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pages/api">Developers / API</a>
-<br><br><p style="color:#666">©2013 DealMates Sdn Bhd. All rights reserved.</p>
+<div class="social">
+CONNECT WITH US
+<div class="social_text">
+<img src="/images/asset/facebook_icon.png" width="20px" height="20px" style="vertical-align: middle">&nbsp;&nbsp;<a href="http://www.facebook.com/dealmates" target="_blank" style="vertical-align: middle">Facebook</a><br>
+<br>
+<img src="/images/asset/twitter_icon.png" width="20px" height="20px" style="vertical-align: middle">&nbsp;&nbsp;<a href="http://twitter.com/#!/dealmates" target="_blank" style="vertical-align: middle">Twitter</a>
 </div>
-<div class="bottom"><img src="/images/asset/paymentthrough.jpg" alt=""></div>
+<div class="fb-like" data-href="http://www.facebook.com/dealmates" data-width="100%" data-height="100%" data-colorscheme="light" data-layout="standard" data-action="like" data-show-faces="true" data-send="false">
+</div>
+</div>
+<div class="about_us">
+ABOUT US
+<div class="about_us_text">
+<a href="http://www.dealmates.com.my/pages/about">About</a></div>
+<div class="about_us_text">
+<a href="http://www.dealmates.com.my/pages/contact">Contact Us</a></div>
+<div class="about_us_text">
+<a href="http://www.dealmates.com.my/pages/contact">FAQ</a></div>
+<div class="about_us_text">
+<a href="http://www.dealmates.com.my/pages/getfeatured">Feature Your Business</a></div>
+<div class="about_us_text">
+<a href="http://www.dealmates.com.my/pages/terms">Terms &amp; Policies</a></div>
+<div class="about_us_text">
+<a href="http://www.dealmates.com.my/pages/privacy">Privacy Policy</a></div>
+<div class="about_us_text">
+<a href="http://www.dealmates.com.my/pages/referrals">Referral Program</a></div>
+<div class="about_us_text">
+<a href="http://www.dealmates.com.my/pages/affiliates">Affiliate Program</a></div>
+<div class="about_us_text">
+<a href="http://www.dealmates.com.my/pages/api">Developers/API</a></div>
+</div>
+<div class="referral">
+<a href="http://www.dealmates.com.my/pages/referrals">
+<img src="/images/asset/referral.png" width="200px" height="250px"></a></div>
+<div class="footer">
+<hr style="border: 1px dotted #ddd">
+<hr style="border: 1px dotted #ddd">
+©Copyright 2013 Dealmates Sdn Bhd. All Rights Reserved.</div>
+</div>
 </div>
 </div>
 </div>
  
-<div id="fb-root"></div>
+<div id="fb-root">
+</div>
  
  
 <script type="text/javascript">
@@ -266,37 +733,26 @@ email&nbsp;&nbsp;&nbsp;support@dealmates.com<script type="text/javascript">
       js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=162802183749925";
       fjs.parentNode.insertBefore(js, fjs);
    } (document, 'script', 'facebook-jssdk'));
-</script>
+    </script>
  
  
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19639245-2']);
-  _gaq.push(['_trackPageview']);
-
-  (function () {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+<script type="text/javascript">/* CloudFlare analytics upgrade */
 </script>
  
  
 <script type="text/javascript" src="//asset0.zendesk.com/external/zenbox/v2.5/zenbox.js"></script>
 <style type="text/css" media="screen, projection">@import url(//asset0.zendesk.com/external/zenbox/v2.5/zenbox.css);</style>
 <script type="text/javascript">
-  if (typeof (Zenbox) !== "undefined") {
-    Zenbox.init({
-      dropboxID:   "20076669",
-      url:         "https://dealmates.zendesk.com",
-      tabID:       "Live Chat",
-      tabColor:    "#3CA395",
-      tabPosition: "Right"
-    });
-  }
-</script>
+        if (typeof (Zenbox) !== "undefined") {
+            Zenbox.init({
+                dropboxID: "20092255",
+                url: "https://dealmates.zendesk.com",
+                tabID: "Support",
+                tabColor: "#3CA395",
+                tabPosition: "Right"
+            });
+        }
+    </script>
  
  
  
@@ -307,13 +763,14 @@ var google_conversion_label = "Gfy_CKvK-wMQxc2X2wM";
 var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
 /* ]]> */
-</script>
+    </script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
+    </script>
 <noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/996533957/?value=0&amp;label=Gfy_CKvK-wMQxc2X2wM&amp;guid=ON&amp;script=0"/>
+<div style="display: inline;">
+<img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/996533957/?value=0&amp;label=Gfy_CKvK-wMQxc2X2wM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+
 
 </body></html>
