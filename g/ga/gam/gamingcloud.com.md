@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamingcloud.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531052449id_/http%3A//www.gamingcloud.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingcloud.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204070240id_/http%3A//www.gamingcloud.com/privacy.html) for the most accurate reproduction.*
 
 # Legal notice - GamingCloud
 
