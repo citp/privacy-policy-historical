@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ourbabynamer.com privacy policy that was archived on 2013-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502203219id_/http%3A//www.ourbabynamer.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ourbabynamer.com privacy policy that was archived on 2013-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131204221303id_/http%3A//www.ourbabynamer.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -13,6 +13,7 @@
 
 <meta name="description" content="Our Privacy Policy.Baby names, baby names meanings, baby clothes and baby gifts.">
 <meta name="keywords" content="Privacy Policy">  
+<meta name="viewport" content="width=device-width">
 
 <link rel="stylesheet" type="text/css" href="bnFonts.css">
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
@@ -20,6 +21,7 @@
 <script language="javascript" src="js/utils.js"></script>
 <script language="javascript" src="js/validation.js"></script>
 <script language="javascript" src="js/cookie.js"></script>
+
 
 <script language="JavaScript">
 <!--
@@ -40,7 +42,7 @@ function qsCheckMe()
     }
  
     if (document.qSearch.fldTextFldType.options[selIdx].value == "for name")
-    {
+    {    
         //document.qSearch.action = "search-baby-names.php";
         document.qSearchForName.fldName.value = document.qSearch.fldTextFld.value;
         document.qSearchForName.submit();
@@ -51,8 +53,37 @@ function qsCheckMe()
     
 }  // qsCheckMe
 
+
+function qsCheckMeNarrow()
+{
+    //  ENSURE ONLY ALPHA CHARACTERS WERE ENTERED
+    if ( document.qSearchNarrow.fldTextFld.value.length != 0)
+    {
+        selIdx = document.qSearchNarrow.fldTextFldType.selectedIndex;
+        leChar = (document.qSearchNarrow.fldTextFldType.options[selIdx].value == "meanings") ?
+                 ", " : "";
+        ret = alphaFieldCheck( document.qSearchNarrow.fldTextFld.value, leChar );
+        if (!ret)
+        {
+            document.qSearchNarrow.fldTextFld.focus();
+            return ret;
+        }
+    }
+ 
+    if (document.qSearchNarrow.fldTextFldType.options[selIdx].value == "for name")
+    {
+        document.qSearchForNameNarrow.fldName.value = document.qSearchNarrow.fldTextFld.value;
+        document.qSearchForNameNarrow.submit();
+        return false;
+    }
+       
+    return true;
+    
+}  // qsCheckMeNarrow
+
 -->
 </script>
+
 
 
 
@@ -75,42 +106,81 @@ function qsCheckMe()
 
 
 
-<body bgcolor="B9D3EE" marginheight="5" marginwidth="0" topmargin="5" leftmargin="0" onload="document.qSearch.fldTextFld.focus();" oncopy="alert( 'This copyrighted material may be used for personal use only and may not be distributed further. All rights reserved.  Click on the Terms of Use link for further information.' ); return true;">
+<body marginheight="2" marginwidth="0" topmargin="2" leftmargin="0" onload="document.qSearch.fldTextFld.focus();" oncopy="alert( 'This copyrighted material may be used for personal use only and may not be distributed further. All rights reserved.  Click on the Terms of Use link for further information.' ); return true;">
 
+<div class="toolTips">
 <div id="anyTip" class="tooltip" style="margin-left:407px;">Any</div>
   <div id="anyShadow" class="ttShadow" style="margin-left:411px;">&nbsp;</div>
 <div id="girlTip" class="tooltip" style="margin-left:425px;">Girl</div>
   <div id="girlShadow" class="ttShadow" style="margin-left:429px;">&nbsp;</div>
 <div id="boyTip" class="tooltip" style="margin-left:448px;">Boy</div>
   <div id="boyShadow" class="ttShadow" style="margin-left:452px;">&nbsp;</div>
+</div>
+  
+<table bgcolor="B9D3EE" width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr><td>
 
-<table width="985" border="0" cellpadding="0" cellspacing="0" bgcolor="B9D3EE" align="center">
+<table class="fullScreen" border="0" cellpadding="0" cellspacing="0" bgcolor="B9D3EE" align="center">
 <tbody><tr class="gapVVSm">
-    <td width="6"><img src="images/clear.gif" width="6" height="1" border="0"></td>
-    <td width="970"><img src="images/clear.gif" width="970" height="1" border="0"></td>
-    <td width="9"><img src="images/clear.gif" width="9" height="1" border="0"></td></tr>
-<tr><td xbgcolor="red" background="images/clear.gif">&nbsp;</td>    
+    <td class="fullScreenCol1"><img src="images/clear.gif" class="fullScreenCol1" height="1" border="0"></td>
+    <td class="fullScreenCol2"><img src="images/clear.gif" class="fullScreenCol2" height="1" border="0"></td>
+    <td class="fullScreenCol3"><img src="images/clear.gif" class="fullScreenCol3" height="1" border="0"></td></tr>
+<tr><td class="fullScreenCol1" xbgcolor="red" background="images/clear.gif">&nbsp;</td>    
     <td>
     
-<table width="970" border="0" cellpadding="0" cellspacing="0" bgcolor="antiquewhite" align="center">
+<table class="fullLayout" border="0" cellpadding="0" cellspacing="0" bgcolor="mistyrose" xbgcolor="antiquewhite" align="center">
 <tbody><tr class="gapVVSm" bgcolor="B9D3EE">
-    <td width="322"><img src="images/clear.gif" width="322" height="1" border="0"></td>
-    <td width="2"><img src="images/clear.gif" width="2" height="1" border="0"></td>
-    <td width="626"><img src="images/clear.gif" width="626" height="1" border="0"></td>
-    <td width="8"><img src="images/clear.gif" width="8" height="1" border="0"></td></tr>
+    <td class="fullLayoutCol1"><img src="images/clear.gif" class="fullLayoutCol1" height="1" border="0"></td>
+    <td class="fullLayoutCol2"><img src="images/clear.gif" class="fullLayoutCol2" height="1" border="0"></td>
+    <td class="fullLayoutCol3"><img src="images/clear.gif" class="fullLayoutCol3" height="1" border="0"></td>
+    <td class="fullLayoutCol4"><img src="images/clear.gif" class="fullLayoutCol4" height="1" border="0"></td></tr>
 
 <tr bgcolor="B9D3EE">
     <td colspan="4" class="headerTextBoost" align="center">
      <h1 class="headerTextBoost">Privacy Policy</h1></td></tr>
-<tr class="gap" bgcolor="B9D3EE">
+<tr class="boostBottomGap" bgcolor="B9D3EE">
     <td colspan="4">&nbsp;</td></tr>
 
-<tr><td colspan="4">
+
+<tr class="tabsNarrow"><td colspan="4">
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin:0px;padding:0px;background-color:#B9D3EE;">
+    <tbody><tr>
+        <td class="navSec" id="namesN" style="background-color: rgb(88, 116, 152); border-bottom-color: rgb(88, 116, 152);">
+            <a class="navSec" href="http://www.ourbabynamer.com" title="Baby Names" style="color: white; font-weight: bold;">Names</a></td>
+        <td class="navSecFill" style="background:url('images/tabShadow.gif') no-repeat left top;">&nbsp;</td>
+
+        <td class="navSec" id="ttcN" style="background-color: rgb(244, 191, 171); border-bottom-color: black;">
+            <a class="navSec" href="ttc/getting-pregnant.html" title="Getting Pregnant" style="color: black; font-weight: normal;">TTC</a></td>
+        <td class="navSecFill" style="background:url('images/tabShadow.gif') no-repeat left top;">&nbsp;</td>
+
+        <td class="navSec" id="pregnancyN" style="background-color: rgb(244, 191, 171); border-bottom-color: black;">
+            <a class="navSec" href="pregnancy/pregnancy.html" title="Pregnancy" style="color: black; font-weight: normal;">Pregnancy</a></td>
+        <td class="navSecFill" style="background:url('images/tabShadow.gif') no-repeat left top;">&nbsp;</td>
+
+        <td class="navSec" id="showerN" style="background-color: rgb(244, 191, 171); border-bottom-color: black;">
+            <a class="navSec" href="baby-shower/baby-shower.html" title="Baby Shower" style="color: black; font-weight: normal;">Shower</a></td>
+        <td class="navSecFill" style="background:url('images/tabShadow.gif') no-repeat left top;">&nbsp;</td>
+
+        <td class="navSec" id="parentingN" style="background-color: rgb(244, 191, 171); border-bottom-color: black;">
+            <a class="navSec" href="parenting/parenting.html" title="Parenting" style="color: black; font-weight: normal;">Parenting</a></td>
+        <td class="navSecFill" style="background:url('images/tabShadow.gif') no-repeat left top;">&nbsp;</td>
+
+        <td class="navSec" id="estoreN" style="background-color: rgb(244, 191, 171); border-bottom-color: black;">
+            <a class="navSec" href="shop/estore.html" title="eStore" style="color: black; font-weight: normal;">eStore</a></td>
+        <td class="navSecFill" style="background:url('images/tabShadow.gif') no-repeat left top;">&nbsp;</td>
+
+        <td class="navSec" id="astoreN" style="background-color: rgb(244, 191, 171); border-bottom-color: black;">
+            <a class="navSec" href="shop/astore.html" title="aStore" style="color: black; font-weight: normal;">aStore</a></td>
+        <td class="navSecFill" style="background:url('images/tabShadow.gif') no-repeat left top; border-right:none;" "="">&nbsp;</td></tr>
+    </tbody></table></td></tr>
+
+
+<tr class="tabsFull"><td colspan="4">
     <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin:0px;padding:0px;background-color:#B9D3EE;">
     <tbody><tr xstyle="height:20px;">
         <td class="navSecFill" style="border-left:none;" width="85">&nbsp;</td>
         <td class="navSec" width="108" id="names" style="background-color: rgb(88, 116, 152); border-bottom-color: rgb(88, 116, 152);">
-            <a class="navSec" href="" style="color: white; font-weight: bold;">Baby Names</a></td>
+            <a class="navSec" href="http://www.ourbabynamer.com" style="color: white; font-weight: bold;">Baby Names</a></td>
         <td class="navSecFill" width="10">
 						<img src="images/tabShadow.gif" width="7" height="26"></td>
 
@@ -145,9 +215,10 @@ function qsCheckMe()
 						<img src="images/tabShadow.gif" width="7" height="26"></td></tr>
     </tbody></table></td></tr>
 
-   
-<tr><td colspan="4" bgcolor="587498" class="gapVVSm" style="border-bottom:1px solid #161E27;" align="center">
-      <div></div><a href="banner-calendar.html"><img src="images/banners/AADefault.gif" border="0" width="970" height="79" xheight="119" alt="Our Baby Namer - Baby Names, Name Meanings"></a>
+
+<tr><td class="banner" colspan="4" bgcolor="587498" style="border-bottom:1px solid #161E27;" align="center">
+     <a href="banner-calendar.html">
+     <img src="images/banners/Chanukah8.gif" class="banner" border="0" alt="Our Baby Namer - Baby Names, Name Meanings"></a>
       <!--<IMG SRC="images/bnBannerSmall.gif" BORDER="0" WIDTH="240" HEIGHT="90"
        ALT="Our Baby Namer - Baby Names, Name Meanings">
       <script type="text/javascript"><!--
@@ -163,11 +234,131 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>--></td></tr>
 
 
-<tr><td colspan="4">
+<tr class="navNarrow"><td colspan="4">
     <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin:0px;padding:0px;background-color:#587498;">
-    <tbody><tr style="height:19px;">
+    <tbody><tr>
+        <td class="navT" style="border-left:none;">
+					  <a class="nav" href="http://www.ourbabynamer.com" title="Home">
+					  &nbsp;&nbsp;Home&nbsp;&nbsp;</a></td>
+        <td class="navT"><a class="nav" href="baby-naming-tips.html" title="Naming Tips">
+            &nbsp;&nbsp;Tips&nbsp;&nbsp;</a></td>
+        <td class="navT"><a class="nav" href="popular-baby-names.html" title="Popular Names">
+            &nbsp;&nbsp;Popular&nbsp;&nbsp;</a></td>
+        <td class="navT"><a class="nav" href="baby-names-by-theme.html" title="Theme Names">
+            &nbsp;&nbsp;Theme&nbsp;&nbsp;</a></td>
+        <td class="navT"><a class="nav" href="celebrity-baby-names.html" title="Celebrity Names">
+            &nbsp;&nbsp;Celeb&nbsp;&nbsp;</a></td>
+        <td class="navT">
+            <a class="nav" href="celebrity-kids-baby-names.html" title="Celebrity Kids Names">
+            &nbsp;&nbsp;Celeb K&nbsp;&nbsp;</a></td>
+        <td class="navT"><a class="nav" href="baby-name-legal-faq.html" title="Legal FAQ">
+            &nbsp;&nbsp;Legal&nbsp;&nbsp;</a></td>    
+        <td class="navT"><a class="nav" href="shop/estore.html?defPage=gifts" title="Gifts">
+            &nbsp;&nbsp;Gifts&nbsp;&nbsp;</a></td>
+        <td class="navT"><a class="nav" href="shop/estore.html?defPage=clothes" title="Clothes">
+            &nbsp;&nbsp;Clothes&nbsp;&nbsp;</a></td>
+        <td class="navT" style="border-right:none;">
+            <a class="nav" href="shop/estore.html?defPage=books" title="Books">
+            &nbsp;&nbsp;Books&nbsp;&nbsp;</a></td></tr>
+    </tbody></table>
+    
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin:0px;padding:0px;background-color:#587498;">
+    <tbody><tr>
+        <td class="navT" style="border-left:none;">
+            <a class="nav" href="baby-name-wizard.php" title="Name Wizard">
+            &nbsp;Wizard&nbsp;</a></td>
+        <td class="navT">
+            <a class="nav" href="choose-between-baby-names.php" title="Choose Between Names">
+            &nbsp;Choose&nbsp;</a></td>
+        <td class="navT"><a class="nav" href="name-popularity.html" title="Popularity">
+            &nbsp;Pop&nbsp;</a></td>
+        <td class="navT"><a class="nav" href="baby-name-numerology.html" title="Numerology">
+            &nbsp;Numerology&nbsp;</a></td>
+        <td class="navT"><a class="nav" href="name-in-hieroglyphics.html" title="Hieroglyphics">
+            &nbsp;Hieroglyphics&nbsp;</a></td>
+        <td class="navT"><a class="nav" href="nautical-flags.html" title="Nautical Flags">
+            &nbsp;Nautical&nbsp;</a></td>
+        <td class="navT"><a class="nav" href="baby-horoscopes.html" title="Horoscopes">
+            &nbsp;Horoscopes&nbsp;</a></td>
+        <td class="navT" style="border-right:none;">
+            <a class="nav" href="my-faves.html" title="My Faves">
+            &nbsp;Faves&nbsp;</a></td></tr>
+    </tbody></table>
+
+
+    <form name="qSearchForNameNarrow" method="get" action="search-by-baby-name.php" style="display:none; margin-bottom:0px; margin-top:0px;">
+		<script>formSetup();</script><input type="hidden" name="fldFrom2" value="manFromLaMancha">
+    <div style="display:none;"><input type="text" name="fldFrom" class="gapVVSm" maxlength="1" size="1" value=""></div>            
+		<input type="hidden" name="fldName">
+		</form>
+
+    <form name="qSearchNarrow" method="post" action="search-baby-names.php" style="display:inline; margin-bottom:0px; margin-top:0px;" onsubmit="return qsCheckMeNarrow();">
+		<script>formSetup();</script><input type="hidden" name="fldFrom2" value="manFromLaMancha">
+    <div style="display:none;"><input type="text" name="fldFrom" class="gapVVSm" maxlength="1" size="1" value=""></div>            
+					  <input type="hidden" name="fldGender" value="any">
+					  <input type="hidden" name="fldFirstLetter" value="any">
+					  <input type="hidden" name="fldSyllables" value="any">
+					  <input type="hidden" name="fldOrigin" value="any">
+					  <input type="hidden" name="fldCategory" value="any">
+					  <input type="hidden" name="fldFamous" value="any">
+					  <input type="hidden" name="fldRanking" value="any">
+					  <input type="hidden" name="fldDispIdx" value="0">
+					  <input type="hidden" name="fldLastLetter" value="any">
+					  <input type="hidden" name="fldLetters" value="any">
+					  <input type="hidden" name="fldPageNum" value="1">
+
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin:0px;padding:0px;background-color:#587498;">
+    <tbody><tr>
+        <td class="navQs" style="border-left:none;">
+            <a class="nav" href="search-baby-names.php" title="Advanced Search">
+            Search</a></td>
+        <td class="navQs">
+            <a class="nav" href="girl-names_1.html" title="Girl Names">
+            Girl</a></td>
+        <td class="navQs">
+            <a class="nav" href="boy-names_1.html" title="Boy Names">
+            Boy</a></td>
+        <td class="navQs">
+            <a class="nav" href="2013-popular-names.html" title="2013 Popular">
+            2013</a></td>
+        <td class="navQs">
+            <a class="nav" href="baby-names_1.html" title="By Letter">
+            Letter</a></td>
+        <td class="navQs">
+            <a class="nav" href="search-by-baby-name.php" title="By Name">
+            Name</a></td>
+        <td class="navQs">
+            <a class="nav" href="search-by-list.html#origin" title="By Origin">
+            Origin</a></td>
+        <td class="navQs" style="border-right:none;">
+            <table cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tbody><tr>
+                <td nowrap="">           
+										<select name="fldTextFldType" class="quickSearch">
+												<option value="for name">for name</option>
+												<option value="names">names</option>
+												<option value="meanings">meaning</option>
+												<option value="names beginning">beginning</option>
+												<option value="names ending">ending</option>
+										</select>
+										<input type="text" name="fldTextFld" class="quickSearch" maxlength="16" size="5"></td>
+ 
+								<td nowrap="">
+										<img src="images/clear.gif" width="1" height="1">
+										<input type="submit" name="QGoA" value="Go" class="buttonQs" style="background:gray; width:20px;" onclick="document.qSearchNarrow.fldGender.value='any';">
+										<img src="images/clear.gif" width="1" height="1"></td>
+						</tr></tbody></table></td>
+    </tr>
+
+    </tbody></table></form></td></tr>
+
+    
+
+<tr class="navFull"><td colspan="4">
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin:0px;padding:0px;background-color:#587498;">
+    <tbody><tr>
         <td class="navT" width="58" style="border-left:none;">
-					  <a class="nav" href="">Home</a></td>
+					  <a class="nav" href="http://www.ourbabynamer.com">Home</a></td>
         <td class="navT" width="100"><a class="nav" href="baby-naming-tips.html">Naming Tips</a></td>
         <td class="navT" width="122"><a class="nav" href="popular-baby-names.html">Popular Names</a></td>
         <td class="navT" width="116"><a class="nav" href="baby-names-by-theme.html">Theme Names</a></td>
@@ -183,7 +374,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
     </tbody></table>
 
     <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin:0px;padding:0px;background-color:#587498;">
-    <tbody><tr style="height:19px">
+    <tbody><tr>
         <td class="navT" style="border-left:none;">&nbsp;</td>
         <td class="navT" width="108"><a class="nav" href="baby-name-wizard.php">Name Wizard</a></td>
         <td class="navT" width="170">
@@ -220,17 +411,15 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 					  <input type="hidden" name="fldPageNum" value="1">
 
     <table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin:0px;padding:0px;background-color:#587498;">
-    <tbody><tr style="height:19px">
+    <tbody><tr>
         <td class="navQs" width="120" style="border-left:none;">
             <a class="nav" href="search-baby-names.php">Advanced Search</a></td>
         <td class="navQs" width="78">
             <a class="nav" href="girl-names_1.html">Girl Names</a></td>
         <td class="navQs" width="82">
             <a class="nav" href="boy-names_1.html">Boy Names</a></td>
-        <!--<TD CLASS="navQs" WIDTH="101">
-            <A CLASS="nav" HREF="2010-popular-girl-names_1.html">2010 Popular</A></TD>-->
         <td class="navQs" width="96">
-            <a class="nav" href="2012-popular-names.html">2012 Popular</a></td>
+            <a class="nav" href="2013-popular-names.html">2013 Popular</a></td>
         <td class="navQs" width="71">
             <a class="nav" href="baby-names_1.html">By Letter</a></td>
         <td class="navQs" width="69">
@@ -296,7 +485,9 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 <!--<TR><TD CLASS="gapSm" COLSPAN="4" ALIGN="CENTER"><IMG SRC="images/topLinks.gif"></TD></TR>-->
 <tr><td class="gapSm" colspan="4" align="CENTER">
-&nbsp;<br><!--<IMG SRC="images/topLeftThumbtack.gif" WIDTH="60" HEIGHT="90">--><script type="text/javascript"><!--
+&nbsp;<br>
+
+<script type="text/javascript"><!--
 google_ad_client = "pub-8792605986357485";
 /* OBN 728x90, created 10/28/09 */
 google_ad_slot = "7447732909";
@@ -304,28 +495,33 @@ google_ad_width = 728;
 google_ad_height = 90;
 //-->
 </script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><!--<IMG SRC="images/topRightThumbtack.gif" WIDTH="71" HEIGHT="90">--></td></tr>
-	  <tr><td colspan="4"><img src="images/topShadow.gif" width="970" height="17"></td></tr>
+</script>
+
+</td></tr>
+
+    <tr><td colspan="4" class="topShadow"></td></tr>
 	      
     <tr><td valign="top">
             
 
+<!-- this is included by incPageSideBar.php -->
 
 
 
 
 
 
-        <table background="images/bgBulletinBoard.gif" cellpadding="0" cellspacing="0" border="0">
+        <table class="bb" cellpadding="0" cellspacing="0" border="0">
         <tbody><tr>
-            <td width="11"><img src="images/clear.gif" width="11" height="1" border="0"></td>
-            <td width="310"><img src="images/clear.gif" width="310" height="1" border="0"></td>
-            <td width="11"><img src="images/clear.gif" width="11" height="1" border="0"></td></tr>
+            <td class="sideBarCol1"><img src="images/clear.gif" class="sideBarCol1" border="0"></td>
+            <td class="sideBarCol2"><img src="images/clear.gif" class="sideBarCol2" border="0"></td>
+            <td class="sideBarCol3"><img src="images/clear.gif" class="sideBarCol3" border="0"></td></tr>
 
-
-        <tr><td></td><td><img src="images/sideTopThumbtack.gif" width="300" height="21" xheight="10"></td></tr>
+        <tr><td></td><td><img src="images/sideTopThumbtack.gif" class="sideBarTopTack"></td></tr>
+            
         <tr><td>&nbsp;</td>
             <td>
+            
 <script type="text/javascript"><!--
 google_ad_client = "pub-8792605986357485";
 /* OBN 300x250, created 4/21/11 */
@@ -336,8 +532,10 @@ google_ad_height = 250;
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script></td>
-         <td>&nbsp;</td></tr>
-       <tr><td colspan="3" height="20">&nbsp;</td></tr>        
+
+            <td>&nbsp;</td></tr>
+
+        <tr><td colspan="3" height="20">&nbsp;</td></tr>        
         <tr><td>&nbsp;</td>
   
         <!-- BLUE  BOX BG #93A7E2
@@ -345,26 +543,25 @@ google_ad_height = 250;
              GREY  BOX BG #BABABA
              GREEN BOX BG #93E2CB -->
 
-           <td width="306" valign="top">
-                <table width="306" cellpadding="4" cellspacing="0" border="0" xbgcolor="#93E2CB" background="images/bgSideBarBoxGreenMid.gif">
-                <tbody><tr><td width="306" height="70" background="images/bgSideBarBoxGreen.gif" class="headerTextSideBar" align="center" valign="top">
-                     <!--<IMG SRC="images/clear.gif" HEIGHT="1" WIDTH="40" BORDER="0">-->
-                     <span style="vertical-align:top;">What's New</span></td></tr>
+           <td valign="top">
+                <table class="sideBarBox" border="0" xbgcolor="#93E2CB" style="background-image:url('images/bgSideBarBoxGreenMid.gif')">
+                <tbody><tr><td class="sideBarHeaderText" style="background-image:url('images/bgSideBarBoxGreen.gif');">
+                     What's New</td></tr>
                      
-                <tr><td>&nbsp;&nbsp;&nbsp;* <a href="whats-new-in-baby-names.html#jennifernettles">
+                <tr><td>&nbsp;&nbsp;&nbsp;* <a class="whatsNew" href="whats-new-in-baby-names.html">
+                        OBN New Format</a></td></tr>
+                <tr><td>&nbsp;&nbsp;&nbsp;* <a class="whatsNew" href="whats-new-in-baby-names.html#editor">
+                        2012 Popular Baby Names</a></td></tr>
+                <tr><td>&nbsp;&nbsp;&nbsp;* <a class="whatsNew" href="whats-new-in-baby-names.html#prince">
+                        The Newest Royal</a></td></tr>
+                <tr><td>&nbsp;&nbsp;&nbsp;* <a class="whatsNew" href="whats-new-in-baby-names.html#jennifernettles">
                         Nettles Becomes a New Mom</a></td></tr>
-                <tr><td>&nbsp;&nbsp;&nbsp;* <a href="whats-new-in-baby-names.html#bradybundchen">
+                <tr><td>&nbsp;&nbsp;&nbsp;* <a class="whatsNew" href="whats-new-in-baby-names.html#bradybundchen">
                         Brady and Bundchen Welcome Daughter</a></td></tr>
-                <tr><td>&nbsp;&nbsp;&nbsp;* <a href="whats-new-in-baby-names.html#reesewitherspoon">
-                        Reese Witherspoon Has Son</a></td></tr>
-                <tr><td>&nbsp;&nbsp;&nbsp;* <a href="whats-new-in-baby-names.html#gellarprinze">
-                        Gellar and Prinze Have Second Child</a></td></tr>
-                <tr><td>&nbsp;&nbsp;&nbsp;* <a href="whats-new-in-baby-names.html#editor">
-                        What's New at OBN</a></td></tr>
 
                                         
                 <tr><td>&nbsp;</td></tr>
-                <tr height="31"><td valign="top" align="right" background="images/bgSideBarBoxGreyBot.gif">
+                <tr><td class="sideBarFollowUsBox" valign="top" align="right" style="background-image:url('images/bgSideBarBoxGreyBot.gif');">
 											Follow us on... &nbsp;
 																		<a href="http://www.facebook.com/pages/OurBabyNamer/132891200104534?sk=wall" target="_blank">
 																		<img src="images/facebookRSquare.png" border="0" width="16" height="16" style="vertical-align:top;"></a>&nbsp;
@@ -372,10 +569,12 @@ google_ad_height = 250;
 																		<img src="images/twitterRSquare.png" border="0" width="16" height="16" style="vertical-align:top;"></a>&nbsp;&nbsp;&nbsp;</td></tr>
                 </tbody></table></td>
             <td>&nbsp;</td></tr>
-              
+
+
         <tr><td colspan="3" height="20">&nbsp;</td></tr>        
         <tr><td>&nbsp;</td>
             <td>
+
 <script type="text/javascript"><!--
 google_ad_client = "pub-8792605986357485";
 /* 300x250, created 4/23/11 */
@@ -386,74 +585,64 @@ google_ad_height = 250;
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script></td>
+
          <td>&nbsp;</td></tr>
-              
-        <!-- 07Jun2011-Elizabeth, Orion;	14Jun2011-Olivia, Ethan;	xxJun2011-Jennifer, Stephen 
-             03Jul2011-Nicole, Patrick;  13Jul2011-Peta, Liam; 19Jul2011-Dakota, Jeffrey
-             26Jul2011-Jessica, George; 09Aug2011-Claire, Jackson; 16Aug2011-Karen, Richard  
-             31Aug2011-Sarah, Ryan; 13Sep2011-Grace, Mason; 20Sep2011-Leila, Jackson
-             27Sep2011-Rachel, Paul; 24Oct2011-Baileigh, Gabriel; 15Nov2011?-Louise, Andrew
-             30Jan2012-Brooke, Bradley; 13Feb2012-Lisa, Joseph; 04Mar2012-    -->
-             
-        <!-- BLUE  BOX BG #93A7E2
-             PINK  BOX BG #FFA7E2
-             GREY  BOX BG #BABABA
-             GREEN BOX BG #93E2CB -->
-                 
+
+
         <tr><td colspan="3" height="20">&nbsp;</td></tr>
         <tr><td>&nbsp;</td>
-            <td width="306" valign="top">
-                <table width="306" cellpadding="4" cellspacing="0" border="0" xbgcolor="#FFA7E2" background="images/bgSideBarBoxPinkMid.gif">
-                <tbody><tr><td width="306" height="70" background="images/bgSideBarBoxPink.gif" class="headerTextSideBar" align="center" valign="top">
-                     <img src="images/clear.gif" height="34" width="1" border="0">Names of the Week</td></tr>
+            <td valign="top">
+                <table class="sideBarBox" border="0" xbgcolor="#FFA7E2" style="background-image:url('images/bgSideBarBoxPinkMid.gif');">
+                <tbody><tr><td class="sideBarHeaderText" style="background-image:url('images/bgSideBarBoxPink.gif');">
+                     Names of the Week</td></tr>
                      
-                <tr><td>&nbsp;&nbsp;&nbsp;* <a style="color:mediumvioletred; font-size:20px;" href="meaning-of-Anabella.html">
-																			Anabella</a></td></tr>
-                <tr><td>&nbsp;&nbsp;&nbsp;* <a style="font-size:20px;" href="meaning-of-Emmanuel.html">
-                                       Emmanuel</a></td></tr>
+                <tr><td>&nbsp;&nbsp;&nbsp;* <a style="color:mediumvioletred; font-size:20px;" href="meaning-of-Riya.html">
+																			Riya</a></td></tr>
+                <tr><td>&nbsp;&nbsp;&nbsp;* <a style="font-size:20px;" href="meaning-of-Hudson.html">
+                                       Hudson</a></td></tr>
                                
                 <tr><td>&nbsp;</td></tr>
-                <tr><td class="gapVVSm" background="images/bgSideBarBoxPinkBot.gif">&nbsp;</td></tr>
+                <tr><td class="sideBarBoxBot" style="background-image:url('images/bgSideBarBoxPinkBot.gif'); padding:0px;"></td></tr>
                 </tbody></table></td>
             <td>&nbsp;</td></tr>
+
             
         <tr><td colspan="3" height="20">&nbsp;</td></tr>
         <tr><td>&nbsp;</td>
-            <td width="306" valign="top">
-                <table width="306" cellpadding="4" cellspacing="0" border="0" xbgcolor="#93A7E2" background="images/bgSideBarBoxBlueMid.gif">
-                <tbody><tr><td width="306" height="70" background="images/bgSideBarBoxBlue.gif" class="headerTextSideBar" align="center" valign="top">
-                     <img src="images/clear.gif" height="34" width="1" border="0">
-												Quote of the Week</td></tr>
+            <td valign="top">
+                <table class="sideBarBox" border="0" xbgcolor="#93A7E2" style="background-image:url('images/bgSideBarBoxBlueMid.gif');">
+                <tbody><tr><td class="sideBarHeaderText" style="background-image:url('images/bgSideBarBoxBlue.gif');">
+										 Fact of the Week</td></tr>
                      
                 <tr><td><table align="center" width="95%" border="0">
-                        <tbody><tr><td>"Happiness makes up in height for what it lacks in length."                            &nbsp;&nbsp;<a href="baby-picks-this-week.html">More</a></td></tr>
+                        <tbody><tr><td>The croissant was invented in Austria.                            &nbsp;&nbsp;<a href="baby-picks-this-week.html">More</a></td></tr>
                         </tbody></table></td></tr>
                 <tr><td>&nbsp;</td></tr>
-                <tr><td class="gapVVSm" background="images/bgSideBarBoxBlueBot.gif">&nbsp;</td></tr>
+                <tr><td class="sideBarBoxBot" style="background-image:url('images/bgSideBarBoxBlueBot.gif'); padding:0px;"></td></tr>
                 </tbody></table></td>
             <td>&nbsp;</td></tr>
             
-        <tr><td colspan="3" height="45" background="images/bgBulletinBoardBot.gif">&nbsp;</td></tr>
+        <tr><td colspan="3" class="bbBot"></td></tr>
+     
         </tbody></table>
-
 </td>
         <td>&nbsp;</td>
         <td valign="top">
 
 
 <script>sectionChange( "names" );</script>
+<script>sectionChangeNarrow( "namesN" );</script>
 
 	  	
-			  <table width="100% CELLPADDING=" 0"="" cellspacing="0" bgcolor="antiquewhite" border="0">
-			  <tbody><tr><td width="8"><img src="images/clear.gif" width="8" height="1"></td>
-			      <td background="images/innerPageTop.jpg" height="56">&nbsp;</td></tr>
-			  <tr><td colspan="2" background="images/ribbonPink.gif" height="57" style="padding-bottom:12px;">
-								<img src="images/clear.gif" width="30" height="1">
+			  <table width="100%" cellpadding="0" cellspacing="0" bgcolor="mistyrose" border="0">
+			  <tbody><tr><td class="ribbonLeftColumn"><img src="images/clear.gif" class="ribbonLeftColumn"></td>
+			      <td class="innerPageTopBG">&nbsp;</td></tr>
+			  <tr><td colspan="2" class="ribbonBG" style="background-image:url('images/ribbonPink.gif');">
+								<img src="images/clear.gif" class="ribbonTextIndent" border="0">
                 <h1 class="headerText">Privacy Policy</h1></td></tr>
-			  <tr><td></td>
-			      <td style="padding-left:16px; 
-			       padding-right:16px;" background="images/innerPageMid.jpg">
-								&nbsp;<br>
+			  <tr><td class="ribbonLeftColumn"><img src="images/clear.gif" class="ribbonLeftColumn"></td>
+			      <td class="mainTopLayer">
+								<img src="images/clear.gif" class="underRibbonGap" width="1" border="0">
          
 
 
@@ -528,8 +717,8 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </TD></TR>-->
 
 
-<tr><td></td>
-    <td background="images/innerPageBot.gif" height="45">&nbsp;</td></tr>
+<tr><td class="ribbonLeftColumn"></td>
+    <td class="innerPageBottomBG">&nbsp;</td></tr>
 
 </tbody></table></td></tr>
 
@@ -557,7 +746,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </tbody></table>
     </td>
 
-    <td valign="top" background="images/rightDropShadow.gif">&nbsp;</td></tr>
+    <td valign="top" background="images/rightDropShadow.gif" style="BACKGROUND-REPEAT:no-repeat;">&nbsp;</td></tr>
 		<!--
 		<TD HEIGHT="100%">		
         <TABLE WIDTH="100%" HEIGHT="100%" CELLPADDING="0" CELLSPACING="0" BORDER="0">
@@ -566,9 +755,11 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
         <TR><TD HEIGHT="2000" xBGCOLOR="blue" BACKGROUND="images/rightDropShadowSide.gif">&nbsp;</TD></TR>
         </TABLE>
     </TD></TR>-->
-<tr><td></td>
-    <td colspan="2" class="gapSm" background="images/bottomDropShadow.gif">&nbsp;</td></tr>
+<tr><td class="fullScreenCol1"></td>
+    <td colspan="3" class="gapSm" background="images/bottomDropShadow.gif" style="background-repeat:repeat-y;">&nbsp;</td></tr>
 </tbody></table>
+
+</td></tr></tbody></table>
 
 <!--<DIV ID="box1" STYLE="POSITION: absolute; Z-INDEX: 2; 
   VISIBILITY: visible; TOP: 325px; RIGHT: 9px; WIDTH:363px; HEIGHT:200px;
