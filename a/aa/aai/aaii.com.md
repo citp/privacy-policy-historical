@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaii.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604012928id_/http%3A//www.aaii.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaii.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204195503id_/http%3A//www.aaii.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AAII: The American Association of Individual Investors
 
