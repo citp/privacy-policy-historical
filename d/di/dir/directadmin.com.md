@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directadmin.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628063809id_/http%3A//www.directadmin.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directadmin.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204075106id_/http%3A//www.directadmin.com/privacypolicy.html) for the most accurate reproduction.*
 
 # DirectAdmin Web Control Panel Refund Policy
 
@@ -10,7 +10,7 @@ Visitors to our website (all pages within the directadmin.com domain) enjoy comp
 
 Forum:
 
-The forum (located at [http://www.directadmin.com/forum](http://www.directadmin.com/forum) ) is the only exception to the above statement.  The forum software (vBulletin) uses cookies to track visitor activity.  This allows returning visitors to isolate forum posts that have been created or replied to since their last visit. 
+The forum (located at [http://forum.directadmin.com](http://forum.directadmin.com/) ) is the only exception to the above statement.  The forum software (vBulletin) uses cookies to track visitor activity.  This allows returning visitors to isolate forum posts that have been created or replied to since their last visit. 
 
 Visitors registering on the forum are asked to provide information such as their name and e-mail address, along with other optional information (such as date of birth).  This information is used only for the purposes of forum activity and is not released to 3rd parties nor used for our own marketing purposes.  The only communication received as a result of the forum is when the visitor specifically requests that the forum software notify them of new threads and/or replied-to threads.  The visitor's e-mail address and other information is kept completely private and he/she will not received unsolicited communications of any kind.
 
@@ -38,4 +38,4 @@ Information received as a result of billing (for example, billing address, phone
 
 **Need More Information?**
 
-You can e-mail questions to [sales@directadmin.com](mailto:sales@jbmc-software.com) or talk to a live operator by visiting the [support](http://www.directadmin.com/support.html) page.  Our phone number is and we are available Monday through Friday, 9 AM - 5 PM Mountain Standard Time.  You may also visit the [forum](http://www.directadmin.com/forum/) to see if your question has been answered there.
+You can e-mail questions to [sales@directadmin.com](mailto:sales@jbmc-software.com) or talk to a live operator by visiting the [support](http://www.directadmin.com/support.html) page.  Our phone number is and we are available Monday through Friday, 9 AM - 5 PM Mountain Standard Time.  You may also visit the [forum](http://forum.directadmin.com/) to see if your question has been answered there.
