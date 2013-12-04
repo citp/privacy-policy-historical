@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usopen.org privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521215027id_/http%3A//www.usopen.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usopen.org privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204012545id_/http%3A//www.usopen.org/privacy_policy) for the most accurate reproduction.*
 
 # privacy policy | US OPEN
 
