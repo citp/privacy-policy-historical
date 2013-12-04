@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencebuddies.org privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617161936id_/http%3A//www.sciencebuddies.org/science-fair-projects/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencebuddies.org privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204052549id_/http%3A//www.sciencebuddies.org/science-fair-projects/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Science Buddies: Privacy Policy
 
