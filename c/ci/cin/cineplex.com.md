@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cineplex.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515230946id_/http%3A//www.cineplex.com/Global/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cineplex.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204180621id_/http%3A//www.cineplex.com/Global/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Cineplex Entertainment LP: Guest Privacy Policy (the "Privacy Policy")**
+### Cineplex Entertainment LP: Guest Privacy Policy (the "Privacy Policy")
 
-**Effective Date:** December 23, 2008
+**Effective Date:** December 23, 2008 
 
 At Cineplex Entertainment LP and its subsidiaries, affiliates and/or related entities (" **Cineplex** " or " **our** " or " **we** " or " **us** "), we share your concerns about privacy and the protection of your Personal Information. This **Privacy Policy** describes the steps we have taken and our practices regarding the protection of your personal information. Personal information is information about an identifiable individual. (the " **Personal Information** ").
 
@@ -16,17 +16,19 @@ If you are providing personal information to us through our **Website** , your u
 
 If you have any questions about this Privacy Policy, or about our practices with respect to **Personal Information** , or if you wish us to stop communicating with you, or if you wish us to delete your Personal Information from our database, please notify us:
 
-  * by e-mail at: [privacy@cineplex.com](mailto:privacy@cineplex.com)
-  * by calling us at: 1-877-323-6645
-  * by writing to us at: Cineplex Entertainment LP
+  * by email at [privacy@cineplex.com](mailto:privacy@cineplex.com)
+  * telephone us at 1-877-323-6645
+  * or by mail at:
+
 1303 Yonge Street  
-Toronto, ON., M4T 2Y9  
-Attention: Chief Privacy Officer 
+Toronto, ON  M4T 2Y9 _Attn: Chief Privacy Officer_
 
 
-**Personal Information We Collect**
 
-**Cineplex** and its employees, servants, agents, contractors, service providers, partners and representatives may collect **Personal Information** under certain circumstances, such as: 
+
+### Personal Information We Collect
+
+**Cineplex** and its employees, servants, agents, contractors, service providers, partners and representatives may collect **Personal Information** under certain circumstances, such as:
 
   * **Contact Information** (e.g. name, home address, home telephone number or e-mail address);
   * **Credit or Debit Card Information** (e.g. when purchasing theatre tickets or other products or services);
@@ -38,7 +40,7 @@ Attention: Chief Privacy Officer
 
 
 
-**Use of Your Personal Information**
+### Use of Your Personal Information
 
 We collect and use Personal Information for a number of purposes: 
 
@@ -53,9 +55,9 @@ We collect and use Personal Information for a number of purposes:
 
 
 
-**Disclosure of Personal Information**
+### Disclosure of Personal Information
 
-Personal information collected by **Cineplex** is not disclosed to other parties, except as follows: 
+Personal information collected by **Cineplex** is not disclosed to other parties, except as follows:
 
   * We may share your **Personal Information** with outside parties who sponsor sweepstakes or other promotions, whether on our **Website** or otherwise. However, we will not share your **Personal Information** with these parties except in accordance with this **Privacy Policy**. From time to time, **Cineplex** contracts with third parties, such as other companies, individuals, contractors, and/or other entities, without limitation, to perform functions on our behalf. For instance, we may use such third parties to host message boards, user forums or webpages, to develop software applications and create and maintain databases, or send and receive communications on our behalf. Your Personal Information may be disclosed to such third party companies, individuals, contractors and/or other entities, without limitation, in the course of **Cineplex's** business operations. All **Cineplex** employees, servants, agents, contractors, representatives and/or partners who have access to your Personal Information are required to protect the information in a manner that is consistent with this and any other **Cineplex Privacy Policy** , other policy and/or procedure, in effect from time to time.
   * Your **Personal Information** may be disclosed to our parent, subsidiary, affiliated and/or related corporations or entities, or to their employees, agents, contractors, representatives, servants, legal counsel and/or accountants without limitation, for operational, management and administrative purposes, as well as internal audit, legal, regulatory, security, insurance, financial, processing and other purposes, or as otherwise permitted or required by law. Personal information may also be transferred to certain other entities, whether subsidiary, related or affiliated entitles to **Cineplex** or otherwise, where such entities provide administrative, management, operational, processing, support or other services to us, in which case we take steps to ensure that your **Personal Information** is protected and not used or disclosed for any purpose except: (i) as directed by **Cineplex** ; (ii) as permitted by this **Privacy Policy** ; (iii) for which you are deemed to consent under the terms of this **Privacy Policy** ; and/or (iv) as permitted or required by law.
@@ -68,7 +70,7 @@ Your **Personal Information** may be used by **Cineplex** and disclosed to parti
 
 **Cineplex** may also disclose **Personal Information** as necessary to meet legal, audit, regulatory, insurance, security or other requirements. **Cineplex** does not disclose your **Personal Information** except: (i) as permitted by this **Privacy Policy** ; (ii) for which you are deemed to consent under the terms of this **Privacy Policy** ; and/or (iii) as permitted or required by law.
 
-**"Cineplex.com" and the Internet**
+### "Cineplex.com" and the Internet
 
 The **Website** has a primary worldwide web address (also known as the "uniform resource locator" or "URL") and consists of various webpages, which are owned and/or operated by **Cineplex** and which are collectively known as " **Cineplex.com** ". The **Website** consists of all contents thereon and all other domain names, worldwide web addresses, uniform resource locators, URL’s and webpages which are solely owned and/or operated by **Cineplex** , and which link or otherwise connect to the **Website**. The website "Scene.ca" is not part of the **Website** and the use of "Scene.ca" is not governed by this **Privacy Policy**. On the **Website** , visitors may register to receive customized information, enter contests, participate in polls or surveys or purchase products and/or services. **Cineplex** does not collect Personal Information about you unless you choose to provide us with such information in order to purchase a service or product, or participate in the **Cineplex.com** online community and for which the provision of such **Personal Information** is necessary or reasonable.
 
@@ -80,23 +82,28 @@ We use information which you provide to us on the **Website** to facilitate your
 
 Individuals who provide us with their telephone numbers online will only be telephoned by us with respect to orders, contests or other products or services that they have requested online. If you make inquiries of **Cineplex** directly by e-mail, or through our **Website** , these inquiries are forwarded to the relevant department and are not used for other purposes, or stored (other than maintaining a record of our correspondence with you).
 
-**Unsubscribe / Deletion Requests**
+### Unsubscribe / Deletion Requests
 
-E-Mail  
+E-Mail
+
 Receiving e-mail from us is optional when you register. If you initially choose to receive e-mail from us, but subsequently choose not to receive e-mail from us, please follow the unsubscribe instructions on the **Website** , in our e-mail or contact us as indicated at the beginning of this **Privacy Policy**.
 
-Mail  
+Mail
+
 If you provide us with your mailing address, you may receive periodic mailings from us, or our business partners, with information on new products and services or upcoming events. If you do not wish to receive such mail from us, please change your preferences on the **Website** , or contact us as indicated at the beginning of this **Privacy Policy**.
 
-Online Profile  
+Online Profile
+
 When you register on our **Website** , make purchases, enter contests, respond to surveys, or otherwise participate in our online community, our servers may store your **Personal Information** , contact particulars or other information in order to facilitate site login, the automatic completion of forms and otherwise for your convenience. If you prefer that we not store such information on our servers, you may select the appropriate option on the **Website** (if that option is available) or you may contact us as indicated at the beginning of this **Privacy Policy**.
 
 Registered users of our **Website** may participate fully in our online community, even if they choose not to receive any e-mail or other communication from us; the information provided to us during registration is used to provide you with customized information, and a customized experience, on our **Website**. If you wish your registration profile to be entirely deleted from our servers, you may contact us as indicated at the beginning of this **Privacy Policy**.
 
-Information Storage  
+Information Storage
+
 The nature of the internet is such that it passively and automatically collects certain information about each individual’s use of the internet. This information may be associated with an individual’s Internet Protocol ("IP") address. This is a unique internet "address" which is assigned to all internet users by their Internet Service Provider ("ISP"). Our server logs record statistical information, such as visitors' IP addresses, type of operating systems, time and duration of visit, webpages requested, as well as identifying categories of visitors by items such as domains and browser types. **Cineplex** only uses these statistics on an aggregate basis in order for us to improve our **Website**.
 
-Cookies  
+Cookies
+
 Our **Website** makes use of both "sessional" and "persistent" cookies. Cookies are small text files offered to your computer by Web servers in order to keep track of your browser settings as you navigate the site. Persistent cookies are stored on your hard drive. Sessional cookies are stored in temporary (cache) memory and are deleted when you shut down your browser or turn off your computer. We use cookies to store your preferences, record session information such as language preferences, record user-specific information on what pages you access or visit, develop information about your preferences and interests, alert you to areas that we think might be of interest to you when you return to our site, record past activity in order to provide better service when you return to our site, help rotate banner advertising so as to ensure that visitors are not repeatedly sent the same banner ads, and customize Website content based on your browser type or other information you provide.
 
 For each visit to our **Website** , cookies may be used by our server to recognize you where you have indicated your preference to be automatically logged in.
@@ -107,47 +114,42 @@ To try and bring you offers that are of interest to you, **Cineplex** or its ser
 
 On our **Website** we store subscriber and password information in a secure manner not accessible to Web browsers, behind password protection, or off-line. We endeavor to use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our website.
 
-**Your Consent**
+### Your Consent
 
 Consent to the collection, use and disclosure of **Personal Information** may be given in various ways. Consent may be express (e.g. orally, electronically or on a form you may sign describing the intended uses and disclosures of **Personal Information** ) or implied (e.g. when you provide information necessary for a service you have requested (such as providing us with your name, phone number and/or email for use by our lost and found services), or in some circumstances where notice has been provided to you about our intentions with respect to your Personal Information and you have not withdrawn your consent for an identified purpose, such as by using an "opt-out" option. Consent may be given by your authorized representative (such as a legal guardian, person having a power of attorney or a mandatary). By providing us with **Personal Information** , we will deem you to understand this **Privacy Policy** , and we will deem you to consent to our collection, use and disclosure of such **Personal Information** for the purposes identified or described in this **Privacy Policy** , if applicable, or otherwise at the time of collection. You may withdraw your consent to our collection, use and disclosure of **Personal Information** at any time, subject to contractual and legal restrictions and reasonable notice. Note that if you withdraw your consent to certain uses of your **Personal Information** , we may no longer be able to provide you with certain of our products or services.
 
 **Cineplex** does not disclose your **Personal Information** except: (i) as permitted by this **Privacy Policy** ; (ii) for which you are deemed to consent under the terms of this **Privacy Policy** ; and/or (iii) as permitted or required by law. However, **Cineplex** may be required or permitted under statute, regulation or as otherwise at law or in equity to collect, use or disclose Personal Information without your consent (for example, in response to a court order or subpoena, or to comply with local or federal regulations, or to collect a debt owed to us).
 
-**Security**
+### Security
 
 We protect your **Personal Information** using physical, electronic or procedural security measures appropriate to the sensitivity of the information in our custody or control, including safeguards to protect **Personal Information** against loss or theft, as well as unauthorized access, disclosure, copying, use, or modification. **Cineplex** and its employees, servants, agents, contractors, legal, accounting or other service providers, partners, representatives and mandataries who require access to your **Personal Information** in order to fulfill their job requirements will have access to your Personal Information. You transmit or provide all **Personal Information** entirely at your own risk.
 
-**Consent to Transfer**
+### Consent to Transfer
 
 **Cineplex's Website** is operated on equipment located in Canada. If you are located in the United States of America, European Union or elsewhere outside Canada, please be aware that any information you provide to us will be transferred to Canada. By visiting **Cineplex.com** , purchasing our products or services, participating in our online community and/or providing us with your **Personal Information** , you consent to this transfer. Regardless of your location, we shall protect your **Personal Information** using physical, electronic or procedural security measures appropriate to the sensitivity of the information in our custody or control, including safeguards to protect Personal Information against loss or theft, as well as unauthorized access, disclosure, copying, use, or modification. Please note that the **Personal Information** which you provide to us will be held and used in accordance with such Canadian federal or provincial laws as exist from time to time, and as are applicable.
 
-**Note to Parents/Children's Privacy**
+### Note to Parents/Children's Privacy
 
 Protecting children's privacy is important to us. For that reason, we do not collect information on our website from those children we actually know are under 13 years of age. In addition, no part of our website is targeted to attract anyone under 13 years of age. We request that children under 13 years of age do not disclose or provide any **Personal Information**. If we discover such information, we will delete the child's **Personal Information** from our records. If for any reason we believe a user may be under the age of 13 we reserve the right to request proof of age of such user. If such proof is not provided, or if it is discovered a user is under the age of 13 all **Personal Information** of that user shall be deleted from our servers and associated systems and we reserve the right to limit and/or ban such user from our Website. Notwithstanding the foregoing, **Cineplex** may from time to time conduct, sponsor, co-sponsor or participate in contests and/or promotions which may be open to entrants of all ages, including children under the age of 13. During such contests and/or promotions **Cineplex** makes special efforts to encourage children to consult with their parents before providing Personal Information and in each case parental consent must be obtained in order for any such entry or participation to be valid. **Cineplex** also believes that parents should supervise their children's online activities and consider using parental control tools, available from online services and software manufacturers, to help provide a child-friendly online environment. These tools may also prevent children from disclosing online their name, address, and other **Personal Information** without parental permission. For additional information about parental control tools, please visit [http://www.icra.org/_en/parents.](http://www.icra.org/_en/parents)
 
-**Policy Changes**
+### Policy Changes
 
-This **Privacy Policy** may be revised from time to time as **Cineplex** deems necessary or advisable in its sole discretion. If we materially change our privacy practices, we shall notify you of such changes on our **Website** ; if necessary, we shall also update our **Privacy Policy** as it appears on our **Website**. If our information practices change such that your privacy may be materially affected, we shall notify you of such changes on our **Website** ; if necessary, we shall also update our **Privacy Policy** as it appears on our **Website**. You will continue to have the ability to opt out of new non-essential uses or disclosures. If you are concerned with how your **Personal Information** is used, we encourage you to bookmark this site and to periodically review our **Privacy Policy** , or contact us as described below to obtain a current copy of our **Privacy Policy**. This **Privacy Policy** was last updated on **May 9, 2008**. 
+This **Privacy Policy** may be revised from time to time as **Cineplex** deems necessary or advisable in its sole discretion. If we materially change our privacy practices, we shall notify you of such changes on our **Website** ; if necessary, we shall also update our **Privacy Policy** as it appears on our **Website**. If our information practices change such that your privacy may be materially affected, we shall notify you of such changes on our **Website** ; if necessary, we shall also update our **Privacy Policy** as it appears on our **Website**. You will continue to have the ability to opt out of new non-essential uses or disclosures. If you are concerned with how your **Personal Information** is used, we encourage you to bookmark this site and to periodically review our **Privacy Policy** , or contact us as described below to obtain a current copy of our **Privacy Policy**. This **Privacy Policy** was last updated on **May 9, 2008**.
 
-**Access, Correction and Contacting Us**
+### Access, Correction and Contacting Us
 
-If you have any questions about this **Privacy Policy** , or about our practices with respect to **Personal Information** , or if you wish us to stop communicating with you, or if you wish us to delete your **Personal Information** from our database, please notify us: 
+If you have any questions about this **Privacy Policy** , or about our practices with respect to **Personal Information** , or if you wish us to stop communicating with you, or if you wish us to delete your **Personal Information** from our database, please notify us:
 
-  * _by email at[ privacy@cineplex.com](mailto:privacy@cineplex.com)_
-  * _telephone us at 1-877-323-6645._
-  * _or by mail at:_  
+  * by email at [privacy@cineplex.com](mailto:privacy@cineplex.com)
+  * telephone us at 1-877-323-6645
+  * or by mail at:
 
-
-> _1303 Yonge Street  
->  Toronto, ON  M4T 2Y9
-> 
-> Attn: Chief Privacy Officer
-> 
-> _
+1303 Yonge Street  
+Toronto, ON  M4T 2Y9 _Attn: Chief Privacy Officer_
 
 
 
 
 Please clearly indicate the information that you wish to review or have changed. We will to reply to your request as soon as reasonably possible.
 
-© Cineplex Entertainment LP
+© Cineplex Entertainment LP
