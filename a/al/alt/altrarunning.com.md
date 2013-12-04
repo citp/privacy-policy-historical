@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altrarunning.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625142641id_/http%3A//www.altrazerodrop.com/webapp/wcs/stores/servlet/PrivacyView%3FlangId%3D-1%26storeId%3D15151%26catalogId%3D18952) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altrarunning.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204115720id_/http%3A//www.altrazerodrop.com/webapp/wcs/stores/servlet/PrivacyView%3FlangId%3D-1%26storeId%3D15151%26catalogId%3D18952) for the most accurate reproduction.*
 
 # Privacy Policy | Altra Zero Drop Footwear | Altra Zero Drop Footwear
 
