@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newedge.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602031339id_/http%3A//www.newedge.com/content/newedgecom/en/footer/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newedge.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204123636id_/http%3A//www.newedge.com/content/newedgecom/en/footer/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -26,4 +26,5 @@ In short, NUSA places great importance on holding customer personal and financia
 
 This notice is being issued pursuant to federal statutory and regulatory requirements, and is designed to comply fully with such provisions.
 
-December 2012
+November 2013  
+
