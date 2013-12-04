@@ -1,27 +1,41 @@
-> *The following text is extracted and transformed from the connectandsell.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331015126id_/http%3A//connectandsell.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectandsell.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204113821id_/http%3A//connectandsell.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | ConnectAndSell
+# Privacy Policy - ConnectAndSell - Sales Automation - Automated Calling - Inside Sales Solutions | ConnectAndSell – Sales Automation – Automated Calling – Inside Sales Solutions
 
-**Privacy Policy**
+ConnectAndSell respects the privacy of every individual who visits this web site, located at www.connectandsell.com. This Privacy Policy outlines the information that ConnectAndSell may collect from users of the Site and how we may use that information.
 
-ConnectAndSell, Inc. (“ConnectAndSell”) respects the privacy of each individual and recognizes the need for appropriate protection of any “personally identifying information.” ConnectAndSell has established this Privacy Policy so visitors and users can understand how we intend to treat information. By accessing, using or downloading materials from this Site, you agree to follow and be bound by this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please discontinue use of this Site. ConnectAndSell reserves the right to change the terms of the Privacy Policy at any time and in its sole discretion. In case of any violation of the terms of the Privacy Policy, ConnectAndSell reserves the right to seek all remedies available to it by law and in equity. “Personally identifying information” is information, such as name, address, e-mail address, telephone number and fax number that can be used to identify or contact a specific person.
+Except as otherwise discussed in this Policy, this document only addresses the collection, use, and disclosure of information that we collect from you on this site. It also describes the choices available to you regarding our use of your personal information and how this information can be accessed and updated.  This policy refers to users of the site only, not clients of our service.  Clients of our Software as a Service solution should refer to our End User License Agreement.
 
-Information Collection and Use
+### User Data
 
-ConnectAndSell collects information from visitors on our website. Nevertheless, ConnectAndSell will not sell, share or disclose personally identifying information to others except as provided in this Policy.  
-Personally Identifying Information
+ConnectAndSell collects different types of information from users of the Site. We collect “Personal Information,” which, generally speaking, is information that identifies you individually, such as your name, email, company, telephone number and title. We will only collect Personal Information about you that you provide to us voluntarily. If you do not want your Personal Information collected, please do not submit it to us. When you do provide us with Personal Information, we may store and evaluate that information to better understand your needs and how we can better serve you, and we may use that information to improve our service and to contact you.
 
-ConnectAndSell does not collect personally identifying information unless an individual voluntarily provides it. Personally identifying information may be provided by users on the website in several contexts, including registering for services, contests, offers or other promotional opportunities; answering surveys; purchasing items; providing feedback regarding goods and services; and submitting information for employment opportunities. Personally identifying information voluntarily provided to ConnectAndSell will only be used by ConnectAndSell to perform the service selected by the website user, to conduct market analyses, to contact visitors to the site, and to convey product information and special offers. We will only provide personally identifying information to third parties if (i) they are companies hired by us to provide limited services on our behalf, including packaging, mailing and delivering purchases and other information, answering customer questions, and processing event registration, (ii) if we are required by law or regulation; or (iii) we believe that disclosure is necessary to comply with law or legal process or to protect or defend against fraud or our rights or property. In addition, we may disclose your personally identifiable information in connection with a merger, acquisition, or sale of all or most of the assets of ConnectAndSell to another company.  
-Links to Other Websites
+ConnectAndSell also collects Non-Personal Information from users of the Site. “Non-Personal Information” is information that does not itself identify you personally, such as the type of Internet browser or computer operating system you are using, and the domain name of the website from which you linked to the Site. We may automatically (i.e., not via registration) collect Non-Personal Information when you connect to or use the Site. We may store, compile, publish, promote, report, lease, sell, or otherwise disclose Non-Personal Information to third parties, provided that the information does not personally identify you.
 
-For your convenience, the ConnectAndSell website may contain links to other websites. Please be aware that ConnectAndSell is not responsible for the privacy practices of third-party sites linked to the ConnectAndSell website. ConnectAndSell’ privacy policy applies solely to information collected by this website.  
-Cookies
+### Security
 
-In order to constantly improve the quality of information available on ConnectAndSell’ website, we may use “cookies” to monitor use of this website. Your use of this website constitutes consent to our use of cookies. ConnectAndSell will not disclose to third parties any personal data obtained by the use of cookies.  
-Legal Notices
+ConnectAndSell encrypts all Personal Information collected about you and stores that information in its data center protected by industry standard firewalls. However, please understand that absolute security does not exist on the Internet.
 
-All content included on ConnectAndSell’s website (the “Site”), including text, graphics, logos, button icons, images, video clips, audio clips, and software, is the property of ConnectAndSell or its content suppliers and protected by United States copyright laws, international conventions and laws of other countries. CONNECTANDSELL is a registered trademark of ConnectAndSell in the United States. The ConnectAndSell Logo, THE END OF DIALING, CONVERSATIONS ON DEMAND, SALES IS WAR, and other related trademarks and trade dress on the Site are trademarks of ConnectAndSell and are the sole and exclusive property of ConnectAndSell. All other trademarks not owned by ConnectAndSell that appear on this Site are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by ConnectAndSell. ConnectAndSell’s trademarks and trade dress may not be used in connection with any product or service that is not ConnectAndSell’s, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits ConnectAndSell. ConnectAndSell’s trademarks, copyrights or other intellectual property may not be copied or used, in whole or in part, without the prior written consent of ConnectAndSell. 
+### Company Sale
 
-Changes to ConnectAndSell’ Privacy Policy
+Personal and Non-Personal Information collected through the Site is considered a trade secret of ConnectAndSell. As the owner of such information, we may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of our company or a portion of our assets.
 
-We advise visitors and users to check back periodically to review the most current policy.
+### Third Party Sites
+
+The Site may contain links, including advertisements, to web sites operated by third parties (“Third Party Sites”). Because ConnectAndSell has no control over Third Party Sites, ConnectAndSell does not endorse, has not reviewed, and is not responsible for information collected about you by Third Party Sites. Your use of Third Party Sites is solely at your own risk.
+
+### Acceptance of Terms
+
+By using the Site you accept the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please exit the Site immediately.
+
+### Notification of Changes
+
+ConnectAndSell may change the terms of this Privacy Policy from time to time. Please check this Privacy Policy each time you visit the Site so that you are aware of any changes. Your continued use of the Site following the posting of changes to the terms of this Privacy Policy will constitute acceptance to the amended policy.
+
+### Opt-out Procedures
+
+ConnectAndSell provides users of the Site with an easy way to stop receiving email offers. To remove your Personal Information from our database or to not receive future email communications, simply reply to an email offer or send an email to info@connectandsell.com with the word “Remove” in the subject line.
+
+### Questions
+
+If you have any questions about this Privacy Policy please contact ConnectAndSell’s customer service department at info@connectandsell.com.
