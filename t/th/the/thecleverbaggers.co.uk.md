@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecleverbaggers.co.uk privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604020757id_/http%3A//thecleverbaggers.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecleverbaggers.co.uk privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204035015id_/http%3A//thecleverbaggers.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Clever Baggers
 
@@ -49,7 +49,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@thecleverbaggers.co.uk
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@cleverbaggers.co.uk
 
 
 
@@ -74,7 +74,7 @@ CUSTOMER_AUTH | An indicator if you are currently logged into the store.
 CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
 CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
 EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
+FRONTEND | You session ID on the server.  
 GUEST-VIEW | Allows guests to edit their orders.  
 LAST_CATEGORY | The last category you visited.  
 LAST_PRODUCT | The most recent product you have viewed.  
