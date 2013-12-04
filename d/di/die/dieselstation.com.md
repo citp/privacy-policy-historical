@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dieselstation.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430213207id_/http%3A//www.dieselstation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dieselstation.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204225343id_/http%3A//www.dieselstation.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
