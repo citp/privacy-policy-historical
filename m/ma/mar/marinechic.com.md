@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinechic.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508043642id_/http%3A//www.marinechic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinechic.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204120121id_/http%3A//marinechic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marine Chic
 
@@ -17,4 +17,4 @@ External Links
 This site contains links to other sites. Marine Chic is not responsible for the privacy practices or the content of such Web sites.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.marinechic.com/contact-us/ "contact us").
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
