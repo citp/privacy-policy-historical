@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the reply.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530101522id_/http%3A//www.reply.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reply.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204205715id_/http%3A//www.reply.com/Privacy) for the most accurate reproduction.*
 
 # Reply.com Marketplace | Clicks & Leads
-
-**Reply! Privacy Policy**
 
 Thank you for visiting Reply! Inc.'s ("Reply!") Internet web site ("Site") located at the URL www.reply.com. This Privacy Policy details certain policies implemented throughout Reply! governing Reply!'s use of personally identifiable information about users of our Site and users of services available on this Site (the "Services"). For purposes of this Privacy Policy, the terms "Leads", "Clicks", "Lead Sellers", and "Publishers" are the same as those defined in the [Reply! Lead Buyer Agreement](http://www.reply.com/agreements/leadbuyeragreement.aspx), the [Reply! Lead Seller Agreement](http://www.reply.com/agreements/leadselleragreement.aspx), the Reply! Publisher Agreement, and the [Reply! Click Buyer Agreement](http://www.reply.com/agreements/clickbuyeragreement.aspx). 
 
