@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zonecoders.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606022244id_/http%3A//www.zonecoders.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zonecoders.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204212355id_/http%3A//www.zonecoders.com/read/privacy-policy.html) for the most accurate reproduction.*
 
-# ZoneCoders - Privacy Policy
+# ZoneCoders Marketplace - Privacy Policy
 
-This Privacy Policy governs the manner in which Bravos SCRI, ZoneCoders collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.zonecoders.com](https://web.archive.org/web/20130606022244id_/http%3A/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Bravos SCRI, ZoneCoders.
+This Privacy Policy governs the manner in which ZoneCoders collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.zonecoders.com website ("Site"). This privacy policy applies to the Site and all products and services offered by ZoneCoders.
 
 **Personal identification information**
 
@@ -18,19 +18,18 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-Bravos SCRI, ZoneCoders may collect and use Users personal information for the following purposes:
+ZoneCoders may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+\- To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+\- To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+\- To improve our Site  
+We may use feedback you provide to improve our products and services.  
+\- To send periodic emails  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-
-
+  
 **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
@@ -49,7 +48,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
 **Compliance with children's online privacy protection act**
 
@@ -57,19 +56,17 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Changes to this privacy policy**
 
-Bravos SCRI, ZoneCoders has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+ZoneCoders has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20130606022244id_/http%3A/Terms-Of-Services.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Bravos SCRI, ZoneCoders](https://web.archive.org/web/20130606022244id_/http%3A/)  
-[http://www.zonecoders.com](https://web.archive.org/web/20130606022244id_/http%3A/)  
-Bravos SCRI, Avenue Prudent Bols 29, 1020 Bruxelles  
-0032484590893  
+ZoneCoders  
+http://www.zonecoders.com  
 contact@zonecoders.com
 
-This document was last updated on March 14, 2013
+_This document was last updated on March 14, 2013_
