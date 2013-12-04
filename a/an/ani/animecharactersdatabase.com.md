@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animecharactersdatabase.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603213015id_/http%3A//animecharactersdatabase.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animecharactersdatabase.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204063139id_/http%3A//www.animecharactersdatabase.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Anime Characters Database
 
@@ -8,6 +8,8 @@
   * [pulsepoint - Privacy Policy](http://www.pulsepoint.com/privacy-policy/)
   * [Lijit Networks, Inc. - Privacy Policy](http://www.lijit.com/company/privacy-policy)
   * [JList - Privacy Policy](https://help.jlist.com/index.php?_m=knowledgebase&_a=viewarticle&kbarticleid=36)
+  * [ad4game - Privacy Policy](http://ad4game.com/privacy_policy.php)
+  * [Google Analytics - Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
 
 
 
@@ -18,6 +20,38 @@
 You can disable 3rd Party content server side by using the button below. This will tell our web server to stop including Ad code in web pages. You may also want to remove any cookies set by 3rd party sites as well. 
 
 ## Ad Toggle
+
+## email address
+    
+    
+    We require a valid email address for account registration and verification.
+    We will send you one email at the time of registration.
+    We will not send you emails without your permission.
+     - You can enable PM notifications by email.
+     - You can also enable email notification on the who's this character board.
+     - You can request a password reset be sent to your email.
+    We will not sell your email address.
+    
+
+## passwords
+    
+    
+    Passwords are stored in an encrypted format.
+    Only one administrator has access to changing passwords.
+    
+
+## any additional personal information you choose to provide
+    
+    
+    We operate under the expectation that all information you provide is false, and inaccurate.
+    
+    ACDB is not in the business of profiling or data-mining.
+    Any opportunities to provide personal details will always allow for creative responses.
+    For example, when we ask for your age, you can enter anything from 0 to 9999. 
+     Immortals are totally welcome here!
+    We also provide many joke options when it comes to gender.
+    ACDB believes in the old-skool spirit of anonymity and fun.
+    
 
 ## Update: Fri Aug 24 09:41:22 CDT 2012
     
@@ -30,7 +64,7 @@ You can disable 3rd Party content server side by using the button below. This wi
 ## Update: Sat Jul 14 23:14:17 CDT 2012
     
     
-     We now include Quantcast tracking code, but ONLY on this page ( privacy.php ). 
+    We now include Quantcast tracking code, but ONLY on this page ( privacy.php ). 
     However, our 3rd party ads often will use Quantcast on other parts of the site. 
 
 ##  Update: Sat Mar 31 05:36:16 CDT 2012 
