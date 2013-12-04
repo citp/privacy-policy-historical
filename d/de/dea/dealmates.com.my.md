@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealmates.com.my privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627225510id_/https%3A//dealmates.com.my/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealmates.com.my privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204174947id_/http%3A//www.dealmates.com.my/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
