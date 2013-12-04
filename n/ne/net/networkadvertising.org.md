@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the networkadvertising.org privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520045838id_/http%3A//www.networkadvertising.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkadvertising.org privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204210516id_/http%3A//www.networkadvertising.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NAI: Network Advertising Initiative
 
 ## **NAI Website Privacy Policy**
 
-****Effective July 2012
+****Effective November 20, 2013
 
 The Network Advertising Initiative ("NAI") is an association of online advertising companies committed to complying with responsible business and data management practices.  Protecting the privacy and security of consumers’ information is very important to us. Our website serves the following functions:
 
@@ -45,6 +45,12 @@ We also serve cookies to help us anonymously track web traffic, as described abo
 In addition, NAI member companies serve cookies via this website as part of the opt-out process. To enable a consumer to opt out of OBA by a member company, the member company must set an "opt-out cookie" on the consumer's browser. Please note that if you delete any opt-out cookies obtained using the NAI opt-out page, such as by clearing all cookies in your browser, you will need to return to the opt-out page to renew your choices. However, the NAI offers a [tool](https://web.archive.org/protector-license) that helps to preserve your opt-out cookies and prevent them from being deleted. To learn more about how our opt-out process works, [click here](https://web.archive.org/choices).
 
 You have the ability to manage the use of cookies on your computer using controls in your browser. To learn more about how to manage cookies, visit <http://www.allaboutcookies.org/>.
+
+**Third Party Content, Links, and Plug-ins**
+
+This site contains links to other websites not owned by NAI.  Please be aware that we are not responsible for the privacy practices of those, or any other, sites. If you have questions about how those websites collect and use data, you should carefully read those sites’ privacy policies.
+
+This site may also offer you the ability to interact with social plugins from social media sites, such as Facebook (facebook.com), Linkedin (linkedin.com) and Twitter (twitter.com).  The social media sites may receive data when you visit a website -- such as networkadverising.org -- that has plugins. In some cases, NAI may know that you clicked on a social plugin such as a Facebook Like button, or receive other information from the social media sites. Similarly, if you have previously provided personally identifiable information to a third-party operating a plug-in on this website, then this third-party may recognize you on this website. Your use of social network plugins is subject to each social media site’s privacy policy, which may be different from ours, so please read these policies carefully to understand their policies and your options. As with linked sites, NAI has no control over the information that is collected, stored, or used by social network plugins. 
 
 **Changes to Our Privacy Policy**
 
