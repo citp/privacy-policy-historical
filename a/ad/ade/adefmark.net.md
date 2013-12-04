@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adefmark.net privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417092931id_/http%3A//www.adefmark.net/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adefmark.net privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204163601id_/http%3A//www.adefmark.net/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Bookmarking Sites List
 
