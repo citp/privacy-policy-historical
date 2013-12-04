@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpdailyfix.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527113809id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpdailyfix.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205003659id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy : MarketingProfs
 
@@ -26,11 +26,15 @@ If you decide to become a member, you will receive a short series of orientation
 
 Special offers are sometimes sent to Basic members on behalf of third parties. But these third parties do not have access to personal information since we alone send out the emails. All recipients of third-party emails are given the opportunity to opt-out of future third-party mailings at any time by clicking the link at the bottom of any email or by changing email preference settings on [this page in My Account](https://www.marketingprofs.com/newprem/editaccount/acct_mail.asp).
 
-Our site uses cookies to save your username and password if you become a member and decide to use the "Remember Me" option. This means you don't have to re-enter these items each time you visit our website. You can always logout which will delete this cookie from your computer. 
+MarketingProfs uses cookies for some of the functions on this web site. A cookie is a small text file that is sent to your computer. If you dont want to allow us sending you a cookie you can disable this function in your browser.
+
+Please be aware that some functions on our web site may not function properly if you do not accept cookies.
+
+MarketingProfs is also using third party providers of analytic tool that is using cookies, e.g. Google Analytics for the analysis of user trends and how users are searching our web site.
 
 We may track and store geolocation information related to your IP address. This information may be used to provide you with the most relevant material, as well as allow for more effective communications.
 
-Additionally, we use session variables to aid in the development of various features on the site. These session variables disappear after 20 minutes or when the user exits a browser. Thus, this information is not stored for any reason other than as indicated. 
+Additionally, we use session variables to aid in the development of various features on the site. These session variables disappear after 90 minutes or when the user exits a browser. Thus, this information is not stored for any reason other than as indicated. 
 
 We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our users in general. For example, we may inform third parties about the number of registered users, number of unique visitors, and the pages most frequently browsed.
 
