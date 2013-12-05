@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the injennieskitchen.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605151231id_/http%3A//www.injennieskitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the injennieskitchen.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205090023id_/http%3A//www.injennieskitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - In Jennie's Kitchen
 
@@ -26,6 +26,16 @@ We respond to subpoenas, court orders, or legal process, or to establish or exer
 
 Each newsletter and subscription email has an unsubscribe link at the end of the email. Click on the link and follow the directions for removing your name from electronic delivery of updates and newsletters, for which you signed up for previously.
 
+**Notice Regarding Online Behavioral Advertising**  
+We allow third party companies to serve ads and/or collect certain anonymous information  
+when you visit our Web site.  These companies may use non-personally identifiable information  
+(e.g. click stream information, browser type, time and date, subject of advertisements clicked  
+or scrolled over) during your visits to this and other Web sites in order to provide  
+advertisements about goods and services likely to be of greater interest to you.  These  
+companies typically use a cookie or third party web beacon to collect this information.  To learn  
+more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To  
+opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
+
 **Privacy Policy Changes**
 
-This policy is effective as of April 2012.
+This policy is effective as of April 2012, and was last updated September 2013.
