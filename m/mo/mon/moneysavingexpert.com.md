@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629122146id_/http%3A//www.moneysavingexpert.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205073926id_/http%3A//www.moneysavingexpert.com/site/privacy-policy) for the most accurate reproduction.*
 
 # MoneySavingExpert Privacy Policy...
 
@@ -14,7 +14,7 @@ MoneySavingExpert.com is a registered data controller under the Data Protection 
 
 **1. How to contact us **
 
-If you have any queries about this site or our Privacy Policy, please contact us by writing to MoneySavingExpert.com, Shepherds Building, Charecroft Way, London, W14 0EH.
+If you have any queries about this site or our Privacy Policy, please contact us by writing to MoneySavingExpert.com, 19-22 Rathbone Place, London, W1T 1HY.
 
 **2. The Information we collect and how we use it **
 
@@ -104,6 +104,6 @@ This policy is effective from 31 January 2013 and replaces with immediate effect
 
 **7. General**
 
-If you have any requests or queries concerning your personal information or wish to correct or change any information we have about you, please contact us by writing to MoneySavingExpert.com Limited, Shepherds Building, Charecroft Way, London, W14 0EH.
+If you have any requests or queries concerning your personal information or wish to correct or change any information we have about you, please contact us by writing to MoneySavingExpert.com Limited, 19-22 Rathbone Place, London, W1T 1HY.
 
 Effective as of: 31 January 2013
