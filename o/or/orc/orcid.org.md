@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the orcid.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601211954id_/http%3A//orcid.org/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcid.org privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205025221id_/http%3A//orcid.org/footer/privacy-policy) for the most accurate reproduction.*
 
 # ORCID Privacy Policy | About ORCID
+
+_May 2, 2013_
+
+* * *
 
 • Introduction  
 • Consent  
