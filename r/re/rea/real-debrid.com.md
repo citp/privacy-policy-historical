@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the real-debrid.com privacy policy that was archived on 2012-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120928105632id_/http%3A//www.real-debrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the real-debrid.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205214903id_/http%3A//www.real-debrid.com/privacy) for the most accurate reproduction.*
 
 # Real-Debrid | Quality Unrestricted Downloaders
 
@@ -37,4 +37,4 @@ The advertisements on our website are offered by other companies. They can use i
 
 #### Datalogging
 
-Files links that Users download are stored in a database for legal concerns and our internal use. All links saved are erased within a month for security issues and service needs.
+Files links that Users download are stored in a database for legal concerns and our internal use. All saved links are erased within a month for security issues and service needs.
