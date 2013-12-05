@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the groove3.com privacy policy that was archived on 2013-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604012819id_/http%3A//www.groove3.com/str/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the groove3.com privacy policy that was archived on 2013-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205110654id_/http%3A//www.groove3.com/str/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <title>Privacy statement</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <meta http-equiv="Content-Script-Type" content="text/javascript">
@@ -12,7 +12,6 @@
 
 
 
-  
 
 
   
@@ -65,7 +64,6 @@ _gaq.push(["_trackPageview"]);
                                 
                                 
                                 
-                                
                               
                                 
                                 
@@ -80,8 +78,8 @@ _gaq.push(["_trackPageview"]);
   
   <link rel="canonical" href="http://www.groove3.com/str/pages.php?pageid=23">
   <base href="http://www.groove3.com/str/">
-<link rel="stylesheet" type="text/css" href="http://www.groove3.com/str/var/cache/_033d79d3013cc45df4d93886f1f54a05.css">
-<script type="text/javascript" src="http://www.groove3.com/str/var/cache/_da886d2533a60f9fd35c23c1423d783f.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.groove3.com/str/var/cache/_7bc3eb831e6e1524269a5dd8196c730b.css">
+<script type="text/javascript" src="http://www.groove3.com/str/var/cache/_7ba9a374f843f45823b2496af6b2cbce.js"></script>
 <script src="/str/skin/groove3v2/js/jquery.usermode.js" type="text/javascript"></script>
 <script src="/str/skin/groove3v2/js/ui.checkbox.js" type="text/javascript"></script>
 <script src="/str/skin/groove3v2/js/jquery.selectbox-0.1.3.js" type="text/javascript"></script>
@@ -115,7 +113,7 @@ __fts_params += "title=" + encode64(__fts_title) + "&";
 __fts_params += "url=" + encode64(__fts_url) + "&";
 __fts_params += "referrer=" + encode64(__fts_referrer);
 document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.groove3.com/str/mm_tmon_script.php?" + __fts_params + "\"></sc"+"ript>");
-</script><script type="text/javascript" src="http://www.groove3.com/str/mm_tmon_script.php?width=ODAw&amp;height=NjAw&amp;title=UHJpdmFjeSBzdGF0ZW1lbnQ=&amp;url=aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTMwNjA0MDEyODE5aWRfL2h0dHA6Ly93d3cuZ3Jvb3ZlMy5jb20vc3RyL3BhZ2VzLnBocD9wYWdlaWQ9MjM=&amp;referrer=AA=="></script>
+</script><script type="text/javascript" src="http://www.groove3.com/str/mm_tmon_script.php?width=ODAw&amp;height=NjAw&amp;title=UHJpdmFjeSBzdGF0ZW1lbnQ=&amp;url=aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTMxMjA1MTEwNjU0aWRfL2h0dHA6Ly93d3cuZ3Jvb3ZlMy5jb20vc3RyL3BhZ2VzLnBocD9wYWdlaWQ9MjM=&amp;referrer=AA=="></script>
 
 </head>
 <body id="docstyle">
@@ -147,9 +145,22 @@ function topmenu_redirect(type,pageid) {
 	if(type == 'product')
 		if(!isNaN(pageid))
 			page_link = xcart_web_dir + '/product.php?productid=' + pageid;	
+	
+	if(type == 'author')
+		if(!isNaN(pageid))
+			page_link = xcart_web_dir + '/author_products.php?authorid=' + pageid;	
 		
 	if(page_link != '')
 		window.location = page_link;	
+}
+
+function show_topmenu(menu_id) {
+	if(menu_id == '#video_submenu')
+		$('#user_submenu').hide();
+	else
+		$('#video_submenu').hide();
+			
+	$(menu_id).toggle();
 }
 
 
@@ -265,11 +276,14 @@ $(document).ready(function(){
                                             	<input type="hidden" name="posted_data[including]" value="all">
                                             </form>                			
                 		</li>
-                		<li class="cart-login"><a href="/str/cart.php" onmouseover="ddrivetip('View what you currently have in your shopping cart', '#EFEFEF')" onmouseout="hideddrivetip()"> <img src="/str/skin/groove3v2/images/cart.png" width="25" alt=""></a> </li>
-                		<li class="cart-login"><a href="/str/login.php" onmouseover="ddrivetip('Log into your Groove3.com user account or manage your account settings.', '#EFEFEF')" onmouseout="hideddrivetip()"> <img src="/str/skin/groove3v2/images/login.png" width="25" alt=""></a>
-							
-						</li>
-                		<li class="cart-login"><a href="javascript:void(0);" onclick="javascript: open_vplayer();" onmouseover="ddrivetip('Launch the Groove 3 web player and start learning from some of the best trainers around.', '#EFEFEF')" onmouseout="hideddrivetip()"> <img src="/str/skin/groove3v2/images/watchvideos.png" width="25" alt=""></a>
+						<li style="margin-left:20px;margin-top:0px;">
+							<ul>
+								<li class="cart-login"><a href="javascript: void(0);" onclick="javascript: open_fplayer();" style="border-right:1px solid #fff;padding-right:5px;color:#D6A700;">Play</a></li>
+								<li class="cart-login"><a href="/str/login.php" style="border-right:1px solid #fff;padding-right:5px;color:#D6A700">Login</a>
+														
+								</li>
+								<li class="cart-login"><a href="/str/cart.php" style="margin-left:5px;color:#D6A700;">Cart</a></li>
+							</ul>
 						</li>
 			</ul>		
 		</div>
@@ -296,56 +310,71 @@ $(document).ready(function(){
 	         	         	<option value="16163">Beat Detective Explained</option>
 	         	         	<option value="16383">BFD Eco Jump Start</option>
 	         	         	<option value="16254">BFD Explained</option>
+	         	         	<option value="16517">BFD3 Explained</option>
 	         	         	<option value="16402">Black 76 &amp; White 2A Explained</option>
 	         	         	<option value="16421">Compression Explained</option>
+	         	         	<option value="16490">Creativity Kickstart</option>
 	         	         	<option value="16376">Cubase 6 Advanced</option>
 	         	         	<option value="16375">Cubase 6 Explained</option>
 	         	         	<option value="16435">Cubase 6.5 Update Explained</option>
 	         	         	<option value="16453">Cubase 7 Tips &amp; Tricks - Vol 1</option>
 	         	         	<option value="16463">Cubase 7 Tips &amp; Tricks - Vol 2</option>
+	         	         	<option value="16486">Delay Explained</option>
 	         	         	<option value="16169">Designing Electronic Drums</option>
 	         	         	<option value="16440">Digital Performer 8 Advanced</option>
 	         	         	<option value="16437">Digital Performer 8 Explained</option>
 	         	         	<option value="16230">DJ with Ableton Live - Vol 1</option>
 	         	         	<option value="16263">DJ with Ableton Live - Vol 2</option>
+	         	         	<option value="16497">DRUMLAB Explained</option>
 	         	         	<option value="16411">Drumming Explained</option>
 	         	         	<option value="16451">Ear Training Explained - Intervals</option>
 	         	         	<option value="16461">Ear Training Explained - Triads</option>
+	         	         	<option value="16481">Editing Audio with WaveLab 8</option>
 	         	         	<option value="16208">Effect Plug-Ins Explained</option>
 	         	         	<option value="16447">EQ Explained</option>
 	         	         	<option value="16172">EXS24 In Action</option>
 	         	         	<option value="16449">EZdrummer for PC Explained</option>
 	         	         	<option value="16403">EZkeys Explained</option>
 	         	         	<option value="16432">FG-X Explained</option>
-	         	         	<option value="16474">Finishing a Club Track with Live 9</option>
+	         	         	<option value="16474">Finishing a Club Track in Live 9</option>
 	         	         	<option value="16197">FL Studio Explained</option>
 	         	         	<option value="16171">FL Studio Tips &amp; Tricks</option>
-	         	         	<option value="16234">FlexTime Explained</option>
+	         	         	<option value="16491">Flex Pitch Explained</option>
+	         	         	<option value="16234">Flex Time Explained</option>
 	         	         	<option value="16420">FM8 Explained</option>
 	         	         	<option value="16290">From Drop to Top - Producing Hip Hop</option>
 	         	         	<option value="16466">Garritan Orchestra Explained</option>
 	         	         	<option value="16473">HALion 4 - Getting Started</option>
+	         	         	<option value="16496">HALion 5 - From Scratch to Patch</option>
 	         	         	<option value="16410">Hybrid Explained</option>
 	         	         	<option value="16443">Insight Explained</option>
 	         	         	<option value="16401">Iris Explained</option>
 	         	         	<option value="16431">iZotope RX 2 Explained</option>
-	         	         	<option value="16405">James Lugo's Vocal Asylum</option>
+	         	         	<option value="16514">iZotope RX 3 Explained</option>
+	         	         	<option value="16405">James Lugo Vocal Asylum</option>
 	         	         	<option value="16361">Jazz Theory Explained</option>
 	         	         	<option value="16259">KONTAKT Explained</option>
 	         	         	<option value="16477">Kush Plug-Ins Explained</option>
+	         	         	<option value="16494">Live 9 Compressors &amp; EQs In Action</option>
+	         	         	<option value="16487">Live 9 Racks Explained</option>
+	         	         	<option value="16504">Live 9 Reverb &amp; Delay in Action</option>
 	         	         	<option value="16174">Logic 8 Explained</option>
 	         	         	<option value="16232">Logic 9 Explained</option>
-	         	         	<option value="16240">Logic 9 Qwik Trix</option>
 	         	         	<option value="16229">Logic 9 Tips &amp; Tricks</option>
 	         	         	<option value="16382">Logic Drum Tips &amp; Tricks</option>
 	         	         	<option value="16211">Logic Operator - Vol 1</option>
 	         	         	<option value="16212">Logic Operator - Vol 2</option>
 	         	         	<option value="16206">Logic Plug-Ins Explained</option>
+	         	         	<option value="16489">Logic Pro X Explained</option>
+	         	         	<option value="16515">Logic Pro X Jump Start</option>
+	         	         	<option value="16498">Logic Pro X MIDI Plug-Ins Explained</option>
+	         	         	<option value="16240">Logic Qwik Trix</option>
 	         	         	<option value="16346">Logic Score Editor Explained</option>
 	         	         	<option value="16471">Loom Explained</option>
 	         	         	<option value="16418">MachFive 3 Explained</option>
 	         	         	<option value="16241">MainStage 2 Explained</option>
 	         	         	<option value="16465">Making Better Beats in Live 9</option>
+	         	         	<option value="16503">Making Trap with Reason</option>
 	         	         	<option value="16362">MASCHINE Explained</option>
 	         	         	<option value="16391">MASSIVE Explained</option>
 	         	         	<option value="16393">MASSIVE Sounds Vol 1</option>
@@ -357,10 +386,12 @@ $(document).ready(function(){
 	         	         	<option value="16354">MIDI Orchestration Explained</option>
 	         	         	<option value="16439">Mix School 101</option>
 	         	         	<option value="16353">Mixing Electronic Music</option>
+	         	         	<option value="16520">Mixing Heavy Rock / Metal</option>
+	         	         	<option value="16479">Mixing in Reaper</option>
 	         	         	<option value="16338">Mixing Rock</option>
 	         	         	<option value="16239">Mixing Urban Pop</option>
 	         	         	<option value="16454">Mixing with FREE Plug-Ins</option>
-	         	         	<option value="16386">Mixing with SONAR X1</option>
+	         	         	<option value="16386">Mixing with SONAR</option>
 	         	         	<option value="16472">MONARK Explained</option>
 	         	         	<option value="16377">Music Creator 6 Explained</option>
 	         	         	<option value="16173">Music Production w/ Logic - Vol 1</option>
@@ -376,6 +407,8 @@ $(document).ready(function(){
 	         	         	<option value="16457">Predator Explained</option>
 	         	         	<option value="16374">Pro Tools 10 Explained</option>
 	         	         	<option value="16397">Pro Tools 10: Working with Loops</option>
+	         	         	<option value="16488">Pro Tools 11 Explained</option>
+	         	         	<option value="16493">Pro Tools 11 Tips &amp; Tricks</option>
 	         	         	<option value="16220">Pro Tools 8 Explained</option>
 	         	         	<option value="16218">Pro Tools 8 Jump Start</option>
 	         	         	<option value="16335">Pro Tools 9 Explained</option>
@@ -391,15 +424,19 @@ $(document).ready(function(){
 	         	         	<option value="16222">Pro Tools Tips &amp; Tricks-Vol 3</option>
 	         	         	<option value="16256">Pro Tools Tips &amp; Tricks-Vol 4</option>
 	         	         	<option value="16459">Pro Tools Toolkit for Mac</option>
+	         	         	<option value="16499">Producing EDM in Logic Pro X</option>
 	         	         	<option value="16380">Producing Electronic Music</option>
 	         	         	<option value="16244">Producing Hard Rock with Logic</option>
-	         	         	<option value="16292">Producing House with Ableton Live: Arrangement &amp; FX</option>
-	         	         	<option value="16243">Producing House with Ableton Live: Bass &amp; Synth</option>
-	         	         	<option value="16231">Producing House with Ableton Live: Drums</option>
+	         	         	<option value="16292">Producing House with Ableton Live - Arrangement and FX</option>
+	         	         	<option value="16243">Producing House with Ableton Live - Bass and Synth</option>
+	         	         	<option value="16231">Producing House with Ableton Live - Drums</option>
 	         	         	<option value="16356">Producing Modern Country</option>
 	         	         	<option value="16251">Producing Voiceovers in Pro Tools</option>
 	         	         	<option value="16215">Producing Voiceovers with Logic</option>
 	         	         	<option value="16352">Programming Rock Drums in Pro Tools</option>
+	         	         	<option value="16512">PSP Dynamics Explained</option>
+	         	         	<option value="16519">PSP Reverbs &amp; Delays Explained</option>
+	         	         	<option value="16508">R&amp;B Master Series II</option>
 	         	         	<option value="16434">RAZOR Explained</option>
 	         	         	<option value="16419">REAKTOR Explained</option>
 	         	         	<option value="16275">Reaper 3 Explained</option>
@@ -414,21 +451,30 @@ $(document).ready(function(){
 	         	         	<option value="16359">Reason Instruments Explained - Vol 1</option>
 	         	         	<option value="16360">Reason Instruments Explained - Vol 2</option>
 	         	         	<option value="16455">Recording Live Drums on a Budget</option>
+	         	         	<option value="16502">Recording Vocals Explained</option>
+	         	         	<option value="16513">Remixing in Logic Pro X</option>
+	         	         	<option value="16501">Retro Synth Explained</option>
 	         	         	<option value="16387">Reverb Explained</option>
 	         	         	<option value="16223">SampleTank In Action</option>
 	         	         	<option value="16423">Sibelius 7 Explained</option>
 	         	         	<option value="16392">Sidechaining in Live</option>
 	         	         	<option value="16462">SKANNER XT Explained</option>
 	         	         	<option value="16395">Slate Digital VCC Explained</option>
+	         	         	<option value="16500">Smart Controls Explained</option>
+	         	         	<option value="16483">Softube Amps &amp; FX Explained</option>
 	         	         	<option value="16468">Sonalksis Plug-Ins Explained</option>
 	         	         	<option value="16298">SONAR 8.5 Explained</option>
 	         	         	<option value="16305">SONAR X1 Explained</option>
 	         	         	<option value="16349">SONAR X1 Tips &amp; Tricks</option>
 	         	         	<option value="16433">SONAR X2 Explained</option>
+	         	         	<option value="16505">SONAR X3 Explained</option>
+	         	         	<option value="16509">SONAR X3 New Features</option>
 	         	         	<option value="16343">Songwriting Theory Explained</option>
 	         	         	<option value="16404">Sonnox Pro-Codec Explained</option>
+	         	         	<option value="16511">SoundToys Effects Explained</option>
 	         	         	<option value="16288">Soundtrack Pro Explained</option>
-	         	         	<option value="16469">Starting a Club Track with Live 9</option>
+	         	         	<option value="16469">Starting a Club Track in Live 9</option>
+	         	         	<option value="16510">Strike 2 Explained</option>
 	         	         	<option value="16261">Strike Explained</option>
 	         	         	<option value="16255">Structure Explained</option>
 	         	         	<option value="16379">Studio One 2 Advanced</option>
@@ -441,36 +487,38 @@ $(document).ready(function(){
 	         	         	<option value="16160">Sweetwater Web Pass</option>
 	         	         	<option value="16301">Synthesis with Operator</option>
 	         	         	<option value="16385">Synths Explained</option>
+	         	         	<option value="16507">Tracking Rock - Bass</option>
 	         	         	<option value="16444">Tracking Rock - Drums</option>
 	         	         	<option value="16291">Transfuser Explained</option>
 	         	         	<option value="16445">Trash 2 Explained</option>
 	         	         	<option value="16450">Tremor Explained</option>
 	         	         	<option value="16369">Trigger Explained</option>
 	         	         	<option value="16381">Trilian Explained</option>
+	         	         	<option value="16518">Turnado Explained</option>
+	         	         	<option value="16482">Twist 2.0 Explained</option>
 	         	         	<option value="16409">UVI Workstation Jump Start</option>
 	         	         	<option value="16475">Vacuum Pro Explained</option>
-	         	         	<option value="16236">VDM - Vintage Drum Machines</option>
 	         	         	<option value="16478">Vocalizer Pro Explained</option>
 	         	         	<option value="16408">Voices of Reason Vol 1</option>
 	         	         	<option value="16424">VTM Explained</option>
+	         	         	<option value="16485">WaveLab Montage Explained</option>
 	         	         	<option value="16467">Waves Element Explained</option>
 	         	         	<option value="16357">Waves Musicians 2 Bundle Explained</option>
 	         	         	<option value="16460">Waves SSL Bundle Explained</option>
-	         	         	<option value="16371">What's New in Pro Tools 10</option>
+	         	         	<option value="16371">Whats New in Pro Tools 10</option>
+	         	         	<option value="16484">Wobble 2.0 Explained</option>
 	         	         	<option value="16413">Z3TA+2 Explained</option>
 	         		
 	         </select>
 			</li>
          	<li style="border-left:0px !important;">
 				<select id="browse_byproducts" style="width:210px;" onchange="javascript: topmenu_redirect('category',this.value);"><option value="">Browse By Categories</option><option>-----</option>
-	      	 	         	<option value="342">Deal of the Week</option>
-	         	         	<option value="259">All-Access Pass</option>
+	      	 	         	<option value="259">All-Access Pass</option>
 	         	         	<option value="252">Ableton Live</option>
 	         	         	<option value="373">AIR</option>
 	         	         	<option value="251">Auto-Tune</option>
 	         	         	<option value="341">Cakewalk</option>
 	         	         	<option value="358">Camel Audio</option>
-	         	         	<option value="257">Cubase</option>
 	         	         	<option value="255">FL Studio</option>
 	         	         	<option value="276">FXpansion</option>
 	         	         	<option value="364">Garritan</option>
@@ -489,31 +537,77 @@ $(document).ready(function(){
 	         	         	<option value="349">Novation</option>
 	         	         	<option value="249">Pro Tools</option>
 	         	         	<option value="307">Production</option>
+	         	         	<option value="390">PSP Audioware</option>
 	         	         	<option value="250">Reason</option>
 	         	         	<option value="303">Reaper</option>
 	         	         	<option value="344">Recording</option>
 	         	         	<option value="362">Rob Papen</option>
 	         	         	<option value="346">Slate Digital</option>
 	         	         	<option value="354">Sibelius 7</option>
-	         	         	<option value="345">Spectrasonics</option>
+	         	         	<option value="381">Softube</option>
 	         	         	<option value="372">Sonalksis</option>
-	         	         	<option value="310">Sonar</option>
+	         	         	<option value="310">SONAR</option>
 	         	         	<option value="375">SONiVOX</option>
 	         	         	<option value="350">Sonnox</option>
 	         	         	<option value="305">Soundtrack Pro</option>
+	         	         	<option value="345">Spectrasonics</option>
+	         	         	<option value="389">SoundToys</option>
+	         	         	<option value="257">Steinberg</option>
 	         	         	<option value="311">Studio One</option>
-	         	         	<option value="348">Synth Programing</option>
+	         	         	<option value="391">Sugar Bytes</option>
+	         	         	<option value="348">Synth Programming</option>
 	         	         	<option value="287">Toontrack</option>
 	         	         	<option value="352">UVI</option>
 	         	         	<option value="351">Vocal Instruction</option>
 	         	         	<option value="309">Waves</option>
 	         	         	<option value="258">Promo Products</option>
+	         	         	<option value="376">Software</option>
 	         		        
 	         </select> 	
          	</li>
+         	<li style="border-left:0px !important;">
+				<select id="browse_byauthors" style="width:210px;" onchange="javascript: topmenu_redirect('author',this.value);"><option value="">Browse By Authors</option><option>-----</option>
+	      	 	         	<option value="44">Al Swettenham</option>
+	         	         	<option value="9">Andrew Rusnak</option>
+	         	         	<option value="4">Antony Livoti</option>
+	         	         	<option value="20">Arnie Geher</option>
+	         	         	<option value="3">Asa Doyle</option>
+	         	         	<option value="45">Brent Kallmer</option>
+	         	         	<option value="8">Craig McCullough</option>
+	         	         	<option value="6">Doug Zangar</option>
+	         	         	<option value="25">DrFord</option>
+	         	         	<option value="10">Eli Krantzberg</option>
+	         	         	<option value="46">James Ivey</option>
+	         	         	<option value="43">James Lugo</option>
+	         	         	<option value="51">Jeremy Harding</option>
+	         	         	<option value="5">Josh Mobley</option>
+	         	         	<option value="7">Kenny Gioia</option>
+	         	         	<option value="14">Krish Sharma</option>
+	         	         	<option value="2">Kurt Kurasaki</option>
+	         	         	<option value="41">Laurence Holcombe</option>
+	         	         	<option value="47">Mark Struthers</option>
+	         	         	<option value="13">Michael Costa</option>
+	         	         	<option value="48">Michael Pearson-Adams</option>
+	         	         	<option value="42">Mike Thornton</option>
+	         	         	<option value="19">Russ Hughes</option>
+	         	         	<option value="16">Scott Griggs</option>
+	         	         	<option value="49">Scottie Dugan</option>
+	         	         	<option value="40">Sedric Pieretti</option>
+	         	         	<option value="15">Timothy Allan</option>
+	         	         	<option value="50">Tony Shepperd</option>
+	         	         	<option value="38">Travis Brown</option>
+	         	         	<option value="21">Victor Giordano</option>
+	         	         	<option value="37">Waves</option>
+	         	         	<option value="26">William Edstrom Jr.</option>
+	         		        
+	         </select> 	
+         	</li>         	
         </ul>
       
       </div>
+      
+
+     
 				 				
 	</div><div id="container">	
 
@@ -797,11 +891,10 @@ USA
     <div class="footer-col" style="text-align:left;">
       <ul>
         <li class="footer-title">Get Support</li>
-        <li class="callus">Call us: 1-800-460-7509</li>
         <li> <img src="/str/skin/groove3v2/images/footer-bullet.png" width="6" height="8"><a href="/str/help.php?section=contactus&amp;mode=update">Email us </a></li>
         <li> <img src="/str/skin/groove3v2/images/footer-bullet.png" width="6" height="8"><a href="/str/help.php?section=FAQ">FAQ</a></li>
         <li class="footer-title">Newsletter</li>
-        <li> <img src="/str/skin/groove3v2/images/footer-bullet.png" width="6" height="8"><a href="/str/subscribe.php">Signup here</a></li>
+        <li> <img src="/str/skin/groove3v2/images/footer-bullet.png" width="6" height="8"><a href="https://www.groove3.com/str/groovenews-signup.html">Signup here</a></li>
       </ul>
     </div>
     <div class="footer-col"> <a href="http://www.facebook.com/groove3inc?v=wall" target="_blank"><img src="/str/skin/groove3v2/images/fb.png" width="52" height="52"></a> <a href="http://twitter.com/groove3inc" target="_blank"><img src="/str/skin/groove3v2/images/twee.png" border="0"></a><br>
