@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lollapalooza.com privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414043838id_/http%3A//www.lollapalooza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lollapalooza.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205205432id_/http%3A//www.lollapalooza.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Lollapalooza 2013 | August 2-4, 2013 : Grant Park : Chicago, IL
+# Privacy | Lollapalooza 2014 | August 1-3, 2014 : Grant Park : Chicago, IL
 
 ### LOLLAPALOOZA MUSIC FESTIVAL'S WEBSITE PRIVACY POLICY
 
