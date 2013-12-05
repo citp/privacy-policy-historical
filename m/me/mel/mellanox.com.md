@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the mellanox.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231174518id_/http%3A//www.mellanox.com/content/pages.php%3Fpg%3Dlegal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mellanox.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205202433id_/http%3A//www.mellanox.com/page/legal_privacy) for the most accurate reproduction.*
 
 # Legal Privacy: Mellanox Technologies
 
 ## Legal & Privacy Policy
+
+**_Policy last updated_** :  August 26, 2013  
+
 
 This is the website (“Website”) of Mellanox Technologies, Ltd. (collectively with all subsidiaries, “Mellanox”).  Your privacy is very important to us.  The purpose of this privacy policy (“Privacy Policy”) is to inform you about our policy and our practices regarding the collection and use of information from visitors to this Website.  By accessing or using this Website, you agree to all of the terms and conditions set forth in this Privacy Policy.  
 
@@ -38,6 +41,7 @@ The information that is collected by Mellanox will be used only for internal bus
   * We may share personal information if we believe it is necessary in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to physical safety of any person, violations of this Privacy Policy, or as otherwise required by law.
   * We may disclose personal information to our third party service providers who agree to maintain the confidentiality of your personal information in accordance with this Privacy Policy.  Such third party service providers may use your personal information only to provide services to Mellanox and will not be given permission to use such information for other purposes.
 
+  
 
 
 #### **_Security_**
@@ -45,6 +49,37 @@ The information that is collected by Mellanox will be used only for internal bus
 We maintain data handling and storage practices and procedures designed to ensure the integrity and confidentiality of customer information. We have security measures implemented in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at this Website.  While we use reasonable efforts to safeguard the security of your personal information, transmissions made on or through the Internet are vulnerable to attack and cannot be guaranteed to be secure.  In addition, submissions made via email are not protected by SSL (Secured Sockets Layer) technology and are vulnerable to interception during transmission.
 
 Nevertheless, when disclosing any personal information via the Internet, there is always the risk that your information may be intercepted without our consent and, consequently, can be collected and used by others without your consent.  In addition, third party sites that are accessed through links on our sites have separate privacy policies and security measures, and Mellanox is not responsible or liable for the practices, policies or security measures implemented on these third party sites.  _You hereby acknowledge that Mellanox is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner_.
+
+#### **_International Users \- Applicable Law_**  
+
+
+We collect, process, store, disclose and dispose of personal information that you submit to us in accordance with applicable United States law.  Please note that the personal information you submit to our website will be transferred to the United States to be processed by us in order to provide this Website and its services to you or for such other purposes as set forth in this Privacy Policy.  If you are not a resident of the United States, you acknowledge and agree that we may collect and use your personal information, as discussed in this privacy policy, outside your resident jurisdiction.  In addition, we may store such personal information in the United States, outside your resident jurisdiction.  In particular, you are advised that the United States uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation and self-regulation.  Please be aware that United States law may offer different levels of protection for personal information than may be available in your country. 
+
+#### **_Intellectual Property  
+_**
+
+This Website is protected by U.S. and international copyright and intellectual property laws.  Unless otherwise specified, all information and screens appearing as part of this Website, including software, services, documents, text, images, icons, and logos design; the selection, assembly, arrangement and design thereof, and the code that enables its presentation, are the sole property of Mellanox (collectively, the “Website Materials”).
+
+Except as otherwise required by applicable law, no part of any copyrighted material may be reproduced, modified, translated, distributed, published, or transmitted by any means, electronic or mechanical, for any purpose, without our prior, written authorization or, if owned by a third party, the prior, written authorization of such third party.
+
+Mellanox, Mellanox logo, BridgeX, ConnectX, CORE-Direct, InfiniBridge, InfiniHost, InfiniScale, PhyX, SwitchX, Virtual Protocol Interconnect and Voltaire are registered trademarks of Mellanox Technologies, Ltd. FabricIT, MLNX-OS, Unbreakable-Link, UFM and Unified Fabric Manager are trademarks of Mellanox Technologies, Ltd. All other trademarks are property of their respective owners.
+
+#### **_Conflict Minerals Policy Statement  
+_**
+
+Mellanox Technologies Inc. and Mellanox Technologies Ltd ("Mellanox") are committed to source their raw materials, components and parts from suppliers that respect human rights, integrity and environmental regulations. 
+
+Mellanox is also committed to comply with the OECD Due Diligence Guidance as well as Section 1502 of the Dodd-Frank Act, which aims to prevent the use of minerals helping directly or indirectly to finance or benefit armed groups in the Democratic Republic of the Congo (DRC) or in adjoining countries ("conflict minerals"). 
+
+The U.S. Securities and Exchange Commission (SEC) has adopted rules requiring publicly traded companies to disclose whether they use tantalum, tin, gold or tungsten that originated in the DRC or an adjoining country and if so, to issue a report identifying their products that are not conflict free and their due diligence efforts to determine the source and chain of custody of the metals. 
+
+Mellanox requires that suppliers whose products contain tantalum, tin, gold and tungsten to provide written evidence of due diligence (EICC-GeSI Conflict Minerals template) that traces these minerals back through the supply chain, and to confirm their source is not from the conflict region - DRC. 
+
+Mellanox expects suppliers to take similar measures with their suppliers to ensure compliance throughout the supply chain of these "conflict minerals" used in their parts/components/material. 
+
+Contact for Mellanox conflict Minerals: Yossi Adi ([yossiad@mellanox.com](mailto:yossiad@mellanox.com)) 
+
+August 2013 
 
 #### **_Changes to this Privacy Policy  
 _**
@@ -63,26 +98,9 @@ _**
 
 Children (persons under the age of 18) are not eligible to use this Website unsupervised, and we ask that children do not submit any personal information to us.  If you are under the age of 18, you may only use this Website in conjunction with and under the supervision of your parents or guardians.
 
-#### **_International Users \- Applicable Law_**  
-
-
-We collect, process, store, disclose and dispose of personal information that you submit to us in accordance with applicable United States law.  Please note that the personal information you submit to our website will be transferred to the United States to be processed by us in order to provide this Website and its services to you or for such other purposes as set forth in this Privacy Policy.  If you are not a resident of the United States, you acknowledge and agree that we may collect and use your personal information, as discussed in this privacy policy, outside your resident jurisdiction.  In addition, we may store such personal information in the United States, outside your resident jurisdiction.  In particular, you are advised that the United States uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation and self-regulation.  Please be aware that United States law may offer different levels of protection for personal information than may be available in your country. 
-
-#### **_Intellectual Property  
-_**
-
-This Website is protected by U.S. and international copyright and intellectual property laws.  Unless otherwise specified, all information and screens appearing as part of this Website, including software, services, documents, text, images, icons, and logos design; the selection, assembly, arrangement and design thereof, and the code that enables its presentation, are the sole property of Mellanox (collectively, the “Website Materials”).
-
-Except as otherwise required by applicable law, no part of any copyrighted material may be reproduced, modified, translated, distributed, published, or transmitted by any means, electronic or mechanical, for any purpose, without our prior, written authorization or, if owned by a third party, the prior, written authorization of such third party.
-
-Mellanox, Mellanox logo, BridgeX, ConnectX, CORE-Direct, InfiniBridge, InfiniHost, InfiniScale, PhyX, SwitchX, Virtual Protocol Interconnect and Voltaire are registered trademarks of Mellanox Technologies, Ltd. FabricIT, MLNX-OS, Unbreakable-Link, UFM and Unified Fabric Manager are trademarks of Mellanox Technologies, Ltd. All other trademarks are property of their respective owners.
-
-Copyright © 1999 - 2012 by Mellanox Technologies, Ltd.  All rights reserved.
-
 #### **_Contact Us  
 _**
 
 If you have any questions about this Privacy Policy, please contact us at: [info@mellanox.com](mailto:info@mellanox.com)
 
-**_Policy last updated_** :  December 14, 2011  
-
+Copyright © 1999 - 2013 by Mellanox Technologies, Ltd.  All rights reserved.
