@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whosampled.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503033837id_/http%3A//www.whosampled.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whosampled.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205170128id_/http%3A//www.whosampled.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WhoSampled
 
@@ -60,7 +60,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Whosampled.com Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/about/terms/) and other agreements; or to protect the rights, property, or safety of Whosampled.com Limited. This may include exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/terms/) and other agreements; or to protect the rights, property, or safety of Whosampled.com Limited. This may include exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -78,4 +78,4 @@ Please note that this Privacy Policy may change from time to time. We expect the
 **Contact**  
 Questions, comments and requests regarding this Privacy Policy are welcomed and should be sent via [our contact form](https://web.archive.org/contact/ask/).
 
-Last updated: October 25, 2012 
+Last updated: October 22, 2013 
