@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikidok.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612075814id_/http%3A//www.wikidok.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikidok.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205184432id_/http%3A//www.wikidok.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # USA Free Classifieds, US Free Ads, Free Ads for USA, Post Free Ads, Post Ads without registration, No registration required | WikiDok.com
 
