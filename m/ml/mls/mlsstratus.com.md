@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlsstratus.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605222917id_/http%3A//www.lirealtor.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlsstratus.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205015447id_/http%3A//www.lirealtor.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Long Island Board of Realtors | Privacy Policy
 
