@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkcentre.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630092946id_/http%3A//linkcentre.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkcentre.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205124155id_/http%3A//linkcentre.com/w3c/policy.html) for the most accurate reproduction.*
 
 # LinkCentre.com Privacy Policy
 
@@ -105,9 +105,8 @@ Using the following information, you can contact us if you have questions about 
 
  | Interlink Advertising Limited  
 ---|---  
- | Primera House  
- | 237 Dickson Road  
- | Blackpool, Lancashire FY1 2JH  
+ | 3 Seafield Road  
+ | Blackpool, Lancashire FY1 2LS  
  | United Kingdom  
  |   
  | E-mail: [support@linkcentre.com](mailto:support@linkcentre.com)  
