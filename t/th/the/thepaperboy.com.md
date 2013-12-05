@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepaperboy.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117074226id_/http%3A//www.thepaperboy.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepaperboy.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205163449id_/http%3A//www.thepaperboy.com/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy | ThePaperboy.com
+# Privacy Policy | Paperboy Online Newspapers
 
 The Paperboy And Your Privacy
 
@@ -12,11 +12,15 @@ The Paperboy does not sell, trade, or rent your personal information to others. 
 
 Third Party Advertisements
 
-This site, ThePaperboy.com, uses the services of various 3rd party advertising networks for the serving and/or targeting of ads, promotions and other marketing messages. To do this, these networks often collect anonymous data through the use of cookies. Our main advertising partner is **Google** , which serves advertisements through their Adsense advertising program. For full details on the information Google collects and how it uses it, please refer to [Google's Privacy Policy](http://www.google.co.uk/privacy_cookies.html).Specifically, Google, as a third-party vendor, uses cookies to serve ads on your site.
+This site, ThePaperboy.com, uses the services of various 3rd party advertising networks for the serving and/or targeting of ads, promotions and other marketing messages. To do this, these networks often collect anonymous data through the use of cookies. Our main advertising partner is **Google** , which serves advertisements through their Adsense advertising program. For full details on the information Google collects and how it uses it, please refer to [Google's Privacy Policy](http://www.google.com/intl/en-GB/policies/privacy/).Specifically, Google, as a third-party vendor, uses cookies to serve ads on your site.
 
 * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
 * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
   
+Paperboy Mailing Lists
+
+We allow users to opt-in to email newsletters from the Paperboy by supplying a valid email address. We use a third party service (currently sendgrid.com) to facilitate our bulk email services. Any data supplied by users is not shared with these providers or others. Subscribers who opt in to email services are always provided an easy mechanism to unsubscribe from such services at any time they choose. 
+
 Tell Me What You Think
 
 I welcome your questions and comments about privacy. Please [click here](https://web.archive.org/email.cfm) to contact me. 
