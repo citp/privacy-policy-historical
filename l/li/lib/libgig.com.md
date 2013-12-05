@@ -1,71 +1,72 @@
-> *The following text is extracted and transformed from the libgig.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622045510id_/http%3A//www.libgig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libgig.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205055726id_/http%3A//www.libgig.com/%3Fpage_id%3D6) for the most accurate reproduction.*
 
-# LibGig Privacy Policy | Library Jobs, careers, placement, recruiting | LibGig
+# Privacy | LIBGIG
 
-At LibGig, the privacy and confidentiality of user information is important. We are committed to maintaining the privacy and security of your user information. We may update this policy from time to time, so please check here frequently. LibGig will not disclose identifiable user information to any third party without consent. 
+## Privacy
 
-LibGig is committed to safeguarding your privacy while visiting the LibGig website, namely, [www.libgig.com](http://www.libgig.com/ "www.libgig.com") (hereinafter all identified URLs are collectively referred to as the "Site"). Our goal is to provide you with an Internet experience that delivers the information, resources and services that are most relevant to you. To achieve this goal, part of the operation of the Site includes the gathering of certain types of information about Site users. Because we understand that your privacy is important, we wish to explain the types of information we gather and the way in which we use it. This Privacy Policy applies to the Site.
+At LibGig, the privacy and confidentiality of user information is important. We are committed to maintaining the privacy and security of your user information. We may update this policy from time to time, so please check here frequently. LibGig will not disclose identifiable user information to any third party without consent.
 
-This Privacy Policy covers two types of information gathered at the Site, personal and aggregated. The term "personal information" refers to data you voluntarily provide in connection with use of the Site that identifies you and/or the company on whose behalf you are accessing and using the Site. Personal information includes, e.g., data submitted in connection with our services, such as your name, e-mail address, phone number, company affiliation, physical address and/or certain other personal information. 
+LibGig is committed to safeguarding your privacy while visiting the LibGig website, namely, [www.libgig.com](http://www.libgig.com/ "www.libgig.com") (hereinafter all identified URLs are collectively referred to as the “site”). Our goal is to provide you with an Internet experience that delivers the information, resources and services that are most relevant to you. To achieve this goal, part of the operation of the site includes the gathering of certain types of information about site users. Because we understand that your privacy is important, we wish to explain the types of information we gather and the way in which we use it. This Privacy Policy applies to the site.
 
-The term "aggregated data" refers to general information regarding visitors and users of the Site that relates to use of the Site, e.g., traffic patterns, number of visits to certain pages, visits from other web sites or to third-party web sites linked to the Site, use of particular services and interest in services, information or features of the Site or other parties made available through or found at the Site.
+This Privacy Policy covers two types of information gathered at the site, personal and aggregated. The term “personal information” refers to data you voluntarily provide in connection with use of the site that identifies you and/or the company on whose behalf you are accessing and using the site. Personal information includes, e.g., data submitted in connection with our services, such as your name, e-mail address, phone number, company affiliation, physical address and/or certain other personal information.
 
-What information is collected about you? How do we use it?  
+The term “aggregated data” refers to general information regarding visitors and users of the site that relates to use of the site, e.g., traffic patterns, number of visits to certain pages, visits from other web sites or to third-party web sites linked to the site, use of particular services and interest in services, information or features of the site or other parties made available through or found at the site.
+
+**What information is collected about you? How do we use it?**  
 We take the utmost care to ensure that the personal information we obtain from you is not used in a way that you may be unaware of or not agreeable to. You may wish to submit an information request about LibGig, participate in any of our promotions, contests or surveys, or subscribe to our e-mail lists. In response, we may ask for information such as your name, email or postal address. In the event you opt to provide us with this information, we will only use it for the purpose specified by you at the bottom of the information gathering form.
 
-Information collected on the Site may be used to:
+Information collected on the site may be used to:
 
 \- Register you as a job applicant  
 \- Enter your email in our promotions or sweepstakes  
 \- Send marketing communications or surveys to you  
 \- Respond to your questions or suggestions  
-\- Improve the quality of your visit to the site 
+\- Improve the quality of your visit to the site
 
 All forms will provide an opt-out button to allow you to choose not to participate in LibGig lists and future online marketing. In deciding whether or not to join such lists, please note that they are only used for LibGig purposes or in joint promotions with a LibGig partner. We do not sell, rent or share any of your personal information with any other party including any third-party joint promoters, nor use it for unapproved commercial purposes. You may request to be removed from our lists at any time. All emails distributed to our lists will contain easy, online access to unsubscribe.
 
-Permission for Use
+**Permission for Use**
 
-LibGig may collect and use personal information that you submit at the Site in any manner that is consistent with uses stated in this Privacy Policy or disclosed elsewhere at the Site at the point you submit such personal information. At the time you submit personal information or make a request, the intended use of the information you submit will be apparent in the context in which you submit it and/or because the Site states the intended purpose. By submitting personal information at the Site, you are giving your consent and permission for any use that is consistent with uses stated in this Privacy Policy or disclosed elsewhere at the Site at the point you submit such personal information, and such consent will be presumed by LibGig, unless you state otherwise at the time you submit the personal information. Please do not request any such communications on behalf of an individual or company if you are not authorized to make the request.
+LibGig may collect and use personal information that you submit at the site in any manner that is consistent with uses stated in this Privacy Policy or disclosed elsewhere at the site at the point you submit such personal information. At the time you submit personal information or make a request, the intended use of the information you submit will be apparent in the context in which you submit it and/or because the site states the intended purpose. By submitting personal information at the site, you are giving your consent and permission for any use that is consistent with uses stated in this Privacy Policy or disclosed elsewhere at the site at the point you submit such personal information, and such consent will be presumed by LibGig, unless you state otherwise at the time you submit the personal information. Please do not request any such communications on behalf of an individual or company if you are not authorized to make the request.
 
-Secure Registrations
+**Secure Registrations**
 
-If you decide to submit an application or register at the Site, you will be linked to a registration interface and our resume software.  
-This site has measures in place to protect the loss, misuse and alteration of the information under our control. 
+If you decide to submit an application or register at the site, you will be linked to a registration interface and our resume software. This site has measures in place to protect the loss, misuse and alteration of the information under our control.
 
-Protecting Your Information
+**Protecting Your Information**
 
-LibGig would like Site visitors to feel confident about using the Site to search for positions, comment on stories, post to the forum, craft original blogs and register/submit resumes, so LibGig is committed to protecting the information we collect. LibGig has implemented a security program to keep information that is stored in our systems protected from unauthorized access.
+LibGig would like site visitors to feel confident about using the site to search for positions, comment on stories, post to the forum, craft original blogs and register/submit resumes, so LibGig is committed to protecting the information we collect. LibGig has implemented a security program to keep information that is stored in our systems protected from unauthorized access.
 
-Withdrawing Consent to Use
+**Withdrawing Consent to Use**
 
-If, after permitting use of your personal information, you later decide that you no longer want LibGig to include you on its mailing list or otherwise contact you or use your personal information in the manner disclosed in this Privacy Policy or at the Site, simply tell us by sending an e-mail, or by clicking on the "Unsubscribe" button at the bottom of our email communication to you.
+If, after permitting use of your personal information, you later decide that you no longer want LibGig to include you on its mailing list or otherwise contact you or use your personal information in the manner disclosed in this Privacy Policy or at the site, simply tell us by sending an e-mail, or by clicking on the “Unsubscribe” button at the bottom of our email communication to you.
 
-Use of Aggregated Data
+**Use of Aggregated Data**
 
-LibGig is interested in improving the Site and may develop and offer new features and services. We monitor aggregated data regarding use of the Site for marketing purposes and to study, improve and promote use of the Site. In connection with such purposes, LibGig may share aggregated data with third parties collectively and in an anonymous way. Disclosure of aggregated data does not reveal personal information about individual Site users in any way that identifies who they are or how to contact them.
+LibGig is interested in improving the site and may develop and offer new features and services. We monitor aggregated data regarding use of the site for marketing purposes and to study, improve and promote use of the site. In connection with such purposes, LibGig may share aggregated data with third parties collectively and in an anonymous way. Disclosure of aggregated data does not reveal personal information about individual site users in any way that identifies who they are or how to contact them.
 
-Exceptions to the Privacy Policy
+**Exceptions to the Privacy Policy**
 
 LibGig has two exceptions to these limits on use of personal information:  
-LibGig may monitor and, when we believe in good faith that disclosure is required, disclose information to protect the security, property, assets and/or rights of LibGig from unauthorized use, or misuse, of the Site or anything found at the Site.
+1\. LibGig may monitor and, when we believe in good faith that disclosure is required, disclose information to protect the security, property, assets and/or rights of LibGig from unauthorized use, or misuse, of the site or anything found at the site.
 
-LibGig may disclose information when required by law; however, only to the extent necessary and in a manner that seeks to maintain the privacy of the individual. 
+2\. LibGig may disclose information when required by law; however, only to the extent necessary and in a manner that seeks to maintain the privacy of the individual.
 
-Use of Cookies
+**Use of Cookies**
 
-To enable features at the Site, LibGig may assign one or more "cookies" to your Internet browser. Cookies, among other things, speed navigation through our Site, keep track of information so that you do not have to re-enter it each time you visit our Site, and may provide you with customized content. A cookie is an Internet mechanism composed of a small text file containing a unique identification number that permits a web server to send small pieces of information or text by means of your browser and place them on your computer's hard drive for storage. This text lets the web server know if you have previously visited the web page. Cookies by themselves cannot be used to find out the identity of any user.
+To enable features at the site, LibGig may assign one or more “cookies” to your Internet browser. Cookies, among other things, speed navigation through our site, keep track of information so that you do not have to re-enter it each time you visit our site, and may provide you with customized content. A cookie is an Internet mechanism composed of a small text file containing a unique identification number that permits a web server to send small pieces of information or text by means of your browser and place them on your computer’s hard drive for storage. This text lets the web server know if you have previously visited the web page. Cookies by themselves cannot be used to find out the identity of any user.
 
-We use cookies to collect and maintain aggregated data (such as the number of visitors) to help us see which areas are most popular with our users and improve and update the content on our site. While in the process of browsing our site, you also provide us with information that doesn't reveal your personal identity -- what type of destination you're exploring, for example. We use this aggregated data only as explained in this Privacy Policy. We do not connect aggregated data to any name, address, or other identifying information.  
-You may occasionally receive cookies from unaffiliated companies or organizations, to the extent they place advertising on our Site or are linked to the Site. These third-party cookies may collect information about you when you "click" on their advertising or content or link. This practice is standard in the Internet industry. Because of the way in which the Internet operates, we cannot control collection of this information by these third parties, and these cookies are not subject to this Privacy Policy.
+We use cookies to collect and maintain aggregated data (such as the number of visitors) to help us see which areas are most popular with our users and improve and update the content on our site. While in the process of browsing our site, you also provide us with information that doesn’t reveal your personal identity — what type of destination you’re exploring, for example. We use this aggregated data only as explained in this Privacy Policy. We do not connect aggregated data to any name, address, or other identifying information.  
+You may occasionally receive cookies from unaffiliated companies or organizations, to the extent they place advertising on our site or are linked to the site. These third-party cookies may collect information about you when you “click” on their advertising or content or link. This practice is standard in the Internet industry. Because of the way in which the Internet operates, we cannot control collection of this information by these third parties, and these cookies are not subject to this Privacy Policy.
 
-Links Provided To Other Sites
+**Links Provided To Other Sites**
 
-LibGig may provide links to a number of other web sites that we believe might offer you useful information and services. However, those sites may not follow the same privacy policies as LibGig. Therefore, we are not responsible for the privacy policies or the actions of any third parties, including without limitation, any web site owners whose sites may be reached through this Site, nor can we control the activities of those web sites. We urge you to contact the relevant parties controlling these sites or accessing their on-line policies for the relevant information about their data collection practices before submitting any personal information or other sensitive data.
+LibGig may provide links to a number of other web sites that we believe might offer you useful information and services. However, those sites may not follow the same privacy policies as LibGig. Therefore, we are not responsible for the privacy policies or the actions of any third parties, including without limitation, any web site owners whose sites may be reached through this site, nor can we control the activities of those web sites. We urge you to contact the relevant parties controlling these sites or accessing their on-line policies for the relevant information about their data collection practices before submitting any personal information or other sensitive data.
 
-Your Consent To This Privacy Policy
+**Your Consent To This Privacy Policy**
 
-Use of the Site signifies your consent, as well as the consent of the company for whom you use the Site and whose information you submit (if any), to this on-line Privacy Policy, including the collection and use of information by LibGig, as described in this statement, and also signifies agreement to the terms of use for the Site. Continued access and use of the Site without acceptance of the terms of this Privacy Policy relieves LibGig from responsibility to the user.
+Use of the site signifies your consent, as well as the consent of the company for whom you use the site and whose information you submit (if any), to this on-line Privacy Policy, including the collection and use of information by LibGig, as described in this statement, and also signifies agreement to the terms of use for the site. Continued access and use of the site without acceptance of the terms of this Privacy Policy relieves LibGig from responsibility to the user.
 
-Policy Modifications & Contacting LibGig
+**Policy Modifications & Contacting LibGig**
 
-LibGig reserves the right to change this Privacy Policy at any time; notice of changes will be published on this page. Changes will always be prospective, not retroactive. If you have questions about our policies, please [contact us at theteam@libgig.com](mailto:theteam@libgig.com), with the words "Privacy Policy" in the subject line.
+LibGig reserves the right to change this Privacy Policy at any time; notice of changes will be published on this page. Changes will always be prospective, not retroactive. If you have questions about our policies, please contact us at [contact@libgig.com](mailto:contact@libgig.com), with the words “Privacy Policy” in the subject line.
