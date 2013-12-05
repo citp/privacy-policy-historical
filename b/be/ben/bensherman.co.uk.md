@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bensherman.co.uk privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606022419id_/http%3A//www.bensherman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bensherman.co.uk privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205233213id_/http%3A//www.bensherman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ben Sherman
 
