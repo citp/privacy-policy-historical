@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsimilarsites.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623024453id_/http%3A//www.topsimilarsites.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsimilarsites.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205143947id_/http%3A//www.topsimilarsites.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Top Similar Sites
 
@@ -42,4 +42,4 @@ This policy was last modified on 20/06/2013
 
 ### Popular Tags
 
-press cartoons american radio weekly quotes gold de converter word college chevy state fx simpsons universal gov 2 lake jersey personals alternative phoenix livescore chelsea tour newspapers accounts insurance www bildelar sarah islamic leadership john 94 week 93 manhattan
+sports google sharing translation local directions flights football official black reports weather business videos mp3 facebook popular holidays sky tracking traffic maryland phoenix tour microsoft forms security houston www leadership week manhattan magic kansas lyrics federal wheel time beach investors
