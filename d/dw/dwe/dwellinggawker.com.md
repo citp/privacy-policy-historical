@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the dwellinggawker.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530111211id_/http%3A//dwellinggawker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwellinggawker.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205015321id_/http%3A//dwellinggawker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | dwellinggawker
+# privacy policy | dwellinggawker
+
+(already registered? please [login](https://web.archive.org/login/?redirect_to=%2Fprivacy-policy%2F "Login")) 
+
+## Register
 
 **Information that is gathered from visitors**
 
