@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the digitaljournal.com privacy policy that was archived on 2013-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628135009id_/http%3A//digitaljournal.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digitaljournal.com privacy policy that was archived on 2013-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205034659id_/http%3A//www.digitaljournal.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -8,25 +8,25 @@
 <meta name="description" content="Digital Journal is a digital media news network with thousands of Digital Journalists in 200 countries around the world. Join us!">
 <style type="text/css">
   @import url(/yui-6.css);
-  @import url(/commonmin-103.css);
+  @import url(/commonmin-105.css);
   @import url(/css/bricks.css);
   @import url(/css/fontawesome/css/font-awesome.min.css);
 </style>
 <!--[if IE 7]>
 <link rel="stylesheet" href="/css/fontawesome/css/font-awesome-ie7.min.css">
 <![endif]-->
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
 <script type="text/javascript" src="/yui-10.js">
 </script>
 <script src="http://yui.yahooapis.com/2.9.0/build/json/json-min.js"></script>
-<script type="text/javascript" src="/djmin-171.js">
+<script type="text/javascript" src="/djmin-176.js">
 </script>
 <script type="text/javascript">var switchTo5x=true;</script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
 <script type="text/javascript">stLight.options({publisher: "49ce477b-918c-42e8-b104-b3fc334378aa", nativeCount: true});</script>
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,800|Bitter" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Bitter" rel="stylesheet" type="text/css">
 <!--[if lte IE 8]>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
@@ -60,11 +60,12 @@ var ga_targeting = Array(0)
       djp.ga_addslot(pubid, "DJ-Apps-WebsiteAd");
       djp.ga_addslot(pubid, "Exclusive-QW");
       djp.ga_addslot(pubid, "300x250-Big-Box-ATF");
+      djp.ga_addslot(pubid, "300x250-Big-Box-2-ATF");
       djp.ga_addslot(pubid, "300x250-Big-Box-BTF");
       djp.ga_addslot(pubid, "Special");
       djp.ga_fetch();
     }
-    djp.fb_permissions = 'email,user_birthday,user_interests,user_education_history,user_location,user_religion_politics';
+    djp.fb_permissions = 'email,user_birthday,user_interests,user_education_history,user_location,user_religion_politics,user_hometown,user_work_history';
 </script>
 
 <title>Privacy Policy - Digital Journal</title>
@@ -102,11 +103,11 @@ var ga_targeting = Array(0)
   if (utype=='Anonymous' && djp.user.num_visits>1)
     utype = 'Repeat Anonymous';
   _gaq.push(['_setCustomVar', 1, 'User Type', utype, 2]);
-  _gaq.push(['_setAccount', 'UA-521285-1']);
+      _gaq.push(['_setAccount', 'UA-521285-1']);
   _gaq.push(['_trackPageview']);
   (function() {
    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
    })();
 </script>
@@ -140,9 +141,10 @@ var ga_targeting = Array(0)
 <input type="hidden" name="frameless" value="1"><input type="hidden" name="output_mode" value="xml"><input type="hidden" name="login_ia" value="1"><input type="hidden" name="user[fb_uid]" value=""><div></div></form>
 
 <div style="margin-top:15px;padding-top:15px;border-top:1px solid #cccccc;" class="tac hide_fb invis">
-	<fb:login-button scope="email,user_birthday,user_interests,user_education_history,user_location,user_religion_politics">Log in with Facebook</fb:login-button>
-	<div style="padding-top:10px;">
-		Connect your Digital Journal account with Facebook to use this feature. <a href="" onmouseover="djp.user.tt(this,event,{ t:'help', id:'connect_with_fb'});" onclick="return false;" class="nodecor" style="color:black !important;cursor:default !important;"><img src="/images/help.gif" border="0" align="absmiddle"></a>
+  <a href="" onclick="djp.user.login_with_fb(null, true, true);return false;" class="fancy-button green"><i class="icon-facebook-sign"></i> Log in with Facebook</a>
+  <a href="/connect/with/twitter" class="fancy-button green"><i class="icon-twitter-sign"></i> Log in with Twitter</a>
+	<div style="padding-top:10px;width:70%;margin:0 auto;">
+		Connect your Digital Journal account with Facebook or Twitter to use this feature. <a href="" onmouseover="djp.user.tt(this,event,{ t:'help', id:'connect_with_fb'});" onclick="return false;" class="nodecor" style="color:black !important;cursor:default !important;"><img src="/images/help.gif" border="0" align="absmiddle"></a>
 	</div>
 </div>
 
@@ -160,7 +162,7 @@ var ga_targeting = Array(0)
 		<div>
 		<div style="margin:0 auto;width:1000px;background:white;">
 			<div style="margin-top:20px;" class="flright">
-	  <div style="height:22px;width:95px;overflow:hidden;margin-top:-4px;" class="flright"><div class="flright"><fb:login-button scope="email,user_birthday,user_interests,user_education_history,user_location,user_religion_politics" class="hide_fb" onlogin="djp.set_cookie('auto_prefill_signup_form', 1);djp.gotourl('/user/signup.php');">Connect</fb:login-button></div><div style="clear:both"></div></div>  <a class="fancy-button" href="" onclick="try{ djp.user.show_login_form();} catch(err){ }return false;">Log In</a>
+	  <div style="height:22px;width:95px;overflow:hidden;margin-top:-4px;" class="flright"><div class="flright"><fb:login-button scope="email,user_birthday,user_interests,user_education_history,user_location,user_religion_politics,user_hometown,user_work_history" class="hide_fb" onlogin="djp.set_cookie('auto_prefill_signup_form', 1);djp.gotourl('/user/signup.php');">Connect</fb:login-button></div><div style="clear:both"></div></div>  <a class="fancy-button" href="" onclick="try{ djp.user.show_login_form();} catch(err){ }return false;"><i class="icon-signin"></i> Log In</a>
   <a href="/user/signup.php" class="fancy-button">Sign Up</a>				</div>
 			<div style="width:90px;overflow:hidden;margin-top:18px" class="flright"><fb:like href="http://www.facebook.com/digitaljournal" layout="button_count" width="90"></fb:like></div>
 			<div class="flleft" style="overflow:hidden">
@@ -187,11 +189,11 @@ var ga_targeting = Array(0)
                     <li><a href="/entertainment" class="" onmouseover="djp.user.tt(this,event,{t: 'metadepartment', wopt: {department: 39}});">entertainment</a></li>
                     <li><a href="/life" class="with-subs" onmouseover="djp.user.tt(this,event,{t: 'metadepartment', wopt: {meta_department: 'life' }});">life</a></li>
                     <li><a href="/sports" class="" onmouseover="djp.user.tt(this,event,{t: 'metadepartment', wopt: {department: 37}});">sports</a></li>
-                    <li><a href="/business" class="" onmouseover="djp.user.tt(this,event,{t: 'metadepartment', wopt: {department: 19}});">business</a></li>
+                    <li><a href="/biz" class="with-subs" onmouseover="djp.user.tt(this,event,{t: 'metadepartment', wopt: {meta_department: 'biz' }});">biz</a></li>
                     <li><a href="/money" class="" onmouseover="djp.user.tt(this,event,{t: 'metadepartment', wopt: {department: 57}});">money</a></li>
                   </ul>
       </div>
-      <div class="flright" style="padding:5px 5px;">
+      <div class="flright" style="padding:5px 5px 5px 20px;">
         <form style="margin:0" onsubmit="var q = this.q.value, m = q.replace(/^(user|group|image|blog|comment|article|press):.*$/,'$1');if(m &amp;&amp; this.q.value!=m)this.mode.value=m;return (q?true:false)" action="/search/" method="get">
           <input type="text" size="30" style="width:90px;" title="Search Digital Journal" name="q" value="" class="search-field" placeholder="Search ..."><button class="search fancy-button red no-shadow">
             <i class="icon-search"></i>
@@ -207,7 +209,7 @@ var ga_targeting = Array(0)
       <div class="trending-bar">
                 <div style="overflow:hidden;width:780px;height:16px;" class="flleft">
           <span><i class="icon-time"></i> TRENDING NOW</span>
-           &nbsp; &nbsp; <a class="tag" href="/topic/Movie" onmouseover="djp.user.tt(this,event,{ id:'1346', t:'topic'});">Movie</a> &nbsp; &nbsp; <a class="tag" href="/topic/South+Africa" onmouseover="djp.user.tt(this,event,{ id:'846', t:'topic'});">South Africa</a> &nbsp; &nbsp; <a class="tag" href="/topic/Paypal" onmouseover="djp.user.tt(this,event,{ id:'5203', t:'topic'});">Paypal</a> &nbsp; &nbsp; <a class="tag" href="/topic/alex+tanguay" onmouseover="djp.user.tt(this,event,{ id:'229832', t:'topic'});">alex tanguay</a> &nbsp; &nbsp; <a class="tag" href="/topic/America%27s+Got+Talent" onmouseover="djp.user.tt(this,event,{ id:'114350', t:'topic'});">America's Got Talent</a> &nbsp; &nbsp; <a class="tag" href="/topic/Child+abandonment" onmouseover="djp.user.tt(this,event,{ id:'50581', t:'topic'});">Child abandonment</a> &nbsp; &nbsp; <a class="tag" href="/topic/luis+barcenas" onmouseover="djp.user.tt(this,event,{ id:'229855', t:'topic'});">luis barcenas</a> &nbsp; &nbsp; <a class="tag" href="/topic/Toy+gun" onmouseover="djp.user.tt(this,event,{ id:'32183', t:'topic'});">Toy gun</a> &nbsp; &nbsp; <a class="tag" href="/topic/London+underground" onmouseover="djp.user.tt(this,event,{ id:'84307', t:'topic'});">London underground</a> &nbsp; &nbsp; <a class="tag" href="/topic/Gender+equality" onmouseover="djp.user.tt(this,event,{ id:'65406', t:'topic'});">Gender equality</a>        </div>
+           &nbsp; &nbsp; <a class="tag" href="/topic/Obama" onmouseover="djp.user.tt(this,event,{ id:'6719', t:'topic'});">Obama</a> &nbsp; &nbsp; <a class="tag" href="/topic/Pavel+Dmitrichenko" onmouseover="djp.user.tt(this,event,{ id:'211401', t:'topic'});">Pavel Dmitrichenko</a> &nbsp; &nbsp; <a class="tag" href="/topic/Goal" onmouseover="djp.user.tt(this,event,{ id:'7210', t:'topic'});">Goal</a> &nbsp; &nbsp; <a class="tag" href="/topic/clergy+sex+abuse" onmouseover="djp.user.tt(this,event,{ id:'173124', t:'topic'});">clergy sex abuse</a> &nbsp; &nbsp; <a class="tag" href="/topic/prelude" onmouseover="djp.user.tt(this,event,{ id:'248188', t:'topic'});">prelude</a> &nbsp; &nbsp; <a class="tag" href="/topic/heffron+drive" onmouseover="djp.user.tt(this,event,{ id:'234251', t:'topic'});">heffron drive</a> &nbsp; &nbsp; <a class="tag" href="/topic/spanish+wine" onmouseover="djp.user.tt(this,event,{ id:'186671', t:'topic'});">spanish wine</a> &nbsp; &nbsp; <a class="tag" href="/topic/Blackmail" onmouseover="djp.user.tt(this,event,{ id:'17630', t:'topic'});">Blackmail</a> &nbsp; &nbsp; <a class="tag" href="/topic/artpop" onmouseover="djp.user.tt(this,event,{ id:'179242', t:'topic'});">artpop</a> &nbsp; &nbsp; <a class="tag" href="/topic/walk+off" onmouseover="djp.user.tt(this,event,{ id:'211979', t:'topic'});">walk off</a>        </div>
       </div>
       <div style="clear:both"></div>
     </div>
@@ -325,6 +327,14 @@ This Privacy Policy is effective as of Oct. 1, 2006
 
 <div style="padding-bottom:10px">
   <script type="text/javascript">
+    djp.ga_fill("300x250-Big-Box-2-ATF");
+  </script>
+</div>
+
+
+
+<div style="padding-bottom:10px">
+  <script type="text/javascript">
     djp.ga_fill("Exclusive-QW");
   </script>
   <div style="height:10px;"></div>
@@ -333,291 +343,297 @@ This Privacy Policy is effective as of Oct. 1, 2006
   </script>
 </div>
 
-<div class="headerbar clearfix"><div class="title"><i class="icon-check"></i> Top News</div></div>
+<div style="margin-bottom: 10px;">
+  <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/digitaljournal" data-widget-id="251415018837508096">Tweets by @digitaljournal</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+
+
+<div class="headerbar clearfix">
+  <a class="right" href="/w/newsindex?ni=latest"><i class="icon-time"></i> Latest News</a>
+  <div class="title"><i class="icon-check"></i> Top News</div>
+</div>
 <table cellspacing="8" cellpadding="0" border="0" style="padding:10px 0" class="topnews-right">
 	<tbody><tr>
-		<td style="width:25%;" id="topnews-right-208581"><a href="http://www.digitaljournal.com/article/353290"></a></td>
+		<td style="width:25%;" id="topnews-right-219101"><a href="http://www.digitaljournal.com/article/363327"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353290" href="/article/353290">Obama's South African visit to be overshadowed by protests</a>
+				<a id="la-363327" href="/article/363327">A Spanish wine tops this year’s 100 most popular wines list</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353290"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363327"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208568"><a href="http://www.digitaljournal.com/article/353272"></a></td>
+		<td style="width:25%;" id="topnews-right-219112"><a href="http://www.digitaljournal.com/article/363333"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353272" href="/article/353272">Apple's next-generation devices may include a fingerprint scanner</a>
+				<a id="la-363333" href="/article/363333">Woman begins legal bid to keep dead husband's sperm</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353272"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363333"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208572"><a href="http://www.digitaljournal.com/article/353278"></a></td>
+		<td style="width:25%;" id="topnews-right-219144"><a href="http://www.digitaljournal.com/article/363360"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353278" href="/article/353278">Paypal looks forward to the future with Paypal Galactic</a>
+				<a id="la-363360" href="/article/363360">Interview with Kendall Schmidt from Heffron Drive&nbsp;<span class="xtraeff" title="Includes interview">Special</span></a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353278"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363360"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208566"><a href="http://www.digitaljournal.com/article/353274"></a></td>
+		<td style="width:25%;" id="topnews-right-219104"><a href="http://www.digitaljournal.com/article/363329"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353274" href="/article/353274">Americans believe the Holocaust is a Jewish beach party</a>
+				<a id="la-363329" href="/article/363329">Poll: Most young people would not vote for Obama today</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353274"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363329"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208546"><a href="http://www.digitaljournal.com/article/353248"></a></td>
+		<td style="width:25%;" id="topnews-right-219132"><a href="http://www.digitaljournal.com/article/363351"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353248" href="/article/353248">Time running out for lonely orca Lolita at Miami Seaquarium</a>
+				<a id="la-363351" href="/article/363351">Police wiretaps: Toronto Mayor Rob Ford offered gang members $5,000, car for crack video</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353248"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363351"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208567"><a href="http://www.digitaljournal.com/article/353275"></a></td>
+		<td style="width:25%;" id="topnews-right-219135"><a href="http://www.digitaljournal.com/article/363352"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353275" href="/article/353275">Dakar: Obama comments on Snowden issue</a>
+				<a id="la-363352" href="/article/363352">Ikea Spain server crashed by too many Spanish job seekers</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353275"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363352"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208589"><a href="http://www.digitaljournal.com/article/353302"></a></td>
+		<td style="width:25%;" id="topnews-right-219153"><a href="http://www.digitaljournal.com/article/363364"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353302" href="/article/353302">Spain's Luis Bárcenas gets the 'go to jail' card, with no bail</a>
+				<a id="la-363364" href="/article/363364">Op-Ed: Geneva 2 peace conference may be prelude to a new war in Syria</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353302"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363364"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208578"><a href="http://www.digitaljournal.com/article/353284"></a></td>
+		<td style="width:25%;" id="topnews-right-219098"><a href="http://www.digitaljournal.com/article/363322"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353284" href="/article/353284">Boston Marathon suspect Dzokhar Tsarnaev indicted</a>
+				<a id="la-363322" href="/article/363322">Religious right condemns Al Franken anti-bullying amendment</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353284"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363322"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208594"><a href="http://www.digitaljournal.com/article/353304"></a></td>
+		<td style="width:25%;" id="topnews-right-219148"><a href="http://www.digitaljournal.com/article/363362"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353304" href="/article/353304">Voyager surfs Solar System's edge</a>
+				<a id="la-363362" href="/article/363362">Rob Ford wiretaps released by police suggest Ford also did heroin</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353304"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363362"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208583"><a href="http://www.digitaljournal.com/article/353291"></a></td>
+		<td style="width:25%;" id="topnews-right-219110"><a href="http://www.digitaljournal.com/article/363187"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353291" href="/article/353291">Calgary Flames trade Tanguay, Sarich to Colorado, only one happy</a>
+				<a id="la-363187" href="/article/363187">Federal court allows Obama's Kenya-born uncle to stay in U.S.</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353291"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363187"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208554"><a href="http://www.digitaljournal.com/article/353260"></a></td>
+		<td style="width:25%;" id="topnews-right-219125"><a href="http://www.digitaljournal.com/article/363345"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353260" href="/article/353260">Washington State releases regulations for legal marijuana</a>
+				<a id="la-363345" href="/article/363345">Op-Ed: NSA tracks 5 billion mobile phone calls daily</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353260"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363345"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208591"><a href="http://www.digitaljournal.com/article/353294"></a></td>
+		<td style="width:25%;" id="topnews-right-219133"><a href="http://www.digitaljournal.com/article/363353"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353294" href="/article/353294">Phl basketball fans await visit of Miami Heat coach Spoelstra</a>
+				<a id="la-363353" href="/article/363353">Joe Nichols tops country charts with 'Sunny and 75'</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353294"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363353"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208561"><a href="http://www.digitaljournal.com/article/353267"></a></td>
+		<td style="width:25%;" id="topnews-right-219111"><a href="http://www.digitaljournal.com/article/363324"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353267" href="/article/353267">Researchers may have solved 17th century murder in Virginia</a>
+				<a id="la-363324" href="/article/363324">Journalists may face terrorism charges, jail over Snowden leaks</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353267"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363324"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208570"><a href="http://www.digitaljournal.com/article/353259"></a></td>
+		<td style="width:25%;" id="topnews-right-219095"><a href="http://www.digitaljournal.com/article/363317"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353259" href="/article/353259">No retirement for Roger Federer after Wimbledon early defeat</a>
+				<a id="la-363317" href="/article/363317">Scientists find subtle signals of water on five hot Jupiters</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353259"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363317"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208576"><a href="http://www.digitaljournal.com/article/353286"></a></td>
+		<td style="width:25%;" id="topnews-right-219122"><a href="http://www.digitaljournal.com/article/363341"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353286" href="/article/353286">Missing boy found sleeping in back of wrong car</a>
+				<a id="la-363341" href="/article/363341">WATCH Luis Suarez score the best goal of 2013</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353286"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363341"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208574"><a href="http://www.digitaljournal.com/article/353283"></a></td>
+		<td style="width:25%;" id="topnews-right-219155"><a href="http://www.digitaljournal.com/article/363369"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353283" href="/article/353283">Suspect in fatal motorcycle crash surrenders</a>
+				<a id="la-363369" href="/article/363369">Op-Ed: Housing project at sea, or risky lifestyle for the uber-rich?</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353283"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363369"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208564"><a href="http://www.digitaljournal.com/article/353270"></a></td>
+		<td style="width:25%;" id="topnews-right-219108"><a href="http://www.digitaljournal.com/article/363320"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353270" href="/article/353270">WikiLeaks’ Julian Assange got betrayed by best friend for $5,000</a>
+				<a id="la-363320" href="/article/363320">Fast-food workers in nearly 100 cities plan 'walk off' protest</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353270"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363320"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208560"><a href="http://www.digitaljournal.com/article/353266"></a></td>
+		<td style="width:25%;" id="topnews-right-219116"><a href="http://www.digitaljournal.com/article/363336"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353266" href="/article/353266">Baltasar Garzón has chosen not to represent Edward Snowden</a>
+				<a id="la-363336" href="/article/363336">Bolshoi Ballet star Pavel Dmitrichenko sentenced for acid attack</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353266"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363336"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208562"><a href="http://www.digitaljournal.com/article/353257"></a></td>
+		<td style="width:25%;" id="topnews-right-219136"><a href="http://www.digitaljournal.com/article/363349"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353257" href="/article/353257">269Life Israeli animal rights activists branded for animals (Vid)</a>
+				<a id="la-363349" href="/article/363349">New York critics give film of the year award to 'American Hustle'</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353257"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363349"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208577"><a href="http://www.digitaljournal.com/article/353282"></a></td>
+		<td style="width:25%;" id="topnews-right-219123"><a href="http://www.digitaljournal.com/article/363343"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353282" href="/article/353282">Six-year-old screams about zombies on America's Got Talent</a>
+				<a id="la-363343" href="/article/363343">Making a probiotic chicken to beat food poisoning</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353282"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363343"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208575"><a href="http://www.digitaljournal.com/article/353285"></a></td>
+		<td style="width:25%;" id="topnews-right-219150"><a href="http://www.digitaljournal.com/article/363358"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353285" href="/article/353285">Review: ‘White House Down’ is the right kind of ridiculous&nbsp;<span class="xtraeff" title="Includes first-hand account">Special</span></a>
+				<a id="la-363358" href="/article/363358">Obama cites Pope Francis to attack economic inequality</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353285"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363358"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208585"><a href="http://www.digitaljournal.com/article/353297"></a></td>
+		<td style="width:25%;" id="topnews-right-219126"><a href="http://www.digitaljournal.com/article/363347"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353297" href="/article/353297">Mijas family shooting: Father saw 'no way out' of their situation</a>
+				<a id="la-363347" href="/article/363347">World’s biggest ship enters the water</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353297"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363347"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208571"><a href="http://www.digitaljournal.com/article/353277"></a></td>
+		<td style="width:25%;" id="topnews-right-219089"><a href="http://www.digitaljournal.com/article/363315"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353277" href="/article/353277">'Monsters' still hot; 'The Heat' and 'White House Down' arrive</a>
+				<a id="la-363315" href="/article/363315">Defence of necessity: Nova Scotia drunk driver found not guilty</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353277"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363315"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208586"><a href="http://www.digitaljournal.com/article/353299"></a></td>
+		<td style="width:25%;" id="topnews-right-219109"><a href="http://www.digitaljournal.com/article/363330"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353299" href="/article/353299">Two Ontario toddlers abandoned in cars; one dead, one rescued</a>
+				<a id="la-363330" href="/article/363330">Lady Gaga to begin worldwide 'ARTPOP Tour' next May</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353299"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363330"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208587"><a href="http://www.digitaljournal.com/article/352346"></a></td>
+		<td style="width:25%;" id="topnews-right-219127"><a href="http://www.digitaljournal.com/article/363348"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-352346" href="/article/352346">Memorial service: The worst ever London Underground train crash</a>
+				<a id="la-363348" href="/article/363348">Dr. Dre's streaming music service Beats Music to debut in January</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/352346"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363348"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208573"><a href="http://www.digitaljournal.com/article/353280"></a></td>
+		<td style="width:25%;" id="topnews-right-219115"><a href="http://www.digitaljournal.com/article/363335"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353280" href="/article/353280">Kat Von D Tweets relationship with partner is over</a>
+				<a id="la-363335" href="/article/363335">Celebrity chef Nigella Lawson admits taking cocaine</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353280"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363335"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208543"><a href="http://www.digitaljournal.com/article/353252"></a></td>
+		<td style="width:25%;" id="topnews-right-219099"><a href="http://www.digitaljournal.com/article/363323"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353252" href="/article/353252">Japanese scientists clone mouse from drop of blood</a>
+				<a id="la-363323" href="/article/363323">Biden asked to make case for jailed Chinese dissident</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353252"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363323"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208592"><a href="http://www.digitaljournal.com/article/353276"></a></td>
+		<td style="width:25%;" id="topnews-right-219093"><a href="http://www.digitaljournal.com/article/363318"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353276" href="/article/353276">Review: ‘India: A Dangerous Place to Be a Woman’&nbsp;<span class="xtraeff" title="Includes interview and first-hand account">Special</span></a>
+				<a id="la-363318" href="/article/363318">North Korea shake-up purges Jang Song-thaek, Kim uncle</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353276"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363318"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208534"><a href="http://www.digitaljournal.com/article/353235"></a></td>
+		<td style="width:25%;" id="topnews-right-219121"><a href="http://www.digitaljournal.com/article/363339"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353235" href="/article/353235">Edward Snowden stranded in Moscow airport with invalid passport</a>
+				<a id="la-363339" href="/article/363339">Senior Hezbollah chief shot dead in Lebanon</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353235"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363339"></fb:like>
 		</td>
 	</tr>
 	<tr>
-		<td style="width:25%;" id="topnews-right-208579"><a href="http://www.digitaljournal.com/article/353287"></a></td>
+		<td style="width:25%;" id="topnews-right-219146"><a href="http://www.digitaljournal.com/article/363361"></a></td>
 		<td class="p">
 			<div style="padding-bottom:5px;">
-				<a id="la-353287" href="/article/353287">Woman scares off alleged burglar with toy gun</a>
+				<a id="la-363361" href="/article/363361">'Stab-proof' vest not so safe after all</a>
 			</div>
-			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/353287"></fb:like>
+			<fb:like send="false" action="recommend" layout="button_count" width="100" show_faces="false" href="http://www.digitaljournal.com/article/363361"></fb:like>
 		</td>
 	</tr>
 </tbody></table>
 <script type="text/javascript">
 <!--
-djp.sched_load_alb_imgs('topnews-right-208581 topnews-right-208568 topnews-right-208572 topnews-right-208566 topnews-right-208546 topnews-right-208567 topnews-right-208589 topnews-right-208578 topnews-right-208594 topnews-right-208583 topnews-right-208554 topnews-right-208591 topnews-right-208561 topnews-right-208570 topnews-right-208576 topnews-right-208574 topnews-right-208564 topnews-right-208560 topnews-right-208562 topnews-right-208577 topnews-right-208575 topnews-right-208585 topnews-right-208571 topnews-right-208586 topnews-right-208587 topnews-right-208573 topnews-right-208543 topnews-right-208592 topnews-right-208534 topnews-right-208579');
+djp.sched_load_alb_imgs('topnews-right-219101 topnews-right-219112 topnews-right-219144 topnews-right-219104 topnews-right-219132 topnews-right-219135 topnews-right-219153 topnews-right-219098 topnews-right-219148 topnews-right-219110 topnews-right-219125 topnews-right-219133 topnews-right-219111 topnews-right-219095 topnews-right-219122 topnews-right-219155 topnews-right-219108 topnews-right-219116 topnews-right-219136 topnews-right-219123 topnews-right-219150 topnews-right-219126 topnews-right-219089 topnews-right-219109 topnews-right-219127 topnews-right-219115 topnews-right-219099 topnews-right-219093 topnews-right-219121 topnews-right-219146');
 //-->
 </script>
 
 
 
-<div class="headerbar clearfix"><div class="title"><i class="icon-group"></i> Social</div></div>
-<div style="padding-bottom:10px;">
-	<fb:activity site="digitaljournal.com" border_color="white" width="300" height="300" recommendations="true"></fb:activity>
-</div>
 <div class="headerbar clearfix"><div class="title"><i class="icon-thumbs-up"></i> Engage</div></div>
 <div style="padding-bottom:10px;">
 	<fb:like-box href="http://www.facebook.com/digitaljournal" width="292" show_faces="true" border_color="white" stream="false" header="false"></fb:like-box>
@@ -629,6 +645,10 @@ djp.sched_load_alb_imgs('topnews-right-208581 topnews-right-208568 topnews-right
 	djp.ga_fill("300x250-Big-Box-BTF");
 	</script>
 	<div class="p tar small"><a href="/advertise.php">Buy an ad on DigitalJournal.com</a></div>
+</div>
+
+<div style="margin-bottom: 10px">
+  <a href="http://www.digitaljournal.com/article/359949"><img src="/images/contestad-20131202.jpg" border="0"></a>
 </div>
 
 </td>
