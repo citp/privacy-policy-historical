@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latestfreestuff.co.uk privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513085531id_/http%3A//www.latestfreestuff.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestfreestuff.co.uk privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205221256id_/http%3A//www.latestfreestuff.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LatestFreeStuff.co.uk
 
