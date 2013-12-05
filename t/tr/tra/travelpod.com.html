@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the travelpod.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629170603id_/http%3A//www.travelpod.com/help/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the travelpod.com privacy policy that was archived on 2013-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205053441id_/http%3A//www.travelpod.com/help/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="modern" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]--><head>    <title>Privacy Policy .</title> 
 
     <link rel="icon" href="http://images.travelpod.com/favicon.ico">
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">   <link rel="stylesheet" href="http://images.travelpod.com/css/combined/base_old:dashboard::jquery-ui-1.7.2.custom:blog::blog:boilerplate::helpers:1372362338.css" type="text/css" media="screen,print"> <!--[if IE]><link href="http://www.travelpod.com/css/blog/ie.css?v=1332513748" media="all" rel="stylesheet" type="text/css" ><![endif]-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">   <link rel="stylesheet" href="http://images.travelpod.com/css/combined/base_old:dashboard::jquery-ui-1.7.2.custom:blog::blog:boilerplate::helpers:1383862677.css" type="text/css" media="screen,print"> <!--[if IE]><link href="http://www.travelpod.com/css/blog/ie.css?v=1332513748" media="all" rel="stylesheet" type="text/css" ><![endif]-->
 <!--[if IE 6]><link href="http://www.travelpod.com/css/blog/ie6.css?v=1284581423" media="all" rel="stylesheet" type="text/css" ><![endif]-->
 <!--[if IE 7]><link href="http://www.travelpod.com/css/blog/ie7.css?v=1284581423" media="all" rel="stylesheet" type="text/css" ><![endif]-->
 <style type="text/css">
@@ -46,6 +46,7 @@
                             autoOpen: false,
                             width: '90%',
                             height: $(window).height() * 0.70,
+                            dialogClass: " tp-page-overlay",
                             open: function () {
                                 TP.PageOverlay.div.dialog('option','title',TP.PageOverlay.defaultTitle);
                                 TP.PageOverlay.div.dialog('height', $(window).height() * 0.90);
@@ -89,10 +90,17 @@
                         }
                     }
                 },
-                open: function (url) {
+                open: function (url, options) {
                     if (!TP.PageOverlay.div) TP.PageOverlay.init();
                     TP.PageOverlay.$iframe.attr('src', url);
                     TP.PageOverlay.div.dialog('open');
+
+                    // Permit for some customization of the dialog box.
+                    var dialogClass = "tp-page-overlay";
+                    if (typeof options != "undefined" && typeof options.extra_classes != "undefined") {
+                        dialogClass += " " + options.extra_classes;
+                    }
+                    TP.PageOverlay.div.dialog('option', 'dialogClass', dialogClass);
                 },
                 close: function () {
                     TP.PageOverlay.div.dialog('close');
@@ -112,7 +120,7 @@ try{TP.JS_Blocks[0]=true;}catch(e){}
     <div class="row clearfix">
         <!-- Logo & tagline -->
         <div class="branding">
-            <a href="http://www.travelpod.com"><img id="logo" alt="Travel Blog" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGwAAAAWCAMAAAASAYlYAAAAYFBMVEXb29v////BwcHx8fH9/f1zc3P////t7e3Y2Nj8/PwAAADj4+P////19fX9/f3+/v77+/utra3p6ekAAAAAAADx8fEAAAD19fUAAADp6en+/v77+/sAAADv7+8AAAD///+sGbsoAAAAH3RSTlOBVWm7ijgRrCOtIJC7nDN440ttJxdKBccNV/DSM4QADJEHyQAAAmdJREFUeF69k+uOozAMRmm5XhpIQppkk479/m+5thWEOkNnZne0e34gfRh8kHEq+BEPIn73UVdtjyci/BFI/AK3SZdt+syL+FYFfOL+NzIbNBK5N9O/l73hTu/+h4zD5Yao/Gey5kbIFG7M8rcyYUQcPpNJkDmA8CPZgmi/K+ONAj/RBaLbynq5ByHD2aROtYlrzn+QSUcAv78rSKLwXkaXEE2fAmxWhYS6vk7QIGH4Ld6lDDBde42Y5zZ+kEWWOaMyou7pXSK2SiPW1p3JTKILhGO9FiRmkg2cV5j6UtLmvcxbxLubsdCTzVM/YT6RZdYEaFAQTeY7HsBy7FyNO9o9ybxrM2pPLl6zZSRbBHKli6QTmXCDZb0Prp0ppLgiMQAoSiNUFPIAHafqkNHvbCuNeDGICgRFJV9jWiSNp7JxgQ7AtXYOgfMi47PgNYWLzxQMt5YJ7LJCsqRIHQhdwn7gwQvLmSwDM83pOOY8gh4MNwM2HxyyRMVxJU3GEQojaou4lHQme+PMP+aQWZkmP9PA/YUMdkqH0pUrX8lmzusAIuN5IBr2L8+y9B2Z/0qWZXDgRSargXOSEYu/hcKJLGNd2vsas0U0IMSXMo6z96bIeHZBDln5js3FGJ07kylMLQgtYrNwH0nmpUzLmTVZZJKFDsppC9X1amd1JqP29RYB4lbzgcnkLumVbMVCkTUSxrJjO8mfyPjZQGfjGhCtDEXbx8ME1K9kXUYm5yIbJF5Aagp3hhMZ2worJ1uCDbtsPWQriG29YV47vm/3jUlQuDccb8p2ZV3XQyZ1pRFzM4CwqIRJLTDi+hvIawDDLVCDfQAAAABJRU5ErkJggg==" width="108" height="22"></a> The web's original travel blog </div>
+            <a href="http://www.travelpod.com"><img id="logo" alt="Travel Blog" src="http://images.travelpod.com/bin/header/travel-blog.png" width="108" height="22"></a> The web's original travel blog </div>
         <!-- Main navigation -->
         <ul class="nav"> <script>
         var page_self_url = '/help/privacypolicy';
@@ -266,11 +274,11 @@ try{TP.JS_Blocks[0]=true;}catch(e){}
 </div>  <div style="padding:0 50px">
 Not looking for the terms of use? Check out these hotel destinations to find some travel inspiration:
 <div style="padding-top:10px;font-size:0.85em">
-<div style="float:left">   <a href="/hotels/Amsterdam.html" title="Amsterdam Hotels">Amsterdam Hotels</a><br>   <a href="/hotels/Atlanta.html" title="Atlanta Hotels">Atlanta Hotels</a><br>   <a href="/hotels/Bandung.html" title="Bandung Hotels">Bandung Hotels</a><br>   <a href="/hotels/Bangkok.html" title="Bangkok Hotels">Bangkok Hotels</a><br>   <a href="/hotels/Barcelona.html" title="Barcelona Hotels">Barcelona Hotels</a><br>   <a href="/hotels/Beijing.html" title="Beijing Hotels">Beijing Hotels</a><br>   <a href="/hotels/Berlin.html" title="Berlin Hotels">Berlin Hotels</a><br>   <a href="/hotels/Budapest.html" title="Budapest Hotels">Budapest Hotels</a><br>   </div>
-<div style="float:left; padding-left:20px">  <a href="/hotels/Chicago.html" title="Chicago Hotels">Chicago Hotels</a><br>   <a href="/hotels/Dubai.html" title="Dubai Hotels">Dubai Hotels</a><br>   <a href="/hotels/Hammamet.html" title="Hammamet Hotels">Hammamet Hotels</a><br>   <a href="/hotels/Hong_Kong.html" title="Hong Kong Hotels">Hong Kong Hotels</a><br>   <a href="/hotels/Honolulu.html" title="Honolulu Hotels">Honolulu Hotels</a><br>   <a href="/hotels/Istanbul.html" title="Istanbul Hotels">Istanbul Hotels</a><br>   <a href="/hotels/Jakarta.html" title="Jakarta Hotels">Jakarta Hotels</a><br>   <a href="/hotels/Kuala_Lumpur.html" title="Kuala Lumpur Hotels">Kuala Lumpur Hotels</a><br>   </div>
+<div style="float:left">   <a href="/hotels/Amsterdam_Netherlands.html" title="Amsterdam Hotels">Amsterdam Hotels</a><br>   <a href="/hotels/Atlanta.html" title="Atlanta Hotels">Atlanta Hotels</a><br>   <a href="/hotels/Bandung.html" title="Bandung Hotels">Bandung Hotels</a><br>   <a href="/hotels/Bangkok.html" title="Bangkok Hotels">Bangkok Hotels</a><br>   <a href="/hotels/Barcelona.html" title="Barcelona Hotels">Barcelona Hotels</a><br>   <a href="/hotels/Beijing.html" title="Beijing Hotels">Beijing Hotels</a><br>   <a href="/hotels/Berlin.html" title="Berlin Hotels">Berlin Hotels</a><br>   <a href="/hotels/Budapest.html" title="Budapest Hotels">Budapest Hotels</a><br>   </div>
+<div style="float:left; padding-left:20px">  <a href="/hotels/Chicago_IL.html" title="Chicago Hotels">Chicago Hotels</a><br>   <a href="/hotels/Dubai.html" title="Dubai Hotels">Dubai Hotels</a><br>   <a href="/hotels/Hammamet.html" title="Hammamet Hotels">Hammamet Hotels</a><br>   <a href="/hotels/Hong_Kong.html" title="Hong Kong Hotels">Hong Kong Hotels</a><br>   <a href="/hotels/Honolulu.html" title="Honolulu Hotels">Honolulu Hotels</a><br>   <a href="/hotels/Istanbul.html" title="Istanbul Hotels">Istanbul Hotels</a><br>   <a href="/hotels/Jakarta.html" title="Jakarta Hotels">Jakarta Hotels</a><br>   <a href="/hotels/Kuala_Lumpur.html" title="Kuala Lumpur Hotels">Kuala Lumpur Hotels</a><br>   </div>
 <div style="float:left; padding-left:20px">  <a href="/hotels/Kuta.html" title="Kuta Hotels">Kuta Hotels</a><br>   <a href="/hotels/Las_Vegas.html" title="Las Vegas Hotels">Las Vegas Hotels</a><br>   <a href="/hotels/London.html" title="London Hotels">London Hotels</a><br>   <a href="/hotels/Los_Angeles.html" title="Los Angeles Hotels">Los Angeles Hotels</a><br>   <a href="/hotels/Madrid.html" title="Madrid Hotels">Madrid Hotels</a><br>   <a href="/hotels/Marrakech.html" title="Marrakech Hotels">Marrakech Hotels</a><br>   <a href="/hotels/Miami_Beach.html" title="Miami Beach Hotels">Miami Beach Hotels</a><br>   <a href="/hotels/Montreal.html" title="Montreal Hotels">Montreal Hotels</a><br>   </div>
-<div style="float:left; padding-left:20px">  <a href="/condos/Myrtle_Beach.html" title="Myrtle Beach Condos">Myrtle Beach Condos</a><br>   <a href="/hotels/New_Orleans.html" title="New Orleans Hotels">New Orleans Hotels</a><br>   <a href="/hotels/New_York_City.html" title="New York City Hotels">New York City Hotels</a><br>   <a href="/hotels/Orlando.html" title="Orlando Hotels">Orlando Hotels</a><br>   <a href="/hotels/Paris.html" title="Paris Hotels">Paris Hotels</a><br>   <a href="/resorts-all-inclusive/Puerto_Plata.html" title="Puerto Plata Resorts All-Inclusive">Puerto Plata Resorts All-Inclusive</a><br>   <a href="/resorts-all-inclusive/Punta_Cana.html" title="Punta Cana Resorts All-Inclusive">Punta Cana Resorts All-Inclusive</a><br>   <a href="/hotels/Rome.html" title="Rome Hotels">Rome Hotels</a><br>   </div>
-<div style="float:left; padding-left:20px">  <a href="/hotels/San_Diego.html" title="San Diego Hotels">San Diego Hotels</a><br>   <a href="/hotels/San_Francisco.html" title="San Francisco Hotels">San Francisco Hotels</a><br>   <a href="/hotels/Singapore.html" title="Singapore Hotels">Singapore Hotels</a><br>   <a href="/hotels/Sydney.html" title="Sydney Hotels">Sydney Hotels</a><br>   <a href="/hotels/Toronto.html" title="Toronto Hotels">Toronto Hotels</a><br>   <a href="/hotels/Venice.html" title="Venice Hotels">Venice Hotels</a><br>   <a href="/hotels/Washington_DC.html" title="Washington DC Hotels">Washington DC Hotels</a><br>   <a href="/hotels/Yogyakarta.html" title="Yogyakarta Hotels">Yogyakarta Hotels</a><br>  </div>
+<div style="float:left; padding-left:20px">  <a href="/condos/Myrtle_Beach.html" title="Myrtle Beach Condos">Myrtle Beach Condos</a><br>   <a href="/hotels/New_Orleans.html" title="New Orleans Hotels">New Orleans Hotels</a><br>   <a href="/hotels/New_York_City.html" title="New York City Hotels">New York City Hotels</a><br>   <a href="/hotels/Orlando.html" title="Orlando Hotels">Orlando Hotels</a><br>   <a href="/hotels/Paris.html" title="Paris Hotels">Paris Hotels</a><br>   <a href="/resorts-all-inclusive/Puerto_Plata.html" title="Puerto Plata Resorts All-Inclusive">Puerto Plata Resorts All-Inclusive</a><br>   <a href="/resorts-all-inclusive/Punta_Cana.html" title="Punta Cana Resorts All-Inclusive">Punta Cana Resorts All-Inclusive</a><br>   <a href="/hotels2/Rome.html" title="Rome Hotels">Rome Hotels</a><br>   </div>
+<div style="float:left; padding-left:20px">  <a href="/hotels2/San_Diego.html" title="San Diego Hotels">San Diego Hotels</a><br>   <a href="/hotels/San_Francisco.html" title="San Francisco Hotels">San Francisco Hotels</a><br>   <a href="/hotels/Singapore.html" title="Singapore Hotels">Singapore Hotels</a><br>   <a href="/hotels/Sydney.html" title="Sydney Hotels">Sydney Hotels</a><br>   <a href="/hotels/Toronto.html" title="Toronto Hotels">Toronto Hotels</a><br>   <a href="/hotels/Venice.html" title="Venice Hotels">Venice Hotels</a><br>   <a href="/hotels/Washington_DC.html" title="Washington DC Hotels">Washington DC Hotels</a><br>   <a href="/hotels/Yogyakarta.html" title="Yogyakarta Hotels">Yogyakarta Hotels</a><br>  </div>
 <div style="clear:both; height:20px"></div>
 </div>
 </div> </div>
@@ -292,7 +300,7 @@ Not looking for the terms of use? Check out these hotel destinations to find som
         </div>
         <script>if (top.location.href != window.location.href) document.write('</div>');</script>
     </center>
-    <!-- END FOOTER --> <!-- SCRIPT INCLUDES -->   <script src="http://images.travelpod.com/includes/combined/cookies:search:header:jquery-ui-1.8.8.core-dp-dialog-slider:1372362338.js" type="text/javascript"></script><script type="text/javascript">
+    <!-- END FOOTER --> <!-- SCRIPT INCLUDES -->   <script src="http://images.travelpod.com/includes/combined/cookies:search:header:jquery-ui-1.8.8.core-dp-dialog-slider:1383862677.js" type="text/javascript"></script><script type="text/javascript">
 /* ----- LOAD OK ----- */
 try{TP.JS_Bundle=true;}catch(e){}
 /* ----- EOF ----- */
@@ -304,5 +312,5 @@ try{TP.JS_Bundle=true;}catch(e){}
     </script>  
     <script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
     <script type="text/javascript">try { var pageTracker = _gat._getTracker("UA-84539-1"); pageTracker._setDomainName("none"); pageTracker._setAllowLinker(true); pageTracker._trackPageview(); pageTracker._trackPageLoadTime(); } catch(e) {}</script>
-    <!-- web12 @ 36.2ms -->      
+    <!-- web12 @ 31.5ms -->      
 </body></html>
