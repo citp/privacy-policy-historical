@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logogarden.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605082524id_/http%3A//www.logogarden.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logogarden.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205183806id_/http%3A//www.logogarden.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy – LogoGarden.com
 
