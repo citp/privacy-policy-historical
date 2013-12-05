@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddlsite.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630072808id_/http%3A//www.ddlsite.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddlsite.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205080118id_/http%3A//www.ddlsite.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DDLSite - Privacy Policy
 
