@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529204614id_/http%3A//www.landsend.com/customerservice/legal_policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205092847id_/http%3A//www.landsend.com/customerservice/legal_policies/privacy) for the most accurate reproduction.*
 
 # Lands' End | Customer Service | Legal Policies | Privacy
 
@@ -36,7 +36,7 @@ If you first became a Lands' End customer through a transaction with our parent 
 
 For more about your privacy at Lands' End, please call us toll-free at 1-800-800-5800 or email us, including your name and mailing address, at [myprivacy@landsend.com](mailto:myprivacy@landsend.com).
 
-Along with respecting your privacy, Lands' End diligently strives to keep your personal information safe and secure. (Please see our [Security Policy.)](https://web.archive.org/web/20130529204614id_/http%3A//www.landsend.com/customerservice/security/)
+Along with respecting your privacy, Lands' End diligently strives to keep your personal information safe and secure. (Please see our [Security Policy.)](https://web.archive.org/web/20131205092847id_/http%3A//www.landsend.com/customerservice/security/)
 
 #### What are cookies?
 
