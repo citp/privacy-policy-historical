@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the socisynd.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615161033id_/http%3A//socisynd.com/privicypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socisynd.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205073535id_/http%3A//socisynd.com/privicypolicy.html) for the most accurate reproduction.*
 
 # SociSynd
-
-**PRIVACY POLICY**
-
-Last updated 20th March 2013
 
 SociSynd.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
@@ -36,7 +32,8 @@ SociSynd.com does not knowingly collect or solicit Personally Identifiable Infor
 
 Changes to this Policy
 
-SociSynd.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.  
+SociSynd.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+
 Disclaimer - Compensation and Affiliate
 
 The purpose of this section is to establish any compensatory affiliation with numerous companies whose products are being promoted on this site.
@@ -47,17 +44,6 @@ Marketing Affiliate and receives compensation for sales of numerous products and
 
 SociSynd.com often receives compensation in the form of free promotional products or cash or cash equivalent for the purposes of reviewing numerous products and services found on this site, for numerous companies whose products are being promoted on this site.
 
-EARNINGS DISCLAIMER AND FORWARD LOOKING STATEMENTS
-
-Every effort has been made to accurately represent numerous products and services found on this site and it’s potential. However, there is no guarantee that you will earn any money using numerous products and services found on this site, the techniques or ideas in these materials. Examples in these materials are not to be interpreted as a promise or guarantee of earnings in any way. Earning potential is entirely dependent on the person using these products, ideas and techniques and we do not purport this as a “get rich scheme.”
-
-Your level of success in attaining the results claimed in our materials depends on the time you devote to the program, ideas and techniques mentioned, your finances, previous knowledge and various skills.
-
-Since these factors differ according to individuals, we cannot guarantee your success or income level. Nor are we responsible for any of your actions.
-
-Materials in the product and on our website may contain information that includes or is based upon forward-looking statements within the meaning of the Securities Litigation Reform Act of 1995. Forward-Looking Statements give our expectations or forecasts of future events. You can identify these statements by the fact that they do not relate strictly to historical or current facts. Such Forward Looking Statements use words such as “anticipate,” “estimate,” “expect,” “project,” “intend,” “plan,” “believe,” and other such words and terms of similar meaning in connection with a description of potential earnings or financial performance. Your Results May Vary from ours and those of anyone else who is, or will be using these products, techniques, and/or services.
-
-Any and all forward looking statements here or on any of our sales material are intended to express our opinion of earnings potential not actual earnings expected. Many factors will be important in determining your actual results and no guarantees are made, expressed or implied that you will achieve results similar to ours or anybody else’s. In fact no guarantees are made that you will achieve any results from our ideas and techniques in our material at all. All materials on this site are © copyrighted by SociSynd.com. No part of this may be copied, or changed in any format, sold, or used in any way, online or offline, other than what is outlined within this site, under any circumstances without express permission from SociSynd.com  
 DMCA Disclaimer
 
 SociSynd.com respects the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please follow our Notice and Procedures for Making Claims of Copyright Infringement below.
