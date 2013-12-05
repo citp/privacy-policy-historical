@@ -1,52 +1,98 @@
-> *The following text is extracted and transformed from the youbeauty.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118223842id_/http%3A//www.youbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbeauty.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205183441id_/http%3A//www.youbeauty.com/privacy) for the most accurate reproduction.*
 
 # YouBeauty.com - Privacy
 
-Last Updated February 2, 2011
+Last Amended May 20, 2013
 
-YouDocs Beauty, Inc. (the parent company of this service; hereafter “YouBeauty”) respects and appreciates your interest in the privacy of your personal information. As such, we take the policies and practices covered below very seriously. In order to fully understand how your information is used and shared on the site (hereafter “Site” or “Service”), we recommend that you read this policy (“The YouBeauty Privacy Policy”) in its entirety.
+YouDocs Beauty, Inc. (the parent company of this service) and its subsidiaries and affiliated entities (collectively, "YouBeauty", "we", "us", or "our") respect the privacy of your personal information, and we are committed to protecting the information you share with us. So that you may fully understand how we collect, use, share, and protect information about you, as well as how you may make choices regarding information that you share with us, please read this privacy policy statement (the "Privacy Policy") in its entirety. This Privacy Policy applies to information about you that we collect through our websites (the "Sites"). **Please note that by visiting our Sites or using our services, you acknowledge that you have read this Privacy Policy and accept the terms and practices described herein.** IF YOU DO NOT CONSENT TO OUR PRIVACY PRACTICES AS DESCRIBED IN THIS PRIVACY POLICY, PLEASE DO NOT USE OR ACCESS OUR SITES. We will not use your information in a manner inconsistent with the practices set forth in this Privacy Policy without your permission. This Privacy Policy includes and incorporates our [Terms of Service](https://web.archive.org/terms).
 
-In order to use certain services of YouBeauty, such as creating a profile, adding comments, or asking questions on Youtalk, you must register. As part of the registration process, we require your email address. Nobody under the age of 13 is permitted to register. By not registering, you understand that certain features and services may not be available to you.
+### What Information Do We Collect?
 
-### Advertising
+  * **Personally Identifiable Information That You Provide to Us:** When you visit one of our Sites and use our services, we may collect and/or store personally identifiable information, which is information that identifies you personally (such as your name, address, telephone number, email address or date of birth), that you provide to us. 
 
-We use a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please [click here](http://www.google.com/intl/en/policies/privacy/).
+Here are a few examples of how we may collect and store your personally identifiable information: 
 
-### The Information We Collect
+    * If you choose to register with one of our Sites, we may collect and store your email address, zip code, date of birth, and communications preferences.
+    * If you make a purchase, we may collect and store your address, first and last name, and payment card information for the purpose of completing your transaction.
+    * If you participate in one of our online quizzes, we may collect and store the information you voluntarily disclose to us while taking the quiz.
+    * If you post or upload information to any public areas of our Sites, such as product review sections and community forums, or if you correspond with any of our experts, we may collect and store the information you voluntarily disclose to us. *
+* Please note that some of our Sites feature public forums areas where users with similar interests or medical conditions can share information and support one another or where users can post questions for experts to answer. Our communities require registration but are viewable to the public and should not be considered private. Thus, any information you voluntarily disclose, upload, or share online on any of our Sites (including personal information such as personal medical information) is open to the public and is therefore not private. Please think carefully before posting any personal information in any public forum area of our Sites (e.g., customer reviews, comments to articles, sharing of data on social media platforms, such as Facebook, Pinterest, or Twitter, and postings to discussion boards, blogs, articles, etc., related to our Sites). Remember that what you post can be seen, disclosed to, or collected by third parties and may be used by others in ways we cannot control or predict, including use of your information to contact you for unauthorized purposes. Such posted information may also appear in search engine results generated by Yahoo, Google, Bing, MSN, and others. 
+  * **Non-Personally Identifiable Information Collected and/or Stored When You Use Our Sites or services:** We may collect or store non-personally identifiable information, which consists of technical information or demographic information, such as age, zip code, gender, or interests. Please note, however, that non-personally identifiable information does not identify you personally. 
 
-  * We collect personal information for the purpose of offering a personalized, enjoyable experience. We do not collect information unless it is relevant to the primary purpose of the related YouBeauty Site or Service.
-  * We may use Web Beacons to collect Non-Personal Information about your use of any YouBeauty Site or Service and the sites or services of selected sponsors and advertisers, and your use of special promotions or newsletters. The information collected by Web Beacons (i) allows us to statistically monitor how many people are using our website and selected sponsors’ and advertisers’ sites, (ii) how many people open our emails/newsletters, and (iii) for what purposes these actions are being taken.
-  * We collect personal information that you provide directly to us. Any information entered by you on any YouBeauty Site or Service will be stored by us. We utilize this personal information to respond to your questions, provide you with specific services and feedback you request, send you emails about site maintenance and updates, and in other ways that may be deemed necessary for your enjoyment of the Site or Service.
-  * We collect information about your usage of YouBeauty Sites or Services. As such, we may include on any page various metrics/data collection tools that illustrate your activity on the Site (such as uploads, feedback, etc.)
-  * Any personal information or content that you voluntarily disclose or upload to the Site will become publicly available and, as such, can be collected and used by others.
-  * We use cookies to store information so that your information will not have to be re-entered upon re-visiting the Site. Cookies will also enable us to provide personalized content information, monitor our own marketing campaigns, and track your entries and submissions on our site.
+Here are a few examples ways we collect and/or store non-personally identifiable information through our Sites: 
 
-
-
-### Other Sharing of Information
-
-We neither rent nor sell your personal information to anyone. We share your information only with the entities as described below:
-
-  * Affiliates – YouBeauty is affiliated with a variety of businesses. We will only share information that is necessary for the affiliate to compete a process (a transaction, for example). We require our affiliates to provide the same level of privacy protection that we do.
-  * Agents – YouBeauty may employ other companies to perform tasks on our behalf (such as Customer Service), and as such, may need to share some of your information with them.
-  * Promotions – We may send promotional offers to registered users on behalf of other businesses. However, we will never provide these businesses with your address or phone number, and you can cancel the receipt of these offers by emailing us at legal@youbeauty.com.
-  * Business Transfers – In the case of YouBeauty acquiring or selling assets, personal customer information will be considered a core business asset and as such, we retain the right to transfer this information as part of any such transaction.
-  * Newsletters & Emails – At various times as you use a YouBeauty Site or Service, you will be given the option of receiving recurring informational/promotional newsletters via email from YouBeauty and/or directly from third parties. You can unsubscribe from any newsletter at any time by simply following the directions included at the bottom of each email newsletter your receive from YouBeauty.
-  * Corporate Responsibility – We retain the right to release personal information when it is reasonably believed that release is necessary to comply with the law. We may also do so in the case of enforcing our Terms of Service (or other agreements), or protecting the rights, property, or safety of YouBeauty, the users of any YouBeauty Sites or Services, our employees, or others.
+    * We may collect or store technical information regarding your computer or mobile device, such as your browser type and operating system, location, time zone, and Internet Service Provider as well as Internet Protocol (IP) address.
+    * We may use web beacon technology to help us determine (i) the effectiveness of certain promotional and advertising campaigns, (ii) the number of visits to pages on our Sites, and (iii) information concerning webpages you view, links you click, and sites you visit before or after accessing our Sites, including how you were directed to those sites and how you navigate those sites.
+    * We may use cookies to collect information regarding your activity on our Sites, including whether you are logged in or have already authenticated yourself by previously logging in. You may configure the settings of your online browser to notify you of cookies or to reject and block cookies; however, please note that if you select these options, some features of our website may not be available to you.
+For more information regarding our use of cookies and web beacons, please see below. 
+  * **Information from Other Sources:** In addition to the personally identifiable and non-personally identifiable information we collect and store when you visit one of our Sites, we may also obtain information about you from affiliated companies, business partners, and other publicly and commercially available sources (such as data aggregators). The information we receive from these sources may include demographic data, credit information, and purchasing history. 
 
 
 
-### Communities, Blogs, and other Public Forums
+### How Do We Use and/or Share Your Information?
 
-YouBeauty features several youtalk areas and other public forums where users with similar interests or medical conditions can share information and support one another or where users can post questions for experts to answer. Our communities are open to the public and should not be considered private.
+We collect and store personally identifiable information for the primary purpose of offering a personalized, enjoyable experience, and we do not collect such information unless we believe it is relevant to this purpose. With this purpose in mind, we may use your personally identifiable information to respond to your questions, communicate with you about products and services, provide you with specific services and feedback, send you emails about site maintenance and updates, administer and manage our Sites, analyze the use of our products and services, provide you with any other information that we deem necessary for or pertinent to your enjoyment of our Sites or services, and for any other lawful purpose. If you choose to register with one of our Sites, we may also send you electronic correspondence from the site with which you registered or one of our sister sites (for more information regarding choices you have regarding our use of your information, including communications preferences, please see below). 
 
-Any information you share in any online youtalk area such as “YouGroups” (including personal information or personal medical information) is open to the public and not private. You should think carefully before posting any personal information in any public forum. What you post can be seen, disclosed to or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes. Such posted information may also appear in search engine results generated by Yahoo, Google, Bing, MSN, and others.
+In addition to the foregoing, we use your information as follows: 
 
-### Security of Information/Password
+  * **Cookies:** We use cookies to store information so that you do not have to re-enter your information upon revisiting one of our Sites. Cookies also enable us to provide personalized content, monitor our marketing campaigns, and track your entries and submissions to our Sites. 
+  * **Web Beacons and Similar Technologies:** We use web beacons to statistically monitor how many people are using our Site and selected sponsors’ and advertisers’ sites, determine how many people open our emails/newsletters, and ascertain for what purposes these actions are being taken. 
+  * **Payment Cards:** When an order is placed on one of our Sites, we collect payment card information for the purpose of verifying your order, completing the transaction, and responding to any questions you may have. When required, we also share this information with certain intermediaries (e.g., product manufacturers and/or shipping companies) strictly for the purpose of processing, fulfilling, and shipping your order. 
+  * **Third Party Advertising:** We use a third-party advertising company to serve advertisements when you visit one of our Sites. This company may use information (not including your name, address, email address or telephone number) about your visit to this Site to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to our Sites, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice as well as your choices about not having this information used by this company, please [click here](http://www.google.com/intl/en/policies/privacy/). 
+  * **Other Sharing of Information:** We do not rent, lease, or sell to, or otherwise share your personal information with, any third party except as otherwise described below: 
+    * **Affiliates** We are affiliated with a variety of businesses. We will only share information that is necessary for an affiliate to complete a process (a transaction, for example). We require our affiliates to provide the same level of privacy protection that we do. 
+    * **Agents:** We may employ other companies to perform tasks on our behalf (such as Customer Service services), and so that these companies may perform these tasks, we may need to share some of your information with these providers. 
+    * **Promotions:** We may send promotional offers to registered users on behalf of other businesses. For further information regarding the choices you have with respect to third party promotions, please see below. 
+    * **Business Transfers:** In the case of YouBeauty acquiring or selling assets, personal customer information will be considered a core business asset, and thus, we retain the right to transfer this information as part of any such business transaction. 
+    * **Newsletters & Emails:** At various times, as you use one of our Sites or services, you will be given the option of receiving recurring informational/promotional newsletters via email from YouBeauty and/or directly from third parties. For information regarding unsubscribing from newsletters and emails, please see below. 
+    * **Corporate Responsibility:** We retain the right to release personal information when it is reasonably believed that release is necessary to comply with the law. We may also do so in the case of enforcing our [Terms of Service](https://web.archive.org/terms) (or other agreements), or protecting the rights, property, or safety of YouBeauty, the users of any YouBeauty Sites or services, our employees, or others. 
 
-We recommend you always keep your password private and secure. It is also recommended that, when using a shared computer, you completely log off from our site in order to prevent unauthorized access to your password.
 
-If you have any questions about this Privacy Policy, please contact us at the following addresses:
+
+### How Do We Protect Your Information?
+
+We work to protect your information by implementing appropriate technical, administrative, and physical procedures to prevent personal information from being lost, misused, or altered. Employees of YouBeauty who need access to personal information for the purpose of performing specific jobs are granted access to personal information. Employees violating consumer privacy safeguards, however, are subject to disciplinary action, up to and including termination.
+
+When we share your information with third party service providers (as described above), we provide third parties with only the information necessary for them to perform their respective service. As previously indicated, we require these third parties to protect your information in the same manner as we do, and they may not to use your information for any unauthorized purpose. We cannot, however, ensure or guarantee of the security of any information you send to us, and you do so at your own risk.
+
+Finally, in furtherance of the protection of your personal information, we recommend you always keep your password private and secure. We also recommend that you completely log off from our Site(s) to prevent unauthorized access to your password when using a shared computer.
+
+### What Choices Do You Have Regarding Your Information?
+
+You may change certain personal information or request that we delete your personal information by:
+
+  * **Email:** Sending an email to us at [legal@youbeauty.com](mailto:legal@youbeauty.com).
+  * **Regular Mail:** Providing written notification to us by mail at the address in the " **Contact Us** " section below.
+
+
+
+In each case, please include your current contact information and your requested changes. We will make the changes you request or provide an explanation of what actions we will be able to make in response to your request. If you request that we delete your personal information, we may need to retain a record of certain personal information to comply with applicable federal, state, or local law. Additionally, please note that at any time you can unsubscribe from any email by simply following the directions included at the bottom of each email newsletter you receive from YouBeauty.
+
+Finally, with respect to third party promotions, we do not provide these businesses with your address or phone number, and you can cancel the receipt of these third party promotions by emailing us at [legal@youbeauty.com](mailto:legal@youbeauty.com). Please note, however, that if you have provided the third party with your information directly, then you must contact the third party, rather than YouBeauty, to cancel receipt of these promotions.
+
+### How Can You Correct or Update Your Personal Information?
+
+You may correct or update your personal information by logging into your account and then entering or updating that information.
+
+### What Other Policies Should You Be Aware of Concerning Your Information?
+
+  * **Account.** To use certain services of YouBeauty, such as creating a profile, adding comments, writing reviews, and participating in panels on YouBeauty, you must register for an account. As part of the registration process, we require your email address, birth date, a username, and a password. If you do not register, you understand that certain features and services may not be available to you. Additionally, as indicated below, if you are under the age of 13, you are not permitted to register.
+
+You are responsible for maintaining the confidentiality of your password and account, and you are responsible for any activities that occur under your account. You agree to notify us immediately of any unauthorized use of your account or other breach of security known to you.
+
+  * **Information About Children.** We respect and value the privacy of children, and our Sites are not intended for use by children under the age of 13. We do not knowingly collect or use personally identifiable information from children under the age of 13. Further, individuals under the age of 13 are not permitted to register on our Sites.
+
+If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us, please contact us using the contact information set forth below. A parent or guardian of a child under the age of 13 may review and request deletion of a child’s personally identifiable information and prohibit its use.
+
+  * **Changes to the Privacy Policy.** If you visit one of our Sites or use our services, you accept the practices described in this Privacy Policy, which is incorporated into the [Terms of Service](https://web.archive.org/terms) governing this Site. We reserve the right to change or add to this Privacy Policy from time to time. When we do so, we may notify you the next time you visit the Site, and we will post the revised Privacy Policy here, so please review this Site frequently for any changes.
+
+Your use of one of our Sites after we have changed and posted our Privacy Policy constitutes your knowledge and acceptance of such changes. We will not, however, make material changes to our Privacy Policy without first notifying you by e-mail using the e-mail address you most recently provided to us (if any) and by posting notice of the changes to the Site.
+
+  * **Terms of Service.** Please also read our Terms of Service to understand the terms applying to our use of our Sites. By using our Sites, you acknowledge that you have read our Terms of Service and consent to them.
+
+  * **Reporting.** Any improper collection or misuse of information in violation of this Privacy Policy or our [Terms of Service](https://web.archive.org/terms) should be reported by email to [legal@youbeauty.com](mailto:legal@youbeauty.com).
+
+  * **Contact Us.** If you have any questions specifically about this Privacy Policy, or about legal issues pertaining to the privacy practices of our Sites or your use of our Sites, please contact us at:
 
 [legal@youbeauty.com](mailto:legal@youbeauty.com)
 
@@ -58,7 +104,7 @@ Or
 
 YouBeauty.com   
 648 Broadway   
-New York, NY 10012 
-
-(646) 449-9445 – phone   
+New York, NY 10012 (646) 449-9445 – phone   
 (646) 449-9446 - fax 
+
+
