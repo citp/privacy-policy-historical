@@ -1,48 +1,71 @@
-> *The following text is extracted and transformed from the ubet.com privacy policy that was archived on 2008-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080426193504id_/http%3A//www.wagerworks.com/Footer/Privacy%2BPolicy/%21%2B%21/CLASS/Page/DBID/875f4fe84ed7a400f5983aa6cc83b1df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubet.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205085301id_/http%3A//www.igt.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Casino software and solutions - Footer - Privacy Policy
+# Legal
 
-**Our Web Site and Your Privacy**  
-Like many other businesses with an online presence, WagerWorks collects personal information relating to individuals through its web site. We recognise that you may have reservations about disclosing this information online. For this reason, WagerWorks has adopted this Privacy Policy to tell you what information we collect, why we collect it and the purpose to which that information is put. 
+### Privacy is very important to IGT
 
-The fundamental principle we adopt is that any information volunteered through the WagerWorks web site should be retained and processed in accordance with the Data Protection Act 1998 (the Act). 
+It is the policy of International Game Technology ("IGT") to respect the privacy of users who visit IGT.com or any of the other IGT Web sites (each a "Site"). To ensure this, the following policy statement explains how we collect information from you as well as how it is used.
 
-WagerWorks is registered under the Act for all purposes relating to our business and how we transact that business. We ensure that at all times we retain and process your personal data in accordance with the Act. In particular, we recognise your right to ask us to tell you what information we hold about you. 
+### Passive Collection of Information
 
-You can find out more about the Act and your rights by visiting the Information Commissioner's web site at http://www.dataprotection.gov.uk 
+While you are on our site, we automatically track information related to your use of the Site. This information may include, among other things, URL tracking information, user's browser, user's IP address, files downloaded or viewed by the user and user's path through the Web site, date, time and frequency of accessing site and length of time spent reviewing certain features. We may also track usage through cookies. A cookie is a small data file written to a user's hard drive. Cookies may be used to, among other things, allow automated log-in and may contain information such as a login ID or other information about preferences or Internet use. If you wish to disable cookies, you may do so on your Web browser.
 
-**How We Collect Personal Details From You**  
-We are not able to identify who you are just because you visit one of our web sites. The domain name from which you access the internet, the date and time you access the WagerWorks web site and the internet address of the web site from which you may have linked to a WagerWorks site will not allow us to identify who you are. 
+### Personal Identifying Information
 
-In certain parts of our web site, you have the option to provide us with your personal details. This is how we collect your personal details. We do not use cookies or other hidden software to collect user information from our web site. 
+We may collect your name, address, telephone number(s), e-mail address when you provide us with that information, when you request information from us, contact us, or sign up for classes with us. We may also collect information about your job history and experience, and your education when you submit your application for employment with IGT or our subsidiaries or affiliates on or through our Site. We may also ask you for other information to help us determine whether you would be eligible under various local immigration or employment laws to work in a particular country.
 
-**Why We Collect These Details**  
-We ask you to provide your personal details to us either to enable us to send you information about our products and services or to respond to a specific enquiry you may have. For example, if you send us an email requesting information about WagerWorks we will use your email address and other relevant information you supply to respond to your enquiry. 
+### How IGT Uses Information Collected
 
-By providing your personal details to us, you are expressly consenting under all relevant Data Protection legislation: to the use of your information in the manner set out above and to allow us to further develop this website, our business and our services to you; to the transport, if necessary, of your information worldwide; and to the disclosure, as necessary, of your information to a third party involved in the design, operation or maintenance of this website. 
+IGT uses the information we collect on the Site to respond to your requests for information or questions, to improve our marketing and promotional efforts, to statistically analyze usage of our Site, to improve our content and offerings on the Site, to improve and evaluate our products and services, and to customize the content and layout of the Site.
 
-**Security and Access**  
-The information you provide to us is kept confidential to WagerWorks. This means that all our employees and other data processors who may have access to and who are associated with the processing of your details are obliged to respect the confidentiality of the personal data supplied by you. 
+We may use e-mail addresses, mailing addresses or phone numbers, to contact users regarding administrative notices and for the purposes of promoting IGT® products or services and the Site. Should you wish to be removed from IGT's electronic communications list at any time, please send your request to: MemberServices@IGT.com. Should you wish to be removed from IGT's general mailing list, please contact IGT at 775-448-1826.
 
-We do not disclose or sell your personal details to any third party, unless we are required to do so by law or as described above. However, in the event that the whole business or any of its assets are acquired, the information provided by you may be one of the transferred assets. 
+If you apply for a position with IGT through this Site, we will use your information to evaluate your candidacy, and may use your name, username, and e-mail address to contact you regarding any positions for which you have applied or regarding other opportunities at IGT or our subsidiaries or affiliates in which we think you might be interested. If you are applying from outside of the United States, your information will be transferred to the United States for consideration.
 
-We have implemented security measures to ensure that the information supplied by you via our web site is safeguarded from:   
-· unauthorised access;   
-· improper use or disclosure;   
-· unauthorised modification;   
-· unlawful destruction or accidental loss.
+### International Users
 
-**Access To Personal Details**  
-You can ask us by sending an email to [info@wagerworks.com](mailto:info@wagerworks.com) or writing to us at the address set out below whether we are keeping any personal details about you. We will comply with all the requirements of the Act and other legislation in relation to disclosure of this information. 
+This Site is hosted on a server in the United States and all information collected by IGT from this Site will be collected, stored, used and otherwise processed in the United States, including information from users outside the United States. By accessing this Site you consent to the transfer to and use of your information in the United States in accordance with this Policy.
 
-In particular, you should be aware that in order to provide you with a copy of the personal data we keep about you, we will require proof of your identity. We also reserve the right to make a small charge based on the charges then currently prescribed by the relevant legislation. 
+### Disclosure to Third Parties
 
-**Your Views**  
-If you have an enquiry or concern about our privacy policy, please contact:   
-The Data Protection Manager  
-WagerWorks  
-First Floor  
-8-9m Carlisle Street  
-London W1D 3BP  
-United Kingdom  
-e-mail: [info@wagerworks.com](mailto:info@wagerworks.com)
+IGT is not in the business of selling personally identifiable information to others. IGT does or may share or disclose information you provide us to other companies and people with your consent or under the circumstances described below.
+
+IGT may analyze or disclose aggregated information that does not identify our users to third parties for marketing and promotional or other purposes.
+
+We also share user information with our subsidiaries, affiliates, business partners and service providers. These third parties may provide you information, products, or services on our behalf or to help us provide our customers with better products and services.
+
+As we continue to develop our business, we might sell or buy assets. In such transactions, user information generally is one of the transferred business assets. Also, if all or substantially all the assets of IGT or any of its subsidiaries or affiliates assets were acquired, user information would be one of the transferred assets. We do not offer for sale personally identifiable information other than in connection with business-related transfers.
+
+IGT reserves the right to disclose user or visitor information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) IGT's rights or property, other users or anyone else that could be harmed by such activities. IGT may also disclose user information when we believe in good faith that the law requires it.
+
+### Children
+
+The Site is generally not intended for use by children. We do not knowingly solicit or collect any personal information about children under the age of 13 or market to them.
+
+### Security
+
+IGT uses reasonable security measures to safeguard the confidentiality of information that it collects. IGT limits access to such information to authorized personnel only.
+
+### Other Sites and Third Parties
+
+This policy only addresses the use and disclosure of information IGT collects on this site. IGT does not control and is not responsible for the privacy practices of other sites or third parties to whom you may link from our site.
+
+### General
+
+IGT cooperates with law enforcement agencies in identifying those who use our site for illegal activities. Therefore, IGT responds to subpoenas, warrants or other court orders regarding information concerning any users. We will, at our discretion, disclose information if we believe we are required to do so by law, believe that such disclosure is necessary to protect us from legal liability or believe we need to do so to protect someone's safety or the integrity of the site.
+
+This Privacy Policy is subject to the terms of the applicable IGT Terms and Conditions of Use. IGT reserves the right to change this Privacy Policy. Any changes to this Policy will be posted to this page as soon as reasonably possible and will become effective immediately. Therefore, please check this page periodically. Use of the Site constitutes consent to use of your information in accordance the Privacy Policy then in effect.
+
+The operator of this Site is
+
+IGT Reno  
+9295 Prototype Drive  
+Reno, NV 89521-8986  
+United States  
+775-448-7777  
+www.IGT.com
+
+If you have any questions regarding IGT's Privacy Policy, please contact [Webmaster@IGT.com](mailto:Webmaster@IGT.com?Subject=Privacy%20Policy).
+
+  
+
