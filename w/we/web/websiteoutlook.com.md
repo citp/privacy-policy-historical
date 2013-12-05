@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websiteoutlook.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629144657id_/http%3A//www.websiteoutlook.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteoutlook.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205063835id_/http%3A//www.websiteoutlook.com/policy.html) for the most accurate reproduction.*
 
 # Websiteoutlook PRIVACY POLICY
 
