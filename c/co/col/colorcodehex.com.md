@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorcodehex.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306133440id_/http%3A//www.colorcodehex.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorcodehex.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205085625id_/http%3A//www.colorcodehex.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Color Hex Color Codes
 
