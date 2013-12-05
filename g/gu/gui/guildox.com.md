@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildox.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621074950id_/http%3A//www.guildox.com/go/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildox.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205014951id_/http%3A//www.guildox.com/go/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
