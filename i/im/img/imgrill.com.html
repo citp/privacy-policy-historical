@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the imgrill.com privacy policy that was archived on 2013-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130516043824id_/http%3A//www.imgrill.com/page-Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imgrill.com privacy policy that was archived on 2013-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206004524id_/http%3A//www.imgrill.com/page-Privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Privacy - ImGrill.Com Best Place To Upload And Share Your Images</title>
@@ -7,7 +7,7 @@
     <meta name="description" content="ImGrill.Com is a free image hosting site.With imGrill.Com people can share their images with everyone and also earn from them">
     <meta name="keywords" content="images,earn money,upload,dollars,adult,family,friends,share,facebook">
     <meta name="author" content="Stix">
-    <link rel="stylesheet" type="text/css" href="css/stylesdmca.css">    <link type="text/css" href="css/csTransPiedmca.css" rel="stylesheet">    <link type="text/css" href="css/ui-lightness/dmca.custom.css" rel="stylesheet">	
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="js/jquery.validate.js"></script>
     <script type="text/javascript">
@@ -28,29 +28,43 @@
 
 </head>
 <body>
-<div id="headerstrip">
-	<div id="topnav">
-		<ul>
-			<li><a href="index.php"><span>Home</span></a></li>
-			<li><a style="color: #ffb901;" href="page-DMCA.html"><span>DMCA</span></a></li>
-			<li><a href="page-Contact.html"><span>Contact</span></a> </li>
-			<li><a href="page-Affiliate.html"><span>Earn Money</span></a> </li>
-			<li><a href="http://imgrill.com/news/" target="_blank"><span>News</span></a> </li>
-						<li style="margin-left:238px;"><a href="register.php"><span>Register</span></a> </li>
-			<li><a href="login.php"><span>Login</span></a> </li>
+<div id="menu">
+    <div id="menu_links">
+        <ul>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="page-contact.html">Contact</a></li>
+            <li><a href="page-DMCA.html">DMCA</a></li>
+            <li><a href="page-Affiliate.html">Earn Money</a></li>
+
+
+                        <li><a href="register.php">Register</a></li>
+            <li><a href="login.php">Login</a></li>
             
-            		</ul>
-	</div>
+                    </ul>
+
+    </div>
 </div>
 
-<!-- webim button --><a href="/webim/client.php?locale=en" target="_blank" onclick="if(navigator.userAgent.toLowerCase().indexOf('opera') != -1 &amp;&amp; window.event.preventDefault) window.event.preventDefault();this.newWindow = window.open('/webim/client.php?locale=en&amp;url='+escape(document.location.href)+'&amp;referrer='+escape(document.referrer), 'webim', 'toolbar=0,scrollbars=0,location=0,status=1,menubar=0,width=640,height=480,resizable=1');this.newWindow.focus();this.newWindow.opener=window;return false;"><img src="/webim/b.php?i=mgreen&amp;lang=en" border="0" width="177" height="61" alt=""></a><!-- / webim button -->
-            
-<div id="container"> 
-<div id="logo">    </div>  
-  <div id="index_upload">	
-  <p class="mainmascot"></p>	
-	<p class="areyouamazing"></p>
-		<form class="ui-tabs ui-widget ui-widget-content ui-corner-all">
+
+
+
+<div id="menubutton">
+    <img id="menuactivate" src="css/img/menubutton.png" alt="menu button"></div>
+<script type="text/javascript">
+    $('#menubutton').click(function() {
+        $('#menu').slideDown('slow', function() {
+            // Animation complete.
+        });
+    });
+</script>
+
+<div id="container">
+    <div id="logo">
+        <a href="index.php"><img alt="logo" src="css/img/logo.png"></a>
+    </div>
+<br><br>
+<br><br>
+<br><br>
     <div class="title">
     Privacy    </div>
    <div id="content">
@@ -62,21 +76,35 @@
 <p>&nbsp; ImGrill does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p>
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong></p>   </div>
-   </form>
 
 </div>
-</div>
+
 
 
 <div id="footer">
-    <p> 	<a style="margin-left:10px; color:white;" href="index.php"><span>Home</span></a>
-	<a style="margin-left:10px; color:white;" href="page-tos.html"><span>Terms Of Service</span></a>
-	<a style="margin-left:10px; color:white;" href="page-Privacy.html"><span>Privacy Policy</span></a>
-						<a style="margin-left:10px; color:white;" href="register.php"><span>Register</span></a>
-			<a style="margin-left:10px; color:white;" href="login.php"><span>Login</span></a>
-            			<span style="padding-left:429px; color:white;"> Copyright © 2013 - Imgrill.Com </span> </p>
+    <p> 
+
+<a href="index.php">Home</a> 
+ &nbsp; 
+
+<a href="page-tos.html">Terms Of Service</a> 
+ &nbsp; 
+
+<a href="page-Privacy.html">Privacy Policy</a> 
+ &nbsp; 
+
+			<a href="register.php">Register</a> 
+ &nbsp; 
+<a href="login.php">Login</a> 
+ &nbsp; 
+
+            			 </p><p>Copyright © 2013 - Imgrill.Com  </p>
     </div><script type="text/javascript">
-if (top !== self) top.location.href = self.location.href;
+    <!--
+        if (top.location!= self.location) {
+            top.location = self.location.href
+        }
+    //-->
 </script>
 <script type="text/javascript">
 
@@ -101,7 +129,4 @@ try {Histats.start(1,2080339,4,0,0,0,"");
 Histats.track_hits();} catch(err){};
 </script></a>
 <noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?2080339&101" alt="counter create hit" border="0"></a></noscript>
-<!-- Histats.com  END  -->
-
-
-</body></html>
+<!-- Histats.com  END  -->    </body></html>
