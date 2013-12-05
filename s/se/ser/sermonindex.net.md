@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sermonindex.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430072412id_/http%3A//www.sermonindex.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermonindex.net privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205041316id_/http%3A//www.sermonindex.net/privacypolicy.php) for the most accurate reproduction.*
 
 # SermonIndex.net Privacy Policy - Sermon Index
 
