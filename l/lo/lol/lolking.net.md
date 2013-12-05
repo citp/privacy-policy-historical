@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lolking.net privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629073446id_/http%3A//www.lolking.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolking.net privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206000422id_/http%3A//www.lolking.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LolKing
 
-Online: NA EUW EUNE BR RU Offline: TR
+Server Status: 9 Online 0 Offline
 
 [](https://web.archive.org/)
 
