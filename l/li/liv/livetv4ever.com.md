@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629135403id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetv4ever.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205012452id_/http%3A//www.livetv4ever.com/privacy.php) for the most accurate reproduction.*
 
-# LiveTv4Ever - the No.1 website for Live Sport Streams in High Quality | Cricket Live Streaming : West Indies vs Sri Lanka | Wimbledon 2013 Live | FIFA Confederations Cup Brazil 2013 Final Live Streaming : Brazil vs Spain
+# LiveTv4Ever - the No.1 website for Live Sport Streams in High Quality | EPL : Manchester United vs Everton | Liverpool vs Norwich | West Brom vs Manchester City | French Ligue 1 : Evian TG vs PSG
 
-**Privacy Policy**
+**General**
 
 When you become a registered user or sign in at www.LiveTv4Ever.com or its partner sites, Personal Data is collected and stored in our secure computing environment and used in accordance with the information provided when you register on the web site. If you are solely a visitor to www.LiveTv4Ever.com, the following principles apply:.
 
@@ -16,4 +16,6 @@ D. Subscriptions to electronic newsletters: If you choose to receive electronic 
 
 E. Aggregate information about web site visitors: We create aggregate reports of visitors to our web sites in order to measure the performance of our web sites. These reports do not contain any Personal Data about visitors to our web sites. 
 
-F. Links to other web sites: When you visit our web sites, you will find many opportunities to link to web sites of Third Parties. When you click through to these sites, LiveTv4Ever's Privacy Policy no longer applies. We recommend that you read the privacy policy for any Third Party web sites.              
+F. Links to other web sites: When you visit our web sites, you will find many opportunities to link to web sites of Third Parties. When you click through to these sites, LiveTv4Ever's Privacy Policy no longer applies. We recommend that you read the privacy policy for any Third Party web sites. 
+
+Back to top
