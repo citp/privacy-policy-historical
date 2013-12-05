@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-proxy.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605010609id_/http%3A//www.didsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-proxy.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205220817id_/http%3A//www.didsoft.com/privacy.html) for the most accurate reproduction.*
 
 # Didsoft Privacy Policy
 
