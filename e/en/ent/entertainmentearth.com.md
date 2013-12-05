@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517184801id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205075225id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Action Figures, Toys, Bobble Heads, and Collectibles at Entertainment Earth
 
-|  [ ](http://www.entertainmentearth.com/) |  |  [ ](http://www.entertainmentearth.com/comiccon.asp?utm_source=Wafer&utm_medium=promo&utm_content=SDCC13&utm_campaign=SDCC13_051513)  
+|  [ ](http://www.entertainmentearth.com/) |  |  [ ](http://www.entertainmentearth.com/dailydeals.asp?utm_source=Wafer&utm_medium=promo&utm_content=CM13&utm_campaign=CM_120213)  
 ---|---|---  
   
 |    |  |     
@@ -19,6 +19,12 @@ Monday - Friday:
 7:30am - 5:00pm   
 Pacific Time
 
+Also open Saturdays:  
+Nov. 23 and 30  
+Dec. 7, 14, and 21  
+10:00am - 2:00pm  
+Pacific Time
+
 Client Services:  
 1-818-255-0095  
 Fax: 1-818-255-0091
@@ -31,7 +37,7 @@ Product specifications, prices, ship dates and availability are subject to chang
 |     
    
   
-[](http://www.entertainmentearth.com/hitlist.asp?spotlight=2874&utm_source=Tab_728_90&utm_medium=promo&utm_content=StarTrekMovie&utm_campaign=ST_051513)
+[](http://www.entertainmentearth.com/hitlist.asp?spotlight=3133&utm_source=Tab_728_90&utm_medium=promo&utm_content=CM13&utm_campaign=CM_120213)
 
 **PRIVACY POLICY** Entertainment Earth, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. We have made a commitment to meet the strict requirements regarding how we treat your information. The following discloses our information gathering and dissemination practices for www.entertainmentearth.com.  
 
