@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the moneyskill.org privacy policy that was archived on 2013-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130421132924id_/http%3A//moneyskill.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyskill.org privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/privacy.cfm) for the most accurate reproduction.*
 
 # MoneySKILL®
 
   
-[](https://web.archive.org/web/20130421132924id_/http%3A//moneyskill.org/index.cfm)  
+[](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/index.cfm)  
   
-[](https://web.archive.org/web/20130421132924id_/http%3A//moneyskill.org/about.cfm)  
+[](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/about.cfm)  
   
-[](https://web.archive.org/web/20130421132924id_/http%3A//moneyskill.org/legis.cfm)  
+[](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/legis.cfm)  
   
-[](https://web.archive.org/web/20130421132924id_/http%3A//moneyskill.org/standards.cfm)  
+[](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/standards.cfm)  
   
-[](https://web.archive.org/web/20130421132924id_/http%3A//moneyskill.org/news.cfm)  
+[](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/news.cfm)  
   
-[](https://web.archive.org/web/20130421132924id_/http%3A//moneyskill.org/resources.cfm)  
+[](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/resources.cfm)  
   
-[](https://web.archive.org/web/20130421132924id_/http%3A//moneyskill.org/contact.cfm)  
-  
-
-
+[](https://web.archive.org/web/20131205043308id_/http%3A//moneyskill.org/contact.cfm)  
   
 
 
-This demonstration module will allow you to become familiar with the course presentation. You will be able to read and hear the text. To move through the text, click on the arrows next to the text. Each page will have a question that you need to answer before proceeding.
+  
+
+
+This demonstration module will allow you to become familiar with the course presentation. You will be able to read and hear the text. To move through the text, click on the arrows below  the text. Each page will have a question that you need to answer before proceeding.
 
 AFSAEF's mission is to help consumers realize the benefits of responsible money management, understand the credit process, and seek help if credit problems occur. 
 
