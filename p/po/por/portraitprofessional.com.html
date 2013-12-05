@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the portraitprofessional.com privacy policy that was archived on 2013-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605091133id_/http%3A//www.portraitprofessional.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the portraitprofessional.com privacy policy that was archived on 2013-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205195128id_/http%3A//www.portraitprofessional.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class="not-ie no-js" lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
@@ -29,6 +29,9 @@
 	<link rel="stylesheet" href="../css/video-js.min.css" media="screen">
 
 	<link rel="stylesheet" href="../css/audioplayerv1.min.css" media="screen">
+	
+	<link rel="stylesheet" href="../css/popins.css">
+	
 <!--<![endif]-->
 
 <!--[if lte IE 6]>
@@ -36,7 +39,7 @@
 <![endif]-->
 
 	<!-- HTML5 Shiv + detect touch events -->
-	<script type="text/javascript" async="" src="https://com-anthropics.netmng.com/?async=1&amp;ab=2&amp;aid=1487"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="../js/modernizr.custom.js"></script>
+	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="../js/modernizr.custom.js"></script>
 
 	<script type="text/javascript">
 
@@ -93,7 +96,7 @@
 			</li>
 			<li>
 					<a href="../photo_editing_software/" data-description="features">What it does</a>
-					<ul><li><a href="../photo_editing_software/">Overview</a></li><li><a href="../photo_editing_software/skin_airbrushing/">Skin smoothing</a></li><li><a href="../photo_editing_software/spot_removal/">Removing spots</a></li>		</ul>
+					<ul><li><a href="../photo_editing_software/">Overview</a></li><li><a href="../photo_editing_software/tutorials/">Tutorials</a></li><li><a href="../photo_editing_software/face_image_editing/">Face reshaping</a></li><li><a href="../photo_editing_software/skin_airbrushing/">Skin smoothing</a></li>		</ul>
 				</li>
 				<li>
 					<a href="../press/" data-description="the press">Reviews</a>
@@ -103,7 +106,7 @@
 					</li></ul>
 			</li>
 			<li>
-					<a href="../editions/" data-description="software editions">Editions</a>
+					<a href="../editions/" data-description="plug-in, raw">Editions</a>
 				</li>
 			<li>
 					<a href="../gallery/" data-description="examples">Gallery</a>
@@ -269,15 +272,13 @@
 			</nav><!-- end #footer-nav -->
 
 			<ul class="contact-info">
-								<li class="address">Anthropics Technology Ltd.<br>
-				55335 Corwin Rd<br>
-				Unit A983145<br>
-				Elkhart, Indiana 46514<br>
-				United States </li>
-				<li class="phone">USA: (971) 238-0917</li>
-
-				<li class="email">Portrait Professional questions or problems:<br>
-					<a href="../support/">Portrait Professional support</a></li>
+						<li class="phone">USA: (971) 238-0917<br>
+				UK: +44 117 230 7792</li>			<li class="address">Anthropics Technology Ltd.<br>
+			Suite A16, Ugli Campus,<br>
+			56 Wood Lane,<br>
+			London W12 7SB,<br>
+			UK </li>
+				<li class="email">					<a href="../support/">Portrait Professional support</a></li>
 			</ul><!-- end .contact-info -->
 			
 		</div><!-- end .three-fourth -->
@@ -303,9 +304,8 @@
 	<div class="container">
 
 		<ul>
-			<li>Anthropics © 2013</li>
+			<li><a href="http://www.anthropics.com/portraitprofessional/">Anthropics © 2013</a></li>
 			<li><a href="../privacy/">Privacy Policy</a></li>
-			<li></li>
 		</ul>
  	<div id="languages">
 <img src="/img/flags/flag_us.gif" width="17" height="10" alt="English" title="English">
@@ -388,24 +388,69 @@ var google_conversion_value = 0;
 </div>
 </noscript>
 
-<!-- ignition one -->
-<script type="text/javascript">
-(function() {
-var h = 'com-anthropics.netmng.com';
-var a = '1487';
-var t = document.createElement('script');
-t.type = 'text/javascript'; t.async = true;
-var p = 'https:'==document.location.protocol?'https://':'http://';
-var m = document.referrer.match(/https?:\/\/([a-z]+\.[a-z\.]+)/i);
-var r = (m && m[1] != document.location.hostname) ? ('&ref=' + escape(document.referrer)) : '';
-t.src = p + h + '/?async=1&ab=2&aid=' + a + r;
-var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(t, s);
-})();
-</script>
+<script>
+	
+	var currentTime = new Date();
+	var hours = currentTime.getHours();
+	var minutes = currentTime.getMinutes();
 
+	var suffix = "AM";
+	if (hours >= 12) 
+	{
+		suffix = "PM";
+	}
+	if (hours > 12) 
+	{
+		hours = hours - 12;
+	}
+	if (hours == 0) 
+	{
+		hours = 12;
+	}
+
+	if (minutes < 10)
+	{
+		minutes = "0" + minutes;
+	}	
+	
+	function show_popin()
+	{
+		var popin = document.createElement('div');
+		popin.id='popin1';
+		popin.innerHTML='<div class="popin2"><div class="popinhdr"><div class="popinclose">\
+		<a href="#" onclick="close_popin();"><img src="/img/popinclose.png" width="200" height="24" border="0"></a></div>\
+		<img src="/img/logo.png"></div>\
+		<div class="popinimage"><img id="popinimg" src="/img/popin_a.jpg" width="432" height="216" border="0" style="margin:0;padding:0;"></div>\
+		<div class="popintextcontainer"><p class="popintext">Thank you for your interest in <b>Portrait Professional</b>.</p><p class="popintext">You have been selected for an exclusive special offer:</p>\
+		<div style="padding:10px"><p class="popinvbig">An EXTRA 10% off</p><p class="popinbig">the already discounted price.</p></div>\
+		<p class="popintext">Hurry, as your unique coupon code will expire tomorrow at <b>'+ hours + ':' + minutes + ' ' + suffix + '</b></p>\
+		<div class="popincode1"><div class="popincode2">TE4937</div></div>\
+		<div class="popinbuy"><a href="http://www.portraitprofessional.com/buy/?coupon=TE4937"><img src="/img/basket.jpg" width="23" height="22" alt="" border="0" style="vertical-align:middle">&nbsp;Click here to buy Portrait Professional</a></div></div></div>' ;
+		document.body.insertBefore(popin,document.body.firstChild);
+
+		var popinoverlay = document.createElement('div');
+		popinoverlay.id='popinoverlay';
+		document.body.insertBefore(popinoverlay,document.body.firstChild);
+		
+		window.setInterval (function(){flip_popin_image();}, 2000);
+	}
+	var popin_flip=0;
+	function flip_popin_image()
+	{
+		var im = document.getElementById('popinimg');
+		im.src=(popin_flip==0)?"/img/popin_b.jpg":"/img/popin_a.jpg";
+		popin_flip = !popin_flip;
+	}
+	function close_popin()
+	{
+		document.getElementById('popin1').style.visibility='hidden';
+		document.getElementById('popinoverlay').style.visibility='hidden';
+	}
+
+</script>
 <!--[if !lte IE 6]><!-->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script>	</script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="../js/jquery-1.8.2.min.js"><\/script>')</script><script src="../js/jquery-1.8.2.min.js"></script>
 	<!--[if lt IE 9]> 
 	<script src="../js/selectivizr-and-extra-selectors.min.js"></script> <![endif]-->
