@@ -1,18 +1,16 @@
-<!--The following is the downloaded HTML source of the onlinesociety.org privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629081216id_/http%3A//www.onlinesociety.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlinesociety.org privacy policy that was archived on 2013-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205020234id_/http%3A//www.onlinesociety.org/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
        <title>- Privacy Policy  </title>
-     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
+     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">      
       <link rel="stylesheet" type="text/css" href="/templates/Peppermint/style/main.css">
 
                      <meta name="keywords" content="Online Society, Web Directory, Directory, Internet">
                      <meta name="description" content="General web directory provides society web resources useful for internet users.">
                      <meta name="author" content="OnlineSociety.org">
                      <meta name="copyright" content="Copyright (c) 2011 by OnlineSociety.org - All rights reserved!">
-               
-      <meta name="generator" content="PHP Link Directory 4.1.0">
+                        <meta name="generator" content="PHP Link Directory 4.2.2">
 
       
       
@@ -22,8 +20,7 @@
         var valid_obj = new Object();
     </script>
 
-</head>
-<body><script type="text/javascript">
+</head><body><script type="text/javascript">
 
 
 function increase_height() {
@@ -112,143 +109,139 @@ catch (e)
 
 
 <script type="text/javascript">
-jQuery(function($) {
-	$(document).ready(function(){
+	jQuery(document).ready(function(){
 		
-												jQuery.validator.messages.required = "This field is required.";
-																jQuery.validator.messages.remote = "Please fix this field.";
-																jQuery.validator.messages.email = "Invalid email address format.";
-																jQuery.validator.messages.url = "Invalid URL.";
-																jQuery.validator.messages.date = "Invalid date format.";
-																jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
-																jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
-																jQuery.validator.messages.number = "Required numeric field.";
-																jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
-																jQuery.validator.messages.digits = "Required integer field.";
-																jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
-																jQuery.validator.messages.equalTo = "Please enter the same value again.";
-																jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
-																jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
-																jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
-																jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
-																jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
-																jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
-																jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
-									
-		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = jQuery.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = jQuery.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = jQuery.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = jQuery.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = jQuery.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = jQuery.format("Please enter a value greater than or equal to {0}.");
+								
+
 		function fireEvent(obj, evt) {
-             var fireOnThis = obj;
-             if (document.createEvent) {
-                 var evObj = document.createEvent('MouseEvents');
-                 evObj.initEvent(evt, true, false);
-                 fireOnThis.dispatchEvent(evObj);
-             } else if (document.createEventObject) {
-                 fireOnThis.fireEvent('on'+evt);
-             }
-         }
- 
-                 //valid obj isntantiated in header.tpl
-                 valid_obj.login_form = {
-                 debug: false,
-                 onKeyUp: true,
-                 onfocusout: false,
-                 errorElement: "span",
-                 errorClass: "errForm",
-                 submitHandler: function(form) {
-                     // do other stuff for a valid form
-                     if ($("#login_form").valid()) {
-                         form.submit();
-                     }
-                 },
- 
-                 "rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
-         };
- 
-         $("#login_form").validate(valid_obj.login_form);
- 
-                 var selects = $("#login_form").find("select");
-                 var crt;
-                 $.each(selects, function() {
-                     crt = this.id;
-                     if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
-                         $("#"+crt).change(function() {
-                           $(this).valid();
-                         });
-                     }
-                 });
-     });
- });
- </script>
- 
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if (jQuery("#login_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+		jQuery("#login_form").validate(valid_obj.login_form);
+
+                var selects = jQuery("#login_form").find("select");
+                var crt;
+                jQuery.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        jQuery("#"+crt).change(function() {
+                          jQuery(this).valid();
+                        });
+                    }
+                });
+	});
+</script>
+
 <script type="text/javascript">
-jQuery(function($) {
-	$(document).ready(function(){
+	jQuery(document).ready(function(){
 		
-												jQuery.validator.messages.required = "This field is required.";
-																jQuery.validator.messages.remote = "Please fix this field.";
-																jQuery.validator.messages.email = "Invalid email address format.";
-																jQuery.validator.messages.url = "Invalid URL.";
-																jQuery.validator.messages.date = "Invalid date format.";
-																jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
-																jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
-																jQuery.validator.messages.number = "Required numeric field.";
-																jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
-																jQuery.validator.messages.digits = "Required integer field.";
-																jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
-																jQuery.validator.messages.equalTo = "Please enter the same value again.";
-																jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
-																jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
-																jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
-																jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
-																jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
-																jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
-																jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
-									
-		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = jQuery.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = jQuery.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = jQuery.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = jQuery.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = jQuery.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = jQuery.format("Please enter a value greater than or equal to {0}.");
+								
+
 		function fireEvent(obj, evt) {
-             var fireOnThis = obj;
-             if (document.createEvent) {
-                 var evObj = document.createEvent('MouseEvents');
-                 evObj.initEvent(evt, true, false);
-                 fireOnThis.dispatchEvent(evObj);
-             } else if (document.createEventObject) {
-                 fireOnThis.fireEvent('on'+evt);
-             }
-         }
- 
-                 //valid obj isntantiated in header.tpl
-                 valid_obj.search_form = {
-                 debug: false,
-                 onKeyUp: true,
-                 onfocusout: false,
-                 errorElement: "span",
-                 errorClass: "errForm",
-                 submitHandler: function(form) {
-                     // do other stuff for a valid form
-                     if ($("#search_form").valid()) {
-                         form.submit();
-                     }
-                 },
- 
-                 "rules": {search: {"required":true}}, "messages": {}
-         };
- 
-         $("#search_form").validate(valid_obj.search_form);
- 
-                 var selects = $("#search_form").find("select");
-                 var crt;
-                 $.each(selects, function() {
-                     crt = this.id;
-                     if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
-                         $("#"+crt).change(function() {
-                           $(this).valid();
-                         });
-                     }
-                 });
-     });
- });
- </script>
- 
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if (jQuery("#search_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+		jQuery("#search_form").validate(valid_obj.search_form);
+
+                var selects = jQuery("#search_form").find("select");
+                var crt;
+                jQuery.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        jQuery("#"+crt).change(function() {
+                          jQuery(this).valid();
+                        });
+                    }
+                });
+	});
+</script>
+
 <div style="clear: both;"></div><!--/logo in main page/--><div class="header_main"><div class="headerLogo" style="margin:20px auto auto;float:none;width: 340px;"><a href="/"><img src="/templates/Peppermint/images/logo_main.png" border="0" alt="logo"></a></div></div><!--/logo in main page/--><!--/Search in main page/--><div class="headerSearch_main"><div class="headerSearchCenter_main"><form action="/index.php" method="get"><input class="searchInput_main" type="text" name="search" maxlength="250" size="40" value=""><button style="background:none;" class="searchBtn_main" type="submit"><img src="/templates/Peppermint/images/search-button_main.png" border="0" alt="logo"></button></form></div></div><!--/Search in main page/--><!--Category DESCRIPTION/--><div class="center1"><div class="centerContainer"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li></li></ul>
 
 
