@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadowshopper.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527140406id_/http%3A//www.shadowshopper.com/new/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadowshopper.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205080940id_/http%3A//www.shadowshopper.com/new/privacy_policy.cfm) for the most accurate reproduction.*
 
 # The World's Largest Source of Mystery Shopping Jobs - ShadowShopper.com
 
@@ -10,7 +10,7 @@ ShadowShopper collects personal information when you register with ShadowShopper
 _What is your mailing address?_  
 ShadowShopper  
 1894 E. William Street, Suite 4-215  
-Carson City, NV 80701-3202
+Carson City, NV 89701-3202
 
 ShadowShopper collects information about your transactions with us. ShadowShopper automatically receives and records information on our server logs from your browser, including your IP address, ShadowShopper cookie information, and the page you request. ShadowShopper uses information for the following general purposes: to customize the content you see, fulfill your requests for services, improve our services, contact you and conduct research.
 
