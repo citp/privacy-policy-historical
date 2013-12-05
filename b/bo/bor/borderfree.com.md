@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the borderfree.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508133715id_/http%3A//borderfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borderfree.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205222442id_/http%3A//www.borderfree.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Borderfree Global eCommerce
+# Privacy Policy
 
 **Last Updated:** April 17, 2013
 
