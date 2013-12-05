@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencephoto.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530193253id_/http%3A//www.sciencephoto.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencephoto.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205224906id_/http%3A//www.sciencephoto.com/privacy.html) for the most accurate reproduction.*
 
 # privacy - Science Photo Library
 
@@ -58,15 +58,41 @@ You will, however, continue to receive transactional communications from us rela
 
 * * *
 
-Cookies and other technologies 
+Cookies are small text files that are placed on your PC, phone or other web enabled devices when you are visiting the Science Photo Library website. They are not harmful to your computer. 
 
-When you log your computer's hard drive and you will be automatically logged in every time you visit our homepage. If you do not tick this box, then we will not plant a cookie on your computer, and you will need to login every time you use the site. 
+Cookies are an essential part of how the Science Photo Library site works and will be used to enhance your overall experience by enabling the site to remember you either for the duration of your visit or for repeat visits. Cookies contain information that can later be retrieved by the web application that deposited it on your device. 
 
-You have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. 
+Science Photo Library may use the information we obtain from our cookies for the following purposes: 
 
-In some cases, our third-party service providers may use cookies on our sites. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Science Photo Library only, and does not cover the use of cookies by third parties. 
+  * To recognise visits from returning registered users
+  * Offer the option of automatic login when a registered user returns to the site
+  * To store preferences like the number of items to display in the search result page
+  * To store the number of items in your basket
 
-In addition to cookies, our third-party service providers may use other technologies, including single-pixel gifs (also known as web beacons) on our website and in email communications. These tiny electronic images assist us in determining how many users have visited certain pages or opened email messages only. 
+
+
+Science Photo Library uses on its site cookies from another partner, Google, which collect the following information: 
+
+  * Identify if users are arriving at the site via referral sites or links
+  * Analyse user traffic and behaviour to compile activity reports. These reports will only be used by Science Photo Library and will not be made available to any third party.
+  * Analyse user behaviour including emails clicked, pages visited, search terms entered and items purchased to generate targeted communications
+  * Gather statistical data including but not limited to Internet service provider and host, time on the site and pages viewed/site path
+
+  
+
+
+  
+
+
+* * *
+
+Managing Cookie Preferences
+
+If you don't want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
+
+If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit www.aboutcookies.org, which contains comprehensive information on how to do this on a wide variety of desktop browsers. 
+
+The Science Photo Library website will not work without cookies
 
   
 
