@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonanzle.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603052132id_/http%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonanzle.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205174051id_/http%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bonanza
 
