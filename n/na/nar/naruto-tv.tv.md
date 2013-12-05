@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naruto-tv.tv privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601050150id_/http%3A//naruto-tv.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naruto-tv.tv privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205020108id_/http%3A//naruto-tv.tv/privacy) for the most accurate reproduction.*
 
 # Privacy |
 
@@ -20,15 +20,3 @@ Upon request we provide site visitors with access to no information that we have
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us.
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20-%20http%3A%2F%2Fnaruto-tv.tv%2Fprivacy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fnaruto-tv.tv%2Fprivacy%2F&t=Privacy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy&body=http%3A%2F%2Fnaruto-tv.tv%2Fprivacy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fnaruto-tv.tv%2Fprivacy%2F&title=Privacy "StumbleUpon")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fnaruto-tv.tv%2Fprivacy%2F&title=Privacy&srcURL=http%3A%2F%2Fnaruto-tv.tv%2Fprivacy%2F&srcTitle=+Naruto+Episodes+online+subbed+and+dubbed "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fnaruto-tv.tv%2Fprivacy%2F&title=Privacy&source=+Naruto+Episodes+online+subbed+and+dubbed&summary=For%20each%20visitor%20to%20our%20Web%20page%2C%20our%20Web%20server%20automatically%20recognizes%20only%20the%20consumer%27s%20domain%20name%2C%20but%20not%20the%20e-mail%20address%20%28where%20possible%29.%0D%0A%0D%0AWe%20collect%20the%20IP%20address%20and%20domain%20name%20and%20e-mail%20address%20%28where%20possible%29%0D%0Aof%20visitors%20to%20o "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fnaruto-tv.tv%2Fprivacy%2F&Title=Privacy "BlinkList")
-  * 
-
