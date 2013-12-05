@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freddieawards.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528150110id_/http%3A//freddieawards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freddieawards.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205202410id_/http%3A//freddieawards.com/privacy.php) for the most accurate reproduction.*
 
 # Freddie Awards
 
@@ -73,7 +73,7 @@ If there are any questions regarding this Privacy Policy please contact us:
 **The Freddie Awards**  
 1930 Frequent Flyer Point  
 Colorado Springs, CO 80915  
-[Contact Us](https://web.archive.org/web/20130528150110id_/http%3A//freddieawards.com/about.php)
+[Contact Us](https://web.archive.org/web/20131205202410id_/http%3A//freddieawards.com/about.php)
 
 
 
