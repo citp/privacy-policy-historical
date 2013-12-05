@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623045543id_/http%3A//www.glassesdirect.co.uk/pacp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205194358id_/http%3A//www.glassesdirect.co.uk/pacp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@
 
 Your privacy is important to us. This Privacy and Cookie Policy explains what information we collect about you and what we do with it. Please take a few minutes to read it.
 
-Prescription Eyewear Limited, trading as Glasses Direct ("we") run this site www.glassesdirect.co.uk (the "Site") for visitors who wish to find out more about our business and for visitors who wish to purchase our products ("you") using this Site. We are registered with the UK Information Commissioner as a data controller and we try our best to comply with the Data Protection Act 1998.
+MyOptique Group Limited, trading as Glasses Direct ("we") run this site www.glassesdirect.co.uk (the "Site") for visitors who wish to find out more about our business and for visitors who wish to purchase our products ("you") using this Site. We are registered with the UK Information Commissioner as a data controller and we try our best to comply with the Data Protection Act 1998.
 
 Your access, use of and submission of an order via the Site constitutes your explicit consent to the collection, use and transfer of your personal data, in the manner described in this Privacy & Cookie Policy ("the Policy"). If you disagree with the way we process data collected on the Site, we recommend that you do not use the Site. If you wish to obtain further information about us and/or the contents of this Privacy and Cookie Policy, you can contact us by email, post or telephone.
 
@@ -89,7 +89,7 @@ Data collected through the Site may also be transferred to others from time to t
   3. to recipients who are operators acting on our behalf in their capacity as agent, authorised proxy, sub-contractor, service provider or in any other capacity, including suppliers in charge of hosting or maintaining the site;
   4. to our laboratories;
   5. other third party businesses selected by us for the purposes of direct marketing, if you tick in the relevant box on the "Cardholder Details Page" page;
-  6. in case of a change of control or acquisition or the whole or part of the assets or business of Prescription Eyewear Limited, the data collected through this site will be transferred to the acquiring entity.
+  6. in case of a change of control or acquisition or the whole or part of the assets or business of MyOptique Group Limited, the data collected through this site will be transferred to the acquiring entity.
 
 
 
