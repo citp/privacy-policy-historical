@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humtum18.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603114657id_/http%3A//www.humtum18.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humtum18.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205065230id_/http%3A//www.humtum18.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HumTum18
 
