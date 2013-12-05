@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaronhung.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424221420id_/http%3A//www.aaronhung.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaronhung.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205093947id_/http%3A//www.aaronhung.com/policy) for the most accurate reproduction.*
 
 # Aaron Hung | privacy policy
 
