@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imgrill.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516043824id_/http%3A//www.imgrill.com/page-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgrill.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206004524id_/http%3A//www.imgrill.com/page-Privacy.html) for the most accurate reproduction.*
 
 # Privacy - ImGrill.Com Best Place To Upload And Share Your Images
 
 **ImGrill Privacy Policy**
 
- If you require any more information or have any questions about our privacy policy, please feel free to contact us. via [**Contact Form**](https://web.archive.org/web/20130516043824id_/http%3A//page-contact.html), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by ImGrill and how it is used. 
+ If you require any more information or have any questions about our privacy policy, please feel free to contact us. via [**Contact Form**](https://web.archive.org/web/20131206004524id_/http%3A//page-contact.html), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by ImGrill and how it is used. 
 
 **Log Files   **
 
