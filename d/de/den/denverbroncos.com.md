@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527015149id_/http%3A//www.denverbroncos.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverbroncos.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205231316id_/http%3A//www.denverbroncos.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Denver Broncos | Privacy Policy
 
@@ -6,23 +6,20 @@ Denver Broncos Web Site Privacy Policy
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=National%20Football%20League&sealid=102&ctv_group=Broncos)
 
-_Revised October 31, 2008_
+_Revised December 3, 2013  
+_
 
-This privacy policy applies to the Denver Broncos Football Club web site located at [http://www.denverbroncos.com](http://www.denverbroncos.com/) and [www.broncoscountry.com](http://www.broncoscountry.com/) (the "Web site"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
-
-The Web site is operated by akavit, LLC., on behalf of the Denver Broncos Football Club (collectively, the "Broncos", "we", "our", or "us"). akavit, LLC., does not own any information submitted through this website and cannot use this information for its own purposes.
+This privacy policy applies to the Denver Broncos Football Club web site located at [http://www.denverbroncos.com](http://www.denverbroncos.com/) (the "Web site"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 Denver Broncos Football Club is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because the Site wants to demonstrate their commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this policy, you should first contact [kyle.sonnneman@broncos.nfl.net](mailto:kyle.sonnneman@broncos.nfl.net) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php](http://watchdog.truste.com/pvr.php?page=complaint&url=) TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-Denver Broncos Football Club complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+If you have questions or concerns regarding this policy, you should first contact [broncos.website@broncos.nfl.net](mailto:broncos.website@broncos.nfl.net) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://www.truste.org/consumers/watchdog_complaint.php](http://watchdog.truste.com/pvr.php?page=complaint&url=) TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
-Please read the information below to learn more about our data collection policies and practices. 
+Please read the information below to learn more about our data collection policies and practices.
 
   1. Types Of Information That May Be Collected
   2. How Information May Be Collected
@@ -79,7 +76,7 @@ Transaction Information: If you conduct a financial transaction with our Web sit
 
 How we use the Information Collected
 
-As applicable, the information you provide to us may be used to: 
+As applicable, the information you provide to us may be used to:
 
   * contact you about the Web site;
   * contact you relating to your membership status;
@@ -96,7 +93,7 @@ With Whom the Information May be Shared
 
 At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:
 
-Agents: We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Web site analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products. These include [https://oss.ticketmaster.com/html/home.htmI?team=broncos&l=EN&STAGE=1](https://oss.ticketmaster.com/html/home.htmI?team=broncos&l=EN&STAGE=1) and [http://store.denverbroncos.com/home/index.jsp](http://www.denverbroncosproshop.com/home/index.jsp). When visiting these sites, you are submitting your information directly to this third party even though the pages have the look and the feel of the team site. Ticketmaster and GSI Commerce privacy policies appear on these sites, respectively.
+Agents: We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Web site analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products. These include [https://oss.ticketmaster.com/html/home.htmI?team=broncos&l=EN&STAGE=1](https://oss.ticketmaster.com/html/home.htmI?team=broncos&l=EN&STAGE=1) and [http://shop.denverbroncos.com](http://shop.denverbroncos.com/). When visiting these sites, you are submitting your information directly to this third party even though the pages have the look and the feel of the team site. Ticketmaster and GSI Commerce privacy policies appear on these sites, respectively.
 
 Aggregate Information: We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
 
@@ -140,11 +137,11 @@ As explained in this privacy policy, whenever you agree to let us collect person
 
 Because this web site has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.
 
-If you are a California resident and have questions about our compliance with this law, please send an e-mail to [broncoswebsite@broncos.nfl.net](mailto:broncoswebsite@broncos.nfl.net) or write to us at CA Privacy Rights, c/o Denver Broncos Marketing, 1701 Bryant Street, Suite 900, Denver, CO 80204.
+If you are a California resident and have questions about our compliance with this law, please send an e-mail to [broncos.website@broncos.nfl.net](mailto:broncos.website@broncos.nfl.net) or write to us at CA Privacy Rights, c/o Denver Broncos Marketing, 1701 Bryant Street, Suite 900, Denver, CO 80204.
 
 Questions About this Privacy Policy
 
-If you have any questions about this privacy policy or the privacy practices of this Web site, contact [broncoswebsite@broncos.nfl.net](mailto:broncoswebsite@broncos.nfl.net).
+If you have any questions about this privacy policy or the privacy practices of this Web site, contact [broncos.website@broncos.nfl.net](mailto:broncos.website@broncos.nfl.net).
 
 Questions regarding this statement should be directed to:
 
