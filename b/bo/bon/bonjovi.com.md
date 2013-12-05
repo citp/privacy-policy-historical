@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonjovi.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518183401id_/http%3A//www.bonjovi.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonjovi.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205232226id_/http%3A//www.bonjovi.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Bon Jovi — Privacy Policy
 
