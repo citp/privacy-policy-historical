@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pakmedia.tv privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602023107id_/http%3A//www.pakmedia.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakmedia.tv privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205020303id_/http%3A//www.pakmedia.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Watch All Pakistani Dramas and Morning Shows on Pakmedia.tv | Watch All Pakistani Dramas and Morning Shows on Pakmedia.tv
+# Privacy Policy - PakMedia.tv | PakMedia.tv
 
 Keeping in mind the importance of privacy of personal information of visitors to this site, the following details the kinds of information that is collected as part of the process of serving Advertisements on this site, and how this information is safeguarded. By visiting Pakmedia.tv, you are accepting the practices outlined in this Privacy Policy. This Privacy Policy covers Pakmedia.tv’s treatment of personal information that My Pakmedia.tv gathers when you are on thePakmedia.tv website and when you use Pakmedia.tv services. This policy does not apply to the practices of third parties that Pakmedia.tv does not own or control, or to individuals that Pakmedia.tv does not employ or manage.
 
