@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performancebike.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603192853id_/http%3A//www.performancebike.com/webapp/wcs/stores/servlet/Content_10052_10551_-1_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performancebike.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205052802id_/http%3A//www.performancebike.com/webapp/wcs/stores/servlet/Content_10052_10551_-1_PrivacyPolicy) for the most accurate reproduction.*
 
 # Performance Bicycle Privacy Policy
 
