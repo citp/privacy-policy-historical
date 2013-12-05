@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dutchnews.nl privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628105533id_/http%3A//dutchnews.nl/privacy-and-cookies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dutchnews.nl privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205114532id_/http%3A//www.dutchnews.nl/privacy-and-cookies.php) for the most accurate reproduction.*
 
 # DutchNews.nl - Privacy and Cookies
 
