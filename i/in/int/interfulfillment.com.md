@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interfulfillment.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601065112id_/http%3A//interfulfillment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interfulfillment.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206000702id_/http%3A//interfulfillment.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Canada's Ecommerce Order Fulfillment Experts
+# Privacy Policy | InterFulfillment
 
 InterFulfillment takes every precaution to ensure you and your customers’ personal information is kept private and confidential at all times. This statement outlines InterFulfillment’s privacy views and practices, details on the information collected and how they are protected under this policy.
 
@@ -51,3 +51,6 @@ All communication received from InterFulfillment will be clearly outlined in app
 
 
 Please note that this policy is subject to changes and revisions at anytime without prior notice.
+
+  
+
