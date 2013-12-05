@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linguanaut.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630032727id_/http%3A//www.linguanaut.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linguanaut.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205052539id_/http%3A//www.linguanaut.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
