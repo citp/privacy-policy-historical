@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nation.com.pk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630224053id_/http%3A//www.nation.com.pk/pakistan-news-newspaper-daily-english-online/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nation.com.pk privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205182759id_/http%3A//www.nation.com.pk/pakistan-news-newspaper-daily-english-online/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | The Nation
-
-##  Privacy Policy 
+# The Nation – News, ePaper and Today's Paper from Pakistan
 
 Nation.com.pk is Nawaiwaqt Group of Newspapers website. Please know that while using this website and/or submitting information at this website you are volunteering the same; you are informed of the way such information may be used and you agree to such use.
 
