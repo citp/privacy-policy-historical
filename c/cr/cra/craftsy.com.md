@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftsy.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202220642id_/http%3A//www.craftsy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsy.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206003921id_/http%3A//www.craftsy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Craftsy: Learn It. Make It.
 
