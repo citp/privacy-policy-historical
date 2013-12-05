@@ -1,44 +1,8 @@
-> *The following text is extracted and transformed from the physio-pedia.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103150755id_/http%3A//www.physio-pedia.com/index.php5%3Ftitle%3DPhysiopedia%3APrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physio-pedia.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205134802id_/http%3A//www.physio-pedia.com/Physiopedia%3APrivacy_Policy) for the most accurate reproduction.*
 
-# Physiopedia:Privacy Policy - Physiopedia - The physiotherapy and physical therapy wiki and encyclopaedia
+# Physiopedia:Privacy Policy - Physiopedia, universal access to physiotherapy knowledge.
 
 ### From Physiopedia
-
-## Contents
-
-[hide]
-
-  * 1 Physiopedia Privacy Policy
-  * 2 What This Privacy Policy Covers
-  * 3 What this Privacy Policy doesn’t cover
-  * 4 The Information Physiopedia Collects and How It Is Used
-    * 4.1 Readers (no registration required)
-    * 4.2 Editors (registration required)
-  * 5 Public areas of Physiopedia
-  * 6 When Physiopedia May Share Your Information
-  * 7 Your Choices
-  * 8 Information security
-  * 9 Updating personal information
-  * 10 Removing personal information
-  * 11 Limitations on Removing or Changing Information
-  * 12 Our Commitment To Children's Privacy
-  * 13 International Users
-  * 14 Changes to this Policy
-  * 15 Physiopedia Privacy Policy Definitions and FAQ
-    * 15.1 What is personal information?
-    * 15.2 What is non-personal information?
-    * 15.3 What is collected information?
-    * 15.4 What is personal health information?
-    * 15.5 What is opt-in?
-    * 15.6 What is opt-out?
-    * 15.7 What is a Physiopedia Account?
-    * 15.8 What is a cookie?
-    * 15.9 How do I delete a cookie?
-    * 15.10 What are server logs?
-    * 15.11 What information does Physiopedia receive if I click on a link displayed on Physiopedia?
-    * 15.12 What protections do I have against government investigations into my use of Physiopedia services?
-
-
 
 ##  Physiopedia Privacy Policy  
 
@@ -49,7 +13,7 @@ This Privacy Policy is effective as of Sept 1, 2008, and outlines the types of i
 
 This privacy policy pertains to the use of the Physiopedia web site at <http://www.physio-pedia.com/> (the “Site”), and the Physiopedia services, and covers how Physiopedia treats information that it collects and receives from its users. 
 
-This Privacy Policy is incorporated into and is subject to the Physiopedia [Terms of Service](https://web.archive.org/index.php5?title=Physiopedia:Terms_of_Service "Physiopedia:Terms of Service"). Your use of the Site, the Physiopedia services and any information you provide on the Web Site is subject to the terms of this Privacy Policy and the Physiopedia Terms of Service. 
+This Privacy Policy is incorporated into and is subject to the Physiopedia [Terms of Service](https://web.archive.org/Physiopedia:Terms_of_Service "Physiopedia:Terms of Service"). Your use of the Site, the Physiopedia services and any information you provide on the Web Site is subject to the terms of this Privacy Policy and the Physiopedia Terms of Service. 
 
 ##  What this Privacy Policy doesn’t cover 
 
@@ -57,7 +21,7 @@ This Privacy Policy applies only to web sites and services that are owned and op
 
 Physiopedia may allow other companies to serve advertisements on the Site. These third-party advertisers use technology to send, directly to your browser, the advertisements and links that appear on the Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content to a certain audience. 
 
-Sponsors or advertisers on the Site may use their own cookies, web beacons or other online tracking technologies in the banner advertisements served on the Site and in emails, special promotions or newsletters we send you. Some advertisers use companies other than Physiopedia to serve their ads and to monitor users' responses to ads, and these companies (“Ad Servers”) may also collect non-personal information through the use of cookies or web beacons on our web site. In certain situations, information collection may be facilitated by momentarily directing your browser to the web site of an Ad Server or other third party acting on behalf of the sponsor, partner, or advertiser before re-directing your browser to its selected destination (e.g., back to Physiopedia to show the ad, or to the advertiser's website); this re-direction process will not be apparent to you. We do not control these third parties' use of cookies or web beacons, or how they manage the non-personal information they gather through them. However, we do require sponsors, advertisers and Ad Servers who collect cookie or web beacon information through our web site to agree that they will not collect any personal information from our site without your consent. They have promised us they will not link any non-personal cookie or web beacon information collected by them on our site to personal information they or others collect in other ways or from other sites except as may be described in connection with a particular program. You should review the privacy policy of other sites you visit or link to from our site to understand how these other sites use cookies and how they use the information they collect through the use of cookies or web beacons on their own sites. Certain Ad Servers allow you to prevent them from collecting data through the use of cookies. In order to do so, you must opt-out of such data collection with each individual site. Currently, you can opt-out of cookies for several Ad Servers by visiting the [Network Advertising Initiative gateway Opt-out ](http://www.networkadvertising.org/managing/opt_out.asp "http://www.networkadvertising.org/managing/opt_out.asp")site. This website will also allow you to review the Ad Server's privacy policies. You can also find additional information and resources about how to opt-out of advertising and related cookies by visiting the [World Privacy Forum's Site](http://www.worldprivacyforum.org/cookieoptout.html "http://www.worldprivacyforum.org/cookieoptout.html"). 
+Sponsors or advertisers on the Site may use their own cookies, web beacons or other online tracking technologies in the banner advertisements served on the Site and in emails, special promotions or newsletters we send you. Some advertisers use companies other than Physiopedia to serve their ads and to monitor users' responses to ads, and these companies (“Ad Servers”) may also collect non-personal information through the use of cookies or web beacons on our web site. In certain situations, information collection may be facilitated by momentarily directing your browser to the web site of an Ad Server or other third party acting on behalf of the sponsor, partner, or advertiser before re-directing your browser to its selected destination (e.g., back to Physiopedia to show the ad, or to the advertiser's website); this re-direction process will not be apparent to you. We do not control these third parties' use of cookies or web beacons, or how they manage the non-personal information they gather through them. However, we do require sponsors, advertisers and Ad Servers who collect cookie or web beacon information through our web site to agree that they will not collect any personal information from our site without your consent. They have promised us they will not link any non-personal cookie or web beacon information collected by them on our site to personal information they or others collect in other ways or from other sites except as may be described in connection with a particular program. You should review the privacy policy of other sites you visit or link to from our site to understand how these other sites use cookies and how they use the information they collect through the use of cookies or web beacons on their own sites. Certain Ad Servers allow you to prevent them from collecting data through the use of cookies. In order to do so, you must opt-out of such data collection with each individual site. Currently, you can opt-out of cookies for several Ad Servers by visiting the [Network Advertising Initiative gateway Opt-out ](http://www.networkadvertising.org/managing/opt_out.asp)site. This website will also allow you to review the Ad Server's privacy policies. You can also find additional information and resources about how to opt-out of advertising and related cookies by visiting the [World Privacy Forum's Site](http://www.worldprivacyforum.org/cookieoptout.html). 
 
 This Privacy Policy does not apply to content, business information, ideas, concepts or inventions that you send to Physiopedia by email. If you want to keep content or business information, ideas, concepts or inventions private or proprietary, do not send them in an email to Physiopedia. 
 
@@ -97,7 +61,7 @@ Contributions: When Editors submit content to the Site, that information becomes
 
 The Site is open to public viewing. Any information shared (including personal information) that you reveal is by design open to the public and is not a private, secure service. You should think carefully before disclosing any personal information. What you have written may be seen, disclosed to or collected by third parties and may be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes. As with any public forum on any site, this information may also appear in third-party search engines like Google, Yahoo, MSN etc. 
 
-##  When Physiopedia May Share Your Information 
+## 
 
 Physiopedia shares collected information (both personal and non-personal information) with Physiopedia subsidiaries, affiliated companies or other trusted businesses or persons who process such information on Physiopedia’s behalf in order for Physiopedia to provide or improve services. Physiopedia requires that these parties agree to process such collected information in compliance with this Privacy Policy, and to take reasonable confidentiality and security measures with respect to such collected information. 
 
@@ -115,7 +79,7 @@ In the unlikely event of Physiopedia’s bankruptcy, insolvency, reorganization,
 
 Except as described above, Physiopedia will not share your personal information with third parties unless you have elected to “opt-in” to such sharing of your information. 
 
-Please [contact Physiopedia](https://web.archive.org/index.php5?title=Contact "Contact") for any additional questions about the management or use of personal data. 
+Please [contact Physiopedia](https://web.archive.org/Contact "Contact") for any additional questions about the management or use of personal data. 
 
 ##  Your Choices 
 
