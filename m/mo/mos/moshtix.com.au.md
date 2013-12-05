@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629105442id_/http%3A//www.moshtix.com.au/v2/faq/faq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205210350id_/http%3A//www.moshtix.com.au/v2/faq/faq-privacy-policy) for the most accurate reproduction.*
 
 # FAQ | moshtix
 
-_**Last updated: June 13, 2013**_
+_**Last updated: 1 July 2013**_
 
 Moshtix primary role is to provide event publishing, registration, ticketing and related software and services to Australian, New Zealand, US, UK and other International users of Moshtix and the Moshtix platform.
 
@@ -22,11 +22,11 @@ We usually collect personal information such as your name, address, telephone nu
 
 We use your information to provide our services to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. Your contact details may be used to contact you to inform you of important information related to an event you have purchased tickets to, for example time or event changes or event cancellation. Where your personal information is contained within an advertisement which we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication.
 
-We may share your information with other companies which are related to News Limited, within Australia. We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you.
+We may share your information with other companies which are related to The Ticket Group, within Australia. We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you.
 
 If you have registered a Moshtix account with us, we will hold your contact and billing details. Those details are primarily used to provide you with the ticketing services you have requested and to send you information about the Moshtix platform, any upgrades that become available, new developments and forthcoming features and to charge you for service fees in relation to tickets you have acquired through the Moshtix platform. If you have booked or registered for events that are listed by an EVENT ORGANISER using Moshtix and the Moshtix platform, we keep a record of your booking data to report to the EVENT ORGANISER. Your booking data will be provided to the event organiser if requested for their records and analysis. This booking data does not include your personal contact details which are only given to EVENT ORGANISERS if, at the time of purchase, you agree to receiving information and offers about future events directly from the Event Organiser. We will also keep a record of your billing information to allow you to make quick purchases by simply using an email address and password to login to your Moshtix account.
 
-You can opt-out of receiving email campaigns from Moshtix and our partners either during the ticket purchase or registration process or by logging into your Moshtix profile at [www.Moshtix.com.au](http://www.foxtix.com.au/) and unselecting the various options relating to weekly newsletters, special offers, and special offers from partners. Our partners include third party businesses we have entered into contracts with for marketing and client relationship purposes.
+You can opt-out of receiving email campaigns from Moshtix and our partners either during the ticket purchase or registration process or by logging into your Moshtix profile at [www.moshtix.com.au](http://www.foxtix.com.au/) and unselecting the various options relating to weekly newsletters, special offers, and special offers from partners. Our partners include third party businesses we have entered into contracts with for marketing and client relationship purposes.
 
 **Use By Event Organiser**
 
@@ -84,8 +84,5 @@ Software piracy seriously impacts the software industry worldwide. From time to 
 
 Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy.
 
-Moshtix Privacy Officer
-
-Email: [Privacy@moshtix.com.au](mailto:Privacy@moshtix.com.au)
-
-Contact Address: PO Box 4245, Sydney, NSW, 2001
+Moshtix Privacy Officer  
+Email: [Privacy@moshtix.com.au](mailto:Privacy@moshtix.com.au)Contact Address: PO Box 4245, Sydney, NSW, 2001
