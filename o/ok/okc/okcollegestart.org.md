@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okcollegestart.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424194816id_/http%3A//www.okcollegestart.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcollegestart.org privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205213115id_/http%3A//www.okcollegestart.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,7 +98,7 @@ You may update, otherwise modify or delete from the data stored on OKcollegestar
 This Privacy Statement may be amended from time to time. Unless legal obligations require faster implementation, any substantial changes to this Privacy Policy concerning use of your personal information will not be implemented until a notice of such impending change has been posted on the OKcollegestart.org homepage for at least thirty days. Thereafter, the new privacy policy will apply to all data previously submitted or subsequently submitted to OKcollegestart.org, unless such use is prohibited by law. If you do not wish to have your information used in accordance with a newly posted privacy policy, you should modify or delete the relevant information in the manner described in the preceding section, "Modifying and Deleting Your Information." 
 
 **QUESTIONS**   
-If you have any questions about this privacy statement and the privacy practices on this site, you may contact us at [privacy@OKcollegestart.org](mailto:privacy@OKcollegestart.org).
+If you have any questions about this privacy statement and the privacy practices on this site, you may contact us at [support@OKcollegestart.org](mailto:support@OKcollegestart.org).
 
 Copyright © [Xap Corporation](http://www.xap.com/ "Opens in new window"). All Rights Reserved. XAP and MENTOR are registered trademarks of XAP Corporation. Reg. U.S. Pat. & TM Off.   
 Use of this website constitutes acceptance of the XAP [Terms of Use](https://web.archive.org/terms_of_use.aspx) and [Privacy Policy](https://web.archive.org/privacy_policy.aspx).
