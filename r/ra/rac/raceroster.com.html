@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the raceroster.com privacy policy that was archived on 2012-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121207151659id_/http%3A//raceroster.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the raceroster.com privacy policy that was archived on 2013-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205133225id_/http%3A//raceroster.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <link href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700,800italic|Open+Sans+Condensed:300,700" rel="stylesheet" type="text/css">
 <!---- Sliding Login ---->
 <script type="text/javascript">
@@ -70,10 +70,10 @@
 			//background: # url('http://raceroster.com/wp-content/themes/rr/img/pattern-.png');
 					}*/
 		a{
-			color: #7BBBDD;
+			color: #2457a4;
 		}
 		a:hover{
-			color: #80acc2;
+			color: #2457a4;
 		}
 		.portfolio-link a{
 			color: #4374b4;
@@ -82,16 +82,16 @@
 		.last-port-item-link a, .last-blog-item-link a{
 			color: #555;		}	
 		.last-port-item-link a:hover, .last-blog-item-link a:hover{
-			color: #80acc2;
+			color: #2457a4;
 		}
 		
 			
 		 
 		.tagcloud a{
-			color: #80acc2 ;
+			color: #2457a4 ;
 		}	
 		.tagcloud a:hover{
-			color: #6dc5e3 ;
+			color: #2457a4 ;
 		}
 		#footer .tagcloud a{
 			color: #666666 ;
@@ -101,10 +101,10 @@
 		}
 		#wp-calendar td a{
 			font-weight: bold;
-			color: #7BBBDD;
+			color: #2457a4;
 		}
 		#wp-calendar td a:hover{
-			color: #80acc2;
+			color: #2457a4;
 		}
 		#header .logo{
 			margin-top: 26px;
@@ -158,7 +158,7 @@
 		
 		
 		#sidebar .sidebar-inner h3{
-			color: #7BBBDD;
+			color: #4374b4;
 		}
 		#sidebar .sidebar-inner a{		
 			color: #fff;
@@ -395,7 +395,59 @@ color:#1D3F7D; !important
 					-->
 					
 				</style>
-			</head>
+			
+<!-- EVENT LISTINGS !-->
+
+
+		<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+        <script type="text/javascript" src="/js/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.dataTables.min.js"></script>
+		
+		<link rel="stylesheet" href="/css/datatable.css" type="text/css">
+		<link href="/../css/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
+		
+		<style>
+        #events {display:table; border-collapse:collapse; border:0; color: #000;  font-family:'Open Sans'; width:960px; margin:auto; border-spacing:0;position: relative; top: -31px;}
+        #events thead tr td {background:#212121; padding:15px 20px; font-weight:600; width:auto; line-height:30px; border:1px solid #212121; border-bottom:none; color:#fff;}
+        #topButtons a.filter {background:#555; padding:2px 10px; text-decoration:none; color:#999; border-radius:10px; font-size:11px; margin-left:8px;}
+        #topButtons a.hover.filter {background:#666; color:#eee;}
+        #topButtons a.filter.active {background:#2195c9; color:#ffffff;}
+        #filterbutton a.search_btn {display:block; float:right; width:30px; height:30px; margin-left:4px; background-position: 6px 6px;display:block; float:right; width:30px; height:30px; margin-left:4px; background:#852b99 no-repeat; background-position: 6px 6px;}
+        #filterbutton a:hover.search_btn {background:#741d88 url('images/icon_search.png') no-repeat; background-position: 6px 6px;}
+        #events thead tr td input.search_box {float:right; border:1px solid #fff; height:30px; width:200px; padding:5px; color:#666666; background:#f0f0f0;}
+        #events thead tr td input:focus.search_box {outline:none; background:#fff;}
+        #events thead tr td img.search_icon {float:right; width:30px; height:30px; margin-left:2px;}
+        #events thead tr td.colhead {background:#2195c9; font-size:12px; padding:6px 10px; line-height:normal; text-align:left; color:#fff; border-bottom:none; border-top:none; border-right:1px solid #2186b3;}
+        #events thead tr td.colhead:first-child {border-left:0;}
+        #events thead tr td.colhead:last-child {border-right:1px solid #2195c9;}
+        #events thead tr td.colhead.center {text-align:center;}
+        #events thead tr td.colhead.date {width:auto;}
+        #events thead tr td.colhead.eventname {width:auto; min-width:300px;}
+        #events thead tr td.colhead.location {width:auto;}
+        #events thead tr td.colhead.register {width:100px;}
+        #events tbody tr td {color: #333; font-size:11px; padding:5px 10px; border-right:1px solid #eeeeee; text-align:left;}
+        #events tbody tr td:first-child {border-left:1px solid #eeeeee;}
+        #events tbody tr:hover {background:#f8f8f8 !important; color:#333;}
+        #events tbody tr:nth-child(even) {background-color:#fcfcfc;}
+        #events tbody tr:last-child {border-bottom:1px solid #eeeeee;}
+        #events tbody tr td a.register_btn {display:block; text-decoration:none; margin:auto; width:81px; height:21px; line-height:21px; text-align:center; background:#28b779; border-radius:4px; color:#fff; font-weight:600; text-transform:uppercase;}
+        #events tbody tr td a:hover.register_btn {background:#17a668;}
+		
+		
+		.top{height:25px; color:#eee; background:#212121; background-color:#000; border-bottom:1px solid #CCC; border-left:1px solid #CCC; border-right:1px solid #CCC; font-family:'Open Sans';}
+		.bottom{height:50px; font-family:'Open Sans'; position: relative; top: -31px;}
+		
+		#events_filter label input{float:right; border:1px solid #fff; height:25px; width:200px; color:#666666; background:#f0f0f0; margin : 0 auto; position: relative; top: -3px; left: -8px; }
+		#events_filter label input:focus {outline:none; background:#fff;}
+		#events_filter label{color:#000;} 
+		
+		.dataTables_filter { position: relative;left: -30px;}
+	</style>
+
+
+<!-- END EVENT LISTINGS !-->
+
+</head>
 <body class="page page-id-768 page-template-default">
 <div class="body-2">
 <!-- Header -->
@@ -450,13 +502,14 @@ color:#1D3F7D; !important
 										
 				<!-- Menu -->
 					<div class="nav-wrapper">
-								<div id="superfish-wrapper" class="menu-wrapper"><ul id="menu-main-menu" class="sf-menu"><li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="http://raceroster.com/why-us/">Why us?</a></li>
-<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://raceroster.com/features/">Registration System</a></li>
+								<div id="superfish-wrapper" class="menu-wrapper"><ul id="menu-main-menu" class="sf-menu"><li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="http://raceroster.com/features/">Features</a></li>
 <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="http://raceroster.com/about-us/">About Us</a></li>
-<li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://raceroster.com/race-management-101/">Race Management 101</a></li>
-<li id="menu-item-1411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1411"><a href="http://raceroster.com/race-listings-widget/">Event Finder</a></li>
+<li id="menu-item-404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404"><a href="http://raceroster.com/race-management-101/">Race Management eBooks</a></li>
+<li id="menu-item-1708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1708"><a href="http://raceroster.com/event-listings/">Find an Event</a></li>
 <li id="menu-item-884" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-884"><a href="http://raceroster.com/frequently-asked-questions/">FAQs</a></li>
 <li id="menu-item-1236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1236"><a href="http://raceroster.com/blog/">Blog</a></li>
+<li id="menu-item-1497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1497"><a href="http://raceroster.com/dashboard/db_register.php">Create a Race</a></li>
+<li id="menu-item-1547" class="careers menu-item menu-item-type-post_type menu-item-object-page menu-item-1547"><a href="http://raceroster.com/careers/">Careers</a></li>
 </ul></div>					</div>
 					
 				
@@ -599,7 +652,7 @@ color:#1D3F7D; !important
 <p>Your Name (required)<span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" size="40"></span> </p>
 <p>Your Email (required)<span class="wpcf7-form-control-wrap your-email"><input type="text" name="your-email" value="" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" size="40"></span> </p>
 <p>Your Message (add Event Name if applicable):<span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" class="wpcf7-form-control  wpcf7-textarea" cols="40" rows="10"></textarea></span> </p>
-<p><input type="hidden" name="_wpcf7_captcha_challenge_captcha-183" value="1917798701"><img alt="captcha" src="http://raceroster.com/wp-content/uploads/wpcf7_captcha/1917798701.png" class="wpcf7-form-control  wpcf7-captchac wpcf7-captcha-captcha-183" width="72" height="24"> Enter these characters below<br><span class="wpcf7-form-control-wrap captcha-183"><input type="text" name="captcha-183" value="" class="wpcf7-form-control  wpcf7-captchar" size="40"></span></p>
+<p><input type="hidden" name="_wpcf7_captcha_challenge_captcha-975" value="1638275500"><img alt="captcha" src="http://raceroster.com/wp-content/uploads/wpcf7_captcha/1638275500.png" class="wpcf7-form-control  wpcf7-captchac wpcf7-captcha-captcha-975" width="72" height="24"> Enter the characters below:<span class="wpcf7-form-control-wrap captcha-975"><input type="text" name="captcha-975" value="" class="wpcf7-form-control  wpcf7-captchar" size="40"></span></p>
 <p><input type="submit" value="Send" class="wpcf7-form-control  wpcf7-submit"></p>
 <div class="wpcf7-response-output wpcf7-display-none"></div>
 </form>
@@ -607,61 +660,26 @@ color:#1D3F7D; !important
 </div>
 		</div>				</div>	
 				<div style="width:300px;" class="footer-style">
-					<div class="footer-inner"><h2 class="widgettitle">Tweet Tweet</h2>
-				<div class="my_twitter_inside">
-				
-					<ul id="my_twitter_tweetlist">
-					
-						
-							<li>
-							
-								
-								<span class="my_lt_content">TIP: Describe your course mile by mile like the <a href="http://twitter.com/phoenixmarathon" class="my_twitter_tweetos" rel="nofollow">@phoenixmarathon</a> chk it out:  <a href="http://t.co/z21tdhG1" rel="nofollow" class="my_twitter_url">t.co/z21tdhG1</a> <a href="http://twitter.com/#!/search/%23racedirectortips" class="my_twitter_hastag" rel="nofollow">#racedirectortips</a></span>
-								
-								<em class="my_twitter_inner">Time ago
-									<a href="http://twitter.com/RaceRoster/statuses/277068788032221184" target="_blank">2 Minutes</a>
-									
-									<span class="my_source">via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
-								</span></em>
-							</li>
-						
-							<li>
-							
-								
-								<span class="my_lt_content">TIP: Give your SERIES a cohesive web presence like the <a href="http://twitter.com/#!/search/%23canadianrunningseries" class="my_twitter_hastag" rel="nofollow">#canadianrunningseries</a> Ex.  <a href="http://t.co/8IBG4pR3" rel="nofollow" class="my_twitter_url">t.co/8IBG4pR3</a> <a href="http://twitter.com/alnbrookes" class="my_twitter_tweetos" rel="nofollow">@alnbrookes</a></span>
-								
-								<em class="my_twitter_inner">Time ago
-									<a href="http://twitter.com/RaceRoster/statuses/276747644326539264" target="_blank">21 Hours</a>
-									
-									<span class="my_source">via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
-								</span></em>
-							</li>
-						
-							<li>
-							
-								
-								<span class="my_lt_content">GREAT RACE: Run like MAD for <a href="http://twitter.com/#!/search/%23MADD" class="my_twitter_hastag" rel="nofollow">#MADD</a> at the <a href="http://twitter.com/marinruns" class="my_twitter_tweetos" rel="nofollow">@marinruns</a> Bay Area Resolution Run on New Years!  <a href="http://t.co/Qqx2oPww" rel="nofollow" class="my_twitter_url">t.co/Qqx2oPww</a></span>
-								
-								<em class="my_twitter_inner">Time ago
-									<a href="http://twitter.com/RaceRoster/statuses/276726164222013440" target="_blank">23 Hours</a>
-									
-									<span class="my_source">via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a>
-								</span></em>
-							</li>
-						
-						
-				</ul></div>	
-					
-				<p class="my_twitter_follow_us" style="margin: 10px 0;"> 
-				
-						<span class="my_tw_follow">Follow</span>
-
-						<a class="my_tw_username" href="http://twitter.com/raceroster">@raceroster</a>	
-						<span class="my_tw_ontwitter">on twitter.</span>
-					</p>
-			</div>				</div>
-				<div style="width:300px;" class="footer-style last">
 					<div class="footer-inner"><h2 class="widgettitle">Race Roster in the News</h2>														
+																		<div class="last-post-wrapper-widget">
+										<div class="port-postthumb h58 w58">
+											<a href="http://raceroster.com/race-roster-brings-social-media-tools-to-running/">
+																								<img src="http://raceroster.com/wp-content/themes/rr/scripts/timthumb.php?src=http://raceroster.com/wp-content/uploads/2012/12/top10_logo.jpeg&amp;h=58&amp;w=58&amp;zc=1" alt="Race Roster Brings Social Media Tools to Running" class="thumb">
+																							</a>
+										</div>
+										<div class="meta-right-wrapper-widget">
+											<div class="blog-title">
+												<h4>
+													<a href="http://raceroster.com/race-roster-brings-social-media-tools-to-running/">
+														Race Roster Brings Social Media Tools to Running													</a>
+												</h4>
+												
+											</div>
+											<div class="meta-right-widget">
+											In the Top Stories for 2012 article published by C											</div>
+										</div>
+									</div>						
+							
 																		<div class="last-post-wrapper-widget">
 										<div class="port-postthumb h58 w58">
 											<a href="http://raceroster.com/canadian-running-race-roster-seeks-to-revolutionize-how-races-are-organized/">
@@ -699,26 +717,12 @@ color:#1D3F7D; !important
 											Congratulations 2012 Venture London Winners! &nbsp;											</div>
 										</div>
 									</div>						
-							
-																		<div class="last-post-wrapper-widget">
-										<div class="port-postthumb h58 w58">
-											<a href="http://raceroster.com/the-londoner-new-app-helps-run-races/">
-																								<img src="http://raceroster.com/wp-content/themes/rr/scripts/timthumb.php?src=http://raceroster.com/wp-content/uploads/2012/05/bl_tl-300x199.jpg&amp;h=58&amp;w=58&amp;zc=1" alt="The Londoner: New app helps run races" class="thumb">
-																							</a>
-										</div>
-										<div class="meta-right-wrapper-widget">
-											<div class="blog-title">
-												<h4>
-													<a href="http://raceroster.com/the-londoner-new-app-helps-run-races/">
-														The Londoner: New app helps run races													</a>
-												</h4>
 												
-											</div>
-											<div class="meta-right-widget">
-											The idea is a race management platform that gives 											</div>
-										</div>
-									</div>						
-												
+		</div>				</div>
+				<div style="width:300px;" class="footer-style last">
+					<div class="footer-inner"><h2 class="widgettitle">Get Social</h2>			<div class="textwidget"><p><a class="twitter-timeline" href="https://twitter.com/RaceRoster" data-widget-id="359754054051700736">Tweets by @RaceRoster</a><br>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+</div>
 		</div>				</div>
 		</div>
 	</div>
@@ -734,12 +738,28 @@ color:#1D3F7D; !important
 </style>
 
 <div class="footer_text">
-	<span class="left">Copyright 2012 Race Roster - Fast North Corp.<br></span>
+	<span class="left">Copyright 2013 Race Roster<br>Subsidiary of Fast North Corp.<br></span>
 	<span class="middle">CANADA - #3 - 208 Central Ave., London, ON N6A 1M7<br>USA - 17356 El Rancho Ave., Monte Sereno CA 95030</span>
-	<span class="right"><a href="http://raceroster.com/terms-and-conditions/" style="color:#959595; text-decoration:none;">Terms of Service</a> &amp; <a href="http://raceroster.com/privacy_policy/" style="color:#959595; text-decoration:none;">Privacy Policy</a></span>
-</div>			</div>	
+	<span class="right"><a href="http://raceroster.com/terms-and-conditions/" style="color:#959595; text-decoration:none;">Terms of Service</a> &amp; <a href="http://raceroster.com/privacy_policy/" style="color:#959595; text-decoration:none;">Privacy Policy</a><br>Call Us: 1-888-749-3028</span>
+</div>					
+										
+										
+										
+										
+										
+										
+										
+								</div>	
 			<div class="copyright-right">
-							</div>
+								
+										
+										
+										
+										
+										
+										
+										
+								</div>
 		</div>
 	</div>
 </div>	
@@ -830,22 +850,22 @@ var _wpcf7 = {"loaderUrl":"http:\/\/raceroster.com\/wp-content\/plugins\/contact
 				// Slider Headlines
 				jQuery(document).ready(function(){
 					if(jQuery.browser.msie) {
-														jQuery(".kwicks li#kwick1").hover(function(){
-								jQuery("li#kwick1 div.title_active").fadeTo(350, 0.8);
-								jQuery("li#kwick1 div.title").fadeTo(350, 0.0);
+														jQuery(".kwicks li#kwick3").hover(function(){
+								jQuery("li#kwick3 div.title_active").fadeTo(350, 0.8);
+								jQuery("li#kwick3 div.title").fadeTo(350, 0.0);
 								},function(){
-								jQuery("li#kwick1 div.title_active").fadeTo(350, 0.0);
-								jQuery("li#kwick1 div.title").fadeTo(350, 0.8);
+								jQuery("li#kwick3 div.title_active").fadeTo(350, 0.0);
+								jQuery("li#kwick3 div.title").fadeTo(350, 0.8);
 								});
 												}
 						else {
 												
-								jQuery(".kwicks li#kwick1").hover(function(){
-								jQuery("li#kwick1 div.title_active").fadeTo(350, 1.0);
-								jQuery("li#kwick1 div.title").fadeTo(350, 0.0);
+								jQuery(".kwicks li#kwick3").hover(function(){
+								jQuery("li#kwick3 div.title_active").fadeTo(350, 1.0);
+								jQuery("li#kwick3 div.title").fadeTo(350, 0.0);
 								},function(){
-								jQuery("li#kwick1 div.title_active").fadeTo(350, 0.0);
-								jQuery("li#kwick1 div.title").fadeTo(350, 1.0);
+								jQuery("li#kwick3 div.title_active").fadeTo(350, 0.0);
+								jQuery("li#kwick3 div.title").fadeTo(350, 1.0);
 								});
 						
 					}
@@ -935,5 +955,13 @@ var _wpcf7 = {"loaderUrl":"http:\/\/raceroster.com\/wp-content\/plugins\/contact
 										
 										
 										
-					
-</body></html>
+										
+										
+										
+										
+										
+										
+										
+										
+					<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","9dd7ec7146","2784537","YFxbMkRZV0QHVBYNXlkWeAVCUVZZSUcDA1Q=",0,530,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
