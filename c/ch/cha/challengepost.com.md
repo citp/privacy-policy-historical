@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the challengepost.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407032543id_/http%3A//challengepost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the challengepost.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205172206id_/http%3A//challengepost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ChallengePost
 
@@ -23,7 +23,7 @@ We use the Personally Identifiable Information you provide in a manner that is c
 
 ChallengePost, or a third party service provider that does not have access to your Personally Identifiable Information, may collect statistics about the behavior of visitors to the Site. Our servers may automatically record information that your browser sends whenever you visit a ChallengePost website. These server logs may include information such as the page(s) you visited, your Internet Protocol address, ChallengePost cookie information, web browser type, browser language, and the date and time of your request. ChallengePost uses this traffic data to help diagnose problems with its server(s), analyze trends and administer the Site.
 
-Individual challenges may require you to submit additional information and may include additional terms and conditions relating to privacy. If there is a conflict between this Privacy Policy and the terms posted or emailed for, or applicable to, a specific challenge, the latter terms shall control with respect to that challenge only.
+Individual challenges may require you to submit additional information on the submission form and may include additional terms and conditions relating to privacy. If there is a conflict between this Privacy Policy and the terms posted or emailed for, or applicable to, a specific challenge, the latter terms shall control with respect to that challenge only.
 
 ## Cookies
 
@@ -45,11 +45,13 @@ ChallengePost may aggregate your information with information of other users, an
 
 ### Challenges, Activities and other Events
 
-ChallengePost may enter into collaborative relationships with other third parties on the Site with respect to challenges, activities or events. If you participate in these challenges, activities or events, you may be asked to provide Personally Identifiable Information or to answer questions that seek your personal information. We may transfer your Personally Identifiable Information to third parties in conjunction with such challenges, activities or events. Specifically, if you enter a submission to a challenge, ChallengePost may share your Personally Identifiable Information and other information included in the submission with the challenge creator or relevant Sponsor(s).
+ChallengePost may enter into collaborative relationships with other third parties on the Site with respect to challenges, activities or events. If you participate in these challenges, activities or events, you may be asked to provide Personally Identifiable Information or to answer questions that seek your personal information. We may transfer your Personally Identifiable Information to third parties in conjunction with such challenges, activities or events.
+
+Specifically, if you register for an individual challenge in order to receive updates and enter a submission, ChallengePost may share your Personally Identifiable Information with the challenge creator or relevant Sponsor(s). If you enter a submission to a challenge, ChallengePost may share your Personally Identifiable Information and other information included in the submission with the challenge creator or relevant Sponsor(s).
 
 ### Legal Requirements
 
-ChallengePost may disclose your Personally Identifiable Information if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend the rights or property of ChallengePost, (c) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (d) protect against legal liability.
+ChallengePost may disclose your Personally Identifiable Information if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend the rights or property of ChallengePost, © act in urgent circumstances to protect the personal safety of users of the Site or the public, or (d) protect against legal liability.
 
 ### Business Transfers
 
@@ -57,13 +59,13 @@ As we develop our business, we might sell or buy businesses or assets. In the ev
 
 ## Accessing and Modifying Personally Identifiable Information and Communication Preferences
 
-You may access, review, and/or make changes to Personally Identifiable Information that you have provided to us by logging in on the Site, clicking on your username, then clicking “settings”.  In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any ChallengePost marketing e-mails.  We will use commercially reasonable efforts to process such requests in a timely manner.  You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.  You cannot opt-out of receiving transactional e-mails related to your account with ChallengePost. Personally Identifiable Information provided to us that is contained in a submission to a challenge may not be edited after the competition submission deadline until the conclusion of the challenge, per the rules of each competition. Requests to remove such information from a submission may be made after a challenge is over by emailing us at  [support@challengepost.com.](mailto:support@challengepost.com)
+You may access, review, and/or make changes to Personally Identifiable Information that you have provided to us by logging in on the Site, clicking on your username, then clicking “settings”.  In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any ChallengePost marketing e-mails.  We will use commercially reasonable efforts to process such requests in a timely manner.  You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.  You cannot opt-out of receiving transactional e-mails related to your account with ChallengePost. Personally Identifiable Information provided to us that is contained in a submission to a challenge may not be edited after the competition submission deadline until the conclusion of the challenge, per the rules of each competition. Requests to remove such information from a submission may be made after a challenge is over by emailing us at  support@challengepost.com.
 
 ## Children
 
 ChallengePost is not directed at individuals under thirteen years of age, the Site does not knowingly accept registrations from children under thirteen years of age. and we do not intend to collect any Personally Identifiable Information from such individuals. We recommend that minors over the age of thirteen ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-If you suspect that your child under the age of thirteen has created an account on the Site, please let us know by e-mailing [support@challengepost.com](mailto:support@challengepost.com).
+If you suspect that your child under the age of thirteen has created an account on the Site, please let us know by e-mailing support@challengepost.com.
 
 Although ChallengePost.com does not knowingly accept registrations from users under the age of thirteen, minors can still enter and win contests by having their parents or guardians register for ChallengePost.com on their behalf. In cases where a challenge is open to children under thirteen, those representing children under thirteen will be required to submit a parental consent notice before their child’s submissions will be eligible to win the contest.
 
@@ -109,4 +111,4 @@ Under California Civil Code Section 1798.83, California residents who have an es
 
 ## Contact Us
 
-If you have any questions about this policy or our site in general, please contact us at [support@challengepost.com](mailto:support@challengepost.com) or via mail to ChallengePost, Inc, 425 West 13th Street, Suite 504, New York, NY 10014.
+If you have any questions about this policy or our site in general, please contact us at support@challengepost.com or via mail to ChallengePost, Inc, 425 West 13th Street, Suite 504, New York, NY 10014.
