@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastlemon.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630222022id_/http%3A//lastlemon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastlemon.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205095730id_/http%3A//lastlemon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Last Lemon
 
@@ -30,3 +30,5 @@ lastlemon.com discloses potentially personally-identifying information only to t
 ## Amendments to our Privacy Policy
 
 Although most changes are likely to be minor, lastlemon.com may occasionally amend its Privacy Policy, and at our discretion. We encourage you to frequently check this page for any Privacy Policy amendments. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+Terms of Service for our Happy/Sad/Love & Friendship projects can be found [here](http://lastlemon.com/terms-of-service/). 
