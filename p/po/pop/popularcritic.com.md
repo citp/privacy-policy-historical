@@ -1,83 +1,83 @@
-> *The following text is extracted and transformed from the popularcritic.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615214323id_/http%3A//www.popularcritic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popularcritic.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205114857id_/http%3A//atlantablackstar.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Statement - Atlanta Black Star
 
-**POPULAR CRITIC Website Privacy Statement**
+**Atlanta Black Star Privacy Statement**
 
-This document was last updated on April 11, 2011.
+This document was last updated on January 1st, 2011.
 
-**1\. Acknowledgement and acceptance of terms**
+1\. Acknowledgement and acceptance of terms
 
-POPULAR CRITIC is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing PopularCritic.com, you acknowledge and fully understand PopularCritic.com’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+AtlantaBlackStar.com is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing AtlantaBlackStar.com, you acknowledge and fully understand AtlantaBlackStar.com’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-**2\. Participating Merchant Policies**
+2\. Participating Merchant Policies
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in POPULAR CRITIC services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in AtlantaBlackStar.com services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-**3\. Information We Collect and How We Use It**
+3\. Information We Collect and How We Use It
 
-POPULAR CRITIC     collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+AtlantaBlackStar.com  collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
 
-**a. Web Server Logs**.
+a. Web Server Logs.
 
 When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-ï¿½ Your Internet protocol address.
+� Your Internet protocol address.
 
-ï¿½ The kind of browser or computer you use.
+� The kind of browser or computer you use.
 
-ï¿½ Number of links you click within the site.
+� Number of links you click within the site.
 
-ï¿½ State or country from which you accessed the site.
+� State or country from which you accessed the site.
 
-ï¿½ Date and time of your visit.
+� Date and time of your visit.
 
-ï¿½ Name of your Internet service provider.
+� Name of your Internet service provider.
 
-ï¿½ Web page you linked to our site from.
+� Web page you linked to our site from.
 
-ï¿½ Pages you viewed on the site.
+� Pages you viewed on the site.
 
-**b. Use of Cookies**
+b. Use of Cookies
 
-POPULAR CRITIC may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
+AtlantaBlackStar.com  may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality..
 
-POPULAR CRITIC reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into PopularCritic.com a site that relies on third-party cookies).
+AtlantaBlackStar.com reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into AtlantaBlackStar.com a site that relies on third-party cookies).
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
 c. Personal Information Users
 
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
+Visitors to our website can register to purchase products and services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, financial informaiton, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
 
 We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
-ï¿½ To fulfill your service requests for services.
+� To fulfill your service requests for services.
 
-ï¿½ To protect ourselves from liability,
+� To protect ourselves from liability,
 
-ï¿½ To respond to legal process or comply with law, or
+� To respond to legal process or comply with law, or
 
-ï¿½ In connection with a merger, acquisition, or liquidation of the company.
+� In connection with a merger, acquisition, or liquidation of the company.
 
-**4\. Use of Web Beacons or GIF files**
+4\. Use of Web Beacons or GIF files
 
-PopularCritic.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow POPULAR CRITIC to count users who have visited those pages and to deliver co-branded services. POPULAR CRITIC may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+AtlantaBlackStar.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow AtlantaBlackStar.com to count users who have visited those pages and to deliver services. AtlantaBlackStar.com may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
 
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. POPULAR CRITIC prohibits Web beacons from being used to collect or access your personal information.
+Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. AtlantaBlackStar.com prohibits Web beacons from being used to collect or access your personal information.
 
-**5\. Accessing Web Account Information**
+5\. Accessing Web Account Information
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant — [info@popularcritic.com](mailto:info@dimewars.com).
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant — [help@AtlantaBlackStar.com](mailto:help@AtlantaBlackStar.com)
 
-**8\. Changes to this Statement**
+6\. Changes to this Statement
 
-POPULAR CRITIC has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+AtlantaBlackStar.com has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-**7\. Contacting Us**
+7\. Contacting Us
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us. [info@popularcritic.com](mailto:info@dimewars.com)
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us. [help@AtlantaBlackStar.com](mailto:help@AtlantaBlackStar.com)
 
-POPULAR CRITIC will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+AtlantaBlackStar.com will use commercially reasonable efforts to promptly respond and resolve any problem or question.
