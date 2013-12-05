@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the music44.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126222728id_/http%3A//www.music44.com/X/product/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music44.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205171545id_/http%3A//www.music44.com/X/product/PRIVACY) for the most accurate reproduction.*
 
 # Your Privacy at Music44.com : Product Code PRIVACY
 
@@ -17,11 +17,13 @@ We do, of course, ask you for certain kinds of personal information in order to 
 
 **How we use cookies**
 
-Your browser does not need to accept or use cookies to shop at Music44.com. However, several of our services involve cookies. These are for your convenience only, and are not used for any other purpose. 
+Your browser does not need to accept or use cookies to shop at Music44.com. However, some of our services involve cookies. These are for your convenience only. 
 
-In addition, we also use cookies to help us better understand your use of Music44.com so we can continue to refine and improve the website for our customers. However, no user-specific information is stored or retrieved from these cookies. The information is simply aggregated into a total picture of how customers "en masse" use our website. (Our system is not capable of relating cookie information to individual customers or website users.) This allows us, for example, to determine which platforms, browsers, and screen settings our customers are using, which marketing efforts are more effective, and if human error may be occurring on certain parts of the website as a result of lack of clarity in direction or navigation. This helps us build a better shopping experience and keeps our marketing costs down, which ultimately enables us to pass the savings back to you in the form of lower prices. 
+Cookies are also used for remarketing ads for you through the Google network via Doubleclick (using 3rd party cookies) to inform, optimize and serve ads based on your past visit to our website. Specifically, Google shows ads across the internet of selected websites called the "Google Display Network". Remarketing cookies allow us to display an ad to you on other websites, to remind you of our services if say, you were at our website and abandoned our shopping cart. Still, if you prefer, you can set your browser to accept no cookies, or tell it to erase all cookies at the end of a session here. You may also install the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/), which will prevent these remarketing cookies on your computer. 
 
-Still, if you prefer, you can set your browser to accept no cookies, or tell it to erase all cookies at the end of a session. 
+In addition, we also use cookies to help us better understand your use of Music44.com so we can continue to refine and improve the website for our customers. However, no user-specific information is stored or retrieved from these cookies. The information is simply aggregated into a total picture of how customers "en masse" use our website. (Our system is not capable of relating this cookie information to individual customers or website users.) This allows us, for example, to determine which platforms, browsers, and screen settings our customers are using, which marketing efforts are more effective, and if human error may be occurring on certain parts of the website as a result of lack of clarity in direction or navigation. This helps us build a better shopping experience and keeps our marketing costs down, which ultimately enables us to pass the savings back to you in the form of lower prices. 
+
+You can set your browser to accept no cookies, or tell it to erase all cookies at the end of a session. 
 
 **Our business partners**
 
