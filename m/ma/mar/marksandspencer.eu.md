@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marksandspencer.eu privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604222431id_/http%3A//www.marksandspencer.eu/Privacy-and-Security/privacy-policy%2Cen_DE%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marksandspencer.eu privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205193749id_/http%3A//www.marksandspencer.eu/Privacy-and-Security/privacy-policy%2Cen_DE%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -52,7 +52,25 @@ M&S (and third party data processors acting on our behalf) may collect, store an
 
 
 
-We also process your payment card details in order to complete any purchase that you make through this Website and, in certain instances, disclose your personal data to third party credit reference agencies to perform credit checks against you. When you place an order with us, we may offer to retain your payment card details for your convenience to save you having to re-enter these details on a future occasion. We cannot retain details of any other type of payment you use on the Website. If you have asked us to retain your payment card details and decide at a later date that you do not want us to maintain these details, you can go to 'My Account', click on 'Edit or delete a credit card' and delete any card information that we hold about you.
+## Use of personal data when choosing Klarna as payment method
+
+If you choose Klarna's payment services Klarna invoice and Klarna account as payment options, you agree that we collect and transmit to Klarna your personal data required for processing a purchase on account and carrying out an identity and credit check, such as first and last name, address, date of birth, gender, e-mail address, IP address, telephone number, as well as the order-related data required for processing a purchase on account, such as number of items, article number, invoice amount and tax in per cent. The transmission of such data is made in order to enable Klarna to issue an invoice and carry out an identity and credit check for processing your purchase with your requested invoice processing method. Klarna thereby has a legitimate interest in transmitting personal data of the buyer pursuant to the Federal Data Protection Act (Bundesdatenschutzgesetz, BDSG) and requires such data for obtaining information from credit reference agencies for the purpose of carrying out an identity and credit check. In Germany, this can be the following credit reference agencies:
+
+  * Schufa Holding AG, Kormoranweg 5, 65203 Wiesbaden, Germany
+  * Bürgel Wirtschaftsinformationen GmbH & Co. KG, Postfach 5001 66, 22701 Hamburg, Germany
+  * Creditreform Bremen Seddig KG, Contrescarpe 17, 28203 Bremen, Germany
+  * infoscore Consumer Data GmbH, Rheinstraße 99, 76532 Baden-Baden, Germany
+
+
+
+Within the framework of the decision about the conclusion, execution or termination of the contractual relationship, Klarna also collects and uses - apart from an address check - information on the previous payment behaviour of the buyer as well as probability values related to such behaviour in the future. Klarna will calculate these score values based on a scientifically recognised mathematical-statistical method. Klarna will inter alia also use your address details for this purpose. Should this calculation show that you are not creditworthy, you will immediately be informed of this by Klarna.
+
+_Revocation of the use of personal data vis-à-vis Klarna_
+
+  1. You may revoke your consent to the use of personal data vis-à-vis Klarna at any time. However, Klarna may remain entitled to process, use and transmit the personal data to the extent required for the contractual payment processing through Klarna's services, legally required or requested by a court or an authority.
+  2. You may, of course, obtain information about the personal data stored by Klarna at any time. This right is guaranteed by the Federal Data Protection Act. Should you as buyer wish to obtain such information or should you wish to inform Klarna about changes of the stored data, you may contact Datenschutz@klarna.de.
+
+
 
 In addition, we may collect anonymised details about visitors to our Website for the purposes of aggregate statistics or reporting purposes. However, no single individual will be identifiable from the anonymised details that we collect for these purposes.
 
