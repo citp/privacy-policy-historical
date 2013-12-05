@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shinola.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510174100id_/http%3A//www.shinola.com/customer-service/general-resources/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinola.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205051128id_/http%3A//www.shinola.com/customer-service/general-resources/security-privacy) for the most accurate reproduction.*
 
 # Customer Information Protection | Shinola.com
 
