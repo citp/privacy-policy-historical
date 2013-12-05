@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627214342id_/http%3A//www.destructoid.com/destructoid-com-privacy-policy-28114.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205014523id_/http%3A//www.destructoid.com/destructoid-com-privacy-policy-28114.phtml) for the most accurate reproduction.*
 
 # destructoid.com privacy policy - Destructoid
 
@@ -56,25 +56,16 @@ If you have any questions about this privacy statement, the practices of this si
   
   
   
+  
 
 
 | 
 
 [](http://www.destructoid.com/author.phtml?name=Niero%20Gonzalez&a=1329)
 
-[](http://www.destructoid.com/microsoft-reportedly-no-longer-charges-for-patches-257105.phtml)
+[](http://www.destructoid.com/rune-factory-studio-shuts-down-declares-bankruptcy-266619.phtml)
 
-Eurogamer is reporting that Microsoft has ended its unfortunate policy of charging developers hand over fist to patch Xbox 360 games. Instead of granting just one free update, developers allegedly can now submit subsequent up...[more](http://www.destructoid.com/microsoft-reportedly-no-longer-charges-for-patches-257105.phtml)
-
-  
-
-
-  
-
-
-[](http://www.destructoid.com/id-software-president-parts-ways-with-company-257019.phtml)
-
-Retirement, it would seem, is in the cards for many of this industry's pioneers and luminaries. In a statement released to IGN, Bethesda has confirmed that id Software president Todd Hollenshead has parted ways with the house...[more](http://www.destructoid.com/id-software-president-parts-ways-with-company-257019.phtml)
+Rune Factory developer Neverland has closed its doors, according to a statement on the company's official website. The studio ceased operations today and announced plans to file for bankruptcy in the near future. Struggling w...[more](http://www.destructoid.com/rune-factory-studio-shuts-down-declares-bankruptcy-266619.phtml)
 
   
 
@@ -82,9 +73,19 @@ Retirement, it would seem, is in the cards for many of this industry's pioneers 
   
 
 
-[](http://www.destructoid.com/activision-microsoft-must-prove-xbox-one-s-value-257081.phtml)
+[](http://www.destructoid.com/nielsen-survey-highlights-most-wanted-next-gen-games-266550.phtml)
 
-Sony cut the PlayStation 4's camera leading up to E3 to help drive their console's price point to a cool $399. Meanwhile, the Xbox One has consumers subsidizing the Kinect with its $499 price point and weaker specs. According...[more](http://www.destructoid.com/activision-microsoft-must-prove-xbox-one-s-value-257081.phtml)
+The results are in for a next-gen gaming survey given to active male and female games in the United States between the ages of 7-54, and according to Nielsen's findings, the most-wanted title of the eighth console generation ...[more](http://www.destructoid.com/nielsen-survey-highlights-most-wanted-next-gen-games-266550.phtml)
+
+  
+
+
+  
+
+
+[](http://www.destructoid.com/angry-birds-go-has-a-125-car-because-of-course-it-does-266548.phtml)
+
+Angry Birds Go! has soft launched over in New Zealand, and Pocket Gamer is giving a nice little break down of how the game plays. Their hands-on has discovered that the game is heavy on microtransactions, one of which include...[more](http://www.destructoid.com/angry-birds-go-has-a-125-car-because-of-course-it-does-266548.phtml)
 
   
 
