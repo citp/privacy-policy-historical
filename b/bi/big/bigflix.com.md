@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigflix.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620153045id_/http%3A//www.bigflix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigflix.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205224011id_/http%3A//www.bigflix.com/privacy) for the most accurate reproduction.*
 
 # BIGFlix - Watch Movies Online | Hindi Movies | Tamil Movies | Telugu Movies | Malayalam| Download Movies | Bollywood on Demand across PC, Mobile, iPad, iPhone and Android
 
