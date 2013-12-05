@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jordans.co.uk privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513151147id_/http%3A//www.jordans.co.uk/statutory-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jordans.co.uk privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205044809id_/http%3A//www.jordans.co.uk/statutory-information/privacy-policy.html) for the most accurate reproduction.*
 
 # Jordans privacy policy
 
@@ -37,7 +37,7 @@ We may also use this information to notify you about our services and products, 
 If you do not wish to receive such information, please write to the Head of Marketing, Jordans Limited, 21 St Thomas Street, Bristol BS1 6JS, marking your envelope "Data Protection".
 
  **How we share your personal information**  
-We may share your personal information with other companies in our group, including Jordans Publishing Limited, Jordans (Scotland) Limited and our overseas offices (full details of which are available on our website), for any of the above purposes and with those with whom we are co-presenting any training session or event (in which case the use by our co-presenters will be restricted to arranging and publicising the event). 
+We may share your personal information with other companies in our group, including Jordan Publishing Limited, Jordans (Scotland) Limited, Jordans Corporate Law Limited and our overseas offices (full details of which are available on our website), for any of the above purposes and with those with whom we are co-presenting any training session or event (in which case the use by our co-presenters will be restricted to arranging and publicising the event). 
 
 In order to provide services to you we may be required to pass your personal information to parties located outside of the European Economic Area in countries which do not have data protection laws equivalent to those in the UK. Where this is the case we will take reasonable steps to ensure the privacy of your information.
 
