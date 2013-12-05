@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axill.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531233243id_/http%3A//www.axill.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axill.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205055120id_/http%3A//www.axill.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Affiliate Network - CPA CPM Publishers Advertisers
 
