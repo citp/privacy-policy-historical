@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitalfootball.co.uk privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620090303id_/http%3A//www.vitalfootball.co.uk/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalfootball.co.uk privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205210045id_/http%3A//www.vitalfootball.co.uk/privacypolicy.asp) for the most accurate reproduction.*
 
 # UK Football News, Results and Forums.
 
