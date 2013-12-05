@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630201045id_/http%3A//www.preloved.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205123526id_/http%3A//www.preloved.co.uk/privacy) for the most accurate reproduction.*
 
 # Preloved | Sell Used for Free Online in UK and Ireland
 
