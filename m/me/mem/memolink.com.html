@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the memolink.com privacy policy that was archived on 2013-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513043739id_/http%3A//www.memolink.com/index.cfm/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the memolink.com privacy policy that was archived on 2013-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205084235id_/http%3A//www.memolink.com/index.cfm/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="stylish-select"><head>
 			
@@ -10,6 +10,7 @@
 			
 				<meta http-equiv="cache-control" content="no-cache">
 				<meta http-equiv="Pragma" content="no-cache">
+			<meta name="google-site-verification" content="DbKfSnd-SPMxq9KgKqpf4KzskhnCtYxt_l-xYDdsKo0">	
 			
 
 			
@@ -20,6 +21,7 @@
 
 			
 			<link rel="stylesheet" href="/assets/css/reset.css" type="text/css" media="screen, projection">
+			<link rel="stylesheet" href="/assets/css/jquery.autocomplete.css" type="text/css" media="screen, projection">
 			<link rel="stylesheet" href="/assets/css/style2.css?v=8" type="text/css" media="screen, projection">
 			<link rel="stylesheet" href="/assets/css/slider.css" type="text/css" media="screen, projection">
 			
@@ -27,13 +29,15 @@
 			
 				<link rel="stylesheet" href="/assets/css/jquery/selectBox/stylish-select.css" type="text/css" media="screen, projection">
 			
-
-
-
-
+				<link rel="stylesheet" href="/assets/css/jquery.autocomplete.css" type="text/css" media="screen, projection">
+			
+			
+			
 
 			
-			<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/js/jquery/jquery1.4.2.js"></script>
+			<script type="text/javascript" async="" src="//cdnjs.cloudflare.com/ajax/libs/gas/1.10.1/gas.min.js"></script><script src="/assets/js/jquery/jquery1.4.2.js"></script>
+
+			<script src="/assets/js/jquery/jquery.autocomplete.js"></script>
 			<script src="/assets/js/getSatisfaction.js"></script><script src="https://web.archive.org/web/20120504031156/https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
 			<script src="/assets/js/header.js"></script>
 			<script type="text/javascript" src="http://www.plaxo.com/css/m/js/util.js"></script>
@@ -44,20 +48,44 @@
 			
 				<script src="/assets/js/loggedout.homepage.js"></script>
 			
-
+				<script src="/assets/js/loggedout.autocomplete.js"></script>
 			
-			<script type="text/javascript">
-			  var _gaq = _gaq || [];
-			  _gaq.push(['_setAccount', 'UA-561001-1']);
-			  _gaq.push(['_setDomainName', 'memolink.com']);
-			  _gaq.push(['_trackPageview']);
+				<script src="/assets/js/jquery/jquery.autocomplete.js"></script>
+			
 
-			  (function() {
-			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			  })();
+			<script type="text/javascript">
+				var _gas = _gas || [];
+				_gas.push(['_setAccount', 'UA-561001-1']); 
+				_gas.push(['_setDomainName', '.memolink.com']); 
+				_gas.push(['_setCampNameKey', 'u_c']);
+				_gas.push(['_setCampSourceKey', 'u_s']);
+				_gas.push(['_setCampMediumKey', 'u_m']);				
+				_gas.push(['_setCampTermKey', 'u_t']);
+				_gas.push(['_setCampContentKey', 'u_ct']);
+				_gas.push(['_gasMeta']);
+				_gas.push(['_trackPageview']);
+				_gas.push(['_gasTrackForms']);
+				_gas.push(['_gasTrackOutboundLinks']);
+				_gas.push(['_gasTrackDownloads']);
+				_gas.push(['_gasTrackVimeo', {force: true}]);
+				_gas.push(['_addHook', '_trackPageview', function(page){
+				    console.log(page);
+				    if(page.toLowerCase){
+				        page = page.toLowerCase();
+				    }
+				    return [page]
+				}]);
+				
+				(function() {
+				var ga = document.createElement('script');
+				ga.type = 'text/javascript';
+				ga.async = true;
+				ga.src = '//cdnjs.cloudflare.com/ajax/libs/gas/1.10.1/gas.min.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ga, s);
+				})();
 			</script>
+
 
 			<script type="text/javascript">
 				$(document).ready(function(){
@@ -86,6 +114,27 @@
 						formField.value = stringToCheck;
 					};
 				};
+				
+				function validateSearch(form) 
+				{
+					if(form.merchant.value == '' || form.merchant.value == 'Search & Save')
+					{		
+						return false;
+					}else{
+						return true;
+					};
+				};
+				
+				function validateSearch(form) 
+				{
+					if(form.myStoreMerchant.value == '' || form.myStoreMerchant.value == 'Search & Save')
+					{		
+						return false;
+					}else{
+						return true;
+					};
+				};
+				
 
 				$(document).ready(function()
 				{
@@ -115,6 +164,54 @@
 					{
 						document.location.href='/index.cfm/shop.store/'+ merchant + originTracking;
 					}
+				};
+				
+				function buildForm() {
+					var formAction = $('#formActions').val();
+				
+					if (formAction == 'stores') {					
+						 $('#storeSearch').show();
+						 $('#storeSearch').css({'display':'inline'})
+						 $('#storeSearch').css({'visibility':'visible'})
+						 
+						 $('#productSearch').hide();
+						 $('#productSearch').css({'display':'none'})
+						 $('#productSearch').css({'visibility':'hidden'})
+						 
+						 $('#couponSearch').hide();
+						 $('#couponSearch').css({'display':'none'})
+						 $('#couponSearch').css({'visibility':'hidden'})	
+					}
+					else if (formAction == 'coupons') {						
+						 $('#storeSearch').hide();
+						 $('#storeSearch').css({'display':'none'})
+						 $('#storeSearch').css({'visibility':'hidden'})
+						 
+						 $('#productSearch').hide();
+						 $('#productSearch').css({'display':'none'})
+						 $('#productSearch').css({'visibility':'hidden'})
+						 
+						 $('#couponSearch').show();
+						 $('#couponSearch').css({'display':'inline'})
+						 $('#couponSearch').css({'visibility':'visible'})
+					}	
+					else {
+						 $('#storeSearch').hide();
+						 $('#storeSearch').css({'display':'none'})
+						 $('#storeSearch').css({'visibility':'hidden'})
+						 
+						 $('#productSearch').show();
+						 $('#productSearch').css({'display':'inline'})
+						 $('#productSearch').css({'visibility':'visible'})
+						 
+						 $('#couponSearch').hide();
+						 $('#couponSearch').css({'display':'none'})
+						 $('#couponSearch').css({'visibility':'hidden'})
+					};
+					//if (merchant.length > 1 )
+					//{
+					//	document.location.href='/index.cfm/shop.store/'+ merchant + originTracking;
+					//}
 				};
 
 				
@@ -232,2568 +329,35 @@
 								<a href="/index.cfm/earn.rewardlist" class="noLinkUnderline"><img src="/assets/images/rewardsIcon.png" title="share" alt="share" width="114" height="50"></a>
 							</li>
 						</ul>
-
-						<div id="merchantDrop" style="padding-top:12px;padding-left:594px;">
-							<div class="formInput">
-								
-								<select id="merchants" name="merchants" onchange="merchantSelectForm('');" style="font-size:17px;font-weight:none;height:27px;width:350px;">
-									<option value="">Select Store</option>
-									
-										<option value="1&amp;1">1&amp;1, 16,000 points</option>
-									
-										<option value="123-Print">123 Print, 112 pts/$</option>
-									
-										<option value="123-Refills">123 Refills, 200 pts/$</option>
-									
-										<option value="123Inkjets">123Inkjets, 40 pts/$</option>
-									
-										<option value="1-800-Baskets">1800 Baskets.com, 96 pts/$</option>
-									
-										<option value="1-800-Contacts">1800 Contacts, 24 pts/$</option>
-									
-										<option value="1800-Flowers.com">1800 Flowers.com, 160 pts/$</option>
-									
-										<option value="1-800-Got-Junk">1800 Got Junk, 24 pts/$</option>
-									
-										<option value="1800mattress">1800 Mattress.com, 72 pts/$</option>
-									
-										<option value="1-800-PetSupplies">1800 Pet Supplies.com, 40 pts/$</option>
-									
-										<option value="1-800-PetMeds">1800 PetMeds, 96 pts/$</option>
-									
-										<option value="1800Lighting">1800Lighting.com, 64 pts/$</option>
-									
-										<option value="1st-platinum-plus">1st Platinum Plus, 8,000 points</option>
-									
-										<option value="1st-Wishes">1st Wishes, 80 pts/$</option>
-									
-										<option value="23andMe">23andMe, 40 pts/$</option>
-									
-										<option value="24-Hour-Fitness">24 Hour Fitness, 80 pts/$</option>
-									
-										<option value="2Yourface">2YourFace, 480 points</option>
-									
-										<option value="360-Training">360 Training, 120 pts/$</option>
-									
-										<option value="3balls-Golf">3balls Golf, 32 pts/$</option>
-									
-										<option value="3D-Laser-Gifts">3D Laser Gifts, 136 pts/$</option>
-									
-										<option value="4-All-Memory">4 All Memory, 64 pts/$</option>
-									
-										<option value="4-checks.com">4 checks.com, 200 pts/$</option>
-									
-										<option value="48hour-Print">48Hour Print, 120 pts/$</option>
-									
-										<option value="4Imprint-Canada">4Imprint Canada, 24 pts/$</option>
-									
-										<option value="4inkjets">4inkjets, 40 pts/$</option>
-									
-										<option value="525-America">525 America, 48 pts/$</option>
-									
-										<option value="6pm.com">6pm.com, 56 pts/$</option>
-									
-										<option value="77kids">77Kids, 48 pts/$</option>
-									
-										<option value="99designs">99 Designs, 192 pts/$</option>
-									
-										<option value="A-Pea-In-The-Pod">A Pea In The Pod, 64 pts/$</option>
-									
-										<option value="a-Thread">A-Thread, 40 pts/$</option>
-									
-										<option value="AARP">AARP, 4,800 points</option>
-									
-										<option value="ABC-mouse.com">ABC mouse.com, 3,200 points</option>
-									
-										<option value="Abe-Books.com">Abe Books.com, 40 pts/$</option>
-									
-										<option value="Abe's-Of-Maine">Abe's Of Maine, 20 pts/$</option>
-									
-										<option value="Abt-Electronics">Abt Electronics, 32 pts/$</option>
-									
-										<option value="AC-Lens">AC Lens, 96 pts/$</option>
-									
-										<option value="Accessory-Geeks.com">Accessory Geeks.com, 144 pts/$</option>
-									
-										<option value="Accor-hotels.com">AccorHotels.com, 48 pts/$</option>
-									
-										<option value="Account-Now---Gold-Visa">Account Now - Gold Visa, 800 points</option>
-									
-										<option value="ACDSee">ACDSee, 120 pts/$</option>
-									
-										<option value="Ace-Hardware">Ace Hardware, 40 pts/$</option>
-									
-										<option value="AdditionElle">AdditionElle, 48 pts/$</option>
-									
-										<option value="Adidas">Adidas, 60 pts/$</option>
-									
-										<option value="Adobe">Adobe, 56 pts/$</option>
-									
-										<option value="Adorama">Adorama, 32 pts/$</option>
-									
-										<option value="Advance-Auto-Parts">Advance Auto Parts, 80 pts/$</option>
-									
-										<option value="AdvantraZ">AdvantraZ, 200 pts/$</option>
-									
-										<option value="AeroGarden">AeroGarden, 80 pts/$</option>
-									
-										<option value="Aeropostale">Aeropostale, 32 pts/$</option>
-									
-										<option value="Affliction">Affliction, 40 pts/$</option>
-									
-										<option value="Air-&amp;-Water">Air &amp; Water, 48 pts/$</option>
-									
-										<option value="Air-France">Air France, 8 pts/$</option>
-									
-										<option value="AJ-Madison">AJ Madison, 28 pts/$</option>
-									
-										<option value="Alamo-Rent-A-Car">Alamo Rent A Car, 24 pts/$</option>
-									
-										<option value="Alibris">Alibris, 40 pts/$</option>
-									
-										<option value="Alloy.com">Alloy.com, 40 pts/$</option>
-									
-										<option value="AllPosters.com">AllPosters.com, 96 pts/$</option>
-									
-										<option value="Altrec.com">Altrec.com, 80 pts/$</option>
-									
-										<option value="Amazon-Local">AmazonLocal, 400 points</option>
-									
-										<option value="America's-Best-Value-Inn">America's Best Value Inn, 24 pts/$</option>
-									
-										<option value="American-Bridal">American Bridal, 96 pts/$</option>
-									
-										<option value="American-Chia">American Chia, 800 points</option>
-									
-										<option value="American-Eagle-Outfitters">American Eagle Outfitters, 32 pts/$</option>
-									
-										<option value="American-Express-Travel">American Express Travel, 800 points</option>
-									
-										<option value="AmeriCash">AmeriCash, 40,000 points</option>
-									
-										<option value="Ancestry.com">Ancestry.com, 16 pts/$</option>
-									
-										<option value="Angie's-List">Angie's List, 472 pts/$</option>
-									
-										<option value="Ann-Taylor">Ann Taylor, 40 pts/$</option>
-									
-										<option value="Ann's-Bridal-Bargains">Ann's Bridal Bargains, 80 pts/$</option>
-									
-										<option value="Anne-Klein-Gift-Card">Anne Klein Gift Card, 40 pts/$</option>
-									
-										<option value="Anne-Klein">Anne Klein, 40 pts/$</option>
-									
-										<option value="Anytime-Costumes">Anytime Costumes, 80 pts/$</option>
-									
-										<option value="Apothica">Apothica, 160 pts/$</option>
-									
-										<option value="Apple-Store">Apple Store, 16 pts/$</option>
-									
-										<option value="Appleseeds">Appleseeds, 40 pts/$</option>
-									
-										<option value="Art.com">Art.com, 96 pts/$</option>
-									
-										<option value="Ashford">Ashford, 48 pts/$</option>
-									
-										<option value="Ashley-Stewart">Ashley Stewart, 48 pts/$</option>
-									
-										<option value="Asian-Food-Grocer">Asian Food Grocer, 80 pts/$</option>
-									
-										<option value="A.T.-Cross">AT Cross, 96 pts/$</option>
-									
-										<option value="AT&amp;T">AT&amp;T, 14,000 points</option>
-									
-										<option value="Athleta-eGift-Card">Athleta eGift Card, 32 pts/$</option>
-									
-										<option value="Athleta">Athleta, 64 pts/$</option>
-									
-										<option value="Atlantis">Atlantis, 32 pts/$</option>
-									
-										<option value="Attain-IVF">Attain IVF, 2,000 points</option>
-									
-										<option value="Audible">Audible, 6,000 points</option>
-									
-										<option value="Auto-Parts-Giant">Auto Parts Giant, 80 pts/$</option>
-									
-										<option value="Auto-Parts-Warehouse">Auto Parts Warehouse, 96 pts/$</option>
-									
-										<option value="AutoAnything">AutoAnything, 8 pts/$</option>
-									
-										<option value="AutoSport-Catalog">AutoSport Catalog, 72 pts/$</option>
-									
-										<option value="AutoTrader.com">AutoTrader.com, 80 pts/$</option>
-									
-										<option value="AutoZone">AutoZone, 64 pts/$</option>
-									
-										<option value="Avenue">Avenue, 72 pts/$</option>
-									
-										<option value="Avidrin">Avidrin, 200 pts/$</option>
-									
-										<option value="Avis-Rent-a-Car">Avis Rent-a-Car, 24 pts/$</option>
-									
-										<option value="Avon-Canada">Avon Canada, 64 pts/$</option>
-									
-										<option value="Avon">Avon, 48 pts/$</option>
-									
-										<option value="B-T-Factory">B&amp;T Factory Direct, 40 pts/$</option>
-									
-										<option value="B2C-Jewels">B2C Jewels, 72 pts/$</option>
-									
-										<option value="Babies-Online">Babies Online, 400 points</option>
-									
-										<option value="Baby-Age">Baby Age, 40 pts/$</option>
-									
-										<option value="BabyEarth">BabyEarth, 48 pts/$</option>
-									
-										<option value="BabyGap">BabyGap, 32 pts/$</option>
-									
-										<option value="Back-country.com">Back country.com, 64 pts/$</option>
-									
-										<option value="Back-In-The-Saddle">Back In The Saddle, 80 pts/$</option>
-									
-										<option value="Baghaus">Baghaus, 96 pts/$</option>
-									
-										<option value="BagsBuy-.com">BagsBuy .com, 152 pts/$</option>
-									
-										<option value="Banana-Republic-Canada">Banana Republic Canada, 32 pts/$</option>
-									
-										<option value="Banana-Republic-Gift-Card">Banana Republic Gift Card, 32 pts/$</option>
-									
-										<option value="Banana-Republic">Banana Republic, 32 pts/$</option>
-									
-										<option value="Bare-Necessities">Bare Necessities, 24 pts/$</option>
-									
-										<option value="Barewalls.com">Barewalls.com, 100 pts/$</option>
-									
-										<option value="Barnes-&amp;-Noble">Barnes &amp; Noble Nook, 32 pts/$</option>
-									
-										<option value="Barney's-New-York">Barney's New York, 40 pts/$</option>
-									
-										<option value="Baseball-Express">Baseball Express, 64 pts/$</option>
-									
-										<option value="Bass-Pro-Shops">Bass Pro Shops, 40 pts/$</option>
-									
-										<option value="Bath-&amp;-Body-Works">Bath &amp; Body Works, 32 pts/$</option>
-									
-										<option value="Batteries.com">Batteries.com, 96 pts/$</option>
-									
-										<option value="Beaches">Beaches Resorts, 32 pts/$</option>
-									
-										<option value="Bealls-Department-Store">Bealls Department Store, 56 pts/$</option>
-									
-										<option value="beauty.com-gift-card">Beauty.com Gift Cards, 24 pts/$</option>
-									
-										<option value="Beauty.com">Beauty.com, 81 pts/$</option>
-									
-										<option value="BeautyTrends">BeautyTrends, 56 pts/$</option>
-									
-										<option value="bebe">bebe, 40 pts/$</option>
-									
-										<option value="Bed-and-breakfast-gift-card">Bed and Breakfast.com Gift Car 64 pts/$</option>
-									
-										<option value="Bed-and-Breakfast.com">Bed and Breakfast.com, 80 pts/$</option>
-									
-										<option value="Bed-Bath-&amp;-Beyond">Bed Bath &amp; Beyond, 64 pts/$</option>
-									
-										<option value="Bed-Bath-Store-.com">Bed Bath Store.com, 32 pts/$</option>
-									
-										<option value="Bedding-Style-.com">Bedding Style.com , 80 pts/$</option>
-									
-										<option value="BedHead-Pajamas">BedHead Pajamas, 80 pts/$</option>
-									
-										<option value="Been-Verified">Been Verified, 10,496 points</option>
-									
-										<option value="Beezid">Beezid, 20,000 points</option>
-									
-										<option value="Bellacor">Bellacor, 64 pts/$</option>
-									
-										<option value="Bellavani-Anti-Aging-Serum">Bellavani Anti-Aging Serum Tri 18,000 points</option>
-									
-										<option value="Belle-&amp;-Clive">Belle &amp; Clive, 40 pts/$</option>
-									
-										<option value="Benefit-Cosmetics">Benefit Cosmetics, 56 pts/$</option>
-									
-										<option value="Bergners">Bergners, 32 pts/$</option>
-									
-										<option value="Best-Buy">Best Buy, 12 pts/$</option>
-									
-										<option value="Best-Western">Best Western, 40 pts/$</option>
-									
-										<option value="Better-World-Books">Better World Books, 40 pts/$</option>
-									
-										<option value="Beyond-The-Rack-Shopping">Beyond The Rack Shopping, 8 pts/$</option>
-									
-										<option value="Beyond-The-Rack-Registration">Beyond The Rack-Registration, 80 points</option>
-									
-										<option value="BH-Cosmetics-Gift-Card">BH Cosmetics Gift Card, 112 pts/$</option>
-									
-										<option value="bh-cosmetics">BH Cosmetics, 120 pts/$</option>
-									
-										<option value="Biblio">Biblio, 40 pts/$</option>
-									
-										<option value="BidCactus">BidCactus, 6,000 points</option>
-									
-										<option value="Bidz">Bidz, 6,400 points</option>
-									
-										<option value="BIG-DOGS.com">BIG DOGS.com, 120 pts/$</option>
-									
-										<option value="Big-Top-Cupcake">Big Top Cupcake, 3,400 points</option>
-									
-										<option value="Bigger-Books.com">Bigger Books.com, 52 pts/$</option>
-									
-										<option value="Bike-Nashbar">Bike Nashbar, 40 pts/$</option>
-									
-										<option value="Bike-Bandit-.com">BikeBandit.com, 40 pts/$</option>
-									
-										<option value="Bion-SmartFile">Bion SmartFile, 800 points</option>
-									
-										<option value="bird.com">bird.com, 96 pts/$</option>
-									
-										<option value="Birdalog">Birdalog, 80 pts/$</option>
-									
-										<option value="Birthday-Express">Birthday Express, 120 pts/$</option>
-									
-										<option value="Birthday-in-a-Box">Birthday in a Box, 40 pts/$</option>
-									
-										<option value="BJ's-Wholesale-Club">BJ's Wholesale Club, 8 pts/$</option>
-									
-										<option value="Black-&amp;-Decker">Black &amp; Decker, 80 pts/$</option>
-									
-										<option value="Blair">Blair, 76 pts/$</option>
-									
-										<option value="Blinds.com">Blinds.com, 40 pts/$</option>
-									
-										<option value="Bliss-">Bliss , 64 pts/$</option>
-									
-										<option value="blogtalkradio">BlogTalkRadio, 800 points</option>
-									
-										<option value="Bloomingdale's">Bloomingdale's, 24 pts/$</option>
-									
-										<option value="Blue-Nile">Blue Nile, 8 pts/$</option>
-									
-										<option value="Bluefly">Bluefly, 48 pts/$</option>
-									
-										<option value="Boden">Boden, 40 pts/$</option>
-									
-										<option value="Body-Candy">Body Candy, 120 pts/$</option>
-									
-										<option value="The-Body-Shop-Canada">Body Shop Canada, The, 64 pts/$</option>
-									
-										<option value="The-Body-Shop">Body Shop, The, 64 pts/$</option>
-									
-										<option value="Bon-Appetit">Bon Appetit, 320 pts/$</option>
-									
-										<option value="Book-Renter-.com">Book Renter, 64 pts/$</option>
-									
-										<option value="Bookit.com">Bookit.com, 1,600 points</option>
-									
-										<option value="Booksamillion">Booksamillion, 25 pts/$</option>
-									
-										<option value="Boost-Mobile">Boost Mobile, 14,000 points</option>
-									
-										<option value="Boot-Barn">Boot Barn, 64 pts/$</option>
-									
-										<option value="Boscov's-">Boscov's , 48 pts/$</option>
-									
-										<option value="Boscovs-Gift-Card">Boscov's Gift Card, 72 pts/$</option>
-									
-										<option value="Bose">Bose, 24 pts/$</option>
-									
-										<option value="Boston-Proper">Boston Proper, 32 pts/$</option>
-									
-										<option value="Boston-store.com">Boston Store.com, 32 pts/$</option>
-									
-										<option value="Botanic-Choice">Botanic Choice, 160 pts/$</option>
-									
-										<option value="Bowflex">Bowflex, 56 pts/$</option>
-									
-										<option value="The-Bradford-Exchange-Online">Bradford Exchange Online, The, 96 pts/$</option>
-									
-										<option value="Brainy-Baby">Brainy Baby, 80 pts/$</option>
-									
-										<option value="Brazil-Butt-Lift">Brazil Butt Lift, 64 pts/$</option>
-									
-										<option value="Brookhollow">Brookhollow Cards, 120 pts/$</option>
-									
-										<option value="Brooks-Brothers">Brooks Brothers, 48 pts/$</option>
-									
-										<option value="Brooks-Running-">Brooks Running , 80 pts/$</option>
-									
-										<option value="Brookstone">Brookstone, 64 pts/$</option>
-									
-										<option value="Brylane-Home">Brylane Home, 40 pts/$</option>
-									
-										<option value="Buckle">Buckle, 40 pts/$</option>
-									
-										<option value="Budget-Rent-a-Car">Budget Rent a Car, 28 pts/$</option>
-									
-										<option value="BudgetPrint">BudgetPrints, 160 pts/$</option>
-									
-										<option value="Build-A-Bear-Gift-Card">Build-A-Bear Gift Card, 48 pts/$</option>
-									
-										<option value="Build-A-Bear-Workshop">Build-A-Bear Workshop, 48 pts/$</option>
-									
-										<option value="build.com">Build.com, 32 pts/$</option>
-									
-										<option value="Burpee">Burpee Gardening, 112 pts/$</option>
-									
-										<option value="Busted-Tees">Busted Tees, 88 pts/$</option>
-									
-										<option value="Buy.com-Canada">Buy.com Canada, 24 pts/$</option>
-									
-										<option value="Buy.com">Buy.com, 8 pts/$</option>
-									
-										<option value="BuyBuy-Baby">BuyBuy Baby, 28 pts/$</option>
-									
-										<option value="BuyCostumes.com">BuyCostumes. com, 152 pts/$</option>
-									
-										<option value="Cabela's">Cabela's, 24 pts/$</option>
-									
-										<option value="Cafe-Press">Cafe Press, 80 pts/$</option>
-									
-										<option value="Calendars-.com">Calendars.com, 80 pts/$</option>
-									
-										<option value="Callaway-Golf">Callaway Golf, 72 pts/$</option>
-									
-										<option value="Callous-Clear">Callous Clear, 3,000 points</option>
-									
-										<option value="Calphalon">Calphalon, 56 pts/$</option>
-									
-										<option value="Calumet-Photographic-Equipment">Calumet Photographic Equipment 24 pts/$</option>
-									
-										<option value="Calvin-Klein">Calvin Klein, 48 pts/$</option>
-									
-										<option value="Campaigner">Campaigner, 4,000 points</option>
-									
-										<option value="Camping-World">Camping World, 48 pts/$</option>
-									
-										<option value="CampusBookRentals.com">Campus Book Rentals, 56 pts/$</option>
-									
-										<option value="Cancer-Defeated">Cancer Defeated, 400 pts/$</option>
-									
-										<option value="Candlewood-Suites">Candlewood Suites, 24 pts/$</option>
-									
-										<option value="Candy-Crate">Candy Crate, 80 pts/$</option>
-									
-										<option value="Canon">Canon, 20 pts/$</option>
-									
-										<option value="Carbonite">Carbonite, 240 pts/$</option>
-									
-										<option value="Cardmaker">Cardmaker, 6,720 points</option>
-									
-										<option value="Cardstore.com">Cardstore.com, 144 pts/$</option>
-									
-										<option value="care">care.com, 20,000 points</option>
-									
-										<option value="Carol-Wright-Gifts">Carol Wright Gifts, 64 pts/$</option>
-									
-										<option value="Carol's-Daughter">Carol's Daughter, 48 pts/$</option>
-									
-										<option value="Carolee">Carolee, 64 pts/$</option>
-									
-										<option value="Carson's">Carson's, 32 pts/$</option>
-									
-										<option value="Carter's">Carter's, 24 pts/$</option>
-									
-										<option value="CashNetUSA">CashNetUSA, 4,000 points</option>
-									
-										<option value="Casual-Male-XL">Casual Male XL, 48 pts/$</option>
-									
-										<option value="Catherines">Catherines, 40 pts/$</option>
-									
-										<option value="CB2-Canada">CB2 Canada, 40 pts/$</option>
-									
-										<option value="CBS-Sports-Challenge">CBS Sports Bracket Challenge, 56 points</option>
-									
-										<option value="Celebrate-Express">Celebrate Express, 96 pts/$</option>
-									
-										<option value="Cell-Phone-Shop">Cell Phone Shop, 120 pts/$</option>
-									
-										<option value="Cengage-Brain">Cengage Brain, 32 pts/$</option>
-									
-										<option value="Chadwick's-">Chadwick's , 40 pts/$</option>
-									
-										<option value="Champion-USA">Champion USA, 72 pts/$</option>
-									
-										<option value="Charlotte-Russe">Charlotte Russe, 40 pts/$</option>
-									
-										<option value="Cheap-Caribbean.com">Cheap Caribbean.com, 40 pts/$</option>
-									
-										<option value="CheapOAir">CheapOAir, 2,000 points</option>
-									
-										<option value="CheapTickets">CheapTickets, 1,200 points</option>
-									
-										<option value="Checks-in-the-Mail">Checks in the Mail, 136 pts/$</option>
-									
-										<option value="Checks-Unlimited">Checks Unlimited, 160 pts/$</option>
-									
-										<option value="Chef-Basket">Chef Basket, 2,800 points</option>
-									
-										<option value="Chefs">Chefs, 49 pts/$</option>
-									
-										<option value="Chegg">Chegg, 64 pts/$</option>
-									
-										<option value="Chemistry.com">Chemistry.com, 160 pts/$</option>
-									
-										<option value="Cherry-Moon-Farms">Cherry Moon Farms, 64 pts/$</option>
-									
-										<option value="Cheryls.com">Cheryls.com, 120 pts/$</option>
-									
-										<option value="Chicago-Steak-Company">Chicago Steak Company, 96 pts/$</option>
-									
-										<option value="Chico's">Chico's, 32 pts/$</option>
-									
-										<option value="The-Children's-Place">Children's Place, The, 40 pts/$</option>
-									
-										<option value="Chinese-Herbs-Direct">Chinese Herbs Direct, 96 pts/$</option>
-									
-										<option value="Chinese-Laundry">Chinese Laundry, 136 pts/$</option>
-									
-										<option value="Chocolate-Tasting-Club">Chocolate Tasting Club, 6,720 points</option>
-									
-										<option value="Choice-Hotels">Choice Hotels, 40 pts/$</option>
-									
-										<option value="ChristmasCardsDirect">Christmas Cards Direct, 80 pts/$</option>
-									
-										<option value="Christopher-&amp;-Banks">Christopher &amp; Banks, 56 pts/$</option>
-									
-										<option value="Christy-Sports">Christy Sports, 56 pts/$</option>
-									
-										<option value="Citrus-Lane">Citrus Lane, 5,280 points</option>
-									
-										<option value="City-Experts-NY">City Experts NY, 120 pts/$</option>
-									
-										<option value="CityDeals">CityDeals, 64 pts/$</option>
-									
-										<option value="CJ-Banks">CJ Banks, 56 pts/$</option>
-									
-										<option value="Claire's">Claire's, 56 pts/$</option>
-									
-										<option value="Clarion-Hotels">Clarion Hotels, 40 pts/$</option>
-									
-										<option value="Class-Watch">Class Watch, 80 pts/$</option>
-									
-										<option value="Click-Metting">Click Meeting, 240 pts/$</option>
-									
-										<option value="Clickinks.com">Clickinks.com, 128 pts/$</option>
-									
-										<option value="ClickN'Kids">ClickN'Kids, 200 pts/$</option>
-									
-										<option value="Clinique">Clinique, 64 pts/$</option>
-									
-										<option value="Clothesbuy">Clothesbuy, 152 pts/$</option>
-									
-										<option value="The-Clymb">Clymb, The, 48 pts/$</option>
-									
-										<option value="Coach">Coach, 24 pts/$</option>
-									
-										<option value="Coastal-Contacts">Coastal Contacts, 80 pts/$</option>
-									
-										<option value="Coffee-Beanery">Coffee Beanery, 96 pts/$</option>
-									
-										<option value="Coffee-For-Less-.com">Coffee For Less.com, 40 pts/$</option>
-									
-										<option value="Coffees-of-Hawaii">Coffees of Hawaii, 80 pts/$</option>
-									
-										<option value="Coldwater-Creek">Coldwater Creek, 40 pts/$</option>
-									
-										<option value="Collections-Etc">Collections Etc., 64 pts/$</option>
-									
-										<option value="ccmusic">Collector's Choice Music, 40 pts/$</option>
-									
-										<option value="College-Book-Renter">College Book Renter, 64 pts/$</option>
-									
-										<option value="Colorful-Images">Colorful Images, 96 pts/$</option>
-									
-										<option value="Columbia-Sportswear">Columbia Sportswear, 64 pts/$</option>
-									
-										<option value="Comcast">Comcast, 7,200 points</option>
-									
-										<option value="Comfort-Inn">Comfort Inn, 40 pts/$</option>
-									
-										<option value="Comfort-Suites">Comfort Suites, 40 pts/$</option>
-									
-										<option value="Compact-Appliance">Compact Appliance, 40 pts/$</option>
-									
-										<option value="CompUSA">CompUSA, 40 pts/$</option>
-									
-										<option value="Condor">Condor, 2,448 points</option>
-									
-										<option value="Constant-Contact">Constant Contact, 800 points</option>
-									
-										<option value="Contact-Lens-King">Contact Lens King, 96 pts/$</option>
-									
-										<option value="ContactsAmerica">ContactsAmerica, 64 pts/$</option>
-									
-										<option value="The-Container-Store">Container Store, The, 64 pts/$</option>
-									
-										<option value="Cookies-Kids.com">Cookies Kids.com, 40 pts/$</option>
-									
-										<option value="Cooking-.com">Cooking .com, 40 pts/$</option>
-									
-										<option value="Cooking-Pleasure-Ceramic-Skillet">Cooking Pleasures Ceramic Skil 4,000 points</option>
-									
-										<option value="Corel">Corel, 112 pts/$</option>
-									
-										<option value="Cost-Plus-World-Market">Cost Plus World Market, 64 pts/$</option>
-									
-										<option value="Costume-Craze">Costume Craze, 96 pts/$</option>
-									
-										<option value="Costume-Discounters">Costume Discounters, 8 pts/$</option>
-									
-										<option value="Costume-SuperCenter">Costume SuperCenter, 80 pts/$</option>
-									
-										<option value="Country-Door">Country Door, 40 pts/$</option>
-									
-										<option value="Country-Inn-&amp;-Suites">Country Inn &amp; Suites, 40 pts/$</option>
-									
-										<option value="Coupons-Savings-Club">Coupons Savings Club, 320 points</option>
-									
-										<option value="CourseSmart">CourseSmart, 48 pts/$</option>
-									
-										<option value="CowBoom">CowBoom, 24 pts/$</option>
-									
-										<option value="CozyBoots">CozyBoots, 136 pts/$</option>
-									
-										<option value="Crabtree-&amp;-Evelyn">Crabtree &amp; Evelyn, 80 pts/$</option>
-									
-										<option value="Crate-&amp;-Barrel">Crate &amp; Barrel, 32 pts/$</option>
-									
-										<option value="Crate-and-Barrel-Canada">Crate and Barrel Canada, 40 pts/$</option>
-									
-										<option value="Credit-Sesame">Credit Sesame, 1,000 points</option>
-									
-										<option value="creditReport">CreditReport.com, 10,800 points</option>
-									
-										<option value="Cricket-Wireless">Cricket Wireless, 14,000 points</option>
-									
-										<option value="Crock-Pot">Crock-Pot, 80 pts/$</option>
-									
-										<option value="Crocs-Canada">Crocs Canada, 64 pts/$</option>
-									
-										<option value="Crocs.com">Crocs.com, 64 pts/$</option>
-									
-										<option value="Crowne-Plaza-Hotels-&amp;-Resorts">Crowne Plaza Hotels &amp; Resorts, 24 pts/$</option>
-									
-										<option value="CruiseDirect">CruiseDirect, 28 pts/$</option>
-									
-										<option value="Crutchfield">Crutchfield, 36 pts/$</option>
-									
-										<option value="Cuddle-Uppets">Cuddle Uppets, 3,000 points</option>
-									
-										<option value="Current-Catalog">Current Catalog, 64 pts/$</option>
-									
-										<option value="Current-Labels">Current Labels, 80 pts/$</option>
-									
-										<option value="Curtain-Works">Curtain Works, 80 pts/$</option>
-									
-										<option value="CVS-Pharmacy">CVS Pharmacy, 72 pts/$</option>
-									
-										<option value="CVSphoto">CVSphoto, 72 pts/$</option>
-									
-										<option value="Cymax">Cymax, 64 pts/$</option>
-									
-										<option value="Dancing-Deer-Baking-Company">Dancing Deer Baking Company, 80 pts/$</option>
-									
-										<option value="Danskin">Danskin, 64 pts/$</option>
-									
-										<option value="Darphin">Darphin, 48 pts/$</option>
-									
-										<option value="David's-Cookies">David's Cookies, 80 pts/$</option>
-									
-										<option value="Day-Timer">Day-Timer, 88 pts/$</option>
-									
-										<option value="Debt-Goal">Debt Goal with Saavy Money, 8,000 points</option>
-									
-										<option value="dELiA's">dELiA's, 33 pts/$</option>
-									
-										<option value="Dell-Canada">Dell Canada, 8 pts/$</option>
-									
-										<option value="Dell-Home-&amp;-Home-Office">Dell Home &amp; Home Office, 40 pts/$</option>
-									
-										<option value="Dell-Small-Business">Dell Small Business, 32 pts/$</option>
-									
-										<option value="Department-of-Goods">Department of Goods, 40 pts/$</option>
-									
-										<option value="Dermstore">Dermstore, 120 pts/$</option>
-									
-										<option value="Design-Toscano">Design Toscano, 64 pts/$</option>
-									
-										<option value="Design-Within-Reach">Design Within Reach, 44 pts/$</option>
-									
-										<option value="Designer-Christmas-Wreaths">Designer Christmas Wreaths, 80 pts/$</option>
-									
-										<option value="Destination-Maternity">Destination Maternity, 56 pts/$</option>
-									
-										<option value="Destination-XL">Destination XL, 80 pts/$</option>
-									
-										<option value="Diamond-Z">Diamond Z, 5,600 points</option>
-									
-										<option value="DiaperDude.com">Diaper Dude.com, 40 pts/$</option>
-									
-										<option value="Dillard's">Dillard's, 32 pts/$</option>
-									
-										<option value="Dino-Direct-Canada">Dino Direct Canada, 160 pts/$</option>
-									
-										<option value="Direct-Gardening-.com">Direct Gardening.com, 2,400 points</option>
-									
-										<option value="DIRECTV">DIRECTV, 40,000 points</option>
-									
-										<option value="Dirty-Jobs">Dirty Jobs, 400 pts/$</option>
-									
-										<option value="Discount-Advances">Discount Advances, 12,000 points</option>
-									
-										<option value="Discount-Mags">Discount Mags, 160 pts/$</option>
-									
-										<option value="Discount-Watch-Store.com">Discount Watch Store.com, 64 pts/$</option>
-									
-										<option value="Discover-It">Discover It, 34,000 points</option>
-									
-										<option value="Discovery-Channel-Store">Discovery Channel Store, 40 pts/$</option>
-									
-										<option value="DisneyGames">Disney Games, 128 pts/$</option>
-									
-										<option value="DisneyStore">DisneyStore, 32 pts/$</option>
-									
-										<option value="dog.com">Dog.com, 96 pts/$</option>
-									
-										<option value="Dollar-Days">Dollar Days, 40 pts/$</option>
-									
-										<option value="Dollar-General">Dollar General, 40 pts/$</option>
-									
-										<option value="Dollar-Rent-A-Car">Dollar Rent A Car, 8 pts/$</option>
-									
-										<option value="Dollar-Shave-Club">Dollar Shave Club, 800 points</option>
-									
-										<option value="Dorothy-Perkins">Dorothy Perkins, 56 pts/$</option>
-									
-										<option value="Double-Down-Interactive">Double Down Interactive, 400 points</option>
-									
-										<option value="Dr.-Jay's">Dr. Jay's, 48 pts/$</option>
-									
-										<option value="Dr.-Leonard's-">Dr. Leonard's , 64 pts/$</option>
-									
-										<option value="dressbarn">dressbarn, 56 pts/$</option>
-									
-										<option value="drugstore.com-Gift-Card">drugstore.com Gift Card, 24 pts/$</option>
-									
-										<option value="drugstore.com">Drugstore.com, 100 pts/$</option>
-									
-										<option value="DSW">DSW, 64 pts/$</option>
-									
-										<option value="Duncraft">Duncraft, 80 pts/$</option>
-									
-										<option value="Dyson-Canada">Dyson Canada, 32 pts/$</option>
-									
-										<option value="Dyson">Dyson, 32 pts/$</option>
-									
-										<option value="e-resume.net">e-Resume.net, 8,000 points</option>
-									
-										<option value="Eastbay">Eastbay, 40 pts/$</option>
-									
-										<option value="Eastern-Mountain-Sports">Eastern Mountain Sports, 40 pts/$</option>
-									
-										<option value="Easy-Comforts">Easy Comforts, 40 pts/$</option>
-									
-										<option value="Easy-Spirit">Easy Spirit, 64 pts/$</option>
-									
-										<option value="eBags.com">eBags.com, 24 pts/$</option>
-									
-										<option value="eBeanstalk-Toys">eBeanstalk Toys, 80 pts/$</option>
-									
-										<option value="eBooks.com">eBooks.com, 96 pts/$</option>
-									
-										<option value="eCampus">eCampus, 40 pts/$</option>
-									
-										<option value="Econo-Lodge">Econo Lodge, 40 pts/$</option>
-									
-										<option value="eCost">eCOST, 24 pts/$</option>
-									
-										<option value="Ed-Hardy">Ed Hardy, 80 pts/$</option>
-									
-										<option value="Eddie-Bauer">Eddie Bauer, 48 pts/$</option>
-									
-										<option value="Edge-Of-Glory">Edge of Glory, 3,200 points</option>
-									
-										<option value="eFax">eFax, 2,400 points</option>
-									
-										<option value="eForCity">eForCity, 48 pts/$</option>
-									
-										<option value="Eggies">Eggies, 4,600 points</option>
-									
-										<option value="egnyte">Egnyte, 400 points</option>
-									
-										<option value="eharmony">eHarmony, 520 pts/$</option>
-									
-										<option value="ejools.com">ejools.com, 120 pts/$</option>
-									
-										<option value="Elder-Beerman">Elder Beerman, 32 pts/$</option>
-									
-										<option value="elf-Cosmetics">elf Cosmetics, 64 pts/$</option>
-									
-										<option value="Elizabeth-Arden">Elizabeth Arden, 72 pts/$</option>
-									
-										<option value="Ella-Moss">Ella Moss, 48 pts/$</option>
-									
-										<option value="Ellie">Ellie, 4,800 points</option>
-									
-										<option value="Elmos-Learning-Adventures">Elmo's Learning Adventures, 4,000 points</option>
-									
-										<option value="Enterprise-Rent-a-Car">Enterprise Rent-a-Car, 8 pts/$</option>
-									
-										<option value="Entertainment-Earth">Entertainment Earth, 56 pts/$</option>
-									
-										<option value="Epson-Store">Epson Store, 32 pts/$</option>
-									
-										<option value="eReleases">eReleases, 40,000 points</option>
-									
-										<option value="ESET">ESET, 120 pts/$</option>
-									
-										<option value="eSmart-Tax">eSmart Tax, 160 pts/$</option>
-									
-										<option value="ESPN-Shop">ESPN Shop, 56 pts/$</option>
-									
-										<option value="etnies">etnies, 96 pts/$</option>
-									
-										<option value="eToys.com">eToys.com, 24 pts/$</option>
-									
-										<option value="Evans">Evans, 56 pts/$</option>
-									
-										<option value="Event-Decor-Direct">Event Decor Direct, 40 pts/$</option>
-									
-										<option value="Eversave-Healthy-Samples">Eversave Healthy Samples, 160 points</option>
-									
-										<option value="Executive-Gift-Shoppe">Executive Gift Shoppe, 96 pts/$</option>
-									
-										<option value="Executive-Search-Online">Executive Search Online, 2,400 points</option>
-									
-										<option value="Expedia.com-Canada">Expedia.com Canada, 16 pts/$</option>
-									
-										<option value="Expedia.com">Expedia.com, 16 pts/$</option>
-									
-										<option value="Express">Express, 40 pts/$</option>
-									
-										<option value="Expressionery-.com">Expressionery .com, 152 pts/$</option>
-									
-										<option value="Eye-Buy-Direct.com">Eye Buy Direct.com, 80 pts/$</option>
-									
-										<option value="Fabric.com">Fabric.com, 48 pts/$</option>
-									
-										<option value="Fabriclear">Fabriclear, 4,800 points</option>
-									
-										<option value="Facebook-Small-Business-Advertiser">Facebook - Small Business Adve 14,000 points</option>
-									
-										<option value="Factory-Outlet-Store.com">Factory Outlet Store.com, 32 pts/$</option>
-									
-										<option value="Family-Feud">Family Feud, 696 points</option>
-									
-										<option value="Famous-Footwear">Famous Footwear, 104 pts/$</option>
-									
-										<option value="Famous-Smoke-Shop">Famous Smoke Shop, 80 pts/$</option>
-									
-										<option value="Fanatics">Fanatics, 80 pts/$</option>
-									
-										<option value="Fandango-Bucks-Gift-Card">Fandango Bucks Gift Card, 12 pts/$</option>
-									
-										<option value="Fandango">Fandango, 40 points</option>
-									
-										<option value="Fannie-May-Candies">Fannie May Candies, 96 pts/$</option>
-									
-										<option value="FansEdge">FansEdge, 16 pts/$</option>
-									
-										<option value="Fare-Buzz">Fare Buzz, 4,000 points</option>
-									
-										<option value="Fashionesta">Fashionesta, 48 pts/$</option>
-									
-										<option value="Fathead">Fathead, 96 pts/$</option>
-									
-										<option value="Faucet-com">Faucet.com, 32 pts/$</option>
-									
-										<option value="FaucetDirect">FaucetDirect.com, 32 pts/$</option>
-									
-										<option value="FedEx-Office">FedEx Office, 44 pts/$</option>
-									
-										<option value="Fergie-Shoes.com">Fergie Shoes.com, 80 pts/$</option>
-									
-										<option value="Figis">Figis, 56 pts/$</option>
-									
-										<option value="Figleaves.com">Figleaves.com, 32 pts/$</option>
-									
-										<option value="Finish-Line">Finish Line, 56 pts/$</option>
-									
-										<option value="fish.com">fish.com, 72 pts/$</option>
-									
-										<option value="Fix-It-Pro">Fix It Pro, 2,800 points</option>
-									
-										<option value="Flavia">Flavia, 104 pts/$</option>
-									
-										<option value="Flex-Seal">Flex Seal Combo, 4,400 points</option>
-									
-										<option value="Flirty-Aprons">Flirty Aprons, 160 pts/$</option>
-									
-										<option value="Flora-Flora">Flora Flora, 112 pts/$</option>
-									
-										<option value="Flora-Queen">Flora Queen, 80 pts/$</option>
-									
-										<option value="Florsheim">Florsheim, 56 pts/$</option>
-									
-										<option value="Folica">Folica, 64 pts/$</option>
-									
-										<option value="Folli-Follie">Folli Follie, 96 pts/$</option>
-									
-										<option value="FoodNetworkStore">Food Network Store.com, 56 pts/$</option>
-									
-										<option value="food-Saver">FoodSaver, 80 pts/$</option>
-									
-										<option value="Foot-Locker">Foot Locker, 48 pts/$</option>
-									
-										<option value="Football-Fanatics">Football Fanatics, 80 pts/$</option>
-									
-										<option value="Footsmart">Footsmart, 96 pts/$</option>
-									
-										<option value="Forever21">Forever21, 32 pts/$</option>
-									
-										<option value="Forzieri">Forzieri, 80 pts/$</option>
-									
-										<option value="Fossil">Fossil, 96 pts/$</option>
-									
-										<option value="fotolia">Fotolia, 2,000 points</option>
-									
-										<option value="Fragrance-Net-.com">Fragrance Net .com, 64 pts/$</option>
-									
-										<option value="FramesDirect.com">FramesDirect.com, 64 pts/$</option>
-									
-										<option value="Franklin-Covey-Canada">Franklin Covey Canada, 80 pts/$</option>
-									
-										<option value="Fredericks-Of-Hollywood">Frederick's of Hollywood, 48 pts/$</option>
-									
-										<option value="FreeTaxUsa">FreeTaxUsa, 360 pts/$</option>
-									
-										<option value="Freeze-24-7">Freeze 24-7, 160 pts/$</option>
-									
-										<option value="French-Connection-Canada">French Connection Canada, 40 pts/$</option>
-									
-										<option value="French-Connection">French Connection, 40 pts/$</option>
-									
-										<option value="FreshDirect">Fresh Direct, 96 pts/$</option>
-									
-										<option value="Freshpair">Freshpair, 72 pts/$</option>
-									
-										<option value="From-You-Flowers">From You Flowers, 192 pts/$</option>
-									
-										<option value="FTD.com">FTD.com, 96 pts/$</option>
-									
-										<option value="Funjet-Vacations">Funjet Vacations, 16 pts/$</option>
-									
-										<option value="fye.com">fye.com, 41 pts/$</option>
-									
-										<option value="G-By-Guess">G By Guess, 56 pts/$</option>
-									
-										<option value="GAFY.com">GAFY.com, 80 pts/$</option>
-									
-										<option value="Gaiam-Gift-Card">Gaiam Gift Card, 56 pts/$</option>
-									
-										<option value="Gaiam-Yoga-Club">Gaiam Yoga Club, 4,000 points</option>
-									
-										<option value="Gaiam">Gaiam, 48 pts/$</option>
-									
-										<option value="The-Gallery-Collection">Gallery Collection, The, 160 pts/$</option>
-									
-										<option value="Gamefly">Gamefly Free Trial, 8,000 points</option>
-									
-										<option value="GameStop">GameStop, 16 pts/$</option>
-									
-										<option value="GameTap">GameTap, 4,000 points</option>
-									
-										<option value="Gander-Mountain">Gander Mountain , 40 pts/$</option>
-									
-										<option value="Gap-Canada">Gap Canada, 32 pts/$</option>
-									
-										<option value="Gap-Gift-Card">Gap Gift Card, 32 pts/$</option>
-									
-										<option value="Gap">Gap, 36 pts/$</option>
-									
-										<option value="GapBody">GapBody, 32 pts/$</option>
-									
-										<option value="GapKids">GapKids, 32 pts/$</option>
-									
-										<option value="garden.com">Garden.com, 72 pts/$</option>
-									
-										<option value="Gardening-Made-Easy">Gardening Made Easy, 5,600 points</option>
-									
-										<option value="Garmin">Garmin, 32 pts/$</option>
-									
-										<option value="Gay.com">Gay.com, 176 pts/$</option>
-									
-										<option value="Gear-Slash">GearSlash, 48 pts/$</option>
-									
-										<option value="gearX">gearX.com, 64 pts/$</option>
-									
-										<option value="Geeks.com">Geeks.com, 24 pts/$</option>
-									
-										<option value="Geico">Geico, 0 points</option>
-									
-										<option value="GelaSkins">GelaSkins, 80 pts/$</option>
-									
-										<option value="George-Foreman">George Foreman, 80 pts/$</option>
-									
-										<option value="Gerber-Life-Insurance">Gerber Life Insurance, 12,000 points</option>
-									
-										<option value="Get-Organized!">Get Organized!, 104 pts/$</option>
-									
-										<option value="Ghirardelli-Chocolate">Ghirardelli Chocolate, 64 pts/$</option>
-									
-										<option value="Gift-Certificates-.Com">Gift Certificates.com, 24 pts/$</option>
-									
-										<option value="GiftTree">GiftTree, 96 pts/$</option>
-									
-										<option value="giggle">giggle, 48 pts/$</option>
-									
-										<option value="Gilt-City">Gilt City, 40 pts/$</option>
-									
-										<option value="Ginny's">Ginny's, 40 pts/$</option>
-									
-										<option value="Giorgio-Armani-Beauty">Giorgio Armani Beauty, 64 pts/$</option>
-									
-										<option value="Glasses-USA">Glasses USA, 144 pts/$</option>
-									
-										<option value="Global-Equipment-Company">Global Equipment Company, 56 pts/$</option>
-									
-										<option value="GNC">GNC, 64 pts/$</option>
-									
-										<option value="gNeil">gNeil, 80 pts/$</option>
-									
-										<option value="GoDaddy">GoDaddy.com, 10,400 points</option>
-									
-										<option value="Godiva">Godiva, 48 pts/$</option>
-									
-										<option value="Gojo-Hands-Free">Gojo Hands Free, 8,800 points</option>
-									
-										<option value="Golf-Digest">Golf Digest, 200 pts/$</option>
-									
-										<option value="Golfsmith-Gift-Card">Golfsmith Gift Card, 88 pts/$</option>
-									
-										<option value="Golfsmith">Golfsmith, 88 pts/$</option>
-									
-										<option value="GoLite">GoLite, 48 pts/$</option>
-									
-										<option value="Good-Sam-Club">Good Sam Club, 2,000 points</option>
-									
-										<option value="Gordon's-Jewelers">Gordon's Jewelers, 64 pts/$</option>
-									
-										<option value="Gourmet-Gift-Baskets.com">Gourmet Gift Baskets.com, 80 pts/$</option>
-									
-										<option value="Gourmet-Monthly-Clubs">Gourmet Monthly Clubs, 5,200 points</option>
-									
-										<option value="Gourmet-Station">Gourmet Station, 80 pts/$</option>
-									
-										<option value="Grainger">Grainger, 40 pts/$</option>
-									
-										<option value="Great-Shape-Today">Great Shape Today - Herbalife, 13,600 points</option>
-									
-										<option value="Green-Mountain-Coffee">Green Mountain Coffee, 80 pts/$</option>
-									
-										<option value="Green-Nest">Green Nest, 80 pts/$</option>
-									
-										<option value="Grip-Go-Hands-Free-Phone-Mount">Grip Go Hands-Free Phone Mount 4,200 points</option>
-									
-										<option value="Groupon-Featured">Groupon Featured, 40 pts/$</option>
-									
-										<option value="Groupon-Getaways">Groupon Getaways, 48 pts/$</option>
-									
-										<option value="Groupon">Groupon, 16 pts/$</option>
-									
-										<option value="Growums">Growums, 1,900 points</option>
-									
-										<option value="Guitar-Center">Guitar Center, 64 pts/$</option>
-									
-										<option value="H&amp;R-Block-at-Home">H&amp;R Block at Home, 160 pts/$</option>
-									
-										<option value="H2O-Plus">H2O Plus, 56 pts/$</option>
-									
-										<option value="Halloween-Express">Halloween Express, 96 pts/$</option>
-									
-										<option value="Halloween-Mart">Halloween Mart, 80 pts/$</option>
-									
-										<option value="Hammacher-Schlemmer">Hammacher Schlemmer, 64 pts/$</option>
-									
-										<option value="HandHeldItems">HandHeldItems, 16 pts/$</option>
-									
-										<option value="Handle-Sets">HandleSets.com, 32 pts/$</option>
-									
-										<option value="Hanes.com">Hanes.com, 48 pts/$</option>
-									
-										<option value="Hanna-Andersson">Hanna Andersson, 40 pts/$</option>
-									
-										<option value="Happy-BidDay">Happy BidDay, 400 pts/$</option>
-									
-										<option value="Harmon-Face-Values">Harmon Face Values, 32 pts/$</option>
-									
-										<option value="Harry-&amp;-David">Harry &amp; David, 56 pts/$</option>
-									
-										<option value="Hartstrings.com">Hartstrings.com, 48 pts/$</option>
-									
-										<option value="Hatley">Hatley, 64 pts/$</option>
-									
-										<option value="Hawaiian-Airlines">Hawaiian Airlines, 12 pts/$</option>
-									
-										<option value="HearthSong">HearthSong, 80 pts/$</option>
-									
-										<option value="Herberger's">Herberger's, 32 pts/$</option>
-									
-										<option value="HerRoom">HerRoom, 80 pts/$</option>
-									
-										<option value="Hertz">Hertz, 24 pts/$</option>
-									
-										<option value="Highlights-Catalog">Highlights Catalog, 4,800 points</option>
-									
-										<option value="Hip-Hop-Abs">Hip Hop Abs, 2,000 points</option>
-									
-										<option value="HisRoom">HisRoom, 64 pts/$</option>
-									
-										<option value="Hobby-tron.com">Hobby tron.com, 64 pts/$</option>
-									
-										<option value="Holiday-Inn-Express">Holiday Inn Express, 24 pts/$</option>
-									
-										<option value="Holiday-Inn">Holiday Inn, 24 pts/$</option>
-									
-										<option value="Holmes-Stamp-&amp;-Sign">Holmes Stamp &amp; Sign, 160 pts/$</option>
-									
-										<option value="Holmes">Holmes, 80 pts/$</option>
-									
-										<option value="Holsted-Jewelry-Kit">Holsted Jewelry Kit, 5,600 points</option>
-									
-										<option value="Home-Decorators-Collection">Home Decorators Collection, 72 pts/$</option>
-									
-										<option value="Home-Depot">Home Depot, 24 pts/$</option>
-									
-										<option value="HomeClick">HomeClick, 32 pts/$</option>
-									
-										<option value="Homestead">Homestead, 6,000 points</option>
-									
-										<option value="HomeVisions">HomeVisions, 40 pts/$</option>
-									
-										<option value="horse.com">horse.com, 72 pts/$</option>
-									
-										<option value="Hostgator">Hostgator, 40,000 points</option>
-									
-										<option value="HostPapa">HostPapa, 6,000 points</option>
-									
-										<option value="Hot-Booties">Hot Booties, 3,600 points</option>
-									
-										<option value="Hot-Buns-Hair-Accessories">Hot Buns Hair Accessories, 3,600 points</option>
-									
-										<option value="Hot-Huez">Hot Huez Hair Color, 3,488 points</option>
-									
-										<option value="Hot-Topic-Media">Hot Topic Media Dating &amp; Relat 9,600 points</option>
-									
-										<option value="Hot-Topic">Hot Topic, 52 pts/$</option>
-									
-										<option value="Hotel-Indigo">Hotel Indigo, 24 pts/$</option>
-									
-										<option value="Hotel-Planner">Hotel Planner.com, 40 pts/$</option>
-									
-										<option value="HotelClub">HotelClub, 40 pts/$</option>
-									
-										<option value="hotels.com">hotels.com, 52 pts/$</option>
-									
-										<option value="Hotwire">Hotwire, 12 pts/$</option>
-									
-										<option value="House-of-Nutrition">House of Nutrition, 64 pts/$</option>
-									
-										<option value="The-House">House, The, 64 pts/$</option>
-									
-										<option value="HP-Home-&amp;-Office-Store">HP Home &amp; Office Store, 24 pts/$</option>
-									
-										<option value="HP-Small-Medium-Business">HP Small and Medium Business, 16 pts/$</option>
-									
-										<option value="HSN">HSN, 48 pts/$</option>
-									
-										<option value="Huglight">Huglight, 5,200 points</option>
-									
-										<option value="huluPLUS">huluPLUS, 796 points</option>
-									
-										<option value="Hurricane-Spin-Mop">Hurricane Spin Mop, 6,000 points</option>
-									
-										<option value="Hush-Puppies">Hush Puppies, 80 pts/$</option>
-									
-										<option value="I-See-Me">I See Me, 80 pts/$</option>
-									
-										<option value="i-Supplements.com">i-Supplements, 80 pts/$</option>
-									
-										<option value="iBid2Save">iBid2Save, 6,000 points</option>
-									
-										<option value="iBuy-Office-Supply.com">iBuy Office Supply.com, 40 pts/$</option>
-									
-										<option value="Ice-Jerseys-.com">Ice Jerseys.com, 64 pts/$</option>
-									
-										<option value="Ice-Wraps">Ice Wraps, 56 pts/$</option>
-									
-										<option value="ICE.com">ICE.com, 64 pts/$</option>
-									
-										<option value="iContact">iContact, 2,000 points</option>
-									
-										<option value="ID-Protector-Stamp">ID Protector Stamp, 1,200 points</option>
-									
-										<option value="IMVU">IMVU: 3d Virtual Life, 800 points</option>
-									
-										<option value="In-the-Company-of-Dogs">In the Company of Dogs, 40 pts/$</option>
-									
-										<option value="In-The-Hole-Golf.com">In The Hole Golf.com, 80 pts/$</option>
-									
-										<option value="In-The-Mood-Intimates">In The Mood Intimates, 80 pts/$</option>
-									
-										<option value="In-The-Swim">In The Swim, 96 pts/$</option>
-									
-										<option value="iNeedHits">iNeedHits, 240 pts/$</option>
-									
-										<option value="Infinity-Shoes">Infinity Shoes, 64 pts/$</option>
-									
-										<option value="InfoUSA">InfoUSA, 12,000 points</option>
-									
-										<option value="InhabitNY">InhabitNY, 64 pts/$</option>
-									
-										<option value="Ink-Cartridges-.com">Ink Cartridges.com, 200 pts/$</option>
-									
-										<option value="Inkgrabber">Inkgrabber, 6,400 points</option>
-									
-										<option value="Insanity">Insanity, 80 pts/$</option>
-									
-										<option value="InstaBulb">InstaBulb, 3,800 points</option>
-									
-										<option value="Intercontinental-Hotels-&amp;-Resorts">InterContinental Hotel Group, 24 pts/$</option>
-									
-										<option value="Intuit-GoPayment">Intuit GoPayment, 4,000 points</option>
-									
-										<option value="Intuit-Payroll">Intuit Payroll, 10,000 points</option>
-									
-										<option value="Intuit-QuickBooks">Intuit QuickBooks, 56 pts/$</option>
-									
-										<option value="Quicken-Intuit">Intuit Quicken, 96 pts/$</option>
-									
-										<option value="Intuit-Websites">Intuit Websites, 800 pts/$</option>
-									
-										<option value="Invitation-Consultants">Invitation Consultants, 56 pts/$</option>
-									
-										<option value="Invitations-by-Dawn-Canada">Invitations by Dawn Canada, 96 pts/$</option>
-									
-										<option value="iPage">iPage, 6,000 points</option>
-									
-										<option value="iPrint">iPrint, 112 pts/$</option>
-									
-										<option value="iRobot">iRobot, 40 pts/$</option>
-									
-										<option value="iStockphoto-LP">iStockphoto LP, 64 pts/$</option>
-									
-										<option value="iTunes">iTunes, 40 pts/$</option>
-									
-										<option value="iWin">iWin, 320 pts/$</option>
-									
-										<option value="J&amp;R.com">J&amp;R.com, 40 pts/$</option>
-									
-										<option value="Jack-Spade">Jack Spade, 64 pts/$</option>
-									
-										<option value="Jack-Threads">Jack Threads.com, 56 pts/$</option>
-									
-										<option value="JaguarPC">JaguarPC, 44,000 points</option>
-									
-										<option value="Jarden-Store">Jarden Store, 80 pts/$</option>
-									
-										<option value="Jared">Jared , 32 pts/$</option>
-									
-										<option value="JC-Whitney">JC Whitney, 80 pts/$</option>
-									
-										<option value="JCPenney-Gift-Card">JCPenney Gift Card, 8 pts/$</option>
-									
-										<option value="JCPenney">JCPenney, 16 pts/$</option>
-									
-										<option value="Jelly-Belly">Jelly Belly, 56 pts/$</option>
-									
-										<option value="Jessica-London">Jessica London, 40 pts/$</option>
-									
-										<option value="Jessica-Simpson">Jessica Simpson, 48 pts/$</option>
-									
-										<option value="JetBlue">JetBlue, 24 pts/$</option>
-									
-										<option value="JGOOD">JGOOD, 160 pts/$</option>
-									
-										<option value="JibJab">JibJab, 400 pts/$</option>
-									
-										<option value="Jillian-Michaels-Body-Revolution">Jillian Michaels Body Revoluti 14,400 points</option>
-									
-										<option value="JoAnn-Gift-Card">JoAnn Gift Card, 64 pts/$</option>
-									
-										<option value="JoAnn">JoAnn, 48 pts/$</option>
-									
-										<option value="Jomashop">Jomashop.com, 8 pts/$</option>
-									
-										<option value="Jones-New-York">Jones New York, 40 pts/$</option>
-									
-										<option value="Jones-Soda-Store">Jones Soda Store, 80 pts/$</option>
-									
-										<option value="Jos.-A.-Bank">Jos. A. Bank, 72 pts/$</option>
-									
-										<option value="Juno-Online-Services">Juno Online Services, 7,600 points</option>
-									
-										<option value="Just-Cloud">Just Cloud, 48,000 points</option>
-									
-										<option value="Just-My-Size">Just My Size, 48 pts/$</option>
-									
-										<option value="JustDeals-.com">JustDeals.com, 32 pts/$</option>
-									
-										<option value="Justice">Justice, 36 pts/$</option>
-									
-										<option value="KaBloom">KaBloom, 96 pts/$</option>
-									
-										<option value="Kaplan">Kaplan Test Prep, 24 pts/$</option>
-									
-										<option value="Karma">Karma, 48 pts/$</option>
-									
-										<option value="Kay-Jewelers">Kay Jewelers, 32 pts/$</option>
-									
-										<option value="Keetsa-">Keetsa , 56 pts/$</option>
-									
-										<option value="Kenneth-Cole">Kenneth Cole, 32 pts/$</option>
-									
-										<option value="Kextin-Joint-Relief">Kextin Joint Relief, 132 pts/$</option>
-									
-										<option value="Kiehl's">Kiehl's, 64 pts/$</option>
-									
-										<option value="KingSize">KingSize , 40 pts/$</option>
-									
-										<option value="Kipling">Kipling, 40 pts/$</option>
-									
-										<option value="Klutch-Club">Klutch Club, 3,200 points</option>
-									
-										<option value="Kmart">Kmart, 16 pts/$</option>
-									
-										<option value="The-Knot-Wedding-Shop">Knot Wedding Shop, The, 104 pts/$</option>
-									
-										<option value="Kohl's">Kohl's, 32 pts/$</option>
-									
-										<option value="kymaro-bust-up-cups-">Kymaro Bust Up Cups, 4,800 points</option>
-									
-										<option value="Kymaro-Shrug-Shaper-">Kymaro Shrug Shaper, 6,000 points</option>
-									
-										<option value="Lab-Series">Lab Series, 64 pts/$</option>
-									
-										<option value="Lacoste">Lacoste, 32 pts/$</option>
-									
-										<option value="The-Lakeside-Collection">Lakeside Collection, The, 16 pts/$</option>
-									
-										<option value="Lamps-Plus">Lamps Plus, 48 pts/$</option>
-									
-										<option value="Lan-Airlines">Lan Airlines, 8 pts/$</option>
-									
-										<option value="Lancome">Lancome, 64 pts/$</option>
-									
-										<option value="Lands End">Lands' End, 48 pts/$</option>
-									
-										<option value="Lane-Bryant">Lane Bryant, 40 pts/$</option>
-									
-										<option value="Laptops-for-Less">Laptops for Less, 128 pts/$</option>
-									
-										<option value="Leanin-Tree">Leanin' Tree, 64 pts/$</option>
-									
-										<option value="LeapFrog-Canada">LeapFrog Canada, 24 pts/$</option>
-									
-										<option value="LeapFrog">LeapFrog, 48 pts/$</option>
-									
-										<option value="Leaps-and-Bounds">Leaps and Bounds, 12 pts/$</option>
-									
-										<option value="LearnIt-Anytime">Learn iT! Anytime, 160 pts/$</option>
-									
-										<option value="Legal-Seafoods">Legal Seafoods, 80 pts/$</option>
-									
-										<option value="LEGO-Shop-at-Home-Canada">LEGO Shop at Home Canada, 24 pts/$</option>
-									
-										<option value="LEGO-Shop-at-Home">LEGO Shop at Home, 24 pts/$</option>
-									
-										<option value="Lenovo">Lenovo, 16 pts/$</option>
-									
-										<option value="Lenox">Lenox, 68 pts/$</option>
-									
-										<option value="Lens.com">Lens.com, 64 pts/$</option>
-									
-										<option value="LensMart">LensMart, 96 pts/$</option>
-									
-										<option value="LetsTalk-Wireless">LetsTalk Wireless, 14,000 points</option>
-									
-										<option value="Liberty-Mutual">Liberty Mutual, 0 points</option>
-									
-										<option value="Lids">Lids, 80 pts/$</option>
-									
-										<option value="Life-is-good">Life is good, 48 pts/$</option>
-									
-										<option value="Light-in-the-Box">Light in the Box, 120 pts/$</option>
-									
-										<option value="Lighting-Direct">Lighting Direct.com, 32 pts/$</option>
-									
-										<option value="Lighting-Show-Place">Lighting Show Place.com, 32 pts/$</option>
-									
-										<option value="LiLash">LiLash, 200 pts/$</option>
-									
-										<option value="Lillian-Vernon">Lillian Vernon, 49 pts/$</option>
-									
-										<option value="The-Limited">Limited, The, 16 pts/$</option>
-									
-										<option value="Limoges-Jewelry">Limoges Jewelry, 112 pts/$</option>
-									
-										<option value="Linens-N-Things">Linens N Things, 40 pts/$</option>
-									
-										<option value="Little-Giant-Ladder">Little Giant Ladder, 80 pts/$</option>
-									
-										<option value="Livestrong-Fitness">Livestrong Fitness, 64 pts/$</option>
-									
-										<option value="Living-XL">Living XL, 40 pts/$</option>
-									
-										<option value="LivingSocial">LivingSocial, 48 pts/$</option>
-									
-										<option value="Ann-Taylor-Loft">LOFT, 40 pts/$</option>
-									
-										<option value="Logitech">Logitech, 32 pts/$</option>
-									
-										<option value="Logo-Design">Logo Design - The Logo Company 120 pts/$</option>
-									
-										<option value="Looney-Tunes-Click-n-Read-Phonics">Looney Toons Click n Read Phon 4,400 points</option>
-									
-										<option value="Lord-&amp;-Taylor">Lord &amp; Taylor, 48 pts/$</option>
-									
-										<option value="LoveSac">LoveSac, 80 pts/$</option>
-									
-										<option value="Lowe's-">Lowe's , 24 pts/$</option>
-									
-										<option value="Lucky-Brand">Lucky Brand, 40 pts/$</option>
-									
-										<option value="lucy">lucy, 40 pts/$</option>
-									
-										<option value="Luggage-Online">Luggage Online, 80 pts/$</option>
-									
-										<option value="Lumber-Liquidators">Lumber Liquidators, 32 pts/$</option>
-									
-										<option value="Luxury-Link">Luxury Link, 48 pts/$</option>
-									
-										<option value="MacMall">MacMall, 25 pts/$</option>
-									
-										<option value="Macy's">Macy's, 24 pts/$</option>
-									
-										<option value="Magazine-Discount-Center">Magazine Discount Center, 200 pts/$</option>
-									
-										<option value="Magazine-line.com">Magazine line.com, 240 pts/$</option>
-									
-										<option value="Magazinescom">Magazines.com, 320 pts/$</option>
-									
-										<option value="Magellan's">Magellan's, 80 pts/$</option>
-									
-										<option value="Magic-Kitchen">Magic Kitchen, 64 pts/$</option>
-									
-										<option value="MaidenForm">MaidenForm, 64 pts/$</option>
-									
-										<option value="Mailigen">Mailigen, 240 pts/$</option>
-									
-										<option value="MainStay-Suites">MainStay Suites, 40 pts/$</option>
-									
-										<option value="MamaBargains">Mama Bargains.com, 2,400 points</option>
-									
-										<option value="Mama-Source">Mama Source, 56 pts/$</option>
-									
-										<option value="Manhattan-Fruitier">Manhattan Fruitier, 64 pts/$</option>
-									
-										<option value="Margaritaville-Cargo">Margaritaville Cargo, 80 pts/$</option>
-									
-										<option value="mark">mark by Avon, 64 pts/$</option>
-									
-										<option value="Marriott">Marriott, 16 pts/$</option>
-									
-										<option value="Marvel-Store">Marvel Store, 24 pts/$</option>
-									
-										<option value="match.ca">match.ca, 600 pts/$</option>
-									
-										<option value="Match.com">Match.com, 600 pts/$</option>
-									
-										<option value="Mattel-Shop">Mattel Shop, 32 pts/$</option>
-									
-										<option value="Maurices">Maurices, 32 pts/$</option>
-									
-										<option value="MaxStudio">MaxStudio, 96 pts/$</option>
-									
-										<option value="McAfee">McAfee Antivirus, 144 pts/$</option>
-									
-										<option value="Medical-Arts-Press">Medical Arts Press, 24 pts/$</option>
-									
-										<option value="Medifast-Diet">Medifast Diet, 176 pts/$</option>
-									
-										<option value="Meijer">Meijer, 16 pts/$</option>
-									
-										<option value="Memolink-Facebook">Memolink Facebook, 250 points</option>
-									
-										<option value="MET-Rx-180">MET-Rx 180, 12,800 points</option>
-									
-										<option value="Metrostyle">Metrostyle, 40 pts/$</option>
-									
-										<option value="Microsoft-Canada">Microsoft Canada, 80 pts/$</option>
-									
-										<option value="Microsoft-Store">Microsoft Store, 24 pts/$</option>
-									
-										<option value="Midnight-Velvet">Midnight Velvet, 40 pts/$</option>
-									
-										<option value="Mikasa">Mikasa, 48 pts/$</option>
-									
-										<option value="Miles-Kimball">Miles Kimball, 48 pts/$</option>
-									
-										<option value="Minted">Minted, 80 pts/$</option>
-									
-										<option value="Miracle-Blade">Miracle Blade, 10,400 points</option>
-									
-										<option value="Mission-Restaurant-Supply">Mission Restaurant Supply, 24 pts/$</option>
-									
-										<option value="MLB.com">MLB.com, 56 pts/$</option>
-									
-										<option value="MLB.TV">MLB.TV, 56 pts/$</option>
-									
-										<option value="Mobile-Karma">Mobile Karma, 32 pts/$</option>
-									
-										<option value="Modnique">Modnique, 128 pts/$</option>
-									
-										<option value="Moosejaw">Moosejaw, 96 pts/$</option>
-									
-										<option value="Motel-6">Motel 6, 36 pts/$</option>
-									
-										<option value="Motherhood-Maternity">Motherhood Maternity, 40 pts/$</option>
-									
-										<option value="MotoSport">MotoSport, 32 pts/$</option>
-									
-										<option value="MovingOut">MoveOut.com, 160 pts/$</option>
-									
-										<option value="Mrs.-Fields-">Mrs. Fields , 64 pts/$</option>
-									
-										<option value="Murad">Murad Skin Care, 144 pts/$</option>
-									
-										<option value="Murals-Your-Way">Murals Your Way, 80 pts/$</option>
-									
-										<option value="Music-&amp;-Arts">Music &amp; Arts, 48 pts/$</option>
-									
-										<option value="Music123">Music123, 36 pts/$</option>
-									
-										<option value="Musician's-Friend">Musician's Friend, 48 pts/$</option>
-									
-										<option value="Mwave.com">Mwave.com, 24 pts/$</option>
-									
-										<option value="My-Cash-Now">My Cash Now, 22,400 points</option>
-									
-										<option value="my-DaVinci.com">my DaVinci.com, 120 pts/$</option>
-									
-										<option value="My-Jewelry-Box">My Jewelry Box.com, 80 pts/$</option>
-									
-										<option value="My-M&amp;Ms">My M&amp;Ms, 80 pts/$</option>
-									
-										<option value="My-Snoring-Solution">My Snoring Solution, 12,800 points</option>
-									
-										<option value="My-Wedding-Favors">My Wedding Favors, 96 pts/$</option>
-									
-										<option value="myFax">MyFax, 4,800 points</option>
-									
-										<option value="myhosting">MyHosting, 26,000 points</option>
-									
-										<option value="MyPublisher">MyPublisher, 112 pts/$</option>
-									
-										<option value="MyStrollers.com">MyStrollers.com, 40 pts/$</option>
-									
-										<option value="Nascar">Nascar, 40 pts/$</option>
-									
-										<option value="National-Car-Rental">National Car Rental, 24 pts/$</option>
-									
-										<option value="National-Geographic-Store">National Geographic Store, 80 pts/$</option>
-									
-										<option value="National-Pet-Pharmacy">National Pet Pharmacy, 40 pts/$</option>
-									
-										<option value="Natural-Solutions">Natural Solutions to Things Th 3,600 points</option>
-									
-										<option value="Naturalizer-Canada">Naturalizer Canada, 80 pts/$</option>
-									
-										<option value="Naturalizer">Naturalizer, 80 pts/$</option>
-									
-										<option value="Nautica">Nautica, 40 pts/$</option>
-									
-										<option value="NBA-Store.com">NBA Store.com, 80 pts/$</option>
-									
-										<option value="NBC">NBC , 40 pts/$</option>
-									
-										<option value="Net-Talk">Net Talk, 200 pts/$</option>
-									
-										<option value="Network-Solutions">Network Solutions, 80 pts/$</option>
-									
-										<option value="NewBalance">New Balance, 40 pts/$</option>
-									
-										<option value="New-York-&amp;-Company">New York &amp; Company, 40 pts/$</option>
-									
-										<option value="Newark">Newark, 56 pts/$</option>
-									
-										<option value="Newegg-Canada">Newegg Canada, 4 pts/$</option>
-									
-										<option value="Newegg.com">Newegg.com, 8 pts/$</option>
-									
-										<option value="Newport-News">Newport News, 48 pts/$</option>
-									
-										<option value="Nextiva">Nextiva, 6,000 points</option>
-									
-										<option value="NFL-Shop.com">NFL Shop.com, 40 pts/$</option>
-									
-										<option value="Nike">Nike, 64 pts/$</option>
-									
-										<option value="Nimli">Nimli, 80 pts/$</option>
-									
-										<option value="Nina">Nina Shoes, 56 pts/$</option>
-									
-										<option value="Nordstrom-RACK">Nordstrom RACK, 40 pts/$</option>
-									
-										<option value="Nordstrom">Nordstrom, 40 pts/$</option>
-									
-										<option value="North-Face-Gift-Card">North Face Gift Card, The, 40 pts/$</option>
-									
-										<option value="The-North-Face">North Face, The, 40 pts/$</option>
-									
-										<option value="North-Social">North Social, 12,000 points</option>
-									
-										<option value="Northern-Tool-&amp;-Equipment">Northern Tool &amp; Equipment, 40 pts/$</option>
-									
-										<option value="Northline-Express">Northline Express, 32 pts/$</option>
-									
-										<option value="Norton-by-Symantec">Norton by Symantec, 120 pts/$</option>
-									
-										<option value="Nothing-But-Pearls">Nothing But Pearls, 80 pts/$</option>
-									
-										<option value="Novica">NOVICA, 48 pts/$</option>
-									
-										<option value="NPD">NPD, 900 points</option>
-									
-										<option value="Number-1-Direct.com">Number 1 Direct.com, 24 pts/$</option>
-									
-										<option value="Nunn-Bush">Nunn Bush, 80 pts/$</option>
-									
-										<option value="Nutrisystem">Nutrisystem, 120 pts/$</option>
-									
-										<option value="NuWave-Oven">NuWave Oven, 80 pts/$</option>
-									
-										<option value="O2-Hurricane">O2 Hurricane, 4,000 points</option>
-									
-										<option value="Oakley-Vault">Oakley Vault, 32 pts/$</option>
-									
-										<option value="Oakley">Oakley, 32 pts/$</option>
-									
-										<option value="Oasis">Oasis, 800 pts/$</option>
-									
-										<option value="Office-Depot">Office Depot, 4 pts/$</option>
-									
-										<option value="OfficeMax">OfficeMax, 32 pts/$</option>
-									
-										<option value="Ojon">Ojon, 64 pts/$</option>
-									
-										<option value="Old-Navy-Canada">Old Navy Canada, 32 pts/$</option>
-									
-										<option value="Old-Navy-eGift-Card">Old Navy eGift Card, 32 pts/$</option>
-									
-										<option value="Old-Navy">Old Navy, 32 pts/$</option>
-									
-										<option value="Olde-Brooklyn-Lantern">Olde Brooklyn Lantern, 3,000 points</option>
-									
-										<option value="Olive-Nation">Olive Nation, 80 pts/$</option>
-									
-										<option value="Omaha-Steaks">Omaha Steaks, 56 pts/$</option>
-									
-										<option value="One-Personal-Massager">One Personal Massager, 4,640 points</option>
-									
-										<option value="OneStopPlus">One Stop Plus, 40 pts/$</option>
-									
-										<option value="OneAndOnly-Resorts">One&amp;Only Resorts, 32 pts/$</option>
-									
-										<option value="OneHanesPlace">OneHanesPlace, 48 pts/$</option>
-									
-										<option value="One-Share.com">OneShare.com, 5,600 points</option>
-									
-										<option value="OneStepAhead">OneStepAhead, 12 pts/$</option>
-									
-										<option value="OneTravel">OneTravel, 2,000 points</option>
-									
-										<option value="Online-Sports">Online Sports, 80 pts/$</option>
-									
-										<option value="OpenSky">OpenSky - Shopping, 120 pts/$</option>
-									
-										<option value="OrangeOnions">Orange Onions.com, 56 pts/$</option>
-									
-										<option value="Orbitz">Orbitz, 1,200 points</option>
-									
-										<option value="Organic-Bouquet">Organic Bouquet, 96 pts/$</option>
-									
-										<option value="Organize-com">Organize.com, 40 pts/$</option>
-									
-										<option value="Oriental-Trading">Oriental Trading, 40 pts/$</option>
-									
-										<option value="Origins">Origins, 64 pts/$</option>
-									
-										<option value="Orthopedic-Seat-Cushion">Orthopedic Seat Cushion, 2,000 points</option>
-									
-										<option value="Orvis">Orvis, 40 pts/$</option>
-									
-										<option value="OshKosh">OshKosh B'gosh, 24 pts/$</option>
-									
-										<option value="Oster">Oster, 80 pts/$</option>
-									
-										<option value="Otel.com">Otel.com, 48 pts/$</option>
-									
-										<option value="Outletbuy">Outletbuy, 136 pts/$</option>
-									
-										<option value="Overnight-Prints">Overnight Prints, 96 pts/$</option>
-									
-										<option value="Overstock.com">Overstock.com, 48 pts/$</option>
-									
-										<option value="P90X">P90X, 64 pts/$</option>
-									
-										<option value="Pacific-Pillows.com">Pacific Pillows.com, 72 pts/$</option>
-									
-										<option value="Pacifica-Perfume">Pacifica Perfume, 64 pts/$</option>
-									
-										<option value="Package-from-the-Easter-Bunny">Package from the Easter Bunny, 160 pts/$</option>
-									
-										<option value="PackIt">PackIt, 5,000 points</option>
-									
-										<option value="PacSun">PacSun, 56 pts/$</option>
-									
-										<option value="Piercing-Pagoda">Pagoda, 64 pts/$</option>
-									
-										<option value="Panasonic">Panasonic, 32 pts/$</option>
-									
-										<option value="Park-Plaza-Hotels">Park Plaza Hotels, 40 pts/$</option>
-									
-										<option value="ParkSleepFly.com">ParkSleepFly.com, 3,000 points</option>
-									
-										<option value="Partstore">Partstore, 32 pts/$</option>
-									
-										<option value="Pasta-Cheese">Pasta Cheese, 88 pts/$</option>
-									
-										<option value="Patagonia">Patagonia, 56 pts/$</option>
-									
-										<option value="Paul-Fredrick">Paul Fredrick, 72 pts/$</option>
-									
-										<option value="Paychex">Paychex, 12,000 points</option>
-									
-										<option value="Payless-Shoes">Payless Shoes, 40 pts/$</option>
-									
-										<option value="PC-Connection">PC Connection, 24 pts/$</option>
-									
-										<option value="PC-Mall-Small-Business-Network">PC Mall Small Business Network 3,200 points</option>
-									
-										<option value="PCMall">PC Mall, 24 pts/$</option>
-									
-										<option value="PCRush">PCRush, 24 pts/$</option>
-									
-										<option value="Peanut-Labs-">Peanut Labs , 280 pts/$</option>
-									
-										<option value="Peapod">Peapod, 4,000 points</option>
-									
-										<option value="Peet's-Coffee-&amp;-Tea">Peet's Coffee &amp; Tea, 80 pts/$</option>
-									
-										<option value="Penningtons">Penningtons, 48 pts/$</option>
-									
-										<option value="PerfectBrownie">Perfect Brownie, 2,400 points</option>
-									
-										<option value="Perfect-Match.com">Perfect Match.com, 640 pts/$</option>
-									
-										<option value="Perfect-Pancake">Perfect Pancake, 4,800 points</option>
-									
-										<option value="Perfumania">Perfumania, 96 pts/$</option>
-									
-										<option value="Perfume-Worldwide">Perfume Worldwide, 104 pts/$</option>
-									
-										<option value="Perfume.com">Perfume.com, 80 pts/$</option>
-									
-										<option value="Perry-Ellis">Perry Ellis, 64 pts/$</option>
-									
-										<option value="Personal-Creations">Personal Creations, 120 pts/$</option>
-									
-										<option value="Personalization-Mall">Personalization Mall, 120 pts/$</option>
-									
-										<option value="Peruvian-Connection">Peruvian Connection, 40 pts/$</option>
-									
-										<option value="Pet-Rider">Pet Rider, 4,800 points</option>
-									
-										<option value="Pet-Street-Mall">Pet Street Mall, 64 pts/$</option>
-									
-										<option value="Pet360">Pet360, 72 pts/$</option>
-									
-										<option value="PetCareRX">PetCareRX, 80 pts/$</option>
-									
-										<option value="PETCO-Gift-Card">PETCO Gift Card, 72 pts/$</option>
-									
-										<option value="PETCO">PETCO, 96 pts/$</option>
-									
-										<option value="PetFood.com">PetFood.com, 72 pts/$</option>
-									
-										<option value="PetFoodDirect">PetFoodDirect, 40 pts/$</option>
-									
-										<option value="PetSmart">PetSmart, 64 pts/$</option>
-									
-										<option value="Pfaltzgraff">Pfaltzgraff, 64 pts/$</option>
-									
-										<option value="Phil-Mickelsons-Secrets-DVD">Phil Mickelson's Secrets DVD, 8,400 points</option>
-									
-										<option value="Philosophy">Philosophy, 56 pts/$</option>
-									
-										<option value="phionBalance">phionBalance, 120 pts/$</option>
-									
-										<option value="Photo-Cards-Direct.com">Photo Cards Direct.com, 80 pts/$</option>
-									
-										<option value="Picaboo">Picaboo, 104 pts/$</option>
-									
-										<option value="Pictopia">Pictopia, 64 pts/$</option>
-									
-										<option value="Picture-Frames.com">Picture Frames.com, 40 pts/$</option>
-									
-										<option value="Pictures-on-Gold">Pictures On Gold.com, 80 pts/$</option>
-									
-										<option value="Pier-1-Imports">Pier 1 Imports, 64 pts/$</option>
-									
-										<option value="Piperlime-eGift-Cards">Piperlime eGift Cards, 32 pts/$</option>
-									
-										<option value="Piperlime">Piperlime, 32 pts/$</option>
-									
-										<option value="Pittman-&amp;-Davis">Pittman &amp; Davis, 120 pts/$</option>
-									
-										<option value="Planet-Shoes.com">Planet Shoes.com, 64 pts/$</option>
-									
-										<option value="Plaque-Blast">Plaque Blast, 2,800 points</option>
-									
-										<option value="Plastic-Jungle">Plastic Jungle, 8 pts/$</option>
-									
-										<option value="Plink">Plink, 1,600 pts/$</option>
-									
-										<option value="Plow-&amp;-Hearth">Plow &amp; Hearth, 64 pts/$</option>
-									
-										<option value="Plus-Size-Lingerie-Boutique">Plus Size Lingerie Boutique, 80 pts/$</option>
-									
-										<option value="Pocket-Hose">Pocket Hose, 5,900 points</option>
-									
-										<option value="Pocket-Traveler">Pocket Traveler, 7,200 points</option>
-									
-										<option value="The-Popcorn-Factory">Popcorn Factory, The, 96 pts/$</option>
-									
-										<option value="Poppin">Poppin, 232 pts/$</option>
-									
-										<option value="Potpourri-">Potpourri , 40 pts/$</option>
-									
-										<option value="Potty-Patch">Potty Patch, 6,000 points</option>
-									
-										<option value="PRweb">PR Web, 160 pts/$</option>
-									
-										<option value="PrankPlace">PrankPlace, 56 pts/$</option>
-									
-										<option value="Precious-Moments">Precious Moments, 96 pts/$</option>
-									
-										<option value="Prescriptives">Prescriptives, 64 pts/$</option>
-									
-										<option value="Press-Dough">Press Dough, 3,200 points</option>
-									
-										<option value="Priceline.com">Priceline.com, 20 pts/$</option>
-									
-										<option value="Prime-Choice-Auto-Parts">Prime Choice Auto Parts, 56 pts/$</option>
-									
-										<option value="Printing-For-Less">Printing For Less, 144 pts/$</option>
-									
-										<option value="PrintPlace.com">PrintPlace.com, 96 pts/$</option>
-									
-										<option value="ProBoardShop">ProBoardShop, 64 pts/$</option>
-									
-										<option value="Product-Express">Product Express, 64 pts/$</option>
-									
-										<option value="ProFlowers">ProFlowers, 80 pts/$</option>
-									
-										<option value="Promo-Direct">Promo Direct, 80 pts/$</option>
-									
-										<option value="PSPrint">PSPrint, 160 pts/$</option>
-									
-										<option value="Pulls-direct">PullsDirect.com, 32 pts/$</option>
-									
-										<option value="Puppet.com">Puppet.com, 80 pts/$</option>
-									
-										<option value="Purina-Care-Pet-Insurance">Purina Care Pet Insurance, 10,000 points</option>
-									
-										<option value="Puritan's-Pride">Puritan's Pride, 128 pts/$</option>
-									
-										<option value="Quality-Inn">Quality Inn, 40 pts/$</option>
-									
-										<option value="Questia-Online-Library">Questia Online Library, 0 points</option>
-									
-										<option value="Quibids">Quibids, 9,860 points</option>
-									
-										<option value="Quickbooks">Quickbooks, 56 pts/$</option>
-									
-										<option value="Quicken-Loans">Quicken Loans, 1,200 points</option>
-									
-										<option value="Quicken">Quicken, 104 pts/$</option>
-									
-										<option value="Quill">Quill, 16 pts/$</option>
-									
-										<option value="QVC-Gift-Card">QVC Gift Card, 8 pts/$</option>
-									
-										<option value="QVC.com">QVC.com, 40 pts/$</option>
-									
-										<option value="Rabbit-TV">Rabbit TV, 4,400 points</option>
-									
-										<option value="RadioShack">RadioShack, 40 pts/$</option>
-									
-										<option value="Radisson-Hotels">Radisson Hotels, 40 pts/$</option>
-									
-										<option value="Rawlings-Gear">Rawlings Gear, 48 pts/$</option>
-									
-										<option value="Ray-Ban">Ray-Ban, 64 pts/$</option>
-									
-										<option value="RealPlayer-Plus">RealPlayer Plus, 6,000 points</option>
-									
-										<option value="RealPlayer">RealPlayer, 200 points</option>
-									
-										<option value="RedEnvelope">Red Envelope, 64 pts/$</option>
-									
-										<option value="Red-Roof-Inn">Red Roof Inn, 24 pts/$</option>
-									
-										<option value="redbox">Redbox, 100 points</option>
-									
-										<option value="Reebok-Store">Reebok Store, 64 pts/$</option>
-									
-										<option value="Register.com">Register.com, 240 pts/$</option>
-									
-										<option value="REI">REI, 40 pts/$</option>
-									
-										<option value="REISS-Ltd">REISS Ltd, 48 pts/$</option>
-									
-										<option value="Rejuvenate-Auto">Rejuvenate Auto, 3,200 points</option>
-									
-										<option value="Rejuvenate-Floor-Restorer">Rejuvenate Floor Restorer, 3,800 points</option>
-									
-										<option value="Remington">Remington, 80 pts/$</option>
-									
-										<option value="Restaurant.com">Restaurant.com, 112 pts/$</option>
-									
-										<option value="ReStockIt-.com">ReStockIt .com, 48 pts/$</option>
-									
-										<option value="Resume-Rabbit">Resume Rabbit.com, 8,000 points</option>
-									
-										<option value="Resurgence">Resurgence, 12,800 points</option>
-									
-										<option value="Richard-Simmons-Project-Hope">Richard Simmons Project Hope, 6,400 points</option>
-									
-										<option value="Right-Start">Right Start, 40 pts/$</option>
-									
-										<option value="Ring-Central">RingCentral, 8,000 points</option>
-									
-										<option value="Road-Runner-Sports">Road Runner Sports, 96 pts/$</option>
-									
-										<option value="Roamans">Roaman's, 40 pts/$</option>
-									
-										<option value="Robeez">Robeez, 64 pts/$</option>
-									
-										<option value="Rocawear">Rocawear, 48 pts/$</option>
-									
-										<option value="Rock-Bottom-Golf">Rock Bottom Golf, 32 pts/$</option>
-									
-										<option value="Rockler-Woodworking">Rockler Woodworking, 80 pts/$</option>
-									
-										<option value="Rockport">Rockport, 48 pts/$</option>
-									
-										<option value="Rodale">Rodale, 48 pts/$</option>
-									
-										<option value="Rooms-To-Go">Rooms To Go, 16 pts/$</option>
-									
-										<option value="Roots-Canada-">Roots Canada , 32 pts/$</option>
-									
-										<option value="Roots-USA">Roots USA, 32 pts/$</option>
-									
-										<option value="Rosetta-Stone">Rosetta Stone, 80 pts/$</option>
-									
-										<option value="Ross-Simons">Ross-Simons, 32 pts/$</option>
-									
-										<option value="Russell-Hobbs">Russell Hobbs, 80 pts/$</option>
-									
-										<option value="Safeway">Safeway, 6,000 points</option>
-									
-										<option value="Sahalie">Sahalie, 32 pts/$</option>
-									
-										<option value="Saks-Fifth-Avenue-Gift-Card">Saks Fifth Avenue Gift Card, 24 pts/$</option>
-									
-										<option value="Saks-Fifth-Avenue">Saks Fifth Avenue, 24 pts/$</option>
-									
-										<option value="SalesGenie">SalesGenie, 16,000 points</option>
-									
-										<option value="Sally-Beauty-Supply">Sally Beauty Supply, 80 pts/$</option>
-									
-										<option value="Sam's-Club">Sam's Club, 13 pts/$</option>
-									
-										<option value="Samsonite">Samsonite, 40 pts/$</option>
-									
-										<option value="Sandals">Sandals Resorts, 32 pts/$</option>
-									
-										<option value="Santoku-Cooking-Knife">Santoku Cooking Knife, 8,000 points</option>
-									
-										<option value="Sanuk">Sanuk, 64 pts/$</option>
-									
-										<option value="Save-the-Children">Save the Children, 2,000 points</option>
-									
-										<option value="Saveology-Deals">Saveology Deals, 88 pts/$</option>
-									
-										<option value="Saveology-Dining-Club">Saveology Dining Club, 2,000 points</option>
-									
-										<option value="Saveology-Elite">Saveology Elite, 6,000 points</option>
-									
-										<option value="Saving-Star-Redeemable-Coupons">Saving Star Redeemable Coupons 60 points</option>
-									
-										<option value="Saving-Star">Saving Star Registration, 600 points</option>
-									
-										<option value="Scentiments.com">Scentiments, 64 pts/$</option>
-									
-										<option value="schedulicity">Schedulicity, 18,000 points</option>
-									
-										<option value="The-Scholastic-Store-Online">Scholastic Store Online, The, 56 pts/$</option>
-									
-										<option value="Schticky">Schticky, 4,000 points</option>
-									
-										<option value="ScoreBig">ScoreBig, 96 pts/$</option>
-									
-										<option value="Scrapbook-.com">Scrapbook .com, 8 pts/$</option>
-									
-										<option value="Scrubs-&amp;-Beyond">Scrubs &amp; Beyond, 64 pts/$</option>
-									
-										<option value="Sears-Home-Services">Sears Home Services, 7,200 points</option>
-									
-										<option value="Sears-Outlet">Sears Outlet, 24 pts/$</option>
-									
-										<option value="Sears-PartsDirect">Sears PartsDirect, 32 pts/$</option>
-									
-										<option value="Sears.com">Sears, 12 pts/$</option>
-									
-										<option value="Sears.com-Canada">Sears.com Canada, 24 pts/$</option>
-									
-										<option value="Second-Life">Second Life, 2,000 points</option>
-									
-										<option value="Secondipity">Secondipity, 40 pts/$</option>
-									
-										<option value="SecondSpin">SecondSpin, 40 pts/$</option>
-									
-										<option value="See's-Candies">See's Candies, 64 pts/$</option>
-									
-										<option value="SendFlowers.com">SendFlowers.com, 80 pts/$</option>
-									
-										<option value="Sephora-Gift-Card">Sephora Gift Card, 40 pts/$</option>
-									
-										<option value="Sephora">Sephora, 40 pts/$</option>
-									
-										<option value="Serenity-Health">SerenityHealth, 80 pts/$</option>
-									
-										<option value="Service-Magic">Service Magic, 600 points</option>
-									
-										<option value="The-Shade-Store">Shade Store, The, 64 pts/$</option>
-									
-										<option value="Shape-Fx">Shape Fx, 48 pts/$</option>
-									
-										<option value="ShareBuilder">ShareBuilder, 8,000 points</option>
-									
-										<option value="Shari's-Berries">Shari's Berries, 64 pts/$</option>
-									
-										<option value="Sharper-Image">Sharper Image, 96 pts/$</option>
-									
-										<option value="ShaveMate">Shave Mate, 2,000 points</option>
-									
-										<option value="SherWeb">SherWeb, 80 pts/$</option>
-									
-										<option value="ShindigZ">ShindigZ, 112 pts/$</option>
-									
-										<option value="Shipping-Your-Way">Shipping Your Way, 1,360 points</option>
-									
-										<option value="Shoe-Carnival">Shoe Carnival , 260 points</option>
-									
-										<option value="Shoeboxed">Shoeboxed, 12,000 points</option>
-									
-										<option value="Shoebuy-Gift-Card">Shoebuy.com Gift Card, 144 pts/$</option>
-									
-										<option value="Shoebuy.com">Shoebuy.com, 136 pts/$</option>
-									
-										<option value="Shoeline">Shoeline.com, 136 pts/$</option>
-									
-										<option value="ShoeMall">ShoeMall, 96 pts/$</option>
-									
-										<option value="Shoes-Avenue">Shoes Avenue, 96 pts/$</option>
-									
-										<option value="Shoes.com">Shoes.com, 96 pts/$</option>
-									
-										<option value="ShoeSteal.com">ShoeSteal.com, 64 pts/$</option>
-									
-										<option value="ShoesXL">ShoesXL, 48 pts/$</option>
-									
-										<option value="Shop-NHL.com">Shop NHL.com, 40 pts/$</option>
-									
-										<option value="Shop-PBS">Shop PBS, 40 pts/$</option>
-									
-										<option value="Shop-Taste-of-Home">Shop Taste of Home, 80 pts/$</option>
-									
-										<option value="Shop-Thermos.com">Shop Thermos.com, 80 pts/$</option>
-									
-										<option value="Shopbop.com">Shopbop.com, 48 pts/$</option>
-									
-										<option value="ShopEcko">ShopEcko, 40 pts/$</option>
-									
-										<option value="Shopko">Shopko, 24 pts/$</option>
-									
-										<option value="Shoplet">Shoplet.com, 40 pts/$</option>
-									
-										<option value="Shutterfly">Shutterfly, 64 pts/$</option>
-									
-										<option value="Sierra-Trading-Post">Sierra Trading Post, 40 pts/$</option>
-									
-										<option value="Simply-Prepaid">Simply Prepaid, 400 pts/$</option>
-									
-										<option value="Simply-Whispers">Simply Whispers, 80 pts/$</option>
-									
-										<option value="Papa-Bert's-Sippin'-Seat">Sippin' Seat, Papa Bert's , 3,600 points</option>
-									
-										<option value="Sittercity">Sittercity, 20,000 points</option>
-									
-										<option value="Skechers">Skechers, 56 pts/$</option>
-									
-										<option value="SkinID">SkinID, 9,600 points</option>
-									
-										<option value="SkinIt">SkinIt, 80 pts/$</option>
-									
-										<option value="SkinStore-.com">SkinStore.com, 80 pts/$</option>
-									
-										<option value="Skis">Skis.com, 64 pts/$</option>
-									
-										<option value="Skullcandy">Skullcandy, 40 pts/$</option>
-									
-										<option value="Sleep-Inn">Sleep Inn, 40 pts/$</option>
-									
-										<option value="Slice-O-Matic">Slice O Matic, 6,000 points</option>
-									
-										<option value="SlickWraps">SlickWraps, 160 pts/$</option>
-									
-										<option value="Smart-Bargains">Smart Bargains, 56 pts/$</option>
-									
-										<option value="Smart-Destinations">Smart Destinations, 40 pts/$</option>
-									
-										<option value="Smashbox">Smashbox Cosmetic, 64 pts/$</option>
-									
-										<option value="SmileMakers">SmileMakers, 96 pts/$</option>
-									
-										<option value="Smoothfitness">SmoothFitness, 64 pts/$</option>
-									
-										<option value="Snap-On-Feathers">Snap On Feathers, 2,600 points</option>
-									
-										<option value="Snapfish">Snapfish, 120 pts/$</option>
-									
-										<option value="Snuggie">Snuggie, 8,400 points</option>
-									
-										<option value="SocialEngine">SocialEngine, 120 pts/$</option>
-									
-										<option value="Soft-Surroundings">Soft Surroundings, 40 pts/$</option>
-									
-										<option value="Solar-Savings-America">Solar Savings America, 1,600 points</option>
-									
-										<option value="Solstice-Sunglasses">Solstice Sunglasses, 64 pts/$</option>
-									
-										<option value="Soma-Intimates">Soma, 48 pts/$</option>
-									
-										<option value="sony-business-store">Sony Business Store, 24 pts/$</option>
-									
-										<option value="Sony">Sony, 24 pts/$</option>
-									
-										<option value="Sorel">Sorel, 64 pts/$</option>
-									
-										<option value="Southwest-Airlines-Vacations">Southwest Airlines Vacations, 16 pts/$</option>
-									
-										<option value="SpaWeek">Spa Week, 80 pts/$</option>
-									
-										<option value="SpaFinder">SpaFinder, 64 pts/$</option>
-									
-										<option value="SpaLook">SpaLook, 80 pts/$</option>
-									
-										<option value="SparkleCartel">SparkleCartel, 72 pts/$</option>
-									
-										<option value="Speedo-USA">Speedo USA, 64 pts/$</option>
-									
-										<option value="Spencer-Gifts">Spencer Gifts, 80 pts/$</option>
-									
-										<option value="Spiegel">Spiegel, 48 pts/$</option>
-									
-										<option value="Spirit-Halloween">Spirit Halloween, 104 pts/$</option>
-									
-										<option value="SportsAuthority">Sports Authority, 28 pts/$</option>
-									
-										<option value="Sprint">Sprint, 32,000 points</option>
-									
-										<option value="Sprout-Social">Sprout Social, 1,600 pts/$</option>
-									
-										<option value="Stacks-and-Stacks">Stacks and Stacks, 48 pts/$</option>
-									
-										<option value="Stacy-Adams">Stacy Adams, 56 pts/$</option>
-									
-										<option value="Staples-Gift-Card">Staples Gift Card, 48 pts/$</option>
-									
-										<option value="Staples">Staples, 32 pts/$</option>
-									
-										<option value="Starbucks">Starbucks, 56 pts/$</option>
-									
-										<option value="Staybridge-Suites">Staybridge Suites, 24 pts/$</option>
-									
-										<option value="Steep-And-Cheap">Steep And Cheap.com, 40 pts/$</option>
-									
-										<option value="Stencil-Ease">Stencil Ease, 80 pts/$</option>
-									
-										<option value="Steve-Madden">Steve Madden, 80 pts/$</option>
-									
-										<option value="Sticky-Buddy">Sticky Buddy, 2,400 points</option>
-									
-										<option value="Stockn'Go">Stockn'Go, 64 pts/$</option>
-									
-										<option value="Straight-Talk">Straight Talk , 176 pts/$</option>
-									
-										<option value="Stylebop">Stylebop, 48 pts/$</option>
-									
-										<option value="Sundance-Catalog">Sundance Catalog, 32 pts/$</option>
-									
-										<option value="Sur-La-Table">Sur La Table, 64 pts/$</option>
-									
-										<option value="Sweet-Daily-Deals">Sweet Daily Deals, 320 points</option>
-									
-										<option value="Sweet-Dream-Blackberries">Sweet Dream Blackberries, 2,800 points</option>
-									
-										<option value="Swell">Swell, 48 pts/$</option>
-									
-										<option value="SwimSpot">SwimSpot, 64 pts/$</option>
-									
-										<option value="The-Swiss-Colony">Swiss Colony, The, 40 pts/$</option>
-									
-										<option value="Szul">Szul, 64 pts/$</option>
-									
-										<option value="T-Mobile">T-Mobile, 12,000 points</option>
-									
-										<option value="Table-Mate">Table Mate, 7,200 points</option>
-									
-										<option value="Tag-Away">Tag Away, 4,400 points</option>
-									
-										<option value="Target">Target, 36 pts/$</option>
-									
-										<option value="Taylor-Gifts">Taylor Gifts, 80 pts/$</option>
-									
-										<option value="TaylorMade">TaylorMade, 48 pts/$</option>
-									
-										<option value="Teavana">Teavana, 80 pts/$</option>
-									
-										<option value="Tech-For-Less">Tech For Less, 56 pts/$</option>
-									
-										<option value="tech-woot">Tech.Woot, 0 points</option>
-									
-										<option value="Teleflora">Teleflora, 80 pts/$</option>
-									
-										<option value="Teva">Teva, 64 pts/$</option>
-									
-										<option value="Textbooks.com">Textbooks.com, 64 pts/$</option>
-									
-										<option value="TheCuteKid">TheCuteKid, 4,800 points</option>
-									
-										<option value="The-Fancy">TheFancy.com, 120 points</option>
-									
-										<option value="Things-Remembered">Things Remembered, 56 pts/$</option>
-									
-										<option value="Think-Geek">Think Geek, 56 pts/$</option>
-									
-										<option value="Thompson-Cigars">Thompson Cigar - 12 Sampler, 6,160 points</option>
-									
-										<option value="Thompson-Cigar-Pocket-Traveler">Thompson Cigar - Pocket Travel 5,700 points</option>
-									
-										<option value="thredUP">thredUP, 80 pts/$</option>
-									
-										<option value="Thrifty-Rent-A-Car">Thrifty Rent-A-Car, 8 pts/$</option>
-									
-										<option value="Ticket-liquidator">Ticket liquidator, 96 pts/$</option>
-									
-										<option value="TicketNetwork">TicketNetwork, 100 pts/$</option>
-									
-										<option value="Ties">Ties.com, 96 pts/$</option>
-									
-										<option value="Tiger-Direct-Canada">Tiger Direct Canada, 24 pts/$</option>
-									
-										<option value="Tiger-Direct">Tiger Direct, 40 pts/$</option>
-									
-										<option value="Tiger-Direct-Gift-Card">TigerDirect Gift Card, 16 pts/$</option>
-									
-										<option value="TigerGPS-.com">TigerGPS.com, 36 pts/$</option>
-									
-										<option value="Tillys">Tilly's, 56 pts/$</option>
-									
-										<option value="Timberland">Timberland, 32 pts/$</option>
-									
-										<option value="Time-for-Me">Time for Me, 80 pts/$</option>
-									
-										<option value="Timetospa">Timetospa.com, 96 pts/$</option>
-									
-										<option value="Tingo">Tingo, 44 pts/$</option>
-									
-										<option value="Tiny-Prints">Tiny Prints, 80 pts/$</option>
-									
-										<option value="The-Tire-Rack">Tire Rack, The, 56 pts/$</option>
-									
-										<option value="Tire-buyer-.com">TireBuyer.com, 48 pts/$</option>
-									
-										<option value="ToBeFast">ToBeFast, 40 pts/$</option>
-									
-										<option value="Toddler-Savings">Toddler Savings, 360 points</option>
-									
-										<option value="Tog-Shop">Tog Shop, 40 pts/$</option>
-									
-										<option value="Tommy-Hilfiger">Tommy Hilfiger, 56 pts/$</option>
-									
-										<option value="TOMS-Shoes">TOMS Shoes, 56 pts/$</option>
-									
-										<option value="Too-Cute-Baby-Gifts">Too Cute Baby Gifts, 80 pts/$</option>
-									
-										<option value="Tool-King">Tool King, 40 pts/$</option>
-									
-										<option value="Topman">Topman, 56 pts/$</option>
-									
-										<option value="Topsy-Turvy">Topsy Turvy, 11,200 points</option>
-									
-										<option value="Torrid.com">Torrid.com, 56 pts/$</option>
-									
-										<option value="Total-Gym">Total Gym, 68 pts/$</option>
-									
-										<option value="Total-Pet-Supply">Total Pet Supply, 64 pts/$</option>
-									
-										<option value="TracFone">TracFone, 240 pts/$</option>
-									
-										<option value="Tractor-Supply-Co">Tractor Supply Co, 40 pts/$</option>
-									
-										<option value="Travelation">Travelation, 6,400 points</option>
-									
-										<option value="Travelocity-Flights">Travelocity Flights, 1,200 points</option>
-									
-										<option value="Travelocity-Hotels">Travelocity Hotels, 64 pts/$</option>
-									
-										<option value="Travelocity-Vacations">Travelocity Vacation Packages, 40 pts/$</option>
-									
-										<option value="Travelocity.ca">Travelocity.ca, 24 pts/$</option>
-									
-										<option value="Trendy-Top">Trendy Top, 4,400 points</option>
-									
-										<option value="Tumi">Tumi, 40 pts/$</option>
-									
-										<option value="TurboTax">TurboTax, 120 pts/$</option>
-									
-										<option value="Twist-N-Clip">Twist 'N Clip, 3,200 points</option>
-									
-										<option value="ULTA-Beauty-">ULTA Beauty , 48 pts/$</option>
-									
-										<option value="ULTA-Gift-Card">ULTA Gift Card, 40 pts/$</option>
-									
-										<option value="Ultimate-Weekend-Traveler">Ultimate Weekend Traveler, 9,200 points</option>
-									
-										<option value="Umi">UMI Children's Shoes, 80 pts/$</option>
-									
-										<option value="Unbeatable-Sale">Unbeatable Sale, 96 pts/$</option>
-									
-										<option value="Uncommon-Goods">Uncommon Goods, 80 pts/$</option>
-									
-										<option value="Under-Armour-Canada">Under Armour Canada, 56 pts/$</option>
-									
-										<option value="Under-Armour">Under Armour, 64 pts/$</option>
-									
-										<option value="United-Shades">United Shades, 80 pts/$</option>
-									
-										<option value="UPrinting">UPrinting, 80 pts/$</option>
-									
-										<option value="Urban-Outfitters">Urban Outfitters, 36 pts/$</option>
-									
-										<option value="US-Pets">US Pets, 80 pts/$</option>
-									
-										<option value="USA-Today">USA Today, 4,600 points</option>
-									
-										<option value="USA4ink">USA4ink, 240 pts/$</option>
-									
-										<option value="uSell">uSell, 320 pts/$</option>
-									
-										<option value="Vacation-Rentals.com">Vacation Rentals.com, 160 pts/$</option>
-									
-										<option value="Value-Mags.com">Value Mags.com, 240 pts/$</option>
-									
-										<option value="Vanity-Fair">Vanity Fair, 320 pts/$</option>
-									
-										<option value="Vans">Vans, 32 pts/$</option>
-									
-										<option value="Vayama">Vayama, 6,000 points</option>
-									
-										<option value="Veer">Veer, 120 pts/$</option>
-									
-										<option value="Vegas-Tickets">Vegas Tickets, 80 pts/$</option>
-									
-										<option value="Venting-Direct">Venting Direct.com, 32 pts/$</option>
-									
-										<option value="Venting-Pipe">Venting Pipe.com, 32 pts/$</option>
-									
-										<option value="Vera-Bradley">Vera Bradley, 32 pts/$</option>
-									
-										<option value="Verizon-High-Speed-Internet">Verizon Broadband Services, 16,000 points</option>
-									
-										<option value="Verizon-Wireless">Verizon Wireless, 80 pts/$</option>
-									
-										<option value="Verseo.com">Verseo.com, 144 pts/$</option>
-									
-										<option value="Veterans-Advantage">Veterans Advantage, 6,000 points</option>
-									
-										<option value="VetShop">VetShop.com, 80 pts/$</option>
-									
-										<option value="Vichy">Vichy, 64 pts/$</option>
-									
-										<option value="Victoria's-Secret">Victoria's Secret, 32 pts/$</option>
-									
-										<option value="Vince-Camuto">Vince Camuto, 64 pts/$</option>
-									
-										<option value="Vintage-Tub-and-Bath">Vintage Tub and Bath, 40 pts/$</option>
-									
-										<option value="Virgin-Atlantic">Virgin Atlantic, 24 pts/$</option>
-									
-										<option value="Virgin-Mobile-USA">Virgin Mobile USA, 4,000 points</option>
-									
-										<option value="Virginia-Candle-">Virginia Candle , 80 pts/$</option>
-									
-										<option value="Visa-Black-Card">Visa Black Card, 48,000 points</option>
-									
-										<option value="Vision-Direct">Vision Direct, 64 pts/$</option>
-									
-										<option value="Visivite-.com">Visivite.com, 88 pts/$</option>
-									
-										<option value="VistaPrint-Canada">VistaPrint Canada, 80 pts/$</option>
-									
-										<option value="Vistaprint">Vistaprint, 80 pts/$</option>
-									
-										<option value="Vita-Cost">Vita Cost, 64 pts/$</option>
-									
-										<option value="Vital-Savings-by-Aetna">Vital Savings by Aetna, 160 pts/$</option>
-									
-										<option value="Vitamin-Shoppe">Vitamin Shoppe, 64 pts/$</option>
-									
-										<option value="VivaTerra">VivaTerra, 64 pts/$</option>
-									
-										<option value="Vogue-Magazine">Vogue Magazine, 320 pts/$</option>
-									
-										<option value="Vogue-Wigs">Vogue Wigs, 120 pts/$</option>
-									
-										<option value="VRBO">VRBO.com, 120 pts/$</option>
-									
-										<option value="Walgreens">Walgreens, 56 pts/$</option>
-									
-										<option value="Walmart">Walmart, 16 pts/$</option>
-									
-										<option value="Walter-Drake">Walter Drake, 80 pts/$</option>
-									
-										<option value="Wantable">Wantable, 4,800 points</option>
-									
-										<option value="Watch-Station">Watch Station, 112 pts/$</option>
-									
-										<option value="Water.com">Water.com, 14,000 points</option>
-									
-										<option value="Waterford">Waterford, 64 pts/$</option>
-									
-										<option value="Wayfair">Wayfair, 40 pts/$</option>
-									
-										<option value="Weather-Station-Keychain">Weather Station Keychain, 2,000 points</option>
-									
-										<option value="Weight-Watchers.com-Canada">Weight Watchers.com Canada, 6,000 points</option>
-									
-										<option value="Weight-Watchers.com">Weight Watchers.com, 4,000 points</option>
-									
-										<option value="Westin-Hotels-&amp;-Resorts">Westin Hotels &amp; Resorts, 16 pts/$</option>
-									
-										<option value="Wet-Seal">Wet Seal, 8 pts/$</option>
-									
-										<option value="White-House-Black-Market">White House Black Market, 32 pts/$</option>
-									
-										<option value="Wholesale-Costume-Club">Wholesale Costume Club, 24 pts/$</option>
-									
-										<option value="Wholesale-Halloween-Costumes">Wholesale Halloween Costumes, 64 pts/$</option>
-									
-										<option value="William-Rast">William Rast, 64 pts/$</option>
-									
-										<option value="Wilsons-Leather">Wilson's Leather, 40 pts/$</option>
-									
-										<option value="Wine.com-Gift-Card">Wine.com Gift Card, 104 pts/$</option>
-									
-										<option value="wine.com">wine.com, 56 pts/$</option>
-									
-										<option value="Wipe-New">Wipe New, 1,600 points</option>
-									
-										<option value="Wired-Magazine">Wired Magazine, 200 pts/$</option>
-									
-										<option value="Wirefly">Wirefly, 14,000 points</option>
-									
-										<option value="Wireless-from-AT&amp;T">Wireless from AT&amp;T, 14,000 points</option>
-									
-										<option value="Wolfermans">Wolfermans, 56 pts/$</option>
-									
-										<option value="Woman-Within">Woman Within, 40 pts/$</option>
-									
-										<option value="Woot">Woot!, 0 points</option>
-									
-										<option value="Workout-Warehouse">Workout Warehouse, 112 pts/$</option>
-									
-										<option value="World-Class-Nutrition">World Class Nutrition, 80 pts/$</option>
-									
-										<option value="World-Wide-Stereo">World Wide Stereo, 42 pts/$</option>
-									
-										<option value="World-Wrestling-Entertainment">World Wrestling Entertainment, 64 pts/$</option>
-									
-										<option value="Wrapsol">Wrapsol, 200 pts/$</option>
-									
-										<option value="WSJwine">WSJwine, 18,000 points</option>
-									
-										<option value="Wyndam-Hotel-Group">Wyndham Hotel Group, 24 pts/$</option>
-									
-										<option value="Wysong">Wysong, 144 pts/$</option>
-									
-										<option value="XHose">XHose, 3,900 points</option>
-									
-										<option value="Xtremez-">Xtremez , 40 pts/$</option>
-									
-										<option value="Yahoo-Mail-Plus">Yahoo! Mail Plus, 4,000 points</option>
-									
-										<option value="Yahoo-Merchant-Solutions">Yahoo! Merchant Solutions, 36,000 points</option>
-									
-										<option value="Yahoo-Web-Hosting">Yahoo! Web Hosting, 16,000 points</option>
-									
-										<option value="Yelp-Deals">Yelp Deals, 240 pts/$</option>
-									
-										<option value="Yoga-Accessories.com">Yoga Accessories.com, 80 pts/$</option>
-									
-										<option value="yola">yola, 800 points</option>
-									
-										<option value="Younkers">Younkers, 32 pts/$</option>
-									
-										<option value="YSL-Beauty">YSL Beauty, 64 pts/$</option>
-									
-										<option value="Yves-Rocher-Canada">Yves Rocher Canada, 120 pts/$</option>
-									
-										<option value="Yves-Rocher">Yves Rocher, 120 pts/$</option>
-									
-										<option value="ZagatWine">ZagatWine, 18,000 points</option>
-									
-										<option value="Zales">Zales, 72 pts/$</option>
-									
-										<option value="Ziamond">Ziamond, 88 pts/$</option>
-									
-										<option value="Zoobooks">Zoobooks, 700 points</option>
-									
-										<option value="ZShock">ZShock, 80 pts/$</option>
-									
-										<option value="Zulily">Zulily, 16 pts/$</option>
-									
-										<option value="Zuma-Office-Supply">Zuma Office Supply, 40 pts/$</option>
-									
-								</select>
+						<div style="display:inline-block;width:380px;">
+							<div id="tripleDrop" style="margin:12px 10px 10px 10px;float:left;">
+								<div class="formInput">
+									<select id="formActions" name="formActions" onchange="buildForm();" style="font-size:17px;font-weight:none;height:27px;width:120px;">
+										<option value="stores" selected="">Stores</option>
+										<option value="coupons">Coupons</option>
+										<option value="products">Products</option>
+										
+									</select>
+								</div>
+							</div>
+							
+							<div id="storeSearch" class="searchForm" style="float:left;margin-right:0px;">
+								<div>		
+									<form name="merchantSearch" id="merchantSearch" method="post" action="/index.cfm/shop.merchantAlias/" style="margin-top:-4px;margin-right:0px;height:27px;" onsubmit="return validateSearch(this)">					
+										<input type="text" name="merchant" id="merchant" style="width:198px;font-size:14px;padding-top:1px;" class="searchInput ac_input" onclick="validateSearch(this)" onfocus="clearText(this,'searchInput','storeSearchInputGreyText')" onblur="clearText(this,'storeSearchInputGreyText','searchInput')" value="Search &amp; Save" autocomplete="off"><input type="submit" name="submit" id="submit" value="" class="searchButton twoTop">																		
+									</form>										
+								</div>
+							</div>
+							 <div id="productSearch" class="searchForm" style="float:left;margin-right:0px;visibility:hidden;display:none;">
+								<form name="productForm" id="productForm" method="get" action="/index.cfm/search.results/" class="searchForm" style="margin-top:-4px;margin-right:0px;">									
+									<input type="text" name="keywords" id="searchField" style="width:198px;font-size:14px;padding-top:1px;" class="searchInput" onfocus="clearText(this,'storeSearchInputBlackText','storeSearchInputGreyText')" onblur="clearText(this,'storeSearchInputBlackText','storeSearchInputGreyText')" value="Search Stores and Products"><input type="submit" name="submit" id="submit" value="" class="searchButton twoTop">						
+								</form>								
+							</div>
+							
+							<div id="couponSearch" class="searchForm" style="float:left;margin-right:0px;visibility:hidden;display:none;">																
+								<form name="brandSearch" id="brandSearch" method="post" action="/index.cfm/search.merchantKeywords/" style="margin-top:-4px;margin-right:0px;">					
+									<input type="text" name="keywords" id="searchField" style="width:198px;font-size:14px;padding-top:1px;" class="searchInput" onfocus="clearText(this,'searchInput','storeSearchInputGreyText')" onblur="clearText(this,'storeSearchInputGreyText','searchInput')" value="Search by brand or keyword"><input type="submit" name="submit" id="submit" value="" class="searchButton twoTop">
+								</form>													
 							</div>
 						</div>
 					</div>
@@ -2805,13 +369,19 @@
 						<div id="joinBarBackgroundOuter">
 							<div id="joinBarBackgroundInner">
 								<div id="register">
-									<div class="titleText">
-										Join Memolink and start earning points for rewards today
+									<div style="display:inline-block;">
+										<span class="titleText" style="float:left;padding-right:29px;">
+											Get $5 Free When You Join Memolink
+										</span>
+										<span style="float:right;font-size:9px;color:#585858">
+											By joining Memolink, you agree<br> to our <a href="/index.cfm/terms-conditions" target="_blank"> <span style="text-decoration:underline;">terms</span></a> and <a href="/index.cfm/privacy-policy" target="_blank"> <span style="text-decoration:underline;">privacy</span></a> policy.
+										</span>
 									</div>
 
 									<div class="registrationFormFields">
 										<form name="registration" id="registration" action="/index.cfm/">
-											<input type="hidden" name="currentLocation" id="currentLocation" value="/privacy-policy">
+											
+											<input type="hidden" name="ocampID" id="ocampID" value="0">
 											<div style="float:left; margin-right:5px;margin-top:1px;">
 												<input type="text" id="registrationEmailAddress" name="registrationEmailAddress" onfocus="checkOnFocusFormFields(this);" onblur="checkOnFocusFormFields(this);" value="Enter your email address">
 											</div>
@@ -2846,7 +416,7 @@
 										+ '&redirect_uri=http://www.memolink.com/index.cfm/loggedOut.fbConnectLogin'
 										+ '&scope=email,user_birthday'
 										+ '&response_type=code'
-										+ '&state=F09FB862DCD700536CA8A7E6B1AC1069'
+										+ '&state=6BACE6C311F9D8896AAFB350A1132CA1'
 										+ '&display=popup';
 								fbConnectWindow = window.open(fbURL, 'fbConnectWindow', 'height=300, width=630,top='+top+',left='+left+'');
 								
@@ -2905,6 +475,9 @@
 				<div class="clear"></div>
 					<div id="contentWrap">
 						<div id="content">
+
+
+
 <!--Privacy Statement 1.5.2012 rm-->
 
 Last Updated February 1, 2012
@@ -3108,60 +681,62 @@ review this statement to be informed of how Memolink.com is protecting your  inf
   Denver, CO 80222<br>
  
 </div> 
+<!--Pixel for Automatic Survey Login--->
+
 						<div class="clear"></div>
 					</font-size:14px;></div>
 					<div id="contentBottom"></div>
 				</div>
-					
 				
-				<script type="text/javascript">				
+
+				<script type="text/javascript">
 					function fSubmit() {
 						
-							window.open('http://www.memolink.com/index.cfm/search.freecauseSearchResults?search='+document.freecauseSearch.search.value,scrollbars="yes"); 
-							
+							window.open('http://www.memolink.com/index.cfm/search.freecauseSearchResults?search='+document.freecauseSearch.search.value,scrollbars="yes");
+						
 					};
 				</script>
 				<div class="clear"></div>
 
 				<div id="joinBar">
 					<div id="joinBarBackgroundOuter">
-						<div id="joinBarBackgroundInner">		
-				
+						<div id="joinBarBackgroundInner">
+
 							<div class="registrationFormFields">
 								<form name="freecauseSearch" id="freecauseSearch">
 									<input type="hidden" id="keywords" value="document.freecauseSearch.search.value">
-									<div style="float:left; margin-right:5px; margin-top:15px;padding-left:300px;">									
+									<div style="float:left; margin-right:5px; margin-top:15px;padding-left:300px;">
 										<input style="width:300px; " type="text" id="search" name="search" onkeypress="{if (event.keyCode==13)fSubmit()}">
 									</div>
 									
-									<div style="width:110px; float:left; margin-top:15px;">						
+									<div style="width:110px; float:left; margin-top:15px;">
 										<div class="greenButtonWithArrowOuter_small" onclick="fSubmit()">
 											<span class="greenButtonWithArrowInner_small">Search &amp; Win</span>
-										</div>						
+										</div>
 									</div>
 									<div style="clear:both;"></div>
-								</form>									
+								</form>
 							</div>
 							<div>
-								 <a href="/index.cfm/searchandwinfaq" class="noLinkUnderline" style="padding-left:300px;font-size:10px;text-decoration:none;font-weight:bold;">How does search and win work?</a> 
+								 <a href="/index.cfm/searchandwinfaq" class="noLinkUnderline" style="padding-left:300px;font-size:10px;text-decoration:none;font-weight:bold;">How does search and win work?</a>
 							</div>
-				
+
 						</div>
 					</div>
 				</div>
 				<div class="clear"></div>
 
-							
+
 				<div class="footer2 footerContent2">
 					<div class="footerContent2">
 						<div class="footerContent3of5">
-							<ul>							
+							<ul>
 								<li>
 									Copyright © 2013
-								</li>								
+								</li>
 								<li>
 									Memolink.com, LLC
-								</li>								
+								</li>
 								<li>
 									All Rights reserved
 								</li>
@@ -3171,13 +746,13 @@ review this statement to be informed of how Memolink.com is protecting your  inf
 							&nbsp;
 						</div>
 						<div class="footerContent4of5">
-							<ul>								
+							<ul>
 								<li>
 									<a href="/index.cfm/earn.memolinkVideo" style="color:white;">how it works</a>
-								</li>								
+								</li>
 								<li>
-									<a href="/index.cfm/share.home" style="color:white;">referral program</a>
-								</li>								
+									<a href="http://www.adperio.com/memolinkpublisherRegistration.cfm" style="color:white;">become an affiliate</a>
+								</li>
 								<li>
 									<a href="/index.cfm/about-us" style="color:white;">about us</a>
 								</li>
@@ -3187,13 +762,13 @@ review this statement to be informed of how Memolink.com is protecting your  inf
 							&nbsp;
 						</div>
 						<div class="footerContent4of5">
-							<ul>								
+							<ul>
 								<li>
 									<a href="/index.cfm/FAQ" style="color:white;">FAQ</a>
-								</li>								
+								</li>
 								<li>
 									<a href="/index.cfm/terms-conditions" style="color:white;">terms</a>
-								</li>								
+								</li>
 								<li>
 									<a href="/index.cfm/privacy-policy" style="color:white;">privacy</a>
 								</li>
@@ -3203,47 +778,62 @@ review this statement to be informed of how Memolink.com is protecting your  inf
 							&nbsp;
 						</div>
 						<div class="footerContent5of5">
-							<ul>							
+							<ul>
 								<li>
 									<span style="color:#a1c53a">Need some help?</span>
-								</li>								
+								</li>
 								<li>
 									<span style="color:white;">If you have any questions or comments, our member support is here to help.
-								</span></li>								
-																
+								</span></li>
+								
 								<li>
 									Please click on the "Support" tab on the far right side of your screen.
 								</li>
 							</ul>
-							<br>							
+							<br>
 						</div>
 					</div>
 				</div>
-				 
+
 				<div class="clear"></div>
 				<div id="postFooter">
 
 					<div id="socialIcons">
 						
-						
+
 						<a href="/index.cfm/track.click/merchant/340/offer/340" target="_new1" class="noLinkUnderline"><img src="/assets/images/facebookIcon.png" alt="memolink" width="25"></a>
 						<a href="http://twitter.com/memolink" target="_new2" class="noLinkUnderline"><img src="/assets/images/twitterIcon.png" alt="memolink" width="25"></a>
 					</div>
 					<img id="followUsOn" src="/assets/images/followUsOn.png">
 				</div>
-				
+
 			</div>
 			
 
 			
 			
-			
+
 			<input type="hidden" id="userID" name="userID" value="0">
 			<input type="hidden" id="userKey" name="userKey" value="50A2706E4CDF2DFDC6E44ED95071D0D6">
-			
-			
-			
 
+			
+			
+			<!-- google_rm -->
+			<script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 991201355;
+			var google_conversion_label = "s5qfCN3c2ggQy5DS2AM";
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+			</script>
+			<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+			</script>
+			<noscript>
+			<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991201355/?value=0&amp;label=s5qfCN3c2ggQy5DS2AM&amp;guid=ON&amp;script=0"/>
+			</div>
+			</noscript>
 		
 	
 </body></html>
