@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the humanservices.gov.au privacy policy that was archived on 2013-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508040020id_/http%3A//www.humanservices.gov.au/customer/information/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the humanservices.gov.au privacy policy that was archived on 2013-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205092558id_/http%3A//www.humanservices.gov.au/customer/information/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js" lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	
 <!-- SPW_1Portlet theme - process.jsp - v1.12 -->
-<!-- Wed May 08 13:31:11 EST 2013 -->
+<!-- Thu Dec 05 20:25:57 EST 2013 -->
 
 
 
@@ -22,7 +22,7 @@ Server = d538 : 1c : c01 : Portal
 
 
 
-	<!--Meta Tags - Version WCM_1.0-->
+	<!--Meta Tags - Version WCM_1.0_0.1-->
 		
 <title>Your right to privacy</title>
 		
@@ -30,9 +30,9 @@ Server = d538 : 1c : c01 : Portal
 <meta name="description" content="You have a right to have your personal information kept private. The department is bound by strict confidentiality and secrecy provisions in social security, families, health, child support and disability services law.">
 <meta name="DC.Coverage.jurisdiction" content="All">
 <meta name="DC.Creator" content="Department of Human Services">
-<meta name="DC.Date.Created" scheme="ISO8601" content="2013-01-17">
-<meta name="DC.Date.Issued" scheme="ISO8601" content="2013-01-17">
-<meta name="DC.Date.Modified" scheme="ISO8601" content="2013-01-17">
+<meta name="DC.Date.Created" scheme="ISO8601" content="2013-08-09">
+<meta name="DC.Date.Issued" scheme="ISO8601" content="2013-08-09">
+<meta name="DC.Date.Modified" scheme="ISO8601" content="2013-08-09">
 <meta name="DC.Description" content="You have a right to have your personal information kept private. The department is bound by strict confidentiality and secrecy provisions in social security, families, health, child support and disability services law.">
 <meta name="DC.Format" scheme="IMT" content="text/html">
 <meta name="DC.Identifier" scheme="URI" content="09024a8780088421">
@@ -74,9 +74,9 @@ Server = d538 : 1c : c01 : Portal
 
 <!--noindex-->
 
-<ul class="skip-links accessibility-hidden">
-	<li><a href="#content">Skip to content</a></li>
-</ul>
+<div class="skip-links">
+	<a href="#content">skip to content</a>
+</div>
 
 <header id="dhs-banner" role="banner">
 	<div class="wrapper clearfix">
@@ -86,27 +86,51 @@ Server = d538 : 1c : c01 : Portal
 		<div>
 			<!--[if lt IE 9]><div id="global-nav-ie"><![endif]-->
 			<nav id="global-nav" class="visible-desktop">
-				<a href="/corporate/">Corporate</a>
-				<a href="/business/">Business</a>
-				<a href="/healthprofessionals">Health professionals</a>
-				<a href="http://www.mhs.gov.au/">Minister</a>
+				<a href="/corporate/?from=banner">Corporate</a>
+				<a href="/business/?from=banner">Business</a>
+				<a href="/healthprofessionals?from=banner">Health professionals</a>
+				<a href="http://www.mhs.gov.au/" class="track">Minister</a>
 			</nav>
 			<!--[if lt IE 9]></div><![endif]-->
 			<!--[if lt IE 9]><div class="ie-onlineserv-nav"><![endif]-->
 			<nav class="onlineserv-nav hidden-phone">
 				<span class="onlineserv-heading">Customer online services</span>
-					<button type="submit" class="btn online-services action orange" name="onls-logon">Log on</button>
-					<div><a href="/customer/enablers/online-services/register">Register</a> | <a href="/customer/enablers/online-services/help-for-online-services">Help</a></div>
+					<noscript><div class="noscript">Online Services requires JavaScript!</div></noscript>
+					<div class="buttons">
+						<button class="btn mygov-launch mrs" name="mygov-logon" title="myGov">myGov</button>
+						<button class="btn online-services action orange" name="onls-logon">Log on</button>
+					</div>
+					<div class="links"><a href="/customer/enablers/online-services/register">Register</a> | <a href="/customer/enablers/online-services/help-for-online-services">Help</a></div>
 				<div class="onlineserv-modal">
-					<span class="close"><a href="javascript:;">×</a></span>
+					<span class="close"><a href="javascript:;"><span class="accessibility-hidden">Close </span>×</a></span>
+					<div class="visible-phone expressplus-logon">
+						<a href="/customer/services/express-plus-mobile-apps?from=mobile-logon"><img class="position left mbl" src="/spw/common/common/img/icon-mobile.png" alt="Express Plus mobile apps"></a>
+						<span>If you have a Centrelink account you can use <a href="/customer/services/express-plus-mobile-apps?from=mobile-logon">Express plus mobile apps</a> to access some online services.</span>
+					</div>
 					<form method="get" action="#">
-						
-						<label><input type="radio" name="logon-selection" value="https://australia.gov.au/my-account">australia.gov.au account</label>
-						<label><input type="radio" name="logon-selection" value="https://www.centrelink.gov.au/login?OriginName=cust_portal" class="open-secure-window">Centrelink Online Services</label>
-						<label><input type="radio" name="logon-selection" value="https://www2.medicareaustralia.gov.au/pext/coin/Login.do?userAction=initiateLogin">Medicare Online Services </label>
-						<label><input type="radio" name="logon-selection" value="https://www.csaonline.gov.au/ClearTrust/Login.aspx?CT_ORIG_URL=http%3A%2F%2Fwww.csaonline.gov.au%3A80%2FSecure%2FDefault.aspx&amp;CTAuthMode=BASIC">Child Support Online Services</label>
-						<p><button type="submit" class="btn action orange online-services" name="onls-logon">Log on</button></p>
+						<fieldset>
+							<legend>Select an account</legend>
+							
+							<label><input type="radio" name="logon-selection" value="https://my.gov.au/">myGov</label>
+							<label><input type="radio" name="logon-selection" value="https://www.centrelink.gov.au/login?OriginName=cust_portal" class="open-secure-window">Centrelink Online Services</label>
+							<label><input type="radio" name="logon-selection" value="/customer/enablers/online-services/medicare-online-account-through-mygov">Medicare Online Services </label>
+							<label><input type="radio" name="logon-selection" value="/customer/enablers/online-services/child-support-online-account-through-mygov">Child Support Online Services</label>
+							<p><button type="submit" class="btn action orange online-services" name="onls-logon">Log on</button></p>
+						</fieldset>
 					</form>
+				</div>
+				<div class="onlineserv-modal mygov-modal">
+					<span class="close"><a href="javascript:;"><span class="accessibility-hidden">Close </span>×</a></span>
+					<div>
+						
+						Use <a href="https://my.gov.au/">myGov</a> now – fast, simple access to government services, all in one place
+						<a class="mygov-signin track" href="https://my.gov.au/" data-track-text="myGov log on (template)">
+							<span class="folder">&nbsp;</span>
+							<span class="grad mygov button">
+								<span class="padlock">Sign in</span>
+							</span>
+						</a>
+					</div>
 				</div>
 			</nav>
 			<!--[if lt IE 9]></div><![endif]-->
@@ -114,9 +138,9 @@ Server = d538 : 1c : c01 : Portal
 		<!--[if lt IE 9]><div id="mobile-buttons-ie" class="visible-phone clearfix"><![endif]-->
 		<nav id="mobile-buttons" class="visible-phone clearfix">
 			<a class="mob-btn home" href="/"><span>Home</span></a>
-			<a class="mob-btn search" href="#"><span>Search</span></a>
-			<a class="mob-btn locator" href="#"><span>Locate</span></a>
-			<a class="mob-btn logon" href="#"><span>Log on</span></a>
+			<a class="mob-btn search" href="javascript:;"><span>Search</span></a>
+			<a class="mob-btn locator" href="javascript:;"><span>Locate</span></a>
+			<a class="mob-btn logon" href="javascript:;"><span>Log on</span></a>
 		</nav>
 		<!--[if lt IE 9]></div><![endif]-->
 	</div>
@@ -144,23 +168,23 @@ Server = d538 : 1c : c01 : Portal
 		</div> <!--/ .wrapper -->
 		<div id="theme-bar" class="clearfix">
 			<div class="wrapper">
-				<p><a class="visible-tablet theme-switch on" href="#"><strong>Menu</strong></a></p>
+				<a class="visible-tablet theme-switch" href="javascript:;"><strong>Menu</strong></a>
 				<!--[if lt IE 9]><div id="theme-menu-ie" class="clearfix"><![endif]-->
 				<nav id="theme-menu" class="clearfix">
 					<ul>
-						<li id="theme-menu-heading"><a class="visible-tablet theme-switch off" href="#"><strong>Menu</strong></a></li>
-						<li><a class="theme-button grad families" href="/customer/themes/families"><span>Families</span></a></li>
-						<li><a class="theme-button grad separated" href="/customer/themes/child-support-and-separated-parents"><span>Separated parents</span></a></li>
-						<li><a class="theme-button grad jobseekers" href="/customer/themes/job-seekers"><span>Job seekers</span></a></li>
-						<li><a class="theme-button grad older" href="/customer/themes/older-australians"><span>Older Australians</span></a></li>
-						<li><a class="theme-button grad health" href="/customer/themes/medicare-and-your-health"><span>Your health</span></a></li>
-						<li><a class="theme-button grad disability" href="/customer/themes/people-with-a-disability"><span>People with disability</span></a></li>
-						<li><a class="theme-button grad students" href="/customer/themes/students-and-trainees"><span>Students &amp; trainees</span></a></li>
-						<li><a class="theme-button grad migrants" href="/customer/themes/migrants-refugees-and-visitors"><span>Migrants, refugees &amp; visitor</span></a></li>
-						<li><a class="theme-button grad carers" href="/customer/themes/carers"><span>Carers</span></a></li>
-						<li><a class="theme-button grad rural" href="/customer/themes/rural-and-remote-australians"><span>Remote &amp; rural Australians</span></a></li>
-						<li><a class="theme-button grad indigenous" href="/customer/themes/indigenous-australians"><span>Indigenous Australians</span></a></li>
-						<li><a class="theme-button grad emergency" href="/customer/themes/help-in-an-emergency"><span>Help in an emergency</span></a></li>
+						<li id="theme-menu-heading" class="visible-tablet"><a href="javascript:;">close ×</a></li>
+						<li><a class="theme-button grad families" href="/customer/themes/families?from=theme-bar"><span>Families</span></a></li>
+						<li><a class="theme-button grad separated" href="/customer/themes/child-support-and-separated-parents?from=theme-bar"><span>Separated parents</span></a></li>
+						<li><a class="theme-button grad jobseekers" href="/customer/themes/job-seekers?from=theme-bar"><span>Job seekers</span></a></li>
+						<li><a class="theme-button grad older" href="/customer/themes/older-australians?from=theme-bar"><span>Older Australians</span></a></li>
+						<li><a class="theme-button grad health" href="/customer/themes/medicare-and-your-health?from=theme-bar"><span>Your health</span></a></li>
+						<li><a class="theme-button grad disability" href="/customer/themes/people-with-a-disability?from=theme-bar"><span>People with disability</span></a></li>
+						<li><a class="theme-button grad students" href="/customer/themes/students-and-trainees?from=theme-bar"><span>Students &amp; trainees</span></a></li>
+						<li><a class="theme-button grad migrants" href="/customer/themes/migrants-refugees-and-visitors?from=theme-bar"><span>Migrants, refugees &amp; visitors</span></a></li>
+						<li><a class="theme-button grad carers" href="/customer/themes/carers?from=theme-bar"><span>Carers</span></a></li>
+						<li><a class="theme-button grad rural" href="/customer/themes/rural-and-remote-australians?from=theme-bar"><span>Rural &amp; remote Australians</span></a></li>
+						<li><a class="theme-button grad indigenous" href="/customer/themes/indigenous-australians?from=theme-bar"><span>Indigenous Australians</span></a></li>
+						<li><a class="theme-button grad emergency disaster" href="/customer/themes/help-in-an-emergency?from=theme-bar"><span>Help in an emergency</span></a></li>
 					</ul>
 				</nav>
 				<!--[if lt IE 9]></div><![endif]-->
@@ -176,7 +200,7 @@ Server = d538 : 1c : c01 : Portal
 	
 
 
-	<!--Generic shtm- Version WCM_1.0_0.4-->
+	<!--Generic shtm- Version WCM_1.0_0.7-->
 <div class="container page customer clearfix">
     <div id="content-header" class="wrapper page colour"></div>
     <div id="content" class="wrapper page clearfix">
@@ -185,10 +209,19 @@ Server = d538 : 1c : c01 : Portal
         <!--endnoindex-->
         <div class="content-grid">
             <div class="content-wrapper">
-                <a onclick="openAndRead(this.href); return false;" href="http://app.readspeaker.com/cgi-bin/rsent?customerid=5525&amp;lang=en_au&amp;output=template&amp;url=http://www.humanservices.gov.au/customer/information/privacy" class="listen">
-						Listen
-						<span class="accessibility-hidden"> to this page. This will open in a new window and will play an audio version of the main content on this page.</span></a>
-                <!--RSPEAK_START-->
+                
+
+
+<div class="rs-dhs-skin rs_skip rs_preserve hidden-print">
+   <a class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="http://app.as.readspeaker.com/cgi-bin/rsent?customerid=5525&amp;lang=en_au&amp;voice=Karen&amp;readid=content&amp;url=http://www.humanservices.gov.au/customer/information/privacy">
+      <span class="rsbtn_left rsimg rspart">
+         <span class="rsbtn_text">Listen</span>
+      </span>
+      <span class="rsbtn_right rsimg rsplay rspart"></span>
+   </a>
+</div>
+
+
 
                 <h1>Your right to privacy</h1>
                 <div id="onthispage" class="on-this-page"><h2>on this page</h2><ul><li class="h2"><a href="#a2">What is privacy</a></li><li class="h2"><a href="#a3">Your right to privacy</a></li><li class="h2"><a href="#a4">Privacy notice for Express Plus mobile apps</a></li><li class="h2"><a href="#a5">Tax File Numbers</a></li><li class="h2"><a href="#a6">Data-matching use of Tax File Numbers</a></li><li class="h2"><a href="#a7">Collection of information</a></li><li class="h2"><a href="#a8">Use of information</a></li><li class="h2"><a href="#a9">Disclosure of information</a></li><li class="h2"><a href="#a10">More information</a></li></ul></div>
@@ -202,10 +235,18 @@ Server = d538 : 1c : c01 : Portal
                     <li>you have the right to see what information is held about you and have it corrected if it is incorrect, out of date or incomplete (the <em>Freedom of Information Act 1982</em> also covers this)</li>
                     <li>you have the right to have your personal information stored securely and protected from unauthorised access or misuse</li>
                     <li>you have the right to know how your personal information will be used</li>
-                    <li>if you believe your privacy has been infringed you can make a complaint to the department.</li>
+                    <li>if you believe your privacy has been infringed you can make a complaint to the department</li>
                 </ul>
                 <h2 id="a4">Privacy notice for Express Plus mobile apps</h2>
-                <p>This statement about the <a href="/customer/information/privacy-notice-for-express-plus-mobile-apps">Privacy notice for Express Plus mobile apps</a><sup class="visible-print">[1]</sup> outlines how the department will manage any records it handles containing personal information about you in connection with the Express Plus mobile applications.</p>
+                <p>The privacy notices outline how the department will manage any records it handles containing personal information about you in connection with the:</p>
+                <ul>
+                    <li>
+                        <a href="/customer/information/privacy-notice-for-express-plus-medicare-mobile-app">Express Plus Medicare mobile app</a><sup class="visible-print">[1]</sup>
+                    </li>
+                    <li>
+                        <a href="/customer/information/privacy-notice-for-express-plus-mobile-apps">Express Plus Jobseekers, Students, Families and Seniors mobile apps</a><sup class="visible-print">[2]</sup>
+                    </li>
+                </ul>
                 <h2 id="a5">Tax File Numbers</h2>
                 <p>If you give us your Tax File Number (TFN), we have an obligation to keep that information secure. Due to the sensitivity the department places on <acronym title="tax file numbers">TFN</acronym>s and the legal restraints on their use and disclosure, if you lose your <acronym title="tax file number">TFN</acronym> the department will not be able to provide it to you. In these circumstances you will have to ask the Australian Taxation Office for a copy of it. The department can only provide <acronym title="tax file numbers">TFN</acronym>s under strict conditions as authorised or required by law. In limited circumstances, the Australian Taxation Commissioner can be required by law to provide your <acronym title="tax file number">TFN</acronym> to the department.</p>
                 <h2 id="a6">Data-matching use of Tax File Numbers</h2>
@@ -221,7 +262,7 @@ Server = d538 : 1c : c01 : Portal
                 </ul>
                 <p>or</p>
                 <ul>
-                    <li>the use meets one of the other exceptions in the <acronym title="Information Privacy Principles">IPP</acronym>s.</li>
+                    <li>the use meets one of the other exceptions in the <acronym title="Information Privacy Principles">IPP</acronym>s</li>
                 </ul>
                 <p>When your personal information is collected from you, you will be advised of its intended use at the point of collection. Your information may also be used by other services within the department, as authorised by Commonwealth law.</p>
                 <h2 id="a9">Disclosure of information</h2>
@@ -232,20 +273,20 @@ Server = d538 : 1c : c01 : Portal
                 </ul>
                 <p>or</p>
                 <ul>
-                    <li>it meets one of the other exceptions in the <acronym title="Information Privacy Principles">IPP</acronym>s.</li>
+                    <li>it meets one of the other exceptions in the <acronym title="Information Privacy Principles">IPP</acronym>s</li>
                 </ul>
                 <p>From time to time it may be necessary to disclose your personal information to third parties if it is relevant. The circumstances surrounding why, who and when your information may be disclosed is informed by the legislation covering the service you are receiving .&nbsp;</p>
                 <p>The department may also disclose your information in the process of seeking information, to ensure it collects information about the correct individual.</p>
                 <h2 id="a10">More information</h2>
                 <p>If you are concerned about how the department has collected or managed your personal information, please call Customer Relations on <strong>1800 050 004</strong> or the TTY phone on <strong>1800 000 567</strong>.</p>
-                <p>For more information about general privacy, you can go to the <a href="http://www.oaic.gov.au">Office of the Australian Information Commissioner’s (OAIC)</a><sup class="visible-print">[2]</sup> website. OAIC can be contacted via their web site or by telephoning <strong>1300 363 992</strong>.</p>
+                <p>For more information about general privacy, you can go to the <a href="http://www.oaic.gov.au">Office of the Australian Information Commissioner’s (OAIC)</a><sup class="visible-print">[3]</sup> website. OAIC can be contacted via their web site or by telephoning <strong>1300 363 992</strong>.</p>
                 <p>If you are not satisfied with how the department has handled your privacy concerns you can also contact the OAIC directly. The <acronym title="office of the australian information commissioner">OAIC</acronym> is independent of the department and has the power to investigate complaints about possible interferences with your privacy. Please note that&nbsp;it is usually best to contact the department first. While it is possible for the first contact to be with the <acronym title="office of the australian information commissioner">OAIC</acronym>, they will generally ask the department to conduct its own inquiry first and pass any findings on to the <acronym title="office of the australian information commissioner">OAIC</acronym>.</p>
-<!--RSPEAK_STOP--><!--noindex-->
+                <!--noindex-->
                 <nav>
                     <!-- Error -->
                 </nav>
                 <!--endnoindex-->
-            <h2 class="print-links">Link references</h2><ol class="print-links"><li>https:/<span class="linkspacer"> </span>/<span class="linkspacer"> </span>web.archive.org/<span class="linkspacer"> </span>customer/<span class="linkspacer"> </span>information/<span class="linkspacer"> </span>privacy-notice-for-express-plus-mobile-apps</li><li>http:/<span class="linkspacer"> </span>/<span class="linkspacer"> </span>www.oaic.gov.au/<span class="linkspacer"> </span></li></ol></div>
+            <h2 class="print-links">Link references</h2><ol class="print-links"><li>https:/<span class="linkspacer"> </span>/<span class="linkspacer"> </span>web.archive.org/<span class="linkspacer"> </span>customer/<span class="linkspacer"> </span>information/<span class="linkspacer"> </span>privacy-notice-for-express-plus-medicare-mobile-app</li><li>https:/<span class="linkspacer"> </span>/<span class="linkspacer"> </span>web.archive.org/<span class="linkspacer"> </span>customer/<span class="linkspacer"> </span>information/<span class="linkspacer"> </span>privacy-notice-for-express-plus-mobile-apps</li><li>http:/<span class="linkspacer"> </span>/<span class="linkspacer"> </span>www.oaic.gov.au/<span class="linkspacer"> </span></li></ol></div>
         </div>
     </div>
 </div>
@@ -274,10 +315,11 @@ Server = d538 : 1c : c01 : Portal
 							<li><a href="/customer/subjects/accommodation-renting-and-homelessness">Accommodation, renting and homelessness</a></li>
 							<li><a href="/customer/subjects/australians-overseas">Australians overseas</a></li>
 							<li><a href="/customer/subjects/crisis-and-special-help">Crisis and special help</a></li>
-							<li><a href="/customer/subjects/get-it-done-online">Get it done online</a></li>
 							<li><a href="/customer/subjects/clean-energy-future">Household Assistance Package</a></li>
 							<li><a href="/customer/subjects/managing-your-money">Managing your money</a></li>
 							<li><a href="/customer/subjects/self-service">Self Service</a></li>
+							<li><a href="/customer/subjects/tax-time">Tax time</a></li>
+							<li><a href="/customer/subjects/what-to-do-following-a-death">What to do following a death</a></li>
 							<li><a href="/customer/subjects/"><strong>View all subjects</strong></a></li>
 						</ul>
 					</li>
@@ -285,6 +327,7 @@ Server = d538 : 1c : c01 : Portal
 						<ul>
 							<li><a href="/customer/services/">All payments and services</a></li>
 							<li><a href="/customer/enablers/change-of-circumstances">Change of circumstances</a> </li>
+							<li><a href="/customer/news/index">Customer news</a></li>
 							<li><a href="/customer/news/customer-service-changes">Customer service changes</a></li>
 							<li><a href="/customer/enablers/online-estimators">Estimate</a></li>
 							<li><a href="/customer/enablers/centrelink/centrelink-online-services/express-plus-mobile-apps">Express Plus mobile apps</a></li>
@@ -307,6 +350,7 @@ Server = d538 : 1c : c01 : Portal
 							<li><a href="/customer/information/reviews-and-appeals">Reviews and appeals</a></li>
 							<li><a href="/customer/information/scams">Scams and hoaxes</a></li>
 							<li><a href="/customer/information/site-information">Site notices</a></li>
+							<li><a href="/customer/contact-us/social-media">Social media</a></li>
 						</ul>
 					</li>
 					<li class="toggle-anything off"><a href="javascript:;" class="footer-heading-expand toggle-anything-expand"><h3>Corporate information</h3></a>
@@ -341,7 +385,7 @@ Server = d538 : 1c : c01 : Portal
 				<ul>
 					<li class="hidden-phone">Department of Human Services</li>
 					<li>ABN 90&nbsp;794&nbsp;605&nbsp;008</li>
-				<li><span class="visible-desktop">Page last updated</span><span class="hidden-desktop">Last updated</span>: <span class="visible-desktop">Thursday</span> 17 January 2013</li></ul>
+				<li><span class="visible-desktop">Page last updated</span><span class="hidden-desktop">Last updated</span>: <span class="visible-desktop">Friday</span> 9 August 2013</li></ul>
 			</div>
 		</div>
 	</div>
@@ -353,6 +397,7 @@ Server = d538 : 1c : c01 : Portal
 
 <!--endnoindex-->
 
+	
 
 
 	
