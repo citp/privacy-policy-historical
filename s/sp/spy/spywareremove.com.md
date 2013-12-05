@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spywareremove.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602023008id_/http%3A//www.spywareremove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spywareremove.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206005757id_/http%3A//www.spywareremove.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – SpywareRemove.com
 
