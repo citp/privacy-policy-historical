@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbwire.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607111534id_/http%3A//www.sbwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbwire.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206001011id_/http%3A//www.sbwire.com/privacy) for the most accurate reproduction.*
 
 # SBWire - The Small Business Newswire | About Us > Our Privacy Policy
 
@@ -90,9 +90,9 @@ This policy was last modified on 10/7/2008
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 SBWire  
-112 South Broadway  
-Suite 4  
+201 W Walnut  
+Suite 105  
 Green Bay, Wisconsin 54303  
 USA  
 support@sbwire.com  
-920-321-1250
+920-593-5640
