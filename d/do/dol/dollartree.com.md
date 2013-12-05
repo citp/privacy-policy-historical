@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollartree.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529091259id_/http%3A//www.dollartree.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollartree.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205202154id_/http%3A//www.dollartree.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Dollar Tree, Inc.: Privacy Policy for Dollar Tree Website
 
