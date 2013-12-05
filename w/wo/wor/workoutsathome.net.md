@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the workoutsathome.net privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202025605id_/http%3A//workoutsathome.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workoutsathome.net privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206000228id_/http%3A//www.workoutsathome.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Workouts At Home
-
-## Privacy Policy
 
 **Your Privacy**
 
