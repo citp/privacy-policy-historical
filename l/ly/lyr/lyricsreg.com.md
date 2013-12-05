@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsreg.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425034957id_/http%3A//www.lyricsreg.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsreg.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205092351id_/http%3A//www.lyricsreg.com/privacy_policy) for the most accurate reproduction.*
 
 # Lyrics
 
@@ -8,7 +8,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique â€œcookieâ€ on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
 **Google**
 
