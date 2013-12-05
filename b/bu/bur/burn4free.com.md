@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burn4free.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425010029id_/http%3A//www.burn4free.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burn4free.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205213019id_/http%3A//www.burn4free.com/privacy.htm) for the most accurate reproduction.*
 
 # Burn4Free Privacy Statement
 
