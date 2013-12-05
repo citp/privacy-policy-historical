@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berrybenka.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604014131id_/http%3A//berrybenka.com/privacyPolicy.php%3Ficn%3Dbtmn%26ici%3Dpr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berrybenka.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205172417id_/http%3A//berrybenka.com/privacyPolicy.php%3Ficn%3Dbtmn%26ici%3Dpr) for the most accurate reproduction.*
 
 # Berrybenka.com - One Shop. Many Brands. | Ladies fashion, clothes, and accessories.
 
