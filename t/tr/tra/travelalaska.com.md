@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelalaska.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606193327id_/http%3A//www.travelalaska.com/Contact/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelalaska.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205190510id_/http%3A//www.travelalaska.com/Contact/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
 # Travel Alaska - Privacy Policy
 
@@ -20,12 +20,12 @@ Your personal information is stored in secure operating environments that are no
 ##### Featured  
 Park
 
-Yukon-Charley Rivers National Preserve
+Alaska Maritime National Wildlife Refuge
 
-Straddling the Yukon River in Interior Alaska, Yukon-Charley Rivers National Preserve includes more than 2.5 million acres along the Canadian border. The national preserve extends between the gold-rush communities...  
-[Find out more ](https://web.archive.org/Destinations/Parks%20and%20Public%20Lands/Yukon-Charley%20Rivers%20National%20Preserve.aspx)
+Extending along most of the 47,300 miles of Alaska's coastline is the Alaska Maritime National Wildlife Refuge, a mind-boggling assortment of more than 2,500 islands, islets, spires, rocks, reefs,...  
+[Find out more ](https://web.archive.org/Destinations/Parks%20and%20Public%20Lands/Alaska%20Maritime%20National%20Wildlife%20Refuge.aspx)
 
-[](http://www.alaskatravel.com/alaska-cruises/)
+[](http://www.anchorage.net/guide-order?utm_source=atia&utm_medium=banner&utm_content=180x150-orange2&utm_campaign=general-fit)
 
 ### Vacation Guide
 
