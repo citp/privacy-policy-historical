@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the open.edu.au privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528024523id_/http%3A//www.open.edu.au/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the open.edu.au privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205013712id_/http%3A//www.open.edu.au/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Open Universities Australia
 
