@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lalasavesyoumoney.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606022154id_/http%3A//lalasavesyoumoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lalasavesyoumoney.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205104310id_/http%3A//lalasavesyoumoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lala Saves You Money
 
@@ -20,4 +20,4 @@ We also use third party advertisements on http://lalasavesyoumoney.com to suppor
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-[](http://www.printfriendly.com/print/v2?url=http://lalasavesyoumoney.com/privacy-policy/)
+[](http://www.printfriendly.com/print?url=http://lalasavesyoumoney.com/privacy-policy/)
