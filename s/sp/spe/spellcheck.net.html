@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spellcheck.net privacy policy that was archived on 2013-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628064134id_/http%3A//www.spellcheck.net/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spellcheck.net privacy policy that was archived on 2013-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205091239id_/http%3A//www.spellcheck.net/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta name="description" content="">
@@ -57,17 +57,51 @@
 				alert('Search can not be empty');
 			} else {
 				var oForm = document.getElementById('searchForm');
+				oForm.action = "/search/";
+				oForm.method = 'get';
+				oForm.target = "";
 				oForm.submit();
 			}
 		}
+		function submitGrammarly() {
+			var a = document.getElementById('searchInput');
+			var b = document.getElementById('grammarly');
+			
+
+			var submitTextForm = document.getElementById('searchForm');
+			submitTextForm.action = "https://ed.grammarly.com/verify_aff/copyPaste";
+			submitTextForm.method = 'POST';
+			submitTextForm.target = "_blank";
+			if (a.value != '') {
+				b.value = a.value;
+				submitTextForm.submit();
+			} else {
+				alert('Search can not be empty');
+			}
+		}
 	</script>
-</head>
+	<script type="text/javascript">
+function submitGrammarly() {
+	var a = document.getElementById('searchInput');
+	var b = document.getElementById('grammarly');
+
+
+	var submitTextForm = document.getElementById('searchForm');
+	submitTextForm.action = "https://ed.grammarly.com/verify_aff/copyPaste";
+	submitTextForm.method = 'POST';
+	submitTextForm.target = "_blank";
+	if (a.value != '') {
+		b.value = a.value;
+		submitTextForm.submit();
+	}
+}
+</script></head>
 <body>
 <div id="page-top">
-<!--	 <a href="--><!--" id="site-logo-image"></a>-->
-	<a href="/" id="site-logo-image"></a>
-
-	<div class="header-ads">
+	<div class="page-top-inner-wrapper">
+		<div id="page-top-inner">
+						<a href="/" id="site-logo-image"></a>
+			<div class="header-ads">
 	<!--728x90-->
 	<script type="text/javascript"><!--//<![CDATA[
 		var m3_u = (location.protocol == 'https:' ? 'https://ads.domainoptions.net/openx/www/delivery/ajs.php' : 'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
@@ -83,21 +117,48 @@
 		if (document.context) document.write("&context=" + escape(document.context));
 		if (document.mmm_fo) document.write("&amp;mmm_fo=1");
 		document.write("'><\/scr" + "ipt>");
-		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=16&amp;cb=36487829817&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130628064134id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
+		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=16&amp;cb=94485184530&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20131205091239id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
 	<noscript><a
 			href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=acfe5e32&amp;cb=INSERT_RANDOM_NUMBER_HERE'
 			target='_blank'><img
 				src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=16&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=acfe5e32'
 				border='0' alt=''/></a></noscript>
 </div>
-
+			<div class="clr"></div>
+		</div>
+	</div>
 	<div class="clr"></div>
-</div>
+<div class="unit_link">
+	<div class="unit_inner_wrapper">
+		<div class="unit_link_inner">
+		<script type="text/javascript"><!--//<![CDATA[
+			var m3_u = (location.protocol == 'https:' ? 'https://ads.domainoptions.net/openx/www/delivery/ajs.php' : 'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
+			var m3_r = Math.floor(Math.random() * 99999999999);
+			if (!document.MAX_used) document.MAX_used = ',';
+			document.write("<scr" + "ipt type='text/javascript' src='" + m3_u);
+			document.write("?zoneid=28");
+			document.write('&amp;cb=' + m3_r);
+			if (document.MAX_used != ',') document.write("&amp;exclude=" + document.MAX_used);
+			document.write(document.charset ? '&amp;charset=' + document.charset : (document.characterSet ? '&amp;charset=' + document.characterSet : ''));
+			document.write("&amp;loc=" + escape(window.location));
+			if (document.referrer) document.write("&amp;referer=" + escape(document.referrer));
+			if (document.context) document.write("&context=" + escape(document.context));
+			if (document.mmm_fo) document.write("&amp;mmm_fo=1");
+			document.write("'><\/scr" + "ipt>");
+			//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=28&amp;cb=26539207144&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20131205091239id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
+		<noscript><a
+				href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=acfe5e32&amp;cb=INSERT_RANDOM_NUMBER_HERE'
+				target='_blank'><img
+					src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=28&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=acfe5e32'
+					border='0' alt=''/></a></noscript>
+			</div>
+		</div>
+</div></div>
 
 <div id="page-main-content">
 
-	<div id="left-sidebar">
-		<div id="left-adsen-banner-top">
+	<div id="left-sidebar" style="width:300px">
+		<div id="left-adsen-banner-top" class="left-adsen">
 	<!--160x90-->
 	<script type="text/javascript"><!--//<![CDATA[
 		var m3_u = (location.protocol=='https:'?'https://ads.domainoptions.net/openx/www/delivery/ajs.php':'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
@@ -113,10 +174,10 @@
 		if (document.context) document.write ("&context=" + escape(document.context));
 		if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 		document.write ("'><\/scr"+"ipt>");
-		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=147&amp;cb=60433395414&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130628064134id_/http%253A//www.spellcheck.net/privacy-policy.html"></script><noscript><a href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=a05fb7ef&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=147&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a05fb7ef' border='0' alt='' /></a></noscript>
+		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=147&amp;cb=79173237347&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20131205091239id_/http%253A//www.spellcheck.net/privacy-policy.html"></script><noscript><a href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=a05fb7ef&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=147&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a05fb7ef' border='0' alt='' /></a></noscript>
 
 </div>
-		<div id="left-adsen-banner-bottom">
+		<div id="left-adsen-banner-bottom" class="left-adsen">
 	<!--120x600-->
 	<script type="text/javascript"><!--//<![CDATA[
 		var m3_u = (location.protocol == 'https:' ? 'https://ads.domainoptions.net/openx/www/delivery/ajs.php' : 'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
@@ -132,7 +193,7 @@
 		if (document.context) document.write("&context=" + escape(document.context));
 		if (document.mmm_fo) document.write("&amp;mmm_fo=1");
 		document.write("'><\/scr" + "ipt>");
-		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=148&amp;cb=76625842082&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130628064134id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
+		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=148&amp;cb=25821086178&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20131205091239id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
 	<noscript><a
 			href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=aa1dc7e5&amp;cb=INSERT_RANDOM_NUMBER_HERE'
 			target='_blank'><img
@@ -141,43 +202,13 @@
 </div>
 	</div>
 
-	<div id="right-sidebar">
-				
-		<div class="content">
-
-			<div class="banner-amazon">
-	<!--200x200 Amazon-->
-	<script type="text/javascript"><!--//<![CDATA[
-		var m3_u = (location.protocol == 'https:' ? 'https://ads.domainoptions.net/openx/www/delivery/ajs.php' : 'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
-		var m3_r = Math.floor(Math.random() * 99999999999);
-		if (!document.MAX_used) document.MAX_used = ',';
-		document.write("<scr" + "ipt type='text/javascript' src='" + m3_u);
-		document.write("?zoneid=55");
-		document.write('&amp;cb=' + m3_r);
-		if (document.MAX_used != ',') document.write("&amp;exclude=" + document.MAX_used);
-		document.write(document.charset ? '&amp;charset=' + document.charset : (document.characterSet ? '&amp;charset=' + document.characterSet : ''));
-		document.write("&amp;loc=" + escape(window.location));
-		if (document.referrer) document.write("&amp;referer=" + escape(document.referrer));
-		if (document.context) document.write("&context=" + escape(document.context));
-		if (document.mmm_fo) document.write("&amp;mmm_fo=1");
-		document.write("'><\/scr" + "ipt>");
-		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=55&amp;cb=43167301635&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130628064134id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
-	<noscript><a
-			href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=a9fb4190&amp;cb=INSERT_RANDOM_NUMBER_HERE'
-			target='_blank'><img
-				src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=55&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a9fb4190'
-				border='0' alt=''/></a></noscript>
-</div>
-
-		</div>
-
-			</div>
-
 	<div id="page-center-content" class="no-bg">
 		<div class="spelling">
 
 			<form id="searchForm" name="searchForm" action="/search/" onsubmit="return false;" method="get">
-				<h2>Enter your search term here and click <a class="searchButton" href="#" onclick="submitSearch(); return false;">Search</a></h2>
+				<h2>
+					Enter your word and press <a class="searchButton" href="#" onclick="submitSearch(); return false;">Search</a> to search
+				</h2>
 
 				<div class="ads">
 	<!--468x15-->
@@ -195,7 +226,7 @@
 		if (document.context) document.write("&context=" + escape(document.context));
 		if (document.mmm_fo) document.write("&amp;mmm_fo=1");
 		document.write("'><\/scr" + "ipt>");
-		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=19&amp;cb=10412892142&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130628064134id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
+		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=19&amp;cb=12496862810&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20131205091239id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
 	<noscript><a
 			href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=a370394a&amp;cb=INSERT_RANDOM_NUMBER_HERE'
 			target='_blank'><img
@@ -205,11 +236,11 @@
 
 				<div class="box">
 					<input type="text" id="searchInput" name="search">
-				</div>
+									</div>
 
 				<div class="panel">
 
-					<div class="ad">
+					<div class="ad ads468x60">
 	<!--468x60 middle-->
 	<script type="text/javascript"><!--//<![CDATA[
 		var m3_u = (location.protocol == 'https:' ? 'https://ads.domainoptions.net/openx/www/delivery/ajs.php' : 'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
@@ -225,7 +256,7 @@
 		if (document.context) document.write("&context=" + escape(document.context));
 		if (document.mmm_fo) document.write("&amp;mmm_fo=1");
 		document.write("'><\/scr" + "ipt>");
-		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=137&amp;cb=33675403588&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130628064134id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
+		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=137&amp;cb=91892036006&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20131205091239id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
 	<noscript><a
 			href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=aad510ed&amp;cb=INSERT_RANDOM_NUMBER_HERE'
 			target='_blank'><img
@@ -254,7 +285,7 @@
 		if (document.context) document.write ("&context=" + escape(document.context));
 		if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 		document.write ("'><\/scr"+"ipt>");
-		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=138&amp;cb=70221620338&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130628064134id_/http%253A//www.spellcheck.net/privacy-policy.html"></script><noscript><a href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=aa13416a&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=138&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aa13416a' border='0' alt='' /></a></noscript>
+		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=138&amp;cb=86125648661&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20131205091239id_/http%253A//www.spellcheck.net/privacy-policy.html"></script><noscript><a href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=aa13416a&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=138&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aa13416a' border='0' alt='' /></a></noscript>
 </div>
 
 		<div class="text-block">
@@ -312,6 +343,38 @@
 		</div>
 	</div>
 
+	<div id="right-sidebar">
+				
+		<div class="content">
+
+			<div class="banner-amazon">
+	<!--200x200 Amazon-->
+	<script type="text/javascript"><!--//<![CDATA[
+		var m3_u = (location.protocol == 'https:' ? 'https://ads.domainoptions.net/openx/www/delivery/ajs.php' : 'http://ads.domainoptions.net/openx/www/delivery/ajs.php');
+		var m3_r = Math.floor(Math.random() * 99999999999);
+		if (!document.MAX_used) document.MAX_used = ',';
+		document.write("<scr" + "ipt type='text/javascript' src='" + m3_u);
+		document.write("?zoneid=55");
+		document.write('&amp;cb=' + m3_r);
+		if (document.MAX_used != ',') document.write("&amp;exclude=" + document.MAX_used);
+		document.write(document.charset ? '&amp;charset=' + document.charset : (document.characterSet ? '&amp;charset=' + document.characterSet : ''));
+		document.write("&amp;loc=" + escape(window.location));
+		if (document.referrer) document.write("&amp;referer=" + escape(document.referrer));
+		if (document.context) document.write("&context=" + escape(document.context));
+		if (document.mmm_fo) document.write("&amp;mmm_fo=1");
+		document.write("'><\/scr" + "ipt>");
+		//]]>--></script><script type="text/javascript" src="https://ads.domainoptions.net/openx/www/delivery/ajs.php?zoneid=55&amp;cb=50392469137&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20131205091239id_/http%253A//www.spellcheck.net/privacy-policy.html"></script>
+	<noscript><a
+			href='http://ads.domainoptions.net/openx/www/delivery/ck.php?n=a9fb4190&amp;cb=INSERT_RANDOM_NUMBER_HERE'
+			target='_blank'><img
+				src='http://ads.domainoptions.net/openx/www/delivery/avw.php?zoneid=55&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a9fb4190'
+				border='0' alt=''/></a></noscript>
+</div>
+
+		</div>
+
+			</div>
+
 	<div class="clr"></div>
 	</div>
 
@@ -319,6 +382,11 @@
 	<p><img src="/public_resources/images/footer.png"></p>
 	<p><a href="/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
 </div>
+<script type="text/javascript">
+	var infolinks_pid = 1750463;
+	var infolinks_wsid = 17;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
 
 
 </body></html>
