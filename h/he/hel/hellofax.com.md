@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellofax.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501035217id_/https%3A//www.hellofax.com/info/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellofax.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205161300id_/https%3A//www.hellofax.com/info/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | HelloFax
 
@@ -46,4 +46,4 @@ If you would like to cancel your account and/or unsubscribe from our email list,
 
 ### Contacting JN PROJECTS INC.
 
-If you believe that JN PROJECTS INC has not adhered to this Privacy Policy, please contact us by email at support@hellofax.com and we will use commercially reasonable efforts to remedy the problem. We can also be contacted by mail at 300 Brannan Street Suite #510 San Francisco, CA 94107 or by phone at (415) 255-5653. 
+If you believe that JN PROJECTS INC has not adhered to this Privacy Policy, please contact us by email at support@hellofax.com and we will use commercially reasonable efforts to remedy the problem. We can also be contacted by mail at 300 Brannan Street Suite #510 San Francisco, CA 94107 or by phone at (415) 766-0273. 
