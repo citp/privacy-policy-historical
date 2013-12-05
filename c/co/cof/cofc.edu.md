@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cofc.edu privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501104546id_/http%3A//cofc.edu/policies/privacypolicy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cofc.edu privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205123446id_/http%3A//www.cofc.edu/policies/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - College of Charleston
 
 ### BACKGROUND
 
-This Policy and Procedure governs the security and confidentiality of personal information entrusted to the care of College of Charleston (“College”) to carry out its mission and to certain other sensitive information that is generated and owned by the College. This Policy and Procedure also establishes the principles and processes by which that information will be maintained and managed. 
+This Policy and Procedure governs the security and confidentiality of personal information entrusted to the care of College of Charleston (“College”) to carry out its mission and to certain other sensitive information that is generated and owned by the College. This Policy and Procedure also establishes the principles and processes by which that information will be maintained and managed.
 
 ### PURPOSE
 
@@ -14,13 +14,13 @@ The _South Carolina Family Privacy Protection Act_ provides, in relevant part:
 > 
 > All state agencies, boards, commissions, institutions, departments, and other state entities, by whatever name known, must develop privacy policies and procedures to ensure that the collection of personal information pertaining to citizens of the State is limited to such personal information required by any such agency, board, commission, institution, department, or other state entity and necessary to fulfill a legitimate public purpose.
 
-Implementation and adherence to this Policy and Procedure are necessary to comply with the cited statute and to provide for the protection of sensitive information that is maintained or owned by the College. 
+Implementation and adherence to this Policy and Procedure are necessary to comply with the cited statute and to provide for the protection of sensitive information that is maintained or owned by the College.
 
-The specific purposes of this Policy and Procedure are: 
+The specific purposes of this Policy and Procedure are:
 
-  * To establish a College-wide approach to information security. 
-  * To prescribe mechanisms that help identify and prevent the compromise of information security and the misuse of data, applications, networks and computer systems. 
-  * To define mechanisms to protect the reputation of the College and allow the College to satisfy its legal and ethical responsibilities to others. 
+  * To establish a College-wide approach to information security.
+  * To prescribe mechanisms that help identify and prevent the compromise of information security and the misuse of data, applications, networks and computer systems.
+  * To define mechanisms to protect the reputation of the College and allow the College to satisfy its legal and ethical responsibilities to others.
   * To prescribe an effective mechanism for responding to external complaints and queries about real or perceived non-compliance with this Policy and Procedure.
   * To further reduce the risk of exposure and identity theft when a Social Security Number or other personal identifying information is used by the College as a primary identifier and to provide for the consistent, proper and secure management of such information.
 
@@ -64,9 +64,9 @@ The term "education records" does not include (i) records of instructional, supe
 
 " **Personal Information** " -- means information that identifies or describes an individual including, but not limited to, an individual's photograph or digitized image, Social Security Number, date of birth, driver's identification number, name, home address, home telephone number, medical or disability information, education level, financial status, bank account numbers, account or identification number issued by or used, or both, by any federal or state governmental agency or private financial institution, employment history, height, weight, race, other physical details, signature, biometric identifiers, and any credit records or reports.[11]
 
-“ **Protected Information** ” -- is a single term that includes all of the following: Confidential Information, Educational Records, Employee Records, Identifying Information, Medical Record or Health Information, Personal Information, and Proprietary Data of the College. 
+“ **Protected Information** ” -- is a single term that includes all of the following: Confidential Information, Educational Records, Employee Records, Identifying Information, Medical Record or Health Information, Personal Information, and Proprietary Data of the College.
 
-**"Public Record"** \-- includes all books, papers, maps, photographs, cards, tapes, recordings, or other documentary materials regardless of physical form or characteristics prepared, owned, used, in the possession of, or retained by a public body. Records such as income tax returns, medical records, hospital medical staff reports, scholastic records, adoption records, records related to registration, and circulation of library materials which contain names or other personally identifying details regarding the users of public, private, school, college, technical college, university, and state institutional libraries and library systems, supported in whole or in part by public funds or expending public funds, or records which reveal the identity of the library patron checking out or requesting an item from the library or using other library services, except nonidentifying administrative and statistical reports of registration and circulation, and other records which by law are required to be closed to the public are not considered to be made open to the public under this Interim Policy and Procedure. 
+**"Public Record"** \-- includes all books, papers, maps, photographs, cards, tapes, recordings, or other documentary materials regardless of physical form or characteristics prepared, owned, used, in the possession of, or retained by a public body. Records such as income tax returns, medical records, hospital medical staff reports, scholastic records, adoption records, records related to registration, and circulation of library materials which contain names or other personally identifying details regarding the users of public, private, school, college, technical college, university, and state institutional libraries and library systems, supported in whole or in part by public funds or expending public funds, or records which reveal the identity of the library patron checking out or requesting an item from the library or using other library services, except nonidentifying administrative and statistical reports of registration and circulation, and other records which by law are required to be closed to the public are not considered to be made open to the public under this Interim Policy and Procedure.
 
 Public Records include the following: (1) the names, sex, race, title, and dates of employment of all employees and officers of the College; (2) administrative staff manuals and instructions to staff that affect a member of the public; (3) final opinions, including concurring and dissenting opinions, as well as orders, made in the adjudication of cases; (4) those statements of policy and interpretations of policy, statute, and the Constitution which have been adopted by the College; (5) written planning policies and goals and final planning decisions; (6) information in or taken from any account, voucher, or contract dealing with the receipt or expenditure of public or other funds by the College; (7) the minutes of all proceedings of the Trustees and all votes at such proceedings, with the exception of all such minutes and votes taken at meetings closed to the public pursuant to S.C. Ann Code [Section 30-4-70](http://www.lexis.com/research/buttonTFLink?_m=2d50250bef699b6353059913275de23f&_xfercite=%3ccite%20cc%3d%22USA%22%3e%3c%21%5bCDATA%5bS.C.%20Code%20Ann.%20%a7%2030-4-50%5d%5d%3e%3c%2fcite%3e&_butType=4&_butStat=0&_butNum=5&_butInline=1&_butinfo=SCCODE%2030-4-70&_fmtstr=FULL&docnum=1&_startdoc=1&wchp=dGLbVtz-zSkAA&_md5=80c2ad44f2fb4e90048716339fcf2754); (8) reports which disclose the nature, substance, and location of any crime or alleged crime reported as having been committed. Where a report contains information exempt as otherwise provided by law, the College may delete that information from the report.[12]
 
@@ -80,17 +80,17 @@ Public Records include the following: (1) the names, sex, race, title, and dates
 > 
 > (b) any member of the _College community_ unless the recipient has a legitimate interest for the use of that Protected Information to perform a service or carryout a responsibility within that person’s scope of employment or engagement as a public official.
 
-**2.2 Procedure**. Protected Information may only be released or shared in accordance with this Policy and Procedure. 
+**2.2 Procedure**. Protected Information may only be released or shared in accordance with this Policy and Procedure.
 
-**2.3 Legal Determinations**. Determinations of whether a particular element of Protected Information should be shared or released because it meets a statutory exception shall be made by the College Office of Legal Affairs, in consultation with the appropriate Executive Vice President and/or person responsible for the maintenance or distribution of the Protected Information, as circumstances may indicate. 
+**2.3 Legal Determinations**. Determinations of whether a particular element of Protected Information should be shared or released because it meets a statutory exception shall be made by the College Office of Legal Affairs, in consultation with the appropriate Executive Vice President and/or person responsible for the maintenance or distribution of the Protected Information, as circumstances may indicate.
 
 **2.4 Coverage**. A person having access to Protected Information is expected to protect that Information from unauthorized disclosure. This includes, as appropriate:
 
-  * **_Computer_** ** _System a_** ** _nd Applications Security_** : Central processing units, peripherals, portable storage devices, operating system, applications software and data. 
-  * **_Physical Security_** : The premises occupied by the College personnel or College contractors using computer equipment storing or having access to Protected Information. 
-  * **_Operational Security_** : Environment control, power equipment, operational activities related to operations. 
-  * **_Procedural Security_** : Established and documented security processes for information technology staff, vendors, management, and individual users of Protected Information. 
-  * **_Network Security_** : Communications equipment, transmission paths, switches, terminals and adjacent areas. 
+  * **_Computer_** ** _System a_** ** _nd Applications Security_** : Central processing units, peripherals, portable storage devices, operating system, applications software and data.
+  * **_Physical Security_** : The premises occupied by the College personnel or College contractors using computer equipment storing or having access to Protected Information.
+  * **_Operational Security_** : Environment control, power equipment, operational activities related to operations.
+  * **_Procedural Security_** : Established and documented security processes for information technology staff, vendors, management, and individual users of Protected Information.
+  * **_Network Security_** : Communications equipment, transmission paths, switches, terminals and adjacent areas.
 
 
 
@@ -112,7 +112,7 @@ Public Records include the following: (1) the names, sex, race, title, and dates
 > 
 > (g) require an individual to transmit the individual's Social Security Number or a portion of it containing six digits or more over the Internet, unless the connection is secure or the social security number is encrypted;
 > 
-> (h) require an individual to use the individual's Social Security Number or a portion of it containing six digits or more to access an Internet web site, unless a password or unique personal identification number or other authentication device is also required to access the Internet web site; 
+> (h) require an individual to use the individual's Social Security Number or a portion of it containing six digits or more to access an Internet web site, unless a password or unique personal identification number or other authentication device is also required to access the Internet web site;
 > 
 > (i) print an individual's Social Security Number or a portion of it containing six digits or more on materials that are mailed to the individual, unless state or federal law requires the social security number be on the mailed document; or
 > 
@@ -130,7 +130,7 @@ Public Records include the following: (1) the names, sex, race, title, and dates
 > 
 > (c) for public health purposes;
 > 
-> (d) on a document filed in the official records of the county; 
+> (d) on a document filed in the official records of the county;
 > 
 > (e) for employment verification or in the course of administration or provision of employee benefit programs, claims, and procedures related to employment including, but not limited to, termination from employment, retirement from employment, injuries suffered during the course of employment, and other such claims, benefits, and procedures;[14] and
 > 
@@ -138,9 +138,9 @@ Public Records include the following: (1) the names, sex, race, title, and dates
 
 **3.4 Physical Security of Social Security Numbers**. College personnel shall not --
 
-> (a) collect, store or transmit Social Security Numbers as data elements to external entities until a business requirements submitted and approved in accordance with Section 3.1.1 (see also Appendix D); 
+> (a) collect, store or transmit Social Security Numbers as data elements to external entities until a business requirements submitted and approved in accordance with Section 3.1.1 (see also Appendix D);
 > 
-> (b) provide access to servers housing databases to College records containing Social Security Numbers data or other Personal Information unless the host has a firewall and other technical security measures as deemed appropriate by the Office of Information Technology; or 
+> (b) provide access to servers housing databases to College records containing Social Security Numbers data or other Personal Information unless the host has a firewall and other technical security measures as deemed appropriate by the Office of Information Technology; or
 > 
 > (c) except as provided in Section 10.0 of this Policy and Procedure, store Social Security Number data or other Confidential Information on removable or transportable media (such as paper forms, reports, cassettes, CDs, and USB/flash drives, laptops, mobile storage devices) or personal computers (such as PDAs and home computers).
 
@@ -154,7 +154,7 @@ Public Records include the following: (1) the names, sex, race, title, and dates
 
 **4.1 Generally**. In response to requests for information from Employee Records, the College may provide an employee's name, date of employment, title, sex, and race. The determination to disclose other types of information will be made on a case-by-case basis. To the extent practicable, the College shall inform the employee that a request has been made regarding that employee.
 
-**4.2 Salary Information**. Requests for salary information will be answered in accordance with the _Freedom of Information Act_. 
+**4.2 Salary Information**. Requests for salary information will be answered in accordance with the _Freedom of Information Act_.
 
 **4.3 Inquires by Prospective Employers**.[16] In responding to requests for information concerning current or former employees by prospective employers, the College may provide information as follows:
 
@@ -170,7 +170,7 @@ Public Records include the following: (1) the names, sex, race, title, and dates
 > 
 > (4) Information about job performance.
 > 
-> (c) No one shall knowingly or recklessly release or disclose false information. 
+> (c) No one shall knowingly or recklessly release or disclose false information.
 
 **4.4 Job Selection Information --** The College may, but is not required to, exempt from disclosure all materials, regardless of form, gathered by the College during a search to fill an employment position, except that materials relating to not fewer than the final three applicants under consideration for a position must be made available for public inspection and copying. In addition to making available for public inspection and copying the materials described in this Section 4.4, the College shall disclose, upon request, the number of applicants considered for a position. For the purpose of this section, materials relating to not fewer than the final three applicants, do not include an applicant's income tax returns, medical records, Social Security Number, or information otherwise exempt from disclosure by the _Freedom of Information Act_.[17]
 
@@ -180,9 +180,9 @@ Policies and procedures dealing with the disclosure of education records shall b
 
 ### 6.0 “MEDICAL RECORD” or “HEALTH INFORMATION”
 
-**6.1 Disclosure**. Medical Records of employees and students may only be released or shared in accordance with the provisions of the _South Carolina Physicians' Patient Records Act_ (S.C. Code Ann. § 44-115-10 et seq.), _the Federal Family Educational Rights and Privacy Act_ , and such other provisions of state or federal law as may be applicable. 
+**6.1 Disclosure**. Medical Records of employees and students may only be released or shared in accordance with the provisions of the _South Carolina Physicians' Patient Records Act_ (S.C. Code Ann. § 44-115-10 et seq.), _the Federal Family Educational Rights and Privacy Act_ , and such other provisions of state or federal law as may be applicable.
 
-**6.2 Interpretations**. The South Carolina _Physicians' Patient Records Act_ (S.C. Code Ann. § 44-115-10 et seq.) states in part: 
+**6.2 Interpretations**. The South Carolina _Physicians' Patient Records Act_ (S.C. Code Ann. § 44-115-10 et seq.) states in part:
 
 > _Except as otherwise provided by law_ , a physician shall not honor a request for the release of copies of medical records without the receipt of express written consent of the patient or person authorized by law to act on behalf of the patient. (§ 44-115-40) ( _emphasis supplied_ )
 
@@ -194,7 +194,7 @@ For the purposes of this Policy and Procedure, the College will afford any licen
 
 **7.1 Hardware and Storage Media.** Before a College Unit may transfer or dispose of information technology hardware or storage media, all Protected Information must be removed and the hardware and storage media must be sanitized in accordance with the standards and policies adopted by the Chief Information Officer (“CIO”). The CIO shall verify that all Protected Information is removed and the information technology hardware and storage media are sanitized in accordance with those standards and policies before the transfer or disposal occurs.
 
-**7.2 Records.** When a College Unit disposes of a record that contains Protected Information the Unit shall modify, by shredding, erasing, or other means, the Protected Information to make it unreadable or undecipherable. The College Unit is considered to comply with this requirement if it uses a College retained contractor who is engaged by the College and who is in the business of disposing of such records. 
+**7.2 Records.** When a College Unit disposes of a record that contains Protected Information the Unit shall modify, by shredding, erasing, or other means, the Protected Information to make it unreadable or undecipherable. The College Unit is considered to comply with this requirement if it uses a College retained contractor who is engaged by the College and who is in the business of disposing of such records.
 
 ### 8.0 ETHICS
 
@@ -202,15 +202,15 @@ For the purposes of this Policy and Procedure, the College will afford any licen
 
 **8.2 Misuse of Records.** An employee of the College may not willfully examine, or aid and abet in the willful examination of a workers’ compensation record, a record in connection with health or medical treatment, social services records, Employee Record, Education Record, or other records of an individual in the possession of or within the access of the College if the purpose of the examination is improper or unlawful.  
 
-###  9.0 RESPONSIBILITIES 
+### 9.0 RESPONSIBILITIES
 
-**9.1 Passwords**. Passwords help protect against misuse of data systems and networks by restricting the use of those systems and networks to authorized users. Each authorized user of such a system may be assigned or may be asked to develop a unique password that is to be protected by that individual and not shared with others, is difficult to determine, is changed on a regular basis, and is deleted when no longer authorized. 
+**9.1 Passwords**. Passwords help protect against misuse of data systems and networks by restricting the use of those systems and networks to authorized users. Each authorized user of such a system may be assigned or may be asked to develop a unique password that is to be protected by that individual and not shared with others, is difficult to determine, is changed on a regular basis, and is deleted when no longer authorized.
 
-**9.2 Security**. Individual users are responsible for ensuring that others do not use their system privileges. In particular, users must take great care in protecting their usernames and passwords from eavesdropping, loss or careless misplacement. Passwords are never to be 'loaned.' Individual users will be held responsible for any security violations associated with their username or passwords. 
+**9.2 Security**. Individual users are responsible for ensuring that others do not use their system privileges. In particular, users must take great care in protecting their usernames and passwords from eavesdropping, loss or careless misplacement. Passwords are never to be 'loaned.' Individual users will be held responsible for any security violations associated with their username or passwords.
 
-**9.3 Access Policies of Data Systems**. Each user permitted to access a system containing Protected Information shall be made aware of the access policy for that system. Management will provide this information to the employee when first granting access and make the employee aware of the auditing capability in place to verify compliance. 
+**9.3 Access Policies of Data Systems**. Each user permitted to access a system containing Protected Information shall be made aware of the access policy for that system. Management will provide this information to the employee when first granting access and make the employee aware of the auditing capability in place to verify compliance.
 
-**9.4 Collection of Protected Information**. As Protected Information is developed or compiled, the individual(s) responsible for the development or collection of the data are responsible for assuring that storage and access of the data is appropriately managed. 
+**9.4 Collection of Protected Information**. As Protected Information is developed or compiled, the individual(s) responsible for the development or collection of the data are responsible for assuring that storage and access of the data is appropriately managed.
 
 **9.5 Audit of Systems Containing Protected Information**. Information Technology operations staff are responsible for reviewing the logs and identifying potential security violations. The IT operations staff is responsible for establishing the security and access control mechanisms (such as usernames, passwords, logging protocols) and may be held accountable for any security breaches that arise from improper configuration of these mechanisms. If the application is housed outside of IT, the application administrator must be in a position to fulfill these requirements and document the same in writing.
 
@@ -232,19 +232,19 @@ The College does not randomly monitor the content of personal e-mails, downloads
 
 ### 13.0 SECURITY BREACHES
 
-Every member of the College community who reasonably believes that a Security Breach has occurred is under an affirmative obligation to report that Breach as soon as practicable to the Office of the CIO and the Office of Legal Affairs. The Security Breach shall be assigned a preliminary level of severity appropriate to the potential of the Breach to result in identity theft, invasions of privacy, and/or economic or other harm to the College. The CIO shall consult with the Senior Vice President of Legal Affairs and privacy Committee regarding all such matters. 
+Every member of the College community who reasonably believes that a Security Breach has occurred is under an affirmative obligation to report that Breach as soon as practicable to the Office of the CIO and the Office of Legal Affairs. The Security Breach shall be assigned a preliminary level of severity appropriate to the potential of the Breach to result in identity theft, invasions of privacy, and/or economic or other harm to the College. The CIO shall consult with the Senior Vice President of Legal Affairs and privacy Committee regarding all such matters.
 
 ### 14.0 COMPLIANCE
 
-**14.1 Consequences for Violations**. All individuals accessing Protected Information are required to comply with federal and state laws and College policies and procedures regarding such Information. Any College employee or student who engages in the unauthorized use, disclosure, alteration, or destruction of data in violation of this Policy and Procedure will be subject to appropriate disciplinary action, including possible dismissal and/or legal action. Other persons who may violate this Policy and Procedure, such as a College vendor, may be barred from College property and any further business dealings with the College, as well as, appropriate legal action. The College reserves the right to require anyone having access to Protected Information to first execute a confidentiality agreement approved by the Office of Legal Affairs as a condition for having access to such Information. 
+**14.1 Consequences for Violations**. All individuals accessing Protected Information are required to comply with federal and state laws and College policies and procedures regarding such Information. Any College employee or student who engages in the unauthorized use, disclosure, alteration, or destruction of data in violation of this Policy and Procedure will be subject to appropriate disciplinary action, including possible dismissal and/or legal action. Other persons who may violate this Policy and Procedure, such as a College vendor, may be barred from College property and any further business dealings with the College, as well as, appropriate legal action. The College reserves the right to require anyone having access to Protected Information to first execute a confidentiality agreement approved by the Office of Legal Affairs as a condition for having access to such Information.
 
 **14.2 Responsible Office**.The Office of the CIO shall be responsible for monitoring compliance with this Policy and Procedure and for reporting violations to the appropriate Executive Vice President and to the Office of the Legal Affairs. The Senior Vice President for Legal Affairs shall be responsible for determining if there is reason to believe that any law, rule, or regulation may have been violated.
 
 ### 15.0 COMMITTEES
 
-**15.1 Privacy Committee**. 
+**15.1 Privacy Committee**.
 
-(a) Privacy Committee Establishment and Purpose. There is hereby established a College of Charleston Privacy Committee that shall act to: (1) review and keep current with federal, state and local laws and regulations concerning privacy and information stewardship; (2) review campus-wide information collection, storage, management, and dissemination methods and practices to ensure compliance with such laws and regulations; (3) recommend policy and procedures dealing with data stewardship and the responsibilities of data stewards; (4) make recommendations on proposals to collect and use Social Security Numbers (see Section 3.1.1 and Appendix D); (5) investigate and take appropriate actions with respect to security breaches and (6) assess overall compliance with this Policy and Procedure, as it may from time to time be modified, and make such recommendations for further modifications as may be appropriate. 
+(a) Privacy Committee Establishment and Purpose. There is hereby established a College of Charleston Privacy Committee that shall act to: (1) review and keep current with federal, state and local laws and regulations concerning privacy and information stewardship; (2) review campus-wide information collection, storage, management, and dissemination methods and practices to ensure compliance with such laws and regulations; (3) recommend policy and procedures dealing with data stewardship and the responsibilities of data stewards; (4) make recommendations on proposals to collect and use Social Security Numbers (see Section 3.1.1 and Appendix D); (5) investigate and take appropriate actions with respect to security breaches and (6) assess overall compliance with this Policy and Procedure, as it may from time to time be modified, and make such recommendations for further modifications as may be appropriate.
 
 (b) Privacy Committee Membership and Meetings.
 
@@ -258,13 +258,13 @@ Unless otherwise indicated in this subsection (b), the Privacy Committee shall b
 
 **15.3 Limitation on Authority** **.**
 
-The information systems that may be reviewed by the Committees established under this Section 15.0 shall include, but not be limited to, those systems containing records on promotion and tenure, post tenure review, student judicial affairs, employee and student discipline, health and counseling services, research, advancement, employees, students, vendors, business transactions, and such other matters and records as the committees may deem appropriate, provided that nothing contained in this section shall be deemed to authorize any Committee member to have access to Protected Information that s/he would not otherwise have access to under other provisions of this Policy and Procedure. 
+The information systems that may be reviewed by the Committees established under this Section 15.0 shall include, but not be limited to, those systems containing records on promotion and tenure, post tenure review, student judicial affairs, employee and student discipline, health and counseling services, research, advancement, employees, students, vendors, business transactions, and such other matters and records as the committees may deem appropriate, provided that nothing contained in this section shall be deemed to authorize any Committee member to have access to Protected Information that s/he would not otherwise have access to under other provisions of this Policy and Procedure.
 
-### 16.0 DISTRIBUTION 
+### 16.0 DISTRIBUTION
 
 All College managers having access to Protected Information, or having supervision or responsibility for individuals having access to Protected Information, are responsible for disseminating this Policy and Procedure to such persons. This Policy and Procedure shall be published on the College’s web site.
 
-### 17.0 AMENDMENTS 
+### 17.0 AMENDMENTS
 
 This Privacy Policy and Procedure may be amended at anytime in accordance with the Colleges _Campus Wide Policy Making Procedures._
 
@@ -292,21 +292,21 @@ Further questions regarding the College Privacy Policy may be directed to the Co
 
 The College is collecting your Social Security Number for the following purpose or purposes[22]:
 
-**□** **Enrollmen** t: 
+**□** **Enrollmen** t:
 
-**□** **Employment** : 
+**□** **Employment** :
 
-**□** **Employee Benefits** : 
+**□** **Employee Benefits** :
 
-**□** **Payment for Personal or Professional Services** **; Other Disbursements** : 
+**□** **Payment for Personal or Professional Services** **; Other Disbursements** :
 
-**□** **Insurance Providers** : 
+**□** **Insurance Providers** :
 
-**□** **Third Party Sponsors** **of Student Aid** : 
+**□** **Third Party Sponsors** **of Student Aid** :
 
-**□** **Credit Card Information** : 
+**□** **Credit Card Information** :
 
-**□** **Public Safety** : 
+**□** **Public Safety** :
 
 **□** **Otherwise Required By Law** **:**
 
@@ -314,29 +314,29 @@ The College is collecting your Social Security Number for the following purpose 
 
 **APPROVED USES OF SOCIAL SECURITY NUMBERS AND OTHER PERSONAL INFORMATION**
 
-The primary approved uses and the reasons for collecting and maintaining Social Security Numbers (“SSNs”) and other Personal Information by of for the College of Charleston include, but are not limited to, the following: 
+The primary approved uses and the reasons for collecting and maintaining Social Security Numbers (“SSNs”) and other Personal Information by of for the College of Charleston include, but are not limited to, the following:
 
-**Enrollmen** t: 
+**Enrollmen** t:
 
-Those wishing to enroll in academic offerings at the College, both credit and non-credit, may be required to provide a SSN to determine lawful presence in the United States. With respect to student employment, IRS regulations require the College to request a SSN as a Taxpayer ID number for use in tax reporting. In addition, any student applying for financial aid may be required to provide a SSN to the College. Historic records may retain a student’s SSN if, for example, the SSN was previously used as the primary identifier for the person who is the subject of that record. However, to the extent practicable, the release of such a record to other than the subject should be preceded by an inquiry with the subject if he/she would prefer if the College redact the SSN from the record. 
+Those wishing to enroll in academic offerings at the College, both credit and non-credit, may be required to provide a SSN to determine lawful presence in the United States. With respect to student employment, IRS regulations require the College to request a SSN as a Taxpayer ID number for use in tax reporting. In addition, any student applying for financial aid may be required to provide a SSN to the College. Historic records may retain a student’s SSN if, for example, the SSN was previously used as the primary identifier for the person who is the subject of that record. However, to the extent practicable, the release of such a record to other than the subject should be preceded by an inquiry with the subject if he/she would prefer if the College redact the SSN from the record.
 
-**Employment** : 
+**Employment** :
 
-A SSN must be provided on Form I-9 (Employment Eligibility Verification) in accordance with the Immigration Reform and Control Act of 1986 (IRCA). SSN’s may also be collected to verify lawful presence in the United States through E-Verify and other acceptable verification sources. Finalist for employment may also be requested to provide a SSN pursuant to the College’s Background Checks Policy. All persons employed by the College must also provide a SSN as the taxpayer ID number. Providing a valid SSN is a condition of employment. 
+A SSN must be provided on Form I-9 (Employment Eligibility Verification) in accordance with the Immigration Reform and Control Act of 1986 (IRCA). SSN’s may also be collected to verify lawful presence in the United States through E-Verify and other acceptable verification sources. Finalist for employment may also be requested to provide a SSN pursuant to the College’s Background Checks Policy. All persons employed by the College must also provide a SSN as the taxpayer ID number. Providing a valid SSN is a condition of employment.
 
-**Employee Benefits** : If required by law or a benefits provider, the SSNs of the employee and the employee’s dependents/beneficiaries may be collected and provided to the service provider. 
+**Employee Benefits** : If required by law or a benefits provider, the SSNs of the employee and the employee’s dependents/beneficiaries may be collected and provided to the service provider.
 
 **Payment for Personal or Professional Services** **; Other Disbursements** : Any person providing services to the College as a contractor, invited speaker or research subject for which payment will be made, may be required to provide a SSN as the taxpayer ID number. These taxpayer ID numbers may be stored in the accounting system as part of the vendor record. In addition, certain other disbursements from the College may require reporting to the Internal Revenue Service. In such an event, these disbursements may be preceded by a request for the SSN or other taxpayer ID number.
 
 **Planned Giving Donors** : Donors to the College participating in planned giving programs must provide a SSN as the taxpayer ID.
 
-**Insurance Providers** : SSNs continue to be the patient identifier for many health care providers. To enable payment of medical bills, and to the extent allowed by law, the SSN of the patient may be shared with the insurance company providing health coverage. 
+**Insurance Providers** : SSNs continue to be the patient identifier for many health care providers. To enable payment of medical bills, and to the extent allowed by law, the SSN of the patient may be shared with the insurance company providing health coverage.
 
-**Third** **-** **Party Sponsors** **of Student Aid** : Various third-party sponsors of student aid, including several state agencies, require the submission of SSNs for those students for which aid is being provided. In order for the sponsor to make payment to the College, a SSN may be requested for proper verification. 
+**Third** **-** **Party Sponsors** **of Student Aid** : Various third-party sponsors of student aid, including several state agencies, require the submission of SSNs for those students for which aid is being provided. In order for the sponsor to make payment to the College, a SSN may be requested for proper verification.
 
-**Credit Card Information** : When the College has been paid by credit or debit card, or a declining balance card, the College may maintain the card numbers and related information for a period of time, in accordance with its records retention policy, after the transaction has occurred. 
+**Credit Card Information** : When the College has been paid by credit or debit card, or a declining balance card, the College may maintain the card numbers and related information for a period of time, in accordance with its records retention policy, after the transaction has occurred.
 
-**Student Health Services** : SSN’s or other personal identifying information may be used, as appropriate, as a patient identifier for referrals and consultation with outside medical providers and for communication with insurance companies. 
+**Student Health Services** : SSN’s or other personal identifying information may be used, as appropriate, as a patient identifier for referrals and consultation with outside medical providers and for communication with insurance companies.
 
 **Public Safety** : Law enforcement personnel may collect or use SSN data to serve a subpoena, conduct an investigation, to make a report, or to make an arrest, as permitted by applicable provisions of state and federal law, rules or regulations. Additionally, Campus Police maintain copies of fingerprint cards for Public Safety employees and others that may contain SSN data and other Personal Information.
 
@@ -358,17 +358,17 @@ Briefly describe why and under what authority you believe SSN’s must be collec
   
 Briefly describe the process you intend to use for the collection of the SSN and the notice you intend to provide to the providers of their SSN’s.  
   
-Describe how the SSN will be stored including the types of media used for both primary and backup storage and what security measures will be employed.   
+Describe how the SSN will be stored including the types of media used for both primary and backup storage and what security measures will be employed.  
   
-Will the data be stored on any portable equipment or media? If so, please describe how this will be used and what type of security measures will be used.   
+Will the data be stored on any portable equipment or media? If so, please describe how this will be used and what type of security measures will be used.  
   
-Will the SSN be used as a primary identifier? 
+Will the SSN be used as a primary identifier?
 
 Faculty Staff Students
 
 Faculty Staff Students  
   
-List the approximate number of individuals 
+List the approximate number of individuals
 
 requiring access to the SSN data you retain.  
   
