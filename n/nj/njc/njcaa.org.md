@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njcaa.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621222655id_/http%3A//njcaa.org/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njcaa.org privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205072633id_/http%3A//www.njcaa.org/privacy_policy.cfm) for the most accurate reproduction.*
 
 # NJCAA | Privacy Policy
 
