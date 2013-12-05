@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magtxt.biz privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630014846id_/http%3A//www.magtxt.biz/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magtxt.biz privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205213534id_/http%3A//www.magtxt.biz/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
