@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvouchercodes.co.uk privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531035246id_/http%3A//www.myvouchercodes.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvouchercodes.co.uk privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205092624id_/http%3A//www.myvouchercodes.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MyVoucherCodes.co.uk
 
@@ -30,10 +30,6 @@ We will not capture data about public (unregistered) users of the Site, other th
 
 In order to use the Site, you must first complete the registration form and all details required in it. During registration you are required to give your contact information (such as name and email address). This information is used to contact you about those services on the Site in which you have expressed an interest. It is optional for you to provide other demographic information, including that relating to your social networks which will enable us to access publicly available data, but this is encouraged so we can provide a more personalised experience of the Site. 
 
-### Disclosures of your Information
-
-We may disclose your information to third parties at our discretion. 
-
 ### Sharing
 
 We may share (whether or not for payment) aggregated demographic information with our partners, clients and advertisers. This is not linked to any personal information that can identify any individual person. 
@@ -58,7 +54,11 @@ The Site and Mobile Product contains links to other sites. Please be aware that 
 
 ### Direct Mailings
 
-We occasionally send out newsletters, discount books or alerts to our members. We may also wish to provide you with information about special features of our Site or any other service or products we think may be of interest to you. This is an opt-in email option selected when you register to the Site. At any time you can alter your personal profile on the Site to disable any further emails. 
+We regularly send out newsletters, discount books or alerts to our members to let them know about the latest discounts and offers. By default members will receive all email communications but if preferred, members can choose what types of emails they receive from us by managing their subscription options located in the My Account section of the website or by clicking through from the link in our emails, Members can also snooze or unsubscribe from our emails at any time through the same subscription page. 
+
+New subscribers can also opt in to receive marketing communication from other Markco Media brands, such as HushHush and Last Second Tickets. If subscribers no longer want to receive emails from these brands then they can also opt out of these communications in the subscription page in the My Account section on the website.
+
+We may also wish to provide you with information about special features of our Site or any other service or products we think may be of interest to you. This is an opt-in email option selected when you register to the Site. At any time you can alter your personal profile on the Site to disable any further emails. 
 
 From time to time the Site will request information from you via surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as postcode or age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use of and satisfaction with this site. 
 
