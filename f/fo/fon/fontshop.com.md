@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontshop.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530152834id_/http%3A//www.fontshop.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontshop.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205131356id_/http%3A//www.fontshop.com/help/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | FontShop
 
@@ -26,12 +26,4 @@ While FontShop International uses cookies to ensure proper functioning of the sh
 
 ## Updating your personal information
 
-You have the right to access and correct your personal information and privacy preferences at any time. To edit your Registration Information, simply log into your [Account Settings](https://www.fontshop.com/account/account_edit.php). The registration automatically appears, and permits you to view and edit your address details. You may also access and correct your personal information and privacy preferences by writing or calling 1 415 252 1003 at: 
-
-FSI Fonts & Software USA, Inc  
-149 9th Street  
-San Francisco CA 94103  
-USA  
-1 415 252 1003  
-1 415 252 1331  
-
+You have the right to access and correct your personal information and privacy preferences at any time. To edit your Registration Information, simply log into your [Account Settings](https://www.fontshop.com/account/account_edit.php). The registration automatically appears, and permits you to view and edit your address details. You may also access and correct your personal information and privacy preferences by writing or calling 
