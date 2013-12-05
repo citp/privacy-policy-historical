@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networx.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502174020id_/http%3A//www.networx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networx.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205093311id_/http%3A//www.networx.com/privacy) for the most accurate reproduction.*
 
 # Networx Privacy Policy :: Networx
 
@@ -103,4 +103,4 @@ If users have any questions or suggestions regarding our privacy policy, please 
 Networx Systems LLC,  
 3211 Energy Lane, Suite 101  
 Casper, Wyoming 82604  
-Please feel free to contact us at (818)-530-2256.
+Please feel free to contact us at (818) 530-2256.
