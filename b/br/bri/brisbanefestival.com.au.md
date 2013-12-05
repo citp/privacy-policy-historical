@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brisbanefestival.com.au privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101035028id_/http%3A//www.brisbanefestival.com.au/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brisbanefestival.com.au privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205125835id_/http%3A//www.brisbanefestival.com.au/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Brisbane Festival 2012
+# Privacy Policy | Brisbane Festival 2013
 
 1.  Our commitment to your privacy
 
@@ -20,7 +20,7 @@ We take all reasonable steps to protect the personal information we hold from mi
 3.1    Information for customers  
 3.1.1 Collection of your personal information
 
-When you purchase your tickets to a Brisbane Festival event, in person, over the phone or online from third parties such as ticketing agencies (for example, QTIX) or our hired venues, they collect your personal information, including your:
+When you purchase your tickets to a Brisbane Festival event, in person, over the phone or online from third parties such as ticketing agencies (for example, Qtix) or our hired venues, they collect your personal information, including your:
 
   * Name
   * Residential address
@@ -67,7 +67,7 @@ We will not disclose your personal information for any other purpose without you
 
 3.1.3 Your right to anonymity
 
-Where it is lawful and practicable to do so, you may undertake business with us without providing personal information. For example, you may purchase tickets to a Brisbane festival event by cash payment, in person, over the counter, without providing personal information.
+Where it is lawful and practicable to do so, you may undertake business with us without providing personal information. For example, you may purchase tickets to a Brisbane Festival event by cash payment, in person, over the counter, without providing personal information.
 
 3.2    Information for business associates
 
