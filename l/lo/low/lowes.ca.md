@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowes.ca privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628184308id_/http%3A//www.lowes.ca/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowes.ca privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205234059id_/http%3A//www.lowes.ca/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Lowe's Canada
 
