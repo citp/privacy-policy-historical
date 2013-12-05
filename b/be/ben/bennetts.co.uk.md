@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624052151id_/http%3A//www.bennetts.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennetts.co.uk privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205072054id_/http%3A//www.bennetts.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bennetts | Bennetts
 
@@ -84,19 +84,19 @@ We use cookies, pixel tags or action tags for various purposes, including:
 
 Cookies in use on our website are shown below: 
 
-**Cookie**
+ **Cookie**
 
 | 
 
-**Name**
+ **Name**
 
 | 
 
-**Purpose**
+ **Purpose**
 
 | 
 
-**More Information**  
+ **More Information**  
   
 ---|---|---|---  
   
@@ -305,19 +305,19 @@ We are committed to ensuring Your personal information is used properly and kept
 
   4. ### Use of Data
 
-**4.1         Administration**Data You provide to Classifieds will be used for the administration of the Classifieds service.     You must register and provide Us with the data We ask for in order to use Classifieds.   Advertisements that You submit on Classifieds will be displayed on the Classifieds website.
+ **4.1         Administration**Data You provide to Classifieds will be used for the administration of the Classifieds service.     You must register and provide Us with the data We ask for in order to use Classifieds.   Advertisements that You submit on Classifieds will be displayed on the Classifieds website.
 
-**4.2         Prevention and Detection of Crime/Fraud**Data that You provide may be disclosed to the police and fraud prevention organisations in order to prevent and detect crime.     We reserve the right to undertake identity and fraud prevention checks in order to protect Classifieds and Our users.     If You have previously been a customer of BISL Limited We may also check data You provide against data that We already hold to help prevent and detect fraud and to help Us improve Our service to You.
+ **4.2         Prevention and Detection of Crime/Fraud**Data that You provide may be disclosed to the police and fraud prevention organisations in order to prevent and detect crime.     We reserve the right to undertake identity and fraud prevention checks in order to protect Classifieds and Our users.     If You have previously been a customer of BISL Limited We may also check data You provide against data that We already hold to help prevent and detect fraud and to help Us improve Our service to You.
 
 We have the right to disclose Your identity to any third party who claims that any content submitted by You on Classifieds constitutes a violation of their intellectual property rights, or of their right to privacy.
 
-**4.3                ****Marketing and Market Research** Where You have given Us permission to do so We may use Your data to send You marketing communications about Bennetts and biking that We believe may be of interest to You by mail, telephone, e-mail or other electronic methods.You can opt out of marketing at any time.We may also contact You to conduct market research. Data that We hold may also used for research and analysis purposes.
+ **4.3                ****Marketing and Market Research** Where You have given Us permission to do so We may use Your data to send You marketing communications about Bennetts and biking that We believe may be of interest to You by mail, telephone, e-mail or other electronic methods.You can opt out of marketing at any time.We may also contact You to conduct market research. Data that We hold may also used for research and analysis purposes.
 
-**4.4                ****Contact the Seller  
+ **4.4                ****Contact the Seller  
 ** **  
 **The Classifieds site contains a “Contract the Seller” function.     If You use the function then We will send Your name and contact details to the seller that You would like to contact. By using the Contact the Seller function You are consenting to Your data being used in this way.
 
-  5. **Send to a Friend**
+  5.  **Send to a Friend**
 
 If You provide us with details of a friend to whom You would like us to send an e-mail You are confirming the following:-
 
@@ -327,7 +327,7 @@ If You provide us with details of a friend to whom You would like us to send an 
 
   6. ### Cookies
 
-**6.1                ****Use of Cookies**
+ **6.1                ****Use of Cookies**
 
 A cookie identifies Your computer to a server that then enables information to be stored on the hard drive of Your computer. Cookies allow a computer to be identified as corresponding to one that has accessed another website or visited a website previously. Cookies are commonly used on the Internet and do not harm Your computer system. We may, from time to time use and serve cookies, pixel tags or action tags. 
 
@@ -338,19 +338,19 @@ We use cookies, pixel tags or action tags for various purposes, including:
 
 Cookies in use on our website are shown below: 
 
-**Cookie**
+ **Cookie**
 
 | 
 
-**Name**
+ **Name**
 
 | 
 
-**Purpose**
+ **Purpose**
 
 | 
 
-**More Information**  
+ **More Information**  
   
 ---|---|---|---  
   
@@ -434,7 +434,7 @@ This cookie is used to collect information from users on how they are interactin
   
 We are continually looking to adopt and implement certain practices and technologies in order that We may improve Your user experience.
 
-**6.2             ****How can I stop cookies and what effect will this have?**
+ **6.2             ****How can I stop cookies and what effect will this have?**
 
 Two of the cookies We use are essential for parts of the Bennetts Classifieds Site to operate and have already been set. You can stop cookies from being deployed on Your computer by configuring Your browser not to accept them or opt-out. Please refer to Your browser's 'help' facility.
 
@@ -450,13 +450,13 @@ From time to time it may be necessary for Us to undertake some of the processing
 
 This Privacy & Cookie Policy is subject to English Law and to the exclusive jurisdiction of the English Courts.
 
-_Use of Classifieds is subject to the[Classifieds Terms and Conditions](http://www.bennetts.co.uk/terms-and-conditions/ "Classifieds Terms & Conditions")_
+ _Use of Classifieds is subject to the[Classifieds Terms and Conditions](http://www.bennetts.co.uk/terms-and-conditions/ "Classifieds Terms & Conditions")_
 
 
 
-**BENNETTS BIKE SOCIAL PRIVACY& COOKIE POLICY**
+ **BIKE SOCIAL PRIVACY& COOKIE POLICY**
 
-**SUMMARY**
+ **SUMMARY**
 
 This Privacy & Cookie Policy provides You with everything You need to know about how We will use the data that You provide to Us.    
 
@@ -472,17 +472,17 @@ You will find detailed information below about all aspects of Our data processin
 
 If you are also a Bennetts Insurance customer please note that the Bike Social Site is separate from Bennetts Insurance and your profile is not linked to your insurance policy.
 
-**1               This Privacy & Cookie Policy**
+ **1               This Privacy & Cookie Policy**
 
 1.1          This website, located at [www.bennetts.co.uk/bikesocial](http://www.bennetts.co.uk/bikesocial) **(Bike Social Site)** is operated by BISL Limited (registered in England with registration number 3231094 whose registered office is at Pegasus House, Bakewell Road, Orton Southgate, Peterborough, Cambridgeshire PE2 6YS) **(We, Us, Our)**. 
 
 1.2          Expressions used but not defined in this Privacy & Cookie Policy will have the meanings set out in the Terms located at [www.bennetts.co.uk/terms-and-conditions](http://www.bennetts.co.uk/terms-and-conditions/) of which this Privacy Policy forms a part.
 
-**2              Changes to this Privacy & Cookie Policy**
+ **2              Changes to this Privacy & Cookie Policy**
 
 2.1          From time to time We may revise and update this Privacy & Cookie Policy and We will indicate at the top of this page when this Privacy & Cookie Policy was last revised. Please regularly review the Privacy & Cookie Policy, as Your continued use of the Bike Social Site indicates Your agreement with any changes that We make.
 
-**3               We respect Your privacy**
+ **3               We respect Your privacy**
 
 3.1          The protection of Your privacy in the processing of Your personal information is an important concern to Us. Any personal information collected during visits to the Bike Social Site is processed by Us according to applicable data privacy and data protection legislation and as set out in the Privacy & Cookie Policy.    
 
@@ -490,9 +490,9 @@ If you are also a Bennetts Insurance customer please note that the Bike Social S
 
 3.3        We keep your data safe. The pages on the Bike Social Site where you provide us with personal information (for example the registration page) are SSL certified. SSL allows secure connections from our web server to your browser to allow information to be transmitted securely.
 
-3.4        If you have any queries regarding how your data is processed you can contact our Data Protection Officer by post at Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS or by e-mail at [bikesocial@bennetts.co.uk](mailto:bikesocial@bennetts.co.uk)
+3.4        If you have any queries regarding how your data is processed you can contact our Data Protection Officer by post at Pegasus House, Bakewell Road, Orton Southgate, Peterborough, PE2 6YS or by e-mail at [enquiries@bikesocial.co.uk](mailto:bikesocial@bennetts.co.uk)
 
-**4             Collection of Your personal information and acceptance by You**
+ **4             Collection of Your personal information and acceptance by You**
 
 4.1          We collect certain personal information about You when You register for the Bike Social Site and create or edit Your Profile and when You upload Content to the Bike Social Site.
 
@@ -520,7 +520,7 @@ If you are also a Bennetts Insurance customer please note that the Bike Social S
 
 5.5        In some circumstances it may be necessary for some of your data to be processed outside of the European Economic Area where data protection safeguards are not as high as they are in the UK. Where this is necessary we will ensure that your personal information has the same protection as when it is processed in the UK.
 
-**6            How other Users and Visitors may see Your personal information**
+ **6            How other Users and Visitors may see Your personal information**
 
 6.1        The Bike Social Site is a community for all users to share personal information. By ‘ **registering’** and ‘ **creating a profile’** the personal information You upload to the Bike Social Site through your profile page (i.e personal information, rides, points of interest, events, blogs, polls, photo galleries, video galleries, clubs, comments, ratings and further information) can be:
 
@@ -548,17 +548,17 @@ If you are also a Bennetts Insurance customer please note that the Bike Social S
 
 7.4         We may also disclose Your name and contact details to any third party who is claiming that any Content posted by You constitutes a violation their intellectual property rights, or of their right to privacy, although We will try to notify You first before doing this by using the contact details You have provided.
 
-**8             Changing or removing personal information**
+ **8             Changing or removing personal information**
 
 8.1         You can change or remove the personal information We hold about You by logging in and editing Your profile at [www.bennetts.co.uk/bikesocial/profile](http://www.bennetts.co.uk/bikesocial).
 
-8.2          You can delete your Bike Social account  by emailing [bikesocial@bennetts,co.uk](mailto:bikesocial@bennetts,co.uk) with your request. Following receipt of  Your request We will endeavour to delete Your personal information as soon as practicable, but We will not be able to do so immediately following Your request. 
+8.2          You can delete your Bike Social account  by emailing [enquiries@bikesocial.co.uk](mailto:bikesocial@bennetts,co.uk) with your request. Following receipt of  Your request We will endeavour to delete Your personal information as soon as practicable, but We will not be able to do so immediately following Your request. 
 
 8.3          Following removal of personal information or deletion of account We will retain Your name, email address and contact details provided in Your Profile for the purposes of keeping a record of the comments You make in the Bike Social Site so that We can, if necessary, identify whether You have complied with the Terms and Code of Conduct.
 
-**9             Cookies**
+ **9             Cookies**
 
-_               Use of cookies_
+ _               Use of cookies_
 
 9.1          A cookie identifies Your computer to a server that then enables information to be stored on the hard drive of Your computer. Cookies allow a computer to be identified as corresponding to one that has accessed another website or visited a website previously. Cookies are commonly used on the Internet and do not harm Your computer system. We may, from time to time use and serve cookies, pixel tags or action tags.
 
@@ -638,7 +638,7 @@ Visit Addthis.com for a Privacy Overview
   
 9.4       We are continually looking to adopt and implement certain practices and technologies in order that We may improve Your user experience.
 
-_How can I stop cookies and what effect will this have?_
+ _How can I stop cookies and what effect will this have?_
 
 9.5       Two of the cookies We use are essential for parts of the Bike Social Site to operate and have already been set (Session ID & ASP.net Authentication Token cookies).
 
@@ -648,10 +648,10 @@ _How can I stop cookies and what effect will this have?_
 
 9.8       Please be aware that restricting or deleting certain cookies can result in difficulties when navigating around our site.
 
-**10         Links**
+ **10         Links**
 
 10.1     The Bike Social Site may contain links to other websites. This Privacy & Cookie Policy applies to the Bike Social Site only and We are not responsible for  the privacy practices of other websites. We recommend that You read the privacy policies of those other websites.
 
-**11        Contact Us**
+ **11        Contact Us**
 
-11.1    If You have any questions about this Privacy & Cookie Policy or any of the Terms of which it forms part please contact us at Bennetts, Pegasus House,  Bakewell Road, Orton Southgate, Peterborough, Cambridgeshire PE2 6YS United Kingdom or at [bikesocial@bennetts.co.uk](mailto:bikesocial@bennetts.co.uk).
+11.1    If You have any questions about this Privacy & Cookie Policy or any of the Terms of which it forms part please contact us at Bennetts, Pegasus House,  Bakewell Road, Orton Southgate, Peterborough, Cambridgeshire PE2 6YS United Kingdom or at [enquiries@bikesocial.co.uk](mailto:bikesocial@bennetts.co.uk).
