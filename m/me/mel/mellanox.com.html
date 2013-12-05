@@ -1,24 +1,23 @@
-<!--The following is the downloaded HTML source of the mellanox.com privacy policy that was archived on 2012-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231174518id_/http%3A//www.mellanox.com/content/pages.php%3Fpg%3Dlegal_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mellanox.com privacy policy that was archived on 2013-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131205202433id_/http%3A//www.mellanox.com/page/legal_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head><title>Legal Privacy: Mellanox Technologies</title>
 <meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
 <base href="http://www.mellanox.com/">
 <meta name="description" content="Mellanox Technologies">
 <meta name="Keywords" content="mellanox, infiniband, ethernet, internet fabric">
-<meta http-equiv="X-UA-Compatible" content="IE=7">
 <link rel="stylesheet" href="css/reset.css" type="text/css">
 <link rel="stylesheet" href="css/global.css" type="text/css">
 <link rel="stylesheet" href="css/menu.css" type="text/css">
 <link rel="stylesheet" href="css/styles.css" type="text/css">
 <link rel="stylesheet" href="css/nav.css" type="text/css">
 <link rel="stylesheet" href="css/inside_page_tabs.css" type="text/css">
-<link rel="stylesheet" href="js/fancybox/jquery.fancybox-1.3.4.css" type="text/css">
+<link rel="stylesheet" href="js/fancybox2/source/jquery.fancybox.css" type="text/css">
 <link rel="icon" href="favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <script type="text/javascript" async="" src="https://img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="js/jquery-1.7.2.min.js" type="text/javascript"></script>
 <script language="javascript" src="js/jquery-ui-1.8.11.custom.min.js" type="text/javascript"></script>
-<script language="javascript" src="js/fancybox/jquery.fancybox-1.3.4.1.pack.js" type="text/javascript"></script>
+<script language="javascript" src="js/fancybox2/source/jquery.fancybox.pack.js" type="text/javascript"></script>
 <script language="javascript" src="js/jquery.hoverIntent.minified.js" type="text/javascript"></script>
 <script language="javascript" src="js/jquery.tabs.js" type="text/javascript"></script>
 <script language="javascript" src="js/jquery.accordion.js" type="text/javascript"></script>
@@ -60,12 +59,40 @@
 				<!--<div id="search-country-text" class="right">
 					<p>UNITED STATES [change]</p>
 				</div>--> <!-- #/ search-country-text -->
+                
+                        <div id="lang_drop_container" class="right">
+		<ul>
+			<li class="lang_drop_button"><img src="img/common/lang_drop/american.jpg">Language&nbsp;<img src="img/common/lang_drop/arrow-down.png"></li>
+		</ul>
+	
+		<div id="lang_drop_nav">
+		<ul>
+			<li><a href="http://ch.mellanox.com" target="_blank"><img src="img/common/lang_drop/chinese.jpg">Chinese (中国)</a></li>
+			<li><a href="http://jp.mellanox.com" target="_blank"><img src="img/common/lang_drop/japanese.jpg">Japanese (日本)</a></li>
+			<li><a href="http://kr.mellanox.com" target="_blank"><img src="img/common/lang_drop/korean.jpg"> Korean (한국)</a></li>
+			<li><a href="http://ru.mellanox.com" target="_blank"><img src="img/common/lang_drop/russian.jpg">Russian (Россия)</a></li>
+		</ul>
+	</div> <!-- ./lang_drop_nav -->
+	</div> <!-- #/lang_drop_container -->
+
+<script type="text/javascript">
+//language drop menu
+$(document).ready(function () {
+    $('li.lang_drop_button').click(function () {
+	$('div#lang_drop_nav').slideToggle('medium');
+    });
+});
+</script>                
+                
 			
 			<div id="nav" class="left">
 				    <div id="nav">						<!-- / BEGIN MEGA MENUS -->
 						<ul id="menu">
 							
-							<li class="drop"><a href="page/company_overview">Company</a><!-- Begin Home Item -->
+							
+                            <!---- START COMPANY   ---->
+                            
+                            <li class="drop"><a href="page/company_overview">Company</a><!-- Begin Home Item -->
 							
 								<div class="dropdown_company" id="dropdown_company"><!-- Begin 4 columns container -->
 									
@@ -73,22 +100,26 @@
 										<a href="page/company_overview" id="megamenu_company_title"><h1>Company</h1></a>
 										
 										<div class="col-trans-bg">
-											<img class="rollover" src="img/common/mega_menu/menu_company_company_off.png" rel="img/common/mega_menu/menu_company_company_on.png" alt="Company" width="219" height="151">
+											<img class="rollover" src="img/common/mega_menu/menu_company_company_off.png" rel="img/common/mega_menu/menu_company_company_off.png" alt="Company" width="219" height="151">
 										</div>
 									</div>
 									
 									<div class="col_1">
-										<a href="#"><h1></h1></a>
+										
 										<div class="col-trans-bg col-sans-anchor-img">
 											<ul>
 												<li><a href="page/company_overview">About Mellanox</a></li>
 												<li><a href="page/management">Management</a></li>
 												<li><a href="page/board_of_directors">Board of Directors</a></li>
+                                                <li><a href="http://ir.mellanox.com/">Investor Relations</a></li>
 												<li><a href="page/career_portal?mtag=careers">Careers</a></li>
+                                                <li><a href="page/timeline">Timeline</a></li>
+                                                <li><a href="page/quality">Quality</a></li>
+                                                <li><a href="page/philanthropy">Philanthropy</a></li>
 												<li><a href="page/memberships">Industry Memberships</a></li>
 												<li><a href="page/research_partners">Research Partners</a></li>
-												<li><a href="http://ir.mellanox.com/">Investor Relations</a></li>
 												<li><a href="page/newsletter">Newsletter</a></li>
+                                                
 											</ul>
 										</div>
 									</div>
@@ -97,12 +128,12 @@
 										<a href="page/contact" id="megamenu_contact_us_title"><h1>Contact Us</h1></a>
 										
 										<div class="col-trans-bg">
-											<img class="rollover" src="img/common/mega_menu/menu_company_contact_us_off.png" rel="img/common/mega_menu/menu_company_contact_us_on.png" alt="Contact Us" width="219" height="151">
+											<img class="rollover" src="img/common/mega_menu/menu_company_contact_us_off.png" rel="img/common/mega_menu/menu_company_contact_us_off.png" alt="Contact Us" width="219" height="151">
 										</div>
 									</div>
 									
 									<div class="col_1">
-										<a href="#"><h1></h1></a>
+										
 										<div class="col-trans-bg col-sans-anchor-img">
 											<ul>
 												<li><a href="page/contact">Corporate Headquarters USA</a></li>
@@ -119,6 +150,13 @@
 								</div><!-- End 4 columns container -->
 							
 							</li><!-- End Home Item -->
+                            
+                            <!---- END COMPANY   ---->
+                            
+                            
+                            
+                            
+                            <!---- START PRODUCTS   ---->
 						
 							<li class="drop"><a href="page/products_overview">Products</a><!-- Begin Products Item -->
 							
@@ -128,41 +166,44 @@
 										<h1>Adapters</h1>
 										
 										<div class="col-trans-bg">
-											<img class="rollover" src="img/common/mega_menu/thumb_products_adapters_off.png" rel="img/common/mega_menu/thumb_products_adapters_on.png" alt="Adapters" width="219" height="151">
+											<img class="rollover" src="img/common/mega_menu/thumb_products_adapters_off.png" rel="img/common/mega_menu/thumb_products_adapters_off.png" alt="Adapters" width="219" height="151">
 											<ul>
 												<li><a href="page/infiniband_cards_overview">InfiniBand/VPI Adapter Cards</a></li>
-												<li><a href="page/products_dyn?product_family=117&amp;mtag=connectx_3_vpi_adapter_ic">InfiniBand/VPI Adapter ICs</a></li>
+												<li><a href="page/products_dyn?product_family=159&amp;mtag=connectx_3_pro_vpi_ic">InfiniBand/VPI Adapter ICs</a></li>
 												<li><a href="page/ethernet_cards_overview">Ethernet Adapter Cards</a></li>
-												<li><a href="page/products_dyn?product_family=118&amp;mtag=connectx_3_en_ethernet_adapter">Ethernet Adapter ICs</a></li>
+												<li><a href="page/products_dyn?product_family=158&amp;mtag=connectx_3_pro_en_ic">Ethernet Adapter ICs</a></li>
 											</ul>
 										</div>
+
+
 									</div>
 									
 									<div class="col_1">
 										<h1>Switches</h1>
 										
 										<div class="col-trans-bg">
-											<img class="rollover" src="img/common/mega_menu/thumb_products_switches_off.png" rel="img/common/mega_menu/thumb_products_switches_on.png" alt="Switches" width="219" height="151">
+											<img class="rollover" src="img/common/mega_menu/thumb_products_switches_off.png" rel="img/common/mega_menu/thumb_products_switches_off.png" alt="Switches" width="219" height="151">
 											<ul>
 												<li><a href="page/switch_systems_overview">InfiniBand/VPI Switch Systems</a></li>
 												<li><a href="page/ib_switch_silicon_overview">InfiniBand/VPI Switch ICs</a></li>
 												<li><a href="page/ethernet_switch_overview">Ethernet Switch Systems</a></li>
-												<li><a href="page/products_dyn?product_family=113&amp;mtag=switch_en">Ethernet Switch ICs</a></li>
-												<li><a href="page/products_dyn?product_family=148&amp;mtag=long_distance_switch">Long Distance Switches</a></li>
+												<li><a href="page/gateway_overview">Gateway Systems</a></li>
+												<li><a href="page/products_dyn?product_family=146&amp;mtag=switchx_2_en">Ethernet Switch ICs</a></li>
+												<li><a href="page/long_haul_overview?mtag=long_haul_systems_ov">Long-Haul Systems</a></li>
 											</ul>
 										</div>
 									</div>
 									
 									<div class="col_1">
-										<a href="page/cables" id="megamenu_cables_title"><h1>Cables</h1></a>
+										<h1>Interconnect</h1>
 										
 										<div class="col-trans-bg">
-											<img class="rollover" src="img/common/mega_menu/thumb_products_cables_off.png" rel="img/common/mega_menu/thumb_products_cables_on.png" alt="Cables" width="219" height="151">
+											<img class="rollover" src="img/common/mega_menu/thumb_products_cables_off.png" rel="img/common/mega_menu/thumb_products_cables_off.png" alt="Cables" width="219" height="151">
 											<ul>
-												<li><a href="page/cables#copper">Copper</a></li>
-												<li><a href="page/cables#optical">Optical</a></li>
-												<li><a href="page/cables#hybrid">Hybrid</a></li>
-												<li><a href="page/products_dyn?product_family=78&amp;mtag=qsa">Quad to Serial Connectors</a></li>
+												<li><a href="page/interconnect_overview">Interconnect Overview</a></li>
+												<li><a href="page/cables?mtag=cable_overview">Cables and Transceivers</a></li>
+												<li><a href="page/optical_interconnects_voa?mtag=interconnect_voa">Variable Optical Attenuators</a></li>
+												<li><a href="page/optical_interconnects_tia_vd?mtag=interconnect_tia">TIAs and VCSEL Driver ICs</a></li>
 											</ul>
 										</div>
 									</div>
@@ -171,13 +212,14 @@
 										<h1>Software</h1>
 										
 										<div class="col-trans-bg">
-											<img class="rollover" src="img/common/mega_menu/thumb_products_software_off.png" rel="img/common/mega_menu/thumb_products_software_on.png" alt="Software" width="219" height="151">
+											<img class="rollover" src="img/common/mega_menu/thumb_products_software_off.png" rel="img/common/mega_menu/thumb_products_software_off.png" alt="Software" width="219" height="151">
 											<ul>
 												<li><a href="page/application_software_overview">Accelerator Software</a></li>
 												<li><a href="page/management_software_overview">Management Software</a></li>
 												<li><a href="page/scalablehpc_overview">ScalableHPC</a></li>
 												<li><a href="page/software_overview_ib">InfiniBand/VPI Drivers</a></li>
                                                 <li><a href="page/software_overview_eth">Ethernet Drivers</a></li>
+                                                <li><a href="page/management_tools">Firmware Tools </a></li>
 												
 											</ul>
 										</div>
@@ -186,8 +228,19 @@
 								</div><!-- End 4 columns container -->
 							
 							</li><!-- End Products Item -->
+                            
+                            <!---- END PRODUCTS   ---->
 						
-							<li class="drop"><a href="page/solutions_overview">Solutions</a><!-- Begin Solutions Item -->
+							
+                            
+                            
+                            
+                            
+                            
+                            
+                            <!---- START SOLTUIONS   ---->
+                            
+                            <li class="drop"><a href="page/solutions_overview">Solutions</a><!-- Begin Solutions Item -->
 							
 								<div class="dropdown_solutions" id="dropdown_solutions"><!-- Begin 4 columns container -->
 								
@@ -197,13 +250,13 @@
 										<a href="page/hpc_overview" id="megamenu_hpc_title"><h1>HPC</h1></a>
 										
 										<div class="col-trans-bg-tall">
-											<img class="rollover" src="img/common/mega_menu/menu_solutions_hpc_off.png" rel="img/common/mega_menu/menu_solutions_hpc_on.png" alt="HPC" width="174" height="122">
+											<img class="rollover" src="img/common/mega_menu/menu_solutions_hpc_off.png" rel="img/common/mega_menu/menu_solutions_hpc_off.png" alt="HPC" width="174" height="122">
 											<ul>
 												<li><a href="page/hpc_overview">HPC Overview</a></li>
 												<li><a href="page/bioscience">Bioscience</a></li>
 												<li><a href="page/eda">EDA</a></li>
 												<li><a href="page/media_entertainment">Media Entertainment</a></li>
-												<li><a href="page/media_entertainment">Manufacturing</a></li>
+												<li><a href="page/manufacturing">Manufacturing</a></li>
 												<li><a href="page/oil_gas">Oil &amp; Gas Industries</a></li>
 												<li><a href="page/weather">Weather</a></li>
 												<li><a href="page/cluster_case_studies">Cluster Case Studies</a></li>
@@ -226,11 +279,11 @@
 										<a href="page/data_center_overview" id="megamenu_data_center_title"><h1>Data Center</h1></a>
 										
 										<div class="col-trans-bg-tall">
-											<img class="rollover" src="img/common/mega_menu/menu_solutions_data_center_off.png" rel="img/common/mega_menu/menu_solutions_data_center_on.png" alt="Data Center" width="174" height="122">
+											<img class="rollover" src="img/common/mega_menu/menu_solutions_data_center_off.png" rel="img/common/mega_menu/menu_solutions_data_center_off.png" alt="Data Center" width="174" height="122">
 											<ul>
 												<li><a href="page/data_center_overview">Data Center Overview</a></li>
-												<li><a href="page/clustered_database">Clustered Databases</a></li>
-												<li><a href="page/clustered_database">File Storage</a></li>
+												<li><a href="page/clustered_database">Scale-Out Databases</a></li>
+												<li><a href="page/file_storage">Windows File Storage</a></li>
 												<li><a href="page/virtualization">Virtualization</a></li>
 												<li><a href="page/green_computing">Green Computing</a></li>
 												<li><a href="page/edc_system">EDC Benchmark</a></li>
@@ -251,7 +304,7 @@
 										<a href="page/web_2_0_overview" id="megamenu_web_2_0_title"><h1>Web 2.0</h1></a>
 										
 										<div class="col-trans-bg-tall">
-											<img class="rollover" src="img/common/mega_menu/menu_solutions_web_2_0_off.png" rel="img/common/mega_menu/menu_solutions_web_2_0_on.png" alt="Web 2.0" width="174" height="122">
+											<img class="rollover" src="img/common/mega_menu/menu_solutions_web_2_0_off.png" rel="img/common/mega_menu/menu_solutions_web_2_0_off.png" alt="Web 2.0" width="174" height="122">
 											<ul>
 												<li><a href="page/web_2_0_overview">Web 2.0 Overview</a></li>
 												<li><a href="page/ocp">Open Computing Project</a></li>
@@ -271,10 +324,10 @@
 										<a href="page/big_data_overview" id="megamenu_big_data_title"><h1>Big Data</h1></a>
 										
 										<div class="col-trans-bg-tall">
-											<img class="rollover" src="img/common/mega_menu/menu_solutions_big_data_off.png" rel="img/common/mega_menu/menu_solutions_big_data_on.png" alt="Big Data" width="174" height="122">
+											<img class="rollover" src="img/common/mega_menu/menu_solutions_big_data_off.png" rel="img/common/mega_menu/menu_solutions_big_data_off.png" alt="Big Data" width="174" height="122">
 											<ul>
 												<li><a href="page/big_data_overview">Big Data Overview</a></li>
-												<li><a href="page/big_data_overview">Memcached</a></li>
+												<li><a href="page/memcached">Memcached</a></li>
 												<li><a href="page/hpcc">HPCC</a></li>
 												<li><a href="page/hadoop">Hadoop</a></li>
 											</ul>
@@ -291,11 +344,13 @@
 										<a href="page/cloud_computing" id="megamenu_cloud_title"><h1>Cloud</h1></a>
 										
 										<div class="col-trans-bg-tall">
-											<img class="rollover" src="img/common/mega_menu/menu_solutions_cloud_off.png" rel="img/common/mega_menu/menu_solutions_cloud_on.png" alt="Cloud" width="174" height="122">
+											<img class="rollover" src="img/common/mega_menu/menu_solutions_cloud_off.png" rel="img/common/mega_menu/menu_solutions_cloud_off.png" alt="Cloud" width="174" height="122">
 											<ul>
 												<li><a href="page/cloud_computing">Cloud Overview</a></li>
 												<li><a href="page/cloud_solutions">Cloud Solutions</a></li>
                                                 <li><a href="page/infiniband_cloud">InfiniBand Based Clouds</a></li>
+												<li><a href="sdn">SDN</a></li>
+                                                <li><a href="openstack">OpenStack</a></li>
 												<li><a href="page/virtualization?mtag=virtualization_cloud">Virtualization</a></li>
 												<li><a href="cloudroi">Cloud ROI Calculator</a></li>
 											</ul>
@@ -310,33 +365,120 @@
 								</div><!-- End 4 columns container -->
 							
 							</li><!-- End 4 columns Item -->
-						
-							<li><a href="page/support_index">Support</a></li>
-						
-							<li class="drop">Media/Events<!-- Begin 3 columns Item -->
+                            <!---- END SOLTUIONS   ---->
+                            
+                            
+                            
+                            <!--<li><a href="page/support_index">Support</a></li>-->
+                            
+                            
+                            
+                            <!----- START SUPPORT/RESOURCES ----->
+                            <li class="drop">Support/Education<!-- Begin 3 columns Item -->
 							
-								<div class="dropdown_media" id="dropdown_media"><!-- Begin 4 columns container -->
+								<div class="dropdown_support" id="dropdown_support" style="border: 0px solid red;"><!-- Begin 4 columns container -->
+									
+									<div class="col_1">
+										<h1>Support</h1>
+										
+										<div class="col-trans-bg">
+											<img class="rollover" src="img/common/mega_menu/menu_support_off.png" rel="img/common/mega_menu/menu_support_off.png" alt="Media" width="219" height="151">
+										</div>
+									</div>
+									
+									<div class="col_1">
+										
+										<div class="col-trans-bg col-sans-anchor-img">
+											<ul>
+												<li><a href="page/support_index">Overview/Customer Login</a></li>
+                                                <li><a href="page/firmware_download">Firmware Download</a></li>
+                                                <li><a href="page/oem_firmware_download">OEM Firmware Download</a></li>
+                                                <li><a href="http://support.mellanox.com/SupportWeb/service_center/VF_SerialSearch" target="_blank">Product Documentation</a></li>
+                                                <li><a href="page/rma_form">Returns (RMA)</a></li>
+                                                <li><a href="http://www.mellanox.com/supportdownloader/" target="_blank">Support Downloader</a></li>
+                                                <li><a href="page/authorized_service_partners">Authorized Service Partners</a></li> 
+												<li><a href="http://community.mellanox.com/community/support" target="_blank">Technical Community</a></li>
+                                                <li><a href="http://community.mellanox.com/community/develop" target="_blank">Developer's Community</a></li>
+                                                <li><a href="page/software_overview_ib">InfiniBand/VPI Drivers</a></li>
+                                                <li><a href="page/software_overview_eth">Ethernet Drivers</a></li>
+											</ul>
+										</div>
+									</div>
+									
+									
+									
+									<div class="col_1">
+										<h1>Education</h1>
+										
+										<div class="col-trans-bg">
+											<img class="rollover" src="img/common/mega_menu/menu_community_off.png" rel="img/common/mega_menu/menu_community_off.png" alt="Media" width="219" height="151">
+						
+										</div>
+									</div>
+									
+									<div class="col_1">
+										
+										
+										<div class="col-trans-bg col-sans-anchor-img">
+											<ul>
+                                                <li><a href="http://community.mellanox.com/" target="_blank">Mellanox Community</a></li>
+                                                <li><a href="/academy" target="_blank">Mellanox Academy</a></li>
+                                                <li><a href="page/white_papers">InfiniBand White Papers</a></li>
+												<li><a href="page/white_papers_en">Ethernet White Papers</a></li>
+												<li><a href="page/white_papers_silicon_photonics">Silicon Photonics White Papers</a></li>
+                                                <li><a href="page/webinars">Webinars</a></li>
+												<li><a href="page/presentations">Videos</a></li>
+												<li><a href="page/podcasts">Podcasts</a></li>
+												<li><a href="page/case_studies">Case Studies</a></li>  
+												
+											</ul>
+										</div>
+									</div>
+                               
+                               
+                               </div>
+								
+							</li><!-- End 3 columns Item -->
+                            <!-- END SUPPORT/RESOURCES-->
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            <!---START MEDIA/EVENTS--->
+                            <li class="drop">Media/Events<!-- Begin 3 columns Item -->
+							
+								<div class="dropdown_media2" id="dropdown_media2"><!-- Begin 4 columns container -->
 									
 									<div class="col_1">
 										<h1>Media</h1>
 										
 										<div class="col-trans-bg">
-											<img class="rollover" src="img/common/mega_menu/menu_media_1_off.png" rel="img/common/mega_menu/menu_media_1_on.png" alt="Media" width="219" height="151">
+											<img class="rollover" src="img/common/mega_menu/menu_media_1_off.png" rel="img/common/mega_menu/menu_media_1_off.png" alt="Media" width="219" height="151">
 										</div>
 									</div>
 									
 									<div class="col_1">
-										<a href="#"><h1></h1></a>
+										
 										<div class="col-trans-bg col-sans-anchor-img">
 											<ul>
 												<li><a href="page/press_releases">Press Releases</a></li>
 												<li><a href="page/mellanox_in_the_news">Mellanox in the News</a></li>
 												<li><a href="page/infiniband_in_the_news">InfiniBand in the News</a></li>
+                                                <!--<li><a href="http://community.mellanox.com" target="_blank">Community</a></li>-->
 												<li><a href="page/media_kit">Media Kit</a></li>
 												<li><a href="page/newsletter">Newsletter</a></li>
 												<li><a href="page/awards">Awards and Accolades</a></li>
-												<li><a href="page/social_media">Social Media</a></li>
-												<li><a href="http://www.mellanox.com/blog/" target="_blank">Blog</a></li>
+                                                <li><a href="page/industry_quotes">Industry Quotes</a></li>
+                                                <li><a href="page/social_media">Social Media</a></li>
+                                                <li><a href="http://www.mellanox.com/blog/" target="_blank">Blog</a></li>
 												<li><a href="page/presentations">Videos</a></li>
 												
 											</ul>
@@ -347,13 +489,13 @@
 										<a href="page/events" id="megamenu_events_title"><h1>Events</h1></a>
 										
 										<div class="col-trans-bg">
-											<img class="rollover" src="img/common/mega_menu/menu_media_2_off.png" rel="img/common/mega_menu/menu_media_2_on.png" alt="Events" width="219" height="151">
+											<img class="rollover" src="img/common/mega_menu/menu_media_2_off.png" rel="img/common/mega_menu/menu_media_2_off.png" alt="Events" width="219" height="151">
 						
 										</div>
 									</div>
 									
 									<div class="col_1">
-										<a href="#"><h1></h1></a>
+										
 										
 										<div class="col-trans-bg col-sans-anchor-img">
 											<ul>
@@ -363,7 +505,16 @@
 										</div>
 									</div>
 								
-							</div></li><!-- End 3 columns Item -->
+								</div>
+                            
+                            </li><!-- End 3 columns Item -->
+                            <!---END MEDIA/EVENTS--->
+                            
+                            
+                            
+                            
+
+
 						
 							<li class="menu_right"><a href="page/buy_overview" class="drop">How to Buy</a><!-- Begin How to Buy Item -->
 							
@@ -393,10 +544,16 @@
 <li class="menuUrl"><a href="page/company_overview" title="Company Overview">Company Overview</a></li>
 <li class="menuUrl"><a href="page/management" title="Management Team">Management Team</a></li>
 <li class="menuUrl"><a href="page/board_of_directors" title="Board of Directors">Board of Directors</a></li>
+<li class="menuUrl"><a href="http://ir.mellanox.com/" title="Investor Relations">Investor Relations</a></li>
+<li class="menuUrl"><a href="page/contact" title="Contact">Contact</a></li>
+<li class="menuUrl"><a href="page/career_portal?mtag=careers" title="Careers">Careers</a></li>
 <li class="menuUrl"><a href="page/timeline" title="Timeline">Timeline</a></li>
 <li class="menuUrl"><a href="page/quality" title="Quality">Quality</a></li>
-<li class="menuUrl"><a href="page/career_portal?mtag=careers" title="Careers">Careers</a></li>
-<li class="menuUrl"><a href="page/contact" title="Contact">Contact</a></li>
+<li class="menuUrl"><a href="page/philanthropy" title="Philanthropy">Philanthropy</a></li>
+<li class="menuUrl"><a href="page/memberships?mtag=industry_memberships" title="Industry Memberships">Industry Memberships</a></li>
+<li class="menuUrl"><a href="page/research_partners?mtag=research_partners" title="Research Partners">Research Partners</a></li>
+<li class="menuUrl"><a href="page/newsletter" title="Newsletter">Newsletter</a></li>
+<li class="menuUrl"><a href="http://www.mellanox.com/related-docs/support/MTL_Purchasing_Terms_and_Conditions.pdf" title="Mellanox Purchasing Terms &amp; Conditions" target="_blank">Purchasing Terms &amp; Conditions</a></li>
 <li class="menuFtr"></li>
 </ul>
           </div> <!-- sidenav -->
@@ -409,7 +566,7 @@
             <div class="ic-content"><h4>OEMs &amp; VARs</h4>
 <a href="page/contact#usa">Contact Mellanox</a><br><br>
 <h4>End Customers &amp; IT Managers</h4>
-<a href="page/contact#bizdev">Contact Mellanox</a></div>
+<a href="page/contact#bizdev">Contact Mellanox</a><br></div>
          </div> <!-- ./inside_callout_l_col -->
           
         
@@ -446,7 +603,9 @@
 <div id="r_col">
 <h2>Legal &amp; Privacy Policy</h2>
 
-<p>This is the website (“Website”) of Mellanox  Technologies, Ltd. (collectively with all subsidiaries, “Mellanox”).&nbsp; Your privacy is very important to us.&nbsp; The purpose of this privacy policy (“Privacy  Policy”) is to inform you about our policy and our practices regarding the  collection and use of information from visitors to this Website.&nbsp; By accessing or using this Website, you agree  to all of the terms and conditions set forth in this Privacy Policy.<br>
+<p align="right" style="font-size:12px;"><strong><em>Policy last updated</em></strong>:&nbsp; August 26,  2013<br>
+
+</p><p>This is the website (“Website”) of Mellanox  Technologies, Ltd. (collectively with all subsidiaries, “Mellanox”).&nbsp; Your privacy is very important to us.&nbsp; The purpose of this privacy policy (“Privacy  Policy”) is to inform you about our policy and our practices regarding the  collection and use of information from visitors to this Website.&nbsp; By accessing or using this Website, you agree  to all of the terms and conditions set forth in this Privacy Policy.<br>
 </p>
 <h4><strong><em>Non-Personal Information<br>
   </em></strong>
@@ -466,42 +625,77 @@
 </em></strong></h4>
 <p>In the event that Mellanox  goes through a business transition, such as a merger, an acquisition by another  company, or a sale of all or a portion of its assets, the personal information  of our visitors may be shared or transferred.&nbsp;  Visitors will be notified via a prominent notice on this Website for 30  days after a change of ownership or control of Mellanox of the transfer of their  personal information if the intended use of their personal information will be  contrary to this Privacy Policy.&nbsp; However,  nothing in this Privacy Policy is intended to interfere with the ability of Mellanox  to transfer all or part of its business and/or assets (including the Website),  for any purposes, without any limitation whatsoever.&nbsp; Mellanox specifically reserves the right to  transfer or share a copy of personally-identifiable information collected from  its Website to the buyer of that portion of its business relating to that  information.</p>
 <p>The information that is collected by Mellanox will be  used only for internal business purposes to better serve your needs.&nbsp; We will not rent, sell, transfer, share or  disclose personal information about you with unaffiliated third parties without  your prior written consent, except to provide products or services that you  have requested or under the following circumstances:</p>
-<ul class="bullet_list_timeline">
+<ul class="bullet_list">
   <li>We       may disclose your personal information in order to respond to subpoenas,       court orders, or legal process, or to establish or exercise our legal       rights or defend against legal claims.</li>
 
   <li>We       may share personal information if we believe it is necessary in order to       investigate, prevent or take action regarding illegal activities,       suspected fraud, situations involving potential threats to physical safety       of any person, violations of this Privacy Policy, or as otherwise required       by law.</li>
 
   <li>We       may disclose personal information to our third party service providers who       agree to maintain the confidentiality of your personal information in       accordance with this Privacy Policy.&nbsp;       Such third party service providers may use your personal       information only to provide services to Mellanox and will not be given       permission to use such information for other purposes.</li>
 </ul>
-<p>&nbsp;</p>
+<br>
+
 <h4><strong><em>Security</em></strong></h4>
 <p>We maintain data handling and storage practices and  procedures designed to ensure the integrity and confidentiality of customer  information. We have security measures implemented in our physical facilities  to protect against the loss, misuse or alteration of information that we have  collected from you at this Website. &nbsp;While  we use reasonable efforts to safeguard the security of your personal  information, transmissions made on or through the Internet are vulnerable to  attack and cannot be guaranteed to be secure.&nbsp;  In addition, submissions made via email are not protected by SSL  (Secured Sockets Layer) technology and are vulnerable to interception during  transmission.</p>
 <p>Nevertheless, when disclosing any personal information  via the Internet, there is always the risk that your information may be  intercepted without our consent and, consequently, can be collected and used by  others without your consent.&nbsp; In  addition, third party sites that are accessed through links on our sites have  separate privacy policies and security measures, and Mellanox is not  responsible or liable for the practices, policies or security measures implemented  on these third party sites.&nbsp; <span class="style1"><em>You  hereby acknowledge that Mellanox is not responsible for any intercepted  information sent via the Internet, and you hereby release us from any and all  claims arising out of or related to the use of intercepted information in any  unauthorized manner</em>.</span></p>
-<h4><strong><em>Changes to this Privacy Policy<br>
-</em></strong></h4>
-<p>We  reserve the right to amend this Privacy Policy at any time without notice.&nbsp; All amended terms shall automatically be  effective as soon as they are posted on the Website.&nbsp; Please review this Privacy Policy often to  review any changes that may affect your use of the Website and how your  information is used.&nbsp; Your continued use  of the Website indicates your assent to any changes to this Privacy Policy. &nbsp;</p>
-<p>Mellanox shall have the right, in its sole discretion,  to change, suspend or discontinue this Website or any aspect of this Website,  generally or with respect to you, at any time, including hours of operation and  availability of any Website feature, database or content without notice and  without liability to you or any third party.</p>
-<h4><strong><em>Opt-out<br>
-</em></strong></h4>
-<p>If you request to receive communications from us, you  will receive information we believe will be of use and interest to you.&nbsp; <strong> </strong></p>
-<h4><strong><em>Children<br>
-</em></strong></h4>
-<p>Children (persons under the age of 18) are not  eligible to use this Website unsupervised, and we ask that children do not  submit any personal information to us.&nbsp;  If you are under the age of 18, you may only use this Website in  conjunction with and under the supervision of your parents or guardians.</p>
+
+
 <h4><strong><em>International Users 
   - Applicable Law</em></strong><br>
 </h4>
 <p>We collect, process, store, disclose and dispose of  personal information that you submit to us in accordance with applicable United  States law. &nbsp;Please note that the personal information you  submit to our website will be transferred to the United States to be processed  by us in order to provide this Website and its services to you or for  such other purposes as set forth in this Privacy Policy. &nbsp;If you are not a resident of the United  States, you acknowledge and agree that we may collect and use your personal  information, as discussed in this privacy policy, outside your resident  jurisdiction. &nbsp;In  addition, we may store such personal information in the United States, outside  your resident jurisdiction. &nbsp;In particular, you are advised that the United  States uses a sectoral model of privacy protection that relies on a mix of  legislation, governmental regulation and self-regulation. &nbsp;Please be aware that United States law may  offer different levels of protection for personal information than may be  available in your country. </p>
+
 <h4><strong><em>Intellectual Property<br>
 </em></strong></h4>
 <p>This Website is protected  by U.S. and international copyright and intellectual property laws.&nbsp; Unless otherwise specified, all information  and screens appearing as part of this Website, including software, services,  documents, text, images, icons, and logos design; the selection, assembly,  arrangement and design thereof, and the code that enables its presentation, are  the sole property of Mellanox (collectively, the “Website Materials”).</p>
 <p>Except as otherwise required by applicable law, no  part of any copyrighted material may be reproduced, modified, translated,  distributed, published, or transmitted by any means, electronic or mechanical,  for any purpose, without our prior, written authorization or, if owned by a  third party, the prior, written authorization of such third party.</p>
 <p>Mellanox, Mellanox logo, BridgeX, ConnectX, CORE-Direct, InfiniBridge, InfiniHost, InfiniScale, PhyX, SwitchX, Virtual Protocol Interconnect and Voltaire are registered trademarks of Mellanox Technologies, Ltd. FabricIT, MLNX-OS, Unbreakable-Link, UFM and Unified Fabric Manager are trademarks of Mellanox Technologies, Ltd. All other trademarks are property of their respective owners.</p>
-<p>Copyright © 1999 - 2012 by Mellanox Technologies, Ltd. &nbsp;All rights reserved.</p>
+
+
+<h4><strong><em>Conflict Minerals Policy Statement<br></em></strong></h4>
+<p>
+Mellanox Technologies Inc. and Mellanox Technologies Ltd  ("Mellanox") are committed to source their raw materials, components and parts from suppliers that respect human rights, integrity and environmental regulations.
+<br>
+<br>
+Mellanox is also committed to comply with the OECD Due Diligence Guidance as well as Section 1502 of the Dodd-Frank Act, which aims to prevent the use of minerals helping directly or indirectly to finance or benefit armed groups in the Democratic Republic of the Congo (DRC) or in adjoining countries ("conflict minerals"). 
+<br>
+<br>
+The U.S. Securities and Exchange Commission (SEC) has adopted rules requiring publicly traded companies to disclose whether they use tantalum, tin, gold or tungsten that originated in the DRC or an adjoining country and if so, to issue a report identifying their products that are not conflict free and their due diligence efforts to determine the source and chain of custody of the metals.
+<br>
+<br>
+Mellanox requires that suppliers whose products contain tantalum, tin, gold and tungsten to provide written evidence of due diligence (EICC-GeSI Conflict Minerals template) that traces these minerals back through the supply chain, and to confirm their source is not from the conflict region - DRC.
+<br>
+<br>
+Mellanox expects suppliers to take similar measures with their suppliers to ensure compliance throughout the supply chain of these "conflict minerals" used in their parts/components/material.
+<br>
+<br>
+Contact for Mellanox conflict Minerals: Yossi Adi (<a href="mailto:yossiad@mellanox.com">yossiad@mellanox.com</a>) 
+<br>
+<br>
+August 2013
+</p>
+
+
+<h4><strong><em>Changes to this Privacy Policy<br>
+</em></strong></h4>
+<p>We  reserve the right to amend this Privacy Policy at any time without notice.&nbsp; All amended terms shall automatically be  effective as soon as they are posted on the Website.&nbsp; Please review this Privacy Policy often to  review any changes that may affect your use of the Website and how your  information is used.&nbsp; Your continued use  of the Website indicates your assent to any changes to this Privacy Policy. &nbsp;</p>
+<p>Mellanox shall have the right, in its sole discretion,  to change, suspend or discontinue this Website or any aspect of this Website,  generally or with respect to you, at any time, including hours of operation and  availability of any Website feature, database or content without notice and  without liability to you or any third party.</p>
+
+<h4><strong><em>Opt-out<br>
+</em></strong></h4>
+<p>If you request to receive communications from us, you  will receive information we believe will be of use and interest to you.&nbsp; <strong> </strong></p>
+
+<h4><strong><em>Children<br>
+</em></strong></h4>
+<p>Children (persons under the age of 18) are not  eligible to use this Website unsupervised, and we ask that children do not  submit any personal information to us.&nbsp;  If you are under the age of 18, you may only use this Website in  conjunction with and under the supervision of your parents or guardians.</p>
+
 <h4><strong><em>Contact Us<br>
 </em></strong></h4>
 <p>If you have any questions about this Privacy Policy,  please contact us at:&nbsp;<a href="mailto:info@mellanox.com">info@mellanox.com</a></p>
-<p><strong><em>Policy last updated</em></strong>:&nbsp; December 14,  2011<br>
-</p>
+
+<p></p>
+
+<p>Copyright © 1999 - 2013 by Mellanox Technologies, Ltd. &nbsp;All rights reserved.</p>
+
 
 
 
@@ -516,226 +710,125 @@
     </div> <!-- container -->
 
 
-
 		<div id="footer-wrapper" class="clear">	
-
 			<div id="footer">		
-
 				<div id="ftr-col-solutions" class="left">
-
 					<ul>
-
 						<li class="ftr-col-title">Solutions</li>
-
 						<li><a href="page/hpc_overview">HPC</a></li>
-
 						<li><a href="page/data_center_overview">Data Center</a></li>
-
 						<li><a href="page/web_2_0_overview">Web 2.0</a></li>
-
 						<li><a href="page/big_data_overview">Big Data</a></li>
-
 						<li><a href="page/cloud_computing">Cloud Computing</a></li>
-
 						<li><a href="page/financial_trading">Financial and Trading</a></li>
-
 						<li><a href="page/storage">Storage</a></li>
-
 						<li><a href="page/federal">Federal</a></li>
-
 						<li><a href="page/embedded">Embedded Applications</a></li>
-
 					</ul>
-
 				</div> <!-- #/ ftr-col-solutions -->
-
 								
-
 				<div id="ftr-col-education" class="left">
-
 					<ul>
-
 						<li class="ftr-col-title">Education</li>
-
 						<li><a href="page/ed_media_overview">Overview</a></li>
-
+						<li><a href="academy">Mellanox Academy</a></li>
 						<li><a href="page/white_papers">InfiniBand White Papers</a></li>
-
 						<li><a href="page/white_papers_en">Ethernet White Papers</a></li>
-
+                        <li><a href="page/white_papers_silicon_photonics">SP White Papers</a></li>
 						<li><a href="page/case_studies">Case Studies</a></li>
-
+						<li><a href="http://community.mellanox.com" target="_blank">Community</a></li>
 						<li><a href="page/podcasts">Podcasts</a></li>
-
 					</ul>
-
 					<ul>
-
-						<li class="ftr-col-title">Events</li>						
-
-						<li><a href="page/events">Tradeshows</a></li>
-                        
-                        <li><a href="page/webinars">Webinars</a></li>
-
+						<li class="ftr-col-title">Events</li>
+						<li><a href="page/webinars">Webinars</a></li>
+						<li><a href="page/events">Conferences</a></li>
 					</ul>
-
 				</div> <!-- #/ ftr-col-education -->
-
 					
-
 				<div id="ftr-col-media" class="left">
-
 					<ul>
-
 						<li class="ftr-col-title">Media</li>
-
 						<li><a href="page/press_releases">Press Releases</a></li>
-
 						<li><a href="page/mellanox_in_the_news">Mellanox in the News</a></li>
-
 						<li><a href="page/infiniband_in_the_news">InfiniBand in the News</a></li>
-
-						<li><a href="page/media_kit">Media Kit</a></li>
-
+                        <li><a href="page/media_kit">Media Kit</a></li>
 						<li><a href="page/newsletter">Sign up for our Newsletter</a></li>
-
+						<li><a href="http://www.mellanox.com/blog/" target="_blank">Mellanox Blog</a></li>
+						
 					</ul>
-
 					<ul>
-
 						<li class="ftr-col-title">Partners</li>
-
-						<li><a href="https://partners.mellanox.com/partner_locator/">Partner Locator</a></li>
-
-						<li><a href="https://partners.mellanox.com/English/">PartnerFirst</a></li>
-
+						<li><a href="https://partners.mellanox.com/partner_locator/" target="_blank">Partner Locator</a></li>
+						<li><a href="https://partners.mellanox.com/English/" target="_blank">PartnerFirst</a></li>
 						<li><a href="page/memberships">Memberships</a></li>
-
+                        <li><a href="page/mellanox_ecosystem">Mellanox Ecosystem</a></li>
 						<li><a href="page/research_partners">Research Partners</a></li>
-
 					</ul>
-
 				</div> <!-- #/ ftr-col-media -->
-
 				
-
 				<div id="ftr-col-about" class="left">	
-
 					<ul>
-
 						<li class="ftr-col-title">About Mellanox</li>
-
 						<li><a href="page/company_overview">Overview</a></li>
-
-						<li><a href="page/career_portal">Careers</a></li>
-
 						<li><a href="page/management">Management</a></li>
-
 						<li><a href="page/board_of_directors">Board of Directors</a></li>
-
 						<li><a href="http://ir.mellanox.com/">Investor Relations</a></li>
-
+						<li><a href="page/careers">Careers</a></li>
 						<li><a href="page/quality">Commitment to Quality</a></li>
-
 						<li><a href="page/contact">Contact Us</a></li>
-
 					</ul>
-
 					</div> <!-- #/ ftr-col-about -->
-
 					
-
 					<div id="ftr-col-support" class="left">
-
 					<ul>				
 			
 						<li class="ftr-col-title">Support</li>
-						<li><a href="page/support_index">Overview</a></li>
-						<li><a href="supportdownloader/">Support Downloader</a></li>
+						<li><a href="page/support_index">Overview/Customer Login</a></li>
+						<li><a href="http://community.mellanox.com/community/support/" target="_blank">Support Community</a></li>
+                        <li><a href="supportdownloader/">Support Downloader</a></li>
 						<li><a href="page/firmware_download">Firmware Download</a></li>
+						<li><a href="page/oem_firmware_download">OEM Firmware Download</a></li>
 						<li><a href="http://support.mellanox.com/SupportWeb/service_center/VF_SerialSearch" target="_blank">Product Documentation</a></li>
 						<li><a href="page/software_overview_ib">InfiniBand/VPI Drivers</a></li>
 						<li><a href="page/software_overview_eth">Ethernet Drivers</a></li>
-
 					</ul>
-
 				</div> <!-- #/ ftr-col-support -->
-
 				
-
 				<br class="clear">
-
 				
-
 				<div id="ftr-copyrt" class="right">
-
-					<p>©2012 Mellanox Technologies. All Rights Reserved &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="page/legal_privacy">Legal &amp; Privacy Policy</a></p>
-
+					<p>©2013 Mellanox Technologies. All Rights Reserved - <a href="page/legal_privacy">Legal/Privacy Policy</a></p>
 				</div> <!-- #/ ftr-copyrt -->
-
 				
-
 				<br><br>
-
 			</div> <!-- #/ footer -->
-
-
 
 		</div> <!-- #/ footer-wrapper -->
 
-		
+		<script type="text/javascript" language="javascript">
+			var _elqQ = _elqQ || [];
+			_elqQ.push(['elqSetSiteId', '1415918069']);
+			_elqQ.push(['elqTrackPageView']);
+        (function () {
+            function async_load() {
+                var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+                s.src = 'https://img.en25.com/i/elqCfg.min.js';
+                var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+            }
+            if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+            else if (window.attachEvent) window.attachEvent('onload', async_load);
+        })();
+		</script>
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-6554164-1']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
 
-<script type="text/javascript" language="javascript">
- function getUrlVars() {
-  var vars = [], hash;
-  var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
-  for (var i = 0; i < hashes.length; i++) {
-   hash = hashes[i].split('=');
-   vars.push(hash[0]);
-   vars[hash[0]] = hash[1];
-  }
-  return vars;
- }
- var _elqQ = _elqQ || [];
- _elqQ.push(['elqSetSiteId', '1415918069']);
- _elqQ.push(['elqTrackPageView','http://www.mellanox.com/page/'+getUrlVars()["pg"]]);
- (function () {
-  function async_load() {
-   var s = document.createElement('script');
-   s.type = 'text/javascript';
-   s.async = true;
-   s.src = 'https://img.en25.com/i/elqCfg.min.js';
-   var x = document.getElementsByTagName('script')[0];
-   x.parentNode.insertBefore(s, x);
-  }
-  if (window.addEventListener) {
-   window.addEventListener('DOMContentLoaded', async_load, false);
-  } else if (window.attachEvent) {
-   window.attachEvent('onload', async_load);
-  }
- })();
-</script>
-
-
-
-
-    
-
-
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-6554164-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-      
 </body></html>
