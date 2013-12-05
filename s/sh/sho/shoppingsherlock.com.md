@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppingsherlock.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602220704id_/http%3A//www.shoppingsherlock.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingsherlock.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205200951id_/http%3A//www.shoppingsherlock.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shopping Sherlock | Finds you the Best Deals and Lowest Prices!
 
