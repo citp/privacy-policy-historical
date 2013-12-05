@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertitechnologygroup.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602205642id_/http%3A//www.vertitechnologygroup.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertitechnologygroup.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205021340id_/http%3A//www.vertitechnologygroup.com/policy) for the most accurate reproduction.*
 
 # Verti Technology Group
 
@@ -86,7 +86,7 @@ UNDER NO CIRCUMSTANCES, INCLUDING BUT NOT LIMITED TO OUR NEGLIGENCE, SHALL WE BE
 
 _Indemnification_. You agree to indemnify, defend, and hold harmless us, our subsidiaries, affiliates and parent companies, and all of our and their directors, officers, employees, agents, information providers, licensors and licensees (collectively, "Indemnified Parties") from and against any and all liability, losses, claims and costs (including, without limitation, attorneys' fees and costs) in connection with any claim arising out of any breach by you of this privacy policy. You will cooperate as fully as reasonably required in our defense of any claim. We reserve the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you and you shall not in any event settle any matter without our written consent.
 
-_Questions and Concerns_. If you believe that we have not followed our privacy policy, or if you have any questions or concerns about our privacy policy or would like a written copy, please feel free to contact us by e-mailing us at [support@vertitechnology.com](mailto:support@vertitechnology.com) or writing to:
+_Questions and Concerns_. If you believe that we have not followed our privacy policy, or if you have any questions or concerns about our privacy policy or would like a written copy, please feel free to contact us by e-mailing us at [customersupport@vertitechnology.com](mailto:customersupport@vertitechnology.com) or writing to:
 
   
 Verti Technology Group  
