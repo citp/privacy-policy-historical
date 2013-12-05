@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memolink.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513043739id_/http%3A//www.memolink.com/index.cfm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memolink.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205084235id_/http%3A//www.memolink.com/index.cfm/privacy-policy) for the most accurate reproduction.*
 
 # Earn cash back rewards, find retail coupons and save at your favorite stores - memolink.com
 
