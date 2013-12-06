@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wephoneapp.com privacy policy that was archived on 2013-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130206143424id_/http%3A//wephoneapp.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wephoneapp.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206183915id_/http%3A//www.wephoneapp.com/privacypolicy.html) for the most accurate reproduction.*
 
 # WePhone | WePhone Privacy Policy
 
