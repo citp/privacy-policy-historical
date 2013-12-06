@@ -1,90 +1,96 @@
-> *The following text is extracted and transformed from the animaljam.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630051322id_/http%3A//www.animaljam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animaljam.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206065828id_/http%3A//www.animaljam.com/privacy) for the most accurate reproduction.*
 
 # Animal Jam - Privacy Statement
 
 ## 
 
-**Last Updated 11.1.2011**
+Animal Jam® Privacy Policy
 
-Hello there! Here at Animal Jam, we are committed to providing a fun, safe, and secure website and game for children, their parents, and everyone else. Our team is dedicated to safeguarding all the personal information we collect online using state of the art technology and strict management procedures.
+Last Updated: 09/25/2013
 
-And we don't stop there. We are also committed to helping parents and children learn how to protect their safety and privacy while exploring other websites on the Internet.
+**This Privacy Policy applies to our sites and apps**
 
-Under the [Children's Online Privacy Protection Act](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html), no website operator can require, as a condition of participation in an activity, that a child under the age of 13 disclose more information than is reasonably necessary for participation in that activity.
+This Policy describes how we treat personal information on the websites where it is located. This includes our websites like www.animaljam.com. It also applies to our mobile site.
 
-In strict compliance with this regulation, we never ask for more information than we need for a particular activity. We also take additional steps to prevent children from disclosing personal information on our website by screening and monitoring all of our interactive areas. If we discover that we have collected information from someone under 13 without parental or guardian consent, we delete it as soon as possible.
+Our privacy practices and children
 
-**Information We Collect, and How We Use It**
+Under the Children's Online Privacy Protection Act, you can review your child’s information by contacting us or using the Parent Dashboard. You may also request that we no longer collect information from your child or have your child's information deleted. To do so, contact us at the email address or phone number below.
 
-When a child registers to become a player of the Animal Jam online community, we require only non-personal information, such as gender and age. We allow freely typed usernames, which are passed through our frequently updated filtering software and then reviewed by our moderators. We believe in promoting the best online safety practices to our players in hopes of helping educate them. As such, we try to promote good practices in personal online privacy on the site and within the game, including safe username and password selection tips, notes about being careful with the info one shares, etc.
+This is the information we collect from and about you and children under 13
 
-In an effort to protect our younger audience's privacy, as well as to partner with the parents of our players, we only request the parent's email addresses in our registration process and in our help ticket system. We require the parent's email address to verify that it is okay for the child to be a player, and the child's email address is never requested nor required. Any communications external to the game are sent to parents, including, but not limited to, newsletters, registration confirmations, billing correspondence, as well as any notification of disciplines or suspensions from the game.
+**Children’s Information.** We collect what is reasonably necessary for children to participate on our site. This might include gender and age. We may also collect usernames or chat logs.
 
-_Parent Dashboard_
+**Parent’s Information.** We collect parent’s email addresses. We may collect this from the child or the parent. We may also collect credit card numbers from parents who have a paid account on our site.
 
-As a resource to the parents of our players, we offer a Parent Dashboard by which the parents of players can manage their child's Animal Jam accounts. In the Parent Dashboard, the parent can login with their own parent email address and then manage all of the child accounts associated to that email address. In addition to seeing session history, initiating a child account password reset, editing chat settings and disabling the child's account, the parent can change their own account password and manage the emails that are sent to their parent email address, both from Animal Jam and our partners.
+**Other information.** If you or your child uses our website, we may collect information about the browser used or user’s IP address. We might look at what site you or your child came from, or visit next. We may collect passive information about what activity the child did or how long the child played.
 
-If we discover a child has used their own email address to contact us, instead using their parent's email address as we requested, these are steps we take in the following situations:
+We collect information in different ways
 
-_If the child sends us an email message with a one-time request for help or information_
+**We collect information directly.** For example, if you or your child create an account with us. We also collect information if you or your child contacts us.
 
-In this case, we respond to the email message once and then delete the email address and any other personal information that came with it. If there is a reason to email the child more than once (for example, if one of our Audience Support Representatives are helping troubleshoot a tech support issue, etc), we make sure we have parental or guardian consent first.
+**We collect information passively.** From time to time we may use common tracking tools (e.g. Google Analytics) for internal purposes.
 
-_If the child subscribes to an email newsletter_
+We use information as disclosed and described here
 
-In this case, we use the email address only for the purpose of sending out the newsletter. In addition, the parent or guardian is able to cancel the newsletter subscription and have the child's information deleted from our records if he or she so chooses.
+**How we use children’s information.** Unless permitted by law, we use children’s information after getting parental consent. In some circumstances we may not request parental consent. For example, if we are only going to use the information one time to respond to a direct request. Or if we are using information obtained from a child to get parental consent. We also use children’s information as described in any request for parental consent.
 
-_If the child submits an online contest entry_
+**How we use parent and guardian information.** We use email addresses to notify parents or guardians that their children have registered on our site. We may also use email addresses to communicate about your child’s account. We have a parent-directed newsletter that we send to people who sign up to receive it. The registration is on our Parent Dashboard.
 
-In this case, the email address is used only to contact the child once with a notice of the winners unless the child has opted, during the contest entry submission process, to subscribe to the email newsletter.
+**We use children and parent’s information to improve our products and services.** We may use information to make our website and products better. We might use information to customize you or your child’s experience with us. For example, we might use information to store your child’s password if he or she registers for our site.
 
-Animal Jam players are invited to submit content for publication within the Animal Jam online game, such as game suggestions, original pictures, and howls (short messages seen by all players) through feedback tools within the game. The Animal Jam Audience Support Team screens all submissions prior to publishing them into the game world in order verify that no personal information is being transmitted. No personal information we receive from children under 13 or otherwise is published to the game. Players may also submit this information to us via email or online forms. In these cases, we do not retain the email addresses, and we use them only if we need to respond once to the player.
+**We use information for security purposes.** We may use information to protect our company, our customers, and our websites.
 
-Players of Animal Jam may have opportunities to provide information about themselves, such as hobbies and favorite movies, which is never personally identifiable or otherwise unsafe. Parents must approve for their children to have the ability to chat with free text within the aforementioned Parent Dashboard; otherwise children are only able to choose from pre-scripted responses or from a limited dictionary of safe words custom built by our moderation team. All communication on Animal Jam at every chat setting is filtered, screened, and monitored by the Animal Jam team.
+**We use information for marketing purposes.** For example, we might send adults information about new site features. We might send adults information about third party offers or products we think you might find interesting. 
 
-**Passive Data Collection**
+**We use information as otherwise disclosed or permitted by law.** For example, we will use information about children as we describe in parental consent requests.
 
-In addition to information we collect as described above, our website and Animal Jam also collect information from all of our visitors and players. Passive information collected on our website includes pages viewed, session duration, and country of origin. We use the information collected through passive technologies like cookies, interaction tools, and web beacons to improve the design and content of our website and our game, to personalize your experience, and to offer products, programs, and services. We also aggregate this information and analyze it to make Animal Jam a better game.
+We may share information with third parties
 
-When one plays Animal Jam, our servers collect certain information about game play, namely the aggregate time spent playing the game, which activities are played, and how often and how many in-game rewards are earned. Tools in the Parent Dashboard let parents and guardians view this information, as we believe in partnering with parents in their child's online experience.
+**We may share children’s information.** We will share children’s information if we’re required to by law. We will share it if Animal Jam transfers ownership. We will also share children’s information with vendors who help us run our site. We do not currently have any platforms that are designed to let children make their information publicly available.
 
-_Cookies_
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who help us send emails and operate our sites. We also share information with vendors to complete payments.
 
-Cookies are small pieces of information stored by web browsers. You can refuse to accept cookies by activating the setting on your web browser; this will either refuse all cookies, or will notify you when a website tries to use a cookie and give you the opportunity to reject the cookie. However, if you select this setting, you may be unable to access certain parts of our website or game. Unless you have adjusted you web browser setting so that it will reject cookies, our system will issue cookies when you login or visit our website.
+**We will share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might share information when we are investigating potential fraud.
 
-_Metadata_
+**We may share information with any successor to all or part of our business.** For example, if part of our business was sold we may give our user information as part of that transaction.
 
-Metadata is data collected and used to help us monitor Animal Jam and provide a better visitor and player experience. Some examples of information and metadata we may collect are IP addresses, connection information (such as browser type, version, time zone setting, browser plug-in type, operating system, and platform), usage history, URL click sequences, and other services or features that are used to interact with our website or Animal Jam.
+**We will share information within the National Geographic family of companies.** For example, we will share parent email addresses if they opt-in to receive information from National Geographic from within the Parent Dashboard.
 
-_Tools_
+**We may share information for other reasons we may describe to you.**
 
-We may use software tools to measure and collect information about the gameplay of Animal Jam including page response times, upload and file transfer errors, and interaction information (such as scrolling, clicks, and mouse-overs).
+You have certain choices about sharing and marketing practices
 
-**Sharing Information**
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you get from us. Don’t worry! Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions, information about your children, or information about your account or your orders.
 
-We will disclose information we maintain as required by law; for example, in response to a court order or subpoena. We also may disclose such information in response to a specific law enforcement agency's request if we believe it is necessary to protect the safety of our users, and our partners and vendors who help us operate Animal Jam and the website.
+**You can control if we share information with National Geographic for its marketing purposes.** To opt out change your profile settings in your Parent Dashboard.
 
-**Changes to Our Website and This Policy**
+**You can control cookies and tracking tools.** Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings. NOTE: If you block cookies on your browser, certain features on our sites may not work.
 
-As we continue to offer our visitors and players new types of content and services, we may modify our practices. However, all information we collect will be treated in accordance with the then current privacy policy at the time the information is collected. We will not change our use of the information in any material way without first getting explicit permission of the players' parents or guardians. Parents are welcome at all times to modify their child's access via their Parent Dashboard or to contact our support team to edit or delete their child's account.
+We use standard security measures
 
-**Third Parties and Links**
+The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
 
-We may use partners, vendors, or contractors on occasion to provide services to our users, such as sending prizes to contest winners. In these cases, we will require them to keep information we share with them confidential, to use it only for the specific services they are performing, and to delete the information after fulfilling those services.
+We filter and moderate our online chat. We also filter usernames to make sure they don’t have personal information. Parents, you can take steps to protect your kids too. To learn more about how to protect your child online, read the helpful [information provided by the FTC](http://www.onguardonline.gov/). Please also read [this bulletin](http://www.onguardonline.gov/articles/0031-protecting-your-childs-privacy-online).
 
-Our website and Animal Jam may contain links to other websites including promotional partners, sponsors, and advertisers whose information practices may be different from ours. While we have strict guidelines governing our partnerships, visitors and players should consult the privacy notices on these third-party websites, since these websites are beyond our control and may follow different procedures. We will display a popup warning the user that they are leaving our site when they click on an external to Animal Jam link on animaljam.com.
+We store information in the United States
 
-**Security**
+Information we maintain may be stored both within and outside of the United States. If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
 
-While no security system is completely safe and secure, we have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. We encourage parents to take steps to protect their children by teaching children safe online practices, as well as using safe practices themselves. To learn more about how to protect your children online, please visit [connectsafely.org](http://www.connectsafely.org/), an Internet safety forum founded by industry experts we have come to trust. We believe that parents and their children both play important parts in keeping Animal Jam safe and secure. Please refer to the [Animal Jam Rules](https://web.archive.org/rules) for more information on our in-game discipline guidelines.
+We may link to other sites on our site we don’t control
 
-**Contacting Us**
+If you click on a link to a third party site, you will be taken to websites we do not control. This includes social media sites. This policy does not apply to the privacy practices of these websites. Read the privacy policy of other websites and insurance carriers carefully. We are not responsible for these third party practices.
 
-If you have any questions, comments, or concerns regarding our privacy policy or practices, please contact us at:
+Feel free to contact us if you have more questions
+
+If you have any questions about this Policy, please email us at privacy@animaljam.com.
+
+You can also write to us or call at:
 
 Animal Jam  
 PO Box 3624  
 Salt Lake City, UT 84110-3624  
-[privacy@animaljam.com](mailto:privacy@animaljam.com)
+Phone: (888) 340-7313
 
-(888) 340-7313
+We may update this Policy
+
+From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
