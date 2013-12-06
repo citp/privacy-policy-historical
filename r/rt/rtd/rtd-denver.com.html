@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rtd-denver.com privacy policy that was archived on 2013-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607023836id_/http%3A//www.rtd-denver.com/Privacy_Policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rtd-denver.com privacy policy that was archived on 2013-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206171418id_/http%3A//www.rtd-denver.com/Privacy_Policy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
        
@@ -29,11 +29,11 @@
     <link rel="stylesheet" href="http://www.rtd-denver.com/css/styles-media.css">
     <link rel="stylesheet" href="http://www.rtd-denver.com/css/simplemodal.css">
 	<!--RTD Stylesheet End-->
-    
-       
        
     <!--RTD jQuery Files Start-->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.rtd-denver.com/scripts/jquery-1.9.1.min.js"></script>
+    <!--[if IE]><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script><![endif]-->
+    <!--[if !IE]> --><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script><!-- <![endif]-->
+    
     <script type="text/javascript" src="http://www.rtd-denver.com/scripts/simple-modal.js"></script>
 	<script type="text/javascript" src="http://www.rtd-denver.com/scripts/jquery.select.js"></script>
     <script type="text/javascript" src="http://www.rtd-denver.com/scripts/mega.js"></script>
@@ -42,6 +42,12 @@
 	<script type="text/javascript" src="http://www.rtd-denver.com/scripts/TradeGothic_700.font.js"></script>
     <script type="text/javascript" src="http://www.rtd-denver.com/scripts/layerslider.kreaturamedia.jquery.js"></script>
 	<script type="text/javascript" src="http://www.rtd-denver.com/scripts/jquery-easing-1.3.js"></script>
+     
+    <!--[if lte IE 8]>
+    <script type="text/javascript" src="http://www.rtd-denver.com/scripts/json2.js"></script>
+	<![endif]-->
+	
+    <script type="text/javascript" src="http://www.rtd-denver.com/scripts/jquery.cookie.js"></script> 
 	<script type="text/javascript" src="http://www.rtd-denver.com/scripts/jquery.html5storage.js"></script>
     
     <!--RTD jQuery Files End-->
@@ -52,8 +58,7 @@
 	<script type="text/javascript" src="http://www.rtd-denver.com/scripts/jquery.hoverIntent.minified.js"></script>
     <script type="text/javascript" src="http://www.rtd-denver.com/scripts/slide-tabs.js"></script>
     <script type="text/javascript" src="http://www.rtd-denver.com/scripts/respond.min.js"></script>
-
-
+	<script type="text/javascript" src="http://www.rtd-denver.com/scripts/messageSliders.js"></script>
 
     <script type="text/javascript" language="javascript">
 	//<![CDATA[ 
@@ -83,10 +88,9 @@
 	<link rel="stylesheet" type="text/css" href="http://www.rtd-denver.com/css/ie7-and-down.css" />
    <![endif]-->
     
-     <!--<script type="text/javascript" src="http://www.rtd-denver.com/<!--scripts/yui/build/menu/menu-min.js"></script>--> 
     <!--RTD Javascript Files End-->
     
-    <!--- YUI styles-- do not remove the container css below it will break yui panel functionality!!!! --->
+    <!-- YUI styles do not remove the container css below it will break yui panel functionality!!!! -->
 		<link rel="stylesheet" type="text/css" href="http://www.rtd-denver.com/scripts/yui/build/container/assets/skins/sam/container.css">
         <script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
  		<script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/container/container-min.js"></script>
@@ -100,6 +104,7 @@
 			// be very careful with it
 			var appServer = "http://www3.rtd-denver.com/";
 			var staticServer = "http://www.rtd-denver.com/";
+			var isMSIE = /*@cc_on!@*/false;
 			//]]>
 	</script>
     <!--Page-specific script end -->
@@ -110,11 +115,10 @@
 	<script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/animation/animation-min.js"></script>
 	<script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/datasource/datasource-min.js"></script>
 	<script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/autocomplete/autocomplete-min.js"></script>
-    <!-- remote data for bus routes -->
-    <script type="text/javascript" src="http://www3.rtd-denver.com/schedules/ajax/getAjaxRouteMenu.action"></script>
-    <script type="text/javascript" src="http://www3.rtd-denver.com/schedules/ajax/getAjaxRouteAutoComplete.action"></script>
-    <script type="text/javascript" src="http://www3.rtd-denver.com/schedules/ajax/getAlertDetourRouteAutoComplete.action"></script>
-	<!-- autocomplete end -->
+  
+  	<!-- autocomplete -->
+  	<script type="text/javascript" src="http://www.rtd-denver.com/scripts/riderAlerts-autocomplete.js"></script>
+	<script type="text/javascript" src="http://www.rtd-denver.com/scripts/schedules-autocomplete.js"></script>
   
   	<!-- Google Analytics Asychronous -->
 	<script type="text/javascript">
@@ -176,48 +180,32 @@
 	</script>
     <!--Google analytics automatic document tracking end-->
 
-    
-    
 </head>
 <body class="yui-skin-sam">
 
-<!-- survey HELLOBAR -->
-<script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script>
-<script type="text/javascript">
-    new HelloBar(53279,94018);
-</script>
-<!-- END HELLOBAR -->
-
-<!-- ALERT HELLOBAR -->
-<script type="text/javascript">
-    new HelloBar(53279,75727);
-</script>
-<!-- END ALERT HELLOBAR -->
-
 <div id="container">
 
-
-<div id="header-background">
-	<div id="main-menu">
-  		<div id="skip-navigation">
-        	<a href="#maincontent"><img src="http://www.rtd-denver.com/images/skip_navigation.gif" alt="Skip Navigation" title="Skip Navigation" border="0"></a>
-        </div>
-        <div id="logo"> 
-        	<a href="http://www.rtd-denver.com/index.shtml"><img src="http://www.rtd-denver.com/images/rtd_logo.png" alt="Regional Transportation District" border="0"></a> 
-        </div>
-  <ul>
-    <li class="mega"> <a href="http://www.rtd-denver.com/Schedules.shtml" rel="1">SCHEDULES</a> </li>
-    <li class="menu-divider"></li>
-    <li class="mega"> <a href="http://www.rtd-denver.com/Services.shtml" rel="2">SERVICES</a> </li>
-    <li class="menu-divider"></li>
-    <li class="mega"> <a href="http://www.rtd-denver.com/RiderTools.shtml" rel="3">RIDER TOOLS</a> </li>
-    <li class="menu-divider"></li>
-    <li class="mega"> <a href="http://www.rtd-denver.com/FaresPasses.shtml" rel="4">FARES &amp; PASSES</a> </li>
-    <li class="menu-divider"></li>
-    <li> <a href="http://www.rtd-denver.com/Fastracks.shtml">FASTRACKS</a> </li>
-    <li class="menu-divider"></li>
-  </ul>
-  <ul>
+	<div id="header-background">
+		<div id="main-menu">
+			<div id="skip-navigation">
+				<a href="#skippednav"><img src="http://www.rtd-denver.com/images/skip_navigation.gif" alt="Skip Navigation" title="Skip Navigation" border="0"></a>
+			</div>
+			<div id="logo"> 
+				<a href="http://www.rtd-denver.com/index.shtml"><img src="http://www.rtd-denver.com/images/rtd_logo.png" alt="Regional Transportation District" border="0"></a> 
+			</div>
+			<ul>
+				<li class="mega"> <a href="http://www.rtd-denver.com/Schedules.shtml" rel="1">SCHEDULES</a> </li>
+				<li class="menu-divider"></li>
+				<li class="mega"> <a href="http://www.rtd-denver.com/Services.shtml" rel="2">SERVICES</a> </li>
+				<li class="menu-divider"></li>
+				<li class="mega"> <a href="http://www.rtd-denver.com/RiderTools.shtml" rel="3">RIDER TOOLS</a> </li>
+				<li class="menu-divider"></li>
+				<li class="mega"> <a href="http://www.rtd-denver.com/FaresPasses.shtml" rel="4">FARES &amp; PASSES</a></li>
+				<li class="menu-divider"></li>
+				<li class="mega"><a href="http://www.rtd-denver.com/Fastracks.shtml" rel="5">FASTRACKS</a></li>
+				<li class="menu-divider"></li>
+			</ul>
+  			<ul>
             	<li>
                     <form action="http://www.rtd-denver.com/GoogleResults.shtml" id="cse-search-box">
                     <input type="hidden" name="cx" value="001634572582684358711:xnnssnpxw_o">
@@ -228,242 +216,276 @@
                  	</form>
                 </li>
             </ul>
-            <div id="service-icons">
-            <ul>
-            	<li id="bus-icon"><a href="http://www.rtd-denver.com/bus.shtml" title="Bus"><span class="hide">Bus</span></a></li>
-                <li id="light-rail-icon"><a href="http://www.rtd-denver.com/lightrail.shtml" title="Light Rail"><span class="hide">Light Rail</span></a></li>
-                <li id="skyride-icon"><a href="http://www.rtd-denver.com/skyride.shtml" title="SkyRide"><span class="hide">SkyRide</span></a></li>
-            </ul>
-            </div>
-            <div class="menu-divider"></div>
-</div>
-</div>
+			<div id="service-icons">
+				<ul>
+					<li id="bus-icon"><a href="http://www.rtd-denver.com/bus.shtml" title="Bus"><span class="hide">Bus</span></a></li>
+					<li id="light-rail-icon"><a href="http://www.rtd-denver.com/lightrail.shtml" title="Light Rail"><span class="hide">Light Rail</span></a></li>
+					<li id="skyride-icon"><a href="http://www.rtd-denver.com/skyride.shtml" title="SkyRide"><span class="hide">SkyRide</span></a></li>
+				</ul>
+			</div>
+			<div class="menu-divider"></div>
+		</div>
+	</div>
 
-<!--Schedules menu-->
-<div class="mega-menu">
-  <div class="cat-menu" id="cat-1-menu" style="height:250px;">
-    <div class="menu-column">
-      <div class="dropdown-content">
-      	<div class="dropdown-schedule">
-        					<!--<div class="dropdown-schedule-icon"> 
-                            	<!- -#include virtual="schedule-finder-menu.shtml"- ->
-                                <h1 class="dropdown-header">Schedule Finder</h1>
-                   			</div>-->
-                   			<div class="dropdown-schedule-icon"> 
-                            	<a href="http://www.rtd-denver.com/Schedules.shtml#bus">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-bus-schedule-icon.png" alt="" border="0">
-                     			<h1 class="dropdown-header">Bus schedule</h1>
-                                </a>
-                   			</div>
-                            <div class="dropdown-schedule-icon"> 
-                            	<a href="http://www.rtd-denver.com/Schedules.shtml#lightrail">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-lightrail-schedule-icon.png" alt="" border="0">
-                     			<h1 class="dropdown-header">Light Rail schedule</h1>
-                                </a>
-                   			</div>
-                            <div class="dropdown-schedule-icon"> 
-                            	<a href="Schedules.shtml#skyride">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-skyride-schedule-icon.png" alt="" border="0">
-                     			<h1 class="dropdown-header">SkyRide schedule</h1>
-                                </a>
-                   			</div>
-                            
-                            <div class="dropdown-schedule-icon">
-                            	<a href="http://www.rtd-denver.com/Schedules.shtml">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-schedule-icon.png" alt="" border="0">
-                     			<h1 class="dropdown-header">See all schedules</h1>
-                                </a>
-                   			</div>	
-                            		
-                            </div>
-                           </div>
-    </div>
-    <div style="clear: both; padding-top: 40px;"></div>
-    <hr> <div class="westrail-menu-coming-soon">
-    	<a href="http://www.rtd-denver.com/WestRailLine.shtml"><img src="http://www.rtd-denver.com/images/menu-westrail-logo.png" style="margin-top: 5px; margin-right: 15px; border: 0;" alt=""><span class="westrail-coming-soon">West Rail Line serving Denver, Lakewood and Golden now open</span></a>
-    </div>
-  </div>
+	<!--Schedules menu-->
+	<div class="mega-menu">
+		<div class="cat-menu" id="cat-1-menu" style="height:190px;">
+			<div class="menu-column">
+				<div class="dropdown-content">
+					<div class="dropdown-schedule">
+						<!--<div class="dropdown-schedule-icon"> 
+							<!- -#include virtual="schedule-finder-menu.shtml"- ->
+							<h1 class="dropdown-header">Schedule Finder</h1>
+						</div>-->
+						<div class="dropdown-schedule-icon"> 
+							<a href="http://www.rtd-denver.com/Schedules.shtml#bus">
+							<img class="icon" src="http://www.rtd-denver.com/images/menu-bus-schedule-icon.png" alt="" border="0">
+							<h1 class="dropdown-header">Bus schedules</h1>
+							</a>
+						</div>
+						<div class="dropdown-schedule-icon"> 
+							<a href="http://www.rtd-denver.com/Schedules.shtml#lightrail">
+							<img class="icon" src="http://www.rtd-denver.com/images/menu-lightrail-schedule-icon.png" alt="" border="0">
+							<h1 class="dropdown-header">Light Rail schedules</h1>
+							</a>
+						</div>
+						<div class="dropdown-schedule-icon"> 
+							<a href="Schedules.shtml#skyride">
+							<img class="icon" src="http://www.rtd-denver.com/images/menu-skyride-schedule-icon.png" alt="" border="0">
+							<h1 class="dropdown-header">SkyRide schedules</h1>
+							</a>
+						</div>
+					
+						<div class="dropdown-schedule-icon">
+							<a href="http://www.rtd-denver.com/Schedules.shtml">
+							<img class="icon" src="http://www.rtd-denver.com/images/menu-schedule-icon.png" alt="" border="0">
+							<h1 class="dropdown-header">See all schedules</h1>
+							</a>
+						</div>	
+					</div>
+				</div>
+			</div>
+		</div>
   
-  <!--Services menu-->
-  <div class="cat-menu" id="cat-2-menu" style="height:250px;">
-  	<div class="menu-column">
-                    	<div class="dropdown-content">
-                        	<div class="dropdown-service">
-                   			<div class="dropdown-services-icon"> 
-                            	<a href="http://www.rtd-denver.com/bus.shtml">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-bus-icon.png" alt="" border="0">
-                     			<h1 class="dropdown-header">Bus</h1>
-                                </a>
-                   			</div>
-
-                   			<div class="dropdown-services-icon"> 
-                            	<a href="http://www.rtd-denver.com/lightrail.shtml">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-lightrail-icon.png" alt="" border="0">
-                     			<h1 class="dropdown-header">Light Rail</h1>
-                                </a>
-                   			</div>
-
-                   			<div class="dropdown-services-icon"> 
-                            	<a href="http://www.rtd-denver.com/skyride.shtml" title="SkyRide">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-skyride-icon.png" alt="" border="0"> 
-                     			<h1 class="dropdown-header">SkyRide</h1>
-                                </a>
-                   			</div>
-
-                   			<div class="dropdown-services-icon"> 
-                            	<a href="http://www3.rtd-denver.com/elbert/PNRMap/index.cfm">
-                                <img src="http://www.rtd-denver.com/images/menu-parknride-icon.png" alt="" class="icon" border="0">
-                     			<h1 class="dropdown-header">Park-n-Ride</h1>
-                                </a>
-                   			</div>
-                            
-                            <div class="dropdown-services-icon"> 
-                            	<a href="http://www3.rtd-denver.com/elbert/SystemMap">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-systemmap-icon.png" alt="" border="0"> 
-                     			<h1 class="dropdown-header">System Map</h1>
-                                </a>
-                            </div> 
- 
-                   			<div class="dropdown-vertical-divider"></div>
-                   			<div class="dropdown-more">
-                     			<h1 class="dropdown-more-header">More Links</h1>
-                     				<ul style="list-style-type: none;">
-                                    	<li class="dropdown-link"><a href="http://www.rtd-denver.com/accessARide.shtml">Access-a-Ride</a></li>
-                                        <li class="dropdown-link"><a href="http://www.rtd-denver.com/Accessibility.shtml">Accessible services</a></li>
-                                        <li class="dropdown-link"><a href="http://www.rtd-denver.com/callNRide.shtml">Call-n-Ride</a></li>
-                       					<li class="dropdown-link"><a href="http://www.rtd-denver.com/FREEMallRide.shtml">FREE MallRide</a></li>
-                                        <li class="dropdown-link"><a href="http://www.rtd-denver.com/seniorRide.shtml">SeniorRide</a></li>
-                       					<li class="dropdown-link"><a href="http://www.rtd-denver.com/ServiceChanges.shtml">Service changes</a></li>				
-                       					<li class="dropdown-link"><a href="http://www.rtd-denver.com/SportsRides.shtml">SportsRides</a></li>
-                     				</ul>
-                   			</div><!--drop down more end-->
-                   		</div>
-                 		</div>
-               		</div>
-                    <div style="clear: both; padding-top: 20px;"></div>
-    				<hr> <div class="westrail-menu-coming-soon">
-    	<a href="http://www.rtd-denver.com/WestRailLine.shtml"><img src="http://www.rtd-denver.com/images/menu-westrail-logo.png" style="margin-top: 5px; margin-right: 15px; border: 0;" alt=""><span class="westrail-coming-soon">West Rail Line serving Denver, Lakewood and Golden now open</span></a>
-    </div>
-  </div>
-  <!--Rider tools menu-->
-  <div class="cat-menu" id="cat-3-menu" style="height:250px;">
-    <div class="menu-column">
-    	<div class="dropdown-ridertools">
-                            <div class="dropdown-ridertools-icon"> 
-                            	<a href="http://www.rtd-denver.com/HowToRide.shtml">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-howtoride-icon.png" alt="" border="0"> 
-                     			<h1 class="dropdown-header">How to Ride</h1>
-                                </a>
-                   			</div>    
-                            <div class="dropdown-ridertools-icon"> 
-                            	<a href="http://www.rtd-denver.com/HowToPark.shtml">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-parking-icon.png" alt="" border="0"> 
-                     			<h1 class="dropdown-header">Parking</h1>
-                                </a>
-                   			</div>    
-                            <div class="dropdown-ridertools-icon"> 
-                            	<a href="http://www3.rtd-denver.com/schedules/alertDetour/getActiveAlertDetour.action">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-rideralerts-icon.png" alt="" border="0">
-                     			<h1 class="dropdown-header">Rider Alerts</h1>
-                                </a>
-                   			</div>    
-                            <div class="dropdown-ridertools-icon"> 
-                            	<a href="http://www.rtd-denver.com/Bike_n_Ride.shtml">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-bikenride-icon.png" alt="" border="0"> 
-                     			<h1 class="dropdown-header">Bike-n-Ride</h1>
-                                </a>
-                   			</div>    
-                            <div class="dropdown-ridertools-icon"> 
-                            	<a href="http://www.rtd-denver.com/MobileTools.shtml">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-mobiletools-icon.png" alt="" border="0"> 
-                     			<h1 class="dropdown-header">Mobile Tools</h1>
-                                </a>
-                   			</div>    
-                   			<div class="dropdown-more-ridertools">
-                     			<h1 class="dropdown-more-header">More Links</h1>
-                     				<ul style="list-style-type: none;">
-                                    	<li class="dropdown-link"><a href="http://www.rtd-denver.com/NewRiders.shtml">New Riders</a></li>
-                                    	<li class="dropdown-link"><a href="http://www.rtd-denver.com/LostandFound.shtml">Lost and Found</a></li>
-                                        <li class="dropdown-link"><a href="http://www.rtd-denver.com/SafetySecurity.shtml">Safety and Security</a></li>
-                     				</ul>
-                   			</div><!--drop down more end-->
-   		</div>
-    </div>
-    <div style="clear: both; padding-top: 45px;"></div>
-    <hr> <div class="westrail-menu-coming-soon">
-    	<a href="http://www.rtd-denver.com/WestRailLine.shtml"><img src="http://www.rtd-denver.com/images/menu-westrail-logo.png" alt="" style="margin-top: 5px; margin-right: 15px; border: 0;"><span class="westrail-coming-soon">West Rail Line serving Denver, Lakewood and Golden now open</span></a>
-    </div>
-  </div>
+		<!--Services menu-->
+		<div class="cat-menu" id="cat-2-menu" style="height:190px;">
+			<div class="menu-column">
+				<div class="dropdown-content">
+					<div class="dropdown-service">
+						<div class="dropdown-services-icon"> 
+							<a href="http://www.rtd-denver.com/bus.shtml">
+							<img class="icon" src="http://www.rtd-denver.com/images/menu-bus-icon.png" alt="" border="0">
+							<h1 class="dropdown-header">Bus</h1>
+							</a>
+						</div>
+						<div class="dropdown-services-icon"> 
+							<a href="http://www.rtd-denver.com/lightrail.shtml">
+							<img class="icon" src="http://www.rtd-denver.com/images/menu-lightrail-icon.png" alt="" border="0">
+							<h1 class="dropdown-header">Light Rail</h1>
+							</a>
+						</div>
+						<div class="dropdown-services-icon"> 
+							<a href="http://www.rtd-denver.com/skyride.shtml" title="SkyRide">
+							<img class="icon" src="http://www.rtd-denver.com/images/menu-skyride-icon.png" alt="" border="0"> 
+							<h1 class="dropdown-header">SkyRide</h1>
+							</a>
+						</div>
+						<div class="dropdown-services-icon"> 
+							<a href="http://www3.rtd-denver.com/elbert/PNRMap/index.cfm">
+							<img src="http://www.rtd-denver.com/images/menu-parknride-icon.png" alt="" class="icon" border="0">
+							<h1 class="dropdown-header">Park-n-Ride</h1>
+							</a>
+						</div>
+						<div class="dropdown-services-icon"> 
+							<a href="http://www3.rtd-denver.com/elbert/SystemMap">
+							<img class="icon" src="http://www.rtd-denver.com/images/menu-systemmap-icon.png" alt="" border="0"> 
+							<h1 class="dropdown-header">System Map</h1>
+							</a>
+						</div>
+						<div class="dropdown-vertical-divider"></div>
+						<div class="dropdown-more-services">
+							<h1 class="dropdown-more-header">More Services</h1>
+								<ul style="list-style-type: none;">
+									<li class="dropdown-link"><a href="http://www.rtd-denver.com/accessARide.shtml">Access-a-Ride</a></li>
+									<li class="dropdown-link"><a href="http://www.rtd-denver.com/Accessibility.shtml">Accessible services</a></li>
+									<li class="dropdown-link"><a href="http://www.rtd-denver.com/callNRide.shtml">Call-n-Ride</a></li>
+									<li class="dropdown-link"><a href="http://www.rtd-denver.com/FREEMallRide.shtml">FREE MallRide</a></li>
+									<li class="dropdown-link"><a href="http://www.rtd-denver.com/seniorRide.shtml">SeniorRide</a></li>
+									<li class="dropdown-link"><a href="http://www.rtd-denver.com/ServiceChanges.shtml">Service changes</a></li>
+								</ul>
+						</div>
+						<div class="dropdown-vertical-divider"></div>
+						<div class="dropdown-more-sportsrides">
+							<h1 class="dropdown-more-header">SportsRides</h1>
+								<ul style="list-style-type: none;">
+									<li class="dropdown-link"><a href="http://www.rtd-denver.com/BroncosRide.shtml">BroncosRide</a></li>
+									<li class="dropdown-link"><a href="http://www.rtd-denver.com/BuffRide.shtml">BuffRide</a></li>
+									<li class="dropdown-link"><a href="http://www.rtd-denver.com/CUvsCSU.shtml">CU vs CSU</a></li>
+									<li class="dropdown-link"><a href="http://www.rtd-denver.com/RaceCure.shtml">Race for the Cure</a></li>
+									<li class="dropdown-link"><a href="http://www.rtd-denver.com/RockiesRide.shtml">RockiesRide</a></li>
+									<li class="dropdown-link"><a href="http://www.rtd-denver.com/RunRide.shtml">RunRide</a></li>				
+									<li class="dropdown-link"><a href="http://www.rtd-denver.com/skiNRide.shtml">Ski-n-Ride</a></li>
+								</ul>
+						</div>
+					</div>
+				</div>
+			</div>	
+		</div>
+	
+		<!--Rider tools menu-->
+		<div class="cat-menu" id="cat-3-menu" style="height:190px;">
+			<div class="menu-column">
+				<div class="dropdown-ridertools">
+					<div class="dropdown-ridertools-icon"> 
+						<a href="http://www.rtd-denver.com/HowToRide.shtml">
+						<img class="icon" src="http://www.rtd-denver.com/images/menu-howtoride-icon.png" alt="" border="0"> 
+						<h1 class="dropdown-header">How to Ride</h1>
+						</a>
+					</div>    
+					<div class="dropdown-ridertools-icon"> 
+						<a href="http://www.rtd-denver.com/HowToPark.shtml">
+						<img class="icon" src="http://www.rtd-denver.com/images/menu-parking-icon.png" alt="" border="0"> 
+						<h1 class="dropdown-header">Parking</h1>
+						</a>
+					</div>    
+					<div class="dropdown-ridertools-icon"> 
+						<a href="http://www3.rtd-denver.com/schedules/alertDetour/getActiveAlertDetour.action">
+						<img class="icon" src="http://www.rtd-denver.com/images/menu-rideralerts-icon.png" alt="" border="0">
+						<h1 class="dropdown-header">Rider Alerts</h1>
+						</a>
+					</div>    
+					<div class="dropdown-ridertools-icon"> 
+						<a href="http://www.rtd-denver.com/Bike_n_Ride.shtml">
+						<img class="icon" src="http://www.rtd-denver.com/images/menu-bikenride-icon.png" alt="" border="0"> 
+						<h1 class="dropdown-header">Bike-n-Ride</h1>
+						</a>
+					</div>
+					<div class="dropdown-ridertools-icon"> 
+						<a href="http://www.rtd-denver.com/MobileTools.shtml">
+						<img class="icon" src="http://www.rtd-denver.com/images/menu-mobiletools-icon.png" alt="" border="0"> 
+						<h1 class="dropdown-header">Mobile Tools</h1>
+						</a>
+					</div>   
+					<div class="dropdown-more-ridertools">
+						<h1 class="dropdown-more-header">More Tools</h1>
+							<ul style="list-style-type: none;">
+								<li class="dropdown-link"><a href="http://www.rtd-denver.com/NewRiders.shtml">New Riders</a></li>
+								<li class="dropdown-link"><a href="http://www.rtd-denver.com/LostandFound.shtml">Lost and Found</a></li>
+								<li class="dropdown-link"><a href="http://www.rtd-denver.com/SafetySecurity.shtml">Safety and Security</a></li>
+							</ul>
+					</div><!--drop down more end-->
+				</div>
+			</div>
+		</div>
   
-  <!--Fares and passes menu-->
-  <div class="cat-menu" id="cat-4-menu" style="height:250px;">
-    <div class="menu-column">
-    	<div class="dropdown-fares">
-        	<div class="dropdown-fares-icon"> 
-                            	<a href="http://www.rtd-denver.com/Fares.shtml">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-fares-icon.png" alt="" border="0"> 
-                     			<h1 class="dropdown-header">Fares</h1>
-                                </a>
-                   			</div>   
-                            <div class="dropdown-fares-icon"> 
-                            	<a href="http://www.rtd-denver.com/DiscountFares.shtml">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-discounts-icon.png" alt="" border="0"> 
-                     			<h1 class="dropdown-header">Discounts</h1>
-                                </a>
-                   			</div>  
-                            <div class="dropdown-fares-icon"> 
-                            	<a href="http://store.rtdpasses.com/">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-purchase-icon.png" alt="" border="0"> 
-                     			<h1 class="dropdown-header">Purchase</h1>
-                                </a>
-                   			</div>    
-                            <div class="dropdown-fares-icon"> 
-                            	<a href="http://www.rtd-denver.com/SM_Main.shtml">
-                                <img class="icon" src="http://www.rtd-denver.com/images/menu-smartcard-icon.png" alt="" border="0"> 
-                     			<h1 class="dropdown-header">Smart Card</h1>
-                                </a>
-                   			</div>    
-                            
-                   			<div class="dropdown-more-tickets">
-                     			<h1 class="dropdown-more-header">Passes &amp; Ticket Books</h1>
-                     				<ul style="list-style-type: none;">
-                                    	<li><a href="http://www.rtd-denver.com/DayPass.shtml">Day Pass</a></li>
-      									<li><a href="http://www.rtd-denver.com/MonthlyPass.shtml">Monthly Pass &amp; ValuPass</a></li>
-     									<li><a href="http://www.rtd-denver.com/TicketBook.shtml">Ticket Book</a></li>
-      									<li><a href="http://www.rtd-denver.com/SalesOutlets.shtml">Sales Outlets</a></li>
-                     				</ul>
-                   			</div><!--drop down more end-->
-                            
-                   			<div class="dropdown-more-fares">
-                     			<h1 class="dropdown-more-header" style="width: 215px;">Corporate &amp; Community Passes</h1>
-                     				<ul style="list-style-type: none;">
-                                    	<li><a href="http://www.rtd-denver.com/EcoPass.shtml">EcoPass</a></li>
-                                        <li><a href="http://www.rtd-denver.com/FlexPass.shtml">FlexPass</a></li>
-                                    	<li><a href="http://www.rtd-denver.com/CollegePass.shtml">CollegePass</a></li>
-		 								<li><a href="http://www.rtd-denver.com/Neco.shtml">Neighborhood EcoPass</a></li>
-                     				</ul><br><br>
-                   			</div><!--drop down more end-->
-                           
-      </div>
-    </div>
-    <div style="clear: both; padding-top: 45px;"></div>
-    <hr> <div class="westrail-menu-coming-soon">
-    	<a href="http://www.rtd-denver.com/WestRailLine.shtml"><img src="http://www.rtd-denver.com/images/menu-westrail-logo.png" alt="" style="margin-top: 5px; margin-right: 15px; border: 0;"><span class="westrail-coming-soon">West Rail Line serving Denver, Lakewood and Golden now open</span></a>
-    </div>
-  </div>
+		<!--Fares and passes menu-->
+		<div class="cat-menu" id="cat-4-menu" style="height:190px;">
+			<div class="menu-column">
+				<div class="dropdown-fares">
+					<div class="dropdown-fares-icon"> 
+						<a href="http://www.rtd-denver.com/Fares.shtml">
+						<img class="icon" src="http://www.rtd-denver.com/images/menu-fares-icon.png" alt="" border="0"> 
+						<h1 class="dropdown-header">Fares</h1>
+						</a>
+					</div>   
+					<div class="dropdown-fares-icon"> 
+						<a href="http://www.rtd-denver.com/DiscountFares.shtml">
+						<img class="icon" src="http://www.rtd-denver.com/images/menu-discounts-icon.png" alt="" border="0"> 
+						<h1 class="dropdown-header">Discounts</h1>
+						</a>
+					</div>  
+					<div class="dropdown-fares-icon"> 
+						<a href="http://store.rtdpasses.com/">
+						<img class="icon" src="http://www.rtd-denver.com/images/menu-purchase-icon.png" alt="" border="0"> 
+						<h1 class="dropdown-header">Purchase</h1>
+						</a>
+					</div>    
+					<div class="dropdown-fares-icon"> 
+						<a href="http://www.rtd-denver.com/SM_Main.shtml">
+						<img class="icon" src="http://www.rtd-denver.com/images/menu-smartcard-icon.png" alt="" border="0"> 
+						<h1 class="dropdown-header">Smart Card</h1>
+						</a>
+					</div>    
+				
+					<div class="dropdown-more-tickets">
+						<h1 class="dropdown-more-header">Passes &amp; Ticket Books</h1>
+							<ul style="list-style-type: none;">
+								<li><a href="http://www.rtd-denver.com/DayPass.shtml">Day Pass</a></li>
+								<li><a href="http://www.rtd-denver.com/MonthlyPass.shtml">Monthly Pass &amp; ValuPass</a></li>
+								<li><a href="http://www.rtd-denver.com/TicketBook.shtml">Ticket Book</a></li>
+								<li><a href="http://www.rtd-denver.com/SalesOutlets.shtml">Sales Outlets</a></li>
+							</ul>
+					</div>        
+					<div class="dropdown-more-fares">
+						<h1 class="dropdown-more-header" style="width: 215px;">Corporate &amp; Community Passes</h1>
+							<ul style="list-style-type: none;">
+								<li><a href="http://www.rtd-denver.com/EcoPass.shtml">EcoPass</a></li>
+								<li><a href="http://www.rtd-denver.com/FlexPass.shtml">FlexPass</a></li>
+								<li><a href="http://www.rtd-denver.com/CollegePass.shtml">CollegePass</a></li>
+								<li><a href="http://www.rtd-denver.com/Neco.shtml">Neighborhood EcoPass</a></li>
+							</ul><br><br>
+					</div>
+				</div>
+			</div>
+		</div>
   
+      
+		
+		<!--Fastracks menu-->
+  	<div class="cat-menu" id="cat-5-menu" style="height: 190px;">
+    	<div class="menu-column">
+    		<div class="dropdown-fastracks">
+            	<div class="dropdown-fastracks-left-column">
+                <h1 class="dropdown-more-header">Transforming the region</h1>
+                	<div class="dropdown-fastracks-icon-left-column">
+                    <p style="margin-left: 15px;"><img class="icon" src="http://www.rtd-denver.com/images/fastracks-icon.jpg" alt="" border="0"></p>
+                    </div>
+                    <div class="dropdown-fastracks-icon-right-column">
+                    <p>FasTracks is a multi-billion dollar transit expansion plan to build 122 miles of new commuter rail and light rail and 18 miles of bus rapid transit throughout the Denver metro area. <br><br>
+<a href="http://www.rtd-denver.com/FastracksMap.shtml">See FasTracks map </a>
+</p>
+
+                    </div>
+                </div>
+                <div class="dropdown-fastracks-right-column">
+                <h1 class="dropdown-more-header" style="width: 215px;">FasTracks Projects</h1>
+                <div class="dropdown-fastracks-left-column">
+                    <ul style="list-style-type: none;">
+						<li><a href="http://www.rtd-denver.com/CentralRailExtension.shtml">Central Rail Extension</a></li>
+						<li><a href="http://www.rtd-denver.com/EastRailLine.shtml">East Rail Line</a></li>
+                        <li><a href="http://www.rtd-denver.com/FreeMetroRide.shtml">Free MetroRide</a></li>
+                        <li><a href="http://www.rtd-denver.com/GoldRailLine.shtml">Gold Line</a></li>
+                        <li><a href="http://www.rtd-denver.com/I225RailLine.shtml">I-225 Rail Line</a></li>
+						<li><a href="http://www.rtd-denver.com/NorthMetroRailLine.shtml">North Metro Rail Line</a></li>   
+					</ul>
+                    </div>
+                    <div class="dropdown-fastracks-right-column">
+                    <ul style="list-style-type: none;">
+                    	<li><a href="http://www.rtd-denver.com/NorthwestRailLine.shtml">Northwest Rail Line</a></li>
+						<li><a href="http://www.rtd-denver.com/SoutheastRailLine.shtml">Southeast Rail Line</a></li>
+						<li><a href="http://www.rtd-denver.com/SouthwestRailLine.shtml">Southwest Rail Line</a></li>
+                        <li><a href="http://www.rtd-denver.com/UnionStation.shtml">Union Station</a></li>
+						<li><a href="http://www.rtd-denver.com/US36BRT.shtml">U.S. 36 Bus Rapid Transit</a></li>
+                        <li><a href="http://www.rtd-denver.com/WestRailLine.shtml"><span style="color:#636363;">see completed projects</span></a></li>
+					</ul>
+                    </div>
+                </div>
+      		</div>
+    	</div>
+  	</div>
+		
       
 </div>
 
 <div class="full-width-column" style="padding-top:30px;">
 
-<noscript>
- <h1 style="font-size:14px; font-color:red;">We've detected that your browser does not have JavaScript enabled, which is required to use the Trip Planner, schedules, interactive maps, and more. Please enable JavaScript to enjoy all of features of rtd-denver.com. </h1>
-  <div style="clear: both;"></div>
-</noscript>
+	<noscript>
+	 	<h1 style="font-size:14px; font-color:red;">We've detected that your browser does not have JavaScript enabled, which is required to use the Trip Planner, schedules, interactive maps, and more. Please enable JavaScript to enjoy all of features of rtd-denver.com. </h1>
+	  	<div style="clear: both;"></div>
+	</noscript>
 
 </div><!-- full width column end-->
-
+<a id="skippednav" name="skippednav" tabindex="-1"></a>
 	
 <script language="javascript" type="text/javascript">
 //<![CDATA[
@@ -565,9 +587,11 @@ RTD, 1600 Blake Street, Denver, CO 80202<br><br>
     <!-- Content End --> 
     
     <!--Right Sidebar Tabs Start-->
-		<div class="tripplanner-sidebar">
-<a class="tripplanner-tab" href="http://www3.rtd-denver.com/tripplanner/start.action">Trip Planner</a>
-    
+		<!--Right Sidebar Tabs Start-->
+   	<div id="sidebar-tabs">
+           <div class="tripplanner-sidebar">
+               <a class="tripplanner-tab" href="http://www3.rtd-denver.com/tripplanner/start.action">Trip Planner</a>
+               
  <!-- Trip Planner -->
 			<div id="trip-planner">
             
@@ -589,59 +613,8 @@ RTD, 1600 Blake Street, Denver, CO 80202<br><br>
 		<script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/dragdrop/dragdrop-min.js"></script>
 		<script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/element/element-min.js"></script>
 
-<script language="javascript" type="text/javascript">
-//<![CDATA[
-var landmarkId = null;
-var originInit = null;
-var destinInit = null;
-var selectId='';
-
-/*jQuery(function(){
-	//jQuery('#googleDay').val(loadDate()); 
-	//loadHourAndSuffix();
-	//loadMinutes();
-});
-*/
-
-function prepareSubmit(){
-	var submitTo = document.getElementById('tripPlannerSelectGoogle').checked;
-	if (submitTo){
-		document.getElementById('tripplannerform').action='http://www3.rtd-denver.com/tripplanner/getGoogleTrip.action';
-		//set target for Google TP form submission to blank to open the Google TP result page in a new window. This is a fix for popup blocker issue.
-		jQuery("#tripplannerform").attr('target', '_blank');
-	}else{
-		document.getElementById('tripplannerform').action='http://www3.rtd-denver.com/tripplanner/getRtdTrip.action';
-		//set target for RTD TP form submission to self to open the RTD TP result page in the same window.
-		jQuery("#tripplannerform").attr('target', '_self');
-	}
-	if ( validateForm() ){
-		document.getElementById('tripplannerform').submit()
-		//set timeout to 5ms to redirect to Google TP Results Response page only if Google TP radio option is checked
-		setTimeout(function(){
-			if (submitTo){
-				window.location.href = staticServer + 'GoogleTPResultsResponse.shtml';
-			}
-		},500);
-		
-	}else{
-		return false;
-	}
-}
-
-function pandemicSettings(){
-	formtripPlannerSelect('rtd');
-}
-
-function planReturnTrip(){
-	dwr.util.setValue('returnTrip',true);
-	prepareSubmit();
-}
-
-//]]>
-</script> 
-		
 	<!-- Google & RTD Trip Planner Start -->
-    <form action="http://www3.rtd-denver.com/tripplanner/getGoogleTrip.action" id="tripplannerform" onsubmit="return prepareSubmit()">
+    <form action="http://www3.rtd-denver.com/tripplanner/getGoogleTrip.action" id="tripplannerform">
         <input type="hidden" name="origin" id="origin" value="intersection">
         <input type="hidden" name="destination" id="destination" value="intersection">
         <input type="hidden" name="returnTrip" id="returnTrip" value="false">
@@ -652,14 +625,15 @@ function planReturnTrip(){
         <input type="radio" name="tripPlannerSelect" id="tripPlannerSelectRtd" value="rtd"> RTD
     </div>
     <hr>
+    <p class="tripplanner-valid">Valid from 8/18/13 to 1/4/14</p>
+   
     <!-- message used to post future trip planner link -->
-    <!--<div id="containerTPMessage"><div id="show2"></div></div>
+   <!-- <div id="containerTPMessage"><div id="show2"></div></div>
     <div class="tripplanner-alert">
-      <a href="http://www3.rtd-denver.com/<!---tripplanner/start.action?tripPlannerServiceType=FUTURE&tripPlannerSelect=rtd">Plan your trip after the April 28 service change &raquo;</a>
     </div>-->
     
     
-    <p><img src="http://www.rtd-denver.com/images/a-icon.png" alt="Start Icon" class="tripplanner-icon"> </p><h3 class="h3-tripplanner-icon">Start from:</h3><p></p>
+    <p><img src="http://www.rtd-denver.com/images/a-icon.png" alt="" class="tripplanner-icon"> </p><h3 class="h3-tripplanner-icon">Start from:</h3><p></p>
         <!-- START ORIGIN BLOCK -->
         <!-- Start origin header tabs -->
         <div id="start-tripplanner-tabs">
@@ -693,7 +667,7 @@ function planReturnTrip(){
         <div id="max1" style="display:none;">
             <div class="walking-distance" style="float:left;">
                 <p>Maximum walking distance: 
-                <select class="select" name="pFromWalkingDistance" id="pFromWalkingDistance" style="width:70px;">
+                <select class="select" name="pFromWalkingDistance" id="pFromWalkingDistance" style="width:80px;">
                     <option value="3">1/8 mile</option>
                     <option value="4" selected="selected">1/4 mile</option>
                     <option value="5">1/2 mile</option>
@@ -707,7 +681,7 @@ function planReturnTrip(){
         <!-- End origin landmark -->
         <!-- END ORIGIN BLOCK -->
         <!-- START DESTINATION BLOCK -->
-        <p><img src="http://www.rtd-denver.com/images/b-icon.png" alt="End Icon" class="tripplanner-icon"> </p><h3 class="h3-tripplanner-icon">End at:</h3><p></p>
+        <p><img src="http://www.rtd-denver.com/images/b-icon.png" alt="" class="tripplanner-icon"> </p><h3 class="h3-tripplanner-icon">End at:</h3><p></p>
         <!-- Start destination header tabs -->
         <div id="end-tripplanner-tabs">
             <ul>
@@ -741,7 +715,7 @@ function planReturnTrip(){
         <div id="max2" style="display:none;">
             <div class="walking-distance" style="float:left;">
                 <p>Maximum walking distance: 
-                <select class="select" name="pToWalkingDistance" id="pToWalkingDistance" style="width:70px;">
+                <select class="select" name="pToWalkingDistance" id="pToWalkingDistance" style="width:80px;">
                     <option value="3">1/8 mile</option>
                     <option value="4" selected="selected">1/4 mile</option>
                     <option value="5">1/2 mile</option>
@@ -755,7 +729,7 @@ function planReturnTrip(){
         <!-- End destination landmark -->
         <!-- END DESTINATION BLOCK -->
         <!-- Start trip planner details -->
-        <p><img src="http://www.rtd-denver.com/images/c-icon.png" alt="End Icon" class="tripplanner-icon"> </p><h3 class="h3-tripplanner-icon">When do you want to leave?</h3><p></p>
+        <p><img src="http://www.rtd-denver.com/images/c-icon.png" alt="" class="tripplanner-icon"> </p><h3 class="h3-tripplanner-icon">When do you want to travel?</h3><p></p>
         <div class="tripplanner-leave">
             <ul>
                 <li><select class="select" name="pWhen" id="pWhen" style="width:90px;">
@@ -767,7 +741,7 @@ function planReturnTrip(){
                 <li>
                 	<!-- Google Day with calendar icon -->
                     <span id="googleDayOption">
-                      <input id="googleDay" type="text" title="Enter the Date in MM/DD/YYYY format" maxlength="10" name="googleDay" style="background-image:url(http://www.rtd-denver.com/images/TripCalendar_BG.gif);width: 85px;height: 28px;cursor:pointer;" class="address-end-input"><div id="containerGoogleDay"><div id="show2" style="z-index:-5;"></div></div>
+                      <input id="googleDay" type="text" title="Enter the Date in MM/DD/YYYY format" maxlength="10" name="googleDay" style="background-image:url(http://www.rtd-denver.com/images/TripCalendar_BG.gif); background-repeat: no-repeat; width: 85px; height: 28px;cursor:pointer;" class="address-end-input"><div id="containerGoogleDay"><div id="show2" style="z-index:-5;"></div></div>
                     </span>
                     <!-- RTD Day with service type list -->
                     <span id="rtdDayOption" style="display:none;"><select class="select" id="rtdDay" name="pDay" style="width:110px;">
@@ -856,7 +830,7 @@ function planReturnTrip(){
                     </select>
                 </li>
                 <li>
-                	<select class="select" maxlength="10" id="ampm" name="ampm" size="1" style="width:50px;">
+                	<select class="select" maxlength="10" id="ampm" name="ampm" size="1" style="width:46px;">
                         <option value="a">AM</option>
                         <option value="p">PM</option>
                     </select>
@@ -875,14 +849,16 @@ function planReturnTrip(){
             </ul>
             </div>
             <div id="preferences" style="display:none; float: left; position: relative; top: -15px; margin-bottom: 20px;">
+            <p>Trip preference: 
                 <select class="select" name="pPreference" id="pPreference" style="width:110px;" size="1">
                     <option value="2" selected="selected">Fastest</option>
                     <option value="1">Fewest transfers</option>
                 </select>
+            </p>
             </div>
             <div class="tripplanner-leave-links">
                 <ul>
-                    <li><a href="#" class="btn-tripplanner-leave" onclick="prepareSubmit();_gaq.push(['_trackEvent', 'Trip Planner', 'Homepage Trip Planner', 'Plan your trip']);">Plan your trip »</a></li>
+                    <li><a href="#" class="btn-tripplanner-leave" id="btn-tripplanner-submit" onclick="_gaq.push(['_trackEvent', 'Trip Planner', 'Homepage Trip Planner', 'Plan your trip']);">Plan your trip »</a></li>
                     <li><a href="http://www3.rtd-denver.com/tripplanner/start.action" onclick="_gaq.push(['_trackEvent', 'Trip Planner', 'Homepage Trip Planner', 'Reset']);">reset</a></li> | 
                     <li><a href="javascript:planReturnTrip();" onclick="_gaq.push(['_trackEvent', 'Trip Planner', 'Homepage Trip Planner', 'Plan return trip']);">plan return trip</a></li> |
                     <li><a href="http://www.rtd-denver.com/TripPlannerTips.shtml">need help?</a></li>
@@ -903,37 +879,36 @@ function planReturnTrip(){
             
             	</div>
 				<!-- Trip Planner End -->
-</div>
-<div class="schedulefinder-sidebar">
-<a class="schedulefinder-tab" href="http://www.rtd-denver.com/Schedules.shtml">Schedule Finder</a>
-    <!-- Schedule Finder -->
+           </div>
+           <div class="schedulefinder-sidebar">
+               <a class="schedulefinder-tab" href="http://www.rtd-denver.com/Schedules.shtml">Schedule Finder</a>
+               <!-- Schedule Finder -->
 			<div id="schedule-finder">
-				<img src="http://www.rtd-denver.com/images/schedule-finder-icon.png" alt="Trip Planner Icon" class="h2-schedulefinder-icon"> <h2 class="h2-right-column"><font class="h2-gray">Schedule</font>Finder</h2>
+				<img src="http://www.rtd-denver.com/images/schedule-finder-icon.png" alt="" class="h2-schedulefinder-icon"> <h2 class="h2-right-column"><font class="h2-gray">Schedule</font>Finder</h2>
 				
 <hr>
-	<form class="schedulefinder" name="scheduleFinder" onsubmit="javascript:validateRoute();return false;" action="http://www3.rtd-denver.com/schedules/findSchedule.action">
-		<div id="myAutoComplete" style="z-index:1"><strong style="line-height: 29px; *padding-top: 6px;">Route:</strong> <input type="text" value="ex: 86x" onfocus="this.value = this.value=='ex: 86x'?'':this.value;" onblur="this.value = this.value==''?'ex: 86x':this.value;" name="routeId" id="routeId" class="schedule-finder-input" onclick="_gaq.push(['_trackEvent', 'Schedule finder', 'Schedule finder search']);" autocomplete="off" style="width: 320px;"><div id="myContainer" style="margin-left:42px; margin-top:10px;width:320px;"></div></div>
+	<form class="schedulefinder" name="scheduleFinder" action="http://www3.rtd-denver.com/schedules/findSchedule.action">
+		<div id="myAutoComplete" class="yui-ac" style="z-index:1"><strong style="line-height: 29px; *padding-top: 6px;">Route:</strong> <input type="text" value="ex: 86x" onfocus="this.value = this.value=='ex: 86x'?'':this.value;" onblur="this.value = this.value==''?'ex: 86x':this.value;" name="routeId" id="routeId" class="schedule-finder-input" onclick="_gaq.push(['_trackEvent', 'Schedule finder', 'Schedule finder search']);" autocomplete="off" style="width: 300px;"><div id="myContainer" style="margin-left:42px; margin-top:10px;width:320px;"></div></div>
 	</form>
     <div id="schedule-finder-text">
 		Don't know the route? Use our <a href="http://www3.rtd-denver.com/elbert/SystemMap/index.cfm">system map</a>
 	</div>
-    <script type="text/javascript" src="http://www.rtd-denver.com/scripts/schedules-autocomplete.js">//]]>
-	</script>
+
 
 			</div>
 <!--Schedule Finder End -->
 
-</div>
-      <div class="rideralerts-sidebar">
-<a class="rideralerts-tab" href="http://www3.rtd-denver.com/elbert/RiderAlerts/index.cfm">Rider Alerts</a>
-    
+           </div>
+           <div class="rideralerts-sidebar">
+               <a class="rideralerts-tab" href="http://www3.rtd-denver.com/elbert/RiderAlerts/index.cfm">Rider Alerts</a>
+               
 <!-- Rider Alerts -->
 	<div id="rider-alerts">
-		<img src="http://www.rtd-denver.com/images/rider-alerts-icon.png" alt="Trip Planner Icon" class="h2-rideralerts-icon"> <h2 class="h2-right-column"><font class="h2-gray">Rider</font>Alerts</h2>
+		<img src="http://www.rtd-denver.com/images/rider-alerts-icon.png" alt="" class="h2-rideralerts-icon"> <h2 class="h2-right-column"><font class="h2-gray">Rider</font>Alerts</h2>
 		
 <hr>
 	<form class="rideralerts" name="riderAlertFinder" onsubmit="javascript:validateRoute2();return false;" action="http://www3.rtd-denver.com/elbert/RiderAlerts/getAlertDetourByRoute.cfm">
-		<div id="myAutoComplete"><strong style="line-height:29px; *padding-top: 6px;">Route:</strong> <input type="text" value="ex: 86x" onfocus="this.value = this.value=='ex: 86x'?'':this.value;" onblur="this.value = this.value==''?'ex: 86x':this.value;" name="alertDetourRouteId" id="alertDetourRouteId" class="rider-alerts-input" onclick="_gaq.push(['_trackEvent', 'Rider alerts', 'Rider alerts search']);" autocomplete="off" style="width: 320px;"><div id="myContainer2" style="margin-left:42px; margin-top:10px;width:320px;"></div></div>
+		<div id="myAutoComplete" class="yui-ac"><strong style="line-height:29px; *padding-top: 6px;">Route:</strong> <input type="text" value="ex: 86x" onfocus="this.value = this.value=='ex: 86x'?'':this.value;" onblur="this.value = this.value==''?'ex: 86x':this.value;" name="alertDetourRouteId" id="alertDetourRouteId" class="rider-alerts-input" onclick="_gaq.push(['_trackEvent', 'Rider alerts', 'Rider alerts search']);" autocomplete="off" style="width: 300px;"><div id="myContainer2" style="margin-left:42px; margin-top:10px;width:320px;"></div></div>
 	</form>
 	<div id="rider-alerts-text">
 		<ul>
@@ -941,14 +916,354 @@ function planReturnTrip(){
         	<li><a href="https://public.govdelivery.com/accounts/COTRANRTD/subscriber/new">subscribe</a></li>
         </ul>
 	</div>
-                        
-    <script type="text/javascript" src="http://www.rtd-denver.com/scripts/riderAlerts-autocomplete.js">//]]>
-	</script>
+                      
 
 	</div>
 <!--Rider Alerts End -->
 
-</div><!--Right Sidebar Tabs End-->
+           </div>
+       </div>
+<!--Right Sidebar Tabs End-->
+   
+<!--Right Sidebar Tabs Vertical Start-->
+   	<div id="sidebar-tabs-vertical">
+           <div class="tripplanner-sidebar-vertical">
+               <a class="tripplanner-tab-vertical" href="http://www3.rtd-denver.com/tripplanner/start.action">Trip Planner</a>
+               
+ <!-- Trip Planner -->
+			<div id="trip-planner">
+            
+            <!--Trip Planner Content Wrapper Start -->
+                <div id="tripplanner-content-wrapper">
+                
+				<img src="http://www.rtd-denver.com/images/trip-planner-icon.png" alt="Trip Planner Icon" class="h2-tripplanner-icon"> <h2 class="h2-right-column"><font class="h2-gray">Trip</font>Planner</h2>
+                <!-- tripplanner -->
+		<script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/element/element-beta-min.js"></script>
+		<script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/button/button-min.js"></script>
+		<script type="text/javascript" src="http://www3.rtd-denver.com/tripplanner/dwr/interface/DWRFacade.js"></script>
+		<!-- compressed dwr files -->
+		<script type="text/javascript" src="http://www.rtd-denver.com/scripts/dwr/engine-min.js"></script>
+		<script type="text/javascript" src="http://www.rtd-denver.com/scripts/dwr/util-min.js"></script>
+		<!-- end tripplanner -->
+		<link rel="stylesheet" type="text/css" href="http://www.rtd-denver.com/scripts/yui/build/calendar/assets/skins/sam/calendar.css">
+		<script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/calendar/calendar-min.js"></script>
+		
+		<script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/dragdrop/dragdrop-min.js"></script>
+		<script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/element/element-min.js"></script>
+
+	<!-- Google & RTD Trip Planner Start -->
+    <form action="http://www3.rtd-denver.com/tripplanner/getGoogleTrip.action" id="tripplannerform">
+        <input type="hidden" name="origin" id="origin" value="intersection">
+        <input type="hidden" name="destination" id="destination" value="intersection">
+        <input type="hidden" name="returnTrip" id="returnTrip" value="false">
+        <input type="hidden" name="tripPlannerServiceName" id="tripPlannerServiceName" value="">
+        <input type="hidden" name="tripPlannerServiceType" value="CURRENT">
+    <div id="trip-planner-radio-selections">
+        <input type="radio" name="tripPlannerSelect" id="tripPlannerSelectGoogle" value="google" style="margin-bottom: 2px; *margin-bottom: 0px;" checked="checked"> Google<br>
+        <input type="radio" name="tripPlannerSelect" id="tripPlannerSelectRtd" value="rtd"> RTD
+    </div>
+    <hr>
+    <p class="tripplanner-valid">Valid from 8/18/13 to 1/4/14</p>
+   
+    <!-- message used to post future trip planner link -->
+   <!-- <div id="containerTPMessage"><div id="show2"></div></div>
+    <div class="tripplanner-alert">
+    </div>-->
+    
+    
+    <p><img src="http://www.rtd-denver.com/images/a-icon.png" alt="" class="tripplanner-icon"> </p><h3 class="h3-tripplanner-icon">Start from:</h3><p></p>
+        <!-- START ORIGIN BLOCK -->
+        <!-- Start origin header tabs -->
+        <div id="start-tripplanner-tabs">
+            <ul>
+                <li><a href="#start-intersection">intersection</a></li>
+                <li><a href="#start-address">address</a></li>
+                <li><a href="#start-landmark">landmark</a></li>								
+            </ul>
+        </div>
+        <!-- Start origin Intersection -->
+        <div id="start-intersection" class="start-tripplanner-tabs-content">
+            <input type="text" name="pFromIntersection1" id="pFromIntersection1" class="left-intersection-input"> &amp;
+            <input type="text" name="pFromIntersection2" id="pFromIntersection2" class="right-intersection-input">
+        </div>
+        <!-- End origin Intersection -->
+        <!-- Start origin address -->
+        <div id="start-address" class="start-tripplanner-tabs-content">
+            <input type="text" name="pFromStreet" id="pFromStreet" class="address-start-input">
+        </div>
+        <!-- End origin address -->
+        <!-- Start origin landmark -->
+        <div id="start-landmark" class="start-tripplanner-tabs-content">
+            <select class="select-landmark" id="landmarkOriginCategories" name="landmarkOriginCategories">
+            </select>  
+            <br>
+            <br>        
+            <select class="select-landmark" name="landmarkOriginLandmarks" id="landmarkOriginLandmarks">
+            </select>
+        </div>  
+        <!-- Start origin walking distance -->
+        <div id="max1" style="display:none;">
+            <div class="walking-distance" style="float:left;">
+                <p>Maximum walking distance: 
+                <select class="select" name="pFromWalkingDistance" id="pFromWalkingDistance" style="width:80px;">
+                    <option value="3">1/8 mile</option>
+                    <option value="4" selected="selected">1/4 mile</option>
+                    <option value="5">1/2 mile</option>
+                    <option value="6">1 mile</option>
+                </select>
+                </p>
+            </div>
+        </div>
+        <div style="clear: both;"></div>
+        <!-- End origin walking distance -->
+        <!-- End origin landmark -->
+        <!-- END ORIGIN BLOCK -->
+        <!-- START DESTINATION BLOCK -->
+        <p><img src="http://www.rtd-denver.com/images/b-icon.png" alt="" class="tripplanner-icon"> </p><h3 class="h3-tripplanner-icon">End at:</h3><p></p>
+        <!-- Start destination header tabs -->
+        <div id="end-tripplanner-tabs">
+            <ul>
+                <li><a href="#end-intersection">intersection</a></li>
+                <li><a href="#end-address">address</a></li>
+                <li><a href="#end-landmark">landmark</a></li>				
+            </ul>
+        </div>
+        <!-- End destination header tabs -->
+        <!-- Start destination intersection -->
+        <div id="end-intersection" class="end-tripplanner-tabs-content">
+            <input type="text" name="pToIntersection1" id="pToIntersection1" class="left-intersection-input"> &amp;
+            <input type="text" name="pToIntersection2" id="pToIntersection2" class="right-intersection-input">
+        </div>
+        <!-- End destination intersection -->
+        <!-- Start destination address -->
+        <div id="end-address" class="end-tripplanner-tabs-content">
+            <input type="text" name="pToStreet" id="pToStreet" class="address-end-input">
+        </div>
+        <!-- End destination address -->
+        <!-- Start destination landmark -->
+        <div id="end-landmark" class="end-tripplanner-tabs-content">
+            <select class="select-landmark" id="landmarkDestinCategories" name="landmarkDestinCategories">
+            </select>  
+            <br>
+            <br>        
+            <select class="select-landmark" name="landmarkDestinLandmarks" id="landmarkDestinLandmarks">
+            </select>
+        </div>
+        <!-- Start destination walking distance -->
+        <div id="max2" style="display:none;">
+            <div class="walking-distance" style="float:left;">
+                <p>Maximum walking distance: 
+                <select class="select" name="pToWalkingDistance" id="pToWalkingDistance" style="width:80px;">
+                    <option value="3">1/8 mile</option>
+                    <option value="4" selected="selected">1/4 mile</option>
+                    <option value="5">1/2 mile</option>
+                    <option value="6">1 mile</option>
+                </select>
+                </p>
+            </div>
+        </div>
+        <div style="clear: both;"></div>
+        <!-- End destination walking distance -->
+        <!-- End destination landmark -->
+        <!-- END DESTINATION BLOCK -->
+        <!-- Start trip planner details -->
+        <p><img src="http://www.rtd-denver.com/images/c-icon.png" alt="" class="tripplanner-icon"> </p><h3 class="h3-tripplanner-icon">When do you want to travel?</h3><p></p>
+        <div class="tripplanner-leave">
+            <ul>
+                <li><select class="select" name="pWhen" id="pWhen" style="width:90px;">
+                        <option value="dep" selected="selected">Leave at...</option>
+                        <option value="arr">Arrive at...</option>
+                    </select>
+                </li>
+                
+                <li>
+                	<!-- Google Day with calendar icon -->
+                    <span id="googleDayOption">
+                      <input id="googleDay" type="text" title="Enter the Date in MM/DD/YYYY format" maxlength="10" name="googleDay" style="background-image:url(http://www.rtd-denver.com/images/TripCalendar_BG.gif); background-repeat: no-repeat; width: 85px; height: 28px;cursor:pointer;" class="address-end-input"><div id="containerGoogleDay"><div id="show2" style="z-index:-5;"></div></div>
+                    </span>
+                    <!-- RTD Day with service type list -->
+                    <span id="rtdDayOption" style="display:none;"><select class="select" id="rtdDay" name="pDay" style="width:110px;">
+                        <option value="1">Monday - Friday</option>
+                        <option value="2">Saturday</option>
+                        <option value="3">Sunday/Holiday</option>
+                    </select></span>
+                </li>
+                             
+                <li><select class="select" maxlength="10" id="hour" name="hour" size="1" style="width:45px;">
+                        <option value="01">01</option>
+                        <option value="02">02</option>
+                        <option value="03">03</option>
+                        <option value="04">04</option>
+                        <option value="05">05</option>
+                        <option value="06">06</option>
+                        <option value="07">07</option>
+                        <option value="08">08</option>
+                        <option value="09">09</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                    </select>
+                </li> :
+                <li><select class="select" maxlength="10" id="minute" name="minute" size="1" style="width:50px;"> 
+                        <!--<option value="00">00</option>
+                        <option value="01">01</option>
+                        <option value="02">02</option>
+                        <option value="03">03</option>
+                        <option value="04">04</option>
+                        <option value="05">05</option>
+                        <option value="06">06</option>
+                        <option value="07">07</option>
+                        <option value="08">08</option>
+                        <option value="09">09</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="16">16</option>
+                        <option value="17">17</option>
+                        <option value="18">18</option>
+                        <option value="19">19</option>
+                        <option value="20">20</option>
+                        <option value="21">21</option>
+                        <option value="22">22</option>
+                        <option value="23">23</option>
+                        <option value="24">24</option>
+                        <option value="25">25</option>
+                        <option value="26">26</option>
+                        <option value="27">27</option>
+                        <option value="28">28</option>
+                        <option value="29">29</option>
+                        <option value="30">30</option>
+                        <option value="31">31</option>
+                        <option value="32">32</option>
+                        <option value="33">33</option>
+                        <option value="34">34</option>
+                        <option value="35">35</option>
+                        <option value="36">36</option>
+                        <option value="37">37</option>
+                        <option value="38">38</option>
+                        <option value="39">39</option>
+                        <option value="40">40</option>
+                        <option value="41">41</option>
+                        <option value="42">42</option>
+                        <option value="43">43</option>
+                        <option value="44">44</option>
+                        <option value="45">45</option>
+                        <option value="46">46</option>
+                        <option value="47">47</option>
+                        <option value="48">48</option>
+                        <option value="49">49</option>
+                        <option value="50">50</option>
+                        <option value="51">51</option>
+                        <option value="52">52</option>
+                        <option value="53">53</option>
+                        <option value="54">54</option>
+                        <option value="55">55</option>
+                        <option value="56">56</option>
+                        <option value="57">57</option>
+                        <option value="58">58</option>
+                        <option value="59">59</option> -->                   				
+                    </select>
+                </li>
+                <li>
+                	<select class="select" maxlength="10" id="ampm" name="ampm" size="1" style="width:46px;">
+                        <option value="a">AM</option>
+                        <option value="p">PM</option>
+                    </select>
+                </li>
+            </ul>
+            <div id="includeRoutes" style="display:none">
+            <ul>
+            <li>
+            <!--<label for="include-routes" style="margin-top: 0px; font-size: 10px;">Include routes (ex: 15, 40)</label><br />-->
+                <input type="text" name="pIncludeDataField" id="pIncludeDataField" value="" class="routes-input" style="width:120px; position: relative; z-index: 10; height: 27px; font-size: 11px; font-weight: normal; margin-right: 6px; display:none;">
+			</li>
+            <li>
+             <!--<label for="exclude-routes" style="margin-left: 0px; position: relative; top: 0px; font-size: 10px;">Exclude routes (ex: 7, 21)</label><br />-->
+                <input type="text" name="pExcludeDataField" id="pExcludeDataField" value="" class="routes-input" style="position: relative; z-index: 10; width:120px; height: 27px; font-size: 11px; font-weight: normal; margin-right: 6px; margin-bottom: 3px; top: 0px; display:none;">
+            </li>
+            </ul>
+            </div>
+            <div id="preferences" style="display:none; float: left; position: relative; top: -15px; margin-bottom: 20px;">
+            <p>Trip preference: 
+                <select class="select" name="pPreference" id="pPreference" style="width:110px;" size="1">
+                    <option value="2" selected="selected">Fastest</option>
+                    <option value="1">Fewest transfers</option>
+                </select>
+            </p>
+            </div>
+            <div class="tripplanner-leave-links">
+                <ul>
+                    <li><a href="#" class="btn-tripplanner-leave" id="btn-tripplanner-submit" onclick="_gaq.push(['_trackEvent', 'Trip Planner', 'Homepage Trip Planner', 'Plan your trip']);">Plan your trip »</a></li>
+                    <li><a href="http://www3.rtd-denver.com/tripplanner/start.action" onclick="_gaq.push(['_trackEvent', 'Trip Planner', 'Homepage Trip Planner', 'Reset']);">reset</a></li> | 
+                    <li><a href="javascript:planReturnTrip();" onclick="_gaq.push(['_trackEvent', 'Trip Planner', 'Homepage Trip Planner', 'Plan return trip']);">plan return trip</a></li> |
+                    <li><a href="http://www.rtd-denver.com/TripPlannerTips.shtml">need help?</a></li>
+                </ul>
+            </div>
+        </div>
+    	<input type="submit" style="visibility:hidden">
+        <!-- End Trip Planner Details -->
+        
+    </form>
+    <!--Google & RTD Trip Planner End -->
+    <br style="clear:both;">
+
+<script src="http://www.rtd-denver.com/scripts/googleTPCalendar.js" type="text/javascript">//]]>
+</script>
+				</div>
+                <!-- Trip Planner Content Wrapper End -->
+            
+            	</div>
+				<!-- Trip Planner End -->
+           </div>
+           <div class="schedulefinder-sidebar-vertical">
+               <a class="schedulefinder-tab-vertical" href="http://www.rtd-denver.com/Schedules.shtml">Schedule Finder</a>
+               <!-- Schedule Finder -->
+			<div id="schedule-finder">
+				<img src="http://www.rtd-denver.com/images/schedule-finder-icon.png" alt="" class="h2-schedulefinder-icon"> <h2 class="h2-right-column"><font class="h2-gray">Schedule</font>Finder</h2>
+				
+<hr>
+	<form class="schedulefinder" name="scheduleFinder" action="http://www3.rtd-denver.com/schedules/findSchedule.action">
+		<div id="myAutoComplete" class="yui-ac" style="z-index:1"><strong style="line-height: 29px; *padding-top: 6px;">Route:</strong> <input type="text" value="ex: 86x" onfocus="this.value = this.value=='ex: 86x'?'':this.value;" onblur="this.value = this.value==''?'ex: 86x':this.value;" name="routeId" id="routeId" class="schedule-finder-input" onclick="_gaq.push(['_trackEvent', 'Schedule finder', 'Schedule finder search']);" autocomplete="off" style="width: 300px;"><div id="myContainer" style="margin-left:42px; margin-top:10px;width:320px;"></div></div>
+	</form>
+    <div id="schedule-finder-text">
+		Don't know the route? Use our <a href="http://www3.rtd-denver.com/elbert/SystemMap/index.cfm">system map</a>
+	</div>
+
+
+			</div>
+<!--Schedule Finder End -->
+
+           </div>
+           <div class="rideralerts-sidebar-vertical">
+               <a class="rideralerts-tab-vertical" href="http://www3.rtd-denver.com/elbert/RiderAlerts/index.cfm">Rider Alerts</a>
+               
+<!-- Rider Alerts -->
+	<div id="rider-alerts">
+		<img src="http://www.rtd-denver.com/images/rider-alerts-icon.png" alt="" class="h2-rideralerts-icon"> <h2 class="h2-right-column"><font class="h2-gray">Rider</font>Alerts</h2>
+		
+<hr>
+	<form class="rideralerts" name="riderAlertFinder" onsubmit="javascript:validateRoute2();return false;" action="http://www3.rtd-denver.com/elbert/RiderAlerts/getAlertDetourByRoute.cfm">
+		<div id="myAutoComplete" class="yui-ac"><strong style="line-height:29px; *padding-top: 6px;">Route:</strong> <input type="text" value="ex: 86x" onfocus="this.value = this.value=='ex: 86x'?'':this.value;" onblur="this.value = this.value==''?'ex: 86x':this.value;" name="alertDetourRouteId" id="alertDetourRouteId" class="rider-alerts-input" onclick="_gaq.push(['_trackEvent', 'Rider alerts', 'Rider alerts search']);" autocomplete="off" style="width: 300px;"><div id="myContainer2" style="margin-left:42px; margin-top:10px;width:320px;"></div></div>
+	</form>
+	<div id="rider-alerts-text">
+		<ul>
+        	<li><a href="http://www3.rtd-denver.com/elbert/RiderAlerts/index.cfm">see all alerts</a></li> |
+        	<li><a href="https://public.govdelivery.com/accounts/COTRANRTD/subscriber/new">subscribe</a></li>
+        </ul>
+	</div>
+                      
+
+	</div>
+<!--Rider Alerts End -->
+
+           </div>
+       </div>
+<!--Right Sidebar Tabs End-->
+
+<!--Right Sidebar Tabs End-->
     
     </div>
     <!--Right Sidebar Wrapper End-->
@@ -964,16 +1279,16 @@ function planReturnTrip(){
 <div id="footer">
 	<div id="footer-top">
     	<div id="footer-top-content">
-			<div id="footer-address"> 
-            	<img src="http://www.rtd-denver.com/images/rtd-footer-logo.png" alt=""> 
+			<address> 
+            	<img src="http://www.rtd-denver.com/images/rtd-footer-logo.png" alt="RTD"> 
                 <br>
          		<br>
-         		<font color="#e51937"><b>Regional Transportation District</b></font>
+         		<b>Regional Transportation District</b>
                 <br>
          		1600 Blake Street
                 <br>
          		Denver, CO 80202 
-			</div><!-- address end-->
+			</address>
          	<div id="footer-customer-support">
 				<h5>Customer Support</h5>
          		<hr class="footer">
@@ -1050,28 +1365,6 @@ function planReturnTrip(){
 </div><!--Footer End-->
 
 <!-- end flexpass footer code -->
-
-<script type="text/javascript">
-    new HelloBar( '<span>We&rsquo;ve got new transit options coming your way</span> <a href="#">View W and W/C/E schedules</a>', {
-        showWait: 1000,
-		positioning: 'push',
-		tabSide: 'right',
-		textColor: '#ffffff',
-		linkColor: '#454545',
-		barColor: '#5D5D5D',
-		borderColor: '#CCCCCC',
-		borderSize: 2,
-		texture: 'dark-gradient',
-		helloBarLogo: false,
-		wiggleWait: 1000000,
-		fontWeight: '400',
-		fontStyle: 'normal',
-		fontFamily: 'Helvetica, Arial, san-serif',
-		shadow: true,
-		transition: 'easeOut',
-		forgetful: true,
-    }, 1.0 );
-</script>
 
 
 
