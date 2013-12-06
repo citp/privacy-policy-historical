@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the patriotmemory.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105185230id_/http%3A//www.patriotmemory.com/company/index.jsp%3Floc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotmemory.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206193437id_/http%3A//www.patriotmemory.com/company/index.jsp%3Floc%3Dprivacy) for the most accurate reproduction.*
 
 # 
+
+  
+
 
 To be the vendor of choice for the computer and consumer electronic industries with a commitment to service and quality. Commitment, focus on innovation in technology, product quality, and customer satisfaction are the key enablers of our future success. Established in 1985, Patriot Memory builds a full range of memory module and flash memory products, offering a perfect blend of quality and value. Patriot products include Extreme Performance (EP), Signature Lines (SL) and Flash Memory solutions (FM). 
 
@@ -59,66 +62,138 @@ Fax: **+886 2 8228 0339**
 
 Thank you for your interest in Patriot Memory! We are excited that you are interested in our company.
 
-We do not currently have any open positions at Patriot Memory. Please check back soon or send your resume to us at [careers@patriotmem.com](mailto:careers@patriotmem.com).
+To submit your resume, e-mail your resume as an attachment or formatted as ASCII to [careers@patriotmem.com](mailto:careers@patriotmem.com).If you are interested in a specific position listed, please include the Job Title and/or Job Code found on the job posting in your e-mail.
 
 If you have any questions regarding employment with Patriot Memory, please e-mail [careers@patriotmem.com](mailto:careers@patriotmem.com).
 
 Patriot Memory is an equal opportunity employer.
 
-**Fremont, California, USA, July 12th, 2012** \- Patriot Memory, a global pioneer in high-performance memory, NAND flash, storage and enthusiast computer products today announces the launch of the new Intel® Extreme Masters Limited Edition DDR3 Memory. Built exclusively for gamers, the Intel® Extreme Masters Limited Edition will provide the rock solid performance and stability needed for today’s most extreme gaming systems.
+  * Regional Sales Manager, Russia
 
-Designed specifically to take full advantage of the performance capabilities of the newest 2nd and 3rd generation Intel® Core™ processor family, the Intel® Extreme Masters Limited Edition is fully certified for Intel® XMP 1.3 delivering frequencies of 1600MHz, 1866MHz, and 2133MHz*. Featuring the same great custom high performance heat shield as the Viper III, the Intel® Extreme Masters Limited Edition will provide superior thermal protection when used during long and demanding gaming sessions. The new Intel® Extreme Masters Limited Edition modules will be available in dual and quad-channel kits and offered in 8GB, 16GB, and 32GB capacities.
 
-“With our global support of Intel® Extreme Masters as the exclusive memory sponsor, it’s with great excitement that we bring to market the Intel® Extreme Masters Limited Edition Memory, said Johnny Neang, Patriot Memory’s Marketing Director. “We’ve designed these kits so gamers can unlock the full potential of Intel’s® 2nd or 3rd generation Core™ processors for incredible in game performance.”
 
-_Features_
 
--        Available in 8GB, 16GB, & 32GB kits  
--        DIMM Type 240-Pin NON-ECC UDIMM  
--        Voltage 1.5V  
--        Available Frequencies: 1600MHz, 1866MHz, 2133MHz  
--        Compatible with Intel® 6 & 7 series platforms  
--        XMP 1.3 certified
+**Job Summary:  **
 
-“The Limited Edition Intel® Extreme Masters memory modules from Patriot Memory symbolizes our collective commitment to the Enthusiast PC market segment, as well as the continued focus and dedication to the world of eSports”, said Steve R. Peterson, Intel’s® Channel Client Marketing Director.  “These high-performance memory modules are an excellent enhancement to any Intel® 2nd or 3rd Generation, fully unlocked Core™ i5 or Core™ i7 “K” Sku or Intel® Core™ i7 Extreme Edition system...  If you haven’t yet had the opportunity to experience the benefits that state of the art new technology can deliver, we invite you to participate live at one of our Season 7 Intel® Extreme Masters worldwide tournaments or participate with us live on-line…  You can get the latest schedule and list of fabulous events, from [www.Intelextrememasters.com](http://www.intelextrememasters.com/)”, said Peterson.
+Regional Sales Manager maintains and expands relationships with strategically important large customers. Initially assigned to three to five named customers, the Regional Sales Manager is responsible for increasing sales revenue quarter over quarter. The Regional Sales Manager reports to the VP Sales for the company.
 
-"This is the first time that we’ve created a limited Edition series of tournament grade gaming hardware with a partner;" says Michal Blicharz, Director of Pro Gaming at Turtle Entertainment GmbH. " Intel® Extreme Masters branded memory takes our cooperation with Patriot Memory to the next level."
+**Specific Job Responsibilities:**   
 
-About Patriot Memory
+-Establish productive, professional relationships with key personnel in assigned customer accounts -Meet assigned targets for profitable sales volume and strategic objectives in assigned accounts
 
-Patriot Memory designs, manufactures and markets high performance, enthusiast memory modules, flash products, and computing technologies. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot Memory sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.
+-Co-ordinate local Marketing activities tied to the sales goals for the region
 
-All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.
+-Develop brand presence in channel retail stores: produce and distribute POS, dealers' in-store promotions
 
-*Speeds are guaranteed based on module specification with BIOS enabled XMP profiles.
+-Provide critical thinking to derive maximum sales from customers’ accounts
 
-FREMONT, CALIF., USA – July 17th , 2012 - Patriot Memory, a global pioneer in high-performance memory, NAND flash, storage, and enthusiast computer products today launches its new wireless personal storage enclosure the Gauntlet Node. Previously announced as the Gauntlet Wifi, the Gauntlet Node will allow users to break free from the hardware limited storage options offered in today’s most popular tablets, smart phones, and laptops by offering up to 1 terabyte of untethered external storage.
+-Provide competitive analysis for market pricing and internal cost analysis for the designated account
 
-Providing an extremely flexible wireless storage solution, the Gauntlet Node can be fitted with any new or used 2.5” mechanical hard drive or solid state drive and is hot swappable for no hassle use with multiple drives. Using Gauntlet Connect, available through Google Play, Amazon App Store, and iTunes, the Gauntlet Node is capable of sharing or streaming to 8 connected devices for excellent on the go productivity or entertainment. Powered by a lithium ion battery, the Gauntlet Node can stream movies, music, and photos or transfer data continuously for up to 5.5 hours.
+-Develop and execute a sales and marketing plan with goals for each customer account with clear understanding of TAM by product line
 
-“The Gauntlet Node is set to provide the most flexible wireless storage solutions available”, says Mike Kroll, Patriot Memory’s Director of Peripherals Product Management. “With a DIY form factor that supports standard 2.5” HDDs and SSDs and includes built in features like Wifi and USB 3.0 connectivity, the Gauntlet Node is an amazingly powerful way to expand the storage of popular mobile devices like smart phones, tablets, and ultrabook class laptops.”
+-Build run rates and monitor stock levels closely within all accounts to ensure maximum sales potential
 
-The Gauntlet Node is shipping now to select United States retailers and will be available for an MSRP of $99.99. Availability in regions outside of the United States will be announced soon.
+-Be able to measure performance accurately weekly / monthly / quarterly
 
-General details
+-Run promotions when and where required
 
-•     DIY external enclosure
+-Provide adequate training to resellers on new products
 
-•     USB 3.0 external data port
+**Requirements:**
 
-•     Internal SATA interface
+-Higher education
 
-•     Built in WiFi 802.11 a/b/g/n
+-Fluent English, native Russian -5+ years in sales role, developing and maintaining customer accounts
 
-•     WPA security
+-Good skills in people management and coordination tasks
 
-•     150 Mbit transfer rate
+-Experience in B2B sales
 
-•     Lithium-ion polymer for up to 5 hours of continuous streaming
+-Thorough knowledge of the local business market/relevant channel -Sales/Customer focus
 
-•     Available iOS & Android app for data transfer and sharing
+-Strong commercial awareness and aptitude
 
-•     Supports IE 6 or higher, Firefox, and Safari for web access
+-Willingness to travel local within the region
+
+-Excellent leadership/people management abilities
+
+-Interpersonal communication skills / ability to manage and work in a team
+
+-Ability to work from a home office and be self-motivated and driven
+
+**Specific Task and Activities:**
+
+-Develop a Customer Profile on all major customers
+
+      -Customer Name, Address, Corp Revenue, Size
+
+      -Key Management – names, email addresses and contact #s
+
+      -Sales Revenue with Patriot - YOY by month with growth %
+
+      -Product line segmentation – TAM, top 3 competitors, market
+
+-Daily calls with all major customer accounts
+
+      -Manage inventory and sell through on all products
+
+      -Develop and Monitor Promotions for coming week/month – aligning inventory and orders
+
+      -Competitive pricing and product discussion
+
+-Weekly one-on-one meeting with direct manager going over the following items:
+
+       -Sales Revenue versus Plan by product line
+
+       -Sales out report analysis on each major product line
+
+            -Top runners – sales out, inventory, Weeks On Hand (WOH), pricing competitiveness, exposure/promotions
+
+       -Promotional Calendar
+
+            -Work with Product Marketing Managers to define the promotions for the following month with all major accounts
+
+            -Must be completed in a timely fashion per the requirements of the sales channel - lead time of retail to execute MIRs or ad vehicles
+
+**Compensation:**
+
+This is a commissioned position, with commission structure based on revenue results, and a supporting base salary.
+
+Patriot Memory LLC is an Equal Opportunity Employer
+
+Patriot's FUEL+ Mobile Rechargeable Battery to power re-charging station at O.co Coliseum for Oakland A's fans in need of charge
+
+Fremont, California, USA, August 20, 2013 – Patriot Memory, a global pioneer in high-performance memory, NAND flash, storage, accessories and enthusiast computer products today announces a new marketing partnership with the Oakland Athletics. As smartphones and tablets have become an essential part of everyday life—as well as fan favorites for checking sports stats and fantasy teams at the ball field—keeping devices powered up has become more and more of a challenge. For A's fans looking to power up their favorite mobile devices to stay on top of their game, Patriot will feature their new faster charging 2.5A FUEL+ mobile rechargeable batteries at a charging station at the O.co Coliseum during select games during the remainder of the season. Provided as a free service, fans are invited to come plug in at the charging station to grab some extra juice for their mobile phone or tablet using Patriot’s FUEL+ batteries. In addition, Patriot will be providing FUEL+ units for guests on the A's pre- and post-game radio shows to fuel up everyone’s favorite Oakland A's sports players and personalities.
+
+"We're thrilled to be partnering with the Oakland A's and to be providing a service to their great fans," said JR Wakabayashi, Global Marketing Manager for Patriot.  "The Fuel+ offers the perfect solution for people on the go in need of power and we can’t think of a better place to demonstrate the speed, portability, ease of use and performance of the FUEL + than at the ballgame when you need and want it most."
+
+"The A's are committed to providing the best possible in-stadium experience for our fans, and this partnership is another example of that commitment," said Ken Pries, vice president of communications and broadcasting for the A's. "We understand our fans' desire to stay connected, and the FUEL + will ensure our fans maintain those connections without missing any of the action on the field."
+
+About FUEL +
+
+Take it, Charge it, Fuel Up. Perfect for anyone on-the-go, Patriot’s FUEL+ mobile rechargeable batteries are the best and most reliable solutions to ensure you will always have power for your mobile devices when you need it. Ranging in size from 1500mAh up-to 9000mAh, The FUEL+ product family features a full line of battery sizes to fit the needs of any mobile user. To safeguard against under-discharge, over-charge, and short-circuit, FUEL+ comes with built-in protection to ensure efficient and safe charging cycles. The FUEL+ also features power pass through technology that enables the battery to be charged when plugged in to a USB or wall outlet, while charging devices. Always have peace of mind when you are mobile, stay charged with FUEL+.
+
+  **FREMONT, CALIF., USA – September 12th, 2013 -**  Patriot, a global pioneer in high-performance memory, NAND flash, storage, and mobile accessories today launches the new high capacity Supersonic Boost XT 256GB USB 3.0 performance drive. 
+
+Offering the enhanced transfer speed of up-to 150MB/s, the Supersonic Boost XT 256GB drive provides excellent performance; making it the perfect solution for those who rely on having fast access to their data and media while trying to manage a busy lifestyle. This high capacity Supersonic Boost XT features the same award winning ultra-durable rubberized housing the Supersonic Boost XT line has been known. This housing provides best in class protection for worry free use even in the most rugged applications.
+
+"Our Supersonic Boost XT product family provides some of the most rugged and best performing drives on the market", says Meng Jay Choo, Patriot's USB Product Manager. “Now with a 256GB capacity, this line will offer one of the largest flash drive capacities as well, at a very reasonable price point.
+
+• Hi Speed USB 3.0 Compatible (backwards compatible to USB 2.0)
+
+• 256GB: Up to 150MB/sec Read; Up to 30MB/sec Write
+
+• Easy plug-and-play functionality
+
+• The rubberized housing provides a durable and rugged exterior that safeguards the drives from the elements. It is protected from any shock and physical damage as well as water resistant offering protection from various elements.
+
+• Compatible with Windows® 8, Windows® 7, Windows Vista®, Windows XP®, Windows 2000®, Windows® ME, Linux 2.4 and later, Mac® OS9, X and later.
+
+About Patriot
+
+Patriot designs, manufactures and markets high performance, enthusiast memory modules, flash memory, and mobile accessory products. Patriot products have become world renown for their extreme performance, reliability and innovation. Patriot sells its products through original equipment manufacturers, retailers, e-tailers and distributors throughout the world with operations in North America, Asia and Europe. Patriot Memory LLC was founded in 1985 and is headquartered in Fremont, California, USA.
+
+All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice. All company and/or product names may be trade names, trademarks and/or registered trademarks of the respective owners with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.
 
 Environmental conservation has always been at the forefront of Patriot Memory's intrinsic values, and we pride ourselves in our commitment to reduce our carbon footprint. Being recognized as a Bay Area Green Business further validates that the green initiatives we've implemented are accomplishing that goal.
 
@@ -189,3 +264,10 @@ In no way will Patriot Memory change your personal information. You are the only
 Patriot Memory reserves the right to update this Privacy Policy at any time. In the event the Privacy Policy is amended, updated or materially changed, we will give notice of this fact in a manner which is easily accessible and clearly apparent to both visitors and members. We will implement our Privacy Policy in such a way so as to never compromise your trust or your privacy. However, we must reserve the right to make changes which address issues that may arise in the future.
 
 For questions or concerns please send an email to (list an e-mail address you want) 
+
+©1985-2012 Patriot Memory® LLC. All Rights Reserved. .
+
+[](https://www.mcafeesecure.com/RatingVerify?ref=www.patriotmemory.com)
+
+Loading...  
+
