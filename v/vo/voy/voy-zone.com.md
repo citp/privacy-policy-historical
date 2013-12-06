@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voy-zone.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504154206id_/http%3A//voy-zone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voy-zone.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206224134id_/http%3A//voy-zone.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
