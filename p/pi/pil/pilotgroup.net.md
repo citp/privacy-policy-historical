@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pilotgroup.net privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519054917id_/http%3A//www.pilotgroup.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilotgroup.net privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206014002id_/http%3A//www.pilotgroup.net/about/privacy.php) for the most accurate reproduction.*
 
 # Pilot Group - Privacy and Security
 
@@ -66,7 +66,7 @@ We use this information, which does not identify individual users, to analyze tr
 A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of PilotGroup.net Web Site you have visited, personalized or customized, so the next time you visit those pages may be readily accessible.  
 You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to notify you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites will not work as intended.
 
-We use session ID cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.  
+We use session ID cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.  
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
 This privacy statement covers the use of cookies by www.pilotgroup.net only and does not cover the use of cookies by any advertisers.
