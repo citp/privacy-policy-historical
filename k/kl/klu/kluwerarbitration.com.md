@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kluwerarbitration.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622043827id_/http%3A//www.kluwerlaw.com/legalnotice/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kluwerarbitration.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206115832id_/http%3A//www.kluwerlaw.com/legalnotice/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Kluwer Law International
 
@@ -14,11 +14,9 @@
 > 
 > -     [www.KluwerArbitration.com](http://www.kluwerarbitration.com/)  
 > -     [www.KluwerCompetitionLaw.com](http://www.kluwercompetitionlaw.com/)  
-> -     [www.KluwerIPcases.com](http://www.kluweripcases.com/)   
-> -     [www.KluwerManualIP.com](http://www.kluwermanualip.com/)  
+> -     [www.KluwerIPlaw.com](http://www.kluweriplaw.com/)  
 > -     [www.KluwerLawOnline.com](http://www.kluwerlawonline.com/)   
-> -     [www.Kluwerpatentlaw.com](http://www.kluwerpatentlaw.com/)      
-> -    [ ](http://www.kluwerccdr.com/)[www.KluwerCCDR.com](http://www.kluwerccdr.com/)
+> 
 > 
 > (hereinafter jointly or separately referred to with the general term “the Site”) and covers the way in which Kluwer Law International collects and uses personal information, and under which circumstances this information is disclosed to third parties. Use of this Site implies consent with the terms and conditions of this privacy policy. This policy applies to information from private individuals as well as information from companies. This privacy policy notwithstanding, Kluwer Law International BV reserves the right to disclose any information collected at the Site as may be requested by law . 
 > 
@@ -50,7 +48,7 @@
 > We use Session Cookies for the following purposes:  
 > 
 > 
->   * To allow you to carry information across pages of our website and avoid having to re-enter information.
+>   * To allow you to carry information across pages of our website and avoid having to re-enter information. 
 >   * Within registration to allow you to access stored information. 
 >   * To compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure of our website.  
 >        
