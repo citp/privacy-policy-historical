@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besthealthmag.ca privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102172543id_/http%3A//www.besthealthmag.ca/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthealthmag.ca privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206053552id_/http%3A//www.besthealthmag.ca/Privacy) for the most accurate reproduction.*
 
 # Privacy | Best Health
 
@@ -33,16 +33,16 @@ By submitting a form on our web sites you will be entitled to receive e-mail cor
 
 **Your Privacy Choices**
 
-Receiving e-mail messages from us is optional. If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail. For more information on how to unsubscribe from e-mail marketing, [click here](http://www.readersdigest.ca/comm_prefs.html). 
+Receiving e-mail messages from us is optional. If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail. For more information on how to unsubscribe from e-mail marketing, [click here](http://www.besthealthmag.ca/newsletter). 
 
 If, at any time, you prefer not to receive offers and/or other correspondence by mail or telephone originated by Reader’s Digest and its third party affiliates, you may choose to opt-out by calling 1-866-659-2887 or writing to us at the address below. 
 
 Privacy Office  
 Reader’s Digest Association (Canada) ULC  
-P.O. Box 600, Stn. Westmount  
-Westmount, Quebec H3Z 3C4. 
+P.O. Box 974, Stn. Main  
+Markham, Ontario L3P 0K6. 
 
-To view and edit your existing personal information, or for more information on how to view and edit your personal information, [click here](http://www.readersdigest.ca/comm_prefs.html). 
+To view and edit your existing personal information, or for more information on how to view and edit your personal information, [click here](http://www.besthealthmag.ca/newsletter). 
 
 For general customer-service questions not related to privacy issues, please click here to visit our online Customer Care Centre. For customer-service purposes, we maintain a record of e-mail messages and addresses sent to us, as well as any replies we may have sent in return. 
 
