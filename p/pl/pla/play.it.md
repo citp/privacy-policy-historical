@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the play.it privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425035352id_/http%3A//radio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.it privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206072729id_/http%3A//radio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Principles
 
 ### CBS LOCAL DIGITAL MEDIA PRIVACY POLICY
 
-> Effective Date: June 8, 2012
+> Effective Date: November 5, 2013
 > 
 > Please note: The CBS Local Privacy Policy has been updated. Please review the updated privacy policy carefully before using the CBS Local Web Sites. By using any of the CBS Local Web Sites, you consent to the terms of the updated privacy policy. Click here for more information about the updates.
 > 
 > CBS Local Digital Media, a division of CBS Radio Inc., ("CBS Local") is committed to protecting your privacy. CBS Local owns, operates, or provides access to, several interactive web sites and other interactive features that provide an authorized link to this Privacy Policy (collectively "CBS Local Web Sites"). This Privacy Policy applies only to the CBS Local Web Sites.
 > 
-> This Privacy Policy describes, among other things, the types of information collected about you when you visit a CBS Local Web Site; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected. Trust is a cornerstone of our mission at CBS Local. We are committed to gaining and maintaining your trust by following a core set of [Privacy Principles](https://web.archive.org/web/20130420211850id_/http://policies.cbslocal.com/privacy/index.html).
+> This Privacy Policy describes, among other things, the types of information collected about you when you visit a CBS Local Web Site; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected. Trust is a cornerstone of our mission at CBS Local. We are committed to gaining and maintaining your trust by following a core set of [Privacy Principles](https://web.archive.org/web/20131210003053id_/http://policies.cbslocal.com/privacy/index.html).
 
 back to top
 
@@ -258,13 +258,17 @@ back to top
 
 #### Third-Party Online Advertising
 
-Some of the advertisements you see on CBS Local Web Sites are delivered by third parties who also collect information through their own cookies, web beacons, and other technologies about your online activities, either on our Web Sites or across the Internet, in an effort to understand your interests and deliver you advertisements that are tailored to your interests. These third parties include advertisers, advertising agencies, and ad networks that may collect information when you view or interact with one of their advertisements.
+Some of the advertisements you see on CBS Local Web Sites are delivered by third parties who also collect information through their [own cookies, web beacons, and other technologies](http://policies.cbslocal.com/privacy/current.html#cwbt) about your online activities, either on our Web Sites or across the Internet, in an effort to understand your interests and deliver advertisements to you that are tailored to your interests. These third parties include advertisers, advertising agencies and ad networks that may collect information when you view or interact with one of their advertisements. Please note that CBS Local does not have access to the information these third parties may collect about your interests to deliver relevant advertising to you, and the information practices of these third parties are not covered by this Privacy Policy.
 
-Please note that CBS Local does not have access to the information these third parties may collect about your interests to deliver relevant advertising to you, and the information practices of these third parties are not covered by this Privacy Policy. Third parties that serve ads on our Web Sites, and thereby may collect information about your online activities on such Web Sites to deliver tailored ads, include, but are not limited to, [Atlas](http://atlassolutions.com/), [DoubleClick](http://www.google.com/doubleclick/),[ Eyeblaster](http://www.mediamind.com/), [EyeWonder](http://eyewonder.com/), [Google](http://www.google.com/), [MediaMind](http://www.mediamind.com/), and [PointRoll](http://pointroll.com/). These companies may offer you a way to choose not to have your information used for advertising purposes. You can find more information by clicking on the company names above and following the links to each company's web site.
+Third parties that may currently collect information on our Web Sites about your online activities for the purpose of delivering tailored ads to you include, but are not limited to, [Atlas](http://atlassolutions.com/home), [DoubleClick](http://www.google.com/doubleclick/), [EyeWonder](http://www.eyewonder.com/), [Google](http://www.google.com/), [MediaMind](http://www.mediamind.com/) and [PointRoll](http://www.pointroll.com/). These companies may offer a way for you to choose not to have your information used for advertising purposes. You can find more information by clicking on the company names above and following the links to each company's web site.
 
-In addition, some of these companies are members of the Network Advertising Initiative ("NAI"), which offers a single location to opt out of receiving tailored ads from member companies. To opt out of information collection by NAI member companies, or to obtain information about the technologies they use or their own privacy policies, please visit [ NAI's Opt Out Web page](http://www.networkadvertising.org/optout_nonppii.asp#). Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on our Web Sites, but these advertisements may not be as relevant to you.
+In addition, some of these companies are members of the Network Advertising Initiative ("NAI"), which offers a single location for consumers to opt out of receiving tailored ads from member companies. To learn more and opt out of information collection by NAI member companies, please visit the [NAI Consumer Opt Out page](http://www.networkadvertising.org/choices/#completed). Also, through the Digital Advertising Alliance ("DAA"), several media and marketing associations have developed an industry self-regulatory program to give consumers a better understanding of and greater control over ads that are delivered based on their online behavior across different Web Sites. CBS Local is committed to complying with the DAA's Self-Regulatory Program for Online Behavioral Advertising. To learn more and make choices about interest-based ads from participating third parties, please visit the [DAA Consumer Opt-Out page](http://www.aboutads.info/choices/#completed).
 
-For more information about relevant advertisements delivered by CBS Local, please read about CBS Local online advertising. 
+Please note that if you opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on our Web Sites, but these advertisements may not be as relevant to you.
+
+In addition, CBS Local works with third parties to help us track the advertisements that are delivered to you; in particular, to control the number of times you receive the same advertisement and to analyze the effectiveness of advertising on our Web Sites. Third parties that use cookies, web beacons and other technologies to help us with traffic measurement, research and analytics include [Omniture](http://www.adobe.com/privacy.html), [Comscore](http://www.comscore.com/About_comScore/Privacy_Policy), [Nielsen](http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1) and [ConfirmIT](http://www.confirmit.com/privacy-policy.aspx). We do not share your contact information with these third parties.
+
+For more information about relevant advertisements delivered by CBS Local, please read about [CBS Local online advertising](http://policies.cbslocal.com/privacy/current.html#ad).
 
 back to top
 
@@ -351,7 +355,7 @@ back to top
 
 #### CBS Local Digital Media Privacy Policy FAQ 
 
-Our Privacy Policy provides visitors of CBS Local Web Sites with a single, uniform policy consistent with our core [Privacy Principles](https://web.archive.org/web/20130420211850id_/http://policies.cbslocal.com/privacy/index.html). Below, please find answers to some questions about our Privacy Policy. To review the Privacy Policy, click here.
+Our Privacy Policy provides visitors of CBS Local Web Sites with a single, uniform policy consistent with our core [Privacy Principles](https://web.archive.org/web/20131210003053id_/http://policies.cbslocal.com/privacy/index.html). Below, please find answers to some questions about our Privacy Policy. To review the Privacy Policy, click here.
 
 Why are you updating your Privacy Policy? We are updating our privacy policy to provide current company and other information, including contact information.
 
