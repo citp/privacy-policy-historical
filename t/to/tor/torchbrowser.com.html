@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the torchbrowser.com privacy policy that was archived on 2013-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620141043id_/http%3A//www.torchbrowser.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the torchbrowser.com privacy policy that was archived on 2013-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206175658id_/http%3A//www.torchbrowser.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html itemscope="" itemtype="http://schema.org/Product" xmlns="http://www.w3.org/1999/xhtml" class="notie"><!--<![endif]--><head>
   <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="/js/default/effects.js"></script>
@@ -15,7 +15,7 @@
     var _rb_systemid = "448";
     var _rb_ga_page_name = "Privacy";
     var _rb_ga_common_account = "UA-30208384-1";
-
+var forceAppidTo = 68;
     var ga_host = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src=\""+ga_host+"google-analytics.com/ga.js\" type=\"text/javascript\"%3E%3C/script%3E"));
 
@@ -44,14 +44,15 @@ function send_ga_query(query, ga_account){
 	   setTimeout(function(){send_ga_query(query, ga_account)}, 1000);
     }
 }    var ml_host = (("https:" == document.location.protocol) ? "https://" : "http://");
-var ml_host = ml_host+"www.mlstat.com";
-document.write(unescape("%3Cscript src='"+ml_host+"/scripts/appid.V2.js' type='text/javascript'%3E%3C/script%3E"));
+var ml_host_script = ml_host+"www.torchbrowser.com/js/default";
+var ml_host_stats = ml_host+"stat.torchbrowser.com";
+document.write(unescape("%3Cscript src='"+ml_host_script+"/appid.V2.js' type='text/javascript'%3E%3C/script%3E"));
 
 var _ml_stat_loaded = false;
 
 function ml_stats_load(){
     if(typeof appidObj != "undefined" && appidObj != null){
-	   appidObj.init(_rb_systemid, ml_host);
+	   appidObj.init(_rb_systemid, ml_host_stats);
 	   appidObj.track("hit");
 	   _rb_appid = appidObj.getAppID();
 	   ga_track_view();
@@ -81,7 +82,7 @@ ml_stats_load();
 	   ga_track_download(id);
     }
 //]]>
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script src="https://www.mlstat.com/scripts/appid.V2.js" type="text/javascript"></script>  <link href="/styles/default/main.css" rel="stylesheet" type="text/css">
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script src="https://www.torchbrowser.com/js/default/appid.V2.js" type="text/javascript"></script>  <link href="/styles/default/main.css" rel="stylesheet" type="text/css">
 <link href="/styles/default/inner.css" rel="stylesheet" type="text/css">
   <title>Privacy Policy | Torch Browser</title>
 </head>
@@ -120,7 +121,7 @@ ml_stats_load();
   </div>
 </div>        <div id="page-title">
   <h1>Privacy Policy</h1>
-  <a href="http://download.torchbrowser.com/TorchSetup.exe" target="downframe" aid="top" onclick="track_download('top')" title="Download Torch Web Browser Now!"><img width="199" height="99" class="png" src="/styles/default/en/inner-download-button.png" alt="Torch Internet Browser - Free Download"></a></div>
+  <a class="download-url" href="http://download.torchbrowser.com/TorchSetup.exe" target="downframe" aid="top" onclick="track_download('top')" title="Download Torch Web Browser Now!"><img width="199" height="99" class="png" src="/styles/default/en/inner-download-button.png" alt="Torch Internet Browser - Free Download"></a></div>
 <div id="section" class="legal">
   <p>Last modified April 12, 2012</p>
 
@@ -308,7 +309,7 @@ ml_stats_load();
     <div class="content">
 	<ul id="bottom-navigation">
 	    <li class="no-border"><a href="/">Home</a></li>
-	    <li><a href="http://download.torchbrowser.com/TorchSetupFull.exe" target="downframe" aid="bottom" onclick="track_download('bottom')">Download offline installer</a></li>
+	    <li><a class="download-url" href="http://download.torchbrowser.com/TorchSetupFull.exe" target="downframe" aid="bottom" onclick="track_download('bottom')">Download offline installer</a></li>
 	    <li><a href="/support" target="_blank">Support</a></li>
 	    <li><a href="/support/faq" target="_blank">FAQ</a></li>
 	    <li><a href="/tour">Tour</a></li>
