@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2game.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604203153id_/http%3A//2game.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2game.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206114021id_/http%3A//2game.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# 2game.com privacy policy
 
 Privacy policy sets out how Twee Digital Ltd uses and protects any information that you give 2game.com when you use this website.
 
