@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubytuesdayrestaurants.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613020722id_/http%3A//www.rubytuesday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubytuesdayrestaurants.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206172145id_/http%3A//www.rubytuesday.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ruby Tuesday
 
