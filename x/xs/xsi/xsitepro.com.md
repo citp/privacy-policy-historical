@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the xsitepro.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227061240id_/http%3A//www.xsitepro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsitepro.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206152329id_/http%3A//www.xsitepro.com/privacy.html) for the most accurate reproduction.*
 
-# XSitePro 2-Privacy
+# XSitePro Website Design Software - Privacy Policy
 
-******Privacy Policy******
+## XSitePro Privacy Policy
+
+[ ](https://secure.trust-guard.com/certificates/www.xsitepro.com)
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
 **We recognize the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
 
-**What Information Do We Collect?** **    
-**When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+**What Information Do We Collect?** **   
+** When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
 **1\. Personal Information You Choose to Provide**
 
