@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prx.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603163001id_/http%3A//www.prx.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prx.org privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206125640id_/http%3A//www.prx.org/privacy-policy) for the most accurate reproduction.*
 
 # PRX » Privacy Policy
 
@@ -21,6 +21,8 @@ If you visit our site to browse, we will only collect and store the domain name 
 If you register or engage in a transaction while at our site, to make full use of our Services you will need to complete our registration process. We collect and store the Personally Identifiable Information you provide through this registration process, including your user ID and password, which we may elect to provide for you. If you engage in a transaction while logged on to our site, then we collect and store information about the transaction. If you send us communications, then we may collect such communications in a file specific to you.
 
 We use the information we collect from you as a registered user to build features that we hope will make the Services more attractive and easier for you to use. This may include better customer support and timely notice of new services. We may share User Information with our partners and affiliates that are committed to serving your need for the Services and improving your user experience, but will require such third parties to abide by the standards of this privacy policy. We may also share aggregate anonymized data relating to activity on the site and use of the Services, such as demographical and statistical information, for marketing, research and other purposes. Furthermore, we may need to disclose User Information to law enforcement or other government officials if appropriate for your protection or in connection with an investigation of fraud, intellectual property infringement or other activity that is illegal or may expose us or our users to legal liability.
+
+We use a Google Analytics feature based on Display Advertising that collects demographic and interest information about our visitors. We use this information to better target sponsor messaging within the products we create. Visitors can easily opt-out of the collection of this information by using the [Ads Settings](https://www.google.com/settings/ads) or using the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
 
 ### If You Do Not Wish to Disclose User Information
 
