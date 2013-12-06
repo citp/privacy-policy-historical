@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vtem.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430122555id_/http%3A//vtem.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtem.net privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206121406id_/http%3A//vtem.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
