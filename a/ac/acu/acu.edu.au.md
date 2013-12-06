@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629003218id_/http%3A//www.acu.edu.au/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206231924id_/http%3A//www.acu.edu.au/home/privacy) for the most accurate reproduction.*
 
 # Privacy policy - ACU (Australian Catholic University)
 
@@ -26,7 +26,8 @@ The University is required to provide annual statistical information on its staf
 
 Personal information will only be disclosed to third parties with the written consent of the student or staff member concerned, unless otherwise prescribed by law.
 
-The University is authorised to use or disclose personal information if it reasonably believes that such disclosure is necessary to lessen or prevent a serious and imminent threat to the life or health of the individual or any other person.  
+The University is authorised to use or disclose personal information if it reasonably believes that such disclosure is necessary to lessen or prevent a serious and imminent threat to the life or health of the individual or any other person.
+
 The University is also authorised to disclose personal information to appropriate law enforcement agencies to assist in the prevention, detection, investigation, prosecution or punishment of criminal activities.
 
 ### Access to information collected
