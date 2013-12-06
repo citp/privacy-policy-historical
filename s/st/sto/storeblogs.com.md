@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the storeblogs.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215181144id_/http%3A//storeblogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storeblogs.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206174439id_/http%3A//storeblogs.com/privacy) for the most accurate reproduction.*
 
-# StoreBlogs Privacy | Review StoreBlogs Privacy Policy
+# StoreBlogs » Privacy Policy
 
 ## Our Privacy Policy
 
@@ -116,3 +116,5 @@ Questions about our policies can also be sent using our [contact form](http://st
 Please take the time to review our Additional Terms:
 
 By using the Site, you agree that you have read and that your adequately comprehend all Site policies, including the Terms of Service and this Privacy Policy.
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fstoreblogs.com%2Fprivacy&media=&description=Privacy%20Policy)
