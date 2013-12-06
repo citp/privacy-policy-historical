@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the cotswolds.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628062601id_/http%3A//www.cotswolds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotswolds.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206171236id_/http%3A//www.cotswolds.com/privacy) for the most accurate reproduction.*
 
 # Cotswolds > Privacy
 
-Cotswolds.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Cotswolds.com Broadband website and governs data collection and usage. By using the Cotswolds.com Broadband website, you consent to the data practices described in this statement.
+Cotswolds.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Cotswolds.com website and governs data collection and usage. By using the Cotswolds.com website, you consent to the data practices described in this statement.
 
 ## **COLLECTION OF YOUR PERSONAL INFORMATION**
 
 Cotswolds.com collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Cotswolds.com also collects anonymous demographic information, which is not unique to you, such as your postcode, age, gender, preferences, interests and favourites.
 
-There is also information about your computer hardware and software that is automatically collected by Cotswolds.com. This information can include: your IP address, browser type, domain names, access times and referring Website addresses. This information is used by Cotswolds.com for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Cotswolds.com Broadband website.
+There is also information about your computer hardware and software that is automatically collected by Cotswolds.com. This information can include: your IP address, browser type, domain names, access times and referring Website addresses. This information is used by Cotswolds.com for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Cotswolds.com website.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Cotswolds.com Broadband public message boards, this information may be collected and used by others. Note: Cotswolds.com does not read any of your private online communications.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Cotswolds.com public message boards, this information may be collected and used by others. Note: Cotswolds.com does not read any of your private online communications.
 
-Cotswolds.com encourages you to review the privacy statements of websites you choose to link to from Cotswolds.com so that you can understand how those websites collect, use and share your information. Cotswolds.com is not responsible for the privacy statements or other content on websites outside of the Cotswolds.com Broadband and Cotswolds.com family of websites.
+Cotswolds.com encourages you to review the privacy statements of websites you choose to link to from Cotswolds.com so that you can understand how those websites collect, use and share your information. Cotswolds.com is not responsible for the privacy statements or other content on websites outside of the Cotswolds.com and Cotswolds.com family of websites.
 
 ## **USE OF YOUR PERSONAL INFORMATION**
 
-Cotswolds.com collects and uses your personal information to operate the Cotswolds.com Broadband website and deliver the services you have requested. Cotswolds.com also uses your personally identifiable information to inform you of other products or services available from Cotswolds.com and its affiliates. Cotswolds.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+Cotswolds.com collects and uses your personal information to operate the Cotswolds.com website and deliver the services you have requested. Cotswolds.com also uses your personally identifiable information to inform you of other products or services available from Cotswolds.com and its affiliates. Cotswolds.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
 Cotswolds.com does not sell, rent or lease its customer lists to third parties. Cotswolds.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Cotswolds.com may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Cotswolds.com, and they are required to maintain the confidentiality of your information.
 
@@ -44,4 +44,4 @@ Cotswolds.com will occasionally update this Statement of Privacy to reflect comp
 
 ## **CONTACT INFORMATION**
 
-Cotswolds.com welcomes your comments regarding this Statement of Privacy. If you believe that Cotswolds.com has not adhered to this Statement, please contact Cotswolds.com at **katy.mccarthy@glosfirst.co.uk**. We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Cotswolds.com welcomes your comments regarding this Statement of Privacy. If you believe that Cotswolds.com has not adhered to this Statement, please contact Cotswolds.com at [katy.mccarthy@gfirst.co.uk](mailto:katy.mccarthy@gfirst.co.uk). We will use commercially reasonable efforts to promptly determine and remedy the problem.
