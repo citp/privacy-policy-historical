@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetradiocity.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613060422id_/http%3A//www.planetradiocity.com/home/about.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetradiocity.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206105731id_/http%3A//www.planetradiocity.com/home/about.php) for the most accurate reproduction.*
 
 # Privacy Policy | PlanetRadioCity.com - Music Portal
 
@@ -16,7 +16,7 @@
 
 In an endeavor to harness new technologies to connect through music with its chosen audience, MBPL has recently forayed into the domain of the Internet with **Planet Radio City** ( [www.planetradiocity.com ](http://www.planetradiocity.com/)). Planet Radio City is India's first all-inclusive Music Portal that offers users information, entertainment and interactivity The site is targeted not just at the passionate, serious music lover, keen on information and discovering new music but also musicians and music enthusiasts - experts and amateurs. The website offers unique applications and features hitherto missing from music websites of Indian origin. In short, Planet Radio City is a one-stop shop for music lovers and musicians. 
 
-To register on PlanetRadioCity.com please go to http://www.planetradiocity.com/music-on-my-mind/new_registration.php
+To register on PlanetRadioCity.com please go to 
 
   
 
@@ -154,7 +154,7 @@ If PlanetRadioCity learns of a security systems breach, then we may attempt to n
   
 
 
-**SPECIAL NOTE TO INTERNATIONAL USERS / MEMBERS** PlanetRadioCity is hosted in India and is governed by the laws of the Republic of India (refer to [Terms and Conditions](https://web.archive.org/web/20130613060422id_/http%3A//www.planetradiocity.com/home/terms.php) ). If you are a user / member accessing the PlanetRadioCity Site from any other region with laws or regulations governing personal data collection, use, protection and disclosure, that differ from Indian laws, please be advised that through your use of the PlanetRadioCity Site, this Privacy Notice, and our Terms of Use, you are transferring your personal information to India and you consent to that transfer. We will only be complying with the legal provisions on the subject matter as applicable in India . 
+**SPECIAL NOTE TO INTERNATIONAL USERS / MEMBERS** PlanetRadioCity is hosted in India and is governed by the laws of the Republic of India (refer to [Terms and Conditions](https://web.archive.org/web/20131206105731id_/http%3A//www.planetradiocity.com/home/terms.php) ). If you are a user / member accessing the PlanetRadioCity Site from any other region with laws or regulations governing personal data collection, use, protection and disclosure, that differ from Indian laws, please be advised that through your use of the PlanetRadioCity Site, this Privacy Notice, and our Terms of Use, you are transferring your personal information to India and you consent to that transfer. We will only be complying with the legal provisions on the subject matter as applicable in India . 
 
   
 
