@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seosoftwareservices.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601083542id_/http%3A//seosoftwareservices.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seosoftwareservices.com privacy policy that was archived on 2013-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206162110id_/http%3A//www.seosoftwareservices.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -217,7 +217,7 @@ function MM_swapImage() { //v3.0
 		<span>"We have received good returns on the investments we have made on online promotions thanks to the expert services offered by <b> SSS Technology </b> SEO team " </span>
 		<div class="the-author">Michael Doug</div>
 		</div>
-		<div style="clear:both"></div>
+		
 	</div>
 	
 	<p class="left" align="right" style="margin-top:15px;"><a href="client_testimonials.html" rel="nofollow"><strong>More&gt;&gt;</strong></a></p><br>
@@ -233,23 +233,32 @@ function MM_swapImage() { //v3.0
 	
               <tr>
                 <td class="left" align="center"><h2>Request a Quote</h2>
+                    <a name="message"></a>
                <form action="querymail.php" method="post" name="newform" id="newform" onsubmit="return checkFormData();">
 			   <table width="90%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td height="10"></td>
   </tr>
   <tr>
-    <td><input name="contact_person" class="input" value="Your Full Name..." onblur="if(this.value=='') this.value='Your Full Name...';" onfocus="if(this.value=='Your Full Name...') this.value='';" type="text"></td>
+    <td><input name="contact_person" class="input required" placeholder="*Your Full Name..." type="text"></td>
   </tr>
   <tr>
-    <td><input name="telephone" class="input" value="Your Telephone..." onblur="if(this.value=='') this.value='Your Telephone...';" onfocus="if(this.value=='Your Telephone...') this.value='';" type="text"></td>
+    <td><input name="telephone" class="input" placeholder="Your Telephone..." type="text"></td>
   </tr>
     <tr>
-    <td><input name="email" class="input" value="Your Email Id..." onblur="if(this.value=='') this.value='Your Email Id...';" onfocus="if(this.value=='Your Email Id...') this.value='';" type="text"></td>
+    <td><input name="email" class="input required email" placeholder="*Your Email Id..." type="text"></td>
   </tr>
-
   <tr>
-    <td><textarea name="message1" rows="5" class="input" id="message1" onfocus="if(this.value=='Message'){this.value=''};" onblur="if(this.value==''){this.value='Message'};">Message</textarea></td>
+      <td>
+<div class="securityCode">
+<span class="718430448" style="display:none;">
+    428283704</span>
+    XU97H</div>
+<input type="text" class="input required" autocomplete="off" placeholder="*security Code" name="code" value="">
+      </td>
+    </tr>                                
+  <tr>
+    <td><textarea name="message1" rows="5" class="input required" id="message1" placeholder="*message"></textarea></td>
   </tr>
   <tr>
      <td height="10"></td>
@@ -273,7 +282,11 @@ function MM_swapImage() { //v3.0
            
 </tbody></table>
                </form>
-
+<script>
+$(document).ready(function(){
+$("#newform").validate();
+});
+</script>
                </td>
               </tr>
               <tr>
