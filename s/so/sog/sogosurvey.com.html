@@ -1,410 +1,354 @@
-<!--The following is the downloaded HTML source of the sogosurvey.com privacy policy that was archived on 2013-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630100254id_/http%3A//www.sogosurvey.com/Legal/online-survey-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sogosurvey.com privacy policy that was archived on 2013-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206042506id_/http%3A//www.sogosurvey.com/Legal/online-survey-privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head id="ctl00_Head1" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
+<!DOCTYPE html><html><head xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><link rel="stylesheet" href="../static/sogo_resp_css/sogo_reset.css"><link rel="stylesheet" href="//cloud.typography.com/7174632/691602/css/fonts.css"><link rel="stylesheet" href="../static/sogo_resp_css/static_responsive.css">
+    <style>
+     .salesContainer{float: right!important;border-left: 1px #ccc solid;}
+     .salesNumber{text-align: center;line-height: 25px;font-family: 'Whitney SSm 6r', 'Whitney SSm A', 'Whitney SSm B', sans-serif;font-size: 1em;font-weight: 600;font-style: normal;color: #3D4D54;}
+     .salesIns{font-size: 12px;font-weight: normal;margin-left: 15px; }
+     #chat_now_div{ position:fixed; right:20px; bottom:-5px; cursor:pointer; margin:0; padding:0; z-index:1000001;}
+    </style>
+    <script src="http://www.sogosurvey.com/static/js/jquery-1.4.2.min.js"></script>
+    <script>
+        function enableMobileControls()
+        {
+           if($(window).width()<600)
+           {
+           
+            $('.dropDownButton').show();
+            $('.grid_9').addClass('dropdownButtonContent');
+            $('.dropdownButtonContent').find('ul li').css('float','none');
+            $('.mobilePricing').show();
+           }
+           else
+           {
+           $('.mobilePricing').hide();
+           }
+          
+        }
+        function checkTheScreenSize()
+        {
+           if($(window).width()<600)
+           {
+          
+            $('.dropDownButton').show();
+            $('.grid_9').addClass('dropdownButtonContent');
+            $('.dropdownButtonContent').find('ul li').css('float','none');
+             $('.mobilePricing').css('display','block');
+           }
+           else
+           {
+           
+            $('.dropDownButton').hide();
+            $('.dropdownButtonContent').find('ul li').css('float','');  
+            $('.grid_9').show();
+            $('.grid_9').removeClass('dropdownButtonContent');
+            $('.mobilePricing').hide();
+           } 
+        }
+        function myFunction()
+        {
+              activeBanner = $('.bannerAnimation').find('.activeBannerImage').attr('id');
+             // alert(activeBanner)
+              $('.banner_temp').removeClass('activeBannerImage').addClass('inActiveBannerImage');
+             if(activeBanner.split('_')[1] == $('.banner_temp').length)
+             {
+                activeBanner = "bannerImage_1";
+                $('#'+activeBanner).removeClass('inActiveBannerImage').addClass('activeBannerImage');
+             }
+             else
+             {
+                $('#'+activeBanner).next().removeClass('inActiveBannerImage').addClass('activeBannerImage');
+             }
+        }
+    $(document).ready(function(){
+    //$('.dropDownButton').hide();
+    //$('.dropdownButtonContent').removeClass('dropdownButtonContent')
+     $('.banner_temp').removeClass('activeBannerImage').addClass('inActiveBannerImage');
+     $('.banner_temp:first').removeClass('inActiveBannerImage').addClass('activeBannerImage');
+     $('.bottomLinks').hide(); 
+     $('.dropDownButton').click(function(){
+     $('.dropdownButtonContent').slideToggle();
+     
+    });
+    var test_canvas = document.createElement("canvas"); 
+    var canvascheck=(test_canvas.getContext)? true : false 
+    if(canvascheck)
+    {
+        $('img[class*="svg"]').attr('src', function() {
+        return $(this).attr('src').replace('.png', '.svg');
+        });
+
+        $('img[class*="svg"]').attr('src', function() {
+        return $(this).attr('src').replace('.jpg', '.svg');
+        });
+
+        $('img[class*="svg"]').attr('src', function() {
+        return $(this).attr('src').replace('.jpeg', '.svg');
+        });
+
+        $('img[class*="svg"]').attr('src', function() {
+        return $(this).attr('src').replace('.gif', '.svg');
+        });
+    }
+    
+        var images = $("img.hires");
+        // loop through the images and make them hi-res
+        for(var i = 0; i < images.length; i++) 
+        {
+            // create new image name
+            var imageType = images[i].src.slice(-4);
+            var imageName = images[i].src.substr(0, images[i].src.length - 4);
+            if(imageType == '.png')
+            {
+                imageName += "@2x" + imageType;
+                //rename image
+                images[i].src = imageName;
+            }
+        }
+    
+    });
+    </script>
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if IE 8]>
+    <style type="text/css">
+	    .Menu ul{font-size:0.92em;}
+    </style>
+    <![endif]-->
+    
+    <meta name="description" content="SoGoSurvey protects privacy of its customers and survey participants. We understand information we deliver belongs to you and your survey participants, not us.">
+
+    <script>function disableBack() { window.history.forward(1); }</script>
+<title>
 	Privacy Policy | SoGoSurvey
-</title>
-    <!-- Facebook Comment box tags -->
-    <meta property="fb:app_id" content="141309856059294"><meta property="og:type" content="website"><meta property="og:url" content="http://www.sogosurvey.com"><meta property="og:title" content="SoGo Survey"><meta property="og:image" content="http://www.sogosurvey.com/Images/SogoImages/sogo_logo_fbcommentbox.jpg"><meta name="description" content="SoGoSurvey protects privacy of its customers and survey participants. We understand  information we deliver belongs to you and your survey participants, not us. "><meta name="p:domain_verify" content="44a65c84fbd6424e16eeb6d14726ff40">
-    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://www.sogosurvey.com/static/js/jquery-1.4.2.min.js"></script>    
-    <script type="text/javascript" src="//use.typekit.net/jcv7ejr.js "></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    <!-- CSS with support for IE -->
-    <style type="text/css">
-    .stArrow{margin-bottom:5px;}
-    .survey-types{float:left; text-align:left; font-size:11px; color:#5a5a5a; line-height:15px; padding:5px; margin-top:5px; border:solid 1px #b4b4b4;}
-    .survey-types a{text-decoration:none; color:#a1a1a1 !important; }
-    .survey-types a:hover{color:#e15d00 !important}
-    .iconDiv{ float:left; text-align:center;}
-    .iconDiv1,.iconDiv2,.iconDiv3,.iconDiv4,.iconDiv5,.iconDiv6,.iconDiv7,.iconDiv8,.iconDiv9,.iconDiv10,.iconDiv11{ float:left; text-align:center;}
-    span.sprite{display:inline-block; background:url('../../images/survey-types/sprite-icons.png') no-repeat; width:40px; height:35px; }
-    .spriteDiv{height:43px}
-    .iconDiv1 span{ background-position:-54px 0px; }
-    .iconDiv1:hover span{background-position:0px 0px;}
-    .iconDiv1:hover a,.iconDiv2:hover a,.iconDiv3:hover a,.iconDiv4:hover a,.iconDiv5:hover a,.iconDiv6:hover a,.iconDiv7:hover a,.iconDiv8:hover a,.iconDiv9:hover a,.iconDiv10:hover a,.iconDiv11:hover a{color:#e15d00 !important}
-    .iconDiv2 span{background-position:-54px -40px; }
-    .iconDiv2:hover span{ background-position:0px -40px;}
-    .iconDiv3 span{ background-position:-54px -80px;}
-    .iconDiv3:hover span{ background-position:0px -80px;}
-    .iconDiv4 span{ background-position:-54px -120px; width:46px; }
-    .iconDiv4:hover span{background-position:0px -120px;}
-    .iconDiv5 span{background-position:-54px -160px; width:40px;}
-    .iconDiv5:hover span{ background-position:0px -160px;}
-    .iconDiv6 span{ background-position:-54px -200px;  }
-    .iconDiv6:hover span{background-position:0px -200px;}
-    .iconDiv7 span{ background-position:-50px -240px;}
-    .iconDiv7:hover span{ background-position:4px -240px;}
-    .iconDiv8 span{background-position:-54px -280px; width:42px;}
-    .iconDiv8:hover span{  background-position:0px -280px;}
-    .iconDiv9 span{ background-position:-54px -320px; }
-    .iconDiv9:hover span{background-position:0px -320px;}
-    .iconDiv10 span{ background-position:-54px -360px; }
-    .iconDiv10:hover span{background-position:0px -360px;}
-    .iconDiv11 span{ background-position:-54px -400px;}
-    .iconDiv11:hover span{ background-position:0px -400px;}
-    table.main-in{margin-left:auto;margin-right:auto}
-    </style>
-    <link href="../static/static-css/common.css?250613" rel="stylesheet" type="text/css"><link href="../static/static-css/sidebar.css?101112" rel="stylesheet" type="text/css"><link href="../static/static-css/topbar.css?131415" rel="stylesheet" type="text/css"><link href="../static/static-css/Home.css?20-03-2013" rel="stylesheet" type="text/css"><link href="../static/static-css/table.css?121415" rel="stylesheet" type="text/css"><link href="../static/sogo-static-css/Master.css?270213" rel="stylesheet" type="text/css"><link href="../static/sogo-static-css/reset.css?245263" rel="stylesheet" type="text/css">
-    <style type="text/css">
-        table#sitemap td
-        {
-            vertical-align: top;
-            width: 25%;
-        }
-        ol
-        {
-            margin-top: 0;
-            padding-top: 0;
-        }
-    </style>
-
-    <script type="text/javascript">function disableBack() { window.history.forward(1); }</script>
-</head> 
-<body id="ctl00_BodyTag" style="background:#fff;" class="bg-in">
+</title></head>
+<body id="ctl00_BodyTag">
 <form name="aspnetForm" method="post" action="online-survey-privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWBAIBD2QWBAIHDxYCHgdWaXNpYmxlaGQCCA8WAh4HY29udGVudAWhAVNvR29TdXJ2ZXkgcHJvdGVjdHMgcHJpdmFjeSBvZiBpdHMgY3VzdG9tZXJzIGFuZCBzdXJ2ZXkgcGFydGljaXBhbnRzLiBXZSB1bmRlcnN0YW5kICBpbmZvcm1hdGlvbiB3ZSBkZWxpdmVyIGJlbG9uZ3MgdG8geW91IGFuZCB5b3VyIHN1cnZleSBwYXJ0aWNpcGFudHMsIG5vdCB1cy4gZAIDDxYCHgVjbGFzcwUFYmctaW4WAgIBD2QWAgIBD2QWCAIBDxYCHgRocmVmBSZodHRwOi8vd3d3LnNvZ29zdXJ2ZXkuY29tL1Rha2UtYS1Ub3VyL2QCAg8WAh8DBSNodHRwOi8vd3d3LnNvZ29zdXJ2ZXkuY29tL0ZlYXR1cmVzL2QCAw8WAh8CBQZzZWxlY3RkAgQPFgIfAwVAaHR0cDovL3d3dy5zb2dvc3VydmV5LmNvbS9zdGF0aWMvcGFja2FnZXMuYXNweD9ibG5wYWNrYWdlcz1GYWxzZWRkjLbdHYpWnNmwbSBm0cEJnM62eYI=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWAgIBD2QWAmYPZBYOAgEPFgIeBGhyZWYFLWh0dHA6Ly93d3cuc29nb3N1cnZleS5jb20vc3RhdGljL3ByaWNpbmcuYXNweGQCAw8WAh8ABUBodHRwOi8vd3d3LnNvZ29zdXJ2ZXkuY29tL3N0YXRpYy9wYWNrYWdlcy5hc3B4P2JsbnBhY2thZ2VzPUZhbHNlZAIFDxYCHwAFLWh0dHA6Ly93d3cuc29nb3N1cnZleS5jb20vd2h5LXNvZ29zdXJ2ZXkuYXNweGQCBw8WAh8ABS9odHRwOi8vd3d3LnNvZ29zdXJ2ZXkuY29tL1Rha2UtYS1Ub3VyL292ZXJ2aWV3L2QCCQ8WAh8ABS1odHRwOi8vd3d3LnNvZ29zdXJ2ZXkuY29tL3NhbXBsZS1zdXJ2ZXlzLmFzcHhkAgsPFgIfAAUnaHR0cDovL3d3dy5zb2dvc3VydmV5LmNvbS90ZXN0aW1vbmlhbHMvZAINDxYCHwAFIWh0dHA6Ly93d3cuc29nb3N1cnZleS5jb20vU3VwcG9ydGRkKf0s1jer+0uL8jd9jzTtOluwcIg=">
 
-<div id="Header">
-    <div id="masterdiv" style="position: static; top: 0px;width:100%; left:0px;" class="ca">
-        <div class="Topbar">
-            <div class="Wrapper1">
-                <div id="ctl00_dvLogin">
-                    <div class="Top-Nav fr">
-                    
-                    <a href="http://www.sogosurvey.com/Support/">Support</a>
-                    
-                    <a href="http://blog.sogosurvey.com" target="_blank">Blog</a>
-                    
-                    <a href="http://www.sogosurvey.com/help/" target="_blank" style="padding-right:0px;">Resources</a>                                    
-                    </div>
+<div class="container">
+    <header>
+        <div class="Wrapper logoWrapper">
+            <div class="headContainer">
+                <div class="grid_3 fl mobileClass">
+                    <a href="http://www.sogosurvey.com/"><img class="svg sogosurveylogo" src="http://www.sogosurvey.com/static/sogo_resp_images/logo.png" alt="SoGoSurvey" title="SoGoSurvey"></a>
                 </div>
-            </div>    
-        </div>
-        <div class="ca"></div>
-        <div class="Mainbar">
-            <div class="Wrapper1">
-                <div class="Logo fl">
-                    <a href="http://www.sogosurvey.com/"><img src="../../Images/SogoImages/Logo.png" alt="SoGoSurvey" title="SoGoSurvey"></a>              
+                <div class="dropDownButton"></div>
+                <div class="dropDownBorder"></div>
+                <div class="grid_8 fr">
+                    <ul class="top-nav fr">
+                        
+                        <li class="span" style="font-weight:600;">Sales: +1-703-542-9595</li>
+                        
+                        <li>
+                        <a href="http://www.facebook.com/sogosurvey" target="_blank"><img class="svg imgtop" src="http://www.sogosurvey.com/static/sogo_resp_images/Navigation_Facebook-01.png" alt="" title=""></a>
+                        <a class="link_scial" href="http://twitter.com/SoGoSurvey" target="_blank"><img class="svg imgtop" src="http://www.sogosurvey.com/static/sogo_resp_images/Navigation_twitter-01.png" alt="" title=""></a>
+                        <a href="http://www.linkedin.com/company/sogosurvey-inc/" target="_blank"><img class="svg imgtop" src="http://www.sogosurvey.com/static/sogo_resp_images/Navigation_linkedin-01.png" alt="" title=""></a>
+                        </li>
+                        
+                        <li><a href="http://blog.sogosurvey.com" target="_blank">Blog</a></li>
+                        
+                        <li><a href="http://www.sogosurvey.com/help/" target="_blank">Help</a></li>
+                        <li><a href="http://www.sogosurvey.com/feature-search.aspx"><img src="http://www.sogosurvey.com/static/sogo_resp_images/search_icon.png" alt="Search by Features" title="Search by Features" class="imgtop"></a></li>
+                    </ul>
                 </div>
-                <div id="ctl00_dvMenubar">
-                    <div class="Menu fl">
-                        <ul>                                
-                            <li><a href="javascript:void(0);" id="ctl00_liSol">Solutions</a>
-                                <ul class="li-1">
-                                    <li><a href="http://www.sogosurvey.com/Take-a-Tour/">Surveys</a></li>
-                                    <li><a href="http://www.sogosurvey.com/sogoform.aspx">Forms</a></li>
-                                    <li><a href="http://www.sogosurvey.com/sogopoll.aspx">Polls</a></li>
-                                    <li><a href="http://www.sogosurvey.com/sogoquiz.aspx">Quizzes</a></li>                          
-                                    <li style="background-color:#1e1e1e;"><a href="http://www.sogosurvey.com/mobile-surveys/">Mobile Surveys</a></li>
-                                    <li><hr style="margin:8px auto; *margin:-11px auto 0; width:204px; background-color:#8e8e8e; border: 1px solid #8e8e8e;"></li>                                                                       
-                                    <li style="background-color:#1e1e1e; font-weight:bold; padding:10px 10px; color:#D3D3D3;font-size:16px;">Industries</li>
-                                    <li><a href="http://www.sogosurvey.com/K-12/Overview.aspx">K-12</a></li>
-                                    <li><a href="http://www.sogosurvey.com/pricing/discounted-government-plans.aspx">Government</a></li>
-                                    <li><a href="http://www.sogosurvey.com/pricing/discounted-healthcare-plans.aspx">Healthcare</a></li>     
-                                </ul>
-                            </li>
-                            <li><a href="http://www.sogosurvey.com/Take-a-Tour/" id="ctl00_liTAT">Take a Tour</a>
-                                <ul class="li-1">
-                                <li><a href="http://www.sogosurvey.com/Take-a-Tour/">Overview</a></li>
-                                <li><a href="http://www.sogosurvey.com/Take-a-Tour/Design-a-Survey/">Design a Survey</a></li>
-                                <li><a href="http://www.sogosurvey.com/Take-a-Tour/Launch-a-Survey/">Launch a Survey</a></li>
-                                <li><a href="http://www.sogosurvey.com/Take-a-Tour/Run-a-Report/">Run a Report</a></li>
-                                <li><a href="http://www.sogosurvey.com/Take-a-Tour/Manage-Survey-Data/">Manage Survey Data</a></li> 
-                                <li><a href="http://www.sogosurvey.com/Take-a-Tour/Home-Settings/">Account Settings</a></li> 
-                                <li><a href="http://www.sogosurvey.com/Take-a-Tour/Additional-Features/">Additional Features</a></li>
-                                <li><a href="http://www.sogosurvey.com/Take-a-Tour/Complete-Feature-List.aspx">All Features</a></li> 
-                                </ul>
-                            </li>
-                            <li><a href="http://www.sogosurvey.com/Features/" id="ctl00_liFeatures">Features</a>
-                                <ul class="li-1">
-                                    <li><a href="http://www.sogosurvey.com/Features/">Features Overview</a></li>
-                                    <li><a href="http://www.sogosurvey.com/Features/List-of-All-Features.aspx">All Feature Comparison</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="javascript:void(0);" id="ctl00_liDesignSurvey" class="select">Services</a> 
-                                <ul class="li-1">
-                                    <li><a href="/Survey-Design/">Survey Design</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="http://www.sogosurvey.com/static/packages.aspx?blnpackages=False" id="ctl00_liPricing">Pricing</a>
-                                <ul class="li-1">
-                                    <li><a href="http://www.sogosurvey.com/static/packages.aspx?blnpackages=False">Free &amp; Paid Plans</a></li>
-                                    <li><a href="http://www.sogosurvey.com/pricing/Free-Academic-Plans.aspx">Free Academic Plans</a></li>
-                                    <li><a href="http://www.sogosurvey.com/pricing/Free-Non-Profit-Plans.aspx">Free Non-profit Plans</a></li>
-                                    <li><a href="http://www.sogosurvey.com/pricing/Free-Student-Plans.aspx">Free Student Plans</a></li>
-                                    <li><a href="http://www.sogosurvey.com/pricing/discounted-government-plans.aspx">Discounted Government Plans</a></li>
-                                    <li><a href="http://www.sogosurvey.com/pricing/discounted-healthcare-plans.aspx">Discounted Healthcare Plans</a></li>
-                                    <li><a href="http://www.sogosurvey.com/pricing/purchase-order-payment/">Paying by a Purchase Order</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                </div>                
-                <div id="ctl00_dvSignupbtn">                                               
-                    <div class="Sign-Btns fr" style="width:275px;">
-                        <div class="Log-in fl">
-                            <a href="http://www.sogosurvey.com/static/Login.aspx" id="btnLogIn" class="btn-log-in" style="display:block">&nbsp;</a>
-                        </div>                    
-                        <div class="Sign-Up fr">
-                            <a href="http://www.sogosurvey.com/static/Packages.aspx?blnpackages=True" id="btnSignUp" class="btn-sign-up" style="display:block">&nbsp;</a>
-                        </div>                                       
-                        <div class="ca"></div>
-                        <div class="Sign-Link fr">Or sign up with your Facebook or Google account</div>
+            </div>
+            <div class="ca"></div>
+            <nav class="gray_bg navigationSpacing">
+                <div id="ctl00_dvMenubar" class="grid_9 Menu fl">
+                    <ul>
+                        <li><a href="http://www.sogosurvey.com/static/pricing.aspx" id="ctl00_mobilePricing" class="why_nav mobilePricing" style="display:none">Pricing</a></li>
+                        <li class="disabledropDowns"><a href="http://www.sogosurvey.com/static/packages.aspx?blnpackages=False" id="ctl00_liPricing" class="why_nav">Pricing</a></li>
+                        <li><a href="http://www.sogosurvey.com/why-sogosurvey.aspx" id="ctl00_liSogo" class="why_nav">Why SoGoSurvey</a></li>
+                        <li class="disabledropDowns"><a href="http://www.sogosurvey.com/Take-a-Tour/overview/" id="ctl00_liTAT" class="why_nav">Tour</a></li>
+                        <li><a href="http://www.sogosurvey.com/sample-surveys.aspx" id="ctl00_liSol" class="why_nav">Sample Surveys</a></li>
+                        <li><a href="http://www.sogosurvey.com/testimonials/" id="ctl00_liTestimonials" class="why_nav">Testimonials</a></li>
+                        <li class="disabledropDowns"><a href="http://www.sogosurvey.com/Support" id="ctl00_liContact" class="why_nav">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div id="ctl00_dvSignupbtn" class="grid_3 fr dvSignupbtnmob" style="margin-bottom:0.8em;">
+                    <div class="fr">
+                        <a href="http://www.sogosurvey.com/static/Packages.aspx?blnpackages=True" class="SignUplink">Sign Up Free</a>
+                        <a href="http://www.sogosurvey.com/static/Login.aspx" class="loginLink">Login</a>
                     </div>
                 </div>
                 <div class="ca"></div>
-            </div>
-        </div> 
-    </div> 
-</div>                  
-
-
-    <table border="0" cellspacing="0" cellpadding="0" align="center" class="main-in">
-        <tbody><tr>
-            <td valign="top" id="header">
-                <h1>Privacy Policy</h1>
-            </td>
-        </tr>
-        <tr>
-            <td class="content-no-left">
-                <table width="100%" border="0" cellpadding="5" cellspacing="0" id="sitemap" style="margin-top: -10px">
-                    <tbody><tr>
-                        <td colspan="3">
-                            <p>
-                                SogoSurvey is an application service provider that provides you, our customer, tools to conduct two-way communications with your customers, employees, suppliers and constituents. Like the postal service, we understand that the Information we deliver belongs to you and your survey participants, not us. At SoGoSurvey, it is a core business principle that we must protect the privacy of our customers and survey participants or we will not have either. With this principle in mind, SoGoSurvey created this privacy policy to demonstrate our commitment to your privacy. 
-                            </p>
-                            <p>
-                                You should be assured that our practices stated in this policy are practiced worldwide. SoGoSurvey is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders. We may share information between SoGoSurvey entities and transfer it to offices around the world. Some countries may provide less legal protection for personal information than the country in which the information was provided. No matter the country standards, we will still handle the information in the manner we describe here.</p>
-                            <p>
-                                This Privacy Policy applies only to information collected on our web site at the URL <a href="http://www.sogosurvey.com/">http://www.SoGoSurvey.com</a> (the "Site") SoGoSurvey service platform. It does not speak SoGoSurvey practices for information collected elsewhere or the practices of any third parties, including those of our partners who may display SogoSurvey branding on their sites. The use of information collected through our service platform shall be limited to the purpose of providing the service for which the Client has engaged SoGoSurvey.</p>
-                            <p>If you have questions about this privacy policy please email, <a href="mailto:privacy@sogosurvey.com">privacy@sogosurvey.com</a></p>                                
-                            <p>
-                                <strong class="title">1. What Information do we collect?</strong><br>
-                                SoGoSurvey collects information about both you, our customers ("Customers" or "you") and the individuals who participate in, or are invited to participate in, any of your surveys ("Survey Participants"). Collectively, the information collected about you ("Customer Information") and Survey Participants ("Participant Information") are referred to as "Information".</p>
-                            <p>
-                                Customer Information: When Customers register on the Site, we ask you to give us name and contact information: company name, name of contact, title of contact, company address, telephone number, email address, user name and password, and billing information which may include credit card numbers. Customers also provide us with Information regarding the Services you have ordered (e.g., the number of surveys Customers will pay for or whether you want a private or public survey). In addition to the Information you knowingly provide, we also know when and how often you log on to the Site. (See “Tracking Technologies” below).</p>
-                            <p>
-                                Participant Information: We receive Participant Information from both Customers and Survey Participants. You provide us with the email address, and sometimes the name, of each Participant. Before receiving such Information, we contractually require that you warranty that you have a pre-existing relationship with the Survey Participant and/or the Survey Participant's permission to receive electronic messages. Survey Participants provide us with the Information requested by you, for example, their gender or zip code, as well as all answers to the survey questions. Customers are solely responsible for the content of the surveys and we do not control the theme or questions asked in any survey. In order to enhance survey response rates, we record: (i) if and when a Survey Participant has responded to a survey and (ii) if and when a Survey Participant has received a reminder. In addition, we receive any Information contained in any communications a Survey Participant makes directly with SoGoSurvey. (See “Tracking Technologies” below).
-                            </p>
-                            <p>
-                                We also log Customer and Survey Participant Internet Protocol addresses to ensure the accuracy of the survey data and for system administration purposes including tracking a user's session so that we know when, how often and what pages of the Site a user visits. To prevent the need to re-insert user-name and password as you and your Survey Participants move from one page of the Site to the next, we do use a cookie.(See “Tracking Technologies” below).</p>
-                            <p>You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.   </p>    
-                            <p>Our Web site includes a Social Media Features such as the Facebook button. This Feature  may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. This Feature is hosted by Facebook. Your interactions with this Feature are governed by Facebook’s privacy policy. </p>
-                            <p>If you choose to use our referral service on SoGoSurveyto share an article from our site, we will ask you for your email address and your friend’s email address.  We will automatically send your friend a one-time email in your name inviting him or her to visit the site to review the article.  SoGoSurvey does not store this information and uses it for the sole purpose of sending this one-time email.</p>
-                            <p>SoGoSurvey also collects information under the direction of its Clients, SoGoSurvey on its service platform and has no direct relationship with the individuals whose personal data it processes. SoGoSurvey works with its Clients to help them provide notice to their customers concerning, the purpose for which personal information is collected.</p>
-                            <p><strong>Tracking Technologiesemployed on the Site and the Services Platforms</strong><br>
-                            <i>Cookies</i><br>Like many websites, SoGoSurvey uses "cookies" to collect visitor information. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser. They make it possible for us to recognize your browser when you visit and to tell us whether customers and visitors have visited the Site previously. For these purposes your personally identifiable information (such as email address) is tied to personally identifiable information. If you have provided your name or other contact information to SoGoSurvey via a web form, we are able to link that information back to the cookie. This information may be used to provide you with information that we believe to be relevant to you based on your actions on our website.
-                            </p>
-                            <p>We use persistent cookies.  A persistent cookie remains on your hard drive for an extended period of time. </p>
-                            <p><i>Clear Gifs (Web Beacons/Web Bugs)</i><br>
-                            Our tracking utility company employs clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.  These tracking technologies are not tied to our customers’ personally identifiable information. The use of tracking technologies by our third party tracking utility company is not covered by our privacy policy.  We do not have access or control over these cookies.  
-                            </p>
-                            <p>We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients.  This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.  If you would like to opt-out of these emails, please follow the unsubscribe instructions included in each promotional email. </p>
-                            <p><strong>Widgets</strong><br>From time to time our site includes Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the third party company providing the Feature.</p>
-                            <p><strong>Blogs/Forums</strong><br>If you use a blog or forum on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.</p>
-                            <p><strong>Testimonials</strong><br>From time to time, we post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.</p>
-                            <p>If you want to remove your personal information that is being displayed on our website under public pages please send your request to privacy@sogosurvey.com</p>
-                            <p>
-                                <strong class="title">2. How Do We Use Information?</strong><br>
-                                We use your Customer Information in the normal course of our business, including to contact you regarding technical support, discuss billing issues, or to bring to your attention any aspect of our mutual business. We may also use your contact information to provide you with policy or product updates or to introduce new products and services. If you do not wish to receive promotional emails from us, please follow the unsubscribe instructions included in each promotional email.</p>
-                            <p>We will send you strictly service-related announcements on rare occasions when it is necessary to do so.  For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature.</p>
-                            <p>All Participant Information resides in our database primarily for the benefit of you, our Customers. At your direction, we use a Survey Participant's email address (and perhaps name) to send survey invitations and reminders. We also use Participant Information to improve the performance of our Site and services by analyzing site and user behavior, troubleshooting technical problems, resolving disputes and address complaints, and verifying compliance with the Terms of Service.</p>
-                            <p>If SoGoSurvey intends to use any Information in a manner that deviates from this Privacy Policy we will provide notice of how we intend to use that Information as we collect it. The use of that specific Information will be used solely as stated in the alternative disclosure.</p>
-                            <p><strong>Choice</strong><br>We collect information for our Clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly.  If you are a Client and would like to update your account please contact us.</p>
-                            <p><strong>Data Retention</strong><br>SoGoSurvey will retain personal data that we process on behalf of our Clients and data we collect from our Clients directly for as long as it is needed to provide services to our Clients. SoGoSurvey will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
-                            <p><strong>Links to Other Sites</strong><br>This site contains links to other sites that are not owned or controlled by SoGoSurvey. Please be aware that we, SoGoSurvey, are not responsible for the privacy practices of such other sites.  We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information.  </p>
-                            <p>
-                                <strong class="title">3. With Whom Do We Share Information?</strong><br>
-                                We do not share the Information with any third parties except under the following very limited circumstances:</p>
-                            <ol style="list-style-type: lower-alpha; margin-top: -15px">
-                                <li><strong>Participant Information with Customer: </strong>Our business is the provision of tools that allow you, our Customer, to conduct meaningful surveys with your employees, suppliers, customers and constituents. Accordingly, we provide you with access to the Participant Information given in response to the surveys you have conducted. You may use the Participant Information consistent with your own privacy policy and applicable law.</li>
-                                <li><strong>As You Explicitly Allow: </strong>We may share or otherwise use your Customer Information as you explicitly allow us and we may share Participant Information as both you and the Survey Participant expressly allow. For example, you are given the opportunity to either hide or make available to Survey Participants certain Customer contact information in connection with any survey.</li>
-                                <li><strong>Agents Acting on Our Behalf: </strong>We may share some of your Information with other companies who provide us with technical and other type of services such as a credit card processor. They will be contractually granted access to only that Information which is necessary for them to do their jobs and they will be prohibited from using the Information for any other purpose including marketing or sharing the Information with any other party. We do not share any personally identifiable information with third parties who are not services providers.</li>
-                                <li><strong>For Legal Reasons: </strong>We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share your Information to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law.</li>
-                                <li><strong>Affiliates and Acquisition: </strong>We may share Information with our affiliated companies or during any real or potential acquisition or merger of our company by or with another. We will notify you if your Information becomes subject to a different privacy policy.</li>
-                            </ol>
-                            <p>
-                                <strong class="title">4. Can the Information be Changed?</strong><br>
-                                Your Customer Information may be viewed and modified in our active database in real-time at any time. If you wish to request deletion of data from our site, please contact us at (email address is missing). The changed Information may remain in archives and records for some period of time. Once a Survey Participant has submitted a survey, the Survey Participant will not be able to access his Information through the Site. Survey Participants may contact you and you, in turn, will be able to view the Survey Participant's collected Information and, where appropriate, work with us in modifying such Information. If the client requests SoGoSurvey to remove the Survey Participant’s data or the Client’s data, SoGoSurvey will respond to their Client’s request within 30 business days. </p>
-                            <p>
-                                <strong class="title">5. How Is Information Protected?</strong><br>
-                                Our Site has substantial and elaborate security measures in place to protect your Information. Unique user names and passwords must be entered each time a person logs on. The Site is hosted in a secure server environment that uses a firewall and other technology to reasonably prevent access from outside intruders. Internally, we use security-logs, train our employees and limit access to only essential personnel. When transmitting sensitive Information, we use encryption technology. All our technology and processes are not, however, guarantees of security. Please keep your user name and password secret and let us know at <a href="mailto:privacy@sogosurvey.com">privacy@sogosurvey.com</a> if you learn or suspect that our security has been breached.</p>
-                            <p>
-                                <strong class="title">6. Changes in the Privacy Policy:</strong><br>
-                                As we are constantly improving our services and expanding our business, we retain the right to modify this privacy policy at any time. In the event we make such changes, we will announce the changes and post the new policy on the Site. Information collected after the new policy is posted will be used in conformance with the new policy. Information gathered under the old policy will continue to be used in conformance with that policy unless we, in conjunction with Customer, notify Survey Participants of the changes and the Survey Participant does not prohibit the use of the Information in conformance with the new policy. If we make any material changes we will notify you or our Client by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.<br>
-                            </p>
-                            <p>SoGoSurvey Interactive  (“SoGoSurvey”) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s <a href="http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html">Program Requirements</a> and the <a href="http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html">TRUSTed Cloud Program Requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@sogosurvey.com">privacy@sogosurvey.com</a>.  If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>.</p>
-                            <p>TRUSTe’s certification applies to <a href="http://www.sogosurvey.com/">www.sogosurvey.com</a> and the service platform associated with this website. </p>
-                            <p class="title">EU-US and Swiss-US Safe Harbor</p>
-                            <p>SoGo Surveycomplies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. SoGo Surveyhas certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view SoGo Survey’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/.</a></p>
-                            <p><strong>Additional Information</strong></p>
-                            <p>If you have questions about this Privacy Policy or the Site, you can contact us at <a href="mailto:privacy@sogosurvey.com">privacy@sogosurvey.com</a></p>                                                    
-                            <p>Last Updated: February 7, 2013</p>
-                        </td>
-                    </tr>
-                </tbody></table>
-            </td>
-        </tr>
-    </tbody></table>
-
-        
-
-<div class="clearer"></div>
+            </nav>
+        </div>
+        <div class="clearfix"></div>
+    </header>
     
-    <div id="DivFixF"></div>
-    <script type="text/javascript">    
-        $(document).ready(function() 
-        {
-            $(window).bind('scroll load', function (event) 
-            {                    
-                var windowScrollT = $( window ).scrollTop();                   	
-                if(windowScrollT + $(window).height() < ($('#Footer').offset().top -20))
-                {
-                    $('#toggle-box').slideUp("slow");
-                    $('#toggle-hide').hide();
-                    $('#toggle-show').show();                      			    
-                }                              
-                return false;
-            })
-        });
-    </script>
-             
-    <div id="Footer">        
-        <div class="Wrapper">         
-            <div class="footerdiv2">
-                <div class="fl">           
-                    <div id="Div1"></div>
-                        <div id="snGroupContainer" style="margin:0;padding:0;border:0;width:400px; float: left;height:30px;">
-                            <!-- Facebook -->
-                            <div id="Div2" style="float: left; width: 85px;">
-                                <script type="text/javascript">(function(d, s, id) {
-			                        var js, fjs = d.getElementsByTagName(s)[0];
-			                        if (d.getElementById(id)) return;
-			                        js = d.createElement(s); js.id = id;
-			                        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-			                        fjs.parentNode.insertBefore(js, fjs);
-			                        }(document, 'script', 'facebook-jssdk'));
-                                </script>
-                                <div class="fb-like" data-href="https://www.facebook.com/sogosurvey" data-send="false" data-layout="button_count" data-width="20" data-show-faces="true" data-font="lucida grande"></div>
-                            </div>
-                            <!-- Twitter -->
-                            <div id="Div3" style="float: left; width: 100px;">
-                                <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.sogosurvey.com" data-via="sogosurvey" data-related="sogosurvey">Tweet</a>
-                                <script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-                            </div>
-                            <!-- Google plus -->
-                            <div id="Div4" style="float: left; width: 75px;">
-                                <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-                                <div class="g-plusone" data-size="medium" data-href="https://plus.google.com/105523682061546764557"></div>
-                            </div>                            
-                            <!-- Linked-in -->
-                            <div id="Div5" style="float: left;">
-                                <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-                                <script type="IN/Share" data-url="www.sogosurvey.com" data-counter="right"></script>
-                            </div>
-                      </div>
-                    <div class="ca"></div>            
-                    <div class="divshare fl" style="*margin-top:10px;">
-                        <p>13454 Sunrise Valley Drive<br>
-                        Suite 440<br>
-                        Herndon, VA 20171<br>
-                        USA<br>
-                        
-                        <a style="text-decoration: underline;" href="mailto:support1@sogosurvey.com">support1@sogosurvey.com</a></p>
-                        <p>
-                            <a href="http://www.sogosurvey.com/Support/" id="btn-contact" class="btn-contact">Contact us</a>                    
-                        </p>
-                    </div>
+<section class="home">
+    <article class="normal">
+        <div class="Wrapper">
+            <section>
+                <div class="grid_12">
+                    <h1>Privacy Policy</h1>
+                    <h2></h2>
                 </div>
-                <div style="float:right; margin-top:143px;">
-                    <span id="Span1" style="display:inline-block; padding:8px 8px 0px 0px; vertical-align:top;">
-                    <script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=deSszm9CrC2njwiTZ0bcAsWaJVpkN4KEIN47meEoqscBpBHyYySuhs0vHM"></script>
-                    </span> 
-                    <span style="display:inline-block; padding:4px 8px 0px 0px; vertical-align:top;">                    
-                    <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.sogosurvey.com"><img width="65" height="37" src="//images.mcafeesecure.com/meter/www.sogosurvey.com/55.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
-                    </span> 
-                    <span style="display:inline-block; padding:0px 8px 0px 0px;" onmouseout="document.getElementById('BH').style.display='';document.getElementById('BN').style.display='none';" onmouseover="document.getElementById('BH').style.display='none';document.getElementById('BN').style.display='';">
-                    <a href="http://www.bbb.org/washington-dc-eastern-pa/business-reviews/business-consultants/zarca-interactive-inc-in-herndon-va-152030302" target="_blank"><img alt="SogoSurvey Inc BBB Business Review" id="BH" style="border: 0;" src="../../Images/SogoImages/bbbN.png"></a>
-                    <a href="http://www.bbb.org/washington-dc-eastern-pa/business-reviews/business-consultants/zarca-interactive-inc-in-herndon-va-152030302" target="_blank"><img alt="SogoSurvey Inc BBB Business Review" id="BN" style="border: 0;display:none; background-color:Transparent;" src="../../Images/SogoImages/bbbH1.png"></a>
-                    </span>
-                    <span id="d755662-4ae6-4010-bbb3-4f4813d2763d" style="display:inline-block; padding:0px 0px 0px 0px;">
+            </section>
+            <section>
+                <div class="grid_12">
+                    <p class="mb">SogoSurvey is an application service provider that provides you, our customer, tools to conduct two-way communications with your customers, employees, suppliers and constituents. Like the postal service, we understand that the Information we deliver belongs to you and your survey participants, not us. At SoGoSurvey, it is a core business principle that we must protect the privacy of our customers and survey participants or we will not have either. With this principle in mind, SoGoSurvey created this privacy policy to demonstrate our commitment to your privacy.</p>
+                    <p class="mb">You should be assured that our practices stated in this policy are practiced worldwide. SoGoSurvey is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders. We may share information between SoGoSurvey entities and transfer it to offices around the world. Some countries may provide less legal protection for personal information than the country in which the information was provided. No matter the country standards, we will still handle the information in the manner we describe here.</p>
+                    <p class="mb">This Privacy Policy applies only to information collected on our web site at the URL <a href="http://www.sogosurvey.com/">http://www.SoGoSurvey.com</a> (the "Site") SoGoSurvey service platform. It does not speak SoGoSurvey practices for information collected elsewhere or the practices of any third parties, including those of our partners who may display SogoSurvey branding on their sites. The use of information collected through our service platform shall be limited to the purpose of providing the service for which the Client has engaged SoGoSurvey.</p>
+                    <p class="mb">If you have questions about this privacy policy please email, <a href="mailto:privacy@sogosurvey.com">privacy@sogosurvey.com</a></p>
+                    <h5>1. What Information do we collect?</h5>
+                    <p class="mb">SoGoSurvey collects information about both you, our customers ("Customers" or "you") and the individuals who participate in, or are invited to participate in, any of your surveys ("Survey Participants"). Collectively, the information collected about you ("Customer Information") and Survey Participants ("Participant Information") are referred to as "Information".</p>
+                    <p class="mb">Customer Information: When Customers register on the Site, we ask you to give us name and contact information: company name, name of contact, title of contact, company address, telephone number, email address, user name and password, and billing information which may include credit card numbers. Customers also provide us with Information regarding the Services you have ordered (e.g., the number of surveys Customers will pay for or whether you want a private or public survey). In addition to the Information you knowingly provide, we also know when and how often you log on to the Site. (See “Tracking Technologies” below).</p>
+                    <p class="mb">Participant Information: We receive Participant Information from both Customers and Survey Participants. You provide us with the email address, and sometimes the name, of each Participant. Before receiving such Information, we contractually require that you warranty that you have a pre-existing relationship with the Survey Participant and/or the Survey Participant's permission to receive electronic messages. Survey Participants provide us with the Information requested by you, for example, their gender or zip code, as well as all answers to the survey questions. Customers are solely responsible for the content of the surveys and we do not control the theme or questions asked in any survey. In order to enhance survey response rates, we record: (i) if and when a Survey Participant has responded to a survey and (ii) if and when a Survey Participant has received a reminder. In addition, we receive any Information contained in any communications a Survey Participant makes directly with SoGoSurvey. (See “Tracking Technologies” below).</p>
+                    <p class="mb">We also log Customer and Survey Participant Internet Protocol addresses to ensure the accuracy of the survey data and for system administration purposes including tracking a user's session so that we know when, how often and what pages of the Site a user visits. To prevent the need to re-insert user-name and password as you and your Survey Participants move from one page of the Site to the next, we do use a cookie.(See “Tracking Technologies” below).</p>
+                    <p class="mb">You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. </p>
+                    <p class="mb">Our Web site includes a Social Media Features such as the Facebook button. This Feature may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. This Feature is hosted by Facebook. Your interactions with this Feature are governed by Facebook’s privacy policy.</p>
+                    <p class="mb">If you choose to use our referral service on SoGoSurveyto share an article from our site, we will ask you for your email address and your friend’s email address. We will automatically send your friend a one-time email in your name inviting him or her to visit the site to review the article. SoGoSurvey does not store this information and uses it for the sole purpose of sending this one-time email.</p>
+                    <p class="mb">SoGoSurvey also collects information under the direction of its Clients, SoGoSurvey on its service platform and has no direct relationship with the individuals whose personal data it processes. SoGoSurvey works with its Clients to help them provide notice to their customers concerning, the purpose for which personal information is collected.</p>
+                    <p class="fwt-bd">Tracking Technologiesemployed on the Site and the Services Platforms</p>
+                    <p class="p_italic">Cookies</p>
+                    <p class="mb">Like many websites, SoGoSurvey uses "cookies" to collect visitor information. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser. They make it possible for us to recognize your browser when you visit and to tell us whether customers and visitors have visited the Site previously. For these purposes your personally identifiable information (such as email address) is tied to personally identifiable information. If you have provided your name or other contact information to SoGoSurvey via a web form, we are able to link that information back to the cookie. This information may be used to provide you with information that we believe to be relevant to you based on your actions on our website.</p>
+                    <p class="mb">We use persistent cookies. A persistent cookie remains on your hard drive for an extended period of time.</p>
+                    <p class="p_italic">Clear Gifs (Web Beacons/Web Bugs)</p>
+                    <p class="mb">Our tracking utility company employs clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. These tracking technologies are not tied to our customers’ personally identifiable information. The use of tracking technologies by our third party tracking utility company is not covered by our privacy policy. We do not have access or control over these cookies.</p>
+                    <p class="mb">We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please follow the unsubscribe instructions included in each promotional email.</p>
+                    <p class="fwt-bd">Widgets</p>
+                    <p class="mb">From time to time our site includes Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the third party company providing the Feature.</p>
+                    <p class="fwt-bd">Blogs/Forums</p>
+                    <p class="mb">If you use a blog or forum on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.</p>
+                    <p class="fwt-bd">Testimonials</p>
+                    <p class="mb">From time to time, we post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.</p>
+                    <p class="mb">If you want to remove your personal information that is being displayed on our website under public pages please send your request to privacy@sogosurvey.com</p>
+                    <h5>2. How Do We Use Information?</h5>
+                    <p class="mb">We use your Customer Information in the normal course of our business, including to contact you regarding technical support, discuss billing issues, or to bring to your attention any aspect of our mutual business. We may also use your contact information to provide you with policy or product updates or to introduce new products and services. If you do not wish to receive promotional emails from us, please follow the unsubscribe instructions included in each promotional email.</p>
+                    <p class="mb">We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature.</p>
+                    <p class="mb">All Participant Information resides in our database primarily for the benefit of you, our Customers. At your direction, we use a Survey Participant's email address (and perhaps name) to send survey invitations and reminders. We also use Participant Information to improve the performance of our Site and services by analyzing site and user behavior, troubleshooting technical problems, resolving disputes and address complaints, and verifying compliance with the Terms of Service.</p>
+                    <p class="mb">If SoGoSurvey intends to use any Information in a manner that deviates from this Privacy Policy we will provide notice of how we intend to use that Information as we collect it. The use of that specific Information will be used solely as stated in the alternative disclosure.</p>
+                    <p class="fwt-bd">Choice</p>
+                    <p class="mb">We collect information for our Clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the Client that you interact with directly. If you are a Client and would like to update your account please contact us.</p>
+                    <p class="fwt-bd">Data Retention</p>
+                    <p class="mb">SoGoSurvey will retain personal data that we process on behalf of our Clients and data we collect from our Clients directly for as long as it is needed to provide services to our Clients. SoGoSurvey will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+                    <p class="fwt-bd">Links to Other Sites</p>
+                    <p class="mb">This site contains links to other sites that are not owned or controlled by SoGoSurvey. Please be aware that we, SoGoSurvey, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information.</p>
+                    <h5>3. With Whom Do We Share Information?</h5>
+                    <p class="mb2">We do not share the Information with any third parties except under the following very limited circumstances:</p>
+                    <ol class="alpha_list">
+                        <li><span class="fwt-bd">Participant Information with Customer:</span> Our business is the provision of tools that allow you, our Customer, to conduct meaningful surveys with your employees, suppliers, customers and constituents. Accordingly, we provide you with access to the Participant Information given in response to the surveys you have conducted. You may use the Participant Information consistent with your own privacy policy and applicable law.</li>
+                        <li><span class="fwt-bd">As You Explicitly Allow:</span> We may share or otherwise use your Customer Information as you explicitly allow us and we may share Participant Information as both you and the Survey Participant expressly allow. For example, you are given the opportunity to either hide or make available to Survey Participants certain Customer contact information in connection with any survey.</li>
+                        <li><span class="fwt-bd">Agents Acting on Our Behalf:</span> We may share some of your Information with other companies who provide us with technical and other type of services such as a credit card processor. They will be contractually granted access to only that Information which is necessary for them to do their jobs and they will be prohibited from using the Information for any other purpose including marketing or sharing the Information with any other party. We do not share any personally identifiable information with third parties who are not services providers.</li>
+                        <li><span class="fwt-bd">For Legal Reasons:</span> We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share your Information to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law.</li>
+                        <li><span class="fwt-bd">Affiliates and Acquisition:</span> We may share Information with our affiliated companies or during any real or potential acquisition or merger of our company by or with another. We will notify you if your Information becomes subject to a different privacy policy.</li>
+                    </ol>
+                    <div class="ca"></div>
+                    <h5 class="mt">4. Can the Information be Changed?</h5>
+                    <p class="mb">Your Customer Information may be viewed and modified in our active database in real-time at any time. If you wish to request deletion of data from our site, please contact us at <a href="mailto:support1@sogosurvey.com">support1@sogosurvey.com</a>. The changed Information may remain in archives and records for some period of time. Once a Survey Participant has submitted a survey, the Survey Participant will not be able to access his Information through the Site. Survey Participants may contact you and you, in turn, will be able to view the Survey Participant's collected Information and, where appropriate, work with us in modifying such Information. If the client requests SoGoSurvey to remove the Survey Participant’s data or the Client’s data, SoGoSurvey will respond to their Client’s request within 30 business days.</p>
+                    <h5>5. How Is Information Protected?</h5>
+                    <p class="mb">Our Site has substantial and elaborate security measures in place to protect your Information. Unique user names and passwords must be entered each time a person logs on. The Site is hosted in a secure server environment that uses a firewall and other technology to reasonably prevent access from outside intruders. Internally, we use security-logs, train our employees and limit access to only essential personnel. When transmitting sensitive Information, we use encryption technology. All our technology and processes are not, however, guarantees of security. Please keep your user name and password secret and let us know at <a href="mailto:privacy@sogosurvey.com">privacy@sogosurvey.com</a> if you learn or suspect that our security has been breached.</p>
+                    <h5>6. Changes in the Privacy Policy:</h5>
+                    <p class="mb">As we are constantly improving our services and expanding our business, we retain the right to modify this privacy policy at any time. In the event we make such changes, we will announce the changes and post the new policy on the Site. Information collected after the new policy is posted will be used in conformance with the new policy. Information gathered under the old policy will continue to be used in conformance with that policy unless we, in conjunction with Customer, notify Survey Participants of the changes and the Survey Participant does not prohibit the use of the Information in conformance with the new policy. If we make any material changes we will notify you or our Client by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+                    <p class="mb">SoGoSurvey Interactive (“SoGoSurvey”) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s <a href="http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html">Program Requirements</a> and the <a href="http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html">TRUSTed Cloud Program Requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@sogosurvey.com">privacy@sogosurvey.com</a>. If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>.</p>
+                    <p class="mb">TRUSTe’s certification applies to <a href="http://www.sogosurvey.com/">www.sogosurvey.com</a> and the service platform associated with this website. </p>
+                    <h5>EU-US and Swiss-US Safe Harbor</h5>
+                    <p class="mb">SoGo Surveycomplies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. SoGo Surveyhas certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SoGo Survey’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/.</a></p>
+                    <p class="fwt-bd">Additional Information</p>
+                    <p class="mb">If you have questions about this Privacy Policy or the Site, you can contact us at <a href="mailto:privacy@sogosurvey.com">privacy@sogosurvey.com</a></p>
+                    <p class="mb">Last Updated: February 7, 2013</p>
+                </div>
+            </section>
+            <div class="ca_mt2"></div>
+        </div>
+    </article>
+</section>
+    
+    <footer>
+        <div class="Wrapper">
+        <div style="position:relative; height:325px;">
+            <section class="fl" style="margin-left:10px;">
+            <section class="grid_2_footer fl">
+                <h5 class="h5_foothead">Company</h5>
+                <ul class="sub-footer">
+                    <li><a href="http://www.sogosurvey.com/About-Us/">About Us</a></li>
+                    <li><a href="http://www.sogosurvey.com/About-Us/careers.aspx">Careers</a></li>
+                    <li><a href="http://www.sogosurvey.com/why-sogosurvey.aspx">Why SoGoSurvey</a></li>
+                    
+                    <li><a href="http://blog.sogosurvey.com" target="_blank">Blog</a></li>
+                    
+                </ul>
+            </section>
+            <section class="grid_2_footer fl">
+                <h5 class="h5_foothead">Policies</h5>
+                <ul class="sub-footer">
+                    <li><a href="http://www.sogosurvey.com/Legal/online-survey-privacy.aspx">Privacy Policy</a></li>
+                    <li><a href="http://www.sogosurvey.com/Legal/Tos.aspx">Terms of Services</a></li>
+                    <li><a href="http://www.sogosurvey.com/Legal/Anti-Spam-Policy.aspx">Anti Spam Policy</a></li>
+                </ul>
+            </section>
+            <section class="grid_2R_footer fl">
+                <h5 class="h5_foothead">Resources</h5>
+                <ul class="sub-footer">
+                    <li><a href="http://www.sogosurvey.com/static/Packages.aspx?blnpackages=false">Pricing</a></li>
+                    <li><a href="http://www.sogosurvey.com/sample-surveys/survey-design.aspx">Survey Design Services</a></li>  
+                    <li><a href="http://www.sogosurvey.com/Sitemap/Sitemap.aspx">Site Map</a></li>
+                </ul>
+            </section>            
+            <div class="ca"></div>
+            <section class="fl">
+                <div class="cf_sides">
                     <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Zarca-Interactive/asc?rid=6d755662-4ae6-4010-bbb3-4f4813d2763d"></script>
                     <a href="//privacy.truste.com/privacy-seal/Zarca-Interactive/validation?rid=df1cb5c5-b450-44f2-9a13-1ecec00da21a" title="Validate TRUSTe privacy certification" target="_blank">
                     <img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Zarca-Interactive/seal?rid=df1cb5c5-b450-44f2-9a13-1ecec00da21a" alt="Validate TRUSTe privacy certification"></a>
-                    </span>
                 </div>
-                <div class="ca"></div>        
-            </div>                     
-        </div>
-    </div>
-    <div id="Footer2">                                    
-        <div class="Wrapper">
-            <div class="Bottom-footer fl">
-                <a href="http://www.sogosurvey.com/About-Us/">About Us</a> |    
-                <a href="http://www.sogosurvey.com/Support/">Contact Us</a>  |     
-                <a href="http://www.sogosurvey.com/About-Us/careers.aspx">Careers</a>  |     
-                <a href="http://www.sogosurvey.com/Sitemap/Sitemap.aspx">Site Map</a>  |            
-                <a href="http://www.sogosurvey.com/Legal/Tos.aspx">Terms of Services</a>  |   
-                <a href="http://www.sogosurvey.com/Legal/online-survey-privacy.aspx">Privacy Policy</a>  |  
-                <a href="http://www.sogosurvey.com/Legal/Anti-Spam-Policy.aspx">Anti Spam Policy</a>            
+                <div class="cf_sides" onmouseout="document.getElementById('BH').style.display='';document.getElementById('BN').style.display='none';" onmouseover="document.getElementById('BH').style.display='none';document.getElementById('BN').style.display='';">
+                    <a href="http://www.bbb.org/washington-dc-eastern-pa/business-reviews/business-consultants/zarca-interactive-inc-in-herndon-va-152030302" target="_blank"><img alt="SogoSurvey Inc BBB Business Review" id="BH" style="border: 0;" src="../../Images/SogoImages/bbbN.png"></a>
+                    <a href="http://www.bbb.org/washington-dc-eastern-pa/business-reviews/business-consultants/zarca-interactive-inc-in-herndon-va-152030302" target="_blank"><img alt="SogoSurvey Inc BBB Business Review" id="BN" style="border: 0;display:none; background-color:Transparent;" src="../../Images/SogoImages/bbbH1.png"></a>
+                </div>
+                <div class="cf_sides" style="margin-top:3.5em;">
+                    <script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=deSszm9CrC2njwiTZ0bcAsWaJVpkN4KEIN47meEoqscBpBHyYySuhs0vHM"></script>
+                </div>
+                <div class="cf_sides" style="margin-top:3.2em;">
+                    <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.sogosurvey.com">
+                    <img width="65" height="37" src="//images.mcafeesecure.com/meter/www.sogosurvey.com/55.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
+                </div>
+                <div class="ca"></div>
+            </section>
+            </section>
+            <section class="grid_2a_footer fl">
+                <h5 class="h5_foothead">Samples</h5>
+                <ul class="sub-footer">
+                    <li><a href="http://www.sogosurvey.com/sample-surveys/customer-satisfaction-surveys/">Customer Satisfaction Surveys</a></li>
+                    <li><a href="http://www.sogosurvey.com/sample-surveys/employee-satisfaction-surveys/">Employee Satisfaction Surveys</a></li>
+                    <li><a href="http://www.sogosurvey.com/Survey-Types/feedback-surveys/">Feedback Surveys</a></li>
+                    <li><a href="http://www.sogosurvey.com/Survey-Types/school-surveys/">School Surveys</a></li>
+                    <li><a href="http://www.sogosurvey.com/Survey-Types/academic-surveys/">Academic Surveys</a></li>
+                    <li><a href="http://www.sogosurvey.com/sample-surveys/event-planning-surveys/">Event Planning Surveys</a></li>
+                    <li><a href="http://www.sogosurvey.com/sample-surveys/market-research-surveys/">Market Research Surveys</a></li>
+                    <li><a href="http://www.sogosurvey.com/Survey-Types/performance-appraisal-survey/">Performance Appraisal Surveys</a></li>
+                    <li><a href="http://www.sogosurvey.com/sample-surveys/healthcare/hcahps-survey.aspx">Healthcare Surveys</a></li>
+                    <li><a href="http://www.sogosurvey.com/sample-surveys/HR-surveys/">HR Surveys</a></li>
+                </ul>
+            </section>            
+            <section class="grid_3a_footer fr">
+                <h5 class="h5_foothead">Connect With Us</h5>
+                <ul class="connect">
+                    <li class="profile-button" style="margin-left:0;"><a href="http://www.facebook.com/sogosurvey" target="_blank" class="facebook svg"></a></li>
+                    <li class="profile-button"><a href="http://twitter.com/SoGoSurvey" target="_blank" class="twitter svg"></a></li>
+                    <li class="profile-button"><a href="http://www.linkedin.com/company/sogosurvey-inc/" target="_blank" class="linkedin svg"></a></li>
+                    <li class="profile-button"><a href="http://plus.google.com/105523682061546764557/posts/" target="_blank" class="gplus svg"></a></li>
+                    <li class="profile-button"><a href="http://www.youtube.com/user/sogosurvey/" target="_blank" class="youtube svg"></a></li>
+                </ul>
+                <div class="ca"></div>
+                <p class="gray-txt">© 2013 SoGoSurvey, Inc. <br>2291 Wood Oak Drive <br>Herndon, VA 20171</p>                
+            </section>
+            <div class="ca"></div>
+            <a href="http://www.sogosurvey.com/our-guarantee/safe-harbor-and-data-security/"><img class="svg" style="position:absolute;bottom:0;right:0;" src="http://www.sogosurvey.com/static/sogo_resp_images/seal-of-trust-footer.png" alt=""></a>
             </div>
-            <div style="font-size:11px; font-weight:400; color:#333; float:right; padding:6px 0px; display:inline-block;">Version 4.5 © 2013 SoGoSurvey, Inc. </div> 
         </div>
-    </div>        
+    </footer>  
+</div>      
     <div id="fadeDiv"></div>
-    <script type="text/javascript">
-    $('#toggle-box').hide();
-    $('#toggle-show').click(function()
-    {
-        $('#toggle-box').slideDown("slow");
-        $('#toggle-show').hide();
-        $('#toggle-hide').show();
-        
-        return false;    	
-    });
-    $('#toggle-hide').click(function()
-    {
-        $('#toggle-box').slideUp("slow");
-        $('#toggle-hide').hide();
-        $('#toggle-show').show();
-        
-        return false;    	
-    });    
-    </script>
-    <script type="text/javascript">
-    function d_g_id(elem)
-    {
-    return document.getElementById(elem);
-    }
-    function getWindowDimensions(doc,win)
-    {
-    var w,h,_db;
-    if(typeof(win)=="undefined") _w=window;
-    else _w=win;
-    if(typeof(doc)=="undefined") _d=document;
-    else _d=doc;
-    _db=_d.body;
-    if(_w.innerWidth){
-    w=_w.innerWidth-15;
-    h=_w.innerHeight+2;
-    }else if(_db.parentElement.clientWidth){
-    w=_db.parentElement.clientWidth;
-    h=_db.parentElement.clientHeight;
-    }
-    else
-    {
-    w=_db.clientWidth; h=_db.clientHeight; 
-    } 
-    return [w-22,h];
-    }
-    function getDocHeight()
-    {
-    var doc = document;
-    return Math.max(Math.max(doc.body.scrollHeight, doc.documentElement.scrollHeight),
-    Math.max(doc.body.offsetHeight, doc.documentElement.offsetHeight),Math.max(doc.body.clientHeight, doc.documentElement.clientHeight)
-    );
-    }
-    </script>
+    <div id="chat_now_div">    
+           
+        <script type="text/javascript" src="http://chat.sogosurvey.com/CuteSoft_Client/CuteChat/Support-Image-Button-footer.js.aspx"></script>
+    </div>    
 </form>
  <!-- PRT:25990 Added this CPH so that we can remove GA code from login page -->
     <script type="text/javascript">
@@ -417,6 +361,8 @@
     pageTracker._trackPageview();
     } catch(err) {}
     </script>
+   
+ 
 
 
 </body></html>
