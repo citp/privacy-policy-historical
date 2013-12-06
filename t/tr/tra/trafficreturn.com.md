@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficreturn.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522145225id_/http%3A//trafficreturn.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficreturn.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206133800id_/http%3A//trafficreturn.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # TrafficReturn.com Get Traffic that Returns!
 
