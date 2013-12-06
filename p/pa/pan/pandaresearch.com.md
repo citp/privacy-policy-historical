@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandaresearch.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602141246id_/http%3A//pandaresearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandaresearch.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206140330id_/http%3A//pandaresearch.com/privacy) for the most accurate reproduction.*
 
 # Panda Research Privacy Policy
 
@@ -12,7 +12,7 @@ Panda Research Privacy Policy
 
 **
 
-Revised 1st November 2011 
+Revised 23 July 2013 
 
 Your privacy is very important to us. We hope the following statement will help you understand how Panda Research .com collects, uses, and safeguards the personal information you provide to us on our Web site.
 
@@ -56,7 +56,7 @@ PandaResearch does not rent, sell, or share User information, except in the foll
 
 (e) We provide User information to trusted partners in order to enhance the service provided to our Users
 
-(f) All emails you receive from Pandaresearch will come from Pandaresearch, so you may easily distinguish our emails. We will never share your email with third party marketing companies. Your email will only be shared with All Inbox, LLC, Pandaresearch mailing partner. 
+(f) All emails you receive from Pandaresearch will come from Pandaresearch, so you may easily distinguish our emails. We will never share your email with third party marketing companies. Your email will only be shared with All Inbox, LLC, Restoration Media for Job Alerts, Pandaresearch mailing partners. 
 
   * **III. CO-REGISTRATION**
     1. **Definition**
@@ -101,6 +101,12 @@ PandaResearch.com is not responsible for any content or privacy policies of web 
 **Contact Information:**
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at: [PandaResearch Support](http://support.pandaresearch.com/)
+
+Or Write To Us At:
+
+Panda Research  
+10685-B Hazelhurst Dr #7902  
+Houston TX 77043
 
 ## Create an account with PandaResearch today to get access to paid surveys online. 
 
