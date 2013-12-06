@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the flsenate.gov privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606181821id_/http%3A//flsenate.gov/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flsenate.gov privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206115951id_/http%3A//flsenate.gov/About/Privacy) for the most accurate reproduction.*
 
-# Privacy Statement Flsenate.gov - The Florida Senate
+# Privacy Statement - The Florida Senate
+
+## Privacy Statement
 
 The Florida Senate is committed to protecting individual privacy and securing the personal information made available to us when you visit www.flsenate.gov, as well Florida Senate pages on other sites (such as official Florida Senate profiles on social networks).
 
