@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the raythereign.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529183452id_/http%3A//raythereign.com/Main/Main/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raythereign.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206190754id_/http%3A//raythereign.com/index.php/faq/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Main
+# Privacy Statement
+
+## PRIVACY STATEMENT
 
 ### Raythe Reign's Statement of Privacy
 
