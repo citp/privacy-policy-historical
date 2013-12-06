@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startya.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316152939id_/http%3A//www.startya.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startya.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206165558id_/http%3A//startya.com/privacy) for the most accurate reproduction.*
 
 # Startya Search Start - Privacy Policy
 
