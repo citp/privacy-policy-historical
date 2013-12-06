@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the porntubemate.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628110504id_/http%3A//www.porntubemate.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntubemate.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206135347id_/http%3A//www.porntubemate.com/privacy.html%3F) for the most accurate reproduction.*
 
-# PornTubeMate - Privacy
+# PornTubeMate - Privacy Policy
 
 [Home](http://www.porntubemate.com/) / Privacy Policy
 
