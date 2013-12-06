@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmsforaction.org privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501080918id_/http%3A//www.filmsforaction.org/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmsforaction.org privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206232822id_/http%3A//www.filmsforaction.org/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Films For Action
 
