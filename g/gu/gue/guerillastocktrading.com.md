@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guerillastocktrading.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604050726id_/http%3A//www.guerillastocktrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guerillastocktrading.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206130324id_/http%3A//www.guerillastocktrading.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Guerilla Stock Trading.com
+# Privacy Policy | GuerillaStockTrading
 
 At http://www.guerillastocktrading.com we recognize that privacy is important. 
 
