@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dphotojournal.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605225843id_/http%3A//www.dphotojournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dphotojournal.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206113316id_/http%3A//www.dphotojournal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Digital Camera Reviews & Photography Tips
+# Privacy Policy
 
 Last updated: Friday, February 29th, 2008 
 
@@ -53,5 +53,3 @@ When Dphotojournal makes changes to this privacy policy we will post those chang
 **Contact Information**
 
 If you have any questions regarding our privacy policy, please contact us.
-
-Popularity: 1%
