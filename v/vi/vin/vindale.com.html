@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vindale.com privacy policy that was archived on 2013-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621070435id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vindale.com privacy policy that was archived on 2013-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206114356id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -27,7 +27,7 @@
         }
 
         
-        var func_9a1705cc65d809d7462ec15c3f21a52b = function () {
+        var func_e805836563a9b94fd799ab3e89ecf6b4 = function () {
             if (top.location != location) {
                 var href = document.location.href;
                 href += href.indexOf("?") >= 0 ? "&" : "?";
@@ -49,150 +49,158 @@
     <meta name="decorator" content="default">
     <meta name="description" content="Vindale Research - Take free online surveys and get paid for your work! Review products and services and get paid to take surveys online! It's just that easy.">
     <meta name="keywords" content="free online surveys,paid to take surveys online,online market research,paid surveys,paid online surveys,survey jobs,surveys for money,survey for cash,get paid for survey,take survey get paid,opinion survey,pay me survey,get paid for online survey,online survey for money"></head>
-<body onload="func_9a1705cc65d809d7462ec15c3f21a52b();" onunload="">
+<body onload="func_e805836563a9b94fd799ab3e89ecf6b4();" onunload="">
     <div id="fb-root"></div>
 <script>
-(function($) {
+    (function($) {
 
-    var pane, isSignIn = false, contextPath = location.pathname.split("/")[1],
-            fbImg = '<img src="/' + contextPath + '/images/facebookConnect/connect.gif" style="padding:2px"/>',
-            loadingFBStatus = $('<span style="text-align: center"><h2>Loading...</h2><img src="/' + contextPath + '/images/loading.gif"/></span>');
+        var pane, isSignIn = false, contextPath = location.pathname.split("/")[1],
+                fbImg = '<button class="button button-medium button-block button-facebook"><i class="icon-facebook"></i>Connect with facebook</button><br><br>',
+                fbImg = '<img src="/' + contextPath + '/images/facebookConnect/connect.gif" style="padding:2px"/>',
+                loadingFBStatus = $('<span style="text-align: center"><h2>Loading...</h2><img src="/' + contextPath + '/images/loading.gif"/></span>');
 
-    var fbService = function(payload, cb) {
-        var o = $.extend({ref: '', pcid: ''}, payload);
-        $.post('/v/fb/service.jsp', {data: JSON.stringify(o)}, cb);
-    };
+        var fbService = function(payload, cb) {
+            var o = $.extend({ref: '', pcid: ''}, payload);
+            $.ajax({type: 'POST', url: '/v/fb/service.jsp', data: {data: JSON.stringify(o)}, success: cb, contentType: 'application/x-www-form-urlencoded', dataType: 'json'});
+        };
 
-    var getPaneMessage = function(result) {
-        var r = result.name;
-        var message = 'We could not sign you in with your Facebook account. Please try again by using your email address and password.';
+        var getPaneMessage = function(result) {
+            var r = result.name;
+            var message = 'We could not sign you in with your Facebook account. Please try again by using your email address and password.';
 
-        switch (r) {
-            case 'validated':
-                message = 'Logging you in ...<br/><br/><img src="/' + contextPath + '/images/loading.gif"/>';
-                break;
-            case 'registered':
-                message = 'Finalizing your membership ...<br/><br/><img src="/' + contextPath + '/images/loading.gif"/>';
-                break;
-            case 'missing_info':
-                message = 'We could not sign you in with your Facebook account - some information was missing. Please try signing in using your email address and password.';
-                break;
-            case 'link':
-                message = 'Existing account found. Linking accounts ...<br/><br/><img src="/' + contextPath + '/images/loading.gif"/>';
-                break;
-        }
-
-        return message;
-    };
-
-    var handleFBResult = function (result, contextPath, pane) {
-        var r = result.name;
-        if (r === 'validated') {
-        
-            window.location = '/' + contextPath + '/members/index.jsp';
-        
-        } else if (r === 'registered') {
-            window.location = '/' + contextPath + '/doJoinFB.jsp?flr=' + r;
-        } else if (r === 'missing_info') {
-            if (!pane.hasClass('nolabel')) pane.html('We could not sign you in with your Facebook account. Please try signing in using your email address and password.');
-        } else if (r === 'link') {
-            window.location = '/' + contextPath + '/link.jsp';
-        } else {
-            if (!pane.hasClass('nolabel')) pane.html('We could not sign you in with your Facebook account. Please try signing in using your email address and password.');
-        }
-    };
-
-    var callback = function (response) {
-        var connected = response.status == 'connected';
-        var label = '<h2>Sign ' + (isSignIn ? ' in' : ' up') + ' with Facebook</h2>';
-        if (pane.hasClass('nolabel')) {
-            label = '';
-        }
-        var signinForm = $('<div id="fbSignIn">' + label + '<div><div id="fbButton"><a href="javascript:void(0);" id="fbSignInAnchor">' + fbImg + '</a>' +
-                (!connected ?
-                        '<div id="terms"><small>By clicking Connect, you confirm you read and agree to the <a href="#terms" onclick="window.open(\'/v/terms.jsp\',\'terms\',\'menubar=yes,scrollbars=yes,resizable=no,width=600,height=400\'); return false;">Terms</a> and <a href="#privacy" onclick="window.open(\'/v/privacy.jsp\',\'privacy\',\'menubar=yes,scrollbars=yes,resizable=no,width=600,height=400\'); return false;">Privacy policy</a></small></div>' :
-                        ''
-                ) + '</div></div></div>');
-        pane.html(signinForm).show();
-
-        $(document).on('click', '#fbSignInAnchor', function () {
-
-            var pane = $('#facebookPane');
-            pane.css('text-align', 'center');
-            if (!pane.hasClass('nolabel')) {
-                pane.html('Please wait while we' + (isSignIn ? ' sign you in ' : ' set up your account ') + '...<br/><img src="/' + contextPath + '/images/loading.gif"/>');
-            } else {
-                pane.html('<img src="/' + contextPath + '/images/loading.gif"/>');
+            switch (r) {
+                case 'validated':
+                    message = 'Logging you in ...<br/><br/><img src="/' + contextPath + '/images/loading.gif"/>';
+                    break;
+                case 'registered':
+                    message = 'Finalizing your membership ...<br/><br/><img src="/' + contextPath + '/images/loading.gif"/>';
+                    break;
+                case 'missing_info':
+                    message = 'We could not sign you in with your Facebook account - some information was missing. Please try signing in using your email address and password.';
+                    break;
+                case 'link':
+                    message = 'Existing account found. Linking accounts ...<br/><br/><img src="/' + contextPath + '/images/loading.gif"/>';
+                    break;
             }
 
-            if (connected) {
-                fbService({action: 'login', res: response}, function (result) {
-                    if (!pane.hasClass('nolabel')) {
-                        pane.html(getPaneMessage(result));
-                    }
-                    handleFBResult(result, contextPath, pane);
-                });
+            return message;
+        };
+
+        var handleFBResult = function (result, contextPath, pane) {
+            var r = result.name;
+            if (r === 'validated') {
+                
+                window.location = '/' + contextPath + '/members/index.jsp';
+                
+            } else if (r === 'registered') {
+                window.location = '/' + contextPath + '/doJoinFB.jsp?flr=' + r;
+            } else if (r === 'missing_info') {
+                if (!pane.hasClass('nolabel')) pane.html('We could not sign you in with your Facebook account. Please try signing in using your email address and password.');
+            } else if (r === 'link') {
+                window.location = '/' + contextPath + '/link.jsp';
             } else {
-                FB.login(function (loginResponse) {
-                    if (loginResponse.status == 'connected') {
-                        if (isSignIn) {
-                            fbService({action: 'login', res: loginResponse}, function (result) {
-                                if (!pane.hasClass('nolabel')) {
-                                    pane.html(getPaneMessage(result));
-                                }
-                                handleFBResult(result, contextPath, pane);
-                            });
-                        } else {
-                            fbService({action:'register', res:loginResponse.authResponse}, function (result) {
-                                if (!pane.hasClass('nolabel')) {
-                                    pane.html(getPaneMessage(result));
-                                }
-                                handleFBResult(result, contextPath, pane);
-                            });
+                if (!pane.hasClass('nolabel')) pane.html('We could not sign you in with your Facebook account. Please try signing in using your email address and password.');
+            }
+        };
+
+        var callback = function (response) {
+            var connected = response.status == 'connected';
+            var label = '<h2>Or, sign-' + (isSignIn ? 'in' : 'up') + ' with facebook</h2>';
+            if (pane.hasClass('nolabel')) {
+                label = '';
+            }
+            var signinForm = $('<div id="fbSignIn">' + label + '<div><div id="fbButton"><a href="javascript:void(0);" id="fbSignInAnchor">' + fbImg + '</a>' +
+                    (!connected ?
+                            '<div id="terms"><small>By clicking Connect, you confirm you read and agree to the <a href="#terms" onclick="window.open(\'/v/terms.jsp\',\'terms\',\'menubar=yes,scrollbars=yes,resizable=no,width=600,height=400\'); return false;">Terms</a> and <a href="#privacy" onclick="window.open(\'/v/privacy.jsp\',\'privacy\',\'menubar=yes,scrollbars=yes,resizable=no,width=600,height=400\'); return false;">Privacy policy</a></small></div>' :
+                            ''
+                            ) + '</div></div></div>');
+            var existing = $('.fb-button');
+            var clicker = '#fbSignInAnchor';
+            if (existing.length) {
+                pane.html(existing.html()).show();
+                clicker = '.fb-button';
+            } else {
+                pane.html(signinForm).show();
+            }
+
+            $(document).on('click', clicker, function () {
+
+                var pane = $('#facebookPane');
+                pane.css('text-align', 'center');
+                if (!pane.hasClass('nolabel')) {
+                    pane.html('Please wait while we' + (isSignIn ? ' sign you in ' : ' set up your account ') + '...<br/><img src="/' + contextPath + '/images/loading.gif"/>');
+                } else {
+                    pane.html('<img src="/' + contextPath + '/images/loading.gif"/>');
+                }
+
+                if (connected) {
+                    fbService({action: 'login', res: response}, function (result) {
+                        if (!pane.hasClass('nolabel')) {
+                            pane.html(getPaneMessage(result));
                         }
-                    } else {
-                        pane.empty().append(signinForm);
-                        alert('We could not sign you ' + (isSignIn ? ' in' : ' up') + ' with your Facebook account. Please try again.');
-                    }
-                }, {scope:'email,user_birthday,user_location,publish_stream'});
-            }
-        });
-    };
+                        handleFBResult(result, contextPath, pane);
+                    });
+                } else {
+                    FB.login(function (loginResponse) {
+                        if (loginResponse.status == 'connected') {
+                            if (isSignIn) {
+                                fbService({action: 'login', res: loginResponse}, function (result) {
+                                    if (!pane.hasClass('nolabel')) {
+                                        pane.html(getPaneMessage(result));
+                                    }
+                                    handleFBResult(result, contextPath, pane);
+                                });
+                            } else {
+                                fbService({action:'register', res:loginResponse.authResponse}, function (result) {
+                                    if (!pane.hasClass('nolabel')) {
+                                        pane.html(getPaneMessage(result));
+                                    }
+                                    handleFBResult(result, contextPath, pane);
+                                });
+                            }
+                        } else {
+                            pane.empty().append(signinForm);
+                            alert('We could not sign you ' + (isSignIn ? ' in' : ' up') + ' with your Facebook account. Please try again.');
+                        }
+                    }, {scope:'email,user_birthday,user_location,publish_stream'});
+                }
+            });
+        };
 
-    // didn't work on chrome with the ready() callback
-    window.fbAsyncInit = function() {
+        // didn't work on chrome with the ready() callback
+        window.fbAsyncInit = function() {
 
-        FB.init({
-            appId:'159149670794215', channelUrl: '//www.vindale.com/v/fb/channel.html', cookie:true, status:true, xfbml:true
-        });
+            FB.init({
+                appId:'159149670794215', channelUrl: '//www.vindale.com/v/fb/channel.html', cookie:true, status:true, xfbml:true
+            });
 
-        $(function () {
-            pane = $('#facebookPane');
-            isSignIn = pane.hasClass("loginFB") || pane.hasClass("signInFB");
+            $(function () {
+                pane = $('#facebookPane');
+                isSignIn = pane.hasClass("loginFB") || pane.hasClass("signInFB");
 
-            if (!pane.hasClass('nolabel')) {
-                pane.append(loadingFBStatus);
-            }
+                if (!pane.hasClass('nolabel')) {
+                    pane.append(loadingFBStatus);
+                }
 
-            if (!FB) {
-                // fb couldn't load?
-                if (!pane.hasClass('nolabel')) pane.empty().append('Could not connect to Facebook. Please sign ' + (isSignIn ? 'in' : 'up') + ' using your email address.');
-            } else {
-                FB.getLoginStatus(callback);
-            }
+                if (!FB) {
+                    // fb couldn't load?
+                    if (!pane.hasClass('nolabel')) pane.empty().append('Could not connect to Facebook. Please sign ' + (isSignIn ? 'in' : 'up') + ' using your email address.');
+                } else {
+                    FB.getLoginStatus(callback);
+                }
 
-        });
-    };
+            });
+        };
 
-    (function(d, s, id){
-        var js, fjs = d.getElementsByTagName(s)[0];
-             if (d.getElementById(id)) {return;}
-             js = d.createElement(s); js.id = id;
-             js.src = "//connect.facebook.net/en_US/all.js";
-             fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
+        (function(d, s, id){
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {return;}
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
 
-}(jQuery));
+    }(jQuery));
 </script><div id="wrapper">
 <div id="header">
     <div id="navigation">
@@ -216,33 +224,59 @@
             </tr>
         </tbody></table>
     </div>
-    <a href="/v/index.jsp?ref=logo"><img src="/v/images/global/logo_r.gif" width="279" height="58" border="0" alt="Vindale Research" title="Vindale Research"></a>
+    <a href="/v/index.jsp?ref=logo">
+    
+    <img src="/v/images/global/logo_r.gif" width="279" height="58" border="0" alt="Vindale Research" title="Vindale Research"></a>
 </div>
 
 <div id="content">
 
-    <script type="text/javascript">
+    <div><script type="text/javascript">
     
     (function($) {
-        $(function(){
 
-            if ( $.cookie( 'cookiesEnabled' ) !== 'true' ) {
-                $.cookie( 'cookiesEnabled', 'true', {
-                    path: '/'
+        try
+        {
+            if ( typeof $ !== 'undefined' )
+            {
+                $(function(){
+
+                    if ( typeof $.cookie !== 'undefined' )
+                    {
+                        if ($.cookie('cookiesEnabled') !== 'true')
+                        {
+                            $.cookie('cookiesEnabled', 'true');
+                            if ($.cookie('cookiesEnabled') !== 'true')
+                            {
+                                $('#cookieErrorDiv').show();
+                            }
+                        }
+                    }
+                    else if (typeof SetCookie !== 'undefined' && typeof GetCookie !== 'undefined')
+                    {
+                        if (GetCookie('cookiesEnabled') !== 'true')
+                        {
+                            SetCookie('cookiesEnabled', 'true');
+                            if (GetCookie('cookiesEnabled') !== 'true')
+                            {
+                                $('#cookieErrorDiv').show();
+                            }
+                        }
+                    }
                 });
-                if ( $.cookie( 'cookiesEnabled' ) !== 'true' ) {
-                    $('#cookieErrorDiv').show();
-                }
             }
-        });
+        }
+        catch(e){}
+
     })(jQuery);
     
 </script>
 <noscript>
     <div id="javaScriptErrorDiv" class="error">
         Your web browser does not appear to have JavaScript enabled. In order to use this website, your browser must
-        have JavaScript enabled. JavaScript is used to enhance your browsing experience. Please enable JavaScript
-        and refresh this web page.
+        have JavaScript enabled. JavaScript is used to enhance your browsing experience.
+        <br/><br/>
+        <span style="background-color: #FFFF80;font-weight: bold;">Please enable JavaScript and refresh this web page.</span>
         <br/>
         <br/>
         <a href="http://www.google.com/support/bin/answer.py?answer=23852" target="_blank">Click here</a> for more
@@ -252,14 +286,15 @@
 </noscript>
 <div id="cookieErrorDiv" class="error" style="display:none;">
     Your web browser does not appear to have cookies enabled. In order to use this website, your web browser must have
-    cookies enabled. Cookies are used to enhance and personalize your browsing experience. Please enable cookies
-    and refresh this web page.
+    cookies enabled. Cookies are used to enhance and personalize your browsing experience.
+    <br><br>
+    <span style="background-color: #FFFF80;font-weight: bold;">Please enable cookies and refresh this web page.</span>
     <br>
     <br>
     <a href="http://www.google.com/cookies.html" target="_blank">Click here</a> for more information about how to enable cookies.
 </div>
 <br>
-<div id="mainwide">
+</div><div id="mainwide">
 <h2>Privacy policy </h2>
 
 <div style="float:right; padding:  0 2em 2em 3em; margin-right: 1em;">
@@ -352,22 +387,16 @@
 <span class="faqQuestion">Sharing of collected information with third parties</span>
 
 <p>
-    Except in cases where members are expressly informed otherwise, Vindale Research does
-    not sell, rent, share, trade
-    or give away any of your personal information unless required by law to do so. In certain
-    circumstances, Vindale Research
-    may share profile information and aggregate usage information in a non-personally identifiable fashion to
-    advertisers or other third parties for the purpose of delivering more targeted advertising, products and services to
-    members. In these instances Vindale Research will only disclose information that will
-    be used to personally identify
-    you if you grant permission through an opt-in process. Vindale Research reserves the
-    right to transfer personal
-    information to a successor in interest that acquires rights to that information as a result of the sale
-    of Vindale Research
-    or substantially all of its assets to that successor in interest.
+    Except in the cases outlined hereunder or where members have granted permission via an opt-in process, Vindale Research does
+    not sell, rent, share, trade or give away any of your personal information to third parties.
 
+    Vindale Research does share (i) personal information and (ii) non-personally-identifiable information with third parties for the purpose of delivering targeted advertising, surveys, products and services to members.
 
-</p>
+    If required to do so by law or third-party agreement, Vindale Research may share your personal information as part of arbitration or legal proceedings or with law enforcement officials or government agencies.
+
+    Vindale Research reserves the right to share personal and non-personal information with (i) a parent or subsidiary, (ii) an acquirer of assets, or (iii) a successor by merger.
+
+    </p>
 
 <span class="faqQuestion">Communications to Non-members</span>
 
@@ -554,7 +583,7 @@
 </p>
 
 <p>
-    LAST UPDATED 09/06/2012</p><p>
+    LAST UPDATED 08/30/2013</p><p>
 </p></div></div>
 <div id="copyright">
     <p>
@@ -580,49 +609,111 @@
         <a href="/v/siteMap.jsp">Site Map</a>
         
 
-
+    </p>
+    
+	<p style="padding-top: 2em;">
+    	<a href="http://facebook.com/vindale" target="_blank"><img src="/v/images/social/footer_facebook_20.gif" height="20" width="20" border="0" alt="Like us on Facebook"></a> 
+        <a href="https://plus.google.com/116851056152790235329" rel="publisher" target="_blank"><img src="/v/images/social/footer_google_plus_20.gif" height="20" width="20" border="0" alt="Find us on Google+"></a>
+	<a href="http://twitter.com/vindale" target="_blank"><img src="/v/images/social/footer_twitter_20.gif" height="20" width="20" border="0" alt="Follow us on Twitter"></a>
+	<a href="http://pinterest.com/vindale" target="_blank"><img src="/v/images/social/footer_pinterest_20.gif" height="20" width="20" border="0" alt="Find us on Pinterest"></a>
     </p>
 </div>
 </div>
 
 <script type="text/javascript">
 
-    function vsf_log( message ) {
-        window.console && console.log( message );
+    var vsf_form_initialized = false;
+    var vsf_log_enabled = typeof window.console !== 'undefined' && typeof window.console.log !== 'undefined';
+
+    function vsf_log( message, object ) {
+        if ( vsf_log_enabled )
+        {
+            if ( typeof object !== 'undefined' )
+            {
+                console.log( message, object );
+            }
+            else
+            {
+                console.log( message );
+            }
+        }
     }
 
     function vsf_form_init() {
 
+        (function($) {
 
-        if (typeof(jQuery) == 'undefined' || (jQuery.fn.jquery < "1.3.2")) {
-            if (!jQueryScriptLoaded) {
-                jQueryScriptLoaded = true;
-                document.write('<scr' + 'ipt type="text/javascript" src="/v/libs/jquery/jquery.min.js"></scr' + 'ipt>');
+            if ( !vsf_form_initialized && $ )
+            {
+
+
+                $("input#vsf_script_enabled").each(function(i){
+                    $(this).val("true");
+                });
+
+                try
+                {
+                    $("input#vsf_cookies_enabled").each(function(i){
+                        if ( typeof $.cookie !== 'undefined' )
+                        {
+                            $.cookie('vsf_cookies_enabled', 'true');
+                            if ($.cookie('vsf_cookies_enabled') == 'true')
+                            {
+                                $(this).val("true");
+                            }
+                        }
+                        else if (typeof SetCookie !== 'undefined' && typeof GetCookie !== 'undefined')
+                        {
+                            SetCookie('vsf_cookies_enabled', 'true');
+                            if (GetCookie('vsf_cookies_enabled') == 'true')
+                            {
+                                $(this).val("true");
+                            }
+                        }
+                    });
+                }
+                catch (e)
+                {
+                    vsf_log('Error checking whether cookies enabled', e);
+                }
+            }
+            else if ( !$ )
+            {
+                vsf_log('Missing jQuery');
+            }
+            else
+            {
+                vsf_log('Already initialized');
             }
 
-            setTimeout("vsf_form_init()", 100);
-        } else {
-            (function($) {
-
-
-                $(function(){
-
-                    $("input#vsf_script_enabled").each(function(i){
-                        $(this).val("true");
-                    });
-
-                });
-            })(jQuery);
-        }
+        })(typeof jQuery !== 'undefined' ? jQuery : null);
     }
-    vsf_form_init();
+
+    if (typeof(jQuery) === 'undefined' || (jQuery.fn.jquery < "1.3.2")) {
+        vsf_log("Loading jQuery");
+        var s = document.createElement("script");
+        s.addEventListener("load", vsf_form_init, false);
+        s.type = "text/javascript";
+        s.src = "/v/libs/jquery/jquery.min.js";
+        var t = (document.getElementsByTagName('head').length > 0 ? document.getElementsByTagName('head')[0] : null) || document.body || document.documentElement;
+        t.appendChild(s);
+    }
+    else
+    {
+        vsf_form_init();
+    }
+
 </script>
+
 <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-5079237-1']);
     _gaq.push(['_setDomainName', 'vindale.com']);
 
     _gaq.push(['_trackPageview']);
+
+
+
 
     (function () {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -673,6 +764,7 @@ var _sf_async_config={uid:20747,domain:"vindale.com"};
         var pathSplit = location.pathname.split("/");
         var contextPath = pathSplit[1];
         var isSecure = "https:" === window.location.protocol;
+        var isSSLEnabled = true;
 
         var appendPath = function (action) {
             var appendPath = [];
@@ -707,14 +799,24 @@ var _sf_async_config={uid:20747,domain:"vindale.com"};
                 var formPageKey = isAbsoluteButNotFullyQualified ?
                         action.substring(3) : isRelative ?
                                                     appendPath(action) : action.split(document.domain + '/' + contextPath)[1].split('?')[0];
-                if (formList[formPageKey] == true && !isSecure) {
+                if (formList[formPageKey] == true && !isSecure && isSSLEnabled) {
                     var queryString = '';
                     try {
                         var split = action.split('?');
                         queryString = split.length == 2 ? '?' + split[1] : '';
                     } catch (e) {
                     }
-                    var newPath = 'https://' + document.domain + '/' + contextPath + '/' + formPageKey + queryString;
+                    var newPort = document.location.port;
+                    if ( newPort == '8080' )
+                    {
+                        newPort = '8443';
+                    }
+                    else
+                    {
+                        newPort = '';
+                    }
+
+                    var newPath = 'https://' + document.domain + (newPort !== '' ? (':'+newPort) : '') + '/' + contextPath + '/' + formPageKey + queryString;
 //                    console.log(action + '->' + newPath);
                     return newPath;
                 } else {
@@ -747,7 +849,9 @@ var _sf_async_config={uid:20747,domain:"vindale.com"};
         }
 
     }(document));
-</script><iframe src="/v/component/init.jsp;jsessionid=9B307036B1E8ACA74254B7DBF17A10C0.web1?t=1371798275168" width="1" height="1" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+</script><iframe src="/v/component/init.jsp;jsessionid=858B27A6B094534224D3A4184BFAE0DE-n1.web2ec2?t=1386330236544" width="1" height="1" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<p style="padding-top: 5em;text-align: center;font-size: 1em;color: #ffffff;">
+    web2-ec2.vindale.com</p>
+<img style="width:1px;height:1px;display:none" src="//helium.adextent.com/vi">
 
-<p style="position:fixed;left:0;bottom:0;text-align:right;padding:5px;color:#fff;font-size:smaller;clear:both;margin:0" onmouseover="this.children[1].style.display='inline'" onmouseout="this.children[1].style.display='none'"><span style="color:#fff;font: 1.5em serif; padding:0 2px">π</span>&nbsp;<span style="display:none; z-index:1;margin:7px 5px 0 5px">Vindale|3256|2013/05/28 18:33:38</span></p>
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
