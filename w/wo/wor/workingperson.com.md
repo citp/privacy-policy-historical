@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524003837id_/http%3A//workingperson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206175025id_/http%3A//workingperson.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -170,8 +170,8 @@ Why Choose Working Person? Let Our Customers Explain!
 
 > “
 > 
-> They got back to me fast and gave all the information I needed! Wow! My husband is their biggest fan because he knows they will get what he needs. Those online coupons are the best.   
+> Thank you very much. I will be using your company in the future and will be sure to mention it to all my friends. Thanks again.   
 >   
-> Cathy from Henderson, NV
+> Matthew S. from Fort Meyers, Florida
 > 
 > ”
