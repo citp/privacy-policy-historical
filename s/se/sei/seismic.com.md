@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seismic.com privacy policy that was archived on 2013-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130213143630id_/http%3A//www.seismic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seismic.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206215911id_/http%3A//www.seismic.com/privacy-policy) for the most accurate reproduction.*
 
-# Seismic
+# Seismic -
 
 We at Seismic Software, Inc., D/B/A Seismic ("Seismic," "we," "us," "our") know that our users ("you," "your") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using www.Seismic.com ("Website") and domain name, and any other linked pages, features, content, Seismic Mobile Application ("Mobile Application"), or the software ("Software") or any other products or services we offer from time to time by in connection therewith (collectively, the "Seismic Services""), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. 
 
@@ -56,7 +56,7 @@ We employ other companies and people to perform tasks on our behalf and need to 
 
     4. ### Protection of Seismic and Others:
 
-We may release Personal Information when we believe in good faith that release is necessary to comply with a subpoena, or similar legal process; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Nu:Pitch, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+We may release Personal Information when we believe in good faith that release is necessary to comply with a subpoena, or similar legal process; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Seismic, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
     5. ### With Your Consent:
 
@@ -78,7 +78,7 @@ Through your account settings with Seismic Services, you may access, and, in som
 
     * content
 
-The information you can view and update may change as the Seismic Services changes. If you have any questions about viewing or updating information we have on file about you, please contact us via at support@nupitch.com 
+The information you can view and update may change as the Seismic Services changes. If you have any questions about viewing or updating information we have on file about you, please contact us via at support@seismic.com 
 
   6. ### What Choices Do I Have?
 
