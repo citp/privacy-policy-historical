@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sitetalk.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518232833id_/http%3A//sitetalk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitetalk.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206182506id_/http%3A//sitetalk.com/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to SiteTalk - Log in or sign up
+
+_In case of any dispute regarding this translated text, it is always the English text that is legally applicable._
 
 These websites are hosted from SiteTalk Communities Ltd. Scotia Centre, 4th Floor, PO Box 2804, George Town, Grand Cayman KY1-1112, Cayman Islands
 
