@@ -1,31 +1,29 @@
-> *The following text is extracted and transformed from the bey3.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531114724id_/http%3A//bey3.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bey3.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206165901id_/http%3A//bey3.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - bey3.com Classifieds
 
-В 
-
-[bey3.com](http://bey3.com/) has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated from time to time. This privacy policy is subject to change, so please keep checking this page frequently
+[bey3.com](https://web.archive.org/web/20131206165901id_/http://bey3.com/) has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated from time to time. This privacy policy is subject to change, so please keep checking this page frequently
 
 **Collection**
 
-Personal information you provide on [bey3.com](http://bey3.com/) are subject to our internal regulations, as follows:
+Personal information you provide on [bey3.com](https://web.archive.org/web/20131206165901id_/http://bey3.com/) are subject to our internal regulations, as follows:
 
 We collect and store the following personal information:
 
   * email address, physical contact information, and (depending on the service used) sometimes financial information;
-  * computer sign-on data, statistics on page views, traffic to and from bey3.com and ad data (all through cookies вЂ“ you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site);
+  * computer sign-on data, statistics on page views, traffic to and from bey3.com and ad data (all through cookies  you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site);
   * other information, including users IP address and standard web log information.
 
 
 
 **Use**
 
-We use usersвЂ™ personal information to:
+We use users personal information to:
 
   * provide our services;
   * resolve disputes and troubleshoot problems;
   * encourage safe trading and enforce our policies;
-  * customize usersвЂ™ experience, measure interest in our services, and inform users about services and updates;
+  * customize users experience, measure interest in our services, and inform users about services and updates;
   * communicate marketing and promotional offers to you;
   * do other things for users as described when we collect the information.
 
@@ -33,7 +31,7 @@ We use usersвЂ™ personal information to:
 
 **Disclosure**
 
-We donвЂ™t sell or rent usersвЂ™ personal information to third parties for their marketing purposes without users explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates otherвЂ™s rights, or protect anyoneвЂ™s rights, property, or safety. We may also share personal information with:
+We don't sell or rent users personal information to third parties for their marketing purposes without users explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other' rights, or protect anyone's rights, property, or safety. We may also share personal information with:
 
   * corporate affiliates who help detect and prevent potentially illegal acts and provide joint services. (Our corporate affiliates will market only to users who ask them to).
   * service providers who help with our business operations.
@@ -42,7 +40,7 @@ We donвЂ™t sell or rent usersвЂ™ personal information to third parties f
 
 **Communications and email tools**
 
-You agree to receive marketing communications from us unless you tell us that you prefer not to receive such communications. If you donвЂ™t wish to receive marketing communications from us, simply indicate your preference by following directions provided with the communication. You may not use our site or communication tools to harvest addresses, send spam or otherwise breach our Terms of Use or Privacy Policy. We may automatically scan and manually filter email messages sent via our communication tools for malicious activity or prohibited content, but we do not permanently store such messages. If you use our tools to send content to a friend, we donвЂ™t permanently store your friendsвЂ™ addresses or use or disclose them for marketing purposes.
+You agree to receive marketing communications from us unless you tell us that you prefer not to receive such communications. If you don't wish to receive marketing communications from us, simply indicate your preference by following directions provided with the communication. You may not use our site or communication tools to harvest addresses, send spam or otherwise breach our Terms of Use or Privacy Policy. We may automatically scan and manually filter email messages sent via our communication tools for malicious activity or prohibited content, but we do not permanently store such messages. If you use our tools to send content to a friend, we don't permanently store your friends addresses or use or disclose them for marketing purposes.
 
 **Access, Modification, and Deletion of Info and Posts**
 
@@ -50,7 +48,7 @@ You can see, modify or erase your personal information by reviewing your account
 
 **Security**
 
-We use many tools to protect your personal information against unauthorized access and disclosure, but as you probably know, nothingвЂ™s perfect, so we cannot make any guarantees.
+We use many tools to protect your personal information against unauthorized access and disclosure, but as you probably know, nothing's perfect, so we cannot make any guarantees.
 
 **General**
 
