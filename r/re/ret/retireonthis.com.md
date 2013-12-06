@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the retireonthis.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609131925id_/http%3A//retireonthis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retireonthis.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206101512id_/http%3A//retireonthis.com/privacy.php) for the most accurate reproduction.*
 
 # RetireOnThis
 
-** RetireOnThis Privacy Policy**
+**Recommended**  
+[](http://retireonthis.com/bannerclick.php?id=13)
+
+RetireOnThis Privacy Policy
 
   
 Welcome to RetireOnThis (the "Site"). 
@@ -21,7 +24,7 @@ What choices are available to Visitors regarding collection, use and distributio
 
 Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. 
 
-How does RetireOnThis use login information? RetireOnThisuses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
+How does RetireOnThis use login information? RetireOnThis uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
 
 How can Visitors correct any inaccuracies in Personally Identifiable Information? Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at retireonthis@gmail.com 
 
@@ -31,6 +34,7 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-© Copyright 2010-2013 [RetireOnThis.com](http://retireonthis.com/) All Rights Reserved 
+  
+Copyright © 2013 [RetireOnThis.com](http://retireonthis.com/) All Rights Reserved
 
-[Terms and Conditions](http://retireonthis.com/terms.php) |  [Earnings Disclaimer](http://retireonthis.com/earnings.php) |  [ Spam Policy](http://retireonthis.com/spam.php) |  [ Privacy Policy](http://retireonthis.com/privacy.php)
+[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) |  [ Spam Policy](https://web.archive.org/spam.php) |  [ Privacy Policy](https://web.archive.org/privacy.php)| 
