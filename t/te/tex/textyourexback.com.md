@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textyourexback.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621013753id_/http%3A//textyourexback.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textyourexback.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206232841id_/http%3A//textyourexback.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Text Your Ex Back
 
