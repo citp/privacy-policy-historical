@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goguides.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531225845id_/http%3A//www.goguides.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goguides.org privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206091218id_/http%3A//www.goguides.org/info/privacy.html) for the most accurate reproduction.*
 
 # GoGuides - Privacy Policy
 
@@ -9,6 +9,8 @@ GoGuides and Cookies
 Upon your first visit to GoGuides, GoGuides may send a "cookie" to your computer. Cookies are used by many sites and an internet search on 'cookies' may provide you with more information. The intent of cookies is to identify your computer preferences and searching patterns. GoGuides will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order.
 
 Most internet browser are set up to accept cookies. Although it is possible to reset your computer settings to inform you of cookie or to reject cookies, such actions may interfere with your searches at GoGuides.
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to GoGuides. Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on visits to GoGuides and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). You can also opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/). 
 
 What Information Do We Collect?
 
