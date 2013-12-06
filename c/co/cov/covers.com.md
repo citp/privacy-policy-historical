@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605064942id_/http%3A//www.covers.com/covers/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covers.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206032246id_/http%3A//www.covers.com/covers/about/privacy.aspx) for the most accurate reproduction.*
 
 # Sports Betting and Gambling Odds Online
+
+## We respect the importance of your privacy.
 
 Covers Media Group Ltd. Privacy Policy applies to Personal Information of non-employee Persons who interact with Covers Media Group Ltd. that is collected, used or disclosed Covers Media Group Ltd. 
 
