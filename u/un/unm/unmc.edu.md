@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the unmc.edu privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530211328id_/http%3A//www.unmc.edu/hipaa/notice_privacy_practices.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unmc.edu privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206025655id_/http%3A//www.unmc.edu/hipaa/notice_privacy_practices.htm) for the most accurate reproduction.*
 
 # Notice of Privacy Practices | UNMC
 
 **Notice of Privacy Practices - How Your Medical Information Is Used**
 
 .pdf documents  
-[Notice of Privacy Practices](https://web.archive.org/hipaa/docs/MIS-0268_NPP_4_2010.pdf)  
-[Notice of Privacy Practices for Visually Impaired](https://web.archive.org/hipaa/docs/MIS-0268_NPP_VISUAL_4_2010docx.pdf)  
-[Notice of Privacy Practice - Spanish](https://web.archive.org/hipaa/docs/MIS-0270_NPPSpanish4-2010.pdf)  
-[Notice of Privacy Practice - Spanish for Visually Impaired](https://web.archive.org/hipaa/docs/MIS-0270_NPPSpanish_VISUAL_4-2010.pdf)
+[Notice of Privacy Practices](https://web.archive.org/hipaa/images/MIS-0268_E_9-13.pdf "Notice of Privacy Practice ")  
+[Notice of Privacy Practices for Visually Impaired](https://web.archive.org/hipaa/images/MIS-0268_NPP_-_2013_FINAL_Visually_Impaired.pdf "MIS 0268 Visually Impaired")  
+[Notice of Privacy Practices - Spanish](https://web.archive.org/hipaa/images/MIS-0270_S_9-13.pdf "Notice of Privacy Practice ")  
+[Notice of Privacy Practices - Spanish for Visually Impaired](https://web.archive.org/hipaa/images/MIS-0270-Final_Visually_Impaired_.pdf "MIS 0270 Visually Impaired ")  
+[Notice of Privacy Practices for Dental Patients](https://web.archive.org/hipaa/docs/Privacy_notice_9-13_dental_English.pdf)  
+[Notice of Privacy Practices for Dental Patients for Visually Impaired](https://web.archive.org/hipaa/images/MIS-0269_NPP_Final_Visually_Impaired.pdf "MIS 0269 Visually Impaired")
 
 THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
