@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the widdit.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601131205id_/http%3A//www.widdit.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widdit.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206224752id_/http%3A//widdit.com/privacy.aspx) for the most accurate reproduction.*
 
-# Widdit.com - Privacy
+# Privacy Policy | Widdit
 
 Widdit's Unified Privacy Policy,
 
@@ -30,7 +30,7 @@ What Non-Personal Information Is Retained By Widdit?
 
 Non-Personal Information is less sensitive, but may also tell quite a lot about you. Moreover, in some cases, Non-Personal information may be used to deduce more information about you. Widdit protects this information and does not share it without your specific consent. 
 
-Widdit does store some non-personally identifiable information meant for statistical purposes, such as your use of the services, preferences or non-personally identifiable information. Specifically, when you install Widdit's software on your computer, it may retain your random ID, your recently viewed pages, your usage of the services and other non-identifiable information. 
+Widdit does store some non-personally identifiable information meant for statistical purposes, such as your use of the services, preferences or non-personally identifiable information. Specifically, when you install Widdit's software on your operating system, installed browser versions, random ID, your recently viewed pages, your usage of the services and other non-identifiable information. 
 
 When you install Widdit's software on your mobile device, it may retain a list of your installed applications, your phone Operating System and model, your behavior, your WiFi network, your mobile carrier and a list of the songs you listened to. 
 
