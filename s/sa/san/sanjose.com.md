@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanjose.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504004216id_/http%3A//www.sanjose.com/app/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanjose.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206033144id_/http%3A//www.sanjose.com/app/privacy-policy.php) for the most accurate reproduction.*
 
 # SanJose.com Privacy Policy
 
