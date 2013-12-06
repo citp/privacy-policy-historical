@@ -1,55 +1,66 @@
-> *The following text is extracted and transformed from the yeechat.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115020351id_/http%3A//yeechat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeechat.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206092939id_/http%3A//www.topcmm.com/privacy_statement.html) for the most accurate reproduction.*
 
-# Privacy Policy - Free Video Chat Room - YeeChat
+# TopCMM Software Ltd.- Leading Chat Software Provider since 2003 - support
 
-This policy covers personally identifiable information collected or stored by the Yeechat on its servers in relation to the Yeechat.  
-Information we hold about you will never be revealed to a third party and will always remain confidential to Yeechat and our staff unless you choose to publicly publish or share it with other users. We may collect data to enable us to recognize you and record how you use this website. This allows us to improve and personalize some of our services, and can save you from re-entering information when you return to this website.
+## Privacy Statement For TOPCMM Software Ltd.
 
-  
-Personal Information
+TOPCMM is committed to protecting your privacy when you use websites, products and service. In this policy we explain how and why we collect your information, what we do with it and what controls you have over our use of it.
 
-During the Registration Process for creating an user account, we request your name and email address. You will also be asked to choose a unique username and a password, which will be used solely for the purpose of providing access to your user account. Your name and email address will be used to inform you regarding new services, releases, upcoming events and changes in this Privacy Policy Statement.
+From time to time, we add or change functions, features or products to our Web Sites or add or change Products and Services. This, and our commitment to protecting the privacy of your personal information, may result in periodic changes to this Privacy Policy. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments. 
 
-  
-Collection of your Yeechat Services Information
+Any questions regarding our Privacy Policy should be directed to contact at TOPCMM at support@123flashchat.com.
 
-Your Yeechat Services Information consists of personally identifiable information provided by you or otherwise collected or obtained by Yeechat when you interact with the Yeechat Services. Depending on how you use the Yeechat Services, your Yeechat Services Information may include:
+### Your acceptance of these Privacy Statement terms
 
-* Registration-related information (such as name, home or work addresses, e-mail addresses, telephone and fax number, birth date or gender);
-* Information made available by you in Public Areas (as defined below);
-* Information about your visits to the various Yeechat Services, and your responses to the offerings and advertisements presented on these Yeechat Services;
-* Information about the searches you perform through the Yeechat Services and how you use the results of those searches;
-* Information about the Yeechat Services or offerings that you use, including, without limitation, how frequently you use them and other related information regarding your usage of the Yeechat Services;
-* Information about use of features and buttons on the Software to determine which Software features and buttons are most popular and useful to users.
+By using any of the sites within our web site network ("Web Sites") or our Services, you unconditionally agree to be bound by this Privacy Policy.
 
-How Yeechat Uses Your Information
+### What data do we collect and how do we use it?
 
-Your Yeechat Services Information is used to:
+TOPCMM collects and processes information about you in order to:
 
-* Operate and improve the Software, Web sites, services and offerings available through the Yeechat Services;
-* Provide you with personalized content and advertisements;
-* Fulfill your requests for products, programs, and services; 
-* Communicate with you and respond to your inquiries; 
-* Conduct research about your use of the Yeechat Services; and
-* Help offer you other products, programs, or services that may be of interest to you. 
+(i) identify you each time you visit a Web Site, trial use the Products or wish to have a Service provided;   
+(ii) process orders or applications submitted by you via shareit.com or paypal;   
+(iii) Optimize our Services and Web Sites   
+(iv) Get to know how long and how frequent you have stayed on the specific webpages to offer you instant assistance if needed;   
+(v) carry out research on the demographics, interests and behavior of all of our customers;   
+(vi) send information to you if you have subscribed to the maillist, including information about new TOPCMM products and services.
 
-Yeechat is always trying to provide you with a compelling reason to return to our site. We monitor customer traffic patterns and try to analyze what our customers like and don't like about our current offerings, so that we can design better services for you.
+You may be asked, either when you apply chat hosting service with us, or when you chat with our sales rep. in the online chat demo or at other times, for information about yourself, such as your name, e-mail address and website address, etc. In addition, when you order products or services from our agents Shareit.com or Paypal.com, you may need to offer your financial details to them to process the order. But we TOPCMM will never need to know your credit/payment card number and expiration date. 
 
-  
-User accounts and authorship
+### Log files/IP addresses
 
-Users who register on Yeechat are identified by their chosen username. Users select a password, which is confidential and used to verify the integrity of their accounts. 
+When you visit our Web Sites, chat in online Demo room, or place order, we automatically log your IP address (the unique address which identifies your computer on the internet) which is automatically recognized by our web server. We use IP addresses to help us administer our Web Sites and to collect broad demographic information for aggregate use. We do not link IP addresses to personally identifiable information.
 
-Except insofar as it may be required by law, no person should disclose, or knowingly expose, either user passwords and/or cookies generated to identify a user. Once created, user accounts will not be removed. It may be possible for a username to be changed, depending on the policies of individual projects. The Yeechat does not guarantee that a username will be changed on request. 
+### Non personal information
 
-  
-Changes to this Privacy Policy and Additional Information
+We may automatically collect non-personal information about you such as the type of internet browsers you use or the refer site from which you linked to our Web Sites. You cannot be identified from this information and it is only used to assist us in providing an effective service on our Web Sites. 
 
-Yeechat may update this Privacy Policy from time to time, therefore you should review this Policy periodically. If there are significant changes to the Yeechat 's information practices, you will be provided with appropriate online notice, such as notification on the Yeechat Web site.
+### Use of Cookies
 
-You may be provided other privacy-related information in connection with your use of offerings from the Yeechat Services, as well as for special features and services not described in this Privacy Policy that may be introduced in the future.
+Cookies are pieces of information that a Web Site transfers to your hard drive to store and sometimes track information about you. Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. Your experience at our Web site won’t be Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web. Although they do identify a user's computer, cookies do not personally identify customers or passwords. Credit card information is not stored in cookies.
 
-  
-Your Comments
+### With whom is the information shared?
 
-We welcome your feedback. If you have questions or comments about our privacy policies, feel free to drop us an e-mail at [support@yeechat.com](mailto:support@yeechat.com).
+TOPCMM will not share, sell or rent your personal information to third parties. 
+
+TOPCMM may disclose aggregate statistics about our sales, our Web Site visitors and customers in order to describe our services to prospective partners, advertisers, investors and other reputable third parties and for other lawful purposes, but these statistics will not include personally identifying information.
+
+TOPCMM may disclose personal information if required to do so by law or if it believes that such action is necessary to protect and defend the rights, property or personal safety of TOPCMM and its Web Sites, visitors to the Web Sites and customers of our Services.
+
+Our Web Site contains links to the sites of third parties. When you visit these sites, we suggest that you read their privacy policies. TOPCMM is not responsible for the privacy policies or the content of such sites. 
+
+### Information about products and services
+
+It is very important to us that we provide you with the highest level of service. In order to help us do this, from time to time TOPCMM companies may send you details of our products and services which we think may be of interest to you. If at any time you do not wish to receive these details, please e-mail us at support@123flashchat.com so we can unsubscribe you from the maillist.
+
+### Security
+
+TOPCMM places a great importance on the security of all information associated with our customers. We have security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized personnel have access to user information. You will not be asked for financial details on our Web sites because all the purchases will be done via Shareit.com, paypal.com or via the bank.
+
+### Where is the information stored?
+
+Information which you submit via our Web Sites is stored in our database on a computer located in China. This is necessary in order to process the information and to send you any information you have requested or products you have purchased. 
+
+### Comments
+
+Please email any questions, concerns or comments you have about our Privacy Policy to support@123flashchat.com.
