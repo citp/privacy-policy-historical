@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the techzene.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630064643id_/http%3A//www.techzene.com/disclaimer-and-privacy/719) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techzene.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206173019id_/http%3A//www.techzene.com/disclaimer-and-privacy/719) for the most accurate reproduction.*
 
 # Disclaimer and Privacy
-
-[](http://pinterest.com/pin/create/button/?url=http://www.techzene.com/disclaimer-and-privacy/719/&media=&description=Disclaimer+and+Privacy)
 
 Privacy Policy for <http://www.techzene.com/>
 
@@ -31,9 +29,3 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 **Disclaimer**
 
 The items or Posts available in the site are intended for SAMPLING purposes only. As of yet, they have not been licensed for reproduction in any way, and the user accepts the risk of violating these copyrights when streaming or downloading. The availability of articles and sound recordings on this page are found on the net. The intent of the creators of this page reflects nothing more than a great interest in the promotion of Technology. Thus, they are hereby levied of any liability, legal or otherwise, with respect to the use of these recordings by parties visiting this site.We the blog owners are not responsible for any misuse of the content over here.Any Disclaimer may Contact “ **techzene[at]gmail.com** ”. The Content will be removed as soon as possible.If You Don’t agree,Please Exit Now.
-
-#### Get Free Email Alerts
-
-Stay Updated with Useful [How-to Guides](http://www.techzene.com/). Get Free Email Newsletter Updates..
-
-And, Next Confirm Your Email Subcription
