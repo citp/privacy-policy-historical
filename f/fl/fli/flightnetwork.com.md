@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightnetwork.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625004208id_/http%3A//www.flightnetwork.com/pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightnetwork.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206113207id_/http%3A//www.flightnetwork.com/pages/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Flight Network
 
@@ -81,18 +81,19 @@ We send a variety of email communications to our customers.
   1. If you have recently searched for a flight to Hawaii, we may send an email related to that product you have searched, along with other products and services that we think may be of interest to you.
   2. If you complete a purchase with us, we will send you an email confirming that purchase and three days prior to your departure date we may send a re-confirmation email to recap your flight details which may or may not include alternate products pertaining to your travel destination or that we feel may be of interest.
   3. 24 hours after you have returned from your trip we may send you a follow-up email asking you to complete a non-mandatory survey or provide feedback regarding your website or booking experience, which will help assist the company in making important website, call centre and customer service oriented decisions. This email may include travel products or services that we feel may be of interest to you.
-  4. When subscribing to our 'Top Travel Deals' mailing list you will receive our weekly email Newsletter as well as updates on hot offers, web specials, seat sales, contests and new products and services. You may receive email communications 1-2 times weekly. 
+  4. When subscribing to our 'Top Travel Deals' mailing list you will receive our weekly email Newsletter as well as updates on hot offers, web specials, seat sales, contests and new products and services. You may receive email communications 2-4 times weekly. 
   5. When opting in to any of our email publications you may receive a welcome or thank you email from us confirming your participation. An example of this would include subscribing to our weekly Top Deals Newsletter.
   6. We may send you an email regarding any FlightNetwork® Price Drop Protection communication which may or may not include periodic updates on balances, new credits earned, expiration notices or travel products or services that we feel may be of interest to you.
   7. We also help to keep you informed about our travel related products by sending emails on your specific travel related interests. For example if you search for a flight to Vancouver, begin the booking process but do not complete your booking with us, we may send an email notice to serve as a reminder that you have recently began a booking on our website and that we can continue to help you complete it. We may also send an email offering a nearby Hotel or Car Rental to package with a flight that you may have already purchased. You may receive these types of email communications if (a) you are a My FlightNetwork® Account holder and abandon a search from our website (b) you click from any one of our FlightNetwork® emails, return back to our site and abandon a search or (c) you input your email address when attempting to confirm a booking and abandon
-  8. If you register for a My FlightNetwork® Account you will receive an email welcoming you to the program that outlines features and benefits. Upon registering, if you choose to opt-in to our Top Deals weekly publication you will also receive a welcome email indicating your subscription confirmation.
+  8. All customers that complete a booking on the FlightNetwork® website will automatically have a My FlightNetwork® Account created. You will receive an email opt-in confirmation and once confirmed, an additional email welcoming you to the program outlining features and benefits. Upon registering, if you choose to opt-in to our Top Deals weekly publication you will also receive a welcome email indicating your subscription confirmation.
   9. If you are the Main Account holder of a My FlightNetwork® account you may receive an email on your birthday if the information is provided to FlightNetwork® at the time of registration or any time thereafter.
+  10. If you have asked FlightNetwork® to 'track a flight' via the 'track a flight' link on the search results page, you will receive an email notification when your initial request is made. You also may receive an email notification if the price increases or decreases thereafter.
 
 
 
 **My FlightNetwork® Accounts**
 
-When registering a My FlightNetwork® Account you can:
+When registered for a My FlightNetwork® Account you can:
 
   * choose not to provide us with any or all of your personal travel information or preferences such as preferred seating, special meal requests and frequent flyer numbers. However, providing this information will assist in faster checkouts and may be required to take advantage of certain features offered through this program
   * add personal travel information or preferences for friends of family and delete these travelers at any time.
@@ -142,4 +143,4 @@ Toll-free:  1-800-282-1376
 Fax: (613) 947-6850  
 www.privcom.gc.ca
 
-**UPDATED: March 15, 2012**
+**UPDATED: July 04, 2013**
