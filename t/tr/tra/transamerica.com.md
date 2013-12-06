@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the transamerica.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516211812id_/http%3A//www.transamerica.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transamerica.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206021244id_/http%3A//www.transamerica.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - Transamerica
+# Transamerica Privacy Policy
 
-This website Privacy Statement will be updated from time to time to reflect any material revisions, so please check back often to review the statement.  
-Protecting your privacy is very important to us. We want you to understand what information we collect and how we use it. We collect and use personally identifiable information in order to provide our customers with a broad range of financial products and services as effectively and conveniently as possible.  
-This privacy statement applies to this website only and does not apply to any linked site or information received or collected by any other means. To learn about the privacy policy of a linked site, please refer to that site's privacy statement. 
+This website Privacy Statement will be updated from time to time to reflect any material revisions, so please check back often to review the statement.
+
+Protecting your privacy is very important to us. We want you to understand what information we collect and how we use it. We collect and use personally identifiable information in order to provide our customers with a broad range of financial products and services as effectively and conveniently as possible.
+
+This privacy statement applies to this website only and does not apply to any linked site or information received or collected by any other means. To learn about the privacy policy of a linked site, please refer to that site's privacy statement.
 
 #### What Information We Collect and From Whom We Collect It
 
@@ -26,15 +28,18 @@ Top of Page
 
 #### What Information We Disclose and To Whom We Disclose It
 
-We do not disclose any personally identifiable information about you to either our "affiliates" or non-affiliates without your express consent, except as permitted by law. We may disclose the nonpublic personal information we collect to persons or companies that perform services on our behalf, that provide services to you, to financial institutions with which we have joint marketing agreements, and as required by law (for example regulators, law enforcement agencies).  
-"Our affiliates" are companies with which we share common ownership or control and which offer insurance, pension, savings or investment products.  
+We do not disclose any personally identifiable information about you to either our "affiliates" or non-affiliates without your express consent, except as permitted by law. We may disclose the nonpublic personal information we collect to persons or companies that perform services on our behalf, that provide services to you, to financial institutions with which we have joint marketing agreements, and as required by law (for example regulators, law enforcement agencies).
+
+"Our affiliates" are companies with which we share common ownership or control and which offer insurance, pension, savings or investment products.
+
 This site is not directed towards children and we do not intend to market any products or services to children under thirteen (13) years of age. We do not knowingly gather or solicit data from children under thirteen (13) years of age through this site for any reason. By using this site you represent that you are not under thirteen (13) years of age.
 
 #### Our Security Procedures
 
-We restrict access to your personal information and only allow disclosures to persons and companies as permitted by law to assist in providing products or services to you. We maintain physical, electronic, and procedural safeguards to protect your personal information. For more information about security for this site, see [Security.](https://web.archive.org/terms_of_use.asp#security)  
-This Notice applies to the following companies and any separate accounts established for the products they may offer.  
-This statement applies to the following companies:  
+We restrict access to your personal information and only allow disclosures to persons and companies as permitted by law to assist in providing products or services to you. We maintain physical, electronic, and procedural safeguards to protect your personal information. For more information about security for this site, see [Security.](https://web.archive.org/terms_of_use.asp#security)
+
+This Notice applies to the following Transamerica companies and any separate accounts established for the products they may offer.
+
 Transamerica Advisors Life Insurance Company  
 Transamerica Advisors Life Insurance Company of New York  
 Monumental Life Insurance Company   
@@ -43,13 +48,14 @@ Stonebridge Life Insurance Company
 Transamerica Life Insurance Company   
 Transamerica Financial Life Insurance Company  
 Transamerica Series Trust  
-Transamerica Capital, Inc  
+Transamerica Capital, Inc.  
 Western Reserve Life Assurance Co. of Ohio 
 
 Privacy Notice available to customers:   
-Customers receive copies of our Privacy Notice and HIPAA Notice of Privacy Practices as required by law. 
+Customers of the above companies receive copies of our Privacy Notice and HIPAA Notice of Privacy Practices as required by law. 
+
+For the HIPAA Notice of Privacy Practices effective 9/23/13, [ click here.](https://web.archive.org/shared_docs/pdf/HIPAA%20Notice%20of%20Privacy%20Practices.pdf)
 
 Top of Page
 
-  
-
+Last updated September 23, 2013
