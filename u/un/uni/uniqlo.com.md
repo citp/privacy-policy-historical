@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniqlo.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602203427id_/http%3A//www.uniqlo.com/us/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniqlo.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207002225id_/http%3A//www.uniqlo.com/us/help/privacy-policy) for the most accurate reproduction.*
 
 # HELP - PRIVACY POLICY | UNIQLO
 
