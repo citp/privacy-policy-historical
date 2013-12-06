@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the under30ceo.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117100306id_/http%3A//under30ceo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the under30ceo.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206035123id_/http%3A//under30ceo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Under30CEO : Under30CEO
 
