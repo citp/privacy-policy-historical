@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetiebar.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627202116id_/http%3A//www.thetiebar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetiebar.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206134325id_/http%3A//www.thetiebar.com/privacy.asp) for the most accurate reproduction.*
 
 # The Tie Bar - Privacy Policy
 
@@ -103,7 +103,7 @@ To direct our ad network vendors not to use your data to deliver targeted advert
 
 We do not sell personal information about you to third parties.  Your personal information is used by TTB as described in this Privacy Notice.
 
-We may share the personal information we collect with our parent, affiliate and subsidiary companies for the purposes described in this Privacy Notice, including to communicate with you about products and services, offers, events and promotions that we believe may be of interest to you. We also may share personal information with our service providers who perform services on our behalf (for example, the US Postal Service and FedEx). These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.
+We may share the personal information we collect with our parent, affiliate and subsidiary companies for the purposes described in this Privacy Notice, including to communicate with you about products and services, offers, events and promotions that we believe may be of interest to you. We also may share personal information with our service providers who perform services on our behalf (for example, the US Postal Service and UPS). These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.
 
 We also may disclose information about you (i) if we are required to do so by law or legal process (such as a court order), (ii) in response to a request by law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We also reserve the right to transfer personal information we have about you in the event we sell, merge or transfer all or a portion of our business or assets. Following such a sale, merger or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.
 
@@ -163,6 +163,10 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 ### **How to Contact Us**
 
 If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [info@thetiebar.com](mailto:info@thetiebar.com). You also may write to us at:
+
+### **Referral Program**
+
+Referred friend must make their first The Tie Bar purchase through the unique referral link you share, and order $25 USD or more (excluding any taxes, shipping or other fees). If items are returned, you will not receive referral credit. You will be emailed about your referral credit(s), which will appear in your account 30 days after the qualifying purchase is made. Your referral credit(s) are for one-time use, non-refundable, non-transferable, may not be redeemed for cash, and may not be used towards e-Gift Certificate purchases.
 
 **       The Tie Bar.com**  
 **      **123 Ambassador Drive #Unit 123  
