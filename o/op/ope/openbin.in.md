@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openbin.in privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531232148id_/http%3A//openbin.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openbin.in privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206200253id_/http%3A//openbin.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Openbin
 
