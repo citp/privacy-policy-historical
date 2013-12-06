@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olanmills.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606190007id_/http%3A//www.olanmills.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olanmills.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206025546id_/http%3A//www.olanmills.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Olan Mills Portrait Studios
 
@@ -30,7 +30,7 @@ A "cookie" is a small data file stored by your web browser on your computer's ha
 
 Our goal is to inform you about our products and services, including special promotions and coupons. We may contact you by mail or e-mail or telephone to inform you of offers. However, if you are contacted and do not wish to receive further information , you may contact us at the phone number listed below or for email: select the unsubscribe at the bottom of the email.
 
-  * Olan Mills 1-855-408-0443
+  * Olan Mills 1-855-285-8983
 
 
 
