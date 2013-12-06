@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkygirlgames.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602211649id_/http%3A//www.pinkygirlgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkygirlgames.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206173331id_/http%3A//www.pinkygirlgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
