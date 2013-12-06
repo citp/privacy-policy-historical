@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suffolk.edu privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604035425id_/http%3A//suffolk.edu/explore/850.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suffolk.edu privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206152146id_/http%3A//www.suffolk.edu/explore/850.php) for the most accurate reproduction.*
 
-# Suffolk University - Privacy Policy
+# Privacy Policy - Suffolk University
 
 ## Internet Privacy Policy
 
