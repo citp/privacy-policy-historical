@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the b20vtec.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620234111id_/http%3A//www.b20vtec.com/forums/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b20vtec.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206123536id_/http%3A//www.b20vtec.com/forums/privacy_policy.php) for the most accurate reproduction.*
 
-# B20Vtec.Com...... B Series and Beyond - Privacy Policy
+# B20Vtec.Com Your Honda Forum source for all B series K Series and Racing Technical Information - Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@b20vtec.com.  
-At B20Vtec.Com...... B Series and Beyond, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.b20vtec.com/forums and how it is used.  
+At B20Vtec.Com Your Honda Forum source for all B series K Series and Racing Technical Information, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.b20vtec.com/forums and how it is used.  
 Log Files  
 Like many other Web sites, http://www.b20vtec.com/forums makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.  
 Cookies and Web Beacons  
@@ -16,5 +16,5 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 Google Adsense
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.b20vtec.com/forums send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
-B20Vtec.Com...... B Series and Beyond has no access to or control over these cookies that are used by third-party advertisers.  
+B20Vtec.Com Your Honda Forum source for all B series K Series and Racing Technical Information has no access to or control over these cookies that are used by third-party advertisers.  
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.b20vtec.com/forums privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
