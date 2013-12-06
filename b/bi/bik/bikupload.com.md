@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bikupload.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210062541id_/http%3A//www.bikupload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikupload.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206013547id_/http%3A//www.bikupload.com/privacy.php) for the most accurate reproduction.*
 
-# bikupload - FAQ
+# Bikupload - FAQ
 
 ##  Logging IP Addresses  
 For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by bikupload for measuring usage. 
