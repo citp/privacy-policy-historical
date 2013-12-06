@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122002921id_/http%3A//texasguntrader.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206164207id_/http%3A//texasguntrader.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # New and Used Guns For Sale in Houston, Dallas, San Antonio,Ft. Worth, Austin, EL Paso
 
@@ -6,7 +6,8 @@ The right of the people to be secure in their persons, houses, papers, and effec
 
 -U.S. Constitution, 4th amendment.
 
-**Privacy Policy Statement      Created December 9, 2008**
+**Privacy Policy Statement      Created August 21, 2013  
+**
 
 We will take all reasonable steps to protect your personal information.
 
@@ -16,7 +17,7 @@ IRC channels, classified ads, forums, blogs, wiki pages, RSS feeds, and other co
 
 Our servers are located in a highly secure complex, and incorporate all industry standard measures for both physical and data security.
 
-We may use your IP address or MAC address information for internal uses such as gathering demographic information. Other examples of the information we automatically collect include login name, email address, password, computer and connection information such as browser type and version, operating system, and platform. This information will  **not**  be shared with third parties*. This information can be used for statistical analysis.
+We may use your IP address or MAC address information for internal uses such as gathering demographic information and external (publicly viewable) uses such as geolocation and mapping functions. Other examples of the information we automatically collect include login name, email address, password, computer and connection information such as browser type and version, operating system, and platform. This information will  **not**  be shared with third parties*. This information can be used for statistical analysis.
 
 IP Address, email, and initial user communications are logged and may be reviewed internally for dispute resolution.
 
