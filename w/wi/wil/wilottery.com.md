@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilottery.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512065753id_/http%3A//www.wilottery.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilottery.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206192937id_/http%3A//www.wilottery.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,13 +6,16 @@ State of Wisconsin laws exist to ensure that government is open and that the pub
 
 Information collected at this site becomes public record and may be subject to inspection and copying by the public, unless an exception in law exists. During your visit to wilottery.com information that is not readily identifiable to an individual is automatically collected and stored. This information is used solely to improve our web services. For more detail on our privacy policy, please see the expanded statement following.
 
-Information Collected and How it is Used  
-Personal Information and Choice  
-Public Disclosure  
-Access and Correction of Personal Information  
-Cookies  
-Security  
-Disclaimer
+  * Information Collected and How it is Used
+  * Personal Information and Choice
+  * Public Disclosure
+  * Access and Correction of Personal Information
+  * Cookies
+  * Security
+  * Disclaimer
+  * Social Media
+
+
 
 ## Information Collected and How It is Used
 
@@ -93,3 +96,15 @@ This information should not be construed in any way as giving business, legal, o
 ## Disclaimer
 
 Wilottery.com has links to other web sites. These include links to web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on Wilottery.com and this Privacy Notice will not apply. When you link to another web site, you are subject to the privacy policy of that new site.
+
+## Social Media
+
+### Legal Disclaimer
+
+The Lottery Division of the Department of Revenue assumes no liability for damages incurred directly or indirectly as a result of errors, omissions or discrepancies. The Wisconsin Department of Revenue is not responsible for the content of any third party web site represented on our social media sites, and does not endorse such sites.
+
+### Comment Policy
+
+The Lottery Division of the Department of Revenue reserves the right to remove any messages or postings that are irrelevant or inappropriate. Inappropriate comments include, but are not limited to: obscene, threatening, abusive or vulgar comments; comments unrelated to the topic of the forum; commercial promotions or spam; duplicative postings by the same person or entity; information posted in violation of the law and material that is not directly related to the discussion.
+
+Lottery Division of the Department of Revenue will not be responsible for content posted by any subscriber in any forum, message board, or other area within the service.
