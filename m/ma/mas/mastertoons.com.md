@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mastertoons.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625232942id_/http%3A//mastertoons.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastertoons.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206105944id_/http%3A//mastertoons.com/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Master Toons Free Online Cartoons
 
-### 
-
-[](https://web.archive.org/web/20130625232942id_/http%3A//mastertoons.com/Batman-TAS.php)
+### [](https://web.archive.org/web/20131206105944id_/http%3A//mastertoons.com/The-Legend-of-Korra-Season-2.php)
 
 **What do we use your information for?**
 
