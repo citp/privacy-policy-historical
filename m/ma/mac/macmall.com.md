@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macmall.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622073320id_/http%3A//www.macmall.com/n/Macmall-Privacy-Policy/macmsc-115) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmall.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206025026id_/http%3A//www.macmall.com/n/MacMall-Privacy-Policy/macmsc-115) for the most accurate reproduction.*
 
 # 
 
@@ -39,6 +39,8 @@ To assist you with your review of our Policy, we have provided answers to questi
 | Co-branded Sites: Links to Other Sites  
 | Online vs. Offline Practices  
 | Contacting MacMall   
+| Remarketing with Google Analytics  
+| Google Display Network Impression Reporting  
 | 
 
 Return to top
@@ -145,7 +147,7 @@ Return to top
 ---  
   
   
-Upon visiting our Site we will assign you a unique ID in the form of a "cookie". A cookie is a piece of information that our server places on your computer's hard drive, which MacMall may associate with your PII when you log on to the site. Cookies are used for such purposes as facilitating and personalizing your shopping and ordering experience, keeping track of your shopping basket during your visit, helping diagnose problems with our server, and administering our Site. We may use the information collected through cookies for marketing purposes to inform you of special offers, better understand your needs or answer your questions. For more information about cookies, please see our [Cookie FAQs](https://web.archive.org/web/20130622073320id_/http%3A//www.macmall.com/n/Macmall-Privacy-Policy/macmsc-188 "Cookie FAQs"). NOTE: You can control how and whether cookies will be accepted by your web browser, and you may remove them from your computer at any time at your discretion.  
+Upon visiting our Site we will assign you a unique ID in the form of a "cookie". A cookie is a piece of information that our server places on your computer's hard drive, which MacMall may associate with your PII when you log on to the site. Cookies are used for such purposes as facilitating and personalizing your shopping and ordering experience, keeping track of your shopping basket during your visit, helping diagnose problems with our server, and administering our Site. We may use the information collected through cookies for marketing purposes to inform you of special offers, better understand your needs or answer your questions. For more information about cookies, please see our [Cookie FAQs](https://web.archive.org/web/20131206025026id_/http%3A//www.macmall.com/n/MacMall-Privacy-Policy/macmsc-188 "Cookie FAQs"). NOTE: You can control how and whether cookies will be accepted by your web browser, and you may remove them from your computer at any time at your discretion.  
   
 | 
 
@@ -197,10 +199,9 @@ Retun to top
 |  |  |  | Correcting/Updating Your Personal Information and Preferences  
 ---  
   
-If you would like to opt-out of having your PII shared with unaffiliated third parties for their direct marketing purposes, or to make changes to your PII or to your preferences regarding the marketing information that you receive from MacMall or our affiliates, please click here. We will use reasonable   
-|  affiliates, please  | [click here](https://web.archive.org/o/Update-Preferences/macmsc-96) |  | We will use reasonable efforts to comply with your request. Please note that we may need to   
----|---|---|---  
-contact you in order to be sure that we are updating the appropriate information. When requesting that PII be updated or that your preferences be changed, please keep in mind that until the change is implemented, you may still receive email and/or physical mailings from us. Furthermore, there will be residual information that will remain within MacMall databases, access logs and other records, which may contain such PII. The residual information will not be used for commercial purposes; however, MacMall reserves the right, from time to time, to re-contact former customers or visitors to the Site. Please note that we are not responsible for retracting your PII from third parties with whom we have shared your information pursuant to the terms and conditions of this Policy as in effect from time to time.   
+If you would like to opt-out of having your PII shared with unaffiliated third parties for their direct marketing purposes, or to make changes to your PII or to your preferences regarding the marketing information that you receive from MacMall or our affiliates, please [click here](https://www.macmall.com/o/Update-Preferences/macmsc-96). We will use reasonable efforts to comply with your request. Please note that we may need to contact you in order to be sure that we are updating the appropriate information. When requesting that PII be updated or that your preferences be changed, please keep in mind that until the change is implemented, you may still receive email and/or physical mailings from us. Furthermore, there will be residual information that will remain within MacMall databases, access logs and other records, which may contain such PII. The residual information will not be used for commercial purposes; however, MacMall reserves the right, from time to time, to re-contact former customers or visitors to the Site. Please note that we are not responsible for retracting your PII from third parties with whom we have shared your information pursuant to the terms and conditions of this Policy as in effect from time to time.  
+  
+  
 | 
 
 Return to top
@@ -289,6 +290,56 @@ Return to top
 ---  
   
 Please note that this Policy applies solely to our online information-gathering and dissemination practices in connection with the Site, and does not apply to any of our practices conducted offline other than as expressly set forth in this Policy.  
+| 
+
+Return to top
+
+|   
+---|---  
+  
+|  |   
+|  |  |   
+---|---|---  
+| 
+
+|  |  |  | Remarketing with Google Analytics  
+---  
+|  | 
+
+MacMall use Remarketing with Google Analytics to advertise online.  
+  
+---|---  
+| 
+
+Third-party vendors, including Google, show our ads on sites across the Internet.  
+  
+| 
+
+MacMall and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website.  
+  
+| 
+
+Return to top
+
+|   
+---|---  
+  
+|  |   
+|  |  |   
+---|---|---  
+| 
+
+|  |  |  | Google Display Network Impression Reporting  
+---  
+|  | 
+
+MacMall and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site.
+
+ **Ads Opt-out & Settings Links:**  
+  
+---|---  
+|   
+|   
 | 
 
 Return to top
