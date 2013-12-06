@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sendthisfile.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629075407id_/http%3A//www.sendthisfile.com/policy/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendthisfile.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206104721id_/http%3A//www.sendthisfile.com/policy/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | SendThisFile
 
 **PRIVACY POLICY**
+
+Last Updated: November 22, 2013 
 
 This privacy policy (the "Statement") covers SendThisFile, Inc's ("SendThisFile," "us," or "our") SendThisFile file transfer service website, sendthisfile.com. By using the SendThisFile website, you consent to the data practices described in this Statement, as the same may be updated from time to time. 
 
@@ -38,9 +40,9 @@ To update or correct the personally identified information that you shared with 
 
 Periodically, we will use your provided email address for the following:
 
-  1. To send you System Alert Messages to let you know about temporary or permanent changes to our Services including planned outages, new features offered, feature updates, point releases, major releases, abuse warnings, changes to our Privacy Policy and possibly other documents and agreements.
-  2. To communicate with you concerning your account for an informational, as opposed to promotional, purpose.
-  3. To send you informational and promotional materials that you elect ("opt-in") to receive.
+  1. To send you System Alert Messages to let you know about temporary or permanent changes to our Services including planned outages, new features offered, feature updates, point releases, major releases, abuse warnings, changes to our Privacy Policy and possibly other documents and agreements. 
+  2. To communicate with you concerning your account for an informational, as opposed to promotional, purpose. 
+  3. To send you informational and promotional materials that you elect ("opt-in") to receive. 
 
 
 
@@ -54,7 +56,7 @@ We do not share personally identified information with anyone, unless we need to
 
 Except as stated above, when we ask you for personally identified information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don't want us to share the information or if you don't want to receive promotional and/or marketing information about products, services, and offerings from SendThisFile and/or any third parties. We will also provide you with a way to update your personally identified information that you share with us during registration. Once you have "opted in" and agreed that your information may be shared with third parties or you have responded to an offer by any third party on the SendThisFile websites, SendThisFile can no longer update any of your personally identified information that has been transferred to such third parties or opt you out of such third parties so that you no longer receive their promotional and/or marketing information. Instead, you must either contact that third party or refer to their privacy policy to update your personally identified information or to let them know that you no longer want to receive promotional and/or marketing information about their products, services, or offerings. The privacy policies and practices of these third parties may differ from this Statement. You may not opt-out of the uses stated above or our internal uses of your personally identified information.
 
-SendThisFile may, from time-to-time use the names of businesses that have accounts with SendThisFile in SendThisFile's marketing or advertising materials, in order to show prospective customers the types of businesses that have accounts with SendThisFile. If you do not want SendThisFile to use your company name in this manner, send an email to [info@sendthisfile.com](mailto:info@sendthisfile.com) and so state. We will send you a confirmation email. Make sure that you receive the confirmation email so as to assure that the transaction was completed.
+SendThisFile may, from time-to-time use the names of businesses that have accounts with SendThisFile in SendThisFile's marketing or advertising materials, in order to show prospective customers the types of businesses that have accounts with SendThisFile. If you do not want SendThisFile to use your company name in this manner, send an email to [legal@sendthisfile.com](mailto:legal@sendthisfile.com) and so state. We will send you a confirmation email. Make sure that you receive the confirmation email so as to assure that the transaction was completed.
 
 ### How does SendThisFile use cookies?
 
@@ -69,3 +71,22 @@ Lastly, there may be a third party cookie in SendThisFile emails that is generat
 ### Changes to the SendThisFile Privacy Policy
 
 SendThisFile may amend this Statement from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent notice in this Statement or in other locations on our website or by sending you an email to inform you of an updated Statement, at our choice. We encourage you to periodically review this Statement to stay informed about how we are protecting the personal information we collect. Your continued use of the SendThisFile website constitutes your agreement to this Statement and any changes to it.
+
+###  Safe Harbor 
+
+SendThisFile, Inc. complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. SendThisFile, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/ 
+
+In compliance with the US-EU Safe Harbor Principles, SendThisFile, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact SendThisFile, Inc. at: 
+
+SendThisFile, Inc.   
+Attn: Safe Harbor Complaints   
+2250 N. Rock Rd. Ste. 118-136   
+Wichita, KS 67226-2331 
+
+Fax: 215-895-9813, Attn: Safe Harbor Complaints 
+
+SendThisFile, Inc. has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by SendThisFile, Inc., please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint. 
+
+###  How can you contact SendThisFile with Questions? 
+
+If you have questions regarding the SendThisFile Privacy Policy, you can us via email at [legal@sendthisfile.com](mailto:legal@sendthisfile.com), or via phone at 1-855-SEND-THIS (736-3844). 
