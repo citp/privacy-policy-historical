@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the socialdoe.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522044645id_/http%3A//socialdoe.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialdoe.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206143055id_/http%3A//socialdoe.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - SocialDOE
+# Privacy Policy - SocialDoe
+
+Socialdoe is founded on the principle of giving the best tool to monetize your social media audience. We know that you care about how your personal information is used and shared, and we take your privacy very seriously. By visiting the Socialdoe website, you are accepting the practices outlined in this policy. 
+
+## Socialdoe.com - Privacy Policy
 
 Your privacy is our top concern, thus we adhere to the following principles to protect your privacy: 
 
@@ -33,9 +37,9 @@ In order to become a User, you do not need to create an account on the Site. How
 
 We may also ask you to provide additional information after you register if you want to obtain additional services or information or to resolve complaints or concerns. You are responsible for ensuring the accuracy of any personal information you submit. Inaccurate information will affect the information you receive when using the Site and tools and our ability to contact you as described in this Privacy Policy.
 
-If you choose to associate an account managed by a third party with your account on the Site you hereby authorizes us to have access to personal data stored by third parties such as Facebook, Google+ or Twitter and you agree that we may collect, store and use these personal data in accordance with this Privacy Policy. Scope and categories of personal data we may receive in this case depends on policies of third parties' sites and is controlled by these third parties (these personal data may include, but are not limited to, your name, gender, profile photo, location/hometown, website, email address and other information you make publicly available via the social networking sites). For example, the Site allows you to create an account and login to the service using your Facebook account credentials through Facebook Connect. If you are not currently registered as a user of the Site and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join the Site.
+If you choose to associate an account managed by a third party with your account on the Site you hereby authorizes us to have access to personal data stored by third parties such as Facebook, Twitter, Tumblr or WeHeartIt and you agree that we may collect, store and use these personal data in accordance with this Privacy Policy. Scope and categories of personal data we may receive in this case depends on policies of third parties' sites and is controlled by these third parties (these personal data may include, but are not limited to, your name, gender, profile photo, location/hometown, website, email address and other information you make publicly available via the social networking sites). For example, the Site allows you to create an account and login to the service using your Facebook account credentials through Facebook Connect. If you are not currently registered as a user of the Site and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join the Site.
 
-Users can also post their recent activity on the Site back to their Facebook and/or other social networking site's accounts. You will be prompted to decide whether or not your activity on the Site will be shared and disclosed on your Facebook and/or other social networking site's account. You can disable this feature at any time by logging into your profile and selecting the option to disable Facebook Connect and/or other connect. Further, you may be able to edit your privacy settings for the content that you post which appears on Facebook and/or other social networking site by making selections in your "Edit Profile" settings.
+Users can also post their recent activity on the Site back to their social networking site's accounts, i.e. Facebook, Twitter, Tumblr or WeHeartIt. You will be prompted to decide whether or not your activity on the Site will be shared and disclosed on your social networking sites' accounts. You can disable this feature at any time by logging into your profile and selecting the option to be disabled. Further, you may be able to edit your privacy settings for the content that you post which appears on your social networking sites by making selections in your "Edit Profile" settings.
 
 Inviting friends
 
@@ -76,6 +80,8 @@ These general targets may also be used by ad networks to display targeted ads on
 Log files, IP and Information About Your Computer
 
 Due to the communications standards on the Internet, when you visit the Site we automatically receive the URL of the site from which you came and the site to which you are going when you leave the Site. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, e-mail patterns, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the Site. The linkage between your IP address and your personal data is not shared with third parties without your prior consent or except when allowed or required by law.
+
+## Communications
 
 The Owner will communicate with you through e-mail and notices posted on the Site or through other means available through the service, including text and other forms of messaging. If we send any communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with any such access (including text messaging charges for messages to your mobile device). Please be aware that you will always receive certain e-mails from the Owner related to the proper functioning of your account. You can change your e-mail at any time by logging into your "Account".
 
@@ -139,6 +145,8 @@ Changes to this Privacy Policy
 The Owner may update this Privacy Policy at any time, with or without advance notice.
 
 If you use the Site after notice of changes have been sent to you or published on the Site, you hereby provide your consent to these changes.
+
+## Security
 
 We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable laws related to security breach notification) to you via e-mail or conspicuous posting on the Site in the most expedient time possible and without unreasonable delay, insofar as consistent with: (i) the legitimate needs of law enforcement; or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
