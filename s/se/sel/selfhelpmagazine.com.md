@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the selfhelpmagazine.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504144630id_/http%3A//selfhelpmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfhelpmagazine.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206101313id_/http%3A//www.selfhelpmagazine.com/privacy) for the most accurate reproduction.*
 
-# SelfhelpMagazine PRIVACY POLICY | Self-help from SelfhelpMagazine.com
+# SelfhelpMagazine PRIVACY POLICY | SelfhelpMagazine.com
 
 This page states the Privacy Policy under which you, the Web Site visitor ("You" or "Your" or "Yourself") may use or correspond with this Web site ("Our Site"), which is owned by Pioneer Development Resources, Inc. ("We" or "Us" or "Our"). We respect Your privacy interests and operate this site by these principles. We have taken reasonable steps to protect the integrity and confidentiality of personally identifiable information that You may provide.
 
