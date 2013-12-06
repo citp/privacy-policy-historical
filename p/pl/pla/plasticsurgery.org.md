@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plasticsurgery.org privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615030244id_/http%3A//www.plasticsurgery.org/privacy-.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticsurgery.org privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206184257id_/http%3A//www.plasticsurgery.org/privacy-.html) for the most accurate reproduction.*
 
 # Privacy on the ASPS Website
 
