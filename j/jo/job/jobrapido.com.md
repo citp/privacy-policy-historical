@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the jobrapido.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606222838id_/http%3A//us.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206113650id_/http%3A//us.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
 
 # 
 
-Privacy Policy  
-This Website collects Personal Data from its Users. The Personal Data is either collected automatically or provided voluntarily. Failure to provide the Personal Data may affect the use of the Site or the Services offered. The purpose and methods of processing are set out below.  
-1\. Information regarding Data Processing Ownership  
-Jobrapido Srl (hereinafter "Jobrapido") is the Data Controller.  
-Jobrapido is a company member of the Evenbase Recruitment Ltd Group based in the UK and dedicated to recruitment services (“Evenbase Group”). For more information about the Evenbase Group, please visit www.evenbase.com
+Tax code and VAT number: IT11876271005  
+Company registered at the Chamber of Commerce of Milan  
+Fully paid up share capital: € 5.000.000  
+us@jobrapido.com
 
-Contact info:  
-Jobrapido Srl  
-Via Paleocapa, 7 - 20121 Milan (MI) - Italy  
-us@jobrapido.com  
 2\. Data collected during navigation  
 When you visit the Jobrapido Website, it collects certain Personal Data, such as the pages you view, the links or buttons that you click, the date and time when you access the Site, your IP address, your web browser and the operating system you use (the "Navigation Data").
 
