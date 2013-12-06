@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whoozin.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514003029id_/http%3A//www.whoozin.com/front/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoozin.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206192510id_/http%3A//whoozin.com/Front/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Free RSVP Online | For recurring meetings, events and groups.
+# Free RSVP Online | For recurring meetings, events and organized groups.
 
 ## Whoozin Privacy Policy
 
