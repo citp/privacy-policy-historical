@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10answers.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609062200id_/http%3A//sp.top10answers.com/en/docs/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10answers.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206202206id_/http%3A//sp.top10answers.com/en/docs/about/privacy.shtml) for the most accurate reproduction.*
 
 # About Top10answers.com Privacy
 
