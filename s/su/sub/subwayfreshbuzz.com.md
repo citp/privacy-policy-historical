@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subwayfreshbuzz.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616042827id_/http%3A//www.subway.com/subwayroot/privacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subwayfreshbuzz.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207003027id_/http%3A//www.subway.com/subwayroot/privacyNotice.aspx) for the most accurate reproduction.*
 
 # SUBWAY
 
@@ -8,11 +8,11 @@ This Privacy Notice applies to information, including personal information, coll
 
 Related Links
 
-  * Please [click here](https://web.archive.org/web/20130616042827id_/http%3A//www.subway.com/subwayroot/PrivacyPolicy-FWH.aspx) to read Franchise World Headquarters, LLC (FWH) Privacy Policy.
-  * Please [click here](https://web.archive.org/web/20130616042827id_/http%3A//www.subway.com/subwayroot/PrivacyPolicy-DAI.aspx) to read Doctor’s Associates Inc.’s (DAI) Privacy Policy.
-  * Please [click here](https://web.archive.org/web/20130616042827id_/http%3A//www.subway.com/subwayroot/PrivacyPolicy-SFB.aspx) to read Subway Franchise Advertising Fund Trust, Ltd. (SFAFT) Privacy Policy.
+  * Please [click here](https://web.archive.org/web/20131207003027id_/http%3A//www.subway.com/subwayroot/PrivacyPolicy-FWH.aspx) to read Franchise World Headquarters, LLC (FWH) Privacy Policy.
+  * Please [click here](https://web.archive.org/web/20131207003027id_/http%3A//www.subway.com/subwayroot/PrivacyPolicy-DAI.aspx) to read Doctor’s Associates Inc.’s (DAI) Privacy Policy.
+  * Please [click here](https://web.archive.org/web/20131207003027id_/http%3A//www.subway.com/subwayroot/PrivacyPolicy-SFB.aspx) to read Subway Franchise Advertising Fund Trust, Ltd. (SFAFT) Privacy Policy.
   * To view your country’s specific Privacy Policy go to www.subway.com at the top of the page click INTERNATIONAL WEB SITES, click on your country, go the bottom of the page and click Privacy Policy.
-  * Please [click here](https://web.archive.org/web/20130616042827id_/http%3A//www.subway.com/subwayroot/TermsOfUse.aspx) to review the Terms and Conditions regarding our websites.
+  * Please [click here](https://web.archive.org/web/20131207003027id_/http%3A//www.subway.com/subwayroot/TermsOfUse.aspx) to review the Terms and Conditions regarding our websites.
 
 
 
