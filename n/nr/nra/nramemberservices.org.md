@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nramemberservices.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603204421id_/https%3A//membership.nrahq.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nramemberservices.org privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206150343id_/https%3A//membership.nrahq.org/privacy.asp) for the most accurate reproduction.*
 
 # NRA Online Membership
 
