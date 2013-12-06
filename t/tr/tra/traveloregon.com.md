@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveloregon.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603000236id_/http%3A//traveloregon.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveloregon.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206144554id_/http%3A//traveloregon.com/legal/%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Oregon
 
@@ -56,11 +56,11 @@ Travel Oregon encourages comments, critiques, questions, and suggestions. By pos
 
 All comments left on the Travel Oregon network of sites are the responsibility of the commenter. By submitting a comment on our network of sites, you agree that the comment content is your own, and to hold this site, Travel Oregon, harmless from any and all repercussions, damages, or liability.
 
- **Travel Oregon** reserves the right to edit, delete, move, or mark as spam any and all comments and to block access by any individual or group from commenting or from the entire network of sites. The comment form must be filled in with a proper or legitimate sounding name and URL. Comments using keywords, spam or splog-like URLs or suspicious information in the comment form will be edited or deleted.
+**Travel Oregon** reserves the right to edit, delete, move, or mark as spam any and all comments and to block access by any individual or group from commenting or from the entire network of sites. The comment form must be filled in with a proper or legitimate sounding name and URL. Comments using keywords, spam or splog-like URLs or suspicious information in the comment form will be edited or deleted.
 
- **Email Privacy:** Email addresses are required for commenting, and they are not published, nor shared except as described above. They may be used by the site owner to privately contact the commenter.
+**Email Privacy:** Valid email addresses are required for commenting, and they are not published, nor shared except as described above. They may be used by the site owner to privately contact the commenter.
 
- **Commenter Privacy and Protection:** All email, physical mail, phone numbers, and any private and personal information posted in any comment will be deleted as soon as possible to protect the privacy of the commenter. To prevent such editing, never share this private information within the comment.  
+**Commenter Privacy and Protection:** All email, physical mail, phone numbers, and any private and personal information posted in any comment will be deleted as soon as possible to protect the privacy of the commenter. To prevent such editing, never share this private information within the comment.  
 ****
 
 **Language and Manners:** This network of sites is “family friendly” and comments which include offensive or inappropriate language, or considered by the network of sites owner and administrator to be rude and offensive, will be edited or deleted.
@@ -73,14 +73,14 @@ All comments left on the Travel Oregon network of sites are the responsibility o
 
 
 
- **Limit Links:** This site is setup to automatically hold any comment with more than two links in moderation, which may delay your comment from appearing. Any comment with more than four links could be marked as comment spam.
+**Limit Links:** This site is setup to automatically hold any comment with more than two links in moderation, which may delay your comment from appearing. Any comment with more than four links could be marked as comment spam.
 
- **How Travel Oregon Will Respond:** Comments will only be responded to in direct response to the comment. The site administrator(s) will not respond privately via email or other communication method to a comment.
+**How Travel Oregon Will Respond:** Comments will only be responded to in direct response to the comment. The site administrator(s) will not respond privately via email or other communication method to a comment.
 
- **Comment Spam:** Any comment assumed to be possible comment spam will be deleted and marked as comment spam.
+**Comment Spam:** Any comment assumed to be possible comment spam will be deleted and marked as comment spam.
 
- **Commenters Blocked:** Anyone who violates this Comments Policy may be blocked from future access and/or commenting on this network of sites.
+**Commenters Blocked:** Anyone who violates this Comments Policy may be blocked from future access and/or commenting on this network of sites.
 
- **All Rights Reserved:** The site owner, administrator, contributor, editor, and/or author reserve the right to edit, delete, move, or mark as spam any and all comments and to block access by any individual or group from commenting or from the entire network of sites.
+**All Rights Reserved:** The site owner, administrator, contributor, editor, and/or author reserve the right to edit, delete, move, or mark as spam any and all comments and to block access by any individual or group from commenting or from the entire network of sites.
 
- **Trackbacks Are Comments:** All trackbacks will be treated inline with our Comments Policy.
+**Trackbacks Are Comments:** All trackbacks will be treated inline with our Comments Policy.
