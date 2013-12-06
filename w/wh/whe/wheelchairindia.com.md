@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheelchairindia.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624154318id_/http%3A//www.wheelchairindia.com/wheelchairindia/ServicesInfo.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheelchairindia.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206130626id_/http%3A//www.wheelchairindia.com/wheelchairindia/ServicesInfo.aspx) for the most accurate reproduction.*
 
 # 
 
