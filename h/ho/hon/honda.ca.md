@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the honda.ca privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615181757id_/http%3A//honda.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honda.ca privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206161145id_/http%3A//www.honda.ca/privacy) for the most accurate reproduction.*
 
 # Honda.ca Privacy Policy
+
+## Honda Canada Privacy Statement
+
+I understand that Honda, its affiliates, Dealers and service providers collect, use and disclose my personal information for the purposes of (i) completing my purchase, finance or lease transaction; (ii) maintaining my warranty and customer service records; (iii) conducting customer service campaigns; (iv) providing me with marketing information; and (v) for legal and other business purposes. I consent to Honda, its affiliates, Dealers and service providers contacting me by telephone or sending commercial electronic messages to me, including email and text messages. I can contact Honda at 1-888-946-6329 or 180 Honda Boulevard, Markham, Ontario, L6C 0H9, and my Dealer if I no longer consent to these uses and to update or correct my personal information.
 
 ## Honda Canada Customer Privacy Policy
 
