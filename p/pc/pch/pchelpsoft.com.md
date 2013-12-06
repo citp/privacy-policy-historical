@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchelpsoft.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629163803id_/http%3A//www.pchelpsoft.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchelpsoft.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206202800id_/http%3A//www.pchelpsoft.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PC HelpSoft
 
