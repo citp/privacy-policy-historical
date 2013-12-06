@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lovelywholesale.com privacy policy that was archived on 2013-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628134233id_/http%3A//www.lovelywholesale.com/article-9-Privacy%2BPolicy%2B.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lovelywholesale.com privacy policy that was archived on 2013-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206124415id_/http%3A//www.lovelywholesale.com/article-9-Privacy%2BPolicy%2B.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,25 +9,42 @@
 <link rel="shortcut icon" href="favicon.ico">
 <link rel="icon" href="animated_favicon.gif" type="image/gif">
 <link href="themes/lightin/style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://web.archive.org/web/20131010020726/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/common.js"></script><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/translate_static/js/element/main.js"></script><script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
+<script src="//shopsocially.com/js/all.js" type="text/javascript" async=""></script><script type="text/javascript" src="js/common.js"></script><script type="text/javascript" async="" src="//static.getclicky.com/js"></script><script type="text/javascript" async="" charset="utf-8" src="https://ssl-static5.baifendian.com/service/lovelywholesale/lovelywholesale.js"></script></head>
 <body>
 <script type="text/javascript">
     var process_request = "Please waiting...";
 </script>
-<style type="text/css">.r1303{position:absolute;background-color:white;border:1px #CCCCCC solid;width:250px;z-index:9999;background:#FFFFFF url(xlll.gif) no-repeat left top;line-height:18px;font-weight:normal;color:#666666;margin-top:2px;}.icon-live-chat{background-position:-97px -172px;}</style>
+<style type="text/css">.r1303{position:absolute;background-color:white;border:1px #CCCCCC solid;width:250px;z-index:9999;background:#FFFFFF url(xlll.gif) no-repeat left top;line-height:18px;font-weight:normal;color:#666666;margin-top:-3px;}.icon-live-chat{background-position:-97px -172px;}</style>
 <script language="javascript"> 
 <!-- 
 window.onerror=function(){return true;} 
 // --> 
 </script>
-<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script><script type="text/javascript" src="js/transport_jquery.js"></script><script type="text/javascript" src="js/keywords_tips.js"></script><script type="text/javascript" src="js/jquery.lazyload.min.js"></script>
+<script type="text/javascript" src="js/jquert-1.8.2.js"></script><script type="text/javascript" src="js/jquery-1.8.3.min.js"></script><script type="text/javascript" src="js/transport_jquery.js"></script><script type="text/javascript" src="js/keywords_tips.js"></script><script type="text/javascript" src="js/jquery.lazyload.min.js"></script><script type="text/javascript" src="js/mobile.js"></script><script type="text/javascript" src="http://www.lovelywholesale.com/data/js/currency_huilv.js"></script>
+<script language="javascript">
+$(document).ready(function(){
+	if ($.cookie('currency_cod') == null){
+		$.cookie('currency_cod', 'USD', {expires: 7, path: '/'});
+	} 
+	
+   $(".g_price_s").each(function(i,o) {
+		yuanshi = $(this).attr('orgp');
+		$(o).html((parseFloat(my_array[$.cookie('currency_cod')]) * parseFloat(yuanshi)).toFixed(2)); 
+	});
+   
+$(".g_bizhong_s").html($.cookie('currency_cod'));
+//$("#cur_jiancheng").html($.cookie('bizhong'));
+var html=$("#hbxz_"+$.cookie('currency_cod')).html();
+$(".page_header_hb_sp").html(html);
+});
+</script>
 <!--[if IE 6]>
     <script src="themes/lightin/js/DD_belatedPNG_0.0.8a-min.vb4e86b02.js"></script>
     <script> DD_belatedPNG.fix('.pngfix'); </script>
 <![endif]-->
 <div class="block clearfix ">
 <div class="f_l" style="padding-top:6px;">
-<a id="logo" href="/"><img src="undefinedbase-images/300x300.png"><span>Homepage</span></a>
+<a id="logo" href="/"><img src="themes/lightin/images/christmas_logo.png"><span>Homepage</span></a>
 <p id="slogan">
 <a href="/article_cat-10-Shipping.html">No Minimum Order</a>
 <br>
@@ -43,18 +60,54 @@ Shipping Worldwide
 <a href="/user.php">My Account</a>
 <b>·</b>
 <a href="/article-7-Contact+Us.html">Contact Us</a>
-<select name="hbxz" id="hbxz" onchange="changhb(this.value)">
-<option value="USD" selected="selected">US Dollars</option>
-<option value="GBP">GBP</option>
-<option value="AUD">AUD</option>
-<option value="EUR">Euro</option>
-</select>
+<div class="page_header_hb" onmouseover="changeDisHB1();" onmouseout="changeDisHB2();">
+<span class="page_header_hb_sp"><label>$</label>USD</span><em></em>
+<ul class="page_header_hb_ul" id="page_header_hb_ul" style="display: none;">
+<li id="hbxz_USD" onclick="changhb('USD')"><label>$</label>USD</li>
+<li id="hbxz_GBP" onclick="changhb('GBP')"><label>£</label>GBP</li>
+<li id="hbxz_AUD" onclick="changhb('AUD')"><label>$</label>AUD</li>
+<li id="hbxz_EUR" onclick="changhb('EUR')"><label>€</label>EUR</li>
+<li id="hbxz_CHF" onclick="changhb('CHF')"><label>₣</label>CHF</li>
+<li id="hbxz_CAD" onclick="changhb('CAD')"><label>CA$</label>CAD</li>
+<li id="hbxz_RUB" onclick="changhb('RUB')"><label>руб</label>RUB</li>
+<li id="hbxz_NZD" onclick="changhb('NZD')"><label>NZ$</label>NZD</li>
+<li id="hbxz_JPY" onclick="changhb('JPY')"><label>¥</label>JPY</li>
+<li id="hbxz_BRL" onclick="changhb('BRL')"><label>R$</label>BRL</li>
+<li id="hbxz_NOK" onclick="changhb('NOK')"><label>kr.</label>NOK</li>
+<li id="hbxz_DKK" onclick="changhb('DKK')"><label>kr.</label>DKK</li>
+<li id="hbxz_SEK" onclick="changhb('SEK')"><label>Kr.</label>SEK</li>
+<li id="hbxz_ILS" onclick="changhb('ILS')"><label>₪</label>ILS</li>
+<li id="hbxz_MXN" onclick="changhb('MXN')"><label>$</label>MXN</li>
+</ul>
+</div>
+<script type="text/javascript">
+				function changeDisHB1(){
+						clearTimeout(setDisHB);
+						var a = document.getElementById("page_header_hb_ul");
+						a.style.display = "block";
+					}
+				function changeDisHB2(){
+						setDisHB = setTimeout(function changeHB(){ 
+								var a = document.getElementById("page_header_hb_ul");
+								a.style.display = "none";
+							},50);
+					}
+					changeDisHB2();
+               </script>
 <script>
                     
-                    function changhb(kk)
+                    function changhb(bizhong)
                     {
-		                        location.href = 'http://www.lovelywholesale.com/article.php?id=9&currency=' + kk;
-		                        }
+						$.cookie('currency_cod',bizhong, {expires: 7, path: '/'});          
+						$(".g_bizhong_s").html(bizhong);
+						   $(".g_price_s").each(function(i,o){
+								yuanshi = $(this).attr('orgp');
+								$(o).html((parseFloat(my_array[$.cookie('currency_cod')]) * parseFloat(yuanshi)).toFixed(2)); 
+						   });
+						 var html=$("#hbxz_"+bizhong).html();
+						$(".page_header_hb_sp").html(html);
+						changeDisHB2();
+                    }
                     
                 </script>
  
@@ -79,10 +132,10 @@ Shipping Worldwide
 </div>
  
 <div id="citj5M" style="z-index:100;position:absolute"></div>
-<div style="display:inline">
-<img src="undefinedbase-images/300x300.png" onclick="suppoertCenter()">
+<div style="display:inline" onmouseover="suppoertCenter(1)" onmouseout="suppoertCenter(0)">
+<img src="themes/lightin/images/live_chat.png">
 </div>
-<div id="sdtj5M" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/1idvbyjnfecmj14m5ljcbmyi86/safe-textlink.js?ps_h=tj5M&amp;ps_t=1582142524031&amp;online-link-html=Start%20Online%20Chat&amp;offline-link-html=Leave%20Message"></script></div><script type="text/javascript">var setj5M=document.createElement("script");setj5M.type="text/javascript";var setj5Ms=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/1idvbyjnfecmj14m5ljcbmyi86/safe-textlink.js?ps_h=tj5M&ps_t="+new Date().getTime()+"&online-link-html=Start%20Online%20Chat&offline-link-html=Leave%20Message";setTimeout("setj5M.src=setj5Ms;document.getElementById('sdtj5M').appendChild(setj5M)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=1idvbyjnfecmj14m5ljcbmyi86">help</a></div></noscript>
+<div id="sdtj5M" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/1idvbyjnfecmj14m5ljcbmyi86/safe-textlink.js?ps_h=tj5M&amp;ps_t=1582142530843&amp;online-link-html=Start%20Online%20Chat&amp;offline-link-html=Leave%20Message"></script></div><script type="text/javascript">var setj5M=document.createElement("script");setj5M.type="text/javascript";var setj5Ms=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/1idvbyjnfecmj14m5ljcbmyi86/safe-textlink.js?ps_h=tj5M&ps_t="+new Date().getTime()+"&online-link-html=Start%20Online%20Chat&offline-link-html=Leave%20Message";setTimeout("setj5M.src=setj5Ms;document.getElementById('sdtj5M').appendChild(setj5M)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=1idvbyjnfecmj14m5ljcbmyi86">help</a></div></noscript>
 </div>
 <div class="f_r" style="line-height:20px;margin-right:10px;font-size:11px;">
 <a href="search.php?intro=new" class="new_a1">WHAT’S NEW</a>
@@ -92,8 +145,8 @@ Shipping Worldwide
 <script type="text/javascript" src="themes/lightin/js/element.js">
         </script>
 </div>
-<div id="supportCenterDiv" style="clear:both;width:250px; float:right;position:relative; z-index:9999; display:none;">
-<div class="r1303">
+<div id="supportCenterDiv" onmouseover="suppoertCenter(1);" onmouseout="suppoertCenter(0)" style="clear:both;width:250px; float:right;position:relative; z-index:9999; display:none;">
+<div class="r1303" style="border-radius:8px; padding:5px 2px;">
 <table width="100%" cellspacing="0" cellpadding="3" border="0">
 <tbody>
 <tr>
@@ -150,7 +203,7 @@ Contact customer service for order status and other after-sales issues.
 </dt>
 <dd class="cateWrap">
 <div class="cate ">
-<h2 class=""><a href="womens+shoes+c163.html">Womens Shoes<span>&nbsp;(3965)</span><em class="pngfix" style="display: block; "></em></a></h2>
+<h2 class=""><a href="womens+shoes+c163.html">Womens Shoes<span>&nbsp;(3106)</span><em class="pngfix" style="display: block; "></em></a></h2>
 <div class="subMenu" style="width:600px; display: none; top: 0px; ">
 <div class="subCate" style="width:400px;">
 <dl>
@@ -187,10 +240,10 @@ Contact customer service for order status and other after-sales issues.
 <a class="view-all" href="peep+toe-womens+pumps+c165.html">Peep Toe Pumps</a>
 </dd>
 <dd>
-<a class="view-all" href="mary+jane-womens+pumps+c165.html">Mary Jane Pumps</a>
+<a class="view-all" href="suede-womens+pumps+c165.html">Suede Pumps</a>
 </dd>
 <dd>
-<a class="view-all" href="suede-womens+pumps+c165.html">Suede Pumps</a>
+<a class="view-all" href="mary+jane-womens+pumps+c165.html">Mary Jane Pumps</a>
 </dd>
 <dd>
 <a class="view-all" href="stiletto-womens+pumps+c165.html">Stiletto Pumps</a>
@@ -269,16 +322,7 @@ Contact customer service for order status and other after-sales issues.
 <a href="search.php?keywords=&amp;category=163&amp;brand=0&amp;min_price=0&amp;max_price=10&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Favors Under $10!</a>
 </p>
 <p>
-<a href="50%25-Off-Plus-Big-Size-Shoes-vc-22.html" style="color:#BB0000;">50% Off Plus Big Size Shoes</a>
-</p>
-<p>
 <a href="Pick-Shoes-Of-One-Month-vc-24.html" style="color:#BB0000;">Pick Shoes Of One Month</a>
-</p>
-<p>
-<a href="40%25-Off-Shoes-vc-27.html">40% Off Shoes</a>
-</p>
-<p>
-<a href="valentine+gifts+c248.html">Valentine Gifts!</a>
 </p>
 </dd>
 </dl>
@@ -286,7 +330,7 @@ Contact customer service for order status and other after-sales issues.
 </div>
 </div>
 <div class="cate ">
-<h2 class=""><a href="womens+clothing+c156.html">Womens Clothing<span>&nbsp;(4991)</span><em class="pngfix" style="display: block; "></em></a></h2>
+<h2 class=""><a href="womens+clothing+c156.html">Womens Clothing<span>&nbsp;(4556)</span><em class="pngfix" style="display: block; "></em></a></h2>
 <div class="subMenu" style="width:600px; display: none; top: 0px; ">
 <div class="subCate" style="width:400px;">
 <dl>
@@ -314,6 +358,11 @@ Contact customer service for order status and other after-sales issues.
 </dl>
 <dl>
 <dt>
+<a href="womens+sweaters+cardigans+c288.html">Sweaters &amp; Cardigans</a>
+</dt>
+</dl>
+<dl>
+<dt>
 <a href="outerwear+coats+c158.html">Outerwear&amp;Coats</a>
 </dt>
 <dd>
@@ -326,7 +375,7 @@ Contact customer service for order status and other after-sales issues.
 <a class="view-all" href="down+parkas+c198.html">Down&amp;Parkas</a>
 </dd>
 <dd>
-<a class="view-all" href="womens+trench+c201.html">Trench</a>
+<a class="view-all" href="womens+trench+coats+c201.html">Trench Coats</a>
 </dd>
 <dd>
 <a class="view-all" href="leather+suede+c200.html">Leather&amp;Suede</a>
@@ -350,9 +399,6 @@ Contact customer service for order status and other after-sales issues.
 </dd>
 <dd>
 <a class="view-all" href="womens+base+layers+c247.html">Base Layers</a>
-</dd>
-<dd>
-<a class="view-all" href="womens+sweaters+c205.html">Sweaters</a>
 </dd>
 </dl>
 <dl>
@@ -392,9 +438,6 @@ Contact customer service for order status and other after-sales issues.
 <a class="view-all" href="womens+swimdresses+c217.html">Swimdresses</a>
 </dd>
 <dd>
-<a class="view-all" href="womens+skirtinis+c218.html">Skirtinis</a>
-</dd>
-<dd>
 <a class="view-all" href="womens+cover+ups+c238.html">Cover-Ups</a>
 </dd>
 </dl>
@@ -403,13 +446,13 @@ Contact customer service for order status and other after-sales issues.
 <a href="womens+intimates+c241.html">Intimates</a>
 </dt>
 <dd>
-<a class="view-all" href="sleep+lounge.html">Sleep&amp;Lounge</a>
+<a class="view-all" href="womens+camisole+tank+top+c208.html">Camisole&amp;Tank Top</a>
+</dd>
+<dd>
+<a class="view-all" href="womens+pajamas+c285.html">pajamas</a>
 </dd>
 <dd>
 <a class="view-all" href="bras+sets+c179.html">Bras/Bra Sets</a>
-</dd>
-<dd>
-<a class="view-all" href="womens+camisole+tank+top+c208.html">Camisole&amp;Tank Top</a>
 </dd>
 <dd>
 <a class="view-all" href="panties+c261.html">Panties</a>
@@ -434,19 +477,16 @@ Contact customer service for order status and other after-sales issues.
 <a href="search.php?keywords=&amp;category=156&amp;brand=0&amp;min_price=0&amp;max_price=10&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Favors Under $10!</a>
 </p>
 <p>
-<a href="Office-Lady-vc-40.html">Office Lady</a>
-</p>
-<p>
-<a href="http://www.lovelywholesale.com/search.php?keywords=Bohemia+&amp;category=156&amp;brand=0&amp;min_price=0&amp;max_price=&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Bohemia Dress</a>
+<a href="Top-Womens-Coat-vc-106.html" style="color:#BB0000;">Top Womens Coat</a>
 </p>
 <p>
 <a href="Clothes-Sale-vc-36.html">Clothes Sale</a>
 </p>
 <p>
-<a href="Top-Seller-Clothes-vc-25.html">Top Seller Clothes</a>
+<a href="HOT%21The-Sweater-syndrome-vc-103.html" style="color:#BB0000;">HOT!The Sweater syndrome</a>
 </p>
 <p>
-<a href="valentine+gifts+c248.html">Valentine Gifts!</a>
+<a href="Maxi-dress-vc-93.html">Maxi dress</a>
 </p>
 </dd>
 </dl>
@@ -454,7 +494,7 @@ Contact customer service for order status and other after-sales issues.
 </div>
 </div>
 <div class="cate ">
-<h2 class=""><a href="jewellery+c174.html">Jewellery<span>&nbsp;(1748)</span><em class="pngfix" style="display: block; "></em></a></h2>
+<h2 class=""><a href="jewellery+c174.html">Jewellery<span>&nbsp;(1430)</span><em class="pngfix" style="display: block; "></em></a></h2>
 <div class="subMenu" style="width:600px; display: none; top: 0px; ">
 <div class="subCate" style="width:400px;">
 <dl>
@@ -492,11 +532,6 @@ Contact customer service for order status and other after-sales issues.
 <a href="brooch+c237.html">Brooch</a>
 </dt>
 </dl>
-<dl>
-<dt>
-<a href="Watch+c257.html">Watch</a>
-</dt>
-</dl>
 </div>
 <div class="specialOffer">
 <dl>
@@ -511,16 +546,7 @@ Contact customer service for order status and other after-sales issues.
 <a href="search.php?keywords=&amp;category=174&amp;brand=0&amp;min_price=0&amp;max_price=10&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Favors Under $10!</a>
 </p>
 <p>
-<a href="Best-Seller-Jewelry-vc-23.html">Best Seller Jewelry</a>
-</p>
-<p>
 <a href="http://www.lovelywholesale.com/search.php?keywords=earring&amp;category=186&amp;brand=0&amp;min_price=0&amp;max_price=3&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search" style="color:#BB0000;">Earring Under $3</a>
-</p>
-<p>
-<a href="http://www.lovelywholesale.com/search.php?keywords=bracelet&amp;category=174&amp;brand=0&amp;min_price=0&amp;max_price=&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Beautiful Bracelet</a>
-</p>
-<p>
-<a href="valentine+gifts+c248.html">Valentine Gifts!</a>
 </p>
 </dd>
 </dl>
@@ -528,7 +554,7 @@ Contact customer service for order status and other after-sales issues.
 </div>
 </div>
 <div class="cate ">
-<h2 class=""><a href="sexy+lingerie+c173.html">Sexy Lingerie<span>&nbsp;(728)</span><em class="pngfix" style="display: block; "></em></a></h2>
+<h2 class=""><a href="sexy+lingerie+c173.html">Sexy Lingerie<span>&nbsp;(725)</span><em class="pngfix" style="display: block; "></em></a></h2>
 <div class="subMenu" style="width:600px; display: none; top: 0px; ">
 <div class="subCate" style="width:400px;">
 <dl>
@@ -548,7 +574,7 @@ Contact customer service for order status and other after-sales issues.
 </dl>
 <dl>
 <dt>
-<a href="bodystocking+c182.html">Bodystocking</a>
+<a href="gowns+robes+c255.html">Gowns&amp;Robes</a>
 </dt>
 </dl>
 <dl>
@@ -558,7 +584,12 @@ Contact customer service for order status and other after-sales issues.
 </dl>
 <dl>
 <dt>
-<a href="gowns+robes+c255.html">Gowns&amp;Robes</a>
+<a href="bodystocking+c182.html">Bodystocking</a>
+</dt>
+</dl>
+<dl>
+<dt>
+<a href="bra+sets+c254.html">Bra Sets</a>
 </dt>
 </dl>
 </div>
@@ -574,22 +605,13 @@ Contact customer service for order status and other after-sales issues.
 <p>
 <a href="search.php?keywords=&amp;category=173&amp;brand=0&amp;min_price=0&amp;max_price=10&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Favors Under $10!</a>
 </p>
-<p>
-<a href="Miss-Sexy-vc-37.html">Miss Sexy</a>
-</p>
-<p>
-<a href="http://www.lovelywholesale.com/search.php?keywords=Lace&amp;category=173&amp;brand=0&amp;min_price=0&amp;max_price=0&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Hot Lace</a>
-</p>
-<p>
-<a href="valentine+gifts+c248.html">Valentine Gifts!</a>
-</p>
 </dd>
 </dl>
 </div>
 </div>
 </div>
 <div class="cate ">
-<h2 class=""><a href="bags+c168.html">Bags<span>&nbsp;(628)</span><em class="pngfix" style="display: block; "></em></a></h2>
+<h2 class=""><a href="bags+c168.html">Bags<span>&nbsp;(583)</span><em class="pngfix" style="display: block; "></em></a></h2>
 <div class="subMenu" style="width:600px; display: none; top: 0px; ">
 <div class="subCate" style="width:400px;">
 <dl>
@@ -598,9 +620,6 @@ Contact customer service for order status and other after-sales issues.
 </dt>
 <dd>
 <a class="view-all" href="shoulder+bags+c219.html">Shoulder Bags</a>
-</dd>
-<dd>
-<a class="view-all" href="totes+bags+c220.html">Totes Bags</a>
 </dd>
 <dd>
 <a class="view-all" href="clutches+bags+c240.html">Clutches Bags</a>
@@ -628,7 +647,7 @@ Contact customer service for order status and other after-sales issues.
 <a class="view-all" href="wallets+c223.html">Wallets</a>
 </dd>
 <dd>
-<a class="view-all" href="key+wallets+c226.html">Key Wallets</a>
+<a class="view-all" href="coin+purses+c224.html">Coin Purses</a>
 </dd>
 </dl>
 <dl>
@@ -656,13 +675,7 @@ Contact customer service for order status and other after-sales issues.
 <a href="search.php?keywords=&amp;category=168&amp;brand=0&amp;min_price=0&amp;max_price=10&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Favors Under $10!</a>
 </p>
 <p>
-<a href="20%25-Off-Bag-vc-29.html" style="color:#BB0000;">20% Off Bag</a>
-</p>
-<p>
 <a href="Pick-Of-One-Month-vc-41.html" style="color:#BB0000;">Pick Of One Month</a>
-</p>
-<p>
-<a href="valentine+gifts+c248.html">Valentine Gifts!</a>
 </p>
 </dd>
 </dl>
@@ -670,9 +683,14 @@ Contact customer service for order status and other after-sales issues.
 </div>
 </div>
 <div class="cate ">
-<h2 class=""><a href="costumes+cosplay+c193.html">Costumes/Cosplay<span>&nbsp;(404)</span><em class="pngfix" style="display: block; "></em></a></h2>
+<h2 class=""><a href="costumes+cosplay+c193.html">Costumes/Cosplay<span>&nbsp;(597)</span><em class="pngfix" style="display: block; "></em></a></h2>
 <div class="subMenu" style="width:600px; display: none; top: 0px; ">
 <div class="subCate" style="width:400px;">
+<dl>
+<dt>
+<a href="Cosplay+Costumes+c283.html">Cosplay Costumes</a>
+</dt>
+</dl>
 <dl>
 <dt>
 <a href="sexy+costumes+c195.html">Sexy Costumes</a>
@@ -680,10 +698,13 @@ Contact customer service for order status and other after-sales issues.
 </dl>
 <dl>
 <dt>
-<a href="halloween+costumes+c244.html">Halloween Costumes</a>
+<a href="Accessories+c244.html">Accessories</a>
 </dt>
 <dd>
 <a class="view-all" href="halloween+mask.html">Mask</a>
+</dd>
+<dd>
+<a class="view-all" href="Props+c284.html">Props</a>
 </dd>
 </dl>
 </div>
@@ -699,8 +720,27 @@ Contact customer service for order status and other after-sales issues.
 <p>
 <a href="search.php?keywords=&amp;category=193&amp;brand=0&amp;min_price=0&amp;max_price=10&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Favors Under $10!</a>
 </p>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+<div class="cate ">
+<h2 class=""><a href="Watch+c286.html">Watch<span>&nbsp;(360)</span><em class="pngfix" style="display: block; "></em></a></h2>
+<div class="subMenu" style="width:600px; display: none; top: 0px; ">
+<div class="subCate" style="width:400px;">
+</div>
+<div class="specialOffer">
+<dl>
+<dt>
+<span>Offers exclusives</span>
+</dt>
+<dd>
 <p>
-<a href="valentine+gifts+c248.html">Valentine Gifts!</a>
+<a href="search.php?intro=new&amp;cat_id=286" style="color:#BB0000;">New Arrival!</a>
+</p>
+<p>
+<a href="search.php?keywords=&amp;category=286&amp;brand=0&amp;min_price=0&amp;max_price=10&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Favors Under $10!</a>
 </p>
 </dd>
 </dl>
@@ -708,7 +748,7 @@ Contact customer service for order status and other after-sales issues.
 </div>
 </div>
 <div class="cate ">
-<h2 class=""><a href="accessories.html">Accessories<span>&nbsp;(601)</span><em class="pngfix" style="display: block; "></em></a></h2>
+<h2 class=""><a href="accessories.html">Accessories<span>&nbsp;(789)</span><em class="pngfix" style="display: block; "></em></a></h2>
 <div class="subMenu" style="width:600px; display: none; top: 0px; ">
 <div class="subCate" style="width:400px;">
 <dl>
@@ -724,11 +764,6 @@ Contact customer service for order status and other after-sales issues.
 <dl>
 <dt>
 <a href="scarves.html">Scarves</a>
-</dt>
-</dl>
-<dl>
-<dt>
-<a href="pet+clothes+c176.html">Pet Clothes</a>
 </dt>
 </dl>
 <dl>
@@ -749,19 +784,13 @@ Contact customer service for order status and other after-sales issues.
 <p>
 <a href="search.php?keywords=&amp;category=177&amp;brand=0&amp;min_price=0&amp;max_price=10&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Favors Under $10!</a>
 </p>
-<p>
-<a href="http://www.lovelywholesale.com/search.php?keywords=scarves&amp;category=177&amp;brand=0&amp;min_price=0&amp;max_price=&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Scarves Collections</a>
-</p>
-<p>
-<a href="valentine+gifts+c248.html">Valentine Gifts!</a>
-</p>
 </dd>
 </dl>
 </div>
 </div>
 </div>
 <div class="cate ">
-<h2 class=""><a href="Wedding+Events+c262.html">Wedding &amp; Events<span>&nbsp;(459)</span><em class="pngfix" style="display: block; "></em></a></h2>
+<h2 class=""><a href="Wedding+Events+c262.html">Wedding &amp; Events<span>&nbsp;(516)</span><em class="pngfix" style="display: block; "></em></a></h2>
 <div class="subMenu" style="width:600px; display: none; top: 0px; ">
 <div class="subCate" style="width:400px;">
 <dl>
@@ -800,10 +829,19 @@ Contact customer service for order status and other after-sales issues.
 <a class="view-all" href="Wedding+Gloves+c275.html">Wedding Gloves</a>
 </dd>
 <dd>
+<a class="view-all" href="Wedding+Headpieces+c280.html">Wedding Headpieces</a>
+</dd>
+<dd>
+<a class="view-all" href="Wedding+Shawls+c274.html">Wedding Shawls</a>
+</dd>
+<dd>
 <a class="view-all" href="Wedding+Petticoats+c276.html">Wedding Petticoats</a>
 </dd>
 <dd>
-<a class="view-all" href="Wedding+Bags+c277.html">Wedding Bags</a>
+<a class="view-all" href="Wedding+Jewelry+Sets+c281.html">Wedding Jewelry Sets</a>
+</dd>
+<dd>
+<a href="Wedding+Accessories+c272.html">view more»</a>
 </dd>
 </dl>
 <dl>
@@ -824,16 +862,13 @@ Contact customer service for order status and other after-sales issues.
 <p>
 <a href="search.php?keywords=&amp;category=262&amp;brand=0&amp;min_price=0&amp;max_price=10&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Favors Under $10!</a>
 </p>
-<p>
-<a href="valentine+gifts+c248.html">Valentine Gifts!</a>
-</p>
 </dd>
 </dl>
 </div>
 </div>
 </div>
 <div class="cate ">
-<h2 class=""><a href="under5+c260.html">Under $5<span>&nbsp;(32)</span><em class="pngfix" style="display: block; "></em></a></h2>
+<h2 class=""><a href="christmas.html">Christmas<span>&nbsp;(127)</span><em class="pngfix" style="display: block; "></em></a></h2>
 <div class="subMenu" style="width:600px; display: none; top: 0px; ">
 <div class="subCate" style="width:400px;">
 </div>
@@ -844,13 +879,10 @@ Contact customer service for order status and other after-sales issues.
 </dt>
 <dd>
 <p>
-<a href="search.php?intro=new&amp;cat_id=260" style="color:#BB0000;">New Arrival!</a>
+<a href="search.php?intro=new&amp;cat_id=246" style="color:#BB0000;">New Arrival!</a>
 </p>
 <p>
-<a href="search.php?keywords=&amp;category=260&amp;brand=0&amp;min_price=0&amp;max_price=10&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Favors Under $10!</a>
-</p>
-<p>
-<a href="valentine+gifts+c248.html">Valentine Gifts!</a>
+<a href="search.php?keywords=&amp;category=246&amp;brand=0&amp;min_price=0&amp;max_price=10&amp;goods_type=0&amp;outstock=1&amp;action=form&amp;Submit=Search">Favors Under $10!</a>
 </p>
 </dd>
 </dl>
@@ -942,18 +974,23 @@ Contact customer service for order status and other after-sales issues.
                     $(this).removeClass('over');
                 });
 				
-				function suppoertCenter()
+				function suppoertCenter(num)
 				{
-				  if(document.getElementById('supportCenterDiv').style.display =='none')
+				  if(num)
 				  {
+					  clearTimeout(setTimeout2);
 					  document.getElementById('supportCenterDiv').style.display =''
 				  }	
 				  else
 				  {
-					 document.getElementById('supportCenterDiv').style.display ='none' 
+					  setTimeout2 = setTimeout(
+										function changedisp(){
+											document.getElementById('supportCenterDiv').style.display ='none'; 
+										},50);
+					  
 				  }
 				}
-				
+				suppoertCenter(0);
             </script>
 </div>
 </div>
@@ -1024,7 +1061,7 @@ Contact customer service for order status and other after-sales issues.
 <dd><a href="article-104-Unpaid+Order.html" title="Unpaid Order">Unpaid Order</a></dd>
 <dd><a href="article-108-%245+registration.html" title="$5 registration">$5 registration</a></dd>
 <dd><a href="article-116-Free+SizeOne+Size.html" title="Free Size/One Size">Free Size/One Size</a></dd>
-<dd><a href="article-120-Fashion+Blogger.html" title="Fashion Blogger">Fashion Blogger</a></dd>
+<dd><a href="article-120-Youtuber++blogger.html" title="Youtuber &amp; blogger">Youtuber &amp; blogger</a></dd>
 <dd><a href="article-126-Testimonials.html" title="Testimonials">Testimonials</a></dd>
 </dl>
 </div>
@@ -1070,7 +1107,7 @@ Previous:<a href="article-8-About+US.html" class="f6">About US</a>
 <h2>Join our community</h2>
 <ul>
 <li class="mini-facebook">
-<a href="http://www.facebook.com/lovelywholesale.com" target="_blank" rel="nofollow"><em>Like us</em> on Facebook</a>
+<a href="http://www.facebook.com/lovelywholesale" target="_blank" rel="nofollow"><em>Like us</em> on Facebook</a>
 <div id="fb-root">
 </div>
 </li>
@@ -1132,7 +1169,7 @@ Previous:<a href="article-8-About+US.html" class="f6">About US</a>
 <p>Get Updates,Discounts,Special Offers And Big Prizes!</p>
 <input class="mail" type="text" id="user_email" value="Email Address" onclick="javascript:this.value=''">
 <br>
-<a href="javascript:;" onclick="add_email_list();"></a>
+<a name="Subscribe" href="javascript:;" onclick="add_email_list();"></a>
 </div>
 <div class="blank">
 </div>
@@ -1248,7 +1285,7 @@ Previous:<a href="article-8-About+US.html" class="f6">About US</a>
 <div class="blank">
 </div>
 <div style="text-align:center">
-<img src="undefinedbase-images/300x300.png"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.lovelywholesale.com&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+<img src="themes/lightin/images/fot_img.jpg"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.lovelywholesale.com&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
 </div>
 <div class="bNavList clearfix block">
 </div>
@@ -1259,66 +1296,40 @@ Previous:<a href="article-8-About+US.html" class="f6">About US</a>
 © 2005-2013 lovelywholesale.com Copyright, All Rights Reserved. <br>
 </div>
 </div>
-<div id="KeywordsTips" style="top: 96px; left: 452px;"></div>
+<div id="KeywordsTips"></div>
 <script type="text/javascript">
-	var tt_member_info=0;
-	var tt_cart_info=0;
-	var tt_history=0;
-	setTimeout(function(){
-			
-		var member_info_obj=document.getElementById('insert_member_info');
-			
+	$().ready(function(){			
+		var member_info_obj=$('#insert_member_info').length;
+		var fun_str='';
 		if(member_info_obj)
 		{
-			tt_member_info=setInterval(function(){
-				member_info=$("#insert_member_info").text();
-				
-				if(!(member_info=='' || member_info==undefined || member_info==null))
-				{
-					clearInterval(tt_member_info);
-				}			
-				else{
-					insert_dynamic('member_info');
-				}
-			},1000);
-		}
-		
-		var cart_info_obj=document.getElementById('insert_cart_info');
-			
+			if(fun_str == ''){
+				fun_str = fun_str + 'member_info';
+			}else{
+				fun_str = fun_str +','+'member_info';
+			}
+		}		
+		var cart_info_obj=$('#insert_cart_info').length;			
 		if(cart_info_obj)
 		{
-			tt_cart_info=setInterval(function(){
-				cart_info=$("#insert_cart_info").text();
-				
-				if(!(cart_info=='' || cart_info==undefined || cart_info==null))
-				{
-					clearInterval(tt_cart_info);
-				}			
-				else{
-					insert_dynamic('cart_info');
-				}
-			},1000);
-		}	
-		
-		var history_obj=document.getElementById('insert_history');
-			
+			if(fun_str == ''){
+				fun_str = fun_str + 'cart_info';
+			}else{
+				fun_str = fun_str +','+'cart_info';
+			}
+		}			
+		var history_obj=$('#insert_history').length;	
 		if(history_obj)
 		{
-			tt_history=setInterval(function(){
-				history_text=$("#insert_history").text();
-				
-				if(!(history_text=='' || history_text==undefined || history_text==null))
-				{
-					clearInterval(tt_history);
-				}			
-				else{
-					insert_dynamic('history');
-				}
-			},1000);
-		}			
-			
-	},1000);
-	
+			if(fun_str == ''){
+				fun_str = fun_str + 'history';
+			}else{
+				fun_str = fun_str +','+'history';
+			}
+		}
+		insert_dynamic(fun_str);
+		setTimeout(show_my_shop_price,800)
+	});	
 </script>
 <link href="https://plus.google.com/113375685677491358202" rel="publisher">
 <script type="text/javascript">
@@ -1339,6 +1350,29 @@ clicky_site_ids.push(100600845);
 <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100600845ns.gif"/></p></noscript>
 <script type="text/javascript">
 	$("img.lazy").lazyload(); 
+</script>
+<input type="hidden" id="BFD_userId" value="0">
+<script type="text/javascript">
+                window["_BFD"] = window["_BFD"] || {};
+                _BFD.client_id = "Ctest_lovelywholesale";
+                _BFD.script = document.createElement("script");
+                _BFD.script.type = "text/javascript";
+                _BFD.script.async = true;
+                _BFD.script.charset = "utf-8";
+                _BFD.script.src = (('https:' == document.location.protocol?'https://ssl-static5':'http://static5')+'.baifendian.com/service/lovelywholesale/lovelywholesale.js');
+               document.getElementsByTagName("head")[0].appendChild(_BFD.script);
+ </script>
+<script type="text/javascript">
+    SSConfig = {
+	partner_id: '88ffc277d97f366d63e2b489dc3df722'
+    };
+    _ssq = (typeof _ssq === 'undefined')?[]:_ssq;
+    _ssq.push(['init', SSConfig]);
+    (function() {
+	var ss = document.createElement('script');ss.src = '//shopsocially.com/js/all.js';
+	ss.type = 'text/javascript';ss.async = 'true';
+	var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ss, s);
+    })();
 </script>
 
 </div></body></html>
