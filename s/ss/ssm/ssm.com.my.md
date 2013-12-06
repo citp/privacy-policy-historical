@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssm.com.my privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520072758id_/http%3A//www.ssm.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssm.com.my privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206025008id_/http%3A//www.ssm.com.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Suruhanjaya Syarikat Malaysia (SSM)
 
