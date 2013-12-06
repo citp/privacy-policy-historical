@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbclothing.co.uk privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611023814id_/http%3A//www.bbclothing.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbclothing.co.uk privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206163136id_/http%3A//www.bbclothing.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Brown Bag Clothing Privacy Policy
 
@@ -44,7 +44,7 @@ We will also use information about you for purposes upon which the provision of 
 
 ## Transfer overseas
 
-Please note that disclosures we may make may take place via electronic means and may involve the transfer of personal data relating to you to countries outside the European economic area, which countries do not have in place adequate rules relating to data protection and privacy of personal data. 
+The internet is a global network, so it is possible for your data to travel internationally, which may include places outside the European Union. If you visit or shop at bbclothing.co.uk, you're agreeing and authorising us to process data in this way.
 
 ## Sale of our business
 
@@ -55,6 +55,10 @@ You acknowledge that data you provide to us may be transferred to any person, fi
 We will endeavor to keep any information, which we hold, about you up to date and accurate. To help us to do this, please keep us informed if any of your details change.
 
 We will endeavor to protect your data against unauthorised use.
+
+## Right to access your personal information
+
+The Data Protection Act 1998 gives you the right to access information held about you. You can obtain access to your personal information held by us by putting your request in writing and sending a cheque for £10 (to cover administration costs for collating this information), made payable to Clothingsites.co.uk Ltd, Unit 18, Adlington Industrial Estate, Macclesfield, Cheshire, SK10 4NL. If you have any questions about Clothingsites.co.uk Ltd's Data Protection Policy please write to our Data Protection Officer or e-mail us at dataprivacy@clothingsites.co.uk
 
 ## Cookies
 
@@ -71,11 +75,8 @@ Third Party | We work with third party companies for marketing and advertising p
 **Google AdWords**  
 AdWords uses cookies to anonymously identify traffic and conversions from paid search advertisements, recording data like the amount of items purchased, the value of those items and the time of day the purchase was made. This cookie is placed on a user’s browser via a redirect to the destination landing page. We can then use this information to improve our display ads.
 
-**Affiliate Window**  
-Affiliate Window use cookies to anonymously record that a user has clicked on an Affiliate Window link that referred the user to our site. This information is collected in order to enable us to pay a commission to Affiliate Window and its affiliates for any sales they may drive on our site. Affiliate Window cookies remain active for a period of 30 days.
-
-**Affiliate Future**  
-Affiliate Future use cookies to anonymously record that a user has clicked on an Affiliate Future link that referred the user to our site. This information is collected in order to enable us to pay a commission to Affiliate Future and its affiliates for any sales they may drive on our site. Affiliate Future cookies remain active for a period of 30 days.
+**Webgains**  
+Webgains use cookies to anonymously record that a user has clicked on an Webgains link that referred the user to our site. This information is collected in order to enable us to pay a commission to Webgains and its affiliates for any sales they may drive on our site. Webgains cookies remain active for a period of 30 days.
 
 **VE Interactive**  
 VE Interactive cookies collect information about customers who used the basket and checkout process but then did not complete their purchase. This allows us to email those customers and make sure that there was not a technical problem or other issue which prevented them from completing their purchase.
@@ -84,7 +85,13 @@ VE Interactive cookies collect information about customers who used the basket a
 PredictiveIntent dynamically personalise and suggest products which may be of interest based on the products that have been previously viewed or interacted with by you and other visitors/customers. Cookies are used by PredictiveIntent for the purpose of monitoring and analysing your preferences – this allows us to then provide you with tailored information.
 
 **AddThis**  
-AddThis use cookies to record when you have interacted with their widget. When you share a product using the social media sharing button on our site, the social network that has created the button will record that you have done this.  
+AddThis use cookies to record when you have interacted with their widget. When you share a product using the social media sharing button on our site, the social network that has created the button will record that you have done this.
+
+**Struq**  
+Struq places anonymous cookies which collect details of pages and products you viewed. This information is then used to better direct advertisements shown to you on 3rd party websites to make sure that those adverts include products that are of interest to you.
+
+**Yieldify**  
+Yieldify's unique technology monitors user behaviour patterns and detects when you about to leave our site. Once detected, a personalised overlay message invites you to leave your contact information. Yieldify uses cookies to anonymously identify you and record the frequency of visits to our site.   
   
 If you want to manage your cookies then you can do this via your browser or alternatively please visit [**www.aboutcookies.org**](http://www.aboutcookies.org/) for up to date information about cookie management. All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, see the 'Help' option in your browser for more details.
 
