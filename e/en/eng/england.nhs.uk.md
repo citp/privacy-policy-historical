@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the england.nhs.uk privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606205701id_/http%3A//www.england.nhs.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the england.nhs.uk privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206122647id_/http%3A//www.england.nhs.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Cookies | NHS England
+# NHS England » Privacy and Cookies
 
 This page explains our privacy policy and how we will use and protect any information about you that you give us when you visit this website.
 
-This privacy statement only covers NHS Commissioning Board websites. It does not cover all sites that can be linked to from this site, so you should always be aware when you are moving to another site and read the privacy statement on that site.
+This privacy statement only covers the NHS England website. It does not cover all sites that can be linked to from this site, so you should always be aware when you are moving to another site and read the privacy statement on that site.
 
 **What information do we collect?**
 
 From time to time, you will be asked to submit personal information about yourself (e.g.name and email address) in order to receive or use services on our website. Such services include bulletins, email updates, website feedback.
 
-By entering your details in the fields requested, you enable the NHS Commissioning Board and its service providers to provide you with the services you select. Any information you provide to the NHS Commissioning Board will only be used by us, our agents and service providers and will not be disclosed unless we are obliged or permitted to by law to do so.
+By entering your details in the fields requested, you enable NHS England and its service providers to provide you with the services you select. Any information you provide to NHS England will only be used by us, our agents and service providers and will not be disclosed unless we are obliged or permitted to by law to do so.
 
 If you post or send offensive, inappropriate or objectionable content anywhere on www.england.nhs.uk or otherwise engage in any disruptive behaviour on www.england.nhs.uk, we may use whatever information is available to us, about you, to stop such behaviour. We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met or when you no longer wish to continue your subscription.
 
