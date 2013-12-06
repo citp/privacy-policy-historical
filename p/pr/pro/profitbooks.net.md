@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitbooks.net privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613195804id_/https%3A//www.profitbooks.net/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitbooks.net privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206030336id_/http%3A//www.profitbooks.net/home/privacy_policy) for the most accurate reproduction.*
 
 # ProfitBooks.net - Online Accounting & Payroll Management Software for small business
 
