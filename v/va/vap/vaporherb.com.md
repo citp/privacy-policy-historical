@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaporherb.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628130433id_/http%3A//vaporherb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaporherb.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206232139id_/http%3A//www.vaporherb.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Volcano Vaporizer Medical Marijuana Cannabis Hookah Digital Scales Phantom Vaporizer Vaperizer Cancer Migraine Tumor Alzheimer
 
