@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfc.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622132740id_/http%3A//www.kfc.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfc.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207001652id_/http%3A//www.kfc.com/about/privacy.asp) for the most accurate reproduction.*
 
 # KFC.com Privacy information | KFC.com
 
