@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613213626id_/http%3A//ryanseacrest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206113622id_/http%3A//www.ryanseacrest.com/privacy-policy) for the most accurate reproduction.*
 
-# Ryan Seacrest - Privacy Policy -
+# Ryan Seacrest - Privacy Policy - Ryan Seacrest -
 
 This Privacy Policy was last updated on October 13, 2008
 
