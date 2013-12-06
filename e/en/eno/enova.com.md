@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the enova.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606155957id_/http%3A//www.enova.com/additional-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enova.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206144606id_/http%3A//www.enova.com/additional-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Enova | Trusted online financial services for hardworking people worldwide
 
 This policy replaces any privacy policy previously delivered to you or appearing on our website, any transaction agreement, application, loan document or any other document previously delivered to you. If there are conflicts between this Policy and any other policy we have delivered to you, the terms of this Policy shall control until revised.
 
-Enova International, Inc. (“Enova”) is serious about protecting your privacy. This notice is provided to you on behalf of Enova, its parent company, Cash America International, Inc., their respective family of companies, and all of their respective subsidiaries and affiliates, (hereafter collectively referred to as the “Enova Related Companies,” “we,” “our,” or “us”). The Enova Related Companies include, but are not limited to: Cash America Net Holdings, LLC, Cash America International, Inc., and all of their respective subsidiaries and affiliates, including those that operate under the trade names CashNetUSA, Cash America Net, Cash America, Cash America Pawn, Cashland, SuperPawn, Cash America Payday Advance, Primary Pay Card (or variations thereof), or company-owned Mr. Payroll locations. “You” or “Your” means you as a participant in or as a user of the products and/or services offered by an Enova Related Company.
+Enova International, Inc. (“Enova”) is serious about protecting your privacy. This notice is provided to you on behalf of Enova, its parent company, Cash America International, Inc., their respective family of companies, and all of their respective subsidiaries and affiliates, (hereafter collectively referred to as the “Enova Related Companies,” “we,” “our,” or “us”). The Enova Related Companies include, but are not limited to: Cash America Net Holdings, LLC, Cash America International, Inc., and all of their respective subsidiaries and affiliates, including those that operate under the trade names CashNetUSA, Cash America Net, Cash America, Cash America Pawn, Cashland, SuperPawn, Cash America Payday Advance, or any company-owned Mr. Payroll locations. “You” or “Your” means you as a participant in or as a user of the products and/or services offered by an Enova Related Company.
 
 All information transmitted, printed or otherwise submitted to us shall be deemed to be our property and we shall be free to use such information for any lawful purpose described herein, and for other purposes as required or permitted by law.
 
@@ -75,7 +75,7 @@ The Enova Provider is delivering this notice to you on behalf of itself and all 
 
 To limit the Enova Provider’s sharing of Your Information with Affiliated Companies and Non- Affiliated Third Parties, as described above, contact us:
 
-  * On the web: [www.enova.com](https://web.archive.org/web/20130606155957id_/http%3A//www.enova.com/additional-info/www.enova.com), or
+  * On the web: [www.enova.com](https://web.archive.org/web/20131206144606id_/http://www.enova.com/additional-info/privacy-policy/www.enova.com), or
   * By email: [optout@enova.com](mailto:optout@enova.com).
 
 
