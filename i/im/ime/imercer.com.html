@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the imercer.com privacy policy that was archived on 2013-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517200202id_/http%3A//www.imercer.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imercer.com privacy policy that was archived on 2013-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206124849id_/http%3A//www.imercer.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <title>
@@ -8,7 +8,7 @@
     <meta name="keywords" content="">
     <!-- Added a meta tag for WebTrends CQ Id: wmm200107444 -->
     <meta name="DCS.dcsaut" content="">
-	
+	<meta name="WT.siteid" content="100"><meta name="WT.langid" content="6">
     
     
     
@@ -26,6 +26,7 @@
     <link rel="Stylesheet" href="/StyleSheets/General.css" type="text/css">
     <link rel="Stylesheet" href="/StyleSheets/MSDropDown/dd.css" type="text/css">
     <link rel="Stylesheet" href="/App_Themes/Default/Default.css" type="text/css">
+    <link id="CustomCSSLink" rel="Stylesheet" type="text/css" href="/StyleSheets/Localization/Custom_en.css">
     <script type="text/javascript" async="" src="//analytics.egain.com/onetag/EG87656692"></script><script src="/jquery.js" type="text/javascript"></script>
     <!--
       <script src='/jquery.corner.js' type="text/javascript" ></script>
@@ -163,30 +164,117 @@
             curvyCorners(settingsBL, '.curveBottomLeft');
 
             //Release 4.5 Ticket Id wmm200103282 imercer.com only supported in newer browsers of IE7 and up and Firefox.
-            showIncompatibleBrowserMsg();
+           
         })
 
         /*************************************************************
         Release 4.5 Ticket Id wmm200103282 imercer.com only supported in newer browsers of IE7 and up and Firefox.
         Function Desc: Checks a hidden flag and shows lower browser version message.
+
+        iMercer.com is no longer optimized for your current browser. For optimal results when using this site, we recommend using the following browsers and above:
+        IE 8.0, Firefox 18.x or Google Chrome 26.x.
+
         **************************************************************/
         function showIncompatibleBrowserMsg() {
             //Initially hiding the message
             $('.messageBody').hide();
 
-            //Getting the hidden flag.
-            var showMessageHdnField = $('#hdnShowIncompatipleBrowserMsg')
+            var showMessageHdnField = $('#hdnShowIncompatipleBrowserMsg');
             if (showMessageHdnField != null) {
                 //Getting the value of the flag.
                 var showMessageFlag = showMessageHdnField.val();
+
                 if (showMessageFlag != null) {
                     if (showMessageFlag.toLowerCase() == 'true') {
-                        //Show the warning message.
-                        $('.messageBody').prependTo($('.tempMessage')).slideDown(500);
+                       return;
                     }
                 }
             }
+
+
+            var nVer = navigator.appVersion;
+            var nAgt = navigator.userAgent;
+            var browserName = navigator.appName;
+            var fullVersion = '' + parseFloat(navigator.appVersion);
+            var majorVersion = parseInt(navigator.appVersion, 10);
+            var nameOffset, verOffset, ix;
+            var validBrowser = false;
+
+            // In Opera, the true version is after "Opera" or after "Version"
+            if ((verOffset = nAgt.indexOf("Opera")) != -1) {
+                browserName = "Opera";
+                fullVersion = nAgt.substring(verOffset + 6);
+                if ((verOffset = nAgt.indexOf("Version")) != -1)
+                    fullVersion = nAgt.substring(verOffset + 8);
+            }
+            // In MSIE, the true version is after "MSIE" in userAgent
+            else if ((verOffset = nAgt.indexOf("MSIE")) != -1) {
+                browserName = "Microsoft Internet Explorer";
+                fullVersion = nAgt.substring(verOffset + 5);
+            }
+            // In Chrome, the true version is after "Chrome" 
+            else if ((verOffset = nAgt.indexOf("Chrome")) != -1) {
+                browserName = "Chrome";
+                fullVersion = nAgt.substring(verOffset + 7);
+            }
+            // In Safari, the true version is after "Safari" or after "Version" 
+            else if ((verOffset = nAgt.indexOf("Safari")) != -1) {
+                browserName = "Safari";
+                fullVersion = nAgt.substring(verOffset + 7);
+                if ((verOffset = nAgt.indexOf("Version")) != -1)
+                    fullVersion = nAgt.substring(verOffset + 8);
+            }
+            // In Firefox, the true version is after "Firefox" 
+            else if ((verOffset = nAgt.indexOf("Firefox")) != -1) {
+                browserName = "Firefox";
+                fullVersion = nAgt.substring(verOffset + 8);
+            }
+            // In most other browsers, "name/version" is at the end of userAgent 
+            else if ((nameOffset = nAgt.lastIndexOf(' ') + 1) <
+          (verOffset = nAgt.lastIndexOf('/'))) {
+                browserName = nAgt.substring(nameOffset, verOffset);
+                fullVersion = nAgt.substring(verOffset + 1);
+                if (browserName.toLowerCase() == browserName.toUpperCase()) {
+                    browserName = navigator.appName;
+                }
+            }
+            // trim the fullVersion string at semicolon/space if present
+            if ((ix = fullVersion.indexOf(";")) != -1)
+                fullVersion = fullVersion.substring(0, ix);
+            if ((ix = fullVersion.indexOf(" ")) != -1)
+                fullVersion = fullVersion.substring(0, ix);
+
+            majorVersion = parseInt('' + fullVersion, 10);
+            if (isNaN(majorVersion)) {
+                fullVersion = '' + parseFloat(navigator.appVersion);
+                majorVersion = parseInt(navigator.appVersion, 10);
+            }
+
+            //alert(browserName);
+            //alert(majorVersion);
+
+            validBrowser = 'false';
+            if ((browserName == "Firefox") && (majorVersion >= 18)) {
+                validBrowser = 'true';
+            }
+            else if ((browserName == "Microsoft Internet Explorer") && (majorVersion >= 8)) {
+               validBrowser = 'true';
+            }
+            else if ((browserName == "Chrome") && (majorVersion >= 26)) {
+               validBrowser = 'true';
+            }
+           
+            if (validBrowser == 'false') {
+           
+                $('.messageBody').prependTo($('.tempMessage')).slideDown(500);
+                $('.messageBody').show();             
+                
+            }
+            
+
+            
         }
+
 
     </script>
     <script src="/common.js" type="text/javascript"></script>
@@ -196,20 +284,21 @@
         //-->
     </script>
 </head>
-<body style="margin: 0px; padding: 0px">
+<body style="margin: 0px; padding: 0px" onload="showIncompatibleBrowserMsg()">
     <form name="Form1" method="post" action="default.aspx?page=privacy" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM4MjY5NDU1NQ9kFgICCg9kFgYCAg9kFgICAQ9kFgQCAQ8PFgIeBFRleHQFxQFpTWVyY2VyLmNvbSBpcyBubyBsb25nZXIgb3B0aW1pemVkIGZvciB5b3VyIGN1cnJlbnQgYnJvd3Nlci4gIEZvciBvcHRpbWFsIHJlc3VsdHMgd2hlbiB1c2luZyB0aGlzIHNpdGUsIHdlIHJlY29tbWVuZCB1c2luZyB0aGUgZm9sbG93aW5nIGJyb3dzZXJzIGFuZCBhYm92ZTo8YnIgLz4gSUUgOC4wLCBGaXJlZm94IDMuNSBvciBTYWZhcmkgNC54LmRkAgMPD2QWAh4Hb25DbGljawUNaGlkZU1lc3NhZ2UoKWQCBA9kFgJmD2QWAgIBD2QWEGYPDxYCHgtOYXZpZ2F0ZVVybAUTfi9VUy90YWJzL2hvbWUuYXNweGRkAgIPDxYCHwAFFldlbGNvbWUgdG8gaW1lcmNlci5jb21kZAIDD2QWBAIDDw8WAh8ABQZMb2dvdXRkZAIFDw8WAh4HVmlzaWJsZWhkZAIEDw8WAh4ISW1hZ2VVcmwFK34vSW1hZ2VzL0J1dHRvbkltYWdlcy9CdG5fTG9naW5SZWdpc3Rlci5naWZkZAIFDxAPFgYeDURhdGFUZXh0RmllbGQFBE5hbWUeDkRhdGFWYWx1ZUZpZWxkBQhSZWdpb25JZB4LXyFEYXRhQm91bmRnFgIeCG9uY2hhbmdlBRNkZGxSZWdpb25zX0NoYW5nZSgpEBUJD0NoYW5nZSBMb2NhdGlvbgRBc2lhDEF1c3RyYWxpYS9OWgZDYW5hZGEFQ2hpbmEGRXVyb3BlDUxhdGluIEFtZXJpY2ESTWlkZGxlIEVhc3QvQWZyaWNhDVVuaXRlZCBTdGF0ZXMVCQEwATEBMgMxMDIDMTAzATMBNAE2AzEwMBQrAwlnZ2dnZ2dnZ2cWAQIIZAIGDxAPFggfBQUMTGFuZ3VhZ2VOYW1lHwYFCkxhbmd1YWdlSWQfB2cfA2gWAh8IBRVkZGxMYW5ndWFnZXNfQ2hhbmdlKCkQFQIPQ2hhbmdlIExhbmd1YWdlB0VuZ2xpc2gVAgEwATYUKwMCZ2cWAQIBZAIHDw8WAh8ABQ1Vbml0ZWQgU3RhdGVzZGQCCA9kFgYCAQ8PFgIfAgUTfi9VUy90YWJzL2hvbWUuYXNweGRkAgUPFgIeC18hSXRlbUNvdW50AgcWDmYPFgIfA2gWBAIBD2QWAmYPFQEBMWQCAw8PFgQfAgUTfi9VUy90YWJzL2hvbWUuYXNweB8DaGQWAmYPFQEESG9tZWQCAQ9kFgYCAQ9kFgJmDxUBATJkAgMPDxYCHwIFF34vVVMvdGFicy9wcm9kdWN0cy5hc3B4ZBYCZg8VASVDb21wZW5zYXRpb24mbmJzcDsvJm5ic3A7UmVtdW5lcmF0aW9uZAIFDw9kFgIeBXN0eWxlBQx3aWR0aDozODBweDtkAgIPZBYGAgEPZBYCZg8VAQE1ZAIDDw8WAh8CBRd+L1VTL3RhYnMvYmVuZWZpdHMuYXNweGQWAmYPFQEIQmVuZWZpdHNkAgUPD2QWAh8KBQx3aWR0aDozODBweDtkAgMPZBYGAgEPZBYCZg8VAQE2ZAIDDw8WAh8CBRF+L1VTL3RhYnMvZ20uYXNweGQWAmYPFQEUR2xvYmFsJm5ic3A7TW9iaWxpdHlkAgUPD2QWAh8KBQx3aWR0aDozODBweDtkAgQPZBYGAgEPZBYCZg8VAQE3ZAIDDw8WAh8CBRd+L1VTL3RhYnMvc29mdHdhcmUuYXNweGQWAmYPFQEIU29mdHdhcmVkAgUPDxYEHghDc3NDbGFzcwUTZHJvcGRvd25jb2x1bW5yaWdodB4EXyFTQgICFgIfCgUMd2lkdGg6MzgwcHg7ZAIFD2QWBgIBD2QWAmYPFQEBNGQCAw8PFgIfAgUVfi9VUy90YWJzL2V2ZW50cy5hc3B4ZBYCZg8VARFFVkVOVFMgJiBUUkFJTklOR2QCBQ8PFgQfCwUTZHJvcGRvd25jb2x1bW5yaWdodB8MAgIWAh8KBQx3aWR0aDoxNzVweDtkAgYPZBYIAgEPZBYCZg8VAQEzZAIDDw8WAh8CBRd+L1VTL3RhYnMvc2VydmljZXMuYXNweGQWAmYPFQEIU2VydmljZXNkAgUPDxYEHwsFE2Ryb3Bkb3duY29sdW1ucmlnaHQfDAICFgIfCgUMd2lkdGg6MTc1cHg7ZAIHDw8WAh8DaGRkAgkPDxYCHwQFJH4vSW1hZ2VzL0J1dHRvbkltYWdlcy9CdG5fU2VhcmNoLmdpZmRkAgYPZBYCAgEPZBYGZg8WBB4Hb25jbGljawUud2luZG93LmxvY2F0aW9uPScvZGVmYXVsdC5hc3B4P3BhZ2U9bXlhY2NvdW50Jx8KBVJiYWNrZ3JvdW5kLWltYWdlOnVybCgnL0ltYWdlcy9uZXdfbWVudV9iYWNrZ3JvdW5kLmpwZycpO2JhY2tncm91bmQtcmVwZWF0OnJlcGVhdDsnFgICAw8PFgIfAAUKTXkgQWNjb3VudGRkAgIPFgIeBWNsYXNzBQ9teUFjY291bnROYXZSZWcWAmYPZBYCZg9kFgoCAQ8PFgIfAAUJTXkgTGlua3M6ZGQCAw8PFgIfAgUWaHR0cDovL3dpbi5tZXJjZXIuY29tL2RkAgUPDxYCHwIFHX4vZGVmYXVsdC5hc3B4P3BhZ2U9cmVnbWVtYmVyZBYCAgEPDxYCHwAFDVJlZ2lzdGVyIE5vdyFkZAIHDw8WAh8ABT1SZWdpc3RyYXRpb24gaXMgZnJlZSBhbmQgcHJvdmlkZXMgeW91IHRoZSBmb2xsb3dpbmcgYmVuZWZpdHM6ZGQCCQ8PFgIfAAWnAjx1bCAgdHlwZT0ic3F1YXJlIj48bGk+PHNwYW4gY2xhc3M9ImJsYWNrVGV4dCI+U2VsZWN0IHlvdXIgcmVnaW9uYWwgaG9tZXBhZ2Ugd2l0aCBwcm9kdWN0cyBhbmQgZXZlbnRzIHRoYXQgaW50ZXJlc3QgeW91IG1vc3QuPC9zcGFuPjwvbGk+PGxpPjxzcGFuIGNsYXNzPSJibGFja1RleHQiPkdldCBhY2Nlc3MgdG8gZnJlZSBwcmVtaXVtIGNvbnRlbnQuPC9zcGFuPjwvbGk+PGxpPjxzcGFuIGNsYXNzPSJibGFja1RleHQiPlNlbGVjdCBhbmQgbWFuYWdlIGVtYWlsIHN1YnNjcmlwdGlvbnMuPC9zcGFuPjwvbGk+PC91bD5kZAIED2QWAmYPFgIfA2gWBAIBDxYCHw0FoAF0b2dnbGVWaXMoJ215QWNjb3VudE5hdl95b3VyQWNjb3VudF9Zb3VyQWNjb3VudE5hdkJvZHknLCdZb3VyQWNjb3VudE5hdkhlYWRlclJpZ2h0JywgJy9pbWFnZXMvV2hpdGVBcnJvd1VwX1JpZ2h0TmF2LmdpZicsICcvaW1hZ2VzL1doaXRlQXJyb3dEb3duX1JpZ2h0TmF2LmdpZicpZAIDD2QWAgIBDw8WAh8EBRV+L2ltYWdlcy9jaGVja291dC5wbmdkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUaSGVhZGVyMSR1eExvZ2luSW1hZ2VCdXR0b24FEEhlYWRlcjEkaWJTZWFyY2ihPXqGwZyR/vc+j2thtrAEHgHY7Q==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0NTE4MzUyNTcPZBYCAgsPZBYGAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BcgBaU1lcmNlci5jb20gaXMgbm8gbG9uZ2VyIG9wdGltaXplZCBmb3IgeW91ciBjdXJyZW50IGJyb3dzZXIuIEZvciBvcHRpbWFsIHJlc3VsdHMgd2hlbiB1c2luZyB0aGlzIHNpdGUsIHdlIHJlY29tbWVuZCB1c2luZyB0aGUgZm9sbG93aW5nIGJyb3dzZXJzIGFuZCBhYm92ZToNCklFIDguMCwgRmlyZWZveCAxOC54IG9yIEdvb2dsZSBDaHJvbWUgMjYueC5kZAIDDw9kFgIeB29uQ2xpY2sFDWhpZGVNZXNzYWdlKClkAgUPZBYCZg9kFgICAQ9kFg5mDw8WAh4LTmF2aWdhdGVVcmwFE34vVVMvdGFicy9ob21lLmFzcHhkZAICDw8WAh8ABRZXZWxjb21lIHRvIGltZXJjZXIuY29tZGQCAw9kFgQCAw8PFgIfAAUGTG9nb3V0ZGQCBQ8PFgIeB1Zpc2libGVoZGQCBQ8QDxYGHg1EYXRhVGV4dEZpZWxkBQROYW1lHg5EYXRhVmFsdWVGaWVsZAUIUmVnaW9uSWQeC18hRGF0YUJvdW5kZxYCHghvbmNoYW5nZQUTZGRsUmVnaW9uc19DaGFuZ2UoKRAVCQ9DaGFuZ2UgTG9jYXRpb24EQXNpYQxBdXN0cmFsaWEvTloGQ2FuYWRhBUNoaW5hBkV1cm9wZQ1MYXRpbiBBbWVyaWNhEk1pZGRsZSBFYXN0L0FmcmljYQ1Vbml0ZWQgU3RhdGVzFQkBMAExATIDMTAyAzEwMwEzATQBNgMxMDAUKwMJZ2dnZ2dnZ2dnFgECCGQCBg8QDxYIHwQFDExhbmd1YWdlTmFtZR8FBQpMYW5ndWFnZUlkHwZnHwNoFgIfBwUVZGRsTGFuZ3VhZ2VzX0NoYW5nZSgpEBUCD0NoYW5nZSBMYW5ndWFnZQdFbmdsaXNoFQIBMAE2FCsDAmdnFgECAWQCBw8PFgIfAAUNVW5pdGVkIFN0YXRlc2RkAggPZBYEAgEPDxYCHwIFE34vVVMvdGFicy9ob21lLmFzcHhkZAIFDxYCHgtfIUl0ZW1Db3VudAIHFg5mDxYCHwNoFgQCAQ9kFgJmDxUBATFkAgMPDxYEHwIFE34vVVMvdGFicy9ob21lLmFzcHgfA2hkFgJmDxUBBEhvbWVkAgEPZBYGAgEPZBYCZg8VAQEyZAIDDw8WAh8CBRd+L1VTL3RhYnMvcHJvZHVjdHMuYXNweGQWAmYPFQEHUmV3YXJkc2QCBQ8PZBYCHgVzdHlsZQUMd2lkdGg6NzIwcHg7ZAICD2QWBgIBD2QWAmYPFQEBNmQCAw8PFgIfAgURfi9VUy90YWJzL2dtLmFzcHhkFgJmDxUBFEdsb2JhbCZuYnNwO01vYmlsaXR5ZAIFDw9kFgIfCQUMd2lkdGg6NzIwcHg7ZAIDD2QWBgIBD2QWAmYPFQEBNWQCAw8PFgIfAgUXfi9VUy90YWJzL2JlbmVmaXRzLmFzcHhkFgJmDxUBGFdvcmtmb3JjZSZuYnNwO1NvbHV0aW9uc2QCBQ8PZBYCHwkFDHdpZHRoOjcyMHB4O2QCBA9kFgYCAQ9kFgJmDxUBATdkAgMPDxYCHwIFF34vVVMvdGFicy9zb2Z0d2FyZS5hc3B4ZBYCZg8VARRUZWNobm9sb2d5IFNvbHV0aW9uc2QCBQ8PFgQeCENzc0NsYXNzBRNkcm9wZG93bmNvbHVtbnJpZ2h0HgRfIVNCAgIWAh8JBQx3aWR0aDo0NzBweDtkAgUPZBYGAgEPZBYCZg8VAQE0ZAIDDw8WAh8CBRV+L1VTL3RhYnMvZXZlbnRzLmFzcHhkFgJmDxUBD0V2ZW50cy9UcmFpbmluZ2QCBQ8PFgQfCgUTZHJvcGRvd25jb2x1bW5yaWdodB8LAgIWAh8JBQx3aWR0aDoyMjBweDtkAgYPZBYIAgEPZBYCZg8VAQEzZAIDDw8WAh8CBRd+L1VTL3RhYnMvc2VydmljZXMuYXNweGQWAmYPFQEIU2VydmljZXNkAgUPDxYEHwoFE2Ryb3Bkb3duY29sdW1ucmlnaHQfCwICFgIfCQUMd2lkdGg6MjIwcHg7ZAIHDw8WAh8DaGRkAgcPZBYCAgEPZBYGZg8WBB4Hb25jbGljawUud2luZG93LmxvY2F0aW9uPScvZGVmYXVsdC5hc3B4P3BhZ2U9bXlhY2NvdW50Jx8JBVJiYWNrZ3JvdW5kLWltYWdlOnVybCgnL0ltYWdlcy9uZXdfbWVudV9iYWNrZ3JvdW5kLmpwZycpO2JhY2tncm91bmQtcmVwZWF0OnJlcGVhdDsnFgICAw8PFgIfAAUKTXkgQWNjb3VudGRkAgIPFgIeBWNsYXNzBQ9teUFjY291bnROYXZSZWcWAmYPZBYCZg9kFgoCAQ8PFgIfAAUJTXkgTGlua3M6ZGQCAw8PFgIfAgUWaHR0cDovL3dpbi5tZXJjZXIuY29tL2RkAgUPDxYCHwIFHX4vZGVmYXVsdC5hc3B4P3BhZ2U9cmVnbWVtYmVyZBYCAgEPDxYCHwAFDVJlZ2lzdGVyIE5vdyFkZAIHDw8WAh8ABT1SZWdpc3RyYXRpb24gaXMgZnJlZSBhbmQgcHJvdmlkZXMgeW91IHRoZSBmb2xsb3dpbmcgYmVuZWZpdHM6ZGQCCQ8PFgIfAAWnAjx1bCAgdHlwZT0ic3F1YXJlIj48bGk+PHNwYW4gY2xhc3M9ImJsYWNrVGV4dCI+U2VsZWN0IHlvdXIgcmVnaW9uYWwgaG9tZXBhZ2Ugd2l0aCBwcm9kdWN0cyBhbmQgZXZlbnRzIHRoYXQgaW50ZXJlc3QgeW91IG1vc3QuPC9zcGFuPjwvbGk+PGxpPjxzcGFuIGNsYXNzPSJibGFja1RleHQiPkdldCBhY2Nlc3MgdG8gZnJlZSBwcmVtaXVtIGNvbnRlbnQuPC9zcGFuPjwvbGk+PGxpPjxzcGFuIGNsYXNzPSJibGFja1RleHQiPlNlbGVjdCBhbmQgbWFuYWdlIGVtYWlsIHN1YnNjcmlwdGlvbnMuPC9zcGFuPjwvbGk+PC91bD5kZAIED2QWAmYPFgIfA2gWAgIBDxYCHwwFoAF0b2dnbGVWaXMoJ215QWNjb3VudE5hdl95b3VyQWNjb3VudF9Zb3VyQWNjb3VudE5hdkJvZHknLCdZb3VyQWNjb3VudE5hdkhlYWRlclJpZ2h0JywgJy9pbWFnZXMvV2hpdGVBcnJvd1VwX1JpZ2h0TmF2LmdpZicsICcvaW1hZ2VzL1doaXRlQXJyb3dEb3duX1JpZ2h0TmF2LmdpZicpZGT9LuHFMaoBENpMUKEUpJ4K8GjJ1w==">
 
 
 <script src="/ScriptResource.axd?d=FNoK7UKNkjV1rvUDKQ_CKjDoz10N4FAYphPlX3FBARCl80VaMAzIbWR-y7-E7DlPV5StvPxLprSKqQa0J0zsP0lILDoGjfJgfAHbJNlf2egq4-kVkIvVLesf5_1aGA310pDBn0Opn24YQDDVXJGp2O5PT881&amp;t=ffffffff940d030f" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFwL9xcS7BgLsh6+EAgKk4/XAAwK+resvAqGt6y8CoK3rLwLxwoilAwLUq6e4BQKjresvAqKt6y8CpK3rLwKH7Mz7BwKQ27SXBgKGyNfPDgLNhargBQKKvqrgBQLLtqrgBQKQr6rgBQLRp6rgBQKO4KrgBQLP2KrgBQKUzargBQKaxc6ZC40C5ICL6AZZEUJgpYBEAzeezjNM">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFwLO/cG6AwLsh6+EAgKgqeGQBgKk4/XAAwK+resvAqGt6y8CoK3rLwLxwoilAwLUq6e4BQKjresvAqKt6y8CpK3rLwKH7Mz7BwKQ27SXBgLy08mFAgKz26zTDQL41azTDQK1qqzTDQLyoqzTDQK3/azTDQK8+6zTDQK5zKzTDQKaxc6ZC3yz5IYPetdqPUzXTm3bJyICjvuM">
     
     <!--Release 4.5 Ticket Id wmm200103282 imercer.com only supported in newer browsers of IE7 and up and Firefox. -->
     <!--Temp Div to show lower version browser message, Only required to not show unnecessary margin for IE -->
     <input type="hidden" name="hdnShowIncompatipleBrowserMsg" id="hdnShowIncompatipleBrowserMsg" value="True">
+    <input type="hidden" name="validBrowser" id="validBrowser">
     <div class="tempMessage">
         <!--Release 4.5 Ticket Id wmm200103282 imercer.com only supported in newer browsers of IE7 and up and Firefox. -->
-        <div style="display: none;">
+        <div style="display:none">
             
 <style type="text/css">
     .messageBody
@@ -238,12 +327,13 @@
     }
 </script>
 
-<div id="ucIncompatibleBrowserMsg_pnlMessage" class="messageBody">
+<div id="ucIncompatibleBrowserMsg_pnlMessage" class="messageBody" style="display: none;">
 	
          <table width="100%" cellpadding="0" cellspacing="0">
             <tbody><tr>
                 <td>
-                    <span id="ucIncompatibleBrowserMsg_lblMessage">iMercer.com is no longer optimized for your current browser.  For optimal results when using this site, we recommend using the following browsers and above:<br> IE 8.0, Firefox 3.5 or Safari 4.x.</span>
+                    <span id="ucIncompatibleBrowserMsg_lblMessage">iMercer.com is no longer optimized for your current browser. For optimal results when using this site, we recommend using the following browsers and above:
+IE 8.0, Firefox 18.x or Google Chrome 26.x.</span>
                 </td>
                  <td valign="top">
                     <img id="ucIncompatibleBrowserMsg_imgClose" onclick="hideMessage()" src="Images/x-button.jpg" border="0">
@@ -281,8 +371,7 @@
         }
     }
 
-    function ddlRegions_Change() 
-    {
+    function ddlRegions_Change() {
         if ($('.regionsDDL').val() == '0') {
             __doPostBack(false);
             return false;
@@ -294,7 +383,7 @@
 
     function ddlLanguages_Change() {
 
-     if ($('.languagesDDL').val() == '0') {
+        if ($('.languagesDDL').val() == '0') {
             __doPostBack(false);
             return false;
         }
@@ -312,49 +401,28 @@
 
         //Making the regions dropdown to image dropdown.
         var IsChinese = "0";
-        if (IsChinese == "0" || IsChinese == null || IsChinese == "") {
-            try {
-                $(".regionsDDL").msDropDown({ showIcon: false, mainCSS: 'iMercerRegionCustomDDL' });
-            }
-            catch (err) {
-                //Added to remove the conflict between msdropdown and Jquery min JS files.
-                jQuery.noConflict();
-                $(".regionsDDL").msDropDown({ showIcon: false, mainCSS: 'iMercerRegionCustomDDL' });
-            }
+        //if (IsChinese == "0" || IsChinese == null || IsChinese == "") {
+        try {
+            $(".regionsDDL").msDropDown({ showIcon: false, mainCSS: 'iMercerRegionCustomDDL', visibleRows: 9 });
         }
-        else {
-            try {
-                $(".regionsDDL").msDropDown({ showIcon: false, mainCSS: 'iMercerChineseRegionCustomDDL' });
-            }
-            catch (err) {
-                //Added to remove the conflict between msdropdown and Jquery min JS files.
-                jQuery.noConflict();
-                $(".regionsDDL").msDropDown({ showIcon: false, mainCSS: 'iMercerChineseRegionCustomDDL' });
-            }
+        catch (err) {
+            //Added to remove the conflict between msdropdown and Jquery min JS files.
+            jQuery.noConflict();
+            $(".regionsDDL").msDropDown({ showIcon: false, mainCSS: 'iMercerRegionCustomDDL', visibleRows: 9 });
         }
+
 
         //Making the language dropdown to image dropdown.
-        if (IsChinese == "0" || IsChinese == null || IsChinese == "") {
-            try {
-                $(".languagesDDL").msDropDown({ showIcon: false, mainCSS: 'iMercerLanguageCustomDDL' });
-            }
-            catch (err) {
-                //Added to remove the conflict between msdropdown and Jquery min JS files.
-                jQuery.noConflict();
-                $(".languagesDDL").msDropDown({ showIcon: false, mainCSS: 'iMercerLanguageCustomDDL' });
-            }
-        }
-        else{
-            try {
-                $(".languagesDDL").msDropDown({ showIcon: false, mainCSS: 'iMercerChineseLanguageCustomDDL' });
-            }
-            catch (err) {
-                //Added to remove the conflict between msdropdown and Jquery min JS files.
-                jQuery.noConflict();
-                $(".languagesDDL").msDropDown({ showIcon: false, mainCSS: 'iMercerChineseLanguageCustomDDL' });
-            }
 
+        try {
+            $(".languagesDDL").msDropDown({ showIcon: false, mainCSS: 'iMercerRegionCustomDDL iMercerLanguageCustomDDL' });
         }
+        catch (err) {
+            //Added to remove the conflict between msdropdown and Jquery min JS files.
+            jQuery.noConflict();
+            $(".languagesDDL").msDropDown({ showIcon: false, mainCSS: 'iMercerRegionCustomDDL  iMercerLanguageCustomDDL' });
+        }
+
 
         //Curved corners for search textbox.
         var settingsTextBox = {
@@ -369,12 +437,23 @@
     });
 
 </script>
+<style type="text/css">
+    .iMercerRegionCustomDDL .ddTitle
+    {
+        background: transparent url(/images/ButtonImages/Btn_ChangeLocation.gif) no-repeat;
+    }
+    
+    .iMercerLanguageCustomDDL .ddTitle
+    {
+        background: transparent url(/images/ButtonImages/Btn_ChangeLanguage.gif) no-repeat;
+    }
+</style>
 <table width="100%" class="headerContainer">
     <tbody><tr>
-        <td style="width: 25%;">
+        <td style="width: 23%;">
             <a id="Header1_lnkLogo" href="US/tabs/home.aspx"><img id="Header1_imgLogo" src="Images/MercerLogo.gif" alt="[imgLogo]" border="0"></a>
         </td>
-        <td style="width: 25%;">
+        <td style="width: 20%;">
             <div class="welcomeMessageContainer">
                 <table width="100%" cellpadding="0" cellspacing="0">
                     <tbody><tr>
@@ -391,15 +470,13 @@
                 </tbody></table>
             </div>
         </td>
-        <td style="width: 50%;">
-        <div style="float: right; vertical-align: middle;">
-            <table cellpadding="3px">
+        <td style="width: 57%; text-align: right;">
+            <table style="text-align: right;" width="100%" cellpadding="0" cellspacing="0">
                 <tbody><tr>
-                    <td style="text-align: right;  padding-right: 5px;">
-                        <input type="image" name="Header1$uxLoginImageButton" id="Header1_uxLoginImageButton" src="Images/ButtonImages/Btn_LoginRegister.gif" border="0">
-                    </td>
                     <td>
-                        <select name="Header1$ddlRegions" id="Header1_ddlRegions" class="regionsDDL" onchange="ddlRegions_Change()">
+                        <a id="Header1_uxLoginImageButton" class="button_link TextCapitalLetters LocalizedAttr" href="javascript:__doPostBack('Header1$uxLoginImageButton','')">Login / Register</a>
+                        <div style="float: right; margin-left: 5px; margin-top: 1px;">
+                            <select name="Header1$ddlRegions" id="Header1_ddlRegions" class="regionsDDL" onchange="ddlRegions_Change()">
 		<option value="0">Change Location</option>
 		<option value="1">Asia</option>
 		<option value="2">Australia/NZ</option>
@@ -411,16 +488,12 @@
 		<option selected="selected" value="100">United States</option>
 
 	</select>
-                    </td>
-                    <td>
-                        
-                    </td>
-                    <td style=" vertical-align: middle;">
-                        <span id="Header1_lblRegionName" class="regionName">United States</span>
+                            
+                            <span id="Header1_lblRegionName" class="regionName" style="margin-top: 5px;">United States</span>
+                        </div>
                     </td>
                 </tr>
             </tbody></table>
-            </div>
         </td>
     </tr>
 </tbody></table>
@@ -436,239 +509,136 @@
         
                 <li class="tabItem">
                     
-                    <a id="Header1_Repeater1_ctl01_lnkTabName" class="tabHeading" href="US/tabs/products.aspx">Compensation&nbsp;/&nbsp;Remuneration</a>
-                    <div id="Header1_Repeater1_ctl01_pnlTabMenu" class="dropdowncolumn" style="width:380px;">
+                    <a id="Header1_Repeater1_ctl01_lnkTabName" class="tabHeading" href="US/tabs/products.aspx">Rewards</a>
+                    <div id="Header1_Repeater1_ctl01_pnlTabMenu" class="dropdowncolumn" style="width:720px;">
 			
                     <div id="Header1_Repeater1_ctl01_ctl00_divMenuGroups">
-    <table class="tabMenuCell" style="display: none;">
-        <tbody><tr>
-            <td id="Header1_Repeater1_ctl01_ctl00_tdLeftCell" style="border-right: 2px solid #BFBFBF; width: 50%;">
-                <div id="Header1_Repeater1_ctl01_ctl00_pnlLeftMenuPanel" class="leftMenuPanel">
+	<table class="tabMenuCell" style="display: none;">
+		<tbody><tr>
+			<td id="Header1_Repeater1_ctl01_ctl00_tdLeftCell" style="border-right: 2px solid #BFBFBF; width: 50%;">
+				<div id="Header1_Repeater1_ctl01_ctl00_pnlLeftMenuPanel" class="leftMenuPanel">
 				
-                
-			</div>
-            </td>
-			
-            <td id="Header1_Repeater1_ctl01_ctl00_tdRightCell" style="width: 50%;">
-                <div id="Header1_Repeater1_ctl01_ctl00_pnlRightMenuPanel" class="rightMenuPanel">
 				
-                
 			</div>
-            </td>
+			</td>
 			
-        </tr>
-    </tbody></table>
-    
-<table id="Header1_Repeater1_ctl01_ctl00_tblMenuContent" class="tabMenuCell" border="0">
-				<tbody><tr>
-					<td width="50%" style="border-right:2px solid #BFBFBF;"><div>
-						<div id="Header1_Repeater1_ctl01_ctl00_ctl02_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl01_ctl00_ctl02_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/general-surveys-overview.aspx">US Industry Surveys</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
+			<td id="Header1_Repeater1_ctl01_ctl00_tdRightCell" style="width: 50%; ">
+				<div id="Header1_Repeater1_ctl01_ctl00_pnlRightMenuPanel" class="rightMenuPanel">
+				
+				
+			</div>
+			</td>
+			
+		</tr>
+	</tbody></table>
+	<table id="Header1_Repeater1_ctl01_ctl00_tblMenuContent" class="tabMenuCell" border="0">
 
-						</div>
-<div id="Header1_Repeater1_ctl01_ctl00_ctl03_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl01_ctl00_ctl03_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/US/products.aspx?categoryId=1&amp;status=1">Surveys &amp; Reports</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl01_ctl00_ctl04_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl01_ctl00_ctl04_lnkMenuGroupHeader" class="tabMenuHeading" href="default.aspx?page=saw&amp;tab=2">Surveys and Products Around the World</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl01_ctl00_ctl05_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl01_ctl00_ctl05_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/mercer-pay-monitor.aspx">Mercer PayMonitor</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl01_ctl00_ctl06_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl01_ctl00_ctl06_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/win">Mercer WIN®</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl01_ctl00_ctl07_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl01_ctl00_ctl07_lnkMenuGroupHeader" class="tabMenuHeading" href="default.aspx?page=SurveySearch">Survey Search by Job</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl01_ctl00_ctl08_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl01_ctl00_ctl08_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/total-remuneration-survey.aspx">Total Remuneration Surveys</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl01_ctl00_ctl09_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl01_ctl00_ctl09_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/global-products-overview.aspx">Global Insights Publications</a>
-            
-        <div>
-            
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl01_ctl00_ctl09_repLinks_ctl00_lnkLink" href="http://www.imercer.com/content/global-products-compensation.aspx">Compensation</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl01_ctl00_ctl09_repLinks_ctl01_lnkLink" href="http://www.imercer.com/content/global-products-policies-and-practices.aspx">Policies and Practices</a>
-                        </li>
-                    </ul>
-                
-        </div>
-        </li>
-    </ul>
-
-						</div>
-
-					</div></td><td width="50%"><div>
-						<div id="Header1_Repeater1_ctl01_ctl00_ctl10_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl01_ctl00_ctl10_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/mercer-eprism.aspx?parentMenuId=345&amp;menuId=406">ePRISM</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl01_ctl00_ctl11_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl01_ctl00_ctl11_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/marketpricer.aspx">MarketPricer</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl01_ctl00_ctl12_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl01_ctl00_ctl12_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/products/2011/ipe.aspx">International Position Evaluation System</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl01_ctl00_ctl13_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl01_ctl00_ctl13_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/custom-surveys.aspx">Custom Surveys</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl01_ctl00_ctl14_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl01_ctl00_ctl14_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/products/2013/workforce-metrics-surveys-and-reports.aspx">Workforce Metrics</a>
-            
-        <div>
-            
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl01_ctl00_ctl14_repLinks_ctl00_lnkLink" href="http://www.mercer.com/merceranalytics" target="_blank">Mercer Analytics</a>
-                        </li>
-                    </ul>
-                
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl01_ctl00_ctl15_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl01_ctl00_ctl15_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/catalog">Product Catalogs</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-
-					</div></td>
-				</tr>
-			</tbody></table>
-</div>
+			</table>
+<div>
+				<table class="tabMenuCell" border="0">
+					<tbody><tr>
+						<td width="33%" style="border-left:1px solid #76A3B7;"><div>
+							<div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a href="/default.aspx?page=saw&amp;tab=2" style="color:#FFFFFF;">Compensation / Remuneration</a>
+									</div>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/general-surveys-overview.aspx">US Industry Surveys</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/US/products.aspx?categoryId=1&amp;status=1">Surveys &amp; Reports</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="default.aspx?page=saw&amp;tab=2">Surveys and Products Around the World</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="default.aspx?page=SurveySearch">Survey Search by Job</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/total-remuneration-survey.aspx">Total Remuneration Surveys</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/global-products-overview.aspx">Global Insights Publications</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/marketpricer.aspx">MarketPricer™</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="/geo">Geographic Salary Differentials</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/global-products-compensation.aspx">Global Publications </a></li></ul>
+								</div>
+							</div>
+						</div></td><td width="33%" style="border-left:1px solid #76A3B7;"><div>
+							<div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/custom-surveys.aspx">Custom Surveys</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/catalog">Product Catalogs</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a href="http://www.imercer.com/content/benefits-survey-overview.aspx" style="color:#FFFFFF;">Benefits</a>
+									</div>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/benefits-survey-overview.aspx">Benefits Overview</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/mercerbenefitsdata.aspx?menuId=64">US Benefits</a><div>
+										<ul><li><a href="http://www.imercer.com/content/US_Prevalence_Reports.aspx">Prevalence Reports</a></li></ul><ul><li><a href="http://www.imercer.com/content/Value_Based_Reports.aspx">Value-Based Reports</a></li></ul><ul><li><a href="http://www.imercer.com/products/2012/TotalRemuneration.aspx">Total Remuneration Index</a></li></ul><ul><li><a href="http://www.imercer.com/products/2012/spotlightbenefits.aspx">Spotlight on Benefits</a></li></ul>
+									</div></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/benefitsbyregion.aspx">Benefits Around the World</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/global-benefits-overview.aspx">Global Publications</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.mercer.com/home">Consulting</a></li></ul>
+								</div>
+							</div>
+						</div></td><td width="33%" style="border-left:1px solid #76A3B7;"><div>
+							<div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a href="http://www.imercer.com/socialsecurity" style="color:#FFFFFF;">Social Security &amp; Medicare</a>
+									</div>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/guide">Guide to Social Security</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/medicare">Medicare booklet</a></li></ul>
+								</div>
+							</div>
+						</div></td>
+					</tr>
+				</tbody></table>
+			</div></div>
 
 		</div>
                 </li>
@@ -678,229 +648,142 @@
             
                 <li class="tabItem">
                     
-                    <a id="Header1_Repeater1_ctl02_lnkTabName" class="tabHeading" href="US/tabs/benefits.aspx">Benefits</a>
-                    <div id="Header1_Repeater1_ctl02_pnlTabMenu" class="dropdowncolumn" style="width:380px;">
+                    <a id="Header1_Repeater1_ctl02_lnkTabName" class="tabHeading" href="US/tabs/gm.aspx">Global&nbsp;Mobility</a>
+                    <div id="Header1_Repeater1_ctl02_pnlTabMenu" class="dropdowncolumn" style="width:720px;">
 			
                     <div id="Header1_Repeater1_ctl02_ctl00_divMenuGroups">
-    <table class="tabMenuCell" style="display: none;">
-        <tbody><tr>
-            <td id="Header1_Repeater1_ctl02_ctl00_tdLeftCell" style="border-right: 2px solid #BFBFBF; width: 50%;">
-                <div id="Header1_Repeater1_ctl02_ctl00_pnlLeftMenuPanel" class="leftMenuPanel">
+	<table class="tabMenuCell" style="display: none;">
+		<tbody><tr>
+			<td id="Header1_Repeater1_ctl02_ctl00_tdLeftCell" style="border-right: 2px solid #BFBFBF; width: 50%;">
+				<div id="Header1_Repeater1_ctl02_ctl00_pnlLeftMenuPanel" class="leftMenuPanel">
 				
-                
-			</div>
-            </td>
-			
-            <td id="Header1_Repeater1_ctl02_ctl00_tdRightCell" style="width: 50%;">
-                <div id="Header1_Repeater1_ctl02_ctl00_pnlRightMenuPanel" class="rightMenuPanel">
 				
-                
 			</div>
-            </td>
+			</td>
 			
-        </tr>
-    </tbody></table>
-    
-<table id="Header1_Repeater1_ctl02_ctl00_tblMenuContent" class="tabMenuCell" border="0">
-				<tbody><tr>
-					<td width="50%" style="border-right:2px solid #BFBFBF;"><div>
-						<div id="Header1_Repeater1_ctl02_ctl00_ctl02_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl02_ctl00_ctl02_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/benefits-survey-overview.aspx">Benefits Overview</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
+			<td id="Header1_Repeater1_ctl02_ctl00_tdRightCell" style="width: 50%; ">
+				<div id="Header1_Repeater1_ctl02_ctl00_pnlRightMenuPanel" class="rightMenuPanel">
+				
+				
+			</div>
+			</td>
+			
+		</tr>
+	</tbody></table>
+	<table id="Header1_Repeater1_ctl02_ctl00_tblMenuContent" class="tabMenuCell" border="0">
 
-						</div>
-<div id="Header1_Repeater1_ctl02_ctl00_ctl03_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl02_ctl00_ctl03_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/mercerbenefitsdata.aspx?menuId=64">US Benefits</a>
-            
-        <div>
-            
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl02_ctl00_ctl03_repLinks_ctl00_lnkLink" href="http://www.imercer.com/content/US_Prevalence_Reports.aspx">Prevalence Reports </a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl02_ctl00_ctl03_repLinks_ctl01_lnkLink" href="http://www.imercer.com/content/Value_Based_Reports.aspx">Value-Based Reports </a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl02_ctl00_ctl03_repLinks_ctl02_lnkLink" href="http://www.imercer.com/products/2012/TotalRemuneration.aspx">Total Remuneration Index</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl02_ctl00_ctl03_repLinks_ctl03_lnkLink" href="http://www.imercer.com/products/2012/spotlightbenefits.aspx">Spotlight on Benefits</a>
-                        </li>
-                    </ul>
-                
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl02_ctl00_ctl04_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl02_ctl00_ctl04_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/benefitsmonitor.aspx">Mercer BenefitsMonitor</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl02_ctl00_ctl05_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl02_ctl00_ctl05_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/benefitsbyregion.aspx">Benefits Around the World</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl02_ctl00_ctl06_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl02_ctl00_ctl06_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.mercer.com/home" target="_blank">Consulting</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl02_ctl00_ctl07_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl02_ctl00_ctl07_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/global-products-overview.aspx">Global Insights Publications</a>
-            
-        <div>
-            
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl02_ctl00_ctl07_repLinks_ctl00_lnkLink" href="http://www.imercer.com/carpolicies">International Car Policies</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl02_ctl00_ctl07_repLinks_ctl01_lnkLink" href="http://www.imercer.com/wbeg">Worldwide Benefit &amp; Employment Guidelines</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl02_ctl00_ctl07_repLinks_ctl02_lnkLink" href="http://www.imercer.com/content/global-products-policies-and-practices.aspx">Policies and Practices</a>
-                        </li>
-                    </ul>
-                
-        </div>
-        </li>
-    </ul>
-
-						</div>
-
-					</div></td><td width="50%"><div>
-						<div id="Header1_Repeater1_ctl02_ctl00_ctl08_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl02_ctl00_ctl08_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/socialsecurity"> Social Security &amp; Medicare</a>
-            
-        <div>
-            
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl02_ctl00_ctl08_repLinks_ctl00_lnkLink" href="http://www.imercer.com/guide">Guide to Social Security</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl02_ctl00_ctl08_repLinks_ctl01_lnkLink" href="http://www.imercer.com/medicare">Medicare booklet</a>
-                        </li>
-                    </ul>
-                
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl02_ctl00_ctl09_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl02_ctl00_ctl09_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/products/2013/workforce-metrics-surveys-and-reports.aspx">Workforce Metrics</a>
-            
-        <div>
-            
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl02_ctl00_ctl09_repLinks_ctl00_lnkLink" href="http://www.mercer.com/merceranalytics" target="_blank">Mercer Analytics</a>
-                        </li>
-                    </ul>
-                
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl02_ctl00_ctl10_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl02_ctl00_ctl10_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/products/2012/multi-pooling-survey.aspx">Multinational Pooling Survey</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl02_ctl00_ctl11_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl02_ctl00_ctl11_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/catalog">Product Catalogs</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-
-					</div></td>
-				</tr>
-			</tbody></table>
-</div>
+			</table>
+<div>
+				<table class="tabMenuCell" border="0">
+					<tbody><tr>
+						<td width="33%" style="border-left:1px solid #76A3B7;"><div>
+							<div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a href="/mobility" style="color:#FFFFFF;">Overview</a>
+									</div>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="https://surveys.qualtrics.com/SE/?SID=SV_6G7oxMduzd6ZHZb" target="_blank">Contact Us</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a style="color:#FFFFFF;">Key Products</a>
+									</div>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/default.aspx?page=surveydetail&amp;surveyid=2454">Cost of Living</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/hardship.aspx">Hardship</a><div>
+										<ul><li><a href="http://www.imercer.com/default.aspx?page=surveydetail&amp;surveyid=2455">Quality of Living</a></li></ul><ul><li><a href="http://www.imercer.com/default.aspx?page=surveydetail&amp;surveyid=5885">Location Evaluation Reports</a></li></ul>
+									</div></li></ul>
+								</div>
+							</div>
+						</div></td><td width="33%" style="border-left:1px solid #76A3B7;"><div>
+							<div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a href="http://www.imercer.com/content/global-mobility-product-solutions.aspx" style="color:#FFFFFF;">Mobility Solutions</a>
+									</div>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="/gmconsulting">Expatriate Consulting Services</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="/lta">Long-term Assignments</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="/short-term">Short-term Assignments</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="/localize">Localization</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/gmsoftware">Technology Solutions</a><div>
+										<ul><li><a href="http://www.imercer.com/content/cultural-training-passport.aspx">CulturalTrainingPassport™</a></li></ul><ul><li><a href="/housing">Mercer Mobilize Housing Solution™</a></li></ul><ul><li><a href="http://www.imercer.com/content/mercer-belong-global-mobility.aspx">Mercer Belong® Global Mobility</a></li></ul><ul><li><a href="http://www.imercer.com/content/mercer-passport-home.aspx">MercerPassport®</a></li></ul><ul><li><a href="http://www.imercer.com/content/mercer-global-hr-monitor.aspx">Global HRMonitor®</a></li></ul><ul><li><a href="http://www.imercer.com/content/expatriate-management.aspx">AssignmentPro™</a></li></ul>
+									</div></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/gmbenchmarking">Benchmarking Policies and Practices</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/globalrewards">Global Rewards</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/global-products-overview.aspx">Global Publications</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/wmrs">Workforce Metrics</a></li></ul>
+								</div>
+							</div>
+						</div></td><td width="33%" style="border-left:1px solid #76A3B7;"><div>
+							<div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a href="/gmevents" style="color:#FFFFFF;">Events and Training</a>
+									</div>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/expat-management-forums-conferences.aspx">Conferences</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/expat-training-seminars.aspx">Training Seminars</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/expat-comp-forums.aspx">Forums and Roundtables</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/gm-webcasts-recordings.aspx">Webcasts</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a href="/gmknowledge" style="color:#FFFFFF;">Knowledge Center</a>
+									</div>
+								</div>
+							</div>
+						</div></td>
+					</tr>
+				</tbody></table>
+			</div></div>
 
 		</div>
                 </li>
@@ -910,191 +793,90 @@
             
                 <li class="tabItem">
                     
-                    <a id="Header1_Repeater1_ctl03_lnkTabName" class="tabHeading" href="US/tabs/gm.aspx">Global&nbsp;Mobility</a>
-                    <div id="Header1_Repeater1_ctl03_pnlTabMenu" class="dropdowncolumn" style="width:380px;">
+                    <a id="Header1_Repeater1_ctl03_lnkTabName" class="tabHeading" href="US/tabs/benefits.aspx">Workforce&nbsp;Solutions</a>
+                    <div id="Header1_Repeater1_ctl03_pnlTabMenu" class="dropdowncolumn" style="width:720px;">
 			
                     <div id="Header1_Repeater1_ctl03_ctl00_divMenuGroups">
-    <table class="tabMenuCell" style="display: none;">
-        <tbody><tr>
-            <td id="Header1_Repeater1_ctl03_ctl00_tdLeftCell" style="border-right: 2px solid #BFBFBF; width: 50%;">
-                <div id="Header1_Repeater1_ctl03_ctl00_pnlLeftMenuPanel" class="leftMenuPanel">
+	<table class="tabMenuCell" style="display: none;">
+		<tbody><tr>
+			<td id="Header1_Repeater1_ctl03_ctl00_tdLeftCell" style="border-right: 2px solid #BFBFBF; width: 50%;">
+				<div id="Header1_Repeater1_ctl03_ctl00_pnlLeftMenuPanel" class="leftMenuPanel">
 				
-                
-			</div>
-            </td>
-			
-            <td id="Header1_Repeater1_ctl03_ctl00_tdRightCell" style="width: 50%;">
-                <div id="Header1_Repeater1_ctl03_ctl00_pnlRightMenuPanel" class="rightMenuPanel">
 				
-                
 			</div>
-            </td>
+			</td>
 			
-        </tr>
-    </tbody></table>
-    
-<table id="Header1_Repeater1_ctl03_ctl00_tblMenuContent" class="tabMenuCell" border="0">
-				<tbody><tr>
-					<td width="50%" style="border-right:2px solid #BFBFBF;"><div>
-						<div id="Header1_Repeater1_ctl03_ctl00_ctl02_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl03_ctl00_ctl02_lnkMenuGroupHeader" class="tabMenuHeading" href="/mobility">Global Mobility Overview</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
+			<td id="Header1_Repeater1_ctl03_ctl00_tdRightCell" style="width: 50%; ">
+				<div id="Header1_Repeater1_ctl03_ctl00_pnlRightMenuPanel" class="rightMenuPanel">
+				
+				
+			</div>
+			</td>
+			
+		</tr>
+	</tbody></table>
+	<table id="Header1_Repeater1_ctl03_ctl00_tblMenuContent" class="tabMenuCell" border="0">
 
-						</div>
-<div id="Header1_Repeater1_ctl03_ctl00_ctl03_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl03_ctl00_ctl03_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/default.aspx?page=surveydetail&amp;surveyid=2454">Cost of Living</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl03_ctl00_ctl04_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl03_ctl00_ctl04_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/default.aspx?page=surveydetail&amp;surveyid=2455">Quality of Living</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl03_ctl00_ctl05_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl03_ctl00_ctl05_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/default.aspx?page=surveydetail&amp;surveyid=5885">Location Evaluation Reports</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl03_ctl00_ctl06_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl03_ctl00_ctl06_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/global-mobility-product-solutions.aspx">Product Solutions</a>
-            
-        <div>
-            
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl03_ctl00_ctl06_repLinks_ctl00_lnkLink" href="/lta">Long-term Assignments</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl03_ctl00_ctl06_repLinks_ctl01_lnkLink" href="/short-term">Short-term Assignments</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl03_ctl00_ctl06_repLinks_ctl02_lnkLink" href="/localize">Localization</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl03_ctl00_ctl06_repLinks_ctl03_lnkLink" href="http://www.imercer.com/gmbenchmarking">Benchmarking Policies and Practices</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl03_ctl00_ctl06_repLinks_ctl04_lnkLink" href="http://www.imercer.com/globalrewards">Global Rewards</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl03_ctl00_ctl06_repLinks_ctl05_lnkLink" href="http://www.imercer.com/gmsoftware">Technology Solutions</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl03_ctl00_ctl06_repLinks_ctl06_lnkLink" href="/products/2013/workforce-metrics-surveys-and-reports.aspx">Workforce Metrics</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl03_ctl00_ctl06_repLinks_ctl07_lnkLink" href="http://www.imercer.com/content/global-products-policies-and-practices.aspx">Global Products: Policies and Practices</a>
-                        </li>
-                    </ul>
-                
-        </div>
-        </li>
-    </ul>
-
-						</div>
-
-					</div></td><td width="50%"><div>
-						<div id="Header1_Repeater1_ctl03_ctl00_ctl07_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl03_ctl00_ctl07_lnkMenuGroupHeader" class="tabMenuHeading" href="/gmconsulting">Expatriate Consulting Services</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl03_ctl00_ctl08_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl03_ctl00_ctl08_lnkMenuGroupHeader" class="tabMenuHeading" href="/gmevents">Events &amp; Training</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl03_ctl00_ctl09_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl03_ctl00_ctl09_lnkMenuGroupHeader" class="tabMenuHeading" href="/gmknowledge">Knowledge Center</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-
-					</div></td>
-				</tr>
-			</tbody></table>
-</div>
+			</table>
+<div>
+				<table class="tabMenuCell" border="0">
+					<tbody><tr>
+						<td width="33%" style="border-left:1px solid #76A3B7;"><div>
+							<div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a href="http://www.imercer.com/wmrs" style="color:#FFFFFF;">Workforce Metrics</a>
+									</div>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.mercer.com/merceranalytics" target="_blank">Mercer Analytics™</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/products/2012/workforce-metrics-surveys-and-reports.aspx">Workforce Metrics</a></li></ul>
+								</div>
+							</div>
+						</div></td><td width="33%" style="border-left:1px solid #76A3B7;"><div>
+							<div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a href="http://www.imercer.com/comtools" style="color:#FFFFFF;">Communications</a>
+									</div>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/products/2013/healthcare-toolkit.aspx">US Health Care Reform Solutions</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/products/2013/mobile-companions.aspx">Mercer Belong Mobile Companions</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/products/2013/mercer-belong-widgets.aspx">Mercer Belong Widgets for Employees</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/products/2013/video-inside-track-hsa.aspx">Educational Videos</a></li></ul>
+								</div>
+							</div>
+						</div></td><td width="33%" style="border-left:1px solid #76A3B7;"><div>
+							<div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a href="http://www.imercer.com/performance" style="color:#FFFFFF;">Performance Management</a>
+									</div>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/performance">2013 Global Survey</a></li></ul>
+								</div>
+							</div>
+						</div></td>
+					</tr>
+				</tbody></table>
+			</div></div>
 
 		</div>
                 </li>
@@ -1104,220 +886,94 @@
             
                 <li class="tabItem">
                     
-                    <a id="Header1_Repeater1_ctl04_lnkTabName" class="tabHeading" href="US/tabs/software.aspx">Software</a>
-                    <div id="Header1_Repeater1_ctl04_pnlTabMenu" class="dropdowncolumnright" style="width:380px;">
+                    <a id="Header1_Repeater1_ctl04_lnkTabName" class="tabHeading" href="US/tabs/software.aspx">Technology Solutions</a>
+                    <div id="Header1_Repeater1_ctl04_pnlTabMenu" class="dropdowncolumnright" style="width:470px;">
 			
                     <div id="Header1_Repeater1_ctl04_ctl00_divMenuGroups">
-    <table class="tabMenuCell" style="display: none;">
-        <tbody><tr>
-            <td id="Header1_Repeater1_ctl04_ctl00_tdLeftCell" style="border-right: 2px solid #BFBFBF; width: 50%;">
-                <div id="Header1_Repeater1_ctl04_ctl00_pnlLeftMenuPanel" class="leftMenuPanel">
+	<table class="tabMenuCell" style="display: none;">
+		<tbody><tr>
+			<td id="Header1_Repeater1_ctl04_ctl00_tdLeftCell" style="border-right: 2px solid #BFBFBF; width: 50%;">
+				<div id="Header1_Repeater1_ctl04_ctl00_pnlLeftMenuPanel" class="leftMenuPanel">
 				
-                
-			</div>
-            </td>
-			
-            <td id="Header1_Repeater1_ctl04_ctl00_tdRightCell" style="width: 50%;">
-                <div id="Header1_Repeater1_ctl04_ctl00_pnlRightMenuPanel" class="rightMenuPanel">
 				
-                
 			</div>
-            </td>
+			</td>
 			
-        </tr>
-    </tbody></table>
-    
-<table id="Header1_Repeater1_ctl04_ctl00_tblMenuContent" class="tabMenuCell" border="0">
-				<tbody><tr>
-					<td width="50%" style="border-right:2px solid #BFBFBF;"><div>
-						<div id="Header1_Repeater1_ctl04_ctl00_ctl02_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl04_ctl00_ctl02_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/Mercer_WIN_homepage.aspx">Mercer WIN®</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
+			<td id="Header1_Repeater1_ctl04_ctl00_tdRightCell" style="width: 50%; ">
+				<div id="Header1_Repeater1_ctl04_ctl00_pnlRightMenuPanel" class="rightMenuPanel">
+				
+				
+			</div>
+			</td>
+			
+		</tr>
+	</tbody></table>
+	<table id="Header1_Repeater1_ctl04_ctl00_tblMenuContent" class="tabMenuCell" border="0">
 
-						</div>
-<div id="Header1_Repeater1_ctl04_ctl00_ctl03_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl04_ctl00_ctl03_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/benefitsmonitor.aspx">BenefitsMonitor</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl04_ctl00_ctl04_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl04_ctl00_ctl04_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/mercer-eipe-unlimited.aspx">eIPE Unlimited</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl04_ctl00_ctl05_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl04_ctl00_ctl05_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/mercer-eprism.aspx">Mercer WIN® | ePRISM</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl04_ctl00_ctl06_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl04_ctl00_ctl06_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/geo">Geographic Salary Differentials</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl04_ctl00_ctl07_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl04_ctl00_ctl07_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/mercer-global-hr-monitor.aspx">Global HRMonitor</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl04_ctl00_ctl08_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl04_ctl00_ctl08_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.mercer.com/merceranalytics" target="_blank">Mercer Analytics</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl04_ctl00_ctl09_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl04_ctl00_ctl09_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/marketpricer.aspx">Mercer MarketPricer</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl04_ctl00_ctl10_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl04_ctl00_ctl10_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/mercer-pay-monitor.aspx">Mercer PayMonitor</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl04_ctl00_ctl11_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl04_ctl00_ctl11_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/mercer-passport-home.aspx">MercerPassport</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-
-					</div></td><td width="50%"><div>
-						<div id="Header1_Repeater1_ctl04_ctl00_ctl12_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl04_ctl00_ctl12_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/mercer-software-support.aspx">Software Support Services</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl04_ctl00_ctl13_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl04_ctl00_ctl13_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.mercer.com/humancapitalconnect" target="_blank">Human Capital Connect</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl04_ctl00_ctl14_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl04_ctl00_ctl14_lnkMenuGroupHeader" class="tabMenuHeading">Software Applications - Demos</a>
-            
-        <div>
-            
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl04_ctl00_ctl14_repLinks_ctl00_lnkLink" href="http://www.imercer.com/content/Mercer_WIN_homepage.aspx">Mercer WIN® Demo</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl04_ctl00_ctl14_repLinks_ctl01_lnkLink" href="https://imercer.webex.com/imercer/lsr.php?AT=pb&amp;SP=EC&amp;rID=67282352&amp;rKey=04124905b0a7f309" target="_blank">Mercer SIRS® PayMonitor® Demo </a>
-                        </li>
-                    </ul>
-                
-        </div>
-        </li>
-    </ul>
-
-						</div>
-
-					</div></td>
-				</tr>
-			</tbody></table>
-</div>
+			</table>
+<div>
+				<table class="tabMenuCell" border="0">
+					<tbody><tr>
+						<td width="50%" style="border-left:1px solid #76A3B7;"><div>
+							<div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a href="http://www.imercer.com/US/tabs/software.aspx" style="color:#FFFFFF;">Software Overview</a>
+									</div>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/Mercer_WIN_homepage.aspx">Mercer WIN®</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/mercer-eprism.aspx">Mercer WIN | ePRISM™</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/mercer-eipe-unlimited.aspx">eIPE™ Unlimited</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/mercer-global-hr-monitor.aspx">Global HRMonitor® </a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/mercer-pay-monitor.aspx">Mercer PayMonitor® </a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/mercer-passport-home.aspx">MercerPassport® </a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/mercer-software-support.aspx">Software Support Services</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.mercer.com/humancapitalconnect" target="_blank">Human Capital Connect® </a></li></ul>
+								</div>
+							</div>
+						</div></td><td width="50%" style="border-left:1px solid #76A3B7;"><div>
+							<div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a href="http://www.imercer.com/content/WIN-demos.aspx" style="color:#FFFFFF;">Software Applications - Demos</a>
+									</div>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/WIN-demos.aspx">Mercer WIN® Demo</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="https://imercer.webex.com/imercer/lsr.php?AT=pb&amp;SP=EC&amp;rID=67282352&amp;rKey=04124905b0a7f309" target="_blank">Mercer SIRS® PayMonitor® Demo </a></li></ul>
+								</div>
+							</div>
+						</div></td>
+					</tr>
+				</tbody></table>
+			</div></div>
 
 		</div>
                 </li>
@@ -1327,100 +983,60 @@
             
                 <li class="tabItem">
                     
-                    <a id="Header1_Repeater1_ctl05_lnkTabName" class="tabHeading" href="US/tabs/events.aspx">EVENTS &amp; TRAINING</a>
-                    <div id="Header1_Repeater1_ctl05_pnlTabMenu" class="dropdowncolumnright" style="width:175px;">
+                    <a id="Header1_Repeater1_ctl05_lnkTabName" class="tabHeading" href="US/tabs/events.aspx">Events/Training</a>
+                    <div id="Header1_Repeater1_ctl05_pnlTabMenu" class="dropdowncolumnright" style="width:220px;">
 			
                     <div id="Header1_Repeater1_ctl05_ctl00_divMenuGroups">
-    <table class="tabMenuCell" style="display: none;">
-        <tbody><tr>
-            <td id="Header1_Repeater1_ctl05_ctl00_tdLeftCell" style="border-right: 2px solid #BFBFBF; width: 50%;">
-                <div id="Header1_Repeater1_ctl05_ctl00_pnlLeftMenuPanel" class="leftMenuPanel">
+	<table class="tabMenuCell" style="display: none;">
+		<tbody><tr>
+			<td id="Header1_Repeater1_ctl05_ctl00_tdLeftCell" style="border-right: 2px solid #BFBFBF; width: 50%;">
+				<div id="Header1_Repeater1_ctl05_ctl00_pnlLeftMenuPanel" class="leftMenuPanel">
 				
-                
-			</div>
-            </td>
-			
-            <td id="Header1_Repeater1_ctl05_ctl00_tdRightCell" style="width: 50%;">
-                <div id="Header1_Repeater1_ctl05_ctl00_pnlRightMenuPanel" class="rightMenuPanel">
 				
-                
 			</div>
-            </td>
+			</td>
 			
-        </tr>
-    </tbody></table>
-    
-<table id="Header1_Repeater1_ctl05_ctl00_tblMenuContent" class="tabMenuCell" border="0">
-				<tbody><tr>
-					<td width="100%"><div>
-						<div id="Header1_Repeater1_ctl05_ctl00_ctl01_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl05_ctl00_ctl01_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/us-events.aspx">US Events/Trainings</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
+			<td id="Header1_Repeater1_ctl05_ctl00_tdRightCell" style="width: 50%; ">
+				<div id="Header1_Repeater1_ctl05_ctl00_pnlRightMenuPanel" class="rightMenuPanel">
+				
+				
+			</div>
+			</td>
+			
+		</tr>
+	</tbody></table>
+	<table id="Header1_Repeater1_ctl05_ctl00_tblMenuContent" class="tabMenuCell" border="0">
 
-						</div>
-<div id="Header1_Repeater1_ctl05_ctl00_ctl02_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl05_ctl00_ctl02_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/global-mobility-events.aspx">Global mobility events and training</a>
-            
-        <div>
-            
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl05_ctl00_ctl02_repLinks_ctl00_lnkLink" href="http://www.imercer.com/content/expat-management-forums-conferences.aspx">Expatriate management conferences</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl05_ctl00_ctl02_repLinks_ctl01_lnkLink" href="http://www.imercer.com/content/expat-training-seminars.aspx">Expatriate management training seminars</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl05_ctl00_ctl02_repLinks_ctl02_lnkLink" href="http://www.imercer.com/content/expat-comp-forums.aspx">Expatriate compensation forums and roundtables</a>
-                        </li>
-                    </ul>
-                
-                    <ul>
-                        <li>
-                            <a id="Header1_Repeater1_ctl05_ctl00_ctl02_repLinks_ctl03_lnkLink" href="http://www.imercer.com/content/gm-webcasts-recordings.aspx">Webcasts and recordings</a>
-                        </li>
-                    </ul>
-                
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl05_ctl00_ctl03_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl05_ctl00_ctl03_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/mercer-events-around-the-globe.aspx">Events Around the Globe</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-
-					</div></td>
-				</tr>
-			</tbody></table>
-</div>
+			</table>
+<div>
+				<table class="tabMenuCell" border="0">
+					<tbody><tr>
+						<td width="100%" style="border-left:1px solid #76A3B7;"><div>
+							<div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a href="http://www.imercer.com/content/us-events.aspx" style="color:#FFFFFF;">US Events/Trainings</a>
+									</div>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/us-events.aspx">US Events/Trainings Overview</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/global-mobility-events.aspx">Global mobility events and training</a><div>
+										<ul><li><a href="http://www.imercer.com/content/expat-management-forums-conferences.aspx">Expatriate management conferences</a></li></ul><ul><li><a href="http://www.imercer.com/content/expat-training-seminars.aspx">Expatriate management training seminars</a></li></ul><ul><li><a href="http://www.imercer.com/content/expat-comp-forums.aspx">Expatriate compensation forums and roundtables</a></li></ul><ul><li><a href="http://www.imercer.com/content/gm-webcasts-recordings.aspx">Webcasts and recordings</a></li></ul>
+									</div></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/global-events.aspx">Events Around the World</a></li></ul>
+								</div>
+							</div>
+						</div></td>
+					</tr>
+				</tbody></table>
+			</div></div>
 
 		</div>
                 </li>
@@ -1431,114 +1047,73 @@
                 <li class="tabItem">
                     
                     <a id="Header1_Repeater1_ctl06_lnkTabName" class="tabHeading" href="US/tabs/services.aspx">Services</a>
-                    <div id="Header1_Repeater1_ctl06_pnlTabMenu" class="dropdowncolumnright" style="width:175px;">
+                    <div id="Header1_Repeater1_ctl06_pnlTabMenu" class="dropdowncolumnright" style="width:220px;">
 			
                     <div id="Header1_Repeater1_ctl06_ctl00_divMenuGroups">
-    <table class="tabMenuCell" style="display: none;">
-        <tbody><tr>
-            <td id="Header1_Repeater1_ctl06_ctl00_tdLeftCell" style="border-right: 2px solid #BFBFBF; width: 50%;">
-                <div id="Header1_Repeater1_ctl06_ctl00_pnlLeftMenuPanel" class="leftMenuPanel">
+	<table class="tabMenuCell" style="display: none;">
+		<tbody><tr>
+			<td id="Header1_Repeater1_ctl06_ctl00_tdLeftCell" style="border-right: 2px solid #BFBFBF; width: 50%;">
+				<div id="Header1_Repeater1_ctl06_ctl00_pnlLeftMenuPanel" class="leftMenuPanel">
 				
-                
-			</div>
-            </td>
-			
-            <td id="Header1_Repeater1_ctl06_ctl00_tdRightCell" style="width: 50%;">
-                <div id="Header1_Repeater1_ctl06_ctl00_pnlRightMenuPanel" class="rightMenuPanel">
 				
-                
 			</div>
-            </td>
+			</td>
 			
-        </tr>
-    </tbody></table>
-    
-<table id="Header1_Repeater1_ctl06_ctl00_tblMenuContent" class="tabMenuCell" border="0">
-				<tbody><tr>
-					<td width="100%"><div>
-						<div id="Header1_Repeater1_ctl06_ctl00_ctl01_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl06_ctl00_ctl01_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/products/2011/ipe.aspx">International Position Evaluation System</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
+			<td id="Header1_Repeater1_ctl06_ctl00_tdRightCell" style="width: 50%; ">
+				<div id="Header1_Repeater1_ctl06_ctl00_pnlRightMenuPanel" class="rightMenuPanel">
+				
+				
+			</div>
+			</td>
+			
+		</tr>
+	</tbody></table>
+	<table id="Header1_Repeater1_ctl06_ctl00_tblMenuContent" class="tabMenuCell" border="0">
 
-						</div>
-<div id="Header1_Repeater1_ctl06_ctl00_ctl02_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl06_ctl00_ctl02_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/mercer-info-membership.aspx">Mercer Information Membership Program</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl06_ctl00_ctl03_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl06_ctl00_ctl03_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.mercer.com/compensationcosourcing" target="_blank">Compensation Co-sourcing</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl06_ctl00_ctl04_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl06_ctl00_ctl04_lnkMenuGroupHeader" class="tabMenuHeading" href="default.aspx?page=home&amp;contentId=280">Consulting</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl06_ctl00_ctl05_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl06_ctl00_ctl05_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/content/mercer-software-support.aspx">Software Support Services</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-<div id="Header1_Repeater1_ctl06_ctl00_ctl06_pnlMenuItemsContainer" class="tabColumn">
-							
-    <ul>
-        <li>
-            <a id="Header1_Repeater1_ctl06_ctl00_ctl06_lnkMenuGroupHeader" class="tabMenuHeading" href="http://www.imercer.com/products/2013/mercer-select.aspx">Mercer Select Global Insights Membership</a>
-            
-        <div>
-            
-        </div>
-        </li>
-    </ul>
-
-						</div>
-
-					</div></td>
-				</tr>
-			</tbody></table>
-</div>
+			</table>
+<div>
+				<table class="tabMenuCell" border="0">
+					<tbody><tr>
+						<td width="100%" style="border-left:1px solid #76A3B7;"><div>
+							<div class="tabColumn">
+								<div>
+									<div class="tabMenuCategory">
+										<a href="http://www.imercer.com/US/tabs/services.aspx" style="color:#FFFFFF;">Services</a>
+									</div>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/products/2011/ipe.aspx">International Position Evaluation System</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/mercer-info-membership.aspx">Mercer Information Membership Program</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.mercer.com/compensationcosourcing" target="_blank">Compensation Co-sourcing</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="default.aspx?page=home&amp;contentId=280">Consulting</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/content/mercer-software-support.aspx">Software Support Services</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/products/2013/mercer-select.aspx">Mercer Select Global Insights Membership</a></li></ul>
+								</div>
+							</div><div class="tabColumn">
+								<div style="margin-left:7px;">
+									<ul><li><a class="tabMenuHeading" href="http://www.imercer.com/talentinsightsdirect">Talent All Access Subscription</a></li></ul>
+								</div>
+							</div>
+						</div></td>
+					</tr>
+				</tbody></table>
+			</div></div>
 
 		</div>
                 </li>
@@ -1557,7 +1132,8 @@
 		</div>
                     </td>
                     <td>
-                        <input type="image" name="Header1$ibSearch" id="Header1_ibSearch" src="Images/ButtonImages/Btn_Search.gif" alt="Search" border="0">
+                        
+                        <a id="Header1_lnkBtnSearch" class="button_link TextCapitalLetters SearchButton" href="javascript:__doPostBack('Header1$lnkBtnSearch','')">Search</a>
                     </td>
                 </tr>
             </tbody></table>
@@ -1734,7 +1310,7 @@
 	<tr>
 		<td class="bodytext" style="font-size:9pt; font-family: Arial">
 			Occasionally, we may transfer to our global client contact database certain information about Registered Users , in which case it will be governed by Mercer’s Privacy Policy for
-            <a id="ctl02_lnkContact" href="default.aspx?page=home&amp;contentId=1775&amp;newRegionId=100">Mercer's Privacy Policy for Client and Other Professional Contact Data.</a>.
+            <a id="ctl04_lnkContact" href="default.aspx?page=home&amp;contentId=1775&amp;newRegionId=100">Mercer's Privacy Policy for Client and Other Professional Contact Data.</a>.
 		</td>
 	</tr>
 	<tr><td>&nbsp;</td></tr>
@@ -1885,36 +1461,41 @@
 		</td>
 	</tr>
 </tbody></table><br>
-
 <script type="text/JavaScript">
     $(document).ready(function () {
-            var settings = {
-                                tl: { radius: 8 },
-                                tr: { radius: 8 },
-                                bl: { radius: 8 },
-                                br: { radius: 8 },
-                                antiAlias: true
-                            }
-            curvyCorners(settings, '.stayConnectedSection');
-          });
+        var settings = {
+            tl: { radius: 8 },
+            tr: { radius: 8 },
+            bl: { radius: 8 },
+            br: { radius: 8 },
+            antiAlias: true
+        }
+        curvyCorners(settings, '.stayConnectedSection');
+    });
 </script>
 
-    <script type="text/javascript">
-        var EG_ACT_ID = "EG87656692";
-        (function (d) { 
-                var eg = d.createElement("script"), s = d.getElementsByTagName("script")[0];
-                eg.type = "text/javascript";
-                eg.async = true;
-                eg.src = "//analytics.egain.com/onetag/" + EG_ACT_ID;
-                s.parentNode.insertBefore(eg, s);
-            })(document);
-         </script>
+<script type="text/javascript">
+    document.write(unescape("%3Cscript src='" + document.location.protocol +
+  "//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+<script type="text/javascript">
+    Munchkin.init('521-DEV-513');
+</script>
 
-
+<script type="text/javascript">
+    var EG_ACT_ID = "EG87656692";
+    (function (d) {
+        var eg = d.createElement("script"), s = d.getElementsByTagName("script")[0];
+        eg.type = "text/javascript";
+        eg.async = true;
+        eg.src = "//analytics.egain.com/onetag/" + EG_ACT_ID;
+        s.parentNode.insertBefore(eg, s);
+    })(document);
+</script>
 <div class="BottomArea">
     <div class="stayConnectedSection">
-        <div id="ctl03_uxUserMenuContentPanel">
-	 
+        <div id="ctl05_uxUserMenuContentPanel">
+	
             
             <br>
             <table>
@@ -1973,98 +1554,98 @@
     </div>
     <br>
     
-    <hr noshade="noshade" color="#bababa">  
-                                                                                                                                          
+    <hr noshade="noshade" color="#bababa">
     <table cellspacing="0" cellpadding="10" border="0" width="100%">
-		<tbody><tr>
-			<td align="left" width="60%">
-			    <a href="http://www.mmc.com/about/index.php" target="_blank">
-			        <img id="ctl03_imgLogo" src="Images/Mercer_HRC_w.gif" alt="[imgLogo]" border="0">
-			    </a>
-			</td>
-			<td width="40%" nowrap="">
-			<div id="ctl03_links">
-                <a id="ctl03_lnkMercerWebsite" class="footer" rel="noindex,nofollow" href="http://www.mercer.com">Mercer.com</a> |
-                <a id="ctl03_lnkAboutUs" class="footer" rel="noindex,nofollow" href="content/mercer-about-us.aspx">About Us</a> |
-				<a id="ctl03_Cont" class="footer" rel="noindex,nofollow" href="default.aspx?page=home&amp;contentId=454">Contact Us</a> |
-				<a id="ctl03_Terms2" class="footer" rel="noindex,nofollow" href="default.aspx?page=term">Terms of Use</a> |
-				<a id="ctl03_Privacy2" class="footer" rel="noindex,nofollow" href="default.aspx?page=privacy">Privacy Policy</a> |
-				<a id="ctl03_SiteMap" class="footer" href="US/sitemap.aspx">Site Map</a> |
-                <a id="ctl03_Feedback" class="footer" rel="noindex,nofollow" href="https://imercer.qualtrics.com/SE/?SID=SV_8JiAXJNaFvy55qs" target="_blank">Feedback</a>
-				
-			    <br>
-                    <div style="float:right;"> 
-                        <font size="-2">©2013 Mercer LLC, All Rights Reserved</font>
+        <tbody><tr>
+            <td align="right" nowrap="">
+                <div id="ctl05_links" style="float: right; margin-bottom: 10px;">
+                    <a id="ctl05_lnkMercerWebsite" class="footer" rel="noindex,nofollow" href="http://www.mercer.com">Mercer.com</a>
+                    |
+                    <a id="ctl05_lnkAboutUs" class="footer" rel="noindex,nofollow" href="content/mercer-about-us.aspx">About Us</a>
+                    |
+                    <a id="ctl05_Cont" class="footer" rel="noindex,nofollow" href="default.aspx?page=home&amp;contentId=454">Contact Us</a>
+                    |
+                    <a id="ctl05_Terms2" class="footer" rel="noindex,nofollow" href="default.aspx?page=term">Terms of Use</a>
+                    |
+                    <a id="ctl05_Privacy2" class="footer" rel="noindex,nofollow" href="default.aspx?page=privacy">Privacy Policy</a>
+                    |
+                    <a id="ctl05_SiteMap" class="footer" href="US/sitemap.aspx">Site Map</a>
+                    |
+                    <a id="ctl05_Feedback" class="footer" rel="noindex,nofollow" href="https://imercer.qualtrics.com/SE/?SID=SV_8JiAXJNaFvy55qs" target="_blank">Feedback</a>
+                    
+                    <br>
+                    <div style="float: right;">
+                        <font size="-2">©2013
+                            Mercer LLC,
+                            All Rights Reserved</font>
                     </div>
-        		</div>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="5">
-				<hr size="1" noshade="noshade" color="#cacaca"><br><table cellspacing="0" cellpadding="0" width="100%" border="0">
-				
-                
-					
-					    <tbody><tr>
-					        <td valign="top" align="left" height="1" class="small">
-					            <a id="ctl03_repFooter_ctl00_lnkRegion" href="javascript:__doPostBack('ctl03$repFooter$ctl00$lnkRegion','')">Asia</a>
-					            <span id="ctl03_repFooter_ctl00_lblRegion">Technical Support: 65 6398 2625 or Product Information: 65 6398 2800</span>
-					        </td>
-					    </tr>
-					
-					    <tr>
-					        <td valign="top" align="left" height="1" class="small">
-					            <a id="ctl03_repFooter_ctl01_lnkRegion" href="javascript:__doPostBack('ctl03$repFooter$ctl01$lnkRegion','')">Australia/NZ</a>
-					            <span id="ctl03_repFooter_ctl01_lblRegion">1800 645 186 (Sydney) +61 2 8864 6800 (International) / 0508 645 186 (Auckland) +64 9 984 3500 (International)</span>
-					        </td>
-					    </tr>
-					
-					    <tr>
-					        <td valign="top" align="left" height="1" class="small">
-					            <a id="ctl03_repFooter_ctl02_lnkRegion" href="javascript:__doPostBack('ctl03$repFooter$ctl02$lnkRegion','')">Canada</a>
-					            <span id="ctl03_repFooter_ctl02_lblRegion">1-800-333-3070</span>
-					        </td>
-					    </tr>
-					
-					    <tr>
-					        <td valign="top" align="left" height="1" class="small">
-					            <a id="ctl03_repFooter_ctl03_lnkRegion" href="javascript:__doPostBack('ctl03$repFooter$ctl03$lnkRegion','')">China</a>
-					            <span id="ctl03_repFooter_ctl03_lblRegion">+86 10 6533 4300</span>
-					        </td>
-					    </tr>
-					
-					    <tr>
-					        <td valign="top" align="left" height="1" class="small">
-					            <a id="ctl03_repFooter_ctl04_lnkRegion" href="javascript:__doPostBack('ctl03$repFooter$ctl04$lnkRegion','')">中国</a>
-					            <span id="ctl03_repFooter_ctl04_lblRegion">+86 10 6533 4300</span>
-					        </td>
-					    </tr>
-					
-					    <tr>
-					        <td valign="top" align="left" height="1" class="small">
-					            <a id="ctl03_repFooter_ctl05_lnkRegion" href="javascript:__doPostBack('ctl03$repFooter$ctl05$lnkRegion','')">Europe</a>
-					            <span id="ctl03_repFooter_ctl05_lblRegion">48 22 434 5383 (Warsaw)</span>
-					        </td>
-					    </tr>
-					
-					    <tr>
-					        <td valign="top" align="left" height="1" class="small">
-					            <a id="ctl03_repFooter_ctl06_lnkRegion" href="javascript:__doPostBack('ctl03$repFooter$ctl06$lnkRegion','')">Latin America</a>
-					            <span id="ctl03_repFooter_ctl06_lblRegion">54 11 4000 4081 (Argentina) or 52 55 5999 4524 (Mexico)</span>
-					        </td>
-					    </tr>
-					
-					    <tr>
-					        <td valign="top" align="left" height="1" class="small">
-					            <a id="ctl03_repFooter_ctl07_lnkRegion" href="javascript:__doPostBack('ctl03$repFooter$ctl07$lnkRegion','')">United States</a>
-					            <span id="ctl03_repFooter_ctl07_lblRegion">Customer Service: 1-800-333-3070 or 1-502-560-8290   Software Helpdesk: 1-800-866-7474 or 1-502-561-8995</span>
-					        </td>
-					    </tr>
-					
-				</tbody></table>
-			</td>
-		</tr>
-	</tbody></table>
+                </div>
+                <div style="float: left;">
+                    <a href="http://www.mmc.com/about/index.php" target="_blank">
+                        <img id="ctl05_imgLogo" src="Images/Mercer_HRC_w.gif" alt="[imgLogo]" border="0">
+                    </a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5">
+                <hr size="1" noshade="noshade" color="#cacaca"><br><table cellspacing="0" cellpadding="0" width="100%" border="0">
+                    
+                    
+                    
+                            <tbody><tr>
+                                <td valign="top" align="left" height="1" class="small">
+                                    <a id="ctl05_repFooter_ctl00_lnkRegion" href="javascript:__doPostBack('ctl05$repFooter$ctl00$lnkRegion','')">Asia</a>
+                                    <span id="ctl05_repFooter_ctl00_lblRegion">Technical Support: 65 6398 2625 or Product Information: 65 6398 2800</span>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td valign="top" align="left" height="1" class="small">
+                                    <a id="ctl05_repFooter_ctl01_lnkRegion" href="javascript:__doPostBack('ctl05$repFooter$ctl01$lnkRegion','')">Australia/NZ</a>
+                                    <span id="ctl05_repFooter_ctl01_lblRegion">1800 645 186 (Sydney) +61 2 8864 6800 (International) / 0508 645 186 (Auckland) +64 9 984 3500 (International)</span>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td valign="top" align="left" height="1" class="small">
+                                    <a id="ctl05_repFooter_ctl02_lnkRegion" href="javascript:__doPostBack('ctl05$repFooter$ctl02$lnkRegion','')">Canada</a>
+                                    <span id="ctl05_repFooter_ctl02_lblRegion">1-800-333-3070</span>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td valign="top" align="left" height="1" class="small">
+                                    <a id="ctl05_repFooter_ctl03_lnkRegion" href="javascript:__doPostBack('ctl05$repFooter$ctl03$lnkRegion','')">China</a>
+                                    <span id="ctl05_repFooter_ctl03_lblRegion">+86 10 6533 4300</span>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td valign="top" align="left" height="1" class="small">
+                                    <a id="ctl05_repFooter_ctl04_lnkRegion" href="javascript:__doPostBack('ctl05$repFooter$ctl04$lnkRegion','')">Europe</a>
+                                    <span id="ctl05_repFooter_ctl04_lblRegion">48 22 434 5383 (Warsaw)</span>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td valign="top" align="left" height="1" class="small">
+                                    <a id="ctl05_repFooter_ctl05_lnkRegion" href="javascript:__doPostBack('ctl05$repFooter$ctl05$lnkRegion','')">Latin America</a>
+                                    <span id="ctl05_repFooter_ctl05_lblRegion">54 11 4000 4081 (Argentina)</span>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td valign="top" align="left" height="1" class="small">
+                                    <a id="ctl05_repFooter_ctl06_lnkRegion" href="javascript:__doPostBack('ctl05$repFooter$ctl06$lnkRegion','')">United States</a>
+                                    <span id="ctl05_repFooter_ctl06_lblRegion">Customer Service: 1-800-333-3070 or 1-502-560-8290   Software Helpdesk: 1-800-866-7474 or 1-502-561-8995</span>
+                                </td>
+                            </tr>
+                        
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
 </div>
 </td>
 
