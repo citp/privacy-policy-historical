@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicspoiler.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630215143id_/http%3A//www.magicspoiler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicspoiler.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206062837id_/http%3A//www.magicspoiler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
