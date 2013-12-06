@@ -1,61 +1,65 @@
-> *The following text is extracted and transformed from the vivastreet.co.uk privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920065902id_/http%3A//www.vivastreet.co.uk/cookies-s00) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivastreet.co.uk privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206142743id_/http%3A//www.vivastreet.co.uk/privacy-policy-s00) for the most accurate reproduction.*
 
-# Vivastreet Cookies
+# Privacy Policy
 
-**Managing your cookies from your browser**  
-The links below take you to the help sections for each of the major browsers. Here they will tell you how you can manage your cookies. Please be aware that restricting cookies may impact on the functionality of the Vivastreet website.
+1\. This Privacy Policy sets out how we will treat the personal information which you provide to us while using the website located at www.vivastreet.co.uk (the "Site") and/or the services provided from it (the "Services"). We may change this Privacy Policy from time to time and such changes will take effect from the date and time the revised Privacy Policy is available on the Site.
 
-**Third Party Cookies**  
-Vivastreet uses a number of third parties who also set cookies on our site in order to help deliver the services that we provide. For more information about the cookies used by these third parties you can find their privacy policies below.
+2\. To provide the Site and the Services, it is necessary for us to hold and process certain personal information. We take reasonable care in keeping this information secure and preventing any unauthorised access or unlawful use of it. All personal information is processed by us in accordance with applicable data protection legislation.
 
-| 
+3\. From time to time, we may ask you to provide some or all of the following: details of your name, your company and/or trading name, address, telephone/facsimile number(s), e-mail address and credit card or other details. This personal information will be stored together with any additional information you may provide to us from time to time, and will be used by us (and our necessary service providers) to provide you with the Services and other activities associated with them. We may also use your personal information:  
+-To facilitate our provision of the Services to you  
+-To analyse use of the Site  
+-To keep you up-to-date with new features, products and other services which we think may be of interest to you.
 
-**Company/Cookie Name**
+4\. We will only keep your personal information for as long as necessary for the purposes for which that personal information was given to us. Please note that, in the event we sell our business to any third party, we will transfer your data to that third party for the purposes of continuing to provide the Services to you. 
 
-| 
+5\. Please note that we may use 'cookies' while you access the Site to avoid the need to re-enter details on different occasions and other such purposes. If you do not wish to receive 'cookies', you may change the settings on your computer or browser accordingly. 
 
-**Information**  
-  
----|---  
-  
-Google Analytics
+6\. Please note that, from time to time, we may transfer your personal data for internal business purposes to locations outside the European Economic Area. Please note that in respect of information transmitted to the US, we shall only transmit such information to entities that comply with suitable policies. 
 
-| 
+7\. We may also disclose your personal information if required to do so by law or if we hold a good faith belief that disclosure is necessary to comply with any applicable law or to defend our own rights or property, or to protect the personal safety of others. 
 
-Vivastreet uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate your use of our website and compile reports for us on activity.  
-Google stores the information collected by the cookie on servers in the United States. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. By using Vivastreet, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
+8\. If you have any queries about the Privacy Policy or wish to resume receiving information which you may have previously opted out of receiving, please contact us.
 
-To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>. To opt out of other cookies used by Google, such as those used by Google Adwords, visit [www.google.co.uk/policies/privacy/ads/](http://www.google.co.uk/policies/privacy/ads/).   
-  
-Maxymiser
+**Contact Information:**  
+Email: [team-uk@sitemail.vivastreet.com](mailto:team-uk@sitemail.vivastreet.com)  
+Telephone: +44 (0) 207 514 5061   
+Fax: 0207 292 3390  
+Website: ["http://www.w3corporate.com/](http://www.w3corporate.com/)  
+Location: 1 – 4 Warwick Street  
+W1B 5LT, London
 
-| 
+9\. You can unsubscribe to our marketing emails simply clicking on the link "Unsubscribe" at the bottom of them. 
 
-Maxymiser is the global expert in multivariate testing, personalisation and optimisation solutions. They help websites like Vivastreet comply with the most recent European privacy regulations. The security of their technology has been rewarded with an ISO 27001-2005 certification.  
-Their technology uses testing methodologies along with personalisation to help us design and improve your online experience.  
-The cookies that Maxymiser uses are known as “first party cookies” and are classified as “analytical cookies”. They Maxymiser to recognise and count the number of visitors to see how visitors browse around Vivastreet. We can then understand things that don’t work well and find better ways to serve you.
+### **More on Cookies**
 
-To find out more about Maxymiser and the cookies they use visit <http://www.maxymiser.com/cookies>  
-  
-Omniture (inc Test and Target)
+**What are cookies?**
 
-| 
+A cookie is a small file containing information that is sent to your computer when you visit a website. When returning to the website, the cookie allows that site to recognise your browser. Cookies can store user preferences and other information in order to provide you with a better, faster and safer experience.
 
-Omniture provides anonymised statistical information to Vivastreet, gathering data about visits to our website.  
-Omniture uses cookies, log file data and code which is embedded on Vivastreet. We use this information to track volume of usage on Vivastreet and to help improve the services it provides to users. Information that Omniture collects is transferred to them in the United States of America. 
+For example, we use cookies to store your login details so that it's easier for you to log in when you return to the site.
 
-To find out more about Omniture and how to delete/reject their cookies visit [www.omniture.com/en/privacy/2o7](http://www.omniture.com/en/privacy/2o7)  
-  
-Criteo
+**Use of cookies by Vivastreet**
 
-| 
+\- We use cookies to help identify you and maintain your signed-in status.  
+\- Most cookies are "session cookies"*, meaning that they are automatically deleted from your hard drive at the end of a session.  
+\- You can remove or block cookies using the settings in your browser, but in some cases, this may impact your ability to use Vivastreet.  
+\- You may encounter cookies from third parties on certain pages of the sites that we do not control. (For example, if you view a web page created by another user, there may be a cookie placed by that web page.)
 
-Criteo is a specialist in creating personalised advertisements. Criteo builds personalised advertisements for Vivastreet visitors. By using Criteo, Vivastreet is able to offer a more personalised ad service providing our users with relevance. 
+[Click here to view Vivastreet's Cookie list and to find out more about how to minimise the number you receive](http://www.vivastreet.co.uk/cookies-s00).
 
-To find out more and to opt out of receiving ads from Criteo visit [www.criteo.com/us/privacy-policy](http://www.criteo.com/us/privacy-policy).   
-  
-Eplanning
+To find out more about cookies visit [www.allaboutcookies.org](https://web.archive.org/web/20131206142743id_/http%3A//www.vivastreet.co.uk/www.allaboutcookies.org)
 
-| 
+**Consent**
 
-Coming soon
+By using our website, you consent to the collection and use of your IP Details, Personal Information and location data in accordance with this policy. If we change our privacy policy at any time, these changes will be reflected in this Privacy Policy.
+
+* **What is a session cookie?**
+
+A session cookie is a temporary file, which is deleted when you close your browser.
+
+The next time you open your browser and go back to the site that created the cookie the website will not recognise you, forcing you to log back in (if login is required) or select your preferences/themes again if the site uses these features. 
+
+A new session cookie is then generated, which will store your browsing information until you leave the site and close your browser.
+
+Session cookies do not collect information from the user's computer 
