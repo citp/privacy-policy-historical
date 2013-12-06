@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 7daysindubai.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209085437id_/http%3A//www.7daysindubai.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7daysindubai.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206192459id_/http%3A//www.7daysindubai.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 7 Days Dubai | Privacy Policy
 
-Privacy policy This privacy policy applies only to this website (the "Site"). If you do not accept this privacy policy, you must not use this Site. 
+This privacy policy applies only to this website (the "Site"). If you do not accept this privacy policy, you must not use this Site. 
 
 Collection of Personal Information We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms, submit comments to the Site, participate in message boards, blogs and other such user generated content facilities or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it. 
 
@@ -17,6 +17,10 @@ Use of Your Information
 By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation): 
 
 • Verifying your identity (for example when you return to the Site) • Personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you • Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting • Dealing with, and responding to you about, a comment you have submitted for or on our message boards, blogs and other such user generated content facilities • Enabling you to share our content with others e.g. using our Email a friend and Share this article facilities • Communicating (and personalising such communication) with you • Informing you if you have been successful in any Site competitions or promotions • Compiling customer reviews • Conducting market research • Carrying out statistical, technical and logistical analysis 
+
+Email Subscription 
+
+If you would like to unsubscribe from recieving emails from us simply click on the 'Manage my subscription' or 'Unsubscribe' links at the bottom of any of the emails we have sent you in the past. If you do not have access to these emails then please send an email to feedback@7days.ae with the title Unsubscribe. If after having tried either of the above you are still having difficulties please contact us by phone on: 00971 4 283 1317 
 
 Sharing Your Personal Information 
 
@@ -36,4 +40,4 @@ If you wish to review or receive copies of the personal information we hold abou
 
 Al Sidra Media LLC PO Box 35207 Dubai UAE
 
-We may charge a small administration fee (not exceeding the maximum permitted by law) in relation to fulfilling a request for access to personal information. 
+We may charge a small administration fee (not exceeding the maximum permitted by law) in relation to fulfilling a request for access to personal information.
