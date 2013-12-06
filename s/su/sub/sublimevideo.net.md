@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sublimevideo.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531031908id_/https%3A//my.sublimevideo.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sublimevideo.net privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207001301id_/https%3A//my.sublimevideo.net/privacy) for the most accurate reproduction.*
 
 # MySublimeVideo - Privacy Policy
 
