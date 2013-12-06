@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621070435id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206114356id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
 
 # Free Online Surveys - Get Paid to Take Surveys Online - Vindale Research
 
@@ -32,7 +32,7 @@ Vindale Research uses your IP address and browser type for the general administr
 
 Sharing of collected information with third parties
 
-Except in cases where members are expressly informed otherwise, Vindale Research does not sell, rent, share, trade or give away any of your personal information unless required by law to do so. In certain circumstances, Vindale Research may share profile information and aggregate usage information in a non-personally identifiable fashion to advertisers or other third parties for the purpose of delivering more targeted advertising, products and services to members. In these instances Vindale Research will only disclose information that will be used to personally identify you if you grant permission through an opt-in process. Vindale Research reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of Vindale Research or substantially all of its assets to that successor in interest. 
+Except in the cases outlined hereunder or where members have granted permission via an opt-in process, Vindale Research does not sell, rent, share, trade or give away any of your personal information to third parties. Vindale Research does share (i) personal information and (ii) non-personally-identifiable information with third parties for the purpose of delivering targeted advertising, surveys, products and services to members. If required to do so by law or third-party agreement, Vindale Research may share your personal information as part of arbitration or legal proceedings or with law enforcement officials or government agencies. Vindale Research reserves the right to share personal and non-personal information with (i) a parent or subsidiary, (ii) an acquirer of assets, or (iii) a successor by merger. 
 
 Communications to Non-members
 
@@ -100,4 +100,4 @@ _Telephone: 1-855-846-3253
 Facsimile: 1-866-841-3898  
 _
 
-LAST UPDATED 09/06/2012
+LAST UPDATED 08/30/2013
