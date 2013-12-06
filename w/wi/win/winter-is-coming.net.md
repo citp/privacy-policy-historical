@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winter-is-coming.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602233410id_/http%3A//winter-is-coming.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winter-is-coming.net privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206163322id_/http%3A//winter-is-coming.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WinterIsComing.net
 
