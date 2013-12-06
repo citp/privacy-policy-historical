@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nashville.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402001520id_/http%3A//nashville.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashville.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206010227id_/http%3A//www.nashville.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Official Guide To Nashville TN - Music City | Nashville.com
+# Privacy Policy - Nashville.com
 
 Nashville.com Privacy Policy
 
