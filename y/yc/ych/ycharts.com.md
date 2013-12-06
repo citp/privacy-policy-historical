@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ycharts.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502232758id_/http%3A//ycharts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ycharts.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206220555id_/http%3A//ycharts.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
