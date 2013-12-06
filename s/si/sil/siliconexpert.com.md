@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconexpert.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601073417id_/http%3A//siliconexpert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconexpert.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206232135id_/http%3A//www.siliconexpert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SiliconExpert
 
