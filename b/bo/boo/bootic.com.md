@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootic.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615035659id_/http%3A//www.bootic.com/_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootic.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206042929id_/http%3A//www.bootic.com/_privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Bootic, The Ecommerce Network
 
