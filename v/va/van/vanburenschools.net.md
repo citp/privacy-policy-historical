@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanburenschools.net privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009104644id_/http%3A//vanburenschools.net/privacy.phtml%3Fsessionid%3Daba349a8b59c369ef0d45ced19a6c35d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanburenschools.net privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206095235id_/http%3A//vanburenschools.net/privacy.phtml) for the most accurate reproduction.*
 
 # Van Buren Public Schools
 
