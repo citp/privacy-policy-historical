@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the cheki.co.ke privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515023112id_/http%3A//www.cheki.co.ke/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheki.co.ke privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206131443id_/http%3A//www.cheki.co.ke/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-## Search
-
-Only display ads with prices
-
-Only display ads with photos
-
-  
-| 
-
-## Privacy Statement
-
- **CHEKI's commitment to maintaining your privacy**
+**CHEKI's commitment to maintaining your privacy**
 
 CHEKI's values our users and recognise their right to keep personal information private. This statement discloses our information gathering and dissemination practices for all sites managed by CHEKI.
 
@@ -78,6 +67,3 @@ From time to time, CHEKI may review and update its privacy statement.
 **Contact Us**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with CHEKI, you can [contact us online](http://www.cheki.co.ke/contact) or at [info@cheki.co.ke](mailto:info@cheki.co.ke)
-
-  
-
