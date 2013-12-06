@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcn.org.uk privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204241id_/http%3A//www.rcn.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcn.org.uk privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206032827id_/http%3A//www.rcn.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - RCN
 
@@ -11,7 +11,7 @@ The Royal College of Nursing of the United Kingdom, RCN Publishing Company Ltd,�
   5. Mobile telephone numbers are never passed onto third parties for marketing purposes. 
   6. RCN web pages use cookies if the visiting User Agent is set to accept them. For more information on our use of cookies and how to opt out, visit [www.rcn.org.uk/cookies](http://www.rcn.org.uk/privacy/cookies)
   7. We will strive to ensure that data collected is as accurate as possible. Individuals about whom data is held have the right to the amendment or deletion of incorrect entries within a reasonable time.
-  8. Appropriate technical and organisational measures will be adopted to protect the security of all personal data held by RCN, including sensitive personal data.
+  8. Appropriate technical and organisational measures will be adopted to protect the security of all personal data held by RCN, including sensitive personal data as defined by the Data Protection Act 1998. 
   9. Information will be held in an environment as secure as possible.  RCN employees and representatives will be responsible for ensuring that all regular data care procedures are fully and conscientiously followed. 
   10. All ordered manual files and databases will be kept up-to-date and will have an agreed archiving policy. 
   11. Data no longer required for the legitimate purposes of RCN will be regularly purged.  A clear rationale will be supplied for personal data to be kept beyond six years. 
