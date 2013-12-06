@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kidney.org privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602072510id_/http%3A//www.kidney.org/about/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kidney.org privacy policy that was archived on 2013-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206055347id_/http%3A//www.kidney.org/about/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-flexbox flexbox-legacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,18 +7,14 @@
 
 
 
-	<link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
+	
 	<link rel="stylesheet" href="/css/nkf.css" type="text/css" media="all">
 	<link rel="stylesheet" href="/css/fontsize.css" type="text/css" media="all">
+<link rel="stylesheet" href="/css/print.css" type="text/css" media="print">	
 	
-	
-	
-<!--[if gt IE 8]>
+	<!--[if IE 9]>
 <link rel="stylesheet" href="/css/ie9.css" type="text/css" media="screen, projection">
 <![endif]-->
-
-
-
 
 <!--[if lt IE 9]>
 <link rel="stylesheet" href="/css/ie.css" type="text/css" media="screen, projection">
@@ -40,8 +36,10 @@
       $.chromeframebar({});
 </script>
 -->
-	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<!--[endif]---->
+
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<!--[endif]---->
+
 <!--[if IE 6]>
 <link rel="stylesheet" href="/css/ie6.css" type="text/css" media="screen, projection">
 <style>
@@ -75,11 +73,10 @@ $(document).ready(function(){
     <script type="text/javascript" src="//use.typekit.net/ywf0tsh.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	<link rel="stylesheet" href="/css/nkf_v3.css" type="text/css" media="all"> 
-	
 
-<!--[if gt IE 8]>
+<!--[if IE 9]>
 <style>
-#nav ul li {padding-left:17px !important; padding-right:17px !important;}
+#nav ul li {padding-left:21px !important; padding-right:21px !important;}
 #nav ul li.organ {width:120px; padding:6px 9px 0 !important;}
 </style>
 <![endif]-->
@@ -113,6 +110,8 @@ font-family:'myriad-pro',Verdana, Geneva, sans-serif; }
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2200653-1']);
+  _gaq.push(['_setDomainName', 'kidney.org']);
+  _gaq.push(['_setAllowLinker', true]);
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -123,6 +122,22 @@ font-family:'myriad-pro',Verdana, Geneva, sans-serif; }
 
 </script>
 <!--//End Google Analytics Tracking //-->
+
+<!--//Start Delay Outbound Clicks //-->
+<!--//Delays outbound clicks by a fraction of a second to allow Google Analytics to record action //-->
+<script type="text/javascript">
+function trackOutboundLink(link, category, action) { 
+ 
+try { 
+_gaq.push(['_trackEvent', category , action]); 
+} catch(err){}
+ 
+setTimeout(function() {
+document.location.href = link.href;
+}, 100);
+}
+</script>
+<!--//End Delay Outbound Clicks //-->
 
 <a name="top"></a>
 
@@ -168,12 +183,6 @@ font-family:'myriad-pro',Verdana, Geneva, sans-serif; }
  
 
 
-
-
-
-
-
-
 <div id="nav">
 	<ul>
 		<li class="home"><a href="http://www.kidney.org/index.cfm">Home</a></li>
@@ -187,12 +196,13 @@ font-family:'myriad-pro',Verdana, Geneva, sans-serif; }
 					<li><a href="http://www.kidney.org/kidneydisease/howkidneyswrk.cfm">How Your Kidneys Work</a></li>
 					<li><a href="http://www.kidney.org/kidneydisease/threesimpletests.cfm">Three Simple Tests to Check for Kidney Disease</a></li>
 					<li><a href="http://www.kidney.org/kidneydisease/recentlydiagnosed.cfm">Recently Diagnosed</a></li>
-					<li><a href="http://www.kidney.org/news/keep/index.cfm">KEEP Early Detection Screenings</a></li>
+					<li><a href="http://www.kidney.org/news/keephealthy/index.cfm">KEEP Healthy - Free Kidney Health checks</a></li>
 					<li><a href="http://www.kidney.org/kidneydisease/kidneyquiz.cfm">Kidney Quiz</a></li>
+					<li><a href="http://www.kidney.org/kidneydisease/selfAssessmentQuiz.cfm">Rate Your Risk Quiz</a></li>
 				</ul>
 				<div class="featured-story">
 					<h1>Featured Story</h1>
-					<div class="story"><img src="https://www.kidney.org/patients/images/DrSpry.jpg" alt="CKD" border="0" class="thumb left">
+					<div class="story"><img src="https://www.kidney.org/patients/images/DrSpry.jpg" border="0" class="thumb left">
 						<h2>Ask the Doctor</h2>
 						<p>Questions about kidney disease? Risk factors? Signs and symptoms? Are you concerned about yourself, a friend or family member? <a href="http://www.kidney.org/kidneydisease/askthedoctor.cfm">Ask Dr. Spry</a>.</p>
 					</div>
@@ -216,9 +226,9 @@ font-family:'myriad-pro',Verdana, Geneva, sans-serif; }
 				<div class="featured-story">
 					<h1>Featured Story</h1>
                    
-					<div class="story"><a href="http://www.kidney.org/patients/kidneyliving/index.cfm?utm_source=nkfnav&amp;utm_medium=nav&amp;utm_campaign=KidneyLivingNews"><img src="https://www.kidney.org/images/kidneyLivingCover_new_ad.jpg" border="0" class="thumb left"></a>
+					<div class="story"><a href="http://www.kidney.org/patients/kidneyliving/index.cfm"><img src="https://www.kidney.org/images/kidneyLivingCover_new_ad.jpg" border="0" class="thumb left"></a>
 						<h2>Are you a dialysis patient?</h2>
-						<p><a href="http://www.kidney.org/patients/kidneyliving/index.cfm?utm_source=nkfnav&amp;utm_medium=nav&amp;utm_campaign=KidneyLivingNews">Sign up for our FREE  magazine, Kidney Living</a></p>
+						<p><a href="http://www.kidney.org/patients/kidneyliving/index.cfm?navigation=KidneyLivingNews">Sign up for our FREE  magazine, Kidney Living</a></p>
 					</div>
 				</div>
 			</div>
@@ -230,12 +240,12 @@ font-family:'myriad-pro',Verdana, Geneva, sans-serif; }
 					<li><a href="http://www.kidney.org/transplantation/livingdonors/index.cfm">Living Donation</a></li>
 					<li><a href="http://www.kidney.org/transplantation/donorfamilies/index.cfm">Donor Families</a></li>
 					<li><a href="http://www.kidney.org/transplantation/transaction/index.cfm">Transplantation</a></li>
-					<li><a href="http://www.kidney.org/transplantation/endthewait/index.cfm">End The Wait!</a></li>
+					
 					<li><a href="http://www.kidney.org/about/membership.cfm">Join the NKF Family</a></li>
 				</ul>
 				<div class="featured-story">
 					<h1>Featured Story</h1>
-					<div class="story"><img src="https://www.kidney.org/transplantation/images/Waiting-Xavier_320.jpg" alt="CKD" border="0" class="thumb left">
+					<div class="story"><img src="https://www.kidney.org/transplantation/images/Waiting-Xavier_320.jpg" border="0" class="thumb left">
 						<h2>Be an Organ Donor</h2>
 						<p>Have you ever thought about donating an organ? Organ and tissue donation helps others by giving them a second chance at life. <a href="http://www.kidney.org/transplantation/beadonor.cfm">Learn more</a> about the donation process–and how to become an organ donor.</p>
 					</div>
@@ -261,7 +271,7 @@ font-family:'myriad-pro',Verdana, Geneva, sans-serif; }
 				</ul>
 				<div class="featured-story">
 					<h1>Featured Story</h1>
-					<div class="story"><img src="https://www.kidney.org/professionals/images/GFR_320.jpg" alt="CKD" border="0" class="thumb left">
+					<div class="story"><img src="https://www.kidney.org/professionals/images/GFR_320.jpg" border="0" class="thumb left">
 						<h2>GFR</h2>
 						<p>You can estimate a GFR for adults or children using our GFR calculators or read a list of frequently asked questions pertaining to the current recommendations for the estimation of GFR. <a href="http://www.kidney.org/professionals/kdoqi/gfr.cfm">Start here</a>.</p>
 					</div>
@@ -274,13 +284,13 @@ font-family:'myriad-pro',Verdana, Geneva, sans-serif; }
 					<li><a href="http://walk.kidney.org">Kidney Walks</a></li>
 					<li><a href="http://www.kidney.org/news/nkfgolfclassic/index.cfm">NKF Cadillac Golf Classic</a></li>
 					<li><a href="http://www.kidney.org/news/meetings/clinical/index.cfm">Spring Clinical Meetings</a></li>
-					<li><a href="http://www.kidney.org/news/keep/index.cfm">KEEP Early Detection Screenings</a></li>
+					<li><a href="http://www.kidney.org/news/keephealthy/index.cfm">KEEP Healthy - Free Kidney Health checks</a></li>
 				</ul>
 				<div class="featured-story">
 					<h1>Featured Story</h1>
-					<div class="story"><img src="https://www.kidney.org/images/walk_320.jpg" alt="CKD" border="0" class="thumb left">
+					<div class="story"><img src="https://www.kidney.org/images/walk14_320.jpg" border="0" class="thumb left">
 						<h2>Kidney Walk</h2>
-						<p>Kidney Walks are designed to help people understand the need for early detection of kidney disease. In addition to raising funds for research and help for patients and their families, the Walk is a great way to bring the community together!</p>
+						<p>The Kidney Walk is the nation's largest walk to fight kidney disease. Held in nearly 100 communities, the event raises awareness and funds lifesaving programs that educate and support patients, their families and those at risk.</p>
 						<p>For more information about these and other <a href="http://www.kidney.org/events/index.cfm">events</a> please visit our Events section.</p>
 					</div>
 				</div>
@@ -297,7 +307,7 @@ font-family:'myriad-pro',Verdana, Geneva, sans-serif; }
 				</ul>
 				<div class="featured-story">
 					<h1>Featured Story</h1>
-					<div class="story"><a href="http://donate.kidney.org/site/PageServer?pagename=ActionCenter"><img src="https://www.kidney.org/advocacy/images/TakeAction_320.JPG" alt="CKD" border="0" class="thumb left"></a>
+					<div class="story"><a href="http://donate.kidney.org/site/PageServer?pagename=ActionCenter"><img src="https://www.kidney.org/advocacy/images/TakeAction_320.JPG" border="0" class="thumb left"></a>
 						<h2>Take Action Center</h2>
 						<p>Provides the latest information about legislation and policy relating to chronic kidney disease, transplantation and donation. The featured action alerts allow you to easily advocate to your Members of Congress on these issues.</p>
 					</div>
@@ -312,7 +322,7 @@ font-family:'myriad-pro',Verdana, Geneva, sans-serif; }
 					<li><a href="http://www.kidney.org/support/kidneycars/">Car Donation</a></li>
 					<li><a href="http://www.kidney.org/support/volunteer.cfm">Volunteer</a></li>
 					<li><a href="http://www.kidney.org/support/corporate_support.cfm">Corporate Support</a></li>
-					<li><a href="http://www.kidney.org/support/corporate_partners.cfm">Corporate Partners</a></li>
+					<!--<li><a href="http://www.kidney.org/support/corporate_partners.cfm">Corporate Partners</a></li>-->
 				</ul>
 				<div class="featured-story">
 					<h1>Featured Story</h1>
@@ -345,7 +355,7 @@ font-family:'myriad-pro',Verdana, Geneva, sans-serif; }
 				<!-- AddThis Button END --></article>
 			<!-- [end] AddThis --> 
 
-<div id="donate_button_v3"><a href="/support/index.cfm?utm_source=nkfnav&amp;utm_medium=button&amp;utm_campaign=DonateNowButtonN"><img src="/images/DonateNow_button_v3.png" title="Support the NKF | DONATE NOW" alt="Support the NKF - DONATE NOW"></a></div>
+<div id="donate_button_v3"><a href="/support/index.cfm?sidebar=DonateNowButton"><img src="/images/DonateNow_button_v3.png" title="Support the NKF | DONATE NOW" alt="Support the NKF - DONATE NOW"></a></div>
 
 			<!-- [start] Find Local Offices & Events -->
 			<article id="local_events">
@@ -478,33 +488,32 @@ alert('Thank you for subscribing.')
 
 
 
-	<h2>June</h2>
+	<h2>December</h2>
 	<ul style="margin:0px;">
 		
 			<li><strong>
-				
 				 
 				
-				<a href="http://walk.kidney.org/centralnj" target="NKF" class="info">Central NJ Kidney Walk</a>
+				<a href="http://www.kidney.org/site/113/pdf/02-98-6090_GBD_ProfSymp_WV120513_STD.pdf" target="NKF" class="info">Professional Education Symposium Chronic Kidney Disease Update</a>
 				
 				
 				</strong>
 				
 				<br>
-June 2, 2013
+December 5, 2013
 				
 
 				<span class="small">
 				
 					<br>
-Trenton Thunder Ball Park -
+Stonewall Resort -
 				
 				
-Trenton,
+Roanoke,
 					
 				
 				
-NJ
+WV
 				
 				 
 				</span>
@@ -515,26 +524,28 @@ NJ
 			</li>
 		
 			<li><strong>
-				
 				 
 				
-				<a href="http://donate.kidney.org/site/TR/Walk/SouthernCalifornia?pg=entry&amp;fr_id=5543" target="NKF" class="info">Orange County Kidney Walk</a>
+				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=1025" target="NKF" class="info">NKF Cadillac Golf Classic</a>
 				
 				
 				</strong>
 				
 				<br>
-June 2, 2013
+December 9, 2013
 				
 
 				<span class="small">
 				
-				<br>
-Orange County,
+					<br>
+Tiburon Golf Club -
+				
+				
+Naples,
 					
 				
 				
-CA
+FL
 				
 				 
 				</span>
@@ -545,55 +556,21 @@ CA
 			</li>
 		
 			<li><strong>
-				
 				 
 				
-				<a href="http://donate.kidney.org/site/TR/Walk/EastTennessee?pg=entry&amp;fr_id=5580" target="NKF" class="info">Cincinnati Kidney Walk</a>
+				<a href="http://www.kidney.org/site/503/pdf/YKAY_CHRC_Dec-11-1.pdf" target="NKF" class="info">Your Kidneys and You</a>
 				
 				
 				</strong>
 				
 				<br>
-June 2, 2013
+December 11, 2013
 				
 
 				<span class="small">
 				
 					<br>
-The National Underground Railroad Freedom Center -
-				
-				
-Cincinnati,
-					
-				
-				
-OH
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://donate.kidney.org/site/TR/Walk/NCaliforniaNNevadaOregonWashingtonandAlaska?pg=entry&amp;fr_id=5621" target="NKF" class="info">San Francisco Kidney Walk</a>
-				
-				
-				</strong>
-				
-				<br>
-June 2, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Justin Herman Plaza -
+Level A Conference Room -
 				
 				
 San Francisco,
@@ -611,29 +588,65 @@ CA
 			</li>
 		
 			<li><strong>
-				
 				 
 				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=750" target="NKF" class="info">NKF Cadillac Golf Classic</a>
+				<a href="http://www.kidney.org/site/112/pdf/KristmasForKidneys.pdf" target="NKF" class="info">Kristmas For Kidneys</a>
 				
 				
 				</strong>
 				
 				<br>
-June 3, 2013
+December 11, 2013
 				
 
 				<span class="small">
 				
 					<br>
-The Golf Club of Briars Creek -
+Stella Rossa Ristorante -
 				
 				
-Charleston,
+Philadelphia,
 					
 				
 				
-SC
+PA
+				
+				 
+				</span>
+	
+				
+					
+				
+			</li>
+		
+	</ul>
+
+	<h2>January (2014)</h2>
+	<ul style="margin:0px;">
+		
+			<li><strong>
+				 
+				
+				<a href="/calendar/event.cfm?event=1078" target="NKF" class="info">KEEP Healthy</a>
+				
+				
+				</strong>
+				
+				<br>
+January 11, 2014
+				 - January 19, 2014
+
+				<span class="small">
+				
+					<br>
+Walter E. Washington Convention Center -
+				
+				
+Washington,
+					
+				
+				
+DC
 				
 				 
 				</span>
@@ -644,64 +657,56 @@ SC
 			</li>
 		
 			<li><strong>
-				
 				 
 				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=814" target="NKF" class="info">NKF Cadillac Golf Classic</a>
+				<a href="http://www.kidney.org/site/203/nbc4Expo.cfm" target="NKF" class="info">The NBC4 Health &amp; Fitness Expo</a>
 				
 				
 				</strong>
 				
 				<br>
-June 3, 2013
-				
+January 11, 2014
+				 - January 12, 2014
 
 				<span class="small">
 				
 					<br>
-Belle Haven Country Club -
+Walter E. Washington Convention Center -
 				
 				
-Alexandria,
+Washington,
 					
 				
 				
-VA
+DC
 				
 				 
 				</span>
 	
 				
 					
-						<br>
-						<a href="http://www.kidney.org/news/NKFGolfClassic/local/pdf/NOVA-Golf-Registration-2013.pdf" target="NKF">Register Now</a>
-						
-							* <a href="/about/getacrobat.cfm"><img src="/images/icons/iconPdf.gif" title="Get Adobe Reader" alt="Get Adobe Reader" width="16" height="16" align="absmiddle"></a>
-						
-					
 				
 			</li>
 		
 			<li><strong>
-				
 				 
 				
-				<a href="http://donate.kidney.org/site/TR/Walk/Alleghenies?pg=entry&amp;fr_id=5561" target="NKF" class="info">Erie Kidney Walk</a>
+				<a href="/calendar/event.cfm?event=1145" target="NKF" class="info">Greater Philadelphia Chamber of Commerce Networking</a>
 				
 				
 				</strong>
 				
 				<br>
-June 8, 2013
+January 16, 2014
 				
 
 				<span class="small">
 				
 					<br>
-Presque Isle State Park -
+National Kidney Foundation -
 				
 				
-Erie,
+Philadelphia,
 					
 				
 				
@@ -713,160 +718,31 @@ PA
 				
 					
 						<br>
-						<a href="http://donate.kidney.org/site/TR/Walk/Alleghenies?pg=entry&amp;fr_id=5561" target="NKF">Register Now</a>
+						<a href="https://www.greaterphilachamber.com/register/3608/business-before-hours" target="NKF">Register Now</a>
 						
 					
 				
 			</li>
 		
 			<li><strong>
-				
 				 
 				
-				<a href="http://donate.kidney.org/site/TR/Walk/GeorgiaandAlabama?pg=entry&amp;fr_id=5731" target="NKF" class="info">Atlanta Kidney Walk</a>
+				<a href="/calendar/event.cfm?event=1147" target="NKF" class="info">Coffee House Conversation</a>
 				
 				
 				</strong>
 				
 				<br>
-June 8, 2013
+January 16, 2014
 				
 
 				<span class="small">
 				
 					<br>
-Turner Field -
+Marble Cliff Commons -
 				
 				
-Atlanta,
-					
-				
-				
-GA
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://donate.kidney.org/site/TR/Walk/Indiana?pg=entry&amp;fr_id=5570" target="NKF" class="info">Indianapolis Kidney Walk</a>
-				
-				
-				</strong>
-				
-				<br>
-June 8, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Indiana Historical Society &amp; The Canal Walk -
-				
-				
-Indianapolis,
-					
-				
-				
-IN
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-					KEEP -
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=987" target="NKF" class="info">Vallabhdham Temple - 26 Church St</a>
-				
-				
-				</strong>
-				
-				<br>
-June 8, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Vallabhdham Temple -
-				
-				
-Newington,
-					
-				
-				
-CT
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=962" target="NKF" class="info">Kidney Day with the Rays</a>
-				
-				
-				</strong>
-				
-				<br>
-June 9, 2013
-				
-
-				<span class="small">
-				
-				
-				
-FL
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://donate.kidney.org/site/TR/Walk/Ohio?pg=entry&amp;fr_id=5540" target="NKF" class="info">Northeast Ohio Kidney Walk</a>
-				
-				
-				</strong>
-				
-				<br>
-June 9, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Great Lakes Science Center -
-				
-				
-Cleveland,
+Columbia,
 					
 				
 				
@@ -881,107 +757,97 @@ OH
 			</li>
 		
 			<li><strong>
-				
 				 
 				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=809" target="NKF" class="info">NKF Cadillac Golf Classic</a>
+				<a href="/calendar/event.cfm?event=1151" target="NKF" class="info">The 29th Annual Chocolate Fantasy</a>
 				
 				
 				</strong>
 				
 				<br>
-June 10, 2013
+January 25, 2014
 				
 
 				<span class="small">
 				
 					<br>
-Richmond Country Club -
+Oak Court Mall -
 				
 				
-Richmond,
+Memphis,
 					
 				
 				
-VA
+TN
 				
 				 
 				</span>
 	
 				
 					
-						<br>
-						<a href="http://www.kidney.org/news/NKFGolfClassic/local/pdf/Richmond-Golf-Classic-Registration-2013.pdf" target="NKF">Register Now</a>
-						
-							* <a href="/about/getacrobat.cfm"><img src="/images/icons/iconPdf.gif" title="Get Adobe Reader" alt="Get Adobe Reader" width="16" height="16" align="absmiddle"></a>
-						
-					
 				
 			</li>
 		
+	</ul>
+
+	<h2>February (2014)</h2>
+	<ul style="margin:0px;">
+		
 			<li><strong>
-				
 				 
 				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=828" target="NKF" class="info">NKF Cadillac Golf Classic</a>
+				<a href="/calendar/event.cfm?event=1074" target="NKF" class="info">CRN South Carolina Chapter Meeting</a>
 				
 				
 				</strong>
 				
 				<br>
-June 10, 2013
+February 6, 2014
 				
 
 				<span class="small">
 				
 					<br>
-Irondequoit Country Club -
+Wm. Jennings Bryan Dorn VA Med Ctr - VA SOM campus, Building 3, M2 classroom -
 				
 				
-Rochester,
+Columbia,
 					
 				
 				
-NY
+SC
 				
 				 
 				</span>
 	
 				
 					
-						<br>
-						<a href="http://www.kidney.org/news/NKFGolfClassic/local/pdf/ROC2013 Irondequoit Foursome Registration Form_1.pdf" target="NKF">Register Now</a>
-						
-							* <a href="/about/getacrobat.cfm"><img src="/images/icons/iconPdf.gif" title="Get Adobe Reader" alt="Get Adobe Reader" width="16" height="16" align="absmiddle"></a>
-						
-					
 				
 			</li>
 		
 			<li><strong>
-				
 				 
 				
-				<a href="/calendar/event.cfm?event=910" target="NKF" class="info">2013 Kidney Golf Classic</a>
+				<a href="/calendar/event.cfm?event=1053" target="NKF" class="info">Support Group</a>
 				
 				
 				</strong>
 				
 				<br>
-June 10, 2013
+February 9, 2014
 				
 
 				<span class="small">
 				
 					<br>
-Cavalry Club -
+Baylor All Saints Medical Center -
 				
 				
-Manlius,
+Fort Worth,
 					
 				
 				
-NY
+TX
 				
 				 
 				</span>
@@ -992,533 +858,21 @@ NY
 			</li>
 		
 			<li><strong>
-				
 				 
 				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=829" target="NKF" class="info">NKF Cadillac Golf Classic</a>
+				<a href="/calendar/event.cfm?event=1090" target="NKF" class="info">Support Group</a>
 				
 				
 				</strong>
 				
 				<br>
-June 10, 2013
+February 9, 2014
 				
 
 				<span class="small">
 				
 					<br>
-Lake Forest Country Club -
-				
-				
-Louisville,
-					
-				
-				
-KY
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=831" target="NKF" class="info">NKF Cadillac Golf Classic</a>
-				
-				
-				</strong>
-				
-				<br>
-June 11, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Boston Golf Club -
-				
-				
-Boston,
-					
-				
-				
-MA
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=764" target="NKF" class="info">Fellows Research Forum</a>
-				
-				
-				</strong>
-				
-				<br>
-June 12, 2013
-				
-
-				<span class="small">
-				
-				<br>
-Bethesda,
-					
-				
-				
-MD
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=896" target="NKF" class="info">NKF of Indiana/Steel Dynamic's 12th Annual 2013 Golf Classic</a>
-				
-				
-				</strong>
-				
-				<br>
-June 12, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Bridgewater Golf Club (East &amp; West) -
-				
-				
-Auburn,
-					
-				
-				
-IN
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=953" target="NKF" class="info">What you need to know about Kidney Transplantation... and Living Donation!</a>
-				
-				
-				</strong>
-				
-				<br>
-June 13, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Holiday Inn -
-				
-				
-Plainview,
-					
-				
-				
-NY
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-					KEEP -
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=1001" target="NKF" class="info">Boise Senior Activities Center - 690 Robbins Road</a>
-				
-				
-				</strong>
-				
-				<br>
-June 14, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Boise Senior Activities Center -
-				
-				
-Boise,
-					
-				
-				
-ID
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://donate.kidney.org/site/TR/Walk/COMTampWY?pg=entry&amp;fr_id=5730" target="NKF" class="info">Billings Kidney Walk</a>
-				
-				
-				</strong>
-				
-				<br>
-June 15, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Riverfront Park -
-				
-				
-Billings,
-					
-				
-				
-MT
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://donate.kidney.org/site/TR/Walk/Indiana?pg=entry&amp;fr_id=5546" target="NKF" class="info">Northeast Indiana Kidney Walk</a>
-				
-				
-				</strong>
-				
-				<br>
-June 15, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Headwaters Park (West) -
-				
-				
-Fort Wayne,
-					
-				
-				
-IN
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-					KEEP -
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=1002" target="NKF" class="info">Nampa Senior Center - 131 Constitution Way</a>
-				
-				
-				</strong>
-				
-				<br>
-June 15, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Nampa Senior Center -
-				
-				
-Nampa,
-					
-				
-				
-ID
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=834" target="NKF" class="info">NKF Cadillac Golf Classic</a>
-				
-				
-				</strong>
-				
-				<br>
-June 17, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Legends Golf Club -
-				
-				
-Minneapolis,
-					
-				
-				
-MN
-				
-				 
-				</span>
-	
-				
-					
-						<br>
-						<a href="http://www.kidney.org/news/NKFGolfClassic/local/pdf/MN-Legends-Golf13_TeamRegForm.pdf" target="NKF">Register Now</a>
-						
-							* <a href="/about/getacrobat.cfm"><img src="/images/icons/iconPdf.gif" title="Get Adobe Reader" alt="Get Adobe Reader" width="16" height="16" align="absmiddle"></a>
-						
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=815" target="NKF" class="info">NKF Cadillac Golf Classic</a>
-				
-				
-				</strong>
-				
-				<br>
-June 17, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Whiskey Creek Golf Course -
-				
-				
-Frederick,
-					
-				
-				
-MD
-				
-				 
-				</span>
-	
-				
-					
-						<br>
-						<a href="http://www.kidney.org/news/NKFGolfClassic/local/pdf/National-Capital-Area-Golf-Registration-2013.pdf" target="NKF">Register Now</a>
-						
-							* <a href="/about/getacrobat.cfm"><img src="/images/icons/iconPdf.gif" title="Get Adobe Reader" alt="Get Adobe Reader" width="16" height="16" align="absmiddle"></a>
-						
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=833" target="NKF" class="info">NKF Cadillac Golf Classic</a>
-				
-				
-				</strong>
-				
-				<br>
-June 17, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Hyperion Field Club -
-				
-				
-Des Moines,
-					
-				
-				
-IA
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=898" target="NKF" class="info">Magic of Giving Gala</a>
-				
-				
-				</strong>
-				
-				<br>
-June 20, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Grand Street Ballroom -
-				
-				
-Kansas City,
-					
-				
-				
-MO
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://www.kidney.org/site/305/pcpConference.cfm" target="NKF" class="info">Primary Care Provider Conference</a>
-				
-				
-				</strong>
-				
-				<br>
-June 21, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Embassy Suites - Kansas City Plaza -
-				
-				
-Kansas City,
-					
-				
-				
-MO
-				
-				 
-				</span>
-	
-				
-					
-						<br>
-						<a href="https://www.kidney.org/members/source/events/event.cfm?event=KS_130621" target="NKF">Register Now</a>
-						
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://donate.kidney.org/site/TR/Walk/MinnesotatheDakotasampIowa?pg=entry&amp;fr_id=5750" target="NKF" class="info">Sioux Falls Kidney Walk</a>
-				
-				
-				</strong>
-				
-				<br>
-June 22, 2013
-				
-
-				<span class="small">
-				
-				<br>
-Sioux Falls,
-					
-				
-				
-SD
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-					KEEP -
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=1011" target="NKF" class="info">Jubilee Park Community Center - 907 Bank Street</a>
-				
-				
-				</strong>
-				
-				<br>
-June 22, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Jubilee Park Community Center -
+Medical City Dallas Hospital -
 				
 				
 Dallas,
@@ -1536,24 +890,85 @@ TX
 			</li>
 		
 			<li><strong>
-				
-					KEEP -
-				
 				 
 				
-				<a href="/calendar/event.cfm?event=997" target="NKF" class="info">West Kendall Baptist Church - 14955 SW 88th Street</a>
+				<a href="http://www.kidney.org/site/110/pdf/2014_SADACharityPreviewSTD.pdf" target="NKF" class="info">2014 Syracuse Auto Dealer's Charity Preview Night</a>
 				
 				
 				</strong>
 				
 				<br>
-June 22, 2013
+February 12, 2014
 				
 
 				<span class="small">
 				
 					<br>
-West Kendall Baptist Church -
+Oncenter -
+				
+				
+Syracuse,
+					
+				
+				
+NY
+				
+				 
+				</span>
+	
+				
+					
+				
+			</li>
+		
+			<li><strong>
+				 
+				
+				<a href="/calendar/event.cfm?event=1095" target="NKF" class="info">KEEP Healthy</a>
+				
+				
+				</strong>
+				
+				<br>
+February 22, 2014
+				
+
+				<span class="small">
+				
+					<br>
+Charleston City Gym -
+				
+				
+Charleston,
+					
+				
+				
+SC
+				
+				 
+				</span>
+	
+				
+					
+				
+			</li>
+		
+			<li><strong>
+				 
+				
+				<a href="http://donate.kidney.org/site/TR/Walk/Florida?pg=entry&amp;fr_id=6410" target="NKF" class="info">Miami Kidney Walk</a>
+				
+				
+				</strong>
+				
+				<br>
+February 23, 2014
+				
+
+				<span class="small">
+				
+					<br>
+Bayfront Park -
 				
 				
 Miami,
@@ -1561,744 +976,6 @@ Miami,
 				
 				
 FL
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-					KEEP -
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=1003" target="NKF" class="info">Olivet Fellowship Baptist Church - 4450 Knight Arnold Road</a>
-				
-				
-				</strong>
-				
-				<br>
-June 22, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Olivet Fellowship Baptist Church -
-				
-				
-Memphis,
-					
-				
-				
-TN
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-					KEEP -
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=988" target="NKF" class="info">Ismaili Center - 92-60 Queens Blvd</a>
-				
-				
-				</strong>
-				
-				<br>
-June 22, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Ismaili Center -
-				
-				
-Rego Park,
-					
-				
-				
-NY
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-					KEEP -
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=989" target="NKF" class="info">St Joseph Minority Health Coalition Center - 2806 Lincoln Way West</a>
-				
-				
-				</strong>
-				
-				<br>
-June 22, 2013
-				
-
-				<span class="small">
-				
-					<br>
-St Joseph Minority Health Coalition Center -
-				
-				
-South Bend,
-					
-				
-				
-IN
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=765" target="NKF" class="info">Kappa Kidney Camp</a>
-				
-				
-				</strong>
-				
-				<br>
-June 23, 2013
-				 - June 28, 2013
-
-				<span class="small">
-				
-					<br>
-Recreation Unlimited -
-				
-				
-Ashley,
-					
-				
-				
-OH
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=777" target="NKF" class="info">NKF Cadillac Golf Classic</a>
-				
-				
-				</strong>
-				
-				<br>
-June 24, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Green Valley Ranch Golf Club -
-				
-				
-Denver,
-					
-				
-				
-CO
-				
-				 
-				</span>
-	
-				
-					
-						<br>
-						<a href="http://www.kidney.org/members/source/events/event.cfm?event=CMW_130624" target="NKF">Register Now</a>
-						
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=835" target="NKF" class="info">NKF Cadillac Golf Classic</a>
-				
-				
-				</strong>
-				
-				<br>
-June 24, 2013
-				
-
-				<span class="small">
-				
-					<br>
-The Mayfield Sand Ridge Club -
-				
-				
-Cleveland,
-					
-				
-				
-OH
-				
-				 
-				</span>
-	
-				
-					
-						<br>
-						<a href="http://www.kidney.org/news/NKFGolfClassic/local/pdf/Mayfield-ClevelandGolferRegistrationForm2013.pdf" target="NKF">Register Now</a>
-						
-							* <a href="/about/getacrobat.cfm"><img src="/images/icons/iconPdf.gif" title="Get Adobe Reader" alt="Get Adobe Reader" width="16" height="16" align="absmiddle"></a>
-						
-					
-				
-			</li>
-		
-			<li><strong>
-				
-					KEEP -
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=1004" target="NKF" class="info">University of LA: College of Pharmacy - 1800 Bienville Drive</a>
-				
-				
-				</strong>
-				
-				<br>
-June 26, 2013
-				
-
-				<span class="small">
-				
-					<br>
-University of LA: College of Pharmacy -
-				
-				
-Monroe,
-					
-				
-				
-LA
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=836" target="NKF" class="info">NKF Cadillac Golf Classic</a>
-				
-				
-				</strong>
-				
-				<br>
-June 27, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Whitmoor Country Club -
-				
-				
-St. Louis,
-					
-				
-				
-MO
-				
-				 
-				</span>
-	
-				
-					
-						<br>
-						<a href="http://www.kidney.org/members/source/events/event.cfm?event=EMO_130627" target="NKF">Register Now</a>
-						
-					
-				
-			</li>
-		
-			<li><strong>
-				
-					KEEP -
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=922" target="NKF" class="info">Brigham City Fire Department Conference Room - 442 South Forest Street</a>
-				
-				
-				</strong>
-				
-				<br>
-June 27, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Brigham City Fire Department Conference Room -
-				
-				
-Brigham City,
-					
-				
-				
-UT
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-					KEEP -
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=1005" target="NKF" class="info">Mount Canaan Baptist Church - 1666 Alston Street</a>
-				
-				
-				</strong>
-				
-				<br>
-June 28, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Mount Canaan Baptist Church -
-				
-				
-Shreveport
-				
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-					KEEP -
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=1010" target="NKF" class="info">Joint Heirs Christian Center - 2100 Dunn Ave</a>
-				
-				
-				</strong>
-				
-				<br>
-June 29, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Joint Heirs Christian Center -
-				
-				
-Jacksonville,
-					
-				
-				
-FL
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-					KEEP -
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=1006" target="NKF" class="info">Greater Community COGIC - 5151 Winchester Road</a>
-				
-				
-				</strong>
-				
-				<br>
-June 29, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Greater Community COGIC -
-				
-				
-Memphis,
-					
-				
-				
-TN
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-	</ul>
-
-	<h2>July</h2>
-	<ul style="margin:0px;">
-		
-			<li><strong>
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=990" target="NKF" class="info">Georgia Academy of Physician Assistants</a>
-				
-				
-				</strong>
-				
-				<br>
-July 16, 2013
-				
-
-				<span class="small">
-				
-				<br>
-Hilton Head,
-					
-				
-				
-GA
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://www.choa.org/campindependence" target="NKF" class="info">Camp Independence</a>
-				
-				
-				</strong>
-				
-				<br>
-July 21, 2013
-				 - July 26, 2013
-
-				<span class="small">
-				
-					<br>
-Camp Twin Lakes -
-				
-				
-Rutledge,
-					
-				
-				
-GA
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://donate.kidney.org/site/TR/Walk/CentralNewYork?pg=entry&amp;fr_id=6130" target="NKF" class="info">Northern New York Kidney Walk</a>
-				
-				
-				</strong>
-				
-				<br>
-July 28, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Cerow Recreation Park Pavilion -
-				
-				
-Clayton,
-					
-				
-				
-NY
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-	</ul>
-
-	<h2>August</h2>
-	<ul style="margin:0px;">
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=927" target="NKF" class="info">NKF Cadillac Golf Classic</a>
-				
-				
-				</strong>
-				
-				<br>
-August 5, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Barton Hills Country Club -
-				
-				
-Ann Arbor,
-					
-				
-				
-MI
-				
-				 
-				</span>
-	
-				
-					
-						<br>
-						<a href="http://www.kidney.org/news/NKFGolfClassic/local/pdf/2013-Barton-Hills-Registration-Fax-Form.pdf" target="NKF">Register Now</a>
-						
-							* <a href="/about/getacrobat.cfm"><img src="/images/icons/iconPdf.gif" title="Get Adobe Reader" alt="Get Adobe Reader" width="16" height="16" align="absmiddle"></a>
-						
-					
-				
-			</li>
-		
-			<li><strong>
-				
-					KEEP -
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=1012" target="NKF" class="info">Abundant Life Food Pantry - 995 S Sawyer Rd</a>
-				
-				
-				</strong>
-				
-				<br>
-August 10, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Abundant Life Food Pantry -
-				
-				
-Oconomowoc,
-					
-				
-				
-WI
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://www.kidney.org/site/503/pdf/PatientPicnicFlyer&amp;NominationForm.pdf" target="NKF" class="info">Patient Professional &amp; Community Picnic</a>
-				
-				
-				</strong>
-				
-				<br>
-August 11, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Peninsula Park -
-				
-				
-Portland,
-					
-				
-				
-OR
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="/calendar/event.cfm?event=991" target="NKF" class="info">North Carolina Academy of Physician Assistants</a>
-				
-				
-				</strong>
-				
-				<br>
-August 19, 2013
-				 - August 21, 2013
-
-				<span class="small">
-				
-				<br>
-North Myrtle Beach,
-					
-				
-				
-NC
-				
-				 
-				</span>
-	
-				
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=888" target="NKF" class="info">National Kidney Foundation Cadillac Golf Classic</a>
-				
-				
-				</strong>
-				
-				<br>
-August 26, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Meadowbrook Country Club -
-				
-				
-Detroit,
-					
-				
-				
-MI
-				
-				 
-				</span>
-	
-				
-					
-						<br>
-						<a href="http://www.kidney.org/news/NKFGolfClassic/local/pdf/2013-Klisz-Registration-Fax-Form.pdf" target="NKF">Register Now</a>
-						
-							* <a href="/about/getacrobat.cfm"><img src="/images/icons/iconPdf.gif" title="Get Adobe Reader" alt="Get Adobe Reader" width="16" height="16" align="absmiddle"></a>
-						
-					
-				
-			</li>
-		
-			<li><strong>
-				
-				 
-				
-				<a href="http://www.kidney.org/news/NKFGolfClassic/local/index.cfm?eID=980" target="NKF" class="info">NkF Cadillac Golf Classic</a>
-				
-				
-				</strong>
-				
-				<br>
-August 26, 2013
-				
-
-				<span class="small">
-				
-					<br>
-Southwind Country Club -
-				
-				
-Memphis,
-					
-				
-				
-TN
 				
 				 
 				</span>
@@ -2320,16 +997,17 @@ TN
 			<article id="social-connect">
 				<h2 class="box"><img src="/images/user_48.png" alt="Connect With Us" title="Connect With Us" width="36" height="36" border="0" align="left" style="margin-top:-15px;">Connect With Us</h2>
 				
-				<a href="http://twitter.com/nkf" target="NKF" title="twitter"><img src="/images/twitter.png" alt="twitter" title="twitter" width="48" height="48" border="0" style="margin-left:12px; margin-right:15px;"></a><a href="http://www.facebook.com/pages/National-Kidney-Foundation-Inc/35677414105" target="NKF" title="facebook"><img src="/images/facebook.png" alt="facebook" title="facebook" width="48" height="48" border="0" style="margin-left:10px; margin-right:15px;"></a><a href="http://www.linkedin.com/company/national-kidney-foundation" target="NKF" title="LinkedIn"><img src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" width="48" height="48" border="0" style="margin-left:10px; margin-right:15px;"></a><a href="http://www.youtube.com/user/KidneyFoundation" target="NKF" title="youtube"><img src="/images/youtube.png" alt="youtube" title="youtube" width="48" height="48" border="0" style="margin-left:10px; margin-right:15px;"></a><a href="http://goo.gl/0j8xQ" target="NKF" title="Google+"><img src="/images/googleplus.png" alt="Google+" title="Google+" width="48" height="48" border="0"></a><a href="http://pinterest.com/nationalkidney/" target="NKF" title="Pinterest"><img src="/images/pinterest.png" alt="Pinterest" title="Pinterest" width="48" height="48" border="0"></a><a href="http://www.flickr.com/photos/nationalkidneyfoundation/collections/" target="NKF" title="Flickr"><img src="/images/flickr.png" alt="Flickr" title="Flickr" width="48" height="48" border="0"></a>
+				<a href="http://twitter.com/nkf" target="NKF" title="twitter"><img src="/images/twitter.png" alt="twitter" title="twitter" width="48" height="48" border="0" style="margin-left:12px; margin-right:15px;"></a><a href="http://www.facebook.com/pages/National-Kidney-Foundation-Inc/35677414105" target="NKF" title="facebook"><img src="/images/facebook.png" alt="facebook" title="facebook" width="48" height="48" border="0" style="margin-left:10px; margin-right:15px;"></a><a href="http://www.linkedin.com/company/national-kidney-foundation" target="NKF" title="LinkedIn"><img src="/images/linkedin.png" alt="LinkedIn" title="LinkedIn" width="48" height="48" border="0" style="margin-left:10px; margin-right:15px; margin-left:10px; margin-right:15px;"></a><a href="http://www.youtube.com/user/KidneyFoundation" target="NKF" title="youtube"><img src="/images/youtube.png" alt="youtube" title="youtube" width="48" height="48" border="0" style="margin-left:10px; margin-right:15px;"></a><a href="http://goo.gl/0j8xQ" target="NKF" title="Google+"><img src="/images/googleplus.png" alt="Google+" title="Google+" width="48" height="48" border="0"></a><a href="http://pinterest.com/nationalkidney/" target="NKF" title="Pinterest"><img src="/images/pinterest.png" alt="Pinterest" title="Pinterest" width="48" height="48" border="0"></a><a href="http://www.flickr.com/photos/nationalkidneyfoundation/collections/" target="NKF" title="Flickr"><img src="/images/flickr.png" alt="Flickr" title="Flickr" width="48" height="48" border="0"></a>
 				
 			</article>
 			<!-- [end] social connect -->
             <!-- [start] Blogs -->
             <article id="blog">
+				<!-- <div id="divRss_ATD"></div> -->
 				<h2 class="box"><img src="/images/rss.png" alt="Read Our Blogs" title="Read Our Blogs" width="36" height="36" border="0" align="left" style="margin-top:-15px;">Read Our Blogs</h2>
-                 <h3><a href="http://kidneyfoundation.wordpress.com/" target="_blank">Ask The Doctor</a> | <a href="http://nkfadvocacy.wordpress.com/" target="_blank">Advocacy in Action</a></h3>
-                <!-- <div id="divRss_ATD"></div> -->
-                <h3 style="margin-bottom:5px;"><a href="http://nkfstayinghealthy.wordpress.com/" target="_blank">Staying Healthy</a> | <a href="http://kidneywalk.wordpress.com/" target="_blank">Kidney Walk Talk</a></h3>
+				<h3><a href="http://kidneyfoundation.wordpress.com/" target="_blank">Ask The Doctor</a> | <a href="http://nkfadvocacy.wordpress.com/" target="_blank">Advocacy in Action</a></h3>
+				<h3 style="margin-bottom:5px;"><a href="http://nkfstayinghealthy.wordpress.com/" target="_blank">Staying Healthy</a> | <a href="http://kidneywalk.wordpress.com/" target="_blank">Kidney Walk Talk</a></h3>
+				<h3 style="margin-bottom:5px;"><a href="http://nkfdietitian.wordpress.com/" target="_blank">Ask the Dietitian</a> | <a href="http://nkfpressurepoint.wordpress.com/" target="_blank">The Pressure Point</a></h3>
             </article>
             <!-- [end] Blogs -->
             
@@ -2398,18 +1076,15 @@ TN
 		<div id="left-column">
         <div class="tagline"><img src="https://www.kidney.org/images/tagline.jpg" width="255" height="26" alt="Awareness - Prevention - Treatment"></div>
         <div id="our_mission">
-			<p><strong>Our Mission</strong> The National Kidney Foundation, a major voluntary nonprofit health organization, is dedicated to preventing kidney and urinary tract diseases, improving the health and well-being of individuals and families affected by kidney disease and increasing the availability of all organs for transplantation.</p></div>
-        <div id="our_vision">
-			
-            <p><strong>Our Vision</strong> To enhance the lives of everyone with, at risk of or affected by kidney disease. <br>
-          <a class="various fancybox.iframe" href="http://www.youtube.com/embed/6tkHd9j6NHA?hd=1&amp;autoplay=1">View Overview Video →</a></p></div>
+			<p>The National Kidney Foundation is the leading organization in the U.S. dedicated to the awareness, prevention and treatment of kidney disease for hundreds of thousands of healthcare professionals, millions of patients and their families, and tens of millions of Americans at risk. </p></div>
+       
 			<p>The <a href="http://charityreports.give.org/Public/Report.aspx?CharityID=41" title="national kidney foundation meets the bbb wise giving alliance's standards for charity accountability" target="NKF">Better Business Bureau Wise Giving Alliance Charity Seal</a> provides the giving public with an easily recognizable symbol which certifies that the National Kidney Foundation meets the comprehensive standards of America's most experienced charity evaluator.</p>
 
 			<p><a href="http://www.kidney.org/about/privacy.cfm" title="Our Privacy Policy">Our Privacy Policy</a><br>
 				© 2013 National Kidney Foundation, Inc., 30 East 33rd Street, New York, NY 10016, 1-800-622-9010. We subscribe to the HONcode principles of the Health on the Net Foundation. <a href="http://www.hon.ch/HONcode/Conduct.html?HONConduct627563" target="NKF" title="We subscribe to the HONcode principles of the Health on the Net Foundation.">Verify here</a></p>
 
 			<p><a href="http://charityreports.give.org/Public/Report.aspx?CharityID=41" title="national kidney foundation meets the bbb wise giving alliance's standards for charity accountability" target="NKF"><img src="https://www.kidney.org/images/logo_bbb.jpg" alt="national kidney foundation meets the bbb wise giving alliance's standards for charity accountability" title="national kidney foundation meets the bbb wise giving alliance's standards for charity accountability" height="63" border="0" width="36"></a> <a target="NKF" href="https://www.hon.ch/HONcode/Conduct.html?HONConduct627563" title="We subscribe to the HONcode principles of the Health on the Net Foundation."><img src="https://www.honcode.ch/HONcode/Seal/HONConduct627563.jpg" title="This website is certified by Health On the Net Foundation. Click to verify." alt="HONcode certification seal." height="72" border="0" width="49"></a>  
-             <a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=4185" target="NKF"><img src="https://www.kidney.org/images/logo_charity_navigator.png" alt="Charity Navigator" title="SafeSite" width="120" height="60" border="0"></a></p>
+             </p>
 		</div>
 		<nav>
 			<ul>
@@ -2480,7 +1155,7 @@ JAVASCRIPTS
 <script type="text/javascript">
 $(function () {
 	var austDay = new Date();
-	austDay = new Date(austDay.getFullYear() + 0, 3 - 1, 14);
+	austDay = new Date(austDay.getFullYear() + 0, 12 - 1, 1);
 	$('#defaultCountdown').countdown({until: austDay});
 	$('#year').text(austDay.getFullYear());
 });
