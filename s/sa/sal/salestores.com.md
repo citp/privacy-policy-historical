@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salestores.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525195535id_/http%3A//salestores.com/privacypolic.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salestores.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206102431id_/http%3A//salestores.com/privacypolic.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy and Security Policy
 
 ##  Information Collection and Use
 
@@ -31,7 +31,7 @@ We use IP addresses to analyze trends, administer the site, track user movement,
 
 We may employ third party companies to perform functions on our behalf. These functions may include order fulfillment, package delivery, marketing assistance, postal and e-mail delivery, customer service, data analysis, and credit processing. The third parties we contract for these purposes have limited access to your personal information and may not use it for other purposes.
 
-|  _FedEx Corporation_  
+_FedEx Corporation_  
 942 South Shady Grove Road  
 Memphis, TN 38120  
 1-800-GO-FEDEX  
