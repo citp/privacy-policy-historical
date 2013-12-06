@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the hilarious-pictures.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516212231id_/http%3A//www.hilarious-pictures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hilarious-pictures.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207001429id_/http%3A//www.hilarious-pictures.com/policy) for the most accurate reproduction.*
 
-# Hilarious Pictures
+# Privacy Policy
 
-Hilarious-Pictures.com understands the importance of privacy and is committed to protecting the privacy of your personal information. This Privacy Policy explains how Hilarious-Pictures.com collects and uses your personal information.
+Hilarious-pictures.com understands the importance of privacy and is committed to protecting the privacy of your personal information. This Privacy Policy explains how Hilarious-pictures.com collects and uses your personal information.
 
 ## What personal information do we collect?
 
-Hilarious-Pictures.com collects non-personally identifiable information when you visit our website ([www.Hilarious-Pictures.com](http://www.hilarious-pictures.com/ "www.Hilarious-Pictures.com")). This data includes your IP address, the IP address and URL of the Website that sent you to the Hilarious-Pictures.com main page, browser cookie and browser type. This data is automatically recorded in our server logs and is used to manage the website, track usage and improve the Hilarious-Pictures.com website and services.  
-When you use Hilarious-Pictures.com services, all submitted information, uploaded data and result of usage will be stored on the web server for a maximum of 24 hours exclusively for your convenience.  
+Hilarious-pictures.com collects non-personally identifiable information when you visit our website (Hilarious-pictures.com). This data includes your IP address, the IP address and URL of the Website that sent you to the Hilarious-pictures.com main page, browser cookie and browser type. This data is automatically recorded in our server logs and is used to manage the website, track usage and improve the Hilarious-pictures.com website and services.  
+When you use Hilarious-pictures.com services, all submitted information, uploaded data and result of usage will be stored on the web server for a maximum of 24 hours exclusively for your convenience.  
 We will not sell, rent or otherwise distribute your personal information to third parties.
 
 ## How do we use cookies?
@@ -17,4 +17,4 @@ Google is one of the third-party advertising companies used to serve ads on our 
 
 ## Links to other sites
 
-We may provide links to other websites and products. If you choose to visit a third party website or use its products or services, please be aware that the third party's privacy policy, not this Privacy Policy, will be in effect. Please review the privacy policies of these sites in order to understand their privacy policies and data collection practices. Hilarious-Pictures.com is not responsible for the privacy or security practices or the content of these websites.
+We may provide links to other websites and products. If you choose to visit a third party website or use its products or services, please be aware that the third party's privacy policy, not this Privacy Policy, will be in effect. Please review the privacy policies of these sites in order to understand their privacy policies and data collection practices. Hilarious-pictures.com is not responsible for the privacy or security practices or the content of these websites.
