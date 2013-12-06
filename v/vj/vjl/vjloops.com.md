@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vjloops.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515013702id_/http%3A//www.vjloops.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vjloops.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206134231id_/http%3A//www.vjloops.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # VJ Loops- Royalty Free Stock Footage, Media and Visuals
 
