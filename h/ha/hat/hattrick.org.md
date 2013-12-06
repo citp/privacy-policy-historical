@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hattrick.org privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227082800id_/http%3A//www94.hattrick.org/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hattrick.org privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206181341id_/http%3A//www.hattrick.org/Help/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy statement » Help » Hattrick
+# Privacy » Help » Hattrick
 
 **Hattrick Ltd, a company with its registered address at Suites 41/42, Victoria House, 26 Main Street, Gibraltar,** publisher of Hattrick.org, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this [Web site.](http://www.hattrick.org/)
 
