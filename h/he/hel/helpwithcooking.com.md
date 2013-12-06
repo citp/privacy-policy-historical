@@ -1,0 +1,7 @@
+> *The following text is extracted and transformed from the helpwithcooking.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206014011id_/http%3A//www.helpwithcooking.com/privacy-policy.html) for the most accurate reproduction.*
+
+# Privacy policy - HelpwithCooking.com
+
+HelpwithCooking.com collects personally identifiable information when you use any of our online forms to request information or to make comments/suggestions. When you use these forms we ask for your name, email address and company information, once you have given us this information you are NOT anonymous to us. HelpwithCooking.com also automatically records information from your browser including your IP (Internet Protocol) address, the page you requested and browser information, this information is stored on our server and may be used to calculate the amount of visitors from different countries and to make your visit more enjoyable. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html)
