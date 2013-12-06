@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imoney.my privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523183522id_/http%3A//www.imoney.my/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imoney.my privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206010943id_/http%3A//www.imoney.my/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | iMoney
 
@@ -82,6 +82,12 @@ A cookie is a very small text file placed on your computer. Cookies help us to:
 
 Most cookies are deleted as soon as you close your browser, these are known as session cookies. Others, known as persistent cookies, are stored on your computer either until you delete them or they expire. By using this Service, you consent to us using cookies.
 
+This website uses the following cookies:
+
+Google Analytics: The Google Analytics cookie allows us to see information on user website activity including, but not limited to page views, referral and average time spent on the website. The information is de-personalised and is displayed as numbers, meaning it will not be tracked back to individuals, which helps to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to ensure you have the best user experience possible.
+
+DoubleClick: We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on the website. This allows us to provide targeted advertising in the future.
+
 You can choose to block or delete cookies through your browser settings. If you decide to block or delete our cookies, you will not be able to benefit from the full range of our Services and this may affect the performance of our website on your system.
 
 **Changes to This Policy**
@@ -96,12 +102,11 @@ If you have any questions or comments about this Privacy Policy, contact us at
 
 **Intelligent Money Sdn Bhd (iMoney)**
 
-Suite 402, Level 7  
-The Gardens South Tower  
-Mid Valley City  
-Lingkaran Syed Putra  
-59200 Kuala Lumpur
+Unit No. 50-2-1,  
+Level 2 Wisma UOA Damansara,  
+No. 50 Jalan Dungun, Damansara Heights,  
+50490 Kuala Lumpur.
 
-Telephone: +6 03 2264 5268
+Telephone: +6 03 2106 5434
 
 Email: [hello@iMoney.my](mailto:hello@iMoney.my)
