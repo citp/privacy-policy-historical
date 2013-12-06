@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fxdd.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601220948id_/http%3A//www.fxdd.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxdd.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206055439id_/http%3A//www.fxdd.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FXDD Forex Trading, FX Trade Solutions, Services
 
-[](http://www.fxdd.com/us/en/)
+United States [](http://www.fxdd.com/us/en/)
 
   * [Terms and Conditions](http://www.fxdd.com/us/en/terms-and-conditions/)
   * /
@@ -63,7 +63,9 @@ Should have any questions regarding your account, please contact the Compliance 
 
 NFA #0397435 **MEMBER, NATIONAL FUTURES ASSOCIATION**
 
-You may check FXDD's registration and that of its Associated Persons by visiting the NFA's Background Affiliation Status Information Center (BASIC) at [www.nfa.futures.org](http://www.nfa.futures.org/). *During normal market conditions. The spreads are not fixed and may fluctuate with market volatility. [Click here](http://www.fxdd.com/us/en/forex-resources/forex-trading-tools/live-curency-quotes/) to see our spread chart.
+You may check FXDirectDealer, LLC's (FXDD's) registration and that of its Associated Persons by visiting the NFA's Background Affiliation Status Information Center (BASIC) at[www.nfa.futures.org](http://www.nfa.futures.org/). *During normal market conditions. The spreads are not fixed and may fluctuate with market volatility. [Click here](http://www.fxdd.com/us/en/forex-resources/forex-trading-tools/live-curency-quotes/) to see our spread chart.
+
+FXDirectDealer, LLC ("FXDD") (CICI: 54930058T8RTMEHB3094) is currently seeking provisional registration as a swap dealer. [Read More](http://www.fxdd.com/us/en/forex-resources/faq/is-fxdd-a-registered-swap-dealer/)
 
 **HIGH RISK WARNING:** Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all of your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading, and seek advice from an independent financial or tax advisor if you have any questions.
 
