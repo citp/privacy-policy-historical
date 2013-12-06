@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the porntubemate.com privacy policy that was archived on 2013-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628110504id_/http%3A//www.porntubemate.com/privacy.html%3F) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the porntubemate.com privacy policy that was archived on 2013-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206135347id_/http%3A//www.porntubemate.com/privacy.html%3F) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-  <title>PornTubeMate - Privacy</title>
+  <title>PornTubeMate - Privacy Policy</title>
 
   <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-<link rel="stylesheet" type="text/css" href="http://m1.nsimg.net/2.0/shared/css/20130604/style-min.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://m1.nsimg.net/2.0/shared/css/20130919/style-min.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://m1.nsimg.net/2.0/skin/potm/css/20110321/style-skin-min.css" media="all">
 <!--[if IE 6]><link rel="stylesheet" href="http://m2.nsimg.net/2.0/shared/css/20130501/ie6.css" type="text/css" media="screen" charset="utf-8"><![endif]-->
 <!--[if IE 7]><link rel="stylesheet" href="http://m2.nsimg.net/2.0/shared/css/20130501/ie7.css" type="text/css" media="screen" charset="utf-8"><![endif]-->
@@ -21,7 +21,7 @@
 
 
 
-  <script type="text/javascript" charset="utf-8">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" charset="utf-8">
     sakey = "";
 // -- not implemented for 2.0 --
 
@@ -29,11 +29,26 @@
 </head>
 <body>
 
+<!-- Google Analytics -->
+<script>
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-42563950-4']);
+	_gaq.push(['_setCustomVar', 1, 'Visitor Type', 'Guest']);
+	_gaq.push(['_trackPageview']);
+	
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+<!-- END -->
+
 <div id="header-container" class="container-bg-width">
   <div class="header clearfix ie6-login-fix">
     <h1 class="left"><a href="http://www.porntubemate.com/" title="PornTubeMate Live Cams, Free Sex Cams, Sex 24/7">PornTubeMate Live Cams, Free Sex Cams, Sex 24/7</a></h1>
     <div class="login">
-      <p id="join-button"><a href="http://www.porntubemate.com/signup/?" title="Join PornTubeMate for free"><span>Join Free</span></a></p>
+      <p id="join-button"><a href="http://www.porntubemate.com/signup/?" title="Join PornTubeMate for free" onclick="_gaq.push(['_trackEvent', 'Signup', 'Click', 'Header Button']);"><span>Join Free</span></a></p>
       <div>
         <form action="http://www.porntubemate.com/login.php" method="post" accept-charset="utf-8">
           <input type="hidden" name="trylogin" value="1">
@@ -52,7 +67,7 @@
               <a href="http://www.porntubemate.com/forgot-password/" title="Click here if you forgot your password">Forgot your password?</a>
             </li>
             <li>
-              <input class="header-submit" type="submit" value="Login">
+              <input class="header-submit" type="submit" value="Login" onclick="_gaq.push(['_trackEvent', 'Login', 'Click','Homepage Login']);">
             </li>
           </ul>
         </form>
@@ -75,7 +90,6 @@
         <li class=""><a href="http://www.porntubemate.com/advanced-search.html" title="Search for models">Search</a></li>  
         <li class=""><a href="http://www.porntubemate.com/new.php" title="View the latest models">New Models</a></li>
         <li class=""><a href="http://www.porntubemate.com/customer-service/" title="Contact customer support">Support</a></li>
-        <li class=""><a href="http://www.porntubemate.com/login.php" title="Login to the member's area">Member Login</a></li>
         <li class="">
   <a href="http://www.porntubemate.com/shows/calendar/" title="Show Calendar">
     Show Calendar
@@ -228,7 +242,7 @@
 <noscript>
   <img class="hide" src="http://www.porntubemate.com/pixel/nojs.php" alt="">
 </noscript>
-<script type="text/javascript" src="http://m2.nsimg.net/cache/js/bundle/naiad/20130416/naiad.js"></script>
+<script type="text/javascript" src="http://m2.nsimg.net/cache/js/bundle/naiad/20131015/naiad.js"></script>
 <script type="text/javascript">
 window.suggestmeyes_loaded = true;
 Naiad.Init({mediabase:'http://m1.nsimg.net',state:'',wwwbase:location.protocol+'//'+location.hostname});
@@ -252,7 +266,15 @@ Naiad.OnDomReadyQueue([ 50, function() {
 <script id="sanet" type="text/javascript">
 try
 {
-  SAN.Naiad.init({cookie_domain: '.porntubemate.com'});
+  if (typeof Naiad !== 'undefined' && Naiad.OnDomReadyQueue) {
+    Naiad.OnDomReadyQueue([1, function () {
+      SAN.Naiad.init({cookie_domain: '.porntubemate.com'});
+    }]);
+  } else {
+    $(function () {
+      SAN.Naiad.init({cookie_domain: '.porntubemate.com'});
+    });
+  }
 }
 catch(e)
 {
