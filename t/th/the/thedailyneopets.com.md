@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the thedailyneopets.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602185913id_/http%3A//www.thedailyneopets.com/tdn/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailyneopets.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206180300id_/http%3A//www.thedailyneopets.com/tdn/privacy) for the most accurate reproduction.*
 
 # The Daily Neopets Privacy Policy | The Daily Neopets
-
-## The #1 trusted source for all things neopets: neopets cheats, neopets dailies, neopets guides, neopets plot help, and more!
-
-###  [The Daily Neopets](https://web.archive.org/) › [Site](https://web.archive.org/tdn/index/) › Privacy Policy
 
 **Our Commitment To Privacy**
 
@@ -12,7 +8,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect**
 
-No personal information will be ever collected without consent from the user. The only place where you will ever be asked to entered personal information is on our forums (tdnforums.com), our contact form, and when signing up for a myTDN account. There, you will be asked to fill in your email address and name (other personal information is optional).
+No personal information will be ever collected without consent from the user. The only place where you will ever be asked to entered personal information is on our contact form and when signing up for a myTDN account. There, you will be asked to fill in your email address and name (other personal information is optional).
 
 **The Way We Use Information**
 
