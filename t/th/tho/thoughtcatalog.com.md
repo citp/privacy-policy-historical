@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoughtcatalog.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629210508id_/http%3A//thoughtcatalog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtcatalog.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207003250id_/http%3A//thoughtcatalog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Thought Catalog
 
@@ -6,7 +6,7 @@ Thank you for visiting Thought Catalog, which is owned and operated by The Thoug
 
 **Information We Collect**
 
-When you visit our Site, send us an email, submit an article, or otherwise communicate with us, we may collect personal information that you voluntarily provide to us.  We may also collect personal information from third parties, including without limitation, our business partners.  Personal information is information through which you can be identified such as your name, email address, and telephone number.  In addition, we may use (or authorize third parties to use) web beacons, cookies, pixel tags, and other technologies (“Tracking Technologies”) at our Site to collect information about you, your online behavior, your computer, or your mobile device.  Such information may include, without limitation, the type of browser and operating system you are using, the domain name of your Internet service provider, your geographic location, the pages you visit, how long you visit each page, the unique number assigned to your server or Internet connection, etc.
+When you visit our Site, send us (or a Site writer) an email, submit an article, or otherwise communicate with us (or a Site writer), we may collect personal information that you voluntarily provide to us (or a Site writer). We may also collect personal information from third parties, including without limitation, our business partners. Personal information is information through which you can be identified such as your name, email address, and telephone number. In addition, we may use (or authorize third parties to use) web beacons, cookies, pixel tags, and other technologies (“Tracking Technologies”) at our Site to collect information about you, your online behavior, your computer, or your mobile device. Such information may include, without limitation, the type of browser and operating system you are using, the domain name of your Internet service provider, your geographic location, the pages you visit, how long you visit each page, the unique number assigned to your server or Internet connection, etc.
 
 You can change some of your privacy preferences through your browser.  For example, you can delete browser cookies from your computer or set your browser to reject browser cookies.  However, doing so may limit some functionalities of our Site.  Also, blocking or deleting browser cookies may not block or delete other types of cookies including flash cookies.  For additional information about browser privacy preferences, please consult the “Help” section of your browser.
 
@@ -50,4 +50,4 @@ Our Site is maintained on servers located in the United States, which may not of
 
 We may revise this privacy policy from time-to-time in our sole discretion.  Please visit this Site and review our privacy policy periodically for changes.  By continuing to access or use our Site after changes become effective, you agree to be bound by the terms of the revised privacy policy.
 
-Effective: August 3, 2012 
+Effective: September 26, 2013 
