@@ -1,38 +1,58 @@
-> *The following text is extracted and transformed from the brandsynario.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510071540id_/http%3A//www.brandsynario.com/Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsynario.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206115117id_/http%3A//brandsynario.com/home/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | brandsynario.com
+# PrivacyPolicy - BrandSynario
 
-Privacy Policy
+This Privacy Policy governs the manner in which Brandsynario collects, uses, maintains and discloses information collected from users (each, a "User") of the http://brandsynario.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Brandsynario. 
 
-  
+**Personal identification information**  
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
+
+**Non-personal identification information**  
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
+
+**Web browser cookies**  
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
+
+**How we use collected information**  
+Brandsynario may collect and use Users personal information for the following purposes:
+
+  * **To process payments**  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. 
+  * **To share your information with third parties**  
+We may share or sell information with third parties for marketing or other purposes. 
+  * **To run a promotion, contest, survey or other Site feature**  
+To send Users information they agreed to receive about topics we think will be of interest to them. 
+  * **To send periodic emails**  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. 
 
 
-In order to make your visits to brandsynario.com, we do collect certain information from your computer each time you visit us and sometimes we ask you for personal information. Please take a couple of minutes to read our privacy policies so that you understand how we treat your personal information. If you have any questions about this privacy policy or your dealings with brandsynario.com, you can contact us through Feedback form.
 
-If you register on brandsynario.com, sign up for a promotion, make a purchase from brandsynario.com, enter any contests or submit materials to brandsynario.com, You agree to the terms of brandsynario.com.
+**How we protect your information**  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
 
-brandsynario.com is not directed to children under the age of 13. brandsynario.com prohibits registration by children under the age of 13. brandsynario.com will not knowingly collect personally identifiable information from children under 13. If you as a parent, have any concerns about the brandsynario.com site or its related services, wish to find out if your child is a member of one of our services, or wish to cancel your child's membership, please [contact us](https://web.archive.org/web/20130510071540id_/http%3A//www.brandsynario.com/contact-us.aspx). 
+**Third party websites**  
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. 
 
-Information Collection & Use 
+**Advertising**  
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. 
 
-"Personally identifying information", or just personal information, includes your name, address, e-mail address, telephone number, or any other info that tells another person who you are. Our site may use order forms and registration forms for users to request SoBe information, products and services. We may collect contact info (such as email address, name, address and phone numbers). Contact info from the forms is used to send orders to our record keeping. Users may opt-out of receiving future mailings and are given the opportunity to do so each time you register or order online. We may send you e-mail notices about products, companies and events that we think might interest you. At any time you can change your user information. If you do not want to receive these messages, you will have to un-register at brandsynario.com. We will make an effort to include a link to this Privacy Policy wherever we ask you for personal information. Below are more details about the information brandsynario.com gathers from you and how we use it:
+**Google Adsense**  
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html 
 
-Cookies 
+**Compliance with children's online privacy protection act**  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
-Cookies are files or pieces of information that may be stored in your computer's hard drive when you visit a website. We use cookies to better tailor our site and our products to your interests and needs. Cookies may also be used to help speed up your future activities or to improve your user experiences by remembering the information that you have already provided to us. We do not use cookies to retrieve information from your computer that was not voluntarily provided by you (i.e., during membership registration or a contest). The use of cookies is an industry standard and you will find them at most websites. Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent so that you can flush them from your browser if you object to their presence. 
+**Changes to this privacy policy**  
+Brandsynario has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
-Promotions 
+**Your acceptance of these terms**  
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
-We may ask you for personally identifiable information at other times, including, but not limited to, when you enter sweepstakes, contests or promotions sponsored by us or a third party. If you don't want your information collected by these third parties, or us you can decide to opt-out of a promotion or partners email list before you submit your entry... 
+**Contacting us**  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+**Brandsynario**  
+http://brandsynario.com  
+House # 69 - B, Sindhi Muslim Cooperative Housing Society, Off Shara-e-Faisal, Karachi-74400, Pakistan. Tel: +92-21-34551420, 34536278, 34556276-9 +92-21-34551420, 34536278, 34556276-9   
+support@brandsynario.com
 
-Legal Authorities 
-
-We may disclose user information to government authorities at our discretion. We also may disclose user information when we have reason to believe that someone is causing injury to or interference with our rights or property, other brandsynario.com users, or anyone else that could be harmed by such activities. 
-
-Links 
-
-You should be aware that when you are on brandsynario.com, you will have the opportunity to visit, or link to, other sites not operated by brandsynario.com. These sites, some of which are brandsynario.com partners, may collect personally identifiable information about you. brandsynario.com does not control sites that are operated by others and is not responsible for the information practices of these sites and this privacy statement does not address the information practices of those we sites or advertisers. brandsynario.com may share non-personal, aggregate, or summary, information regarding our users with other third parties not mentioned in this policy. This kind of information does not identify you individually. 
-
-Our Commitment to Data Security 
-
-We take reasonable precautions to keep your personal information secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. We cannot guarantee the security of any information you disclose online, and you do so at your own risk. 
+This document was last updated on July 31, 2013 
