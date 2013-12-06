@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutor.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116072237id_/http%3A//www.tutor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206171505id_/http%3A//www.tutor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tutor.com
 
@@ -63,6 +63,3 @@ Tutor.com
 9 East 40th St, 2nd Floor  
 New York, NY 10016  
 [direct@tutor.com](mailto:direct@tutor.com)
-
-  
-
