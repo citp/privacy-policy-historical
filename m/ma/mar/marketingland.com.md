@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingland.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530032153id_/http%3A//marketingland.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingland.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206050620id_/http%3A//marketingland.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
