@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pre-kpages.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507121127id_/http%3A//www.pre-kpages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pre-kpages.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206020229id_/http%3A//www.pre-kpages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pre-K Pages
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 Our readers’ privacy and trust are important to us. We never disclose or sell our readers information to third parties.
 
