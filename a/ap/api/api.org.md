@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the api.org privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623004741id_/http%3A//api.org/globalitems/globalfooterpages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the api.org privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206193843id_/http%3A//www.api.org/globalitems/globalfooterpages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
