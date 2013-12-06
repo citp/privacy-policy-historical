@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seolinksubmission.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616084016id_/http%3A//www.seolinksubmission.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seolinksubmission.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206204652id_/http%3A//www.seolinksubmission.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Free Directory Submission, Free Link Directory, Free Web Directory, Add Your Web Site, Free Local Directory, Submit Your Url
 
@@ -18,5 +18,18 @@ We respect our clients' right to privacy online. We hold detailed client informa
 
 ####  We will communicate with clients via e-mail or other online delivery devices only if the client agrees to receive those communications. Clients, who believe they are receiving our communications in error or no longer desire to receive them, should inform us and we will remove those clients' names from our mailing lists. Our organization will be judicious in the use of e-mail and paper mail to communicate with clients. 
 
-|   
+| 
+
+Latest Comments 
+
+Comment Author **losangeleswedding** / Sep 14, 2013 
+
+Good Website For Wedding
+
+* * *
+
+Comment Author **peoplesinnovation** / Aug 16, 2013 
+
+this site very good !  
+  
 ---|---|---
