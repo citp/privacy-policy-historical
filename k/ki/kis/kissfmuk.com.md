@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissfmuk.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604101734id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissfmuk.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206014001id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
 
 # Bauer Media Group - Privacy Policy
 
@@ -36,6 +36,14 @@ If you give us your consent to send you further marketing messages we may contac
 
 We may need to authenticate your identity to provide you with access to subscriber-only services. We might also send you surveys or invite you to enter a competition or receive a newsletter, for instance. If you do not wish to participate you may simply decline our invitations. 
 
+Our iPad, Android and other "apps" may collect user data, which we use to learn about our readers and improve our apps. 
+
+To understand how our "apps" are used we may use the service of Flurry Analytics or Google Analytics to provide us with anonymous statistical information about your use of our app(s). 
+
+You may opt-out of reporting by Flurry Analytics by following the instructions on their site <http://www.flurry.com/user-opt-out.html>
+
+Currently it is not possible to opt out of reporting by Google Analytics. If you do not wish to be included in their reporting, please do not use our Apps. 
+
 * ### Do we share that data with any other companies?
 
 Except as otherwise stated in this Privacy Policy or in the data collection statements that will always be visible when we collect your information and where we give you the opportunity to select your preferences, we may release your data to external companies that we use to process your orders, or charge your credit card, for instance. Every supplier we use has to go through a rigorous up-front process to ensure that their processes are at least as good as our own, and they are required to sign a contract that defines what their responsibilities and liabilities are. We make site visits regularly whether our suppliers are in the UK, the European Economic Area or outside the EEA, where we require an EU approved model contract to be signed. 
@@ -68,7 +76,7 @@ Following recent revisions of the Privacy and Electronic Communications (EC Dire
 
 Under the Data Protection Act 1998, you have the right to see what information we hold about you and you may ask us to make any changes that you consider necessary to make the information accurate. If you want to apply to see the data we hold about you, please write to: 
 
-The Data Protection Compliance Officer  
+The Data Protection Officer  
 Bauer Media Group  
 Media House  
 Lynchwood  
@@ -83,7 +91,7 @@ We do not knowingly collect personal information from children under the age of 
 
 * ### Using our websites from outside the UK
 
-Our servers are situated in the UK and when you submit your details and in whichever country you are situated you agree to the data being transferred to the UK and processed under the terms of the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not add your personal details on the website. 
+Our servers are situated in the EEA and when you submit your details and in whichever country you are situated you agree to the data being transferred to the EEA and processed under the terms of the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not add your personal details on the website. 
 
 * ### Questions regarding this Privacy Policy
 
@@ -95,4 +103,4 @@ This Privacy Policy will be amended from time-to-time if we make any important c
 
 Any changes will be effective immediately. 
 
-This Privacy Policy was last revised in April 2013. 
+This Privacy Policy was last revised in November 2013. 
