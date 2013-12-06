@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designobserver.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601135106id_/http%3A//designobserver.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designobserver.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206232230id_/http%3A//designobserver.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Design Observer
 
