@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smedio.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531124923id_/http%3A//smedio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smedio.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206181258id_/http%3A//smedio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Smedio
+# Privacy Policy | Smedio | Digital Marketing Information for Businesses and Professionals
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
