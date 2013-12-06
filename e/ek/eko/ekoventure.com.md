@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ekoventure.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517004445id_/http%3A//www.zozi.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekoventure.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206135344id_/http%3A//www.zozi.com/privacy_policy) for the most accurate reproduction.*
 
 # ZOZI
 
 ## Privacy Policy
 
-ekoVenture, Inc. ("Company") doing business as (DBA) ZOZI, knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the www.zozi.com website and domain name, or otherwise accessing any other linked pages, features, content, or services offered from time to time by Company in connection therewith (collectively, the "Website"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+ekoVenture, Inc. ("Company") doing business as (DBA) ZOZI, knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the www.zozi.com and advance.zozi.com websites and domain names, or otherwise accessing any other linked pages, features, content, or services offered from time to time by Company in connection therewith (collectively, the "Website"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
 ## What does this privacy policy cover?
 
