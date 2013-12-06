@@ -1,86 +1,55 @@
-> *The following text is extracted and transformed from the parishilton.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630052330id_/http%3A//www.parishilton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parishilton.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206160608id_/http%3A//www.parishilton.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Official Website of Paris Hilton
+# Privacy Policy - Paris Hilton
 
-**What information do we collect?**
+Paris Hilton values its customers and respects their privacy.
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+This privacy policy (this “Policy”) describes the personal information we may collect from you, the purposes for which we collect it, how we use it and when we may share it with third parties. This Policy also describes the choices you can make about how we collect, use and disclose your information. Paris Hilton  and its affiliates will not collect, use or disclose your personal information other than in compliance with this Policy.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+By using the www.parishilton.com website and/or making online purchases of products, you agree to the terms and conditions of Paris Hilton ’s Policy. If our Policy changes in the future, we will notify our customers and website users of any such changes by posting an updated Policy on our website.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Following the posting of such changes, your continued use of the www.parishilton.com website will constitute your acceptance of these changes and you will be bound by such changes.  If you do not continue to use the www.parishilton.com website following a change to our Policy but take no other action with respect to your personal information, our use of that information will remain subject to our Policy as it was in effect prior to the change. You are responsible for regularly reviewing this Policy and any changes thereto.
 
- **What do we use your information for?**
+#### WHAT KIND OF INFORMATION DO PARIS HILTON AND ITS AFFILIATES COLLECT?
 
-Any of the information we collect from you may be used in one of the following ways: 
+We may collect personal information from you when you save or otherwise provide your personal information to us, such as by setting up a user account and password, logging in as a registered user of www.parishilton.com, searching for a product, making an order for a product, providing information in your account (and you might have more than one, if you've used more than one e-mail address when shopping with us), communicating with us by phone, e-mail, or otherwise or if you complete an entry form to participate in a contest, promotion or survey, online. As a result of these actions, you might supply us with personal information, such as your name, e-mail and postal addresses, phone number(s), credit card information, names of people to whom purchases have been shipped, including address and telephone numbers, product interest information and financial information and in certain circumstances, your opinions and individual preferences. We may also maintain a record of your product interests and acquire information about you from our present and future affiliates or divisions.
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+Paris Hilton’s website is directed for use by adults. Paris Hilton  and its affiliates do not knowingly collect any personal information from children under the age of 13. Those under age 13 should not use Paris Hilton’s website or provide Paris Hilton or its affiliates with any personal information.
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+#### FOR WHAT PURPOSES DOES PARIS HILTON AND ITS AFFILIATES COLLECT MY INFORMATION?
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+Paris Hilton and its affiliates may use your personal information to (i) process your order and to answer questions about the status of your order; (ii) send you or your friends, relatives or associates, products that you have ordered; (iii) maintain contact with you and provide you with ongoing personalized service; (iv) communicate with you (via e-mail, post or otherwise) and provide you with promotional materials and additional information regarding our products, services, surveys, contests, promotions and special offers; (v) help us learn more about your shopping preferences; and (vi) conduct marketing and performance research, to assist us in measuring our customer service, benchmarking our performance and to help us improve our shopping experiences and product offerings. As provided below, you may always choose not to receive promotional materials or marketing information.
 
-; To process transactions
+#### DO PARIS HILTON AND ITS AFFILIATES? SHARE MY INFORMATION WITH THIRD PARTIES?
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+If you visit or purchase products on the www.parishilton.com or affiliate websites, participate in a contest, survey, promotion or special offer, we may share your personal information with that affiliate, so that it can communicate with you (whether by e-mail, post or otherwise) and provide you with promotional materials and additional information about its products, services, contests, promotions and special offers that may be of interest to you, or collect and use that information subject to and for other purposes contemplated by this Policy.
 
-; To administer a contest, promotion, survey or other site feature
+We do not sell or rent your personal information to nonaffiliated third parties except as permitted by law. However, in the event of a sale of all or substantially all of our business or another similar transaction, we may transfer or disclose your personal information to a purchaser or prospective purchaser, who may collect, use and disclose such information for the purposes of evaluating the proposed transaction or operating and managing the affairs of the acquired business, or for other purposes identified in this Policy.
 
-; To send periodic emails
+We may transfer personal information to nonaffiliated third parties for processing pursuant to agreements that prohibit the third parties from using or disclosing the personal information other than for the purpose of processing and which impose security safeguards appropriate to the sensitivity of the information.
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+We reserve the right to disclose your personal information as required by law, in response to legal process and law enforcement requests, and as necessary to protect the property, interests and rights of Paris Hilton and the its affiliates.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Paris Hilton ’s website may contain links to websites operated by third parties. These websites may collect your personal information. This Policy does not apply to the practices of third parties and Paris Hilton nor its affiliates assume any responsibility for, and by using this website and/or accessing a third party’s website from this website you release Paris Hilton  and its affiliates of any responsibility for, the actions, practices and omissions of third parties. Please check the privacy policy at each site you visit.
 
- **Do we use cookies?**
+#### HOW CAN I EXERCISE MY CHOICES ABOUT RECEIVING PROMOTIONAL COMMUNICATIONS?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+We want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information from us or other affiliates, or if you do not want us to use your information to enhance your shopping experience, please let us know by emailing us at  info@parishilton.com Please be sure to include your full name and the e-mail address you used when you registered with or made a purchase from us. You may also unsubscribe from Paris Hilton  Email services by using the unsubscribe link situated at the bottom of any promotional message you receive from us.
 
- **Do we disclose any information to outside parties?**
+#### WHAT ARE COOKIES AND HOW DO WE USE COOKIES ON THIS SITE?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We may use “cookies” to track your preferences and activities on the www.parishilton.com website or an affiliate’s website. Cookies are small data files transferred to your computer’s hard-drive by a website. They keep a record of your preferences making your subsequent visits to the site more efficient. Cookies may store a variety of information, including, the number of times that you access a site, registration information and the number of times that you view a particular page or other item on the site. The use of cookies is a common practice adopted by most major sites to better serve their clients. Most browsers are designed to accept cookies, but they can be easily modified to block cookies; see your browser's help files for details on how to block cookies, how to know when you have received cookies and how to disable cookies completely. You should note, however, that without cookies, some of the website's functions will not be available, and the user will lose some of the benefits of the site.
 
- **Third party links**
+How can I access or change my personal information, withdraw my consent, or make inquiries or complaints in relation to this Policy and Paris Hilton  and its affiliate’s privacy practices?
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Paris Hilton and its affiliates will ensure that the personal information it collects is as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be used. You are entitled to request access to and correction of your personal information collected by us. In order to make such a request, or if you have any questions or to make any complaint in relation to this Policy and privacy practices, please contact our privacy officer by emailing to: info@parishilton.com
 
- **California Online Privacy Protection Act Compliance**
+If you have consented to the collection, use and/or disclosure of personal information as identified herein, please note that you can also withdraw your consent at any time by communicating with our privacy officer as provided above.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+#### HOW LONG IS PERSONAL INFORMATION RETAINED?
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+We will keep your personal information only as long as is reasonably necessary for the purposes described in this Policy or such longer period as may be required by applicable law.
 
- **Childrens Online Privacy Protection Act Compliance**
+#### HOW IS PERSONAL INFORMATION SECURED?
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
- **Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://parishilton.com](http://parishilton.com/)
-
- **Your Consent**
-
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://parishilton.com  
-1901 Camino Vida Roble suite 110  
-Carlsbad, CA 92008  
-United States  
-[hello@parishilton.com](mailto:hello@parishilton.com)
-
-[« RETURN HOME](https://web.archive.org/)
+**We have adopted appropriate measures to ensure the confidentiality of personal information and to safeguard personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification, in light of, among other things, the sensitivity of the information and the purposes for which it is to be used. Furthermore, each and every Paris Hilton  employee, mandatory or agent must abide by this Policy.**
