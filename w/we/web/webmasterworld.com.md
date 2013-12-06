@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the webmasterworld.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606101535id_/http%3A//www.webmasterworld.com/help.cgi%3Fcat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterworld.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206010033id_/http%3A//www.webmasterworld.com/help.cgi%3Fcat%3Dprivacy) for the most accurate reproduction.*
 
 # Help :
 
 > **Privacy Statement for Webmaster World**
 > 
-> Webmaster World is owned and operated by [WebmasterWorld Inc.](http://www.webmasterworld.com/). 
+> Webmaster World is owned and operated by [WebmasterWorld and DevShed, LLC.](http://www.webmasterworld.com/). 
 > 
-> WebmasterWorld Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. 
+> WebmasterWorld and DevShed, LLC. has created this privacy statement in order to demonstrate our firm commitment to privacy. 
 > 
 > The following discloses our information gathering and dissemination practices for this website: webmasterworld.com 
 > 
 > We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address may be used to gather broad demographic information. 
 > 
-> This site contains links to other sites. **WebmasterWorld Inc.** is not responsible for the privacy practices or the content of such Web sites. 
+> This site contains links to other sites. **WebmasterWorld and DevShed, LLC.** is not responsible for the privacy practices or the content of such Web sites. 
 > 
 > We may use an outside ad company to display ads on our site. These ads may contain cookies. While we may use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 > 
@@ -23,6 +23,10 @@
 > ## Security 
 > 
 > This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+> 
+> ## Electronic Mail
+> 
+> By providing their email address when signing up for this site, users authorize us to send them site notifications, newsletters, or other information via email from time to time. Users may remove themselves from such services at their discretion. Any email sent to a list will include directions for how a user may remove himself or herself from the list. 
 > 
 > ## Children's Guidelines
 > 
@@ -41,6 +45,6 @@
 > If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 >     
 >     
->      WebmasterWorld Inc. 10601 FM 2222 Suite R53 Austin, TX.  78730
->      e-mail: btabke at webmasterworld.com 
+>      Webmaster World, c/o/ Internet Marketing Ninjas, 21 Corporate Drive, Clifton Park, NY 12065
+>      e-mail: engine at webmasterworld.com
 >      
