@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avianweb.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512160143id_/http%3A//www.avianweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avianweb.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206130942id_/http%3A//www.avianweb.com/privacy.html) for the most accurate reproduction.*
 
 # Avianweb Site Privacy Policy
 
@@ -30,10 +30,7 @@ Avianweb LLC (hereafter referred to as Avianweb) is committed to the privacy of 
 
   * Avianweb may disclose your personal information to third parties who work on behalf of Avianweb to provide products and services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information
   * Avianweb may otherwise disclose your personal information when:
-    * We have your express consent to share the information for a specified purpose;
-    * We need to respond to subpoenas, court orders or such other legal process;
-    * We need to protect the personal safety of the users of our websites or defend the rights or property of Avianweb;
-    * We find that your actions on our websites violate the Avianweb Terms of Use document or any of our usage guidelines for specific products or services.
+    * We have your express consent to share the information for a specified purpose;We need to respond to subpoenas, court orders or such other legal process;We need to protect the personal safety of the users of our websites or defend the rights or property of Avianweb;We find that your actions on our websites violate the Avianweb Terms of Use document or any of our usage guidelines for specific products or services.
 
 
 
