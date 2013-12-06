@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultraedit.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129173937id_/http%3A//www.ultraedit.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultraedit.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206063340id_/http%3A//www.ultraedit.com/privacy_policy.html) for the most accurate reproduction.*
 
 # IDM Computer Solutions, Inc. Privacy Policy
 
@@ -62,6 +62,10 @@ IDM Computer Solutions, Inc.
 Suite B  
 Hamilton, OH 45011 
 
+  
+"We won't mince words:  
+**UltraEdit is outstanding..."**
+
 It's **easy** to purchase corporate licensing from us!
 
 [](http://www.ultraedit.com/register-buy/corporate_solutions.html)
@@ -72,10 +76,6 @@ It's **easy** to purchase corporate licensing from us!
 
 
 
-  
-"We won't mince words:  
-**UltraEdit is outstanding..."**
-
 ## Power of Portable
 
 Now supporting PortableApps!
@@ -83,16 +83,6 @@ Now supporting PortableApps!
 [](http://www.ultraedit.com/products/mobility.html)
 
 Unleash the power of the total file management solution on your flash drive!
-
-Sign up now for...
-
-  * Software Powertips
-  * New Releases
-  * Update Notices
-  * Cool Tools, Specials
-  * Company News
-
-
 
   
 
