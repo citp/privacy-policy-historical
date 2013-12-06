@@ -1,58 +1,57 @@
-> *The following text is extracted and transformed from the mountainproject.com privacy policy that was archived on 2010-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101022122058id_/http%3A//www.mountainproject.com/scripts/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainproject.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206211713id_/http%3A//mountainproject.com/scripts/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Mountain Project's Privacy Policy
 
-Last updated: 12/8/05
+**MOUNTAIN PROJECT INC**
 
-**1\. What information does Mountain Project collect?**
+**PRIVACY POLICY**
 
-Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer require you to provide us with information as a condition of usage. 
+This Privacy Policy (the " **Policy** ") governs the data that you submit, or that we collect, in connection with your use of Mountain Projectsâ€™ website and any mobile applications or websites that link to or reference this Policy (collectively, the " **Service** "). By accessing or using the Service, you consent to the collection, use, and disclosure of your information as described in this Privacy Policy by Mountain Project, Inc. and any affiliated corporate entities that are controlled by, or in common control with, Mountain Project Inc. (" **THE COMPANY** "). 
 
-We collect personally identifiable information, such as your name, email address, zip code, and gender when you provide it to us. Once you register with Mountain Project you are no longer anonymous to us.
+"You" and "your" refer to you, as a user of the Service. A "user" is someone who accesses, browses, crawls, scrapes, or in any way uses the Service. "We", "us", and "our" refer to THE COMPANY.
 
-**2\. What is Mountain Project's practice regarding cookies?**
+**1\. INFORMATION YOU SUBMIT**
 
-Your internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to Mountain Project. You do not need to have cookies turned on to visit most of our sites, although use of certain features and areas may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.
+_Account Registration:_ You must provide your name, a password and a valid email address in order to sign up for an Account on the Service. When you sign up for a THE COMPANY account, we opt you in to receive emails from and other communications from THE COMPANY by default. You can manage your email preferences and modify some of the information associated with your account http://www.mountainproject.com/scripts/User?action=settings. 
 
-We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. 
+_Public Content:_ Your text, images, photos, audio, video, location data, and all other forms of data or communication and other content you post to the Service are meant for public consumption. We may display this content on the Service, and further distribute it to a wider audience through third party sites and services.
 
-We use cookies and tracking technologies in a variety of ways, including: 
+**2\. INFORMATION WE COLLECT**
 
-  
+In addition to the information you submit to or through the Service, we also collect and store information from and about you in the course of your use of the Service. We use this information to analyze and track user behavior and personalize your experience. For example:
 
+_Activity_ : We may collect and store information related to you and your use of the Service, such as your browser type, IP address, unique device identifier, geo-location, requested URL, referring URL, browser language, the pages you view, and the date and time of your visit.
 
-  * Keeping count of return visits to our site; 
-  * Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage;
-  * Determining which features our overall user population likes best; 
-  * Saving your username and/or password so you don't have to re-enter it each time you visit our sites; 
-  * Displaying the most appropriate advertising or content based on your interests.
+_Cookies_ : We may use cookies, web beacons, local shared objects, and similar technology in connection with your use of the Service ("Cookies"). Cookies may have unique identifiers, and reside, among other places, on your computer, in emails we send to you, and on our web pages. 
 
+**3\. THIRD PARTIES**
 
+We do not rent, share, sell or trade personally identifiable information with third parties for their direct marketing purposes. That said, we work with third parties and they may have access to some of your information:
 
-We allow other companies that are presenting advertisements to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies. 
+_Advertising_ : We allow third parties who provide advertising services to use Cookies, as defined above, in connection with your use of the Service. As a result, they may collect and store the same type of information and use it for the same type of purposes as described for THE COMPANY Cookies above, and they may be able to associate the information they collect with other information they may have about you.
 
-**3\. How does Mountain Project share the information?**
+_Service Providers_ : We may outsource some of our technical and customer support, tracking and reporting functions, quality assurance testing, and other services to third parties. We may share information from or about you with them so that they can perform their services.
 
-Personally identifiable information
+_Business Transfers_ : We may share information from or about you with subsidiaries, joint ventures, or other companies under common control, in which case we will require them to honor this Privacy Policy. If another company acquires THE COMPANY or all or substantially all of our assets, that company will possess the same information, and will assume the rights and obligations with respect to that information as described in this Privacy Policy.
 
-We will make your personally identifiable information available to other companies or people when: 
+**4\. CONTROLLING YOUR PERSONAL DATA**
 
-  * You volunteer information or create a public profile in the course of your participation. 
-  * When required by law, such as when we respond to subpoenas, court orders, or legal process. 
-  * We believe that your actions violate applicable laws, Mountain Project Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others.
+Other users may be able to identify you, or associate you with your user account if you include personal information in your Public Content. You can reduce the risk of being personally identified by using the Service pseudonymously, though doing so could detract from the credibility of your contributions to the Service. 
 
+**5\. DATA RETENTION AND ACCOUNT TERMINATION**
 
+If you terminate your account, we will remove your name and email address from our public servers but **will not remove or delete any Public Content from the Service** even though we may make such contribution anonymous.  Please note that information may exist in backup storage even after it has been removed from our active databases. You can request that your account be terminated by sending an email http://www.mountainproject.com/scripts/ContactMP. 
 
-Aggregate information
+**6\. CHILDREN**
 
-We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+The Service is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us at http://www.mountainproject.com/scripts/ContactMP 
 
-**5\. What are my options?**
+**7\. SECURITY**
 
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services without registering.
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-**8\. Privacy of children**
+**8\. MODIFICATIONS TO THIS PRIVACY POLICY**
 
-Mountain Project is not directed to children under the age of 13. 
+We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our use of your information. If we make material changes to this Privacy Policy, we will notify you by email or by posting a notice on the Service prior to the effective date of the changes. By continuing to access or use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
-Questions regarding this privacy statement can be submitted via the [Contact Us](https://web.archive.org/scripts/ContactMP.php) link on every page of the site.
+This Privacy Policy was Last Updated on September 24, 2012.
