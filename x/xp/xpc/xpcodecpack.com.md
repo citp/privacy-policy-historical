@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xpcodecpack.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116003139id_/http%3A//www.xpcodecpack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpcodecpack.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206162531id_/http%3A//www.xpcodecpack.com/privacy) for the most accurate reproduction.*
 
-# Download XP Codec Pack 2.5.3 – XP Codec Pack is one of the most complete codec packs » Privacy
+# Download XP Codec Pack 2.5.9 – Now, with Windows 8 support! » Privacy
 
 ## Privacy
 
