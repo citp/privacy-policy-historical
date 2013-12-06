@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glennz.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609144717id_/http%3A//store.glennz.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glennz.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206091710id_/http%3A//store.glennz.com/privacypolicy.html) for the most accurate reproduction.*
 
 # GlennzTees
 
@@ -55,3 +55,5 @@ Through the use of a cookie, we also may automatically collect information about
 As you browse Glennz, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with glennz.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.
 
 You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
+
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html).
