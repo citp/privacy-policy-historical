@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xdatingwebcams.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512155842id_/http%3A//www.xdatingwebcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xdatingwebcams.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206102216id_/http%3A//www.xdatingwebcams.com/privacy.html%3F) for the most accurate reproduction.*
 
-# xdatingwebcams - Privacy
+# xdatingwebcams - Privacy Policy
 
 [Home](http://www.xdatingwebcams.com/) / Privacy Policy
 
@@ -47,9 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-Streamates Limited  
-c/o Ariel Secretaries Limited  
-196, Arch Makarios Ave, Ariel Corner,  
-1st Flr, Office 102  
-P.O. Box 57528  
-3316 Limassol - Cyprus
+ICF Technology, Inc.  
+PO Box 21508  
+Seattle, WA 98111  
+USA 
