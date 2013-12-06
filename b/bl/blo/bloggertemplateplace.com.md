@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggertemplateplace.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529173049id_/http%3A//blogtemplate4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggertemplateplace.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206060655id_/http%3A//blogtemplate4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy blogger templates
 
@@ -22,4 +22,4 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 ### Contact Us
 
-**Email :** blogtemplate4u@gmail.com
+ **Email :** blogtemplate4u@gmail.com
