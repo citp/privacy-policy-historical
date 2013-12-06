@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedppc.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922025556id_/http%3A//speedppc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedppc.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206153122id_/http%3A//www.speedppc.com/privacy-policy) for the most accurate reproduction.*
 
 # SpeedPPC Privacy Policy
 
