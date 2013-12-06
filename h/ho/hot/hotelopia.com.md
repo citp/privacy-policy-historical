@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelopia.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629185539id_/http%3A//www.hotelopia.com/info/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelopia.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206075052id_/http%3A//www.hotelopia.com/info/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Hotelopia Privacy Policy
 
@@ -91,7 +91,7 @@ In the event that they have access to any personal data, Hotelopia and/or Libera
 
 
 
-Hotelopia and/or Liberate may disclose CLIENT information only for the purpose of administrating and completing a CLIENT'S booking and guaranteeing that credit card fraud is avoided. Any data thus collected on this website may be transmitted, according to the PDPR, to those entities that must be involved in order to contract the requested services. 
+Hotelopia and/or Liberate may disclose the CUSTOMERS information to the contracted services supplier, solely for administration reasons and card fraud checks in order to complete the CUSTOMERS booking. Any data thus collected on this website may be transmitted, according to the PDPR, to those entities that must be involved in order to contract the requested services. 
 
 Likewise, and pursuant to Article 34.e) of Organic Law 15/1999 of 13 December on personal data protection (LOPD), you hereby consent to Hotelopia and/or Liberate passing on your data to the addressees under the terms and conditions given above, to any destination in the world, even to those that do not offer a level of protection comparable to that of the LOPD. 
 
