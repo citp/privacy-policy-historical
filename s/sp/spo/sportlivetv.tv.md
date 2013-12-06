@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportlivetv.tv privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503104941id_/http%3A//sportlivetv.tv/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportlivetv.tv privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206144428id_/http%3A//sportlivetv.tv/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Sports Online Live
+# watch dd sports live online, watch live dd sports online | Sport Live TV
 
 ## Privacy Policy
 
@@ -27,3 +27,15 @@ These third-party ad servers or ad networks use technology to the advertisements
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [sportlivetv.tv’s](http://sportlivetv.tv/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+#### Incoming Sports Online Searches:
+
+  * [Crystal Palace - Swansea clip](http://sportlivetv.tv/privacy-policy-2/ "Crystal Palace - Swansea clip")
+  * [Man City 4 - 0 Newcastle clip](http://sportlivetv.tv/privacy-policy-2/ "Man City 4 - 0 Newcastle clip")
+  * [Sports Online Live](http://sportlivetv.tv/privacy-policy-2/ "Sports Online Live")
+  * [third row sports streaming](http://sportlivetv.tv/privacy-policy-2/ "third row sports streaming")
+  * [West Ham Stoke City 2013 halftime](http://sportlivetv.tv/privacy-policy-2/ "West Ham Stoke City 2013 halftime")
+  * [Man City Newcastle 2013 penalty](http://sportlivetv.tv/privacy-policy-2/ "Man City Newcastle 2013 penalty")
+  * [third row live tv](http://sportlivetv.tv/privacy-policy-2/ "third row live tv")
+
+
