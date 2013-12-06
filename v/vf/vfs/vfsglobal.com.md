@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vfsglobal.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602024419id_/http%3A//vfsglobal.com/disclaimer/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfsglobal.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206191815id_/http%3A//www.vfsglobal.com/disclaimer/privacy_policy.asp) for the most accurate reproduction.*
 
 # VFS Global
 
