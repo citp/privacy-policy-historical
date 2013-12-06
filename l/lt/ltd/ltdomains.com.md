@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ltdomains.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522055011id_/http%3A//www.layeredtech.com/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ltdomains.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206113715id_/http%3A//www.layeredtech.com/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal | Layered Tech
 
@@ -137,8 +137,14 @@ Layered Tech uses a self-assessment approach to ensure compliance with this Priv
 
 ## Questions or Concerns
 
-If you have any comments, questions or disputes regarding this Privacy Policy or the use and disclosure of Personal Information, please contact Layered Tech via email at [legalnotice@layeredtech.com](mailto:legalnotice@layeredtech.com) and we will investigate and attempt to resolve your concerns. If we are unable to resolve your complaint or dispute internally, Layered Tech has elected to use as its independent recourse mechanism the Better Business Bureau (BBB) EU Safe Harbor Program (<http://www.bbb.org/us/european-dispute-resolution/>) for dispute resolution..
+If you have any comments, questions or disputes regarding this Privacy Policy or the use and disclosure of Personal Information, please contact Layered Tech via email at [legalnotice@layeredtech.com](mailto:legalnotice@layeredtech.com) and we will investigate and attempt to resolve your concerns. 
+
+## US-EU and US-Swiss Safe Harbor
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Layered Tech commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Layered Tech via email at: [legalnotice@layeredtech.com](mailto:legalnotice@layeredtech.com).
+
+Layered Tech has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your compliant is not satisfactorily addressed by Layered Tech, please visit the BBB EU Safe Harbor web site at <http://www.bbb.org/us/safe-harbor-compliants> for more information and to file a complaint.
 
 ## Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of February 24, 2013.
+This Privacy Policy is effective as of October 30, 2013.
