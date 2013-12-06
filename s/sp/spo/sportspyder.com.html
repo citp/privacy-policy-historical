@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sportspyder.com privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530122910id_/http%3A//sportspyder.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportspyder.com privacy policy that was archived on 2013-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206105514id_/http%3A//sportspyder.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -21,7 +21,7 @@
 
   <title>Privacy Statement | SportSpyder</title>
   
-  <link href="/assets/application-26ff2c8d54ab9cd8e74af60fc650390e.css" media="screen" rel="stylesheet" type="text/css">  
+  <link href="/assets/application-3affa0358a1273e29328817f447e8f39.css" media="screen" rel="stylesheet" type="text/css">  
   <link href="http://fonts.googleapis.com/css?family=Karla" rel="stylesheet" type="text/css">
 
   
@@ -86,10 +86,11 @@
     googletag.enableServices();    
     
     // observe when slots are rendered
-    $(googletag).on("gpt-slot_rendered", function(e, level, message, service, slot, reference) {
+    googletag.on("gpt-slot_rendered", function(e, level, message, service, slot, reference) {
       var slotId = slot.getSlotId();
       var slot   = $("#"+slotId.getDomId());
       var iframe = slot.children("iframe").get(0);
+
       if ($(iframe.contentWindow.document.body).children().length > 0) {
         slot.removeClass("empty");
       }
@@ -131,7 +132,7 @@ googletag.cmd.push(function() {
         <a href="/"><img alt="SportSpyder" height="58" src="/assets/common/logo_hi-427a41a5a6812fd2f66ffb2cace686e3.png" width="209"></a>
       </div>
 
-      <form accept-charset="UTF-8" action="/search" class="clr" id="search_bar" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="B0Mw1bkiD5s3BycIH4GYIFmjxcFMTdgEk6UYKUC2HMQ="></div>
+      <form accept-charset="UTF-8" action="/search" class="clr" id="search_bar" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="3DIOp47KmvivCS5Hd/7kRQ/2rSKJPAsU5hp91LVEXQ8="></div>
         <input id="type" name="type" type="hidden">
         <input autocomplete="off" class="blurred" id="search_term_1" name="q" type="text" value="">
         <input id="search_button" name="commit" type="submit" value="Search">
@@ -221,6 +222,9 @@ googletag.cmd.push(function() {
                   <h2>AL West</h2>
                   <ul>
                     <li>
+                    <a href="/teams/houston-astros/news">Houston Astros</a>
+                    </li>
+                    <li>
                     <a href="/teams/los-angeles-angels/news">Los Angeles Angels</a>
                     </li>
                     <li>
@@ -262,9 +266,6 @@ googletag.cmd.push(function() {
                     </li>
                     <li>
                     <a href="/teams/cincinnati-reds/news">Cincinnati Reds</a>
-                    </li>
-                    <li>
-                    <a href="/teams/houston-astros/news">Houston Astros</a>
                     </li>
                     <li>
                     <a href="/teams/milwaukee-brewers/news">Milwaukee Brewers</a>
@@ -465,19 +466,19 @@ googletag.cmd.push(function() {
                   <h2>Northwest</h2>
                   <ul>
                     <li>
-                    <a href="/teams/denver-nuggets/news">Denver Nuggets</a>
+                    <a href="/teams/utah-jazz/news">Utah Jazz</a>
                     </li>
                     <li>
                     <a href="/teams/minnesota-timberwolves/news">Minnesota Timberwolves</a>
                     </li>
                     <li>
-                    <a href="/teams/portland-trail-blazers/news">Portland Trail Blazers</a>
+                    <a href="/teams/denver-nuggets/news">Denver Nuggets</a>
                     </li>
                     <li>
                     <a href="/teams/oklahoma-city-thunder/news">Oklahoma City Thunder</a>
                     </li>
                     <li>
-                    <a href="/teams/utah-jazz/news">Utah Jazz</a>
+                    <a href="/teams/portland-trail-blazers/news">Portland Trail Blazers</a>
                     </li>
                   </ul>
                 </div>
@@ -485,16 +486,16 @@ googletag.cmd.push(function() {
                   <h2>Pacific</h2>
                   <ul>
                     <li>
-                    <a href="/teams/golden-state-warriors/news">Golden State Warriors</a>
-                    </li>
-                    <li>
-                    <a href="/teams/los-angeles-clippers/news">Los Angeles Clippers</a>
+                    <a href="/teams/phoenix-suns/news">Phoenix Suns</a>
                     </li>
                     <li>
                     <a href="/teams/los-angeles-lakers/news">Los Angeles Lakers</a>
                     </li>
                     <li>
-                    <a href="/teams/phoenix-suns/news">Phoenix Suns</a>
+                    <a href="/teams/los-angeles-clippers/news">Los Angeles Clippers</a>
+                    </li>
+                    <li>
+                    <a href="/teams/golden-state-warriors/news">Golden State Warriors</a>
                     </li>
                     <li>
                     <a href="/teams/sacramento-kings/news">Sacramento Kings</a>
@@ -505,16 +506,16 @@ googletag.cmd.push(function() {
                   <h2>Southwest</h2>
                   <ul>
                     <li>
-                    <a href="/teams/dallas-mavericks/news">Dallas Mavericks</a>
+                    <a href="/teams/memphis-grizzlies/news">Memphis Grizzlies</a>
                     </li>
                     <li>
                     <a href="/teams/houston-rockets/news">Houston Rockets</a>
                     </li>
                     <li>
-                    <a href="/teams/memphis-grizzlies/news">Memphis Grizzlies</a>
+                    <a href="/teams/dallas-mavericks/news">Dallas Mavericks</a>
                     </li>
                     <li>
-                    <a href="/teams/new-orleans-hornets/news">New Orleans Hornets</a>
+                    <a href="/teams/new-orleans-pelicans/news">New Orleans Pelicans</a>
                     </li>
                     <li>
                     <a href="/teams/san-antonio-spurs/news">San Antonio Spurs</a>
@@ -525,16 +526,16 @@ googletag.cmd.push(function() {
                   <h2>Central</h2>
                   <ul>
                     <li>
-                    <a href="/teams/chicago-bulls/news">Chicago Bulls</a>
-                    </li>
-                    <li>
-                    <a href="/teams/cleveland-cavaliers/news">Cleveland Cavaliers</a>
+                    <a href="/teams/indiana-pacers/news">Indiana Pacers</a>
                     </li>
                     <li>
                     <a href="/teams/detroit-pistons/news">Detroit Pistons</a>
                     </li>
                     <li>
-                    <a href="/teams/indiana-pacers/news">Indiana Pacers</a>
+                    <a href="/teams/cleveland-cavaliers/news">Cleveland Cavaliers</a>
+                    </li>
+                    <li>
+                    <a href="/teams/chicago-bulls/news">Chicago Bulls</a>
                     </li>
                     <li>
                     <a href="/teams/milwaukee-bucks/news">Milwaukee Bucks</a>
@@ -545,19 +546,19 @@ googletag.cmd.push(function() {
                   <h2>Atlantic</h2>
                   <ul>
                     <li>
-                    <a href="/teams/boston-celtics/news">Boston Celtics</a>
-                    </li>
-                    <li>
-                    <a href="/teams/brooklyn-nets/news">Brooklyn Nets</a>
-                    </li>
-                    <li>
-                    <a href="/teams/new-york-knicks/news">New York Knicks</a>
+                    <a href="/teams/toronto-raptors/news">Toronto Raptors</a>
                     </li>
                     <li>
                     <a href="/teams/philadelphia-76ers/news">Philadelphia 76ers</a>
                     </li>
                     <li>
-                    <a href="/teams/toronto-raptors/news">Toronto Raptors</a>
+                    <a href="/teams/new-york-knicks/news">New York Knicks</a>
+                    </li>
+                    <li>
+                    <a href="/teams/brooklyn-nets/news">Brooklyn Nets</a>
+                    </li>
+                    <li>
+                    <a href="/teams/boston-celtics/news">Boston Celtics</a>
                     </li>
                   </ul>
                 </div>
@@ -565,19 +566,19 @@ googletag.cmd.push(function() {
                   <h2>Southeast</h2>
                   <ul>
                     <li>
-                    <a href="/teams/atlanta-hawks/news">Atlanta Hawks</a>
-                    </li>
-                    <li>
                     <a href="/teams/charlotte-bobcats/news">Charlotte Bobcats</a>
                     </li>
                     <li>
-                    <a href="/teams/miami-heat/news">Miami Heat</a>
+                    <a href="/teams/washington-wizards/news">Washington Wizards</a>
                     </li>
                     <li>
                     <a href="/teams/orlando-magic/news">Orlando Magic</a>
                     </li>
                     <li>
-                    <a href="/teams/washington-wizards/news">Washington Wizards</a>
+                    <a href="/teams/miami-heat/news">Miami Heat</a>
+                    </li>
+                    <li>
+                    <a href="/teams/atlanta-hawks/news">Atlanta Hawks</a>
                     </li>
                   </ul>
                 </div>
@@ -596,67 +597,7 @@ googletag.cmd.push(function() {
             <div class="menu" id="nhl_menu">
               <div class="divisions clr">
                 <div class="division div_1">
-                  <h2>Northwest</h2>
-                  <ul>
-                    <li>
-                    <a href="/teams/calgary-flames/news">Calgary Flames</a>
-                    </li>
-                    <li>
-                    <a href="/teams/colorado-avalanche/news">Colorado Avalanche</a>
-                    </li>
-                    <li>
-                    <a href="/teams/edmonton-oilers/news">Edmonton Oilers</a>
-                    </li>
-                    <li>
-                    <a href="/teams/minnesota-wild/news">Minnesota Wild</a>
-                    </li>
-                    <li>
-                    <a href="/teams/vancouver-canucks/news">Vancouver Canucks</a>
-                    </li>
-                  </ul>
-                </div>
-                <div class="division div_2">
-                  <h2>Pacific</h2>
-                  <ul>
-                    <li>
-                    <a href="/teams/anaheim-ducks/news">Anaheim Ducks</a>
-                    </li>
-                    <li>
-                    <a href="/teams/dallas-stars/news">Dallas Stars</a>
-                    </li>
-                    <li>
-                    <a href="/teams/los-angeles-kings/news">Los Angeles Kings</a>
-                    </li>
-                    <li>
-                    <a href="/teams/phoenix-coyotes/news">Phoenix Coyotes</a>
-                    </li>
-                    <li>
-                    <a href="/teams/san-jose-sharks/news">San Jose Sharks</a>
-                    </li>
-                  </ul>
-                </div>
-                <div class="division div_3">
-                  <h2>Central</h2>
-                  <ul>
-                    <li>
-                    <a href="/teams/chicago-blackhawks/news">Chicago Blackhawks</a>
-                    </li>
-                    <li>
-                    <a href="/teams/columbus-blue-jackets/news">Columbus Blue Jackets</a>
-                    </li>
-                    <li>
-                    <a href="/teams/detroit-red-wings/news">Detroit Red Wings</a>
-                    </li>
-                    <li>
-                    <a href="/teams/nashville-predators/news">Nashville Predators</a>
-                    </li>
-                    <li>
-                    <a href="/teams/st-louis-blues/news">St. Louis Blues</a>
-                    </li>
-                  </ul>
-                </div>
-                <div class="division div_4">
-                  <h2>Northeast</h2>
+                  <h2>Atlantic</h2>
                   <ul>
                     <li>
                     <a href="/teams/boston-bruins/news">Boston Bruins</a>
@@ -665,19 +606,34 @@ googletag.cmd.push(function() {
                     <a href="/teams/buffalo-sabres/news">Buffalo Sabres</a>
                     </li>
                     <li>
+                    <a href="/teams/detroit-red-wings/news">Detroit Red Wings</a>
+                    </li>
+                    <li>
+                    <a href="/teams/florida-panthers/news">Florida Panthers</a>
+                    </li>
+                    <li>
                     <a href="/teams/montreal-canadiens/news">Montreal Canadiens</a>
                     </li>
                     <li>
                     <a href="/teams/ottawa-senators/news">Ottawa Senators</a>
                     </li>
                     <li>
+                    <a href="/teams/tampa-bay-lightning/news">Tampa Bay Lightning</a>
+                    </li>
+                    <li>
                     <a href="/teams/toronto-maple-leafs/news">Toronto Maple Leafs</a>
                     </li>
                   </ul>
                 </div>
-                <div class="division div_5">
-                  <h2>Atlantic</h2>
+                <div class="division div_2">
+                  <h2>Metropolitan</h2>
                   <ul>
+                    <li>
+                    <a href="/teams/carolina-hurricanes/news">Carolina Hurricanes</a>
+                    </li>
+                    <li>
+                    <a href="/teams/columbus-blue-jackets/news">Columbus Blue Jackets</a>
+                    </li>
                     <li>
                     <a href="/teams/new-jersey-devils/news">New Jersey Devils</a>
                     </li>
@@ -693,25 +649,60 @@ googletag.cmd.push(function() {
                     <li>
                     <a href="/teams/pittsburgh-penguins/news">Pittsburgh Penguins</a>
                     </li>
-                  </ul>
-                </div>
-                <div class="division div_6">
-                  <h2>Southeast</h2>
-                  <ul>
-                    <li>
-                    <a href="/teams/carolina-hurricanes/news">Carolina Hurricanes</a>
-                    </li>
-                    <li>
-                    <a href="/teams/florida-panthers/news">Florida Panthers</a>
-                    </li>
-                    <li>
-                    <a href="/teams/tampa-bay-lightning/news">Tampa Bay Lightning</a>
-                    </li>
                     <li>
                     <a href="/teams/washington-capitals/news">Washington Capitals</a>
                     </li>
+                  </ul>
+                </div>
+                <div class="division div_3">
+                  <h2>Central</h2>
+                  <ul>
+                    <li>
+                    <a href="/teams/chicago-blackhawks/news">Chicago Blackhawks</a>
+                    </li>
+                    <li>
+                    <a href="/teams/colorado-avalanche/news">Colorado Avalanche</a>
+                    </li>
+                    <li>
+                    <a href="/teams/dallas-stars/news">Dallas Stars</a>
+                    </li>
+                    <li>
+                    <a href="/teams/minnesota-wild/news">Minnesota Wild</a>
+                    </li>
+                    <li>
+                    <a href="/teams/nashville-predators/news">Nashville Predators</a>
+                    </li>
+                    <li>
+                    <a href="/teams/st-louis-blues/news">St. Louis Blues</a>
+                    </li>
                     <li>
                     <a href="/teams/winnipeg-jets/news">Winnipeg Jets</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="division div_4">
+                  <h2>Pacific</h2>
+                  <ul>
+                    <li>
+                    <a href="/teams/anaheim-ducks/news">Anaheim Ducks</a>
+                    </li>
+                    <li>
+                    <a href="/teams/calgary-flames/news">Calgary Flames</a>
+                    </li>
+                    <li>
+                    <a href="/teams/edmonton-oilers/news">Edmonton Oilers</a>
+                    </li>
+                    <li>
+                    <a href="/teams/los-angeles-kings/news">Los Angeles Kings</a>
+                    </li>
+                    <li>
+                    <a href="/teams/phoenix-coyotes/news">Phoenix Coyotes</a>
+                    </li>
+                    <li>
+                    <a href="/teams/san-jose-sharks/news">San Jose Sharks</a>
+                    </li>
+                    <li>
+                    <a href="/teams/vancouver-canucks/news">Vancouver Canucks</a>
                     </li>
                   </ul>
                 </div>
@@ -760,6 +751,15 @@ googletag.cmd.push(function() {
                     <a href="/teams/north-carolina-tar-heels-basketball/news">North Carolina</a>
                     </li>
                     <li>
+                    <a href="/teams/notre-dame-fighting-irish-basketball/news">Notre Dame</a>
+                    </li>
+                    <li>
+                    <a href="/teams/pittsburgh-panthers-basketball/news">Pittsburgh</a>
+                    </li>
+                    <li>
+                    <a href="/teams/syracuse-orangemen-basketball/news">Syracuse</a>
+                    </li>
+                    <li>
                     <a href="/teams/virginia-tech-hokies-basketball/news">Virginia Tech</a>
                     </li>
                     <li>
@@ -771,11 +771,55 @@ googletag.cmd.push(function() {
                   </ul>
                 </div>
                 <div class="division div_2">
-                  <h2>Atlantic Ten</h2>
+                  <h2>SEC</h2>
                   <ul>
                     <li>
-                    <a href="/teams/charlotte-49ers-basketball/news">Charlotte</a>
+                    <a href="/teams/alabama-crimson-tide-basketball/news">Alabama</a>
                     </li>
+                    <li>
+                    <a href="/teams/arkansas-razorbacks-basketball/news">Arkansas</a>
+                    </li>
+                    <li>
+                    <a href="/teams/auburn-tigers-basketball/news">Auburn</a>
+                    </li>
+                    <li>
+                    <a href="/teams/florida-gators-basketball/news">Florida</a>
+                    </li>
+                    <li>
+                    <a href="/teams/georgia-bulldogs-basketball/news">Georgia</a>
+                    </li>
+                    <li>
+                    <a href="/teams/kentucky-wildcats-basketball/news">Kentucky</a>
+                    </li>
+                    <li>
+                    <a href="/teams/lsu-tigers-basketball/news">LSU</a>
+                    </li>
+                    <li>
+                    <a href="/teams/mississippi-state-bulldogs-basketball/news">Mississippi State</a>
+                    </li>
+                    <li>
+                    <a href="/teams/mississippi-rebels-basketball/news">Ole Miss</a>
+                    </li>
+                    <li>
+                    <a href="/teams/missouri-tigers-basketball/news">Missouri</a>
+                    </li>
+                    <li>
+                    <a href="/teams/south-carolina-gamecocks-basketball/news">South Carolina</a>
+                    </li>
+                    <li>
+                    <a href="/teams/tennessee-volunteers-basketball/news">Tennessee</a>
+                    </li>
+                    <li>
+                    <a href="/teams/texas-am-aggies-basketball/news">Texas A&amp;M</a>
+                    </li>
+                    <li>
+                    <a href="/teams/vanderbilt-commodores-basketball/news">Vanderbilt</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="division div_3">
+                  <h2>Atlantic Ten</h2>
+                  <ul>
                     <li>
                     <a href="/teams/dayton-flyers-basketball/news">Dayton</a>
                     </li>
@@ -809,91 +853,9 @@ googletag.cmd.push(function() {
                     <li>
                     <a href="/teams/st-bonaventure-bonnies-basketball/news">St. Bonaventure</a>
                     </li>
-                    <li>
-                    <a href="/teams/temple-owls-basketball/news">Temple</a>
-                    </li>
-                    <li>
-                    <a href="/teams/xavier-musketeers-basketball/news">Xavier</a>
-                    </li>
-                  </ul>
-                </div>
-                <div class="division div_3">
-                  <h2>Big 12</h2>
-                  <ul>
-                    <li>
-                    <a href="/teams/baylor-bears-basketball/news">Baylor</a>
-                    </li>
-                    <li>
-                    <a href="/teams/iowa-state-cyclones-basketball/news">Iowa State</a>
-                    </li>
-                    <li>
-                    <a href="/teams/kansas-state-wildcats-basketball/news">Kansas State</a>
-                    </li>
-                    <li>
-                    <a href="/teams/kansas-jayhawks-basketball/news">Kansas</a>
-                    </li>
-                    <li>
-                    <a href="/teams/oklahoma-state-cowboys-basketball/news">Oklahoma State</a>
-                    </li>
-                    <li>
-                    <a href="/teams/oklahoma-sooners-basketball/news">Oklahoma</a>
-                    </li>
-                    <li>
-                    <a href="/teams/texas-tech-red-raiders-basketball/news">Texas Tech</a>
-                    </li>
-                    <li>
-                    <a href="/teams/texas-longhorns-basketball/news">Texas</a>
-                    </li>
-                    <li>
-                    <a href="/teams/west-virginia-mountaineers-basketball/news">West Virginia</a>
-                    </li>
                   </ul>
                 </div>
                 <div class="division div_4">
-                  <h2>Big East</h2>
-                  <ul>
-                    <li>
-                    <a href="/teams/cincinnati-bearcats-basketball/news">Cincinnati</a>
-                    </li>
-                    <li>
-                    <a href="/teams/connecticut-huskies-basketball/news">Connecticut</a>
-                    </li>
-                    <li>
-                    <a href="/teams/georgetown-hoyas-basketball/news">Georgetown</a>
-                    </li>
-                    <li>
-                    <a href="/teams/louisville-cardinals-basketball/news">Louisville</a>
-                    </li>
-                    <li>
-                    <a href="/teams/marquette-golden-eagles-basketball/news">Marquette</a>
-                    </li>
-                    <li>
-                    <a href="/teams/notre-dame-fighting-irish-basketball/news">Notre Dame</a>
-                    </li>
-                    <li>
-                    <a href="/teams/pittsburgh-panthers-basketball/news">Pittsburgh</a>
-                    </li>
-                    <li>
-                    <a href="/teams/providence-friars-basketball/news">Providence</a>
-                    </li>
-                    <li>
-                    <a href="/teams/rutgers-scarlet-knights-basketball/news">Rutgers</a>
-                    </li>
-                    <li>
-                    <a href="/teams/seton-hall-pirates-basketball/news">Seton Hall</a>
-                    </li>
-                    <li>
-                    <a href="/teams/st-johns-red-storm-basketball/news">St. John's</a>
-                    </li>
-                    <li>
-                    <a href="/teams/syracuse-orangemen-basketball/news">Syracuse</a>
-                    </li>
-                    <li>
-                    <a href="/teams/villanova-wildcats-basketball/news">Villanova</a>
-                    </li>
-                  </ul>
-                </div>
-                <div class="division div_5">
                   <h2>Big Ten</h2>
                   <ul>
                     <li>
@@ -934,7 +896,7 @@ googletag.cmd.push(function() {
                     </li>
                   </ul>
                 </div>
-                <div class="division div_6">
+                <div class="division div_5">
                   <h2>Pac-12</h2>
                   <ul>
                     <li>
@@ -972,54 +934,88 @@ googletag.cmd.push(function() {
                     </li>
                   </ul>
                 </div>
-                <div class="division div_7">
-                  <h2>SEC</h2>
+                <div class="division div_6">
+                  <h2>Big 12</h2>
                   <ul>
                     <li>
-                    <a href="/teams/alabama-crimson-tide-basketball/news">Alabama</a>
+                    <a href="/teams/baylor-bears-basketball/news">Baylor</a>
                     </li>
                     <li>
-                    <a href="/teams/arkansas-razorbacks-basketball/news">Arkansas</a>
+                    <a href="/teams/iowa-state-cyclones-basketball/news">Iowa State</a>
                     </li>
                     <li>
-                    <a href="/teams/auburn-tigers-basketball/news">Auburn</a>
+                    <a href="/teams/kansas-state-wildcats-basketball/news">Kansas State</a>
                     </li>
                     <li>
-                    <a href="/teams/florida-gators-basketball/news">Florida</a>
+                    <a href="/teams/kansas-jayhawks-basketball/news">Kansas</a>
                     </li>
                     <li>
-                    <a href="/teams/georgia-bulldogs-basketball/news">Georgia</a>
+                    <a href="/teams/oklahoma-state-cowboys-basketball/news">Oklahoma State</a>
                     </li>
                     <li>
-                    <a href="/teams/kentucky-wildcats-basketball/news">Kentucky</a>
+                    <a href="/teams/oklahoma-sooners-basketball/news">Oklahoma</a>
                     </li>
                     <li>
-                    <a href="/teams/lsu-tigers-basketball/news">LSU</a>
+                    <a href="/teams/texas-tech-red-raiders-basketball/news">Texas Tech</a>
                     </li>
                     <li>
-                    <a href="/teams/mississippi-state-bulldogs-basketball/news">Mississippi State</a>
+                    <a href="/teams/texas-longhorns-basketball/news">Texas</a>
                     </li>
                     <li>
-                    <a href="/teams/mississippi-rebels-basketball/news">Mississippi</a>
+                    <a href="/teams/west-virginia-mountaineers-basketball/news">West Virginia</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="division div_7">
+                  <h2>Big East</h2>
+                  <ul>
+                    <li>
+                    <a href="/teams/georgetown-hoyas-basketball/news">Georgetown</a>
                     </li>
                     <li>
-                    <a href="/teams/missouri-tigers-basketball/news">Missouri</a>
+                    <a href="/teams/marquette-golden-eagles-basketball/news">Marquette</a>
                     </li>
                     <li>
-                    <a href="/teams/south-carolina-gamecocks-basketball/news">South Carolina</a>
+                    <a href="/teams/providence-friars-basketball/news">Providence</a>
                     </li>
                     <li>
-                    <a href="/teams/tennessee-volunteers-basketball/news">Tennessee</a>
+                    <a href="/teams/seton-hall-pirates-basketball/news">Seton Hall</a>
                     </li>
                     <li>
-                    <a href="/teams/texas-am-aggies-basketball/news">Texas A&amp;M</a>
+                    <a href="/teams/st-johns-red-storm-basketball/news">St. John's</a>
                     </li>
                     <li>
-                    <a href="/teams/vanderbilt-commodores-basketball/news">Vanderbilt</a>
+                    <a href="/teams/villanova-wildcats-basketball/news">Villanova</a>
+                    </li>
+                    <li>
+                    <a href="/teams/xavier-musketeers-basketball/news">Xavier</a>
                     </li>
                   </ul>
                 </div>
                 <div class="division div_8">
+                  <h2>American Athletic</h2>
+                  <ul>
+                    <li>
+                    <a href="/teams/cincinnati-bearcats-basketball/news">Cincinnati</a>
+                    </li>
+                    <li>
+                    <a href="/teams/connecticut-huskies-basketball/news">Connecticut</a>
+                    </li>
+                    <li>
+                    <a href="/teams/louisville-cardinals-basketball/news">Louisville</a>
+                    </li>
+                    <li>
+                    <a href="/teams/memphis-tigers-basketball/news">Memphis</a>
+                    </li>
+                    <li>
+                    <a href="/teams/rutgers-scarlet-knights-basketball/news">Rutgers</a>
+                    </li>
+                    <li>
+                    <a href="/teams/temple-owls-basketball/news">Temple</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="division div_9">
                   <h2>Other</h2>
                   <ul>
                     <li>
@@ -1029,10 +1025,10 @@ googletag.cmd.push(function() {
                     <a href="/teams/brigham-young-cougars-basketball/news">Brigham Young</a>
                     </li>
                     <li>
-                    <a href="/teams/gonzaga-bulldogs-basketball/news">Gonzaga</a>
+                    <a href="/teams/charlotte-49ers-basketball/news">Charlotte</a>
                     </li>
                     <li>
-                    <a href="/teams/memphis-tigers-basketball/news">Memphis</a>
+                    <a href="/teams/gonzaga-bulldogs-basketball/news">Gonzaga</a>
                     </li>
                     <li>
                     <a href="/teams/san-diego-state-aztecs-basketball/news">San Diego State</a>
@@ -1087,6 +1083,12 @@ googletag.cmd.push(function() {
                     <a href="/teams/north-carolina-tar-heels-football/news">North Carolina</a>
                     </li>
                     <li>
+                    <a href="/teams/pittsburgh-panthers-football/news">Pittsburgh</a>
+                    </li>
+                    <li>
+                    <a href="/teams/syracuse-orangemen-football/news">Syracuse</a>
+                    </li>
+                    <li>
                     <a href="/teams/virginia-tech-hokies-football/news">Virginia Tech</a>
                     </li>
                     <li>
@@ -1098,70 +1100,53 @@ googletag.cmd.push(function() {
                   </ul>
                 </div>
                 <div class="division div_2">
-                  <h2>Big 12</h2>
+                  <h2>SEC</h2>
                   <ul>
                     <li>
-                    <a href="/teams/baylor-bears-football/news">Baylor</a>
+                    <a href="/teams/alabama-crimson-tide-football/news">Alabama</a>
                     </li>
                     <li>
-                    <a href="/teams/iowa-state-cyclones-football/news">Iowa State</a>
+                    <a href="/teams/arkansas-razorbacks-football/news">Arkansas</a>
                     </li>
                     <li>
-                    <a href="/teams/kansas-state-wildcats-football/news">Kansas State</a>
+                    <a href="/teams/auburn-tigers-football/news">Auburn</a>
                     </li>
                     <li>
-                    <a href="/teams/kansas-jayhawks-football/news">Kansas</a>
+                    <a href="/teams/florida-gators-football/news">Florida</a>
                     </li>
                     <li>
-                    <a href="/teams/oklahoma-state-cowboys-football/news">Oklahoma State</a>
+                    <a href="/teams/georgia-bulldogs-football/news">Georgia</a>
                     </li>
                     <li>
-                    <a href="/teams/oklahoma-sooners-football/news">Oklahoma</a>
+                    <a href="/teams/kentucky-wildcats-football/news">Kentucky</a>
                     </li>
                     <li>
-                    <a href="/teams/tcu-horned-frogs-football/news">TCU</a>
+                    <a href="/teams/lsu-tigers-football/news">LSU</a>
                     </li>
                     <li>
-                    <a href="/teams/texas-tech-red-raiders-football/news">Texas Tech</a>
+                    <a href="/teams/mississippi-state-bulldogs-football/news">Mississippi State</a>
                     </li>
                     <li>
-                    <a href="/teams/texas-longhorns-football/news">Texas</a>
+                    <a href="/teams/mississippi-rebels-football/news">Ole Miss</a>
                     </li>
                     <li>
-                    <a href="/teams/west-virginia-mountaineers-football/news">West Virginia</a>
+                    <a href="/teams/missouri-tigers-football/news">Missouri</a>
+                    </li>
+                    <li>
+                    <a href="/teams/south-carolina-gamecocks-football/news">South Carolina</a>
+                    </li>
+                    <li>
+                    <a href="/teams/tennessee-volunteers-football/news">Tennessee</a>
+                    </li>
+                    <li>
+                    <a href="/teams/texas-am-aggies-football/news">Texas A&amp;M</a>
+                    </li>
+                    <li>
+                    <a href="/teams/vanderbilt-commodores-football/news">Vanderbilt</a>
                     </li>
                   </ul>
                 </div>
                 <div class="division div_3">
-                  <h2>Big East</h2>
-                  <ul>
-                    <li>
-                    <a href="/teams/cincinnati-bearcats-football/news">Cincinnati</a>
-                    </li>
-                    <li>
-                    <a href="/teams/connecticut-huskies-football/news">Connecticut</a>
-                    </li>
-                    <li>
-                    <a href="/teams/louisville-cardinals-football/news">Louisville</a>
-                    </li>
-                    <li>
-                    <a href="/teams/pittsburgh-panthers-football/news">Pittsburgh</a>
-                    </li>
-                    <li>
-                    <a href="/teams/providence-friars-football/news">Providence</a>
-                    </li>
-                    <li>
-                    <a href="/teams/rutgers-scarlet-knights-football/news">Rutgers</a>
-                    </li>
-                    <li>
-                    <a href="/teams/south-florida-bulls-football/news">South Florida</a>
-                    </li>
-                    <li>
-                    <a href="/teams/syracuse-orangemen-football/news">Syracuse</a>
-                    </li>
-                  </ul>
-                </div>
-                <div class="division div_4">
                   <h2>Big Ten</h2>
                   <ul>
                     <li>
@@ -1202,7 +1187,7 @@ googletag.cmd.push(function() {
                     </li>
                   </ul>
                 </div>
-                <div class="division div_5">
+                <div class="division div_4">
                   <h2>Pac-12</h2>
                   <ul>
                     <li>
@@ -1243,50 +1228,64 @@ googletag.cmd.push(function() {
                     </li>
                   </ul>
                 </div>
-                <div class="division div_6">
-                  <h2>SEC</h2>
+                <div class="division div_5">
+                  <h2>American Athletic</h2>
                   <ul>
                     <li>
-                    <a href="/teams/alabama-crimson-tide-football/news">Alabama</a>
+                    <a href="/teams/cincinnati-bearcats-football/news">Cincinnati</a>
                     </li>
                     <li>
-                    <a href="/teams/arkansas-razorbacks-football/news">Arkansas</a>
+                    <a href="/teams/connecticut-huskies-football/news">Connecticut</a>
                     </li>
                     <li>
-                    <a href="/teams/auburn-tigers-football/news">Auburn</a>
+                    <a href="/teams/louisville-cardinals-football/news">Louisville</a>
                     </li>
                     <li>
-                    <a href="/teams/florida-gators-football/news">Florida</a>
+                    <a href="/teams/providence-friars-football/news">Providence</a>
                     </li>
                     <li>
-                    <a href="/teams/georgia-bulldogs-football/news">Georgia</a>
+                    <a href="/teams/rutgers-scarlet-knights-football/news">Rutgers</a>
                     </li>
                     <li>
-                    <a href="/teams/kentucky-wildcats-football/news">Kentucky</a>
+                    <a href="/teams/south-florida-bulls-football/news">South Florida</a>
                     </li>
                     <li>
-                    <a href="/teams/lsu-tigers-football/news">LSU</a>
+                    <a href="/teams/temple-owls-football/news">Temple</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="division div_6">
+                  <h2>Big 12</h2>
+                  <ul>
+                    <li>
+                    <a href="/teams/baylor-bears-football/news">Baylor</a>
                     </li>
                     <li>
-                    <a href="/teams/mississippi-state-bulldogs-football/news">Mississippi State</a>
+                    <a href="/teams/iowa-state-cyclones-football/news">Iowa State</a>
                     </li>
                     <li>
-                    <a href="/teams/mississippi-rebels-football/news">Mississippi</a>
+                    <a href="/teams/kansas-state-wildcats-football/news">Kansas State</a>
                     </li>
                     <li>
-                    <a href="/teams/missouri-tigers-football/news">Missouri</a>
+                    <a href="/teams/kansas-jayhawks-football/news">Kansas</a>
                     </li>
                     <li>
-                    <a href="/teams/south-carolina-gamecocks-football/news">South Carolina</a>
+                    <a href="/teams/oklahoma-state-cowboys-football/news">Oklahoma State</a>
                     </li>
                     <li>
-                    <a href="/teams/tennessee-volunteers-football/news">Tennessee</a>
+                    <a href="/teams/oklahoma-sooners-football/news">Oklahoma</a>
                     </li>
                     <li>
-                    <a href="/teams/texas-am-aggies-football/news">Texas A&amp;M</a>
+                    <a href="/teams/tcu-horned-frogs-football/news">TCU</a>
                     </li>
                     <li>
-                    <a href="/teams/vanderbilt-commodores-football/news">Vanderbilt</a>
+                    <a href="/teams/texas-tech-red-raiders-football/news">Texas Tech</a>
+                    </li>
+                    <li>
+                    <a href="/teams/texas-longhorns-football/news">Texas</a>
+                    </li>
+                    <li>
+                    <a href="/teams/west-virginia-mountaineers-football/news">West Virginia</a>
                     </li>
                   </ul>
                 </div>
@@ -1301,9 +1300,6 @@ googletag.cmd.push(function() {
                     </li>
                     <li>
                     <a href="/teams/notre-dame-fighting-irish-football/news">Notre Dame</a>
-                    </li>
-                    <li>
-                    <a href="/teams/temple-owls-football/news">Temple</a>
                     </li>
                   </ul>
                 </div>
@@ -1615,8 +1611,15 @@ googletag.cmd.push(function() {
 	
   <!-- <iframe src ="/ads/skyscraper/fsv.html" width="160" height="600" scrolling="no" frameborder="0"></iframe> -->
 </div>
+<div id="sidebar">
+<script type="text/javascript" src="http://ap.lijit.com/www/delivery/fpi.js?z=215154&amp;u=sportspyder&amp;width=160&amp;height=600"></script>
+</div>
 
     </div>
+
+	  <div id="home_bottom">
+	    <script type="text/javascript" src="http://ap.lijit.com///www/delivery/fpi.js?z=225083&amp;u=sportspyder&amp;width=728&amp;height=90"></script>
+	  </div>
   </div> <!-- /layout -->
 
   <hr>
@@ -1662,7 +1665,7 @@ googletag.cmd.push(function() {
    <!-- /cache footer -->
 </div> <!-- /wrapper -->
 
-  <form accept-charset="UTF-8" action="/privacy" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="d7yn2AheU0E/clxOqpVID7xwQRCOqlXjofQlTipW0K4="></div>
+  <form accept-charset="UTF-8" action="/privacy" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="dTnNDm0gHahfIa7BKJ3U6L0B4bXoyM1tnM2fyJMkJnk="></div>
     
     
 </form>
@@ -1677,7 +1680,7 @@ googletag.cmd.push(function() {
     <a href="/users/new">Don't have an account yet? Sign up →</a>
   </div>
   
-<form accept-charset="UTF-8" action="https://sportspyder.com/session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="d7yn2AheU0E/clxOqpVID7xwQRCOqlXjofQlTipW0K4="></div>
+<form accept-charset="UTF-8" action="https://sportspyder.com/session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="dTnNDm0gHahfIa7BKJ3U6L0B4bXoyM1tnM2fyJMkJnk="></div>
   <div class="body">  
     <fieldset>
       <table class="form_table" cellspacing="0">
@@ -1716,7 +1719,7 @@ googletag.cmd.push(function() {
     <a href="/login">Already have an account? Sign in →</a>
   </div>
 
-<form accept-charset="UTF-8" action="https://sportspyder.com/users" class="new_user" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="d7yn2AheU0E/clxOqpVID7xwQRCOqlXjofQlTipW0K4="></div>
+<form accept-charset="UTF-8" action="https://sportspyder.com/users" class="new_user" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="dTnNDm0gHahfIa7BKJ3U6L0B4bXoyM1tnM2fyJMkJnk="></div>
   <div class="body">  
     <fieldset>
       <table class="form_table" cellspacing="0">
@@ -1785,7 +1788,7 @@ googletag.cmd.push(function() {
 
   
   <!-- JS -->
-  <script src="/assets/application-51529a17281340c827a39b0d712573dc.js" type="text/javascript"></script>
+  <script src="/assets/application-8218b7e933d3a7245c1fd062a08f223a.js" type="text/javascript"></script>
 
   
 
@@ -1801,12 +1804,12 @@ NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
 e.type="text/javascript";
 e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
+  "js-agent.newrelic.com/nr-100.js";
 document.body.appendChild(e);
 if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","b5959d03a0","3233","cF0PF0QKW18EFB5WCV1GBA1CFhhDEw9HVAVK",0,177,new Date().getTime(),"","","","",""]);</script>
+NREUMQ.push(["nrfj","beacon-3.newrelic.com","b5959d03a0","3233","cF0PF0QKW18EFB5WCV1GBA1CFhhDEw9HVAVK",0,252,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
