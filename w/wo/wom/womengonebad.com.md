@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womengonebad.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601182010id_/http%3A//www.womengonebad.com/womengonebad/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womengonebad.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206125257id_/http%3A//womengonebad.com/womengonebad/privacy.html) for the most accurate reproduction.*
 
 # 
 
