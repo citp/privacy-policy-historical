@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendpepper.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524002228id_/http%3A//sendpepper.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendpepper.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206142021id_/http%3A//www.sendpepper.com/privacy.php) for the most accurate reproduction.*
 
 # Sendpepper -
 
