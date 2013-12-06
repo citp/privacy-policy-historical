@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505135441id_/http%3A//www.schooldude.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooldude.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206182513id_/http%3A//www.schooldude.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy «
+# Cloud Operations Software for Schools - SchoolDude
+
+**SchoolDude Privacy Policy**
 
 Our policy is to respect and protect the privacy of our users. Our goal is to provide a "buyer centric" service to our members. This means we strive to represent the best interest of our members rather than the suppliers and advertisers that would like to sell products and services to our members. We will not willfully disclose individually identifiable information about our customers to any third party without first receiving that user’s permission. 
 
