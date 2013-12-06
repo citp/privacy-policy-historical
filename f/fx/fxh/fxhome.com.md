@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fxhome.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623130535id_/http%3A//fxhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxhome.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206112844id_/http%3A//fxhome.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - FXhome
+# Privacy Policy - FXHOME.com
 
 ## INFORMATION WE COLLECT
 
@@ -30,7 +30,7 @@ You can ask us to update your personal information by emailing precise details o
 
 You can ask us not to send you future marketing communications by logging into your account on fxhome.com and changing your preferences. Please note that we will still keep your personal information for processing your order and fulfilling customer service and after sales obligations.
 
-Under the Data Protection Act 1998 you are entitled to request personal information we hold about you. A small fee will be payable. If you would like a copy of the information we hold about you please write to FXhome Ltd, Suite 4, 27 St Giles Street, Norwich, Norfolk, UK, NR2 1JN.
+Under the Data Protection Act 1998 you are entitled to request personal information we hold about you. A small fee will be payable. If you would like a copy of the information we hold about you please write to FXHOME Ltd, Suite 4, 27 St Giles Street, Norwich, Norfolk, UK, NR2 1JN.
 
 If you believe the information we hold about you is incorrect or incomplete please email or write to us as soon as possible. We will promptly correct any information found to be incorrect.
 
@@ -40,6 +40,6 @@ In order to prevent unauthorised access to or disclosure of your data we use sui
 
 We are fully compliant with the Data Protection Act 1998.
 
-FXhome Limited is a company registered in England and Wales with company number 04172812 and having its registered office at FXhome Ltd, Suite 4, 27 St Giles Street, Norwich, Norfolk, UK, NR2 1JN, VAT No. GB770403942.
+FXHOME Limited is a company registered in England and Wales with company number 04172812 and having its registered office at FXHOME Ltd, Suite 4, 27 St Giles Street, Norwich, Norfolk, UK, NR2 1JN, VAT No. GB770403942.
 
 **Telephone Number:** 00+44 (0)1603 518418
