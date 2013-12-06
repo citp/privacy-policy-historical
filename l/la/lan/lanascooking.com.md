@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lanascooking.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517221242id_/http%3A//www.lanascooking.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanascooking.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206022956id_/http%3A//www.lanascooking.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Never Enough Thyme - Recipes with a slight southern accent. — Never Enough Thyme - Recipes with a slight southern accent.
 
