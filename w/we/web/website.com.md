@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the website.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425064730id_/http%3A//www.website.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206174808id_/http%3A//www.website.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Website.com
 
@@ -30,6 +30,7 @@ We will not disclose or transfer your personal information to any third parties 
     2. We believe that it is necessary to do so in order to respond to any claims.
     3. We believe that it is necessary to do so in order to comply with the law, legal processes, or authorities.
     4. We believe that it is necessary to do so in order to protect the rights, property, interests, or safety of Website.com, our employees, our users, or the public. 
+    5. We are required to do so in connection with an acquisition, merger, or sale of all or a portion of our business.
   * ## Online Security
 
 The online transaction processing is provided by PayDollar using the highest commercially available encryption technology - Extended Validation (EV) SSL Certificate encryption. All confidential information is automatically encrypted before it is transmitted, to protect the data from being read and interpreted. 
