@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steaknshake.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629142610id_/http%3A//www.steaknshake.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steaknshake.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206075212id_/http%3A//www.steaknshake.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Steak 'n Shake
 
