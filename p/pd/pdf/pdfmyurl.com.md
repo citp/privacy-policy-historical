@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfmyurl.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615050433id_/http%3A//pdfmyurl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfmyurl.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206043049id_/http%3A//pdfmyurl.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -10,9 +10,9 @@ Where collected, e-mail addresses are used to contact users regarding specific s
 
 pdfmyurl uses logged IP address information to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
-In order to better understand what happens on pdfmyurl, we use cookies. A cookie is a small text file that a Website writes to your hard drive. Cookies work as your identification tag and may be used to identify you between visits / clicks; cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our website and the pages of the site most frequently visited. They cannot be executed as code or deliver viruses. For an example of how cookies are used please visit our partner site www.opentracker.net Cookies are unique and can only be read by the server that assigns them. [Here is an article that we wrote explaining what cookies are.](http://www.opentracker.net/en/articles/all-about-cookies-third-party.jsp)   
+In order to better understand what happens on pdfmyurl, we use cookies. A cookie is a small text file that a Website writes to your hard drive. Cookies work as your identification tag and may be used to identify you between visits / clicks; cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our website and the pages of the site most frequently visited. They cannot be executed as code or deliver viruses. Cookies are unique and can only be read by the server that assigns them. [Here is an article explaining what cookies are.](http://www.opentracker.net/en/articles/all-about-cookies-third-party.jsp)   
 You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages. 
 
 pdfmyurl reserves the right to augment this Privacy Policy as the service evolves, particularly if/when added services require the collection of additional user information. 
 
-Should you have further questions or concerns about these privacy policies, please send us an e-mail at [pdfmyurl@opentracker.net](mailto:pdfmyurl@opentracker.net)
+Should you have further questions or concerns about these privacy policies, please send us an e-mail at [mail@pdfmyurl.com](mailto:mail@pdfmyurl.com)
