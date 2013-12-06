@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mywebdunia.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214081052id_/http%3A//info.webdunia.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywebdunia.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206150934id_/http%3A//info.webdunia.com/privacy.htm) for the most accurate reproduction.*
 
 # Webdunia Privacy Policy
 
-| | | [](http://www.webdunia.com/)| |   
+|  |  | [](http://www.webdunia.com/) |  |   
 ---|---|---|---  
-| |   
+|  |   
 | Webdunia Privacy Policy   
 ---  
 |    
