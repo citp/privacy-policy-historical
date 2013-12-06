@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewbook.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607022741id_/http%3A//www.viewbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewbook.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206052616id_/http%3A//www.viewbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Viewbook - Privacy Policy
 
@@ -6,9 +6,9 @@
 
   * [Tour](https://web.archive.org/tour)
   * [Portfolio Examples](https://web.archive.org/portfolio-examples)
-  * [Plans & Pricing](https://web.archive.org/plans-and-pricing)
+  * [Pricing](https://web.archive.org/plans-and-pricing)
   * [iPad Portfolio](https://web.archive.org/ipad-portfolio-app)
-  * [Weblog](http://www.viewbook.com/weblog/)
+  * [News](http://news.viewbook.com/)
   * [Help](http://support.viewbook.com/)
   * [Login](https://account.viewbook.com/login)
 
