@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the usacycling.org privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601042159id_/http%3A//usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usacycling.org privacy policy that was archived on 2013-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131206105645id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" style="" class=" js flexbox canvas canvastext geolocation indexeddb draganddrop multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio"><head>
 <title>CHILDREN'S ONLINE PRIVACY PROTECTION ACT - USA Cycling</title>
@@ -33,14 +33,44 @@
 <link href="/css/story.css" rel="stylesheet" type="text/css" media="screen">
 
 <link href="/css/sidebar.css" rel="stylesheet" type="text/css" media="screen">
-<!-- robots content="noindex" -->
+<style>
+	.reply{
+		text-align: right;
+		position: absolute;
+		bottom: 2px;
+		right: 2px;
+	}
+	p.comment_details{
+		font-size: 10px;
+		font-weight: bold;
+	}
+	p.comment_greeting{
+		font-weight: bold;
+	}
+	div.comment{
+		margin-bottom: 5px;
+		padding: 5px;
+		position: relative;
+	}
+	div.comment_body{
+		margin-bottom: 15px;
+	}
+	div.comment.odd{
+		background-color: #ddddff;
+	}
+	div#comment_notice{
+		color: #ff0000;
+		font-size: 10px;
+		display: none;
+	}
+</style><!-- robots content="noindex" -->
 <!--[if lt IE 8]>
 <style type='text/css'>
 .ui-tabs {position: static}
 .ui-tabs .ui-tabs-nav li {position: static}
 </style>
 <![endif]-->
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=404898982878976"></script><script type="text/javascript" src="//use.typekit.net/hbx2wqw.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=404898982878976"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="//use.typekit.net/hbx2wqw.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <script type="text/javascript" src="/js/jquery.js"></script>
 <script type="text/javascript" src="/js/jquery.ui.js"></script>
@@ -82,10 +112,75 @@
 		}
 	}
 </script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 <script type="text/javascript">var memberLogin = false;</script>
 
 <script type="text/javascript" src="/myusac/js/shadowbox.js"></script>
-  <script language="javascript" type="text/javascript">
+<script>
+	function save_comment()
+	{
+		$('#commentStat').html("Please wait while we attempt to save your comment.");
+		var formObj = $('#commentForm');
+		var url = "/ajax/ajax.comments.php";
+		$.post(url,formObj.serialize(),function(data)
+		{
+			if(data.error == 0)
+			{
+				$('#commentDiv').html(data.message);
+			}
+			else
+			{
+				$('#commentStat').html(data.message);
+			}
+		},'json');
+	}
+	function reply(i)
+	{
+		$.getJSON("/ajax/ajax.comments.php","act=reply&id="+i,function(data){
+			if(data.error == 0)
+			{
+				$('#commentDiv').html(data.message);
+			}
+		});
+	}
+	function removeComment(i)
+	{
+		$.getJSON("/ajax/ajax.comments.php","act=del&comment="+i,function(data){
+			if(data.error == 0)
+			{
+				alert(data.message);
+				$('#comment_'+i).remove();
+			}
+		});
+	}
+	function reportComment(i)
+	{
+		$.getJSON("/ajax/ajax.comments.php","act=report&comment="+i,function(data){
+			if(data.error == 0)
+			{
+				alert(data.message);
+				$('#comment_'+i).remove();
+			}
+		});
+	}
+	function revokePrivs(c)
+	{
+		var msg = "Are you sure you wish to revoke this member's priviledge for commenting? All comments they have made will be removed.";
+		if(confirm(msg))
+		{
+			$.getJSON("/ajax/ajax.comments.php","act=revoke&compid="+c,function(data){
+				if(data.error == 0)
+				{
+					alert(data.message);
+				}
+			});
+		}
+	}
+	function toggleNotice()
+	{
+		$('#comment_notice').slideDown();
+	}
+</script>  <script language="javascript" type="text/javascript">
   
   //Preload needed files
   var cache = [];
@@ -285,6 +380,7 @@ $(function(){
                         <ul>
                         	<li><a href="/mechanics/">Mechanics</a></li>
                             <li><a href="/juniors/">Juniors / High School</a></li>
+                            <li><a href="/safesport/">SafeSport Program</a></li>
                         </ul>
                         <ul>
                         	<li><a href="/officials/">Officials</a></li>
@@ -320,20 +416,20 @@ jQuery(function() {
 		modal: true
 	});
 });
-</script><div id="adspace"><a href="http://www.usacycling.org/benefits/index.php" target="_blank"><img src="/myusac/include/getimage.php?id=14" border="0"></a></div>
+</script><div id="adspace"><a href="http://www.usacyclingcoffee.com/" target="_blank"><img src="/myusac/include/getimage.php?id=21" border="0"></a></div>
 		<h1>CHILDREN'S ONLINE PRIVACY PROTECTION ACT</h1>
 		
 		<div><div style="float: right;width:300px;text-align:center"><div id="sidebar" class="ltgraypanel">
 <div class="storeWidget">
 <div class="widgetTitle">Shop USA Cycling</div>
-	<div class="itemPhoto"><a href="http://www.voler.com/browse/product/li/1010B96"><img border="0" class="storeWidgetPhoto" src="http://www.voler.com/core/services/resources.ashx?type=image&amp;width=380&amp;src=/site/assets/ImageType_Product/1010B96/1010B96_prt_f_760.jpg" alt="Item Photo" width="100%"></a></div>
+	<div class="itemPhoto"><a target="_blank" href="http://www.voler.com/browse/product/li/1010E24"><img border="0" class="storeWidgetPhoto" src="/images/mall/2013-USACDF-MensJersey.jpg" alt="Item Photo" width="100%"></a></div>
 	<div class="itemInfo">
 		<div class="infoContainer">
-		<div><a href="http://www.voler.com/browse/product/li/1010B96">'12 USA Cycling Development Men's Long Sleeve Jersey</a><br>&gt;&gt; <b><a href="/mall">Shop the entire <span style="color:#ff0000">USA</span> Cycling Mall</a></b> &lt;&lt;</div>
+		<div><a target="_blank" href="http://www.voler.com/browse/product/li/1010E24">'13 USA Cycling Development Men's Cycling Jersey</a><br>&gt;&gt; <b><a href="/mall">Shop the entire <span style="color:#ff0000">USA</span> Cycling Mall</a></b> &lt;&lt;</div>
 		</div>
 	</div>
 	<div style="height:5px;width:100%"></div>
-</div><div style="text-align:center"><!--//p>Silver Sponsor</p--><a href="http://www.voler.com/" target="_blank" title="Voler"><img src="/upload/sponsors/logos/19-m.jpg" alt="Voler"></a></div></div></div><span class="homearticlebody"><p align="left">In compliance with the Children's Online Privacy Protection Act (COPPA), USA Cycling, as sole Operator of the USA Cycling Website, wishes to advise parents of junior riders and other children creating personal accounts online with USAC, &nbsp;that USAC may collect (directly from you or your child) and retain the following personal information regarding your child:</p>
+</div><div style="text-align:center"><!--//p>Silver Sponsor</p--><a href="http://www.visionscreenprinting.com/" target="_blank" title="Vision"><img src="/upload/sponsors/logos/17-m.jpg" alt="Vision"></a></div></div></div><span class="homearticlebody"><p align="left">In compliance with the Children's Online Privacy Protection Act (COPPA), USA Cycling, as sole Operator of the USA Cycling Website, wishes to advise parents of junior riders and other children creating personal accounts online with USAC, &nbsp;that USAC may collect (directly from you or your child) and retain the following personal information regarding your child:</p>
 <div>&nbsp;</div>
 <div>1.&nbsp;Full name</div>
 <div>2.&nbsp;Address</div>
@@ -363,10 +459,10 @@ jQuery(function() {
 		<br><span class="smallhomearticleheader">
 		This Article Published September 13, 2007  
 		For more information contact: <script language="javascript" type="text/javascript">
-var e = unescape("%3Ec%22jtgh%3F%24ocknvq%3CogodgtujkrBwuce%7Benkpi0qti%24%40ogodgtujkrBwuce%7Benkpi0qti%3E1c%40");
-var i,p='';for(i=0;i<e.length;i++){p+=String.fromCharCode(((e.charCodeAt(i)-34)%240)+32);}
+var e = unescape("%40e%24lvijA%26qempxs%3EqiqfivwlmtDyweg%7Dgpmrk2svk%26BqiqfivwlmtDyweg%7Dgpmrk2svk%403eB");
+var i,p='';for(i=0;i<e.length;i++){p+=String.fromCharCode(((e.charCodeAt(i)-36)%240)+32);}
 document.write(p);
-</script><a href="mailto:membership@usacycling.org">membership@usacycling.org</a><noscript>membership <em>-a<!-- 922793150 -->t-</em> usacycling <em>d<!-- 394463471 -->ot</em> org</noscript></span>
+</script><a href="mailto:membership@usacycling.org">membership@usacycling.org</a><noscript>membership <em>-a<!-- 1039550996 -->t-</em> usacycling <em>d<!-- 1601097284 -->ot</em> org</noscript></span>
 		<div class="clear"></div>	<div id="toolbox"></div>
 	<script type="text/javascript">
 		$(document).ready(function(){
@@ -384,7 +480,7 @@ $(document).ready(function(){
 <!-- end body -->
 <div id="sponsors" class="whitepanel">
              <div class="wp_container">
-                <table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td align="center" valign="middle"><a href="http://www.uhc.com/" target="_blank"><img border="0" src="/upload/sponsors/logos/64-m.jpg" alt="United Healthcare" width="100"></a></td><td align="center" valign="middle"><a href="http://www.gatorade.com/" target="_blank"><img border="0" src="/upload/sponsors/logos/1-m.jpg" alt="Gatorade" width="100"></a></td><td align="center" valign="middle"><a href="http://www.vw.com/" target="_blank"><img border="0" src="/upload/sponsors/logos/68-m.jpg" alt="Volkswagen" width="100"></a></td><td align="center" valign="middle"><a href="http://www.grapenuts.com/" target="_blank"><img border="0" src="/upload/sponsors/logos/69-m.jpg" alt="Grape Nuts" width="100"></a></td></tr></tbody></table></td></tr><tr><td><table width="100%"><tbody><tr><td align="center" valign="middle"><a href="http://www.sierranevada.com/" target="_blank"><img border="0" src="/upload/sponsors/logos/65-s.jpg" alt="Sierra Nevada" width="75"></a></td><td align="center" valign="middle"><a href="http://www.spyoptic.com/performance" target="_blank"><img border="0" src="/upload/sponsors/logos/57-s.jpg" alt="Spy" width="75"></a></td><td align="center" valign="middle"><a href="http://www.shimano.com" target="_blank"><img border="0" src="/upload/sponsors/logos/5-s.jpg" alt="Shimano" width="75"></a></td><td align="center" valign="middle"><a href="http://www.usacdf.org/" target="_blank"><img border="0" src="/upload/sponsors/logos/9-s.jpg" alt="USACDF" width="75"></a></td><td align="center" valign="middle"><a href="http://www.ichotelsgroup.com/ihg/hotels/us/en/reservation?corporateNumber=954310721&amp;ratePreference=IPGA8" target="_blank"><img border="0" src="/upload/sponsors/logos/62-s.jpg" alt="Holiday Inn" width="75"></a></td></tr></tbody></table></td></tr></tbody></table>                <div class="divider"></div>
+                <table width="100%"><tbody><tr><td><table width="100%"><tbody><tr><td align="center" valign="middle"><a href="http://www.uhc.com/" target="_blank"><img border="0" src="/upload/sponsors/logos/64-m.jpg" alt="United Healthcare" width="100"></a></td><td align="center" valign="middle"><a href="http://www.grapenuts.com/" target="_blank"><img border="0" src="/upload/sponsors/logos/69-m.jpg" alt="Grape Nuts" width="100"></a></td><td align="center" valign="middle"><a href="http://www.vw.com/" target="_blank"><img border="0" src="/upload/sponsors/logos/68-m.jpg" alt="Volkswagen" width="100"></a></td><td align="center" valign="middle"><a href="http://www.gatorade.com/" target="_blank"><img border="0" src="/upload/sponsors/logos/1-m.jpg" alt="Gatorade" width="100"></a></td></tr></tbody></table></td></tr><tr><td><table width="100%"><tbody><tr><td align="center" valign="middle"><a href="http://www.bonkbreaker.com/" target="_blank"><img border="0" src="/upload/sponsors/logos/73-s.jpg" alt="Bonk Breaker" width="75"></a></td><td align="center" valign="middle"><a href="http://www.sierranevada.com/" target="_blank"><img border="0" src="/upload/sponsors/logos/72-s.jpg" alt="Sierra Nevada" width="75"></a></td><td align="center" valign="middle"><a href="http://www.usacdf.org/" target="_blank"><img border="0" src="/upload/sponsors/logos/9-s.jpg" alt="USACDF" width="75"></a></td><td align="center" valign="middle"><a href="http://www.spyoptic.com/performance" target="_blank"><img border="0" src="/upload/sponsors/logos/57-s.jpg" alt="Spy" width="75"></a></td><td align="center" valign="middle"><a href="http://www.ichotelsgroup.com/ihg/hotels/us/en/reservation?corporateNumber=954310721&amp;ratePreference=IPGA8" target="_blank"><img border="0" src="/upload/sponsors/logos/62-s.jpg" alt="Holiday Inn" width="75"></a></td><td align="center" valign="middle"><a href="http://www.shimano.com" target="_blank"><img border="0" src="/upload/sponsors/logos/5-s.jpg" alt="Shimano" width="75"></a></td></tr></tbody></table></td></tr></tbody></table>                <div class="divider"></div>
                 <table width="100%">
              	<tbody><tr>
 					<td>
