@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitebroker.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605054040id_/http%3A//websitebroker.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitebroker.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207005200id_/http%3A//www.websitebroker.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - WebsiteBroker - Buy and sell websites!
 
@@ -30,11 +30,11 @@ If you have any additional questions or concerns about our dedication to consume
 
 ## Search Websites For Sale
 
-[](http://www.websitebroker.com/register.html)  
-[](http://www.websitebroker.com/valuation.php)
+[](http://websitebroker.com/register.html)  
+[](http://websitebroker.com/valuation.php)
 
 ## Join Our Affiliate Program
 
 ## Want to Share?
 
-Do you have a helpful tip or site you'd like us to include in our list? [**Contact us**](http://www.websitebroker.com/support.html) and we'll review it for inclusion.
+Do you have a helpful tip or site you'd like us to include in our list? [**Contact us**](http://websitebroker.com/support.html) and we'll review it for inclusion.
