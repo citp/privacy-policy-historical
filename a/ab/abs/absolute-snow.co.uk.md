@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the absolute-snow.co.uk privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120011424id_/http%3A//www.absolute-snow.co.uk/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolute-snow.co.uk privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206175440id_/http%3A//www.absolute-snow.co.uk/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Internet Snowboard shop
+# Privacy Policy
 
-We are committed to providing the highest levels of security to fully protect your online shopping experience. We use secure socket layer (SSL) technology. All payment information you provide is fully encrypted so that it cannot be read by third parties.
+The Boarding Company Limited considers user privacy and data protection to be of high importance and complies with the Data Protection Act 1998 in relation to the processing of data supplied to us by users and other personal data in our possession for any reason. The Boarding Company Limited records information provided by customers who complete account registration, who make a purchase on our websites and by the use of cookies. Our policy on COOKIES can be read [HERE](http://www.absolute-snow.co.uk/Pages/Privacy-Policy.aspx). We also record information provided to us by means of e-mail, conventional mail, telephone, fax, text messages, market research surveys and other means. We are committed to providing the highest levels of security to fully protect your online shopping experience. We use secure socket layer (SSL) technology. All payment information you provide is fully encrypted so that it cannot be read by third parties.
 
 **Private Information**  
 No staff at The Boarding Company Limited are able to see any of your credit or debit card information. This information is held by Sage Pay, our payment providers. Sage Pay are the UK’s largest provider of online credit and debit card processing services. When we provide refunds to your card, we cannot see any of your card information at this time either. This makes purchasing online with The Boarding Company Limited's websites far more secure than any in-store, mail order or telephone purchase.
@@ -19,27 +19,8 @@ Sage Pay has multiple private links into the banking network that are completely
 **Sage Pay Employee Access**  
 No individuals within Sage Pay are able to decrypt transaction information or cardholder data. Sage Pay systems only allow access to their most senior staff and only in extenuating circumstances (such as investigations of Card Fraud by the Police). Your transaction information and customer card information is secure even from Sage Pay’s own employees because their systems never display the full card numbers, even on administration screens.
 
-Internet Explorer users go to Tools/Internet Options/Advanced and check the SSL2 and SSL3 boxes. Your browser will confirm that you are shopping in a secure environment by showing a locked padlock icon or an image of a key in the bar at the base of your screen. For Netscape users, click the ’security’ icon on the tool bar and check the SSL2 and SSL3 boxes.
-
-The Boarding Company Limited considers user privacy and data protection to be of high importance and complies with the Data Protection Act 1998 in relation to the processing of data supplied to us by users and other personal data in our possession for any reason. 
-
-The Boarding Company Limited records information about individuals who visit our websites, via our account registration and ordering processes and by the use of cookies. Cookies are small snippets of text stored in your web browser when you visit a website. This website uses the following cookies:
-
-**Absolute Snow** (ASP.Net_SessionId)  
-This cookie contains a unique identifier used to identify the contents of your shopping basket and to enable online payments to be made. This cookie is essential for the successful operation of this website. If you disable cookies, you will not be able to shop online on this, or any other website.
-
-**Google Analytics** (__utma, __utmb, __utmc, __utmz)  
-These cookies contain data which allows Google to monitor how customers use this website. Google makes this data available to The Boarding Company Limited in aggregated format. We are unable to link data to individual customers. The type of information it enables us to see includes page load times, the most popular pages, visitor numbers, geographic visitor locations, etc. These cookies are completely anonymous and are never linked with your personal data.
-
-**YouTube** and **Vimeo**  
-Some of our pages have embedded YouTube and Vimeo videos. These services may use their own cookies. These can never be used in conjunction with any personally identifying information held by The Boarding Company Limited.
-
-**AddThis** ****(uit, uid, uvc, psc)  
-AddThis is a web page sharing service that allows pages to be shared on various social media platforms at the click of a button. These cookies store unique identifiers that allow AddThis to monitor which products are supplied. This information is anonymous and cannot personally identify you. AddThis may use this information or an aggregation of this information to provide related advertising through other networks, however, these adverts are not shown on this site. AddThis has an opt-out privacy policy. Visit addthis.com for more information. 
-
-This website does not use any other cookies.
-
-In addition, The Boarding Company Limited records information provided by customers who choose to communicate with us by e-mail, conventional mail, telephone, fax, market research survey or other means.
+**Secure Website**  
+Internet Explorer users go to Tools / Internet Options / Advanced and check the SSL2 and SSL3 boxes. Your browser will confirm that you are shopping in a secure environment by showing a locked padlock icon or an image of a key in the bar at the base of your screen. For Netscape users, click the ’security’ icon on the tool bar and check the SSL2 and SSL3 boxes.
 
 Recorded information will be used to enable the fulfilment of purchase orders, the analysis of aggregated buying patterns and shopping behaviour and for our own marketing purposes. All direct marketing communications will be accompanied will be accompanied by an ‘opt-out’ option.
 
