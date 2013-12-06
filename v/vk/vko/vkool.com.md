@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vkool.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615043044id_/http%3A//vkool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vkool.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206190106id_/http%3A//vkool.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | VKool
+# Privacy Policy
 
 With **Vkool** , you can benefit from our services in different ways:
 
@@ -52,3 +52,5 @@ The Privacy Policy on **Vkool** does not apply to products and services that are
 #### Contact
 
 Please write to us by post to our postal address or by email if you have any further questions about our Privacy Policy as well as how we treat your personal information.  
+
+[](http://addthis.com/bookmark.php?v=250)
