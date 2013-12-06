@@ -1,53 +1,70 @@
-> *The following text is extracted and transformed from the isearch.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015211652id_/http%3A//www.isearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isearch.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206082802id_/http%3A//www.zabasearch.com/privacy.php) for the most accurate reproduction.*
 
-# iSearch - Social Directory - Privacy
+# ZabaSearch - Privacy
 
-## iSearch Privacy Policy
+**PRIVACY POLICY**
 
-This Privacy Policy explains our information practices for the iSearch website which is owned and controlled by Intelius Inc. We want you to understand how we may use your information, before you provide it. The purpose of this policy is to inform you of what type of information (if any) we gather and track, how we may use that information, and with whom we may share that information. 
+**December 5, 2012**
 
-##### Personal Information:
+Zabasearch is dedicated to providing you with the best people search experience possible. In addition to this, we seek to provide you with the ability to report scammers and telemarketers. Zabasearch is committed to protecting your privacy and your personal information. The privacy policy listed below explains our information practices so that you may better understand how your information is being used before you choose to share it with us. This policy also discloses what types of information we gather, track and share with other parties.
 
-You can visit iSearch on the Internet without telling us who you are and without giving any personal information about yourself. However, you may choose to give us personal information in a variety of situations. For example, you may want to give us information such as your name and address or e-mail ID so we may correspond with you, or provide you with subscription or service opportunities. If you tell us that you do not want us to use information you provide to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, we will assume that you have their prior permission to do so. 
+#### Your Personal Information and Zabasearch
 
-##### Using and Sharing Personal Information:
+You are free to visit our site at anytime without ever providing us with any personal information about yourself. However, in some situations, you may choose to share personal information with us or on our site. For example, you may register with our site, authorize us to collect information from your social media account(s) such as Facebook, provide us with your contact information for communication purposes, or you may choose to provide personal information in one of our user forums. If you share your information with us but indicate that you do not want us to use that information for anything further than fulfilling your request, we will respect that request. If you choose to share personal information about another individual, we will assume that you have their permission to share or distribute such information. We will use your information you provide to us or authorize us to collect from your social media account(s) to provide useful products and services to our and our affiliates' users, and to enhance your experience on Zabasearch by providing targeted search results and advertising. 
 
-The following paragraphs describe in more detail how we may use the information you provide to us on the iSearch site and with whom we may share it. Depending on the part of the iSearch site you are visiting, one or more of the following paragraphs may apply 
+#### Registration
 
-##### Fulfilling Your Request:
+We offer users the option to register on our site. During this registration process, you may be required to give contact information (such as your name and email address). We can use this information to contact you about items associated with our site. Please see the opt out policy below for information on opting out of these emails. 
 
-If you request something from or through the iSearch Web site (for example, more information on a product or service or a callback) we will use the information you provide to fulfill your request. To help us do this, we may share information with others. For instance, our affiliates, business partners, financial institutions, or postal or government authorities may participate in fulfilling your request. 
+#### User Forums
 
-##### Marketing Use:
+We provide users with the opportunity to share their own personal experiences and information with other Zabasearch users by the following means:  
 
-The information you provide on or through the iSearch site also may be used, with your permission, by Intelius, its affiliates and/or selected third parties for marketing purposes. We will not use this information unless you give us your permission to do so. 
 
-##### Links to Other Websites:
+  * Creating a Zabasphere
+  * Leaving Zabasearch messages
 
-In some cases, when you are seeking further information about a person you are searching, you may see links or advertisements about information and data available to you through other websites. For example, if you find an old classmate through the iSearch site, you may be able to gather more detailed information such as a phone number or address, subject to certain terms and conditions, through [www.intelius.com](http://www.intelius.com/redir.php?qvar=1-AzYlRRKWBywNtg1CUujRIg0k4n0YvTBhKiQJQwBVXjKBCoRjUYghEyc4JDYTBIQbElOE4NNmws1WJTdGRznU). You should carefully review the privacy and personal information policies of any advertised or linked websites before providing any personal information or purchasing any product or service from them. We are not responsible for the privacy practices or the content of third party Web sites. 
+  
+If you choose to provide information in any of these user forums, please be aware that any personally identifiable information can be collected, read and used by other users and third parties. This information can be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to share on these forums. 
 
-##### Information Security:
+#### Links to Other Websites
 
-We protect your personal information and maintain its quality. We implement measures and processes to help us keep your information secure. 
+In some cases, you may see links or advertisements about information and data available to you through other websites. For example, if you find certain limited information through Zabasearch, you may be able to purchase more detailed information, subject to certain terms and conditions, through a third party. These links or advertisements may be presented to you using framing techniques, which means that, although it appears you are still on our website, you have been transferred to the website of a third party. You should carefully review the privacy policy of any advertised or linked website before providing any personal information or purchasing any product or service from them. We are not responsible for the privacy practices or the content of third party websites. 
 
-##### Cookies, and Other Web Technologies:
+#### Cookies and Other Online Technologies
 
-We sometimes collect non-identifiable information from visits to the iSearch site to help us provide better customer service. For example, we keep track of the domains from which people visit and we measure visitor activity on iSearch, but we do so in ways that keep our visitors\' identities anonymous. We may use this data to analyze trends and statistics and to help us provide better user service. 
+We sometimes collect non-personally-identifiable information from visitors to the site. We do this in order to provide our users with a better experience and service. For instance, we may keep track of the domains from which people visit our site and their activity within our site. This is done using cookies to ensure that the visitor's identity remains anonymous. A cookie is a piece of data that we send to your browser. This is then stored on your computer as an anonymous tag or identifier. It is possible to identify your computer from this information, but not you personally. You may choose to set your browser to notify you when receiving cookies or to turn off cookies altogether. However, if you disallow cookies, keep in mind that some websites may not work properly. 
 
-We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some iSearch pages use cookies, sent by Intelius or its third party vendors, or other technologies to better serve you when you return to the Web site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You also can set your browser to turn off cookies. If you do so, however, some Web sites may not work properly. 
+#### Log Files
 
-##### Online Advertising:
+As with most websites, we gather certain information and automatically store it in log files. This information can include IP address, browser type, Internet service provider, operating system and clickstream data. This information does not individually identify any users and is used to analyze trends and make improvements to our site to provide a better user experience. 
 
-Certain companies help us deliver interactive on-line advertising. These companies may collect and use information about customers to help us better understand the offers, promotions, and types of advertising that are most appealing to our customers. After the information is collected, it is aggregated so it is not identifiable to a specific individual. 
+#### Personal Information and Children
 
-##### Disclosures Required By Law:
+We do not knowingly collect information relating to children. Our products are designed for individuals who are over the age of 13 in accordance with COPPA (http://www.coppa.org/). If we are made aware that we have personal information from someone under the age of 13, we will take all reasonable efforts to expunge that information from our records. 
 
-Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. 
+#### Disclosures Required By Law
 
-##### Enforcement:
+In certain circumstances, we may be required to share any personal information you have provided to us with others pursuant to judicial or other government subpoenas, warrants and orders. 
 
-Intelius regularly reviews its compliance with this policy. Please feel free to direct any questions or concerns regarding this policy by sending an email to privacy@iSearch.com or by writing us at iSearch Privacy c/o Intelius, 500 108th AVE NE, 25th Floor, Bellevue, WA 98004. It is our policy to contact the inquiring user regarding his or her questions. 
+#### Accuracy of Third Party Information
 
-##### Changes to this Policy:
+The substantive information provided by us on our site is aggregated from multiple third party sources. We cannot guarantee the accuracy of this information, nor are we responsible for how this information is being used by these third-parties. If you have questions or concerns about this third party information, please review the privacy policies and contact the appropriate third party. 
 
-This Privacy Policy may occasionally change. Any Policy changes will be posted to this page. Each version of this policy will be denoted at the top of this page by its effective date. 
+#### How to Remove your Information from Our Database
+
+Public records are available from the official public records custodian or repository to anyone who requests them. In order for any database of public records to be useful, the databases must contain all of the information in the public records offices. If you have a compelling privacy or security issue, you may wish to contact the official custodians of those public records that contain sensitive information about you, such as your county's land records office, to determine how to remove your information from the public record. (The process of having public records sealed typically requires a court order.) This process will ensure that the information is not available to the public, to us, or to any other public records information provider. 
+
+In addition to public records, personal information may be publicly or commercially available. Publicly available information consists of online and offline information that is generally available but is not maintained by a government agency, such as names, addresses and telephone numbers of individuals and businesses, professional licensing and trade organization information, press releases and newspaper articles and content from blogs or social networking sites. Commercial records consist of information that is maintained by enterprises and is available for purchase, such as marketing and telemarketing lists, phone connect and disconnect information, and business profile data.
+
+As a courtesy we allow you to opt out your personal information from our website. What this means is that your name as it appears in a particular record and the associated identifying information such as your address and phone number will be suppressed if you request this in the manner described below. However, please note that any time your identifying information appears in a public record or in a publicly or commercially available manner, in a way that is different from the particular record you opted out, it will again appear on our website. For example, if your address or area code changes, your new information -- including other associated identifying information -- will again appear unless you opt out the new record. Similarly, if the way in which your name or address appears in a record differs from a record you opted out (e.g., "Michael" instead of "Mike," or "1212 Second AVE NE" instead of "1212-2nd Avenue Northeast"), we may include the differing record. Please also note that there may be more than one record on our website associated with your personal information. Opting out one particular record will not opt out other record(s). In addition to this website, there are many other companies offering public records search services, and your request that we opt out your information from this website will not prevent your information from appearing on these other services. 
+
+In order for us to suppress or opt out your personal information from appearing on our website, we need to verify your identity. To do this, we require faxed proof of identity. Proof of identity can be a state issued ID card or driver's license. If you are faxing a copy of your driver's license, we require that you cross out the photo and the driver's license number. We only need to see the name, address and date of birth. We will only use this information to process your opt out request. Please fax to (425) 974-6194 and allow 7-14 days to process your request.
+
+#### Other Opt-Outs
+
+Upon your request, we will also (i) remove you and your personal information from our registration records, thereby canceling your registration with our site, and (ii) permit you to "opt out" of receiving further e-mails from us. Please fax any such a cancellation or opt-out request to (425) 974-6194. 
+
+#### Changes to this Privacy Policy
+
+Please note that this privacy policy may change. All policy changes will be posted to this page at the time of change 
