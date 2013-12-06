@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabquery.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531211217id_/http%3A//www.tabquery.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabquery.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206232528id_/http%3A//tabquery.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
 
 # TabQuery - Privacy Policy
 
