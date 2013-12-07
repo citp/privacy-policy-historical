@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the choies.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629014535id_/http%3A//www.choies.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choies.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207120026id_/http%3A//www.choies.com/privacy-security) for the most accurate reproduction.*
 
 # Choies:the lastest high street fashion store-shop the fashion clothes and shoes
-
-### Privacy & Security
 
 choies.com is strongly committed to protecting your privacy and providing a safe online experience for all our users. This policy applies to information collected online through our website, which includes all of the Guide-Sites and governs online data collection and usage by us. Please read the complete our online privacy policy below and contact us if you have any questions.
 
