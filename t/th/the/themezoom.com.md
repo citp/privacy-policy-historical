@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themezoom.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123143413id_/http%3A//www.themezoom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themezoom.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207201408id_/http%3A//www.themezoom.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
