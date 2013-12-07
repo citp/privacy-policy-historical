@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blendr.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630092623id_/http%3A//blendr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendr.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207215759id_/http%3A//blendr.com/privacy) for the most accurate reproduction.*
 
 # Badoo's Privacy Policy
 
-## Blendr is powered by Badoo
+##  is powered by Badoo
 
 This policy and any dispute or claim arising out of or in connection with it or its subject matter (including non-contractual disputes or claims) shall be governed by and construed in accordance with English law. In the event there is a discrepancy between this English language version and any translated copies of the Privacy Policy, the English version shall prevail.
 
@@ -25,7 +25,7 @@ Badoo is operated by Badoo Trading Limited, a company registered in England at M
 
 We know that other people’s use of your personal data is a big concern for social network users, so we at Badoo have developed this privacy policy (the “ **Policy** ”) to let you know how we use personal information (‘personal data’ or ‘personal information’).
 
-Our Policy applies to your use of the Badoo website at www.badoo.com (“ **Badoo** ”). We suggest you read it in conjunction with our [Terms and Conditions of Use](http://blendr.com/terms/) (the “ **Terms** ”). When you access or use Badoo, you agree to our Privacy Policy and you consent to our collection, storage, use and disclosure of your personal information as we’ve set out in this Policy.
+Our Policy applies to your use of the Badoo website at www.badoo.com (“ **Badoo** ” or the “ **site** ” which includes the mobile apps). We suggest you read it in conjunction with our [Terms and Conditions of Use](http://blendr.com/terms/) (the “ **Terms** ”). When you access or use Badoo, you agree to our Privacy Policy and you consent to our collection, storage, use and disclosure of your personal information as we’ve set out in this Policy.
 
 Badoo reserves the right to change our Policy at any time and without notice, so be sure to check this Policy regularly to understand how we use your information.
 
@@ -124,7 +124,7 @@ Badoo’s uses of cookies and local shared devices so that we know who you are, 
 
 Cookie Functions | Cookie Purposes  
 ---|---  
-Analytics and research | Badoo uses Google Analytics to collect information about how visitors use the Badoo website. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. For more information about Google’s privacy policy, please visit <http://www.google.com/intl/en/policies/>  
+Analytics and research | Badoo uses Google Analytics to collect information about how visitors use the Badoo site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. For more information about Google’s privacy policy, please visit <http://www.google.com/intl/en/policies/>  
 Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy Badoo’s offerings, experiences and various features, such as uploading photographs, chatting and can localise your experience, such as when you’ve requested to view Badoo’s site in your local language or when you’ve asked Badoo to ‘remember me’. These cookies also help to remember who invited you to join Badoo.  
 Security and site integrity | 
 
@@ -166,7 +166,7 @@ Use it to meet new friends and make new contacts! Beware that you may not use ot
 
 #### What information does Badoo collect about my friends and contacts?
 
-You can choose to invite your friends to join Badoo to make sure that they also get the benefits of meeting new people. To make it easier to search and find friends and acquaintances on Badoo, users may search for other members using first and last name, email address and location. If you want to invite your friends and contacts to become a Badoo member, we will send an email or an SMS, if you've used our Android or iPhone app, invitation from Badoo in your name to your friends and contacts encouraging them to sign up to Badoo. If any of the individuals you have invited do not register within a few days, Badoo may occasionally send reminder emails or SMS on your behalf to those individuals. You can choose to invite all your friends or only a select few by simply unticking the names of those friends you do not wish to invite, but please remember you must not invite any children to join. You are responsible for ensuring that your friend has agreed to receiving a Badoo invite.
+You can choose to invite your friends to join Badoo to make sure that they also get the benefits of meeting new people. To make it easier to search and find friends and acquaintances on Badoo, users may search for other members by email address. If you want to invite your friends and contacts to Badoo, we will send an email or an SMS (if you've used our Android or iPhone app) invitation from Badoo in your name to your friends and contacts encouraging them to sign up to Badoo. If any of the individuals you have invited do not register within a few days, Badoo may occasionally send reminder emails or SMS on your behalf to those individuals. You can choose to invite all your friends or only a select few by simply unticking the names of those friends you do not wish to invite, but please remember you must not invite any children to join. You are responsible for ensuring that your friend has agreed to receiving a Badoo invite.
 
 When we send an email or sms invite to your friend or contact, we store their name and email address or their mobile number, if we've sent an SMS on your behalf so that we can automatically connect you and your friend. Badoo does not sell these email addresses or mobile numbers or use them to send any other communication besides invitations. The friend may contact Badoo to request the removal of their information from our database by visiting Feedback page. Any such request will only apply to addresses or mobile numbers we have at the time of the request and not to any addresses that the member/user provides to us later.
 
@@ -259,4 +259,4 @@ You might also want to take a look at the following pages:
 
 
 
-This Privacy Policy was last updated on 23 May 2012.
+This Privacy Policy was last updated on 25 October 2013.
