@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the immunotec.com privacy policy that was archived on 2013-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606032706id_/http%3A//www.immunotec.com/IRL/Public/en/USA/d2012_privacy.wcp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the immunotec.com privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207074656id_/http%3A//www.immunotec.com/IRL/Public/en/USA/d2012_privacy.wcp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,8 +10,8 @@
 <style type="text/css">
 .noncorp { display: none !important; }
 .onlyFor_CAN { display: block !important; }
-.notFor_CAN { display: none; }
-.notFor_miform { display: none; }
+.notFor_CAN { display: none !important; }
+.notFor_miform { display: none !important; }
 </style>
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/jquery-ui.min.js" charset="iso-8859-1"></script>
@@ -30,12 +30,12 @@ window.attachEvent("onload",addLinkNamesToAnchors);
 else if (document.getElementById) //support older modern browsers
 window.onload=addLinkNamesToAnchors;
 </script>
-
 <!-- header2012_miform -->
 
 <link href="../sub/shared/css/shared.css" rel="stylesheet" type="text/css">
 <link href="../sub/miform/css/main.css" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=Carrois+Gothic|Marcellus+SC" rel="stylesheet" type="text/css">
+
 
 <script type="text/javascript">
 function MM_swapImgRestore() { //v3.0
@@ -59,6 +59,19 @@ function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
+
+//hover effect for Social Media icons
+
+$(document).ready(function() {
+
+$('.darken').hover(function() {
+    $(this).find('img').fadeTo(200, 0.6);
+}, function() {
+    $(this).find('img').fadeTo(200, 1);
+});
+
+}); //end ready
+
 </script>
 
 <!--Google Analytics Begin -->
@@ -103,7 +116,7 @@ function MM_swapImage() { //v3.0
     	<div id="market">
 		<form action="Redirection.wcp?&amp;SetPref=Y&amp;Language=LangIDCtryID" method="post" id="marketSelect">
 			<input type="hidden" name="CurrentURL" value="http%3A%2F%2Fwww.immunotec.com%2FIRL%2FPublic%2Fen%2FUSA%2Fd2012_privacy.wcp%3F">
-			<select name="LangID_CtryID" id="marketChoose" size="1" onchange="this.form.submit();">
+			<select name="LangID_CtryID" id="marketChoose" size="1">
 				<option value="en_USA">USA-English</option>
 				<option value="sp_USA">USA-Spanish</option>
 				<option value="en_USA_C">Caribbean-English</option>
@@ -128,13 +141,16 @@ function MM_swapImage() { //v3.0
 		<img src="../sub/shared/images/cart.png" width="18" height="18" alt="Shopping Cart Items"> (0 items)
 	</div>
 
-	<div class="socialMedia">
-		<a href="http://www.facebook.com/Immunotec" target="_blank"><img src="../sub/shared/images/social_facebook_sm.png" width="19" height="20" alt="Facebook"></a>
-		<a href="https://twitter.com/immunotec_hq" target="_blank"><img src="../sub/shared/images/social_twitter_sm.png" width="19" height="20" alt="Twitter"></a>
-		<a href="http://www.linkedin.com/groups/Immunotec-Inc-4200163?gid=4200163&amp;trk=hb_side_g" target="_blank"><img src="../sub/shared/images/social_linkedin_sm.png" width="19" height="20" alt="LinkedIn"></a>
-		<!--<a href="http://blog.immunotec.com/" target="_blank"><img src="../sub/shared/images/social_blog_sm.png" width="19" height="20" alt="Blog" /></a>-->
-		<a href="http://www.youtube.com/user/CorpImmunotec?blend=4&amp;ob=5" target="_blank"><img src="../sub/shared/images/social_youtube_sm.png" width="19" height="20" alt="YouTube"></a>
-	</div><!--end socialMedia div-->
+	<div id="siteSelect">
+		<select name="siteSelect" onchange="if (this.value) { window.location.href=this.value; }">
+			<option value="">OTHER SITES</option>
+						<option value="http://www.immunotec.com/corp.biz">Immunotec Business</option>
+						<option value="http://www.immunotec.com/corp.sports">Sports Nutrition</option>
+						<option value="http://www.immunotec.com/corp.prod">Immunotec Science</option>
+			<option value="GoMobile.wcp">Mobile</option>
+		</select>
+	</div>
+	
 </div><!--end headerBottomLinks div-->
 </div><!--end headerContainer div-->
 </div><!--end header div-->
@@ -153,6 +169,7 @@ function MM_swapImage() { //v3.0
 				<ul>
 					<li><a href="d2012_newapproach.wcp">A New Approach</a></li>
 					<li><a href="d2012_execteam.wcp">Executive Team</a></li>
+					<li><a href="global.wcp">Global Network</a></li>
 					<li><a href="d2012_newsroom.wcp">Newsroom</a></li>
 					<li><a href="http://immunotec-investors.com/en/Financial-documents/Annual-report.aspx" target="_blank">Investor Relations</a></li>
 				</ul>
@@ -178,7 +195,7 @@ function MM_swapImage() { //v3.0
 						<li><a href="ShowItemDetails.wcp?&amp;Item=0005900">PNT 200</a></li>
 						<li><a href="ShowItemDetails.wcp?&amp;Item=0005721">Thermal Action</a></li>
 						<li><a href="d2012_products_xtrasharp.wcp?&amp;Item=0006100|0006105">Xtra Sharp</a></li>
-						<li><a href="ShowItemDetails.wcp?&amp;Item=0006110">Concentrated Cherry Juice</a></li>
+						<li><a href="d2012_products_cherry.wcp?&amp;Item=0006115|0006125">Concentrated Cherry Juice</a></li>
 						<li><a href="d2012_products_emotion.wcp?&amp;Item=0006500|0006600">E-motion Energy</a></li>
 					</ul>
 				</div>
@@ -186,15 +203,15 @@ function MM_swapImage() { //v3.0
 				<div class="col_1Wider">
 					<h3><a href="d2012_products_weight.wcp">WEIGHT MANAGEMENT</a></h3>
 					<ul>
-						<li><a href="d2012_products_miformtrans.wcp?&amp;Item=0008255|0008256|0008270|0008271">MiForm Transformation Kits</a></li>
+						<li><a href="d2012_products_miformtrans.wcp?&amp;Item=0008255|0008256">MiForm Transformation Kits</a></li>
 						<li><a href="d2012_products_miformmaint.wcp?&amp;Item=0008258|0008262">MiForm Maintenance Kits</a></li>
 						<li><a href="d2012_products_miformbars.wcp?&amp;Item=0005725|0005726">MiForm Bars</a></li>
 						<li><a href="d2012_products_miformshakes.wcp?&amp;Item=0005727|0005728">MiForm Shakes</a></li>
-						<li><a href="ShowItemDetails.wcp?&amp;Item=0005000">Immunocal</a></li>
-						<li><a href="ShowItemDetails.wcp?&amp;Item=0005100">Immunocal Platinum</a></li>
-						<li><a href="ShowItemDetails.wcp?&amp;Item=0005900">PNT 200</a></li>
-						<li><a href="ShowItemDetails.wcp?&amp;Item=0005800">Naturally Sourced Calcium from Milk</a></li>
-						<li><a href="ShowItemDetails.wcp?&amp;Item=0005721">Thermal Action</a></li>
+						<li><a href="ShowItemDetails.wcp?&amp;Item=0005000&amp;leftnavset=2">Immunocal</a></li>
+						<li><a href="ShowItemDetails.wcp?&amp;Item=0005100&amp;leftnavset=2">Immunocal Platinum</a></li>
+						<li><a href="ShowItemDetails.wcp?&amp;Item=0005900&amp;leftnavset=2">PNT 200</a></li>
+						<li><a href="ShowItemDetails.wcp?&amp;Item=0005800&amp;leftnavset=2">Naturally Sourced Calcium from Milk</a></li>
+						<li><a href="ShowItemDetails.wcp?&amp;Item=0005721&amp;leftnavset=2">Thermal Action</a></li>
 					</ul>
 					<h3><a href="d2012_products_beauty.wcp">BEAUTY</a></h3>
 					<ul>
@@ -205,8 +222,9 @@ function MM_swapImage() { //v3.0
 				</div>
 
 				<div class="col_1Wide">
-				<h3><a href="d2012_products_promotions.wcp">PROMOTIONS</a></h3>					
+				<h3><a href="d2012_products_promotions.wcp">PROMOTIONS</a></h3>
 					<ul class="greybox">
+						<li><a href="ShowItemDetails.wcp??&amp;Item=0008268">December Calcium Promotion</a></li>
 						<li><a href="d2012_products_custassorts.wcp?&amp;Item=0005000|0005100|0008037|0008038|0008039">Customer Assortments</a></li>
 					</ul>
 				</div>
@@ -273,7 +291,8 @@ function MM_swapImage() { //v3.0
 			<div class="col_1">
 				<ul>
 					<li><a href="attendameeting.wcp">Calendar of Events</a></li>
-					<li><a href="events_incentive2013.wcp">Incentive Trip 2013</a></li>
+					<li><a href="events_2014_convention.wcp">2014 Annual Convention</a></li>
+					<li><a href="events_highlights.wcp">Event Highlights</a></li>
 				</ul>
 			</div>
 		</div><!-- End dropdown_1columnEvents -->
@@ -285,7 +304,6 @@ function MM_swapImage() { //v3.0
 			<div class="col_1">
 				<ul>
 					<li><a href="miform_success.wcp">MiForm Success Stories</a></li>
-					<li><a href="miform_success-promo.wcp">MiForm Success Promotion</a></li>
 					<li><a href="miform_experts.wcp">Our Team of Experts</a></li>
 					<li><a href="miform_support.wcp">Support</a></li>
 					<li><a href="http://www.youtube.com/goMiForm" target="_blank">MiForm YouTube Channel</a></li>
@@ -410,10 +428,8 @@ function MM_swapImage() { //v3.0
 		<h3>Other Sites</h3>
 		<ul>
 			<li><a href="http://www.immunotec.com/corp.biz">Immunotec Business</a></li>
-
-
+			<li><a href="http://www.immunotec.com/corp.sports">Sports Nutrition</a></li>
 			<li><a href="http://www.immunotec.com/corp.prod">Immunotec Science</a></li>
-
 			<li><a href="gomobile.wcp">MOBILE</a></li>
 		</ul>
 		</div>
@@ -426,7 +442,7 @@ function MM_swapImage() { //v3.0
 			<li class="stayConnected"><img src="../sub/shared/images/social_twitter_sm.png" width="19" height="20" alt="Twitter">
 				<a href="https://twitter.com/immunotec_hq" target="_blank">Twitter</a></li>
 			<li class="stayConnected"><img src="../sub/shared/images/social_linkedin_sm.png" width="19" height="20" alt="LinkedIn">
-				<a href="http://www.linkedin.com/groups/Immunotec-Inc-4200163?gid=4200163&amp;trk=hb_side_g" target="_blank">LinkedIn</a></li>
+				<a href="http://www.linkedin.com/company/1813270" target="_blank">LinkedIn</a></li>
 			<!--<li class="stayConnected"><img src="../sub/shared/images/social_blog_sm.png" width="19" height="20" alt="Immunotec Blog" />
 				<a href="http://blog.immunotec.com" target="_blank">Immunotec Blog</a></li>-->
 			<li class="stayConnected"><img src="../sub/shared/images/social_youtube_sm.png" width="19" height="20" alt="YouTube">
@@ -467,6 +483,14 @@ $(function() {
 	}
 }
 
+	$('#marketSelect').change(function(e) { 
+		e.preventDefault();
+		var langForm = $('#marketSelect')
+ 		langForm.append('<div id="hidlangdiv" style="display:none;"></div>');
+		var langDiv = $('#hidlangdiv');
+		$('#contentWrapper form').find(':input').not(':submit').each(function(i){ $(this).clone().appendTo(langDiv); });
+		langForm.submit();
+	})
 	if ( $(".contentOneCol").length==0 && $(".contentTwoColL").length==0) { $("#contentBox").css('border','none'); }
  });
 </script>
