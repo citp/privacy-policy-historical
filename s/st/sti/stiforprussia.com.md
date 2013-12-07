@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stiforprussia.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530124740id_/http%3A//stiforprussia.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stiforprussia.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207022455id_/http%3A//stiforprussia.com/privacyPolicy) for the most accurate reproduction.*
 
 # stiforP :: Privacy Policy
 
