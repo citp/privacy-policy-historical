@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the genteroma.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604015947id_/http%3A//www.genteroma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genteroma.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207163341id_/http%3A//www.genteroma.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gente Roma
+# Privacy Policy - Gente Roma
 
 LA NOSTRA PRIVACY POLICY
 
