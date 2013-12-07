@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fifasoccerblog.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606030929id_/http%3A//kitanamedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifasoccerblog.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207020204id_/http%3A//kitanamedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kitana Media Network
 
