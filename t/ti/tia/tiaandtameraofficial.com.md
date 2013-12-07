@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tiaandtameraofficial.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529180755id_/http%3A//tiaandtameraofficial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiaandtameraofficial.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207173115id_/http%3A//tiaandtameraofficial.com/privacy) for the most accurate reproduction.*
 
-# TiaAndTameraOfficial.com
+# privacy | TiaAndTameraOfficial.com
 
 This Policy was last changed on February 14, 2013
 
