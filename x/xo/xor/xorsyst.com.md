@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xorsyst.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425084411id_/http%3A//xorsyst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xorsyst.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207181937id_/http%3A//xorsyst.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / TOS
 
