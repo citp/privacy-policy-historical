@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsinsights.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604012931id_/http%3A//www.sportsinsights.com/company/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinsights.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207042257id_/http%3A//www.sportsinsights.com/company/privacy-statement) for the most accurate reproduction.*
 
 # Sports Insights Privacy Policy
 
