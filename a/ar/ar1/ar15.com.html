@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the ar15.com privacy policy that was archived on 2013-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517030207id_/http%3A//www.ar15.com/content/page.html%3Fid%3D6) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ar15.com privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207101422id_/http%3A//www.ar15.com/content/page.html%3Fid%3D6) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"><html><head>
 	<title>Privacy Policy Statement</title>
 
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta charset="utf-8">
+
+<!-- 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> -->
 
 
 	<meta name="keywords" content="Privacy Policy Statement (AR-15, AR-10, M4 Carbine, M16, H&amp;K, SIG, FNH, FAL, AK-47, 50 Cal, M1/M1A, Handgun, Pistol, Training, Hunting, and More!)">
@@ -16,6 +18,10 @@
 	<link rel="shortcut icon" href="http://www.ar15.com/favicon.ico">
 
 	<link rel="stylesheet" type="text/css" href="/includes/2008skins/lightGreySkin/tools.css?v=7">
+
+    <!--[if lt IE 9]>
+    <script src="dist/html5shiv.js"></script>
+    <![endif]-->
 
     <style>
     .social {float:right;line-height:30px;}
@@ -38,10 +44,19 @@
 			window.open(url, "_top");	}	}
 	function miscConfirm(url) { if (confirm("Are you sure you want to do this?")) {
 	        window.open(url, "_top");   }	}
+	function actionConfirm(url, myMSG) {
+	    if (confirm( myMSG )) {
+	        window.open(url, "_top");
+	    }
+	}
 	function hideWarning() {
 	    document.getElementById('warningID').style.visibility = 'hidden';
 		document.getElementById( 'warningID' ).style.display = 'none';	}
-	function openLogin( ) { document.getElementById( 'loginID' ).style.visibility = 'visible';
+	function hideUpdate() {
+	    document.getElementById('updateID').style.visibility = 'hidden';
+	    document.getElementById('updateID').style.display = 'none';    }
+	function openLogin() {
+	    document.getElementById('loginID').style.visibility = 'visible';
 		document.logFrm.login.focus();	}
 	function hideLogin( ) {	document.getElementById( 'loginID' ).style.visibility = 'hidden';	}
 	function menuToggle( targetID ) { if ( document.getElementById( targetID ).style.display == 'none' ) {
@@ -55,7 +70,7 @@
 	</script>
 </head>
 
-<!-- s#7 -->
+<!-- s#4 -->
 
 <body>
 
@@ -63,7 +78,14 @@
 <div class="ieContainer" style="min-width: 1070px;"><div class="ieContainer2"><div class="ieContainer3">
 
 
-<a name="top"></a>
+<div id="overlayBox" class="disablePage" style="display: none;">
+    <div style="position: relative; display: block; background: #c8c8c8; border: 1px inset #d2d2d2; width:800px; margin: 0 auto; z-index: 9999; text-align: left; top: 20%;">
+        <div style="float: right;"><a style="color: red; font-weight: bold" href="javascript:openActiveBox('overlayBox');">CLOSE</a></div>
+        <div style="clear: both;padding-bottom: 4px;"></div>
+        <div id="overLayContent">
+        </div>
+	</div>
+</div>
 
 
 <div id="MainMenuID2" class="dropDownMenuMainShifted2" style="display: none; left: 150px;">
@@ -99,17 +121,22 @@
 			<div class="warningBg"><span class="warningTitle"><b>&nbsp;Login System&nbsp;&nbsp;&nbsp;</b></span><a href="javascript:hideLogin();"><img src="/images/2008skins/icons/iconClose.png" alt="Close" title="Close" border="0"></a></div>
 			<div class="warningItem"><hr size="1" width="207" noshade=""></div>
 
+<!--
+    			<div class="warningText"><span style="color:#dd4242;font-weight:bold;text-decoration: underline;">IMPORTANT</span>: Please note that you must now log in with your <b><u>email address</u></b> and not your username!</div>
+            <div class="warningItem"><hr size="1" width="207" noshade></div>
+-->
+
 			<form action="/lib/security/functionLogin.html" method="post" name="logFrm" id="logFrm">
 			<input type="hidden" name="returnURL" value="/content/page.html?id=6">
 
-			<div class="warningText">User Name</div>
+			<div class="warningText">Email Address</div>
 			<div class="warningItem">
-				<input type="text" name="login" size="19" maxlength="30" value="" tabindex="90"><br>
+				<input type="text" name="login" size="19" maxlength="100" value="" tabindex="90"><br>
 			</div>
 
 			<div class="warningText">Password</div>
 			<div class="warningItem">
-				<input type="password" name="password" size="19" maxlength="20" tabindex="91"><br>
+				<input type="password" name="password" size="19" maxlength="30" tabindex="91"><br>
 			</div>
 
 			<div class="warningItem">
@@ -117,9 +144,9 @@
 			</div>
 
 			<div class="warningItem">
-				<img src="/images/2008skins/icons/iconWarning.png" border="0">&nbsp;&nbsp;<a href="/member/forgot.html" style="font-weight: lighter;">Forgot Password</a><br>
+				<img src="/images/2008skins/icons/iconWarning.png" border="0">&nbsp;&nbsp;<a target="help" href="/about/help.html" style="font-weight: lighter;" title="Click For Help">ACCOUNT HELP</a><br>
 			</div>
-			<input type="hidden" name="token" value="{39452FD9-FADD-43E4-94E0-2844C63AED1A}"></form>
+			<input type="hidden" name="token" value="/"></form>
 			
 			<div class="warningBottom"></div>
 		</div>
@@ -132,7 +159,7 @@
 			<div class="dropDownMenu">
 				<a href="/member/register.html" title="Register"><img src="/images/2008skins/icons/iconEditProfile.png" alt="Register" title="Register" border="0"></a>
 			</div>
-			<div class="dropDownMenu"><div class="helpTab"><a href="/forums/f_1/169_Website_Help_Files.html" title="Help">?</a></div></div>
+			<div class="dropDownMenu"><div class="helpTab"><a href="/about/help.html" title="Help">?</a></div></div>
 		</div>	
 		<div class="usernamePlateLogged" style="width: 42px;"><div class="usernameTabBg"><div class="usernameTabLeft"><div class="usernameTabRight"><a href="javascript:menuToggle('MainMenuID2');" title="Site Tools">Tools</a></div></div></div></div>
 
@@ -140,10 +167,15 @@
 			<div class="usernamePlateLogged" style="width: 66px;"><div class="usernameTabBg"><div class="usernameTabLeft"><div class="usernameTabRight"><a href="http://www.ar15.com" title="AR15.Com">AR15.Com</a></div></div></div></div>
 			<div class="usernamePlateLogged" style="width: 78px;"><div class="usernameTabBg"><div class="usernameTabLeft"><div class="usernameTabRight"><a href="http://3gn.ar15.com" title="3 Gun Nation">3 Gun Nation</a></div></div></div></div>
 			<div class="usernamePlateLogged" style="width: 56px;"><div class="usernameTabBg"><div class="usernameTabLeft"><div class="usernameTabRight"><a href="http://archery.ar15.com" title="Archery">Archery</a></div></div></div></div>
-			<div class="usernamePlateLogged" style="width: 41px; margin-top: 5px; padding-top: 0px; text-align: center; text-indent: 0px; background: url('/images/2008skins/shared/storeTabRed.png') no-repeat scroll right top transparent;"><a href="http://store.ar15.com" title="AR15.Com Store" target="store">Store</a></div>
+			<div class="dropDownMenu"><div class="storeTab"><a href="http://store.ar15.com" title="AR15.Com Store" target="store">Online Store</a></div></div>
 			<div class="usernamePlateLogged" style="width: 86px;"><div class="usernameTabBg"><div class="usernameTabLeft"><div class="usernameTabRight"><a target="_blank" href="http://membership.nrahq.org/default.asp?campaignid=XR018983" title="Join The NRA">Join The NRA</a></div></div></div></div>
-			<div id="onlineCount" style="padding-left: 20px;">
-				<a href="/forums/"><img src="/images/2008skins/icons/iconStats.png" height="16" style="border: 0;" alt="" title=""></a> 11,093 Online
+			<div id="onlineCount" style="padding-left: 10px; padding-top: 0px;">
+				<a href="/forums/"><img src="/images/2008skins/icons/iconStats.png" height="16" style="border: 0;" alt="" title=""></a> 2,048 Online
+			</div>
+            <div class="social" style="line-height: 20px;padding-top: 1px;padding-left:6px;">
+				<a target="_blank" href="http://www.facebook.com/ar15com/"><img style="margin: 0px;" width="18" height="18" title="Facebook" alt="Facebook" src="/images/2008skins/facebook.png"></a>
+				<a target="_blank" href="https://twitter.com/#!/ar15com/"><img style="margin: 0px;" width="18" height="18" title="Twitter" alt="Twitter" src="/images/2008skins/twitter.png"></a>
+				<a target="_blank" href="http://www.youtube.com/user/ar15com"><img style="margin: 0px;" width="18" height="18" title="YouTube" alt="YouTube" src="/images/2008skins/youtube.png"></a>
 			</div>
 		</div>
 	</div>
@@ -177,25 +209,25 @@
 	<div class="communities">
 		<div style="width: 1056px;">
 			<div class="communitiesButton">
-				<a href="/forums/b/3_AR_15.html" title="AR-15">AR-15</a><div class="insetCommunities"></div>
-				<a href="/forums/b/4_AK_47.html" title="AK-47">AK-47</a><div class="insetCommunities"></div>
-				<a href="/forums/b/5_Handgun.html" title="Handgun">Handgun</a><div class="insetCommunities"></div>
-				<a href="/forums/b/6_Armory.html" title="Armory">Armory</a><div class="insetCommunities"></div>
-				<a href="/forums/b/9_Training.html" title="Training">Training</a><div class="insetCommunities"></div>
-				<a href="/forums/b/1_General.html" title="General">General</a><div class="insetCommunities"></div>
-				<a href="/forums/b/10_Outdoors.html" title="Outdoors">Outdoors</a><div class="insetCommunities"></div>
-				<a href="/forums/b/8_Hometown.html" title="Hometown">Hometown</a><div class="insetCommunities"></div>
-				<a href="/forums/b/2_Industry.html" title="Industry">Industry</a><div class="insetCommunities"></div>
+				<a style="width:68px;" href="/forums/b/3_AR_15.html" title="AR-15">AR-15</a><div class="insetCommunities"></div>
+				<a style="width:68px;" href="/forums/b/4_AK_47.html" title="AK-47">AK-47</a><div class="insetCommunities"></div>
+				<a style="width:68px;" href="/forums/b/5_Handgun.html" title="Handgun">Handgun</a><div class="insetCommunities"></div>
+				<a style="width:68px;" href="/forums/b/6_Armory.html" title="Armory">Armory</a><div class="insetCommunities"></div>
+				<a style="width:68px;" href="/forums/b/9_Training.html" title="Training">Training</a><div class="insetCommunities"></div>
+				<a style="width:68px;" href="/forums/b/1_General.html" title="General">General</a><div class="insetCommunities"></div>
+				<a style="width:68px;" href="/forums/b/10_Outdoors.html" title="Outdoors">Outdoors</a><div class="insetCommunities"></div>
+				<a style="width:68px;" href="/forums/b/8_Hometown.html" title="Hometown">Hometown</a><div class="insetCommunities"></div>
+				<a style="width:68px;" href="/forums/b/2_Industry.html" title="Industry">Industry</a><div class="insetCommunities"></div>
 				
 			</div>
-            <div class="social">
-				<a href="http://www.facebook.com/ar15com/"><img width="25" height="25" title="Facebook" alt="Facebook" class="iconFacebook" src="/images/2012skins/spacer.gif"></a>
-				<a href="https://twitter.com/#!/ar15com/"><img width="25" height="25" title="Twitter" alt="Twitter" class="iconTwitter" src="/images/2012skins/spacer.gif"></a>
-				<a href="http://www.youtube.com/user/ar15com"><img width="25" height="25" title="YouTube" alt="YouTube" class="iconYoutube" src="/images/2012skins/spacer.gif"></a>
-			</div>
-			<div style="float: right; padding-left: 0px; padding-top: 5px;">
+			<div style="float: right; padding-left: 4px; padding-top: 5px;">
 				<div class="eeTabLeft" style="background:transparent url(/images/2008skins/shared/eeTabLeft.gif) no-repeat scroll 0 0; float:left; height:20px; width:5px;"></div>
-				<div class="eeTabBg" style="background:transparent url(/images/2008skins/shared/eeTabBg.gif) repeat-x scroll 0 0; color:#FFFFFF; float:left; height:20px; line-height:20px; font-family: arial narrow; font-size: 8pt;"><a href="/forums/b/7_Equipment_Exchange.html" title="Equipment Exchange"><span class="skinBold" style="color: #ffffff;">Equipment Exchange</span></a></div>
+				<div class="eeTabBg" style="background:transparent url(/images/2008skins/shared/eeTabBg.gif) repeat-x scroll 0 0; color:#FFFFFF; float:left; height:20px; line-height:20px; font-size: 8pt;"><a href="/forums/b/7_Equipment_Exchange.html" title="Equipment Exchange"><span class="skinBold" style="color: #ffffff;">Equipment Exchange</span></a></div>
+				<div class="eeTabRight" style="background:transparent url(/images/2008skins/shared/eeTabRight.gif) no-repeat scroll 0 0; float:left; height:20px; width:5px;"></div>
+			</div>
+			<div style="float: right; padding-left: 4px; padding-top: 5px;">
+				<div class="eeTabLeft" style="background:transparent url(/images/2008skins/shared/eeTabLeft.gif) no-repeat scroll 0 0; float:left; height:20px; width:5px;"></div>
+				<div class="eeTabBg" style="background:transparent url(/images/2008skins/shared/eeTabBg.gif) repeat-x scroll 0 0; color:#FFFFFF; float:left; height:20px; line-height:20px; font-size: 8pt;"><a target="gunstruction" href="/gunstruction/" title="GUNSTRUCTION - Virtual AR Builder"><span class="skinBold" style="color: #ffffff;">Build Your Rifle</span></a></div>
 				<div class="eeTabRight" style="background:transparent url(/images/2008skins/shared/eeTabRight.gif) no-repeat scroll 0 0; float:left; height:20px; width:5px;"></div>
 			</div>
 			<div class="clearHead"></div>
@@ -208,22 +240,19 @@
 		<div class="miniBannerBox">
 		
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=787&amp;z=7" target="_blank"><img src="/images/highlight/skdTactical.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=789&amp;z=7" target="_blank"><img src="/images/highlight/dpms.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=810&amp;z=7" target="_blank"><img src="/images/highlight/swfa.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-
 			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=814&amp;z=7" target="_blank"><img src="/images/highlight/vortex.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=808&amp;z=7" target="_blank"><img src="/images/highlight/brownells.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=791&amp;z=7" target="_blank"><img src="/images/highlight/aimSurplus.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=784&amp;z=7" target="_blank"><img src="/images/highlight/bravoCompany.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=815&amp;z=7" target="_blank"><img src="/images/highlight/cmmg.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=812&amp;z=7" target="_blank"><img src="/images/highlight/fsi.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=810&amp;z=7" target="_blank"><img src="/images/highlight/swfa.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
 			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=805&amp;z=7" target="_blank"><img src="/images/highlight/pkfirearms.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
@@ -232,48 +261,51 @@
 			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=915&amp;z=7" target="_blank"><img src="/images/highlight/miniMagpul.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=812&amp;z=7" target="_blank"><img src="/images/highlight/fsi.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=804&amp;z=7" target="_blank"><img src="/images/highlight/doublestar.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=813&amp;z=7" target="_blank"><img src="/images/highlight/rainier.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=787&amp;z=7" target="_blank"><img src="/images/highlight/skdTactical.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=816&amp;z=7" target="_blank"><img src="/images/highlight/veriforceMini.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=811&amp;z=7" target="_blank"><img src="/images/highlight/tnvc.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=785&amp;z=7" target="_blank"><img src="/images/highlight/stagArms.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 			<div class="clearHead"></div>
 			
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=804&amp;z=7" target="_blank"><img src="/images/highlight/doublestar.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=784&amp;z=7" target="_blank"><img src="/images/highlight/bravoCompany.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=790&amp;z=7" target="_blank"><img src="/images/highlight/rra.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=816&amp;z=7" target="_blank"><img src="/images/highlight/veriforceMini.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=803&amp;z=7" target="_blank"><img src="/images/highlight/pof.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=808&amp;z=7" target="_blank"><img src="/images/highlight/brownells.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
 			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=801&amp;z=7" target="_blank"><img src="/images/highlight/galati.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=791&amp;z=7" target="_blank"><img src="/images/highlight/aimSurplus.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=790&amp;z=7" target="_blank"><img src="/images/highlight/rra.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=806&amp;z=7" target="_blank"><img src="/images/highlight/delton.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=813&amp;z=7" target="_blank"><img src="/images/highlight/rainier.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=795&amp;z=7" target="_blank"><img src="/images/highlight/44mag.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=803&amp;z=7" target="_blank"><img src="/images/highlight/pof.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
 			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=788&amp;z=7" target="_blank"><img src="/images/highlight/midwestIndustries.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=785&amp;z=7" target="_blank"><img src="/images/highlight/stagArms.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=795&amp;z=7" target="_blank"><img src="/images/highlight/44mag.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=815&amp;z=7" target="_blank"><img src="/images/highlight/cmmg.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=806&amp;z=7" target="_blank"><img src="/images/highlight/delton.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 
-			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=811&amp;z=7" target="_blank"><img src="/images/highlight/tnvc.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=789&amp;z=7" target="_blank"><img src="/images/highlight/dpms.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 		</div>
  	</div>
@@ -348,51 +380,51 @@ If you feel that this site is not following its stated information policy, you m
     	<!-- Mini Banners -->
 		<div class="miniBannerBox" style="padding-top: 5px;">
 		
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=751&amp;z=9" target="_blank"><img src="/images/highlight/dsarmsMini.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=819&amp;z=9" target="_blank"><img src="/images/highlight/SS-Button.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=1000&amp;z=9" target="_blank"><img src="/images/highlight/miniLiberty_2013.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=926&amp;z=9" target="_blank"><img src="/images/highlight/ATI-AR15-AnimatedLogo.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=881&amp;z=9" target="_blank"><img src="/images/highlight/ar15_bcm.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
     			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=887&amp;z=9" target="_blank"><img src="/images/highlight/miniCDNN.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=1010&amp;z=9" target="_blank"><img src="/images/highlight/black-hills-ammunition.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=926&amp;z=9" target="_blank"><img src="/images/highlight/ATI-AR15-AnimatedLogo.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=1011&amp;z=9" target="_blank"><img src="/images/highlight/iceArms.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=731&amp;z=9" target="_blank"><img src="/images/highlight/1847-DSG.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=734&amp;z=9" target="_blank"><img src="/images/highlight/delton.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=991&amp;z=9" target="_blank"><img src="/images/highlight/SmithEnterpriseBanner84x28.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=732&amp;z=9" target="_blank"><img src="/images/highlight/stagArms.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-			<div class="clearHead"></div>
-			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=881&amp;z=9" target="_blank"><img src="/images/highlight/ar15_bcm.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=929&amp;z=9" target="_blank"><img src="/images/highlight/miniBlueForceGear.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=762&amp;z=9" target="_blank"><img src="/images/highlight/miniGunTecUSA.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
     			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=871&amp;z=9" target="_blank"><img src="/images/highlight/miniAzArmament.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=891&amp;z=9" target="_blank"><img src="/images/highlight/miniApex.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=1080&amp;z=9" target="_blank"><img src="/images/highlight/smith_2013_84x28.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=1000&amp;z=9" target="_blank"><img src="/images/highlight/miniLiberty_2013.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=1010&amp;z=9" target="_blank"><img src="/images/highlight/black-hills-ammunition.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=1069&amp;z=9" target="_blank"><img src="/images/highlight/handgunGrips.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=819&amp;z=9" target="_blank"><img src="/images/highlight/SS-Button.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
     			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=767&amp;z=9" target="_blank"><img src="/images/highlight/pkfirearms.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=735&amp;z=9" target="_blank"><img src="/images/highlight/jt.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=738&amp;z=9" target="_blank"><img src="/images/highlight/geisseleMini.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=868&amp;z=9" target="_blank"><img src="/images/highlight/miniMarks.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
-			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=1009&amp;z=9" target="_blank"><img src="/images/highlight/ammoace84x28.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			<div class="clearHead"></div>
 			
     			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=733&amp;z=9" target="_blank"><img src="/images/highlight/brownells.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
-    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=762&amp;z=9" target="_blank"><img src="/images/highlight/miniGunTecUSA.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=732&amp;z=9" target="_blank"><img src="/images/highlight/stagArms.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=751&amp;z=9" target="_blank"><img src="/images/highlight/dsarmsMini.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=734&amp;z=9" target="_blank"><img src="/images/highlight/delton.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=735&amp;z=9" target="_blank"><img src="/images/highlight/jt.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=929&amp;z=9" target="_blank"><img src="/images/highlight/miniBlueForceGear.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=891&amp;z=9" target="_blank"><img src="/images/highlight/miniApex.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=738&amp;z=9" target="_blank"><img src="/images/highlight/geisseleMini.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=731&amp;z=9" target="_blank"><img src="/images/highlight/1847-DSG.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=1078&amp;z=9" target="_blank"><img src="/images/highlight/AR15Footer_stonefire.jpg" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
+			
+    			<div class="miniBannerBg"><a href="/biz/engine/click.html?id=868&amp;z=9" target="_blank"><img src="/images/highlight/miniMarks.gif" style="border: 0;" alt="" title="" width="84" height="28"></a></div>
 			
 		</div>
 	</div>
@@ -435,7 +467,7 @@ If you feel that this site is not following its stated information policy, you m
 <div id="footer">
 	<div id="footerColumn1">
 		<div class="floatLeft">
-			Copyright© 1996-2013 AR15.Com LLC. All Rights Reserved.	Any use of this content without express written consent is prohibited.
+			Copyright� 1996-2013 AR15.Com LLC. All Rights Reserved.	Any use of this content without express written consent is prohibited.
 		</div>
 		<div class="clearHead"></div>
 		<div id="footerLink">
@@ -443,7 +475,7 @@ If you feel that this site is not following its stated information policy, you m
 			<a href="/about/memberships.html" title="Team Memberships">Team Memberships</a>
 			<a href="http://membership.nrahq.org/default.asp?campaignid=XR018983" title="Join the NRA">Join the NRA</a>
 			<a href="/forums/" title="Discussion Forums">Discussion Forums</a>
-			<a href="/content/help/" title="Help">Help</a>
+			<a href="/about/help.html" title="Help">Help</a>
 			<a href="/content/page.html?id=6" title="Privacy Policy">Privacy Policy</a>
 			<a href="/about/dmca.html" title="DMCA">DMCA</a>
 			<a href="/about/" title="About Us">About Us</a>
@@ -455,6 +487,10 @@ If you feel that this site is not following its stated information policy, you m
 </div>
 
 </div></div></div>
+
+
+
+
 
 
 </body></html>
