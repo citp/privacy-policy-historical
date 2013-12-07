@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeforkids.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527170800id_/http%3A//www.timeinc.net/subs/privacy/tk/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeforkids.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207195201id_/http%3A//www.timeinc.net/subs/privacy/tk/policy.html) for the most accurate reproduction.*
 
 # TIME FOR KIDS Privacy Notice
 
