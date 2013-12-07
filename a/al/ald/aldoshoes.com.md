@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldoshoes.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622034913id_/http%3A//www.aldoshoes.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldoshoes.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207220643id_/http%3A//www.aldoshoes.com/us/privacy) for the most accurate reproduction.*
 
 # Shop ALDO Shoes, Boots, Sandals, & Accessories for women & Men.
 
@@ -34,6 +34,8 @@ We do not sell or rent your personal information to non-affiliated third parties
 
 We may transfer personal information to non-affiliated third parties for processing pursuant to agreements that prohibit the third parties from using or disclosing the personal information other than for the purpose of processing and which impose security safeguards appropriate to the sensitivity of the information.
 
+The collection, use, and disclosure of information contemplated in this Policy may involve a transfer of the information to jurisdictions located outside your country of residence that may not have equivalent laws and rules regarding personally identifiable information. By way of example, this may happen if one of our service providers is located in a country outside your home country. In these cases, we will take steps to ensure that your privacy rights continue to be protected. 
+
 We reserve the right to disclose your personal information as required by law, in response to legal process and law enforcement requests, and as necessary to protect the property, interests and rights of ALDO and the ALDO Affiliates.
 
 ALDO’s website may contain links to websites operated by third parties.  These websites may collect your personal information.  This Policy does not apply to the practices of third parties and ALDO doe not assume any responsibility for, and by using this website and/or accessing a third party’s website from this website you release ALDO of any responsibility for, the actions, practices and omissions of third parties. Please check the privacy policy at each site you visit.
@@ -63,4 +65,4 @@ We will keep your personal information only as long as is reasonably necessary f
 **_HOW IS PERSONAL INFORMATION SECURED?_**  
 We have adopted appropriate measures to ensure the confidentiality of personal information and to safeguard personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification, in light of, among other things, the sensitivity of the information and the purposes for which it is to be used. Furthermore, each and every ALDO employee, mandatory or agent must abide by this Policy.
 
-Last update: April 20, 2012
+Last update: September 17, 2013
