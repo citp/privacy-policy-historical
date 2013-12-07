@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the termwiki.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321134717id_/http%3A//www.termwiki.com/index.php/TermWiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termwiki.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207193430id_/http%3A//www.termwiki.com/index.php/TermWiki%3APrivacy_policy) for the most accurate reproduction.*
 
-# TermWiki:Privacy policy - TermWiki
+# TermWiki: Privacy policy - TermWiki
 
-### From TermWiki
+  * [Home](https://web.archive.org/) > 
+  * TermWiki:Privacy policy
 
-  
+
+
 CSOFT International Limited, and its local and overseas affiliates and subsidiaries (referred to as “Company”, “we”, “us”, and “our”), are committed to protecting your privacy and will carefully handle and protect the Personal Information (defined below) which you provide to us or we obtain during your use of this website (“Website”). 
 
 By accessing, browsing or using this Website, or by providing your Personal Information to us, you agree and consent to our handling and processing of your Personal Information in accordance with this Privacy Policy. If you do not so consent, please stop accessing, browsing or using this Website and do not provide any Personal Information to us. 
