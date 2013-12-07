@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tommyclarke.com privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315115308id_/http%3A//tommyclarke.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tommyclarke.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207082317id_/http%3A//tommyclarke.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tommy Clarke - Tom Clarke
 
