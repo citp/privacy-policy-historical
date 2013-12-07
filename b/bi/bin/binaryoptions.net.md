@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binaryoptions.net privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625083920id_/http%3A//www.binaryoptions.net/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binaryoptions.net privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207030003id_/http%3A//www.binaryoptions.net/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BinaryOptions.net
 
@@ -27,3 +27,5 @@ BinaryOptions.net receives a good portion of its website revenue through affilia
 **Changes to our Privacy Policy**
 
 Please note that we respect the right to make changes or updates to our privacy policy at any time without notifying you.  It is your responsible to check our privacy policy for future changes.
+
+Rating: 0.0/ **5** (0 votes cast)
