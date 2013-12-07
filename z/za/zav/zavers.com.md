@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zavers.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117084143id_/http%3A//zavers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zavers.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207185646id_/http%3A//www.zavers.com/privacy_policy) for the most accurate reproduction.*
 
 # Zavers • Privacy Policy
 
-Zavers℠ takes your privacy seriously. We have created this privacy policy in order to tell you how we collect information, what we do with it, and what controls you have. Please read it carefully, and if you have any questions or concerns, please [send us a comment](https://web.archive.org/contact_us).
+Zavers℠ takes your privacy seriously. We have created this privacy policy in order to tell you how we collect information, what we do with it, and what controls you have. Please read it carefully, and if you have any questions or concerns, please contact us.
 
 This privacy policy applies to personal information collected via this website, and not to any other activities of Zavers or its affiliates or business partners. Personal information means information about you that is personally identifiable – including your name, address, e-mail address, phone number, purchases, or other information we may request and collect from you, including your household composition, family member ages, and/or purchasing/product preferences – and that is not otherwise publicly available. This policy does not apply to the practices of companies that Zavers does not own or control, or to people that Zavers does not employ or manage.
 
