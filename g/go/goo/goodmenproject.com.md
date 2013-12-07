@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodmenproject.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526032005id_/http%3A//goodmenproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodmenproject.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207041018id_/http%3A//goodmenproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — The Good Men Project
 
@@ -8,14 +8,14 @@ Effective **11/23/2010**
 
 **Privacy Notice Table Of Contents:**
 
-  * [Our Commitment To Privacy](http://goodmenproject.com/privacy-policy/#1)
-  * [The Information We Collect](http://goodmenproject.com/privacy-policy/#2)
-  * [How We Use Information](http://goodmenproject.com/privacy-policy/#3)
-  * [Our Commitment To Data Security](http://goodmenproject.com/privacy-policy/#4)
-  * [Our Commitment To Children’s Privacy](http://goodmenproject.com/privacy-policy/#5)
-  * [How To Access Or Correct Your Information](http://goodmenproject.com/privacy-policy/#6)
-  * [How To Contact Us](http://goodmenproject.com/privacy-policy/#7)
-  * [Regarding Burst Media Advertising](http://goodmenproject.com/privacy-policy/#8)
+  * Our Commitment To Privacy
+  * The Information We Collect
+  * How We Use Information
+  * Our Commitment To Data Security
+  * Our Commitment To Children’s Privacy
+  * How To Access Or Correct Your Information
+  * How To Contact Us
+  * Regarding Burst Media Advertising
 
 
 
@@ -60,7 +60,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How You Can Access Or Correct Your Information**
 
-You can access all your personally identifiable information that we collect online and maintain by [logging in](http://goodmenproject.com/wp-admin). We use this procedure to better safeguard your information.
+You can access all your personally identifiable information that we collect online and maintain by [logging in](https://web.archive.org/wp-admin). We use this procedure to better safeguard your information.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
