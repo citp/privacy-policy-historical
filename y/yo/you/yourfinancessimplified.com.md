@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourfinancessimplified.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608212324id_/http%3A//www.yourfinancessimplified.com/disclaimer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourfinancessimplified.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207013103id_/http%3A//www.yourfinancessimplified.com/disclaimer/privacy) for the most accurate reproduction.*
 
 # Privacy - Your Finances Simplified
 
@@ -22,11 +22,11 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 <!– googleprivacypolicy –>
 
-### [Dominique Brown](http://www.yourfinancessimplified.com/author/yfs/ "Dominique Brown")
+### [Dominique Brown](http://www.yourfinancessimplified.com/author/yfs-2/ "Dominique Brown")
 
-Dominique Brown is the CEO of DNB Financial Planning, landlord, financial educator and non-profit owner. He enjoys working out, helping others and everything finance. His sole purpose for creating this website is to share his passion of personal finance and to help you simplify your finances. I love questions.. So feel free to ask me anything!
+Dominique Brown is a husband, father, financial planner, author of the book "How to Fix your Credit," author of www.yourfinancessimplified.com, owner of S&D Capital Holdings and a landlord. Mr. Brown's advice can be found on the Huffington Post, Business Insider, Yahoo, Madame Noir, HR Block and Ebony Magazine. He holds a bachelor's degree from George Mason University in IT Security. He wanted to be a computer scientist at one point in his life. However, when his mother faced financial disaster after a divorce he switched his focus to financial planning to ensure that his family will have financial independence and generational wealth. His hobbies include posting too much on Facebook, daily pictures with his daughter on Instagram, creating hilarious recaps of trashy reality TV shows, playing too much and wearing suits.
 
-[More Posts](http://www.yourfinancessimplified.com/author/yfs/ "More posts by Dominique Brown") \- [Website](http://www.yourfinancessimplified.com/ "Dominique Brown")
+[More Posts](http://www.yourfinancessimplified.com/author/yfs-2/ "More posts by Dominique Brown") \- [Website](http://www.yourfinancessimplified.com/ "Dominique Brown")
 
 Follow Me:  
 [](http://www.twitter.com/URFinanceSimple)[](http://www.facebook.com/YourFinancesSimplified)[](http://www.youtube.com/user/YourFinancesSimple)[](http://www.reddit.com/user/Youngsir)
