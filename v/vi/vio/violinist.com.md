@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603172844id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207052755id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
 
 # Violinist.com privacy policy
 
