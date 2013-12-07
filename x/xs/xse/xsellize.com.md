@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the xsellize.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430075308id_/http%3A//xsellize.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsellize.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207024918id_/http%3A//xsellize.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - xSellize
 
 ### Important Announcement!
 
-Welcome to xSellize Forum, Please take some time to read this message.
+VIP is closed however you can still help xSellize please donate we do really need your help
 
-We currently are desperate for donations our funds are running very low. We need you to be very generous and dig deep try to donate as much as you can via [Google Checkout ](http://iparepo.com/)
-
-We thank you in advance, this message will be removed once we are out of the red.
+Click here to donate using [WePay](https://www.wepay.com/donations/1991114293)
 
   
 
