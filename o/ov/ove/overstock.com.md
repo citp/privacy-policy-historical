@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overstock.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511091426id_/https%3A//help.overstock.com/app/answers/detail/a_id/65) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overstock.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207023644id_/https%3A//help.overstock.com/app/answers/detail/a_id/65) for the most accurate reproduction.*
 
 # Overstock.com Privacy and Security Policy
 
@@ -44,7 +44,7 @@ We may use tracking pixels/web beacons, cookies and or other technologies to rec
   * **Third Party Cookies**  
 
     * We allow third-party companies to collect anonymous information when you visit the Sites and to use that information to serve ads for Overstock.com products or services or for products or services of other companies when you visit the Sites or other websites. These companies may use anonymous information (e.g., navigational, non-personally identifiable information, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.) during your visits to the Sites and other websites in order to provide advertisements about our goods and services likely to be of interest to you. These parties may use a cookie or a third party web beacon, or other technologies, to collect this information.
-    * To opt out of third-party vendors' cookies, see the “[What Choices Do You Have?](https://help.overstock.com/euf/rightnow/optimized/1368163661/themes/standard/#1)” section of this privacy policy for instruction how to do so.
+    * To opt out of third-party vendors' cookies, see the “[What Choices Do You Have?](https://help.overstock.com/euf/rightnow/optimized/1385447988/themes/standard/#1)” section of this privacy policy for instruction how to do so.
   * **User Experience Information**  
 In order to improve customer online shopping experience, help with fraud identification, and to assist our customer care representatives in resolving issues customers may experience in completing online purchases, we use tools to monitor certain user experience information, including, but not limited to, login information, IP address, data regarding pages visited, specific actions taken on pages visited (e.g., information entered during checkout process), and browser information. 
   * **Information from Other Sources**  
