@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotter.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606031128id_/http%3A//www.hottershoes.com/webapp/wcs/stores/servlet/StaticPageDisplay%3FstoreId%3D10551%26identifier%3DFAQ-Privacy-Security%26brdcrmb_trail%3DFAQ%26langId%3D-1%26catalogId%3D10051) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotter.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207185630id_/http%3A//www.hottershoes.com/webapp/wcs/stores/servlet/StaticPageDisplay%3FstoreId%3D10551%26identifier%3DFAQ-Privacy-Security%26brdcrmb_trail%3DFAQ%26langId%3D-1%26catalogId%3D10051) for the most accurate reproduction.*
 
 # FAQ - Privacy and Security
 
@@ -43,6 +43,8 @@ Shopping online with us is safe, and we take the utmost care to ensure your pers
 Was this helpful? Yes / No
 
 Do you have a privacy policy?
+
+Yes, our privacy policy can be found on our [‘Terms and Conditions page](https://web.archive.org/webapp/wcs/stores/servlet/StaticPageDisplay?storeId=10551&identifier=Terms-Conditions&langId=-1&catalogId=10601)’.
 
 Was this helpful? Yes / No
 
