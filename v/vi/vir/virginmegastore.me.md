@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the virginmegastore.me privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605112816id_/http%3A//virginmegastore.me/Sub.aspx%3Fpageid%3D130) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmegastore.me privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207123742id_/http%3A//www.virginmegastore.me/Sub.aspx%3Fpageid%3D130) for the most accurate reproduction.*
 
 # :: Virgin Megastore MENA ::Privacy Policy
 
-**  
-PRIVACY AND POLICY**
-
-VSTar Multimedia LLC (referred to as "we" or "us" or "our") recognizes that your privacy is important. This Privacy Policy applies to all of the products and services offered by us on this website. 
+**PRIVACY AND POLICY** VSTar Multimedia LLC (referred to as "we" or "us" or "our") recognizes that your privacy is important. This Privacy Policy applies to all of the products and services offered by us on this website. 
 
 **What information do we collect?**  
 We offer a number of services that do not require you to register for an account or provide any personal information to us. However, we may collect personal information from you when you register on our site or subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your information such as your name, e-mail address, phone number as well as user names and passwords. You may, however, visit our site anonymously. Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
 
-**What do we use your information for?**  
+**What do we use your information for?  
+**  
 Any of the information we collect from you may be used for the following purposes: • To personalize your experience. Your information helps us to better respond to your individual needs. • To improve our website. We continually strive to improve our website offerings based on the information and feedback we receive from you. • To improve customer service. Your information helps us to more effectively respond to your customer service requests and support needs. • To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. • To administer a contest, promotion, survey or other site feature. • To send periodic emails The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
 **How do we protect your information?**  
@@ -29,7 +27,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
 **Terms and Conditions**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.virginmegastore.me](http://www.virginmegastore.me/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.virginmegastore.me]()
 
 **Your Consent**  
 By using our site, you consent to our privacy policy.
@@ -39,7 +37,7 @@ Please note that this Privacy Policy may change from time to time. We will post 
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us at any time through this website or write to us using the information below:   
-[http://www.virginmegastore.me](http://www.virginmegastore.me/)  
+[http://www.virginmegastore.me]()  
 Dubai  
 United Arab Emirates   
 [info@virginmegas](mailto:info@virginmegastore.me)tore.me
