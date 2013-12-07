@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go2convert.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606221237id_/http%3A//www.go2convert.com/services/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2convert.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207012424id_/http%3A//www.go2convert.com/services/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Go2convert.com
 
