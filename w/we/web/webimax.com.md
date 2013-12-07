@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webimax.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621060305id_/http%3A//www.webimax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webimax.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207044007id_/http%3A//www.webimax.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WebiMax
 
@@ -55,18 +55,8 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-www.webimax.com
+www.webimax.com  
+6000 Commerce Pkwy  
+Mount Laurel, New Jersey 08054 USA  
+marketing@webimax.com   
 
-6000 Commerce Pkwy
-
-Mount Laurel, New Jersey 08054
-
-USA
-
-marketing@webimax.com 
-
-  
-  
-
-
-[](http://www.websiteanalysis.com/)
