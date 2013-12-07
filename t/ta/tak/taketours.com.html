@@ -1,23 +1,32 @@
-<!--The following is the downloaded HTML source of the taketours.com privacy policy that was archived on 2013-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628171806id_/http%3A//www.taketours.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the taketours.com privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207163044id_/http%3A//www.taketours.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
 <title>Privacy  - TakeTours</title>
-<meta name="keywords" content="Privacy">
-<meta name="description" content="Privacy">
-<link rel="stylesheet" href="/css/en/public_v130419.css?t=20130627.03" type="text/css">
+<meta name="keywords" content="Privacy  - TakeTours">
+<meta name="description" content="Privacy  - TakeTours">
+
+
+<link rel="stylesheet" href="/css/en/public_v130419.css?t=20131204.01" type="text/css">
+
 <link rel="shortcut icon" href="http://www.taketours.com/taketours.ico" type="image/x-icon">
-<script type="text/javascript" defer="" async="" src="https://owa.taketours.com/piwik/piwik.js"></script><script type="text/javascript" src="/js/jquery/jquery-1.4.2.min.js"></script>		
-		<script type="text/javascript" src="/js/init.js?t=20130627.02"></script>
-		<script type="text/javascript" src="/js/init_attr.js"></script>
+<script type="text/javascript" defer="" async="" src="https://owa.taketours.com/piwik/piwik.js"></script><script type="text/javascript" src="/js/jquery/jquery-1.8.3.min.js"></script>	
+				
+		<script type="text/javascript" src="/js/jquery/jquery-ui-1.10.3.min.js"></script>
+		<link rel="stylesheet" href="/css/en/jquery-ui-1.10.3.custom.css?t=20131205.02">
+	
+			<script type="text/javascript" src="/js/init_v1.js?t=20131205.02"></script>
+			<script type="text/javascript" src="/js/init_attr.js"></script>
 			<script type="text/javascript" src="/js/ac/actb.js"></script>
-			<script type="text/javascript" src="/js/ac/common.js?t=20130627.02"></script>
+			<script type="text/javascript" src="/js/ac/common_v1.js?t=20131205.02"></script>
 			
+
 </head>
 
 <body onload="" onunload="">
-<div id="n_wrapper" style="width:960px">
+	<div id="n_wrapper" style="width:960px">
   <div id="n_head">
     <div id="n_logo"><a alt="TakeTours" title="TakeTours" href="http://www.taketours.com"></a></div>
     <div id="n_head_r">
@@ -39,19 +48,20 @@
 				<li class="n_li_smallnav" id="language_multi">
 		<a href="javascript:void(0)" class="nav_chinese">English</a>
 		<div class="n_smallnavbox">
-			<a href="http://cn.taketours.com" class="nav_chinese_b" target="_top"></a>
+			<a href="http://cn.taketours.com/?from=TT" class="nav_chinese_b" target="_top"></a>
 			<a href="http://big5.taketours.com" class="nav_fchinese" target="_top"></a>
 			<a href="http://www.taketours.com/spanish-language-tours/" class="nav_esp_b" target="_top"></a>
 		</div>
 	</li>
 				
-				<li><a title="Gotobus.com" href="http://www.gotobus.com" id="forgotobus" target="_blank"></a></li>
 		 	</ul>
         </div>
+        <div class="floatR" id="second_alert" style="margin-right:10px;line-height:24px;"></div>
+        <script type="text/javascript" src="/js/second_line.js"></script>
       </div>
       <div id="n_head_r_pic" class="floatR">
-		<script type="text/javascript" src="/js/jquery/jquery.tools.min.new.js"></script>
-		<script type="text/javascript" src="/js/jquery/jquery.autocomplete.js"></script>
+		<script type="text/javascript" src="/js/jquery/jquery.tools.min.js"></script>
+		<script type="text/javascript" src="/js/jquery/jquery.ivy.autocomplete.js"></script>
 		<p class="floatL srcleft"></p>
 		<form action="http://search.taketours.com/search/quickSearch.do" onsubmit="return check_input_value(this);">		
                  
@@ -75,7 +85,7 @@
                                         <li><a href="javascript:change_top_type(3, 'Shows')" class="c000">Shows</a></li>
                             </ul>
                         </div>
-                         <input type="text" style=" background:#ffffff;; border:none; width:245px; margin:0; padding:5px 0 4px 8px; float:left;" autocomplete="off" id="java_search_keywords" class="txtSearch ac_input" name="keywords" onblur="change_defalut_color(this);" value="Enter keywords or tour code">
+                     <input type="text" style="color:#8E8E8E; background:#ffffff;; border:none; width:245px; margin:0; padding:5px 0 4px 8px; float:left;" autocomplete="off" id="java_search_keywords" class="txtSearch ac_input" name="keywords" onblur="change_defalut_color(this);" onfocus="change_input_color(this);" value="Enter keywords or tour code">
                          <div class="clear"></div>
                      </div>
                     <input type="hidden" name="search_type" id="r_search_type">
@@ -115,7 +125,7 @@
 				$("#java_search_keywords").focus(function(){
 						change_defalut_value();
 					});
-				$("#java_search_keywords").autocomplete(hotels);
+				$("#java_search_keywords").ivy_autocomplete(hotels);
 			}
 			else if(type == 3)
 			{
@@ -124,7 +134,7 @@
 				$("#java_search_keywords").focus(function(){
 					change_defalut_value();
 				});
-				$("#java_search_keywords").autocomplete(shows);
+				$("#java_search_keywords").ivy_autocomplete(shows);
 			}
 			else
 			{
@@ -132,7 +142,7 @@
 				$("#java_search_keywords").focus(function(){
 					change_defalut_value();
 				});
-				$("#java_search_keywords").autocomplete(j_attras);
+				$("#java_search_keywords").ivy_autocomplete(j_attras);
 			}
 		}	
 		function change_defalut_value()
@@ -159,10 +169,14 @@
 				obj.style.color='#8E8E8E';
 			}
 		}
+		function change_input_color(obj)
+		{
+			obj.style.color='#000000';
+		}
 		$("#java_search_keywords").focus(function(){
 			change_defalut_value();
 		});
-		$("#java_search_keywords").autocomplete(j_attras);
+		$("#java_search_keywords").ivy_autocomplete(j_attras);
 		set_defalut_value();
 	    </script>	        
 	   	</div>
@@ -187,7 +201,7 @@
                                                                 + (screen.width - 850) / 2 + ',top='
                                                                 + (screen.height - 550) / 2);
 
-					}
+	}
 					else
 					{
 					window.open("https://www.facebook.com/dialog/oauth?client_id=195794973796110&redirect_uri=http://www.taketours.com/cgi-bin/facebook.cgi&scope=email,read_stream,publish_stream,offline_access",
@@ -290,20 +304,21 @@
                   </div>
                 </div>
             </li>
-            <li class="n_li_tour"><a href="/shows/"><span>Shows<label>&nbsp;</label></span></a>
+            <li class="n_li_tour"><a href="http://www.taketours.com/shows/"><span>Shows<label>&nbsp;</label></span></a>
             		<div class="n_menu_tourbd font12">
                   <div class="new1_menu_dropDown floatL" id="toolbar_shows">
                   <div class="new1_menu_dropDownInside" style="width:180px;_width:190px;*width:190px;"><ul>
 <li style="padding:0; background:none;"><a href="http://www.taketours.com/las-vegas-shows/"><strong>Las Vegas</strong></a></li>
-<li><a href="http://www.taketours.com/las-vegas-nv/jubileeatbally-s.html">Jubilee at Bally's</a></li>
-<li><a href="http://www.taketours.com/las-vegas-nv/k-bycirquedusoleil.html">KÀ Cirque du Soleil</a></li>
-<li><a href="http://www.taketours.com/las-vegas-nv/ler-veshow.html">LE RÊVE - The Dream</a></li>
+<li><a href="http://www.taketours.com/las-vegas-nv/jubilee-at-ballys.html">Jubilee at Bally's</a></li>
+<li><a href="http://www.taketours.com/las-vegas-nv/ka-cirque-du-soleil.html">KÀ Cirque du Soleil</a></li>
+<li><a href="http://www.taketours.com/las-vegas-nv/le-reve-show.html">LE RÊVE - The Dream</a></li>
 <li><a href="http://www.taketours.com/las-vegas-nv/the-beatles-love-cirque-du-soleil.html">LOVE Cirque du Soleil</a></li>
-<li><a href="http://www.taketours.com/las-vegas-nv/oshow.html">O Cirque du Soleil</a></li>
-<li><a href="http://www.taketours.com/las-vegas-nv/vegas-theshow.html">VEGAS! The Show</a></li>
-<li><a href="http://www.taketours.com/las-vegas-nv/zumanity-cirque-du-soleil.html">Zumanity Cirque du Soleil</a></li>
+<li><a href="http://www.taketours.com/las-vegas-nv/o-show.html">O Cirque du Soleil</a></li>
 <li style="padding:0; background:none;"><a href="http://www.taketours.com/new-york-shows/"><strong>New York</strong></a></li>
-<li><a href="http://www.taketours.com/new-york-ny/mamma-mia-broadway-tickets-orchestra-front-mezz.html">Mamma Mia</a></li></ul><table width="100%;" cellspacing="0" cellpadding="0"><tbody><tr><td style="border-bottom:1px solid #5584D4;">&nbsp;</td><td width="90px" align="right" rowspan="2"><a class="more_des" href="http://www.taketours.com/shows/">More Shows &gt;&gt;</a></td></tr><tr><td>&nbsp;</td></tr></tbody></table><div class="clear"></div></div>
+<li><a href="http://www.taketours.com/new-york-ny/chicago-broadway-tickets.html">Chicago</a></li>
+<li><a href="http://www.taketours.com/new-york-ny/mamma-mia-broadway-tickets-orchestra-front-mezz.html">Mamma Mia</a></li>
+<li><a href="http://www.taketours.com/new-york-ny/the-lion-king-broadway-tickets-orchestra-front-mezz.html">The Lion King</a></li>
+<li><a href="http://www.taketours.com/new-york-ny/the-phantom-of-the-opera-broadway-tickets-orchestra-front-mezz.html">The Phantom of the Opera Broadway</a></li></ul><table width="100%;" cellspacing="0" cellpadding="0"><tbody><tr><td style="border-bottom:1px solid #5584D4;">&nbsp;</td><td width="90px" align="right" rowspan="2"><a class="more_des" href="http://www.taketours.com/shows/">More Shows &gt;&gt;</a></td></tr><tr><td>&nbsp;</td></tr></tbody></table><div class="clear"></div></div>
                   </div>
                 </div>
             </li>
@@ -317,7 +332,7 @@
         <div id="n_nav_smalll"></div>
         <div id="n_nav_smallm">
           <ul class="no_list_style">
-	        <li class="n_cart"><a title="Shopping Cart" href="http://www.taketours.com/cgi-bin/c.fcgi?a=shopcart_view" target="_top"><span class="n_cart_s">&nbsp;</span><span><b>Shopping Cart</b></span></a></li>          
+	        <li class="n_cart"><a title="Shopping Cart" href="http://www.taketours.com/cgi-bin/c.fcgi?a=shopcart_view" target="_top"><span class="n_cart_s">&nbsp;</span><span id="lan_shopping_cart"><b>Shopping Cart</b></span></a></li>          
 	        <li class="n_acount"><a title="Account" href="https://www.taketours.com/cgi-bin/c.fcgi?a=main" target="_top"><span class="n_acount_s">&nbsp;</span><span><b>My Account</b></span></a></li>
           </ul>
         </div>
@@ -374,7 +389,7 @@
 		lis[i].onmouseout=function(){CssClass.remove(this,'hover')};
 	}
   </script>
-<div id="n_main"><div class="n_statenav"><span class="floatR" style="display:block;width:400px;text-align:right">
+<div id="n_main" style="width:960px;"><div class="n_statenav"><span class="floatR" style="display:block;width:400px;text-align:right">
 			<script type="text/javascript">
 			$(document).ready(function(){
 				var role = get_cookie('IvyCustomer_role');
@@ -400,11 +415,11 @@
               <li class="active"><a href="http://www.taketours.com/privacy/">Privacy</a></li>
               <li><a href="http://www.taketours.com/points/pointshelp/">Loyalty Program</a></li>
               <li><a href="http://www.taketours.com/affiliate">Affiliate Program</a></li>
-              <li><a href="http://www.taketours.com/aboutus">About Us</a></li>
+              <li><a href="http://www.taketours.com/aboutus/">About Us</a></li>
               <li><a href="http://blog.taketours.com/">Travel Blog</a></li>
-              <li><a href="http://www.taketours.com/workwithus">Add Your Tours</a></li>
-              <li><a href="http://www.taketours.com/grouptourbuscharter">Group Services</a></li>
-              <li><a href="http://www.taketours.com/cs/c1696" class="last">Gift Certificate</a></li>
+              <li><a href="http://www.taketours.com/aboutus/partnerwithus/">Add Your Tours</a></li>
+              <li><a href="http://www.taketours.com/group-tour-bus-charter/">Group Services</a></li>
+              <li><a href="http://www.taketours.com/gift-certificate/" class="last">Gift Certificate</a></li>
             </ul>
           </div>
           <div class="left_barbot"></div></td>
@@ -420,7 +435,7 @@
               <p> What Personal Information About Customers Does TakeTours.com Gather? </p>
               <p> The information we learn from customers helps us 
                 personalize and continually improve your shopping experience at 
-                TakeTours.com. Here are the types of information we gather. </p>
+                TakeTours.com. Here are the types of information we gather: </p>
               <p> Information You Give Us: We receive and store any 
                 information you enter on our Web site or give us in any other way. You 
                 can choose not to provide certain information, but then you might not be
@@ -441,7 +456,7 @@
                 useful and interesting, we often receive a confirmation when you open 
                 e-mail from TakeTours.com if your computer supports such 
                 capabilities. We also compare our customer list to lists received from 
-                other companies, in an effort to avoid sending unnecessary messages to 
+                other companies in an effort to avoid sending unnecessary messages to 
                 our customers. If you do not want to receive e-mail or other mail from 
                 us, please adjust your Customer Communication Preferences. </p>
               <p> Information from Other Sources: For reasons such as 
@@ -491,7 +506,7 @@
               <p> We work to protect the security of your information 
                 during transmission by using Secure Sockets Layer (SSL) software, which 
                 encrypts information you input. </p>
-              <p> It is important for you to protect against unauthorized 
+              <p> It is important for you to be protected against unauthorized 
                 access to your password and to your computer. Be sure to sign off when 
                 finished using a shared computer. </p>
               <div class="line"><b>What Information Can I Access?</b></div>
@@ -506,8 +521,8 @@
               What Choices Do I Have?
               <p> As discussed above, you can always choose not to provide
                 information, even though it might be needed to make a purchase or to 
-                take advantage of such TakeTours.com features as Your About 
-                You Area, Wish Lists, and Customer Reviews. </p>
+                take advantage of such TakeTours.com features as your About 
+                You area, Wish Lists, and Customer Reviews. </p>
               <p> You can add or update certain information on pages such 
                 as those listed in the "What Information Can I Access?" section above. 
                 When you update information, we usually keep a copy of the prior version
@@ -533,11 +548,11 @@
                 User Agreement, including limitations on damages, arbitration of 
                 disputes, and application of the law of the state of Washington. If you 
                 have any concern about privacy at TakeTours.com, please send
-                us a thorough description to support@taketours.com, and we will try to 
+                us a thorough description to support@taketours.com and we will try to 
                 resolve it. Our business changes constantly. This Notice and the User 
                 Agreement will change also, and use of information that we gather now is
                 subject to the Privacy Notice in effect at the time of use. We may 
-                e-mail periodic reminders of our notices and conditions, unless you have
+                e-mail periodic reminders of our notices and conditions unless you have
                 instructed us not to, but you should check our website frequently to 
                 see recent changes. </p>
             </div>
@@ -576,7 +591,6 @@
 		<div><b class="font13 c000">More TakeTours Destinations</b></div>
 		<ul class="no_list_style">
 		<li><a href="http://www.taketours.com/east-coast-tours/">East Coast Tours</a></li>
-		<li><a href="http://www.useastcoastvacation.com/">East Coast Vacation</a></li>
 		<li><a href="http://www.taketours.com/new-york-ny/">New York Tours &amp; Vacation</a></li>
 		<li><a href="http://www.taketours.com/niagara-falls-ny/">Niagara Falls Tours</a></li>
 		<li><a href="http://www.taketours.com/tours/">Tours &amp; Vacation Packages</a></li>
@@ -585,13 +599,12 @@
 		</ul>
 		<ul class="no_list_style">
 		<li><a href="http://www.taketours.com/west-coast-tours/">West Coast Tours</a></li>
-		<li><a href="http://www.uswestcoastvacation.com/">West Coast Vacation</a></li>
 		<li><a href="http://www.taketours.com/yellowstone-tours/">Yellowstone Tours</a></li>
 		<li><a href="http://www.taketours.com/grand-canyon-tours/">Grand Canyon Tours</a></li>
 		<li><a href="http://www.taketours.com/los-angeles-ca/">Los Angeles Tours &amp; Vacations</a></li>
 		<li><a href="http://www.taketours.com/san-francisco-ca/">San Francisco Tours &amp; Vacations</a></li>
 		<li><a href="http://www.taketours.com/mexico/">Mexico Tours &amp; Vacations</a></li>
-		<li><a href="http://www.taketours.com/tour-destinations/"><strong>See all destinations»</strong></a></li>
+		<li><a href="http://www.taketours.com/destinations/"><strong>See all destinations»</strong></a></li>
 		</ul>
 	</div>
 		<div class="n_foot_c floatL">
@@ -606,13 +619,16 @@
 		<div class="n_foot_c n_foot_cl floatL">
 		<div><b class="font13 c000">Connect with us</b></div>
 		<ul style="padding:10px 0;">
-			<div id="web_site_facebook_div">
-			<a target="_blank" href="http://www.facebook.com/TakeTours"><li class="facebook-link" style="margin-left:25px">Be a fan</li></a>
-			</div>
-			<a target="_blank" href="http://plus.google.com/105560219232622662148/"><li class="googlePlus-link">Add to circles</li></a>
-			<a target="_blank" href="http://twitter.com/taketours"><li class="twitter-link">Follow us</li></a>
-			<a target="_blank" href="http://www.youtube.com/user/taketours"><li class="youTube-link">Subscribe</li></a>
-			<a target="_blank" href="http://pinterest.com/taketours/"><li class="pinterest-link">Pin us</li></a>
+			
+				<div id="web_site_facebook_div">
+					<a target="_blank" href="http://www.facebook.com/TakeTours"><li class="facebook-link" style="padding-left:25px">Be a fan</li></a>
+				</div>
+			
+			<li class="googlePlus-link"><a target="_blank" href="http://plus.google.com/105560219232622662148/">Add to circles</a></li>
+			<li class="twitter-link"><a target="_blank" href="http://twitter.com/taketours">Follow us</a></li>
+			<li class="youTube-link"><a target="_blank" href="http://www.youtube.com/user/taketours">Subscribe</a></li>
+			<li class="pinterest-link"><a target="_blank" href="http://pinterest.com/taketours/">Pin us</a></li>
+			<li class="instagram-link"><a target="_blank" href="http://www.instagram.com/taketours">Find us</a></li>
 		</ul>
 		</div>
 		<div class="clear"></div>
@@ -629,6 +645,9 @@
 			<!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.www.taketours.com"]);
+  _paq.push(["setDomains", ["*.www.taketours.com"]]);
   _paq.push(["trackPageView"]);
   _paq.push(["enableLinkTracking"]);
 		
