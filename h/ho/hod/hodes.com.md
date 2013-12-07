@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hodes.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607071956id_/http%3A//hodes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hodes.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207094234id_/http%3A//www.hodes.com/privacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Bernard Hodes Group
 
