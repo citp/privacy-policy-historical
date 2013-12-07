@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurostylelighting.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627144841id_/http%3A//www.eurostylelighting.com/sitehelpandpolicies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurostylelighting.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207073016id_/http%3A//www.eurostylelighting.com/sitehelpandpolicies%23privacy) for the most accurate reproduction.*
 
 # Customer Support, Ordering and Shipping Information - EuroStyleLighting.com and http://www.eurostylelighting.com
 
@@ -147,15 +147,7 @@ back to top
 
 **International Shipping**
 
-A minimum value of $200 applies to all international orders. In addition, the total must be paid by wire transfer with the exception of: Puerto Rico, Canada, US Virgin Islands, American Samoa, FPO and APO addresses.
-
-All sales on international orders are final.
-
-In order to make an international shipping order, please go online and place an order. You will then be contacted via e-mail by a customer service representative with a personalized shipping quote. Upon approval of related shipping charges, we will contact you via e-mail with the wire transfer information. Please note that we are not responsible for any fees or related charges incurred with the transfer. 
-
-You should receive a quote for shipping charges outside of the U.S. via e-mail within 2 business days of your order. Shipping quotes do not include customs charges, duties, dock fees, brokerage fees or any other internationally related charges.
-
-Please note that our free shipping policy applies only to shipments within the US states.
+Please note that the billing address for the order must be located in the U.S., and that delivery is available to U.S. street addresses only. Euro Style Lighting does not ship outside the 50 U.S. states at this time.
 
 back to top
 
@@ -241,3 +233,5 @@ If you need a Return Form, you may [print one here](http://www.eurostylelighting
 back to top
 
 *Free shipping and returns apply to the 48 continental US states only. Freight items do not qualify for free returns.
+
+© 2013 Universal Distributing, LLC. All rights reserved. | Euro Style Lighting - _Contemporary Lighting for Your Home_
