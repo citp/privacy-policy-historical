@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsalsa.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610102658id_/http%3A//techsalsa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsalsa.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207045807id_/http%3A//techsalsa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tech Salsa
 
