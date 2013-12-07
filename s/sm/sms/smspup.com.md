@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smspup.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605134206id_/http%3A//smspup.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smspup.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207084108id_/http%3A//smspup.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
