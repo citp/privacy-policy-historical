@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamucc.edu privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530181232id_/http%3A//www.tamucc.edu/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamucc.edu privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208003746id_/http%3A//www.tamucc.edu/about/privacy.html) for the most accurate reproduction.*
 
-# Texas A&M University-Corpus Christi - Privacy Statement
+# Texas A&M University Corpus Christi - the Island University
 
 Texas A&M University-Corpus Christi maintains this web site as an information resource and service for the public. In the course of providing you this information, we are able to gather and archive several types of data about visitors to our web site. In respect to your privacy and in accordance with State law, the following outlines how we handle those types of data.
 
