@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesnug.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224161818id_/http%3A//www.thesnug.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesnug.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207074905id_/http%3A//thesnug.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
