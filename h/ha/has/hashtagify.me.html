@@ -1,35 +1,38 @@
-<!--The following is the downloaded HTML source of the hashtagify.me privacy policy that was archived on 2013-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130607182544id_/http%3A//hashtagify.me/explorer/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hashtagify.me privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207063311id_/http%3A//hashtagify.me/explorer/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-  <title>Hashtagify.me - Search And Find The Best Twitter Hashtags - Free</title>
+<!DOCTYPE html><html><!--prefix="og: http://ogp.me/ns#"--><head>
+  <title>
+      Hashtagify.me - Search And Find The Best Twitter Hashtags - Free
+  </title>
 
   <meta name="description" content="Find the best Twitter hashtags to reach your audience. Search their
-  relations and influencers with the most advanced Twitter Hashtags Search Engine.">
-  
+        relations and influencers with the most advanced Twitter Hashtags Search Engine.">
+
+  <meta name="twitter:widgets:csp" content="on">
+
   <script type="text/javascript" async="" src="https://widget.uservoice.com/rI9s0kkO8NGQ2fAXK5qAQA.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.google.com/jsapi"></script>
 
-
-  <link href="/assets/application-68747e7ccf7771d40cfa51a93b37bba8.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="/assets/application-c86a206aec308a73deb218a31f3c7577.css" media="screen" rel="stylesheet" type="text/css">
 
   <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.8/themes/smoothness/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
 
-  <script src="/assets/hashtagify/jquery-main-8fd644d39c43e60c05e8728fa239f859.js" type="text/javascript"></script>
+  <script src="/assets/hashtagify/jquery-main-21a93da5b4d187b85eb1e1754386e66b.js" type="text/javascript"></script>
 
-  <script src="/assets/hashtagify/arbor-main-d7cfbc258650c56093da502662760084.js" type="text/javascript"></script>
+  <script src="/assets/hashtagify/arbor-main-1cafb88b754eb4497b1bcc60a40cb258.js" type="text/javascript"></script>
 
-  <script src="/assets/hashtagify/hashtagify-main-e358d54ea604d411b61f5acd197abcbe.js" type="text/javascript"></script>
+  <script src="/assets/hashtagify/hashtagify-main-58a0e9f8f1beb469fe6dbfab6c559d24.js" type="text/javascript"></script>
 
   <meta content="authenticity_token" name="csrf-param">
-<meta content="ZjxNVDq0MrvxUQn9XqX/zre+zUSaDkbSraLDxZP+vas=" name="csrf-token">
+<meta content="2VNJA2BNsNRwCaUGI5V4mNIj4dZM3mtdqFVAK065cN0=" name="csrf-token">
+
+  <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 
   <style>
       .container {
           width: 1270px;
       }
   </style>
-
-  <link rel="canonical" href="http://hashtagify.me/">
 
   <!--[if IE]>
   <link rel="stylesheet" href="/assets/css/ie_fixes.css" type="text/css" media="screen" />
@@ -59,6 +62,12 @@
 
   </script>
 
+    <meta property="og:title" content="Hashtagify.me - Hashtags Search Engine">
+
+  <meta property="og:type" content="website">
+  <!--<meta property="og:image" content="http://hashtagify.me/images/rock.jpg" />-->
+
+
 </head>
 <body>
   <div id="wrapper" class="">
@@ -68,9 +77,29 @@
 
           <a href="/"><img alt="Logo-bold-hashtagify" class="menu-logo" src="/assets/logo/logo-bold-hashtagify-d1061555a9d3d631f4e686aae27d719c.png"></a>
 
-          <div id="menu-tagline">Advanced Hashtag Search - Hashtagify Your Message!</div>
+          <div id="menu-tagline">Advanced Hashtag Search</div>
 
           <ul>
+            <li class="nav profile dropdown right">
+              <a href="javascript:;" class="item"><img src="/assets/images/layout/nav_profile_image.png" alt="Profile Image"></a>
+
+              <div class="menu">
+
+                  <h3>New User</h3>
+
+                  <ul>
+                    <li><a href="javascript:;" class="ajax_signup_link">Sign Up Free</a></li>
+                  </ul>
+
+                  <h3>Registered User</h3>
+
+                  <ul>
+                    <li><a href="javascript:;" class="ajax_login_link">Login</a></li>
+                  </ul>
+
+              </div>
+            </li>
+
             <li class="nav right">
               <a href="/explorer/help" class="item">Help</a>
             </li>
@@ -82,6 +111,12 @@
             <li class="nav right">
               <a href="http://blog.hashtagify.me/" class="item">Blog</a>
             </li>
+
+            <li class="nav right">
+              <a href="/popular" class="item">Popular Hashtags</a>
+            </li>
+
+
           </ul>
         </div> <!-- .grid -->
       </div> <!-- .container -->
@@ -184,6 +219,16 @@
   </div>
 </div>
 
+<script type="text/javascript">
+  var g_base_url = 'http://hashtagify.me/data/';
+
+  $(function() {
+    // to show the stats
+    g_app = new HashtagifyApp(null, true);
+    g_app.hashtags_data.loadTag("hashtags", updateStats);
+  });
+</script>
+
     <div id="footer">
       <div id="footer-halo">
         <div class="container">
@@ -277,25 +322,35 @@
   </div>
 
   <script type="text/javascript">
+    var g_cybranding_base_url = 'http://www.cybranding.com/';
+    var g_hashtagify_base_url = 'http://hashtagify.me/';
+
     $(function () {
       // initialize readymade theme
       ReadyMade.init();
 
-      setupHashtagify();
+      // initialize prettyphoto for modal dialogs
+      $('#footer-bottom-text').prettyPhoto();
+
+      window.addEventListener('message', function(e){
+        if (e.data == 'modal_close') $.prettyPhoto.close();
+      });
     });
   </script>
 
   <script language="javascript">
   $(document).ready(function() {
-    var alert = "";
-    var notice = "";
+    var alert = null;
+    var notice = null;
 
     if (notice) {
-      var success = notice.match(/success/i);
+      var type = 'alert';
+      if (notice.match(/success/i)) type = 'success';
+      if (notice.match(/^(logged|signed)/i)) type = 'information';
 
-      $.msgGrowl ({
-        type: success ? 'success' : 'info'
-        , title: 'Notice'
+      noty ({
+        type: type
+        , timeout: notice.match(/Check your email/i) ? null : 4000
         , text: notice
       });
     }
@@ -303,9 +358,9 @@
     if (alert) {
       var error = alert.match(/invalid/i)
 
-      $.msgGrowl ({
+      noty ({
         type: error ? 'error' : 'warning'
-        , title: 'Alert'
+        , timeout: error ? 20000 : 10000
         , text: alert
       });
     }
@@ -324,19 +379,12 @@
   <script type="text/javascript">
       var switchTo5x=false;
   </script>
-
-  <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-
-  <script type="text/javascript">
-      var switchTo5x=false;
-  </script>
   <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
   <script type="text/javascript">
       stLight.options({
           publisher:'30bcda39-d3af-4554-b47b-c3ba6607550f'
       });
   </script>
-  <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
   <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 
 
