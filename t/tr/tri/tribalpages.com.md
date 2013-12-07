@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tribalpages.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302025236id_/http%3A//www.tribalpages.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribalpages.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207034658id_/http%3A//www.tribalpages.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
