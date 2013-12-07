@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trackmill.com privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501190951id_/http%3A//trackmill.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trackmill.com privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207010904id_/http%3A//trackmill.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -77,118 +77,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 </div>
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-	<link href="http://gadgets.trackmill.com/youtube/facefiles/facebox.css" media="screen" rel="stylesheet" type="text/css">
-<script src="http://gadgets.trackmill.com/youtube/facefiles/facebox.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-    jQuery(document).ready(function($) {
-      $('a[rel*=facebox]').facebox() 
-    })
-</script>
-<style type="text/css">
-
-.revealcontent{
-visibility: hidden;
-}
-
-</style>
-
-<script type="text/javascript">
-
-/***********************************************
-* Sequential Content Revealer- � Dynamic Drive DHTML code library (http://www.dynamicdrive.com)
-* Visit DynamicDrive.com for hundreds of original DHTML scripts
-* This notice must stay intact for legal use
-***********************************************/
-
-var contentpause=100 //customize time each content should pause for before the next one is revealed (1000=1 second)
-var once_session=0 //Should "reveal" animation only be applied once per browser session? (0=no, 1=yes):
-
-var curobjindex=0
-var orderoffset=100
-
-function collectElementbyClass(){
-var classname="revealcontent"
-glidearray=new Array()
-var inc=0
-var alltags=document.all? document.all : document.getElementsByTagName("*")
-for (i=0; i<alltags.length; i++){
-if (alltags[i].className==classname){
-glidearray[inc++]=alltags[i]
-glidearray[inc-1].displayorder=(glidearray[inc-1].getAttribute("displayorder"))? parseInt(glidearray[inc-1].getAttribute("displayorder")) : inc+orderoffset
-}
-}
-if (glidearray.length>0){
-glidearray.sort(compareorder)
-seqreveal()
-}
-}
-
-function seqreveal(){
-if (curobjindex<glidearray.length){
-glidearray[curobjindex].style.visibility="visible"
-var actualpause=(glidearray[curobjindex].getAttribute("pausesec"))? parseFloat(glidearray[curobjindex].getAttribute("pausesec"))*1000 : parseFloat(contentpause)
-glidetimer=setTimeout("seqreveal()",actualpause)
-curobjindex++
-}
-}
-
-function compareorder(a, b){
-return a.displayorder-b.displayorder
-}
-
-function get_cookie(Name) {
-var search = Name + "="
-var returnvalue = ""
-if (document.cookie.length > 0) {
-offset = document.cookie.indexOf(search)
-if (offset != -1) {
-offset += search.length
-end = document.cookie.indexOf(";", offset)
-if (end == -1)
-end = document.cookie.length;
-returnvalue=unescape(document.cookie.substring(offset, end))
-}
-}
-return returnvalue;
-}
-
-if (once_session && get_cookie("textdisplayed")=="" || !once_session){
-if (window.addEventListener)
-window.addEventListener("load", collectElementbyClass, false)
-else if (window.attachEvent)
-window.attachEvent("onload", collectElementbyClass)
-else if (document.getElementById)
-window.onload=collectElementbyClass
-
-if (once_session)
-document.cookie="textdisplayed=yes"
-}
-else
-document.write('<style>\n.revealcontent{visibility:visible;}\n</style>')
-</script>
-<link rel="stylesheet" type="text/css" href="http://gadgets.trackmill.com/youtube/gallerystyle.css">
-      
-<!-- Do not edit IE conditional style below -->
-<!--[if gte IE 5.5]>
-<style type="text/css">
-#motioncontainer {
-width:expression(Math.min(this.offsetWidth, maxwidth)+'px');
-}
-</style>
-<![endif]-->
-<!-- End Conditional Style -->
-
-<script type="text/javascript" src="http://gadgets.trackmill.com/youtube/motiongallery.js">
-
-/***********************************************
-* CMotion Image Gallery- � Dynamic Drive DHTML code library (www.dynamicdrive.com)
-* Visit http://www.dynamicDrive.com for hundreds of DHTML scripts
-* This notice must stay intact for legal use
-* Modified by Jscheuer1 for autowidth and optional starting positions
-***********************************************/
-
-</script>	
 <script type="text/javascript" src="http://trackmill.com/js/TM.js"></script>  <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -200,24 +88,6 @@ var pageTracker = _gat._getTracker("UA-289121-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<script type="text/javascript">
-var _sf_async_config={uid:3686,domain:"trackmill.com"};
-(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
-       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-       "static.chartbeat.com/js/chartbeat.js");
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
-     loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
 
-</script>
 
-<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+</body></html>
