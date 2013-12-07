@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statmyweb.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518064551id_/http%3A//www.statmyweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statmyweb.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207125119id_/http%3A//www.statmyweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stat My Web
 
