@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trusearch.net privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602095736id_/http%3A//trusearch.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trusearch.net privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207062126id_/http%3A//trusearch.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
 <title>TruSearch - GEO Targeted Advertising</title>
@@ -48,7 +48,7 @@
       <tr>
          <td><input type="text" name="squery" class="text" style="width:100%" value=""></td>
          <td style="display:none; padding-left:10px" class="loctd">
-            <input type="text" name="sgeo" id="sgeo" class="text" style="width:100%" autocomplete="off" value="">
+            <input type="text" id="sgeo" class="text" style="width:100%" autocomplete="off" value="">
          </td>
          <td width="88"><input type="image" src="http://trusearch.com/skin/im/search_small.gif" width="88" height="22"></td>
       </tr>
@@ -142,10 +142,12 @@ $(function()
       {
          case 'local' :
             $('td.loctd').show();
+            $('#sgeo').attr('name', 'sgeo');
             $('#sfrm').attr('action', '/local.htm');
             break;
          default :
             $('td.loctd').hide();
+            $('#sgeo').removeAttr('name');
             $('#sfrm').attr('action', '/web.htm');
       }
       return false;
