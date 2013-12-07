@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the allvitalpoints.com privacy policy that was archived on 2012-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120812084241id_/http%3A//www.allvitalpoints.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allvitalpoints.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207213931id_/http%3A//www.allvitalpoints.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy » Allvitalpoints's Health and Fitness
-
-Print this Page 
+# Privacy policy
 
 **Your Consent**  
 By using our site, you consent to our privacy policy.
@@ -40,4 +38,6 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 http://www.allvitalpoints.com/terms-conditions/
 
- **Permanent link to this article:** http://www.allvitalpoints.com/about-us/privacy-policy/
+ **If you need to contact us, please send email to:**
+
+ **angela.taylor@allvitalpoints.com**
