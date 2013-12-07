@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfdownload.org privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529182532id_/http%3A//www.pdfdownload.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfdownload.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207205658id_/http%3A//www.pdfdownload.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy PDF Download and Nitro PDF Software
 
