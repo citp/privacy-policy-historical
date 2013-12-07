@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanish.cl privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502150854id_/http%3A//www.spanish.cl/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanish.cl privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207234853id_/http%3A//www.spanish.cl/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Spanish.cl
 
@@ -31,7 +31,3 @@ Spanish.cl is in no way responsible for websites that are linked from Spanish.cl
 Changes may be made at any time according to our privacy policy. Changes will become effective immediately upon changes to this website. Viewers may check this website at anytime to be up to date on the privacy policies of Spanish.cl.
 
 Effective Date: 01 December 2007
-
-  
-  
-
