@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starfieldtech.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530211830id_/http%3A//www.starfieldtech.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfieldtech.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207063950id_/http%3A//www.starfieldtech.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Starfield Technologies - Starfield Technologies PRIVACY POLICY
 
@@ -7,6 +7,8 @@ Last Revised: November 01, 2011
 ## Privacy, Security, Your Information
 
 ### Starfield Technologies respects your privacy. 
+
+[](https://privacy.truste.com/privacy-seal/Go-Daddy-Operating-Company,-LLC/validation?rid=813d7de3-cf35-4e33-acba-5c14a24531d3 "TRUSTe online privacy certification")
 
 Starfield Technologies has been awarded TRUSTe's Privacy Seal signifying that its Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements, including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [privacy@starfieldtech.com](mailto:privacy@starfieldtech.com) or call (480) 624-2500. If you are not satisfied with our response, please contact TRUSTe. 
 
