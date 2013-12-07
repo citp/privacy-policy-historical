@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the carscoops.com privacy policy that was archived on 2013-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130215182709id_/http%3A//carscoop.blogspot.com/p/carscoop-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carscoops.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207013700id_/http%3A//carscoop.blogspot.com/p/carscoop-privacy-policy.html) for the most accurate reproduction.*
 
-# Carscoop: Carscoop Privacy Policy
+# Carscoops: Carscoops Privacy Policy
 
 [](http://1.bp.blogspot.com/-IKuyTGh68PY/TpmjaOkdKdI/AAAAAAAFPUE/LmB9e_7ll3I/s1600/P-pr.jpg)
 
-**Carscoop Privacy Statement  **
+**Carscoops Privacy Statement  **
 
-The privacy of our visitors to Carscoop.blogspot.com is important to us.
+The privacy of our visitors to Carscoops is important to us.
 
-At Carscoop.blogspot.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Carscoop.blogspot.com, and how we safeguard your information. We never sell your personal information to third parties.  
+At Carscoops, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Carscoops, and how we safeguard your information. We never sell your personal information to third parties.  
     
 **Log Files  **  
 ** **   
@@ -18,7 +18,7 @@ As with most other websites, we collect and use the data contained in log files.
 ** **   
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.  
     
-We also use third party advertisements on Carscoop.blogspot.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. 
+We also use third party advertisements on Carscoops to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. 
 
 This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). If you would like more information about this practice and to know your choices about not having this information used by these companies, visit this address: [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html).  
     
