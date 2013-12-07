@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoozads.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621213019id_/http%3A//www.zoozads.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoozads.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207231824id_/http%3A//www.zoozads.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # Classifieds - privacy policy - Free Classifieds Advertising
 
