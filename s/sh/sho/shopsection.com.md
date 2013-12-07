@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopsection.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604190651id_/http%3A//www.shopsection.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopsection.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207073900id_/http%3A//www.shopsection.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shop Section
 
@@ -59,9 +59,12 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Shop Section , 199, Sankari road, Arasankadu, Pallipalayam, Tiruchengode - 638008.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Shop Section , 199, Sankari road, Arasankadu, Pallipalayam, Tiruchengode \- 638008.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+We have also contracted with a number of advertising network partners to monitor certain pages of our website and RSS feeds for the purpose of reporting website and RSS traffic, statistics, advertisement "click-throughs," and/or other activities on our website. Where authorized by us, these advertising network partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to these network partners. For more information about how the information is collected and used, please see the following:  
+Google's privacy policy at http://www.google.com/privacy.html
 
  **Contacting Us**
 
@@ -70,11 +73,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 Shop Section ,  
 199, Sankari road,  
 Arasankadu, Pallipalayam,  
-Tiruchengode - 638008.  
+Tiruchengode \- 638008.  
 Tamil Nadu.
 
 Mobile : 09790403333  
-Telephone : 04288-241441
-
 support@shopsection.com  
-enquiry@shopsection.com
+ 
