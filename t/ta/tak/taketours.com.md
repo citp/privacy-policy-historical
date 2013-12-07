@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taketours.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628171806id_/http%3A//www.taketours.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taketours.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207163044id_/http%3A//www.taketours.com/privacy) for the most accurate reproduction.*
 
 # Privacy - TakeTours
 
@@ -8,13 +8,13 @@ TakeTours knows that you care how information about you is used and shared, and 
 
 What Personal Information About Customers Does TakeTours.com Gather? 
 
-The information we learn from customers helps us personalize and continually improve your shopping experience at TakeTours.com. Here are the types of information we gather. 
+The information we learn from customers helps us personalize and continually improve your shopping experience at TakeTours.com. Here are the types of information we gather: 
 
 Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
 
 Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your web browser accesses TakeTours.com. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at TakeTours.com if we cannot recognize you, we want you to be aware that these tools exist. 
 
-E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from TakeTours.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. 
+E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from TakeTours.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. 
 
 Information from Other Sources: For reasons such as improving personalization of our service (for example, providing better product recommendations or special offers that we think will interest you), we might receive information about you from other sources and add it to our account information. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. 
 
@@ -40,7 +40,7 @@ With Your Consent: Other than as set out above, you will receive notice when inf
 
 We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
 
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+It is important for you to be protected against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
 
 **What Information Can I Access?**
 
@@ -53,7 +53,7 @@ TakeTours.com gives you access to the following information about you for the li
 
 What Choices Do I Have? 
 
-As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such TakeTours.com features as Your About You Area, Wish Lists, and Customer Reviews. 
+As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such TakeTours.com features as your About You area, Wish Lists, and Customer Reviews. 
 
 You can add or update certain information on pages such as those listed in the "What Information Can I Access?" section above. When you update information, we usually keep a copy of the prior version for our records. 
 
@@ -67,4 +67,4 @@ TakeTours.com does not sell products for purchase by children. We sell children'
 
 **Conditions of Use, Notices, and Revisions**
 
-If you choose to visit TakeTours.com, your visit and any dispute over privacy is subject to this Notice and our User Agreement, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at TakeTours.com, please send us a thorough description to support@taketours.com, and we will try to resolve it. Our business changes constantly. This Notice and the User Agreement will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. 
+If you choose to visit TakeTours.com, your visit and any dispute over privacy is subject to this Notice and our User Agreement, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at TakeTours.com, please send us a thorough description to support@taketours.com and we will try to resolve it. Our business changes constantly. This Notice and the User Agreement will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions unless you have instructed us not to, but you should check our website frequently to see recent changes. 
