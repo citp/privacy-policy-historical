@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stiforpprofits.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619030538id_/http%3A//stiforpprofits.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stiforpprofits.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207075446id_/http%3A//stiforpprofits.com/privacyPolicy) for the most accurate reproduction.*
 
 # stiforP :: Privacy Policy
 
