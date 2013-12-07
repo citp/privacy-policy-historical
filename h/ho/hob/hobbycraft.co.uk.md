@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbycraft.co.uk privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526000628id_/http%3A//www.hobbycraft.co.uk/pages/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbycraft.co.uk privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207082246id_/http%3A//www.hobbycraft.co.uk/pages/privacy%2520policy) for the most accurate reproduction.*
 
 # 
 
@@ -61,27 +61,18 @@ The part of the address starting with “http” will change to “https”. You
 
 Phishing scams try and trick you into giving your personal or sensitive information to a fake person. - Usually by an email or phone call from someone pretending to be from a real company.
 
-**Do not share your personal information with anyone who calls and says that they are from Hobbycraft**. If we need to get in contact, you will be asked to call us back on our main Online Customer Service telephone number which is **0845 051 6599**.
+**Do not share your personal information with anyone who calls and says that they are from Hobbycraft**. If we need to get in contact, you will be asked to call us back on our main Customer Service telephone number which is **0330 026 1400**.
 
-Please tell our Online Customer Service Team straight way if you think someone is trying to trick you into giving them your details. Call us on **0845 051 6599** from Monday to Friday, between 9am and 5pm. Or [email the Online Customer Services Team](mailto:onlinecustomerservices@hobbycraft.co.uk).
+Please tell our Customer Service Team straight way if you think someone is trying to trick you into giving them your details. Call us on **0330 026 1400** from Monday to Friday, between 9am and 8pm and until 5pm on weekends. Or [email the Customer Services Team](http://www.hobbycraft.co.uk/pages/contactusform).
 
 ## Contact Us
 
-You can get in contact with our Online Customer Services Team by telephone, email or post :
+You can get in contact with our Customer Services Team by telephone or email :
 
-  * Telehone : 0845 051 6599 from Monday to Friday, between 9am and 5pm. 
-  * Email : onlinecustomerservices@hobbycraft.co.uk 
-  * Post :
+  * Telehone : 0330 026 1400 from Monday to Friday, between 9am and 5pm. 
+  * [Email the Customer Services Team](http://www.hobbycraft.co.uk/pages/contactusform)
+  
 
-
-
-eCommerce Department  
-Hobbycraft Trading Limited  
-Tyne Road  
-Weedon Road Industrial Estate  
-Northampton  
-Northamptonshire  
-NN5 5AF
 
 ## Your rights
 
@@ -105,18 +96,14 @@ Any website can put cookies on your computer. But your browser (for example Inte
 
 It is usual that a cookie will contain the following :
 
-  * A website address, for example [www.hobbycraft.co.uk](http://www.hobbycraft.co.uk/).
-  * Its 'lifetime' (how long it will be held on your computer for).
-  * Its value, usually a unique string of letters and / or numbers.
-
-
+    * A website address, for example [www.hobbycraft.co.uk](http://www.hobbycraft.co.uk/).
+    * Its 'lifetime' (how long it will be held on your computer for).
+    * Its value, usually a unique string of letters and / or numbers.
 
 ### First-party and third-party cookies
 
-  * **First-party cookies** are saved to your computer by the website that you are on.
-  * **Third-party cookies** are saved to your computer by a website that gives content to the one that you are on. So, if you watch a YouTube video on our website, YouTube may save its own cookie to your computer.
-
-
+    * **First-party cookies** are saved to your computer by the website that you are on.
+    * **Third-party cookies** are saved to your computer by a website that gives content to the one that you are on. So, if you watch a YouTube video on our website, YouTube may save its own cookie to your computer.
 
 A website can only read the cookies that it makes. So, other websites cannot read the cookies we save to your computer and we cannot read any cookies saved by them.
 
@@ -162,11 +149,10 @@ Login
 
 Thiscookie is set if you choose ‘Keep me signed in’ when you log in to your account. It keeps your account email address and a secure version of your password. Never choose 'Keep me signed in' on a public or shared computer.   
   
-  * __utma
-  * __utmb
-  * __utmc
-  * __utmz
-
+    * __utma
+    * __utmb
+    * __utmc
+    * __utmz
 | 
 
 These cookies are set by Google Analytics and we use them for our website statistics. Any data that is sent to Google Analytics is kept secret. We only use it to better understand our visitors and make the right choices about our website and marketing.  
@@ -200,14 +186,12 @@ We work with other websites to try and bring more customers to Hobbycraft. This 
 Facebook
 
 | 
-
-  * c_user
-  * datr
-  * locale
-  * lu
-  * s
-  * xs
-
+    * c_user
+    * datr
+    * locale
+    * lu
+    * s
+    * xs
 | 
 
 Facebook may save some or all of these cookies to your computer if you use the Facebook 'Like' or 'Share' buttons on the Hobbycraft website. Go to the [Facebook Cookie Policy](https://www.facebook.com/help/cookies "Facebook Cookie Policy"), to understand how Facebook use cookies.  
@@ -215,12 +199,10 @@ Facebook may save some or all of these cookies to your computer if you use the F
 Twitter
 
 | 
-
-  * k, guest_id
-  * _twitter_sess
-  * original_referer
-  * external_referer
-
+    * k, guest_id
+    * _twitter_sess
+    * original_referer
+    * external_referer
 | 
 
 Twitter may save some or all of these cookies to your computer if you use the Twitter 'Tweet' button on the Hobbycraft website. Go to the [Twitter Privacy Policy](https://twitter.com/privacy "Twitter Privacy Policy"), to understand how Twitter use cookies.  
@@ -228,40 +210,39 @@ Twitter may save some or all of these cookies to your computer if you use the Tw
 PayPal
 
 | 
-
-  * s_vi
-  * DH4puLeRqX6BpunfdurQO8Swi28
-  * HaC80bwXscjqZ7KM6VOxULOB534
-  * INSIDE_SEARCH_PARAMS
-  * KHcl0EuY7AKSMgfvHl7J5E7hPtK
-  * LANG
-  * PUuuwWB0yFt3AzV9ACftsAxz2fO
-  * SEGM
-  * cookie_check cwrClyrK4LoCV1fydGbAxiNL6iG
-  * flow_back_cookie
-  * login_email, navcmd
-  * navlns
-  * pNTcMTtQfrJuaJiwEnWXQ6yNxfq
-  * s_pers
-  * s_sess
-  * Apache, TS6a0e62
-
+    * s_vi
+    * DH4puLeRqX6BpunfdurQO8Swi28
+    * HaC80bwXscjqZ7KM6VOxULOB534
+    * INSIDE_SEARCH_PARAMS
+    * KHcl0EuY7AKSMgfvHl7J5E7hPtK
+    * LANG
+    * PUuuwWB0yFt3AzV9ACftsAxz2fO
+    * SEGM
+    * cookie_check cwrClyrK4LoCV1fydGbAxiNL6iG
+    * flow_back_cookie
+    * login_email, navcmd
+    * navlns
+    * pNTcMTtQfrJuaJiwEnWXQ6yNxfq
+    * s_pers
+    * s_sess
+    * Apache, TS6a0e62
 | 
 
 You will be sent to the PayPal website if you pay for your order from Hobbycraft through them. This is so that you can log in and confirm your payment. PayPal save some or all of these cookies to your computer. Go to the [PayPal Privacy Policy](https://cms.paypal.com/uk/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_GB "PayPal Privacy Policy") to understand how PayPal use cookies.  
   
 ## Manage cookies on your computer or mobile device 
 
-You can browse the Hobbycraft website with no cookies allowed on your computer or mobile device, but you will not be able to add items to your craft drawer or products to your shopping basket.
+You can browse the Hobbycraft website with no cookies allowed on your computer or mobile device, but you will not be able to add items to your wishlist or products to your shopping basket.
 
 In your web browser settings (for example Internet Explorer, Firefox or Google Chrome) you can :
 
-  * Check the cookies on your computer;
-  * remove all or some of them; and
-  * set rules on when you want cookies to be allowed.
-
-
+    * Check the cookies on your computer;
+    * remove all or some of them; and
+    * set rules on when you want cookies to be allowed.
 
 We advise that you visit [**www.aboutcookies.org**](http://www.aboutcookies.org/) for help on how to manage cookies in your web browser.
 
 To manage cookies on your mobile phone, tablet or other mobile device we advise that you check the device manual.
+
+
+
