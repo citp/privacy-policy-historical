@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tylenol.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610071313id_/http%3A//tylenol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylenol.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207075254id_/http%3A//www.tylenol.com/privacy-policy) for the most accurate reproduction.*
 
 # Tylenol.com
 
@@ -58,7 +58,7 @@ This site may contain links or references to other Web sites to which this Priva
 How to Contact Us  
 If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, or if you would like to opt out of future communications, please contact us as follows: 
 
-[Customer Service](http://www.tylenol.com/ask-us)
+[Customer Service](http://tylenol.com/ask-us)
 
 Changes to This Privacy Policy  
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on August 31, 2006. 
