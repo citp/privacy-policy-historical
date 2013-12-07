@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solotouch.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605220643id_/http%3A//solotouch.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solotouch.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207034404id_/http%3A//solotouch.com/static/privacy) for the most accurate reproduction.*
 
 # Solo Touch Privacy Policy - | Solo Touch
 
@@ -8,10 +8,10 @@ Navigation
 Exclusive Discounts and FREE Full Length Videos (18+ only)  
 For Female Masturbation:
 
-[ ](http://news.masturbationpage.com/form.do?agnCI=1&agnFN=st_doi)
+[ ](http://yanks.com/yanks_newsletter.php)
 
 For Male Masturbation:  
-[ ](http://news.masturbationpage.com/form.do?agnCI=1&agnFN=st_male_doi)
+[ ](http://clubstroke.net/male_masturbation_newsletter.php)
 
 There is no need for a lengthy legal document here. In fact, Solo has the rare problem that many of our readers wish the policy was not as strict as it is. 
 
