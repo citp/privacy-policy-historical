@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usadegreesearch.com privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308182819id_/http%3A//www.usadegreesearch.com/terms_and_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usadegreesearch.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207134753id_/http%3A//usadegreesearch.com/terms_and_privacy.htm) for the most accurate reproduction.*
 
 # Terms and Privacy
 
