@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvtxtr.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202185919id_/http%3A//tvtxtr.com/index.cfm/docs/dspPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtxtr.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208002344id_/http%3A//tvtxtr.com/index.cfm/docs/dspPrivacy) for the most accurate reproduction.*
 
 # 
 
@@ -100,7 +100,7 @@ You may correct, update or delete your Personally Identifiable Information in yo
 
 If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
 
-If you would like us to delete your Personal Information part of our account in our system, please contact us at [cs_support@tvtxtr.com](https://web.archive.org/web/20121202185919id_/http%3A//tvtxtr.com/index.cfm/docs/cs_support@tvtxtr.com) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. Deletion of your information will result in termination of your account. We will retain an archived copy of your records to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+If you would like us to delete your Personal Information part of our account in our system, please contact us at [cs_support@tvtxtr.com](https://web.archive.org/web/20131208002344id_/http%3A//tvtxtr.com/index.cfm/docs/cs_support@tvtxtr.com) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. Deletion of your information will result in termination of your account. We will retain an archived copy of your records to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Links to Other Websites 
 
