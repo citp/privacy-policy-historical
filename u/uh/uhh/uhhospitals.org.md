@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uhhospitals.org privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017014245id_/http%3A//www.uhhospitals.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhhospitals.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207045703id_/http%3A//www.uhhospitals.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - University Hospitals
+# Privacy Policy | University Hospitals | Cleveland, OH
 
 University Hospitals is committed to protecting the privacy of visitors to our website. Information gathered on our website is used to monitor our effectiveness in providing relevant and credible health information, and in answering questions.
 
