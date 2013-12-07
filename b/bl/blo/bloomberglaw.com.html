@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bloomberglaw.com privacy policy that was archived on 2013-01-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130125092715id_/http%3A//www.bloomberglaw.com/public/document/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bloomberglaw.com privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207164426id_/http%3A//www.bloomberglaw.com/public/document/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 <title>
@@ -9,17 +9,19 @@ Privacy Policy
 </title>
 <meta content="NOINDEX, NOFOLLOW" name="ROBOTS">
 <meta content="telephone=no" name="format-detection">
+<meta content="BLAW" name="apple-mobile-web-app-title">
 <script src="/javascripts/jquery/jquery-1.7.1.min.js?1323201073" type="text/javascript"></script>
 
-<script src="/javascripts/document/document.js?1357223493" type="text/javascript"></script>
-<script src="/javascripts/document/document_viewer.js?1357142776" type="text/javascript"></script>
-<script src="/javascripts/document/free_document_overrides.js?1344024279" type="text/javascript"></script>
+<script src="/javascripts/document/document.js?1382459272" type="text/javascript"></script>
+<script src="/javascripts/document/document_viewer.js?1383685414" type="text/javascript"></script>
+<script src="/javascripts/document/free_document_overrides.js?1360002837" type="text/javascript"></script>
 
-<link href="/stylesheets/base.css?1358366410" media="print,screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/print.css?1358366485" media="print" rel="stylesheet" type="text/css">
-<link href="/stylesheets/document.css?1358366460" media="print,screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/document_viewer.css?1358366464" media="print,screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/free_document.css?1358366466" media="print,screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/base.css?1385576610" media="print,screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/print.css?1385576704" media="print" rel="stylesheet" type="text/css">
+<link href="/stylesheets/bootstrap.css?1385576615" media="print,screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/document.css?1385576674" media="print,screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/document_viewer.css?1385576678" media="print,screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/free_document.css?1385576682" media="print,screen" rel="stylesheet" type="text/css">
 <style type="text/css">
 #content_document p.MsoNormal, #content_document li.MsoNormal, #content_document div.MsoNormal {
     margin:0in;
@@ -107,11 +109,11 @@ Privacy Policy
     font-family:"Verdana","sans-serif";
 }
 </style>
-<link href="/stylesheets/docviewer_overrides.css?1358366464" media="print,screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/docviewer_overrides.css?1385576678" media="print,screen" rel="stylesheet" type="text/css">
 
 <link href="/images/favicon.ico" rel="shortcut icon">
 </head>
-<body class="securities module ">
+<body class="securities module " id="udvLayout">
 <div class="container">
 <div class="topBarHolder printHide">
 <div class="topBar">
@@ -122,24 +124,41 @@ Request a Trial
 </a>
 </li>
 <li class="menuMessage">
+<a href="/register.htm" target="_self">
 Don't Have an Account?
-</li>
-<li class="logout">
-<a href="/login.htm" target="_self">
-Log in
 </a>
-</li>
-<li class="menuMessage">
-Already Have a Bloomberg Law Account?
 </li>
 </ul>
 </div>
 </div>
 <div class="topMenu textBkDark printHide" id="top_menu">
 <div class="contextHolder">
-<a href="/login.htm">
+<a href="/document/X3BPH08">
 <div class="logo"></div>
 </a>
+<div class="udvLogIn right">
+  <form action="https://www.bloomberglaw.com/log_in.htm" class="loginForm" id="login_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="4h+2kvy3MQw2VmKf8mTlA9KHorlja8vPVwpancUcLmY="></div>
+<input id="timeStamp" name="timeStamp" type="hidden">
+<input id="offsetUTC" name="offsetUTC" type="hidden">
+<input id="request_url" name="request_url" type="hidden" value="http://origin-www.bloomberglaw.com/public/desktop/document/Privacy_Policy">
+<div class="row clearfix">
+<div class="labelContainer">
+Log in to access document tools and features
+</div>
+<div class="inputContainer left">
+<input class="submitOnEnter" id="username" name="username" placeholder="Username" type="text">
+</div>
+<div class="inputContainer left">
+<input class="submitOnEnter" id="password" name="password" placeholder="Password" type="password">
+</div>
+<button class="bootstrap skinButton search go left" id="go_submit" type="submit">
+<span>
+Log in
+</span>
+</button>
+</div>
+  </form>
+</div>
 </div>
 </div>
 
@@ -160,11 +179,11 @@ Already Have a Bloomberg Law Account?
       {
         var baseUrl = Blaw__getBaseURL(document.location.href);
         document.location.href = baseUrl + "#" + newAnchor;
-        var elem = document.getElementsByName(lastAnchor)[0];
+        var elem = document.getElementById(lastAnchor)[0];
         if (elem) {
           elem.style.backgroundColor = BLAW_LAST_COLOR;
         }
-        elem = document.getElementsByName(newAnchor)[0];
+        elem = document.getElementById(newAnchor)[0];
         if (elem) {
           BLAW_LAST_COLOR = elem.style.backgroundColor;
           elem.style.backgroundColor = "orange";
@@ -180,7 +199,7 @@ Already Have a Bloomberg Law Account?
         }
 
         // if index does not exist on page continue to inc until one does
-        while(document.getElementsByName(BLAW_ANCHOR_NAME + BLAW_CURRENT_KEYWORD).length == 0 && BLAW_CURRENT_KEYWORD < BLAW_TOTAL_KEYWORD) {
+        while(document.getElementById(BLAW_ANCHOR_NAME + BLAW_CURRENT_KEYWORD).length == 0 && BLAW_CURRENT_KEYWORD < BLAW_TOTAL_KEYWORD) {
             ++BLAW_CURRENT_KEYWORD;
             // wrap around search, once only
             if (BLAW_CURRENT_KEYWORD >= BLAW_TOTAL_KEYWORD && !looped) {
@@ -202,7 +221,7 @@ Already Have a Bloomberg Law Account?
         }
 
         // if index does not exist on page continue to decr until one does
-        while(document.getElementsByName(BLAW_ANCHOR_NAME + BLAW_CURRENT_KEYWORD).length == 0 && BLAW_CURRENT_KEYWORD >= 0) {
+        while(document.getElementById(BLAW_ANCHOR_NAME + BLAW_CURRENT_KEYWORD).length == 0 && BLAW_CURRENT_KEYWORD >= 0) {
           --BLAW_CURRENT_KEYWORD;
           // wrap around search, once only
           if (BLAW_CURRENT_KEYWORD < 0 && !looped) {
@@ -241,7 +260,7 @@ Already Have a Bloomberg Law Account?
     </script><br clear="all"><div class="Section1">
 
 <p class="MsoNormal" style="margin-top:5.0pt;margin-right:0in;margin-bottom:5.0pt;
-margin-left:0in;text-autospace:none"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">BloombergLAW.com
+margin-left:0in;text-autospace:none"><b><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">BLOOMBERGLAW.COM
 PRIVACY POLICY</span></b></p>
 
 <p class="MsoNormal" style="margin-top:5.0pt;margin-right:0in;margin-bottom:5.0pt;
@@ -302,13 +321,13 @@ your experience with this Site, save your preferences and login information,
 analyze web site usage, analyze use of this Site, communicate with you, and
 provide you with services or products that you request. The Bloomberg Group
 does not use or disclose any contents of the work product that you input into
-the Workbench portion of the site except to third parties enabled by you and
+the Workspaces portion of the site except to third parties enabled by you and
 the Bloomberg Group on your behalf. The Bloomberg Group may also use the
 information collected through this Site to provide special offers and
 promotions. You may instruct the Bloomberg Group at any time not to use your
 personal information collected through this Site to provide you with special
 offers or promotions by contacting<span style="font-family:Arial"> </span><a href="mailto:privacy@bloomberg.com">privacy@bloomberg.com</a>.
-Please note that it may take some time to process your request, consistent with
+You can also update your settings for receiving offers and promotions by email by clicking<span style="font-family:Arial"> </span><a target="_blank" href="http://www.bloomberg.com/email-settings/manage/">here</a>. Please note that it may take some time to process your request, consistent with
 applicable law. To assist us with the uses described in this privacy policy,
 information we or our designated service providers have collected about your
 use of this Site may be enhanced with other information about you that we have
@@ -458,7 +477,7 @@ posting revisions on this web page. Such changes will be effective upon
 posting. </span></p>
 
 <p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Last
-Updated: June 12, 2012</span></p>
+Updated: November 19, 2013</span></p>
 
 </div>
 <!--calling printViewPdfLink--><table width="100%"><tbody><tr><td align="right"></td></tr></tbody></table>
@@ -554,7 +573,7 @@ Next
 <div class="protoConfirmDelete">
 <div class="popupWindowOuter">
 <div class="popupWindowInner">
-<div class="popupTitle">
+<div class="clearfix popupTitle">
 <div class="close" onclick="closePopup()"></div>
 <h2>
 Delete Note
@@ -604,16 +623,21 @@ $(document).ready(function(){
 </script>
 <script language="javascript">
 var docID="X3BPH08";
-var NTPT_PGEXTRA = 'docId=X3BPH08';
+var NTPT_PGEXTRA="docId=X3BPH08";
+var NTPT_GLBLEXTRA="un=&auth=false";
 DOCUMENT_SHOW_SIDEBAR="false";
 DOCUMENT_HAS_SIDEBAR_INFO="false";
 DOCUMENT_IS_IFRAME="";
 FLUID_LAYOUT="false";
 DOCUMENT_IS_INFO_DOC="";
 </script>
+<script language="javascript">
+function do_reverse_pleadings(){window.location.href = '/bb/blaw/webrails/passenger1/blawrails' + 'document/' + fixDocID(docID);}
+var NTPT_PGEXTRA = 'docId=X3BPH08';
+</script>
 
-<script src="/javascripts/activity_tracking/ntpagetag.js?1310562692" type="text/javascript"></script>
-<script src="/javascripts/activity_tracking/tracking.js?1357855631" type="text/javascript"></script>
+<script src="/javascripts/activity_tracking/ni.js?1376494218" type="text/javascript"></script>
+<script src="/javascripts/activity_tracking/tracking.js?1379010063" type="text/javascript"></script>
 <div class="footer">
 <div class="footerContent printHide">
 <div class="logoContainer grid eight">
@@ -625,13 +649,6 @@ DOCUMENT_IS_INFO_DOC="";
 <a href="/public/document/Privacy_Policy" class="menuLink">Privacy Policy</a>
 </div>
 <a class="logo" href="/home"></a>
-<div class="version">
-2.
-
-Gem
-0.130.1
-200390
-</div>
 <div class="helpContainer">
 <div class="helpDesk"></div>
 </div>
@@ -651,6 +668,6 @@ if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","d64d3db899",125361,"dAkNQBFbXFUEREkBCVQTDlENQB9fE1MDOgJYBRZZBlpEFhJeCRI=",9,238,new Date().getTime(),"","","","",""]);</script>
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","d64d3db899",125361,"dAkNQBFbXFUEREkBCVQTDlENQB9fE1MDOgJYBRZZBlpEFhJeCRI=",14,373,new Date().getTime(),"","","","",""]);</script>
 
 <script type="text/javascript" src="https://www.bloomberglaw.com/javascripts/newrelic/rum.js"></script></body></html>
