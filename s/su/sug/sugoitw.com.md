@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the sugoitw.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517221624id_/http%3A//sugoits.info/sugoits-privacy-policy-g) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugoitw.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207072231id_/http%3A//sugoisl.info/sugoisl-privacy-policy-g) for the most accurate reproduction.*
 
-# Privacy Policy - Sugoits.info - Taiwan Entertainment - Watch Taiwanese Idol Dramas 台灣偶像劇 online!
+# Privacy Policy - Sugoisl.info - Taiwan Entertainment - Watch Taiwanese Idol Dramas 台灣偶像劇 online!
 
 (last update: Apr 2009)
 
-At sugoits.info, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by sugoits.info and how it is used.
+At sugoisl.info, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by sugoiid.info and how it is used.
 
 The following information is gathered from our website visitors: IP address
 
 **How we use the information we gather**
 
-Like most standard Web site servers, sugoits.info use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.  
+Like most standard Web site servers, sugoisl.info use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.  
 We use the information to enhance your visitor experience.
 
 **Our use of cookies**
