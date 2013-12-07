@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the happybidday.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530172615id_/http%3A//www.happybidday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happybidday.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207020636id_/http%3A//www.happybidday.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome To HappyBidDay
 
 **Privacy Policy**
 
-**PRIVACY POLICY**
-
- **SCOPE**
+**SCOPE**
 
   
 HappyBidDay.com (hereinafter referred to as “HappyBidDay,” “Us,” or “We”) is a service provided by Razzle Enterprises, LLC.  (Hereinafter referred to as “Razzle Enterprises,” “Us,” or “We”.Razzle Enterprises provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of Happybidday.com. By accepting the Privacy Policy and the Terms and Conditions in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective 10 days after being posted on the website.
