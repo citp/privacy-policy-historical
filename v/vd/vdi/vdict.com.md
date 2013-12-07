@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vdict.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620124312id_/http%3A//vdict.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vdict.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207050754id_/http%3A//vdict.com/privacy.php) for the most accurate reproduction.*
 
-# Vietnamese Dictionary and Translation - Từ điển và dịch tiếng Việt
+# VDict - Vietnamese Dictionary
 
 ## Privacy Policy
 
