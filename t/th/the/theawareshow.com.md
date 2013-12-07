@@ -1,78 +1,37 @@
-> *The following text is extracted and transformed from the theawareshow.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511124818id_/http%3A//kenmari.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theawareshow.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207063624id_/http%3A//theawareshow.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The KenMari Group
+# Privacy Policy - The Aware Show
 
-## Privacy Policy
+The personal information collected from this web site may be used for a variety of purposes including identification, registration, authentication, on-line transactions, and marketing. The personal data of customers and web site visitors may be stored indefinitely and may be collected and processed in one or more data bases maintained directly or indirectly by The Website Owner, operator, or their agents. By providing personal information to The Website Owner, operator, or their agents, you agree and understand that The Website Owner, operator, or their agents may access, store and use this information for a variety of purposes including identification, registration, authentication, on-line transactions, and marketing (unless you have opted out of receiving marketing solicitations) in any of the countries in which The Website Owner, operator, or their agents maintain offices, including the United States.
 
-Welcome to http://kenmari.com (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by The KenMari Group (collectively, “Services”) (“Authorized Customers”).
+Personal Information
 
-“Personally Identifiable Information” 
+You should be aware that The Website Owner, operator, or their agents will disclose your personal information if required to do so by law, or in the good-faith belief that such action is reasonably necessary to (1) comply with legal process; (2) respond to any claims; or (3) protect the rights, property or personal safety of The Website Owner, operator, or their agents, our customers or the public.
 
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+Cookies – What They Are and Why They Are Used
 
-What Personally Identifiable Information is collected?
+Like many companies that provide web sites, The Website Owner, operator, or their agents may use “cookies” in order to better understand and serve the needs of our on-line visitors. A cookie is a small text file that a web page server places on your hard drive. Cookies function as your identification card and may record passwords, preferences and purchases. Cookies are used to let the web page server know that you have returned to this site. This helps us to be more efficient in serving you because it permits us to determine what information and web pages you may be especially interested in viewing. Cookies also can be used to determine other information, such as the daily visitors to our web site and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses. If you do not wish to have a cookie set when you visit our web pages, you may alter the settings in your browser to prevent them. The browser can be “instructed” to accept all cookies or to alert you every time a cookie is offered. However, by not accepting cookies, some web pages may not display properly or you may not be permitted to access certain information.
 
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+Personal Information Related to Children
 
-What organizations are collecting the information?
+The Website Owner, operator, or their agents does not intend to collect personal information from children who identify themselves as being under 18 years of age. Children should not provide personal information on this web site, and should ask their parents to submit a request on their behalf if they want to receive information related to this site. The Website Owner, operator, or their agents encourages parents to take an active interest in their children’s use of the Internet. The Website Owner, operator, or their agents Respects and Protects Your Personal Information and will take reasonable measures to protect the information you share with us. Whenever you give us sensitive information (such as when you register with a personal identity and password) The Website Owner, operator, or their agents will take commercially reasonable steps to establish a secure connection with your web browser.
 
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+“Opting Out”
 
-How does the Site use Personally Identifiable Information?
+If you choose to “opt out” of receiving information from The Website Owner, operator, or their agents, its partners or other companies or organizations at the time you submit personal information, or you would like to stop receiving information from The Website Owner, operator, or their agents, you may notify us at any time by sending us an e-mail message or a written notification to the email or postal address indicated in the next paragraph. Please include your name, address (including country), and/or e-mail address when you contact us. If you notify us that you wish to “opt out” after you initially provided us with personal information, we will no longer share your personal information with other companies and organizations subsequent to your “opt out” notification. However, any information we provided to other companies or organizations prior to receiving your “opt-out” request will not be recalled.
 
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
+Updating, Reviewing, and Deleting Your Information
 
-With whom may the information may be shared?
+You can help The Website Owner, operator, or their agents to maintain the accuracy of your information by notifying us of any change to your address, phone number, e-mail address or other information by sending us an e-mail message to the email address listed on the ‘About/Contact Us’ page or by notifying us in writing at the address listed on the ‘About/Contact Us’ page of this website.
 
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
+Links to Other Sites
 
-How is Personally Identifiable Information stored?
+The Website Owner, operator, or their agents are not responsible for the privacy practices of other Website Owners, operators, or their agents sites to which The Website Owner, operator, or their agents web site(s) may link. We encourage you to become familiar with the privacy practices of these sites before you provide them with personal information.
 
-Personally Identifiable Information collected by The KenMari Group is securely stored and is not accessible to third parties or employees of The KenMari Group except for use as indicated above.
+Questions or Concerns
 
-What choices are available to Visitors regarding collection, use and distribution of the information?
+The Website Owner, operator, or their agents welcomes your questions and comments regarding this policy. If you believe that The Website Owner, operator, or their agents has not adhered to this policy please notify us with a message sent to the email address listed on the ‘About/Contact Us’ page or in writing at the address listed on the ‘About/Contact Us’ page of this website, attn: Customer Service/Privacy and we will use commercially reasonable efforts to identify and remedy the problem.
 
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at Portland, Oregon
+Changes to this Policy
 
-Are Cookies Used on the Site?
-
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
-
-How does The KenMari Group use login information?
-
-The KenMari Group uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
-
-What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
-
-The KenMari Group has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
-
-How does the Site keep Personally Identifiable Information secure?
-
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
-
-How can Visitors correct any inaccuracies in Personally Identifiable Information?
-
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at admin@kenmari.com
-
-Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
-
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
-
-What happens if the Privacy Policy Changes?
-
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. Links:http://kenmari.com contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
-
-* * *
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fkenmari.com%2Fpolicies%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fkenmari.com%2Fpolicies%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fkenmari.com%2Fpolicies%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fkenmari.com%2Fpolicies%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fkenmari.com%2Fpolicies%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Privacy%20Policy%0D%0AWelcome%20to%20%5BDomain%5D%20%28the%20%22Site%22%29.We%20understand%20that%20privacy%20online%20is%20important%20to%20users%20of%20our%20Site%2C%20especially%20when%20conducting%20business.This%20statement%20governs%20our%20privacy%20policies%20with%20respect%20to%20those%20users%20of%20the%20Site%20%28%22Visitors%22%29 "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fkenmari.com%2Fpolicies%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fkenmari.com%2Fpolicies%2Fprivacy-policy%2F&srcTitle=The+KenMari+Group+ "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fkenmari.com%2Fpolicies%2Fprivacy-policy%2F&title=Privacy%20Policy&source=The+KenMari+Group+&summary=Privacy%20Policy%0D%0AWelcome%20to%20%5BDomain%5D%20%28the%20%22Site%22%29.We%20understand%20that%20privacy%20online%20is%20important%20to%20users%20of%20our%20Site%2C%20especially%20when%20conducting%20business.This%20statement%20governs%20our%20privacy%20policies%20with%20respect%20to%20those%20users%20of%20the%20Site%20%28%22Visitors%22%29 "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fkenmari.com%2Fpolicies%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
-
+We may from time to time update this policy. When we do so, we will post notice of any revisions on this site. We encourage you to review our privacy policy whenever you visit our web site.
