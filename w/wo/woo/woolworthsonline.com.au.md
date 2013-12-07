@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woolworthsonline.com.au privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608230737id_/http%3A//www2.woolworthsonline.com.au/Shop/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolworthsonline.com.au privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207234310id_/http%3A//www2.woolworthsonline.com.au/Shop/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -26,7 +26,7 @@ Where possible, we try to ensure that our disclosure of information to other org
 
 We will provide you with access to any of your personal information we hold (except in the limited circumstances recognised by privacy law).
 
-If you require access to your personal information, please e-mail [Woolworths](mailto:privacy@woolworths.com.au). Of course, before we provide you with access to your personal information we will require some proof of identity. For most requests, your information will be provided free of charge, however we may charge a reasonable fee if your request requires a substantial effort on our part.
+If you require access to your personal information, please e-mail [privacy@woolworths.com.au](mailto:privacy@woolworths.com.au). Of course, before we provide you with access to your personal information we will require some proof of identity. For most requests, your information will be provided free of charge, however we may charge a reasonable fee if your request requires a substantial effort on our part.
 
 If you need to update your information (eg. if you change your address), please contact the relevant part of the Woolworths group to which you supplied that information so we can make the change.
 
