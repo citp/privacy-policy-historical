@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestopgate.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601051419id_/http%3A//onestopgate.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopgate.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207171058id_/http%3A//onestopgate.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,3 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 By e-mail: info [ at ] vyom.co.in 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
-
-|   
----|---
