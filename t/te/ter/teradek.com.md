@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teradek.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530050940id_/http%3A//teradek.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teradek.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207100521id_/http%3A//teradek.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teradek, LLC | Wireless HD Video
 
@@ -14,11 +14,9 @@ The information we learn from customers helps us personalize and continually imp
 
   * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Teradek if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your communication preferences.
 
-  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. 
+  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information.
 
-  *   
-
-
+  * 
 
 
 **What About Cookies?**
@@ -62,11 +60,11 @@ Information about our customers is an important part of our business, and we are
 
 **What About Third-Party Advertisers and Links to Other Websites?**
 
-Our site may include third-party advertising and links to other Web sites. 
+Our site may include third-party advertising and links to other Web sites.
 
 **Which Information Can I Access?**
 
-Teradek gives you access to a broad range of information about your account and your interactions with Teradek.com for the limited purpose of viewing and, in certain cases, updating that information. 
+Teradek gives you access to a broad range of information about your account and your interactions with Teradek.com for the limited purpose of viewing and, in certain cases, updating that information.
 
 **What Choices Do I Have?**
 
@@ -83,11 +81,11 @@ Teradek gives you access to a broad range of information about your account and 
 
 **Are Children Allowed to Use Teradek.com?**
 
-Teradek.com does not sell products for purchase by children. If you are under 18, you may use Teradek.com only with the involvement of a parent or guardian. 
+Teradek.com does not sell products for purchase by children. If you are under 18, you may use Teradek.com only with the involvement of a parent or guardian.
 
 **Conditions of Use, Notices, and Revisions**
 
-If you choose to visit Teradek.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of California. If you have any concern about privacy at Teradek.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+If you choose to visit Teradek.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of California. If you have any concern about privacy at Teradek.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
 **Examples of Information Collected**
 
@@ -97,7 +95,7 @@ You provide most such information when you search, buy, post, participate in a c
 
 **Automatic Information**
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create new feautures; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes.
+Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create new features; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes.
 
 **Mobile**
 
