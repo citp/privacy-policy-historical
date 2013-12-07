@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpremote.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501013032id_/https%3A//wpremote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpremote.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207134629id_/https%3A//wpremote.com/support-center/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » WP Remote
 
@@ -38,7 +38,7 @@ On your request we may access website backup files as part of our support servic
 
 We use Amazon S3 to provide our data storage service. You can find more information on Amazon’s data security from the[ S3 site](http://aws.amazon.com/security/ "Amazon S3").
 
-We use Braintree Payment Solutions as our merchant payment gateway provider.
+We use [Stripe](https://web.archive.org/web/20131207134629id_/https://wpremote.com/support-center/privacy-policy/stripe.com) as our merchant payment gateway provider.
 
 #### Non-private or non-personal information.
 
@@ -66,4 +66,4 @@ If we are involved in a merger, acquisition, or sale of all or a portion of our 
 
 We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 10th February 2012.
 
-Latest update 23-11-12.
+Latest update 05-06-13.
