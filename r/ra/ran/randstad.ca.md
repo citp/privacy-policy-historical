@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randstad.ca privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615212705id_/http%3A//www.randstad.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randstad.ca privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207075416id_/http%3A//www.randstad.ca/privacy.aspx) for the most accurate reproduction.*
 
 # Randstad Technologies - privacy statement
 
