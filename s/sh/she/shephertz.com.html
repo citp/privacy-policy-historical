@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the shephertz.com privacy policy that was archived on 2013-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130628042434id_/http%3A//www.shephertz.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shephertz.com privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207031152id_/http%3A//www.shephertz.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy</title>
 <meta name="keywords" content="Privacy Policy">
-<meta name="description" content="If there are any questions regarding Shephertz privacy policy you may contact us.">
+<meta name="description" content="If there are any questions regarding Shephertz privacy policy,  you may contact us.">
 <link rel="stylesheet" type="text/css" href="css/StyleSheet_shephertz.css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="hs-analytics" src="//js.hubspot.com/analytics/1582146000000/230213.js"></script><script src="js/jq.js" type="text/javascript" language="javascript"></script>
 <script src="js/bxSlider.js" type="text/javascript" language="javascript"></script>
@@ -15,71 +15,73 @@
 </head>
 <body>
 <!-------------------------------- Header -------------------------------->
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Cabin:400,400italic,500,500italic,600,600italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<script language="JavaScript" type="text/javascript">
-$('ul.navigation li a').click(
+<div class="menuBg">
+<link rel="stylesheet" href="css/navigation.css">
+<script type="text/javascript"> 
+$(document).ready(function(){
+// Requried: Navigation bar drop-down
+	$("nav ul li").hover(function() {
+		$(this).addClass("active");
+		$(this).find("ul").show().animate({opacity: 1}, 500);
+		},function() {
+		$(this).find("ul").hide().animate({opacity: 0}, 300);
+		$(this).removeClass("active");
+	});
+	$('nav ul li:first-child').addClass('first');
+	$('nav ul li:last-child').addClass('last');
+	$('nav ul li ul').parent().append('<span class="dropdown"></span>').addClass('drop');
 
-function(e) {
-    e.preventDefault(); // prevent the default action
-    e.stopPropagation; // stop the click from bubbling
-    $(this).closest('li').find('.selected').removeClass('selected');
-    $(this).parent().addClass('selected');
 });
 </script>
-<script type="text/javascript" src="js/ddlevelsmenu.js"></script>
-<link href="../css/StyleSheet_shephertz.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-<!--
-.pdt img {
-	padding-top: 6px;
-}
--->
-</style>
 <div class="header">
   <div class="header-wrapper">
-    <div class="fleft logo"><a href="index.php"><img src="images/logo.png" alt="ShepHertz Technologies Pvt. Ltd." border="0"></a></div>
+    <div class="fleft logo"><a href="index.php"><img src="images/logo.png" alt="ShepHertz Technologies" border="0"></a></div>
     <div id="navigation_wrapper">
-      <ul class="navigation" id="ddtopmenubar">
-        <li><a href="index.php"><span>Home</span></a></li>
-        <li><a href="#" rel="shephertz"><span>About</span><img src="images/arrow-down1.png" alt="About" border="0" align="absmiddle"></a></li>
-        <li id="web_only" style="display: none;"><a href="products.php" rel="projects"><span>Products</span><img src="images/arrow-down1.png" alt="Products" border="0" align="absmiddle"></a></li>
-        <li id="mobile_only" style="display: inline;"><a href="products.php#product"><span>Products</span></a></li>
-        <li id="web_only"><a href="#" rel="blog">Blog<img src="images/arrow-down1.png" alt="Blog" border="0" align="absmiddle"></a></li>
-        <li><a href="events.php"><span>Events</span></a></li>
-        <li><a href="career.php"><span>Career</span></a></li>
-        <li><a href="contact_us.php"><span>Contact Us</span></a></li>
-      </ul>
-      <script type="text/javascript">
-ddlevelsmenu.setup("ddtopmenubar", "topbar") //ddlevelsmenu.setup("mainmenuid", "topbar|sidebar")
-</script>
-      
-      
-      
-
+      <div class="menu_wrapper">
+        <nav class="nevigation">
+          <ul class="clear">
+            <li class="first"><a href="index.php">Home</a></li>
+            <li class="drop"><a href="#">About</a>
+              <ul>
+                <li class="first"><a href="about_us.php">ShepHertz</a></li>
+                <li><a href="investors.php">Investors</a></li>
+                <li class="last"><a href="partners.php">Partners</a></li>
+              </ul>
+            <span class="dropdown"></span></li>
+            <li class="drop"><a href="#">Products</a>
+              <ul>
+                <li class="first"><a href="http://app42paas.shephertz.com/" target="_blank">App42PaaS</a></li>
+                <li><a href="http://shephertz.com/api" target="_blank">App42 Cloud APIs</a></li>
+                <li><a href="http://shephertz.com/appwarp" target="_blank">AppWarp</a></li>
+                <li><a href="http://shephertz.com/appclay" target="_blank">AppClay</a></li>
+                <li class="last"><a href="http://shephertz.com/apphawk" target="_blank">AppHawk</a></li>
+              </ul>
+            <span class="dropdown"></span></li>
+            <li class="drop"><a href="#">Dev Center</a>
+              <ul>
+                <li class="first"><a href="http://api.shephertz.com/app42-dev.php" target="_blank">App42 Cloud APIs</a></li>
+                <li><a href="http://appwarp.shephertz.com/game-development-center/" target="_blank">AppWarp</a></li>
+                <li class="last"><a href="http://shephertz.com/app42paas/dev-center/" target="_blank">App42PaaS</a></li>
+              </ul>
+            <span class="dropdown"></span></li>
+            <li class="drop"><a href="#">Blog</a>
+              <ul>
+                <li class="first"><a href="http://blogs.shephertz.com/" target="_blank">English</a></li>
+                <li><a href="http://blogs.shephertz.com/ja/" target="_blank">Japanese</a></li>
+                <li class="last"><a href="http://blogs.shephertz.com/es/" target="_blank">Español</a></li>
+              </ul>
+            <span class="dropdown"></span></li>
+            <li><a href="events.php">Events</a></li>
+            <li><a href="career.php">Career</a></li>
+            <li class="last"><a href="contact_us.php">Contact Us</a></li>
+          </ul>
+        </nav>
+      </div>
     </div>
-    <div class="clear"></div>
   </div>
 </div>
-<script>
-$(document).ready(function () {
-
-    if (screen.width < 1024) {
-        
-		document.getElementById("web_only").style.display = "none";
-		document.getElementById("mobile_only").style.display = "inline";
-		
-    }
-    else {
-	
-	document.getElementById("web_only").style.display = "inline";
-		document.getElementById("mobile_only").style.display = "none";
-	
-		
-    }
-});
-</script>
 <div class="clear"></div>
+</div>
 <!------------------------------------- Header End -------------------------------->
 
 <!-- content area -->
@@ -123,23 +125,17 @@ $(document).ready(function () {
 
     <p class="paddingtp"><strong>Changes to our Privacy Policy </strong></p>
 	<p>If we decide to change our privacy policy,  we will post those changes on this page.</p>
-
-    <p class="paddingtp"><strong>Changes to our Privacy Policy </strong></p>
-	<p>If we decide to change our privacy policy,  we will post those changes on this page.</p>
-
-    <p class="paddingtp"><strong>Contacting Us: </strong></p>
+	<p class="paddingtp"><strong>Contacting Us: </strong></p>
 	<p>If there are any questions regarding this privacy policy you may contact us using the information below:<br>
               <a href="mailto:support@shephertz.com">support@shephertz.com</a></p>
   </div>
 </div>
 <!-- content ends -->
 <!---------------------------------------- footer ---------------------------------------->
-<div class="clear"></div>
 <div class="footer_wrapper">
   <div class="footer-wrapper">
-    <div class="footer-left-shadow"></div>
     <div class="centerbox">
-      <ul class="footer-list">
+      <ul class="footer-list-first">
         <li><b class="footer-header">ShepHertz</b></li>
         <li><a href="about_us.php">About Us</a></li>
         <li><a href="contact_us.php">Contact Us</a></li>
@@ -148,9 +144,13 @@ $(document).ready(function () {
         <li><a href="privacy_policy.php">Privacy</a></li>
         <li><a href="mailto:support@shephertz.com">Support</a></li>
       </ul>
-      <ul class="footer-list">
+      <ul class="footer-list footer_list_2nd">
         <li><b class="footer-header">Resources</b></li>
         <li><a href="http://blogs.shephertz.com/" target="_blank">Blog</a></li>
+        <li><a href="http://blogs.shephertz.com/product-resources/" target="_blank">Resources Center</a></li>
+        <li><a href="http://api.shephertz.com/app42-dev.php" target="_blank">App42 Cloud API Dev Centre (BaaS)</a></li>
+        <li><a href="http://appwarp.shephertz.com/game-development-center/" target="_blank">AppWarp Dev Center</a></li>
+        <li><a href="http://app42paas.shephertz.com/dev-center/" target="_blank">App42 PaaS Dev Center</a></li>
       </ul>
       <ul class="footer-list">
         <li><b class="footer-header">Products</b></li>
@@ -158,13 +158,27 @@ $(document).ready(function () {
         <li><a href="http://shephertz.com/appwarp" target="_blank">AppWarp</a></li>
         <li><a href="http://shephertz.com/appclay" target="_blank">AppClay</a></li>
         <li><a href="http://shephertz.com/apphawk" target="_blank">AppHawk</a></li>
+        <li><a href="http://shephertz.com/app42paas" target="_blank">App42 PaaS</a></li>
       </ul>
     </div>
     <div class="followus-on">
+      <div class="newsletter-wrappernew">
+        <div class="newsletter-text-box">
+          <div class="subscribe-text">To know more about us</div>
+          <div class="subscribe-text-sub-text">Sign up to receive News &amp; updates, etc directly in your inbox</div>
+        </div>
+        <div class="newsletter-input-box">
+          <form method="post" action="newsletter.php" name="newsL" id="newsL">
+            <input type="text" name="email2" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'" id="email" class="newsletter-inputbg">
+            <input type="image" src="images/go.png" alt="go" onclick="return subNews();" border="0">
+          </form>
+        </div>
+        <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
       <div class="followus">FOLLOW US ON</div>
-      <div class="socialimg"><a href="http://www.facebook.com/pages/Shephertz-Technologies/171218912901660" target="_blank" title=" Facebook"><img src="images/facebook-shephertz.png" border="0"></a><a href="https://twitter.com/#!/shephertz" target="_blank" title="Twitter"><img src="images/twitter-shephertz.png" border="0"></a><a href="http://www.linkedin.com/company/shephertz-technologies" target="_blank" title=" Linkedin"><img src="images/linkedin-shephertz.png" border="0"></a></div>
+      <div class="socialimg"><a href="http://www.facebook.com/pages/Shephertz-Technologies/171218912901660" target="_blank" title="Facebook"><img src="images/facebook-shephertz.png" alt="Shephertz" border="0"></a><a href="https://twitter.com/#!/shephertz" target="_blank" title="Twitter"><img src="images/twitter-shephertz.png" alt="twitter" border="0"></a><a href="http://www.linkedin.com/company/shephertz-technologies" target="_blank" title=" Linkedin"><img src="images/linkedin-shephertz.png" alt="linkedin" border="0"></a></div>
     </div>
-    <div class="footer-right-shadow"></div>
     <div class="clear"></div>
   </div>
 </div>
@@ -184,7 +198,7 @@ $(function() {
 	  event.preventDefault();
   });
 });
-</script>
+</script> 
 <script type="text/javascript">
 $(document).ready(function(){
 	$('#slider1').bxSlider({
@@ -198,8 +212,8 @@ $(document).ready(function(){
 		pager : false
 	});
 });
-</script>
-<!-- Start of Async HubSpot Analytics Code -->
+</script> 
+<!-- Start of Async HubSpot Analytics Code --> 
 <script type="text/javascript">
         (function(d,s,i,r) {
             if (d.getElementById(i)){return;}
@@ -207,9 +221,9 @@ $(document).ready(function(){
             n.id=i;n.src='//js.hubspot.com/analytics/'+(Math.ceil(new Date()/r)*r)+'/230213.js';
             e.parentNode.insertBefore(n, e);
         })(document,"script","hs-analytics",300000);
-    </script>
-<!-- End of Async HubSpot Analytics Code -->
-<!------------ Google Analytics Script Start ------------->
+    </script> 
+<!-- End of Async HubSpot Analytics Code --> 
+<!------------ Google Analytics Script Start -------------> 
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-29580834-1']);
@@ -221,24 +235,9 @@ $(document).ready(function(){
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script> 
-<!------------ Google Analytics Script End ------------->
+<!------------ Google Analytics Script End -------------> 
 <!-------------------------------------------- footer End ---------------------------------------->
 
 
 
-<iframe class="ddiframeshim" src="blank.htm" frameborder="0"></iframe><iframe class="ddiframeshim" src="blank.htm" frameborder="0"></iframe><ul id="shephertz" class="ddsubmenustyle" style="margin-left: -5px; z-index: 2000; left: 0px; top: 0px; visibility: hidden;">
-        <li style="padding-top:14px;"><a href="about_us.php" rel="shephertz"><span>ShepHertz</span></a></li>
-        <li><a href="investors.php"><span>Investors</span></a></li>
-        <li><a href="partners.php"><span>Partners</span></a></li>      </ul><ul id="projects" class="ddsubmenustyle" style="margin-left: -5px; z-index: 2000; left: 0px; top: 0px; visibility: hidden;">
-        <li style="padding-top:14px;"><a href="http://shephertz.com/api" target="_blank"><span>App42 Cloud APIs</span></a></li>
-        <li><a href="http://shephertz.com/appwarp" target="_blank"><span>AppWarp</span></a></li>
-        <li><a href="http://shephertz.com/apphawk" target="_blank"><span>AppHawk</span></a></li>
-        <li><a href="http://shephertz.com/appclay" target="_blank"><span>AppClay</span></a></li>
-        <li><a href="products.php#apphq" style="border-bottom:none"><span>AppHQ</span></a></li>
-      </ul><ul id="blog" class="ddsubmenustyle" style="margin-left: -5px; z-index: 2000; left: 0px; top: 0px; visibility: hidden;">
-  <li style="padding-top:14px; float:none;"><a href="http://blogs.shephertz.com/" target="_blank">English</a></li>
-  <div class="clear"></div>
-  <li style="float:none;"><a href="http://blogs.shephertz.com/ja/" target="_blank">Japanese</a></li>
-  <div class="clear"></div>
-  <li style="float:none;"><a href="http://blogs.shephertz.com/es/" target="_blank">Español</a></li>
-</ul></body></html>
+</body></html>
