@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onestophumour.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623231800id_/http%3A//onestophumour.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestophumour.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207191729id_/http%3A//onestophumour.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - One stop humour
+# Privacy Policy - One Stop Humor: Funny Pictures and Videos!
 
 Privacy Policy
 
-This Privacy Policy governs the manner in which Woahh collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.woahh.com](https://web.archive.org/web/20130623231800id_/http%3A//onestophumour.com/www.woahh.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Woahh.
+This Privacy Policy governs the manner in which OneStopHumour collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.onestophumour.com"](https://web.archive.org/web/20131207191729id_/http%3A//onestophumour.com/www.onestophumour.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by OnestopHumour.
 
 **Personal identification information**
 
@@ -20,7 +20,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-Woahh may collect and use Users personal information for the following purposes:
+OneStopHumour may collect and use Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -51,6 +51,10 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
+**3rd Party Advertising**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
+
 **Google Adsense**
 
 Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
@@ -61,18 +65,18 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Changes to this privacy policy**
 
-Woahh has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+OneStopHumour has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20130623231800id_/http%3A//onestophumour.com/www.woahh.com/terms.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20131207191729id_/http%3A//onestophumour.com/www.onestophumour.com/terms.html). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Woahh](https://web.archive.org/web/20130623231800id_/http%3A//onestophumour.com/www.woahh.com)  
-[www.woahh.com](https://web.archive.org/web/20130623231800id_/http%3A//onestophumour.com/www.woahh.com)  
+[One Stop Humour](https://web.archive.org/web/20131207191729id_/http%3A//onestophumour.com/www.onestophumour.com)  
+[www.onestophumour.com](https://web.archive.org/web/20131207191729id_/http%3A//onestophumour.com/www.onestophumour.com)  
 39 North Road London  
 woahhcom@gmail.com
 
-This document was last updated on February 04, 2013
+This document was last updated on July 01, 2013
