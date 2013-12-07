@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moma.org privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519105148id_/http%3A//www.moma.org/about/about_site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moma.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207164945id_/http%3A//www.moma.org/about/about_site/privacy) for the most accurate reproduction.*
 
 # MoMA | Privacy & Security
 
@@ -6,7 +6,7 @@
 
 ## Privacy
 
-MoMA is committed to protecting your privacy when you visit our websites or use a MoMA application (collectively referred to as the “MoMA Website”). MoMA does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless the individual visiting the MoMA Website knowingly provides it. By using the MoMA Website, you agree to be bound by the terms and conditions of MoMA's Privacy Policy and Terms of Use. The MoMA Privacy Policy is outlined below. A link to this policy is provided in the footer information on every page of the MoMA Website. Click here to view the [Terms of Use](https://web.archive.org/about/about_site/index). 
+MoMA is committed to protecting your privacy when you visit our websites or use a MoMA application (collectively referred to as the “MoMA Website”). MoMA does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless the individual visiting the MoMA Website knowingly provides it. By using the MoMA Website, you agree to be bound by the terms and conditions of MoMA's Privacy Policy and Terms of Use. The MoMA Privacy Policy is outlined below. A link to this policy is provided in the footer information on every page of the MoMA Website. Click here to view the [Terms of Use](https://web.archive.org/about/about_site/index).
 
 ## MoMA's policy on collecting information on the MoMA website
 
@@ -40,11 +40,15 @@ MoMA does not solicit personal information from children. Visitors twelve years 
 
 ### MoMA E-News
 
-As a service, MoMA offers visitors to the MoMA Website the opportunity to subscribe to one or more of our online newsletters, a service hosted by a contractor that has agreed to use the e-mail address you provide only to send E-News to you. If you choose to subscribe, you will receive MoMA E-News on the topics you choose. You may subscribe or unsubscribe at any time by following the instructions on the E-Newsletter.
+As a service, MoMA offers visitors to the MoMA Website and MoMA Audio+ users the opportunity to subscribe to one or more of our online newsletters, a service hosted by a contractor that has agreed to use the e-mail address you provide only to send E-News to you. If you choose to subscribe, you will receive MoMA E-News on the topics you choose or, in the case of MoMA Audio+ users, general MoMA E-News. You may subscribe or unsubscribe at any time by following the instructions on the E-Newsletter.
 
 ### MoMA E-Cards
 
 MoMA offers its online visitors the opportunity to send e-cards featuring works in the MoMA collection, in the MoMA Online Store or which are otherwise of interest. If you choose to use our e-card service, you will need to provide your name and e-mail address, as well as the recipient's name and e-mail address. E-cards will be stored for pickup for a period of thirty days. We will not share these e-mail addresses with any third party for marketing purposes.
+
+### MoMA Audio+
+
+When you use the MoMA Audio+ app (the “App”), you will be given the opportunity to provide us with your e-mail address. If you choose to do so, we will send you a link that will show you a road map of your visit, including the works you have viewed on the App and the photos you have taken while using the App, which you will be able to share with your friends. In order to use the share function on the App you will need to provide your name and e-mail address, as well as the recipient's name and e-mail address. We will not share these e-mail addresses with any third party for marketing purposes. In addition, if you choose to provide us with your e-mail address, we will send you an introductory MoMA welcome e-mail, and you will be subscribed to receive MoMA E-News, as described above. When you use the App to take photos during your visit, you understand that MoMA does not guarantee the quality or maintenance of your photos, and will not be responsible for photos that are lost, deleted or damaged for any reason.
 
 ### Emailing MoMA
 
@@ -98,4 +102,4 @@ Please note that MoMA may revise its privacy policy at any time, without notice,
 
 Send your questions, comments, or concerns about our privacy policy or any other aspect of our website to [privacy@moma.org](mailto:privacy@moma.org).
 
-Last update: April 5, 2013 
+Last update: July 1, 2013
