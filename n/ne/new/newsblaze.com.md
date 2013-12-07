@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsblaze.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516045747id_/http%3A//newsblaze.com/policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsblaze.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207134025id_/http%3A//newsblaze.com/policy/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -14,9 +14,9 @@ This Privacy Policy describes the terms of our commitment to your privacy.
 
 In the event that a person excluded from this website because of the Terms of Use or from denial of service by the website, who nonetheless unlawfully views this site, that person remains subject to the terms of this Privacy Policy and is in violation of the Terms of Use.
 
-**PERSONS UNDER 18 YEARS OF AGE ARE EXCLUDED FROM THIS WEBSITE **
+**PERSONS UNDER 13 YEARS OF AGE ARE EXCLUDED FROM THIS WEBSITE **
 
-_This website is not lawfully accessible to persons under the age of 18 or who are otherwise covered by the provisions of the Child Online Privacy Act of 1998 (COPA).   If you are under the age of 18 you must leave this site immediately.  Fraudulent use of this website may make you subject to civil or criminal sanctions. _
+_This website is not lawfully accessible to persons under the age of 13 or who are otherwise covered by the provisions of the Child Online Privacy Act of 1998 (COPA).   If you are under the age of 13 you must leave this site immediately.  Fraudulent use of this website may make you subject to civil or criminal sanctions. _
 
 **VIEWING AND/OR USE AND/OR COMMUNICATION IS CONSTRUED AS ACCEPTANCE OF THE TERMS OF THIS POLICY **
 
