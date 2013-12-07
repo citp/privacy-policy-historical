@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sacrededen.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629104132id_/http%3A//store.niwali.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacrededen.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207090655id_/http%3A//store.niwali.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
