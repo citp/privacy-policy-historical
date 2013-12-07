@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the taafoo.com privacy policy that was archived on 2013-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130403072243id_/http%3A//www.taafoo.com/Info/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the taafoo.com privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207173156id_/http%3A//www.taafoo.com/Info/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head id="ctl00_Head1"><title>
 	Privacy Policy - www.taafoo.com - Get it!, Love it!, ...Stay hooked! - Celebrities, Musicians, Actors, Comedians, CEOs, Brands
 </title><link rel="Shortcut Icon" href="../favicon.ico">
-       <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script language="javascript" type="text/javascript">
+       <script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script language="javascript" type="text/javascript">
 //<![CDATA[
 var tl_loc0 = (window.location.protocol == "https:") ? "https://secure.comodo.net/trustlogo/javascript/trustlogo.js" :
 "http://www.trustlogo.com/trustlogo/javascript/trustlogo.js";
@@ -31,8 +31,20 @@ var tl_loc0 = (window.location.protocol == "https:") ? "https://secure.comodo.ne
    <script type="text/javascript" src="http://www.taafoo.com/common/jtaaf.js"></script>
     <script type="text/javascript" src="http://www.taafoo.com/common/jquery.tools.min.js"></script>
     <script type="text/javascript" src="http://www.taafoo.com/common/jquery-ui-1.8.11.min.js"></script>
+     
      <script type="text/javascript">
          $(document).ready(function () {
+
+             $('#txtSearch').bind("enterKey", function (e) {
+                 var crit = document.getElementById('txtSearch').value;
+                 document.location.href = 'http://www.taafoo.com/pages/searchresults.aspx?criteria=' + encodeURI(crit);
+             });
+             $('#txtSearch').keyup(function (e) {
+                 if (e.keyCode == 13) {
+                     $(this).trigger("enterKey");
+                 }
+             });
+
              $('#searchIcon').click(function () {
                  var crit = document.getElementById('txtSearch').value;
                  document.location.href = 'http://www.taafoo.com/pages/searchresults.aspx?criteria=' + encodeURI(crit);
@@ -56,11 +68,93 @@ var tl_loc0 = (window.location.protocol == "https:") ? "https://secure.comodo.ne
                  }
              }); //end blur
 
+             var value = parseInt(document.getElementById('ctl00_hdnloadpopup').value);
+             $("#modal").overlay({
+                 top: 260,
+                 mask: {
+                     color: '#fff',
+                     loadSpeed: 200,
+                     opacity: 0.5
+                 },
+                 closeOnClick: false,
+                 load: Boolean(value)
+                 //load:false
+             });
+             CenterPopup();
+             $("#ctl00_txtFirstName").focus();
+
          }); //end ready
 
-  
+         function ClosePopup() {
+             $("#Close").click();
+             return true;
+         }
+
+         function CenterPopup() {
+             var windowWidth = document.documentElement.clientWidth;
+             var windowHeight = document.documentElement.clientHeight;
+             var popupHeight = $("#modal").height();
+             var popupWidth = $("#modal").width();
+             $("#modal").css({
+                 "top": windowHeight / 2 - popupHeight / 2
+             });
+         }
+
+         function SetSubscription() {
+             var validated = Page_ClientValidate('register');
+             if (validated) {
+                 var fn = document.getElementById("ctl00_txtFirstName").value;
+                var email = document.getElementById("ctl00_txtEmailAddress").value;
+
+                $.ajax({
+                    type: "POST",
+                    url: "http://www.taafoo.com/WebService/ProcessSubscription.aspx/SetSubscription",
+                    data: JSON.stringify({ 'firstname': '' + fn + '', 'email': '' + email + '' }),
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (msg) {
+                        AjaxSucceeded(msg);
+                    },
+                    error: AjaxFailed
+                });
+            }
+            return false;
+        }
+
+        function AjaxSucceeded(arg) {
+            if (arg.d == 1) {
+                $("#ctl00_divNlRegSuccess").show();
+                $("#ctl00_divRegisterInfo").hide();
+                $("#ctl00_lblMsg").text('You have successfully subscribed for Newsletter.');
+            }
+            else {
+                $("#ctl00_lblError").show();
+                $("#ctl00_lblError").text('Error occured while processing your request. Please try after some time.');
+            }
+
+        }
+
+        function AjaxFailed() {
+            $("#ctl00_lblError").show();
+            $("#ctl00_lblError").text('Error occured while processing your request. Please try after some time.');
+        }
+
+        function SkipSubscription() {
+            $.ajax({
+                type: "POST",
+                url: "http://www.taafoo.com/WebService/ProcessSubscription.aspx/SkipSubscription",
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (msg) {
+                    $("#Close").click();
+                },
+                error: ClosePopup
+            });
+            return false;
+        }
+    
     </script>
-     
+   
 <style type="text/css">
 .eo_tag_style{}
 </style>
@@ -83,7 +177,9 @@ ul.eo_list li { list-style: none; margin: 0px; padding: 0px; white-space: nowrap
 </style>
 <link rel="stylesheet" type="text/css" href="/App_Themes/Menu.css">
 <style type="text/css">
-.eo_css_ctrl_ctl00_ucmenu3_Menu31 {background-color:Red}
+.eo_css_ctrl_ctl00_ucmenu3_Menu31 {background-color:blue;color:white}
+.eo_css_ctrl_ctl00_ucmenu3_Menu32 {background-color:gold;color:black}
+.eo_css_ctrl_ctl00_ucmenu3_Menu33 {background-color:red;color:White}
 
 </style><link href="../App_Themes/Main/Main.css" type="text/css" rel="stylesheet"></head>
 <body>
@@ -100,14 +196,35 @@ ul.eo_list li { list-style: none; margin: 0px; padding: 0px; white-space: nowrap
 </script>
    
     
-    <form name="aspnetForm" method="post" action="/Info/Privacy.aspx" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="Privacy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
 <div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
 <input type="hidden" name="__eo_obj_states" id="__eo_obj_states" value="">
 <input type="hidden" name="__eo_sc" id="__eo_sc" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWAgIRD2QWAgIBDw8WAh4EVGV4dAUJTjAuMDAgKDApZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFGGN0bDAwJExvZ2luU3RhdHVzMSRjdGwwMQUYY3RsMDAkTG9naW5TdGF0dXMxJGN0bDAzBRNjdGwwMCR1Y21lbnUzJE1lbnUz">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWAgIND2QWAgIBDw8WAh4EVGV4dAUJTjAuMDAgKDApZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFGGN0bDAwJExvZ2luU3RhdHVzMSRjdGwwMQUYY3RsMDAkTG9naW5TdGF0dXMxJGN0bDAzBRNjdGwwMCR1Y21lbnUzJE1lbnUz">
 </div>
 
-<div id="eo_root"><div><div class="LowerMenu5 LowerMenu12" style="visibility: hidden; position: absolute;"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div class=""><div style="width: 1px; height: 1px;"></div></div></td></tr></tbody></table></div><table cellspacing="0" cellpadding="0" border="0" id="eo_ele_3" style="position: absolute; visibility: hidden; z-index: 299999; display: none;"><tbody><tr><td valign="top" class="LowerMenu5"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="top" height="30px" id="eo_ele_4" style="height: 30px;"><div style="margin-left: 5px; margin-right: 0px;"><div cancelbubble="true" id="ctl00_ucmenu3_cIMen" style="background-color: white; width: 100%; position: static;">
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=_G5ItvD7ZIGvDbEsr_gQOIrHZ_g0SXgUeR6YW7iwsomhTCKF4c_0gSorzyfSdjvYZwfvwJv2dB9v4AwobOjd-rY6eds1&amp;t=635083205032146459" type="text/javascript"></script>
+
+<div id="eo_root"><div><div class="LowerMenu5 LowerMenu12" style="visibility: hidden; position: absolute;"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><div class=""><div style="width: 1px; height: 1px;"></div></div></td></tr></tbody></table></div><table cellspacing="0" cellpadding="0" border="0" id="eo_ele_3" style="position: absolute; visibility: hidden; z-index: 299999; display: none;"><tbody><tr><td valign="top" class="LowerMenu5"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="top" height="30px" id="eo_ele_4" style="height: 30px;"><div style="margin-left: 1px; margin-right: 0px;"><div cancelbubble="true" id="ctl00_ucmenu3_CIWomen" style="background-color: white; width: 100%; position: static;">
 	
     
    
@@ -116,99 +233,135 @@ ul.eo_list li { list-style: none; margin: 0px; padding: 0px; white-space: nowrap
         <div style="background-color:white; line-height:18px; font-size:13px;">
 <table border="0">
             <tbody><tr style="vertical-align:top;">
-                <td>
-                    <b>
-                        <span id="ctl00_ucmenu3_cIMen_lbClothing" style="color:#33608C;font-size:9pt;font-weight:bold;">CLOTHING</span></b><br>
-                  <div>
-                   <a id="ctl00_ucmenu3_cIMen_HlCasuals" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358462&amp;deptName=Casual%20Shirts" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Casual &amp; Party Shirts</a></div>
-                    <div><a id="ctl00_ucmenu3_cIMen_hlChinos" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358507" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Chinos &amp; Khakis</a></div>
-                            <div><a id="ctl00_ucmenu3_cIMen_HlShirts" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358465" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Formal &amp; Dress Shirts</a></div>
-                            <div><a id="ctl00_ucmenu3_cIMen_hlHoodies" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357676" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Hoodies &amp; Sweaters</a></div>
-                             <div><a id="ctl00_ucmenu3_cIMen_hlJeans" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357682" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Jeans</a></div>
-                                <div><a id="ctl00_ucmenu3_cIMen_hlPajams" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357697" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Pajamas &amp; Sleepwear</a></div>             
-                                   
-                                      <div><a id="ctl00_ucmenu3_cIMen_HlPolos" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357673" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Polos</a></div>
-                                         <div><a id="ctl00_ucmenu3_cIMen_hlShorts" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358513" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Shorts</a></div>
-                   <div><a id="ctl00_ucmenu3_cIMen_hlmtrousers" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358510" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Trousers</a></div>                               
-                                        <div><a id="ctl00_ucmenu3_cIMen_hlTees" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357706" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>T-Shirts</a></div>
-                                        
-                                        
-                                        <div><a id="ctl00_ucmenu3_cIMen_HlBlazers" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357691" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Suits &amp; Blazers</a></div>
-                                        <div><a id="ctl00_ucmenu3_cIMen_hlUnderwear" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357700" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Underwear &amp; Socks</a></div>
-                                        
-                                        
-                                       
-                     </td>
-                <td style="width:20px;">&nbsp;</td>
-                <td>
-                                      <b><span id="ctl00_ucmenu3_cIMen_LBMshoes" style="color:#33608C;font-size:9pt;font-weight:bold;">SHOES</span></b><br>
-                              <div><a id="ctl00_ucmenu3_cIMen_hlBoots" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358483" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Boots</a></div>
-                    <div><a id="ctl00_ucmenu3_cIMen_hlCasualShoes" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358480" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Casual Shoes</a></div>
-                     <div><a id="ctl00_ucmenu3_cIMen_hlformalShoes" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358477" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Dress &amp; Formal Shoes</a></div>
-                    <div><a id="ctl00_ucmenu3_cIMen_HlSlippers" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357610" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Slippers</a></div>
-                        <div><a id="ctl00_ucmenu3_cIMen_hlSneakers" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357592" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Sneakers &amp; Sport Shoes</a></div>
-      <br>
-                                             
-                              <b><span id="ctl00_ucmenu3_cIMen_lbMBeauty" style="color:#33608C;font-size:9pt;font-weight:bold;">PERSONAL CARE</span></b><br> 
-                       
-                             <div><a id="ctl00_ucmenu3_cIMen_HLmbEAUTY" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357790" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Cologne &amp; Perfumes</a></div>
-                         <br>
-                         <b><span id="ctl00_ucmenu3_cIMen_lbMAccessories" style="color:#33608C;font-size:9pt;font-weight:bold;">ACCESSORIES</span></b><br>    
-                    <div><a id="ctl00_ucmenu3_cIMen_HLBelts" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358468" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Belts</a></div>
-                     <div><a id="ctl00_ucmenu3_cIMen_HlBrace" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358606" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Bracelets</a></div>
-                 
-                                
-                                              </td>
-                <td style="width:20px;">&nbsp;</td>
-                <td>
-                                       
-                          <div><a id="ctl00_ucmenu3_cIMen_HlBuckle" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358474" style="color:Black;text-decoration:none;">
-                            <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Belt Buckles</a></div>
-                    <div><a id="ctl00_ucmenu3_cIMen_HlCardHolder" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358222" style="color:Black;text-decoration:none;">
-                    <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Card Holders</a></div>
-              <div><a id="ctl00_ucmenu3_cIMen_HlCuffs" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357895" style="color:Black;text-decoration:none;">
-                    <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Cufflinks</a></div>
-                        <div><a id="ctl00_ucmenu3_cIMen_HlEyewear" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358459" style="color:Black;text-decoration:none;">
-                    <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Eye Frames</a></div>
-                                       <div> <a id="ctl00_ucmenu3_cIMen_HlHats" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357874" style="color:Black;text-decoration:none;">
-                    <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Hats &amp; Caps</a></div>
-                       <div><a id="ctl00_ucmenu3_cIMen_HlLightes" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358225" style="color:Black;text-decoration:none;">
-                    <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Lighters</a></div>
-                    <div><a id="ctl00_ucmenu3_cIMen_HlMBags" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358420" style="color:Black;text-decoration:none;"> 
-                    <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Man Bags</a></div>
-                              <div><a id="ctl00_ucmenu3_cIMen_hlMNeck" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358495" style="color:Black;text-decoration:none;">
-                    <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Necklaces</a></div>
-                    <div><a id="ctl00_ucmenu3_cIMen_HLPens" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358219" style="color:Black;text-decoration:none;">
-                    <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Pens</a></div>
-                      <div><a id="ctl00_ucmenu3_cIMen_HlMRings" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358609" style="color:Black;text-decoration:none;">
-                    <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Rings</a></div>
-                          <div><a id="ctl00_ucmenu3_cIMen_HlSunglass" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358456" style="color:Black;text-decoration:none;">
-                    <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Sunglasses</a></div>
-                                  <div><a id="ctl00_ucmenu3_cIMen_HlTies" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357859" style="color:Black;text-decoration:none;">
-                    <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Ties &amp; Scarfs</a></div>
-                     <div><a id="ctl00_ucmenu3_cIMen_HlWallets" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358426" style="color:Black;text-decoration:none;"> 
-                    <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Wallets</a></div>
-                           
-                            <div><a id="ctl00_ucmenu3_cIMen_HlMWatches" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358447" style="color:Black;text-decoration:none;"> 
-                    <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Watches</a></div>
-                                      
-                </td>
-                <td style="width:20px;">&nbsp;</td>
-                <td>
-                <b><span id="ctl00_ucmenu3_cIMen_lbFeatured" style="color:Red;font-size:9pt;font-weight:bold;">RIKE'S LIST</span></b><br>
-                  <div><a id="ctl00_ucmenu3_cIMen_HlDG" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=1000925" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Leather Necklaces for Men</a></div>
-                  <div><a id="ctl00_ucmenu3_cIMen_HlTimberland" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=1001174" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Men Jeans Belts</a></div>
-                 <div><a id="ctl00_ucmenu3_cIMen_Hlms3" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=10000173" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>G-Stone Casual Shirts</a></div>
-                 <div><a id="ctl00_ucmenu3_cIMen_Hlms4" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=1000340" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Gaint &amp; Goldfoxx Shirts</a></div>
-                 <div><a id="ctl00_ucmenu3_cIMen_Hlms5" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=1000436" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>CK Underwear</a></div>
-                 <div><a id="ctl00_ucmenu3_cIMen_Hlms6" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=10000650" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>B-Easy Leather Slippers</a></div>
-                  <div><a id="ctl00_ucmenu3_cIMen_Hlms7" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=10000461" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Paul &amp; Shark Chinos</a></div>
-                 <div><a id="ctl00_ucmenu3_cIMen_Hlms8" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=10000089" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Gucci Leather Slippers</a></div>
-                 <div><a id="ctl00_ucmenu3_cIMen_Hlms9" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=10000512" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Long Sleeve Tees</a></div>
+                <td class="menuRight">
+                     <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                    <a id="ctl00_ucmenu3_CIWomen_HyperLink172" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358549" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Women Clothing</a>
+                            </div>
+                    </div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HlBlouses0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357622" style="color:Black;font-size:11px;text-decoration:none;"> <span class="blueDot"></span>Tops &amp; Blouses</a></div>
+                  <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlDresses0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357637" style="color:Black;font-size:11px;text-decoration:none;"> <span class="blueDot"></span>Dresses</a></div>
+                   <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlWPolo0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357661" style="color:Black;font-size:11px;text-decoration:none;"> <span class="blueDot"></span>Polos</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HllTshirts0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358402" style="color:Black;font-size:11px;text-decoration:none;"> <span class="blueDot"></span>T-Shirts</a></div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlWShirt0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357658" style="color:Black;font-size:11px;text-decoration:none;"> <span class="blueDot"></span>Shirts</a></div>
+                      <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlWSweat0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358504" style="color:Black;font-size:11px;text-decoration:none;"> <span class="blueDot"></span>Sweaters &amp; Boleros</a></div>
+                      <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlWSuit0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357640" style="color:Black;font-size:11px;text-decoration:none;"> <span class="blueDot"></span>Suits &amp; Jackets</a></div>
+                      <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlLing0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358690" style="color:Black;font-size:11px;text-decoration:none;"> <span class="blueDot"></span>Leggings</a></div>
+                <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink2" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357646" style="color:Black;font-size:11px;text-decoration:none;"> <span class="blueDot"></span>Lingerie &amp; Underwear</a></div>
+            <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlWJeans0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357628" style="color:Black;font-size:11px;text-decoration:none;"> <span class="blueDot"></span>Jeans &amp; Jeggings</a></div>
+                   <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlWTr0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357625" style="color:Black;font-size:11px;text-decoration:none;"> <span class="blueDot"></span>Trousers, Shorts, Skirts</a></div>
                       
-                </td>
-                <td>
-                    </td>
+                      <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink173" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358552" style="color:Black;font-size:11px;text-decoration:none;"> <span class="blueDot"></span>Wedding Dresses</a></div>
+                    
+                            
+                              <p></p>
+                    <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                      <a id="ctl00_ucmenu3_CIWomen_HyperLink174" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358561" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Bags &amp; Purses</a>
+                            </div>
+                        </div>
+                      <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlClutch0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358414" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Clutch Bags</a></div>
+                                         <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlLBag0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358417" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Handbags</a></div>
+                  <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink175" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358423" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Purses</a></div>
+                                     
+                     <p></p>
+                        
+                       </td><td class="menuRight">
+                           <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                            <a id="ctl00_ucmenu3_CIWomen_HyperLink179" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358555" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Women Shoes</a>
+                            </div>
+                               </div>
+                   
+                            <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HlwSlippers0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358558" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Flat Sandals &amp; Slippers</a></div>
+          <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlLSlippers0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357568" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Flat Shoes</a></div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink180" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358624" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Flip Flops</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlLHeels0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357562" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Heel Shoes, Sandals, etc</a></div>
+                   <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink181" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358486" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Loafers</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HlLShoeBag0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358501" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Shoe &amp; Bag Set</a></div>
+                  <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HlLSneakers0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357559" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Sneakers</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HLLClogs0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357571" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Wedges &amp; Clogs</a></div>
+           
+                          <p></p>
+                   <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+<a id="ctl00_ucmenu3_CIWomen_HyperLink182" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358573" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Women Jewelry &amp; Watches</a>
+                            </div>
+                       </div>   
+            
+                                      <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlWBrac0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358432" style="color:Black;font-size:11px;text-decoration:none;">
+                                   <span class="blueDot"></span>Bracelets</a></div>
+                                  <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlWBroc0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358444" style="color:Black;font-size:11px;text-decoration:none;">
+                                   <span class="blueDot"></span>Brooches n Pendants</a></div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlWEar0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358441" style="color:Black;font-size:11px;text-decoration:none;">
+                                   <span class="blueDot"></span>Earrings</a></div>
+                                
+                                   <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlWSets0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358438" style="color:Black;font-size:11px;text-decoration:none;">
+                                   <span class="blueDot"></span>Jewelry Sets</a></div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlWNeck0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358498" style="color:Black;font-size:11px;text-decoration:none;">
+                                   <span class="blueDot"></span>Necklaces</a></div>
+                    
+                                   <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlWRings0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358435" style="color:Black;font-size:11px;text-decoration:none;">
+                                   <span class="blueDot"></span>Rings</a></div>
+<div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HLWWatches0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358450" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Women Watches</a></div>
+                                 <p></p>
+                    
+                    
+                          
+                       </td>
+     
+                       <td class="menuRight">
+                           <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                                                  <a id="ctl00_ucmenu3_CIWomen_HyperLink183" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358561" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Women Accessories</a>
+                            </div>
+                               </div>    
+                
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_Hllbelts0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358471" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Belts</a></div>
+                         <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HlWCH0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358222" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Card Holders</a></div>
+                             
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HLLCuff0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357895" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Cufflinks</a></div>
+                 <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HllEyewear0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358570" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Eye Frames</a></div>
+
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HllHat0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358564" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Hats &amp; Caps</a></div>
+                   
+                                   <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_hlPurse0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358423" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Purses</a></div>
+     
+                            <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HlLsun0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358597" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Sunglasses</a></div>
+                                  <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_Hllscarfs0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357859" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Ties &amp; Scarfs</a></div>
+                  <p></p>
+                           <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                      <a id="ctl00_ucmenu3_CIWomen_HyperLink176" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358612" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Beauty</a>
+                            </div>
+                               </div>
+                        <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink177" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358588" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Cosmetics</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HlHair0" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358591" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Hair Products</a></div>
+     <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink6" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=359089" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Makeup Bags</a></div>
+                           <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink7" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=359086" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Mirrors</a></div>
+                             <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink178" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358585" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Perfumes &amp; Scents</a></div>
+   
+         
+              </td>                              
+               <td class="menuRight">
+                           <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                            <div> <a id="ctl00_ucmenu3_CIWomen_HyperLink3" href="http://www.taafoo.com/pages/showdepartment.aspx?departmentId=357544" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Collections</a>
+                     </div>
+                            </div>
+                               </div>
+    <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink4" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10002177" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Party Chiffon Dresses</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink5" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10001994" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>MRJ High Heels</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink9" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10002165" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Studded Tops</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink10" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10002189" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Classic Ladies Sandals</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink14" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10002183" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Fashion Abayas</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink15" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10002171" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Jessica's Boleros</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink16" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10002090" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Abortion Belts</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink17" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10002135" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Silver Engagment Rings</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink18" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10002063" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Ladies Diamond Watches</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIWomen_HyperLink19" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10001961" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Aldo Flatshoes</a></div>
+
+                   </td>
             </tr>
         </tbody></table>
         </div>
@@ -216,153 +369,179 @@ ul.eo_list li { list-style: none; margin: 0px; padding: 0px; white-space: nowrap
     </div>
 </div> 
 
-</div></div></td></tr></tbody></table></td></tr></tbody></table><div class="LowerMenu5" style="visibility: hidden; position: absolute;"></div><div style="position: fixed; background-color: lightgray; opacity: 0.5; z-index: 299998; visibility: hidden; display: none;"></div><table cellspacing="0" cellpadding="0" border="0" id="eo_ele_6" style="position: absolute; visibility: hidden; z-index: 299999; display: none;"><tbody><tr><td valign="top" class="LowerMenu5"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="top" height="30px" id="eo_ele_7" style="height: 30px;"><div style="margin-left: 5px; margin-right: 0px;"><div cancelbubble="true" id="ctl00_ucmenu3_CIWomen" style="position: static;">
+</div></div></td></tr></tbody></table></td></tr></tbody></table><div class="LowerMenu5" style="visibility: hidden; position: absolute;"></div><div style="position: fixed; background-color: lightgray; opacity: 0.5; z-index: 299998; visibility: hidden; display: none;"></div><table cellspacing="0" cellpadding="0" border="0" id="eo_ele_6" style="position: absolute; visibility: hidden; z-index: 299999; display: none;"><tbody><tr><td valign="top" class="LowerMenu5"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="top" height="30px" id="eo_ele_7" style="height: 30px;"><div style="margin-left: 1px; margin-right: 0px;"><div cancelbubble="true" id="ctl00_ucmenu3_CIMEN" style="background-color: white; width: 100%; position: static;">
+	
+    
+   
+   <div style="background-color:black;">
+    <div style="padding-top:5px;">
+        <div style="background-color:white; line-height:18px; font-size:13px;">
+<table border="0">
+            <tbody><tr style="vertical-align:top;">
+                <td class="menuRight">
+                      <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                             <a id="ctl00_ucmenu3_CIMEN_HyperLink152" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358594" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Men Clothing</a>
+                            </div>
+                          </div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink154" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357670" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Formal &amp; Casual Shirts</a></div>
+                             <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink155" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357706" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>T-Shirts</a></div>
+                               <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink156" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357673" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Polos</a></div>
+                             <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink157" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357676" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Hoodies &amp; Sweaters</a></div>
+                              <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink158" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357682" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Jeans</a></div>
+                             <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink159" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357679" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Chinos, Shorts, Trousers</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink160" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357691" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Suits &amp; Blazers</a></div>
+                      <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink161" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357700" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Underwear &amp; Socks</a></div>
+                               
+                              <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink166" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357697" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Pajamas &amp; Sleepwear</a></div>             
+                                <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink167" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358633" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Traditional Wear</a></div>
+                            
+                    <p></p>
+                        
+                        <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                           <a id="ctl00_ucmenu3_CIMEN_HyperLink204" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358582" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Men Personal &amp; Eye Care</a><br> 
+                       </div>
+                            </div>
+                             <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink205" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357790" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Cologne &amp; Perfumes</a></div>
+                        <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink206" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358459" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Eye Frames</a></div>
+                          <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink207" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358456" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Sunglasses</a></div>
+                    </td>
+                <td>
+                               <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                  
+                         <a id="ctl00_ucmenu3_CIMEN_HyperLink168" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357589" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Men Shoes</a></div>
+                                   </div>
+                   
+                                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink169" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358483" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Boots</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink170" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358480" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Casual Shoes</a></div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink171" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358672" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Flip Flops</a></div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink184" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358477" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Dress &amp; Formal Shoes</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink185" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358627" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Loafers &amp; Drivers</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink186" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357610" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Sandals &amp; Slippers</a></div>
+                        <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink187" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357592" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Sneakers &amp; Sport Shoes</a></div>
+                           <p></p>
+                     
+                          <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                   <a id="ctl00_ucmenu3_CIMEN_HyperLink199" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358603" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Men Jewelry &amp; Watches</a>
+                            </div>
+                              </div>
+                      <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink200" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358606" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Bracelets</a></div>
+             <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink201" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358495" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Necklaces</a></div>
+                   <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink202" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358609" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Rings</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink203" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358447" style="color:Black;font-size:11px;text-decoration:none;"> 
+                    <span class="blueDot"></span>Watches</a></div> 
+                     
+
+                       </td>
+                 <td class="menuRight">
+                         <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                            <a id="ctl00_ucmenu3_CIMEN_HyperLink188" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358600" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Men Accessories</a>
+                            </div>
+                         </div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink189" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358468" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Belts</a></div>
+                      <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink190" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358474" style="color:Black;font-size:11px;text-decoration:none;">
+                            <span class="blueDot"></span>Belt Buckles</a></div>
+                            <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink191" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358222" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Biz Card Holders</a></div>
+                   <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink192" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357895" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Cufflinks</a></div>
+                                        <div class="menuItemA"> <a id="ctl00_ucmenu3_CIMEN_HyperLink193" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357874" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Hats &amp; Caps</a></div>
+                       <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink194" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358225" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Lighters</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink195" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358420" style="color:Black;font-size:11px;text-decoration:none;"> 
+                    <span class="blueDot"></span>Man Bags</a></div>
+                               <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink196" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358219" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Pens</a></div>
+                                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink197" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357859" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Ties &amp; Scarfs</a></div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink198" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358426" style="color:Black;font-size:11px;text-decoration:none;"> 
+                    <span class="blueDot"></span>Wallets</a></div>
+                         <p></p>
+                       </td>
+                      <td class="menuRight">
+                           <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                            <div> <a id="ctl00_ucmenu3_CIMEN_HyperLink22" href="http://www.taafoo.com/pages/showdepartment.aspx?departmentId=357616" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Collections</a>
+                     </div>
+                            </div>
+                               </div>
+    <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink23" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10002054" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Kenneth Cole Jackets</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink24" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10002078" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Tommy Casual Shoes</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink25" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10002042" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Versace &amp; LV Loafers</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink26" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10002003" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Camp David Polos</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink28" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10001976" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Michael Kors Watches</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink29" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10001955" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Calvin Klien Underwear</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink30" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10001916" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>P-Diddy Necklaces</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink31" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10001853" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Justin FAB Tees</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink32" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10001823" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Office Belts</a></div>
+ <div class="menuItemA"><a id="ctl00_ucmenu3_CIMEN_HyperLink33" href="http://www.taafoo.com/pages/searchresults.aspx?collectionId=10002216" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Bovis Leather Wallet</a></div>
+
+                   </td>
+       
+            </tr>
+        </tbody></table>
+        </div>
+        
+    </div>
+</div> 
+
+</div></div></td></tr></tbody></table></td></tr></tbody></table><div class="LowerMenu5" style="visibility: hidden; position: absolute;"></div><div style="position: fixed; background-color: lightgray; opacity: 0.5; z-index: 299998; visibility: hidden; display: none;"></div><table cellspacing="0" cellpadding="0" border="0" id="eo_ele_9" style="position: absolute; visibility: hidden; z-index: 299999; display: none;"><tbody><tr><td valign="top" class="LowerMenu5"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="top" height="30px" id="eo_ele_10" style="height: 30px;"><div style="margin-left: 1px; margin-right: 0px;"><div cancelbubble="true" id="ctl00_ucmenu3_cIKids" style="position: static;">
 	
     <div style="background-color:black;">
     <div style="padding-top:5px;">
         <div style="background-color:white; line-height:20px;">
 <table border="0">
             <tbody><tr style="vertical-align:top;">
-                <td>
-                    <b>
-                        <span id="ctl00_ucmenu3_CIWomen_lbWomenClothes" style="color:#33608C;font-size:9pt;font-weight:bold;">CLOTHING</span></b><br>
-                      <div><a id="ctl00_ucmenu3_CIWomen_HyperLink13" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358525" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Arabian &amp; Indian Dresses</a></div>
-                    <div><a id="ctl00_ucmenu3_CIWomen_HlBlouses" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358408" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Blouses n More</a></div>
-                   <div><a id="ctl00_ucmenu3_CIWomen_HlCasualD" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358531" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Casual Dresses</a></div>
-                 <div><a id="ctl00_ucmenu3_CIWomen_hlDresses" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357637" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Dresses</a></div>
-                    <div><a id="ctl00_ucmenu3_CIWomen_HlFormalD" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358516" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Formal Dresses</a></div>
-                  <div><a id="ctl00_ucmenu3_CIWomen_hlWJeans" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357628" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Jeans</a></div>
-                    <div><a id="ctl00_ucmenu3_CIWomen_hlLing" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357646" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Lingerie &amp; Underwear</a></div>
-                    <div><a id="ctl00_ucmenu3_CIWomen_HlParty" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358519" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Party Dresses</a></div>
-                    <div><a id="ctl00_ucmenu3_CIWomen_hlWPolo" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357661" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Polos</a></div>
-                    <div><a id="ctl00_ucmenu3_CIWomen_hlWShirt" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357658" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Shirts</a></div>
-                   <div><a id="ctl00_ucmenu3_CIWomen_hlWSweat" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358504" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Sweaters &amp; Boleros</a></div>
-                  
-                    <div><a id="ctl00_ucmenu3_CIWomen_hlWSuit" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357640" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Suits &amp; Jackets</a></div>
-                                       
-                    <div><a id="ctl00_ucmenu3_CIWomen_hlWTr" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357625" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Trousers, Shorts &amp; Skirts</a></div>
-                      <div><a id="ctl00_ucmenu3_CIWomen_HllTshirts" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358402" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>T-Shirts</a></div>
-                      <div><a id="ctl00_ucmenu3_CIWomen_HyperLink12" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358411" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Tunic Tops</a></div>
-                    <div><a id="ctl00_ucmenu3_CIWomen_hlTops" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358405" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Vests &amp; Camisoles</a></div>
-                
-                    </td>
-                  <td style="width:20px;">&nbsp;</td>
-                <td>
-                                      <b><span id="ctl00_ucmenu3_CIWomen_lbWShoes" style="color:#33608C;font-size:9pt;font-weight:bold;">SHOES</span></b><br>
-               <div><a id="ctl00_ucmenu3_CIWomen_HlwSlippers" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358558" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Flat Sandals &amp; Slippers</a></div>
-          <div><a id="ctl00_ucmenu3_CIWomen_hlLSlippers" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357568" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Flat Shoes &amp; </a></div>
-                     <div><a id="ctl00_ucmenu3_CIWomen_hlLHeels" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357562" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Heel Shoes, Sandals, etc</a></div>
-                   <div><a id="ctl00_ucmenu3_CIWomen_HlLShoeBag" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358501" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Shoe &amp; Bag Set</a></div>
-                  <div><a id="ctl00_ucmenu3_CIWomen_HlLSneakers" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357559" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Sneakers</a></div>
-                    <div><a id="ctl00_ucmenu3_CIWomen_HLLClogs" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357571" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Wedges &amp; Clogs</a></div>
-               <p></p>
-                   
-                    <b><span id="ctl00_ucmenu3_CIWomen_lbJ" style="color:#33608C;font-size:9pt;font-weight:bold;">JEWELRY</span></b><br>    
-            
-                                      <div><a id="ctl00_ucmenu3_CIWomen_hlWBrac" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358432" style="color:Black;text-decoration:none;">
-                                   <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Bracelets</a></div>
-                                  <div><a id="ctl00_ucmenu3_CIWomen_hlWBroc" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358444" style="color:Black;text-decoration:none;">
-                                   <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Brooches n More</a></div>
-                     <div><a id="ctl00_ucmenu3_CIWomen_hlWEar" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358441" style="color:Black;text-decoration:none;">
-                                   <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Earrings</a></div>
-                                
-                                   <div><a id="ctl00_ucmenu3_CIWomen_hlWSets" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358438" style="color:Black;text-decoration:none;">
-                                   <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Jewelry Sets</a></div>
-                     <div><a id="ctl00_ucmenu3_CIWomen_hlWNeck" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358429" style="color:Black;text-decoration:none;">
-                                   <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Necklaces</a></div>
-                    
-                                   <div><a id="ctl00_ucmenu3_CIWomen_hlWRings" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358435" style="color:Black;text-decoration:none;">
-                                   <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Rings</a></div>
-                 
-                                
-                                              </td>
-                <td style="width:20px;">&nbsp;</td>
-                <td> <b><span id="ctl00_ucmenu3_CIWomen_Label2" style="color:#33608C;font-size:9pt;font-weight:bold;">ACCESSORIES</span></b><br>    
-                
-                     <div><a id="ctl00_ucmenu3_CIWomen_Hllbelts" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358471" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Belts</a></div>
-                         <div><a id="ctl00_ucmenu3_CIWomen_HlWCH" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358222" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Card Holders</a></div>
+                <td class="menuRight">
+                        <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                 <a id="ctl00_ucmenu3_cIKids_HyperLink12" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357898" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Girls</a>
+                            </div>
+                            </div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_cIKids_HlGAcc" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357901" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Accessories</a></div>
+                           <div class="menuItemA"><a id="ctl00_ucmenu3_cIKids_HlGClot" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357922" style="color:Black;font-size:11px;text-decoration:none;">
+                            <span class="blueDot"></span>Clothing</a></div>
+                            <div class="menuItemA"><a id="ctl00_ucmenu3_cIKids_HlGSho" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358540" style="color:Black;font-size:11px;text-decoration:none;">
+                            <span class="blueDot"></span>Shoes</a></div>
                              
-                <div><a id="ctl00_ucmenu3_CIWomen_hlClutch" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358414" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Clutch Bags</a></div>
-                    <div><a id="ctl00_ucmenu3_CIWomen_HLLCuff" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357895" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Cufflinks</a></div>
-                 <div><a id="ctl00_ucmenu3_CIWomen_HllEyewear" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358459" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Eye Frames</a></div>
-                     <div><a id="ctl00_ucmenu3_CIWomen_hlLBag" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358417" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Handbags</a></div>
-                     <div><a id="ctl00_ucmenu3_CIWomen_HllHat" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357874" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Hats &amp; Caps</a></div>
-                   
-                                   <div><a id="ctl00_ucmenu3_CIWomen_hlPurse" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358423" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Purses</a></div>
-     
-                            <div><a id="ctl00_ucmenu3_CIWomen_HlLsun" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358597" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Sunglasses</a></div>
-                                  <div><a id="ctl00_ucmenu3_CIWomen_Hllscarfs" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357859" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Ties &amp; Scarfs</a></div>
-                 
-                    <div><a id="ctl00_ucmenu3_CIWomen_HLWWatches" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358450" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Women Watches</a></div>
-         <br>
-                      <b><span id="ctl00_ucmenu3_CIWomen_Label1" style="color:#33608C;font-size:9pt;font-weight:bold;">BEAUTY</span></b><br> 
-                        <div><a id="ctl00_ucmenu3_CIWomen_HyperLink38" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358588" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Cosmetics</a></div>
-                    <div><a id="ctl00_ucmenu3_CIWomen_HlHair" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358591" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Hair Products</a></div>
-     
-                             <div><a id="ctl00_ucmenu3_CIWomen_HyperLink1" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358585" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Perfumes &amp; Scents</a></div>
-                         
-                </td>
-                  
-                   <td style="width:20px;">&nbsp;</td>
-                <td>
-                                       
-                       <b><span id="ctl00_ucmenu3_CIWomen_LBFWcOLL" style="color:Red;font-size:9pt;font-weight:bold;">RIKE'S LIST</span></b><br>    
-                   <div><a id="ctl00_ucmenu3_CIWomen_HlWs1" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=10000515" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Designer Hooded Suits</a></div>
-                  <div><a id="ctl00_ucmenu3_CIWomen_Hlws2" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=1001512" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Fashion Jewelry Sets</a></div>
-                 <div><a id="ctl00_ucmenu3_CIWomen_Hlws3" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=10000722" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Aldo Flat Shoes</a></div>
-              <div><a id="ctl00_ucmenu3_CIWomen_Hlws4" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=1001168" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Tommy Belts</a></div>
-                  <div><a id="ctl00_ucmenu3_CIWomen_Hlws5" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=1000136" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Grappolo Shirts</a></div>
-                   <div><a id="ctl00_ucmenu3_CIWomen_Hlws6" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=10000035" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Maternity Trousers</a></div>
-              <div><a id="ctl00_ucmenu3_CIWomen_Hlws7" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=10000146" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Tireni Earrings</a></div>
-                 <div><a id="ctl00_ucmenu3_CIWomen_Hlws8" href="http://www.taafoo.com/collection/displaycollection.aspx?collectionid=10000032" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Ladies Chinos</a></div>
-               
-              
-
-              </td>
-                </tr>
-   </tbody></table>
-            </div>
-        </div>                    
-       </div>
-
-</div></div></td></tr></tbody></table></td></tr></tbody></table><div class="LowerMenu5" style="visibility: hidden; position: absolute;"></div><div style="position: fixed; background-color: lightgray; opacity: 0.5; z-index: 299998; visibility: hidden; display: none;"></div><table cellspacing="0" cellpadding="0" border="0" id="eo_ele_9" style="position: absolute; visibility: hidden; z-index: 299999; display: none;"><tbody><tr><td valign="top" class="LowerMenu5"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="top" height="30px" id="eo_ele_10" style="height: 30px;"><div style="margin-left: 5px; margin-right: 0px;"><div cancelbubble="true" id="ctl00_ucmenu3_cIKids" style="position: static;">
-	
-    <div style="background-color:black;">
-    <div style="padding-top:5px;">
-        <div style="background-color:white; line-height:20px;">
-<table border="0">
-            <tbody><tr style="vertical-align:top;">
-                <td>
-                    <b>
-                        <span id="ctl00_ucmenu3_cIKids_lbBoys" style="color:#33608C;font-size:9pt;font-weight:bold;">BOYS</span></b><br>
-                     <div><a id="ctl00_ucmenu3_cIKids_hlbAcc" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357901" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Accessories</a></div>
-                           <div><a id="ctl00_ucmenu3_cIKids_hlbClot" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358534" style="color:Black;text-decoration:none;">
-                            <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Clothing</a></div>
-                            <div><a id="ctl00_ucmenu3_cIKids_hlbShoe" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358543" style="color:Black;text-decoration:none;">
-                            <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Shoes</a></div>
-                             
-                            <div><a id="ctl00_ucmenu3_cIKids_hlbToys" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357961" style="color:Black;text-decoration:none;">
-                            <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Toys &amp; Playstuff</a></div>
-                                                 <div><a id="ctl00_ucmenu3_cIKids_HyperLink20" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358546" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Children Sunglasses</a></div>
-            <div><a id="ctl00_ucmenu3_cIKids_HyperLink21" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358453" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Children Watches</a></div>
+                            <div class="menuItemA"><a id="ctl00_ucmenu3_cIKids_HlgToys" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357961" style="color:Black;font-size:11px;text-decoration:none;">
+                            <span class="blueDot"></span>Toys &amp; Playstuff</a></div>
+                                         <div class="menuItemA"><a id="ctl00_ucmenu3_cIKids_HlGSun" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358546" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Children Sunglasses</a></div>
+            <div class="menuItemA"><a id="ctl00_ucmenu3_cIKids_hlGWat" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358453" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Children Watches</a></div>
           
-                    </td>
-                   <td style="width:40px;">&nbsp;</td>
-                <td>
-                                       
-                       <b><span id="ctl00_ucmenu3_cIKids_lbgirls" style="color:#33608C;font-size:9pt;font-weight:bold;">GIRLS</span></b><br>  
-                    <div><a id="ctl00_ucmenu3_cIKids_HlGAcc" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357901" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Accessories</a></div>
-                           <div><a id="ctl00_ucmenu3_cIKids_HlGClot" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357922" style="color:Black;text-decoration:none;">
-                            <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Clothing</a></div>
-                            <div><a id="ctl00_ucmenu3_cIKids_HlGSho" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358540" style="color:Black;text-decoration:none;">
-                            <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Shoes</a></div>
-                             
-                            <div><a id="ctl00_ucmenu3_cIKids_HlgToys" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358546" style="color:Black;text-decoration:none;">
-                            <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Toys &amp; Playstuff</a></div>
-                                         <div><a id="ctl00_ucmenu3_cIKids_HlGSun" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358546" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Children Sunglasses</a></div>
-            <div><a id="ctl00_ucmenu3_cIKids_hlGWat" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358453" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Children Watches</a></div>
-          
+        
+                        
                   </td>
+                <td class="menuRight">
+                        <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                    <a id="ctl00_ucmenu3_cIKids_HyperLink13" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357898" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Boys</a>
+                            </div>
+                            </div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_cIKids_hlbAcc" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357901" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Accessories</a></div>
+                           <div class="menuItemA"><a id="ctl00_ucmenu3_cIKids_hlbClot" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358534" style="color:Black;font-size:11px;text-decoration:none;">
+                            <span class="blueDot"></span>Clothing</a></div>
+                            <div class="menuItemA"><a id="ctl00_ucmenu3_cIKids_hlbShoe" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358543" style="color:Black;font-size:11px;text-decoration:none;">
+                            <span class="blueDot"></span>Shoes</a></div>
+                             
+                            <div class="menuItemA"><a id="ctl00_ucmenu3_cIKids_hlbToys" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357961" style="color:Black;font-size:11px;text-decoration:none;">
+                            <span class="blueDot"></span>Toys &amp; Playstuff</a></div>
+                                                 <div class="menuItemA"><a id="ctl00_ucmenu3_cIKids_HyperLink20" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358546" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Children Sunglasses</a></div>
+            <div class="menuItemA"><a id="ctl00_ucmenu3_cIKids_HyperLink21" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358453" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Children Watches</a></div>
+          
+                    <p></p>      
+                                            
+                </td>
                    
                 </tr>
     </tbody></table>
@@ -370,102 +549,198 @@ ul.eo_list li { list-style: none; margin: 0px; padding: 0px; white-space: nowrap
         </div>
         </div>
     
-</div></div></td></tr></tbody></table></td></tr></tbody></table><div class="LowerMenu5" style="visibility: hidden; position: absolute;"></div><div style="position: fixed; background-color: lightgray; opacity: 0.5; z-index: 299998; visibility: hidden; display: none;"></div><table cellspacing="0" cellpadding="0" border="0" id="eo_ele_13" style="position: absolute; visibility: hidden; z-index: 299999; display: none;"><tbody><tr><td valign="top" class="LowerMenu5"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="top" height="30px" id="eo_ele_14" style="height: 30px;"><div style="margin-left: 5px; margin-right: 0px;"><div cancelbubble="true" id="ctl00_ucmenu3_CIClothing" style="position: static;">
+</div></div></td></tr></tbody></table></td></tr></tbody></table><div class="LowerMenu5" style="visibility: hidden; position: absolute;"></div><div style="position: fixed; background-color: lightgray; opacity: 0.5; z-index: 299998; visibility: hidden; display: none;"></div><table cellspacing="0" cellpadding="0" border="0" id="eo_ele_12" style="position: absolute; visibility: hidden; z-index: 299999; display: none;"><tbody><tr><td valign="top" class="LowerMenu5"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="top" height="30px" id="eo_ele_13" style="height: 30px;"><div style="margin-left: 1px; margin-right: 0px;"><div cancelbubble="true" id="ctl00_ucmenu3_CIShoes" style="position: static;">
 	
     <div style="background-color:black;">
     <div style="padding-top:5px;">
         <div style="background-color:white; line-height:20px;">
 <table border="0">
             <tbody><tr style="vertical-align:top;">
-                <td>
-                    <b>
-                        <span id="ctl00_ucmenu3_CIClothing_Label3" style="color:#33608C;font-size:9pt;font-weight:bold;">WOMEN CLOTHING</span></b><br>
-                      <div><a id="ctl00_ucmenu3_CIClothing_HyperLink2" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358525" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Arabian &amp; Indian Dresses</a></div>
-                    <div><a id="ctl00_ucmenu3_CIClothing_HyperLink3" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358408" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Blouses n More</a></div>
-                   <div><a id="ctl00_ucmenu3_CIClothing_HyperLink4" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358531" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Casual Dresses</a></div>
-                 <div><a id="ctl00_ucmenu3_CIClothing_HyperLink5" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357637" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Dresses</a></div>
-                    <div><a id="ctl00_ucmenu3_CIClothing_HyperLink6" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358516" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Formal Dresses</a></div>
-                  <div><a id="ctl00_ucmenu3_CIClothing_HyperLink7" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357628" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Jeans</a></div>
-                    <div><a id="ctl00_ucmenu3_CIClothing_HyperLink8" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357646" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Lingerie &amp; Underwear</a></div>
-                    <div><a id="ctl00_ucmenu3_CIClothing_HyperLink9" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358519" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Party Dresses</a></div>
-                    <div><a id="ctl00_ucmenu3_CIClothing_HyperLink10" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357661" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Polos</a></div>
-                    <div><a id="ctl00_ucmenu3_CIClothing_HyperLink11" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357658" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Shirts</a></div>
-                   <div><a id="ctl00_ucmenu3_CIClothing_HyperLink14" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358504" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Sweaters &amp; Boleros</a></div>
+                <td class="menuRight">
+                       <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                            <a id="ctl00_ucmenu3_CIShoes_HyperLink208" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358555" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Women Shoes</a>
+                            </div>
+                               </div>
+                   
+                            <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink209" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358558" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Flat Sandals &amp; Slippers</a></div>
+          <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink210" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357568" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Flat Shoes</a></div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink211" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358624" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Flip Flops</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink212" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357562" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Heel Shoes, Sandals, etc</a></div>
+                   <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink213" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358486" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Loafers</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink214" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358501" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Shoe &amp; Bag Set</a></div>
+                  <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink215" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357559" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Sneakers</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink216" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357571" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Wedges &amp; Clogs</a></div>
+           
+                          </td>
+                 <td class="menuRight">
+               
+                    <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
                   
-                    <div><a id="ctl00_ucmenu3_CIClothing_HyperLink15" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357640" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Suits &amp; Jackets</a></div>
-                                       
-                    <div><a id="ctl00_ucmenu3_CIClothing_HyperLink16" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357625" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Trousers, Shorts &amp; Skirts</a></div>
-                      <div><a id="ctl00_ucmenu3_CIClothing_HyperLink17" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358402" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>T-Shirts</a></div>
-                      <div><a id="ctl00_ucmenu3_CIClothing_HyperLink18" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358411" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Tunic Tops</a></div>
-                    <div><a id="ctl00_ucmenu3_CIClothing_HyperLink19" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358405" style="color:Black;text-decoration:none;"> <span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Vests &amp; Camisoles</a></div>
-                
+                         <a id="ctl00_ucmenu3_CIShoes_HyperLink217" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357589" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Men Shoes</a></div>
+                                   </div>
+                   
+                                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink218" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358483" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Boots</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink219" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358480" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Casual Shoes</a></div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink220" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358672" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Flip Flops</a></div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink221" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358477" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Dress &amp; Formal Shoes</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink222" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358627" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Loafers &amp; Drivers</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink223" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357610" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Sandals &amp; Slippers</a></div>
+                        <div class="menuItemA"><a id="ctl00_ucmenu3_CIShoes_HyperLink224" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357592" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Sneakers &amp; Sport Shoes</a></div>
+                           
                     </td>
-                  <td style="width:20px;">&nbsp;</td>
-                <td>
-                                      <b><span id="ctl00_ucmenu3_CIClothing_Label4" style="color:#33608C;font-size:9pt;font-weight:bold;">MEN CLOTHING</span></b><br>
-            <div>
-                   <a id="ctl00_ucmenu3_CIClothing_HyperLink22" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358462&amp;deptName=Casual%20Shirts" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Casual &amp; Party Shirts</a></div>
-                    <div><a id="ctl00_ucmenu3_CIClothing_HyperLink23" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358507" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Chinos &amp; Khakis</a></div>
-                            <div><a id="ctl00_ucmenu3_CIClothing_HyperLink24" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358465" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Formal &amp; Dress Shirts</a></div>
-                            <div><a id="ctl00_ucmenu3_CIClothing_HyperLink25" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357676" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Hoodies &amp; Sweaters</a></div>
-                             <div><a id="ctl00_ucmenu3_CIClothing_HyperLink26" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357682" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Jeans</a></div>
-                                <div><a id="ctl00_ucmenu3_CIClothing_HyperLink27" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357697" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Pajamas &amp; Sleepwear</a></div>             
-                                   
-                                      <div><a id="ctl00_ucmenu3_CIClothing_HyperLink28" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357673" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Polos</a></div>
-                                         <div><a id="ctl00_ucmenu3_CIClothing_HyperLink29" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358513" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Shorts</a></div>
-                   <div><a id="ctl00_ucmenu3_CIClothing_HyperLink30" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358510" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Trousers</a></div>                               
-                                        <div><a id="ctl00_ucmenu3_CIClothing_HyperLink31" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357706" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>T-Shirts</a></div>
-                                        
-                                        
-                                        <div><a id="ctl00_ucmenu3_CIClothing_HyperLink32" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357691" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Suits &amp; Blazers</a></div>
-                                        <div><a id="ctl00_ucmenu3_CIClothing_HyperLink46" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357700" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Underwear &amp; Socks</a></div>
-                                        
-                                        
-                                       
-                                         
-                                              </td>
-              
                 </tr>
-   </tbody></table>
+    </tbody></table>
             </div>
-        </div>                    
-       </div>
-
-</div></div></td></tr></tbody></table></td></tr></tbody></table><div class="LowerMenu5" style="visibility: hidden; position: absolute;"></div><div style="position: fixed; background-color: lightgray; opacity: 0.5; z-index: 299998; visibility: hidden; display: none;"></div><table cellspacing="0" cellpadding="0" border="0" id="eo_ele_16" style="position: absolute; visibility: hidden; z-index: 299999; display: none;"><tbody><tr><td valign="top" class="LowerMenu5"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="top" height="30px" id="eo_ele_17" style="height: 30px;"><div style="margin-left: 5px; margin-right: 0px;"><div cancelbubble="true" id="ctl00_ucmenu3_CIShoes" style="position: static;">
+        </div>
+        </div>
+    
+</div></div></td></tr></tbody></table></td></tr></tbody></table><div class="LowerMenu5" style="visibility: hidden; position: absolute;"></div><div style="position: fixed; background-color: lightgray; opacity: 0.5; z-index: 299998; visibility: hidden; display: none;"></div><table cellspacing="0" cellpadding="0" border="0" id="eo_ele_15" style="position: absolute; visibility: hidden; z-index: 299999; display: none;"><tbody><tr><td valign="top" class="LowerMenu5"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="top" height="30px" id="eo_ele_16" style="height: 30px;"><div style="margin-left: 1px; margin-right: 0px;"><div cancelbubble="true" id="ctl00_ucmenu3_CIbags" style="position: static;">
 	
     <div style="background-color:black;">
     <div style="padding-top:5px;">
         <div style="background-color:white; line-height:20px;">
 <table border="0">
             <tbody><tr style="vertical-align:top;">
-                <td>
-                    <b>
-                        <span id="ctl00_ucmenu3_CIShoes_Label5" style="color:#33608C;font-size:9pt;font-weight:bold;">WOMEN SHOES</span></b><br>
-                            <div><a id="ctl00_ucmenu3_CIShoes_Hlsws1" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358558" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Flat Sandals &amp; Slippers</a></div>
-         <div><a id="ctl00_ucmenu3_CIShoes_HyperLink33" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357568" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Flat Shoes</a></div>
-                     <div><a id="ctl00_ucmenu3_CIShoes_HyperLink34" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357562" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Heels Shoes, Sandles, etc</a></div>
-                   <div><a id="ctl00_ucmenu3_CIShoes_HyperLink35" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358501" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Shoe &amp; Bag Set</a></div>
-                  <div><a id="ctl00_ucmenu3_CIShoes_HyperLink36" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357559" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Sneakers</a></div>
-                    <div><a id="ctl00_ucmenu3_CIShoes_HyperLink37" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357571" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Wedges &amp; Clogs</a></div>
-     
+                <td class="menuRight">
+                    <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                      <a id="ctl00_ucmenu3_CIbags_HyperLink225" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358561" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Bags &amp; Purses</a>
+                            </div>
+                        </div>
+                      <div class="menuItemA"><a id="ctl00_ucmenu3_CIbags_HyperLink226" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358414" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Clutch Bags</a></div>
+                                         <div class="menuItemA"><a id="ctl00_ucmenu3_CIbags_HyperLink227" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358417" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Handbags</a></div>
+                  <div class="menuItemA"><a id="ctl00_ucmenu3_CIbags_HyperLink228" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358423" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Purses</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIbags_HyperLink229" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358420" style="color:Black;font-size:11px;text-decoration:none;"> 
+                    <span class="blueDot"></span>Man Bags</a></div>                  
+                     <p></p>
                     </td>
-                  <td style="width:20px;">&nbsp;</td>
-                <td>
-                                      <b><span id="ctl00_ucmenu3_CIShoes_Label6" style="color:#33608C;font-size:9pt;font-weight:bold;">MEN SHOES</span></b><br>
-            <div><a id="ctl00_ucmenu3_CIShoes_HyperLink50" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358483" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Boots</a></div>
-                    <div><a id="ctl00_ucmenu3_CIShoes_HyperLink51" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358480" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Casual Shoes</a></div>
-                     <div><a id="ctl00_ucmenu3_CIShoes_HyperLink52" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358477" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Dress &amp; Formal Shoes</a></div>
-                    <div><a id="ctl00_ucmenu3_CIShoes_HyperLink53" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357610" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Slippers</a></div>
-                        <div><a id="ctl00_ucmenu3_CIShoes_HyperLink54" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357592" style="color:Black;text-decoration:none;"><span class="blueArrow">&nbsp;&nbsp;&nbsp;&nbsp;</span>Sneakers &amp; Sport Shoes</a></div>
-                             
-                                              </td>
-              
                 </tr>
-   </tbody></table>
+    </tbody></table>
             </div>
-        </div>                    
-       </div>
+        </div>
+        </div>
+    
+</div></div></td></tr></tbody></table></td></tr></tbody></table><div class="LowerMenu5" style="visibility: hidden; position: absolute;"></div><div style="position: fixed; background-color: lightgray; opacity: 0.5; z-index: 299998; visibility: hidden; display: none;"></div><table cellspacing="0" cellpadding="0" border="0" id="eo_ele_18" style="position: absolute; visibility: hidden; z-index: 299999; display: none;"><tbody><tr><td valign="top" class="LowerMenu5"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="top" height="30px" id="eo_ele_19" style="height: 30px;"><div style="margin-left: 1px; margin-right: 0px;"><div cancelbubble="true" id="ctl00_ucmenu3_CIJewelry" style="position: static;">
+	
+    <div style="background-color:black;">
+    <div style="padding-top:5px;">
+        <div style="background-color:white; line-height:20px;">
+<table border="0">
+            <tbody><tr style="vertical-align:top;">
+                <td class="menuRight">
+                     <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+<a id="ctl00_ucmenu3_CIJewelry_HyperLink1" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358573" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Women Jewelry &amp; Watches</a>
+                            </div>
+                       </div>   
+            
+                                      <div class="menuItemA"><a id="ctl00_ucmenu3_CIJewelry_HyperLink38" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358432" style="color:Black;font-size:11px;text-decoration:none;">
+                                   <span class="blueDot"></span>Bracelets</a></div>
+                                  <div class="menuItemA"><a id="ctl00_ucmenu3_CIJewelry_HyperLink40" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358444" style="color:Black;font-size:11px;text-decoration:none;">
+                                   <span class="blueDot"></span>Brooches n Pendants</a></div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIJewelry_HyperLink41" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358441" style="color:Black;font-size:11px;text-decoration:none;">
+                                   <span class="blueDot"></span>Earrings</a></div>
+                                
+                                   <div class="menuItemA"><a id="ctl00_ucmenu3_CIJewelry_HyperLink42" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358438" style="color:Black;font-size:11px;text-decoration:none;">
+                                   <span class="blueDot"></span>Jewelry Sets</a></div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIJewelry_HyperLink44" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358498" style="color:Black;font-size:11px;text-decoration:none;">
+                                   <span class="blueDot"></span>Necklaces</a></div>
+                    
+                                   <div class="menuItemA"><a id="ctl00_ucmenu3_CIJewelry_HyperLink47" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358435" style="color:Black;font-size:11px;text-decoration:none;">
+                                   <span class="blueDot"></span>Rings</a></div>
+<div class="menuItemA"><a id="ctl00_ucmenu3_CIJewelry_HyperLink55" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358450" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Women Watches</a></div>
+                                 <p></p>
+                     <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                   <a id="ctl00_ucmenu3_CIJewelry_HyperLink56" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358603" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Men Jewelry &amp; Watches</a>
+                            </div>
+                              </div>
+                      <div class="menuItemA"><a id="ctl00_ucmenu3_CIJewelry_HyperLink57" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358606" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Bracelets</a></div>
+             <div class="menuItemA"><a id="ctl00_ucmenu3_CIJewelry_HyperLink93" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358495" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Necklaces</a></div>
+                   <div class="menuItemA"><a id="ctl00_ucmenu3_CIJewelry_HyperLink99" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358609" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Rings</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIJewelry_HyperLink103" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358447" style="color:Black;font-size:11px;text-decoration:none;"> 
+                    <span class="blueDot"></span>Men Watches</a></div> 
+                     
+                    </td>
+                </tr>
+    </tbody></table>
+            </div>
+        </div>
+        </div>
+    
+</div></div></td></tr></tbody></table></td></tr></tbody></table><div class="LowerMenu5" style="visibility: hidden; position: absolute;"></div><div style="position: fixed; background-color: lightgray; opacity: 0.5; z-index: 299998; visibility: hidden; display: none;"></div><table cellspacing="0" cellpadding="0" border="0" id="eo_ele_21" style="position: absolute; visibility: hidden; z-index: 299999; display: none;"><tbody><tr><td valign="top" class="LowerMenu5"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="top" height="30px" id="eo_ele_22" style="height: 30px;"><div style="margin-left: 1px; margin-right: 0px;"><div cancelbubble="true" id="ctl00_ucmenu3_CIEyewear" style="position: static;">
+	
+    <div style="background-color:black;">
+    <div style="padding-top:5px;">
+        <div style="background-color:white; line-height:20px;">
+<table border="0">
+            <tbody><tr style="vertical-align:top;">
+                <td class="menuRight">
+                    <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                                                  <a id="ctl00_ucmenu3_CIEyewear_HyperLink133" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358561" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Women Eyewear &amp; Beauty</a>
+                            </div>
+                               </div>    
+                
+                           <div class="menuItemA"><a id="ctl00_ucmenu3_CIEyewear_HyperLink233" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358570" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Eye Frames</a></div>
 
+                       <div class="menuItemA"><a id="ctl00_ucmenu3_CIEyewear_HyperLink236" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358597" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Sunglasses</a></div>
+                     <div class="menuItemA"><a id="ctl00_ucmenu3_CIEyewear_HyperLink230" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358588" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Cosmetics</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIEyewear_HyperLink231" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358591" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Hair Products</a></div>
+     
+                             <div class="menuItemA"><a id="ctl00_ucmenu3_CIEyewear_HyperLink232" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358585" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Perfumes &amp; Scents</a></div>
+   
+         
+                    <p></p>
+                    <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                           <a id="ctl00_ucmenu3_CIEyewear_HyperLink110" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358582" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Men Eyewear &amp; Looks</a><br> 
+                       </div>
+                            </div>
+                             <div class="menuItemA"><a id="ctl00_ucmenu3_CIEyewear_HyperLink122" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357790" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Cologne &amp; Perfumes</a></div>
+                        <div class="menuItemA"><a id="ctl00_ucmenu3_CIEyewear_HyperLink125" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358459" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Eye Frames</a></div>
+                          <div class="menuItemA"><a id="ctl00_ucmenu3_CIEyewear_HyperLink127" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358456" style="color:Black;font-size:11px;text-decoration:none;">
+                    <span class="blueDot"></span>Sunglasses</a></div>           
+                     <p></p>
+                    </td>
+                </tr>
+    </tbody></table>
+            </div>
+        </div>
+        </div>
+    
+</div></div></td></tr></tbody></table></td></tr></tbody></table><div class="LowerMenu5" style="visibility: hidden; position: absolute;"></div><div style="position: fixed; background-color: lightgray; opacity: 0.5; z-index: 299998; visibility: hidden; display: none;"></div><table cellspacing="0" cellpadding="0" border="0" id="eo_ele_24" style="position: absolute; visibility: hidden; z-index: 299999; display: none;"><tbody><tr><td valign="top" class="LowerMenu5"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="top" height="30px" id="eo_ele_25" style="height: 30px;"><div style="margin-left: 1px; margin-right: 0px;"><div cancelbubble="true" id="ctl00_ucmenu3_CIGadgets" style="position: static;">
+	
+    <div style="background-color:black;">
+    <div style="padding-top:5px;">
+        <div style="background-color:white; line-height:20px;">
+<table border="0">
+            <tbody><tr style="vertical-align:top;">
+                <td class="menuRight">
+                    <div class="menuRightTop">
+                        <div class="menuRightTopPadding">
+                      <a id="ctl00_ucmenu3_CIGadgets_HyperLink8" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357772" style="color:Black;font-size:12px;font-weight:bold;text-decoration:none;">Gadgets &amp; Gifts</a>
+                            </div>
+                        </div>
+                      <div class="menuItemA"><a id="ctl00_ucmenu3_CIGadgets_HyperLink11" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358219" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Pens</a></div>
+                                         <div class="menuItemA"><a id="ctl00_ucmenu3_CIGadgets_HyperLink27" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358621" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Gift n Things</a></div>
+                  <div class="menuItemA"><a id="ctl00_ucmenu3_CIGadgets_HyperLink53" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358618" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Home n Things</a></div>
+                    <div class="menuItemA"><a id="ctl00_ucmenu3_CIGadgets_HyperLink61" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358225" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Lighters</a></div>
+                  <div class="menuItemA"><a id="ctl00_ucmenu3_CIGadgets_HyperLink64" href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358615" style="color:Black;font-size:11px;text-decoration:none;"><span class="blueDot"></span>Headphones, etc</a></div>
+                     <p></p>
+                    </td>
+                </tr>
+    </tbody></table>
+            </div>
+        </div>
+        </div>
+    
 </div></div></td></tr></tbody></table></td></tr></tbody></table><div class="LowerMenu5" style="visibility: hidden; position: absolute;"></div><div style="position: fixed; background-color: lightgray; opacity: 0.5; z-index: 299998; visibility: hidden; display: none;"></div></div></div>
 <script type="text/javascript">
 //<![CDATA[
@@ -486,25 +761,42 @@ EO1040.r.handlerUrl='/eo_web.ashx';
 <script type="text/javascript" src="/write/eo_script/eo.61933d77-35b4-4510-8893-e7c08f123ca9.js"></script>
 <script type="text/javascript" src="/write/eo_script/eo.527ec7bf-41ce-4aa2-91cb-5cf98bb12ab8.js"></script>
 <script type="text/javascript" src="/write/eo_script/eo.944eb2c4-421c-4a17-8684-83c02fa8314d.js"></script>
+<script src="/ScriptResource.axd?d=Z3YWdu5EWiKmbqcq17K2PHWiP6zphk-kMJVaq5j0vHMu6EThAExr8RVsuarINk3VmpYGWQNVx9tGttPAD3OIJQcGVtjDZMGoiLhza4Ql4OPRXLPbwiAR0qHI96k22KUzzEziCwa_Na00QNvv95UpKNfOCu01&amp;t=c0994d8" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 var __cultureInfo = '{"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"£","NaNSymbol":"NaN","CurrencyNegativePattern":1,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-Infinity","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"Infinity","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"dd MMMM yyyy HH:mm:ss","LongDatePattern":"dd MMMM yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"dd/MM/yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":true,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]}}';//]]>
 </script>
 
-<script src="/ScriptResource.axd?d=AXITohy94Uy8X86UUEXDMTI5da4BvA8OloGZwxvWbWuUaaThynu_1Y5jelljOSL5zjqRmnCbHXq57lzsJcp2CaB1V8O4GnXJd8vQ5fEZgarY396ZTExCPtXaALqSNHqwAFOUKWJRH2cyw2xTvBns_7yyKCQ1&amp;t=676dd8c0" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=0BoxqGZdU2vlZVs4znECoJPKQ96IbI5gB6aSv5gAc8DTOPNmpOiV7Zf-sBEl_kKwkh4QD0d3PjFEyxsatNuCHHuP3EKK-bMtAYSJn4Jgu-67BWinAfT4adbaknVMzjIdxl7WXP-MHIQdNpYOklbnsOp-Q5o1&amp;t=ffffffffaadc5b7d" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=2s17WYa7el1p_DFfSMtHJDs91dNz5r1_mlkHvqOD1yS1cbK_gcqcrce8xdhcY275SSys13_azMtUWPvOotfxBMtiu4TegshJsEsicym4sYmHMlan0abz3iFn7_PR3KgoYKLEXjryTfOi_bcFgAG2Cyf0Lso1&amp;t=ffffffffaadc5b7d" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=sIfg6RHJcmhq9SxvwGZJO-gtrXnnN-bfIy9hsEXRgsbXYF2vRuaJjTa5HaZyaPywpM9uhEkgtooHbmKMMei_Y8pbcjf7xQqjQ9ecGEi5XfJIAWadPxphsYpJM1s_7DLPFAKZr4kzar2mASYiYF_H85-gTSESPmrNWwh6Xr11ANEeW9T70&amp;t=ffffffffaadc5b7d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=KSEjkCA6-35uHopFLB3buBkUk_XzFO7VnrHrwLPBgYb3ykTFaGbAAe4V9e3QvnuGfWL71qxzGVf16lrGcF6PJloP_DZedmX2FclpV7sOhHnXmrVAswhVqjKmqSINsxvI0Jetm_bXzMeubeb3BdcgJKlNpVg1&amp;t=fffffffff98cfb72" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=JtGhdxPOXkTXw7Us8fnwmF0g46aVdxt2BybhXq0_eLzI4ScwbnmISx7Tsqj3l2jmDb8h-E6B0fOnp8ZDp8F64ZmtZsnmg29jzI6CZUP9hmjJ-pNnVzLOSaoui69UWAeUnZnYcaetJE9YX0K7hODsL13jYogC5UUFTuOzuIHCVcdf2D5e0&amp;t=fffffffff98cfb72" type="text/javascript"></script>
 <script src="../Common/CommonCallback.asmx/js" type="text/javascript"></script>
-    
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
+        <div style="text-align:center;">
+            
        
    <div id="header">
     <div id="headerInside">
          <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tbody><tr><td align="left">ADDRESS: Plot CL2 Ikosi Rd, Oregun, Lagos.&nbsp;&nbsp;&nbsp;&nbsp;TEL: 0703(812)-6008&nbsp;|&nbsp;0807(643)8849&nbsp;|&nbsp;0816(986)9567&nbsp;&nbsp;&nbsp;&nbsp;Email: customercare@taafoo.com.
+    <tbody><tr><td align="left"> 
+        <b>ADDRESS:</b> Plot CL2 Ikosi Rd, Oregun, Lagos.&nbsp;&nbsp;<b>SMS ONLY:</b> 234(703)611-0000.&nbsp;&nbsp;<b>TEL:</b> 01-460-9999&nbsp;&nbsp;(9AM - 7pm | Mon - Sat Only).&nbsp;&nbsp;<b>Email:</b> customercare@taafoo.com.
     </td>
      <td align="right">
-    &nbsp;|&nbsp;<a id="ctl00_Hlhelp" href="http://www.taafoo.com/info/help.aspx" style="color:White;font-size:12px;text-decoration:underline;">Help</a>&nbsp;&nbsp;</td>
+    &nbsp;|&nbsp;<a id="ctl00_Hlhelp" href="http://www.taafoo.com/info/help.aspx" style="color:Gray;font-size:12px;text-decoration:underline;">Help</a>&nbsp;&nbsp;</td>
        </tr>
     </tbody></table>
    </div>
@@ -519,26 +811,39 @@ var __cultureInfo = '{"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,"
       <div id="topToolbar">
        <table border="0" cellpadding="2" cellspacing="3" width="100%">
            <tbody><tr>
-               <td>
-    <a id="ctl00_HyperLink1" href="../default.aspx"><img id="ctl00_Image1" src="../Images/Front/webLogoWtTagline.png" align="middle" style="border-width:0px;"></a>
-</td>
-               <td style="width:60px;">&nbsp;</td>
-                  
-          
-               <td><div style="padding:5px;">
+                <td align="left"><div style="padding:2px;">
    <table border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-       <td><input id="txtSearch" size="20" name="txtSearch" type="text" style="width:250px;height:25px;" class="topsearch" onblur="loseFocus()" onfocus="setFocus(this)" value="Search over 20,000 Clothing,Shoes,Bags,Watches n More">
+      <tbody><tr valign="bottom">
+       <td style="text-align:center;">
+    <a id="ctl00_HyperLink1" href="../default.aspx"><img id="ctl00_Image1" src="../Images/Front/webLogoWtTagline.png" align="middle" style="border-width:0px;"></a>
+                 
+</td> <td style="width:20px;">&nbsp;</td><td><input id="txtSearch" size="20" name="txtSearch" type="text" style="width:450px; height:25px;" class="topsearch" onblur="loseFocus()" onfocus="setFocus(this)" value="Search Affordable Fashion on taafoo">
      </td>
- 
-        <td><div id="searchIcon">&nbsp;</div>
-            </td> 
+
          </tr>
     </tbody></table>  </div></td>
+                   
+               
+              
+               
+               <td style="width:40px;">&nbsp;</td>
+                  
+          
+               <td style="text-align:center; color:yellow; font-size:20px;">&nbsp;                                                                                                 
 
-               <td style="width:60px;">&nbsp;</td>
-            
-    <td class="label">Welcome to taafoo<br><a id="ctl00_hlRegister" href="https://www.taafoo.com/secure/register.aspx" style="color:Gray;font-size:12px;text-decoration:underline;">Join</a>&nbsp;&nbsp;
+               </td>
+
+               <td style="width:30px;">&nbsp;</td>
+               <td align="right">
+<div style="text-align:center; color:gray">
+Bag:&nbsp;<a id="ctl00_ucBasket_HlShoppingBasket" href="../Order/ShoppingBasket.aspx" style="color:Gray;font-size:12px;text-decoration:underline;">N0.00 (0)</a>
+       
+    </div>
+
+   
+</td>
+            <td style="width:10px;">&nbsp;</td>
+    <td class="label" align="right">Welcome to taafoo<br><a id="ctl00_hlRegister" href="https://www.taafoo.com/secure/register.aspx" style="color:Gray;font-size:12px;text-decoration:underline;">Join</a>&nbsp;&nbsp;
     <a id="ctl00_LoginStatus1" href="javascript:__doPostBack('ctl00$LoginStatus1$ctl02','')" style="color:Gray;">SignIn</a>  
     </td>
                        
@@ -549,8 +854,7 @@ var __cultureInfo = '{"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,"
               
  </div>
        <div id="lowerToolbar">
-           <table border="0" cellpadding="1" cellspacing="2" width="100%" <tr="">
-                   <tbody><tr><td align="left">
+           
 <!-- Begin EO.Web Menu Menu3.  -->
 <div style="position:absolute; top:-1000px;"><input type="hidden" name="eo_version" value="10.0.40.2"><input type="hidden" name="eo_style_keys" value="/wFk"></div>
 <script type="text/javascript">
@@ -563,26 +867,43 @@ var eo_culture=eval('({"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,
 
 //]]>
 </script>
-<table id="ctl00_ucmenu3_Menu3" style="width:341px;" cellspacing="0" cellpadding="0">
+<table id="ctl00_ucmenu3_Menu3" style="width:990px;" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td valign="top"><table cellspacing="0" cellpadding="0" border="0" width="100%" id="eo_ele_1" style="z-index: 299997;"><tbody><tr><td valign="top" class="LowerMenu5 LowerMenu12"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_2" style="height: 30px;"><div style="margin: 0px 3px;">HOME</div></td><td width="1px"><div style="width: 1px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="1px"><div style="width: 1px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_5" style="height: 30px;"><div style="margin: 0px 3px;">MEN</div></td><td width="1px"><div style="width: 1px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="1px"><div style="width: 1px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_8" style="height: 30px;"><div style="margin: 0px 3px;">WOMEN</div></td><td width="1px"><div style="width: 1px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="1px"><div style="width: 1px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_11" style="height: 30px;"><div style="margin: 0px 3px;">BABY &amp; KIDS</div></td><td width="1px"><div style="width: 1px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="1px"><div style="width: 1px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_12" style="height: 30px;"><div style="margin: 0px 3px;">GADGETS 'N GIFTS</div></td><td width="1px"><div style="width: 1px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="1px"><div style="width: 1px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_15" style="height: 30px;"><div style="margin: 0px 3px;">CLOTHING</div></td><td width="1px"><div style="width: 1px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="1px"><div style="width: 1px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_18" style="height: 30px;"><div style="margin: 0px 3px;">SHOES</div></td><td width="1px"><div style="width: 1px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="1px"><div style="width: 1px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1 eo_css_ctrl_ctl00_ucmenu3_Menu31" id="eo_ele_19" style="height: 30px;"><div style="margin: 0px 3px;">NEWLY ARRIVED</div></td><td style="width: 99%;"></td></tr></tbody></table></td></tr></tbody></table></td>
+			<td valign="top"><table cellspacing="0" cellpadding="0" border="0" width="100%" id="eo_ele_1" style="z-index: 299997;"><tbody><tr><td valign="top" class="LowerMenu5 LowerMenu12"><table cellspacing="0" cellpadding="0" border="0" style="width: 100%;"><tbody><tr><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_2" style="height: 30px;"><div style="margin: 0px 3px;">HOME</div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_5" style="height: 30px;"><div style="margin: 0px 3px;">WOMEN</div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_8" style="height: 30px;"><div style="margin: 0px 3px;">MEN</div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_11" style="height: 30px;"><div style="margin: 0px 3px;">BABY &amp; KIDS</div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_14" style="height: 30px;"><div style="margin: 0px 3px;">SHOES</div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_17" style="height: 30px;"><div style="margin: 0px 3px;">HANDBAGS</div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_20" style="height: 30px;"><div style="margin: 0px 3px;">JEWELRY &amp; WATCHES</div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_23" style="height: 30px;"><div style="margin: 0px 3px;">EYEWEAR &amp; LOOKS</div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1" id="eo_ele_26" style="height: 30px;"><div style="margin: 0px 3px;">GADGETS</div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1 eo_css_ctrl_ctl00_ucmenu3_Menu31" id="eo_ele_27" style="height: 30px;"><div style="margin: 0px 3px;">New</div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1 eo_css_ctrl_ctl00_ucmenu3_Menu32" id="eo_ele_28" style="height: 30px;"><div style="margin: 0px 3px;">1K Shop</div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="top"><div style="height: auto;"><table cellspacing="0" cellpadding="0" border="0" style="height: 32px;"><tbody><tr><td><div></div></td></tr></tbody></table></div></td><td width="7px"><div style="width: 7px;"></div></td><td align="left" valign="middle" nowrap="" height="30px" class="LowerMenu1 eo_css_ctrl_ctl00_ucmenu3_Menu33" id="eo_ele_29" style="height: 30px;"><div style="margin: 0px 3px;">SALE</div></td><td style="width: 99%;"></td></tr></tbody></table></td></tr></tbody></table></td>
 		</tr>
 	</tbody>
 </table><div style="display:none"></div>
 <script type="text/javascript">
 //<![CDATA[
-EO1040.g.d.k("ldr|i|fmt|u|pop|ei|e|nv|m", function(){EO1040.g.b.ctl00_ucmenu3_Menu3=1;EO1040.r._o_ctl00_ucmenu3_Menu3=EO1040.f.aby(EO1040.r._o_ctl00_ucmenu3_Menu3,"Menu3",new EO1040.f.aack([[[[,"ctl00_ucmenu3_Menu3","Menu","ctl00$ucmenu3$Menu3",,,,,,,"__doPostBack(\'ctl00$ucmenu3$Menu3\',\'_eo_arg_\')"],,"/App_Themes/Menu.css",,"None",,,,,[]],0,0,,new EO1040.f.aads([[,42,,new EO1040.f.aafs([[[,,new EO1040.f.ahf([,new EO1040.f.aads([[,,"HOME",,"../default.aspx"]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"MEN",new EO1040.f.aafs([[[,16,new EO1040.f.ahf([,new EO1040.f.aads([[,,,,,,,,,,,,,,"ctl00_ucmenu3_cIMen"]])])],,,2]]),"http://www.taafoo.com/pages/searchresults.aspx?departmentId=357616"]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"WOMEN",new EO1040.f.aafs([[[,16,new EO1040.f.ahf([,new EO1040.f.aads([[,,,,,,,,,,,,,,"ctl00_ucmenu3_CIWomen"]])])],,,2]]),"http://www.taafoo.com/pages/searchresults.aspx?departmentId=357544"]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"BABY & KIDS",new EO1040.f.aafs([[[,16,new EO1040.f.ahf([,new EO1040.f.aads([[,,,,,,,,,,,,,,"ctl00_ucmenu3_cIKids"]])])],,,2]]),"http://www.taafoo.com/pages/searchresults.aspx?departmentId=357898"]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"GADGETS \'N GIFTS",,"http://www.taafoo.com/pages/searchresults.aspx?departmentId=357772"]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"CLOTHING",new EO1040.f.aafs([[[,16,new EO1040.f.ahf([,new EO1040.f.aads([[,,,,,,,,,,,,,,"ctl00_ucmenu3_CIClothing"]])])],,,2]])]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"SHOES",new EO1040.f.aafs([[[,16,new EO1040.f.ahf([,new EO1040.f.aads([[,,,,,,,,,,,,,,"ctl00_ucmenu3_CIShoes"]])])],,,2]])]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"NEWLY ARRIVED",,"http://www.taafoo.com/collection/NewlyArrived.aspx",,,new EO1040.f.aaaf([,"eo_css_ctrl_ctl00_ucmenu3_Menu31"])]])])]]]),,,,new EO1040.f.aaaf([,,,,,,,,"LowerMenu12"])]]),new EO1040.f.ahf([,new EO1040.f.aads([[,33554432,,new EO1040.f.aafs([[[,,,,1],5],new EO1040.f.aue([,1]),new EO1040.f.aue([,1])]),,"_TopLevelItem",,new EO1040.f.aaaf([,"LowerMenu1","LowerMenu2",,"LowerMenu3",,,"LowerMenu4","LowerMenu5"]),30]]),new EO1040.f.aads([[,33554432,new EO1040.f.bpt([,,new EO1040.f.ajd([,,,30])]),new EO1040.f.aafs([[[,,,,2],5],new EO1040.f.aue([,1]),new EO1040.f.aue([,1])]),,"_Default",,new EO1040.f.aaaf([,"LowerMenu7","LowerMenu8",,"LowerMenu9",,,"LowerMenu10","LowerMenu11"]),30]])])],,,,,,"",""]),"Menu");EO1040.f.ahe(EO1040.r._o_ctl00_ucmenu3_Menu3,1,null, 0);});
+EO1040.g.d.k("ldr|i|fmt|u|pop|ei|e|nv|m", function(){EO1040.g.b.ctl00_ucmenu3_Menu3=1;EO1040.r._o_ctl00_ucmenu3_Menu3=EO1040.f.aby(EO1040.r._o_ctl00_ucmenu3_Menu3,"Menu3",new EO1040.f.aack([[[[,"ctl00_ucmenu3_Menu3","Menu","ctl00$ucmenu3$Menu3",,,,,,,"__doPostBack(\'ctl00$ucmenu3$Menu3\',\'_eo_arg_\')"],,"/App_Themes/Menu.css",,"None",,,,,[]],0,0,,new EO1040.f.aads([[,42,,new EO1040.f.aafs([[[,,new EO1040.f.ahf([,new EO1040.f.aads([[,,"HOME",,"../default.aspx"]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"WOMEN",new EO1040.f.aafs([[[,16,new EO1040.f.ahf([,new EO1040.f.aads([[,,,,,,,,,,,,,,"ctl00_ucmenu3_CIWomen"]])])],,,0],,,0,,0]),"http://www.taafoo.com/pages/searchresults.aspx?departmentId=357544"]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"MEN",new EO1040.f.aafs([[[,16,new EO1040.f.ahf([,new EO1040.f.aads([[,,,,,,,,,,,,,,"ctl00_ucmenu3_CIMEN"]])])],,,0],,,0,,0]),"http://www.taafoo.com/pages/searchresults.aspx?departmentId=357616"]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"BABY & KIDS",new EO1040.f.aafs([[[,16,new EO1040.f.ahf([,new EO1040.f.aads([[,,,,,,,,,,,,,,"ctl00_ucmenu3_cIKids"]])])],,,0],,,0,,0]),"http://www.taafoo.com/pages/searchresults.aspx?departmentId=357898"]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"SHOES",new EO1040.f.aafs([[[,16,new EO1040.f.ahf([,new EO1040.f.aads([[,,,,,,,,,,,,,,"ctl00_ucmenu3_CIShoes"]])])],,,0],,,0,,0])]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"HANDBAGS",new EO1040.f.aafs([[[,16,new EO1040.f.ahf([,new EO1040.f.aads([[,,,,,,,,,,,,,,"ctl00_ucmenu3_CIbags"]])])],,,0],,,,,0])]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"JEWELRY & WATCHES",new EO1040.f.aafs([[[,16,new EO1040.f.ahf([,new EO1040.f.aads([[,,,,,,,,,,,,,,"ctl00_ucmenu3_CIJewelry"]])])],,,0],,,0,,0])]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"EYEWEAR & LOOKS",new EO1040.f.aafs([[[,16,new EO1040.f.ahf([,new EO1040.f.aads([[,,,,,,,,,,,,,,"ctl00_ucmenu3_CIEyewear"]])])],,,0],,,0,,0])]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"GADGETS",new EO1040.f.aafs([[[,16,new EO1040.f.ahf([,new EO1040.f.aads([[,,,,,,,,,,,,,,"ctl00_ucmenu3_CIGadgets"]])])],,,2],,,-50]),"http://www.taafoo.com/pages/searchresults.aspx?departmentId=357772"]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"New",,"http://www.taafoo.com/collection/newlyarrived.aspx",,,new EO1040.f.aaaf([,"eo_css_ctrl_ctl00_ucmenu3_Menu31"])]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"1K Shop",,"http://www.taafoo.com/pages/1KPlusShop.aspx",,,new EO1040.f.aaaf([,"eo_css_ctrl_ctl00_ucmenu3_Menu32"])]]),new EO1040.f.aads([[,16777216]]),new EO1040.f.aads([[,,"SALE",,"http://www.taafoo.com/collection/NowOnSale.aspx",,,new EO1040.f.aaaf([,"eo_css_ctrl_ctl00_ucmenu3_Menu33"])]])])]]]),,,,new EO1040.f.aaaf([,,,,,,,,"LowerMenu12"])]]),new EO1040.f.ahf([,new EO1040.f.aads([[,33554432,,new EO1040.f.aafs([[[,,,,7],1],new EO1040.f.aue([,1]),new EO1040.f.aue([,1])]),,"_TopLevelItem",,new EO1040.f.aaaf([,"LowerMenu1","LowerMenu2",,"LowerMenu3",,,"LowerMenu4","LowerMenu5"]),30]]),new EO1040.f.aads([[,33554432,new EO1040.f.bpt([,,new EO1040.f.ajd([,,,30])]),new EO1040.f.aafs([[[,,,,1],1],new EO1040.f.aue([,1]),new EO1040.f.aue([,1])]),,"_Default",,new EO1040.f.aaaf([,"LowerMenu7","LowerMenu8",,"LowerMenu9",,,"LowerMenu10","LowerMenu11"]),30]])])],,,,,,"",""]),"Menu");EO1040.f.ahe(EO1040.r._o_ctl00_ucmenu3_Menu3,1,null, 0);});
 //]]>
 </script>
 
 <!-- End EO.Web Menu Menu3.  -->
 
 
-
-
-
   
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -593,21 +914,7 @@ EO1040.g.d.k("ldr|i|fmt|u|pop|ei|e|nv|m", function(){EO1040.g.b.ctl00_ucmenu3_Me
             
   
             
-</td>
-                   <td align="right" style="width:50px;">&nbsp;</td>
-                   <td>
-<div style="text-align:center">
-Bag:&nbsp;<a id="ctl00_ucBasket_HlShoppingBasket" href="../Order/ShoppingBasket.aspx" style="color:White;text-decoration:none;">N0.00 (0)</a>
-       
-    </div>
 
-   
-
-</td>
-               </tr>
-               </tbody></table>
- 
-         
        </div>
             <div id="shortLinks">
                 <table border="0" cellpadding="2" cellspacing="2" width="100%">
@@ -624,21 +931,63 @@ Bag:&nbsp;<a id="ctl00_ucBasket_HlShoppingBasket" href="../Order/ShoppingBasket.
                           </td>
                        <td style="width:33%"><div id="ctl00_Panel1" style="border-color:Navy;border-width:1px;border-style:Groove;width:100%;">
 	
-                               <div style="padding:5px;"><a id="ctl00_HyperLink4" href="../pages/searchresults.aspx" style="color:Black;text-decoration:none;">EVERYDAY FASHION DEALS</a>
+                               <div style="padding:5px;"><a id="ctl00_HyperLink4" href="HowItWorks.aspx" style="color:Black;text-decoration:none;">WHOLESALE FASHION PRICES</a>
                                    </div>
 </div></td>
                        <td style="width:33%"><div id="ctl00_Panel2" style="border-color:Navy;border-width:1px;border-style:Groove;width:100%;">
 	
                                <div style="padding:5px;">
-                                   <a id="ctl00_HyperLink2" href="Moving.aspx" style="color:Black;text-decoration:none;">BUY ONLINE or BUY AT OUR OREGUN STORE.</a></div>
+                                   <a id="ctl00_HyperLink2" href="Moving.aspx" style="color:Black;text-decoration:none;">PAY ONLINE or PICK UP AT OUR OREGUN STORE.</a></div>
 </div></td>
                     </tr>
                 </tbody></table>                           
 
             </div>
    
-            <div class="spacerH">&nbsp;</div>
+      
     <div>
+         <div id="modal">
+        <div class="pad25">
+            <span class="tagline">Sign up to our Newsletter and Get the best deals in your inbox.
+                Remember, taafoo.com Saves You Good Money! </span>
+            <p>
+            </p>
+            <div id="ctl00_divRegisterInfo" class="divRegisterInfo">
+                <label class="font-color-black">
+                    First Name:</label><br>
+                <input name="ctl00$txtFirstName" type="text" maxlength="20" id="ctl00_txtFirstName">
+                <br>
+                <span id="ctl00_rfvfirstname" style="color:Red;display:none;">First name is required</span>
+                <br>
+                <label class="font-color-black">
+                    Email Address:</label><br>
+                <input name="ctl00$txtEmailAddress" type="text" maxlength="100" id="ctl00_txtEmailAddress">
+                <br>
+                <span id="ctl00_revEmail" style="color:Red;display:none;">* Your entry is not a valid e-mail address.</span>
+                <span id="ctl00_rfvEmail" style="color:Red;display:none;">Email is required</span>
+                <br>
+                <input type="submit" name="ctl00$btnSubscribe" value="Subscribe" onclick="return SetSubscription();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$btnSubscribe&quot;, &quot;&quot;, true, &quot;register&quot;, &quot;&quot;, false, false))" id="ctl00_btnSubscribe" class="subscribe-btn">
+                <input type="submit" name="ctl00$btnSkip" value="Skip" onclick="return SkipSubscription();" id="ctl00_btnSkip">
+            </div>
+            <span id="ctl00_lblError" class="font-color-red" style="display: none;"></span>
+            <br>
+            <div id="ctl00_divNlRegSuccess" style="display: none;" class="divRegisterInfo">
+                <span id="ctl00_lblMsg" class="font-color-red"></span>
+                <br>
+                <span class="font-color-black">Click&nbsp;<a href="javascript:void(0);" onclick="return ClosePopup();">here</a>&nbsp;to&nbsp;continue.
+                </span>
+                <br>
+            </div>
+            <small class="font-color-black">Please add "Newsletters@taafoo.com" to your contacts
+                list to ensure delivery.</small>
+            <p class="display-none">
+                <input id="Close" type="button" class="close display-none" value="Close">
+            </p>
+        </div>
+    </div>
+    <p class="display-none">
+        <input name="ctl00$hdnloadpopup" type="text" id="ctl00_hdnloadpopup" value="1" class="display-none">
+    </p>    
         
 
 <p></p>
@@ -749,125 +1098,13 @@ Bag:&nbsp;<a id="ctl00_ucBasket_HlShoppingBasket" href="../Order/ShoppingBasket.
 
         <hr>
         <div style="text-align:center;">
-            
-<p></p>
-<script type="text/javascript"><!--
-    google_ad_client = "ca-pub-5468357630018275";
-    /* Frontpage Links */
-    google_ad_slot = "3210109649";
-    google_ad_width = 728;
-    google_ad_height = 15;
-    //-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
- <p></p>
-<div id="ctl00_ucNews_UpPrognews" style="display:none;">
-	
-    <div>
-    Processing....
-    <img src="../Images/ajax-loader.gif" alt="Processing">
-    </div>
-    
-</div>
-      <span id="ctl00_ucNews_upNews">
-<div style="padding:5px;">
-<div>Get the best deals and fashion tips right in your email inbox. Subscribe to the 
-taafoo daily newsletter below:</div><p></p>
-
-<input name="ctl00$ucNews$txtEmail" type="text" maxlength="100" id="ctl00_ucNews_txtEmail" style="width:300px;">&nbsp;&nbsp;<input type="submit" name="ctl00$ucNews$btnSubscribe" value="Subscribe" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ucNews$btnSubscribe&quot;, &quot;&quot;, true, &quot;newsletter&quot;, &quot;&quot;, false, false))" id="ctl00_ucNews_btnSubscribe"><br>
-
-     
-    <input type="hidden" name="ctl00$ucNews$tbwEmail_ClientState" id="ctl00_ucNews_tbwEmail_ClientState">
-        <span id="ctl00_ucNews_lbMsg" class="errorLabel"></span>
-  
-  </div>
-</span></div>
-
-
-
-  
-
-              
-  
-	
-
+           
         </div>
        
     </div>
        <p></p>
-     </div>
+     </div></div>
 <div id="bottom">
-       <div id="greenBlock">
-       <div id="resultInside">
-       <div style="text-align:left">
-       <div style="font-size:16px; color:Yellow; font-weight:bold;">Recently Purchased on taafoo.com</div>
-       <div> <table id="ctl00_ucSales_dlItem" cellspacing="2" cellpadding="2" border="0" style="width:100%;">
-	<tbody><tr>
-		<td>
-     <span id="ctl00_ucSales_dlItem_ctl00_lbTitle" style="font-size:14px;font-weight:bold;">1</span>.
-     <a id="ctl00_ucSales_dlItem_ctl00_HlItem" href="http://www.taafoo.com/pages/viewdetails.aspx?productId=1143757" style="color:White;font-size:12px;text-decoration:none;">D &amp; G Blue/Cream Floral Pattern Long Sleeve Men's Office Shirt Sz- </a>.<i>&nbsp;
-     <span id="ctl00_ucSales_dlItem_ctl00_lbPurchase" style="font-size:9px;">Purchased on 02/04/2013 18:55:55</span></i>
-     
-      
-     
-     
-    
- </td><td>
-     <span id="ctl00_ucSales_dlItem_ctl01_lbTitle" style="font-size:14px;font-weight:bold;">2</span>.
-     <a id="ctl00_ucSales_dlItem_ctl01_HlItem" href="http://www.taafoo.com/pages/viewdetails.aspx?productId=1144261" style="color:White;font-size:12px;text-decoration:none;">D &amp; G Blue/White Floral Pattern Long Sleeve Men's Office Shirt Sz- </a>.<i>&nbsp;
-     <span id="ctl00_ucSales_dlItem_ctl01_lbPurchase" style="font-size:9px;">Purchased on 02/04/2013 18:55:55</span></i>
-     
-      
-     
-     
-    
- </td>
-	</tr><tr>
-		<td>
-     <span id="ctl00_ucSales_dlItem_ctl02_lbTitle" style="font-size:14px;font-weight:bold;">3</span>.
-     <a id="ctl00_ucSales_dlItem_ctl02_HlItem" href="http://www.taafoo.com/pages/viewdetails.aspx?productId=1112539" style="color:White;font-size:12px;text-decoration:none;">Juelz Pink Star Pattern Brooch wt Studs</a>.<i>&nbsp;
-     <span id="ctl00_ucSales_dlItem_ctl02_lbPurchase" style="font-size:9px;">Purchased on 02/04/2013 18:55:37</span></i>
-     
-      
-     
-     
-    
- </td><td>
-     <span id="ctl00_ucSales_dlItem_ctl03_lbTitle" style="font-size:14px;font-weight:bold;">4</span>.
-     <a id="ctl00_ucSales_dlItem_ctl03_HlItem" href="http://www.taafoo.com/pages/viewdetails.aspx?productId=1112590" style="color:White;font-size:12px;text-decoration:none;">Nollia Silver Star Shape Brooch wt Silver Studs</a>.<i>&nbsp;
-     <span id="ctl00_ucSales_dlItem_ctl03_lbPurchase" style="font-size:9px;">Purchased on 02/04/2013 18:55:37</span></i>
-     
-      
-     
-     
-    
- </td>
-	</tr><tr>
-		<td>
-     <span id="ctl00_ucSales_dlItem_ctl04_lbTitle" style="font-size:14px;font-weight:bold;">5</span>.
-     <a id="ctl00_ucSales_dlItem_ctl04_HlItem" href="http://www.taafoo.com/pages/viewdetails.aspx?productId=1112767" style="color:White;font-size:12px;text-decoration:none;">Juelz Silver Brooch wt Silver Studs Pattern</a>.<i>&nbsp;
-     <span id="ctl00_ucSales_dlItem_ctl04_lbPurchase" style="font-size:9px;">Purchased on 02/04/2013 18:55:37</span></i>
-     
-      
-     
-     
-    
- </td><td>
-     <span id="ctl00_ucSales_dlItem_ctl05_lbTitle" style="font-size:14px;font-weight:bold;">6</span>.
-     <a id="ctl00_ucSales_dlItem_ctl05_HlItem" href="http://www.taafoo.com/pages/viewdetails.aspx?productId=1161217" style="color:White;font-size:12px;text-decoration:none;">Versace Black Croc Leather Big Round Ladies Watch Wt Cream Background</a>.<i>&nbsp;
-     <span id="ctl00_ucSales_dlItem_ctl05_lbPurchase" style="font-size:9px;">Purchased on 02/04/2013 18:55:37</span></i>
-     
-      
-     
-     
-    
- </td>
-	</tr>
-</tbody></table>
-
-</div>
-       </div></div></div>
        <div style="height:20px;">&nbsp;</div>
        <div id="bottomInside">
             <div class="bottomtab">
@@ -876,18 +1113,21 @@ taafoo daily newsletter below:</div><p></p>
       <table border="0" cellspacing="3" cellpadding="3" width="100%">
    
       <tbody><tr valign="top">
-      <td style="width:25%"><div class="bottomHeadings">Shopping Services</div><br>
-      <a href="http://www.taafoo.com/collection/nowonsale.aspx">SALES</a><br>
+      <td style="width:33%"><div class="bottomHeadings">Shopping Services</div><br>
+      <a href="http://www.taafoo.com/pages/1KPlusShop.aspx">SALES</a><br>
       <a href="http://www.taafoo.com/collection/newlyarrived.aspx">Newly Arrived</a><br>
        <a href="http://www.taafoo.com/pages/bulksms.aspx">Bulk SMS</a><br>
-      <a href="http://www.taafoo.com/Info/ExchangeReturnPolicy.aspx">Returns &amp; Exchanges</a><br>
-      <a href="http://www.taafoo.com/Subscribers/OrderHistory.aspx">Order Tracking &amp; History</a><br>
+      <a href="http://www.taafoo.com/info/shopwithconfidence.aspx">Delivery Info</a><br>
+     <a href="http://www.taafoo.com/Info/ExchangeReturnPolicy.aspx">Returns &amp; Exchanges</a><br>
+       <a href="http://www.taafoo.com/pages/OrderStatus.aspx">Track Order</a><br>
+     <a href="http://www.taafoo.com/Subscribers/OrderHistory.aspx">Order History</a><br>
       <a href="http://www.taafoo.com/Info/PaymentOptionsaspx.aspx">Payment Options</a><br>
       <a href="http://www.taafoo.com/Info/HowToPay.aspx">How to pay</a><br>
      <a href="http://www.taafoo.com/info/paymentoptionsaspx.aspx">Bank Account Numbers</a><br>
       <a href="http://m.taafoo.com/default.aspx">Mobile site</a>
-     <div class="spacerH">&nbsp;</div>
-      <div class="bottomHeadings">Quick Links</div><br>
+          </td>
+          <td style="width:33%">
+       <div class="bottomHeadings">Quick Links</div><br>
          <a id="ctl00_ucLowerTable_HyperLink4" class="bottom" href="http://www.taafoo.com/info/HowItWorks.aspx">How it Works</a><br>
    <a href="http://www.taafoo.com/pages/bulksms.aspx">Bulk SMS</a><br>
      <a href="https://www.taafoo.com/secure/login.aspx">Sign In</a><br>
@@ -898,19 +1138,7 @@ taafoo daily newsletter below:</div><p></p>
      <b><a href="http://www.taafoo.com/info/inviteothers.aspx">Tell a friend</a></b>   
 
       </td>
-      <td style="width:20%">
-           <div class="bottomHeadings">Shopping Departments</div><br>
-      <a href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357847">Accessories</a><br>
-      <a href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357898">Babies &amp; Kids</a><br>
-      <a href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357712">Bags &amp; Handbags</a><br>
-       <a href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357790">Beauty &amp; Fragrances</a><br>
-      <a href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357772">Gadgets &amp; Gifts</a><br>
-       <a href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358051">Jewelry</a><br>
-       <a href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357616">Men Fashion</a><br>
-       <a href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=3578015">Sunglasses &amp; Frames</a><br>
-      <a href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=358081">Watches</a><br>
-     <a href="http://www.taafoo.com/pages/searchresults.aspx?departmentId=357544">Women Fashion</a><br>
-          <p></p>
+          <td style="width:33%">
            <div class="bottomHeadings">About taafoo</div><br>
       <a id="ctl00_ucLowerTable_HlAbout" class="bottom" href="http://www.taafoo.com/Pages/AboutUs.aspx">About Us</a><br>
        <a id="ctl00_ucLowerTable_HyperLink5" class="bottom" href="http://www.taafoo.com/info/HowItWorks.aspx">How it Works</a><br>
@@ -927,43 +1155,110 @@ taafoo daily newsletter below:</div><p></p>
    <p></p>
       </td>
       
-      <td style="width:25%">
-     
-      <a class="twitter-timeline" href="https://twitter.com/taafoo" data-widget-id="310817736852905984">Tweets by @taafoo</a>
-<script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
-
-         
-
-    </td>
-    
-    <td style="width:30%" rowspan="3">
-        <div style="background-color:white;">
-        <script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script><script type="text/javascript">FB.init("6a09b8032b12b6a90440bd3eeb15d705");</script><fb:fan profile_id="135293531041" stream="1" connections="10" width="300"></fb:fan><div style="font-size:8px; padding-left:10px;"><a href="http://www.facebook.com/taafoo" target="_blank">www.taafoo.com - Looking Good Just Got Easier.</a> 
-            </div>
-
-      
-      </div></td>
+   
      </tr>
      <tr valign="bottom">
-     <td align="center" colspan="3">
+     <td align="center" colspan="4">
     Copyright (c) 2013 taafoo.com; All rights reserved. <br>
-      <span style="color:Yellow;"><small>taafoo.com is located at Plot CL2 Ikosi Road, Opposite New Daystar Christian Center Extension, Oregun.  Opened: Mon-Fri (9am-7pm) | Sat (10am-7pm)  </small></span>
+      <span style="color:gray;"><small>taafoo.com is located at Plot CL2 Ikosi Road, Off, Oregun Rd, Adjacent to Diamond Bank, Oregun, Lagos.  Opened: Mon-Fri (9am-7pm) | Sat (10am-7pm)  </small></span>
 
         
       </td>
       </tr>
-      <tr valign="bottom"><td align="center" co="" <div="" class="spacerH">&nbsp;
-                
-        
-     
+      <tr valign="bottom"><td align="center" colspan="4">
+      <div style="">
+      <div style="padding:10px;">
+               
+                 <table border="0" cellpadding="2" cellspacing="2">
+                 <tbody><tr align="center"><td><img id="ctl00_ucLowerTable_Image6" src="../Images/Payment/GTBANK%20LOGO.jpg" align="baseline" style="border-width:0px;"></td><td>&nbsp;</td>
+                <td> <img id="ctl00_ucLowerTable_Image2" src="../Images/Payment/tn_verified_by_visa.gif" align="baseline" style="border-width:0px;"><br><small style="color:Black;">Service provided by ValuCard Nigeria Plc</small></td><td>&nbsp;</td>
+                 <td><img id="ctl00_ucLowerTable_Image3" src="../Images/Payment/firstbank.jpg" align="baseline" style="border-width:0px;"></td><td>&nbsp;</td>
+                 <td> <img id="ctl00_ucLowerTable_Image4" src="../Images/Payment/interswith.jpg" align="baseline" style="border-width:0px;"></td><td>&nbsp;</td>
+                 <td><img id="ctl00_ucLowerTable_Image5" src="../Images/Payment/zenith3d.jpg" align="baseline" style="border-width:0px;"></td></tr>
+                 </tbody></table>
     
+    
+      </div>
+      </div>
+
+   </td></tr>
+     
+       
+     
+
+      </tbody></table>
+      </div>
+      
+<div class="spacerH">&nbsp;</div>
+                
+        </div></div>
+     </div>
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_rfvfirstname"), document.getElementById("ctl00_revEmail"), document.getElementById("ctl00_rfvEmail"));
+//]]>
+</script>
 
 <script type="text/javascript">
 //<![CDATA[
-Sys.Application.initialize();
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_ucNews_tbwEmail_ClientState","WatermarkCssClass":"watermarked","WatermarkText":"Please enter your email here to subscribe.","id":"ctl00_ucNews_tbwEmail"}, null, null, $get("ctl00_ucNews_txtEmail"));
-});
+var ctl00_rfvfirstname = document.all ? document.all["ctl00_rfvfirstname"] : document.getElementById("ctl00_rfvfirstname");
+ctl00_rfvfirstname.controltovalidate = "ctl00_txtFirstName";
+ctl00_rfvfirstname.focusOnError = "t";
+ctl00_rfvfirstname.errormessage = "First name is required";
+ctl00_rfvfirstname.display = "Dynamic";
+ctl00_rfvfirstname.validationGroup = "register";
+ctl00_rfvfirstname.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_rfvfirstname.initialvalue = "";
+var ctl00_revEmail = document.all ? document.all["ctl00_revEmail"] : document.getElementById("ctl00_revEmail");
+ctl00_revEmail.controltovalidate = "ctl00_txtEmailAddress";
+ctl00_revEmail.focusOnError = "t";
+ctl00_revEmail.errormessage = "* Your entry is not a valid e-mail address.";
+ctl00_revEmail.display = "Dynamic";
+ctl00_revEmail.validationGroup = "register";
+ctl00_revEmail.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_revEmail.validationexpression = "\\w+([-+.\']\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+var ctl00_rfvEmail = document.all ? document.all["ctl00_rfvEmail"] : document.getElementById("ctl00_rfvEmail");
+ctl00_rfvEmail.controltovalidate = "ctl00_txtEmailAddress";
+ctl00_rfvEmail.focusOnError = "t";
+ctl00_rfvEmail.errormessage = "Email is required";
+ctl00_rfvEmail.display = "Dynamic";
+ctl00_rfvEmail.validationGroup = "register";
+ctl00_rfvEmail.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_rfvEmail.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        Sys.Application.initialize();
+
+document.getElementById('ctl00_rfvfirstname').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_rfvfirstname'));
+}
+
+document.getElementById('ctl00_revEmail').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_revEmail'));
+}
+
+document.getElementById('ctl00_rfvEmail').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_rfvEmail'));
+}
 //]]>
 </script>
 
@@ -1001,4 +1296,4 @@ Sys.Application.add_init(function() {
 </script>
 
 
-</td></tr></tbody></table></div></div></div></div></form></body></html>
+</div></form></body></html>
