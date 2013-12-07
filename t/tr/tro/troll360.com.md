@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troll360.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623034922id_/http%3A//www.troll360.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troll360.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207151358id_/http%3A//troll360.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Troll360
 
