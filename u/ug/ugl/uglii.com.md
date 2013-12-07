@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the uglii.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530171813id_/http%3A//www.uglii.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uglii.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207101829id_/http%3A//www.uglii.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Uglii
 
-**Date: 24th September 2010**
-
 ### **Scope**
 
-In this Privacy Statement “we”, “our”, and “us” refers to SISS Business Systems Pty Ltd (ACN 085 265 309) and each of its related entities.
+In this Privacy Statement “we”, “our”, and “us” refers to Uglii Business Systems Pty Ltd (ACN 085 265 309) and each of its related entities.
 
-At SISS we value the protection and security of your personal information. As an Australian company we are bound by the Privacy Act 1998 (Cth) and the National Privacy Principles (“NPPs”). As an international company, we also abide by the _U.S. Department of Commerce Safe Harbor Program_ (“Safe Harbour provisions”).
+At Uglii we value the protection and security of your personal information. As an Australian company we are bound by the Privacy Act 1998 (Cth) and the National Privacy Principles (“NPPs”). As an international company, we also abide by the _U.S. Department of Commerce Safe Harbor Program_ (“Safe Harbour provisions”).
 
-SISS’s Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by SISS or on its behalf anytime you become involved with us, and our Global Partners, National Partners and Affiliates (“our representatives”).
+Uglii’s Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by Uglii or on its behalf anytime you become involved with us, and our Global Partners, National Partners and Affiliates (“our representatives”).
 
 Please take some time to carefully consider our information practices and how they might impact on you. We respect the privacy and confidentiality of your personal information.
 
@@ -70,13 +68,13 @@ We take your privacy very seriously. We will not sell or rent your personal info
 
 **Disclosure within our Group**
 
-To help us provide superior service, your personal information may be shared with legal entities within the SISS group globally who will take steps to safeguard it in accordance with our privacy policy.
+To help us provide superior service, your personal information may be shared with legal entities within the Uglii group globally who will take steps to safeguard it in accordance with our privacy policy.
 
 We may disclose your information to third parties such as our agents or contractors to provide you with our products and services. We have confidentiality clauses within our services agreements and/or confidentiality agreements with our third parties providers and suppliers to ensure our confidential information and your personal information are protected.
 
 **With our service providers, vendors, and strategic partners**
 
-There are also times when it may be advantageous for SISS to make certain personal information about you available to companies that SISS has a strategic relationship with or that perform work for SISS to provide products and services to you on our behalf. These companies are also obligated to protect your personal information in accordance with SISS’s policies, or have similar privacy protection policies, except if we inform you otherwise at the time of collection.
+There are also times when it may be advantageous for Uglii to make certain personal information about you available to companies that Uglii has a strategic relationship with or that perform work for Uglii to provide products and services to you on our behalf. These companies are also obligated to protect your personal information in accordance with Uglii’s policies, or have similar privacy protection policies, except if we inform you otherwise at the time of collection.
 
 **Disclosure for Legal Reasons**
 
@@ -86,15 +84,15 @@ We may also disclose information about you if we determine that for national sec
 
 **Publicly displayed information is public**
 
-##### If you use a bulletin board or chat room on an SISS or Uglii website you should be aware that any information you submit to these forums:
+##### If you use a bulletin board or chat room on an Uglii or Uglii website you should be aware that any information you submit to these forums:
 
   * is visible to other users.
   * can be read, collected, or used by other individuals to send you unsolicited messages.
-  * may be collected by others (including SISS) and made publically available.
+  * may be collected by others (including Uglii) and made publically available.
 
 
 
-SISS is not responsible for the personally identifiable information you choose to submit in these forums.
+Uglii is not responsible for the personally identifiable information you choose to submit in these forums.
 
 ### Integrity of your personal information
 
@@ -106,7 +104,7 @@ We want to ensure that your personal information is complete, accurate and up-to
 
 We store personal information electronically, paper-based files and other recording methods.
 
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate to enable the use of the information in accordance with SISS’ Privacy Policy.
+Information that we collect may be stored and processed in and transferred between any of the countries in which we operate to enable the use of the information in accordance with Uglii’ Privacy Policy.
 
 In addition, personal information that you submit for publication on this website will be published on the internet and may be available around the world.
 
@@ -134,7 +132,7 @@ Whether your personal information is from or is disclosed outside Australia, we 
 
 We also abide by the safe harbour framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union. The following link provides more information about the _U.S. Department of Commerce Safe Harbor Program._
 
-Our website has links to the sites of other companies. SISS is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
+Our website has links to the sites of other companies. Uglii is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
 
 ### Cookies and other technologies
 
@@ -148,7 +146,7 @@ We also use cookies and other technologies to make sure that our online advertis
 
 We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. We also use cookies to customise your experience and provide greater convenience each time you interact with us.
 
-If, however, you prefer not to enable cookies, you can configure your web browsers to refuse to accept cookies, however, this may mean you may not be able to make full use of our website as certain features of the SISS website will not be available once cookies are disabled.
+If, however, you prefer not to enable cookies, you can configure your web browsers to refuse to accept cookies, however, this may mean you may not be able to make full use of our website as certain features of the Uglii website will not be available once cookies are disabled.
 
 **Log files**
 
@@ -158,7 +156,7 @@ We use this information, which does not identify individual users, to analyse tr
 
 **Click-through URL**
 
-In some of our email messages we use a “click-through URL” linked to content on the SISS website. When customers click one of these URLs, they pass through our web server before arriving at the destination web page. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email.
+In some of our email messages we use a “click-through URL” linked to content on the Uglii website. When customers click one of these URLs, they pass through our web server before arriving at the destination web page. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked simply avoid clicking text or graphic links in the email.
 
 **Pixel Tags**
 
