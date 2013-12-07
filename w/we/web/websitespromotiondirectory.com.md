@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitespromotiondirectory.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601055648id_/http%3A//websitespromotiondirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitespromotiondirectory.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207135701id_/http%3A//websitespromotiondirectory.com/privacy.php) for the most accurate reproduction.*
 
 # -
 
