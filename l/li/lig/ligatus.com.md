@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ligatus.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601084905id_/http%3A//www.ligatus.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ligatus.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207015719id_/http%3A//www.ligatus.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Ligatus Privacy Policy
 
