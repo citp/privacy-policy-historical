@@ -1,32 +1,8 @@
-> *The following text is extracted and transformed from the zomex.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620165556id_/http%3A//www.zomex.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zomex.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207233045id_/http%3A//www.zomex.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Zomex Privacy Policy ~ Details About The Steps We Take To Protect Our Clients/Visitors Personal Information
 
 Your privacy is very important to us, below explains the information we collect from you, what we do with that information and our information security policy.
-
-## Table Of Contents
-
-  * Your Information
-  * How your Information Is used
-  * Cookies
-  * Log files
-  * Surveys
-
-
-  * Communications from the site
-  * Newsletter
-  * Information sharing and disclosure
-  * Personally Identifiable Information
-  * How you can access/correct your Information
-
-
-  * Specific terms and conditions
-  * Legal disclaimer
-  * Security
-  * Links to other sites
-  * Changes to this privacy statement
-
-
 
 ## Your Information
 
@@ -88,7 +64,7 @@ Zomex does not share, sell, rent, or trade personally identifiable information w
 
 ## How you can access/correct your Information
 
-You can access all your personally identifiable information that we collect by logging into your password-protected Zomex account and selecting to update your ÔøΩMy DetailsÔøΩ We use this procedure to better safeguard your information. You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+You can access all your personally identifiable information that we collect by logging into your password-protected Zomex account and selecting to update your 'My Details' We use this procedure to better safeguard your information. You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 ## Specific terms and conditions
 
@@ -108,4 +84,4 @@ This Web site contains links to other sites that are not owned or controlled by 
 
 ## Changes to this privacy statement
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. For more information please do not hesitate to email yours questions to privacy@zomex.com.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. For more information please do not hesitate to email yours questions to us.
