@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joerogan.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603093015id_/http%3A//www.joerogan.com/EditModule.aspx%3F%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joerogan.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207035847id_/http%3A//www.joerogan.com/EditModule.aspx%3F%26def%3DPrivacy) for the most accurate reproduction.*
 
 # Joe Rogan | ReMax West Reality | Privacy
 
