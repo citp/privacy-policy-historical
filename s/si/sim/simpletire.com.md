@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simpletire.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601154520id_/http%3A//simpletire.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletire.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207105038id_/http%3A//simpletire.com/pages/privacy) for the most accurate reproduction.*
 
-# Buy Tires Online for All Major Brands - Cheap Tires | SimpleTire.com
+# Cheap Tires Online | Find the Best Deals on Tires | SimpleTire.com
 
 SimpleTire is serious about protecting our customers’ personal information. You can always browse our site without providing any personal information.
 
