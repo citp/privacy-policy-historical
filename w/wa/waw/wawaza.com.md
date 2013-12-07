@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wawaza.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502094825id_/https%3A//wawaza.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wawaza.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207035240id_/https%3A//wawaza.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
-# WAWAZA - Privacy Policy
+# WAWAZA | Privacy Policy
 
 At WAWAZA your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices.
 
@@ -20,7 +20,7 @@ We use the information you provide about yourself when placing an order only to 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-**Our Commitment To Data Security**
+### **Our Commitment To Data Security**
 
 ****To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. These include measures such as SSL data encryption and server security scans.
 
@@ -31,5 +31,3 @@ Protecting the privacy of the very young is especially important to us. We do no
 ◊ ◊ ◊
 
 Updated November 15, 2012
-
-At WAWAZA.com your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices.
