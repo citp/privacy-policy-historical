@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thumbpress.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520215939id_/http%3A//thumbpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbpress.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207144950id_/http%3A//thumbpress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ThumbPress
+# Privacy Policy - ThumbPress
 
 **Thumb Press Privacy Policy**  
 The following privacy statement covers the Thumb Press Website. Please read this statement regarding our websites. If you have any questions or suggestions regarding our privacy policy, please [contact us](http://thumbpress.com/contact/).
