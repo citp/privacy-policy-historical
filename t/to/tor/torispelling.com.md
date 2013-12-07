@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the torispelling.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603174805id_/http%3A//torispelling.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torispelling.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207114710id_/http%3A//torispelling.com/privacy) for the most accurate reproduction.*
 
-# ediTORIal by Tori Spelling
+# privacy | ediTORIal by Tori Spelling
 
 This Policy was last changed on February 14, 2013
 
