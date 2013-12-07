@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xvidz69.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502123641id_/http%3A//xvidz69.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xvidz69.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207095455id_/http%3A//xvidz69.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
