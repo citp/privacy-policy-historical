@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbocad.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530124314id_/http%3A//turbocad.com/TurboCAD/tabid/63/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbocad.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207074009id_/http%3A//www.turbocad.com/TurboCAD/tabid/63/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # TurboCAD
 
