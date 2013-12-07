@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630050512id_/http%3A//www.liveperson.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207174216id_/http%3A//www.liveperson.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LivePerson | LivePerson
+
+## CallOut G.3 - A - Privacy Policy
 
 Welcome to the Liveperson.com Privacy Policy. This Privacy Policy applies to you if you are a visitor of LivePerson’s corporate website at [www.liveperson.com ](http://www.liveperson.com/). This Privacy Policy also applies to you when you visit LivePerson’s social media web pages located on third-party social media websites (“LivePerson-branded social media pages”). Visitors to LivePerson’s Website and visitors to LivePerson-branded web pages on social media websites are referred to in this policy as “you” or a “LivePerson Visitor”. “You” and “LivePerson Visitor” also refers to users who communicate with LivePerson directly using LivePerson’s communication technology or other engagement technology or services (“LivePerson’s engagement technology”). This Privacy Policy applies regardless of whether you are using a computer, a mobile device or other device.
 
@@ -95,3 +97,7 @@ We recommend that you review this policy periodically, as we may update it from 
 **_Pixel tags_** are small graphic images that are embedded in a web page or email for purposes of tracking activity on web pages or whether a user has opened or accessed an email. A pixel tag may be set to identify on what browser and computer it was viewed, whether that browser has cookies received from a server associated with the pixel tag, and whether the web page or email with the pixel tag was forwarded or copied.
 
 **_Web browser_** is a software program that allows a user to access, retrieve and view information on the World Wide Web. Examples of browsers include Internet Explorer, FireFox, Google Chrome and Safari.
+
+## CallOut G.3 - B - Expert Privacy Policy
+
+## CallOut_G.3-C_customer-website-privacy
