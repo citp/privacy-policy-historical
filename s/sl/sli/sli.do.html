@@ -1,0 +1,589 @@
+<!--The following is the downloaded HTML source of the sli.do privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207011838id_/http%3A//www.sli.do/terms-policy%23pp) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <script async="" charset="utf-8" src="//v2.zopim.com/?1cUYFLoXPOdYXIX8R9HiDBjaf4McAeHC" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=55311818659"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Terms of Service &amp; Privacy Policy | sli.do - make your event more interactive</title>
+    <meta name="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="At meetings and conferences - increase your audience engagement and satisfaction, while gaining priceless business insights in the process.">
+<meta name="keywords" content="Instando, web app, interactive wall, audience, speaker, interaction, interactive, questions, answers, polls, presentations, events, conferences, instant feedback">
+    <!-- Le styles -->
+    <link href="//d3hlhcubnn13hv.cloudfront.net/min/index.php?f=/vendor/bootstrap/css/bootstrap.min.css,/vendor/bootstrap/css/bootstrap-responsive.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/themes/smoothness/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Ubuntu:400,700" media="screen" rel="stylesheet" type="text/css">
+<link href="//code.jquery.com/mobile/1.3.0/jquery.mobile-1.3.0.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//d3hlhcubnn13hv.cloudfront.net/min/index.php?f=/css/style.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/slido.css?v20131127" media="screen" rel="stylesheet" type="text/css">
+<link href="//d3hlhcubnn13hv.cloudfront.net/min/index.php?f=/vendor/font-awesome/css/font-awesome.min.css" media="" rel="stylesheet" type="text/css">
+<link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">    
+    <!-- Scripts -->
+    
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+
+    <script type="text/javascript" src="//d3hlhcubnn13hv.cloudfront.net/min/index.php?f=/jscripts/underscore-min.js,/vendor/jquery-placeholder/jquery.placeholder.js,/vendor/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+    //<!--
+                    (function() {
+                    var method;
+                    var noop = function () {};
+                    var methods = [
+                        'assert', 'clear', 'count', 'debug', 'dir', 'dirxml', 'error',
+                        'exception', 'group', 'groupCollapsed', 'groupEnd', 'info', 'log',
+                        'markTimeline', 'profile', 'profileEnd', 'table', 'time', 'timeEnd',
+                        'timeStamp', 'trace', 'warn'
+                    ];
+                    var length = methods.length;
+                    var console = (window.console = window.console || {});
+
+                    while (length--) {
+                        method = methods[length];
+                        console[method] = noop;
+                    }
+                }());    //-->
+</script>    <script type="text/javascript">
+        function sendForm(form) {
+            $('input[type="submit"]', form).attr('value', 'Sending...').attr('disabled',true);
+            $('#slido-signModal .errors').html('');
+            $.ajax({
+                url: form.action,
+                type: 'POST',
+                data: $(form).serialize(),
+                success: function(data) {
+                    $('#slido-signModal').modal('hide');
+                    $('#slido-signModalComplete').modal('show');
+                },
+                error: function(data) {
+                    try {
+                        var err = JSON.parse(data.responseText);
+                        for(i in err) {
+                            if(i=='mail') {
+                                $('#slido-signModal .input_mail').addClass('error');
+                            }
+                            for(e in err[i]) {
+                                $('#slido-signModal .errors').append('<li>'+err[i][e]+'</li>');
+                            }
+                        }
+                    }
+                    catch (e) {
+                        $('#slido-signModal .input_mail').addClass('error');
+                        $('#slido-signModal .errors').html('<li>An error occured. Please try again later.</li>');
+                    }
+                },
+                complete: function() {
+                    $('input[type="submit"]', form).attr('value', 'Sign up').removeAttr('disabled');
+                }
+            });
+        }
+
+        function sendContactMeForm(form) {
+            $('input[type="submit"]', form).attr('value', 'Sending...').attr('disabled',true);
+            $('#slido-contact-modal .alert-error').html('');
+            $.ajax({
+                url: form.action,
+                type: 'POST',
+                data: $(form).serialize(),
+                success: function(data) {
+                    $('#slido-contact-modal .alert-success').show();
+                    setTimeout(function (){
+                        form.reset()
+                        $('#slido-contact-modal .alert-success').hide();
+                        $('#slido-contact-modal').modal('hide');
+                     }, 1000);
+                },
+                error: function(data) {
+                    console.log(data)
+                    var err = JSON.parse(data.responseText);
+                    for(i in err) {
+                        if(i=='email') {
+                            $('#slido-contact-modal .alert-error').show();
+                            $('#slido-contact-modal .alert-error').append('E-mail address has wrong format.');
+                        }
+                    }
+                },
+                complete: function() {
+                    $('input[type="submit"]', form).attr('value', 'Send Email').removeAttr('disabled');
+                }
+            });
+        }
+
+        $(document).ready(function() {
+            //make current navigation item active
+            $('#header-nav a').each(function(i, e){
+                if((e.href.indexOf("modal") === -1) && (e.href.indexOf("Modal") === -1)) {
+                    var href = /^([^#]*)(#(.*))?$/.exec(e.href);
+                    var r1 = new RegExp("^"+href[1]+"$");
+                    var r2 = new RegExp("^"+href[1]+"#");
+                    if((r1.test(window.location.href)) || (r2.test(window.location.href))) {
+                        $(this).addClass('active');
+                    }
+                }
+            });
+
+            //modal windows mutual exclusion
+            $('div.modal').on('show', function(){
+                console.log('Hide other modals!');
+                $('div.modal').not('#'+$(this).attr('id')).modal('hide');
+            });
+
+        });
+
+        function loadSignIn(){
+            $.ajax({
+                url: '/login/',
+                type: 'POST',
+                data: {nolayout: true},
+                success: function(data) {
+                    $('#slido-signInModal .modal-body').html(data);
+                }
+            });
+        }
+
+        function loadSignUp(){
+            $.ajax({
+                url: '/user/register/',
+                type: 'POST',
+                data: {nolayout: true},
+                success: function(data) {
+                    $('#slido-signUpModal .modal-body').html(data);
+                    $('#slido-signUpModal *[data-toggle=tooltip]').tooltip();
+                }
+            });
+        }
+
+                window.onload = function(){
+            loadSignIn();
+            loadSignUp();
+        };
+            </script>
+</head>
+<body class="bg">
+    <div id="bg-header"></div>
+                <div id="bg-title"></div>
+    
+    <div id="container" data-role="page">
+        <div id="header" data-role="header">
+            <a href="/" id="logo"><h1>sli.do</h1></a>
+            <img src="//d3hlhcubnn13hv.cloudfront.net/images/slido/web-eta-logo.png" class="eta-logo">
+            <!-- classic menu for desktops and tablets -->
+            <div class="phone-hide" id="navbar">
+                <ul id="header-nav">
+                    <li><a id="a-features" href="/pricing">Pricing</a></li>
+                    <li><a id="a-features" href="/features">Features</a></li>
+                    <!-- <li><a id="a-features" href="/references">References</a></li> -->
+                    <li><a id="a-about-us" href="/about">Our team</a></li>
+                    <li><a id="a-contact" href="#slido-contact-modal" data-toggle="modal">Contact</a></li>
+                                        <li><a href="#slido-signInModal" data-toggle="modal" class="btn-metro-fresh nav-btn">Sign in</a></li>
+                                    </ul>
+            </div>
+
+            <!-- collapsed menu for mobile phones -->
+            <div class="navbar phone-only" id="navbar">
+                <div class="navbar-inner">
+                    <div class="container">
+
+                    <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </a>
+
+                    <!-- Everything you want hidden at 940px or less, place within here -->
+
+                    <div class="nav-collapse collapse">
+                        <ul id="header-nav" class="nav">
+                            <li><a id="a-features" href="/pricing">Pricing</a></li>
+                            <li><a id="a-features" href="/features">Features</a></li>
+                            <!-- <li><a id="a-features" href="/references">References</a></li> -->
+                            <li><a id="a-about-us" href="/about">Our team</a></li>
+                            <li><a id="a-contact" href="#slido-contact-modal" data-toggle="modal">Contact</a></li>
+                                                        <li><a href="#slido-signInModal" data-toggle="modal">Sign in</a></li>
+                                                    </ul>
+                    </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+        <div id="content" data-role="content">
+            <div id="content-main">
+                                    <div class="subpage-header content-pad">
+                        <h2 class="subpage">Terms of Service &amp; Privacy Policy</h2>
+                    </div>
+                    <div class="subpage-content">
+                
+                
+                <div id="terms">
+    <hr class="subpage">
+    <div class="box_shadow no-padding-tablet" style="width:85%; text-align: left; margin-top:-15px; margin-bottom: 50px; padding: 30px 40px; font-size:0.85em; overflow: hidden;">
+        <div style="color: #000; font-size:1.2em; text-align: center; font-weight: bold; text-decoration: none; cursor: pointer;">
+            Index:&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#ts">Terms of Service</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#pp">Privacy Policy</a>
+            <div id="separator" style="background: url(/images/separator.png) no-repeat center top; width: 100%; height: 45px; margin: 10px auto 0 auto;"></div>
+        </div>
+
+        <div style="color:#000">
+            <strong style="font-size:1.1em;"><a name="ts" style="text-decoration: none; color:#000;">Terms of Service</a></strong><br>
+            These Terms of Service are effective as of May 1, 2013.
+        </div>
+        <hr class="subpage2 no-margin-tablet" style="margin:0.8em -40px;">
+
+        By using sli.do on www.sli.do and other domains runned by Instando s.r.o. (“Sites”) you are agreeing to be bound be the following terms and conditions.<br>
+        <br>
+        <strong>Basic Terms</strong><br>
+            <ul>
+                <li>You must be 13 years or older to our sites.</li>
+                <li>You are responsible for the security of your account and must not abuse, harass, threaten, impersonate or intimidate other users using our sites</li>
+                <li>You may not use our sites for any illegal or unauthorized purpose. International users agree to comply with all local laws regarding online conduct and acceptable content.</li>
+                <li>You are solely responsible for your conduct and any personal information and other data you display on our sites. You must not knowingly create or submit false content or false information (personal information, feedbacks, etc.) on our sites.</li>
+                <li>You must not modify, adapt or hack our sites or modify another website so it falsely implies that it is associated with our sites.</li>
+                <li>You must not, using our sites, violate any laws in your jurisdiction</li>
+            </ul>
+        <br>
+        Violation of any of these agreements will result in the termination of all data and accounts violating the rules. While our services prohibit such conduct and content on our sites, you understand and agree we cannot be responsible for the content posted on our sites and you nonetheless may be exposed to such materials and that you use our sites and services at your own risk.<br>
+        <br>
+        <strong>General Conditions</strong><br>
+            <ul>
+                <li>We reserve the right to modify or terminate our sites for any reason, without notice at any time.</li>
+                <li>We reserve the right to edit or alter Terms of Service and Privacy Policy at any time. If the alterations constitute a material change to the Terms of Service or Privacy Policy, we will notify you on our sites (e.g. Blog). What constitutes a “material change” will be determined at our sole discretion, in good faith and using common sense and reasonable judgment. However it is your responsibility to be informed and follow the most current Terms of Service and Privacy Policy.</li>
+                <li>We reserve the right to refuse service to anyone for any reason at any time.</li>
+                <li>We may, but have no obligation to, remove content and accounts containing content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, obscene or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.</li>
+                <li>We are not responsible for the content posted on our sites, public can create or give feedback and view information on our sites at any time. Our service will allow user to deactivate accounts and feedbacks. Sites however, will not necessarily respond to the request for the total removal of all user information.</li>
+            </ul>
+        <br>
+        <strong>Copyright</strong><br>
+            <ul>
+                <li>We claim no intellectual property right over the material user provide to our sites. All information and materials uploaded remain yours. You can deactivate your accounts and feedbacks any time, such data will be not publicly visible, however we can use them according to the most recent Privacy Policy.</li>
+                <li>Information collected on our sites (questions, feedbacks, results) are intellectual property of Instando s.r.o. Users however has the right to deactivate these from his account. After the deactivation, we may still use such data following the most recent Privacy Policy.</li>
+                <li>We undertake to obey all relevant copyright laws. We will review all claims of copyright infringement received and remove content deemed to have been posted or distributed in violation of any such laws. To make a claim, please provide us with following:
+                    <ul>
+                        <li class="sml">a physical or electronic signature of the copyright owner or the person authorized to act on its behalf</li>
+                        <li class="sml">a description of the copyrighted work claimed to have been infringed</li>
+                        <li class="sml">a description of the infringing material and information reasonably sufficient to permit us to locate the material</li>
+                        <li class="sml">your contact information, including your address, telephone number and email</li>
+                        <li class="sml">a statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law</li>
+                        <li class="sml">a statement that the information in the notification is accurate and under the pains and penalties of perjury, that you are authorized to act on behalf of the copyright owner</li>
+                    </ul>
+                </li>
+            </ul>
+        <br><br>
+
+        <div style="color:#000">
+            <strong style="font-size:1.1em;"><a name="pp" style="text-decoration: none; color:#000;">Privacy Policy</a></strong><br>
+            This Privacy Policy is effective as of May 12, 2012.
+        </div>
+        <hr class="subpage2 no-margin-tablet" style="margin:0.8em -40px;">
+
+        Instando s.r.o.provides the Privacy Policy to inform users about policies and processes regarding the collection, use and disclosure of personally identifiable information received from users of sli.do on www.sli.do and other domains runned by Instando s.r.o. (“Sites”).<br>
+        <br>
+        <strong>What information do we collect?</strong><br>
+        We collect and process information from you when you create an event, interact with an event or register on our sites. You may be asked to enter details about you and your feedback in order to provide you better insights, however you may use our sites without it.<br>
+        <br>
+        <strong>Why do we need your information and how we use it?</strong><br>
+        We collect information from you in order to enhance your user experience, namely following:<br>
+            <ul>
+                <li>Personalize your experience and make using our sites easier and faster for you.</li>
+                <li>Provide you better insights</li>
+                <li>Improve our website and services based on your feedback.</li>
+            </ul>
+        <br>
+        <strong>How do we keep your information protected?</strong><br>
+        We store your data on our servers located within the European Union and United States. We implement a large palette of security measures in order to maintain the safety of your personal data when we collect and process them.<br>
+        <br>
+        Your private financial information (including the credit cards, social security numbers, financials, etc.) are transmitted via Secure Socket Layer (SSL) and encrypted to our database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. Such information will be stored for the time of your subscription and 60 days after the expiration.<br>
+        <br>
+        <strong>How do we use cookies?</strong><br>
+        We use cookies on our sites for two main reasons:<br>
+            <ol>
+                <li>In order to save your settings for future visits.</li>
+                <li>To store your interaction with our sites</li>
+            </ol>
+        <br>
+        We use the information collected using cookies to improve our sites and services. We may also contract with third party service providers in order to help us improve our business and services.<br>
+        <br>
+        <strong>Do we disclose information to third parties?</strong><br>
+        We do not sell, trade or otherwise transfer your personal information to third parties. We will only provide information about your interactions on our site with your specific approval. We may provide the information about feedbacks and results to trusted third parties with your consent, as long as those parties agree to keep this information confidential. This information is used mainly for improving of our services and for research purposes.<br>
+        <br>
+        We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. Non-personally identifiable information may be provided to other parties for marketing, advertising, or other uses.<br>
+        <br>
+        <strong>Other important notes</strong><br>
+        At our discretion, we may occasionally include or offer third party products or services on our sites. As these have separate and independent privacy policies, we have no responsibility and liability for the content and activities of these linked sites. However, we do our best to protect the integrity of our site and welcome any feedback about these sites and services.<br>
+        <br>
+        As we are in the compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our sites are directed to people who are at least 13 years old or older.<br>
+        <br>
+        This online privacy policy applies to information collected through our website only, therefore not to information collected offline.<br>
+        <br>
+        <strong>Your consent</strong><br>
+        By using our site, you consent to our web site privacy policy. The consent to provide the information about feedbacks and results to trusted third parties is given separately and you are able to switch it off in your profile settings.<br>
+        <br>
+        <strong>Changes to our Privacy Policy</strong><br>
+        If we decide to change our privacy policy, we will post those changes on this page.<br>
+        <br>
+
+        <div style="color:#000">
+            <strong style="font-size:1.1em;">Contact Us</strong><br>
+        </div>
+        <hr class="subpage2 no-margin-tablet" style="margin:0.8em -40px;">
+        Any questions about the Terms of Service, Privacy Policy or copyright claims can be sent to info@sli.do.
+    </div>
+</div>
+<style type="text/css">
+
+#terms li {
+    margin: 8px 0 0 15px;
+    padding-left: 15px;
+}
+
+#terms li.sml {
+    font-size: 0.8em;
+}
+</style>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+
+    
+    <div id="footer" data-role="footer">
+        <div class="content-pad footer-row">
+            <h2>Connect with us</h2>
+            <a href="http://www.twitter.com/slidoapp" target="_blank"><img class="soc-link" src="//d3hlhcubnn13hv.cloudfront.net/images/slido/new/soc-twitter.png" width="40" alt="Twitter"></a>
+            <a href="http://www.facebook.com/slidoapp" target="_blank"><img class="soc-link" src="//d3hlhcubnn13hv.cloudfront.net/images/slido/new/soc-facebook.png" width="40" alt="Facebook"></a>
+            <a href="http://plus.google.com/107195774849846075933/" target="_blank"><img class="soc-link" src="//d3hlhcubnn13hv.cloudfront.net/images/slido/new/soc-gplus.png" width="40" alt="Google plus"></a>
+            <a href="http://www.linkedin.com/company/3200091?trk=prof-0-ovw-curr_pos" target="_blank"><img class="soc-link" src="//d3hlhcubnn13hv.cloudfront.net/images/slido/new/soc-linkedin.png" width="40" alt="LinkedIn"></a>
+        </div>
+
+        <div class="content-pad footer-row">
+            <div class="footer-inner row-fluid">
+                <div class="span4">
+                    <h3>About us</h3>
+                    <ul>
+                        <li><a href="/about">Our team</a></li>
+                        <li><a href="http://blog.sli.do" target="_blank">Blog</a></li>
+                        <li><a href="#slido-contact-modal" data-toggle="modal">Contact us</a></li>
+                    </ul>
+                </div>
+                <div class="span4">
+                    <h3 title="About slido">About sli.do</h3>
+                    <ul>
+                        <li><a href="/pricing">Pricing</a></li>
+                        <li><a href="/features">Features</a></li>
+                        <!-- <li><a href="/references">References</a></li> -->
+                    </ul>
+                </div>
+                <div class="span4">
+                    <h3>Support</h3>
+                    <ul>
+                        <li><a href="/terms-policy#ts">Terms of service</a></li>
+                        <li><a href="/terms-policy#pp">Privacy policy</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <p style="margin-top: 25px;height: 50px;">Copyright © by sli.do s.r.o.</p>
+    </div>
+
+    <!-- Modal -->
+    <div id="slido-signModal" class="modal hide" tabindex="-1" role="dialog">
+        <div class="modal-header noborder">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        </div>
+        <div class="modal-body nopad" style="margin-top: -12px;">
+            <div class="user-log">
+                <h3>sli.do</h3>
+                <p class="modal-caption">
+                    <big>sign up to try it at your event!</big>
+                </p>
+                                <form method="post" id="form_signup" action="/mod/default/index/sign-up" onsubmit="sendForm(this); return false;">
+                    <div class="input_mail no-prepend" style="margin: 0 auto; background-color: #e1eff9;">
+                        
+<input type="text" name="email" id="email" value="" placeholder="@" maxlength="64">                    </div>
+                    <ul class="errors" style="margin: 10px auto; width: 205px;"></ul>
+                    
+<input type="submit" name="submitBtn" id="submitBtn" value="Sign up" class="btn-metro-fresh signup">                </form>
+            </div>
+        </div>
+        <div class="modal-footer shadowed" style="text-align: center;">
+            <p style="font-size:0.85em; color: #A0A0A0; margin: 0;">
+                Your email adress will be never shared with any 3rd parties and you will recieve only the type of content for which you signed up.
+            </p>
+        </div>
+    </div>
+
+    <div id="slido-signModalComplete" class="modal hide" tabindex="-1" role="dialog">
+        <div class="modal-header noborder">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        </div>
+        <div class="modal-body nopad" style="margin-top: -22px;">
+            <img src="//d3hlhcubnn13hv.cloudfront.net/images/slido-logo.png"><br>
+            <div style="margin:1em 0">
+                Thank you for signing-up.<br>
+                <strong>We will contact you soon.</strong>
+            </div>
+        </div>
+        <div class="modal-footer shadowed" style="text-align: center;">
+            <span class="blue">Your event wll be really awesome, tell the world about it!</span><br>
+
+            <div style="margin:1em 0">
+                <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.sli.do&amp;text=I have just signed up for @slidoapp beta. If you want to make your next event really awesome, join me at" onclick="
+                    window.open(
+                      this.href,
+                      'twitter-tweet-dialog',
+                      'width=626,height=436');
+                    return false;" target="_blank" class="btn-metro">Tweet</a>
+                &nbsp;&nbsp;
+                <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.sli.do" onclick="
+                    window.open(
+                      this.href,
+                      'facebook-share-dialog',
+                      'width=626,height=436');
+                    return false;" target="_blank" class="btn-metro">Share</a>
+            </div>
+            <img src="//d3hlhcubnn13hv.cloudfront.net/images/slido/new/download-thanks.gif">
+        </div>
+    </div>
+
+    <div id="slido-signInModal" class="modal hide" tabindex="-1" role="dialog">
+        <div class="modal-header noborder">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        </div>
+        <div class="modal-body nopad">
+            Loading... please wait.<br><br>
+        </div>
+    </div>
+
+    <div id="slido-signUpModal" class="modal hide" tabindex="-1" role="dialog">
+        <div class="modal-header noborder">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        </div>
+        <div class="modal-body nopad">
+            Loading... please wait.<br><br>
+        </div>
+    </div>
+
+    <div id="slido-contact-modal" class="modal hide" tabindex="-1" role="dialog">
+        <form method="post" id="email-slido" action="/mod/default/index/contact-me" onsubmit="sendContactMeForm(this); return false;">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <div class="row-fluid ceo" itemscope="" itemtype="http://data-vocabulary.org/Person">
+                    <img class="span3 ceo" src="//d3hlhcubnn13hv.cloudfront.net/images/slido/new/peter-komornik-slido.png">
+                    <h3 class="span9">If you think <span title="slido">sli.do</span> is right for your event, email me directly at
+                    <a href="mailto:pkomornik@sli.do" itemprop="email">pkomornik@sli.do</a><br>
+                    or call me at <span itemprop="telephone" style="display: inline-block;">+421 903 285 125</span>
+                    <span itemprop="jobTitle" style="display:none;">CEO</span>
+                    <span itemprop="givenName" style="display:none;">Peter</span>
+                    <span itemprop="familyName" style="display:none;">Komornik</span></h3>
+                </div>
+                <div class="row-fluid message">
+
+                </div>
+                                
+<input type="text" name="name" id="name" value="" placeholder="Name" maxlength="64" class="input-xlarge span10">                
+<input type="text" name="email" id="email" value="" placeholder="Email Address" maxlength="64" class="input-xlarge span10 offset1">                
+<textarea name="message" id="message" placeholder="Tell me about your event..." maxlength="2048" class="input-xlarge span10 offset1" rows="5" cols="80"></textarea>            </div>
+            <div class="modal-footer">
+                <a class="signupcancel" data-dismiss="modal">Cancel</a>
+                <div class="alert alert-error"></div>
+                <div class="alert alert-success" style="display: none;">Thanks! Your email has been sent.</div>
+                
+<input type="submit" name="submitBtn" id="submitBtn" value="Send Email" class="signupsubmit">            </div>
+        </form>
+    </div>
+
+    <script type="text/javascript">
+        /* BROWSER UPDATE */
+        var $buoop = {
+            vs:{i:8,f:3.6,o:10.6,s:4,n:9},
+            reminder: 0,
+            newwindow: true
+        }
+        $buoop.ol = window.onload;
+        window.onload=function(){
+            try {if ($buoop.ol) $buoop.ol();}catch (e) {}
+            var e = document.createElement("script");
+            e.setAttribute("type", "text/javascript");
+            e.setAttribute("src", "//browser-update.org/update.js");
+            document.body.appendChild(e);
+        }
+    </script>
+
+
+        <!-- ANALYTICS -->
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31679562-2']);
+  _gaq.push(['_setDomainName', 'www.sli.do']);
+  _gaq.push(['_setCustomVar',
+      1,             // This custom var is set to slot #1.  Required parameter.
+      'User Logged',   // The name of the custom variable.  Required parameter.
+      'no',      // Sets the value of "User Type" to "Member" or "Visitor" depending on status.  Required parameter.
+       2             // Sets the scope to session-level.  Optional parameter.
+   ]);
+ 
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  
+  // disable tracking for non production mode
+  window['ga-disable-UA-31679562-2'] = false;
+</script>    <script>
+        _gaq.push(['_trackPageview']);
+    </script>
+    
+    <!--Optimizely-->
+    <script src="//cdn.optimizely.com/js/171997490.js"></script>
+
+    <!-- Facebook like -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=55311818659";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <!-- Twitter follow -->
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <!-- FB conversions -->
+    <script type="text/javascript">
+    var fb_param = {};
+    fb_param.pixel_id = '6008847709958';
+    fb_param.value = '0.00';
+    fb_param.currency = 'USD';
+    (function(){
+      var fpw = document.createElement('script');
+      fpw.async = true;
+      fpw.src = '//connect.facebook.net/en_US/fp.js';
+      var ref = document.getElementsByTagName('script')[0];
+      ref.parentNode.insertBefore(fpw, ref);
+    })();
+    </script>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6008847709958&amp;value=0&amp;currency=USD" /></noscript>
+
+
+    <!--Start of Zopim Live Chat Script-->
+        <script type="text/javascript">
+        window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+            d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+            _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+            $.src='//v2.zopim.com/?1cUYFLoXPOdYXIX8R9HiDBjaf4McAeHC';z.t=+new Date;$.
+                type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+
+            </script>
+        <!--End of Zopim Live Chat Script-->
+
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-5.newrelic.com","d71807e309","1632454","bwNRZRZZWEJUU0BfW1ZJclIQUVlfGlRRUFVNCkceDVZSVE0fQFNGVRUeQQtUX1JM",0,328,new Date().getTime(),"","","","",""]);</script>
+
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script><script type="text/javascript" src="//browser-update.org/update.js"></script></body></html>
