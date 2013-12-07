@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607022043id_/http%3A//borland.com/about/legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207053258id_/http%3A//www.borland.com/about/legal/Privacy.aspx) for the most accurate reproduction.*
 
-# Open & Agile Requirement, Test & Change Management solutions - Borland
+# Privacy Policy
 
 ## (Effective Date: November 24, 2009)
 
