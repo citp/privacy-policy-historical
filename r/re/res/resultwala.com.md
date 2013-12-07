@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the resultwala.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607023925id_/http%3A//www.resultwala.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultwala.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207062518id_/http%3A//www.resultwala.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Resultwala
+
+[](http://www.hupso.com/share/)
 
 This Privacy Policy governs the manner in which Resultwala collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://resultwala.com](http://resultwala.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Resultwala.
 
@@ -58,3 +60,9 @@ If you have any questions about this Privacy Policy, the practices of this site,
 resultwala@gmail.com
 
 This document was last updated on November 17, 2012
+
+[](http://www.hupso.com/share/)
+
+Advertisement
+
+[](http://jobwala.net/)
