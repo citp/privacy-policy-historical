@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdnpost.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502171252id_/http%3A//tdnpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdnpost.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207045251id_/http%3A//www.tdnpost.com/privacy) for the most accurate reproduction.*
 
 # privacy - TDNPost
 
