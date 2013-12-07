@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todoist.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501141243id_/http%3A//todoist.com/Help/viewPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todoist.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207090513id_/https%3A//todoist.com/Help/viewPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Todoist collects the e-mail addresses of those who communicate with us via e-mai
 
 #### Information gathering and usage
 
-When registering for Todoist we ask for information such as your name and email address. For Todoist Premium we also store your PayPal email and mobile phone number. Your information is only used internally and won't shared with others. 
+When registering for Todoist we ask for information such as your name and email address. For Todoist Premium we also store your PayPal email and mobile phone number. Your information is only used internally and won't be shared with others. 
 
 #### Your data
 
