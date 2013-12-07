@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takeawayyourautomobile.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506031229id_/http%3A//takeawayyourautomobile.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takeawayyourautomobile.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207092256id_/http%3A//www.takeawayyourautomobile.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # takeawayyourautomobile.com » Privacy Policy
 
