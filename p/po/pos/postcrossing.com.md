@@ -1,55 +1,66 @@
-> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516052137id_/http%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207141602id_/http%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Postcrossing Privacy Policy
+#### Your personal information is important to us.
 
-  
+The Postcrossing Project recognises the importance of your privacy and that you have the right to know how your personal information is collected and used. We know that providing your personal information is an act of trust and we take that seriously. 
 
+Unless you give us consent to do otherwise, we only collect and use your personal information as explained in this Privacy Policy. 
 
-### Your personal information is important to us
+## Collected information
 
-The Postcrossing Project recognises the importance of your privacy and that you have the right to control how your personal information is collected and used. We know that providing your personal information is an act of trust and we take that seriously. Unless you directly give us consent to do otherwise, we will only collect and use your personal information as explained in this privacy policy. 
+The only personal information Postcrossing collects is the information provided by you at the time of [signup](https://web.archive.org/signup) and when you edit your [account](https://web.archive.org/edit/account) or [profile](https://web.archive.org/edit/profile). This information is used solely to fulfill and improve the postcard exchange goal of this website. 
 
-### Collected information
+We do **not** sell, share or make accessible your private information to any third party unless you give us consent or if we are required to do so by law. 
 
-We will not collect or monitor any personal information without your consent. The only personal information we collect is the information provided by you at the time of signup and whenever you edit your account or profile. We also record the IP Address with which you access the website. This information will only be used to fulfill the postcard exchange goal of the website and to improve the content of the website. 
+Postal address
+     Your postal address is only used for the postcard exchanges as explained in the [About page](https://web.archive.org/about). In other words, only Postcrossing and those selected to send you a postcard have access to your address. 
+Email address
+     We use your email address for the purpose of contacting you or notifying you of your activity in Postcrossing. We may periodically email you a newsletter with news and updates related to Postcrossing, or statistics about your account usage. You can choose not to receive our newsletter/statistics emails as well as other notification emails by selecting the appropriate options in [your account](https://web.archive.org/edit/account). 
+IP Address and browser
+     We may also collect the IP Address and browser information with which you access the website. We use these to improve your usage experience (for example, by pre-filling your country in forms) and also to improve the website for the community who uses it. 
+Website usage data
+     We collect website usage data whenever you interact with our services. Like most websites today, our web servers keep log files that record data each time a device accesses those servers. The log files contain data about the nature of each access, including originating IP addresses. We use these log files for purposes such as system administration and maintenance, record keeping, tracking referring web sites and for security purposes (e.g. controlling abuse, spam and DDOS attacks). This website and its data is hosted in servers located physically in the U.S.A. 
+Other data you intentionally share
+     We may collect other information or data that you intentionally share. For example, if you provide us with a testimonial, write a blog comment or leave postcard comment for others to see. 
 
-The postal address you supply to us will only be used for the postcard exchange as explained in the "[About](https://web.archive.org/about)" page. At any moment, you are free to stop using Postcrossing and, if you so wish, to [remove your account](https://web.archive.org/removal). 
+Please note that if you contact us, we may maintain a record of the history of the communication. 
 
-We will use your email address only for the purpose of notifying you of events related with the exchange of postcards. We may also periodically email you a newsletter with news and updates about the website, or statistics about your account usage that are relevant to you. You can choose not to receive our newsletter/statistics emails by unchecking the appropriate options in your account.
+At any moment, you are free to stop using Postcrossing and, if you so wish, to [terminate your account](https://web.archive.org/terminate). 
 
-If you contact us, we may maintain a record of the history of the entire communication.
+## Children under the age of 13
 
-### Children under the age of 13
+Users under the age of 13 are only allowed to use Postcrossing when under the supervision of an adult and due consent of a parent or legal guardian. We believe children can learn a great deal with Postcrossing, but like with any other website, their online habits should be monitored closely by an adult. 
 
-Users under the age of 13 are allowed to use Postcrossing only under the supervision of an adult and due consent of a parent or legal guardian. We believe children can learn a great deal with Postcrossing, but like with any other website, their online habits should be monitored closely by an adult.
+## Cookies
 
-### Cookies
+[Cookies](http://en.wikipedia.org/wiki/HTTP_cookie) are pieces of data stored in a user's computer. Postcrossing uses cookies to store session information which is required for the normal functioning of the website. You can, at your discretion, delete the stored cookies from your computer. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you won't be able to login into your Postcrossing account and other functionalities of the website might not be available. 
 
-With respect to cookies: cookies are pieces of data stored in a user's computer. Postcrossing uses cookies to store session information which is required for the normal functioning of the website. Users can, at their discretion, delete the stored cookies from their computers. 
+## Ads
 
-### Ads
+To try and bring you offers that are of interest to you and to support the website, we have relationships with third parties whom we allow to place ads on our website. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, please consult [Google Ads Privacy Policy](http://www.google.com/privacy_ads.html). 
 
-With respect to Ad Servers: to try and bring you offers that are of interest to you, we have relationships with third parties whom we allow to place ads on our website. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:   
-[Google Ads Privacy Policy](http://www.google.com/privacy_ads.html)
+## Analytics
 
-### Analytics
+This website uses [Google Analytics](http://www.google.com/analytics/), a web analytics service by Google, Inc. Google Analytics uses cookies, to help the website analyze how visitors use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the U.S.A. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for Postcrossing's website operators and providing other services relating to website activity and internet usage. 
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics uses cookies, to help the website analyze how visitors use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for Postcrossing's website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. 
 
-### Facebook
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
 
-Postcrossing includes a Facebook App which allows you to easily publish to your Facebook account certain actions you do in Postcrossing (eg: sending or receiving a postcard). The publishing of these Postcrossing actions to Facebook is optional and always requires the explicit confirmation by you, the user. We will not publish a Postcrossing action to your Facebook account without your permission. Please check [Facebook's Privacy Policy](https://www.facebook.com/about/privacy/) page for more information about Facebook and Facebook apps. 
+Please check [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html) page to learn more about this service. 
 
-### Updates
+## Facebook
+
+Postcrossing offers a Facebook app which allows you to easily publish to your Facebook account certain actions you do in Postcrossing (eg: sending or receiving a postcard). The publishing of these Postcrossing actions to Facebook is optional and always requires the explicit confirmation by you, the user. We do not publish any Postcrossing action to your Facebook account without your permission. Please check [Facebook's Privacy Policy](https://www.facebook.com/about/privacy/) page for more information about Facebook and Facebook apps. 
+
+## Updates
 
 If our information practices should change at some time in the future, we will post the policy changes to our website to notify you of these changes. If you are concerned about how your information is used, check back at our website periodically. 
 
-### Questions?
+## Questions?
 
-We can be reached via our [contact form](https://web.archive.org/contact) at any time.
+If you have any questions that are not answered in this Privacy Policy or on our [F.A.Q.](https://web.archive.org/help), you can reach us through our [contact form](https://web.archive.org/contact) at any time.
 
-If you feel that this site is not following its privacy policy, you may contact us using the form above. 
-
-Postcrossing Project © Copyright 2004-2013 by Paulo Magalhães 
+If you feel that this website is not following its Privacy Policy, please [contact us](https://web.archive.org/contact). 
