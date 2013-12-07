@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the socialappshq.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520124723id_/http%3A//socialappshq.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialappshq.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207014336id_/http%3A//www.socialappshq.com/home/privacy) for the most accurate reproduction.*
 
 # Social Media Marketing Made Really Simple - SocialAppsHQ
 
 Last Updated: Jan 1, 2011
 
-Your privacy is important to Shimply, Inc. (DBA SocialAppsHQ). This privacy policy ("Policy") applies to the SocialAppsHQ Web sites ("Sites") and SocialAppsHQ applications such as those built on popular social networking sites ("Applications"). This Policy explains how your personal information is collected, used, and disclosed by SocialAppsHQ.
+Your privacy is important to Shimply Software Pvt. Ltd., Inc. (DBA SocialAppsHQ). This privacy policy ("Policy") applies to the SocialAppsHQ Web sites ("Sites") and SocialAppsHQ applications such as those built on popular social networking sites ("Applications"). This Policy explains how your personal information is collected, used, and disclosed by SocialAppsHQ.
 
 **PERSONAL INFORMATION COLLECTED**  
 We collect information from you in various ways when you use our Sites and Applications. We may collect personal information you directly provide on our Sites. In addition, we may collect personal information from you as a user of our Applications. Information we may collect includes name and email address, demographic information such as gender, education, birth date, preferences, and interests, and any other information requested from you. We may supplement this information with information collected from other companies.
