@@ -1,23 +1,39 @@
-> *The following text is extracted and transformed from the visualrecipes.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214212047id_/http%3A//visualrecipes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualrecipes.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207125108id_/http%3A//visualrecipes.com/privacy) for the most accurate reproduction.*
 
-# Visual Recipes Free Registration
+# Privacy Policy | Visual Recipes
 
-**Privacy Policy**
+[Home](https://web.archive.org/) > Privacy Policy
 
-The privacy of our visitors to visualrecipes.com is important to us.
+Effective Date: January 15, 2009
 
-At visualrecipes.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit visualrecipes.com, and how we safeguard your information. We never sell your personal information to third parties.
+Pixel Owl, LLC (hereinafter “Visual”) adopts this Privacy Policy to provide you with information on how Visual collects and treats your personal or personally identifiable information, including but not limited to your email address, IP address, usage statistics, name, photographs, logos, avatars, location information, and any other information you voluntarily provide (hereinafter “Personal Information”) when you visit or use the Website. This Privacy Policy does not apply to individuals or entities that are not under the actual control of Visual.
 
- **Log Files**
+**1\. Collection and Use of Personal Information.** Visual may collect Personal Information when you use the Website. Visual uses your Personal Information to help you register a user account, to verify and activate your user account, to communicate with you, to provide you with services and support, to provide you with Visual’s newsletter or Contest information, to tailor your experience of the Website, and to update you on Visual’s services and benefits. This Personal Information may include your email address, your name, your IP address, usage statistics, your sex or gender, your physical location, and other information.
 
-Like many other Web sites, visualrecipes.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+You agree that Visual is allowed to use your email address, however obtained, to communicate with you, to provide you with support, to provide you with Visual’s newsletter or Contest information, and to update you on our services. By submitting your Personal Information to Visual, you agree that Visual may contact you.
 
- **Cookies and Web Beacons**
+Visual may collect data about your use of the Website that is not associated with your specific personal identity. Visual may log your IP address when you use the Website or collect other information via cookies to evaluate how you use the Website in order to tailor the Website according to your preferences.
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include the ability to login to some of our features, such as forums.
+**2\. Sharing and Disclosure of Your Personal Information.** Visual will not transfer, sell, lease, or rent your Personal Information to any individual, business, or government entity, except to respond to duly authorized information requests by government authorities, comply with any law, regulation, subpoena, or court order, help prevent fraud or to enforce or protect Visual’s rights or properties, or to protect the personal safety of Visual’s employees and third parties on Visual’s property. Visual warrants that it will comply with all applicable state and federal laws concerning the transfer of personal information.
 
-We also use third party advertisements on visualrecipes.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing Florida based restaurants ads to someone in Florida, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+**3\. Personal Information and Opt-Out.** Visual does not use your Personal Information for advertisements by third parties; however, third party advertisers that advertise on the Website may collect information from and store information in cookies, web beacons, pixel tags, or clear GIFs located on your computer or the Website. You understand and agree that Visual is not responsible for any use of your personal information by a third-party advertiser, including a third-party advertiser’s use of cookies, web beacons, pixel tags, or clear GIFs. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [networkadvertising.org](http://www.networkadvertising.org/). Visual may use your Personal Information, including your email address and any communications sent from that address, consistent with the provisions outlined above.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+You are permitted to opt-out of communications from Visual through your user account control panel.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+**4\. Visual’s Sale or Purchase of a Business Unit or Subsidiary.** If Visual acquires or sells a business unit or subsidiary, including but not limited to the complete sale of the Website to a third party, your Personal Information may be transferred to a third party. If this occurs, your Personal Information will continue to be used consistent with the terms of this Privacy Policy.
+
+**5\. User Accounts.** Visual may provide you with a username and password to access or use certain components of the Website or to participate in Contests. If Visual assigns you a username and password, you have the ability to edit your Personal Information at any time. You may also request, in writing, that Visual cancel your user account. Visual will not share your user account information with another individual, business, or government entity except as otherwise provided in this Agreement.
+
+Visual, through the use of third-party application programming interfaces (APIs), may provide you with the ability to authenticate your identity through a third-party service in order to access or use certain components of the Website. These third party authentication or access control systems may provide Visual with access to content or information that you have provided to third party services. You understand and agree that Visual is not responsible for your use of third-party user authentication or access control systems and that your relationship with those systems are governed by their own terms of use agreements and privacy policies.
+
+**6\. Protection of Your Personal Information.** All user accounts must be access with usernames and passwords. You are advised not to share any unnecessary Personal Information, including your username and password, with any other person or entity.
+
+**7\. Integrity of Personal Information.** You are responsible for ensuring that your Personal Information is accurate, complete, current, and relevant. You have an ongoing duty to inform Visual of any changes in your Personal Information.
+
+**8\. Changes and Amendments.** Visual reserves the right to amend or change this Privacy Policy at any time. If Visual changes or amends this Privacy Policy, the Effective Date of the Privacy Policy will change.
+
+**9\. Contact.** You may direct all questions and concerns regarding this Privacy Policy to Visual by emailing [help@visualrecipes.com](mailto:help@visualrecipes.com) . You may also contact Visual in writing at:
+
+Visualrecipes.com  
+P.O. Box 240474  
+St. Paul, MN 55124-0474
