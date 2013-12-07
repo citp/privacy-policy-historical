@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torontosun.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513220541id_/http%3A//www.torontosun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torontosun.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207192521id_/http%3A//www.torontosun.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Toronto Sun
 
@@ -82,7 +82,7 @@ The Toronto Sun also accepts letters to the editor. When you send a letter to th
 
 We will honour any request you may make to have access to or review your personal information that we have obtained as referred to above. 
 
-If you have any questions or concerns about our privacy practices or you do not wish to allow us to use your personal information in any manner discussed above you may call 416-947-2304 or contact us in writing at the following address: 
+If you have any questions or concerns about our privacy practices or you do not wish to allow us to use your personal information in any manner discussed above you may call 416-947-3100 or contact us in writing at the following address: 
 
 Toronto Sun Privacy Officer  
 333 King Street East  
