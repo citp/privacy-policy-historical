@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponnetwork.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623021505id_/http%3A//support.catalinamarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponnetwork.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207161831id_/http%3A//support.catalinamarketing.com/privacy) for the most accurate reproduction.*
 
 # CouponNetwork.com Privacy Policy | Consumer Support
 
