@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbcconnecticut.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425072038id_/http%3A//www.nbcconnecticut.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcconnecticut.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207080046id_/http%3A//www.nbcconnecticut.com/privacy) for the most accurate reproduction.*
 
 # | NBC Connecticut
 
