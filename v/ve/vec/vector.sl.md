@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vector.sl privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622001334id_/http%3A//vector.sl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vector.sl privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207041659id_/http%3A//vector.sl/privacy) for the most accurate reproduction.*
 
 # Success-Line
-
-[](http://vector.sl/media/print/en/privacy.pdf)
 
 ### Privacy policy
 
