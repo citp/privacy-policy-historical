@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coop.com.au privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527005520id_/http%3A//www.coop.com.au/bookshop/html/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coop.com.au privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207024920id_/http%3A//www.coop.com.au/bookshop/html/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Co-op Online Bookshop
 
-This Privacy Policy applies to The University Co-operative Bookshop Limited trading as The Co-op ( **The Co-op** ) and each of its related bodies corporate (as defined in the Corporations Act 2001 (Cth)), who are collectively referred to as “the Co-op”, “we” or “us”. Our contact details are:
+This Privacy Policy applies to The University Co-operative Bookshop Limited trading as The Co-op (The Co-op) and each of its related bodies corporate (as defined in the Corporations Act 2001 (Cth)), who are collectively referred to as "the Co-op", "we” or "us". Our contact details are:
 
 **Postal Address:**  
 PO Box 54  
@@ -15,7 +15,7 @@ AUSTRALIA
 
 ### General
 
-We understand that the details you provide us are private and personal, and we respect your right to privacy under the Privacy Act 1988 (Cth) ( **Privacy Act** ). It is important that you feel secure whenever you deal with us. It is also important that you understand how we protect your privacy, as well as how, when and where we may use your details. This Privacy Policy is our commitment to you for the treatment of your privacy. The Co-op is subject to the National Privacy Principles under the Privacy Act and we will protect and treat your personal information in accordance with those principles.
+We understand that the details you provide us are private and personal, and we respect your right to privacy under the Privacy Act 1988 (Cth) (Privacy Act). It is important that you feel secure whenever you deal with us. It is also important that you understand how we protect your privacy, as well as how, when and where we may use your details. This Privacy Policy is our commitment to you for the treatment of your privacy. The Co-op is subject to the National Privacy Principles under the Privacy Act and we will protect and treat your personal information in accordance with those principles.
 
 ### Data Collection
 
@@ -25,13 +25,12 @@ When you become a registered user of the Co-op website (Site), or when you becom
 
 On the Site we invite you to: 
 
-  * set up a membership of the Site;
+  * set up a membership of the Co-op;
   * register and shop with us on the Site;
-  * select your contact preferences for notices from the Co-op (whether by media, email, SMS, SMS voucher, mail or app notification);
   * view products from participating vendors;
-  * subscribe to the Co-op 's email newsletters;
-  * submit your resume to us for consideration of job vacancies or employment purposes (If you submit your resume to us, we will keep it in a database for consideration of particular jobs that arise within the Co-op ); or
-  * tell us about your shopping experiences at the Co-op by completing a customer service survey.
+  * submit your resume to us for consideration of job vacancies or employment purposes (If you submit your resume to us, we will keep it in a database for consideration of particular jobs that arise within the Co-op ); **or**
+  * tell us about your shopping experiences at the Co-op by completing a customer service survey;
+  * tell us about your current study or employment situation and circumstances
 
 
 
@@ -39,7 +38,7 @@ On the Site we invite you to:
 
 The information that we ask for is generally used to provide goods and services to you. While we do not generally disclose personal information to third parties, we may need to disclose personal information to persons who perform services for us to enable us to provide the goods and services to you (e.g. carriers). Those parties are required to comply with the Privacy Act. We will not use or disclose any personal information that we collect about you other than for the purpose for which you have given it to us, as set out in this Privacy Policy, or as disclosed to you at the time we collect the information. If the information will be disclosed or used for other purposes, we will take reasonable steps to obtain your prior consent. 
 
-We may also contact you about products and services in which we believe you may be interested. When we contact you in this manner without your prior consent, we will provide you with an opportunity to opt out of any further similar communications from us. 
+We may also contact you about products and services in which we believe you may be interested. When we contact you in this manner, we will provide you with an opportunity to opt out of any further similar communications from us. 
 
 #### Privacy and the Site
 
@@ -47,7 +46,7 @@ If you visit the Site, we may also collect the following information during your
 
   * the date and time you accessed each page on the Site;
   * the URL of any webpage from which you accessed the Site;
-  * cookies which track your visits to the Site; and
+  * cookies which track your visits to the Site; **and**
   * the web browser that you are using and the pages you accessed.
 
 
@@ -56,16 +55,16 @@ If you visit the Site, we may also collect the following information during your
 
 You will only be contacted by the Co-op Bookshop if: 
 
-  * you register or become a member of the Co-op via the Site;
+  * you register, purchase or become a member of the Co-op via the Site or in-store;
   * you purchase a product or service via the Site, in which case we will send a purchase confirmation email or purchase confirmation SMS;
   * you register with the Co-op to receive relevant information of our latest offers, current promotions and specials;
   * a friend nominates you to receive a page from the Site. The email will be sent to you on behalf of your friend. You will not receive subsequent e-mail from us, because the Co-op will not record your e-mail address;
-  * you request information about our services when you choose to contact us. Unless we receive your prior consent, you will not be added to a mailing list of any kind and will only receive e-mail in the matter that you have contacted us about; or
+  * you request information about our services when you choose to contact us. Unless we receive your prior consent, you will not be added to a mailing list of any kind and will only receive e-mail in the matter that you have contacted us about; **or**
   * you provide your details and request that we contact you when you send us your resume or when you complete our customer service survey.
 
 
 
-If you have subscribed to receive notifications from us, we may keep you informed of the latest offers, current promotions and specials of the Co-op, and any Media Releases, Annual Reports and Financial Reports of the Co-op (which may be accessed on the Site) via email newsletters, mails, SMSs, SMS vouchers or app notifications. If you no longer wish to receive these communications, you may unsubscribe by logging onto the Site and deselecting your choices. 
+We will also keep you informed of the latest offers, current promotions and specials of the Co-op, and any Media Releases, Annual Reports and Financial Reports of the Co-op (which may be accessed on the Site) via email newsletters, mails, SMSs, SMS vouchers or app notifications. If you no longer wish to receive these communications, you may unsubscribe by logging onto the Site and deselecting your choices. 
 
 ### Accessing information
 
