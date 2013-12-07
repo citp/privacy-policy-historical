@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ojqj.com privacy policy that was archived on 2013-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130201101020id_/http%3A//www.ojqj.com/%3Fpage_id%3D1641) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojqj.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207051341id_/http%3A//www.ojqj.com/%3Fpage_id%3D1641) for the most accurate reproduction.*
 
 # Home Improvement and Living Tips » Privacy Policy
 
