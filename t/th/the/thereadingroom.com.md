@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thereadingroom.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517192002id_/http%3A//www.thereadingroom.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereadingroom.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207071804id_/http%3A//www.thereadingroom.com/privacy_policy) for the most accurate reproduction.*
 
-# Help at TheReadingRoom.com
+# Privacy Policy | TheReadingRoom.com
 
 ## Introduction
 
-TheReadingRoom.com™ (Site) is owned by BdB Soti Pty Ltd (referred to as "We", "us" and "our"). This statement sets out TheReadingRoom.com's policies relating to the collection and use of information about you ("personal information"). These policies are in addition to TheReadingRoom.com's Terms & Conditions governing TheReadingRoom.com and should be read in conjunction with the [Terms & Conditions.](https://web.archive.org/web/20130517192002id_/http%3A//www.thereadingroom.com/terms_conditions)
+TheReadingRoom.com™ (Site) is owned by BdB Soti Pty Ltd (referred to as "We", "us" and "our"). This statement sets out TheReadingRoom.com's policies relating to the collection and use of information about you ("personal information"). These policies are in addition to TheReadingRoom.com's Terms & Conditions governing TheReadingRoom.com and should be read in conjunction with the [Terms & Conditions.](https://web.archive.org/web/20131207071804id_/http%3A//www.thereadingroom.com/terms_conditions)
 
 The following policies set out how we protect your personal information and safeguard your privacy. 
 
@@ -110,7 +110,7 @@ If we become aware of any ongoing concerns or problems concerning our privacy pr
 
 ## Contact details
 
-If you have any questions regarding the way that we handle personal information, or would like to contact us regarding any of the issues raised in this Privacy Policy, please email us at admin@TheReadingRoom.com.
+If you have any questions regarding the way that we handle personal information, or would like to contact us regarding any of the issues raised in this Privacy Policy, please email us at support@thereadingroom.com.
 
 ## Changes to the Privacy Policy
 
