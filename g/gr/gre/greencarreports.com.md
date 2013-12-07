@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greencarreports.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521034910id_/http%3A//www.highgearmedia.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greencarreports.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207161932id_/http%3A//www.highgearmedia.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | High Gear Media
 
@@ -87,11 +87,7 @@ You can also learn more about specific companies we may allow to place cookies o
   * Chitika  
 <http://chitika.com/privacy>
   * Exelate  
-[http://exelate.com/consumer-opt-out/services-privacy-policy/](http://exelate.com/consumer-opt-out/)
-
-
-
-If you do not wish to receive targeted advertising on our site, you can always elect to block cookies as described under “What about cookies?”
+[What about cookies?](http://exelate.com/consumer-opt-out/%3C/a%3E%3C/li%3E%3C/ul%3E%3Cp%3EIf%20you%20do%20not%20wish%20to%20receive%20targeted%20advertising%20on%20our%20site,%20you%20can%20always%20elect%20to%20block%20cookies%20as%20described%20under%20%E2%80%9C%3Ca%20href=)” 
 
 **How about children’s privacy?**  
 We are committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities. This site is not intended for under the age of 13. We do not knowingly collect information from children under the age of 13 and we do not target the Sites to children under the age of 13.
@@ -122,3 +118,6 @@ Privacy Policy
 High Gear Media  
 385 Forest Ave  
 Palo Alto, CA 94301
+
+
+
