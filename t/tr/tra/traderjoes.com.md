@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traderjoes.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531140201id_/http%3A//www.traderjoes.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traderjoes.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207031438id_/http%3A//www.traderjoes.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Trader Joe's
 
@@ -12,7 +12,7 @@ At Trader Joe's, we understand that you care how information about you is used a
 
 #### Contact Information for The Fearless Flyer & e-newsletter Communications
 
-When you sign-up to receive the Trader Joe's Fearless Flyer and/or our e-newsletter, we store your personally-identifiable information (name, mailing address and/or email) in an electronic database, which is for **Trader Joe's use only (we'll describe what we do with this information in a minute)**. If at any time you do not want to receive our Fearless Flyer or e-newsletter, please [update your preferences here](https://web.archive.org/web/20130531140201id_/http%3A//www.traderjoes.com/soapbox.asp).
+When you sign-up to receive the Trader Joe's Fearless Flyer and/or our e-newsletter, we store your personally-identifiable information (name, mailing address and/or email) in an electronic database, which is for **Trader Joe's use only (we'll describe what we do with this information in a minute)**. If at any time you do not want to receive our Fearless Flyer or e-newsletter, please [update your preferences here](https://web.archive.org/web/20131207031438id_/http%3A//www.traderjoes.com/soapbox.asp).
 
 #### Site Navigation 
 
