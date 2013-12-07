@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westerndailypress.co.uk privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608212206id_/http%3A//www.westerndailypress.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westerndailypress.co.uk privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207143629id_/http%3A//www.westerndailypress.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Western Daily Press | Privacy Policy
 
