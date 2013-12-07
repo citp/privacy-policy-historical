@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the bestbloggercafe.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529005557id_/http%3A//www.bestbloggercafe.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbloggercafe.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207122427id_/http%3A//www.bestbloggercafe.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Best Bloggers Cafe: Privacy Policy
+# Privacy Policy ~ Best Bloggers Cafe
 
+  
 **Privacy Policy for** : [http://www.bestbloggercafe.com](http://www.bestbloggercafe.com/)  
-Your privacy is very important to us, this policy will be updated when will necessary, Your personal information such as IP Address, browser info, internal pages or even suffering sites information maybe collect just for better service purposes.
+Your privacy is very important to us, this policy will be updated when will necessary, Your personal information such as IP Address, browser info, internal pages or even suffering sites information maybe collect just for better service purposes.  
+
 
 ###  Cookies and Web Beacons 
 
