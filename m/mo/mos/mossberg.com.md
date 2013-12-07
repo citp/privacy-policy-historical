@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mossberg.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603121542id_/http%3A//www.mossberg.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mossberg.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207041011id_/http%3A//www.mossberg.com/privacy-statement) for the most accurate reproduction.*
 
 # Mossberg & Sons | Privacy Statement
 
