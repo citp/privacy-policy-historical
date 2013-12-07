@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixpackshortcuts.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606114346id_/http%3A//sixpackshortcuts.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixpackshortcuts.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207144729id_/http%3A//sixpackshortcuts.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Six Pack Shortcuts - Privacy Policy
 
