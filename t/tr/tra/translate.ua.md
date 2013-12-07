@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translate.ua privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501084255id_/http%3A//translate.ua/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translate.ua privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207091748id_/http%3A//www.translate.ua/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
