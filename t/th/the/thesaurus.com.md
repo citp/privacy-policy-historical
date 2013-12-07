@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesaurus.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425111656id_/http%3A//thesaurus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesaurus.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207082419id_/http%3A//thesaurus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Policy from Dictionary.com
 
