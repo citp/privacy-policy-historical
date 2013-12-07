@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcodezoo.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509084832id_/http%3A//zipcodezoo.com/About/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcodezoo.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207042336id_/http%3A//zipcodezoo.com/About/Privacy.asp) for the most accurate reproduction.*
 
 # ZipcodeZoo Privacy Highlights
 
