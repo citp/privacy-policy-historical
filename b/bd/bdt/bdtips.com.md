@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the bdtips.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606222556id_/http%3A//www.bdtips.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdtips.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207055531id_/http%3A//www.bdtips.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # PRIVACY NOTICE | BdTips
 
-  
 This privacy notice discloses the privacy practices for [www.bdtips.com](http://www.bdtips.com/). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
 1\. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.  
@@ -42,4 +41,5 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 We take precautions to protect your information. While we use our greatest measure to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, paying you or publishing your article in our website with your name) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-Please [Contact Us](http://www.bdtips.com/contact/) for any related queries. 
+Please [Contact Us](http://www.bdtips.com/contact/) for any related queries.  
+Back to Top
