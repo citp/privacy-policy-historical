@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustyptc.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115131436id_/http%3A//trustyptc.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustyptc.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207100947id_/http%3A//trustyptc.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Trusty PTC :: Privacy
 
