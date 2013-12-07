@@ -1,650 +1,480 @@
-<!--The following is the downloaded HTML source of the texterity.com privacy policy that was archived on 2013-01-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130120061336id_/http%3A//www.texterity.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the texterity.com privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207011901id_/http%3A//www.gtxcel.com/Privacy-Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="google-site-verification" content="tNNwPKvxigVLBRwUMTyIc8hPqGlaE41C8B0dyREkoVU">
-<meta property="og:image" content="/images/favicon-rgb.jpg">
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<title>Privacy Policy</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="description" content="Create, deliver and monetize content with responsive websites, branded mobile apps, and digital editions from GTxcel. See our new monetization strategies and custom media programs.">
+<meta name="keywords" content="">
+<link rel="shortcut icon" href="/favicon.ico">
 
 
 
-<link rel="stylesheet" type="text/css" media="all" href="/css/master.css">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
 
-<script type="text/javascript" src="/js/jquery.newsticket.cfm"></script>
 
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" language="Javascsript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 <script type="text/javascript">
-	function checkSearch() {
-		var searchText = document.getElementById("searchVal").value;
-		if (searchText == '') {
-			alert("Please enter a search term");
-			document.getElementById("searchVal").focus();
-			return false;
-		} else {
-			return true;
-		}
-	}
-
+if (typeof jQuery == 'undefined') {
+	document.write(unescape("%3Cscript src='/core/media/js/jquery-1.8.1.min.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script><script src="/core/media/js/jquery-1.8.1.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery.noConflict(); // leave the $ variable alone
 </script>
 
-
-
-<!--[if IE 7]>
-
-<link rel="stylesheet" type="text/css" media="all" href="/css/ie.css" />
-
+<script type="text/javascript" language="JavaScript" src="/core/media/themes/Respond/js/site-search.js?ver=1386076698"></script>
+<!--[if lt IE 9]>
+<script  type="text/javascript" language="JavaScript" src="/core/media/themes/Respond/js/html5_shiv.js?ver=1386076698"></script>
 <![endif]-->
-
-
-<script>
-function ORW(url,n) {n='w'+Math.round(Math.random()*(1000000000));w=screen.width-10;h=screen.height-40;nurl=url+"?fm=2"; window.open(nurl,n,'toolbar=no,menubar=no,resizable=yes,scrollbars=yes,left=0,top=0,width='+w+',height='+h);}
-</script>
-
-<script type="text/javascript" defer="defer">
-$(document).ready(function(){
-	//$("#news").newsticker();
-	//$("#news2").newsticker();`
-
-	$.get("/flash-left.cfm", {}, function(data) {
-		$("#newsLeft").append(data).find("ul").newsTicker();
-	});
-
-	$.get("/flash-right.cfm", {}, function(data) {
-		$("#newsRight").append(data).find("ul").newsTicker();
-	});
-
-	/*
-	var jXML = {
-	    getCount: function(xml,nodes) {
-	        var response = {};
-	        for (var node in nodes) {
-	            response[node] = $(nodes[node],xml).length;
-	        }
-	        return response;
-	    },
-	    getAttribute: function(xml,nodes) {
-	        var response = {};
-	        for (var node in nodes) {
-	            if (nodes[node][2] == null) {
-	                response[node] = $(nodes[node][0] + "[" + nodes[node][1] + "]",xml);
-	            } else {
-	                if ($(nodes[node][0],xml).attr(nodes[node][1]) == nodes[node][2]) {
-	                    response[node] = $(nodes[node][0],xml);
-	                }
-	            }
-	        }
-	        return response;
-	    },
-	    getRandomObj: function(xml,nodes) {
-	        var response = {};
-	        for (var node in nodes) {
-	            var a = [];
-	            var b = [];
-	            $(nodes[node][0],xml).each(function(i) {
-	                b[i] = this;
-	            });
-	            var c = b.length;
-	            if (nodes[node][1] != null && nodes[node][1] < c) {
-	                c = nodes[node][1];
-	            }
-
-	            for (i = 0; i < c; i++) {
-	                var e = Math.floor(Math.random() * b.length);
-	                a[i] = b[e];
-	                b.splice(e,1);
-	            }
-	            response[node] = a;
-	        }
-
-	        return response;
-	    }
-	};
-
-	$.ajax({
-		type: "GET",
-		url: "/atom.xml",
-		dataType: "xml",
-		success: function(xml) {
-			var random = jXML.getRandomObj(xml,{"Title":["title",null]});
-			for (i = 0; i < random["Title"].length; i++) {
-				$("#news2").append("<li><span class='headerLead'><a href=\"#BulletinBoard\">"+$(random["Title"][i]).text()+"</a></span></li>");
-			}
-			$("#news2").newsTicker();
-		}
-	});*/
-})
-</script>
-<script src="js/jquery/jquery-1.7.min.js"></script>
-<script src="js/jquery/slides.min.jquery.js"></script>
-
-<script type="text/javascript" src="js/custom-form-elements.js"></script>
-	<!--[if IE 6]>
-			<script src="/js/DD_belatedPNG_0.0.7a-min.js"></script>
-			<script>
-				DD_belatedPNG.fix('.readersExp, .pubAdvTab, .pubSupp, .general, img');
-			</script>
-
-			<style>
-				.homeLinks	{float:left; text-align:right; padding-left:80px; margin-top:284px; width:257px;}
-				.general .defaultTab			{width:735px;}
-				.readersExp .readexpTab			{width:735px;}
-				.pubAdvTab .pubAdvantagesTab	{width:735px;}
-				.pubSupp .pubSupportTab			{width:735px;}
-				.tabText					{padding-left:12px; border-right:12px solid #FFFFFF; width:710px; min-height:530px;}
-
-
-				
-
-					
-
-
-
-
-
-			</style>
-
-	<![endif]-->
-
-	<!--[if IE 7]>
-			<style>
-			.alertsContainer div table tr td.tag	{padding-left:35px;}
-			</style>
-	<![endif]-->
-
-<title>Texterity Online Privacy Policy - Full-Service Digital and Mobile Publishing for Magazines</title>
-	
-		<meta name="Description" content="Texterity is a leading provider of digital editions and mobile publishing solutions. With magazine-branded mobile apps and cross-platform innovations, Texterity is leading the e-reading revolution. Texterity currently creates, maintains, and tracks more than 1,000 digital editions of magazines and has dozens of magazine apps in the App Store.">
-			
-
-<meta name="Keywords" content="texterity, digital delivery made simple, digital magazines, electronic magazines, web zines, zinio, zinio.com, magazine, magazines, emagazine, read, book, ebook, newsstand, news, affiliate, electronic edition, digital edition, electronic edition, digital delivery, newsstand, newstand, newspaper, magazine, newspapers, magazines, electronic newspaper, electronic magazine, electronic newspapers, on-line newspapers, on-line magazines, on-line newspaper, on-line magazine, online newspapers, online magazines, online newspaper, online magazine, on line newspapers, on line magazines, on line newspaper, on line magazine, electronic document, electronic documents, catalogs, electronic catalog, electronic catalogs, on-line catalog, on-line catalogs, online catalog, online catalogs, on line catalog, on line catalogs, electronic publishing, electronic publisher, on-line publishing, online publishing, on line publishing, on-line publisher, on line publisher, qmags, nxtbook, mobile apps, magazine apps, iphone app, ipad app, magazine iphone app, magazine ipad app">
-</head>
-<body>
-
-
-
-<div class="padder">
-	
-
-	<div class="header" style="width:989px;">
-
-
-		
-		
-	
-	
-	
-	
-    
-    
-
-
-
-
-
-
-
-
-		<div class="msgBox"><b>Visit Godengo+Texterity at MediaNext, booth 212/214! <br><a href="http://www.texterity.com/GTRDvideo">Watch this new video on Responsive Design</a>.</b></div>
-		
-
-		<div class="logo"><a href="/"><img src="/img/header_logo.gif" alt="Texterity, Inc."></a>
-			<form name="searchForm" id="searchForm" action="/index.cfm?ac=searchResults" method="post" onsubmit="return checkSearch();">
-				<input type="text" name="searchVal" id="searchVal" value="">&nbsp;
-				<input type="submit" name="submit" value="search">&nbsp;&nbsp;&nbsp;
-			</form>
-		</div>
-		
-	
-	
-	
-	
-    
-    
-
-
-
-
-
-
-
-
-		<div class="topUtility"><div id="social"><g:plusone size="small"></g:plusone><a href="http://www.facebook.com/Texterity"><img src="/img/facebook.png" alt="Follow Texterity on Facebook"></a><a href="http://twitter.com/texterity"><img src="/img/twitter.png" alt="Follow Texterity on Twitter"></a><a href="http://www.linkedin.com/company/texterity-inc."><img src="/img/linkedin.png" alt="LinkedIn"></a><a href="http://www.youtube.com/texteritydigital"><img src="/img/youtube.png" alt="YouTube"></a> </div><div id="utilityText"><a href="/">home</a>  |  <a href="/about">about us</a>  |  <a href="/sampleissues">sample issues</a>  |  <a href="/inforequest">information request</a></div>
-<script> type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script></div>
-	</div>
-
-	
-	<div class="shadowB">
-		<div class="shadowfix">
-
-		<div class="shadowR">
-			<div class="shadowL">
-				<div class="shadowT">
-					<img src="/img/shadowTL.gif" alt=""><br>
-					<div class="container" style="padding-left:0px;">
-
-              
-
-
-
-
-
-
-	<div class="general">
-	<div class="defaultTab">
-	<div class="tabText">
-	<div class="tabBorders">
-	<div class="content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" style="width:461px;" class="bodycolor">
-	<div style="padding:12px;">
-	<h1 class="pageHeader">Texterity Online Privacy Policy </h1>
-      <p class="bodyCopy">
-      
-      </p><div style="width:450px;">
-	  <p class="bodyCopy">
-      </p><div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity, Inc. (also referred to as "we" or "us") provides online services through its Web sites (the "Sites") and downloadable apps through online stores (together referred to as the "Services"). Please read the following policy to understand how your personal information will be treated. Our Online Privacy Policy explains our commitment to provide you with excellent service and to protect your privacy online.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">By visiting our site and using our Services, you signify your agreement to this Online Privacy Policy. Please take a few minutes to read them before using or registering with our Sites.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Our Sites and Services are not directed toward children (minors under 13 years of age). We do not knowingly collect personally identifiable information from children.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">PLEASE NOTE THAT THIS PRIVACY POLICY APPLIES ONLY TO OUR ONLINE COLLECTION </span><span style="FONT-SIZE: 10pt">AND</span><span style="FONT-SIZE: 10pt"> USE OF INFORMATION </span><span style="FONT-SIZE: 10pt">AND</span><span style="FONT-SIZE: 10pt"> DOES NOT APPLY TO ANY INFORMATION THAT YOU </span><span style="FONT-SIZE: 10pt">MAY</span><span style="FONT-SIZE: 10pt"> PROVIDE TO US BY OTHER MEANS, SUCH AS </span><span style="FONT-SIZE: 10pt">VIA</span><span style="FONT-SIZE: 10pt"> MAIL OR TELEPHONE.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">If you receive mailings from us and prefer not to receive these mailings, or if you have questions or wish to send us comments about this Online Privacy Policy, please use the online form at http://www.texterity.com/inforequest or mail your questions or comments to:</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity, Inc.<br>Attn: Customer Service<br></span><span style="FONT-SIZE: 10pt">144 Turnpike Road</span><span style="FONT-SIZE: 10pt"><br></span><span style="FONT-SIZE: 10pt">Southborough</span><span style="FONT-SIZE: 10pt">, </span><span style="FONT-SIZE: 10pt">MA</span><span style="FONT-SIZE: 10pt">01772</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Please be assured that any personal information that you provide in communications to the above online form and postal mail addresses will not be used to send you promotional materials, unless you so request. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">This Online Privacy Policy covers the following:</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<ol style="MARGIN-TOP: 0pt" type="1">
-    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=info"><font color="#333333">Information Covered by this Online Privacy Policy</font></a></span></li>
-    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=types"><font color="#333333">Types of Personally Identifiable Information We Collect</font></a></span></li>
-    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=how"><font color="#333333">How your Personally Identifiable Information is Used and Shared</font></a></span></li>
-    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=what"><font color="#333333">What Choices You Have about the Collection and Use of Your Personally Identifiable Information</font></a></span></li>
-    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=security"><font color="#333333">Security Measures Taken to Safeguard Your Personally Identifiable Information</font></a></span></li>
-    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=correct"><font color="#333333">How to Correct or Update Your Contact Information and Opt-Out Choices</font></a></span></li>
-    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=amend"><font color="#333333">Amendments to this Privacy Policy</font></a></span></li>
-    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=children"><font color="#333333">Children Under the Age of 13 Unauthorized to Visit Our Sites</font></a></span></li>
-</ol>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">1. Information Covered by this Online Privacy Policy</span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">In order to use certain of our Services, you are required to register or purchase. Some personal information is gathered when you register. You may provide us with a name, address, zip code, email address, as well as other information, for example, gender, age and number of children. We refer to this type of information in this Privacy Policy as “Personally Identifiable Information”. This Personally Identifiable Information enables us to process your order and to customize your experience on the Sites in the future. Once you register, you are no longer anonymous to Texterity and we are better able to serve you.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">We respect the privacy of those who visit the Sites ("Users" or "Visitors"). While we collect information from Visitors, We do not release Personally Identifiable Information about Visitors without their permission except as set forth within this Privacy Policy.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">2. Types of Personally Identifiable Information We Collect</span></strong></div>
-<div style="MARGIN: 0pt"><strong>&nbsp;</strong></div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">2.1 Information You Provide to Us </span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Much of the Personally Identifiable Information we receive comes directly from you when obtaining various products and Services from us. If you purchase products or services from us, we may collect, for example, credit card information, the type of services or products ordered or purchased, and the date of the order or purchase. We may collect Personally Identifiable Information when you register on, log on, or visit our Web sites, including when you participate in activities on our Web sites, such as informational and promotional offers, and when you provide information to our customer service representatives. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">We do not control or have responsibility for the acts of Users of any of the Sites. Please be aware that if you disclose personal information in a bulletin board, chat room or other public forum, that information may be used by others. Our Web sites may offer public forums such as message boards, conversation pages, chat rooms, profile pages (“Public Forums”). If you provide Personally Identifiable Information through the Public Forums, that Personally Identifiable Information may be publicly posted through the Public Forum and otherwise disclosed without limitation as to its use by a third party. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">2.2 Information Collected Through Technology </span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">We collect information through technology to make our sites more interesting and useful to you and for various purposes related to our business. For instance, when you come to one of our sites, we may collect information about your access time and your computer configuration, including the type of browser software you use, the operating system that you're running, the resolution of your computer monitor and your Internet Protocol ("IP") address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. Your IP address does not tell us who you are. An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP), your company, or your university. Standing alone, your IP address is not personally identifiable. We may use IP addresses to collect information regarding the frequency with which individuals visit various parts of our sites, and we may combine IP addresses with Personally Identifiable Information.&nbsp;We may also collect your device ID if you are using a mobile device such as a phone or tablet.&nbsp;Similar to an IP address, the device ID does not tell us who you and does not provide us with any Personally Identifiable Information.&nbsp;The device ID will allow Texterity to provide new content to your mobile device for subscriptions or notifications.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">2.3 Cookies</span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Our Web sites collect information through a variety of technical methods, including cookies and Web beacons. A cookie is a text file stored on a user's hard drive that a Web site sends to your computer while you are viewing the Web site. It contains no Personally Identifiable Information. Web beacons are small pieces of data that are embedded in images on the pages of Web sites. Cookies, web beacons and other technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. Cookies are not used to retrieve any Personally Identifiable Information from the user's computer.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">We may use the information collected through these technical methods for many purposes, including delivering content, tracking and enhancing individuals' experience on our Web sites. For example, when you return to one of our Web sites after logging in, cookies provide information to the site so that the site will remember who you are. We also may use technical methods to analyze the traffic patterns on our Web sites, such as the frequency with which our users visit various parts of our Web sites, and third party Web sites, such as the frequency with which our users visit other Web sites. In HTML e-mails that we send our guests, we may use technical methods for a number of purposes, including: to determine whether our guests have opened or forwarded those e-mails and/or clicked on links in those e-mails, and to determine whether a person has made an inquiry or purchase in response to a particular e-mail. These technical methods may enable us to collect and use information in a form that may be personally identifiable. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">2.4 Disclaimer About Links</span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity is not responsible for the privacy of information you may submit to a linked site. If you click on a third-party link or an advertisement on one of our Web sites or apps and link to a third party's Web site, then our Privacy Policy will not apply to your Personally Identifiable Information collected on that third party's Web site and you must read the privacy policy posted on that site to see how your Personally Identifiable Information will be handled. We do not monitor or control the information collection or privacy practices of third parties, and are not responsible for their practices or the content of their Web sites, including, without limitation, their use of any information (such as IP number, browser type, or operating system) collected when you "click through" links to their Web sites. Please contact such third parties if you have any questions about their respective privacy policies.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Advertisements of third parties may appear on our Web sites or apps. These companies are called "network advertisers." Network advertisers who place advertisements on our Web sites may use cookies and Web beacons to collect non-personally identifiable information about your visits to our Web sites and other Web sites in order to provide advertisements about goods and services of interest to you. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">2.5 Information That We Collect from Others </span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">We may update and supplement Personally Identifiable Information that we have collected directly from individuals with other information that we obtain from third parties and other Texterity Web sites. In addition, when we add information that we obtain from third parties or other Texterity Sites with Personally Identifiable Information that we have collected from you, we treat all your Personally Identifiable Information that we obtain from others with the same care described under this Privacy Policy.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">3. How Personally Identifiable Information is Used and Shared<br><br></span></strong></div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity may use your Personally Identifiable Information in many ways as set out below. Your Personally Identifiable Information is kept on a secure server to protect it from outside parties. We will share a limited portion of this information, your email address, physical address, and demographic information, with publishers of magazines to which you have already subscribed or have just ordered.&nbsp;The Publisher may use your email or physical address to send you additional correspondence.&nbsp;The Publisher may also share your information with a third party. &nbsp;We encourage you to read and understand the Publisher’s privacy policy. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity may use your Personally Identifiable Information to generate aggregated statistical information. But such aggregated information will exclude your credit card number and expiration date and any other Personally Identifiable Information. We describe our uses of your information below. You may "opt out" of certain uses of your Personally Identifiable Information, as described in Section 4 below.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">3.1 Texterity Promotional Uses</span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity may use your Personally Identifiable Information to send you promotional materials about goods and services (including special offers and promotions) offered by Texterity ("Promotional Uses"). These promotional materials may be sent to you by postal mail, e-mail or other means. You may opt out of receiving these communications as provided in Section 4 below. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">By knowing a little about you, Texterity is able to deliver more relevant advertisements and content and better service to you. In delivering targeted advertisements, we may deliver an advertisement to the type of individual who may be within a relevant audience. In this process, the advertiser never has access to Personally Identifiable Information. This kind of advertisement targeting is done with banner ads as well as promotional email through the Sites.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Please keep in mind, however, that when you purchase or request products or services (or information about products or services) from a particular Texterity Web site or app, promotional materials about goods and services offered by another Texterity Web site and/or by a third party may accompany delivery of the product, service or information that you have requested. Because these promotional materials accompany products, services or information that you have requested, your opt-outs for Texterity Web sites under Section 4 below will not apply to any of these types of Promotional Uses.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">3.2 Operational Uses</span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity may also use your Personally Identifiable Information for many purposes other than sending you promotional materials. (We refer to all of these types of uses of your personal information that do not involve the sending of promotional materials as "Operational Uses.") For example, we may use your information to complete transactions requested by you (such as your purchase of a product or service offered on our Web sites or apps), or to send you administrative communications either about your account with us or about features of our Web sites or products ordered by you. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Sometimes Texterity also works with other companies who facilitate transactions with you and help either gather your information or communicate with you, such as a company that helps to provide customer service. Your opt-out choices under Section 4 below will not apply to sharing by Texterity of your personal information with any of these companies. Nonetheless, except as separately permitted by other provisions of this Privacy Policy, these companies are allowed to gather, receive, and use your information only for the purposes described in this paragraph or to facilitate compliance with laws. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">As another example of Operational Uses, we may share your Personally Identifiable Information with the Texterity telephone service center or third party telephone service centers contracted by Texterity, so that the service center operators are able to respond immediately to your questions or requests when you call, rather than asking you to provide your information a second time. Because these uses of your Personally Identifiable Information do not involve sending you promotional materials and may be necessary to fulfill you account with us, your opt-outs under Section 4 below will not apply to any of these Operational Uses. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">3.3 Non-Personally Identifiable Information</span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity may take your Personally Identifiable Information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics that make the information personally identifiable to you (de-personalizing your information). Texterity may aggregate or de-personalize your Personally Identifiable Information. We use non-personally identifiable information in aggregate form to build higher quality, more useful Services by performing statistical analyses of the collective characteristics and behavior of our Visitors, and by measuring demographics and interests regarding specific areas of the Sites. We may provide statistical information based on this data to advertisers, affiliates, clients, and other current and potential business partners.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">3.4 Purchase or </span></strong><strong><span style="FONT-SIZE: 10pt">Sale</span></strong><strong><span style="FONT-SIZE: 10pt"> of Businesses </span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">From time to time, we may purchase a business or sell one or more of our businesses (or portions thereof) and your Personally Identifiable Information may be transferred as a part of the purchase or sale. In the event that we purchase a business, the Personally Identifiable Information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so. In the event that we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your Personally Identifiable Information in the same manner required by this Privacy Policy (including any amendments to this Privacy Policy). In light of this protection, your opt-out choices under Section 4 will not affect our right to transfer your information to a purchaser in these circumstances.</span></div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">&nbsp;</span></div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">3.5 Disclosures to Comply With Laws and Disclosures to Help Protect the Security and Safety of Our Web Sites, Texterity and Others </span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Regardless of any opt-out choices that you make under Section 4, Texterity will disclose Personally Identifiable Information when it believes in good faith that such disclosures (a) facilitate compliance with laws, including, for example, compliance with a court order or subpoena, or (b) will help to: enforce promotions; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our Web sites, Texterity, and/or third parties, including the safety and security of property that belongs to Texterity.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">4. Choices You Have About the Collection, and Use of Your Personally Identifiable Information </span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity will share your email address with the publisher of the title for which you create an account and provide your email address.&nbsp;You can edit your email address or remove your email address through the Account feature in the app.&nbsp;However, your email address may have already been transferred to the publisher. Removing your email address in the Account feature in an app will not remove your name from the publisher’s records, nor will it opt you out of receiving materials from the publisher.&nbsp;You must opt out directly with the publisher through the means that the publisher provides. Texterity has no control over the opt out process, policies, or procedures of the individual publishers.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">You may also opt-out of promotional materials within emails by following a link to opt-out.&nbsp;Be aware that you may receive two types of emails and it is your choice to opt-out of either type of email. One type of email is the new issue notification sent by Texterity. You may opt-out of the new issue notification emails sent by Texterity by following the opt-out link. Opting-out of a new issue notification sent by Texterity will not cancel your subscription nor issue a refund. Opting-out of a Texterity new issue notification will only stop Texterity from sending you any future new issue notifications for the title for the title in question. You will still receive new issue notifications for other titles for which you have not opted-out.&nbsp;</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">The second type of email that you may receive is those sent by the Publisher or a third party that the publisher has shared your email with. Opting-out of a Texterity new issue notification will not opt you out of receiving emails from the Publisher or a third party.&nbsp;You must opt-out of these emails separately. Texterity has no control over the opt-out process, policies, or procedures of the individual publishers or third parties.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">Your opt-out choices are as follows: </span></strong></div>
-<div style="MARGIN: 0pt"><strong>&nbsp;</strong></div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">Third Parties:</span></strong><span style="FONT-SIZE: 10pt"> When you order products from third parties through Texterity, you may receive third party promotional materials over which Texterity has no control. Your opt-out choices for third parties generally are specific to the parties from which you purchase products.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">Texterity:</span></strong><span style="FONT-SIZE: 10pt"> You may choose to opt out of receiving promotional materials from Texterity. Please keep in mind that any opt-out choices you make will not apply in situations where (a) you either have made, simultaneously make, or later make a specific request for information from Texterity, (b) Texterity uses your Personally Identifiable Information for either "Operational Uses" or "Fulfillment Uses" (as described above in Section 3.2), (c) Texterity shares your Personally Identifiable Information under the provisions of Section 3 above with respect to "Companies That Facilitate Communications and Transactions With You," "Purchase or Sale of Businesses," or "Disclosures to Comply with Laws and Disclosures to Help Protect the Security and Safety of Our Web Sites, Texterity and Others." Also, any opt-out choices you make will not apply to Personally Identifiable Information that you provide about other persons, but these other persons will have the opportunity to opt out of receiving promotional materials. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">In addition, any time that we send you promotional materials that you have consented to receive under one of the previously described opt-out choices, we may accompany those materials with promotional materials covered by the other opt-out choices. We may do so even if you have opted out of receiving promotional materials covered by those other opt-out choices. Any such additional promotional materials, however, will constitute only a minor part of any particular communication with you. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Finally, if you do not exercise your opt-out choices upon registration or initial log-in at our Web sites or apps, it may take up to ninety (90) days for your opt-out choices to be fully effective. Our systems require time to update, and promotional mailings using your Personally Identifiable Information shared before your opt-out may already be in process. Finally, please keep in mind that, if you have not consistently used the same postal and email addresses on our Web sites, or if you have used a general change of address process (such as the change of address process offered by the U.S. Post Office) after providing address information on our Web sites or apps, systems maintained by Texterity may have varying contact information for you. Accordingly, it may not always be possible to match your new opt-out choices with your Personally Identifiable Information that you previously have provided.</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">5. Security Measures Taken to Safeguard Personally Identifiable Information </span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">The Personally Identifiable Information we collect is stored within a database that we control. We use standard, industry-wide procedures such as firewalls and SSL (Secure Sockets Layer) encryption to protect your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable and no software or server is 100% secure. Any information you include in a message you post to any message board, discussion group, or other public posting area on our Web sites is available to anyone with Internet access. If you don't want people to know your name or email address, for example, make sure not to include it in any message you post publicly. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">6. How to Correct or Update Your Contact Information <br><br></span></strong></div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">You can access and update the contact information you gave us during registration (that is, your postal address, e-mail address, or any other information that would directly enable us to contact you), by changing your information in the Account feature of the app.&nbsp;You will need to visit the Account in a particular app to change your preferences associated with that app, or you may use the form at http://www.texterity.com/inforequest to request assistance. Finally, you may unsubscribe from certain e-mail communications by clicking on unsubscribe links in those e-mails. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">In some cases, your account may expire or be terminated. If so, you may contact Customer Service at the address in Section 7 below to update your information and opt-out choices (to the extent that we still retain them).</span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">7. Amendments to this Privacy Policy</span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">We may amend this Privacy Policy at any time. If we amend this Privacy Policy to permit material changes in the way we collect, use, and/or share your Personally Identifiable Information, we will post notice of such amendment on the Web sites covered by this Privacy Policy and any such amendment will be effective thirty (30) calendar days later. Please note that, at all times, you are responsible for updating your Personally Identifiable Information to provide us your current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the amendment described in the notice. In any event, an amendment to this Privacy Policy may permit material changes in the way we use and share Personally Identifiable Information that you provided us prior to our notification to you of such amendment. If you do not wish to allow such material changes, you must so notify us (in the manner we specify) prior to the effective date of the amendment. If you provide us this notice, we may choose to deactivate your account. Please be advised, however, that, regardless of whether you provide such notice to us, any such amendment to this Privacy Policy will apply to any Personally Identifiable Information that you provide us on or after the effective date of such amendment. </span></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">8. Children under the age of 13 who visit our sites</span></strong></div>
-<div style="MARGIN: 0pt">&nbsp;</div>
-<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity cares about protecting the privacy of children. We won't knowingly allow anyone under 13 to provide us any Personally Identifiable Information. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We encourage you to become involved in your children's online experience, and to share your interest in our sites with your young ones. If you're under 13, please do not register with any of our sites or provide us with any Personally Identifiable Information (such as your name, your email address or your phone number). </span></div>
-	  <p></p>
-	  </div>
-      
-      <p class="bodyCopy">&nbsp;</p>      
-	  </div>
-	  </td>
-    
-    
-    
-    <td width="152" valign="top">
-	<div style="padding:12px 12px 12px 3px;">
-     
-<div class="brownLinkNav">
-	<a href="/about" class="brownlink">ABOUT US <span class="sidebarHomeLinksArrow">&gt;</span></a>
-	<a href="/contact" class="brownlink">CONTACT US <span class="sidebarHomeLinksArrow">&gt;</span></a>
-	<a href="/Working_With_Us" class="brownlink">WORKING WITH US <span class="sidebarHomeLinksArrow">&gt;</span></a>
-
-
-	
-	<a href="/customerlist" class="brownlink">CUSTOMER LIST <span class="sidebarHomeLinksArrow">&gt;</span></a>
-	<a href="/leadership" class="brownlink">LEADERSHIP <span class="sidebarHomeLinksArrow">&gt;</span></a>
-		
-	<a href="/pressroom" class="brownlink pubsupTabLink">PRESS ROOM <span class="sidebarHomeLinksArrow">&gt;</span></a>
-	<a href="/sampleissues" class="brownlink otherTabLink">SAMPLE ISSUES <span class="sidebarHomeLinksArrow">&gt;</span></a>
-
-	
-
-
-	
-	<a href="/casestudies" class="brownlink">CASE STUDIES <span class="sidebarHomeLinksArrow">&gt;</span></a>
-    <a href="/resources" class="brownlink">RESOURCES <span class="sidebarHomeLinksArrow">&gt;</span></a>
-	<a href="/jobs" class="brownlink">JOBS <span class="sidebarHomeLinksArrow">&gt;</span></a>
-	<a href="/blog" class="brownlink">BLOG <span class="sidebarHomeLinksArrow">&gt;</span></a>
-</div>
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-      
-      
-      
-      
-      </div>
-      
-            </td>
-    <td width="68" valign="top"><div style="padding:12px 12px 0px 0px;">
-    
-    <a href="/"><img src="/img/tab_home_on.gif" alt="Home" width="68" height="200"></a>
-    
-    </div>
-    </td>
-  </tr>
-</tbody></table>
-</td>
-</tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<meta property="og:title" content="Texterity Online Privacy Policy">
-
-
-
-                
-
-
-
-										</div>
-									</div>
-								</div>		
-								<div class="tabShadow">
-									<div class="floatLeft"><img src="/img/shadowB2L.gif" alt=""></div>
-									<div class="clear">&nbsp;</div>
-								</div>						
-							</div>
-							<div class="readexpTab"><a href="/reader_experience"><img src="/img/readexp_off.gif" alt="reader experience"></a></div>
-							<div class="pubAdvantagesTab"><a href="/publisher_advantages"><img src="/img/pubAdvantages_Off.gif" alt="publisher advantages"></a></div>
-							<div class="pubSupportTab"><a href="/publisher_support"><img src="/img/pubSupport_Off.gif" alt="publisher support"></a></div>
-							<div class="clear">&nbsp;</div>
-						</div>					
+<script type="text/javascript" language="JavaScript" src="/core/media/themes/Respond/js/windowResizeResponder.js?ver=1386076698"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/themes/Respond/js/moduleEventExchange.js?ver=1386076698"></script>
 
   
 
+ <meta name="p:domain_verify" content="968e8c7109b36b69b857e447184ffd7e">
+<link rel="stylesheet" type="text/css" href="/core/media/css/responsive_ads.css?ver=1386076747">
+<link rel="stylesheet" type="text/css" href="/lessc/11705bd3c478032b71c6c0cace8a47fa.one.css?ver=1386379023">
+<link rel="stylesheet" type="text/css" href="/lessc/11705bd3c478032b71c6c0cace8a47fa.two.css?ver=1386379023">
+<link rel="stylesheet" type="text/css" href="/theme_overrides/Respond/css/custom.css?ver=1383666103">
+<link rel="stylesheet" type="text/css" href="/core/media/themes/Respond/css/moz.css?ver=1386076698">
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" href="/core/media/themes/Respond/css/ie9.css?ver=1386076698">
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="/core/media/themes/Respond/css/ie8.css?ver=1386076698">
+<![endif]-->
+<script type="text/javascript" language="JavaScript" src="/core/media/js/jquery.browser.js?ver=1386076698"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/js/jquery.iframe-auto-height.plugin.1.8.0.js?ver=1386076698"></script>
+<script type="text/javascript" language="JavaScript" src="//ox-d.godengo.com/w/1.0/jstag"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/js/RivistaOpenX.js?ver=1386076747"></script>
+<script type="text/javascript">
+RivistaOpenX.init([],"community");
+</script>
+<script>
+var ad_category = "Community";
+</script>
+</head>
+<body id="page_htmlid_12660" class="">
+<header id="header" class="navbar">
+	<div class="navbar-inner">
+		<div class="container-fluid">
+			<div class="branding row-fluid">
+				<div class="logo-wrapper">
+					<a class="logo" href="/" alt="GTxcel">
+						<img src="/images/logo.png" alt="GTxcel">
+					</a>
+				</div>
 
-						<div class="footer">
-	
-	
-	
-	
-    
-    
-
-
-
-
-
-
-
-
-						<div class="footerLinks"><a href="/">home</a>  |  <a href="/about">about us</a>  |  <a href="/samples">sample issues</a>  |  <a href="/bulletinboard">bulletin board</a>  |  <a href="/contact">contact us</a>  |  <a href="/inforequest">information request</a>  |  <a href="/privacy_policy">privacy policy</a></div>
-Copyright © 2003-2012 Texterity, Inc. All rights reserved. Texterity is a leading provider of digital publishing solutions and mobile digital edition innovations.<br>
-							Texterity, Coverleaf, Published Web Format, Digital Delivery Made Simple, We Know Your Issues, TextCafe, FreeSVG, and the Texterity logo are registered trademarks or service marks of Texterity, Inc.
+				<div class="nav-menus">
+					<div class="collapsed-menus-wrapper">
+					    <div class="collapsed-menu-btn-wrapper">
+    					        						    
+<button id="menu_btn_1452" class="menu-collapsed collapsed" data-toggle="collapse" data-target="#menu_1452" data-parent="#header"><span class="menu-title">Products + Services</span><span class="caret"></span>
+</button>
+     						    						    						    						    
+<button id="menu_btn_1481" class="menu-collapsed collapsed" data-toggle="collapse" data-target="#menu_1481" data-parent="#header"><span class="menu-title">Press Room</span><span class="caret"></span>
+</button>
+     												
 						</div>
-						
+						<button id="collapsed-search-btn" class="menu-collapsed collapsed" data-toggle="collapse" data-parent="#header" data-target="#sitesearch"><span><i class="icon-search"></i></span><span class="caret"></span></button>
 					</div>
 				</div>
 			</div>
-			<div class="floatRight"><img src="/img/shadowRT.gif" alt=""></div>
-			<div class="clear">&nbsp;</div>
-		</div>
-		<div class="clear">&nbsp;</div>
-		
-		
-		</div>	
 			
-		<div class="floatLeft"><img src="/img/shadowBL.gif" alt=""></div>
-		<div class="floatRight"><img src="/img/shadowBR.gif" alt=""></div>
-		<div class="clear">&nbsp;</div>
+			<div id="sitesearch" class="nav-collapse collapse ">
+								<div id="searchform">
+					<form class="navbar-search" method="get" name="searchform" action="/Search/">
+                                                                                                                                                    <input type="hidden" name="searchables" value="ops_article,core_page">
+    <input type="hidden" name="pid" value="93,94">
+<input type="hidden" name="mod" value="CoreSearch">
+    <input type="hidden" name="tagids" value="">
+
+<input type="hidden" name="sortby" value="RELEVANCY DESC">
+
+
+<div class="search-query-wrapper"><input name="query" type="text" class="search-query searchform" value=""></div>
+<div class="search-button-wrapper"><button class="btn" type="submit" id="searchbutton" name="Search"><i class="icon-search"></i></button></div>
+</form>
+				</div>
+			</div>
+						    <div class="eyebrow">
+			    	
+<nav id="menu_1481" class="eyebrow menu-container nav-collapse collapse">
+    <ul id="eyebrow-list" class="nav">
+            <li>
+<a href="/News/"><span>News</span></a>        </li>
+            <li>
+<a href="/GTxcel-Blog/"><span>Blog</span></a>        </li>
+            <li>
+<a href="/Resources/"><span>Resources</span></a>        </li>
+            </ul>
+</nav>
+    			    </div>
+								</div>
+	</div>
+	    	<div id="menu-parent-row">
+    		<div class="main-menu">
+    			
+
+<nav role="navigation" class="main-menu nav-container menu-container nav-collapse collapse" id="menu_1452">
+			                  	            	                	            	          	
+        	        		        		        	        	                  	            	                	            	          	
+        	        		        		        	        	                  	            	                	            	          	
+        	        		        		        	        	                  	            	                	            	          	
+        	        		        		        	        	                  	            	                	            	          	
+        	        		        		        	        	        		<div class="main-menu-list-small-wrapper">
+	<ul id="main-menu-list-small" class="main-menu-list nav">
+    	<li class="menu-column menu-column-1">
+    		<ul>        			<li class="dropdown  "><div class="menu-item-wrapper"><button class="btn collapsed" data-toggle="collapse" data-target="#submenu_1454" data-parent="#main-menu-list-small"><span class="caret"></span></button><a id="menu_1454" class="" href="/Publishing-Solutions/"><span>Publishing Solutions</span><span class="caret"></span></a><ul id="submenu_1454" class="dropdown-menu collapse"><li class=""><a href="/Rivista-CMS/">Rivista CMS</a></li><li class=""><a href="/Digital-Editions/">Digital Editions</a></li><li class=""><a href="/Mobile-Apps/Turnstyle-Responsive-Editions/">Mobile Apps - Turnstyle Responsive Editions</a></li><li class=""><a href="/Mobile-Apps/Replica-Editions/">Mobile Apps - Replica Editions</a></li></ul></div></li>
+        		        			<li class="dropdown  "><div class="menu-item-wrapper"><button class="btn collapsed" data-toggle="collapse" data-target="#submenu_1457" data-parent="#main-menu-list-small"><span class="caret"></span></button><a id="menu_1457" class="" href="/Monetization-Strategies/"><span>Monetization Strategies</span><span class="caret"></span></a><ul id="submenu_1457" class="dropdown-menu collapse"><li class=""><a href="/Monetization-Tools/Display-Advertising/">Display Advertising</a></li><li class=""><a href="/Monetization-Strategies/Ad-Serving/">Ad Serving</a></li><li class=""><a href="/Monetization-Tools/Top-of-Town/">Top of the Town</a></li><li class=""><a href="/Monetization-Tools/Subscriber-Management/">Subscriber Management</a></li><li class=""><a href="/Monetization-Tools/Sponsorships/">Sponsorships</a></li><li class=""><a href="/Monetization-Tools/Content-Marketing/">Content Marketing</a></li><li class=""><a href="/Monetization-Tools/Rich-Media/">Rich Media</a></li><li class=""><a href="/Monetization-Tools/Events/">Events</a></li></ul></div></li>
+        		        			<li class="dropdown  "><div class="menu-item-wrapper"><button class="btn collapsed" data-toggle="collapse" data-target="#submenu_1459" data-parent="#main-menu-list-small"><span class="caret"></span></button><a id="menu_1459" class="" href="/Services/"><span>Services</span><span class="caret"></span></a><ul id="submenu_1459" class="dropdown-menu collapse"><li class=""><a href="/Services/Implementation/">Implementation</a></li><li class=""><a href="/Services/Training-Support/">Training &amp; Support</a></li><li class=""><a href="/Services/Publisher-Dashboard/">Publisher Dashboard</a></li><li class=""><a href="/Services/Reporting-Analytics/">Reporting &amp; Analytics</a></li></ul></div></li>
+        		</ul>
+    	</li>
+    	<li class="menu-column menu-column-2">
+    		<ul>        			<li><div class="menu-item-wrapper"><a id="menu_1493" class="" href="/Samples/"><span>Samples</span></a></div></li>
+        		        			<li class="dropdown  last"><div class="menu-item-wrapper"><button class="btn collapsed" data-toggle="collapse" data-target="#submenu_1495" data-parent="#main-menu-list-small"><span class="caret"></span></button><a id="menu_1495" class="" href="/About-GTxcel/"><span>About GTxcel</span><span class="caret"></span></a><ul id="submenu_1495" class="dropdown-menu collapse"><li class=""><a href="/About-GTxcel/About-Us/">About Us</a></li><li class=""><a href="/About-GTxcel/Contact-Us/">Contact Us</a></li><li class=""><a href="/About-GTxcel/Leadership/">Leadership</a></li><li class=""><a href="/About-GTxcel/Jobs/">Jobs</a></li></ul></div></li>
+        		</ul>
+    	</li>
+	</ul>
+	</div>
+		<div class="container-fluid">
+	<div class="nav-wrapper">
+    	<ul id="main-menu-list-large" class="main-menu-list nav">
+        	        			<li class="dropdown  "><div class="menu-item-wrapper"><button class="btn collapsed" data-toggle="collapse" data-target="#submenu_1454" data-parent="#main-menu-list-small"><span class="caret"></span></button><a id="menu_1454" class="" href="/Publishing-Solutions/"><span>Publishing Solutions</span><span class="caret"></span></a><ul id="submenu_1454" class="dropdown-menu collapse"><li class=""><a href="/Rivista-CMS/">Rivista CMS</a></li><li class=""><a href="/Digital-Editions/">Digital Editions</a></li><li class=""><a href="/Mobile-Apps/Turnstyle-Responsive-Editions/">Mobile Apps - Turnstyle Responsive Editions</a></li><li class=""><a href="/Mobile-Apps/Replica-Editions/">Mobile Apps - Replica Editions</a></li></ul></div></li>
+        		        			<li class="dropdown  "><div class="menu-item-wrapper"><button class="btn collapsed" data-toggle="collapse" data-target="#submenu_1457" data-parent="#main-menu-list-small"><span class="caret"></span></button><a id="menu_1457" class="" href="/Monetization-Strategies/"><span>Monetization Strategies</span><span class="caret"></span></a><ul id="submenu_1457" class="dropdown-menu collapse"><li class=""><a href="/Monetization-Tools/Display-Advertising/">Display Advertising</a></li><li class=""><a href="/Monetization-Strategies/Ad-Serving/">Ad Serving</a></li><li class=""><a href="/Monetization-Tools/Top-of-Town/">Top of the Town</a></li><li class=""><a href="/Monetization-Tools/Subscriber-Management/">Subscriber Management</a></li><li class=""><a href="/Monetization-Tools/Sponsorships/">Sponsorships</a></li><li class=""><a href="/Monetization-Tools/Content-Marketing/">Content Marketing</a></li><li class=""><a href="/Monetization-Tools/Rich-Media/">Rich Media</a></li><li class=""><a href="/Monetization-Tools/Events/">Events</a></li></ul></div></li>
+        		        			<li class="dropdown  "><div class="menu-item-wrapper"><button class="btn collapsed" data-toggle="collapse" data-target="#submenu_1459" data-parent="#main-menu-list-small"><span class="caret"></span></button><a id="menu_1459" class="" href="/Services/"><span>Services</span><span class="caret"></span></a><ul id="submenu_1459" class="dropdown-menu collapse"><li class=""><a href="/Services/Implementation/">Implementation</a></li><li class=""><a href="/Services/Training-Support/">Training &amp; Support</a></li><li class=""><a href="/Services/Publisher-Dashboard/">Publisher Dashboard</a></li><li class=""><a href="/Services/Reporting-Analytics/">Reporting &amp; Analytics</a></li></ul></div></li>
+        		
+        	        			<li><div class="menu-item-wrapper"><a id="menu_1493" class="" href="/Samples/"><span>Samples</span></a></div></li>
+        		        			<li class="dropdown  last"><div class="menu-item-wrapper"><button class="btn collapsed" data-toggle="collapse" data-target="#submenu_1495" data-parent="#main-menu-list-small"><span class="caret"></span></button><a id="menu_1495" class="" href="/About-GTxcel/"><span>About GTxcel</span><span class="caret"></span></a><ul id="submenu_1495" class="dropdown-menu collapse"><li class=""><a href="/About-GTxcel/About-Us/">About Us</a></li><li class=""><a href="/About-GTxcel/Contact-Us/">Contact Us</a></li><li class=""><a href="/About-GTxcel/Leadership/">Leadership</a></li><li class=""><a href="/About-GTxcel/Jobs/">Jobs</a></li></ul></div></li>
+        		
+        </ul>
+    </div>
+    </div>
+</nav>
+    		</div>
+    	</div>
+		</header><div id="index-container" class="page-container container-fluid">
+			<div class="row-fluid">
+									        
+        		<div class="main-block respond-container span12">
+			    			<div class="article page-content">
+    					    					<h1>
+	Privacy Policy</h1>
+<p>
+	GTxcel, Inc. and its subsidiaries ("GTxcel" also referred to as "we" or "us") provide this Privacy Policy to help you understand how we collect, use, and disclose information, including personal information that you may provide to us, information that may be obtained through your use of this website..&nbsp; <strong>This Privacy Policy applies only to this website, at www.gtxcel.com ("Website"), and GTxcel email, and does not apply to any other GTxcel websites, any website or digital edition we may create for a customer, or to any third-party websites. </strong>BY VISITING OUR WEBSITE, YOU SIGNIFY YOUR AGREEMENT TO THIS PRIVACY POLICY AND CONSENT TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION BY GTXCEL CONSISTENT WITH THIS PRIVACY POLICY.&nbsp; PLEASE READ THIS PRIVACY POLICY TO UNDERSTAND OUR PRACTICES.&nbsp; IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, DISCONTINUE ALL USE OF OUR WEBSITE.</p>
+<p>
+	Our Website is not directed toward children (minors under 13 years of age). We do not knowingly collect Personal Information from children.</p>
+<p>
+	Please note that this Privacy Policy applies only to our website and email, and the online collection and use of information and does not apply to any information that you may provide to us by other means, such as via regular mail or telephone.</p>
+<p>
+	If you receive mailings from us and prefer not to receive these mailings, or if you have questions or wish to send us comments about this Privacy Policy, please mail your questions or comments to:</p>
+<p>
+	GTxcel<br>
+	Attn: Customer Service<br>
+	144 Turnpike Road<br>
+	Southborough, MA 01772</p>
+<p>
+	Or you can send an email: <a href="mailto:Privacy@GTxcel.com">Privacy@GTxcel.com</a></p>
+<p>
+	<strong>INDEX:</strong></p>
+<p>
+	1.&nbsp;<a href="#Personal-Information">"Personal Information"</a></p>
+<p>
+	2.&nbsp;<a href="http://www.gtxcel.com/Privacy-Policy/#Personally-Identifiable-Information">Information</a><a href="#Information-Provide-Us"> You Provide to Us</a></p>
+<p>
+	3.&nbsp;<a href="#Information-Collected-Technology">Information Collected Through Technology</a></p>
+<p>
+	4.&nbsp;<a href="#Information-Collected-Others">Information That We Collect From Others</a></p>
+<p>
+	5.&nbsp;<a href="#Disclaimer-Links-Third-Party">Disclaimer About Links to Third-Party Websites</a></p>
+<p>
+	6.&nbsp;<a href="#Share-Collected-Information">When GTxcel May Share Collected Information</a></p>
+<p>
+	7. <a href="#Personal-Information-Used">How Personal Information May Be Used</a></p>
+<p>
+	8.&nbsp;<a href="#Choices-Information">Choices You Have about the Collection and Use of Your Personal Information</a></p>
+<p>
+	9. <a href="#Privacy-California">Supplemental Privacy Notice to California Residents</a></p>
+<p>
+	10.&nbsp;<a href="#Security">Security</a><a href="http://www.gtxcel.com/Privacy-Policy/#Security-Measures"> </a></p>
+<p>
+	11. <a href="#Notice-International">Special Notice to International Visitors</a></p>
+<p>
+	12. <a href="#Changes-Privacy-Policy">Changes to this Privacy Policy by GTxcel</a></p>
+<p>
+	<a name="Personal-Information"><strong>1. "PERSONAL INFORMATION".</strong></a></p>
+<p>
+	"Personal Information" means information that alone or when in combination with other information may be used to readily identify, contact, or locate you or a specific individual.&nbsp;</p>
+<p>
+	<a name="Information-Provide-Us"><strong>2. INFORMATION YOU PROVIDE TO US</strong></a></p>
+<p>
+	<strong>User Registration.</strong>&nbsp; You may be asked to share Personal Information such as your name, company name, title, address, telephone number, email address, and other information, when you seek information, make purchases, or otherwise interact with GTxcel.</p>
+<p>
+	We may also use the information you provide in online registration forms to notify you periodically about important changes to the Website (such as a change to this Privacy Policy or notice of a security breach).&nbsp; We may also notify you, the publisher, about new GTxcel services, and special offers and promotions that may be of interest to you; we will in no event contact your customers or subscribers.</p>
+<p>
+	We may collect Personal Information when you&nbsp; participate in activities on our Website, such as informational and promotional offers, when you request a newsletter, and when you provide information to our customer service representatives.</p>
+<p>
+	<strong>Social Media</strong>.&nbsp; We do not control or have responsibility for the acts of Users of&nbsp; the Website. Please be aware that if you disclose personal information through social media, in a bulletin board, chat room or other public forum, that information may be used by others. Our Website may offer public forums such as message boards, conversation pages, chat rooms, profile pages (“Public Forums”). If you provide Personal Information through the Public Forums, that Personal Information may be publicly posted through the Public Forum and otherwise disclosed without limitation as to its use by a third party.</p>
+<p>
+	<strong>Online Promotions, Contests and Sweepstakes. </strong>You may be asked to provide an email address or screen name, or other Personal Information, for entry into a particular promotion, including sweepstakes and contests, so that we can let you know if you won a prize. The specific rules and regulations governing the particular promotion, contest or sweepstakes will vary and your participation constitutes your agreement to abide by those rules and regulations. Certain promotions, contests or sweepstakes may be run by a GTxcel service provider or vendor or co-branded with one of our partners. In these instances the collection of your Personal Information may occur directly by the service provider or vendor or a third-party partner on their website. The promotion will state the privacy policy or policies governing the collection of such information if they should differ from this Privacy Policy.</p>
+<p>
+	<strong>Children. </strong>The GTxcel Website is not directed at children. If you are under 18 or otherwise would be required to have a parent or guardian consent to share information with GTxcel, you should not send any information about yourself to us. As required by law, if a person under 13 submits information through any part of a GTxcel Website, and we learn the person submitting the information is such a child, we will attempt to delete this information as soon as possible.</p>
+<p>
+	<a name="Information-Collected-Technology"><strong>3. INFORMATION COLLECTED THROUGH TECHNOLOGY</strong></a></p>
+<p>
+	<strong>Data</strong>.&nbsp; We collect information through technology to make our Website more interesting and useful to you and for various purposes related to our business. For example, we may collect information about your access time, computer configuration, type of browser software, operating system, resolution of your computer monitor, and your Internet Protocol ("IP") address. Standing alone, your IP address is not Personal Information.&nbsp;&nbsp; We may also collect your installation ID if you are using a mobile device such as a phone or tablet. The installation ID, standing alone, is not Personal Information. GTxcel (or GTxcel vendors) may observe your activities, preferences, and transactional data (such as your IP address and browser type) as well as related usage behavior depending on whether you are using our Website or a particular GTxcel Service. We may use this data for any purpose in connection with a particular Website or our business. While we may collect or log this information, we do not identify you or match this non-Personal Information with your Personal Information unless we believe doing so will help us better respond to a request you have made. Where such non-Personal Information is linked to your Personal Information we will treat such combined information as Personal Information. For information about specific GTxcel services, please see specific privacy notices directed to such services.</p>
+<p>
+	<strong>Cookies.&nbsp; </strong>Our Website collects information through a variety of technical methods, including cookies and Web beacons. A cookie is a text file stored on a user's hard drive that a Web site sends to your computer while you are viewing the Web site. It contains no Personal Information. Web beacons are small pieces of data that are embedded in images on the pages of Website. Cookies, Web beacons and other technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. Cookies are not used to retrieve any Personal Information from the user's computer.</p>
+<p>
+	We may use the information collected through these technical methods for many purposes, including delivering content, tracking and enhancing individuals' experiences on our Website.&nbsp;&nbsp; We also may use technical methods to analyze the traffic patterns on our Website, such as the frequency with which our users visit various parts of our Website, and third party Website, such as the frequency with which our users visit other Website. In HTML e-mails that we send our guests, we may use technical methods for a number of purposes, including: to determine whether our guests have opened or forwarded those e-mails and/or clicked on links in those e-mails, and to determine whether a person has made an inquiry or purchase in response to a particular e-mail. These technical methods may enable us to collect and use information in a form that may amount to Personal Information.</p>
+<p>
+	<a name="Information-Collected-Others"><strong>4. INFORMATION THAT WE COLLECT FROM OTHERS</strong></a></p>
+<p>
+	If we obtain Personal Information about you from third parties, we will treat all your Personal Information that we obtain from others with the same care as that for other Personal Information as described in this Privacy Policy.</p>
+<p>
+	<a name="Disclaimer-Links-Third-Party"><strong>5. DISCLAIMER ABOUT LINKS TO THIRD-PARTY WEBSITES </strong></a></p>
+<p>
+	This Website or may contain links to third-party websites and social networking services, however, please be aware that GTxcel is not responsible for and cannot control the privacy practices of any other websites or social networking services. We encourage you to read the privacy policies for these other websites. This Website also contains links to co-branded websites that may display GTxcel's logo and trademarks but which are maintained by third parties. Such websites may be identified by the fact that they do not display a "GTxcel.com" URL.&nbsp; If you click on a third-party link or an advertisement on one of our Website or apps and link to a third party's Web site, then our Privacy Policy will not apply to your Personal Information collected on that third party's website and you must read the privacy policy posted on that site to see how your Personal Information will be handled. We do not monitor or control the information collection or privacy practices of third parties, and are not responsible for their practices or the content of their website, including, without limitation, their use of any information.</p>
+<p>
+	<strong>This Privacy Policy applies solely to information collected by GTxcel on its Website or online.</strong></p>
+<p>
+	<a name="Share-Collected-Information"><strong>6. WHEN GTXCEL MAY SHARE COLLECTED INFORMATION</strong></a></p>
+<p>
+	As mentioned in the beginning of this Privacy Policy, GTxcel may share Personal Information within GTxcel and with its affiliates and vendors to fulfill its obligations to you and operate its business, consistent with this Privacy Policy. In addition, we may share your Personal Information with third parties in the following situations:</p>
+<p>
+	<strong>GTxcel Affiliates and Vendors. </strong>GTxcel works with many affiliated third parties and vendors. So that these groups may provide their products and services to us and provide any information you have requested, these third parties may have access to or process your Personal Information. GTxcel may also sometimes permit our authorized service providers to have access to aggregate statistics about our customers, sales, traffic patterns, and related Website information. These transfers of aggregate statistics do not involve Personal Information.</p>
+<p>
+	<strong>Recruitment and Job Applications</strong>. Residents of the United States may provide us with Personal Information through our Website or through email. Personal information such as that contained on a resume or curriculum vitae may be submitted in connection with a job application or inquiry. We may use this information throughout GTxcel for the purpose of employment consideration or your inquiry. We may keep your information on file for future consideration.&nbsp; For clarification, the above paragraph and this entire Privacy Policy applies only to this Website and not to any website created for customers or digital editions.</p>
+<p>
+	<strong>Enabling Services. </strong>&nbsp;Personal Information that is collected through the Website may be used and/or disclosed to third parties in order to enable us to provide GTxcel services. For example, the Website may allow you to interface with a third party website, social media, or application. To facilitate that connection, we may use your Personal Information and/or disclose your Personal Information to third parties.</p>
+<p>
+	<strong>Public Areas/Social Media</strong>. Any information disclosed in public areas of a GTxcel Website (e.g., Facebook, YouTube, Twitter, etc.) will become public information. We cannot control the use of information disclosed in public forums, such as social media, bulletin boards, blogs, chat rooms, and tweets. You should exercise caution when disclosing information in these public areas, and be careful how you disclose your Personal Information. Content posted in public areas of the GTxcel Website, including advice and opinions, represent the views and is the responsibility of those who post the content. GTxcel does not necessarily endorse, support, verify, or agree with the content posted.</p>
+<p>
+	<strong>Mergers, Acquisitions, and Insolvency. </strong>If GTxcel should ever file for bankruptcy or merge with another company, or if GTxcel should decide to buy, sell, or reorganize some part or all of its business, GTxcel may be required to disclose your Personal Information to prospective or actual purchasers in connection with one of these transactions</p>
+<p>
+	<strong>As Required by Law and Other Extraordinary Disclosures</strong>. GTxcel may be required to disclose your Personal Information if it: (i) believes it is reasonably necessary to comply with legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirements of any governmental authority; (ii) would potentially mitigate our liability in an actual or potential lawsuit; (iii) is otherwise necessary to protect our rights or property; or (iv) is necessary to protect the legal rights or property of others.</p>
+<p>
+	<a name="Personal-Information-Used"><strong>7. HOW PERSONAL INFORMATION MAY BE USED </strong></a></p>
+<p>
+	GTxcel may use your Personal Information to generate aggregated statistical information. But such aggregated information will exclude Personal Information. We describe our uses of your information below.</p>
+<p>
+	<strong>GTxcel Promotional Uses.&nbsp; </strong>We may also notify you, the publisher, about new GTxcel services, and special offers and promotions that may be of interest to you; we will in no event contact your customers or subscribers. These promotional materials may be sent to you by postal mail, email or other means. You may opt out of receiving these communications as provided in below.</p>
+<p>
+	When you purchase or request&nbsp; services (or information about&nbsp; services) from the Website, promotional materials about goods and services offered by another GTxcel website and/or by a third party may accompany delivery of the&nbsp; service or information that you have requested. Because these promotional materials accompany&nbsp; services or information that you have requested, your opt-outs for&nbsp; GTxcel mail or email will not apply to any third-party promotions.</p>
+<p>
+	<strong>&nbsp;Operational Uses.&nbsp; </strong>GTxcel may also use your Personal Information for many purposes other than sending you promotional materials. (We refer to all of these types of uses of your personal information that do not involve the sending of promotional materials as "Operational Uses.") For example, we may use your information to complete transactions requested by you (such as your purchase of a service offered by us), or to send you administrative communications either about your account with us or about features of our Website or services ordered by you.</p>
+<p>
+	Sometimes GTxcel also works with other companies who facilitate transactions with you and help either gather your information or communicate with you, such as a company that helps to provide customer service. Your opt-out choices will not apply to sharing by GTxcel of your personal information with any of these companies. These companies are allowed to gather, receive, and use your information only for the purposes described in this paragraph or to facilitate compliance with laws.</p>
+<p>
+	As another example of Operational Uses, we may share your Personal Information with the GTxcel telephone service center or third party telephone service centers contracted by GTxcel, so that the service center operators are able to respond immediately to your questions or requests when you call, rather than asking you to provide your information a second time. Because these uses of your Personal Information do not involve sending you promotional materials and may be necessary to fulfill your account with us, your opt-outs&nbsp; will not apply to any of these Operational Uses.</p>
+<p>
+	<strong>Non-Personal Information.&nbsp; </strong>GTxcel may take your Personal Information and make it non-Personal, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics that make the information personal to you (de-personalizing your information). We may use such non-Personal information in aggregate form in our business and to provide statistical information based on this data to advertisers, affiliates, clients, and other current and potential business partners.</p>
+<p>
+	<a name="Choices-Information"><strong>8. CHOICES YOU HAVE ABOUT THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION</strong></a></p>
+<p>
+	Your opt-out choices are as follows:</p>
+<p>
+	<strong>Third Parties. </strong>&nbsp;When you order products from third parties through GTxcel, you may receive third party promotional materials over which GTxcel has no control. Your opt-out choices for third parties generally are specific to the parties from which you purchase products.</p>
+<p>
+	<strong>GTxcel.&nbsp; </strong>You may correct, change, or delete your Personal Information by contacting GTxcel at the address above.&nbsp; You may also opt-out of promotional materials within emails by following a link in the email to opt-out. Any opt-out choices you make will not apply in situations where (a) you either have made, simultaneously make, or later make a specific request for information from GTxcel, (b) GTxcel shares your Personal Information as described herein.&nbsp;&nbsp; Also, any opt-out choices you make will not apply to Personal Information that you provide about other persons, but these other persons will have the opportunity to opt out of receiving promotional materials.</p>
+<p>
+	In addition, any time that we send you promotional materials that you have consented to receive under one of the previously described opt-out choices, we may accompany those materials with other promotional materials, which will be covered by the other opt-out choices.</p>
+<p>
+	<a name="Privacy-California"><strong>9. SUPPLEMENTAL PRIVACY NOTICE TO CALIFORNIA RESIDENTS</strong></a></p>
+<p>
+	If you are a resident of California, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information, if any, by us to a third party for the third party's direct marketing purposes. This right granted to California residents applies only to their activities within the State of California. To make such a request, please send an email to <a href="mailto:Privacy@GTxcel.com">Privacy@GTxcel.com</a> or write us at: Customer Service, 144 Turnpike Road, Southborough, MA 01772.</p>
+<p>
+	<a name="Security"><strong>10. SECURITY </strong></a></p>
+<p>
+	If GTxcel learns of a security system's breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using this Website or a GTxcel Service or providing Personal Information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this Website or GTxcel Service. GTxcel may post a notice on this Website if a security breach occurs. If this happens, you will need a web browser or mobile device enabling you to view the GTxcel Website or application. GTxcel may also send an email to you at the email address you have provided to us in these circumstances or communicate with you by other means if we can. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.</p>
+<p>
+	<a name="Notice-International"><strong>11. SPECIAL NOTICE TO INTERNATIONAL VISITORS AND CUSTOMERS</strong></a></p>
+<p>
+	Because GTxcel operates globally, we may transfer your Personal Information within our global operations to fulfill our obligations to you, but always subject to the limitations of applicable data protection law and this Privacy Policy. Privacy laws differ across the globe. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, including those whose privacy laws may be more strict than U.S. law, please note that you are transferring your personal data to the United States to GTxcel. By providing your personal data you consent to that transfer and processing.</p>
+<p>
+	<a name="Changes-Privacy-Policy"><strong>12. CHANGES TO THIS PRIVACY POLICY BY GTXCEL</strong></a></p>
+<p>
+	We reserve the right to change this Privacy Policy in the future.&nbsp; If in the future we change our Privacy Policy, we will post the new Privacy Policy on this Website or Application. Your continued use of this Website or GTxcel Product following a change in the Privacy Policy represents consent to the new Privacy Policy to the fullest extent permitted by law. We encourage you to periodically review this Privacy Policy.</p>
+<p>
+	Please note that, at all times, you are responsible for updating your Personal Information to provide us your current email address. In the event that the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you any notices described herein, our dispatch of the email containing such notice will nonetheless constitute effective notice of the amendment described in the notice.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>UPDATED:&nbsp; JUNE 2013</strong></p>
+                            					
+    			</div>
+						
+			
+
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+    <div class="fb-like" data-href="http://www.gtxcel.com/Privacy-Policy/index.php" data-send="true" data-width="" data-show-faces="true"></div>
+
+
+
+
+		</div>
+			</div>
+</div>
+<footer>
+    <div class="container-fluid">
+        <div class="row-fluid">
+        	            <div class="span3" id="footer-main-menu">
+                
+<nav>
+<h5>Products + Services</h5>
+    <ul class="nav">
+    <li><a href="/Publishing-Solutions/">Publishing Solutions</a></li><li><a href="/Monetization-Strategies/">Monetization Strategies</a></li><li><a href="/Services/">Services</a></li><li><a href="/Samples/">Samples</a></li><li><a href="/About-GTxcel/">About GTxcel</a></li>    </ul>
+</nav>            </div>
+                                    <div class="span3" id="footer-eyebrow-menu">
+                
+<nav>
+<h5>Press Room</h5>
+    <ul class="nav">
+    <li><a href="/News/">News</a></li><li><a href="/GTxcel-Blog/">Blog</a></li><li><a href="/Resources/">Resources</a></li>    </ul>
+</nav>            </div>
+                    	<div class="span6">
+        		<div class="social-media-link">
+
+		<a href="http://www.facebook.com/GTxcelInc"><img alt="" src="/facebook-logo.png" style="width: 40px; height: 40px;"></a>
+		<a href="https://twitter.com/GTxcel"><img alt="" src="/twitter.png" style="width: 40px; height: 40px;"></a>
+		<a href="http://www.linkedin.com/company/GTxcel"><img alt="" src="/linkedin-logo.png" style="width: 40px; height: 40px;"></a>
+		<a href="https://www.youtube.com/user/GTxcel"><img alt="" src="/you-tube1.png" style="width: 40px; height: 40px;"></a>
+	 	<a href="https://plus.google.com/b/104817549524133635855/104817549524133635855/about"><img alt="" src="/google-g-logo.png" style="width: 40px; height: 40px;"></a>
+	<br>
+              © Copyright GTxcel, Inc. 2013. All rights reserved.
+            	<br>
+GTXCEL and RIVISTA are trademarks of GTxcel, Inc.<br>
+<span class="rivistaLink-custom"><a href="http://www.godengo.com/Rivista-Content-Management-System/"><img src="/core/media/images/powered-by-rivista_white.png" alt="Powered by Rivista"></a></span><br>
+	<a href="/Privacy-Policy/">Privacy Policy</a> | <a href="/Terms-of-Use/">Terms of Use</a>
 	</div>
 	
+	            	<p>Copyright&nbsp;2013&nbsp;GTxcel. All rights reserved.</p>
+            	<p><span class="rivistaLink"><a href="http://www.godengo.com/Rivista-Content-Management-System/"><img src="/core/media/images/powered-by-rivista_white.png" alt="Powered by Rivista"></a></span></p>
+            </div>
+        </div>
+    </div>
+</footer><!--[if lt IE 9]>
+<script  type="text/javascript" language="JavaScript" src="/core/media/themes/Respond/js/respond.js?ver=1386076698"></script>
+<![endif]-->
+ <!-- tracker.tpl -->
 
 
-</div>
-
-	
-	
-	
-	
-    
-    
-
-
-
-
-
-
-
-
-<!-- Tracking codes for Google Analytics (GA) and Wordstream -->
-
-<script type="text/javascript">
+<!-- Old GA code -->
+<!-- <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try{
-var pageTracker = _gat._getTracker("UA-442551-1");
+</script> -->
+<!-- <script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-36271661-19");
+pageTracker._initData();
 pageTracker._trackPageview();
-} catch(err) {}
-</script>
+</script> -->
+
+<!-- Asyncronous GA Code -->
 <script type="text/javascript">
-document.write(unescape("%3Cscript src='"+((document.location.protocol=="https:") ? "https:" : "http:")+"//tracker.wordstream.com/ngt.js'%3E%3C/script%3E"));
-</script><script src="https://tracker.wordstream.com/ngt.js"></script> <script type="text/javascript">
-if (window._ngt)
-{
-  var tracker = new _ngt("WS-73C869");
-  tracker.track();
-}
+    var _gaq = _gaq || [];
+    
+    // GA tracker for GTxcel
+    _gaq.push(['_setAccount','UA-36271661-19']);
+    _gaq.push(['_trackPageview']);
+    
+    // GA tracking for publisher.
+            _gaq.push(['b._setAccount','']);
+        _gaq.push(['b._trackPageview']);
+    </script>
+
+<script type="text/javascript">  (function() {
+    var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:'   == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 </script>
 
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-155UsT_Yy1Za-";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-155UsT_Yy1Za-" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-155UsT_Yy1Za-.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
+<!-- End Quantcast tag -->
+ 
 
+<!-- Google Code for GTxcel View Thru Conversion Page
+In your html page, add the snippet and call
+goog_report_conversion when someone clicks on the
+phone number link or button. -->
+<script type="text/javascript">
+  /* <![CDATA[ */
+  goog_snippet_vars = function() {
+    var w = window;
+    w.google_conversion_id = 1033255970;
+    w.google_conversion_label = "fj37CNr1xQQQovjY7AM";
+    w.google_conversion_value = 0;
+  }
+  // DO NOT CHANGE THE CODE BELOW.
+  goog_report_conversion = function(url) {
+    goog_snippet_vars();
+    window.google_conversion_format = "3";
+    window.google_is_call = true;
+    var opt = new Object();
+    opt.onload_callback = function() {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  }
+  var conv_handler = window['google_trackConversion'];
+  if (typeof(conv_handler) == 'function') {
+    conv_handler(opt);
+  }
+}
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion_async.js">
+</script>
 
-
-
-
-
-
-
-
-	
-    
-    
-    	
-      	      
-        
-        
-    
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
+<script type="text/javascript" language="JavaScript" src="/core/media/themes/Respond/js/pageLayout.js?ver=1386076698"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/js/base.js?ver=1386076747"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/themes/Respond/js/photoContainerScaler.js?ver=1386076698"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/js/validate.js?ver=1386076698"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/js/rivista.js?ver=1386076698"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/js/xml.js?ver=1386076698"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/themes/Respond/js/photoCaption.class.js?ver=1386076698"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/themes/Respond/js/bootstrap.min.js?ver=1386076698"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/themes/Respond/js/bootstrap-overrides.js?ver=1386076747"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/themes/Respond/js/matchmedia.js?ver=1386076698"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/themes/Respond/js/picturefill.js?ver=1386076747"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/themes/Respond/js/debugConsole.js?ver=1386076747"></script>
+<script type="text/javascript" language="JavaScript" src="/core/media/js/RivistaGoogleDFP.js?ver=1386076747"></script>
+<script type="text/javascript">
+	RivistaGoogleDFP.init([],,"community");
+</script>
+<!-- godengo-monitor -->
 
 </body></html>
