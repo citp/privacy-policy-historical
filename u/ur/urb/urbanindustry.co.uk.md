@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanindustry.co.uk privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609000739id_/http%3A//www.urbanindustry.co.uk/help.aspx%3Fsid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanindustry.co.uk privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207053627id_/http%3A//www.urbanindustry.co.uk/help.aspx%3Fsid%3D4) for the most accurate reproduction.*
 
 # Urban Clothing, Street Wear, Urban Streetwear, Urban Clothes
 
@@ -21,6 +21,12 @@ Alder Close
 Eastbourne
 
 BN23 6QE
+
+TELEPHONE: +44 (0) 1323 412444
+
+Monday - Friday 9am - 5pm
+
+EMAIL: mailorder@urbanindustry.co.uk
 
 This Privacy Policy will explain the following regarding use of our site:
 
