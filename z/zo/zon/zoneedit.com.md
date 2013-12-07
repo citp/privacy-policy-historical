@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoneedit.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620084346id_/http%3A//zoneedit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoneedit.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207055334id_/http%3A//zoneedit.com/privacy.html) for the most accurate reproduction.*
 
 # Advanced DNS Management - Easy, web-based domain manager - ZoneEdit.com
 
