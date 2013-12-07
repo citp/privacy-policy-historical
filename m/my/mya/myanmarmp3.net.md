@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myanmarmp3.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606031222id_/http%3A//www.myanmarmp3.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myanmarmp3.net privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207024708id_/http%3A//myanmarmp3.net/legal/privacy) for the most accurate reproduction.*
 
 # MyanmarMP3.net Privacy Policy - MyanmarMP3.Net
 
