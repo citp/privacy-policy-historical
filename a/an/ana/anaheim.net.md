@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anaheim.net privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615011336id_/http%3A//anaheim.net/article.asp%3Fid%3D498) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anaheim.net privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207051833id_/http%3A//www.anaheim.net/article.asp%3Fid%3D498) for the most accurate reproduction.*
 
 # City of Anaheim - Anaheim.Net Privacy and Disclosure Policy
 
-The following information explains the City of Anaheim’s (City) policy regarding any information you may supply to us when visiting [www.anaheim.net](http://www.anaheim.net/) and affiliated splash pages ([www.anaheimconventioncenter.com](http://www.anaheimconventioncenter.com/), [www.anaheimadvantage.com](http://www.anaheimadvantage.com/), etc.) that are part of the City’s official web site and any information that may be provided to the public by the City’s official site.
+The following information explains the City of Anaheim’s (City) policy regarding any information you may supply to us when visiting [www.anaheim.net](http://www.anaheim.net/) and affiliated splash pages (i.e. [www.anaheimconventioncenter.com](http://www.anaheimconventioncenter.com/)) that are part of the City’s official web site and any information that may be provided to the public by the City’s official site.
 
  _
 
