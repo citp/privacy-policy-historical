@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the students3k.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601142401id_/http%3A//projects.students3k.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the students3k.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207195952id_/http%3A//projects.students3k.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - FREE PROJECTS
+# Privacy Policy
 
 At Students3k ([www.students3k.com](http://students3k.com/)), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
