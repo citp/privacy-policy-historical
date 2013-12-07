@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the siberianhealth.com privacy policy that was archived on 2013-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517011327id_/http%3A//siberianhealth.com/index.php%3Froute%3Dinformation/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the siberianhealth.com privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207211621id_/http%3A//siberianhealth.com/index.php%3Froute%3Dinformation/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
 <title>Privacy Policy</title>
@@ -10,7 +10,7 @@
 <link href="http://siberianhealth.com/image/data/Corporate/Logo ENG1.jpeg" rel="icon">
 
 
-	<!--<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>-->	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<!--<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>-->	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 
 	<!-- ======================= JS fancybox ======================= -->
 
@@ -26,6 +26,7 @@
 	<link href="/catalog/view/theme/default/css/css.css" rel="stylesheet">
 	<link href="/catalog/view/theme/default/css/jquery.formstyle.css" rel="stylesheet">
     <link href="/catalog/view/theme/default/css/cusel.css" rel="stylesheet" type="text/css">
+    <link href="https://code.jquery.com/ui/1.10.3/themes/black-tie/jquery-ui.css" rel="stylesheet" type="text/css">
 <!--[if lt IE 9]>
    <script>
       document.createElement('header');
@@ -43,6 +44,7 @@
     <script src="/catalog/view/javascript/js/jquery.formstyler.min.js"></script>
     <script src="/catalog/view/javascript/js/tabs.js" type="text/javascript"></script>
 	<script type="text/javascript" src="/catalog/view/javascript/js/jquery.mousewheel.js"></script>
+	<script type="text/javascript" src="//code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 	
 	<script type="text/javascript" src="/catalog/view/javascript/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
 	<script type="text/javascript" src="/catalog/view/javascript/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
@@ -76,6 +78,32 @@
 //--></script>
 
 <script type="text/javascript">
+	$(document).ready(function(){
+		$(".autoshipping_date").datepicker({
+			showAnim: 'slideDown',
+			dateFormat: 'yy-mm-dd',
+			changeMonth: true,
+			changeYear: true,
+			beforeShow: function(input, inst){
+				var height = -input.offsetHeight - 10;
+				var width = input.offsetWidth - 105;
+				inst.dpDiv.css({marginTop: height + 'px', marginLeft: width + 'px'});
+			}
+		});
+		
+		/*$(".autoshipping_date").live("click", function(){
+			$(this).datepicker({ 
+				showAnim: 'slideDown',
+				dateFormat: 'yy-mm-dd',
+				beforeShow: function(input, inst){
+					var height = -input.offsetHeight - 10;
+					var width = input.offsetWidth - 105;
+					inst.dpDiv.css({marginTop: height + 'px', marginLeft: width + 'px'});
+				}
+			});
+		});*/
+	});
+	
     $(window).load(function() {
         $("#subscribe_form").submit(function(event) {
             event.preventDefault();
@@ -401,14 +429,42 @@
 <script type="text/javascript" src="catalog/view/javascript/jquery/tab.js"></script>
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
 
+<script type="text/javascript">
+	(function($) {
+	$(function() {
+
+		$('.inp-date').styler3();
+		$('.inp-year').styler4();
+		//$('.inp-select').styler3();
+	})
+	})(jQuery)    
+
+</script>
+
 </head>
 <body id="backgr" class="TTWForm-container">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31623178-1']);
+  _gaq.push(['_setDomainName', 'siberianhealth.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<a rel="author" href="http://plus.google.com/114362253494145962150"></a>
+<a rel="publisher" href="http://plus.google.com/114362253494145962150"></a> 
 		<div id="top" class="TTWForm-wrapper">
 			<div class="center TTWForm clearfix">
 									<div class="login">
-						<a href="/index.php?route=account/create" id="link-sign">Sign up</a>
+						<a href="/index.php?route=account/create" id="link-sign">Sign up for new Customers</a>
 						<span>|</span>
-						<a href="/index.php?route=account/login" id="link-login">Login</a>
+						<a href="/index.php?route=account/login" id="link-login">Login for existing Customers</a>
 					</div>
                                 <!--<div class="help" style="right: 218px;">
 					<a href="/index.php?route=information/help">Help</a>
@@ -427,7 +483,7 @@
             	</div>	-->
 				
 				<div class="shCart">
-                	<span class="shCartIcon"></span>
+                                	<span class="shCartIcon"></span>
 					<a id="shCart" href="/index.php?route=checkout/cart">Shopping cart</a>
 					<span>|</span>
 					<a href="/index.php?route=checkout/cart" id="productCartCount">0</a>
@@ -466,7 +522,7 @@
                      </form>
                      
    					<div class="free-sheeping">
-                    	<img src="/images/free.png" width="210" height="51" alt="">
+                    	<img src="/images/free100.png" width="210" height="51" alt="">
                     </div>
 					</div>					
 				</header>					
@@ -558,7 +614,7 @@
 					</div>
 							</li>
 					<li>
-			<a class="no-dir" href="http://siberianhealth.com/index.php?route=product/category&amp;path=184">miscellaneous</a>
+			<a class="no-dir" href="http://siberianhealth.com/Miscellaneous">miscellaneous</a>
 							</li>
 		        <li><a class="no-dir" href="/index.php?route=product/special">Special Offers</a></li>
         <li><a class="no-dir" href="/index.php?route=information/contact">Contact Us</a></li>
