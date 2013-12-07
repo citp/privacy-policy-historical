@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwcn.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506193043id_/http%3A//www.nwcn.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwcn.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207082622id_/http%3A//www.nwcn.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # NWCN | Northwest News, Local News, Breaking News, Weather | Privacy Policy
 
