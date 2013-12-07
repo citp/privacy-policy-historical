@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parslivetv.eu privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602045257id_/http%3A//parslivetv.eu/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parslivetv.eu privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207174026id_/http%3A//parslivetv.eu/privacy_policy.php) for the most accurate reproduction.*
 
 # Serial Privacy_policy - parslivetv.eu
 
@@ -20,23 +20,5 @@ Note that you can change your browser settings to disable cookies if you have pr
 Contact Information  
 Concerns or questions about this privacy policy can be directed to info@free0098.com for further clarification.
 
-[](https://web.archive.org/web/20130602045257id_/http%3A//parslivetv.eu/index.php?tv=DanceTV "Dance TV") [](https://web.archive.org/web/20130602045257id_/http%3A//parslivetv.eu/index.php?tv=BBCFA "BBC Persian") [](http://www.iranianlivetv.com/allirib.php "Irib TV") [](https://web.archive.org/web/20130602045257id_/http%3A//parslivetv.eu/index.php?tv=Cine5 "Cine 5 Turk")   
-[](http://media0098.com/ "Media0098.com")  
-[](https://web.archive.org/web/20130602045257id_/http%3A//parslivetv.eu/farsi1serial1.php "Farsi1 Serial")
-
   
-
-
-**Latest added Series (Serialhaye amade shode, be tartib)**  
-Newest, First...
-
-` Emarat Saraab [Part 51](https://web.archive.org/web/20130602045257id_/http%3A//parslivetv.eu/emarat-sarab.php "Emarate Saraab")  
-Shamime Eshgh [Part 130](https://web.archive.org/web/20130602045257id_/http%3A//parslivetv.eu/shamime-eshgh.php "Shamime Eshgh")  
-**Harime Soltan**[Part 155](https://web.archive.org/web/20130602045257id_/http%3A//parslivetv.eu/harime-soltan.php "Harime Soltan")  
- Kuzey Guney [Part 12](https://web.archive.org/web/20130602045257id_/http%3A//parslivetv.eu/kuz.php "Kuzey Guney")  
-`
-
-* * *
-
-  
-Copyright ©2010 free0098.com | [Privacy Policy / Contact US](https://web.archive.org/web/20130602045257id_/http%3A//parslivetv.eu/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20130602045257id_/http%3A//parslivetv.eu/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
+Copyright ©2010 free0098.com | [Privacy Policy / Contact US](https://web.archive.org/web/20131207174026id_/http%3A//parslivetv.eu/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20131207174026id_/http%3A//parslivetv.eu/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
