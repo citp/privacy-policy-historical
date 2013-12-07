@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyfire.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515204737id_/http%3A//www.skyfire.com/about/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyfire.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207150447id_/http%3A//www.skyfire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,7 +54,7 @@ Please note that end user license agreements ("EULAs") governing the use of cert
 
 ### 3\. Can Minors Use the Sites and Services?
 
-Skyfire does not knowingly collect or solicit information from anyone under the age of 18, and requires that users to be of age 18 or older to use our Sites and Services. If you do not meet these age requirements, please do not attempt to register for or use any of the Sites and Services, and do not send any information about yourself to us, including your name, address, telephone number, or email address. If we learn that we have collected personal information from anyone under the age of 18 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 18, please contact us at privacy@skyfire.com and we will promptly delete such information.
+Skyfire does not knowingly collect or solicit information from anyone under the age of 18, and requires that users to be of age 18 or older to use our Sites and Services. If you do not meet these age requirements, please do not attempt to register for or use any of the Sites and Services, and do not send any information about yourself to us, including your name, address, telephone number, or email address. If we learn that we have collected personal information from anyone under the age of 18 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 18, please contact us at [privacy@skyfire.com](mailto:privacy@skyfire.com) and we will promptly delete such information.
 
 ### 4\. How Does Skyfire Share Information?
 
@@ -103,11 +103,3 @@ Mountain View, CA 94041
 [privacy@skyfire.com](mailto:privacy@skyfire.com)
 
 Note:  Some users may have more restrictive privacy policies based on specific country or wireless operator.  Please review the privacy policy available in the Skyfire application on your device if you are concerned.  The privacy policy can be found in the "settings" area in the Skyfire application.
-
-| 
-
-[Site Terms of Use](http://www.skyfire.com/about/terms-of-use)
-
-[Browser Terms of Use](http://www.skyfire.com/about/browser-terms)
-
-[Privacy Policy](http://www.skyfire.com/about/privacy-and-security)
