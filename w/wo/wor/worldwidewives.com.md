@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the worldwidewives.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116060717id_/http%3A//www.worldwidewives.com/legal-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidewives.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207033015id_/http%3A//www.worldwidewives.com/privacy) for the most accurate reproduction.*
 
-# World Wide Wives - Privacy Policy
+# Privacy Policy | World Wide Wives
+
+**Privacy Policy**
 
 This is the web site of 
+
+Address: 
 
 We can be reached via e-mail at roc@worldwidewives.com  
 or you can reach us by telephone at +44 208 9412364 
@@ -13,7 +17,7 @@ We collect the e-mail addresses of those who post messages to our bulletin board
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customise the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site.
 
-Our cookie policy can be found [here](https://web.archive.org/cookies.jsp)
+Our cookie policy can be found [here](https://web.archive.org/cookies)
 
 If you do not want to receive e-mail from us in the future, please let us know by visiting us at [http://www.worldwidewives.com/emailprefs.jsp](https://web.archive.org/emailprefs.jsp).
 
@@ -35,4 +39,4 @@ With respect to security: When we transfer and receive certain types of sensitiv
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-**Pages** \- [Home Page](https://web.archive.org/) \- [Signup Page](https://web.archive.org/upgrade/newprofile.jsp)
+**Pages** \- [Home Page](https://web.archive.org/) \- [Signup Page](https://web.archive.org/register)
