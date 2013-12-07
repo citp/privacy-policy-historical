@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snagajob.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608223745id_/http%3A//www.snagajob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snagajob.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207234127id_/http%3A//www.snagajob.com/privacy) for the most accurate reproduction.*
 
 # SnagAJob.com Privacy Policy
 
