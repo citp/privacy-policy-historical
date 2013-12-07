@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the usfreeads.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430083342id_/http%3A//privacy-policy.truste.com/verified-policy/usfreeads.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usfreeads.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207024217id_/http%3A//privacy-policy.truste.com/verified-policy/usfreeads.com) for the most accurate reproduction.*
 
 # Privacy Policy for usfreeads.com
 
 Effective on November 22, 2011 
 
-This privacy statement describes how USFreeads collects and uses the personal information you provide on our Web site: [usfreeads.com ](http://usfreeads.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how USFreeads collects and uses the personal information you provide on our Web site: [usfreeads.com ](https://usfreeads.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
