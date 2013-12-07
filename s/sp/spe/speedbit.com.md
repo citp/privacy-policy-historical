@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedbit.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527040447id_/http%3A//www.speedbit.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedbit.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207204141id_/http%3A//www.speedbit.com/legal/privacy) for the most accurate reproduction.*
 
 # Speedbit Privacy Policy
 
