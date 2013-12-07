@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebuddy.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524161552id_/http%3A//www.ebuddy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuddy.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207080438id_/http%3A//www.ebuddy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eBuddy
 
@@ -83,7 +83,7 @@ eBuddy will use the information it collects for the following purposes:
 
 As a general matter, we use the information we collect, to provide the Service to you. We will also try to enhance and personalize your use of the eBuddy Services based on this information. eBuddy may offer you targeted advertisements based on for example your age, gender and type of device.
 
-In addition, eBuddy wants to keep you informed of developments of the eBuddy service and of any promotional actions by eBuddy. We may ask you to participate in surveys in order to help us enhance the Service. If you do not want to receive this kind of messages about the Service, you can unsubscribe via this Internet address: [http://www.ebuddy.com/unsubscribe.html](https://web.archive.org/web/20130524161552id_/http%3A//www.ebuddy.com/unsubscribe.html).
+In addition, eBuddy wants to keep you informed of developments of the eBuddy service and of any promotional actions by eBuddy. We may ask you to participate in surveys in order to help us enhance the Service. If you do not want to receive this kind of messages about the Service, you can unsubscribe via this Internet address: [http://www.ebuddy.com/unsubscribe.html](https://web.archive.org/web/20131207080438id_/http%3A//www.ebuddy.com/unsubscribe.html).
 
 eBuddy uses the information it collects for statistical purposes and for reporting. This allows usfor example to monitor performance and detect technical problems. All analysis is done in an anonymous, aggregate manner, such that no part of the data can be traced back to individual users.
 
