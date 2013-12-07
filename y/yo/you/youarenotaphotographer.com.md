@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youarenotaphotographer.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608181913id_/http%3A//youarenotaphotographer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youarenotaphotographer.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207180432id_/http%3A//youarenotaphotographer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « You Are Not a Photographer | Exposing fauxtographers since 2011
 
