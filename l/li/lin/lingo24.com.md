@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lingo24.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601052316id_/http%3A//www.lingo24.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingo24.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207092408id_/http%3A//www.lingo24.com/privacy.html) for the most accurate reproduction.*
 
 # Translating Service | Lingo24 Privacy Policy
 
