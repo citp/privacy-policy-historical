@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardensalive.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606032746id_/http%3A//www.gardensalive.com/article.asp%3Fai%3D723) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardensalive.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207051131id_/http%3A//www.gardensalive.com/article.asp%3Fai%3D723) for the most accurate reproduction.*
 
 # <font color=red size=3><b>Gardens Alive Privacy Policy!</b></font> - Gardens Alive!
 
