@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the straponcum.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502075838id_/http%3A//straponcum.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straponcum.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207055307id_/http%3A//www.straponcum.com/privacy_policy.php) for the most accurate reproduction.*
 
 # StraponCum.com - Hot lesbians fuck with ejaculating strapon
 
