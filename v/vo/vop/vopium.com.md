@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vopium.com privacy policy that was archived on 2012-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120814105327id_/http%3A//vopium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vopium.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207152126id_/http%3A//vopium.com/privacy-policy) for the most accurate reproduction.*
 
 # Vopium Privacy Policy
 
