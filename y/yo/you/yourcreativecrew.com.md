@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the yourcreativecrew.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129043045id_/http%3A//yourcreativecrew.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcreativecrew.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207121855id_/http%3A//yourcreativecrew.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Details
-     Published on Thursday, 16 December 2010 17:25 
 
 What information do we collect?
 
