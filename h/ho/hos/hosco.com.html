@@ -1,0 +1,1478 @@
+<!--The following is the downloaded HTML source of the hosco.com privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207023623id_/https%3A//www.hosco.com/index/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Privacy Policy</title>
+    <meta name="keywords" content="Hosco">
+    <meta name="description" content="Hospitality Connection (HOSCO) is an innovative online community that brings together leading...">
+    <link href="/css/default/home.css" media="screen" rel="stylesheet" type="text/css"><!--    <script type="text/javascript">
+        Cufon.replace('#header ul a, ul.menu a', { hover: true });
+    </script>-->
+    
+    <link rel="icon" href="/images/default/favicon.ico" type="image/x-icon"> 
+    
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="/javascript/carousel/mootools.js"></script>
+
+    <script type="text/javascript" src="/javascript/carousel/PeriodicalExecuter.js"></script>
+
+    <script type="text/javascript" src="/javascript/carousel/Source/Carousel.js"></script>
+    <script type="text/javascript" src="/javascript/carousel/Source/Carousel.Extra.js"></script>
+    
+    <script type="text/javascript">
+    //<![CDATA[
+    
+      window.addEvent('domready', function () {
+        var duration = 800,
+        
+        div = document.getElement('div.slide');
+        links = div.getElements('a'),
+            
+        carousel = new Carousel.Extra({
+            activeClass: 'selected',
+            container: 'slide',
+            scroll: 5,
+            distance: 5,
+            interval: 3,
+            circular: true,
+            current: 0,
+            previous: links.shift(),
+            next: links.pop(),
+            tabs: links,
+            /* mode: 'horizontal', */
+            fx: {
+
+              duration: duration
+            }
+        }),
+        removed = 0;
+          
+        function change() {
+          var panel = this.retrieve('panel');
+          if(this.checked) {
+            if(!panel) {
+              if(carousel.running) {
+                carousel.addEvent('complete:once', change.bind(this));
+                return
+              }
+              panel = carousel.remove(Math.max(0, this.value - removed));
+              if(panel) {
+                this.store('panel', panel);
+                removed++;
+              }
+              this.checked = !!panel
+            }       
+          } else {
+            if(panel) {
+              this.eliminate('panel');
+              removed--;
+              carousel.add(panel.panel, panel.tab.inject(div.getFirst(), 'after'), this.value)
+            }
+          }
+        }
+        
+        $$('input.remove').addEvents({click: change, change: change})
+      })
+    //]]>
+    </script>
+
+    <script type="text/javascript">
+    //<![CDATA[
+    
+      window.addEvent('domready', function () {
+        var duration = 800,
+        
+        div = document.getElement('div.slide_school');
+        links = div.getElements('a'),
+            
+        carousel = new Carousel.Extra({
+            activeClass: 'selected',
+            container: 'slide_school',
+            scroll: 2,
+            distance: 2,
+            interval: 3,
+            circular: true,
+            current: 0,
+            previous: links.shift(),
+            next: links.pop(),
+            tabs: links,
+            /* mode: 'horizontal', */
+            fx: {
+              duration: duration
+            }
+        }),
+        removed = 0;
+          
+        function change_school() {
+          var panel = this.retrieve('panel');
+          if(this.checked) {
+            if(!panel) {
+              if(carousel.running) {
+                carousel.addEvent('complete:once', change_school.bind(this));
+                return
+              }
+              panel = carousel.remove(Math.max(0, this.value - removed));
+              if(panel) {
+                this.store('panel', panel);
+                removed++;
+              }
+              this.checked = !!panel
+            }		
+          } else {
+            if(panel) {
+              this.eliminate('panel');
+              removed--;
+              carousel.add(panel.panel, panel.tab.inject(div.getFirst(), 'after'), this.value)
+            }
+          }
+        }
+        
+        $$('input.remove').addEvents({click: change_school, change: change_school})
+      })
+    //]]>
+    </script>
+    
+    <script type="text/javascript" src="/javascript/videobox/js/swfobject.js"></script>
+    <script type="text/javascript" src="/javascript/videobox/js/videobox.js"></script>
+    <link rel="stylesheet" href="/javascript/videobox/css/videobox.css" type="text/css" media="screen">
+    
+    <meta property="og:title" content="Hospitality Connection">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.hosco.com">
+    <meta property="og:image" content="https://www.hosco.com/images/default/logo.png">
+    <meta property="og:site_name" content="HOSCO : Hospitality Connection">
+    <meta property="og:description" content="Hospitality Connection (HOSCO) is an innovative online community that brings together leading...">
+    <meta property="fb:app_id" content="324532527599694">
+</head>
+<body>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+<div id="conteneur">
+    <div id="header">
+        <h1><a href="/" title="Hosco"><span>Hosco</span></a></h1>
+
+        <div class="login">
+            <form method="post" action="/user/user/login" enctype="multipart/form-data">
+                <div class="left">
+                    
+<input type="text" name="username" id="username" value="" class="input">                </div>
+                <div class="left">
+                    
+<input type="password" name="password" id="password" value="" class="input2">                    
+<input type="image" name="login" id="login" src="/images/default/bt-go-home.png" class="submit">                </div>
+                <div class="left">
+                        <table>
+                        <tbody><tr><td>
+<input type="hidden" name="keep_logged" value="0"><input type="checkbox" name="keep_logged" id="keep_logged" value="1"></td><td>
+                        <label for="keep_logged" id="keepmelogin">Keep me logged in</label></td></tr>
+                        </tbody></table>
+                </div>
+                <div class="left">
+                    <p>
+                        <a href="/index/forgot-password">
+                            I forgot my password
+                        </a>
+                    </p>
+                </div>
+                <div class="clear"></div>
+            </form>
+        </div>
+    </div>
+            <div id="content">
+        <div class="detail-content detail-content-static" style="padding:20px 115px 50px 115px">
+ 
+ <h3 style="text-transform:uppercase">Privacy Policy</h3>
+
+	<ul class="list">
+    	<li><a href="javascript:void(0);" id="privacy-lien-english" class="active" onclick="javascript:document.getElementById('privacy-french').style.display='none';
+        document.getElementById('privacy-english').style.display='block';
+        document.getElementById('privacy-lien-english').className='active';
+        document.getElementById('privacy-lien-french').className='normal';" title="English"><img src="/images/default/flag-en.png" alt="" border="0"> English version</a> | </li>
+          
+    	<li><a href="javascript:void(0);" id="privacy-lien-french" onclick="javascript:document.getElementById('privacy-french').style.display='block';
+      document.getElementById('privacy-english').style.display='none';
+      document.getElementById('privacy-lien-french').className='active';
+      document.getElementById('privacy-lien-english').className='normal';" title="Français"><img src="/images/default/flag-fr.png" alt="" border="0"> Version française</a></li>
+	</ul>
+  <div class="clear"></div>
+  
+  <div id="privacy-english">
+   
+<p>
+    The following Privacy Policy discloses how we treat the information we collect when you use the HOSCO Site and how you can manage it.
+    <br><br>
+    <i style="color:#0099da">Last update 16.06.2011</i>
+</p>
+
+    
+       
+<h3>1- Information collected</h3>
+<p>
+    We collect personal information on a strictly voluntary basis:<br><br>
+
+
+a. When you register an account on the Platform: including but not limited to, your name, your school or company, your city and country, your email and a password.<br>
+
+b. When you complete or edit your profile with further information about yourself or your organization. This information may also include attachments you upload to your profile, such as your resume, diploma, cover letters or endorsement letters for candidates, and, for companies and hotel schools, items such as news, articles, videos and pictures. Providing further information about yourself beyond what is expressly required is on a voluntary basis. Keep in mind that if you decide not to share certain information, you may not take full benefit of the Platform possibilities.<br>
+
+c. When you use certain Platform applications, interact with third party applications, click on ads, respond to questionnaires, participate in contests, or register for promotions.
+<br><br>
+
+    Credit card information you may provide when you make online orders on the Site is processed though a third-party credit card service company which uses encryption to protect your credit card information. HOSCO does not store any such information.
+    <br><br>
+    We may also collect non-personal information on a strictly voluntary basis. We may use such non-personal information to improve the Site, customize your experience on the Platform and share this information with third parties, but only in aggregate with non-identifiable information provided.
+
+</p>
+
+<h3>2- Uses of information collected</h3>
+
+<p>
+    Except as stated in this Privacy Policy, HOSCO does not sell, rent, share or otherwise provide your personal information with any third parties for marketing purposes without your consent.
+    <br><br>
+    We use the information you provide to:<br><br>
+
+
+    a. Give you access to the functions, applications and services of the Platform.<br>
+
+    b. Enable you to communicate with other Users and HOSCO.<br>
+
+    c. Communicate with you.<br><br>
+
+ 
+        Customize the service provided to you and other Users.
+        <br>
+        Manage items such as questionnaires, contests and promotions.
+        <br>
+        Provide Users and third parties with relevant anonymous statistics on the Platform and its Users.
+        <br>
+        Fulfill legal and any other necessary requirements.
+        <br>
+        HOSCO may work with third-party companies and provide them with your personal information to perform functions and services on its behalf, for example, to process credit card payments and to provide customer service and marketing assistance. These third-party companies are bound to maintain the strictest confidentiality of your information.
+        <br>
+        Third-party websites may have links posted on HOSCO, but they are not subject to this Privacy Policy and therefore you should review their own privacy policy in order to determine how they treat User information.
+        <br>
+        You have the right at any time to withdraw your consent to HOSCO to collect and process your information by changing your Account Settings or by closing your account. However, you acknowledge that such withdrawal will not be retroactive and Users who have had access to your information may have retained a copy of your profile or other content in their own files. HOSCO cannot be held responsible for the retention or future use of such information by third parties.
+
+
+
+</p>
+
+    <h3>3- Your control of the information collected</h3>
+<p>
+        You may edit the personal information submitted at any time in your profile.
+    <br><br>
+        You may control at any time what type of information is visible and accessible to other Users through your Account Settings and you agree and acknowledge that certain basic information about you and each User of the Site will be included, visible and accessible to any Users in the respective public profiles on the Site.
+    <br><br>
+        You may control at any time what kind of communication and notification is sent to you through your Account Settings.
+    <br><br>
+        HOSCO has defined default visibility and notification settings and Users are encouraged to adjust and review them in accordance with their preferences upon registration as well as on a regular basis when using the Site.
+    <br><br>
+        You can close your account by simply clicking on “Deactivate Account” in your Account Settings. Your personal information will then be removed from the visible section of the Site and HOSCO may delete all of your account. Certain information and content generated or submitted by you may be kept for legal or business purposes or simply to ensure the continued service, functions and applications of the Site for other Users. HOSCO disclaims any liability in relation to the deletion or retention of information.
+</p>
+
+
+
+    <h3>4- Opt-Out</h3>
+    <p>
+    Following your registration and during your use of the Site, you may receive emails from HOSCO on services updates, industry trends, and any other items that you did not expressly request. An email address will be provided to you with such communications to request no future notices of this kind from HOSCO.
+</p>
+
+
+
+    <h3>5- Cookies</h3>
+    <p>
+    HOSCO may make use of cookies to track site usage and trends and generally to improve the quality of the Site. You can remove or block cookies in your browser settings.
+</p>
+
+
+
+    <h3>6- IP addresses</h3>
+    <p>
+    When Users use the Site, we collect standard information such as their IP addresses and use such data in an anonymous and collective manner to analyse trends and more generally to improve the quality of the Site.
+</p>
+
+
+
+    <h3>7- Children and Minors</h3>
+    <p>
+    Children are strictly not eligible to use the Site and we request that minors (under the age of 18) do not submit any personal information to us.
+</p>
+
+
+
+    <h3>8- Business Transitions</h3>
+    <p>
+    In the event that HOSCO goes through a merger or acquisition (all or a portion) by another company, User information will be part of the assets transferred and the newly formed/buying company will have the right to continue to use the personal and other information provided.
+</p>
+
+
+
+    <h3>9- Security</h3>
+    <p>
+    Access to your HOSCO account and information is protected by a username and password. You are solely responsible for maintaining the secrecy of this login information and for controlling access to your account.
+    <br><br>
+    The personal information you provide is stored on restricted servers. However, the Internet is not a fully secure environment and there is no guarantee that information may not be viewed, disclosed, altered, destroyed or used for any improper purposes by breach of our safeguards.
+</p>
+
+
+
+    <h3>10- Changes to this Privacy Policy</h3>
+    <p>
+    HOSCO reserves the right to modify this Privacy Policy at any time, with or without advance notice, and the modified versions of this policy will be posted on the Site. Your continued use of the Site following the publication of the revised policy on the Site shall constitute your consent to the changes.
+</p>
+
+
+
+    <h3>11- How to contact Us</h3>
+    <p>
+        If you have any questions about this Privacy Policy or the Site in general, please contact us online at info@hosco.com or mail us at:
+        <br><br>
+        <i>Hospitality Connection
+        <br>
+        Rue du Village-Suisse 10
+        <br>
+        1205 Geneva
+        <br>
+        Switzerland</i>
+    </p>
+
+
+</div>
+
+
+
+<div id="privacy-french" style="display:none;">
+
+
+    
+<p>
+   
+La Politique de Confidentialité qui suit indique la façon dont nous traitons l'information que nous recueillons lorsque vous utilisez le Site de HOSCO et comment vous pouvez gérer ces informations.
+    <br><br>
+    <i style="color:#0099da">Dernière mise à jour le 16/06/2011</i>
+</p>
+
+
+<h3>1-	Informations recueillies </h3>
+<p>
+Nous recueillons des renseignements personnels sur une base strictement volontaire:<br><br>
+
+a. Lorsque vous inscrivez un compte sur la Plateforme: y compris, mais non exclusivement, votre nom, votre école ou votre entreprise, votre ville et votre pays, votre adresse électronique et un mot de passe.<br><br>
+
+b. Lorsque vous complétez ou modifiez votre profil avec de plus amples informations sur vous-même ou sur votre organisation. Ces informations peuvent également comprendre des pièces jointes que vous téléchargez sur votre profil, telles que votre curriculum vitae, vos diplômes, lettres de motivation ou lettres de recommandation pour les candidats, et, pour les entreprises et les écoles hôtelières, des éléments tels que des nouvelles, des articles, des vidéos et des photos. Le fait de fournir plus d'informations sur vous-même au-delà de ce qui est expressément requis se fait sur une base volontaire. Veuillez garder à l'esprit que si vous décidez de ne pas partager certaines informations, vous pouvez ne pas profiter pleinement des possibilités de la Plateforme.<br><br>
+
+c. Lorsque vous utilisez certaines applications de la Plateforme, interagissez avec des applications tierces, cliquez sur des annonces, répondez à des questionnaires, participez à des concours, ou lorsque vous vous inscrivez pour des promotions commerciales.<br><br>
+
+Les informations relatives aux cartes de crédit que vous pouvez fournir lorsque vous faites des commandes en ligne sur le Site sont traitées par le biais d'une société tierce de service de paiement par carte de crédit, qui utilise le chiffrement pour protéger les informations relatives à vos cartes de crédit. HOSCO ne stocke pas ces informations.
+<br><br>
+Nous pouvons également recueillir des informations non personnelles sur une base strictement volontaire. Nous pouvons utiliser ces informations non personnelles pour améliorer le Site, personnaliser votre expérience sur la Plateforme et partager ces informations avec des tiers, mais seulement sous forme globale avec les informations non identifiables fournies.
+</p>
+
+<h3>2-	Utilisation des informations recueillies </h3>
+<p>
+Sauf disposition décrite dans la présente Politique de Confidentialité, HOSCO ne vend, ni ne loue, ni ne partage, ni ne fournit d'aucune autre manière vos renseignements personnels à des tiers à des fins de commercialisation sans votre consentement.<br><br>
+
+Nous utilisons les informations que vous fournissez pour:<br><br>
+
+a. Vous donner accès aux fonctions, applications et services de la Plateforme.<br>
+
+b. Vous permettre de communiquer avec d'autres Utilisateurs et avec HOSCO.<br>
+
+c. Communiquer avec vous.<br>
+
+d. Personnaliser le service fourni à vous et à d'autres Utilisateurs. <br>
+
+e. Gérer les éléments tels que des questionnaires, des concours et des promotions.<br>
+
+f. Fournir aux Utilisateurs et aux tiers des statistiques anonymes pertinentes sur la Plateforme et ses Utilisateurs.<br>
+
+g. Répondre aux exigences juridiques et aux autres exigences requises. <br><br>
+
+HOSCO peut travailler avec des sociétés tierces et leur fournir vos renseignements personnels pour effectuer des fonctions et des services en son nom, par exemple, pour traiter les paiements par carte de crédit et pour fournir un service clientèle et une assistance marketing. Ces sociétés tierces sont tenues de maintenir la plus stricte confidentialité de vos informations.
+<br><br>
+Des sites tiers peuvent avoir des liens affichés sur HOSCO, mais ils ne sont pas soumis à cette politique de confidentialité et vous devrez donc examiner leur propre politique de confidentialité afin de déterminer comment ils traitent les informations  des Utilisateurs.
+<br><br>
+Vous avez le droit, à tout moment, de retirer votre consentement à HOSCO pour collecter et traiter vos informations en changeant vos Paramètres de Compte ou en fermant votre compte. Toutefois, vous reconnaissez que ce retrait ne sera pas rétroactif et que les Utilisateurs qui ont eu accès à vos informations peuvent avoir conservé une copie de votre profil ou tout autre contenu dans leurs propres fichiers. HOSCO ne peut être tenu responsable de la conservation ou de l'utilisation future de ces informations par des tiers.
+</p>
+
+
+<h3>3-	Votre contrôle de l'information recueillie </h3>
+<p>
+Vous pouvez modifier les informations personnelles soumises à tout moment dans votre profil.<br><br>
+
+Vous pouvez contrôler à tout moment quel type d'information est visible et accessible aux autres Utilisateurs par le biais de vos Paramètres de Compte et vous acceptez et reconnaissez que certaines informations de base sur vous et sur chaque Utilisateur du Site seront inclues, visibles et accessibles à tous les Utilisateurs dans les profils publics respectifs sur le Site.
+<br><br>
+Vous pouvez contrôler à tout moment quel type de communication et de notification vous est envoyé par le biais de vos Paramètres de Compte.
+<br><br>
+HOSCO a défini des paramètres de visibilité et de notification par défaut et les Utilisateurs sont encouragés à les adapter et à les examiner en fonction de leurs préférences lors de leur inscription ainsi que sur une base régulière lors de l'utilisation du Site.
+<br><br>
+Vous pouvez fermer votre compte en cliquant simplement sur "Deactivate Account"  (Désactiver le Compte) dans vos Paramètres de Compte. Vos renseignements personnels seront alors retirés de la partie visible du Site et HOSCO pourra supprimer l'ensemble de votre compte. Certaines informations et contenus générés ou soumis par vous peuvent être conservés à des fins juridiques ou professionnelles ou simplement pour assurer le service, les fonctions et les applications continues du Site pour d'autres Utilisateurs. HOSCO décline toute responsabilité en relation avec la suppression ou la rétention de l'information.
+</p>
+
+
+<h3>4-	Opt-Out</h3>
+<p>
+Suite à votre inscription et lors de votre utilisation du Site, il se peut que vous receviez des courriels de HOSCO sur les mises à jour des services, les tendances du secteur, et sur tout autre élément que vous n'avez pas expressément demandé. Une adresse électronique vous sera fournie avec ces communications afin que vous puissiez demander de ne plus recevoir des avis de ce genre à l'avenir de la part de HOSCO. 
+</p>
+
+
+<h3>5-	Cookies</h3>
+<p>
+HOSCO peut faire usage de cookies pour suivre l'utilisation et les tendances du Site et, de manière générale, pour améliorer la qualité du Site. Vous pouvez supprimer ou bloquer les cookies dans les paramètres de votre navigateur.
+</p>
+
+<h3>6-	Adresses IP </h3>
+<p>
+Lorsque des Utilisateurs utilisent le Site, nous recueillons des informations standard telles que leur adresse IP et utilisons ces données de façon anonyme et collective pour analyser les tendances, et, de façon plus générale, pour améliorer la qualité du Site.
+</p>
+
+<h3>7-	Les Enfants et les Mineurs </h3>
+<p>
+Les enfants n'ont strictement pas le droit d'utiliser le Site et nous demandons que les mineurs (moins de 18 ans) ne nous soumettent aucune information personnelle.
+</p>
+
+<h3>8-	Transitions d'entreprises </h3>
+<p>
+Dans le cas où HOSCO ferait l'objet d'une fusion ou d'une acquisition (dans son ensemble ou seulement une partie) par une autre entreprise, les informations des Utilisateurs feront partie des actifs transférés et la société nouvellement formée/acheteuse aura le droit de continuer à utiliser les renseignements personnels et les autres renseignements fournis.
+</p>
+
+<h3>9-	Sécurité</h3>
+<p>
+L'accès à votre compte et à vos informations sur HOSCO est protégé par un identifiant et un mot de passe. Vous êtes seul responsable du maintien de la confidentialité de ces informations de connexion et du contrôle de l'accès à votre compte.
+
+Les renseignements personnels que vous fournissez sont stockés sur des serveurs limités. Toutefois, l'Internet n'est pas un environnement entièrement sécurisé et il n'y a aucune garantie que les informations ne soient vues, divulguées, modifiées, détruites ou utilisées à des fins illégitimes par la violation de nos garanties.
+</p>
+
+
+<h3>10-	Modification de cette Politique de Confidentialité </h3>
+<p>
+HOSCO se réserve le droit de modifier cette Politique de Confidentialité à tout moment, avec ou sans préavis, et les versions modifiées de cette politique seront affichées sur le Site. Votre utilisation continue du Site après la publication de la politique révisée sur le Site équivaut à votre consentement à ces changements.
+</p>
+
+<h3>11-	Comment nous contacter </h3>
+
+
+<p>
+        Si vous avez des questions concernant cette Politique de Confidentialité ou le Site en général, veuillez nous contacter en ligne à info@hosco.com ou nous écrire à:
+        <br><br>
+        <i>Hospitality Connection
+        <br>
+        Rue du Village-Suisse 10
+        <br>
+        1205 Genève
+        <br>
+        Switzerland</i>
+    </p>
+    
+
+
+<p></p>
+
+</div>
+
+
+
+</div>
+    </div>
+</div>
+<div id="main-footer">
+
+    
+    <div class="content">
+        
+        <h3 style="font-weight: normal; float: left; margin-left: -5px;">
+        <font color="#0099DA">664</font> Leading Employers recruiting 
+        <font color="#0099DA">9208</font> top talents on HOSCO
+</h3>
+<h3 style="font-weight: normal; float: right; margin-right: 60px;"><font color="#0099DA">
+    48</font> Participating Hotel Schools
+</h3>
+
+<div class="clear"></div>
+<div class="slide">
+    <div id="slide" style="height: 62px; position: relative; overflow: hidden;">
+            <div class="inside" style="display: block; position: absolute; left: 0px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/855">
+                <img src="/files/companies/pictures/855/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 107px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/623" class="selected">
+                <img src="/files/companies/pictures/623/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 220px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/185">
+                <img src="/files/companies/pictures/185/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 333px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/580">
+                <img src="/files/companies/pictures/580/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 446px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/793">
+                <img src="/files/companies/pictures/793/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 559px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/755">
+                <img src="/files/companies/pictures/755/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 672px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/597">
+                <img src="/files/companies/pictures/597/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 785px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/135">
+                <img src="/files/companies/pictures/135/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 898px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/671">
+                <img src="/files/companies/pictures/671/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1011px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/730">
+                <img src="/files/companies/pictures/730/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1124px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/1057">
+                <img src="/files/companies/pictures/1057/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1237px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/522">
+                <img src="/files/companies/pictures/522/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1350px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/610">
+                <img src="/files/companies/pictures/610/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1463px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/1139">
+                <img src="/files/companies/pictures/1139/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1576px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/184">
+                <img src="/files/companies/pictures/184/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1689px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/695">
+                <img src="/files/companies/pictures/695/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1802px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/198">
+                <img src="/files/companies/pictures/198/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1915px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/613">
+                <img src="/files/companies/pictures/613/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2028px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/845">
+                <img src="/files/companies/pictures/845/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2141px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/482">
+                <img src="/files/companies/pictures/482/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2254px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/434">
+                <img src="/files/companies/pictures/434/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2367px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/206">
+                <img src="/files/companies/pictures/206/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2480px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/242">
+                <img src="/files/companies/pictures/242/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2593px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/1040">
+                <img src="/files/companies/pictures/1040/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2706px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/239">
+                <img src="/files/companies/pictures/239/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2819px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/496">
+                <img src="/files/companies/pictures/496/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2932px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/575">
+                <img src="/files/companies/pictures/575/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3045px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/886">
+                <img src="/files/companies/pictures/886/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3158px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/858">
+                <img src="/files/companies/pictures/858/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3271px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/803">
+                <img src="/files/companies/pictures/803/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3384px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/851">
+                <img src="/files/companies/pictures/851/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3497px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/208">
+                <img src="/files/companies/pictures/208/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3610px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/787">
+                <img src="/files/companies/pictures/787/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3723px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/176">
+                <img src="/files/companies/pictures/176/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3836px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/680">
+                <img src="/files/companies/pictures/680/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3949px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/834">
+                <img src="/files/companies/pictures/834/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4062px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/879">
+                <img src="/files/companies/pictures/879/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4175px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/368">
+                <img src="/files/companies/pictures/368/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4288px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/600">
+                <img src="/files/companies/pictures/600/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4401px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/152">
+                <img src="/files/companies/pictures/152/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4514px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/515">
+                <img src="/files/companies/pictures/515/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4627px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/735">
+                <img src="/files/companies/pictures/735/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4740px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/341">
+                <img src="/files/companies/pictures/341/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4853px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/692">
+                <img src="/files/companies/pictures/692/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4966px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/716">
+                <img src="/files/companies/pictures/716/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 5079px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/634">
+                <img src="/files/companies/pictures/634/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 5192px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/655">
+                <img src="/files/companies/pictures/655/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 5305px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/285">
+                <img src="/files/companies/pictures/285/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 5418px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/537">
+                <img src="/files/companies/pictures/537/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 5531px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/774">
+                <img src="/files/companies/pictures/774/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 5644px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/704">
+                <img src="/files/companies/pictures/704/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 5757px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/412">
+                <img src="/files/companies/pictures/412/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 5870px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/540">
+                <img src="/files/companies/pictures/540/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 5983px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/828">
+                <img src="/files/companies/pictures/828/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 6096px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/965">
+                <img src="/files/companies/pictures/965/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 6209px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/191">
+                <img src="/files/companies/pictures/191/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 6322px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/651">
+                <img src="/files/companies/pictures/651/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 6435px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/331">
+                <img src="/files/companies/pictures/331/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 6548px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/718">
+                <img src="/files/companies/pictures/718/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 6661px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/1124">
+                <img src="/files/companies/pictures/1124/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 6774px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/240">
+                <img src="/files/companies/pictures/240/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 6887px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/943">
+                <img src="/files/companies/pictures/943/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 7000px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/403">
+                <img src="/files/companies/pictures/403/logo.png" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 7113px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/168">
+                <img src="/files/companies/pictures/168/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 7226px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/134">
+                <img src="/files/companies/pictures/134/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 7339px;">
+            <div>
+                <span></span>
+                <a href="/user/company/view/id/861">
+                <img src="/files/companies/pictures/861/logo.jpg" alt="">
+                </a>
+            </div>
+        </div>
+        </div>
+</div>
+
+<div class="slide_school">
+    <div id="slide_school" style="height: 62px; position: relative; overflow: hidden;">
+            <div class="inside" style="display: block; position: absolute; left: 0px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/23">
+                <img src="/files/schools/pictures/23/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 107px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/28" class="selected">
+                <img src="/files/schools/pictures/28/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 222px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/19">
+                <img src="/files/schools/pictures/19/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 337px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/12">
+                <img src="/files/schools/pictures/12/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 452px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/7">
+                <img src="/files/schools/pictures/7/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 567px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/49">
+                <img src="/files/schools/pictures/49/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 682px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/53">
+                <img src="/files/schools/pictures/53/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 797px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/47">
+                <img src="/files/schools/pictures/47/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 912px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/39">
+                <img src="/files/schools/pictures/39/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1027px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/20">
+                <img src="/files/schools/pictures/20/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1142px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/42">
+                <img src="/files/schools/pictures/42/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1257px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/48">
+                <img src="/files/schools/pictures/48/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1372px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/58">
+                <img src="/files/schools/pictures/58/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1487px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/11">
+                <img src="/files/schools/pictures/11/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1602px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/33">
+                <img src="/files/schools/pictures/33/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1717px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/13">
+                <img src="/files/schools/pictures/13/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1832px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/44">
+                <img src="/files/schools/pictures/44/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 1947px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/40">
+                <img src="/files/schools/pictures/40/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2062px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/15">
+                <img src="/files/schools/pictures/15/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2177px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/31">
+                <img src="/files/schools/pictures/31/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2292px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/22">
+                <img src="/files/schools/pictures/22/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2407px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/24">
+                <img src="/files/schools/pictures/24/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2522px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/45">
+                <img src="/files/schools/pictures/45/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2637px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/16">
+                <img src="/files/schools/pictures/16/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2752px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/10">
+                <img src="/files/schools/pictures/10/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2867px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/21">
+                <img src="/files/schools/pictures/21/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 2982px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/8">
+                <img src="/files/schools/pictures/8/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3097px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/3">
+                <img src="/files/schools/pictures/3/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3212px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/25">
+                <img src="/files/schools/pictures/25/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3327px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/55">
+                <img src="/files/schools/pictures/55/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3442px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/29">
+                <img src="/files/schools/pictures/29/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3557px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/26">
+                <img src="/files/schools/pictures/26/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3672px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/6">
+                <img src="/files/schools/pictures/6/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3787px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/52">
+                <img src="/files/schools/pictures/52/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 3902px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/35">
+                <img src="/files/schools/pictures/35/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4017px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/9">
+                <img src="/files/schools/pictures/9/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4132px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/30">
+                <img src="/files/schools/pictures/30/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4247px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/59">
+                <img src="/files/schools/pictures/59/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4362px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/4">
+                <img src="/files/schools/pictures/4/logo.gif" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4477px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/38">
+                <img src="/files/schools/pictures/38/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4592px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/5">
+                <img src="/files/schools/pictures/5/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4707px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/32">
+                <img src="/files/schools/pictures/32/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4822px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/27">
+                <img src="/files/schools/pictures/27/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 4937px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/17">
+                <img src="/files/schools/pictures/17/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 5052px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/46">
+                <img src="/files/schools/pictures/46/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 5167px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/18">
+                <img src="/files/schools/pictures/18/logo.png" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 5282px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/2">
+                <img src="/files/schools/pictures/2/logo.gif" alt="">
+                </a>
+            </div>            
+        </div>
+            <div class="inside" style="display: block; position: absolute; left: 5397px;">
+            <div>
+                <span></span>
+                <a href="/user/school/view/id/37">
+                <img src="/files/schools/pictures/37/logo.jpg" alt="">
+                </a>
+            </div>            
+        </div>
+        </div>
+</div>
+
+<div class="clear"></div>
+    
+<div class="tabs">
+</div>
+
+    </div>
+
+</div>
+
+    
+<div id="footer">
+        <div class="social-share">
+        <div class="fb-like" data-href="https://www.facebook.com/hospitalityconnection" data-send="false" data-layout="standard" data-width="450" data-show-faces="false"></div>
+    </div>
+    <div class="clear"></div>
+        
+    <p id="copyright">
+        Copyright © 2011-2013, Hospitality Connection, all rights reserved
+    </p>
+
+    <ul class="social">
+        <li>Find us on :</li>
+        <li class="fb"><a href="https://www.facebook.com/pages/Hosco-Hospitality-Connection/147993781952334?sk=info" title="facebook" target="_blank"><span>facebook</span></a></li>
+        <li class="twitter"><a href="https://twitter.com/#!/HOSCOInfo" title="twitter" target="_blank"><span>twitter</span></a></li>
+        <li class="in"><a href="https://www.linkedin.com/company/2303527?trk=NUS_DIG_CMPY-fol" target="_blank" title="linkedin"><span>linkedin</span></a></li>
+    </ul>
+
+    <ul class="nav">
+        <li><a href="/" title="home">home</a></li>
+        <li><a href="/index/aboutus" title="about us">about us</a></li>
+        <li><a href="/index/blog" title="blog">blog</a></li>
+                            <li><a href="/index/faq-non-registred" title="FAQ">faq</a></li> 
+                            <li><a href="/index/contactus" title="contact">contact</a></li>
+        <li><a href="/index/privacy" title="privacy">privacy</a></li>
+        <li><a href="/index/terms" title="terms">terms</a></li>
+    </ul>
+    <!--
+    <p id="virtua">
+    <a href="http://www.virtua.ch/fr/competences/graphicdesign.html" target="_blank" title="webdesign by virtua">webdesign </a> &amp;
+    <a href="http://www.virtua.ch/fr/competences/webdevelopment.html" target="_blank" title="development by virtua">development</a> by
+    <a href="http://www.virtua.ch/" target="_blank" title="design &amp; development by virtua" id="signature"><span>virtua</span></a>
+    </p>
+    <div class="clear"></div>
+    -->
+</div>    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-25495550-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+<div id="lbOverlay" style="visibility: hidden; zoom: 1; opacity: 0;"></div><div id="lbCenter" style="width: 250px; height: 250px; margin-left: -125px; display: none;"></div><div id="lbBottomContainer" style="display: none;"><div id="lbBottom"><a id="lbCloseLink" href="#"></a><div id="lbCaption"></div><div id="lbNumber"></div><div style="clear: both;"></div></div></div></body></html>
