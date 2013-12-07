@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the voip.ms privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501131513id_/http%3A//www.voip.ms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voip.ms privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207075155id_/https%3A//www.voip.ms/privacy.php) for the most accurate reproduction.*
 
 # Voip.ms :: A-Z Termination | Privacy policy
 
 1\. Main statements
 
-The current pricacy policy about customers (<<the policy>>) states the way that Voip.ms (9757-5377 Quebec inc) collect, uses, communicate and manage customer personal information. Voip.ms is committed to respect and protect customer’s privacy. Voip.ms voluntary adhere to the Canadian association of normalization rules about protection of personal information. You agree that Voip.ms can, at its own discretion, modify its privacy policy, with or without notice. The current privacy policy is available on the Voip.ms web site via the internet url http://www.voip.ms. By using our services after any modification of the privacy policy, you agree with the policy and its modifications. The Voip.ms site can contain links to other websites. You agree that Voip.ms is not responsible of the content or practices of any of those websites.  
+The current pricacy policy about customers (<<the policy>>) states the way that Voip.ms (9757-5573 Quebec inc) collect, uses, communicate and manage customer personal information. Voip.ms is committed to respect and protect customer’s privacy. Voip.ms voluntary adhere to the Canadian association of normalization rules about protection of personal information. You agree that Voip.ms can, at its own discretion, modify its privacy policy, with or without notice. The current privacy policy is available on the Voip.ms web site via the internet url http://www.voip.ms. By using our services after any modification of the privacy policy, you agree with the policy and its modifications. The Voip.ms site can contain links to other websites. You agree that Voip.ms is not responsible of the content or practices of any of those websites.  
 
 
 2- Information Voip.ms collect.
