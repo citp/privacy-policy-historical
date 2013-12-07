@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the island-adv.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601194149id_/http%3A//island-adv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the island-adv.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207121524id_/http%3A//island-adv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Back to Basics
 
