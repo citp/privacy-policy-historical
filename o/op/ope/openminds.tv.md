@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openminds.tv privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520222804id_/http%3A//www.openminds.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openminds.tv privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207082507id_/http%3A//www.openminds.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Openminds.tv
+# Privacy Policy | Company Mailing Practices | OpenMinds.tv
 
 ## What information do we collect?
 
