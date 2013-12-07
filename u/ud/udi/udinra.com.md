@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udinra.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616045326id_/http%3A//udinra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udinra.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207203100id_/http%3A//udinra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Udinra
 
@@ -30,6 +30,8 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
   * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
   * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
   * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+  * The Google Analytics features you’ve implemented based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).
+  * Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads "Ads Settings").You can also opt out of Google Analytics tracking cookie using [this link](https://tools.google.com/dlpage/gaoptout/ "Google Analytics opt out")
 
 
 
