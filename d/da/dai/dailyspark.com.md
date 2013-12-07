@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyspark.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531111953id_/http%3A//www.sparkpeople.com/resource/motivation_articles.asp%3Fid%3D922) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyspark.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207040618id_/http%3A//www.sparkpeople.com/resource/motivation_articles.asp%3Fid%3D922) for the most accurate reproduction.*
 
 # SparkPeople Privacy Policy | SparkPeople
 
@@ -41,14 +41,12 @@ We may collect information automatically about the use of the Website, through, 
 
 “Cookies” are small files websites place on your hard drive that allow websites to identify you. For example, if you allow a website to remember your login name or password, the website places a cookie on your computer. Cookies cannot read any other information on your hard drive. We may place cookies on your computer to allow us to identify you when you visit the Website. We may use cookies to measure Website traffic, to offer you certain services, or to customize your visit. However, if you do not wish to receive cookies, or want to be notified of when they are placed, your browser may permit you to do so. An “IP address” is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP address probably varies from session to session.
 
+The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form.
+
 **Use of Contractors and Service Providers**  
 SparkPeople uses third parties (including contractors and service providers) to help with certain aspects of its operations, which may require disclosure of your Personal Information to them. For example, SparkPeople may use a third party to communicate with you (via telephone, email, or letter) about our services, to send information to you, to host the Website and related databases, and to perform other work that we may choose to outsource. SparkPeople requires these third parties to use your Personal Information only as necessary to perform the services they are asked to perform.
 
 SparkPeople uses technology provided by a third party to serve ads when you visit the Website. This technology may use information about your visit to the Website in order to provide advertisements about goods and services that may be of interest to you. SparkPeople customizes the advertisements that you see based upon: (i) the information that you knowingly provide; (ii) geographic location which SparkPeople determines through your IP address; (iii) data SparkPeople receives from third parties and (iv) your behavior on the Website or other sites. In the course of serving advertisements to the Website, such third party advertising technology may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used to target ads to you, please visit http://www.doubleclick.com/privacy/opting_out.aspx. In addition, as described above, you have the ability to accept or decline cookies by modifying the settings in your browser.
-
-SparkPeople may also use a third party ad network provider, Collective, to help present advertisements on the Website. The ad network provider, along with other advertisers and sponsors on the Website, may use cookies, web beacons (also called single pixel gifs or action tags) or similar technologies (i) to serve you advertisements tailored to interests you have shown by browsing on this and other sites, (ii) to determine whether you have seen a particular advertisement before, (iii) to avoid sending you duplicative advertisements and (iv) to understand the usage patterns of people who see advertisements. In doing so, the ad network provider collects non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed and other clickstream data. The ad network provider may connect information about your visit on the Website with information about your visit on other sites and show you advertising based on this combined information. The advertisement may appear when you are visiting a different section of the Website or any other sites on the internet if such other sites also have a relationship with the ad network provider.
-
-The use of cookies, web beacons and similar technologies by third party ad network providers is governed by each ad network provider’s specific privacy policy, not this Privacy Policy. Please visit http://www.networkadvertising.org/optout_nonppii.asp if you wish learn more about the information collection practices of ad network providers or if you wish to "opt-out" of participating in advertising programs conducted by Collective or other third party ad network providers.
 
 **Corporate Family**  
 We may share some or all of your Personal Information with any current or future “affiliate” (which means a parent company, a subsidiary, joint venture, or other company that controls, is controlled by, or is under common control with SparkPeople), in which case we will require the affiliate to honor this privacy policy. If another company acquires SparkPeople (or a business unit of SparkPeople that uses your Personal Information), the Personal Information collected by SparkPeople will be transferred to that company and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
@@ -62,13 +60,4 @@ This Site and third parties who place advertisements on this Site may collect an
 **Queries**  
 If you have a question or comment about the SparkPeople site, please contact us at support@sparkpeople.com.
 
-Last updated February 8, 2012 
-
-## Related Content
-
-  
-
-
-## Stay in Touch With SparkPeople
-
-[](https://web.archive.org/myspark/email_flags.asp)
+Last updated October 25, 2013. 
