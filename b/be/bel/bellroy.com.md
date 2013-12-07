@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629202801id_/http%3A//bellroy.com/pages/customer-care/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellroy.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207010712id_/http%3A//bellroy.com/pages/customer-care/%23privacy) for the most accurate reproduction.*
 
 # Customer Care - Slim Leather Wallets by Bellroy
 
@@ -6,11 +6,11 @@ The following information is here to help answer any of your questions. If there
 
 ## Shipping & Delivery
 
-With customers all around the world, we are happy to send our wallets to anywhere that has a letterbox (sorry, we can’t do PO boxes).
+With customers all around the world, we are happy to send our wallets to anywhere that has a letterbox. P.O. Boxes in the U.S. and Canada can be sent to with the regular shipping option.
 
 While we always dispatch an order within 2 working days, we can’t directly control the delivery times beyond our end.
 
-As a general rule, assume that regular post will take 2-5 days for Australia and the USA, and 6-28 days for International. Express post is generally 1-3 days for Australia & Nth America, and 2-8 days for other International.
+As a general rule, assume that regular post will take 3-8 days for Australia, North America, & the UK, and 6-28 days for the rest of the world. Express post is generally 1-3 days for Australia, North America & the UK, and 2-8 days for other International.
 
 If you live down a donkey track in Tuana Tuva, please allow a little bit extra.
 
@@ -18,8 +18,8 @@ Destination| Regular| Express
 ---|---|---  
 Australia| Free!| $6.00 USD  
 New Zealand| Free!| $14.00 USD  
-USA| Free!| $9.00 USD  
-Canada| $6.00 USD| $12.00 USD  
+USA| Free!| $6.00 USD  
+Canada| $6.00 USD| Not Available  
 UK| Free!| $9.00 USD  
 Europe| Free!| $12.00 USD  
 Asia| $8.00 USD| $14.00 USD  
@@ -42,23 +42,23 @@ Welcome to bellroy.com (the 'Site'). Here are the details about how we work.
 
 Please review the following basic terms that govern your use of and purchase of products from our Site. Please note that your use of our Site constitutes your agreement to follow and be bound by these terms.
 
-### 1\. Transaction Currency and Pricing
+### 1\. Currency and Pricing
 
-All transactions are processed in the currency shown in the bottom right corner of each page and include GST (Goods and services tax) in Australia.
+All transactions are processed in the currency shown on the wallet and checkout pages. Most countries have tax included in the price, if not, the tax will be shown on the checkout page before purchase.
 
 ### 2\. Shipping and Delivery
 
-Bellroy delivers products to most of the planet. Shipping rates are outlined on our Shipping page, and will be quoted with any order.
+Bellroy delivers products to most of planet earth and select parts of our solar system. Shipping rates are outlined on our Shipping page, and will be quoted with any order.
 
 ### 3\. Customer Service
 
-Bellroy is committed to providing exceptional customer service and quality products. We endeavour to make sure that all products listed on our website are currently in stock and pricing is true and correct. Standard dispatch timeframes are between 1-3 business days; in the event that an ordered item is not available or we are unable to fulfil your order we will notify you within 2 business days to arrange an agreeable alternative item, a backorder or a full refund.
+Bellroy is committed to providing exceptional customer service and quality products. Standard dispatch timeframes are between 1-3 business days. If you have any questions or concerns about a wallet, your order, or life in general; send through an email to [support@bellroy.com](mailto:support@bellroy.com).
 
 ### 4\. Return Policy
 
-Bellroy stands by the quality of our products with a 3 year warranty. If the wallet is faulty or flawed, no worries — get in touch with us and we'll get an exchange or refund sorted out for you straight away.
+Bellroy stands by the quality of our products with a 3 year warranty. If the wallet is faulty or flawed, no worries — get in touch with us and we'll sort out an exchange or refund straight away.
 
-However, we discourage returns simply for a change of mind. Please choose carefully. Unnecessary shipping and processing goes against our [core goals](https://web.archive.org/pages/environment/).
+However, we discourage returns simply for a change of mind. Unnecessary shipping and processing go against our [core goals](https://web.archive.org/pages/environment/). Please choose carefully. 
 
 ### 5\. Warranty
 
@@ -66,15 +66,15 @@ Bellroy products are covered by a 3 year warranty. Full details are [here](https
 
 ### 6\. Copyright
 
-The Contents of our Site, and the Site as a whole, are intended solely for personal, noncommercial (other than for the purchase of merchandise from our Site) use by the users of our Site.
+The contents of our website, and the site as a whole, are intended solely for personal, noncommercial (other than for the purchase of merchandise from our Site) use by its users.
 
-You may download or copy the Contents and other downloadable materials displayed on the Site for your personal use only. No right, title or interest in any downloaded materials is transferred to you as a result of any such downloading or copying.
+You may download or copy the contents and other downloadable materials displayed on bellroy.com for your personal use only. No right, title or interest in any downloaded materials is transferred to you as a result of any such downloading or copying.
 
-You may not reproduce (except as noted above), publish, transmit, distribute, display, modify, create derivative works of, sell or participate in any sale of, or exploit in any way, in whole or in part, any of the Contents or the Site.
+You may not reproduce (except as noted above), publish, transmit, distribute, display, modify, create derivative works of, sell or participate in any sale of, or exploit in any way, in whole or in part, any of the contents of this site.
 
 ### 7\. Security
 
-When purchasing from Bellroy your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is the current industry standard. If you have any questions regarding our security policy, please contact us via email at [moderncraft@bellroy.com](mailto:moderncraft@bellroy.com).
+When purchasing from Bellroy your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is the current industry standard. If you have any questions regarding our security policy, please contact us via email at [support@bellroy.com.](mailto:support@bellroy.com).
 
 ## PRIVACY POLICY
 
