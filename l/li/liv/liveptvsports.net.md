@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liveptvsports.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603065952id_/http%3A//liveptvsports.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveptvsports.net privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207205250id_/http%3A//liveptvsports.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | PTV Sports Live
 
 **Privacy Policy**  
 PTVSPORTSLIVE takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.  
@@ -15,7 +15,5 @@ Note that you can change your browser settings to disable cookies if you have pr
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.  
 **Contact Information**  
 Concerns or questions about this privacy policy can be directed to [info (@) PTVSPORTSLIVE.pk ] for further clarification.
-
-## Share and Enjoy
 
 [Mishal Khan](https://plus.google.com/u/0/105761929751124364704/about?rel=author)
