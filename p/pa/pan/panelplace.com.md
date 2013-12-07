@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the panelplace.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603222453id_/http%3A//panelplace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panelplace.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207134120id_/http%3A//www.panelplace.com/privacy.php) for the most accurate reproduction.*
 
-# PanelPlace: Home of Paid Survey | Privacy Policy
+# Privacy Policy | PanelPlace
 
-  
-_(Last updated: 1 Jan 2013)_
+(Last updated: 1 Jan 2013)
 
 PANELPLACE.COM is committed to protecting your privacy. This PANELPLACE.COM Statement of Privacy applies to the PANELPLACE.COM family of Web sites and governs data collection and usage at all PANELPLACE.COM sites and services. Please read the PANELPLACE.COM Statement of Privacy below, our Terms of Use and any supplementary information at the end of this statement for additional details about particular PANELPLACE.COM sites and services that you may use.
 
 At PanelPlace.com, we take your privacy seriously! Please read this Statement of Privacy to be more aware about our policy on collecting, using and disclosing personal information. This website is not intended for children under 13 years of age.
 
- ** _Collection and Use of Personal Information_**
+**_Collection and Use of Personal Information_**
 
 We collect the following personal information from you:
 
@@ -35,8 +34,6 @@ As is true of most Web sites, we automatically gather information about your com
 
 • Send you requested product or service information.
 
-• Send product updates or warranty information.
-
 • Respond to customer service requests.
 
 • Administer your account.
@@ -55,11 +52,9 @@ As is true of most Web sites, we automatically gather information about your com
 
 • Display content based upon your interests.
 
-• List you in our member directory made available only to other members.
-
 **Choice/Opt-Out:**
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at support@panelplace.com.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@panelplace.com](mailto:support@panelplace.com).
 
 **Social Network**
 
@@ -87,17 +82,19 @@ We will share your information with third parties only in the ways that are desc
 
 We or a third party contracted by us may use technologies such as cookies, Web beacons, or scripts to gather information about how you and others interact with our Web site. For example, we will know how many users access a specific areas or features within our site and which links or ads they clicked on. We use this aggregated information to understand and optimize how our site is used, improve our marketing efforts, and provide content and features that are of interest to you.
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here: http://preferences.truste.com. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here: [http://preferences.truste.com](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 **_Security_**
 
-The security of your personal information is important to us. When you provide sensitive information (such as a credit card number) to us, we encrypt the transmission of that information using secure socket layer technology (SSL).  
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at support@panelplace.com We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@panelplace.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+The security of your personal information is important to us. When you provide sensitive information (such as a credit card number) to us, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@panelplace.com](mailto:support@panelplace.com) We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@panelplace.com](mailto:support@panelplace.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **_Other Information_**
 
-Correcting and Updating Your Personal Information.  
-To review and update your personal information to ensure it is accurate, contact us at support@panelplace.com.
+Correcting and Updating Your Personal Information.
+
+To review and update your personal information to ensure it is accurate, contact us at [support@panelplace.com](mailto:support@panelplace.com).
 
 **Notification of Privacy Statement Changes**
 
@@ -109,9 +106,10 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 PanelPlace LLP  
 111 North Bridge Road #27-01 Peninsula Plaza  
-Singapore, 179098   
-Singapore  
-Email: support@panelplace.com  
-Phone: +65074432 
+Singapore, 179098 
 
-[](https://privacy.truste.com/reseller/privacy-policy/PanelPlace-LLP/certified/715fd85c-04a3-496e-ad87-838b0f1aa32e)
+Singapore  
+Email: [support@panelplace.com](mailto:support@panelplace.com)  
+Phone: +65.6507 4432
+
+[](https://privacy.truste.com/reseller/privacy-policy/PanelPlace-LLP/certified/c6bb6763-896c-4e28-818d-e82e8ce0f3dc)
