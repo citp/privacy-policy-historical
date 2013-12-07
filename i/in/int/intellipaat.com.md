@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellipaat.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606030854id_/http%3A//intellipaat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellipaat.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207011443id_/http%3A//intellipaat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Intellipaat
 
@@ -37,6 +37,10 @@ Our website may have links to other sites which includes third party websites or
 ### Course Content
 
 Course content for all the study programs online or offline trainings, it is provided for the purpose of education and guidance only. The course content is regularly reviewed and is subjected to change without notice. Intellipaat reserves the right to modify training content without notice.
+
+### Access to Intellipaat e-learning Solution
+
+Sharing of Intellipaat training material and e-learning credentials to your friends, family members, colleagues . Please be aware that sharing of Intellipaat training material or e-learning credentials is  strictly prohibited and can have legal implications. If anyone found sharing Intellipaat training material or e-learning credentials his/her account will be disabled permanently and will be un-enrolled from the course automatically.
 
 ### Copyright information
 
