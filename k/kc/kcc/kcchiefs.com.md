@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the kcchiefs.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601173205id_/http%3A//www.kcchiefs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcchiefs.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207235908id_/http%3A//www.kcchiefs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # KCChiefs.com | Privacy and Security Statement
 
-[](http://www.truste.org/ivalidate.php?url=www.kcchiefs.com&sealid=101)[](http://www.truste.org/ivalidate.php?url=www.kcchiefs.com&sealid=101)
+[](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=ebe8da98-4504-4a3f-b943-c79a95b528f9 "TRUSTe online privacy certification")
 
-Effective Date: 07/07/2005
+Effective Date: 07/23/2013
 
 This privacy policy applies to the Kansas City Chiefs website located at www.kcchiefs.com (the "Website").  The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
 The Website is operated by Kansas City Chiefs.
 
-Kansas City Chiefs is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site **www.kcchiefs.com**.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Lance Brown at [questions@kcchiefs.com](mailto:questions@kcchiefs.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.  TRUSTe will then serve as a liaison with us to resolve your concerns.
+Kansas City Chiefs has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.kcchiefs.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at questions@kcchiefs.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address.  When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy. 
 
@@ -58,6 +56,14 @@ Surveys or Voting: From time-to-time we may request personally identifiable info
 
 Cookies:  As with many Websites, our Website uses a technology called "cookies." A cookie is a unique, random number that is stored in the browser on your computer. The cookie doesn't actually identify you, just the computer that is used to visit the site. Cookies automatically identify your browser to the Website whenever your computer is used to visit the Website.  Cookies also let us know how many people visit our website and where visitors go on the site. In addition, cookies can let us know non-personally identifiable information, like what web browser is being used to access the website. For registered users, cookies can make using the Website easier for you by saving information such as your passwords or preferences.  By tracking how and when you use the Website, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Website are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Website. Cookies may also allow the Website to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time.  Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies.
 
+**Third Party Cookies**
+
+The use of cookies by our tracking utility company, and service providers are not covered by our privacy statement. We do not have access or control over these cookies. Our tracking utility company and service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.
+
+**Web beacons**
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
 IP Addresses: We may collect IP addresses. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses for purposes of system administration and to report aggregate information to our advertisers and sponsors, for example regarding the frequency with which our guests visit various parts of our sites. We may combine this information with personally identifiable information.
 
 Transaction Information: If you conduct a financial transaction with our Website, such as such as "order information from our Website, buy our products, or subscribe to services offered on our Website, we will ask you to complete an order form that will request certain information from you, including contact information, demographic information and financial information.  We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you.  For your protection, such information is collected and stored through encrypted means. 
@@ -85,10 +91,11 @@ Agents: We employ other businesses, certain services and individuals to perform 
 
 Aggregate Information: We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information. An example when the user accesses real video content.
 
-Other Promotional Offers:  We may send offers to you on behalf of our marketing partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may use the opt out method detailed in the email or change your preferences by logging into your account.
+  
+Other Promotional Offers:  We may send offers to you on behalf of our marketing partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may use the opt out method detailed in the email [http://www.kcchiefs.com/unsubscribe/](http://www.kcchiefs.com/) or change your preferences by logging into your account.
 
 To remove by mail:  
-Lance Brown  
+Travis Geary  
 Attn: Email removal  
 Kansas City Chiefs  
 1 Arrowhead Drive  
@@ -119,6 +126,10 @@ By using this Website, you signify your agreement to the terms of our privacy po
 Correcting/Updating Personal Information
 
 If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing us at [questions@kcchiefs.com](mailto:questions@kcchiefs.com).
+
+**Data Retention**
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [email address].  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Your California Privacy Rights
 
