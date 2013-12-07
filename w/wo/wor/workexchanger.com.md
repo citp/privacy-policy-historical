@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workexchanger.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603042044id_/http%3A//workexchanger.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workexchanger.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207120526id_/http%3A//workexchanger.com/privacy.php) for the most accurate reproduction.*
 
 # WorkExchanger-WorkExchanger Fast Easy Micro Jobs
 
