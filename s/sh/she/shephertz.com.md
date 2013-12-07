@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shephertz.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628042434id_/http%3A//www.shephertz.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shephertz.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207031152id_/http%3A//www.shephertz.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,10 +44,6 @@ Please visit our Terms and Conditions section establishing the use, disclaimers,
 <http://www.shephertz.com/terms_conditions.php>
 
 **Your Consent** By using our site, you consent to our websites privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page.
 
 **Changes to our Privacy Policy**
 
