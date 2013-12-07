@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the currys.ie privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606224643id_/http%3A//www.currys.ie/content/Privacypolicy/932) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currys.ie privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207062753id_/http%3A//www.currys.ie/content/Privacypolicy/932) for the most accurate reproduction.*
 
-# Currys | Washing Machines | TVs | Ipods | MP3 Players | Laptops | ipads | Tablets | Cookers | Fridges | Freezers | Cameras
+# Currys | Washing Machines | TVs | Ipods | MP3 Players | Laptops |
 
 **Data Protection Act  
 ** DSG Retail Ireland Ltd holds information on customers in accordance with the provisions of the Data Protection Act 1988, and will adhere to any other relevant future legislation in this area. Under this legislation, customers can obtain a copy of all information which DSG Retail Ireland Ltd has on its databases in relation to them. Customers wishing to obtain such information should contact the Company Secretary, DSG Retail Ireland Ltd, Unit 9A, The Park, Carrickmines, Dublin 18. VAT no. 8259460C. Email us on websales@currys.ie  
