@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the simplereach.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125025238id_/http%3A//simplereach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplereach.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208003430id_/http%3A//simplereach.com/privacy) for the most accurate reproduction.*
 
 # SimpleReach | Privacy Policy
 
-The SimpleReach website (the “Site”) located at [http://www.simplereach.com](http://www.simplereach.com/) is operated by SimpleReach, Inc. SimpleReach is committed to respecting and protecting your privacy. To that end, we have prepared this privacy policy (“Privacy Policy”) to describe our information gathering and dissemination practices and our data protection practices for the Site and Services; it does not apply to other online or offline SimpleReach sites, products or services. The terms “SimpleReach,” “we,” “us,” and “our” refer to SimpleReach, Inc. and its affiliates. The terms “you,” “your,” and “yours” refer to the user utilizing the Site and/or any of the SimpleReach Services as a publisher and/or end user. This Privacy Policy is incorporated into and subject to our Terms of Service located at https://www.simpleservice.com/tos (the “TOS”), and capitalized terms used but not defined in this Privacy Policy are defined in the TOS.
+The SimpleReach website (the “Site”) located at [http://www.simplereach.com](http://www.simplereach.com/) is operated by SimpleReach, Inc. SimpleReach is committed to respecting and protecting your privacy. To that end, we have prepared this privacy policy (“Privacy Policy”) to describe our information gathering and dissemination practices and our data protection practices for the Site and Services; it does not apply to other online or offline SimpleReach sites, products or services. The terms “SimpleReach,” “we,” “us,” and “our” refer to SimpleReach, Inc. and its affiliates. The terms “you,” “your,” and “yours” refer to the user utilizing the Site and/or any of the SimpleReach Services as a publisher and/or end user.
 
 ###  Collection of Information 
 
@@ -69,10 +69,10 @@ By using this Site and/or any of the SimpleReach Services, you agree to this Pri
 If you have any questions, comments, or concerns about this Privacy Policy, please contact us at:
 
   * SimpleReach
-  * 27W 24th Street, Suite 703
+  * 41 W. 25th Street, Floor 8
   * New York, NY 10010
   * [info@simplereach.com](mailto:info@simplereach.com)
 
 
 
-Last updated: 10/11/12 
+Last updated: 08/14/13 
