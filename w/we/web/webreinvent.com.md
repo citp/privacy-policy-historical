@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the webreinvent.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430215449id_/http%3A//webreinvent.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webreinvent.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207155911id_/http%3A//www.webreinvent.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - WebReinvent
+# Privacy Policy | Professional Joomla, Wordpress & Magento Website Design & Development Company - Delhi, India
 
 **Disclaimer**
 
-2Checkout.com, Inc. is an authorized retailer of Astra Paging, Ltd.  
-(2CO) is also the authorized reseller for thousands of tangible or digital products and services.  
-Established in 1999 and headquartered in Columbus, Ohio, 2CO provides turnkey e-commerce solutions to thousands of business customers around the world. 2CO's proprietary technology supports back-office functions including financial reporting, tracking, fraud prevention, affiliate tracking, customer service and sales tracking.  
+2Checkout.com, Inc. is an authorized retailer of Astra Paging, Ltd.
+
+(2CO) is also the authorized reseller for thousands of tangible or digital products and services.
+
+Established in 1999 and headquartered in Columbus, Ohio, 2CO provides turnkey e-commerce solutions to thousands of business customers around the world. 2CO’s proprietary technology supports back-office functions including financial reporting, tracking, fraud prevention, affiliate tracking, customer service and sales tracking.
+
 For more Details visit: http://www.2checkout.com
 
 **1\. The Information We Collect**
@@ -27,11 +30,11 @@ For more Details visit: http://www.2checkout.com
 
 2.1 Cookies: We never use COOKIES to collect/store any information in any form (encrypted/non- encrypted). So you can opt not to accept cookies by modifying the parameter settings on your browser. In the event, your visit to our website will not be affected.
 
-2.2 Credit Card Information: During Payment through credit card, your payment transaction will process through SECURE PAYMENT GATEWAY. Any credit card information that you provide through our merchant website is directly submitted to a payment server of the credit card processing bank. WebReinvent.com does not maintain electronic or physical copies of your credit card information. Read “Privacy of Third Party” for more details mentioned below. 
+2.2 Credit Card Information: During Payment through credit card, your payment transaction will process through SECURE PAYMENT GATEWAY. Any credit card information that you provide through our merchant website is directly submitted to a payment server of the credit card processing bank. WebReinvent.com does not maintain electronic or physical copies of your credit card information. Read “Privacy of Third Party” for more details mentioned below.
 
 **3\. How Do We Use Your Information?**
 
-3.1 General: We use your Collected Information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content, layout and service specifically for you. We may use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us. We may share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users. We may use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message.
+3.1 General: We use your Collected Information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site’s content, layout and service specifically for you. We may use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us. We may share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users. We may use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message.
 
 3.2 Members information: We shall not be disclosed your membership information to any third party, other than for legal/relevent reasons.
 
@@ -69,4 +72,5 @@ We reserve the right to modify our Privacy Policy from time to time. We recommen
 
 **8\. Your Feedback**
 
-WebReinvent.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to our email.
+WebReinvent.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to our email.   
+
