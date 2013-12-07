@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the independentlivingbullion.com privacy policy that was archived on 2013-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606092313id_/http%3A//independentlivingbullion.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the independentlivingbullion.com privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207053720id_/http%3A//www.independentlivingbullion.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width,height=device-height,maximum-scale=1,user-scalable=yes,width=480">
   <title>Privacy</title>
   <base href="http://www.independentlivingbullion.com/">
+    
   <link rel="shortcut icon" href="//www.independentlivingbullion.com/favicon/favicon.ico">
-	<link rel="apple-touch-icon" href="//www.independentlivingnews.com/images/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="//www.independentlivingnews.com/images/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="//www.independentlivingnews.com/images/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" href="//www.independentlivingbullion.com/images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="//www.independentlivingbullion.com/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="//www.independentlivingbullion.com/images/apple-touch-icon-114x114.png">
 <link href="http://www.independentlivingbullion.com/style/core.css" rel="stylesheet">
 <link href="http://www.independentlivingbullion.com/css/jquery-ui-1.9.2.custom.min.css" rel="stylesheet">
 <link href="http://www.independentlivingbullion.com/style/navigation.css" rel="stylesheet">
@@ -52,7 +53,7 @@
 </style>
 
 <!-- Optimizely Tracking [Site Wide] -->
-<script src="//cdn.optimizely.com/js/107389242.js" async="true"></script>
+<script src="//cdn.optimizely.com/js/347900112.js"></script>
 <!-- End Optimizely Tracking [Site Wide] -->
 
 
@@ -89,41 +90,53 @@ var google_conversion_value = 0;
 </noscript>
 <!-- End Google Code for ILB Visitors Remarketing List -->
 
-<!-- Google Code for ILB Visitors Remarketing List to the ILN Account -->
+
+<!-- Addroll Remarketing Pixel -->
 <script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1022697815;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "ffffff";
-var google_conversion_label = "wLPmCMHA4AIQ18LU5wM";
-var google_conversion_value = 0;
-/* ]]> */
+adroll_adv_id = "Z7DACLNPKJH53FAOZUQFOL";
+adroll_pix_id = "QBXCLINVDBFADLEJ5A76DF";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
 </script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1022697815/?label=wLPmCMHA4AIQ18LU5wM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- End Google Code for ILB Visitors Remarketing List -->
-<script type="text/javascript" src="//www.independentlivingbullion.com/scripts/formly.js"></script>
+<!-- End Addroll Remarketing Pixel --><script type="text/javascript" src="//www.independentlivingbullion.com/scripts/formly.js"></script>
 <script>
 $(document).ready(function() {
   $('#newsletter-signup').formly({'theme':'Dark'}, function(e)
       { $('.callback').html(e); });
   });
-  function $_GET() {
+  if(typeof(_$) != "function") function _$($e) { return ($e !== null && $e !== undefined) ? document.getElementById($e) : document; }
+  function $_URL() {
     var vars = {};
     var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) { vars[key] = value; });
     return vars;
   }
-  function _$($e) {
-    return document.getElementById($e);
+  var $_GET = $_URL();
+  
+  function _ToggleMenu() {
+    if(parseInt(_$('navFlow').style.height) != 371 || _$('navFlow').offsetHeight != 371) {
+      _$('navFlow').style.height = "371px";
+      _$('navFlow').style.maxHeight = "371px";
+      _$('cartFlow').style.height = "371px";
+      _$('cartFlow').style.maxHeight = "371px";
+    } else {
+      _$('navFlow').style.height = "84px";
+      _$('cartFlow').style.height = "84px";
+    }
   }
 </script>
-<script src="js/newsletter_signup.js" type="text/javascript"></script>
+<script src="http://www.independentlivingbullion.com/js/newsletter_signup.js"></script>
+
 
 <!-- BEGIN Tynt Script -->
 <script type="text/javascript">
@@ -134,8 +147,15 @@ if(document.location.protocol==''){
 </script>
 <!-- END Tynt Script -->
 <script type="text/javascript" src="//www.independentlivingbullion.com/popup-domination/js.php"></script>
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
+
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
 
 <!-- Qualaroo for independentlivingbullion.com -->
 <!-- Paste this code right after the <body> tag on every page of your site. -->
@@ -146,22 +166,23 @@ if(document.location.protocol==''){
 <div class="printLogo">
   <img src="style/images/ilb_email_logo2.png" alt="" style="max-width: 100%;">
 </div>
-<div id="cartPH" style="height: 132px; display: block;">&nbsp;</div>
+<div id="cartPH" style="height: 117px; display: block;">&nbsp;</div>
 <div id="cartFlow" class="styleCartFlow">
   <div class="header_top_wrap"><div class="header_top">
     <div class="styleLogo">
-      <img src="style/images/ilb-logo-header.png" alt="" style="max-width: 100%;">
+      <img src="style/images/ilb-logo-header.png" alt="" style="max-width: 98%;">
     </div>
     <div style="height: 100%;">
-    <div style="position: absolute; bottom: 0px; width: 100%; height: 80px; max-height: 100%;">
+    <div class="styleNavOrient">
     <div id="navFlow" style="text-align: center; width: 100%; height: 80px; max-height: 80px; display: table;">
       <div id="scrollLogo" class="navSpace" style="width: 80px;">
         <div class="posFix">
         <a href="/" style="width: 100%; height: 100%; display: block;">
-          <img src="style/images/logo_nav.png" alt="Independent Living Bullion" title="Home" style="position: absolute; top: 6%; right: 4px; float: right; max-height: 100%;">
+          <img src="style/images/new_logo.png" alt="Independent Living Bullion" title="Home" style="position: absolute; right: 4px; float: right; max-height: 94%;">
         </a>
         </div>
       </div>
+      <div id="navTitle" class="mobileNav" onclick="_ToggleMenu()">Menu</div>
       <div class="styleNavFull">
         <div class="posFix">
         <a href="buy-metals" class="navHead"><img class="navIcon" src="style/images/nav_shop-metals-2.png" alt="">
@@ -170,19 +191,46 @@ if(document.location.protocol==''){
         <ul>
           <li><a href="http://www.independentlivingbullion.com/buy-metals/gold">Gold ▶</a>            <ul id="goldMain" onmouseout="_HideNav('gold')">
             <div id="goldNav"><img id="goldImg" src="style/images/blank.png" style="max-width: 175px; max-height: 175px; vertical-align: top; margin: 8px;"></div>
-              <li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/AME_layeredGoldCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/american-gold-eagles">American Gold Eagles</a></li><li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/CML_layeredGoldCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/canadian-gold-maple-leafs">Canadian Gold Maple Leafs</a></li><li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/SAK_layeredGoldCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/south-african-krugerrand-gold-coins">South African Krugerrand Gold Coins</a></li><li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/AUKANG_layeredGoldCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/australian-kangaroo-gold-coins">Australian Kangaroo Gold Coins</a></li><li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/AMBUFFALO_layeredGoldCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/gold-american-buffalos">Gold American Buffalos</a></li><li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/ProdPage_gold_bars.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/gold-bars">Gold Bars</a></li><li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/AMLL_layeredGoldCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/lady-liberty-110-oz-gold-rounds">Lady Liberty 1/10-oz Gold Rounds</a></li><li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/historic-gold_layeredcollage.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/historic-us-gold-coins">Historic U.S. Gold Coins</a></li>            </ul>
+              <li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/AME_layeredGoldCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/american-gold-eagles">American Gold Eagles</a></li><li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/CML_layeredGoldCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/canadian-gold-maple-leafs">Canadian Gold Maple Leafs</a></li><li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/SAK_layeredGoldCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/south-african-krugerrand-gold-coins">South African Krugerrand Gold Coins</a></li><li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/AMBUFFALO_layeredGoldCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/gold-american-buffalos">Gold American Buffalos</a></li><li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/ProdPage_gold_bars.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/gold-bars">Gold Bars</a></li><li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/AUKANG_layeredGoldCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/australian-kangaroo-gold-coins">Australian Kangaroo Gold Coins</a></li><li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/st-gaudens-gold-coins.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/st-gaudens-us-gold-coins">St. Gaudens U.S. Gold Coins</a></li><li onmouseover="_MegaNav('gold', '//www.independentlivingbullion.com/images/us-liberty-gold-coins.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/gold/liberty-us-gold-coins">Liberty U.S. Gold Coins</a></li>              <li><a href="buy-metals/gold/historic-gold-coins">Historic Gold Coins ▶</a>
+                <ul id="goldSub">
+                  <li><a href="buy-metals/gold/st-gaudens-us-gold-coins">St. Gaudens U.S. Gold Coins</a></li>
+                  <li><a href="buy-metals/gold/liberty-us-gold-coins">Liberty U.S. Gold Coins</a></li>
+                </ul>
+              </li>
+              <li><a href="javascript:void(0);">Fractional Gold Coins/Bars ▶</a>
+                <ul id="goldSub">
+                  <li><a href="buy-metals/gold/american-gold-eagles?size=2">1/2-oz American Gold Eagles</a></li>
+                  <li><a href="buy-metals/gold/american-gold-eagles?size=3">1/4-oz American Gold Eagles</a></li>
+                  <li><a href="buy-metals/gold/american-gold-eagles?size=4">1/10-oz American Gold Eagles</a></li>
+                  <li><a href="buy-metals/gold/australian-kangaroo-gold-coins?size=2">1/2-oz Australian Kangaroo Gold Coins</a></li>
+                  <li><a href="buy-metals/gold/australian-kangaroo-gold-coins?size=3">1/4-oz Australian Kangaroo Gold Coins</a></li>
+                  <li><a href="buy-metals/gold/australian-kangaroo-gold-coins?size=4">1/10-oz Australian Kangaroo Gold Coins</a></li>
+                  <li><a href="buy-metals/gold/lady-liberty-110-oz-gold-rounds">1/10-oz Lady Liberty Gold Rounds</a></li>
+                  <li><a href="buy-metals/gold/gold-bars?size=3">1-gram Gold Bars</a></li>
+                  <li><a href="buy-metals/gold/historic-us-gold-coins">Historic U.S. Gold Coins</a></li>
+                </ul>
+              </li>
+            </ul>
           </li>
           <li><a href="http://www.independentlivingbullion.com/buy-metals/silver">Silver ▶</a>            <ul id="silverMain" onmouseout="_HideNav('silver')">
             <div id="silverNav"><img id="silverImg" src="style/images/blank.png" style="max-width: 200px; max-height: 200px; vertical-align: top; margin: 8px;"></div>
-              <li onmouseover="_MegaNav('silver', '//www.independentlivingbullion.com/images/DTOM_layeredSilverCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/dont-tread-on-me-boston-tea-party-silver-bullion-rounds-1-oz">Don't Tread on Me / Boston Tea Party Silver Bullion Rounds - 1 Oz</a></li><li onmouseover="_MegaNav('silver', '//www.independentlivingbullion.com/images/WL_layeredSilverCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/walking-liberty-silver-rounds-1-oz">Walking Liberty Silver Rounds - 1 Oz</a></li><li onmouseover="_MegaNav('silver', '//www.independentlivingbullion.com/images/PaulRevere_layeredSilverCoin_2012.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/paul-revere-silver-rounds-12-oz">Paul Revere Silver Rounds - 1/2 Oz</a></li><li onmouseover="_MegaNav('silver', '//www.independentlivingbullion.com/images/AME_layeredSilverCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/american-silver-eagles">American Silver Eagles</a></li><li onmouseover="_MegaNav('silver', '//www.independentlivingbullion.com/images/CML_layeredSilverCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/canadian-silver-maple-leafs">Canadian Silver Maple Leafs</a></li><li onmouseover="_MegaNav('silver', '//www.independentlivingbullion.com/images/pre1965_silverCoins.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/pre-1965-us-silver-coin-bags">Pre-1965 U.S. Silver Coin Bags</a></li><li onmouseover="_MegaNav('silver', '//www.independentlivingbullion.com/images/AU1KILO_layeredSilverCoin.gif')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/perth-mint-1-kilo-silver-coin">Perth Mint 1 Kilo Silver Coin</a></li><li onmouseover="_MegaNav('silver', '//www.independentlivingbullion.com/images/ProdPage_silver_bars.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/silver-bars">Silver Bars</a></li><li onmouseover="_MegaNav('silver', '//www.independentlivingbullion.com/images/silver-philharmonics.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/philharmonic-silver-1-oz">Philharmonic Silver 1 Oz</a></li>            </ul>
+              <li onmouseover="_MegaNav('silver', 'http://www.independentlivingbullion.com/images/AME_layeredSilverCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/american-silver-eagles">American Silver Eagles</a></li><li onmouseover="_MegaNav('silver', 'http://www.independentlivingbullion.com/images/WL_layeredSilverCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/walking-liberty-silver-rounds-1-oz">Walking Liberty Silver Rounds - 1 Oz</a></li><li onmouseover="_MegaNav('silver', 'http://www.independentlivingbullion.com/images/DTOM_layeredSilverCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/dont-tread-on-me-boston-tea-party-silver-bullion-rounds-1-oz">Don't Tread on Me / Boston Tea Party Silver Bullion Rounds - 1 Oz</a></li><li onmouseover="_MegaNav('silver', 'http://www.independentlivingbullion.com/images/ProdPage_silver_bars.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/silver-bars">Silver Bars</a></li><li onmouseover="_MegaNav('silver', 'http://www.independentlivingbullion.com/images/CML_layeredSilverCoin.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/canadian-silver-maple-leafs">Canadian Silver Maple Leafs</a></li><li onmouseover="_MegaNav('silver', 'http://www.independentlivingbullion.com/images/PaulRevere_layeredSilverCoin_2012.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/paul-revere-silver-rounds-12-oz">Paul Revere Silver Rounds - 1/2 Oz</a></li><li onmouseover="_MegaNav('silver', 'http://www.independentlivingbullion.com/images/pre1965_silverCoins.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/pre-1965-us-silver-coin-bags">Pre-1965 U.S. Silver Coin Bags</a></li><li onmouseover="_MegaNav('silver', 'http://www.independentlivingbullion.com/images/AU1KILO_layeredSilverCoin.gif')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/perth-mint-1-kilo-silver-coin">Perth Mint 1 Kilo Silver Coin</a></li><li onmouseover="_MegaNav('silver', 'http://www.independentlivingbullion.com/images/silver-philharmonics.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/silver/philharmonic-silver-1-oz">Philharmonic Silver 1 Oz</a></li>            </ul>
           </li>
           <li><a href="http://www.independentlivingbullion.com/buy-metals/platinum">Platinum ▶</a>            <ul id="platMain" onmouseout="_HideNav('plat')">
-            <div id="platNav"><img id="platImg" src="style/images/blank.png" style="max-width: 150px; max-height: 160px; vertical-align: top; margin: 8px;"></div>
-              <li onmouseover="_MegaNav('plat', '//www.independentlivingbullion.com/images/ca_platinum_mapleleaf_stack.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/platinum/canadian-platinum-maple-leaf">Canadian Platinum Maple Leaf</a></li><li onmouseover="_MegaNav('plat', '//www.independentlivingbullion.com/images/au_platinum_platypus_stack.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/platinum/australian-platinum-platypus">Australian Platinum Platypus</a></li>            </ul>
+            <div id="platNav"><img id="platImg" src="style/images/blank.png" style="max-width: 150px; max-height: 150px; vertical-align: top; margin: 8px;"></div>
+              <li onmouseover="_MegaNav('plat', 'http://independentlivingbullion.com/images/platinum_collage.png')"><a href="http://www.independentlivingbullion.com/buy-metals/platinum/platinum-bars">Platinum Bars</a></li><li onmouseover="_MegaNav('plat', 'http://www.independentlivingbullion.com/images/ca_platinum_mapleleaf_stack.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/platinum/canadian-platinum-maple-leaf">Canadian Platinum Maple Leaf</a></li><li onmouseover="_MegaNav('plat', 'http://www.independentlivingbullion.com/images/au_platinum_platypus_stack.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/platinum/australian-platinum-platypus">Australian Platinum Platypus</a></li>            </ul>
           </li>
           <li><a href="http://www.independentlivingbullion.com/buy-metals/palladium">Palladium ▶</a>            <ul id="pallMain" onmouseout="_HideNav('pall')">
-            <div id="pallNav"><img id="pallImg" src="style/images/blank.png" style="max-width: 150px; max-height: 160px; vertical-align: top; margin: 8px;"></div>
-              <li onmouseover="_MegaNav('pall', '//www.independentlivingbullion.com/images/palladium-maple-leaf.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/palladium/palladium-maple-leaf">Palladium Maple Leaf</a></li>            </ul>          
+            <div id="pallNav"><img id="pallImg" src="style/images/blank.png" style="max-width: 150px; max-height: 150px; vertical-align: top; margin: 8px;"></div>
+              <li onmouseover="_MegaNav('pall', 'http://independentlivingbullion.com/images/palladium_collage.png')"><a href="http://www.independentlivingbullion.com/buy-metals/palladium/palladium-bars">Palladium Bars</a></li><li onmouseover="_MegaNav('pall', 'http://www.independentlivingbullion.com/images/palladium-maple-leaf.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/palladium/palladium-maple-leaf">Palladium Maple Leaf</a></li>            </ul>          
+          </li>
+          <li><a href="http://www.independentlivingbullion.com/buy-metals/copper">Copper ▶</a>            <ul id="copperMain" onmouseout="_HideNav('copper')">
+            <div id="copperNav"><img id="copperImg" src="style/images/blank.png" style="max-width: 64px; max-height: 32px; vertical-align: top; margin: 8px;"></div>
+              <li onmouseover="_MegaNav('copper', 'http://www.independentlivingbullion.com/images/CopperRounds.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/copper/dont-tread-on-me-copper-bullion-rounds">Don't Tread on Me Copper Bullion Rounds</a></li>            </ul>          
+          </li>
+          <li><a href="http://www.independentlivingbullion.com/buy-metals/miscellaneous">Other Products ▶</a>            <ul id="miscMain" onmouseout="_HideNav('misc')">
+            <div id="miscNav"><img id="miscImg" src="style/images/blank.png" style="max-width: 64px; max-height: 32px; vertical-align: top; margin: 8px;"></div>
+              <li onmouseover="_MegaNav('misc', 'http://www.independentlivingbullion.com/images/book-safe.jpg')"><a href="http://www.independentlivingbullion.com/buy-metals/miscellaneous/book-safe">Book Safe</a></li>            </ul>          
           </li>
         </ul>
         </div>
@@ -255,7 +303,7 @@ if(document.location.protocol==''){
         <ul id="navLogin" class="navSearch">
           <li>
             			<form action="http://www.independentlivingbullion.com/customer/login" method="post" accept-charset="utf-8" name="loginForm" id="loginForm" novalidate="novalidate" style="margin-bottom: 20px;"><div style="display:none">
-<input type="hidden" name="login_token" value="2398061e911a2c4d95563f93f365daae">
+<input type="hidden" name="login_token" value="40de6ec53e4cfa5cf0efcbb46bc10061">
 </div>                <div class="cf">
                   <div class="styleLabelM"><label for="login_string">Email:</label></div>
                   <input type="email" name="login_string" id="login_string" class="required styleLoginM" autocomplete="off" maxlength="255">
@@ -301,10 +349,10 @@ if(document.location.protocol==''){
 
     <div class="styleSpots">
       <div id="updateSpot" class="styleSpotPrices"><!-- *UDP-SPLIT* -->
-        <div class="stylePriceBox">Gold: <b>1,401.80</b> <small><span style="color:#FF6061;font-weight:bold;">-2.20</span></small></div>
-        <div class="stylePriceBox">Silver: <b>22.51</b> <small><span style="color:#FF6061;font-weight:bold;">-0.11</span></small></div>
-        <div class="stylePriceBox">Platinum: <b>1,512.00</b> <small><span style="color:#FF6061;font-weight:bold;">-4.00</span></small></div>
-        <div class="stylePriceBox">Palladium: <b>754.00</b> <small><span style="color:#FF6061;font-weight:bold;">-7.00</span></small></div>
+        <div class="stylePriceBox">Gold: <b>1,232.50</b> <small>0.00</small></div>
+        <div class="stylePriceBox">Silver: <b>19.62</b> <small>0.00</small></div>
+        <div class="stylePriceBox">Platinum: <b>1,366.00</b> <small>0.00</small></div>
+        <div class="stylePriceBox">Palladium: <b>738.00</b> <small>0.00</small></div>
       <!-- *UDP-SPLIT* --></div><div class="stylePhone">
         <span style="color: #333; font-size: 12px;">Free Expert Consultation!</span>
         <div class="stylePhoneBreak">&nbsp;</div>
@@ -321,14 +369,15 @@ if(document.location.protocol==''){
 <div id="pload" style="display: none;"></div>
 <script type="text/javascript">
   $itmCount = 0;
-  $navImgs = ['//www.independentlivingbullion.com/images/AME_layeredGoldCoin.jpg', '//www.independentlivingbullion.com/images/CML_layeredGoldCoin.jpg', '//www.independentlivingbullion.com/images/SAK_layeredGoldCoin.jpg', '//www.independentlivingbullion.com/images/AUKANG_layeredGoldCoin.jpg', '//www.independentlivingbullion.com/images/AMBUFFALO_layeredGoldCoin.jpg', '//www.independentlivingbullion.com/images/ProdPage_gold_bars.jpg', '//www.independentlivingbullion.com/images/AMLL_layeredGoldCoin.jpg', '//www.independentlivingbullion.com/images/historic-gold_layeredcollage.jpg', '//www.independentlivingbullion.com/images/DTOM_layeredSilverCoin.jpg', '//www.independentlivingbullion.com/images/WL_layeredSilverCoin.jpg', '//www.independentlivingbullion.com/images/PaulRevere_layeredSilverCoin_2012.jpg', '//www.independentlivingbullion.com/images/AME_layeredSilverCoin.jpg', '//www.independentlivingbullion.com/images/CML_layeredSilverCoin.jpg', '//www.independentlivingbullion.com/images/pre1965_silverCoins.jpg', '//www.independentlivingbullion.com/images/AU1KILO_layeredSilverCoin.gif', '//www.independentlivingbullion.com/images/ProdPage_silver_bars.jpg', '//www.independentlivingbullion.com/images/silver-philharmonics.jpg', '//www.independentlivingbullion.com/images/ca_platinum_mapleleaf_stack.jpg', '//www.independentlivingbullion.com/images/au_platinum_platypus_stack.jpg', '//www.independentlivingbullion.com/images/palladium-maple-leaf.jpg'];
+  $navImgs = ['//www.independentlivingbullion.com/images/AME_layeredGoldCoin.jpg', '//www.independentlivingbullion.com/images/CML_layeredGoldCoin.jpg', '//www.independentlivingbullion.com/images/SAK_layeredGoldCoin.jpg', '//www.independentlivingbullion.com/images/AMBUFFALO_layeredGoldCoin.jpg', '//www.independentlivingbullion.com/images/ProdPage_gold_bars.jpg', '//www.independentlivingbullion.com/images/AUKANG_layeredGoldCoin.jpg', '//www.independentlivingbullion.com/images/AMLL_layeredGoldCoin.jpg', '//www.independentlivingbullion.com/images/historic-gold_layeredcollage.jpg', '//www.independentlivingbullion.com/images/st-gaudens-gold-coins.jpg', '//www.independentlivingbullion.com/images/us-liberty-gold-coins.jpg', '//www.independentlivingbullion.com/images/AME_layeredSilverCoin.jpg', '//www.independentlivingbullion.com/images/WL_layeredSilverCoin.jpg', '//www.independentlivingbullion.com/images/DTOM_layeredSilverCoin.jpg', '//www.independentlivingbullion.com/images/ProdPage_silver_bars.jpg', '//www.independentlivingbullion.com/images/CML_layeredSilverCoin.jpg', '//www.independentlivingbullion.com/images/PaulRevere_layeredSilverCoin_2012.jpg', '//www.independentlivingbullion.com/images/pre1965_silverCoins.jpg', '//www.independentlivingbullion.com/images/AU1KILO_layeredSilverCoin.gif', '//www.independentlivingbullion.com/images/silver-philharmonics.jpg', '//independentlivingbullion.com/images/platinum_collage.png', '//www.independentlivingbullion.com/images/ca_platinum_mapleleaf_stack.jpg', '//www.independentlivingbullion.com/images/au_platinum_platypus_stack.jpg', '//independentlivingbullion.com/images/palladium_collage.png', '//www.independentlivingbullion.com/images/palladium-maple-leaf.jpg', '//www.independentlivingbullion.com/images/CopperRounds.jpg', '//www.independentlivingbullion.com/images/book-safe.jpg'];
 </script>
-<script src="js/main_template.js" type="text/javascript"></script>
+<script src="http://www.independentlivingbullion.com/js/main_template.js"></script>
 
 
 <div class="wrap">
+
  
-<!--- need position:relative for floating cart  --->
+<!-- need position:relative for floating cart -->
 <div class="main" style="position:relative;"><div class="mainIn"><div class="mainInner">
 
 	
@@ -338,11 +387,11 @@ if(document.location.protocol==''){
                       <td>
 <h1>Privacy Policy</h1>
 
-<div><b><strong>AMERICAN LANTERN PRESS/ Independent Living Bullion</strong></b> values your  privacy, and as a result we do only the minimum collection of information on  our visitors in order to provide you with the best possible service we can. The  information below describes the limited extent to which we collect and utilize  your personal information online.</div>
+<div><b><strong>Independent Living Bullion</strong></b> values your  privacy, and as a result we do only the minimum collection of information on  our visitors in order to provide you with the best possible service we can. The  information below describes the limited extent to which we collect and utilize  your personal information online.</div>
 
 <h3>What We Collect from the User</h3>
 <ol>
-  <li>During general visits to the site, <b><strong>AMERICAN LANTERN PRESS/ Independent Living Bullion</strong></b> collects generic information about our visitors like pages browsed, web browser, and general computer information using Google Analytics. At no time is this linked to your personal data, but this general information helps <b><strong>AMERICAN LANTERN PRESS/ Independent Living Bullion</strong></b> improve its website and services.</li>
+  <li>During general visits to the site, <b><strong>Independent Living Bullion</strong></b> collects generic information about our visitors like pages browsed, web browser, and general computer information using Google Analytics. At no time is this linked to your personal data, but this general information helps <b><strong>Independent Living Bullion</strong></b> improve its website and services.</li>
   <li>Only during sign-ups and site inquiries – in which we require email address and other pertinent personal information – is such information collected, and only at the visitors permission.<br>
   </li>
 </ol>
@@ -356,7 +405,7 @@ if(document.location.protocol==''){
 
 <h3>No Disclosure to Third Parties</h3>
 <ol>
-  <li>At no time does <b><strong>AMERICAN LANTERN PRESS/ Independent Living Bullion</strong></b> sell, rent, or give away your email address. In the event you receive a relevant "Third Party" email from <b><strong>AMERICAN LANTERN PRESS/ Independent Living Bullion</strong></b> it will always be sent from <b><strong>AMERICAN LANTERN PRESS/ Independent Living Bullion</strong></b> and that "Third Party" advertiser NEVER sees or is given access to any of your person information, including your email address.<br>
+  <li>At no time does <b><strong>Independent Living Bullion</strong></b> sell, rent, or give away your email address. In the event you receive a relevant "Third Party" email from <b><strong>Independent Living Bullion</strong></b> it will always be sent from <b><strong>Independent Living Bullion</strong></b> and that "Third Party" advertiser NEVER sees or is given access to any of your person information, including your email address.<br>
   </li>
 </ol>
 <div>If you need to modify the limited customer data we possess  or wish to "opt-out" of any free content or marketing you have received, please  contact us toll free at <b><span class="calltracking">1-800-800-1865</span></b>.</div>
@@ -371,10 +420,10 @@ if(document.location.protocol==''){
     <div class="styleFooterBlocks">
       <div id="newsletter_box" style="width: 300px; height: 160px; display: inline-block; zoom: 1; *display: inline; vertical-align: top; padding: 8px 0px; border-right: 1px solid #EFEFEF; border-bottom: 1px solid #EFEFEF;">
 				<div style="font-family: SansationBold, Helvetica, Arial, sans serif; font-size: 18px; text-align: center; margin-bottom: 8px;">Get Free Updates</div>
-				<div style="font-size: 13px; text-align: justify; margin-bottom: 12px; padding: 0px 8px 0px 0px;">Receive the latest precious metals news and promotions. Join over 138,000 other savvy investors.</div>
+				<div style="font-size: 13px; text-align: justify; margin-bottom: 12px; padding: 0px 8px 0px 0px;">Receive the latest precious metals news and promotions. Join over 350,000 other savvy investors.</div>
 				
         <form id="newsletter-signup" action="?action=signup" method="post">
-          <input type="email" name="signup-email" id="signup-email" value="Enter Email Address" onfocus="if(this.value == 'Enter Email Address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter Email Address';}">
+          <input type="email" name="signup-email" id="signup-email" value="Enter Email Address" onfocus="if(this.value == 'Enter Email Address') this.value = '';" onblur="if(this.value == '') this.value = 'Enter Email Address';">
           <input type="submit" id="signup-button" value="Sign Me Up!">
           <p id="signup-response"></p>
         </form>
@@ -420,7 +469,7 @@ if(document.location.protocol==''){
       </div>
       
       <div style="color: #333; font-size: 14px; text-align: center; margin-top: 8px; padding-top: 8px;">© 2013  Independent Living Bullion • P.O. Box 2599 • Eagle, ID • 83616-9120 • <span class="calltracking">1-800-800-1865</span><br>
-      <div style="color: #757B80; font-size: 11px; margin-top: 4px;">Independent Living Bullion is a division of American Lantern Press, and its flagship publication Independent Living.<br>All prices shown here are estimates - actual pricing subject to change based on current spot price plus premium at time of purchase.</div></div>
+      <div style="color: #757B80; font-size: 11px; margin-top: 4px;">All prices shown here are estimates - actual pricing subject to change based on current spot price plus premium at time of purchase.</div></div>
     </div>
 	</div><!-- End of footer -->
   
@@ -434,13 +483,31 @@ var _wpcf7 = {"loaderUrl":"style\/\/images\/ajax-loader.gif","sending":"Sending 
 /* ]]> */
 </script>
 
+<script src="http://www.independentlivingbullion.com/js/responsive_nav.js"></script>
 
-<script src="js/responsive_nav.js" type="text/javascript"></script>
+<script src="http://www.independentlivingbullion.com/calls/displaynumbers.js"></script>
 
-<script type="text/javascript" src="//www.independentlivingbullion.com/calls/displaynumbers.js"></script>
 <script language="javascript">
   displayTextNumber();
 </script>
+
+ 
+<!-- ClickTale Bottom part -->
+
+<script type="text/javascript">
+// The ClickTale Balkan Tracking Code may be programmatically customized using hooks:
+// 
+//   function ClickTalePreRecordingHook() { /* place your customized code here */  }
+//
+// For details about ClickTale hooks, please consult the wiki page http://wiki.clicktale.com/Article/Customizing_code_version_2
+
+document.write(unescape("%3Cscript%20src='"+
+(document.location.protocol=='https:'?
+"https://clicktalecdn.sslcs.cdngc.net/www02/ptc/0b8b6bd0-5a1f-48c9-9e83-27971c7c9d74.js":
+"http://cdn.clicktale.net/www02/ptc/0b8b6bd0-5a1f-48c9-9e83-27971c7c9d74.js")+"'%20type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://clicktalecdn.sslcs.cdngc.net/www02/ptc/0b8b6bd0-5a1f-48c9-9e83-27971c7c9d74.js" type="text/javascript"></script>
+
+<!-- ClickTale end of Bottom part -->
 
 
 </body></html>
