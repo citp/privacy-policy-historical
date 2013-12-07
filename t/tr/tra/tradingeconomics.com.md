@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingeconomics.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620190304id_/http%3A//tradingeconomics.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingeconomics.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207124625id_/http%3A//www.tradingeconomics.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # TradingEconomics.com - Privacy Policy
 
