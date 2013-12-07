@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vuupc.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621221752id_/http%3A//www.vuupc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuupc.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207170457id_/http%3A//vuupc.com/privacy.html) for the most accurate reproduction.*
 
-# VuuPC - Privacy Policy
+# Remote Desktop & Remote Access to your PC from Anywhere | ClickMeIn - Privacy Policy
+
+## Privacy Policy
 
 [Peter Drucker](http://en.wikipedia.org/wiki/Peter_Drucker), a management guru, said once: "If you can't measure it, you can't manage it".
 
