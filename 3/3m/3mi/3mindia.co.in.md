@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3mindia.co.in privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228222427id_/http%3A//solutions.3m.com/wps/portal/3M/en_WW/Worldwide/WW/3M/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3mindia.co.in privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207013836id_/http%3A//solutions.3mindia.co.in/wps/portal/3M/en_IN/World/Wide/3M/Privacy) for the most accurate reproduction.*
 
-# 3M Worldwide: Privacy Policy
+# 3M India: Privacy Policy
 
 3M Global Internet Privacy Policy  
 
@@ -124,7 +124,7 @@ Return to Top
 
 **Access to Personal Information**
 
-You may review, correct and update the personal information that you provide to us at a 3M Internet Site by using the feedback mechanisms provided at a particular 3M Internet Site, by clicking on this [feedback link](http://solutions.3m.com/wps/portal/3M/en_WW/World/Wide/3M/Contact/) or by writing to us at 3M, Global Internet Privacy Policy, Business Conduct and Compliance, 220-11W-02, 3M Center, 3M Company, St. Paul, MN 55144-1000.  
+You may review, correct and update the personal information that you provide to us at a 3M Internet Site by using the feedback mechanisms provided at a particular 3M Internet Site, by clicking on this [feedback link](http://solutions.3mindia.co.in/wps/portal/3M/en_IN/World/Wide/3M/Contact/) or by writing to us at 3M, Global Internet Privacy Policy, Business Conduct and Compliance, 220-11W-02, 3M Center, 3M Company, St. Paul, MN 55144-1000.  
 
 
 Return to Top  
@@ -139,7 +139,7 @@ Return to Top
 
 **Children and Parents**
 
-3M Internet Sites are generally not intended for persons under 13 years of age. 3M does not knowingly solicit or collect personal information from or about children on its Internet Sites except as permitted under applicable law. If your child has submitted personal information and you would like to request that such information be deleted from our records, you may do so by using the feedback mechanisms provided at a particular 3M Internet Site, by clicking on this [feedback link](http://solutions.3m.com/wps/portal/3M/en_WW/World/Wide/3M/Contact/) or by writing to us at 3M, Global Internet Privacy Policy, Business Conduct and Compliance, 220-11W-02, 3M Center, 3M Company, St. Paul, MN 55144-1000.  
+3M Internet Sites are generally not intended for persons under 13 years of age. 3M does not knowingly solicit or collect personal information from or about children on its Internet Sites except as permitted under applicable law. If your child has submitted personal information and you would like to request that such information be deleted from our records, you may do so by using the feedback mechanisms provided at a particular 3M Internet Site, by clicking on this [feedback link](http://solutions.3mindia.co.in/wps/portal/3M/en_IN/World/Wide/3M/Contact/) or by writing to us at 3M, Global Internet Privacy Policy, Business Conduct and Compliance, 220-11W-02, 3M Center, 3M Company, St. Paul, MN 55144-1000.  
 
 
 Return to Top  
@@ -147,7 +147,7 @@ Return to Top
 
 **Questions about this Policy or our Privacy Statements**
 
-If you have any questions about this Policy or a Country or Web Site Privacy Statement or our use of your personal information, please contact us by clicking on this [feedback link](http://solutions.3m.com/wps/portal/3M/en_WW/World/Wide/3M/Contact/) or write to us at 3M, Global Internet Privacy Policy, Business Conduct and Compliance, 220-11W-02, 3M Center, 3M Company, St. Paul, MN 55144-1000.  
+If you have any questions about this Policy or a Country or Web Site Privacy Statement or our use of your personal information, please contact us by clicking on this [feedback link](http://solutions.3mindia.co.in/wps/portal/3M/en_IN/World/Wide/3M/Contact/) or write to us at 3M, Global Internet Privacy Policy, Business Conduct and Compliance, 220-11W-02, 3M Center, 3M Company, St. Paul, MN 55144-1000.  
 
 
 Return to Top  
