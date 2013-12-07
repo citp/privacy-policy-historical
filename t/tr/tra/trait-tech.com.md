@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trait-tech.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408104904id_/http%3A//www.trait-tech.com/about/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trait-tech.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207104440id_/http%3A//www.trait-tech.com/about/privacy-notice.html) for the most accurate reproduction.*
 
-# Privacy notice - TRAIT TECH - Wholesale CellPhone Cases - China Wholesale - Dropship From China
+# Privacy notice
 
 **TRAIT-TECH** respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used.
 
@@ -38,7 +38,3 @@ When you visit our website, we do not collect personally identifiable informatio
 ### UPDATES TO THIS POLICY
 
 If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please contact us.
-
-You can find all contact details at the "[Contact us](https://web.archive.org/about/contact.html)" page or you can leave us a message.
-
-**Fill in the following informations ******
