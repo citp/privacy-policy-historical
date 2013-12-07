@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truckandtrailer.co.za privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521114024id_/http%3A//www.truckandtrailer.co.za/content-pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truckandtrailer.co.za privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207021843id_/http%3A//www.truckandtrailer.co.za/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Truck & Trailer
+# Privacy Statement - Truck and Trailer
 
 **Privacy Statement from** **Alli-Cat Publishing (Pty) Ltd., Registration Number 2002/025202/07, t/a AutoMart and Truck and Trailer (herein after referred to as "The Company")**
 
