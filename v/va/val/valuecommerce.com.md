@@ -1,29 +1,138 @@
-> *The following text is extracted and transformed from the valuecommerce.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530173332id_/http%3A//valuecommerce.com/vc/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuecommerce.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207222456id_/http%3A//www.valuecommerce.com/vc/privacy_policy.html) for the most accurate reproduction.*
 
 # ValueCommerce: learn about the ValueCommerce.com Privacy Policy
 
-This web page describes our privacy policy guidelines regarding the collection and use of personal or corporate information that you provide to us through this web site (http://www.valuecommerce.com). This privacy policy was last updated on May 18, 2006. ValueCommerce Co., Ltd. may modify the provisions of this privacy policy from time to time. The new provisions will be effective as soon as they are posted. Please check this page periodically to ensure that you are aware of any change.
+[](https://web.archive.org/web/20130310103858/http://www.valuecommerce.com/)
 
-## Types of information we gather and how we use it
+Value Commerce Co., Ltd. (hereinafter, the "Company") is a company that provides comprehensive consulting services with a focus on affiliate marketing services, including search engine marketing services. As a result, there are many instances where we deal with a range of information about our advertisers and partners, and we consider it to be our very important social responsibility to acknowledge the importance of this information and to handle the information itself in an appropriate manner.
 
-ValueCommerce collects information from users of its Web site including the information you provide to us by submitting information to us through use of this site. ValueCommerce Co., Ltd. may keep track of this information and the information that you provide to us when you visit the site for our internal review, business development, research or marketing. We may also use this information to solicit e-mail for business development, research, marketing or promotional purposes. We store this information in our database and will not share it with third parties, except as described in this policy. At any time you can remove your name and related information from our database, by sending us your updated preferences through completion of the [inquiry form](https://www.valuecommerce.com/vc/privacy_inquiry.html).
+Regarding the protection of personal information that may allow the identification of a private individual, we hereby declare that we will specify, implement and maintain the following items:
 
-## Cookies
+  1. In acquiring personal information, the Company will specify the purpose of its use as much as possible, and will acquire personal information only to the extent required to achieve this purpose.
+  2. If personal information is to be acquired directly from the individual in writing, the Company will provide the Company name, the name and the contact address of the Personal Information Protection Administrator, and the purpose of use, and will acquire the personal information only to the extent required.
+  3. The use of personal information will be limited to the extent of the consent to the purpose of use provided by the individual. Furthermore, the Company will establish procedures for implementing the necessary measures to prevent its use outside the purpose.
+  4. The Company will manage the personal information on hand accurately and in accordance with the latest methods, in keeping with the purpose of use, only to the extent necessary, and will establish reasonable safety measures for protection against leaks, losses or damage to the personal information in order to prevent and correct them.
+  5. When the Company is to outsource the processing of personal information, the appropriate management will be undertaken by putting in place contractual obligations against leaks or the provision of the information to third parties.
+  6. Any complaints or consultations regarding the protection of personal information can be addressed by contacting the Company's inquiry section.
+  7. The Company will comply with the laws and guidelines set forth by the government and other regulations that apply to the protection of personal information.
+  8. The Company will establish a management system regarding the protection of personal information, and will review it regularly and make continuous improvements.
 
-ValueCommerce Co., Ltd. may collect other types of anonymous data from web site users through the use of "cookies," which are text files that a web site places on the hard drive of your computer that identifies you as a user. When you return to the web site, your browser sends that information back to the site. ValueCommerce Co., Ltd. may use the information provided by cookies to analyze trends, administer the site, or for research and marketing purposes to help us better serve our clients. No personally identifying information from you will be collected as part of these cookies. You can set your browser to notify you before your receive a cookie, giving you a chance to accept it and you can set your browser to turn off cookies.
 
-## Security
 
-ValueCommerce Co., Ltd. protects your personal information with several security measures. In addition to normal precautions such as physical security and firewalls, we have strict internal security policies.
+Established: November 1, 2011  
+Latest revision: March 28, 2012  
+Value Commerce Co., Ltd.  
+Yoichi Iiizuka, Representative Director  
+President & CEO 
 
-## Information sharing and disclosure 
+Inquiry section for matters concerning the protection of personal information:  
+Please contact the following for any complaints, consultations, inquiries about disclosure and other matters in person, regarding the handling of personal information and the personal information protection management system. A prompt response will be provided appropriately. 
 
-ValueCommerce Co., Ltd. does not provide information about you, except as set forth herein: We will provide the information collected in the event we are required to provide such information by a court, administrative or governmental order or subpoena or other legal process. If we believe it is necessary to share your information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, violations of ValueCommerce Co., Ltd. terms of use or as otherwise required by law we will provide the information collected. 
+Personal Information Protection Administrator,  
+General Manager of Legal and Credit Control Department,  
+Value Commerce Co., Ltd.  
+6th Floor, Nihon Seimei Akasaka Building,  
+1-19, Akasaka 8-chome, Minato-ku, Tokyo
 
-## Privacy Complaints
+Address:
 
-If have any questions regarding this policy, believe that ValueCommerce Co., Ltd. has not complied with the provisions of this privacy policy or you wish to remove your personal data from our records, please fill out the [inquiry form](https://www.valuecommerce.com/vc/privacy_inquiry.html).
+## The purpose of use of personal information held by the Company and personal information subject to disclosure
 
-## General 
+  1. **Name of operator handling personal information**  
+Personal Information Protection Administrator,  
+General Manager of Legal and Credit Control Department, Value Commerce Co., Ltd. 
+  2. **Matters concerning the purpose of use of "personal Information held by the Company"**  
+The purpose of use of "personal information held by the Company" will be as follows:  No. | Type of Personal   
+Information Held | Disclosed /  
+Not Disclosed | Purpose of Use  
+---|---|---|---  
+1 | Personal information of those applying for positions in the Company during the recruitment screening (CV, etc.) | Disclosed | To be used in the recruitment screening process of the individual. The personal information of CV, etc. for those who are not recruited will be disposed of by the Company at its responsibility.  
+2 | Personal information of Company employees considered necessary for operations at the Company (CV, etc.) | Disclosed | To be used to process the general affairs and accounting requirements of the individual. When the information is obtained, the purpose of its use will be clearly indicated before it is obtained, and it will be used only to the extent of this purpose.  
+The personal information of retired employees will either be returned to the individual or disposed of by the Company at its responsibility.   
+3 | Advertiser information (Affiliate) | Disclosed | To be used for the following services for the advertisers:  
+1) Sending information materials by e-mail  
+2) Telephone communication concerning requests for sales visits, etc.  
+3) Sales visits *around the time of prior review, depending on the circumstances  
+4) Responses to inquiries (e-mail, telephone)  
+5) Prior review  
+6) Reporting e-mail containing the results of prior review  
+7) Sending information materials through the post   
+4 | Affiliates information (Affiliate) | Disclosed | To be used for the following services for the partners:  
+1) Review of Affiliates  
+2) Reporting and communicating review results, etc.  
+3) Reissuing passwords  
+4) Identifying individuals  
+5) E-mail magazine distribution  
+6) Control screen log-in authentication  
+7) Indicating the site name, site URL, site content, name of person in charge of contract (company name in the case of company registration) and average daily number of accesses to the EC site operator or advertising agency appointed by the EC site operator when an application for affiliation for advertisement carriage is made  
+8) Dispatch of mail, merchandise, etc.  
+9) Disclosure of information for communication between the parties in the case of a breach of rules or contract  
+10) Payment of compensation   
+5 | Advertiser information (Store match) | Disclosed | To be used for the following services for the advertisers:  
+1) Review of site  
+2) Communicating and reporting review results, etc. (notice e-mail)  
+3) Reissuing passwords when lost  
+4) Identifying individuals  
+5) Sending materials by e-mail  
+6) Telephone communication concerning requests for sales visits, etc.  
+7) E-mail magazine distribution  
+8) Various settings to carry advertisements  
+  
+6 | Visitor log book completed as an entrance procedure by visitors to the Company (visitor history) | Disclosed | To be used to ensure the security of the Company (entry and exit control)  
+7 | Personal information of individuals who have made inquiries via the Company's website (inquiry history) | Disclosed | To be used to confirm and respond to the content of the inquiry  
+8 | App developer information (Applis) | Disclosed | To be used for the following services for app developers:  
+1) Sending information materials by e-mail  
+2) Reporting and communicating review results, etc.  
+3) Reissuing passwords  
+4) Identifying individuals  
+5) E-mail magazine distribution  
+6) Control screen log-in authentication  
+7) Indicating the app name, icon, heading, introduction, name of person in charge of contract (company name in the case of company registration), supported OS, market URL, URL for the original landing page, version, category, size, promotional text, tag, price, social count and registration rate to media in response to app information search. If you do not want your real name indicated as the person in charge of contracts, please enter a handle instead in the relevant field.  
+8) Disclosure of information for communication between the parties in the case of a breach of rules or contract  
+  
+9 | Media (Applis) | Disclosed | To be used for the following services for the media:  
+1) Sending information materials by e-mail  
+2) Telephone communication concerning requests for sales visits, etc.  
+3) Sales visits *around the time of prior review, depending on the circumstances  
+4) Responses to inquiries (e-mail, telephone)  
+5) Reissuing passwords  
+6) Identifying individuals  
+7) E-mail magazine distribution  
+8) Control screen log-in authentication  
+9) Indicating the name of the media site, company name and URL to app developers in response to a registered media search  
+10) Sending information materials through the post   
+10 | Eigo Gakushu no Susume (advertisers) | Disclosed | To be used for the following services:  
+1) Responses to inquiries from advertisers (e-mail, phone)  
+2） Reporting and communicating review results, etc.  
+3） Identifying individuals   
+11 | Eigo Gakushu no Susume (end users) | Disclosed | To be used for the following services:  
+1） Responses to inquiries (e-mail, telephone)  
+2） Identifying individuals   
+12 | Value Point Club | Disclosed | To be used for the following services:  
+1) Communicating and reporting member registration and others  
+2) Reissuing passwords  
+3) Identifying individuals  
+4) E-mail magazine distribution  
+5) Site login authentication  
+6) Dispatch of mail and others  
+7) Disclosure of information for communication between the parties in the case of a breach of rules or contract  
+8) Information about new services  
+9) Information about campaigns and questionnaires  
+10) Inquiries about the Company or its services  
+11) Payment of compensation   
+  3. **Matters concerning procedures responding to the requests for the notification or disclosure of the purpose of use of "personal information subject to the disclosure," correction, addition or deletion of content, the suspension of its use, erasure, and the suspension of its provision to third parties (hereinafter, "Disclosure, etc.")**  
 
-These are our current privacy policy guidelines that can be modified at any time by ValueCommerce Co., Ltd. This is not a contract. 
+    * Specifying the personal information held by the person subject to the request for Disclosure, etc.  
+Personal information subject to disclosure will mean personal information held where the Company has the authorization to respond to requests for the disclosure, correction, addition or deletion of content, the suspension of its use, erasure and the suspension of its provision to third parties, in which the Company may respond fully to the request made by the said individual.
+    * Method of requesting Disclosure, etc.  
+Please contact the inquiry section for matters concerning the protection of personal information for requests concerning Disclosure, etc.  
+Please note in advance that we will confirm the identification of the individual.
+  4. **Inquiry section**  
+Personal Information Protection Administrator,  
+General Manager of Legal and Credit Control Department, Value Commerce Co., Ltd.  
+Address: 6th Floor, Nihon Seimei Akasaka Building,   
+1-19, Akasaka 8-chome, Minato-ku, Tokyo 
+
+
+
+Latest revision date: March 4, 2013
