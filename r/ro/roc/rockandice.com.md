@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockandice.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606224341id_/http%3A//www.rockandice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockandice.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207072454id_/http%3A//www.rockandice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
