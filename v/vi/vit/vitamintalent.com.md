@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vitamintalent.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619220531id_/http%3A//vitamintalent.com/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitamintalent.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207065529id_/http%3A//vitamintalent.com/company/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy : Vitamin T
 
 **Please read this Privacy Policy carefully. When you submit your Personal Data to Vitamin T, A division of Aquent (referred to herein as "Aquent"), via and by using the Websites and Vitamin T services, you are giving your consent to the use of your Personal Data in the manner described in this Privacy Policy and to the transfer of Personal Data outside the European Economic Area ("EEA") to a country or territory whose laws may not provide adequate levels of protection to Personal Data.**
 
-Aquent is committed to safeguarding the privacy of its employees, applicants, clients, and users of its website. Aquent adheres to the Safe Harbor Agreement concerning the transfer of Personal Data from the European Union ("EU") to the United States of America. Accordingly, Aquent follows the Safe Harbor Principles published by the U.S. Department of Commerce (the "Principles") with respect to all such data. This Policy outlines our general policy and practices for implementing the Principles.
+Aquent is committed to safeguarding the privacy of its employees, applicants, clients, and users of its website. Aquent adheres to the Safe Harbor Agreement concerning the transfer of Personal Data from the European Union ("EU") to the United States of America. Accordingly, Aquent follows the Safe Harbor Principles published by the U.S. Department of Commerce (the "Principles") with respect to all such data. This Policy outlines our general policy and practices for implementing the Principles. To learn more about the Safe Harbor program, and to view Aquent’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 Aquent collects and uses Personal Data to provide services for its employees, applicants, clients and business partners. This Privacy Policy is designed to set forth how Aquent will handle Personal Data that it collects in the normal course of business. The Aquent Privacy Policy applies to:
 
@@ -84,4 +84,4 @@ For questions regarding our website security, email us at [questions@vitamintale
 
 Questions or concerns regarding this Privacy Policy can be directed to the Site Coordinator by email at [privacy@vitamintalent.com](mailto:privacy@vitamintalent.com "privacy@vitamintalent.com").
 
-Effective Date: 15 March 2013 
+Effective Date: 29 July 2013 
