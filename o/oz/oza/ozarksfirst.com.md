@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ozarksfirst.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502032208id_/http%3A//ozarksfirst.com/about-privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozarksfirst.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207211111id_/http%3A//www.ozarksfirst.com/about-privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - OzarksFirst.com
+
+## Privacy Policy
 
 PRIVACY POLICY  
 Updated June 14, 2011
@@ -106,4 +108,4 @@ We control and operate this Site from the United States. The Site is not intende
 This Privacy Policy is effective as of June __, 2011.  Because Internet technologies are rapidly changing, we reserve the right to make changes to this Privacy Policy at any time, in our sole discretion.  All changes will be promptly posted on this page, with an updated "effective date."  Your continued viewing, browsing, use or access of the Site following our posting of a change notice will constitute your binding acceptance of those changes.
 
 14.  Contact Information  
-If you have any questions or comments about our Privacy Policy please contact PrivacyAdminstrator@nexstar.tv.
+If you have any questions or comments about our Privacy Policy please contact PrivacyAdminstrator@nexstar.tv. 
