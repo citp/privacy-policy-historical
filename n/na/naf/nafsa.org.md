@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531200149id_/http%3A//nafsa.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207132815id_/http%3A//www.nafsa.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | NAFSA
 
@@ -16,7 +16,7 @@ NAFSA does not collect any information from visitors browsing its Web site. Visi
 
 ### From NAFSA Members, Conference Registrants, and Other Visitors
 
-To gain access to members-only resources and personalization features on the NAFSA Web site, members and other visitors are asked to register and provide some limited information. These data are submitted voluntarily. NAFSA asks visitors to provide their name, member number (for members), organization name, business phone, and e-mail. Similar information may be submitted to NAFSA through membership applications, conference or seminar registration, publication orders, and subscriptions. NAFSA only uses this information to enhance its products and distribution of those products to its members.
+To gain access to members-only resources and personalization features on the NAFSA Web site, members and other visitors are asked to register and provide some limited information. These data are submitted voluntarily. NAFSA asks visitors to provide their name, member number (for members), organization name, business phone, and e-mail. Similar information may be submitted to NAFSA through membership applications, conference or seminar registration, publication orders, and subscriptions. NAFSA only uses this information to enhance its products and distribution of those products to its members. 
 
 ## How Does NAFSA Use Data Collected?
 
