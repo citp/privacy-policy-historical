@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelazyofflinemarketer.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416182518id_/http%3A//thelazyofflinemarketer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelazyofflinemarketer.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207124903id_/http%3A//thelazyofflinemarketer.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Offline Marketing | The Lazy Offline Marketer
+# Privacy - Offline Marketing | The Lazy Offline Marketer » Offline Marketing | The Lazy Offline Marketer
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
