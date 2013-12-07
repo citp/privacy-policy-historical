@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streamfree.tv privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531213718id_/http%3A//streamfree.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamfree.tv privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207201624id_/http%3A//streamfree.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 2013 Roku Private Channel Codes
+# Privacy Policy » 2013 Roku | Google TV Channels
 
 ## **Privacy Policy for www.streamfree.tv**
 
@@ -24,15 +24,12 @@ page content based on visitors browser type or other information that the
 visitor sends via their browser.
 
 **DoubleClick DART Cookie**  
-.::  
-Google, as a third party vendor, uses cookies to serve ads on  
-www.streamfree.tv.  
+.::Google, as a third party vendor, uses cookies to serve ads on www.streamfree.tv.  
 .:: Google’s use of the DART cookie enables it to serve  
 ads to users based on their visit to www.streamfree.tv and other sites on the  
 Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting  
-the Google ad and content network privacy policy at the following URL -
-
+the Google ad and content network privacy policy at the following URL -  
 http://www.google.com/privacy_ads.html
 
 Some of our advertising partners  
