@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the square1art.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515131314id_/http%3A//square1art.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the square1art.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207094457id_/http%3A//www.square1art.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Terms of use
+# Easy and profitable unique school art fundraiser for elementary and private schools
 
 At Square 1 Art, we are committed to protecting every User's privacy. We use the information we collect to process orders and to provide a more personalized service. Square 1 Art's privacy policy, set forth below, is designed to use the information we collect about visitors with the utmost care and responsibility.
 
@@ -40,7 +40,7 @@ We use anonymous information, such as that pertaining to web pages you've viewed
 
 Square 1 Art, LLC does not share the personal information we collect with any companies who work with or on behalf of Square 1 Art, LLC.
 
-AEvery now and then, Square 1 Art, LLC will invite customers to take part in surveys, promotions, contests and sweepstakes. The information we collect from these surveys, promotions, contests and sweepstakes may be matched with individual customer accounts and used by Square 1 Art, LLC to improve your overall customer experience, and may be shared with select third parties.
+Every now and then, Square 1 Art, LLC will invite customers to take part in surveys, promotions, contests and sweepstakes. The information we collect from these surveys, promotions, contests and sweepstakes may be matched with individual customer accounts and used by Square 1 Art, LLC to improve your overall customer experience, and may be shared with select third parties.
 
   
 
