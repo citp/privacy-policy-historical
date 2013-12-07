@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepihut.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601230747id_/http%3A//thepihut.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepihut.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207221742id_/http%3A//thepihut.com/pages/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | The Pi Hut | Raspberry Pi Accessories
 
 **SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?**  
 When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. 
@@ -17,19 +17,8 @@ When you provide us with personal information to complete a transaction, verify 
 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
 
-_  
-How do I withdraw my consent?_
-
-If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@thepihut.com or mailing us at: 
-
-The Pi Hut   
-25 Golding Way,  
-Glemsford,  
-Sudbury,  
-Suffolk,  
-London,   
-GB,  
-CO107UT 
+How do I withdraw my consent?   
+If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@thepihut.com or mailing us at:
 
 **SECTION 3 - DISCLOSURE**  
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. 
@@ -38,8 +27,7 @@ We may disclose your personal information if we are required by law to do so or 
 Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.   
 Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall. 
 
-_Payment:_
-
+Payment:   
 If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted. 
 
 All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. 
@@ -61,9 +49,7 @@ As an example, if you are located in Canada and your transaction is processed by
 
 Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service. 
 
-_  
-Links_
-
+Links   
 When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements. 
 
 **SECTION 6 - SECURITY**  
@@ -90,13 +76,3 @@ If our store is acquired or merged with another company, your information may be
 **  
 QUESTIONS AND CONTACT INFORMATION**  
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@thepihut.com or by mail at 
-
-The Pi Hut   
-[Re: Privacy Compliance Officer]  
-25 Golding Way,  
-Glemsford,  
-Sudbury,  
-Suffolk,  
-London,   
-GB,  
-CO107UT
