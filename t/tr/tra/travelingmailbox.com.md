@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the travelingmailbox.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423235156id_/http%3A//privacy-policy.truste.com/verified-policy/www.travelingmailbox.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelingmailbox.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207173011id_/http%3A//privacy-policy.truste.com/verified-policy/www.travelingmailbox.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.travelingmailbox.com
 
 Effective on August 6, 2012 
 
-This privacy statement describes how Traveling Mailbox, LLC collects and uses the personal information you provide on our Web site: [www.travelingmailbox.com ](http://www.travelingmailbox.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Traveling Mailbox, LLC collects and uses the personal information you provide on our Web site: [www.travelingmailbox.com ](https://www.travelingmailbox.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
