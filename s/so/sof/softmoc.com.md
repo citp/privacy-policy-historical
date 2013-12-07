@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softmoc.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609044535id_/http%3A//www.softmoc.com/us/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softmoc.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207031349id_/http%3A//www.softmoc.com/us/privacystatement.asp) for the most accurate reproduction.*
 
-# SoftMoc - Privacy Statement
+# SoftMoc Privacy Statement | SoftMoc.com
 
 SoftMoc Inc. & SoftMoc.com are constantly striving to provide excellent service to you, our customers, while building a long-lasting relationship. To achieve these goals, we occasionally need information about you when you visit our site. 
 
@@ -35,7 +35,7 @@ SoftMoc Inc. & SoftMoc.com values your privacy, and we reinforce this belief thr
 
 ### Statistics about your visit
 
-As you browse the site, SoftMoc.com web servers collect information about your visit, not about you personally. Via web server logs, we monitor statistics such as:
+As you browse the site, SoftMoc.com web servers and select 3rd party analytics providers collect information about your visit, not about you personally. Via web server logs, we monitor statistics such as:
 
   * How many people visit our site
   * Which pages people visit on our site
@@ -46,6 +46,8 @@ As you browse the site, SoftMoc.com web servers collect information about your v
 
 While we gather this information, none of it is associated with you as an individual. We use these statistics to improve our Web site, to monitor its performance, and to make it easier for you and other visitors to use.
 
+Ad networks, including Google, may show you ads on sites on the internet based on your browser cookies and your visit history on our website. These ads are based on your anonymous browsing patterns & interests, not your personally identifiable information. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). 
+
 #### Sharing of the Information this Site Gathers/Tracks
 
-The information you submit is never shared with any third parties unless it is necessary to complete your request.
+Your personal information you submit is never shared with any third parties unless it is necessary to complete your request.
