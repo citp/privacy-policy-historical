@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subdreamer.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530081823id_/http%3A//www.subdreamer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subdreamer.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207171114id_/http%3A//www.subdreamer.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CMS for Everyone - Subdreamer
 
