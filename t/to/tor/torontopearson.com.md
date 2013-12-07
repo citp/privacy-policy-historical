@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torontopearson.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512002246id_/http%3A//torontopearson.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torontopearson.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207235902id_/http%3A//www.torontopearson.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ The GTAA will use personal information collected to perform statistical analysis
 ## Obtaining your Consent
 
 By using the Website(s), you give the GTAA permission to collect, use and disclose (to third parties under contract to the GTAA to provide certain services to the public) personal information about you including information that is collected by cookies. The information you provide helps us to see how the Website(s) is used in order to provide relevant content and make changes to our existing content to better serve you. In cases where you give personal information for a service performed by a third party under contract to the GTAA, the information provided will be received directly by such third party solely for the purpose of providing the particular service to you. Such services include, for example, the Airport Customer Assistance Program (ACAP) for persons requiring mobility assistance.  
-The GTAA has a Privacy Policy concerning the collection, use and disclosure of personal information. View the complete [Privacy Policy](http://www.torontopearson.com/en/Complete_Privacy_Policy/ "Complete Privacy Policy")[](http://www.torontopearson.com/en/Complete_Privacy_Policy/ "Privacy Policy").
+The GTAA has a Privacy Policy concerning the collection, use and disclosure of personal information. View the complete [Privacy Policy](http://torontopearson.com/en/Complete_Privacy_Policy/ "Complete Privacy Policy")[](http://torontopearson.com/en/Complete_Privacy_Policy/ "Privacy Policy").
 
 The GTAA may occasionally amend its Privacy Policy. We suggest that you bookmark this page and periodically check to see if changes have been made.
 
