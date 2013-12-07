@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveysonline.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430114912id_/http%3A//surveysonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveysonline.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207151738id_/http%3A//www.surveysonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frank N. Magid Associates, Inc.
 
