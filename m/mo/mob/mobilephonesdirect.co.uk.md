@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilephonesdirect.co.uk privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602012103id_/http%3A//www.mobilephonesdirect.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilephonesdirect.co.uk privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207101454id_/http%3A//www.mobilephonesdirect.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Phones Direct | Smart Deals On Smartphones
 
