@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the subiz.com privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501094048id_/http%3A//subiz.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the subiz.com privacy policy that was archived on 2013-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207211715id_/http%3A//subiz.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -21,9 +21,9 @@
     <link type="text/css" rel="stylesheet" href="http://subiz.com/public/client/styles/reset.css">
     <link type="text/css" rel="stylesheet" href="http://subiz.com/public/client/styles/subizfontend.css">
     <link type="text/css" rel="stylesheet" href="http://subiz.com/public/client/styles/menubar.css">
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=362997793804163"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://widget.subiz.com/static/js/loader.js?v=20200130"></script><script type="text/javascript" src="http://subiz.com/public/client/js/jquery-1.9.1.min.js"></script>
+    <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/6126.js?438994" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://widget.subiz.com/static/js/loader.js?v=20200130"></script><script type="text/javascript" src="http://subiz.com/public/client/js/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="http://subiz.com/public/client/js/base.js"></script>
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+</head>
 <body>
 
 <header>
@@ -77,11 +77,14 @@
 	<div class="wrapper">
 		<form method="POST" action="https://dashboard.subiz.com/signup.html" id="frm">
 	    	<label>Get started for free, no-risk</label>
-	        <input type="text" name="email" value="" class="text" placeholder="Email address">
-	  		<input type="text" name="displayname" value="" class="text" placeholder="Name">
+	        <input type="text" id="name" name="email" value="" class="text" placeholder="Email address">
+	  		<input type="text" id="email" name="displayname" value="" class="text" placeholder="Name">
 	        <a href="javascript:void(0)" id="btnreg" class="btnreg">Get started</a>
 	        <input type="submit" value="Regis" style="display: none;">
         </form>
+        <div id="agree-term" style="clear: both; padding: 5px 0px; font-size: 13px;text-align: center;color: #FFF; display: none;">
+            By continuing, you agree to Subiz's <a target="_blank" href="http://subiz.com/terms-of-service.html" style="color: #FFF; text-decoration: underline;">Terms of Service</a> and <a target="_blank" href="http://subiz.com/privacy-policy.html" style="color: #FFF; text-decoration: underline;">Privacy Policy</a>.
+        </div>
     </div>
 </section>
 
@@ -97,6 +100,10 @@
 
 <script type="text/javascript">
 $(function(){
+    $('#email, #name').focus(function(){
+        $('#agree-term').fadeIn();
+    });
+
 	$("#frm").keypress(function(e){
 		switch(e.which) {
 			case 13:
@@ -153,10 +160,11 @@ $(function(){
 		        <ul>
 		    		<li class="top">Resources</li>
 		        	<li><a href="http://subiz.com/blog" title="Blog" target="_blank">Blog</a></li>
+		        	<li><a href="http://support.subiz.com/support/solutions" title="Subiz Knowledge base" target="_blank">Knowledge Base</a></li>					
+					
 		        	<li><a href="http://support.subiz.com/support/solutions/folders/119568" target="_blank">Getting Started</a></li>
 		        	<li><a href="http://support.subiz.com/support/solutions/articles/63594-chat-program-tutorials" target="_blank">Instant Messaging</a></li>
-		           	<!--<li><a href="#">Facebook</a></li>
-		            <li><a href="#">Twitter</a></li>-->
+		        	<li><a href="http://support.subiz.com/support/solutions/articles/110171-agent-s-handbook">Agent's Handbook</a></li>
 		        </ul>
 		        <ul>
 		    		<li class="top">Other</li>
@@ -167,7 +175,7 @@ $(function(){
 		        <ul>
 		    		<li class="top">Connect with us </li>
 		        	<!-- <li class="phone"><font class="number">(+84.4) 983-102-634</font></li> -->
-		            <li><b class="i-ticket"></b><a href="http://support.subiz.com/support/tickets/new" target="_blank">Create Ticket</a></li>
+		            <li><b class="i-ticket"></b><a href="http://support.subiz.com/support/home" target="_blank">Support Center</a></li>
 		            <li><b class="i-fb"></b><a href="https://www.facebook.com/subizdotcom" target="_blank" title="Facebook">Facebook</a></li>
 		            <li><b class="i-twitter"></b><a href="https://twitter.com/subizdotcom" target="_blank" title="Twitter">Twitter</a></li>
 		        </ul>
@@ -175,7 +183,9 @@ $(function(){
 		</section>
 		<footer id="footer">
 			<div class="wrapper">
-		    	<span class="copyright"><b class="logofooter imgsubiz"></b><label>@2012 Vietnambiz Corp. All right reserved. <a href="http://subiz.com/terms-of-service.html" title="Terms of Service">Terms of Service</a> &amp; <a href="http://subiz.com/privacy-policy.html" title="Privacy Policy">Privacy Policy</a></label></span>
+		    	<span class="copyright"><b class="logofooter imgsubiz"></b><label>by VietnamBiz, Corp. C6/D6 Cau Giay Urban Area, Hanoi, Vietnam. 
+				
+				</label></span>
 		        <span class="social">
 		        	<!--<a href="https://www.facebook.com/subizdotcom" target="_blank"><img src="http://subiz.com/public/client/trans.gif" class="imgsubiz iconsocial i-face"></a>
 		            <a href="https://twitter.com/subizdotcom" target="_blank"><img src="http://subiz.com/public/client/trans.gif" class="imgsubiz iconsocial i-tweet"></a>
@@ -201,46 +211,14 @@ $(function(){
 		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		   })();
 		</script>
+		
+        <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/6126.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
 
-		<script type="text/javascript">
-		adroll_adv_id = "4BIECRZFVJCF7JQEVTSUN3";
-		adroll_pix_id = "SUFFVW6RKZAQ7LQXLFLOJM";
-		(function () {
-		var oldonload = window.onload;
-		window.onload = function(){
-		   __adroll_loaded=true;
-		   var scr = document.createElement("script");
-		   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-		   scr.setAttribute('async', 'true');
-		   scr.type = "text/javascript";
-		   scr.src = host + "/j/roundtrip.js";
-		   ((document.getElementsByTagName('head') || [null])[0] ||
-		    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-		   if(oldonload){oldonload()}};
-		}());
-		</script>
-
-		<script>
-		  // Additional JS functions here
-		  window.fbAsyncInit = function() {
-		    FB.init({
-		      appId      : '362997793804163', // App ID
-		      channelUrl : '', // Channel File
-		      status     : true, // check login status
-		      cookie     : true, // enable cookies to allow the server to access the session
-		      xfbml      : true  // parse XFBML
-		    });
-		  };
-
-		  // Load the SDK Asynchronously
-		  (function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=362997793804163";
-		  fjs.parentNode.insertBefore(js, fjs);
-		    }(document, 'script', 'facebook-jssdk'));
-		</script>
 
 	
 </body></html>
