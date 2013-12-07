@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecopypasteblog.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502220335id_/http%3A//thecopypasteblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecopypasteblog.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207173105id_/http%3A//thecopypasteblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
