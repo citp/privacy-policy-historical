@@ -1,14 +1,7 @@
-> *The following text is extracted and transformed from the webcitation.org privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423123940id_/http%3A//webcitation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcitation.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207152745id_/http%3A//www.webcitation.org/privacy) for the most accurate reproduction.*
 
 # WebCite Privacy Policy
 
-|  | 
-
-Please support our crowdfunding campaign. If you are interested in keeping this service alive, please give generously - or at least share our campaign on Facebook. Funders supporting us with $250 or more will be acknowledged by name on our redesigned website.
-
-<http://fnd.us/c/aQMp7>  
----|---  
-  
 This is the web site of WebCite® Consortium.
 
 Our postal address is
