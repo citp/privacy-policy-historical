@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricepanda.com.ph privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522112722id_/http%3A//www.pricepanda.com.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricepanda.com.ph privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207055914id_/http%3A//www.pricepanda.com.ph/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | visit PricePanda Philippines
 
 PRICEPANDA.COM.PH ("SITE") IS CREATED AND REGISTERED UNDER THE JADE 1367. GmbH. WE SUGGEST EVERYONE TO READ THE FOLLOWING PRIVACY POLICY. BY ACCESSING THE SITE AND USING THE WEB AND MOBILE SERVICES PROVIDED BY PRICEPANDA.COM.PH ("SERVICE"), YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HERE, INCLUDING ANY FUTURE MODIFICATIONS TO THESE TERMS OF SERVICES AND GUIDELINES. IF YOU DO NOT AGREE TO ANY OF THE AGREEMENTS STATED HERE, PLEASE CEASE USING THE SERVICE IMMEDIATELY. 
 
