@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twitchfilm.net privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625064252id_/http%3A//twitchfilm.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitchfilm.net privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207111427id_/http%3A//twitchfilm.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Twitch
 
-Revised: August 1, 2009 
+Revised: July 13, 2013 
 
 The following Privacy Policy summarizes the various ways that Twitchfilm, LLC ("Twitch," "Service Provider," "we" or "our") treats the information You provide, either directly or indirectly, while accessing any website owned or controlled by Twitch ("Website" or "Websites"). Please read this statement carefully before using or accessing our Websites, since your use of and/or registration on any aspect of our Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use our Website. Also, please be aware that our Privacy Policy does not cover information collected elsewhere, including without limitation sites linked to from our Website, cookies placed on you computer by third party advertisers on our site, or third parties providing services to our Website. This privacy statement covers the use of cookies by Twitch only and does not cover the use of cookies by any advertisers 
 
@@ -43,7 +43,7 @@ As our business changes, we may buy or sell various assets. In the event all or 
 
 II. THIRD PARTY ADVERTISING & COOKIES 
 
-The ads appearing on our Website are delivered to you by a number of affiliates and Third-Parites, including, but not limited to: Indieclick/3Jane, Google/Doubleclick, Tribal Fusion, and Tailsweep. These and other companies set cookies on your computer to gather information about your visit to our site and other sites. These cookies contain among other data the number of times you have viewed an ad, but do not contain your username, date of birth, or any other personal information. 
+The ads appearing on our Website are delivered to you by a number of affiliates and Third-Parites, including, but not limited to: Crave Online. These and other companies set cookies on your computer to gather information about your visit to our site and other sites. These cookies contain among other data the number of times you have viewed an ad, but do not contain your username, date of birth, or any other personal information. 
 
 These cookies and the information they contain are used to serve contextually relevant advertising to you. We have no access to or control over these cookies, once we have given permission for our ad reps to set cookies for advertising. 
 
