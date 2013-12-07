@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the palmettobluff.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621200834id_/http%3A//palmettobluff.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmettobluff.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207220129id_/http%3A//www.palmettobluff.com/privacy.aspx) for the most accurate reproduction.*
 
 # Palmetto Bluff
 
 **Equal Housing Opportunity.**
 
-Crescent Resources, LLC's (hereinafter "Crescent Resources") Privacy Policy ("Policy") sets out what information we collect, how we collect it, and what we do with it. Please contact us at 227 W. Trade Street, Suite 1000, Charlotte, NC 28202, or by phone at (980) 321-6000, or through our web site located at www.crescent-resources.com/contact.asp if you have any questions or would like additional information regarding this Policy. We may update this Policy from time to time, so please check this Policy periodically for changes.
+Crescent Communities, LLC's (hereinafter "Crescent Communities") Privacy Policy ("Policy") sets out what information we collect, how we collect it, and what we do with it. Please contact us at 227 W. Trade Street, Suite 1000, Charlotte, NC 28202, or by phone at (980) 321-6000, or through our web site located at www.crescentcommunities.com/contact.asp if you have any questions or would like additional information regarding this Policy. We may update this Policy from time to time, so please check this Policy periodically for changes.
 
 ##### Your Information
 
@@ -12,7 +12,7 @@ As a company that provides land management, commercial and residential services,
 
 ##### Our Use of Your Information
 
-If we do receive your personal information, we will only use it for the purposes described where it is collected, and we will not sell, license, transmit or disclose this information outside of Crescent Resources unless (1) you expressly authorize us to do so; (2) it is necessary to allow our service providers or agents to provide services for us, (3) in order to provide our services to you (and contacting you when necessary), (4) subject to applicable contractual or legal restrictions, it is disclosed to entities that perform marketing services on our behalf or to other entities with whom we have joint marketing agreements, (5) subject to applicable contractual or legal restrictions, it is necessary in connection with a sale of all or substantially all of the assets of Crescent Resources or the merger of Crescent Resources into another entity or any consolidation, share exchange, combination, reorganization, or like transaction in which Crescent Resources is not the survivor, (6) it is necessary in connection with other business purposes including, without limitation, customer care, service quality, business management and operation, risk assessment, security, fraud and crime prevention/detection, monitoring, research and analysis, marketing, customer purchasing preferences and trends, dispute resolution, credit checking and debt collection, or (7) otherwise as we are required or permitted by law.
+If we do receive your personal information, we will only use it for the purposes described where it is collected, and we will not sell, license, transmit or disclose this information outside of Crescent Communities unless (1) you expressly authorize us to do so; (2) it is necessary to allow our service providers or agents to provide services for us, (3) in order to provide our services to you (and contacting you when necessary), (4) subject to applicable contractual or legal restrictions, it is disclosed to entities that perform marketing services on our behalf or to other entities with whom we have joint marketing agreements, (5) subject to applicable contractual or legal restrictions, it is necessary in connection with a sale of all or substantially all of the assets of Crescent Communities or the merger of Crescent Communities into another entity or any consolidation, share exchange, combination, reorganization, or like transaction in which Crescent Communities is not the survivor, (6) it is necessary in connection with other business purposes including, without limitation, customer care, service quality, business management and operation, risk assessment, security, fraud and crime prevention/detection, monitoring, research and analysis, marketing, customer purchasing preferences and trends, dispute resolution, credit checking and debt collection, or (7) otherwise as we are required or permitted by law.
 
 If you are a California resident, you may ask us to refrain from sharing your personal information (whether collected online or offline) with third parties for their marketing purposes. Please tell us your preference by contacting us as indicated in the "How to Contact Us" section of this Policy.
 
@@ -30,7 +30,7 @@ Subject to applicable contractual or legal restrictions, we may from time to tim
 
 ##### Contacting Us Regarding Your Questions and Comments
 
-We appreciate your questions and comments about Crescent Resources and its services and welcome you to send us your comments or questions through our web site, by phone or mail as described in How to Contact Us section below. We will share your messages with those within our organization who are most capable of addressing the issues contained in your message. We will keep a copy of your message until we have had an opportunity to address your concerns. We may archive your message for a certain period of time or discard it once it is no longer needed. 
+We appreciate your questions and comments about Crescent Communities and its services and welcome you to send us your comments or questions through our web site, by phone or mail as described in How to Contact Us section below. We will share your messages with those within our organization who are most capable of addressing the issues contained in your message. We will keep a copy of your message until we have had an opportunity to address your concerns. We may archive your message for a certain period of time or discard it once it is no longer needed. 
 
 ##### Your Rights
 
@@ -76,8 +76,8 @@ For your convenience, we may provide links to other web sites and web pages that
 
 ##### How to Contact Us
 
-If you have any questions about this Policy or would like to learn more about how we protect privacy, please write to us at Crescent Resources, LLC, 227 W. Trade Street, Suite 1000, Charlotte, NC 28202, or by phone at (980) 321-6000, or through our web site located at <http://www.crescent-resources.com/contact-us/>.
+If you have any questions about this Policy or would like to learn more about how we protect privacy, please write to us at Crescent Communities, LLC, 227 W. Trade Street, Suite 1000, Charlotte, NC 28202, or by phone at (980) 321-6000, or through our web site located at <http://www.crescentcommunities.com/contact-us/>.
 
 Privacy Policy: last updated June 29, 2011.
 
-[Click here to read Crescent Resources' Terms of Use](http://www.crescent-resources.com/privacy-policy/)
+[Click here to read Crescent Communities' Terms of Use](http://www.crescentcommunities.com/privacy-policy/)
