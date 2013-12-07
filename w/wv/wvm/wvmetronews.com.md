@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wvmetronews.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603211512id_/http%3A//wvmetronews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvmetronews.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207050005id_/http%3A//wvmetronews.com/privacy-policy) for the most accurate reproduction.*
 
 # WV MetroNews – Privacy Policy
 
