@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siliconera.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605030138id_/http%3A//www.siliconera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconera.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207082611id_/http%3A//www.siliconera.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Siliconera
+# Privacy Policy - Siliconera
 
 **What information does Siliconera collect?**
 
