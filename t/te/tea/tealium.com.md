@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tealium.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605062314id_/http%3A//www.tealium.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tealium.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208073420id_/http%3A//tealium.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tealium
 
@@ -14,17 +14,11 @@ The Company is continually improving and adding new services and offerings and n
 
 ## Personal Data Collected Through This Web Site
 
-The only personal data the Company currently collects through this web site is the information you give us when filling out an online form or sending us an email. This includes, for example, the information you provide when you send us your comments or requests for information or when subscribing to Company newsletter.
-
-The Company uses the information to respond to your e-mail or provide you with the information you requested. The Company also uses this information to help us improve the content and functionality of our web sites, to better understand the interests of the people and organizations that use our web site, and to improve our programs and services. The Company may use this information to contact you in the future to tell you about programs and services that we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to “opt-out” of receiving future communications from us.
-
-The Company may share your personal data with consultants and other third parties who act for or on behalf of the Company, for further processing or analysis. In addition, there may be some other, limited circumstances in which the Company may share or transfer the personal information in its databases, for example, to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of our databases or this web site, to take precautions against legal liability, or in the event of a corporate merger, reorganization, dissolution or similar event.
+The only personal data the Company currently collects through this web site is the information you give us when filling out an online form or sending us an email. This includes, for example, the information you provide when you send us your comments or requests for information or when subscribing to Company newsletter. The Company uses the information to respond to your e-mail or provide you with the information you requested. The Company also uses this information to help us improve the content and functionality of our web sites, to better understand the interests of the people and organizations that use our web site, and to improve our programs and services. The Company may use this information to contact you in the future to tell you about programs and services that we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to “opt-out” of receiving future communications from us. The Company may share your personal data with consultants and other third parties who act for or on behalf of the Company, for further processing or analysis. In addition, there may be some other, limited circumstances in which the Company may share or transfer the personal information in its databases, for example, to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of our databases or this web site, to take precautions against legal liability, or in the event of a corporate merger, reorganization, dissolution or similar event.
 
 ## Anonymous Data Collected Through This Web Site
 
-In addition to the information you provide when you use our web site, The Company uses technology to collect anonymous information about the use of our web site. For example, we use technology to track how many visitors access our web site, the date and time of their visit, the length of their stay, and which pages they view. We also use technology to determine which web browsers our visitors use.
-
-This technology does not identify you personally. It simply enables us to compile statistics about our visitors and their use of our site. The Company uses this anonymous data and may share it with third-parties for various reasons, for example, to improve the content and functionality of our web site, to better understand the needs and interests of our visitors, to improve our programs and services.
+In addition to the information you provide when you use our web site, The Company uses technology to collect anonymous information about the use of our web site. For example, we use technology to track how many visitors access our web site, the date and time of their visit, the length of their stay, and which pages they view. We also use technology to determine which web browsers our visitors use. This technology does not identify you personally. It simply enables us to compile statistics about our visitors and their use of our site. The Company uses this anonymous data and may share it with third-parties for various reasons, for example, to improve the content and functionality of our web site, to better understand the needs and interests of our visitors, to improve our programs and services.
 
 ## Cookies
 
@@ -48,6 +42,4 @@ This privacy policy forms part of our web site Terms of Use and as such shall be
 
 ## Questions About our Privacy Policy
 
-If you have any questions about this privacy policy or concerns about the way the Company uses personal data, please contact us.
-
-This policy was last updated on November 22, 2011.
+If you have any questions about this privacy policy or concerns about the way the Company uses personal data, please contact us. This policy was last updated on November 22, 2011.
