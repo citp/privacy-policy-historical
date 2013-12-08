@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the turningtechnologies.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518180051id_/http%3A//turningtechnologies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turningtechnologies.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208182557id_/http%3A//turningtechnologies.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
+
+[English](https://web.archive.org/privacy/en) | [Deutsch](https://web.archive.org/privacy/de) | [Français](https://web.archive.org/privacy/fr) | [Español](https://web.archive.org/privacy/es)
 
 Turning Technologies, LLC (“Turning”) has created this privacy statement to demonstrate its commitment to privacy. The following discloses our information gathering and dissemination practices for Turning’s website located at [www.TurningTechnologies.com](https://web.archive.org/) (the “Website”). By accessing and/or using the Website, you consent to the collection, use and disclosure of your information, including your personally identifiable information, by Turning in accordance with the terms of our Privacy Policy in effect at that time. Please also see the Website'sTerms of Use [http://www.turningtechnologies.com/termsofuse/](https://web.archive.org/termsofuse) for other terms and conditions governing your use of the Website. You acknowledge that we have the right, at our sole discretion, to modify any terms or conditions of this Privacy Policy without notice to you. Any modifications to this Privacy Policy will be effective immediately following the posting of such changes on the website. For this reason, we encourage you to review this Privacy Policy on a periodic basis.
 
