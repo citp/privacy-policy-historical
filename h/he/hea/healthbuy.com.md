@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthbuy.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629082840id_/http%3A//www.healthbuy.com/tos.php%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthbuy.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208050936id_/http%3A//www.healthbuy.com/tos.php%23pp) for the most accurate reproduction.*
 
 # Health & Beauty
 
