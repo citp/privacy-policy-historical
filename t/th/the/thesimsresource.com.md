@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615063328id_/http%3A//thesimsresource.com/helpcenter/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208055444id_/http%3A//www.thesimsresource.com/helpcenter/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,6 +41,9 @@ While this privacy policy states standards for maintenance of data, and while ef
 ## 8\. Contact information
 
 If you have any questions about this policy or about this web site, please feel free to contact the site administrator through our [Support System](https://web.archive.org/support/send/section/Other).  
-The Sims Resource is owned and operated by IBIBI HB, Kungsgatan 3, Soderhamn, 826 30, SWEDEN.
+The Sims Resource is owned by IBIBI HB and operated by Generatorhallen AB
 
-Last updated: **26th March 2010**
+Mailing address: Kungsgatan 3, Söderhamn, 826 30, SWEDEN.  
+Contact email: support@thesimsresouce.com.
+
+Last updated: **November 21 2013**
