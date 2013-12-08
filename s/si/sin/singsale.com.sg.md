@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the singsale.com.sg privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412062109id_/http%3A//www.singsale.com.sg/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singsale.com.sg privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208195640id_/http%3A//www.singsale.com.sg/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
 
-# SINGSALE - Privacy Policy
+# Singsale.com.sg - Privacy
 
 SINGSALE.COM.SG, referred to in this Privacy Policy as the “Website”, is an online retailer of consumer goods operated by Ozsale Pty Limited (ABN 11 118 610 987) (“Ozsale”), a company registered in Australia.
 
 In this Privacy Policy, "we" or "us" mean Ozsale and its affiliates and subsidiaries, including Singsale Pte. Ltd., which provides settlement and customer services on behalf of Ozsale in Singapore; and "you" means the user and/or customer of the Website.
 
-Ozsale values our relationship with you and the other users of this Website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Website. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page.
+Ozsale values our relationship with you and the other users of this Website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Website. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page or call +65 6842 2919.
 
 ## Membership Registration
 
