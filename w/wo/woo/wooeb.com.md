@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wooeb.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610205045id_/http%3A//www.wooeb.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wooeb.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208225517id_/http%3A//www.wooeb.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Advertising Marketing News Networking
 
