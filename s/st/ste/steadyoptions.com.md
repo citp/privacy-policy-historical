@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steadyoptions.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601001933id_/http%3A//steadyoptions.com/forum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steadyoptions.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208222455id_/http%3A//steadyoptions.com/forum/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Steady Options
 
