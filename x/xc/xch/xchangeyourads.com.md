@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xchangeyourads.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617052940id_/http%3A//xchangeyourads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xchangeyourads.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208050837id_/http%3A//xchangeyourads.com/privacy.php) for the most accurate reproduction.*
 
 # Xchange Your Ads
 
