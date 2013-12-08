@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therealsingapore.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619203351id_/http%3A//therealsingapore.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therealsingapore.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208021820id_/http%3A//therealsingapore.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Real Singapore
 
@@ -74,6 +74,6 @@ For the purpose of this Policy, “we” and “our” shall refer to TheRealSin
 
 **6.    Contacting Us**
 
-6.1 If you have any problems or questions regarding this privacy policy, all enquiries may be directed to TheRealSingapore.com Admin Team: [admin@therealsingapore.com](mailto:admin@therealsingapore.com)
+6.1 If you have any problems or questions regarding this privacy policy, all enquiries may be directed to TheRealSingapore.com Admin Team: admin[at]therealsingapore.com
 
 (Last updated on 3 April 2012)
