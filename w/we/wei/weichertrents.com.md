@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weichertrents.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423221252id_/http%3A//www.weichertrents.com/aboutus/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weichertrents.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208161326id_/http%3A//www.weichertrents.com/aboutus/Privacy.html) for the most accurate reproduction.*
 
 # Weichert Rental Network: About Us: Privacy Policy
 
