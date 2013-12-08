@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vmagazine.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630104610id_/http%3A//www.vmagazine.com/site/about/%23%21/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmagazine.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209002027id_/http%3A//vmagazine.com/site/about/%23%21/privacy) for the most accurate reproduction.*
 
 # V MAGAZINE
 
