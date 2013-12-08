@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kerbalspaceport.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607163107id_/http%3A//kerbalspaceport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerbalspaceport.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208202733id_/http%3A//kerbalspaceport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kerbal SpacePort
 
