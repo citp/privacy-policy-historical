@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wprobot.net privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606072012id_/http%3A//wprobot.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wprobot.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208090358id_/http%3A//wprobot.net/privacy.php) for the most accurate reproduction.*
 
-# WP Robot - Premium Wordpress Autoposting Plugin
+# WP Robot Privacy Policy
 
 ## WP Robot Privacy Policy
 
