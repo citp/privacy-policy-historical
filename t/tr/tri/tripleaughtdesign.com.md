@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tripleaughtdesign.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118071750id_/http%3A//www.tripleaughtdesign.com/Support/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripleaughtdesign.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208050413id_/http%3A//store.tripleaughtdesign.com/Support/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  | 
+| 
 
 Triple Aught Design is committed to respecting the privacy rights of all visitors to our website. The following policy describes how Triple Aught Design collections protects and uses information we receive from visitors to our web site.
 
@@ -73,4 +73,4 @@ If we decide to change our privacy policy, we will post changes on this page. Po
 _Version 20110509T204330Z_
 
 |   
----|---|---
+---|---
