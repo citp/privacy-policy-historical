@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609025641id_/http%3A//www.unisa.edu.au/About-UniSA/Governance-and-management-structure/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208145212id_/http%3A//www.unisa.edu.au/About-UniSA/Governance-and-management-structure/Privacy) for the most accurate reproduction.*
 
 # Privacy - University of South Australia - quality university study and education in Australia
 
