@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axxomovies.org privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115002829id_/http%3A//axxomovies.org/%3Fpage_id%3D5406) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axxomovies.org privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208234645id_/http%3A//axxomovies.org/%3Fpage_id%3D5406) for the most accurate reproduction.*
 
-# Privacy Policy | aXXo Movies
+# Privacy Policy - aXXo Movies : aXXo Movies
 
 **Your Privacy**  
 We respect your privacy and we are committed to protect it. We don’t sell, share, and show your personal information without your prior permission or written consent or unless required by law. We never collect any information about you except those specifically provided by you or limited information that the browser made available when you visited our site, for example, the IP address while you are on the site, visiting time, the link clicked, the browser type, and cookies.
