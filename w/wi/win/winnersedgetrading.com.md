@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winnersedgetrading.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610072109id_/http%3A//winnersedgetrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winnersedgetrading.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208235943id_/http%3A//winnersedgetrading.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Winners Edge Trading
+# Privacy Policy - Winners Edge Trading
 
 Privacy Policy  
 Our Commitment To Privacy
@@ -49,3 +49,11 @@ Should you have other questions or concerns about these privacy policies, please
 U.S. Government Required Disclaimer
 
 Trading foreign exchange on margin carries a high level of risk, and may not be suitable for all investors. The high degree of leverage can work against you as well as for you. Before deciding to invest in foreign exchange you should carefully consider your investment objectives, level of experience, and risk appetite. No information or opinion contained on this site should be taken as a solicitation or offer to buy or sell any currency, equity or other financial instruments or services. Past performance is no indication or guarantee of future performance.
+
+Follow our social media:
+
+[](http://www.facebook.com/pages/Winners-Edge-Forex-Trading/65398771153?fref=ts) [](http://www.linkedin.com/company/winners-edge-trading) [](https://twitter.com/WinnersEdgeTrad) [](https://plus.google.com/u/0/b/118404495995925350228/118404495995925350228/posts) [](http://www.winnersedgetrading.com/feed) [](http://www.youtube.com/user/WinnersEdgeTrading)
+
+Winner’s Edge Trading, as seen on:
+
+[](http://winnersedgetrading.com/winners-edge-in-the-news/)
