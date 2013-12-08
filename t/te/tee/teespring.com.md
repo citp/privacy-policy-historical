@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teespring.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525072307id_/http%3A//teespring.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teespring.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209004307id_/http%3A//teespring.com/about/privacy) for the most accurate reproduction.*
 
-# Teespring - Crowdfunded Custom Apparel
+# Privacy Policy | Teespring
 
 This privacy policy describes how Teespring collects and uses the personal information you provide on our website www.teespring.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -63,6 +63,10 @@ We use local shared objects, also known as Flash cookies, to store your preferen
 ### Links to Other Web Sites
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of Teespring. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+### Analytics Data Gathering
+
+We use third party analytics tools, such as Google Analytics to measure traffic and website usage. One feature we use in Google Analytics is non-personally identifiable 3rd-party audience data (such as age, gender, and interests), which we use to improve our service.
 
 ### Data Retention
 
