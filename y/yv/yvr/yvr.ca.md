@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the yvr.ca privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603214033id_/http%3A//yvr.ca/en/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yvr.ca privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208015920id_/http%3A//www.yvr.ca/en/privacy.aspx) for the most accurate reproduction.*
 
 # YVR > Privacy
 
 Vancouver Airport Authority (the "Authority") is committed to protecting the privacy of individuals. 
 
-**How Information is Collected and Used**
+[Click here to download our complete privacy policy.](https://web.archive.org/Libraries/Comms_Documents/Privacy_Policy_External_Collection_2013_06_10_final.sflb.ashx)
+
+ **  
+How Information is Collected and Used**
 
 The Authority collects personal information that is voluntarily provided by you when using certain portions of this website; such as 'contact us', 'ecards' or 'reservations'. This information is collected for the purpose in which it was given; respond to your inquiry, ship your product, or make your reservation. By providing us with your personal information, you consent to the use of your personal information in accordance with this privacy statement. The Authority will not disclose any personal information to any third party, except as required by law and as is necessary to fulfill your request.
 
@@ -24,6 +27,6 @@ The Authority does not represent, warrant or guarantee that personal information
 
 This website contains links to third party sites. The Authority is not responsible for the collection of personal information nor the privacy of such information on third party sites. 
 
-If you have any questions or concerns with respect to this privacy statement, please send an email through [contact us](https://web.archive.org/en/contact.aspx). Or download our complete privacy policy [here](https://web.archive.org/Libraries/Comms_Documents/Privacy.sflb.ashx).
+If you have any questions or concerns with respect to this privacy statement, please send an email through [contact us](https://web.archive.org/en/contact.aspx). Or download our complete privacy policy [here](https://web.archive.org/Libraries/Comms_Documents/Privacy_Policy_External_Collection_2013_06_10_final.sflb.ashx).
 
 The Authority reserves the right to change this privacy statement at any time. Such changes will be posted on this page and in compliance with applicable federal privacy laws. 
