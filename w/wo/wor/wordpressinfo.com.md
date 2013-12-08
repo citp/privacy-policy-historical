@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordpressinfo.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519182706id_/http%3A//wordpressinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordpressinfo.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208194640id_/http%3A//wordpressinfo.com/privacy) for the most accurate reproduction.*
 
-# Privacy | WordPressInfo.com
+# Privacy | WordPressInfo.com | WordPress Announcements News and Information
 
 [Home](http://wordpressinfo.com/) » Privacy
 
