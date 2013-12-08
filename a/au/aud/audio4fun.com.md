@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630053351id_/http%3A//www.audio4fun.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208222210id_/http%3A//www.audio4fun.com/policy/privacy.htm) for the most accurate reproduction.*
 
 # Audio4fun.com privacy policy
 
@@ -16,7 +16,7 @@ When you contact us, we need only an email address which we use to send the info
 
 We may also use the information we collect to occasionally notify you about new Audio4fun.com's products and special offers we think you'll find valuable. Should you do not want to receive this information, confirm it through an email to us.
 
-When you place an order, you will be transferred to our online retailer - **Regnow.com** \- to process your order. At this page, you will have to provide your name, email address, mailing address, and credit informatioon - however, rest assure that these information are stored and processed at highest secure level.
+When you place an order, you will be transferred to our online retailer - **RegNow/MyCommerce** \- to process your order. At this page, you will have to provide your name, email address, mailing address, and credit informatioon - however, rest assure that these information are stored and processed at highest secure level.
 
 As a software product vendor, we will collect your name, email address, mailing address, and the serial number (the license). We use these information for further support your product accordingly.
 
@@ -26,7 +26,7 @@ We do not sell, trade, rent or lease your personal information to others.
 
 #### Your consent
 
-By using the _**Audio4fun.com store**_ , you consent to the collection and use of this information by Audio4fun.com Ltd. as described in this Policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it. 
+By using the _**Audio4fun.com store**_ , you consent to the collection and use of this information by AVSoft Corp. as described in this Policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it. 
 
 #### Other terms and conditions
 
@@ -34,6 +34,6 @@ In the event that you desire to purchase our products, the software, you must ag
 
 Software piracy is theft. Using and distributing **AV Voice Changer Software** crack, **AV Music Morpher** crack, **AV WebCam Morpher** crack, **AV Video Morpher** crack, illicit password, serial numbers, protection numbers, activation keys, hack, key generators (keygens), warez prevent future software development.
 
-Under no circumstances shall Audio4fun.com Ltd. be liable for any indirect, incidental or consequential damages or any liability in tort, contract, or other legal theory for computer failure or malfunction, business interruption, loss of profits, loss of goodwill, or any other damages or losses arising out of your use or inability to use the software.
+Under no circumstances shall AVSoft Corp. be liable for any indirect, incidental or consequential damages or any liability in tort, contract, or other legal theory for computer failure or malfunction, business interruption, loss of profits, loss of goodwill, or any other damages or losses arising out of your use or inability to use the software.
 
 Should you have any question concerning this Policy, please [contact us via this form](http://www.audio4fun.com/contact.htm).
