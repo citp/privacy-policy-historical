@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parkwhiz.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627204426id_/http%3A//www.parkwhiz.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkwhiz.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208081534id_/http%3A//www.parkwhiz.com/support/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Reserved Parking - ParkWhiz
+# Privacy Policy | Guaranteed Parking - ParkWhiz
 
 ParkWhiz.com is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time so please check back periodically. 
 
