@@ -1,11 +1,17 @@
-> *The following text is extracted and transformed from the logotypemaker.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625013430id_/http%3A//logotypemaker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logotypemaker.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208122936id_/http%3A//logotypemaker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-This policy covers how we use your personal information. We take your privacy seriously and will take all measures to protect your personal information. Any personal information received will only be used to fill your order. We will not sell or redistribute your information to anyone. 
+This policy covers how we use your personal information. We take your privacy seriously and will take all measures to protect your personal information. We truly care about protecting your privacy. When you use Logomaker, you agree to the collection and use of some personal information as described below. Any future changes to our policy will be noted on this page. 
 
-Refund Policy
+If you make a purchase, we collect your email and billing details. For your security, we do not store credit card data. You do not need to provide a credit card number to use the site. The payments are processed by ​2Checkout.com, Inc payment processor. Your billing details will be stored on 2Checkout.com in order to have possibility to issue an invoice. 
 
-We will refund you money if you have bought wrong logo size by mistake. The Refund Payment option is available for 7 days after a payment was sent. 
+We will never sell, rent, share, or give your personal information to anyone without your express permission, unless required by law. You have our word on that. We do send email notifications or receipts when you create, save or purchase a new logo. We may also send a regular newsletter, but you can easily opt out by clicking the opt-out link at the bottom of the email. 
+
+Logomaker links to several other websites and products. Any data you provide to other sites is not covered by this privacy policy. 
+
+If you have questions about this policy, please contact us at logotypemaker.com@gmail.com.
+
+Effective: October 17, 2013 
