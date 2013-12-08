@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitemagazine.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425064132id_/http%3A//www.websitemagazine.com/content/blogs/about/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitemagazine.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208071237id_/http%3A//www.websitemagazine.com/content/blogs/about/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - About - Website Magazine
 
@@ -56,4 +56,12 @@ You have the option of disabling your computer’s ability to accept or transmit
 
 We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes to our web site and post a notice on the home page that a new privacy policy has been implemented. We will also take reasonable steps to contact you personally to let you know of the new changes. Should the company be bought or sold to someone else, we will take reasonable steps to notify you personally. You will then be given the option to keep your account open or to terminate.
 
-**Website Magazine Privacy Policy was last updated August 26, 2010.**
+### OPT OUT OF COMMUNICATIONS
+
+To unsubscribe from our newsletter [click here](http://www.websitemagazine.com/scripts/sub/email_newsletter.aspx) and enter your email, then uncheck all the options you wish to discontinue. For our email newsletter contact info@websitemagazine.com or call 773.628.2779 to unsubscribe.
+
+To modify renewal contact preferences [click here](http://www.websitemagazine.com/scripts/sub/renewal_contact_preferences.aspx)
+
+To cancel your subscription, please [click here](http://www.websitemagazine.com/scripts/sub/cancel.aspx).
+
+**Website Magazine Privacy Policy was last updated July 5, 2013.**
