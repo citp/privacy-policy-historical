@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactanycelebrity.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624133201id_/http%3A//contactanycelebrity.com/cac/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactanycelebrity.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208070459id_/http%3A//contactanycelebrity.com/cac/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Contact Any Celebrity :: Contact Any Celebrity – Verified Celebrity Addresses, Agents, Managers, Publicists, Production Companies & Charitable Causes For Over 67,300+ Celebrities & Public Figures Worldwide!
 
