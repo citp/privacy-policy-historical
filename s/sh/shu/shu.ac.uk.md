@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shu.ac.uk privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423212751id_/http%3A//www.shu.ac.uk/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shu.ac.uk privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208093322id_/http%3A//www.shu.ac.uk/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | Sheffield Hallam University
 
@@ -62,7 +62,7 @@ Please see our [How we use cookies page](http://www.shu.ac.uk/about/cookies.html
 
 ## 4\. Data Protection Act 
 
-Information will be used in accordance with the Data Protection Act 1998 and other applicable legislation. The University is registered as a Data Controller with the Information Commissioner. [Our register entry can be viewed here](http://www.esd.informationcommissioner.gov.uk/esd/DoSearch.asp?reg=3382927).
+Information will be used in accordance with the Data Protection Act 1998 and other applicable legislation. The University is registered as a Data Controller with the Information Commissioner. [Our register entry can be viewed here](http://www.ico.org.uk/what_we_cover/register_of_data_controllers).
 
 The University's Data Protection Policy Statement is also [available and can be viewed here.](http://students.shu.ac.uk/rightsrules/othercodesandpolicies/it/dataprotection.html) You can also see how we use [students' personal data](https://students.shu.ac.uk/regulations/access_to_information/1.html).
 
