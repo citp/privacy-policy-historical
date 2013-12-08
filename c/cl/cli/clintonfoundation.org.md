@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clintonfoundation.org privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523005158id_/http%3A//www.clintonfoundation.org/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clintonfoundation.org privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208071137id_/http%3A//www.clintonfoundation.org/privacy-policy) for the most accurate reproduction.*
 
-# Clinton Foundation — Privacy Policy
+# Privacy Policy | Clinton Foundation
 
 #### Effective: 07/09/09
 
-The William J. Clinton Foundation Privacy Policy (“Policy”) was created to help you understand how the Foundation uses information that is automatically collected from your computer and information you submit to this website. The Foundation is committed to protecting your online privacy. By using this Site, as defined by our Terms of Use, you agree to be legally bound by this Policy, as it may be amended from time to time. If you do not agree to this Policy or cannot form a legally binding contract, you are not permitted to use this Site.
+The Clinton Foundation Privacy Policy (“Policy”) was created to help you understand how the Foundation uses information that is automatically collected from your computer and information you submit to this website. The Foundation is committed to protecting your online privacy. By using this Site, as defined by our Terms of Use, you agree to be legally bound by this Policy, as it may be amended from time to time. If you do not agree to this Policy or cannot form a legally binding contract, you are not permitted to use this Site.
 
 Generally, if we collect information from you, we use it only for the purposes for which it was collected and the other limited purposes set forth below.
 
@@ -24,7 +24,6 @@ The Foundation automatically collects some non-personal information from our Sit
   * Your zip code
   * Your age
   * Other general demographic information
-
 
 
 
@@ -55,7 +54,7 @@ We will not sell or disclose any of your personal information to a third party, 
 
 
 
-Please note that the Foundation is obligated to disclose all donors, which it does so by listing donors by range of donation amount on our website. View the contributors list [here](http://www.clintonfoundation.org/info/contributor-information.html).
+Please note that the Foundation is obligated to disclose all donors, which it does by listing donors by range of donation amount on our website. View the contributors list [here](https://www.clintonfoundation.org/contributors).
 
 ##### Corrections/Updates
 
