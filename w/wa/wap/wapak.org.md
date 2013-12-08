@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapak.org privacy policy that was archived on 2012-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120306204928id_/http%3A//www.wapak.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapak.org privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208105917id_/http%3A//www.wapak.org/privacy) for the most accurate reproduction.*
 
 # Wapakoneta City Schools
 
@@ -44,4 +44,4 @@ Wapakoneta City Schools will occasionally update this Statement of Privacy to re
 
 Contact Information
 
-Wapakoneta City Schools welcomes your comments regarding this Statement of Privacy. If you believe that Wapakoneta City Schools has not adhered to this Statement, please contact Wapakoneta City Schools at [schust@wapak.org](mailto:schust@wapak.org). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Wapakoneta City Schools welcomes your comments regarding this Statement of Privacy. If you believe that Wapakoneta City Schools has not adhered to this Statement, please contact Wapakoneta City Schools at [schust@wapak.org](mailto:schust@wapak.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
