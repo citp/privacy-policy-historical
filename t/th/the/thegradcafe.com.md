@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegradcafe.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123220227id_/http%3A//thegradcafe.com/TermsofService.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegradcafe.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208062426id_/http%3A//www.thegradcafe.com/TermsofService.html) for the most accurate reproduction.*
 
 # Terms of Service
 
