@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhd-hdhieu.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602024226id_/http%3A//www.mhd-hdhieu.com/2009/03/privacy-policy-for-httpwww.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhd-hdhieu.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208033316id_/http%3A//www.mhd-hdhieu.com/2009/03/privacy-policy-for-httpwww.html) for the most accurate reproduction.*
 
 # Privacy Policy for mhd-hdhieu | Free HD Movies From Megaupload, Rapidshare and other Hosts
 
