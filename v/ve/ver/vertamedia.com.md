@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vertamedia.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614172810id_/http%3A//vertamedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertamedia.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208060253id_/http%3A//vertamedia.com/privacy-policy.html) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
 VertaMedia LLC. understands how important it is to keep your personal information confidential, especially online. Our commitment to protecting your privacy is outlined in the policies below. Because our privacy policy may be updated periodically, we encourage you to review these pages on a regular basis. The present privacy statement deals with affirming the Company's complete dedication to privacy matters. Below you will find the fundamentals of the Company's policy as for privacy of the data collecting and distribution as practiced at the following website: <http://vertamedia.com/>  
 
