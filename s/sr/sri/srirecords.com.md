@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srirecords.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614012521id_/http%3A//srirecords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srirecords.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208102940id_/http%3A//srirecords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SRI Jazz, SRI Records & Flamingo Jazz
 
