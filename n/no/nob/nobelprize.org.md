@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424061619id_/http%3A//www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208050210id_/http%3A//www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ Personal information collected on Nobelprize.org sites and services may be store
 
 ##  Newsletters 
 
-If you have subscribed to News from Nobelprize.org, we will send you newsletters. You can stop the delivery of newsletters from Nobelprize.org by following the specific instructions in the e-mail you receive. 
+If you have subscribed to Nobelprize.org Monthly, we will send you newsletters. You can stop the delivery of newsletters from Nobelprize.org by following the specific instructions in the e-mail you receive. 
 
 Nobelprize.org maintains a strict privacy policy for the information we collect in order to be able to distribute our newsletters. Your e-mail address will not be used for any other purposes than the newsletter service and will not be sold or given to any third party, or traded in any way.
 
@@ -132,5 +132,21 @@ Nobel Media AB
 Box 5232  
 SE-102 45 Stockholm, Sweden 
 
-TO CITE THIS PAGE:  
-MLA style: "Privacy Policy". Nobelprize.org. 24 Apr 2013 http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html
+To cite this page  
+MLA style: "Privacy Policy". _Nobelprize.org._ Nobel Media AB 2013. Web. 7 Dec 2013. <http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html>
+
+* * *
+
+## Recommended:
+
+[](https://web.archive.org/alfred_nobel/will/)
+
+On 27 November 1895 Alfred Nobel signed his last will in Paris.
+
+[](https://web.archive.org/educational/medicine/bloodtypinggame/)
+
+Try to save some patients and learn about human blood types!
+
+[](https://web.archive.org/mediaplayer/index.php?id=1781)
+
+Discover the 2012 awarded research on stem cells and cell signalling.
