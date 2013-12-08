@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starfishfx.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420053703id_/http%3A//starfishfx.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfishfx.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209002240id_/http%3A//starfishfx.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Starfishfx
 
