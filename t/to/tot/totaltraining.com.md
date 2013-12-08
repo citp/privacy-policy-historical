@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618025442id_/http%3A//www.totaltraining.com/corp/legal_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208131518id_/http%3A//www.totaltraining.com/corp/legal_privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Total Training
 
-**TOTAL TRAINING, INC.**  
+**Total Training.**  
 **ONLINE PRIVACY POLICY**  
 **________________**
 
-This Privacy Policy discloses the privacy practices for the Total Training, Inc. site and various related services (together referred to as the "site"). Total Training, Inc., the provider of the site (referred to as "us " or "we"), is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this site. 
+This Privacy Policy discloses the privacy practices for the Total Training. site and various related services (together referred to as the "site"). Total Training., the provider of the site (referred to as "us " or "we"), is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this site. 
 
 YOU ACKNOWLEDGE THAT THIS PRIVACY POLICY IS PART OF OUR SITE TERMS OF USE, AND BY ACCESSING OR USING OUR SITE, YOU AGREE TO BE BOUND BY ALL OF ITS TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO THESE TERMS, PLEASE DO NOT ACCESS OR USE THIS SITE. 
 
@@ -14,7 +14,7 @@ We reserve the right to change this Privacy Policy at any time. Such changes, mo
 
 **1.** Types of Information Collected. In order to better provide you with our numerous services, we collect two types of information about our users: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site. 
 
-**1.1** Personally Identifiable Information: This refers to information that lets us know the specifics of who you are. When you engage in certain activities on this site, such as registering for a membership, ordering a product or service, submitting content and/or posting content in discussion forums or other public areas, entering a contest or sweepstakes, filling out a survey, or sending us feedback, we may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to elect to engage in these activities, however, we may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), email address, employer, job title and department, telephone and facsimile numbers, and other personal identifying information. When ordering products or services on the site, you may be asked to provide a credit card number. Depending upon the activity, some of the information we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. 
+**1.1** Personally Identifiable Information: This refers to information that lets us know the specifics of who you are. When you engage in certain activities on this site, such as registering for a membership, ordering a product or service, submiTTng content and/or posting content in discussion forums or other public areas, entering a contest or sweepstakes, filling out a survey, or sending us feedback, we may ask you to provide certain information about yourself by filling out and submiTTng an online form. It is completely optional for you to elect to engage in these activities, however, we may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), email address, employer, job title and department, telephone and facsimile numbers, and other personal identifying information. When ordering products or services on the site, you may be asked to provide a credit card number. Depending upon the activity, some of the information we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. 
 
 **1.2** Non-Personally Identifiable Information: This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you visit on our site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. This information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks like the Web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet. 
 
@@ -40,9 +40,9 @@ We reserve the right to change this Privacy Policy at any time. Such changes, mo
 
 **4.1** We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this site. You may also access and correct your personal information and privacy preferences by emailing us at customerservice@totaltraining.com or writing us at: 
 
-Total Training, Inc.  
-1930 Palomar Point Way, Suite 106  
-Carlsbad, CA 92008 
+Total Training.  
+1636 Ord Way  
+Oceanside, CA 92056 
 
 Please include your name, address, and/or email address when you contact us. 
 
@@ -50,15 +50,15 @@ Please include your name, address, and/or email address when you contact us.
 
 **5.** User Choices on Collection and Use of Information. 
 
-**5.1** We may, from time to time, send you email regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only Totaling Training, Inc. (or agents working on behalf of Total Training, Inc. and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily edit your account information to no longer receive such offers and mailings. 
+**5.1** We may, from time to time, send you email regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only Totaling Training, Inc. (or agents working on behalf of Total Training. and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily edit your account information to no longer receive such offers and mailings. 
 
 **5.2** You also have choices with respect to cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our site may not work properly in your case. 
 
 **6.** Security of Information. 
 
-**6.1** At our site you can be assured that your Personally Identifiable Information is secure and consistent with current industry standards. The importance of security for all Personally Identifiable Information associated with our user is of utmost concern to us. Your Personally Identifiable Information is protected in several ways. Access by you to your Personally Identifiable Information is available through a password and unique customer ID selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected Total Training, Inc. personnel and contractors have access to via password. We encrypt your Personally Identifiable Information and thereby prevent unauthorized parties from viewing such information when it is transmitted to us. 
+**6.1** At our site you can be assured that your Personally Identifiable Information is secure and consistent with current industry standards. The importance of security for all Personally Identifiable Information associated with our user is of utmost concern to us. Your Personally Identifiable Information is protected in several ways. Access by you to your Personally Identifiable Information is available through a password and unique customer ID selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected Total Training. personnel and contractors have access to via password. We encrypt your Personally Identifiable Information and thereby prevent unauthorized parties from viewing such information when it is transmitted to us. 
 
-**6.2** Personal information that you provide that is not Personally Identifiable Information also resides on a secure server and is only accessible via password. Since this information is not accessible from outside Total Training, Inc.. you will not be asked to select a password in order to view or modify such information. 
+**6.2** Personal information that you provide that is not Personally Identifiable Information also resides on a secure server and is only accessible via password. Since this information is not accessible from outside Total Training.. you will not be asked to select a password in order to view or modify such information. 
 
 **6.3** In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order. 
 
@@ -80,10 +80,10 @@ Please include your name, address, and/or email address when you contact us.
 
 **9.3** If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to: 
 
-Total Training, Inc.  
+Total Training.  
 ATTN: Privacy Compliance Officer  
-1930 Palomar Point Way, Suite 106  
-Carlsbad, CA 92008 
+1636 Ord Way  
+Oceanside, CA 92056 
 
 You may also contact us by email at customerservice@totaltraining.com.
 
@@ -100,7 +100,6 @@ These methods are not all-inclusive and Total Training may at some time use othe
 
 Individuals wishing to be removed from the opt-in database may do so in the following ways:
 
-  * Unsubscribe online [here](http://echo.bluehornet.com/clients/totaltraining/change.htm).
   * Call Total Training at 1-800-546-9620 (outside of US dial 1-760-517-9001), Monday through Friday, 8:00am-5:00pm Pacific Time.
 
 
@@ -127,6 +126,6 @@ Questions regarding our Privacy Policy may be addressed to Total Training in the
 
 
 Total Training  
-1930 Palomar Point Way, Suite 106  
-Carlsbad, CA 92008  
+1636 Ord Way  
+Oceanside, CA 92056  
 Attention: Online Marketing 
