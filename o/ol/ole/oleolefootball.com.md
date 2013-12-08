@@ -1,33 +1,27 @@
-> *The following text is extracted and transformed from the oleolefootball.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607115202id_/http%3A//oleolefootball.watchlive.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oleolefootball.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208231017id_/http%3A//www.free-football.tv/privacy-policy.php) for the most accurate reproduction.*
 
-# Our Policy for Football Match Listing
+# Free-Football.tv Privacy Policy
 
-This privacy policy ("Policy") describes the information we may collect, how we may collect and use it, with whom we may share it, and certain other privacy issues, including the precautions we take to protect your privacy.
+* * *
 
-**TYPES OF INFORMATION THAT MAY BE COLLECTED**
+The owners of free-football.tv and Live Sport Network adhere to the following privacy policy.
 
-The following are the types of information we may collect: 
+For each visitor to our Web page, our server automatically recognizes only the consumer's ip address and referral url. We receive only the email address and name of a customer when they subscribe to our service. The information we collect is used for internal review and is then discarded. All data is not shared with other organizations for commercial purposes. Your username (email address) and password is stored in a secure database in order that you can login to your member’s area as and when you please.
 
-**Information You Provide Us**
+We do not log any data or have access to any payment processor you use to signup to the site. 
 
-Personal information you provide us, such as a name, email address, telephone number, physical address, birth date, gender, zip code or other information may be collected via the Site.Its collected when normally you use our contact form to contact us.
+With respect to cookies: We use cookies to record session information, such as recording past activity at a site in order to provide better service when visitors return to our site. 
 
-**Site Usage Information**
+In general we do not send any emails to our customer base. On a rare occasion when there is a significant update to the site or there is a problem with a user account we will use email as the preferred form of contact. 
 
-We may receive and store certain types of information whenever you visit the Site. For example, we may collect click-stream data and your IP address. 
+Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders they have placed online. 
 
-**Email Communications**
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. Any advertisement on our site is supplied by third parties and we are in no way affiliated with their marketing methods or products.
 
-When you open emails from the Site, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. Additionally, we keep a record of what types of emails you have opted to and not to receive. 
+Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. 
 
-**HOW INFORMATION MAY BE COLLECTED**
+We use secure payment processors to collect payment. By making payment we do not gain access to any of your financial details. 
 
-We may collect information from you in different areas on the Site, including but not limited to those described below: 
+If a subscription is misused in any way we reserve the right to remove you from our database. 
 
-**IP Addresses and Click-stream Data**
-
-We may collect IP addresses and/or click-stream data for purposes of system administration and to report aggregate information to our advertisers and sponsors. An IP address is a number automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from the Site, our computers log your IP address. Click-stream data is information collected by our computers when you request Web pages from the Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. This data helps us understand how visitors arrive at the Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
-
-**On A Final Note**
-
-All Data that is shown on the website is collected manually by few dedicated members spread all over the world. Data is collected using newspapers news channels and many times referred by users online over different places over the internet. If any body wish to volunteer and help us gather better and more information worldwide is welcomed to this elite group and as we mentioned data is collected over different part of the world and by multiple people and entered manually so we do not hold any responsibility being entered incorrect the same thing implies with the timings of the match it may or may not be altered by the authorities and we shall not hold any responsibility for that too. This is a service of the people by the people and for the people and if any one has any queries about the privacy policy kindly contact us using the contact form. 
+If you feel that this site is not following its stated information policy, you may contact us using our online form.
