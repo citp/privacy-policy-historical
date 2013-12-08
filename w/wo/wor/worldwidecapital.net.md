@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidecapital.net privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017075819id_/http%3A//www.worldwidecapital.net/help/help_a23.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidecapital.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208104625id_/http%3A//worldwidecapital.net/help/help_a23.asp) for the most accurate reproduction.*
 
 # CallingCards.com - Home of Online Calling Cards and Phone Cards
 
