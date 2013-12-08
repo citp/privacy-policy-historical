@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfsource.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625203045id_/http%3A//tfsource.com/stat/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfsource.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208023712id_/http%3A//tfsource.com/stat/privacy-policy) for the most accurate reproduction.*
 
 # TFsource Privacy Policy
 
