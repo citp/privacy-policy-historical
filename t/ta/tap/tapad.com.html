@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tapad.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601093223id_/http%3A//www.tapad.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tapad.com privacy policy that was archived on 2013-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209004747id_/http%3A//www.tapad.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="http://www.tapad.com/wp-content/themes/tapad/css/main.css">
 <link rel="stylesheet" href="http://www.tapad.com/wp-content/themes/tapad/css/bootstrap-responsive.min.css">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.tapad.com/wp-content/themes/tapad/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js"></script>
+<script src="http://www.tapad.com/wp-content/themes/tapad/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js"></script>
 <link rel="pingback" href="http://www.tapad.com/xmlrpc.php">
 <!--[if lt IE 9]>
 <script src="http://www.tapad.com/wp-content/themes/tapad/js/html5.js" type="text/javascript"></script>
@@ -24,15 +24,26 @@
 <script type="text/javascript" src="http://www.tapad.com/wp-includes/js/comment-reply.min.js?ver=3.5.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.tapad.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.tapad.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="The First 40" href="http://www.tapad.com/about-tapad/team/">
+<link rel="prev" title="The First 90" href="http://www.tapad.com/about-tapad/team/">
 <link rel="next" title="In Print" href="http://www.tapad.com/in-print/">
 <meta name="generator" content="WordPress 3.5.1">
 <link rel="canonical" href="http://www.tapad.com/privacy/">
-<style type="text/css" id="custom-background-css">
+		<style type="text/css">
+						ol.footnotes{font-size:0.8em; color:#666666;}		</style>
+		<style type="text/css" id="custom-background-css">
 body.custom-background { background-color: #ffffff; }
 </style>
 
-	<script type="text/javascript">
+<script src="http://assets.tapad.com/json2.min.js" type="text/javascript"></script>
+<script src="http://assets.tapad.com/s_code_tapad3.js" type="text/javascript"></script>
+<script src="http://assets.tapad.com/jquery-1.9.1-2.min.js" type="text/javascript"></script>
+<script>
+
+    /* Site Catalyst */
+    s.pageName="Tapad Homepage Test";
+    s.server="Tapestry Test";
+    s.channel="";
+    s.pageType="";
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-30562281-2']);
@@ -45,65 +56,88 @@ body.custom-background { background-color: #ffffff; }
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>
+  var _tapestry = _tapestry || [];
+  _tapestry.push({'initialize': '725'});
 
-   <script src="//assets.tapad.com/tapestry/tapestry-0.4.0.js" type="text/javascript"></script>
-   <script>
-
-var TapestryPartnerId = "3";
-window._tapestry = window._tapestry || [];
-_tapestry.push({"initialize":TapestryPartnerId});
-_tapestry.push({"configure":{"host":"tapestry.tapad.com","port":"80"}});
-
-function readCookie(name) {
-  var nameEQ = name + "=";
-  var ca = document.cookie.split(';');
-  for(var i=0;i < ca.length;i++) {
-      var c = ca[i];
-      while (c.charAt(0)==' ') c = c.substring(1,c.length);
-      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-  }
-  return null;
-}
-
-function storeGa(gaCookie) {
-  var utma = gaCookie.split(".");
-  var clientId = utma[0] + "." + utma[1];
-  window._tapestry.push({
-    'did': clientId,
-    'set_data': {'utma':clientId},
-    'get_data': ['utma'],
-    'list_devices': null,
-    'callback': function(r) {
-        var deviceCount = r.devices.length;
-        var screenCount = 1;
-        if (r.data.utma) { screenCount = r.data.utma.length; } 
-
-        var screenLabel = screenCount == 1 ? "1 screen" : screenCount + " screens";
-        var graphLabel = deviceCount == 1 ? "1 device" : deviceCount + " devices";
-
-        _gaq.push(['_setCustomVar', 1, 'Screen count', screenLabel]); 
-        _gaq.push(['_setCustomVar', 2, 'Graph device count', graphLabel]); 
-        _gaq.push(['_trackEvent']);
-        console.log('This browser is associated with ' + (screenCount - 1) + ' other GA tracked devices. Total clique size is ' + deviceCount,r);
+  (function() {
+    var taj = document.createElement('script'); taj.type = 'text/javascript'; taj.async = true;
+    taj.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'assets.tapad.com/tapestry/tapestry-0.6.0.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(taj, s);
+  })();
+  /**
+   * The Tapestry Analytics code that sends Tapestry data to Google Analytics.
+   */
+  (function () {
+    window['tapestryPushAnalytics'] = function (response) {
+      var analytics = response.analytics;
+      if (analytics) {
+        // You can modify the custom variables and scope here (2 = session-level scope)
+        _gaq.push(['_setCustomVar', 1, 'Visited_Platforms', analytics.vp, 2]);
+        _gaq.push(['_setCustomVar', 2, 'Platforms_Associated', analytics.pa, 2]);
+        _gaq.push(['_setCustomVar', 3, 'Platform_Types', analytics.pt, 2]);
+        _gaq.push(['_setCustomVar', 4, 'First_Visited_Platform', analytics.fvp, 2]);
+        _gaq.push(['_setCustomVar', 5, 'Most_Recent_Visited_Platform', analytics.mrvp, 2]);
+        _gaq.push(['_trackEvent', 'tapestry', 'web']);
+        if (analytics.movp)
+          _gaq.push(['_setCustomVar', 5, 'Most_Often_Visited_Platform', analytics.movp, 2]);
+        // In order to send the custom vars, an event fire must occur afterwards
+        _gaq.push(['_trackEvent', 'tapestry', 'web2']);
       }
-  });
-}
+    }
 
-var gaCookie = readCookie("__utma");
-if (gaCookie) { storeGa(gaCookie); }
+    // If there is no session cookie, we're in a new session.
+    var isNewSession = document.cookie.indexOf('TAJ_ga') === -1;
 
-    </script>
+    // On reach run (page load), bump the current session expiration by 30 minutes.
+    document.cookie = 'TAJ_ga=;expires=' + new Date(new Date().getTime() + 30 * 60 * 1000).toUTCString() + ';';
+
+    _tapestry.push({'configure' : {'register_plugins' : ['analytics']}});
+    _tapestry.push({analytics : {'isNewSession' : isNewSession}, cache_policy : 'never', callback : 'tapestryPushAnalytics'});
+  })();
+
+/* Send Tapestry Analytics to Site Catalyst */
+
+    (function () {
+      window['tapestryPushSCAnalytics'] = function (response) {
+        var analytics = response.analytics;
+        if (analytics) {
+          s.eVar1 = analytics.vp;
+          s.eVar2 = analytics.pa;
+          s.eVar3 = analytics.pt;
+          s.eVar4 = analytics.fvp;
+          if (analytics.movp) s.eVar5 = analytics.movp;
+          if (analytics.mvrp) s.eVar6 = analytics.mrvp;
+        }
+      }
+
+    // If there is no session cookie, we're in a new session.
+    var isNewSession = document.cookie.indexOf('TAJ_ga') === -1;
+
+    // On reach run (page load), bump the current session expiration by 30 minutes.
+    document.cookie = 'TAJ_ga=;expires=' + new Date(new Date().getTime() + 30 * 60 * 1000).toUTCString() + ';';
+
+    _tapestry.push({'configure' : {'register_plugins' : ['analytics']}});
+    _tapestry.push({analytics : {'isNewSession' : isNewSession}, cache_policy : 'never', callback : 'tapestryPushSCAnalytics'});
+    })();
+
+    /* JS from SiteCatalyst */
+    var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://tapadsbx.sbx1.2o7.net/b/ss/tapadstest/1/H.26.1--NS/0"
+                             height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.26.1. -->
+
 
 </head>
 
 <body class="page page-id-305 page-template page-template-sidebar-page-php custom-background two-column right-sidebar">
-	<!--[if lt IE 7]>
-	<p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
-	<![endif]-->
+  <!--[if lt IE 7]>
+  <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+  <![endif]-->
 
-	<!-- Top Nav -->
-	<div class="top-nav">
+  <!-- Top Nav -->
+  <div class="top-nav">
         <div class="container">
             <ul class="global-nav">
                 <li><a href="/contact-us">Contact Us</a></li>
@@ -120,19 +154,19 @@ if (gaCookie) { storeGa(gaCookie); }
     
     <div class="container">
         
-		<!-- Primary Nav -->
+    <!-- Primary Nav -->
         <nav class="primary-nav">
-        	<a href="http://www.tapad.com/" title="Tapad" rel="home"><h1 class="logo">Tapad</h1></a>
+          <a href="http://www.tapad.com/" title="Tapad" rel="home"><h1 class="logo">Tapad</h1></a>
 
-        	<a href="#" class="btn btn-navbar">
-        		<span class="icon-bar"></span>
-        		<span class="icon-bar"></span>
-        		<span class="icon-bar"></span>
-        	</a>
+          <a href="#" class="btn btn-navbar">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
             <div class="menu-primary-nav-container"><ul id="menu-primary-nav" class="menu"><li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="http://www.tapad.com/about-tapad/">Company</a>
 <ul class="sub-menu">
 	<li id="menu-item-230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="http://www.tapad.com/about-tapad/investors/">Investors</a></li>
-	<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://www.tapad.com/about-tapad/team/">The First 40</a></li>
+	<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://www.tapad.com/about-tapad/team/">The First 90</a></li>
 	<li id="menu-item-1067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1067"><a href="http://www.tapad.com/board/">Board</a></li>
 	<li id="menu-item-643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-643"><a href="http://www.tapad.com/contact-us/">Contact Us</a></li>
 </ul>
@@ -173,51 +207,72 @@ if (gaCookie) { storeGa(gaCookie); }
 	</header><!-- .entry-header -->
 
 	<section class="entry-content">
-		<p>Updated: November 2, 2011</p>
-<p>This privacy policy (“Privacy Policy”) describes how Tapad, Inc. (“Tapad”) collects and uses information for its own website and in connection with the services (the “Services”) we provide for its clients. Should you have any questions or concerns regarding our use or collection of information,please send an email to privacy@tapad.com.</p>
+		<p>Updated: October 30, 2013</p>
+<p>This privacy policy (“Privacy Policy”) describes how Tapad, Inc. (“Tapad”) collects and uses information for its own website and in connection with the services (the “Services”) we provide to partners, including clients such as advertisers or publishers. &nbsp;Should you have any questions or concerns regarding our use or collection of information, please send an email to <a href="mailto:privacy@tapad.com">privacy@tapad.com</a>.</p>
+<p>&nbsp;</p>
+<p><strong><strong>What We Do</strong></strong></p>
+<p>Through its proprietary Device Graph™ and device bridging technology, Tapad establishes connections between a user’s devices. &nbsp;The result is a holistic view for marketers across multiple, related devices: smartphones, computers, tablets and connected TVs.</p>
+<p>&nbsp;</p>
 <p><strong>Our Principles</strong></p>
 <ol>
-<li>Provide Notice. Make consumers aware of what information we’re collecting and why.</li>
-<li>Provide a Clear Opt-Out. Have a clear and identifiable way to opt-out of our tracking and targeted advertising.</li>
-<li>Ensure Data Security. Provide reasonable security for data we collect and use.</li>
-<li>Do Not Target Children. Do not deliver targeted ads to children under 13 years old.</li>
+<li><strong>Provide Notice.</strong>&nbsp;&nbsp;We explain what information we’re collecting and why.</li>
+<li><strong>Offer Meaningful Choice. &nbsp;</strong>Consumers have access to tools to easily opt-out of our Device Graph and behavioral advertising by Tapad.</li>
+<li><strong>Protect Data.</strong>&nbsp;&nbsp;We follow reasonable practices to ensure all user data is secured.</li>
+<li><strong>No Children. &nbsp;</strong>Tapad does not create or use audience segments targeted at children under the age of thirteen.</li>
 </ol>
+<p>&nbsp;</p>
 <p><strong>1. Provide Notice</strong></p>
-<p>In order to provide more relevant ads to users and more targeted ads for advertisers, we collect and store non-personally identifiable information. The technologies we use to collect this information include web and mobile cookies as well as pixels. A cookie is a file on your browser that uniquely identifies your browser and computer. A pixel is a line of code which is used by a website or third party to assign online activities to a computer or browser. The use of a pixel allows websites and us to record, for example, that a user has visited a particular web page or clicked on a particular ad. We use these technologies across platforms including websites, mobile applications, email, and TV applications so that we provide the best cross-platform targeting technology possible. We do not use alternative tracking mechanisms such as HTML5 local storage, “zombie cookies,” history sniffing, and Flash cookies for ad targeting.</p>
-<p>The information we collect to target our advertising is not personally identifiable.</p>
-<p><strong>What may be collected by Tapad for ad targeting (the Services):</strong></p>
+<p>In order to establish connections between devices, to provide insights and reporting to partners, and to provide more relevant ads to users, we collect and store select information about devices directly from the device. &nbsp;We may also receive additional information about the device or the individual from partners with an existing relationship with the individual or from other third parties.&nbsp; For example, we may receive inferred demographic data, user-declared demographic data, or obfuscated user login data.</p>
+<p>The technologies we use to collect information include browser cookies, pixels, application software development kits (SDKs), or server-to-server connections with our partners.</p>
+<ul>
+<li>A cookie is information that is stored on your computer that can uniquely identify your browser.</li>
+<li>A pixel is a piece of code which is used by a website or third party to assign online activities to a computer or browser. &nbsp;The use of a pixel allows websites and us to record, for example, that a user has visited a particular web page or clicked on a particular ad.</li>
+<li>We may collect information (as specified in the section below “What may be collected by Tapad”) about select user behavior (e.g., when a user opens an application or interacts with that application) in an application on behalf of that partner.&nbsp; In this case, we may use an application SDK or a server-to-server connection with our partners to collect that information. &nbsp;An application SDK is a library of code that is embedded directly in partner applications. &nbsp;We may also use a server-to-server connection to exchange the same data when an SDK integration is not feasible or practical for the partner. &nbsp;While Tapad uses these technologies to track select activities within an application, including whether or not the user is accessing certain pages or features or is responding to marketing messages, Tapad does not track the emails a user sends, the individuals a user communicates with, or any sensitive financial or health related data.</li>
+<li>We may also collect information (as specified in the section below “What may be collected by Tapad”) when we receive ad requests from our partners. &nbsp;In this case, we may use an application SDK or a server-to-server connection with our partners to collect that information.</li>
+</ul>
+<p>We use these technologies across platforms including websites, mobile applications, email, and TV applications so that we provide the best cross-platform targeting technology possible. &nbsp;Examples of how we deploy these technologies include: (1) when we deliver ads and (2) when we integrate with our partners’ websites and applications to provide cross-device analytics.</p>
+<p>We do not use “zombie cookies” or “history sniffing”. &nbsp;We do not use local storage and Flash cookies for any other purpose other than to maintain a persistent opt-out.</p>
+<p>&nbsp;</p>
+<p><strong>What may be collected by Tapad for Device Graph™ management, analytics, and ad targeting:</strong></p>
 <ul>
 <li>Time stamp</li>
 <li>User agent string that specifies device and browser information</li>
 <li>IP address</li>
-<li>Network Carrier / Internet Service Provider when applicable</li>
-<li>Hashed unique device identifier when applicable. We hash the identifier upon receipt and immediately dispose of the unique device identifier itself</li>
-<li>Publisher associated with request to place an ad for one of our partners</li>
-<li>Publisher on which advertiser has placed Tapad pixels</li>
-<li>Anonymous data that can be extrapolated from the user’s IP address. For example, we may be able to determine a user’s general location and therefore infer a demographic profile</li>
+<li>Unique device identifier, stored in a browser cookie</li>
+<li>Hardware or operating system device identifier.&nbsp; For example, IDFA for iOS and Android ID for Android.</li>
+<li>Web page or application where an ad may be placed</li>
+<li>Web page or application that the individual is using when a Tapad pixel fires</li>
+<li>Anonymous data that can be extrapolated from an IP address. &nbsp;For example, we may be able to determine a user’s general location and therefore infer demographic information.</li>
+<li>Obfuscated user identifier, such as email address, but only to evaluate the probability and nature of connections between devices, never to identify the individual</li>
 </ul>
-<p><strong>What is not collected by Tapad for ad targeting:</strong></p>
+<p>&nbsp;</p>
+<p><strong>What is not collected by Tapad for&nbsp;<strong>Device Graph™</strong>&nbsp;management, analytics, and ad targeting:</strong></p>
 <ul>
 <li>Name</li>
-<li>Email address</li>
+<li>Address</li>
 <li>Phone number</li>
-<li>Clear text unique device identifiers</li>
-<li>MAC address, or</li>
+<li>Password</li>
 <li>Precise GPS location data without an explicit opt-in from the consumer</li>
 </ul>
-<p><strong>How is this collected information used:</strong></p>
+<p>&nbsp;</p>
+<p><strong>Collected information is used to:</strong></p>
 <ul>
-<li>Provide targeted advertising to users based on the information collected by Tapad if user has not opted out</li>
-<li>Provide insights and reporting back to advertisers and publishers</li>
-<li>Share aggregate information with advertisers, publishers, business partners, sponsors, and other third parties</li>
-<li>In addition, such information may be used by Tapad for internal analysis in order to perform and improve the Services and associated technologies, and to operate and improve the Tapad Site.</li>
+<li>Evaluate the probability and nature of connections between devices (a key attribute of our Device Graph)</li>
+<li><span style="color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, 'Nimbus Sans L', sans-serif; font-style: normal;">Infer eligibility of device for interest and demographic-based segments</span></li>
+<li><span style="color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, 'Nimbus Sans L', sans-serif; font-style: normal;">Provide targeted advertising to users based on the information collected by Tapad unless the user has opted out</span></li>
+<li><span style="color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, 'Nimbus Sans L', sans-serif; font-style: normal;">Provide insights, ad delivery and reporting back to advertisers, publishers, and partners, including statistical reporting in connection with the activity on a website, optimization of location of ad placement, ad performance, reach and frequency metrics, billing, and logging ads served on a particular day to a particular website.</span></li>
+<li><span style="color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, 'Nimbus Sans L', sans-serif; font-style: normal;">Provide Device Graph information to partners that allow them to target advertising, personalize content, analyze behaviors, and engage in other similar services.</span></li>
+<li><span style="color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, 'Nimbus Sans L', sans-serif; font-style: normal;">Share aggregate information with third parties</span></li>
+<li>In addition, such information may be used by Tapad for internal analysis in order to perform and improve the Services and associated technologies, and to operate and improve the Tapad Site (www.tapad.com).</li>
 </ul>
-<p><strong>Personal information you explicitly provide to the Tapad websites:</strong></p>
-<p>Some of Tapad’s services require user registration or sign-up where we will need Personally Identifiable Information (PII) in order to provide these services. This might include name, postal address, email address, and phone number of our business customers and prospects. We do not sell or rent data collected from our websites, but we may provide it to third-party service providers as necessary to conduct our business operations (like our newsletter) and for the performance of our Services with our customers. We also receive and store non-personally identifiable information from these website visits so that we can better target our own ads for Tapad Services and to analyze our own customer base.</p>
-<p><strong>Personal information we collect on behalf of advertisers:</strong></p>
-<p>We may collect PII on behalf of advertisers directly from end users. In this case, users are choosing to manually enter this PII as part of their interaction with an advertisement or landing page. Because we are collecting this information on behalf of the advertiser, we may periodically transfer this information to them. This PII collected is not used to target an ad to that individual, and we do not use this information for telemarketing, or sell or rent this information to any third parties for their own use.</p>
-<p><strong>2. Provide a Clear Opt-Out</strong></p>
-<p>If you would like for Tapad to stop collecting data about your device for targeted advertising, click below to opt-out.</p>
+<p>We supplement our user segment data and device graph with information from other data partners.&nbsp; The information these data partners provide typically consists of demographic and inferred interest data.&nbsp; These partners may also provide us with segments related to non-sensitive health categories.&nbsp; <strong></strong></p>
+<p>&nbsp;</p>
+<p><strong>2. Offer Meaningful Choice</strong></p>
+<p>Mobile applications and web browsers operate with different identifiers even though they may be on the same device.&nbsp; This is similar to how different web browsers on your computer have independent identifiers.&nbsp; Because mobile apps and web browser have different identifiers, you will need to opt-out of each environment separately.</p>
+<p>If you are interested in opting out on your computer or mobile web browser, please visit the “Web Browser Opt-out” section below.&nbsp; If you are interested in opting out on your mobile app, please visit the “Mobile Application Opt-out” section below.</p>
+<p>&nbsp;</p>
+<p><b><span style="text-decoration: underline;">Web Browser Opt-out</span></b></p>
+<p>If you would like for Tapad to stop collecting device data for our Device Graph and for targeted advertising in your web browser, click below to opt-out.</p>
 <div id="optout_section">
 <div id="optout_javascript_warning">
 <h2>JavaScript Not Detected</h2>
@@ -251,24 +306,41 @@ if (gaCookie) { storeGa(gaCookie); }
 </div>
 <div id="optout_action_done_pane"></div>
 </div>
-<p>We make best effort to provide a persistent opt-out for online display and, independently, for mobile web. This opt-out must be performed on each device and browser that you want to be opted out on. For example, if you want to opt out on your computer browser as well as your mobile device browser, you will need to click on the link above in both your computer browser as well as your mobile device browser. PLEASE NOTE: Do not just delete cookies from your mobile device. The Tapad opt-out works server side by flagging to Tapad’s servers that a unique ID has opted-out. Thus, if you attempt to opt-out by clearing cookies, or deleting your device’s content cache Tapad will not be able to recognize your device as having opted-out, and if you subsequently visit one of Tapad’s website partners, you may then get a new database or cookie.</p>
-<p>The above opt-out will only be enabled if you are accessing it from a Javascript-enabled browser and 3rd party cookies are enabled. These two technologies are required for us to provide a persistent opt-out. Other technologies, such as HTML5 local storage, may also be used in order to make opt-out as persistent as possible.</p>
-<p>Please keep in mind that if you opt-out, you will still receive ads, but they will not be tailored to your interests.<br>
-To opt-out from other companies that Tapad may share information with, or other companies that provide online behavioral advertising services, you can opt-out at the following online advertising industry Websites.<br>
-The Digital Advertising Alliance Website, www.aboutads.info.</p>
-<p><strong>3. Ensure Data Security</strong></p>
-<p>Tapad takes steps to protect the security of the information that we collect. To that end, we have designed and deployed hardware, software, and networking solutions in an effort to reasonably secure and protect access to our systems and data.</p>
-<p>We do not deliver ads based on individual level data that is more than fourteen (14) months old. We retain the information that we have collected only as long as is legitimately necessary for running our advertising campaigns. We keep opt-out information for longer than this period so that we can continue to honor opt-out requests. Aggregate reports generated from this information may also be kept longer.</p>
-<p><strong>4. Do Not Target Children</strong></p>
-<p>Tapad is very sensitive to the issue of children’s privacy. We do not target or create audience segments targeted at children under the age of thirteen.</p>
+<p>We make best effort to provide a persistent opt-out for online display and, independently, for mobile web. &nbsp;<strong>This opt-out must be performed on each device and browser that you want to be opted out on.&nbsp;</strong>&nbsp;For example, if you want to opt-out on your computer browser as well as your mobile device browser, you will need to click on the link above in both your computer browser as well as your mobile device browser.</p>
+<p><strong>PLEASE NOTE: In the web browser environment, do not just delete cookies from your browser. The Tapad web browser opt-out works by replacing your unique cookie ID with a generic opted-out value.&nbsp; This happens both on the cookie in your browser as well as on our server side.&nbsp; </strong>Thus, if you attempt to opt-out by clearing cookies, or deleting your device’s content cache Tapad will not be able to recognize your device as having opted-out, and if you subsequently visit one of Tapad’s website partners, you may then get a new Tapad cookie.</p>
+<p><strong>The above opt-out will only be enabled if you are accessing it from a Javascript-enabled browser and 3rd party cookies are enabled.&nbsp;&nbsp;</strong>These two technologies are required for us to provide a persistent opt-out. &nbsp;Other technologies, such as HTML5 local storage, may also be used in order to make opt-out as persistent as possible.</p>
+<p>&nbsp;</p>
+<p><b><span style="text-decoration: underline;">Mobile Application Opt-out</span></b></p>
+<p>If you would like Tapad to stop collecting device data for our Device Graph and for targeted advertising in your mobile applications, please download the Evidon and TRUSTe applications for your phone operating system and opt-out through the application.&nbsp; Downloading multiple Mobile Application Opt-Out tools for your operating system will give you the most comprehensive opt-out coverage available on the market today.</p>
+<p><a href="https://itunes.apple.com/us/app/ad-control/id598356289?mt=8%29">Evidon iOS</a></p>
+<p><a href="https://itunes.apple.com/us/app/ad-privacy-manager/id551047372?mt=8">TRUSTe iOS</a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.evidon.adcontrol&amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5ldmlkb24uYWRjb250cm9sIl0" target="_blank">Evidon Android&nbsp;</a></p>
+<p>Please keep in mind that if you opt-out, you will still receive ads though they will not be tailored to your interests. To opt-out from other companies that provide online behavioral advertising services, you can opt-out at the following online advertising industry website: The Digital Advertising Alliance Website, <a href="http://www.aboutads.info/" target="_blank">www.aboutads.info</a>.</p>
+<p>&nbsp;</p>
+<p><strong>3. Protect Data</strong></p>
+<p>Tapad takes significant steps to protect the security of the information that we collect. &nbsp;To that end, we have designed and deployed hardware, software, and networking solutions in an effort to reasonably secure and protect access to our systems and data.</p>
+<p>Please be aware, however, that no data security measures can be guaranteed to be completely effective. &nbsp;Consequently, we cannot ensure or warrant the security of any Device Graph data or other information. In particular, we cannot guarantee that Device Graph data or other information will not be disclosed, altered, or accessed in accidental circumstances or by unauthorized or unlawful acts of others.</p>
+<p>We do not deliver ads based on individual level data that is more than fourteen (14) months old. &nbsp;We retain the information that is reasonably linkable to a device and collected for ad targeting and/or ad delivery and reporting only as long as is legitimately necessary for running advertising campaigns and in no event longer than fourteen (14) months. &nbsp;We keep opt-out information for longer than this period so that we can continue to honor opt-out requests. &nbsp;Aggregate reports generated from this information may also be kept longer.</p>
+<p>&nbsp;</p>
+<p><strong>4. No Children</strong></p>
+<p>Tapad does not create or use audience segments targeted at children under the age of thirteen (13).</p>
+<p>&nbsp;</p>
+<p><strong>Personal information you explicitly provide to the Tapad Sites (www.tapad.com):</strong></p>
+<p>In addition to collecting data for the purposes listed above, we may also collect user registration information from Tapad Sites (<a href="http://tapad.com" target="_blank">www.tapad.com</a>).&nbsp; Some of Tapad’s services request voluntary user registration or sign-up that, when given, could be classified as Personally Identifiable Information (PII), such as our email newsletter. &nbsp;This might include our business customers’ or prospects’ names, postal addresses, email addresses, and phone numbers.&nbsp; We do not sell or rent data collected from our websites, but we may provide it to third-party service providers as necessary to conduct our business operations and for the performance of our Services with our customers. &nbsp;We also receive and store non-personally identifiable information from these website visits so that we can better target our own ads for Tapad Services and to analyze our own customer base.</p>
+<p>&nbsp;</p>
+<p><strong>Personal information we collect on behalf of advertisers:</strong></p>
+<p>In addition to collecting data for the purposes listed above, we may also collect user registration information on behalf of our advertisers.&nbsp; Users may choose to manually and voluntarily enter information that could be classified as PII as part of their interaction with an advertisement or landing page, and we may collect this PII on behalf of those advertisers. &nbsp;Because we are collecting this information on behalf of an advertiser, we may transfer this information to them. &nbsp;We do not sell or rent this information to any third parties for their own use.</p>
+<p>&nbsp;</p>
 <p><strong>Legal and Other Disclosures</strong></p>
 <p>We may share personal information when we believe such action is appropriate to comply with the law (e.g., legal process or a statutory authorization); to enforce or apply our customer agreements; to initiate, render, bill, and collect for Services; to protect our rights or property, or to protect users of those services from fraudulent, abusive, or unlawful use of, or subscription to, such services; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of information without delay.</p>
+<p>&nbsp;</p>
 <p><strong>Change of Control</strong></p>
-<p>If we undergo a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of our business, information we have collected may be one of the assets transferred.</p>
+<p>If we undergo a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of our business, information we have collected or otherwise acquired may be one of the assets transferred.</p>
+<p>&nbsp;</p>
 <p><strong>Privacy Policy Changes</strong></p>
 <p>Tapad may modify this Privacy Policy at any time in its sole discretion. Use of information collected by Tapad now is subject to the Privacy Policy in effect at the time such information is used. Changes to the Privacy Policy shall be announced by posting the updated Privacy Policy on the Tapad Site. Changes to this Policy will be reflected in the “Last Updated” date above.</p>
-<p>If you have questions or comments about our Privacy Policy, please contact us at privacy@tapad.com.</p>
-<p>This Privacy Policy was last updated on November 2, 2011.</p>
+<p>If you have questions or comments about our Privacy Policy, please contact us at <a href="mailto:privacy@tapad.com" target="_blank">privacy@tapad.com</a>.</p>
+<p>This Privacy Policy was last updated on October 30, 2013.</p>
 			</section><!-- .entry-content -->
 	<footer class="entry-meta">
 			</footer><!-- .entry-meta -->
@@ -317,7 +389,7 @@ The Digital Advertising Alliance Website, www.aboutads.info.</p>
 	        <div class="menu-primary-nav-container"><ul id="menu-primary-nav-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="http://www.tapad.com/about-tapad/">Company</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="http://www.tapad.com/about-tapad/investors/">Investors</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://www.tapad.com/about-tapad/team/">The First 40</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://www.tapad.com/about-tapad/team/">The First 90</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1067"><a href="http://www.tapad.com/board/">Board</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-643"><a href="http://www.tapad.com/contact-us/">Contact Us</a></li>
 </ul>
@@ -348,6 +420,15 @@ The Digital Advertising Alliance Website, www.aboutads.info.</p>
 </li>
 </ul></div>	    </footer>   <!-- footer.sitemap -->
 	    
+	    <!-- PARTNER FOOTER -->
+	    <footer class="sitemap" style="padding: 1em; text-align: center; margin-top: 0; margin-bottom: 0; border-radius: 0">
+                <a style="display: inline-block" href="http://www.aboutads.info" target="_blank"><img src="http://www.tapad.com/wp-content/uploads/2013/06/daa.jpeg" style="height: 4em; margin-right: 1em"></a>
+                <a style="display: inline-block" href="http://www.evidon.com" target="_blank"><img src="http://www.tapad.com/wp-content/uploads/2013/06/evidon.png" style="background: white; height: 4em; margin-right: 1em"></a>
+                <a style="display: inline-block" href="http://www.mmaglobal.com" target="_blank"><img src="http://www.tapad.com/wp-content/uploads/2013/06/mma.jpeg" style="height: 4em; margin-right: 1em"></a>
+                <a style="display: inline-block" href="http://www.truste.com" target="_blank"><img src="http://www.tapad.com/wp-content/uploads/2013/06/truste.gif" style="height: 4em; margin-right: 1em"></a>
+                <a style="display: inline-block" href="http://www.iab.net" target="_blank"><img src="http://www.tapad.com/wp-content/themes/tapad/images/iab-members-blue.png" style="height: 4em; margin-right: 1em"></a>
+            </footer>
+
 	    <!-- COPYRIGHT FOOTER -->
 	    <footer class="copyright">
 	        <span>© 2013 Tapad, INC.</span>
@@ -355,10 +436,11 @@ The Digital Advertising Alliance Website, www.aboutads.info.</p>
 	        <nav>
 	            <a href="/privacy">Privacy</a> | 
 	            <a href="/privacy#optout_section">Opt Out</a> | 
-	            <a href="/contact-us">Contact Us</a>
+	            <a href="/contact-us">Contact Us</a> | 
+                    <a href="http://nytm.org/made-in-nyc" target="_blank">Made in NYC ♥</a>
 	        </nav>
 
-	        <img class="iab" width="62" height="69" src="http://www.tapad.com/wp-content/themes/tapad/images/iab-members-blue.png" title="IAB Member">
+	        <!--<img class="iab" width="62" height="69" src="http://www.tapad.com/wp-content/themes/tapad/images/iab-members-blue.png" title="IAB Member" />-->
 	    </footer>   <!-- footer.copyright -->
 
 	    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
@@ -375,7 +457,17 @@ The Digital Advertising Alliance Website, www.aboutads.info.</p>
     <!-- TAPAD PIXEL -->
     <img width="1" height="1" src="http://audience.tapad.com/audience/pxl.png?aud_id=tapad.com-1" style="display: none">
 
-
+<!-- MARKET -->
+<script type="text/javascript">
+$.ajax({
+  url: '//munchkin.marketo.net/munchkin.js',
+  dataType: 'script',
+  cache: true,
+  success: function() {
+    Munchkin.init('229-INH-112');
+  }
+});
+</script>
 
 
 </body></html>
