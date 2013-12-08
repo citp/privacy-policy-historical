@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcpenney.net privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502092240id_/http%3A//www.jcpenney.com/dotcom/jsp/customerservice/serviceContent.jsp%3FpageId%3Dpg4003700012%26isFooter%3Dtrue%26title%3Dprivacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpenney.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208114910id_/http%3A//www.jcpenney.com/dotcom/jsp/customerservice/serviceContent.jsp%3FpageId%3Dpg4003700012%26isFooter%3Dtrue%26title%3Dprivacy%2520policy) for the most accurate reproduction.*
 
 # privacy policy - jcpenney
 
@@ -20,7 +20,7 @@ We value the trust you place in jcpenney.  Accordingly, we want you to understa
 
   * updating your jcpenney contact information
 
-  * your jcpenney credit account
+  * your jcpenney credit card account
 
   *   *   *   *   *   *   * international customer privacy
 
@@ -159,23 +159,23 @@ You can update or correct your name, address, telephone number, or email address
 
   
   
-**your jcp credit account**  
+**your jcpenney credit card account**  
   
 ---  
   
   
-If you have an account under one of the jcpenney credit programs from GE Capital Retail Bank (GECRB), a separate privacy policy applies to each program.  The privacy policy describes GECRB’s collection, use, and protection of information about you and your jcpenney credit account. To obtain GECRB’s privacy policy for your jcpenney credit account, you may:
+If you have an account under one of the JCPenney Credit programs from GE Capital Retail Bank (GECRB), a separate privacy policy applies to each program.  The privacy policy describes GECRB’s collection, use, and protection of information about you and your JCPenney Credit account. To obtain GECRB’s privacy policy for your JCPenney Credit account, you may:
 
-  * [_click here_](https://www.onlinecreditcenter2.com/JCPenney/occ-privacy.html?&&_ams_security=True) to view GECRB’s privacy policies in connection with jcpenney credit programs 
-  * write to jcpenney Credit Services/GECRB at P.O. Box 965007, Orlando, FL 32896-5007, or, 
+  * [_click here_](https://www.onlinecreditcenter2.com/JCPenney/occ-privacy.html?&&_ams_security=True) to view GECRB’s privacy policies in connection with JCPenney Credit programs 
+  * write to JCPenney Credit Services/GECRB at P.O. Box 965007, Orlando, FL 32896-5007, or, 
   * call 1.800.542.0800 (Puerto Rico, U.S. Virgin Islands and Guam residents call 1.800.981.8400)
 
 
 
-You can update or correct your name, address, or telephone number for your jcpenney credit account, or check the status of your account by:
+You can update or correct your name, address, or telephone number for your JCPenney Credit account, or check the status of your account by:
 
   * [_click here_](https://www.onlinecreditcenter2.com/JCPenney/JCPCreditCenter.htm?&&_ams_security=True) to access your jcpenney credit account information on-line 
-  * writing to  jcpenney Credit Services/GECRB at P.O. Box 965007, Orlando, FL 32896-5007
+  * writing to  JCPenney Credit Services/GECRB at P.O. Box 965007, Orlando, FL 32896-5007
   * call 1.800.542.0800 (Puerto Rico, US Virgin Islands and Guam residents call 1.800.981.8400)
 
   
@@ -236,22 +236,22 @@ While visiting jcp.com, you may link to other web sites.  Other sites have thei
   
 **international customer privacy**  
   
-jcpenney has contracted with FiftyOne, Inc. (“FiftyOne”) to facilitate the sale and fulfillment of online purchases that our customers choose to ship internationally (an “international order”).
+jcpenney has contracted with Borderfree, Inc. (“Borderfree”) to facilitate the sale and fulfillment of online purchases that our customers choose to ship internationally (an “international order”).
 
 When you place an international order, you will submit personal information (e.g. your name, email address, billing address, and shipping address) and other order-related information to jcpenney through and to servers located in the United States.  If you also choose to create a jcp.com account, any personal information you provide will also be transferred to jcpenney through and to servers located in the United States.  Please note that United States law may not provide a level of data protection equivalent to the laws in your home country.  This privacy policy applies to any personal information you furnish jcpenney in connection with international orders, your jcp.com account or otherwise.
 
-jcp will then share your international order information, including personal information about you, with FiftyOne for the purpose of facilitating ordering and shipping internationally.  FiftyOne  will process personal information about you in accordance with its [privacy policy ](http://www.fiftyone.com/privacy).  FiftyOne has agreed not to sell, transfer, or otherwise use your information other than for processing international orders and shipments.
+jcp will then share your international order information, including personal information about you, with Borderfree for the purpose of facilitating ordering and shipping internationally.  Borderfree  will process personal information about you in accordance with its [privacy policy ](http://www.fiftyone.com/privacy).  Borderfree has agreed not to sell, transfer, or otherwise use your information other than for processing international orders and shipments.
 
-By placing an international order, you acknowledge and agree that jcp will transfer personal information about you to FiftyOne, and acknowledge that your financial transaction and shipment will be processed by FiftyOne.  During the checkout process, you will be presented with FiftyOne’s terms and conditions and privacy policy.  You must agree to them to receive the product(s) you ordered.
+By placing an international order, you acknowledge and agree that jcp will transfer personal information about you to Borderfree, and acknowledge that your financial transaction and shipment will be processed by Borderfree.  During the checkout process, you will be presented with Borderfree’s terms and conditions and privacy policy.  You must agree to them to receive the product(s) you ordered.
 
-Once your order is approved, jcpenney will ship it to FiftyOne.  Simultaneously, FiftyOne will purchase the product(s) you ordered from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authorities and arrange for the product(s) to be delivered to you.  In this process, FiftyOne makes the sale to you as the merchant of record. 
+Once your order is approved, jcpenney will ship it to Borderfree.  Simultaneously, Borderfree will purchase the product(s) you ordered from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authorities and arrange for the product(s) to be delivered to you.  In this process, Borderfree makes the sale to you as the merchant of record. 
 
 Customers shipping internationally who wish to:
 
   * Inquire about or update their personal information,
   * Make a complaint about the collection or use of their personal information, or
   * Comment on or ask questions regarding this privacy policy, 
-  
+
 
 
 should email us at [privacy@jcpenneyeservices.com](mailto:privacy@jcpenneyeservices.com?)  
