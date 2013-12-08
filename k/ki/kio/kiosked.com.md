@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiosked.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609022339id_/http%3A//www.kiosked.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiosked.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208054431id_/http%3A//www.kiosked.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Kiosked
 
@@ -143,7 +143,7 @@ We use the data about our Registered Users that we collect for the following pur
 
 ###### IV. How We Disclose Data
 
-We do not sell, lease, rent or otherwise disclose personal data to third parties unless otherwise stated below.
+We do not sell, lease, rent, share or otherwise disclose personal data, including customer details, with third parties, or store credit card details, unless otherwise stated below.
 
 The personal data collected in the Service may be disclosed in the following manner:
 
