@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetimelineblueprint.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430125542id_/http%3A//thetimelineblueprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimelineblueprint.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208164609id_/http%3A//thetimelineblueprint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Fan Page Timeline Blueprint
 
 **What information do we collect?**
 
@@ -27,13 +27,13 @@ Any of the information we collect from you may be used in one of the following w
 
 • To process transactions
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 • To administer a contest, promotion, survey or other site feature
 
 • To send periodic emails
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -49,7 +49,7 @@ After a transaction, your private information (credit cards, social security num
 
 To Opt-Out, all you need to do is click the “Unsubscribe” link at the bottom of any email you receive from us.
 
-You can also contact our [Support Desk](http://get10000fans.zendesk.com/home) (http://get10000fans.zendesk.com/home) and request to be removed from our mailing list as well.
+You can also contact our Support Desk (http://get10000fans.zendesk.com/home) and request to be removed from our mailing list as well.
 
 **Do we use cookies?**
 
@@ -75,18 +75,18 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](http://get10000fans.com/terms-of-service) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our websites privacy policy.
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 12/20/2012
+This policy was last modified on 05/10/2013
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy, you may contact us by visiting our [Contact Page](http://get10000fans.com/contact-us).
+If there are any questions regarding this privacy policy, you may contact us by visiting our Contact Page.
