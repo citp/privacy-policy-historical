@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electroniccigarettesinc.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606030725id_/http%3A//www.electroniccigarettesinc.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electroniccigarettesinc.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208232110id_/http%3A//www.electroniccigarettesinc.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Electronic Cigarettes Inc. - Buy Electronic Cigarettes Online
 
