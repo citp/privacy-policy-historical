@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the time.ly privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628230044id_/http%3A//time.ly/all-in-one-event-calendar-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time.ly privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208064829id_/http%3A//time.ly/all-in-one-event-calendar-privacy-policy) for the most accurate reproduction.*
 
 # All-in-One Event Calendar Privacy Policy | Timely
 
