@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripaura.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127130426id_/http%3A//tripaura.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripaura.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208135957id_/http%3A//www.tripaura.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ This Online Privacy Statement regarding the privacy of the information you provi
 
  **Awareness**
 
-TripAura Travel International Inc provides this Online Privacy Statement to inform you about our privacy policy and the practices and choices you can make about the way your information is collected and used. This notice may be accessed from any area of  TripAura Travel International Inc websites and our online proprietary booking engines.
+TripAura Travel International Inc provides this Online Privacy Statement to inform you about our privacy policy and the practices and choices you can make about the way your information is collected and used. This notice may be accessed from any area ofÂ  TripAura Travel International Inc websites and our online proprietary booking engines.
 
 What we collect
 
