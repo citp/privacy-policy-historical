@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spikedmath.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527053015id_/http%3A//spikedmath.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spikedmath.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208062112id_/http%3A//spikedmath.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Spiked Math - Privacy Policy
 
@@ -16,7 +16,7 @@ If you require any more information or have any questions about our privacy poli
 At Spiked Math, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information that is received and collected by Spiked Math and how it is used. 
 
 **Log Files**  
-Like many other Web sites, Spiked Math makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, Spiked Math makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**   
 Spiked Math might use cookies for the commenting system. 
