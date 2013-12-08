@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trafficsourcesreviews.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506030625id_/http%3A//trafficsourcesreviews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficsourcesreviews.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208184413id_/http%3A//trafficsourcesreviews.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy « Traffic Sources Reviews
 
 **Site Security**
 
@@ -61,4 +61,4 @@ This cookie is set by Google. It allows a visitor to +1 pages from our website o
 
 This cookie is set by LinkedIn. It allows a visitor to share content from our website on their LinkedIn page. Visit the following link to see the LinkedIn Privacy Policy : <http://www.linkedin.com/static?key=privacy_policy>
 
-By agreeing to the terms of this privacy policy, you consent to the cookies referenced above being dropped onto your machine. If you have any questions/comments about privacy, you should [contact us](http://make-money-tips.org/contact-us/) us either by email, fax or post.
+By agreeing to the terms of this privacy policy, you consent to the cookies referenced above being dropped onto your machine. If you have any questions/comments about privacy, you should [contact us](http://trafficsourcesreviews.com/contact-us/) us either by email, fax or post.
