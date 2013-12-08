@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veryveryfun.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520134607id_/http%3A//veryveryfun.com/content/view/68/33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veryveryfun.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208075139id_/http%3A//veryveryfun.com/content/view/68/33) for the most accurate reproduction.*
 
 # Fun - Privacy Policy
 
