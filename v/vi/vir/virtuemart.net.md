@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtuemart.net privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626230347id_/http%3A//virtuemart.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuemart.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208064551id_/http%3A//virtuemart.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,8 @@ We may use Data to customize and improve your user experience on this site. We w
 
 #### **3\. Cookies.**
 
-Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.
+Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.  
+[More information about the EU cookie law](http://virtuemart.net/component/content/162-uncategorised/444-eu-cookie-law?Itemid=100142)
 
 #### 4\. Children.
 
