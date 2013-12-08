@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipdrop.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115033201id_/http%3A//tipdrop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipdrop.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208225558id_/http%3A//www.tipdrop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy @ TipDrop.com
 
