@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the c2w.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606222222id_/http%3A//blog.c2w.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c2w.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208164519id_/http%3A//blog.c2w.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | c2w.com – News and Updates
+# Privacy Policy | c2w.com - News and Updates
 
 1\. General Principles
 
