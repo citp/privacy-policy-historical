@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veritas.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613101409id_/http%3A//www.symantec.com/about/profile/privacypolicy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veritas.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208061328id_/http%3A//www.symantec.com/about/profile/privacypolicy/index.jsp) for the most accurate reproduction.*
 
 # Privacy | Symantec
 
@@ -8,7 +8,7 @@ _Last Updated: June 10, 2013_
 
 **Symantec respects your concerns about privacy and values its relationship with you.** This Notice describes the types of information we collect via Symantec’s web sites as set out below, how we may use that information and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. We also tell you how you may contact us to update your information, remove your name from our mailing lists or get answers to questions you may have about our privacy practices at Symantec. 
 
-[](http://www.truste.org/ivalidate.php?url=www.symantec.com&sealid=101)Symantec is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent initiative whose mission is to build users’ trust and confidence in the Internet by promoting the principles of disclosure and informed consent. TRUSTe certifies the following sites: www.symantec.com in North America; TRUSTe’s certification does not cover the Symantec Store (shop.symantecstore.com – see Privacy Policy for details). Because our sites want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
+[](http://www.truste.org/ivalidate.php?url=www.symantec.com&sealid=101) Symantec is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent initiative whose mission is to build users’ trust and confidence in the Internet by promoting the principles of disclosure and informed consent. TRUSTe certifies the following sites: www.symantec.com in North America; TRUSTe’s certification does not cover the Symantec Store (shop.symantecstore.com – see Privacy Policy for details). Because our sites want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
 
 ### Privacy Facts Statement
 
