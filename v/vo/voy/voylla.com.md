@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voylla.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608071751id_/http%3A//www.voylla.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voylla.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208115044id_/http%3A//www.voylla.com/policy/privacy) for the most accurate reproduction.*
 
-# Buy traditional, imitation, fashion, jewellery, accessories online in India - Voylla.com
+# Privacy Policy - Online Fashion Imitation Jewellery Shopping - Shop Online for Designer Jewellery and Accessories - Voylla.com
 
 ## Privacy Policy
 
