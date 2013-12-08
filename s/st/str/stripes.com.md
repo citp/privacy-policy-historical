@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stripes.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211545id_/http%3A//www.stripes.com/customer-service/web-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripes.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208031410id_/http%3A//www.stripes.com/customer-service/web-notice) for the most accurate reproduction.*
 
 # Web Notice - Stripes
 
-Published: May 20, 2010
+Published: October 18, 2013
 
   
 This Service (including, but not limited to text, content, photographs, video and audio) is protected by copyright as a collective work or compilation. You must abide by all additional copyright notices or restrictions contained in this Service.
@@ -15,21 +15,21 @@ WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, YOU MAY NOT DISTRIBUTE ANY PAR
 
 *See Rights and Permissions for commercial use.
 
-### **Rights and Permissions**
+###  **Rights and Permissions**
 
 The material on this service may not be reproduced for any commercial purpose with out the express written consent of Stars and Stripes. For permission to reprint S&S material please write or e-mail to:
 
 Stars and Stripes, Central Office  
 Attn: Reprint Permissions  
 529 14th St., NW, Suite 350  
-Washington, DC 20045-1301   
+Washington, DC 20045-1301  
 Phone: (202) 761-0900  
 Fax: (202) 761-0890  
 E-mail:permission@stripes.osd.mil
 
 * Please describe the material (story, photo, etc.) to be used, the purpose of the republication and the manner of use. Please include mailing & e-mail addresses, and a phone number.
 
-### **Stripes.com User Agreement and Privacy Policy**
+###  **Stripes.com User Agreement and Privacy Policy**
 
 Thank you for visiting **stripes.com** and reviewing our privacy policy. This is the website of the Stars and Stripes.
 
@@ -43,7 +43,7 @@ PLEASE READ USER AGREEMENT (amended as of September 1, 2001) BEFORE USING THIS S
 
 1.  Welcome to **stripes.com**. By using this Service, you agree to be bound by all of the terms of this Agreement. Stripes.com, part of Stars and Stripes, reserves the right to charge for Services in the future. In such event, we will notify you, and give you an opportunity to subscribe to this Service. We reserve the right to change the terms of this Agreement or to modify any features of this Service at any time. By using this Service and/or continuing to use this Service after the posting of Notices regarding such changes, you agree to be bound by such changes.
 
-2.  This Service (including, but not limited to text, photographs, graphics, video and audio content) is protected by copyright as a collective work or compilation. All individual articles, content and other elements comprising this Service are also copyrighted works. You must abide by all additional copyright notices or restrictions contained in this Service. 
+2.  This Service (including, but not limited to text, photographs, graphics, video and audio content) is protected by copyright as a collective work or compilation. All individual articles, content and other elements comprising this Service are also copyrighted works. You must abide by all additional copyright notices or restrictions contained in this Service.
 
 3.  (a) You may not copy, reproduce, distribute, publish, enter into a database, display, perform, modify, create derivative works, transmit, or in any way exploit any part of this Service, except that you may download material from this Service for your own personal use as follows: you may make one machine readable copy and/or one print copy that is limited to occasional articles of personal interest only. Without limiting the generality of the foregoing, you may not distribute any part of this Service over any network, including a local area network, nor sell or offer it for sale. In addition, these files may not be used to construct any kind of database. See rights and permissions.
 
@@ -51,9 +51,11 @@ PLEASE READ USER AGREEMENT (amended as of September 1, 2001) BEFORE USING THIS S
 
 (c) Just as **stripes.com** requires users to respect our copyrights, and those of our affiliates and partners, we respect the copyrights of others. If you believe in good faith that your copyrighted work has been reproduced on our site without authorization in a way that constitutes copyright infringement, you may notify our designated copyright agent either by mail to William Gardiner, Legal Counsel, Stars and Stripes, Central Office, 529 14th St., NW, Suite 350, Washington, DC 20045 or by e-mail, gardinerb@stripes.osd.mil . This contact information is only for suspected copyright infringement. Contact information for other matters is provided elsewhere on this site. Any personal information you provide in your note will be used only for purposes related to your note.
 
-### **Privacy Policy**
+###  **Privacy Policy**
 
 Stars and Stripes and **stripes.com** are committed to bringing you information tailored to your individual needs but also, recognizes the importance of protecting the privacy of your personally identifiable information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using personally identifiable information and your reasonable expectations of privacy.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date. subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [links to the industry-developed Consumer Choice Page at <http://www.aboutads.info/choices/> or the Network Advertising Initiative ([www.networkadvertising.org](http://www.networkadvertising.org/)) if located in the United States or Canada; or [http://www.youronlinechoices.eu/ ](http://www.youronlinechoices.eu/)if located in Europe].
 
 **What personally identifiable information do I provide to stripes.com?**
 
