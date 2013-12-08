@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysearchproperties.com privacy policy that was archived on 2011-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110723231511id_/http%3A//mysearchproperties.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysearchproperties.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208143100id_/http%3A//mysearchproperties.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Mysearchproperties.com- Privacy Policy
 
