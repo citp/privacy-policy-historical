@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superguarantee.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510132529id_/http%3A//superguarantee.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superguarantee.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208223622id_/http%3A//superguarantee.com/aboutus/privacy) for the most accurate reproduction.*
 
 # SuperGuarantee.com Privacy Policy
 
