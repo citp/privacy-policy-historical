@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viz.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618020754id_/http%3A//www.viz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viz.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208051446id_/http%3A//www.viz.com/privacy) for the most accurate reproduction.*
 
 # VIZ.com
 
@@ -126,8 +126,8 @@ You can choose whether or not to share personal information. If you choose not t
 You can [email us](mailto:privacypolicy@viz.com) or write to us at:
 
 Online Manager (Privacy Issue) VIZ Media  
-295 Bay Street  
-San Francisco, CA 94133  
+1355 Market Street, Suite #200  
+San Francisco, CA 94103  
 (415) 546-7073  
   
 **Our Sites and Children**
