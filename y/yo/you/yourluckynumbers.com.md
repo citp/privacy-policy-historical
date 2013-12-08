@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourluckynumbers.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606061158id_/http%3A//yourluckynumbers.com/Privacy-Policy/1_186_menu%3D3_object%3D519.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourluckynumbers.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209000309id_/http%3A//yourluckynumbers.com/Privacy-Policy/1_186_menu%3D3_object%3D519.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Your Lucky Numbers
 
@@ -31,13 +31,17 @@ We may share with third party advertisers certain Website usage information of i
 
 We do not endorse, nor are we responsible for the accuracy of, the privacy policies and/or terms and conditions of each of the third party advertisers that may advertise at this Website. The entities that advertise and/or place banner ads at this Website including, but not limited to, these third party advertisers, are independent third parties and are not affiliated with us.
 
-**  Your Choices**
+**Your Choices**
 
-During registration and/or when you submit personally identifiable information to us at the Website, you have opted-in to request that we share your personal information with third parties to receive marketing communications. When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use and sharing of your information. To opt-out from receiving any additional email communications regarding this website, you may contact us [here](http://yourluckynumbers.com/Contact-Us/3_0_menu=2.aspx).
+During registration and/or when you submit personally identifiable information to us at the Website, you have opted-in to request that we share your personal information with third parties to receive marketing communications. However, your email address will only be shared with our mailing partners: ExpressSender.com and All Inbox, LLC. When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use and sharing of your information. To opt-out from receiving any additional email communications regarding this website, please [contact us](http://yourluckynumbers.com/Contact-Us/3_0_menu=2.aspx). 
 
 Some of the services that we provide will result in sending an SMS, wireless or other mobile offering to your cell phone. By signing up, you are agreeing to receive these mobile offerings. You understand that your wireless carrier's standard rates apply to these messages. To unsubscribe or discontinue SMS messages, send "STOP", "END", "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering. This will not affect offerings sent on behalf of third parties.
 
-Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to [http://www.privacychoice.org/choose.](http://www.privacychoice.org/choose)
+Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to <http://www.privacychoice.org/choose>.
+
+**Use of Information**
+
+The Personal Information you submit to us remains your property, but by submitting that Personal Information to us, you grant us the right, subject to applicable state and federal law, to use that Personal Information for marketing purposes. Without limiting the generality of the foregoing, we reserve the right to share the Personal Information we collect, excluding your email address, with carefully selected marketing partners who can offer you products and services that may be of interest to you. You also agree to receive e-mail marketing from Yourluckynumbers. Any email you receive will be from Yourluckynumbers and may be sent by our mailing partner, All Inbox, LLC.
 
 **SMS, Wireless and Other Mobile Offerings**
 
@@ -88,5 +92,4 @@ Copyright © 2011 YourLuckyNumbers.com - All Rights Reserved. For Entertainment
 
 [ ](http://signup.yourluckynumbers.com/?sub=20&prt=2)
 
-|   
----|---|---
+| 
