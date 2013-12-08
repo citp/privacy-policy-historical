@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teksavvy.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501213133id_/http%3A//www.teksavvy.com/en/why-teksavvy/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teksavvy.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208033311id_/http%3A//teksavvy.com/en/why-teksavvy/policies/privacy-policy) for the most accurate reproduction.*
 
 # TekSavvy - Privacy Policy
 
@@ -130,12 +130,14 @@ Further references to "identified purposes" mean the purposes identified in this
 
 2.3   Unless required by law, the TekSavvy Companies shall not use or disclose, for any new purpose, personal information that has been collected without first identifying and documenting the new purpose and obtaining the consent of the customer or employee.
 
+ 2.4       As members of the public browse the website teksavvy.com or other websites of the TekSavvy Companies (“Sites”), advertising cookies will be placed on the users’ computers so that the TekSavvy Companies can understand consumer interests.  “Cookies” are small information packets that a website creates which are stored on the hard drive of a user’s computer by the user’s browser software. The TekSavvy Companies use cookies to track and collect information relating to use of the Sites by the public.The display advertising partner, AdRoll, then enables the TekSavvy Companies to present users of the Sites with retargeted advertising on other sites based on the users’ previous interaction with the Sites. The techniques employed by AdRoll and their advertising partners do not collect personal information such as user names, email addresses, postal addresses or telephone numbers.  Members of the public can visit this [page](http://www.networkadvertising.org/choices/ "AdRoll Opt-Out") to opt out of AdRoll and their partners’ targeted advertising
+
 Principle 3 - Obtaining Consent for Collection, Use or Disclosure of Personal Information  
 The knowledge and consent of a customer or employee is required for the collection, use or disclosure of personal information, except where inappropriate.
 
 3.1   In certain circumstances personal information can be collected, used or disclosed without the knowledge and consent of the individual. For example, the TekSavvy Companies may collect or use personal information without knowledge or consent if it is clearly in the interests of the individual and consent cannot be obtained in a timely way, such as when the individual is a minor, seriously ill or mentally incapacitated.  
 The TekSavvy Companies may also collect, use or disclose personal information without knowledge or consent if seeking the consent of the individual might defeat the purpose of collecting the information such as in the investigation of a breach of an agreement or a contravention of a federal or provincial law.  
-The TekSavvy Companies may also use or disclose personal information without knowledge or consent in the case of an emergency where the life, health or security of an individual is threatened.  
+The TekSavvy Companies may also use or disclose personal information without knowled[g](http://i.imgur.com/hQjOINe.jpg)e or consent in the case of an emergency where the life, health or security of an individual is threatened.  
 The TekSavvy Companies may disclose personal information without knowledge or consent to a lawyer representing the TekSavvy Companies, to collect a debt, to comply with a subpoena, warrant or other court order, or as may be otherwise required by law.
 
 3.2   In obtaining consent, the TekSavvy Companies shall use reasonable efforts to ensure that a customer or employee is advised of the identified purposes for which personal information will be used or disclosed. Purposes shall be stated in a manner that can be reasonably understood by the customer or employee.
