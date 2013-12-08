@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffiq.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604043747id_/http%3A//www.traffiq.com/traffiq-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffiq.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208122812id_/http%3A//www.traffiq.com/traffiq-privacy-policy) for the most accurate reproduction.*
 
 # TRAFFIQ Privacy Policy | Traffiq
 
