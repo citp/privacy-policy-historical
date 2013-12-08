@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603082113id_/http%3A//travelpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208024633id_/http%3A//travelpost.com/privacy) for the most accurate reproduction.*
 
 # TravelPost
 
@@ -99,4 +99,4 @@ Seattle, WA 98104
 Attention: Privacy Officer   
 
 
-Further information about TravelPost is available at [About TravelPost.com](https://web.archive.org/web/20130603082113id_/http%3A//travelpost.com/about.aspx). 
+Further information about TravelPost is available at [About TravelPost.com](https://web.archive.org/web/20131208024633id_/http%3A//travelpost.com/about.aspx). 
