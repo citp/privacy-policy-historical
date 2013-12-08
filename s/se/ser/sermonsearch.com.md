@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sermonsearch.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501213716id_/http%3A//www.sermonsearch.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermonsearch.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209001837id_/http%3A//www.sermonsearch.com/privacy-policy) for the most accurate reproduction.*
 
-# Sermons, Illustrations, Outlines, Church Pastors, Free Bible Study Resources, Online Sermon Central
+# Privacy Policy for SermonSearch.com
 
 _Effective and Last Modified: December 31, 2012_
 
