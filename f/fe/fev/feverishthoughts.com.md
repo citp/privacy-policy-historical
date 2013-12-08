@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the feverishthoughts.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521164134id_/http%3A//www.feverishthoughts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feverishthoughts.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208063730id_/http%3A//www.feverishthoughts.com/privacy-policy) for the most accurate reproduction.*
 
-# Tricia's Musings - Privacy Policy
+# Privacy Policy — Tricia's Musings
 
 [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.feverishthoughts.com%2Fprivacy-policy%2F&media=)
 
