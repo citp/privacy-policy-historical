@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626012252id_/http%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208052715id_/http%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
 
-# PSD to HTML Service Privacy Policy - P2H / PSD2HTML®
+# Privacy Policy – PSD2HTML®
 
 The following Privacy Policy Notice describes your privacy rights regarding our collection, use, storage, sharing, and protection of your personal information. It applies to the www.psd2html.com website (“site”) and all services offered by P2H Inc. (collectively “P2H” or “P2H™”). PSD2HTML® is owned and operated by P2H Inc. and is offered subject to your acceptance of this Privacy Policy Notice without modification. Please read this Privacy Policy Notice carefully and completely prior to engaging us for services.
 
