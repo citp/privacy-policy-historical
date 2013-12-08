@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waynesarcade.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603114946id_/http%3A//waynesarcade.com/page/1/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waynesarcade.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208205852id_/http%3A//waynesarcade.com/page/1/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wayne's Arcade
 
