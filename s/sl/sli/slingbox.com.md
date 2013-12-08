@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slingbox.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529202156id_/http%3A//slingbox.com/get/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slingbox.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208060702id_/http%3A//www.slingbox.com/get/privacy-policy) for the most accurate reproduction.*
 
 # Slingbox.com - Privacy Policy
 
