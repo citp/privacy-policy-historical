@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsbiscuit.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621044424id_/http%3A//www.newsbiscuit.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbiscuit.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208054648id_/http%3A//www.newsbiscuit.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | NewsBiscuit
 
@@ -62,7 +62,7 @@ Share this story...
   * [](http://reddit.com/submit?url=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20policy "Reddit")
   *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20policy "StumbleUpon")
   * [](http://delicious.com/post?url=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20policy&notes=This%20privacy%20policy%20sets%20out%20how%20Net%20Loss%20Ltd%20uses%20and%20protects%20any%20information%20that%20you%20give%20Net%20Loss%20Ltd%20when%20you%20use%20this%20website.%0D%0A%0D%0ANet%20Loss%20Ltd%20is%20committed%20to%20ensuring%20that%20your%20privacy%20is%20protected.%20Should%20we%20ask%20you%20to%20provide%20certain%20inform "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20policy&srcURL=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&srcTitle=NewsBiscuit+The+news+before+it+happens... "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20policy&source=NewsBiscuit+The+news+before+it+happens...&summary=This%20privacy%20policy%20sets%20out%20how%20Net%20Loss%20Ltd%20uses%20and%20protects%20any%20information%20that%20you%20give%20Net%20Loss%20Ltd%20when%20you%20use%20this%20website.%0D%0A%0D%0ANet%20Loss%20Ltd%20is%20committed%20to%20ensuring%20that%20your%20privacy%20is%20protected.%20Should%20we%20ask%20you%20to%20provide%20certain%20inform "LinkedIn")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20policy&srcURL=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&srcTitle=NewsBiscuit+The+news+written+by+you... "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.newsbiscuit.com%2Fabout%2Fprivacy-policy%2F&title=Privacy%20policy&source=NewsBiscuit+The+news+written+by+you...&summary=This%20privacy%20policy%20sets%20out%20how%20Net%20Loss%20Ltd%20uses%20and%20protects%20any%20information%20that%20you%20give%20Net%20Loss%20Ltd%20when%20you%20use%20this%20website.%0D%0A%0D%0ANet%20Loss%20Ltd%20is%20committed%20to%20ensuring%20that%20your%20privacy%20is%20protected.%20Should%20we%20ask%20you%20to%20provide%20certain%20inform "LinkedIn")
   * 
 
