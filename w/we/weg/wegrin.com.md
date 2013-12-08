@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegrin.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602235914id_/http%3A//wegrin.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegrin.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208025404id_/http%3A//wegrin.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - WeGrin
 
