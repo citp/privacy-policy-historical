@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidebook.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607005604id_/http%3A//guidebook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidebook.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208210049id_/http%3A//guidebook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Guidebook
 
