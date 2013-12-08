@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supereducationguide.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124103620id_/http%3A//www.supereducationguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supereducationguide.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208031737id_/http%3A//supereducationguide.com/privacy.htm) for the most accurate reproduction.*
 
 # Email List Privacy Policy
 
