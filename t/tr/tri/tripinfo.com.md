@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630015919id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208172437id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
 
 # TRIPinfo.com - Privacy Policy
 
@@ -56,13 +56,11 @@ In order to ensure the safety of customer information, we continually:
 • Test the strength of our security
 
 TRIPmedia GROUP AFFILIATED COMPANIES:  
-• Empowerment Publications Inc.  
-• Guest Relations Marketing  
-• International Festivals & Events Association  
-• Nimbus Software  
-• Sched LLC  
-• Southeast Tourism Society  
-• The Goss Agency
+• AttractionSuite  
+• Brand USA  
+• International Festivals & Events Association (IFEA)  
+• National Association of Reciprocal Museums (NARM)   
+• Southeast Tourism Society
 
 EMAIL US WITH QUESTIONS OR CONCERNS ABOUT OUR PRIVACY POLICY:  
 [info@TRIPmediagroup.com](mailto:%20info@TRIPmediagroup.com)
