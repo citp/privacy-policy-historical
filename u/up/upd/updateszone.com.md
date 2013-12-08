@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updateszone.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504225859id_/http%3A//updateszone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updateszone.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208123422id_/http%3A//www.updateszone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UpdatesZone
 
