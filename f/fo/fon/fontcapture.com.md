@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontcapture.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123070129id_/http%3A//www.yourfonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontcapture.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208140138id_/http%3A//www.yourfonts.com/privacy.html) for the most accurate reproduction.*
 
 # YourFonts - Privacy Policy
 
