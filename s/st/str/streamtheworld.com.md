@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the streamtheworld.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623231633id_/http%3A//www.tritondigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamtheworld.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208015808id_/http%3A//www.tritondigital.com/privacy-policy) for the most accurate reproduction.*
 
-# Triton Digital - Richer Media - Privacy Policy
+# Triton Digital - Privacy Policy
 
-This Privacy Policy sets out the manner in which Triton Media Group, LLC (“ **Triton Digital** ”, “ **we** ”, “ **us** ”, “ **our** ”) collect, use, disclose and otherwise manage personal information of visitors of tritondigital.com (the " **Site** "). This policy does not apply to the use of our streaming and digital advertising software and services. To access our streaming platform privacy policy, [click here](https://web.archive.org/privacy-policy-streaming-platform). This policy also does not apply to the audience management services. Please read it carefully. We also invite you to review our Terms of Use.
+This Privacy Policy sets out the manner in which Triton Media Group, LLC (“ **Triton Digital** ”, “ **we** ”, “ **us** ”, “ **our** ”) collect, use, disclose and otherwise manage personal information of visitors of tritondigital.com (the " **Site** "). This policy does not apply to the use of our streaming and digital advertising software and services.
+
+Please note that our privacy policy has changed. To access the most current version of our privacy policy, [click here](https://web.archive.org/privacy-policy-advertising-platform). This policy also does not apply to the audience management services. Please read it carefully. We also invite you to review our Terms of Use.
 
 Because we are committed to respect the privacy of our users and because the success of the Site is dependent on building and maintaining goodwill with our users, we are committed to implementing measures designed to respect and protect your privacy. Moreover, we see it as our responsibility to set an example, and to help establish standards for privacy on the Internet.
 
