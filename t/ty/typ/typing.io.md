@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typing.io privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117071714id_/http%3A//typing.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typing.io privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208220050id_/http%3A//typing.io/privacy) for the most accurate reproduction.*
 
 # Typing Practice for Programmers | typing.io
 
@@ -29,3 +29,5 @@ A cookie is a string of information that a website stores on a visitor’s compu
 Although most changes are likely to be minor, Typing.io may change its Privacy Policy from time to time, and in Typing.io’s sole discretion. Typing.io encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 Adapted from the [WordPress privacy policy](http://wordpress.org/about/privacy/)
+
+Typing.io uses JavaScript to analyze your typing. Please enable or whitelist JavaScript. 
