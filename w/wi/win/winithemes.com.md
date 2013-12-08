@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winithemes.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610013506id_/http%3A//winithemes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winithemes.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208201934id_/http%3A//winithemes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Winithemes
 
