@@ -1,49 +1,74 @@
-> *The following text is extracted and transformed from the whattheflicka.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602170330id_/http%3A//whattheflicka.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whattheflicka.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208180013id_/http%3A//whattheflicka.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | What The Flicka?
+# Felicity Huffman’s What The Flicka? | A Site For Moms & Women | What The Flicka?
 
-**How We Collect Information About You**
+**1.   Intro:**Welcome to the family of Digital Media Management, Inc. (“DMM”) websites and other digital properties.  In the course of using our sites, we may collect certain information about you.  The following terms are meant to provide you an overview of our policies and practices regarding information we may collect.
 
-When you visit www.whattheflicka.com, we collect your IP address and standard web log information, such as your browser type and the pages you accessed on our website.
+**2.   Information We Collect **
 
-If you submit any content to www.whattheflicka.com or a related site, we may collect the following types of information:
+We may directly collect the following information about you:
 
-Contact information – your name, address, phone, email, and other similar information.
+  * Registration information
+  * Data you enter into your online profile
+  * Contacts lists you upload to your profile
+  * Technical data, including your MAC address, IP address, mobile device ID information, clicks, and platform and browser type, and similar information
+  * Information from your correspondence with our tech support teams
+  * Usage data, including landing and referring pages, number of clicks, time spent on particular pages, time and date of activity on our sites and games, and similar information
 
-Information related to the content you submit such as releases and permissions.
 
-As a condition to granting use to www.whattheflicka.com, we may require you to provide additional information we can use to verify your identity or address or manage risk, such as your date of birth, social security number or other information.
 
-When you are using www.whattheflicka.com, we collect information about your transactions and your other activities on our website and we may collect information about your computer or other access device for fraud prevention or anti-abuse purposes.
+We may also collect additional information about you from social networking sites and other third party sites where you may access our service, including your name, profile picture, user ID number, login email, physical location data, gender, and birthday.
 
-Finally, we may collect additional information from or about you in other ways such as contact with our customer support.
+We process payments through a third-party service, and DMM does not store your credit card details or other billing information.
 
-**How We Use The Personal Information We Collect**
+**3.   How We Collect Your Information  **
 
-Our primary purpose in collecting personal information is to provide you with the best possible experience at our website. We may use your personal information for purposes including, but not limited to the following:
+We may collect information about you via:
 
-Provide membership services and requested customer support for us or our affiliates; provide information you allow us to provide to other users of our site.Prevent potentially prohibited or illegal activities, and enforce our Terms and Conditions; customize, troubleshoot, and improve www.youmeandcharlie.com and the content and layout of our website and applications; deliver targeted marketing, service update notices, and promotional offers based on your communication preferences from us or our affiliates; compare information for accuracy and verify it with third parties.
+  * Social networking sites and other third party sites
+  * Recording communications made on our sites, including message board posts, comments, private messages or invitations, chats, and uploaded photos
+  * Cookies, web beacons, log files, or other similar means
+  * Third party providers of information
 
-**How We Share Personal Information With Other Parties**
 
-We may share your personal information with our affiliates but we may also share your information with:
 
-Service providers under contract who help with parts of our business operations such as fraud prevention, bill collection, marketing, and technology services. Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
+**4.**   **How We Use Your Information**
 
-Companies that we plan to merge with or be acquired by. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information could be used contrary to this policy, you will receive prior notice.) Law enforcement, government officials, or other third parties when we are compelled to do so by a subpoena, court order or similar legal procedure we need to do so to comply with laws of any jurisdiction that you or this site are subject we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our Terms and Conditions.
+In general, we collect and use your information to provide you with a safe, smooth, efficient and customized experience.  For example, we may use your information to:
 
-**Other third parties with your consent or direction to do so.**
+  * Create your account
+  * Improve and enhance our sites and products
+  * Enable communications between users
+  * Target and deliver ads
+  * Inform you of new products and promos
+  * Solicit input and feedback on our products and services
 
-www.whattheflicka.com will not sell or rent any of your personal information to third parties for their marketing purposes and only shares your personal information with third parties as described in this policy and the Terms and Conditions available [here](http://www.networkadvertising.org/choices/).
 
-**How We Protect And Store Personal Information**
 
-We store and process your personal information on our computers in the United States and protect it by maintaining physical, electronic and procedural safeguards in compliance with applicable federal and state regulations. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities.
+**5.**   **Who We Share Your Information With**
 
-**Network Advertising Initiative**
+We may share your information with third parties including:
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click  **[here.](http://vhudgens.me/oven?id=9204559&targetUrl=http%3A%2F%2Fwww.networkadvertising.org%2Fmanaging%2Fopt_out.asp "http://www.networkadvertising.org/managing/opt_out.asp")**
+  * Parties providing services to DMM (for example, web hosting, payment processing, or customer service providers)
+  * Friends and other users of DMM’s services
+  * Advertisers
+  * Providers of deals and other special offers
+  * The government, if necessary for safety reasons or to comply with applicable law
 
-**How You Can Contact Us About Privacy Questions**
 
-If you have questions or concerns regarding this policy, you should contact us by email at  **info@digitalmediamanagement.com**.
+
+**6.**   **Our Security Measures**
+
+We are committed to protecting your information, and we employ reasonable security measures to do so.  Whenever you sign in or enter payment information, that transmission is encrypted using SSL technology.  However, nothing on the Internet is completely secure, and we cannot guarantee the security of your information.
+
+**7.**   **Accessing and Managing Your Information and Privacy Settings**
+
+If you access our service through a social networking site or other third party site, you can update and manage the information those sites provide to DMM in your account settings for those sites.
+
+If you wish to review the information DMM receives about you from third party sites, email your request to info@digitalmediamanagement.com.
+
+If you wish to opt out from any online behavioral advertising that may occur on our sites, please visit the Network Advertising Initiative website at http://www.networkadvertising.org/managing/opt_out.asp, or the Self-Regulatory Program for Online Behavioral Advertising website at http://www.aboutads.info/choices.
+
+**8.**   **Contact info  **
+
+If you have any questions, feel free to contact us at info@digitalmediamanagement.com.
