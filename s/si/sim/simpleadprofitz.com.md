@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleadprofitz.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614210414id_/http%3A//simpleadprofitz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleadprofitz.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209003742id_/http%3A//simpleadprofitz.com/privacy.php) for the most accurate reproduction.*
 
 # Simple Ad Profitz! Free Traffic Exchange | Free Advertising Free Web Traffic
 
@@ -36,7 +36,7 @@ Links: This web site contains links to other web sites. Please note that when yo
 
 "Simple Adz, Easy Commissionz, Quick Resultz!"
 
-Copyright (c) Simple Ad Profitz All Rights Reserved 
+Copyright (c) Simple Ad Profitz All Rights Reserved - Part of the [_Trax Web_](http://www.traxhelpdesk.com/sites/)
 
 [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ _Recommended Site of The Day_](https://web.archive.org/recommends.php) | [Founding Members](https://web.archive.org/founders.php)
 
