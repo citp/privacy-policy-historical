@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hscic.gov.uk privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614074558id_/http%3A//www.hscic.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hscic.gov.uk privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208064044id_/http%3A//www.hscic.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies - Health & Social Care Information Centre
 
@@ -67,7 +67,7 @@ In order to meet our public task as the national source of health and social car
 
 
 
-In addition to the above, the HSCIC collects and processes information relating to its customers and stakeholders for business purposes. All personal information is handled with the utmost care and attention - whether on paper, electronically, or other means - and safeguards are in place to ensure the Data Protection Act 1998 is adhered to. 
+In addition to the above, the HSCIC collects and processes information relating to its customers and stakeholders for business purposes. All personal information is handled with the utmost care and attention - whether on paper, electronically, or other means - and safeguards are in place to ensure the Data Protection Act 1998 is adhered to. You can read more about [how we look after personal information](http://www.hscic.gov.uk/patientconf "Looking after your health and care information").
 
 The HSCIC regards the fair and lawful processing of personal information as essential in order to successfully achieve its objectives and ensure the support and confidence of the general public and stakeholders. 
 
@@ -111,6 +111,12 @@ LS1 6AE
 ## Information security
 
 There are robust security measures in place for all personal information held by the HSCIC to protect against the loss or alteration of information under the organisation's control. If you have any questions about our privacy notice or the information we hold please contact us at the above address.
+
+* * *
+
+## Privacy Impact Assessment
+
+We have completed a  ['Privacy Impact Assessment' [527kb]](http://www.hscic.gov.uk/media/12931/Privacy-Impact-Assessment/pdf/privacy_impact_assessment_2013.pdf "Privacy Impact Assessment") which tells you what the HSCIC does with personal information and what effect that might have on privacy. It also explains what steps the HSCIC takes to protect privacy. The Privacy Impact Assessment will be looked at every year to see if it needs to be updated.
 
 ## Other websites
 
