@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the top40-charts.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601030406id_/http%3A//top40-charts.com/about/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the top40-charts.com privacy policy that was archived on 2013-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131208015759id_/http%3A//top40-charts.com/about/privacy.php) for the most accurate reproduction.-->
 
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <!-- about/privacy --><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -373,7 +373,7 @@ background-position: 0px -5px;
 <link rel="alternate" type="application/rss+xml" title="Top40-Charts.com - News" href="http://feeds.feedburner.com/Top40-Charts-com-News">
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 
 function MM_findObj(n, d) { //v3.0
   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
@@ -417,12 +417,13 @@ function MM_showHideLayers() { //v3.0
   }
 </script>
 
-<!-- -----google page speed tracking --> 
+<!-- -----google page speed tracking + search engine tracking --> 
   <script type="text/javascript">
   //<![CDATA[
     var page_load_start = new Date();
     var _gaq = _gaq || [];
     window.onload =  function() {
+	  // -----google page speed tracking 
       var page_load_end = new Date();
       var load_time = page_load_end.getTime() - page_load_start.getTime();
       load_time = parseInt( load_time / 100 )*100;
@@ -439,9 +440,28 @@ function MM_showHideLayers() { //v3.0
 	  _gaq.push(['_setAccount', 'UA-1078457-1']);
 	  _gaq.push(['_trackPageLoadTime']);
       _gaq.push(["_trackPageview"]);
+
+		// -----google search engine tracking 
+		if (document.referrer.match(/google\.com/gi) && document.referrer.match(/cd/gi)) {
+		  var myString = document.referrer;
+		  var r        = myString.match(/cd=(.*?)&/);
+		  var rank     = parseInt(r[1]);
+		  var kw       = myString.match(/q=(.*?)&/);
+		  
+		  if (kw[1].length > 0) {
+			var keyWord  = decodeURI(kw[1]);
+		  } else {
+			keyWord = "(not provided)";
+		  }
+		
+		  var p        = document.location.pathname;
+		  _gaq.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+		}
     };
   //]]>
   </script>
+
+
 <!-- bbuserinfo 1 -->
 <!-- Casale Media: Pop Under -->
 <script type="text/javascript"><!--
@@ -450,8 +470,8 @@ var casaleU=escape(window.location.href);
 var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
 document.write('<scr'+'ipt'+casaleHost+'83413&amp;u=');
 document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
-//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=83413&amp;u=https%3A//web.archive.org/web/20130601030406id_/http%253A//top40-charts.com/about/privacy.php&amp;f=1&amp;id=1855124855.6595247"></script>
-<!-- DO NOT MODIFY --><!-- k= 1 --><!-- ValueClick Media InVue Code for Top40-Charts.com -->
+//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=83413&amp;u=https%3A//web.archive.org/web/20131208015759id_/http%253A//top40-charts.com/about/privacy.php&amp;f=1&amp;id=1855131175.01935"></script>
+<!-- DO NOT MODIFY --><!-- k= 3 --><!-- ValueClick Media InVue Code for Top40-Charts.com -->
 <script language="javascript">
 <!--
 function vc_sc(name, value, expires, path, domain, secure) {
@@ -509,11 +529,11 @@ if (document.cookie.indexOf('n=vue') <= 0 && document.cookie.indexOf('2=o') > 0 
 </script>
 <!-- ValueClick Media InVue Code for Top40-Charts.com -->
 <!-- value in-vue -->
-			<!-- popX=1 coocount2B=  k= 1 | /about/privacy.php -->
+			<!-- popX=1 coocount2B=  k= 3 | /about/privacy.php -->
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>	
+<script type="text/javascript" src="/jquery.min.js"></script>	
 
 
 <script src="http://adexcite.com/ads/video/controller.php?eid=11293&amp;position=left" type="text/javascript"></script>
@@ -537,35 +557,6 @@ e9.toolbar=1;
 <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Top40Chartscom/FireflyToolbar/tags.js"></script>
 
 
-<!-- ----google--- ---->
-<script type="text/javascript">
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') + 
-'//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
-})();
-</script>
-
-<script type="text/javascript">
-googletag.cmd.push(function() {
-googletag.defineSlot('/1037104/Leaderboard', [728, 90], 'div-gpt-ad-1329263891198-0').addService(googletag.pubads());
-googletag.defineSlot('/1037104/Tower_1', [160, 600], 'div-gpt-ad-1329263891198-1').addService(googletag.pubads());
-googletag.defineSlot('/1037104/Tower_2', [160, 600], 'div-gpt-ad-1329263891198-2').addService(googletag.pubads());
-//googletag.defineSlot('/1037104/125x125_Right_side', [125, 125], 'div-gpt-ad-1367917181163-0').addService(googletag.pubads());
-//googletag.defineSlot('/1037104/160x180', [160, 180], 'div-gpt-ad-1356886829674-0').addService(googletag.pubads());
-googletag.pubads().enableSingleRequest();
-googletag.enableServices();
-});
-</script>
-<!-- ---end--- ---->
-
 	<!-- datonics -->
 		<script type="text/javascript"><!--
 		an_category = "About";
@@ -577,7 +568,7 @@ googletag.enableServices();
 <table cellpadding="0" cellspacing="0" border="0" width="970">
 <!--tr><td colspan=2 nowrap style="padding: 5px; background-color: #f5f5f5;">
 	<div style="float: left; width: 800px; padding: 5px; font-size: 8pt; color:#555555">Serving the music industry since 2001: 
-	﻿<I> 49 charts, 35,159 songs and 13,954 artists in 709,419 chart entries, 90,338 news articles and 24,353 lyrics</i>	</div>
+	﻿<I> 49 charts, 36,583 songs and 14,448 artists in 742,796 chart entries, 96,030 news articles and 26,062 lyrics</i>	</div>
 	<div style='float: left; font-weight: bold; text-align: center; padding: 4px 6px; width: 134px;' class="top_smallbox"><a href="mailto:pr@top40-charts.com">Submit Your News</a></div> 
 	</td>
 </tr-->
@@ -587,15 +578,15 @@ googletag.enableServices();
 			<td style="width:728px; height: 150px;" align="right">
 				<div style="padding: 8px 5px 8px 5px; background-color: #f5f5f5;">
 					<div style="width: 718px; text-align: center; font-size: 8pt; color:#555555">Serving the music industry since 2001: 
-						﻿<i> 49 charts, 35,159 songs and 13,954 artists in 709,419 chart entries, 90,338 news articles and 24,353 lyrics</i>					</div>
+						﻿<i> 49 charts, 36,583 songs and 14,448 artists in 742,796 chart entries, 96,030 news articles and 26,062 lyrics</i>					</div>
 				</div>
 
 				<div style="width: 728px; height: 90px;">
 					<!-- Leaderboard -->
 					<div id="div-gpt-ad-1329263891198-0" style="width:728px; height:90px;">
-					<script type="text/javascript">
-					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1329263891198-0'); });
-					</script>
+					<!--/* OpenX iFrame Tag v2.8.10 */-->
+
+<iframe id="a2df0f00" name="a2df0f00" src="http://ads.top40-charts.com/www/delivery/afr.php?zoneid=2&amp;target=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="728" height="90"><a href='http://ads.top40-charts.com/www/delivery/ck.php?n=ae1adac0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.top40-charts.com/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ae1adac0' border='0' alt='' /></a></iframe>
 					</div>
 				</div>
 				
@@ -618,7 +609,7 @@ googletag.enableServices();
 					margin-left: 0px;
 					margin-right: 0px;
 				}
-				#menu_holder { width: 460px; }
+				#menu_holder { width: 470px; }
 				</style>
 				<div id="menu_holder">
 				
@@ -800,12 +791,12 @@ googletag.enableServices();
 				</td>
 				<td valign="top">
 					<div class="top_smallbox" style="margin-right: 10px; padding: 2px 6px; background-color: #ECEEF5">
-						<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FTop40-Chartscom-Music-News%2F89608284933%3Fref%3Dts&amp;width=85&amp;font=arial&amp;colorscheme=light&amp;show_faces=false&amp;layout=button_count&amp;stream=false&amp;header=false&amp;height=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:20px;" allowtransparency="true"></iframe>
+						<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FTop40-Chartscom-Music-News%2F89608284933%3Fref%3Dts&amp;width=85&amp;font=arial&amp;colorscheme=light&amp;show_faces=false&amp;layout=button_count&amp;stream=false&amp;header=false&amp;height=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:20px;" allowtransparency="true"></iframe>
 					</div>
 				</td>
 				<form action="http://top40-charts.com/search/index.php" method="GET" name="smallsearch"></form>
 				<td nowrap="" align="right" valign="top" style="">
-						<input class="search" type="text" name="string" size="12" style="width: 107px; padding: 3px;" maxlength="45" value="">
+						<input class="search" type="text" name="string" size="12" style="width: 82px; height: 20px; padding: 3px;" maxlength="45" value="">
 						<input class="searchgo" type="submit" value="search" name="submit" style="height: 20px; padding: 3px;">
 				</td>
 				</tr></tbody></table><!-- end of menu + search -->
@@ -827,22 +818,6 @@ googletag.enableServices();
 <!-- main -->
 
 <center>
-<script type="text/javascript"><!--
-google_ad_client = "pub-5807987172213886";
-google_ad_width = 728;
-google_ad_height = 15;
-google_ad_format = "728x15_0ads_al_s";
-google_ad_channel ="3161646552";
-//google_color_border = "D8DCE8";
-google_color_bg = "F17D38";
-google_color_border = "C3D9C0";
-google_color_link = "F8FAFA";
-google_color_url = "D8DCE8";
-google_color_text = "eeffff";
-//--></script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
 
 <table cellpadding="0" cellspacing="0" align="center" width="805" border="0" style="border-top: 1px solid #F17D38" height="100%"><tbody><tr><td>
 <table width="805" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#f3f3f3">
@@ -1022,14 +997,9 @@ use information in accordance with the privacy policy under which the informatio
 	<table width="790" align="center" valign="top" cellspacing="5" cellpadding="1" border="0">
 	<tbody><tr><td valign="top" width="780" align="center">
 	
-		<!-- begin 728x90 Top Top40-Charts.com -->
-<script type="text/javascript">
-if(typeof(cachebuster) == "undefined"){var cachebuster = Math.floor(Math.random()*10000000000)}
-if(typeof(dcopt) == "undefined"){var dcopt = "dcopt=ist;"} else {var dcopt = ""}
-if(typeof(tile) == "undefined"){var tile = 1} else {tile++}
-document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/top40charts.mmn/ros;pos=top;cat=2;genre=buzz;' + dcopt + ';tile=' + tile + ';sz=728x90;ord=' + cachebuster + '?"></scr'+'ipt>');
-</script><script src="http://ad.doubleclick.net/adj/top40charts.mmn/ros;pos=top;cat=2;genre=buzz;dcopt=ist;;tile=1;sz=728x90;ord=585587372?"></script>
-<!-- End ad tag -->	</td></tr>
+		<!--/* OpenX iFrame Tag v2.8.10 */-->
+<iframe id="a269708b" name="a269708b" src="http://ads.top40-charts.com/www/delivery/afr.php?zoneid=1&amp;target=_blank&amp;cb=38383838384847372" frameborder="0" scrolling="no" width="728" height="90" allowtransparency="true"><a href='http://ads.top40-charts.com/www/delivery/ck.php?n=a099eb04&amp;cb=38384843834743737' target='_blank'><img src='http://ads.top40-charts.com/www/delivery/avw.php?zoneid=1&amp;cb=2383843843843843&amp;n=a099eb04' border='0' alt='' /></a></iframe>
+	</td></tr>
 	</tbody></table>
 	
 
@@ -1096,7 +1066,7 @@ document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/top40charts.mmn/ro
 			<a href="mailto:www@top40-charts.com">contact</a> | <a href="http://top40-charts.com/about/privacy.php">privacy</a>
 			</b></font></td></tr></tbody></table>
 		</td></tr></tbody></table>
-		<font color="ededed" size="1">Page gen. in 0.0041010 secs // 4 () queries in 0.2431058883667 secs</font>		<br>
+		<font color="ededed" size="1">Page gen. in 0.0035470 secs // 4 () queries in 0.020527124404907 secs</font>		<br>
 		<!--start mog badge --><!--end mog badge -->	
 		
 	</td></tr>
@@ -1113,28 +1083,27 @@ document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/top40charts.mmn/ro
 		
 	<!-- Tower_1 -->
 	<div id="div-gpt-ad-1329263891198-1" style="width:160px; height:600px;">
-	<script type="text/javascript">
-	googletag.cmd.push(function() { googletag.display('div-gpt-ad-1329263891198-1'); });
-	</script>
+	<!-- BEGIN RICH-MEDIA AdAP SSP CODE -->
+<script type="text/javascript" language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+ts=String.fromCharCode(60);
+if (window.self != window.top) {nf=''} else {nf='NF/'};
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad24805a.cgi/v=2.3S/sz=160x600A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad24805a.cgi/v=2.3S/sz=160x600A/42362/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad24805a-map.cgi/ns/v=2.3S/sz=160x600A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad24805a.cgi/ns/v=2.3S/sz=160x600A/" border="0" alt="Click Here" /></a>
+</noscript>
+<!-- END AdAP SSP CODE -->
 	</div>
 
 			
 	<div style="border-top: 1px solid #f5f5f5; margin-top: 10px; padding-top: 10px;">
-			<!-- Tower_2 -->
-		<div id="div-gpt-ad-1329263891198-2" style="width:160px; height:600px;">
-		<script type="text/javascript">
-		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1329263891198-2'); });
-		</script>
-		</div>
+	<script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "160x600,120x600";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Top40Chartscom/ROS/tags.js"></script>
 	</div>
 	
-	<!-- -- ////////////////////////////// dropbox ////////////////////////////// ---->
-	<div style="padding-top: 10px; padding-left: 6px; padding-right: 6px;">
-		<div class="top_smallbox" style="text-align: center;  font-size: 7pt; font-weight: bold">
-		<a onclick="recordOutboundLink(this, 'Outbound Links', 'Top Ad: DropBox');return false;" href="http://bit.ly/zOLPAK ">Free 2GB online storage</a>
-		</div>
-	</div>
-
 	<!-- -- ////////////////////////////// survey ////////////////////////////// ---->
 	<div style="padding-top: 10px; padding-left: 6px; padding-right: 6px;">
 		<div class="top_smallbox" style="text-align: center;  font-size: 7pt; font-weight: bold">
@@ -1147,7 +1116,7 @@ document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/top40charts.mmn/ro
 
 	
 
-	<div style="padding-top: 10px;">
+	<div style="padding-top: 10px; border-top: 1px solid #eee; ">
 		</div>
 
 
