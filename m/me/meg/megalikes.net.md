@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megalikes.net privacy policy that was archived on 2012-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120402042007id_/http%3A//www.megalikes.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megalikes.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208192501id_/http%3A//www.megalikes.net/privacy) for the most accurate reproduction.*
 
 # Mega Likes - Surf Our Likes
 
