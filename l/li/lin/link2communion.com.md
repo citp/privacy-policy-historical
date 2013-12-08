@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the link2communion.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602053355id_/http%3A//www.link2communion.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the link2communion.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208022437id_/http%3A//link2communion.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Link2Communion.com
 
