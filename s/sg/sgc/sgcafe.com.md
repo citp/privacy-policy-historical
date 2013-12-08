@@ -1,15 +1,63 @@
-> *The following text is extracted and transformed from the sgcafe.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102142939id_/http%3A//sgcafe.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgcafe.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208074835id_/http%3A//sgcafe.com/privacy-policy) for the most accurate reproduction.*
 
-# SGCafe.com Privacy Policy
+# Privacy Policy - SGCafe
 
-SGCafe, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
+**We collect personal and activity data, which may be linked.**
 
-All graphics, articles, reviews, etc. on this website is the sole property of SGCafe, unless otherwise stated. Any logos, names, slogans, or product pictures are owned by their respective companies, and may be copyrighted. Any sort of use of anything on this webpage may not be used without the permission of SGCafe, or else legal action may be taken. Any articles or logos used on the website will be linked to the original website. SGCafe will not be held responsible for any misinformation, damage to readers computer systems, or anything damaged as a result of anything published on this webpage. Any hardware or software reviewed is published with the opinion of the author. 
+We use technologies like cookies (small files stored on your browser), web beacons, or unique device identifiers to identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
 
-SGCafe does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address, unless otherwise stated (A Contest, for example). However, SGCafe does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by SGCafe is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers.
+We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from services like Facebook.
 
-Third Party Advertising  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
+Our systems may associate this personal information with your activities in the course of providing service to you (such as pages you view or things you click on or search for).
 
-Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+We do not knowingly contact or collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can promptly obtain parental consent or remove the information.
+
+ **We may collect and share anonymous location data.**  
+To customize our service for you, we and our partners may collect, use, and share precise location data, including the real-time geographic location of your computer or device. This location data is collected anonymously in a form that does not personally identify you and is used only to provide and improve our service. We may obtain your consent on your first use of the service.
+
+ **You can request to see or delete your personal data.**  
+You can sign into your account to see or delete any personally identifiable information we have stored, such as your name, address, email or phone number. You can also contact us by email to request to see or delete this information.
+
+ **We may keep data indefinitely.**  
+We may keep data indefinitely.
+
+ **We may share personal data with companies we trust.**  
+We may share personally identifiable information (such as name, address, email or phone) with trusted partners in order to provide you with relevant advertising, offers or services.
+
+California residents are legally entitled (at no charge and no more than once annually) to request information about how we may have shared your information with others for direct marketing purposes. Contact us for this information:
+
+social@sgcafe.com
+
+192 Waterloo Street  
+#04-06 Skyline Building  
+Singapore 187966
+
+ **Ad companies collect anonymous data. You can opt out.**  
+Ad companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity. Click to see company privacy policies and opt-out choices:
+
+ **You can ask privacy questions or opt-out of marketing.**  
+If you have any questions or concerns about our privacy policies, please contact us:
+
+social@sgcafe.com
+
+192 Waterloo Street  
+#04-06 Skyline Building  
+Singapore 187966
+
+If you have given us contact information but do not want us to contact you with promotional or marketing information, you can opt-out here: social@sgcafe.com
+
+Please allow sufficient time for us to process your request.
+
+ **Analytics providers access data on our behalf.**  
+Analytics companies may access anonymous data (such as your IP address or device ID) to help us understand how our services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user. Click to see company privacy policies that govern their use of data.
+
+ **We take steps to protect personal information**  
+We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error.
+
+Information we collect may be stored or processed on computers located in any country where we do business.
+
+ **Special situations may require disclosure of your data.**  
+To operate the service, we also may make identifiable and anonymous information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets. Your consent will not be required for disclosure in these cases, but we will attempt to notify you, to the extent permitted by law to do so.
+
+ **Our full privacy policy includes more information**.  
+This privacy policy was last updated on 28 July 2013. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text. Please read our full privacy policy, which includes other important information.
