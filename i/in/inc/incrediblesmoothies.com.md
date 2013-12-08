@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incrediblesmoothies.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609021415id_/http%3A//www.incrediblesmoothies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblesmoothies.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208072811id_/http%3A//www.incrediblesmoothies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Incredible Smoothies
 
@@ -54,4 +54,14 @@ If you do not agree to Incredible Smoothies (http://www.incrediblesmoothies.com)
 
 Your use of this site indicates acceptance of this privacy policy.
 
-[](http://www.incrediblesmoothies.com/greensmoothieprogram/index.html)
+* * *
+
+**About Tracy**  
+Tracy Russell is the creator of the [Green Smoothie Health & Weight Loss Program](http://www.incrediblesmoothies.com/gshp/) and founder of Incredible Smoothies. She is passionate about helping people improve their health with green smoothies and a whole foods lifestyle. 
+
+* * *
+
+[](http://www.incrediblesmoothies.com/thrivingonrawfoods/index-r.html)
+
+  
+
