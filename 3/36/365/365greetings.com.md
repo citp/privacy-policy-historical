@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 365greetings.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509212740id_/http%3A//www.365greetings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365greetings.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208014212id_/http%3A//www.365greetings.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Of 365greetings.com
 
