@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compareyourfare.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630044911id_/http%3A//www.compareyourfare.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compareyourfare.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208013707id_/http%3A//www.compareyourfare.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
