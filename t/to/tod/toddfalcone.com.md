@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toddfalcone.com privacy policy that was archived on 2012-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120213152136id_/http%3A//toddfalcone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toddfalcone.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208235944id_/http%3A//toddfalcone.com/privacy-policy) for the most accurate reproduction.*
 
-# Todd Falcone | Privacy Policy
+# Privacy Policy | Todd Falcone
 
 **ToddFalcone.com and all related Websites**
 
@@ -16,7 +16,8 @@ This policy describes the information collection, use, and dissemination practic
 
 **Please Note: TF from time to time, may make changes to this privacy policy to reflect changes in its legal or regulatory obligations or in the manner in which we deal with your personal information. Changes are effective upon posting. It is your sole responsibility to be aware of changes. We do not provide notices of changes in any manner other than by positing the changes at this web site. We encourage you to refer back to this policy on a regular basis.**
 
-Last updated: January 1, 2011
+Last Updated May 31, 2013  
+
 
 **THE INFORMATION COLLECTION, USE AND DISSEMINATION PRACTICES OF TF.**
 
@@ -179,10 +180,11 @@ If you wish to discontinue receiving email messages from TF, simply click on the
 
 Your privacy is important to us. If you have any questions about TF’s Privacy Policy or concerns about the way personal information is being used, please contact our Privacy Officer at:
 
-Privacy Offer ToddFalcone.com
+Privacy Officer ToddFalcone.com
 
-3020 Issaquah-Pine Lake Road #511   
-Sammamish, WA 98075 
+PO Box 27273  
+Scottsdale, AZ 85255  
+
 
 1-800-259-1177 
 
