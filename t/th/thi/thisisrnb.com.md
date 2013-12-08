@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisisrnb.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609120123id_/http%3A//www.thisisrnb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisrnb.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208223532id_/http%3A//www.thisisrnb.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY | ThisisRnB.com - Hot New R&B Music, Videos, News
 
