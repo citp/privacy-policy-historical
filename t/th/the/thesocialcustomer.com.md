@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesocialcustomer.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024025406id_/http%3A//thesocialcustomer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesocialcustomer.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208125126id_/http%3A//socialmediatoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Social Media Today
 
