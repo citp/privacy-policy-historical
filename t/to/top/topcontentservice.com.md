@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the topcontentservice.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115013135id_/http%3A//topcontentservice.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcontentservice.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208032006id_/http%3A//topcontentservice.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Amazon Electronics Product Reviews
-
-## [Privacy](http://topcontentservice.com/privacy.html)
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Ftopcontentservice.com%2Fprivacy.html&media=&description=Privacy)
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -25,8 +21,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding our privacy policy then you may [contact](http://topcontentservice.com/contact.html "contact") us at info@topcontentservice.com
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Ftopcontentservice.com%2Fprivacy.html&media=&description=Privacy)
-
-* * *
+If you have any questions regarding our privacy policy then you may contact us at info@topcontentservice.com
