@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the swimming.org privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506182033id_/http%3A//www.swimming.org/asa/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimming.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209001811id_/http%3A//www.swimming.org/asa/about-us/privacy-policy) for the most accurate reproduction.*
 
 # The Amateur Swimming Association (“ASA”) / British Swimming (“BS”) Privacy Policy | The ASA
 
-The ASA / BS (“ASA”, “BS”, “we”, “our”, “us”) take your privacy very seriously. Please read this Privacy Policy carefully to see how we will treat the personal information that you provide to us either when using our Site or in the circumstances when we collect data from you. We will take reasonable care to keep your information secure and to prevent any unauthorised access or use of it. 
+The ASA / BS (“ASA”, “BS”, “we”, “our”, “us”) take your privacy very seriously. Please read this Privacy Policy carefully to see how we will treat the personal information that you provide to us either when using our Site or in the circumstances when we collect data from you. We will take reasonable care to keep your information secure and to prevent any unauthorised access or use of it.
 
 We process all information in accordance with the applicable UK Data Protection Legislation. We may change this Privacy Policy from time to time and the change will take effect once the revised Privacy Policy is available on our homepage. Please refer to this Policy each time you submit your personal information.
 
