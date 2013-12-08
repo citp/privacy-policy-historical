@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemds.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606221807id_/http%3A//www.ratemds.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemds.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208183624id_/http%3A//www.ratemds.com/privacy.jsp) for the most accurate reproduction.*
 
 # RateMDs.com Privacy Policy
 
@@ -24,8 +24,7 @@
 
 ## Cookies
 
-  * RateMDs.com may set and access RateMDs.com cookies on your computer. 
-  * RateMDs.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to RateMDs.com's cookies.
+  * This website uses cookies and other tracking tools, placed either by us or our third party partners and providers, to feature ads relevant to you. This might happen on our own websites or on websites run by separate companies. These tracking tools will collect information on what parts of our websites interest you - in other words, your behavior or browsing history. We also work with outside partners who help us gather this information. These partners help us both on our websites as well as outside websites. You can opt out of having us collect and share this information by [clicking here](https://web.archive.org/web/20131208183624id_/http%3A//www.ratemds.com/collecting-opt-out.jsp). Please note that the choices you make are browser-specific. So, if you use a different browser, you will need to opt out again.
   * If you prefer, you can turn off cookies in your web browser by changing its security settings.
 
 
