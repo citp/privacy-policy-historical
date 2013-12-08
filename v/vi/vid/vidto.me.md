@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidto.me privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529220541id_/http%3A//vidto.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidto.me privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208190241id_/http%3A//vidto.me/privacy.html) for the most accurate reproduction.*
 
 # Vidto - Watch, publish, share videos
 
@@ -9,12 +9,11 @@ Thank you for visiting the Vidto website located at www.Vidto.me (the "Site"). T
 While on the Site, submitting an application to become a Member or utilizing the Services, we may collect "Personal Information" from you. For the purposes of this Privacy Policy, Personal Information shall mean individually identifiable information from or about an individual including, but not limited to, the individual's:   
 (a) e-mail address;   
 (b) Facebook ® account ID;   
-(c) credit card information or PayPal ® information (depending on your preferred means of payment); and/or   
+(c) credit card information (depending on your preferred means of payment); and/or   
 (d) any other information requested on the applicable registration form;   
 (e) uplaoded files.   
 For purposes of this Privacy Policy, items (b) and (c) in the preceding sentence shall be referred to as "Sensitive Information." This information is not to be shared with anyone, and to be used for internal purposes only.  
-**For purposes of this Privacy Policy, Facebook shall mean Facebook Inc. Please be advised that Vidto is not in any way affiliated with Facebook, and the Site and Services are neither endorsed, nor sponsored, by Facebook. Facebook® is a registered trademark of Facebook Inc.**   
-**For purposes of Privacy Policy, "PayPal" shall mean PayPal, Inc. Please be advised that Vidto is not in any way affiliated with PayPal, and the Site and Services are neither endorsed, nor sponsored, by PayPal. PayPal ® is a registered trademark of PayPal, Inc.**
+**For purposes of this Privacy Policy, Facebook shall mean Facebook Inc. Please be advised that Vidto is not in any way affiliated with Facebook, and the Site and Services are neither endorsed, nor sponsored, by Facebook. Facebook® is a registered trademark of Facebook Inc.**
 
   
 
