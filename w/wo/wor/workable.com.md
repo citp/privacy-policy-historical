@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workable.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503032202id_/http%3A//workable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workable.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208131427id_/http%3A//workable.com/privacy) for the most accurate reproduction.*
 
 # Workable - Privacy policy
 
@@ -39,6 +39,7 @@ In addition, our website uses cookies. A cookie is a small file of letters and n
 The cookies we use are "analytical" cookies. Some of the common uses for our cookies are as follows: 
 
   * to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our website works, for example by ensuring that users are finding what they are looking for easily. 
+  * to understand what visitors are interested in while using the site. Our advertising partner, AdRoll, then enables us to present visitors with retargeting advertising on other sites based on their previous interaction with the site. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. Visitors can visit this [page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising. 
   * to identify and authenticate a user across different pages of our Website, within our own Website, in a session or across different sessions. This is so that the user does not need to provide a password on every page the user visits; and 
   * to be able to retrieve a user’s previously stored data, for example, information that the user previously submitted to the Website, so as to facilitate reuse of this information by the user. 
 
