@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyknuckleheads.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026155109id_/http%3A//fantasyknuckleheads.com/subscribe/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyknuckleheads.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209001748id_/http%3A//fantasyknuckleheads.com/subscribe/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,11 +14,12 @@ We only collect personal information that is relevant to the purpose of our webs
 
 2\. Automatic Information:
 
-o We receive and store certain types of information whenever you interact with us. FantasyKnuckleheads.com and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, FantasyKnuckleheads.com cookie information, and the page you requested. FantasyKnuckleheads.com uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+  * We receive and store certain types of information whenever you interact with us. FantasyKnuckleheads.com and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, FantasyKnuckleheads.com cookie information, and the page you requested. FantasyKnuckleheads.com uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+  * As you browse FantasyKnuckleheads.com, advertising cookies will be placed on your computer so that we can understand what you are interested in.  Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with FantasyKnuckleheads.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.  You can visit this [page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising.
+  * FantasyKnuckleheads.com may collect and, on any page, display the total counts that page has been viewed.
+  * Many companies offer programs that help you to visit websites anonymously. While FantasyKnuckleheads.com will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
-o FantasyKnuckleheads.com may collect and, on any page, display the total counts that page has been viewed.
 
-o Many companies offer programs that help you to visit websites anonymously. While FantasyKnuckleheads.com will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
 E-mail Communications
 
@@ -60,4 +61,4 @@ If you decide to visit FantasyKnuckleheads.com website, your visit and any possi
 
 Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of 2/12/2010 and last updated 2/12/2010.
+This Privacy Policy is effective as of 2/12/2010 and last updated 8/19/2013.
