@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thearticletool.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421024115id_/http%3A//www.thearticletool.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearticletool.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208122005id_/http%3A//www.thearticletool.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Article Tool
 
