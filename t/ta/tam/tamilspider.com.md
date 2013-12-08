@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilspider.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602160912id_/http%3A//www.tamilspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilspider.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208032707id_/http%3A//www.tamilspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # TamilSpider.com privacy policy
 
@@ -48,6 +48,19 @@ We would request you please provide us as much information as possible to resolv
   
 | 
 
-**Awards & Gifts**  
+**Awards & Gifts**
+
+ **Active Members**  
+ _ **Today**_
+
+
+
+
+ _ **Last 7 Days**_
+
+
+
+
+[ more...](https://web.archive.org/members/TopPerformers.aspx)  
   
 ---|---|---
