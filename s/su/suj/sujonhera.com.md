@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sujonhera.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531092932id_/http%3A//sujonhera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sujonhera.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208180440id_/http%3A//sujonhera.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,7 +45,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 **Changes to this privacy policy**
 
@@ -57,16 +57,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://sujonhera.com/contact-us/ "contact us") at:  
-SUJONHERA  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+SUJON PAUL  
 <http://sujonhera.com/>  
 Rahshahi Medical College, Rajshahi, Bangladesh.  
-+8801723836976  
 SP49RMC@GMAIL.COM
-
-  * Bio
-  * Latest Posts
-
-
-
-[Sujon Paul](http://sujonhera.com/about-me/ "Sujon Paul") is an MBBS Student from Rajshahi Medical College, Bangladesh. He is 23 years old and originally from Pabna, Bangladesh. He loves blogging and helping people. He updates this website regularly with fresh contents. You can contact him from the links below his photo. Visit this website regularly for updated information. Thank you for visiting this website.
