@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mfl-center.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630104725id_/http%3A//survey.ondemandresearch.com/lch2.php%3Flk%3D5117%26bid%3D184%26sesp%3D516_23915) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfl-center.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208160429id_/http%3A//survey.ondemandresearch.com/lch2.php%3Flk%3D5117%26bid%3D184%26sesp%3D516_23915) for the most accurate reproduction.*
 
 # OnDemand Research: The Next Level of Market Research.com Privacy Policy
 
@@ -6,7 +6,7 @@ http://survey.ondemandresearch.com ****
 
 **Review Our Privacy Policy**
 
-Last Revised: March 15, 2010
+Last Revised: Oct 15, 2013
 
 Use the links below to navigate to specific information about our Privacy Policy.  
 ---  
@@ -40,7 +40,7 @@ Use the links below to navigate to specific information about our Privacy Policy
 
 **Our Privacy Commitment**
 
-**OnDemand Research: The Next Level of Market Research** (the "Site") is owned and operated by Sterling Interactive Marketing, Corp., a leading online customer loyalty and rewards company. We respect your privacy and our goal is to maintain your trust when handling your personal information. This document is intended to inform you, the end user, about how we handle information we process on behalf of our clients who use our lead generation and online marketing services (our "Clients"). 
+**OnDemand Research: The Next Level of Market Research** (the "Site") is owned and operated by OnPoint Communications, LLC., a leading online customer loyalty and rewards company. We respect your privacy and our goal is to maintain your trust when handling your personal information. This document is intended to inform you, the end user, about how we handle information we process on behalf of our clients who use our lead generation and online marketing services (our "Clients"). 
 
 By using this Site you are accepting the practices described in this Privacy Policy and you agree to adhere to the Terms and Conditions posted on the Site. If you do not agree with any terms, please do not use this Site or submit any personal information. 
 
@@ -67,7 +67,7 @@ If you email us through an email or Contact Us link on this Site, we ask you for
 
 We collect personally identifiable information about our **Subscribers** ,[1] based on: information gathered at the time of registration, Subscriber interaction and response to subsequent electronic mailings and web site use, information provided by our Clients and information appended from data aggregators. Information collected may include name, email address, postal address, gender, birth date, telephone number, cell number, activities, interests, user behavior and other demographic information. This information enables us to better tailor our content to Subscribers' needs and to help our Clients promote and sell their products and services.
 
-If you provide us with a cellphone or wireless device number, or email address, as part of your subscriber information, your provision of such information represents your agreement to be contacted on that device by email, text (SMS) message and telemarketing, and your receipt of notice that your wireless provider may charge you in connection with receipt of incoming calls or messages. You may revoke authorization to be contacted by such means at any time (see the **Opt-Out Policy** section below). You agree to receive prerecorded calls from our sponsors. You understand that one purpose of this agreement is to authorize our sponsors to place prerecorded calls to you. You also acknowledge that your agreement to these terms in the registration or subscription process constitutes your electronic signature or its equivalent. 
+If you provide us with a cellphone or wireless device number, or email address, as part of your subscriber information, your provision of such information represents your express written consent to be contacted on that device by email, text (SMS) message and telemarketing, and your receipt of notice that your wireless provider may charge you in connection with receipt of incoming calls or messages. You may revoke authorization to be contacted by such means at any time (see the **Opt-Out Policy** section below). You consent to receive prerecorded calls from our sponsors. You understand that one purpose of this agreement is to authorize our sponsors to place prerecorded calls to you. You also acknowledge that your agreement to these terms in the registration or subscription process constitutes your electronic signature or its equivalent. 
 
 ** Non-Personally Identifiable Information**
 
