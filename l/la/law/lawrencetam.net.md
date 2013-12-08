@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawrencetam.net privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609101729id_/http%3A//www.lawrencetam.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawrencetam.net privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209002656id_/http%3A//www.lawrencetam.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,5 +67,3 @@ These policies may be amended by us at any time and without notice, but will be 
 You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment.
 
 Effective Date: 11/8/2012
-
-> 
