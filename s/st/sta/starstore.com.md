@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starstore.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424015948id_/http%3A//www.starstore.com/shops/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starstore.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209000040id_/http%3A//www.starstore.com/shops/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
