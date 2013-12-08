@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsearchtoday.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423072318id_/http%3A//smartsearchtoday.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsearchtoday.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208125955id_/http%3A//smartsearchtoday.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Smartsearchtoday.com- Privacy Policy
 
