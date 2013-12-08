@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the youqueen.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609090832id_/http%3A//youqueen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youqueen.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208193344id_/http%3A//youqueen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YouQueen
 
-This Privacy Policy governs the manner in which Lukian Limited’s YouQueen.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.youqueen.com](http://www.youqueen.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Lukian Limited.
+This Privacy Policy governs the manner in which YOUQUEEN LIMITED’s YouQueen.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.youqueen.com](http://www.youqueen.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by YOUQUEEN LIMITED.
 
 **Personal identification information**
 
@@ -16,7 +16,7 @@ We may collect non-personal identification information about Users whenever they
 
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-You can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
+You can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **What is a “Cookie”?**
 
@@ -30,7 +30,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 **How we use collected information**
 
-Lukian Limited may collect and use Users personal information for the following purposes:
+YOUQUEEN LIMITED may collect and use Users personal information for the following purposes:
 
   * _To improve customer service_  Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * _To improve our Site  _We may use feedback you provide to improve our products and services.
@@ -63,7 +63,7 @@ Once you have used these links to leave our site, you should note that we do not
 
 **Changes to this privacy policy**
 
-Lukian Limited has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+YOUQUEEN LIMITED has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -98,7 +98,7 @@ Every effort is made to keep the website up and running smoothly. However, YouQu
 
 If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern YouQueen.com’s relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.
 
-The term ‘YouQueen.com’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office is Hong Kong, 505 Hennessey Road. Our company registration number is 1528364, Lukian Limited. The term ‘you’ refers to the user or viewer of our website.
+The term ‘YouQueen.com’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office is Hong Kong, 168 SAI YEUNG CHOI ST. Our company registration number is 1931281, YOUQUEEN LIMITED. The term ‘you’ refers to the user or viewer of our website.
 
 The use of this website is subject to the following terms of use:
 
@@ -117,12 +117,14 @@ The use of this website is subject to the following terms of use:
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[Lukian Limited](http://www.youqueen.com/)
+contact@youqueen.com
 
 [http://www.youqueen.com](http://www.youqueen.com/)
 
-Lukian Limited LLC 15/F Radio City 505 Hennessy RD Causeway Bay Hong Kong
+YOUQUEEN LIMITED  RM 2304, 168 SAI YEUNG CHOI ST,  SOUTH MONGKOK
+
+HONG KONG
 
 contact@youqueen.com
 
-This document was last updated on April 29, 2013
+This document was last updated on 15 October 2013
