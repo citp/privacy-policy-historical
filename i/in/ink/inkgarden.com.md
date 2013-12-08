@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inkgarden.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607201619id_/http%3A//www.inkgarden.com/Content.aspx%3FPage%3DPrivacy%2BPolicy%26PK%3Db53baa0c-0d18-475c-badd-01a19bc5eaeb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkgarden.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208151213id_/http%3A//www.inkgarden.com/Content.aspx%3FPage%3DPrivacy%2BPolicy%26PK%3Db53baa0c-0d18-475c-badd-01a19bc5eaeb) for the most accurate reproduction.*
 
-# InkGarden - Take Customization To The Next Level - InkGarden.com Privacy Policy
+# Stylish Designs You Customize - InkGarden.com Privacy Policy
 
 InkGarden.com recognizes and respects your privacy. This Privacy Policy describes how InkGarden.com uses identifiable information regarding InkGarden.com customers, such as name, address, email address, or credit card number ( **"Customer Information"** ). Primarily, we collect such information for the purpose of providing you with an outstanding experience on the InkGarden.com website.
 
