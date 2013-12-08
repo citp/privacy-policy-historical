@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juiceplus.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614085922id_/http%3A//www.juiceplus.com/content/JuicePlus/en/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juiceplus.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208083119id_/http%3A//www.juiceplus.com/content/JuicePlus/en/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
