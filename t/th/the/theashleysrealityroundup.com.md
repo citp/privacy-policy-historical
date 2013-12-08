@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theashleysrealityroundup.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529195404id_/http%3A//theashleysrealityroundup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theashleysrealityroundup.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208165307id_/http%3A//theashleysrealityroundup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
