@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiacollegesearch.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530111147id_/http%3A//www.indiacollegesearch.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiacollegesearch.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208020114id_/http%3A//www.indiacollegesearch.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - India College Search
 
@@ -39,3 +39,7 @@ The terms of this privacy policy are subject to change from time to time without
 
   
  
+
+### Security
+
+The security of your personal information is important to us. When you enter your personal information we treat the data as an asset that must be protected and use tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure, therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security nor can we guarantee that third parties shall not unlawfully intercept or access transmissions or private communications, and that other users may abuse or misuse your personal information that you provide. Therefore, although we work hard to protect your information, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
