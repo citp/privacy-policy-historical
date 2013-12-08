@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunflowermarkets.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620201633id_/http%3A//sprouts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunflowermarkets.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208052026id_/http%3A//sprouts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sprouts Farmers Market
 
