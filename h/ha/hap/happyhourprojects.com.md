@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happyhourprojects.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608201738id_/http%3A//happyhourprojects.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyhourprojects.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208044915id_/http%3A//happyhourprojects.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -49,11 +49,11 @@ Notice Regarding Online Behavioral Advertising
 
 **  
 ** We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These  
-companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
+companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices/).
 
 Google Adsense
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://www.google.com/policies/privacy/ads/)
 
 **Changes to this privacy policy**
 
