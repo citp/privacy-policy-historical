@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solareworld.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616103912id_/http%3A//www.solareworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solareworld.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208183537id_/http%3A//www.solareworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Solar Energy World | MD, DC, NJ
+# Privacy Policy, Solar Energy World
 
 We value your privacy! Solar Energy World will never give, lease, sell or otherwise disclose your personal information. Any information you have submitted to Solar Energy World, LLC will be held with the utmost care, and will not be used in ways to which you have not consented. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions at all about our privacy policy, please email us at info@solareworld.com.
 
@@ -15,3 +15,19 @@ Solar Energy World, LLC analyzes website traffic and server logs to improve the 
 ## Submitted Personal Information
 
 We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, we configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized Solar Energy World, LLC staff, including other list subscribers.
+
+## Get Started with a  
+FREE Solar Analysis
+
+_*Indicates a required field_
+
+## [](http://www.solareworld.com/the-sun-report/)
+
+### Solar Cell Efficiency Round-Up: Silicon, CIGS, and Sonics
+
+James Montgomery, Associate Editor, RenewableEnergyWorld.com December 03, 2013 New Hampshire, USA — During the past few weeks we’ve been tracking some announcements about solar cell efficiency improvements, both for silicon and thin-film PV. While research continues to push both traditional[Read More >](http://www.solareworld.com/2013/12/05/solar-cell-efficiency-round-silicon-cigs-sonics/)
+
+## [ Hear from Our Customers >](http://www.solareworld.com/customer-testimonials/)
+
+  
+
