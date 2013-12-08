@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soft4boost.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611004938id_/http%3A//soft4boost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft4boost.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208192724id_/http%3A//soft4boost.com/privacy) for the most accurate reproduction.*
 
 # Soft4Boost - Privacy
 
-Soft4Boost.com respects the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains Soft4Boost.com treatment of your personally identifiable information collected in connection with your activities on the Soft4Boost .com web site.
+[Soft4Boost.com](https://web.archive.org/) respects the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains Soft4Boost.com treatment of your personally identifiable information collected in connection with your activities on the Soft4Boost.com web site.
 
 ## 1\. COLLECTION OF YOUR PERSONAL INFORMATION
 
@@ -23,7 +23,7 @@ If you make a purchase from the Web Site, you will be asked to provide your name
 
 
 
-We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our service agreements or terms of use (for example protect our intellectual property rights), and your compliance with the applicable End User License Agreement(s) contained within the Soft4Boost software. We may also disclose or use your personal information when we, in good faith, believe that the applicable law may require us to do so. The information you provide will not be used for any other commercial purposes and will not be sold, rented, leased or otherwise forwarded to any third party with the exception of our sales processors, who will process your orders and distribute the goods or services that you have requested.
+We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our service agreements or terms of use (for example protect our intellectual property rights), and your compliance with the applicable End User License Agreement(s) contained within the [Soft4Boost](https://web.archive.org/); software. We may also disclose or use your personal information when we, in good faith, believe that the applicable law may require us to do so. The information you provide will not be used for any other commercial purposes and will not be sold, rented, leased or otherwise forwarded to any third party with the exception of our sales processors, who will process your orders and distribute the goods or services that you have requested.
 
 ## 3\. THE USE OF COOKIES
 
@@ -31,7 +31,7 @@ Our websites does use "cookies" for the sole purpose of tracking affiliate refer
 
 ## 4\. LINKS TO OTHER SITES
 
-The Web Site may contain links to other web sites. Soft4Boost.com does not monitor or control the content of such web sites or whether such web sites collect or process your personal data. Accordingly, Soft4Boost.com assumes no responsibility or liability whatsoever for any kind of material available at such sites and recommends that you review the separate privacy policies of such sites.
+The Web Site may contain links to other web sites. [Soft4Boost.com](https://web.archive.org/) does not monitor or control the content of such web sites or whether such web sites collect or process your personal data. Accordingly, Soft4Boost.com assumes no responsibility or liability whatsoever for any kind of material available at such sites and recommends that you review the separate privacy policies of such sites.
 
 ## 5\. CHANGES TO THIS POLICY
 
@@ -39,4 +39,4 @@ Soft4Boost.com may occasionally update this Privacy Policy. Any changes will be 
 
 ## 6\. CONTACT INFORMATION
 
-For questions regarding this Privacy Policy please Contact us.
+For questions regarding this Privacy Policy please [Contact us](https://web.archive.org/contact-us).
