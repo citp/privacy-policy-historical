@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficplanet.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505205819id_/http%3A//trafficplanet.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficplanet.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208101931id_/http%3A//trafficplanet.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Traffic Planet
 
