@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moreintelligentlife.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622191022id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreintelligentlife.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208210318id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy) for the most accurate reproduction.*
 
 # Privacy | Economist Group
 
