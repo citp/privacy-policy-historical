@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ama.ab.ca privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525042005id_/http%3A//www.ama.ab.ca/general/ama-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ama.ab.ca privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208035637id_/http%3A//www.ama.ab.ca/general/ama-privacy-policy) for the most accurate reproduction.*
 
 # Alberta Motor Association privacy policy
 
