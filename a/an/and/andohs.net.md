@@ -1,45 +1,43 @@
-> *The following text is extracted and transformed from the andohs.net privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524182757id_/http%3A//andomedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andohs.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208015808id_/http%3A//www.tritondigital.com/privacy-policy) for the most accurate reproduction.*
 
-# Ando Media - We respect your privacy
+# Triton Digital - Privacy Policy
 
-Privacy Policy  
+This Privacy Policy sets out the manner in which Triton Media Group, LLC (“ **Triton Digital** ”, “ **we** ”, “ **us** ”, “ **our** ”) collect, use, disclose and otherwise manage personal information of visitors of tritondigital.com (the " **Site** "). This policy does not apply to the use of our streaming and digital advertising software and services.
 
+Please note that our privacy policy has changed. To access the most current version of our privacy policy, [click here](https://web.archive.org/privacy-policy-advertising-platform). This policy also does not apply to the audience management services. Please read it carefully. We also invite you to review our Terms of Use.
 
-* * *
+Because we are committed to respect the privacy of our users and because the success of the Site is dependent on building and maintaining goodwill with our users, we are committed to implementing measures designed to respect and protect your privacy. Moreover, we see it as our responsibility to set an example, and to help establish standards for privacy on the Internet.
 
-This is the web site of **Ando Media, LLC**.  
+Triton reviews its privacy practices from time to time. If we decide to change our Privacy Policy, we will post those changes on our Site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. To contact us about privacy issues, to report a violation of our Privacy Policy, or to raise any other issue, please e-mail us at: [privacy@tritondigital.com](mailto:privacy@tritondigital.com).
 
+## The Personal Information We Collect
 
-Our postal address is   
-**One Adams Place  
-859 Willard St. Suite 503  
-Quincy, MA 02169  
-**
+You may visit our Site without providing any of your personal information to us. At this time, the only personal information that we collect through our Site is personal information that you voluntarily provide to us through the "Contact" portion of the Site. The information collected through the "Contact" portion of the Site consists in the name, e-mail address, and any comment you wish to add.
 
-We can be reached via email at [support@andomedia.com](mailto:support@andomedia.com)  
-or you can reach us by telephone at 877-801-2636   
+We may also automatically collect general anonymous information related to your use of our Site, such as the date and time you visit the Site and the pages you visit on the Site. Our servers may also automatically collect information about the type of browser you use and the name of your Internet Service Provider. In addition, we may collect "cookie" information from your browser to identify your computer and provide us with a record of your visits to our Site (Collectively, the foregoing is referred to as "Usage Data"). The technology is used to gather "cookie" information that is provided by the Internet browser you use, and is stored on your computer.
 
+## How We Use (and Do Not Use) the Personal Information
 
-For each visitor to our web page, our web server automatically recognizes the consumer's domain name and email address (where possible).
+Any personal information you provide to us when you send us an email is used solely to identify who you are and to respond to the purpose for which you submitted the message. We use Usage Data for the purposes of monitoring and improving the use and features of the Website.
 
-We collect information volunteered by the consumer, such as survey information and/or site registrations.
+## Third-Party Links
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our web page, used to customize the content and/or layout of our page for each individual visitor, used by us to contact consumers for marketing purposes.
+The Site contains links to other Internet web sites, which may include co-branded or other affiliated sites. These linked sites have separate and independent privacy policies which we recommend you read carefully. We have no control over such sites and therefore have no responsibility or liability for the manner in which the organizations who operate such linked sites may collect, use, disclose or otherwise treat your personal information.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record past activity at a site in order to provide better service when visitors return to our site.
+Nevertheless, in the event you encounter any third party associated with the Site (or who claims association with the Site) who you feel is improperly collecting or using information about you, please contact [privacy@tritondigital.com](mailto:privacy@tritondigital.com) and we will be happy to forward your message to the third party.
 
-If you do not want to receive email from us in the future, please let us know by sending us email at the above address, calling us at the above telephone number, writing to us at the above address.
+## Security of Personal Information
 
-Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders they have placed online.
+We will maintain your personal information in secure data storage to safeguard it from unauthorized access, use or disclosure. We will maintain the strict confidentiality of all personal information collected, and will only disclose such information on a confidential basis to employees and third-party contractors of Triton Digital who require such information for the purposes set out above. We will only keep your personal information for as long as it remains necessary or relevant for the purposes stated above or as otherwise required by law.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
+Notwithstanding the foregoing, you should be aware that, unfortunately, no data transmission over the Internet can be guaranteed to be secure. As a result, Triton Digital does not represent, warrant or guarantee that personal information will be protected against loss, misuse or alteration and does not accept any liability for personal information submitted by you, nor for your or third parties’ use or misuse of personal information.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+## Changing or deleting personal information
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our web site periodically.
+If you would like to have your personally identifiable information removed from the Site's database, please contact us at [privacy@tritondigital.com](mailto:privacy@tritondigital.com) and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within the Site's databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however, we reserve the right, from time to time, to re-contact former TritonDigital.com users.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by emailing us at the above address, calling us at the above telephone number, writing to us at the above address.
+## Questions?
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.  
-  
+Questions regarding our Privacy Policy should be directed to [legal@tritondigital.com](mailto:legal@tritondigital.com).
 
+Updated July 22, 2011
