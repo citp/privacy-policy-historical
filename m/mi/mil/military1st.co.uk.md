@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military1st.co.uk privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608000234id_/http%3A//www.military1st.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military1st.co.uk privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208130936id_/http%3A//www.military1st.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
