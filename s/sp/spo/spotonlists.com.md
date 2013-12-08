@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotonlists.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529213854id_/http%3A//spotonlists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotonlists.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208054927id_/http%3A//spotonlists.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spot On Lists
 
