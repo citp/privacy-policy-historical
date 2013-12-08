@@ -1,20 +1,14 @@
-> *The following text is extracted and transformed from the wildnettechnologies.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515152952id_/http%3A//www.wildnettechnologies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildnettechnologies.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208071255id_/http%3A//www.wildnettechnologies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Wildnet Privacy Policy: SEO Privacy Policy, Web Design and Development Privacy Policy
 
- Great service, professional SEO using white hat methods. What more can you ask for! The team worked hard to get excellent results. They definitely were the right choice for SEO work.
-
-\-- Connell
-
-** Customer Rating : ** ** 9.6/ 10 **   ** Based on 168 ratings **
-
 ## Website privacy
 
-This privacy policy sets out how [business name] uses and protects any information that you give [business name] when you use this website.
+This privacy policy sets out how Wildnet Technologies uses and protects any information that you give Wildnet Technologies when you use this website.
 
-[business name] is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Wildnet Technologies is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-[business name] may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [date].
+Wildnet Technologies may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 **What we collect**
 
