@@ -1,620 +1,252 @@
-> *The following text is extracted and transformed from the dealtime.com privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316094819id_/http%3A//www.shopping.com/sc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealtime.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208012117id_/http%3A//www.ebaycommercenetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# Shopping.com - Shopping made simple
+# eBay Commerce Network - Privacy Policy
 
-July 2, 2012 
+#### eBay Commerce Network Privacy Policy
 
-On July 2, 2012, the Privacy Policy for shopping.com was updated. Please take a few minutes and review the revised policy. If you have any questions, please contact [Customer Support](https://web.archive.org/sc/contact-us).
+### Your Privacy Rights
 
-### Your Privacy
+This Privacy Policy (“Policy”) describes your privacy rights regarding our collection, use, storage, sharing, and protection of your personal information.  It governs your participation on the eBayCommerce.com, Shopping.com, Epinions.com, DealTime.com, and PriceTool.com websites (including the versions of these sites in foreign jurisdictions), their sister sites, and all co-branded versions of these sites or any successor brand that eBay may designate from time to time in its discretion (in the United States or foreign jurisdictions), which are referred to collectively as the “eBay Commerce Network” or “ECN,” along with their related sites, applications, services, and tools, regardless of how you access or use them, including through mobile devices.
 
-The websites in the Shopping.com Network - Shopping.com, Epinions.com, DealTime.com and PriceTool.com - are brought to you by Shopping.com, Inc., an eBay company. This Privacy Policy tells you how Shopping.com collects, uses and protects your information on the Shopping.com Network and in other locations online where you interact with Shopping.com content or services.
+You accept this Privacy Policy when you sign up for, access, or use our products, services, content, features, technologies, or functions offered on our websites and all related sites, applications, and services (collectively “eBay Commerce Network Services”).
 
-By using the Shopping.com Network, you agree to the terms and conditions of the User Agreement, including this Privacy Policy, and you consent to Shopping.com's privacy practices. This includes the use and disclosure of any personal information you have shared with us and its transfer to and storage on our servers in the United States and elsewhere in the world where we have facilities.
+We may amend this Privacy Policy at any time by posting the amended terms on this site.  Any such amendment shall take effect when such amendment is sent by email or posted on the eBay Commerce Network.  Throughout this Privacy Policy, we use the term “personal information” to describe information that can be associated with a specific person and could be used to identify that person.  We do not consider personal information to include information that has been made anonymous or aggregated so that it can no longer be used, whether in combination with other information or otherwise, to identify a specific person.
 
-Binding Corporate Rules
+### Contents & Summary
 
-In addition to the privacy practices set out in this Privacy Policy, eBay Inc., the parent of shopping.com, has established a set of Corporate Rules (also referred to as Binding Corporate Rules), approved by a number of European Union privacy regulators. These Corporate Rules are a commitment by eBay Inc. to adequately protect your personal information regardless of where the data resides, and depending upon your location, may provide additional privacy rights through your privacy regulator or a court. If you would like additional information regarding the Corporate Rules contact us via the contact details below.
+A table summarizing the contents of this Policy appears below, followed by the Policy in full.  Should there be any discrepancy between the table and the full Policy, the language of the full Policy shall govern.
 
-### Collection
+Scope and Consent
 
-You can browse the Shopping.com Network without telling us who you are or revealing any personal information about yourself. Certain features and services on the Shopping.com Network require that you register or supply some information that allows us to identify you. We collect some information automatically from your computer while you browse our sites, such as where you go on the Shopping.com Network and what you do there. We collect your IP address, computer and connection information, browser type and version, operating system and platform, the URLs you come from and go to next, and a cookie number.
+| 
 
-When you register on one of the sites in the Shopping.com Network, we collect and store your e-mail address and a password. When you participate in some of the Shopping.com Network services, you may also choose to provide the following personal information:  
-
-
-  * Profile information, including first and last name, member or user name and location
-  * Contact information, including email address, mailing address and phone number 
-  * Product information, including the ratings, reviews, tags, comments and other content you post, and the items in your wish lists 
-  * Other information that allows us to personalize your Shopping.com Network experience - for example, your filter and profile preferences
-
-
-
-We may get additional information from or about you in other ways not specifically described here. For example, you might contact Community Care or customer support or respond to a survey, or we might get a third-party complaint about you.  
-
-
-**Co-Branded Services.** You'll sometimes see Shopping.com content on other websites, labeled "Powered by Shopping.com." For example, we syndicate our Shopping.com listings for use on other companies' websites. These listings appear with another company's logo at the top of the page. When you browse these syndicated listings, you are subject to that company's privacy policy, and Shopping.com does not collect any personal information about you or receive any personal information from these other companies.
-
-You may also interact with our product review services on websites operated by other companies. When you submit reviews or other content using our product review services, the information we collect is subject to our policies. We clearly label our product review services with the Shopping.com Privacy Policy and User Agreement.  
-
-
-### Marketing
-
-We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and advertising. If you don't wish to receive marketing communications from us or participate in our ad-customization programs, simply indicate your preference in your shopping.com account or by following the directions provided with the communication or advertisement.
-
-### Use
-
-We use the information we collect to:   
-
-
-  * operate the Shopping.com Network
-  * provide you with information and services you request 
-  * customize content, advertising, and your experience on the Shopping.com Network
-  * communicate with you about your orders, service updates and other administrative issues 
-  * deliver to our members targeted marketing and promotional offers, based on their communications preferences
-  * measure and improve our sites and services 
-  * resolve disputes, address complaints and troubleshoot technical problems 
-  * analyze site and user behavior and prepare aggregated reports 
-  * tell you about our services and those of our corporate family
-
-
-
-### Sharing and Disclosure
-
-**Other eBay Companies.** We may share information with members of the eBay Inc. corporate family-like eBay or PayPal -to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you've requested their services.
-
-**Service Providers.** We may share your information with service providers under contract who help with our business operations (such as maintaining the Shopping.com Network and providing related services).
-
-**Special Offers.** On the Shopping.com Network, you may have opportunities to express interest in or register for third-party products and services. If you do, we will provide information about you to the third party to implement your request.
-
-**Feedback.** We may use survey results for our internal development and market research and share the results with our affiliates, consultants, vendors and service providers.
-
-**Assets.** As our business evolves, Shopping.com may sell, transfer or otherwise share some or all of its assets in connection with a merger, reorganization or sale of assets, or in the event of bankruptcy. In such an event, personal information may be one of the assets transferred.
-
-**Other Disclosures.** We may disclose information when permitted by law or under the good-faith belief that such disclosure is necessary under applicable law; to comply with legal process served on Shopping.com; to protect the property or interests of Shopping.com, its agents and employees; or to protect personal safety or the public.
-
-### Public Content
-
-Some portions of the Shopping.com Network allow you to contribute ratings, reviews, tags, comments, and other content, either on one of our websites or via our product review services on other websites. This content may be displayed publicly on the Shopping.com Network and elsewhere on the web. The reviews and comments you publish may be displayed with your member or user name. Registered members can unpublish reviews by logging in to their accounts; reviews submitted through our product review services may not be unpublished. For some of our features, other members may be able to request email notifications of your new public content or publish their own comments to your reviews. You can also choose to make your wish lists public, but they are private by default.
-
-We may use the public content to develop aggregate ratings, personalize site views, market products or identify or feature popular members. For example, we may promote most popular or highest-earning reviews and members. While we don't expect to transfer the complete review rating and web of trust database to others (except as discussed in this policy), we use the database throughout our network and to generate results for others.
-
-### E-mail Communications
-
-**Choice/Opt-Out.** At any time, you have the ability to opt out of receiving marketing communications (including customized ads) from the Shopping.com Network, but you may not opt out of administrative emails (for example, emails about your transactions or policy changes) while you are a member of the Shopping.com Network. You can opt out by either changing your preferences or following the directions provided with the communications or advertisements.
-
-**Email Tools.** If you send emails to a recipient through our site, they will receive your email address and any personal message you include. Although we do not retain in any easily retrievable way the addresses you email, these emails are not private communications. You may not use our email tools to send spam or content that violates the User Agreement.
-
-**Anti-Spam Policy.** Shopping.com does not tolerate spam. We do not send emails to anyone without permission, and we do not sell or rent email addresses to any unauthorized third party. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact our [Privacy Department](https://web.archive.org/sc/contact-us) and we will investigate.
-
-### Cookies and Web Beacons
-
-**Shopping.com's Cookies.** Shopping.com, other members of our corporate family who provide us with joint services, and our service providers will sometimes place anonymous cookies or web beacons on your computer when you visit our sites or our co-branded sites. We use these cookies and web beacons to recognize returning users, measure traffic, tack conversion and activity on the sites, monitor and improve our services and protect against fraud. We also use cookies to customize services, content, advertising, and promotional offers.
-
-You can block cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent us from delivering certain services to you. Your browser must be set to accept cookies in order to access the Shopping.com Network as a registered member.
-
-**Our Advertisers's Cookies.** We use the services of third-party advertising companies, who may place cookies that allow them to collect from you and use anonymous information about your visits to the Shopping.com Network. For more about their practices and your options regarding their information collection and use, click here. 
-
-### Accessing, Reviewing and Changing Your Personal Information
-
-Registered members can review and change personal information by accessing the Member page on Shopping.com or [Epinions](http://www.epinions.com/myaccount.html). You should promptly update your personal information if it changes or becomes inaccurate. You can close your Shopping.com account by contacting [Customer Support](https://web.archive.org/sc/contact-us) or your Epinions account by clicking [here](http://www.epinions.com/help/faq/?show=faq_changing#006). We may retain some information from closed accounts so that we can comply with law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our User Agreement and take other actions otherwise permitted by law. If your account or membership is terminated or suspended, we may maintain some information to prevent re-registration.
-
-### Links to Other Sites
-
-The Shopping.com Network contains links to other websites. Shopping.com is not responsible for the privacy practices or the content of these sites. If you have concerns about how other websites collect and use information about you, make sure to read that site's own privacy policy.
-
-### Security
-
-Shopping.com uses physical, electronic and administrative safeguards, including advanced firewall and password protection for our databases, designed to protect the security of information. We restrict access to your personal information to employees that need to know that information in order to operate, develop or improve our services. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
-
-### General
-
-We may change this policy from time to time, and we will post the amended terms on the Shopping.com Network. All amended terms will take effect immediately for new users, and 30 days after they are posted for existing users.
-
-If you have any questions about this privacy policy or the practices of the Shopping.com Network, you may e-mail our [Privacy Department](https://web.archive.org/sc/contact-us) or contact:
-
-Shopping.com, Inc.  
-Attn: Customer Support/Privacy  
-8000 Marina Boulevard  
-Fifth Floor  
-Brisbane, CA 94005  
-U.S.A.
-
-### Cookies, web beacons, and your privacy
-
-We use cookies, web beacons, and related tools from third parties to provide features and services that improve your buying and selling experience. To help protect your privacy, we limit how these tools can be used on shopping.com.
-
-### How shopping.com uses cookies and web beacons
-
-"Cookies" are small files placed on the hard drive of your computer. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive once you sign out from shopping.com or close your web browser.
-
-We use cookies to provide features and services, such as:  
-
-
-  * Promoting and enforcing trust and safety
-  * Allowing you to enter your password less frequently
-  * Remembering your preferences
-  * Presenting information that's targeted to your interests
-  * Measuring the effectiveness of our sites, services, content, and advertising
-  * Facilitating conversation threads and other services on discussion boards (these cookies are placed by our board service providers)
-  * Providing other services and features that are available only through the use of cookies
-
-
-
-A "web beacon" is an electronic image placed in the code of a web page. We use web beacons to monitor the traffic patterns of users from one shopping.com page to another and to improve site performance.
-
-### Your choices about cookies
-
-We offer certain features that are available only through the use of cookies. You are always free to decline cookies if your web browser permits. However, if you decline cookies, you may not be able to use certain shopping.com features, and you may be required to reenter your password more frequently during a session. Learn how to [manage your cookies](http://pages.ebay.com/help/account/cookies.html).
-
-We use Flash cookies, which are cookies written with Flash technology, to help ensure that your account security is not compromised and to spot irregularities in behavior to prevent your account from being fraudulently taken over.
-
-### Use of cookies and web beacons by third parties
-
-We may work with other companies who place cookies or web beacons on our websites. These companies help operate our websites and provide you with additional products and services. They are subject to confidentiality agreements with shopping.com and other legal restrictions. shopping.com does not permit any of these companies to collect personal information using cookies or web beacons on our websites.
-
-DoubleClick is our service provider who may use cookies to help us deliver our own content and compile anonymous site metrics and analytics. We require these companies to use the information they collect only to provide us with these services under contract.
-
-We participate in cookie-based ad networks and exchanges operated by Fetch Back and Revenue Science. Although these companies use some anonymous information about you to display ads, we don't permit these companies to collect any personal information about you. FetchBack and Revenue Science use cookies to collect anonymous information, which may be used to tailor the advertising you see on the shopping.com sites or elsewhere on the web. Click these links to learn more about [FetchBack](http://www.fetchback.com/privacy.html) and [Audience Science](http://www.audiencescience.com/privacy.asp)'s business practices and privacy policies, including how to decline participation in these programs.
-
-We don't permit third-party content on shopping.com (such as item listings) to include cookies or web beacons. If you believe a listing might be collecting personal information or using cookies, please report it to [Customer Support](https://web.archive.org/sc/contact-us).
-
-## Datenschutzerklärung
-
-Stand: 02.07.2012 
-
-Diese Datenschutzerklärung wurde zuletzt am 02.07.2012 aktualisiert. Bitte nehmen Sie sich ein paar Minuten Zeit, um die veränderten Bestimmungen zu lesen. Falls Sie irgendwelche Fragen haben, oder mit den Veränderungen nicht einverstanden sind, kontaktieren Sie bitte den Kundenservice.
-
-Die deutschsprachigen Websites [www.de.shopping.com](http://www.de.shopping.com/) gehören und werden betrieben von der Shopping.com, Inc. 8000 Marina Boulevard, Fifth Floor, Brisbane, CA 94005 USA, ein zur eBay-Gruppe gehörendes Unternehmen. Der Zweck dieser Datenschutzerklärung ist es Ihnen zu erklären, wie wir und andere Mitglieder der eBay-Gruppe Ihre personenbezogenen Daten nutzen und, soweit erforderlich, Ihre Zustimmung für bestimmte Nutzungen einzuholen.
-
-Shopping.com erhebt, verarbeitet und nutzt Ihre Daten gemäß den geltenden datenschutzrechtlichen Bestimmungen. Verantwortliche Stelle für die Einhaltung der datenschutzrechtlichen Bestimmungen bei der Erhebung, Verarbeitung und Nutzung Ihrer personenbezogenen Daten ist die Shopping Epinions International Limited. Der Firmensitz von Shopping Epinions International Limited ist Irland. Nach § 1 Abs. 5 Bundesdatenschutzgesetz richtet sich daher der Umgang mit Ihren personenbezogenen Daten nach irischem Datenschutzrecht. 
-
-Shopping.com ist überzeugt, dass Vertrauen eine Grundvoraussetzung für die Serviceleistungen ist, die wir unseren Kunden bieten. Damit wir Ihr Vertrauen auf Dauer verdienen, bemühen wir von Shopping.com uns nach Kräften um den Schutz Ihrer Daten und die Vertraulichkeit Ihrer persönlichen Angaben. 
-
-Diese Datenschutzbestimmungen sind Bestandteil der [Allgemeinen Nutzungsbedingungen](https://web.archive.org/sc/terms-of-service) von Shopping.com. Durch Nutzung der Website erklären Sie sich mit den Allgemeinen Nutzungsbedingungen, einschließlich dieser Datenschutzbestimmungen, einverstanden. **Gleichzeitig stimmen Sie durch Ihre Nutzung der Website unserer Handhabung personenbezogenener Daten zu, wie sie in dieser Datenschutzerklärung beschrieben ist, darunter auch der Nutzung und Weitergabe von personenbezogenen Daten, die Sie uns überlassen haben.**
-
-### Verbindliche Unternehmensregeln (Binding Corporate Rules)
-
-Neben den in dieser Datenschutzerklärung genannten Datenschutzgrundsätzen hat eBay Inc., die Muttergesellschaft von Shopping.com, für die eBay-Unternehmensgruppe Unternehmensregeln (sogenannte [Binding Corporate Rules](http://pages.ebay.de/help/policies/binding-corporate-rules.html)) aufgestellt, die von einer Reihe von Datenschutzbehörden in der Europäischen Union anerkannt wurden. Mit diesen Unternehmensregeln verpflichtet sich eBay Inc., Ihre personenbezogenen Daten unabhängig von deren Speicherort angemessen zu schützen. Abhängig von Ihrem Sitz oder Wohnsitz können sich aus diesen Unternehmensregeln über Ihre zuständige Aufsichtsbehörde oder ein Gericht weitere Datenschutzrechte ergeben. Wenn Sie mehr zu unseren Unternehmensregeln wissen oder uns kontaktieren möchten, finden Sie unten die entsprechenden Kontaktinformationen. 
-
-### Minderjährige
-
-Die Website ist weder auf Minderjährige oder Personen die nicht unbeschränkt geschäftsfähig sind zugeschnitten noch für deren Nutzung gedacht. Mit Ihrer Nutzung der Website erklären Sie, dass Sie volljährig und unbeschränkt geschäftsfähig sind. Wir behalten uns vor, den Zugriff auf die Website zu beenden, wenn Shopping.com davon Kenntnis erlangt, dass Sie minderjährig oder nicht voll geschäftsfähig sind. Minderjährige sollen uns keine Daten überlassen, die Rückschlüsse auf ihre Person zulassen; sollten wir daher feststellen, dass wir versehentlich solche Daten erfasst haben, unternehmen wir geeignete Schritte zu deren Löschung. 
-
-### Welche Daten erfassen wir?
-
-**Daten, die Sie uns überlassen.** Voraussetzung für die Nutzung bestimmter Funktionen und Serviceleistungen auf der Website ist möglicherweise, dass Sie sich registrieren lassen und persönliche Angaben machen, zum Beispiel Ihren Namen, E-Mail-Adresse, Telefonnummer und andere Angaben, die von Shopping.com gespeichert werden. Wir können auch weitere Angaben von Ihnen erfassen, um Ihnen konkret auf Sie zugeschnittene Serviceleistungen anbieten und Ihre Besuche auf unserer Website nach Ihren persönlichen Bedürfnissen und Vorlieben gestalten zu können. 
-
-### Daten, die automatisch erfasst werden.
-
-Unsere Website arbeitet mit “Cookies” zur automatischen Erkennung von Nutzern, die unsere Website wiederholt nutzen. Ein Cookie ist eine Mini-Datei auf Ihrer Festplatte, die uns erlaubt, Ihre in der Vergangenheit festgelegten Suchkriterien anzuzeigen und Ihnen bei Ihren Besuchen auf unseren Website Hinweise zu geben, die Sie interessieren dürften. “Clear gifs” sind kleine Grafiken mit eindeutiger Kennzeichnung. Sie funktionieren ähnlich wie Cookies und helfen uns, die Online-Bewegungen von Webnutzern zu verfolgen oder festzustellen, ob Sie eine E-Mail-Nachricht, die Sie von erhalten haben, bereits geöffnet haben.
-
-Ihr Internet-Service-Provider weist Ihrem Computer, wenn Sie das Internet nutzen, eine IP-Adresse zu. Wir erfassen alle IP-Adressen, die auf unsere Website zugreifen. Außerdem erfassen wir Angaben zu Rechner und Verbindung, zum Beispiel Browser-Typ und Version, Betriebssystem und Plattform, Ihr Verhalten auf der Website und Ihre Reaktion auf dort angebotene Serviceleistungen, zum Beispiel die Produkte und Anbieter, die Sie betrachten oder suchen, sowie die URL, von der Sie kommen und die Sie als nächstes aufsuchen, Cookie-Nummer, Anbieter und Hersteller, die Sie besuchen, und Artikel, die Sie kaufen. Wir nutzen diese und andere Daten in unseren Datenbanken, um Website und Nutzerverhalten analysieren, technische Probleme beseitigen, Streitigkeiten und Reklamationen lösen und zusammenfassende Berichte erstellen zu können, die wir an Dritte weitergeben und nutzen, um künftige Besuche auf unserer Website individuell anzupassen. 
-
-Wenn Sie die Einstellungen auf Ihrem Browser verändern, können Sie Cookies blockieren (Ihr Internet-Service-Provider hilft Ihnen da sicher weiter), doch laufen Sie dabei Gefahr, bestimmte Serviceleistungen einzubüßen (z. B. können Suchergebnisse dann nicht gespeichert werden). Wenn Sie als registriertes Mitglied auf die Website zugreifen möchten, muss Ihr Browser so eingestellt sein, dass er Cookies akzeptiert. 
-
-Wir arbeiten mit unabhängigen Werbetreibenden zusammen, die Cookies platzieren können, die es ihnen erlauben, anonyme Daten über Ihre Besuche auf Shopping.com zu sammeln und zu nutzen. Falls Sie mehr über das Vorgehen der Werbetreibenden, sowie über Ihre Optionen bezüglich der Datensammlung und -nutzung erfahren möchten, klicken Sie [hier](https://web.archive.org/sc/advcookies-de)
-
-**Andere Datenerfassung.** Möglicherweise erhalten wir noch auf anderen Wegen, die in diesen Richtlinien nicht konkret beschrieben sind, Daten von Ihnen oder über Sie. Das ist beispielsweise der Fall, wenn Sie sich an den Customer Support, d. h. unsere Kundenbetreuung, wenden oder wenn eine Beschwerde über Sie eingeht. 
-
-### Verwendung von Daten durch Shopping.com
-
-Daten, die Sie uns über die Website überlassen, nutzt Shopping.com zum Betrieb der Website; zudem helfen uns diese Daten, Ihnen die gewünschten Informationen und Serviceleistungen zu bieten und mit Ihnen zu kommunizieren. Wir können Ihre Daten beispielsweise dazu verwenden, Ihnen gezielt Werbeanzeigen zu präsentieren, die Sie interessieren könnten, oder Ihnen E-Mails zu senden, etwa Newsletters und Warnhinweise. Mithilfe Ihrer Daten können wir Sie auch kontaktieren, wenn es notwendig ist (um Ihnen beispielsweise bei der Nutzung der Website behilflich zu sein). Natürlich steht Ihnen die Entscheidung frei, uns diese Daten nicht zukommen zu lassen. Damit sind allerdings unsere Möglichkeiten beeinträchtigt, Ihnen maßgeschneiderte Serviceleistungen zu bieten. Sie können uns jederzeit mitteilen, dass Sie künftig keine Zusendungen oder personalisierte Werbung mehr wünschen (siehe den Abschnitt "Ihre Entscheidung/Verzicht auf E-Mail-Nachrichten oder personalisierte Werbung von Shopping.com" unten). E-Mails, die wir Ihnen aus verwaltungstechnischen Gründen zusenden müssen, werden Sie allerdings nach wie vor erhalten (zum Beispiel E-Mails, die Sie über Änderungen der Allgemeinen Nutzungsbedingungen informieren). 
-
-### Verwendung von Daten durch Unternehmen der eBay-Gruppe
-
-Zusätzlich können wir Daten an unsere Muttergesellschaft, die eBay Inc, ihre und unsere Tochtergesellschaften, Joint Ventures und andere Unternehmen weitergeben, die gemeinsam von Dritten beherrscht werden oder die uns oder andere Konzerngesellschaften gegebenenfalls übernehmen. Bei unserer weiteren geschäftlichen Entwicklung ist es denkbar, dass Shopping.com seine Aktiva, darunter auch personenbezogene Daten, im Zuge einer Fusion, Umstrukturierung, Veräußerung von Vermögenswerten oder Insolvenz ganz oder teilweise verkauft, überträgt oder anderweitig weitergibt. In diesem Fall können persönliche oder anonyme Daten zu den übertragenen Vermögenswerten zählen. 
-
-Die eBay-Gruppe besteht momentan aus PayPal, Kijiji, half.com, rent.com and mobile.de (eine aktuelle Übersicht finden Sie unter [www.ebay.com/aboutebay.html](http://www.ebay.com/aboutebay.html)). Die Datenweitergabe erfolgt, um unsere Serviceleistungen und die Serviceleistungen der eBay-Gruppe zu verbessern. Die Weitergabe der Daten dient auch der Erstellung interner Statistiken, der Vorbereitung strategischer Entscheidungen, der Kundenverifizierung, dem Erkennen von Kundentrends, der Weitergabe von Bewertungen und Beurteilungen, der Mißbrauchsbekämpfung durch Betrugs- und Risikomanagement und der Sicherheit.
-
-### Mitteilung und Weitergabe von Informationen und Daten
-
-**Gesammelte Recherchedaten.** Für die Händler des Shopping.com Händlerprogramms, andere Kunden, Medien und Interessierte erstellt Shopping.com Berichte und sammelt andere Informationen und Daten über Online-Shopping. Solche Informationen und Daten basieren auf gesammelten, anonymen Informationen über Millionen von Online-Kunden, beinhalten aber keine personenbezogenen Daten.
-
-**Services von Partnern.** Shopping.com speichert in der Regel Daten, die von Nutzern erfasst werden, und gibt diese an bestimmte Partner weiter, um den Nutzern Serviceleistungen anzubieten. Um bestimmte Services auf der Website nutzen zu können, kann es notwendig sein, dass Sie Daten eingeben, die dann an unsere Partner weitergeleitet werden. Die Bereiche der Website, in denen Daten von unseren Partnern erfasst werden, können zusätzlich mit dem Logo unserer Partner gekennzeichnet sein. Für die Verwendung von Nutzerdaten sind in diesen Fällen die Datenschutzbestimmungen unserer jeweiligen Partner und nicht unsere Richtlinien maßgeblich. Vorbehaltlich der jeweiligen Datenschutzbestimmungen unserer Partner gehen die jeweils erfassten Daten in Kopie auch Shopping.com zu. Wenn Sie Fragen zu den Datenschutzbestimmungen oder Methoden der Datenerfassung eines unserer Geschäftspartner haben sollten, wenden Sie sich bitte direkt an den betreffenden Partner. Shopping.com hat keinerlei Einfluss auf die Datenerfassung und –nutzung unserer Geschäftspartner und ist dafür auch nicht verantwortlich. 
-
-**Besondere Angebote.** Auf unserer Website können Sie Ihr Interesse an Produkten und Serviceleistungen dritter Anbieter kundtun oder sich als Interessent registrieren lassen. Nutzen Sie diese Möglichkeit, leiten wir Daten über Sie an die jeweiligen Anbieter weiter, um Ihren Wünschen zu entsprechen. 
-
-**Werbetreibende.** Wir nutzen unabhängige Werbe-Partner, die Ihnen bei Ihren Besuchen der Website Anzeigen präsentieren. Diese Werbe-Partner können anhand von Daten über Ihre Besuche auf unserer Website gezielt Anzeigen für Produkte und Dienstleistungen schalten, die für Sie von Interesse sein könnten. Dabei geben wir aber nicht Ihren Namen, Ihre Anschrift, E-Mail-Adresse und Telefonnummer weiter. 
-
-Werbetreibende (zum Beispiel auch DoubleClick) können Cookies platzieren oder erkennen und, ob anhand dieser Cookies oder auf anderem Wege, Daten von Ihren Besuchen auf unserer und anderen Websites sammeln und nutzen, um Ihnen gezielt Anzeigen zu präsentieren. Mehr Informationen über das praktische Vorgehen von DoubleClick in Deutschland und Ihre Optionen in Bezug auf diese Datenerfassung und –nutzung finden Sie unter [DoubleClicks Datenschutzbestimmungen](http://emea.doubleclick.com/de/datenschutz/). 
-
-**Sonstiges.** Es kann sein, dass wir Ihre Daten an unsere Konzerngesellschaften, Berater, Hersteller und Dienstleister weitergeben, die uns behilflich sind, die Website zu pflegen und entsprechende Serviceleistungen anzubieten, zum Beispiel die Online-Registrierung für Veranstaltungen. 
-
-**Sonstige Weitergabe von Daten.** Wir können Daten offen legen, wenn wir gesetzlich dazu verpflichtet oder in gutem Glauben der Überzeugung sind, dass eine solche Offenlegung aufgrund von geltendem Recht notwendig ist, wenn es gesetzlich erlaubt ist, zur Erfüllung der rechtlichen Auflagen im Rahmen eines Gerichtsverfahrens, zum Schutz des Eigentums oder zur Wahrung der Interessen von Shopping.com, seiner Vertreter und Mitarbeiter, der persönlichen Sicherheit oder der Öffentlichkeit notwendig ist. Unter solchen Umständen kann es Shopping.com gesetzlich, durch Gerichtsbeschluss oder aufgrund anderer rechtlicher Verfahren untersagt sein, Sie über die Weitergabe Ihrer Daten zu unterrichten, und Shopping.com behält sich vor, auf eine Benachrichtigung zu verzichten. Shopping.com hat seine europäischen Hauptsitz in Irland, und wir legen großen Wert darauf, die Bestimmungen der Datenschutzgesetze von 1988 und 2003 (Data Protection Act 1988 und 2003) einzuhalten. Ihre Informationen werden auch in den U.S.A. gespeichert und genutzt. Die gesetzlichen Datenschutzbestimmungen in den USA sind möglicherweise weniger streng als die gesetzlichen Bestimmungen in der EU, aber Shopping.com wird bei der Speicherung und der Übertragung Ihrer Daten Sicherheitsmechanismen anwenden, um die Vertraulichkeit zu schützen. 
-
-### Sonstige Nutzung und Weitergabe von Daten für die Website 
-
-**Inhalt und Bewertungen.** Sie können Beurteilungen, Stellungnahmen und andere Inhalte veröffentlichen. Mitglieder haben die Wahl, Produkte oder Produktbeurteilungen ihrerseits zu bewerten und so gewissermaßen registriertein Netz an Beziehungen aufzubauen, auf das Verlass ist. Auch nicht en Besuchern können wir gestatten, Produkte und/oder Produktbeurteilungen zu bewerten. 
-
-Ihre Beurteilungsbewertungen und Aussagen sind für jedermann sichtbar, wenn Sie Ihre Standardkonfiguration nicht ändern. Die Beurteilungen und Kommentare, die Sie veröffentlichen, erscheinen automatisch unter Ihrem Mitgliedsnamen, und andere Mitglieder haben die Wahl, sich per E-Mail von Ihren Veröffentlichungen benachrichtigen zu lassen oder eigene Kommentare zu Ihren Bewertungen abzugeben. 
-
-Wir und unsere Lizenznehmer können, wie in unseren Allgemeinen Nutzungsbedingungen festgelegt, Ihre Inhalte erneut veröffentlichen. Wir veröffentlichen Produktbewertungen und ziehen diese zu Sammelbewertungen, zur Personalisierung von Website-Ansichten und zur Vermarktung von Produkten heran. Auch Ihre Bewertungen von Produktbeurteilungen und Ihr Netz an Beziehungen nutzen wir, um aufgerufene Websites zu personalisieren und populäre Mitglieder ausfindig zu machen und besonders hervorzuheben. So können wir zum Beispiel die beliebtesten oder erfolgreichsten Beurteilungen und Mitglieder besonders herausstellen. Wir gehen zwar nicht davon aus, dass wir (außer wie an anderer Stelle dieser Datenschutzbestimmungen beschrieben) die kompletten Bewertungen und das gesamte Netz an Beziehungen an Dritte übertragen, setzen aber die Datenbank in unserem gesamten Netzwerk und zugunsten aller unserer Mitglieder ein.
-
-**E-Mail-Tools.** Wenn Sie über unsere Website E-Mails verschicken, erscheint in Ihrer E-Mail Ihre E-Mail-Adresse und die persönliche Nachricht, die Sie gegebenenfalls verschickt haben. Auch wenn wir die Anschriften, an die Sie E-Mails verschicken, nicht so aufbewahren, dass sie leicht wieder abzurufen sind, stellen diese E-Mails trotzdem keinen privaten Schriftverkehr dar. Es ist Ihnen auch untersagt, die Tools, die wir Ihnen für den E-Mail-Versand bieten, zur Versendung von Spam oder Inhalten zu nutzen, die die Allgemeinen Nutzungsbedingungen verletzen.
-
-**Feedback.** Wir können Sie im Rahmen einer Umfrage um Ihr Feedback bitten und die Ergebnisse für unsere interne Entwicklung und für Marktforschungszwecke nutzen. Gegebenenfalls dürfen wir die Ergebnisse auch an unsere Konzerngesellschaften, Berater, Anbieter und Dienstleister weitergeben. 
-
-### Links zu anderen Websites
-
-Die Website enthält Links zu anderen Websites. Shopping.com ist nicht für den Datenschutz oder Inhalt dieser Websites verantwortlich. Wenn Sie Bedenken haben, wie andere Websites Daten über Sie erfassen und einsetzen, lesen Sie unbedingt die Datenschutzbestimmungen der jeweiligen Website. 
-
-### Löschen oder Ändern Ihrer Daten
-
-Registrierte Nutzer können ihre personenbezogenen Daten einsehen, ändern oder löschen , aber auch ihren Account löschen, indem sie den [Kundenservice](https://web.archive.org/sc/customer-support) kontaktieren. Wir bemühen uns, Änderungen in unseren Datenbanken schnellstmöglich zu berücksichtigen. Allerdings können nicht alle Datenbanken umgehend aktualisiert werden, und alte Daten können sich zum Teil in unseren Archiven und Akten halten. Möglicherweise sind wir auch nicht in der Lage, Änderungen, die Sie vornehmen, an Partner, Hersteller oder dritte Dienstleister weiterzugeben, die bereits Ihre Daten oder Inhalte erhalten haben. Wird Ihr Account oder Ihre Mitgliedschaft gekündigt oder ausgesetzt, können wir einige Daten längerfristig speichern, um eine erneute Registrierung zu vermeiden. 
-
-Unter bestimmten Umständen behalten wir Daten, um deren Löschung Sie gebeten haben, in unseren Akten, etwa zur Lösung von Streitigkeiten, Programmanalyse und Durchsetzung unserer Allgemeinen Nutzungsbedingungen. Zudem lassen sich solche alten Daten aufgrund technischer und rechtlicher Notwendigkeiten nie ganz aus unseren Datenbanken entfernen. Ein Grund hierfür sind beispielsweise unsere Systeme zur Datensicherung, die regelmäßig Backup-Kopien speichern.
-
-### Ihre Entscheidung/Verzicht auf E-Mail-Nachrichten von Shopping.com
-
-Sie haben jederzeit (außer bei E-Mails zu Verwaltungszwecken, wie oben erläutert) die Möglichkeit, E-Mails oder personalisierte Werbung von Shopping.com und unseren Partnern zu stoppen. Wenn Sie Ihr Abonnement für den Shopping.com E-Mail-Newsletter kündigen möchten, wenden Sie sich an den [Kundenservice](https://web.archive.org/sc/customer-support) und teilen Sie uns mit, dass Sie diesen Service nicht mehr in Anspruch nehmen möchten. Außerdem können Sie in Ihrem Nutzerkonto auf Shopping.com oder indem Sie die Anweisungen in den Kommunikationsmitteln (z.B. E-Mails) befolgen jederzeit festlegen, dass Sie keine E-Mails und keine personalisierte Werbung mehr erhalten möchten. 
-
-### Sicherheit
-
-Shopping.com bemüht sich mithilfe physikalischer, elektronischer und administrativer Sicherheitsvorkehrungen, etwa durch hochmoderne Firewalls und Passwort-geschützten Zugriff auf unsere Datenbanken, um die Datensicherheit. Nur Mitarbeiter, die Ihre Daten kennen müssen, um unsere Services betreiben, weiterentwickeln oder verbessern zu können, bekommen Zugriff auf Ihre Daten. 
-
-### Mitteilung von Änderungen
-
-Diese Datenschutzbestimmungen können im Laufe der Zeit geändert und unserer Geschäftsentwicklung angepasst werden. Wir werden eventuelle neue Richtlinien samt dem Datum der letzten Überarbeitung an augenfälliger Stelle bekannt geben, so dass Sie stets wissen, welche Daten wir erfassen, wie wir diese Daten nutzen und ob wir sie an Dritte weitergeben. Bitte sehen Sie die Website regelmäßig auf Hinweise zu eventuellen Änderungen der Datenschutzbestimmungen durch. Wenn Sie per E-Mail von solchen Änderungen benachrichtigt werden möchten, wenden Sie sich bitte an den [Kundenservice](https://web.archive.org/sc/customer-support).
-
+By using the eBay Commerce Network, and its related sites, applications, services and tools, and/or registering for an account, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in our [User Agreement](http://www.ebaycommercenetwork.com/user-agreement).  
   
+---|---  
+  
+Global Privacy Standards
 
+| 
 
-### Kein Spam
+eBay Inc. has established a set of Binding Corporate Rules (BCRs), which are our global privacy standards for all eBay Inc. companies. They are a commitment by eBay Inc. to protect your personal information and honor our privacy obligations regardless of where your personal information is collected, processed, or stored.  
+  
+Mobile Privacy
 
-Shopping.com ist strikt gegen unaufgefordert versandte, kommerzielle E-Mails oder Spam. Ohne Erlaubnis des Empfängers verschicken wir keinerlei E-Mails. Wir verkaufen oder liefern auch keine E-Mail-Adressen an unbefugte Dritte. Sollten Sie also unaufgefordert E-Mails von Spammern erhalten, können Sie sicher sein, dass die Absender Ihre E-Mail-Adresse nicht von Shopping.com erhalten haben. Das heißt aber nicht, dass wir die Versendung von Spam über das Internet verhindern können. Wenn Sie meinen, dass Sie von uns unaufgefordert E-Mails erhalten, kontaktieren Sie uns bitte unter der Anschrift unten. Wir werden der Sache nachgehen.
+| 
 
-### Wir sind für Sie da
+If we offer the ability for you to use our services and tools using a mobile device, the provisions of this Privacy Policy apply to all such mobile access and use.  
+  
+Children’s Privacy | 
 
-Wenn Sie Fragen zu diesen Datenschutzbestimmungen, der Handhabung der Website oder zu Shopping.com haben, wenden Sie sich bitte an:   
-Customer Support (Kundenbetreuung)  
-**Kontakt:**  
-Shopping.com, Inc.  
-8000 Marina Boulevard  
-Fifth Floor  
-Brisbane, CA 94005  
-phone: 650.616.6500  
-fax: 650.616.6510
+The sites and services provided by eBay Inc. are not intended for children under the age of 13, and we do not knowingly collect personal information from users in this age group.  
+  
+Collection of Personal Information
 
-## Règle de respect de la vie privée
+| 
 
-Dernière mise à jour : 2 Juillet, 2012 
+We collect the different types of personal information in order to provide you with the use of and access to our sites, applications, services, and tools, and to help us personalize and improve your experience.  This includes information we collect automatically (such as device ID, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from the sites, referral URL, ad data, IP address, standard web log information, and anonymous information collected through our use cookies and web beacons) and information you give us (such as information you enter on our sites or you provide to us in context of using our sites, applications, services, or tools).  Occasionally, we may also receive or collect supplemental information about you from third parties. This may include, but is not limited to, demographic information, navigation information, additional contact information, credit check information, and additional information about you from credit bureaus or other sources, as permitted by law.  
+  
+Social Media
 
-Le 2 Juillet 2012, le règlement sur le Respect de la Vie Privée de Shopping.com a été modifié. Merci de prendre quelques minutes pour lire le règlement modifié. Si vous avez des questions ou souhaitez vous opposer à ces modifications, merci de contacter notre Service Client. 
+| 
 
-Les sites Web du réseau Shopping.com sont mis à votre disposition par Shopping.com, Inc. 8000 Marina Boulevard, Fifth Floor, Brisbane, CA 94005 USA, une société membre du groupe eBay Inc. Ce règlement sur le respect de la vie privée décrit la manière dont nous utilisons et protégeons vos informations sur les sites Web du réseau Shopping.com et sur d'autres pages en ligne dans lesquelles vous pouvez interagir avec le contenu ou les services Shopping.com. 
+By associating an account managed by a third party with your eBay account and authorizing eBay to have access to this information, you agree that eBay may collect, use, and store information from these websites in accordance with this Privacy Policy.  
+  
+Communication Preferences and Marketing
 
-En utilisant le réseau Shopping.com, vous adhérez aux dispositions des [Conditions générales](https://web.archive.org/sc/terms-of-service) d'utilisation et de ce règlement sur le Respect de la vie privée, et vous acceptez nos pratiques dans ce domaine. Ceci inclut l'utilisation et la divulgation de toute information personnelle que vous nous aurez communiquée ainsi que son transfert et son stockage sur nos serveurs aux Etats-Unis et partout où nous avons une présence physique. 
+| 
 
-### Règles Internes d’Entreprise
+We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content, and advertising.  You can control how and when you want to receive notifications from the ECN from the account settings section within your account.  
+  
+Use and Disclosure
 
-En complément des règles de confidentialité énoncées dans le règlement sur le Respect de la Vie Privée d’Ebay Inc., la société mère du Réseau Shopping.com a établi un ensemble de Règles d’Entreprise (également dénommées Règles Internes d’Entreprise) approuvées par les régulateurs de l’Union Européenne. Ces Règles d’Entreprise sont un engagement pris par Ebay Inc de protéger vos informations personnelles, peu importe l’endroit où se trouvent vos données, De plus, selon votre situation géographique, des droits supplémentaires peuvent vous être accordés dans le cadre des lois locales de protection de la vie privée. Si vous souhaitez obtenir des informations complémentaires sur ces Règles d’Entreprise, vous pouvez nous contacter via les coordonnées ci-dessous. 
+| 
 
-### Collecte
+We may share your personal information with the eBay family of companies or others as further described in the full Policy.  
+  
+Information you share on the site
 
-Vous pouvez naviguer sur le réseau Shopping.com sans nous révéler votre identité ni aucune information personnelle vous concernant. Pour pouvoir utiliser certaines fonctionnalités et certains services du réseau Shopping.com, vous devez vous inscrire et fournir des informations qui nous permettent de vous identifier. Tandis que vous naviguez sur nos sites, nous recueillons automatiquement des informations à partir de votre ordinateur, notamment les pages que vous consultez sur le réseau Shopping.com et ce que vous y faites. Nous recueillons votre adresse IP ainsi que des informations relatives à votre ordinateur et à votre connexion : type et version du navigateur, système d'exploitation et plate-forme, URL précédemment consultées, URL suivantes et numéro de cookie. 
+| 
 
-Lorsque vous vous inscrivez sur l'un des sites du réseau Shopping.com, nous pouvons recueillir et enregistrer votre adresse e-mail et un mot de passe. Vous pouvez également choisir de fournir les informations personnelles suivantes : 
+Ratings, reviews, tags, comments, and other content you contribute may be displayed publicly on the eBay Commerce Network and elsewhere on the web, sometimes alongside your member or user name.  Reviews submitted through our product review services cannot later be deleted. For some of our features, other members may be able to request email notifications of your new public content or publish their own comments to your reviews.  We may use the public content to develop aggregate ratings, personalize site views, market products or identify or feature popular members. Your wish lists are public by default.  
+  
+Cookies
 
-  * informations relatives à votre profil, notamment prénom et nom, nom d'utilisateur et lieu de résidence ;
-  * informations de gestion, notamment adresse e-mail et numéro de téléphone ;
-  * autres informations nous permettant de personnaliser votre expérience sur le réseau Shopping.com, comme par exemple, vos préférences de filtrage et de profil.
+| 
 
+We use Cookies to recognize you as a customer; customize ECN Services, content, and advertising; measure promotional effectiveness; help ensure that your account security is not compromised; mitigate risk and prevent fraud; and to promote trust and safety across our sites and services.  For more detailed information on our use of Cookies, see [Cookies and Your Privacy](http://pages.ebay.com/help/account/cookies-web-beacons.html).  
+  
+Access, review, and modification | 
 
+You can review and edit your personal information at any time by logging in to your account and reviewing your account settings and profile.  You can close your account at any time by contacting Customer Support in the [United States](http://www.shopping.com/sc/contact-us), in the [United Kingdom](http://uk.shopping.com/sc/contact-us), in [France](http://fr.shopping.com/sc/contact-us), in [Germany](http://de.shopping.com/sc/contact-us) or in [Australia](http://au.shopping.com/sc/contact-us) (for Shopping.com) or [clicking here](http://www.epinions.com/help/feedback_general.html) (for Epinions.com).  
+  
+Protection and Retention
 
-Nous pouvons recueillir d'autres informations par votre biais ou vous concernant, par d'autres moyens non décrits dans ce règlement : par exemple si vous contactez le Support client, si vous répondez à une enquête ou si nous recevons une réclamation d'un tiers à votre encontre. 
+| 
 
-**Services co-marqués.** Shopping.com travaille avec certains éditeurs de site Web afin de proposer des services co-marqués. Un site Web co-marqué comporte le logo du partenaire de la co-marque en haut de la page. Lorsque vous consultez un site Web co-marqué, vous êtes tenu d'accepter son règlement sur le respect de la vie privée. Shopping.com ne reçoit aucune information personnelle vous concernant de la part de cet éditeur de site. 
+We store and process your personal information on our computers in the US and elsewhere in the world, where we protect your information using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure, or alteration. We retain information as long as it is necessary and relevant for our operations.  
+  
+Third Parties
 
-### Marketing
+| 
 
-Nous ne vendons ni ne louons vos informations personnelles auprès de tiers à des fins marketing sans votre accord explicite préalable. Nous pouvons combiner vos informations personnelles avec les informations que nous recueillons auprès d’autres entreprises et les utiliser afin d’améliorer et personnaliser nos services, contenus et publicités. Si vous ne désirez pas recevoir de communications marketing de notre part ou si vous ne souhaitez pas participer à notre programme de personnalisation de la publicité, vous pouvez l’indiquer via votre compte Shopping.com ou en suivant les indications fournies dans la communication ou la publicité.
+Our ECN websites may contain links to other third party websites. We are not responsible for the privacy practices or the content of these sites. If you have concerns about how other websites collect and use information about you, make sure to read that site's privacy policy.  
+  
+Contact Us
 
-### Utilisation
+| 
 
-Nous utilisons les informations recueillies pour :
+You may write to us at: eBay Inc. Attn: Legal - Global Privacy Practices, 2145 Hamilton Avenue, San Jose, California 95125, or by using the [Contact Us form](http://ocsnext.ebay.com/ocs/cusr?domain=Help&query=Privacy%20policy&from=1003146). More information about the Global Privacy Office and how to contact us is available at our [eBay Privacy Center](http://www.ebayprivacycenter.com/about-us).  
+  
+### Scope and Consent
 
-  * faire fonctionner le réseau Shopping.com ;
-  * vous fournir les informations et les services que vous demandez ;
-  * personnaliser le contenu, la publicité, et votre expérience sur le réseau Shopping.com ;
-  * communiquer avec vous au sujet de vos commandes, des mises à jour de services et d'autres questions administratives ;
-  * fournir des offres marketing et promotionnelles ciblées, sur nos sites ou selon vos préférences de communication ;
-  * évaluer et améliorer nos sites et nos services ;
-  * résoudre les litiges, répondre aux plaintes et apporter une solution aux problèmes techniques ;
-  * analyser le comportement du site et des utilisateurs et préparer des rapports agrégés.
-  * Vous tenir informé de nos services et de ceux du groupe eBay Inc.
+When you use any of the eBay Commerce Network websites listed above, you are contracting with eBay Inc., with offices located at 2145 Hamilton Avenue, San Jose, CA 95125. If you reside outside of the United States, eBay Inc. is your data controller.
 
+By using the ECN websites or their related applications, services, and tools, or by registering for an account with any of our websites, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in the eBay Commerce Network [User Agreement](https://web.archive.org/web/20131208012117id_/http%3A//www.ebaycommercenetwork.com/user-agreement), as well as to the transfer and storage of your personal information to our servers in the United States and elsewhere in the world where we have facilities.
 
+### Global Privacy Standards
 
-### Partage et divulgation
+In addition to the privacy practices set out in this Privacy Policy, eBay Inc. has established a set of Corporate Rules (also referred to as “Binding Corporate Rules” or “BCRs”), which are our global privacy standards for all eBay Inc. companies. 
 
-**Autres sociétés eBay.** Nous pouvons partager des informations avec des sociétés membres du groupe eBay Inc., telles que eBay ou PayPal, afin de proposer des contenus et des services communs (par exemple inscription, transactions et support client), de contribuer à détecter et prévenir les actes potentiellement illégaux et les violations de nos règlements ainsi que d'orienter les décisions relatives à leurs produits, services et communications. Les sociétés membres de notre groupe n'utiliseront ces informations pour vous faire parvenir des communications marketing que si vous avez demandé à bénéficier de leurs services. 
+These BCRs have been approved by a number of European Union privacy regulators. They are a commitment by eBay Inc. to protect your personal information and honor our privacy obligations regardless of where your personal information is collected, processed, or stored. Depending on where you reside, the BCRs may also provide you some additional privacy rights through your local privacy regulator or court.
 
-**Prestataires de services.** Nous pouvons partager vos informations avec des prestataires de services sous contrat qui nous assistent dans nos activités (par exemple la maintenance du réseau Shopping.com et la prestation des services associés). 
+For more information about our BCRs and our global privacy practices and principles, including information on how to contact us with any questions, visit our [eBay Privacy Center.](http://www.ebayprivacycenter.com/privacy)
 
-**Offres spéciales.** Sur le réseau Shopping.com, vous avez la possibilité d'exprimer votre intérêt pour des produits et services tiers ou de vous inscrire auprès de l'un de ces tiers. Dans ce cas, nous lui fournirons des informations vous concernant afin que votre demande puisse être traitée. 
+### Mobile Privacy
 
-**Avis.** Nous pouvons utiliser des résultats d'enquête pour notre développement interne et nos recherches marketing et partager ces résultats avec nos affiliés, consultants, fournisseurs et prestataires de services. 
+We may offer you the ability for you to connect with the ECN websites, or use our applications, services, and tools using a mobile device, either through a mobile application or via a mobile-optimized website. The provisions of this Privacy Policy apply to all such mobile access and use of mobile devices. This Privacy Policy will be referenced by all such mobile applications or mobile-optimized websites.
 
-**Actifs.** Avec l'évolution de son activité, Shopping.com peut vendre, transférer ou disposer de ses actifs en tout ou en partie, dans le cadre d'une fusion, d'une réorganisation, d'une vente partielle d'actifs ou même d'une faillite. Dans un tel cas, des données personnelles peuvent constituer l'un des actifs transférés. 
+### Children's Privacy
 
-**Autres divulgations.** Nous pouvons divulguer des informations dans les limites prévues par la loi ou dans les cas où cette divulgation semble raisonnablement nécessaire selon la législation en vigueur : afin de respecter la procédure légale appliquée sur Shopping.com, de protéger la propriété ou les intérêts de Shopping.com, de ses agents et employés, ou de protéger la sécurité des personnes. 
+The eBay Commerce Network websites are all general audience websites, and neither they nor any of their related sites, applications, services, or tools are intended for children under the age of 13. We do not knowingly collect personal information via our websites, applications, services, or tools from users in this age group.
 
-### Contenu public
+### Collection of Personal Information
 
-Dans certaines parties du réseau Shopping.com, vous pouvez apporter votre contribution en termes de notes, commentaires, avis et autres contenus. Ces contributions sont visibles en ligne, sauf si vous vous inscrivez et modifiez votre configuration par défaut. Les avis et commentaires que vous publiez peuvent apparaître accompagnés de votre nom d'utilisateur. Si d'autres membres le souhaitent, ils peuvent être avertis par e-mail de la présence de votre nouveau contenu public ou publier leurs propres commentaires à la suite de vos avis. 
+You can browse our ECN websites without telling us who you are or revealing any personal information about yourself. Personal information is only associated to your account when you sign in as a registered user. If you register for an account with us, you choose to give us your personal information and are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in the United States and around the world.
 
-Nous pouvons utiliser ce contenu public pour déterminer des notes globales, personnaliser la présentation des sites et faire la promotion de produits. Nous pouvons utiliser votre contenu public pour personnaliser la présentation des sites et identifier ou présenter des membres particulièrement appréciés. Par exemple, nous pouvons promouvoir les avis et les membres les plus appréciés ou générant les gains les plus élevés. Nous n'envisageons pas de transférer à des tiers l'intégralité de la base de données d'avis et de données du réseau de confiance (sauf dans le cadre des dispositions de ce règlement), mais nous utilisons toutefois cette base de données sur l'ensemble de notre réseau et pour générer des résultats pour des tiers. 
+We collect the following types of personal information in order to provide you with the use of and access to our sites, applications, services, and tools, and to help us personalize and improve your experience: 
 
-### Communications par e-mail
+**Information we collect automatically:** When you visit our sites, use our applications, services, and tools, or interact with our advertising or content, we automatically collect information sent to us by your computer, mobile device, or other access device. This information is associated with you personally only when you sign in as a registered user, and includes but is not limited to:
 
-**Choix/Réception d'e-mails** Vous pouvez à tout moment demander à ne plus recevoir de messages marketing, (y compris la publicité ciblée) du réseau Shopping.com, mais vous ne pouvez pas refuser les e-mails administratifs (par exemple, au sujet de vos transactions ou des modifications de règlements), tant que vous êtes membre du réseau Shopping.com. Pour ne plus recevoir les e-mails marketing, vous pouvez modifier vos préférences ou suivre les instructions fournies dans les communications ou la publicité 
+  * device ID or unique identifier, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from the sites, referral URL, ad data, IP address and standard web log information; and 
 
-**Outils de communication par e-mail.** Lorsque vous envoyez un e-mail via notre site, le destinataire recevra votre adresse e-mail et le message personnel que vous aurez rédigé. Même si nous ne conservons pas sous une forme aisément récupérable les adresses auxquelles vous envoyez des e-mails, vos messages ne constituent pas une communication privée. Vous ne pouvez pas utiliser nos outils de communication par e-mail pour envoyer des messages non sollicités ou tout autre contenu violant les Conditions générales d'utilisation. 
+  * anonymous information collected through our use cookies and web beacons.
 
-**Politique anti-spam.** . Shopping.com ne tolère pas la pratique du spam, c'est-à-dire l'envoi de messages non sollicités. Nous n'envoyons aucun e-mail sans autorisation préalable et nous ne vendons et ne louons pas d'adresses e-mail à des tiers non autorisés. Toutefois, nous ne sommes pas en mesure d'empêcher cette pratique sur Internet. Si vous pensez avoir reçu un e-mail non sollicité de notre part, contactez notre [département Respect de la vie privée](https://web.archive.org/sc/contact-us) qui pourra vérifier ce dont il s'agit. 
 
-### Cookies et repères Web
 
-**Cookies Shopping.com.** Lorsque vous consultez nos pages ou nos sites co-marqués, il est possible que Shopping.com ou d'autres sociétés membres de notre groupe fournissant des services communs et nos fournisseurs de service placent des cookies anonymes ou des repères Web sur votre ordinateur. Nous utilisons ces cookies et ces repères pour reconnaître les utilisateurs qui ont déjà visité le site, mesurer le trafic, mesurer la conversion et l'activité sur les sites, surveiller et améliorer nos services, et assurer une protection contre la fraude. Nous utilisons également ces cookies pour affiner nos services, contenus, publicités, et offres promotionnelles 
 
-Vous pouvez bloquer les cookies en modifiant les paramètres de votre navigateur (contactez votre fournisseur de services Internet pour obtenir de l'aide). Dans ce cas, certains services ne vous seront peut-être plus accessibles. Votre navigateur doit par ailleurs accepter les cookies pour que vous puissiez accéder au réseau Shopping.com en tant que membre inscrit. 
+**Information you give us:** We collect and store any information you enter on our sites or you provide to us in context of using our sites, applications, services, or tools. This may include, but is not limited to:
 
-**Cookies de nos annonceurs.** Nous utilisons les services de sociétés publicitaires qui peuvent placer des cookies dans le but de recueillir et d'utiliser des informations anonymes relatives à vos visites sur le réseau Shopping.com. Pour en savoir plus sur leurs pratiques et vos droits sur la collecte et l'utilisation de ces informations, [cliquez ici.](https://web.archive.org/sc/advcookies-fr)
+  * information you provide us when registering for an account, including email address, phone number, mobile telephone number, physical contact information, and (depending on the service used) sometimes financial information, such as credit card or bank account numbers;
 
-###  Liens vers d'autres sites
+  * addition information you may provide to us via social media sites or services
 
-Les Sites contiennent des liens vers d'autres sites Web. Shopping.com n'est pas responsable des pratiques de respect de la vie privée ni du contenu de ces sites. Si vous souhaitez savoir comment ces sites Web collectent et utilisent vos données personnelles, lisez leur règlement sur le respect de la vie privée. 
+  * transactional information based on your activities on the sites (such as bidding, buying, selling, item and content you generate or that relates to your account); 
 
-### Modifier ou supprimer des informations vous concernant
+  * shipping, billing and other information you provide to purchase or ship an item; 
 
-Les membres inscrits peuvent accéder à leurs informations personnelles, les modifier ou les supprimer, ou encore annuler leur inscription en accédant à leur profil ou à leur compte. Nous tentons généralement de répercuter ces modifications dans notre base de données le plus rapidement possible. Toutes les bases de données ne peuvent cependant pas être mises à jour de manière instantanée et certaines données anciennes peuvent être conservées dans nos archives pendant une courte période, jusqu'à la mise à jour effective. Il peut aussi arriver que nous soyons dans l'impossibilité d'envoyer vos modifications aux partenaires, fournisseurs ou prestataires de services tiers ayant déjà reçu vos données ou votre contenu. Si votre compte ou votre inscription sont résiliés ou suspendus, nous pouvons conserver certaines données afin d'empêcher toute réinscription. 
+  * information provided in the context of community discussions, chats, dispute resolution, correspondence through our sites, or correspondence sent to us
 
-Dans certains cas particuliers, nous conserverons certaines données dont vous avez demandé la suppression, par exemple, pour résoudre des litiges, analyser certains programmes et faire appliquer nos Conditions générales d'utilisation. Notez également que de telles informations ne sont jamais totalement effacées de nos bases de données en raison de contraintes techniques et légales, telles que les sauvegardes informatiques de sécurité. 
+  * additional personal information we ask you to submit to authenticate yourself or if we believe you are violating site policies (for example, we may ask you to send us an ID or bill to verify your address, or to answer additional questions online to help verify your identity or ownership of an item you list)
 
-### Sécurité
 
-Pour assurer la sécurité des données, Shopping.com utilise des sauvegardes physiques, électroniques et administratives, notamment des systèmes de protection avancée des bases de données par pare-feu ou mot de passe. L'accès à vos données personnelles est restreint aux employés qui ont besoin de connaître ces informations pour assurer le fonctionnement, le développement ou l'amélioration de nos services. Comme vous le savez probablement, des tiers peuvent toutefois illégalement intercepter ou accéder à des transmissions ou des communications privées. Malgré tous nos efforts pour assurer le respect de votre vie privée, nous ne pouvons pas garantir, et vous ne pouvez pas exiger, que vos informations personnelles ou vos messages privés conserveront toujours un caractère confidentiel. 
 
-### Général
 
-Nous pouvons modifier régulièrement ce règlement. Dans ce cas, nous publierons les nouvelles conditions sur le réseau Shopping.com. Les modifications seront effectives immédiatement pour les nouveaux utilisateurs et 30 jours après leur publication pour les membres inscrits. 
+**Mobile:** When you download or use our Mobile Applications, or access one of our mobile optimized sites, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to control or disable location services in the device’s settings menu. If you have questions about how to disable your device’s location services, we recommend you contact your mobile service carrier or the manufacture of your particular device.
 
-Pour toute question sur ce règlement ou sur les pratiques du réseau Shopping.com, envoyez un e-mail à notre ou [département Respect de la vie privée](https://web.archive.org/sc/contact-us) ou contactez : 
+**Information from other sources** : We may receive or collect supplemental information about you from third party sources and add it to our account information. This may include, but is not limited to, demographic information, navigation information, additional contact information, credit check information, and additional information about you from credit bureaus or other sources, as permitted by law.
 
-**Le Service Clients**  
-Shopping.com, Inc.  
-8000 Marina Boulevard  
-Fifth Floor  
-Brisbane, CA 94005  
-phone: 650.616.6500  
-fax: 650.616.6510
+### Social Media
 
-E-mail: [commentairesfrance@shopping.com](mailto:commentairesfrance@shopping.com)
+We may offer sign-on services that allow you to use third party login credentials to access the ECN websites or related applications, services or tools. We also may offer services that allow you to share information with third party social media websites such as Facebook, Google Plus, Twitter, and others.
 
-Last Updated: July 2, 2012
+You may choose to provide us with access to certain personal information stored by such third party websites. The personal information we have access to varies by website and is controlled by your privacy settings on that website and by your consent. By associating an account managed by a third party with your ECN account and authorizing eBay to have access to this information, you agree that eBay may collect, use, and store information from these websites in accordance with this Privacy Policy.
 
-On July 2, 2012, the Privacy Policy for uk.shopping.com was updated. Please take a few minutes and review the revised policy. If you have any questions or wish to object to these changes, please contact [Customer Support](https://web.archive.org/sc/contact-us)
+### Communication Preferences and Marketing (Opt-out)
 
-The websites of the Shopping.com Network - uk.shopping.com, and dealtime.co.uk - are brought to you by Shopping.com, Inc. 8000 Marina Boulevard, Fifth Floor, Brisbane, CA 94005 USA, , a member of the eBay Inc. corporate family. This Privacy Policy tells you how we use and protect your information on the websites of the Shopping.com Network and in other locations online where you interact with Shopping.com content or services. 
+We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and advertising.
 
-By using the Shopping.com Network, you agree to the terms of the User Agreement, including this Privacy Policy, and you consent to our privacy practices. This includes the use and disclosure of any personal information you have shared with us and its transfer to and storage on our servers in the United States and elsewhere we have facilities. 
+If you do not wish to receive marketing communications from us, you can indicate your communications preference in [My eBay,](http://pages.ebay.com/help/account/my-ebay.html) or within the direct communication from us. If do not wish to participate in our ad-customization programs, you can opt-out by following the directions provided within the applicable advertisement, or directly at our [Ad Choice program.](http://pages.ebay.com/help/account/adchoice.html)
 
-### Binding Corporate Rules
+You can opt-out of receiving marketing communications (including customized ads) from the eBay Commerce Network at any time, but you may not opt-out of administrative emails (for example, emails about your transactions or policy changes) while you are a member of the eBay Commerce Network.
 
-In addition to the privacy practices set out in this Privacy Policy, eBay Inc., the parent company of the Shopping.com Network, has established a set of Corporate Rules (also referred to as Binding Corporate Rules), approved by a number of European Union privacy regulators. These Corporate Rules are a commitment by eBay Inc. to adequately protect your personal information regardless of where the data resides, and depending upon your location, may provide additional privacy rights through your privacy regulator or a court. If you would like additional information regarding the Corporate Rules contact us via the contact details below. 
+### Use and Disclosure
 
-### Collection
+Our primary purpose in collecting personal information is to provide you with secure and smooth access to the ECN websites and/or use of our services, applications, and tools, to provide you with requested customer service and relevant information about your account and our services, and to provide you with a safe, efficient, and customized experience. You agree that we may use your personal information to:
 
-You can browse the Shopping.com Network without telling us who you are or revealing any personal information about yourself. Certain features and services on the Shopping.com Network require that you register and supply some information that allows us to identify you. We collect some information automatically from your computer while you browse our sites, such as where you go on the Shopping.com Network and what you do there. We collect your IP address, computer and connection information, browser type and version, operating system and platform, the URLs you come from and go to next, and a cookie number. 
+  * operate our websites and provide access to our applications, services, and tools;
+  * provide customer support;
+  * analyze site and user behavior and prepare aggregated reports; 
+  * prevent, detect, and investigate fraud, security breaches, and potentially prohibited or illegal activities, and enforce our User Agreement;
+  * measure and improve our sites and services, and customize our services, content, and advertising;
+  * contact you, either via email or telephone, to resolve disputes, collect fees, troubleshoot problems with your account or our sites, services, applications, or tools, or to deliver targeted marketing, service updates, or promotional offers in accordance with your stated communication preferences; or
+  * provide other services requested by you, as described at the time when we collect the information from you, or to contact you for other purposes authorized by law.
 
-When you register on one of the sites in the Shopping.com Network, we may collect and store your e-mail address and a password. You can also choose to provide the following personal information: 
 
-  * Member profile information, including first and last name, member name and location
-  * Fulfillment information, including mailing address and phone number
-  * Other information that allows us to personalize your Shopping.com Network experience—for example, your filter and profile preferences.
 
+We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with this Privacy Policy and applicable laws and regulations. As stated above, we do not disclose your personal information to third parties for their marketing purposes without your explicit consent.
 
+We may also share your personal information with:
 
-We may get additional information from or about you in other ways not specifically described here. For example, you might contact Community Care or customer support or respond to a survey, or we might get a third-party complaint about you. 
+  * [Members of the eBay Inc. corporate family](http://www.ebayprivacycenter.com/about-us/corporate-family) to provide joint content and services (like registration, transactions, and customer support), to help detect and prevent potentially illegal acts, violations of our policies, fraud and/or data security breaches, and to guide decisions about their products, sites, applications, services and tools, and communications. Members of our corporate family will use this information to send you marketing communications only if you have requested their services and will use your personal information in compliance with their Privacy Policy and our global privacy standards.
+  * Service providers under contract who help with our business operations (such as, but not limited to, fraud investigations, bill collection, affiliate and rewards programs, site operations, and co-branded credit cards).
+  * Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service). On the eBay Commerce Network, you may have opportunities to express interest in or register for third-party products and services. If you do, we will provide information about you to the third party to implement your request;
+  * Law enforcement, governmental agencies, or authorized third parties, in response to a verified request relating to a criminal investigation or alleged illegal activity or any other activity that may expose us, you, or any other eBay Commerce Network user to legal liability. In such events, we will only disclose information relevant and necessary to the investigation or inquiry, such as name, city, state, ZIP code, telephone number, email address, User ID history, IP address, fraud complaints, and anything else we may deem relevant to the investigation;
+  * Credit bureaus with which we may report information about your account, including information on late payments, missed payments, or other defaults on your account may be reflected in your credit report;
+  * Other business entities, should we plan to merge with or be acquired by that business entity. (Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your personal information. If your personal information would be used contrary to this policy, you will receive prior notice); and/or
+  * For our internal development and market research, we may collect survey information from you and share the results with our affiliates, consultants, vendors and service providers as applicable and authorized by this Privacy Policy.
 
-**Co-Branded Services.** Shopping.com works with some website operators to provide co-branded services. You will know you are on a co-branded website when the co-brand partner's logo appears at the top of the page. When you visit a co-branded website, you are subject to that website's privacy policy. Shopping.com does not receive any personal information about you from that website operator. 
 
-### Marketing
 
-We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and advertising. If you don't wish to receive marketing communications from us or participate in our ad-customization programs, simply indicate your preference in your Shopping.com account or by following the directions provided with the communication or advertisement. 
+Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will disclose your personal information to law enforcement, other government officials, or other third parties only if such parties have a subpoena, court order, or substantially similar legal procedure, or if we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
 
-### Use
+### Information You Share on Site
 
-We use the information we collect to: 
+Some portions of the eBay Commerce Network allow you to contribute ratings, reviews, tags, comments, and other content, either on one of our websites or via our product review services on other websites. This content may be displayed publicly on the eBay Commerce Network and elsewhere on the web. The reviews and comments you publish may be displayed with your member or user name. Registered members can publish reviews by logging in to their accounts; reviews submitted through our product review services cannot be deleted once uploaded. For some of our features, other members may be able to request email notifications of your new public content or publish their own comments to your reviews. You can also choose to make your wish lists private, but they are public by default. 
 
-  * operate the Shopping.com Network
-  * provide you with information and services you request
-  * customize content, advertising, and your experience on the Shopping.com Network
-  * communicate with you about your orders, service updates and other administrative issues
-  * Deliver targeted marketing and promotional offers, on our sites or based on your communications preferences
-  * measure and improve our sites and services
-  * resolve disputes, address complaints and troubleshoot technical problems
-  * analyze site and user behavior and prepare aggregated reports
-  * Tell you about our services and those of our corporate family
+We may use the public content to develop aggregate ratings, personalize site views, market products or identify or feature popular members. For example, we may promote most popular or highest-earning reviews and members. While we do not expect to transfer the complete review rating and web of trust database to others (except as discussed in this policy), we use the database throughout our network and to generate results for others.
 
+Your ECN User ID is displayed throughout the eBay Commerce Network (and so it is available to the public), and is connected to all of your ECN activity. This means that other people can see the feedback, ratings, and comments associated with your User ID. Notices sent to other community members about suspicious activity and policy violations on our sites likewise refer to specific User IDs. Therefore, if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your ECN activities. 
 
+If you access our sites from a shared computer or a computer in an internet café, you must log out of your account after use, or else certain information about you such as your User ID, activity, or reminders from eBay may be visible to other individuals who use the computer after you.
 
-### Sharing and Disclosure
+### Cookies
 
-**Other eBay Companies.** We may share information with members of the eBay Inc. corporate family—like eBay or PayPal —to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you've requested their services. 
+When you access our websites or use our applications, services, or tools, we may place small data files on your computer or other device. These data files may be cookies, pixel tags, "Flash cookies," or other local storage provided by your browser or associated applications ("Cookies"). We use these data files to help us identify you as a user, customize our services, content and advertising, to measure promotional effectiveness, and to promote trust and safety. For more detailed information on our use of Cookies, see , see [Cookies and Your Privacy](http://pages.ebay.com/help/account/cookies-web-beacons.html). 
 
-**Service Providers.** We may share your information with service providers under contract who help with our business operations (such as maintaining the Shopping.com Network and providing related services). 
+A few important things you should know about our use of Cookies: 
 
-**Special Offers.** On the Shopping.com Network, you may have opportunities to express interest in or register for third-party products and services. If you do, we will provide information about you to the third party to implement your request. 
+  * We offer certain features that are available only through the use of Cookies
+  * We use both session and persistent Cookies. Session Cookies expire and no longer have any effect when you log out of your account or close your browser. Persistent Cookies remain on your device until you erase them or they expire
+  * You are always free to decline Cookies if your browser permits, although doing so may interfere with your use of our websites, applications, and/or services and tools. Refer to the help section of your browser, browser extensions, or installed applications for instructions on blocking, deleting, or disabling Cookies
+  * We encode and protect our Cookies so that only we can interpret the information stored in them
+  * You may encounter Cookies from third parties, known as service providers, that we have allowed on our site that assist us with various aspects of our web site operations and services
+  * You also may encounter Cookies from third parties on certain pages of the websites that we do not control and have not authorized. (For example, if you view a web page created by another user, there may be a cookie placed by that web page)
 
-**Feedback.** We may use survey results for our internal development and market research and share the results with our affiliates, consultants, vendors and service providers. 
 
-**Assets.** As our business evolves, Shopping.com may sell, transfer or otherwise share some or all of its assets in connection with a merger, reorganization or sale of assets, or in the event of bankruptcy. In such an event, personal information may be one of the assets transferred. 
 
-**Other Disclosures.** We may disclose information when permitted by law or under the good-faith belief that such disclosure is necessary under applicable law; to comply with legal process served on Shopping.com; to protect the property or interests of Shopping.com, its agents and employees; or to protect personal safety or the public. 
+### Spam, Spyware, or Spoofing
 
-### Public Content
+eBay Inc. does not tolerate spam on the eBay Commerce Network. We do not send emails to anyone without permission, and we do not sell or rent email addresses to any unauthorized third party. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact our Privacy Department as directed below and we will investigate.
 
-Some portions of the Shopping.com Network allow you to contribute ratings, comments, reviews and other content. This content is displayed publicly unless you register and change your default configuration. The reviews and comments you publish may be displayed with your member name. If other members choose to, they can receive email notifications of your new public content or publish their own comments to your reviews. 
+### Accessing, Reviewing, and Changing Your Personal Information
 
-We may use the public content to develop aggregate ratings, personalize site views and market products. We may use your public content to personalize site views and identify or feature popular members. For example, we may promote most popular or highest-earning reviews and members. While we don't expect to transfer the complete review rating and web of trust database to others (except as discussed in this policy), we use the database throughout our network and to generate results for others. 
+Registered members can review and change personal information at any time by accessing the member page on their country version of Shopping.com (the [United States](http://www.shopping.com/), the [United Kingdom](http://uk.shopping.com/), [France](http://fr.shopping.com/), [Germany](http://de.shopping.com/) and [Australia](http://au.shopping.com/) ) or [Epinions](http://www.epinions.com/myaccount.html). You should promptly update your personal information if it changes or becomes inaccurate. You can make your ECN wish lists private by clicking “MyLists” and indicating that you want to keep your lists private. You can close your Shopping.com account by contacting Customer Support for the following country versions of Shopping.com through the following links: the [United States](http://www.shopping.com/sc/contact-us), the [United Kingdom](http://uk.shopping.com/sc/contact-us), [France](http://fr.shopping.com/sc/contact-us), [Germany](http://de.shopping.com/sc/contact-us) and [Australia](http://au.shopping.com/sc/contact-us), or your Epinions account by clicking [here](http://www.epinions.com/help/feedback_general.html). We may retain some information from closed accounts so that we can comply with law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our User Agreement, or take other actions permitted by law.  Likewise if your account or membership is terminated or suspended, we may maintain some information to prevent re-registration.
 
-### E-mail Communications
+### Protection and Retention
 
-**Choice/Opt-Out.** At any time, you have the ability to opt out of receiving marketing communications (including customized ads) from the Shopping.com Network, but you may not opt out of administrative emails (for example, emails about your transactions or policy changes) while you are a member of the Shopping.com Network. You can opt out by either changing your preferences or by following the directions provided with the communication or advertisement. 
+We store and process your information on our servers located in the United States and around the world. We maintain appropriate technical, physical, and administrative security measures to protect the security of your personal information against loss, misuse, unauthorized access, disclosure or alteration. We take steps to ensure that the personal information we collect is accurate and up to date, and delete any information that is no longer useful or relevant to our operations. 
 
-**Email Tools.** If you send emails to a recipient through our site, they will receive your email address and any personal message you include. Although we do not retain in any easily retrievable way the addresses you email, these emails are not private communications. You may not use our email tools to send spam or content that violates the User Agreement. 
+### Third Parties
 
-**Anti-Spam Policy.** Shopping.com does not tolerate spam. We do not send emails to anyone without permission, and we do not sell or rent email addresses to any unauthorized third party. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact our [Privacy Department](https://web.archive.org/sc/contact-us) and we will investigate. 
+Our ECN websites may contain links to other third party websites. We are not responsible for the privacy practices or the content of these sites. If you have concerns about how other websites collect and use information about you, make sure to read that site's own privacy policy.
 
-### Cookies and Web Beacons
+### Co-Brand Services
 
-**Shopping.com's Cookies.** Shopping.com, other members of our corporate family who provide us with joint services, and our service providers will sometimes place anonymous cookies or web beacons on your computer when you visit our sites or our co-branded sites. We use these cookies and web beacons to recognize returning users, measure traffic, track conversion and activity on the sites, monitor and improve our services and protect against fraud. We also use cookies to customize services, content, advertising, and promotional offers. 
+You'll sometimes see eBay Commerce Network content on other websites, labeled "Powered by eBay Commerce Network." For example, we syndicate our eBay Commerce Network listings for use on other companies' websites. These listings appear with another company's logo at the top of the page. When you browse these syndicated listings, you are subject to that company's privacy policy, and eBay Inc. does not collect any personal information about you or receive any personal information from these other companies. The privacy practices of our corporate family are consistent with those described in this Privacy Policy and our BCRs.
 
-You can block cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent us from delivering certain services to you. Your browser must be set to accept cookies in order to access the Shopping.com Network as a registered member. 
+You may also interact with our product review services on websites operated by other companies. When you submit reviews or other content using our product review services, the information we collect is subject to our policies. We clearly label our product review services with the ECN Privacy Policy and User Agreement. 
 
-**Our Advertisers's Cookies.** We use the services of third-party advertising companies, who may place cookies that allow them to collect from you and use anonymous information about your visits to the Shopping.com Network. For more about their practices and your options regarding their information collection and use, [click here](https://web.archive.org/sc/advcookies). 
+### Contact Us
 
-### Links to Other Sites
-
-The Sites contains links to other web sites. Shopping.com is not responsible for the privacy practices or the content of these sites. If you have concerns about how other web sites collect and use information about you, make sure to read that site's own privacy policy. 
-
-### Changing or Deleting Information About You
-
-Registered members may access, modify or remove their personal information or delete their membership account by accessing their Member Profile or Account information. We try to implement changes to our databases as quickly as possible. However, not all databases may be updated immediately, and some old data may remain in our archives and records for a short period until updated. Also, we may be unable to send changes you make to partners, vendors or third party service providers who have already received your data or content. If your account or membership is being terminated or suspended, we may maintain some data to prevent re-registration. 
-
-We will retain in our files information you have requested to delete in some circumstances, such as to resolve disputes, analyze programs, enforce our User Agreement. Furthermore, such prior information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems. 
-
-### Security
-
-Shopping.com uses physical, electronic and administrative safeguards, including advanced firewall and password protection for our databases, designed to protect the security of information. We restrict access to your personal information to employees that need to know that information in order to operate, develop or improve our services. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
-
-### General
-
-We may change this policy from time to time, and we will post the amended terms on the Shopping.com Network. All amended terms will take effect immediately for new users, and 30 days after they are posted for existing users. 
-
-If you have any questions about this privacy policy or the practices of the Shopping.com Network, you may e-mail our [Privacy Department](https://web.archive.org/sc/contact-us) or contact: 
-
-Customer Support  
-Shopping.com, Inc.  
-8000 Marina Boulevard  
-Fifth Floor  
-Brisbane, CA 94005  
-phone: 650.616.6500  
-fax: 650.616.6510
-
-Shopping.com UK Client Services  
-Client Support Tel no - 0208 605 3345 or 0208 605 3364.  
-Email - [clientsupport@shopping.com](mailto:clientsupport@shopping.com)
-
-## Privacy Policy
-
-Last Updated: July 2, 2012
-
-On July 2, 2012, the Privacy Policy for shopping.com was updated. Please take a few minutes and review the revised policy. If you have any questions or wish to object to these changes, please contact [Customer Support](https://web.archive.org/sc/contact-us). 
-
-The websites of the Shopping.com Network are brought to you by Shopping.com, Inc. 8000 Marina Boulevard, Fifth Floor, Brisbane, CA 94005 USA, , a member of the eBay Inc. corporate family. This Privacy Policy tells you how we use and protect your information on the websites of the Shopping.com Network and in other locations online where you interact with Shopping.com content or services. 
-
-By using the Shopping.com Network, you agree to the terms of the User Agreement, including this Privacy Policy, and you consent to our privacy practices. This includes the use and disclosure of any personal information you have shared with us and its transfer to and storage on our servers in the United States and elsewhere we have facilities.
-
-### Binding Corporate Rules
-
-In addition to the privacy practices set out in this Privacy Policy, eBay Inc., the parent company of the Shopping.com Network, has established a set of Corporate Rules (also referred to as Binding Corporate Rules), approved by a number of European Union privacy regulators. These Corporate Rules are a commitment by eBay Inc. to adequately protect your personal information regardless of where the data resides, and depending upon your location, may provide additional privacy rights through your privacy regulator or a court. If you would like additional information regarding the Corporate Rules contact us via the contact details below.
-
-### Collection
-
-You can browse the Shopping.com Network without telling us who you are or revealing any personal information about yourself. Certain features and services on the Shopping.com Network require that you register and supply some information that allows us to identify you. We collect some information automatically from your computer while you browse our sites, such as where you go on the Shopping.com Network and what you do there. We collect your IP address, computer and connection information, browser type and version, operating system and platform, the URLs you come from and go to next, and a cookie number. When you register on one of the sites in the Shopping.com Network, we may collect and store your e-mail address and a password. You can also choose to provide the following personal information: 
-
-  * Member profile information, including first and last name, member name and location 
-  * Fulfillment information, including mailing address and phone number
-  * Other information that allows us to personalize your Shopping.com Network experience—for example, your filter and profile preferences.
-
-
-
-We may get additional information from or about you in other ways not specifically described here. For example, you might contact Community Care or customer support or respond to a survey, or we might get a third-party complaint about you. 
-
-**Co-Branded Services.** Shopping.com works with some website operators to provide co-branded services. You will know you are on a co-branded website when the co-brand partner's logo appears at the top of the page. When you visit a co-branded website, you are subject to that website's privacy policy. Shopping.com does not receive any personal information about you from that website operator. 
-
-### Marketing
-
-We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and advertising. If you don't wish to receive marketing communications from us or participate in our ad-customization programs, simply indicate your preference in your Shopping.com account or by following the directions provided with the communication or advertisement.
-
-### Use
-
-We use the information we collect to: 
-
-  * operate the Shopping.com Network
-  * provide you with information and services you request
-  * customize content, advertising, and your experience on the Shopping.com Network
-  * communicate with you about your orders, service updates and other administrative issues
-  * Deliver targeted marketing and promotional offers, on our sites or based on your communications preferences
-  * measure and improve our sites and services
-  * resolve disputes, address complaints and troubleshoot technical problems
-  * analyze site and user behavior and prepare aggregated reports
-  * Tell you about our services and those of our corporate family
-
-
-
-### Sharing and Disclosure
-
-**Other eBay Companies.** We may share information with members of the eBay Inc. corporate family—like eBay or PayPal —to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you've requested their services. 
-
-**Service Providers.** We may share your information with service providers under contract who help with our business operations (such as maintaining the Shopping.com Network and providing related services). 
-
-**Special Offers.** On the Shopping.com Network, you may have opportunities to express interest in or register for third-party products and services. If you do, we will provide information about you to the third party to implement your request. 
-
-**Feedback.** We may use survey results for our internal development and market research and share the results with our affiliates, consultants, vendors and service providers. 
-
-**Assets.** As our business evolves, Shopping.com may sell, transfer or otherwise share some or all of its assets in connection with a merger, reorganization or sale of assets, or in the event of bankruptcy. In such an event, personal information may be one of the assets transferred. 
-
-**Other Disclosures.** We may disclose information when permitted by law or under the good-faith belief that such disclosure is necessary under applicable law; to comply with legal process served on Shopping.com; to protect the property or interests of Shopping.com, its agents and employees; or to protect personal safety or the public. 
-
-### Public Content
-
-Some portions of the Shopping.com Network allow you to contribute ratings, comments, reviews and other content. This content is displayed publicly unless you register and change your default configuration. The reviews and comments you publish may be displayed with your member name. If other members choose to, they can receive email notifications of your new public content or publish their own comments to your reviews. 
-
-We may use the public content to develop aggregate ratings, personalize site views and market products. We may use your public content to personalize site views and identify or feature popular members. For example, we may promote most popular or highest-earning reviews and members. While we don't expect to transfer the complete review rating and web of trust database to others (except as discussed in this policy), we use the database throughout our network and to generate results for others. 
-
-### E-mail Communications
-
-**Choice/Opt-Out.** At any time, you have the ability to opt out of receiving marketing communications (including customized ads) from the Shopping.com Network, but you may not opt out of administrative emails (for example, emails about your transactions or policy changes) while you are a member of the Shopping.com Network. You can opt out by either changing your preferences or by following the directions provided with the communication or advertisement. 
-
-**Email Tools.** If you send emails to a recipient through our site, they will receive your email address and any personal message you include. Although we do not retain in any easily retrievable way the addresses you email, these emails are not private communications. You may not use our email tools to send spam or content that violates the User Agreement. 
-
-**Anti-Spam Policy.** Shopping.com does not tolerate spam. We do not send emails to anyone without permission, and we do not sell or rent email addresses to any unauthorized third party. This does not mean that we can prevent spam from happening on the Internet. If you believe that you have received an unsolicited email from us, please contact our [Privacy Department](https://web.archive.org/sc/contact-us) and we will investigate. 
-
-### Cookies and Web Beacons
-
-**Shopping.com's Cookies.** Shopping.com, other members of our corporate family who provide us with joint services, and our service providers will sometimes place anonymous cookies or web beacons on your computer when you visit our sites or our co-branded sites. We use these cookies and web beacons to recognize returning users, measure traffic, track conversion and activity on the sites, monitor and improve our services and protect against fraud. We also use cookies to customize services, content, advertising, and promotional offers. 
-
-You can block cookies by changing the settings on your browser (contact your ISP for help), but doing so may prevent us from delivering certain services to you. Your browser must be set to accept cookies in order to access the Shopping.com Network as a registered member. 
-
-**Our Advertisers's Cookies.** We use the services of third-party advertising companies, who may place cookies that allow them to collect from you and use anonymous information about your visits to the Shopping.com Network. For more about their practices and your options regarding their information collection and use, [click here](https://web.archive.org/sc/advcookies). 
-
-### Links to Other Sites
-
-The Sites contains links to other web sites. Shopping.com is not responsible for the privacy practices or the content of these sites. If you have concerns about how other web sites collect and use information about you, make sure to read that site's own privacy policy. 
-
-### Changing or Deleting Information About You
-
-Registered members may access, modify or remove their personal information or delete their membership account by accessing their Member Profile or Account information. We try to implement changes to our databases as quickly as possible. However, not all databases may be updated immediately, and some old data may remain in our archives and records for a short period until updated. Also, we may be unable to send changes you make to partners, vendors or third party service providers who have already received your data or content. If your account or membership is being terminated or suspended, we may maintain some data to prevent re-registration. 
-
-We will retain in our files information you have requested to delete in some circumstances, such as to resolve disputes, analyze programs, enforce our User Agreement. Furthermore, such prior information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems. 
-
-### Security
-
-Shopping.com uses physical, electronic and administrative safeguards, including advanced firewall and password protection for our databases, designed to protect the security of information. We restrict access to your personal information to employees that need to know that information in order to operate, develop or improve our services. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
-
-### General
-
-We may change this policy from time to time, and we will post the amended terms on the Shopping.com Network. All amended terms will take effect immediately for new users, and 30 days after they are posted for existing users. 
-
-If you have any questions about this privacy policy or the practices of the Shopping.com Network, you may e-mail our [Privacy Department](https://web.archive.org/sc/contact-us) or contact: 
-
-Shopping.com, Inc.  
-8000 Marina Boulevard  
-Fifth Floor  
-Brisbane, CA 94005  
-phone: 650.616.6500  
-fax: 650.616.6510
+If your questions are not answered online, you may write to us at: eBay Inc. Attn: Legal - Global Privacy Practices, 2145 Hamilton Avenue, San Jose, California 95125, or using the [Contact Us](http://contact.ebay.com/ws/eBayISAPI.dll?ContactUsNextGen&domain=Help&query=Privacy%20policy&from=1003146) form. More information about the Global Privacy Office or how to contact us is available at our [eBay Privacy Center.](http://www.ebayprivacycenter.com/about-us)
