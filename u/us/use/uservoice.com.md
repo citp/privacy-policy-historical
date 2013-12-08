@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uservoice.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128132248id_/http%3A//www.uservoice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uservoice.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208144431id_/https%3A//www.uservoice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | UserVoice
 
@@ -6,7 +6,7 @@
 
 _Effective 11th July 2011_
 
-This privacy policy discloses the privacy practices of UserVoice, Inc. ("UserVoice," “we,” “our” or “us”), which owns and operates various sites on the World Wide Web, including without limitation Uservoice.com, (collectively, the “UserVoice Websites”). Your access to and use of the UserVoice Websites and all the services provided via the UserVoice Websites (collectively, the “UserVoice Services”) are subject to UserVoice’s Terms of Use and all applicable laws.
+This privacy policy discloses the privacy practices of UserVoice, Inc. (“UserVoice,” “we,” “our” or “us”), which owns and operates various sites on the World Wide Web, including without limitation Uservoice.com, (collectively, the “UserVoice Websites”). Your access to and use of the UserVoice Websites and all the services provided via the UserVoice Websites (collectively, the “UserVoice Services”) are subject to UserVoice’s Terms of Use and all applicable laws.
 
 This privacy policy describes how UserVoice collects, uses, and shares information about you that it obtains in connection with providing UserVoice Services to you.
 
@@ -34,7 +34,7 @@ You may refuse to accept cookies by activating the setting on your browser which
 
 #### Information collected by third parties
 
-UserVoice may use services that collect data remotely by using "pixel tags," "web beacons," "clear GIFs," or similar technologies. Such technologies can recognize certain types of information on your web browser, check whether you have viewed a particular web page or email message, and determine, among other things, the time and date on which you viewed them and the IP address of the computer from which you viewed them.
+UserVoice may use services that collect data remotely by using “pixel tags,” “web beacons,” “clear GIFs,” or similar technologies. Such technologies can recognize certain types of information on your web browser, check whether you have viewed a particular web page or email message, and determine, among other things, the time and date on which you viewed them and the IP address of the computer from which you viewed them.
 
 UserVoice Services may be linked to or provided through third party websites. UserVoice is not responsible for the privacy policies and/or practices on such third party websites. When linking or accessing such websites, you should carefully review the privacy policy of such third party to determine how it handles information it separately collects from you.
 
@@ -94,11 +94,11 @@ San Francisco, CA 94105
 [support@uservoice.com](mailto:support@uservoice.com)  
 Attn: Chief Executive Officer 
 
-UserVoice has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by UserVoice please visit the BBB EU SAFE HARBOR web site at [ www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20121128132248id_/http://www.uservoice.com/privacy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+UserVoice has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by UserVoice please visit the BBB EU SAFE HARBOR web site at [ www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ### Changes to this privacy policy
 
-From time to time, we may make changes to this privacy policy. In order to ensure that you are familiar with our most updated policies and practices, you should check the effective date indicated above of this privacy policy each time you use the UserVoice Services. If we make any changes, we will notify you of such changes by posting the updated privacy policy on the UserVoice Websites. We may also send you an email alerting you of such changes. You will be bound by any such changes to the policy when you use the UserVoice Services after those changes have been posted. If we make material revisions concern practices where we have represented that we will obtain your consent to use or disclose your personal information, we will obtain your consent before taking any action inconsistent with those representations. 
+From time to time, we may make changes to this privacy policy. In order to ensure that you are familiar with our most updated policies and practices, you should check the effective date indicated above of this privacy policy each time you use the UserVoice Services. If we make any changes, we will notify you of such changes by posting the updated privacy policy on the UserVoice Websites. We may also send you an email alerting you of such changes. You will be bound by any such changes to the policy when you use the UserVoice Services after those changes have been posted. If we make material revisions concern practices where we have represented that we will obtain your consent to use or disclose your personal information, we will obtain your consent before taking any action inconsistent with those representations.
 
 ### Contacting UserVoice
 
