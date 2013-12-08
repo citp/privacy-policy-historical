@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tube8live.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115092332id_/http%3A//www.tube8live.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tube8live.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208152929id_/http%3A//www.tube8live.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Tube8Live - Privacy
+# Tube8Live - Privacy Policy
 
 [Home](http://www.tube8live.com/) / Privacy Policy
 
@@ -47,9 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-Streamates Limited  
-c/o Ariel Secretaries Limited  
-196, Arch Makarios Ave, Ariel Corner,  
-1st Flr, Office 102  
-P.O. Box 57528  
-3316 Limassol - Cyprus
+ICF Technology, Inc.  
+PO Box 21508  
+Seattle, WA 98111  
+USA 
