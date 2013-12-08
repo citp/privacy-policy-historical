@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the super8-movie.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601041258id_/http%3A//www.paramount.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the super8-movie.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208040802id_/http%3A//www.paramount.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Paramount Pictures
 
