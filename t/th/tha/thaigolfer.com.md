@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thaigolfer.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628154541id_/http%3A//thaigolfer.com/site/page%3Fview%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaigolfer.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208172107id_/http%3A//thaigolfer.com/site/page%3Fview%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Thaigolfer - Page Site
 
