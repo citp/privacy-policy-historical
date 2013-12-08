@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628133110id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208221603id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Casting Calls & Auditions - Join Free
+# Acting Auditions Free. The most Acting Auditions Acting Jobs on the web!
 
 |  |  [Member Success Stories](https://web.archive.org/testimonials.php) [](https://web.archive.org/testimonials.rss.php) |   
 ---|---|---  
