@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513041631id_/http%3A//www.metro.net/about/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metro.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208080826id_/http%3A//www.metro.net/about/site-information/privacy-policy) for the most accurate reproduction.*
 
 # Site Information | Privacy Policy
 
@@ -21,7 +21,7 @@ Cookies are small files which can be placed on your computer by Web servers when
 
 Metro provides links to other government transit related websites as a service to our customers and does not share any personal information with these entities. Note that Metro does not endorse or take responsibility for information contained on those sites.
 
-### 'Go Metro' Mobil App
+### 'Go Metro' Mobile App
 
 Metro does not collect nor store personal information from customers downloading, installing or using our 'Go Metro' mobile applications for iPhone, iPad, or Android. Customers who want to provide feedback via the 'Report A Bug' button in the application have the option to provide contact information ONLY if they'd like a reply. Device model and current operating system is collected for troubleshooting, this response is sent by email.
 
@@ -33,7 +33,7 @@ Metro tracks activity and site function on its web site in the form of log files
 
 **Last Revised**
 
-Tuesday May 07, 2013
+Tuesday June 04, 2013
 
   
 
@@ -44,3 +44,5 @@ Thursday February 11, 2010
 
   
 
+
+For viewing MS Word, Powerpoint, and Excel documents - Download [Adobe Acrobat Reader](http://get.adobe.com/reader/?promoid=BUIGO) (free) or use [Google Docs Reader](https://docs.google.com/viewer) (online)
