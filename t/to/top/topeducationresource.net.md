@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topeducationresource.net privacy policy that was archived on 2012-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120124134904id_/http%3A//www.topeducationresource.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topeducationresource.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208194801id_/http%3A//topeducationresource.net/privacy.htm) for the most accurate reproduction.*
 
 # Email List Privacy Policy
 
