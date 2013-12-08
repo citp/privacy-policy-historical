@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpintense.com privacy policy that was archived on 2010-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100101060603id_/http%3A//www.wpintense.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpintense.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208073549id_/http%3A//wpintense.com/privacy.php) for the most accurate reproduction.*
 
 # WPintense
 
@@ -26,6 +26,6 @@
 
 10\. Changes to Privacy Policy. If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.
 
-11\. Effective Date. This Privacy Policy is effective as of January 01, 2010.
+11\. Effective Date. This Privacy Policy is effective as of December 08, 2013.
 
 12\. Contact E-Mail. You may contact us concerning this Privacy Policy at the following e-mail address: angel@dataviking.com
