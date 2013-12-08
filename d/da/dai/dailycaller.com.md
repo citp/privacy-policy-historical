@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621124628id_/http%3A//dailycaller.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208141848id_/http%3A//dailycaller.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Caller
 
@@ -173,6 +173,12 @@ California residents may request a list of all third parties to which The DC has
 **XI. HOW TO CONTACT US**
 
 Questions and comments regarding this Privacy Policy should be directed to privacy@dailycaller.com.
+
+The Daily Caller  
+1050 17th Street NW  
+Suite 900  
+Washington, DC 20036  
+(202) 506-2027
 
 Copyright (c) 2012, The Daily Caller, Inc.
 
