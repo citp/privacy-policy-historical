@@ -1,87 +1,245 @@
-> *The following text is extracted and transformed from the ondemandresearch.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002224626id_/http%3A//www.ondemandresearch.com/privacy-policy/index.html%3Fheight%3D600%26width%3D800) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondemandresearch.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208160429id_/http%3A//survey.ondemandresearch.com/lch2.php%3Flk%3D5117%26bid%3D184%26sesp%3D516_23915) for the most accurate reproduction.*
 
-# OnDemand Research » The Next Level of Market Research
+# OnDemand Research: The Next Level of Market Research.com Privacy Policy
 
-This privacy policy updated October 27, 2009
+http://survey.ondemandresearch.com ****
 
-OnDemandResearch.com is committed to protecting your privacy in a manner that will allow you to use our services with confidence and peace of mind. The purpose of this Privacy Policy is to describe: 1) what information OnDemandResearch.com collects; 2) how we use it; 3) your control over the information you give us and; 4) how we protect your information from theft or unauthorized use. This Privacy Policy is subject to change from time to time, so please check back periodically. Use of the services offered at this site constitutes acceptance of the terms of this Privacy Policy. If you have a question about the Privacy Policy please send us an e-mail message at [security@OnDemandResearch.com](mailto:security@OnDemandResearch.com)
+**Review Our Privacy Policy**
 
-## The Information We Collect
+Last Revised: Oct 15, 2013
 
-Any information that you provide through the OnDemandResearch.com registration process or responses to offers made available to you through our site is completely voluntary. You always have a choice whether or not to disclose information requested in the survey, registration or offer form or to remain opted-in as a OnDemandResearch.com user. The information we collect includes contact and postal information (such as name, mailing address and home or mobile telephone number), e-mail address and demographic information (such as age, interests and additional information). In addition, OnDemandResearch.com may present questions regarding your health. Your participation in these questions is completely voluntary. Lastly, OnDemandResearch.com does not collect credit card information or Social Security numbers. Please contact [security@OnDemandResearch.com](mailto:security@OnDemandResearch.com) immediately should you receive a request for such information.
+Use the links below to navigate to specific information about our Privacy Policy.  
+---  
+  
+**Our Privacy Commitment**  
+  
+**Information We Collect**  
+  
+**Use of Information**  
+  
+**Opt-Out Policy**  
+  
+**Global Data Processing and Safe Harbor Principles**  
+  
+**Privacy Complaints**  
+  
+**How to Access or Modify Your Information**  
+  
+**Special Notification for California Residents**  
+  
+**Links to Other Sites**  
+  
+**Security**  
+  
+**Changes to This Privacy Policy**  
+  
+  
 
-We are able to offer our free services, in part, based upon the willingness of our users to be contacted by our marketing partners, including affiliated third party advertisers. By allowing us to make the information you supply available to our marketing partners, you will receive free product and service information that may be of interest to you. You may, at any time, notify us that you do not wish to have your Personal Information disclosed to third parties for offers and promotions by sending an e-mail to [privacy@OnDemandResearch.com](mailto:privacy@OnDemandResearch.com).
 
-We also think that you should be rewarded for the time it takes to fill out our survey. That's why we provide incentives either directly or indirectly. In part, that's also why we cannot accept information from those under the age of 18 years. Those under 18 cannot participate in sweepstakes and promotions offered by OnDemandResearch.com or the promotion sponsor. In addition, we do not knowingly collect, use or disseminate any personally identifiable information from children under the age of 13. If, however, we become aware that personally identifiable information regarding a child under the age of 13 has been collected, we will delete it from our records. We encourage parents and guardians to participate in and supervise the online activities of their children.
+* * *
 
-## How We Use It
+**Our Privacy Commitment**
 
-Your information will be used to improve and personalize the offers OnDemandResearch.com sends to you and all our members. By providing your e-mail address to OnDemandResearch.com, you are agreeing to receive periodic e-mail messages from OnDemandResearch.com. OnDemandResearch.com may send you e-mail and/or SMS text messages regarding marketing offers from us or other reputable organizations whose products and services we think you might find interesting. Contact, postal, mobile phone number, e-mail address and demographic information may be shared with third party marketers for marketing purposes. Similarly, your answers to health related questions may be used or shared to market or advertise products, goods or services to you. By completing health related questions on the survey, you are consenting to the use of this information for direct marketing purposes. In addition, OnDemandResearch.com provides services for direct marketing applications including lookup and reference, data enhancement, suppression and validation.
+**OnDemand Research: The Next Level of Market Research** (the "Site") is owned and operated by OnPoint Communications, LLC., a leading online customer loyalty and rewards company. We respect your privacy and our goal is to maintain your trust when handling your personal information. This document is intended to inform you, the end user, about how we handle information we process on behalf of our clients who use our lead generation and online marketing services (our "Clients"). 
 
-In addition, by registering at any of the Sites, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR 310 et seq.), as amended from time to time (the ("Rule") and applicable state do-not-call regulations. Notwithstanding that your telephone number may be listed at the Federal Trade Commission' Do-Not-Call List, and/or on applicable state do-not-call lists, we retain the right to contact you via telemarketing in accordance with the Rule and the applicable state do-not-call regulations. In addition, by submitting your personal information to any one of the Sites, you agree to receive mobile marketing including, but not limited to, text-message based marketing, from us and our third-party advertisers and marketers. Notwithstanding that your mobile telephone number may be listed on state and/or federal Do-Not-Call registries, we retain the right to contact you via text-message based marketing in accordance with applicable state and federal law. Further, you agree that we reserve the right to share, sell, rent, lease and/or otherwise distribute your mobile telephone number and other mobile data with/to any third-party for any and all non-marketing uses permitted by this Privacy Policy and applicable law.
+By using this Site you are accepting the practices described in this Privacy Policy and you agree to adhere to the Terms and Conditions posted on the Site. If you do not agree with any terms, please do not use this Site or submit any personal information. 
 
-## SMS Offering and Opt-out rights
+  
+
+
+* * *
+
+**Information We Collect**
+
+** Children's Privacy**
+
+This Site is not directed to children under the age of eighteen and we do not knowingly collect personal information from children under the age of eighteen on the Site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on the Site, we will delete the information from our records.
+
+** Personally Identifiable Information **
+
+You may choose to provide personal information (such as your name, address, telephone number and email address) on this Site. Here are some of the ways you may provide the information and the types of information you may submit. 
+
+** (a) Contact Us**
+
+If you email us through an email or Contact Us link on this Site, we ask you for information such as your name and email address in order to respond to your questions and comments. We will only use this information to respond to your inquiry, unless you authorize additional use of your information. 
+
+** (b) Subscriber Information**
+
+We collect personally identifiable information about our **Subscribers** ,[1] based on: information gathered at the time of registration, Subscriber interaction and response to subsequent electronic mailings and web site use, information provided by our Clients and information appended from data aggregators. Information collected may include name, email address, postal address, gender, birth date, telephone number, cell number, activities, interests, user behavior and other demographic information. This information enables us to better tailor our content to Subscribers' needs and to help our Clients promote and sell their products and services.
+
+If you provide us with a cellphone or wireless device number, or email address, as part of your subscriber information, your provision of such information represents your express written consent to be contacted on that device by email, text (SMS) message and telemarketing, and your receipt of notice that your wireless provider may charge you in connection with receipt of incoming calls or messages. You may revoke authorization to be contacted by such means at any time (see the **Opt-Out Policy** section below). You consent to receive prerecorded calls from our sponsors. You understand that one purpose of this agreement is to authorize our sponsors to place prerecorded calls to you. You also acknowledge that your agreement to these terms in the registration or subscription process constitutes your electronic signature or its equivalent. 
+
+** Non-Personally Identifiable Information**
+
+We collect certain aggregate and non-personally identifiable information, as described below, when you visit this Site. This information does not relate to a single identifiable visitor. It tells us such things as how many users visited our Site and the pages accessed. 
+
+** Log Files**
+
+Like most Web site servers we use log files. To learn more about **log files** , click here.[2] Log file information is not linked to personally identifiable information.
+
+** Cookies**
+
+Like many sites, we collect information about online behavior using cookies. To learn more about ** cookies**, click here.[3] Cookies contain identification information that enables us to offer you the most relevant advertisements and other content. If you have set your computer to reject cookies you can still browse our Site anonymously until such time as you wish to register for an offer or service.
+
+** Web Beacons **
+
+Pages on our Site may contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs). Web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party. We use log files to store the data that is collected through web beacons.
+
+  
+
+
+* * *
+
+**Use of Information**
+
+** Client Offers and Third Parties**
+
+By registering at this Site, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell number may be listed with the federal Do-Not-Call Registry you expressly opt-in to: (a) receive an offer or service from one or more of our Clients; (b) receive future information about products and services from us and from a variety of third parties to whom we may provide your information; (c) permit us, our Clients and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or cell number (including use of automated dialing equipment and prerecorded messages), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g. mms, video etc. ). You acknowledge that your acceptance of these terms constitutes your express agreement to all uses of your information described herein.  
+
+
+**HOW DO WE SHARE INFORMATION?**
+
+**Marketing Partners**
+
+We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs, [click here](http://www.odrpub1d.com/?id=o&pbk=QWdnp) to unsubscribe.
+
+**Data Enhancement/Appending/Validation**
+
+We may use third party service providers to enhance our database with additional elements, including but not limited to age ranges present in your household, whether you own or rent a home, the length of time you have lived at your residence, whether you are a mail order buyer or responder, household income, and gender. Further, we may use third party service providers to append telephone numbers to other data points we have in our database. We also may use third party service providers to validate the data we have in our database.
+
+Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services. 
+
+Please see the opt-out procedures below if you do not want us to share your information with other companies or organizations. 
+
+** Other Circumstances **
+
+We may share personal information about you: 
+
+  * With our service providers and business partners who work on behalf of or with us under confidentiality agreements. These parties may use your personal information to help us communicate with you about offers from us and our Clients. These companies do not have any independent right to use or disclose your information unless you give them that right, or they have it due to your other activities. 
+  * To respond to subpoenas, court orders, or other legal process, or to exercise our legal rights or defend against legal claims. 
+  * If we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our terms of use. 
+  * In the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use the personal information you have provided through this Site in a manner that is consistent with this Privacy Policy.
+
+  
+
+
+* * *
+
+**Opt-Out Policy**
+
+You may exercise your option to not receive any future communications from us by [ _clicking here_](). Subscribers should note that unsubscribing from this Site's electronic mailings will not automatically unsubscribe you from any communications you have elected to receive from our Clients or other third parties. To opt-out of future Client and third party offers, set your Communication Preferences in the [ Customer Status Center]() to indicate that you do not wish to receive any further information. Please note that you may still receive information from third parties to whom we have disclosed your information to prior to the time you opted-out. You should contact each third party in the event that you no longer want to receive information from such party.
+
+** SMS Offering and Opt-out rights **
 
 By completing or submitting a registration form or partial registration form you are consenting to receive SMS, wireless or other mobile offering to your cell phone. You understand that your wireless carrier's standard charges and rates apply to these messages. For SMS text messages, you may remove your information by replying "STOP", "END", or "QUIT" to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request.
 
-## The Controls You Have On The Information You Share
+  
 
-If you do not want us to share contact, postal, e-mail address and demographic information with third party marketers, we can add your name to our "do-not-share" list. Please click [here](https://web.archive.org/web/20121002224626id_/http%3A//www.ondemandresearch.com/contact-us/) to send us a request to be added to this list In addition, you may request to be unsubscribed from our list at any time by clicking on the unsubscribe link contained within the e-mail message delivered by OnDemandResearch.com, contacting us via e-mail at [unsubscribeodr@ondemandresearch.com](mailto:unsubscribeodr@ondemandresearch.com) or writing to us at OnDemandResearch.com, 105 East 34th Street #144, New York, N.Y. 10016, with a request to be removed. We attempt to process all unsubscribe requests in a prompt fashion. However, after unsubscribing, we cannot guarantee that you will never receive another mailing from us, because we may obtain your e-mail address in the future through a different e-mail marketing program that you have opted into. We can guarantee, however, that if you should ever receive another e-mail communication from us, you will be able to remove your e-mail address via the unsubscribe hyperlink. You may unsubscribe from any of our mobile marketing programs at any time. In every mobile communication we send, there is an unsubscribe option that allows the recipient to unsubscribe from the specific marketing program by following the simple instructions included therein. We attempt to process all unsubscribe requests in a prompt fashion. However, after unsubscribing, we cannot guarantee that you will never receive another mobile marketing message from us, because we may obtain your authorization to receive mobile marketing messages in the future through a different mobile marketing program that you have opted into. We can guarantee, however, that if you should ever receive another mobile marketing message from us, you will be able to remove your mobile number via the applicable unsubscribe procedure.
 
-If you supply OnDemandResearch.com with your postal address, you may receive periodic postal mailings from us with information on new products and services or upcoming events. You may also receive mailings from other reputable companies. If you do not want to receive postal mail from OnDemandResearch.com or other reputable companies, please use this form to update your preferences or write to us at OnDemandResearch.com, Attn: No Postal, 105 East 34th Street #144, New York, N.Y. 10016. Please provide us with your exact name and address and we will be sure your name is removed from our postal list.
+* * *
 
-If you give us your telephone number, you may receive calls from OnDemandResearch.com or other reputable companies. You can, however, have your name put on our do-not-call list by clicking here. You can also [submit your request online by using this form](https://web.archive.org/web/20121002224626id_/http%3A//www.ondemandresearch.com/contact-us/).
+**Global Data Processing and Safe Harbor Principles**
 
-At your request, we will remove Personal Information that you have provided to us. You may do so by e-mailing [privacy@OnDemandResearch.com](mailto:privacy@OnDemandResearch.com). However, deleting your Personal Information or otherwise opting-out of receipt of communications from us or third parties will only change or delete the data in our database for purposes of transacting future business on a Site and for managing future communications from us and third parties. These deletions will not change or delete Personal Information already collected as part of a particular transaction in our database, which may have already been shared with third parties, all as provided above in this Privacy Policy. You will need to contact third parties who may contact you directly to change your preferences or your personal information that they may be using to contact you.
+The information that we collect from you may be transferred to, stored at and processed at a destination outside of the U.S. By submitting your personal information, you agree to this transfer, storage and processing.
 
-## Security
+In order to bridge the different privacy approaches between the U.S. and the European Union, the U.S. Department of Commerce, in consultation with the European Commission, developed a "Safe Harbor" framework. We adhere to the Safe Harbor framework which includes the privacy principles of Notice, Choice, Onward Transfer, Access and Accuracy, Security, and Oversight/Enforcement. We are currently seeking participation in the Safe Harbor program. To learn more about the Safe Harbor, [ click here]().
 
-OnDemandResearch.com takes every precaution to protect your information. When you submit information via the website, your information is protected both online and off-line. Although OnDemandResearch.com does not collect sensitive data like credit card information or Social Security numbers and therefore offers a significantly reduced incentive for data theft, we take very seriously our responsibility to protect your private information. Internally, we restrict access to your information to employees who need access to the information in order for them to do their jobs. These employees are limited in number and are committed to our privacy and security policies. Finally, the servers on which we store your information are kept in a secure environment. If you have any questions about the security at our website, you can send an e-mail to [security@OnDemandResearch.com](mailto:security@OnDemandResearch.com). 
+  
 
-## Log Files
 
-We use IP addresses to analyze trends, administer the site, track visitor traffic, and aggregate demographic data. IP addresses are not linked to personally identifiable information.
+* * *
 
-## Third Party Ads
+**Privacy Complaints**
 
-OnDemandResearch.com works with third parties to serve ads and promotions through this site as well as to assist us in managing customer information and to communicate with you. These parties include, but are not limited to Avenue A, Advertising.com and DoubleClick.net. To find out more about how these third parties manage the privacy of information in conjunction with serving ads on this site, please visit the privacy policy on their web sites.
+If you believe that we have not complied with this Privacy Policy, please contact us at:  
+Privacy Officer  
+Information Access Request  
+OnDemand Research: The Next Level of Market Research  
+105 E. 34th Street Ste 144.  
+New York, NY 10016 
 
-## Third Party Incentive Offers
+You may also email us at customer.service@ondemandresearch.com. Please describe in as much detail as possible the ways in which you believe that this Privacy Policy has not been complied with. We will investigate your complaint promptly. 
 
-Cash or other incentives are occasionally offered to members in exchange for completed surveys. These incentives are offered by our sponsors, not by OnDemandResearch.com. If you complete one of these special surveys and your eligibility is confirmed, you will be paid the corresponding incentive via PayPal or check by the companies offering the cash incentives. It may take up to eight (8) weeks to receive the cash funds or other incentives. The funds or incentives will be sent to the e-mail address or physical address you use to register with our sponsors. If your e-mail address or physical address changes and funds or products have already been sent to your address on file, OnDemandResearch.com cannot redirect the funds or other incentives to your new address. It is your responsibility to inform the companies you signed up for of your address or other changes in your contact information. OnDemandResearch.com will not make payments directly in any form.
+If you feel that your inquiry has not been satisfactorily addressed, you may contact the Direct Marketing Association at privacypromise@the-dma.org or in writing at:
 
-## Third Party Sweepstakes, Contests and Prize Promotions
+Direct Marketing Association  
+Attn: Privacy Promise  
+1615 L St. NW  
+Suite 1100  
+Washington, DC 20036 
 
-Some of our sponsors offer sweepstakes, contests or other prize promotions. These promotions are conducted and offered by or through our sponsors, not by OnDemandResearch.com. OnDemandResearch.com is not responsible for any promotion, award, prize, or the use of entrant data by the sponsor or other promotion operator. Prize promotions are subject to all rules and regulations as specified by the sponsor or other promotion operator.
+  
 
-## Member Responsibility
 
-OnDemandResearch.com gathers information for companies, some of which are willing to compensate you for your time and pay you for taking surveys or reading e-mails, to give you various incentives for becoming a member of their panels, or to enter you into prize promotions. You agree to provide truthful information and not to use the name or persona of anyone else. You are responsible for any taxes due as a result of payments made for your participation in online surveys, or any prizes received. Our sponsors are required by law to issue a Form 1099 to any member who is paid $600.00 or more, and/or receives incentives or prizes valued at $600 or more, for participation in surveys, for the participation of referrals, or as prizes. If requested, you hereby agree to provide that information, including your Social Security or Tax ID number, and other personal information as required, to our sponsors for tax reporting purposes. By entering any promotion or incentive program, or participating in any survey or using any feature offered through our websites, you agree to abide by all our terms and conditions, and by the rules and regulations of the sponsor, promoter or operator. You also agree to hold OnDemandResearch.com harmless from all liability, damages or expenses incurred as a result of any violation of those rules and regulations, or of our terms and policies.
+* * *
 
-## Disclaimer of Liability
+**How to Access or Modify Your Information**
 
-OnDemandResearch.com is not responsible for any misdirected, incomplete or incorrect information, entries or data supplied by members or entrants, or for correcting any member or entrant data. OnDemandResearch.com assumes no responsibility or liability for injury, loss, damage, or expense, arising through or from the use of our website, web pages, content, surveys, promotions, or any actions of third parties, including sponsors. OnDemandResearch.com is not responsible for, and disclaims all liability resulting from, all third party incentive, sweepstakes, prize promotions or other programs.
+We strive to keep all personal information accurate and complete. You are always fully in control of the information that we maintain to service you. You can change your personal information at any time and as often as necessary. You can also request that information be deleted. Information may be withheld or exempted from deletion if this is required by law or is part of a fraud investigation, or as otherwise as described above in the Use of Information section.
 
-## Third Party Service
+You may access and modify your personal information by writing to us at: 
 
-From time-to-time, we may partner with other parties to provide specific services. It may be necessary to share names, or other contact information with a third party(ies) to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+Privacy Officer
 
-## Links
+Information Access Request
 
-This website may contain links to other sites. Please be aware that we, OnDemandResearch.com, are not responsible for the privacy practices of these other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by our website. When you are on the OnDemandResearch.com site or are accessing a OnDemandResearch.com promotion through an advertising vehicle, and are asked for personal information, you are sharing that information with OnDemandResearch.com. Promotions, surveys and other sweepstakes offerings may be sponsored, or co-sponsored, by another company. Some or all of the data collected during such a program may be shared with the marketing partner. Your participation is always voluntary.
+105 E. 34th Street Ste 144.  
+New York, NY 10016
 
-## Sale, Merger or Reorganization
+  
 
-OnDemandResearch.com may transfer, sell or assign information concerning your use of this Site, including without limitation, personally identifiable information that you provide and other information concerning your use of the Site, to third parties, as a result of a sale, merger, consolidation, changing control, transfer of substantial assets, reorganization or liquidation of OnDemandResearch.com.
 
-## Special Disclosure Exceptions
+* * *
 
-In some cases, we may disclose your personal information with other third parties if we are required to do so by law or we in good faith believe that such action is necessary to: Comply with the law; Protect and defend our rights and property; Protect against misuse or unauthorized use of the Site and/or OnDemandResearch.com; or Protect the personal safety or property of our users or the public.
+**Special Notification for California Residents**
 
-## Notification of Changes
+Individuals who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following mailing address:
 
-OnDemandResearch.com may from time to time, amend this Policy, in whole or in part, at its sole discretion. If there are material changes to this Policy or in how OnDemandResearch.com uses your personally identifiable information, OnDemandResearch.com will prominently post such changes with a notice on the homepage of the website prior to implementing the change. Please check this page periodically for changes. Continued use of this site following notification of a change in privacy policy shall constitute acceptance of the change and this Policy. If you are not in agreement with the terms of this Policy, please unsubscribe from the OnDemandResearch.com by sending an e-mail to [unsubscribeodr@ondemandresearch.com](mailto:unsubscribeodr@ondemandresearch.com) or write to us at OnDemandResearch.com, 105 East 34th Street #144, New York, N.Y. 10016. If you feel that OnDemandResearch.com is not abiding by its posted privacy policy, please send an e-mail to [security@OnDemandResearch.com](mailto:security@OnDemandResearch.com) or write us at OnDemandResearch.com, 105 East 34th Street #144, New York, N.Y. 10016.
+Sterling Interactive Marketing, Corp.
 
-In addition to the information collected by us and registration information submitted by you, we may employ both first-party and third-party cookies. A cookie is a piece of data stored on your hard drive containing activity-based information about you, and it is designed to facilitate the receipt of targeted and relevant advertisements. The cookie is not associated with your personally identifiable information. To opt out of our third party cookie-based marketing program, click here: <http://rt.displaymarketplace.com/optout.html>
+Privacy Officer
 
-Last Updated: 10/27/2009
+Information Access Request
+
+105 E. 34th Street Ste 144.  
+New York, NY 10016
+
+This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified above.
+
+  
+
+
+* * *
+
+**Links to Other Sites**
+
+We provide links to other Web sites for your convenience and information. These sites may have their own privacy statements in place, which we recommend you review if you visit any linked Web sites. We are not responsible for the content of linked sites or any use of such sites.
+
+  
+
+
+* * *
+
+**Security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Although we take reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Please check periodically to see if there have been any changes. You agree that we may change our privacy policy & terms in this manner. Your use of our website signifies acceptance of the amended privacy policy and terms of use.
+
+  
+
+
+* * *
+
+**Changes to This Privacy Policy**
+
+If we change this Privacy Policy, updates will be posted in this privacy statement and other places we deem appropriate. Information will be used in accordance with the privacy policy under which the information was collected. If users' personally identifiable information will be used in a manner different from that stated at the time of collection, we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner.
+
+  
+
+
+[1] You are a subscriber if you choose to complete an online survey and/or register for or otherwise provide information in association with a service, offer or promotion at our Site.
+
+[2] Log files include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use.
+
+[3] What is a cookie? A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computer and stored on your computer's hard drive. Each web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Many sites do this whenever a user visits their website in order to track online traffic flows. Cookies record information about your online preferences. Cookies let us know about repeat visitors and if we are delivering quality products and services to our Clients. We may also use cookies to identify which sites our repeat visitors are coming from, so that we can place more of our online advertising on these sites, and can, where necessary, pay our affiliates and other business partners. We may share this information with third parties, but only in aggregated, anonymous form, including reporting the results of advertising campaigns. Reporting and analyzing the performance of offers and advertisements improves our ability to serve the right offer at the right time, increasing the increasing the personalization of your experience on the Site.
+
+You can set your browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. For further information on cookies please visit http://www.aboutcookies.org. 
