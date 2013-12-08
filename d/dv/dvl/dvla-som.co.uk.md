@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvla-som.co.uk privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609093753id_/http%3A//dvlaregistrations.direct.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvla-som.co.uk privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208210204id_/http%3A//dvlaregistrations.direct.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -56,7 +56,7 @@ These pieces of information are used to improve services for you through, for ex
 
 
 
-You can manage these small files yourself and learn more about them through "[Internet browser cookies - what they are and how to manage them](http://www.direct.gov.uk/managingcookies)
+You can manage these small files yourself and learn more about them through "[Internet browser cookies - what they are and how to manage them](https://www.gov.uk/help/cookies)
 
 ### Our use of cookies
 
