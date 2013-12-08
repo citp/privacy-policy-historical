@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526095402id_/http%3A//wgme.com/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgme.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208210037id_/http%3A//wgme.com/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WGME 13 :: Station Info - Privacy Policy
 
@@ -28,9 +28,9 @@ The Website allows certain advertisements/postings which include links to other 
 
 ### Business News
 
-**US durable goods orders rise 3.3 percent in April**
+**US unemployment falls to 7 pct. on 203K jobs added**
 
-WASHINGTON (AP) -- U.S. orders for long-lasting manufactured goods rebounded in April, buoyed by more demand for military and civilian aircraft and an increase in business investment.
+WASHINGTON (AP) -- A fourth straight month of solid hiring cut the U.S. unemployment rate to a five-year low of 7 percent in November, an encouraging sign for the economy.
 
 ### Consumer Info
 
@@ -44,31 +44,52 @@ AP Business Writer
 
 ### Entertainment News
 
-**"HANGOVER 3"**
+**KENNEDY CENTER HONORS**
 
-LOS ANGELES (AP) -- All hangovers come to an end eventually, and so, too, "The Hangover" franchise. 
+WASHINGTON (AP) -- In the first 35 years of the Kennedy Center Honors, only two Latinos got medals. 
 
 ### Get This
 
-**BEST BEACH**
+**JESUS STOLEN**
 
-EAST HAMPTON, N.Y. (AP) -- Dr. 
+QUINCY, Mass. (AP) -- Baby Jesus is missing -- again. 
 
 ### Science/Tech News
 
-**IN THE NEWS: RESTAURANT FLAP LEADS TO INTERNET MELTDOWN**
+**IN THE NEWS: WOMAN MONITORING SCANNER TRAFFIC LIVE-TWEETS HUSBAND'S DEATH**
 
-SCOTTSDALE, Ariz. (AP) -- It isn't exactly to curry favor with your restaurant customers -- even if your specialty isn't curry. 
+VANCOUVER, Wash. (AP) -- A Washington state woman has had a hobby turn into a tragedy. 
 
 [](https://web.archive.org/sections/station/advertise/)
 
 ## Forecast
 
-**Sunday:** Rain ends during the morning.  Mostly cloudy during the afternoon. Some towns will get sunny breaks by the end of the day. Highs 54 to 59. 
+**Sunday:** Partly sunny and cool.  Highs 27 to 33. **
 
-**Sunday Night:** Partly cloudy skies. Lows 40 to 45.
+Sunday Night:  
 
- **Memorial Day:** Mostly sunny skies.  Highs 63 to 68. 
+**Cloudy with light snow developing after midnight but before daybreak. Lows in teens and low 20s **
+
+Monday:
+
+** Snow will develop during the predawn hours making for a slippery morning commute. A transition to sleet, freezing rain, and possibly rain is likely throughout the day. . Highs 32 to 37.  
+ **  
+Monday Night:**   Any left over rain/mix will come to and end.  Remaining cloudy. Some back ice is possible with lows around freezing. 
+
+**Tuesday:** Partly cloudy. Highs 30 to 35.  
+ **** **** **** ****
+
+## Tonight on WGME 13
+
+**6:00pm** \- CBS Evening news   
+**6:30pm** \- WGME News 13 Wknd   
+Edition   
+**7:00pm** \- 60 Minutes   
+**8:00pm** \- The Amazing Race (Season Finale)   
+**10:00pm** \- The Mentalist   
+**11:00pm** \- News 13 at 11 
+
+[_Complete Schedule_ »](https://web.archive.org/entertainment/)
 
   
 
