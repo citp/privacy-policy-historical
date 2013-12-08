@@ -1,9 +1,16 @@
-> *The following text is extracted and transformed from the 8051projects.info privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120035028id_/http%3A//www.8051projects.info/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8051projects.info privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208100556id_/http%3A//www.8051projects.info/pages/Privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Free 8051 Microcontroller Projects
+# Privacy policy of 8051projects.info | Free Microcontroller Projects - 8051-AVR-PIC
+
+[](https://web.archive.org/web/20131208100556id_/http://www.8051projects.info/pages/Privacy_policy/misc/quick-navigation-menu?selected=node-48 "Open quick navigation")
+
+**Free Microcontroller Projects - 8051-AVR-PIC**
+
+[Home](http://www.8051projects.info/) [Forums](http://www.8051projects.info/) >
 
 ### Privacy policy of 8051projects.info
 
+  
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use 8051projects.info, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.  
 8051projects.info strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.  
 In order to use these forums, users are required to provide a username, password and e-mail address. Neither the Administrators of these forums, or the Moderators participating, are responsible for the privacy practices of any user. Remember that all information that is disclosed in these areas becomes public information and you should exercise caution when deciding to share any of your personal information. Any user who finds material posted by another user objectionable is encouraged to contact us via e-mail. 8051projects.info are authorized by you to remove or modify any data submitted by you to these forums for any reason we feel constitutes a violation of our policies, whether stated, implied or not.
@@ -51,4 +58,12 @@ The search box on this website (Search Box) is powered by Google Inc (Google). Y
 **Agreeing to Terms**
 
 If you do not agree to 8051projects.info Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.  
-Your use of this site indicates acceptance of this privacy policy. 
+Your use of this site indicates acceptance of this privacy policy.
+
+[](https://web.archive.org/web/20131208100556id_/http://www.8051projects.info/pages/Privacy_policy/misc/quick-navigation-menu?selected=node-48 "Open quick navigation")
+
+**Free Microcontroller Projects - 8051-AVR-PIC**
+
+[Home](http://www.8051projects.info/) [Forums](http://www.8051projects.info/) >
+
+[ ](http://www.8051projects.info/)
