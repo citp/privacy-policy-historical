@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornizer.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608233104id_/http%3A//pornizer.com/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornizer.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208095558id_/http%3A//pornizer.com/pages/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@
 
 [](http://pornizer.com/partner/?bid=203)   
 [](http://pornizer.com/partner/?bid=204)   
-[](http://pornizer.com/partner/?bid=203)
+
 
 | 
 
@@ -109,11 +109,12 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 
 Free Porn Videos
 
-Who is online (3938)
+Who is online (2279)
 
-[Krux](http://pornizer.com/krux "Krux"), [Pp2757](http://pornizer.com/pp2757 "Pp2757"), [Blackturtle](http://pornizer.com/blackturtle "Blackturtle"), [Hansmeiserxxx](http://pornizer.com/hansmeiserxxx "Hansmeiserxxx"), [Ldemetriou](http://pornizer.com/ldemetriou "Ldemetriou"), [Pedro35](http://pornizer.com/pedro35 "Pedro35"), [Tonybaaklini](http://pornizer.com/tonybaaklini "Tonybaaklini"), [Tonard](http://pornizer.com/tonard "Tonard"), [Kolokol](http://pornizer.com/kolokol "Kolokol"), [U11886](http://pornizer.com/u11886 "U11886"), [Henrymccoy](http://pornizer.com/henrymccoy "Henrymccoy"), [Aeffaeff](http://pornizer.com/aeffaeff "Aeffaeff"), [Miamia](http://pornizer.com/miamia "Miamia"), [S2445b](http://pornizer.com/s2445b "S2445b"), [Alekspirat](http://pornizer.com/alekspirat "Alekspirat"), [Dean63](http://pornizer.com/dean63 "Dean63")
+[Assassin79](http://pornizer.com/assassin79 "Assassin79"), [Grannyjosh](http://pornizer.com/grannyjosh "Grannyjosh"), [Onebl](http://pornizer.com/onebl "Onebl"), [Marco70](http://pornizer.com/marco70 "Marco70"), [Morbidus](http://pornizer.com/morbidus "Morbidus"), [Andlas](http://pornizer.com/andlas "Andlas"), [Ticotico](http://pornizer.com/ticotico "Ticotico"), [Darkodd](http://pornizer.com/darkodd "Darkodd"), [Stiffmaster](http://pornizer.com/stiffmaster "Stiffmaster"), [St15](http://pornizer.com/st15 "St15"), [Niko11](http://pornizer.com/niko11 "Niko11"), [Bibbo1965](http://pornizer.com/bibbo1965 "Bibbo1965"), [Atomino](http://pornizer.com/atomino "Atomino"), [Tunasusila](http://pornizer.com/tunasusila "Tunasusila"), [Ufo555](http://pornizer.com/ufo555 "Ufo555"), [Becherovka2002](http://pornizer.com/becherovka2002 "Becherovka2002"), [Hendrix1969](http://pornizer.com/hendrix1969 "Hendrix1969"), [Moahsani](http://pornizer.com/moahsani "Moahsani"), [Eaques83](http://pornizer.com/eaques83 "Eaques83"), [Loptyunj](http://pornizer.com/loptyunj "Loptyunj"), [Minos-x](http://pornizer.com/minos-x "Minos-x")
 
 | 
 
 [](http://pornizer.com/partner/?bid=315)   
-
+[](http://pornizer.com/partner/?bid=315)   
+[](http://pornizer.com/partner/?bid=315)
