@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designnews.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604145300id_/http%3A//legal.us.ubm.com/privacy-notice-highlights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designnews.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208213408id_/http%3A//legal.us.ubm.com/privacy-notice-highlights) for the most accurate reproduction.*
 
 # UBM - UBM LLC Privacy Policy Highlights
 
@@ -50,4 +50,4 @@ We use information about you 
 For more information about our privacy practices and how to contact us, please review the full [**UBM LLC Privacy Policy**](http://legal.us.ubm.com/privacy-policy/).
 
   
-UBM LLC, 600 Community Drive, Manhasset NY, 11030.
+UBM LLC3, 303 2nd Street, Suite 900 South Tower, San Francisco, CA 94107 
