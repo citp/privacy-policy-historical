@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuffheaven.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530163220id_/http%3A//stuffheaven.com/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffheaven.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208144113id_/http%3A//stuffheaven.com/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy | Stuffheaven
 
