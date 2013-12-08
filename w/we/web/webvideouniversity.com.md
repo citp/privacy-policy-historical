@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webvideouniversity.com privacy policy that was archived on 2013-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130202191434id_/http%3A//webvideouniversity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webvideouniversity.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208055201id_/http%3A//webvideouniversity.com/privacy-policy) for the most accurate reproduction.*
 
 # Web Video University : Learn How To Create, Get Traffic and Get Paid From Web Video
 
