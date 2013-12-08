@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nehandaradio.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602193553id_/http%3A//nehandaradio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nehandaradio.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208085832id_/http%3A//nehandaradio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Nehanda Radio
+
+[ ](http://www.guro-o.com/)
 
 This privacy policy sets out how Nehanda Radio.com uses and protects any information that you give Nehanda Radio.com when you use this website.
 
