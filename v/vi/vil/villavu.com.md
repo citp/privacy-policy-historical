@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villavu.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602055441id_/http%3A//villavu.com/forum/content.php%3Fr%3D5-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villavu.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208150735id_/http%3A//villavu.com/forum/content.php%3Fr%3D5-Privacy) for the most accurate reproduction.*
 
 # SRL | Forums - Privacy Policy
 
@@ -78,7 +78,7 @@ This online privacy policy applies only to information collected through our web
 
 **_Terms and Conditions_**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.villavu.com/index.php?pageid=tos>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://villavu.com/forum/content.php?r=4-ToS>
 
 **_Your Consent_**
 
