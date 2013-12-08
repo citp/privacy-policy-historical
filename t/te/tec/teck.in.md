@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teck.in privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628215335id_/http%3A//teck.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teck.in privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208121904id_/http%3A//teck.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,10 +14,8 @@ TECK.IN is suitable for all ages, but we not knowingly collect personal informat
 
 Comments are welcome. However, tasteless and insulting comments may be deleted. Any personal remarks and attacks may be deleted. The same holds true for off-topic comments. Any comments that reek of link spam or marketing messages will be deleted. TECK.IN is not responsible for the content in comments other than those made by the blog author.
 
-TECK.IN would use the email address given by the user while commenting on the blog or while signing up, to send periodic email updates. The users can unsubscribe at any time by clicking on the unsubscribe link at the end of the newsletter emails or by using the [contact us](http://teck.in/contact) form.
+TECK.IN would use the email address given by the user while commenting on the blog or while signing up, to send periodic email updates. The users can unsubscribe at any time by clicking on the unsubscribe link at the end of the newsletter emails.
 
 This policy will be updated from time to time. If we make significant changes to this policy after that time a notice will be posted on the main pages of the website. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-If you feel that TECK.IN is not following its stated information policy, you may contact us using the [contact us](http://teck.in/contact) form.
-
-Our postal address is _TECK.IN, KP 3/8J-3, Kazhakkuttam,Thiruvananthapuram, Kerala, India 695582_
+If you feel that TECK.IN is not following its stated information policy, you may please [**contact us**](http://teck.in/about).
