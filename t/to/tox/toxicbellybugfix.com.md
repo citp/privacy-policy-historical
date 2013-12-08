@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toxicbellybugfix.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531111236id_/http%3A//toxicbellybugfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toxicbellybugfix.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208093709id_/http%3A//www.toxicbellybugfix.com/privacy-policy) for the most accurate reproduction.*
 
 # Toxic Belly Bug Fix - Privacy Policy
 
@@ -89,8 +89,8 @@ This policy was last modified on 03/12/12
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.ToxicBellyBugFix.com  
-410 Marina Village Cove  
-Austin, TX 78734  
+14603 East Moncrieff Place, Ste 100  
+Aurora, CO 80011  
 USA  
 support@ToxicBellyBugFix.com  
 1-800-766-5086
