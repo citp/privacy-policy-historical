@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travelex.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603193222id_/http%3A//www.travelex.com/US/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelex.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208022828id_/http%3A//www.travelex.com/US/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travelex Foreign Exchange
 
-_EFFECTIVE DATE: November 9, 2012_  
+_EFFECTIVE DATE: November 9, 2012_
 
 Travelex Currency Services Inc (“Travelex” or "us" or "our"), on behalf of itself and its holding companies and subsidiaries (together, the "Travelex Group"), provides the following details about our privacy practices regarding information collected, used and shared by us at www.travelex.com ("Website"), our Mobile App, and other Travelex interactive and mobile applications (collectively, "Travelex Applications"). 
 
@@ -155,15 +155,19 @@ Travelex Currency Service Inc.
 
 New York, NY 10006
 
-© 2012 Travelex Currency Service Inc. All Rights Reserved.
+© 2013 Travelex Currency Service Inc. All Rights Reserved.
 
   
 
 
-## Third Parties Providers of Analytics Tools as of November 9, 2012
+## Third Parties Providers of Analytics Tools as of October 23, 2013
 
 This is a list of third parties who provide us with information, reports and analysis about the usage and browsing patters of our users through tracking technology: 
 
-Google - <http://www.google.com/intl/en/policies/privacy/> 
+Google - <http://www.google.com/intl/en/policies/privacy/>
 
-Flurry - <http://www.flurry.com/about-us/legal/privacy.html> 
+Flurry - <http://www.flurry.com/about-us/legal/privacy.html>
+
+Optimizely - <https://www.optimizely.com/privacy>
+
+Formisimo - <http://www.formisimo.com/privacy-policy>
