@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webctor.com privacy policy that was archived on 2013-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430180922id_/http%3A//webctor.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webctor.com privacy policy that was archived on 2013-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131208224311id_/http%3A//webctor.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -83,6 +83,18 @@
 <script type="text/javascript" src="http://webctor.com/js/twitter.js"></script>
 <script type="text/javascript" src="http://webctor.com/js/webctor.ts.js"></script>
 <script type="text/javascript" src="http://webctor.com/js/googlePlus.js"></script>
+        <script type="text/javascript">
+           if (undefined == $.cookie('talktomd-popup')) {
+                $.cookie('talktomd-popup', '1', { expires: 30, path: '/' });
+                $.cookie('continue', location.href, { expires: 1, path: '/' });
+
+                if (location.pathname == '/') {
+                    $.cookie('talktomd-main-page', '1', { expires: 1, path: '/' });
+                }
+                location.href = '/landing/talktomd/index.html';
+            }
+        </script>
+
         <!--[if IE]>
             <link href="http://webctor.com/minify/?g=cssie" media="screen" rel="stylesheet" type="text/css" />
         <![endif]-->
