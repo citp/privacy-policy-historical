@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the unrealitymag.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605125118id_/http%3A//unrealitymag.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unrealitymag.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208041315id_/http%3A//unrealitymag.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy |
 
 Mar  13  2009 
+
+Published by 
 
 Your privacy on the internet is important to us. As a part of the operation of unrealitymag.com we gather only email addresses submitted to us, these are used only by ourselves to inform you of any updates or for communication etc and are never passed to any third party for any reason.
 
@@ -29,5 +31,3 @@ following information to us and the infringing material will be removed as soon 
 Please also note that under Section 512(f) of the Copyright Act any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
 
 We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://valueclickmedia.com/member_privacy.shtml>
-
-### Leave a Reply
