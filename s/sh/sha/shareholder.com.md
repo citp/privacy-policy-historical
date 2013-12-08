@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002423id_/http%3A//www.nasdaqomx.com/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareholder.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208232639id_/http%3A//www.nasdaqomx.com/Privacy_Statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - NASDAQ OMX
 
 Effective Date: 04/21/2006
 
