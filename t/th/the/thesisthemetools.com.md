@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the thesisthemetools.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518210336id_/http%3A//thesisthemetools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesisthemetools.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208120117id_/http%3A//thesisthemetools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Thesis Theme Tools
-
-### We're marking our one year anniversary with a complete redesign!   
-Come celebrate with us as we look forward to another great year of stimulating and useful articles -- and of course, our new skins!
 
 Thesis Theme Tools is very serious about protecting your privacy. In general, any information collected here is never sold, shared or divulged to anyone or any organization.  
 Your email address in comments or email is not sold, shared or divulged to anyone or any organization, ever.  
@@ -30,7 +27,5 @@ Be Sociable, Share!
   * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fthesisthemetools.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
   * 
 
-
-Tags: , [Subdomain](http://thesisthemetools.com/tag/subdomain/)
 
 Tagged as: [Subdomain](http://thesisthemetools.com/tag/subdomain/)
