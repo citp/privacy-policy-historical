@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinternationalman.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501095019id_/http%3A//www.theinternationalman.com/texts/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinternationalman.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208085124id_/http%3A//www.theinternationalman.com/texts/privacy-statement.php) for the most accurate reproduction.*
 
 # Privacy Statement: TheInternationalMan.com - The Ultimate Luxury Lifestyle Database, Directory, Guide & Manual to Fine and International Living for Connoisseurs and the Discerning Man of the World.
 
