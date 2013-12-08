@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beingfrugalandmakingitwork.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602053101id_/http%3A//www.beingfrugalandmakingitwork.com/p/disclaimerprivacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beingfrugalandmakingitwork.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208041605id_/http%3A//www.beingfrugalandmakingitwork.com/p/disclaimerprivacy-policy.html) for the most accurate reproduction.*
 
 # Being Frugal and Making It Work: Disclaimer/Privacy Policy
 
@@ -72,10 +72,6 @@ Occasionally, at our discretion, we may include or offer third party products or
   
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.  
   
-**Terms and Conditions**   
-  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.beingfrugalandmakingitwork.com/p/disclosure-policy.html>  
-  
 **Your Consent**   
   
 By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).  
@@ -84,4 +80,4 @@ By using our site, you consent to our [privacy policy](http://www.freeprivacypol
   
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.   
   
-This policy was last modified on 9/12/2012
+This policy was last modified on 7/20/2013
