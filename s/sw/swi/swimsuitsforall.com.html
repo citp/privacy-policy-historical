@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the swimsuitsforall.com privacy policy that was archived on 2013-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529195121id_/http%3A//www.swimsuitsforall.com/help/privacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swimsuitsforall.com privacy policy that was archived on 2013-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131208031323id_/http%3A//www.swimsuitsforall.com/help/privacyPolicy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="  wf-inactive"><!--<![endif]--><head>
-        <title>SwimsuitsForAll - Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" wf-loading wf-loading"><!--<![endif]--><head>
+        <title>swimsuitsforall - Privacy Policy</title>
         <meta name="description" content="Privacy Policy. Plus size swimwear available in fashionable styles for all body types. Always save up to 60%. Don\�t forget to check out our special Plus Size Swimwear sale of the day! Shop Longitude swimwear, Delta Burke swimsuits and other top brands.">
         <meta name="keywords" content="">
 		<!-- begin /inc/head.php -->
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<meta name="author" content="Swimsuits For All">
-<meta name="copyright" content="© 2013 Swimsuits for All. All rights reserved.">
+<meta name="author" content="swimsuitsforall">
+<meta name="copyright" content="© 2013 swimsuitsforall. All rights reserved.">
 <meta name="viewport" content="width=device-width">
 
-<link rel="shortcut icon" href="http://www.swimsuitsforall.com/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://cdn.swimsuitsforall.com/favicon.ico" type="image/x-icon">
 <link media="screen" type="text/css" rel="stylesheet" href="http://cdn.swimsuitsforall.com/css/global.css">
-<link rel="stylesheet" href="http://cdn.swimsuitsforall.com/css/jquery.css" type="text/css">
-<script src="//use.typekit.net/leu7rwu.js" type="text/javascript" async=""></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+<script src="//use.typekit.net/leu7rwu.js" type="text/javascript" async=""></script><script src="//use.typekit.net/leu7rwu.js" type="text/javascript" async=""></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://cdn.swimsuitsforall.com/js/global.js"></script>
 <script type="text/javascript">
@@ -29,7 +29,7 @@
 
 <!-- TypeKit -->
 <!--[if lt IE 9]>
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
 <![endif]-->
 <script type="text/javascript">
   (function() {
@@ -42,7 +42,11 @@
 </script>
 
 
-     <script type="text/javascript" src="http://cdn.powerreviews.com/repos/10920/pr/pwr/engine/js/full.js"></script>
+	<script type="text/javascript">
+		var pr_style_sheet="http://cdn.powerreviews.com/aux/10920/3512/css/express.css";
+	</script>
+
+	<script type="text/javascript" async="true" src="http://cdn.powerreviews.com/repos/10920/pr/pwr/engine/js/full.js"></script>
 <!-- end /inc/head.php -->
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         
@@ -67,30 +71,24 @@ function toggleBrandSubMenu(visibility){
 
 
 //define images for top menu items
-catNav47On = new Image();
-catNav47Off = new Image();
-catNav47On.src = 'http://cdn.swimsuitsforall.com/img/image/header/brand-logo-swimsexy-hover.png';
-catNav47Off.src = 'http://cdn.swimsuitsforall.com/img/image/header/brand-logo-swimsexy.png';
 
-
-catNav41On = new Image();
-catNav41Off = new Image();
-catNav41On.src = 'http://cdn.swimsuitsforall.com/img/image/header/brand-logo-aquabelle-hover.png';
-catNav41Off.src = 'http://cdn.swimsuitsforall.com/img/image/header/brand-logo-aquabelle.png';
-
-
-
+/*
 catNav55On = new Image();
 catNav55Off = new Image();
 catNav55On.src = 'http://cdn.swimsuitsforall.com/img/image/header/designfit-finder-hover.png';
 catNav55Off.src = 'http://cdn.swimsuitsforall.com/img/image/header/designfit-finder.png';
-
-
+*/
 function selectNavImage(){
 	}
 
 //-->
 </script>
+
+<!--[if !IE]><!--><script>  
+    if (/*@cc_on!@*/false) {  
+        document.documentElement.className+=' ie10';  
+    }  
+    </script><!--<![endif]-->  
 
 <script type="text/javascript">
    $(document).ready(function(){
@@ -113,11 +111,13 @@ function selectNavImage(){
         //Persistent Header
         $(window).scroll( function(){
             var scroll = $(window).scrollTop();
-
-            if (scroll >= 122) {
+            
+            if (scroll >= 1) {
                 $('#header').addClass('fixed');
+                $('.fixedHeaderTrigger').addClass('hasHeight');
             } else {
-                $('#header').removeClass('fixed'); 
+                $('#header').removeClass('fixed');
+                $('.fixedHeaderTrigger').removeClass('hasHeight');
             }
         });
      hide('miniCart');
@@ -125,57 +125,57 @@ function selectNavImage(){
 </script>
 
 <div class="rootContainer cf">
+    <div class="fixedHeaderTrigger"></div>
     <div id="header">
-        <div class="headerInside cf">	
-            <a href="http://www.swimsuitsforall.com" title="SwimsuitsForAll"><img class="mainLogo" src="http://cdn.swimsuitsforall.com/img/image/header/swimsuitsforall-main-logo.png" width="355" height="61" alt="SwimsuitsForAll"></a>
-            <div class="headerLeft">
-                <a class="designFitGuarantee" href="http://www.swimsuitsforall.com/browse/designFitGuarantee.php" title="Design Fit Guarantee">Design Fit Guarantee</a>
-             </div><!-- /.header-left -->
-                            <div class="headerRightContainer cf">
-                                    <div class="headerRight">
-                                            <ul class="headerInfo cf">
-                                                <li><a class="headerAccount" href="/customer/overview.php">ACCOUNT</a>
-                                                                                                    </li>
-                                                <li><a class="headerOrderInfo" href="http://www.swimsuitsforall.com/customer/quickOrderLogin.php">ORDER INFO</a></li>
-                                                <!--<li><a class="headerSizing" href="http://www.swimsuitsforall.com/browse/sizeChartLanding.php">SIZING</a></li>-->
-                                                <li><a class="headerPhone" style="text-decoration:none;">1.888.241.SWIM (7946)</a></li>
-                                            </ul><!-- /.header-info -->
-                                            <div class="shoppingCart">
-                                                <a id="headerCart" class="headerCart" href="/checkout/cart.php"><img class="headerCartIcon" src="http://cdn.swimsuitsforall.com/img/image/header/tote-bag.png" width="29" height="28" alt="Shopping Bag"><span class="headerCartText">SHOPPING BAG (<span id="cart-itemcount">0</span>)</span></a>
-                                                <a class="headerCheckoutButton" href="https://www.swimsuitsforall.com/checkout/loginPrompt.php"><span>CHECKOUT</span></a>
-                                            </div>
-                                    <div class="headerSearchContainer">
-                                        <form action="/browse/searchResult.php" method="get">
-					    <input type="hidden" name="goSearch" value="Y">
-                                            <input class="headerSearch" type="text" name="searchKeyword" placeholder="Search Your Swim Style">
-                                            <input class="searchSubmit" type="submit" name="search-submit">
-                                        </form>
-                                    </div><!-- /.headerSearchContainer -->
-                            </div><!-- /.headerRightContainer" -->
-                    </div><!-- /.headerRight" -->
-                </div><!-- /.headerInside -->
+        <div class="headerTopContainer cf">
+                 <div class="headerTop">
+                     <a href="http://www.swimsuitsforall.com"><img class="mainLogoFixed" src="http://cdn.swimsuitsforall.com/img/image/header/fixed-logo.gif" alt="swimsuitsforall" width="132" height="25" border="0"></a>
+                      <div class="headerInfoFixed">
+                        <ul class="headerInfo cf">
+                              <li><a class="headerAccount" href="/customer/overview.php">ACCOUNT</a>
+                                                                  </li>
+                                <li><a class="headerOrderInfo" href="http://www.swimsuitsforall.com/customer/quickOrderLogin.php">ORDER INFO</a></li>
+                                <!--<li><a class="headerSizing" href="http://www.swimsuitsforall.com/browse/sizeChartLanding.php">SIZING</a></li>-->
+                                <li><a class="headerPhone" style="text-decoration:none;">1.888.241.SWIM</a></li>
+                         </ul><!-- /.header-info -->
+                      
+                        <div class="shoppingCart">
+                           <a id="headerCart" class="headerCart" href="/checkout/cart.php"><img class="headerCartIcon" src="http://cdn.swimsuitsforall.com/img/image/header/tote-bag.png" alt="Shopping Bag" width="22" height="21"><span class="headerCartText">BEACH BAG (<span id="cart-itemcount">0</span>)</span></a>
+                           <a class="headerCheckoutButton" href="https://www.swimsuitsforall.com/checkout/loginPrompt.php"><span>CHECKOUT</span></a>
+                        </div>
+                      </div><!-- /.headerInfoFixed -->
+                   </div><!-- /.headerTop" -->
+              </div><!-- /.headerTopContainer" -->
+        
+              <div class="headerInside cf">
+            
+          <a href="http://www.swimsuitsforall.com" title="swimsuitsforall">
+              <img class="mainLogo" src="http://cdn.swimsuitsforall.com/img/image/header/new_s4aLogo.png" width="307" height="61" alt="swimsuitsforall">
+          </a>
+                       
+       </div><!-- /.headerInside -->
 	
 	<!-- begin checkout/miniCart.php -->
-        <link rel="stylesheet" type="text/css" href="/css/global.css">
-        <link rel="stylesheet" type="text/css" href="/css/browse.css">
-        <link rel="stylesheet" type="text/css" href="/css/details.css">
-        <script type="text/javascript" src="/js/product.js"></script>
-        <script type="text/javascript" src="/js/cart.js"></script>
+        <link rel="stylesheet" type="text/css" href="http://cdn.swimsuitsforall.com/css/global.css">
+        <link rel="stylesheet" type="text/css" href="http://cdn.swimsuitsforall.com/css/browse.css">
+        <link rel="stylesheet" type="text/css" href="http://cdn.swimsuitsforall.com/css/details.css">
+        <script type="text/javascript" src="http://cdn.swimsuitsforall.com/js/product.js"></script>
+        <script type="text/javascript" src="http://cdn.swimsuitsforall.com/js/cart.js"></script>
         
         <div id="miniCart" class="miniCart cf" style="display:none;">
             
             <div class="miniCartTop cf">
-                <img src="http://cdn.swimsuitsforall.com/img/image/header/tote-bag.png" alt="">
-                <span class="alignLeft">Items in your shopping bag (<span id="minicart-itemcount">0</span>)</span>
+                <img src="http://cdn.swimsuitsforall.com/img/image/header/tote-minicart.png" alt="">
+                <span class="alignLeft">Items in your beach bag (<span id="minicart-itemcount">0</span>)</span>
                 <span class="alignRight">Total: <span id="minicart-total">$0.00</span></span>
             </div><!-- /.miniCartTop-->
             
             <form>
                 <ul class="miniCartItems">
                                         <li class="miniCartButtons cf">
-                        <span class="alignLeft"><a href="http://www.swimsuitsforall.com/checkout/cart.php">View Shopping Bag</a></span>
+                        <span class="alignLeft"><a href="http://www.swimsuitsforall.com/checkout/cart.php">View Beach Bag</a></span>
                         <span class="alignRight"><a href="javascript:hide('miniCart');">Continue Shopping</a></span>
-                        <div class="clearBoth"><a class="checkOutBtn" href="https://www.swimsuitsforall.com/checkout/loginPrompt.php">Check out</a></div>
+                        <div class="clearBoth"><a class="checkOutBtn" href="https://www.swimsuitsforall.com/checkout/loginPrompt.php">Checkout</a></div>
                     </li>
                 </ul><!-- /.miniCartItems -->
             </form>
@@ -184,29 +184,34 @@ function selectNavImage(){
 <!-- end checkout/miniCart.php -->
     	<!-- begin top nav -->
 	<div id="mainNavBarContainer" class="structural">
-	<ul id="mainNavBar" class="structural">
-			<li><a href="http://www.swimsuitsforall.com/One-Piece-Swimwear-Department">One Piece</a></li>
-				<li><a href="http://www.swimsuitsforall.com/Tankinis-Swimwear-Department">Tankinis</a></li>
-				<li><a href="http://www.swimsuitsforall.com/Separates-Swimwear-Department">Separates</a></li>
-				<li><a href="http://www.swimsuitsforall.com/Swimdresses-Swimwear-Department">Swimdresses</a></li>
-				<li><a href="http://www.swimsuitsforall.com/Cover-Ups-Swimwear-Department">Cover Ups</a></li>
-				
-		<li><a href="http://www.swimsuitsforall.com/Collections-Swimwear">Collections</a></li>
-		
-		<li><a href="http://www.swimsuitsforall.com/Aquabelle-Swimwear" onmouseover="rollover('catNav41', 'catNav41On');" onmouseout="rollover('catNav41', 'catNav41Off');"><img class="brandLogoAquabelle" name="catNav41" id="catNav41" src="http://cdn.swimsuitsforall.com/img/image/header/brand-logo-aquabelle.png" alt="Aquabelle" width="103" height="14" border="0"></a></li>
-			<li><a href="http://www.swimsuitsforall.com/Swim-Sexy-Swimwear" onmouseover="rollover('catNav47', 'catNav47On');" onmouseout="rollover('catNav47', 'catNav47Off');"><img class="brandLogoSwimsexy" name="catNav47" id="catNat47" src="http://cdn.swimsuitsforall.com/img/image/header/brand-logo-swimsexy.png" alt="Swim Sexy" width="87" height="21" border="0"></a></li>
-			<li><a href="http://www.swimsuitsforall.com/Design-Fit-Finder-Swimsuits" onmouseover="rollover('catNav55', 'catNav55On');" onmouseout="rollover('catNav55', 'catNav55Off');"><img name="catNav55" id="catNav55" src="http://cdn.swimsuitsforall.com/img/image/header/designfit-finder.png" alt="Design Fit Finder" width="58" height="26" border="0"></a>
-                </li>
+            <div class="mainNavInside cf">
+                <ul id="mainNavBar" class="structural">
+                                        <li><a href="http://www.swimsuitsforall.com/Shops-Swimsuits">Shops</a></li>
+                                                <li><a href="http://www.swimsuitsforall.com/One-Piece-Swimsuits-Department">One Piece</a></li>
+                                                        <li><a href="http://www.swimsuitsforall.com/Tankinis-Swimwear-Department">Tankinis</a></li>
+                                                        <li><a href="http://www.swimsuitsforall.com/Separates-Swimwear-Department">Separates</a></li>
+                                                        <li><a href="http://www.swimsuitsforall.com/Swimdresses-Swimwear-Department">Swimdress</a></li>
+                                                        <li><a href="http://www.swimsuitsforall.com/Cover-Ups-Swimwear-Department">Cover Ups</a></li>
+                            		    <li><a href="http://www.swimsuitsforall.com/Design-Fit-Finder-Swimsuits">Design Fit</a></li>
+                                        <li><a href="http://www.swimsuitsforall.com/Cyber-Sale-Swimwear-S">Sale</a></li>
 
-	        <li><a href="http://www.swimsuitsforall.com/Clearance-Swimwear-Sale">Sale</a></li>
-
-	</ul><!-- /#main-nav-bar -->
+                </ul><!-- /#main-nav-bar -->
+                <div class="headerSearchContainer">
+                    <form action="/browse/searchResult.php" method="get">
+                        <input type="hidden" name="goSearch" value="Y">
+                        <input class="headerSearch" type="text" name="searchKeyword" placeholder="Search For Your Style">
+                        <input class="searchSubmit" type="submit" name="search-submit">
+                    </form>
+                </div><!-- /.headerSearchContainer -->
+            </div><!-- /.mainNavInside -->
         <div class="ie8dropshadow"></div>
         </div><!-- /#main-nav-bar-container -->				
 	<div class="clear"></div>
 	<!-- end top nav -->
-    </div><!-- /#header -->
         
+                
+    </div><!-- /#header -->
+         
         <div class="rootContent cf">
 
 	<div id="pageSpecificContent">
@@ -216,7 +221,7 @@ function selectNavImage(){
     <div class="customerService">
     
         <div class="customerServiceBanner">
-             <img src="/img/image/privacy-policy-banner.jpg" alt="Contact Us">
+             <img src="/img/image/banner-privacy-v2.jpg" alt="Contact Us">
         </div><!-- /.banner -->
         
         <div class="customerServiceContent cf">
@@ -234,8 +239,51 @@ function selectNavImage(){
 </div><!-- /.leftMenu -->
 
             <div class="rightContent">
-                
-                <div class="privacyPolicyContent">
+                    <!-- begin /inc/head.php -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="author" content="swimsuitsforall">
+<meta name="copyright" content="© 2013 swimsuitsforall. All rights reserved.">
+<meta name="viewport" content="width=device-width">
+
+<link rel="shortcut icon" href="http://cdn.swimsuitsforall.com/favicon.ico" type="image/x-icon">
+<link media="screen" type="text/css" rel="stylesheet" href="http://cdn.swimsuitsforall.com/css/global.css">
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://cdn.swimsuitsforall.com/js/global.js"></script>
+<script type="text/javascript">
+
+	var pr_style_sheet="http://cdn.powerreviews.com/aux/10920/3512/css/express.css";
+	var pr_snippet_min_reviews=1;
+</script>
+  
+
+
+<!-- TypeKit -->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+<![endif]-->
+<script type="text/javascript">
+  (function() {
+    var config = {
+      kitId: 'leu7rwu',
+      scriptTimeout: 3000
+    };
+    var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
+  })();
+</script>
+
+
+	<script type="text/javascript">
+		var pr_style_sheet="http://cdn.powerreviews.com/aux/10920/3512/css/express.css";
+	</script>
+
+	<script type="text/javascript" async="true" src="http://cdn.powerreviews.com/repos/10920/pr/pwr/engine/js/full.js"></script>
+<!-- end /inc/head.php -->
+               
+                <div class="privacyPolicyContent" style="background:#FFFFFF;">
 
                     <h3>Privacy Policy</h3>
 
@@ -305,6 +353,7 @@ function selectNavImage(){
 
                 </div><!-- /.privacyPolicyContent -->
                                 
+                                
             </div><!-- /.rightContent -->
         
         </div><!-- /.customerServiceContent -->
@@ -332,28 +381,29 @@ function popupOpenEmailSignup(email){
 function openEmailSignUpPopup(){
      //chaining the dialog events instead of keep calling it one by one
      //top has to be -90 due to the fixed header
-     $('#emailSignUpPopup').dialog({modal: true,width: '360',height: '360',stack: true,zIndex:1200})
-          .dialog('option', 'position', 'center','0')
-          .dialog("open");
+     createDialogFromDiv('emailSignUpPopup', {
+          width: '360',
+          height: '360',
+          position: ['center','top+100']
+     },'closeBtn');
 }
 
 $(document).ready(function(){
-     $('.closeBtn a').click(function(){ return destroyPopup('emailSignUpPopup'); });
+     //$('.closeBtn a').click(function(){ return destroyPopup('emailSignUpPopup'); });
      openEmailSignUpPopup();
 });
 
 //-->
 </script>
-<div id="emailSignUpPopup" style="display:none;">
+<!--//  style="display:none;" //-->
+<div id="emailSignUpPopup">
      <div class="emailPopup">
-         <div class="closeBtn"><a href="">X</a></div>
          <form name="popupNewsletterSignup" action="" method="get" onsubmit="return(popupOpenEmailSignup(this.email.value));">
+             <h2>enter to win a<br>
+                <span>free</span> swimsuit</h2>
              <p class="subscribeInfo">
-                 enter for a chance<br>
-                 to win a <span>$100 Gift card</span><br> 
-                 and<br>
-                 instantly receive<br>
-                 <span>10% off</span> your order.
+                Plus be the first to hear about new arrivals,
+                private previews,  the latest trends, and more.                 
              </p>
              <p><input type="text" name="email" placeholder="Enter Email Address"></p>
              <p><input class="submit" type="submit" value="Submit"></p>
@@ -376,10 +426,14 @@ function openEmailSignup(email){
 //-->
 </script>
 <!-- begin footer -->
+<!-- 
+hostname: cloud2
+ -->
 <div class="swa-hr" id="footer-hr"><div></div></div>
-
+    
 				<div id="footer" class="cf">
-					<div class="section">
+                                        
+                                        <div class="section">
 						<div class="section-title">ALL ABOUT</div>
 						<a class="aboutBtn" href="http://www.swimsuitsforall.com/help/about.php" title="About S4A">About S4A</a>
 					</div>
@@ -399,9 +453,13 @@ function openEmailSignup(email){
 						<ul class="structural section-items">
 							<li><a href="http://www.swimsuitsforall.com/browse/designFitGuarantee.php">Design Fit Guarantee</a></li>
 							<li><a href="http://www.swimsuitsforall.com/help/fanLetters.php">s4a Fan Letters</a></li>
-							<li><a href="http://www.swimsuitsforall.com/blog/" target="_blank">Blog</a></li>
-						</ul>
+													</ul>
 					</div>
+                                        <div class="section">
+                                            <div class="dfg">
+                                                <a href="javascript:openScModal('','tab-4');"><img src="http://cdn.swimsuitsforall.com/img/image/dfg.gif" alt="Design Fit Guarantee"></a>
+                                            </div>
+                                        </div>
 					<div class="section last">
 						<div class="section-title">RIDE THE s4a WAVE &amp; SAVE</div>
 						<ul class="structural section-items">
@@ -418,7 +476,7 @@ function openEmailSignup(email){
 							<div id="follow-us-title" class="section-title">FOLLOW US</div>
 							<ul id="follow-us-icons" class="structural">
 								<li class="pinterest">
-									<a href="http://m.pinterest.com/swimsuitsforall/" target="_blank">pinterest</a>
+									<a href="http://www.pinterest.com/swimsuitsforall/" target="_blank">pinterest</a>
 								</li>
 								<li class="twitpic">
 									<a href="http://instagram.com/swimsuitsforall" target="_blank">instagram</a>
@@ -429,12 +487,18 @@ function openEmailSignup(email){
 								<li class="twitter">
 									<a href="http://twitter.com/swimsuits4all" target="_blank">twitter</a>
 								</li>
+                                                                <li class="youtube">
+									<a href="http://www.youtube.com/user/SwimsuitsForAllVideo" target="_blank">youtube</a>
+								</li>
+                                                                <li class="google">
+									<a href="http://plus.google.com/102989153153669487907" target="_blank">google</a>
+								</li>
 							</ul>
 						</div><!-- /#follow-us -->
 					</div>
 				</div><!-- /#footer -->
 
-<!-- begin inc/tracking.inc -->
+<!-- begin inc/tracking.inc.php -->
 
 <!-- begin Google Analytics -->
 <script type="text/javascript">
@@ -444,7 +508,7 @@ var _gaq = _gaq || [];
  _gaq.push(['_trackPageview']);
 //-->
 </script>
-<script type="text/javascript" async="true" src="https://ssl.google-analytics.com/ga.js"></script>
+<script type="text/javascript" async="true" src="https://stats.g.doubleclick.net/dc.js"></script>
 <!-- end Google Analytics -->
 
 
@@ -485,15 +549,12 @@ window.onload = function(){
 </script>
 <!-- end adroll -->
 
-	<!-- sale cycle -->
-<script type="text/javascript" src="https://app.salecycle.com/capture/SWIMSUITSFORALL.js"></script>
-
-        <script type="text/javascript" language="JavaScript" src="https://track.offerpoint.net/inchannel/maq.js"></script>
-
-        <script type="text/javascript" src="https://offerpoint.net/WriteTracking.aspx?clientId=345"></script>
-
-
-        <img src="http://link.ixs1.net//s/at?site=5948&amp;page=SwimsuitsForAll+-+Subscribe+to+s4a" width="1" height="1" border="0">
+	<!-- begin sale cycle all page code -->
+<script type="text/javascript" async="true" src="https://app.salecycle.com/capture/SWIMSUITSFORALL.js"></script>
+<!-- end sale cycle all page code -->
+<!-- begin eway activity tracking -->
+<img src="http://link.e.swimsuitsforall.com/s/at?site=5948&amp;page=swimsuitsforall+-+Subscribe+to+s4a" width="1" height="1" border="0">
+<!-- end eway activity tracking -->
 
 	<!-- Google Adwords Code for All Visitors Remarketing List -->
 <script type="text/javascript">
@@ -506,7 +567,7 @@ var google_conversion_label = '8vHHCN_X8gEQndPL_gM';
 var google_conversion_value = 0;
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+<script type="text/javascript" async="true" src="https://www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
 <div style="display:inline;">
@@ -516,23 +577,23 @@ var google_conversion_value = 0;
 
 
 	
-<!-- end /inc/tracking.inc -->
+<!-- end /inc/tracking.inc.php -->
 
 <!-- end footer -->
 
 <div class="seo">
     <h1>Plus Size Swimwear Resort 2013</h1>
-<p>Although it's cooling off in many parts of the country, vacation season is in full swing, and with the end of the year near, it's a great time to take advantage of big savings on <a title="women's swimwear" href="http://www.swimsuitsforall.com/swimsuits-for-all">women's swimwear</a> and <a title="plus size swimwear" href="http://www.swimsuitsforall.com/swimsuits-for-all">plus size swimwear</a>.</p>
-<p>This year, <a title="women's swimwear" href="http://www.swimsuitsforall.com/swimsuits-for-all">women's swimwear</a> designers were inspired by everything from retro designs, flirtatious floral and geometric prints, and bright color pops.</p>
-<p>Here at swimsuitsforall, we know that shopping for a new swimsuit can be difficult for curvy women. That's why we hand-pick the best inventory of swimsuits which will flatter your curves. From classic <a title="one piece swimsuits" href="http://www.swimsuitsforall.com/One-Piece-Swimwear-Department">one piece swimsuits</a> to <a title="tankini swimsuits" href="http://www.swimsuitsforall.com/Tankinis-Swimwear-Department">trendy tankinis</a>, we've got something for everyone.</p> 
-<p>At swimsuitsforall, we specialize in offering plus size women the best <a title="plus size swimsuits" href="http://www.swimsuitsforall.com/swimsuits-for-all">plus size swimsuits</a> selection anywhere. Browse through our selection of <a title="plus size bathing suits" href="http://www.swimsuitsforall.com/swimsuits-for-all">plus size bathing suits</a> and find the perfect swimsuit to fit your style and hug your curves. To finish your ensemble, we also carry a variety of <a title="cover ups" href="http://www.swimsuitsforall.com/Cover-Ups-Swimwear-Department">stylish coverups</a> for every style.</p> 
-<p>Browse our designer <a title="brand name swimsuits" href="http://www.swimsuitsforall.com/Collections-Swimsuits">women's swimsuit brands</a> in all types and cuts, all available for delivery straight to your front
-door! Forget about the crammed dressing rooms with unflattering fluorescent lighting, long checkout lines, and picked-over plus size swimsuit selection— at swimsuitsforall, you can shop for your perfect new plus size swimwear style in the comfort of your home, consult plus size swimwear specialists for an expert opinion, and receive the highest level of customer service. <a title="plus size swimsuits" href="http://www.swimsuitsforall.com/swimsuits-for-all">Plus size swimsuits</a> can often be ill-fitting or of poor quality— but not at swimsuitsforall.com.  We carry the best selection of women's size 8-16 and plus size swimwear from the most chic brands out there.</p> 
-<p>swimsuitsforall carries the highest quality, best fitting plus size swimwear and women's swimwear sized 8-16 anywhere. Whether you're looking for simple bathing suits in classic styles or the newest <a title="one piece swimsuits" href="http://www.swimsuitsforall.com/One-Piece-Swimwear-Department">one piece swimsuits</a>, swimsuitsforall has you covered. We carry a huge selection of your favorite designer swimwear brands like <a title="Longitude swimsuits" href="http://www.swimsuitsforall.com/Longitude-2013-Swimwear-One-Piece-Department">Longitude swimsuits</a>, <a title="Delta Burke Swimwear" href="http://www.swimsuitsforall.com/swimsuits-for-all?go=Y&amp;c=&amp;all=0&amp;page=1&amp;sort=&amp;brandSelection[]=1">Delta Burke Swimwear</a>, and <a title="Beach Belle swimwear" href="http://www.swimsuitsforall.com/Classic-Style-Swimwear-Collections">Beach Belle</a>. Our inventory of <a title="plus size swimsuits" href="http://www.swimsuitsforall.com/swimsuits-for-all">plus size swimsuit styles</a> is updated on a weekly basis, so we always offer you the freshest, most flattering swimsuit styles out today.</p> 
-<p>We all have unique personal style. Whether your style is classic or fun, athletic or flirtatious, we have the perfect plus size swimwear style for you. We carry everything from water aerobics racer-back bathing suits and <a title="chlorine resistant swimsuits" href="http://www.swimsuitsforall.com/Aquabelle-Swimwear">chlorine-resistant swimsuits</a> for active lifestyles to designer resortwear and maxi dresses, and we offer your favorite plus size and women's swimsuit brands like Beach Belle, Reebok, Penbrooke, Dolfin, and more.</p>
+<p>Although it's cooling off in many parts of the country, vacation season is in full swing, and with the end of the year near, it's a great time to take advantage of big savings on women's swimwear and plus size swimwear.</p>
+<p>This year, women's swimwear designers were inspired by everything from retro designs, flirtatious floral and geometric prints, and bright color pops.</p>
+<p>Here at swimsuitsforall, we know that shopping for a new swimsuit can be difficult for curvy women. That's why we hand-pick the best inventory of swimsuits which will flatter your curves. From classic one piece swimsuits to trendy tankinis, we've got something for everyone.</p> 
+<p>At swimsuitsforall, we specialize in offering plus size women the best plus size swimsuits selection anywhere. Browse through our selection of plus size bathing suits and find the perfect swimsuit to fit your style and hug your curves. To finish your ensemble, we also carry a variety of stylish coverups for every style.</p> 
+<p>Browse our designer women's swimsuit brands in all types and cuts, all available for delivery straight to your front
+door! Forget about the crammed dressing rooms with unflattering fluorescent lighting, long checkout lines, and picked-over plus size swimsuit selection— at swimsuitsforall, you can shop for your perfect new plus size swimwear style in the comfort of your home, consult plus size swimwear specialists for an expert opinion, and receive the highest level of customer service. Plus size swimsuits can often be ill-fitting or of poor quality— but not at swimsuitsforall.com.  We carry the best selection of women's size 8-16 and plus size swimwear from the most chic brands out there.</p> 
+<p>swimsuitsforall carries the highest quality, best fitting plus size swimwear and women's swimwear sized 8-16 anywhere. Whether you're looking for simple bathing suits in classic styles or the newest one piece swimsuits, swimsuitsforall has you covered. We carry a huge selection of your favorite designer swimwear brands like Longitude swimsuits, Delta Burke Swimwear, and Beach Belle. Our inventory of plus size swimsuit styles is updated on a weekly basis, so we always offer you the freshest, most flattering swimsuit styles out today.</p> 
+<p>We all have unique personal style. Whether your style is classic or fun, athletic or flirtatious, we have the perfect plus size swimwear style for you. We carry everything from water aerobics racer-back bathing suits and chlorine-resistant swimsuits for active lifestyles to designer resortwear and maxi dresses, and we offer your favorite plus size and women's swimsuit brands like Beach Belle, Reebok, Penbrooke, Dolfin, and more.</p>
 <p>Complete your summertime look with swimsuit coverups, swim caps, beach totes, and more. Our resortwear and coverup collections include button-ups, sarongs, sundresses, board shorts, and more.</p> 
-<p>At swimsuitsforall, your satisfaction is our top priority. Our <a title="plus size swimwear experts" href="http://www.swimsuitsforall.com/customer-service/contact-us">plus size swimwear experts</a> are here to address your every question and concern. It's our commitment to find you the best plus size bathing suit style for your body type and lifestyle and guarantee you're happy with your order by offering you our <a title="Design Fit Guarantee" href="http://www.swimsuitsforall.com/browse/designFitGuarantee.php">Design Fit Guarantee</a>.</p>
-<p>Searching for a specialty swimsuit? We also specialize in specialty plus size and <a title="women's size 8-16 swimsuits" href="http://www.swimsuitsforall.com/swimsuits-for-all">women's size 8-16 swimsuits</a>, including post-mastectomy plus size swimwear, long torso plus sized swimsuits, plus sized underwire swimsuits, and more. No matter what style you're looking for, you're sure to find it at swimsuitsforall. Find plus size <a title="tankini swimwear" href="http://www.swimsuitsforall.com/Tankinis-Swimwear-Department">tankinis</a>, <a title="one piece swimsuits" href="http://www.swimsuitsforall.com/One-Piece-Swimwear-Department">one piece swimsuits</a>, <a title="high neck bathing suits" href="http://www.swimsuitsforall.com/High-Neck-Swimwear-Swimwear-Onepiece-Department">high neck bathing suits</a>, <a title="plus size swimwear separates" href="http://www.swimsuitsforall.com/Separates-Swimwear-Department">plus size swimwear separates</a>, and more, all tailored just for your curves and style. Don't ever hesitate to call one of our customer service representatives or plus size swimwear specialists. Just call us at 1.888.241.SWIM (7946).</p>
+<p>At swimsuitsforall, your satisfaction is our top priority. Our plus size swimwear experts are here to address your every question and concern. It's our commitment to find you the best plus size bathing suit style for your body type and lifestyle and guarantee you're happy with your order by offering you our Design Fit Guarantee.</p>
+<p>Searching for a specialty swimsuit? We also specialize in specialty plus size and women's size 8-16 swimsuits, including post-mastectomy plus size swimwear, long torso plus sized swimsuits, plus sized underwire swimsuits, and more. No matter what style you're looking for, you're sure to find it at swimsuitsforall. Find plus size tankinis, one piece swimsuits, high neck bathing suits, plus size swimwear separates, and more, all tailored just for your curves and style. Don't ever hesitate to call one of our customer service representatives or plus size swimwear specialists. Just call us at 1.888.241.SWIM.</p>
 </div>
 <!-- end /inc/bodyBottom.php -->
     
