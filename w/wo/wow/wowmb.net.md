@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowmb.net privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630015241id_/http%3A//www.wowmb.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowmb.net privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208152255id_/http%3A//www.wowmb.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # The Warlocks Den - Privacy Statement
 
@@ -18,16 +18,16 @@ Please Register to Remove these Ads
 Latest Posts | Latest Forum News  
 | Thread |   |  Date, Time |  Posted By  
 ---|---|---|---  
- [Patch 5.4 Patch Notes](http://wowmb.net/forums/f8/43534-patch_5_4_patch_notes/) | [ ▼](http://wowmb.net/forums/f8/43534-patch_5_4_patch_notes/) |  23-06, 00:42 |  [marcevil](http://wowmb.net/forums/members/marcevil/)  
- [Show off your UI - Thread #4...](http://wowmb.net/forums/f23/40881-show_off_your_ui_thread_4_cataclysm/) | [ ▼](http://wowmb.net/forums/f23/40881-show_off_your_ui_thread_4_cataclysm/) |  11-06, 11:53 |  [Caolela](http://wowmb.net/forums/members/caolela/)  
- [5.3 thoughts?](http://wowmb.net/forums/f8/43531-5_3_thoughts/) | [ ▼](http://wowmb.net/forums/f8/43531-5_3_thoughts/) |  11-06, 11:43 |  [Caolela](http://wowmb.net/forums/members/caolela/)  
- [tribute to the little lock on...](http://wowmb.net/forums/f12/41818-tribute_little_lock_hill/) | [ ▼](http://wowmb.net/forums/f12/41818-tribute_little_lock_hill/) |  05-06, 17:22 |  [Caolela](http://wowmb.net/forums/members/caolela/)  
- [Affliction help on will of...](http://wowmb.net/forums/f49/43453-affliction_help_will_emperor/) | [ ▼](http://wowmb.net/forums/f49/43453-affliction_help_will_emperor/) |  03-06, 15:54 |  [shdwboxn](http://wowmb.net/forums/members/shdwboxn/)  
- [Nvidia drivers virus](http://wowmb.net/forums/f19/43530-nvidia_drivers_virus/) | [ ▼](http://wowmb.net/forums/f19/43530-nvidia_drivers_virus/) |  29-05, 12:29 |  [kernii](http://wowmb.net/forums/members/kernii/)  
- [Gearing for 5.3 PvP](http://wowmb.net/forums/f43/43533-gearing_5_3_pvp/) | [ ▼](http://wowmb.net/forums/f43/43533-gearing_5_3_pvp/) |  26-05, 13:36 |  [Caolela](http://wowmb.net/forums/members/caolela/)  
- [5.2 - Warlock QUEST - Last...](http://wowmb.net/forums/f8/43519-5_2_warlock_quest_last_boss/) | [ ▼](http://wowmb.net/forums/f8/43519-5_2_warlock_quest_last_boss/) |  20-05, 15:26 |  [ESPERICH](http://wowmb.net/forums/members/esperich/)  
- [Destro and afflic in PvP](http://wowmb.net/forums/f43/43527-destro_afflic_pvp/) | [ ▼](http://wowmb.net/forums/f43/43527-destro_afflic_pvp/) |  06-05, 07:50 |  [ESPERICH](http://wowmb.net/forums/members/esperich/)  
- [PvP gearing in 5.2](http://wowmb.net/forums/f43/43529-pvp_gearing_5_2_a/) | [ ▼](http://wowmb.net/forums/f43/43529-pvp_gearing_5_2_a/) |  03-05, 08:09 |  [ESPERICH](http://wowmb.net/forums/members/esperich/)  
+ [This isn't my Warlock anymore...](http://wowmb.net/forums/f8/43514-isnt_my_warlock_anymore/) | [ ▼](http://wowmb.net/forums/f8/43514-isnt_my_warlock_anymore/) |  05-12, 23:09 |  [Falcrist](http://wowmb.net/forums/members/falcrist/)  
+ [Goodbye and have fun!](http://wowmb.net/forums/f8/43520-goodbye_have_fun/) | [ ▼](http://wowmb.net/forums/f8/43520-goodbye_have_fun/) |  02-12, 13:39 |  [mogarth](http://wowmb.net/forums/members/mogarth/)  
+ [Level 100 Talents](http://wowmb.net/forums/f9/43543-level_100_talents/) | [ ▼](http://wowmb.net/forums/f9/43543-level_100_talents/) |  15-11, 19:48 |  [Jaedan](http://wowmb.net/forums/members/jaedan/)  
+ [Another epic video!!](http://wowmb.net/forums/f43/43541-another_epic_video/) | [ ▼](http://wowmb.net/forums/f43/43541-another_epic_video/) |  23-10, 17:20 |  [warrollan](http://wowmb.net/forums/members/warrollan/)  
+ [Show off your UI - Thread #4...](http://wowmb.net/forums/f23/40881-show_off_your_ui_thread_4_cataclysm/) | [ ▼](http://wowmb.net/forums/f23/40881-show_off_your_ui_thread_4_cataclysm/) |  01-10, 03:10 |  [Falcrist](http://wowmb.net/forums/members/falcrist/)  
+ [Demon Lock - DPS PVE](http://wowmb.net/forums/f8/43539-demon_lock_dps_pve/) | [ ▼](http://wowmb.net/forums/f8/43539-demon_lock_dps_pve/) |  28-09, 07:37 |  [D1RE](http://wowmb.net/forums/members/d1re/)  
+ [Latest 5.4 Info](http://wowmb.net/forums/f8/43535-latest_5_4_info/) | [ ▼](http://wowmb.net/forums/f8/43535-latest_5_4_info/) |  31-08, 18:39 |  [Cursalock](http://wowmb.net/forums/members/cursalock/)  
+ [New changes on the PTR](http://wowmb.net/forums/f9/43537-new_changes_ptr/) | [ ▼](http://wowmb.net/forums/f9/43537-new_changes_ptr/) |  29-08, 11:38 |  [Caolela](http://wowmb.net/forums/members/caolela/)  
+ [Destro PvP video](http://wowmb.net/forums/f43/43540-destro_pvp_video/) | [ ▼](http://wowmb.net/forums/f43/43540-destro_pvp_video/) |  22-08, 16:39 |  [D1RE](http://wowmb.net/forums/members/d1re/)  
+ [Warlock fourm sigs](http://wowmb.net/forums/f8/38611-warlock_fourm_sigs/) | [ ▼](http://wowmb.net/forums/f8/38611-warlock_fourm_sigs/) |  15-08, 00:31 |  [Supernex](http://wowmb.net/forums/members/supernex/)  
 |  [5.2 and Warlocks](http://wowmb.net/forums/f71/43516-5_2_warlocks/) |  05-03  
 ---|---  
  [Shape up or ship out!](http://wowmb.net/forums/f71/43499-shape_up_ship_out/) |  15-01  
