@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsim.in privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530122538id_/http%3A//dsim.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsim.in privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208091011id_/http%3A//dsim.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
