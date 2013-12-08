@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zygorguides.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627154001id_/http%3A//www.zygorguides.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zygorguides.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208033938id_/http%3A//www.zygorguides.com/about/privacy.php) for the most accurate reproduction.*
 
 # Zygor Guides
 
