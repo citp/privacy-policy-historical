@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utsavfashion.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531151915id_/http%3A//www.utsavfashion.com/help/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsavfashion.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208185758id_/http%3A//www.utsavfashion.com/help/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacypolicy.htm - Utsavfashion.com - Specialized in Indian clothing for Designer Bridal Sarees, Embroidered Lehengas, Fancy Salwar Kameez and lot more at affordable prices
+# Privacypolicy - Utsavfashion.com - Specialized in Indian clothing for Designer Bridal Sarees, Embroidered Lehengas, Fancy Salwar Kameez and lot more at affordable prices
 
 ## Privacy Policy
 
@@ -67,7 +67,7 @@ If you reject cookies, you may still use our site, but your ability to use some 
 
 ##### Web Beacons
 
-We employ [or our third party advertising partner employs] a software technology called Web Beacons, that help us better manage content on our site by informing us what content is effective. Web Beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, Web Beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers' personally identifiable information.
+We employ [or our third party advertising partner employs] a software technology called Web Beacons, that help us better manage content on our site by informing us what content is effective. Web Beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, Web Beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifts to our customers' personally identifiable information.
 
 ##### Log Files
 
