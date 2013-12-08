@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehormonecurebook.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505043336id_/http%3A//www.saragottfriedmd.com/wp-content/uploads/2013/02/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehormonecurebook.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208135700id_/http%3A//www.saragottfriedmd.com/wp-content/uploads/2013/02/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
