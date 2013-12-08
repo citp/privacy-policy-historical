@@ -1,13 +1,47 @@
-> *The following text is extracted and transformed from the sportbible.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629052355id_/http%3A//www.jokepro.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportbible.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208140236id_/http%3A//www.sportbible.com/privacy.aspx) for the most accurate reproduction.*
 
-# Online Comedy Club, Genre Comedy, Funny Videos, Joke and Site Directory, Gifts That Get Laughs, Affiliate Program - JokePro.com
+# SportBible.com > Home
 
-### Privacy Policy
+SportBible.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the SportBible.com Web site and governs data collection and usage. By using the SportBible.com website, you consent to the data practices described in this statement.
 
-When you visit our site, we gather information that does not identify individual users. Cookies are used to track your IP address only for the purposes of tracking unique user sessions, to help diagnose problems with our server, and to administer our Web site. We merely use aggregate information along with other data to make improvements to and update our site for our visitors. 
+Collection of your Personal Information
 
-We do not sell, trade, or rent your personal information to others. We may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors. However, these statistics will not include personal identifying information. Account information may be released when we believe, in good faith, that such release is reasonably necessary to: (1) comply with applicable law, (2) enforce or apply the terms of any of our user agreements, or (3) protect the rights, property or safety of our users, products and/or any third parties. 
+SportBible.com collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. SportBible.com also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-Our site contains a contact signup form. We use the contact information from the registration form to send the user information needed to maintain their account and to notify them of news about our site. Users may opt-out of receiving mailings (other than those required for account administration) at the time they create their account or any later date. 
+There is also information about your computer hardware and software that is automatically collected by SportBible.com. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by SportBible.com for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the SportBible.com Web site.
 
-This site contains links to other sites. This site is not responsible for the privacy practices or the content of such Web sites. 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through SportBible.com public message boards, this information may be collected and used by others. Note: SportBible.com does not read any of your private online communications.
+
+SportBible.com encourages you to review the privacy statements of Web sites you choose to link to from SportBible.com so that you can understand how those Web sites collect, use and share your information. SportBible.com is not responsible for the privacy statements or other content on Web sites outside of the SportBible.com and SportBible.com family of Web sites.
+
+Use of your Personal Information
+
+SportBible.com collects and uses your personal information to operate the SportBible.com Web site and deliver the services you have requested. SportBible.com also uses your personally identifiable information to inform you of other products or services available from SportBible.com and its affiliates. SportBible.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+
+SportBible.com does not sell, rent or lease its customer lists to third parties. SportBible.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, SportBible.com may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to SportBible.com, and they are required to maintain the confidentiality of your information.
+
+SportBible.com does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+
+SportBible.com keeps track of the Web sites and pages our customers visit within SportBible.com, in order to determine what SportBible.com services are the most popular. This data is used to deliver customized content and advertising within SportBible.com to customers whose behavior indicates that they are interested in a particular subject area.
+
+SportBible.com Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on SportBible.com or the site; (b) protect and defend the rights or property of SportBible.com; and, (c) act under exigent circumstances to protect the personal safety of users of SportBible.com, or the public.
+
+Use of Cookies
+
+The SportBible.com Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize SportBible.com pages, or register with SportBible.com site or services, a cookie helps SportBible.com to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same SportBible.com Web site, the information you previously provided can be retrieved, so you can easily use the SportBible.com features that you customized.
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the SportBible.com services or Web sites you visit.
+
+Security of your Personal Information
+
+SportBible.com secures your personal information from unauthorized access, use or disclosure. SportBible.com secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+Changes to this Statement
+
+SportBible.com will occasionally update this Statement of Privacy to reflect company and customer feedback. SportBible.com encourages you to periodically review this Statement to be informed of how SportBible.com is protecting your information.
+
+Contact Information
+
+SportBible.com welcomes your comments regarding this Statement of Privacy. If you believe that SportBible.com has not adhered to this Statement, please contact SportBible.com at [info@sportbible.com](mailto:info@sportbible.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
