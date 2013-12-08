@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techcity.pk privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603034024id_/http%3A//techcity.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcity.pk privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208044154id_/http%3A//techcity.pk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
