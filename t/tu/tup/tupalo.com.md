@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529225351id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208213404id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Tupalo.com Blog
 
@@ -22,7 +22,7 @@ Tupalo also collects user-submitted information such as city, state, zip and cou
 
 Tupalo also collects user-submitted photos, reviews and ratings of businesses and Service providers. This user-submitted information is public by default and accessible to all users of Tupalo.
 
-Some information is collected while not informing the user. Information such as browser-related information, IP addresses, referral URL, time-stamp and entry/exit pages are such information. This information is logged and only for internal use. This information will never be shared or sold to a third party.
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 **Google Adsense / Doubleclick DART**
 
