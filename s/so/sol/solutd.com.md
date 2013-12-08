@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solutd.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002820id_/http%3A//solutd.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutd.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208044922id_/http%3A//solutd.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Statement page on SOL United
 
