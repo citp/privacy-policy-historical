@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the privacystar.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630091249id_/http%3A//www.privacystar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacystar.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208050629id_/http%3A//www.privacystar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PrivacyStar
-
-[](http://www.privacystar.com/)
-
-
-
+# | PrivacyStar
 
 **Effective April 22, 2013**
 
