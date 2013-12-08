@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preventdisease.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530230711id_/http%3A//preventdisease.com/home/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preventdisease.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208065529id_/http%3A//preventdisease.com/home/privacy.shtml) for the most accurate reproduction.*
 
 # PreventDisease.com - Privacy Statement
 
