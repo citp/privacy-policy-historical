@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisedownloads.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602061510id_/http%3A//wisedownloads.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisedownloads.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208210753id_/http%3A//www.wisedownloads.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
