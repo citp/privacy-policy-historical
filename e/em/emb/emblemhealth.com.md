@@ -1,59 +1,53 @@
-> *The following text is extracted and transformed from the emblemhealth.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613054233id_/http%3A//www.emblemhealth.com/Default.aspx%3FPage%3D75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblemhealth.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208202939id_/http%3A//www.emblemhealth.com/Legal-Information/Privacy-Security-Policies.aspx) for the most accurate reproduction.*
 
-# EmblemHealth - Privacy Policies
+# Privacy Notice and Security Policies
 
-The protection and security of our subscribers' personal information is one of our major objectives. Please visit the below links related to our Notice of Privacy Practices, Web site Privacy Policy and Data Security Policy for more information on how we protect your information.
+The protection and security of our subscribers' personal information is one of our major objectives. Please visit the below links related to our Notice of Privacy Practices, Web site Privacy Policy and Data Security Policy for more information on how we protect your information. 
 
-## EmblemHealth Notice of Privacy Practices
+**EmblemHealth Privacy Notice**
 
-This notice describes how medical information about you may be used and disclosed and how you can get access to this information.
+This notice describes how medical information about you may be used and disclosed and how you can get access to this information. 
 
-  * [Click here](https://web.archive.org/web/20130613054233id_/http%3A//www.emblemhealth.com/pdf/Privacy_Notice_EH.pdf) to read our Notice of Privacy Practices. 
-  * [Haga clic aquí](https://web.archive.org/web/20130613054233id_/http%3A//www.emblemhealth.com/pdf/Privacy_Notice_EH_Sp.pdf) para leer nuestro Aviso de Prácticas de Privacidad.  
+  * [Click here](https://web.archive.org/~/media/Files/PDF/Privacy_Notice_EH1.pdf) to read our Privacy Notice. 
+  * [Haga clic aquí](https://web.archive.org/~/media/Files/PDF/Privacy_Notice_EH_Sp1.pdf) para leer nuestro Aviso de Prácticas de Privacidad. 
 
 
 
-## EmblemHealth Web Site Privacy Policy
+**EmblemHealth Web Site Privacy Policy**
 
-We maintain high standards for the protection of your privacy on our Web site. Please [click here](https://web.archive.org/web/20130613054233id_/http%3A//www.emblemhealth.com/Default.aspx?Page=337) for more information on how we do this.
+We maintain high standards for the protection of your privacy on our Web site. Please click here for more information on how we do this. 
 
-## EmblemHealth Data Security Policy
+**EmblemHealth Data Security Policy**
 
-We strive to afford our customers with easy online means of viewing claims data. When you use our Member Online Services or Provider Online Services to view your health care transactions, the data that you view is encrypted for your protection.
+We strive to afford our customers with easy online means of viewing claims data. When you use our Member Online Services or Provider Online Services to view your health care transactions, the data that you view is encrypted for your protection. 
 
-Read our [Data Security Policy](https://web.archive.org/web/20130613054233id_/http%3A//www.emblemhealth.com/Default.aspx?Page=3381).
+Read our [Data Security Policy.](https://web.archive.org/en/Legal-Information/Privacy-Security-Policies/Data-Security-Policy.aspx)
 
-## Managed Care Disclosure for GHI HMO and HIP HMO Members
+**Managed Care Disclosure for GHI HMO and HIP HMO Members**
 
-The following is information about GHI and HIP HMO that we must give to all prospective and existing HMO members who request the information. Additional details about the following items are in your Member Handbook or Certificate of Insurance. 
+The following is information about GHI and HIP HMO that we must give to all prospective and existing HMO members who request the information. Additional details about the following items are in your Member Handbook or Certificate of Insurance.
 
-## About GHI HMO and HIP HMO 
+**About GHI HMO and HIP HMO**
 
 The names, business addresses and titles of officers, directors, owners and controlling persons of GHI or HIP. 
 
-**
-
-How to get a copy of:
-
-**
+**How to get a copy of:**
 
   * The most recent annual financial statements. 
-  * GHI or HIP HMO's most recent direct payment contracts. 
+  * GHI or HIP HMO's most recent direct payment contracts.
 
 
 
-## Information about GHI HMO and HIP HMO 
+**Information about GHI HMO and HIP HMO Information includes:**
 
-Information includes:
-
-  * Consumer complaint program.
+  * Consumer complaint program. 
   * How we protect our members medical records and other member information. 
   * Quality assurance procedures. 
   * Utilization Review program including Utilization Review policies and procedures as well as clinical review criteria. This includes information about certain diseases and conditions that are covered. 
 
 
 
-## About GHI HMO and HIP HMO Benefits 
+**About GHI HMO and HIP HMO Benefits**
 
 **How to get a copy of:**
 
@@ -80,9 +74,9 @@ Information includes:
 
 
 
-A description of all benefits including benefit maximums, coverage exclusions and the definition of medical necessity. 
+A description of all benefits including benefit maximums, coverage exclusions and the definition of medical necessity.
 
-## GHI HMO/HIP HMO and Members 
+**GHI HMO/HIP HMO and Members**
 
 **Information about:**
 
@@ -90,12 +84,13 @@ A description of all benefits including benefit maximums, coverage exclusions an
   * The member's responsibility for payment of services by non-network providers or for noncovered services. 
   * Our process for filing a grievance. 
   * How members can participate in the development of GHI HMO and HIP HMO policies. 
-  * How non-English speaking members are served.
-  * How members can contact GHI HMO or HIP HMO. 
+  * How non-English speaking members are served. 
+  * How members can contact GHI HMO or HIP HMO.
 
 
 
-If you have questions about the Managed Care Act Disclosure Provision, would like copies of information about GHI HMO or HIP HMO, or for any other questions:
+If you have questions about the Managed Care Act Disclosure Provision, would like copies of information about GHI HMO or HIP HMO, or for any other questions: 
 
-For GHI HMO: Call Customer Service toll free at **1-877-2GHIHMO** (1-877-244-4466).  
-For HIP HMO: Call Customer Service toll free at **1- 800-HIPTALK** (1-877-344-7364).
+For GHI HMO: Call Customer Service toll free at 1-877-2GHIHMO (1-877-244-4466).
+
+For HIP HMO: Call Customer Service toll free at 1- 800-HIPTALK (1-800-447-8255).
