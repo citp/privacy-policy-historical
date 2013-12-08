@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamplay.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502170159id_/http%3A//www.jamplay.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamplay.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208102854id_/http%3A//www.jamplay.com/company/privacy-policy) for the most accurate reproduction.*
 
 # JamPlay.com Privacy Policy
 
@@ -54,7 +54,7 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 
 
-We use a third-party tracking service Google Analytics that uses cookies and web beacons/pixels to track non-personal data about visitors on our site. We track **all** usage (including, but not limited to: pages visited, time on site, browser information, geographic location) to improve the user experience.
+We use a third-party tracking service Google Analytics that uses cookies and web beacons/pixels to track non-personal data about visitors on our site. We track **all** usage (including, but not limited to: pages visited, time on site, browser information, geographic location) to improve the user experience. Third-party vendors, including Google, will show our ads across the Internet. We, and other vendors, use first-party cookies and third-party cookies together to inform, optimize, and serve ads based on your past visits to our website. Google and other vendors will utilize this information for remarketing advertising efforts.
 
 The use of cookies and web beacons/pixels by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site. 
 
