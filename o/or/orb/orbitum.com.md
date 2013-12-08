@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orbitum.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515033219id_/http%3A//orbitum.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitum.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208070556id_/http%3A//orbitum.com/privacy) for the most accurate reproduction.*
 
-# 
+# Orbitum - Privacy Policy
 
 INFORMATION WE COLLECT AND HOW WE USE IT 
 
