@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supereasybooks.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606224236id_/http%3A//supereasybooks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supereasybooks.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208140815id_/http%3A//supereasybooks.com/privacy) for the most accurate reproduction.*
 
 # 
 
