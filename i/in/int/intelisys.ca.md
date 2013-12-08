@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intelisys.ca privacy policy that was archived on 2013-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130201054424id_/http%3A//www.intelisysaviation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelisys.ca privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208021751id_/http%3A//www.intelisysaviation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InteliSys Aviation Systems
 
-* Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
   * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
