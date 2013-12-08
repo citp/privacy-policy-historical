@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odurinde.co.uk privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514094121id_/http%3A//www.odurinde.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odurinde.co.uk privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208124712id_/http%3A//www.odurinde.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # The Privacy Policy | Odurinde Finance & Business Blog
 
