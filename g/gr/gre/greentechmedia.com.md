@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greentechmedia.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228170901id_/http%3A//www.greentechmedia.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greentechmedia.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208180501id_/http%3A//www.greentechmedia.com/about/page/privacy-policy) for the most accurate reproduction.*
 
-# Greentech Media
+# Privacy Policy | Greentech Media
 
 Greentech Media, Inc. ("Greentech") is committed to your privacy. This notice describes our privacy policy ("Privacy Policy") to inform you of how we collect, use and share the information we may collect about you from www.greentechmedia.com (known as the "Site"). Please note that by visiting the Site, you are expressly agreeing to the terms of this Privacy Policy.
 
