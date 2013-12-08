@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongholdkingdoms.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514072634id_/http%3A//strongholdkingdoms.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongholdkingdoms.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208010125id_/http%3A//www.strongholdkingdoms.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Stronghold Kingdoms - Privacy Policy
 
@@ -123,7 +123,7 @@ By providing us with your Personal Data, you consent to the processing, transfer
 
 16\.                         Unsubscribe
 
-We hope you will be delighted with our services.  If you no longer wish to receive information from us and want to be removed from our standard mailing list you can "unsubscribe" by contacting us at [admin@fireflyworlds.com](mailto:admin@fireflyworlds.com). Please allow twenty eight days for the unsubscribe process to be completed.  In any marketing or promotional communications we send to you, we will give you the opportunity to withdraw your consent to receiving such communications in the future.  Remember that by stopping the information that you receive from us about our products and services may not benefit you.  For example, you may not hear about promotions we are running or additions to our service.
+We hope you will be delighted with our services. If you no longer wish to receive information from us and want to be removed from our standard mailing list please [click on this unsubscribe link](http://fireflyworlds.us1.list-manage.com/unsubscribe?u=272e468c3bc01bf23048b2fbc&id=a895b59aed). In any marketing or promotional communications we send to you, we will give you the opportunity to withdraw your consent to receiving such communications in the future. Remember that by stopping the information that you receive from us about our products and services may not benefit you. For example, you may not hear about promotions we are running or additions to our service.
 
 17\.                         Governing Law
 
@@ -135,4 +135,4 @@ We welcome comments about this Privacy Policy.  If you have any questions about
 
 Visiting Firefly Internet websites and using our on-line services indicates your acceptance of our Privacy Policy.  If you do not accept this Privacy Policy, please do not visit our Internet websites or use our on-line services.
 
-**This Privacy Policy was last updated on October 21st, 2010.**
+**This Privacy Policy was last updated on November 15th, 2013.**
