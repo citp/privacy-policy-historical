@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solairworld.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530124914id_/http%3A//www.solairworld.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solairworld.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208160758id_/http%3A//www.solairworld.com/privacy-statement) for the most accurate reproduction.*
 
 # Solar Powered Air Conditioners to you delivered by SolAir World
 
