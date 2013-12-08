@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the official.my privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116030855id_/http%3A//www.official.my/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the official.my privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208051741id_/http%3A//www.official.my/policy.php) for the most accurate reproduction.*
 
 # Official Web Submission - Privacy and Policy
 
