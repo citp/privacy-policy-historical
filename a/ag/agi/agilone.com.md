@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the agilone.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602120144id_/http%3A//agilone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilone.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209153445id_/http%3A//www.agilone.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | AgilOne
 
-## Privacy Policy
+### Privacy Policy
 
 **Effective date: July 6, 2012**
 
