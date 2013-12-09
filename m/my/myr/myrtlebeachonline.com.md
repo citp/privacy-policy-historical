@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrtlebeachonline.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614215058id_/http%3A//www.myrtlebeachonline.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrtlebeachonline.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209125536id_/http%3A//www.myrtlebeachonline.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # MyrtleBeachOnline.com Myrtle Beach, SC
 
