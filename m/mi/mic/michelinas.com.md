@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the michelinas.com privacy policy that was archived on 2013-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130322133542id_/http%3A//michelinas.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michelinas.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209013153id_/http%3A//www.michelinas.com/privacy-policy) for the most accurate reproduction.*
 
-# Michelinas : Privacy
+# Privacy Policy | Michelinas
 
-### Bellisio Foods, Inc. Privacy Policy
+## Bellisio Foods, Inc. Privacy Policy
 
 This site is owned and operated by Bellisio Foods, Inc. Your privacy on the internet is of the utmost importance to us. At Bellisio Foods, Inc., we want to make your experience online satisfying and safe.
 
@@ -10,7 +10,7 @@ Because we are interested in your comments and you may choose to communicate wit
 
 This Privacy Policy does not apply to websites maintained by other companies or organizations to which we link. We encourage you to read the privacy policy of the party to which you link before you subject any personal information to that site. We are not responsible, and disclaim any liability for, the independent practices or content of any of those sites.
 
- **WHAT INFORMATION DO WE COLLECT AND HOW DO WE USE IT?**
+### What information do we collect and how do we use it?
 
 We collect personal information from you (such as your name, address, phone number, e-mail address, etc.) only when you voluntarily provide it to us. Depending on the purpose for which the information was provided, we may use the information to communicate with you regarding our products, services, and promotions, to provide you with other information that you request, and/or to improve our products and our services.
 
@@ -29,7 +29,7 @@ Your participation in any of these activities (and therefore your provision of p
 
 From time to time, we are approached by reputable third party companies and organizations that provide products or services that we believe may be of interest to you. To extend these products or services to you, we may use your personal information (e.g. e-mail address) to send out notices on their behalf. We see this as a value-added service helping you find useful products and services. Our goal is to limit the notices and communications to those that we think you would appreciate receiving. Please note that all such mailing come strictly from Bellisio Foods, Inc. and your personal information is not shared with these other companies.
 
- **WHEN MIGHT WE PROVIDE OTHER PARTNERS WITH YOUR PERSONAL INFORMATION**
+### When might we provide other partners with your personal information
 
 From time to time we may run a joint or co-sponsored program or promotion on our website with another company, organization, or other reputable third party; and as part of this event, collect and process personal information. If your personal information is being collected by or shared with a company other than Bellisio Foods, Inc. as part of the promotion, we will let you know this at the time your information is collected. Periodically, we may run a promotion on our website that features the products or services of another company and we will give you the opportunity to opt in to receive information directly from that third party company. If any of these promotions are made available to children under 13, we will first obtain verifiable consent from the parent before sharing the child's information.
 
@@ -41,23 +41,22 @@ We reserve the right to transfer any information we have about you in the event 
 
 We reserve the right to disclose any personal information as needed if the information is requested by law enforcement agencies or if we are required to do so by law, regulation, subpoena, court order, or by a government entity. We also may disclose personal information to third parties if we have reason to believe that disclosing the information is necessary to conduct investigations of possible breaches of law, to cooperate in any legal investigations, or to identify, contact, or bring legal action against someone who may be violating the terms of use of our website.
 
- **BELLISIO FOODS, INC. CHILDREN'S PRIVACY POLICY**
+### Bellisio foods, inc. Children's privacy policy
 
 A special note to parents: This website is not directed to children and we will not request any information from children less than 13 years of age at this website. We operate our website from guidelines established by the Children's Advertising Review Unit and in compliance with the requirements of the Children's Online Privacy Protection Act of 1998.
 
- **UNITED STATES ONLY**
+### United states only
 
 This website is intended for use by residents of the United States of America only. All matters relating to this site are governed by the laws of the State of Minnesota and the United States of America. If you are located outside the United States of America and you contact us, any information you provide to us will be transferred to the United States of America and that by submitting the information, you explicitly authorize its transfer.
 
- **CHANGES IN OUR ONLINE PRIVACY POLICY**
+### Changes in our online privacy policy
 
 We reserve the right to change or replace this Privacy Policy at any time in our sole discretion. You should check back each time you use our website to ensure that you are aware of any changes in this Privacy Policy.
 
- **YOUR CONSENT TO THE TERMS OF THIS PRIVACY POLICY**
+Your consent to the terms of this privacy policy
 
 By using this website, you consent to and signify your assent to all of the terms of this Privacy Policy and our terms of use. If you do not agree with any term of this Privacy Policy or our terms of use, do not use this website or submit any personally identifiable information.
 
- **HOW TO CONTACT US**
+### How to contact us
 
-Should you have any questions or concerns about this Privacy Policy or about our collection or use of information, please e-mail us at michelinas@bellisiofoods.com.  
-
+Should you have any questions or concerns about this Privacy Policy or about our collection or use of information, please  [contact us](https://web.archive.org/contact-us/ "Contact Us").
