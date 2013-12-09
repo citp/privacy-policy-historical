@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muvee.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620160718id_/http%3A//www.muvee.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muvee.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209085254id_/http%3A//www.muvee.com/en/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | muvee
 
