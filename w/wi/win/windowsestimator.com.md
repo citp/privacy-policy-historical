@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the windowsestimator.com privacy policy that was archived on 2012-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120104103847id_/http%3A//windowsestimator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsestimator.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209172241id_/http%3A//windowsestimator.com/privacy) for the most accurate reproduction.*
 
 # Windowsestimator.Com Privacy Policy
 
 ## Our Commitment To Privacy
 
-We at **AL-SADEQOUN LIL-TASWEEQ** are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites. This policy describes what kind of information we collect on Windowsestimator.Com, how we use this information, and your ability of opting-out. 
+We at **Windowsestimator.Com** are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites. This policy describes what kind of information we collect on Windowsestimator.Com, how we use this information, and your ability of opting-out. 
 
 ## Personally Identifiable Consumer Information That We Collect
 
@@ -36,7 +36,7 @@ Windowsestimator.Com will share information immediately with our partners, whom 
 
 ## Opting-Out Personally Identifiable Consumer Information
 
-You have the right to ask for information deletion at anytime from our database. You can email us at info@alsadeqoun.com , and we will delete your data from our servers completely.   
+You have the right to ask for information deletion at anytime from our database. You can email us at info@alsadeqoun.com, and we will delete your data from our servers completely.   
 However, you need to communicate your opting-out request with the contractors who receive your quote request and our partner who matched you with those contractors. The partner will communicate with you directly and offers clear way to opt-out from their systems. 
 
 ## Our Commitment To Data Security
@@ -53,7 +53,7 @@ By using Windowsestimator.Com, you consent to the terms of our Online Privacy Po
 
 ## Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us an email at info@alsadeqoun.com . Our mailing address is:   
+Should you have other questions or concerns about these privacy policies, please send us an email at info@alsadeqoun.com. Our mailing address is:   
 Husn Municipality Commercial Centre Bldg.  
 South Al-balqa Applied University (Al-husun campus)  
 Wasfi Al-Tall St  
