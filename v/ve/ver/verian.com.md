@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the verian.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607071239id_/http%3A//www.verian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verian.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209074948id_/http%3A//www.verian.com/privacy) for the most accurate reproduction.*
 
-# Verian Statement of Privacy « Verian
+# Statement of Privacy | Privacy Policy « Verian
 
 At Verian, we are committed to protecting your privacy. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this statement of privacy explains data collection and use in those situations. Please read this complete privacy statement.
 
