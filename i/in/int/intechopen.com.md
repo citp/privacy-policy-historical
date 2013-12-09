@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intechopen.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610210508id_/http%3A//www.intechopen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intechopen.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209192616id_/http%3A//www.intechopen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | InTech
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.intechweb.org/seal_m "Validate TRUSTe privacy certification")
+[](https://privacy.truste.com/privacy-seal/Intech-d-o-o-/validation?rid=12fa86be-fd7a-480f-bc10-f4265d7bd362 "TRUSTe online privacy certification")
 
 This privacy policy sets out how ("we" and "us") uses and protects any information that you ("user") give when you use this website. InTech is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy policy. InTech does not sell, rent, or otherwise provide your personal information to third parties, unless we have your permission or are required by law to do so. InTech may change this policy from time to time by updating this page. You are invited to check this page to ensure that you agree with the changes. This policy is effective from 20.09.2012.
 
@@ -64,38 +64,42 @@ A cookie is a small file which asks permission to be placed on your computer's h
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. However, given that the Internet is not a secure medium, there is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. You are responsible for maintaining the secrecy of your unique password and account information and for controlling access to your email communications at all times.
 
-**10\. Third Party Cookies**
+####  10\. Third Party Cookies
 
 The use of cookies by our partners and affiliates is not covered by our privacy statement. We do not have access or control over these cookies. 
 
-**11\. Web Beacons**
+####  11\. Web Beacons
 
 Our web pages contain electronic images known as web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used. These may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
-12\. Links to Other Websites
+####  12\. Links to Other Websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-####  13\. Blogs
+####  13\. Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+####  14\. Blogs
 
 **If you use our blog on this web site, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these blogs. To request removal of your personal information from our blog or community forum, contact us at[info@intechopen.com.](mailto:info@intechopen.com.) In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.**
 
-####  12\. Private Policy and Authors
+####  15\. Private Policy and Authors
 
 The summary of Authors' personal information (First name, Last name, academic/job title, Organization/Institution and previous publications) are made publicly accessible on InTech's web site. Other personal and contact information will be publicly available to registered users only with prior authorization. InTech will not send authors unsolicited e-mail messages unless it directly concerns their published work.
 
-**13\. Data Retention**
+####  16\. Data Retention
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account  or request that we no longer use your information to provide you services contact us at [info@intechopen.com](mailto:info@intechopen.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements .  
 
-####  14\. Changes in this Privacy Policy
+####  17\. Changes in this Privacy Policy
 
 **If we decide to change our privacy policy, we will post those changes to this privacy policy, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.**
 
 **We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page 30 calendar days prior to implementing the change.**
 
-####  15\. Contact Us
+####  18\. Contact Us
 
-If you have questions or comments about this Privacy Policy, please email us at[ ](mailto:info@intechopen.com)[info@intechopen.com](mailto:info@intechopen.com) or write to us at InTech d.o.o., University Campus STeP Ri, Slavka Krautzeka 83/A, 51000 Rijeka, Croatia.
+If you have questions or comments about this Privacy Policy, please email us at[ ](mailto:info@intechopen.com)[info@intechopen.com](mailto:info@intechopen.com) or write to us at InTech d.o.o., Janeza Trdine 9, 51000 Rijeka, Croatia.
 
 Top of page
