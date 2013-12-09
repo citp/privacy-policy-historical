@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideeinc.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528071652id_/http%3A//www.tineye.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideeinc.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209030536id_/http%3A//www.tineye.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TinEye
 
