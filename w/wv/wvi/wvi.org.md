@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wvi.org privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615054911id_/http%3A//www.wvi.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvi.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209214632id_/http%3A//wvi.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | World Vision International
 
@@ -26,4 +26,4 @@ This privacy statement has been updated and is effective as of September 2012. W
 
 ### Contacting the Website
 
-If you have any questions about this privacy statement, the practices of this Web site, or your dealings with this Web site, please [Contact Us](http://wvi.stln.me/contact)
+If you have any questions about this privacy statement, the practices of this Web site, or your dealings with this Web site, please [Contact Us](mailto:worvis@wvi.org)
