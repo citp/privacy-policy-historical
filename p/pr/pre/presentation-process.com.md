@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presentation-process.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180959id_/http%3A//www.presentation-process.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentation-process.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209193508id_/http%3A//www.presentation-process.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Presentation Process Privacy Policy
 
