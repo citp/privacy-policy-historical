@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xeroshoes.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627085845id_/http%3A//www.xeroshoes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeroshoes.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209045547id_/http%3A//www.xeroshoes.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Xero Shoes
 
