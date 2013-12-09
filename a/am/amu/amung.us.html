@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amung.us privacy policy that was archived on 2013-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624134313id_/http%3A//whos.amung.us/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amung.us privacy policy that was archived on 2013-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209191329id_/http%3A//whos.amung.us/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,10 +7,13 @@
 	if(window.location != window.parent.location) window.location.href = "http://assets.amung.us/oldpro/images/icons/warning.png";
 </script>
 <link href="http://assets.amung.us/styles/global.css" rel="stylesheet" type="text/css">
+<!--
 <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAPXgAKW6DmooahkxPmKGWLhTcAWu5A4Db0_f4DEEtXyFOIQeKbhTwYcNS9G8T3HI92P7tX1ne3ZyIow"></script>
 <script type="text/javascript">
 	google.load('mootools', '1.4.1');
 </script>
+-->
+<script type="text/javascript" src="http://assets.amung.us/scripts/3rdparty/moocore.js"></script>
 <script type="text/javascript" src="http://assets.amung.us/scripts/3rdparty/moomore.js"></script>
 <script type="text/javascript" src="http://assets.amung.us/scripts/global.js"></script>
 <script type="text/javascript">
@@ -24,7 +27,38 @@
 <script type="text/javascript">
 window.addEvent('domready', function() {
 	initGlobalNav(0);
+	get_oo_status();
+	
+	$('oobtn').addEvent('click', function() {
+		var status = get_oo_status();
+		if(status) {
+			console.log('opted out, so this click opts them back in');
+			Cookie.write('_wauoo', '0', {domain: 'amung.us'});
+			Cookie.dispose('_wauoo');
+		} else {
+			console.log('not opted out, so this click opts them out');
+			Cookie.write('_wauoo', '1', {domain: 'amung.us', duration: 9999});
+		}
+		
+		get_oo_status();
+		return false;
+	});
 });
+
+function get_oo_status() {
+	var c_val = Cookie.read('_wauoo');
+	console.log("VAL: "+c_val);
+	
+	if(c_val != '1') {
+		$('oostatus').set('html', 'not opted out');
+		$('oobtn').set('html', 'opt out');
+		return false;
+	} else {
+		$('oostatus').set('html', 'opted out');
+		$('oobtn').set('html', 'opt in');
+		return true;
+	}
+}
 </script>
 
 <script type="text/javascript" async="" src="http://widgets.amung.us/a_pro.js"></script></head>
@@ -201,7 +235,6 @@ window.addEvent('domready', function() {
 	ensures all partners engaged respect opt out lists for ad targeting, you can opt out using the NAI's opt out
 	mechanism at <a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a>.
 </p>
-<br>
 <p>
     By using this website and/or our services you agree to this privacy policy and 
     agree to indemnify whos.amung.us Inc. of any claims, demands, or actions resulting
@@ -212,7 +245,20 @@ window.addEvent('domready', function() {
     will be posted on this page alongside the modified privacy policy.
 </p>
 <p>
-    This privacy policy was last updated: August 15, 2011.
+    This above privacy policy was last updated: August 15, 2011.
+</p>
+<p>
+	You may wish to opt out of our services by clicking the link below. Opt out preferences are stored in a cookie so if you clear your cookies
+	you will need to opt out at this page agin. Since the cookie is specific to this browser you may wish to opt out on all browsers you use. 
+	When you opt out information about your visit will not be recorded in the stats of any site you visit that utilizes our services (this covers both Free and PRO
+	services).
+	<br><br>
+	Current opt out status: <span id="oostatus" style="display: inline; clear: none; width: 200px;">not opted out</span> [<a style="text-decoration: underline" id="oobtn">opt out</a>].
+</p>
+<p>
+	If you have any questions please do not hesitate to contact us.
+	<br><br>
+	<a href="http://whos.amung.us/contact">Contact Form</a>.
 </p>
 
 &nbsp;
