@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ganzestore.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607175918id_/http%3A//www.ganzestore.com/static/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganzestore.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209042007id_/http%3A//www.ganzestore.com/static/pp) for the most accurate reproduction.*
 
 # Ganz eStore: Buy Webkinz Pets, eStore Points, Deluxe Memberships, Online Items
 
