@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-business-web-directory.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602021237id_/http%3A//top-business-web-directory.org/privacy-policy.php%3Fp%3Dh) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-business-web-directory.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209204752id_/http%3A//www.top-business-web-directory.org/privacy-policy.php%3Fp%3Dh) for the most accurate reproduction.*
 
 # Top Business Web Directory - Privacy Policy
 
