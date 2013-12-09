@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the talismanonline.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607020343id_/http%3A//miragame.com/comm/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talismanonline.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209154418id_/http%3A//talismanonline.com/support_policy.html) for the most accurate reproduction.*
 
-# MiraGame > Privacy Policy
+# Talisman Online - Privacy Policy
+
+Privacy Policy
 
 **MiraGame** (Miracle Castle Limited) is dedicated to protecting the privacy rights of our users. This Privacy Policy describes the ways we collect, store, use, and manage the information you provide in connection with our website at www.MiraGame.com or any MiraGame’s game or application provided on other websites or other third party sources. Please note that the scope of this Privacy Policy is limited to information collected by MiraGame through your use of the service.
 
