@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swissarmy.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610150612id_/http%3A//www.swissarmy.com/us/content/footer_slot_privacy_policyPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swissarmy.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209173751id_/http%3A//www.swissarmy.com/us/content/footer_slot_privacy_policyPage) for the most accurate reproduction.*
 
 # Victorinox Swiss Army
 
@@ -69,7 +69,7 @@ By providing your email address to us, you expressly consent to receive emails f
 
 **Terms of Use**
 
-Use of this Website is governed by, and subject to, the [ Terms of Use ](https://web.archive.org/web/20130610150612id_/http%3A//www.swissarmy.com/us/content/footer_slot_terms_and_safetyPage)  ** **
+Use of this Website is governed by, and subject to, the [ Terms of Use ](https://web.archive.org/web/20131209173751id_/http%3A//www.swissarmy.com/us/content/footer_slot_terms_and_safetyPage)  ** **
 
 **United States of America**
 
