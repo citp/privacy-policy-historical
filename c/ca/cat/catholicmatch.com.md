@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116152520id_/http%3A//www.catholicmatch.com/blog/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209112151id_/http%3A//www.catholicmatch.com/about/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
+
+###### **Last Updated On:** July 24th, 2013
 
 The CatholicMatch Privacy Policy covers how CatholicMatch treats personal information that is obtained from its users. Personal information is defined as that which personally identifies you. Examples included, but are not limited to, your name, address, e-mail address, phone number and other information not readily available to the general public. This policy applies strictly to CatholicMatch and not to any other associated firm or person whom CatholicMatch does not control.
 
@@ -12,7 +14,7 @@ CatholicMatch gathers two types of information: that which users submit to us an
 
 There are two types of user-submitted information we collect: Public & Private. We define Public information as personal information that may be displayed on the site, such as gender, age and height, but cannot be linked to a particular user. Private information is defined as any information that allows others to contact a user other than through CatholicMatch or allows the collection of information about the user other then what is displayed on the site.
 
-a) Public: To accomplish our goal of bringing Catholic people together, we must gather personal information. This includes, but is not limited to: customer-specified CatholicMatch’ username, gender, age, birth date, first name, ethnic background, appearance, religion, occupation, information and general geographic location. Some of this information is optional, and meant to be seen by members and visitors to the site, but cannot be used to identify a specific member by name, address, etc.
+a) Public: To accomplish our goal of bringing Catholic people together, we must gather personal information. This includes, but is not limited to: customer-specified CatholicMatch' username, gender, age, birth date, first name, ethnic background, appearance, religion, occupation, information and general geographic location. Some of this information is optional, and meant to be seen by members and visitors to the site, but cannot be used to identify a specific member by name, address, etc.
 
 b) Private: This information is gathered from members and guests who apply for the various services our site offers. This information includes, but is not limited to: e-mail address, last name, credit card number for payment, a user-specified CatholicMatch password, mailing address, zip code and telephone number.
 
@@ -34,11 +36,11 @@ CatholicMatch may deliver targeted advertising based on personal information, ho
 
 **6\. CatholicMatch Affiliate Partners**
 
-Information submitted by the Partner is used for establishing and maintaining a business relationship. No personal or business information is shared outside the relationship between CatholicMatch and the Partner. Partners may not view or access private information on CatholicMatch’ subscribers.
+Information submitted by the Partner is used for establishing and maintaining a business relationship. No personal or business information is shared outside the relationship between CatholicMatch and the Partner. Partners may not view or access private information on CatholicMatch' subscribers.
 
 **7\. Use of Cookies**
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If a user does not enable cookies to be set on their browser, they will not be able to use our website. We occasionally use cookies to anonymously track and target the interests of our users to enhance the experience on our site to allow enhanced capabilities, such as chat. We do not and will not, use cookies to collect private information from any user.
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If a user does not enable cookies to be set on their browser, they will not be able to use our website. We occasionally use cookies to anonymously track and target the interests of our users to enhance the experience on our site to allow enhanced capabilities, such as chat. We do not and will not, use cookies to collect private information from any user.
 
 Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to, or control over these cookies. We may also use a third-party advertising company to serve ads externally to the site on the behalf of CatholicMatch and our partners.
 
