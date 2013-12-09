@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbita.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530032001id_/http%3A//urbita.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbita.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209230005id_/http%3A//urbita.com/privacy) for the most accurate reproduction.*
 
 # Urbita - I love this place!
 
@@ -12,7 +12,7 @@ This privacy policy only applies to Urbita.
 
 This policy does not apply to the practices of companies that Urbita does not own or control or to people that Urbita does not employ or manage.
 
-**INFORMATION COLLECTION AND USE**
+ **INFORMATION COLLECTION AND USE**
 
 **General**
 
@@ -30,7 +30,7 @@ Urbita uses information for the following general purposes: to customize the adv
 
 Children under 13 are not allowed to register on Urbita.
 
-**INFORMATION SHARING AND DISCLOSURE**
+ **INFORMATION SHARING AND DISCLOSURE**
 
 Urbita does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
@@ -46,7 +46,7 @@ Urbita does not rent, sell, or share personal information about you with other p
 
 • Urbita advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
 
-**COOKIES**
+ **COOKIES**
 
 Urbita may set and access Urbita cookies on your computer.
 
@@ -54,18 +54,18 @@ Urbita lets other companies that show advertisements on some of our pages set an
 
 Urbita uses web beacons to access Urbita cookies inside and outside our network of web sites and in connection with Urbita products and services.
 
-**YOUR ABILITY TO EDIT AND DELETE YOUR ACCOUNT INFORMATION AND PREFERENCES**
+ **YOUR ABILITY TO EDIT AND DELETE YOUR ACCOUNT INFORMATION AND PREFERENCES**
 
 You can edit your Urbita Account Information at any time. You can also cancel your account by following the instructions you will find on your Account page.
 
 We reserve the right to send you certain communications relating to the Urbita service, such as service announcements, administrative messages and the Urbita Newsletter, that are considered part of your Urbita account, without offering you the opportunity to opt out of receiving them.
 
-**CONFIDENTIALITY AND SECURITY**
+ **CONFIDENTIALITY AND SECURITY**
 
 We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
 
-**CHANGES TO THIS PRIVACY POLICY**
+ **CHANGES TO THIS PRIVACY POLICY**
 
 Urbita may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Urbita account or by placing a prominent notice on our site.
 
-**Last updated March 1st, 2013**
+ **Last updated March 1st, 2013**
