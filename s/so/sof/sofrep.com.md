@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sofrep.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531225531id_/http%3A//sofrep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofrep.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209100650id_/http%3A//sofrep.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SOFREP
 
