@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mustseeindia.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630145125id_/http%3A//www.mustseeindia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mustseeindia.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209232649id_/http%3A//www.mustseeindia.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy & Opt Out
 
 This Policy covers the treatment of personally identifiable information collected by www.mustseeindia.com, ("MSI"), when you access the website MSI . This policy does not apply to any entity not owned or controlled by the Company. This Policy may not be applicable to any information provided by you or on your behalf to MSI in any other context. By accessing the MSI website or any website of the Company, you are consenting to the information collection and use practices described in this Policy. 
 
@@ -37,6 +37,11 @@ We may from time to time engage external agencies to provide certain services on
 
 **Collection of information by third parties**   
 MSI may offer promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain information that you voluntarily submit to participate in the activity. We have no control over these third parties' use of this information and we encourage you to consult their privacy policies for more information on their privacy practices. 
+
+**Browsing history**
+
+By using website **www.mustseeindia.com** , you consent to collection, storage, and use of your browsing history on this website. We share this information with trusted 3rd parties that use it to show you marketing communications of interest only. While no Personally Identifiable Information is shared, we respect your right to privacy hence this transparent disclosure. In addition, we respect your right to opt out. If you want to opt out from this program, please click here.   
+In addition, most setup your browser software to reject 3rd party cookies. In addition, you can opt out of several similar programs by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/choices) gateway opt-out site. 
 
 **Advertisement**   
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
