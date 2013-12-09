@@ -1,203 +1,485 @@
-<!--The following is the downloaded HTML source of the bulkfoods.com privacy policy that was archived on 2008-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081203103538id_/http%3A//www.bulkfoods.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bulkfoods.com privacy policy that was archived on 2013-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209131140id_/http%3A//www.bulkfoods.com/content/28-privacy-policy) for the most accurate reproduction.-->
 
-<html><head>
-<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
-<meta name="ProgId" content="FrontPage.Editor.Document">
-<title>Sample Privacy Notice</title>
-<meta name="Microsoft Theme" content="sweets 001">
-<meta name="Microsoft Border" content="tb">
-</head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><title>Privacy Policy - Bulkfoods.com</title><meta name="description" content="Privacy Policy"><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"><meta http-equiv="content-language" content="en"><meta name="generator" content="PrestaShop"><meta name="robots" content="index,follow"><link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1384188824"><link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1384188824"><script type="text/javascript">var baseDir = 'http://www.bulkfoods.com/';
+			var baseUri = 'http://www.bulkfoods.com/';
+			var static_token = 'b3545e23d521a5265e08c2974ee3f6db';
+			var token = 'e3e9d8d58949689747d26e229e9be0f2';
+			var priceDisplayPrecision = 2;
+			var priceDisplayMethod = 1;
+			var roundMode = 2;</script><link href="/themes/bulkdefault/css/grid_prestashop.css" rel="stylesheet" type="text/css" media="all"><link href="/themes/bulkdefault/css/global.css" rel="stylesheet" type="text/css" media="all"><link href="/themes/bulkdefault/css/cms.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/pm_adsandslideshow/css/pm_adsandslideshow.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/pm_adsandslideshow/css/pm_adsandslideshow_dynamic.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/pm_adsandslideshow/css/pm_adsandslideshow_advanced.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/carriercompare/style.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/blockcart/blockcart.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/blockuserinfo/blockuserinfo.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/homefeatured/homefeatured.css" rel="stylesheet" type="text/css" media="all"><link href="/js/jquery/plugins/autocomplete/jquery.autocomplete.css" rel="stylesheet" type="text/css" media="all"><link href="/themes/bulkdefault/css/product_list.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/blocksearch/blocksearch.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/productscategory/productscategory.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/blockspecials/blockspecials.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/paypal/css/paypal.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/blocknewproducts/blocknewproducts.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/pm_advancedtopmenu/css/pm_advancedtopmenu_base.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/pm_advancedtopmenu/css/pm_advancedtopmenu_global.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/pm_advancedtopmenu/css/pm_advancedtopmenu_advanced.css" rel="stylesheet" type="text/css" media="all"><link href="/modules/blockviewed/blockviewed.css" rel="stylesheet" type="text/css" media="all"><script src="/js/jquery/jquery-1.7.2.min.js" type="text/javascript"></script><script src="/js/jquery/plugins/jquery.easing.js" type="text/javascript"></script><script src="/js/tools.js" type="text/javascript"></script><script src="/themes/bulkdefault/js/cms.js" type="text/javascript"></script><script src="/modules/pm_adsandslideshow/js/jquery.min.js" type="text/javascript"></script><script src="/modules/pm_adsandslideshow/js/pm_adsandslideshow.js" type="text/javascript"></script><script src="/modules/pm_adsandslideshow/js/sudoslider/jquery.sudoSlider.js" type="text/javascript"></script><script src="/modules/carriercompare/carriercompare.js" type="text/javascript"></script><script src="/js/jquery/plugins/autocomplete/jquery.autocomplete.js" type="text/javascript"></script><script src="/modules/productscategory/productscategory.js" type="text/javascript"></script><script src="/js/jquery/plugins/jquery.serialScroll.js" type="text/javascript"></script><script src="/js/jquery/plugins/jquery.validate-creditcard.js" type="text/javascript"></script><script src="/modules/pm_advancedtopmenu/js/pm_advancedtopmenu.js" type="text/javascript"></script><script type="text/javascript">$(document).ready( function() {$('#payment_paypal_express_checkout').click(function() {
+$('#paypal_payment_form').submit();
+return false;
+});$('#paypal_payment_form').live('submit', function() {
+var nb = $('#quantity_wanted').val();
+var id = $('#idCombination').val();$('#paypal_payment_form input[name=quantity]').val(nb);
+$('#paypal_payment_form input[name=id_p_attr]').val(id);
+});function displayExpressCheckoutShortcut() {
+var id_product = $('input[name="id_product"]').val();
+var id_product_attribute = $('input[name="id_product_attribute"]').val();$.ajax({
+type: "GET",
+url: baseDir+'/modules/paypal/express_checkout/ajax.php',
+data: { get_qty: "1", id_product: id_product, id_product_attribute: id_product_attribute },
+cache: false,
+success: function(result) {
+if (result >= '1')
+$('#container_express_checkout').slideDown();
+else
+$('#container_express_checkout').slideUp();
+return true;
+}
+});
+}$('select[name^="group_"]').change(function () {
+displayExpressCheckoutShortcut();
+});$('.color_pick').click(function () {
+displayExpressCheckoutShortcut();
+});var modulePath = 'modules/paypal';
+var subFolder = '/integral_evolution';
+var fullPath = baseDir + modulePath + subFolder;
+var confirmTimer = false;
+if ($('form[target="hss_iframe"]').length == 0) {
+if ($('select[name^="group_"]').length > 0)
+displayExpressCheckoutShortcut();
+return false;
+} else {
+checkOrder();
+}function checkOrder() {
+confirmTimer = setInterval(getOrdersCount, 1000);
+}});</script><!--[if lt IE 8]><script src="http://www.bulkfoods.com/modules/pm_advancedtopmenu/js/pm_advancedtopmenuiefix.js" type="text/javascript"></script><![endif]--></head><body class="  " id="cms"><div class="container_9 clearfix" id="page"><div class="grid_9 alpha omega" id="header"> <a href="http://www.bulkfoods.com/" id="header_logo" title="Bulkfoods.com"> <img class="logo" src="/img/logo-1.jpg?1384188824" alt="Bulkfoods.com" width="290" height="50"> </a><div class="grid_6 omega" id="header_right"><div id="header_user"><ul id="header_nav"><li id="shopping_cart"> <a href="https://www.bulkfoods.com/order" rel="nofollow" title="View order">Cart <span class="ajax_cart_quantity hidden">0</span> <span class="ajax_cart_product_txt hidden">Product</span> <span class="ajax_cart_product_txt_s hidden">Items</span> <span class="ajax_cart_total hidden"> </span> <span class="ajax_cart_no_product">is empty</span> </a></li><li id="your_account"><a href="https://www.bulkfoods.com/my-account" rel="nofollow" title="View my customer account">Your Account</a></li></ul><p id="header_user_info"> Welcome <a class="login" href="https://www.bulkfoods.com/my-account" rel="nofollow" title="Login">Login</a></p></div><script type="text/javascript">var customizationIdMessage = 'Customization #';
+var removingLinkText = 'Please remove this product from my cart.';
+var freeShippingTranslation = 'Click cart for rates';
+var freeProductTranslation = 'Free!';
+var delete_txt = 'Delete';</script><div class="block exclusive" id="cart_block"><p class="title_block"> <a href="https://www.bulkfoods.com/order" rel="nofollow" title="View my shopping cart">Cart </a></p><div class="block_content"><div class="collapsed" id="cart_block_summary"> <span class="ajax_cart_quantity" style="display:none;">0</span> <span class="ajax_cart_product_txt_s" style="display:none">Products</span> <span class="ajax_cart_product_txt">Product</span> <span class="ajax_cart_total" style="display:none"> </span> <span class="ajax_cart_no_product">(empty)</span></div><div class="expanded" id="cart_block_list"><p class="cart_block_no_products" id="cart_block_no_products">No products</p><p id="cart-prices"> <span class="price ajax_cart_shipping_cost" id="cart_block_shipping_cost">$0.00</span> <span>Shipping</span> <br> <span class="price ajax_block_cart_total" id="cart_block_total">$0.00</span> <span>Total</span></p><p id="cart-buttons"> <a class="button_small" href="https://www.bulkfoods.com/order" rel="nofollow" title="View my shopping cart">Cart</a> <a class="exclusive" href="https://www.bulkfoods.com/order" id="button_order_cart" rel="nofollow" title="Checkout"><span></span>Checkout</a></p></div></div></div></div><div class="PM_AdsAndSlideshowWrap" id="PM_AdsAndSlideshowWrap_2"><div class="PM_AdsAndSlideshowBgColor PM_AdsAndSlideshowBgColor_2_en" id="PM_AdsAndSlideshowBgColor_2"><div class="PM_AdsAndSlideshowBgHTML" id="PM_AdsAndSlideshowBgHTML_2"><address><a href="http://www.bulkfoods.com" style="font-size: 10pt; font-style: inherit;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a><span style="font-size: 10pt; font-style: inherit;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; New site, same fast service.</span></address><address><span style="font-size: 24pt; font-style: inherit;"><a href="http://www.bulkfoods.com">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a></span>&nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size: 10pt;">&nbsp; No minimum order. &nbsp;<span style="font-style: inherit;"><a href="http://www.bulkfoods.com/content/12-super-saver-shipping"><span style="font-size: 10pt;"><span style="color: #0000ff;">5.00 shipping</span> on 75.00 orders, 48 </span>states.</a></span></span></address></div><div class="PM_AdsAndSlideshow_top PM_AdsAndSlideshow_2_en" id="PM_AdsAndSlideshow_2" style="overflow: hidden; position: relative;"><ul class="PM_AdsAndSlideshow" style="width: 6000px;"><li style="float: left; margin-left: 0px;"></li><li style="float: left;"></li><li style="float: left; z-index: 0;"></li></ul></div><div class="adss_controls"></div></div></div><script type="text/javascript">/*<![CDATA[*/var oldt_2 = 0;
 
-<body background="_themes/sweets/swbkgnd.gif" bgcolor="#FFFFFF" text="#000000" link="#009900" vlink="#6600CC" alink="#FF0000"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica"><font face="Trebuchet MS, Arial, Helvetica">
-<p align="center"><a href="default.htm">
-<img height="57" alt="Bulk Foods, Natural Food, Snack Foods, Bulk Nuts, Bulk Spices" src="_borders/banner6.jpg" width="629" border="0"></a><br>
-<img height="24" alt="visa" src="_borders/visa_credit_card.gif" width="36" border="0">&nbsp;<a href="default.htm">Food</a> 
-. <a href="default.htm#Candy">Candy</a> . <a href="information.htm">
-Information</a> . No Minimum . <a href="export.htm">Export</a> .
-<a href="order.asp">
-<img height="16" alt="Cart" src="_borders/cart.gif" width="19" border="0">View Order</a>&nbsp;<img height="24" alt="MC" src="_borders/master_charge.gif" width="36" border="0"></p>
-</font><!--mstheme--></font></td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><!--msnavigation--><td valign="top"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
-</font><div align="center"><font face="Trebuchet MS, Arial, Helvetica">
-  </font><center><font face="Trebuchet MS, Arial, Helvetica"><!--mstheme--></font><table width="630" cellpadding="4" cellspacing="0" border="0">
-				<tbody><tr><td class="smallbodytext"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica"><!--msthemeseparator--><p align="center"><img src="_themes/sweets/swrule.gif" width="600" height="10"></p>
-                    <h3 align="center"><!--mstheme--><font face="Arial Rounded MT Bold, Arial, Helvetica" color="#009900"><b> Privacy Policy</b><!--mstheme--></font></h3>
-                  	<!--mstheme--></font></td></tr>
-				<tr><td class="smallbodytext"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
-                    </font><p align="center"><font face="Trebuchet MS, Arial, Helvetica">Effective <b>01/01/2002</b>
-                    <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-						<!--msthemelist--><tbody><tr><td valign="baseline" width="42"><img src="_themes/sweets/swbull1.gif" width="15" height="15" hspace="13" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica"><b>Privacy Policy Table Of Contents:</b>
-						<br>
-                        <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<!--msthemelist--><tbody><tr><td valign="baseline" width="42"><img src="_themes/sweets/swbull2.gif" width="12" height="12" hspace="15" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica"><a href="#1">Privacy Overview</a>
-                            &nbsp;<!--mstheme--></font><!--msthemelist--></td></tr>
-							<!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/sweets/swbull2.gif" width="12" height="12" hspace="15" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica"><a href="#2">The Information That Is Collected</a>
-                            &nbsp;<!--mstheme--></font><!--msthemelist--></td></tr>
-							<!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/sweets/swbull2.gif" width="12" height="12" hspace="15" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica"><a href="#3">How The Information is Utilized</a>
-                            &nbsp;<!--mstheme--></font><!--msthemelist--></td></tr>
-							<!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/sweets/swbull2.gif" width="12" height="12" hspace="15" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica"><a href="#4">Data Security</a>
-                            &nbsp;<!--mstheme--></font><!--msthemelist--></td></tr>
-							<!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/sweets/swbull2.gif" width="12" height="12" hspace="15" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica"><a href="#5">Children's Privacy</a>
-                            &nbsp;<!--mstheme--></font><!--msthemelist--></td></tr>
-							<!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/sweets/swbull2.gif" width="12" height="12" hspace="15" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica"><a href="#6">How Information Can be Accessed Or Corrected</a>
-                            &nbsp;<!--mstheme--></font><!--msthemelist--></td></tr>
-							<!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/sweets/swbull2.gif" width="12" height="12" hspace="15" alt="bullet"></td><td valign="top" width="100%"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica"><a href="#7">How To Communicate About Privacy</a><!--mstheme--></font><!--msthemelist--></td></tr>
-						<!--msthemelist--></tbody></table><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
-						<!--mstheme--></font><!--msthemelist--></td></tr>
-					<!--msthemelist--></tbody></table><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
-					<!--msthemeseparator--></font></p><p align="center"><font face="Trebuchet MS, Arial, Helvetica"><img src="_themes/sweets/swrule.gif" width="600" height="10"></font></p><font face="Trebuchet MS, Arial, Helvetica">
-                          <h4 align="center"><!--mstheme--><font face="Arial Rounded MT Bold, Arial, Helvetica" color="#009900"><br>
+			var curt_2 = 1;
+
+			var nLi_2 = 0;
+
+			
+			slideInfos[2] = [
+
+	   				
+	   			];
+
+			//$(document).ready(function(){
+
+			var pm_adsandslideshow_2 = $jqPmSlide("#PM_AdsAndSlideshow_2").sudoSlider({
+
+		   	prevHtml:          '<a class="adss_prevBtn" href="javascript:void(0);">&nbsp;</a>',
+
+			nextHtml:          '<a class="adss_nextBtn" href="javascript:void(0);">&nbsp;</a>',
+
+			controlsAttr:      'class="adss_controls"',
+
+		  	loadFunction: function(t){
+
+		  			$jqPmSlide(this).attr('id','PM_AdsAndSlideshowElement_'+slideInfos[2][t-1]['id']);
+
+
+
+					
+			       	  
+			        
+		        	 
+		        }
+
+		        ,uncurrentFunc: function(t){
+
+		        	
+		        	if(typeof(pm_adsandslideshow_2) != 'undefined' && typeof(slideInfos[2][t-1]['pause_duration']) != 'undefined' &&
+
+				           parseInt(slideInfos[2][t-1]['pause_duration']) != 0 &&
+
+				           parseInt(pm_adsandslideshow_2.getOption('pause')) != parseInt(slideInfos[2][t-1]['pause_duration']))
+
+		            	pm_adsandslideshow_2.adjustPause(parseInt(slideInfos[2][t-1]['pause_duration']) );
+
+		            	else if(typeof(pm_adsandslideshow_2) != 'undefined' &&
+
+		            			 parseInt(pm_adsandslideshow_2.getOption('pause')) != parseInt(3000))
+
+		            		pm_adsandslideshow_2.adjustPause(parseInt(3000));
+
+
+
+		        }
+
+		        ,customLink: '.custom'
+
+
+
+		        ,beforeAniFunc: function(t){
+
+
+
+		       		
+	            }
+
+	            ,afterAniFunc: function(t){
+
+		            
+	           	
+		            }
+
+		        
+				,fade:true
+
+				
+		       	
+				
+					,transitionEffect:'Random'
+
+				
+				
+				  ,continuous:true
+
+				
+				
+				  ,prevNext:false
+
+				
+				
+					,pause: (typeof(slideInfos[2][0]) != 'undefined' && parseInt(slideInfos[2][0]['pause_duration']) != 0?parseInt(slideInfos[2][0]['pause_duration']):'3000')
+
+				
+				
+					,speed:'1000'
+
+					,fadespeed:'1000'
+
+				
+		   });
+
+		        			//-->
+
+
+
+			 //});/*]]>*/</script><div class="clear"></div><div class="clear"></div><div class="PM_AdsAndSlideshowWrap" id="PM_AdsAndSlideshowWrap_6"><div class="PM_AdsAndSlideshowBgColor PM_AdsAndSlideshowBgColor_6_en" id="PM_AdsAndSlideshowBgColor_6"><div class="PM_AdsAndSlideshow_top PM_AdsAndSlideshow_6_en" id="PM_AdsAndSlideshow_6" style="overflow: hidden; position: relative;"><ul class="PM_AdsAndSlideshow" style="width: 3464px;"><li id="PM_AdsAndSlideshowElement_4" style="float: left;"><p><span style="font-size: 8pt;">&nbsp; &nbsp; &nbsp; &nbsp; Since 1938, a family business retailing dried fruits and nuts, 1975 whole foods wholesaler, 1996 wholesale online. &nbsp;2% of sales go to<span style="color: #0000ff;">&nbsp;<a href="http://www.intsam.org/about/health.php" target="_blank"><span style="color: #0000ff;">International Samaritan</span></a></span>&nbsp;to feed the poor. &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p></li><li style="float: left;"></li></ul></div><div class="adss_controls"></div></div></div><script type="text/javascript">/*<![CDATA[*/var oldt_6 = 0;
+
+			var curt_6 = 1;
+
+			var nLi_6 = 0;
+
+			
+			slideInfos[6] = [
+
+	   				
+	   				
+	   				{
+
+	   				'id':'4',
+
+	   				'name':'Company History',
+
+	   				'description':'',
+
+	   				'link':'',
+
+	   				'target':'0',
+
+	   				'pause_duration':'0',
+
+	   				'oldt':0
+
+	   				}
+		   			
+	   				
+	   			];
+
+			//$(document).ready(function(){
+
+			var pm_adsandslideshow_6 = $jqPmSlide("#PM_AdsAndSlideshow_6").sudoSlider({
+
+		   	prevHtml:          '<a class="adss_prevBtn" href="javascript:void(0);">&nbsp;</a>',
+
+			nextHtml:          '<a class="adss_nextBtn" href="javascript:void(0);">&nbsp;</a>',
+
+			controlsAttr:      'class="adss_controls"',
+
+		  	loadFunction: function(t){
+
+		  			$jqPmSlide(this).attr('id','PM_AdsAndSlideshowElement_'+slideInfos[6][t-1]['id']);
+
+
+
+					
+			       	  
+			        
+		        	 
+		        }
+
+		        ,uncurrentFunc: function(t){
+
+		        	
+		        	if(typeof(pm_adsandslideshow_6) != 'undefined' && typeof(slideInfos[6][t-1]['pause_duration']) != 'undefined' &&
+
+				           parseInt(slideInfos[6][t-1]['pause_duration']) != 0 &&
+
+				           parseInt(pm_adsandslideshow_6.getOption('pause')) != parseInt(slideInfos[6][t-1]['pause_duration']))
+
+		            	pm_adsandslideshow_6.adjustPause(parseInt(slideInfos[6][t-1]['pause_duration']) );
+
+		            	else if(typeof(pm_adsandslideshow_6) != 'undefined' &&
+
+		            			 parseInt(pm_adsandslideshow_6.getOption('pause')) != parseInt(3000))
+
+		            		pm_adsandslideshow_6.adjustPause(parseInt(3000));
+
+
+
+		        }
+
+		        ,customLink: '.custom'
+
+
+
+		        ,beforeAniFunc: function(t){
+
+
+
+		       		
+	            }
+
+	            ,afterAniFunc: function(t){
+
+		            
+	           	
+		            }
+
+		        
+				,fade:true
+
+				
+		       	
+				
+					,transitionEffect:'Random'
+
+				
+				
+				
+				  ,prevNext:false
+
+				
+				
+					,pause: (typeof(slideInfos[6][0]) != 'undefined' && parseInt(slideInfos[6][0]['pause_duration']) != 0?parseInt(slideInfos[6][0]['pause_duration']):'3000')
+
+				
+				
+					,speed:'1000'
+
+					,fadespeed:'1000'
+
+				
+		   });
+
+		        			//-->
+
+
+
+			 //});/*]]>*/</script><div></div> <nav><div class="clear"></div><div id="adtm_menu" role="navigation"><div id="adtm_menu_inner" role="navigation"><ul id="menu"><li class="li-niveau1 advtm_menu_32 "><a class=" a-niveau1" href="http://www.bulkfoods.com/content/51-categories" title="   PRODUCTS   "><span class="advtm_menu_span advtm_menu_span_32"> PRODUCTS </span></a></li><li class="li-niveau1 advtm_menu_34 "><a class=" a-niveau1" href="http://www.bulkfoods.com/content/category/3-shipping" title="Shipping"><span class="advtm_menu_span advtm_menu_span_34">Shipping</span></a></li><li class="li-niveau1 advtm_menu_30 "><a class=" a-niveau1" href="http://www.bulkfoods.com/" title="Featured Items"><span class="advtm_menu_span advtm_menu_span_30">Featured Items</span></a></li><li class="li-niveau1 advtm_menu_26 "><a class=" a-niveau1" href="http://www.bulkfoods.com/content/56-specials" title="Specials"><span class="advtm_menu_span advtm_menu_span_26">Specials</span></a></li><li class="li-niveau1 advtm_menu_28 "><a class=" a-niveau1" href="http://www.bulkfoods.com/605-christmas.html" title="Christmas"><span class="advtm_menu_span advtm_menu_span_28">Christmas</span></a></li><li class="li-niveau1 advtm_menu_31 "><a class=" a-niveau1" href="http://www.bulkfoods.com/585-gifts.html" title="  Gifts  "><span class="advtm_menu_span advtm_menu_span_31"> Gifts </span></a></li></ul><div class="clear"></div></div></div> </nav><div></div></div><div class="grid_9 alpha omega clearfix" id="columns"><div class="column grid_2 alpha" id="left_column"><div class="block products_block exclusive blockspecials" id="special_block_right"><p class="title_block"><a href="http://www.bulkfoods.com/prices-drop" title="Specials">Specials</a></p><div class="block_content"><ul class="products clearfix"><li class="product_image"> <a href="http://www.bulkfoods.com/chocolate-covered-nuts-distributor/828-Double-Dip-Chocolate-Peanuts-25-pounds.html"><img src="http://www.bulkfoods.com/6587-medium_default/Double-Dip-Chocolate-Peanuts-25-pounds.jpg" alt="" height="60" width="66" title="Double Dip Chocolate Peanuts  25 pounds ON SPECIAL"></a></li><li><p class="s_title_block"><a href="http://www.bulkfoods.com/chocolate-covered-nuts-distributor/828-Double-Dip-Chocolate-Peanuts-25-pounds.html" title="Double Dip Chocolate Peanuts  25 pounds ON SPECIAL">Double Dip Chocolate Peanuts  25 pounds ON SPECIAL</a></p> <span class="price-discount">$89.99</span> <span class="price">$79.99</span></li></ul><p> <a href="http://www.bulkfoods.com/prices-drop" title="All specials">» All specials</a></p></div></div><div class="block products_block" id="viewed-products_block_left"><p class="title_block">Viewed</p><div class="block_content"><ul class="products clearfix"><li class="clearfix last_item"> <a class="content_img" href="http://www.bulkfoods.com/baking-chips/4350-chocolate-drops.html" title="About Chocolate Drops"> <img src="http://www.bulkfoods.com/10139-medium_default/chocolate-drops.jpg" alt=""> </a><div class="text_desc"><p class="s_title_block"><a href="http://www.bulkfoods.com/baking-chips/4350-chocolate-drops.html" title="About Chocolate Drops">Chocolate...</a></p><p><a href="http://www.bulkfoods.com/baking-chips/4350-chocolate-drops.html" title="About Chocolate Drops">Semi Sweet Chocolate Chips. &nbsp;Cookies just...</a></p></div></li></ul></div></div></div><div class=" grid_5" id="center_column"><div class="breadcrumb"> <a href="http://www.bulkfoods.com/" title="Return to Home"><img src="http://www.bulkfoods.com/themes/bulkdefault/img/icon/home.gif" height="26" width="26" alt="Home"></a> <span class="navigation-pipe">&gt;</span> <span class="navigation_end"><a href="http://www.bulkfoods.com/content/category/6-bulkfoods">BulkFoods</a></span><span class="navigation-pipe">&gt;</span> <span class="navigation_product">Privacy Policy</span></div><div class="rte"><p>&nbsp;</p><div class="center"><table style="width: 90%;"><tbody><tr><td><h1 style="text-align: center;"><strong> Privacy Policy</strong></h1></td></tr><tr><td class="smallbodytext"><p class="center">Effective <strong>01/01/2002</strong></p><ul><li><h2><strong>Privacy Policy Table Of Contents:</strong></h2><ul><li><a href="#1">Privacy Overview</a> &nbsp;</li><li><a href="#2">The Information That Is Collected</a> &nbsp;</li><li><a href="#3">How The Information is Utilized</a> &nbsp;</li><li><a href="#4">Data Security</a> &nbsp;</li><li><a href="#5">Children's Privacy</a> &nbsp;</li><li><a href="#6">How Information Can be Accessed Or Corrected</a> &nbsp;</li><li><a href="#7">How To Communicate About Privacy</a></li></ul></li></ul><hr><h2><br> <a name="1"></a> <strong>Privacy Overview:</strong></h2><p>Privacy is important. To better protect privacy this policy is provided explaining our online information practices and the choices that can be made about the way information is collected and used. To make this notice easy to find, it is available from a link positioned on the homepage of this internet website.</p><hr><h2><a name="2"></a><strong>The Information That Is Collected:</strong></h2><p>This notice applies to all information collected or submitted on this website. On some pages, products can be ordered, requests can be made, and registrations made to receive materials. The types of personal information collected at these pages are: Name. Address, Email address, Phone number, Credit/Debit Card Information, etc.</p><p>On some pages, information can be submitted about other people. For example, if a gift is ordered online to be sent directly to the recipient, the recipients address will need to be submitted. In this circumstance, the types of personal information collected are:&nbsp; Name, Address, Phone Number, etc.</p><hr><h2><a name="3"></a><strong>The Way The Information Is Utilized:</strong></h2><p>The personal information provided when placing an order is needed to complete the order. The information is used to verify a persons identity. This information is used to process credit card information. The information is used to process and ship the order. The information is used to track orders when needed. Information is not shared with outside parties except to delivery service companies, credit card processing agencies and banks, and other companies as required or allowed by law. The information may be shared with firms including accountants, lawyers, government agencies and other parties as may be required or allowed by law. The information may be used by leased personnel or seasonal staffing companies and their personnel to process the order. The information may be used by contracted warehouses and freight lines necessary to fulfill the order in a timely manner.</p><p>The information provided about someone else for shipping purposes is used to ship the product and to confirm delivery. This information is not shared with outside parties except to the extent as described above.</p><p>Gift-cards can be personalized and sent along with products ordered for another person. Information provided to create gift-cards is only used for that purpose, and it is only disclosed to the person receiving the gift.</p><p>Email addresses are used to answer emails received. Such addresses are not used for any other purpose except to provide important information about an order or which is believed to be of interest. Email addresses are shared with other parties, including internet service providers which are necessary to use in order to transmit e-mail replies.</p><p>Non-identifying and aggregate information may be used to better design our website and to share with advertisers and others. For example, an advertiser may be told that X number of individuals visited a certain area on the website, or that Y number of men and Z number of women filled out the registration form.</p><p>Finally, the personal identifiable information provided is never used or shared in ways related or unrelated to the ones descried above without also providing you an opportunity to opt-out or otherwise prohibit such uses.</p><hr><h2><a name="4"></a><strong>Data Security:</strong></h2><p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p><hr><h2><a name="5"></a><strong>Children's Privacy:</strong></h2><p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.</p><hr><h2><a name="6"></a><strong>How Information Can be Accessed or Corrected:</strong></h2><p>All personally identifiable information that is collected online and maintained can be accessed by saving email confirmations and/or making a request in writing. This procedure is used to better safeguard the information.</p><p>Factual errors in your personally identifiable information can be corrected by sending a request that credibly shows the errors.</p><p>To protect privacy and security, reasonable steps are taken to verify identity before making corrections.</p><hr><h2><strong>Privacy Notice Revisions:</strong></h2><p>To be able to continue to protect personal privacy and to conform to changing generally accepted practices the right is reserved to change this privacy notice. This privacy policy may need changed to comply with future government regulations which are constantly changing as the internet evolves.&nbsp;</p><h2><a name="7"></a><strong>How To Communicate About Privacy:</strong></h2><p class="left">Should there be other questions or concerns about these privacy policies, please mail a letter to our corporate office with the following caption. ATT: Privacy Manager BulkFoods.com 3040 Hill Avenue Toledo, Ohio 43607-2931</p></td></tr></tbody></table></div></div> <br></div><div class="column grid_2 omega" id="right_column"><div class="block exclusive" id="search_block_left"><p class="title_block">Search</p><form action="https://www.bulkfoods.com/search" id="searchbox" method="get"><p class="block_content"> <label for="search_query_block"> </label> <input type="hidden" name="orderby" value="position"> <input type="hidden" name="controller" value="search"> <input type="hidden" name="orderway" value="desc"> <input class="search_query" type="text" id="search_query_block" name="search_query" value=""> <input type="submit" id="search_button" class="button_mini" value="Go!"></p></form></div><script type="text/javascript">/*<![CDATA[*/// 
+		function tryToCloseInstantSearch() {
+			if ($('#old_center_column').length > 0)
+			{
+				$('#center_column').remove();
+				$('#old_center_column').attr('id', 'center_column');
+				$('#center_column').show();
+				return false;
+			}
+		}
 		
-				<a name="1">	</a><b>Privacy Overview:</b>
-                          
-                       
-                    <!--mstheme--></font></h4>
-                          
-                       
-                    <p>Privacy is important.  To better protect privacy this
-                    policy is provided explaining our online information practices and the choices 
-                    that can be made about the way information is collected and used. To make this notice easy to find, it 
-                    is available
-                    from a link positioned on the homepage of this internet website.
-                  	<!--msthemeseparator--></p><p align="center"><img src="_themes/sweets/swrule.gif" width="600" height="10"></p>
+		instantSearchQueries = new Array();
+		function stopInstantSearchQueries(){
+			for(i=0;i<instantSearchQueries.length;i++) {
+				instantSearchQueries[i].abort();
+			}
+			instantSearchQueries = new Array();
+		}
 		
-					<h4 align="center"><!--mstheme--><font face="Arial Rounded MT Bold, Arial, Helvetica" color="#009900"><a name="2"></a><b>The Information That
-                    Is Collected:</b>
-                    <!--mstheme--></font></h4>
-                    </font><p><font face="Trebuchet MS, Arial, Helvetica">This notice applies to all information collected or submitted on
-                    this website. On some pages, products can be ordered, requests 
-                    can be made, and registrations made to receive materials.  The types of personal information collected at these pages are: <!--mstheme--></font>
-						Name
-						<br>Address
-						<br>Email address
-						<br>Phone number
-						<br>Credit/Debit Card Information
-						<br>etc.
-                    <table border="0" cellpadding="0" cellspacing="0" width="100%"></table><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
-							</font></p><p><font face="Trebuchet MS, Arial, Helvetica">On some pages, information can be submitted about other people.  For example, if 
-                            a gift is ordered online to be sent directly to the recipient, 
-                            the recipients address will need to be submitted.  In this circumstance, the types of personal information collected are: <!--mstheme--></font>
-						Name
-						<br>Address
-						<br>Phone Number
-						<br>etc.
-                    <table border="0" cellpadding="0" cellspacing="0" width="100%"></table><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica"><!--msthemeseparator--></font></p><p align="center"><font face="Trebuchet MS, Arial, Helvetica"><img src="_themes/sweets/swrule.gif" width="600" height="10"></font></p><font face="Trebuchet MS, Arial, Helvetica">
-                    <h4 align="center"><!--mstheme--><font face="Arial Rounded MT Bold, Arial, Helvetica" color="#009900"><a name="3"></a><b>The Way The
-                    Information Is Utilized:</b><!--mstheme--></font></h4>
-                    <p>The personal information provided when placing an order
-                    is needed to complete the order. The information to used to
-                    verify a persons identity. This information is used to process
-                    credit card information. The information is used to
-                    process and ship the order. The information is used to track
-                    orders when needed. Information is not shared with outside parties except to
-                    delivery service companies, credit card processing agencies
-                    and banks, and other companies as required or allowed by law. The information
-                    may be shared with firms including
-                    accountants, lawyers, government agencies and other parties
-                    as may be required or allowed by law. The information may be used by
-                    leased personnel or seasonal staffing companies and their
-                    personnel to process the order. The information may be used
-                    by contracted warehouses and freight lines necessary to fulfill
-                    the order in a timely manner.</p><p>The information provided about someone else 
-                  for shipping purposes is used to ship the product and to confirm delivery.  
-                  This information is not shared with outside parties except to the extent
-                    as described above.
-					</p><p>Gift-cards can be personalized and sent along with products ordered for another person.  Information provided to create gift-cards is only used for that purpose, and it is only disclosed to the person receiving the gift.
-					</p><p>Email addresses are used to answer emails received. Such 
-					addresses are not used for any other purpose except to 
-					provide important information about an order or which is 
-					believed to be of interest. Email addresses are shared with 
-					other parties, including 
-                    internet service providers which are necessary
-                    to use in order to transmit e-mail replies.</p><p>Non-identifying and aggregate information 
-                  may be used to better design our website and to share with
-                    advertisers and others. For example, an advertiser may be 
-                  told that X number of individuals visited a certain area on 
-                  the website, or that Y number of men and Z number of women filled out 
-                  the registration
-                    form. 
-					</p><p>Finally, the personal identifiable information provided 
-                    is never used or shared in ways related or unrelated to the 
-                    ones descried above without also providing you an opportunity to opt-out or otherwise prohibit such
-                    uses.
-                  <!--msthemeseparator--></p><p align="center"><img src="_themes/sweets/swrule.gif" width="600" height="10"></p>
-		
-					<h4 align="center"><!--mstheme--><font face="Arial Rounded MT Bold, Arial, Helvetica" color="#009900"><a name="4"></a><b>Data Security:</b>
-                    <!--mstheme--></font></h4>
-					<p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-                    <!--msthemeseparator--></p><p align="center"><img src="_themes/sweets/swrule.gif" width="600" height="10"></p>
-                    <h4 align="center"><!--mstheme--><font face="Arial Rounded MT Bold, Arial, Helvetica" color="#009900"><a name="5"></a><b>Children's
-                    Privacy:</b><!--mstheme--></font></h4>
-					<p>Protecting the privacy of the very young is especially important.  For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-                    <!--msthemeseparator--></p><p align="center"><img src="_themes/sweets/swrule.gif" width="600" height="10"></p>
-		
-					<h4 align="center"><!--mstheme--><font face="Arial Rounded MT Bold, Arial, Helvetica" color="#009900"><a name="6"></a><b>How Information Can be Accessed 
-                    or Corrected:</b>
-                    <!--mstheme--></font></h4>
-					<p>All personally identifiable information that is collected online and maintained 
-                    can be accessed by
-                    saving email confirmations and/or making a request in writing. 
-                    This procedure is used to better safeguard the information.
-					</p><p>Factual errors in your personally identifiable information 
-                    can be corrected by sending a request that credibly shows 
-                    the errors.
-					</p><p>To protect privacy and security, reasonable steps are 
-                    taken to verify identity before
-                    making corrections.
-                  <!--msthemeseparator--></p><p align="center"><img src="_themes/sweets/swrule.gif" width="600" height="10"></p>
-                    <h4 align="center"><!--mstheme--><font face="Arial Rounded MT Bold, Arial, Helvetica" color="#009900"><b>Privacy Notice Revisions:</b><!--mstheme--></font></h4>
-                    <p>To be able to continue to protect personal privacy and
-                  to conform to changing generally accepted practices the
-                  right is reserved to change this privacy notice. This privacy 
-                    policy may need changed to comply with future government regulations which are
-                  constantly changing as the internet evolves.&nbsp;</p>
-                    <h4 align="center"><!--mstheme--><font face="Arial Rounded MT Bold, Arial, Helvetica" color="#009900"><a name="7"></a><b>How To Communicate
-                    About Privacy:</b><!--mstheme--></font></h4>
-                  <p align="left">Should there be other questions or concerns about these privacy policies, please
-                    mail a letter to our corporate office with the following
-                  caption. ATT: Privacy Manager BulkFoods.com 3040 Hill Avenue
-                  Toledo, Ohio 43607-2931
-                  </p><center>
-		
-                  <!--msthemeseparator--><p align="center"><img src="_themes/sweets/swrule.gif" width="600" height="10"></p>
-                  </center><!--mstheme--></font></td></tr></tbody></table><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
-</font></center></div><font face="Trebuchet MS, Arial, Helvetica">
-&nbsp;<!--mstheme--></font><!--msnavigation--></td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
+		$("#search_query_block").keyup(function(){
+			if($(this).val().length > 0){
+				stopInstantSearchQueries();
+				instantSearchQuery = $.ajax({
+					url: 'http://www.bulkfoods.com/search',
+					data: {
+						instantSearch: 1,
+						id_lang: 1,
+						q: $(this).val()
+					},
+					dataType: 'html',
+					type: 'POST',
+					success: function(data){
+						if($("#search_query_block").val().length > 0)
+						{
+							tryToCloseInstantSearch();
+							$('#center_column').attr('id', 'old_center_column');
+							$('#old_center_column').after('<div id="center_column" class="' + $('#old_center_column').attr('class') + '">'+data+'</div>');
+							$('#old_center_column').hide();
+							$("#instant_search_results a.close").click(function() {
+								$("#search_query_block").val('');
+								return tryToCloseInstantSearch();
+							});
+							return false;
+						}
+						else
+							tryToCloseInstantSearch();
+					}
+				});
+				instantSearchQueries.push(instantSearchQuery);
+			}
+			else
+				tryToCloseInstantSearch();
+		});
+	///*]]>*/</script><script type="text/javascript">/*<![CDATA[*/// 
+		$('document').ready( function() {
+			$("#search_query_block")
+				.autocomplete(
+					'http://www.bulkfoods.com/search', {
+						minChars: 3,
+						max: 10,
+						width: 500,
+						selectFirst: false,
+						scroll: false,
+						dataType: "json",
+						formatItem: function(data, i, max, value, term) {
+							return value;
+						},
+						parse: function(data) {
+							var mytab = new Array();
+							for (var i = 0; i < data.length; i++)
+								mytab[mytab.length] = { data: data[i], value: data[i].cname + ' > ' + data[i].pname };
+							return mytab;
+						},
+						extraParams: {
+							ajaxSearch: 1,
+							id_lang: 1
+						}
+					}
+				)
+				.result(function(event, data, formatted) {
+					$('#search_query_block').val(data.pname);
+					document.location.href = data.product_link;
+				})
+		});
+	///*]]>*/</script><div class="block products_block" id="new-products_block_right"><p class="title_block"><a href="http://www.bulkfoods.com/new-products" title="New">New</a></p><div class="block_content"><ul class="product_images clearfix"><li class="first"><a href="http://www.bulkfoods.com/lindt-truffles/5501-White-Chocolate-LINDOR-Truffles-1-pound.html" title=""><img src="http://www.bulkfoods.com/11608-medium_default/White-Chocolate-LINDOR-Truffles-1-pound.jpg" height="60" width="66" alt=""></a></li></ul><dl class="products"><dt class="first_item"><a href="http://www.bulkfoods.com/lindt-truffles/5501-White-Chocolate-LINDOR-Truffles-1-pound.html" title="Chocolate Caramel LINDOR Truffles">Chocolate Caramel LINDOR Truffles</a></dt><dd class="first_item"><a href="http://www.bulkfoods.com/lindt-truffles/5501-White-Chocolate-LINDOR-Truffles-1-pound.html">Buy NEW, LINDOR &nbsp; Caramel &nbsp; Chocolate Truffles in bulk, foil wrapped...</a><br><a class="lnk_more" href="http://www.bulkfoods.com/lindt-truffles/5501-White-Chocolate-LINDOR-Truffles-1-pound.html">Read more</a></dd></dl><p><a class="button_large" href="http://www.bulkfoods.com/new-products" title="More new">» More new</a></p></div></div><div class="block informations_block_left" id="informations_block_left_2"><p class="title_block"><a href="http://www.bulkfoods.com/content/category/4-heat-sensitives">Heat</a></p><ul class="block_content"><li><a href="http://www.bulkfoods.com/content/19-heat-protection" title="Heat Protection">Heat Protection</a></li><li><a href="http://www.bulkfoods.com/content/21-heat-sensitive" title="Heat Sensitive">Heat Sensitive</a></li><li><a href="http://www.bulkfoods.com/content/17-heat-temperature-maps" title="Heat Temperature Maps">Heat Temperature Maps</a></li><li><a href="http://www.bulkfoods.com/content/20-ups-map" title="UPS Map">UPS Map</a></li></ul></div></div></div><div class="grid_9 alpha omega clearfix" id="footer"><div class="PM_AdsAndSlideshowWrap" id="PM_AdsAndSlideshowWrap_1"><div class="PM_AdsAndSlideshowBgColor PM_AdsAndSlideshowBgColor_1_en" id="PM_AdsAndSlideshowBgColor_1"><div class="PM_AdsAndSlideshow_footer PM_AdsAndSlideshow_1_en" id="PM_AdsAndSlideshow_1" style="overflow: hidden; position: relative;"><ul class="PM_AdsAndSlideshow" style="width: 11820px;"><li id="PM_AdsAndSlideshowElement_1" style="float: left;"><pre><span style="font-size: 10pt;"><span style="color: #c0c0c0;"><span> <a href="http://www.bulkfoods.com/content/50-contacts">Contact</a></span></span>&nbsp; <a href="http://www.bulkfoods.com/content/3-terms-and-conditions-of-use"><span style="color: #727272;">Terms</span></a>&nbsp;&nbsp;<a href="http://www.bulkfoods.com/content/28-privacy-policy"><span style="color: #727272;">Privacy&nbsp;Policy</span></a>&nbsp;&nbsp;<span style="color: #999999;"><span style="color: #c0c0c0;"><span style="color: #c0c0c0;">Food List</span></span>&nbsp; </span>&nbsp;<span style="line-height: 1.5em;"><span style="color: #727272;"><a href="http://www.bulkfoods.com/content/33-copyright-notice"><span style="color: #727272;">Copyright Notice 1997 - 2013</span></a></span>&nbsp; &nbsp;<span style="color: #c0c0c0;"><span style="color: #c0c0c0;">Sweets List</span></span>&nbsp; </span><span style="color: #727272;"><span style="line-height: 1.5em;">AmEx Discover MC </span><span style="line-height: 1.5em;">PayPal </span><a href="http://www.bulkfoods.com/content/26-shipping-address-form" style="line-height: 1.5em;"><span style="line-height: 1.5em; color: #727272;">Visa</span></a></span></span></pre></li><li style="float: left;"></li></ul></div><div class="adss_controls"></div></div></div><script type="text/javascript">/*<![CDATA[*/var oldt_1 = 0;
 
-<p>
+			var curt_1 = 1;
 
-</p>
-</font><center><font face="Trebuchet MS, Arial, Helvetica">
-<!--mstheme--></font><table border="6" cellpadding="3" cellspacing="0" width="630" bordercolordark="#FF9900" bordercolorlight="#FFCC00">
-  <tbody><tr>
-    <td width="97" rowspan="2"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica"><b>&nbsp;<img border="0" src="images/visa_credit_card.gif" alt="Visa" width="36" height="24">&nbsp;
-    <img border="0" src="images/american_express.gif" alt="AM" width="36" height="24"></b><!--mstheme--></font></td>
-    <td width="383"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
-    </font><p align="center"><font face="Trebuchet MS, Arial, Helvetica"><font size="2"><b><a href="default.htm">Home</a> .
-    <a href="search.asp">
-    <img border="0" src="images/search.jpg" width="17" height="16">Search</a> 
-    . <a href="contacts.htm">Contacts</a> . <a href="information.htm">
-    <img border="0" src="images/info.jpg" width="15" height="16">Info and 
-    Recipes</a> .
-    <a href="http://www.bulkfoods.com/search_results.asp?txtsearchParamTxt=Sale&amp;txtsearchParamCat=ALL&amp;txtsearchParamType=ALL&amp;txtsearchParamMan=ALL&amp;txtsearchParamVen=ALL&amp;txtFromSearch=fromSearch">
-    Specials</a></b></font><!--mstheme--></font></p></td>
-    <td width="98" rowspan="2"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">&nbsp;<img border="0" src="images/discover%20card.jpg" alt="Disc" width="36" height="23">&nbsp;
-    <img border="0" src="images/master_charge.gif" alt="MC" width="36" height="24"><!--mstheme--></font></td>
-  </tr>
-  <tr>
-    <td width="383"><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
-    </font><p align="center"><font face="Trebuchet MS, Arial, Helvetica"><font face="Trebuchet MS, Arial, Helvetica" size="2">
-    <a href="order.asp">
-    <img height="16" alt="Cart" src="_borders/cart.gif" width="19" border="0">View Order</a></font><font size="2"><b> 
-    . <a href="copyright.htm">©1996-2008</a> . <a href="terms.htm">Terms</a> 
-    . <a href="occasions.asp">Holidays</a> <a href="order.asp">
-    <img border="0" src="images/cart.gif" width="19" height="16" alt="Cart">View 
-    Order</a></b></font><!--mstheme--></font></p></td>
-  </tr>
-</tbody></table><!--mstheme--><font face="Trebuchet MS, Arial, Helvetica">
-</font></center><font face="Trebuchet MS, Arial, Helvetica">
+			var nLi_1 = 0;
 
-<!--mstheme--></font></td></tr><!--msnavigation--></tbody></table>
+			
+			slideInfos[1] = [
+
+	   				
+	   				
+	   				{
+
+	   				'id':'1',
+
+	   				'name':'Footer Row',
+
+	   				'description':'Footer Row',
+
+	   				'link':'',
+
+	   				'target':'0',
+
+	   				'pause_duration':'0',
+
+	   				'oldt':0
+
+	   				}
+		   			
+	   				
+	   			];
+
+			//$(document).ready(function(){
+
+			var pm_adsandslideshow_1 = $jqPmSlide("#PM_AdsAndSlideshow_1").sudoSlider({
+
+		   	prevHtml:          '<a class="adss_prevBtn" href="javascript:void(0);">&nbsp;</a>',
+
+			nextHtml:          '<a class="adss_nextBtn" href="javascript:void(0);">&nbsp;</a>',
+
+			controlsAttr:      'class="adss_controls"',
+
+		  	loadFunction: function(t){
+
+		  			$jqPmSlide(this).attr('id','PM_AdsAndSlideshowElement_'+slideInfos[1][t-1]['id']);
 
 
-</body></html>
+
+					
+			       	  
+			        
+		        	 
+		        }
+
+		        ,uncurrentFunc: function(t){
+
+		        	
+		        	if(typeof(pm_adsandslideshow_1) != 'undefined' && typeof(slideInfos[1][t-1]['pause_duration']) != 'undefined' &&
+
+				           parseInt(slideInfos[1][t-1]['pause_duration']) != 0 &&
+
+				           parseInt(pm_adsandslideshow_1.getOption('pause')) != parseInt(slideInfos[1][t-1]['pause_duration']))
+
+		            	pm_adsandslideshow_1.adjustPause(parseInt(slideInfos[1][t-1]['pause_duration']) );
+
+		            	else if(typeof(pm_adsandslideshow_1) != 'undefined' &&
+
+		            			 parseInt(pm_adsandslideshow_1.getOption('pause')) != parseInt(3000))
+
+		            		pm_adsandslideshow_1.adjustPause(parseInt(3000));
+
+
+
+		        }
+
+		        ,customLink: '.custom'
+
+
+
+		        ,beforeAniFunc: function(t){
+
+
+
+		       		
+	            }
+
+	            ,afterAniFunc: function(t){
+
+		            
+	           	
+		            }
+
+		        
+				,fade:true
+
+				
+		       	
+				
+					,transitionEffect:'Random'
+
+				
+				
+				
+				  ,prevNext:false
+
+				
+				
+					,pause: (typeof(slideInfos[1][0]) != 'undefined' && parseInt(slideInfos[1][0]['pause_duration']) != 0?parseInt(slideInfos[1][0]['pause_duration']):'3000')
+
+				
+				
+					,speed:'1000'
+
+					,fadespeed:'1000'
+
+				
+		   });
+
+		        			//-->
+
+
+
+			 //});/*]]>*/</script></div></div></body></html>
