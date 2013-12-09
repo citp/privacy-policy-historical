@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startplaytoday.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118052354id_/http%3A//startplaytoday.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startplaytoday.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210001100id_/http%3A//startplaytoday.com/privacy_policy) for the most accurate reproduction.*
 
 # StartPlayToday - Free Online Games
 
