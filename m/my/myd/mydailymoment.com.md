@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mydailymoment.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629194413id_/http%3A//www.mydailymoment.com/about_us/about_us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailymoment.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209215420id_/http%3A//www.mydailymoment.com/about_us/about_us/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | About Us | MyDailymoment.com
 
-Last Revised: August 16, 2011 
+Last Revised: October 16, 2013 
 
 **An Overview** MyDailyMoment.com/MyDailyMoment.net/MyDailyMoment.info/MyDailyMoment.us/MyDailyMoment.biz ("MDM") provides information and services relating to a variety of lifestyle topics including, but not limited to, diet and fitness, food and recipes, entertainment and self-assessment tests. The website is currently located at [http://www.mydailymoment.com](http://www.mydailymoment.com/), [http://www.mydailymoment.net](http://www.mydailymoment.net/), [http://www.mydailymoment.info](http://www.mydailymoment.info/), [http://www.mydailymoment.us](http://www.mydailymoment.us/) and [http://www.mydailymoment.biz](http://www.mydailymoment.biz/) and e-mail newsletters are also offered (collectively known as the "Site" or "MDM"). MDM is strongly committed to protecting the privacy of your personal information, and providing a safe and secure environment for our users.
 
@@ -39,6 +39,7 @@ Please note that the Policy applies only to the Site, and not to other websites 
   * We provide the information to MDM's partners who work on behalf of or with MDM under confidentiality agreements. These companies may use your personal information to help MDM or its partners to communicate with you about offers from MDM and our marketing partners. In some cases, users will need to unsubscribe from different lists to no longer be contacted. However, these companies do not have any independent right to share this information with other parties;
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
   * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of MDM's terms of use, or as otherwise required by law.
+  * Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices>
 
 
 
