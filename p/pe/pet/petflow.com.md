@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petflow.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620101448id_/http%3A//www.petflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petflow.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209060518id_/http%3A//www.petflow.com/privacy) for the most accurate reproduction.*
 
 # Petflow | Privacy Policy
 
@@ -58,6 +58,6 @@ Or mail us at:
 
 
 Petflow  
-1140 Broadway, #1502  
-NY, NY 10001  
+989 6th Avenue, Floor 18  
+New York, NY 10018  
 
