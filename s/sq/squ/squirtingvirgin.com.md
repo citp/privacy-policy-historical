@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squirtingvirgin.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331075816id_/http%3A//squirtingvirgin.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squirtingvirgin.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209065635id_/http%3A//squirtingvirgin.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
