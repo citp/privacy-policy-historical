@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetreach.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602113146id_/http%3A//tweetreach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetreach.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209054058id_/http%3A//tweetreach.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TweetReach
 
