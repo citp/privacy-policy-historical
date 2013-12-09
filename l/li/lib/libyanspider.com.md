@@ -1,23 +1,16 @@
-> *The following text is extracted and transformed from the libyanspider.com privacy policy that was archived on 2013-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130210012727id_/http%3A//libyanspider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libyanspider.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209065728id_/http%3A//libyanspider.com/privacy-policy) for the most accurate reproduction.*
 
-# Libyan Spider | Privacy Policy
+# Privacy Policy | Libyan Spider
 
-At LibyanSpider.com we care how information about you is used and shared, and we appreciate your expectation that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting the LibyanSpider.com Web site (the "Site") or by otherwise interacting with LibyanSpider.com, you agree to accept the practices described in this Privacy Notice.
+At LibyanSpider.com we care how information about you is used and shared, and we appreciate your expectation that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting the LibyanSpider.com Web site (the “Site”) or by otherwise interacting with LibyanSpider.com, you agree to accept the practices described in this Privacy Notice.
 
   * What Information Does LibyanSpider.com Collect?
-
   * Does LibyanSpider.com Share the Information It Receives?
-
   * How Secure Is Information About Me?
-
   * What Information Can I Access?
-
   * Sites Other Than LibyanSpider.com
-
   * Children
-
   * Conditions of Use, Notices, and Revisions
-
 
 
 
@@ -29,7 +22,7 @@ when you contact us for customer support. Here are the types of information we g
 
 ### Contact Information:
 
-We are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), the organization which assumes responsibility for domain name allocation, to collect certain information about you duringthe domain name registration process.
+We are required by the Internet Corporation for Assigned Names and Numbers (“ICANN”), the organization which assumes responsibility for domain name allocation, to collect certain information about you duringthe domain name registration process.
 
 This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. Such contact information may be used, for example, to communicate with you when necessary with respect to transactions conducted through the Site. Additionally, we may collect contact information provided to us during any correspondence relating to customer support we supply to you, as well as in connection with products and services offered on the Site.
 
@@ -51,9 +44,9 @@ We collect and store certain types of information whenever you interact with us.
 
 ### Cookies:
 
-The LibyanSpider.com Site may use "cookie" technology for such purposes as enhancing your online experience by making it easier for you to navigate through the Site and making certain features work better.
+The LibyanSpider.com Site may use “cookie” technology for such purposes as enhancing your online experience by making it easier for you to navigate through the Site and making certain features work better.
 
-Cookies are text files which are commonly deposited by Web sites on a user's hard drive when the user visits a Web site. The file identifies a user's computer and can record the user's preferences and other data about the user's site visit. We do not extract information about individual users during this process. Your Web browser may enable you to disable cookies, but please note that certain services may not function correctly without it.
+Cookies are text files which are commonly deposited by Web sites on a user’s hard drive when the user visits a Web site. The file identifies a user’s computer and can record the user’s preferences and other data about the user’s site visit. We do not extract information about individual users during this process. Your Web browser may enable you to disable cookies, but please note that certain services may not function correctly without it.
 
 ### Third Party Cookies.
 
@@ -65,17 +58,17 @@ Except as set out in this Privacy Notice, you will receive notice whenever perso
 
 ### WHOIS Information:
 
-ICANN requires LibyanSpider.com to make certain information, collected in connection with the registration of a domain name, available to the public via an interactive Web page and a "port 43" WHOIS service. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name. For the purposes of this Privacy Notice we will refer to this information collectively as your "WHOIS Information." Please note that we may not be able to control how members of the public may use the WHOIS Information.
+ICANN requires LibyanSpider.com to make certain information, collected in connection with the registration of a domain name, available to the public via an interactive Web page and a “port 43″ WHOIS service. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name. For the purposes of this Privacy Notice we will refer to this information collectively as your “WHOIS Information.” Please note that we may not be able to control how members of the public may use the WHOIS Information.
 
 ### Bulk Access:
 
 If you have opted-in to having your WHOIS Information available for bulk access, ICANN also requires LibyanSpider.com to make that information available to third parties who enter into a bulk WHOIS data access agreement with LibyanSpider.com. In making your selection to opt-in to having your WHOIS Information available for bulk access.
 
-Please note that if you have not opted-in to having your WHOIS Information available for bulk access for marketing or other purposes, your WHOIS Information will still be made available to the public through the "port 43" WHOIS service described above.
+Please note that if you have not opted-in to having your WHOIS Information available for bulk access for marketing or other purposes, your WHOIS Information will still be made available to the public through the “port 43″ WHOIS service described above.
 
 ### Third Parties:
 
-If you have opted-in to receiving information about products and services provided by LibyanSpider.com's partners and affiliates, we will share your name, address, phone number and email address, in addition to information provided by you in response to our opt-in survey, so that the appropriate partners and affiliates may contact you regarding the products and services in which you have expressed interest. LibyanSpider.com cannot guarantee that these third parties will offer the same level of protection as LibyanSpider.com, or that their protections will be adequate.
+If you have opted-in to receiving information about products and services provided by LibyanSpider.com’s partners and affiliates, we will share your name, address, phone number and email address, in addition to information provided by you in response to our opt-in survey, so that the appropriate partners and affiliates may contact you regarding the products and services in which you have expressed interest. LibyanSpider.com cannot guarantee that these third parties will offer the same level of protection as LibyanSpider.com, or that their protections will be adequate.
 
 ### Agents and Service Providers:
 
@@ -85,7 +78,7 @@ Additionally, if you register a domain name through LibyanSpider.com, we may for
 
 ### Partner Web Sites and Pages.
 
-LibyanSpider.com sometimes enters into agreements in which we jointly develop or operate Web sites with third parties ("Partner Site"). Any information collected via a Partner Site may be jointly owned by LibyanSpider.com and the applicable third party partner, or, alternatively, owned solely by us or the third party partner. It is your responsibility to check the privacy policy of such third parties before submitting any personal information to a Partner Site.
+LibyanSpider.com sometimes enters into agreements in which we jointly develop or operate Web sites with third parties (“Partner Site”). Any information collected via a Partner Site may be jointly owned by LibyanSpider.com and the applicable third party partner, or, alternatively, owned solely by us or the third party partner. It is your responsibility to check the privacy policy of such third parties before submitting any personal information to a Partner Site.
 
 ### Business Transfers:
 
@@ -95,13 +88,13 @@ As we continue to develop our business, we might sell or buy businesses or their
 
 We may release account and other personal information when we are required to do so by law, court order or other government or law enforcement authority or regulatory agency, including ICANN; to enforce or apply our Services Agreement or other agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of LibyanSpider.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-Electronic Mail From time to time, LibyanSpider.com may use your personal information to contact you by electronic mail concerning our services. These communications are intended to inform you of important information regarding your account, or about general services provided by LibyanSpider.com. If you do not want to receive email from us regarding new services, please click the "unsubscribe" link which is included at the bottom of any email you receive from LibyanSpider.com.
+Electronic Mail From time to time, LibyanSpider.com may use your personal information to contact you by electronic mail concerning our services. These communications are intended to inform you of important information regarding your account, or about general services provided by LibyanSpider.com. If you do not want to receive email from us regarding new services, please click the “unsubscribe” link which is included at the bottom of any email you receive from LibyanSpider.com.
 
 However, in order to fulfill our service obligations to you, we will continue to send you emails regarding your account administration, as well as any necessary information, such as renewal instructions.
 
 ### How Secure Is Information About Me?
 
-We work to protect the security of your financial information during transmission by using Secure Sockets Layer ("SSL") software, which encrypts the information you input on the Site. Additionally, we reveal only the last five digits of your credit card numbers when confirming an order. Of course, we must transmit the entire credit card number to the appropriate credit card company during order processing. You can further help to ensure your security by taking a few simple precautions. For instance, it is important to protect against unauthorized access to your LibyanSpider.com username and password and to your computer. Be sure to sign off when finished using a shared computer.
+We work to protect the security of your financial information during transmission by using Secure Sockets Layer (“SSL”) software, which encrypts the information you input on the Site. Additionally, we reveal only the last five digits of your credit card numbers when confirming an order. Of course, we must transmit the entire credit card number to the appropriate credit card company during order processing. You can further help to ensure your security by taking a few simple precautions. For instance, it is important to protect against unauthorized access to your LibyanSpider.com username and password and to your computer. Be sure to sign off when finished using a shared computer.
 
 We will take reasonable care to protect your personal information once it is transferred to us, but it is ultimately your responsibility to prevent the disclosure of your personal information outside of LibyanSpider.com, as well as any disclosure on the LibyanSpider.com Site which is due to your error.
 
@@ -125,4 +118,4 @@ Due to the constantly changing nature of our business, we reserve the right to c
 
 If you do not agree to be so bound, do not remain on the Site. You are responsible for checking our Site frequently to keep apprised of recent changes.
 
-If you have any concerns about your privacy at LibyanSpider.com, please [click here](http://www.libyanspider.com/about/contact.php) to contact Customer Support, and we will attempt to resolve it.
+If you have any concerns about your privacy at LibyanSpider.com, please [click here](http://libyanspider.com/contact-us/) to contact Customer Support, and we will attempt to resolve it.
