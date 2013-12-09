@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverwhiz.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607175210id_/http%3A//driverwhiz.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverwhiz.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209041407id_/http%3A//driverwhiz.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Driver Whiz Privacy Policy
 
