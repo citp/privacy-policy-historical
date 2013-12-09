@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweepi.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430085012id_/http%3A//tweepi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweepi.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209052340id_/http%3A//tweepi.com/privacy) for the most accurate reproduction.*
 
 # Tweepi :: manage your Twitter account :: Tweepi
 
