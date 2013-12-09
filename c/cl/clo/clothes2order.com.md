@@ -1,56 +1,47 @@
-> *The following text is extracted and transformed from the clothes2order.com privacy policy that was archived on 2008-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081004041824id_/http%3A//www.clothes2order.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothes2order.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209140323id_/http%3A//www.clothes2order.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Notice... - Clothes2order suppliers of Promotional Clothing, Uniforms, embroidered polo shirts and printed T-shirts.
+# Privacy Policy - Clothes2order suppliers of Promotional Clothing, Uniforms, embroidered polo shirts and printed T-shirts.
 
-............................................................. ............................................................. .............................................................
+## Privacy Policy
 
-We are committed to protecting your privacy. We want you to be able to place your order with us free from worry.
+At Clothes2order.com, we are committed to protecting your privacy. We want you to be able to place your order with us free from worry and have strict privacy measures to ensure this is the case. "We" means Clothes2order.com, a site run by Quayside Clothing Ltd. [Click here for our full company details](http://www.clothes2order.com/contact.php).
 
-#### Information required to process your order
+#### Personal information required to process your order
 
-We require certain information to allow us to process your order. This includes your name, address, telephone number, and email address, as well as your credit or debit card number and expiry date.
+In order to process any order, we require your details including your name, billing address, delivery address, telephone number and email address. Your email address is required as a means of identification to allow you to access order placement area of the site and so that you can be updated with the progress of your order. Your phone number is only used to contact you if there is an issue with your order. All data is securely stored on our systems and is never distributed to any third parties.
 
-We ask for your e-mail address to send you an order confirmation. We ask for your telephone number so that we can contact you should we need to discuss any details of your order.
+#### Use of your personal information for marketing
 
-#### Other information
+You will only be sent marketing emails if you "opt in" to our email offers list when placing your order, or at a later point. Every marketing email we send contains an unsubscribe link allowing you to instantly remove your email address from future campaigns.
 
-From time-to-time we will e-mail you with exciting offers and promotions. This will help you take advantage of savings we may have on a product you normally order or an item that may be of interest to you. If you do not wish to receive emails regarding promotions, just 'opt out' and you will just receive emails regarding orders that you have placed.
+#### Security of your information
 
-Occasionally we may ask you to email us with your opinion on a particular subject, and may publish these comments, if you advise us that you do not wish to have your comment and name published, we will not do so.
-
-#### Site tracking
-
-We use tracking software to monitor customer traffic patterns and site usage to help us develop the design and layout of the site to better meet the needs of our customers. This software does not enable us to capture any personally identifying information.
-
-#### Security facts
-
-We offer the use of the latest secure server software (SSL version 3) which encrypts all information you input before it is sent to us. When you place orders we offer the use of a secure server.
-
-Furthermore, as required by the UK Data Protection Acts of 1984 and 1998, we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access. Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you.
+Clothes2order.com is fully PCI compliant and is assessed regularly by an independent PCI compliance scanning vendor, Security Metrics. No payment data (such as credit or debit card numbers) is stored on our systems. Entering of your personal data during the checkout process is protected by a GeoTrust SSL certificate. All personal data is handled with the upmost care and is never distributed to any third parties.
 
 #### Cookies
 
-Cookies are small pieces of information that are stored by your browser on your computer's hard drive, and enable us to provide features such as remembering your address, so that you don't have to re-enter it each time you make a booking (this service is opt-in). Cookies can be deleted from your hard drive if you wish. Most web browsers automatically accept cookies, but you can change your browser settings to prevent that. Even without a cookie you can use most of the features on the web site.
+Cookies are small pieces of information that are stored by your browser on your computer's hard drive, and are often essential for the functionality of modern websites, including Clothes2order.com. Cookies can be deleted from your hard drive if you wish. Most web browsers automatically accept cookies, but you can change your browser settings to prevent that. Please note that if you choose not to accept cookies, you will not be able to place orders using our service. We regularly audit the cookies used by our system in order to keep these to a minimum. Please note that third party systems integrated with our site may also drop cookies; you should consult the privacy policy of those systems for more information. A full breakdown of cookies used by our site is shown below:
 
-#### Disclosure to third parties
+Cookie Title | Cookie File(s) | Essential? | Description | Intrusiveness | More Information  
+---|---|---|---|---|---  
+Shopping cart session cookie | oscsid | Yes | This cookie is used to track your session so you can place an order. It is deleted when you close your browser. | Low |   
+Anonymous user information cookie | ic_a | Yes | This cookie stores an id link to information such as if you have decided to view prices including or excluding VAT and the products you have recently viewed. The cookie file itself contains no personally identifiable information. | Low |   
+Registered user information cookie | ic_p | Yes | This cookie stores an id link to information to enable users who have previously registered with us to log in and place orders. If you do not register with our site, this cookie will not be used. The cookie file itself contains no personally identifiable information. | Low |   
+Google Analytics | __utma  
+__utmb  
+__utmc  
+__utmx  
+__utmxx  
+__utmz | No | These cookies are used to help us track aggregate usage of our website. These cookies pass data in an anonymous form. | Low | [Click here](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
+ClickTale | WRIgnore  
+WRUID | No | ClickTale is a service that allows us to collect data about how users use our site. We use this data to help improve our website and the experience for our customers. | Low | [Click here](http://www.clicktale.com/privacy_service.aspx)  
+Crazy Egg | is_returning | No | Crazy Egg is a service that allows us to see in aggregate form where users click and interact with our website. All data is collected in an anonymous form. | Low | [Click here](http://www.crazyegg.com/privacy)  
+Criteo | Third-party cookies only | No | Criteo is a retargeting service which uses cookies to target banner advertisements, based on the products you view on our site. Although no first-party cookies are used, third-party cookies from Criteo may be saved on your system while browsing our site. You can opt out of all Criteo cookie use by clicking the more information link. | Medium | [Click here](http://www.criteo.com/en/privacy-policy)  
+  
+#### Changes to this privacy policy
 
-We do not sell, trade, or rent your personal information to others.
+Any future changes to this privacy policy will be updated as soon as possible on this page.
 
-#### Security
+#### More information
 
-Using your credit card to make purchases via our web site is a secure way to pay for your goods.
-
-We have put a number of security steps in place to give you, the customer, total confidence when purchasing through the Internet:
-
-  1. All sensitive information, including personal details as well as credit card information, is encrypted through the use of our secure server software (SSL). This means that information can only be exchanged between you and us, and that no third party can access this data. The padlock symbol on your browser () shows which pages are covered by this security system.
-  2. All historical information regarding credit card, name, and address details is held on a secure computer. We do not retain live records of customer personal details or credit card information on our web servers after the transaction has been completed (i.e. you will need to enter your details each time you book over the Internet).
-
-
-
-#### Notes
-
-Using a credit card may give you additional protection. Under the Consumer Credit Act 1974, if you have a claim against the seller for breach of contract or misrepresentation, you may also have a claim against your credit card issuer. This applies to goods or services costing more than £100 for one item (but less than £30,000), even if you have only used your card to pay a deposit. Further advice can be obtained from your local trading standards department or Citizen's Advice Bureau.
-
-In addition, all the major credit card companies, along with IBM, Netscape Communications, and many others, are committed to the continuing development of open standards, in order to further improve the security of online transactions.
-
-We want you to feel totally at ease every time you visit our site to get information, request a sample and place an order. If you still do not feel comfortable about leaving your credit card information on our secured Web site, please click on payment options or contact one of our customer care representatives at 0161 855 3961 and they'll be happy to help you with your order.
+If you have any questions or concerns about this privacy policy, you can contact us at any time. [Click here to contact us](http://www.clothes2order.com/contact.php).
