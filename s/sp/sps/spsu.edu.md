@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spsu.edu privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602041430id_/http%3A//spsu.edu/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spsu.edu privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209054703id_/http%3A//www.spsu.edu/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
