@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the bettor.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502211828id_/http%3A//www.bettor.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettor.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209012152id_/http%3A//www.bettor.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-Bettor.com is the trading name of CL Services N.V., 0 whose registered office is at CL Services N.V.  
-4th Floor  
-30 Old Broad Street  
-London  
-United Kingdom  
-EC2N 1HT  
+Bettor.com is the trading name of Bettor.com, 0 whose registered office is at Bettor.com  
+CL Services N.V.  
+The Beach House  
+Bapor Kibra z/n  
+Willemstad  
+Curaçao  
+Willemstad  
 
 
 Bettor.com takes your right to privacy extremely seriously and would like to assure any visitor to our website that the security of the personal information you provide to us is of paramount importance. In order to meet this responsibility we have put in place an exceptional Information Security Management System that will be systematically reviewed to ensure that our levels of protection are of the highest possible standard. You are under no obligation to divulge any Personal Information in relation to yourself. However, should certain information not be supplied then some of the services that we offer may not be available.
