@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swns.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523232412id_/http%3A//swns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swns.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209053446id_/http%3A//swns.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SWNS
 
