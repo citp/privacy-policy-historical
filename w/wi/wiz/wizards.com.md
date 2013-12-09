@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626121805id_/http%3A//company.wizards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209083740id_/http%3A//company.wizards.com/privacy) for the most accurate reproduction.*
 
 # Privacy | company.wizards.com
 
-_Last modified December 13, 2010._
+_Last modified October 8, 2013._
 
 **Table of Contents**
 
@@ -18,6 +18,7 @@ Resumes
 Online Surveys  
 Who is collecting my information and how will it be used?  
 With whom does Wizards share my personal information?  
+Social Media  
 International Transfer of Information?  
 Clear GIFs, Cookies and IP Addresses  
 Log Files  
@@ -160,6 +161,14 @@ We may disclose personal information in the good faith belief that we are requir
 
 Except as set forth herein, Wizards of the Coast LLC, as a subsidiary of Hasbro, Inc. does not sell, rent, or otherwise disclose personal information collected from and about its users (including children under 13) to third parties. However, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Wizards' customer information may be transferred to Wizards' successor or assign, if permitted by and done in accordance with applicable law.
 
+**Social Media**
+
+You also can engage with our content on or through third-party social networking sites, such as Facebook and Twitter (or third-party social media plug-ins and applications). When you engage with our content on or through third-party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on,) from your interaction with our content.
+
+When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our websites (and/or applications), and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an application, on our sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties. 
+
+Through some social networking sites’ privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
+
   
 **International Transfer of Information?**
 
@@ -275,7 +284,7 @@ Other countries: (425) 204-8069
 
 **Submit a help request** (requires creating an account or signing in to your account): <http://wizards.custhelp.com/>
 
-We reserve the right to change this statement at any time, so visit this page from time to time to check for changes. For additional information about our web sites, please see our [Terms and Conditions of Use.](https://web.archive.org/web/20130626121805id_/http%3A//company.wizards.com/tou)
+We reserve the right to change this statement at any time, so visit this page from time to time to check for changes. For additional information about our web sites, please see our [Terms and Conditions of Use.](https://web.archive.org/web/20131209083740id_/http%3A//company.wizards.com/tou)
 
 Back to top
 
