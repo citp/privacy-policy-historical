@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefunnyjunk.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528004238id_/http%3A//www.thefunnyjunk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefunnyjunk.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209175059id_/http%3A//www.thefunnyjunk.com/privacy.php) for the most accurate reproduction.*
 
 # TheFunnyJunk - Funny Pictures, Epic Fails, Funny Shots, iPhone Autocorrects, Awkward Texts, LOL Photos, TheFunnyJunk, Hilarious, Animal LOLs, Troll Comics, Gags, Cartoon
 
