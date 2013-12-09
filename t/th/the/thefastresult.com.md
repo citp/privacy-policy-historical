@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefastresult.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529214955id_/http%3A//thefastresult.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefastresult.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209155425id_/http%3A//thefastresult.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Thefastresult.com- Privacy Policy
 
