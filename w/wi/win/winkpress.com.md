@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winkpress.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513005041id_/http%3A//winkpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winkpress.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209233023id_/http%3A//winkpress.com/privacy-policy) for the most accurate reproduction.*
 
 # WinkPress Privacy Policy | WinkPress ;)
 
@@ -15,7 +15,3 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-  *   * [Tweet](https://twitter.com/intent/tweet?text=WinkPress%20Privacy%20Policy&url=http://winkpress.com/privacy-policy/ "Please share this with your Twitter followers")
-  * 
-
