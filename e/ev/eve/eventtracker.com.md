@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventtracker.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607114456id_/http%3A//www.eventtracker.com/about-prism/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventtracker.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209015857id_/http%3A//www.eventtracker.com/about-prism/privacy) for the most accurate reproduction.*
 
 # Privacy | EventTracker SIEM, IT Security, Compliance and Log ManagementEventTracker SIEM, IT Security, Compliance and Log Management
 
