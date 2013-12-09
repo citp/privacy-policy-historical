@@ -1,43 +1,53 @@
-> *The following text is extracted and transformed from the transsexualism.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329165816id_/http%3A//cs.securegatewayaccess.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transsexualism.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209041318id_/http%3A//www.trannycam.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Privacy
+# Tranny Cams | Privacy Policy
 
-The following is our privacy statement regarding our gathering and dissemination of information practices for this website.
+[Home](http://www.trannycam.com/) / Privacy Policy
 
-We use your IP address to administer our website and to help diagnose problems with our server. Your IP address is also used to help identify you and to gather broad demographic information.
+By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
-In our site's subscription you are required to give us contact information (to include names and E-mail addresses), and in some cases, financial information (to include account or credit card numbers).
+TrannyCam respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use TrannyCam, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the TrannyCam website.
 
-We may use customer contact information from the subscription form to send the user information about our company, a free E-mail newsletter and promotional material from some of our partners and affiliates. Occasionally contact information is used to contact you when necessary. Before you actually receive any promotional materials or other communications from us, you will be sent a confirmation email including headers, footers and unsubscribe links in compliance with Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003" or the "CAN-SPAM Act of 2003" (the "Act") requiring you to reply and confirm that you wish to be added to the mailing list. If you do not respond, you will not be added to the subscriber list.
+TrannyCam will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
 
-You may always opt-out of receiving future e-mailings which are also in compliance with the Act. All of our communications contain 'opt-out' sections. Periodically we may choose to sell, rent or share your email address and/or demographic data with unaffiliated third parties.
+If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
 
-Our online surveys ask visitors for contact information (like their e-mail address) and demographic information (like their zip code, age, or income level). We use data from our surveys to send the user information about our company and promotional material from some of our partners and affiliates. Demographic and profile data are also collected at our site. We may use this data to tailor our visitors' experience at our site showing them content according to their preferences. Anonymous demographic information is shared with advertisers and market researchers on an aggregate basis. As indicate above, any e-mail from us will always include specific instructions on how to unsubscribe.
+When you do provide us with personal identifying information, such information will be gathered solely by TrannyCam, and is for use solely by TrannyCam and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
 
-We may in our sole discretion, develop and use consumer research based on Users' use of the service. All marketing information shall be subject, in all cases, to compliance with the applicable rules and regulations of the Communication Commission, and other relevant laws and regulations; as the same may be amended from time to time.
+TrannyCam may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
 
-You will note that this site contains links to other sites. We are not responsible for the privacy practices or the content of other such websites. Your selection of a link or ad banner to direct you to a third party site are strictly between the user and the third party and are not the responsibility of the privacy policy of our site. Because we are not responsible for the availability of these outside resources or their privacy policy or content, you should direct any concerns regarding any external link to the third party site administrator or Webmaster.
+TrannyCam may request personal identifying information on specific pages that allow users to contact TrannyCam. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
 
-Financial information that is collected is used to check the users' qualifications to access our site and, should you so elect, to bill the user for products and services ordered.
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of TrannyCam or those of TrannyCam customers or chat hosts, (4) under exigent circumstances to protect the physical safety of TrannyCam, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
 
-This site may contain chat rooms, forums, message boards, and/or news groups available to users. Of course any information that you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
 
-We use 'cookie' technology (see www.cookiecentral.com for complete information) to enhance users' online experience by making it easier for them to navigate through our pages or to make a feature work better. We do not extract information about individual users or their computers during this process. Cookies set by us for our Web sites are required. We utilize cookies to regulate advertising, improve user experience, and identify you as a prior visitor to our website.
+We may use cookies to:
 
-You can send E-mail to us: privacy@securegatewayaccess.com
+  * Deliver content specific to your interests.
+  * Save your password so you don’t have to re-enter it each time you visit our sites.
 
-You can send mail to the following postal address:
 
-Wabash Systems Ltd
 
-Attn: Privacy Statement
+We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties.
 
-88 The Poplars,
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
 
-De Grey Street
+This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
 
-Newcastle
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. TrannyCam does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
 
-NE4 7HB
+Members areas of TrannyCam may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@trannycam.com](https://web.archive.org/contactsupport.php?).
 
-UK
+TrannyCam does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from TrannyCam, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?).
+
+TrannyCam also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if TrannyCam becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, TrannyCam reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the TrannyCam program, termination of TrannyCam services, and forfeiture of all commissions.
+
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@trannycam.com](https://web.archive.org/contactsupport.php?) and provide us with your name, your TrannyCam login name, and any information you feel is important.
+
+The address for correspondence by post is
+
+ICF Technology, Inc.  
+PO Box 21508  
+Seattle, WA 98111  
+USA 
