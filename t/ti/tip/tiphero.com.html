@@ -1,0 +1,537 @@
+<!--The following is the downloaded HTML source of the tiphero.com privacy policy that was archived on 2013-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209053132id_/http%3A//tiphero.com/index.php%3F_ms%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head>
+        <title>Privacy Policy</title>
+
+                <meta name="keywords" content="privacy_keywords">
+                            <meta name="description" content="privacy_description">
+                    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+		<meta property="og:type" content="article">
+		<meta property="og:site_name" content="Tip Hero">
+		<meta property="fb:admins" content="715146979">
+
+        <link type="text/css" rel="stylesheet" href="http://dis4o6us9omse.cloudfront.net/stylemin.css">
+        <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=147970005298030"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://d3mlcofzeu9k85.cloudfront.net/prototypemin.js"></script>
+        
+		<script type="text/javascript">
+        
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-4737508-1']);
+          _gaq.push(['_setDomainName', 'tiphero.com']);
+          _gaq.push(['_trackPageview']);
+        
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        
+        </script>
+
+
+
+                    <script type="text/javascript">
+//
+function check_dublicate_username()
+{
+	var url = 'index.php?_ms=check_user&_ws=Users&&user_name=' + encodeURIComponent(document.getElementById("id_user_name").value);
+	// notice the use of a proxy to circumvent the Same Origin Policy. 
+	new Ajax.Request(url, {
+		method: 'get',
+		onSuccess: function(transport) {
+			if (transport.responseText != '0')
+			{
+				alert('This user name already exists. Please choose another one.');
+			}
+		}
+		});
+}
+
+function check_dublicate_email()
+{
+	var url = 'index.php?_ms=check_email&_ws=Users&&user_email=' + encodeURIComponent(document.getElementById("id_user_email").value);
+	// notice the use of a proxy to circumvent the Same Origin Policy.
+	new Ajax.Request(url, {
+		method: 'get',
+		onSuccess: function(transport) {
+			if (transport.responseText != '0')
+			{
+				alert('This email already exists. Please choose another one.');
+			}
+		}
+		});
+}
+
+function ma_sleep(naptime)
+{
+	naptime = naptime * 1000;
+	var sleeping = true;
+	var now = new Date();
+	var alarm;
+	var startingMSeconds = now.getTime();
+	//alert("starting nap at timestamp: " + startingMSeconds + "\nWill sleep for: " + naptime + " ms");
+	while(sleeping)
+	{
+		alarm = new Date();
+		alarmMSeconds = alarm.getTime();
+		if(alarmMSeconds - startingMSeconds > naptime){ sleeping = false; }
+	}
+}
+//
+function alreadyvotted_rate_the_tip(tip_id)
+{
+	document.getElementById('alreadyvotted_rate_the_tip_' + tip_id).style.display = 'inline';
+	document.getElementById('rate_the_tip_' + tip_id).style.display = 'none';
+}
+//
+function notloggedin_rate_the_tip(tip_id)
+{
+	document.getElementById('notloggedin_rate_the_tip_' + tip_id).style.display = 'inline';
+}
+//
+function rate_the_tip(tip_id, up)
+{
+	var url = 'index.php?_ms=rate&&tip_id=' + encodeURIComponent(tip_id) + '&up=' + encodeURIComponent(up);
+	// notice the use of a proxy to circumvent the Same Origin Policy. 
+	new Ajax.Request(url, {
+		method: 'get',
+		onSuccess: function(transport) {
+			if (transport.responseText == '0') {
+				alert('You have to be logged in to do that.');
+			} else if (transport.responseText == '2') {
+				//alert('You cannot vote twice for the same tip.');
+				alreadyvotted_rate_the_tip(tip_id)
+			} else if (transport.responseText == '1') {
+				//alert('Your vote has been saved. Thank you.');
+				document.getElementById('alreadyvotted_rate_the_tip_' + tip_id).style.display = 'none';
+				document.getElementById('rate_the_tip_' + tip_id).style.display = 'inline';
+				document.getElementById('rating_text_tip_' + tip_id).innerHTML = 'Thank you for your vote.';
+				reload_ratings(tip_id, up);
+			}
+		}
+		});
+}
+//
+function reload_ratings(tip_id, up)
+{
+	var url = 'index.php?_ms=get_rating&&tip_id=' + encodeURIComponent(tip_id) + '&up=' + encodeURIComponent(up);
+	// notice the use of a proxy to circumvent the Same Origin Policy. 
+	new Ajax.Request(url, {
+		method: 'get',
+		onSuccess: function(transport) {
+			if ( up == '1')
+			{
+				document.getElementById('rating_up_tip_'+tip_id).innerHTML = transport.responseText;
+			} else {
+				document.getElementById('rating_down_tip_'+tip_id).innerHTML = transport.responseText;
+			}
+		}
+		});	
+}
+//
+function onClickSortBy(e)
+{
+	window.location = "/?_ms=set_sort_by&&sort_by=" + e.value;
+}
+
+function popUp(URL,width,height) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width="+width+",height="+height+",left = 262,top = 184');");
+}
+
+</script>
+        
+
+
+                <meta name="google-site-verification" content="e9CYsgf111z16vTPTxNK6pNRr-10wN7T_Al-MYB7wFA">
+                
+</head>
+
+
+<body>
+
+    <!-- BEGIN FACEBOOK LIKE BOX CODE -->
+    
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=147970005298030";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    
+    <!-- END FACEBOOK LIKE BOX CODE -->
+
+    <div id="page">
+        <div id="containerwide">
+        
+            
+            <div><a href="/"><img src="http://d2d3nclf2nz17v.cloudfront.net/thlogo.gif" border="0"></a></div>
+            
+            <div style="float:left; margin: -50px 0px 0px 470px; text-align:center; font-family:verdana; font-size:13px; font-weight:bold;">
+                Over 7,000<br>
+                money-saving tips!
+            </div>
+            
+            <div style="float:right; margin: -55px 165px 0px 0px;">
+				<div class="fb-like" data-href="https://www.facebook.com/tiphero" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+            </div>
+
+            <div style="float:right; margin: -28px 145px 0px 0px;">            
+            <a href="https://twitter.com/tiphero" class="twitter-follow-button" data-show-count="false">Follow @tiphero</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</div>
+
+			<div style="float:right; margin: -58px 10px 0px 0px;">
+				<div style="line-height:25px; text-align:center;">
+
+    
+<a class="link_header_right" href="index.php?_ms=login_form&amp;_ws=Users&amp;">Log In</a><br>
+<a class="link_header_right" href="index.php?_ms=register&amp;_ws=Users&amp;">Join</a>
+    	
+</div>            </div>
+            
+            <div style="clear:both;"></div>
+            
+            <div id="top-nav-bar"></div>
+
+            <div style="float:left; margin: -34px 0px 0px 10px; font-family:verdana; font-size:13px; color:#FFFFFF; font-weight:bold;">
+                Site search:
+            </div>
+            
+            <div style="float:left; margin: -37px 0px 0px 100px;">
+                <form action="http://www.tiphero.com/google" id="cse-search-box">
+                <input type="hidden" name="cx" value="partner-pub-4229809729554458:qs0n5j-ri4t">
+                <input type="hidden" name="cof" value="FORID:10">
+                <input type="hidden" name="ie" value="ISO-8859-1">
+                <input type="text" name="q" style="width:160px;">
+                <input type="submit" name="sa" value="Search">
+                </form>
+                <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+            </div>
+            
+            <div style="float:right; margin: -32px 260px 0px 0px; font-family:verdana; font-size:13px; color:#FFFFFF; font-weight:bold;">
+            	Web Search:
+            </div>
+            
+            <div style="float:right; margin: -37px 10px 0px 0px;">
+                <form method="POST" action="search">
+                <input type="hidden" name="pid" value="0">
+                <input type="text" value="" name="q" style="width:160px;">
+                <input type="submit" name="submit" value="Search">
+                </form>
+            </div>
+            
+            <div style="clear:both;"></div>
+
+
+            <!-- BEGIN LEFT MENU -->
+            
+            <div style="float:left; width:221px;">
+            	<table width="212px" cellspacing="0" cellpadding="0" border="0">
+
+    <tbody><tr>
+        <td>
+            <table width="212px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/small_bar.gif');background-repeat:no-repeat;background-position:top left;margin: 0 0 0 0;font-size: 20px;">
+                <tbody><tr><td style="padding: 7px 0px 7px 5px;" align="left">Tips by Category:
+                    </td></tr>
+            </tbody></table>
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <div class="menu">
+                <table class="menu" cellspacing="0" cellpadding="0" width="211px">
+                    <tbody>
+
+                        
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_2000_babies-kids.html">$&nbsp;Babies &amp; Kids <font class="count">(149) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_3000_cars-automotive.html">$&nbsp;Cars &amp; Automotive <font class="count">(137) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_1000_clothing-accessories.html">$&nbsp;Clothing &amp; Accessories <font class="count">(211) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_5000_electronics.html">$&nbsp;Electronics <font class="count">(309) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_16000_energy-utilities.html">$&nbsp;Energy &amp; Utilities <font class="count">(199) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_6000_entertainment.html">$&nbsp;Entertainment <font class="count">(226) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_9000_food-dining-out.html">$&nbsp;Food &amp; Dining Out <font class="count">(1208) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_10000_health-beauty.html">$&nbsp;Health &amp; Beauty <font class="count">(401) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_19000_holidays-events.html">$&nbsp;Holidays &amp; Events <font class="count">(286) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_11000_home-garden.html">$&nbsp;Home &amp; Garden <font class="count">(914) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_21000_insurance-legal.html">$&nbsp;Insurance &amp; Legal <font class="count">(85) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_7000_personal-finance.html">$&nbsp;Personal Finance <font class="count">(563) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_13000_school-office.html">$&nbsp;School &amp; Office <font class="count">(96) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_14000_sports-recreation.html">$&nbsp;Sports &amp; Recreation <font class="count">(139) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_23000_travel.html">$&nbsp;Travel <font class="count">(140) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_17000_general.html">$&nbsp;General  <font class="count">(1931) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                
+                        <tr><td width="10"></td><td nowrap="nowrap" align="left" style="padding: 0px 0px 0px 0px;">
+                                <table width="209px" border="0" cellpadding="0" cellspacing="0" style="background-image:url('http://d1tqtynjnb2pp3.cloudfront.net/left_menu.gif');background-repeat:no-repeat;background-position:top left;">
+                                    <tbody><tr><td style="margin: 1px 1px 1px 1px;" align="left" nowrap="nowrap">
+                                            <a href="/cat1_22000_q-a.html">$&nbsp;Q &amp; A <font class="count">(330) </font></a>
+                                        </td></tr>
+                                </tbody></table>
+                            </td></tr>
+                                                    </tbody>
+                </table>
+            </div>
+        </td>
+    </tr>
+
+
+    <tr><td>&nbsp;</td></tr>
+
+    
+    <tr><td>&nbsp;</td></tr>
+
+    
+	<tr>
+        <td>
+            <table class="main_box_comments" width="100%" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                	<td class="main_box_comments_title">SISTER SITES</td>
+                </tr>
+                <tr>
+                	<td style="padding: 10px 10px 10px 10px">
+                    	<table class="box_comments" align="left">
+                        	<tbody><tr>
+                            	<td class="left_table" width="100%" align="left"><a href="http://www.giveawaysandsweepstakes.com" target="_blank">Giveaways &amp; Sweepstakes</a></td>
+                            </tr>
+                        	<tr>
+                            	<td class="left_table" width="100%" align="left"><a href="http://www.famousfreesamples.com" target="_blank">Famous Free Samples</a></td>
+                            </tr>
+                        	<tr>
+                            	<td class="left_table" width="100%" align="left"><a href="http://www.promosimple.com" target="_blank">Sweepstakes Application</a></td>
+                            </tr>
+                        </tbody></table>
+					</td>
+				</tr>
+            </tbody></table>
+        </td>
+	</tr>
+
+    <tr><td>&nbsp;</td></tr>
+
+</tbody></table>            </div>
+            
+            <!-- END LEFT MENU -->
+            
+            
+            <!-- BEGIN CORE -->
+            
+            <div style="margin-left:230px;">
+            	<!-- Begin Grey Bar -->
+<div style="background-color:#dcdcdc; height:36px; font-size:20px;">
+    <div style="padding:6px 0px 0px 5px;">
+    Contact Us
+    </div>
+</div>
+<!-- End Grey Bar -->
+
+
+<div style="margin:20px;">
+    <font class="tip_text">
+    Last modified: May 13, 2009<br><br>
+    
+    Your privacy is important to Tipedia LLC, doing business as TipHero.com ("Tip Hero"). This Privacy Policy applies to all of the websites, products, and services offered by Tip Hero. If you have any questions about this Privacy Policy, please contact us via email or write to us at Privacy Policy Matters, c/o Tipedia LLC, 195 Harvard Street, Suite 200, Cambridge, Massachusetts, 02139 USA.
+    <br><br>
+    All of our services currently do not require you to register with us or provide any personal information to us. In order to operate Tip Hero, however, and in order to provide you with Tip Hero services, we may collect the following types of information:
+    <br><br> 
+    When you sign up for a Tip Hero email newsletter or other Tip Hero service or promotion that requires registration, we may ask you for personal information (e.g., name, email address, etc.). We may combine the information you submit under your account with information from other Tip Hero services or third parties in order to provide you with a better experience and to improve the quality of our services. In addition, when you unsubscribe from an email newsletter product, we will remove you from the list of subscribers.  However, we will save your email address to ensure that we do not email to you again in the future, unless you re-subscribe. To deliver email newsletters and other communications we use MailChimp.com's email delivery service. Here is their privacy policy: <a href="http://www.mailchimp.com/privacy.phtml" target="blank">http://www.mailchimp.com/privacy.phtml</a>
+    <br><br>
+    When you visit Tip Hero, we track user activity using Google Analytics and Google AdWords conversion tracking. Here is Google's privacy policy: <a href="http://www.google.com/intl/en/privacy.html&lt;" target="blank">http://www.google.com/intl/en/privacy.html</a>
+    <br><br>
+    We use Google AdSense and Google Ad Manager to display advertisements on our site. These services collect information on our visitors. Recently Google AdSense began displaying advertisements based on behavorial aspects of users, such as which websites they previously visited. For more details on Google data privacy issues, please visit their privacy policy: <a href="http://www.google.com/intl/en/privacy_ads.html" target="blank">http://www.google.com/intl/en/privacy_ads.html</a>
+    <br><br>
+    Google, as a third party vendor, uses cookies to serve ads on TipHero.com. Google's use of the DART cookie enables it to serve ads to Tip Hero users based on their visit to TipHero.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy: <a href="http://www.google.com/privacy_ads.html" target="blank">http://www.google.com/privacy_ads.html</a>
+    <br><br>
+    When you visit Tip Hero, we send one or more cookies (small files containing a string of characters) to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to not accept cookies or to alert you when a cookie is being sent. If you have cookies disabled, however, some Tip Hero features and services may not function properly.
+    <br><br>
+    When you use Tip Hero services, the servers we use automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request including date and time of the request, your IP address, your browser type, your browser language, and one or more cookies that may uniquely identify your browser.
+    <br><br> 
+    When you send email or other communication to Tip Hero, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
+    We offer some of our services to other web sites. In some cases, the personal information that you provide to those websites may be sent to Tip Hero in order to fully deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices.  We encourage you to read their privacy policies.
+    <br><br>
+    Tip Hero may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our products and to customize content and advertising. 
+    <br><br>
+    This Privacy Policy only applies to websites and services that are owned and operated by Tip Hero. We do not exercise control over the websites displayed and/or linked to on our websites.  These other 
+    websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. We encourage you to read their privacy policies.
+    <br><br>
+    In addition to what has been described above, Tip Hero also may process personal information for the following purposes: 
+    <br><br>
+    (1) Auditing, research and analysis in order to maintain, protect and improve our services
+    <br><br>
+    (2) Ensuring the technical functioning of our network
+    <br><br>
+    (3) Developing new products and services
+    <br><br>
+    Tip Hero processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
+    When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+    <br><br>
+    If we propose to use personal information for any purposes other than those described in this Privacy Policy, we will offer you an effective way to opt out of the use of personal information for those other purposes. You can decline to submit personal information to any of our services, in which case Tip Hero may not be able to provide those services to you.
+    <br><br> 
+    We require opt-in consent for the sharing of any sensitive personal information. We provide such information to companies affiliated with Tip Hero, as well as other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+    <br><br> 
+    Access, use, preservation or disclosure of such information is necessary in order to satisfy any applicable law, regulation, legal process or enforceable governmental request. It is also necessary to enforce applicable Terms of Use, as well as to investigate any potential violations and abuses of the Terms of Use. In addition, we may need to use this information to detect, prevent, or otherwise address fraud, security or technical issues.  Finally, we use this information to protect against imminent harm to the rights, property or safety of Tip Hero, its users, and the public as required or permitted by law. 
+    If Tip Hero becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will make every reasonable effort to provide notice of such a change before personal information is transferred and becomes subject to a different privacy policy.
+    <br><br> 
+    We may, from time-to-time, share with third parties certain pieces of personal information in the aggregate.  For example, we may share information related to the number of website visitors who searched for a particular event or clicked on a particular website.  Such information does not identify you individually.
+    <br><br> 
+    We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
+    We restrict access to personal information to Tip Hero employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+    <br><br> 
+    Tip Hero processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+    <br><br> 
+    When you use Tip Hero, we make every reasonable effort to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required.
+    <br><br> 
+    Tip Hero regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy and/or Tip Hero's treatment of personal information by writing to us either via email or at Privacy Matters, c/o Tipedia LLC, 195 Harvard Street, Suite 200, Cambridge, Massachusetts, 02139, USA. When we receive formal written complaints at this address, it is Tip Hero's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Tip Hero and an individual.
+    <br><br> 
+    Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Policy will be identified at the top of the page by its effective date.<p></p>
+    <!-- End Core -->
+    </font>
+</div>            </div>
+            
+            <!-- END CORE -->
+
+            <div style="clear:both;"></div>
+
+        </div>
+    </div>
+    <table class="footer">
+	<tbody><tr>
+    	<td align="center">
+            <a href="index.php?_ms=mission" rel="nofollow" class="link_footer">Our Mission</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="index.php?_ms=news" rel="nofollow" class="link_footer">In the News</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="index.php?_ms=about_us" rel="nofollow" class="link_footer">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
+            <a href="index.php?_ms=privacy" rel="nofollow" class="link_footer">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="index.php?_ms=terms_of_use" rel="nofollow" class="link_footer">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="index.php?_ms=contact_us" rel="nofollow" class="link_footer">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="/_ws_Tips__ms_newsletter_.html" rel="nofollow" class="link_footer">Subscribe</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="index.php?_ws=Tips&amp;_ms=unsubscribe_form" rel="nofollow" class="link_footer">Unsubscribe</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="http://feeds.feedburner.com/tiphero" rel="nofollow" class="link_footer">RSS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		</td>
+	</tr>
+
+	<tr>
+    <td align="center">
+    	© 2008-2013 Tipedia LLC. &nbsp;&nbsp;|&nbsp;&nbsp; All Rights Reserved.
+		</td>
+    </tr>
+    
+</tbody></table>
+    
+
+</body></html>
