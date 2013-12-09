@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourupload.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527105259id_/http%3A//yourupload.com/index.php%3Fact%3Dpages%26page%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourupload.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209101605id_/http%3A//www.yourupload.com/index.php%3Fact%3Dpage%26page%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | YourUpload
+# YourUpload
 
 There are many different ways you can use our services - to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a YourUpload Account, we can make those services even better - to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we're using information and the ways in which you can protect your privacy.
 
@@ -30,7 +30,7 @@ We may collect device-specific information (such as your hardware model, operati
 
   * #### Log information
 
-When you use our services or view content provided by YourUpload, we may automatically collect and store certain information in server logs. This may include:
+    * When you use our services or view content provided by YourUpload, we may automatically collect and store certain information in server logs. This may include:
 
     * details of how you used our service, such as your search queries.
     * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls.
@@ -92,7 +92,7 @@ Many of our services let you share information with others. Remember that when y
 
 ## Accessing and updating your personal information
 
-Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it - unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
+Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it \- unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
 
 We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes).
 
@@ -108,7 +108,7 @@ We will share personal information with companies, organizations or individuals 
 
   * #### With domain administrators
 
-If your YourUpload Account is managed for you by a domain administrator (for example, for YourUpload Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your YourUpload Account information (including your email and other data). Your domain administrator may be able to:
+    * If your YourUpload Account is managed for you by a domain administrator (for example, for YourUpload Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your YourUpload Account information (including your email and other data). Your domain administrator may be able to:
 
     * view statistics regarding your account, like statistics regarding applications you install.
     * change your account password.
@@ -125,7 +125,7 @@ We provide personal information to our affiliates or other trusted businesses or
 
   * #### For legal reasons
 
-We will share personal information with companies, organizations or individuals outside of YourUpload if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+    * We will share personal information with companies, organizations or individuals outside of YourUpload if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
 
     * meet any applicable law, regulation, legal process or enforceable governmental request.
     * enforce applicable Terms of Service, including investigation of potential violations.
@@ -140,7 +140,7 @@ If YourUpload is involved in a merger, acquisition or asset sale, we will contin
 
 ## Information security
 
-We work hard to protect YourUpload and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:
+  * We work hard to protect YourUpload and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:
 
   * We encrypt many of our services using SSL.
   * We offer you two step verification when you access your YourUpload Account, and a Safe Browsing feature in YourUpload Chrome.
@@ -162,3 +162,7 @@ We regularly review our compliance with our Privacy Policy. We also adhere to se
 ## Changes
 
 Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
+
+* * *
+
+Execution: 0.02174 | Memory: 1.27MB
