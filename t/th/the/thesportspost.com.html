@@ -1,38 +1,75 @@
-<!--The following is the downloaded HTML source of the thesportspost.com privacy policy that was archived on 2013-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615054339id_/http%3A//thesportspost.com/pages/view/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thesportspost.com privacy policy that was archived on 2013-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209063839id_/http%3A//thesportspost.com/pages/view/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
     	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     	<title>Home - The Sports Post</title>
         <link rel="stylesheet" href="/css/main.css" type="text/css">    
-        <link rel="stylesheet" href="/css/superfish.css" media="screen">
-        <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/js/hoverIntent.js"></script>
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/themes/base/jquery-ui.css">
+        <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js"></script>
+        <script src="/js/hoverIntent.js"></script>
+        <script type="text/javascript">
+        $(function() {
+
+          $(".theArticle a").attr("target", "_blank");
+          $(".navMenu").menu();
+
+          $(".navMenu").find("a").click(function(event) { window.location.href = $(this).attr("href"); event.preventDefault(); })
+
+          $(".navElement").hoverIntent(function() {
+              $(".sportMain").hide();
+              hoverSport = $(this).attr("title");
+
+              $("."+hoverSport+"Main").show();
+          }, function() {
+            
+          });
+
+          $(".sportMain").hoverIntent(function() {}, function(){ $(".sportMain").fadeOut();})
+
+          $(".subMenu").hover(function()
+          {
+            if($(this).find(".navMenu").length != 0)
+            {
+              //has sub menu7
+              $(this).css("cursor", "pointer");
+              $(this).find(".navMenu").slideDown('fast');
+            }
+          });
+
+          $(".subMenu").mouseleave(function()
+          {
+            $(this).find(".navMenu").slideUp('fast');
+          });
+
+          var Input = $('#search');
+          var default_value = Input.val();
+
+          Input.focus(function() {
+              if(Input.val() == default_value) Input.val("");
+          }).blur(function(){
+              if(Input.val().length == 0) Input.val(default_value);
+          });
+        });
+        </script>
+        
 
         <meta property="fb:app_id" content="144002152454165">
         <meta property="fb:admins" content="alamers01">
         <meta property="og:site_name" content="TheSportsPost">
   
-    <style type="text/css">
-      .navigation {background:url('/images/navigationBackground.png');}
-      .content .contentLeft .bigBoxBlueHeader h1, h1.shinyHeader {background:url('/images/navigationBackground.png');}
-      .navigation ul li ul { background:#2e6f95; }
-
-      a.logo {text-decoration: none; position: relative; display:block; width:400px; }
-      a.logo h4 {position: absolute; right:30px; top:2px; color:#cd4343;}
-      a.logo h1 { color:#2e6f95; margin:0; padding:10px; padding-bottom:4px; font-size:40px;}
-      a.logo h3 {margin: 0;  padding:10px; padding-top: 0;padding-bottom: 3px; color:#fff;}
-
-      .themeText {color:#2e6f95;}
+    
+              <meta name="description" content="The Sports Post is committed to producing great sports stories. Our mission isn't to merely report the news but rather to give you our brand of sports analysis and perspective that you can't get anywhere else.">
+      
+    <style>
+      .Main {display:block;}
     </style>
 
-    
-        
-    <script>
-      $().ready(function(){
-        $("#nav").superfish();
-      })
-    </script>
+<script src="//platform.linkedin.com/in.js" type="text/javascript">
+lang: en_US
+</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <script type="text/javascript">
 var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
@@ -50,11 +87,16 @@ node.parentNode.insertBefore(gads, node);
 
 <script type="text/javascript">
 googletag.cmd.push(function() {
-googletag.defineSlot('/5702/yb.thesportspost', [[300, 250]], 'div-gpt-ad-1371246098290-0').addService(googletag.pubads());
+googletag.defineSlot('/5702/yb.thesportspost', [[300, 250]], 'div-gpt-ad-1376615716832-0').addService(googletag.pubads());
 googletag.pubads().enableSingleRequest();
 googletag.enableServices();
 });
 </script>
+
+
+
+
+
  </head>
     
     <body>
@@ -73,7 +115,13 @@ googletag.enableServices();
   })();
 
 </script>
+<!--/* Switch 3.8.5.1 - Trimark Media - TheFootballJuice.com - Pop Under - 1x1 */-->
 
+<script type="text/javascript" src="http://delivery.switchadhub.com/adserver/tag.php?_t=1b8a&amp;_i=6304&amp;_c=INSERT_CLICK_MACRO&amp;_r=INSERT_RANDOM_NUMBER">
+</script><noscript><iframe id='763203' name='763203' src='http://delivery.switchadhub.com/adserver/tag.php?_t=2b87&_i=6304&_c=INSERT_CLICK_MACRO&_r=INSERT_RANDOM_NUMBER' frameborder='0' scrolling='no' width='1' height='1'>
+<a href='http://delivery.switchadhub.com/adserver/tag.php?_t=3b88&_n=763203&_i=6304&_c=INSERT_CLICK_MACRO&_r=INSERT_RANDOM_NUMBER' target='_blank'>
+<img src='http://delivery.switchadhub.com/adserver/tag.php?_t=4b85&_n=763203&_i=6304&_c=INSERT_CLICK_MACRO&_r=INSERT_RANDOM_NUMBER' border='0' alt='' /></a>
+</iframe></noscript>
 <div id="fb-root"></div>
 <script>
   window.fbAsyncInit = function() {
@@ -103,134 +151,119 @@ googletag.enableServices();
    }(document, /*debug*/ false));
 </script>
 <script src="http://www.yardbarker.com/network.js" type="text/javascript"></script><script defer="false" type="text/javascript">_siteid = 11773; yardbar(); </script>
+<div class="content">
+    <div class="header">
+      <a href="/"><img src="/images/TheSportsPostLogo.png" width="520px" height="89px"></a>
 
-    <div class="logo">
-      <div class="width925auto">
-        <a href="/" class="logo">
-          <img src="/images/logo.png">
-        </a>
-      </div><!-- ./width925auto -->
-    </div><!-- .header -->
+      <div class="socialContainer">
+        <a href="https://twitter.com/SportsPostHome"><img class="social" src="/images/Social_01.png" width="21" height="22"></a>
+        <a href="https://www.facebook.com/TheSportsPost"><img class="social" src="/images/Social_02.png" width="21" height="22"></a>
+        <a href="https://plus.google.com/u/1/109283490558980869014/posts"><img class="social" src="/images/Social_03.png" width="21" height="22"></a>
+        <a href="http://www.linkedin.com/company/3111566?trk=vsrp_companies_res_name&amp;trkInfo=VSRPsearchId%3A1475411611378644269102%2CVSRPtargetId%3A3111566%2CVSRPcmpt%3Aprimary"><img class="social" src="/images/Social_04.png" width="21" height="22"></a>
+      </div><!--/socialContainer-->   
+    </div><!--/header-->
 
     <div class="navigation">
-      <div class="width925auto">
-        <ul id="nav" class="sf-menu">
-  <li>
-    <a href="/">HOME</a>            
-  </li>
-  <li>
-    <a href="/football">NFL</a>
-    <ul>
-      <li>
-        <a href="#">AFC »</a>
-        <ul>
-          <li><a href="/blogs/show/afc-north">North</a></li>
-          <li><a href="/blogs/show/afc-east">East</a></li>
-          <li><a href="/blogs/show/afc-south">South</a></li>
-          <li><a href="/blogs/show/afc-west">West</a></li>
-        </ul>
-      </li>
-      <li>
-        <a href="#">NFC »</a>
-        <ul>
-          <li><a href="/blogs/show/nfc-north">North</a></li>
-          <li><a href="/blogs/show/nfc-east">East</a></li>
-          <li><a href="/blogs/show/nfc-south">South</a></li>
-          <li><a href="/blogs/show/nfc-west">West</a></li>
-        </ul>
-      </li>
-      <li>
-          <a href="/blogs/show/nfl-draft">NFL Draft »</a>
-         <ul>
-          <li><a href="/blogs/show/draft-profile">Draft Profiles</a></li>
-        </ul>
-      </li>
-      <li>
-          <a href="/blogs/show/fantasy-football">Fantasy Football »</a>
-          <ul>
-            <li><a href="/pages/view/fantasy-football-big-board">Big Board</a></li>
+      <ul>
+        <li class="navElement"><a href="/">HOME</a></li>
+        <li class="navElement" title="football"><a href="/football">NFL</a></li>
+        <li class="navElement" title="baseball"><a href="/baseball">MLB</a></li>
+        <li class="navElement" title="basketball"><a href="/basketball">NBA</a></li>
+        <li class="navElement" title="collegeBasketball"><a href="/ncaa">NCAAB</a></li>
+        <li class="navElement"><a href="/mma">MMA</a></li>
+        <li class="navElement last"><form action="/blogs/doSearch" method="post"><input type="text" value="Search..." id="search" name="query"><input type="submit" style="display:none;"></form></li>
+      </ul>
+    </div><!--/navigation-->
+
+    <div class="subNavigation sportMain footballMain">
+      <ul>
+        <li class="subMenu">
+          AFC ▾
+          <ul class="navMenu">
+            <li><a href="/blogs/show/afc-north">North</a></li>
+            <li><a href="/blogs/show/afc-east">East</a></li>
+            <li><a href="/blogs/show/afc-south">South</a></li>
+            <li><a href="/blogs/show/afc-west">West</a></li>
           </ul>
-      </li>
-      <li>
-        <a href="/blogs/show/juice-this">Juice This</a>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <a href="/baseball">MLB</a>
-    <ul>
-      <li>
-        <a href="#">American League »</a>
-        <ul>
-          <li><a href="/blogs/show/al-east">East</a></li>
-          <li><a href="/blogs/show/al-central">Central</a></li>
-          <li><a href="/blogs/show/al-west">West</a></li>
-        </ul>
-      </li>
-      <li>
-        <a href="#">National League »</a>
-        <ul>
-          <li><a href="/blogs/show/nl-east">East</a></li>
-          <li><a href="/blogs/show/nl-central">Central</a></li>
-          <li><a href="/blogs/show/nl-west">West</a></li>
-        </ul>
-      </li>
-      <li><a href="/blogs/show/baseball-history">Baseball History</a></li>
-      <li><a href="/blogs/show/fantasy-baseball">Fantasy Baseball</a></li>
-    </ul>
-  </li>
-  <li>
-        <a href="/basketball">NBA</a>
-        <ul>
-          <li>
-            <a href="/blogs/show/eastern-conference">Eastern Conference</a>
-          </li>
-          <li>
-            <a href="/blogs/show/western-conference">Western Conference</a>
-          </li>
-          <li><a href="/blogs/show/nba-draft">NBA Draft</a></li>
-        </ul>    
-  </li>
-  <li>
-    <a href="/ncaa">NCAAB</a>
-    <ul>
-      <li><a href="/blogs/show/ncaa-editorial">NCAA Editorial</a></li>
-      <li><a href="/blogs/show/holding-court">Holding Court</a></li>
-      <li><a href="/blogs/show/top-25">Top 25</a></li>
-    </ul>
-  </li>
-  <li>
-    <a href="/mma">MMA</a>
-  </li>
-</ul>
-        <div class="search">
-          <form action="/blogs/doSearch/" method="post">
-              <input type="text" name="query">
-              <input type="submit" name="submit" value="Go">
-          </form>
-        </div>
-      </div>
-    </div><!-- ./navigation -->
+        </li>
+        <li class="subMenu">
+          NFC ▾
+          <ul class="navMenu" style="margin-top:-2px;">
+            <li><a href="/blogs/show/nfc-north">North</a></li>
+            <li><a href="/blogs/show/nfc-east">East</a></li>
+            <li><a href="/blogs/show/nfc-south">South</a></li>
+            <li><a href="/blogs/show/nfc-west">West</a></li>
+          </ul>
+        </li><li>        
+        </li><li class="subMenu">
+          <a href="http://thesportspost.com/blogs/show/nfl-draft">NFL Draft ▾</a>
+            <ul class="navMenu">
+              <li><a href="/blogs/show/draft-profile">Draft Profiles</a></li>
+            </ul>
+        </li>
+        <li class="subMenu">
+          <a href="/blogs/show/fantasy-football">Fantasy Football ▾</a>
+          <ul class="navMenu">
+            <li><a href="http://www.thesportspost.com/blogs/view/2013-fantasy-football-big-board-top-200">Big Board</a></li>
+          </ul>
+        </li>
+        <li class="subMenu"><a href="/blogs/show/juice-this">Juice This</a></li>
+      </ul>
+    </div>
 
-    <div class="width925auto topAd">
-      <div class="ad728x90">
-       <!-- ValueClick Media 728x90 LEADERBOARD CODE for The Sports Post -->
-      <script type="text/javascript">var vclk_options = {sid:81848,media_type:5,version:"1.3"};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=81848&amp;media_type=5&amp;version=1.3&amp;exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=81848&m=1&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=81848&tp=5&d=s&c=1&vcm_acv=1.3" width="728" height="90" border="1"></a></noscript>
-      <!-- ValueClick Media 728x90 LEADERBOARD CODE for The Sports Post -->
-      </div><!-- ./ad728x90 -->
+    <div class="subNavigation sportMain baseballMain">
+      <ul>
+        <li class="subMenu">
+          American League ▾
+          <ul class="navMenu" style="margin-top:-2px;">
+            <li><a href="/blogs/show/al-east">East</a></li>
+            <li><a href="/blogs/show/al-central">Central</a></li>
+            <li><a href="/blogs/show/al-west">West</a></li>
+          </ul>
+        </li><li>
+        </li><li class="subMenu">
+          National League ▾
+          <ul class="navMenu">
+            <li><a href="/blogs/show/nl-east">East</a></li>
+            <li><a href="/blogs/show/nl-central">Central</a></li>
+            <li><a href="/blogs/show/nl-west">West</a></li>
+          </ul>
+        </li>
+        <li class="subMenu"><a href="/blogs/show/baseball-history">Baseball History</a></li>
+        <li class="subMenu"><a href="/blogs/show/fantasy-baseball">Fantasy Baseball</a></li>
+    </ul></div>
 
-      <div class="followUs">
-        <a href="https://www.facebook.com/pages/The-Sports-Post/587266781298406"></a>
-        <a href="https://twitter.com/SportsPostHome"></a>
-      </div><!-- ./followUs -->
-      <div class="clear"></div>
-    </div><!-- ./width925auto --><div class="content">
-    <div class="contentLeft">
-        <div class="bigBoxBlueHeader">
-            <h1><img src="/images/refreshIcon.png"> Privacy Policy</h1>
+    <div class="subNavigation sportMain basketballMain">
+      <ul>
+        <li class="subMenu"><a href="/blogs/show/eastern-conference">Eastern Conference</a></li>
+        <li class="subMenu"><a href="/blogs/show/western-conference">Western Conference</a></li>
+        <li class="subMenu"><a href="/blogs/show/nba-draft">NBA Draft</a></li>
+    </ul></div>
 
-            <div style="padding:5px;">                           
-                <p><span style="color:rgb(34, 34, 34); font-family:arial,sans-serif">The Sports Post knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.</span><br>
+    <div class="subNavigation sportMain collegeBasketballMain ncaaMain">
+      <ul>
+        <li class="subMenu"><a href="/blogs/show/ncaa-editorial">NCAA Editorial</a></li>
+        <li class="subMenu"><a href="/blogs/show/holding-court">Holding Court</a></li>
+        <li class="subMenu"><a href="/blogs/show/top-25">Top 25</a></li>
+    </ul></div>
+
+    <div class="subNavigation sportMain mmaMain">
+    </div>
+
+    <div class="horizontalRule"></div>
+
+    <div class="bannerAd">
+              <!-- Default ad --><!-- 5A--><!-- 13 --><!-- ValueClick Media 728x90 LEADERBOARD CODE for The Sports Post -->
+<script type="text/javascript">var vclk_options = {sid:81848,media_type:5,version:"1.3"};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=81848&amp;media_type=5&amp;version=1.3&amp;exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=81848&m=1&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=81848&tp=5&d=s&c=1&vcm_acv=1.3" width="728" height="90" border="1"></a></noscript>
+<!-- ValueClick Media 728x90 LEADERBOARD CODE for The Sports Post -->    </div><!--/bannerAd-->
+
+    <div class="contentMainContainer">
+      <div class="articleLeft">
+        <h1>Privacy Policy</h1>
+
+
+        <div class="articleContent">                
+            <p><span style="color:rgb(34, 34, 34); font-family:arial,sans-serif">The Sports Post knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.</span><br>
 <br>
 <span style="color:rgb(34, 34, 34); font-family:arial,sans-serif">This Privacy Policy covers&nbsp;The Sports Post's treatment of personal information that&nbsp;The Sports Post&nbsp;gathers when you are on the&nbsp;The Sports Post&nbsp;website and when you use&nbsp;The Sports Post&nbsp;services. This policy does not apply to the practices of third parties that&nbsp;The Sports Post&nbsp;does not own or control, or to individuals that&nbsp;The Sports Post&nbsp;does not employ or manage.</span><br>
 <br>
@@ -287,125 +320,56 @@ If you decide to visit&nbsp;The Sports Post&nbsp;website, your visit and any pos
 <br>
 Effective Date of this Privacy Policy<br>
 <br>
-This Privacy Policy is effective as of 2/2/13 and last updated 4/14/13.</div>  
-            </div>  
-            
-            <div class="clear"></div>
-        </div><!-- ./bigBoxBlueHeader -->
-        <div class="pages">
-                                  
-        </div><!-- ./pages -->
-    </div><!-- ./contentLeft -->
+This Privacy Policy is effective as of 2/2/13 and last updated 4/14/13.</div>        </div><!-- ./articleContent -->
 
-    <div class="contentRight">
-                        <div class="rightBox" style="height:251px;">
 
-<!-- YB The Sports Post -->
-<div id="div-gpt-ad-1371246098290-0">
+        <div style="clear:both;"></div>
+
+
+</div><!-- ./articleLeft -->
+
+<div class="articleRight">
+        <!-- Default ad --><!-- 5B--><!-- 14 --><!-- ValueClick Media 300x250 Medium Rectangle CODE for The Sports Post -->
+<script type="text/javascript">var vclk_options = {sid:81848,media_id:6,media_type:8,version:"1.4"};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=81848&amp;media_id=6&amp;media_type=8&amp;version=1.4&amp;exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=81848&m=6&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=81848&m=6&tp=8&d=s&c=1&vcm_acv=1.4" width="300" height="250" border="1"></a></noscript>
+<!-- ValueClick Media 300x250 Medium Rectangle CODE for The Sports Post -->
+</div><!-- ./articleRight -->
+<div class="rightSideBarSkyscraper" style="margin-top:100px;">
+    <!-- Default ad --><!-- 5C--><!-- 15 --><!-- YB The Sports Post -->
 <script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1371246098290-0'); });
-</script>
-</div>
-                </div><!-- .rightbox -->
+  var ord = window.ord || Math.floor(Math.random() * 1e16);
+  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/N5702/adj/yb.thesportspost;sz=160x600;ord=' + ord + '?"><\/script>');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/N5702/adj/yb.thesportspost;sz=160x600;ord=5964348307219227?"></script>
+<noscript>
+<a href="http://ad.doubleclick.net/N5702/jump/yb.thesportspost;sz=160x600;ord=[timestamp]?">
+<img src="http://ad.doubleclick.net/N5702/ad/yb.thesportspost;sz=160x600;ord=[timestamp]?" width="160" height="600" />
+</a>
+</noscript></div>            <div class="clear"></div>
+            </div><!--/contentMainContainer-->
 
-                <div class="rightBox" style="height:251px;">
-                    <iframe src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/pages/The-Sports-Post/587266781298406&amp;width=300&amp;height=258&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color=%23ffffff&amp;header=false&amp;appId=439807889422271" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:258px;" allowtransparency="true"></iframe>
-                </div><!-- .rightbox -->
-
-                <div class="rightBox">
-                    <h1 class="shinyHeader">Most Read</h1>
-                    <div class="rightBoxLeft">
-                        
-                                            <div class="smallItem">
-                            <a href="/blogs/view/fantasy-baseball-three-up-three-down-week-of-may-1">
-                                <img src="/content/blogs/icons/311522_10151591161316113_651274167_n1.jpg" width="130" height="100">
-                            </a>
-                        </div><!-- ./smallItem -->
-                                                <div class="smallItem">
-                            <a href="/blogs/view/why-the-dh-should-stay-in-the-american-league">
-                                <img src="/content/blogs/icons/DH_rule1.jpg" width="130" height="100">
-                            </a>
-                        </div><!-- ./smallItem -->
-                                                <div class="smallItem">
-                            <a href="/blogs/view/the-end-is-near-for-georges-st-pierre">
-                                <img src="/content/blogs/icons/ufc-quick-quote-firas-zihabi-says-georges-st-pierre-wants-anderson-silva-and-would-fight-at-a-catchweight.0_standard_400_.0_.jpg" width="130" height="100">
-                            </a>
-                        </div><!-- ./smallItem -->
-                                                <div class="smallItem">
-                            <a href="/blogs/view/tactical-strikes-baseball-and-the-american-president">
-                                <img src="/content/blogs/icons/6124652372_99b6d60069_z.jpg" width="130" height="100">
-                            </a>
-                        </div><!-- ./smallItem -->
-                                                <div class="smallItem">
-                            <a href="/blogs/view/juice-this-wrigley-field-nfl-history-draft-tweeting">
-                                <img src="/content/blogs/icons/Wrigley.jpeg" width="130" height="100">
-                            </a>
-                        </div><!-- ./smallItem -->
-                                            </div>
-                    <div class="rightBoxRight">
-<!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for The Sports Post -->
-<script type="text/javascript">var vclk_options = {sid:81848,media_type:7,version:"1.3"};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=81848&amp;media_type=7&amp;version=1.3&amp;exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=81848&m=3&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=81848&tp=7&d=s&c=1&vcm_acv=1.3" width="160" height="600" border="1"></a></noscript>
-<!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for The Sports Post -->
-                    </div>
-                </div><!-- ./rightBox -->
-
-                <div class="rightBox" style="height:251px;">
-<!-- ValueClick Media 300x250 Medium Rectangle CODE for The Sports Post -->
-<script type="text/javascript">var vclk_options = {sid:81848,media_id:6,media_type:8,version:"1.3"};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=81848&amp;media_id=6&amp;media_type=8&amp;version=1.3&amp;exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=81848&m=6&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=81848&m=6&tp=8&d=s&c=1&vcm_acv=1.3" width="300" height="250" border="1"></a></noscript>
-<!-- ValueClick Media 300x250 Medium Rectangle CODE for The Sports Post -->
-                </div><!-- .rightbox -->
-
-
-                                                <div class="rightBox">
-                    <iframe id="yb_widget_61180" frameborder="0" scrolling="no" style="width: 300px; height: 484px; border: 0px;" src="http://www.yardbarker.com/widget/ybn/61180"></iframe>
-                    <div style="width: 300px; padding: 2px 0px 20px 0px; font-size: 11px; line-height: 12px; clear: both;">&nbsp;&nbsp;<a href="http://www.yardbarker.com/all_sports">All Sports Rumors &amp; News&nbsp;&gt;</a></div>
-                </div>
-
-    </div><!-- ./contentRight -->
-
-    <div class="clear"></div>
-</div><!-- ./content -->        <div class="footer">
-            <div class="width925auto">
-                <div class="box siteInformation">
-                    <h1>Football</h1>
-                    <a href="/football">Home</a>
-                    <a href="/blogs/show/afc">AFC</a>
-                    <a href="/blogs/show/nfc">NFC</a>
-                    <a href="/blogs/show/nfl-draft">NFL Draft</a>
-                    <a href="/blogs/show/fantasy-football">Fantasy Football</a>
-                </div>
-                <div class="box footballLeagues">
-                    <h1>Baseball</h1>
-                    <a href="/baseball">Home</a>
-                    <a href="/blogs/show/american-leauge">American League</a>
-                    <a href="/blogs/show/national-leauge">National League</a>
-                    <a href="/blogs/show/baseball-history">Baseball History</a>
-                </div><!-- ./box -->
-
-                <div class="box companyInformation">
-                    <h1>MMA</h1>
-                    <a href="/mma">Home</a>
-                </div><!-- ./box -->
-                <div class="box partners">
-                    <h1>Site Information</h1>
-                    <a href="/">Home</a>
-                    <a href="/pages/view/privacy-policy">Privacy Policy</a>
-                    <a href="/pages/view/about-us">About Us</a>
-                    <a href="/pages/view/contact-us">Contact Us</a>
+            <div class="footer">
+                <div class="footerLinks">
+                    <a href="/pages/view/about-us">About</a>
                     <a href="/pages/view/writer-application">Writer Application</a>
-                </div><!-- ./box -->
-                <div class="clear">
-            </div><!-- ./width925auto -->
+                    <a href="/pages/view/privacy-policy">Privacy Policy</a>
+                    <a href="/pages/view/contact-us">Contact Us</a>
+                </div><!-- ./footerLinks -->
+                <div class="footerSearch">
+                    <h2>SIGN UP FOR OUR NEWSLETTER</h2>
+                    <div class="search">
+                        <form action="http://eepurl.com/DkLA5" target="_blank">
+                            <a href="http://eepurl.com/DkLA5" target="_blank"><img src="/images/searchGo.png" alt=""></a>
+                            <input type="text">
+                        </form>
+                    </div>
+                </div><!-- ./footerSearch -->
 
-            <div class="width925auto relative copy">
-                <div class="copyright">
-                    © 2013 The Sports Post <br>
-                    All Rights Reserved
-                </div>                  
+                <div class="clear"></div>
+            </div><!-- ./footer -->
+
+
+
             </div>
-        </div>
-    <!-- Include jQuery and Plugins -->    
     <script src="/js/superfish.js"></script>
     <script src="http://network.yardbarker.com/network/ybn_pixel/11773" type="text/javascript"></script> <noscript></noscript>
     
-</div></body></html>
+</body></html>
