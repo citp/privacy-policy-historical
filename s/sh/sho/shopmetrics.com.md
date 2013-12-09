@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopmetrics.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510082546id_/http%3A//www.shopmetrics.com/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmetrics.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209035817id_/http%3A//www.shopmetrics.com/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Shopmetrics, Inc. believes in protecting your privacy. When we collect personal 
 
 For the purposes of our policy, we use the following definition:
 
-“Personal Information” (PI) is any information that can be used to uniquely identify, contact, or locate a single person or that can be used with other sources to identify an individual. This includes but is not limited to: name, address, phone number, email address, race, nationality, ethnicity, origin, religious or political beliefs, age, gender, family status, etc. 
+“Personal Information” (PI) is any information that can be used to uniquely identify, contact, or locate a single person or that can be used with other sources to identify an individual. This includes but is not limited to: name, address, Phone number, E-mail address, race, nationality, ethnicity, origin, religious or political beliefs, age, gender, family status, etc. 
 
 These are the principles that Shopmetrics, Inc. (“the Company”) follows while managing your Personal Information: 
 
@@ -25,9 +25,10 @@ These are the principles that Shopmetrics, Inc. (“the Company”) follows whil
 Shopmetrics, Inc.  
 1920 W. Sylvania Ave.  
 Toledo, OH 43613, USA  
-phone: (419) 474-6672  
-fax: (866) 674-7244  
-e-mail: help@shopmetrics.com
+Phone: (800) 691-0288  
+Phone: (419) 474-6672  
+Fax: (866) 674-7244  
+E-mail: help@shopmetrics.com
 
 Shopmetrics, Inc. has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Shopmetrics, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
@@ -42,5 +43,5 @@ Shopmetrics, Inc. is not responsible for the content in external links on their 
 IP Addresses and Logging  
 The Shopmetrics platform uses logs extensively to help track processes in our system. Often times your IP address and account username are recorded in these logs. These logs may be kept for an indefinite amount of time. 
 
-Email  
-The ShopMetrics Platform has automated emailing functionality. ShopMetrics, Inc. and their clients may from time to time enable this feature sending messages that they believe may interest the Independent Contractors in the system. These emails may be personalized with the data submitted or calculated by the data submitted. Users will have the options to opt-out of certain emails. 
+E-mail  
+The ShopMetrics Platform has automated E-mailing functionality. ShopMetrics, Inc. and their clients may from time to time enable this feature sending messages that they believe may interest the Independent Contractors in the system. These E-mails may be personalized with the data submitted or calculated by the data submitted. Users will have the options to opt-out of certain E-mails. 
