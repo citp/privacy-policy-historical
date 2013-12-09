@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lomasrankiao.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610070137id_/http%3A//www.lomasrankiao.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lomasrankiao.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209214844id_/http%3A//www.lomasrankiao.com/privacy) for the most accurate reproduction.*
 
-# Privacy | LOMASRANKIAO
+# Privacy | Videos, Música y Noticias - LOMASRANKIAO
 
 LoMasRankiaO.com is committed to protecting your privacy online. We will not rent, sell or share your personal information with third parties, except when required by law.
 
