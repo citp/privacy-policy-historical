@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficultimatum.info privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620232242id_/http%3A//trafficultimatum.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficultimatum.info privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209193706id_/http%3A//trafficultimatum.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Traffic Ultimatum
 
