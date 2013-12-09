@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telmar.com privacy policy that was archived on 2010-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100214074609id_/http%3A//www.telmar.com/%3Fpage_id%3D359) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telmar.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209141253id_/http%3A//www.telmar.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | TELMAR WORLDWIDE
+# PRIVACY POLICY |
 
 **Telmar.com Privacy Policy**  
 Effective September 1, 2009
