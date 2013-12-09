@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515184318id_/http%3A//www.zarca.com/online-survey-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209025930id_/http%3A//www.zarca.com/online-survey-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -115,8 +115,8 @@ Zarca complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss S
 
 If you have questions about this Privacy Policy or the Site, you may contact us at [privacy@zarca.com](mailto:privacy@zarca.com)
 
-13454 Sunrise Valley Drive  
-Suite 440  
+2291 Wood Oak Drive  
+Suite 300  
 Herndon, VA 20171
 
 Last Updated: 12/05/2012
