@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the divestopedia.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530104845id_/http%3A//divestopedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divestopedia.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209011756id_/http%3A//www.divestopedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Divestopedia.com
 
-DIVESTOPEDIA.COM IS COMMITTED TO YOUR PRIVACY. TO LEARN MORE ABOUT THE INFORMATION WE COLLECT AND USE, THE SECURITY OF YOUR INFORMATION AND HOW AND WHEN WE SHARE IT, PLEASE READ THE PRIVACY POLICY BELOW. PLEASE READ THIS DOCUMENT CAREFULLY, AS IT GOVERNS YOUR USE OF THE SITE AND ALL SERVICES OFFERED THROUGH THE SITE. 
+Divestopedia.COM IS COMMITTED TO YOUR PRIVACY. TO LEARN MORE ABOUT THE INFORMATION WE COLLECT AND USE, THE SECURITY OF YOUR INFORMATION AND HOW AND WHEN WE SHARE IT, PLEASE READ THE PRIVACY POLICY BELOW. PLEASE READ THIS DOCUMENT CAREFULLY, AS IT GOVERNS YOUR USE OF THE SITE AND ALL SERVICES OFFERED THROUGH THE SITE. 
 
 This policy covers how Divestopedia.com treats personal information that we collect and receive, including information related to your past use of our products and services. Personal information is information about you that is personally identifiable such as your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
@@ -40,7 +40,7 @@ If you wish to subscribe to our newsletter(s) or alert system, we will use your 
 
 ## Use of Personal Information Posted on Forums
 
-If you use a forum on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+If you use a forum on this Website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
 
 ## Cookies
 
@@ -50,13 +50,13 @@ You can set up your browser to reject cookies or tell you when a cookie has been
 
 In addition to our cookies, Divestopedia.com may allow third parties that show advertisements on our site or participate in co-registration to set and access their own cookies on your computer. The cookies inserted by those third parties are not covered by Divestopedia.com Privacy Policy, but rather by the policies of those third parties. However, these third parties do not have access to Divestopedia.com cookies. 
 
-Divestopedia.com also uses Web beacons (also known as action tags or single pixel gifs) to allow us to count how many people have visited a certain page. This enables us to assess the popularity and effectiveness of the material posted on the Divestopedia.com website. Additionally, we sometimes use Web beacons to access Divestopedia.com cookies inside and outside our Web pages and in connection with Divestopedia.com products and services. A Web beacon is a transparent image placed on a Web page that sends a signal when a person visits that page. This enables us to assess the popularity and effectiveness of the material posted on the Divestopedia.com web site. We may also use Web beacons in connection with emails sent to Divestopedia.com users to let us know whether and when the email was opened. 
+Divestopedia.com also uses Web beacons (also known as action tags or single pixel gifs) to allow us to count how many people have visited a certain page. This enables us to assess the popularity and effectiveness of the material posted on the Divestopedia.com website. Additionally, we sometimes use Web beacons to access Divestopedia.com cookies inside and outside our Web pages and in connection with Divestopedia.com products and services. A Web beacon is a transparent image placed on a Web page that sends a signal when a person visits that page. This enables us to assess the popularity and effectiveness of the material posted on the Divestopedia.com website. We may also use Web beacons in connection with emails sent to Divestopedia.com users to let us know whether and when the email was opened. 
 
 We do link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
 ## Third-Party Ad Serving
 
-We send to your Web browser many of the advertisements you see when you use our network of websites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our Web pages. Because your Web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a Web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience or audience segment and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience it is trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you. 
+We send to your Web browser many of the advertisements you see when you use our network of websites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our Web pages. Because your Web browser must request these advertising banners from the ad network Website, these companies can send their own cookies to your cookie file, just as if you had requested a Web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience or audience segment and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience it is trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you. 
 
 We also use third-party ad servers to serve ads on our behalf across the Internet. They may collect anonymous information about your visits to Divestopedia.com, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a Web beacon or pixel tag, which is industry standard technology, used by most major websites. 
 
@@ -96,8 +96,8 @@ If you have questions or suggestions, please complete the form on our [Contact U
 
 Divestopedia Inc. o/a Divestopedia.com  
 Suite 104, 4207 - 98 Street NW  
-Edmonton, Alberta Canada T6E 5R7  
-Last updated Saturday, May 04, 2013  
+Edmonton, Alberta  Canada T6E 5R7  
+Last updated Thursday, October 31, 2013  
 
 
   
