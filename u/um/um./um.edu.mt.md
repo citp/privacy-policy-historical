@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the um.edu.mt privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630014307id_/http%3A//www.um.edu.mt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the um.edu.mt privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209232529id_/http%3A//www.um.edu.mt/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - University of Malta
 
@@ -26,8 +26,15 @@ The University web site uses cookies for certain applications, e.g. to remember 
 #### Email   
 
 
-If you contact the University of Malta by email, we keep a record of that correspondence for the purpose of conducting University business. We do not add any email addresses of those who communicate with the University through email to any mailing databases, nor do we pass this to any third party.  
+If you contact the University of Malta by email, we keep a record of that correspondence for the purpose of conducting University business. We do not add any email addresses of those who communicate with the University through email to any mailing databases, nor do we pass this to any third party.
 
+#### Contact Numbers
+
+The University of Malta may collect contact numbers through the use of web-based forms and surveys. In submitting your contact number/s online, you are agreeing that University staff may use your details solely for conducting the business of the University, and specifically for the purpose referred to on the web-based form or survey where the contact number/s are submitted.
+
+The contact numbers will not be supplied to any third party, save in the circumstances where the University uses a service provider in order to supply the University alert service, in which event such third party shall be duly bound to keep such numbers confidential and use them only for the purpose of providing such service.
+
+While the University alerts/messages that are sent to your contact number may also contain sponsored advertisements, the main content of such alerts/messages shall consist of University-related matters.
 
 #### Payment Card Details  
 
@@ -44,6 +51,3 @@ Queries about the Privacy Policy statement should be directed [here](mailto:webm
 
   
 
-
-30 June 2013  
-http://www.um.edu.mt/privacy 
