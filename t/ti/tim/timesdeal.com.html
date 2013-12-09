@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the timesdeal.com privacy policy that was archived on 2013-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513190109id_/http%3A//timesdeal.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timesdeal.com privacy policy that was archived on 2013-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209210738id_/http%3A//timesdeal.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -19,17 +19,22 @@
 <script type="text/javascript" async="" src="https://chuknu.sokrati.com/200/tracker.js"></script><script type="text/javascript" async="" src="https://in-ssl.effectivemeasure.net/em.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://media.timesdeal.com/js/html5.js"></script>
 <script type="text/javascript" src="http://media.timesdeal.com/js/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="http://media.timesdeal.com/js/jquery.mailcheck.js"></script>
-<script type="text/javascript" src="http://media.timesdeal.com/js/custom.js?j=21"></script>
+<script type="text/javascript" src="http://media.timesdeal.com/js/custom.js?v=10-12-13"></script>
 <script type="text/javascript" src="http://media.timesdeal.com/js/CheckanSetCookie.js"></script>
 <script type="text/javascript" src="http://media.timesdeal.com/js/common.js"></script>
-<link rel="stylesheet" type="text/css" href="http://timesdeal.com/css/fonts.css">
-<link id="newStyle" rel="stylesheet" type="text/css" href="http://timesdeal.com/css/newstyle.css?a=11">
-<link rel="stylesheet" type="text/css" href="http://timesdeal.com/css/dropkick.css">
-<link rel="stylesheet" type="text/css" href="http://timesdeal.com/css/recommend_style.css">
+<script type="text/javascript" src="http://media.timesdeal.com/js/jquery.infieldlabel.min.js"></script>
+<script type="text/javascript" src="http://media.timesdeal.com/js/ddmenu.js"></script>
+<link rel="stylesheet" type="text/css" href="http://timesdeal.com/css/fonts.css?v=10-12-13">
+<link id="newStyle" rel="stylesheet" type="text/css" href="http://timesdeal.com/css/newstyle.css?v=10-12-13">
+<link rel="stylesheet" type="text/css" href="http://timesdeal.com/css/dropkick.css?v=10-12-13">
+<link rel="stylesheet" type="text/css" href="http://timesdeal.com/css/recommend_style.css?v=10-12-13">
+<link rel="stylesheet" type="text/css" href="http://timesdeal.com/css/ddmenu.css?v=10-12-13">
+
+<link href="https://plus.google.com/+timesdeal/posts" rel="publisher">
 <!--[if lt IE 9]>
 <link id="size-stylesheet" rel="stylesheet" href="http://timesdeal.com/css/IE.css?a=11" type="text/css"  />
 <![endif]-->
-	<link rel="stylesheet" type="text/css" href="http://timesdeal.com/css/innerPage.css?a=11">
+	<link rel="stylesheet" type="text/css" href="http://timesdeal.com/css/innerPage.css?v=10-12-13">
 <script src="http://timesdeal.com/js/jquery.dropkick-1.0.0.js" type="text/javascript" charset="utf-8"></script>
 <!-- Begin Of GA Code -->
 <script type="text/javascript">
@@ -58,8 +63,7 @@
 </noscript>
 <!-- End comScore Tag --></head>
 <body>
-<div class="layout">
- <div class="page">
+<div class="layoutSmall"> <div class="page">
 <!-- Header Start -->
 <!-- BEGIN EFFECTIVE MEASURE CODE -->
 <!-- COPYRIGHT EFFECTIVE MEASURE -->
@@ -77,6 +81,83 @@
 <!--END EFFECTIVE MEASURE CODE -->
 
 <script>
+
+$(document).ready(function(){
+
+    
+	var gridheight	=	$(".boxgrid2").children('img').attr("height");
+	var gridwidth	=	$(".boxgrid2").children('img').attr("width");
+	
+	
+	var boxgrid2css = {
+		width: gridwidth,
+		height: gridheight
+	}
+	
+	/*
+	var boxcaption2css	=	{
+		height: gridheight,
+		top:gridheight		
+	}
+	
+	var captionfull2_boxcaption2	{
+		top: gridheight
+	}
+	$('.boxcaption2').css(boxcaption2css);
+	$('.captionfull2 .boxcaption2 ').css(captionfull2_boxcaption2);
+	*/
+	
+	
+	
+	
+	$('.boxgrid2').css(boxgrid2css);
+        
+        
+        $( "ul.list-coupan >  li, .boxgrid2.captionfull2" ).live({
+			mouseover: function() {
+			$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:160});
+			},
+			mouseout: function() {
+			$(".cover", this).stop().animate({top:gridheight},{queue:false,duration:160});
+			}
+		});
+        
+        
+        
+//	
+//	$('ul.list-coupan >  li').hover( function(){
+//		$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:160});
+//	}, function() {
+//		$(".cover", this).stop().animate({top:gridheight},{queue:false,duration:160});
+//	});
+	
+	
+	$('.boxgrid3.captionfull3').hover(function(){
+		$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:160});
+	}, function() {
+		$(".cover", this).stop().animate({top:'100px'},{queue:false,duration:160});
+	});
+	
+	$('.boxgrid4.captionfull4').hover(function(){
+		$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:160});
+	}, function() {
+		$(".cover", this).stop().animate({top:'100px'},{queue:false,duration:160});
+	});
+	
+	$('.boxgrid5.captionfull5').hover(function(){
+		$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:160});
+	}, function() {
+		$(".cover", this).stop().animate({top:'51px'},{queue:false,duration:160});
+	});
+	
+	$('.boxgrid-g.captionfull-g').hover(function(){
+		$(".cover", this).stop().animate({top:'0px'},{queue:false,duration:160});
+	}, function() {
+		$(".cover", this).stop().animate({top:'125px'},{queue:false,duration:160});
+	});
+
+});
+
 $(document).ready(function(){
 var defaultArr = [ 'Enter your email address','Type in your email address','Invalid Email','Email Addresss'];
 $('input:text').unbind('focus');
@@ -132,6 +213,7 @@ $('input:text').each(function(){
 });
 $(document).ready(function() 
 {
+	
 	var USEREMAIL			= Get_Cookie("USEREMAIL");
 	//if(USEREMAIL !=null  && USEREMAIL !="" && USEREMAIL!="undefined")
 	var UserId				= Get_Cookie("UI");
@@ -145,8 +227,16 @@ $(document).ready(function()
 	}	
 	$.post('http://timesdeal.com/wesaved.php',postdata,function(data)
 	{	
-		document.getElementById("wesaved").innerHTML = data;	
-		$("#wesaved").show();
+	//	document.getElementById("wesaved").innerHTML = data;	
+		var USCL			= Get_Cookie("USCL");
+		if((USCL!=null && USCL!="undefined"))
+		{
+			//document.getElementById('USCL').innerHTML = "Remaining "+ parseInt(5-USCL) +" Deals";
+
+			//document.getElementById('Itemcount').innerHTML = "You have <span>"+parseInt(USCL)+"/5 items</span> in your cart";
+			document.getElementById('countShow').innerHTML = "("+parseInt(USCL)+"/30 Vouchers Per Month)";
+		}	
+	//	$("#wesaved").show();
 	});	
 
 	var USCL			= Get_Cookie("USCL");
@@ -155,204 +245,324 @@ $(document).ready(function()
 		//document.getElementById('USCL').innerHTML = "Remaining "+ parseInt(5-USCL) +" Deals";
 
 		//document.getElementById('Itemcount').innerHTML = "You have <span>"+parseInt(USCL)+"/5 items</span> in your cart";
-		document.getElementById('countShow').innerHTML = "("+parseInt(USCL)+"/5)";
+		document.getElementById('countShow').innerHTML = "("+parseInt(USCL)+"/30 Vouchers Per Month)";
+	}
+/*
+	 Commented the Independence day theme*/
+		//$('body').css('background-image', 'url(http://timesdeal.com/images/moodbg/LBmain.jpg)');
+	/*	$('body').css('background-image', 'url(http://timesdeal.com/images/Diwali_td-04.jpg)');
+		$('body').css('background-repeat', 'no-repeat');
+		$('body').css('background-position', 'center top');
+	//	$('body').css('background-size', '100%');
+		$('body').css('background-attachment', 'fixed');*/
+	
+
+});
+var fetchcounter = 1;
+function fetchUserDeatils(){	
+	if(fetchcounter){
+		var USEREMAIL			= Get_Cookie("USEREMAIL");
+		var UserId				= Get_Cookie("UI");
+		if((UserId!=null && UserId!="undefined") &&  (USEREMAIL !=null  && USEREMAIL !="" && USEREMAIL!="undefined"))
+		{
+			var postdata			= {'ue':USEREMAIL,'ud':UserId};
+		}	
+		$.post('http://timesdeal.com/getuser.php',postdata,function(data)
+		{
+			document.getElementById("showUserDeals").innerHTML = data;	
+		
+		});
+		fetchcounter = 0;	
 	}
 	
-});
-function fetchUserDeatils()
-{
-	
-	var USEREMAIL			= Get_Cookie("USEREMAIL");
-	var UserId				= Get_Cookie("UI");
-	if((UserId!=null && UserId!="undefined") &&  (USEREMAIL !=null  && USEREMAIL !="" && USEREMAIL!="undefined"))
-	{
-		var postdata			= {'ue':USEREMAIL,'ud':UserId};
-	}	
-	$.post('http://timesdeal.com/getuser.php',postdata,function(data)
-	{	
-		document.getElementById("showUserDeals").innerHTML = data;	
-	
-	});	
 }
+function resetUserDetails(){
+	fetchcounter = 1;
+}
+ var xhr ="";
+  //$("#searchDbCity").unbind();
+function fetchCitySearch(frombutton){
+
+          //   alert("ssdfsdfs");
+   
+          
+       var searchText =  $("#searchCity").val();
+       if($.trim(searchText) == ""){
+           $("#searchCity").val(""); 
+           $("#fetchCityList").html("");
+          return 0; 
+       }
+                    if(xhr !="")
+                    {xhr.abort();}
+                    xhr = $.ajax({
+                        type: "POST",
+                        url: SITEPATH+"/searchCity.php",
+                        data: "searchText="+searchText+"&rendom="+ Math.random(),
+                        success: function(data){
+                          //  console.log(data);
+                           if(parseInt(data) == 0){
+                               var text = '<div style="text-align:center;border-bottom:1px dotted;height:20px;color:#fff;"> No city found.</div>';
+                               $("#fetchCityList").html(text);
+                              // $("#searchDbCity").unbind();
+                               return 0;
+                           } else {
+                               if(frombutton)
+                                   {
+                                      submitSearch();  
+                                   }else{
+                            $("#fetchCityList").html(data);
+                           //  $("#searchDbCity").bind();
+                           return 1;
+                           }
+                           }
+                        }
+                    });
+
+ }
+function submitSearch(){
+  //  var serachText = form.byloc.value;
+  //  form.action = '/'+serachText.toLowerCase()+'-deals';
+   // form.submit();
+    var serachText =$("#searchCity").val();
+   window.location =  '/'+serachText.toLowerCase()+'-deals';
+    
+} 
 
 </script> 
 <!--a href="#"><img  src="http://media.timesdeal.com/images/topBannerTD.jpg" border="0" width="960" height="57" /></a-->
 
-				<div class="bannerDivClass" style="background:#fff;width:100%;text-align:center; position:relative; height:56px;">
-											<a href="http://bit.ly/11527Tn" target="_blank">
-												<img src="http://timesdeal.com/media/globals/2013/May/2013050617_143_wap_website_android-banner.jpg" border="0px" style="position:relative; left:0px;">
-											</a>
-									</div>	
-				
-			
+
+
+
+
+
+<!-- HEADER START -->
 <header>
-	<hgroup class="hg1">
-    	<div class="headTop" style="border:0px;display:none;">
-        
-		
-         
-		
-        <div class="call" style=""><span class="phIcons"></span>Customer Care - <strong>011-33518888</strong>  |  <strong>49108888 </strong><span class="time">(8am to 8pm, 7 days a week)</span></div>
-        </div>
-        <div class="headBot">
-        		<div class="logo">
-                <a href="http://timesdeal.com/delhi-ncr-deals" class="tdlogo">timesdeal Logo</a>
-                <a href="http://timesdeal.com/timesdealonmobile" class="nowOnMobile"><img src="http://media.timesdeal.com/images/nowOnMobile.png" width="76" height="41"></a>
-                </div>
-               
-                <ul class="changeCity">
-				   <!--  <span id='cityspace' ><h2>Delhi</h2></span>  -->
-				   <span id="cityspace"></span>
-             		<li><a href="javascript:void(0)" onclick="_gaq.push(['_trackEvent','Top','locator','changecity']);">Change city</a>
-                        <ul class="showcity">                           
-						  
-		    <li>  
-               <ul class="subM">
-                  <li onclick="_gaq.push(['_trackEvent','Top','locator','delncr']);"><a onclick="changecity('92','')" href="http://timesdeal.com/delhi-ncr-deals"><strong>Delhi-NCR</strong></a></li>
-		
-					<li><a href="http://timesdeal.com/delhi-ncr-deals/Central-&amp;-South-Delhi" onclick="_gaq.push(['_trackEvent','Top','locator','delcs']);;changezonecity('6','Central &amp; South Delhi')">Central &amp; South Delhi</a></li>
-					<li><a href="http://timesdeal.com/delhi-ncr-deals/North-&amp;-West-Delhi" onclick="_gaq.push(['_trackEvent','Top','locator','delnw']);;changezonecity('7','North &amp; West Delhi')">North &amp; West Delhi</a></li>
-					<li><a href="http://timesdeal.com/delhi-ncr-deals/Gurgaon" onclick="_gaq.push(['_trackEvent','Top','locator','ggn']);;changezonecity('8','Gurgaon')">Gurgaon</a></li>
-					<li><a href="http://timesdeal.com/delhi-ncr-deals/Noida-&amp;-East-Delhi" onclick="_gaq.push(['_trackEvent','Top','locator','noidadelest']);;changezonecity('9','Noida &amp; East Delhi')">Noida &amp; East Delhi</a></li>
-	
-
-		</ul>
-             </li> 
-						  
-		    <li>  
-               <ul class="subM">
-                  <li onclick="_gaq.push(['_trackEvent','Top','locator','mum']);"><a onclick="changecity('354','')" href="http://timesdeal.com/mumbai-deals"><strong>Mumbai</strong></a></li>
-		
-					<li><a href="http://timesdeal.com/mumbai-deals/Western-Suburbs" onclick="_gaq.push(['_trackEvent','Top','locator','mumwsub']);;changezonecity('2','Western Suburbs')">Western Suburbs</a></li>
-					<li><a href="http://timesdeal.com/mumbai-deals/South-Mumbai" onclick="_gaq.push(['_trackEvent','Top','locator','mumsouth']);;changezonecity('3','South Mumbai')">South Mumbai</a></li>
-					<li><a href="http://timesdeal.com/mumbai-deals/Central-Suburbs" onclick="_gaq.push(['_trackEvent','Top','locator','mumcsub']);;changezonecity('4','Central Suburbs')">Central Suburbs</a></li>
-					<li><a href="http://timesdeal.com/mumbai-deals/New-Mumbai" onclick="_gaq.push(['_trackEvent','Top','locator','mumnew']);;changezonecity('5','New Mumbai')">New Mumbai</a></li>
-	
-
-		</ul>
-             </li> 
-						  
-						  
-						  
-						  
-						  
-						  
-						  
-						  
-              		<li>
-                         <ul class="subM">       
-                          <li><a href="#"><strong>Other Major Cities</strong></a></li> 
-						  
-						  
-						  
-                                <li onclick="_gaq.push(['_trackEvent','Top','locator','bng']);"><a onclick="changecity('222','')" href="http://timesdeal.com/bangalore-deals">Bangalore</a></li>  
-						  
-                                <li onclick="_gaq.push(['_trackEvent','Top','locator','pne']);"><a onclick="changecity('358','')" href="http://timesdeal.com/pune-deals">Pune</a></li>  
-						  
-                                <li onclick="_gaq.push(['_trackEvent','Top','locator','klk']);"><a onclick="changecity('646','')" href="http://timesdeal.com/kolkata-deals">Kolkata</a></li>  
-						  
-                                <li onclick="_gaq.push(['_trackEvent','Top','locator','chn']);"><a onclick="changecity('454','')" href="http://timesdeal.com/chennai-deals">Chennai</a></li>  
-						  
-                                <li onclick="_gaq.push(['_trackEvent','Top','locator','hyd']);"><a onclick="changecity('8','')" href="http://timesdeal.com/hyderabad-deals">Hyderabad</a></li>  
-						  
-                                <li onclick="_gaq.push(['_trackEvent','Top','locator','ahm']);"><a onclick="changecity('116','')" href="http://timesdeal.com/ahmedabad-deals">Ahmedabad</a></li>  
-						  
-                                <li onclick="_gaq.push(['_trackEvent','Top','locator','cha']);"><a onclick="changecity('81','')" href="http://timesdeal.com/chandigarh-deals">Chandigarh</a></li>  
-						  
-                                <li onclick="_gaq.push(['_trackEvent','Top','locator','ain']);"><a onclick="changecity('663','')" href="http://timesdeal.com/all-india-deals">All-India</a></li>  
-                                
-                              </ul>
-                    </li>                             
-                        </ul>
-                    </li>
-                </ul>
-                
+<div id="header-topNew">
+    <div class="logoNew">
+          <a href="http://timesdeal.com/delhi-ncr-deals"><img src="http://timesdeal.com/images/logo.png" border="0"></a>
+        <div style="width:110px;">
+         <ul class="changeCity">
+          <li><a href="javascript:void(0)" class="city_disp">DELHI-NCR <span style="margin-left:5px"><img src="http://timesdeal.com/images/down-arrow.png"></span></a>
+	    	<div class="showcity top-underlogo-nav">
+	    		 
+		    	<div class="search-navbox">
+		           <!--form name="searchlocation" method="post"-->
+		        		<p class="popup-input-field">
+                                                        <input type="hidden" name="location" value="search">
+		        				<input type="text" placeholder="Select your city here" name="byloc" id="searchCity" onkeyup="fetchCitySearch();" autocomplete="off">
+		                        <button onclick="fetchCitySearch(true);" id="searchDbCity">search</button>
+		        		</p>
+                            <!--/form-->
+		        		
+		        </div>
+                    
+                    <div class="search-under-category" id="fetchCityList">
+                        
+                    </div>
+	        											  
+					                  <div class="search-under-category">
+	                  	<h2 onclick="_gaq.push(['_trackEvent','Top','locator','delncr']);"><a style="color:#fff;" onclick="changecity('92','')" href="http://timesdeal.com/delhi-ncr-deals">Delhi-NCR</a></h2>
+	                  	<ul>
+	                 			                 	 	<li><a href="http://timesdeal.com/delhi-ncr-deals/Central-&amp;-South-Delhi" onclick="_gaq.push(['_trackEvent','Top','locator','delcs']);;changezonecity('6','Central &amp; South Delhi')">Central &amp; South Delhi</a></li>
+	                 	
+	                 	                 	 	<li><a href="http://timesdeal.com/delhi-ncr-deals/North-&amp;-West-Delhi" onclick="_gaq.push(['_trackEvent','Top','locator','delnw']);;changezonecity('7','North &amp; West Delhi')">North &amp; West Delhi</a></li>
+	                 	
+	                 	                 	 	<li><a href="http://timesdeal.com/delhi-ncr-deals/Gurgaon" onclick="_gaq.push(['_trackEvent','Top','locator','ggn']);;changezonecity('8','Gurgaon')">Gurgaon</a></li>
+	                 	
+	                 	                 	 	<li><a href="http://timesdeal.com/delhi-ncr-deals/Noida-&amp;-East-Delhi" onclick="_gaq.push(['_trackEvent','Top','locator','noidadelest']);;changezonecity('9','Noida &amp; East Delhi')">Noida &amp; East Delhi</a></li>
+	                 	
+	                  </ul>
+	                  </div>
+				        <div class="clr"></div>
+				        <div class="double-border-cat"></div>
+	                 										  
+					                  <div class="search-under-category">
+	                  	<h2 onclick="_gaq.push(['_trackEvent','Top','locator','mum']);"><a style="color:#fff;" onclick="changecity('354','')" href="http://timesdeal.com/mumbai-deals">Mumbai</a></h2>
+	                  	<ul>
+	                 			                 	 	<li><a href="http://timesdeal.com/mumbai-deals/Western-Suburbs" onclick="_gaq.push(['_trackEvent','Top','locator','mumwsub']);;changezonecity('2','Western Suburbs')">Western Suburbs</a></li>
+	                 	
+	                 	                 	 	<li><a href="http://timesdeal.com/mumbai-deals/South-Mumbai" onclick="_gaq.push(['_trackEvent','Top','locator','mumsouth']);;changezonecity('3','South Mumbai')">South Mumbai</a></li>
+	                 	
+	                 	                 	 	<li><a href="http://timesdeal.com/mumbai-deals/Central-Suburbs" onclick="_gaq.push(['_trackEvent','Top','locator','mumcsub']);;changezonecity('4','Central Suburbs')">Central Suburbs</a></li>
+	                 	
+	                 	                 	 	<li><a href="http://timesdeal.com/mumbai-deals/New-Mumbai" onclick="_gaq.push(['_trackEvent','Top','locator','mumnew']);;changezonecity('5','New Mumbai')">New Mumbai</a></li>
+	                 	
+	                  </ul>
+	                  </div>
+				        <div class="clr"></div>
+				        <div class="double-border-cat"></div>
+	                 										  
+														  
+														  
+														  
+														  
+														  
+														  
+														  
+					                <div class="search-under-category">
+		        		<h2>other major cities</h2>
+		                <ul>
+		                														  
+																				  
+																				  
+														  <li onclick="_gaq.push(['_trackEvent','Top','locator','bng']);"><a onclick="changecity('222','')" href="http://timesdeal.com/bangalore-deals">Bangalore</a></li>  
+																				  
+														  <li onclick="_gaq.push(['_trackEvent','Top','locator','pne']);"><a onclick="changecity('358','')" href="http://timesdeal.com/pune-deals">Pune</a></li>  
+																				  
+														  <li onclick="_gaq.push(['_trackEvent','Top','locator','klk']);"><a onclick="changecity('646','')" href="http://timesdeal.com/kolkata-deals">Kolkata</a></li>  
+																				  
+														  <li onclick="_gaq.push(['_trackEvent','Top','locator','chn']);"><a onclick="changecity('454','')" href="http://timesdeal.com/chennai-deals">Chennai</a></li>  
+																				  
+														  <li onclick="_gaq.push(['_trackEvent','Top','locator','hyd']);"><a onclick="changecity('8','')" href="http://timesdeal.com/hyderabad-deals">Hyderabad</a></li>  
+																				  
+														  <li onclick="_gaq.push(['_trackEvent','Top','locator','ahm']);"><a onclick="changecity('116','')" href="http://timesdeal.com/ahmedabad-deals">Ahmedabad</a></li>  
+																				  
+														  <li onclick="_gaq.push(['_trackEvent','Top','locator','cha']);"><a onclick="changecity('81','')" href="http://timesdeal.com/chandigarh-deals">Chandigarh</a></li>  
+																				  
+														  <li onclick="_gaq.push(['_trackEvent','Top','locator','ain']);"><a onclick="changecity('663','')" href="http://timesdeal.com/all-india-deals">All-India</a></li>  
+							                                
+		               	</ul>
+			        </div>
+			        <div class="clr"></div>
+			        
+	      </div>
+	      </li>
+        </ul>
+    </div>
+ </div>
+   <div style="width:auto; float:left;">
+		   <nav id="ddmenu">
+		    <ul>
+		    	<li class=""><a href="http://timesdeal.com/delhi-ncr-deals">Deal</a>
+		        	<div>
+		        	<div style="display: none; position: absolute; float: left; top: auto; bottom: 0px; padding-top: 20px; padding-bottom: 20px;">
+		        	<div class="column">
+		                  <p class="first-para-submenu current">
+		                   		<a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Beauty']);" href="http://timesdeal.com/delhi-ncr-deals/Beauty-Services/90"><img height="80px;" src="http://timesdeal.com/images/Beauty-gray.jpg"><span>beauty services</span></a>
+		                   </p>
+		                    
+		                    <p class="first-para-submenu">
+		                    <a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Restaurants']);" href="http://timesdeal.com/delhi-ncr-deals/food-and-beverage/89"><img height="80px;" src="http://timesdeal.com/images/Food-gray.jpg"><span>food &amp; beverage</span></a>
+		                    </p>
+		                    
+		                    <p class="first-para-submenu">
+		                    <a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Fitness']);" href="http://timesdeal.com/delhi-ncr-deals/Health-&amp;-Fitness/35"><img height="80px;" src="http://timesdeal.com/images/Health-gray.jpg"><span>health &amp; fitness</span></a>
+		                    </p>
+		                    
+		                    <p class="first-para-submenu">
+		                    	<a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Entertainment']);" href="http://timesdeal.com/delhi-ncr-deals/Entertainment/6"><img height="80px;" src="http://timesdeal.com/images/Entertainment-gray.jpg"><span>entertainment</span></a>
+		                    </p>
+		                    
+		                    <p class="first-para-submenu">
+		                   	 <a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Services']);" href="http://timesdeal.com/delhi-ncr-deals/Services/5"><img height="80px;" src="http://timesdeal.com/images/Services-gray.jpg"><span>services</span></a>
+		                    </p>
+		                 </div>
+		                 </div>
+		        		</div>
+		            
+		        </li>
+		        <li class=""><a href="http://timesdeal.com/delhi-ncr-deals/travel/54" rel="" id="trv" class="" onclick="_gaq.push(['_trackEvent','Top','Select','Travel']);">TRAVEL</a>
+		            <div id="travelMenu">
+		            	<div style="display: none; position: absolute; float: left; top: auto; bottom: 0px; padding-top: 20px; padding-bottom: 20px;">
+		                <div class="column">
+		                   <!--p class="first-para-submenu current">
+		                    <a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Resort']);"  href="http://timesdeal.com/delhi-ncr-deals/Resort/75"><img height="80px;"  src="http://timesdeal.com/images/resort-gray.jpg" /><span>Resort</span></a>
+		                    </p-->
+		                    
+		                    <p class="first-para-submenu">
+		                    <a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Accommodation']);" href="http://timesdeal.com/delhi-ncr-deals/Accommodation/91"><img height="80px;" src="http://timesdeal.com/images/accomodation-gray.jpg"><span>Accommodation</span></a>
+		                    </p>
+		                    
+		                    <p class="first-para-submenu">
+		                    <a onclick="_gaq.push(['_trackEvent','TopSub','Deals','WeekendGetaways']);" href="http://timesdeal.com/delhi-ncr-deals/Weekend-Getaways/105"><img height="80px;" src="http://timesdeal.com/images/weekendgetaways-gray.jpg"><span>Weekend Getaways</span></a>
+		                    </p>
+		                    
+		                    <p class="first-para-submenu">
+		                    <a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Domestic-Vacation']);" href="http://timesdeal.com/delhi-ncr-deals/Domestic-Vacation/107"><img height="80px;" src="http://timesdeal.com/images/domesticvacation-gray.jpg"><span>Domestic Vacation</span></a>
+		                    </p>
+		                    
+		                    <p class="first-para-submenu">
+		                    <a onclick="_gaq.push(['_trackEvent','TopSub','Deals','International-Vacation']);" href="http://timesdeal.com/delhi-ncr-deals/International-Vacation/108"><img height="80px;" src="http://timesdeal.com/images/internationalvacation-gray.jpg"><span>International Vacation</span></a>
+		                    </p>
+		                 </div>
+		                 </div>
+		            </div>
+		        </li>
+		        
+		        
+		        <li><a href="http://timesdeal.com/products" onclick="_gaq.push(['_trackEvent','Top','Select','Product']);" class="">PRODUCT</a> </li>
+		        
+		        <li><a href="/coupons/" onclick="_gaq.push(['_trackEvent','Top','Select','coupons']);" class="">COUPONS</a>
+				
+				
+				<div id="couponMenu">
+		            	<div style="display: none; position: absolute; float: left; top: auto; bottom: 0px; padding-top: 20px; padding-bottom: 20px;">
+		                <div class="column">
+		                    <p class="first-para-submenu">
+		                    <a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Accommodation']);" href="http://timesdeal.com/coupons-for-female"><img height="80px;" src="http://timesdeal.com/images/couponcategory/women-gray.jpg"><span>For Women</span></a>
+		                    </p>
+		                    
+		                    <p class="first-para-submenu">
+		                    <a onclick="_gaq.push(['_trackEvent','TopSub','Deals','WeekendGetaways']);" href="http://timesdeal.com/coupons-for-male"><img height="80px;" src="http://timesdeal.com/images/couponcategory/men-gray.jpg"><span>For Men</span></a>
+		                    </p>
+		                    
+							<p class="first-para-submenu">
+		                    <a onclick="_gaq.push(['_trackEvent','TopSub','Deals','WeekendGetaways']);" href="http://timesdeal.com/coupons-for-family"><img height="80px;" src="http://timesdeal.com/images/couponcategory/family-gray.jpg"><span>For Family</span></a>
+		                    </p>
+							
+		                    <p class="first-para-submenu">
+		                    <a onclick="_gaq.push(['_trackEvent','TopSub','Deals','International-Vacation']);" href="http://timesdeal.com/coupons-for-kids"><img height="80px;" src="http://timesdeal.com/images/couponcategory/kids-gray.jpg"><span>For Kids</span></a>
+		                    </p>
+		                 </div>
+		                 </div>
+		            </div>
+				</li>
+		        
+		    </ul>
+		</nav>
+    </div>
+         <div id="register">
                 <div class="getDeal">  
-                				                <div class="loginAct" style="float:right;" id="logindetails"></div>
-                                                <div id="cartDetails" class="cartInfo" style="display:none;">
-			 <div onmouseover="fetchUserDeatils()" class="cartNum">cart<span id="countShow">(0/5)  </span></div>
-             <div class="cartList">
-					<div id="showUserDeals">
-                    <span class="Itemcount" id="Itemcount">You have <span>0/5 items</span> in your cart</span>
-					
-                    <ul class="dealsList" id="showDeals">
-                        <!--li><a href="#">96% off on Full Mouth Cleaning & MORE @ Gentle Dental Care</a></li>
-                        <li><a href="#">Enjoy Buy 1 & Get 1 Free Offer on Any Beverage @ Barista Lavazza </a></li>
-                        <li><a href="#">86% off on Facial, Bleach, Manicure & Haircut @ The Fidalgo</a></li>
-                        <li><a href="#">Give Your Car a Pamper Session with 81% off @ Carnation Sahibabad- Ghaziabad, Sector </a></li-->
-                    </ul>            
-                    <span class="totSave">Total Saving Today: <span>&nbsp;</span></span>
-					</div>
-                    <div class="orderH"><a href="/order-history">View Order History</a></div>
-             </div>
-         </div>
-                <div class="Saver" id="wesaved" style="display:none;">
-                
-                	                
+				<div class="loginAct" style="float:right;" id="logindetails"></div>
+				<div id="cartDetails" class="cartInfo" style="display:none;">
+				<div onmouseover="fetchUserDeatils()" onmouseout="resetUserDetails()" class="cartNum" style="color:#fff;">cart<span id="countShow">(0/30 Vouchers Per Month)  </span></div>
+				 <div class="cartList">
+						<div id="showUserDeals">
+						<span class="Itemcount" id="Itemcount">Today You have <span>0/5 Deals</span> in your cart</span>
+						
+						<ul class="dealsList" id="showDeals">
+							<!--li><a href="#">96% off on Full Mouth Cleaning & MORE @ Gentle Dental Care</a></li>
+							<li><a href="#">Enjoy Buy 1 & Get 1 Free Offer on Any Beverage @ Barista Lavazza </a></li>
+							<li><a href="#">86% off on Facial, Bleach, Manicure & Haircut @ The Fidalgo</a></li>
+							<li><a href="#">Give Your Car a Pamper Session with 81% off @ Carnation Sahibabad- Ghaziabad, Sector </a></li-->
+						</ul>            
+						<span class="totSave">Total Saving Today: <span>&nbsp;</span></span>
+						</div>
+						<div class="orderH"><a href="/order-history">View Order History</a></div>
+				 </div>
+				</div>
                 </div>
-                
-
-                	
-                </div>
-        </div>        
-    </hgroup>
-    <div class="clr"></div>
-   	<hgroup class="hg2">
-
-    		<div class="hotClick">
-            
-           	<a href="http://www.youtube.com/user/timesdeal/videos" target="_blank" class="videosTab">Videos</a>
-        	<!-- <a href="http://timesdeal.com/delhi-ncr-deals/hot-deals" onClick="_gaq.push(['_trackEvent','Top','Select','Hotdeals']);" class="hotDeal">Hot deals</a> -->
-            <a class="ref popup" rel="http://timesdeal.com/tpl/referafrndpopup.php" href="javascript:void(0);" popwidth="760">Refer &amp; Win</a>
-        </div>
-
-		<nav class="mainNav">
-	<ul>
-        <!-- <li class=""><a href="http://timesdeal.com" class="mLnk ">Deals<span></span></a> -->
-        
-        <li class=""><a href="http://timesdeal.com/delhi-ncr-deals" class="mLnk ">Deals<span></span></a>
-        
-        	<ul class="hasSub" style="display:block;">
-				<li class="elm1"><a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Beauty']);" href="http://timesdeal.com/delhi-ncr-deals/Beauty-Services/90">Beauty Services</a></li>
-                <li><a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Restaurants']);" href="http://timesdeal.com/delhi-ncr-deals/food-and-beverage/89">Food &amp; Beverage</a></li>
-                <li><a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Fitness']);" href="http://timesdeal.com/delhi-ncr-deals/Health-&amp;-Fitness/35">Health &amp; Fitness</a></li>
-                <li><a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Entertainment']);" href="http://timesdeal.com/delhi-ncr-deals/Entertainment/6">Entertainment</a></li>
-                <li><a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Services']);" href="http://timesdeal.com/delhi-ncr-deals/Services/5">Services</a></li>
-            </ul>
-        </li>
-        <li class=""><a href="http://timesdeal.com/delhi-ncr-deals/travel/54" rel="" class="mLnk " onclick="_gaq.push(['_trackEvent','Top','Select','Travel']);">Travel<span></span></a>
-        	<ul class="hasSub menu2">
-               <li class="elm1"><a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Resort']);" href="http://timesdeal.com/delhi-ncr-deals/Resort/75">Resort</a></li>
-                <li><a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Accommodation']);" href="http://timesdeal.com/delhi-ncr-deals/Accommodation/91">Accommodation</a></li>
-                <li><a onclick="_gaq.push(['_trackEvent','TopSub','Deals','WeekendGetaways']);" href="http://timesdeal.com/delhi-ncr-deals/Weekend-Getaways/105">Weekend Getaways</a></li>
-                <li><a onclick="_gaq.push(['_trackEvent','TopSub','Deals','Domestic-Vacation']);" href="http://timesdeal.com/delhi-ncr-deals/Domestic-Vacation/107">Domestic Vacation</a></li>
-				<li><a onclick="_gaq.push(['_trackEvent','TopSub','Deals','International-Vacation']);" href="http://timesdeal.com/delhi-ncr-deals/International-Vacation/108">International Vacation</a></li>
-            </ul>
-        </li>
-        <li><a href="http://timesdeal.com/products" onclick="_gaq.push(['_trackEvent','Top','Select','Product']);">Product</a></li>
-        
-        <!--li ><a href="http://timesdeal.com/delhi-ncr-deals/womens-day-special" onClick="_gaq.push(['_trackEvent','Top','Select','Women's Day Special']);" >Women's Day Special</a></li-->
-    </ul>
-</nav>
-	 </hgroup>
-     
+           </div>
+      </div>
+      
+	<div class="searchBig">
+	<a href="#" class="TDLogoSml"></a>
+	<form action="javascript:void(0);" name="subscribeFrmfromtop" id="subscribeFrmfromtop" method="post" onsubmit="searchresult();">
+		             <p class="holding inputEmail" onkeydown="holdDown(this)" onfocus="holdfocus(this)" onblur="holdblur(this)">
+					 <input type="text" class="formEffect input-text1" value="" name="search_input" id="search_input" tabindex="1" autocomplete="off" onfocus="setfocus(this)" onblur="setblur(this)">
+					 <span class="placeholder" id="search_field" name="search_field">Search for location, category, merchant name...</span>
+					</p>                   
+					<div class="beta"></div>
+					  <input type="submit" value="Subscribe" class="btnSubs">
+					  <div class="autoSuggest" id="suggestionList" stayle="display: block;">
+		              </div>
+					  </form>
+		                <div class="suggested"><b style="font-size:12px">Eg:</b> &nbsp;Spa’s, Gym, Restaurant, Defence Colony, Noida Sector 18, Saket,   Pizza hut</div>
+		            
+	</div>
+	      
 </header>
-	<div class="clr"></div>
-<div class="searchBig">
-<a href="#" class="TDLogoSml"></a>
-<form action="javascript:void(0);" name="subscribeFrmfromtop" id="subscribeFrmfromtop" method="post" onsubmit="searchresult();">
-                 <p class="holding inputEmail" onkeydown="holdDown(this)" onfocus="holdfocus(this)" onblur="holdblur(this)">
-				 <input type="text" class="formEffect input-text1" value="" name="search_input" id="search_input" tabindex="1" autocomplete="off" onfocus="setfocus(this)" onblur="setblur(this)">
-				 <span class="placeholder" id="search_field" name="search_field">Search for location, category, merchant name...</span>
-				</p>                   
-				<div class="beta"></div>
-				  <input type="submit" value="Subscribe" class="btnSubs">
-				  <div class="autoSuggest" id="suggestionList" stayle="display: block;">
-                  </div>
-				  </form>
-                    <div class="suggested"><b style="font-size:12px">Eg:</b> &nbsp;Spa’s, Gym, Restaurant, Defence Colony, Noida Sector 18, Saket,  CCD, Pizza hut</div>
-                  <span class="shadowbot"></span>
-</div>
 
 <!--div class="moodLeft one"><span class="kahr"></span></div>
 <div class="moodRight one"></div-->
@@ -379,11 +589,13 @@ function fetchUserDeatils()
 			var display_sting = '<h2>' + cookie_city_name + '</h2>';
 			
 		
-			var txt=document.getElementById("cityspace")
+			var display_sting = '' + cookie_city_name + ' <span style="margin-left:5px"><img src="http://timesdeal.com/images/down-arrow.png" ></span> ';
 			if(cookie_city_name != null && cookie_city_name != "undefined")
 			{
-				txt.innerHTML=display_sting;
+				
+                            $(".city_disp").html(display_sting);
 			}
+			
 			
 
 	
@@ -448,16 +660,18 @@ function showAfter(time, div) {
 			var UserId			= Get_Cookie("UI");
 			var USER_TYPE		= Get_Cookie('USER_TYPE');
 			var DealIdClicked	= Get_Cookie('BuyClickDeal');
+                        
+                        
 			var displaystring ="";
-			displayname = '<a href="http://timesdeal.com/profile" style="text-decoration:underline;text-transform:none" >Hi '+displayname+'</a>';
+			displayname = '<a href="http://timesdeal.com/profile" style="text-decoration:underline;text-transform:none;width:93px;overflow:hidden;" >Hi '+displayname+'</a>';
 			
 			if((UserId==1 || UserId==null || UserId=="undefined") &&  (Get_Cookie("USEREMAIL")=="undefined" || Get_Cookie("USEREMAIL")==null))
 			{
-				  displaystring = '<a href="javascript:void(0)" rel="http://timesdeal.com/tpl/tplnewloginandregistpopup.php" class="popup" popwidth="440" onClick="_gaq.push([\'_trackEvent\',\'Top\',\'Select\',\'signin\']);">Sign In</a> / ';
+				  displaystring = '<a style="border-right: 2px solid #BBB;padding-right: 6px;line-height: 10px;" href="javascript:void(0)" rel="http://timesdeal.com/tpl/tplnewloginandregistpopup.php" class="popup" popwidth="440" onClick="_gaq.push([\'_trackEvent\',\'Top\',\'Select\',\'signin\']);">Sign In</a>';
 
 				  displaystring+= '<a href="javascript:void(0)" rel="http://timesdeal.com/tpl/tplnewloginandregistpopup.php?b=r"  class="regis popup" popwidth="440" onClick="_gaq.push([\'_trackEvent\',\'Top\',\'Select\',\'register\']);">Register</a>';
 				  
-				  displaystring+= '<br /><a class="fbbottom" onclick="update_user_box();_gaq.push([\'_trackSocial\',\'facebook\',\'connectFB\']);"  href="javascript:void(0)"><img width="80" height="18" border="0" alt="" onClick="_gaq.push([\'_trackSocial\', \'facebook\', \'connect\',\'Top\', \'homepage\']);" src="http://timesdeal.com/images/facebook.gif"></a>';
+				  displaystring+= '<a class="fbbottom" onclick="update_user_box();_gaq.push([\'_trackSocial\',\'facebook\',\'connectFB\']);"  href="javascript:void(0)"><img width="80" height="18" border="0" alt="" onClick="_gaq.push([\'_trackSocial\', \'facebook\', \'connect\',\'Top\', \'homepage\']);" src="http://timesdeal.com/images/facebook.gif"></a>';
 				  $('#cartDetails').hide();
 				  
 			}
@@ -467,7 +681,7 @@ function showAfter(time, div) {
 
 				  displaystring+= '<a href="javascript:void(0)" rel="http://timesdeal.com/tpl/tplnewloginandregistpopup.php?b=r"  class="regis popup" popwidth="440" onClick="_gaq.push([\'_trackEvent\',\'Top\',\'Select\',\'register\']);">Register</a>';
 				  
-				  displaystring+= '<br /><a class="fbbottom" onclick="update_user_box();_gaq.push([\'_trackSocial\',\'facebook\',\'connectFB\']);"  href="javascript:void(0)"><img width="80" height="18" border="0" alt="" onClick="_gaq.push([\'_trackSocial\', \'facebook\', \'connect\',\'Top\', \'homepage\']);" src="http://timesdeal.com/images/facebook.gif"></a>';
+				  displaystring+= '<a class="fbbottom" onclick="update_user_box();_gaq.push([\'_trackSocial\',\'facebook\',\'connectFB\']);"  href="javascript:void(0)"><img width="80" height="18" border="0" alt="" onClick="_gaq.push([\'_trackSocial\', \'facebook\', \'connect\',\'Top\', \'homepage\']);" src="http://timesdeal.com/images/facebook.gif"></a>';
 
  				  $('#cartDetails').hide();
 
@@ -591,6 +805,8 @@ $(document).ready(function(){
 			$('#suggestionListLoc').css('display', 'none');
 			$('.autoComplete').fadeOut(100);  
     });
+    
+    
 });
 </script>
 
@@ -601,15 +817,127 @@ header .hg1 .loginAct .regist{  padding:0 5px; line-height:10px;}
 header  .headBot .getDeal{ width:583px; float:left; background:none;}
 header .headBot .getDeal h2{ float:right;}
 header .Saver{ line-height: 24px;    margin: 7px 48px 0 0;}
-.fbbottom{ margin-top:4px; display:block;}
+.fbbottom{ padding-top:1px;}
 header .links{ display:block;  background:url(images/logarr.gif) no-repeat  100% 6px;padding:0 9px 0 0;}
 .Saver{ border-right:1px dotted #999; padding-right:15px;}
-.searchBig{ margin:0px 0 0 0;position:relative;}
+
 
 .twoWaySearch .holding .placeholder{ font-size:13px !important;}
 #suggestionListLoc{ left:271px !important; width:270px !important;} 
 #suggestionList{ width:240px !important;}
+
+
 </style>
+<script type="text/javascript" src="http://media.timesdeal.com/js/jquery.zclip.min.js"></script>
+<script type="text/javascript">
+
+$("p").hover(function () {
+$("p").removeClass("current")
+$(this).addClass("current");
+});
+
+var isCouponPage="";
+//if(isCouponPage=="1")
+// {
+	
+	$(document).ready(function() {	
+		click2Copy(0);		
+		$("#travelMenu").css('width','570px');
+		$("#couponMenu").css('width','570px');
+
+	});
+// }
+function click2Copy(page)
+{	var popon = 1;
+	var data2Copy	=	'';
+	var campaignid	=	'';
+	var urlToGo		=	'';
+	var camp_type	=	'';
+	//alert(page);
+	$('.z-clip'+page).zclip({
+		path: 'http://timesdeal.com/images/ZeroClipboard.swf',
+		copy: function() {
+			data2Copy	=	$(this).text().trim();
+			clickDivId	=	$(this).attr('id');
+			hideDivId	=	'div_'+clickDivId;
+			urlToGo		=	$(this).next().next().text();
+			campaignid	=	$(this).next().next().next().text()	;
+			camp_type	=	$(this).next().next().next().next().text()	;
+			
+			$(this).next().hide();
+			//$('#'+hideDivId).hide();
+			if($(this).parent().hasClass( "side-cntnt" ))
+			{
+				$(this).css({"position": ""});
+			} 
+		    return data2Copy;                     
+		},
+        afterCopy: function() {
+           var datastring	=	"cid="+campaignid.trim()+"&cc="+data2Copy.trim()+"&camT="+camp_type.trim();
+			//alert(datastring);
+			$.ajax({
+				type:  "POST",
+				url:   "http://timesdeal.com/ajax/pickCoupons.php",
+			   	data: datastring,
+			   	success: function(data){
+			   		//alert(data);
+			   		if(data!='-1' || data!='-2' || data!='-3' || data!='-22')
+			   		{
+			   			var url	=	urlToGo	;
+			   			popon = 1;
+					}
+					
+			   }
+			});
+			if(popon == 1){
+				 openTab(urlToGo);
+				 popon = 0;
+			}
+		}
+	});
+}
+function openTab(url){
+	window.open(url,'_blank');	
+}
+function pickNewCoupon(url,cid,cmTyp)
+{
+	
+	
+	var popona = 1;
+	var datastring	=	"cid="+cid+"&camT="+cmTyp;
+	//alert(datastring);
+	
+	$.ajax({
+		type:  "POST",
+		url:   "http://timesdeal.com/ajax/pickCoupons.php",
+	   	data: datastring,
+	   	success: function(data){
+	   		if(data!='-1' || data!='-2' || data!='-3')
+	   		{
+	   			var text2Chnge	=	$("#spn_"+cid).html();
+	   			if(text2Chnge=='Activate Deal')
+	   			{
+	   				$("#spn_"+cid).html('Deal Activated');
+	   				$("#spn_"+cid).css('color','black');
+	   			}
+	   			//var win	=	window.open(url,'_blank');	
+				popona = 1;
+	   			if(cmTyp=='l')
+	   			{
+		   			var juniorpage	=	"http://timesdeal.com/showcoupon.php?cc="+data;
+		   			var win2=	window.open(juniorpage,'Coupon Popup',"width=400px,height=200px,location=1,left=500px,fullscreen=0");
+		   			win2.moveTo(100,200);
+		   		}
+				win.focus();
+			}
+	   }
+	});
+	if(popona == 1){
+				 openTab(url);
+				 popona = 0;
+			}
+}
+</script>
 <!-- Header End -->  
 <!--********************************* New Div Should Start from Here**********************--> 
 
@@ -621,7 +949,7 @@ header .links{ display:block;  background:url(images/logarr.gif) no-repeat  100%
 
 		TIL respects the privacy of it"s users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. You may read 'About Us' to know more about TIL at http://info.indiatimes.com/terms/aboutus.html. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'Indiatimes Channels' in detail. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).<br><br>
 
-		<strong>By using TIL's website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer </strong><br><br>
+		<strong>By using TIL's website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer  </strong><br><br>
 
 		<strong>USER INFORMATION </strong><br><br>
 
@@ -650,10 +978,10 @@ header .links{ display:block;  background:url(images/logarr.gif) no-repeat  100%
 
 		<strong>INFORMATION SHARING</strong><br><br>
 
-		TIL  shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:<br>
+		TIL shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:<br>
 
 		
-		a) When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences.  These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.<br><br>
+		a) When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.<br><br>
 
 		b) TIL proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.<br><br>
 
@@ -673,8 +1001,12 @@ header .links{ display:block;  background:url(images/logarr.gif) no-repeat  100%
 
 		We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:<br><br>
 
-		In the event you have any grievance relating to the processing of  information provided by you,  you may contact our Grievance Officer, at copyright.infringement@indiatimes.com or write at the following address: <br><br>
+		Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance redressal officer as mentioned below via post or by sending an email to grievance@timesdeal.com or write to the Grievance Redressal Office at the following Address:<br><br>
+		
 		<b>
+		Vikas Sharma -  <a href="mailto:grievance@timesdeal.com">grievance@timesdeal.com</a>.<br>
+		 Grievance Redressal Office<br>
+		<a href="http://timesdeal.com">timesdeal.com</a><br>
 		Times Internet Limited <br>
 		4th Floor, MPD World Tower, <br>
 		DLF City Phase V, Opposite DLF Golf Course <br>
@@ -706,6 +1038,7 @@ header .links{ display:block;  background:url(images/logarr.gif) no-repeat  100%
 
 
 
+<div class="clr"></div>
 <footer>
 <div class="footer_gray ">
         <div class="footer_section">
@@ -739,7 +1072,7 @@ header .links{ display:block;  background:url(images/logarr.gif) no-repeat  100%
           <ul class="bottomlinks">
             <li><a href="javascript:void(0);" rel="http://timesdeal.com/tpl/tplsmsunsubscribe.php" class="popup" onclick="_gaq.push(['_trackEvent','Bottom','select','SMSun']);" popwidth="376">SMS Unsubscription</a></li>
             <li><a href="javascript:void(0);" rel="http://timesdeal.com/tpl/tplemailunsubscribe.php" class="popup" onclick="_gaq.push(['_trackEvent','Bottom','select','emailun']);" popwidth="370">Email Unsubscription</a></li>
-            <li><a href="http://timesdeal.com/SMS-TRAI-Regulations" onclick="_gaq.push(['_trackEvent','Bottom','select','trai']);">SMS TRAI Regulations</a></li>
+            <li><a href="http://timesdeal.com/sms-trai-regulations" onclick="_gaq.push(['_trackEvent','Bottom','select','trai']);">SMS TRAI Regulations</a></li>
           </ul>
           <h3 style="margin:10px 0 5px 0">Developers</h3>
           <ul class="bottomlinks">
@@ -788,17 +1121,21 @@ header .links{ display:block;  background:url(images/logarr.gif) no-repeat  100%
 				Find huge discounts, attractive <a href="http://timesdeal.com" style="color: #6C6C6C;">deals</a>, special shopping offers in  on food, health, entertainment, and more. times<b>deal</b> - India's leading daily <a href="http://timesdeal.com" style="color: #6C6C6C;">deals</a> website.
 				-->
 			</span>
-         
-          	<div class="footSocial">
+			
+			<h3 style="margin:20px 0 0 0;">follow us on </h3>
+
+
+          	<div class="footSocial" style="width:170px">
 				<a href="http://www.facebook.com/timesdeal" target="_blank" class="fb">Facebook</a>
 				<a href="http://twitter.com/timesdeal" target="_blank" class="twit">Twitter</a>
 				<a href="http://www.youtube.com/user/timesdeal/videos" target="_blank" class="utube">Youtube</a>
 				<a href="http://pinterest.com/timesdeal" target="_blank" class="pin">Pintrest</a>
+				<a href="https://plus.google.com/+timesdeal/posts" target="_blank" style="background:none;"><img src="http://media.timesdeal.com/images/googleplus_icon.png" style="display:block;margin-top:-2px"></a>
         	</div>
-         	<div class="call">
+         	<!--div class="call">
          		<span class="phIcon"></span>Customer Care - <strong>011-33518888</strong>  <strong>/</strong>  
          		<strong>49108888</strong><span class="time">(8am to 8pm, 7 days a week)</span>
-         	</div>
+         	</div-->
             		</div>
 		  <!-- security button update ends here -->
           <!-- security button update ends here -->
@@ -808,13 +1145,15 @@ header .links{ display:block;  background:url(images/logarr.gif) no-repeat  100%
       <div class="copyright">Copyright © 2013 <a href="http://timesinternet.in/" target="_new" style="color:#000;">Times Internet Limited</a>. All rights reserved</div>
 <div class="getDeal">
                 	<!--h2>Want to get <br /><span class="org">exciting deals</span><br /> everyday?</h2-->
-					<h2>Get the latest <br><span class="org">Free deals emailed</span><br>to you everyday!</h2>
-                   
+					<!--h2>Get the latest <br /><span class="org">Free deals emailed</span><br />to you everyday!</h2-->
+					<h2>Want to get <br><span class="org">exciting deals</span><br>everyday?</h2>
+
+
                     <span class="arwTxt"></span>
  				<form method="post" id="subscribeFrmfromtop" name="subscribeFrmfromtop" action="javascript:void(0);">
                  <p onblur="holdblur(this)" onfocus="holdfocus(this)" onkeydown="holdDown(this)" class="holding inputEmail">
 				 <input type="text" onblur="setblur(this)" onfocus="setfocus(this)" tabindex="1" name="my_name" value="" style="width:190;" class="formEffect input-text1 " id="subscribeEmailbtm">
-				 <span id="subscribeEmailbtm_plc" class="placeholder">Enter your email address</span>
+				 <span id="subscribeEmailbtm_plc" class="placeholder">Type in your email address</span>
 				</p>
                   <img src="http://media.timesdeal.com/images/ajax-loader-10.gif" alt="Please wait..." align="absmiddle" id="loaderImgBottom" style="display:none;left: 46%;    position: absolute;    top: 50%;    z-index: 1;">
       
@@ -826,7 +1165,7 @@ header .links{ display:block;  background:url(images/logarr.gif) no-repeat  100%
 </footer>
 <!-- All the popup Scrip--> 
 <!-- Facebook Code Includes-->
-<script type="text/javascript" src="http://timesdeal.com/font/webrupee.js?id=0:31:09"></script>
+<script type="text/javascript" src="http://timesdeal.com/font/webrupee.js?id=2:37:40"></script>
 <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 <script>
   window.fbAsyncInit = function() {
@@ -914,7 +1253,7 @@ function fblogout(){
 
 </script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script> 
-<!-- Begin TimesTrend Tag --> 
+<!-- Begin TimesTrend Tag
 <script language="javascript" src="http://timeslog.timesdeal.com/timestrend_timesdeal_v1.js"></script>
 <noscript>
 <img width="0" height="0" src="http://timeslog.timesdeal.com/timeslog.dll/pgcnt?CHUR=timesdeal.com&nojs=1">
@@ -966,7 +1305,35 @@ if(raf=="1"){
 	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1035402976/?value=0&amp;label=Uzf6COCqtgMQ4P3b7QM&amp;guid=ON&amp;script=0"/>
 	</div>
 </noscript>
+<script type="text/javascript" src="http://tags.crwdcntrl.net/c/2810/cc.js?ns=_cc2810" id="LOTCC_2810"></script>
+<script type="text/javascript" language="javascript">_cc2810.bcp();</script>
 
+<!-- <img id="Circle1" src="" style="display:none;"/> -->
+<!-- <img id="Circle2" src=""  style="display:none;"/>
+<img id="Circle3" src=""  style="display:none;"/> -->
+ 
+<!-- <script type="text/javascript" src="http://media.timesdeal.com/js/cracker.js"></script> -->
+<!-- <script type="text/javascript" src="http://media.timesdeal.com/js/jquery.imgexplosion.js"></script> -->
+<script type="text/javascript">
+// imgExplosion();
+/*
+ $('#Circle1').imgExplosion({
+        angle:true,
+        alternate:true,
+		start:'bottom',
+		interval:2000,
+  });*/
+/*
+$('#Circle2').imgExplosion({
+        angle:true,
+        alternate:true
+  });
+*/
+/*
+$('#Circle3').imgExplosion({
+      alternate:true
+});*/
+</script>
 <!-- Footer End -->  
 
 
