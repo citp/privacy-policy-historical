@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propwall.my privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180715id_/http%3A//www.propwall.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propwall.my privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209192423id_/http%3A//www.propwall.my/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
