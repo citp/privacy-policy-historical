@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the socibuzz.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510083606id_/http%3A//www.socibuzz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socibuzz.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209193615id_/http%3A//www.socibuzz.com/privacy.php) for the most accurate reproduction.*
 
 # SociBuzz.com – Social Media Marketing (Twitter – Facebook – Tumblr & More)
 
-Protecting your private information is our priority. This Statement of Privacy applies to the http://www.SociBuzz.com and MetaFever, LLC., d/b/a SociBuzz.com and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to MetaFever, LLC., d/b/a SociBuzz.com include http://www.SociBuzz.com and SociBuzz. The SociBuzz website is a SociBuzz, SociBuzz.com, http://www.SociBuzz.com site. By using the SociBuzz website, you consent to the data practices described in this statement.
+Protecting your private information is our priority. This Statement of Privacy applies to the http://www.SociBuzz.com and SociBuzz, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to "SociBuzz" includes SociBuzz, Inc. and the website www.SociBuzz.com. By using the SociBuzz website, you consent to the data practices described in this statement.
 
 ## Collection of your Personal Information
 
@@ -14,9 +14,8 @@ SociBuzz encourages you to review the privacy statements of websites you choose 
 
 ## Use of your Personal Information 
 
-SociBuzz collects and uses your personal information to operate its website(s) and deliver the services you have requested. 
-
-  SociBuzz may also use your personally identifiable information to inform you of other products or services available from SociBuzz and its affiliates. SociBuzz may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
+SociBuzz collects and uses your personal information to operate its website(s) and deliver the services you have requested.   
+SociBuzz may also use your personally identifiable information to inform you of other products or services available from SociBuzz and its affiliates. SociBuzz may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
 
   SociBuzz does not sell, rent or lease its customer lists to third parties. 
 
@@ -54,12 +53,9 @@ SociBuzz will occasionally update this Statement of Privacy to reflect company a
 
 SociBuzz welcomes your questions or comments regarding this Statement of Privacy. If you believe that SociBuzz has not adhered to this Statement, please contact SociBuzz at:
 
-SociBuzz, LLC., d/b/a SociBuzz.com 
+SociBuzz, Inc.  
+Email: [support@socibuzz.com](mailto:support@socibuzz.com)  
+Phone: 925-480-7624  
 
-Email Address:   
-buzzsoci@gmail.com 
 
-Telephone number:   
-1 (214) 377-0165 
-
-Effective as of July 15, 2012 
+Effective as of July 4, 2013
