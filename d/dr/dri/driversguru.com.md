@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversguru.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607002506id_/http%3A//www.driversguru.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversguru.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209101558id_/http%3A//www.driversguru.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Official driver updates - DriversGuru.com
 
