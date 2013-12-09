@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitition.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531034514id_/http%3A//twitition.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitition.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209233348id_/http%3A//twitition.com/privacy) for the most accurate reproduction.*
 
 # twitition - privacy policy
 
