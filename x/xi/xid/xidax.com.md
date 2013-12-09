@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xidax.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617141057id_/http%3A//www.xidax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xidax.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209084510id_/http%3A//www.xidax.com/privacy) for the most accurate reproduction.*
 
-# XIDAX - Elite Gaming Redefined
+# Privacy Policy
 
 This privacy policy sets out how XIDAX, LLC and its family of companies (hereinafter collectively “Xidax”) uses and protects any information that you give Xidax (“Customer Information”), when you use its products and services. Xidax is a computer hardware and software retailer, offering a diverse selection of services including, technical support, industry leading computer hardware sales of every kind, backup solutions, mobile computing solutions, networking solutions and diagnostics, digital entertainment solutions, and the like.
 
