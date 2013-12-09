@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insideflyer.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607070918id_/http%3A//www.insideflyer.com/aboutus/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideflyer.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209054558id_/http%3A//www.insideflyer.com/aboutus/privacy.php) for the most accurate reproduction.*
 
 # InsideFlyer.com: Privacy Policy
 
