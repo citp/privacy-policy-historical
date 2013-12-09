@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tmzvps.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601141555id_/http%3A//tmzvps.com/legal-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmzvps.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209041836id_/http%3A//tmzvps.com/legal-privacy-policy.php) for the most accurate reproduction.*
 
-# tmzVPS - Privacy Policy | Managed Vps Hosting | Cpanel Vps | Linux Vps | Virtual Private Server | tmzVPS.com
+# tmzVPS - Privacy Policy | Managed VPS Hosting | Cpanel VPS | Linux VPS | Virtual Private Server | tmzVPS.com
 
 ## Introduction
 
