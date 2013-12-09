@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warpaths2peacepipes.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501013852id_/http%3A//warpaths2peacepipes.com/native-indian-tribes-privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warpaths2peacepipes.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209084302id_/http%3A//www.warpaths2peacepipes.com/native-indian-tribes-privacy-statement.htm) for the most accurate reproduction.*
 
 # Native Indian Tribes Privacy Statement ***
 
@@ -25,5 +25,5 @@ If you have any questions about this privacy statement, the practices of this si
 The webmaster  
 [webmaster@warpaths2peacepipes.com](mailto:webmaster@warpaths2peacepipes.com)
 
- **[Native Indian Tribes Index](https://web.archive.org/web/20130501013852id_/http%3A//warpaths2peacepipes.com/index.htm)**   
+ **[Native Indian Tribes Index](https://web.archive.org/web/20131209084302id_/http%3A//www.warpaths2peacepipes.com/index.htm)**   
  
