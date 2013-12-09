@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the travelweekly.co.uk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630201118id_/http%3A//www.travelweekly.co.uk/StaticPages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelweekly.co.uk privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209184906id_/http%3A//www.travelweekly.co.uk/StaticPages/privacy.html) for the most accurate reproduction.*
 
 # Travelweekly.co.uk privacy policy - www.travelweekly.co.uk
 
 **Privacy policy  
 **  
-Last updated January 24th 2012.
+Last updated July 18th 2012.
 
 This website is owned and operated by Travel Weekly Group Limited. 
 
@@ -45,6 +45,10 @@ Disqus.com is a partner of TravelWeekly.co.uk. Any user information including re
 <http://docs.disqus.com/help/30/>
 
 This privacy policy applies only to information collected on TravelWeekly.co.uk. Please be aware that we are not responsible for the privacy policies of partner or other sites. 
+
+  **Other Disclosures  
+**  
+We reserve the right to disclose your personal information when required to do so by law to comply with judicial proceedings, court order or legal process or with an actual or proposed corporate transaction involving the business or when we believe that disclosure is necessary to protect our rights, or the rights, property or safety of others. 
 
   **Third Party Advertisers and Cookies  
 **  
