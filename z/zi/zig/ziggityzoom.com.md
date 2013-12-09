@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziggityzoom.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605063315id_/http%3A//ziggityzoom.com/content/ziggity-zoom-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziggityzoom.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209162246id_/http%3A//www.ziggityzoom.com/content/ziggity-zoom-privacy-statement) for the most accurate reproduction.*
 
 # Ziggity Zoom Privacy Statement | Ziggity Zoom
 
