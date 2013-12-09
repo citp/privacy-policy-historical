@@ -1,24 +1,20 @@
-> *The following text is extracted and transformed from the slopeofhope.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606121237id_/http%3A//slopeofhope.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slopeofhope.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209170441id_/http%3A//slopeofhope.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Slope of Hope
 
 We collect information from you when you register on our site or place an order.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, credit card information or Tim Knight. You may, however, visit our site anonymously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, email address, mailing address, credit card information or other data required for billing. You may, however, visit our site anonymously.
 
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+; To personalize your experience (your information helps us to better respond to your individual needs)
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+; To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-; To process transactions
-
-> We may share or sell information with third parties for marketing or other purposes without your consent.
+; To process transactions (We may share or sell information with third parties for marketing or other purposes without your consent.)
 
 ; To send periodic emails
 
