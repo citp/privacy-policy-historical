@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachers.net privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610172523id_/http%3A//teachers.net/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachers.net privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209191335id_/http%3A//teachers.net/info/privacy.html) for the most accurate reproduction.*
 
 # Teachers.Net - PRIVACY STATEMENT
 
