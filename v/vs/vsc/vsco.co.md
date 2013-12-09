@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vsco.co privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601124256id_/http%3A//vsco.co/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsco.co privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209154619id_/http%3A//vsco.co/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Visual Supply Co
 
