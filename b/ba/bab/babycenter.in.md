@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycenter.in privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607023207id_/http%3A//www.babycenter.in/e7814/privacy--security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.in privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209035211id_/http%3A//www.babycenter.in/e7814/privacy--security) for the most accurate reproduction.*
 
 # Privacy & Security - BabyCenter
 
@@ -42,7 +42,7 @@ BabyCenter also contracts with an analytics company, to measure: how visitors us
 
 (iii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; or 
 
-(iv) to respond to law enforcement requests or where required by applicable laws, court orders, or government regulations. 
+(iv) to respond to law enforcement requests, court orders or other legal process or if we believe that such disclosure is necessary to investigate, prevent or respond to illegal activities, fraud, physical threats to you or others or as otherwise required by any applicable law or regulation. 
 
 The collection, use, and disclosure of information contemplated in this Privacy Policy involves a transfer of the information to the United States and possibly other jurisdictions that may not have equivalent laws and rules regarding personally identifiable information as your country of residency. 
 
