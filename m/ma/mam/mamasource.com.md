@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mamasource.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102000656id_/http%3A//www.mamapedia.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasource.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209123040id_/http%3A//deals.mamapedia.com/privacy_policy) for the most accurate reproduction.*
 
-# Mamapedia™
+# Mamasource: Privacy Policy - Mamasource
 
-Effective Date: 10/05/2010
+Effective Date: 8/2/2013
 
   1. A Note About Children
   2. When Does The Company Collect My Information, Including Personally Identifiable Information?
@@ -10,10 +10,11 @@ Effective Date: 10/05/2010
   4. Who Does the Company Share My Information With?
   5. Use Of Other Members’ Information
   6. Security Measures
-  7. Compromise of Personal Information
-  8. Notification Procedures
-  9. Contacting Us
-  10. Acceptance of Privacy Policy
+  7. Newsletter Preferences
+  8. Compromise of Personal Information
+  9. Notification Procedures
+  10. Contacting Us
+  11. Acceptance of Privacy Policy
 
 
 
@@ -57,11 +58,15 @@ As we develop our business, we may buy or sell assets, and, depending upon the t
 
 ## Use Of Other Members’ Information
 
-As a user of the Company Sites you will have access to other users. personal information. You agree to use this information solely for sharing and requesting referrals and recommendations. The Company and its users shall not tolerate spam of any kind. Accounts suspected of causing spam will be deleted immediately and such users shall not be allowed to register again. You are thus not permitted to contact any user of the Company Sites via email, marketing messages or other kinds of spam without receiving their prior consent. Please feel free to report any users you suspect of using the Site as a platform for spamming by contacting our [webmaster](mailto:webmaster@mamapedia.com).
+As a user of the Company Sites you will have access to other users. personal information. You agree to use this information solely for sharing and requesting referrals and recommendations. The Company and its users shall not tolerate spam of any kind. Accounts suspected of causing spam will be deleted immediately and such users shall not be allowed to register again. You are thus not permitted to contact any user of the Company Sites via email, marketing messages or other kinds of spam without receiving their prior consent. Please feel free to report any users you suspect of using the Site as a platform for spamming by contacting our [Customer Support Center](http://deals.mamapedia.com/support_center).
 
 ## Security Measures
 
 The Company has security measures in place to protect the loss, misuse and alteration of the information under our control. These security measures include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a secure database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. We will protect the transmission of credit card information through industry standard, SSL (secure socket layer) encryption.
+
+## Newsletter Preferences
+
+You can manage your email and notice preferences by logging into your account through the Mamasource website and clicking the Email Subscriptions tab. You can then just click on the Unsubscribe button next to the subscriptions that you would like to unsubscribe from. It’s that easy! You can also manage your subscriptions by following subscription management instructions contained in the commercial e-mails that we send you. Please note that even if you unsubscribe from promotional email messages, we may still need to contact you with important transactional information related to your account and your purchases. For example, even if you have unsubscribed from our promotional email messages, we will still send you confirmations when you make purchases on the Site.
 
 ## Compromise of Personal Information
 
@@ -75,16 +80,20 @@ It is the Company’s policy to provide notifications, whether such notification
 
 We would like to receive your comments and questions about this Privacy Policy. Please address comments or questions regarding the Company’s Privacy Policy to us via e-mail or postal mail at:
 
-[support@mamapedia.com](mailto:support@mamapedia.com)
+[support@mamasource.com](mailto:support@mamasource.com)
 
 or
 
-Mamapedia
+Mamapedia, LLC
 
-1032 Irving St. #983
+PO Box 402
 
-San Francisco, CA 94122-2200
+Lansing, KS 66043.
+
+or
+
+(888) 608-8465
 
 ## Acceptance of Privacy Policy
 
-Your use of the Company Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Company’s Terms and Conditions of Use ([Terms and Conditions](http://www.mamapedia.com/static/terms_and_conditions)). By using the Company Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the top of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the Company Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes.
+Your use of the Company Sites, including any dispute concerning privacy, is subject to this Privacy Policy and Company’s Terms and Conditions of Use ([Terms and Conditions](https://web.archive.org/terms_and_conditions)). By using the Company Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the top of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the Company Sites following posting of the updated Privacy Policy will constitute your acceptance of the changes.
