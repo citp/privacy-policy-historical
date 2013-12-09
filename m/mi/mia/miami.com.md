@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miami.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620165516id_/http%3A//www.miami.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miami.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209130756id_/http%3A//www.miami.com/privacy-policy) for the most accurate reproduction.*
 
 # Miami.com PRIVACY POLICY | miami.com
 
