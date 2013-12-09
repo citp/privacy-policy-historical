@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bijlibachao.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609101151id_/http%3A//www.bijlibachao.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bijlibachao.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209012620id_/http%3A//www.bijlibachao.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ##  [ Privacy Policy](http://www.bijlibachao.com/privacy-policy.html)
 
-     Published on Tuesday, 13 March 2012 13:19 
-     Written by Abhishek Jain 
+     Last Updated on Wednesday, 14 March 2012 08:14 
+     By: 
 
 **What information do we collect?**  
 
