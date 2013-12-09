@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voltasac.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525073018id_/http%3A//voltasac.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D65%26Itemid%3D65) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voltasac.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209195807id_/http%3A//www.voltasac.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D65%26Itemid%3D65) for the most accurate reproduction.*
 
 # TATA VOLTAS
 
