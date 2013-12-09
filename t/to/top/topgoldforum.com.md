@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topgoldforum.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601184606id_/http%3A//topgoldforum.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgoldforum.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209165420id_/http%3A//topgoldforum.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Top Gold Forum
 
@@ -10,6 +10,9 @@ Register now to gain access to all of our features. Once registered and logged i
 [](http://www.facebook.com/goldforum)
 
 [](http://www.twitter.com/topgoldforum)
+
+  
+
 
   
 
