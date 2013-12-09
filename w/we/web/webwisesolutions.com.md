@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwisesolutions.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123065705id_/http%3A//webwisesolutions.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwisesolutions.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209074248id_/http%3A//www.webwisesolutions.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for WWS web design company
 
