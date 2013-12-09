@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superheroinecentral.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430124656id_/http%3A//www.superheroinecentral.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superheroinecentral.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209080301id_/http%3A//www.superheroinecentral.com/privacy.htm) for the most accurate reproduction.*
 
 # Super Heroine Central
 
