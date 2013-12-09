@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xitenow.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530192338id_/http%3A//www.xitenow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xitenow.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209045311id_/http%3A//xitenow.com/privacy.php) for the most accurate reproduction.*
 
-# xitenow.com :: anonymous, uncensored free web browsing. Fast web proxy, 110 Gbit Network.
+# Web Proxy Site | The Xite Now.com Proxy Web Site to Unblock Websites.
 
 ## Privacy Policy
 
@@ -23,3 +23,10 @@ We may also use third-party advertising partners on our website. Advertisers may
 The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. If you do not wish to receive any such indirect cookies, please disable the "Allow Cookies" option.
 
 * For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
+
+  * [Home](https://web.archive.org/web/20131209045311id_/http%3A//xitenow.com/index.php)
+  * [Edit Browser](https://web.archive.org/web/20131209045311id_/http%3A//xitenow.com/edit-browser.php)
+  * [Manage Cookies](https://web.archive.org/web/20131209045311id_/http%3A//xitenow.com/cookies.php)
+  * [Disclaimer](https://web.archive.org/web/20131209045311id_/http%3A//xitenow.com/disclaimer.php)
+
+
