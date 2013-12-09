@@ -1,24 +1,23 @@
-> *The following text is extracted and transformed from the penguin.com.au privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527154350id_/http%3A//www.penguin.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguin.com.au privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210001219id_/http%3A//www.penguin.com.au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Penguin Books Australia
 
 ### Privacy Policy
 
-In this Privacy Policy, "us", "we" or "our" means Pearson Australia Group Pty Ltd ABN 40 004 245 943 and its divisions (including without limitation Penguin Group (Australia), Pearson Australia and United Book Distributors) and related bodies corporate.
+In this Privacy Policy, "us", "we" or "our" means Penguin Australia Pty Ltd ABN 21 162 605 745 and its divisions (including without limitation United Book Distributors and Bookworld) and related bodies corporate.
 
-This Policy will be reviewed from time to time to take account of new or amended laws, new technology and/or changes to our operations and practices and the changing business environment. All personal information held by us will be governed by the most recently updated policy.
+This Privacy Policy will be reviewed from time to time to take account of new or amended laws, new technology and/or changes to our operations and practices and the changing business environment. All personal information held by us will be governed by the most recently updated policy.
 
-This policy sets out: 
+This policy addresses the following:
 
-  * The information we collect;
+  * what information we collect;
+  * if you are a minor (aged under 16 years);
   * how we collect it;
-  * why we collect it;
-  * how we use it;
+  * why we collect it;how we use it;
   * how we disclose it;
   * opting in and out;
-  * management and security;
-  * how to seek access to and update your personal information; and
-  * contact details.
+  * how we hold it - management and security; and
+  * accessing and updating or correcting your information and how to contact us.
 
 
 
@@ -26,9 +25,17 @@ This policy sets out:
 
 In general, we collect personal information in order to conduct our business, to provide and market our goods and services and to meet our legal and regulatory obligations. The personal information we collect about you includes (but is not limited to) your name, contact details (including phone numbers and addresses), gender, date of birth, occupation and other information which may assist us in conducting our business, and providing and marketing our goods and services. In certain circumstances we collect financial information, including your credit card information where appropriate.
 
-We also collect information about you that is not personal information. For example, we may collect data relating to your activity on our websites (including the type of internet browser you use, your operating system, address of referring site, and your IP address and clickstream information) via tracking technologies such as cookies, or we may collect information from you in response to a survey, promotion or competition. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. Cookies allow your browser to utilise some of the features of our sites. We use both session ID cookies and persistent cookies. Most web browsers are set by default to accept cookies. If you reject cookies you will be unable to take advantage of some of the features of our websites. To the extent this information does not constitute personal information, the Australian Privacy Principles are not applicable and we may use this information for any lawful purpose.
+We also collect information about you that is not personal information. For example, we may collect data relating to your activity on our websites (including the type of internet browser you use, your operating system, address of referring site, and your IP address and clickstream information) via tracking technologies such as cookies, or we may collect information from you in response to a survey, promotion, advertising or competition. We, and third-party vendors including Google, use first-party cookies and third-party cookies to (a) show our advertising on sites across the Internet and to report on advertising services related to visits to our site, (b) to inform, optimize, and serve ads based on past visits to our website, and (c) to report on how ad impressions, other uses of ad services, and interactions with these ad impressions and services are related to visits on our site. Opt out of these browser add-ons [here](https://tools.google.com/dlpage/gaoptout/) or customise Google Display Network ad settings [here](https://www.google.com/settings/u/0/ads). We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. Cookies allow your browser to utilise some of the features of our sites. We use both session ID cookies and persistent cookies. Most web browsers are set by default to accept cookies. If you reject cookies you will be unable to take advantage of some of the features of our websites. To the extent this information does not constitute personal information, the Australian Privacy Principles are not applicable and we may use this information for any lawful purpose. 
 
 We generally advise that you do not publish or communicate personal information, or at least limit the personal information that you publish or communicate, to the public via our services, such as in any forums, blogs or anywhere that user generated content can be uploaded ("Non-Confidential Information"). We cannot control any third party collection or use of your Non-Confidential Information that is publicly available.
+
+### If you are a minor (aged under 16 years)
+
+We provide subscription services to children and young adult readers who are legally minors and may not be able to provide valid consent to our collection, storage or use of their personal information. From time to time we may also conduct competition and other services for children/minors who may or may not be subscribers to our online services or newsletters.
+
+Parents and guardians of children/minors are personally responsible for monitoring their minor's access to our services and for providing valid approvals for the minor's participation in subscription, competition and other promotional activities conducted by us.
+
+If you are a young reader under the age of 16 years, you must ask your parents or legal guardians to approve your provision of personal information before you submit your personal details to us.
 
 ### How we collect it
 
@@ -60,7 +67,7 @@ In addition to the primary purpose outlined above, we may use the personal infor
   * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity;
   * as part of any investigation in relation to you or your activity, including:
     * if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary to the Police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator; or
-    * where there is actual, alleged or suspected fraud or unlawful activity (including actual, alleged or suspected fraudulent use by any person other than you of your credit or debit card details to make any purchase from us) and we reasonably believe that disclosure is necessary to, or we have been requested to make disclosure by, the Police or any relevant authority or enforcement body.
+    * where there is actual, alleged or suspected fraud or unlawful activity (including actual, alleged or suspected fraudulent use by any person other than you of your credit or debit card details to make any purchase from us) and we reasonably believe that disclosure is necessary to, or we have been requested to make disclosure by, the Police or any relevant authority or enforcement body;
   * as part of a sale (or proposed sale) of all or part of our business; and/or
   * as required or permitted by any law or regulation (including without limitation the Privacy Act).
 
@@ -68,7 +75,7 @@ In addition to the primary purpose outlined above, we may use the personal infor
 
 ### How we disclose it
 
-We may disclose personal information, and you consent to us disclosing your personal information, to other members of the Pearson Group (in which case, your personal information will be collected, used, disclosed, managed and stored in accordance with this Privacy Policy).
+We may disclose personal information, and you consent to us disclosing your personal information, to our affiliated companies (in which case, your personal information will be collected, used, disclosed, managed and stored in accordance with this Privacy Policy).
 
 We may also disclose personal information, and you consent to us disclosing your personal information, to third parties:
 
@@ -111,7 +118,7 @@ We request that you keep your information as current as possible so that we may 
 If you would like to seek access or request updating or correction to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact the department that collected your personal information in the first instance, or write to:
 
  **The Privacy Officer**  
-**Pearson Australia Group Pty Ltd**  
+**Penguin Australia Pty Ltd**  
 707 Collins Street  
 Melbourne VIC 3008  
-Email: [privacy.officer@pearson.com.au](mailto:privacy.officer@pearson.com.au)
+Email: [privacyofficer@au.penguingroup.com](mailto:privacyofficer@au.penguingroup.com)
