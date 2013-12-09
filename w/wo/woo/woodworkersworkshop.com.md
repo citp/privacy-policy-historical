@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodworkersworkshop.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424182156id_/http%3A//woodworkersworkshop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodworkersworkshop.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209114446id_/http%3A//woodworkersworkshop.com/privacy.php) for the most accurate reproduction.*
 
 # WoodworkersWorkshop® Privacy Policy
 
@@ -25,6 +25,12 @@ Contact: Jim Barry
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and to gather broad demographic information.
 
 Our site uses cookies to keep track of your shopping cart. We use cookies to identify you so we can retrieve your information so you don't have to re-enter it each time you visit our site.
+
+**Cookies & 3rd Party Advertisements**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Our site's registration form requires users to give us contact information, like their name and email address, and unique identifiers. We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary if they have subscribed to the mail list. Users may opt-out of receiving future mailings by choosing to un-subscribe. Unique identifiers are collected to verify the user's identity and for use in our record system.
 
