@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesdeal.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513190109id_/http%3A//timesdeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesdeal.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209210738id_/http%3A//timesdeal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Timesdeal.com - Timesdeal.com India's largest daily deals website for Deals, Best Sales Offers & Discounts
 
@@ -49,9 +49,12 @@ However the internet is an ever evolving medium. We may change our privacy polic
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:
 
-In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at copyright.infringement@indiatimes.com or write at the following address: 
+Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance redressal officer as mentioned below via post or by sending an email to grievance@timesdeal.com or write to the Grievance Redressal Office at the following Address:
 
-**Times Internet Limited  
+**Vikas Sharma -[grievance@timesdeal.com](mailto:grievance@timesdeal.com).  
+Grievance Redressal Office  
+[timesdeal.com](http://timesdeal.com/)  
+Times Internet Limited   
 4th Floor, MPD World Tower,   
 DLF City Phase V, Opposite DLF Golf Course   
 Gurgaon, Haryana 122002   
