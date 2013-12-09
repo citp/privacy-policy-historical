@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingwithderrick.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430231535id_/http%3A//marketingwithderrick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingwithderrick.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209130816id_/http%3A//derrickvandyke.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | DerrickVanDyke.com
 
 Welcome to our website (the “Site”). We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Digital Profits, Inc. (collectively, “Services”) (“Authorized Customers”). **“Personally Identifiable Information”** refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. ****
 
@@ -22,6 +22,6 @@ Welcome to our website (the “Site”). We understand that privacy online is im
 
 **Links:** This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. ****
 
-**Copyright Digital Profits, Inc., MarketingWithDerrick.com All rights reserved.**
+**Copyright Digital Profits, Inc., derrickvandyke.com All rights reserved.**
 
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
