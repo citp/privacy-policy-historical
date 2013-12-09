@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zipform.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502172714id_/http%3A//zipform.com/eula/ziplogixprivacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipform.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209102257id_/http%3A//www.zipform.com/eula/ziplogixprivacy.pdf) for the most accurate reproduction.*
 
 # ZIPLOGIX PRIVACY AND SECURITY STATEMENT
 
 ZIPLOGIX PRIVACY AND SECURITY STATEMENT
-Effective May 21, 2012.
-This document was previously updated October 26, 2011.
+Effective July 25, 2013.
+This document was previously updated May 21, 2012.
 zipLogix (“we” “us” or “our”) appreciates your interest in and use of our products and services. The
 protection of your privacy and the security of our products and services are important to us. We have
 created this Privacy and Security Statement (“Statement”) to demonstrate our firm commitment to
@@ -25,13 +25,13 @@ products and services in your real estate business. For example, you may enter p
 relating to a client, customer, purchaser or seller into a form in zipForm® during a real estate
 transaction.
 Non-Personal Information
-We also collect non-personal information. Non personal information is information that does not
-permit direct association with any specific individual. We may collect, use and disclose non-personal
-information for any purpose except as prohibited by law. For example, we may collect information
-relating to your activities on our website, your use of our products and services and information you
-enter into certain fields within our products such as a zip code. If we combine your non-personal
-information with your personal information, we will treat the combined information as personal
-information.
+We also collect non-personal information. Non personal information is aggregated information and
+other information that does not permit direct association with any specific individual. We may
+collect, use and disclose non-personal information for any purpose except as prohibited by law. For
+example, we may collect information relating to your activities on our website, your use of our
+products and services and information you enter into certain fields within our products such as a zip
+code. If we combine your non-personal information with your personal information, we will treat the
+combined information as personal information.
 Cookies and Other Technologies
 Our website and some of our online products and services, email messages and advertisements may
 use cookies and other technologies to collect information about your use of our website, products and
@@ -47,13 +47,16 @@ You should be aware that by not accepting cookies you may impair your ability to
 portions of our website, products and services.
 HOW WE USE INFORMATION
 Personal Information
-Primarily, we store and use personal information to make our products and services easier for you to
-use by not making you enter personal information more than once, help manage your subscription,
-provide technical administration and support for you and add security to our products by printing
-your name, and your broker’s name and address, on your transaction forms in zipForm®. We also
-store and use personal information to collect information about your zipLogix product and service
-usage for auditing and data analysis purposes. This helps us determine how to best improve our
-products and services and what other products and services may be valuable or of interest to you.
+Primarily, we store and use personal information to provide the products and services to you, make
+our products and services easier for you to use by not making you enter personal information more
+than once, help manage your subscription, provide technical administration and support for you and
+add security to our products by printing your name, and your broker’s name and address, on your
+transaction forms in zipForm®. We may contact you to market or promote third party products or
+services. We may also send you important information regarding the products or services, changes to
+any terms, conditions or policies or other administrative information. We also store and use personal
+information to collect information about your zipLogix product and service usage for internal
+business purposes, including auditing and data analysis. This helps us determine how to best improve
+our products and services and what other products and services may be valuable or of interest to you.
 Non-Personal Information
 We gather non-personal information to understand and analyze trends in your use of our website,
 products and services, to gather information about our user base and the real estate industry as a
@@ -66,24 +69,37 @@ and services and for our internal business purposes.
 DISCLOSURE TO THIRD PARTIES
 We occasionally hire other companies to provide services on our behalf, including development,
 testing, hosting, and answering customer questions about our products or services. We will provide to
-those companies only the personal information they need to deliver support to us, and we prohibit
-them from using that information for any other purpose. We may also provide your personal
-information, but not the non-public personal information you enter into zipLogix products and
-services related to your clients and customers, to our parent company and its subsidiaries or to third
-parties that we feel offer other products or services that may be valuable or interesting to you.
-Finally, we may provide non-personal information to third parties for general analytic purposes
-related to real estate market practices, industry trends and general economic conditions.
-We will disclose personal information, without notice, only if required to do so by law or in the good
+those companies only the personal information necessary to enable those companies to provide such
+services, and we prohibit them from using that information for any other purpose. We may also
+provide your personal information, but not the non-public personal information you enter into
+zipLogix products and services related to your clients and customers, to our parent company and its
+subsidiaries to offer other products or services that may be valuable or interesting to you. We do not
+provide your personal information to third parties for marketing purposes. Additionally, if you have
+access to form libraries through your use of our products or services, your personal information may
+be provided to the third parties providing such form libraries, including, but not limited to,
+Associations of REALTORS®, multiple listing services and brokerages. Finally, we may provide
+non-personal information to third parties for general analytic purposes related to real estate market
+practices, industry trends and general economic conditions.
+We will disclose personal information without notice only if required to do so by law or in the good
 faith belief that such action is necessary to protect and defend the rights or property of zipLogix.
+
+
 When you subscribe or otherwise give us personal information, we do not share that information with
 third parties without your permission, other than for the limited exceptions listed above.
+ADVERTISEMENTS
+We may sell advertising space to third parties on our website or in our products and services, which
+is usually in the form of a graphic link to the Internet site of the advertiser (a “banner
+advertisement”). These linked sites are not under our control and we are not responsible for the
+privacy practices or the contents of any such linked website, or any link contained in any linked
+website and any personal information you provide will be collected by, and controlled by the privacy
+policy of, that third party. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE
+PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES, INCLUDING,
+WITHOUT LIMITATION, OUR PARENT COMPANY OR ITS SUBSIDIARIES.
 SECURITY OF YOUR PERSONAL INFORMATION
 For website security purposes and to ensure that our products and services remain available to all
 users, our servers employ industry-standard methods to monitor network traffic to identify
 unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized
 attempts to upload information or change information on our servers are strictly prohibited and may
-
-
 be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National
 Information Infrastructure Protection Act of 1996. We use technical and organizational security
 measures in order to protect the data we have under our control against loss, misuse, unauthorized
@@ -91,6 +107,10 @@ access or disclosure, alteration, or destruction. Inside the company, data is st
 controlled servers with limited access.
 You also have a significant role in protecting your information. Do not share your password or allow
 others to use your account. It is good practice for you to change your password regularly.
+USE OF THE SITE BY CHILDREN
+Our website, products and services are not directed to individuals under the age of thirteen (13), and
+we request that such individuals do not provide personal information through our website, products
+or services.
 REVIEW/CORRECTION OF YOUR PERSONAL INFORMATION
 We market and sell several products and services. Our products and services that collect and use
 personal information provide, where appropriate, a method that allows you to inspect whether your
@@ -100,11 +120,20 @@ your information - once it is entered - may not be directly changeable by you.
 If you wish to review, correct or update any personal information about you collected through our
 website or through your use of our products and services, please click on SALES, or write us at:
 zipLogix LLC, 18070 15 Mile Road, Fraser, Michigan 48026.
+
+
 OPT OUT
 To opt out of having your personal information provided to our parent company, its subsidiaries or
 third parties for their direct marketing purposes, please click on OPT OUT, or write us at: zipLogix,
 LLC, 18070 15 Mile Road, Fraser, Michigan 48026, Attn: REFN Third Party Opt Out Request. We
-will process your request as quickly as possible.
+will process your request as quickly as possible. You may not opt out of receiving communications
+from us regarding administrative information for the products or services since this information may
+be important to your use of the products or services. Please note that if you opt-out as described
+above, we will not be able to remove personal information about you from the databases of third
+parties with which we have already shared personal information about you prior to processing your
+opt-out request. If you wish to cease receiving e-mails from third parties, please contact the third
+parties directly or utilize any opt-out mechanisms set forth in their respective privacy policies or e-
+mails to you.
 CHANGES TO THIS STATEMENT
 We reserve the right to alter this Statement as our business needs require. In the event we make any
 material changes to this Statement, we will notify you by updating the Statement’s effective date and
