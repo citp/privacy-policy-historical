@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sclub.in privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621191127id_/http%3A//sclub.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sclub.in privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209060515id_/http%3A//sclub.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sclub.in :-
 
@@ -31,13 +31,13 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 .
 
-**Disclaimer:**  
+ **Disclaimer:**  
 The information provided in this site and all other contents, links are for information purpose only. The  
 content is completely written by the Sclub Team and not copied from any other sites.However the links to external sited are provided for user benefits only to get more details to related information. sclub.in is not responsible for the inaccuracy or deficiency of the provided content.  
 Sclub is not responsible for the content of linked third-party sites, and does not make any representations regarding the content or accuracy of the content on external web sites.
 
 Do you see incorrect or incomplete information then please do write to us along with the correction
 
-**For Feedback** , suggestions or recommendations on how we can improve this site are always welcomed.  
+ **For Feedback** , suggestions or recommendations on how we can improve this site are always welcomed.  
 **Contact Us At:**  
 Email Id – bollytop100@gmail.com
