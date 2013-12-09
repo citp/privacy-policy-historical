@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toppickleads.com privacy policy that was archived on 2013-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130321175316id_/http%3A//www.toppickleads.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppickleads.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209064302id_/http%3A//www.toppickleads.com/privacy_policy.html) for the most accurate reproduction.*
 
 # TopPickLeads.com - Privacy Policy
 
