@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vgametrailer.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623042122id_/http%3A//vgametrailer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgametrailer.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209075708id_/http%3A//vgametrailer.com/privacy-policy) for the most accurate reproduction.*
 
 # vgametrailer.com - Privacy-policy
 
