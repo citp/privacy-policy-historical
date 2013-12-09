@@ -1,41 +1,36 @@
-> *The following text is extracted and transformed from the vataa.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514050323id_/http%3A//rankrating.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vataa.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209060016id_/http%3A//vataa.com/tech/privacy.html) for the most accurate reproduction.*
 
-# Welcome to RankRating.com, Rating System
+# Privacy Policy | VATAA
 
-## Privacy  Policies
+**Privacy Policy for vataa.com**
 
-  
-At **RankRating.com** we realize that privacy is important to all of our customers. We utilize your personal information only to provide you with up to date reviews. This statement outlines how we care for your privacy. Therefore we do not lend, sell or rent mailing lists of our customers, so you never have to worry that your name, address, phone number and credit card information would ever be used outside of our business.  
-RankRating.com uses Google AdSense and other third-party ad servers to serve and display advertisements on RankRating.com. These ad servers are not being provided any personally identifiable information by RankRating.com. They may use cookies, pixel trackers, content browsing, or other internet technology to improve the effectiveness and targeting of advertisements to you within RankRating.com and any other place where that third-party is serving advertisements. You may configure your web-browser to disable this. **                                                                **  
-**IP address**
+This document describes how we treat personal information related to your use of vataa.com (the "Website"), including information you provide when using it.
 
-We may use your Internet Protocol (IP) address to help diagnose problems with our server and track movement within our web site only to optimize your experience. We may also collect the referring URL, access times and browser type. We will not link this information to any personally identifiable information.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@vataa.com.
 
-**Cookies and Web beacons**
+At Website, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Website and how it is used.
 
-We may use, and may allow third parties to use, cookies and Web beacons on the Site and Review Service to monitor the effectiveness of advertising or for other legitimate purposes. These companies may use information about your visits to the Site and Review Service (not including your name, address or other personal information) to provide advertisements on the Site and Review Service, other websites and other forms of media about goods and services that may be of interest to you.  
-Web beacons, also known as "Web bugs," are small, graphic images on Web pages or Web-based documents or in email messages that allow us or third parties to monitor who is visiting the Site or Review Service. Web beacons collect the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. Web beacons may be linked to your personal information.
+We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual`s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
-**Security**  
-RankRating.com has security measures in place to protect the loss, misuse and alteration of the information under our control. However, perfect security does not exist on the Internet. Also, in theory third parties can intercept Internet transmissions containing your personal data, and we don't control the privacy/security of transmissions to and from the site while in transit. 
+**Log Files**
 
-We also use third party advertisements on RankRating.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added
+Like many other Web sites, Website makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, Internet Service Provider ( ISP ), country of origin and other non- personal information about your computer or device such as web requests, browser type, browser language, referring URL, operating system and date and time of requests to analyze trends, administer the site, track user`s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Notifications**  
-If we change our privacy policy, we will post a notice on our site so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by e-mail. Users will have a choice as to whether or not we use their previously submitted information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+**Cookies and Web Beacons**
 
-**                                 **  
-**Using Collected Information**  
-We use the information we collect to:  
--contact you for administrative purposes or provide you with customer service;  
--complete transactions requested by you or to verify that you have submitted a review   to our Review Service;  
--respond to any questions, problems or complaints, or request feedback;  
--organize the Site and Review Service to better serve you and customize or develop our products and services; and  
--send you emails containing information about products and services that you might find of interest.  
--to investigate and help prevent potentially unlawful activity or activity that threatens the network or otherwise violates the Usage Agreement;  
-Personal information provided on our Site or through the Review Service may be linked together or merged with other personal information we obtain about you so that we may better understand your needs and inform you about our products or services and those of our business partners.   
-**                                            **  
-**Disclosure**  
-We do not rent, sell or disclose personal information to third parties without your prior consent, except as described in this privacy policy. We may share personal information when we have your consent to do so, when required by law, when required to protect our rights or property, as necessary to complete a transaction you have requested, or for marketing purposes. We reserve the right to use and disclose any non-personal information that we collect. We may use third party service providers to assist us with the administration of the Site or Review Service or to perform other services for us, including transaction processing and sending email. These third parties may be given or may have access to your personal information, but agree to receive and use such information solely to provide services to us or on our behalf.   
-If you have any questions about this Privacy Policy or our privacy practices, you may send us by mail at [rankrating@gmail.com](mailto:rankrating@gmail.com). 
+When you use the Website, we may send cookies to your computer to uniquely identify your browser session. We may use both session cookies and persistent cookies.  
+We use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
+JuicyAds
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on Website send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
+Website has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Website`s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+**Disclosures of Information**
+
+We may be required to release certain data to comply with legal obligations or in order to enforce our Terms of Use and other agreements. We may also release certain data to protect the rights, property or safety of us, our users and others. This includes providing information to other companies or organizations like the police or governmental authorities for the purposes of protection against or prosecution of any illegal activity, whether or not it is identified in the Terms of Use.
