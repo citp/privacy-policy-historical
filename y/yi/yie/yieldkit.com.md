@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the yieldkit.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603055704id_/http%3A//www.yieldkit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yieldkit.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209165536id_/http%3A//yieldkit.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - YieldKit
+# YieldKit - Privacy
 
 The protection of personal data within the framework of YieldKit UG (haftungsbeschränkt) services is a central concern for us. With this privacy policy, we wish to inform you as to how personal data is processed at YieldKit and how this data is exchanged with other users.
 
 **Only the privacy policy in the German language applies to the use of YieldKit. We will be happy to answer any queries regarding the privacy policy at[privacy@yieldkit.com](mailto:privacy@yieldkit.com).**
+
+## Privacy Policy
 
 As of 26 October 2011
 
