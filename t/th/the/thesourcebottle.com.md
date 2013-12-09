@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesourcebottle.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610180408id_/http%3A//www.sourcebottle.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesourcebottle.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209061146id_/http%3A//www.sourcebottle.com/privacy.asp) for the most accurate reproduction.*
 
 # Free publicity for expert sources and PR professionals - connecting journalists, reporters, bloggers and writers with sources.
 
@@ -46,7 +46,7 @@ We reserve the right to disclose Your personally identifiable information as req
 
 #### Links
 
-Links on the SourceBottle site to external entities are not covered within this policy. The terms and conditions set out in this privacy statement only cover the domain name of [www.thesourcebottle.com](https://web.archive.org/web/20130610180408id_/http%3A//www.sourcebottle.com/index.asp)
+Links on the SourceBottle site to external entities are not covered within this policy. The terms and conditions set out in this privacy statement only cover the domain name of [www.thesourcebottle.com](https://web.archive.org/web/20131209061146id_/http%3A//www.sourcebottle.com/index.asp)
 
 #### Changes to Privacy Policy
 
