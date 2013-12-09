@@ -1,6 +1,72 @@
-> *The following text is extracted and transformed from the talentrooster.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505153337id_/http%3A//www.talentrooster.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentrooster.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209155538id_/http%3A//www.talentrooster.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# 
+# !
+
+_00:00_ _00:00_ _00:00_
+
+## html5: 
+
+https://trvideo.s3.amazonaws.com/General/NewOverview.mp4
+
+Paste this HTML code on your site to embed.
+
+_space_ play / pause
+
+_esc_ stop
+
+_f_ fullscreen
+
+_shift_ \+ _←_ _→_ slower / faster (latest Chrome and Safari)
+
+_←_ _→_ seek
+
+_ . _seek to previous 
+
+_1_ _2_ … _6_ seek to 10%, 20%, …60% 
+
+_00:00_ _00:00_ _00:00_
+
+## html5: 
+
+https://trvideo.s3.amazonaws.com/General/NewOverview.mp4
+
+Paste this HTML code on your site to embed.
+
+_space_ play / pause
+
+_esc_ stop
+
+_f_ fullscreen
+
+_shift_ \+ _←_ _→_ slower / faster (latest Chrome and Safari)
+
+_←_ _→_ seek
+
+_ . _seek to previous 
+
+_1_ _2_ … _6_ seek to 10%, 20%, …60% 
+
+_00:00_ _00:00_ _00:00_
+
+## html5: 
+
+https://trvideo.s3.amazonaws.com/General/NewOverview.mp4
+
+Paste this HTML code on your site to embed.
+
+_space_ play / pause
+
+_esc_ stop
+
+_f_ fullscreen
+
+_shift_ \+ _←_ _→_ slower / faster (latest Chrome and Safari)
+
+_←_ _→_ seek
+
+_ . _seek to previous 
+
+_1_ _2_ … _6_ seek to 10%, 20%, …60% 
 
 **
 
