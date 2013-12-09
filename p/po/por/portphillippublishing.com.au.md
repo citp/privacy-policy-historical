@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portphillippublishing.com.au privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609233410id_/http%3A//portphillippublishing.com.au/%3Fpage_id%3D402) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portphillippublishing.com.au privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209123909id_/http%3A//portphillippublishing.com.au/%3Fpage_id%3D402) for the most accurate reproduction.*
 
 # Privacy Policy | Port Phillip Publishing
 
@@ -61,10 +61,8 @@ PPP will review and update this privacy policy as needed. Please check back regu
 If you have any questions regarding our privacy policy you can reach us here:
 
 Port Phillip Publishing Pty Ltd,  
-PO Box 899,  
-Braeside,  
-VIC 3195,  
-Australia
+PO Box 713  
+South Melbourne, VIC 3205
 
 Ph: 1300 667 481 or +61 3 9037 8309
 
