@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the freeonescams.com privacy policy that was archived on 2013-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627203808id_/http%3A//www.freeonescams.com/privacy.html%3F) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeonescams.com privacy policy that was archived on 2013-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209041127id_/http%3A//www.freeonescams.com/privacy.html%3F) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-  <title>FreeOnesCams - Privacy</title>
+  <title>FreeOnesCams - Privacy Policy</title>
 
   <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-<link rel="stylesheet" type="text/css" href="http://m1.nsimg.net/2.0/shared/css/20130604/style-min.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://m1.nsimg.net/2.0/shared/css/20130919/style-min.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://m1.nsimg.net/2.0/skin/foc/css/20110615/style-skin-min.css" media="all">
 <!--[if IE 6]><link rel="stylesheet" href="http://m2.nsimg.net/2.0/shared/css/20130501/ie6.css" type="text/css" media="screen" charset="utf-8"><![endif]-->
 <!--[if IE 7]><link rel="stylesheet" href="http://m2.nsimg.net/2.0/shared/css/20130501/ie7.css" type="text/css" media="screen" charset="utf-8"><![endif]-->
@@ -238,7 +238,7 @@
 <noscript>
   <img class="hide" src="http://www.freeonescams.com/pixel/nojs.php" alt="">
 </noscript>
-<script type="text/javascript" src="http://m2.nsimg.net/cache/js/bundle/naiad/20130416/naiad.js"></script>
+<script type="text/javascript" src="http://m2.nsimg.net/cache/js/bundle/naiad/20131015/naiad.js"></script>
 <script type="text/javascript">
 window.suggestmeyes_loaded = true;
 Naiad.Init({mediabase:'http://m1.nsimg.net',state:'',wwwbase:location.protocol+'//'+location.hostname});
@@ -262,7 +262,15 @@ Naiad.OnDomReadyQueue([ 50, function() {
 <script id="sanet" type="text/javascript">
 try
 {
-  SAN.Naiad.init({cookie_domain: '.freeonescams.com'});
+  if (typeof Naiad !== 'undefined' && Naiad.OnDomReadyQueue) {
+    Naiad.OnDomReadyQueue([1, function () {
+      SAN.Naiad.init({cookie_domain: '.freeonescams.com'});
+    }]);
+  } else {
+    $(function () {
+      SAN.Naiad.init({cookie_domain: '.freeonescams.com'});
+    });
+  }
 }
 catch(e)
 {
