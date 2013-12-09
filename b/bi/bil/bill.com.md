@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bill.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601203318id_/http%3A//www.bill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bill.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209172220id_/http%3A//www.bill.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -6,9 +6,11 @@
 
 ## Bill.com Privacy Policy
 
+Effective Date: 11/08/2013
+
 ### Truste Web Privacy Seal
 
-Bill.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or concerns regarding this statement, you should first contact [support](https://web.archive.org/contact-us). You can also reach Bill.com Customer Support by telephone at 1.866.989.BILL (2455) or by mail at 3200 Ash Street, Palo Alto, California 94306-2242. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with us to resolve your concerns.
+Bill.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the Bill.com website, and does not cover other information, such as information that may be collected through software downloaded from [www.bill.com](https://web.archive.org/www.bill.com). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or concerns regarding this statement, you should first contact [support](http://www.bill.com/contact-us/). You can also reach Bill.com Customer Support by telephone at 1.866.989.BILL (2455) or by mail at 3200 Ash Street, Palo Alto, California 94306-2242. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 ### What Information Bill.com Collects, and How It Is Used
 
@@ -38,13 +40,17 @@ Business Transfers. Bill.com may sell, transfer or otherwise share some or all o
 
 Aggregate Information and Non-Identifying Information. We may share aggregated information which does not include personal information and we may otherwise disclose non-identifying information and log data with third parties for industry analysis, demographic profiling and other purposes. Any such aggregated information will not contain your personal information.
 
-### How to Correct Inaccurate Information
+### How to Correct and Delete Inaccurate Information
 
-The Bill.com web site enables you to update and correct personally identifiable information regarding you, your employees and others at any time on the web site. The web site also permits you to cancel our service at any time. If you have further concerns about how Bill.com stores or uses personally identifiable information, please contact us at [support@hq.bill.com](mailto:support@hq.bill.com).
+The Bill.com web site enables you to update, correct, and delete/remove personally identifiable information regarding you, your employees and others at any time on the web site. The web site also permits you to cancel our service at any time. If you have further concerns about how Bill.com stores or uses personally identifiable information, please contact us at [support@hq.bill.com](mailto:support@hq.bill.com).
 
 ### Links to Other Sites
 
 The Site may provide links to other sites. If you choose to visit another site by "clicking on" an external link, you will be directed to that party's site. We may track whether these links have been followed to improve the quality of the Site and Bill.com's partnership activities. The fact that we link to another site is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party sites. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. This privacy policy addresses the use and disclosure of information that we collect from you through this Site. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other sites you visit.
+
+### Social Media Widgets
+
+Our Site includes social media features, such as the Facebook Like button and widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it. 
 
 ### International Transfer
 
@@ -56,15 +62,13 @@ This Site is intended for business-to-business use and is not directed to childr
 
 ### Testimonials
 
-We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testemonial, you can contact us at [support@bill.com](mailto:support@bill.com).
 
 ### Changes to This Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-
-**Effective date: 07/15/12**
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
 
 ## Bill.com Security
 
