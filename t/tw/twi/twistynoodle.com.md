@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistynoodle.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524084721id_/http%3A//twistynoodle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistynoodle.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209014225id_/http%3A//twistynoodle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Twisty Noodle
 
