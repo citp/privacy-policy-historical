@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601051201id_/http%3A//www.tripwire.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209043521id_/http%3A//www.tripwire.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
