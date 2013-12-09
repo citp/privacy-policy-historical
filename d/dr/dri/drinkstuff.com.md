@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drinkstuff.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621003432id_/http%3A//www.drinkstuff.com/policies.asp%3Fmode%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drinkstuff.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209053436id_/http%3A//www.drinkstuff.com/policies.asp%3Fmode%3Dfooter) for the most accurate reproduction.*
 
 # Privacy & Security Policies | Drinkstuff.com
 
@@ -28,10 +28,18 @@ If our business enters into a joint venture with or is sold to or merged with an
 
 All customer data and order history is available online from the "My account" and may be corrected, blocked or deleted by request. Please contact our customer services team for assistance.
 
-Cookies are small pieces of information that are stored on your computer's hard drive by your browser. These allow us to store your account information and provide features to make your shopping on our website easier.
+## Cookies Policy
+
+Cookies are small pieces of information that are stored on your computer's hard drive by your browser. These allow us to store your account information and provide features to make your shopping on our website easier. For full information, please view our [Cookie Policy](https://web.archive.org/cookie-policy.asp).
+
+## Security Policy
 
 At Drinkstuff we take security of information very seriously.
 
 Unlike many other companies we do not store your debit/credit card details. We have a secure payment company who handle our transactions called Secure Hosting. The payment information provided to us by you is HTTPS encrypted. This means that no one else can access your information because they would not have the suitable decryption key to decipher it. Our security certificates are issued by COMODO who are one of the top SSL certificate providers.
 
 Our servers offer 128-bit SSL3 encryption of data transmissions, so your security is assured whenever you place an order. Depending on your browser, you will see a different confirmation that your connection is secure (on our checkout page). Generally, it will be a small padlock at the bottom of your browser.
+
+## PCI DSS Level 1 Compliant
+
+PCI DSS (Payment Card Industry Data Security Standards) is a proprietary information security standard for organisations that handle cardholder information from the major card providers. Barmans Ltd has achieved the highest tier level 1 compliance. We are committed to reducing online fraud and as requirement of the standard, we have performed technical and operational modifications to ensure customer data is safe.
