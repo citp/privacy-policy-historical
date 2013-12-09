@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the visuallightbox.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104043450id_/http%3A//visuallightbox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visuallightbox.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209102633id_/http%3A//visuallightbox.com/privacy.html) for the most accurate reproduction.*
 
 # Download Visual Lightbox JS: Free Visual Generator for Lightbox 2 Script for jQuery or Prototype. jQuery Lightbox.
-
-## Privacy Policy
-
-  
-
 
 Your privacy is important to you and to us. To protect your privacy VisualLightBox.com follows different principles in accordance with worldwide practices for customer privacy and data protection.
 
@@ -44,6 +39,3 @@ VisualLightBox.com uses a cookie to store your visiting and referrer information
 GENERAL INFORMATION
 
 VisualLightBox.com also collects general demographic information about visitors to our site. The information we collect creates a broad picture of our population rather than focusing on any one individual. This information is used to continually refine our products and to identify the most popular areas of our site. 
-
-[VisualLightBox.com](http://visuallightbox.com/) © 2010 Visual LightBox Software |  [Terms](https://web.archive.org/web/20121104043450id_/http%3A//visuallightbox.com/terms.html)  |  [Privacy](https://web.archive.org/web/20121104043450id_/http%3A//visuallightbox.com/privacy.html)   
-
