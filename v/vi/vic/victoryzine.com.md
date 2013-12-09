@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victoryzine.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524193847id_/http%3A//victoryzine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoryzine.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209140852id_/http%3A//victoryzine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | victoryzine
 
