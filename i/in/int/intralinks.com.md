@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609041517id_/http%3A//www.intralinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209151433id_/http%3A//www.intralinks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Intralinks
 
@@ -21,8 +21,6 @@ Please note our website includes hyperlinks to other websites neither owned nor 
   * How do the Safe Harbor principles apply to data posted by Intralinks clients in a Workspace?
 
 
-
-* * *
 
 ## What information does Intralinks collect through its public website, and how is this information used?
 
@@ -66,13 +64,104 @@ You also may decline to receive mail or email from us that does not relate direc
 
 ## Does Intralinks use "cookies"?
 
-“Cookies” are small pieces of information that are stored by your web browser on your computer's hard drive. Cookies can be used to remember certain information about you in order to customize the information you see during visits to a website and/or to collect information about your visit.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
 
-If you choose to contact us using an online form or otherwise submit information to us through our website, your web browser will create a temporary Cookie. This temporary Cookie records your email address and makes it faster and easier to submit forms to us. Once you have finished using the form or submitting your information, the Cookie is automatically deleted. We do not collect any information stored in this temporary Cookie. If your browser is set not to accept Cookies, your form information may not be received by Intralinks.
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.
 
-We also use Cookies to help identify you to the Service and provide you with an additional level of security. After you have accessed the Service and supplied your user ID and password, a temporary Cookie is placed on your computer indicating that you have been verified to access the Service. This Cookie enables you to enter an Exchange throughout your current working session and will remain on your computer until you log out of that Exchange or you close your web browser. If your browser is set not to accept Cookies, you will not be able to sign into and/or use the Service. Again, these Cookies are temporary and are not used for tracking your behavior within or outside of the Service. Except as described in this Privacy Policy, we do not use Cookies in conjunction with the Service.
+We use the following cookies:
 
-Also, third party companies under agreement with us may deploy cookies or similar technologies to collect and assemble non-personal and technical information from our users (collectively, “Audience Cookies”). Such Audience Cookies, which do not identify you personally, may be placed when you access our websites or others under contract with these third parties. We and these third parties may use such non-personally identifiable information in combination with your visits in order to present advertisements about Intralinks services likely to be of interest to you. The use of cookies by third parties is subject to their own privacy policies. Please click [here](http://www.aboutads.info/ "AboutAds.info") to learn more and to find out what choices you have to "opt out" of the targeted advertising delivered by these networks. Top
+  * Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website.
+  * Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+  * Functionality cookies. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+  * Targeting cookies. These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website more relevant to your interests. We may also share this information with third parties for this purpose.
+
+
+
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+
+ **COOKIE/NAME**|  **PURPOSE**  
+---|---  
+ **Cookie** : ELOQUA, ELQSTATUS (www. Eloqua.com domain)
+
+ **Name** : Eloqua
+
+| These functional cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. 
+
+For more information on Eloqua Cookies, read Eloqua’s Privacy Policy at <http://www.eloqua.com/trust/privacy-policy.html>.  
+  
+ **Cookie** : _UTMA, _UTMB, _UTMC, _UTMZ
+
+ **Name** : Google Analytics
+
+| _UTMA: Used to distinguish users and sessions. The cookie is created when the JavaScript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.  
+_UTMB: Used to determine new sessions/visits. The cookie is created when the JavaScript library executes and no existing __utmb cookies exists. The cookie is updated every time data is sent to Google Analytics.  
+_UTMC: Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit.  
+_UTMZ: Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the JavaScript library executes and is updated every time data is sent to Google Analytics. 
+
+For more information on Google Analytics Cookies, read Google’s Cookie Policy at <http://www.google.com/policies/technologies/cookies/>, for Developer information, read Google’s Developer information at <https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage>.  
+  
+ **Cookie** : SESS7bc09c6e72096f569322a3aae0c966d9   
+**  
+Name** : Drupal - Session| This cookie records the amount of active sessions on the Intralinks website, allowing the Intralinks team to monitor for performance issues. 
+
+First Party Cookie, for more information on Intralinks’ Privacy Policy, please read [http://www.intralinks.com/privacy](https://web.archive.org/privacy "Intralinks Privacy Policy").  
+  
+ **Cookie** : SnapABugHistory, SnapABugVisit
+
+ **Name** : SnapEngage
+
+| SnapABugHistory: keep track of the visitor visits and last chats to present history to agent  
+SnapABugVisit: detects a new session of the “Chat With Sales” functionality. 
+
+For more information on SnapEngage’s cookies, read <http://help.snapengage.com/what-cookies-does-snapengage-set-on-the-visitors-computer/>. For SnapEngage’s Privacy Policy, read <http://snapengage.com/privacy-policy/>.  
+  
+ **Cookie** : has_js
+
+ **Name** : Drupal – JavaScript Feature Detection
+
+| Detects whether or not a user’s web browser is capable of loading JavaScript, HTML5, CSS, or other scripts that the Intralinks Corporate Website uses to determine which web features to activate for a robust web experience. 
+
+First Party Cookie, for more information on Intralinks’ Privacy Policy, please read [http://www.intralinks.com/privacy](https://web.archive.org/privacy "Intralinks Privacy Policy").  
+  
+ **Cookie** : UID, UIDR
+
+ **Name** : Scorecardresearch
+
+| These cookies are used for anonymous usage statistics for the usage of the Intralinks Corporate Website. 
+
+For ScorecardResearch’s Privacy Policy, please read <http://www.scorecardresearch.com/privacy.aspx>.  
+  
+ **Cookie** : _stid, _uset, _unam
+
+ **Name** : ShareThis
+
+| _stid: is a random unique identifier not tied to any personally identifiable information as part of the ShareThis social sharing module, used to associated users with topics of interest, based upon the content they consume and share  
+_ uset: is set to "true" to indicate when a user has been cookied so that we don't repeat the task in the next 8 hours.  
+_unam: is used to count number of unique users that share content and how many page views are generated from the resulting share. 
+
+For information on the cookies themselves, please read <http://support.sharethis.com/customer/portal/questions/721127-cookies>. For ShareThis’ Privacy Policy, please read <http://sharethis.com/privacy>.  
+  
+ **Cookie** : _kti, _kts, _ktt, _ktv, BIGipServerlct-pool
+
+ **Name** : SalesForce
+
+| _kti, _kts, _ktt ,_ktv and BIGipServerlct-pool are used by Salesforce, our Customer Relationship Management tool, to track the effectiveness of our Marketing and Sales performance. 
+
+For Salesforce’s Privacy Policy, please read: <http://www.salesforce.com/company/privacy/full_privacy.jsp>.  
+  
+ ** **Cookie** : **cookie-agreed-en **
+
+ **Name** :
+
+** Cookie Setting| cookie-agreed-en is used by Intralinks to remember your acceptance of our Cookie Policy 
+
+First Party Cookie, for more information on Intralinks’ Privacy Policy, please read [http://www.intralinks.com/privacy](https://web.archive.org/privacy "Intralinks Privacy Policy").  
+  
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
+
+Except for essential cookies, all cookies will expire after 2 years for all cookies except Salesforce, which expires after 25 years (permanent cookie). Top
 
 ## How will I be notified of changes to this Privacy Policy?
 
@@ -92,4 +181,4 @@ If a complaint that cannot be resolved through our internal processes, we agree 
 
 ## How do the Safe Harbor principles apply to information posted by Intralinks’ clients in a Workspace?
 
-We adhere to the applicable Safe Harbor principles in connection with information uploaded to our Service by Intralinks clients and maintained in an Exchange. Our Service provides Intralinks clients with a central location where they can post information and make it accessible to any party they authorize. We do not undertake to know, and Intralinks clients have no obligation to inform us, whether the information contained in an Exchange includes personal data. We are not responsible for the content of the information posted in an Exchange nor do we decide who has access to such information. We perform limited processing of information for Intralinks clients and accordingly not all of the Safe Harbor principles are applicable to our Service. For more information, please visit <http://www.export.gov/safeharbor/>. Top
+We adhere to the applicable Safe Harbor principles in connection with information uploaded to our Service by Intralinks clients and maintained in an Exchange. Our Service provides Intralinks clients with a central location where they can post information and make it accessible to any party they authorize. We do not undertake to know, and Intralinks clients have no obligation to inform us, whether the information contained in an Exchange includes personal data. We are not responsible for the content of the information posted in an Exchange nor do we decide who has access to such information. We perform limited processing of information for Intralinks clients and accordingly not all of the Safe Harbor principles are applicable to our Service. For more information, please visit <http://www.export.gov/safeharbor/>.Top
