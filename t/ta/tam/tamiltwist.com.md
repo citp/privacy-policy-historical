@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamiltwist.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620160605id_/http%3A//www.tamiltwist.com/2010/02/tamiltwist-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiltwist.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209210232id_/http%3A//www.tamiltwist.com/2010/02/tamiltwist-privacy-policy.html) for the most accurate reproduction.*
 
 # Tamiltwist Privacy Policy ~ Watch High Quality Tamil Movies Online
 
