@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terminallance.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615085220id_/http%3A//terminallance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terminallance.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209095922id_/http%3A//terminallance.com/privacy) for the most accurate reproduction.*
 
 # Terminal Lance - Privacy
 
