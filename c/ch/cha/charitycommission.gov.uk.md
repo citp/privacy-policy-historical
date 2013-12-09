@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charitycommission.gov.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529204028id_/http%3A//www.charitycommission.gov.uk/misc/copyright.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitycommission.gov.uk privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209081149id_/http%3A//www.charitycommission.gov.uk/about-the-commission/freedom-of-information/copyright-statement) for the most accurate reproduction.*
 
 # Copyright statement - Charity Commission
 
@@ -41,9 +41,9 @@ The Commission is not in a position to control the use which people make of info
 
 The Charity Commission searchable databases are designed to meet the needs of a wide range of users wishing to interrogate our information on-line.
 
-Due to limitations of equipment and bandwidth, they are not intended to be a source for bulk downloads. Although downloading all or a substantial part of the contents of the register for a purpose which does not involve making the contents available to the public would not be an infringement of Crown database right, it does cause heavy demands upon the system. Persons wishing to obtain an electronic copy of the whole register or a substantial part of it should follow the Commission's procedure for [obtaining an electronic copy](https://web.archive.org/about-the-commission/freedom-of-information/copyright-register-of-charities/ "Copyright - Register of Charities").
+Due to limitations of equipment and bandwidth, they are not intended to be a source for bulk downloads. Although downloading all or a substantial part of the contents of the register for a purpose which does not involve making the contents available to the public would not be an infringement of Crown database right, it does cause heavy demands upon the system. Persons wishing to obtain an electronic copy of the whole register or a substantial part of it should follow the Commission's procedure for [obtaining an electronic copy](https://web.archive.org/about-the-commission/freedom-of-information/copies-of-the-register-and-other-documents/ "Copyright - Register of Charities").
 
-Individuals, companies, IP addresses or blocks of IP addresses who generate unusually high numbers of daily database accesses, whether generated manually or in an automated fashion, may be denied access to these services without notice. In such cases they should follow the Commission's procedure for [obtaining an electronic copy](https://web.archive.org/about-the-commission/freedom-of-information/copyright-register-of-charities/ "Copyright - Register of Charities").
+Individuals, companies, IP addresses or blocks of IP addresses who generate unusually high numbers of daily database accesses, whether generated manually or in an automated fashion, may be denied access to these services without notice. In such cases they should follow the Commission's procedure for [obtaining an electronic copy](https://web.archive.org/about-the-commission/freedom-of-information/copies-of-the-register-and-other-documents/ "Copyright - Register of Charities").
 
 * * *
 
