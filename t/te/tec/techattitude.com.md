@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techattitude.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530204119id_/http%3A//techattitude.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techattitude.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209142710id_/http%3A//techattitude.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tech Tips
+# Privacy Policy - Tech Tips
 
 **Privacy Policy for www.techattitude.com**
 
