@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripleplay.in privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506042119id_/http%3A//www.tripleplay.in/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripleplay.in privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209183527id_/http%3A//www.tripleplay.in/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Internet, Telephone and HD Cable Provider, Gurgaon
 
