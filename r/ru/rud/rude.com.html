@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rude.com privacy policy that was archived on 2013-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130604013102id_/http%3A//rude.com/main/member_policy/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rude.com privacy policy that was archived on 2013-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209165704id_/http%3A//www.rude.com/main/member_policy/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -29,6 +29,7 @@
 <link href="/style/main/default.css" type="text/css" rel="stylesheet">
 <link href="/style/main/dropdown.style.css" type="text/css" rel="stylesheet">
 
+<link rel="stylesheet" href="/style/ui-lightness/jquery-ui.custom.css">
 		
 
 
@@ -39,6 +40,7 @@
 
 
 <script type="text/javascript" src="/js/common_layout.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.custom.min.js"></script>
 
 
 
@@ -61,6 +63,46 @@ $(document).ready(function(){
 });
 </script>
 
+<style type="text/css">
+.ui-autocomplete {
+	z-index: 9999 !important;
+}
+</style>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		
+		$("#headersearchbox").autocomplete({
+			source: function( request, response ) {
+				$.ajax({
+					url: "/main/search/filtertags/",
+					dataType: "jsonp",
+					data: {
+						q: request.term
+					},
+					success: function( data ) {
+						response( data );
+					}
+				});
+			},
+			minLength: 0,
+			open: function() {
+				$( this ).removeClass( "ui-corner-all" ).addClass( "ui-corner-top" );
+			},
+			close: function() {
+				$( this ).removeClass( "ui-corner-top" ).addClass( "ui-corner-all" );
+			}
+		});
+		
+		$("#headersearchbox").click(function(){
+			if($(this).val() == ''){
+				
+				$(this).autocomplete('search','');
+			}
+			
+		});
+	});
+</script>
 
 
 
@@ -94,7 +136,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 			<td width="26%" align="center">
 					
              <a href="/"><img src="/images/rudelogo.gif" border="0" alt="Rude.com - XXX Live Social Networking sites for Adults" width="200" height="110"></a><br>
-			  <strong> [Rude Member's: <font color="#FF0000">9,162,668</font>] </strong></td>
+			  <strong> [Rude Member's: <font color="#FF0000">9,198,927</font>] </strong></td>
 					
               <td width="55%" valign="top">
 			  			   <!-- if logged in show something different than guest -->
@@ -114,21 +156,20 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     <span class="smalltext">Rude Control</span></div></td>
     <td width="78" height="65" valign="middle" align="center"><div align="center"><a href="/main/message_board/default/"><img src="/images/topnav/rudeboard.jpg" width="73" height="49" border="0" alt="Rude Forums"></a><br>
     <span class="smalltext"><a rel="nofollow" href="/main/message_board/default/">Rude Forum</a></span></div></td>
-    <td width="78" height="65" valign="middle" align="center"><div align="center"><a href="/main/message_board/view_post/topic/198549/"><img src="/images/topnav/rudehelp.jpg" alt="Rude Help" width="73" height="49" border="0"></a><br>
-    <span class="smalltext"><a rel="nofollow" href="/main/message_board/view_post/topic/198549/">Rude Help</a></span></div></td>
+    <td width="78" height="65" valign="middle" align="center"><div align="center"><a href="/main/message_board/view_post/topic/299352/"><img src="/images/topnav/rudehelp.jpg" alt="Rude Help" width="73" height="49" border="0"></a><br>
+    <span class="smalltext"><a rel="nofollow" href="/main/message_board/view_post/topic/299352/">Rude Help</a></span></div></td>
     <td width="78" height="65" valign="middle" align="center"><div align="center"><a href="/main/session/login/"><img src="/images/topnav/login.jpg" alt="Login" width="73" height="49" border="0"></a><br>
     <span class="smalltext"><a rel="nofollow" href="/main/session/login/">Login</a></span></div></td>
   </tr>
   <tr>
     <td colspan="6"><div align="center">
-      <table width="100%" border="0">
-        <tbody><tr>
-          <td height="20" valign="bottom"><div align="center"><form name="content_search" onsubmit="return frm_submit('http://search.rude.com/main/search/check_result/');return false;" action="" method="get" style="margin: 0px; padding: 0px;">
+      <div align="center"><form name="content_search" onsubmit="return frm_submit('http://search.rude.com/main/search/check_result/');return false;" action="" method="get" style="margin: 0px; padding: 0px;">
 			<input type="hidden" name="search" value="Search">	
-			 <input type="text" value="Search Rude Content" onclick="clear_text(this);" name="name" style="width:240px; font-size:10pt; font-weight:bolder; margin-top:6px;">
-			<input type="button" name="searchbutton" value="Search" style="width:65px; font-size:10pt; font-weight:bolder; margin-top:3px;" onclick="frm_submit('http://search.rude.com/main/search/check_result/');"></form></div></td>
-        </tr>
-      </tbody></table>
+			 <input id="headersearchbox" type="text" value="" placeholder="Search Rude Content" name="name" style="width:270px; font-size:10pt; font-weight:bolder; margin-top:6px; padding: 2px;">
+			 <select id="headersearchclass" name="c" style="padding: 1px; font-size: 13px; font-weight: bold;"><option value="a">All</option>
+			  <option value="1" selected="selected">Straight</option>
+			  <option value="2">Gay</option></select>
+			<input type="button" name="searchbutton" value="Search" style="background-color: #2DB500; color: #FFFFFF;font-size: 18px;padding-right: 20px;padding-left: 20px;width:65px; font-size:10pt; font-weight:bolder; margin-top:3px; padding: 2px;" onclick="frm_submit('http://search.rude.com/main/search/check_result/');"></form></div>
       </div>
     </td>
   </tr>
@@ -142,17 +183,17 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <table width="100%" cellpadding="0" cellspacing="0" style="background-image:url('/images/randomcam.jpg');">
 	<tbody><tr>
 		<td align="center" height="125"><br>
-<div id="flashcontent_live_private_lobby_random_thumb_viewer_ILuvCumDrinking" align="center"><p style="font-weight:bold;font-size:9pt;"> <a href="http://www.adobe.com/flashplayer/">You need the FREE Flash Player</a></p></div>
+<div id="flashcontent_live_private_lobby_random_thumb_viewer_NinaJaymes" align="center"><p style="font-weight:bold;font-size:9pt;"> <a href="http://www.adobe.com/flashplayer/">You need the FREE Flash Player</a></p></div>
 <script type="text/javascript" language="javascript">
-var so_pltv = new SWFObject("/flash/live_private_lobby_thumb_viewer.swf?scb=1370309458", "live_private_lobby_thumb_viewer", "100", "75", "8", "#000000");
-so_pltv.addVariable("roomName","ILuvCumDrinking");
-so_pltv.addVariable("displayName","ILuvCumDrinking");
-so_pltv.addVariable("camLink","/private/ILuvCumDrinking/");
+var so_pltv = new SWFObject("/flash/live_private_lobby_thumb_viewer.swf?scb=1386608223", "live_private_lobby_thumb_viewer", "100", "75", "8", "#000000");
+so_pltv.addVariable("roomName","NinaJaymes");
+so_pltv.addVariable("displayName","NinaJaymes");
+so_pltv.addVariable("camLink","/private/NinaJaymes/");
 so_pltv.addVariable("timeoutSeconds","120");
 so_pltv.addVariable("AppRootDomain","rude.com");
-so_pltv.addVariable("host_name","rtmp://fms06.rude.com/live_private_lobby_stream/ILuvCumDrinking");
+so_pltv.addVariable("host_name","rtmp://fms05.rude.com/live_private_lobby_stream/NinaJaymes");
 so_pltv.addVariable("camLinkTarget","_top");
-so_pltv.write("flashcontent_live_private_lobby_random_thumb_viewer_ILuvCumDrinking");
+so_pltv.write("flashcontent_live_private_lobby_random_thumb_viewer_NinaJaymes");
 </script>
 <a rel="nofollow" href="/main/member_join/default/" style="color:#FF0000">JOIN FREE NOW</a>
 		</td>
@@ -184,7 +225,7 @@ so_pltv.write("flashcontent_live_private_lobby_random_thumb_viewer_ILuvCumDrinki
             <li><a href="/live-voyeur-houses/">FREE Live Voyeur Houses</a></li>
         	<li><a href="/live-group-sex/">FREE Live XXX Shows</a></li>                 
             <li><a href="/main/phone_chat/default/live-phone-sex/">Live Phone Sex</a></li>
-            <li><a href="http://www.rudevirtual.com/?trq=18778&amp;pt=1-0-0">Rude Virtual</a></li>
+            <li><a href="http://www.rudevirtual.com/?trq=18778&amp;pt=600354205-0-0">Rude Virtual</a></li>
             <li><a rel="nofollow" href="/main/chat/room/name/free/">Community Free Chat Room</a></li>
         	
    	</ul>
@@ -252,7 +293,9 @@ so_pltv.write("flashcontent_live_private_lobby_random_thumb_viewer_ILuvCumDrinki
             <li><a rel="nofollow" href="/main/games/default/">Games</a></li>   
     	</ul>
     </li>
-    <li><a href="#" onclick="return false;" class="dir dirHeading">Downloads</a>
+         <li><a rel="nofollow" href="/main/session/login/" class="dir dirHeading">Upload</a>
+    </li>
+        <li><a href="#" onclick="return false;" class="dir dirHeading">Downloads</a>
     	<ul>
         	<li><a href="/main/message_board/view_topic/forum/14/viral-clips-amp-pics/">Viral Clips &amp; Pics</a></li>
         	<li><a href="/main/premium/videos/download-xxx-hardcore-sex/download/y/">Flix Video Downloads</a></li>
@@ -268,9 +311,9 @@ so_pltv.write("flashcontent_live_private_lobby_random_thumb_viewer_ILuvCumDrinki
             <li><a rel="nofollow" href="https://secure.rude.com/main/member_vip/direct/">Upgrade to VIP Status!</a></li>     
     	</ul>
     </li>    
-        <li><a rel="nofollow" href="/main/session/login/" class="dir dirHeading">Upload</a>
-    </li>
-    </ul></div></td>
+    <li><a href="http://rude.idealgasm.com/" target="_blank" class="dir dirHeading">Deals</a></li>
+   
+</ul></div></td>
       </tr>
 	 </tbody></table>
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
@@ -408,7 +451,10 @@ Our affiliates is not SPAM as that term is defined under the law.
 </tr>
   <tr valign="top" bgcolor="#333333">
         <td><div class="pageFooter"><p style="font-size: 14px;"><img src="/images/feed/14x14.png" alt="RSS and Atom Feeds" width="14" height="14" border="0"> 
-<a href="/main/feeds/default/">Feeds</a> </p>
+<a href="/main/feeds/default/">Feeds</a> ·
+<a href="/mobile/mobile/index/">Mobile Site</a> ·
+<a href="/tablet/mobile/index/">Tablet Site</a>
+</p>
 
 <p style="font-size: 12px;">
 <a href="/main/advertising/banners/">Advertising</a>  ·
