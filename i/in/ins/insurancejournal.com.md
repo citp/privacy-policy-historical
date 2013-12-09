@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the insurancejournal.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526184736id_/http%3A//www.insurancejournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancejournal.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209194518id_/http%3A//www.insurancejournal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The policies below are applicable to Insurance Journal Online, which is owned and operated by Wells Publishing Inc.
+The policies below are applicable to Insurance Journal Online, which is owned and operated by Wells Media Group Inc.
 
 **Collection of Information**
 
-As a general policy, no personal information is automatically collected from visitors to the InsuranceJournal site, nor is so-called cookie technology used to collect personally identifying information by the sites created by Wells Publishing Inc.
+As a general policy, no personal information is automatically collected from visitors to the InsuranceJournal site, nor is so-called cookie technology used to collect personally identifying information by the sites created by Wells Media Group Inc.
 
 This means that we will not know your name, your email address, or any other personally identifiable information just because you browse the Insurance Journal web site unless you:
 
@@ -111,6 +111,6 @@ Fax: (619) 584-1200
 
 Insurance Journal may amend this Online Privacy Statement from time to time in order to meet changes in the regulatory environment, business needs, or to satisfy the needs of our customers, affiliates, strategic marketing partners, and service providers. Updated versions will be posted to our web site and date stamped so that you are always aware when the Online Privacy Statement was last updated.
 
-By using this site, you signify your assent to the Insurance Journal Online Privacy Policy. Wells Publishing Inc. reserves the right to make changes to this privacy statement at its sole discretion without notice to the User.
+By using this site, you signify your assent to the Insurance Journal Online Privacy Policy. Wells Media Group Inc. reserves the right to make changes to this privacy statement at its sole discretion without notice to the User.
 
 Revised May 2006
