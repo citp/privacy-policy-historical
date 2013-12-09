@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urlvoid.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530010640id_/http%3A//www.urlvoid.com/eula) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urlvoid.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209015459id_/http%3A//www.urlvoid.com/eula) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Service | IPVoid.com
 
@@ -26,4 +26,8 @@ This website uses third-party advertising companies to serve ads when you visit 
 
 ## EXTERNAL TOOLS
 
-[What is My IP Address](http://www.toolsvoid.com/what-is-my-ip-address) [IP & Domain Whois Lookup](http://www.toolsvoid.com/whois-lookup) [**URL Content Dump**](http://www.toolsvoid.com/url-dump) [Inspect HTTP Response Header](http://www.toolsvoid.com/httpheaders) [Ping Command Online](http://www.toolsvoid.com/ping-host-online) [Traceroute Command Online](http://www.toolsvoid.com/traceroute-online) [DNS Resource Records](http://www.toolsvoid.com/dns-records) [Redirections Fetcher](http://www.toolsvoid.com/redirections-fetcher) [Unshorten Shortened URLs](http://www.toolsvoid.com/unshorten-url) [Htpasswd Password Generator](http://www.toolsvoid.com/htpasswd-password-generator) [DiG DNS Lookup](http://www.toolsvoid.com/dig-dns-lookup) [Extract IP Addresses](http://www.toolsvoid.com/extract-ip-addresses)
+[What is My IP Address](http://www.toolsvoid.com/what-is-my-ip-address) [IP & Domain Whois Lookup](http://www.toolsvoid.com/whois-lookup) [URL Content Dump](http://www.toolsvoid.com/url-dump) [Inspect HTTP Response Header](http://www.toolsvoid.com/httpheaders) [Ping Command Online](http://www.toolsvoid.com/ping-host-online) [Traceroute Command Online](http://www.toolsvoid.com/traceroute-online) [DNS Resource Records](http://www.toolsvoid.com/dns-records) [Redirections Fetcher](http://www.toolsvoid.com/redirections-fetcher) [Unshorten Shortened URLs](http://www.toolsvoid.com/unshorten-url) [Htpasswd Password Generator](http://www.toolsvoid.com/htpasswd-password-generator) [DiG DNS Lookup](http://www.toolsvoid.com/dig-dns-lookup) [Extract IP Addresses](http://www.toolsvoid.com/extract-ip-addresses)
+
+## ADVERTISEMENT
+
+[](http://send.onenetworkdirect.net/z/143027/CD115178/)
