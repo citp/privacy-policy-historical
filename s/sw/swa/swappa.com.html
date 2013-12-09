@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the swappa.com privacy policy that was archived on 2013-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630224859id_/http%3A//swappa.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swappa.com privacy policy that was archived on 2013-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209102530id_/http%3A//swappa.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	
@@ -76,32 +76,37 @@
 		};
 		
 		// include devices_typeahead_javascript
-		$("#id_q").typeahead({ 
-			source: search_typeahead_items,
-			minLength: 2,
-			items: 15,
-			updater: function(item) {
-				// item arg is selected item
-				// jump to device page action
-				if (item in search_typeahead_device_mapping) {
-					//alert("DEVICE: " + item);
-					var slug = search_typeahead_device_mapping[item];
-					var jump_url = "http://swappa.com/buy/" + slug;
-					var pageJump = function() { location.href = jump_url; }
-					setTimeout(pageJump, 200);
+		// http://stackoverflow.com/questions/12413594/twitter-bootstrap-typeahead-get-context-calling-element-with-this
+		$(".search-query").each(function() {
+			var $this = $(this);
+			$this.typeahead({
+			//$(".search-query").typeahead({
+				source: search_typeahead_items,
+				minLength: 2,
+				items: 15,
+				updater: function(item) {
+					// item arg is selected item
+					// jump to device page action
+					if (item in search_typeahead_device_mapping) {
+						var slug = search_typeahead_device_mapping[item];
+						var jump_url = "http://swappa.com/buy/" + slug;
+						var pageJump = function() { location.href = jump_url; }
+						setTimeout(pageJump, 200);
+					}
+					else {
+						// search form submit action
+						var theForm = $this.closest("form"); //$("#header_search_form");
+						var formSubmit = function() { theForm.submit(); }
+						setTimeout(formSubmit, 200);
+					}
+					// what we return here will actually be set in the search field for the above form submission
+					if (item) {
+						return item; // return the selected
+					} else {
+						return this.query; // we don't always return something in the list
+					}
 				}
-				else {
-					// search form submit action
-					var formSubmit = function() { $("#header_search_form").submit(); }
-					setTimeout(formSubmit, 200);
-				}
-				// what we return here will actually be set in the search field for the above form submission
-				if (item) {
-					return item; // return the selected
-				} else {
-					return this.query; // we don't always return something in the list
-				}
-			}
+			});
 		});
 		
 	});
@@ -121,6 +126,9 @@
 	});
 	</script>
 	<style>
+		.dev_mega_menu_dropdown .carrier_pic {
+			margin: 0px;
+		}
 	</style>
 	
 	
@@ -159,10 +167,314 @@
 			</a>
 			
 			<div><!-- class="nav-collapse" -->
-				<!-- Primary -->
+				<ul class="nav">
+					<!--
+					<li id="nav_why_li">
+						<a href="/why">Why Swappa?</a>
+					</li>
+					-->
+					<li id="nav_buy_li">
+						<a href="/buy">Buy</a>
+					</li>
+					<li id="nav_sell_li">
+						<a href="/sell">Sell</a>
+					</li>
+				</ul>
+				<div>
+					<form id="header_search_form" class="navbar-search pull-left" action="/search" method="get">
+						<input type="text" name="q" id="id_q" class="search-query span2" placeholder="Search" data-provide="typeahead" autocomplete="off">
+					</form>
+				</div>
 				<ul class="nav">
 					
 					
+					<li id="nav_devices_li" class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown"> Devices <b class="caret"></b></a>
+						<div id="dev_mega_menu_dropdown" class="dropdown-menu span10">
+							
+							<div id="dev_mega_menu_content" class="row">
+								<div class="span2">
+									<ul>
+									
+										<li id="mm_li_att" class="featured">
+											<a href="/devices/att">AT&amp;T</a>
+										</li>
+									
+										<li id="mm_li_advent">
+											<a href="/devices/advent">Advent</a>
+										</li>
+									
+										<li id="mm_li_alltel">
+											<a href="/devices/alltel">Alltel</a>
+										</li>
+									
+										<li id="mm_li_amazon">
+											<a href="/devices/amazon">Amazon</a>
+										</li>
+									
+										<li id="mm_li_amazon">
+											<a href="/devices/amazon">Amazon</a>
+										</li>
+									
+										<li id="mm_li_apple" class="featured">
+											<a href="/devices/apple">Apple</a>
+										</li>
+									
+										<li id="mm_li_archos">
+											<a href="/devices/archos">Archos</a>
+										</li>
+									
+										<li id="mm_li_asus">
+											<a href="/devices/asus">Asus</a>
+										</li>
+									
+										<li id="mm_li_bell-canada">
+											<a href="/devices/bell-canada">Bell (Canada)</a>
+										</li>
+									
+										<li id="mm_li_blackberry">
+											<a href="/devices/blackberry">Blackberry</a>
+										</li>
+									
+										<li id="mm_li_blu">
+											<a href="/devices/blu">Blu</a>
+										</li>
+									
+									</ul>
+								</div>
+								<div class="span2">
+									<ul>
+									
+										<li id="mm_li_boost">
+											<a href="/devices/boost">Boost</a>
+										</li>
+									
+										<li id="mm_li_cspire">
+											<a href="/devices/cspire">C-Spire</a>
+										</li>
+									
+										<li id="mm_li_cricket">
+											<a href="/devices/cricket">CricKet</a>
+										</li>
+									
+										<li id="mm_li_dell">
+											<a href="/devices/dell">Dell</a>
+										</li>
+									
+										<li id="mm_li_fuhu">
+											<a href="/devices/fuhu">Fuhu</a>
+										</li>
+									
+										<li id="mm_li_fujitsu">
+											<a href="/devices/fujitsu">Fujitsu</a>
+										</li>
+									
+										<li id="mm_li_garmin-asus">
+											<a href="/devices/garmin-asus">Garmin-Asus</a>
+										</li>
+									
+										<li id="mm_li_google">
+											<a href="/devices/google">Google</a>
+										</li>
+									
+										<li id="mm_li_htc" class="featured">
+											<a href="/devices/htc">HTC</a>
+										</li>
+									
+										<li id="mm_li_hp">
+											<a href="/devices/hp">Hewlett-Packard</a>
+										</li>
+									
+										<li id="mm_li_hisense">
+											<a href="/devices/hisense">Hisense</a>
+										</li>
+									
+									</ul>
+								</div>
+								<div class="span2">
+									<ul>
+									
+										<li id="mm_li_huawei">
+											<a href="/devices/huawei">Huawei</a>
+										</li>
+									
+										<li id="mm_li_kajeet">
+											<a href="/devices/kajeet">Kajeet</a>
+										</li>
+									
+										<li id="mm_li_kyocera">
+											<a href="/devices/kyocera">Kyocera</a>
+										</li>
+									
+										<li id="mm_li_lg" class="featured">
+											<a href="/devices/lg">LG</a>
+										</li>
+									
+										<li id="mm_li_lenovo">
+											<a href="/devices/lenovo">Lenovo</a>
+										</li>
+									
+										<li id="mm_li_meizu">
+											<a href="/devices/meizu">Meizu</a>
+										</li>
+									
+										<li id="mm_li_metro-pcs">
+											<a href="/devices/metro-pcs">Metro PCS</a>
+										</li>
+									
+										<li id="mm_li_microsoft">
+											<a href="/devices/microsoft">Microsoft</a>
+										</li>
+									
+										<li id="mm_li_motorola" class="featured">
+											<a href="/devices/motorola">Motorola</a>
+										</li>
+									
+										<li id="mm_li_net10">
+											<a href="/devices/net10">Net10</a>
+										</li>
+									
+										<li id="mm_li_nokia">
+											<a href="/devices/nokia">Nokia</a>
+										</li>
+									
+									</ul>
+								</div>
+								<div class="span2">
+									<ul>
+									
+										<li id="mm_li_nvidia">
+											<a href="/devices/nvidia">Nvidia</a>
+										</li>
+									
+										<li id="mm_li_oppo">
+											<a href="/devices/oppo">Oppo</a>
+										</li>
+									
+										<li id="mm_li_pantech">
+											<a href="/devices/pantech">Pantech</a>
+										</li>
+									
+										<li id="mm_li_republic-wireless">
+											<a href="/devices/republic-wireless">Republic Wireless</a>
+										</li>
+									
+										<li id="mm_li_rogers">
+											<a href="/devices/rogers">Rogers</a>
+										</li>
+									
+										<li id="mm_li_samsung" class="featured">
+											<a href="/devices/samsung">Samsung</a>
+										</li>
+									
+										<li id="mm_li_sanyo">
+											<a href="/devices/sanyo">Sanyo</a>
+										</li>
+									
+										<li id="mm_li_sharp">
+											<a href="/devices/sharp">Sharp</a>
+										</li>
+									
+										<li id="mm_li_skytex">
+											<a href="/devices/skytex">Skytex</a>
+										</li>
+									
+										<li id="mm_li_sony">
+											<a href="/devices/sony">Sony</a>
+										</li>
+									
+										<li id="mm_li_sony-ericsson">
+											<a href="/devices/sony-ericsson">Sony-Ericsson</a>
+										</li>
+									
+									</ul>
+								</div>
+								<div class="span2">
+									<ul>
+									
+										<li id="mm_li_sprint" class="featured">
+											<a href="/devices/sprint">Sprint</a>
+										</li>	
+									
+										<li id="mm_li_straight-talk">
+											<a href="/devices/straight-talk">Straight Talk</a>
+										</li>	
+									
+										<li id="mm_li_t-mobile" class="featured">
+											<a href="/devices/t-mobile">T-Mobile</a>
+										</li>	
+									
+										<li id="mm_li_telus">
+											<a href="/devices/telus">Telus</a>
+										</li>	
+									
+										<li id="mm_li_ting">
+											<a href="/devices/ting">Ting</a>
+										</li>	
+									
+										<li id="mm_li_toshiba">
+											<a href="/devices/toshiba">Toshiba</a>
+										</li>	
+									
+										<li id="mm_li_tracfone">
+											<a href="/devices/tracfone">TracFone</a>
+										</li>	
+									
+										<li id="mm_li_us-cellular">
+											<a href="/devices/us-cellular">US Cellular</a>
+										</li>	
+									
+										<li id="mm_li_unlocked" class="featured">
+											<a href="/devices/unlocked">Unlocked</a>
+										</li>	
+									
+										<li id="mm_li_unlocked-non-us">
+											<a href="/devices/unlocked-non-us">Unlocked Non-US</a>
+										</li>	
+									
+										<li id="mm_li_verizon" class="featured">
+											<a href="/devices/verizon">Verizon</a>
+										</li>	
+									
+									</ul>
+								</div>
+							</div>
+							
+							<div class="row">
+								<div class="span2">
+									<a href="/devices/verizon" title="Verizon Phones and Tablets" class="carrier_pic">
+										<img src="/static/images/verizon_106x60.png" width="106" height="60" alt="Verizon Phones &amp; Tablets" border="0"></a>
+								</div>
+								<div class="span2">
+									<a href="/devices/att" title="AT&amp;T Phones and Tablets" class="carrier_pic">
+										<img src="/static/images/att_115x60.png" width="115" height="60" alt="AT&amp;T Phones &amp; Tablets" border="0"></a>
+								</div>
+								<div class="span2">
+									<a href="/devices/t-mobile" title="T-Mobile Phones and Tablets" class="carrier_pic">
+										<img src="/static/images/tmobile_122x60.png" width="122" height="60" alt="T-Mobile Phones &amp; Tablets" border="0"></a>
+								</div>
+								<div class="span2">
+									<a href="/devices/sprint" title="Sprint Phones and Tablets" class="carrier_pic">
+										<img src="/static/images/sprint_122x60.png" width="122" height="60" alt="Sprint Phones &amp; Tablets" border="0"></a>
+								</div>
+								<div class="span2">
+									<a href="/devices/unlocked" title="Unlocked Phones and Tablets" class="carrier_pic">
+										<img src="/static/images/unlocked_132x60.png" width="132" height="60" alt="Unlocked Phones &amp; Tablets" border="0"></a>
+								</div>
+							</div>
+						</div>
+					</li>
+					
+					
+					<li id="nav_faq_li">
+						<a href="/faq">FAQ</a>
+					</li>
+					<li id="nav_esn_li">
+						<a href="/esn">ESN</a>
+					</li>
+				</ul>
+				<ul class="nav pull-right">
+				
 					<li id="nav_devices_li" class="dropdown">
 						<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" rel="nofollow"> <img src="http://swappa.s3.amazonaws.com/media/icons/flags/us.png" width="16"> &nbsp; US <b class="caret"></b></a>
 						<ul class="dropdown-menu">
@@ -211,269 +523,7 @@
 							</li>
 						</ul>
 					</li>
-					
-					
-					<li id="nav_why_li">
-						<a href="/why">Why Swappa?</a>
-					</li>
-					<li id="nav_buy_li">
-						<a href="/buy">Buy</a>
-					</li>
-					<li id="nav_sell_li">
-						<a href="/sell">Sell</a>
-					</li>
-					<!--
-					<li id="nav_faq_li">
-						<a href="/faq">FAQ</a>
-					</li>
-					-->
-					<li id="nav_esn_li">
-						<a href="/esn">ESN</a>
-					</li>
-					
-					
-					<li id="nav_devices_li" class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown"> Devices <b class="caret"></b></a>
-						<div id="dev_mega_menu_dropdown" class="dropdown-menu span10">
-							
-							<div id="dev_mega_menu_content" class="row">
-								<div class="span2">
-									<ul>
-									
-										<li id="mm_li_att" class="featured">
-											<a href="/devices/att">AT&amp;T</a>
-										</li>	
-									
-										<li id="mm_li_advent">
-											<a href="/devices/advent">Advent</a>
-										</li>	
-									
-										<li id="mm_li_amazon">
-											<a href="/devices/amazon">Amazon</a>
-										</li>	
-									
-										<li id="mm_li_amazon">
-											<a href="/devices/amazon">Amazon</a>
-										</li>	
-									
-										<li id="mm_li_apple" class="featured">
-											<a href="/devices/apple">Apple</a>
-										</li>	
-									
-										<li id="mm_li_archos">
-											<a href="/devices/archos">Archos</a>
-										</li>	
-									
-										<li id="mm_li_asus">
-											<a href="/devices/asus">Asus</a>
-										</li>	
-									
-										<li id="mm_li_bell-canada">
-											<a href="/devices/bell-canada">Bell (Canada)</a>
-										</li>	
-									
-										<li id="mm_li_blackberry">
-											<a href="/devices/blackberry">Blackberry</a>
-										</li>	
-									
-										<li id="mm_li_blu">
-											<a href="/devices/blu">Blu</a>
-										</li>	
-									
-									</ul>
-								</div>
-								<div class="span2">
-									<ul>
-									
-										<li id="mm_li_boost">
-											<a href="/devices/boost">Boost</a>
-										</li>	
-									
-										<li id="mm_li_coby">
-											<a href="/devices/coby">Coby</a>
-										</li>	
-									
-										<li id="mm_li_cricket">
-											<a href="/devices/cricket">CricKet</a>
-										</li>	
-									
-										<li id="mm_li_dell">
-											<a href="/devices/dell">Dell</a>
-										</li>	
-									
-										<li id="mm_li_garmin-asus">
-											<a href="/devices/garmin-asus">Garmin-Asus</a>
-										</li>	
-									
-										<li id="mm_li_google">
-											<a href="/devices/google">Google</a>
-										</li>	
-									
-										<li id="mm_li_htc" class="featured">
-											<a href="/devices/htc">HTC</a>
-										</li>	
-									
-										<li id="mm_li_hp">
-											<a href="/devices/hp">Hewlett-Packard</a>
-										</li>	
-									
-										<li id="mm_li_huawei">
-											<a href="/devices/huawei">Huawei</a>
-										</li>	
-									
-										<li id="mm_li_kajeet">
-											<a href="/devices/kajeet">Kajeet</a>
-										</li>	
-									
-									</ul>
-								</div>
-								<div class="span2">
-									<ul>
-									
-										<li id="mm_li_kyocera">
-											<a href="/devices/kyocera">Kyocera</a>
-										</li>	
-									
-										<li id="mm_li_lg" class="featured">
-											<a href="/devices/lg">LG</a>
-										</li>	
-									
-										<li id="mm_li_lenovo">
-											<a href="/devices/lenovo">Lenovo</a>
-										</li>	
-									
-										<li id="mm_li_meizu">
-											<a href="/devices/meizu">Meizu</a>
-										</li>	
-									
-										<li id="mm_li_metro-pcs">
-											<a href="/devices/metro-pcs">Metro PCS</a>
-										</li>	
-									
-										<li id="mm_li_microsoft">
-											<a href="/devices/microsoft">Microsoft</a>
-										</li>	
-									
-										<li id="mm_li_motorola" class="featured">
-											<a href="/devices/motorola">Motorola</a>
-										</li>	
-									
-										<li id="mm_li_nokia">
-											<a href="/devices/nokia">Nokia</a>
-										</li>	
-									
-										<li id="mm_li_oppo">
-											<a href="/devices/oppo">Oppo</a>
-										</li>	
-									
-										<li id="mm_li_pantech">
-											<a href="/devices/pantech">Pantech</a>
-										</li>	
-									
-									</ul>
-								</div>
-								<div class="span2">
-									<ul>
-									
-										<li id="mm_li_rogers">
-											<a href="/devices/rogers">Rogers</a>
-										</li>	
-									
-										<li id="mm_li_samsung" class="featured">
-											<a href="/devices/samsung">Samsung</a>
-										</li>	
-									
-										<li id="mm_li_sanyo">
-											<a href="/devices/sanyo">Sanyo</a>
-										</li>	
-									
-										<li id="mm_li_sharp">
-											<a href="/devices/sharp">Sharp</a>
-										</li>	
-									
-										<li id="mm_li_skytex">
-											<a href="/devices/skytex">Skytex</a>
-										</li>	
-									
-										<li id="mm_li_sony">
-											<a href="/devices/sony">Sony</a>
-										</li>	
-									
-										<li id="mm_li_sony-ericsson">
-											<a href="/devices/sony-ericsson">Sony-Ericsson</a>
-										</li>	
-									
-										<li id="mm_li_sprint" class="featured">
-											<a href="/devices/sprint">Sprint</a>
-										</li>	
-									
-										<li id="mm_li_t-mobile" class="featured">
-											<a href="/devices/t-mobile">T-Mobile</a>
-										</li>	
-									
-										<li id="mm_li_telus">
-											<a href="/devices/telus">Telus</a>
-										</li>	
-									
-									</ul>
-								</div>
-								<div class="span2">
-									<ul>
-									
-										<li id="mm_li_toshiba">
-											<a href="/devices/toshiba">Toshiba</a>
-										</li>	
-									
-										<li id="mm_li_us-cellular">
-											<a href="/devices/us-cellular">US Cellular</a>
-										</li>	
-									
-										<li id="mm_li_unlocked" class="featured">
-											<a href="/devices/unlocked">Unlocked</a>
-										</li>	
-									
-										<li id="mm_li_unlocked-non-us">
-											<a href="/devices/unlocked-non-us">Unlocked Non-US</a>
-										</li>	
-									
-										<li id="mm_li_verizon" class="featured">
-											<a href="/devices/verizon">Verizon</a>
-										</li>	
-									
-										<li id="mm_li_virgin">
-											<a href="/devices/virgin">Virgin Mobile</a>
-										</li>	
-									
-										<li id="mm_li_wifi" class="featured">
-											<a href="/devices/wifi">Wi-Fi</a>
-										</li>	
-									
-										<li id="mm_li_xiaomi">
-											<a href="/devices/xiaomi">Xiaomi</a>
-										</li>	
-									
-										<li id="mm_li_xolo">
-											<a href="/devices/xolo">Xolo</a>
-										</li>	
-									
-										<li id="mm_li_zte">
-											<a href="/devices/zte">ZTE</a>
-										</li>	
-									
-									</ul>
-								</div>
-							</div>
-							
-						</div>
-					</li>
-					
-					
-					
-				</ul>
-				<form id="header_search_form" class="navbar-search pull-left" action="/search" method="get">
-					<input type="text" name="q" id="id_q" class="search-query span2" placeholder="Search" data-provide="typeahead" autocomplete="off">
-				</form>
-				<ul class="nav pull-right">
+				
 				
 					<li class="nav-icon-50">
 						<a style="padding: 5px 0px 0px 0px;" href="/login?next=/privacy"><img src="/static/icons/no_profile_50.png" width="50" height="50" alt="Profile" border="0"></a>
@@ -661,6 +711,7 @@
 		<li>
 			<a href="/reddit" title="Swappa and Reddit">♥ Reddit</a>
 		</li>
+		<!--
 		<li>
 			<a href="/news" title="Swappa News and Announcements">Swappa News and Announcements</a>
 		</li>
@@ -673,6 +724,7 @@
 		<li>
 			<a href="/latest/feedbacks" title="Latest Feedbacks">Latest Feedbacks</a>
 		</li>
+		-->
 		
 		<li class="nav-header">
 			Legal
@@ -729,13 +781,13 @@
 				<div class="body">
 					<ul>
 						<li>
-							<a href="/why">Why?</a> | <a href="/about">About</a> | <a href="/buy">Buy</a> | <a href="/sell">Sell</a> | <a href="/faq">FAQ</a> | <a href="/esn">ESN Check</a>
+							<a href="/why">Why?</a> | <a href="/about">About</a> | <a href="/buy">Buy</a> | <a href="/sell">Sell</a> | <a href="/faq">FAQ</a>
 						</li>
 						<li>
-							<a href="/markets">Markets</a> | <a href="/blog" target="_blank">Blog</a> | <a href="/press">Press</a> | <a href="/nice">Nice</a> | <a href="/risks">Risks</a>
+							 <a href="/esn">ESN Check</a> | <a href="http://blog.swappa.com">Blog</a> | <a href="/ebay">vs. eBay</a>
 						</li>
 						<li>
-							<a href="/cyanogenmod">♥ CyanogenMod</a> | <a href="/reddit">♥ Reddit</a> | <a href="/ebay">vs. eBay</a>
+							<a href="/markets">Markets</a> | <a href="/blog" target="_blank">Blog</a> | <a href="/press">Press</a> | <a href="/risks">Risks</a>
 						</li>
 						<li>
 							<a href="/contact">Contact</a> | <a href="/terms">Terms of Use</a> | <a href="/privacy">Privacy Policy</a>
