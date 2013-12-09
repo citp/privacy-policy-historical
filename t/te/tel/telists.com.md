@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the telists.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227131118id_/http%3A//www.telists.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telists.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209100412id_/http%3A//www.te-lists.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy for Telists.com
+# Privacy Policy for Te-Lists.com
 
-##  Privacy Policy for Telists.com
+##  Privacy Policy for Te-Lists.com
 
-At Telists.Com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by the site, how it is used and safeguard your information. 
+At Te-Lists.Com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by the site, how it is used and safeguard your information. 
 
 ###  Log Files 
 
@@ -14,7 +14,7 @@ As with most other websites, we collect and use the data contained in log files.
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
 
-We also use third party advertisements on Telists.com to support our site. Our advertising partners include Google Adsense. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site which will also send these advertisers information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited. 
+We also use third party advertisements on Te-Lists.com to support our site. Our advertising partners include Google Adsense. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site which will also send these advertisers information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited. 
 
 ###  DoubleClick DART cookies 
 
