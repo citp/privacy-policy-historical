@@ -1,148 +1,163 @@
-> *The following text is extracted and transformed from the rsaconference.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430152159id_/http%3A//rsaconference.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsaconference.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209165221id_/http%3A//www.emc.com/legal/emc-corporation-privacy-statement.htm) for the most accurate reproduction.*
 
-# Privacy Policy | RSA Conference
+# EMC Corporation Privacy Statement - EMC
 
-**The views expressed by any Conference attendee, speaker, exhibitor or sponsor are not necessarily those of RSA. All conference attendees, speakers, exhibitors and sponsors are solely responsible for the content of any and all individual or corporation presentations, marketing collateral, advertising and online Web content.**
+[](https://privacy.truste.com/privacy-seal/EMC-Corporation/validation?rid=beed4676-e152-4a58-9ba6-7cb88e8da5f0 "TRUSTe European Safe Harbor certification")
 
-**IMPORTANT: BY USING THE RSACONFERENCE.COM WEB SITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY RSA, THE SECURITY DIVISION OF EMC (AS ORGANIZERS OF THE GLOBAL RSA CONFERENCES) IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.**
+_**Updated: November 14, 2013**_
 
-**Definitions**
+### General Information
 
-Rsaconference.com is owned and operated by RSA, the Security Division of EMC, and contractors/agents of RSA, the Security Division of EMC. The terms "RSA", "we", "us", "our" and "ours" when used in this Privacy Policy means organizers of the RSA Conference and operators of the **RSAconference.com** website. This includes all its parents, subsidiaries, divisions, branches, affiliates or companies under common ownership or control of RSA. The terms "you", "your" and "yours" when used in this Privacy Policy means any user of this Web Site. The term "Personal Data" refers to personally identifiable information about you, such as your name, birth date, e-mail address or mailing address. This Privacy Policy describes RSA's current policies and practices with regard to Personal Data collected by RSA through [www.rsaconference.com](http://www.rsaconference.com/)("Web Site"). We operate this Web Site in full compliance with relevant data protection legislation in operation in a number of European member states.
+This Privacy Statement explains what types of information EMC Corporation and its wholly-owned subsidiaries (“EMC,” “we,” or “us”) or our service providers may collect from or about visitors to, or users of, our websites or applications (“you”), and describes our practices for collecting, using, retaining, protecting, disclosing, and transferring such information. 
 
-**Notification of changes to this Policy**
+### Scope
 
-We are continually improving and adding new functionality and features to this Web Site and improving and adding to its existing products, services and programs. Because of these ongoing changes, changes in the law and the changing nature of technology, our data practices will change from time to time. If and when our data practices change, we will post the changes on this Web Site to notify you of the changes. We encourage you to check this page frequently.
+This Privacy Statement applies to personal information and other information collected by EMC or its service providers from or about you when you (i) access EMC websites or use EMC applications (including mobile applications) that display or link to this Privacy Statement, or (ii) open and respond to our e-mails. Unless otherwise specified below, this Privacy Statement does not apply to any other products or services or to information collected in any other way (whether online or offline) or for any other purpose. Information we may process about clients of our customers is addressed separately in the section below entitled "Personal Information of our Customers’ Clients."
 
-**Collection of Personal Data including e-mail addresses**
+### Safe Harbor Compliance and TRUSTe Privacy Program Certification
 
-We collect the information you give us when you use our Web Site. You may use this Web Site to register to receive additional information or products from us. When you register, we ask you for contact information like your name, postal address and e-mail address. This information enables us to provide you with more personalized service.
+EMC complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework ("Safe Harbor") as set forth by the U.S. Department of Commerce regarding the collection, use, retention, and transfer of personal information from the European Union, the European Economic Area, and Switzerland. EMC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view EMC’s certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor). 
 
-We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate postal or zip codes are received, we will use third party software to fix them.
+EMC has been awarded TRUSTe's Privacy Seal signifying that this Privacy Statement and EMC’s practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability, and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. See below for our contact information if you have questions or complaints regarding this Privacy Statement or our privacy practices. If you are not satisfied with our response, you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-Unless you "opt-in" or otherwise give us express permission to do so, your personal contact information will not be provided to other, non-RSA third parties.
+The TRUSTe program covers information that is collected through the following EMC websites: [www.emc.com](http://www.emc.com/), [www.syncplicity.com](http://www.syncplicity.com/), and [www.rsaconference.com](http://www.rsaconference.com/).
 
-**RSA Conference Email Marketing Communication Policy**
+Except for services provided by Syncplicity, the TRUSTe program does not cover information that may be collected through downloadable software, when we act as a data processor, or through mobile devices. When using the Syncplicity mobile application or desktop application, we may collect information from your device such as unique device ID, anonymous application usage statistics, device type, operating system, and version of your device. Syncplicity will not access or track any location-based information from your mobile device at any time while downloading or using the Syncplicity mobile application.
 
-This policy reflects the United States Direct Marketing Association's "Commercial Solicitation Online Guidelines".
+### What Personal and Other Information Does EMC Collect?
 
-RSA sends promotional email messages only under the following circumstances:
+EMC or our service providers may collect personal information and other information from or about you when you:
 
-  1. They are sent to our own customers, or
-  2. Individuals have given their affirmative consent to RSA to receive solicitations online, or
-  3. Individuals did not opt out after RSA has given notice of the opportunity to opt out from solicitations online, or
-  4. Individuals have attended or registered to attend any RSA Conference,
-  5. Individuals who have "joined" the RSACONFERENCE.com community, or
-  6. RSA has received assurance from a third party list provider that the individuals whose e-mail addresses appear on that list: 
-    * Have already provided affirmative consent to receive solicitations online, or
-    * Have already received notice of the opportunity to have their e-mail addresses removed and have not opted out.
+  * order products or services, 
+  * register products or for an event,
+  * request information, 
+  * subscribe to marketing or support materials, 
+  * download software, 
+  * enter a contest,
+  * respond to promotional campaigns, or 
+  * register to a secure extranet site to obtain access to product information, support, services, or training. 
 
 
 
-In each solicitation sent online, RSA furnishes individuals with a link or notice they can use to request that the RSA not send them future solicitations online. These requests will be honored in a timely manner.
+For purposes of this Privacy Statement, “personal information” means information that can be used to personally identify you, such as your name, address, telephone number, e-mail address, user IDs and passwords, billing and transaction information, credit card or other financial information, contact preferences, and similar information.
 
-RSA will pass on your contact information to other companies or individuals if you specifically 'opt-in' to being contacted. Once you have opted in to have your contact information passed to another company or individual, your contact details will become subject to their privacy policies and terms of conditions. Otherwise, RSA never rents or sells email addresses to any other company or individual.
+We also may collect information that is related to you but that does not personally identify you, such as your computer’s operating system, browser, and information regarding your use of and activities on our websites or applications. See also the discussion below on cookies and other electronic tools used for the collection of such information.
 
-RSA always discloses its identity in mass email communication, and provides specific company contact information.
+### How Does EMC Use Your Information?
 
-**RSA Conference Postal Marketing Communication Policy**
+EMC may use information that we collect from or about you, including any personal information:
 
-From time to time, RSA allows vendors of information security and related products to rent the physical mailing list from the RSA Conference. You may become part of a vendor's database (and subject to its privacy policies) if you respond to its mailing. Often, the vendors are companies who exhibit on the show floor. If your registration badge is read at their booth during the Conference, you may also become part of their database.
+  * to welcome you, 
+  * to help you complete a transaction or in order to deliver products or services requested by you, 
+  * to bill you for products or services you purchased, 
+  * to provide ongoing service and support, including event-related communications, 
+  * to carry out our obligations or enforce our rights arising from any contracts entered into between you and us,
+  * to notify you about changes to our websites or applications, or any products or services we offer or provide through them, 
+  * to improve our websites, applications, services, and products, including by developing data analytics and reports about your and others’ use of them, ****
+  * to contact you to complete surveys that we use for marketing or quality assurance purposes, 
+  * to display tailored online advertisements that may interest you, 
+  * to e-mail or otherwise send you marketing or other promotional information about EMC or others’ products or services that may interest you, 
+  * to fulfill any other purpose for which you provide the information,
+  * in any other way we may describe when you provide the information,
+  * to combat fraud or any other criminal activity, 
+  * as otherwise required or permitted by law, and/or
+  * for any other purpose with your consent.
 
-If you do not want to receive these mailings, please opt out when you register for the Conference. Or [email your opt-out request](mailto:webmaster@rsa.com) and ask that your name be removed from the mailing list. Alternatively, you can fill out the [opt-out request form](https://info.rsasecurity.com/common/rsac_opt_out.html "opt out request form").
 
-**Use of Personal Data**
 
-We process your Personal Data only for specific and limited purposes. We ask only for data that is adequate, relevant and not excessive for those purposes. When we ask you for Personal Data, we tell you the purposes for which we will process that data. Some of these purposes include the following:
+To assist us with the uses described in this Privacy Statement, information we or our service providers have collected from or about you through EMC websites, applications, or our e-mail communications with you, including about your use of such sites and applications, may be combined with or enhanced by other information from or about you that we have obtained from other online or offline sources, including from our service providers or business partners. 
 
-  * We may contact you occasionally to inform you of new services we will be providing, or special offers, events or articles we think will be of interest to you.
-  * We may send you regular updates by e-mail or by post on RSA Conference related events.
-  * We may send you requested Conference information and promotional material.
-  * We may use your Personal Data for marketing purposes and market research.
-  * We may rent your name and physical address information (but never your e-mail address information) to vendors of information security and related products.
-  * We may use your Personal Data to help us improve our Conference and services and to help resolve any problems.
+Some of EMC's websites or applications may provide online newsgroups, chat forums, and blogs for our users. Any information that you disclose in these forums becomes public information, which could be read, collected, copied, modified, or otherwise used by other users of these forums, operators of these forums (including third parties), search engines such as Google, and others to send you unsolicited messages, identify you, index and display your postings in search results, or for other purposes. You should exercise caution when deciding to disclose your personal information. To request removal of your personal information from our blog or community forum, contact us at [general_counsel@emc.com](mailto:general_counsel@emc.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. We may also provide a "Live Chat" functionality, wherein EMC personnel can monitor the user's areas of interest in the website or application and engage in instant messaging with the user to provide additional information or answer any questions. By posting in our newsgroups and using "Live Chat," you explicitly consent to these uses of your information. You are solely responsible for the personal information you choose to submit in these forums. For testimonials, we provide a choice as to whether a user posts his or her personal information along with the testimonial. If you wish to make the request that your testimonial be removed you may contact us at [general_counsel@emc.com](mailto:general_counsel@emc.com). In some cases, we may not be able to remove your testimonial, in which case we will let you know if we are unable to do so and why. See also the next section for an explanation of how EMC uses cookies, web beacons, and other electronic tools to collect other information about you for advertising and other purposes.
 
+### Collection of Information Using Cookies and Other Tools
 
+EMC may collect and/or log your Internet Protocol address, Internet domain name, the web browser and operating system used to access EMC websites or applications, the pages or files visited, the time spent in each page or file, and the time and date of each visit or use. EMC may collect this information automatically as you browse our websites or use our applications through the use of log files, web beacons, or other electronic tools.
 
-**  
-Disclosure of your Personal Data**
+EMC may also use cookies to automatically collect information about your use of our websites. Cookies are text files that are sent from a website via your browser and placed on your computer's hard drive or your mobile device. Thereafter, when you visit that website, a message is sent back to the web server by the browser accessing the website, and this information about your activities is stored in the cookie. The information collected in cookies (e.g., the web pages you visit on the website and navigation patterns, the date and time of your visit, the number of links you click within the site, the functions you use on the site, the databases you view and the searches you request on the site, the data you save on, or download from, the site, the websites you visited immediately before and after visiting the site, and when you open our e-mails or click on any of their links) is used and analyzed to improve our service to you and to personalize your web-browsing experience by providing EMC with a better understanding of your interests and requirements regarding our websites and applications. Cookies may be linked to your personal information, such as your e-mail address or password.
 
-We do not share, sell or distribute your Personal Data with unrelated third parties, except under these limited circumstances:
+We may also use cookies and other electronic tools placed by a third-party service provider to measure the effectiveness of our advertising and other information and to help us understand what product information is of most interest to you and what kinds of advertising offers you like to see. Although the service provider logs the information coming from our websites or applications on our behalf, EMC controls how that data may and may not be used. If you do not want to assist EMC in improving our products, offers, and marketing strategy, you can opt out of this website analysis tool with respect to mobile applications and EMC.com by clicking here: <http://ecn-analytics-nssl.emc.com/optout.html>. Websites of EMC subsidiaries or divisions may use similar tracking tools for similar internal business purposes only. These websites may not offer this opt-out functionality. If you wish to not have this information used for the purpose of serving targeted ads for any other EMC websites covered by the TRUSTe program, you may opt out by [clicking here](http://preferences.truste.com/). Please note this may not opt you out of being served generic advertising. You may also elect not to accept cookies by changing the designated settings on your web or mobile browser. Or you can set your browser to notify you when you are being sent a cookie, giving you the chance to decide whether or not to accept it. The help function on most browsers contains instructions on how to set your browser to notify you before accepting cookies, or disable cookies entirely. However, disabling cookies in either manner may prevent you from using certain functions and features of websites, and the advertising you receive when you visit the site may not be advertisements tailored to your interests.
 
-  * We may rent your name and physical address information (but never your e-mail address information) to vendors of information security and related products.
-  * Personal Data may occasionally be transferred to third parties who act for or on behalf of RSA, or in connection with the business of RSA for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have subsequently consented. For example, sometimes a third party may have access to your Personal Data in order to handle our mailings on our behalf.
-  * We may share or transfer the information in our databases to comply with a legal requirement, for the administration of justice, to protect your vital interests, to protect the security or integrity of our databases or this Web Site, to take precautions against legal liability, or in the event of a corporate sale, merger, reorganisation, dissolution or similar event.
+We or third-party advertisers or their advertising servers may also place or recognize unique cookies on your computer or use other electronic tools in order to help display advertisements that you see on our websites. Information about your visits to, and activity on, our websites, an IP address, the number of times you have viewed an advertisement, and other such usage information is used, alone or in combination with other information, to display on your computer screen advertisements that may be of particular interest to you. The use and collection of your information by these third-party advertisers and their advertising servers is not covered by this Privacy Statement.
 
+To opt out of advertising cookies placed by the Network Advertising Initiative’s ("NAI") member networks, and thereby limit the tracking of your online activity and the tailored advertising you receive, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Note that even if you opt out of cookies placed by such member networks and participating companies, you may still receive online advertising.
 
+### With Whom Does EMC Share Your Information?
 
-Where appropriate, before disclosing Personal Data to a third party, we contractually require the third party to take adequate precautions to protect that data.
+We may disclose information that does not identify any individual (e.g., anonymous, aggregated data) without restriction.
 
-**Data Integrity and Security**
+EMC contracts with third-party service providers and suppliers (including distributors and resellers) to deliver certain products, services, and customer solutions. Examples of such services provided on our behalf are mail delivery, website hosting, transaction processing, processing payments, sending emails on our behalf, provide you with support via live chat software, and event planning. EMC may share your personal information with its service providers and suppliers to the extent necessary to deliver the product or service you requested, respond to your requests for information on products or services, or otherwise support your business needs. You will not have the opportunity to opt out of having your information shared with these third-party service providers and suppliers for these purposes, and they may contact you directly in connection with such purposes.
 
-We strive to maintain the reliability, accuracy, completeness and currency of Personal Data in our databases and to protect the privacy and security of our databases. We keep your Personal Data only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.
+Third-party service providers and suppliers receiving personal information are expected to maintain privacy and security protections that are consistent with EMC’s privacy and information security policies. These companies are authorized to use your personal information only for the purpose for which it was originally intended or as required or permitted by law. However, unless otherwise dictated by law or agreement, EMC is not responsible for any improper use by such parties.
 
-Our servers and our databases are protected by industry standard security technology, such as industry standard firewalls and password protection.
+We may also disclose your personal information and other information, including across country borders: 
 
-Sometimes we process sensitive data that requires industry standard Secure Socket Layer (SSL) encrypted browsers. We use 128-bit encryption to protect transmissions over the Internet.
+  * to our subsidiaries, affiliates, and worldwide offices,
+  * to third parties for their own use, such as to provide you with special offers and promotions that may be of interest to you, 
+  * to share data about web visitors with third-parties for the third parties’ own analytics, reporting, or general advertising purposes, 
+  * to comply with the law or in response to a subpoena, court order, law enforcement or government request, or other legal process,
+  * to produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings,
+  * if EMC determines in its good faith judgment that such disclosure is necessary to provide its services or to protect the rights, interests, safety, or property of its business, employees, suppliers, customers, or others, 
+  * in connection with any proposed or actual sale or other transfer of some or all assets of EMC, and/or any proposed or actual sale or merger of EMC or any division of EMC, 
+  * to enforce the terms of any agreement with EMC,
+  * to combat fraud or other criminal activity, 
+  * for any other purpose disclosed by us when you provide the information, 
+  * as otherwise required or permitted by law, and/or 
+  * with your consent.
 
-The employees who have access to Personal Data have been trained to handle such data properly and in accordance with our security protocols and strict standards of confidentiality. Although we cannot guarantee against any loss, misuse, unauthorized disclosure, alteration or destruction of data, we try to prevent such unfortunate occurrences.
 
-**Data Access and Corrections**
 
-Upon receipt of your written request and enough information to permit us to identify your Personal Data, we will disclose to you the Personal Data we hold about you. We will also correct, amend or delete any Personal Data that is inaccurate and notify any third party recipients of the necessary changes.
+Some EMC websites or services may be co-branded and offered in conjunction with another company. If you register for or use such websites/services, both EMC and the other company may receive information collected in conjunction with the co-branded website/services.
 
-If you wish to access or correct your Personal Data, please write to our data protection officer at RSA Inc., 174 Middlesex Turnpike, Bedford, MA 01730 or e-mail us at [webmaster@rsaconference.com](mailto:webmaster@rsaconference.com). We do not charge for complying with a correction request, however, for all other requests, we may charge a small fee to cover its costs. Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations imposed on RSA.
+Unless permitted by relevant laws, EMC will not share, sell, trade, or lease your personal information to or with others except as provided for in this Privacy Statement. 
 
-**Other Terms of Use for this Website**
+### Your Marketing Choices, Right to Access Your Personal Information, and Our Retention of Your Personal Information
 
-While we, as the administrators, editors and moderators of the **RSA** CONFERENCE **.com,** will attempt to remove or edit any generally objectionable material as quickly as possible, it is impossible to review every message. Therefore you acknowledge that all posts made to this website express the views and opinions of the author and not RSA, as the administrators, editors, moderators or webmaster (except for posts by these people), and hence will not be held liable.
+_Your Marketing Choices._ Your decision to provide the personal information that we may request from time to time is voluntary. However, if you do not provide the personal information requested, you may not be able to proceed with the activity or receive the benefit for which the personal information is being requested.
 
-You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threatening, sexually-oriented or any other material that may violate any applicable laws. Doing so may lead to you being immediately and permanently banned (and your service provider or employer being informed). The IP address of all posts is recorded to aid in enforcing these conditions. You agree that RSA as the webmaster, administrator, editor and moderators of this website have the right to remove, edit, move or close any topic at any time should they see fit.
+You can unsubscribe or choose not to receive promotional materials from EMC (or from specific divisions or subsidiaries) by following the specific instructions in the e-mail or other communication you receive or by notifying us via the appropriate method(s) described below depending on which website or service is at issue. It may take a reasonable period of time to process your request, but no longer than 30 days for direct mail and telephone promotions and 10 business days for e-mail promotions. In countries where EMC is required to do so by law, EMC will offer you the opportunity to provide opt-in consent before promotional materials are sent, or promotional calls are made, to you. This will not apply to service communications that are considered part of certain EMC services, which you may receive periodically unless you cancel the applicable service. To opt out of receiving marketing emails from a third-party partner, please follow the unsubscribe instructions in the email you receive from the partner or contact the partner directly. To opt out of having EMC share your personal information with a third-party partner for their own marketing use, please contact us at [emarketing@emc.com](mailto:emarketing@emc.com).
 
-As a user you agree that any information you have entered above being stored in a database. While this information will not be disclosed to any third party without your consent, RSA, as the webmaster, administrator, editor and moderators, cannot be held responsible for any hacking attempt that may lead to the data being compromised.
+_Your Access to Your Personal Information._ EMC strives to keep your personal information accurate. We have implemented technology, management processes, and policies to maintain data integrity. We will provide you with reasonable access to your personal information in accordance with relevant laws, including by making reasonable efforts to provide you with online access and the opportunity to update your information. To protect your privacy and security, we will take steps to verify your identity before granting access or making changes to your personal information. To request access to your personal information, follow the applicable instructions below depending on which website or service is at issue. While we will make reasonable efforts to accommodate your request, we also reserve the right to reject such access requests or to impose certain restrictions and requirements on such requests, if required or permitted by applicable law. We will respond to requests for access within 30 days.
 
-Any post to the **RSA** CONFERENCE **.com** is a content contribution to the **RSA** CONFERENCE **.com** community, and may be published across this website and newsletters.
+_Our Retention of Your Information._ We will retain your personal information for as long as your account is active or as needed to provide you services. If you wish to cancel your account, or request that we no longer use your personal information to provide you services, contact us via the applicable information provided below. Even after we cancel your account or cease using your personal information to provide you services, we may still retain, use, and disclose your information as necessary to comply with our legal, regulatory, ethical, or document retention obligations, and any request to delete your personal information is subject to these obligations and restrictions.
 
-We make chat forums and blogs available to our users. Any information that is disclosed in these forums becomes public information and you should exercise caution when deciding to disclose your personal information. Each participant's opinion expressed in a blog or forum is his or her own and should not be considered as reflecting the opinion of RSA Conference.  By posting on our site you expressly consent to these uses of your information.
+### EMC Contact Information for Your Marketing Choices and Your Requests for Access or Deletion:
 
-**Anonymous data collected through this Web Site**
+[emarketing@emc.com](mailto:emarketing@emc.com) or EMC, Attn: Marketing Department, 176 South Street, Hopkinton, MA, USA, 01748-9103.
 
-In addition to the information we collect as described above, we use technology to collect anonymous information about the use of our Web Site. For example, we use technology to track which pages of our Web Site our visitors view. We also use technology to determine which Web browsers our visitors use. This technology does not identify you personally, it simply enables us to compile statistics about our visitors and their use of our Web Site.
+### Transfer of Your Information to Other Countries
 
-Our Web Site contains hyperlinks to other pages on our Web Site. We use technology to track how often these links are used and which pages on our Web Site our visitors choose to view. Again this technology does not identify you personally - it simply enables us to compile statistics about the use of these hyperlinks.
+In accordance with applicable law, personal and other information covered by this Privacy Statement may be transferred to, and processed and stored in, the United States or any other country in which EMC or its affiliates, subsidiaries, service providers, business partners, or customers maintain facilities, even if the level of data privacy required in that country is less than that required by the European Union or under the Safe Harbor. By submitting your personal information to EMC, you consent to such transfers and to the worldwide processing of your personal information.
 
-We use this anonymous data to improve the content and functionality of this Web Site and our e-mail updates, to better understand our customers and markets, and to improve our products and services.
+### Links to Non-EMC Websites and Third Parties
 
-**Cookies**
+EMC’s websites may provide links to third-party websites for your convenience and information. If you access those links, you will leave the EMC website. EMC does not control these third-party websites or their privacy practices, which may differ from EMC's. We do not endorse or make any representations about third-party websites. The personal information you choose to provide to unrelated third parties is not covered by the EMC Privacy Statement. We encourage you to review the privacy statement of any entity before submitting your personal information.
 
-In order to collect the anonymous data described in the preceding paragraph, we may use temporary "cookies" that collect the first level domain name of the user (for example, if your e-mail address is "john@bigmail.com," the cookie collects the "bigmail.com" portion of your e-mail address) and the date and time you accessed this Web Site. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information that is sent to your browser and stored on your computer's hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. At the present time, we only use temporary or "session" cookies. These cookies expire when your browser is closed.
+### Security of Your Personal Information
 
-We also use your IP address to help diagnose problems with our server and to administer our Web Site. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address is also used to gather broad demographic information, such as determining how many of our visitors are from outside of the US.
+EMC has implemented reasonable administrative, technical, and physical measures designed to protect your personal information from accidental loss and from unauthorized access, disclosure, use, alteration, or destruction. When you provide us with credit card information via an EMC website, we will encrypt that information via SSL. If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Please also be careful to avoid “phishing” scams, where someone may send you an e-mail that looks like it is from EMC asking for your personal information. EMC will not request your personal information through e-mail. If you have questions regarding our security you can contact us via [general_counsel@emc.com](mailto:general_counsel@emc.com). 
 
-We may also perform IP lookups to determine which domain you are coming from (i.e: aol.com, yourcompany.com) to more accurately gauge our users' demographics.
+### Your California Privacy Rights
 
-**Children**
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by EMC to its affiliates and/or third parties for their direct marketing purposes. To make such a request, please send an e-mail with your first name, last name, mailing address, e-mail address, and telephone number to EMC's Office of the General Counsel, at [general_counsel@emc.com](mailto:general_counsel@emc.com) or 176 South Street, Hopkinton, MA, USA, 01748. Please include “California Privacy Rights” in the subject line of your e-mail.
 
-We do not knowingly collect Personal Data from children or minors. If you are a child or minor, please do not give us any Personal Data. If you have reason to believe that a child has provided us with their Personal Data, please contact us at the address given below and we will endeavor to delete that information from our databases.
+### Social Media and Refer a Friend
 
-**Links to other web sites**
+Our websites or applications may include social media features, such as the Facebook “Like” button, and widgets, such as the ”share this” button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our websites or applications. Your interactions with these features are governed by the privacy statement of the company providing them.
 
-This Privacy Policy applies only to [www.rsaconference.com](http://www.rsaconference.com/)and to other RSA URLs through or from which you have reached this Web Site. This Web Site contains hyperlinks to web sites that are not operated by RSA. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party web sites or any association with their operators. We do not control these web sites and are not responsible for their data or privacy practices. We urge you to review any privacy policy posted on any site you visit before using the site or providing any Personal Data about yourself.
+If you choose to use our referral service to tell a friend about a page on EMC.com, we will ask you for your friend's name and e-mail address. We will automatically send your friend a one-time e-mail inviting him or her to visit the site. EMC does not store this information, except to the extent permitted by law.
 
-**Transfer of Data Abroad**
+### Children Under the Age of 13
 
-RSA is a global enterprise and has facilities and databases in different countries. We may, from time to time, transfer your Personal Data to one of our databases in another country. If the level of privacy protection in a country does not comply with recognized international standards, we will ensure that data transferred to our databases in that country are adequately protected and that the transfer of data to third parties in such countries is made pursuant to a contract or other measures providing adequate protection.
+EMC websites and applications are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on our websites or applications. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this website or application, or on or through any of its features/register on the website or application, make any purchases through the website or application, use any of the interactive or public comment features of this website or application, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at general_counsel@emc.com.
 
-Of course, the Internet is made up of a large number of international connections. If you are visiting this Web Site from a country other than the country in which our server is located (currently, the United States of America), the various communications will necessarily result in the transfer of information across international boundaries. By visiting this Web Site and communicating electronically with us, you consent to these transfers.
+### Personal Information of our Customers' Clients
 
-**Governing Law**
+When we provide services to our customers, in some instances we process personal information about their clients ("Client Information") on their behalf. In these situations, it is our customers rather than EMC who decide the reasons for which the Client Information will be processed. For details of how the Client Information will be used and protected, and details of how to access or correct the information, please refer to the privacy statement of the EMC customer to which you submitted your personal information.
 
-This privacy policy forms part of our Web Site Terms of Use and as such shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts, U.S.A. You agree to submit any dispute arising out of your use of this Web Site to the exclusive jurisdiction of the courts of Boston, Massachusetts.
+### Questions About and Enforcement of this Privacy Statement
 
-**Questions**
+If you have questions regarding our compliance with this Privacy Statement, please first contact us by making a written submission to EMC's Office of the General Counsel, at [general_counsel@emc.com](mailto:general_counsel@emc.com) or 176 South Street, Hopkinton, MA, USA, 01748. If we are unable to satisfactorily address your inquiry, you should contact TRUSTe by Internet here: <http://watchdog.truste.com/pvr.php?page=complaint>, or by fax 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept, [[click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html)]. TRUSTe will serve as a liaison with us to resolve your concerns.
 
-If you have any questions about this Privacy Policy or concerns about the way we process your Personal Data, please contact us by e-mailing us at [webmaster@rsaconference.com](mailto:webmaster@rsaconference.com).
+### Changes to this Privacy Statement
 
-**For more information call 1-888-746-9734 or call +1-508-743-0157 from outside the US and Canada or email[webmaster@rsaconference.com](mailto:webmaster@rsaconference.com "webmaster@rsaconference.com").**
-
-_© Copyright 2011 RSA, the Security Division of EMC - all rights reserved. Reproduction of this Web Site, in whole or in part, in any form or medium without express written permission from RSA is prohibited._
+EMC will review and update this Privacy Statement periodically, and will note the date of its most recent revision above. If we make material changes to this Privacy Statement, we will notify you either by prominently posting a notice of such changes prior to implementing the changes or by directly sending you a notification. We encourage you to review this Privacy Statement frequently to be informed of how EMC is collecting, using, retaining, protecting, disclosing, and transferring your information.
