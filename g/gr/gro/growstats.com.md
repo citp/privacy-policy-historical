@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the growstats.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425020341id_/http%3A//www.growstats.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growstats.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209162346id_/http%3A//www.growstats.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GrowStats.com
+
+[Home](http://www.growstats.com/) » [Privacy policy ](http://www.growstats.com/privacy-policy.html)
+
+* * *
 
 This privacy statement best describes how Growstats collects and uses the/your personal information that you provide to us on our Web site: [www.growstats.com](http://www.growstats.com/) . It also outlines the choices that are available to you regarding our use of your personal information and how you can access and update this information if required.
 
@@ -40,7 +44,7 @@ We use this information to
 
 ## Choice To Opt-Out
 
-You may choose to stop receiving our email newsletter or marketing emails by following the “unsubscribe” instructions included in the footer of these emails or you can contact us at [helpdesk@growstats.com](mailto:helpdesk@growstats.com).
+You may choose to stop receiving our email newsletter or marketing emails by following the “unsubscribe” instructions included in the footer of these emails or you can contact us at [support@growstats.com](mailto:support@growstats.com).
 
 ## Information Sharing
 
@@ -78,13 +82,13 @@ Our Site may include links to other websites whose privacy practices may and cou
 
 ## Security
 
-When we collect you personal information directly from you, we follow generally accepted industry standards to protect that personal information that you submitted to us, both during transmission and once we have received it. However, absolutely no method of transmission over the internet, or method of electronic storage, is 100% secure, therefore we cannot and do not guarantee its absolute security whatsoever. If you have any questions or concerns about the security on our website, you can contact us at [helpdesk@growstats.com](mailto:helpdesk@growstats.com). In order to make a purchase from us, you must use our third party shopping cart provider to finalize and pay for your order/product/service. Its/their privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing them any of your information if you have concerns.
+When we collect you personal information directly from you, we follow generally accepted industry standards to protect that personal information that you submitted to us, both during transmission and once we have received it. However, absolutely no method of transmission over the internet, or method of electronic storage, is 100% secure, therefore we cannot and do not guarantee its absolute security whatsoever. If you have any questions or concerns about the security on our website, you can contact us at [support@growstats.com](mailto:support@growstats.com). In order to make a purchase from us, you must use our third party shopping cart provider to finalize and pay for your order/product/service. Its/their privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing them any of your information if you have concerns.
 
 ## Additional Policy Information
 
 #### Updating and or Correcting Your Personal Information
 
-To review and update your personal information at Growstatsto ensure it is accurate,you can contact us at [helpdesk@growstats.com](mailto:helpdesk@growstats.com).
+To review and update your personal information at Growstatsto ensure it is accurate,you can contact us at [support@growstats.com](mailto:support@growstats.com).
 
 #### Notification of Privacy Statement Changes
 
@@ -94,4 +98,6 @@ We may and can update this privacy statement to reflect changes to our informati
 
 You can contact us about this privacy statement by writing or emailing us at the address provided here:
 
-[helpdesk@growstats.com](mailto:helpdesk@growstats.com)
+[support@growstats.com](mailto:support@growstats.com)
+
+[](http://www.growstats.com/#buynow "Buy website traffic")
