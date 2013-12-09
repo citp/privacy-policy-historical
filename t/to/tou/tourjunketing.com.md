@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the tourjunketing.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528224325id_/http%3A//www.tourjunketing.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourjunketing.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209155007id_/http%3A//tourjunketing.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
+  
 **Links to Other Web Sites.**   
 We make content or services from our other web sites available to you from links located on us. We also offer through links a collection of services provided by third parties. In order to use third parties' services you will be directed to pages on their web sites, which may be co-branded with the us logo. Please remember that when you visit these other web sites, even the affiliated and co-branded sites, the sites' own privacy policies apply. 
 
