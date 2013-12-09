@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbez.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603030252id_/http%3A//www.wbez.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbez.org privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209072851id_/http%3A//www.wbez.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Chicago Public Media Privacy Policy
 
