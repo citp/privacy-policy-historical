@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vintageking.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606122749id_/http%3A//vintageking.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vintageking.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209024623id_/http%3A//vintageking.com/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy Policy - Vintage King Audio
 
@@ -82,5 +82,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://vintageking.com/  
 1603 East 9 Mile Road Ferndale, MI 48220  
-888 653 1154  
+888 653 1184  
 [customerservice@vintageking.com](mailto:customerservice@vintageking.com)
