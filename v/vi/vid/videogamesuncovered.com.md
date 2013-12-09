@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videogamesuncovered.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521212844id_/http%3A//www.videogamesuncovered.com/about-vgu/the-site/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogamesuncovered.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209131845id_/http%3A//www.videogamesuncovered.com/about-vgu/the-site/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - VGU
 
