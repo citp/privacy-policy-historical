@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funonline.co.in privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531022306id_/http%3A//funonline.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funonline.co.in privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209153545id_/http%3A//funonline.co.in/privacy) for the most accurate reproduction.*
 
 # Funonline.co.in | Privacy Policy
 
