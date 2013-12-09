@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the turtlerockstudios.com privacy policy that was archived on 2012-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120713144448id_/http%3A//www.turtlerockstudios.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlerockstudios.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209180554id_/http%3A//www.turtlerockstudios.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Turtle Rock Studios Privacy Policy
+# Turtle Rock Studios - Privacy Policy
 
 Turtle Rock Studios respects the privacy of its online visitors and users of its products. Turtle Rock Studios recognizes the importance of protecting any information collected from users and has adopted this privacy policy that guides how Turtle Rock Studios gathers, stores, and uses information from the use of Turtle Rock Studios products and online sites by users.
 
 This policy is current as of its last revision date. However, please note that this policy may be amended from time to time to reflect changes and additions to the privacy policy. Please check back for the most current version before relying on any of the provisions in this privacy policy.
 
-  
+#### Collection and Use of Information
+
 By using Turtle Rock Studios's online sites and products, users agree that Turtle Rock Studios may collect aggregate information, individual information, and personally identifiable information, as defined below. Turtle Rock Studios may share aggregate information and individual information with other parties. Turtle Rock Studios shall not share personally identifiable information with other parties, except as described in the policy below.
 
 "Aggregate information" is information that describes the habits, usage patterns, and demographics of users as a group but does not describe or reveal the identity of any particular user.
@@ -21,27 +22,34 @@ Furthermore, external websites and companies with links to and from Turtle Rock 
 
 Turtle Rock Studios may release personally identifiable information to comply with court orders or laws that require us to disclose such information
 
-  
+#### Children Under The Age of 13
+
 Turtle Rock Studios will not knowingly collect personally identifiable information from any person age 12 and under. Turtle Rock Studios encourages parents to instruct their children to never give out personal information when online. Parents who are concerned about the transfer of personal information from their children may contact us at [privacy@turtlerockstudios.com](mailto:privacy@turtlerockstudios.com) to obtain a record of any information held by Turtle Rock Studios and have it removed at their request.
 
-  
+#### Cookies and Other Information on a User's Machine
+
 Cookies are bits of electronic information that can be transferred to a user's hard drive to customize a person's usage of a product or online site, keep records of a user's access to an online site or product, or store information needed by the user on a regular basis. Use of cookies is typically associated with websites. Turtle Rock Studios does use cookies on their websites. This cookie allows you to move from page to page without having to sign in again on each page. Similarly, if you enter information during your session, such as age verification data, this will be stored as a cookie and you will not have to re-enter such information during that session.
 
 Turtle Rock Studios also stores information on a user's hard drive that is used in conjunction with online play of Turtle Rock Studios products. This includes a unique authorization key or CD-Key that is either entered by the user or downloaded automatically during product registration. This authorization key is used to identify a user as valid and allow access to Turtle Rock Studios's products. Turtle Rock Studios software automatically generates and submits to Turtle Rock Studios bug reports upon a crash or other fault in the Turtle Rock Studios software. This automatically generated bug report information may include information about other software or hardware on a user's system. Turtle Rock Studios does not associate and store the automatically generated bug report information with personally identifiable information. Any bug reporting information manually submitted by users (e.g. through Turtle Rock Studios's Bug Reporter form) is associated and stored with personally identifiable information. Users should also be aware that game play information disclosed during multiplayer game play (e.g. player name and current player statistics) is public information and may be displayed to other users.
 
-  
+#### Chat Forums, Etc.
+
 From time to time, Turtle Rock Studios's online products may provide chat forums, bulletin boards, or instant messaging tools to users. Any information that is disclosed in chat forums or bulletin boards is public information, and users who message one another may not know each other personally. Users should exercise caution when deciding to disclose personal information in such chat forums.
 
-  
+#### Choice/Opt-out
+
 Turtle Rock Studios gives users the option of discontinuing receipt of promotional email communications from Turtle Rock Studios. Instructions for discontinuing receipt of promotional email communications from Turtle Rock Studios will be provided in such subsequent email communications to users.
 
-  
+#### Storage and Security of Information
+
 Personally identifiable information will be processed and stored by Turtle Rock Studios in databases hosted in the United States. Turtle Rock Studios has taken reasonable steps to protect the information users share with us, including, but not limited to, setup of processes, equipment and software to avoid unauthorized access or disclosure of this information.
 
-  
+#### Corrections, Updates and Removal of Information
+
 If you are concerned about the accuracy of personal information maintained by Turtle Rock Studios or would like your personal information removed from Turtle Rock Studios's records, please contact us by emailing [privacy@turtlerockstudios.com](mailto:privacy@turtlerockstudios.com) for review, update, or removal of personal information.
 
-  
+#### Contacting Turtle Rock Studios
+
 If you have any questions about this privacy statement, or the privacy practices of Turtle Rock Studios, please contact us by emailing [privacy@turtlerockstudios.com](mailto:privacy@turtlerockstudios.com).
 
 Revision Date: January 13, 2010
