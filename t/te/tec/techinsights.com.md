@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the techinsights.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211055725id_/http%3A//www.ubmtechinsights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techinsights.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209191755id_/http%3A//www.techinsights.com/privacy-policy) for the most accurate reproduction.*
 
-# UBM TechInsights™ Privacy Notice : TechInsights
+# TechInsights Privacy Policy
 
-_Effective January   19, 2010_
+_Effective April   8, 2013_
 
-Welcome to our website, www.ubmtechinsights.com.
+Welcome to our website, www.techinsights.com.
 
-UBM TechInsights™ (“we”)combines the expertise, offerings and reach of three separate companies, Portelligent, Inc.,  Sanguine Microelectronic (Shanghai) Co. Limited and Semiconductor Insights Inc., to provide sophisticated  technical intelligence and intellectual property management services to companies with commercial interests in technology-related industries. 
+TechInsights (“we”)combines the expertise, offerings and reach of three separate companies, Portelligent, Inc.,  Sanguine Microelectronic (Shanghai) Co. Limited and Semiconductor Insights Inc., to provide sophisticated  technical intelligence and intellectual property management services to companies with commercial interests in technology-related industries. 
 
 This Privacy Notice explains how we collect, use and protect information about you, a technology or legal professional, as you visit the public pages of our websites or use the website to access restricted areas available only to registered clients.  It also covers information we collect about you as you attend any of our face to face events, subscribe for a newsletter or other content, or participate in online seminars and events which we may organize.  We will post a link to the Notice or print its url on web pages and registration forms to which it applies.
 
-## Information We Collect About You
+#### Information We Collect About You
 
 You may visit a number of pages throughout our websites without registration.  We may collect information about you:
 
@@ -30,7 +30,7 @@ A cookie is a small text file placed on a personal computer as a person visits a
 
 Our server logs collect information about visits and system capabilities as you access and use the websites and pages covered by this Notice.  We do not routinely associate such data with your profile except for investigative purposes as specifically described below.
 
-## How We Use Information About You
+#### How We Use Information About You
 
 We may use information about you in any of the following ways:
 
@@ -45,19 +45,19 @@ We may use information about you in any of the following ways:
 
 
 
-## Choice and Access
+#### Choice and Access
 
 You may disable or block any cookies (and so, any associated web beacons) by using the tools available in most browsers. 
 
 If you are registering for our websites, you may choose whether to activate automatic recognition of your pc based on the placement of a persistent cookie that identifies your pc.  If you choose not to accept that persistent cookie, or to delete it at any time, you will simply be asked to re-enter your log on credentials each time you access the website. 
 
-You may choose not to receive marketing emails from us by following the directions at the bottom of marketing emails we send you.  If you would like to have your name and contact details removed from our mailing lists, you may contact us at unsubscribe@ubmtechinsights.com. 
+You may choose not to receive marketing emails from us by following the directions at the bottom of marketing emails we send you.  If you would like to have your name and contact details removed from our mailing lists, you may contact us at unsubscribe@techinsights.com. 
 
 We value the accuracy of the information we have about you.  You may update your information at any time by updating your profile on our website.
 
 If you request that your name be removed from all our data bases, we may not be able to do so completely for legal and records management reasons.
 
-## Disclosure to Third Parties
+#### Disclosure to Third Parties
 
 We reserve the right to disclose your name and information about you.
 
@@ -71,28 +71,24 @@ We reserve the right to disclose your name and information about you.
 
 We may associate log data with information that identifies you if necessary for any of these purposes except a transfer of our business assets.
 
-## Children
+#### Children
 
 Our services are directed to technology professionals and not intended for children 13 or under.
 
-## Security
+#### Security
 
 We use reasonable administrative, technical and physical safeguards to protect personal information from unauthorized access, disclosure, or use and we require third parties that process personal information on our behalf to do so as well.  No transmission over the Internet or electronic storage can be guaranteed completely.  As a result, while we strive to protect personal information we make no warranty or guarantee.
 
 You can help protect the security of your personal information.  Please keep your passwords secure and do not share the use of your account with other individuals.
 
-## Important Information
+#### Important Information
 
-Portelligent, Inc., Sanguine Microelectronic (Shanghai) Co. Limited, and Semiconductor Insights, Inc. are subsidiaries of UBM plc. 
+Portelligent, Inc., Sanguine Microelectronic (Shanghai) Co. Limited, and Semiconductor Insights, Inc. are subsidiaries of TechInsights. 
 
 We collect and process information on servers around the world.
 
 We will post and date any changes to this Notice.  Please check here periodically.  Your continued use of the websites and activities covered by this Notice constitutes your acceptance of the practices in place at the time of your use.
 
-## How To Contact Us
+#### How To Contact Us
 
-For questions or comments about this Notice, please contact [privacyrequests@ubm.com](mailto:privacyrequests@ubm.com).
-
-Portelligent, Inc.Sanguine Microelectronic (Shanghai) Co. LimitedSemiconductor Insights Inc.c/o UBM TechInsights3000 Solandt Road
-
-Ottawa, ON Canada K2K2X2
+For questions or comments about this Notice, please [contact us](https://web.archive.org/company/contact-us/).
