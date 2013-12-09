@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supergreenadvice.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306023751id_/http%3A//www.supergreenadvice.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supergreenadvice.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209090316id_/http%3A//www.supergreenadvice.com/privacy.php) for the most accurate reproduction.*
 
 # SUPERGREENADVICE - Privacy Policy
 
