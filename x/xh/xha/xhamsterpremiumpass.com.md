@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xhamsterpremiumpass.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627184252id_/http%3A//xhamsterpremiumpass.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xhamsterpremiumpass.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209052111id_/http%3A//xhamsterpremiumpass.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,11 +12,11 @@ We are the sole owner of the information collected on the Sites. We will not sel
 
 ## Registration and Order Forms
 
-premium2/tpl2/policy/dateOfBirth
+In order to gain access to our Site, you may be requested to provide us with your date of birth. In addition, in order to purchase goods and services from our Sites, or to become a member of our Sites, a user must complete the on-line registration/order form. During registration, a user is required to provide us with certain contact information (which may include your name, mailing address, phone number, fax number, and e-mail address) and certain financial information (like your credit card number and the expiration date for your credit card). This information is used to set-up and maintain an account, verify credit card details, validate credit identity and to ship product. If we have trouble processing an order or otherwise need to contact a user, the contact information is used to get in touch with the user. From time to time, we may also ask that you provide us with additional information so that we can better tailor our services to meet your needs.
 
 ## Cookies
 
-premium2/tpl2/policy/cookies
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our Sites. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our Sites, we are able track IP addresses and browser preferences in order to enhance and personalize your experience at our Sites. We may also use cookies in order to track referral sites in order to properly compensate our affiliates. Please note that some of our business partners may also use cookies on our Sites (for example, advertisers). However, we have no access to or control over these cookies.
 
 ## Profiling
 
@@ -50,7 +50,7 @@ Our Sites are not intended for children. Our Sites do not target children, nor d
 
 ## Correction/Updating Personal Information
 
-premium2/tpl2/policy/userChanges
+If a user's personally identifiable information changes (such as phone number or a credit card number), or if a user no longer desires our service, you may contact us to correct or update this information.
 
 ## Choice/Opt-out
 
@@ -60,7 +60,7 @@ From time to time, we may send our users e-mail or other notices regarding new s
 
 We reserve the right to modify this Privacy Policy at any time by posting such changes on our Sites. Any changes to this Privacy Policy will become effective upon posting such changes. If you access or use any of our Sites, you are required to periodically check our Privacy Policy for any changes. If you continue to access or use any of our Sites after we have changed our Privacy Policy, you manifest your assent to the changes to our Privacy Policy.
 
-premium2/tpl2/policy/optOut
+If we decide to use your personally identifiable information in a manner materially different from that stated in the Privacy Policy at the time that such information was collected, we will attempt to notify you of such changes. You agree that if we send you an e-mail to the e-mail address reflected in our records, such e-mail will constitute acceptable notice to you of the change in our policy. The notice will provide you with an opportunity to "opt-out" so that we may not use your personally identifiable information in a manner which is different from the manner described at the time that you provided us with such information. If you do not affirmatively "opt-out" pursuant to the instructions provided to you in the notice, then you agree that we may use your personally identifiable information in the manner described in the notice. (If we have no e-mail address for you, or if we do not have a current e-mail address for you, then you agree that adequate notice of the change in our policy will be effected by posting such a change onto our Privacy Policy, which shall also disclose information about how you may "opt-out" so that we may not use your personally identifiable information in a manner which is materially different from the manner described at the time that you provided us with such information. If you do not affirmatively "opt-out" pursuant to the instructions posted within the time period specified, then you agree that we may use your personally identifiable information as described in the posted notice).
 
 ## Contact Information
 
