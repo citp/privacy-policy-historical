@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the templates-master.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610172931id_/http%3A//templates-master.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templates-master.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209061323id_/http%3A//templates-master.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Professional magento themes & extensions
+# Privacy | Templates Master
 
 This privacy statement discloses our practices for the gathering and use of information from visitors to our own Web sites, from people who register for services that we offer online, and from visitors to other sites where we collect information pursuant to our customer contracts.
 
@@ -35,7 +35,7 @@ Minors under 18 years of age are not allowed to participate in any of the servic
 
 
 
-If you do not want to receive e-mail from us in the future, please let us know by contacting us at our [contact form](https://web.archive.org/web/20130610172931id_/http%3A//templates-master.com/templates-master.com/contacts). If you supply us with your postal address on-line you will only receive the information for which you provided us your address. Except for purposes stated expressly in this Privacy Policy, Templates Master will not use your personal information.
+If you do not want to receive e-mail from us in the future, please let us know by contacting us at our [contact form](https://web.archive.org/web/20131209061323id_/http%3A//templates-master.com/templates-master.com/contacts). If you supply us with your postal address on-line you will only receive the information for which you provided us your address. Except for purposes stated expressly in this Privacy Policy, Templates Master will not use your personal information.
 
 ##### Disclosures Required By Law
 
@@ -51,8 +51,8 @@ If you have any questions about this privacy statement, our online practices, or
 
 ##### Privacy violation
 
-If you feel that this site is not following its stated information policy, you may contact us at our [contact form](https://web.archive.org/web/20130610172931id_/http%3A//templates-master.com/templates-master.com/contacts).
+If you feel that this site is not following its stated information policy, you may contact us at our [contact form](https://web.archive.org/web/20131209061323id_/http%3A//templates-master.com/templates-master.com/contacts).
 
 ##### Contacting us
 
-If You have questions about the Privacy Policy, please contact us at our [contact form ](https://web.archive.org/web/20130610172931id_/http%3A//templates-master.com/templates-master.com/contacts)
+If You have questions about the Privacy Policy, please contact us at our [contact form ](https://web.archive.org/web/20131209061323id_/http%3A//templates-master.com/templates-master.com/contacts)
