@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uxmastery.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629194416id_/http%3A//uxmastery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxmastery.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209052831id_/http%3A//uxmastery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UX Mastery
 
