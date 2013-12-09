@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the rapidfileshare.net privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528123642id_/http%3A//www.rapidfileshare.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidfileshare.net privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209042237id_/http%3A//www.rapidfileshare.net/privacy.html) for the most accurate reproduction.*
 
 # RapidFileShare - Easy way to share your files
 
-[](https://www.privateinternetaccess.com/pages/buy-vpn/NETGRID001 "Buy VPN") **Privacy Policy Rapidfileshare.net**
-
- **What information do we collect?**
+**What information do we collect?**
 
 We collect information from you when you register on our site. 
 
