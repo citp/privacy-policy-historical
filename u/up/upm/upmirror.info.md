@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upmirror.info privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613050153id_/http%3A//upmirror.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmirror.info privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209184726id_/http%3A//upmirror.info/privacy.php) for the most accurate reproduction.*
 
 # UP Mirror - FAQ
 
