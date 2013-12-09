@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatecashads.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628124024id_/http%3A//ultimatecashads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatecashads.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209193110id_/http%3A//www.ultimatecashads.com/privacy.php) for the most accurate reproduction.*
 
 # Ultimate Cash Ads | Ultimate Advertising Solutions That Pay!
 
@@ -7,35 +7,35 @@
 |   |  |   
 ---  
   
-The7KTeamSystem.  
-The Worlds 1st Community  
-Build Has Just Begun...  
-FREE Ad Co-op to help U!   
-[Click Here Now!](http://www.ultimatecashads.com/tr1.php?id=3738)
+Ptc  
+Work from your home  
+Pay secure with no trap  
+Enter and earn money   
+[Click Here Now!](http://www.ultimatecashads.com/tr1.php?id=2545)
 
 \------------------- 
 
-Touchdown Hits  
-Manual Surf Exchange  
-Monthly Credits Given  
-Great Prizes!   
-[Click Here Now!](http://www.ultimatecashads.com/tr1.php?id=238)
+JUST LAUNCHED  
+1 Buck Ad Share  
+100% PROFIT  
+Massive Income   
+[Click Here Now!](http://www.ultimatecashads.com/tr1.php?id=4512)
 
 \------------------- 
 
-Cash Paid  
-Sharing Videos  
-Thousand have joined  
-Join Now   
-[Click Here Now!](http://www.ultimatecashads.com/tr1.php?id=3778)
+A Million+ Visitors  
+Get A Million+ of   
+Guaranteed Visitors -   
+Free Now!   
+[Click Here Now!](http://www.ultimatecashads.com/tr1.php?id=2457)
 
 \------------------- 
 
-Free Co-op For SFI  
-Grow Your Downline  
-All Members Welcome  
-Free or Upgraded   
-[Click Here Now!](http://www.ultimatecashads.com/tr1.php?id=4602)
+You Get Paid Fast  
+The Easiest business   
+$28 One-Time!  
+No Hype, No Admin Fees   
+[Click Here Now!](http://www.ultimatecashads.com/tr1.php?id=5153)
 
 \-------------------   
   
@@ -75,15 +75,15 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 Terms and Conditions:  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website by [Clicking Here](https://web.archive.org/web/20130628124024id_/http%3A//ultimatecashads.com/terms.php).
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website by [Clicking Here](https://web.archive.org/web/20131209193110id_/http%3A//www.ultimatecashads.com/terms.php).
 
 Your Consent:  
 By using our site, you consent to our privacy policy.Contacting Us:  
-If there are any questions regarding this privacy policy you may contact us by clicking the [Contact Us](https://web.archive.org/web/20130628124024id_/http%3A//ultimatecashads.com/contactus.php) button below.
+If there are any questions regarding this privacy policy you may contact us by clicking the [Contact Us](https://web.archive.org/web/20131209193110id_/http%3A//www.ultimatecashads.com/contactus.php) button below.
 
 |  |   
 ---  
    
   
-[](http://www.ultimatecashads.com/tr.php?id=349)  
+[](http://www.ultimatecashads.com/tr.php?id=372)  
 
