@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userdrivers.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229065225id_/http%3A//www.userdrivers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userdrivers.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209073807id_/http%3A//userdrivers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - User Drivers
 
@@ -36,9 +36,6 @@ This site, UserDrivers.com, use some advertise agent company to serve ads when y
 **Respect to security**  
 UserDrivers.Com have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site.
 
- **Questions, Comments**  
-Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent to [Contact Us](https://web.archive.org/Contact-Us/) Form. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information.
-
 * * *
 
-Effective date: March 12, 2008
+Effective date: March 12, 2011
