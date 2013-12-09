@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the weddinggawker.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607021255id_/http%3A//weddinggawker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddinggawker.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209144909id_/http%3A//weddinggawker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | weddinggawker
+# privacy policy | weddinggawker
+
+(already registered? please [login](https://web.archive.org/login/?redirect_to=%2Fprivacy-policy%2F "Login")) 
+
+## Register
 
 **Information that is gathered from visitors**
 
