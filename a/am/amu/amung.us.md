@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amung.us privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624134313id_/http%3A//whos.amung.us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amung.us privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209191329id_/http%3A//whos.amung.us/legal/privacy) for the most accurate reproduction.*
 
 # whos.amung.us - legal - privacy policy
 
@@ -41,6 +41,14 @@ By using this website and/or our services you agree to this privacy policy and a
 
 whos.amung.us Inc. may update this privacy policy at any time. The date of last change will be posted on this page alongside the modified privacy policy. 
 
-This privacy policy was last updated: August 15, 2011. 
+This above privacy policy was last updated: August 15, 2011. 
+
+You may wish to opt out of our services by clicking the link below. Opt out preferences are stored in a cookie so if you clear your cookies you will need to opt out at this page agin. Since the cookie is specific to this browser you may wish to opt out on all browsers you use. When you opt out information about your visit will not be recorded in the stats of any site you visit that utilizes our services (this covers both Free and PRO services). 
+
+Current opt out status: not opted out [opt out]. 
+
+If you have any questions please do not hesitate to contact us. 
+
+[Contact Form](http://whos.amung.us/contact). 
 
  
