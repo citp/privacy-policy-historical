@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purevpn.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627015749id_/http%3A//www.purevpn.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purevpn.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209141910id_/http%3A//www.purevpn.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PureVPN.com
 
