@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curvyclothing.com.au privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518205103id_/http%3A//curvyclothing.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curvyclothing.com.au privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209071949id_/http%3A//www.curvyclothing.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
