@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the times-news.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517144725id_/http%3A//times-news.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the times-news.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209075525id_/http%3A//times-news.com/privacy) for the most accurate reproduction.*
 
 # Inside index
 
@@ -8,7 +8,7 @@ This Policy was last modified on February 10, 2012.
 
 ## Information Practices
 
-Community Newspaper Holdings, Inc. and its affiliates and subsidiaries (collectively "CNHI") understand that security and privacy are important issues for visitors to our web site, [http://times-news.com](https://web.archive.org/) (the "Site") and recognize our obligations to keep your information secure and confidential. That is why we maintain the following standards to help protect information that personally identifies you. We may modify this Privacy Policy (the "Policy") at any time and, accordingly, we urge you to frequently review the Policy. We will always apply the Policy under which your information was collected, unless we obtain your prior consent for additional disclosure, or are legally required to disclose, as noted below. Please note that the Policy applies only to information collected by us through the Site, as specified below, and unless expressly stated otherwise, does not govern or apply to any information collected or used by CNHI including, but not limited to, [http://times-news.com](https://web.archive.org/) through other means.
+Community Newspaper Holdings, Inc. and its affiliates and subsidiaries (collectively "CNHI") understand that security and privacy are important issues for visitors to our web site, [http://www.times-news.com](https://web.archive.org/) (the "Site") and recognize our obligations to keep your information secure and confidential. That is why we maintain the following standards to help protect information that personally identifies you. We may modify this Privacy Policy (the "Policy") at any time and, accordingly, we urge you to frequently review the Policy. We will always apply the Policy under which your information was collected, unless we obtain your prior consent for additional disclosure, or are legally required to disclose, as noted below. Please note that the Policy applies only to information collected by us through the Site, as specified below, and unless expressly stated otherwise, does not govern or apply to any information collected or used by CNHI including, but not limited to, [http://www.times-news.com](https://web.archive.org/) through other means.
 
 ## Collection of Information
 
