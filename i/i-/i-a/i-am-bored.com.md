@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-am-bored.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611003817id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-am-bored.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209091243id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp) for the most accurate reproduction.*
 
 # I Am Bored - Sites for when you're bored.
 
