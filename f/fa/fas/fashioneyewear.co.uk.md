@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashioneyewear.co.uk privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610193259id_/http%3A//www.fashioneyewear.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashioneyewear.co.uk privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209201004id_/http%3A//www.fashioneyewear.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
