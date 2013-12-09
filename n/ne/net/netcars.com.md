@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the netcars.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512014502id_/http%3A//www.netcars.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcars.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209060019id_/http%3A//www.raccars.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Netcars.com
+# Privacy Policy - RAC Cars
 
 This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and the procedures we have put in place to safeguard your privacy. Please read it carefully.
 
 ## Who we are
 
-For the purpose of the Data Protection Act 1998 ("Act"), the data controller is Redwood Cars Limited trading as Netcars (Company Number 08370931) ("Netcars").
+For the purpose of the Data Protection Act 1998 ("Act"), the data controller is Net Cars Limited trading as RAC Cars (Company Number 08370931) ("RAC Cars").
 
 ## The information we collect
 
@@ -37,7 +37,7 @@ We use information held about you in the following ways:
 
 To help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct any account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated, for fraud prevention, money laundering prevention and occasionally for tracing debtors.
 
-We may also use your data, or permit selected third parties (e.g. financial institutions, insurance providers, insurance claim advisers and car dealerships) to use your data, to provide you with information about services or products or related information which may be of interest to you and we or they may contact you about these by post or telephone. If you would rather not receive this information, please send an e-mail message to [info@netcars.com](mailto:info@netcars.com).
+We may also use your data, or permit selected third parties (e.g. financial institutions, insurance providers, insurance claim advisers and car dealerships) to use your data, to provide you with information about services or products or related information which may be of interest to you and we or they may contact you about these by post or telephone. If you would rather not receive this information, please send an e-mail message to [info@raccars.co.uk](mailto:info@raccars.co.uk).
 
 Please note that your initial call to a dealer advertising a car for sale on this site may be monitored or recorded for quality and verification purposes.
 
@@ -62,9 +62,9 @@ Where you purchase products or services from or provide information to a third p
 
 ## Disclosure of your information
 
-If Netcars' business is sold or integrated with another business, we may disclose your personal information to our advisers and any prospective purchasers and their advisers and such personal information will be passed on to the new owners of the business.
+If RAC Cars' business is sold or integrated with another business, we may disclose your personal information to our advisers and any prospective purchasers and their advisers and such personal information will be passed on to the new owners of the business.
 
-We may share your information where required in compliance with any legal obligation or to protect the rights, property or safety of Netcars, our customers or others or our site or to enforce the terms of use of our site.
+We may share your information where required in compliance with any legal obligation or to protect the rights, property or safety of RAC Cars, our customers or others or our site or to enforce the terms of use of our site.
 
 ## Our use of IP addresses and cookies
 
@@ -98,11 +98,11 @@ If you give us information about another person (e.g. a joint applicant for a pr
 
 ## Your rights
 
-You are entitled to know whether we hold information about you and, if we do, you are entitled to have access to that information in accordance with the Act and to require it to be corrected if it is inaccurate. You can do this by contacting us by e-mail at [info@netcars.com](mailto:info@netcars.com). Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+You are entitled to know whether we hold information about you and, if we do, you are entitled to have access to that information in accordance with the Act and to require it to be corrected if it is inaccurate. You can do this by contacting us by e-mail at [info@raccars.co.uk](mailto:info@raccars.co.uk). Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 ## Marketing to Children
 
-Netcars does not knowingly collect data from nor market to children anywhere.
+RAC Cars does not knowingly collect data from nor market to children anywhere.
 
 ## Your Consent
 
@@ -110,4 +110,4 @@ By submitting your information to us, you consent to the use of that information
 
 ## How to contact us
 
-We welcome your views about our site and our privacy policy. If you would like to contact us with any queries, comments or requests please send an e-mail to [info@netcars.com](mailto:info@netcars.com).
+We welcome your views about our site and our privacy policy. If you would like to contact us with any queries, comments or requests please send an e-mail to [info@raccars.co.uk](mailto:info@raccars.co.uk).
