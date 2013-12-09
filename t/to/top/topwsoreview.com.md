@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topwsoreview.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002033835id_/http%3A//topwsoreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topwsoreview.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209195605id_/http%3A//topwsoreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top WSO Review
 
