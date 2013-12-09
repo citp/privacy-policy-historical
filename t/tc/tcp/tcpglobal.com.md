@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the tcpglobal.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629183540id_/http%3A//www.tcpglobal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcpglobal.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209130436id_/http%3A//www.tcpglobal.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# TCP Global - Quality & Service Since 1974
 
-### Privacy Statement
+### 
 
-### Information about our Organization and Web site
-
-We do not collect any personal data from our any of our visitors when they use our services except as necessary to complete a basic transaction. This site makes no descrimination as to age, gender or any other variable. We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. Our Web site does not enable our visitors to communicate with other visitors or to post information to be accessed by others. Modern information and communication technologies play a fundamental role in the activities of an organization like TCPGlobal . We are based in USA .
+We do not collect any personal data from our any of our visitors when they use our services except as necessary   
+to complete a basic transaction. This site makes no descrimination as to age, gender or any other variable.   
+We do not automatically log personal data nor do we link information automatically logged by other means with  
+personal data about specific individuals. Our Web site does not enable our visitors to communicate with other   
+visitors or to post information to be accessed by others. Modern information and communication technologies   
+play a fundamental role in the activities of an organization like TCPGlobal . We are based in USA .
 
 Our principal activity is: Wholesale & Retail Automotive and Crafts Products
 
@@ -30,60 +33,62 @@ http://www.uspensupply.com
 http://www.turbotan.com  
 http://www.belloccio.com  
   
-#### Providing Visitors with Anonymous Access 
+#### 
 
 You can access our Web site home page and browse our site without disclosing your personal data. 
 
-#### The services and links of our Web site 
+#### 
 
 Our Web site does include links to third party Web service providers. 
 
-#### Automatic Collection of Information 
+#### 
 
-We do use cookies to store personal data but we do not link non-personal information stored in cookies with personal data about specific individuals. 
+We do use cookies to store personal data but we do not link non-personal information stored in cookies   
+with personal data about specific individuals. 
 
-#### Data Collection and Purpose Specification 
+#### 
 
 We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations. 
 
-#### Children's Privacy 
+#### 
 
-We do not collect any personal data from our any of our visitors when they use our services except as necessary to complete a basic transaction. This site makes no descrimination as to age, gender or any other variable.
+We do not collect any personal data from our any of our visitors when they use our services except as necessary   
+to complete a basic transaction. This site makes no descrimination as to age, gender or any other variable.
 
-#### Disclosure and Visitor Choice 
+#### 
 
-#### Confidentiality / Security 
+#### 
 
-We do not collect any personal data from our any of our visitors when they use our services except as necessary to complete a basic transaction. We have taken all reasonable steps to provide security from third party intrusion to your personal information.  
+We do not collect any personal data from our any of our visitors when they use our services except as necessary   
+to complete a basic transaction. We have taken all reasonable steps to provide security from third party intrusion   
+to your personal information.
 
-
-#### Access to the personal data we may hold about you 
+#### 
 
 We do not collect any personal data from our visitors when they use our services except as stated above.
 
-#### Privacy Compliance 
+#### 
 
 There are no global or regional regulatory or self-regulatory schemes applicable to our web site or organization. 
 
 In order to demonstrate that our privacy policy accords with the above privacy instrument, we are:
 
-* voluntarily committed to a Self Assessment procedure 
+  * voluntarily committed to a Self Assessment procedure 
 
-#### Self Assessment procedure
+#### 
 
 Name or designation of the privacy policy person or service | David Topp  
-Network Administrator  
+CTO  
 ---|---  
 URL | http://www.tcpglobal.com  
 Address | 6695 Rasha Street,   
 San Diego, CA 92121  
 Country | USA  
   
-#### Privacy Support
+####   
 
-### TABLE of personal data collected and purposes for which they are used 
 
-#### Primary personal data/Business information
+#### 
 
 - | volunteered by each visitor  
 ---|---  
@@ -112,7 +117,8 @@ E-mail address  | none | none | none | none | none
 Phone/Fax number  | none | none | none | none | none  
 other | none | none | none | none | none  
   
-#### Other personal details and profiling data
+####   
+
 
 - | volunteered by each visitor  
 ---|---  
@@ -129,7 +135,7 @@ Life style or personal tastes  | none | none | none | none | none
 Financial resources  | none | none | none | none | none  
 other | none | none | none | none | none  
   
-#### Identifiers
+#### 
 
 - | volunteered by each visitor  
 ---|---  
@@ -144,7 +150,7 @@ identifiers assigned by Public bodies  | none | none | none | none | none
 Biometrics identifiers  | none | none | none | none | none  
 other | none | none | none | none | none  
   
-#### Specific Data
+#### 
 
 - | volunteered by each visitor  
 ---|---  
@@ -164,11 +170,11 @@ other | none | none | none | none | none
   
 * * *
 
-#### If you have an enquiry or concern about our privacy policy, please contact:
+#### 
 
   | Contact 1  
 ---|---  
-Name/designation : | Len Savage  
+Name/designation : | David Topp  
 Department : | CTO  
 Address : | 6695 Rasha Street, San Diego, CA  
 Phone Number : | 858-909-2100  
@@ -176,19 +182,24 @@ Fax Number : | 858-909-2158
 Email address : |   
 URL : | http://www.TCPGlobal.com  
   
-There are no national laws or self-regulatory schemes applicable to our web site or organization. We do not collect any personal data from our visitors when they use our services. We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. Our Web site does not enable our visitors to communicate with other visitors or to post information to be accessed by others. Modern information and communication technologies play a fundamental role in the activities of an organization like TCPGlobal . We are based in USA .
+There are no national laws or self-regulatory schemes applicable to our web site or organization.   
+We do not collect any personal data from our visitors when they use our services. We do not automatically   
+log personal data nor do we link information automatically logged by other means with personal data about   
+specific individuals. Our Web site does not enable our visitors to communicate with other visitors or to post  
+information to be accessed by others. Modern information and communication technologies play   
+a fundamental role in the activities of an organization like TCPGlobal . We are based in USA .
 
 Our principal activity is: Wholesale & Retail Automotive and Crafts Products
 
 Our privacy policy covers TCPGlobal and its family of Web sites: 
 
-** Organization Name: | TCPGlobal  
+Organization Name: | TCPGlobal  
 ---|---  
 Address: | 6695 Rasha Street  
 City, Zip: | San Diego , 92121-2241  
 State: | CA  
 Country: | USA  
-Controller: | Len Savage  
+Controller: | David Topp  
 Web Sites(s): | http://www.TriCityPaint.com  
 http://www.AutoBodyDepot.net  
 http://www.AutoColorLibrary.com  
@@ -199,4 +210,5 @@ http://www.Turbo-Tan.com
 http://www.DetailSupplyDepot.com  
 http://www.HOKPaint.com  
 http://www.ProAutoTools.com  
-**
+
+
