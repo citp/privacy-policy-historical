@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tributes.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513141322id_/http%3A//tributes.com/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tributes.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209041729id_/http%3A//www.tributes.com/global/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tributes.com
 
