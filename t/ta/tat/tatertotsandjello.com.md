@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatertotsandjello.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601212318id_/http%3A//www.tatertotsandjello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatertotsandjello.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209034845id_/http%3A//www.tatertotsandjello.com/privacy) for the most accurate reproduction.*
 
 # Privacy -- Tatertots and Jello
 
@@ -29,5 +29,3 @@ We enable you to share information such as messages with others within your netw
 #### Contact
 
 If you would like to report any violations of this policy, please click on the following [link](mailto:admin@ideanotion.net?subject=Windows%208%20Privacy%20Policy%0d).
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Ftatertotsandjello.com%2Fprivacy&media=&description=Privacy)[](http://www.stumbleupon.com/submit?url=http%3A%2F%2Ftatertotsandjello.com%2Fprivacy)
