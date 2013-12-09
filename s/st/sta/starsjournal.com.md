@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starsjournal.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621023718id_/http%3A//starsjournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsjournal.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209115248id_/http%3A//starsjournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stars Journal
 
