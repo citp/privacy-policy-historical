@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthcreationsnetwork.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430235819id_/http%3A//www.wealthcreationsnetwork.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthcreationsnetwork.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209125707id_/http%3A//www.wealthcreationsnetwork.com/privacypolicy.php) for the most accurate reproduction.*
 
 # WCN Terms of Use and Service
 
