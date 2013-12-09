@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2013-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130217025548id_/http%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209073903id_/http%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy & Legal Notices
 
-Your privacy is of the highest concern to us at the Bureau of the Public Debt. To help guard your privacy, our site uses data encryption - the Secure Sockets Layer (SSL) protocol - to protect sensitive Web pages. If a Web page has an address that begins with "https://" rather than "http://" then it uses encryption.
+Your privacy is of the highest concern to us at the Bureau of the Fiscal Service. To help guard your privacy, our site uses data encryption - the Secure Sockets Layer (SSL) protocol - to protect sensitive Web pages. If a Web page has an address that begins with "https://" rather than "http://" then it uses encryption.
 
 ### Privacy Impact Assessments
 
@@ -35,7 +35,7 @@ Parents can inquire about what information we have collected from their children
   * sending us an [e-mail](https://web.archive.org/email.htm); or
   * writing to us at: 
 
-Bureau of the Public Debt  
+Bureau of the Fiscal Service  
 799 9th Street, NW  
 Washington, DC 20239 
 
@@ -54,7 +54,7 @@ If you have an account with us, we may use customization technologies, such as p
 
 We have statutory authority to ask for personal information as follows:
 
-  * [31 U.S.C. chapter 31](https://web.archive.org/exit.htm?http://www.access.gpo.gov/uscode/title31/subtitleiii_chapter31_subchapteri_.html) authorizes the Secretary of the Treasury (delegated to the Bureau of the Public Debt) to perform necessary functions to sell Treasury securities.
+  * [31 U.S.C. chapter 31](https://web.archive.org/exit.htm?http://www.access.gpo.gov/uscode/title31/subtitleiii_chapter31_subchapteri_.html) authorizes the Secretary of the Treasury (delegated to the Bureau of the Fiscal Service) to perform necessary functions to sell Treasury securities.
   * [44 U.S.C. § 3101](https://web.archive.org/exit.htm?http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+44USC3101) lets us maintain records containing personal information to provide a record of our securities programs in order to protect the legal and financial rights of the government and the investor.
   * [26 U.S.C. § 6109](https://web.archive.org/exit.htm?http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+26USC6109) requires us to ask for your Social Security Number and to include it on reports we must send to the IRS.
   * [31 U.S.C. § 7701](https://web.archive.org/exit.htm?http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+31USC7701) lets us ask for your personal information in order to report and collect amounts owed to the United States.
@@ -65,7 +65,7 @@ Furnishing personal information is voluntary; however, without the information w
 
 ### 5\. To whom do we release your personal information?
 
-We can disclose information only as authorized under the [Privacy Act of 1974, 5 U.S.C. § 552a](https://web.archive.org/exit.htm?http://www.usdoj.gov/04foia/foiastat.htm). Public Debt's Privacy Act systems of records notices are published in the Federal Register. Systems of records notices can be found at [76 Fed. Reg. 51128](https://web.archive.org/lawguide/lawguide_2011-20949.pdf) (PDF) and [70 Fed. Reg. 31559](https://web.archive.org/lawguide/lawguide_2005_10854_final_pdi_notice.pdf) (PDF). 
+We can disclose information only as authorized under the [Privacy Act of 1974, 5 U.S.C. § 552a](https://web.archive.org/exit.htm?http://www.usdoj.gov/04foia/foiastat.htm). Fiscal Service's Privacy Act systems of records notices are published in the Federal Register. Systems of records notices can be found at [76 Fed. Reg. 51128](https://web.archive.org/lawguide/lawguide_2011-20949.pdf) (PDF) and [70 Fed. Reg. 31559](https://web.archive.org/lawguide/lawguide_2005_10854_final_pdi_notice.pdf) (PDF). 
 
 ### 6\. Will we send you non-business information?
 
@@ -79,15 +79,25 @@ Personal information provided to us at this website and through our E-Commerce a
 
 ### 8\. How long will it take to complete our online forms?
 
-We estimate that it should take you no more than 30 minutes to fill out any form on this site. This includes the time it will take to read any instructions, gather the necessary facts and fill out the form. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it contains a currently valid Office of Management and Budget (OMB) control number. If you have comments or suggestions regarding the above estimate or ways to simplify any of the forms used on this site, please send your comments or suggestions to the Bureau of the Public Debt, Forms Management Officer, Parkersburg, WV 26106-1328, and the Office of Management and Budget, Paperwork Reduction Project 1535, Washington, DC 20503.
+We estimate that it should take you no more than 30 minutes to fill out any form on this site. This includes the time it will take to read any instructions, gather the necessary facts and fill out the form. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it contains a currently valid Office of Management and Budget (OMB) control number. If you have comments or suggestions regarding the above estimate or ways to simplify any of the forms used on this site, please send your comments or suggestions to the Bureau of the Fiscal Service, Forms Management Officer, Parkersburg, WV 26106-1328, and the Office of Management and Budget, Paperwork Reduction Project 1535, Washington, DC 20503.
 
 ### 9\. Can I safely send personal information across the Internet?
 
-When submitting information electronically, especially personal information, use the Bureau of the Public Debt's secure online forms, at our [Contact Us](https://web.archive.org/email.htm) page or within our applications. The Bureau of the Public Debt uses Secure Socket Layer (SSL) encryption to protect the transmission of information that you submit to us through our secure online forms. BPD also uses 128-bit encryption technology to protect the information that you transmit via the Internet, through our secure online forms. All information that you provide to us is stored securely on our servers. Personal information that we send you in return email will be masked. For example, a social security number will be written as xxx-xx-6789.
+When submitting information electronically, especially personal information, use the Bureau of the Fiscal Service's secure online forms, at our [Contact Us](https://web.archive.org/email.htm) page or within our applications. The Bureau of the Fiscal Service uses Secure Socket Layer (SSL) encryption to protect the transmission of information that you submit to us through our secure online forms. Fiscal Service also uses 128-bit encryption technology to protect the information that you transmit via the Internet, through our secure online forms. All information that you provide to us is stored securely on our servers. Personal information that we send you in return email will be masked. For example, a social security number will be written as xxx-xx-6789.
 
 ### 10\. What happens if I include personal identifying information in e-mail I send to you?
 
 E-mail is not normally secured by encryption nor protected by confidentiality. You should not send personal information by e-mail. If you send us personal identifying information using e-mail, we will only use this information to respond to your request or question. If necessary, we may also forward your e-mail to those who manage our websites or other federal agencies that help us to provide you with a complete response. You must decide if you want to assume the risk that an unauthorized person may learn your e-mail address or other information you may provide as it's transmitted. Once we receive your e-mail, your information is secured.
+
+### 11\. How is information monitored on TreasuryDirect?
+
+The Bureau of the Fiscal Service information systems may be protected by EINSTEIN cybersecurity capabilities, under the operational control of the U.S. Department of Homeland Security's United States Computer Emergency Readiness Team (US-CERT).
+
+Electronic communications with the Bureau of the Fiscal Service may be scanned by government-owned or contractor equipment to look for network traffic indicating known or suspected malicious cyber activity, including malicious content or communications.
+
+Electronic communications within the Bureau of the Fiscal Service will be collected or retained by US-CERT only if they are associated with known or suspected cyber threats. US-CERT will use the information collected through EINSTEIN to analyze the known or suspected cyber threat and help the Bureau of the Fiscal Service and other agencies respond and better protect their computers and networks.
+
+For additional information about EINSTEIN capabilities, please see the EINSTEIN program-related Privacy Impact Assessments available on the DHS [cybersecurity privacy website](http://www.dhs.gov/files/publications/editorial_0514.shtm#4) along with other information about the federal government's cybersecurity activities.
 
 See also [Terms & Conditions](https://web.archive.org/terms.htm)
 
@@ -115,7 +125,7 @@ We have regulations governing electronic transactions, which are set out in [31 
 
 ### 4\. Accessibility.
 
-The Bureau of the Public Debt is committed to making its website accessible to all citizens. To meet this commitment, we are compliant with the requirements of Section 508 of the Rehabilitation Act, as amended in 1998.
+The Bureau of the Fiscal Service is committed to making its website accessible to all citizens. To meet this commitment, we are compliant with the requirements of Section 508 of the Rehabilitation Act, as amended in 1998.
 
 Our website is designed to be equally accessible to those using current, standards-compliant web browsers or assistive technologies.
 
