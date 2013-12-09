@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the survs.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624144644id_/http%3A//survs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survs.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209090945id_/http%3A//www.survs.com/privacy) for the most accurate reproduction.*
 
-# Survs - Privacy Policy
+# Survs – Privacy Policy
 
 Survs (“we” or “us”) takes the privacy of its users seriously. This Privacy Policy outlines the details of our commitment to user privacy and security. This document will let you know what information we collect through survs.com (“Site”) and how we use that information.
 
@@ -11,6 +11,8 @@ Survs is a web-based service for conducting surveys. We respect the privacy of o
 Email addresses uploaded to the Site, for the intent of sending email survey invitations, are owned solely by the survey administrator. At the direction of our users, we send survey invitation emails to email addresses provided by them. We will never share any information uploaded to the Site with any third parties.
 
 Data collected through surveys is owned solely by the survey administrator. Your survey questions and responses are kept in absolute confidence and used in compliance with legal requirements. We will never use your survey questions or responses other than in accordance with this Privacy Policy.
+
+Transaction data, including personal data, provided in the course of executing payment transactions are processed by PayLane Sp. z o.o. acting as a payment institution intermediating in payment processing.
 
 ### Data Collection
 
