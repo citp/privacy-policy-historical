@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518014152id_/http%3A//www.vodafone.com.au/aboutvodafone/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210135955id_/http%3A//www.vodafone.com.au/aboutvodafone/legal/privacypolicy) for the most accurate reproduction.*
 
 # About - Legal - Privacy Policy - Vodafone Australia
 
@@ -93,13 +93,13 @@ Yes, however there are some exceptions by law which we will explain if relevant 
 
 If you think your personal information may be inaccurate, incomplete or out of date, you can request it to be updated.
 
-[Download Personal Information Request form](http://www.vodafone.com.au/doc/personal-information-request.pdf)
+[Download Personal Information Request form](https://www.vodafone.com.au/doc/personal-information-request.pdf)
 
 ### How can you report a breach of your privacy?
 
 If you believe your privacy has been compromised, please fill in the Privacy Breach form below and return it to the address provided. A member of our Privacy team will contact you within 10 business days.
 
-[Download Vodafone Privacy Breach form here](http://www.vodafone.com.au/doc/privacy-breach-form.pdf)
+[Download Vodafone Privacy Breach form here](https://www.vodafone.com.au/doc/privacy-breach-form.pdf)
 
 ### Contact us
 
