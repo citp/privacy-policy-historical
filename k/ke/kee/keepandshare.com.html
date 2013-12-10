@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the keepandshare.com privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603180238id_/http%3A//www.keepandshare.com/business/privacyagreement.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the keepandshare.com privacy policy that was archived on 2013-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210093058id_/http%3A//www.keepandshare.com/business/privacyagreement.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">   
@@ -23,7 +23,7 @@
 <style>#topnav li#home {background-color:#0F6FC7;}#topnav li#home a {color:#fff;}#topnav li#home ul li a {color:#013E64;}#topnav li#home ul li{background-color:#ebf2f6;}#topnav li#home a:hover {background-color:#80acdc;}#topnav li#home ul li a:hover {background-color:#ebf2f6;}</style>
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="icon" href="/favicon.ico">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript"> function hrefLinkOutWithRollover(domain, suffix, filepath, anchortext, rollover) {
+<script type="text/javascript"> function hrefLinkOutWithRollover(domain, suffix, filepath, anchortext, rollover) {
 	var firstpart = 'http://' + domain + '.' + suffix;
 	if ((domain=='') || (suffix=='')) firstpart = '';
 	document.write ( '<a href=\'' + firstpart + filepath + '\'' + 'title=\'' + rollover + '\' >' + anchortext + '</a>');
@@ -39,52 +39,70 @@ function hrefImageLinkOutWithRolloverNoAnchorText(domain, suffix, filepath, roll
 	
 <script type="text/javascript">
 
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-425614-1']);
-_gaq.push(['_setDomainName', 'none']);
-_gaq.push(['_setAllowLinker', true]);
-_gaq.push(['_setAllowHash', false]);
-_gaq.push(['_trackPageview']);
+  var _gaq = _gaq || [];
 
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+  // Deal with situation where _gaq has already been initialized by the
+  // google code stack
+  if (typeof _gaq.unshift == "undefined") {
+	_gaq.unshift = _gaq.push;
+  }
 
-</script>
+  // This ensures that setAccount is the very first call on the stack
+  // before the google code is loaded.
+  _gaq.unshift(
+	['_setAccount', 'UA-425614-1']
+	// Add any other calls that need to be first here... be sure to
+	// add a comma at the end of the previous line!
+  );
 
+  // This ensures that trackPageview is the very last call on the stack
+  // before the google code is loaded
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+  })();
+
+</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body onload=" ">
-
-	<div id="page-wrapper" class="container sixteen">
-<div id="lp-header-topborder"></div><!--INFOLINKS_OFF-->
+<div id="page-wrapper" class="container sixteen">
+	<div id="lp-header-topborder"></div><!--INFOLINKS_OFF-->
 	<div id="lp-header">
-	<div id="lp-header-logo"><a href="/index.php" style="text-decoration:none;"><span style="">Keep<span style="color:#F9AE09">&amp;</span>Share</span><sup><span style="color:gray;font-size:9pt"></span></sup></a></div>      <ul id="topnav" class="sf-menu">
+	<div id="lp-header-logo" style="top:0px;"><a href="/index.php" style="text-decoration:none;"><span style="color:#0756B9">Keep<span style="color:#E8A830; font-size:1.3em; position:relative; bottom:-5px;">&amp;</span>Share</span><sup><span style="color:gray;font-size:9pt"></span></sup></a></div>      <ul id="topnav" class="sf-menu">
       	
 					<li id="home"><a href="/index.php">Home</a></li>
 					              
-			<li id="joinfree"><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Menubar', 'Plans']);" href="#">Plans &amp; Pricing<i class="icon-circle-arrow-down"></i></a> 
+      
+        
+			<li id="joinfree"><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Menubar', 'Pricing']);" href="/business/membership_details.php">Plans &amp; Pricing <i class="icon-circle-arrow-down"></i></a> 
+      
+			      
+      
+      </li><li id="features" class="current"><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Menubar', 'Features']);" href="#">Features <i class="icon-circle-arrow-down"></i></a>
       <ul>
-      	<li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'JoinFree', 'Pricing']);" href="/business/membership_details.php">Plans &amp; Pricing</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'JoinFree', 'ComparePlans']);" href="/business/membership_details_compare_plans.php">Compare Plans</a></li>      </ul></li>
-      <li id="features" class="current"><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Menubar', 'Features']);" href="#">Features<i class="icon-circle-arrow-down"></i></a>
-      <ul>
-      	<li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Calendars']);" href="/htm/calendars/online_calendar/best_free_online_calendar.php">Calendars</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'CalendarRequests']);" href="/htm/calendars/calendar_requests.php">Calendar Requests</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Files']);" href="/htm/free_file_sharing.php">File Management</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Photos']);" href="/htm/free_photo_sharing.php">Photo Sharing</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'ToDos']);" href="/htm/free_to_do_list.php">To Do Lists</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Databases']);" href="/htm/free_online_databases.php">Online Databases</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Addresses']);" href="/htm/free_online_address_books.php">Address Books</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Mobile']);" href="/htm/mobile-smart-phone-support.php">Mobile Access</a></li>      </ul>
+      	<li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Calendars']);" href="/htm/calendars/business_calendar.php">Calendars</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'CalendarRequests']);" href="/htm/calendars/calendar_requests.php">Calendar Requests</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Files']);" href="/htm/free_file_sharing.php">File Management</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Photos']);" href="/htm/free_photo_sharing.php">Photo Sharing</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'ToDos']);" href="/htm/free_to_do_list.php">To Do Lists</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Databases']);" href="/htm/free_online_databases.php">Online Databases</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Addresses']);" href="/htm/free_online_address_books.php">Address Books</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Mobile']);" href="/htm/mobile-smart-phone-support.php">Mobile Access</a></li>      </ul>
       </li>
-      <li id="solutions"><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Menubar', 'Solutions']);" href="#">Solutions<i class="icon-circle-arrow-down"></i></a>
+      <li id="solutions"><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Menubar', 'Solutions']);" href="#">Solutions <i class="icon-circle-arrow-down"></i></a>
       <ul>
-      	<li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForBusiness']);" href="/htm/for-business.php">For Business</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForNonProfits']);" href="/htm/for-non-profit.php">For Nonprofits</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForGroups']);" href="/htm/for_groups.php">For Groups</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForGroups']);" href="/htm/for_you.php">For Individuals</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForWebmasters']);" href="/htm/free_webmaster_tools.php">For Webmasters</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'FreeHTMLCalendar']);" href="/htm/calendars/html_calendar/free_html_calendar.php">Add a Calendar to your Website</a></li>      </ul>
+      	<li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForBusiness']);" href="/htm/for-business.php">For Business</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForNonProfits']);" href="/htm/for-non-profit.php">For Nonprofits</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForGroups']);" href="/htm/for_groups.php">For Groups</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForGroups']);" href="/htm/for_you.php">For Individuals</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForWebmasters']);" href="/htm/free_webmaster_tools.php">For Webmasters</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'FreeHTMLCalendar']);" href="/htm/calendars/html_calendar/free_html_calendar.php">Add a Calendar to your Website</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'AffiliateProgram']);" href="/htm/affiliate.php">Affiliate Program</a></li>      </ul>
       </li>
-      <li id="support"><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Menubar', 'Support']);" href="#">Support<i class="icon-circle-arrow-down"></i></a>
+      <li id="support"><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Menubar', 'Support']);" href="#">Support <i class="icon-circle-arrow-down"></i></a>
       <ul>
       	<li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Support', 'Help']);" href="/htm/help.php">Help</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Support', 'VideoTutorials']);" href="/htm/videotour.php">Video Tutorials</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Support', 'SampleCalendars']);" href="/htm/calendar_samples.php">Sample Calendars</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Support', 'ContactUs']);" href="/htm/contact_us.php">Contact Us</a></li>  <li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Support', 'AboutUs']);" href="/htm/press/about_us.php">About Us</a></li> <li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Support', 'TermsofUse']);" href="/business/subscriberagreement.php">Terms of Use</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Support', 'PrivacyPolicy']);" href="/business/privacyagreement.php">Privacy Policy</a></li>      </ul></li>
       </ul>
 	
 </div> <!-- end lp-header -->
 	
+	<div id="lp-header-signin" style="left:730px;">
+	<a href="https://www.keepandshare.com/index_signin.php?qt=y&amp;an=" title="Click to go to sign in screen"><b>Log In</b></a>	
+	</div>
+	
 	<div id="lp-header-signup">
 	
-	<a class="ksbutton ksblue ksmedium" href="https://www.keepandshare.com/business/registration.php" onclick="_gaq.push(['_trackEvent', 'Signup', 'Click', 'lp-header-signupbutton']);" title="Click to sign up for a new account in seconds">Free Trial <i class="icon-circle-arrow-right"></i></a><p></p>
+	<a class="ksbutton ksblue ksmedium" href="https://www.keepandshare.com/business/registration.php" onclick="_gaq.push(['_trackEvent', 'Signup', 'Click', 'lp-header-signupbutton']);" title="Click to sign up for a new account in seconds">Try It Free <i class="icon-circle-arrow-right"></i></a><p></p>
 
 	
 	
@@ -92,8 +110,13 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 	
 <!--INFOLINKS_ON--><div>
 
+
 <div id="singlecolumn">
-<div style="float:right; padding:20px;"><img src="../graphics/homepage/seals.gif"></div>
+<div style="float:right; padding:20px; margin-right:20px; text-align:center;">
+<div style="width:100px; margin:auto;"><div id="bb776dda-ba21-41ec-80a7-9a936863de05"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Gee-Whiz-Labs,-Inc-/asc?rid=bb776dda-ba21-41ec-80a7-9a936863de05"></script><a href="//privacy.truste.com/privacy-seal/Gee-Whiz-Labs,-Inc-/validation?rid=ac4f6682-41e9-4486-85d8-9a42bfe006ca" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Gee-Whiz-Labs,-Inc-/seal?rid=ac4f6682-41e9-4486-85d8-9a42bfe006ca" alt="TRUSTe online privacy certification"></a></div></div><br><div style="width:100px; margin:auto;">
+<a id="bbblink" class="ruhzbam" href="http://www.bbb.org/greater-san-francisco/business-reviews/internet-services/keepandsharecom-in-san-francisco-ca-198855#bbbseal" title="KeepandShare.com, Internet Services, San Francisco, CA" style="display: block;position: relative;overflow: hidden; width: 150px; height: 68px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="http://seal-goldengate.bbb.org/logo/ruhzbam/keepandsharecom-198855.png" width="300" height="68" alt="KeepandShare.com, Internet Services, San Francisco, CA"></a><script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-goldengate.bbb.org' + unescape('%2Flogo%2Fkeepandsharecom-198855.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-goldengate.bbb.org/logo/keepandsharecom-198855.js" type="text/javascript"></script>
+	</div>
+</div>
 
 <div class="hide_from_screen"><h1>KeepandShare - Privacy Policy</h1>
 </div>
@@ -102,110 +125,139 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     <h1>KeepandShare - Privacy Policy</h1>
 </div><!-- end 'hide_from_printing' -->
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
-
+<div style="padding:0 80px;">
 <p align="center"><b>PRIVACY POLICY</b></p>
+<br>
 
-<p>Thank you for your interest in using the KeepandShare online information sharing service  operated by Gee Whiz Labs, Inc. Your privacy is important to us and we have  prepared this Privacy Policy to explain to you how we collect, use, and share  information we obtain through your use of http://www.keepandshare.com (the "<b>Site</b>"). This Privacy  Policy does not govern our use of any information you provide to us when you  call us, write to us, or communicate with us in any manner other than through  the Site. Because the Internet is global, information about you that we collect  or that you submit may be transferred to, processed in, and held in countries  (including the United States) other than the one in which you reside. <b>By using the Site, you explicitly  consent to such use of your information and agree to the terms of this Privacy  Policy.</b> This Privacy Policy is effective as of July 1, 2010. </p>
+<p>This Privacy Policy is effective as of July 8, 2013. 
 
-<p>Gee Whiz Labs, Inc. has been  awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices  have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank" rel="nofollow">TRUSTe's  program requirements</a> including transparency, accountability and choice regarding the collection and  use of your personal information. TRUSTe's mission, as an independent third  party, is to accelerate online trust among consumers and organizations globally  through its leading privacy trustmark and innovative trust solutions. If you  have questions or complaints regarding our privacy policy or practices, please  contact us at <a href="mailto:privacy@keepandshare.com">privacy@keepandshare.com</a>,  or Gee Whiz Labs, Inc., 725 Euclid Avenue, San Francisco, CA 94118. If you are  not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank" rel="nofollow">TRUSTe here</a>.<b> </b></p>
+</p><p>Thank you for your interest in using the KeepandShare online services operated by Gee Whiz Labs, Inc. ("<b>we</b>" or "<b>us</b>"). We have prepared this Privacy Policy to explain to you how we collect, use, and share information we obtain through your use of our website located at www.keepandshare.com (the "<b>KeepandShare Site</b>"), as well as any of our other websites, email messages, mobile applications, or other software containing a link to this Privacy Policy (each, together with the KeepandShare Site, a "<b>Site</b>"), and any products or services offered through any of our Sites (collectively, the "<b>KeepandShare Network</b>").  This Privacy Policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through the KeepandShare Network. 
 
-<p align="center">
-		<a target="_blank" class="imagelink" href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.keepandshare.com&amp;sealid=101"><img title="Click to verify Truste accreditation." border="0" src="/graphics/thirdparty/truste/seal_wps_en_33.png" width="105" height="33" alt="Click to verify Truste accreditation."></a>
-	</p>
-
-<p><b>1.&nbsp;Information We  Automatically Collect. &nbsp;</b>We automatically collect certain  information to help us understand how our users use the Site (which we will refer  to in this Privacy Policy collectively as "<b>Usage Data</b>"). For example, each time you visit the  Site we may automatically collect your IP address, browser and computer type,  access time, the Web page from which you came, and the Web page(s) that you  access during your visit. We also use cookies (which are small amounts of data  sent from a web server to your browser that are stored on your computer’s hard  drive) to keep track of your use of the Site, to validate your identity, to  remember your password and preferences, to tailor the Site to meet your  personal interests, and to improve the quality of the Site. In addition, third  parties who place advertisements on the Site may also collect information  through cookies to ensure that their advertising systems and technologies work  properly and to allow them to track responses to their advertisements. Cookies  set by these third parties are governed by the privacy policies of those third  parties. Generally, you can set your browser not to accept cookies or to notify  you if you are sent a cookie, giving you the opportunity to choose whether or  not to accept the cookie. Please note that if you do set your browser not to  accept cookies, certain areas of our Site may not function properly.</p>
-
-<p><b>Clear Gifs  (Web Beacons/Web Bugs)</b>.  Our third party advertising partner  employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs),  that help us better manage content on our site by informing us what content is  effective.&nbsp; Clear gifs are tiny  graphics with a unique identifier, similar in function to cookies, and are used  to track the online movements of Web users.&nbsp; In contrast to cookies, which are stored on a user’s  computer hard drive, clear gifs are embedded invisibly on Web pages and are  about the size of the period at the end of this sentence. We do not tie the  information gathered by clear gifs to our customers’ personally identifiable  information. </p>
+</p><p><b>By using the KeepandShare Network, you explicitly consent to the use of your information as described in this Privacy Policy and agree to the terms of this Privacy Policy</b>.  In addition, if you are the master account holder of a multi-user license for the KeepandShare Network, you must ensure that each user under such license has given express consent to our collection, use, and disclosure of such information according to the terms of this Privacy Policy.
 
 
-<p><b>Flash LSOs</b>. We use local shared objects, also known as  Flash cookies, to play training tutorial videos on our site.&nbsp; In addition,  Third Parties, with whom we partner to provide certain features on our site or  to display advertising based upon your Web browsing activity, use Flash cookies  to collect and store information.</p>
-<p>Flash cookies are different from browser cookies  because of the amount of, type of, and how data is stored.&nbsp; Cookie  management tools provided by your browser will not remove Flash cookies.&nbsp;  To learn how to manage privacy and storage settings for Flash cookies <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118" target="_blank" rel="nofollow">click  here</a>.</p> 
-
-<p><b>2.&nbsp;Information  You Choose To Submit.</b> &nbsp;You can visit the Site without  telling us who you are or revealing any information by which someone could  personally identify you (which we will refer to in this Privacy Policy  collectively as "<b>Personal  Information</b>"). If, however, you wish to register to become a  member of the Site, you are required to provide certain Personal Information  (e.g., your name and e-mail address), and we ask that you also provide a user  name and password. We use your Personal Information to fulfill your requests  for products and services, to improve our services, and to contact you from  time to time about us, our Site, and our products and services, and  newsletters. You may also choose to submit additional information about  yourself (for example your gender, or zip code) by which someone could not personally  identify you (which we will refer to in this Privacy Policy collectively as "<b>Non-Personal Information</b>").  Finally, you may choose to submit documents, photos, calendar entries, or any  other information that you would like to share with other users of the Site  (which we will refer to in this Privacy Policy collectively as "<b>Shared Information</b>").&nbsp; You may at any time decide who is able  to review your Shared Information.&nbsp;  You may control the exact sharing of any of your Shared Information by  changing the sharing settings for that particular item or its enclosing folder. </p>
-
-<p>We provide you the ability to import photos from third party sites.&nbsp; If you choose to import your photos  from third party sites we will ask you for your username and password for that  site in order to allow you to sign into your account and import your  photos.&nbsp; We do not store this  information for any reason. No other information will be imported when we  import your photos. </p>
+</p><div style="width:100px; margin:auto;"><div id="bb776dda-ba21-41ec-80a7-9a936863de05"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Gee-Whiz-Labs,-Inc-/asc?rid=bb776dda-ba21-41ec-80a7-9a936863de05"></script><a href="//privacy.truste.com/privacy-seal/Gee-Whiz-Labs,-Inc-/validation?rid=ac4f6682-41e9-4486-85d8-9a42bfe006ca" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Gee-Whiz-Labs,-Inc-/seal?rid=ac4f6682-41e9-4486-85d8-9a42bfe006ca" alt="TRUSTe online privacy certification"></a></div></div>
+<p>Gee Whiz Labs, Inc. has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and our privacy practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software.  The TRUSTe program covers only information that is collected through this Web site, www.keepandshare.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or our privacy practices, please contact us at <a href="mailto:privacy@keepandshare.com">privacy@keepandshare.com</a>, or Gee Whiz Labs, Inc., 725 Euclid Avenue, San Francisco, CA 94118. If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">TRUSTe here</a>.  </p>
 
 
 
-<p><b>3.&nbsp;&nbsp;Our  Information Sharing Practices. </b></p>
-<p><b>(a) <em> Generally.</em></b> &nbsp;Except as otherwise described in this section of our Privacy Policy, we  will never sell, share, rent, or trade your Usage Data, Personal Information,  Non-Personal Information, or Shared Information (which we will refer to in this  Privacy Policy collectively as "<b>User Information</b>") with any third party except as  disclosed within this privacy policy.</p>
+<p></p><p><b>1.&nbsp;European Union and Other Non-U.S. Users</b>.  Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside.  YOU EXPRESSLY CONSENT TO OUR PROCESSING OF YOUR NAME AND OTHER INFORMATION BY WHICH SOMEONE COULD PERSONALLY IDENTIFY YOU (WHICH WE WILL REFER TO IN THIS PRIVACY POLICY COLLECTIVELY AS "<b>PERSONAL INFORMATION</b>") ACCORDING TO THIS PRIVACY POLICY.  YOUR PERSONAL INFORMATION MAY BE PROCESSED BY US IN THE COUNTRY WHERE IT WAS COLLECTED AND IN THE UNITED STATES; UNITED STATES LAWS REGARDING PROCESSING OF YOUR PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. 
 
-<p><b>(b)&nbsp;</b><em><b>Advertisers.</b></em> &nbsp;From time to time, we may share your Usage Data and Non-Personal  Information to enable third parties who serve advertisements on the Site to  deliver advertisements that will be relevant to you. We will not share any such  information, however, in a manner that would enable the advertiser to  personally identify you.</p>
+</p><p><b>2.&nbsp;Automatically Collected Information</b>. &nbsp;
 
-<p><b>(c)&nbsp;</b><em><b>Aggregated  Data.</b></em> &nbsp;From time to time, we may share aggregated User  Information (other than Shared Information) with third parties. We will not  share any aggregated data, however, in manner that would enable the recipient  to personally identify you.</p>
+</p><p><b>(a) Usage Data</b>.  We automatically collect certain information to help us understand how our users use the KeepandShare Network (which we will refer to in this Privacy Policy collectively as "<b>Usage Data</b>"). For example, each time you visit the KeepandShare Site we may automatically collect your IP address (which is a number that is automatically assigned to your computer or other device when you use the internet), browser and computer type, access time, the Web page from which you came, the information for which you search, and the web page(s) that you access during your visit. We also use cookies (which are small amounts of data sent from a web server to your browser that are stored on your computer's hard drive) to keep track of your use of the KeepandShare Network, to validate your identity, to remember your password and preferences, to tailor the KeepandShare Network to meet your personal interests, to analyze trends in our users' behavior on the KeepandShare Network, and to maintain and improve the quality of the KeepandShare Network.  We use local shared objects, also known as Flash cookies, to play tutorial videos.  
+&nbsp;  
+</p><p><b>(b) Data collection by Third Parties</b>.  Third parties who place advertisements on the Sites and third party service providers also may collect information automatically through cookies and other technology (such as pixel tags and Flash cookies) to ensure that their advertising systems and technologies work properly, to serve behavioral advertisements, to allow them to track responses to advertisements, and to help us better manage content on the KeepandShare Network by giving us information about the effectiveness and popularity of our content and features.  Cookies, pixel tags, Flash cookies, and other similar technologies used by these third parties are governed by the privacy policies of those third parties.  
 
-<p><b>(d)&nbsp;</b><em><b>Service  Providers.</b></em> &nbsp;From time to time, we may enter into relationships  with third parties who provide services to us (e.g., data management and  storage services or credit card processing services). In those circumstances,  we disclose User Information that is necessary for such service providers to  perform those services and require that they maintain the confidentiality of  such User Information.</p>
+</p><p><b>(c) Managing cookies</b>.  Generally, you can set your browser not to accept cookies or to notify you if you are sent a cookie, giving you the opportunity to choose whether or not to accept the cookie (though these management tools usually will not remove Flash cookies). To learn how to manage privacy and storage settings for Flash cookies <a href="http://preferences-mgr.truste.com/" target="_blank">click here</a>.  Please note that if you do set your browser not to accept cookies, certain portions of the KeepandShare Network may not function properly.
 
-<p><b>(e)</b>&nbsp;<em><b>Friends.</b></em>&nbsp;  The Site enables you to designate individuals with whom you would like us to  share your User Information (which we will refer to in this Privacy Policy  collectively as "<b>Friends</b>").  We may share your User Information with your Friends, however we will implement  the settings you select with respect to how such information is shared (e.g.,  providing access, but not editing rights, to documents). In no event, however,  will we share any of your User Information that you identify as private. Also,  so that other users of the Site can elect to designate you as one of their  Friends, certain User Information that you submit will be available to all  other users of the Site. The Site pages through which you submit User  Information will identify which information will be available to all other  users of the Site.</p>
+</p><p><b>3.&nbsp;Other Information We Collect</b>. &nbsp;
 
-<p><b>(f)&nbsp;</b><em><b>Other  Disclosure Scenarios.</b></em> &nbsp;Notwithstanding anything in this Privacy  Policy to the contrary, we reserve the right, and you hereby expressly authorize  us, to share any User Information: (1)&nbsp;in response to subpoenas, court  orders, or legal process, or to establish, protect, or exercise our legal  rights or defend against legal claims; (2)&nbsp;if we believe it is necessary  in order to investigate, prevent, or take action regarding illegal activities,  fraud, or situations involving potential threats to the safety of any person or  property; (3)&nbsp;if we believe it is necessary to investigate, prevent, or  take action regarding significant abuse of the Site’s infrastructure or the  Internet in general (such as voluminous spamming, denial of service attacks, or  attempts to compromise the security of information); (4)&nbsp;to our parent  company, subsidiaries, joint ventures, or other companies under common control  with us (in which case we will require such entities to honor this Privacy  Policy); and (5)&nbsp;if we are acquired by or merged with another entity.</p>
+</p><p><b>(a) Personal and Non-Personal Information</b>.  You can visit the KeepandShare Network without telling us who you are or revealing any other Personal Information. If, however, you wish to register to become a member of the KeepandShare Network, you are required to provide certain Personal Information (e.g., your name and e-mail address), and we ask that you also provide an account name and password. You may also choose to submit additional information about yourself (for example your gender) by which someone could not personally identify you (which we will refer to in this Privacy Policy collectively as "<b>Non-Personal Information</b>"). 
 
-<p><b>4.&nbsp;Public  Information.</b> &nbsp;If you identify any User Information as public, you  are authorizing us to share such information publicly. For example, you may  elect to make certain Shared Information (such as a calendar or photographs)  publicly available. Also, there may be areas of the Site (e.g., message boards,  discussion rooms, and blogs) in which you are able to post information that  will be available to all other users of the Site. By choosing to use these  areas, you understand and agree that anyone may access, use, and disclose any  information that you post to those areas. If you use these areas of the site  you should be aware that any information you submit there can be read,  collected, or used by other users of these forums, and could be used to send  you unsolicited messages.&nbsp; We are  not responsible for the personally identifiable information you choose to  submit in these forums.</p>
+</p><p><b>(b) Stored Information</b>.  You may choose to submit documents, photos, calendar entries, other information, other content, or edits to any information or content to the KeepandShare Network (which we will refer to in this Privacy Policy collectively as "Stored Information") certain of which may be shared with other users of the KeepandShare Network as described in this Privacy Policy (in this Privacy Policy we will refer to Stored Information in your account that is shared with others collectively as "<b>Shared Information</b>").  
 
-<p><b>Customer Testimonials</b>.  We post customer testimonials on  our web site which may contain personally identifiable information.&nbsp; If a testimonial does contain  personally identifiable information, we obtain the customer's consent via email  prior to posting the testimonial.<b> </b></p>
+</p><p><b>(c) Importing from Third Parties</b>.  We may provide you the ability to import your photos, your contact information, or other files from third party sites and services.&nbsp; If you choose to import your files from a third party site or service, we will ask you for your user name and password for that site or service in order to allow you to sign into your account and import your files.&nbsp; 
 
-<p><b>5.&nbsp;Choice/Opt-Out.</b> &nbsp;We offer you the opportunity to choose not to receive communications from  us. If you would like to take advantage of this opportunity, please let us know  by accessing and updating your account settings. You may opt-out from receiving  marketing or newsletter communications at anytime by clicking on the  unsubscribe link located within each email communication. Please note that  sometimes these requests may take up to ten business days to process. Even if  you do take advantage of this opportunity, we reserve the right to send you  administrative messages relating to the Site (e.g., about changes to this  Privacy Policy) and to contact you regarding any goods or services you have  ordered.</p>
+</p><p><b>4.&nbsp;&nbsp;Use and Sharing of Information</b>. 
 
-<p><b>6.&nbsp;Modifying and  Deleting Your Personal Information.</b> &nbsp;If you would like to  modify or delete from our database any User Information you previously  submitted to us, please let us know by accessing and updating your profile in  your account settings. Please note that any User Information that we have  copied may remain in back-up storage for some period of time after your  request, and that if you delete certain information you may not be able to  order services in the future without re-submitting such information. Also,  please note that we will maintain User Information in our database whenever we  are required to do so by law.</p>
+</p><p><b>(a) Our Use of User Information</b>.  We use your Usage Data, Personal Information, Non-Personal Information, Stored Information, and Shared Information (which we will refer to in this Privacy Policy collectively as "User Information") to fulfill your requests for products and services, to maintain and improve our services, to allow other users of the KeepandShare Network to find your account, to contact you from time to time about us, the KeepandShare Network, our products and services, and our newsletters, to update and enhance our records, to provide you with technical support, and to investigate and ensure compliance with our <a href="subscriberagreement.php" target="_blank">Terms of Service</a> and other agreements relating to the KeepandShare Network.  
 
-<p><b>7.&nbsp;Security.</b> &nbsp;The security of your personal information is  important to us.&nbsp; When you enter  sensitive information (such as credit card number) on our registration or order  forms, we encrypt that information using secure socket layer technology  (SSL).&nbsp; </p>
+</p><p><b>(b)&nbsp;Advertisers</b>. &nbsp;From time to time, we may share your Usage Data and Non-Personal Information to enable third parties who serve advertisements on the KeepandShare Network to deliver advertisements that will be relevant to you.
 
-<p>We have implemented reasonable measures to help protect your User  Information from loss, misuse, or unauthorized access or disclosure.  Unfortunately, however, no data transmission over the Internet can be  guaranteed to be 100% secure. As a result, while we strive to protect your User  Information, we cannot guarantee its security.</p>
+</p><p><b>(c)&nbsp;Service Providers</b>. &nbsp;From time to time, we may enter into relationships with third parties who provide services to us (e.g., data management and storage services or credit card processing services). In those circumstances, we disclose User Information that is necessary for such service providers to perform those services and require that they maintain the confidentiality of such User Information.  
 
-<p><b>8.&nbsp;Links.</b> &nbsp;The Site may contain links to other websites. We are not responsible for  the privacy practices of any such other website and urge you to review such  practices prior to submitting any information to such websites.</p>
+</p><p><b>(d)&nbsp;Friends</b>.&nbsp; The KeepandShare Network enables you to designate individuals with whom you would like us to share your User Information (which we will refer to in this Privacy Policy collectively as "<b>Friends</b>"), and enables you to identify, through the use of settings, which of your User Information will be available to which Friends.  We may share your User Information with your Friends, however we will implement the settings you select with respect to how such information is shared (e.g., providing access, but not editing rights, to documents).  By using sharing settings, you give people permission to access, download, embed on a website, link to, add to, edit, share, rate, review, comment on, and otherwise use Shared Information, as applicable.  If you access another user's data, content, or other information through the KeepandShare Network (whether as a Friend, a guest, or otherwise), the KeepandShare Network may allow that user to see when and how you have accessed his or her data, content, and other information.  
 
-<p><b>9.&nbsp;Children’s  Privacy.</b>&nbsp; We are committed to protecting the privacy needs  of children and we encourage parents and guardians to take an active role in  their children’s online activities and interests. The Site is not intended for  and may not be used by children under the age of 13. We do not knowingly  collect information from children under the age of 13 and we do not target the  Site to children under the age of 13.</p>
+</p><p><b>(e)  Information Available to All Users</b>.  So that other users of the KeepandShare Network can elect to designate you as one of their Friends, other users of the KeepandShare Network may search for your account by inputting all or a portion of your account name, first name, or last name, or your full email address.  The KeepandShare Network may display certain of your User Information (such as your account name, first and last names, city, state, zip code, and country) in response to such searches, and may link to materials that you have made public under your account. 
 
-<p><b>10.&nbsp;Changes.  &nbsp;</b>We may update this Privacy Policy from time to time. If  under any such update we make any material change to the way in which we treat  your User Information, we will inform you of such change via e-mail or by  posting a notice on relevant areas of the Site. Any updated version of this  Privacy Policy will be effective as of the date set forth therein.</p>
+</p><p><b>(f)&nbsp;Public Information</b>. &nbsp;The KeepandShare Network will enable you to identify, through the use of settings, which of your User Information will be available publicly.  If you identify any User Information as public, you are authorizing us to share such information publicly. For example, you may elect to make certain Stored Information (such as a calendar or photographs) publicly available. By choosing to identify any User Information as public, you understand and agree that anyone may access, disclose, index, archive, and otherwise use any information that you identify as public.  If, for example, you make your email address public, someone else may try to send you unsolicited messages at that address.  We are not responsible for the Personal Information you choose to identify as public. 
 
-<p><b>11. Third Party Information</b></p>
-<p><b>Invite-A-Friend</b>. If you  choose to use our 'Invite a Friend' referral service, we will ask you for your  friend’s email address.&nbsp; We will  automatically create your friend a free KeepandShare account to use to sign in  and use to view your shared information, and we will send your friend a  one-time welcome email inviting him or her to visit the site and use their free  account.&nbsp; Gee Whiz Labs stores this  information for the sole purpose of sending this one-time email and giving your  friend access to their KeepandShare account. Your friend may follow the  instructions in the welcome email to close their account or instruct  KeepandShare to not send them any further emails.</p>
+</p><p><b>(g)&nbsp;Other Disclosure Scenarios</b>. &nbsp;Notwithstanding anything in this Privacy Policy to the contrary, we reserve the right, and you hereby expressly authorize us, to share any User Information: (1)&nbsp;to comply with applicable law, including in response to subpoenas, court orders, or legal process; (2) to establish, protect, or exercise our legal rights or to defend against legal claims, including to enforce our <a href="subscriberagreement.php" target="_blank">Terms of Service</a> or any other agreement relating to the KeepandShare Network; (3) to address third party complaints of infringement or violation of any copyright, trademark, or other legal right; (4)&nbsp;if we believe it is necessary, to investigate, prevent, or take action regarding actual or suspected illegal activities, fraud, or situations involving potential threats to the safety of any person or property, including our own; (5)&nbsp;if we believe it is necessary, to investigate, prevent, or take action regarding significant abuse of the KeepandShare Network, its infrastructure, or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of information); (6)&nbsp;to our parent company, subsidiaries, joint ventures, or other companies under common control with us (in which case we will require such entities to honor this Privacy Policy); (7) if we become the subject of bankruptcy proceedings, in which case we may share information about you and your usage with a bankruptcy trustee, debtor in possession, or subsequent purchaser of assets; and (8)&nbsp;if we are acquired by or merged with (or in discussions regarding being acquired by or merged with) another entity, to such entity.  
 
-<p><b>Address Application</b>. We allow you to add your friends and families addresses and names to your  account so that you may reference them at any time.&nbsp; You also have the ability to import your contacts as  well.&nbsp; We do not store your email  address or password of any other address book that you may use to import your  contacts, we will not use your contacts for any reason other than to store them  for you. If you wish to delete your friends or families addresses or other  personal information you may do so by using the ‘delete’ command on an Address. <br>
-  If you send an email to a third party recipient, you have the ability to  save the email address that you used to send this third party an email.&nbsp; We do not use this email address for  any reason other then to send the emails to them that you requested we sent. If  you wish to delete this email address from your account you may do so at any  time by accessing your account settings screen. </p>
+</p><p><b>(h) Disclosure by Users</b>.  We do not control or manage the sharing or publication of information by users through the KeepandShare Network, and such users may possibly disclose Personal Information of other users or of third parties.
 
-<p><b>Questions.</b> &nbsp;If you have any questions about this Privacy Policy, please feel free to  contact us by e-mail at <a href="mailto:privacy@keepandshare.com">privacy@keepandshare.com</a>,  or Gee Whiz Labs, Inc., 725 Euclid Avenue, San Francisco, CA 94118.</p>
+</p><p><b>5. Special Provisions Regarding Team Accounts</b>.
 
+If you use the KeepandShare Network through a multi-user license, the master account holder under that license will have access to the User Information stored in and relating to your account and will have administrative control over your account.  Among other things, the master account holder will be able to set and revise the sharing controls on your account, log into your account, and change the password to your account.  In addition, we may provide to the master account holder periodic reports of activity under your account.       
+
+</p><p><b>6. Special Provisions Regarding Invitations and Guest Accounts</b>.
+
+</p><p><b>(a) Invite-A-Friend and Guest Access</b>. If you choose to use our guest sharing service or our 'Invite a Friend' referral service, we will ask you for your friend's email address.  We will automatically send your friend a one-time email , identifying you as the source of the invitation and inviting them to join the site.     Your friend may contact us at privacy@keepandshare.com to request that we remove this information from our database.  
+
+
+</p><p><b>(b) Guest Information</b>.  If another user of the KeepandShare Network invites you to access their data, content, or other information as a guest or invites you to the KeepandShare Network, they will provide your email address to us, and that email address will be associated with a username (which may be based on the first ("local") part of your email address) and a guest password that we provide to you.  We store this information for the purposes of sending this one-time email, giving you access to your account, communicating with you about your account, and notifying you of changes to the KeepandShare Network or the terms applicable to it.  If you wish, you may follow the instructions in the welcome email to close the account or instruct us to not send you any further emails.
+
+</p><p><b>7. Special Provisions Regarding the Address Book</b>. We allow you to add your friends', family's, and other contacts' names, email addresses, and other contact information to your account so that you may reference this information at any time.&nbsp; In addition, if you send an email to the email address of a third party recipient through the KeepandShare Network, you may have the ability to save that email address to your account.  We will use this contact information to store it for you, to share it for you on your request, and to send emails to your contacts on your request.  If you wish to delete any of your friends', family's, and other contacts' contact information from your account, you may do so by accessing the contact within your KeepandShare Network address list and clicking "Delete Address". 
+
+</p><p><b>8. User Testimonials</b>. We may from time to time post user testimonials on our Sites which may contain Personal Information.&nbsp; We will seek your consent if we post a user testimonial that contains your Personal Information. 
+
+</p><p><b>9.&nbsp;Choice/Opt-Out</b>. &nbsp;We offer you the opportunity to choose not to receive communications from us. If you would like to take advantage of this opportunity, please let us know by accessing and updating your account settings. You may opt-out from receiving marketing or newsletter email communications at anytime by clicking on the unsubscribe link located within each email communication. Please note that sometimes these requests may take up to ten business days to process. Even if you do take advantage of this option, we reserve the right to send you administrative messages relating to the KeepandShare Network (e.g., about changes to this Privacy Policy) and to contact you regarding any of your transactions with us.
+
+</p><p><b>10.&nbsp;Modifying and Deleting Your Personal Information</b>.  If you would like to modify or delete from our database any User Information (other than Usage Data) you previously submitted to us, please let us know by accessing and updating your profile in your account settings. We will use our commercially reasonable efforts to fulfill your request in a timely manner.  However, even if we delete such User Information from our 'live' database, it may still be stored on other databases (including those kept for archival purposes).  We may keep a record of all information that is changed or deleted, and we may determine what may be changed or deleted.  For example, if we are required to keep track of certain kinds of transactions, you may be prevented from changing or deleting information relevant for those transactions.  Please note that if you delete certain information, you may not be able to use certain features of the KeepandShare Network in the future without re-submitting such information. We are not responsible for removing information about you from the databases of any third parties to whom we were authorized to disclose your information prior to processing your request that we restrict the display or disclosure of this information.
+
+</p><p><b>11.&nbsp;Security</b>. We have implemented reasonable measures to help protect your User Information from loss, misuse, or unauthorized access or disclosure, and when you enter certain sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).  However, you should know that no company, including ours, can fully eliminate security risks associated with the disclosure of Personal Information.  Neither people nor security systems are foolproof, including encryption systems.  In addition, people can commit crimes, make mistakes, or fail to follow policies.  As a result, while your privacy is very important to us, we cannot fully ensure that your Personal Information (or any other of your User Information) will not be disclosed to third parties.  If applicable law imposes any non-disclaimable duty with respect to your information, you agree that the standard used to measure our compliance with that duty will be one of intentional misconduct.  
+
+</p><p><b>12.&nbsp;Health Information</b>. &nbsp;The KeepandShare Network is not intended for storage, display, or transmission of any "protected health information" as defined in the federal regulations implementing the Health Insurance Portability and Accountability Act (HIPAA), or any similar state or federal law.  Accordingly, the privacy and security provisions of this Privacy Policy should not be interpreted to incorporate any data protection standards of the HIPAA regulations.    
+
+</p><p><b>13.&nbsp;Links; Third Party Services</b>. &nbsp;The KeepandShare Network may contain links to other websites and may enable you to use third party products and services. We are not responsible for the privacy policies and practices applicable to any such other website or such third party products or services and urge you to review such policies and practices prior to submitting any information to such websites or in connection with such third party products and services.  
+
+</p><p><b>14.&nbsp;Children's Privacy</b>.&nbsp; We encourage parents and guardians to take an active role in their children's online activities and interests. The KeepandShare Network is not intended for use by children under the age of 13.  
+
+
+</p><p><b>15.&nbsp;Changes</b>.  We may amend this Privacy Policy from time to time.  If under any such update we make any material change to the way in which we treat your User Information, we will inform you of such change prior to the change becoming effective by posting notice of such change on the user news page of www.keepandshare.com, or by sending notice of such changes to you at the email address we have on file for you (if applicable).  If you continue to use any portion of the KeepandShare Network after the effective date of a modification, you will be deemed to have read, understood and agreed to the Privacy Policy as modified.  Any modified version of this Privacy Policy will be effective as of the date set forth in the modified version.  
+
+
+</p><p><b>16. Contact Information</b>. &nbsp;If you have any questions about this Privacy Policy, please feel free to contact us by e-mail at <a href="mailto:privacy@keepandshare.com">privacy@keepandshare.com</a>, or Gee Whiz Labs, Inc., 725 Euclid Avenue, San Francisco, CA 94118.  When we need to contact you, we may do so to an email address that we have on file for you, or we may post a notice on the KeepandShare Network.  This includes any notices that we may be required to send you by law, such as those regarding the breach of any security systems.</p>
+
+
+</div>
 
 </div>                
-<script type="text/javascript">
-adroll_adv_id = "JEPOY7K7BBH7NFHRGDS6AU";
-adroll_pix_id = "CNYB5MVCWRDHTC3R7BOM72";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
-
-<!-- Google Code for All KeepandShare.com Site Visitors -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1067089813;
-var google_conversion_label = "b71JCMvBlQQQlf_p_AM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1067089813/?value=0&amp;label=b71JCMvBlQQQlf_p_AM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
+  <!--google remarketing -->
+  <script type="text/javascript">
+  /* <![CDATA[ */
+  var google_conversion_id = 1067089813;
+  var google_conversion_label = "b71JCMvBlQQQlf_p_AM";
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
+  </script>
+  
+  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+  </script>
+  <noscript>
+  <div style="display:inline;">
+  <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1067089813/?value=0&amp;label=b71JCMvBlQQQlf_p_AM&amp;guid=ON&amp;script=0"/>
+  </div>
+  </noscript>
+  <!--adroll remarketing -->
+  <script type="text/javascript">
+		
+  adroll_adv_id = "JEPOY7K7BBH7NFHRGDS6AU";
+  adroll_pix_id = "CNYB5MVCWRDHTC3R7BOM72";
+  (function () {
+  var oldonload = window.onload;
+  window.onload = function(){
+     __adroll_loaded=true;
+     var scr = document.createElement("script");
+     var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+     scr.setAttribute('async', 'true');
+     scr.type = "text/javascript";
+     scr.src = host + "/j/roundtrip.js";
+     ((document.getElementsByTagName('head') || [null])[0] ||
+      document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+     if(oldonload){oldonload()}};
+  }());
+  </script>
 
   <!--<div id='footer' style=" margin-top:4px; border-top:2px #fa0 solid; border-bottom:6px #0CC solid;">-->
     <div id="footer">
@@ -222,16 +274,16 @@ var google_remarketing_only = true;
 					<ul><li><b>Plans</b></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'JoinFree', 'Pricing']);" href="/business/membership_details.php">Plans &amp; Pricing</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'JoinFree', 'ComparePlans']);" href="/business/membership_details_compare_plans.php">Compare Plans</a></li></ul>
 				</div>
 				<div style="float:left; width:180px;">
-					<ul><li><b>Apps</b></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Calendars']);" href="/htm/calendars/online_calendar/best_free_online_calendar.php">Calendars</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'CalendarRequests']);" href="/htm/calendars/calendar_requests.php">Calendar Requests</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Files']);" href="/htm/free_file_sharing.php">File Management</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Photos']);" href="/htm/free_photo_sharing.php">Photo Sharing</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'ToDos']);" href="/htm/free_to_do_list.php">To Do Lists</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Databases']);" href="/htm/free_online_databases.php">Online Databases</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Addresses']);" href="/htm/free_online_address_books.php">Address Books</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Mobile']);" href="/htm/mobile-smart-phone-support.php">Mobile Access</a></li></ul>
+					<ul><li><b>Apps</b></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Calendars']);" href="/htm/calendars/business_calendar.php">Calendars</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'CalendarRequests']);" href="/htm/calendars/calendar_requests.php">Calendar Requests</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Files']);" href="/htm/free_file_sharing.php">File Management</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Photos']);" href="/htm/free_photo_sharing.php">Photo Sharing</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'ToDos']);" href="/htm/free_to_do_list.php">To Do Lists</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Databases']);" href="/htm/free_online_databases.php">Online Databases</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Addresses']);" href="/htm/free_online_address_books.php">Address Books</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Features', 'Mobile']);" href="/htm/mobile-smart-phone-support.php">Mobile Access</a></li></ul>
 				</div>
 				<div style="float:left; width:180px;">
-					<ul><li><b>Solutions</b></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForBusiness']);" href="/htm/for-business.php">For Business</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForNonProfits']);" href="/htm/for-non-profit.php">For Nonprofits</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForGroups']);" href="/htm/for_groups.php">For Groups</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForGroups']);" href="/htm/for_you.php">For Individuals</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForWebmasters']);" href="/htm/free_webmaster_tools.php">For Webmasters</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'FreeHTMLCalendar']);" href="/htm/calendars/html_calendar/free_html_calendar.php">Add a Calendar to your Website</a></li></ul>
+					<ul><li><b>Solutions</b></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForBusiness']);" href="/htm/for-business.php">For Business</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForNonProfits']);" href="/htm/for-non-profit.php">For Nonprofits</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForGroups']);" href="/htm/for_groups.php">For Groups</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForGroups']);" href="/htm/for_you.php">For Individuals</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'ForWebmasters']);" href="/htm/free_webmaster_tools.php">For Webmasters</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'FreeHTMLCalendar']);" href="/htm/calendars/html_calendar/free_html_calendar.php">Add a Calendar to your Website</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Solutions', 'AffiliateProgram']);" href="/htm/affiliate.php">Affiliate Program</a></li></ul>
 				</div>
 				<div style="float:left; width:180px;">
 					<ul><li><b>Support</b></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Support', 'Help']);" href="/htm/help.php">Help</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Support', 'VideoTutorials']);" href="/htm/videotour.php">Video Tutorials</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Support', 'SampleCalendars']);" href="/htm/calendar_samples.php">Sample Calendars</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Support', 'ContactUs']);" href="/htm/contact_us.php">Contact Us</a></li>  <li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Support', 'AboutUs']);" href="/htm/press/about_us.php">About Us</a></li> <li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Support', 'TermsofUse']);" href="/business/subscriberagreement.php">Terms of Use</a></li><li><a onclick="_gaq.push(['_trackEvent', 'MenuClick', 'Support', 'PrivacyPolicy']);" href="/business/privacyagreement.php">Privacy Policy</a></li></ul>
 				</div>
 				<div style="float:left; width:180px">
-					<a href="/htm/press/trust_seals.php"><img src="/graphics/homepage/seals.gif" width="145" height="143"></a>
+					<a href="/htm/press/trust_seals.php"><img src="/graphics/homepage/seals_whitebackground_v2.jpg" width="157" height="198"></a>
 				</div>
 			</div>
 		<div style="clear:both;  padding:4px 0 10px 10px;  margin:auto; width:200px; ">
