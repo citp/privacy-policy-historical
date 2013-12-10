@@ -1,87 +1,70 @@
-> *The following text is extracted and transformed from the posterrevolution.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605030104id_/http%3A//www.posterrevolution.com/content/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posterrevolution.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210184213id_/http%3A//www.posterrevolution.com/content/privacy.cfm) for the most accurate reproduction.*
 
 # Poster Revolution Privacy Policy
 
-### Thank you for shopping at Poster Revolution!
-
-This privacy statement was last revised on **March 22, 2010**. To contact us, please go to "How To Contact Us" below.
-
-### Who We Are
-
-PosterRevolution℠ is a website for purchasing posters, calendars, frames, postcards, and other items. When we talk about the PosterRevolution℠ software and website in this policy, we will use the term "our Services." 
-
-### What This Document Is
-
-This document is our Privacy Statement. It documents the information we collect from users of our Services, how we use that information, who we share it with, how you can access or change your information, how you can contact us, and other important information about how we safeguard our users’ privacy. Importantly, this statement is a part of our "Terms of Service," which is the contract that governs our relationship with you, as a user of our Services. PLEASE NOTE: There are very important terms and conditions governing our relationship that are found in our "terms of service," that are not repeated here in our Privacy Statement because they do not relate to data collection or privacy. To see the terms and conditions that go to <http://www.posterrevolution.com/content/termsofuse.cfm>
-
-### Our Commitment to Privacy
-
-We take privacy seriously. We are committed to establishing and maintaining policies and procedures which protect the privacy of personal information gathered from users of our Services.
-
-### The Information We Collect
-
-A User of our Services is a person who has purchased items via PosterRevolution℠. All other people who use our Services are Visitors.
-
-We collect certain Personally Identifiable Information ("PII") from PosterRevolution℠ users, such as your full name, address, credit card number, and email address that you voluntarily submit in order to become a User. 
-
-We may also collect other non-PII from both Users and Visitors, such as IP addresses, aggregate usage data, and the type of browser you use to access our Services. 
-
-### The Technologies We Use
-
-Our Services use "cookies" and "log files" to allow you to sign into our services, and to customize your user experience.
-
-A "cookie" is a small text file that is placed on your hard disk by a web server. The information in the cookie can be read by other web servers within the same domain. A cookie cannot be used to run programs or deliver viruses on your computer. 
-
-A "log file" is a file we maintain on our server, that lists technical information about visitors to our site. It is in the log file that we store the technical information we described above, such as IP address, browser type, language, and referring web page.
-
-### The Way We Use Information
-
-We never use or share the personal information you provide to us online other than as described below without first giving you a chance to opt out or otherwise prohibit such uses. We do not supplement personally identifiable information with information from any other sources.
-
-We use the personal information you provide to us online:  
-
-  * To ensure our Services are relevant to your needs by evaluating the effectiveness of our products and services;
-  * To deliver services, such as newsletters that you request or purchase;
-  * To alert you to product upgrades, special offers, updated information and other new services from us;
-  * To allow you access to limited-entry areas of our site as appropriate; and
-  * To send important status and service messages regarding our Services.
+[show old policy](https://web.archive.org/web/20131210184213id_/http%3A//www.posterrevolution.com/content/privacy.cfm?showold)  
 
 
+### Privacy Policy
 
-For any of the uses of your information that we describe above, you may opt out, and forbid our use of the information for that purpose, by calling, mailing, or emailing us. To find our contact information, please see the "Contact Us" section at the end of this statement. The only use a user cannot opt out of is updates, which are important notices about the status of the website or potentially the terms of use and privacy policy.
+We value your business and we know your privacy is important to you. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect it, and what we do with it. By using this website you are accepting the practices described in this Privacy Policy. 
 
-### Sharing of Your Information
+#### How and when we collect information
 
-In general, we do not share Members PII or non-PII with third parties. However, we may share your PII with third-parties who help us manage or provide our services. We may also share your information with outside contractors, agents or sponsors who help us with the administration, judging, and prize fulfillment of contests we may run.
+We collect "personal" information from you when you provide it to us. For example, if you purchase a product from us, we may collect your name, mailing address, telephone number, credit card number and email address. If you sign up to receive a newsletter, we will collect your email address. If you take advantage of special services offered by us, we may collect other personal information about you. 
 
-We may also share aggregated demographic information with our partners and advertisers. However, this information is not linked to any personal information that can identify any individual user or visitor. 
+#### What we do with your information
 
-### Disclosure Requirements
+We are committed to protecting your privacy. Under no circumstances do we rent, trade or share your e-mail address with any other company for their marketing purposes without your consent. We use your personal information for internal purposes such as processing and keeping you informed of your order. You may, from time to time, receive information from us about new features, new services and special offers we think you'll find valuable. If you take advantage of special offers made by our marketing partners, we may, with your consent, transfer your personal information to them. We may share your mailing address with select third parties. 
 
-Any personal information you submit to us may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. Additionally, we may access or disclose your personal information if we believe it is necessary to: (a) comply with the law, or legal process served on us; (b) protect and defend our legal rights or our property, including enforcement of any agreements; or (c) act in urgent circumstances to protect the personal safety of our clients, employees, partners, or members of the public.
+The personal information that you give us when you place an order is used to process and fulfill your order. We also use your personal information for our own internal purposes, such as providing customer support or providing, maintaining, evaluating and improving our products and services. 
 
-### Links to Third Party Sites
+We partner with one or more credit card processing companies to assist us in processing your payment. However, those companies do not retain, share, store, or use personally identifiable information for any secondary purposes. 
 
-PosterRevolution℠ may feature links to third party website and advertisements. We are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by our Services.
+We may disclose the personal and non-personal information of our customers to any successor-in-interest of ours, such as a company that acquires our business. We may need to disclose your personal information when required by law or when we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order or legal process. 
 
-### Our Commitment to Data Security
+#### Your choice to opt-out of certain communications
 
-Our Services have security measures in place to help protect against the loss, misuse, and alteration of the data under our control. We use Secure Socket Layer (SSL) technology to protect information using both server authentication and data encryption to help ensure that your information is safe, secure, and available only to you, and our payment process uses SSL.
+If you are no longer interested in receiving e-mail announcements and other marketing information from us, please e-mail your request to sales@posterrevolution.com. Please include your complete name, e-mail address and mailing address. Note that you may still receive customer service related communications from us. 
 
-### Our Commitment to Children’s Privacy
+#### We link to other websites
 
-We believe that protecting the privacy of children is especially important. Therefore we do not knowingly collect or maintain personal information from children under the age of 18, and no part of our Services or software is structured to attract anyone under 18. If you are a parent, and believe that we have stored personal identification about your child under the age of 18, please contact us, and we will immediately investigate and delete any personal information we may have stored about that child.
+Our website may contain links to web sites operated by other companies. We are not responsible for the privacy practices of such other web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of such other websites. This privacy statement applies solely to information collected by our website. 
 
-### Opt-Out Policy
+#### IP address and cookies
 
-We offer our visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering our products, you change your mind about receiving information from us or about sharing your information with third parties, send us a request specifying your new choice. Simply email or write us. You can find our contact information in the "Contact Us" section at the end of this statement.
+We also collect "non-personal" information from you, such as your browser type, the URL of the previous web site you visited, your ISP, operating system, and your IP address. "Non-personal" information cannot be easily used to personally identify you. We may use your non-personal information to help diagnose problems with our server and to administer our website. Your non-personal information may also be used to gather broad demographic information and to recognize customer traffic patterns and website usage. This information aids us in merchandising and in developing the design and layout of the website. 
 
-From time to time we send promotional materials or newsletters by email, as described above in "The Way We Use Information." Any email you receive from us will include our postal address and an "unsubscribe" link that you can use to prohibit us from sending any additional information.
+In addition, like almost all e-commerce web sites, we use "cookies." Cookies are bits of information that are stored on your computer by your web browser. Although our cookies don't store any of your personal information, they do allow us to do things like keep items in your shopping cart between visits or during the same visit or provide you with a more personalized user experience. Whether you want your web browser to accept cookies or not is up to you. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to be notified when you receive a new cookie, or how to disable cookies altogether. You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-ons settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of features and services, we recommend that you leave them turned on. For instance, if you block our cookies, you will not be able to add items to your Cart, proceed to checkout, or use any services that require you to sign in. If you haven't changed your computer's settings, most likely your browser already accepts cookies. 
 
-### Changes to This Statement
+We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative's website by clicking [here](http://www.networkadvertising.org/). 
 
-We will occasionally update this Privacy Statement to reflect changes in our services and customer feedback. When we post changes to this statement, we will revise the "last revised" date at the top of this statement. If there are material changes to this statement, or material changes in the way we use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing them and giving you the option to opt-out of the new policy or procedures, or by sending you notification of the changes directly. We encourage you to periodically review this statement to stay informed about how PosterRevolution℠ collects and uses your personal information. You can always view and print the most recent version of this privacy statement at <http://www.posterrevolution.com/content/privacy.cfm>.
+#### How we protect your information
 
-### How To Contact Us
+The security of your personal information is very important to us. 
 
-We welcome your comments regarding this privacy statement, and our privacy practices. If you have questions about this statement or believe that we have not adhered to it, please contact us. You can contact us by email or by regular mail.
+When you enter sensitive information such as a credit card number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). For purchases made online with credit cards, we store your credit card number in encrypted form for a limited amount of time, and our employees do not have access to this information. We do not store PIN data or 3-digit security codes.
+
+We follow generally accepted industry standards to protect the personal information submitted to us from unauthorized access or disclosure, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We assume no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or other acts or omissions. 
+
+#### Children's privacy
+
+The Services are intended for users ages 18 and older. Accordingly, we will not knowingly collect or use any personal information from persons that we know to be under the age of 18. In addition, we will delete any information in our database that we know originates from a child under the age of 18. 
+
+#### Updating your personal information
+
+If your personal information changes, you may correct, update or remove personal information previously provided to us by contacting our customer service department at sales@posterrevolution.com. 
+
+#### We link to other websites
+
+Our website may contain links to web sites operated by other companies. We are not responsible for the privacy practices of such other web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of such other websites. This privacy statement applies solely to information collected by our website. 
+
+#### Changes to our Privacy Policy
+
+If we change our Privacy Policy, we will post a new version on our Website, which will become effective when posted. The new policy will apply to all current and past users of the Website and will replace any prior policies that are inconsistent with it. 
+
+#### Contact us
+
+If you ever have any questions regarding our privacy policy please contact us at sales@posterrevolution.com. 
+
+Updated: June 12, 2013 
