@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emptylighthouse.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509012353id_/http%3A//emptylighthouse.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emptylighthouse.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210185050id_/http%3A//emptylighthouse.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Empty Lighthouse Magazine
 
