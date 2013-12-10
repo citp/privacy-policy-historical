@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epltalk.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502094335id_/http%3A//epltalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epltalk.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210055651id_/http%3A//worldsoccertalk.com/privacy) for the most accurate reproduction.*
 
-# Privacy | EPL Talk – Independent voice of EPL soccer fans since 2005
+# Privacy | World Soccer Talk
 
 [site_name] knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
