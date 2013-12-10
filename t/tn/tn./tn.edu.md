@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tn.edu privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626081318id_/http%3A//www.southwest.tn.edu/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tn.edu privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210205423id_/http%3A//www.southwest.tn.edu/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Southwest Tennessee Community College
 
