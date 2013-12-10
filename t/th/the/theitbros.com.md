@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theitbros.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531071600id_/http%3A//theitbros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theitbros.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210224656id_/http%3A//theitbros.com/privacy-policy) for the most accurate reproduction.*
 
-# theitbros.com - Privacy Policy - TheITBros
+# theitbros.com - Privacy Policy
 
 At  ** **http://theitbros.com**** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit  ** **http://theitbros.com**** , and how we safeguard your information. We never sell your personal information to third parties.
 
