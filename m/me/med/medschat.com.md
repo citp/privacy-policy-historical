@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the medschat.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611094856id_/http%3A//www.medschat.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medschat.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210220530id_/http%3A//www.medschat.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - MedsChat - The People's Medicine Community
 
-Last Updated: 30 May 2013
+Last Updated: 13 August 2013
 
 Our site MedsChat.com ("MedsChat") operates an online community for our users to share their drug related questions and stories with one another. We are committed to safeguarding the privacy of our web site visitors; as such, this policy explains how we will treat your personal information.
 
-[](https://privacy.truste.com/privacy-seal/PrescriptionDrug-Info-com/validation?rid=94d322ee-aa78-4871-84b2-c38ffb1aeb6c "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/MedsChat-com/validation?rid=b3e7c82f-07c1-498e-aef0-35ef978d5f5a "TRUSTe online privacy certification")
 
 MedsChat.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Website, medschat.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
@@ -15,8 +15,8 @@ The People's Medicine Community
 3835R E. Thousand Oaks Blvd. # 175  
 Westlake Village, CA 91362
 
- **Facebook:** [http://fb.medschat.com](http://fb.medschat.com/)  
  **Google+:** [http://gp.medschat.com](http://gp.medschat.com/)  
+ **Facebook:** [http://fb.medschat.com](http://fb.medschat.com/)  
  **Twitter:** [http://tw.medschat.com](http://tw.medschat.com/)
 
 **Email:** Please use our [contact form](https://web.archive.org/contact.asp) to reach us via Email.
