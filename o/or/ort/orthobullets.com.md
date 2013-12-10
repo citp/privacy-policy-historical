@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orthobullets.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511001542id_/http%3A//www.orthobullets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orthobullets.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210235946id_/http%3A//www.orthobullets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
