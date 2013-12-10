@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umain30.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607082320id_/http%3A//umain30.com/privacy-policy-of-perfect-bloggerstech) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umain30.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210043516id_/http%3A//umain30.com/privacy-policy-of-perfect-bloggerstech) for the most accurate reproduction.*
 
 # Privacy policy of Perfect Bloggerstech
 
