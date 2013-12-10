@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skiddle.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420134413id_/http%3A//www.skiddle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiddle.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211000653id_/http%3A//www.skiddle.com/terms/privacy.php) for the most accurate reproduction.*
 
-# None
+# Skiddle Privacy Policy
 
 Skiddle Limited ("we") are committed to protecting and respecting your privacy.
 
@@ -12,11 +12,12 @@ For the purpose of the Data Protection Act 1998 (The Act), the data controller i
 
 We may collect and process the following data about you:-
 
-  1. Information that we provide by filling in forms on our site at www.skiddle.com ("our site"). This includes information provided at the time of registering to use our site, subscribing to our service, posting material and requesting further services. We may also ask you for information when you report a problem with our site. 
-  2. If you contact us, we may keep a record of that correspondence. 
-  3. We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
-  4. Details of transactions you carry out through our site and of the fulfilment of your orders. 
-  5. Details of your visits to our site including but not limited to, traffic data, location data, web logs and other communication data, whether this is required for a billing purpose or otherwise and the resources which you access. 
+  1. Information that we provide by filling in forms on our site at www.skiddle.com ("our site"). This includes information provided at the time of registering to use our site, subscribing to our service, posting material and requesting further services. We may also ask you for information when you report a problem with our site.
+  2. If you contact us, we may keep a record of that correspondence.
+  3. We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  4. Details of transactions you carry out through our site and of the fulfilment of your orders.
+  5. Details of your visits to our site including but not limited to, traffic data, location data, web logs and other communication data, whether this is required for a billing purpose or otherwise and the resources which you access.
+  6. Website Recording - Our web site may also use the SessionCam web site recording service. SessionCam is a product that has been developed by ServiceTick Ltd. SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. The information collected does not include bank details or any sensitive personal data. Data collected by SessionCam from the ServiceTick website is for internal use only. The information collected is used to improve our website usability and is stored and used for aggregated and statistical reporting.
 
 
 
@@ -31,9 +32,13 @@ We may collect information about your computer, including where available your I
 
 
 
+Data is collected using web analysis tools using cookies that are able to be used to generate pseudonyms for user profiles. These cookies may be saved after the expiration of the browser session.
+
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser settings so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
 Please note that our advertisers may also use cookies, over which we have no control.
+
+Our advertisers may also collect Non-personally Identifiable Information (N-PII) via anonymous cookies placed on our website, to help show relevant information and adverts to you. This information doesnt not contain any identifiable information (eg name). Further information and details on how to opt-out of these services can be found at http://www.captify.co.uk/privacy.php and http://exelate.com/privacy/opt-in-opt-out/
 
 ## WHERE WE STORE YOUR PERSONAL DATA
 
@@ -57,21 +62,21 @@ We use information held about you in the following ways:-
 
 We may use your data to provide you with information about goods, services or events which may be of interest to you and we may contact you about these by email, post or telephone.
 
-We will never sell your data to external parties. If you purchase tickets for an event, the event promoter may ask for your contact details to be shared with them so they can contact you directly about their event or inform you about future events they are promoting. If this has been requested by the promoter, we will give you the opportunity to opt in to this data sharing when placing your ticket order.
+We will never sell your personally identifiable information to external parties.
+
+If you purchase tickets for an event, the promoter of this event may ask for your contact details to be shared with them so they can contact you directly about their event or inform you about future events they are promoting. By placing an order you are consenting to the event promoter using your information for future contact and marketing. If you would like to opt-out of this, please contact the event promoter.
 
 We do not disclose information about identifiable individuals to external advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day) we may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1) we may also use the personal we have collected from you to enable us to comply with our advertisers wishes by displaying their advertisement to that target audience
 
 If you'd prefer we didn't send you marketing communication, please update your privacy preferences, available in My Skiddle
 
-## INTEGRATION WITH FACEBOOK
-
 ## DISCLOSURE OF YOUR INFORMATION
 
-We may disclose your personal information to any member of our group, which means our subsidiary’s, our ultimate holding company and its subsidiary’s, as defined in section 1159 of the UK Companies Act 2006.
+We may disclose your personal information to any member of our group, which means our subsidiarys, our ultimate holding company and its subsidiarys, as defined in section 1159 of the UK Companies Act 2006.
 
 We may disclose your personal information to third parties:-
 
-  1. In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
+  1. In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the seller or buyer of such business or assets. 
   2. If Skiddle or substantially all of its assets are required by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
   3. If we under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or imply our terms of use and other agreements, or to protect the rights, property, or safety of Skiddle, our customers, or others. This includes exchanging information with other companies and organisations for the purpose of fraud pretention and credit risk reduction. 
   4. To help us improve the service to you. In some cases we may pass your contact details to our customer feedback partner. This information will be used solely to give you the opportunity to raise any issues you may have encountered, or suggestions you may have for improving our service to you. 
@@ -82,7 +87,7 @@ We may disclose your personal information to third parties:-
 
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at support@skiddle.com.
 
-You may delete your account permanently if you wish. This will remove all personal information from your account, but will not remove your contact details from any orders you have placed as these may be required for us to carry out our obligations to you under contracts we've entered into with you. 
+If you believe personal information we hold about you is inaccurate, you can update this in your profile, or contact us and we will update it for you. You may delete your account permanently if you wish. This will remove all personal information from your account, but will not remove your contact details from any orders you have placed as these may be required for us to carry out our obligations to you under contracts we've entered into with you. 
 
 Our site may, from time to time, contain links to and from websites for advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -97,3 +102,5 @@ Any changes we make to our privacy policy in the future will be posted on this p
 ## CONTACT
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to support@skiddle.com.
+
+Last updated: 18th November 2013
