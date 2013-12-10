@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609193812id_/http%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210055429id_/http%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -53,8 +53,7 @@ Also – [Contest and Giveaway Terms and Conditions](http://www.moneymakingmommy
 
 * |   
 ---|---  
- 
+  
+[ ](https://plus.google.com/+KellyLand/?rel=author)
 
-[ ](https://plus.google.com/106044383169010664855?rel=author)
-
-Kelly Land is the owner and content author here at MoneyMakingMommy.com. She has been part of an expert work at home panel and spent the last 12 years researching work at home. 
+Kelly Land is the owner and content author here at MoneyMakingMommy.com. She has been part of an expert work at home panel and spent the last 12 years researching work at home.
