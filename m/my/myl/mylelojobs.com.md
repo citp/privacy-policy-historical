@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mylelojobs.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609192948id_/http%3A//mylelojobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylelojobs.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210131128id_/http%3A//www.mylelojobs.com/privacy.php) for the most accurate reproduction.*
 
-# Mylelo Jobs - Privacy Policy
+# Mylelo Jobs-Latest Jobs in Nigeria
 
 ### WHAT THIS PRIVACY POLICY COVERS
 
@@ -78,5 +78,3 @@ Return to Top
 ### CHANGES TO THIS PRIVACY POLICY
 
 Mylelo may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Mylelo account or by placing a prominent notice on our site. 
-
-Return to Top
