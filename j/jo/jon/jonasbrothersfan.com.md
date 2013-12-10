@@ -1,67 +1,90 @@
-> *The following text is extracted and transformed from the jonasbrothersfan.com privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830083307id_/http%3A//jonasbrothersfan.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonasbrothersfan.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210221339id_/https%3A//www.fanlala.com/privacy) for the most accurate reproduction.*
 
-# Jonas Brothers Fan - The #1 Jonas Brothers Fansite
+# Privacy Policy | Fanlala.com
 
-Privacy Statement (effective as of April 1, 2010) 
+Fanlala.com ("Fanlala") is the ultimate fan community for teens! Fanlala is committed to complying fully with the Children's Online Privacy Protection Act of 1998. Our information collection practices are described below. We urge kids to check with their parents before entering information on any website and we urge parents to discuss with their kids restrictions regarding the online release of personal information to anyone they don't know.
 
-FanGap, LLC (“FanGap,” “we” or “us”) is committed to protecting your privacy. This Privacy Statement applies to the FanGap.com web site and its family of other sites (including but not limited to jonasbrotherfan.com, tiffanyfan.com, selenagomezcentral.com and demilovatofan.com)(collectively, the “Sites”) and governs data collection and usage. By using the Sites, you consent to the data practices described in this statement.  We currently collect, store and process the information we collect (including your personally identifiable information) in the United States. By visiting our Sites or otherwise providing information to us, you expressly consent to our collection in, transfer to, and use and processing of such information in, the United States. 
+## What information is collect and how it is used?
 
-Our Policy Towards Children
+The following section describes the information we collect from you and indicates the primary purposes why we collect each type of information from you. If we use your information or disclose or distribute your information to third parties for a purpose that is not related to the following purposes, we will notify you by email of your right to opt-out of that use, disclosure or distribution beforehand. Your right to opt-out shall be governed by the Choice/Opt-Out Section below.
 
-FanGap’s Sites and services are not directed to children under 13 years of age and we do not knowingly accept membership or collect personally identifiable information from children under 13.  If a parent or guardian becomes aware that his or her child under 13 has provided us with personally identifiable information without consent of the parent or guardian (or that we have otherwise collected or obtained such information), he or she should contact us at info@fangap.com.  If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files. We recommend that minors between the ages of 13 and 18 ask their parents for permission before sending any information about themselves to anyone over the Internet.
+As described below in more detail, we use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is or may be used to help identify you, to track activity within our site and to gather broad demographic information. Our Web server will collect IP information.
 
-Collection of Information 
+Our site uses cookies to keep track of your session ID. We may use cookies to deliver content specific to your interests.
 
-FanGap collects personally identifiable information if you choose to register, set up a user account, enter a contest, contact us with a question or comment, or otherwise voluntarily submit such information to us.  This information may include your e-mail address, name, mailing address and/or telephone number. We also collect anonymous, non-personally identifiable demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.  When combined with other information, even this anonymous information may be deemed to be personally identifiable. 
+Our site's registration and order form requires users to give us the following:
 
-There is also information about your computer hardware and software that is automatically collected by FanGap and/or our service providers. This information can include: your computer’s IP address, browser type, domain names from which you are visiting, access times and referring web site addresses. This information may be used by FanGap and our service providers in connection with our general operation and marketing of the Sites, including, for example, , to maintain quality of the services provided to you and other users, and to provide general statistics regarding use of the Sites. 
+  * contact information (such as email address), and
+  * demographic information (such as date of birth).
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through public message boards or other areas of the Sites that are viewable by other visitors and users, this information may be collected and used by others.   We strongly discourage you from sharing any personal, financial or other sensitive information. 
 
-FanGap encourages you to review the privacy statements of Web sites you choose to link to from our Sites so that you can understand how those Web sites collect, use and share your information. FanGap is not responsible for the privacy statements on third party Web sites, which may differ from our policies and practices.  Some of the advertisements that may appear on the Sites may also be delivered to you by third party advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect information about your visit to or use of our Sites, including information about the ads they display, via cookies. 
 
-Use of your Personal Information 
+The user's contact information is used to contact the user when necessary. Users may opt-out of receiving future mailings as set forth in the Choice/Opt-Out section below.
 
-FanGap collects and uses your personal information to operate the Sites, to contact you and process your registration, to facilitate your use of our Sites, for our recordkeeping purposes and to deliver the services you have requested. We may also use your personally identifiable information to inform you of other products or services available from FanGap and our affiliates. We may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
+Demographic and profile data is also collected at our Web site. We use this data to tailor the user's experience at our Web site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
-FanGap may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is generally not transferred to the third party. In some cases, we may share information we collect (including personal information or anonymous demographic information) with third party companies who offer products or services in which we believe you may be interested.  In addition, we may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to FanGap and they are required to maintain the confidentiality of your information. FanGap may sell, transfer or otherwise share some or all of our stock and/or assets, including your personally identifiable information, in connection with a merger, acquisition, divestiture, other corporate reorganization or sale of assets or in the event of bankruptcy.  FanGap does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent. 
+The demographic information may be shared with advertisers on an aggregate basis. Aggregate basis means that your information will be generalized with the data we collect from all our users. For example, we may share the average age or income level of our users with advertisers. We will not share personally identifiable information, such as contact information, unique identifiers, financial information and demographic information, with advertisers about any particular individual that uses our Web site.
 
-FanGap keeps track of the Web sites and pages our customers visit within the Sites in order to determine what Sites, pages and services are the most popular. This data may be used to deliver customized content and advertising within the Sites to users whose behavior indicates that they are interested in a particular subject area. - 
+Fanlala may also use the information we collect from you to optimize our Web site so that it is more beneficial to users like yourself and to us. This site contains links to other sites. Fanlala is not responsible for the privacy practices or the content of such websites.
 
-FanGap may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with law enforcement or legal process served on FanGap; (b) protect and defend the rights or property of FanGap and our service providers, licensors and users; and, (c) act under exigent circumstances to protect the personal safety of users of the Sites, or the public. 
+All of this collected information is described generally in this Privacy Policy as "Personal Information."
 
-Use of Cookies 
+**Children's Personal Information.** Fanlala may collect Personal Information from children under 13. Some of this Personal Information is collected actively: that is, we ask for information and the person asked provides the information, for instance by typing it into a form. In other cases, the Personal Information is collected passively, by, for instance, the use of cookies. The Children's Online Privacy Protection Act ("COPPA") requires us to inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age. This policy describes our practices with respect to information we collect from you, as well as from your child. Parents of children that sign up for an account under 13 years of age are notified via email that their child has signed up for an account and are prompted to approve or delete the account. For more information on the type of Personal Information collected, and the uses to which Fanlala puts this Personal Information, please visit the section of this Privacy Policy headed "Personal Information".
 
-The Sites use "cookies" to help us recognize you and to personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer, and can only be read by a web server in the domain that issued the cookie to you. 
+## Security and protection of information we collect
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize a page on one or more of our Sites, or register with FanGap, a cookie helps us to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as your name, billing addresses, shipping addresses, and so on. When you return to the same FanGap Site, the information you previously provided can be retrieved, so you can easily use the features that you customized. 
+Information we collect is stored in a secure data facility, and is only available to authorized personnel on a need-to-know basis.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Sites you visit. 
+We take additional reasonable precautions to secure and protect the information we collect. For example, all personal information is password protected. Additionally, certain data, such as financial information, is collected via a SSL connection. However, no information collected over the Internet can be guaranteed to be completely secure. If we become aware of a security breach that may affect your personal information, we will notify you via the email address you provide.
 
-Security of your Personal Information 
+If you have any questions or concerns about how Fanlala secures personal information, contact [privacy@fanlala.com](mailto:privacy@fanlala.com).
 
-FanGap employs administrative, physical and electronic measures designed to secure your personal information from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.  Please be aware, however, that despite our best efforts, no security measures are perfect or impenetrable. 
+## Information we share
 
-Changes to this Statement 
+Fanlala is not in the business of renting and selling personal information to any entity outside of Fanlala websites. Fanlala will share your and your child's personal information under the following circumstances:
 
-FanGap may occasionally update this Privacy Statement to reflect company practices and customer feedback; each version will apply to information collected while it was in place. We will notify you of any material changes by posting a new Privacy Statement here and changing the effective date above.  Therefore, we encourage you to periodically review this Privacy Statement to be informed of any changes. 
+  * To comply with a subpoena, court order, or other legal proceeding, or if otherwise requested by a legitimate law enforcement body to cooperate in their investigations. 
+  * To prevent, investigate, or to take some other action against illegal activities, potential fraud, potential physical threats to any person, violations of our terms of service, or in any other way as required by law. 
+  * If we sell all or part of our business, personal information may be disclosed as part of the sale or transfer of the business assets. Entities we sell or transfer these assets to will be bound by this privacy policy. 
 
-Contact Information 
 
-FanGap welcomes your comments regarding this Privacy Statement. If you wish to access and update or correct the information you have provided to us or if you believe that we have not adhered to this Statement, please contact us at info@fangap.com.
 
-Unsubscribing 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
-Any e-mails you receive from us will include specific instructions on how to unsubscribe from receiving further communications from us and you may unsubscribe at any time.  Additionally, we give you the following options for removing your information from our database:
+## Fanlala Chat
 
-(1) send an email to mail@fangap.com;
+Fanlala includes a chat feature that allows Fanlala users to chat with each other in real time. Fanlala users are able to chat only with those with whom they are friends with online. Other Fanlala users cannot even tell who is online.
 
-(2) select the opt-out link at the bottom of any FanGap email and follow the instructions provided;
+Fanlala keeps a log of chat sessions, and these logs are protected by the same security features that protect all of Fanlala. Fanlala chat data is destroyed after 365 days, though Fanlala reserves the right to change this in the future.
 
-(3) send mail to FanGap, LLC, 14 Mill Road,  Eastchester, NY 10709 , Attn: Customer Relations.
+## CHOICE/OPT-OUT
 
-California Residents 
+Fanlala provides users the opportunity to opt-out of receiving communications from Fanlala at the point where we request information about the user. Parents may also exercise all of the rights available to them as described in the Parents' and Children's Privacy Rights section. You have the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-California Civil Code Section 1798.83 permits users of our Sites who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.  To make such a request, please send an e-mail to mail@fangap.com or write to us at FanGap, LLC, 14 Mill Road , Eastchester, NY 10709, Attn: Customer Relations.
+  1. You can send email detailing which communications you no longer wish to receive, and/or concerning your children's privacy rights to privacy@fanlala.com.
+  2. You can send mail on the same subjects to the following postal address:  
+Fanlala Inc.  
+2099 Mt. Diablo Blvd Suite 204  
+Walnut Creek, CA 94596 
 
-California residents who have an established business relationship with FanGap may also choose to opt-out of our disclosing personal information about them to third parties for marketing purposes.  If you do not want us to share your personal information with such third parties, please send us your name, address and phone number to mail@fangap.com.  Your opt-out request will be processed within 30 days of the date it was received.
+
+
+Security. This Web site has security measures in place to protect the loss, misuse and alteration of the information under our control. All user data is stored on our servers.
+
+The user may request, via email or telephone, additional information about Fanlala's security practices. The requested security information will be made available to the user via email, fax or postal mail, in our discretion.
+
+## Contacting Fanlala
+
+If you have any questions or concerns about the Fanlala privacy policy, you can contact us at:
+
+Fanlala, Inc  
+2099 Mt. Diablo Blvd Suite 204  
+Walnut Creek, CA 94596  
+(925) 478-5502  
+[ privacy@Fanlala.com](mailto:privacy@fanlala.com)
+
+## Changes to the privacy policy
+
+From time to time Fanlala may make changes to this privacy policy. We will notify you of any material changes that may impact how we use your information or the information of your child by placing a prominent notice on our site.
+
+This Privacy Policy was last updated on January 30 2012.
