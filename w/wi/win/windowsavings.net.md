@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsavings.net privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214125021id_/http%3A//windowsavings.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsavings.net privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210131523id_/http%3A//windowsavings.net/privacy) for the most accurate reproduction.*
 
 # Window Savings Privacy Policy
 
