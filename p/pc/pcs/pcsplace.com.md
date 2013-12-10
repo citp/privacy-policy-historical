@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcsplace.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603175320id_/http%3A//pcsplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcsplace.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210125517id_/http%3A//pcsplace.com/privacy-policy) for the most accurate reproduction.*
 
 # PCs Place - Privacy Policy | PCs Place
 
