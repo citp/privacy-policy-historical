@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foreignpolicy.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530120046id_/http%3A//www.foreignpolicy.com/articles/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreignpolicy.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210090144id_/http%3A//www.foreignpolicy.com/articles/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Foreign Policy
+# Privacy Policy
 
 **FOREIGN POLICY** respects our subscribers’ and Web site users’ right to privacy. Personally identifiable information is collected on our Web site only when voluntarily provided by the user. This information is used to deliver requested items such as the **FP** _e_ -Alert newsletter, purchased products, content or Forum access, or magazine subscriptions. We also use this information to make your experience on ForeignPolicy.com more enjoyable and convenient. 
 
