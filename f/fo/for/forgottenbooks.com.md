@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forgottenbooks.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625211434id_/http%3A//www.forgottenbooks.org/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forgottenbooks.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211001339id_/http%3A//www.forgottenbooks.org/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Forgotten Books' Privacy Policy
 
 [Home](https://web.archive.org/) > Privacy Policy
 
@@ -34,9 +34,11 @@ Your private information (credit cards, social security numbers, financials, etc
 
 Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-We use cookies only to enable you to log in to your Forgotten Books membership and access our services at your request.
+We use cookies to enable you to log in to your Forgotten Books membership and access our services at your request.
 
- **Do we disclose any information to outside parties?**
+Additionally we utilize Google Analytics Demographics and Interest Reporting based on Google's DoubleClick cookie. The DoubleClick cookie is a third-party cookie used to to provide us and Google with audience data (such as age, gender and interests) that we use to improve and market our services. This demographic information is not personal and is not linked to your name or any personally identifiable information, it is only used in a pool in which you are an anonymous statistic. Google may also use it to decide which ads to serve to you based on web sites you have visited. You can opt-out or customize your cookie settings at [Google Ad Settings](http://www.google.com/settings/ads). Google also offers a [browser add on](https://tools.google.com/dlpage/gaoptout/) for people who want to opt-out of everything (this will not mean you are not served ads, only that the ads will not be relevant to what you are looking for.) 
+
+**Do we disclose any information to outside parties?**
 
 No. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information, except in circumstances where we believe you have been a party in the infrigement of any our our copyrights. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -56,7 +58,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-This policy was last modified on 5/8/2013.
+This policy was last modified on 22/11/2013.
 
  **Contacting Us**
 
