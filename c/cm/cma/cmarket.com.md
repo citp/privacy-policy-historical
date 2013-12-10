@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmarket.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021064100id_/http%3A//www.biddingforgood.com/auction/communicate/PrivacyPolicy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmarket.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210131142id_/https%3A//www.biddingforgood.com/auction/communicate/PrivacyPolicy.action) for the most accurate reproduction.*
 
 # Privacy Policy - BiddingForGood Fundraising Auction
 
