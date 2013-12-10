@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virginmango.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618192120id_/http%3A//www.virginmango.com/insidepage.aspx%3FId%3D29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmango.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210093151id_/http%3A//www.virginmango.com/insidepage.aspx%3FId%3D29) for the most accurate reproduction.*
 
-# Virginmango.com : Privacy Policy
+# Privacy Policy | VirginMango.com
 
 _**VIRGIN MANGO- PRIVACY POLICY**_
 
@@ -22,7 +22,7 @@ We receive and store any information you enter on our Websites or give in any ot
 
 
   
- **3.   Do we use cookies?**  
+ **3. Do we use cookies?**  
 
 
 Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information   
