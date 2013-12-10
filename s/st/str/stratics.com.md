@@ -1,55 +1,58 @@
-> *The following text is extracted and transformed from the stratics.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601122046id_/http%3A//stratics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratics.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210232404id_/http%3A//stratics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stratics
 
-**What information do we collect?**
+This site is privately owned and operated by Valour Corp (“we,” “our”). We are committed to protecting the privacy of our volunteers, users, and visitors. The protections afforded by this Privacy Policy have universal reciprocity throughout all Stratics properties, but do not apply to third-party websites. Affiliation, registration, or use of Stratics content, products, or services constitutes unconditional assent to this policy. We reserve to the unilateral right to update this policy at any time. Changes to this policy will be promulgated throughout the Stratics Network. After changes are implemented, continued affiliation, registration, or use of Stratics content, products, or service reaffirms continued assent to this policy.
 
-We collect information from you when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. 
+### Table of Contents
 
-**Do we use cookies?**
+  * Personal Information
+  * Sharing Personal Information
+  * Anonymous Information
+  * Use of Cookies
+  * Third Party Relationships
+  * Security
+  * Contact Us
 
-Yes. 
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
 
-(Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser, if you allow it, that enables the sites or service providers systems to recognize your browser and capture and remember certain information.) 
+### Personal Information
 
-Also, Google (a third party vendor) uses cookies to serve ads on our site. 
+Stratics is an online publisher of massive, multiplayer online (MMO) gaming information, the host of online community, and a facilitator for careers in the gaming industry. Volunteers and users may be required, as appropriate, to provide Stratics with certain personal information, including but not limited to: name, address, telephone number, and e-mail address (“Personal Information”). Stratics will use your Personal Information to establish your account, communicate with you, and for ongoing record keeping. Stratics will not release your Personal Information without your express permission, except:
 
-Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+  * as permitted by this Privacy Policy;
+  * as permitted in any written agreement between you and Stratics;
+  * when deemed necessary to conduct business; and
+  * when deemed necessary to enforce Stratics’s Terms and Agreements.
 
-**What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
 
-* To personalize your experience (your information helps us to better respond to your individual needs) 
+In compliance with the requirements of the Children’s Online Privacy Protection Act (COPPA), Stratics does not knowingly collect any Personal Information from anyone under the age of 13. Stratics content, products, and services are directed at volunteers and users who are at least 13 years old or older. We urge parents and guardians to monitor and review the Internet-based activities of children in their care.
 
-* To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+### Sharing Personal Information
 
-* To administer a contest, promotion, survey or other site feature 
+Stratics will not sell or trade your Personal Information.
 
-**How do we protect your information?**
+If a volunteer or user voluntarily publishes his or her own Personal Information on any public medium owned or operated by Stratics, we vigorously eschew any and all liable or responsibility regarding how this data is used. We urge volunteers and users to protect their Personal Information and to avoid publishing it publicly.
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+### Anonymous Information
 
-**Do we disclose any information to outside parties?**
+Anonymous Information includes impersonal information, such as domain names, IP addresses, browser details, referring URLs, and other data that is not personally identifiable. We collect and use Anonymous Information to improve features, tailor advertising, conduct market research, and enforce our Terms of Use. We share Anonymous Information with select advertisers and partners. However, we do not share Anonymous Information if it is linked to your Personal Information unless you have expressly given us authorization to do so.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+### Use of Cookies
 
-**Third party links**
+Stratics uses cookies to understand and save your preferences for future visits, to populate aggregated data for tailored ad serving, and to discover trends in order to improve our web-based content, products, and services. Cookies are small files that websites and service providers use, when allowed, to recognize and remember certain technical information about your browser. Stratics will not use cookies to collect Personal Information—only to collect anonymous technical information. We may collaborate with third-party services to better understand this information. In such cases, these third-party services are prohibited from using collected data except to expressly improve Stratics content, products, or services. Third-party advertisers may use their own cookies for tailored ad serving.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+### Third Party Relationships
 
-**Children’s Online Privacy Protection Act Compliance**
+Stratics may form relationships with third party service providers in order to provide additional services and functionality to our users. In cases of co-branded websites and products, we may provide some Personal or Anonymous Information with these partners in order to ensure interoperability between our services. When volunteers, users, or visitors sign up for these services, we strongly encourage them to read the privacy policies published by our third party partners. We are not liable for the privacy policies or practices of our third party partners.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+### Security
 
-**Your Consent**
+Stratics relies upon state-of-the-art security practices and protocols to protect the Personal Information of our volunteers, users, and visitors. We are strongly committed to preventing the loss, misuse, or alteration of any Personal Information entrusted to us. While no storage or transmission system is perfectly secure, we will continuously improve and monitor our site security to ensure that your data remains secure.
 
-By using our site, you consent to our privacy policy. 
+### Contact Us
 
-**Changes to our Privacy Policy**
+If you have questions about this Privacy Policy, please contact us at [contact@stratics.com](mailto:contact@stratics.com).
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on Mar 25, 2011
+_Last updated 4 July 2013._
