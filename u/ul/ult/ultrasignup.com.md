@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the ultrasignup.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629034352id_/http%3A//ultrasignup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrasignup.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210131033id_/http%3A//ultrasignup.com/privacy.aspx) for the most accurate reproduction.*
 
-# 
+# UltraSignup Home
 
-Welcome to Ultra Signup! We want you to know that protecting your personal information is very important to us, and we respect your privacy. This Privacy Policy is meant to explain how we use and protect the personal information you share with us. This Policy applies to all users of Ultra Signup.com or our services, and to any information provided to us. 
+##  Your privacy is important to us 
 
-By using our website, you are accepting the practices we describe here. 
-
-If you have any questions, please click here for information on how to contact us. 
-
-**Consumer Privacy at Ultra Signup**
-
-At Ultra Signup, we respect the privacy of our users and the importance of the information they entrust to us. Below you will find the policies and practices in place on Ultra Signup’s website. 
+Welcome to Ultra Signup! We want you to know that protecting your personal information is very important to us, and we respect your privacy. This Privacy Policy is meant to explain how we use and protect the personal information you share with us. This Policy applies to all users of Ultra Signup.com or our services, and to any information provided to us. By using our website, you are accepting the practices we describe here. 
 
 **Information we may collect**  
 We may collect information that can identify you (“personal information”), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
@@ -89,10 +83,5 @@ If you are a resident of California, in addition to the rights set forth above, 
 We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [legal@ultrasignup.com](mailto:legal@ultrasignup.com)
 
 **How to contact us**  
-If you have any questions about this summary, our Privacy Policy, or our information practices, please contact us by email or postal mail below:
-
-Privacy Officer  
-c/o Ultra Signup Legal  
-1850 Woodhaven Way  
-Oakland, CA 94611  
+If you have any questions about this summary, our Privacy Policy, or our information practices, please contact us by email below:  
 [legal@ultrasignup.com](mailto:legal@ultrasignup.com)
