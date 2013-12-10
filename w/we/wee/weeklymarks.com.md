@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeklymarks.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604063144id_/http%3A//weeklymarks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklymarks.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210151416id_/http%3A//weeklymarks.com/privacy.html) for the most accurate reproduction.*
 
 # weeklymarks.com | Career Planning
 
