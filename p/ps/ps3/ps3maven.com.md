@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ps3maven.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530150229id_/http%3A//ps3maven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3maven.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210040306id_/http%3A//ps3maven.com/privacy-policy) for the most accurate reproduction.*
 
 # PS3Maven Privacy Policy | Ps3 Maven
+
+## Privacy Policy
 
 **PS3Maven Privacy Policy**
 
