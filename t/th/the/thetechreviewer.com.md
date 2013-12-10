@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetechreviewer.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430163351id_/http%3A//thetechreviewer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechreviewer.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210074344id_/http%3A//thetechreviewer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -15,6 +15,8 @@ We may collect non-personal identification information about Users whenever they
 **Web browser cookies**
 
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+Our website contains some affiliate marketing links, which means we get paid commission on sales of those products or services we write about. Our editorial content is not influenced by advertisers or affiliate partnerships. We use a 3rd Party to enable these affiliate partnerships.
 
 **How we use collected information**
 
@@ -74,6 +76,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [The Tech Reviewer](http://thetechreviewer.com/)  
 <http://thetechreviewer.com/>  
-admin@thetechreviewer.com
+coltagar@thetechreviewer.com
 
 This document was last updated on October 18, 2012
