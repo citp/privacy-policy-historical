@@ -1,21 +1,64 @@
-> *The following text is extracted and transformed from the youthheaven.com privacy policy that was archived on 2013-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130320040124id_/http%3A//youthheaven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthheaven.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210111655id_/http%3A//youthheaven.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - youthheaven.com | youthheaven.com
+# Privacy policy | youthheaven.com
 
-Privacy Policy for http://www.youthheaven.com  
-The privacy of our visitors to http://www.youthheaven.com is important to us.  
-At http://www.youthheaven.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://www.youthheaven.com, and how we safeguard your information. We never sell your personal information to third parties.
+## **Privacy Policy**
 
-Log Files As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+This Privacy Policy governs the manner in which [www.youthheaven.com](http://www.youthheaven.com/) collects, uses, maintains and discloses information collected from users (each, a User) of the www.youthheaven.com website. This privacy policy applies to the Site, all products and services offered by www.youthheaven.com.[  
+](http://www.ittragedy.com/)
 
-Cookies and Web Beacons We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+## **Personal Identification Information**
 
-We also use third party advertisements on http://www.youthheaven.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-DoubleClick DART cookies We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (“interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
+## **Non-personal Identification Information**
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providersutilized and other similar information.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+## **Web Browser Cookies**
 
-If you have any question regarding the policy of www.youthheaven.com then you may contact us at namitkapoor18@gmail.com
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+## **How We Use Collected Informations?**
+
+**www.youthheaven.com**  collects and uses Users personal information for the following purposes:  
+\- To improve our Site  
+We continuously strive to improve our website offerings based on the information and feedback we receive from you.  
+\- To improve customer service  
+Your information helps us to more effectively respond to your customer service requests and support needs.
+
+## **How We Protect Your Information?**
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.  
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+
+## **Sharing Your Personal Information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+## **Google Adsense**
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+## **Compliance With Children’s Online Privacy Protection Act**
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+## **Changes To This Privacy Policy**
+
+**www.youthheaven.com**  has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+## **Your Acceptance Of These Terms**
+
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Any Queries than please contact us by filling the following form-**
+
+The following two tabs change content below.
+
+  * Bio
+  * Latest Posts
+
+
+
+Hi,I am Namit Owner of this Website and Civil engineering student. I am just madly love with blogging and my websites.
