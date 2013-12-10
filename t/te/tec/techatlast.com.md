@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the techatlast.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222225829id_/http%3A//www.techatlast.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techatlast.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210102110id_/http%3A//techatlast.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Technology Blog
+# TechAtLast Privacy Policy for Content Readers & Advertisers | TechAtLast - Talking Technology!
 
 If you require any more information or have any questions about our **privacy policy** , please feel free to contact us by email at coolcash4live @ gmail.com.
 
 At www.techatlast.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.techatlast.com and how it is used.
 
-## **Log Files**
+### **Log Files**
 
 ****Like many other Web sites, www.techatlast.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-## **Cookies and Web Beacons**
+### **Cookies and Web Beacons**
 
 ****www.techatlast.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-## **DoubleClick DART Cookie**
+### **DoubleClick DART Cookie**
 
 ****.:: Google, as a third party vendor, uses cookies to serve ads on www.techatlast.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.techatlast.com and other sites on the Internet.  
@@ -34,10 +34,13 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your personal browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-## **Online Payment & Refund Policy**
+### **Online Payment & Refund Policy**
 
-On this technology blog, we make use of [Alertpay](https://www.alertpay.com/?Gjbke8Rickr%2bxv6W7TIPiw%3d%3d "AlertPay") to collect and get donations or payment for some of our services which includes [advertisements](http://www.techatlast.com/advertise "Advertise Here") and [paid reviews](http://www.techatlast.com/reviews "Reviews"). And if you come across any suspicious link on this blog, do [contact us](http://www.techatlast.com/contact "Contact") before taking next step. We accept payment from advertisers and readers who are willing to give to the course of continued functionality of this blog. But, _we do not offer refund_ of any payment made. That is why you it is a must for the payee to think twice before making payment or ordering our advertisement packages.
+On this technology blog, we make use of Alertpay and [the other service mentioned here](http://techatlast.com/pay/) for collection of donations or payment for some of our services which includes advertisements and paid reviews. And if you come across any suspicious link on this blog, do contact us before taking next step. We accept payment from advertisers and readers who are willing to give to the course of continued functionality of this blog. But, _we do not offer refund_ of any payment made. That is why you it is a must for the payee to think twice before making payment or ordering our advertisement packages.
 
 We make use of some security plugins to make sure that our payment page is intact and secure every time. And since you all know that our payment processor, AlertPay offer the best payment processing feature, you are very secured doing business with us.
 
 Olawale Daniel ( _Founder_ )
+
+  
+
