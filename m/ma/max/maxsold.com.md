@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maxsold.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610172443id_/http%3A//www.maxsold.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxsold.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210061735id_/http%3A//www.maxsold.com/privacy.php) for the most accurate reproduction.*
 
-# Estate Sales, Downsizing and Liqudiations | MaxSold 1-888-672-3677
+# Estate Sales, Downsizing and Liquidations | MaxSold 1-888-672-3677
 
 MaxSold respects the privacy of its Internet users.
 
