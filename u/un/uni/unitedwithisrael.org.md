@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the unitedwithisrael.org privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612073347id_/http%3A//unitedwithisrael.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedwithisrael.org privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210020835id_/http%3A//unitedwithisrael.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | United with Israel
 
-**What information do we collect?**
+**Privacy Policy and Legal Information**
 
-We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
+We collect information from you ONLY if and when you register on our site, subscribe to our newsletter or fill out a web form.
 
-When registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+When registering on our site, as appropriate, you may be asked to enter your: name and/or e-mail address. You may, however, visit our site anonymously without providing personal information.
 
 Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
 
-We use third-party advertising companies (such as Google) to serve ads when you visit our website. These companies may use non-personal information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+We use third-party advertising companies (such as Google) to serve ads when you visit our website. These companies may use non-personal information (excluding your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 * Google, as a third party vendor, uses cookies to serve ads on your site.  
 * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
@@ -24,18 +24,16 @@ Any of the information we collect from you may be used in one of the following w
 (your information helps us to better respond to your individual needs)
 
 • To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+(we continually strive to improve our website based on the information and feedback we receive from you)
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-
-• To administer a contest, promotion, survey or other site feature
+• To improve our service to you  
+(your information helps us to more effectively respond to your requests and needs)
 
 • To send periodic emails
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+The email address you provide will be used to send you information that is relevant to your interests.
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+If you decide to opt-in to our mailing list, you will receive emails that may include Israel-related news, updates and related charity or service information
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -63,6 +61,19 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 By using our site, you consent to our websites privacy policy.
 
-**Changes to our Privacy Policy**
+**Changes to our Privacy Policy and Legal Disclosures**
 
-If we decide to change our privacy policy, we will post those changes on this page.
+All changes to our privacy policy and legal disclosures will be posted on this web page.
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Funitedwithisrael.org%2Fprivacy-policy%2F&media=&description=Privacy%20Policy) |   
+---|---  
+  
+[](https://addthis.com/bookmark.php?v=300)
+
+[](https://unitedwithisrael.net/soldiers/)
+
+|   | 
+
+[](https://unitedwithisrael.org/donate)  
+  
+---|---|---
