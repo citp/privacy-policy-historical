@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thatshow.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505003632id_/http%3A//www.thatshow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatshow.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210054321id_/http%3A//www.thatshow.com/privacy) for the most accurate reproduction.*
 
-# ThatsHow.com How To Videos DIY Tutorials Video Tips Solutions Education Thats How!
+# ThatsHow.com How To Videos DIY Tutorials, home improvement, gardening, arts and crafts, automotive, electronics Video Tips Solutions Education Thats How!
 
 ThatsHow.com is a Rated G website. All Content is reviewed daily. All Inappropriate material/content will be DELETED immediately. Please help thatshow keep it clean.   
 Thank You  
@@ -43,6 +43,6 @@ ThatsHow.com@gmail.com **
 
 **
 
-Copyright (c) 2006-2009 ThatsHow.com How To Videos DIY Tutorials Video Tips Solutions Education Thats How!. All rights reserved. 
+Copyright (c) 2006-2009 ThatsHow.com How To Videos DIY Tutorials, home improvement, gardening, arts and crafts, automotive, electronics Video Tips Solutions Education Thats How!. All rights reserved. 
 
 **
