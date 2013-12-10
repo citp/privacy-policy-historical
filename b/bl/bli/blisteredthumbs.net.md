@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blisteredthumbs.net privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610173151id_/http%3A//www.blisteredthumbs.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blisteredthumbs.net privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210061258id_/http%3A//www.blisteredthumbs.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blistered Thumbs
+# Privacy Policy
 
 **This is the web site of Blistered Thumbs.net, a subsidiary and Network site of Channel Awesome.**
 
