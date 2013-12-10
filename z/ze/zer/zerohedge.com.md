@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the zerohedge.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507091143id_/http%3A//www.zerohedge.com/node/12342) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerohedge.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210202037id_/http%3A//www.zerohedge.com/node/12342) for the most accurate reproduction.*
 
 # The Zero Hedge Privacy Policy | Zero Hedge
-
-Submitted by [Zero Hedge](https://web.archive.org/users/zero) on 07/06/2009 01:09 -0400
 
 Some points about your privacy:
 
@@ -29,10 +27,3 @@ Some points about your privacy:
   * Zero Hedge uses third party providers for advertising, including Google. Google may use cookies to track website traffic. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our site, and/or other sites on the internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
 
-
-  
-
-
-[](http://rss-feeds.zerohedge.com/comments/12342/rss.xml)
-
-### Similar Articles You Might Enjoy:
