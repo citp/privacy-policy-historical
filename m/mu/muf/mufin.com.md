@@ -1,63 +1,37 @@
-> *The following text is extracted and transformed from the mufin.com privacy policy that was archived on 2013-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130202142638id_/http%3A//www.mufin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mufin.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210183915id_/http%3A//www.mufin.com/privacy) for the most accurate reproduction.*
 
-# mufin - Privacy Policy
+# Privacy - mufin GmbH
 
-We appreciate your trust in us and always use the greatest possible care to protect your personal data from unauthorized access using the highest safety standards possible. In the following data protection terms and conditions we would like to explain how we handle your personal data and protect your privacy. The following data protection terms and conditions are valid for use of the mufin website, including all of its subpages (thereinafter named "mufin website") The mufin website is operated by the mufin GmbH, Friedrichstr. 200, 10117 Berlin (thereinafter "mufin" or "we").
+At mufin we take your privacy very seriously. As such, we want to provide you with detailed information on how we collect, gather, and identify information during your visit to our site. This information may be expanded or be updated as we change or develop our site. For this reason, we recommend that you review this policy from time-to-time to see if anything has changed. 
 
-### I. General
+What information do we collect and do we use it?  
+mufin collects information on our users in three ways: by voluntary submission through opt-in email and/or surveys and registrations; sweepstakes and/or contest entries; and through the use of cookies.  
+The information mufin collects is used in a variety of ways: for internal review; to improve the content of the site, thus making your user experience more valuable; and to notify customers about updates to the service and products. In connection with the use of our newsletter, we are collecting data on whether you have opened it, which information you use from it, and which information you do not find interesting. This will enable us to fine-tune our future offers according to your wishes. From time to time we may share this information with other reputable organizations for marketing purposes or the information is used by mufin to contact consumers for its own marketing endeavours. As a valued consumer, we offer you the opportunity to "opt in", or agree, to accept these marketing opportunities. If at any time you change your mind and do not want mufin to share your email address or home address with other companies and/or organizations, or would simply like to be removed from the list, please let us know by emailing us at: info@mufin.com. 
 
-You can use the freely accessible pages of the mufin website at any time without registration. On the other hand, use of services offered on the mufin website that include the option of opening password-protected personalized information ("Services") requires registration. More information can be found in our General Terms & Conditions
+Opt-in Email  
+mufin provides for its users an "optional" email service that allows the user to request-through personal email-specific mufin information. At times we may request additional information for the purpose of improving this service or for facilitating the user's online experience. A user may request to be removed (or "opt-out") from this "opt-in" email at anytime by contacting us at: info@mufin.com. 
 
-### II. Data collection
+Sweepstakes/Contests  
+From time-to-time mufin, along with other reputable companies, may provide sweepstakes or other contests for the enjoyment of our users. By participating in the contest or sweepstakes and answering any and all questions, the user understands that mufin and/or the involved company(s) may use information obtained for marketing purposes. Children under 18 may not participate in any sweepstakes or contest on mufin. 
 
-During your visit of the mufin website, we will collect certain technical information like the IP address of your computer, browser type as well as the time period of your mufin web page access. This data collection takes place with the goal of optimizing our offerings. The data collected in this fashion have no personal relation to you.
+Cookies  
+mufin may automatically collect non-personal information and data through the use of "cookies." Cookies are small text files a Web site uses to recognize repeat users, facilitate the user's ongoing access to the site and facilitate the use of the site. "Cookies" also allow a site to track usage behaviour and compile site usage information that will allow for the improvement of content and target advertising. 
 
-Use of personalized services requires you to register first. During registration we collect your user name, a valid email address, a password selected by you, your age and possibly other voluntary information (for example, favorite songs). In addition, we secure your playlist data, create sound profiles and offer user profile pages.
+Google Analytics  
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. In case of activation of the IP anonymization, Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. On behalf of the website provider Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage to the website provider. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this website. Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under [_this link_](https://tools.google.com/dlpage/gaoptout?hl=en-GB).   
+Further information concerning the terms and conditions of use and data privacy can be found at [_Google Terms_](http://www.google.com/analytics/terms/gb.html) or at [_Google Privacy Overview_](http://www.google.com/intl/en_uk/analytics/privacyoverview.html). Please note that on this website, Google Analytics code is supplemented by “gat._anonymizeIp();” to ensure an anonymized collection of IP addresses (so called IP-masking). 
 
-### III. Use and transfer of data
+About children's privacy  
+mufin is committed to the safety of our children. Children under 18 may not participate in any sweepstakes or contests on mufin. Also, we encourage children under the age of 18 to ask a parent for permission before providing or sending any information to anyone online. 
 
-We handle the collected data with strict confidentiality and use it exclusively to provide services as well as in specific cases when the purpose of collection is explicitly stated. Of course, we will collect and process the data exclusively within the extent of legal provisions, especially the Federal Data Protection Act.
+Your consent  
+By using our Web site, you consent to the collection and use of this information by mufin. Once again, if you do not wish us to share this information with other reputable companies that we think you might be interested in, please let us know by emailing us at: info@mufin.com. 
 
-We will not pass your personal data to a third party unless this is necessary for the provision of services, you have agreed to the transfer or another reason exists that authorizes us to transfer it within the corresponding provisions. We will record your agreement to data collection, securement and transfer. At your request, we can share when and how you have given your agreement.
+Returns/refunds  
+You may not send a product back without the authorization from mufin. mufin does not accept opened products unless authorized by mufin. mufin will not refund the shipping costs on Orders already shipped and refused by the customer. mufin will also charge a 15% restocking fee for such orders. mufin is not obligated to return unauthorized packages. Storage fee may apply. To receive a full credit on a cancelled order (minus the shipping costs), the order must be cancelled before it has been shipped. 
 
-### IV. Cookies and web analysis
+Content  
+All rights reserved. The information on these web pages is provided by mufin and the owner of the products listed. mufin makes no representations or warranties regarding the accuracy of this information, nor the performance of the product or solution. Prices in the shopping area are subject of change. Please check the detailed summary before submitting the final order. 
 
-mufin places cookies when its website is loaded in order to avoid requesting information during navigation of our website anew. Cookies are small files that are saved on the hard drive of your PC. Access to these files is only effected in unpersonalized form and only occurs when our website is opened. Other websites cannot access this information. The validity of cookies is limited, i.e. they are not stored permanently on your PC but rather for a specific period of time.
-
-This website uses Google Analytics, a web analysis service of Google Inc. ("Google"). Google Analytics uses so-called "Cookies", or text files which are saved on your computer to enable an analysis of your use of the web page. The information created by the cookie about your use of the web page (including your IP address) is transferred to the Google server in the USA and saved there. Google will use this information to evaluate your use of the website in order to create reports about website activity for the website operator and to provide services connected to website and Internet usage. Google can also give this information to third parties if it is required by law or if the third party is a Google proxy. Google will never connect your IP address with other Google data. You can prevent cookie installation by changing the corresponding setting in your browser software; however, we must point out that this might prevent all functions of the website from working properly. By using this website you declare your agreement with the processing of data received from you by Google in the manner and with the intentions described above.
-
-You can prevent the installation of cookies anytime by selecting the option "Do not accept cookies" in your browser. If you delete cookies or set your browser to not accept cookies, this can impair the function of the mufin website.
-
-### V. Log files and click paths
-
-With the loading of each page, access data will be saved in a log file, or a server log. In addition, a track of the pages that were viewed by the user will be recorded (the so-called click paths). mufin evaluates these files to optimize the mufin website and its services and in order to present registered users personalized advertisement and/or special offers and services from our company and cooperating partners.
-
-### VI. Right to access personal data
-
-At your request we will gladly inform you whether we have personal user data for your person and what they are.
-
-### VII. Agreement
-
-In registering for our services we ask your agreement to the following handling of your personal user data. With this agreement, you consent that we can use the information we have collected from you
-
-  1. to inform you concerning information about our services (for example, in case of changes of the Terms and Conditions) per email or using a website posting;
-  2. to continue offering you the mufin service free of charge. For this reason, our service is partially financed using advertising and can contain general, as well as personalized to your interests recommendations, advertisements and other offers from us and our cooperation partners. No transfer of your data to third parties takes place;
-  3. to optimize the services of the mufin website to your demands, for example through the use of cookies;
-  4. to share aggregated data, which can no longer be connected to individual persons (for example, percent distribution of all users on certain tracks) with third parties.
-
-
-
-To allow us to be financed using advertising, hereby you consent that when you click on a link, we will share with our cooperating partner that you have loaded their website using a link on the mufin website, as well as the type of mufin services (for example the number of tracks, but not which tracks) that you use.
-
-In this way, mufin does not share email address, user name, other contact information or passwords to third parties.
-
-### VIII. Retraction of consent
-
-You can always retract your consent to collection, securement and use of your personal user data by us effective in the future. When necessary, send an email to [privacy@mufin.com](mailto:privacy@mufin.com).
-
-Please understand that in case of a retraction of consent, it may be that case that it will no longer be possible to provide services for which you have registered yourself.
-
-### IX. Contact
-
-Please address all requests and questions on the topic of handling of your data:  
-[privacy@mufin.com](mailto:privacy@mufin.com)
+Questions?  
+We welcome your questions and/or comments. Please send all queries to: info@mufin.com. 
