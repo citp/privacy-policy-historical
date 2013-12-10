@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604045845id_/https%3A//corporate.bclc.com/customer-support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210041245id_/https%3A//corporate.bclc.com/customer-support/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement | Customer Support | BCLC
+# Privacy Statement
 
 British Columbia Lottery Corporation ("BCLC") takes your right to privacy seriously. You have a right to know what we do with your personal information so that you can make informed choices while on bclc.com.
 
-We aim to be a privacy leader within the gambling industry and so we have created a [Privacy Charter](https://web.archive.org/web/20130604045845id_/https%3A//corporate.bclc.com/who-we-are/player-privacy.html) to explain, in straightforward terms, what we do and what we don't do with your personal information.
+We aim to be a privacy leader within the gambling industry and so we have created a [Privacy Charter](https://web.archive.org/who-we-are/player-privacy.html) to explain, in straightforward terms, what we do and what we don't do with your personal information.
 
 BCLC is subject to B.C.'s _Freedom of Information and Protection of Privacy Act_ ("FIPPA"). FIPPA directs how BCLC can use your personal information. BCLC's commitment to privacy is based upon three pillars — fairness, accountability and accessibility. These three pillars are designed to help BCLC meet its obligations under FIPPA. Read more in the Privacy Charter.
 
@@ -34,13 +34,13 @@ We may also disclose your personal information:
 
   * as required by law, such as to comply with a subpoena or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * to any other third party with your prior consent to do so. 
+  * to any other third party with your prior consent to do so.
 
 
 
-### Agents/Service Providers 
+### Agents/Service Providers
 
-We use other third parties, such as an email service provider to send emails on our behalf and a credit card processing company to bill you for services. We will share your name, email address, and financial information as necessary for the third party to provide that service. 
+We use other third parties, such as an email service provider to send emails on our behalf and a credit card processing company to bill you for services. We will share your name, email address, and financial information as necessary for the third party to provide that service.
 
 ### Choice/Opt-out
 
@@ -48,7 +48,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
   * following the "unsubscribe" link included in each newsletter or communication
   * calling Customer Support at 1-866-815-0222
-  * emailing us
+  * [emailing us](https://web.archive.org/customer-support/contact-us/contact-customer-support-email.html)
 
 
 
@@ -69,13 +69,13 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser whereas a persistent cookie remains on your hard drive for an extended period of time. We utilize cookies to help manage player logins, to protect against security issues and to remember player preferences. We do not set a persistent cookie to store your passwords, as we do not want anyone to be able to access your account other than you.  
 
 
-Our site regularly uses Google Website Optimizer (GWO) to perform variation testing. GWO cookies are placed within site pages to determine page effectiveness in conversion. The results from this testing are used to create an improved product experience for our players. GWO does not collect personal information, only information related to the session. In the event that personal information is collected, Google requests your consent before sharing it. Further details can be found in the [Google Privacy Policy](http://www.google.com/intl/en/policies/privacy/). 
+Our site regularly uses Google Website Optimizer (GWO) to perform variation testing. GWO cookies are placed within site pages to determine page effectiveness in conversion. The results from this testing are used to create an improved product experience for our players. GWO does not collect personal information, only information related to the session. In the event that personal information is collected, Google requests your consent before sharing it. Further details can be found in the [Google Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
 
 ### Clear Gifs (Web Beacons/Web Bugs)
 
 We use a third-party tracking utility company to employ a software technology called clear gifs (a.k.a. web beacons, web bugs, tracking tags), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personal information.
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out." 
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out."
 
 ### Links to Other Sites
 
@@ -109,7 +109,7 @@ If you would like more information about our privacy practices or believe that w
 
 If, at any time, you think we have not acted in accordance with our Charter or our Privacy Statement, you may request a formal review of your case by contacting:
 
-Mailing Address:   
+Mailing Address:  
 Information and Privacy Administrator  
 BCLC  
 74 West Seymour Street  
@@ -117,7 +117,7 @@ Kamloops, BC V2C 1E2
 
 Telephone: (250) 852-5383
 
-E-mail:[ privacy@bclc.com](mailto:%20privacy@bclc.com)
+E-mail: [privacy@bclc.com](mailto:privacy@bclc.com)
 
 If, at any time, you are not satisfied with how BCLC is dealing with your case, you can contact the Office of the Information and Privacy Commissioner of British Columbia at:
 
