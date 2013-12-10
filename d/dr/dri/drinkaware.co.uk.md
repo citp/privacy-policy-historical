@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drinkaware.co.uk privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609230038id_/http%3A//www.drinkaware.co.uk/info-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drinkaware.co.uk privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210061049id_/http%3A//www.drinkaware.co.uk/info-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,4 +74,4 @@ You may request access to all your personal information that we collect online a
 
 We maintain the highest standards of security, however the transmission of information via the internet is not completely secure. So, whilst we will do our best to protect your Information, we cannot ensure the security of your data during transit to our Website. Any information you submit is sent at your own risk. Once we have received your Information we will use strict procedures and security features to prevent unauthorised access.
 
-Page updated: February 2013
+Page updated: October 2013
