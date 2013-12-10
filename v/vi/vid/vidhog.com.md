@@ -1,100 +1,81 @@
-> *The following text is extracted and transformed from the vidhog.com privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517195829id_/http%3A//www.vidhog.com/privacypolicies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidhog.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210060856id_/http%3A//www.vidhog.com/privacy.html) for the most accurate reproduction.*
 
-# VidHog - Privacy Policy
+# VidHog - Free DivX and HD Video Hosting
 
-**VidHog Privacy Policy**
+This privacy policy is for this website [www.vidhog.com] and governs the privacy of its users who choose to use it.
 
-**VidHog, Inc.** ("VidHog") recognizes that its customers, visitors, users, and others who use the web site [www.vidhog.com](http://www.vidhog.com/) (“the Site”) (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Site. VidHog provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Site.  
-This Privacy Notice is incorporated into and is subject to the [VidHog Terms of Use](http://youtube.com/t/terms). Your use of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Notice and our [Terms of Use](http://youtube.com/t/terms).  
-Please note that any image or other content posted at the direction of Users onto the Site becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
-
-## The Information VidHog Collects
-
-  * **User Provided Information:** You provide certain personally identifiable information (such as your name and email address) to VidHog when choosing to participate in various activities on the Site such as receiving credit for sharing videos, posting messages in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
-
-
-  * **Cookies Information:** When you visit the Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. VidHog uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Site may not function properly if the ability to accept cookies is disabled.
-
-
-  * **Log File Information:** When you use the Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
-
-
-  * **Clear GIFs Information:** When you use the Site, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.  Information gathered in this fashion will not monitor Users at online locations other than the Site.
-
-
-
-## The Way VidHog Uses Information
-
-  * If you submit personally identifiable information to us through the Site, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Site.
-
-
-  * Any personal information you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you send messages through the Site and other Users can contact you through messages and comments. 
-
-
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major VidHog Site changes or for customer service purposes).
-
-
-  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
-
-
-  * We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
-
-
-
-## When VidHog Discloses Information
-
-  * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
-
-
-  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
-
-
-  * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Site.
-
-
-  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws or respond to a court order, subpoena, or search warrant.
-
-
-  * VidHog also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that VidHog believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](http://youtube.com/t/terms), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of VidHog, our Users or others.
-
-
-
-## Your Choices
-
-You may, of course, decline to submit personally identifiable information through the Site, in which case VidHog may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your [account profile page](http://youtube.com/my_profile_email).   
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.  
-Please contact VidHog with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this [contact form](http://youtube.com/contact).
-
-## Third-party Advertisers, Links to Other Sites
-
-VidHog allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.  
-VidHog does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks VidHog to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Site, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.  VidHog's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-
-## Our Commitment To Data Security
-
-VidHog uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to VidHog and you do so at your own risk. Once we receive your transmission of information, VidHog makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.  
-If VidHog learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. VidHog may post a notice on the Site if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this [contact form](http://youtube.com/contact).
-
-## Our Commitment To Childrens' Privacy
-
-Protecting the privacy of young children is especially important. For that reason, VidHog does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Site from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Site at any time or in any manner. If VidHog learns that personally identifiable information of persons under 13 years of age has been collected on the Site without verified parental consent, then VidHog will take the appropriate steps to delete this information.
-
-## Special Note to International Users
-
-The Site is hosted in the United States and is intended for and directed to Users in the United States. If you are a User accessing the Site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Site, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](http://youtube.com/t/terms), you are transferring your personal information to the United States and you consent to that transfer.
-
-## In the Event of Merger, Sale, or Bankruptcy
-
-In the event that VidHog is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
-
-## Changes and updates to this Privacy Notice
-
-This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the Site constitutes your agreement to this Privacy Notice and any future revisions.  
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.  
-**Date Last Modified:**  
-This Privacy Notice was last modified October 20, 2006.  
-**Contact Information:**  
-Please contact VidHog with any questions or comments about this Privacy Notice using this [contact form](https://web.archive.org/web/20080517195829id_/http%3A//www.vidhog.com/contact.php).
+The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
   
 
+
+### The Website
+
+This website and it's owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website comply's to all UK national laws and requirements for user privacy.
+
+  
+
+
+### Use of Cookies
+
+This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for website's to obtain explicit consent from users before leaving behind or reading files such as cookies on a users computer / device.
+
+Cookies are small files saved to the users computers hard drive that track, save and store information about the users interactions and usage of the website. This allows the website, through it's server to provide the users with a tailored experience within this website. Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and it's external serving vendors.
+
+This website uses tracking software to monitor it's visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You can read Google's privacy policy here for further information [ http://www.google.com/privacy.html ]. Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
+
+  
+
+
+### Contact & Communication
+
+Users contacting this website and/or it's owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk. This website and it's owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
+
+  
+
+
+### Email Newsletter
+
+This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.
+
+Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website's email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.
+
+Email marketing campaigns published by this website or it's owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list]. This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
+
+In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
+
+  
+
+
+### External Links
+
+Although this website only looks to include quality, safe and relevant external links users should always adopt a policy of caution before clicking any external web links mentioned throughout this website.
+
+The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and it's owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+
+  
+
+
+### Adverts and Sponsored Links
+
+This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.
+
+Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will tracks the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and it's owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+
+  
+
+
+### Social Media Platforms
+
+Communication, engagement and actions taken through external social media platforms that this website and it's owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
+
+Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor it's owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
+
+This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
+
+  
+
+
+### Shortened Links in Social Media
+
+This website and it's owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy url's [web addresses] (this is an example: http://bit.ly/zyVUBo). Users are advised to take caution and good judgement before clicking any shortened url's published on social media platforms by this website and it's owners. Despite the best efforts to ensure only genuine url's are published many social media platforms are prone to spam and hacking and therefore this website and it's owners cannot be held liable for any damages or implications caused by visiting any shortened links.
