@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604060845id_/http%3A//www.threadless.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threadless.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210142720id_/http%3A//www.threadless.com/info/privacy) for the most accurate reproduction.*
 
 # T-shirts and other products designed by an artist community of 2 million | Threadless
 
@@ -14,7 +14,7 @@ Threadless.com recognizes that its customers, visitors, users, and others (known
 
 General
 
-  * Threadless.com does not require that you register in order to view its products or User comments. Registration is required to use certain interactive features such as posting comments, participating in the blog forums, and in order to submit ideas and participate in competitions.
+  * Threadless.com does not require that you register in order to view its products or User comments. Registration is required to use certain interactive features such as posting comments, following, receiving email notifications, receiving website notifications, participating in the blog forums, and in order to submit ideas and participate in competitions.
   * Threadless.com collects personal information when you register with Threadless.com, when you visit the Website, when you make a purchase, or any time you provide information to Threadless.com about yourself. Threadless.com may combine information about you that we have with information we obtain from business partners or other companies.
   * Threadless.com automatically receives and records other non-personally-identifying information ("Non-Personal Information") on our server logs from your browser even if you do not register with Threadless.com, for example, your IP address, Threadless.com cookie information, and the pages you visit.
   * Threadless.com uses Non-Personal Information for the following general purposes: to customize the advertising and content you see, improve our services, conduct research, and provide anonymous reporting for internal and external clients.
@@ -38,14 +38,14 @@ Orders
 
 Newsletter
 
-  * If you opt in to our newsletter, register a user account, or make a purchase, we may contact you by email. We may receive a confirmation when you open an email. Threadless uses this confirmation to help make emails more interesting and helpful and improve our service. If you do not want to receive email or other mail from us, please indicate your preference by using the "Unsubscribe" feature in any email we send to you.
+  * If you opt in to our newsletter, register a user account, or make a purchase, we may contact you by email. We may receive a confirmation when you open an email. Threadless uses this confirmation to help make emails more interesting and helpful and improve our service. If you do not want to receive email or other mail from us, please indicate your preference by using the "Unsubscribe" feature in any email we send to you or by adjusting your notification settings at http://www.threadless.com/profile/settings/notifications.
 
 
 
 Choice/Opt-out
 
-  * We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product or service from us but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
-  * If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at info@threadless.com.
+  * We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product or service from us but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form or from your account settings page (http://www.threadless.com/profile/settings).
+  * If you no longer wish to receive our newsletter, email notifications or promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter, email notification or communication or by emailing us at info@threadless.com.
   * You will be notified when your personally identifiable information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
   * If you choose to use our email referral service to tell a friend about our site and products, we will ask only for your friend’s email address. We will automatically send your friend a one-time email inviting them to visit the Website. SkinnyCorp, LLC stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at info@threadless.com to request that we remove this information from our database.
 
@@ -113,19 +113,11 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-### 8\. TRUSTe Disclosure
+### 8\. Effective Date
 
-SkinnyCorp, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build userâ€™s trust and confidence in the Internet by prompting the use of fair information practices. This privacy statement covers the Website www.threadless.com. Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have any questions or concerns regarding this statement, you should first contact the Website Manager at [privacypolicy@threadless.com](mailto:privacypolicy@threadless.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url).
+This Privacy Policy was last modified November 13, 2013.
 
-TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-SkinnyCorp, LLC complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union
-
-### 9\. Effective Date
-
-This Privacy Policy was last modified July 23, 2010.
-
-### 10\. Contact Information
+### 9\. Contact Information
 
 If you have any questions or comments about this Privacy Policy, you can contact us at:
 
