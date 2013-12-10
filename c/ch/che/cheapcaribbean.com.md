@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the cheapcaribbean.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209203505id_/http%3A//www.cheapcaribbean.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapcaribbean.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210233457id_/http%3A//www.cheapcaribbean.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Cheap Caribbean | CheapCaribbean.com Privacy Policy
 
----  
-  
 **Effective September 29, 2010**
 
 Thank you for visiting CheapCaribbean.com! We are concerned about and respect your privacy while visiting our web site. We want you to know CheapCaribbean.com will never sell, lease or rent your confidential information to ensure your privacy is protected. We will always endeavor to take steps to assure that any information you provide to us will remain private and secure. Please take a moment to read over our privacy policy and let us know if you have any questions or comments. 
