@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qualitystockphotos.com privacy policy that was archived on 2013-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611190058id_/http%3A//www.qualitystockphotos.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qualitystockphotos.com privacy policy that was archived on 2013-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210221319id_/http%3A//www.qualitystockphotos.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,8 +7,8 @@
 <meta name="description" content="Privacy Policy.">
 		<link id="base" href="http://cdn2.qualitystockphotos.com/qsp/skin/en_US/photo_base_d_h.css" rel="stylesheet" type="text/css">
 
-		<link rel="shortcut icon" href="/icon/favorite.ico">
-		<script src="http://cdn2.qualitystockphotos.com/qsp/skin/en_US/js/jquery.js" type="text/javascript"></script>
+		<link rel="shortcut icon" href="/favorite.ico">
+		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=576838045693431"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://cdn2.qualitystockphotos.com/qsp/skin/en_US/js/jquery.js" type="text/javascript"></script>
 		<script src="http://cdn2.qualitystockphotos.com/qsp/skin/en_US/js/jquery.custom_radio_checkbox.js" type="text/javascript"></script>
 		<script src="http://cdn2.qualitystockphotos.com/qsp/js/jquery/jquery-ui-1.8.13.custom.min.js" type="text/javascript"></script>
 		<script src="http://cdn2.qualitystockphotos.com/qsp/js/webtoolkit.md5.js" type="text/javascript"></script>
@@ -23,7 +23,19 @@
 		<script type="text/javascript">
 				var skin = 'en_US';
 		</script>
+<script type="text/javascript"> 
 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount', 'UA-34370494-1']); 
+_gaq.push(['_trackPageview']); 
+
+(function() { 
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+})(); 
+
+</script>
   </head>
 <body>
 
@@ -40,6 +52,30 @@
                         	<a class="fl logo" href="/" style="width:150px;"></a>
                         </div>
                     </div> 
+                   <div class="fl" style="margin:15px;left:1%;display:block;padding:6px;background-color:rgb(80,80,80);-webkit-border-radius:3px;-moz-border-radius:3px; border-radius:3px;">
+	                     <form method="get" action="/search/index/">
+                          <div class="fl" id="keyword-wrapper" style="width:400px;height:25px;background-color:#FFFFFF;border:1px solid #CCCCCC;-webkit-border-radius:3px;-moz-border-radius:3px; border-radius:3px;">
+                              <input class="fl con_bl_t_l_inp" id="keyword" type="text" name="k" value="" style="width:386px;height:19px;z-index:1000;padding:3px 7px 5px 7px;display:block">
+                          </div>
+                          <div class="search-filter" style="right:100px;margin-top:7px;max-width:250px;"><a class="search-filter-choice"><strong id="global_search_filter_choice">
+                          	                          	                          	                          	                          	                          	All Files</strong></a>
+                            	<p class="search-filter-list auto-check-files-types" style="z-index:1001;display:none;">
+                            																		<label style="text-align:left;">
+																<input type="checkbox" id="image_type" name="image_type" class="types_filter" value="1" checked="checked">
+																PHOTOS																</label>
+																<label style="text-align:left;">
+																<input type="checkbox" id="vector_type" name="vector_type" class="types_filter" value="1" checked="checked">
+																 CLIPART																</label>
+																<label style="text-align:left;">
+																 <input type="checkbox" id="video_type" name="video_type" class="types_filter" value="1" checked="checked">
+																VIDEO																</label>
+																																																</p>
+													</div>
+                          <div class="fl" style="margin-top: 2px; margin-left:2px;">
+                              <input class="fl submit_t" style="font-size:13px;font-weight:bold;font-family:Arial;color:white;padding-bottom:3px;background-color:#B1137B;border-color: #909090;border-radius: 5px;margin-top:-5px;width:94px;height:33px" type="submit" value="Search">
+                          </div>
+	                     </form>
+                    </div>
                     <div class="fr hed_bl_r">
                     	<div class="fr lang_bl">
                             <div class="fl lang_bl_in">
@@ -89,7 +125,10 @@
                             </div>
                             
                                <div class="fl reg_bl_r">
-                            	<a class="fl log_in_batton_act" href="#">LOG IN</a>
+                            	
+								
+								<a class="fl log_in_batton_act" href="/signin">LOG IN</a>
+								
                             </div>
                             <div class="fl reg_top_batton_bl">
                             	<a class="fl reg_top_batton_act" href="#">REGISTER</a>
@@ -179,22 +218,21 @@
 		  }else {
 		      var sorta = "match" ;
 		  };
-		  var vector= $("input[name='vector_type']:checked").val();
-		  var img= $("input[name='image_type']:checked").val();
-		  var video =  $("input[name='video_type']:checked").val();
-
+		  var vector= $("#vector_type").is(":checked");
+		  var img= $("#image_type").is(":checked");
+		  var video =  $("#video_type").is(":checked");
 		    var content ='';
-		    if(img == '1'){
+		    if(img){
 		       content = 'image';
 		    }
-		    if(vector == '1'){
+		    if(vector){
 		       if(content=='') {
 		          content = 'vector';
 		       }else{
 		          content += '-vector';
 		       }
 		    }
-		    if(video == '1'){
+		    if(video){
 		       if(content=='') {
 		          content = 'video';
 		       }else{
@@ -206,22 +244,22 @@
 		    if ($('#isolated').is(":checked")){
 		        other = "isolated" ;
 		    }
-		    if ($('#business').attr("checked")){
+		    if ($('#business').is(":checked")){
 		        other = other +"-"+"business";
 		    }
-		    if ($('#property').attr("checked")){
+		    if ($('#property').is(":checked")){
 		        other = other +"-"+"property";
 		    }
-		    if ($('#model').attr("checked")){
+		    if ($('#model').is(":checked")){
 		        other = other +"-"+"model";
 		    }
-		    if ($('#illustartion').attr("checked")){
+		    if ($('#illustartion').is(":checked")){
 		        other = other +"-"+"illustartion";
 		    }
-		    if ($('#creative').attr("checked")){
+		    if ($('#creative').is(":checked")){
 		        other = other +"-"+"creative";
 		    }
-		    if ($('#free_content').attr("checked")){
+		    if ($('#free_content').is(":checked")){
 		        other = other +"-"+"free";
 		    }
 		    if(other.substring(0,1)=='-'){
@@ -257,6 +295,383 @@
 	});
 
 </script>
+
+<style>
+html div#ki_container, html div#ki_container * {
+	background:none;
+	border:0;
+	border-radius:0;
+	-webkit-border-radius:0;
+	-moz-border-radius:0;
+	float:none;
+	font:normal 100%/normal helvetica, arial, sans-serif;
+	-webkit-font-smoothing:antialiased;
+	height:auto;
+	letter-spacing:normal;
+	margin:0;
+	outline:none;
+	position:static;
+	padding:0;
+	text-decoration:none;
+	text-indent:0;
+	text-shadow:none;
+	text-transform:none;
+	width:auto;
+	visibility:visible;
+	overflow:visible
+}
+html div#ki_container {
+	background:none;
+	border:0;
+	border-radius:0;
+	-webkit-border-radius:0;
+	-moz-border-radius:0;
+	bottom:-99999px;
+	height:auto;
+	margin:0;
+	padding:0;
+	position:fixed;
+	right:30px;
+	width:287px;
+	z-index:99999
+}
+html div#ki_container.ki_fullpage {
+	position:static;
+	width:auto
+}
+html div#ki_container.ki_left {
+	left:30px
+}
+html div#ki_container.ki_center {
+	left:auto;
+	right:auto;
+	left:50%;
+	margin-left:-143px
+}
+#ki_container #ki_tab {
+	display:block;
+	height:23px;
+	position:absolute;
+	top:-23px;
+	right:0;
+	z-index:900;
+	text-decoration:none;
+	text-align:center;
+	color:#ebebeb;
+	font-size:19px;
+	font-weight:bold;
+	background:#4e4e4c;
+	border:solid 2px rgba(255, 255, 255, 0.2);
+	border-bottom:none;
+	-webkit-box-shadow:0px -2px 2px rgba(0, 0, 0, 0.20);
+	-moz-box-shadow:0px -2px 2px rgba(0, 0, 0, 0.20);
+	box-shadow:0px -2px 2px rgba(0, 0, 0, 0.20);
+	-webkit-border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topleft:6px;
+	-moz-border-radius-topright:6px;
+	border-top-left-radius:6px;
+	border-top-right-radius:6px
+}
+#ki_container #ki_tab #ki_tab_t {
+	width:28px;
+	display:block;
+	float:left
+}
+#ki_container.ki_minimized #ki_tab.ki_has_min_cta {
+	height:30px;
+	overflow:visible;
+	top:-30px
+}
+#ki_container #ki_tab #ki_tab_text {
+	display:none;
+	float:left;
+	padding:8px 0 0 10px;
+	color:#fff;
+	font-size:11px;
+	font-weight:bold
+}
+#ki_container.ki_minimized #ki_tab #ki_tab_text {
+	display:block
+}
+#ki_container #ki_main {
+	overflow:hidden;
+	padding:4px 0;
+	-webkit-box-sizing:content-box;
+	background:#4e4e4c;
+	border:solid 2px rgba(255, 255, 255, 0.2);
+	border-bottom:none;
+	-webkit-box-shadow:0px 0 2px rgba(0, 0, 0, 0.29);
+	-moz-box-shadow:0px 0 2px rgba(0, 0, 0, 0.29);
+	box-shadow:0px 0 2px rgba(0, 0, 0, 0.29);
+	-webkit-border-top-left-radius:10px;
+	-moz-border-radius-topleft:10px;
+	border-top-left-radius:10px
+}
+#ki_container.ki_fullpage #ki_main {
+	width:auto;
+	padding-top:10px;
+	padding-bottom:10px;
+	background:#232323;
+	border:none;
+	right:0;
+	-webkit-border-top-left-radius:0;
+	-moz-border-radius-topleft:0;
+	border-top-left-radius:0;
+	-webkit-box-shadow:none;
+	-moz-box-shadow:none;
+	box-shadow:none
+}
+html div#ki_cover_container {
+	margin-top:4px;
+	margin-bottom:2px;
+	width:283px;
+	height:40px;
+	text-align:center;
+	overflow:hidden
+}
+html div#ki_container hr {
+	border-collapse:collapse;
+	border-top:1px solid #1c1e1e;
+	border-bottom:1px solid #454647;
+	display:block;
+	margin:13px 0 12px
+}
+html div#ki_container.ki_fullpage hr {
+	width:auto
+}
+html div#ki_container hr.ki_silent {
+	display:none
+}
+html div#ki_questions.ki_buttonless {
+	padding-bottom:10px
+}
+html div#ki_container h1.ki_h1 {
+	color:#fff;
+	display:block;
+	font:bold 12px/17px helvetica, arial, sans-serif;
+	padding:8px 15px 5px;
+	text-align:center;
+	text-transform:none;
+	white-space:normal
+}
+html div#ki_container.ki_ltr h1.ki_h1 {
+	text-align:left
+}
+#ki_container .ki_description {
+	color:#fff;
+	display:block;
+	font:bold 12px/17px helvetica, arial, sans-serif;
+	text-align:center;
+	text-transform:none;
+	white-space:normal;
+	margin:0 15px 15px 15px
+}
+#ki_container.ki_rtl .ki_description {
+	text-align:right
+}
+#ki_container .ki_description.ki_before {
+	margin-bottom:0
+}
+#ki_container .ki_description a {
+	color:#ebebeb;
+	text-decoration:underline
+}
+#ki_container ul.ki_answers {
+	display:block;
+	list-style:none;
+	margin-bottom:2px;
+	overflow:hidden;
+	padding:0 15px
+}
+#ki_container ul.ki_answers li {
+	display:block;
+	list-style:none;
+	margin:0
+}
+#ki_container.ki_float ul.ki_answers li {
+	float:left;
+	margin-right:10px
+}
+#ki_container li.ki_answer_li label {
+	background-image: -webkit-linear-gradient(top, #c4e323 0%, #79a102 60%);
+	background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #c4e323), color-stop(60%, #79a102));
+	background-image: -webkit-linear-gradient(top, #c4e323 0%, #79a102 60%);
+	background-image: -moz-linear-gradient(top, #c4e323 0%, #79a102 60%);
+	background-image: -o-linear-gradient(top, #c4e323 0%, #79a102 60%);
+	background-image: -moz-linear-gradient(top, #c4e323 0%, #79a102 60%);
+	background-image: -o-linear-gradient(top, #c4e323 0%, #79a102 60%);
+	background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjUwJSIgeTE9IjAlIiB4Mj0iNTAlIiB5Mj0iMTAwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2M0ZTMyMyIvPjxzdG9wIG9mZnNldD0iNjAlIiBzdG9wLWNvbG9yPSIjNzlhMTAyIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g");
+	border-radius:26px;
+	-webkit-border-radius:26px;
+	-moz-border-radius:26px;
+	color:#ebebeb;
+	display:block;
+	font:normal 11px/15px helvetica, arial, sans-serif;
+   font-size: 14px;
+	margin-bottom:4px;
+	padding:10px;
+	position:relative;
+	text-align:center;
+	text-transform:none;
+	cursor:pointer
+}
+#ki_container li.ki_answer_li label:hover {
+	background:#393a3c
+}
+#ki_container.ki_rtl li.ki_answer_li label {
+	text-align:right;
+	padding-right:28px;
+	padding-left:10px
+}
+</style>
+<script>
+(function (factory) {
+	if (typeof define === 'function' && define.amd) {
+		// AMD. Register as anonymous module.
+		define(['jquery'], factory);
+	} else {
+		// Browser globals.
+		factory(jQuery);
+	}
+}(function ($) {
+
+	var pluses = /\+/g;
+
+	function decode(s) {
+		if (config.raw) {
+			return s;
+		}
+		try {
+			// If we can't decode the cookie, ignore it, it's unusable.
+			return decodeURIComponent(s.replace(pluses, ' '));
+		} catch(e) {}
+	}
+
+	function decodeAndParse(s) {
+		if (s.indexOf('"') === 0) {
+			// This is a quoted cookie as according to RFC2068, unescape...
+			s = s.slice(1, -1).replace(/\\"/g, '"').replace(/\\\\/g, '\\');
+		}
+
+		s = decode(s);
+
+		try {
+			// If we can't parse the cookie, ignore it, it's unusable.
+			return config.json ? JSON.parse(s) : s;
+		} catch(e) {}
+	}
+
+	var config = $.cookie = function (key, value, options) {
+
+		// Write
+		if (value !== undefined) {
+			options = $.extend({}, config.defaults, options);
+
+			if (typeof options.expires === 'number') {
+				var days = options.expires, t = options.expires = new Date();
+				t.setDate(t.getDate() + days);
+			}
+
+			value = config.json ? JSON.stringify(value) : String(value);
+
+			return (document.cookie = [
+				config.raw ? key : encodeURIComponent(key),
+				'=',
+				config.raw ? value : encodeURIComponent(value),
+				options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IE
+				options.path    ? '; path=' + options.path : '',
+				options.domain  ? '; domain=' + options.domain : '',
+				options.secure  ? '; secure' : ''
+			].join(''));
+		}
+
+		// Read
+
+		var result = key ? undefined : {};
+
+		// To prevent the for loop in the first place assign an empty array
+		// in case there are no cookies at all. Also prevents odd result when
+		// calling $.cookie().
+		var cookies = document.cookie ? document.cookie.split('; ') : [];
+
+		for (var i = 0, l = cookies.length; i < l; i++) {
+			var parts = cookies[i].split('=');
+			var name = decode(parts.shift());
+			var cookie = parts.join('=');
+
+			if (key && key === name) {
+				result = decodeAndParse(cookie);
+				break;
+			}
+
+			// Prevent storing a cookie that we couldn't decode.
+			if (!key && (cookie = decodeAndParse(cookie)) !== undefined) {
+				result[name] = cookie;
+			}
+		}
+
+		return result;
+	};
+
+	config.defaults = {};
+
+	$.removeCookie = function (key, options) {
+		if ($.cookie(key) !== undefined) {
+			// Must not alter options, thus extending a fresh object...
+			$.cookie(key, '', $.extend({}, options, { expires: -1 }));
+			return true;
+		}
+		return false;
+	};
+
+}));
+
+
+function toggleTab()
+{
+	var main = 	document.getElementById("ki_main")
+	if (main.style.height != "0px")
+	{
+		main.style.height = "0px";
+		$.cookie('hidePopup', 'true', { expires: 7, path: '/' } ) 
+		$('#ki_tab_t').html('+');
+	}
+	else
+	{
+		main.style.height = "auto";
+		$.cookie('hidePopup', 'false', { expires: 7, path: '/' } ) 
+		$('#ki_tab_t').html('-');
+	}
+}
+</script>
+
+<div id="ki_container" class="ki_right  " style="bottom: 0px; ">
+	
+
+	<a id="ki_tab" onclick="toggleTab()"><span id="ki_tab_t">-</span></a>
+	  <div id="ki_main" style="height: auto;">
+    <form id="ki_form" action="#" method="post">
+      <div id="ki_questions">
+        <div id="ki_question_45973" class="ki_question ki_top " style="display: block;">
+          <h1 class="ki_h1 sIFR-ignore ">Would you like 7 days of completely FREE download from over 1,000,000 images, clip art and video on kozzi.com?</h1>
+          <ul id="ki_question_45973_answers" class="ki_answers ">
+            <li id="ki_answer_119870" class="ki_answer_li ">
+              <label>
+                <input type="button" name="r[45973][]" class="ki_radio" onclick="window.location.href='http://www.kozzi.com'">
+                Yes Please!</label>
+            </li>
+          </ul>
+        </div>
+      </div>
+      
+    </form>
+    <div id="ki_thanks" style="display: none;"></div>
+  </div>
+</div>
+
+
+
 
     			</td>
         </tr>
@@ -400,9 +815,768 @@ $(document).ready(function(){
 	$('#faq_con_in_t_act').removeClass('faq_con_in_t').addClass('faq_con_in_t_act');
 
 });
-</script>						<style>
+</script>						<!-- JavaScript 
+
+ -->
+<style>
+.notice li:before {
+  content: '•';
+font-size: 20px;
+margin-top: -4px;
+margin-bottom: 15px;
+margin-left: 0;
+margin-right: 10px;
+color: #8bb108;
+list-style-type: none;
+float: left;
+text-align: left;
+list-style-position: outside;
+}
+.notice li + li {
+  margin-top: 15px;
+  list-style-type: none;
+}
+ul.b {list-style-position:outside;}
+.popup div,.popup h1,.popup p,.popup a,.popup em,.popup small,.popup ul,.popup li,.popup big,.popup form,.popup label {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	font-size: 100%;
+	vertical-align: baseline;
+}
+
+.popup a {
+	outline: none;
+	/* removing outline in Mozilla */
+	text-decoration: none;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+.popup input:focus,.popup button:focus {
+	outline: none;
+}
+
+.popup button::-moz-focus-inner,.popup input[type="submit"]::-moz-focus-inner
+	{
+	border: 0;
+	padding: 0;
+}
+
+.popup h1 {
+	line-height: 1;
+	color: white;
+	font-size: 24px;
+}
+
+.popup ol,.popup ul {
+	list-style: none;
+}
+
+.popup .btn {
+	font-size: 14px;
+	font-weight: bold;
+	width: 244px;
+	display: block;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	color: #fff;
+	text-transform: none;
+	border: none;
+	margin: 10px auto;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-background-clip: padding;
+	-moz-background-clip: padding;
+	background-clip: padding-box;
+	background-color: #b6c823;
+	background-image:
+		url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjUwJSIgeTE9IjEwMCUiIHgyPSI1MCUiIHkyPSIwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzZkOTkwMCIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2FkY2IwMCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+	background-size: 100%;
+	background-image: -webkit-gradient(linear, 50% 100%, 50% 0%, color-stop(0%, #6d9900),
+		color-stop(100%, #adcb00) );
+	background-image: -webkit-linear-gradient(bottom, #6d9900 0%, #adcb00 100%);
+	background-image: -moz-linear-gradient(bottom, #6d9900 0%, #adcb00 100%);
+	background-image: -o-linear-gradient(bottom, #6d9900 0%, #adcb00 100%);
+	background-image: linear-gradient(bottom, #6d9900 0%, #adcb00 100%);
+}
+
+.popup .btn:hover {
+	background-color: #5e5e5e;
+	background-image:
+		url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjUwJSIgeTE9IjEwMCUiIHgyPSI1MCUiIHkyPSIwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzNmM2QzZiIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzdkN2Q3ZCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+	background-size: 100%;
+	background-image: -webkit-gradient(linear, 50% 100%, 50% 0%, color-stop(0%, #3f3d3f),
+		color-stop(100%, #7d7d7d) );
+	background-image: -webkit-linear-gradient(bottom, #3f3d3f 0%, #7d7d7d 100%);
+	background-image: -moz-linear-gradient(bottom, #3f3d3f 0%, #7d7d7d 100%);
+	background-image: -o-linear-gradient(bottom, #3f3d3f 0%, #7d7d7d 100%);
+	background-image: linear-gradient(bottom, #3f3d3f 0%, #7d7d7d 100%);
+}
+
+.popup input[type="text"],input[type="password"],textarea {
+	padding: 0 10px;
+	vertical-align: middle;
+	height: 26px;
+	line-height: 26px;
+	background-color: #4f4f4f;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-background-clip: padding;
+	-moz-background-clip: padding;
+	background-clip: padding-box;
+	border: none;
+	border-top: 1px solid #191919;
+	border-bottom: 1px solid #5b5b5b;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	color: #828282;
+	outline: none;
+	font-size: 14px;
+}
+
+.popup input[type="text"]:hover,.popup input[type="text"]:focus,.popup input[type="password"]:hover,.popup input[type="password"]:focus,.popup textarea:hover,.popup textarea:focus	{
+	color: #fff;
+	background-color: #606060;
+}
+
+.content {
+	width: 600px;
+	
+}
+
+.logo {
+	margin-bottom: 30px;
+}
+
+.content-box {
+	width: 560px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	border-radius: 10px;
+	background-color: #4f4f4f;
+	display: block;
+	padding: 20px;
+}
+
+.inside {
+	width: 480px;
+	padding: 20px 40px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	border-radius: 8px;
+	display: block;
+	background-color: #2c2c2c;
+}
+
+.inside+.inside {
+	margin-top: 20px;
+}
+
+.inside.payment {
+	padding-top: 30px;
+	background: #2c2c2c url('http://cdn2.qualitystockphotos.com/qsp/images/popup/box-top.png') no-repeat 50% 0;
+}
+
+.inside h1 {
+	margin-bottom: 20px;
+}
+
+p.inside {
+	color: #d7f431;
+	font-size: 15px;
+	padding: 15px 40px;
+}
+
+p.inside strong {
+	color: #fff;
+}
+
+.buy select {
+	margin-bottom: 20px;
+}
+
+.buy p {
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+
+.payment-check {
+	margin-bottom: 10px;
+}
+
+.payment-check label {
+	width: 25px;
+	height: 25px;
+	display: inline-block;
+	background: url('http://cdn2.qualitystockphotos.com/qsp/images/popup/payments.png') no-repeat 0 0;
+}
+
+.payment-check label.visa {
+	background-position: 0 0;
+}
+
+.payment-check label.mastercard {
+	background-position: -35px 0;
+}
+
+.payment-check label.american {
+	background-position: -70px 0;
+}
+
+.payment-check input {
+	display: none;
+}
+
+.payment-check input:checked+label.visa {
+	background-position: 0 -25px;
+}
+
+.payment-check input:checked+label.mastercard {
+	background-position: -35px -25px;
+}
+
+.payment-check input:checked+label.american {
+	background-position: -70px -25px;
+}
+
+.main-table {
+	border-collapse: separate;
+	margin-bottom: 20px;
+	position: relative;
+}
+
+.main-table:before {
+	content: '';
+	height: 1px;
+	width: 440px;
+	display: block;
+	background-color: #3c3c3c;
+	position: absolute;
+	right: 0;
+	top: 100%;
+}
+
+.main-table th,.main-table td {
+	text-align: center;
+	width: 150px;
+}
+
+.main-table th:first-child,.main-table td:first-child {
+	text-align: left;
+	width: auto;
+}
+
+.main-table tr:first-child th {
+	border-top: none;
+	background: url('http://cdn2.qualitystockphotos.com/qsp/images/popup/cell-bgr.png') no-repeat 50% 100%;
+}
+
+.main-table tr:first-child th:first-child {
+	background: none;
+}
+
+.main-table thead th {
+	font-size: 17px;
+	font-weight: bold;
+	color: #fff;
+	padding: 18px 0;
+}
+
+.main-table thead tr:first-child th {
+	padding-top: 0;
+}
+
+.main-table thead tr+tr th {
+	border-bottom: none;
+}
+
+.main-table thead tr+tr th+th {
+	color: #d7f431;
+}
+
+.main-table th {
+	border-top: 1px solid #3c3c3c;
+	border-bottom: 1px solid #232323;
+}
+
+.main-table .note th {
+	padding-top: 0;
+	font-size: 10px;
+	color: #858585;
+	font-weight: normal;
+	border-top: none;
+	border-bottom: 1px solid #232323;
+}
+
+.main-table tbody td {
+	padding: 15px 0;
+	font-weight: bold;
+	color: #d7f431;
+	border-top: 1px solid #3c3c3c;
+	border-bottom: 1px solid #232323;
+}
+
+.main-table tbody td:first-child {
+	width: 40px;
+	border: none;
+}
+
+.main-table tbody td:first-child+td {
+	font-weight: normal;
+	color: #bababa;
+	font-size: 11px;
+	text-align: left;
+}
+
+.main-table tbody td:first-child+td+td {
+	color: #f42727;
+}
+
+.main-table tbody tr:first-child td:first-child {
+	border-top: 1px solid #3c3c3c;
+}
+
+.main-table tbody tr:first-child td:first-child+td+td {
+	color: #d7f431;
+}
+
+.second-table {
+	border-collapse: separate;
+}
+
+.second-table td {
+	border-top: 1px solid #3c3c3c;
+	border-bottom: 1px solid #232323;
+	font-weight: bold;
+	color: #d7f431;
+	width: 147px;
+	white-space: nowrap;
+	text-align: center;
+	font-size: 13px;
+	height: 50px;
+	padding-bottom: 8px;
+	vertical-align: bottom;
+}
+
+.second-table td:first-child {
+	color: #fff;
+	text-align: left;
+	width: auto;
+	font-weight: normal;
+}
+
+.second-table td:first-child+td {
+	color: #f42727;
+}
+
+.second-table tr:first-child td {
+	border-top: none;
+}
+
+.second-table .note td {
+	border-bottom: none;
+	height: 30px;
+	font-size: 10px;
+	color: #858585;
+	font-weight: normal;
+	vertical-align: middle;
+}
+
+.content-popup {
+	padding: 20px;
+	color: #858585;
+	font-family: Arial, sans-serif;
+	font-size: 13px;
+	line-height: 1.2;
+	padding: 50px;
+	min-width: 1000px;
+}
+
+.popup {
+	width: 620px;
+	padding: 15px;
+	background: #4f4f4f url('http://cdn2.qualitystockphotos.com/qsp/images/popup/popup-top-bgr.png') no-repeat 50%
+		0;
+	-webkit-box-shadow: 0 4px 16px rgba(15, 11, 16, 0.75);
+	-moz-box-shadow: 0 4px 16px rgba(15, 11, 16, 0.75);
+	box-shadow: 0 4px 16px rgba(15, 11, 16, 0.75);
+	border-top: 1px solid #393939;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	border-radius: 10px;
+	position: relative;
+}
+
+.popup:before {
+	content: '';
+	width: 100%;
+	height: 3px;
+	display: block;
+	position: absolute;
+	bottom: 11px;
+	left: 0;
+	background: #4f4f4f url('http://cdn2.qualitystockphotos.com/qsp/images/popup/popup-top-bgr.png') no-repeat 50%
+		0;
+}
+
+.popup .inside {
+	width: 620px;
+	padding: 0;
+	overflow: hidden;
+	background: #2c2c2c url('http://cdn2.qualitystockphotos.com/qsp/images/popup/popup-inside-bottom.png')
+		no-repeat 50% 100%;
+}
+
+.popup .inside>form,.popup .inside>div {
+	border-top: 1px solid #353535;
+	padding: 25px 0 35px 0;
+	background: url('http://cdn2.qualitystockphotos.com/qsp/images/popup/popup-inside-top.png') no-repeat 50% 0;
+}
+
+.popup h1 {
+	text-transform: uppercase;
+	color: #d7f431;
+	font-weight: bold;
+	height: 70px;
+	line-height: 70px;
+	border-bottom: 2px solid #232323;
+	margin-bottom: 0;
+	background: url('http://cdn2.qualitystockphotos.com/qsp/images/popup/popup-title-top.png') no-repeat 50% 2px;
+}
+
+.popup form {
+	float: left;
+	width: 286px;
+	text-align: left;
+	padding-left: 48px !important;
+	position: relative;
+}
+
+.popup form:before {
+	content: '';
+	width: 2px;
+	height: 100%;
+	display: block;
+	position: absolute;
+	top: 0;
+	right: -1px;
+	background: url('http://cdn2.qualitystockphotos.com/qsp/images/popup/separator1.png') no-repeat 0 0;
+}
+
+.popup form li {
+	margin-top: 18px;
+}
+
+.popup form ul {
+	margin-bottom: 18px;
+}
+
+.popup form small {
+	font-size: 9px;
+	clear: left;
+	display: block;
+}
+
+.popup input[type="text"],.popup input[type="password"] {
+	width: 224px;
+}
+
+.popup input {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+}
+
+.popup button {
+	font-family: Arial, sans-serif;
+	width: 244px;
+	float: left;
+	height: 35px;
+	line-height: 35px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-background-clip: padding;
+	-moz-background-clip: padding;
+	background-clip: padding-box;
+	text-transform: none;
+	font-weight: normal;
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+
+.popup .notice {
+	float: right;
+	width: 266px;
+}
+
+.popup a {
+	color: #d7f431;
+}
+
+.popup a:hover {
+	color: #a4c100;
+}
+
+.popup .notice {
+	font-size: 18px;
+	font-weight: bold;
+	padding-top: 55px !important;
+}
+
+.popup .notice>p {
+	margin-top: 65px;
+}
+
+.popup .notice>p:first-child {
+	margin-top: 0;
+}
+
+.popup .notice strong {
+	color: #d7f431;
+	display: block;
+}
+
+.popup .notice em {
+	font-size: 22px;
+	color: #fff;
+}
+
+.popup .notice .big em {
+	font-size: 27px;
+}
+
+.popup label {
+	background: url('http://cdn2.qualitystockphotos.com/qsp/images/popup/checkbox.png') no-repeat 0 0;
+	padding-left: 20px;
+}
+
+.popup input[type="checkbox"] {
+	position: absolute;
+	top: 0;
+	left: -9999px;
+	visibility: hidden;
+	color: #858585;
+}
+
+.popup input[type="checkbox"]:checked+label {
+	background-position: 0 -24px;
+}
+
+.popup .close-btn {
+	width: 41px;
+	height: 41px;
+	display: block;
+	text-indent: -9999px;
+	position: absolute;
+	top: -10px;
+	right: -13px;
+	background: url('http://cdn2.qualitystockphotos.com/qsp/images/popup/close-btn.png') no-repeat 0 0;
+}
+
+.popup .close-btn:hover {
+	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=85 );
+	opacity: 0.85;
+}
+
+.select2-container {
+	position: relative;
+	display: inline-block;
+	/* inline-block for ie7 */
+	zoom: 1;
+	*display: inline;
+	vertical-align: top;
+	font-size: 14px;
+	z-index: 300;
+	text-align: left;
+	margin-bottom: 20px;
+	width: 260px;
+}
+
+.select2-container,.select2-drop,.select2-search,.select2-search input {
+	-webkit-box-sizing: border-box;
+	/* webkit */
+	-khtml-box-sizing: border-box;
+	/* konqueror */
+	-moz-box-sizing: border-box;
+	/* firefox */
+	-ms-box-sizing: border-box;
+	/* ie */
+	box-sizing: border-box;
+	/* css3 */
+}
+
+.select2-container .select2-choice {
+	display: block;
+	height: 24px;
+	padding: 0 10px 0 30px;
+	overflow: hidden;
+	position: relative;
+	font-size: 12px;
+	white-space: nowrap;
+	line-height: 25px;
+	color: #fff;
+	text-decoration: none;
+	-webkit-background-clip: padding-box;
+	-moz-background-clip: padding;
+	background-clip: padding-box;
+	background-color: #4f4f4f;
+	-webkit-box-shadow: 0 1px 0 rgba(214, 214, 214, 0.3), inset 0 1px 1px
+		rgba(15, 11, 16, 0.75);
+	-moz-box-shadow: 0 1px 0 rgba(214, 214, 214, 0.3), inset 0 1px 1px
+		rgba(15, 11, 16, 0.75);
+	box-shadow: 0 1px 0 rgba(214, 214, 214, 0.3), inset 0 1px 1px
+		rgba(15, 11, 16, 0.75);
+}
+
+.select2-container .select2-choice span {
+	margin-right: 26px;
+	display: block;
+	overflow: hidden;
+	white-space: nowrap;
+	-ms-text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+}
+
+.select2-drop-mask {
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 9998;
+	opacity: 0;
+}
+
+.select2-drop {
+	width: 100%;
+	margin-top: 2px;
+	position: absolute;
+	z-index: 9999;
+	top: 100%;
+}
+
+.select2-drop.select2-drop-above {
+	margin-top: 1px;
+	border-top: 1px solid #aaaaaa;
+	border-bottom: 0;
+}
+
+.select2-container .select2-choice div {
+	display: block;
+	width: 20px;
+	height: 18px;
+	position: absolute;
+	right: 3px;
+	top: 4px;
+}
+
+.select2-container .select2-choice div b {
+	width: 100%;
+	height: 100%;
+	display: block;
+	background: url('http://cdn2.qualitystockphotos.com/qsp/images/popup/select-arrow.png') no-repeat 0 0;
+}
+
+.select2-search {
+	display: none;
+}
+
+.select2-container-active .select2-choice,.select2-container-active .select2-choices
+	{
+	outline: none;
+}
+
+.select2-dropdown-open .select2-choice {
+	background-color: #4f4f4f;
+}
+
+.select2-dropdown-open .select2-choice div {
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+	transform: rotate(180deg);
+}
+
+/* results */
+.select2-results {
+	max-height: 250px;
+	position: relative;
+	overflow-x: hidden;
+	overflow-y: auto;
+	background-color: #4f4f4f;
+}
+
+.select2-results ul.select2-result-sub {
+	margin: 0;
+}
+
+.select2-results li {
+	list-style: none;
+	display: list-item;
+	padding-left: 30px;
+}
+
+.select2-results li.select2-result-with-children>.select2-result-label {
+	font-weight: bold;
+}
+
+.select2-results .select2-result-label {
+	height: 29px;
+	line-height: 29px;
+	padding: 0 10px 0 0;
+	margin: 0;
+	cursor: pointer;
+}
+
+.select2-results .select2-highlighted {
+	background: #444444;
+	color: #fff;
+}
+
+.select2-results li em {
+	background: #feffde;
+	font-style: normal;
+}
+
+.select2-results .select2-highlighted em {
+	background: transparent;
+}
+
+.select2-results .select2-highlighted ul {
+	background: white;
+	color: #000;
+}
+
+.select2-offscreen {
+	position: absolute;
+	left: -10000px;
+}
+</style>
+<style>
 .qsp_popup_signup {
-  left: -1999px;
+	left: -1999px;
+	top: 100px;
 	width: 100%;
 	height: 100%;
 	z-index: 8000;
@@ -452,7 +1626,7 @@ h2.qsp_popup_signup_title {
 }
 
 .qsp_popup_signup_info_title {
-	background: url('/images/pop_top_red.jpg') no-repeat;
+	background: url('http://cdn2.qualitystockphotos.com/qsp/images/pop_top_red.jpg') no-repeat;
 	background-color: rgb(219, 49, 49);
 	height: 40px;
 	margin-top: 15px;
@@ -505,12 +1679,12 @@ h3.qsp_popup_signup_info_h3 {
 	color: #ff0000;
 	height: 30px;
 	padding-left: 20px;
-  font-size: 12px;
-  font-weight: bold;
+	font-size: 12px;
+	font-weight: bold;
 }
 
 .qsp_popup_signup_info_input_submit {
-	background: url('/images/pop_start_free.jpg') no-repeat;
+	background: url('http://cdn2.qualitystockphotos.com/qsp/images/popup/pop_start_free.jpg') no-repeat;
 	background-color: rgb(241, 58, 58);
 	height: 30px;
 	width: 260px;
@@ -574,122 +1748,149 @@ h3.qsp_popup_signup_info_h3 {
 	color: #e0e0e0;
 }
 </style>
-<script src="/js/jquery.cookie.js" type="text/javascript"></script>
-<script type="text/javascript">
 
-$(document).ready(function() {
-  var Options = {expires: 3650, path: '/',domain:'.qualitystockphotos.com'};
-  var myDate = new Date();
-  var int_cookie_times = 0;
-  var is_register = parseInt($.cookie('is_register'));
-  if (is_register != 1) {
-    if (($.cookie('visit_times') > 3) || ($.cookie('visit_times') == null)) {
-       // count not register user visit times
-    } else if ($.cookie('visit_times') == 3) {    // when visit 4st page
-       $('.black_pix').fadeIn(500);
-       var w = ($(window).width() - 720) / 2;
-  		 $('.qsp_popup_signup').css({'left': w+'px'});
-       $.cookie('popup_time',myDate.getTime(),Options);    // set first popup time
-    } else {
-  	  int_cookie_times = parseInt($.cookie('visit_times'));
-    }
-    int_cookie_times++;
-    $.cookie('visit_times', int_cookie_times , Options);
-    // pop control end.
-	  $('.qsp_popup_signup_info_input_submit').click(function(e){
-		  e.preventDefault();
-		  if(typeof(fingerprint) !='undefined')	{
-			  var code = fingerprint.md5();
-			}
-		  $.ajax({
-			  url: '/register',
-			  type: "post",
-			  cache: false,
-			  async:false,
-			  data:$('#qsp_popup_signup_info_form').serialize()+'&PHPSESSIONID='+$.cookie('PHPSESSID')+'&fingerprint='+code,
-			  success: function(data) {
-				  eval('data = '+data);
-				  if(data['status'] > 1) {
-					  $('.qsp_popup_signup').css({'left':'-1999px'});
-					  $('.black_pix').fadeOut(500);
-					  $.cookie('is_register','1',Options);
-					  $.ajax({
-						  url: '/login',
-						  type: "post",
-						  cache: false,
-						  async:false,
-						  data:$('#qsp_popup_signup_info_form').serialize()+'&PHPSESSIONID='+$.cookie('PHPSESSID')+'&fingerprint='+code,
-						  success: function(data) {
-							  if(data == 'OK'){
-								  location.reload();
-								} else {
-									$('.qsp_popup_signup_info_msg').html('Login Error, Try to login later.');
-								}
-						  }
-					  });
-					} else {
-					  if (typeof data['error'] == 'string'){
-						  $('.qsp_popup_signup_info_msg').html(data['error']);
-					  } else {
-						  error = '';
-						  for(i in data['message']) error = error + data['message'][i] + '<br>';
 
-						  $('.qsp_popup_signup_info_msg').html(error);
-					  }
-				  }
-			  }
-		  });
-		});
 
-	  $('.qsp_popup_signup_title_close').click(function(){
-		  $('.qsp_popup_signup').css({'left':'-1999px'});
-		  $('.black_pix').fadeOut(500);
-		});
-	}
-});
 
-</script>
+
+<style>
+.lgn_sbox {
+	float: left;
+	width: 290px;
+	margin: 0;
+}
+
+#adRegForm .close {
+	background: url(/images/nao.png) no-repeat;
+	width: 16px;
+	height: 16px;
+	border-bottom: none;
+}
+
+.font15px {
+	font-size: 15px;
+}
+
+.font14px {
+	font-size: 14px;
+}
+
+.font11px {
+	font-size: 11px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.button_sub_red_2012 {
+	-moz-box-shadow: inset 0 1px 0 #be331b, inset 1px 0 0 #a42a15, inset
+		-1px 0 0 #a42a15, inset 0 -1px 0 #8c200e, inset 0 2px 0
+		rgba(255, 255, 255, 0.3), inset 0 0 4px rgba(255, 255, 255, 0.3), 0
+		1px 2px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: inset 0 1px 0 #be331b, inset 1px 0 0 #a42a15, inset
+		-1px 0 0 #a42a15, inset 0 -1px 0 #8c200e, inset 0 2px 0
+		rgba(255, 255, 255, 0.3), inset 0 0 4px rgba(255, 255, 255, 0.3), 0
+		1px 2px rgba(0, 0, 0, 0.3);
+	background: #e64c33;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.2, #ec6040),
+		color-stop(1, #e13d29) );
+	background: -moz-linear-gradient(center top, #ec6040 20%, #e13d29 100%);
+	box-shadow: inset 0 1px 0 #be331b, inset 1px 0 0 #a42a15, inset -1px 0 0
+		#a42a15, inset 0 -1px 0 #8c200e, inset 0 2px 0
+		rgba(255, 255, 255, 0.3), inset 0 0 4px rgba(255, 255, 255, 0.3), 0
+		1px 2px rgba(0, 0, 0, 0.3);
+	border: none;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 10px;
+	cursor: pointer;
+	color: #ffffff;
+}
+
+.button_sub_red_2012:hover {
+	background: #e13d29;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.2, #e13d29),
+		color-stop(1, #C9271B) );
+	background: -moz-linear-gradient(center top, #e13d29 20%, #C9271B 100%);
+}
+
+input.button_sub_red_2012 {
+	-moz-box-shadow: inset 0 1px 0 #be331b, inset 1px 0 0 #a42a15, inset
+		-1px 0 0 #a42a15, inset 0 -1px 0 #8c200e, inset 0 2px 0
+		rgba(255, 255, 255, 0.3), inset 0 0 4px rgba(255, 255, 255, 0.3), 0
+		1px 2px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: inset 0 1px 0 #be331b, inset 1px 0 0 #a42a15, inset
+		-1px 0 0 #a42a15, inset 0 -1px 0 #8c200e, inset 0 2px 0
+		rgba(255, 255, 255, 0.3), inset 0 0 4px rgba(255, 255, 255, 0.3), 0
+		1px 2px rgba(0, 0, 0, 0.3);
+	background: #e64c33;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.2, #ec6040),
+		color-stop(1, #e13d29) );
+	background: -moz-linear-gradient(center top, #ec6040 20%, #e13d29 100%);
+	box-shadow: inset 0 1px 0 #be331b, inset 1px 0 0 #a42a15, inset -1px 0 0
+		#a42a15, inset 0 -1px 0 #8c200e, inset 0 2px 0
+		rgba(255, 255, 255, 0.3), inset 0 0 4px rgba(255, 255, 255, 0.3), 0
+		1px 2px rgba(0, 0, 0, 0.3);
+	border: none;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	width: auto;
+	padding: 10px;
+	cursor: pointer;
+	color: #ffffff;
+	margin: 0 auto;
+}
+
+input.button_sub_red_2012:hover {
+	background: #e13d29;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.2, #e13d29),
+		color-stop(1, #C9271B) );
+	background: -moz-linear-gradient(center top, #e13d29 20%, #C9271B 100%);
+}
+
+#adRegForm a {
+	text-decoration: none;
+	border-bottom: 1px dotted #666;
+	color: #666;
+}
+
+.regsiter_select {
+	height: 21px;
+	width: 248px;
+	background-color: #111212;
+	color: #fff;
+	border-color: #111212;
+	font-weight: bold;
+	border: medium none;;
+}
+
+.regsiter_select option {
+	font-weight: bold;
+}
+</style>
+
 <div id="qsp_popup_signup" class="qsp_popup_signup">
-	<div class="qsp_popup_signup_win">
-		<div class="qsp_popup_signup_title">
-			<h2 class="qsp_popup_signup_title">START DOWNLOADING IMMEDIATELY</h2>
-			<a href="#" class="qsp_popup_signup_title_close">Close</a>
-		</div>
-		<div class="qsp_popup_signup_frame">
-			<div class="qsp_popup_signup_info">
-				<div class="qsp_popup_signup_info_title">
-					<h3 class="qsp_popup_signup_info_h3">Create an Account and Start Downloading</h3>
-				</div>
-				<form class="qsp_popup_signup_info_form" action="_self" id="qsp_popup_signup_info_form">
-					<div class="qsp_popup_signup_info_row">
-						<input type="text" value="First Name" name="fname" class="qsp_popup_signup_info_input_text" onfocus="this.value = this.value=='First Name' ? '' : this.value; this.style.color='#000000';" onfocusout="this.value = this.value == '' ? this.value = 'First Name' : this.value; this.value=='First Name' ? this.style.color='#505050' : this.style.color='#000000'">
-						<span class="qsp_popup_signup_info_error">This field is required.</span>
-					</div>
-					<div class="qsp_popup_signup_info_row">
-						<input type="text" value="Last Name" name="lname" class="qsp_popup_signup_info_input_text" onfocus="this.value = this.value=='Last Name' ? '' : this.value; this.style.color='#000000';" onfocusout="this.value = this.value == '' ? this.value = 'Last Name' : this.value; this.value=='Last Name' ? this.style.color='#505050' : this.style.color='#000000'">
-						<span class="qsp_popup_signup_info_error">This field is required.</span>
-					</div>
-					<div class="qsp_popup_signup_info_row">
-						<input type="text" value="Email Address" name="email" class="qsp_popup_signup_info_input_text" onfocus="this.value = this.value=='Email Address' ? '' : this.value; this.style.color='#000000';" onfocusout="this.value = this.value == '' ? this.value = 'Email Address' : this.value; this.value=='Email Address' ? this.style.color='#505050' : this.style.color='#000000'">
-						<span class="qsp_popup_signup_info_error">This field is required.</span>
-					</div>
-					<div class="qsp_popup_signup_info_row">
-						<input type="password" value="Choose your Password" name="password" class="qsp_popup_signup_info_input_text" onfocus="this.value = this.value=='Choose your Password' ? '' : this.value; this.style.color='#000000';" onfocusout="this.value = this.value == '' ? this.value = 'Choose your Password' : this.value; this.value=='Choose your Password' ? this.style.color='#505050' : this.style.color='#000000'">
-						<span class="qsp_popup_signup_info_error">This field is required.</span>
-					</div>
-					<div class="qsp_popup_signup_info_row">
-						<input type="password" value="Confirm your Password" name="re_password" class="qsp_popup_signup_info_input_text" onfocus="this.value = this.value=='Confirm your Password' ? '' : this.value; this.style.color='#000000';" onfocusout="this.value = this.value == '' ? this.value = 'Confirm your Password' : this.value; this.value=='Confirm your Password' ? this.style.color='#505050' : this.style.color='#000000'">
-						<span class="qsp_popup_signup_info_error">This field is required.</span>
-					</div>
-					<div class="qsp_popup_signup_info_row">
-						<input type="checkbox" id="agree" name="agree" value="1" class="qsp_popup_signup_info_input_check">
-						<label for="agree" class="qsp_popup_signup_info_label">I agree to the <a class="ibox" href="term.html">Terms and Conditions</a></label>
-					</div>
-					<div class="qsp_popup_signup_info_row">
-						<input type="submit" value="START FREE DOWNLOADING" class="qsp_popup_signup_info_input_submit">
-					</div>
-					<div style="display:none;">
-					<select name="country">
+	<div class="content content-popup">
+		<div class="popup">
+			<div class="inside">
+				<a href="javascript:location.reload(false);" class="close-btn">Close</a>
+				<h1 style="text-align: center;">Start downloading immediately</h1>
+				<form class="qsp_popup_signup_info_form1" action="_self" id="qsp_popup_signup_info_form1">
+					<ul>
+						<li><input type="text" placeholder="First Name" name="fname"></li>
+						<li><input type="text" placeholder="Last Name" name="lname"></li>
+						<li><input type="text" placeholder="Email Address" name="email"></li>
+						<li><input type="password" placeholder="Password" name="password"></li>
+						<li><input type="password" placeholder="Confirm Password" name="re_password"></li>
+						<li><input type="checkbox" id="terms" name="agree" value="1" checked=""> <label for="terms">I agree to the <a href="/term" target="_blank">Terms and Conditions</a></label></li>
+					</ul>
+					<button class="btn" type="submit">Start Downloading</button>
+					<div style="display: none;">
+						<select name="country">
 														<option value="1">
 								Afghanistan							</option>
 														<option value="2">
@@ -1138,7 +2339,7 @@ $(document).ready(function() {
 								United Arab Emirates							</option>
 														<option value="428">
 								United Kingdom							</option>
-														<option value="429">
+														<option value="429" selected="">
 								United States							</option>
 														<option value="430">
 								United States Minor Outlying Islands							</option>
@@ -1166,28 +2367,31 @@ $(document).ready(function() {
 								Zambia							</option>
 														<option value="442">
 								Zimbabwe							</option>
-													</select>
-						<select name="primary_use" id="primary_use" class="fl regsiter_select">
+													</select> <select name="primary_use" id="primary_use" class="fl regsiter_select">
 							<option value="">
 								Select One							</option>
 						</select>
 					</div>
-					<div class="qsp_popup_signup_info_info">We respect your privacy and	will NOT share your info</div>
-					<div class="qsp_popup_signup_info_msg"><div style="display:none">here is error message</div></div>
+					<small>*We respect your privacy and will NOT share your info.</small>
+					<div class="qsp_popup_signup_info_msg">
+						<div style="display: none">here is error message</div>
+					</div>
 				</form>
-			</div>
-			<div class="qsp_popup_signup_info_right">
-				<div class="qsp_popup_signup_info_rrow" style="color: rgb(127, 209, 62);">FREE DOWNLOADS PER DAY</div>
-				<div class="qsp_popup_signup_info_rrow">
-					5 IMAGES / CLIP ART<br>&nbsp;
-				</div>
-				<div class="qsp_popup_signup_info_rrow" style="color: rgb(127, 209, 62);">ACCESS MORE THAN</div>
-				<div class="qsp_popup_signup_info_rrow">
-					100,000<br> STOCK IMAGES<br> CLIP ART<br>&nbsp;
-				</div>
-				<div class="qsp_popup_signup_info_rrow" style="color: rgb(127, 209, 62);">NO OBLIGATION</div>
-				<div class="qsp_popup_signup_info_rrow">
-					100% FREE<br>&nbsp;
+				<div class="notice">
+				
+
+	  
+     <ul class="b" style="font-size:12px;">
+            <li>Get <em style="font-size: 13px;">FREE</em> Images, vector clipart and video clips</li>
+            <li>Use advanced features like Lightboxes, slideshows and  download / view large composites</li>
+            <li>Receive notices for free images, updates, specials and features at qualitystockphotos.com</li>
+      </ul>
+         
+		
+
+				
+				
+				
 				</div>
 			</div>
 		</div>
@@ -1393,15 +2597,18 @@ $(document).ready(function() {
 <p><strong>RESTRICTIONS</strong><br>
 <strong>YOU  MAY NOT:</strong></p>
 <ul>
-    <li>Use Content in any manner other  than specified in PERMITTED USES.</li>
-    <li>Sell, sub-license, rent, lend, share,  assign, gift, or otherwise transfer or distribute the Content or any modified Content  as stand-alone files, or as part of an online database or any other database, peer-to-peer  network or similar file sharing arrangement, or any derivative product  containing the Content in such way that would allow a third party to download,  extract or access the Content as a stand-alone file; or the rights granted  under this agreement.</li>
-    <li>Use Content on any website or  in connection with any service designed to sell or induce sales of “print on  demand” products.</li>
-    <li>Use Content in any manner that  violates or infringes the intellectual property or other rights of any person  or entity, including, without limitation, the moral rights of the creator of  Content and the rights of any person who, or any person whose property, appears  in Content.</li>
-    <li>Use Content in any manner that  places any person depicted in Content in a bad light which includes, but is not  limited to, uses of Content in pornography, tobacco ads, adult entertainment establishments  and for escort or similar services, or any instance that is unlawful, obscene,  immoral, infringing, defamatory or libelous in nature.</li>
-    <li>Use Content in any manner that would  reasonable imply that the creator of Content, or the person or property  appearing in the Content, endorses any political, economic or other opinion  based groups, organizations, movements, clubs or parties.</li>
-    <li>Use Content in any unsolicited  email, either directly included in the body of the email or linked from another  location on the Internet.</li>
-    <li>Use Content, in part or whole, as  a trademark, service mark or logo.</li>
-    <li>Use Content marked “Editorial  Use Only” for any commercial, promotional, endorsement, advertising or  merchandising purpose.&nbsp; Images designated  as “Editorial Use Only” may be subject to additional copyrights, property  rights, or trademarks and may require additional permissions/consent of a third  party, which Kozzi does not provide or make any claims or warranties that it  owns or licenses any of the mentioned.</li>
+    <li>Use Content in any manner other than specified in PERMITTED USES.</li>
+    <li>Sell, sub-license, rent, lend, share, assign, gift, or otherwise transfer or distribute the Content or any modified Content as stand-alone files, or as part of an online database or any other database, peer-to-peer network or similar file sharing arrangement, or any derivative product containing the Content in such way that would allow a third party to download, extract or access the Content as a stand-alone file; or the rights granted under this agreement.</li>
+    <li>Use Content on any website or in connection with any service designed to sell or induce sales of “print on demand” products.</li>
+    <li>Use Content in any manner that violates or infringes the intellectual property or other rights of any person or entity, including, without limitation, the moral rights of the creator of Content and the rights of any person who, or any person whose property, appears in Content.</li>
+    <li>Use Content in any manner that places any person depicted in Content in a bad light which includes, but is not limited to, uses of Content in pornography, tobacco ads, adult entertainment establishments and for escort or similar services, or any instance that is unlawful, obscene, immoral, infringing, defamatory or libelous in nature.</li>
+    <li>Use Content in any manner that would reasonable imply that the creator of Content, or the person or property appearing in the Content, endorses any political, economic or other opinion based groups, organizations, movements, clubs or parties.</li>
+    <li>Use Content in any unsolicited email, either directly included in the body of the email or linked from another location on the Internet.</li>
+    <li>Use Content, in part or whole, as a trademark, service mark or logo.</li>
+    <li>Use any Image on a social media platform or other third party website that claims to acquire rights in the Image contrary to these terms as a result of such use. Upon Kozzi's request, you shall immediately remove any Images from such platform or website.</li>
+    <li>Use Content marked “Editorial Use Only” for any commercial, promotional, endorsement, advertising or merchandising purpose.&nbsp; Images designated as “Editorial Use Only” may be subject to additional copyrights, property rights, or trademarks and may require additional permissions/consent of a third party, which Kozzi does not provide or make any claims or warranties that it owns or licenses any of the mentioned.</li>
+    <li>Represent falsely or imply, that any Image was created by you or a person other than the copyright holder(s) of that Image.</li>
+    <li>Stockpile store in any manner downloaded Images that are not used within twelve (12) months of the date on which you first downloaded such Image. If you fail to use an Image within twelve (12) months from the date of your first download of that Image, you lose all rights to use that Image.</li>
 </ul>
 <p>The use of Content that is not a permitted  use as specified in the agreement shall constitute infringement of copyright.</p>
 <p><strong>INDEMNIFICATION  AND WARRANTY AND LIABILITY</strong></p>
@@ -1926,7 +3133,7 @@ $(document).ready(function() {
 													United Arab Emirates												</option>
 																								<option value="428">
 													United Kingdom												</option>
-																								<option value="429">
+																								<option value="429" selected="">
 													United States												</option>
 																								<option value="430">
 													United States Minor Outlying Islands												</option>
@@ -2179,125 +3386,103 @@ $(document).ready(function() {
 <script src="/js/tz.js" type="text/javascript"></script>
 
 
-<style>
-.lgn_sbox {
-	float: left;
-	width: 290px;
-	margin: 0;
-}
 
-#adRegForm .close {
-	background: url(/images/nao.png) no-repeat;
-	width: 16px;
-	height: 16px;
-	border-bottom: none;
-}
 
-.font15px {
-	font-size: 15px;
-}
 
-.font14px {
-	font-size: 14px;
-}
 
-.font11px {
-	font-size: 11px;
-}
+<!-- JavaScript 
 
-.bold {
-	font-weight: bold;
-}
+-->
+<script src="/js/jquery.cookie.js" type="text/javascript"></script>
 
-.button_sub_red_2012 {
-	-moz-box-shadow: inset 0 1px 0 #be331b, inset 1px 0 0 #a42a15, inset
-		-1px 0 0 #a42a15, inset 0 -1px 0 #8c200e, inset 0 2px 0
-		rgba(255, 255, 255, 0.3), inset 0 0 4px rgba(255, 255, 255, 0.3), 0
-		1px 2px rgba(0, 0, 0, 0.3);
-	-webkit-box-shadow: inset 0 1px 0 #be331b, inset 1px 0 0 #a42a15, inset
-		-1px 0 0 #a42a15, inset 0 -1px 0 #8c200e, inset 0 2px 0
-		rgba(255, 255, 255, 0.3), inset 0 0 4px rgba(255, 255, 255, 0.3), 0
-		1px 2px rgba(0, 0, 0, 0.3);
-	background: #e64c33;
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.2, #ec6040),
-		color-stop(1, #e13d29) );
-	background: -moz-linear-gradient(center top, #ec6040 20%, #e13d29 100%);
-	box-shadow: inset 0 1px 0 #be331b, inset 1px 0 0 #a42a15, inset -1px 0 0
-		#a42a15, inset 0 -1px 0 #8c200e, inset 0 2px 0
-		rgba(255, 255, 255, 0.3), inset 0 0 4px rgba(255, 255, 255, 0.3), 0
-		1px 2px rgba(0, 0, 0, 0.3);
-	border: none;
-	-webkit-border-radius: 5px;
-	-moz-border-radius: 5px;
-	border-radius: 5px;
-	text-align: center;
-	padding: 10px;
-	cursor: pointer;
-	color: #ffffff;
-}
 
-.button_sub_red_2012:hover {
-	background: #e13d29;
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.2, #e13d29),
-		color-stop(1, #C9271B) );
-	background: -moz-linear-gradient(center top, #e13d29 20%, #C9271B 100%);
-}
+<script type="text/javascript">
 
-input.button_sub_red_2012 {
-	-moz-box-shadow: inset 0 1px 0 #be331b, inset 1px 0 0 #a42a15, inset
-		-1px 0 0 #a42a15, inset 0 -1px 0 #8c200e, inset 0 2px 0
-		rgba(255, 255, 255, 0.3), inset 0 0 4px rgba(255, 255, 255, 0.3), 0
-		1px 2px rgba(0, 0, 0, 0.3);
-	-webkit-box-shadow: inset 0 1px 0 #be331b, inset 1px 0 0 #a42a15, inset
-		-1px 0 0 #a42a15, inset 0 -1px 0 #8c200e, inset 0 2px 0
-		rgba(255, 255, 255, 0.3), inset 0 0 4px rgba(255, 255, 255, 0.3), 0
-		1px 2px rgba(0, 0, 0, 0.3);
-	background: #e64c33;
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.2, #ec6040),
-		color-stop(1, #e13d29) );
-	background: -moz-linear-gradient(center top, #ec6040 20%, #e13d29 100%);
-	box-shadow: inset 0 1px 0 #be331b, inset 1px 0 0 #a42a15, inset -1px 0 0
-		#a42a15, inset 0 -1px 0 #8c200e, inset 0 2px 0
-		rgba(255, 255, 255, 0.3), inset 0 0 4px rgba(255, 255, 255, 0.3), 0
-		1px 2px rgba(0, 0, 0, 0.3);
-	border: none;
-	-webkit-border-radius: 5px;
-	-moz-border-radius: 5px;
-	border-radius: 5px;
-	width: auto;
-	padding: 10px;
-	cursor: pointer;
-	color: #ffffff;
-	margin: 0 auto;
-}
+$(document).ready(function() {
+  var Options = {expires: 3650, path: '/',domain:'.qualitystockphotos.com'};
+  var myDate = new Date();
+  var int_cookie_times = 0;
+  var is_register = parseInt($.cookie('is_register'));
+  if (is_register != 1) {
+    if (($.cookie('visit_times') > 2) || ($.cookie('visit_times') == null)) {
+       // count not register user visit times
+    } else if ($.cookie('visit_times') == 2) {    // when visit 4st page
+        var lasttime = 0;
+       if ($.cookie('popup_time')) lasttime = parseInt($.cookie('popup_time'));
+       var diffhours = (myDate.getTime() - lasttime) / 1000 / 60 / 60;
+       if (diffhours > 6) {
+         $('.black_pix').fadeIn(500);
+         var w = ($(window).width() - 720) / 2;
+    		 $('.qsp_popup_signup').css({'left': w+'px'});
+         $.cookie('popup_time',myDate.getTime(),Options);    // set first popup time
+       }
+    } else {
+  	  int_cookie_times = parseInt($.cookie('visit_times'));
+    }
+    int_cookie_times++;
+    $.cookie('visit_times', int_cookie_times , Options);
+    // pop control end.
+    $('.btn').click(function(e){
+		  e.preventDefault();
+		  $('.btn').attr("disabled", true);
+		  if(typeof(fingerprint) !='undefined')	{
+			  var code = fingerprint.md5();
+			}
+		  $.ajax({
+			  url: '/register',
+			  type: "post",
+			  cache: false,
+			  async:false,
+			  data:$('#qsp_popup_signup_info_form1').serialize()+'&PHPSESSIONID='+$.cookie('PHPSESSID')+'&fingerprint='+code,
+			  success: function(data) {
+				  eval('data = '+data);
+				  if(data['status'] > 1) {
+					  $('.content content-popup').css({'left':'-1999px'});
+					  $('.black_pix').fadeOut(500);
+					  $.cookie('is_register','1',Options);
+					  $.ajax({
+						  url: '/login',
+						  type: "post",
+						  cache: false,
+						  async:false,
+						  data:$('#qsp_popup_signup_info_form1').serialize()+'&PHPSESSIONID='+$.cookie('PHPSESSID')+'&fingerprint='+code,
+						  success: function(data) {
+							  if(data == 'OK'){
+                  var cururl = $(location).attr('href');
+                  var nurl = '/register/thankyou?u=' + encodeURIComponent(cururl);
+                  window.location = nurl;
+								} else {
+									$('.qsp_popup_signup_info_msg').html('Login Error, Try to login later.');
+									$('.btn').removeAttr("disabled");
+								}
+						  }
+					  });
+					} else {
+					  if (typeof data['error'] == 'string'){
+						  $('.qsp_popup_signup_info_msg').html(data['error']);
+						} else {
+						  error = '';
+						  for(i in data['message']) error = error + data['message'][i] + '<br>';
 
-input.button_sub_red_2012:hover {
-	background: #e13d29;
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.2, #e13d29),
-		color-stop(1, #C9271B) );
-	background: -moz-linear-gradient(center top, #e13d29 20%, #C9271B 100%);
-}
+						  $('.qsp_popup_signup_info_msg').html(error);
+					  }
+						$('.btn').removeAttr("disabled");
+					}
+			  }
+		  });
+		  return false;
+		});
 
-#adRegForm a {
-	text-decoration: none;
-	border-bottom: 1px dotted #666;
-	color: #666;
-}
+	 
+		 $('.close-btn').click(function(){
+		  
+		  $('.black_pix').fadeOut(500);
+		});
+	}
+});
 
-.regsiter_select {
-	height: 21px;
-	width: 248px;
-	background-color: #111212;
-	color: #fff;
-	border-color: #111212;
-	font-weight: bold;
-	border: medium none;;
-}
+</script>
 
-.regsiter_select option {
-	font-weight: bold;
-}
-</style>
 
 <script type="text/javascript">
 $(document).ready(function()
@@ -2321,13 +3506,48 @@ $(document).ready(function()
 			$('#adRegForm .close').trigger('click');
 	});
 	
-
 });
 </script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=576838045693431";
+  
+  //js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=119504428173288";
+  //js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=32810378057963"; 
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+          // fb login function
+          function fblogin() {
+            FB.getLoginStatus(function(response) {
+			if (response.authResponse) {
+						this.location = '/fblogin/index/token/' + response.authResponse.accessToken+'/fingerprint/'+fingerprint.md5()+'/tz/'+$('#time_zone').val();
+			}
+      else {
+           FB.login(function(response) {
+							if (response.authResponse) {
+										this.location = '/fblogin/index/token/' + response.authResponse.accessToken + '/fingerprint/'+fingerprint.md5()+'/tz/'+$('#time_zone').val();
+					 }}, {scope: 'email,user_location'});
+      	}
+     });
+          }
+</script>
+
+
+
+
+
+
+
     			</td>
     		</tr>
         <tr>
-        		<td style="vertical-align:bottom;padding:0;">
+        		<td style="vertical-align:bottom;padding:10px 0px 0px 0px;">
     				            	<div class="fl fyt_bl">
                 	<div class="fl fyt_bl_t">
                     <div class="fl fyt_bl_c">
@@ -2338,6 +3558,8 @@ $(document).ready(function()
 <ul>
     <li><a href="http://www.qualitystockphotos.com/">Home</a></li>
     <li><a href="http://www.qualitystockphotos.com/faq">Frequently Asked Questions</a></li>
+    <li><a href="http://www.qualitystockphotos.com/licence">Licence</a></li>
+    <li><a href="http://contributor.kozzi.com ">Sell Your Images</a></li>
     <li><a href="http://www.qualitystockphotos.com/contact/">Contact Us</a></li>
 </ul>
 </div>
@@ -2456,9 +3678,9 @@ $(document).ready(function()
 </div>
    <script src="http://cdn2.qualitystockphotos.com/qsp/js/timezonedetect/detect_timezone.js" type="text/javascript"></script>
 <script src="http://cdn2.qualitystockphotos.com/qsp/skin/en_US/js/jquery.cookie.js" type="text/javascript"></script>
-<script src="http://cdn2.qualitystockphotos.com/qsp/skin/en_US/js/photo_common.js?990" type="text/javascript"></script>
 
 
+<script src="http://cdn2.qualitystockphotos.com/qsp/skin/en_US/js/photo_common.js?1506" type="text/javascript"></script>
 
 
 
@@ -2472,14 +3694,13 @@ $(document).ready(function()
 							$(this).attr('rel',$(this).attr("href"));
 							$(this).addClass('current');
 							$(this).attr("href","#");
-							if(0 != 1 )
-								{
-										$('.log_in_batton_act').trigger('click');
-								}
-								else
-								{
-									$('.log_in_batton_act').trigger('click');
-								}
+							
+
+
+$('.log_in_batton_act').trigger('click');
+
+
+							
 							});
 						});
 
@@ -2502,21 +3723,6 @@ $(document).ready(function()
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-34370494-1");
-pageTracker._setDomainName("www.qualitystockphotos.com");
-pageTracker._trackPageview();
-var url = document.location.href;
-var re = /k=([a-z0-9\-]+)\&?/i;
-if( url.match(re) != null)
-{
-	pageTracker._trackPageview('/search/?k=' +url.match(re)[1]);
-
-}
-
-} catch(err) {}</script>
-
 
 <script type="text/javascript">
 $('#emailtofriends').click(function(){
