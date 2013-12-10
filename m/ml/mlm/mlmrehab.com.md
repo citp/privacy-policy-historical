@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mlmrehab.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609022609id_/http%3A//www.mlmrehab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmrehab.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210060153id_/http%3A//mlmrehab.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - MLMRehab
+# MLMRehab | Privacy Policy - MLM Rehab
 
 Thank you for reviewing K2 Global Marketing’s privacy policy. This site is owned and operated by K2 Global Marketing Inc., a South Carolina Corporation (Hereinafter referred to as “K2 Global”, “We”, “Our” or “Us”).
 
