@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the funkykit.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213044139id_/http%3A//www.funkykit.com/about-us.html%3Fstart%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funkykit.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210025241id_/http%3A//www.funkykit.com/articles/privacy) for the most accurate reproduction.*
 
-# About Us - Funky Kit
-
-| Article Index  
----  
-[About Us](http://www.funkykit.com/about-us.html)  
-[Meet the Team](http://www.funkykit.com/about-us.html?start=1)  
-[Advertising](http://www.funkykit.com/about-us.html?start=2)  
-[Demographics](http://www.funkykit.com/about-us.html?start=3)  
-[Privacy](http://www.funkykit.com/about-us.html?start=4)  
-  
-Page 5 of 5
-
-**Privacy Policy**
+# Privacy - Funky Kit
 
 Funky Kit recognizes the importance of protecting the privacy of our readers. Funky Kit does not collect personal information about our readers except for information that may be voluntarily provided. We do set cookies occasionally in order to better understand our readers' Funky Kit experiences. No personal information is gathered via these cookies.
 
@@ -38,9 +26,3 @@ You may copy up to 2 paragraphs per article provided that you attribute the mat
 
   
 If you have questions about our privacy or legal policies, contact us by e-mail at [webmaster@funkykit.com](mailto:webmaster@funkykit.com)
-
-* * *
-
-  
-  
-
