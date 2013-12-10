@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the austinhomesearch.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609223353id_/http%3A//www.austinhomesearch.com/pages/site-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austinhomesearch.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210055716id_/http%3A//www.austinhomesearch.com/pages/site-policies) for the most accurate reproduction.*
 
-# Site Policies | Austin Board of REALTORS
+# Site Policies | Austin real estate | Homes for Sale Austin | Austin Homes
 
   1. The Austin Board of REALTORS® collects the following types of information from users of its website located at www.AustinHomeSearch.com in order to provide users with an experience that is tailored to their real estate needs. 
     1. You may provide us with contact information. 
