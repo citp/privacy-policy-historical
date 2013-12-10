@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the influenster.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629014550id_/http%3A//www.influenster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influenster.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210154708id_/http%3A//www.influenster.com/privacy) for the most accurate reproduction.*
 
 # Influenster.com
 
@@ -78,4 +78,4 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ### QUESTIONS OR CONCERNS
 
-If you have any questions or concerns regarding privacy using the Service, please send a detailed message to: admin@influenster.com. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy using the Service, please send a detailed message to: news@influenster.com. We will make every effort to resolve your concerns.
