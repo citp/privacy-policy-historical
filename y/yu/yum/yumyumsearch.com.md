@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yumyumsearch.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028073003id_/http%3A//yumyumsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yumyumsearch.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210074753id_/http%3A//yumyumsearch.com/privacy.html) for the most accurate reproduction.*
 
 # YumYum Search: Terms & Conditions
 
