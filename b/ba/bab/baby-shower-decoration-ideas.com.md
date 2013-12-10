@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the baby-shower-decoration-ideas.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620044331id_/http%3A//baby-shower-decoration-ideas.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baby-shower-decoration-ideas.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210113946id_/http%3A//baby-shower-decoration-ideas.com/privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policies | Baby Shower Decoration Ideas
+# Privacy Policies | HAPPY HOLIDAYS TO ALL!!
+
+Ho Ho Ho Merry Baby Shower!
 
 ### Privacy Policy:
 
@@ -39,3 +41,5 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, Baby-Shower-Decoration-Ideas may change its Privacy Policy from time to time, and in Baby-Shower-Decoration-Ideas' sole discretion. Baby-Shower-Decoration-Ideas encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a baby-shower-decoration-ideas.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+Ho Ho Ho Merry Baby Shower!
