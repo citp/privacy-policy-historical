@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technewsnow.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404063959id_/http%3A//technewsnow.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technewsnow.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210062851id_/http%3A//www.technewsnow.com/privacy.htm) for the most accurate reproduction.*
 
 # Technology News - Latest TechNews from around the world :: TechnewsNow.com
 
