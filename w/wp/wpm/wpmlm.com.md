@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpmlm.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612155958id_/http%3A//wpmlm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmlm.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211003710id_/http%3A//wpmlm.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | WP-MLMWP-MLM
+# Privacy Policy | WP-MLM
 
 ## Privacy Policy
 
@@ -43,3 +43,10 @@ Email: support@wpmlm.com
 WP-MLM  
 2719 SE Sunflower Ct  
 Hillsboro, OR 97123
+
+#### Users who found this page were searching for:
+
+  * mail wplawpractice.com
+  * mail wplawpractice com
+
+
