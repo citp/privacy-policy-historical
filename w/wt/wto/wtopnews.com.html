@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the wtopnews.com privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530172849id_/http%3A//wtop.com%3Fsid%3D2243660%26nid%3D715) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wtopnews.com privacy policy that was archived on 2013-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210215405id_/http%3A//www.wtop.com%3Fsid%3D2243660%26nid%3D715) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" prefix="og: http://ogp.me/ns#"><head>
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="http://a.visualrevenue.com/vrs.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="//www.facebook.com/2008/fbml" prefix="og: http://ogp.me/ns#"><head>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="http://a.visualrevenue.com/vrs.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
   <!-- TEMPLATE WTOP T1-ThreeColumn This is the main site template -->
   <!-- BEGIN templateHeader REGION --><!-- -*-html-*- -->
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,25 +10,25 @@
 <meta name="dc.date" scheme="ISO8601" content="2011-05-03T12:51:53-06:00">
 <meta name="dc.date.created" scheme="ISO8601" content="2011-01-21T15:56:22-07:00">
 <meta name="dc.date.modified" scheme="ISO8601" content="2011-05-03T12:51:53-06:00">
-<link rel="canonical" href="http://www.wtop.com/715/2243660/Privacy-Policy">
-<meta property="og:url" content="http://www.wtop.com/715/2243660/Privacy-Policy">
+<link rel="canonical" href="http://wtop.com/715/2243660/Privacy-Policy">
+<meta property="og:url" content="http://wtop.com/715/2243660/Privacy-Policy">
 <meta property="og:title" content="Privacy Policy">
 <meta name="title" content="Privacy Policy">
-<meta property="og:image" content="http://www.wtop.com/images/wtop_logo_small.png">
+<meta property="og:image" content="//www.wtop.com/images/wtop_og.image.png">
 <meta property="og:type" content="article">
+<meta property="article:publisher" content="https://www.facebook.com/wtopnews">
 
 <meta property="vr:category" content="WTOP Policies">
 <meta http-equiv="refresh" content="720"><title>Privacy Policy - WTOP.com</title>
-
 <meta name="google-site-verification" content="O97_lozrIY7RKglcJVdW_aoRgc-ahZJTfnNT42E04qk">
 <!-- running get_tags.php -->
-<meta name="keywords" content="Washington news, Washington traffic, Washington weather, traffic, weather, traffic and weather together, school closings">
-<meta name="description" content="Washington's only all-news radio station with traffic and weather together every ten minutes on the 8's.">
+<meta name="keywords" content="Washington news, Washington traffic, Washington weather, traffic, weather, on the 8s, school closings">
+<meta name="description" content="Washington's all-news source with traffic and weather every ten minutes on the 8's and when it breaks.">
 <meta name="author" content="webmaster@wtop.com">
 <meta name="copyright" content="Copyright (c) 2013 WTOP RADIO">
 
 <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png">
-<link href="/css/styles.css" rel="stylesheet" type="text/css">
+<link href="/css/styles.css?t=1386714000" rel="stylesheet" type="text/css">
 <link href="/css/styles-weather.css" rel="stylesheet" type="text/css">
 
 <link type="text/css" href="/jqueryO/js/themes/base/jquery.ui.all.css" rel="stylesheet">
@@ -70,6 +70,8 @@ jQuery(function () {
 	jQuery('.dropdown').each(function () {
 		jQuery(this).parent().eq(0).hover(function () {
 			jQuery('.dropdown:eq(0)', this).show();
+			var iPosition = jQuery(this).position();
+			//console.log(iPosition);
 		}, function () {
 			jQuery('.dropdown:eq(0)', this).hide();
 		});
@@ -87,6 +89,29 @@ jQuery(function () {
 <script type="text/javascript" src="/jqueryO/js/stepcarousel.js"></script>
 <script type="text/javascript" src="/jqueryO/js/AC_RunActiveContent.js"></script>
 <script type="text/javascript" src="/jqueryO/js/pagescripts.js"></script>
+<!-- Sailthru Horizon -->
+<script type="text/javascript">
+    (function() {
+        function loadHorizon() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        }
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() {
+            if (typeof oldOnLoad === 'function') {
+                oldOnLoad();
+            }
+            Sailthru.setup({
+                domain: 'horizon.wtop.com'
+            });
+        };
+    })();
+</script>
 <!-- Include this script include tag once at the top of your html page in the <head> -->
 
 <script type="text/javascript">
@@ -140,7 +165,7 @@ jQuery(function() {
 	<script type="text/javascript">
 		var isMobile = 0;
 	</script>
-
+	
   <script type="text/javascript">
 	function tpct(z) 
 	{
@@ -201,6 +226,7 @@ jQuery(function() {
 
 <body>
 <div id="fb-root"></div>
+<div id="adscripts"></div>
 <!-- Jump tag for accessibility - this allows people using screen readers to jump directly to the content. -->
 <ul style="display: none; margin: 0; padding: 0;">
 	<li class="skipper" style="display: none;">Jump to <a href="#content-prime" title="Jump to main content">main content</a>.</li>
@@ -213,12 +239,11 @@ jQuery(function() {
 <!-- begin ad tag -->
 	<div style="display: none;">bnv.wtop.living/main;tile=1;pos=top;sz=728x90,970x90;ord=</div>
 <script type="text/javascript">
+
 //<![CDATA[
-//ord=Math.random()*10000000000000000;
-//ord=123456789;
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/bnv.wtop.living/main;tile=1;pos=top;sz=728x90,970x90;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/bnv.wtop.living/main;tile=1;pos=top;sz=728x90,970x90;ord=2058004361033889.5?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/bnv.wtop.living/main;tile=1;pos=top;sz=728x90,970x90;ord=5833208636772171?"></script>
 <noscript><a href="http://ad.doubleclick.net/adj/bnv.wtop.living/main;tile=1;pos=top;sz=728x90,970x90;ord==123456789?" target="_blank" ><img src="http://ad.doubleclick.net/adj/bnv.wtop.living/main;tile=1;pos=top;sz=728x90,970x90;ord=123456789?" border="0" alt="" /></a></noscript>
 <!-- end ad tag -->
 </div>
@@ -238,7 +263,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		  		  <!--  BEGIN layout - 980-SectionTitle.php RESOURCE -->
 
 <!-- running resourceinfo.php -->
-  <div id="page-title">
+  <div id="page-title" class="default-box">
     <!-- BEGIN trailmarker REGION -->
 <div id="breadcrumbs">
             <a href="/">Home</a>              <a href="/?nid=8&amp;sid=2186026">Inside WTOP</a>              <a href="/?nid=714&amp;sid=2243272">WTOP Policies</a>          <a href="#" class="active">Policy Documents</a>
@@ -261,12 +286,11 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 <!-- begin ad tag -->
 	<div style="display: none;">bnv.wtop.insidewtop/main;tile=1;pos=right1;sz=300x250,300x600;ord=</div>
 <script type="text/javascript">
+
 //<![CDATA[
-//ord=Math.random()*10000000000000000;
-//ord=123456789;
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/bnv.wtop.insidewtop/main;tile=1;pos=right1;sz=300x250,300x600;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/bnv.wtop.insidewtop/main;tile=1;pos=right1;sz=300x250,300x600;ord=2058004361033889.5?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/bnv.wtop.insidewtop/main;tile=1;pos=right1;sz=300x250,300x600;ord=5833208636772171?"></script>
 <noscript><a href="http://ad.doubleclick.net/adj/bnv.wtop.insidewtop/main;tile=1;pos=right1;sz=300x250,300x600;ord==123456789?" target="_blank" ><img src="http://ad.doubleclick.net/adj/bnv.wtop.insidewtop/main;tile=1;pos=right1;sz=300x250,300x600;ord=123456789?" border="0" alt="" /></a></noscript>
 <!-- end ad tag -->
 </div>
@@ -282,29 +306,29 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		  </div>
 		  <div class="T2grid-right">
 			<!--  Begin Column3UpperAd2 -->
-			<div class="default-dfp-container" style="line-height: normal;" align="center">
-<!-- begin ad tag -->
-	<div style="display: none;">bnv.wtop.insidewtop/main;tile=4;pos=right2;sz=300x250;ord=</div>
-<script type="text/javascript">
-//<![CDATA[
-//ord=Math.random()*10000000000000000;
-//ord=123456789;
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/bnv.wtop.insidewtop/main;tile=4;pos=right2;sz=300x250;ord=' + ord + '?"><\/script>');
-//]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/bnv.wtop.insidewtop/main;tile=4;pos=right2;sz=300x250;ord=2058004361033889.5?"></script>
-<noscript><a href="http://ad.doubleclick.net/adj/bnv.wtop.insidewtop/main;tile=4;pos=right2;sz=300x250;ord==123456789?" target="_blank" ><img src="http://ad.doubleclick.net/adj/bnv.wtop.insidewtop/main;tile=4;pos=right2;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
-<!-- end ad tag -->
-</div>
+			<!-- new richtext Begins Here--> 
+<div class="Richtext-misc">
+	<br><center style="font-size:smaller;">Advertiser Content</center><br><div id="nmWidgetContainer" data-client="537"></div>
+<script src="http://cdn.nmcdn.us/js/connect.js"></script>
+<script type="text/javascript">NM.init({ClientID: 537});</script>
+<div style="clear:both;"></div></div>
+<!-- new richtext ENDs Here-->
 			<!--  End Column3UpperAd2 -->
+		  </div>
+		  <div class="T2grid-right">
+			<!--  Begin Column3UpperAd3 -->
+						<!--  End Column3UpperAd3 -->
 		  </div>
 		</div><!-- END rightsidebar rightsidebarOne -->
 			
 		<div id="T2grid-left">
 			<div id="scribblelive"></div>
 					  <!--  Begin Column1Wide Upper- Column1 + Column2 -->
-		  								  <!--  Begin Story -->
+		  										<!-- Redirect comment links -->
+				<script type="text/javascript" src="/js/redirect_comments.js"></script>
+		  <!--  Begin Story -->
 		  		  		  		  	
-		  				
+		  			
 			  <!-- Begin Feed Aggregator Banner and Link -->
 			  				
 			  			  <!-- End Feed Aggregator Banner and Link -->
@@ -314,23 +338,19 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 							  			  				<div class="articlebody">
 				
 								  <dl class="sharetop">
-				   					<!-- running comment_count -->
-<!-- Using key /wtop/2018395/comment_count/2243660 - 275c984f8077e06f2601c218c7682c68 -->
-<!-- Comment count not in memcache. Fetching -->
-<!-- Fetched comment count. Took 0.00262594223022 seconds -->
-				  	<!--<dt class="comment"><a href="?nid=715&amp;sid=2243660&amp;comments=1#postit">Comment</a></dt>-->
-					<dt class="comment"><a href="/?nid=715&amp;sid=2243660&amp;comments=1#postit">Comment</a></dt>
-					  <dd>0</dd>
-									   					<!-- running social_rank -->
+				   					<dt class="comment"><a href="/?nid=715&amp;sid=2243660&amp;comments=1">Comment</a></dt>
+					  <dd><a data-disqus-identifier="wtop-2243660" href="/?nid=715&amp;sid=2243660&amp;comments=1#disqus_thread"></a>
+						<!----></dd>
+				   					<!-- running social_rank -->
 <!-- Data not in memcache. Fetching -->
 <!-- facebook.shares rank not in memcache. Fetching -->
-<!-- Fetched facebook.shares rank. Took 0.00100207328796 seconds -->
+<!-- Fetched facebook.shares rank. Took 0.0011579990387 seconds -->
 <!-- facebook.likes rank not in memcache. Fetching -->
-<!-- Fetched facebook.likes rank. Took 0.000421047210693 seconds -->
+<!-- Fetched facebook.likes rank. Took 0.00132489204407 seconds -->
 <!-- tweets rank not in memcache. Fetching -->
-<!-- Fetched tweets rank. Took 0.000348091125488 seconds -->
+<!-- Fetched tweets rank. Took 0.000622987747192 seconds -->
 <!-- rank rank not in memcache. Fetching -->
-<!-- Fetched rank rank. Took 0.000439882278442 seconds -->
+<!-- Fetched rank rank. Took 0.000797986984253 seconds -->
 					  <!--<dt class="facebook"><a href="#">Like</a></dt><dd>0</dd>-->
 					  <!--
 						 <dt class="facebook">
@@ -338,10 +358,10 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 						   <fb:like layout="button_count" show_faces="false" width="52"></fb:like>
 						 </dt>
 						 -->
-					  <dt class="facebook"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.wtop.com%2F715%2F2243660%2FPrivacy-Policy&amp;t=Privacy%20Policy">Share</a></dt>
+					  <dt class="facebook"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwtop.com%2F715%2F2243660%2FPrivacy-Policy&amp;t=Privacy%20Policy">Share</a></dt>
 					  <dd>0</dd>
 	
-					  					    						<dt class="retweet"><a href="http://twitter.com/?status=Privacy%20Policy%20http%3A%2F%2Fwww.wtop.com%2F%3Fnid%3D715%26sid%3D2243660%20via%20%40WTOP">Tweet</a></dt><dd>0</dd>
+					  					    						<dt class="retweet"><a href="http://twitter.com/?status=Privacy%20Policy%20http%3A%2F%2Fwtop.com%2F%3Fsid%3D2243660%26nid%3D715%20via%20%40WTOP">Tweet</a></dt><dd>0</dd>
 					  										<!--<dt class="print"><a href="javascript:window.print()">Print</a></dt>-->
 					<dt class="print"><a href="javascript: printStory(1035,2243660);">Print</a></dt>
 					
@@ -350,7 +370,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		jQuery(function() {
 			jQuery('a.emailArticle').colorbox({ width:"400px", height:"450px", inline:true, href:"#wxCurrent" });
 		});
-		//?lastpage=http%3A%2F%2Fwww.wtop.com%2F%3Fnid%3D715%26sid%3D2243660	</script>
+		//?lastpage=http%3A%2F%2Fwtop.com%2F%3Fsid%3D2243660%26nid%3D715	</script>
 	<style type="text/css">
 		#wxCurrent h3 {
 			margin: 5px 0 10px 0;
@@ -369,7 +389,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			<h3>Email this article to a friend</h3>
 			<form id="email_article" name="email_article" method="post" action="/regions/email_process.php">
 				<input type="hidden" name="eCategory" value="article">
-				<input type="hidden" name="eLastpage" value="http://www.wtop.com/?nid=715&amp;sid=2243660">
+				<input type="hidden" name="eLastpage" value="http://wtop.com/?sid=2243660&amp;nid=715">
 				<input type="hidden" name="eSID" value="2243660">
 				<input type="hidden" name="eTitle" value="Privacy Policy">
 		
@@ -400,7 +420,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 					
 					
 					<dt class="email">
-						<!--<a href="/regions/email_article.php?lastpage=http%3A%2F%2Fwww.wtop.com%2F%3Fnid%3D715%26sid%3D2243660" 
+						<!--<a href="/regions/email_article.php?lastpage=http%3A%2F%2Fwtop.com%2F%3Fsid%3D2243660%26nid%3D715" 
 										 target="_blank">Email</a>-->
 						<a class="emailArticle" href="javascript: void(0);" target="_blank">Email</a>
 					</dt>
@@ -468,7 +488,7 @@ change your Personal Information, should be directed to
 jmeyer@wtop.com.					  				  
 
 					  					
-					<!-- check copy:  -->
+										<br><br>
 										
 										
 						</p><div id="BelowArticle-625">
@@ -516,7 +536,7 @@ if (google_ads[0].type == "flash") {
    s += '<a href=\"' +
 google_info.feedback_url + '\" style="color:000000">Ads by Google</a><br>' +
 '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
-' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="' +
+' codebase="//download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="' +
 google_ad.image_width + '" HEIGHT="' +
 google_ad.image_height + '"> <PARAM NAME="movie" VALUE="' +
 google_ad.image_url + '">' +
@@ -528,7 +548,7 @@ google_ad.image_width + '" HEIGHT="' +
 google_ad.image_height +
 '" TYPE="application/x-shockwave-flash"' +
 ' AllowScriptAccess="never" ' +
-' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+' PLUGINSPAGE="//www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
 
 } else if (google_ads[0].type == "image") {
 
@@ -613,46 +633,52 @@ google_feedback = 'on';
 */
 -->
 
-<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<script language="JavaScript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </script> 
 </div>										<div class="clearB" style="height: 10px;"></div>
 	
 <!-- remote resource of FourPic -->
 <!-- Fourpic stuff:  -->
 <div class="nocontent">
-<!-- running headlines -->
-<!-- load2 (post friendly) 22544384 --><!-- load2 (post friendly) 22806528 --><!-- load2 (post friendly) 23068672 --><!-- load2 (post friendly) 23330816 --><!-- load2 (post friendly) 23592960 --><!-- load2 (post friendly) 23855104 --><!-- load2 (post friendly) 24117248 --> 
-<div id="fourPicInline">
+<!-- load2 (post friendly) 22544384 --><!-- load2 (post friendly) 22806528 --><!-- load2 (post friendly) 23068672 --><!-- load2 (post friendly) 23330816 --><!-- load2 (post friendly) 23592960 --><!-- load2 (post friendly) 23855104 --><!-- load2 (post friendly) 24117248 --><!-- load2 (post friendly) 24379392 --><!-- load2 (post friendly) 24641536 --><!-- load2 (post friendly) 24641536 --> 
+<!--<div id="fourPicInline">
 				  		<div id="pic0" class="picContainer">
-			<a href="/681/3340097/DIY-Lightsaber" style="width: 140px; height: 140px;"><img src="http://www.wtop.com/emedia/wtop/29/2940/294015.jpg" alt=""></a>
-			<br>
-			<h5><a href="/681/3340097/DIY-Lightsaber">DIY Lightsaber</a></h5>
-			<p>A Star Wars fan has invented a working lightsaber.</p>
+			<a href="/41/3521204/Floppy-Haven" style="width: 140px; height: 140px;"><img src="http://www.wtop.com/emedia/wtop/31/3191/319102.jpg" alt="" /></a>
+			<br />
+			<h5><a href="/41/3521204/Floppy-Haven">Floppy Haven</a></h5>
+			<p>Floppy disks have become all but obsolete -- except here.</p>
 		</div>
 			  		<div id="pic1" class="picContainer">
-			<a href="/884/3340174/Rolling-Stones" style="width: 140px; height: 140px;"><img src="http://www.wtop.com/emedia/wtop/29/2940/294010.jpg" alt=""></a>
-			<br>
-			<h5><a href="/884/3340174/Rolling-Stones">Rolling Stones</a></h5>
-			<p>Rocks are thought to be stationary things, but not in Death Valley.</p>
+			<a href="/884/3521591/1358-Below" style="width: 140px; height: 140px;"><img src="http://www.wtop.com/emedia/wtop/31/3192/319289.jpg" alt="" /></a>
+			<br />
+			<h5><a href="/884/3521591/1358-Below">135.8 Below</a></h5>
+			<p>Brrr! Now that's cold. Antarctica sets a new record low. </p>
 		</div>
 			  		<div id="pic2" class="picContainer">
-			<a href="/541/3341305/New-Team" style="width: 140px; height: 140px;"><img src="http://www.wtop.com/emedia/wtop/29/2941/294118.jpg" alt=""></a>
-			<br>
-			<h5><a href="/541/3341305/New-Team">New Team</a></h5>
-			<p>Elvis Costello and The Roots team up for a new album.</p>
+			<a href="/1226/3522104/Bacon-a-Commitment" style="width: 140px; height: 140px;"><img src="http://www.wtop.com/emedia/wtop/31/3153/315380.jpg" alt="" /></a>
+			<br />
+			<h5><a href="/1226/3522104/Bacon-a-Commitment">'Bacon' a Commitment </a></h5>
+			<p>Wedding bells will chime, frying pans will sizzle at bacon festival. </p>
 		</div>
 			  		<div id="pic3" class="picContainer">
-			<a href="/256/3340183/Update-Dad" style="width: 140px; height: 140px;"><img src="http://www.wtop.com/emedia/wtop/29/2941/294113.jpg" alt=""></a>
-			<br>
-			<h5><a href="/256/3340183/Update-Dad">Update Dad</a></h5>
-			<p>High-tech gifts to update the low-tech dad this Father's Day.</p>
+			<a href="/541/3521953/Need-a-Kid-Gift" style="width: 140px; height: 140px;"><img src="http://www.wtop.com/emedia/wtop/31/3192/319246.jpg" alt="" /></a>
+			<br />
+			<h5><a href="/541/3521953/Need-a-Kid-Gift">Need a Kid Gift?</a></h5>
+			<p>Here are eight picture books with snowy themes sure to delight. </p>
 		</div>
 			<div class="clearB"></div>
-</div>
+</div>-->
 
 </div>
 <!-- end remote FourPic -->
-		
+
+<div id="taboola-bottom-main-column-mix"></div>
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({ mode:'autosized-generated-2r', container:'taboola-bottom-main-column-mix', placement:'bottom-main-column', target_type:'mix'});
+</script>
+
+	
 
 <script type="text/javascript">
 	jQuery( function() {
@@ -670,29 +696,26 @@ google_feedback = 'on';
 	
 								  <div id="sharetools">
 					<dl class="sharebottom">
-										  <!-- Using key /wtop/2018395/comment_count/2243660 - 275c984f8077e06f2601c218c7682c68 -->
-<!-- Comment count not in memcache. Fetching -->
-<!-- Fetched comment count. Took 0.0011579990387 seconds -->
-						<!--<dt class="comment"><a href="?nid=715&amp;sid=2243660&amp;comments=1#postit">Comment</a></dt>-->
-						<dt class="comment"><a href="/?nid=715&amp;sid=2243660&amp;comments=1#postit">Comment</a></dt>
-						<dd>0</dd>
-					  										  <!-- Data not in memcache. Fetching -->
+											<dt class="comment"><a href="/?nid=715&amp;sid=2243660&amp;comments=1">Comment</a></dt>
+						<dd><a data-disqus-identifier="wtop-2243660" href="/?nid=715&amp;sid=2243660&amp;comments=1#disqus_thread"></a>
+						  <!----></dd>
+										  <!-- Data not in memcache. Fetching -->
 <!-- facebook.shares rank not in memcache. Fetching -->
-<!-- Fetched facebook.shares rank. Took 0.00115013122559 seconds -->
+<!-- Fetched facebook.shares rank. Took 0.00165510177612 seconds -->
 <!-- facebook.likes rank not in memcache. Fetching -->
-<!-- Fetched facebook.likes rank. Took 0.000391960144043 seconds -->
+<!-- Fetched facebook.likes rank. Took 0.000825881958008 seconds -->
 <!-- tweets rank not in memcache. Fetching -->
-<!-- Fetched tweets rank. Took 0.000534772872925 seconds -->
+<!-- Fetched tweets rank. Took 0.000504970550537 seconds -->
 <!-- rank rank not in memcache. Fetching -->
-<!-- Fetched rank rank. Took 0.000399827957153 seconds -->
+<!-- Fetched rank rank. Took 0.000844955444336 seconds -->
 						<!--<dt class="facebook"><a href="#">Like</a></dt><dd>0</dd>-->
-						<dt class="facebook"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.wtop.com%2F715%2F2243660%2FPrivacy-Policy&amp;t=Privacy%20Policy">Share</a></dt>
+						<dt class="facebook"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwtop.com%2F715%2F2243660%2FPrivacy-Policy&amp;t=Privacy%20Policy">Share</a></dt>
 						<dd>0</dd>
 	
-											    					    <dt class="retweet"><a href="http://twitter.com/?status=Privacy%20Policy%20http%3A%2F%2Fwww.wtop.com%2F%3Fnid%3D715%26sid%3D2243660%20via%20%40WTOP">Tweet</a></dt><dd>0</dd>
+											    					    <dt class="retweet"><a href="http://twitter.com/?status=Privacy%20Policy%20http%3A%2F%2Fwtop.com%2F%3Fsid%3D2243660%26nid%3D715%20via%20%40WTOP">Tweet</a></dt><dd>0</dd>
 											  					  <!--<dt class="print"><a href="javascript:window.print()">Print</a></dt>-->
 					  <dt class="print"><a href="javascript: printStory(1035,2243660);">Print</a></dt>
-					  <dt class="email"><!--<a href="/regions/email_article.php?lastpage=http%3A%2F%2Fwww.wtop.com%2F%3Fnid%3D715%26sid%3D2243660" 
+					  <dt class="email"><!--<a href="/regions/email_article.php?lastpage=http%3A%2F%2Fwtop.com%2F%3Fsid%3D2243660%26nid%3D715" 
 										 target="_blank">Email</a>-->
 						<a class="emailArticle" href="javascript: void(0);" target="_blank">Email</a>
 						</dt>
@@ -777,7 +800,6 @@ google_feedback = 'on';
 
   <div class="clearB"></div>
 	  <div id="content-lower">
-	
 		<div id="T2grid-fullwidth">
 		  <!--  Begin FullWidthUpper -->
 		  		  <!--  End FullWidthUpper -->
@@ -837,20 +859,20 @@ jQuery(function(){
 
 
 
-<!-- 1369907093 -->
-<!-- 1369960008 -->
-<!-- 1369934984 -->
+<!-- 1386677798 -->
+<!-- 1386711978 -->
+<!-- 1386714000 -->
 		
 				<!--  -->
 		<script type="text/javascript">
 		// set the masthead background image to night or day.
 				jQuery(function(){
-        	//jQuery("#wrapper").css('background', '#FFFFFF url("/images/masthead-background-day.png") repeat-x');
+        	//jQuery("#wrapper").css('background', '#FFFFFF url("/images/masthead-background-night.png") repeat-x');
 		});
 				</script>
 <style type="text/css">
 #wrapper {
-	background: #FFFFFF url("/images/masthead-background-day.png") repeat-x;
+	background: #FFFFFF url("/images/masthead-background-night.png") repeat-x;
 }
 </style>
 
@@ -908,14 +930,14 @@ jQuery( function() {
 </script>
 
 
-	<!-- 01 -->
-			<div id="masthead" style="background: url('/images/weather/masthead/clear.png') no-repeat 30px 0 transparent">
-				<div id="masteheadDateTime"><span id="showTime"></span>, May 30, 2013</div>
+	<!--  -->
+			<div id="masthead" style="background: url('/images/weather/masthead/nt_partlysunny.png') no-repeat 30px 0 transparent">
+				<div id="masteheadDateTime"><span id="showTime"></span>, December 10, 2013</div>
         	<a href="/"><div id="logo"></div></a>
 			<div id="printlogo"><img src="/images/logo-masthead.png"></div>
-<!-- memory usage before weather-rel 27774672 -->
+<!-- memory usage before weather-rel 28256296 -->
 			<div id="weather-rel">
-				<div id="weather-container-day">
+				<div id="weather-container-night">
                                 <!-- This is empty because we float the div below in it to work with the transparency -->
 				</div>
 <style type="text/css">
@@ -984,28 +1006,28 @@ width: 120px;
 				<div id="weather-inner">
 					<div id="weather-today">
 													<div class="location">Washington, DC</div>
-												<div class="today-now">Now: 83 °F</div>
-						<span class="today">Today: </span>
-																								<span class="today-info rollinfo" title="Mostly sunny, hot and humid">Mostly sunny, hot and humid</span><br>
+												<div class="today-now">Now: 39 °F</div>
+						<span class="today">Tonight: </span>
+																								<span class="today-info rollinfo" title="Clearing and colder">Clearing and colder</span><br>
 
-						<span class="today-fore" style="padding-bottom: 3px;">Hi: <strong>93 °F</strong> | Lo: <strong>71 °F</strong></span>
+						<span class="today-fore" style="padding-bottom: 3px;">Hi: <strong>32 °F</strong> | Lo: <strong>20 °F</strong></span>
 					</div>
 					
 					<div id="weather-forecast">
 						<div style="float: left">
 																										 
-                                                    <div><span class="rollinfo" title="Mostly sunny, hot and humid"><img src="/images/weather/icons/mostlysunny.png"></span></div>
+                                                    <div><span class="rollinfo" title="Mostly sunny and cold"><img src="/images/weather/icons/mostlysunny.png"></span></div>
+																										                                                    <div style="color: white; font:12px Helvetica; font-weight: bold; text-align: center;">Wed</div>
+						</div>
+						<div style="float: left">
+																										 
+                                                    <div><span class="rollinfo" title="Mostly sunny, brisk and cold"><img src="/images/weather/icons/mostlysunny.png"></span></div>
+																										                                                    <div style="color: white; font:12px Helvetica; font-weight: bold; text-align: center;">Thu</div>
+						</div>
+						<div style="float: left">
+																										 
+                                                    <div><span class="rollinfo" title="Mostly sunny"><img src="/images/weather/icons/mostlysunny.png"></span></div>
 																										                                                    <div style="color: white; font:12px Helvetica; font-weight: bold; text-align: center;">Fri</div>
-						</div>
-						<div style="float: left">
-																										 
-                                                    <div><span class="rollinfo" title="Clouds and sun, hot and humid"><img src="/images/weather/icons/partlysunny.png"></span></div>
-																										                                                    <div style="color: white; font:12px Helvetica; font-weight: bold; text-align: center;">Sat</div>
-						</div>
-						<div style="float: left">
-																										 
-                                                    <div><span class="rollinfo" title="A couple of afternoon t-storms possible"><img src="/images/weather/icons/partlycloudy.png"></span></div>
-																										                                                    <div style="color: white; font:12px Helvetica; font-weight: bold; text-align: center;">Sun</div>
 						</div>
 						<div class="clearB"></div>
 						<div id="weather-info">
@@ -1021,7 +1043,7 @@ width: 120px;
     <input type="image" src="/images/customizeweather_button.png" height="25" width="131" style="margin: 3px 0px 0px 3px">
 	</form>
 </div>
-<!-- memory usage after weather-customize before weather-location-pick 27826136 -->
+<!-- memory usage after weather-customize before weather-location-pick 28303776 -->
 
 <div style="display:none">
 	<div id="weather-location-pick">
@@ -1030,7 +1052,7 @@ width: 120px;
 		<ul>
                 </ul>
 	</div>
-<!-- memory usage after weather-location-pick before weather-location-error 27826136 -->
+<!-- memory usage after weather-location-pick before weather-location-error 28303776 -->
 	<div id="weather-location-error">
     	<h2>Your Search Did Not Return Any Results</h2>
 		<p>Please try searching again using a valid zip code or city and state.</p>
@@ -1050,9 +1072,9 @@ width: 120px;
 
 				</div>
 			</div>
-<!-- memory usage after weather-rel before user 27826136 -->
+<!-- memory usage after weather-rel before user 28303776 -->
 			<div id="user">
-				<div id="user-day">
+				<div id="user-night">
                 <!-- This is empty because we float the div below in it to work with the transparency -->
 				
 					<div id="user-inner">
@@ -1073,24 +1095,32 @@ width: 120px;
 				</div>
 
 			</div>
-<!-- memory usage after user 27826136 -->
+<!-- memory usage after user 28303776 -->
 
 
 
 
 		</div>
 		
-<!-- memory usage bottom weather block 27826136 -->
-	<!-- memory usage after weather block bottom location block 27826136 -->
-<!-- memory usage after location block 27826136 -->
+<!-- memory usage bottom weather block 28303776 -->
+	<!-- memory usage after weather block bottom location block 28303776 -->
+<!-- memory usage after location block 28303776 -->
 
 
 <!--googleoff: all-->
 <div id="menu-prime">
-<!-- memory usage before main-menu 27826136 -->
+<!-- memory usage before main-menu 28303776 -->
+ 
+  
+<style type="text/css">
+ul.main-menu li { padding: 0 6px .04em 4px; }
+ul.main-menu li a,ul.main-menu li a:hover{ padding:9px 15px 7px 8px;}
+ul.main-menu li.home a { padding:9px 8px 7px 8px;}
+</style>
+
  <ul class="main-menu">
 	<li class="first home active"><a href="/"><img src="/images/icon-home.png" border="0"></a></li>
-	<li class="drop"><a href="/?nid=706">Listen</a>
+	<li class="drop"><a href="/?nid=706">Listen</a> <!-- nid 706 -->
 		<ul class="dropdown">
 			<li><a href="/?nid=706">Listen Live</a></li>
 			<li><a href="/?nid=705">Program Schedule</a></li>
@@ -1127,8 +1157,9 @@ width: 120px;
 			<!--<ul class="dropdown">
 				<li><a href="http://wtop.com/?sid=2193422&nid=17">Local</a></li>
 				<li><a href="http://wtop.com/?sid=3088810&nid=1208">National</a></li>
-			</ul></li>-->
-		</li><li><a href="/?nid=14">Business</a>
+			</ul>-->
+		</li>
+		<li><a href="/?nid=14">Business</a>
 			<ul class="dropdown">
 				<li><a href="/?nid=14">Business Section</a></li>
 				<li><a href="/?sid=&amp;nid=627">Business Story Stream</a></li>
@@ -1139,26 +1170,25 @@ width: 120px;
 			</ul>
 		</li>
 			<!--<li><a href="/?nid=244">WBJ</a></li>-->
-		<li><a href="/?nid=15">Tech</a>
+		<li><a href="/?nid=1365">Tech</a>
 			<ul class="dropdown">
-				<li><a href="/?sid=2245450&amp;nid=261">Website of the Week</a></li>
-				<li><a href="http://www.wtop.com/?sid=3278606&amp;nid=1316">Technology Insights</a></li>
+								<li><a href="http://www.wtop.com/?sid=3278606&amp;nid=1316">Technology Insights</a></li>
 			</ul>
 		</li>
 		<li><a href="/?nid=18">Government</a>
 			<ul class="dropdown">
 				<li><a href="/?sid=&amp;nid=17">Election News</a></li>
-			</ul></li>
-		<li><a href="/?sid=2266777&amp;nid=883">Science</a></li>
+			</ul>
+		</li>
+		<li><a href="/?nid=884">Science</a></li>
 		<li><a href="/?nid=33">Entertainment</a></li>
 		<li><a href="/?nid=633">Watercooler</a></li>
 		<li><a href="/?nid=23">Education</a></li>
 		<li><a href="/?sid=2185984&amp;nid=719">NewsQ</a></li>
 		<li><a href="/?nid=193">Commentary &amp; Analysis</a>
 			<ul class="dropdown">
-			<li><a href="/?nid=199">Core Values</a></li>
-			<li><a href="/?nid=204">WTOP Talk Back</a></li>
-		
+				<li><a href="/?nid=199">Core Values</a></li>
+				<li><a href="/?nid=204">WTOP Talk Back</a></li>
 			</ul>
 		</li>
 		<!--<li><a href="/?nid=670">Series</a></li>-->
@@ -1175,20 +1205,55 @@ width: 120px;
 		<li><a href="/?nid=653">Sprawl &amp; Crawl</a></li>
 		<li><a href="/?nid=1014">Weekend Wake Up Call</a></li>
 		<li><a href="/?sid=3279502&amp;nid=1318">TicketBuster</a></li>
-		<li><a href="/1104/2857399/Beach-Traffic-Weather?location=Ocean+City%2C+MD">Beach Traffic &amp; Weather</a></li>
-		</ul>
+				</ul>
 	</li>
 	<li class="drop"><a href="/?nid=4">Weather</a>
 		<ul class="dropdown">
 		<li><a href="/?nid=4">Main</a></li>
 		<li><a href="/?nid=742">Radars</a></li>
 		<li><a href="/?nid=667">Closing &amp; Delays</a></li>
-		<li><a href="/?nid=768">Doug Hill's First Alert Forecast</a></li>
-		<li><a href="/1104/2857399/Beach-Traffic-Weather?location=Ocean+City%2C+MD">Beach Traffic &amp; Weather</a></li>
+		<li><a href="/?nid=768">Doug Hill's Storm Watch 7</a></li>
+				</ul>
+	</li>
+	<li class="drop"><a href="/?nid=6">Living</a>
+		<ul class="dropdown">
+			<li><a href="/?nid=6">Main</a></li>
+			<li><a href="/?nid=1225">Lifestyle</a></li>
+			<li><a href="/?nid=16">Health </a></li>
+			<li><a href="/?nid=33">Entertainment</a></li>
+			<li><a href="/?nid=1227">Food</a></li>
+			<li><a href="/?nid=1231">Arts</a></li>
+			<li><a href="/?nid=1229">Style</a></li>
+			<li><a href="/?sid=3477216&amp;nid=1389">Travel</a></li>
+			<li><a href="/?sid=&amp;nid=1391">Fitness</a></li>
+			<li><a href="/?nid=35">Garden Plot</a></li>
+			<li><a href="/?nid=1062">Beer of the Week</a></li>
+			<li><a href="/?nid=687">Wine of the Week</a></li>
+			<li><a href="/?nid=1059&amp;sid=2739765">Fraley on Film</a></li>
+			<li><a href="/?nid=675&amp;sid=2435462">Freebies</a></li>
+			<li><a href="/?sid=2190543&amp;nid=668">Photo Galleries</a></li>
+			<li><a href="/?nid=40">Events</a></li>
+			<li><a href="/?nid=38">Contests</a></li>
+			<li><a href="/?nid=39">Charities</a></li>
+			<li><a href="/?sid=2229519&amp;nid=748">In your neighborhood</a></li>
+			<li><a href="/?nid=34">Bob Madigan</a></li>
 		</ul>
 	</li>
-	<li class="drop"><a href="/?nid=5">Sports</a>
+	<li class="drop"><a href="/?nid=1365">Tech</a>
 		<ul class="dropdown">
+			<li><a href="/?nid=1365">Main</a></li>
+			<li><a href="/?nid=256">Tech Stories</a></li>
+			<li><a href="/?nid=884">Science</a></li>
+			<li><a href="/?nid=1368">Consumer Tech</a></li>
+			<li><a href="http://www.federalnewsradio.com/?nid=56">Fed Tech</a></li>
+			<li><a href="/?nid=1369">Mobile</a></li>
+			<li><a href="/?nid=968">Apps</a></li>
+			<li><a href="/?nid=1371">Social Media</a></li>
+			<li><a href="/?sid=3278606&amp;nid=1316">Technology Insights</a></li>
+		</ul>
+	</li>
+	<li class=""><a href="/?nid=5">Sports</a>
+		<ul class="" style="display: none;">
 		<li><a href="/?nid=5">Main</a></li>
 		<li><a href="/?nid=356">NFL</a>
 			<ul class="dropdown">
@@ -1224,49 +1289,18 @@ width: 120px;
 		<li><a href="/?nid=31">Tennis</a></li>
 		<li><a href="/?sid=2962734&amp;nid=1172">Olympics</a></li>
 		<li><a href="/?sid=2208487&amp;nid=32">Other Sports</a></li>
-		<li><a href="http://www.monumentalnetwork.com/">Monumental Network</a></li>
 		</ul>
 	</li>
-	
-	<li class="drop"><a href="/?nid=6">Living</a>
-		<ul class="dropdown">
-			<li><a href="/?nid=6">Main</a></li>
-			<li><a href="/?nid=33">Entertainment</a></li>
-			<li><a href="/?nid=16">Health</a></li>
-			<li><a href="/?nid=1227">Food</a>
-				<ul class="dropdown">
-					<li><a href="http://www.wtop.com/?sid=&amp;nid=687">Wine of the Week</a></li>
-					<li><a href="http://wtop.com/?nid=1062">Beer of the Week</a></li>
-				</ul>
-			</li>
-			<li><a href="/?nid=1225">Lifestyle</a></li>
-			<li><a href="/?nid=545">TV</a></li>
-			<li><a href="/?nid=555">Movies</a></li>
-			<li><a href="/?nid=550">Music</a></li>
-			<li><a href="/?nid=1231">Arts</a></li>
-			<li><a href="?sid=&amp;nid=1229">Style</a></li>
-			<li><a href="/?nid=675&amp;sid=2435462">Freebies</a></li>
-			<li><a href="/?nid=1059&amp;sid=2739765">Fraley on Film</a></li>
-			<li><a href="/?nid=35">Garden Plot</a></li>
-			<li><a href="/?nid=34">Bob Madigan</a></li>
-			<li><a href="/?nid=685">Health and Home</a></li>
-			<li><a href="/?sid=2264304&amp;nid=878">Dr. Oz</a></li>
-			<li><a href="/?sid=2844502&amp;nid=1099">Dr. Drew</a></li>
-			<li><a href="/?sid=2229519&amp;nid=748">In Your Neighborhood</a></li>
-			<li><a href="/?nid=40">Events</a></li>
-			<li><a href="/?nid=38">Contests</a></li>
-			<li><a href="/?nid=39">Charities</a></li>
-			<li><a href="/?nid=634">News Team</a></li>
-			<li><a href="/?sid=2190543&amp;nid=668">Photo Galleries</a></li>
-		</ul>
-	</li>
+
+
 	<li class="othermedia"><a href="http://www.powerjobs.com"><img src="/images/partners/powerjobs-logo-mainmenu.png" alt="PowerJobs"></a></li>
 	<li class="othermedia"><a href="/public/member/signup">Alerts</a></li>
 	<li class="socialmedia"><a href="http://www.facebook.com/wtopnews"><img src="/images/social-media/facebook-icon-mainmenu.png" alt="Facebook"></a></li>
 	<li class="socialmedia last"><a href="/?sid=&amp;nid=710"><img src="/images/social-media/twitter-icon-mainmenu.png" alt="Twitter"></a></li>
-	
+
   </ul>
-<!-- memory usage after main-menu and hottopic before hotnav 27826136 -->
+<!-- memory usage after main-menu and hottopic before hotnav 28303776 -->
+ 		
 
 <div id="hotnav">
 	<div id="hotnav-left">
@@ -1315,38 +1349,40 @@ width: 120px;
 		
 </style>
 
-		<div class="onair" style="margin-top: 5px">
+<!-- /usr/local/export/dc2/wtop/js/json/onair.js -->		<div class="onair" style="margin-top: 5px">
 			<div class="comingup">
 								<img src="/images/layout/onair-arrow.png" style="position: absolute; top: 16px; left: 1px;">
-				<h3>Coming up on WTOP 103.5 FM  today at 1:42 pm:</h3>
+				<h3>Coming up on WTOP 103.5 FM  today at 6:11 pm:</h3>
 			</div>
-			<p class="onair-line-1"><span style="font-weight: bold;">The Data Doctors:</span> Getting out from under an email avalanche with "bankruptcy"</p>
+			<p class="onair-line-1"><a href="/?nid=706"><span style="font-weight: bold;">Core Values:</span> elected scofflaws</a></p>
 			
 		</div>
 	</div>
 	<div id="hotnav-right-new" data-vr-zone="trending">
 		<ul>
 			<li class="trending">Trending:</li>
-<!-- memory usage before hottopic 27846752 -->
-	<!-- memory usage before nav_tree 28036656 -->
-<!-- memory usage before nav_tree 30250552 -->
+<!-- memory usage before hottopic 28303776 -->
+	<!-- memory usage before nav_tree 28517896 -->
+<!-- memory usage before nav_tree 30853960 -->
 				<!--  -->
-											<li class="4 trending-topic" data-vr-contentbox=""><a href="http://wtop.com/?nid=864&amp;sid=3339933">Spelling Bee</a></li>
-											<li class="4 trending-topic" data-vr-contentbox=""><a href="http://wtop.com/109/3341088/Snakes-fall-from-trees-in-DC-park">D.C. Snakes</a></li>
-											<li class="4 trending-topic" data-vr-contentbox=""><a href="http://wtop.com/267/3340600/Surprising-culprits-of-foodborne-illnesses">Food Illness</a></li>
-											<li class="4 trending-topic last" data-vr-contentbox=""><a href="http://wtop.com/220/3341112/Sealed-with-a-Kiss">French Kiss</a></li>
+											<li class="4 trending-topic" data-vr-contentbox=""><a href="http://www.wtop.com/?nid=667">Closings &amp; Delays</a></li>
+											<li class="4 trending-topic" data-vr-contentbox=""><a href="http://www.wtop.com/220/3521479/Life-under-apartheid-in-South-Africa">Apartheid Memories</a></li>
+											<li class="4 trending-topic" data-vr-contentbox=""><a href="http://www.wtop.com/904/3520946/Space-Place-Some-perspective-and-gratitude-for-NASA">NASA</a></li>
+											<li class="4 trending-topic last" data-vr-contentbox=""><a href="http://www.wtop.com/363/3521486/Shanahan-might-sit-RG3-for-rest-of-year">RG3</a></li>
 					</ul>
 	</div>
 </div>
-<!-- memory usage after hotnav before weather-customize 30255440 -->
-
-</div><!-- // menu-prime -->
+	
+	
+	
+	<!-- memory usage after hotnav before weather-customize 30861944 -->
+ </div><!-- // menu-prime -->
 
 <!--googleon: all-->
 
 
 
-<!-- memory usage after weather-location-error 30255440 -->
+<!-- memory usage after weather-location-error 30861944 -->
 <!--  -->
   </div>
 </div>          
@@ -1394,12 +1430,11 @@ width: 120px;
 <!-- begin ad tag -->
 	<div style="display: none;">bnv.wtop.insidewtop/main;tile=5;pos=bottom;sz=728x90;ord=</div>
 <script type="text/javascript">
+
 //<![CDATA[
-//ord=Math.random()*10000000000000000;
-//ord=123456789;
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/bnv.wtop.insidewtop/main;tile=5;pos=bottom;sz=728x90;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/bnv.wtop.insidewtop/main;tile=5;pos=bottom;sz=728x90;ord=2058004361033889.5?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/bnv.wtop.insidewtop/main;tile=5;pos=bottom;sz=728x90;ord=5833208636772171?"></script>
 <noscript><a href="http://ad.doubleclick.net/adj/bnv.wtop.insidewtop/main;tile=5;pos=bottom;sz=728x90;ord==123456789?" target="_blank" ><img src="http://ad.doubleclick.net/adj/bnv.wtop.insidewtop/main;tile=5;pos=bottom;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
 <!-- end ad tag -->
 </div>
@@ -1407,6 +1442,38 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
             <p>Copyright © 2013 by WTOP. All rights reserved.<!--AP material . 2013 Associated reserved. This material may not be published, broadcast, rewritten, or redistributed.--></p>
                 </div>
 <div class="nocontent">
+<!-- begin Bizo code -->
+<script type="text/javascript">
+  _bizo_data_partner_id = "5041";
+
+_bizo_data_partner_title = ""
+_bizo_data_partner_company = ""
+_bizo_data_partner_email = '' 
+
+</script>
+<script type="text/javascript">
+(function() {
+  var s = document.getElementsByTagName("script")[0];
+  var b = document.createElement("script");
+  b.type = "text/javascript";
+  b.async = true;
+  b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+  s.parentNode.insertBefore(b, s);
+})();
+</script>
+<noscript>
+  <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=5041&fmt=gif" />
+</noscript>
+<!-- end Bizo code -->
+
+<!-- begin Taboola code-->
+<script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({ article: 'auto' });
+</script>
+<script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/wtop/loader.js"></script>
+<!-- end Taboola code-->
+
 <!-- Begin comScore Tag -->
 <script>
   var _comscore = _comscore || [];
@@ -1418,7 +1485,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
   })();
 </script>
 <noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=16067480&cv=2.0&cj=1" />
+  <img src="//b.scorecardresearch.com/p?c1=2&c2=16067480&cv=2.0&cj=1" />
 </noscript>
 <!-- End comScore Tag -->
 
@@ -1457,7 +1524,7 @@ http://www.omniture.com -->
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 s.pageName="Privacy Policy"
-s.server="m3"
+s.server="m17"
 s.channel="Inside WTOP"
 s.pageType=""
 s.prop1=""
@@ -1465,8 +1532,8 @@ s.prop2=""
 s.prop3="WTOP Policies"
 s.prop4="Policy Documents"
 s.prop5=""
-s.prop7="1:00PM"
-s.prop8="Thursday"
+s.prop7="3:00PM"
+s.prop8="Tuesday"
 s.prop9="Weekday"
 s.prop11="2243660"
 s.prop12="Privacy Policy"
@@ -1506,8 +1573,8 @@ _vrq.push(['track', function(){}]);
   })();
 //-->
 </script>
+<script type="text/javascript" src="/js/comment_count.js"></script>
 
 
 
-
-<!-- session: 6bc65d5ea885b49a3fb5ae993f9dee1a--></div></div></body></html>
+</div></div></body></html>
