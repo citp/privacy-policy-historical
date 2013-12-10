@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ukfamily.co.uk privacy policy that was archived on 2013-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130608062551id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ukfamily.co.uk privacy policy that was archived on 2013-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131210010914id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -421,14 +421,6 @@ cto.track();//Required. Do not remove.
           	
   }
   
-  // used on modify invite page
-  function remove() {  
-	Boxy.confirm('<div id="jserror"><p></p></div>', function() {
-	  		document.member_info_form.flag.value="remove";
-  			document.member_info_form.submit();
-		});
-  }  
-  
   function expandListSection(checkBox){
 	  
 	    var section = document.getElementsByName("list_section");
@@ -443,6 +435,26 @@ cto.track();//Required. Do not remove.
 		}
 	    
   }  
+  
+  // used on modify invite page
+  
+  function removeMember() {  
+	  if( typeof Boxy!='undefined' ) {
+			Boxy.confirm('<div id="jserror"><p></p></div>', function() {
+			  		document.member_info_form.flag.value="remove";
+		  			document.member_info_form.submit();
+				});	  	  
+	  }else {
+		  if (confirm('')) {
+			  	document.member_info_form.flag.value="remove";
+		  		document.member_info_form.submit();
+		  	} else {
+		  		//this resets the button state and lets them still respond for 
+		  		//onmouseover and onmouseout
+		  		commit=0;
+		  	}
+	  } 
+  } 
 
 </script>
 
